@@ -1,0 +1,26 @@
+URI	Label	Support	True_positives	False_positives	False_negatives	Precision	Recall	F1_score
+https://w3id.org/rhonda/polmat/n01.1so.1	Religionsangelegenheiten	57	55	172	2	0.2422907488986784	0.9649122807017544	0.38732394366197187
+https://w3id.org/rhonda/polmat/n01.1so.2	Bevölkerungs- und Standeswesen, Herrschaftsverfassung	24	21	159	3	0.11666666666666667	0.875	0.20588235294117646
+https://w3id.org/rhonda/polmat/n01.1so.3	Randgruppen	42	38	123	4	0.2360248447204969	0.9047619047619048	0.3743842364532019
+https://w3id.org/rhonda/polmat/n01.1so.4	Aufwand und Luxus	12	10	78	2	0.11363636363636363	0.8333333333333334	0.19999999999999998
+https://w3id.org/rhonda/polmat/n01.1so.5	Sittlichkeit, Ehe- und Familie, Sexualität	8	8	113	0	0.06611570247933884	1.0	0.12403100775193798
+https://w3id.org/rhonda/polmat/n01.1so.6	Vormundschaftswesen	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.7	Erbschaftswesen	6	5	15	1	0.25	0.8333333333333334	0.3846153846153846
+https://w3id.org/rhonda/polmat/n01.2pso.1	Vergnügungen & Öffentliche Leichtfertigkeit	17	17	55	0	0.2361111111111111	1.0	0.38202247191011235
+https://w3id.org/rhonda/polmat/n01.2pso.2	Öffentliche Sicherheit, Kriminalität	130	127	208	3	0.37910447761194027	0.9769230769230769	0.5462365591397849
+https://w3id.org/rhonda/polmat/n01.2pso.3	Zensur und Buchdruck	11	9	79	2	0.10227272727272728	0.8181818181818182	0.18181818181818182
+https://w3id.org/rhonda/polmat/n01.2pso.4	Policey der Verwaltung und Justiz	52	51	155	1	0.24757281553398058	0.9807692307692307	0.3953488372093023
+https://w3id.org/rhonda/polmat/n01.3prh.1	Gesundheitswesen	12	10	100	2	0.09090909090909091	0.8333333333333334	0.16393442622950818
+https://w3id.org/rhonda/polmat/n01.3prh.2	Sozialwesen	22	19	57	3	0.25	0.8636363636363636	0.3877551020408163
+https://w3id.org/rhonda/polmat/n01.3prh.3	Erziehungswesen ; Kultur	8	7	47	1	0.12962962962962962	0.875	0.22580645161290322
+https://w3id.org/rhonda/polmat/n01.4esp.1	Landwirtschaft	27	25	107	2	0.1893939393939394	0.9259259259259259	0.3144654088050315
+https://w3id.org/rhonda/polmat/n01.4esp.2	Forst- und Bodennutzung	28	26	64	2	0.28888888888888886	0.9285714285714286	0.44067796610169485
+https://w3id.org/rhonda/polmat/n01.4esp.3	 Produktion	5	4	23	1	0.14814814814814814	0.8	0.25
+https://w3id.org/rhonda/polmat/n01.4esp.4	Arbeitsordnung	2	1	47	1	0.020833333333333332	0.5	0.039999999999999994
+https://w3id.org/rhonda/polmat/n01.4esp.5	Handwerk und Gewerbe	41	34	146	7	0.18888888888888888	0.8292682926829268	0.30769230769230765
+https://w3id.org/rhonda/polmat/n01.4esp.6	Handel und Dienstleistungen	148	144	162	4	0.47058823529411764	0.972972972972973	0.6343612334801763
+https://w3id.org/rhonda/polmat/n01.4esp.7	Geld- und Kreditwesen	50	48	128	2	0.2727272727272727	0.96	0.42477876106194684
+https://w3id.org/rhonda/polmat/n01.5ldp.1	Wasser	3	2	49	1	0.0392156862745098	0.6666666666666666	0.07407407407407407
+https://w3id.org/rhonda/polmat/n01.5ldp.2	Straßen, Verkehr und Post	6	6	71	0	0.07792207792207792	1.0	0.14457831325301204
+https://w3id.org/rhonda/polmat/n01.5ldp.3	Grundstücks- und Bodenordnung	9	5	22	4	0.18518518518518517	0.5555555555555556	0.2777777777777778
+https://w3id.org/rhonda/polmat/n01.5ldp.4	Bauwesen und Infrastruktur	3	1	25	2	0.038461538461538464	0.3333333333333333	0.06896551724137931

@@ -1,0 +1,137 @@
+URI	Label	Support	True_positives	False_positives	False_negatives	Precision	Recall	F1_score
+https://w3id.org/rhonda/polmat/n01.1so.1.b	Feiertage / Religiöse Feste	14	0	0	14	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.1.c	Geistlichkeit	22	2	3	20	0.4	0.09090909090909091	0.14814814814814814
+https://w3id.org/rhonda/polmat/n01.1so.1.d	Gotteslästerung	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.1.e	Kirchenorganisation	10	0	0	10	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.1.f	Kirchenzucht	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.1.g	Klosterwesen/Orden	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.1.h	Konfession	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.1.i	Religiöse Unterweisung	8	0	0	8	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.1.j	Sekten und Ketzerei	9	0	0	9	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.1.k	Sonntagsheiligung	8	0	0	8	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.2.b	Aufenthalt	8	0	1	8	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.2.c	Auswanderung	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.2.f	Bürgerrecht	2	1	0	1	1.0	0.5	0.6666666666666666
+https://w3id.org/rhonda/polmat/n01.1so.2.g	Einwanderung/Ansiedlung	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.2.h	Frondienste und Dienstpflichten	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.2.i	Gemeindeverfassung	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.2.k	Huldigung	1	1	0	0	1.0	1.0	1.0
+https://w3id.org/rhonda/polmat/n01.1so.2.l	Leibeigenschaft	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.2.m	Stadtverfassung	5	0	0	5	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.2.n	Ständeordnung / Standeswesen	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.3.a	Fahrende Leute	33	0	0	33	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.3.b	Juden	9	0	1	9	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.3.c	Zigeuner	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.4.a	Aufwand / Luxus	7	0	0	7	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.4.b	Kleidung	7	2	1	5	0.6666666666666666	0.2857142857142857	0.4
+https://w3id.org/rhonda/polmat/n01.1so.5.a	Bigamie/Doppelehen	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.5.b	Ehebruch, Öffentlich	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.5.c	Ehescheidung	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.5.d	Eheschließung	4	0	0	4	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.5.e	Familie / Eheführung	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.5.h	Inzest	0	0	1	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.5.j	Prostitution/Kuppelei	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.5.k	Uneheliche Schwangerschaft / Kinder	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.5.l	Unzucht	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.6.a	Vormundschaftswesen	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.1so.7.a	Erbschaftswesen	6	0	0	6	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.1.a	Aberglaube	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.1.b	Glücksspiel	4	0	0	4	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.1.c	Grober Unfug	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.1.d	Müßiggang/Verschwendung	5	0	0	5	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.1.e	Schauspiel	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.1.f	Sperrstunde	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.1.i	Umzüge/Feste	10	0	0	10	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.1.j	Zutrinken/Trunksucht	7	0	0	7	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.b	Duell	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.c	Ehrverletzung	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.d	Eigentumsschutz	5	0	0	5	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.e	Gartknechte	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.f	Gesellschaften/Vereine	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.g	Gewalttaten	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.h	Hexerei/Zauberei	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.i	Kriegslauf/Kriegsdienst	16	0	0	16	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.j	Landfriedensbruch / Stadtfriede	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.k	Militär/Soldaten	84	0	0	84	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.l	Sicherung Stadt / Land	32	0	0	32	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.m	Unruhen	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.2.o	Waffenführung	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.3.a	Zensur	11	0	0	11	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.4.a	Amtsführung / Amtsmißbrauch	38	0	0	38	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.4.c	Aufsichtspflicht	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.4.d	Behördenzug	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.4.e	Bekanntmachungswesen	5	0	0	5	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.4.f	Forderungsvollstreckung	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.4.g	Gerichtsorganisation	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.2pso.4.k	Zuständigkeiten Gerichte	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.1.a	Apotheker	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.1.b	Ärzte	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.1.c	Bader / Barbiere / Wundärzte	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.1.d	Badewesen	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.1.e	Bestattungswesen / Leichenbehandlung	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.1.g	Heilmittelverkäufer / Quacksalber	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.1.h	Hygiene / Vorsorge	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.1.i	Kranke / Krankheiten	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.1.j	Seuchen	7	0	2	7	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.2.a	Armenwesen	15	0	0	15	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.2.b	Bettel	12	0	2	12	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.2.c	Hospital/Siechenhaus	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.2.e	Zucht- und Arbeitshäuser	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.3.b	Fachschulen	8	0	0	8	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.3.d	Schule	0	0	3	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.3prh.3.g	Zeitrechnung	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.b	Ernteordnung / Feudalabgaben	12	0	0	12	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.c	Feld	1	0	2	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.d	Flächenausbau/Landeskultur	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.e	Frevel	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.f	Güter	1	0	4	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.h	Produktion	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.i	Schädlingsbekämpfung	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.j	Tierhaltung/Tiernutzung	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.k	Tierseuchen	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.1.m	Weinbau	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.2.b	Bodenschätze	5	0	0	5	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.2.c	Fischfang	2	1	0	1	1.0	0.5	0.6666666666666666
+https://w3id.org/rhonda/polmat/n01.4esp.2.e	Heide/Moor	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.2.f	Jagd	11	1	1	10	0.5	0.09090909090909091	0.15384615384615385
+https://w3id.org/rhonda/polmat/n01.4esp.3.a	Manufakturen / Fabrik	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.3.c	Verlagswesen	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.4.a	Arbeiter/Tagelöhner	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.4.b	Arbeitslenkung/Arbeitsförderung	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.4.d	Dienstboten/Gesinde	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.4.e	Heimarbeit	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.5.b	Arbeitskräftebeschaffung / Arbeitsplatzvermittlung	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.5.c	Bäcker	29	0	0	29	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.5.d	Dorfhandwerk/Landhandwerk	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.5.f	Gold- & Silberschmiede	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.5.g	Handwerksmißstände	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.5.k	Mühlen / Müller	10	0	0	10	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.5.l	Preis- & Qualitätskontrolle	1	0	0	1	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.5.m	Anzahl Meister & Betriebe	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.5.n	Zunftwesen	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.a	Bewirtung / Gaststätten	9	0	0	9	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.b	Fürkauf	26	0	1	26	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.c	Handelsbedingungen	78	0	0	78	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.d	Hausierer / Krämer	9	0	0	9	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.e	Kaufleute	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.f	Konsumlenkung	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.g	Markt / Messe	23	0	0	23	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.i	Monopole	0	0	1	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.k	Ungeld/Akzise	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.6.o	Zölle	16	8	7	8	0.5333333333333333	0.5	0.5161290322580646
+https://w3id.org/rhonda/polmat/n01.4esp.7.a	Judenwucher	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.7.b	Konkurs/Bankbruch	4	0	0	4	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.7.c	Kreditwesen	10	0	0	10	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.7.d	Münzwesen	37	0	0	37	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.4esp.7.e	Wucher	2	1	4	1	0.2	0.5	0.28571428571428575
+https://w3id.org/rhonda/polmat/n01.5ldp.1.a	Brücken	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.5ldp.1.b	Brunnen	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.5ldp.1.d	Flüsse	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.5ldp.1.e	Gräben	0	0	3	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.5ldp.1.f	Schiffahrt	3	0	0	3	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.5ldp.1.g	Überschwemmungen und Wasserschäden	0	0	0	0	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.5ldp.2.a	Post	2	1	2	1	0.3333333333333333	0.5	0.4
+https://w3id.org/rhonda/polmat/n01.5ldp.2.b	Straßen und Plätze	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.5ldp.2.c	Verkehr	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.5ldp.4.b	Bauwesen	2	0	0	2	0.0	0.0	0.0
+https://w3id.org/rhonda/polmat/n01.5ldp.4.d	Feuerpolizei	1	0	0	1	0.0	0.0	0.0

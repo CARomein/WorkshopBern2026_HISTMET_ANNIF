@@ -20,7 +20,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.patches import Patch
 
-RESULTS_DIR = "results"
 LEVELS = ["level2", "level3", "level4"]
 LEVEL_SHADE = {"level2": 0.55, "level3": 0.27, "level4": 0.0}
 
@@ -63,10 +62,10 @@ def _f1_from_file(path, metric):
     raise ValueError("metric must be 'micro' or 'macro'")
 
 
-def _collect(year, metric):
+def _collect(path, year, metric):
     """Return {level: {model: F1}} for whichever result files exist."""
     scores = {lv: {} for lv in LEVELS}
-    folder = os.path.join(RESULTS_DIR, f"trans_{year}")
+    folder = os.path.join(path, f"trans_{year}")
     for path in glob.glob(os.path.join(folder, "*.json")):
         stem = os.path.splitext(os.path.basename(path))[0]
         parts = stem.split("_")
@@ -81,14 +80,14 @@ def _collect(year, metric):
     return scores
 
 
-def vis_results(metric):
+def vis_results(path, metric):
     """Plot backend performance, 2020 vs 2024, side by side.
     metric: 'micro' or 'macro'."""
     fig, axes = plt.subplots(1, 2, figsize=(14, 6), sharey=True)
     bar_w = 0.8 / 3
 
     for ax, year in zip(axes, ("2020", "2024")):
-        scores = _collect(year, metric)
+        scores = _collect(path, year, metric)
         models = sorted({m for lv in scores.values() for m in lv})
         x = np.arange(len(models))
 
@@ -117,6 +116,6 @@ def vis_results(metric):
     axes[0].set_ylabel(f"F1 score ({metric}-avg)")
     handles = [Patch(facecolor=_shade("#9E5BB0", LEVEL_SHADE[lv]), label=lv) for lv in LEVELS]
     axes[1].legend(handles=handles, loc="upper right", frameon=True)
-    fig.suptitle(f"Backend performance: 2020 vs 2024 ({metric}-avg)", fontweight="bold", fontsize=15)
+    fig.suptitle(f"Backend performance: 2020 vs 2024 ({metric}-avg) -(results from: {path})", fontweight="bold", fontsize=15)
     fig.tight_layout(rect=[0, 0, 1, 0.93])
     plt.show()

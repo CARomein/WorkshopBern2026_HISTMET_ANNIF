@@ -1,0 +1,6 @@
+URI	Label	Support	True_positives	False_positives	False_negatives	Precision	Recall	F1_score
+https://w3id.org/rhonda/polmat/n01.1so	Gesellschafts- und Sozialordnung. Religion	131	60	98	71	0.379746835443038	0.4580152671755725	0.41522491349480967
+https://w3id.org/rhonda/polmat/n01.2pso	Öffentliche Sicherheit und Ordnung	202	135	155	67	0.46551724137931033	0.6683168316831684	0.548780487804878
+https://w3id.org/rhonda/polmat/n01.3prh	Sozialwesen. Gesundheitswesen. Erziehungswesen. Kultur	42	14	77	28	0.15384615384615385	0.3333333333333333	0.21052631578947367
+https://w3id.org/rhonda/polmat/n01.4esp	Wirtschaftsordnung. Arbeits- und Berufsordnung	243	170	130	73	0.5666666666666667	0.6995884773662552	0.6261510128913444
+https://w3id.org/rhonda/polmat/n01.5ldp	Bodenordnung, Bauwesen, Grundstückswesen, Öffentliche Einrichtungen	20	11	134	9	0.07586206896551724	0.55	0.13333333333333333
