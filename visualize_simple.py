@@ -116,6 +116,6 @@ def vis_results(path, metric):
     axes[0].set_ylabel(f"F1 score ({metric}-avg)")
     handles = [Patch(facecolor=_shade("#9E5BB0", LEVEL_SHADE[lv]), label=lv) for lv in LEVELS]
     axes[1].legend(handles=handles, loc="upper right", frameon=True)
-    fig.suptitle(f"Backend performance: 2020 vs 2024 ({metric}-avg) -(results from: {path})", fontweight="bold", fontsize=15)
+    fig.suptitle(f"Backend performance: 2020 vs 2024 ({metric}-avg) - (results from: {path})", fontweight="bold", fontsize=15)
     fig.tight_layout(rect=[0, 0, 1, 0.93])
     plt.show()
