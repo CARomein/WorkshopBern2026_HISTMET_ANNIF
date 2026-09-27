@@ -1,0 +1,44 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 36/37
+# High similarity (>=80%): 36
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4491
+#facs_216_r2l5 beßerer Besorgung der Pfarr Gebäuden.
+#facs_28_r1l1 52
+#facs_165_r3l1 oll.
+#facs_216_r2l1 An alle Herren Amtleut und Schadnere
+#facs_216_r2l2 Deutsch und weltschen Lands, unter
+#facs_216_r2l3 welchen Collaturen stehen
+#facs_83_r3l9 wegen
+#facs_216_r2l5 beßerer Besorgung der Pfarr Gebäuden.
+#facs_216_r2l6 Schultheis und Rath. Aus Anlaß der
+#facs_216_r2l7 seit einicher Zeit daher Unseren gnädigen
+#facs_216_r2l8 Herren und Oberen Rath und Rurgerei¬
+#facs_216_r2l9 vorgetragenen nahmhaften und viel¬
+#facs_216_r2l10 faltigen Reparationen an den Pfarr=
+#facs_216_r2l11 Gebäuden dero Landen, haben hoch¬
+#facs_216_r2l12 Dieselben gewahret: daß viele Haupt¬
+#facs_216_r2l13 sächlich daher kommen, weilen diese¬
+#facs_216_r2l14 Pfarr Gebäude nicht besorgt und
+#facs_216_r2l15 behörig underhalten = sondern von denen
+#facs_216_r2l16 Beloohneren völlig vernachläßiget werden.
+#facs_216_r2l17 Derowegen Wir, zu bevorkommung
+#facs_216_r2l18 mehreren Schadens nothwendig erachtet,
+#facs_216_r2l19 Euch (gleich gegen die übrigen Amtleut
+#facs_216_r2l20 beschehen :/ behelchlichen aufzutragen,
+#facs_216_r2l21 acht zu haben, daß diejenigen Pfarr¬
+#facs_216_r2l22 Gebäus, so von der Collatur Eüeres Amts¬
+#facs_216_r2l23 abhangen, reinlich besorgt, und in gutem
+#facs_36_r1l2 Colle
+#facs_28_r1l1 52
+#facs_216_r4l2 stand erhalten werden; Welches ihr
+#facs_216_r4l3 bey erster Capitels Versamlung denen
+#facs_216_r4l4 Juraten und Pfarrern aufs neue einscharfen¬
+#facs_216_r4l5 und diese Unsere Verfügung, zu Eünrem
+#facs_216_r4l6 und Euerer Nachfahren verhalt, behörigen
+#facs_216_r4l7 Orts einschreiben laßen werdet. Datl. der
+#facs_216_r4l8 19en Decembl. 1780.
+#facs_178_r8l1 en

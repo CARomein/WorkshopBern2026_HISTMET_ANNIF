@@ -1,0 +1,26 @@
+Law ID: BER.01.001.3906
+Name: Getreydausfuhr verbotten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 15/15
+# High similarity (>=50%): 15
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_54_r3l15 A,
+#facs_54_r3l16 Alle Teütschund M. Amtleüth 4 Stält Freyweig
+#facs_54_r3l17 belund aman. Item zedel an Cänzel Stem¬
+#facs_54_r3l18 Murten und Tcherlitz
+#facs_54_r3l19 Betreyd ausfuhr verbolten.
+#facs_54_r3l20 Schultheis Räht und Bürger.
+#facs_54_r3l21 Mitbomende Exemplaria vor dem getrüt¬
+#facs_54_r3l22 ten placard, wegen ein und ausfuhr daß
+#facs_54_r3l23 Betreydt,
+#facs_54_r5l1 103
+#facs_54_r5l2 Getreydt, haben Wir dir zusenden wollen,
+#facs_54_r5l3 mit befelch von Canzlen solche verlesen,
+#facs_54_r5l4 Demenach gewohnter ohrten anschlagen,
+#facs_54_r5l5 und auch seines Ohrtdeinschreiben zu
+#facs_54_r5l6 laßen Datum den 3ten Septemb. 1745.

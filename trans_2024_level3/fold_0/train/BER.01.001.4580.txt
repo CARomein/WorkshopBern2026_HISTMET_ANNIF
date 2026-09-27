@@ -1,0 +1,447 @@
+Law nr: BER.01.001.4580
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 435/435
+# High similarity (>=80%): 421
+# Low similarity (<80%): 14
+# Not found: 0
+#
+#facs_18_r5l4 erheben.
+#facs_196_r4l25 betreffen
+#facs_196_r4l26 Die Umgießung der neuen Louis dorom Franbreich
+#facs_23_region_1633454785261_2928l2 Wid
+#facs_197_r1l1 3838
+#facs_157_r4l1 oll.
+#facs_196_r2l3 o
+#facs_28_r4l1 Coll
+#facs_197_r4l1 Französische rc. Publ.
+#facs_197_r4l2 Eir Schultheis und Rath etc. thun kund
+#facs_197_r4l3 hiermit: da Ihro Majestät der König von
+#facs_197_r4l4 Frankreich ein Edict hat ausgehen laßen.
+#facs_197_r4l5 Vermög welchem neue Louis d'Ors von 1785. in
+#facs_197_r4l6 Vorschein kommen sollen, die den bisherigen in
+#facs_197_r4l7 Bewicht und Werth nicht gleich seyn werden
+#facs_197_r4l8 und sich durch ein besonderes Beprag auszeichnen
+#facs_197_r4l9 so haben Wir aus Landes vätterlicher Vorsor¬
+#facs_197_r4l10 und damit ein jeder vor Schaden und Nachtheil
+#facs_197_r4l11 gesicheret seye, Unsere Lieben und getreuen
+#facs_197_r4l12 Angehörige hierdurch verbahrnen wollen, sich
+#facs_197_r4l13 vor der Abnahme dieser neuen Louis d’Oro zu
+#facs_197_r4l14 hüten, bis der Werth den sie in Unseren Landen
+#facs_197_r4l15 haben sollen, von Unseren Brädigen Herren
+#facs_197_r4l16 und Oberen werde bestimmt seyn.
+#facs_197_r4l17 Beben den 30ten November 1785.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_197_r4l19 Alle deutsche und balsche Hhl. Amtleuth, vier
+#facs_155_r3l9 Stadt, Freyweibel und Amann
+#facs_197_r4l21 Zedel an alle Bureaux und H. Schaffner wo
+#facs_197_r4l22 Oberkeitliche Kaßen sich befinden
+#facs_4_r8l3 I
+#facs_197_r4l24 Mit Übersendung genugsamer Exemplar
+#facs_197_r4l25 beÿligender Verbahrnung die Ihr öffentlich berdet
+#facs_197_r4l26 anschlagen und von Kanzlen verlesen laßen,
+#facs_197_r4l27 befehlen Wir Eüch, die für Unsere Rechnung
+#facs_197_r4l28 in Handen habenden neuen Louis dore von bisheriger
+#facs_197_r4l29 Stempfel, so viel sich thun lasen wird, bis auf fernere
+#facs_197_r4l30 Verordnung einzubehalten. Den 30ten November 1785
+#facs_100_r2l1 soll.
+#facs_6_region_1627936574015_66l1 6
+#facs_100_r2l1 soll.
+#facs_6_region_1627936574015_66l1 6
+#facs_10_r6l1 38
+#facs_23_region_1633454616028_2913l1 An
+#facs_197_r7l3 die Hh. Amtleute zu Aarberg, Büren
+#facs_197_r7l4 Wangen, Aarbaugen und Sipp.
+#facs_197_r7l5 den vermißten Hutmacher Leuenberger
+#facs_197_r7l6 findenden Fals ehrlich begraben zu laßen.
+#facs_197_r7l7 Es wird nicht ohne Brund vermuthet, der seit
+#facs_197_r7l8 leztem Dienstag vermißte Hutmacher Leuen¬
+#facs_197_r7l9 Terger von Kiechenlöyl Amts Caupen sey in
+#facs_197_r7l10 der Aar um sein Leben gekommen; Wir
+#facs_197_r7l11 tragen Eüch daher auf seinen Körper falle
+#facs_197_r7l12 er in Eüerem Amt entdekt werden sollte,
+#facs_197_r7l13 ehrlich beerdigen zu laßen, und unseren
+#facs_197_r7l14 Amtmann zu Laupen, nebst Übermachung
+#facs_197_r7l15 der auf dem Todten Körper sich befindenden
+#facs_197_r7l16 Effektenen Schriften, deßen sogleich zu benach¬
+#facs_197_r7l17 richten. Beben den 5ten December 1785.
+#facs_23_region_1633454616028_2913l1 An
+#facs_195_r3l20 Alle deutsche und Weltsche Herren Amtleuth
+#facs_145_r5l4 Vier Städt, Freyweibel und Amann
+#facs_197_r7l21 3. Badlische Verordnung, ansehend
+#facs_197_r7l22 die Zurukhaltung und Fortschaffung der
+#facs_197_r7l23 fremden Husierer und herum streiffenden
+#facs_197_r7l24 Besindels
+#facs_36_r3l7 Schultheiß und Rath
+#facs_342_r2l20 Gestellung der Kälbereng Stichsweise,
+#facs_197_r7l27 Besindels, und zu Begünstigung der Handlung
+#facs_197_r7l28 hat Sr. H Frstl. Gnaden der Herr Bischoff von
+#facs_197_r7l29 Bäsel eine Verordnung wegen dem Husieren
+#facs_197_r7l30 fremder
+#facs_198_r1l1 385.
+#facs_52_r4l9 halten.
+#facs_198_r3l1 fremder Krämeren in dero Landen aus
+#facs_198_r3l2 Mit Zusendung
+#facs_198_r3l3 gehen laßen.
+#facs_198_r3l5 genugsammer Exemplarien davon
+#facs_198_r3l6 tragen Wir Euch befelchlichen auf, solche
+#facs_104_r5l9 gewohnter maßen zu versamlen, und
+#facs_198_r3l8 Nachricht und Verhalt von Kanzeln
+#facs_198_r3l9 publicieren zu laßen.
+#facs_90_r3l1 N°
+#facs_297_r5l13 Datum den 13.
+#facs_23_region_1633454616028_2913l1 An
+#facs_198_r3l13 die Herren Amtleuth des Obern und
+#facs_198_r3l14 untern Aergans und an die Aergäni¬
+#facs_198_r3l15 sche Städte.
+#facs_161_r3l2 betreffend
+#facs_198_r3l17 den jungen Freyherrn von Roll, welcher
+#facs_198_r3l18 von der Lobl. Regierung zu Freyburg im Prisge
+#facs_198_r3l19 als prodigum erklährt worden.
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_198_r3l21 Wir sind von der K. R.M. O. Regierung
+#facs_198_r3l22 zu Freyburg benachrichtiget worden, wie daß
+#facs_198_r3l23 Wie sich gemüßiget gesehen, den jungen
+#facs_198_r3l24 Freyherrn Anton von Roll, wegen seinen
+#facs_198_r3l25 angewohnten Hang zur Schuldenmachung und
+#facs_198_r3l26 um für die Zukunft die gutherzigen Leutel
+#facs_198_r3l27 nicht mehr der Befahr auszusezen, durch
+#facs_198_r3l28 seine Vorspieglungen und Ränke in
+#facs_198_r3l29 Zukunft betragen zu werden, ihn als prodigung
+#facs_68_r8l11 zu
+#facs_136_r2l21 sollte.
+#facs_198_r5l1 386
+#facs_198_r5l2 zu erklähren, daß er von nun an nicht
+#facs_198_r5l3 mehr im Stande seye neue Schulden zu
+#facs_198_r5l4 vontrahieren; ohne jedoch dem allfälligen
+#facs_198_r5l5 Rechten seiner bisherigen Bläubiger dadurch
+#facs_198_r5l6 einen Eintrag zu machen
+#facs_198_r5l7 Von dieser Erklährung berdet Ihr nun un¬
+#facs_198_r5l8 eingestellt berichtet, um solche zu männiglichs
+#facs_198_r5l9 Wißenschalt, und um jedermann vor Schaden
+#facs_198_r5l10 zu verbahrnen, behörig bekannt machen zu
+#facs_198_r5l11 den 14ten Decembris 1785
+#facs_198_r5l12 laßen
+#facs_198_r5l13 Aufhebung ausgegangener Verordnung
+#facs_198_r5l14 wider die Ausfuhr der Erdfrüchten, in denen
+#facs_198_r5l15 zweyen Ämtern Erlach und St. Johansen
+#facs_198_r5l16 Erlach und St. Johannesen Praefect,
+#facs_198_r5l17 Auf die unterthänige Vorstellungen der Amts¬
+#facs_198_r5l18 Angehörigen des Amts Erlach, haben Wir
+#facs_198_r5l19 die unterm 31ten October lezthin auf eine
+#facs_198_r5l20 unbestimmte Zeit ausgegangene Verordnung
+#facs_198_r5l21 wider die Ausfuhr der Erdfrüchten, aus milten
+#facs_198_r5l22 Betrachtungen, zu günsten sowohl der Amts
+#facs_198_r5l23 Angehörigen zu Erlach als St. Johannsen,
+#facs_198_r5l24 dermalen aufgehoben
+#facs_67_r2l24 deßen ihr berichtet werdet,
+#facs_255_r3l7 den Umständen und dem Entbendten
+#facs_199_r1l1 387.
+#facs_100_r2l1 soll.
+#facs_37_r1l1 66
+#facs_23_region_1633454616028_2913l1 An
+#facs_199_r3l2 Alle Teutsche und Weltsche Herren
+#facs_199_r3l3 Amtleut und vier Städt, Freybeibes
+#facs_199_r3l4 und Ammann; Denne an Mehlohl.
+#facs_199_r3l5 der Teutschen Appellaz Kammer im
+#facs_199_r3l6 Stadtgericht.
+#facs_199_r3l7 ansehend die Bleichhaltung der französischen
+#facs_199_r3l8 mit den hiesigen Angehörigen in Concurs Fällen
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_199_r3l10 Auf das von seiner Allerchristlichsten
+#facs_199_r3l11 Majestät unterm 20ten Augusty und
+#facs_199_r3l12 19. September 1784. ausgegangene
+#facs_199_r3l13 Edict, wegen einer einzuführenden
+#facs_199_r3l14 Bleichheit in geldstaglichen Concurs¬
+#facs_199_r3l15 Fällen zwischen Seiner Majestät
+#facs_199_r3l16 Unterthanen und denen Unsrigen
+#facs_199_r3l17 haben Wir die in Beylag enthaltene
+#facs_199_r3l18 Declaration ausgestellt, davon Euch
+#facs_199_r3l19 gungsamme Exemplar zugesendt
+#facs_199_r3l20 werden, mit dem befelchlichen Auftrag,
+#facs_199_r3l21 solche denen Brichtstellen Eüeres
+#facs_199_r3l22 Amts/ Bezirks / bekannt zu machen,
+#facs_199_r3l23 und auch zu künftiger Nachricht behörigen
+#facs_199_r3l24 Orts einschreiben zu laßen.
+#facs_199_r3l25 Datum d. 28ten Dec. 1785.
+#facs_204_r2l1 hieb gehört war.
+#facs_199_r3l27 Pag 599
+#facs_100_r2l1 soll.
+#facs_68_r6l2 holl.
+#facs_48_r1l1 88
+#facs_198_r5l13 Aufhebung ausgegangener Verordnung
+#facs_199_r6l3 betreffend die Ausfuhr der Erdfrüchten im Amte
+#facs_316_r3l8 Nidau
+#facs_199_r6l5 Nidau Graef: Auf die unterthänigen Vor¬
+#facs_199_r6l6 stellungen Eüerer Amts Angehörigen, haben
+#facs_199_r6l7 Wir die unterm 31. Octobris lezthin
+#facs_199_r6l8 auf eine unbestimmte Zeit ausgegangene
+#facs_199_r6l9 Verordnung, wider die Ausfuhr der Erd
+#facs_199_r6l10 früchten, aus milten Betrachtungen, zu
+#facs_199_r6l11 gunsten Eüer Amts Angehörigen derma¬
+#facs_101_r5l8 deßen Ihr berichtet
+#facs_199_r6l13 en aufgehoben.
+#facs_199_r6l14 Datum d. 2. Jan. 1786
+#facs_168_r5l3 werdet.
+#facs_23_region_1633454616028_2913l1 An
+#facs_199_r6l17 die Herren Amtleuth Sveltschen Lands,
+#facs_199_r6l18 demie auch an die Herren Amtleut auf
+#facs_199_r6l19 der route nach Zürich und Basel.
+#facs_161_r3l2 betreffend
+#facs_199_r6l21 den im Handelshause Fingerlin und Scharer
+#facs_199_r6l22 zu Lyon verübten beträchtlichen Diebstahls,
+#facs_199_r6l23 Schultheiß und Raht
+#facs_199_r6l24 Aus ist der zuverläßige Bericht erstat
+#facs_199_r6l25 tet worden, eines dem Handels Hause
+#facs_199_r6l26 Fingerlin und Schärer zu Lyon in der
+#facs_199_r6l27 Nacht vom 30. zum 31ten December 1785
+#facs_199_r6l28 verübten
+#facs_10_r6l1 38
+#facs_128_r2l20 solle.
+#facs_200_r3l1 verübten sehr beträchtlichen Diebstahls
+#facs_200_r3l2 sern beynähe 600 f 0 x
+#facs_200_r3l3 Da nun gemeiner Sicherheit allerdings,
+#facs_200_r3l4 daran gelegen, daß die Bethätere wo
+#facs_200_r3l5 immer möglich entdekt und zu gebühren
+#facs_200_r3l6 der Straf gezogen werden können:
+#facs_200_r3l7 tragen Wir Eüch anmit befelchlich auf,
+#facs_200_r3l8 ins Beheim die allergenauste Acht
+#facs_200_r3l9 bestellen zu laßen, ob nicht hin und
+#facs_200_r3l10 wieder sobohl denen Goldschmiden al¬
+#facs_200_r3l11 anderen Partikularen Französische Dublin
+#facs_200_r3l12 nen oder spannische Prästres zum Wechsel
+#facs_200_r3l13 angeboten werden, auch im Fall walten¬
+#facs_200_r3l14 den starken Verdachts auf den mit oder
+#facs_200_r3l15 anderen, solche verdächtige Personen mit
+#facs_200_r3l16 Befangenschaft zu belegen, und Uns
+#facs_200_r3l17 von dem allfällig herauskommenden
+#facs_200_r3l18 den schleunigen Bericht zu fernerer
+#facs_200_r3l19 Verordnung zu erstacten.
+#facs_200_r3l20 Datum den 5ten Januarius 1786
+#facs_200_r3l21 Beyfügung etwelcher Artikel zu der
+#facs_200_r3l22 Hols=Ordnung de 6th Jan: 1741.
+#facs_200_r3l23 im Amt Frienisberg
+#facs_200_r3l24 Frienisberg. In Abänderung Unserer Er¬
+#facs_200_r3l25 kanntnis vom 24. April 1784. wollen Wir den
+#facs_200_r4l1 390
+#facs_200_r4l2 Holzordnung für Eüer Amt de 6ten Januar
+#facs_200_r4l3 1741. folgendes beyfügen
+#facs_200_r4l4 1. Soll allen Tauneren, die bis dahin ohne Recht¬
+#facs_200_r4l5 samme jährlich 2. Klafter Holz bezogen haben
+#facs_200_r4l6 von nun an nicht mehr als jedem ein Klafter
+#facs_200_r4l7 jährlich bebilliget werden
+#facs_200_r4l8 Dies begreift aber nur die, so sich bis zun
+#facs_200_r4l9 Jahr 1785. in Amt gesezet haben - anderern
+#facs_200_r4l10 nach dieser Zeit sich anbauen möchten, sollen
+#facs_200_r4l11 gänzlich ausgeschloßen seyn
+#facs_200_r4l12 2° Damit auch das Todte und im Walde sich
+#facs_200_r4l13 mmüze befindliche Holz fort genommen werde,
+#facs_200_r4l14 so soll neben dem Ausstoken ein jeder
+#facs_200_r4l15 annoch ein Fuder von diesem Holze, worin
+#facs_200_r4l16 ter das Weisholz - als Aspen-Weiden¬
+#facs_200_r4l17 in d. g. insonderheit soll verstanden werden
+#facs_200_r4l18 jährlich solang zu erhalten haben, als sich
+#facs_200_r4l19 dergleichen vorfinden wird.
+#facs_200_r4l20 3. Dieses Aushauen soll nicht anders als
+#facs_200_r4l21 unter der Aufsicht der Bannbahrten, und
+#facs_200_r4l22 mit der sorgfältigsten Verschonung des guten
+#facs_200_r4l23 und gefunden Holzes geschehen.
+#facs_200_r4l24 4° Damit auch einiche Policei beobachtet werde,
+#facs_200_r4l25 so soll das Aushanen zu gleicher Zeit vor sich
+#facs_200_r4l26 ehen, und zbar in einem der dazu bekannt¬
+#facs_200_r4l27 ten Wintermonaten
+#facs_200_r4l28 5. Wann dann so viel wird gehauen seyn, als
+#facs_200_r4l29 man nach dem 2ten Artikel wird für genugsam¬
+#facs_200_r4l30 achtet
+#facs_10_r5l1 39
+#facs_201_r2l1 erachtet haben, so soll dies Holz, so viel
+#facs_201_r2l2 als man für ein Fuder nötig finden
+#facs_201_r2l3 bird, zusammen getragen, und erst
+#facs_201_r2l4 nachberts durch das Loos ausgetheilet
+#facs_201_r2l5 werden; vorbei, wie es sich verstehet
+#facs_201_r2l6 diese Tauner einander behülflich seyn
+#facs_59_r2l22 sollen.
+#facs_201_r2l8 6. von nun an und in Zukunft, soll
+#facs_201_r2l9 keiner der nur ein Haus zur Miethe
+#facs_201_r2l10 hat, einigen Antheil am Holz haben
+#facs_201_r2l11 sondern es soll der eigenthümliche Be¬
+#facs_201_r2l12 sitzer, seinen Haus und Miethun
+#facs_201_r2l13 beholzen
+#facs_201_r2l14 Endlichen dann befehlen Wir Euch, und
+#facs_201_r2l15 Verzeichniß von allem demjenigen Holz
+#facs_201_r2l16 so verzeigt wird, alljährlich Unserer
+#facs_201_r2l17 Verordneten Holzkammer einzusenden
+#facs_201_r2l18 Welches Euch nun zu könftig ein Verhal¬
+#facs_201_r2l19 und Einschreibung befohlen wird.
+#facs_201_r2l20 Actum 6 January 1786
+#facs_23_region_1633454616028_2913l1 An
+#facs_31_r3l6 alle Teutsch und welsche Herren Amtleut
+#facs_201_r2l23 4. Stadt, Freyweibel und Am
+#facs_201_r2l24 soll. In Ansehen der Krämern insgestandt und
+#facs_201_r2l25 des Husierens, hat Lobl. Stand Solothurn
+#facs_201_r2l26 mitbommende Verordnung ausgehen
+#facs_198_r5l12 laßen
+#facs_100_r2l1 soll.
+#facs_196_r2l3 o
+#facs_10_r5l1 39
+#facs_201_r4l2 laßen, wovon Wir Euch genugsamme
+#facs_201_r4l3 Exemplar zusenden, um selbige zu jeder¬
+#facs_201_r4l4 manns Nachricht und Verhalt von Kanzeln
+#facs_201_r4l5 verlesen zu laßen. Datum den 16.
+#facs_201_r4l6 January 1786.
+#facs_201_r4l7 Wir Schultheiß und Rath der Stadt und
+#facs_201_r4l8 Republit Bern thun kund hiermit: daß Lobl.
+#facs_201_r4l9 Stand Solothurn in Ansehen der Krämern
+#facs_201_r4l10 insgesamt, und des Husierens nachstehende
+#facs_201_r4l11 Verordnung ergehen laßen, welche Wir
+#facs_201_r4l12 sogleich nachzudrüben anbefohlen, damit
+#facs_201_r4l13 solche öffentlich verlesen, an gewohnten
+#facs_201_r4l14 Orten angeschlagen werde, Unsere
+#facs_201_r4l15 der Handlung mit Krämer Waaren
+#facs_201_r4l16 obligende Bürger und Angehörige sich dar¬
+#facs_201_r4l17 nach richten, und sich infolg 5. Antikels
+#facs_201_r4l18 des Besuchs der Solothurnischen Dorf¬
+#facs_201_r4l19 Märkten enthalten können, eben wie
+#facs_201_r4l20 infolg Unserer unterm 3ten Brachmonats
+#facs_201_r4l21 1785. ergangenen Husier Ordnung die
+#facs_201_r4l22 Befuchung der hieländischen Dorfmärkten
+#facs_201_r4l23 ellen ausseren Kaufleuthen und Kräme¬
+#facs_201_r4l24 Den untersagt wird. Beben den 16ten
+#facs_4_r8l9 a
+#facs_215_r2l24 Janvier 1786
+#facs_71_r3l18 Rausley Bern.
+#facs_10_r5l1 39
+#facs_196_r2l3 o
+#facs_202_r3l1 Verordnung, in Besug auf die
+#facs_202_r3l2 Kramer insgesamt.
+#facs_172_r4l4 Wir Schultheiss und Rath der Stadt
+#facs_202_r3l4 und Republik Solothurn, entbieten samt¬
+#facs_202_r3l5 lich Unseren getreuen lieben Bürgerei
+#facs_202_r3l6 und Unterthanen, Unseren gnädig ge¬
+#facs_202_r3l7 neigten Willen, und geben hiermit mäng¬
+#facs_202_r3l8 lich zu vernehmen.
+#facs_202_r3l9 Demnach Wir allbereits vor einiger
+#facs_202_r3l10 Zeit diejenige Verordnung unnd machen
+#facs_12_r8l3 in
+#facs_202_r3l12 laßen, welche der Hohe Stand Sern
+#facs_202_r3l13 Bezug auf die Krämere und sogenannte
+#facs_202_r3l14 Colporteürs, wie auch Kräzenträgere
+#facs_202_r3l15 in dem Lauf dieses Jahrs herausgegeben
+#facs_202_r3l16 Wie denn auch Unsers Orts vor nöthig
+#facs_202_r3l17 erachten, ermeldt hohen Standes,
+#facs_12_r8l3 in
+#facs_202_r3l19 Absicht auf die Abhaltung der verdäch¬
+#facs_202_r3l20 stigen fremden Krämeren, auf die Be¬
+#facs_202_r3l21 förderung der innländischen Handlun
+#facs_202_r3l22 bin auch zu Beybehaltung ge¬
+#facs_202_r3l23 Ruhe und Sicherheit getroffenen heilsa
+#facs_202_r3l24 men Matregeln mitzulärken, so finden
+#facs_202_r3l25 wie gut, nach reiffer der Sache Erwegung
+#facs_202_r3l26 hierüber zu verordnen, was von Artikel
+#facs_202_r3l27 zu Artibel folgt, und zbar.
+#facs_3_region_1627936339514_16l1 1
+#facs_202_r4l1 394
+#facs_202_r4l2 1° Ist allen rechtschaffenen Eydgnößischen
+#facs_202_r4l3 und fremden Handelsleuthen und Krämerei
+#facs_202_r4l4 verstehet sich jenen, welche ihre Waaren
+#facs_202_r4l5 vermittelst der gewöhnlichen Güterfuhren
+#facs_202_r4l6 auf den Landstraßen durch die Kaufhäuser
+#facs_202_r4l7 tergen laßen, gestactet, wie bishero die
+#facs_202_r4l8 öffentlichen Jahrmarkte allhier und zu
+#facs_202_r4l9 Es solle aber
+#facs_202_r4l10 Olten zu besuchen
+#facs_202_r4l11 II. Allen übrigen minderen Krämeren
+#facs_202_r4l12 Kräzenträgeren, oder sogenanten Colpor
+#facs_202_r4l13 feurs, das ist, jenen, welche ihre Wagen
+#facs_202_r4l14 selbst mit sich tragen oder führen, ohne
+#facs_202_r4l15 Ausnahm untersagt und verbotten seyn,
+#facs_202_r4l16 künftig an den allhiesigen und Oltner
+#facs_202_r4l17 geruffenen Jahrmärkten sich einzufinden,
+#facs_202_r4l18 und feil zu halten; dieselben haben dann
+#facs_202_r4l19 zuvor bey Unserer verordneten Zoll= und
+#facs_202_r4l20 Commerzien Kammer sich persönlich gestel¬
+#facs_202_r4l21 let, von da aus das erforderliche Patent
+#facs_202_r4l22 oder Rebelligung erhalten, und solches seiner
+#facs_202_r4l23 Behörde vorgebieten
+#facs_202_r4l24 III. Diese Patenten zu ertheilen, wird
+#facs_202_r4l25 künftig gedacht Unserer verordneten Zoll¬
+#facs_202_r4l26 und Commerzien Kammer allein zustehen,
+#facs_202_r4l27 mit Ausschluß aller übrigen Diensterien
+#facs_203_r1l1 395
+#facs_203_r2l1 desgleichen auch der Ober und Land¬
+#facs_203_r2l2 vögten Bobey Unser Will und Meinn
+#facs_203_r2l3 ist, daß sie nur denjenigen bewilli¬
+#facs_203_r2l4 get werden sollen, welche sobohl ihres
+#facs_203_r2l5 Heymaths gewöhnlichen Aufenthalts,
+#facs_203_r2l6 als guter Sitten und Läünden halben
+#facs_203_r2l7 von Ihren respective Hohen Oberleite¬
+#facs_203_r2l8 glaubwürdige Attestaten und Rebeist
+#facs_203_r2l9 werden vorgebiesen haben, und derer
+#facs_203_r2l10 Waaren oder Verkaufs Artikel man
+#facs_252_r2l22 in unseren Landen frey und offen
+#facs_203_r2l12 IV. Diejenigen Krämere also, welche
+#facs_203_r2l13 solcher gestalten Patenten und Gewilli
+#facs_203_r2l14 gungen beyden erhalten haben, sollen
+#facs_203_r2l15 verpflichtet seyn, so oft dieselben mit
+#facs_203_r2l16 ihren Waaren in Unsere Lande ein¬
+#facs_203_r2l17 tretten, oder so sie auch nur von eine
+#facs_203_r2l18 Ort in das andere ziehen bürden, den
+#facs_203_r2l19 Zollneren, und wo deren keinesind, den
+#facs_203_r2l20 bestellten Aufsichteren die erhaltene
+#facs_203_r2l21 Patente vorzubeisen; und ist Unser
+#facs_203_r2l22 erstmeinender Befehl, daß alle die
+#facs_203_r2l23 jenigen, so keine Patente vorzuzeigen
+#facs_203_r2l24 haben, von das erste mal gebarnet und
+#facs_203_r2l25 Beiters
+#facs_203_r3l1 396.
+#facs_203_r3l2 weiters gebiesen, auf die zbeyte Wider¬
+#facs_203_r3l3 handlung mit einer Beldbuß von 20
+#facs_203_r3l4 Pfunden, und vor das dricte Mal mit
+#facs_203_r3l5 Confiscation der mitführenden Waaren
+#facs_203_r3l6 gestraft und angesehen werden sollen.
+#facs_203_r3l7 Betreffend dann
+#facs_203_r3l8 V. Die Dorf-Märkte in Unseren Can¬
+#facs_203_r3l9 den, so wollen Wir, daß die benachbar¬
+#facs_203_r3l10 ten Kräamern deshalben auf eben die
+#facs_203_r3l11 Weise, wie die Unsrigen bey ihnen ge¬
+#facs_203_r3l12 halten und angesehen werden sollen.
+#facs_203_r3l13 VI. Laßen Wir es der Husierern
+#facs_203_r3l14 halber bey den von uns allbereits er¬
+#facs_203_r3l15 gangenen Verordnungen durchaus beben¬
+#facs_203_r3l16 den, verbieten manniglich bey Straf¬
+#facs_203_r3l17 denselben in Unseren Landen einigen
+#facs_203_r3l18 Aufenthalt oder Niederlag zu gestatten
+#facs_203_r3l19 und wollen, daß die Fehlbar erfundene
+#facs_203_r3l20 Hustierere vor den ersten Fehler mit
+#facs_203_r3l21 gemeßener Straf angesehen, auf biederholte
+#facs_203_r3l22 Übertreitung aber derselben mit führende
+#facs_203_r3l23 Waaren confisirt werden sollen,
+#facs_203_r3l24 VII. Wenden die Zollnere und Aufsehere
+#facs_203_r3l25 Unserer Bockmäßigkeit alles Ernstes befelchnet
+#facs_203_r3l26 dieser
+#facs_10_r5l1 39
+#facs_204_r2l1 hieb gehört war.
+#facs_204_r2l2 Prag 594.
+#facs_157_r4l1 oll.
+#facs_204_r3l1 dieser Verordnung genauest und schäefest
+#facs_204_r3l2 obzuhalten, ertheilen auch hiermit Un
+#facs_204_r3l3 terer bestellten Marechause Kammer
+#facs_204_r3l4 desgleichen auch Unseren Ober und
+#facs_204_r3l5 Landvögten den Auftrag, benötigten
+#facs_204_r3l6 Falls denselben hierinnen allen
+#facs_204_r3l7 Beystand und Hilfshand angedeyhen zu
+#facs_198_r5l12 laßen
+#facs_204_r3l9 Endlich solle die Vollstrebung dieser
+#facs_204_r3l10 gegenwärtigen Verordnung mit künftiger
+#facs_204_r3l11 Heil. Ostern ihren Anfang wehmen
+#facs_204_r3l12 dermal aber gegenbärtiges zu jeder
+#facs_204_r3l13 manns Wissenschaft in Druk beförderet
+#facs_204_r3l14 aller Orten öffentlich verkündet, und
+#facs_204_r3l15 wo gebohnt, angeschlagen werden.
+#facs_204_r3l16 Beben den 12. e Christmonats 1785
+#facs_204_r3l17 Lansley Solothurn

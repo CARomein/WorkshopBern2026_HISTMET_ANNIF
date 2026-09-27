@@ -1,0 +1,40 @@
+Law ID: BER.01.001.1597
+Name: Die geworbnen Völker zu Empfachung der Überwehren harhalten.
+
+#facs_314_r4l1 3
+#facs_314_r4l2 e
+#facs_314_r4l3 übige
+#facs_315_r3l1 Eindie Ambllent Im Ementhal, Ober und
+#facs_315_r3l2 See land auch freyweibel vnd Oberen Trgenb
+#facs_315_r3l3 En geworbnen Volter zuempfachung der Vberwehrn harhalten
+#facs_315_r3l4 Schuldtheiß vnd Raht der Pratt hern e
+#facs_315_r3l5 Geienes nun mehr von notensan
+#facs_315_r3l6 Wil, daß die Jenngen Völker so sich habendt Vnderhalten laßen
+#facs_315_r3l7 diegertehr empfehn, Vnd in das Vl ziechind, Alß habend wir
+#facs_315_r3l8 Eeinen Vmbgang nemen wollen, die hiemit zebefelchen von der
+#facs_315_r3l9 Cantzel Verkunden zelaßen, daß ein Jeder so gedinget vnder
+#facs_315_r3l10 Was Companey es sye, sich bißkünfftigen montag guber
+#facs_315_r3l11 tags Zeit salhe in der Statt by seinem Haubtman ein stell
+#facs_315_r3l12 gugleich wirste verschaffen, daß die vor disem begerten zwäft
+#facs_315_r3l13 man, von Jeder Tompaney Vbriger vndt nit im ußzug ver
+#facs_315_r3l14 geiffener Manschafft sich den zumalen auch alhar begebind Im
+#facs_315_r3l15 fall solches noch nit beschechen were. Hiernach wir stu ich
+#facs_315_r3l16 henerhalten wüßen. Datum 5 januarii 1656
+
+#facs_315_r4l1 A.
+#facs_315_r6l1 Andie Oberlendischen Ambdeut
+#facs_315_r6l2 69
+#facs_315_r6l3 Dßma die Vie begen dertigen dihen, do die Sthskage
+#facs_315_r6l4 salhie In Reißgelt gehabt, p 5 b abnemmen sollen.
+#facs_315_r6l5 Schulotheiß vnd Raht der Sien Bern etc.
+#facs_315_r6l6 Dir Habend by dißmaligem hochem exert derguten alen
+#facs_315_r6l7 groben Silbersorten, befunden, daß die vmb vierbetzen geschlagne
+#facs_315_r6l8 Iten und andere Eidtgnößische diken, sotheit hieuor mit einem kleinen
+#facs_315_r6l9 Barli gezeichnet worden, wol für fünffbetzen lauffen und pessieies
+#facs_315_r6l10 mogind, vndt hiemit angesechen, daß dieselben in solchem wert der fünfft
+#facs_315_r6l11 batzen vndt die halben vmb Zechen wentzer von einanderen abgenomen
+#facs_315_r6l12 werden sollind, Die Vortheilige auffwechslung Vereüßer, vndt die be¬
+#facs_315_r6l13 friegliche wideruermuntzung verselben dardurch oberkeit fürsorglich
+#facs_315_r6l14 zuuerhüten. Die hienit befelchende, diß zumenigkliche nachricht
+#facs_315_r6l15 von Cantzlen Vorkunden ze laßen. Datus 7. Jenuderi 1616
+END

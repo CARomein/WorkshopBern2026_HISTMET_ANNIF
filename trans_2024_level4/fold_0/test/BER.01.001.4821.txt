@@ -1,0 +1,95 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 87/88
+# High similarity (>=80%): 83
+# Low similarity (<80%): 4
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4821
+#facs_180_r4l13 nierung
+#facs_245_r4l23 uns Verschärfung der Verordnungsagen Ertheilung der Pöß¬
+#facs_56_r3l8 An alle Deutsche und Welsche Herren
+#facs_3_r1l2 A!
+#facs_94_r3l1 177.
+#facs_256_r2l19 Amtleute.
+#facs_259_r2l4 Schultheis und Rath! etc.
+#facs_245_r5l4 Wir haben Uns durch die Erfahrung überzeugen müssen,
+#facs_245_r5l5 daß so wol die von uns zu Fortschaffung und Abhalt
+#facs_245_r5l6 ung des verdächtigen Strolchen gestindels (an die
+#facs_245_r5l7 Welschen Herren Amtleute unterm 17. Hornung
+#facs_245_r5l8 1796, an die deutschen Herren Amtleute unterm
+#facs_245_r5l9 10. Merz 1796, /getroffenen Polizey = Anstalten
+#facs_245_r5l10 als aber auch die von Uns am 18ten August 1794
+#facs_245_r5l11 25. Junii 1795, und 26t Decembris 1796. ergangene
+#facs_245_r5l12 Verordnungen in Absicht auf die Ertheilung der Päß.
+#facs_245_r5l13 über haupt — nicht die Wirkung zur Folge gehabt
+#facs_245_r5l14 haben, die Wir billig davon hätten erwarten seyn
+#facs_245_r5l15 sollen, und daß mithin in Anstern Landen sich
+#facs_245_r5l16 noch immer eine Menge herumschweifender
+#facs_245_r5l17 Strolchen und verdächtiger Fremden vorfindt, die
+#facs_245_r5l18 durch die Verlezung des Privat Eigenthums und
+#facs_245_r5l19 der persönlichen Sicherheit unserer Angehörigen
+#facs_245_r5l20 denselben zur aller größen Beschwerde gereichert
+#facs_245_r5l21 Hiedurch stehen wir Uns genöthiget Euch an
+#facs_245_r5l22 obige Verordnungen zu erinnern, und Euch ernst¬
+#facs_245_r5l23 meinend zu einer genauern Befolgung der
+#facs_245_r5l24 selben, als durch welche allein Unsere Landes
+#facs_245_r5l25 väterliche Absicht erreicht werden kann anzu¬
+#facs_245_r5l26 mahnen.
+#facs_95_r1l1 178
+#facs_1_r2l2 1.
+#facs_5_r1l1 2.
+#facs_246_r4l1 zu Erlangung einer noch mehrere Bestimmtheit
+#facs_246_r4l2 und vollständigkeit über die Art und weise wie
+#facs_246_r4l3 es mit der Ertheilung der Pässe gehalten seyn,
+#facs_246_r4l4 solle, haben wir nöthig erachtet Euch hiemit den
+#facs_246_r4l5 Befehl zu ertheilen.
+#facs_246_r4l6 Überhaupt Niemanden er mag sich um
+#facs_246_r4l7 für inden hiesigen Angehörigen oder für einen
+#facs_246_r4l8 Fremden ausgeben, einen Pas ausfertigen
+#facs_246_r4l9 zulassen, derselbe sey dann entweder Euch selbst
+#facs_246_r4l10 oder jemanden auf dessen Recht schaffenheit Ihr
+#facs_246_r4l11 Euch verlaßen könnet, bekannt, oder er können
+#facs_246_r4l12 sich über seiner Herkunft, Begangenschaft
+#facs_246_r4l13 oder Beruf, über die Ursache seiner Reise
+#facs_246_r4l14 und unverdächtige Aufführung behörig
+#facs_246_r4l15 legitimiren.
+#facs_246_r4l16 Allen verdächtigen Leuten, Deserteurs
+#facs_246_r4l17 Landstreicher, Strolchen, vagabonden welch¬
+#facs_246_r4l18 keine gute Pässe auf zu weisen haben, noch
+#facs_246_r4l19 sonst ihre Herkunft ihren guten Namen
+#facs_246_r4l20 und ihre Begangenschaft mit den nötigen Be¬
+#facs_246_r4l21 legen erweisen können, und die von Niemand
+#facs_246_r4l22 auf dessen Rechtschaffenheit Ihr Euch verlassen
+#facs_246_r4l23 könntet, Euch bekannt gemacht worden,
+#facs_246_r4l24 keinen Aufenthalt in Eüerm Amt zuge¬
+#facs_246_r4l25 spatten, sondern dieselben nach Vorschrift
+#facs_246_r4l26 (an die deutschen Herren Amtleute, der
+#facs_246_r4l27 verordn.
+#facs_8_r6l1 9
+#facs_64_r3l1 119
+#facs_246_r6l2 Verordnung vom 10t Merz 1796, an die Welschen
+#facs_246_r6l3 Herren Amtleute vom 17. Hornung 1796 :/ als
+#facs_246_r6l4 also gleich aus dem Land weisen zu laßen,
+#facs_246_r6l5 Allen denen von Euch zu ertheilenden Päßen das
+#facs_246_r6l6 aller genaüste signalement des Paßtragers, den
+#facs_246_r6l7 Ort wo er zu Hause ist, seinen Stand begangen schaf:
+#facs_246_r6l8 oder Beruf, den Ort wo er hinreissen will und die Ursache
+#facs_246_r6l9 seiner Reise, deutlich beyzufügen, so wie auch den
+#facs_246_r6l10 Paß von ihm eigenhändig in fürer oder der
+#facs_246_r6l11 Gegenwart dessen den Ihr dazu bestellet, unter
+#facs_246_r6l12 schreiben zulaßen.
+#facs_246_r6l13 dann alle ertheilende Pässe in ein Zecheim
+#facs_83_r5l19 schreiben
+#facs_246_r6l15 Überzeugt von fürer Gewissenhaftigkeit in
+#facs_246_r6l16 Erfüllung der Euch obliegenden Amtspflicht
+#facs_246_r6l17 zweifeln wir keineswegs, Ihr werdet auch dieser
+#facs_246_r6l18 zum allgemeinen wohl unserer Angehörigen
+#facs_246_r6l19 abzwekenden Verordnung nach besten Kräf¬
+#facs_246_r6l20 ten nach zukommen trachten und dieselbe
+#facs_246_r6l21 gegen jedermann handhaben, zu dem
+#facs_246_r6l22 und dann selbige auf gut findende Weise
+#facs_246_r6l23 bekannt machen
+#facs_246_r6l24 Datum den 21t Februar 1797.
+#facs_11_r4l1 e
+#facs_98_r5l28 en

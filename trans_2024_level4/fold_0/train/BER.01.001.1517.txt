@@ -1,0 +1,43 @@
+Law ID: BER.01.001.1517
+Name: Dass sy ihre Ausszüger zur stündtlichen Gerüsthaltung anmahnind.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 32/32
+# High similarity (>=50%): 32
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_238_r4l1 Aun
+#facs_238_r4l2 459
+#facs_238_r4l3 daß Sy Ihre Außzüger zur stündtlichen
+#facs_238_r4l4 Gerüsthaltung anmahnin
+#facs_238_r4l5 Schuldthriß vnnd Rhat der Statt Bern,
+#facs_238_r4l6 Es hat die wichtigkeit vnnd weit außsechenheit der zwischen
+#facs_238_r4l7 Vnseren E. L. A. E. der Statt, Lucern vnnd Iren Underthan
+#facs_238_r4l8 des Landts Entlibuch, vnnd mit pflichtiger bedaurlich erwachsen,
+#facs_238_r4l9 offstand: vnnd empörung Sach vnns fürsichtig zuermeßen,
+#facs_238_r4l10 gegeben, daß wir vnserseits vff guter Hut vnd wachtbarkeit
+#facs_238_r4l11 Dem Söllind, vff den fürbrechenden nohtfahl vnns zu nohtwendigen
+#facs_238_r4l12 schirm vnnd obligender schuldigkeit zum gerüsthaltung zu befinden
+#facs_238_r4l13 Beßwegen wir dir hiemit bevelchen wellen, gegen den
+#facs_238_r4l14 Außzügeren. Inn deiner Verwaltung die anstalt vnnd
+#facs_238_r4l15 Vermahnung zeuerschaffen, daß dieselbige sich Inn vruord erlicher
+#facs_238_r4l16 und stündtlicher bereitschafft vnnd gerusthaltung mit auff¬
+#facs_238_r4l17 erlegten wehre vnnd zugehöriger munition befinde,
+#facs_238_r4l18 thüyend, vff erste auffmahnung Ire schuldigkeit gebürend
+#facs_238_r4l19 kleisten, dann das ist unser will. Datum 17. Feb. 1653.
+#facs_238_r4l20 Post scriptum
+#facs_238_r4l21 Wiblisburg, Milden, Lausanna, Morser, Newil,
+#facs_238_r4l22 Romamostier, Juerden, Chillion, Als,
+#facs_238_r4l23 Wegen der Vassallen Gerüsthaltung
+#facs_238_r4l24 Vnnd dieweil eben by disen gegenwürtigen Leüffen, wir einer
+#facs_238_r4l25 anzal Reütery, vff mehrere, fürbrechenden nothfal von nöthe
+#facs_238_r4l26 ein werdend: Als ist vnser gesinnen vnnd bevelch auch hiemit
+#facs_238_r4l27 ann dich, Alle vnnd Jede vnsere Vassallen, so wil deren hinder
+#facs_238_r4l28 Deiner Verwaltung sein mögend, ebenmeßig zurstündtlichen
+#facs_238_r4l29 Gerüsthaltung ernstlich anzuhalten vnnd Zeuermögen, Ire Vnns,
+#facs_238_r4l30 vnnd dem Vatterlandt schuldige Dienst ohne fälen noch hinder sich
+#facs_238_r4l31 sechen würcklich zeleiste, neüßend, wie wir vns versechend. Datum
+#facs_238_r4l32 ut cupia.

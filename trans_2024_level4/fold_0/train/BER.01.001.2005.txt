@@ -1,0 +1,116 @@
+Law ID: BER.01.001.2005
+Name: Erhaltung halb der oberkeitlichen Gebeüwen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 105/105
+# High similarity (>=50%): 100
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_10_r5l1 An die W. Ambrleüth.
+#facs_10_r5l2 Erhaltung halb der Oberkeitlichen
+#facs_10_r5l3 Geben wegen.
+#facs_10_r5l4 des
+#facs_10_r5l5 Monsieur,
+#facs_10_r5l6 Guldtzeiß und Raht der Stadt Bern
+#facs_10_r5l7 perdu
+#facs_10_r5l8 Demnach wir abermals zu vnserem nit wenigen be¬
+#facs_10_r5l9 dauren vnd mißfallen vernemen müeßen, daß
+#facs_10_r5l10 Vnserem welschen Landt, die Oberkeitlichen gebeün¬
+#facs_10_r5l11 schlechtlich in ehren gehalten, vnd die erforderlichen
+#facs_10_r5l12 separationen anderst mit bei zeiten und ehr der schade
+#facs_10_r5l13 größer wirt, angewendet wurdirt, dan das
+#facs_10_r5l14 das mangel derselben, die gebeüw in ruin gerichte
+#facs_10_r5l15 und zur reparation oder gahr neüeren erbauerung.
+#facs_10_r5l16 derselben, vielfaltiger großer costen erlichen werden
+#facs_10_r5l17 müeße, welcher sonst Wan den befindtlichen menglen
+#facs_10_r5l18 n-
+#facs_10_r5l19 bei seiten remediert wurde, erspart werden könte,
+#facs_10_r5l20 habend wir deme fürs künfftig beßne Zebegegnen,
+#facs_10_r5l21 Alß durch bißhärige Jeder weilige anmahnungen
+#facs_10_r5l22 beschehen, gutbefunden und vns entschloßen, doch
+#facs_10_r5l23 füehin vnser alhiesigen Werckmeisteren einen
+#facs_10_r5l24 alle Jahr aufs wenigest einmahl hinein In¬
+#facs_10_r5l25 Weltisch Landt zeschicken, von ort zu Ort alle Ober¬
+#facs_10_r5l26 keitliche gebeuw, daß Kirchen, Schlößer, Pfrud- undt
+#facs_10_r5l27 Räbheüser, zubesichtigen, wie dieselben in Bauw undt
+#facs_11_r1l1 Ehren erhalten werdind, oder was am einten undt
+#facs_11_r1l2 anderen zu reparieren noht wendig seye, daßelbe
+#facs_11_r1l3 ordenlich und der nothurffen nach Zebeschreiben, vndt
+#facs_11_r1l4 es dem Ambtsman, in deßen Verwaltung undt
+#facs_11_r1l5 Auffsicht es ist, zu hinderlaßen: zu dem endt, daß
+#facs_11_r1l6 Durch denselben solcher Beschreibung nach die reparatio
+#facs_11_r1l7 alsbaldt verschaffet, und was die Pfrund vndt
+#facs_11_r1l8 Räbhreüser betrifft der reparation - Costen den
+#facs_11_r1l9 Predicanten an dem Pfrund einkommen, vnd den
+#facs_11_r1l10 Räbleüten an dem Zerbströub abgezogen werden.
+#facs_11_r1l11 alß denen solches zustehet und obligt, außer
+#facs_11_r1l12 Nach und gemach, so wie in vnser im Costen zu
+#facs_11_r1l13 erhalten gewohnt sind.
+#facs_11_r1l14 Daßen berichtendene Wie dich hirmit Wie¬
+#facs_11_r1l15 Ob eige vnsere Ambtleüth, der ernstlichen Meinung
+#facs_11_r1l16 und mit dem Bruxen, daß du denn euch eines
+#facs_11_r1l17 theils, und so vil solche gebeuwin demner ver
+#facs_11_r1l18 Waltung betrifft, gemeß zuenhalten, undt
+#facs_11_r1l19 Was dises vnser Besechen von dir ernorderet,
+#facs_11_r1l20 rechten ernsts in guten Traueren, und bei¬
+#facs_11_r1l21 Deinem Eidt erstatten, disen benech auch zu
+#facs_11_r1l22 fünfftiger nachricht seines orts einschreiben
+#facs_11_r1l23 laßen sollest. Alß wie uns versichend
+#facs_11_r1l24 Datum 8. Julii 1674
+#facs_11_r2l1 19
+#facs_11_r2l2 An die Classere in dem
+#facs_11_r2l3 W. Landt. ob Idem.
+#facs_11_r2l4 A duoyer Et conseil de la ville de Berne
+#facs_11_r2l5 L'experience des quelques années en ça nous ayant faict
+#facs_11_r2l6 rognoistre à nostre sensible preiudice et de plaisir, que une
+#facs_11_r2l7 onne partie de nostre revenu du pays de vaud de consumoit
+#facs_11_r2l8 miserablement en reparations des Maisons Ecclesiastiques
+#facs_11_r2l9 leurs dependances et que ce mal pour la plus part de la
+#facs_11_r2l10 egligence de ceux qui demeurent dans lesdts Maisons, et
+#facs_11_r2l11 qui n'en tiennent, aucun compte ny som. Nous avons
+#facs_11_r2l12 au gé estre de l'importance de remedier à ces desordres.
+#facs_11_r2l13 et pour cest effect avons ordonné, Que generalement tout
+#facs_11_r2l14 Ministres, viacres et Regents d'Escolle, quitiennent Maisons
+#facs_11_r2l15 de nous, seront tenus de respondre et de faire reparer du
+#facs_11_r2l16 la a leurs frais et despends de ce qui se trouvera estre
+#facs_11_r2l17 arrice de deperissement dans leursdt. Maisons et granges
+#facs_11_r2l18 and
+#facs_11_r2l19 par leur non chalance, negligence ou salle mesnage, Et
+#facs_11_r2l20 specialement que touts lesdts. Ecclesiastiques seront tenus
+#facs_11_r2l21 d'entretenir et maintenir en bon estat les fenestres, fours
+#facs_11_r2l22 portes et serrures desd. Maisons, d'autre costé pour tant
+#facs_11_r2l23 mieux faire observer la presente ordonnance, Nous avons
+#facs_11_r2l24 en mesme temps enioiunt a nostre Architecte de faire
+#facs_11_r2l25 chasque année un tour par tout le pays pour visiter
+#facs_11_r2l26 les maisons, remarquer les deffauts qu'il y rencontrera.
+#facs_12_r2l1 Et en advertir nostre Ballif du lieu, auxquels conviendra
+#facs_12_r2l2 faire pour voir sans dilay, et ce aux despends de celuy qui
+#facs_12_r2l3 habitera dans la maisons a l'esgard de ce qui se trouvera proceder
+#facs_12_r2l4 de sa faute, peu de soin et manque de propreté convenable, aussy
+#facs_12_r2l5 bien que ce qui manquera aux fenestres, portes, fourneaux,
+#facs_12_r2l6 serrures & pour quel effect avons de plus donné pouvoir
+#facs_12_r2l7 Rordre trésexpres a nosdts. Tallifs de se rembourser sur la
+#facs_12_r2l8 pension de celuy qui aura encouru fautes de ce que telle
+#facs_12_r2l9 reparations auront cousté, et de ne nous mettre plus à
+#facs_12_r2l10 compte à l'advenir, pour reparations que ce qui sera use
+#facs_12_r2l11 par vieillesse de temps et aura deriue dautres causes
+#facs_12_r2l12 que celles qui sont cy devant specifiees. Et combien qui
+#facs_12_r2l13 nous pourrions avec beaucoup de raisons introduire la pre
+#facs_12_r2l14 sente ordonnance des incontinent par lérecution. Neant
+#facs_12_r2l15 moings pour prevenir toute matiere de plainte à ceux
+#facs_12_r2l16 qui depuis peu pourroyent avoir pris possession de maison
+#facs_12_r2l17 ainsy negligées par leurs predecesseurs, Nous avons par
+#facs_12_r2l18 un effect de nostre donté resolu de faire remettre en bon
+#facs_12_r2l19 estat encores pour ceste fois toutes telles Maisons Eccles
+#facs_12_r2l20 astiques, et arresté que la presente ordonnance n'aura son
+#facs_12_r2l21 effect en chasque lieu que apres qu'y auront fait faire
+#facs_12_r2l22 les reparations plus necessaires. Ayants trouvé à propos
+#facs_12_r2l23 de vous addresser à ce subiect les presentes à celle fin que
+#facs_12_r2l24 a premiere assemblée de Classe vous en sassiéz lecture
+#facs_12_r2l25 et que chascun de vous estant informé de nos Intention
+#facs_12_r2l26 s'y puisse ranger à l'advenir avec l'obeissance et soubmissio
+#facs_12_r2l27 que nous nous promettons. Vous recommandants sur ce a
+#facs_12_r2l28 ta divine protection. Conneés ce 8. Juillet, 674.

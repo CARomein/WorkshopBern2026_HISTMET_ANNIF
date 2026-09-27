@@ -1,0 +1,166 @@
+BER.01.001.2755
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 157/157
+# High similarity (>=50%): 147
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_288_r7l1 1
+#facs_288_r7l2 1
+#facs_288_r7l3 sigt
+#facs_289_r2l1 An alle 2 und W. ambtleüts. 4 Tättl
+#facs_289_r2l2 freyweibel und Amman Item an die
+#facs_289_r2l3 gemeine Ambt: und Cantzel alhier in der
+#facs_289_r2l4 Statt
+#facs_289_r2l5 Wegen der Annemmung des verbesserten
+#facs_289_r2l6 Aulianischen oder so genanten alten
+#facs_289_r2l7 Calenders.
+#facs_289_r2l8 Schultheiß und Rath der Statt Bern etc.
+#facs_289_r2l9 Die bekantermaßen nach dem Julianischen
+#facs_289_r2l10 als alten vnd Gregorianischen als Neuwen
+#facs_289_r2l11 Calenders vngleiche Zeit und Fest-Rech¬
+#facs_289_r2l12 mungen halendt seit mehr dann hundert
+#facs_289_r2l13 Jahren daher nit nur ins gemein, sondern
+#facs_289_r2l14 und für nemblich in denen landen, da Evang¬
+#facs_289_r2l15 eh: und Römisch Cäthl. herschaffen vnd vnder¬
+#facs_289_r2l16 thanen sich vermischt befinden, vielfältige ver
+#facs_289_r2l17 ordnungen und streitigkeiten in geist undt
+#facs_289_r2l18 weltlichen Dingen erwecket dahero zu
+#facs_289_r2l19 öffteren erwünscht worden, das zu abhelfung
+#facs_289_r2l20 dieser Unordnung die etwen auf bahn kommen
+#facs_289_r2l21 vorschläg hetten Platz finden und eine un¬
+#facs_289_r2l22 passionirte eigentliche Zeit Rechnung ge¬
+#facs_289_r2l23 schloßen und verglichen werden mögen: wann
+#facs_289_r3l1 1563
+#facs_289_r3l2 dann diß gegenwertige 1700 Jahr hierzu einen
+#facs_289_r3l3 sonderlichen bequämmen anlaß gegeben: als ist auß
+#facs_289_r3l4 sonderlicher veranstaltung durch etwelche in
+#facs_289_r3l5 diser kunst wohlgeübte vnd erfahrne personen
+#facs_289_r3l6 mit so nderbahren Fleiß vberleget, volgendts
+#facs_289_r3l7 durch gezogene genauwern Zeit aus Rechnung
+#facs_289_r3l8 der Julianische sogenante Alte Calender
+#facs_289_r3l9 dahin verbeßeret worden, daß die seit mehr
+#facs_289_r3l10 dann hundert Jahren daher biß auf gegen¬
+#facs_289_r3l11 wertige Zeit nach und nach zu viel eingeschaltete
+#facs_289_r3l12 silff tag nunmehro auf einmahl außgelaßen
+#facs_289_r3l13 und hinfüro die Fest-Rechnungen beyder
+#facs_289_r3l14 Salenderen auch darnach eingerichtet werden
+#facs_289_r3l15 Sollen: Inmaßen hierdurch fürs künfftig
+#facs_289_r3l16 hin zwischen denen Evangl. vnd Romisch
+#facs_289_r3l17 Cathos. der vnderscheidt der tag= und fest¬
+#facs_289_r3l18 Zeiten äußert dem Osterfest, als welches demnach
+#facs_289_r3l19 zu gewüßen Jahren nit eintreffen wird?
+#facs_289_r3l20 aufgehabt und in die gleichheit gesetzt worden:
+#facs_289_r3l21 und wie nun, diesere Arbeit von der Evanglen
+#facs_289_r3l22 Churfürsten, fürsten und Ständen des Reichs auf
+#facs_289_r3l23 dem Reichstag zu Regenspürg versamlet gewusten.
+#facs_289_r3l24 gevollmächtigten Kathen, Bellschafften und gesandten
+#facs_289_r3l25 reiflich examiniert, überleget und erwogen, und nach
+#facs_289_r3l26 dem solches Ihnen bestens gefallen, Im nahmen Ihrer
+#facs_289_r3l27 gnädigsten und gnaden hohen principalen angenommen
+#facs_289_r4l1 7
+#facs_289_r4l2 om
+#facs_289_r6l1 dt
+#facs_289_r6l2 le-
+#facs_289_r6l3 rigt
+#facs_290_r1l1 An Alle T. und W. Ambtleuts. 4 Fäll.
+#facs_290_r1l2 freyweibel und Amman., Item an die
+#facs_290_r1l3 Gemeine Ambt. und Cantzel alhier in der
+#facs_290_r1l4 Statt
+#facs_290_r1l5 Begen der Annennung des verbesserten
+#facs_290_r1l6 Julianischen oder so genanten alten
+#facs_290_r1l7 Calenders.
+#facs_290_r1l8 x
+#facs_290_r1l9 Schultheiß und Rath der Statt Bern.
+#facs_290_r1l10 Collat
+#facs_290_r1l11 Die behantermaßen nach dem Julianischen
+#facs_290_r1l12 als alten vnd Gregorianischen als Neuwen
+#facs_290_r1l13 Calenders ungleiche Zeit und Test. Rech¬
+#facs_290_r1l14 mungen halendt seit mehr dann hundert
+#facs_290_r1l15 Jahren daher nit nur Ins gemein, sondre
+#facs_290_r1l16 und fürnemblich in denen landen, da Wann
+#facs_290_r1l17 H. und Römisch Cäthl. herschaffen vnd vnder¬
+#facs_290_r1l18 thanen sich vermischt befinden, vielf altige ver¬
+#facs_290_r1l19 ordnungen und streitigkeiten in Geist undt
+#facs_290_r1l20 weltlichen Dingen erwecket dahero zum
+#facs_290_r1l21 offeren erwünscht worden, daß zu abhelfung
+#facs_290_r1l22 dieser Unordnung die etwan auf bahn kommen
+#facs_290_r1l23 vorschläg hetten Zulatz finden und eine un¬
+#facs_290_r1l24 passionierte eigentliche Zeit Rechnung ge¬
+#facs_290_r1l25 schloßen und verglichen werden mögen: wann
+#facs_290_r2l1 7
+#facs_290_r2l2 on
+#facs_290_r3l1 563.
+#facs_290_r3l2 dann dies gegenwertige 1700 Jahr hierzu einem
+#facs_290_r3l3 sonderlichen bequämmen anlaß gegeben: als ist auß
+#facs_290_r3l4 sonderlicher veranstaltung durch etwelche in
+#facs_290_r3l5 diser kunst wohlgeübte vnd erfahrne personen
+#facs_290_r3l6 mit so nderbahrem Fleiß vberleget, volgendts
+#facs_290_r3l7 durch gezogene genauwern Zeit auss Rechnung
+#facs_290_r3l8 der Julianische sogenante Alte Calender
+#facs_290_r3l9 dahin verbeßeret worden, daß die seit mehr
+#facs_290_r3l10 dann hundert Jahren daher biß auf gegen¬
+#facs_290_r3l11 wertige Zeit nach und nach zu viel eingeschalter
+#facs_290_r3l12 silff tag nunmehro auf einmahl außgelaßen
+#facs_290_r3l13 vnd hinfüro die fest-Rechnungen beyder
+#facs_290_r3l14 Calenderen auch darnach eingerichtet werden
+#facs_290_r3l15 sollen: Inmaßen hierdurch fürs künfftig
+#facs_290_r3l16 hin zwischen denen Evangl. vnd Romisch
+#facs_290_r3l17 Cathos. der Underscheidt der Tag= und Post¬
+#facs_290_r3l18 Zeiten äußert dem Osterfest, als welches denen
+#facs_290_r3l19 zu gewüßen Jahren nit eintreffen wird.
+#facs_290_r3l20 aufgehabt und in die gleichheit gesetzt worden,
+#facs_290_r3l21 und wie nun, diesere Arbeit von der Evanglen
+#facs_290_r3l22 Churfürsten, fürsten und Ständen des Reichs auf
+#facs_290_r3l23 Dem Reichstag zu Regenspurg versamlet gewestet
+#facs_290_r3l24 gevollmächtigten Rathen, Bottschafften und gesandt.
+#facs_290_r3l25 reiflich examiniert, überleget und erwogen, und nach
+#facs_290_r3l26 Dem solches Ihnen bestens gefallen, Im nahmen Ihrer
+#facs_290_r3l27 gnädigsten und gnaden Sachen principalen angenommen
+#facs_290_r5l1 dt
+#facs_290_r5l2 le-
+#facs_290_r5l3 nigt
+#facs_291_r1l1 zugleich auch durch schreyten eine Lobln. Even¬
+#facs_291_r1l2 Eydtgroßschafft zu gleichmäßiger Einführung
+#facs_291_r1l3 deß obgemelt verbesserten acten Calenders ei=
+#facs_291_r1l4 sucht worden; hat Eine Lobhe. Wanghr. Eydt ges¬
+#facs_291_r1l5 schafft disere matre; durch gelehrte leuthe Geist
+#facs_291_r1l6 und weltlichen Tandts auch überlegen laßen,
+#facs_291_r1l7 und nach dero eröffneter gemichtsmeinung.
+#facs_291_r1l8 wie daß durch so thane abfoderung weder in
+#facs_291_r1l9 geist- nach Beltlichen Dingen einicher nachtheil
+#facs_291_r1l10 nicht zu besorgen, hingegen aber durch bybehal¬
+#facs_291_r1l11 tung so thaner Zeit=bereinigung vielen unord¬
+#facs_291_r1l12 nungen, zwungen und streitigkeiten abgeholffen
+#facs_291_r1l13 und mehrere Rommligkeit und liechterungen
+#facs_291_r1l14 im Handel und Wandel verschaffet werden
+#facs_291_r1l15 solchen nach kein widriges bedencken gefunden
+#facs_291_r1l16 auch hier mit einzusimmen, vnd zu dem rüdt
+#facs_291_r1l17 auf der im Brach- und Heuwmonat letzthin
+#facs_291_r1l18 gehaltenen Jahrrechnung und Tagsatzung
+#facs_291_r1l19 im Baden sich zu annem- und Einführung
+#facs_291_r1l20 disers verbeßerten Julianischen oder so genante,
+#facs_291_r1l21 alten Calenders entschloßen: Also doch darin
+#facs_291_r1l22 nach geendigten disen 6 Jetz lauffenden 1700
+#facs_291_r1l23 Jahr der ansang gemacht, und hiemit auf
+#facs_291_r1l24 den 31. Christmanats Vnsers bißharigen,
+#facs_291_r1l25 alten Calenders also bald vorillelbar
+#facs_291_r1l26 der 12 tag Januar daß 1701 folgen und
+#facs_291_r3l1 gezehlet werden soll.
+#facs_291_r3l2 v. 565
+#facs_291_r3l3 Vnd damit nun nicht allein jeder mänglich sich
+#facs_291_r3l4 darnach zurichten Büße, sondern auch allen sonst
+#facs_291_r3l5 besorgenden ungleichen und vergueten gedancken,
+#facs_291_r3l6 und meinungen so by unsern angehörigen undt
+#facs_291_r3l7 Andterthanen zu Stall und landt disers abgeändert.
+#facs_291_r3l8 oder vielmehr verbeßerten Calenders wegen auch
+#facs_291_r3l9 ermanglung berichts aufsteigen möchten, ver¬
+#facs_291_r3l10 gebogen und selbige benommen, und hingegen ein
+#facs_291_r3l11 und andere des beßern berichtet werd inde
+#facs_291_r3l12 habendt wir dir, gleich gegen allen andren vnsern
+#facs_291_r3l13 Ambtleüthten auch beschicht, hiemit befehlen
+#facs_291_r3l14 Wollen, solches öffentlich von Cantzlin ver¬
+#facs_291_r3l15 künden zelaßen, wie zu thun kaußen wirst
+#facs_291_r3l16 Dat: 22 octobris 1700.

@@ -1,0 +1,623 @@
+Law nr: BER.01.001.4582
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 612/612
+# High similarity (>=80%): 576
+# Low similarity (<80%): 36
+# Not found: 0
+#
+#facs_4_r1l1 2
+#facs_207_r4l2 alle teutsch und welsch Herren Amtleut.
+#facs_145_r5l4 Vier Städt, Freyweibel und Amann
+#facs_207_r4l4 Preis=Erhöhung der Neuen Auplonen
+#facs_208_r4l5 Schultheis Räth und Surger. Einliegend
+#facs_207_r4l6 Würdigungs Mandat der Louisdors wird Euch
+#facs_207_r4l7 zugestandt mit dem Befehl, solches von
+#facs_193_r3l17 Canzeln verlesen, gebohnter Orten Anstehl auf
+#facs_207_r4l9 anschlagen laßen, auch Hand obzuhalten
+#facs_207_r4l10 daß daselbe genau befolget werde.
+#facs_208_r4l12 Dat. den 24. Hornung 1786.
+#facs_314_r4l13 Schultheis Klein und große
+#facs_207_r4l13 Räthe der Stadt und Republik Bern, ent¬
+#facs_208_r4l15 bieten allen Unseren lieben und getrauen Anga¬
+#facs_207_r4l15 hörigen Unseren geneigten Willen, und thun bund
+#facs_208_r4l17 hiemit: daß Wir nach reifer Überlegung uns ent¬
+#facs_207_r4l17 schloßen haben, den Preis der Gold vorten in Unseren
+#facs_208_r4l19 Landen zu erhöhen. Dennach haben Wir gebürdiget
+#facs_207_r4l19 und schähen hiemit.
+#facs_208_r4l21 Die bißherige Neue Juplonen, so von
+#facs_207_r4l21 Anno 1726. bis 1785. ist geprägt worden,
+#facs_86_r1l1 164
+#facs_208_r4l24 zu 153. Gran. Gebicht und
+#facs_8_r9l1 11
+#facs_8_r9l1 11
+#facs_55_r5l1 103
+#facs_208_r3l1 daß die Real Territion, da durch den
+#facs_207_r2l2 Scharf Richter Hand an den Befangenen
+#facs_207_r2l3 gelegt wird, als aber die Folter selbst, in
+#facs_207_r2l4 Unseren Landen, nicht anders als mit
+#facs_207_r2l5 der äußersten Behutsamkeit, und nicht
+#facs_207_r2l6 ohne die dringendeste Nothbendigkeit,
+#facs_207_r2l7 auch nur bey hinreichenden Indicien in
+#facs_208_r3l8 Fällen bo das Verbrechen die Todes¬
+#facs_207_r2l9 straf nach sich ziehen könnte, anben
+#facs_206_r3l9 den zu laßen.
+#facs_207_r2l11 Ihr berdet demmenach, der Herrschaft
+#facs_208_r3l12 Hallbyl diese Unsere Landes vätterlich
+#facs_207_r2l13 Vorsorge, und Willens Meinung dahin
+#facs_207_r2l14 wöffnen. daß Wir erbarten seyen
+#facs_207_r2l15 daß sie sich, so viel ihre Berichtsbar
+#facs_207_r2l16 heit von Fehrbergen und Dennbyl
+#facs_207_r2l17 betrift, derselben unterziehe und nach
+#facs_207_r2l18 lebe (und in solchen Fällen sich bey
+#facs_207_r2l19 Unserem täglichen Rath, Raths erhole
+#facs_207_r2l20 und deßen Wegbeisung gebärtig seye
+#facs_207_r2l21 Da Wir übrigens sie bey ihren habend
+#facs_207_r2l22 Rechten verbleiben laßen, und hiendurch
+#facs_207_r2l23 nicht zu schmäleren gedenben.
+#facs_207_r2l24 Auch berdet ihr diese Unsere Verordnung
+#facs_208_r3l25 behörigen Orts einschreiben laßen
+#facs_207_r2l26 actl. Aorstath
+#facs_23_region_1633454616028_2913l1 An
+#facs_207_r4l2 alle teutsch und welsch Herren Amtleut.
+#facs_145_r5l4 Vier Städt, Freyweibel und Amann
+#facs_207_r4l4 Preis=Erhöhung der Neuen Auplonen
+#facs_208_r4l5 Schultheis Räth und Surger. Einliegend
+#facs_207_r4l6 Würdigungs Mandat der Louisdors wird Euch
+#facs_207_r4l7 zugestandt mit dem Befehl, solches von
+#facs_193_r3l17 Canzeln verlesen, gebohnter Orten Anstehl auf
+#facs_208_r4l9 auch Hand obzuhalten.
+#facs_208_r4l10 anschlagen laßen;
+#facs_207_r4l10 daß daselbe genau befolget werde.
+#facs_208_r4l12 Dat. den 24. Hornung 1786.
+#facs_83_r3l6 en
+#facs_208_r4l13 Collak: Dir Schultheisz klein und große
+#facs_207_r4l13 Räthe der Stadt und Republik Bern, ent¬
+#facs_208_r4l15 bieten allen Unseren lieben und getrauen Anga¬
+#facs_207_r4l15 hörigen Unseren geneigten Willen, und thun bund
+#facs_208_r4l17 hiemit: daß Wir nach reifer Überlegung uns ent¬
+#facs_208_r4l18 schloßen haben, den Preis der Gold vorten in Unsere
+#facs_208_r4l19 Landen zu erhöhen. Dennach haben Wir gebürdiget
+#facs_207_r4l19 und schähen hiemit.
+#facs_208_r4l21 Die bißherige Neue Juplonen, so von
+#facs_207_r4l21 Anno 1726. bis 1785. ist geprägt worden,
+#facs_84_r4l1 161
+#facs_208_r4l24 zu 153. Gran. Gebicht und
+#facs_136_r2l28 die
+#facs_54_r10l1 101
+#facs_209_r1l1 405
+#facs_209_r2l1 Die ganz neu Fuplone aber, so in
+#facs_209_r2l2 Folg des französischen Edikts vom
+#facs_209_r2l3 30. Octobl. 1785. geprägt worden, zu
+#facs_209_r2l4 143. Gran Gewicht, und
+#facs_82_r1l1 156.
+#facs_209_r2l6 Die doppelte und halbe neue Duplone
+#facs_209_r2l7 nach Proportion.
+#facs_209_r2l8 In Erwartung nun auch übrige Gold¬
+#facs_209_r2l9 dorten werden gebürdiget seyn, und das
+#facs_209_r2l10 hierüber anbefohlene vollständige Münz¬
+#facs_209_r2l11 Mandat erscheinen wird, haben Wir
+#facs_209_r2l12 indeßen dieses in Aufhebung der Ver=
+#facs_209_r2l13 barnung vom 30. Octobr. 1785. zu jeder
+#facs_209_r2l14 mans verhalt bekant machen wollen,
+#facs_209_r2l15 mit der deutlichen Erklärung, daß bey
+#facs_209_r2l16 der in Unstern gegenbärtigen Münz¬
+#facs_209_r2l17 Mandaten Münz-Mandaten ausgedrübt
+#facs_209_r2l18 Straf einem jeden von nun an ernstlich
+#facs_209_r2l19 terbotten seyn soll, diese allso gebürdigte
+#facs_209_r2l20 zbey Goldborten in einem höheren
+#facs_210_r2l21 Niedeigern Preis weder aus zugeben, noch anzu¬
+#facs_209_r2l22 nehmen. Wornach sich jedermann
+#facs_209_r2l23 zu halten wißen wird. Geben in Unserer Großen
+#facs_209_r2l24 Raths=Versamlung, den 24. Hornung 1786.
+#facs_65_r3l5 Canzley Bern.
+#facs_4_r4l1 3.
+#facs_47_r3l6 Traduction.
+#facs_57_r1l1 106.
+#facs_47_r3l6 Traduction.
+#facs_210_r3l3 Collat Nous l'Avoyer petit et grand
+#facs_209_r3l4 Conseil de la Ville & republique de Berne,
+#facs_209_r3l5 et tous nos chers & fideles Sujets Salut o
+#facs_209_r3l6 Qu'après mure Déliberation
+#facs_47_r3l12 savoir faisons.
+#facs_209_r3l8 Nous avons jugé à propos, de hausser le prix
+#facs_209_r3l9 des Monnois d’Or en nos Pays, Ensuite de quoi
+#facs_210_r3l10 Nous avons évalué & taxons par les présentes
+#facs_209_r3l11 Le Louis neuf de la fabrication de 1726 jus¬
+#facs_210_r3l12 qu'à 1785 au poids de 153 grains a. 1611 baches
+#facs_209_r3l13 Le Louis neuf de la nouvelle fabri¬
+#facs_209_r3l14 cation selon cédit de France du 30
+#facs_210_r3l15 Octobre 1785. au poids de 143 grains a 156 baches.
+#facs_210_r3l16 Les double houis & deme louis à proportion
+#facs_209_r3l17 Ce dont nous avons bien voulu donner
+#facs_209_r3l18 connaissance aussi-tôt a un chacun, en-
+#facs_209_r3l19 évocation de l'avertissement du 30 Novemb
+#facs_209_r3l20 1785. & en attendant que l'evaluation des
+#facs_209_r3l21 autres especes dor soit faite & énoncée dans
+#facs_209_r3l22 Le Mandat de Monnoie général, qui va
+#facs_209_r3l23 paroitre. Bien entendu cependant, que
+#facs_209_r3l24 des a présent il sera defendu sévérement
+#facs_209_r3l25 a tous et un chacun, sous la peine enoncées
+#facs_209_r1l1 405
+#facs_209_r2l1 Die ganz neu Fuplone aber, so in
+#facs_209_r2l2 Folg des französischen Edikts vom
+#facs_209_r2l3 30. Octobl. 1785. geprägt worden, zu
+#facs_82_r1l1 156.
+#facs_210_r2l5 143. Gran Gewicht, um
+#facs_209_r2l6 Die doppelte und halbe neue Duplone
+#facs_209_r2l7 nach Proportion.
+#facs_209_r2l8 In Erwartung nun auch übrige Gold¬
+#facs_209_r2l9 dorten werden gebürdiget seyn, und das
+#facs_209_r2l10 hierüber anbefohlene vollständige Münz¬
+#facs_209_r2l11 Mandat erscheinen wird, haben Wir
+#facs_209_r2l12 indeßen dieses in Aufhebung der Ver=
+#facs_209_r2l13 barnung vom 30. Octobr. 1785. zu jeder
+#facs_209_r2l14 mans verhalt bekant machen wollen,
+#facs_209_r2l15 mit der deutlichen Erklärung, daß bey
+#facs_209_r2l16 der in Unstern gegenbärtigen Münz¬
+#facs_209_r2l17 Mandaten Münz-Mandaten ausgedrübt
+#facs_209_r2l18 Straf einem jeden von nun an ernstlich
+#facs_209_r2l19 terbotten seyn soll, diese allso gebürdigte
+#facs_209_r2l20 zbey Goldborten in einem höheren
+#facs_210_r2l21 Niedeigern Preis weder aus zugeben, noch anzu¬
+#facs_209_r2l22 nehmen. Wornach sich jedermann
+#facs_209_r2l23 zu halten wißen wird. Geben in Unserer Großen
+#facs_209_r2l24 Raths=Versamlung, den 24. Hornung 1786.
+#facs_65_r3l5 Canzley Bern.
+#facs_69_r7l7 at
+#facs_59_r1l1 110
+#facs_47_r3l6 Traduction.
+#facs_210_r3l3 Collat Nous l'Avoyer petit et grand
+#facs_209_r3l4 Conseil de la Ville & republique de Berne,
+#facs_210_r3l5 à tous nos chers & fideles Sujets Salut &
+#facs_209_r3l6 Qu'après mure Déliberation
+#facs_47_r3l12 savoir faisons.
+#facs_209_r3l8 Nous avons jugé à propos, de hausser le prix
+#facs_209_r3l9 des Monnois d’Or en nos Pays, Ensuite de quoi
+#facs_210_r3l10 Nous avons évalué & taxons par les présentes
+#facs_209_r3l11 Le Louis neuf de la fabrication de 1726 jus¬
+#facs_210_r3l12 qu'à 1785 au poids de 153 grains a. 1611 baches
+#facs_209_r3l13 Le Louis neuf de la nouvelle fabri¬
+#facs_209_r3l14 cation selon cédit de France du 30
+#facs_210_r3l15 Octobre 1785. au poids de 143 grains a 156 baches.
+#facs_210_r3l16 Les double houis & deme louis à proportion
+#facs_209_r3l17 Ce dont nous avons bien voulu donner
+#facs_209_r3l18 connaissance aussi-tôt a un chacun, en-
+#facs_209_r3l19 évocation de l'avertissement du 30 Novemb
+#facs_209_r3l20 1785. & en attendant que l'evaluation des
+#facs_210_r3l21 autres especes d'or soit faite et énoncée dans
+#facs_209_r3l22 Le Mandat de Monnoie général, qui va
+#facs_209_r3l23 paroitre. Bien entendu cependant, que
+#facs_209_r3l24 des a présent il sera defendu sévérement
+#facs_209_r3l25 a tous et un chacun, sous la peine enoncées
+#facs_57_r5l1 107
+#facs_123_r2l1 Collate
+#facs_211_r3l1 dans les Mandats de Monnoie actuels
+#facs_211_r3l2 de donner ou de recevoir ces deux especes
+#facs_211_r3l3 dor a un prix plus haut au plus pas
+#facs_211_r3l4 quelles ne sont taxées par ces presentes
+#facs_211_r3l5 auxquelles un chacun sera tenu de se
+#facs_211_r3l6 Donne en Notre Grand
+#facs_211_r3l7 conformer
+#facs_211_r3l8 Conseil le 24 Fevrier 1786.
+#facs_48_r3l25 Chancellerie de Berne
+#facs_197_r4l21 Zedel an alle Bureaux und H. Schaffner wo
+#facs_211_r3l12 Schafner wo Oberbeitl. Caßen sich
+#facs_211_r3l13 befinden.
+#facs_211_r3l14 der Louis dor von bisherigem Stempfel
+#facs_211_r3l15 für 16 4. Sachen auszugeben.
+#facs_211_r3l16 Schultheis und Rath etc. Unterm 30ten
+#facs_211_r3l17 9.bris lest verbichenen Jahrs haben Wir
+#facs_211_r3l18 Euch den Befehl zugehen laßen, die für
+#facs_211_r3l19 unsere Rechnung in Handen habende neue
+#facs_211_r3l20 Louisdor von bißherigem Steinpfal bis
+#facs_211_r3l21 auf fernere Verordnung inzubehalten.
+#facs_123_r2l1 Collate
+#facs_10_r5l2 40
+#facs_211_r5l2 Da nun die Ghl. und Obere unterem 24ten
+#facs_211_r5l3 february hierüber einen Entscheid genommen.
+#facs_211_r5l4 zumahl diese neue Duplonen auf 164. bahy
+#facs_211_r5l5 geschäft haben, so werdet Ihr diesemnach
+#facs_211_r5l6 sothane neue Zuzlonen von nun an u
+#facs_211_r5l7 diesem geschichten Preis ausgeben könne.
+#facs_211_r5l8 den davon erschießenden Überfluß aber
+#facs_211_r5l9 Mn Gh. verrechnen.
+#facs_211_r5l10 Datl. den 3. Merz 1786.
+#facs_23_region_1633454616028_2913l1 An
+#facs_211_r5l12 alle teutsch und welsche Herren Amtleute
+#facs_211_r5l13 4. Städt Freybeibel und Ammann.
+#facs_211_r5l14 fürkauffs Mandat der kleinen
+#facs_211_r5l15 Viehbaar von lobl. Stand Fryburg;
+#facs_211_r5l16 Schultheis und Rath etc. Wegen dem Für¬
+#facs_211_r5l17 Bauf der kleinen Viehbaar hat lobl. Stand
+#facs_211_r5l18 fryburg mitkommende Verordnung ergehen
+#facs_211_r5l19 laßen, davon Wir Euch /: dir :/ genugsame
+#facs_201_r4l3 Exemplar zusenden, um selbige zu jeder¬
+#facs_211_r5l21 ten Canzlen verlesen, gebohnter Orten
+#facs_211_r5l22 anschlagen, auch selbe seines Orts ein¬
+#facs_211_r5l23 schreiben und invigilieren zu laßen, daß
+#facs_212_r1l1 40 9
+#facs_212_r2l1 deme nachgelebt werde, und in Vorfollen¬
+#facs_212_r2l2 heiten, solche in Execution zu sehen.
+#facs_211_r5l10 Datl. den 3. Merz 1786.
+#facs_212_r2l4 Collatz. Dir Schultheiß und Rath der Stadt
+#facs_212_r2l5 und Republik Bern, thun kund hiemit:
+#facs_212_r2l6 daß lobl. Stand Fryburg in Ansehung
+#facs_212_r2l7 deß Fürkaufs der kleinen Viehbaar
+#facs_212_r2l8 nachstehende Verordnung ergehen laßen.
+#facs_212_r2l9 welche Wirsogleich nachzudruken anbe¬
+#facs_212_r2l10 fohlen, damit solche öffentlich verlesen.
+#facs_212_r2l11 und an gebohnten Orten angeschlagen
+#facs_212_r2l12 berde, Unsere Bürger und Angehörige
+#facs_212_r2l13 sich aber darnach richten können. Geben
+#facs_212_r2l14 den 13. März 1786.
+#facs_47_r3l5 Lanzley Bern.
+#facs_212_r2l17 Wir Schultheiß klein und
+#facs_123_r2l1 Collate
+#facs_212_r2l19 groß Rath der Stadt und Republik
+#facs_348_r3l21 Freyburg, thun kund hiermit.
+#facs_212_r2l21 malen Wir vor einiger Zeit daher,
+#facs_212_r2l22 erfahren, daß der gefährliche Fürkauf
+#facs_212_r2l23 der Schaafe und Kälber zu größtem
+#facs_212_r3l1 Nachtheile des gemeinen Westens, be¬
+#facs_212_r3l2 sonders aber der Mehger, unternommen
+#facs_212_r3l3 und fortgetrieben; Wir diesem Übel
+#facs_212_r3l4 durch die gegenbärtige Verordnung
+#facs_212_r3l5 einen Einhalt zu thun für nöhtig erachte
+#facs_212_r3l6 und hiemit anzuordnen:
+#facs_212_r3l7 1° Daß den hiesigen Meygermeisteren
+#facs_212_r3l8 so wohl als allen anderen der Eidgnoßen
+#facs_212_r3l9 schaft, solle erlaubt und zugelaßen seyn
+#facs_212_r3l10 las zum Vorrath und Gebrauch ihrer
+#facs_212_r3l11 Stänbe nöhtige kleine Vieh hinter Unsere
+#facs_212_r3l12 Landen selbsten oder durch ihre Metzer
+#facs_212_r3l13 knechte ferners einzukauffen, dieser
+#facs_212_r3l14 jedoch unter dem heiteren Vorbehalt
+#facs_212_r3l15 daß die Meister, so wohl als ihre Knechte,
+#facs_212_r3l16 mit authentischen Zeugsame der Meister¬
+#facs_212_r3l17 schaft, oder Mangelhalb deren des Ma¬
+#facs_212_r3l18 gistrats oder Amtsmans des Orts, mit
+#facs_212_r3l19 ihren Sigeln verwahret, sollen ins könft¬
+#facs_212_r3l20 terstehen seyn, daß ihnen aber und allen
+#facs_212_r3l21 Käufern und Fürbaüfern damit ein Ge¬
+#facs_212_r3l22 berb oder Fürkauf unter welchem Vor¬
+#facs_212_r3l23 bande es immer wäre, zu treiben, unter
+#facs_272_r2l3 Getreid Zehnden.
+#facs_74_r1l1 140
+#facs_8_r9l1 11
+#facs_213_r2l1 fürkäufer angesehen, und behandelt
+#facs_213_r2l2 zu berden, gänzlich solle verbacten
+#facs_213_r2l3 bleiben.
+#facs_213_r2l4 2° die Bauren, und diejenigen, die
+#facs_213_r2l5 mit Kälbern handeln, um selbe bieder
+#facs_213_r2l6 zu verbauffen, sollen hiemit gehalten
+#facs_213_r2l7 berden, die eingekauften Kälber während
+#facs_213_r2l8 drey Wahen mit ihrer Ruhemild zu
+#facs_213_r2l9 unterhalten, ehe und bevor sie dieselben
+#facs_213_r2l10 vertreiben und verkaufen können.
+#facs_213_r2l11 3° Daß das Zugrecht den Metzger
+#facs_213_r2l12 meistern hiesiger Hauptstadt gegen
+#facs_213_r2l13 allen Fremden, die nicht von der Eid¬
+#facs_213_r2l14 gnoßenschaft, so bohl als gegen den
+#facs_213_r2l15 einheimisch = und fremden Händlern
+#facs_213_r2l16 ferners bin vor diesem soll beybehalt,
+#facs_213_r2l17 seyn, mit dem Vorbehalt jedoch, daß
+#facs_213_r2l18 dieses Zugrecht an den Jahrmarkts Tage
+#facs_213_r2l19 gegen den außern Mehgern nicht werde
+#facs_213_r2l20 stadt haben können, und daß derjenige
+#facs_213_r2l21 der einen Kauf wird ziehen wollen,
+#facs_213_r2l22 es nicht berde für einen Theil nach
+#facs_213_r2l23 Relieben, sondern für den völligen
+#facs_213_r2l24 kauf thun, auch dem ersten Käufer
+#facs_123_r2l1 Collate
+#facs_213_r4l1 baar das ausgesteibelte des Kaufs erlegen
+#facs_59_r2l22 sollen.
+#facs_213_r4l3 Sämtliches bey der Ruß von zwanzig
+#facs_213_r4l4 Pfunden, nebst der Confiskation, durch
+#facs_213_r4l5 Jedenwiederhandelnden zu erlegen; davon
+#facs_213_r4l6 ein Drittel Uns, ein dristel dem Amts¬
+#facs_213_r4l7 mann des Orts, und der andere Drittel
+#facs_213_r4l8 dann dem Verleider, nebst Geheimhaltung
+#facs_213_r4l9 eines Namens, zukommen wird. Ein
+#facs_213_r4l10 welches zu eines jeden Wissen und Ver¬
+#facs_213_r4l11 halt gebohnten maßen wird publisiert
+#facs_213_r4l12 und angeschlagen werden.
+#facs_213_r4l13 Geben den 17ten Januar 1786.
+#facs_313_r3l10 Cansley Freyburg.
+#facs_47_r3l6 Traduction.
+#facs_153_r2l17 einsenden
+#facs_213_r4l17 et republique de Berne, savoir faisons
+#facs_213_r4l18 que le louable Etat de frybourg ayant fait
+#facs_213_r4l19 au sujet du commerce du petit bétail le
+#facs_145_r3l6 da Uns die Anzeige gethan wor,
+#facs_213_r4l21 trouvé nécessaire de faire imprimer ce reglement
+#facs_60_r1l1 112.
+#facs_54_r7l9 113
+#facs_214_r2l1 pour être lue en chaire, publié & affichés
+#facs_214_r2l2 aux lieux accoutumés, afin que nos bourgeois
+#facs_214_r2l3 & sujets qui se trouveroit dans le cas de
+#facs_214_r2l4 faire de commerce dans le Canton de
+#facs_214_r2l5 frybourg en soient informés, & quils puissent
+#facs_214_r2l6 se conduire en conséquence. Donné le 13. mars
+#facs_27_r2l1 48
+#facs_48_r3l25 Chancellerie de Berne
+#facs_43_r2l7 8
+#facs_222_r4l1 Collat
+#facs_214_r2l12 ous l'avoyer Petit et Grand Conseil
+#facs_214_r2l13 de la Ville et république de Frybourg, savoir
+#facs_214_r2l14 faisons par les présentes: qu'ayant observé
+#facs_214_r2l15 depuis quelques temps, combien le dangereux
+#facs_214_r2l16 monopole du petit bétail, soit des veaux
+#facs_214_r2l17 & des moutons, etoit usagé, au grand
+#facs_214_r2l18 dommage de tout le Public & a celui des
+#facs_214_r2l19 Bouchers en particulier; nous avons
+#facs_214_r2l20 jugé être necessaire de faire cesser cet abus
+#facs_214_r2l21 dommageable par la présente Ordonnance
+#facs_214_r2l22 & de statuer & ordonner comme suit de pom
+#facs_214_r2l23 en point:
+#facs_214_r2l24 1. Il sera permis & concedé aux maitres
+#facs_214_r2l25 Bouchers du petit bétail, tant à ceux qui
+#facs_59_r3l1 111
+#facs_214_r3l2 habitent dans les terres du louable Corps.
+#facs_214_r3l3 heloctique, qu'a ceux du Canton d'acheter
+#facs_214_r3l4 foit par eux mêmes, soit par leur domes
+#facs_214_r3l5 tiques, en tous lieux où il leur conviendra
+#facs_214_r3l6 la quantité du petit bétail qui leur est
+#facs_214_r3l7 nécéssaire pour l’approvisionnement de leurs
+#facs_214_r3l8 bancs de boucherie; sous la condition expressé
+#facs_214_r3l9 ependant, que tant eux, que leurs domestiques
+#facs_214_r3l10 devront toujours être munis de temoignages.
+#facs_214_r3l11 authentiques de la part de la maitrise, où
+#facs_214_r3l12 à ce défaut, de la part du magistrat ou du
+#facs_285_r3l12 Befehl an alle Unsere Ober- und
+#facs_214_r3l14 defendant en consequence très expressement,
+#facs_135_r2l14 Publikationen gemacht, und Wie
+#facs_214_r3l16 de faire aucun monopole ou comerce, sous
+#facs_214_r3l17 quelques preterre que ce puisse être, sous
+#facs_189_r2l14 peine, en Cas de Contrevenance, détre en
+#facs_214_r3l19 tout comme un monopoleur.
+#facs_214_r3l20 2. Les paysans & gens qui font ce commerce
+#facs_214_r3l21 seront tenus à ne pouvoir achèter aucun
+#facs_214_r3l22 veau pour le revendre, à moins que pour
+#facs_214_r3l23 bonnes raisons ils ne les aient, pour meilleur
+#facs_214_r3l24 engrais, nouris pendant l'espace de trois
+#facs_214_r3l25 semaines du lait de leurs vaches.
+#facs_4_r4l1 3.
+#facs_11_r2l1 41
+#facs_215_r2l1 Le droit de retrait sera conservé comme du
+#facs_215_r2l2 nassé, a tous les maitres Bouchers de cett
+#facs_215_r2l3 Capitale, vis-a-vis de tous les Bouchers
+#facs_215_r2l4 qui ne sont pas de la Suisse, ainsi qu'à
+#facs_215_r2l5 l'égard des revendeurs, tant du pays,
+#facs_215_r2l6 quetrangers; sous la reserve cependant
+#facs_215_r2l7 que ce droit de retrait ne pourra avoir
+#facs_215_r2l8 lieu dans les jours de foire annuels contre
+#facs_215_r2l9 les Bouchers du dehors, & aussi que
+#facs_215_r2l10 celui qui voudra faire le retrait, ait a accepter
+#facs_215_r2l11 toute la Vente, telle quelle aura êté faite,
+#facs_215_r2l12 & non de pouvoir choisir à son gré telle
+#facs_215_r2l13 eu telle piece, et devra être tenu de rem=
+#facs_215_r2l14 bourser aussitôt en comptant le premier
+#facs_215_r2l15 vheteur du prix quil en aura payé.
+#facs_215_r2l16 Le tout sous peine de confiscation
+#facs_215_r2l17 & de vingt livres d'amende, payables par
+#facs_215_r2l18 les contrevenants; dont un tiers devra
+#facs_215_r2l19 Nous revenir un autres tiers au Baillig
+#facs_215_r2l20 du lieu & un tiers au délateur, outre le
+#facs_215_r2l21 secret de son nom, qui ne sera point
+#facs_215_r2l22 divulgué. Ce qui sera publié pour l'intilli-
+#facs_215_r2l23 gence & conduite d’un chacun. Donne le 17
+#facs_215_r2l24 Janvier 1786
+#facs_353_r2l7 Chancellerie de Frybourg
+#facs_123_r2l1 Collate
+#facs_212_r4l1 41.0
+#facs_215_r4l2 Wegen Einfuhr deß Styf und Cote¬
+#facs_215_r4l3 Weins in das untere argöw.
+#facs_215_r4l4 Rarburg. Auf eingelangte Vorstellungen,
+#facs_215_r4l5 bie daß zum grösten Nachtheil unferer
+#facs_215_r4l6 Unterthanen deß untern Ärgöbs, allzu
+#facs_215_r4l7 tiel des sogenanten oberen Weins, so
+#facs_215_r4l8 wohl durch Patenten, als aber See- und
+#facs_215_r4l9 andere Weins per Contrebande in diesen
+#facs_215_r4l10 Gegenden fließen; so sehen Wir uns
+#facs_215_r4l11 wedermahlen genöhtiget, Unsere bereits
+#facs_215_r4l12 sub 20. Januar 1745. und 22. Septembris
+#facs_215_r4l13 1763. deßentwegen einanderte Verordnungs¬
+#facs_215_r4l14 Dahin bebant zu machen.
+#facs_215_r4l15 daß die Einfuhr des Landbeins in das
+#facs_215_r4l16 untere Ärgäu beoboden, die Einbringung
+#facs_215_r4l17 des Ryf- und Côte Weins aber, nur den
+#facs_215_r4l18 Wihrten zum Sehelf Reifender und
+#facs_215_r4l19 Brankner Perstohnen, den Kürgeren¬
+#facs_215_r4l20 in den Städten dann für ihren Haus
+#facs_215_r4l21 Gebrauch, jedoch auf erhaltende Patenten
+#facs_324_r3l3 keine sind, sich werden angelegen;
+#facs_215_r4l23 Cammer, erlaubt seyn solle, und ist auf
+#facs_215_r4l24 liefe contravention die Straf der Confiscation
+#facs_11_r2l1 41
+#facs_173_r3l19 da nun Unser Wille ist, das die
+#facs_216_r2l2 geseht worden.
+#facs_216_r2l3 Wille immerhin ist, daß die Vollziehung
+#facs_216_r2l4 Unsers Heilsamen einstehens seine Wirk¬
+#facs_216_r2l5 ung und Kraft erlange. Als werdet
+#facs_216_r2l6 Ihr denen ZollErmißen Eüeres Amts ernst
+#facs_216_r2l7 lich anbefehlen, keinen Wein ohne die
+#facs_216_r2l8 erforderlichen Patenten, auf seine Gefahr¬
+#facs_216_r2l9 und Verantbortung hin, in das untere
+#facs_216_r2l10 Aergeül passieren zu laßen, sondern
+#facs_216_r2l11 dergleichen allfählig anzuhalten, und den
+#facs_216_r2l12 Casum Eüch einzuberichten.
+#facs_216_r2l13 Datl. den 14. März 1786.
+#facs_216_r2l14 Collat. Lensburg, Königsfelden, Castelen
+#facs_267_r5l18 Schenkenberg
+#facs_216_r2l16 die 3. Unterärgaüsischen Städte. obid
+#facs_216_r2l17 Ein deßen berichten, mit dem Seyfügen
+#facs_216_r2l18 daß über diß Wir annoch für die Zu¬
+#facs_216_r2l19 konfft zu verordnen und best zu sehen
+#facs_216_r2l20 für nothwendig erachtet: daß so bohl
+#facs_216_r2l21 für die untergenbischen Amtleute
+#facs_216_r2l22 und Städte, alljärlich nach beendigtem
+#facs_216_r2l23 Herbst gleich den Oberländischen Amtleuten
+#facs_216_r2l24 einen von den Trodtmeisteren oder
+#facs_11_r2l1 41
+#facs_216_r3l2 Wienfehndern bescheinigten Betrag¬
+#facs_216_r3l3 des gemachten Wein Raubs an Unsere
+#facs_216_r3l4 verordnete ohngeld Cammer ohnfehlbar ein¬
+#facs_216_r3l5 tenden sollen, damit dieselben das quan¬
+#facs_216_r3l6 tum des zu verbilligten Weins nach
+#facs_216_r3l7 Maasgab der gut oder schlecht ausge¬
+#facs_216_r3l8 fallenen Wein läste, bestimmen können.
+#facs_216_r3l9 als wornach Ihr Euch verhalten berdet,
+#facs_216_r3l10 könffig werdet Ihr aber zu erhaltendem
+#facs_216_r3l11 so genanten obern oder Styff und Cola¬
+#facs_216_r3l12 Weins nur den Taternen Währten, bie
+#facs_216_r3l13 auch denen angesehensten Partibularn
+#facs_216_r3l14 und Ansteren Land schreiben und Pfarrery
+#facs_216_r3l15 amts Supplikationen besiglen.
+#facs_216_r3l16 füeres /: Sezirbs./
+#facs_216_r3l17 ein jeglicher aber bey Eünrem Bigel und
+#facs_216_r3l18 Unterschriften bemerken, wie viel Sämne
+#facs_216_r3l19 solchen Weins zu gestacten bäre, für
+#facs_216_r3l20 das einte- und da Wir für das an¬
+#facs_216_r3l21 dere mit Mißfallen haben vernenn
+#facs_216_r3l22 müßen, daß die Rebermeistere in
+#facs_216_r3l23 dem untern Ärgöb abusive und zum
+#facs_216_r3l24 grösten Schaden alldortiger Tabernen Wihrten
+#facs_216_r3l25 Ryff- und Cote Wein in ihren Pabstuben ver¬
+#facs_216_r3l26 bührten; als gehet Unser Wille dahin, daß
+#facs_63_r4l1 119
+#facs_217_r2l1 selbige keinen anderen, als in dortigen
+#facs_217_r2l2 Gegenden gebachtenen Weins, hinfüro mehr
+#facs_217_r2l3 aussthenken sollen. Den annoch haben
+#facs_217_r2l4 mögenden Vorrath an belstchen Wein
+#facs_217_r2l5 dann, wollen Wir ihnen so geschbind mög¬
+#facs_217_r2l6 lich auszuschenben annoch die Bebilligung
+#facs_217_r2l7 ertheilt haben; In Zukonst aber werde
+#facs_217_r2l8 Ihr denenselben zu Einbringung solchen
+#facs_217_r2l9 Weins keine Supplikationen mehr, als
+#facs_217_r2l10 für ihren eigenen Haußgebrauch besiglich
+#facs_217_r2l11 welch eint, als anderes Ihr in Eüerem
+#facs_217_r2l12 Amt hinter Euch von Canzlen publiciers
+#facs_217_r2l13 und zu könfftiger Erinnerung einschreibung
+#facs_217_r2l14 laßen berdet.
+#facs_217_r2l15 Bey diesem Einsehen erbarten Wir
+#facs_217_r2l16 hingegen von Euch, daß ihr auf die
+#facs_217_r2l17 Einbringung und Debitierung des Elsaßer
+#facs_217_r2l18 Marggrafler, und anderen fremden Weins
+#facs_217_r2l19 die genauste Absicht bestellen, und bey
+#facs_217_r2l20 entdebung dergleichen Übertreffungen
+#facs_217_r2l21 denen dißfälligen Ordnungen das Leben
+#facs_217_r2l22 zu geben nicht ermangeln werdet.
+#facs_217_r2l23 Act. ut Supra.
+#facs_218_r3l1 Collati
+#facs_217_r4l1 420
+#facs_23_region_1633454616028_2913l1 An
+#facs_223_r2l13 alle Teutsch und welsche Herren
+#facs_217_r4l4 Amtleut, vier Stadt freybeibel¬
+#facs_117_r5l16 und Amann
+#facs_217_r4l6 wegen fleißigerer Beziehung und Ein¬
+#facs_217_r4l7 sendung der OberEhorgrichtlichen
+#facs_3_region_1627936336835_13l3 Emolumenten
+#facs_49_r3l9 Schultheiß und Raths die so sehr
+#facs_217_r4l10 und an verschiedenen Orten sich er¬
+#facs_217_r4l11 Zeigende Saumseligkeiten in Beziehung um
+#facs_217_r4l12 Einsendung der OberEhere Gerichtlichen Emo¬
+#facs_217_r4l13 humenten die billig Vorstellungen bey
+#facs_217_r4l14 uns veranlaßen müßen, erforderen
+#facs_217_r4l15 von Uns die obrigkeitliche Handbietung,
+#facs_217_r4l16 daher Wir Euch, gleich gegen gesandte
+#facs_217_r4l17 Unsere Amtleute und Städt geschichet
+#facs_217_r4l18 ernstlich erriueren wollen, zu könftiger
+#facs_217_r4l19 nichtigerer Beziehung derselben Unserem
+#facs_217_r4l20 oberen Ehrrgricht kräftiger behülflich
+#facs_175_r4l21 Ihnen wegen des Bucheggbergs ein gleichen
+#facs_217_r4l22 daß in allen Fällen wo die Partheyen
+#facs_217_r4l23 im Vermögen sind, die von Ihnen zu
+#facs_217_r4l24 bezahlen habenden Emolumenten zur
+#facs_114_r4l1 221
+#facs_218_r2l1 erlegen, solche beigernden falls, von
+#facs_218_r2l2 Euch dazu rechtlich angehalten werden
+#facs_218_r2l3 follen; Unbermögenden falls, aber
+#facs_218_r2l4 berdet ihr den Zustand der Partheyen
+#facs_218_r2l5 Unserm OberChorgricht oder deßen
+#facs_218_r2l6 Secretariat einberichten.
+#facs_218_r2l7 Über die dermahl rückständige
+#facs_218_r2l8 Emolument wird Unser Oberes Ehrpricht
+#facs_218_r2l9 nach der ihme ertheilten Wegbeisung
+#facs_218_r2l10 an Unsere Amtleute deren Amts ange¬
+#facs_218_r2l11 hörige Ihme Sporteln schuldig sind, die
+#facs_218_r2l12 Verzeichniße abgeben laßen; Wird
+#facs_218_r2l13 nun daher etwas an Euch gelangen
+#facs_218_r2l14 so berdet ihr, nach ob enthaltenem
+#facs_218_r2l15 Unserm Willen, die vermögende Pro¬
+#facs_218_r2l16 theyen, so sich zu bezahlen beigern werden.
+#facs_218_r2l17 dafür auf ihre der Partheyen Kösten
+#facs_218_r2l18 echtlich betreiben laßen; und so dann
+#facs_218_r2l19 die bezogenen Emolument, unter
+#facs_218_r2l20 Rückstendung der erhaltenen Verzeichniß
+#facs_218_r2l21 borauf die Armuth deren so nicht be¬
+#facs_218_r2l22 halt, von Euch bescheiniget seyn wird,
+#facs_218_r2l23 und zwar so bald als immer möglich
+#facs_218_r2l24 mehr bemelt Unsterem Oberen Chor¬
+#facs_222_r4l1 Collat
+#facs_11_r4l1 42
+#facs_37_r2l18 Deßen
+#facs_218_r4l3 Gricht zu überschiken.
+#facs_218_r4l5 Ihr zu gegenbärtigen und könftigem
+#facs_218_r4l6 Verhalt kund zu behöriger Einschreibung
+#facs_218_r4l7 In könftiger Erinnerung berichtet
+#facs_218_r4l8 Dat. den 21. Mertz 1786
+#facs_199_r6l15 berdet.
+#facs_4_r13l2 7
+#facs_23_region_1633454616028_2913l1 An
+#facs_218_r4l13 alle deutsche Herren Amtleut, vier
+#facs_155_r3l9 Stadt, Freyweibel und Amann
+#facs_218_r4l15 Privilegium
+#facs_218_r4l16 für
+#facs_218_r4l17 Herren Carl Ludlvig Kirchberger, Gewölb¬
+#facs_218_r4l18 Registrator und
+#facs_218_r4l19 Herrn Franz Salomon Wys, Artillerie Hängst.
+#facs_218_r4l20 für ihre zu errichtende Papyr Mühle
+#facs_218_r4l21 Eimpen in hiesigen Landen samlen
+#facs_15_region_1633454382396_2817l3 zu können.
+#facs_218_r4l23 Schultheiß und Rath x Auf beschehenes
+#facs_218_r4l24 Ehrerbietige Nachwerben den WohlEdelge¬
+#facs_218_r4l25 bohrnen Unsterer großen Rathsverbandt¬
+#facs_218_r4l26 Carl Ludwig Kirchberger, Gebölb Registrator,
+#facs_218_r4l27 fenne Franz Salomon Wyß Artillerie
+#facs_4_r10l1 13
+#facs_219_r2l1 Hauptmann, haben Wir denenselben
+#facs_219_r2l2 Zu errichtung, 2 nahe bey und in der
+#facs_219_r2l3 Gegend der Weymühle, die Bewilligung
+#facs_219_r2l4 ertheilt. 9 einer Papye Mühler
+#facs_219_r2l5 Wir wollen demnach Unserer Angehö¬
+#facs_219_r2l6 rige ins gestant, und jeden ins besonders
+#facs_219_r2l7 verwahrnet haben, sich alles Leim und Lungs¬
+#facs_219_r2l8 samlens so zum Dienst der Papeyreren
+#facs_219_r2l9 gerreichen mag, gänzlich zu müßigen
+#facs_219_r2l10 und die Einfamlung dergleichen Lungen
+#facs_219_r2l11 und Leines allen denenjenigen Personen
+#facs_219_r2l12 so von hievorbemelten Restizeren
+#facs_219_r2l13 dieser zu errichtenden Papyrmühl
+#facs_219_r2l14 hierzu werden bestelt und begbältiget
+#facs_219_r2l15 seyn, in Unseren teutschen Landen
+#facs_219_r2l16 vollkommen zu überlaßen; alles
+#facs_219_r2l17 bey Straff der Confiscation wieder
+#facs_219_r2l18 handlenden falls, nach Ausbeiste Ihrer
+#facs_219_r2l19 Handen habenden Provisions Patent,
+#facs_155_r4l22 der Meinung und in dem Verstand
+#facs_219_r2l21 jedoch, daß denenjenigen so dergleichen
+#facs_155_r4l24 Patenten in Händen haben möchten,
+#facs_219_r2l23 in ihren daherigen Rechten nichts
+#facs_123_r2l1 Collate
+#facs_219_r4l1 benommen, sonderen solche dardurch
+#facs_219_r4l2 heiter vorbehalten seyn sollen.
+#facs_219_r4l3 Welches zu maniglichs Nachricht
+#facs_219_r4l4 öffentlich von Canzlen publicieren, und
+#facs_219_r4l5 seines Orts in denen Schloß Urbarie
+#facs_219_r4l6 einschreiben zu laßen, wir Euch (Hir.)
+#facs_219_r4l7 anmit befelchlich auftragen.
+#facs_219_r4l8 Dath. den 23ten März 1786.

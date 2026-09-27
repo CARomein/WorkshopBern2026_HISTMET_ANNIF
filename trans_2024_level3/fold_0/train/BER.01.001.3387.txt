@@ -1,0 +1,59 @@
+Law ID: BER.01.001.3387
+Name: Sie ermahnen, die neüwe in Vorschein kommenden Müntzen harzuschiken.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_492
+# Matched: 48/48
+# High similarity (>=80%): 48
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_181_r2l18 An Alle T. und W. Ambtleuth
+#facs_441_tr_1l_2 „ 833
+#facs_441_tr_1l_3 4. Stält, Freyleibel und Amman,
+#facs_237_r3l2 un
+#facs_441_tr_1l_5 It. p placcard an hiesige pfehler
+#facs_441_tr_1l_6 Sie Ermahnen, die Neube in Vorschein kommende
+#facs_441_tr_1l_7 Münzen harzuschiken.
+#facs_344_r3l25 Schultheis Räht und Burger etc.
+#facs_441_tr_1l_9 Zu Vorkommung des Sonsten darauf erwach¬
+#facs_441_tr_1l_10 senden Landtspadens haben wir nohtleendig
+#facs_441_tr_1l_11 befunden, Menglich hiemit zu erinnern und
+#facs_441_tr_1l_12 zu ermahnen, wann hinkünfftig Neuler.
+#facs_441_tr_1l_13 Müntzen, so bißhar nicht bekannt gewesen,
+#facs_441_tr_1l_14 in Vorschein, und Unseren undterthanen Zur
+#facs_441_tr_1l_15 Hand kommen würden, daß sie selbe also
+#facs_441_tr_1l_16 bald Ihrem Vorgesetzten Ambtsmann Zutrag
+#facs_441_tr_1l_17 sollend, welcher dann hiemit den befelich
+#facs_441_tr_1l_18 hat, das Berth für diese Probstur zu erleg¬
+#facs_441_tr_1l_19 und diese Neüler Münz Ohngehäumbt Allhero
+#facs_441_tr_1l_20 Unß zu überschiben, damit wir selbige durch
+#facs_441_tr_1l_21 Unseren Gwardinen Ihres halts und Berthu¬
+#facs_442_r1l1 834.
+#facs_442_r2l1 halber probieren lassen, und folglich die
+#facs_442_r2l2 Möhtige Verordnung weiters thuen bäu¬
+#facs_442_r2l3 Dath. den 18. Septembris 1722
+#facs_442_r2l4 An Alle S. und W. Ambtleuth
+#facs_442_r2l5 wie auch Grandson und Schwarzenburg
+#facs_442_r2l6 It. p. placcard allhier in der Statt
+#facs_442_r2l7 Das in die Saltzhandlung sich Niemand
+#facs_442_r2l8 Mischen Solle
+#facs_212_r2l15 Schultheis und Raht etc.
+#facs_442_r2l10 Es Ist bereits im Junio 1701. Von Vnseren
+#facs_442_r2l11 Großen Raht in das damahlen gemachte
+#facs_442_r2l12 Salz Reglement als ein Statutum, ge¬
+#facs_442_r2l13 bracht leetern, daß die Saltzhandlung
+#facs_442_r2l14 dem hohen Stand Allein gebuhten, und
+#facs_442_r2l15 Niemand sich darein zu mischen haben
+#facs_442_r2l16 solle: Wie aber diesers bey eint und
+#facs_442_r2l17 Anderen in Vergeß kommen seyn möchte, habe
+#facs_442_r2l18 Wir Nohtwendig funden, solches, be¬
+#facs_442_r3l1 835
+#facs_442_r3l2 einliegende Getrukte placcarde beschiehet, wird
+#facs_442_r3l3 rumb zu Jedermeniglichs Nachricht und Verhalten
+#facs_442_r3l4 bekant zumachen; Befehlend also Dir, gleich
+#facs_442_r3l5 Gegen anderen Ambtleuthen auch beschieht, solches
+#facs_442_r3l6 gewohnter Orthen Anschlagen Zelaßen, undt
+#facs_442_r3l7 das deme nachgelebt werde, sand Obzu¬
+#facs_442_r3l8 halten. Datum den 18. Septemb. 1722

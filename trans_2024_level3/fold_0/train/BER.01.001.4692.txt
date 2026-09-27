@@ -1,0 +1,97 @@
+Law ID: BER.01.001.4692
+Name: Wegen Heyrath landsfremder Mannspersonen mit Weibspersonen aus hiesigen Landen, eine Verordnung.
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 85/85
+# High similarity (>=50%): 85
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_26_r2l9 Wegen Heyrath Lands fremder
+#facs_26_r2l10 Mannspersonen mit Weibspersonen
+#facs_26_r2l11 aus hiesigen Landen,
+#facs_26_r2l12 eine Verordnung
+#facs_26_r2l13 An
+#facs_26_r2l14 alle Deutsch und Welsche Herren
+#facs_26_r2l15 Amtleut, 4 Städt, Freyweibel und
+#facs_26_r2l16 Ammann
+#facs_26_r2l17 Schultheis Räth und Burger u.
+#facs_26_r2l18 Über den modum procedendi bey
+#facs_26_r2l19 ansuchenden Heyrathsbewilligungen
+#facs_26_r2l20 von seiten Landsfremden Manns
+#facs_26_r2l21 Personen mit Weibspersonen von
+#facs_26_r2l22 hiesigen
+#facs_26_r4l1 45.
+#facs_26_r4l2 hiesigen angehörigen, haben Wir
+#facs_26_r4l3 dasjenige zu verordnen gut befunden
+#facs_26_r4l4 und nothwendig erachtet, was in
+#facs_26_r4l5 Einlage des Mehreren enthalten
+#facs_26_r4l6 ist; Wir übersenden Euch davon
+#facs_26_r4l7 eine genugsame Anzahl Exemplar
+#facs_26_r4l8 mit dem Befehl, solches zu manig¬
+#facs_26_r4l9 licher Nachricht von Kanzlen verlesen
+#facs_26_r4l10 zu laßen, und Hand abzuhalten daß
+#facs_26_r4l11 deme nachgelebt werde. Datum
+#facs_26_r4l12 den 16ten Aprill 1792.
+#facs_26_r4l13 obid
+#facs_26_r4l14 Verordnung
+#facs_26_r4l15 Wir Schultheiß Klein und
+#facs_26_r4l16 Große Räthe der Stadt und Republik
+#facs_26_r4l17 Bern, entbieten allen Unsern Lieben
+#facs_26_r4l18 und getreuen Bürgern und Angehörigen,
+#facs_26_r4l19 zu Stadt und Land, Unsern gnädigen
+#facs_26_r4l20 und geneigten Willen, und geben
+#facs_26_r4l21 ihnen dabey zu vernehmen:
+#facs_26_r4l22 Demnach uns vorgetragen worden,
+#facs_26_r4l23 wie
+#facs_27_r3l1 wie nachtheilig für unsere Lande
+#facs_27_r3l2 vorzüglich aber die betreffenden
+#facs_27_r3l3 gemeinden, diejenige Wahlseye
+#facs_27_r3l4 welche nach der VIIIten Säzung der
+#facs_27_r3l5 IIIten Theils der Ehegerichts Säzung
+#facs_27_r3l6 von 1787. Seite 70. den Lands
+#facs_27_r3l7 fremden vergönnt ist,
+#facs_27_r3l8 daß
+#facs_27_r3l9 ihnen nemlich, wenn sie sich er
+#facs_27_r3l10 = klären, die von ihnen geschwän¬
+#facs_27_r3l11 gerte Weibsperson zu ehelichen,
+#facs_27_r3l12 und die Ehe beschloßen worden
+#facs_27_r3l13 nach der dort enthaltenen Vor¬
+#facs_27_r3l14 schrift freygestellt wird, ent¬
+#facs_27_r3l15 weder mit ihrem Eheweib weg¬
+#facs_27_r3l16 zuziehen, oder sich innert sechs
+#facs_27_r3l17 Monaten um ein Burgerrecht
+#facs_27_r3l18 im Lande umzusehen, und dafür
+#facs_27_r3l19 indessen Bürgschaft zu stellen;
+#facs_27_r3l20 Als haben Wir in gänzlicher Ab¬
+#facs_27_r3l21 änderung dieser besondern Vor¬
+#facs_27_r3l22 schrift, wie auch des über den
+#facs_27_r3l23 gleichen Gegenstand vorhandenen
+#facs_27_r3l24 Decrets
+#facs_27_r5l1 47.
+#facs_27_r5l2 Decrets vom 29ten März 1786. zu
+#facs_27_r5l3 verordnen gutgefunden: daß zwar
+#facs_27_r5l4 den lands fremden Mannspersonen
+#facs_27_r5l5 die Heirath mit hiesigen Weibs personen
+#facs_27_r5l6 möge gestattet werden, ja daß die¬
+#facs_27_r5l7 selben auch, jeh nach den Umständen
+#facs_27_r5l8 sogar dazu angehalten werden sollen.
+#facs_27_r5l9 daß sie denn aber, statt des ihnen
+#facs_27_r5l10 laut Ehegerichtssazung zu Ankaufung
+#facs_27_r5l11 eines Burgerrechts anberaumten
+#facs_27_r5l12 termins von sechs Monaten, mit
+#facs_27_r5l13 ihrem Eheweib und allfälligen Kindern
+#facs_27_r5l14 alsogleich aus dem Lande gewiesen
+#facs_27_r5l15 werden sollen.
+#facs_27_r5l16 Diese Unsere in Abaenderung der
+#facs_27_r5l17 darüber in der Ehegerichtssazung und
+#facs_27_r5l18 dem Dekret von 1786 enthaltenen
+#facs_27_r5l19 vorschrift, gemachte Verordnung nun haben
+#facs_27_r5l20 Wir zu jedermanns Nachricht in Deub¬
+#facs_27_r5l21 aus gehen laßen, und von Kanzlen zu
+#facs_27_r5l22 verlesen anbefohlen.
+#facs_27_r5l23 So geschehen in unserer Großen Raths¬
+#facs_27_r5l24 Verfainlung am 16ten April 1792.

@@ -1,0 +1,30 @@
+Law ID: BER.01.001.4238
+Name: Verbott des savoyeschen erdenen Kochgeschires.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 19/19
+# High similarity (>=80%): 5
+# Low similarity (<80%): 14
+# Not found: 0
+#
+#facs_5_r2l1 An
+#facs_113_r4l2 Alle Weltsche H. Amtleüth
+#facs_7_r3l21 versehen, und Vych einhandlen, denen Geschwor¬
+#facs_64_r1l5 Schultheis und Rath etc.
+#facs_180_r6l15 Wir müßen vernommen, daß an einichen Orten in Un
+#facs_206_r2l1 Gesch.
+#facs_3_r1l1 Coll
+#facs_130_r4l13 ordnung allenthalben in Unseren Teutsch und Weltschen Landen
+#facs_223_r2l20 nerem hinterbracht worden, welche schlechte Poliiii in
+#facs_57_r2l10 seiner auf sich habenden Gelts beraubet bor,
+#facs_239_r2l24 bringen verabsammen wurden, oder solche nicht
+#facs_150_r2l11 erachtet, solches zu öffentl. Sicherheit kund zu machen
+#facs_167_r4l22 Oberlands, gänzlichen und bey Confiscation verboten
+#facs_185_r3l11 nächstbünftig, und deßen Eüch berichten wollen, mit
+#facs_100_r3l12 solches zu männiglichs nachricht öffentl. von
+#facs_180_r3l1 von Canzlen verlesen, auf die Übertrectere ge¬
+#facs_168_r4l18 halt behöriger ohrten einzuschreiben Ihr bestens wüsten
+#facs_133_r3l15 stehender Vorschrift, mit ihr zu verfahren. Sollte nun eine
+#facs_180_r3l4 July 1764.

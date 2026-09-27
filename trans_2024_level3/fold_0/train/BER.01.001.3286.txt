@@ -1,0 +1,267 @@
+Law ID: BER.01.001.3286
+Name: Wegen denen zum h. Tauff in die Stadt bringenden Kinderen von denen benachbahrten Haussleüthen und Dörfferen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 256/256
+# High similarity (>=50%): 237
+# Low similarity (<50%): 19
+# Not found: 0
+#
+#facs_249_r4l7 St Johanen
+#facs_249_r4l8 Schenkenberg
+#facs_249_r4l9 fflons
+#facs_249_r4l10 Biberstein
+#facs_249_r4l11 Jochstatt
+#facs_249_r4l12 Né à Jaut
+#facs_249_r4l13 Königsfelden
+#facs_249_r4l14 bürt.
+#facs_249_r4l15 Lentzburg
+#facs_249_r4l16 Arberg
+#facs_249_r4l17 Arburg
+#facs_249_r4l18 Kriemsperg
+#facs_249_r4l19 Hofdingen
+#facs_249_r4l20 Buchsee
+#facs_249_r4l21 Vange
+#facs_249_r4l22 Stifft allhier
+#facs_249_r4l23 Arbange
+#facs_249_r4l24 Kornherr
+#facs_249_r4l25 bipp.
+#facs_249_r4l26 Baubler von Burgen
+#facs_249_r4l27 Fraubrunnen
+#facs_249_r4l28 intorlaben hauß.
+#facs_249_r4l29 Landtshuf
+#facs_249_r4l30 Trachselwald
+#facs_249_r4l31 Krimisperger Haus
+#facs_249_r4l32 Summisswald
+#facs_249_r4l33 Johanjor Hauß
+#facs_249_r4l34 Burgdorff
+#facs_249_r4l35 Brandis
+#facs_249_r4l36 act. ut supra.
+#facs_249_r4l37 Thörberg
+#facs_249_r4l38 thun
+#facs_250_r3l1 die Benachbahrte Ambtleuth, item
+#facs_250_r3l2 Kreyweibel und Amman, in den
+#facs_250_r3l3 Landtgrichten item von Cantzen
+#facs_250_r3l4 allhier
+#facs_250_r3l5 Wegen denen zum H. Tauff in die
+#facs_250_r3l6 Stadt bringenden Kinderen von
+#facs_250_r3l7 denen benachbahrten Hausleuthin
+#facs_250_r3l8 und dörfferen.
+#facs_250_r3l9 Schultheiß und Rath etc.
+#facs_250_r3l10 Weilen von Zeit zu zeith, einiche ge¬
+#facs_250_r3l11 gemach und  um richdigkeit
+#facs_250_r3l12 sich ergeben sich er¬
+#facs_250_r3l13 auget, daher langend, daß viele
+#facs_250_r3l14 denen der Stadt nachgelegenen Kilchspäh¬
+#facs_250_r3l15 len erbohrne Kinder, wie auch deren
+#facs_250_r3l16 in der Stadt Güeteren gesesenen
+#facs_250_r3l17 Hausleuthen Rindes, allhar in die Stadt
+#facs_250_r3l18 ohne vorweisenden Schein zum Hl. Taufe
+#facs_250_r3l19 gebracht werden, hat solches den
+#facs_250_r3l20 anlans gegeben, daß darwieder
+#facs_250_r3l21 einige vorsehung bereits d. 6. July. 1676.
+#facs_250_r4l1 uere
+#facs_250_r4l2 und 5ten Decembris 1677. außgegeben
+#facs_250_r4l3 worden, so
+#facs_250_r4l4 Dann nun durch den Lauff der Zeit
+#facs_250_r4l5 solche in Verzeß gestellt zu seyn scheinet,
+#facs_250_r4l6 als habendt wir, selbige wieder zu er¬
+#facs_250_r4l7 frischen, und in eint und anderen
+#facs_250_r4l8 folgender Maßen zu erlaüteren Gut
+#facs_250_r4l9 funden.
+#facs_250_r4l10 Erstlich sollend die Haus vätter von
+#facs_250_r4l11 denen benachbahrten Klilch Herrn es
+#facs_250_r4l12 seye im Stadtgricht in den Landtgrich¬
+#facs_250_r4l13 ten, oder sonst nach gelegenen Ambtere
+#facs_250_r4l14 welche Ihre Kinder allhar in die Stück
+#facs_250_r4l15 zum H. Tauff schiken und bringen laße
+#facs_250_r4l16 wollendt, hiemit Gewahrnet und
+#facs_250_r4l17 dans le prix dans la derniere ses
+#facs_250_r4l18 dahin gewiesen seyn; Ehe und bevor
+#facs_250_r4l19 So die Kinder zum E. Tauff in die
+#facs_250_r4l20 Stadtschiken, selbige Ihrem Preditan¬
+#facs_250_r4l21 ten, dahin sie Kirchhörig sindt zur
+#facs_250_r4l22 Einschreibung anzegeben, und Nach¬
+#facs_250_r4l23 berts einen Schein von diesem seinen
+#facs_250_r4l24 Predikanten genommen, daß das Kind
+#facs_250_r4l25 Ehelich und Bereits in den H Tauff
+#facs_251_r2l1 Rodel seines Ohrts eingeschrieben seye,
+#facs_251_r2l2 umb diesen Schein dem Helffer in der
+#facs_251_r2l3 Haubtstadt vor Allem Tauff vorzu¬
+#facs_251_r2l4 weisen.
+#facs_251_r2l5 Belangend dann die in den Stadt Gueter
+#facs_251_r2l6 geseßene Haußleuth, vollendt wie
+#facs_251_r2l7 derenthalben gehabt haben, daß selbige
+#facs_251_r2l8 vor dem H. Tauff Ihrer Kindere
+#facs_251_r2l9 allwegen einen Schein und Beglaubte
+#facs_251_r2l10 Zeugsame mitbringen und aufbei¬
+#facs_251_r2l11 sollen, von denen Gemeinden denen
+#facs_251_r2l12 angehörig sind, damit solch Ihr heimet,
+#facs_251_r2l13 im Tauff Rodel allhier, bey Ihrer der
+#facs_251_r2l14 Eltern Nahmen zu gleich eingeschriebe
+#facs_251_r2l15 werden auf das allfählig daselbsten
+#facs_251_r2l16 des Bericht gefunden werden möge,
+#facs_251_r2l17 wo das getauffte Kind sein Heimath
+#facs_251_r2l18 haben solle; deßen wir dich /: Gleich gegen
+#facs_251_r2l19 anderen unseren Ambtleuthen und bey
+#facs_251_r2l20 dienten auch beschicht) hiemit benachricht
+#facs_251_r2l21 wollen, umb solch unsere Verordnung
+#facs_251_r2l22 mit allem zu mänglichs verhalt von
+#facs_251_r2l23 Cantzlen verbunden, sonderen auch zu
+#facs_251_r2l24 künftiger Nachricht durch die Perle¬
+#facs_251_r3l1 471.
+#facs_251_r3l2 Predikanten in Ihre Tauffködel
+#facs_251_r3l3 einschreiben gelaßen. Dat. 19. May. 1719.
+#facs_251_r3l4 Jedel Am Mehlohh die Helffere
+#facs_251_r3l5 hiesiger Stadt sie deßen pro Copiam
+#facs_251_r3l6 Verständigen umb davon die behörige
+#facs_251_r3l7 2
+#facs_251_r3l8 Nachricht zehaben.
+#facs_251_r3l9 An Alle W. Ambtleuth
+#facs_251_r3l10 Wegen Legitration Welhafer Löberen
+#facs_251_r3l11 Schö. Räth und Bürger etc.
+#facs_251_r3l12 Unß Ist der Bericht Gegeben worden,
+#facs_251_r3l13 Collat
+#facs_251_r3l14 daß in Angebung der Löbere
+#facs_251_r3l15 etwelche sammseligkeit, so wohl von
+#facs_251_r3l16 seithen der Schreibere als sonsten
+#facs_251_r3l17 verspührt werde; desthalben wir
+#facs_251_r3l18 nöthig befunden die ich gleich gegen
+#facs_251_r3l19 übrigen Ambtleuthen Weltschen Landts
+#facs_252_r1l1 ht2.
+#facs_252_r1l2 Auch Beschicht,) befelchlichen auszu¬
+#facs_252_r1l3 tragen, ob denen außgangene
+#facs_252_r1l4 Mandaten de Aes. 1626. 1646.
+#facs_252_r1l5 1663. 1707. und denen so seithäro
+#facs_252_r1l6 deßhalben ergangen, geflißen zehalten
+#facs_252_r1l7 und denen selben durch die darin vorge¬
+#facs_252_r1l8 schriebene execution das leben zegeben.
+#facs_252_r1l9 dat. 2. Juny vng.
+#facs_252_r1l10 Vide in pagina 476
+#facs_252_r1l11 Demnach Meghs und Obern Räth
+#facs_252_r1l12 Collat.
+#facs_252_r1l13 und Bürger misfällig wahrnemer
+#facs_252_r1l14 müeßen, wie eint und andere durch die
+#facs_252_r1l15 Prob zu geringhaltig gefundene Handt¬
+#facs_252_r1l16 Müntz dero zum öffteren außgeschriebenen
+#facs_252_r1l17 Ordnungen zuwieder, auf alle weis und
+#facs_252_r1l18 weg darum ins Landt zu versten getrachtet,
+#facs_252_r1l19 werdindt, weilen selbe in Vergleihung der
+#facs_252_r1l20 Alten Gegen der Neuwen und Geringhälsigen
+#facs_252_r1l21 Müntz einen allzuhochen Lauff habendt;
+#facs_252_r2l1 Capris
+#facs_252_r2l2 Ist denenselben auß Landtspäckerliches Vor¬
+#facs_252_r2l3 Körg ein mehrers nicht angelegen, ald
+#facs_252_r2l4 deren eigentlichen preiß und evaluation
+#facs_252_r2l5 zu Männiglichs Nachricht und Verhalt
+#facs_252_r2l6 auf welchem fuß selbe in hiesigen Landen
+#facs_252_r2l7 gängig seyn solle, hieher zu setzen. Als.
+#facs_252_r2l8 Lobl. Standts Luzern neuwe halb¬
+#facs_252_r2l9 Batzen, item Lobl. Standts Reyburg
+#facs_252_r2l10 seith ao. uno. geprägete Halbbätzen
+#facs_252_r2l11 Schilling und Creutzer.
+#facs_252_r2l12 batze Creutzer
+#facs_252_r2l13 Dieses Müntz sollen machen an Bernbahrum
+#facs_252_r2l14 Batz. Creutz,
+#facs_252_r2l15 30
+#facs_252_r2l16 s
+#facs_252_r2l17 25.
+#facs_252_r2l18 36
+#facs_252_r2l19 20
+#facs_252_r2l20 30
+#facs_252_r2l21 15.
+#facs_252_r2l22 l’acqu’il ne s’est pas quittées les connoissées.
+#facs_252_r2l23 24
+#facs_252_r2l24 10
+#facs_252_r2l25 11
+#facs_252_r2l26 18
+#facs_252_r2l27 7
+#facs_252_r2l28 "
+#facs_252_r2l29 12
+#facs_252_r2l30 5
+#facs_252_r2l31 "
+#facs_252_r2l32 2
+#facs_252_r2l33 2
+#facs_252_r2l34 "
+#facs_252_r2l35 3
+#facs_252_r2l36 2½
+#facs_252_r2l37 0
+#facs_252_r2l38 6
+#facs_252_r2l39 3
+#facs_253_r2l1 Bischoff Baßlische gantz und halbe.
+#facs_253_r2l2 Batzen
+#facs_253_r2l3 batzen Creutzer
+#facs_253_r2l4 dieser Müntz sollen Machen Baruwährung
+#facs_253_r2l5 Batz Creutzer
+#facs_253_r2l6 Prentzer
+#facs_253_r2l7 Batze
+#facs_253_r2l8 30. I
+#facs_253_r2l9 33
+#facs_253_r2l10 25
+#facs_253_r2l11 2
+#facs_253_r2l12 27
+#facs_253_r2l13 15
+#facs_253_r2l14 2
+#facs_253_r2l15 16 „
+#facs_253_r2l16 10
+#facs_253_r2l17 2
+#facs_253_r2l18 8
+#facs_253_r2l19 5 x
+#facs_253_r2l20 2
+#facs_253_r2l21 5
+#facs_253_r2l22 10
+#facs_253_r2l23 11
+#facs_253_r2l24 5
+#facs_253_r2l25 6
+#facs_253_r2l26 2½
+#facs_253_r2l27 3.
+#facs_253_r2l28 und halbe
+#facs_253_r2l29 Der Republis Walliß gantz
+#facs_253_r2l30 batzen.
+#facs_253_r2l31 batzy Coen
+#facs_253_r2l32 batzen Creutzer
+#facs_253_r2l33 30
+#facs_253_r2l34 38. dieses Müntz sollen Machen Baru Währung
+#facs_253_r2l35 25
+#facs_253_r2l36 31.3
+#facs_253_r2l37 20.
+#facs_253_r2l38 25.2
+#facs_253_r2l39 15
+#facs_253_r2l40 19
+#facs_253_r2l41 10.
+#facs_253_r2l42 12 x
+#facs_253_r2l43 7. O
+#facs_253_r2l44 1. 2
+#facs_253_r2l45 3.3.
+#facs_253_r2l46 4.3
+#facs_253_r2l47 72
+#facs_253_r2l48 7 10.
+#facs_253_r2l49 4
+#facs_253_r2l50 5
+#facs_253_r3l1 475.
+#facs_253_r3l2 Alleß in dem Heiteren Verstand, daß vorbe¬
+#facs_253_r3l3 meldte Geringhältige Müntzen weder in dem
+#facs_253_r3l4 gemeinen handel, noch anderen Oberbeitlichen
+#facs_253_r3l5 sion d'
+#facs_253_r3l6 Ohrten als der Saltz Cameren, von den
+#facs_253_r3l7 Ambtleüthen, und bey der Saltzbuckene¬
+#facs_253_r3l8 anderst nicht als auf diesem Fuß bey straff
+#facs_253_r3l9 der Confiscation angenommen und auß
+#facs_253_r3l10 geben den Oberweitliches Pastoren und Bedien¬
+#facs_253_r3l11 ten, bey Ihren Eyden hiedurch ungescherpfften
+#facs_253_r3l12 sein solle, selbe weder für Ihr geb. noch
+#facs_253_r3l13 seich selbsten anderst einzuwechslen, da
+#facs_253_r3l14 übrigens es in Ansehen anderer Münt¬
+#facs_253_r3l15 und Silber Sorten, so obensar nicht ver¬
+#facs_253_r3l16 näuset, bey den deßwegen ausgeschrieb
+#facs_253_r3l17 nen Mandaten sein Bebendens haben
+#facs_253_r3l18 soll, Wie dann jeder Mann, sonderlich aber
+#facs_253_r3l19 unsere Ambtleuth Ihnen die Vollstre¬
+#facs_253_r3l20 rung diesers so heilsammen und landts¬
+#facs_253_r3l21 nutzlichen Einsehens angelegen seyn
+#facs_253_r3l22 laßen worden, hochgedacht Magh, sich
+#facs_253_r3l23 Versehendt: geben Coram. 200. R. 29.
+#facs_253_r3l24 Marty. aber Erst
+#facs_253_r3l25 Getrubt den 6. Juny 1719

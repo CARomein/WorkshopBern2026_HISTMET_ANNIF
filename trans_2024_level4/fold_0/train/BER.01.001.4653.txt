@@ -1,0 +1,144 @@
+Law ID: BER.01.001.4653
+Name: Gewinnsüchtigen Kornhändleren, so Wucher treiben, Schranken zu sezen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 133/133
+# High similarity (>=50%): 113
+# Low similarity (<50%): 20
+# Not found: 0
+#
+#facs_36_r2l1 In dem Amt Ifferten.
+#facs_36_r2l2 An dem Zehnden von Tuchy:
+#facs_36_r2l3 4 Däk.
+#facs_36_r2l4 an Haber
+#facs_36_r2l5 An dem Zehnden von Beaumes:
+#facs_36_r2l6 5. Säh,
+#facs_36_r2l7 2
+#facs_36_r2l8 an Waizen.
+#facs_36_r2l9 do
+#facs_36_r2l10 5
+#facs_36_r2l11 Gersten.
+#facs_36_r2l12 An dem Zehnden zu Valeyres.
+#facs_36_r2l13 5. Däh.
+#facs_36_r2l14 an Haber
+#facs_36_r2l15 An dem Zehnden zu Ursins:
+#facs_36_r2l16 5. säh.
+#facs_36_r2l17 an Haber
+#facs_36_r2l18 2. Mäs.
+#facs_36_r2l19 —„
+#facs_36_r2l20 an Wachen
+#facs_36_r2l21 In dem Amt Romainmotier
+#facs_36_r2l22 Ville
+#facs_36_r2l23 An dem Zehnden von Mont la
+#facs_36_r2l24 Säle
+#facs_36_r2l25 4
+#facs_36_r2l26 an Gersten
+#facs_36_r2l27 3. Säh,
+#facs_36_r2l28 an Haber
+#facs_36_r2l29 In dem Amt Lausanne.
+#facs_36_r2l30 An dem Zehnden von Essertinen.
+#facs_36_r2l31 5 mr
+#facs_36_r2l32 an Haber
+#facs_36_r2l33 An dem Zehnden zu Lonay.
+#facs_36_r2l34 1. Kopf.
+#facs_36_r2l35 ###
+#facs_36_r2l36 an Waizen
+#facs_36_r2l37 5. Köpf.
+#facs_36_r2l38 5 mrt.
+#facs_36_r2l39 an Haber
+#facs_36_r2l40 An dem Zehnden zu Denges
+#facs_36_r2l41 2. Mai
+#facs_36_r2l42 t
+#facs_36_r2l43 an Wachen
+#facs_36_r2l44 8. Köpf
+#facs_36_r2l45 Haber
+#facs_36_r3l1 67
+#facs_36_r3l2 An dem Zehnden zu Crisier:
+#facs_36_r3l3 2. Mit. 4. Köpf.-
+#facs_36_r3l4 an haben.
+#facs_36_r3l5 An dem Zehnden zu Romanel:
+#facs_36_r3l6 L. Mat.
+#facs_36_r3l7 an Haben
+#facs_36_r3l8 An dem Zehnden zu Polier le grand:
+#facs_36_r3l9 6. Kopf.
+#facs_36_r3l10 1
+#facs_36_r3l11 an Waisen.
+#facs_36_r3l12 4.—
+#facs_36_r3l13 2. MA
+#facs_36_r3l14 an Haber
+#facs_36_r3l15 An dem Zehnden zu Chailly:
+#facs_36_r3l16 4. Kopf.
+#facs_36_r3l17 an Wachen
+#facs_36_r3l18 7. Köpf.
+#facs_36_r3l19 an Haben
+#facs_36_r3l20 In dem Amt aubonne.
+#facs_36_r3l21 dem großen Zehnden von Aubonne:
+#facs_36_r3l22 1. Saler 5 1/2. Mäs.
+#facs_36_r3l23 Ain
+#facs_36_r3l24 an Wachen
+#facs_36_r3l25 3.
+#facs_36_r3l26 Mifchelborn
+#facs_36_r3l27 1. Oct „ 4 10/IR. Mrs.
+#facs_36_r3l28 meggle de Careme
+#facs_36_r3l29 1. Dub, 4. 10/12.
+#facs_36_r3l30 Haber
+#facs_36_r3l31 on
+#facs_36_r3l32 An dem Zehnden des 4. Comunes de fechy.
+#facs_36_r3l33 9½. mrs.
+#facs_36_r3l34 an Wachen
+#facs_36_r3l35 2. Sali 4 7/12
+#facs_36_r3l36 Meggle de Careme
+#facs_36_r3l37 2. Suh 4 7/12.
+#facs_36_r3l38 an Haber
+#facs_36_r3l39 In dem Amt Neus.
+#facs_36_r3l40 Givrins
+#facs_36_r3l41 2.
+#facs_36_r3l42 An dem Zehnden zu Genoliers
+#facs_36_r3l43 5.th
+#facs_36_r3l44 an Wachen
+#facs_36_r3l45 5. säb.
+#facs_36_r3l46 an Mischelkorn.
+#facs_37_r2l1 In dem Amt Bonmont.
+#facs_37_r2l2 An dem Zehnden zu Cressier:
+#facs_37_r2l3 7. Dat.
+#facs_37_r2l4 an Haber
+#facs_37_r2l5 In dem Amt Tscherlitz
+#facs_37_r2l6 An dem Zehnden zu Bioley:
+#facs_37_r2l7 4. Däk.
+#facs_37_r2l8 an Haber.
+#facs_37_r2l9 An dem Zehnden zu Etagnieres.
+#facs_37_r2l10 3. Sal. 4. Mk
+#facs_37_r2l11 an Haber
+#facs_37_r2l12 zumahlen den loblichen Stand, Freyburg
+#facs_37_r2l13 seine Einwilligung ertheilt, daß den¬
+#facs_37_r2l14 Zehnd besteheren des Amts Tscherlich¬
+#facs_37_r2l15 der daherige Schaden nachgelaßen,
+#facs_37_r2l16 berde.
+#facs_37_r2l17 Dni
+#facs_37_r2l18 alle deutsch und welchen Herren Amtleut,
+#facs_37_r2l19 Bottstadt, und an Herrn Stiftschafner
+#facs_37_r2l20 vier Städt, die auch
+#facs_37_r2l21 zu zofnigen, denne an die sämtlichen
+#facs_37_r2l22 freybeibel und Amau. Sepp:
+#facs_37_r2l23 Bebinnsüchtigen Kornhändleren, so
+#facs_37_r2l24 Wucher treiben, Schrauben zu sehen.
+#facs_37_r2l25 Schultheis und Raht
+#facs_37_r2l26 zu Rehinderung des von gewinnhuchtigen
+#facs_37_r4l1 69
+#facs_37_r4l2 Kornhändlern mit dem verkaufende
+#facs_37_r4l3 Oberkeitlichen Getreyd treibenden Miß¬
+#facs_37_r4l4 brauchs, haben wir nöhtig befunden,
+#facs_37_r4l5 die hier mitkommende Verordnungen
+#facs_37_r4l6 zu machen, die Wir Euch in genug
+#facs_37_r4l7 and
+#facs_37_r4l8 samer Anzahl gedrukt zu senden,
+#facs_37_r4l9 mit dem Befehl, solche zu Jedermanns
+#facs_37_r4l10 Wißenschafft und Verhalt öffentlich
+#facs_37_r4l11 von Hanzlen verlesten, an den ge¬
+#facs_37_r4l12 bohnten Orten anschlagen und dabey
+#facs_37_r4l13 invigilieren zu laßen, daß selbiger
+#facs_37_r4l14 Beben
+#facs_37_r4l15 genau nachgelebt werde.
+#facs_37_r4l16 den 28ten Wintermonat 1789.

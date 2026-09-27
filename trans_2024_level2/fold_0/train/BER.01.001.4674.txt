@@ -1,0 +1,364 @@
+Law ID: BER.01.001.4674
+Name: Die Fryburger Piecettes und leztgeprägten Neüenburger Bazen- und Halb Bazen, wie auch andere geringhältige Münzen verbotten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 353/353
+# High similarity (>=50%): 317
+# Low similarity (<50%): 36
+# Not found: 0
+#
+#facs_164_r5l28 S
+#facs_165_r2l1 Wegen Ablag der Canamts-Rechnung,
+#facs_165_r2l2 Holtz Rechnung, Stadtbacht Rechmung,
+#facs_165_r2l3 Landfaßen Camer Rechnung, Wäysen
+#facs_165_r2l4 Haus Rechnung, gebene Kirchnieger
+#facs_165_r2l5 Rechnung; ist folgendes beyzusehen:
+#facs_165_r2l6 Da aber seit einiger Zeit, Eüre
+#facs_165_r2l7 Rechnung nicht auf den gesetzten
+#facs_165_r2l8 Tag an Ort und Stelle übergeben
+#facs_165_r2l9 borden, so sind wir gebärtig sie
+#facs_165_r2l10 werde in Zukunft in der bestimten
+#facs_165_r2l11 Zeith eingegeben werden Sach
+#facs_165_r2l12 bäre dann, daß solche auszu¬
+#facs_165_r2l13 fertigen aus erheblichen Gründen
+#facs_165_r2l14 unmöglich bäre, welchen fahls ihr
+#facs_165_r2l15 Eüch beinigstens 14: Tag vor dem
+#facs_165_r2l16 zur Ablag bestimten Tag und
+#facs_165_r2l17 .
+#facs_165_r2l18 den nöthigen Aufschub bey
+#facs_165_r2l19 Unserer Venier Cammer gebührend
+#facs_165_r2l20 anmelden berdet.
+#facs_165_r3l1 ten
+#facs_165_r3l2 Recht
+#facs_165_r3l3 3
+#facs_165_r3l4 5
+#facs_165_r4l1 823.
+#facs_165_r4l2 Rechnungs Tagen
+#facs_165_r4l3 den
+#facs_165_r4l4 Deütsch und welschen Herren Amtleuten
+#facs_165_r4l5 pro Ao. 1791
+#facs_165_r4l6 1791.
+#facs_165_r4l7 Januarius.
+#facs_165_r4l8 N
+#facs_165_r4l9 Interlater Haus¬
+#facs_165_r4l10 fen 173
+#facs_165_r4l11 Mitbach
+#facs_165_r4l12 St. Johanfer Haut
+#facs_165_r4l13 Eriemsberger Haus¬
+#facs_165_r4l14 1. Silberhandlung
+#facs_165_r4l15 den 20n.
+#facs_165_r4l16 5. Kornherr.
+#facs_165_r4l17 Dasstag
+#facs_165_r4l18 7. Rüren.
+#facs_165_r4l19 Außer Krankenhaus
+#facs_165_r4l20 24t
+#facs_165_r4l21 Signan
+#facs_165_r4l22 den
+#facs_165_r4l23 3
+#facs_165_r4l24 Montag
+#facs_165_r4l25 lorsqu'il ne s'est pas dvoir qu'il en a eu d'autre
+#facs_165_r4l26 Nidau
+#facs_165_r4l27 4.
+#facs_165_r4l28 Wimmis
+#facs_165_r4l29 4
+#facs_165_r4l30 den 27ten
+#facs_165_r4l31 Allmosan Cammer Secret.
+#facs_165_r4l32 Dorstag
+#facs_165_r4l33 Ruchten Allmosten
+#facs_165_r4l34 3. Sumis bald.
+#facs_165_r4l35 den 31. ten
+#facs_165_r4l36 5. Laupen.
+#facs_165_r4l37 Montag
+#facs_165_r4l38 2. zweystimen
+#facs_165_r4l39 2. Oberhofen.
+#facs_166_r2l1 Continuatio der Ordin: Rechnungs Tagen.
+#facs_166_r2l2 pro Anno 1791.
+#facs_166_r2l3 No:
+#facs_166_r2l4 1791
+#facs_166_r2l5 des
+#facs_166_r2l6 Februarius
+#facs_166_r2l7 Rech
+#facs_166_r2l8 ten
+#facs_166_r2l9 den 3t
+#facs_166_r2l10 6. Aarberg
+#facs_166_r2l11 Danstag
+#facs_166_r2l12 3. Mushäfen
+#facs_166_r2l13 2. Interlaken
+#facs_166_r2l14 den 7. ten
+#facs_166_r2l15 Montag
+#facs_166_r2l16 2. Unterseen
+#facs_166_r2l17 3. Heetis Byl.
+#facs_166_r2l18 den 10ten
+#facs_166_r2l19 4. Trachselbald
+#facs_166_r2l20 Donstag
+#facs_166_r2l21 5. Ruchsee
+#facs_166_r2l22 Montag den 14.
+#facs_166_r2l23 6. Bottstadt.
+#facs_166_r2l24 2.° Votre vieur et de la vueille
+#facs_166_r2l25 2. Lands fut
+#facs_166_r2l26 Donstag den 17.
+#facs_166_r2l27 4) Burgdorf
+#facs_166_r2l28 3. Srandis.
+#facs_166_r2l29 3. Wiblisburg
+#facs_166_r2l30 Freytag den 18.
+#facs_166_r2l31 4. PedHerlingen
+#facs_166_r2l32 6. König
+#facs_166_r2l33 4 Fraubrumen.
+#facs_166_r2l34 Montag den 21.
+#facs_166_r2l35 2. Comer: Rath Rechn.
+#facs_166_r2l36 2. Toleranz Gelder Rech¬
+#facs_166_r2l37 den 24.
+#facs_166_r2l38 4. Thun Schloß
+#facs_166_r2l39 Dorstag
+#facs_166_r2l40 4. D. Interlaesen Schafnerey,
+#facs_166_r3l1 325
+#facs_166_r3l2 Continuatio der Ordin: Rechnungs Tagen.
+#facs_166_r3l3 pro A. 1791
+#facs_166_r3l4 1791.
+#facs_166_r3l5 No
+#facs_166_r3l6 februarius.
+#facs_166_r3l7 hier
+#facs_166_r3l8 Recht
+#facs_166_r3l9 den 25.
+#facs_166_r3l10 Freytag
+#facs_166_r3l11 4. Milden
+#facs_166_r3l12 Thorberg.
+#facs_166_r3l13 den 28.
+#facs_166_r3l14 Montag
+#facs_166_r3l15 6. Aarburg Schloß.
+#facs_166_r3l16 5. D. Garnison
+#facs_166_r3l17 Martius
+#facs_166_r3l18 den 3ten
+#facs_166_r3l19 3 Stift Pern
+#facs_166_r3l20 Sonstag
+#facs_166_r3l21 3. Frutigen
+#facs_166_r3l22 den 4ten
+#facs_166_r3l23 freytar.
+#facs_166_r3l24 l'autre soir de la guerre et de la Cote
+#facs_166_r3l25 3 oron
+#facs_166_r3l26 4. Zofingen
+#facs_166_r3l27 den 7.
+#facs_166_r3l28 Matay
+#facs_166_r3l29 5. St. Johanfen
+#facs_166_r3l30 3. Erlach
+#facs_166_r3l31 den 11ten
+#facs_166_r3l32 Freytag
+#facs_166_r3l33 3. vivis.
+#facs_166_r3l34 26. Neuenstadt
+#facs_166_r3l35 den 14.
+#facs_166_r3l36 2. Wangen
+#facs_166_r3l37 Montag
+#facs_166_r3l38 125 Zeughaus
+#facs_166_r3l39 6. Pulberhandlung
+#facs_166_r3l40 den 17t.
+#facs_166_r3l41 10 Allmosten Director
+#facs_166_r3l42 Sonstag
+#facs_166_r3l43 Exulanten Camer
+#facs_166_r3l44 - Jan 18.
+#facs_166_r3l45 fragtay
+#facs_166_r3l46 2. Sipj.
+#facs_166_r3l47 4. Lausanne
+#facs_167_r2l1 Continuatio des Ordin: Rechnungs Tagen.
+#facs_167_r2l2 pro a: 1791:
+#facs_167_r2l3 1791.
+#facs_167_r2l4 Martius
+#facs_167_r2l5 Rech:
+#facs_167_r2l6 den 21.
+#facs_167_r2l7 2. Freienes berg
+#facs_167_r2l8 Montag
+#facs_167_r2l9 5 Aarbangen,
+#facs_167_r2l10 den 24ten
+#facs_167_r2l11 20. Ziegel Verbalter
+#facs_167_r2l12 Sonstag
+#facs_167_r2l13 2. Schallenhaus
+#facs_167_r2l14 den 26ten
+#facs_167_r2l15 Samstag
+#facs_167_r2l16 2. Iferten
+#facs_167_r2l17 6. Pibenstein Schloß
+#facs_167_r2l18 2.° Jan
+#facs_167_r2l19 den 28.
+#facs_167_r2l20 6. De Schafnerey
+#facs_167_r2l21 Montag
+#facs_167_r2l22 Kaufhaus
+#facs_167_r2l23 Abzug.
+#facs_167_r2l24 den 31.
+#facs_167_r2l25 6. Saarren
+#facs_167_r2l26 Donstag
+#facs_167_r2l27 4. Ahlen
+#facs_167_r2l28 den 1. ten
+#facs_167_r2l29 5. Romainmotier
+#facs_167_r2l30 Freytag
+#facs_167_r2l31 2. Belsch Weinschenk
+#facs_167_r2l32 den 4.
+#facs_167_r2l33 6. Schenbenberg
+#facs_167_r2l34 Montag
+#facs_167_r2l35 3 Castelen
+#facs_167_r2l36 Den 7.
+#facs_167_r2l37 Donstag
+#facs_167_r2l38 z
+#facs_167_r2l39 4. Königsfelden
+#facs_167_r2l40 den 8t
+#facs_167_r2l41 5. Morfer
+#facs_167_r2l42 Freytag
+#facs_167_r2l43 J3
+#facs_167_r2l44 5
+#facs_167_r2l45 B. Aubonne
+#facs_167_r2l46 du 11.
+#facs_167_r2l47 Montag
+#facs_167_r2l48 2. Lenzburg
+#facs_167_r2l49 den 15.
+#facs_167_r2l50 *
+#facs_167_r2l51 Freytag
+#facs_167_r2l52 4. Neus
+#facs_167_r2l53 6. Bonmont
+#facs_167_r3l1 327.
+#facs_167_r3l2 Rechnungen nach Osteren
+#facs_167_r3l3 und im Lauf des Jahrs 1791.
+#facs_167_r3l4 1791.
+#facs_167_r3l5 Majus.
+#facs_167_r3l6 den 16ten
+#facs_167_r3l7 2. dan Amt
+#facs_167_r3l8 Montag
+#facs_167_r3l9 Holz Rechnung
+#facs_167_r3l10 [18]18'
+#facs_167_r3l11 Groß Spithal
+#facs_167_r3l12 Mitbey
+#facs_167_r3l13 4
+#facs_167_r3l14 2. Insul
+#facs_167_r3l15 155. Große Saltz Rechnung
+#facs_167_r3l16 den 23.ten
+#facs_167_r3l17 Montag
+#facs_167_r3l18 30. Korn Kamer
+#facs_167_r3l19 2. Roche
+#facs_167_r3l20 den 25.
+#facs_167_r3l21 Mitbach
+#facs_167_r3l22 28. Schul Sebel
+#facs_167_r3l23 12. Tax Gelder
+#facs_167_r3l24 den 30.ten
+#facs_167_r3l25 6. Ohmgeld außer Behörte
+#facs_167_r3l26 Montag
+#facs_167_r3l27 mer Sezirk
+#facs_167_r3l28 4.
+#facs_167_r3l29 4. Stadtbacht
+#facs_167_r3l30 Junius.
+#facs_167_r3l31 Montag den 6.
+#facs_167_r3l32 28 Straßen Rechnung
+#facs_167_r3l33 U. Landshasen kammer
+#facs_167_r3l34 Augustus.
+#facs_167_r3l35 30. Stadt Illumination
+#facs_167_r3l36 Montag den 15.
+#facs_167_r3l37 4. Stadt Ohmgeld
+#facs_167_r3l38 3. Sospfennung
+#facs_168_r3l1 Rechnungen nach Osteren,
+#facs_168_r3l2 1794
+#facs_168_r3l3 und im Lauf des Jahrs
+#facs_168_r3l4 1791.
+#facs_168_r3l5 Augustus
+#facs_168_r3l6 den 17ten
+#facs_168_r3l7 WaysenHaus
+#facs_168_r3l8 Mitbach
+#facs_168_r3l9 4. Kirchenger v. Bürgerey
+#facs_168_r3l10 Novembris.
+#facs_168_r3l11 den 23.
+#facs_168_r3l12 5. Zinsch Weinschenb
+#facs_168_r3l13 Mitboy
+#facs_168_r3l14 5. Groß Allmosten
+#facs_168_r3l15 an
+#facs_168_r3l16 alle deutsch und welschen Herren Amtleut
+#facs_168_r3l17 vier Stadt, Freyweibel und Anjän¬
+#facs_168_r3l18 die Fryburger Piecettes und leztgeprägten
+#facs_168_r3l19 Neuenburger Sazen und halb Sazen,
+#facs_168_r3l20 wie auch andere geringhältige Münz¬
+#facs_168_r3l21 verbotten.
+#facs_168_r3l22 Schultheiß Rath und kurger sa¬
+#facs_168_r3l23 Einligende Verordnung zu Behin,
+#facs_168_r3l24 derung der so landesschädlichen Ein¬
+#facs_168_r3l25 reißung gernighältigen und verbottener
+#facs_168_r4l1 329.
+#facs_168_r4l2 München, beredet Ihr zu jedernens
+#facs_168_r4l3 Wahrung und verhalt von Canzlen
+#facs_168_r4l4 verlesten, an gebohnten Orten
+#facs_168_r4l5 anschlagen, und auch seines Orts gehörig
+#facs_168_r4l6 einschreiben laßen.
+#facs_168_r4l7 Und da Unser neuen Wille ist, diesem
+#facs_168_r4l8 immer mehr überhand nehmenden
+#facs_168_r4l9 Übel präftig zu steuren, so berdet Ihre
+#facs_168_r4l10 alle Eüre officialen vor Euch bescheide,
+#facs_168_r4l11 Sie ihrer Pflicht disorts ernstlich
+#facs_168_r4l12 ermern, und die Fehlbaren ohne
+#facs_168_r4l13 Schonen noch Anstehen der Person
+#facs_168_r4l14 nach Vorschrift Unserer Münz¬
+#facs_168_r4l15 verordnungen, bestraffen. Dat.
+#facs_168_r4l16 den 3ten Septembris 1790.
+#facs_168_r4l17 + An die Freybeibel und Anmani¬
+#facs_168_r4l18 birst du zu jedermans Wahmung
+#facs_168_r4l19 und verhalt von Canzlen verlesten,
+#facs_168_r4l20 und an gebohnten Orten anschlagen,
+#facs_168_r4l21 fasen; mit dem Befehl, auf die
+#facs_168_r4l22 Fehlbaren, in deinem Sezirk bey
+#facs_169_r2l1 deiner Eydespflicht genau zu achten,
+#facs_169_r2l2 und solche ohne Schonen Unserer
+#facs_169_r2l3 verordneten Münzkammer zu vor¬
+#facs_169_r2l4 schriftmäßiger Bestrafung verleiden.
+#facs_169_r2l5 Verordnung.
+#facs_169_r2l6 Wir Schultheis, klein und große
+#facs_169_r2l7 Räthe der Stadt und Republik seyn.
+#facs_169_r2l8 thun kund hiermit. Demnach
+#facs_169_r2l9 Wir mit Ubelieb bahrnehmen
+#facs_169_r2l10 müßen, daß, zuwieder Unserer
+#facs_169_r2l11 Verordnungen, allerhand geringhältige
+#facs_169_r2l12 und verbottene Münzen ins Land
+#facs_169_r2l13 kommen; so haben wir allen
+#facs_169_r2l14 Unsteren Amtleuten nachdruksamst
+#facs_169_r2l15 eingeschärft, der landesschädlichen
+#facs_169_r2l16 Einschleichung dieser Münzen, ins be¬
+#facs_169_r2l17 sondere aber der Freyburger Piecettes
+#facs_169_r2l18 und lehtgeprägten Neuenburger
+#facs_169_r2l19 Rahen und halb=Säzen, kräftig zu
+#facs_169_r2l20 steuren; zu dem End jeden
+#facs_169_r3l1 331.
+#facs_169_r3l2 Übertrecker derselben ohne Schonen
+#facs_169_r3l3 noch Ansehung der Person, nach Vor¬
+#facs_169_r3l4 Schrifft derselben zu bestraffen:
+#facs_169_r3l5 Allsto daß auf die Einnahme so
+#facs_169_r3l6 wohl als auf die Ausgabe der
+#facs_169_r3l7 selben von zweyen Kronen und
+#facs_169_r3l8 drunter, eine Buße von sechs Kronen
+#facs_169_r3l9 gefeht seyn; im Fall aber solche
+#facs_169_r3l10 auf ein hoheres anstiege, das
+#facs_169_r3l11 schlechte. und verbottene Geld von
+#facs_169_r3l12 Unsern Amtleuten, mit Confis¬
+#facs_169_r3l13 cation belegt, derjenige dann
+#facs_169_r3l14 so solches einzubringen, auszugeben,
+#facs_169_r3l15 oder anzunehmen sich unterstehen
+#facs_169_r3l16 bürde, fürs erste mal annoch
+#facs_169_r3l17 eine Ruß von dem doppelten Werth
+#facs_169_r3l18 der Confiscation zu bezahlen haben;
+#facs_169_r3l19 für das zweyte mal aber, je
+#facs_169_r3l20 nach bebandten Dingen, mit ange¬
+#facs_169_r3l21 meßener harterer Restrafung.
+#facs_169_r3l22 angesehen werden solle.
+#facs_169_r3l23 allen officialen und vorgesehten
+#facs_170_r2l1 dann soll bey ihrer Eides pflicht ob¬
+#facs_170_r2l2 liegen, auf die Fehlbaren genau
+#facs_170_r2l3 Aufsicht zu halten, und solche Unteren
+#facs_170_r2l4 Andtenten ihne Schönen zu verleiden
+#facs_170_r2l5 Wir versehen uns aber mit
+#facs_170_r2l6 vollen Vertraicen, es beiden Unsere
+#facs_170_r2l7 liebe und getreue angehörige aller
+#facs_170_r2l8 Leußerer Städte und Landen dieser
+#facs_170_r2l9 ihren selbst eigenen Stuzen erzie¬
+#facs_170_r2l10 lenden, so landes vätterlichen als
+#facs_170_r2l11 ernstmeinenden Verordnungen
+#facs_170_r2l12 durchschuldigen Gehorsam nach,
+#facs_170_r2l13 Zuleben, und sich selbst vor ver¬
+#facs_170_r2l14 antwortung, Straf und Schaden
+#facs_170_r2l15 zu hüeten beflißen seyn; in
+#facs_170_r2l16 maßen auf die Übertredter
+#facs_170_r2l17 schärfer als jemals Aufsicht ge¬
+#facs_170_r2l18 halten beyden wird.
+#facs_170_r2l19 Geben in Unserer großen
+#facs_170_r2l20 Rathsverstammlung den 3. Septembris
+#facs_170_r2l21 1790.

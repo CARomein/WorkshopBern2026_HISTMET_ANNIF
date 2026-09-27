@@ -1,0 +1,113 @@
+Law ID: BER.01.001.4330
+Name: Das Buch so zum Titul führet [...], bey Confescation desselben, verbotten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 102/102
+# High similarity (>=50%): 97
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_224_r3l6 Signalement
+#facs_224_r3l7 Peter Rohrer, von Sachslen gebürtig,
+#facs_224_r3l8 und zu Unterwalden seschafft, 36
+#facs_224_r3l9 Jahr alt, ist ohngefehr 5 Schuh hoch,
+#facs_224_r3l10 hat ein bleiches von Kindsblatteren
+#facs_224_r3l11 gedüpfletes angesicht, kurz schwarz
+#facs_224_r3l12 lechte Haar und Augs bramen,
+#facs_224_r3l13 schwarzen Bart, einspizige Höger¬
+#facs_224_r3l14 Nasen, tragt ein braunes Camisal
+#facs_224_r3l15 mit gelben knöpfen, ein roht
+#facs_224_r3l16 scharlachtenes, und ein silber far¬
+#facs_224_r3l17 bes Leiblin, blaue Raffinenehosen
+#facs_224_r3l18 und silber farbe Sommerstrimpf,
+#facs_224_r3l19 auch grau wollene Überstrümpf
+#facs_224_r3l20 Sanzley Urg.
+#facs_224_r5l1 429
+#facs_224_r5l2 An
+#facs_224_r5l3 die Herren Amtleute, wo Buchläden und
+#facs_224_r5l4 Buchtrubereyen sich befinden
+#facs_224_r5l5 Das Buch so zum Titul führet: Lan Deux Mille quatre
+#facs_224_r5l6 cent quarante, bey confiscation deßelben, verboten
+#facs_224_r5l7 Schultheiß und Raht etc.
+#facs_224_r5l8 Obgleich das Buch welches zum Titul führet,
+#facs_224_r5l9 L'an deux Mille quatre Cent quarante, nicht so
+#facs_224_r5l10 gefährlich, als viele andere Bücher, welche
+#facs_224_r5l11 seit kurzen Jahren ans liecht gekommen,
+#facs_224_r5l12 so jedennoch ist selbiges von solchem Inhalt,
+#facs_224_r5l13 daß Wir deßen Verbauf und Ausleichung
+#facs_224_r5l14 zum Lesen in Unseren Landen, unter
+#facs_224_r5l15 der Straff der Confiscation, zu verbieten.
+#facs_224_r5l16 gut befunden
+#facs_224_r5l17 Ihr werdet demenach solches denen
+#facs_224_r5l18 Ruchführeren und Buchtruberen in Eüeren
+#facs_224_r5l19 Amt zu ihrem Verhalt kund machen
+#facs_224_r5l20 laßen, und hand obhalten, daß dieser
+#facs_224_r5l21 Unserer Verordnung nachgelebt werde.
+#facs_224_r5l22 Datl. d. 4 January 1772
+#facs_225_r4l1 An
+#facs_225_r4l2 die Herren Amtleute zu Thun, Wimmis,
+#facs_225_r4l3 zweysinnen und Frutigen, Item per Jedel an
+#facs_225_r4l4 Mehloh. der Marechaussées Cammer und Herrn
+#facs_225_r4l5 Broßweibel et Herrn Gerichtschreiber
+#facs_225_r4l6 Auf den aus dem allhiesigen Äußeren Zucht
+#facs_225_r4l7 Haus entwichenen Jacob Martig von St. Stephan
+#facs_225_r4l8 zu achten
+#facs_225_r4l9 Schultheiß und Rahts
+#facs_225_r4l10 Jacob Martig, von St. Stephan, so wegen
+#facs_225_r4l11 begangenen Mißtritts in allhiesigem
+#facs_225_r4l12 aüßeren Zuchthaus enthalten wäre,
+#facs_225_r4l13 ist den 26ten Christmonat lezthin daran
+#facs_225_r4l14 entwichen; Wir befehlen Euch allß
+#facs_225_r4l15 nach anweisung des einligenden Signa
+#facs_225_r4l16 Cements, in Eünrem Amt auf ihne achten
+#facs_225_r4l17 und betrettenden fahls solchen wider
+#facs_225_r4l18 dahin übergeben zu laßen. Datl. d. 6ten
+#facs_225_r4l19 Januarij 1772
+#facs_225_r4l20 Signalement
+#facs_225_r4l21 Jacob Martig, von St. Stephan, ein knab
+#facs_225_r4l22 ohngefehr 15. Jahr alt, biß 3. Schuh lang
+#facs_225_r4l23 dib von leib, heitere Augen, rund angesich
+#facs_225_r4l24 hat braune grade Haar, tragt eine West¬
+#facs_225_r6l1 nuem
+#facs_225_r6l2 von Zwilchen, und zwilchig spitzhosen; ist
+#facs_225_r6l3 den 26ten Tag Christmonat 1771. aus dem
+#facs_225_r6l4 Juchthaus ausgerißen.
+#facs_225_r6l5 An
+#facs_225_r6l6 Alle Ober- und Unter-Argenische Herren Amt¬
+#facs_225_r6l7 Leut, Item die 4. Argen. Stadt
+#facs_225_r6l8 Wegen bey dem Wihrtshaus im Morgenthal
+#facs_225_r6l9 begangenen Diebstahl ab einem Güterwagen.
+#facs_225_r6l10 Schultheis und Raht etc.
+#facs_225_r6l11 In der Nacht vom 7ten auf den 8ten dis Monat
+#facs_225_r6l12 ist bey dem Wihrtshaus im Morgenthal, ein
+#facs_225_r6l13 Güterwagen Spolirt, und darab etwelche
+#facs_225_r6l14 Ballen Seiden für den währt von beylauffi¬
+#facs_225_r6l15 450. Neuen Duplonen, frecherweise entwendet
+#facs_225_r6l16 worden. Wir neuen keinen Anstand Euch¬
+#facs_225_r6l17 deßen zu berichten, mit befelch, fahls von
+#facs_225_r6l18 dieser gestohlenen Seiden, etwas in Eüeren
+#facs_225_r6l19 Amt entdebet werden solte, solche anhalten zu
+#facs_225_r6l20 laßen, und deßen Uns ungesaumt zu berichten.
+#facs_225_r6l21 Wann aber gemeiner Sicherheit daran gelegen¬
+#facs_225_r6l22 daß die Gethätern entdebt, und zu gebührender
+#facs_226_r2l1 Straff gezogen werden; als haben Wir
+#facs_226_r2l2 auf deren Entdebung, eine Recompenz von
+#facs_226_r2l3 Einhundert Thaleren gesezt; Euch befehlende
+#facs_226_r2l4 solches fürdersamst zu mäniglichs Nachricht
+#facs_226_r2l5 publicieren zu laßen. Dat. d. 11. Jan. 1772.
+#facs_226_r2l6 An
+#facs_226_r2l7 Die Herren Amtleut zu Wimmis, zwey immen,
+#facs_226_r2l8 Oberhofen und Thun
+#facs_226_r2l9 Auf den aus der Gefangenschaft zu Tellenburg sich
+#facs_226_r2l10 los gewirkten Johannes Lauber von Frutigen zu
+#facs_226_r2l11 achten
+#facs_226_r2l12 Schultheis und Raht
+#facs_226_r2l13 Johannes Lauber, von Frutigen, hat sich aus der
+#facs_226_r2l14 Gefangenschaft des Schloßes Tellenburg los wirken
+#facs_226_r2l15 und evadieren können; Wie nun an deßen
+#facs_226_r2l16 oderbehändigung uns gelegen, so werdet
+#facs_226_r2l17 Ihr auf selbigen achten laßen, und betret¬
+#facs_226_r2l18 tenden Fahls Unserem Amtsmann zu
+#facs_226_r2l19 Frutigen zusenden. Dat. den 4ten Novembl. 1777

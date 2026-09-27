@@ -1,0 +1,50 @@
+Law nr: BER.01.001.4598
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 39/39
+# High similarity (>=80%): 35
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_8_r9l4 60.
+#facs_23_region_1633454616028_2913l1 An
+#facs_221_r1l2 alle deutsch und welsche Herren
+#facs_221_r1l3 Amtleut, 4. Städt frey weibel
+#facs_310_r4l5 und Amman.
+#facs_310_r4l6 die Feyr und das Fest des
+#facs_310_r4l7 Jakobs Tag, wird abgestellt.
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_310_r4l9 Aus genügtam erheblichen Gründen,
+#facs_310_r4l10 haben wir gut und Nothbendig
+#facs_310_r4l11 erachtet, die Feyr und das Fest
+#facs_310_r4l12 des Jakobs Tag von nun an in
+#facs_310_r4l13 Unseren gestamten Landen abzu¬
+#facs_310_r4l14 stellen; deßen ihr berichtet werdet
+#facs_310_r4l15 um Hand obzuhalten daß deme
+#facs_310_r4l16 nachgelebt werde. Datl. den
+#facs_18_r5l4 erheben.
+#facs_23_region_1633454616028_2913l1 An
+#facs_310_r4l19 alle Herren Dekanen d. und W.
+#facs_310_r4l20 fands, und auch perzedel an den
+#facs_310_r4l21 allhiesigen.
+#facs_27_r3l12 Obid
+#facs_310_r4l23 Wir haben aus verschiedenen
+#facs_311_r1l1 606.
+#facs_28_r4l1 Coll
+#facs_311_r3l1 Uns darzu bewegenden Gründen
+#facs_297_r3l9 der Nothwendigkeit erachtet, für
+#facs_311_r3l3 achtet, die Feyr und das Fest
+#facs_311_r3l4 des Jakobs Tag von nun an
+#facs_311_r3l5 in Unseren gestemten Lande
+#facs_311_r3l6 abzustellen, und die beförige
+#facs_311_r3l7 Refehle disorts an Unsere
+#facs_311_r3l8 Amtleuth abgehen lassen;
+#facs_67_r2l24 deßen ihr berichtet werdet,
+#facs_311_r3l10 mit dem Befehl, solches auch
+#facs_311_r3l11 füeren Capitels Truderen zu
+#facs_311_r3l12 ihrem künftigen Verhalt zu
+#facs_321_r2l4 öfen.
+#facs_52_r2l18 Datl.

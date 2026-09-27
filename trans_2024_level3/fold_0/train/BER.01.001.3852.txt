@@ -1,0 +1,86 @@
+Law ID: BER.01.001.3852
+Name: Steüwrsammlung für Hagel und Wasserbeschädigte.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 75/75
+# High similarity (>=50%): 71
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_233_r3l9 tat
+#facs_233_r3l10 des soldats Invalides Protestants du Louable
+#facs_233_r3l11 canton de Berne, qui ont a reçevoir leurs
+#facs_233_r3l12 pensions à L'Ambassade du Roy à
+#facs_233_r3l13 Solleure pour L'Année 1741.
+#facs_233_r3l14 Abraham des Pallet de Lausanne
+#facs_233_r3l15 Jacob Jony d'Emriette Baillage de Laupen
+#facs_233_r3l16 Hans Muller de Sanen
+#facs_233_r3l17 Hauß Schild von Tschangnaub, Vogtey Trachsilbald
+#facs_233_r3l18 Hauß Jurgi Maus von Konitz
+#facs_233_r3l19 Abraham Moginier de Meziére Balliage de Moudon
+#facs_233_r3l20 Jacob Hirtz von Arans
+#facs_233_r3l21 Pierre Monnay de Vevay
+#facs_233_r3l22 Daniel Creatura de Moudon
+#facs_233_r3l23 David de Lerran de Nyon
+#facs_233_r3l24 Joh. Rud. Pridli von Ertingen Vogtey Rurgdorff
+#facs_233_r3l25 Jean Pierre Bisat de Bercher, Ball d'yverdun
+#facs_233_r3l26 Pierre Pacollon de Mezeray Ball. Lausanne
+#facs_234_r2l1 Jonas Nicoud de Vaumarius
+#facs_234_r2l2 Henry Anselme de L'Isle Ball de Morge
+#facs_234_r2l3 Camicil Roublé de Moral
+#facs_234_r2l4 Daniel Schneider von Thun
+#facs_234_r2l5 Charles Beaud de Rame Ball. d'Yverdun
+#facs_234_r2l6 hendigt Kögrer von Uitenen Herrschafft. Hindelbrecht
+#facs_234_r2l7 Hendicht Sichbab von Dötzigen, Amts Herren
+#facs_234_r2l8 Daniel Arpeau de Bursin Ball. Romainmotier
+#facs_234_r2l9 sendliche Schring von Zbey seinen
+#facs_234_r2l10 Pierre gby de Vaulion Ball Romachmotier
+#facs_234_r2l11 Pierre Adam favre d'Yvoinan Ball Grand
+#facs_234_r2l12 Christian Stabl von Wietlisch Amts Ripp
+#facs_234_r2l13 Johan Brundenbach von Sümißbald
+#facs_234_r2l14 Jean Jaque de L'orme de Vallamand
+#facs_234_r2l15 Vendicht Zimmerman von Alten dorst Amts Thun
+#facs_234_r2l16 Matthy's Scheller von Schenkenberg.
+#facs_234_r2l17 Philipe Pierre Beson de Berolle Ball. Morge
+#facs_234_r2l18 Rudolf Hoffmann von Leutzburg
+#facs_234_r2l19 Johannes Marti von Lopsigen Amts Königsfelden
+#facs_234_r2l20 Jonas Muuer von Jegestorff Herrschafft Hindelbans
+#facs_234_r2l21 Pierre Durand de Lausanne
+#facs_234_r2l22 Jean Jaques Leger de Prangin Ball de Myon
+#facs_234_r2l23 George Muenier de Peeberg Amts Wangen
+#facs_234_r2l24 Daniel Duclos de Villars de Morge
+#facs_234_r2l25 Johannes Ohler von Erißbyl, amts Trachselbald
+#facs_234_r2l26 Jacob Amster von Schenkenberg.
+#facs_234_r4l1 E44
+#facs_234_r4l2 Abraham Kummer von Utzistorffamts Landzeit
+#facs_234_r4l3 Johann Iseli von Schenkenberg.
+#facs_234_r4l4 Qui
+#facs_234_r4l5 Alle Cäntzel hiesiger Haubt Statt
+#facs_234_r4l6 sepp.
+#facs_234_r4l7 Steubrsammlung für Hagel und Waßerbeschädigte
+#facs_234_r4l8 In Bedenken diß Jahrs albereits verschidene
+#facs_234_r4l9 Orth, und ganhe Land Districten in Mgrgl. Teutschen
+#facs_234_r4l10 Landen mit Hagelwetter so härtiglich betroffen, daß
+#facs_234_r4l11 nicht nur die Feld und andere Frucht für dißmahlen
+#facs_234_r4l12 neistentheils zu grund gerichtet, sondern so
+#facs_234_r4l13 gar das Erdrich der Enden durch entstandene
+#facs_234_r4l14 Wasserguäße weggeschbammt, andurch dann die
+#facs_234_r4l15 einböhnere der Enden auff lange Zeit in großer
+#facs_234_r4l16 elend, uns Betrubnus sich leider gesetzet sehen
+#facs_234_r4l17 müßen, bann nicht durch miltreiche Reysteuben
+#facs_234_r4l18 in diser Roth Sie unterstützet bürden.
+#facs_234_r4l19 Haben Maghl. und O. zu einlichem Trost diser
+#facs_234_r4l20 Leuthen gut fünden, auf den vorstehenden Dätt¬
+#facs_234_r4l21 Tag als den 13. Septemb. daß Morgens zu Ende
+#facs_234_r4l22 der Predig bey Ausgang aus der Kirch, bey
+#facs_234_r4l23 Jeder Thür eine freywillige Stender in allen
+#facs_234_r4l24 Kirchen hiesiger Haubt Statt einsammlen
+#facs_234_r4l25 zu laßen; daßen nun Maniglich andurch
+#facs_234_r4l26 benachrichtel
+#facs_235_r3l1 benachrichtet wird, In Hoffnung durch Milt¬
+#facs_235_r3l2 eige beysteüber Christlicher Herzen, disere
+#facs_235_r3l3 bedrübte Leuthe zu Ihrer Ergnikung getröste
+#facs_235_r3l4 und Ihnen werde geholffen werden.
+#facs_235_r3l5 Actum Coram 200. R 15. Aug. 1742.

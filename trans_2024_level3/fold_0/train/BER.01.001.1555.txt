@@ -1,0 +1,24 @@
+Law ID: BER.01.001.1555
+Name: Söllind inn Hinleichung der Zehnden, die alhar Währung derselben vorbehalten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 13/13
+# High similarity (>=50%): 13
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_279_r2l20 Buchsee, Frienisferg, Arberg, Thorberg,
+#facs_279_r2l21 Frauenbrunnen, Brandis, Landtshut Wang
+#facs_279_r2l22 Söllind Inn hinleichung der Zehnden, die alhar
+#facs_279_r2l23 Währung derselben vorbehalten
+#facs_279_r2l24 Schuldtheis vnnd Rhat der Statt Bern. etc.
+#facs_279_r2l25 Damit der nohtwendige Betreidts vorrhat alhie In
+#facs_279_r2l26 Der Statt gemacht werde, Ist unser will nun
+#facs_279_r2l27 Bruelen
+#facs_279_r4l1 Daß die nechsten Zehnden alhar gefuert werden sollind, Wiesen
+#facs_279_r4l2 539
+#facs_279_r4l3 also die Zehnden, bei derselben hinleichung alhar zufüehren, den
+#facs_279_r4l4 besteheren aufferlegen vnnd auffbinden. Gott mit dir
+#facs_279_r4l5 Datum 17. Junij 1654.

@@ -1,0 +1,395 @@
+Law ID: BER.01.001.4109
+Name: Befehl das erneüwerte Münz Mandat zu publicieren- und darob zu halten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 384/384
+# High similarity (>=50%): 360
+# Low similarity (<50%): 24
+# Not found: 0
+#
+#facs_228_r5l24 Nia. Diese Pfruns Zahlt 60. E. Tax
+#facs_228_r7l1 Johlen 80
+#facs_229_r1l1 spindre
+#facs_229_r1l2 avertinet et pas
+#facs_229_r1l3 I22
+#facs_229_r1l4 Coll
+#facs_229_r2l1 An
+#facs_229_r2l2 Alle Teätsch und Weltsche Amtleuth Vier
+#facs_229_r2l3 Stätt. Freybeibel und Ammann
+#facs_229_r2l4 Befehl das erneuwerte Neünz Mandat zu
+#facs_229_r2l5 publicieren, uns darob zu halten.
+#facs_229_r2l6 Schultheiß Rath und Burger
+#facs_229_r2l7 Wir haben Unsere zum besten des Lands
+#facs_229_r2l8 in Ao 1755. ausgegebene uns seitherige Münz¬
+#facs_229_r2l9 Verordnungen, in ein Plauard zu samlen, und
+#facs_229_r2l10 dieselben in einichen Punkten zu erläuteren -
+#facs_229_r2l11 nöthig erachtet u Wir übersenden euch davon ge¬
+#facs_229_r2l12 nugsamme exemplaria, und ist Unser Will daß
+#facs_229_r2l13 solche, samt diesem Unserem Schreiben, öffentlich
+#facs_229_r2l14 von Banzlen verlesen, die Placcard gebohnter Orten
+#facs_229_r2l15 angeschlagen, und von mänglich pünktlich beobachtet
+#facs_229_r2l16 werden.
+#facs_229_r2l17 Ihr berdet demenach Eüern Amts angehörige¬
+#facs_229_r2l18 verbahrnen, daß die Aufsicht auf die wieder¬
+#facs_229_r2l19 handlende verschärfft, und selbige ohne schonen zu
+#facs_229_r2l20 Straffe berden gezogen werden.
+#facs_229_r2l21 Denen Officialen und Vorgesezten aber, berdet
+#facs_229_r2l22 Ihr bey ihren Eyden befehlen, auf die Übertreidung
+#facs_229_r2l23 zu
+#facs_229_r4l1 D3.
+#facs_229_r4l2 zu machen, und solche Euch anzuzeigen. Inmaßen
+#facs_229_r4l3 Bier diejenige, unter deren vorsezlichen Nachstehen
+#facs_229_r4l4 diese Unsere Landes Vädterliche Verordnung außer
+#facs_229_r4l5 acht gelaßen bürde, als solche die da ihrer Pflichten
+#facs_229_r4l6 vergeßen, zu verantwortung Ziechen, und sie Unter¬
+#facs_229_r4l7 Ungnad verspüren laßen werden
+#facs_229_r4l8 Wir verhoffen aber daß sich dieselben durch treues
+#facs_229_r4l9 Betragen darvon zu verbahren, Ihr aber durch bestellen
+#facs_229_r4l10 de Aufsicht und Cauution daß Mandats den Schaden
+#facs_229_r4l11 deß Landes abzubenden, diesem Unseren, bestgemeinten
+#facs_229_r4l12 und ernsthafften Will das Leben zu geben, und mithin
+#facs_229_r4l13 Euch gegen Uns, außer aller Verantwortung zu sehen.
+#facs_229_r4l14 bißen beedet; Godt mit Eüch; Dal. d. 2. Febr. 1759.
+#facs_229_r4l15 Plavare
+#facs_229_r4l16 Wir Schultheiss, Klein und Große Rath
+#facs_229_r4l17 Der Stadt Bern, thund kund hiemit: daß Sie seitzt
+#facs_229_r4l18 geraumer Zeit wahrnemen müßen, Wie die guten
+#facs_229_r4l19 Balt-sortes aus Unseren Landen gezogen, und
+#facs_229_r4l20 Unseren Angehörigen entrißen, dargegen dan schlechte
+#facs_229_r4l21 und gering hältige Scheis. Münzen unterschoben, und
+#facs_229_r4l22 das ganze Land damit angefüllet worden, durch welcher
+#facs_229_r4l23 Ungerachten Aufwachtel Unter liebe Angehörige Zu¬
+#facs_229_r4l24 Großem
+#facs_229_r6l1 Bohlen 86
+#facs_229_r6l2 à 5 x
+#facs_230_r2l1 Großem Verlurst und Schaden gebracht worden;
+#facs_230_r2l2 also daß Wir durch diese Betrachtungen bewogen,
+#facs_230_r2l3 und damit für die künftige Zeiten, Unsere lande
+#facs_230_r2l4 vor solchem Nachtheil verwahret bleiben mögen,
+#facs_230_r2l5 hierdurch eine Landes, Vädterliche Vorsorg anzuordnen
+#facs_230_r2l6 nothbendig erachtet, zumahlen gut befunden hat,
+#facs_230_r2l7 von denen Ausländischen Scheid = Münzen, nur die
+#facs_230_r2l8 hiernach vernamstete und probhältig erfundene,
+#facs_230_r2l9 and in
+#facs_230_r2l10 ihrem bißhörigen Gang zu laßen, alle abge¬
+#facs_230_r2l11 geringhältige aber, theils abzubürdigen, und auf
+#facs_230_r2l12 ihren innerlichen Werth hinunter zu sezen, oder¬
+#facs_230_r2l13 gänzlich zu verbiethen, wie hernach folget, Als
+#facs_230_r2l14 Erlaubte Scheid-Münzen, nach
+#facs_230_r2l15 bisherigem lauff.
+#facs_230_r2l16 Fünf-Bätzler von Luern, Genf und Neüer
+#facs_230_r2l17 burg samt ihren Bruch Stücken
+#facs_230_r2l18 Oertl. von Schbeiz und Schaffhausen, oder alte
+#facs_230_r2l19 Eilf. Schilliger
+#facs_230_r2l20 Plappert von Bastel, oder alte Vier Schilliger
+#facs_230_r2l21 Französische Pieettes, deren 3 einfache, um Königl.
+#facs_230_r2l22 Bern Bazen.
+#facs_230_r2l23 Urx.
+#facs_230_r2l24 Alte ganze Bazen, von Zürich, Quier¬
+#facs_230_r2l25 Schweiz
+#facs_230_r3l1 440. 2
+#facs_230_r3l2 Schbeiz, Zug, Freyburg, Solothurn und Neuenburg,
+#facs_230_r3l3 um Vier Bern. Kreuzer
+#facs_230_r3l4 Alte halbe Sazen, so im vorigen Jahrhundert, von
+#facs_230_r3l5 diesen Orten geschlagen worden, um 2. Kreutzer
+#facs_230_r3l6 Alte drey Kreutzler von Freyburg und Solothurn
+#facs_230_r3l7 um 3. Kreutzer
+#facs_230_r3l8 Abgewürdigte Scheid-Münzen.
+#facs_230_r3l9 Hispamiche siben dezen Stub, um 6. Razen 2. Kreuher
+#facs_230_r3l10 Zürich Bertl., um 15. Kreutzer
+#facs_230_r3l11 Dopplete Zürich = Ort, oder sogenante Zürichen halb
+#facs_230_r3l12 Gulden, 30. Kreutzer
+#facs_230_r3l13 Cänzlich verbottene Scheid-Münzen
+#facs_230_r3l14 Die Fünf-Bazen-Stube von Urij, Schbeiz, Unter¬
+#facs_230_r3l15 walden, Zug, Freyburg, Wallis und Bischoff¬ Baßel
+#facs_230_r3l16 samt ihren Bruch-Stuben
+#facs_230_r3l17 Piecettes von Emern
+#facs_230_r3l18 Örtlx von St. Ballen und Appenzell:
+#facs_230_r3l19 Wertl. von Basel, oder drey-Tazen-Stut de Anno
+#facs_230_r3l20 1724
+#facs_230_r3l21 Banze Bazen, von Wallis und Bischof¬ Basel
+#facs_230_r3l22 Neuere, halbe¬ Bazen von Freyburg und Luiern, so in
+#facs_230_r3l23 lin ein
+#facs_230_r5l1 Iohlen 86.
+#facs_231_r2l1 Diesem Jahrhundert geschlagen worden, dem
+#facs_231_r2l2 alle halbe Sazen von Unterwalden, Wallis und
+#facs_231_r2l3 Bischoff Basel
+#facs_231_r2l4 Dopplete Schilling oder Assis von Basell.
+#facs_231_r2l5 Einfache, alte uns neue Schilling, von Zürich¬
+#facs_231_r2l6 mern, und allen anderen Tragen
+#facs_231_r2l7 Alle Kreützer, Vierer, Rappen, Angster, und
+#facs_231_r2l8 dergleichen geringe Münzen, was nit mit dem
+#facs_231_r2l9 Bernstämpfel gezeichnet ist.
+#facs_231_r2l10 Alle Reichs-Münzen ohne Ausnahm
+#facs_231_r2l11 Worbey es den Verstand hat, daß alle außere
+#facs_231_r2l12 Scheid. Münz /: worunter gezehlt wird, alles ba¬
+#facs_231_r2l13 unter dem Werth eines Bern-Pfunds, oder 7½
+#facs_231_r2l14 Dazen, Bern Wehrung gebürdiget ist /: welche hin¬
+#facs_231_r2l15 nicht unter die erlaubten gesezt worden, ohne
+#facs_231_r2l16 ausnahm verbedten seyn solle. Darin doch nicht
+#facs_231_r2l17 begriffen seyn sollen, die Bruch - Stük von denen
+#facs_231_r2l18 hier im Land gangbahren Silber-Sorten, deren
+#facs_231_r2l19 lauf hienach bestimt ist.
+#facs_231_r2l20 Damit aber die fernere Einverffung der schlechten
+#facs_231_r2l21 Münzen, und deren lauff, in Unferen Landen be¬
+#facs_231_r2l22 hinderet, und dieses so land  schädliche Übel¬
+#facs_231_r3l1 442.
+#facs_231_r3l2 Seinem Ursprung ausgetilget werden möge, mit¬
+#facs_231_r3l3 hin die sogenanten Kipper- und Wipper, das ist alle
+#facs_231_r3l4 Gelt Händler, welche verruffene schlechte Münzen
+#facs_231_r3l5 in Unsere Land bringen, und selbige gegen gute
+#facs_231_r3l6 Münzen, oder auch gegen Gold- und Silber, Sorten auf
+#facs_231_r3l7 bechllen, und aus dem Land Ziechen; dem auch
+#facs_231_r3l8 solche Negocianten, fabricanten, Commissionaires
+#facs_231_r3l9 Speditoren, Fuhrleuth, Stödt und Gelträgere, auch
+#facs_231_r3l10 andere Gebinn, und Gewerb-treibende leuthe und
+#facs_231_r3l11 jedermäniglich, die solche verbodtene Münzen ins¬
+#facs_231_r3l12 Land streuen, oder sonsten darmit Zahlungen abrichten,
+#facs_231_r3l13 gestöhrt uns gebührend abgestrafft werden, ist Unser
+#facs_231_r3l14 Will, daß auf die Einnahme sobohl als auf sie Aus¬
+#facs_231_r3l15 gabe der kleinen verbodtenen Kupfer Münz, von
+#facs_231_r3l16 zweyen Kronen, und drunter, eine Buß von sechs
+#facs_231_r3l17 Kronen gestezt seyn, im fahl aber solche auf ein Höhers
+#facs_231_r3l18 anstiege, das schlechte und verbodtene Geld von Unseren
+#facs_231_r3l19 Amtleüthen, mit Confiscation belegt, derjenige dann, so
+#facs_231_r3l20 bliches einzubringen, auszugeben, oder anzunemmen
+#facs_231_r3l21 sich unterstehen wurde, fürs erste mahl, auch eine
+#facs_231_r3l22 Buß von dem doppletene Werth der Confiscation zu be¬
+#facs_231_r3l23 Zahlen haben; Fürs zweyte mahl aber, ja nach bekandten
+#facs_231_r3l24 Vingen
+#facs_231_r7l1 Fohlen 86
+#facs_231_r7l2 a 5 x
+#facs_232_r2l1 Dingen über das aus, noch an Leib, Ehr uns Gutz,
+#facs_232_r2l2 abgestraft werden solle; also und dergestalten
+#facs_232_r2l3 gleichwohl, daß, bann derjenige, deme solche ver¬
+#facs_232_r2l4 bottene Münzen bären zugestandt, oder gegeben
+#facs_232_r2l5 worden, solches selbsten dem Richterdeß Ohrts¬
+#facs_232_r2l6 anzeigen wurde, er von der Schuß liberiret seye.
+#facs_232_r2l7 und annoch einen Drittel von der Confiscation im
+#facs_232_r2l8 Auß haben solle; Wurde Er aber solches inert acht
+#facs_232_r2l9 tagen anzuzeigen unterlaßen, und jedoch von
+#facs_232_r2l10 anderen angegeben werden, so soll der Empfahr die
+#facs_232_r2l11 ganze Buß; Fahls aber der Übersender oder Gebe
+#facs_232_r2l12 in gleicher Zeit im Land behändiget werden könte.
+#facs_232_r2l13 ein jeder von beyden den halbigen Theil, zu be¬
+#facs_232_r2l14 zahlen haben.
+#facs_232_r2l15 Hierbey wollen Wir auch denen Negocianten,
+#facs_232_r2l16 Fabricanten, und Mäniglich hiemit alles Ernstes
+#facs_232_r2l17 abgestellt und verbodten haben, von diesen schlechten
+#facs_232_r2l18 Münzen von außenher ins Land zu bringen, oder
+#facs_232_r2l19 ihre Arbeits-leuthe mit dergleichen ferners zu be¬
+#facs_232_r2l20 Zahlen, unter oberläuterter Confiscation und Bust
+#facs_232_r2l21 ohne Nachlaßung
+#facs_232_r2l22 Solten demnach auch Sie die Fabricanten, und
+#facs_232_r2l23 Negociants
+#facs_232_r3l1 44
+#facs_232_r3l2 Negocianten, ihrer Arbeitere, es seyen Ausländische
+#facs_232_r3l3 oder Lands Kinder, in Unsteren landen in veraufften
+#facs_232_r3l4 Gelt zu bezahlen, sich vermeßen, die Arbeitere aber
+#facs_232_r3l5 solches innert obbestimter Zeit dem Richter des Ohrts
+#facs_232_r3l6 anzeigen, sollen Sie alsdann nicht nur von der be¬
+#facs_232_r3l7 stimten Buß befreyt seyn, sonderen als Verleider,
+#facs_232_r3l8 nebst geheimhaltung ihres Nahmens, den dritten Theil
+#facs_232_r3l9 von der Straff, mit welcher der Beber soll belegt berden,
+#facs_232_r3l10 zu beziechen haben;
+#facs_232_r3l11 Und damit maniglich desto mehr zu beobachtung diese
+#facs_232_r3l12 Hoch-Oberbeitlichen Ordnung, und zur Wachsamkeit
+#facs_232_r3l13 gegen die Wiederhandlende angefrischet werde, ist
+#facs_232_r3l14 Unser Will und Meinung ferners, daß die Confiscation
+#facs_232_r3l15 uns Buß in drey gleiche Theil vertheilt, darvon der einte
+#facs_232_r3l16 zu Unseren Hausen bezogen werden, der andere aber dem
+#facs_232_r3l17 Amtsmann deß Orths, und der dricke dem Verleyde heim¬
+#facs_232_r3l18 fallen soll; Da dann diesen beyden Ihr Antheil an der
+#facs_232_r3l19 Confiscation, nach dem innerlichen Werth, mit gutem Geld,
+#facs_232_r3l20 ausgebechtet werden wird.
+#facs_232_r3l21 Eleichwie aber die allzáhohe Abnahm und
+#facs_232_r3l22 Steigerung der Silber- und Gold-Fortes, den dem
+#facs_232_r3l23 Laus aufgefallenen Verlurst nahmhafft vermehren
+#facs_232_r3l24 hel. Also haben Wir auch diesem Übel zu steuren
+#facs_232_r3l25 Uns
+#facs_232_r6l1 hohlen 80
+#facs_233_r2l1 Uns entschloßen, zumahlen allen denjenigen Beld
+#facs_233_r2l2 = Sorten, welchen Wir den Lauf zu laßen gesinnt
+#facs_233_r2l3 sind, ihren Werth bestimmet wie folget.
+#facs_233_r2l4 Bürdigung der Silber Sorten.
+#facs_233_r2l5 Bazen. 28.
+#facs_233_r2l6 40
+#facs_233_r2l7 Der französische Cronthaler
+#facs_233_r2l8 Louis. blanc vieux, oder alte Frau
+#facs_233_r2l9 36
+#facs_233_r2l10 -
+#facs_233_r2l11 zösische Thaler.
+#facs_233_r2l12 2.
+#facs_233_r2l13 17
+#facs_233_r2l14 Halbe Louis, blanc
+#facs_233_r2l15 Alteher Bidel. Thaler, sowohl mit dem
+#facs_233_r2l16 einfachen Schild von Krankenreich, als
+#facs_233_r2l17 mit dem getheilten von Frantenreich
+#facs_233_r2l18 32
+#facs_233_r2l19 und Navarra
+#facs_233_r2l20 31
+#facs_233_r2l21 Neue Bidez-Thaler, mit II
+#facs_233_r2l22 Dem Feder - Thaler wirs vor dißmahl
+#facs_233_r2l23 und auf weitere Verordnung der Lauff¬
+#facs_233_r2l24 40
+#facs_233_r2l25 "
+#facs_233_r2l26 gelaßen, à
+#facs_233_r2l27 Bemuesischer Croizat, wofern solche
+#facs_233_r2l28 50.
+#facs_233_r2l29 die behörige Gebicht hat,
+#facs_233_r2l30 Die Bruchstuk davon sollen nach Pro¬
+#facs_233_r2l31 portion der 50. Saßen gerechnet
+#facs_233_r2l32 werden
+#facs_233_r2l33 Bajoire, oder Sogenanten fünff
+#facs_233_r2l34 43
+#facs_233_r2l35 Pfündler
+#facs_233_r2l36 35
+#facs_233_r2l37 Neue Hispammische uns Säulen Thaler
+#facs_233_r2l38 Der
+#facs_233_r4l1 Der alte Patagon, und alle übrige
+#facs_233_r4l2 u..
+#facs_233_r4l3 alte Specus Thalen
+#facs_233_r4l4 Der Neüe Savoyische Thaler
+#facs_233_r4l5 Die Bayrische Thale
+#facs_233_r4l6 halbe Währische Thaler
+#facs_233_r4l7 Der ganze Trente. Sols
+#facs_233_r4l8 der halbe Trente, Sols.
+#facs_233_r4l9 Lothringische Franken-Stuk
+#facs_233_r4l10 Bürdigung der Gold, Sorten
+#facs_233_r4l11 gebichtig sind
+#facs_233_r4l12 Die Alten Französischen und Hispanischen
+#facs_233_r4l13 Dublonen
+#facs_233_r4l14 Louis d'Or Mirliton
+#facs_233_r4l15 Sonnen Dublinen, und Louis au Poupon im
+#facs_233_r4l16 Hand und Siepter
+#facs_233_r4l17 Croix de Matthe, oder Dublinen mit den
+#facs_233_r4l18 Malthafern Creütz
+#facs_233_r4l19 Die Dublinen mit anstehend, sintenmahl,
+#facs_233_r4l20 deren viel falsche, und nachgeschlagen worden
+#facs_233_r4l21 soll niemand schuldig seyn, deren an Be¬
+#facs_233_r4l22 Zahlung anzunemen.
+#facs_233_r4l23 is d'Or à la Noaille, so biß hieher
+#facs_233_r5l1 Bezeu
+#facs_233_r5l2 33
+#facs_233_r5l3 45
+#facs_233_r5l4 34
+#facs_233_r5l5 17
+#facs_233_r5l6 14
+#facs_233_r5l7 9
+#facs_233_r7l1 Sie
+#facs_233_r7l2 Bahen
+#facs_233_r7l3 127
+#facs_233_r7l4 124
+#facs_233_r7l5 155.
+#facs_233_r7l6 185
+#facs_233_r9l1 das
+#facs_233_r9l2 Kol.
+#facs_233_r9l3 2
+#facs_233_r10l1 Johlen. 86
+#facs_234_r2l1 Zur 11/2. Sonen. Dublinen passiert, und sahen
+#facs_234_r2l2 232
+#facs_234_r2l3 angenommen worden
+#facs_234_r2l4 Dem Neuen Louis d'Or oder Schilltl.
+#facs_234_r2l5 Dublonen wird ebenfahls, biß auf weitere
+#facs_234_r2l6 160
+#facs_234_r2l7 Verordnung, der Lauff gelaßen à
+#facs_234_r2l8 Die größere Portugesische Moy d'O¬
+#facs_234_r2l9 275
+#facs_234_r2l10 oder Gold Stuk von Lisabon
+#facs_234_r2l11 205
+#facs_234_r2l12 Die Kleinere
+#facs_234_r2l13 Die Bruch Stük nach Proportion
+#facs_234_r2l14 183
+#facs_234_r2l15 Neüe Savoyische Dublinen
+#facs_234_r2l16 25
+#facs_234_r2l17 Bemuesische und Venetianische Sublowen
+#facs_234_r2l18 123
+#facs_234_r2l19 Alle übrige Italienische Dublinen
+#facs_234_r2l20 109
+#facs_234_r2l21 Benfer Dublinen
+#facs_234_r2l22 Alle guten Quaten, so 63. Grau schwehr
+#facs_234_r2l23 und den Hispanischen halben Dublinen
+#facs_234_r2l24 70
+#facs_234_r2l25 Stein Ziechen
+#facs_234_r2l26 Diejenigen Dicaten aber so leichter sich befinden,
+#facs_234_r2l27 sollen keinen lauff haben, und sind völlig ver¬
+#facs_234_r2l28 ruffen, der Meinung, daß, bey dergleichen Zu¬
+#facs_234_r2l29 Handen bekäme, solche nach Ausweise bereits.
+#facs_234_r2l30 vorhandener Ordnung in hiesige Münz trage
+#facs_234_r2l31 möge, um darfür den bahren innerlichen Werth
+#facs_234_r2l32 zu empfahen, ohne weiteren Entgelt.
+#facs_234_r2l33 Alle Teutsche Gold- Sorten sollen gleichfahls keinen
+#facs_234_r2l34 Lauff
+#facs_234_r3l1 chenes
+#facs_234_r3l2 Lauf noch Gang haben, sonderen verbotten seyn
+#facs_234_r3l3 Wir wollen demnach hiermit geordnet haben, daß sich
+#facs_234_r3l4 jedermäniglich ohne Ausnahm in Unseren Landen
+#facs_234_r3l5 Es seyen Einheimsche oder fremde, insbesondere aber die
+#facs_234_r3l6 Fabricanten, Kauf- und Handels = Leuthe, so wohl in der
+#facs_234_r3l7 Ausgabe, als Einnahme darnach richten, und diese Unsere
+#facs_234_r3l8 gegenbertige Verordnung sich zur Vorschrifft dien¬
+#facs_234_r3l9 laßen, auch keine Neu = geprägte Gold- und Silber¬
+#facs_234_r3l10 sorten Ins Land streüen sollen, ehe und bevor sie von
+#facs_234_r3l11 Uns gebürdiget seyn werden; inmaßen diejenigen
+#facs_234_r3l12 Gold- und Silber- Sorten, so entleders hier nicht ge¬
+#facs_234_r3l13 bürdiget, oder aber höher als in dem hier obbestimten
+#facs_234_r3l14 Tax der Silber, und Gold-sorten angebodten oder ab¬
+#facs_234_r3l15 genomen burden, ohne Schonen confisciert, und zwahr
+#facs_234_r3l16 sowohl der Beber, als der Remmer, um die Confiscation
+#facs_234_r3l17 verfallt seyn, je nach bewandten Dingen und Beyde¬
+#facs_234_r3l18 Deß fehlers aber, auch mit mehrerer Straff angesehen.
+#facs_234_r3l19 werden soll
+#facs_234_r3l20 In Vertheilung der fallenden Confiscationen soll ver¬
+#facs_234_r3l21 fahren werden, wie hier oben der Scheid-Munzen
+#facs_234_r3l22 halb, daß mehreren erläutert werden
+#facs_234_r3l23 Wagen denen einkomenden Neugeprägten und un¬
+#facs_234_r3l24 taxierten Gold- und Silber Stuben dann, ist Unser
+#facs_234_r3l25 Will
+#facs_234_r6l1 Lohln 86
+#facs_235_r2l1 Will, daß solche Unseren Amtsleuthen, deß Orths
+#facs_235_r2l2 oder allhier in der Haubt Stadt, Unserem Müch¬
+#facs_235_r2l3 Meister zugebracht werden, damit solchem nach ge¬
+#facs_235_r2l4 bührenden Ohrts der Tax ausgewürbt uns ausge¬
+#facs_235_r2l5 schrieben werden könne.
+#facs_235_r2l6 Wie die von denen Fabricanten Ausbarts Unsere
+#facs_235_r2l7 Landen, auf die Brenzen verlegte Zahlungs Comptoire
+#facs_235_r2l8 in denen Sie einige Zeit daher ihre Ausländiche-
+#facs_235_r2l9 Arbeitern, in verruffter Münz bezahlt, durch Unser
+#facs_235_r2l10 verordnete Münz Comission würklich abgestellt, und
+#facs_235_r2l11 deren zu errichten, verbodten borden, laßen Wir es
+#facs_235_r2l12 disohrts lediglich dabey bebenden
+#facs_235_r2l13 Wann dan Uns auch zum Mißfallen gereicht, daß
+#facs_235_r2l14 ein und andere Unserer angehörigen fabricanten
+#facs_235_r2l15 aus buchrischen Absichten, ihre im Land habende.
+#facs_235_r2l16 Arbeitere verabscheiden, ihnen die bißhiehin erworbenden
+#facs_235_r2l17 Nahrung entziechen, und diesen kleinen Gebinn
+#facs_235_r2l18 denen Ausländischen Arbeiteren Zuwenden; Als ist
+#facs_235_r2l19 Unser Will, daß fürohin Sie sich, in so beit möglich
+#facs_235_r2l20 der Landshinderen vorzüglich, vor denen fremden
+#facs_235_r2l21 bedienen, in Maßen ansonsten Wir Uns le¬
+#facs_235_r2l22 müßiget stehen wurden, solchen Übel gefinnten
+#facs_235_r2l23 ange diehenen Schuz, zu entziechen, und Sie Unser
+#facs_235_r2l24 Ungnad verspürren zu laßen
+#facs_235_r2l25 Wie
+#facs_235_r4l1 450
+#facs_235_r4l2 Wir wollen nun allen Unseren Amtsleuten hiemit
+#facs_235_r4l3 alles Ernsts befohlen, und nachtruksamst eingeschärpft
+#facs_235_r4l4 haben, auf diese Unsere Ordnung eifrigst zu wachen
+#facs_235_r4l5 denen Officialen und Vorgesezten aber, soll bey ihres
+#facs_235_r4l6 Eydts Pflicht obligen, auf die fehlbahre genau Aufsicht le¬
+#facs_235_r4l7 zu halten, und solche Unseren Amtleuthen ohne Schonen
+#facs_235_r4l8 zu verleiden. Versehen Uns aber mit vollem Vertrauen
+#facs_235_r4l9 es beyden Unsere Liebe und Getreue Angehörige, alle
+#facs_235_r4l10 Unser Städten und Länden, diesen, ihren selbst eigenes
+#facs_235_r4l11 ..
+#facs_235_r4l12 Nuzen erziehlenden, so Landtvädterlichen, als Ernst
+#facs_235_r4l13 meinenden Verordnung, durch schuldigen Gehorsam nach zu¬
+#facs_235_r4l14 leben, und sich selbst vor Verantbortung, Straff und
+#facs_235_r4l15 Schaden zu hüeten beflißen seyn. Inmaßen auf
+#facs_235_r4l16 die Übertreckern schärffere als niemahls Aufsicht gehalten.
+#facs_235_r4l17 barden wird; Geben in Unser Broßen Raths Ver¬
+#facs_235_r4l18 temlung d. 4. Juny 1755. erläuteret und vermehrt.
+#facs_235_r4l19 d. 2t. July und 18t. Augusty 1756, den 11. Marty 1757.
+#facs_235_r4l20 d. 13. January 1758. uns den 22. February 1759.

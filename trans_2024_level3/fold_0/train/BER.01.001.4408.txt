@@ -1,0 +1,32 @@
+Law ID: BER.01.001.4408
+Name: Ihnen die Verordnung, auf welchem Fuss die Juden auf den offentlichen Jahrmärkten dess Unteren Ärgeüs Handlung treiben mögen, zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_505
+# Matched: 21/21
+# High similarity (>=50%): 20
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_259_r1l1 en 508.
+#facs_259_r1l2 Collath
+#facs_259_r2l1 An
+#facs_259_r2l2 Die Herren Amtleute des unteren Argens
+#facs_259_r2l3 und Baaden
+#facs_259_r2l4 Ihnen die Verordnung, auf welchem Fuß die
+#facs_259_r2l5 Juden auf den öffentlichen Jahrmärkten daß
+#facs_259_r2l6 Untern Argens Handlung treiben mögen,
+#facs_259_r2l7 Zusenden
+#facs_259_r2l8 Schultheiß und Rahts
+#facs_259_r2l9 Wir haben nöhtig erachtet, in betreff der
+#facs_259_r2l10 Juden und auf welchem Fuß denenselben
+#facs_259_r2l11 die Handlung auf denen offentlichen Jahr¬
+#facs_259_r2l12 Märbten in dem ganzen Unteren
+#facs_259_r2l13 Argen erlaubt seyn solle, einligende Ver¬
+#facs_259_r2l14 ordnung zu machen, von welcher Wir
+#facs_259_r2l15 Euch gnugsame Exemplaria zusenden, um
+#facs_259_r2l16 solche in Euerem Amt behörig publicieren,
+#facs_259_r2l17 /: an Baaden allein :/ und in denen Juden
+#facs_259_r2l18 Synagogen verlesen zu laßen. Datl. den 21ten
+#facs_259_r2l19 Augl. 1773

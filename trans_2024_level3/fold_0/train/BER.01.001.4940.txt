@@ -1,0 +1,42 @@
+Law ID: BER.01.001.4940
+Name: Inglangter Zyttungen halb.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 31/31
+# High similarity (>=80%): 28
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_58_r2l32 sans
+#facs_190_r1l1 Partius
+#facs_310_r4l1 61
+#facs_197_r3l1 Eusanna delen, Morgra, Neuwerk und
+#facs_197_r3l2 Zuerdten, Inglangter Zyttungen halb
+#facs_197_r3l3 Demnach wir mit allein der Kriegsschäußung
+#facs_139_r4l3 r
+#facs_197_r3l5 vnd annemung frischer Compagnien vnd volcks so vff in
+#facs_197_r3l6 niers hin: vnd wider zu Sanoy beschechen soll, glaubhaffter
+#facs_197_r3l7 bericht empfangen, Sonnders auch das etliche Rotensweg
+#facs_197_r3l8 durch vner Landtschafft Waadt, underem Schyn, als weren
+#facs_197_r3l9 sich krämer, die Wallen vff Inen tragen vnd vns Burgund¬
+#facs_197_r3l10 kommen, und vff Enian zuehen sollen, habend wie zwa¬
+#facs_197_r3l11 des ersten punctens halb den bericht, das höllich bewerben
+#facs_197_r3l12 Kriegsnolck zu besorgender unser Kriegtwieder zwüsch¬
+#facs_197_r3l13 Sauey und Weilandt gebracht werden solle, jedoch Sie
+#facs_197_r3l14 bauchend wir die vorgender Vnserer Warnung und be¬
+#facs_197_r3l15 nelsch nach, vff sollich Kriegswesen mir hilff vertruwter
+#facs_197_r3l16 Versohnen, so der enden geseßen, ein flyßig aus zuwerffen
+#facs_197_r3l17 vnd zu unseren Füseren geflißen Sorg vnd hat zehaben
+#facs_197_r3l18 Insonderheit vff solche durchreisende Vergstalt
+#facs_197_r3l19 Kramer mercklich achten zelaßen, wo dieselbiger wächtig
+#facs_197_r3l20 und sich zu besorgender gefhar, im durchzug Sinnen
+#facs_197_r3l21 wurdendt, nach dem ernorderlich zu wirt gegen
+#facs_197_r3l22 I.nen dich gehalten, und vns Irenthalb und dines erfhr¬
+#facs_197_r3l23 rens Jederzynzeberichten, Thalt aber solche durchreisende
+#facs_197_r3l24 in suspect, noch sich gefharlicher wysz zinnen, Sonder
+#facs_197_r3l25 einfaltig durchzuchen würdende, Ist vnser Will vnd
+#facs_197_r3l26 verstand mir das dieselben vffgehalten, Sonnders Inen
+#facs_197_r3l27 feyer pas und durch Zug gestattet werden Datum 17a.
+#facs_197_r3l28 May 1616

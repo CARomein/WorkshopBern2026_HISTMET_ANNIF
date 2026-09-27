@@ -1,0 +1,402 @@
+Law ID: BER.01.001.3621
+Name: Verbiehten dass in denen vom Schnee beschädigten Wälderen sich niemand beholtze.
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_494
+# Matched: 390/390
+# High similarity (>=50%): 387
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_75_r3l1 Signalement
+#facs_75_r3l2 Des Voleurs indiqués par Jean Pier
+#facs_75_r3l3 re Barbier de Crassy, arreté
+#facs_75_r3l4 au presons de Coppet.
+#facs_75_r3l5 Un nommé chartes, qui ledit aussi
+#facs_75_r3l6 la fontaine, avec la ferme qui s'appelle
+#facs_75_r3l7 Manon, venant des dentelles, Indiener
+#facs_75_r3l8 Toiles, croix dorfevreries et enbagues
+#facs_75_r3l9 Leo: Marie Lyant une couture d'un
+#facs_75_r3l10 coup de visbre sur le menton du coté
+#facs_75_r3l11 droit, étant de la hauteur de cinq
+#facs_75_r3l12 pieds trois pluies pour le moins
+#facs_75_r3l13 Mauteur la tête, peu de Cheveux
+#facs_75_r3l14 minis sur le blond son juste au loop
+#facs_75_r3l15 Couteur de Noisettes, une Veste gris
+#facs_75_r3l16 de fer, ayant un gros cheval Bag
+#facs_75_r3l17 marqué de Blanc à la tête, le bout
+#facs_75_r3l18 du Museum blanc, et le pied gauche
+#facs_75_r3l19 de derriere blanc; et sa ferme de peti
+#facs_75_r3l20 te taille, visage bonn, qui à une
+#facs_75_r3l21 conture à la joue gauche, portant
+#facs_75_r3l22 une Robe de Chambre sur le brui
+#facs_75_r3l23 barre de blanc, et quand Elle est
+#facs_75_r4l1 143
+#facs_75_r4l2 à Cheval, une Devantiese bleuve, qui doit
+#facs_75_r4l3 vent avoir tenu le Chemin de Befort
+#facs_75_r4l4 ledit la fontaine se nome aussy Pierre
+#facs_75_r4l5 Il est Bourguignon proche d'Avallon
+#facs_75_r4l6 dans le Morvan
+#facs_75_r4l7 Un nommé Chartes d'aigle, qui a été valet
+#facs_75_r4l8 chez feu Monsr. Le Comissaire grenier
+#facs_75_r4l9 led. Charles de Taille medivire, asser gros
+#facs_75_r4l10 Visage rondet Rouge, cheveux abbattus
+#facs_75_r4l11 tirant sur le blood, petite Barbe, un
+#facs_75_r4l12 asses gros Nez, grosses jambes, justeau
+#facs_75_r4l13 corp Brun doublé de Rouge, qui est valet
+#facs_75_r4l14 du nome Pierre Berger, dont le portrait
+#facs_75_r4l15 est tiré cy dessous.
+#facs_75_r4l16 Un nome Pierre Berger, qui est Dauphinois
+#facs_75_r4l17 agé d'environ 60 ans, qui le nomme aussi
+#facs_75_r4l18 du four, qu'il croit être apresent en Savoye
+#facs_75_r4l19 avec la feme d'un Nomé la france, que
+#facs_75_r4l20 redt Pierre change souvent de Nom, et
+#facs_75_r4l21 est un maitre voleur, d'une paille environ
+#facs_75_r4l22 cinq pieds et demy, cheveux noirs et fri¬
+#facs_75_r4l23 sés, environ la moitie de les cheveux
+#facs_75_r4l24 gris, portant un Couteau de Chasse
+#facs_76_r2l1 qui s'un Pomeau de l'Eton plat, la
+#facs_76_r2l2 poignée de luivre Rouge, ayant on
+#facs_76_r2l3 dinairement trois ou quatre Pistolets
+#facs_76_r2l4 gros ne ses grosses levres, visage long
+#facs_76_r2l5 reserre et vazane, les yeux enfoncés
+#facs_76_r2l6 Justeau erp gris de Maure, Veste
+#facs_76_r2l7 couleur de Roisette, et une Matelotte
+#facs_76_r2l8 de même Colheur, ayant de grosse
+#facs_76_r2l9 Chevilles au haut des Pieds, qui les
+#facs_76_r2l10 Luy font porter en dehors, et les lui
+#facs_76_r2l11 font paroitre courbes, il fait le Mais
+#facs_76_r2l12 chand de Montres et forcailleries
+#facs_76_r2l13 Un Nomé Jean Martin de Pully, qui
+#facs_76_r2l14 Le nome aussi Durand taille medioi
+#facs_76_r2l15 re, Epais, gros Visage remply, Che¬
+#facs_76_r2l16 veux noirs abbatus lorsqu'il l'a con-
+#facs_76_r2l17 nu il y a environ dix ans que la
+#facs_76_r2l18 feme dud: la fort aine luy à dit
+#facs_76_r2l19 il y a environ à mois qu'il rouloit
+#facs_76_r2l20 encore par la hiesse, et qu'il avoit
+#facs_76_r2l21 été à la foire de Berne l'Hiver
+#facs_76_r2l22 passé pour valer des bonices, ou il
+#facs_76_r2l23 manquérent d'être pris
+#facs_76_r3l1 45
+#facs_76_r3l2 Un nomé St Amen qui a été cydevant
+#facs_76_r3l3 Soldat à la garnison de Geneve, d'ouir
+#facs_76_r3l4 est forti il y a environ deux ans, qui se
+#facs_76_r3l5 dit être ne audt. geneve d'un pere francois
+#facs_76_r3l6 du Vivaret, ne Schachant de quel Endroit
+#facs_76_r3l7 qu'il à pris femme à Lausane, que ledit
+#facs_76_r3l8 Saintaman est de la taille d'environ
+#facs_76_r3l9 cinq pieds trois pouces de Roy, cheveux
+#facs_76_r3l10 noirs asses longs, et un peu boucles au
+#facs_76_r3l11 bout, un Visage plein de bonn couleur
+#facs_76_r3l12 la barbe noire, et fort epaisse, Ner
+#facs_76_r3l13 asses bien fait, les sourcils des yeux noirs,
+#facs_76_r3l14 agé d'environ 40. ans, sailleur de Profes¬
+#facs_76_r3l15 sion, mais travaille à toutes Sortes
+#facs_76_r3l16 d'ouvrages, à cultiver la terre, portant
+#facs_76_r3l17 un Sarreau de Poite grise, une veste
+#facs_76_r3l18 J'Etoffe couleur de Noisette, et des lulottes
+#facs_76_r3l19 de peau.
+#facs_76_r3l20 Sa feine est de taille medioire, assesgros
+#facs_76_r3l21 se, gros visage rempli et rouge, com-
+#facs_76_r3l22 mençant à rider, portant une veste
+#facs_76_r3l23 et une jupe musque, une loiffete
+#facs_76_r3l24 à dentelles, attachée avec un Rubans
+#facs_76_r3l25 bleu
+#facs_77_r2l1 Un nome la Cour de Remilly en
+#facs_77_r2l2 Savoyé, Bourguignon de naissance
+#facs_77_r2l3 quiafait batir une maison aud.
+#facs_77_r2l4 Remilly vis à vis l'eglise, de taille
+#facs_77_r2l5 medoire, portant perruque cour.
+#facs_77_r2l6 te chatein, petit visage basar
+#facs_77_r2l7 petit Née, de gros yeux à fleur de
+#facs_77_r2l8 tête, les sourcils noirs, agé d'envi-
+#facs_77_r2l9 mon 36. ans, qui va ordinairement
+#facs_77_r2l10 par les faires pour y voler
+#facs_77_r2l11 An nome Bartholomy qu'il croit
+#facs_77_r2l12 être de Montbeillard, de la taille
+#facs_77_r2l13 de cinq pieds quatre pouces, assez
+#facs_77_r2l14 minée, Visage ny gras ny maigre,
+#facs_77_r2l15 tout édenté à la machoire super-
+#facs_77_r2l16 eure, Nez abbattu, grosyeux, Sous
+#facs_77_r2l17 quils roussels, qui mene ordinaire
+#facs_77_r2l18 ment une petite jument lendreux
+#facs_77_r2l19 oge, courte queüe, portant deux
+#facs_77_r2l20 Caisses dans lesquelles il y a de la
+#facs_77_r2l21 quincaille et des dentelles, va ordre
+#facs_77_r2l22 nairement par les foires, agé d'en
+#facs_77_r2l23 viron 24 à 25 ans.
+#facs_77_r3l1 174.
+#facs_77_r3l2 La femme, dont il ne sçait le Nom, qui est
+#facs_77_r3l3 de petite taille, assez grosse, visage rouge
+#facs_77_r3l4 empli de rousses, les cheveux rousse les
+#facs_77_r3l5 vend ordinairement lesdes. Marchan
+#facs_77_r3l6 a dites dans une Corbeille qu'elle porte
+#facs_77_r3l7 devant soy, ageé d'environ 24. à 25. ans
+#facs_77_r3l8 le pere de la reine demeurant à y venir
+#facs_77_r3l9 un, duquel il ne scait le Nom, portant
+#facs_77_r3l10 barbe grise cheveux noirs abbattus
+#facs_77_r3l11 partie gris, taille medioire, habit Brun,
+#facs_77_r3l12 auquel ils remettent leurs marchands
+#facs_77_r3l13 dises et autres choses qu'ils atrapent
+#facs_77_r3l14 une autre fille soeur de la cy dessus
+#facs_77_r3l15 qui est sa ladette, ayant des Cheveux
+#facs_77_r3l16 et des Rousses comme la cy dessus, mais
+#facs_77_r3l17 le Visage et la taille mince
+#facs_77_r3l18 Le dt. Barbier à ouÿ dire qu'il a aussi
+#facs_77_r3l19 un Nome Anthoine Martin, genois
+#facs_77_r3l20 qui le nome aussi Titon, est à l'honon
+#facs_77_r3l21 ou il a la feme et des Enfants, Il se
+#facs_77_r3l22 nome dulreau, sa feme tient Bouthigu
+#facs_77_r3l23 aud l'honon, lequel est accusé d'avoir
+#facs_78_r2l1 Souvent attaqué les loches et dite
+#facs_78_r2l2 gences de France; led: detenu ayant
+#facs_78_r2l3 entendu cire la liste de ces voleurs
+#facs_78_r2l4 de lettres, dans laquelle ledt. Martin
+#facs_78_r2l5 etoit nomé; cela par Monsieur
+#facs_78_r2l6 Durand grand Prevot a Grenoble
+#facs_78_r2l7 Translation
+#facs_78_r2l8 Carl, so sich auch la fontaine nenet, samt
+#facs_78_r2l9 seinem Weib Nonongenank, verbach¬
+#facs_78_r2l10 fen vfitzen, Indienes, Turcher und
+#facs_78_r2l11 Creuzlin, die auch ringen von Rold¬
+#facs_78_r2l12 Schmid Arbeith, der Mann hat ein
+#facs_78_r2l13 Sebelhieb an der lieben seiten am
+#facs_78_r2l14 Bihne, ist wenigstens fünf Schue
+#facs_78_r2l15 und drey fingen hoch, oben auf den
+#facs_78_r2l16 Haubt Kohl, bist mit Jenig haaren
+#facs_78_r2l17 so schied blad, tragt eine Haselnuß
+#facs_78_r2l18 farbe Casaque und Eisengrain veste,
+#facs_78_r2l19 ist mit einem großen braunen öffert
+#facs_78_r2l20 versehen, sonder stirnen ein
+#facs_78_r3l1 29
+#facs_78_r3l2 beistes Zeichen, ein beise Schnenggen, und den
+#facs_78_r3l3 hinteren linken fueß beiß hat.
+#facs_78_r3l4 Das Weis dan ist klein von Gestalt, braun
+#facs_78_r3l5 von Angesicht, hat eine Nacht an dem liebe
+#facs_78_r3l6 haben, tragt einen braunlechten Nachtrob¬
+#facs_78_r3l7 mit deisen Strichen, dan Sie aber zu pferdt
+#facs_78_r3l8 ist, so hat sie einen blauen Reitrob an,
+#facs_78_r3l9 Diese zwey ehersohnen sollen Ihren Bey¬
+#facs_78_r3l10 nach Befort genommen haben; der Lafonkian¬
+#facs_78_r3l11 ne nimt auch den Nahmen Pierre an sich.
+#facs_78_r3l12 ist ein Hurgunder Avalton gebührtig.
+#facs_78_r3l13 Ein anderer auch Carl genant, von allen,
+#facs_78_r3l14 ist bey sich Commissaire grenier Fol. alßburg
+#facs_78_r3l15 in diensten gestanden, dieser Carl so von
+#facs_78_r3l16 middelmäßiger statur. Zimlich dit, mitt
+#facs_78_r3l17 einem runden und rohten angesicht, graden
+#facs_78_r3l18 und etwas blonden haaren, hat ein kleinen
+#facs_78_r3l19 Barth, Zimlich große Nahen und großen
+#facs_78_r3l20 Hein, eine braune rohtgefückerte Caraque
+#facs_78_r3l21 tragend, ist deß hienachstehenden Pierre
+#facs_78_r3l22 Bagers decryt
+#facs_79_r2l1 Pierre Bager auß Dauphine, afin
+#facs_79_r2l2 gefehr 60. Jahr alt, nenet sich auf
+#facs_79_r2l3 dufock, den der Angeber gegenbertig
+#facs_79_r2l4 mit einer gebüsen La francs beis¬
+#facs_79_r2l5 und wird zu seyn glaubt, dieser
+#facs_79_r2l6 barn neme offt einen anderen Nah¬
+#facs_79_r2l7 wie an sich, und seye ein qualisi¬
+#facs_79_r2l8 cierend dieb, ohngefeht 5½ Schuehoch,
+#facs_79_r2l9 und Schwärzen Brausen haaren, deren
+#facs_79_r2l10 der gnädige Theil grau, einen hieg¬
+#facs_79_r2l11 fanger mit einem flachen Messin
+#facs_79_r2l12 gen rüpf und kupfernen griff
+#facs_79_r2l13 und mehr als drey oder vier pisto
+#facs_79_r2l14 der auf sich tragend, hat ein große
+#facs_79_r2l15 Näsen, und dibe große Lippen, ein
+#facs_79_r2l16 langes schmahles und Schbartz gel,
+#facs_79_r2l17 des angesicht, die augen tief im tost,
+#facs_79_r2l18 eine dunkelgrauen Schied schbarzen
+#facs_79_r2l19 Rok, Haselmißfarbes Camisot, samt
+#facs_79_r2l20 einem leiblin oder Jammist von
+#facs_79_r2l21 gleicher farb, oben an den füesten
+#facs_79_r3l1 151
+#facs_79_r3l2 hat Er große knotten, derentwegen Er selbe
+#facs_79_r3l3 bohl Außbehrts tragt, und wenn scheinen
+#facs_79_r3l4 erstelt sich alß ein Sal Uhren und Jubelen
+#facs_79_r3l5 Brämer
+#facs_79_r3l6 Jean Martin sich sonst auch Durand non¬
+#facs_79_r3l7 nend,bare, da Er Ihn vor Abau 10 Jahren
+#facs_79_r3l8 gekent somnit gar langer, aber diber
+#facs_79_r3l9 gestalt, mit einem großen Vohl angefleisch¬
+#facs_79_r3l10 ten angesicht, schwarzen graden haaren, kann
+#facs_79_r3l11 bey 54. Jahren alt seyn, daß La Fontaine
+#facs_79_r3l12 Teib hat Ihme dem gefangen sizenden
+#facs_79_r3l13 Vor ohngefehr Zwey Monate gesagt, er
+#facs_79_r3l14 ziehe noch in der Schleitz herum und seye
+#facs_79_r3l15 verbichenen Winte Jährend dem Jahr
+#facs_79_r3l16 Marbt zu Bern gebesen, Sebel mit
+#facs_79_r3l17 gelt zu stählen, da Er und Sie dan bald
+#facs_79_r3l18 2
+#facs_79_r3l19 Jaren erhacht worden.
+#facs_79_r3l20 Ein anderes s. Amant genant, der hiebei
+#facs_79_r3l21 in der garnison zu Reuß Soldat ge¬
+#facs_79_r3l22 Jasen, und vor zweyen Jahren quittiers
+#facs_79_r3l23 gibt vor, Er seye daselbst gebohren, und
+#facs_80_r2l1 eines franzosen Sohn auß dem Vivaret
+#facs_80_r2l2 und unsend von welchem ohrt, der zu
+#facs_80_r2l3 Lausane gehenrahtet habe, gemelte
+#facs_80_r2l4 l. Amand seyn bey fünf Königs
+#facs_80_r2l5 Schich und drey Zoll lang, habe
+#facs_80_r2l6 Schbarze zu Kichlange Haar, unter
+#facs_80_r2l7 er ein einig gelobet, ein volles ge¬
+#facs_80_r2l8 sundfärbiges angesicht, einen
+#facs_80_r2l9 Schwarzen deren Barth, zimlich Johl.
+#facs_80_r2l10 gestaltete Nasen, Schbarke Augsbraun,
+#facs_80_r2l11 bey 40. Jahren alt, seiner Profession
+#facs_80_r2l12 ein Schnewer, mache aber allerhand
+#facs_80_r2l13 Instrument die Erde zu arbeiter
+#facs_80_r2l14 und tragt ein grau tuechenes Über¬
+#facs_80_r2l15 bleid, eine veste ton Haselnuß
+#facs_80_r2l16 tarbem Zeüg, und lederne hohen
+#facs_80_r2l17 sein Weis ist von Mittelmäßi¬
+#facs_80_r2l18 ger vatur, zimlich dik hat ein
+#facs_80_r2l19 großes Rohtes vollständiges ange¬
+#facs_80_r2l20 Nicht, das anfangt ruizlen zu gebinnen
+#facs_80_r2l21 fragt ein traunes Casagli und
+#facs_80_r3l1 153
+#facs_80_r3l2 Jupon oder Onderrok, ein gehäub mit
+#facs_80_r3l3 Stitzen, und mit einem blauben
+#facs_80_r3l4 Rieband gebunden.
+#facs_80_r3l5 tider ein anderer lalour genant, von
+#facs_80_r3l6 Remity auß Savoy ein gurgunde¬
+#facs_80_r3l7 von gebührt, so ein Hauß in gedeütem
+#facs_80_r3l8 Remmilly gegen der Kirchen über erbauet,
+#facs_80_r3l9 ist von Wickelmäßiger statut, tragt
+#facs_80_r3l10 eine kurze bestenen farbe perruque hat
+#facs_80_r3l11 ein kleines Schwartz gelbes angesicht, eine
+#facs_80_r3l12 kleine Nahm, große, nit alzudieff gesentte
+#facs_80_r3l13 Augen, mit Schbarben augsbrauen bey 56
+#facs_80_r3l14 Jahr Alt, er ziehet gemeiniglich auf den
+#facs_80_r3l15 Jahr Markten stählens Bege, herum¬
+#facs_80_r3l16 Noch ein anderer Bartholomy genant,
+#facs_80_r3l17 auß Mümpelgard seyn soll, ist fünf
+#facs_80_r3l18 Schuh und 4 Zoll hoch, zimlich rahn ko¬
+#facs_80_r3l19 gestalt, te der feißt noch mager von An¬
+#facs_80_r3l20 gesicht, hat keine Zähn im oberen Vifel,
+#facs_80_r3l21 eine flache eingetrübte Nasen, großen
+#facs_80_r3l22 Augen, mit rohtlichten augsbrauen,
+#facs_81_r1l1 führt meistens ein kleines Aschfar¬
+#facs_81_r1l2 tes Stücklg, mit einem mutzen
+#facs_81_r1l3 stihl mit sich, diß offerdt ist mit
+#facs_81_r1l4 zweyen Kisten beladen, darinen quinqua¬
+#facs_81_r1l5 Merey baaren und Pfitzen, welche Er
+#facs_81_r1l6 auf den jahrmärtten Herumführt,
+#facs_81_r1l7 hat ohngefehr 24. oder 25. Jahr.
+#facs_81_r1l8 sein Weib, deßen nahmen Ihm ohnbe¬
+#facs_81_r1l9 kant, im lang, aber zimlich diter
+#facs_81_r1l10 gestalt, roht von Angesicht, mit laub¬
+#facs_81_r1l11 fleben und Schied rohten haaren
+#facs_81_r1l12 verkauff gemeiniglich obangeregte
+#facs_81_r1l13 baare, in einem Korb, so sie vor sich
+#facs_81_r1l14 tragt, ist bey 24. Jahren alt.
+#facs_81_r1l15 Deß Weibs Vatter, deßen nahmen Ihm
+#facs_81_r1l16 auch nit in Büßen, zu Pferten bohn¬
+#facs_81_r1l17 hafft, hat einen granen Bart, gradeschbei¬
+#facs_81_r1l18 3. und guten theils graue Haar, von
+#facs_81_r1l19 mittelmäßiger Statur, und braun¬
+#facs_81_r2l1 155
+#facs_81_r2l2 gebleidet, diesem übergeben Sie Ihre Baare
+#facs_81_r2l3 und andere sachen so Sie erhaschen.
+#facs_81_r2l4 eine andere Tochter, der vorgehenderen
+#facs_81_r2l5 jüngere Schwester, hat gleiche Haar und
+#facs_81_r2l6 auch laubfleben aber ein Schmahles ange¬
+#facs_81_r2l7 ohne
+#facs_81_r2l8 sicht, und runde gestalt.
+#facs_81_r2l9 Erstgemelter Barbier hat höre sagen, es
+#facs_81_r2l10 sey auch noch ein gebüster Antwine Merr¬
+#facs_81_r2l11 tin, ein Genueser, der sich auch Titon neu¬
+#facs_81_r2l12 net, zu Monon aber da Er Seis und
+#facs_81_r2l13 kind hat, und die Erste einen bramladen
+#facs_81_r2l14 haltet den Nahmen Diuran tragt; dieser
+#facs_81_r2l15 ist beklagt, er habe offtwahls die gemeine
+#facs_81_r2l16 Landsutsche und diligences von Frank¬
+#facs_81_r2l17 reich angegriffen, und hat dieser gefangne
+#facs_81_r2l18 von H; Durand, grand Crevost zu gre=
+#facs_81_r2l19 noble dir liste der Landcutsche dieben
+#facs_81_r2l20 ablesen hören, darin besagter Martin
+#facs_81_r2l21 vernamset ist.
+#facs_82_r2l1 An alle T. und W. Amtleut.
+#facs_82_r2l2 9. Stadt, Freybeibel und
+#facs_82_r2l3 Aman, itz Baden
+#facs_82_r2l4 und frey Ämbter wie
+#facs_82_r2l5 König zedel an Hre¬
+#facs_82_r2l6 Auff
+#facs_82_r2l7 Arostbeibel.
+#facs_82_r2l8 Balthasar Schaller den
+#facs_82_r2l9 Thod schläger zu achten
+#facs_82_r2l10 Stadthalter und Raht
+#facs_82_r2l11 von loblichen Stand Solothurn ist die
+#facs_82_r2l12 Collats
+#facs_82_r2l13 Nachricht ertheilt worden, daß viel¬
+#facs_82_r2l14 Rthasar Schaller, Casfars sel. Sohn
+#facs_82_r2l15 Auß dem Ambt Willisaub zu
+#facs_82_r2l16 Gächburg sich aufhalten, wegen
+#facs_82_r2l17 an Hanst Müller von Niderbige
+#facs_82_r2l18 Vorsetzlich verüebtem Todt Schlag
+#facs_82_r2l19 flüchtig Borden, mit freundt Eydt¬
+#facs_82_r2l20 gnösischem Ersuchen, unß belieben.
+#facs_82_r2l21 möchte, auf diesen loosen Verlauch
+#facs_82_r2l22 in unseren Landen achten zu laßen,
+#facs_82_r2l23 und denselben festzusezen; dahard
+#facs_82_r3l1 157
+#facs_82_r3l2 Wir dir seine Beschreibung zusenden und
+#facs_82_r3l3 befehlen wollen, hierzu die behörigen An¬
+#facs_82_r3l4 stalten zu verfüegen, darbey aber rücht¬
+#facs_82_r3l5 bahr zu machen, daß derjenige, so diesen
+#facs_82_r3l6 Gößbicht zur Handbringen und in sicher
+#facs_82_r3l7 heit liefferen wird, hierfür zu einer
+#facs_82_r3l8 Recompens ein hundert Gulden von
+#facs_82_r3l9 solothurn auß zu gewahrten haben soll:
+#facs_82_r3l10 Wann nun dieser leichtfertige Kerl zu
+#facs_82_r3l11 geführt werden wird, solst du denselben
+#facs_82_r3l12 gefänglich annehmen und daß verhaffter
+#facs_82_r3l13 unßberichten. Dat. d. 9ten 8bris 1730.
+#facs_82_r3l14 Signallement
+#facs_82_r3l15 Il est age d'environ 30 ans, d'une taille courte
+#facs_82_r3l16 et Mediocre, porte un habit de Drap brund
+#facs_82_r3l17 des Culottes Brunes et des foulliers à la modo
+#facs_82_r3l18 il a des cheveux longs et bruns, tirants sur
+#facs_82_r3l19 Le Noir, des petits yeux bruns, un Nez pointir
+#facs_82_r3l20 de me dioche grosseur, la voix basse, un chapeau,
+#facs_82_r3l21 troussé, des petites Jambes maigres, etant
+#facs_82_r3l22 un peu graté au visage.
+#facs_83_r3l1 An Allgesantzel hiesiger Hault¬
+#facs_83_r3l2 Stadt, Asan Caupen ratione Ver¬
+#facs_83_r3l3 Irenzg und Wühliberg: dene
+#facs_83_r3l4 Huchser wegen verdorff: wie nit
+#facs_83_r3l5 weniger von den Cantzlen zu Holligen
+#facs_83_r3l6 Hreinhärten, Mürz, Kirchenhaus
+#facs_83_r3l7 Stecklen, Könitz und
+#facs_83_r3l8 Dümplitz.
+#facs_83_r3l9 verbiehten daß Indenen vom Schnee
+#facs_83_r3l10 beschädigen täldern sich niemand
+#facs_83_r3l11 beholtze
+#facs_83_r3l12 Es ist bereuter maßen verbichene
+#facs_83_r3l13 Vonag eine solche ungemeine
+#facs_83_r3l14 Widerung eingefallen, daß dadurch
+#facs_83_r3l15 sehr viele Hänen beschädiget worden;
+#facs_83_r3l16 Wie nun solches auch die Oberbeitlichen
+#facs_83_r3l17 Waldungen namhafft betroffen, Müglich
+#facs_83_r3l18 aber besorgen, daß Mann in dehnen
+#facs_83_r3l19 gedanken stehen möchte, daß man
+#facs_83_r3l20 niglich sich dessen bedienen, mithin
+#facs_83_r4l1 159.
+#facs_83_r4l2 das Nidergefallene Ihme nach belieben¬
+#facs_83_r4l3 zu Nutzen machen, und davon beholtzen
+#facs_83_r4l4 können, Müghlen aber dahin bedacht, darin
+#facs_83_r4l5 ter eine angemessene Verordnung ze¬
+#facs_83_r4l6 thun; Alß habend hochgedacht Ihr g.
+#facs_83_r4l7 daßen manniglich hierdurch benachrichten
+#facs_83_r4l8 mithin bey zechen öffunden gueß /: dat von
+#facs_83_r4l9 ein Drittel dem Verleider heimdiene,
+#facs_83_r4l10 soll) verbohrnen Vollen, in denen Oberbeit
+#facs_83_r4l11 Waldungen, darunter auch der gütigen
+#facs_83_r4l12 und Habste Arnbald begriffen sich dergl.
+#facs_83_r4l13 beholzung zu müßigen, zu welchem End¬
+#facs_83_r4l14 solches hiemith öffentlich von Cantzlen ver¬
+#facs_83_r4l15 kündet wird. Act & 19ten 8bris 1780

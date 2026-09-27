@@ -1,0 +1,128 @@
+Law ID: BER.01.001.0750
+Name: Wegen des Vychs Fürkouff, Metzgeren böse Zalung, und Abschaffung der Stümpleren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_483
+# Matched: 117/117
+# High similarity (>=50%): 114
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_73_r6l15 An die Amptluth des Oberlandts
+#facs_73_r6l16 Annethals Fryereybell, vnd Amman, See¬
+#facs_73_r6l17 und Amptlichen, ob der Mürgen
+#facs_73_r6l18 wegen des Vychs fürkauff, Metzgeren,
+#facs_73_r6l19 böse Galumig, und abschaffung
+#facs_73_r6l20 der Sämpleren,
+#facs_73_r6l21 Es schät und Bürger, u. Alls wir vns
+#facs_73_r6l22 der nachwärenden, und einer höfften beschwarlichen
+#facs_73_r6l23 thure des Vychs erforschet, Ist vns vnderhanderein
+#facs_73_r6l24 fürkommen wie nit allein frömbde vnd vßere
+#facs_73_r6l25 anders auch vnserer vnderthanen selbs, nach dem
+#facs_73_r6l26 Wir das verbott vfgelebt, das große und kleine
+#facs_73_r6l27 wych, auch die schaf, mit sollchem schwal vfkaufft
+#facs_73_r6l28 und esem Land Triben, dass nun zumalen
+#facs_73_r6l29 der Mangel an Vych verhanden, Mußend
+#facs_73_r6l30 dabey wol sehen wie so gar mit ob rieheren us¬
+#facs_73_r6l31 gangnes Mandaten gehalten, und frembden,
+#facs_74_r1l1 Hiesige
+#facs_74_r1l2 Meinungen
+#facs_74_r4l1 Und Heinnghen zugelaßen wirt sey vnnd
+#facs_74_r4l2 rngeschucht Iren gwers und gulden mit dem
+#facs_74_r4l3 eijch getrieben, wider vnsere so seitere Exoll
+#facs_74_r4l4 Regell, und Ordnungen, dem gantzl Land
+#facs_74_r4l5 Zughaden und Kderben, dem alles endthuet¬
+#facs_74_r4l6 will wie man spricht die notwendige
+#facs_74_r4l7 narmig vor dem mul wegen genomen
+#facs_74_r4l8 rirt, niemand wirt darob nun nit pleidet
+#facs_74_r4l9 geschwggen gestrafft vnd abgehalten, vnd
+#facs_74_r4l10 hiermit auch das traeuerigellt endtschirten
+#facs_74_r4l11 da es dan nit wenig befrömbdet und
+#facs_74_r4l12 beduret, das by vth vnseren Ober: vnd vnder¬
+#facs_74_r4l13 Amptlichen mit ein beßeres flyß vnnd
+#facs_74_r4l14 yber, ob riser es mandaten zuhallten, und
+#facs_74_r4l15 Jacob zuwachen gespürt wirt, wöllen
+#facs_74_r4l16 deswegen dich, sambt Dijnen vnderampt¬
+#facs_74_r4l17 luthen, und geschwornen, wie gegen anderen
+#facs_74_r4l18 auch geschicht, für dis vnd allemal gantzes
+#facs_74_r4l19 ernstes, rinds gebietlich ermandt haben
+#facs_74_r4l20 alle vnsere biß dato vfgangene Mandate
+#facs_74_r4l21 Des Vychs vf: und fürkowffs halber, vnd wie
+#facs_74_r4l22 den hemmschen, vnd frembden derselb zuge¬
+#facs_74_r4l23 laßen oder nit, für ich zunemmen, vth
+#facs_74_r4l24 Darin beßer Zuerspieglen, und by vireres
+#facs_74_r4l25 geschwornen Eyden der maßen vfsechen Ze¬
+#facs_74_r4l26 haben, und zu verstellen, das darob mehr
+#facs_74_r4l27 dan bishero gehaltten, und wir nit versachet
+#facs_74_r4l28 che dirt, anderst zur sich zu thun, So denn
+#facs_74_r4l29 wan vns auch vil vnd dick clagt worden
+#facs_74_r4l30 das hiesige vnsere Metzges und Bürger vmb
+#facs_74_r4l31 bare bezalung merckt und vnd die Besprechung
+#facs_74_r4l32 aber söllches nit leitend, sonders die ander¬
+#facs_74_r4l33 thanen, und die Ihnen das Wych vertruiret
+#facs_74_r6l1 mit dem Rechten, und mit allander vßflucht
+#facs_74_r6l2 545
+#facs_74_r6l3 und renck ümbzuhin, und erfhalltung, alles
+#facs_74_r6l4 das die Landtluth Ir Wyg Ehe den Frambden
+#facs_74_r6l5 dan unseren Metzgeres gäbind, Erliche Redliche
+#facs_74_r6l6 Meister sölicher unrichtiger Zalerns endtgellten
+#facs_74_r6l7 müßend, vnd deßwegen wenig zukauffen
+#facs_74_r6l8 findend daher dan auch Thure vnd clammer¬
+#facs_74_r6l9 nächst vnd ernolget, haben wir hiemit
+#facs_74_r6l10 vnsere vorige Int 1619 Jahr vfgetundte
+#facs_74_r6l11 ursehung und erlärung erreichen wollen,
+#facs_74_r6l12 nämlich das wan ruereschsetzger vmb das
+#facs_74_r6l13 sych vf Tag vnd Zill bare bezalung versprechen.
+#facs_74_r6l14 aber das nit hallten, noch leisten werden m
+#facs_74_r6l15 das rf erclagen, und hilff begären, dieselben In¬
+#facs_74_r6l16 gefahngenschafft gelegt, und mit vSgelaßen
+#facs_74_r6l17 werden sollendt, sy habind dan zallt, und
+#facs_74_r6l18 allso mit gestactes verordnet, das unsere ander
+#facs_74_r6l19 thanen mit dem Rechten und ersten vmbtriben
+#facs_74_r6l20 e
+#facs_74_r6l21 gefangen.
+#facs_74_r6l22 werden sollindt, das wirst nun von Cantzlen
+#facs_74_r6l23 der Meyger
+#facs_74_r6l24 verkünden lassen, damit es menigklich offenbar
+#facs_74_r6l25 werde, wo auch In dyuer verwalltung der¬
+#facs_74_r6l26 clychen rurichtige Metzger wärendt, gegen
+#facs_74_r6l27 Dreis wirst auch ein gleiches Bruchen vnd den
+#facs_74_r6l28 Vnderthansen zur bezilling helffen, Es hat
+#facs_74_r6l29 Die Zytt und erfharung bißhero auch an tag geben
+#facs_74_r6l30 rud bezeiget, das die xyz türung des Wachs
+#facs_74_r6l31 vnd auch deß fleisches, von eile der Stumpleren
+#facs_74_r6l32 Stümpler
+#facs_74_r6l33 vnd das bald in jedem dorff, und wurkell
+#facs_74_r6l34 Meyger
+#facs_74_r6l35 Fleischschalen gestattet, und gehalten worden.
+#facs_74_r6l36 und, und Eÿch vie Landtlich Meister, und
+#facs_74_r6l37 -
+#facs_74_r6l38 Knecht, Schnyder, und Schinnacher, des
+#facs_74_r6l39 nietzgen angenommen, vnd einer demanders
+#facs_74_r6l40 vorgeloffen, und alles vertwert etc.
+#facs_74_r6l41 # citer unseren Vnderthanen wider derglischen böse Zales
+#facs_74_r6l42 die Oberkheitliche hilff und fur sechung erzeigen gediat,
+#facs_75_r3l1 Wollendt deswegen, sollichen Stumpelen, gewerb
+#facs_75_r3l2 und gulden by höchsten vnser straff verbotten, und
+#facs_75_r3l3 Dir hiemit vfgebunden haben ob voriger Unse¬
+#facs_75_r3l4 Desdiregen Anno 1618 des 13 Augusti
+#facs_75_r3l5 rsgängnen Ordnung styf und mit Ernt¬
+#facs_75_r3l6 zustellten, alle Stumpflehr, vnd denen selbige
+#facs_75_r3l7 vnser Ordnung des Metzgen mit zulasch¬
+#facs_75_r3l8 abzuschaffen, und hinder sich zuhallten, vnd
+#facs_75_r3l9 Auch niemand zugestatten vf gerinn
+#facs_75_r3l10 vnd girerb zeuietzgen denen das zu¬
+#facs_75_r3l11 gelassen, wol yn zuscherpfen, sich der
+#facs_75_r3l12 hiesigen Metzger Ordnung zuhalten,
+#facs_75_r3l13 du sollt und wirst auch den Purenknecht
+#facs_75_r3l14 rud seinen, die wie uns fürkompt,
+#facs_75_r3l15 mit dem Wych, sonderlich mit den Kelberen
+#facs_75_r3l16 und schaffen, Tryben sollendt, vnd hiemit
+#facs_75_r3l17 die predigen, und das gebätter sinnen
+#facs_75_r3l18 sollachen Eürkauff nit zulasen, und
+#facs_75_r3l19 Die deselben sich annemen werden
+#facs_75_r3l20 vns verleyden, damit wir sy darumb
+#facs_75_r3l21 straffen kommen, wie wir uns zu
+#facs_75_r3l22 Dynem flys versechen wöllendt, Datum
+#facs_75_r3l23 6 Aprilis 1624

@@ -1,0 +1,192 @@
+Law nr: BER.01.001.4549
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 180/180
+# High similarity (>=80%): 175
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_104_r5l15 alle deutsche und weitsche Schaffnern wo Ober
+#facs_229_r3l4 beitlich Getreid ligt
+#facs_104_r5l17 Verkauf der Zweiten helfte des Oberbeitlichen
+#facs_104_r5l18 Betreids.
+#facs_104_r5l19 Schultheiß Rath und Surger u Auf den Und
+#facs_104_r5l20 widermahlen von seiten Ansterer Fürgel
+#facs_104_r5l21 Miträthen der Herren St. und W. Sebelmeister
+#facs_83_r3l6 en
+#facs_7_r5l1 20
+#facs_107_r6l1 207
+#facs_67_r4l11 und Venneren, über die Heurigen
+#facs_105_r2l2 des auf Marting 1783 eingegangenen Obrig
+#facs_105_r2l3 keitl. Betreids beschehenen Vortrags, haben
+#facs_105_r2l4 Wir erkennet, daß von nun an die noch
+#facs_105_r2l5 übrig bleibende helfte von allem Roggen
+#facs_105_r2l6 und Mischelborn, denne aller densel und
+#facs_105_r2l7 Weizen, so nach Abzug der Ordinari und
+#facs_53_r8l10 e
+#facs_105_r2l9 Quasi Ordinari Ausgaben von sothan
+#facs_105_r2l10 Obrigkeitlichen Betren vorschießen
+#facs_105_r2l11 wird, versilberet werden solle; Alles
+#facs_105_r2l12 jedennoch in dem Verstand, daß in an
+#facs_105_r2l13 rechn dieser verbauffenden Früchte
+#facs_105_r2l14 die Verzeigung der Schüttenen von seiten
+#facs_105_r2l15 Tit: /:T: und W. Hhl. S. u. v. erwartet
+#facs_105_r2l16 habey dann die gewönlichen Praecautions,
+#facs_105_r2l17 genommen, mithin das versilberende
+#facs_105_r2l18 Betreid nur nach uns nach und zu kleinen
+#facs_105_r2l19 Kauffen verkauft, zumal an denen
+#facs_105_r2l20 Orten da Mariten sich befinden, vor¬
+#facs_105_r2l21 züglich zu derselben Speisung verlernet
+#facs_105_r2l22 und von denen angewiesenen Schüt¬
+#facs_105_r2l23 tenen vor allem aus das mindest
+#facs_105_r2l24 behaltliche Betreid abgestoßen werden
+#facs_105_r2l25 Welchem nach Ihr Euch zu verhalten
+#facs_171_r3l15 und über das erlösende Uns Rechnung
+#facs_105_r2l27 zu tragen wißen werdet. Datl. den
+#facs_105_r2l28 28 May 1784
+#facs_83_r3l6 en
+#facs_100_r2l1 soll.
+#facs_108_r2l2 0
+#facs_115_r4l1 223.
+#facs_105_r4l2 Lausanne Accad:
+#facs_105_r4l3 Vorschlag der Subjecten zu dem zu Lausanne
+#facs_105_r4l4 verledigten Catheder der Griechischen Sprache
+#facs_105_r4l5 und der Sittenlehre
+#facs_57_r3l12 Wir haben
+#facs_36_r3l7 Schultheiß und Rath
+#facs_105_r4l8 aus Eünrem Schreiben vom 25ten
+#facs_105_r4l9 May lezthin ersehen, daß ihr zu
+#facs_105_r4l10 dem zu Lausanne verledigten Catheden
+#facs_105_r4l11 der Griechischen Sprache und der Sitten
+#facs_105_r4l12 lehre, nach stehende Subjecta vorgeschla¬
+#facs_105_r4l13 gen, Als
+#facs_105_r4l14 1. s. François Baillif, Ministre et Regent
+#facs_105_r4l15 de la seconde classe
+#facs_105_r4l16 2. J. Henry Kingard, Pfarrer zu Asseus.
+#facs_105_r4l17 3 Sam. Rod. Francois, Professor honorarius
+#facs_105_r4l18 und gewesener Vicarius für das Grie
+#facs_105_r4l19 chische Catheder
+#facs_105_r4l20 4. Charles Morin, Ministre, und Principal
+#facs_105_r4l21 du College de Vevay
+#facs_105_r4l22 5. Sigism: Brun Cand
+#facs_105_r4l23 Welcher Vorschlag sowohl von uns, als Un¬
+#facs_105_r4l24 verein wohlverordneten Schulrath
+#facs_105_r4l25 mit nachstehenden Subjectis vermehrt
+#facs_105_r4l26 worden.
+#facs_105_r4l27 1. J. L. Bridel, Stud. Beologia, des Pfar¬
+#facs_105_r4l28 urs zu Crassier Sohn
+#facs_105_r4l29 2. Provisor vägtlg.
+#facs_4_r4l1 3.
+#facs_104_r1l1 200
+#facs_106_r2l1 3 Gotl. Risold Cand.
+#facs_106_r2l2 4 Rudolf Schärer Cand
+#facs_106_r2l3 5. Abrah. Moser Cand.
+#facs_106_r2l4 6. J. B. fisch Stud. Theol.
+#facs_106_r2l5 7. Pfarrer Feer zu Rydau
+#facs_106_r2l6 8. Joh. Alb. Rengger Stud. Theol.
+#facs_106_r2l7 9. Jak. Dav. Kocher Stud. Theol.
+#facs_106_r2l8 10 Sigm. Langhans Cand
+#facs_106_r2l9 11. Provisor Kyburg.
+#facs_106_r2l10 12. Provisor Stapfer
+#facs_106_r2l11 13 Ludle Morlot Cand
+#facs_106_r2l12 14 Sam. Zehender Cand.
+#facs_106_r2l13 hier von nun haben Wie Euch die erfordere
+#facs_106_r2l14 Nachricht ertheilen wollen, mit dem
+#facs_106_r2l15 Auftrag, dem Wohlgebornen Unferen¬
+#facs_106_r2l16 fürgeC. Mitrath Herrn alt 3 2. von
+#facs_106_r2l17 Warten loye als Praesidenten des
+#facs_106_r2l18 Schulraths, in Zeit von 14 Tagen den 6
+#facs_106_r2l19 nicht einzusenden, welche von denenjenigen
+#facs_106_r2l20 subjectis so von Euch vorgeschlagen wor=
+#facs_106_r2l21 fen, gesinnet seyen, ihre Proben abzu=
+#facs_106_r2l22 legen, damit sodann wegen der Bestimmung
+#facs_106_r2l23 der Zeit zu Ablegung der öffentlichen
+#facs_106_r2l24 Proben, das fernere vorgekehrt werden
+#facs_106_r2l25 könne. Dat. 5ten Juny 1784.
+#facs_106_r2l26 N 2a denenjenigen Herren welche von
+#facs_136_r2l13 meh,
+#facs_128_r2l20 solle.
+#facs_37_r1l1 66
+#facs_4_r13l2 7
+#facs_108_r1l1 208
+#facs_106_r5l2 Muhly Hh. des Schulraths in die Wahl ge¬
+#facs_106_r5l3 schlagen worden, mit inn Begrif H.
+#facs_106_r5l4 Provisor Vögtlj und j. L. Bridel davon
+#facs_106_r5l5 Nachricht ertheilen.
+#facs_106_r5l6 Jedel an Mehloffl. die Schulrath, Sie deßen
+#facs_106_r5l7 über ihren Vortrag berichten
+#facs_21_region_1633454506260_2871l1 Un
+#facs_106_r5l9 fie von Mühlohhl. den Schulrathen zu dem
+#facs_106_r5l10 verledigten Catheder zu Lausanne vor
+#facs_106_r5l11 geschlagene Subjecta, Arm an H. Pro¬
+#facs_106_r5l12 visor Rögth und H. Jean Louis Bridel,
+#facs_106_r5l13 fes H. Pfarrer zu Crassier Sohn. Sep
+#facs_106_r5l14 amens der Canzley
+#facs_106_r5l15 Zu dem zu Lausanne verledigten Calze,
+#facs_106_r5l16 der der Griechischen Sprache und der Sit¬
+#facs_106_r5l17 stenlehre, haben Mehloffl. die Schulrath Ein¬
+#facs_106_r5l18 vorgeschlagen, desen Ihr berichtet wer=
+#facs_106_r5l19 bet, mit dem Befehl, Michlohhl. den Schul¬
+#facs_106_r5l20 rathen in Zeit von 14. Tagen, den Bericht
+#facs_106_r5l21 einzusenden, ob Ihr gesinnet seyt, Eüre
+#facs_106_r5l22 Proben abzulegen, damit sodann we¬
+#facs_106_r5l23 gender Bestimmung der Zeit zu Er¬
+#facs_106_r5l24 stattung der öffentlichen Proben, das
+#facs_106_r5l25 fernere vorgekehrt werden könne. Actl.
+#facs_106_r5l26 5t Juny 1784
+#facs_65_r3l5 Canzley Bern.
+#facs_6_region_1627936574015_66l1 6
+#facs_157_r4l1 oll.
+#facs_196_r2l3 o
+#facs_23_region_1633454616028_2913l1 An
+#facs_107_r3l2 die beiden Ämter Petterlingen und Wif¬
+#facs_107_r3l3 lispurg.
+#facs_107_r3l4 Lobl. Stand Fryburg den Pas zu Trans¬
+#facs_107_r3l5 porzierung des zu Montet Amts Stufis
+#facs_107_r3l6 ein carcerierten Pellet gestattet
+#facs_107_r3l7 Schultheiß und Rath & von Lobl. Stand sey¬
+#facs_107_r3l8 burg ist an Uns das Ansuchen geschehen,
+#facs_107_r3l9 denen verordneten Führeren, zu Trans¬
+#facs_107_r3l10 portierung des von gedachtem Stand aus
+#facs_107_r3l11 in dortiges Schallenwerk verfällten, zu
+#facs_107_r3l12 Montel im Amt Stäfis ein carcerierten
+#facs_107_r3l13 Criminalen Jean, Louis Pellet, nicht
+#facs_107_r3l14 allein den sicheren Paß durch hiesige Lande
+#facs_107_r3l15 zu gestatten, sondern auf erforderen
+#facs_107_r3l16 auch alle mögliche Hilfe und Reystain
+#facs_107_r3l17 zukommen zu lassen
+#facs_107_r3l18 da Wir nun gedachtem Lobl. Stand¬
+#facs_107_r3l19 hierin ohneingestelt entstrachen; So
+#facs_107_r3l20 befehlen Wir Euch infolge deßen, die
+#facs_107_r3l21 Anstalten vorzukehren, daß nicht allein
+#facs_107_r3l22 bemelten Führeren sicheren und freyen
+#facs_107_r3l23 Pas gestattet, sondern auch denselben
+#facs_107_r3l24 erforderenden falls alle nöthige Hand
+#facs_107_r3l25 bietung geleistet werde. Datum
+#facs_107_r3l26 11th Juny 1784
+#facs_14_region_1633454353484_2800l1 de
+#facs_108_r2l2 0
+#facs_100_r2l1 soll.
+#facs_7_r5l1 20
+#facs_23_region_1633454616028_2913l1 An
+#facs_107_r6l3 die Oberländische Herren Amtlent¬
+#facs_107_r6l4 Execution der Ordnung t 6. Juny 1782.
+#facs_107_r6l5 in betref der Oberländischen Ahren
+#facs_107_r6l6 samleren
+#facs_107_r6l7 Schultheiß und Rath 5 da Uns die An
+#facs_107_r6l8 zeige beschehen, daß ungeacht Unserer
+#facs_107_r6l9 Verordnung vom 6ten Juny 1782. dennoch
+#facs_107_r6l10 bereits von den Oberländischen Ähren fand
+#facs_107_r6l11 loren in hier sich einfinden, diese Leute
+#facs_107_r6l12 fann dem Publico zur größten Sischwärke
+#facs_107_r6l13 gereichen, als befehlen Wir Euch diese Ver¬
+#facs_107_r6l14 ordnung frischerdings, und nachher alljärlin
+#facs_107_r6l15 zu mänglichs Nachrichts und Verhalt ver¬
+#facs_107_r6l16 bunden und ganz ernstgemeint in Execu¬
+#facs_107_r6l17 lion stehen zu lassen. Datl. den 9ten
+#facs_107_r6l18 Juny 1784

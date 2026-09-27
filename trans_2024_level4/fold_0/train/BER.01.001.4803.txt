@@ -1,0 +1,152 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 145/145
+# High similarity (>=80%): 142
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_142_r4l15 Anordnung verschiedener Policey¬
+#facs_142_r4l16 Anstalten zu Fortschaffung und Ab¬
+#facs_142_r4l17 haltung des verdächtigen unnüzen
+#facs_142_r4l18 Besindels, aus der Waadt.
+#facs_142_r4l19 An alle Welschen Herren Amtleute.
+#facs_259_r2l4 Schultheis und Rath! etc.
+#facs_142_r4l21 Die von dem Magistrat zu Lausanne Uns
+#facs_142_r4l22 eingekommene Anzeige einer in der Waadt
+#facs_142_r4l23 sich
+#facs_92_r3l1 173.
+#facs_142_r5l2 sich befinden sollenden zahlreichen Diebs- und
+#facs_142_r5l3 Rauberbande und der von ihr verübenden
+#facs_142_r5l4 Diebstähle und Einbrüche, verbunden mit dem
+#facs_142_r5l5 Bericht, daß die Waadt mit einer Menge
+#facs_142_r5l6 verdächtigen, ohne Paß und gute Papiere
+#facs_142_r5l7 herumschweifenden Befindels, Hausirer
+#facs_142_r5l8 und Kräzenträger, vorgeblicher Krämer
+#facs_142_r5l9 ohne Waaren, Musikanten u angefüllt sey.
+#facs_142_r5l10 haben Unsere Landesväterliche Aufmerbsamkeit
+#facs_142_r5l11 um so mehr auf sich gezogen, da das Wohl
+#facs_142_r5l12 und die Sicherheit der Person und des Eigen¬
+#facs_142_r5l13 thums Unserer Lieben und getreuen angehörigen
+#facs_142_r5l14 stets Unsere erste Sorge seyn wird
+#facs_142_r5l15 Aus den dießorts eingezogenen Berichten
+#facs_142_r5l16 nen haben Wir zwar einerseits mit Vergnügen
+#facs_142_r5l17 ersehen, daß die Menge der in der Waadt
+#facs_142_r5l18 befindlichen Landstreicher und Strolchen nicht
+#facs_142_r5l19 beträchtlich genug ist, um Uns noch gegen war
+#facs_142_r5l20 tig zu strengern Masregeln zu bewegen
+#facs_142_r5l21 Anderseits aber mit Unlieb bemerkt, daß
+#facs_142_r5l22 zu wider den Hochobrigkeitlichen Verordnung
+#facs_142_r5l23 von 1786. eine große Anzahl fremder Kräzen
+#facs_142_r5l24 Fräger und Colporteurs in der Waadt sich
+#facs_142_r5l25 befindet, und Uns überzeugen müssen, daß
+#facs_142_r5l26 dem besorgenden Übel ganz oder größentheils
+#facs_142_r5l27 gesteurt wäre, wenn der Eifer in Hanshabung
+#facs_143_r1l1 274
+#facs_143_r2l1 und Befolung vormaliger disortiger
+#facs_117_r4l12 Verordnungen der Pferde halb, erlaube
+#facs_143_r2l3 gegeben sind, getreu entspräche.
+#facs_143_r2l4 Wir haben aber dennoch gutgefunden
+#facs_143_r2l5 zu desto gewisserer Abhaltung alles un¬
+#facs_143_r2l6 nüzen Befindels von Unsern Brenzen
+#facs_143_r2l7 und Fortschaffung des wirklich darin befind¬
+#facs_143_r2l8 lichen, folgende Verfügungen anzuordnen
+#facs_143_r2l9 auf deren Ausübung ihr Eüere ganze Sorgfals
+#facs_143_r2l10 wenden werdet.
+#facs_143_r2l11 1°) War die Aufsuchung Fortschaffung
+#facs_143_r2l12 und Bestraffung des ohne Paß gefundenen
+#facs_143_r2l13 Bestindels betrift, so werdet ihr die in
+#facs_143_r2l14 den ältern Verordnungen vom 15ten Juni
+#facs_143_r2l15 1707 -12ten Augl. 1717 mit Unterlaßung
+#facs_143_r2l16 des 1ten Artivels die Betteljags ansehen,
+#facs_143_r2l17 vom 9ten July 1725 - 30th Juny 1727. der
+#facs_143_r2l18 5te 6. und 7te Artikel; bereits enthal¬
+#facs_143_r2l19 tenen Vorschriften, genau befolgen
+#facs_143_r2l20 2°) Auf den Grenzpäßen soll von den
+#facs_143_r2l21 Inspectoren und Wachen auf alle Eintret¬
+#facs_143_r2l22 tenden genau geachtet: dieselben examinirt
+#facs_143_r2l23 und ihnen Pässe mit signalement und Marsch
+#facs_143_r2l24 ronte ertheilt werden, mit der Drohung
+#facs_143_r2l25 als Landstreicher behandelt zu werden, wenn
+#facs_32_r3l15 s
+#facs_143_r4l1 275
+#facs_146_r3l24 sie dieselbe nicht genau befolgen, angestehenen
+#facs_143_r4l3 Fremden, die mit guten Papieren an die Grenze
+#facs_143_r4l4 gekommen sind, mag ein besserer Pas ohne
+#facs_143_r4l5 Marschronte ertheilt werden,
+#facs_143_r4l6 3) Infolge dessen soll jeder Fremde als ein
+#facs_143_r4l7 Land Streicher angehalten, dem Amtsmann
+#facs_143_r4l8 zugeführt und bestraft werden, der ohne Paß
+#facs_143_r4l9 oder auch auf einem Abwege von der erhalten
+#facs_143_r4l10 Marschronte gefunden wird
+#facs_143_r4l11 4.) Jede Stadt und Dorfschaft soll, wie
+#facs_143_r4l12 bereits ao. 1717. anbefohlen war, je nach ihrer
+#facs_143_r4l13 Größe Bevölkerung oder Lage ein oder mehrer
+#facs_143_r4l14 Wächter, wohlbewaffnete starke und herzhafte
+#facs_143_r4l15 Männer, aus der Zahl derer die in den Muster
+#facs_143_r4l16 rödlen als tüchtig eingeschrieben sind, aufstellen
+#facs_143_r4l17 die dem Kehr nach den Dienst versehen, alles
+#facs_143_r4l18 verdächtige Gesindel anhalten und Euch zuführen,
+#facs_143_r4l19 Diese Wache soll zuerst Euch zur
+#facs_268_r2l1 coll
+#facs_143_r4l22 Prüfung ihrer Tüchtigkeit vorgestellt werden
+#facs_143_r4l23 Wir erwarten von der Treüe jedes Unserer
+#facs_143_r4l24 Unterthanen und der Sorge für sein eigenes
+#facs_143_r4l25 Beste, das er zu dieser unzlichen Anstalt
+#facs_143_r4l26 das seinige mit freuden beytragen wird.
+#facs_143_r4l27 5.) Die Beherbergung eines mit keinem Past
+#facs_143_r4l28 verstehenen Fremden soll männiglich verbotten
+#facs_143_r4l29 =seyn
+#facs_174_r1l1 rese
+#facs_11_r4l1 e
+#facs_141_r1l1 270.
+#facs_144_r2l1 seye, und jede Gemeind darauf mit be¬
+#facs_144_r2l2 sonderer Sorgfait wachen, indem sie für
+#facs_144_r2l3 alle schlechten Leute, die hinter ihr Unter
+#facs_144_r2l4 schlauf gefunden, verantwortlich seyn
+#facs_144_r2l5 als denn aber den Regreß auf den Fehlbare
+#facs_144_r2l6 Auch soll;
+#facs_144_r2l8 Particular genießen soll.
+#facs_144_r2l9 jeder Particular der einem solchen Land¬
+#facs_144_r2l10 streicher ihne fest Unterschlauf gegeben,
+#facs_144_r2l11 wenn dieser wegen eines begangenen Dieb¬
+#facs_144_r2l12 stahls angehalten wird, je nach den Um¬
+#facs_144_r2l13 ständen für den Betrag des Diebstahls gut¬
+#facs_144_r2l14 stehen,
+#facs_144_r2l15 6.) Den Wirthen soll durchaus und bey an
+#facs_144_r2l16 gemeßener Strafe untersagt seyn, irgend¬
+#facs_144_r2l17 einen fremden der keinen Pas hat, wer
+#facs_144_r2l18 es auch sey, länger als 24 Stunden bey der
+#facs_144_r2l19 im 5. Artikel des Mandats vom 30ten Juny
+#facs_144_r2l20 227 bestimmten Straffe, zu beherbergen,
+#facs_144_r2l21 sondern dieselben sollen einen solchen fremden
+#facs_144_r2l22 ohne Weiters anfüch weisen, das Ihr denn
+#facs_144_r2l23 je nach den Umständen mit demselben
+#facs_144_r2l24 erfahren werdet.
+#facs_144_r2l25 7.) Die Päse sollen einzig und allein
+#facs_144_r2l26 von Euch oder demjenigen den Ihr darzu be¬
+#facs_144_r2l27 stellen werdet, und zwar mit signalement
+#facs_82_r3l24 — und
+#facs_144_r4l1 277.
+#facs_144_r4l2 = und Marsch könte versehen, ertheilt werde
+#facs_144_r4l3 und alle Täse, die nicht von solchen Beamten
+#facs_144_r4l4 von den Grenzinspectoren und hiesiger
+#facs_144_r4l5 Kanzley oder von der Policeykammer aus¬
+#facs_144_r4l6 gefertiget sind, ungültig seyn
+#facs_144_r4l7 Wir versehen uns bestens zu Euch, Ihr
+#facs_144_r4l8 werdet mit allem Eifer und Nachdruk die Be¬
+#facs_144_r4l9 folgung dieser Unserer Landes väterlichen
+#facs_144_r4l10 Verfügungen, welche ihr zu dem Fnd gewohnter
+#facs_144_r4l11 naßen publicieren lassen werdet, handhaben
+#facs_144_r4l12 so wie Wir auch von Unsern lieben und getreüen
+#facs_144_r4l13 Angehörigen erwarten sind, sie werden nach
+#facs_144_r4l14 bestem Vermögen, zu ihrem eigenen Vortheil
+#facs_144_r4l15 und Sicherheit, das ihrige willig beytragen
+#facs_144_r4l16 an Lausanne besonders:
+#facs_1_r2l2 1.
+#facs_144_r4l18 Insonderheit werdet ihr den Magistrat
+#facs_144_r4l19 zu Lausanne zu Einführung beßeren, der Einwohnen
+#facs_144_r4l20 zahl angemeßene Policey Anstalten, und deren
+#facs_144_r4l21 nachdrüklicher Handhabung, kräftig ermahnen.
+#facs_144_r4l22 Datum den 17e. herumng 1796.
+#facs_98_r5l28 en

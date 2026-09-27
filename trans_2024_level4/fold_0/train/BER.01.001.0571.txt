@@ -1,0 +1,157 @@
+Law ID: BER.01.001.0571
+Name: Wegen der Wynckelwirtten und Schencken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 146/146
+# High similarity (>=50%): 110
+# Low similarity (<50%): 36
+# Not found: 0
+#
+#facs_131_r3l1 216
+#facs_131_r3l2 Ann alle Tütsche vnd weltsche Amptluth
+#facs_131_r3l3 fryweibell und Amman Sumiswaldt
+#facs_131_r3l4 vnd Schwartzenburg weg der wynckel
+#facs_131_r3l5 wirtten und schencke,
+#facs_131_r3l6 Statthalter etc. Wiewoll wir nun mehrmahlen
+#facs_131_r3l7 gantzes ernstes, durch gemeine Vßschryben befolch
+#facs_131_r3l8 vnd gevotten, das alle Unnothwendige wyn schevet
+#facs_131_r3l9 vnd winckelwirtten, alls die ein großer
+#facs_131_r3l10 Landtschaden sindt mit flijs abgesteltt
+#facs_131_r3l11 hinderhaltten, und allein den ordenlichen
+#facs_131_r3l12 vnd nothwendigen tauernen wirtten
+#facs_131_r3l13 das wynschenckl. vnd wirtten gestattett
+#facs_131_r3l14 werden holtte, Jedoch so wir vernemenden
+#facs_131_r3l15 das ann ettlichen ortten hierob, mit also
+#facs_131_r3l16 Flyßig gehaltten, dann das ann willen
+#facs_131_r3l17 ortten Unnothwendige Überflüßige
+#facs_131_r3l18 Landtschädliche winckelwirtten vnndt
+#facs_131_r3l19 wynschencken sijn sollendt, Und In
+#facs_131_r3l20 sorgl. stand, das Insonderheitt diser
+#facs_131_r3l21 Bytt, da von den Gnaden Gottes
+#facs_132_r1l1 257
+#facs_132_r1l2 zu wirtt, solliche vnd andere Ires gleichlichen
+#facs_132_r1l3 hin Und wird das werdindt
+#facs_132_r1l4 fürne man
+#facs_132_r1l5 wollen, wo mann Ihnen nit mit
+#facs_132_r1l6 ernst darvon sijn wirtt So haben.
+#facs_132_r1l7 wir dich hiemit vorgenden Vnsers ernstigen
+#facs_132_r1l8 vß schryben vnd verpotts erinneren.
+#facs_132_r1l9 Und dir hieby mit sonderem Yffer
+#facs_132_r1l10 und flyß gevietten und befelchen alle
+#facs_132_r1l11 Derglychl Unnothwendige Überflißige
+#facs_132_r1l12 winckel und wynhüßer, by daruf
+#facs_132_r1l13 gesetzten buß, abzestellen, und das
+#facs_132_r1l14 Winsthencken und wirtten, niemandem
+#facs_132_r1l15 anderem, dann den ordenlichen tauernen
+#facs_132_r1l16 wirtten, an ortten und enden, man
+#facs_132_r1l17 deren sy nothwendig sijn wirtt
+#facs_132_r1l18 zugestatten, ouich zulassen und hierin
+#facs_132_r1l19 ein sollichl yffer und flyst zuerzeigen
+#facs_132_r1l20 das vns Dynetthalb kein clag fürkommen
+#facs_132_r1l21 Und wir nit verursachet werdindt.
+#facs_132_r1l22 deß an dir inzekomen, harnach wirt
+#facs_132_r1l23 dich wüßl zehaltten Datum 7
+#facs_132_r1l24 Octobr 1644
+#facs_132_r2l1 Beschrybung der Amptluth
+#facs_132_r2l2 vff Iren Farrachnung
+#facs_132_r2l3 mit
+#facs_132_r2l4 Burgdorff
+#facs_132_r2l5 montagnte Julij
+#facs_132_r2l6 landtshutt
+#facs_132_r2l7 Trachselwald
+#facs_132_r2l8 Interlacken
+#facs_132_r2l9 aßle
+#facs_132_r2l10 Dienstag 12 Julij
+#facs_132_r2l11 Und sowen
+#facs_132_r2l12 Schaffner Geis
+#facs_132_r2l13 bersijbenthal
+#facs_132_r2l14 Aydersijbenthal
+#facs_132_r2l15 Fruittigh
+#facs_132_r2l16 mittwuchl 17 Julij
+#facs_132_r2l17 Wgnouw
+#facs_133_r1l1 Burren
+#facs_133_r1l2 Bipp
+#facs_133_r1l3 Soutag ut Julii
+#facs_133_r1l4 Wangl
+#facs_133_r1l5 of
+#facs_133_r1l6 Arwang
+#facs_133_r1l7 yilouw
+#facs_133_r1l8 Crlach
+#facs_133_r1l9 fryttag 15 July
+#facs_133_r1l10 Louppry
+#facs_133_r1l11 Arber
+#facs_133_r1l12 Schenckenber
+#facs_133_r1l13 Verburg
+#facs_133_r1l14 Zuberstein
+#facs_133_r1l15 Jambstag 16 Julij
+#facs_133_r1l16 Mitzburg
+#facs_133_r1l17 4
+#facs_133_r2l1 offing
+#facs_133_r2l2 Frauwbrunnen
+#facs_133_r2l3 Julij
+#facs_133_r2l4 Montag 18
+#facs_133_r2l5 Chorberg
+#facs_133_r2l6 Hanc t Johans Insell
+#facs_133_r2l7 3. Octobr
+#facs_133_r2l8 Zimstag den 19 julii
+#facs_133_r2l9 Buchser
+#facs_133_r2l10 niensperg
+#facs_133_r2l11 Alm
+#facs_133_r2l12 Mittwuchl 20 Julij
+#facs_133_r2l13 Brandiss
+#facs_133_r2l14 Zungsfeld
+#facs_133_r2l15 Dienstag rt. Julij
+#facs_133_r2l16 Sannen
+#facs_134_r2l1 Vätterling Oeconomo und Consul
+#facs_134_r2l2 Milden, Lausanna, Iffertten
+#facs_134_r2l3 Leuws Morsen / Talsk und ander
+#facs_134_r2l4 Woylen wogh des hochflugs
+#facs_134_r2l5 Statthalter vnd schat zu Bern Vnser
+#facs_134_r2l6 gruß zuuor lieber Landtuogtt, Demnach
+#facs_134_r2l7 Wir vns endtschloßen entschlossl ein namhaffte
+#facs_134_r2l8 anzahl falcken Tierceletz und Laniers zu
+#facs_134_r2l9 Vnseren handen Zebringen, und wir uns
+#facs_134_r2l10 gutter maßl zu erinneren das dieselben und
+#facs_134_r2l11 Derglychl hochflug Inder Dyner Ampts ver¬
+#facs_134_r2l12 walttung woll vnd fürderlich aber gägen¬
+#facs_134_r2l13 würtiger Zytt, mitt gutter gelägenheitt, mit
+#facs_134_r2l14 der Jegs deß Ducs oder Herzog anzekommen,
+#facs_134_r2l15 Alls langt vnd ist deßwägl vnser ernt
+#facs_134_r2l16 gesinnen vnd beuelch ann dich, wo du derselben
+#facs_134_r2l17 by handen nach gethaner flyßig erforschung
+#facs_134_r2l18 i
+#facs_134_r2l19 by Syner OnderAmptlüthl Dyner Ampts
+#facs_134_r2l20 pflag vnd zuerkauffen, dieselben ohne
+#facs_134_r2l21 einichl Verzug, vff ein, lydenliche
+#facs_134_r2l22 bezalung deßen Vfgäben gewürender
+#facs_134_r2l23 masl Verrechnen wirtt) Und
+#facs_134_r2l24 Vnseren gethreüen Vahalen den gr.
+#facs_134_r2l25 Nous
+#facs_134_r3l1 26
+#facs_134_r3l2 Romaneschen Zu E stoy wohnende gwarsammlich vnd
+#facs_134_r3l3 Unverschertt vberandtwortten vnd zukommen,
+#facs_134_r3l4 Zeläßl, damit aber dißerem Vnseren beuelch
+#facs_134_r3l5 deto bas nachkomen vnd In gevierem gestaltt
+#facs_134_r3l6 werde Ist unser verstand vnd beuelch an durch
+#facs_134_r3l7 Die Jennigk somit dem duc oder
+#facs_134_r3l8 Hertzog Jagend, augentz fur dich zuforden, vnd
+#facs_134_r3l9 hir vnserem ansechst by hochter straff vnd
+#facs_134_r3l10 pern zegewietten sy gedachten Falcken Tiercelletz
+#facs_134_r3l11 vnd Lamers zu vorderit dir zukauffenn
+#facs_134_r3l12 presentierndt vnd fhals ettwan Frömbde
+#facs_134_r3l13 derselben kaufflich zu Iren handen gebracht
+#facs_134_r3l14 dieselben Vferstattung gerücklicher Bezelung
+#facs_134_r3l15 von Innen Zubezuthen, ein Vnseren beuelt
+#facs_134_r3l16 Wustfürderlich zuerstatten, Datum
+#facs_135_r1l1 Ander Tüttschen Amptlut
+#facs_135_r1l2 Landtshütt, Wangen, Ambung,
+#facs_135_r1l3 Nidam,
+#facs_135_r1l4 Lagburg, Künigsfelden
+#facs_135_r1l5 Caffingen
+#facs_135_r1l6 An die Welchen
+#facs_135_r1l7 Milden, L'Billoy, Rosanna,
+#facs_135_r1l8 Willifburg
+#facs_135_r1l9 Jourdon
+#facs_135_r1l10 Nion

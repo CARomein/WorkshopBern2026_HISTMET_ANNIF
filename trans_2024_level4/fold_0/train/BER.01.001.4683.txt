@@ -1,0 +1,92 @@
+Law ID: BER.01.001.4683
+Name: Wegen Verkauf des vorschiessenden Getreids.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 81/81
+# High similarity (>=50%): 79
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_240_r3l9 Ain
+#facs_240_r3l10 alle deutsch und welsche Herren
+#facs_240_r3l11 Amtleut (Romainmotier aus ge¬
+#facs_240_r3l12 nommen) und Schaffnern da
+#facs_240_r3l13 Obrigkeitlich Getreid ligt
+#facs_240_r3l14 Wagen Verkauf des vorschießenden
+#facs_240_r3l15 Getreids
+#facs_240_r3l16 Schultheis Stäth und Burger etc.
+#facs_240_r3l17 Auf angehörten Vortrag Unserer
+#facs_240_r3l18 fürgeliebten Miträthen der Herren
+#facs_240_r3l19 Teutsch) Sebelmeister und Venneren
+#facs_240_r3l20 Walsch
+#facs_240_r3l21 und Unserer verordneten Korn
+#facs_240_r5l1 die 473.
+#facs_240_r5l2 Kammer, über das nach Abzug
+#facs_240_r5l3 des Vorraths wie auch der ordinari¬
+#facs_240_r5l4 und quasi ordinari ausgaben zum
+#facs_240_r5l5 Verkauf übrig bleibende Betreid,
+#facs_240_r5l6 haben Wir zu erkennen gut be¬
+#facs_240_r5l7 funden, befehlen mithin Euch
+#facs_240_r5l8 (deutsche Aemter)
+#facs_240_r5l9 von nun an alle vorschießende Winter¬
+#facs_240_r5l10 Cnaggen
+#facs_240_r5l11 früchte, dinkel, Waizen und Mischel¬
+#facs_240_r5l12 born, so wie auch die zweyte
+#facs_240_r5l13 Hälfte den Sommerhruchten, zu
+#facs_240_r5l14 kleinen Kauffen unter denen üb¬
+#facs_240_r5l15 lichen Reservaten, jedoch so ver¬
+#facs_240_r5l16 silbern und abstoßen zu laßen
+#facs_240_r5l17 daß dieser Verkauf sich bis Anr
+#facs_240_r5l18 fangs Herbstmonat erstreke und
+#facs_240_r5l19 demnach eingerichtet werde.
+#facs_240_r5l20 (Welsche Aemter)
+#facs_240_r5l21 von nun an auch die zweyte Hälfte
+#facs_240_r5l22 sowohl der vorschießenden Sommer¬
+#facs_240_r5l23 als Winterfrüchte zu kleinen
+#facs_240_r5l24 Kauffen zu verstilbern
+#facs_241_r2l1 c/
+#facs_241_r2l2 /: Iferten.
+#facs_241_r2l3 den Vorrath zu erganzen und so¬
+#facs_241_r2l4 dann das vorschießende zu kleinen
+#facs_241_r2l5 Kauffen zu versilbern
+#facs_241_r2l6 Welchem nach ihr Euch zu verhalten
+#facs_241_r2l7 wißen werdet.
+#facs_241_r2l8 Datum den 13ten Junii 1791.
+#facs_241_r2l9 obid
+#facs_241_r2l10 Romainmôtier Praef.
+#facs_241_r2l11 Auf angehörten Vortrag Unserer
+#facs_241_r2l12 fürgeliebten Miträthen der Herren
+#facs_241_r2l13 Welsch Sebelmeister und Venneren
+#facs_241_r2l14 wegen Verkauf der zweyten Hälfte
+#facs_241_r2l15 des über die ordinari¬ und quasi
+#facs_241_r2l16 ordinari-Ausgaben vorschießenden
+#facs_241_r2l17 Getreids, haben Wir in Absicht
+#facs_241_r2l18 auf das Amt Romainmôtier der¬
+#facs_241_r2l19 mahlen noch keinen Entschlus zu
+#facs_241_r2l20 nemmen gutbefunden, sondern
+#facs_241_r2l21 vorbemelt Unsern Fürgeliebten
+#facs_241_r2l22 Miträthen den Auftrag ertheilt,
+#facs_241_r2l23 wegen diesem Getreid Verkauff
+#facs_241_r4l1 475
+#facs_241_r4l2 und was dahin einschlagt, Euch das
+#facs_241_r4l3 gutfindende zu überschreiben.
+#facs_241_r4l4 deßen Ihr berichtet werdet.
+#facs_241_r4l5 Datum ut supra.
+#facs_241_r4l6 Ain
+#facs_241_r4l7 alle deutsche und Welsche Herren
+#facs_241_r4l8 Amtleut, IV Städt, Freyweibel
+#facs_241_r4l9 und Ammann
+#facs_241_r4l10 frndferien ausgeschrieben.
+#facs_241_r4l11 Schultheiß und Rath etc.
+#facs_241_r4l12 Wir haben die diesjährigen
+#facs_241_r4l13 Erndferien vom 10ten künftigen
+#facs_241_r4l14 July bis zum 10ten Augusti bestimmt,
+#facs_241_r4l15 und deßen Euch anmit benachrichten
+#facs_241_r4l16 wollen, mit Befehl, während dieser
+#facs_241_r4l17 Zeit keine andre als nothdringende
+#facs_241_r4l18 Geschäfte an Uns und Unsere ver¬
+#facs_241_r4l19 ordnete Kammeren und Dicaste¬
+#facs_241_r4l20 rien gelangen zu laßen.
+#facs_241_r4l21 Datum den 20ten Junii 1791.

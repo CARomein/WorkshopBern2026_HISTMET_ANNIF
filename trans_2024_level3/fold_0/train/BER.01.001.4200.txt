@@ -1,0 +1,50 @@
+Law ID: BER.01.001.4200
+Name: Verbott wegen Einbringung fremder Schweinen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 39/39
+# High similarity (>=50%): 33
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_150_r6l1 7.
+#facs_150_r6l2 er
+#facs_150_r6l3 h
+#facs_151_r1l1 Coll
+#facs_151_r1l2 Jon Mussh and
+#facs_151_r1l3 Oberne aufgehoben
+#facs_151_r1l4 ten 31t. aug 1768
+#facs_151_r2l1 An
+#facs_151_r2l2 alle Teutsch- und Weltsche Amtleüth, Vier Städt, Freyweibel
+#facs_151_r2l3 und Ammann; Item jedel an alle Cänzel hiesiger Hauptstant,
+#facs_151_r2l4 und an die Pfeiler anzuschlagen
+#facs_151_r2l5 Verbeit wegen Einbringung fremder Schweinen etc.
+#facs_151_r2l6 Schultheiß Räth und Burger etc.
+#facs_151_r2l7 Es ist Uns der Vortrag beschehen, wie nohtwendig es seyn wollig
+#facs_151_r2l8 das ehemalige Verbodt, liegen Einbringung der fremden facti
+#facs_151_r2l9 und mageren Scheinen zu erneüeren. Nachdeme Wir nun
+#facs_151_r2l10 darüber die erforderliche Reflectionen gemacht, haben Wir
+#facs_151_r2l11 ut befunden, und verordnet, daß von nächstkünftigem
+#facs_151_r2l12 Neujahr an die Einbringung aller fremden Facten und
+#facs_151_r2l13 nageren Schbeinen in Unsere Land gänzlich uns unter
+#facs_151_r2l14 Der hiemit darauf gesezten Straff untersagt und verbodten
+#facs_151_r2l15 seyn solle, also daß, wann nach dieser Zeith frembde, in
+#facs_151_r2l16 Unserer Doctmäßigkeit C. v. feste oder magere Schbeini¬
+#facs_151_r2l17 einbringen und verkaufen wurden, selbe mit der Confis¬
+#facs_151_r2l18 cation, und fahls man selbige nicht entdeken könnte.
+#facs_151_r2l19 die einheimischen Käufer für jeder Schbein mit sehen Tha¬
+#facs_151_r2l20 leren Buß belegt werden, davon der Halbe Theil dem
+#facs_151_r2l21 Verleider, und der andere halbe Theil dem Richter der
+#facs_151_r2l22 Orts haundienen soll.
+#facs_151_r2l23 Damit auch die Landleüth angefrischet werden, die Schöben
+#facs_151_r2l24 sucht zu befürderen, und ins aufnemmen zu bringen, hat
+#facs_151_r2l25 Wie eine Probierzeith auf Sechs Jahr gesezt, innert welcher
+#facs_151_r4l1 293.
+#facs_151_r4l2 innert welchen diese Unsere Verordnung in Kräften bestehe
+#facs_151_r4l3 n
+#facs_151_r4l4 und nach aller Schärfe auf Selbiger gehalten berden. Deß¬
+#facs_151_r4l5 Wir Eüch berichten bollen, mit dem befelch hierauf geflißen
+#facs_151_r4l6 zu halten, und die Fehlbahren zu bestraffen; dieser dann al¬
+#facs_151_r4l7 ler Orthen publicieren zu laßen; Dat. d. 8et Marty 1764.

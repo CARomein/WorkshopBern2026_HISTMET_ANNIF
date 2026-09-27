@@ -1,0 +1,102 @@
+Law ID: BER.01.001.1194
+Name: Wider das unbefugte Schiffmachen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 91/91
+# High similarity (>=50%): 86
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_327_r2l1 Ueberg
+#facs_327_r2l2 Vß demselben ambt soll hingefertiget werden
+#facs_327_r2l3 Herr groß Cappelen Zehnden
+#facs_327_r2l4 Nur allein der Dinckel
+#facs_327_r2l5 Der klein Cappelen Zenden
+#facs_327_r2l6 haber und anders mit
+#facs_327_r2l7 Der Arberger od Statt henden
+#facs_327_r2l8 Thun Risaffrecy
+#facs_327_r2l9 Interlacken
+#facs_327_r2l10 Vß demselben kompt soll hargeliffert werden,
+#facs_327_r2l11 der Behnzehnden, nemlich allein an
+#facs_327_r2l12 Dinckell
+#facs_327_r2l13 Frauwbrunnen
+#facs_327_r2l14 Von deselben Ambts Zenden söllent
+#facs_327_r2l15 hargelifert werden.
+#facs_327_r2l16 C.
+#facs_327_r2l17 Der Zehndenen Büren zum Hoff, von dem
+#facs_327_r2l18 Der haber schon hiemor alwegen alhar gewärt
+#facs_327_r2l19 worden
+#facs_327_r2l20 Der Limpach Henden
+#facs_327_r2l21 Der Mälchen Zehnden
+#facs_327_r2l22 nur allein der Dinckel.
+#facs_327_r2l23 Nider Räuseren Hendel
+#facs_327_r2l24 schollunen
+#facs_327_r2l25 Schaden.
+#facs_327_r2l26 Buchse
+#facs_327_r2l27 Von disers Ampts Zenden
+#facs_327_r2l28 sollend durch die
+#facs_327_r2l29 besteher hargewährt werde.
+#facs_327_r2l30 Der Buchse Zenden etc.
+#facs_327_r2l31 Sardorff
+#facs_327_r2l32 Zehnden
+#facs_327_r2l33 Diemerswijl
+#facs_327_r2l34 Lönsz: und wickis wijl
+#facs_327_r2l35 Allein was den Dinckel betrifft.
+#facs_328_r1l1 Dürer
+#facs_328_r1l2 Von deßelben Ambts angehörigen Zehnten sollen
+#facs_328_r1l3 hargelifert doerden.
+#facs_328_r1l4 Der Wengi Zenden
+#facs_328_r1l5 Dießbach Zehnden, der groß vnd klein
+#facs_328_r1l6 Waltwyl Hehnden
+#facs_328_r1l7 verstaht sich allein vom Dinckell.
+#facs_328_r1l8 Nots statt
+#facs_328_r1l9 Von derselben Schafferey anhengigen Zeugen,
+#facs_328_r1l10 söllene allem hargelifert werden.
+#facs_328_r1l11 Der Bech. vndt Leüpingen Hehnden allin an dücke
+#facs_328_r1l12 Burgdorff
+#facs_328_r1l13 Aß deßelben Ambtschenden söllend her gewährt werden
+#facs_328_r1l14 Gomerkinden.
+#facs_328_r1l15 Vttingen
+#facs_328_r1l16 Bigel.
+#facs_328_r1l17 Rufshüseren
+#facs_328_r1l18 soßly
+#facs_328_r1l19 Niederschwand.
+#facs_328_r1l20 Zehnden
+#facs_328_r1l21 Oberbus¬
+#facs_328_r1l22 Rormop
+#facs_328_r1l23 Ruppwijl
+#facs_328_r1l24 Nider seimis wijl
+#facs_328_r1l25 Omblampen
+#facs_328_r1l26 Wynigen
+#facs_328_r1l27 Andinckell unndt Roggen, die nämlich
+#facs_328_r1l28 Roggen erwegend.
+#facs_328_r2l1 A. v. Rhath
+#facs_328_r2l2 ott.
+#facs_328_r3l1 à 15
+#facs_328_r3l2 Trauw, Arburg, Wangen vnd Arwangen,
+#facs_328_r3l3 wider das Unbefügte Schiffmachen.
+#facs_328_r3l4 Es ist für kommen, das maß etliche vnserer vnderthanen zu Arburg, Wie auch
+#facs_328_r3l5 zu Arande, Wangen vnd Arwangen, ihre erlehrnete vnd hievor getribne handt:
+#facs_328_r3l6 werck Elaßind, vnd sich deß Schiffmachens vnder fahnd, volgendts die ge¬
+#facs_328_r3l7 machten schiff lär hindergg forggindt, da aber an solichen ihrten hievor kein¬
+#facs_328_r3l8 Schiffwerkstatt Jemaln gewesen, diejenigen das Handtwerck nit, wie¬
+#facs_328_r3l9 trüchlich, ordenlich erlehrnet, deß Schiffens nit erfahren, vnd ihrer darmit
+#facs_328_r3l10 nemandt gedient seye, So nun die Wile der Schiffen, vnd die stättige hin¬
+#facs_328_r3l11 legg fertigung derselben, ohne vnserer Wälden schaden Ewüst vnd erödung.
+#facs_328_r3l12 mit zugehen kan. Wir Vnß auch erinneret, das so wohl vnsere hiesche Schiff
+#facs_328_r3l13 leüt, alß die zu Thun vnd vnderseben also vngezilet, daß sie ohne Vnsere
+#facs_328_r3l14 bedeiligung einich Schiff machen dorffend, noch vß dem Landt zu Pkauffen be¬
+#facs_328_r3l15 fügt, Vnß vnd den Vnseren darmit zedienen pflichtig sind etc. habend wir zu¬
+#facs_328_r3l16 absterbung berührts mißbruchs vnd vnordnung, auch zu Chüetung deytern schadens
+#facs_328_r3l17 nohtwendig erachtet, die hiemit zu bevelchen, Jenigen diynen Amptsangehörigen
+#facs_328_r3l18 so sich Schiffmachens vndernemend, alles ernsts zu gebieten, sich des ins künfftig
+#facs_328_r3l19 gentzlich zu überheben, vnd sich ihrer ordenlichen handtwercken, die sy darvon
+#facs_328_r3l20 erlehnet, Zeuernügen. Daßgleichen wöllend, der auch nochmahlen alles ernsts
+#facs_328_r3l21 Ebotten haben, das niemandt einich holtz vß vnserm landt an benachperte noch-
+#facs_328_r3l22 andere vnsere ohrt, damit daselbsten die schiff zugerichtet werdindt, fertigl.
+#facs_328_r3l23 noch darauff hätte. Alles by soen der Confiscation. Daruff du dan flyßig
+#facs_328_r3l24 achtet, vnd durch darzu bestelte mercklich acht, lassen solt, damit sölichen
+#facs_328_r3l25 vnserem Erbott In beiden stucken nachgelebt werde, da ist vnser will. Datu
+#facs_328_r3l26 11. Julii 1642.

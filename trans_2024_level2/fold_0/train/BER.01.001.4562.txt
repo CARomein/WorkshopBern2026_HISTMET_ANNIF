@@ -1,0 +1,168 @@
+Law nr: BER.01.001.4562
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 157/157
+# High similarity (>=80%): 146
+# Low similarity (<80%): 11
+# Not found: 0
+#
+#facs_28_r4l1 Coll
+#facs_108_r2l2 0
+#facs_145_r1l1 282.
+#facs_23_region_1633454616028_2913l1 An
+#facs_117_r3l2 Alle deutsch und Weltsche Herren Amtleute
+#facs_145_r5l4 Vier Städt, Freyweibel und Amann
+#facs_145_r5l5 Verbodt die rohe Wildwaar oder
+#facs_145_r5l6 Bälge aus dem Land zu
+#facs_145_r5l7 entäußeren
+#facs_198_r3l20 Schultheis und Raths.
+#facs_145_r5l9 Auf uns beschehenes ehrerbieti¬
+#facs_145_r5l10 ges Nachwerben, zu Erneuerung des
+#facs_145_r5l11 Verboits von Fürkauf und Veräus¬
+#facs_145_r5l12 ferung der rohen Wildwaar oder Säl¬
+#facs_145_r5l13 gen 3 und geschehenen Erdauerung sol¬
+#facs_145_r5l14 ches Begehrens, haben Wir in Erfrischung
+#facs_145_r5l15 dissfälliger bereits existierenden Ver¬
+#facs_145_r5l16 ordnung, das in Einlag enthaltene
+#facs_145_r5l17 Mandat abzugeben gutbefunden
+#facs_145_r5l18 Mit Übersendung einer genugsamen
+#facs_145_r5l19 Anzal Exemplarien davon, befehlen
+#facs_145_r5l20 Wir euch, solches publicieren, gewohn
+#facs_145_r5l21 ter Orten anschlagen, und einschreiben
+#facs_145_r5l22 zu laßen, und in sich ereignenden
+#facs_145_r5l23 vorfällen solches in Execution zu
+#facs_145_r5l24 stehen. Datum den 2ten Februarius
+#facs_144_r3l19 1785
+#facs_146_r1l1 283
+#facs_136_r2l21 sollte.
+#facs_146_r1l3 Durch die Verordnung
+#facs_146_r1l4 No 14. November
+#facs_146_r1l5 1795 wieder aufgehol¬
+#facs_146_r1l6 unbetreff der Hase
+#facs_146_r1l7 Kälge insbesondere aber
+#facs_146_r1l8 wieder bestätiget.
+#facs_64_r2l8 Wir Schultheiß und Rath
+#facs_146_r2l2 der Stadt und Republik Bern, ent¬
+#facs_146_r2l3 bieten Unseren lieben und getreuen
+#facs_146_r2l4 Burgeren und Angehörigen zu Stadt
+#facs_146_r2l5 und Land Unseren gnädigen und ge¬
+#facs_146_r2l6 neigten Willen, und geben ihnen da-
+#facs_146_r2l7 bey zu vernehmen: da Uns geziemen
+#facs_146_r2l8 vorgestelt worden, daß verschiedene
+#facs_146_r2l9 fremde und einheimische Fürbäufer
+#facs_146_r2l10 sich understanden, allerhand Pelzwerk
+#facs_146_r2l11 und Salge von dem im Landfallenden
+#facs_146_r2l12 Wildwert rohe aufzukauffen, und
+#facs_146_r2l13 zu großem Nachtheil der Kürschner
+#facs_146_r2l14 und Hutmacher Professionen unverar¬
+#facs_146_r2l15 beitet aus demselben zu veräusseren,
+#facs_146_r2l16 Als haben Wir über ihre Vorstellun¬
+#facs_146_r2l17 gen hin, hiemit verordnen wollen,
+#facs_146_r2l18 das aller Fürbauf und Entäusserung
+#facs_146_r2l19 des in Unseren Landen gefangenen
+#facs_146_r2l20 oder geschossenen rohen Wildwerts
+#facs_146_r2l21 /: französisch Sauvagines genant :/ als
+#facs_146_r2l22 la sind: Sälge von Fuchsen, Füren
+#facs_146_r2l23 Stein rundEdel Marderen, Ottern Il¬
+#facs_146_r2l24 fißen, Haafen, Kazen, Breben un
+#facs_128_r2l20 solle.
+#facs_146_r4l1 284
+#facs_146_r4l2 andere ohne Ausnahm Fürohin jeder
+#facs_146_r4l3 mäniglich verbotten seyn und bleibe
+#facs_146_r4l4 solle, bey unnachlasiger Straf der
+#facs_146_r4l5 Confis bazion der rohen Waar
+#facs_146_r4l6 oder deren Werth, wovon ein drit¬
+#facs_146_r4l7 tel Uns, ein drittel dem Richter den
+#facs_146_r4l8 Ortt, und ein Drittel dem Verleider
+#facs_146_r4l9 zu kommen soll.
+#facs_146_r4l10 Gefehlen allen Unsern Zollcomissen
+#facs_146_r4l11 und Aufseheren, auf die Veräuserung
+#facs_146_r4l12 diese Waar, wie auf andere rohe leder
+#facs_146_r4l13 Waar fleißig zu achten, und die
+#facs_146_r4l14 fehlbaren sofort dem Richter anzu¬
+#facs_146_r4l15 Zeigen
+#facs_146_r4l16 Wollen anbey allen Unseren Ober¬
+#facs_146_r4l17 und Under-Beamteten hiemit ernstlich
+#facs_146_r4l18 auftragen, diese Verordnung bestens
+#facs_146_r4l19 zu handhaben, die Wir zu jedermaus
+#facs_146_r4l20 verhalt in Druk verfast, gewohnter
+#facs_146_r4l21 maßen bekant machen laßen. Geben
+#facs_146_r4l22 den 2. February 1785
+#facs_34_r5l6 Causley Bern
+#facs_83_r3l6 en
+#facs_146_r4l24 Nous l'Advoyer et Conseil
+#facs_255_r3l4 gefälltes, liegendes, oder gebeigtes,
+#facs_111_r2l8 gelegenheiten des gemeinen
+#facs_146_r4l27 leur
+#facs_96_r2l1 1851
+#facs_147_r3l1 leur mandons Nôtre gracieuse Bienveil
+#facs_112_r3l26 lance, et par les Présentes Savoir faisons.
+#facs_147_r3l3 qu'ensuile des plaintes à Nous portées,
+#facs_147_r3l4 de ce que divers Monopoleurs, tant étran
+#facs_147_r3l5 gers qu'Enfans du Pays, ont ose acheter
+#facs_147_r3l6 crues et non préparées, toutes sortes de
+#facs_147_r3l7 fourrures et de peaux provenantes de
+#facs_147_r3l8 sauvaignes tuées dans le canton et
+#facs_147_r3l9 les faire passer dans l'etranger, au grand
+#facs_147_r3l10 Detriment des Pelletiers et Chapeliers
+#facs_147_r3l11 de Nos Villes et Pays; Nous avons
+#facs_147_r3l12 sur leurs respectueuses représentations
+#facs_147_r3l13 trouvé bon d'Ordonner; qu'à l'avenir
+#facs_147_r3l14 tout Monopole et toute Exportation
+#facs_147_r3l15 des fourrures crues ou sauvaignes tuées
+#facs_147_r3l16 ou prises riere les Pays de nôtre Do
+#facs_147_r3l17 Mination, et nomement les Peaux de
+#facs_147_r3l18 Renards, d’Ours, de Martres et Fouineux
+#facs_147_r3l19 Loutres, Putois, Lievres, Chats, Grebes
+#facs_147_r3l20 et autres, sans aucunne exception.
+#facs_147_r3l21 soient à l'avenir intredits à qui que
+#facs_147_r3l22 ce soit, sous peine irremissible de confis
+#facs_147_r3l23 cation de la March Jandise, ou de la da
+#facs_147_r3l24 leur d'icelle; dont un tiers à Nous, un
+#facs_147_r3l25 tiers au Juge de lieu, et l'autre au
+#facs_106_r3l2 de la
+#facs_147_r3l27 Nous ordonnons en consequence à
+#facs_100_r2l1 soll.
+#facs_147_r5l1 286.
+#facs_147_r5l2 tous Nos commis de Peages et juspecheurs
+#facs_147_r5l3 de veiller avec un soin particuliers, à
+#facs_147_r5l4 ce que non seulement les articles a - des
+#facs_147_r5l5 sus enoncés, mais encore les peaux non-
+#facs_147_r5l6 Aanées ne sortent du Pays, en denonçant
+#facs_147_r5l7 les contrevenants au Juge du Lieu, sans
+#facs_147_r5l8 égard pour personne.
+#facs_147_r5l9 Nous enjoignons aussi très sérieuse,
+#facs_147_r5l10 ment à tous nos Baillifs et leurs sub¬
+#facs_147_r5l11 délégués, de tenir la main à l'exacte
+#facs_147_r5l12 Observation de la présente Ordonnance
+#facs_147_r5l13 qui sera imprimée et publiée pour l'In¬
+#facs_147_r5l14 struction de tous et un chacun. Donne
+#facs_147_r5l15 le 2 fevrier 1785
+#facs_42_r3l9 Chancellerie de Derne
+#facs_23_region_1633454616028_2913l1 An
+#facs_167_r5l18 alle deutsch und Weltsche Herren Andeleute
+#facs_156_r6l18 Landsaßen - Hindersäs Geld
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_147_r5l21 da Unsere unterm 28ten Novembris
+#facs_147_r5l22 1782. aufgegangene auf eine Strobheit
+#facs_147_r5l23 ren zwey Jahren gesetzte Verordnung, in
+#facs_147_r5l24 betreß der Schiehung der den Land¬
+#facs_70_r2l14 Wald
+#facs_148_r1l1 287.
+#facs_148_r2l1 Daßen, nach Masgab ihret Vermögens
+#facs_148_r2l2 und ihrer Umstände, zufolg des Hoch
+#facs_148_r2l3 obrigkeitlichen Reglements vom 28
+#facs_148_r2l4 februario 1780. au ferlegten Anlagen
+#facs_148_r2l5 in allen Absichten, von bestem Er
+#facs_148_r2l6 folg gewesen, so haben Wir solche an¬
+#facs_148_r2l7 mit, so lange Verenderung der Zeiten
+#facs_148_r2l8 Uns zu keiner Abänderung derselben
+#facs_148_r2l9 belagen werden, frischerdingen sani¬
+#facs_148_r2l10 tionirt und erkent, das derselben
+#facs_148_r2l11 in zu konft nachgelebt werden soll
+#facs_148_r2l12 deßen Ihr zum verhalt berichtet
+#facs_148_r2l13 werdet. Dat. 9. März 1785.
+#facs_148_r2l14 NB. Kicher gehört was pag. 723. 727

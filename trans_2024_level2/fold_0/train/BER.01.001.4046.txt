@@ -1,0 +1,113 @@
+Law ID: BER.01.001.4046
+Name: Münzwesen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 102/102
+# High similarity (>=50%): 97
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_295_r4l3 Alle 7. und W. Amtleuth, 4. Städt, freybeibel und
+#facs_295_r4l4 Amman, item an die Canzel hiesiger Hauptstatt
+#facs_295_r4l5 auch an den gebohnten Orthen zu
+#facs_295_r4l6 Affichieren
+#facs_295_r4l7 Münzwesen.
+#facs_295_r4l8 Schultheiß Räht und Burger
+#facs_295_r4l9 Bleichbie Wir schon unterm 17ten Christmonath.
+#facs_295_r4l10 1753. Unsere Angehörige zu Stadt und Land, vor
+#facs_295_r4l11 Einnahm aller schlechten zu und Ausländischen
+#facs_295_r4l12 Scheidmünzen zu verbahrnen gut funden, so haben
+#facs_295_r4l13 Wir jehden noch für nöhtig erachtet, solches durch eine
+#facs_295_r4l14 widermahlige Verordnung auf ein früsches zu
+#facs_295_r4l15 widerhoben und darinn auszustezen welche Batung
+#facs_295_r4l16 Scheidmünzen in Unseren Landen den Lauß haben
+#facs_296_r2l1 und mögen angenommen worden; Weßtbogen
+#facs_296_r2l2 Wir Euch befehlen, gegenwärtig diese
+#facs_296_r2l3 Unsere bestgemeinde dennoch ernstliche
+#facs_296_r2l4 Wahrnung zu jedermänniglichs Verhalt von
+#facs_296_r2l5 Canzlen verbünden und gebohnter Orthen
+#facs_296_r2l6 anschlagen zu laßen. Datum d. 23. Sept. 1754.
+#facs_296_r2l7 Placcard
+#facs_296_r2l8 der Münzen so lauf haben.
+#facs_296_r2l9 Klein
+#facs_296_r2l10 Wir Schulthei und Brope
+#facs_296_r2l11 Dast der Statt Bern, thun kund siemith:
+#facs_296_r2l12 Demmnach Wir durch Unseres letßhin sub 17t Dec.
+#facs_296_r2l13 -
+#facs_296_r2l14 1753. publicierte Mandat aus Landes vätterlicher
+#facs_296_r2l15 Beherzigung und zu sorgfältiger Abbendung allzu
+#facs_296_r2l16 großen Nachtheill und Schadens, so die Unserigen
+#facs_296_r4l1 378
+#facs_296_r4l2 betreffen könte, für gut und nohlbendig angesehen.
+#facs_296_r4l3 haben, jedermänniglich wohl, dennoch aber ernstmeinend
+#facs_296_r4l4 verwahrnen zu laßen, sich aller schlechten Inn- und
+#facs_296_r4l5 Ausländischen Scheidmünzen welche durch Unsere
+#facs_296_r4l6 hievor ergangene Verordnungen verbotten worden,
+#facs_296_r4l7 zu entladen, und deren keine mehr in Unsere
+#facs_296_r4l8 Land weder zu bringen noch anzunemmen, zu
+#facs_296_r4l9 welchem Ein Wir denn würklich, angebündeter
+#facs_296_r4l10 maßen, die erforderliche Vorstorg zu thun angefangen
+#facs_296_r4l11 haben, mit Ausspragung neuer Scheidmünzen, unter
+#facs_296_r4l12 Unserem Stämpfel, auch noch alltäglichen fortfahren
+#facs_296_r4l13 werden, bis daß sich erzeigen wird, daß deren
+#facs_296_r4l14 zu ohngehinderter Forttreibung daß gemeinen Handels
+#facs_296_r4l15 und Hand¬kauffs in Unseren Landen ein genugsam¬
+#facs_296_r4l16 Vorraht seyn werde.
+#facs_297_r2l1 Damit aber Unsere Liebe und Betreüe Angehörige
+#facs_297_r2l2 biß zu ermeldt Unser angedeuteten Verordnung¬
+#facs_297_r2l3 sich zu verhalten büßen, so haben Wir für
+#facs_297_r2l4 gut und nöhtig erachtet, in gegenbärtigem Mandat
+#facs_297_r2l5 auszusezen, welche Gattung Scheidmunzen in
+#facs_297_r2l6 Unseren Landen den Lauß haben, und mögen
+#facs_297_r2l7 angenommen werden. Als da sind
+#facs_297_r2l8 Erstlich, alle fünfläzler mit ihren Fractionen,
+#facs_297_r2l9 von Luiern, Uri, Schbeiz, Underwalden
+#facs_297_r2l10 Zug, Frülung, Walliß, und Bischoff dasel¬
+#facs_297_r2l11 Zlieytens, die fünf büzler von Benff und Neüenburg
+#facs_297_r2l12 als welche für species Bild angesehen werden.
+#facs_297_r2l13 alten oder
+#facs_297_r2l14 Drittens, die Gertli Hilst Schillinger von
+#facs_297_r2l15 Schbeitz und Underbalden
+#facs_297_r2l16 Viertens, die Oertli von dasel, so wohl derglet
+#facs_297_r3l1 6
+#facs_297_r3l2 als einfache.
+#facs_297_r3l3 fünftens, die alten Plappart von Basel.
+#facs_297_r3l4 Rechstens, an ganzen Sachen, alle alte von Suiern, Uri,
+#facs_297_r3l5 Schbeitz und Zug
+#facs_297_r3l6 Siebendens, an drey Grenzer Stuben, die von Sollothurn,
+#facs_297_r3l7 und Fryburg.
+#facs_297_r3l8 Achtens an halb Tazen, alle alte von Luern, Solothurn und
+#facs_297_r3l9 Neüenburg.
+#facs_297_r3l10 Neüntens, die dopplete und einfache Diocettes.
+#facs_297_r3l11 Alles aber der beyläußigen Meinung und in dem Verstand
+#facs_297_r3l12 daß Wir alle übrige Stadtung von Schrit¬ München, welcher
+#facs_297_r3l13 hier nicht ausgestezt und vernamstet sind, längstens bis
+#facs_297_r3l14 Ends dis lauffenden Jahrs, entleeder in Ihrem
+#facs_297_r3l15 innerlichen oder rechten Währt specificierlich hinab,
+#facs_297_r3l16 der aber, jeh nach deren Verhalt und Beschaffenheit
+#facs_297_r3l17 gänzlich verruffen und verbiethen werden, bey hoher
+#facs_298_r1l1 ohnnachläßlicher Straß, wie das deßt legen
+#facs_298_r1l2 zu publicierende frische Mandat deß mehreren
+#facs_298_r1l3 erlauberen wird.
+#facs_298_r1l4 der Reichs Münzen halber, welche schon
+#facs_298_r1l5 ehemals und zu allen Zeithen verrußen
+#facs_298_r1l6 gewesen, wollen Wir dieselben widermahls
+#facs_298_r1l7 hierdurch völlig verbotten, und Unsere Liebe
+#facs_298_r1l8 und getreüe Angehörige alles Ernsts vor.
+#facs_298_r1l9 deren Abnahm verwahrnet haben, maßen
+#facs_298_r1l10 es derenthalb, nach Ausweis der hievorigen
+#facs_298_r1l11 Mandaten sein bewenden haben solle.
+#facs_298_r1l12 Deßen nun zur Nachricht Wir, aus¬
+#facs_298_r1l13 forpfältiger Absicht, jedermanniglichen Zum
+#facs_298_r1l14 Verhalt und Vermeidung seines Schadens, durch
+#facs_298_r1l15 gegenwärtige Hoch Oberweitliche und ernschaffte
+#facs_298_r3l1 582
+#facs_298_r3l2 Ansinnung, nochmahlen verbahrnen bollen, mit dem
+#facs_298_r3l3 zu ersichtigen Gnädigen Vertrauen, es werde ein
+#facs_298_r3l4 jeder Unser getreuen Angehörigen, mit schuldigem
+#facs_298_r3l5 Behorsamb und gutem Exempel diesem nachzuleben
+#facs_298_r3l6 büßen.
+#facs_298_r3l7 Beben in Unserer Großen Rahts Versammlung
+#facs_298_r3l8 Den 19ten und 23ten Herbstmonath 1754.

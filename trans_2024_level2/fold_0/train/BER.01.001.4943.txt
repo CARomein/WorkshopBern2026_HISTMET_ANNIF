@@ -1,0 +1,39 @@
+Law ID: BER.01.001.4943
+Name: Die Underthanen wegen saffoyischen Krieswesens uffzumunteren.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 28/28
+# High similarity (>=80%): 19
+# Low similarity (<80%): 9
+# Not found: 0
+#
+#facs_231_r3l10 40
+#facs_231_r3l10 40
+#facs_117_r2l2 Ann alle weltsche Amptluth halttung
+#facs_205_r2l2 münem 4. Stett im irgende
+#facs_205_r2l3 Die und 'thanen wegen, saffoyisch Kowes wiesen
+#facs_370_r2l39 det Erlenteret.
+#facs_205_r2l5 Schuldiges u Als dann nun Ein Dafar In Danch, vnd
+#facs_205_r2l6 darum sich vil kriegs molk (damecet) Ist vnns hüttiges mor
+#facs_205_r2l7 genus zugewüßer bricht zu kommenn. Das xyz anni große anhal In die
+#facs_205_r2l8 schafft bey gelaßenn, vnnd sich daselbst enthaltenn sollen
+#facs_205_r2l9 und Wann dann vns desselbigenn Intentz vnnd noch abrun¬
+#facs_205_r2l10 hunderlich Mannes nitt als bald vonn den grensthenn ver¬
+#facs_205_r2l11 enn deurde by dißenn Selßamenn Zittenn bedenklich vnd
+#facs_205_r2l12 Inspect, vnnd der seines schuldig deüßenn vnserlantscha¬
+#facs_205_r2l13 vnnd anghörigenn lebenn getreuernn Seyennd rächunge
+#facs_205_r2l14 Betragenn, Haben und der Demnach, Nebenandernn of na¬
+#facs_205_r2l15 derlichenn Ordnungenn der hiemitt vff bricht als stadt,
+#facs_205_r2l16 trunstiklich bevelchenn wollenn, dine auch ange¬
+#facs_205_r2l17 Dine ampts anghörigenn, der dryenn vns zügenn besundern
+#facs_205_r2l18 die So Im erstenn weißig begriffenn, angsicht dis briefes
+#facs_205_r2l19 by vnser hochenn Staff vnnd vngnad zugepüttenn, daß
+#facs_205_r2l20 Sij sich alle tag vff Ein nothfal, mitt Inenn vfferlegte
+#facs_205_r2l21 daerenn, unnd munition Pfast haldindt vnnd Irreg
+#facs_205_r2l22 geldt (wo das noch nicht beschehenn, by ein anderern
+#facs_205_r2l23 habind damitt vff Ersten manenn sy Ir pflicht vnnd
+#facs_205_r2l24 schuldikeydt leysteunkönnin vnnd man sy würcklich
+#facs_205_r2l25 zugebruchenn müße das Ist vnnser will. Datum zu Kugt¬
+#facs_308_r3l1 1610

@@ -1,0 +1,117 @@
+Law nr: BER.01.001.4834,
+Title: Das Journal, [...] zur Geschichte des Standes Zürich verbotten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_514
+# Matched: 106/106
+# High similarity (>=50%): 91
+# Low similarity (<50%): 15
+# Not found: 0
+#
+#facs_6_r3l1 das Journal, l'ami des Loix, une
+#facs_6_r3l2 Zeitschrift = Materialien zur Geschichte
+#facs_6_r3l3 des Standes Zürich verbocken.
+#facs_6_r3l4 An
+#facs_6_r3l5 alle deutsch und welsche Herren Amtleute
+#facs_6_r3l6 vier Städt, freyweibel und Ammann.
+#facs_6_r3l7 Schultheiß und Rath der Stadt Sern!
+#facs_6_r3l8 In Beylage übersenden wir Euch
+#facs_6_r3l9 /: Dir :/ eine genugsame Anzahl Exemplar
+#facs_6_r3l10 dans les
+#facs_6_r3l11 derjenigen Publikation die Wir in
+#facs_6_r3l12 detreff des verboots der Einbringung
+#facs_6_r3l13 und Ausstreuung des unter dem Nahm¬
+#facs_6_r3l14 l'ami des loix bekanten französischen
+#facs_6_r3l15 Journal und der Zeitschrift, Materialien
+#facs_6_r3l16 Zur Geschichte des Standes Zürich, zu
+#facs_6_r3l17 veranstalten nothäendig erachtet haben.
+#facs_6_r3l18 Wir versehen Uns zu Euch Ihr
+#facs_6_r3l19 werdet auf die genaue Befolgung
+#facs_6_r3l20 dieser Vorschrift sorgfältig achten
+#facs_6_r3l21 und die Fehlbaren ohne Schönen zur
+#facs_6_r3l22 Straff ziehen, so wie auch die Publikation
+#facs_6_r3l23 behörigen Orts einschreiben, anschlagen
+#facs_6_r3l24 und verlesen laßen.
+#facs_6_r3l25 geben den 9ten decembris 1797.
+#facs_6_r3l26 Publication
+#facs_6_r5l1 9
+#facs_6_r5l2 butt
+#facs_6_r5l3 len.
+#facs_6_r5l4 ngs
+#facs_6_r5l5 ll.
+#facs_6_r5l6 3.
+#facs_6_r5l7 Ligung
+#facs_6_r5l8 s
+#facs_6_r5l9 B
+#facs_6_r5l10 lags
+#facs_6_r5l11 In
+#facs_6_r5l12 t
+#facs_6_r5l13 hier
+#facs_6_r5l14 ev
+#facs_6_r5l15 hier
+#facs_6_r5l16 lt
+#facs_6_r5l17 le
+#facs_6_r5l18 2
+#facs_6_r5l19 en
+#facs_6_r5l20 1
+#facs_6_r5l21 p
+#facs_6_r5l22 2
+#facs_7_r1l1 Publication.
+#facs_7_r1l2 Wir Schultheis und Rath
+#facs_7_r1l3 der Stadt und Republik gern, thun kund hiermit.
+#facs_7_r1l4 Es ist eine Zeit daher vielfältig beobachtet,
+#facs_7_r1l5 worden, daß ein französisches Zeitungsblatt
+#facs_7_r1l6 welches unter dem Titel l'ami des Loix
+#facs_7_r1l7 täglich zu Paris herauskomt, Aufsähe
+#facs_7_r1l8 über die Eisgnößische = besonders aber
+#facs_7_r1l9 über die hiesige Verfaßung aufnimt,
+#facs_7_r1l10 welche mit Beysteitsstehung alles Sinnes
+#facs_7_r1l11 für Wahrheit, und Recht von einem
+#facs_7_r1l12 ofenbaren feinde, des Vadterlandes
+#facs_7_r1l13 geschrieben sind, und welche nichts anders
+#facs_7_r1l14 zum Zwek haben können, als durch die
+#facs_7_r1l15 schamlostesten Verleumdungen, Unzufrieden
+#facs_7_r1l16 In
+#facs_7_r1l17 heit, und Gährung zu erregen.
+#facs_7_r1l18 dem nemlichen Falle befindet sich eine
+#facs_7_r1l19 andere Schrift mit dem Titel: Materialien
+#facs_7_r1l20 zur Beschichte des Standes zürich
+#facs_7_r1l21 Da wir es Uns nun nur Pflicht
+#facs_7_r1l22 rechnen, die Ausbreitung so schädlicher
+#facs_7_r1l23 und der allgemeinen Ruhe gefährlicher
+#facs_7_r1l24 Schriften, möglichst zu verringern, so
+#facs_7_r1l25 wollen wir hiemit das Journal, L'ame
+#facs_7_r1l26 des Loix, und die Zeitschrift Materialien
+#facs_7_r2l1 9
+#facs_7_r2l2 zur Geschichte des Standes Zürich verbotten
+#facs_7_r2l3 um auf die Einbringung eines jeden
+#facs_7_r2l4 Stüls von diesen Schriften eine
+#facs_7_r2l5 Beldbuße von fünfzehn Thalern
+#facs_7_r2l6 gesetzt haben, die im Widerhandlungs¬
+#facs_7_r2l7 Falle doppelt bezogen werden soll.
+#facs_7_r2l8 Eine gleiche Füße sezen Wir auch
+#facs_7_r2l9 darauf, beim zu heimlicher Einbringung
+#facs_7_r2l10 verbodtener Schriften nau sich
+#facs_7_r2l11 anstadt des gewöhnlichen gebreichten
+#facs_7_r2l12 Landes, eines förmlichen Briefumschlags
+#facs_7_r2l13 von dieser Füße
+#facs_7_r2l14 bedienen sollte.
+#facs_7_r2l15 soll ein Drittheil den Armen des
+#facs_7_r2l16 Orts und zwey Drittheile dem Ver¬
+#facs_7_r2l17 leider Zukommen.
+#facs_7_r2l18 Wir befehlen demnach allen Unserer
+#facs_7_r2l19 Ober und Unterbeamteten, auf die
+#facs_7_r2l20 genaue Gefolgung dieser Vorschrift
+#facs_7_r2l21 sorgfältig zu achten, und die Fehl
+#facs_7_r2l22 baren ohne Schonen zur Straffe
+#facs_7_r2l23 zu ziehen; sämtlichen Officianten
+#facs_7_r2l24 in allen Post Bureaux des Landes
+#facs_7_r2l25 aber befehlen Wir die Exemplare
+#facs_7_r2l26 dieser Schriften, die bey ihnen
+#facs_7_r2l27 ankommen möchten, von nun an
+#facs_7_r2l28 nicht mehr an ihre Adreßen abzugeben;
+#facs_8_r1l1 sondern selbige Unserm Amtmann des
+#facs_8_r1l2 Orts allsogleich zu Handen Unsteres
+#facs_8_r1l3 geheimen Raths einzuhändigen.
+#facs_8_r1l4 Geben den 9ten Decembris 1797.

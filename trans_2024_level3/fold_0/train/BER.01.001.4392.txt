@@ -1,0 +1,369 @@
+Law ID: BER.01.001.4392
+Name: Ihnen die getrukte Verordnung ansehend die Milterung des Viehhandels zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_505
+# Matched: 358/358
+# High similarity (>=50%): 356
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_16_r5l6 Ihnen die getrubte Verordnung ansehend die Miltern
+#facs_16_r5l7 des Viehhandels zusenden.
+#facs_16_r5l8 Schultheiß Räht und Burger
+#facs_16_r5l9 Nach der unterm 17ten Jenner lezthin den
+#facs_16_r5l10 Land gegebenen Vertröstung, thun Wir demsel
+#facs_16_r5l11 ben Unseren Gnädigen Willen über die Vieh
+#facs_16_r5l12 handlung in nochmahliger Milterung Unserer
+#facs_16_r5l13 deßthalb ausgegangenen ehevorigen Mandaten
+#facs_16_r5l14 und gestattung des Verkaufs der Melchkühen
+#facs_16_r5l15 und Kalbeten an Aüßere und Fremde, in
+#facs_16_r5l16 so ferne solche auf denen öffentlichen Jahr- und
+#facs_16_r5l17 Wochenmärkten in unseren Landen gekaufft
+#facs_16_r5l18 werden, durch mitkommende getrubte Verordnung
+#facs_16_r5l19 zu vernemen geben; Wir übersenden Euch
+#facs_16_r5l20 davon eine hinlängliche Anzahl Exemplar mit
+#facs_16_r5l21 dem befelch, solche zu Mänglichs Nachricht
+#facs_16_r5l22 stentlich verbünden, und seines behörigen
+#facs_16_r5l23 Orts anschlagen, wie nicht weniger auch in den
+#facs_16_r5l24 Schloß Bücheren nachrichtlich einschreiben zu
+#facs_16_r5l25 laßen. Dat. d. 14. Aug. 1772.
+#facs_16_r5l26 Verordt
+#facs_17_r1l1 28.
+#facs_17_r1l2 Collati
+#facs_17_r2l1 Verordnung.
+#facs_17_r2l2 Wir Schultheiß Klein und Broße Räst
+#facs_17_r2l3 der Stadt und Respubli Bern, entbieten hiemit
+#facs_17_r2l4 allen und jeden Unsern Angehörigen zu Stadt
+#facs_17_r2l5 und Land, Unsern Gnädigen und Wohlgeneigten
+#facs_17_r2l6 Willen, und fügen anbey zu vernemmen
+#facs_17_r2l7 Demnach Wir in stäter Landesbäckerlicher Beher
+#facs_17_r2l8 zigung des Wohlseyns Unserer lieben und getrei¬
+#facs_17_r2l9 en angehörigen, nach der denenselben unterm
+#facs_17_r2l10 17ten Jenner diß Jahrs gegebenen trostlichen
+#facs_17_r2l11 Versicherung abermalen, über die Beschaffen¬
+#facs_17_r2l12 heit und den gegenwärtigen Zustand der
+#facs_17_r2l13 Viehzucht in Unseren Landen, und in wie beit
+#facs_17_r2l14 fornemlich auch in ansehen der Melchbüchen
+#facs_17_r2l15 und kalbeten, die Freyheit der Handlung.
+#facs_17_r2l16 wieder herzustellen seyn wolle; die näheren
+#facs_17_r2l17 Berichten einziehen, und solche uns vorlegen¬
+#facs_17_r2l18 laßen. Haben Wir (in so fern ein gleiches
+#facs_17_r2l19 von Lobl. Eidgnißischen Orten gegen denen
+#facs_17_r2l20 Unserigen wird verordnet und beobachtet
+#facs_17_r2l21 werden :/ Unsere ehevorige der Viehhandlung
+#facs_17_r2l22 halb ausgegangene Mandat, auch in diesem
+#facs_17_r2l23 Punkt zu milteren geruhet, und so wohl das
+#facs_17_r2l24 jenige was Wir in Ansehen der Viehhandlung
+#facs_17_r2l25 überhaubt unterm 17ten Januar dis Jahrs, als
+#facs_17_r3l1 29.
+#facs_17_r3l2 dermalen in betref der Melchbühen und
+#facs_17_r3l3 Kalbeten, ins besonders zu erkennen gut,
+#facs_17_r3l4 befunden, in gegenwärtige Verordnung zusammen
+#facs_17_r3l5 faßen laßen, wie von dem einten zu anderen
+#facs_17_r3l6 folget: Und zwar
+#facs_17_r3l7 I. Ansehend das große Mast- und Fette Vieh.
+#facs_17_r3l8 So soll der freye Kauf oder Handlung desselben
+#facs_17_r3l9 auf unseren öffentlichen Jahr- und Wochen¬
+#facs_17_r3l10 Märkten gestacket, dannethin jedermann
+#facs_17_r3l11 erlaubt seyn, dergleichen Waar zu seinem
+#facs_17_r3l12 Behelf anzukauffen, jedennoch bleibt fernerhi¬
+#facs_17_r3l13 verbotten, Mast Vieh auf aussere Märkte,
+#facs_17_r3l14 oder sonsten zum Verbauff aus dem Land zu
+#facs_17_r3l15 führen.
+#facs_17_r3l16 Sollen alle Unterhändler gänzlich abgestreb¬
+#facs_17_r3l17 und Verbotten, mithin die äußern Metzger
+#facs_17_r3l18 verbunden seyn, die nöhtige Mastwaar selb
+#facs_17_r3l19 sten anzubauffen, oder durch ihre gedingste Knecht¬
+#facs_17_r3l20 kaufen zu laßen.
+#facs_17_r3l21 Allen fremden und Äußern Mezgern und
+#facs_17_r3l22 Käufern soll gäntlich verborden seyn, einiger
+#facs_17_r3l23 MastVieh bey den Ställen und Häusern, auf
+#facs_17_r3l24 den Alpen und Weyden, noch auf den Straßen
+#facs_18_r2l1 anzubauffen, noch einichen Anord deßhalb zu treffen
+#facs_18_r2l2 sondern sie sollen lediger Dingen gehalten seyn,
+#facs_18_r2l3 solches auf Unsern öffentlichen Märkten zu
+#facs_18_r2l4 kaufen.
+#facs_18_r2l5 die Mezger Meistere so wohl Eidgnößische als
+#facs_18_r2l6 fremde, sollen gehalten seyn, die erkauffte
+#facs_18_r2l7 fecte Waar auf den öffentlichen Märbten allso
+#facs_18_r2l8 bald an die Hand zu nemen und abzuführen,
+#facs_18_r2l9 mithin ist ihnen verboten, solche wieder an das
+#facs_18_r2l10 Futer zu stellen, noch in unsern Landen wider
+#facs_18_r2l11 zu verbauffen. Hingegen die hiesigen Händler
+#facs_18_r2l12 und Unterthanen sollen ferner gehalten seyn,
+#facs_18_r2l13 die feite Waar, so sie in unseren Landen kauffe
+#facs_18_r2l14 vier Wochen, eher sie solche wider verbauffen
+#facs_18_r2l15 können, ob ihrem eigenen Füter zu halten
+#facs_18_r2l16 Das Zugrecht des Fecken und Mastwiehs, soll
+#facs_18_r2l17 den Mezger Meisteren Unserer Haubstadt allein
+#facs_18_r2l18 wider alle fremde, so nicht Eidgnoßen sind, und
+#facs_18_r2l19 auch die innern Händler und Fürbaüffer gestat¬
+#facs_18_r2l20 tet seyn.
+#facs_18_r2l21 Betreffend die Melchtüse und Kalbeten,
+#facs_18_r2l22 Soll auch derenthalb der freye Kauf oder
+#facs_18_r2l23 und Wochen
+#facs_18_r2l24 Handlung auf Unsern öffentlichen Jahr Märbten
+#facs_18_r3l1 31.
+#facs_18_r3l2 wider gestacket, und jedermann erlaubt seyn, der¬
+#facs_18_r3l3 gleichen Waar zu seinem Behelf anzukauffen,
+#facs_18_r3l4 Es bleibt aber fernershin verbocken, Melchbühe
+#facs_18_r3l5 und Kalbeten auf aussere Märbte oder sonsten
+#facs_18_r3l6 zum Verkauf aus dem Land zu führen
+#facs_18_r3l7 Allen Aüßeren und Fremden soll auch damit
+#facs_18_r3l8 hin gänzlich verboten seyn, Melchtühe oder
+#facs_18_r3l9 kalbeten bey den Ställen und Häusern,
+#facs_18_r3l10 auf den Alpen und Weyden, oder auf den
+#facs_18_r3l11 Straßen anzukauffen, noch auch einichen Anord¬
+#facs_18_r3l12 deßhalb zu treffen, und darmit auf eint oder
+#facs_18_r3l13 andere weis Fürbauff zu treiben, inmaßen
+#facs_18_r3l14 denen Eidgnoßen und Fremden auch dißorts
+#facs_18_r3l15 alle Unterhändler abgestrebt und verbotten
+#facs_18_r3l16 seyn sollen
+#facs_18_r3l17 III. Ansehend das magere Júgvies oder die so
+#facs_18_r3l18 genannte Lebwaar
+#facs_18_r3l19 So soll die freye Handlung und Ausführ alles¬
+#facs_18_r3l20 Mageren Zugvieht, oder der jungen und alten
+#facs_18_r3l21 Stieren, jederman erlaubt und gestattet seyn
+#facs_18_r3l22 IV. Die Kälber und Schaaste aber berührend
+#facs_18_r3l23 So ist unser Wille und Befehl, daß die Aus¬
+#facs_18_r3l24 fuhr derselben in anderwärtige Bockmäßigbein
+#facs_19_r2l1 und deren Verbauff an Eidgnoßen und Fremde
+#facs_19_r2l2 bey den Häuseren und Ställen, auf den Alpen
+#facs_19_r2l3 und Weyden, wie auch auf den Straßen un¬
+#facs_19_r2l4 Märbten, noch ferners verbocken seyn und ble¬
+#facs_19_r2l5 ben solle. Jedennoch denen Mehger Meistern
+#facs_19_r2l6 Lobl. Eidgnößischen Ständen, und ihren gedingten
+#facs_19_r2l7 Knechten fernerhin gestattend, auf Unseren
+#facs_19_r2l8 öffentlichen Jahr- und WochenMäckten, und
+#facs_19_r2l9 nicht bey den Ställen oder Häuseren, auf den
+#facs_19_r2l10 Alpen oder Weyden, noch auf den Straßen,
+#facs_19_r2l11 so wohl Kälber als Schaaffe, zum Gebrauch
+#facs_19_r2l12 ihrer Fleischbänken antauffen zu können; denn
+#facs_19_r2l13 Mezger=Meistern Unserer Haubtstadt gleich¬
+#facs_19_r2l14 oben bey der Mastbaar das Zugrecht gestatten
+#facs_19_r2l15 Jedoch mit dieser Einschränkung, daß der so
+#facs_19_r2l16 ziehen will, alsobald ziehe, den ganzen Kauf
+#facs_19_r2l17 wie solcher ergangen annemme, uns nicht um
+#facs_19_r2l18 Wann ein Stub, so ihme beliebig, auslese,
+#facs_19_r2l19 auch die Kauffsum baar erlege
+#facs_19_r2l20 Alles bey ohnabläßiger Straff der Confiscation
+#facs_19_r2l21 und einer Buß von Vierzig Pfunden von einem
+#facs_19_r2l22 großen Stub, und Fünf Pfund von einem Kalb
+#facs_19_r2l23 oder Schaaf, mit welcher die, gegen den eint¬
+#facs_19_r2l24 oder anderen Artibel dieser Verordnung wider
+#facs_19_r2l25 s haus
+#facs_19_r4l1 33
+#facs_19_r4l2 handlende, es seyen Kaüßere oder Verkäuf¬
+#facs_19_r4l3 fere, ohne schonen werden angesehen werde.
+#facs_19_r4l4 davon ein Drittel Uns, der andere dem
+#facs_19_r4l5 Amtsmann des Orts, und der dritte dem Ver¬
+#facs_19_r4l6 leider (nebst geheimhaltung seines Namens)
+#facs_19_r4l7 heimdienen soll.
+#facs_19_r4l8 Wornach sich nun Mänglich zu richten, uns
+#facs_19_r4l9 zu verhalten haben wird, Beben in Unser
+#facs_19_r4l10 Großen Rahts Versammlung den 14ten Aug. 1772.
+#facs_19_r4l11 Canzley Bern.
+#facs_19_r4l12 Traduction
+#facs_19_r4l13 Dous L'Avoyer Petit et Grand Conseil
+#facs_19_r4l14 de la Ville et Republique de Berne, a tous et à
+#facs_19_r4l15 chacun de Nos chers et feaux Citoyens, Sujets et Ref.
+#facs_19_r4l16 fortissants Salut, Savoir faisons
+#facs_19_r4l17 Que constamment occupés du Soin paternel de procurer
+#facs_19_r4l18 le bien et le plus grand avantage des dits Nos chers
+#facs_19_r4l19 et feaux sujets & Ressortissans, Nos avons en
+#facs_19_r4l20 exécution de l’assurance que Nous leur avons donné
+#facs_19_r4l21 en datte du 17me Janvier de cette Année, derechef fait
+#facs_19_r4l22 prendre et Nous rapporter les Informations les
+#facs_19_r4l23 plus exactes sur l'état présent de l'espèce & de la
+#facs_20_r3l1 und deren Verbauff an Eidgnoßen und Frem¬
+#facs_20_r3l2 bey den Häuseren und Ställen, auf den Alp
+#facs_20_r3l3 und Weyden, wie auch auf den Straßen¬
+#facs_20_r3l4 Märkten, noch ferners verbotten seyn und be¬
+#facs_20_r3l5 ben solle. Jedennoch denen Mezger Meister
+#facs_20_r3l6 Lobl. Eidgnößischen Ständen, und ihren geding
+#facs_20_r3l7 Knechten fernerhin gestattend, auf Unseren
+#facs_20_r3l8 öffentlichen Jahr- und Wochenmäckten, und
+#facs_20_r3l9 nicht bey den Ställen oder Häusern, auf d
+#facs_20_r3l10 Alpen oder Weyden, noch auf den Straßen
+#facs_20_r3l11 so wohl Kälber als Schaaffe, zum gebrauch
+#facs_20_r3l12 ihrer Fleischbänken ankaufen zu können; da
+#facs_20_r3l13 Mezger=Meistern Unserer Haubtstadt gleich
+#facs_20_r3l14 oben bey der Mastbaar das Zugrecht gestellt
+#facs_20_r3l15 Jedoch mit dieser Einschränkung, daß der se
+#facs_20_r3l16 ziehen will, alsobald ziehe, den ganzen Kauf
+#facs_20_r3l17 wie solcher ergangen anneme, und nicht mit
+#facs_20_r3l18 Wann ein Stuk, so ihme beliebig, auslese,
+#facs_20_r3l19 auch die Kauffsumm baar erlege¬
+#facs_20_r3l20 Alles bey ohnabläßiger Straff der Confiscation
+#facs_20_r3l21 und einer Buß von vierzig Pfunden von eine
+#facs_20_r3l22 großen Stub, und fünf Pfund von einem kalt
+#facs_20_r3l23 oder Schaaf, mit welcher die, gegen den eint¬
+#facs_20_r3l24 oder anderen Artibel dieser Verordnung wider
+#facs_20_r4l1 Collate
+#facs_20_r5l1 33
+#facs_20_r5l2 handlende, es seyen Kaüstere oder Verkäuf¬
+#facs_20_r5l3 fere, ohne schonen werden angesehen werde.
+#facs_20_r5l4 davon ein Drittel Uns, der andere dem
+#facs_20_r5l5 Amtsmann des Orts, und der dritte dem Ver¬
+#facs_20_r5l6 leider (nebst geheimhaltung seines Namens)
+#facs_20_r5l7 heimdienen soll.
+#facs_20_r5l8 Wornach sich nun Mäniglich zu richten, und
+#facs_20_r5l9 zu verhalten haben wird, Beben in Unser
+#facs_20_r5l10 Großen Rahts Versammlung den 14ten Aug. 1772.
+#facs_20_r5l11 Canzley Bern.
+#facs_20_r5l12 Traduction
+#facs_20_r5l13 Sous L'Avoyer Petit et Grand Conseil
+#facs_20_r5l14 de la Ville et Republique de Berne, à tous et à
+#facs_20_r5l15 chacun de Nos chers et feaux Citoyens, Sujets et Ref.
+#facs_20_r5l16 sortissants Salut, Savoir faisons.
+#facs_20_r5l17 Que constamment occupés du soin paternel de procures
+#facs_20_r5l18 le bien et le plus grand avantage des dits Nos chers
+#facs_20_r5l19 et feaux sujets & Ressortissans, Nos avons en-
+#facs_20_r5l20 exécution de l’assurance que nous leur avons donné
+#facs_20_r5l21 en datte du 17me Janvier de cette Année, derechef fait
+#facs_20_r5l22 prendre et Nous rapporter les Informations les
+#facs_20_r5l23 plus exactes sur l'état présent de l'espèce & de la
+#facs_21_r2l1 quantité de Bétail dont Nos Terres et Etats se trouvés
+#facs_21_r2l2 vent pourvus, & sur tout aussi sil convient au Pays
+#facs_21_r2l3 de retablir en quelque maniere la Liberté du Comerce
+#facs_21_r2l4 concernant les Vaches à-lait & les Genisses
+#facs_21_r2l5 C'est donc en conséquences de ces mêmes informations
+#facs_21_r2l6 à Nous parvenues & dans la supposition prealable,
+#facs_21_r2l7 que les autres Louables Cantons de la Confédération
+#facs_21_r2l8 Hélvetique prendront & rempliront de leur Côté les
+#facs_21_r2l9 mêmes engagemens envers nos sujets, que nous-
+#facs_21_r2l10 avons bien voulu mitiger aussi sur ce point Nos
+#facs_21_r2l11 précédens Mandato, & partant avons ordonné que
+#facs_21_r2l12 tant le contenu de Nôtre Ordonnance du 17me Janvier
+#facs_21_r2l13 de la présente année, concernant le Commerce du
+#facs_21_r2l14 Bétail en général, que ce que nous venons de décembre
+#facs_21_r2l15 par rapport à celui des Vaches à lait et Genisses en
+#facs_21_r2l16 particulier, soit rassemblé dans le présent Mandat
+#facs_21_r2l17 comme suit: Savoir
+#facs_21_r2l18 1 Pour ce qui est du gros Bétail soit des
+#facs_21_r2l19 Bêtes d'engrais, Entendons
+#facs_21_r2l20 En premier lieu, que la Liberté d'en trafiquer sera
+#facs_21_r2l21 permise de maniere qu'un chacun pourra faire
+#facs_21_r2l22 emplette aux foires annuelles et Marchés des Semai¬
+#facs_21_r2l23 nes de Nos Terres et Etats, d'autant de gros Bétail.
+#facs_21_r3l1 35.
+#facs_21_r3l2 soit de Bétes d'engrais qu'il lui en faudra; néanmoins
+#facs_21_r3l3 il restera défendu de conduire du gros Bétail soit des
+#facs_21_r3l4 Bètes d'engrais pour les y vendre, à des foires & marche
+#facs_21_r3l5 du dehors, ou de les faire sortir à ces fins du pays d'une
+#facs_21_r3l6 autre maniere.
+#facs_21_r3l7 Qu'en second lieu, l'intervention et l'usage de toute
+#facs_21_r3l8 espece d'entremetteurs soit commissionaire seront entre
+#facs_21_r3l9 rement interdits; en sorte que les Bouchers étrangers
+#facs_21_r3l10 seront tenus dacheter eux mêmes ou de faire acheter
+#facs_21_r3l11 par les Valets qui sont à leurs gages, les Bêtes
+#facs_21_r3l12 dengrais dont ils auront besoin.
+#facs_21_r3l13 Qu'en troisieme lieu, il ne sera pas moins défendu
+#facs_21_r3l14 à tout boucher et acheteur étranger de faire emplette
+#facs_21_r3l15 de quelque Bête d'engrais que se soit, vers les maisons
+#facs_21_r3l16 dans les étables ou écuries, aux alpes ou sur les
+#facs_21_r3l17 paturages, ainsi que sur les route & les chemins,
+#facs_21_r3l18 comme aussi de faire quelqu'accord que ce puisse être
+#facs_21_r3l19 pour de telles Aquisitions, en sorte qu'ils doivent être
+#facs_21_r3l20 tenus & Obliges de faire uniquement leurs achats, come
+#facs_21_r3l21 fus est dit, à Nos foires annuelles & Marchés des-
+#facs_21_r3l22 Semaines
+#facs_21_r3l23 En quatrieme lieu ces mêmes Maitres Bouchers
+#facs_21_r3l24 tant des Cantons Suisses que de l'étranger, devront
+#facs_21_r3l25 être tenus, dés les marchés mêmes, de prendre à citer
+#facs_22_r2l1 de se charger & demmener tout de suite les Bêtes d'engrais
+#facs_22_r2l2 par eux emplettées; partant il leur sera défendu de
+#facs_22_r2l3 les remettre à la créche, tout ainsi que de les revendre
+#facs_22_r2l4 dans Nos Pays
+#facs_22_r2l5 Par contre devront, en cinquieme lieu, les marchands
+#facs_22_r2l6 de bétail & les acheteurs du Nombre de nos sujets, être
+#facs_22_r2l7 obligés en outre de garder chez eux pendant quatre
+#facs_22_r2l8 semaines, et d'entretenir de leur propre fourage, les
+#facs_22_r2l9 Bètes d'engrais qu'ils auront acquises, et ne pourront
+#facs_22_r2l10 point les revendre auparavant
+#facs_22_r2l11 Ordonnons en Sixième lieu, que le droit de retraction
+#facs_22_r2l12 pour les Bétes d'engrais compétera uniquement aux
+#facs_22_r2l13 maitres Bouchers de Nôtre Capitale, contre tout étranger
+#facs_22_r2l14 qui n'est pas suisse, & les personnes qui en font
+#facs_22_r2l15 trafic, même ceux du Paÿs
+#facs_22_r2l16 II. Quant aux Vaches à-lait et Genisses
+#facs_22_r2l17 Voulons qu'aussi à leur égard la Liberté du Comerie
+#facs_22_r2l18 foie retabli, en sorte qu'un chacun pourra, en vertu
+#facs_22_r2l19 du present Nôtre Mandat, faire emplatte aux foires
+#facs_22_r2l20 annuelles et marchés des Semaines d'autant de Vaches
+#facs_22_r2l21 à-lait & de Genisses, qu'il lui en faudra; toute fois
+#facs_22_r2l22 il restera, comme par le passé, défendu de conduire
+#facs_22_r2l23 soit Vaches à lait foit genisses à des foires et marchés
+#facs_22_r3l1 37.
+#facs_22_r3l2 du dehors pour les y vendre, ou de les faire sortir à ces fin
+#facs_22_r3l3 du
+#facs_22_r3l4 Pays d'une autre maniere.
+#facs_22_r3l5 Défendons donc en conséquence à tout étranger, de
+#facs_22_r3l6 faire emplette d'aucune Vache à lait soit genisse.
+#facs_22_r3l7 vers les maisons, dans les étables ou curies, aux alpes
+#facs_22_r3l8 ou sur les paturages, ainsy que sur les route &c
+#facs_22_r3l9 chemins, & de faire à cet égard d'une maniere ou d'autres
+#facs_22_r3l10 le moindre monopole, vû qu'il est interdit & défendu
+#facs_22_r3l11 à tout étranger, les sujets des autres Cantons y compris
+#facs_22_r3l12 de se servir pour cet effet d'aucun entremetteur soit
+#facs_22_r3l13 Commissionaire
+#facs_22_r3l14 III. Concernant les Bêtes de trait Maigres,
+#facs_22_r3l15 y compris celles qu'on éléve pour cet effet
+#facs_22_r3l16 Nôtre Volonté est, que le Commerce & la sortie soient
+#facs_22_r3l17 libres, partant qu'un chacun puisse trafiquez avec
+#facs_22_r3l18 les Boeufs de tout Age, pourvû qu'ils soient maigres,
+#facs_22_r3l19 comme bon lui semblera.
+#facs_22_r3l20 IV. Par rapport aux Veaux et aux Moutons
+#facs_22_r3l21 par contre
+#facs_22_r3l22 Ordonnons & commandons, que la sortie de ce menubâtait
+#facs_22_r3l23 soit et demeure comme ci-devant interdite et défendue
+#facs_22_r3l24 et qu'on Sabstienne également de les conduire dans une
+#facs_23_r2l1 Jurisdiction étrangère, ou de les vendre à des étrangers
+#facs_23_r2l2 suisses ou autres, vers les maisons, les étables ou écuries,
+#facs_23_r2l3 aux alpes et aux paturages, de même que sur les chemins
+#facs_23_r2l4 & aux Marchés publics.
+#facs_23_r2l5 Permettons néanmoins en outre aux maitres Bouchern
+#facs_23_r2l6 des Louables Etats & Cantons de la Consideration
+#facs_23_r2l7 Helvétique, ainsi qu'aux Valets à leur Solde, dem¬
+#facs_23_r2l8 pletter à Nos foires publiques & à Nos Marchés de
+#facs_23_r2l9 Semaines, mais nullement devant les maisons, établis
+#facs_23_r2l10 en écuries, ni aux Alpes ou sur les pacquiers, non
+#facs_23_r2l11 plus que sur les route & les chemins, tant les veaux
+#facs_23_r2l12 que les Moutons qu'il leur faudra pour garnir les
+#facs_23_r2l13 atteliers de leurs boucheries: Sous la même reserve
+#facs_23_r2l14 cependant du droit de retraction en faveur des maitres
+#facs_23_r2l15 bouchers de Nôtre Capitale, come est contenu ci¬
+#facs_23_r2l16 dessus à l'article des Bêtes d'engrais; mais ce néanmoins
+#facs_23_r2l17 a Condition que le retractionnant fasse sa retraction
+#facs_23_r2l18 tout de suite, qu'il agrée l'achat tout entier, tel qu'ils
+#facs_23_r2l19 aura été convenu, sans en vouloir choisir seulement
+#facs_23_r2l20 quelque pièce à son gré, et qu'il paye comptant la
+#facs_23_r2l21 Somme Stipulée
+#facs_23_r2l22 Le tout sous peine de Confiscation, et d'une
+#facs_23_r2l23 amende de quarante Livres de nôtre Monnoye par
+#facs_23_r2l24 piéce de gros Bétail, et de cinq Livres pour un veau
+#facs_23_r3l1 39
+#facs_23_r3l2 Ou un Mouton; châtiment qui sera irremissiblement
+#facs_23_r3l3 infligé à tout transresseur de l'un ou de l’autre des
+#facs_23_r3l4 points & articles de la présente Ordonnance, qu'il soit
+#facs_23_r3l5 acheteur ou Vendeur: Et sera cette amende appli¬
+#facs_23_r3l6 cable pour un tier à Nôtre fise, pour un autre au
+#facs_23_r3l7 Baillif du lieu, et pour le troisieme au délateur
+#facs_23_r3l8 dont d'ailleurs le nom fera tenu secret.
+#facs_23_r3l9 Quant au Commerce du Bétail entre Nos
+#facs_23_r3l10 Sujets et ceux du Louable Canton de Frybourg,
+#facs_23_r3l11 Les choses resteront plus outre, à teneur du contenu de
+#facs_23_r3l12 l'ordonnance que Nous avons faite publier en datte
+#facs_23_r3l13 du 17. fevrier de la présente année, à l'entiere liberté
+#facs_23_r3l14 de ce genre de Comerce dont Nous sommes convenus avec
+#facs_23_r3l15 le dit Louable Etat, en autant que nous nous trouverons
+#facs_23_r3l16 cependant pas obligés /: come cela a été en partie necessaire
+#facs_23_r3l17 pour le présent de la partie de Nôtre Conseil de Santé./.
+#facs_23_r3l18 d'en suspendre l'effet, par raison de Maladie parmi le bétail
+#facs_23_r3l19 C'est sur quoi chacun saura regler sa Conduite
+#facs_23_r3l20 Ainsi fait et passé dans l'assemblée de Nôtre conseil
+#facs_23_r3l21 souverain le 14. jour du présent Mois daoût de l'an
+#facs_23_r3l22 de grace 1772.
+#facs_23_r3l23 Shancellerie de Berne

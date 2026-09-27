@@ -1,0 +1,74 @@
+Law ID: BER.01.001.1997
+Name: Passes halb in Burgund.
+
+#facs_4_r4l10 E
+#facs_4_r4l11 Lenzburg.
+#facs_4_r4l12 Montag den 4. maii
+#facs_4_r4l13 Königsfelden.
+#facs_4_r4l14 Schreikenberg.
+#facs_4_r4l15 Zinstag den 5. maii
+#facs_4_r4l16 Hiberstein.
+#facs_4_r4l17 Urburg. Mitwochen den 6. d
+#facs_4_r4l18 zoffingen.
+#facs_4_r4l19 Jangen
+#facs_4_r4l20 Birp. Donstag den 7. d
+#facs_4_r4l21 hreitag de 8 d
+#facs_4_r4l22 Urwangen.
+#facs_4_r4l23 landtssit.
+#facs_4_r4l24 frauwbrannen sambstag den 9. d
+#facs_4_r4l25 
+#facs_4_r4l26 Burgdorß.
+#facs_4_r4l27 Garberg montag den 1. d
+#facs_4_r4l28 Nydon w
+#facs_5_r1l1 seüren.
+#facs_5_r1l2 oste wesge  de
+#facs_5_r1l3 Johanser mit wochen den 13. d
+#facs_5_r1l4 Erlach
+#facs_5_r1l5 Arberg
+#facs_5_r1l6 Coupen Donstag den 14. do
+#facs_5_r1l7 Freitag den 15. d
+#facs_5_r1l8 heieisferg.
+#facs_5_r1l9 Bechsel
+#facs_5_r1l10 Brandis.
+#facs_5_r1l11 Signonw (sambstag den 16. d
+#facs_5_r1l12 Montag den 18. d
+#facs_5_r1l13 rachselwaldt.
+#facs_5_r1l14 hen
+#facs_5_r1l15 dinstag den 19. d
+#facs_5_r1l16 oberhoffen.
+#facs_5_r1l17 underslen.
+#facs_5_r1l18 Zeitwohen den 20. d
+#facs_5_r1l19 Interlacken
+#facs_5_r1l20 
+#facs_5_r1l21 gen
+#facs_5_r1l22 teut.
+#facs_5_r1l23 Sonstag den 21 d
+#facs_5_r1l24 Ammis
+#facs_5_r1l25 zweysimmen.
+#facs_5_r1l26 Janen 2 Frintag den 22. d
+#facs_5_r1l27 Allen.
+#facs_5_r3l1 1.
+#facs_5_r3l2 AIn wangen urwangen Erburg Schrikenberg,
+#facs_5_r3l3 Königsfelden Lenzburg Hiberstein Trachselwaldt
+#facs_5_r3l4 Huugg, arauw, Chillion, Lausanna alen, Nydonw
+#facs_5_r3l5 huren Arborg und Burgdorß
+
+#facs_5_r3l6 Paßes halb Imn Hergend.
+#facs_5_r3l7 Guldtheiß und raht der statt zern.
+#facs_5_r3l8 Wie hatten bereits underem 30 nov und 15 decemb 1673
+#facs_5_r3l9 der jreigen frömbden und leütschen völckeren halb, welche
+#facs_5_r3l10 sieübr über unsere landt in Hürgend marchiert auß gnug
+#facs_5_r3l11 sammen ursachen versechen und darumb die benelchen an etlich
+#facs_5_r3l12 unserer ambtleüthen abgelaßen, daß dieselbigen nit mehr
+#facs_5_r3l13 durchgelaßen ondern zreck gehalten werden solte. Wan
+#facs_5_r3l14 ein süthero solche faßes sperung von uns nit widerruefft
+#facs_5_r3l15 worden und aber dergleichen frömbde und leütsche volcker
+#facs_5_r3l16 In einen alsanderen weg, trouppes weiß durchkomen
+#facs_5_r3l17 sein sollen, Alß haben wir von gegen wertigen son
+#facs_5_r3l18 juncturen wegen solche faßes beschließung gegen obigen
+#facs_5_r3l19 sölckeren hiemit zuerfrischen nochtwendig funden, die
+#facs_5_r3l20 solchem nach breelchende, darob gefeißenlich zu halten und
+#facs_5_r3l21 Die eint und anderen diser leüthen zreikneweisen
+#facs_5_r3l22 Wie du hethen wëßen wirst. Gott mit dir
+#facs_5_r3l23 Datum 5 t aprili 1674.
+END

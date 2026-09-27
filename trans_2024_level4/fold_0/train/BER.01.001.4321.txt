@@ -1,0 +1,30 @@
+Law ID: BER.01.001.4321
+Name: Ihnen die getrukte Verordnung wegen Bestimmung dess Halts der Weinfuhrfass, und auch wegen den Güther Wägen zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 19/19
+# High similarity (>=50%): 18
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_161_r6l15 An
+#facs_161_r6l16 Alle Teutsch- und Weltsche Herren Amtleut, 4. Stätt¬
+#facs_161_r6l17 Freyweibel und Amen
+#facs_161_r6l18 Ihnen die getrubte Verordnung wegen Bestimmung
+#facs_161_r6l19 deß Halts der Wein fuhr, und auch wegen den
+#facs_161_r6l20 Güther Wägen zusenden,
+#facs_161_r6l21 Schultheiß und Raht P
+#facs_161_r6l22 In beygebogenen Exemplarien ist enthalten, die
+#facs_161_r6l23 Verordnung, welche Wir wegen Bestimmung des
+#facs_162_r3l1 Halts der Wein Fuhr Faßen, so wohl als aug¬
+#facs_162_r3l2 daß von den so genanten Last oder Güther¬
+#facs_162_r3l3 Wägen, duhrleüten, keine Anhenk- Wägen
+#facs_162_r3l4 gebraucht werden, zu conservation der Straßen
+#facs_162_r3l5 gemacht; Wir übersenden Euch solche mit
+#facs_162_r3l6 dem Befehl, selbige zu Mäniglichs Nachricht
+#facs_162_r3l7 offentlich von Canzlen publicieren, und gewohn¬
+#facs_162_r3l8 ter Orten anschlagen zu laßen, und hand¬
+#facs_162_r3l9 obzuhalten daß deren nachgelebt werde.
+#facs_162_r3l10 Dath. den 15ten Aug. 1771.

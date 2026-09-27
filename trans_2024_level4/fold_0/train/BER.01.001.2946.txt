@@ -1,0 +1,52 @@
+Law ID: BER.01.001.2946
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 41/41
+# High similarity (>=50%): 39
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_110_r1l1 208.
+#facs_110_r1l2 Collar
+#facs_110_r2l1 Thorberg, Fraulebrunnen, Landtshut
+#facs_110_r2l2 Vangen, anleongen, Bisch, Statt Zoffingen
+#facs_110_r2l3 Statt Araul, Biberstein, Sisenenberg
+#facs_110_r2l4 Statt Brugg, Statt Lensburg, Königs¬
+#facs_110_r2l5 Aldt Bürgdorff, Brand ist, Traffelwal¬
+#facs_110_r2l6 Sumis wold, Signaulo, biglen, Mün¬
+#facs_110_r2l7 singen, Erloch, Arberg, Büren, Nidaul,
+#facs_110_r2l8 St. Johansen, Briemißferg, Allenbeil,
+#facs_110_r2l9 fegenstorff, Thun, Lauppen, Schlier
+#facs_110_r2l10 Mühlidorff, Thurnen, Looffstetten,
+#facs_110_r2l11 Anderseen, Hinterlaten, Haßle,
+#facs_110_r2l12 in Weißlandt, zweysimmen, Wimmit
+#facs_110_r2l13 Davon, Prutingen.
+#facs_110_r2l14 Schuldthlis undt Raht der Statt Bern
+#facs_110_r2l15 Damit nach Unserem gefasten Entschluß
+#facs_110_r2l16 der undersuch und heüberung unserer
+#facs_110_r2l17 landen von dem Eine Zeit fero so
+#facs_110_r2l18 Heüfig versfürten überlesen,
+#facs_110_r2l19 schrömbden bättel gesindts seinen fort¬
+#facs_110_r2l20 gang geleinnen möge, habende
+#facs_110_r2l21 Wir dir /: gleich anderen Unseren Ambts
+#facs_110_r2l22 leüten 3. Landts :/ hiemit zubefehlen
+#facs_110_r2l23 gutfunden, die nach Unserem vormahligen
+#facs_110_r2l24 ausschieben bestelten Corporalen undt
+#facs_110_r2l25 Provesen, namblichen von Jede
+#facs_110_r2l26 departement Ein Corporat undt acht
+#facs_110_r2l27 Erafasen auf
+#facs_110_r2l28 E. I. Aug: allso vor
+#facs_110_r3l1 209
+#facs_110_r3l2 Unsere hiezu Verordnete Comission zuhalten
+#facs_110_r3l3 womit denenselben die benöstigte gleichr
+#facs_110_r3l4 undt Erforderliche Instruction zugestelt
+#facs_110_r3l5 werden können. Ja in ansehen deren besoldung
+#facs_110_r3l6 Ein jedes Departement selbige alle monath
+#facs_110_r3l7 durch Einen seiner bestelten Procesen
+#facs_110_r3l8 allhier bey Unserem alt Schuldtheise
+#facs_110_r3l9 Striger vor Burgdorff zu Empfahren haben
+#facs_110_r3l10 wirdt, deßen du hiemit zu seinen
+#facs_110_r3l11 verhalt benachrichtet wirst. Dat. 12. July

@@ -1,0 +1,93 @@
+Law ID: BER.01.001.2388
+Name: Verpott des Reiff- undt Lacoste Weins im Oberland undt underen Ärgäuw.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 82/82
+# High similarity (>=50%): 78
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_426_r4l1 1792
+#facs_426_r4l2 Thun, Oberhoffen, Interlaten, und erseren
+#facs_426_r4l3 Grutigen Wimmis, Arburg, Zoflingen
+#facs_426_r4l4 Arauw, Lintzburg, Brugg, Biberstein,
+#facs_426_r4l5 Sohenkenberg, Kongsfelden.
+#facs_426_r4l6 Verpott des Reiff- undt Lacato Weins
+#facs_426_r4l7 Oberland undt anderen gegänz¬
+#facs_426_r4l8 Schuldthuß vndt Raht der Statt Bern
+#facs_426_r4l9 weilen auch gedlorderen Landtwerkeit, als Vattern deßelben
+#facs_426_r4l10 billich obligt daß Sie die nöstige Vorsorg Thühind, daß dero
+#facs_426_r4l11 Enderthanen ins gemein nit nur mit nöhtigen Vnderhalt versehen,
+#facs_426_r4l12 sonderen auch ein Jedwedestheil des Landts bey denen Jenig
+#facs_426_r4l13 Einkunfften, erhalten, beschützt vndt beschiembt werde, ohne
+#facs_426_r4l14 Welches selbige nohtwendig zu grundt gehen müßte, gleich Wil¬
+#facs_426_r4l15 Vnsere Löbl. Regiments Verfahren bereits Ao 1628. solche
+#facs_426_r4l16 Vorsorg aller ohrten bliklen Laßen allso habend auch Wie vnd
+#facs_426_r4l17 säther zu vnderschidlichen mahlen, Vndt nach den 23. Febr. 20 Ap
+#facs_426_r4l18 675. sindt S. Marty 1685. Wider die debite mit mir deß
+#facs_426_r4l19 schenthaller Vndt Ällaßer als Landtsfrömbden, sondern auch des
+#facs_426_r4l20 Leiff- und La Coste Weins Im Oberland vndt Vnderen Engels das
+#facs_426_r4l21 nohtwendige Einsehen außgeschrieben: Wann aber Eine Zeit herr
+#facs_426_r4l22 Wie erfahren, daß Im Oberland nicht allein der frombde
+#facs_426_r4l23 schanthaller vndt Im argel der Elfaßer sonderen beider
+#facs_426_r4l24 den viel Greiff vndt La Costo einzuschleiben getrachtet wirt, so
+#facs_426_r4l25 ,, anderem nicht dienet, als daß die Hauslichen Vnderthanen der
+#facs_426_r4l26 Ende an dem Ihnen von Gott in Ihrem Land gegonnenen Einkommen
+#facs_426_r4l27 von Ihren Vndergang nachsich zrechenden schanden Leiden müßen
+#facs_426_r4l28 vndt die Vbrigen, denen solchen vom verkaufft zum Schwalge
+#facs_426_r4l29 Praßen Liederligkeit schlechter Haußhaltung geloket, vnd
+#facs_426_r4l30 schulden gestekt werden, dahero Wie die Verpietung der Reiff
+#facs_426_r4l31 vndt la Coste Weins vndt zuläßung des bey Ihnen Wachsenden
+#facs_427_r2l1 über gesunden Weins der Enden höchst nicht wenig
+#facs_427_r2l2 befunden, undt demnach erkent vndt gehabt haben,
+#facs_427_r2l3 vollend, daß der Aschenbhaller Vndt Ellsoße,
+#facs_427_r2l4 noch fürbaas gäntzlich verbotten sein Vndt bleiben, und
+#facs_427_r2l5 der Ryff- vndt La Coste Wein das als biß nach
+#facs_427_r2l6 Thun vndt Arburg oder zofnigen geferget, undt
+#facs_427_r2l7 Den Bürgeren daselbsten auch deßen dorthin zubringen
+#facs_427_r2l8 and
+#facs_427_r2l9 Vndt darmit an die Vorpottenen Ohet zu Handlen.
+#facs_427_r2l10 allerdings abgestricke sein solle, doch bleibet mit
+#facs_427_r2l11 Ausschließung der Pintenschenken den Tavernevirtzen
+#facs_427_r2l12 allein zugelaßen nach nohtdurfft für die frömbden
+#facs_427_r2l13 gäßt allein darmit sich zu versehen, alles bey streicht
+#facs_427_r2l14 der confiscation des Weins, so hierbeider eingeführt,
+#facs_427_r2l15 werden möchste. Wann aber der Eint oder and
+#facs_427_r2l16 diser gattung wein an frömbde ohrt Vnd Land
+#facs_427_r2l17 freyen undt daselbst hin verhandlen Wolte undt
+#facs_427_r2l18 selbigen durch diese Verpottene Bezirken fuhren müßt
+#facs_427_r2l19 bleibt Ihme die durchfuhr gestattet, allein daß sie
+#facs_427_r2l20 bey obgemelter Straaff der confiscation keines Im
+#facs_427_r2l21 terpottenen bezirk vnder diesen praetent zu detitieren
+#facs_427_r2l22 lichen, Vndt hiemit solchen Wein beim Eingang desselben
+#facs_427_r2l23 consigniren laßen solle, So wollend die auch daß
+#facs_427_r2l24 Der Ende kein Landtlein hingeferget, vndt keiner
+#facs_427_r2l25 für Ryff- vndt Lacoste Wein admittirt werden
+#facs_427_r2l26 Als der nach Vnserer Ordnungen mit dem Zeichen
+#facs_427_r2l27 gezeichnet bey obgemelter Straaff; Es werde
+#facs_427_r2l28 daß solcher von solchen herrn Vndt bürgeren har.
+#facs_427_r2l29 käme, die eigen Wein gewächs haben, als von
+#facs_427_r2l30 Welchen kein Zweifel getraagen Wirt.
+#facs_427_r3l1 1799.
+#facs_427_r3l2 wegen des nach Wimmis und in die Castlaney heutigen führen
+#facs_427_r3l3 Laagelbeins dan, lasßend wie Es bey dem vorigen belernde
+#facs_427_r3l4 dahin daß derselbe vermög voriger ordnungen, nur für Land
+#facs_427_r3l5 kein geschätzt, Vndt durch die Herren Ambtleubh hand darob
+#facs_427_r3l6 die Wallens aber daneben auch
+#facs_427_r3l7 C
+#facs_427_r3l8 erhalten werden soll.
+#facs_427_r3l9 jenigen genannden Vndt Dorffshafften so wenigelrechs an dem
+#facs_427_r3l10 Einten Vndt anderen ohrt haben, hiemit ernstlich insinuirt
+#facs_427_r3l11 haben. In dem Verkauff Vndt preiß Ihres gewächter, Ich
+#facs_427_r3l12 benachtahrte allso zuhalten, daß Sie darwider zu klaagen, vnd
+#facs_427_r3l13 wie disere Vnsere ordnung auffzuheben mit Vrsach habe
+#facs_427_r3l14 unnebens aber bleibs es ohne das in Ihrem gewalt stehen
+#facs_427_r3l15 van an dem Zeiten oder anderen Ohrt Sählsahe vndt
+#facs_427_r3l16 des Weins nit genug, oder derselbige zu Schelder were, nach
+#facs_427_r3l17 befinden Ryff oder La Coste Wein dorthin zu führen,
+#facs_427_r3l18 zu verwilligen. Diesere Vnsere Ordnung nun Wieszu von
+#facs_427_r3l19 um an durch anschlagende plaaard an den öffentlichen
+#facs_427_r3l20 plätzen Vndt Häusern anzuschlagen, darob geflißenlich
+#facs_427_r3l21 zuhalten Wüßen. Datum 19. Aug. 1687.

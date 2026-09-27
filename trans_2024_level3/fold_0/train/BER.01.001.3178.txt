@@ -1,0 +1,33 @@
+Law ID: BER.01.001.3178
+Name: Die Entzühung der Wahlen zu Decanatstellen etlicher Predigkanten verbiethen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 22/22
+# High similarity (>=50%): 21
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_1_r1l1 7
+#facs_3_r1l1 Qua Foelix, Faustumque Sit.
+#facs_3_r1l2 ReyPublicae Patriægs Nostrae.
+#facs_3_r1l3 An alle Dec flos Gütschen
+#facs_3_r1l4 Landts.
+#facs_3_r1l5 zu Decanatstellen
+#facs_3_r1l6 Die Entfühung der Wahlen etlicher
+#facs_3_r1l7 Predigkanten verbiethen
+#facs_3_r1l8 Schuldtheiß und Rhat der Statt Gärn etc.
+#facs_3_r1l9 Es will verlauten, als wann einiche Capituls¬
+#facs_3_r1l10 Brüder sich in vorfallenheiten der Wahl zu
+#facs_3_r1l11 verledigten Decanat=stellen, Es seyn Mittleß Einer
+#facs_3_r1l12 Summ Gellts oder In andern weg zu entziehen
+#facs_3_r1l13 suchen, welcher wir nit gezimmend befinden,
+#facs_3_r1l14 und derowegen Eüch gleich übrigen Capitlen hier=
+#facs_3_r1l15 durch bedüten wollen, by Erster ordinari ver¬
+#facs_3_r1l16 samlung unseren dißährtigen Willen dahin zu
+#facs_3_r1l17 Eröffnen, daß jederzeit Eine gnugsamme Wahl
+#facs_3_r1l18 von den Tüchtigsten ohne Einiche Bedingnus
+#facs_3_r1l19 vorgeschlagen und Uns zugeschitt werden solle,
+#facs_3_r1l20 Maßen Eüwerseits Zuthun wüßen werdet. Balt
+#facs_3_r1l21 31 January 1715

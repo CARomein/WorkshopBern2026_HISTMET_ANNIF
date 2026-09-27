@@ -1,0 +1,33 @@
+BER.01.001.2626
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 24/24
+# High similarity (>=50%): 23
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_124_r2l14 An alle Ihr Ambtleüt, Item
+#facs_124_r2l15 Sarnen, Arberg, Jüren, Nydaulo,
+#facs_124_r2l16 Erlach, und Wangin.
+#facs_124_r2l17 Ihre Vnderthanen Verwahrnen, von den
+#facs_124_r2l18 Braugösischen Ausreiseren keine pferdt
+#facs_124_r2l19 noch Equipages an sich zuhandlen.
+#facs_124_r2l20 Schultheiß Undt Raht der Statt Pern,
+#facs_124_r2l21 de la
+#facs_124_r2l22 Von Ihr Excit dem Französischen von Ambas¬
+#facs_124_r2l23 sadoren ist Unß klagens einkommen, daß Unserer
+#facs_124_r4l1 236
+#facs_124_r4l2 Vnderthanen seyens, die sich gelusten lassend der Fran¬
+#facs_124_r4l3 zösischen Außreiseren pferdt und Equipages an sich
+#facs_124_r4l4 zuhandlen. Wie nun seit langer Zeit abgeredt, daß
+#facs_124_r4l5 zwar so vill die Persohnen betrifft, dieselben loßgelassen,
+#facs_124_r4l6 die pferdt und Equipages aber sollindt denen nachzagen
+#facs_124_r4l7 den verabfolget, und zuruck gegeben werden; Als
+#facs_124_r4l8 habens Wir durch gegenwärtiges aus schreiben hirmi
+#facs_124_r4l9 weniglich dessen berichten, und verwahrnen wollen,
+#facs_124_r4l10 beine dergleichen sachen zuerhandlen fehls auch
+#facs_124_r4l11 den Außreiseren nachgesagt wurde, Ihnen die pferde
+#facs_124_r4l12 und Equipages abzunemmen, und zuruck zugeben;
+#facs_124_r4l13 welcher du hiemit zu Mänigklichs nachricht und
+#facs_124_r4l14 verhalt publicieren lassen solst. Datum 15. Julii. 1696.

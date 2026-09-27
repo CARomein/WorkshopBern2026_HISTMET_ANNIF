@@ -1,0 +1,113 @@
+Law ID: BER.01.001.2391
+Name: Einen Bättag ausschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 102/102
+# High similarity (>=50%): 97
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_428_r3l5 An Alle Teutsche vnd Weltsche Ambtleuth
+#facs_428_r3l6 Stätt Freÿleibel Vndt Ammann etc. Item
+#facs_428_r3l7 I même ambter Vndt Ny
+#facs_428_r3l8 Wegen Teßenbergs, Fraulebrunnen vndt
+#facs_428_r3l9 Lantzhuth vndt büren wegen Buchenbergs
+#facs_428_r3l10 sein battaag ausschreiben
+#facs_428_r3l11 o-
+#facs_428_r3l12 Löbl. Evangelischen Ständen Vndt Ohrten der
+#facs_428_r3l13 Von dem
+#facs_428_r3l14 Gdlynößschafft, ist ein abermahliger Saß, Teyr, biß Vndt
+#facs_428_r3l15 billang angesehen, undt zuhalten Verglichen worden, auff Donstaan
+#facs_428_r3l16 den 24. Wintermonats nächst könfftig: deßen Wir dich, Wie
+#facs_428_r3l17 Vnseren Landen Vberaal beschuht, hiemit berichten wollen, vmb
+#facs_428_r3l18 c.
+#facs_428_r3l19 denselben durch publication von Cantzlen aller ohrten deiner
+#facs_428_r3l20 Verwaltung kundt zemachen damit unsere Kirchendiener
+#facs_428_r3l21 Wie auch Todes rechtgläubiges Hertz darzu sich beyzeiten vorzube¬
+#facs_428_r3l22 reiben Wüßen datum 7. 7bris. 1687.
+#facs_428_r3l23 Tracffelwald, buren, bipp, Arberg, Vangen,
+#facs_428_r3l24 Nydouw Gurnen, Neus, Milden, Patterlingen,
+#facs_428_r3l25 Vyblisfurg, aslen, Morsée Oron, Chillon,
+#facs_428_r3l26 Romainmostier pferten
+#facs_428_r3l27 Die Exstantzen Umb armatur zu zahlen
+#facs_428_r3l28 Schff. Vndl Raht der Statt bern
+#facs_428_r3l29 Wie sindt durch unseren Hiegeliebten Willraht Teutsch Sekelmeister
+#facs_428_r3l30 Tillier Zelt Zeugherren berichtet worden, daß vmb armatur
+#facs_429_r2l1 so auß dem Zeughauß in dem Ambtverschikt
+#facs_429_r2l2 worden zu bezahlen (vß stehe oder seye, wie in der
+#facs_429_r2l3 Verzeichnus zusehen) dieweilen nun Mann Im Zeüghaus
+#facs_429_r2l4 zu anderer wahr vndt erforderlichen außgraben
+#facs_429_r2l5 des gelts bedarff, als wollend wir die Ernst¬
+#facs_429_r2l6 neinlichen befolchen haben die Zahlung biß auff
+#facs_429_r2l7 nechstkönfftigen Martini auffs längst zu über-
+#facs_429_r2l8 machen zu dem Endt, mit denen die es angehe¬
+#facs_429_r2l9 Will zu reden undt bis auff bestimbten
+#facs_429_r2l10 Zeit, Waß Jeder schuldig sein mag, fleißig¬
+#facs_429_r2l11 zubeziehen, mit bedeuten gegen denen so saumbselig
+#facs_429_r2l12 sein Wolten, daß Sie mit längerer Verzeühung
+#facs_429_r2l13 Die oberkeibliche ohngnad auff sich ziehen Werd ins
+#facs_429_r2l14 Gott mit die. Datum 14. 7bris. 1687.
+#facs_429_r2l15 An Alle Teutsche und Weltsche
+#facs_429_r2l16 Ambtleüth 4. Statt, Freybeibel
+#facs_429_r2l17 vndt Amman
+#facs_429_r2l18 Die auffgangenen Costen halb mit den Pietmonteseren
+#facs_429_r2l19 Eine Verzeichung Harzuschike,
+#facs_429_r2l20 Schs. undt Raht der statt Bern etc.
+#facs_429_r2l21 Auff den Evangel. Arabischen Conferentzen Werde
+#facs_429_r2l22 allwegen von Zürich Lobl. Stätten zürich undt
+#facs_429_r2l23 Schaffusen der Erulanten halb gar hohe rechnung
+#facs_429_r2l24 vorgelegt, Vndt darauf durch von Uns namhaffte Summen
+#facs_429_r2l25 nachgeforderet, Wie nun Wie abermahlen Wohl
+#facs_429_r2l26 abmerken können, daß dieselben bis auff den
+#facs_429_r2l27 geringsten Haller, so auß dem publico vndt particular
+#facs_429_r3l1 803.
+#facs_429_r3l2 auch disere Leuth verwendet wirt, alles ansetzen, als findend
+#facs_429_r3l3 wie Uns benöhtiget, Vnsere rechnungen fürs könfftige auff gleiche Weil
+#facs_429_r3l4 Einzurichten. Wollend allso demnach die hiemit befolchen haben, deßen, so
+#facs_429_r3l5 die in deinem particulari, oder deme Ambtsanghörige, Es seyen die
+#facs_429_r3l6 gemeinden ins gesambt, oder jeder gineins groß ins besonder mit nahe
+#facs_429_r3l7 Kleide undt Fuhrungen, oder mit freywilliger Auffnahm, Beherberg.
+#facs_429_r3l8 Vndt erhaltung gegen disen Leuthen gethan haben möchtet eigentlich
+#facs_429_r3l9 zu inquiriren, Undt Vns forderlich zu berichten, damit Wir auff be¬
+#facs_429_r3l10 vorstehende Conferentz Vnsere rechnung auch zustellen, weß ind¬
+#facs_429_r3l11 Gott mit Dir. Dat. 24. 7bris. 1687.
+#facs_429_r3l12 Hasseler
+#facs_429_r3l13 Nünsigen, Inverlaken, Underseen
+#facs_429_r3l14 Fertigen, Saanen, Ostermundigen, Versigen
+#facs_429_r3l15 Signouw, Brandis, Tracffellbald, Stettlen
+#facs_429_r3l16 Nydoun
+#facs_429_r3l17 Brienisperg, Arberg, Büren,
+#facs_429_r3l18 vangen.
+#facs_429_r3l19 Johan: Inful, Thorberg.
+#facs_429_r3l20 Erlac
+#facs_429_r3l21 Traubrannes
+#facs_429_r3l22 Landtshath
+#facs_429_r3l23 bix
+#facs_429_r3l24 Arwangen
+#facs_429_r3l25 bron
+#facs_429_r3l26 Pätterlinges, Wilden,
+#facs_429_r3l27 Wibliffurg
+#facs_429_r3l28 Romainmostier
+#facs_429_r3l29 1.° 2
+#facs_429_r3l30 Morsee
+#facs_429_r3l31 Causanne
+#facs_429_r3l32 Chillon
+#facs_429_r3l33 vndt Ifferte
+#facs_429_r3l34 Nachmahlen zuberichten, waß vor Umb Cösten Ihre
+#facs_429_r3l35 Ambtsangehorigen gehabt mit denen Vertribenten Glaubens großen
+#facs_429_r3l36 Schr. Vndt Raht der Statt Bern
+#facs_429_r3l37 Waß Wir Vnderm 24. 7bris. Jüngsehin die zugeschrieben, das Wiestu
+#facs_429_r3l38 Metz Zweiffels ohn Wohl empfangen haben Wann nun Vnd darüber biß dato
+#facs_429_r3l39 kein Antwort eingelanget, als befelchend wie die nochmahlen aber
+#facs_429_r3l40 Ernsts demselbigen Statt Vndt genug zethun zu dem Endt dich mit allen
+#facs_429_r3l41 erforderlichen fleiß zu inquiriren, Wie viel Ein Jede gewund auch
+#facs_429_r3l42 particularen in deiner Ambts Verwaltung von Vnseren Vertribuen
+#facs_429_r3l43 l’autre du mois des
+#facs_429_r3l44 glaubens großen Von Zeit zu zeit auffgenommen, Wie Lang Sie derselben
+#facs_429_r3l45 behalten, vndt waß Sie mit denenselben Vndt den durchpassirten für Cösten mit
+#facs_430_r2l1 Nahrung, Fuhrung Kleidung undt Anderem außer
+#facs_430_r2l2 der Collect gehabt, volgends alles zusamen in Ein ordenlich
+#facs_430_r2l3 Rechnung zebringen, Undt Uns förderlichst zu überschreiben
+#facs_430_r2l4 Wie wir vns versehend. Datum 20. 8bris. 1687.

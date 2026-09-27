@@ -1,0 +1,109 @@
+Law ID: BER.01.001.3186
+Name: Die Underthanen zum Gebrauch der ausseren Hängsten anmahnen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 98/98
+# High similarity (>=50%): 96
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_15_r3l16 Erlebach Mitwochen und Frytags d. 29. und 31. May
+#facs_15_r3l17 Weysenbach ob Volltigen Samstags d. 1. Juny
+#facs_15_r3l18 zweysimmen Montags und Zinstags d. 3. und 4. Juny
+#facs_15_r3l19 Mühlenen, Dienstags und Frytags den 6. und 7. Juny
+#facs_15_r3l20 Frutigen, Samstags vnd Montags d 8. und 10. Juny.
+#facs_15_r3l21 Hinderlaaken Mitwochens den 12. dto
+#facs_15_r3l22 Oberhoofen, Frytags d. 14. dto.
+#facs_15_r3l23 An Alle Freyweibel und Ammach
+#facs_15_r3l24 In den 4. Landtgrichten,
+#facs_15_r3l25 Item Thun, Interlaaken und
+#facs_15_r3l26 Wimmis
+#facs_15_r3l27 Schuldtheiß und Schät
+#facs_15_r3l28 die Unterthanen zum Gebrauch der
+#facs_15_r3l29 aüßeren hängsten anmahnen
+#facs_15_r3l30 Weilen während Vßeren Kriegsläuffen durch kein
+#facs_15_r3l31 Mittel mehrers Gellt in Unsere Land gebracht worden.
+#facs_16_r2l1 Alle aber durch verkauff und Abgang der Pferdte
+#facs_16_r2l2 demalen aber by anscheinendt allgemeinen
+#facs_16_r2l3 Frisen nit vnbillich zu förchten, daß der Verkaufs=
+#facs_16_r2l4 der Pferdten gehemmet, und der abgang derselbe
+#facs_16_r2l5 Einen Anstand gewinnen werde, welchen Fahls
+#facs_16_r2l6 Dann auch sonderlich zu besorgen, daß wann nit
+#facs_16_r2l7 getrachtet werden sollte, selben zu begegne¬
+#facs_16_r2l8 Vnd In der Zeith Mittel an die Hand zu Nemme
+#facs_16_r2l9 Wie fürtershin das Gellt von Vßeren ohrten her¬
+#facs_16_r2l10 Ins Land zu bringen, das gantze Land in disen
+#facs_16_r2l11 sonst so erfreürlichen und Erwünschten Friedenszeit
+#facs_16_r2l12 In grösten Jammer und Armuth verfallen dörffte,
+#facs_16_r2l13 Inmaßen Wir dann Neben anderen Vorkehrende
+#facs_16_r2l14 Vorsehungen Ein Thunliches Mittel und dem gantzen
+#facs_16_r2l15 Claus Ersprießlich zu sein Erachten, wegen des ohrten
+#facs_16_r2l16 bequeme eine solche schöne Pferdtzucht in hiesigen
+#facs_16_r2l17 Landen aufzurichten, das der abgang der Pfer¬
+#facs_16_r2l18 desto mehr Facilitiert, und zu großem Vortheil
+#facs_16_r2l19 aller Unser getreuwen Lieben angehörigen in mehrer
+#facs_16_r2l20 und höhere Loosung gebracht werden könnendt
+#facs_16_r2l21 Dahero wir dan auch Unserseits an Cösten Nichts
+#facs_16_r2l22 erspahret, Sondern durch einen Nahmhafften verla¬
+#facs_16_r2l23 Oberkeitl. gellteren die Sachen dahin verleitet
+#facs_16_r2l24 daß eine anzahl Frömder und Schöner ausern
+#facs_16_r2l25 hängsten Eingekaufft und allhoro Ins Land ge¬
+#facs_16_r2l26 bracht werdnis; Wann nun an Nichts Mehr Er¬
+#facs_16_r2l27 windet, dann daß Unsere dem Land so ersprießlich
+#facs_16_r2l28 Intention auch durch Unsere Getreuwe Liebe ange¬
+#facs_16_r3l1 Einzig
+#facs_16_r3l2 Et
+#facs_16_r4l1 27
+#facs_16_r4l2 angehörige Understützet, und durch zu führung Ihrer
+#facs_16_r4l3 schönen Mutter Pferdten Ins werk gerichtet werde,
+#facs_16_r4l4 wie Wir dann würklichen die Anstalt verfüget,
+#facs_16_r4l5 daß an Vnderschidenlichen Ohrten und Dorff schafften
+#facs_16_r4l6 obgemeldte Frömde hängsten außgestellt und zum
+#facs_16_r4l7 gebrauch Vnder Bezahlung billichen Springellts darge¬
+#facs_16_r4l8 geben werdind./. Alls thundt wir dich deßen
+#facs_16_r4l9 dahin benachrichtigen, umb nit nur alle in deinen
+#facs_16_r4l10 bezirk sitzende Underthanen Zum Gebrauch obgedü¬
+#facs_16_r4l11 ter hängsten anzumahnen, sondern auch selbe
+#facs_16_r4l12 bestens vorzustellen, daß weilen solches lediglich
+#facs_16_r4l13 zu deß gemeinen Landts und Jeglichen
+#facs_16_r4l14 Particularen, Eigenem Nutzen und Mehreren
+#facs_16_r4l15 vnd Vorthel angesehen, woraus für dann kein
+#facs_16_r4l16 Sonderen Ihnen und allein der Profit zu kommt
+#facs_16_r4l17 Selbe von Selbsten alles das Jenige by tragen
+#facs_16_r4l18 werdens, was zu solchem gedeylichen zwek-
+#facs_16_r4l19 zulänglich und das durch folgleistung erfreüerlich
+#facs_16_r4l20 sein Mag. Deßen wir vns dan versehen
+#facs_16_r4l21 haben wollend. Dat d. 11. May 1715.
+#facs_16_r4l22 An alle Decanus Thütschen
+#facs_16_r4l23 Landts
+#facs_16_r4l24 Die Besatzung der Pfründen Staufberg
+#facs_16_r4l25 und grindelwald ausschreiben.
+#facs_16_r4l26 Schuldtheis und Rhath
+#facs_16_r4l27 Weilen durch absterben des Predigkanten
+#facs_16_r4l28 Beelmatters ab dem Stauffberg, und befürderung
+#facs_17_r1l1 28
+#facs_17_r1l2 des Predigkanten Hallers Im Grindelwald
+#facs_17_r1l3 thane Pfründen in Verledigung gerahten, als
+#facs_17_r1l4 wollend wir Eüch befohlen haben, solches den
+#facs_17_r1l5 Capitularen Eÿwers Bezirks wüßend zu Machi
+#facs_17_r1l6 Damit die dahin pretendierenden Ihre gen
+#facs_17_r1l7 Innert bestimmter Zeith gewohnter Maßen über=
+#facs_17_r1l8 schreiben und behörigen ohrts Einschiken könne,
+#facs_17_r1l9 Dat 4 13. May 1715
+#facs_17_r1l10 P. S. Bereits vor Etwas zeits hattendt Wir allenden
+#facs_17_r1l11 Vnsers Tütschlandts anbefehlen laßen, wann
+#facs_17_r1l12 Zuert Ihrem Capitulsbezirk, wann Innert Ihrer,
+#facs_17_r1l13 Capituls bezirt ein Pfrud in Verledigung fall
+#facs_17_r1l14 wurde, alls dann nur den Umbständtl. Bericht
+#facs_17_r1l15 Vnd Beschaffenheit der Gineind und Zustand
+#facs_17_r1l16 derselben zu überschreiben, damit wir vns
+#facs_17_r1l17 in widerverschung Sothaner Pfrud mit find
+#facs_17_r1l18 anderwärtigen Seelsorger desto beßer darna
+#facs_17_r1l19 richten kommendt, wan aber solches von Eint Ver
+#facs_17_r1l20 anderen underlaßen worden, alls habend ich
+#facs_17_r1l21 Euch frischer Dingen befehlen wollen, solchem in
+#facs_17_r1l22 Euch ohne Fehler zu Conformieren und aber
+#facs_17_r1l23 dut verhelltenden Bericht und allwegen
+#facs_17_r1l24 zu überschreiben. Datum ut in Litteris

@@ -1,0 +1,306 @@
+Law nr: BER.01.001.4574
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 295/295
+# High similarity (>=80%): 275
+# Low similarity (<80%): 20
+# Not found: 0
+#
+#facs_28_r4l1 Coll
+#facs_9_r6l1 33
+#facs_260_r5l8 alle deutsche und welsche Herren
+#facs_137_r4l13 Amtleute, Vier Städte, drey Weibel
+#facs_174_r4l4 Anmann, denne per Zedel an die hier
+#facs_174_r4l5 sige Cäufel und per Placcards.
+#facs_174_r4l6 Die Jags betreffend:
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_174_r4l8 Da der verfloßene harte, bonso langen
+#facs_174_r4l9 lauer gebesene Winter, nicht nur den
+#facs_174_r4l10 heurigen Säet der Sommer Fruchte sehr
+#facs_174_r4l11 Erspätet, wordurch auch die Ernde der
+#facs_174_r4l12 selben beozögert wird, sondern auch dem
+#facs_174_r4l13 Gewild und instonderheit den Vogeln
+#facs_174_r4l14 einen beträchtlichen Schaden verunstachet.
+#facs_174_r4l15 hat; so haben Wir aus Landesbätterlicher
+#facs_174_r4l16 Vorstorge gut gefunden, für dieß Jahr
+#facs_174_r4l17 die Tage und das Vögel schießen zu
+#facs_174_r4l18 rückzusehen, so daß Jedermann beibotten
+#facs_174_r4l19 seyn soll, vor könftigem Michaeles
+#facs_174_r4l20 unges Gebild oder Geflügel /: mit Aus¬
+#facs_174_r4l21 nahm jedoch der schon vorhin nicht
+#facs_174_r4l22 darunter begriffen gewesenen Raub
+#facs_174_r4l23 und anderen schönlicher Vögel :/ zu
+#facs_174_r4l24 schrüßen oder auf irgend eine andere
+#facs_174_r4l25 Weise demselben nachzustellen, und also
+#facs_136_r2l28 die
+#facs_175_r1l1 339.
+#facs_28_r4l1 Coll
+#facs_175_r3l1 die beschloßene Zeit, unter den in
+#facs_175_r3l2 Unserer Jäger-Ordnung gegen die
+#facs_175_r3l3 Wiederhandlenden bestimten Strafen
+#facs_83_r3l6 en
+#facs_175_r3l5 bis auch gemelten Tag fort dem
+#facs_175_r3l6 wll. Deßen Ihr berichtet wer¬
+#facs_175_r3l7 det um diese Unsere Verordnung
+#facs_175_r3l8 behörig bekannt machen zu laßen,
+#facs_175_r3l9 und zu achten, daß solch Unserm
+#facs_175_r3l10 Wille nachgelebt werde. Datum d. 11.
+#facs_175_r3l11 July 1785
+#facs_83_r3l6 en
+#facs_175_r3l12 An alle deutsche und welsche
+#facs_175_r3l13 Herren Amtleute, vier Stäult¬
+#facs_175_r3l14 Tribel und Ammann – denne an die
+#facs_175_r3l15 Herren Amts Stattsalter zu Istcherlitz
+#facs_175_r3l16 den H. Landschreiber zu Schwarzenburg
+#facs_175_r3l17 Lieutenant Ballwal zu Grandfou, und Rath
+#facs_175_r3l18 halten zu Mueten
+#facs_175_r3l19 Báttag auf den 8ten 7ber 1785.
+#facs_175_r3l20 Schultheiß und Rathen.
+#facs_175_r3l21 Es hat eine Lobl. Evangelische Eydigmaß¬
+#facs_175_r3l22 schaft wiedermahlen einen Allgemeinen
+#facs_175_r3l23 fast = Buß = Batt= und Dankstagungs-Tag
+#facs_87_r3l17 Auf
+#facs_175_r4l1 340
+#facs_175_r4l2 auf Donstag den 8ten Herbstmonat nächst
+#facs_175_r4l3 könftig bestimt; damit nun diese
+#facs_175_r4l4 Feyrliche Tag auf eine angemessene
+#facs_175_r4l5 Weise in Unseren Landen ofentlich
+#facs_175_r4l6 verbündet werde; befahlen Wir Euch
+#facs_175_r4l7 von beygehender Publication jedem Pfarr¬
+#facs_175_r4l8 er in Eurem Amt Förderstamst an
+#facs_175_r4l9 Roppel mit dem Befehl zu übersenden.
+#facs_175_r4l10 solche Publication ohnfehlbahrlich Dontag
+#facs_175_r4l11 Morgens den 21ten August von der Pre¬
+#facs_175_r4l12 ligt von der Canzel zu verlisten, zu
+#facs_175_r4l13 welchem Ein eine genügstamme Anzahl
+#facs_175_r4l14 Exemplar bey gefüegt werden. Datum d. 14
+#facs_175_r3l11 July 1785
+#facs_45_r3l7 Nydau. Ihr werdet auch veranstalten
+#facs_175_r4l17 gewohnter maßen Thun, daß dieser däten
+#facs_175_r4l18 Tag in dem Münstethal verbundet – und
+#facs_175_r4l19 gefeyret werde.
+#facs_235_r7l10 Fraubrunnen, Buren und Landshut,
+#facs_45_r3l12 Ihnen wegen des Bucheggbergs gleiches.
+#facs_175_r4l22 befohlen.
+#facs_45_r3l15 Königsfelden. Dabey Ihr auch wegen
+#facs_175_r4l24 Bebistorf und Birmistorf das nötige Im
+#facs_175_r4l25 Sigirung dieses Tags anordnen werden.
+#facs_176_region_1633454859469_2949l1 341
+#facs_31_r5l15 Publication
+#facs_36_r3l7 Schultheiß und Rath
+#facs_176_region_1633454865069_2955l2 der Stadt und Republib Bern, entbieten
+#facs_176_region_1633454865069_2955l3 Unsern Lieben und getreuen Bürgeren und
+#facs_176_region_1633454865069_2955l4 Angehörigen zu Stadt und Land Unsern
+#facs_111_r1l4 teren gnädigen und geneigten Willen und
+#facs_176_region_1633454865069_2955l6 geben ihnen dabey zu vernehmen
+#facs_45_r4l4 daß Wir gemeinschaftlich mit den
+#facs_176_region_1633454865069_2955l8 übrigen Evangelischen Ständen der
+#facs_176_region_1633454865069_2955l9 Lobl. Eid genoßschaft, einen allgemeinen
+#facs_176_region_1633454865069_2955l10 fast, duß- Pät- und Danbstagungs¬
+#facs_176_region_1633454865069_2955l11 Tag anzusehen und auszuschreiben beschloßen
+#facs_176_region_1633454865069_2955l12 haben, auf Dienstag den 8ten Herbst
+#facs_176_region_1633454865069_2955l13 monats nächst künftig, welchen Heil¬
+#facs_176_region_1633454865069_2955l14 samme zu feyren, Wir jedermann,
+#facs_176_region_1633454865069_2955l15 zu Stadt und Land Hochoberbritlich wollen
+#facs_176_region_1633454865069_2955l16 aufgefordert haben, aus Überzeugung
+#facs_176_region_1633454865069_2955l17 Wie wenig auch Unsere Wohlgemeinen
+#facs_176_region_1633454865069_2955l18 testen Landes väterlichen Vorbehängen
+#facs_176_region_1633454865069_2955l19 vermöchten, wenn der Gott des Hun¬
+#facs_176_region_1633454865069_2955l20 mels und der Erde aufhörte, uns
+#facs_176_region_1633454865069_2955l21 Gnädig zu seyn.
+#facs_176_region_1633454865069_2955l22 Von schreiben zu dem Ende die¬
+#facs_176_region_1633454865069_2955l23 sen fegerlichen Tag durch alle Uns
+#facs_2_r1l1 St.
+#facs_176_region_1633454872302_2961l1 342
+#facs_176_region_1633454869982_2958l1 tive Lande aus, damit Inbermann alles
+#facs_176_region_1633454869982_2958l2 Ernsts von Gott überlege, ob bey dem uns
+#facs_176_region_1633454869982_2958l3 merfort zunehmenden Verfall das
+#facs_176_region_1633454869982_2958l4 Christen Thums, der sich so deutlich in der
+#facs_176_region_1633454869982_2958l5 ungeschentesten Entbrechung des Sonntags
+#facs_176_region_1633454869982_2958l6 und in der sichtbarsten Abnahm das öffent¬
+#facs_176_region_1633454869982_2958l7 lichen Gottesdienstes zeigt – Ob bey den
+#facs_176_region_1633454869982_2958l8 stets mehr überhand nehmendem Lasten
+#facs_176_region_1633454869982_2958l9 der Verführung.
+#facs_176_region_1633454869982_2958l10 von des Ehebruchs, der Hunerey und
+#facs_176_region_1633454869982_2958l11 nun bald alle ihre Strafbarbeit und Schäus¬
+#facs_176_region_1633454869982_2958l12 lichkeit in den Augen vieler belohren zu
+#facs_176_region_1633454869982_2958l13 haben scheinen — ob bey dem im auf¬
+#facs_176_region_1633454869982_2958l14 haltst einen einreißenden Hang zur
+#facs_176_region_1633454869982_2958l15 Pracht und Verschleidung, der sich
+#facs_176_region_1633454869982_2958l16 um auch in die bis dahin noch im ange¬
+#facs_176_region_1633454869982_2958l17 stabt gebliebenen Gegenden Unters Lan¬
+#facs_176_region_1633454869982_2958l18 des Heiberitet – ob bey dem immer all¬
+#facs_176_region_1633454869982_2958l19 gemeiner Wardenden, alle Grundfesten
+#facs_176_region_1633454869982_2958l20 der bürgerlichen Gesellschaft erschütteren
+#facs_176_region_1633454869982_2958l21 den Sterben unserer Jugend, sich von
+#facs_176_region_1633454869982_2958l22 ihren Eltern unabhängig zumachen.
+#facs_322_r2l22 eineren versehen seyn.
+#facs_176_region_1633454869982_2958l24 männig faltigen Segnungen, womit der
+#facs_176_region_1633454869982_2958l25 Allerhöchste unsere Regierung und unter
+#facs_128_r2l4 gemeßen und zur Sicherheit der
+#facs_176_region_1633454869982_2958l27 beglücket hat - ob bey all der Glichgültig¬
+#facs_269_r2l19 te
+#facs_177_region_1633454898390_2970l1 343.
+#facs_177_region_1633454901558_2973l1 seit gegen die Stimme der Religion,
+#facs_177_region_1633454901558_2973l2 bey all der Entfernung von den Grund
+#facs_177_region_1633454901558_2973l3 stäzen des Christenthums, der Gott, von
+#facs_177_region_1633454901558_2973l4 dem die allgemeine Wohlfahrt Unserer
+#facs_177_region_1633454901558_2973l5 Landes, sowie das ewige Glüb eines jeden
+#facs_177_region_1633454901558_2973l6 Einlohners deßelben abhängt, nicht und
+#facs_177_region_1633454901558_2973l7 lich des Dchonens müde werden, und
+#facs_177_region_1633454901558_2973l8 Strafmittel über uns verhängen müße.
+#facs_177_region_1633454901558_2973l9 dergleichen er uns im Lauf dieses Jahrs,
+#facs_177_region_1633454901558_2973l10 obsehen noch ganz gelinde und von ferne
+#facs_177_region_1633454901558_2973l11 I zeiget hat.
+#facs_177_region_1633454901558_2973l12 Mir forderen darum, als die von
+#facs_177_region_1633454901558_2973l13 Gott gefohlen Schwoyer der Allgemeinen
+#facs_177_region_1633454901558_2973l14 Wohlfahrt, alle Unsere lieben ange¬
+#facs_177_region_1633454901558_2973l15 hörigen auf, nach zu denen über den
+#facs_177_region_1633454901558_2973l16 Gras von Verdrebenheit, den dieses
+#facs_177_region_1633454901558_2973l17 Land schon erreicht hat, dir, wenn
+#facs_177_region_1633454901558_2973l18 sie noch höher steigen sollte, durch
+#facs_177_region_1633454901558_2973l19 ihr eigen Gebicht die Wohlfahrt des
+#facs_177_region_1633454901558_2973l20 Landes nothbendig zerstören mußte.
+#facs_177_region_1633454901558_2973l21 Ernstlich forderen Wir darum Jeder
+#facs_177_region_1633454901558_2973l22 mann auf, sich boll keine über seine,
+#facs_177_region_1633454901558_2973l23 voll Betrübniß über des Landes Süng
+#facs_177_region_1633454901558_2973l24 den, vor Unserem Gott zu demuthigen,
+#facs_177_region_1633454901558_2973l25 seine
+#facs_9_r5l1 34
+#facs_177_region_1633454910390_2979l1 eine Gebäte mit den Umsterigen Ju¬
+#facs_177_region_1633454910390_2979l2 bereinigen um Gnade und Verschonung,
+#facs_177_region_1633454910390_2979l3 auf den Weg der Tugend zurückzubehren,
+#facs_177_region_1633454910390_2979l4 und durch aufrichtige Rübbehr zu Gott¬
+#facs_177_region_1633454910390_2979l5 lich seiner ferneren Regnungen genoß zu
+#facs_177_region_1633454910390_2979l6 machen.
+#facs_177_region_1633454910390_2979l7 Und damit dieser wichtige Tag, so
+#facs_177_region_1633454910390_2979l8 weit Wir es beschinderen können, nicht ent¬
+#facs_177_region_1633454910390_2979l9 weihet werde, sobefohlen Wir, daß sowohl
+#facs_177_region_1633454910390_2979l10 an dem heiligen Rättag selbst, als den
+#facs_177_region_1633454910390_2979l11 Tag borher, alle Wirthshäuser und Pin¬
+#facs_177_region_1633454910390_2979l12 Kaufchenben für Jacobomann, ausgenommen.
+#facs_177_region_1633454910390_2979l13 für Reisende, verschloßen seyn sollen.
+#facs_177_region_1633454910390_2979l14 Gott, von dem Wir in Demuth
+#facs_177_region_1633454910390_2979l15 die fernere Wohlfart Unseres Landes
+#facs_177_region_1633454910390_2979l16 erflehen, sogar diese und alle Unsere
+#facs_177_region_1633454910390_2979l17 übrigen wohlgemeinten Anstalten zu seiner
+#facs_177_region_1633454910390_2979l18 Ehre, zu Unserer Glubstiligkeit und zum
+#facs_177_region_1633454910390_2979l19 Zeil Unsers lieben Vaterlandes!
+#facs_177_region_1633454910390_2979l20 Geben den 14ten Heimonats 1785.
+#facs_65_r3l5 Canzley Bern.
+#facs_68_r8l11 zu
+#facs_177_region_1633454910390_2979l23 = Translation.
+#facs_178_region_1633454928086_2987l1 345
+#facs_177_region_1633454910390_2979l23 = Translation.
+#facs_60_r4l15 Nous L'Avoyer et Conseil de
+#facs_178_region_1633454934014_2993l2 La Ville et Republique de Berne, assurons
+#facs_178_region_1633454934014_2993l3 tous Nos chers et féaux Citoyens et sujets.
+#facs_178_region_1633454934014_2993l4 de Nôtre gracieuse bienveillance et par les pres
+#facs_178_region_1633454934014_2993l5 sentes savoir faisons.
+#facs_178_region_1633454934014_2993l6 Qu'ayant, de concert avec les Louables Etats
+#facs_178_region_1633454934014_2993l7 Evangeliques de la Suisse, fixé un Jour Solem
+#facs_178_region_1633454934014_2993l8 nel de Jeunes, de Prieres de Repentance et d'Ac-
+#facs_178_region_1633454934014_2993l9 tions de Graces au Jeudi 8. de Septembre pro
+#facs_178_region_1633454934014_2993l10 chain. Nous enjoignons en vertu de Notre au
+#facs_178_region_1633454934014_2993l11 thorite à un chacun, soit de la Ville soit
+#facs_178_region_1633454934014_2993l12 la Campagne, de célébrer d'une maniere sa-
+#facs_178_region_1633454934014_2993l13 lutaire, convaincus comme Nous le sommes
+#facs_178_region_1633454934014_2993l14 que nos bonnes intentions et nos soins pater
+#facs_178_region_1633454934014_2993l15 nels pour le bien de la patrie n'auraient que
+#facs_178_region_1633454934014_2993l16 peu défficace, si le Dieu du Ciel et de la Terre
+#facs_178_region_1633454934014_2993l17 cessoit de nous être propice.
+#facs_178_region_1633454934014_2993l18 Nous voulons que ce Jour solemnel
+#facs_178_region_1633454934014_2993l19 soit scrupuleusement célébre, afin qu'un Chas
+#facs_178_region_1633454934014_2993l20 cun refléchisse serieusement devant Dieu, si
+#facs_178_region_1633454934014_2993l21 à raison de la décadence du Christianisme,
+#facs_178_region_1633454934014_2993l22 qui augmente de jour en Jour et se montre de
+#facs_178_region_1633454934014_2993l23 clairement dans la profanature du Dimanche
+#facs_6_region_1633454281779_2775l1 d
+#facs_178_region_1633454939678_2999l1 346
+#facs_178_region_1633454937335_2996l1 et le déperissement remarquable du culte
+#facs_178_region_1633454937335_2996l2 public; si à cause des vices d'aduttère, de
+#facs_178_region_1633454937335_2996l3 paillardise et de seduction, dont l'empire ne
+#facs_178_region_1633454937335_2996l4 asse de sacroitre et semblent avoir bientot
+#facs_178_region_1633454937335_2996l5 perdu aux yeux de plusieurs tout ce quils ont
+#facs_178_region_1633454937335_2996l6 de honteux et de punissable, si à cause de cette
+#facs_178_region_1633454937335_2996l7 Diss�pation
+#facs_178_region_1633454937335_2996l8 passion pour le Cet la débauche, qu'en ne peut
+#facs_178_region_1633454937335_2996l9 reprimer, et qui sétend maintenant jusque dans
+#facs_178_region_1633454937335_2996l10 les contrées de nôtre pays, qui jusque ici n'en
+#facs_178_region_1633454937335_2996l11 avoient point été infectées; si à cause de l'effort
+#facs_178_region_1633454937335_2996l12 de notre Jeunesse pour se rendre indépendante
+#facs_178_region_1633454937335_2996l13 et se soustraire à l'obeissance qu'elle doit à peres
+#facs_178_region_1633454937335_2996l14 et à Meres et à ses superieurs, effort qui devient
+#facs_178_region_1633454937335_2996l15 toujours plus commun, et sappe tous les fons
+#facs_178_region_1633454937335_2996l16 demens de la Société civile; si à cause de l'abus
+#facs_178_region_1633454937335_2996l17 plein d'ingratitude de tant et differentes béné
+#facs_178_region_1633454937335_2996l18 dictions que le très haut a repanduës jus
+#facs_178_region_1633454937335_2996l19 quâ ce jour sur Notre Gouvernement & sur
+#facs_178_region_1633454937335_2996l20 tout Notre Païs, pour nôtre propre bon,
+#facs_178_region_1633454937335_2996l21 heur, si à cause d'une indifference pour la
+#facs_178_region_1633454937335_2996l22 Religion et d'un éloignement des principes du
+#facs_178_region_1633454937335_2996l23 Christianisme, le tout puissant, de qui dépendent
+#facs_178_region_1633454937335_2996l24 le bien public de nôtre Païs, et le bonheur etes
+#facs_178_region_1633454937335_2996l25 nel de chacun de ses habitans, ne se lassera
+#facs_178_region_1633454937335_2996l26 point enfin de pardonner et ne sera pas obligé
+#facs_9_r5l1 34
+#facs_179_region_1633454967230_3011l1 de nous chatier par des punctions, qu'il
+#facs_179_region_1633454967230_3011l2 nous a fait appercevoir dans le cours de
+#facs_179_region_1633454967230_3011l3 cette aimée, quoique d'une maniere encore.
+#facs_179_region_1633454967230_3011l4 tout à fait douce, et seulement dans le loin
+#facs_179_region_1633454967230_3011l5 tain
+#facs_179_region_1633454967230_3011l6 On conséquence, et comme étant établis de
+#facs_179_region_1633454967230_3011l7 Dieu pour veiller au bien public, Nous ex
+#facs_179_region_1633454967230_3011l8 hortons très serieusement tous Nos chers et
+#facs_179_region_1633454967230_3011l9 feaux Citoyens et sujets, à refléchir sur le
+#facs_179_region_1633454967230_3011l10 degré de Corruption que ce Païs a atteint
+#facs_179_region_1633454967230_3011l11 laquelle ne manqueroit pas, de teribler la
+#facs_179_region_1633454967230_3011l12 prosperité publique et de l'entrainer dans
+#facs_179_region_1633454967230_3011l13 une ruine totale, si elle venoit à se parz
+#facs_179_region_1633454967230_3011l14 ter encore à un plus haut degré à s'hus
+#facs_179_region_1633454967230_3011l15 milier devant notre Dieu, plein d'un Res
+#facs_179_region_1633454967230_3011l16 pentir sincère pour leurs propres péchés
+#facs_179_region_1633454967230_3011l17 et d'afflictions pour ceux du païs en general,
+#facs_179_region_1633454967230_3011l18 à réunir leurs prieres aux nôtres pour obtenir
+#facs_179_region_1633454967230_3011l19 grace et miséricorde, à rentrer dans le sentier.
+#facs_179_region_1633454967230_3011l20 de la vertu; et enfin à se rendre dignes des
+#facs_179_region_1633454967230_3011l21 bénédictions ulterieures du Tout puissant, en
+#facs_179_region_1633454967230_3011l22 retournant sincèrement à lui.
+#facs_179_region_1633454967230_3011l23 Et enfin d’empêcher autant que Nous
+#facs_179_region_1633454967230_3011l24 le pouvons, que ce jour solemnel soit pas
+#facs_179_region_1633454967230_3011l25 fané
+#facs_179_region_1633454975207_3017l1 348
+#facs_179_region_1633454973166_3014l1 fané Nous voulons et ordonnons, que tous
+#facs_179_region_1633454973166_3014l2 les Cabarets et autres Lieux où l'on vend vin
+#facs_179_region_1633454973166_3014l3 soïent fermés à toutes prisonnes, excepté aux
+#facs_179_region_1633454973166_3014l4 voyageurs, tant le jour même de jeûne que
+#facs_179_region_1633454973166_3014l5 celui qui le précédera.
+#facs_179_region_1633454973166_3014l6 Veuille, ce Grand Dieu, que Nous sup-
+#facs_179_region_1633454973166_3014l7 plions en toute humilité, continuer à être pro
+#facs_179_region_1633454973166_3014l8 pice à notre pays, et bénir ces entreprises et tous
+#facs_179_region_1633454973166_3014l9 tes autres bien-intentionnées que nous faisons pour
+#facs_179_region_1633454973166_3014l10 sa gloire, nôtre bonheur éternel, & le salut de
+#facs_179_region_1633454973166_3014l11 Notre chére patrie
+#facs_179_region_1633454973166_3014l12 Donné le 14e Juillet 1785
+#facs_179_region_1633454973166_3014l13 Chancelerie de Berne
+#facs_10_r3l1 36
+#facs_179_region_1633454983342_3020l1 A 17 Alle deutsche und Welsche Herren
+#facs_217_r4l4 Amtleut, vier Stadt freybeibel¬
+#facs_179_region_1633454983342_3020l3 und Ammann
+#facs_297_r4l1 partinet adpag
+#facs_179_region_1633454983342_3020l5 bis Martinj
+#facs_179_region_1633454986446_3023l1 Collf. Wir haben die höngen Herbstferein
+#facs_37_r1l1 66
+#facs_179_region_1633454986446_3023l3 vom 19.r Gerbstraat bis Martini nächst
+#facs_179_region_1633454986446_3023l4 =bünftig.
+#facs_69_r5l9 31/9
+#facs_180_region_1633455010678_3032l1 künftig bestimt, und befehlen Eins
+#facs_180_region_1633455010678_3032l2 demnach während dieser Zeit keine.
+#facs_368_r2l18 andere als nothdringende Geschäfte
+#facs_180_region_1633455010678_3032l4 te an Uns und Unseren bewordenden
+#facs_180_region_1633455010678_3032l5 Tribunalen und Dibestorien gelangen
+#facs_180_region_1633455010678_3032l6 zu laßen. Geben den 22ten Augst
+#facs_180_region_1633455010678_3032l7 monat 1786

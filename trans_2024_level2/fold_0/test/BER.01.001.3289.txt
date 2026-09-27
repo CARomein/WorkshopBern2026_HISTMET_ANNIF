@@ -1,0 +1,51 @@
+Law ID: BER.01.001.3289
+Name: Wegen den Landmarchen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_492
+# Matched: 40/40
+# High similarity (>=80%): 40
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_186_r3l20 In alle W. Ambtleuth
+#facs_257_region_1711009605302_222l_22 Wegen den Lansmarchene
+#facs_257_region_1711009605302_222l_23 Schw. und Ratz der Stadt bery
+#facs_257_region_1711009605302_222l_24 Cobatl. Weilen beobachtet worden, daß die
+#facs_257_region_1711009609024_225l_1 483.
+#facs_257_region_1711009609024_225l_2 Meisten Gräntzstreitigkeiten mit benachbähre
+#facs_257_region_1711009609024_225l_3 ten Ständen danenhar Ihren Ursprung
+#facs_257_region_1711009609024_225l_4 nemmend, daß die Marchen allzu lang
+#facs_257_region_1711009609024_225l_5 nicht undergangen, und die an dem marche
+#facs_257_region_1711009609024_225l_6 sich erangende Mängel nicht in der Zeit
+#facs_257_region_1711009609024_225l_7 beosachtet und redressiert worden;
+#facs_257_region_1711009609024_225l_8 derobegen Wir diesem übelmüglichst
+#facs_257_region_1711009609024_225l_9 Vorzubiegen, Statuieret und Gehebt
+#facs_257_region_1711009609024_225l_10 haben wollendt, daß unsere Ambtleuth
+#facs_257_region_1711009609024_225l_11 Weltschen Landes hiemit auch die in
+#facs_257_region_1711009609024_225l_12 deinem Ambt bey demen aut die
+#facs_257_region_1711009609024_225l_13 LandtMarchen aufs wenigsten von dreye
+#facs_257_region_1711009609024_225l_14 zu dreye Jahren auf die in den Aubth¬
+#facs_257_region_1711009609024_225l_15 Eydt erleuterte, beiß undergehen, und
+#facs_257_region_1711009609024_225l_16 jedes mahl unß deß zustandts der¬
+#facs_257_region_1711009609024_225l_17 selben berichten, beiebens aber den
+#facs_257_region_1711009609024_225l_18 vorgesezten derjänigen Gemeinden
+#facs_257_region_1711009609024_225l_19 so sich angerantzend und auf den Lant¬
+#facs_257_region_1711009609024_225l_20 Marchen befinden, zu handen übriger
+#facs_257_region_1711009609024_225l_21 Gemeindts Genoßen, Capiyen von den
+#facs_257_region_1711009609024_225l_22 Landt March brieffen zustellen lasen
+#facs_257_region_1711009609024_225l_23 geleßt, aus von den and March uuch
+#facs_257_region_1711009609024_225l_24 den nöthigen Bericht und beschaffenhit
+#facs_98_r1l1 184.
+#facs_258_tr_1l_2 Wüßenschafft zu haben, faher aber
+#facs_258_tr_1l_3 dergleichen Marchungen in den Schlaff.
+#facs_258_tr_1l_4 Büschern deines Ambts nicht ent¬
+#facs_258_tr_1l_5 halten wären, wirst du Unß berichten,
+#facs_258_tr_1l_6 umb deßhalben allhier nachschlagen zu laßen,
+#facs_258_tr_1l_7 undt selbe von hier auß überschiken.
+#facs_258_tr_1l_8 gekönnen, wie Zethun, und Gegenbehrtige
+#facs_258_tr_1l_9 unsere ernstgemeinte Ordnung seines
+#facs_258_tr_1l_10 Gots zu künfftiger Nachricht einschreiben,
+#facs_258_tr_1l_11 zulaßen bestens wüßen wirst, dath
+#facs_258_tr_1l_12 1720. Juny 1719

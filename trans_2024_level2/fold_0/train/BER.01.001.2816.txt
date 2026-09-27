@@ -1,0 +1,28 @@
+BER.01.001.2816
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 19/19
+# High similarity (>=50%): 19
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_344_r3l18 Item an Zürich, Luern, Freiburg, Sollothurn,
+#facs_344_r3l19 Biel und Neuwenburg.
+#facs_344_r3l20 ob Idem
+#facs_344_r3l21 Sie der mitthaltung deßen berichten.
+#facs_345_r3l1 An die Herren Decanus Uff dem Land¬
+#facs_345_r3l2 Die Capitul zusamen zu beruffen
+#facs_345_r3l3 Schultheis undt Raht etc.
+#facs_345_r3l4 Beweilen es an der zeith die Jenigen Capitul und
+#facs_345_r3l5 Examina über eint und andere Kirchendiener
+#facs_345_r3l6 anzustellen und darbey zu verhandlen, waß bey
+#facs_345_r3l7 Ziesen Verhandlungen verhandlet werden soll, Alß
+#facs_345_r3l8 werdet Ihr hiemit ermahnt, die anstalt in Eüwere
+#facs_345_r3l9 bezirat zu thun, daß selbige zu recht gewohnter Zeith
+#facs_345_r3l10 beruffen, die Jenigen so darzu gehören eingeladen
+#facs_345_r3l11 und alleß ordenlich undt wie sichs gebührt verhandlung
+#facs_345_r3l12 auch alles, daran etwas gelägen, oder sonsten zu
+#facs_345_r3l13 erinneren sein wirt, in die Acta gebracht werde.
+#facs_345_r3l14 Seyind hiemit Göttlicher obhutt wohl Erlaßen. Datl.
+#facs_345_r3l15 19 Aprilis 1703.

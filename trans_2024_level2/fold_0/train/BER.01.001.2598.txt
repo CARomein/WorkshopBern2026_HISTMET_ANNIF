@@ -1,0 +1,72 @@
+BER.01.001.2598
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 63/63
+# High similarity (>=50%): 60
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_96_r3l16 An alle cl. und W. Ambthrüht;
+#facs_96_r3l17 4. Stätt, Freyweibel und Amann.
+#facs_96_r3l18 keine Warteyen in disen Ferien herzulaßen.
+#facs_96_r3l19 Schultheiß und Raht der Statt Härze etc.
+#facs_96_r3l20 Collaten damit unsere vnderthanen bey dißmahls vorstehender Ernd zeit,
+#facs_96_r3l21 von dem vnnöhtigen Trölen und allhar lauffen abgehalten wer¬
+#facs_96_r3l22 dind, vnd der Feldarbeit desto fleisiger abwarten Thühind
+#facs_96_r3l23 wollend wir
+#facs_97_r1l1 schuldig sein sollend, Ihr particular von Dominial und eigenen
+#facs_97_r1l2 unteren harkommendes getreit an sonderbahre Ort vnd Korn,
+#facs_97_r1l3 laußer zu logiren, wan zu dem Oberkeitlichen der platz erfor¬
+#facs_97_r1l4 seret wird
+#facs_97_r1l5 Es wollend wir, so viel die gärsten und haber betrifft, unseren
+#facs_97_r1l6 Ambtheühten bewilliget haben, was er über den bestimten Vorraht
+#facs_97_r1l7 auß, und nach abzug der ordinari außgaben biß künftigen Michaelis
+#facs_97_r1l8 überbleiben Wird, von mich behaltlichsten Zuversilberen; und
+#facs_97_r1l9 Im fahl über obigen Haber und gärsten auß noch anders getreit
+#facs_97_r1l10 nach abzug der ordinari außgaben biß Michaelis, und den bestim¬
+#facs_97_r1l11 ten vorraht auß, vorschießen thäte, auch diseren Vorschutz vom
+#facs_97_r1l12 minst haltlichsten best möglich zu verkauffen, und gebührender
+#facs_97_r1l13 maßen nach abzug ihres gewößes in ihre Ambts Rechnung
+#facs_97_r1l14 zubringen
+#facs_97_r1l15 An denen Jenigen Orten aber, da angestektes getreit vnd
+#facs_97_r1l16 Ich nit mehr in allem verhanden, als die ordinarii außgaben
+#facs_97_r1l17 biß künfftigen Michaelis vnd der bestimte Lands Vorraht erforderet,
+#facs_97_r1l18 Ist Unser will und befelch an Vnsere Ambtleüht, die es angehet
+#facs_97_r1l19 daß sie dieses also angestekte getreit fürderlichst möglich verkauffen
+#facs_97_r1l20 nach der Ernd aber vmb das erlößte gelt bey Ihrem Ende, alsobald
+#facs_97_r1l21 so viel Früsches und gutes wider einkauffen sollind, als weit
+#facs_97_r1l22 das erlößte gelt reken mag, ohne daß sie für ihre dißöhrtige
+#facs_97_r1l23 mühe oder gewoß etwas zu praetendiren haben sollind.
+#facs_97_r1l24 DißipVnser
+#facs_97_r2l1 182
+#facs_97_r2l2 Diß ist Vnser will und befelch, so ins gemein außgeschriben wird,
+#facs_97_r2l3 ob, wie viel und was für gattung getreits aber es demnach die
+#facs_97_r2l4 von deines Ambts wegen zu verkauffen bezeichen mag, Wirstu
+#facs_97_r2l5 den Fehrneren genauveren Befelch von unserer Venner Cammer
+#facs_97_r2l6 zu Empfahen und demnach dich zu verhalten haben.
+#facs_97_r2l7 Und weilen die Ville des hier und dort angestekt gefundenen
+#facs_97_r2l8 getreits vns nit Vnbillich zumuhtmaßen machet, daß deßelben
+#facs_97_r2l9 theils ohrten nit gnugsam gewartet werde; als habend wir
+#facs_97_r2l10 alle Vnsere Ambtleicht alles ernsts vermahnen wollen, wo
+#facs_97_r2l11 es ermanglet, mehreren fleiß zu Erhalt, und rahtsamung
+#facs_97_r2l12 Vnsers getreits anzuwenden; sonsten solches ins künfftig
+#facs_97_r2l13 nicht mehr wird so liecht übersehen, auf die negligenz geachtet
+#facs_97_r2l14 Und den Ambtleichten zugemäßen werden. Datum 12. Julii
+#facs_97_r2l15 1695.
+#facs_97_r2l16 M
+#facs_97_r2l17 An alle 2t. und W: Ambtleüht,
+#facs_97_r2l18 4. Stätt, Freyweibel und Ammann.
+#facs_97_r2l19 keine Ufarteyen in disen Ferien herzulaßen
+#facs_97_r2l20 Schultheiß und Rast der Stadt Gärre
+#facs_97_r2l21 Collaten Samit Vnsere vnderthanen bey dißmahls vorstehender Ernd zeit,
+#facs_97_r2l22 von dem vnnöhtigen Trölen und allhar lauffen abgehalten Ver¬
+#facs_97_r2l23 sind, und der Feldarbeit desto fleißiger abwarten Thühind
+#facs_97_r2l24 wollend wir
+#facs_98_r2l1 wollend wir dir, gleich anderen Veseren Umbtleichten auch bescheht,
+#facs_98_r2l2 hiemit befohlen haben, keine parteyen meit dismahls ange¬
+#facs_98_r2l3 gangener erlaubs Zeit, das ist, vom 10. Julii biß 10. Augusti zu¬
+#facs_98_r2l4 künfftig, umb keinerley als ehehafften Sachen Willen, so kein Verzug
+#facs_98_r2l5 leidend, allhar zulaßen, wie dan ohne das aller access Ihnen
+#facs_98_r2l6 allhier abgeschlagen wurde; Maßen beschehen werde, wir vns
+#facs_98_r2l7 versehend. Datum 12. Julij 1695.

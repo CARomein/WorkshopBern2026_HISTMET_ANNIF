@@ -1,0 +1,52 @@
+Law ID: BER.01.001.0617
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 41/41
+# High similarity (>=80%): 33
+# Low similarity (<80%): 8
+# Not found: 0
+#
+#facs_135_r2l1 260
+#facs_164_r5l2 Eedell ann Camzell
+#facs_114_r4l1 219
+#facs_164_r5l4 Als dann hievor mehrmalen by mynen Gnädigetin
+#facs_164_r5l5 Herren Inn gesessenem Ratht, wie auch hettigs tage
+#facs_164_r5l6 sonderlich by mynen gnädigen Herren Rhät vnnd Burger
+#facs_164_r5l8 Inzug besprechen, wie vberlastig vnnd nun mich schier
+#facs_164_r5l9 Vnträglich nitt allein einer gemeiner bürgerschaft Sonders
+#facs_164_r5l10 von denen Spitallen vnnd abmusen, die tauwner vnus
+#facs_164_r5l11 andere zusierer, So mitt wys vnd finden, allein vmb die Stat
+#facs_164_r5l12 menthalb den burgere Zill, vnnd nechst daran verserhalb, dem sel¬
+#facs_164_r5l13 Inn Hüseren, Schuren, Spickeren, Sommes, gartten vnnd bünden
+#facs_164_r5l14 huslenen wonend, I un dem syend, das sölich was vnd find der
+#facs_164_r5l15 ganzen tag vber daß sij zu bestimpten zijtt mij denn spitalen
+#facs_164_r5l16 das georurde almusen empfachend eines burgerschafft nitt höres
+#facs_164_r5l17 vor denn hüseren, Vnnd dan auch sonst zum denn guttern
+#facs_164_r5l18 nü mit, siches ist, das dan auch die mannen dahin bringt, daß sy
+#facs_164_r5l19 niemand mir vff ein lydelichen pfeing zwarbritten beygeren
+#facs_164_r5l20 Sommer ehe müsig verblijbend, woll wustende das Ir wys vnd
+#facs_164_r5l21 Kind mitt bättlen die nar mich zwägen bringen mögen, vnd
+#facs_164_r5l22 obschon formhm mithin Insehen gethan, vnnd etwan Ihnen
+#facs_164_r5l23 gerotten worden, hinweg sehnchen habe doch sölichs nitt vill
+#facs_164_r5l24 erschosen, Söllichem Vnträglichen Vberlast nun so wyft müchli¬
+#facs_164_r5l25 besonders Jetziger zytt abzehelffen, habend hoch vnnd woll¬
+#facs_164_r5l26 ermelt mijn gnädig Herren Ratht vnnd Burger angesechen
+#facs_164_r5l27 vnnd geornet sind ouch genzlich darob zuhalten entschlossen,
+#facs_164_r5l28 Namlich das ein Jeder hoch vnnd nider standts persha
+#facs_164_r5l29 so Innerthalb einer halben Stund wegs der Stadt,
+#facs_164_r5l30 vnnd das Kings wys vmb die selb, Inn hüserenn Schüer
+#facs_164_r5l31 Sricheren Sommer garten oder bünden huslenen, der gleich
+#facs_164_r5l32 tauwnes oder Huslütt hatt, dieselben augents Vr¬
+#facs_164_r5l33 löben vnnd ein Jeden mitt dem syen dahin wysenn,
+#facs_164_r5l34 wo er daheymen auch für solche vrloubung hin zu Irenen
+#facs_164_r5l35 hinzug nitt lenger statt noch platz gäben sölte, dann
+#facs_164_r5l36 bis vff ersten tag' nechst künfftigen monats Juli, by
+#facs_164_r5l37 peen vnnd straff zechen pfunden, vnabläsiger buß
+#facs_164_r5l38 vonn dem vnd den Jringen hebezuchen, So Iren Husz¬
+#facs_164_r5l39 Lütten vber bestimpte zytt, wider diss Insechen,
+#facs_164_r5l40 tatt, platz, vffenthalt geben werden, Demnach
+#facs_164_r5l41 wüse sich ein Jeder denn diss beruwen man gehalten
+#facs_164_r5l42 vnnd for der straff zehutten, Acti 26 maij 1609

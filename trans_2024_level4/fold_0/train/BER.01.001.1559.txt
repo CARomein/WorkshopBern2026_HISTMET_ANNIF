@@ -1,0 +1,22 @@
+Law ID: BER.01.001.1559
+Name: Den Abtruck faltscher Dicken schicken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 11/11
+# High similarity (>=50%): 11
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_281_r4l16 Ann alle Teütsche vnnd Weltsche Ambtleüth
+#facs_281_r4l17 4. Stett, Fry Weibel vnnd Amman:
+#facs_281_r4l18 Den abtrunk faltscher dicken schicken
+#facs_281_r4l19 Schuldtheis vnnd Rhat der Statt Bern etc.
+#facs_281_r4l20 Aus der Beilag hastu zuersechen, was vns faltsch geprägeten
+#facs_281_r4l21 dicken halb fürkommen, vnnd wir darüber gutfunden.
+#facs_281_r4l22 Beuelchend darbei dir hiemit, solchen abtruck ann
+#facs_281_r4l23 achtwendigen wnnd gewohnten Orten Deiner Verwaltung
+#facs_281_r4l24 auffschlagen Zelaßen, vnnd auff die betrieglichen Ein¬
+#facs_281_r4l25 schleicker solcher Eulen Müntz auffsicht zebestellen
+#facs_281_r4l26 Datum 7th Septembris 1654

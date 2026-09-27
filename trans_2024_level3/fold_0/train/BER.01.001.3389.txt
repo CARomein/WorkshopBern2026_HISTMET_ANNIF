@@ -1,0 +1,27 @@
+Law nr: BER.01.001.3389
+Name: Sich mit denen ohnbekanten Teütschen Müntzen nicht zu beladen.
+
+# EXTRACTION INFO:
+# Matched: 18/18
+# High similarity (>=50%): 17
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_443_r2l1 C
+#facs_444_r2l2 Wie auch Emmenthalische Ambtle
+#facs_444_r2l3 4. Stelt.
+#facs_444_r2l4 Sich mit denen Ohnbekannten Teütschen Müntze
+#facs_444_r2l5 nicht zu beladen.
+#facs_444_r2l6 Stalthalter und Raht etc.
+#facs_444_r2l7 Wirt vernemand, daß neulder dingen
+#facs_444_r2l8 Allerhand Ohnbekannte Teütsche Müntzen
+#facs_444_r2l9 So Vermuhtlich von Geringem halt, Ins¬
+#facs_444_r2l10 Ergeüld und Emmenthal gebracht werden
+#facs_444_r2l11 Weilen mannung derselbe auf die prob.
+#facs_444_r2l12 setzen, und dem Anschein nach eine mehrere
+#facs_444_r2l13 Vorschung erfolgen wirdt; als haben
+#facs_444_r2l14 Wir deßen Vnsere Undterthanen beyzeithen
+#facs_444_r2l15 Verbahtnen wollen, umb sich darnach leüßen
+#facs_444_r2l16 zu verhalten, und darmit sich nicht zu
+#facs_444_r2l17 beladen. Datum den 21ten September
+#facs_441_tr_2l_18 1722

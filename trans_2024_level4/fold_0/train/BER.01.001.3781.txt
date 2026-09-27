@@ -1,0 +1,35 @@
+Law ID: BER.01.001.3781
+Name: Kohlenveräusserung ansehend.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 24/24
+# High similarity (>=50%): 24
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_14_r4l11 An
+#facs_14_r4l12 Laupen Herrn Aarberg Rydaul Erlach etc.
+#facs_14_r4l13 Eohlen Veräußerung ansehend
+#facs_14_r4l14 Schultleise und Raht etc.
+#facs_14_r4l15 Auff toe seithen der Huffschmieden des
+#facs_14_r4l16 am Gerichts zolligkofen beschehener dehnüthigen
+#facs_14_r4l17 Vorstellung hin was maßen Sie wegen tod
+#facs_14_r4l18 vithen Löbl. Ständen Freyburg und Solothurn
+#facs_14_r4l19 beschehenen Verbolts wegen Aussfuhr deß Töhls
+#facs_14_r4l20 namhafft getruckt, und in Ihrer Arbeit
+#facs_15_r2l1 gehemmet werdind, mit Bitt Wir Ihnen mit
+#facs_15_r2l2 gleichem Verbolt gegen Sie behülfflich seyn
+#facs_15_r2l3 solten habend Wir in Betrachtung Sie die
+#facs_15_r2l4 Supplicanten durch Mangel solches
+#facs_15_r2l5 in Ihrem Handberck unentbährlichen Waar
+#facs_15_r2l6 nothbendig leiden müesten, dir /: gleich gege¬
+#facs_15_r2l7 et welchen übrigen benachbahrten Ambtleuthen
+#facs_15_r2l8 auch beschicht) hiemith befehlen wollen:
+#facs_15_r2l9 Deinem Ambtr Bezirk die behörige Aufsicht
+#facs_15_r2l10 bestellen zu laßen, daß das Kohl nicht
+#facs_15_r2l11 tewäußeret, sonderen zum Bebrauch
+#facs_15_r2l12 und Nutzen unserer angehörigen in
+#facs_15_r2l13 Land aufbehalten werde. Gott mit Dir
+#facs_15_r2l14 Datum, den 2 July 1739

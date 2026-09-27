@@ -1,0 +1,58 @@
+BER.01.001.2840
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 49/49
+# High similarity (>=50%): 49
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_375_r4l1 1729
+#facs_375_r4l2 An alle Weltsche Ambtleüth.
+#facs_375_r4l3 Verpolt Grömbden Weins- Einfuhr Undt Debite
+#facs_375_r4l4 Schultheiß undt Raht der Statt Bern.
+#facs_375_r4l5 Wir müeßend mit vnlieb vernommen, daß seith letzt ver¬
+#facs_375_r4l6 wichenen Herbst eine Nahmhaffte quantitet frömbden undt
+#facs_375_r4l7 außländischen Weins in Vnsere Weltsche Land geworffen
+#facs_375_r4l8 darinn debitiert und verkaufft werde: Und weilen nun solcher
+#facs_375_r4l9 Vnseren hievor zu verschidenen mahlen außgeschribnen und
+#facs_375_r4l10 publicierten Mandaten zu wider lauffet; Alß sind wir
+#facs_375_r4l11 bemüeßiget worden, Zürich gegenwährtiges außschreiben dir, so
+#facs_375_r4l12 gleich gegen übrigen Vnseren Ambtleüthen Weltschen Landt
+#facs_375_r4l13 auch beschicht zu befählen, ob verdeütenn Vnseren Mandaten
+#facs_375_r4l14 Exacté zu halten und also dergleichen Einwerff, Debitier,
+#facs_375_r4l15 und Verkauffung alles frömbden Weine ohne Unterscheid,
+#facs_375_r4l16 In so weith solcher dem Inhalt Unserer Mandaten zu wider
+#facs_375_r4l17 laufft, bey poen der Confiscation zu verpiehten Undt zu
+#facs_375_r4l18 hindertreiben
+#facs_375_r4l19 In ansehen der Jenigen aber, so allbereit dieseren Vnseren
+#facs_375_r4l20 Mandaten zu wider frömbden Wein ins Land geführt, ist
+#facs_375_r4l21 unser Will und befelch an dich, daß zu solche, so deren
+#facs_375_r4l22 hinder seinem Ambt sein möchten, vor sich bescheiden und
+#facs_375_r4l23 Denenselben zu verstehen geben sollest, daß zwahr wegen
+#facs_375_r4l24 solchen unerlaubten Einfuhr- Debitier- und verkauffun¬
+#facs_376_r1l1 frömbden Weins wir Vrsach gnüg gehabt hätten, denselben
+#facs_376_r1l2 zu confinieren, dennoch aber solches vor sismahlen das
+#facs_376_r1l3 gestelt sein lasind, daß Sie deßen bey straaff der Confis¬
+#facs_376_r1l4 cation in unseren Landen nit verkauffen, sondern
+#facs_376_r1l5 denselben äußert Landts schaffen und daselbst ver=
+#facs_376_r1l6 kauffen sollind: Inmaßen zu dich demnach zu richten
+#facs_376_r1l7 und zu halten wüßen wirst Datl. 13. februarii 1701
+#facs_376_r1l8 Zedell.
+#facs_376_r1l9 An alle Gsellschafften Vßert Zistelzwang.
+#facs_376_r1l10 das Tägen-tragen der Handtwerks=Pursch verpiete
+#facs_376_r1l11 In Erinnerung daß bereits vor etwas Jahren alhiesigen
+#facs_376_r1l12 gehört ins Handtwercks- Pürsch das dägen- tragen verpotten worden
+#facs_376_r1l13 Coliceysin daselbe verpott aber in das Mischalten gerahten, dardurch
+#facs_376_r1l14 hier und dort unwäsens entstanden; habend Meghl. über
+#facs_376_r1l15 Zestwegen einkommene klagden befugtes Verpott zu erfer¬
+#facs_376_r1l16 schen güte befunden, also das dafürohin die Handtwerck
+#facs_376_r1l17 Pursch sich deßen enthalten, denen Meisteren dann einge
+#facs_376_r1l18 bunden sein solle, nit nur daßelbe zu eröffnen, sondern
+#facs_376_r1l19 auch den Ihrigen dero Tägen in selbst eigene Verwahrung
+#facs_376_r1l20 zu nemmen und auffzubehalten bis sie wider abzureisen
+#facs_376_r1l21 gesinnet: Langet allso Ihr Ihnen gesinnen an Eüch, diese
+#facs_376_r1l22 Ihr geg. willen vff eüwer Zunfft, gleich denen übrigen
+#facs_376_r1l23 kund thun zu laßen. Damit deme nachgelebt, vnd jeden
+#facs_376_r1l24 sich selbst vor straff und ungemach zu hüeten wüße
+#facs_376_r1l25 Dat 26 februarij 1704

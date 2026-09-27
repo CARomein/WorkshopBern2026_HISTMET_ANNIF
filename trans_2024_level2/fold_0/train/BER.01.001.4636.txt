@@ -1,0 +1,99 @@
+Law ID: BER.01.001.4636
+Name: Steür-Aufnahm.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 88/88
+# High similarity (>=50%): 82
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_244_r1l1 484
+#facs_244_r1l2 Col.
+#facs_244_r2l1 R
+#facs_244_r2l2 66
+#facs_244_r2l3 Die verschiedenen Herren Amtleute
+#facs_244_r2l4 deren Ämter in die vier Landgricht ein¬
+#facs_244_r2l5 greiffen, als Stift, Köniz, Laupen
+#facs_244_r2l6 Zuchsee, Friemtberg, Fraubrunnen
+#facs_244_r2l7 Signau, Arberg, Büren, Thorberg, Thun
+#facs_244_r2l8 und Wimis; sodann an die Amau
+#facs_244_r2l9 der vier Kirchspielen des Stadtgrichts
+#facs_244_r2l10 ihnen zu Aufnahm dieser verwilligten
+#facs_244_r2l11 freywilligen Steuer in ihren betreffen¬
+#facs_244_r2l12 den Ämtern oder Bezirken, und zu der
+#facs_244_r2l13 ren Übermachung an Mehl. Teutsch
+#facs_244_r2l14 Dekalmeister und Bemmern, den gleichen
+#facs_244_r2l15 Befehl zustanden.
+#facs_244_r2l16 Steur = Aufnahm
+#facs_244_r2l17 an der heiligen Weyhnacht.
+#facs_244_r2l18 In allen Kirchen hiesiger Hauptstadt,
+#facs_244_r2l19 wie auch in der französischen Kirche,
+#facs_244_r2l20 im Aussern Spital und beym Äußern
+#facs_244_r2l21 Krankenhaus von Kanzeln zu verlesen
+#facs_244_r2l22 Die
+#facs_244_r4l1 uee
+#facs_244_r4l2 Die im Lauf dieses Sommers durch ver¬
+#facs_244_r4l3 heerende Ungewicter und Wolbenbrüch¬
+#facs_244_r4l4 entstandene höchst bedaurliche Was¬
+#facs_244_r4l5 Verbeschädigungen in dem Landgricht
+#facs_244_r4l6 Sternenberg, Stift Amt, Lindenthal
+#facs_244_r4l7 Herrschaft Muhleren, wie auch in der
+#facs_244_r4l8 nen Aemtern Interlaken, zweystimmen
+#facs_244_r4l9 und Wimis, hat die Einwohner dieser
+#facs_244_r4l10 Begenden in die traurigste Lage ver¬
+#facs_244_r4l11 sezt, wie dann der daherige Schaden
+#facs_244_r4l12 sich auf № 30,000, belauft
+#facs_244_r4l13 Dieser unglükliche, und sehr mit
+#facs_244_r4l14 leidenswürdige Zufall hat Meghl
+#facs_244_r4l15 und Oberen bewogen, auf nächstkünfti¬
+#facs_244_r4l16 ge heilige Weihnacht eine freywillige
+#facs_244_r4l17 Liebes steuer in den Früh, und Morgen¬
+#facs_244_r4l18 Predigten in allen Kirchen hiesiger
+#facs_244_r4l19 Hauptstadt aufnommen und einstammeln
+#facs_244_r4l20 zu laßen; Welches hiemit offentl.
+#facs_244_r4l21 bekannt gemacht und jedermänniglich
+#facs_244_r4l22 hierdurch aufgefordert wird, aus Christ¬
+#facs_244_r4l23 licher Liebe denen in äußerste Noth
+#facs_245_r1l1 Rechts
+#facs_245_r1l2 Coll
+#facs_245_r2l1 versezten Wasserbeschädigten ob¬
+#facs_245_r2l2 vermelter Dezirken mildreich bey
+#facs_245_r2l3 zustehen. Geben vor Räth und Bur¬
+#facs_245_r2l4 ger den 26ten Nov. 1788.
+#facs_245_r2l5 1
+#facs_245_r2l6 Publication
+#facs_245_r2l7 pour être lue dans les chaires de toutes
+#facs_245_r2l8 les Eglises de cette Capitale, et dans celle
+#facs_245_r2l9 de l'hopital exterieur
+#facs_245_r2l10 Les tristes ravages que des inondations et
+#facs_245_r2l11 des orages funestes ont ocasionnées léte
+#facs_245_r2l12 dernier, dans la Banniere de Sternen
+#facs_245_r2l13 berg au Balliage du Stift, de Linden
+#facs_245_r2l14 thal, Seigneurie de Muhleren, comme
+#facs_245_r2l15 aussi dans les Baillages d'Interlaken,
+#facs_245_r2l16 Zweisimmen et Wimmis, ont plongé les
+#facs_245_r2l17 habitans de ces distritts dans une situation
+#facs_245_r2l18 des plus deplorables et des plus dignes de
+#facs_245_r2l19 pitie, les dommages qu'ils ont essuyés
+#facs_245_r2l20 etant évalués a trente mille Crones
+#facs_245_r4l1 187
+#facs_245_r4l2 On consideration de ce malheureux évenemt.
+#facs_245_r4l3 Leurs Excellences nos Souverains seigneurs
+#facs_245_r4l4 ont jugé apropos d'ordonner une collecte de con¬
+#facs_245_r4l5 tributions volontaires en faveur de ces in¬
+#facs_245_r4l6 fortunés, la quelle collecte aura lieu dans
+#facs_245_r4l7 toutes les eglises de cette Capitale le jour de
+#facs_245_r4l8 la Séte de Noël prochain, pendant les
+#facs_245_r4l9 Services du Matin et de l'avant Midi
+#facs_245_r4l10 Ce dont un chacun est averti par la présente
+#facs_245_r4l11 Publication avec une exhortation serieuse
+#facs_245_r4l12 de contribüer selon ses facultés, au soula
+#facs_245_r4l13 gement que demande la charité Chretienne
+#facs_245_r4l14 pour ceux des habitans des susdits Districts
+#facs_245_r4l15 qui ont souffert par les eaux, et que ces ac
+#facs_245_r4l16 cidens imprévus ont reduits dans la derniere
+#facs_245_r4l17 indigence
+#facs_245_r4l18 Ainsi arrête dans l'assemblée générale
+#facs_245_r4l19 du Conseil souverain le 26. Nov. 1788

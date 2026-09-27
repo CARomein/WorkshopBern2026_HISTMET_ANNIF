@@ -1,0 +1,1352 @@
+Law ID: BER.01.001.4681
+Name: Zoll=Tarif für die emmenthalischen Brugg Zölle von Lauperswyl und Lüzelflüh.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 1341/1341
+# High similarity (>=50%): 1237
+# Low similarity (<50%): 104
+# Not found: 0
+#
+#facs_218_r2l1 oll=Carif
+#facs_218_r2l2 für
+#facs_218_r2l3 die Emmenthalischen Brugg Hölle
+#facs_218_r2l4 vort
+#facs_218_r2l5 Lauperswijl und Lüzelflüh¬
+#facs_218_r2l6 Wir Schultheiß, Klein und
+#facs_218_r2l7 Große Räthe der Stadt und Republik
+#facs_218_r2l8 Bern, entbieten allen Unfern lieben
+#facs_218_r2l9 und getreuen Angehörigen Unsern
+#facs_218_r2l10 gnädigen und geneigten Willen, und
+#facs_218_r2l11 geben ihnen dabey zu vernehmen.
+#facs_218_r2l12 daß auf die von Unferer bestellten
+#facs_218_r2l13 Deutschen Zollkammer an uns ge¬
+#facs_218_r2l14 langte Vorstellungen, über die
+#facs_218_r2l15 Nothwendigkeit einer Verbeßerung
+#facs_218_r2l16 und Erneüerung der Tariffen für
+#facs_218_r2l17 Unsere Emmenthalischen Zollstätte
+#facs_218_r2l18 von Cauperswyl und Lüzelflüh,
+#facs_218_r2l19 Wie nötig befunden, selbige aufs
+#facs_218_r2l20 neue untersuchen = und zu Beförderung
+#facs_218_r2l21 der innländischen Handlung, auf
+#facs_218_r3l1 Esq
+#facs_218_r3l2 die gegenwärtigen Zeitumstände
+#facs_218_r3l3 richten zu laßen, zu welchem End
+#facs_218_r3l4 Wir die ehevorigen Tariffe auf¬
+#facs_218_r3l5 heben, und an derselben Statt den
+#facs_218_r3l6 hienachfolgenden Tarif zur allge¬
+#facs_218_r3l7 meinen Vorschrift ertheilen, der
+#facs_218_r3l8 für beyde obbemeldte Zollstätte von
+#facs_218_r3l9 Lauperswyl und Lüzelflich dienen = und
+#facs_218_r3l10 von dem ersten Heumonats nächst¬
+#facs_218_r3l11 künftig hinweg so lange dauren
+#facs_218_r3l12 und befolgt werden soll, als es uns
+#facs_218_r3l13 gefällt, und wir keine Abänderung
+#facs_218_r3l14 öthig finden werden.
+#facs_218_r3l15 NB: der Centner zu 100. Pfund,
+#facs_218_r3l16 jedes Pfund zu 16. Unzen Mark=Gewicht;
+#facs_218_r3l17 der Saum zu 100. Bern. Maas, und
+#facs_218_r3l18 der Mütt zu 12. Bern. Mär
+#facs_218_r3l19 gerechnet.
+#facs_218_r3l20 x
+#facs_218_r3l21 Asche für die Bleichen, Färber und
+#facs_218_r3l22 Baucher ist Zollfrey
+#facs_218_r3l23 Amsler und dergleichen Vögel, vom Dozend ½
+#facs_219_r2l1 Re:
+#facs_219_r2l2 Anten, der so im Land bleibt
+#facs_219_r2l3 vom Centner
+#facs_219_r2l4 2.
+#facs_219_r2l5 der so mit obrigkeitl. Bewil¬
+#facs_219_r2l6 A:
+#facs_219_r2l7 ligung aus dem Land geht
+#facs_219_r2l8 4.
+#facs_219_r2l9 Baumöhl vom Centner....
+#facs_219_r2l10 Bett und anderer Hausrath Zahlen
+#facs_219_r2l11 Von einem Wagen mit 1. Stuk Vieh
+#facs_219_r2l12 10
+#facs_219_r2l13 bespant
+#facs_219_r2l14 20
+#facs_219_r2l15 2. ditto
+#facs_219_r2l16 30
+#facs_219_r2l17 l'autre vieur avec le coté des
+#facs_219_r2l18 3. ditto.
+#facs_219_r2l19 40
+#facs_219_r2l20 ..
+#facs_219_r2l21 4. ditto.
+#facs_219_r2l22 Neben den für ihren Hausgebrauch
+#facs_219_r2l23 Zollfreyen Personen, sind annoch
+#facs_219_r2l24 die Küher und armen Taglöhner
+#facs_219_r2l25 dafür frey
+#facs_219_r2l26 Bier, das einheimische, vom Saum
+#facs_219_r2l27 Das fremde ins Land kommende
+#facs_219_r2l28 vom Saum
+#facs_219_r2l29 Blech, vom Centner
+#facs_219_r2l30 Bley, vom Centner
+#facs_219_r2l31 Botfell, rohe, die einheimischen
+#facs_219_r2l32 wie auch diese ins Land kommen
+#facs_219_r2l33 wenn sie von einem Ort zum
+#facs_219_r3l1 2
+#facs_219_r3l2 4
+#facs_219_r3l3 2.
+#facs_219_r3l4 2.
+#facs_219_r4l1 „31
+#facs_219_r4l2 Xr
+#facs_219_r4l3 = andern geführt werden, Zahlen
+#facs_219_r4l4 .
+#facs_219_r4l5 vom Centner
+#facs_219_r4l6 2.
+#facs_219_r4l7 Wenn sie aber mit Patenten aus
+#facs_219_r4l8 8
+#facs_219_r4l9 dem Land geführt werden, das
+#facs_219_r4l10 doppelte
+#facs_219_r4l11 vom
+#facs_219_r4l12 Verarbeitete oder Leder,
+#facs_219_r4l13 4
+#facs_219_r4l14 Centner
+#facs_219_r4l15 Bohnen, wie andere blutte Frucht,
+#facs_219_r4l16 wenn sie ins Land kommt oder
+#facs_219_r4l17 von einem Ort zum andern
+#facs_219_r4l18 geführt wird, vom Bern Mütt. ½
+#facs_219_r4l19 von den transitirenden, vom Mütte¬
+#facs_219_r4l20 Von denen mit Oberbeitlicher Be¬
+#facs_219_r4l21 willigung aus dem Land gehenden 2.
+#facs_219_r4l22 Brandtewein, Kirschenwaßer,
+#facs_219_r4l23 und ander gebrante Waßer,
+#facs_219_r4l24 4
+#facs_219_r4l25 vom Saum
+#facs_219_r4l26 2
+#facs_219_r4l27 1.
+#facs_219_r4l28 von 50 Maas
+#facs_219_r4l29 von 25 Maas
+#facs_219_r4l30 8
+#facs_219_r4l31 Die fremden ins Land kommende
+#facs_219_r4l32 4
+#facs_219_r4l33 vom Saum
+#facs_219_r4l34 Die transitirenden vom Saum
+#facs_219_r4l35 NB. Auf einen Saum werden 8 Centner gerechnet
+#facs_220_r2l1 Zugestwagen, zahlt wie Hans¬
+#facs_220_r2l2 rath von jedem angespanten
+#facs_220_r2l3 Pferd oder Stüle Vieh
+#facs_220_r2l4 Zurde, so auf dem Rüken getra¬
+#facs_220_r2l5 gen wird, mit Krämerwaar
+#facs_220_r2l6 von allen Arten
+#facs_220_r2l7 Caffee vom Centner
+#facs_220_r2l8 der transitirende vom Centner
+#facs_220_r2l9 Dauben das Duhend
+#facs_220_r2l10 Druken die im Land gemachte
+#facs_220_r2l11 vom Centner
+#facs_220_r2l12 Die Fremden ins Land kommende
+#facs_220_r2l13 vom Centner
+#facs_220_r2l14 Wenn sie aber auf Kräzen ge
+#facs_220_r2l15 tragen werden, von jeder Krätzung
+#facs_220_r2l16 oder Burde
+#facs_220_r2l17 Eisen, das rohe und unverarbeit¬
+#facs_220_r2l18 tete, vom Centner
+#facs_220_r2l19 das verarbeitete
+#facs_220_r2l20 Eisenflätsch oder Hamerschlag
+#facs_220_r2l21 vom Häßlein
+#facs_220_r2l22 Eisendrath vom Centner
+#facs_220_r3l1 Xa
+#facs_220_r3l2 10„
+#facs_220_r3l3 2.
+#facs_220_r3l4 12
+#facs_220_r3l5 4
+#facs_220_r3l6 2.
+#facs_220_r3l7 1/2
+#facs_220_r3l8 4
+#facs_220_r4l1 1/2
+#facs_220_r4l2 1/2
+#facs_220_r4l3 1
+#facs_220_r4l4 1
+#facs_220_r4l5 2
+#facs_220_r5l1 ※43.
+#facs_220_r5l2 xr
+#facs_220_r5l3 1
+#facs_220_r5l4 = Enten, vom Dozend
+#facs_220_r5l5 wie andere blutte Frucht
+#facs_220_r5l6 Erbs
+#facs_220_r5l7 wenn sie ins Land kommt oder
+#facs_220_r5l8 von einem Ort zum andern
+#facs_220_r5l9 1/2
+#facs_220_r5l10 geführt wird, vom Bern-Mütte
+#facs_220_r5l11 Von den transitirenden, vom Mütte 1
+#facs_220_r5l12 von denen mit Oberkeitl. Be¬
+#facs_220_r5l13 willigung aus dem Land ge¬
+#facs_220_r5l14 2
+#facs_220_r5l15 Henden
+#facs_220_r5l16 Ordengeschirr oder Hafnerarbeit
+#facs_220_r5l17 Von bestelltem inländischem
+#facs_220_r5l18 bey den Hafneren, wird
+#facs_220_r5l19 nichts bezalt
+#facs_220_r5l20 Für eine Bürde Geschier auf
+#facs_220_r5l21 Bewinn und Gewerb hin.„ 1,
+#facs_220_r5l22 Von einem kleinen Karren mit
+#facs_220_r5l23 2
+#facs_220_r5l24 Geschirr
+#facs_220_r5l25 Von einem Wagen einheimisch
+#facs_220_r5l26 Geschirr, für jedes Pferd oder
+#facs_220_r5l27 vorgespannte Stük Vieh¬
+#facs_220_r5l28 Von einem Wagen fremdes Geschirn
+#facs_220_r5l29 mit einem vorgespannten Pferd 2.
+#facs_220_r5l30 ¬denne
+#facs_221_r2l1 x
+#facs_221_r2l2 deme von jedem Pferd so dar
+#facs_221_r2l3 über auch noch vorgespannt ist. 2
+#facs_221_r2l4 von einer Bürde fremdes Geschirr¬
+#facs_221_r2l5 Essig vom fremden, so ins Land
+#facs_221_r2l6 4
+#facs_221_r2l7 kommt, vom Saum
+#facs_221_r2l8 von dem transitirenden vom Saum 1
+#facs_221_r2l9 von dem so im Land gemacht
+#facs_221_r2l10 1
+#facs_221_r2l11 wird vom Saum
+#facs_221_r2l12 B. der Saum zu 100. Bern Maas
+#facs_221_r2l13 gerechnet und dieser zu
+#facs_221_r2l14 drey Centner angeschlagen
+#facs_221_r2l15 1/2
+#facs_221_r2l16 Faselschwein, vom Stüle
+#facs_221_r2l17 rohe, von Kälbern, Schaafen
+#facs_221_r2l18 Sell,
+#facs_221_r2l19 Böken, Beisen, Gizen, die
+#facs_221_r2l20 einheimischen wie auch diese
+#facs_221_r2l21 ins Land kommen, wenn
+#facs_221_r2l22 sie von einem Ort zum andern
+#facs_221_r2l23 geführt werden, zahlen vom
+#facs_221_r2l24 a 2
+#facs_221_r2l25 Centner
+#facs_221_r2l26 Wenn sie aber mit Patenten aus
+#facs_221_r2l27 dem Land geführt werden, das
+#facs_221_r2l28 loppelte.
+#facs_221_r2l29 Verarbeitete, oder Leder vom Centner A
+#facs_221_r3l1 135
+#facs_221_r3l2 In
+#facs_221_r3l3 Fisch, dürre und eingesalzene
+#facs_221_r3l4 vom Centner
+#facs_221_r3l5 1
+#facs_221_r3l6 Frische oder lebendige aber sind
+#facs_221_r3l7 Zollfrey
+#facs_221_r3l8 Slachs oder Hanfsamen, von
+#facs_221_r3l9 dem, so ins Land komt, oder
+#facs_221_r3l10 von einem Ort zum andern
+#facs_221_r3l11 1/2
+#facs_221_r3l12 geführt wird, vom Centner
+#facs_221_r3l13 NB: der Mütt zu 150 Pfund
+#facs_221_r3l14 gerechnet.
+#facs_221_r3l15 2
+#facs_221_r3l16 Flachs oder Aysten vom Centner
+#facs_221_r3l17 1 1/2
+#facs_221_r3l18 von 75 Pfund
+#facs_221_r3l19 1
+#facs_221_r3l20 von 50. Pfund
+#facs_221_r3l21 1/2
+#facs_221_r3l22 von 25 Pfund.
+#facs_221_r3l23 Frucht in Fäsen, als Dinkel,
+#facs_221_r3l24 Haben, Bersten.
+#facs_221_r3l25 von der, so ins Landbommt,
+#facs_221_r3l26 oder darinnen von einem
+#facs_221_r3l27 Ort zum andern geführt
+#facs_221_r3l28 wird vom Bern Mutt v. 12 März ½
+#facs_221_r3l29 Von der transitirenden vom
+#facs_221_r3l30 1
+#facs_221_r3l31 Mütt.
+#facs_221_r3l32 = von
+#facs_222_r2l1 Kr
+#facs_222_r2l2 von der, so mit Oberkeitl.
+#facs_222_r2l3 Bewilligung aus dem Land
+#facs_222_r2l4 geführt wird, vom Müll.
+#facs_222_r2l5 Frucht ohne Hästen, oder blos¬
+#facs_222_r2l6 als Kernen, Roggen, Weizen
+#facs_222_r2l7 Mischelborn, Bohnen, Wike,
+#facs_222_r2l8 Eabs, Linsten, Welsches, oder
+#facs_222_r2l9 Türbenkorn, Hirs, Fench
+#facs_222_r2l10 und dergleichen, wie auch
+#facs_222_r2l11 Mehl, Haberkernen und
+#facs_222_r2l12 Habermehl
+#facs_222_r2l13 Von derjenigen, so ins Land kommt
+#facs_222_r2l14 oder darinnen von einem
+#facs_222_r2l15 Ort zum andern geführt
+#facs_222_r2l16 1
+#facs_222_r2l17 wird, vom Bern Mütt zu 12 Mäb
+#facs_222_r2l18 2.
+#facs_222_r2l19 Von der transitirenden vom Mütt¬
+#facs_222_r2l20 von der mit Oberkeitl. Bewilligung
+#facs_222_r2l21 aus dem Land gehenden, vom
+#facs_222_r2l22 2
+#facs_222_r2l23 Müté
+#facs_222_r2l24 2
+#facs_222_r2l25 Sloß, vom Holz, vom einfachen
+#facs_222_r2l26 4
+#facs_222_r2l27 Vom Doppelten
+#facs_222_r2l28 Außgäriger so oft er passierte 1/2.
+#facs_222_r3l1 spindre 17
+#facs_222_r3l2 der
+#facs_222_r3l3 Sablen, Rechen, Schauflen,
+#facs_222_r3l4 die auf einem Wagen geführt
+#facs_222_r3l5 2
+#facs_222_r3l6 werden von 100. Stük.
+#facs_222_r3l7 .
+#facs_222_r3l8 2
+#facs_222_r3l9 Oder vom Dozend
+#facs_222_r3l10 Wenn Sie aber aus dem Land
+#facs_222_r3l11 A
+#facs_222_r3l12 geführt werden vom 100
+#facs_222_r3l13 1
+#facs_222_r3l14 Gäns, vom Dozend
+#facs_222_r3l15 Garn, flächfig oder rystig, vom
+#facs_222_r3l16 2
+#facs_222_r3l17 Centner
+#facs_222_r3l18 1½
+#facs_222_r3l19 von 75. Pfund
+#facs_222_r3l20 1
+#facs_222_r3l21 von 50. Pfund.
+#facs_222_r3l22 2.
+#facs_222_r3l23 von 25 Pfund und darunter
+#facs_222_r3l24 Geflügel, von gemeinen Hüneren
+#facs_222_r3l25 Hahnen, Bäufen, Enten
+#facs_222_r3l26 Schnepfen, Waßerhühnern
+#facs_222_r3l27 1
+#facs_222_r3l28 vom Dozend.
+#facs_222_r3l29 dauben, Wechteln, Lerchen,
+#facs_222_r3l30 Von
+#facs_222_r3l31 Amseln, Rekholder, und der¬
+#facs_222_r3l32 gleichen Vögeln, vom Dezend¼
+#facs_222_r3l33 1
+#facs_222_r3l34 Seisen, von fünfen.
+#facs_222_r3l35 Seipfell, rohe, die einheimischen, wie
+#facs_222_r3l36 auch die so ins Land kommen,
+#facs_222_r3l37 Wenn sie von einem Ort zum andern
+#facs_222_r3l38 geführt werden, zahlen vom Centner 2
+#facs_222_r3l39 =Wenn
+#facs_223_r2l1 Xe
+#facs_223_r2l2 = Wenn sie aber mit Patenten
+#facs_223_r2l3 aus dem Land geführt werden
+#facs_223_r2l4 das doppelte.
+#facs_223_r2l5 Verarbeitete oder Leder vom Contur.
+#facs_223_r2l6 Sizifell, rohe, die einheimischen
+#facs_223_r2l7 wie auch die, so ins Land
+#facs_223_r2l8 kommen, wenn sie von
+#facs_223_r2l9 einem Ort zum andern ge¬
+#facs_223_r2l10 führt werden, zahlen vom
+#facs_223_r2l11 2
+#facs_223_r2l12 Centner
+#facs_223_r2l13 Wenn sie aber mit Patenten
+#facs_223_r2l14 aus dem Land geführt werden
+#facs_223_r2l15 das doppelte
+#facs_223_r2l16 Verarbeitete oder Leder, vom Centner A:
+#facs_223_r2l17 Gerberloh oder Lohmehl, tannige
+#facs_223_r2l18 oder eichige Rinden, die mö
+#facs_223_r2l19 Land kommen, oder darinnen
+#facs_223_r2l20 von einem Ort zum andern
+#facs_223_r2l21 geführt werden, zahlen von
+#facs_223_r2l22 2 Säken
+#facs_223_r2l23 der transitirende vom Sak
+#facs_223_r2l24 Der mit Oberkeitl. Bewilligung
+#facs_223_r2l25 aus dem Land gehende, vom Sal¬
+#facs_223_r4l1 1/25
+#facs_223_r4l2 1/2
+#facs_223_r5l1 ö439
+#facs_223_r5l2 X
+#facs_223_r5l3 Getreid in Fästen, als Dinkel
+#facs_223_r5l4 Haber, Gersten.
+#facs_223_r5l5 von dem, so ins Land kommt, oder
+#facs_223_r5l6 darinnen von einem Ort zum
+#facs_223_r5l7 andern geführt wird, vom
+#facs_223_r5l8 2
+#facs_223_r5l9 Bern Mütt von 12. Mäs¬
+#facs_223_r5l10 Von dem transitirenden, vom Mütte,
+#facs_223_r5l11 von dem, so mit Oberkeitlicher
+#facs_223_r5l12 Bewilligung aus dem Land
+#facs_223_r5l13 1
+#facs_223_r5l14 geführt wird, vom Mütt¬
+#facs_223_r5l15 Getreid ohne Häfen, oder bloßes
+#facs_223_r5l16 als Kernen, Roggen, Weizen,
+#facs_223_r5l17 Mischelkorn, Bohnen, Wibe,
+#facs_223_r5l18 Erbs, Linsten, Welsches, oder
+#facs_223_r5l19 Türkenkorn, Hirs, Fench
+#facs_223_r5l20 und dergleichen, wie auch Mehl
+#facs_223_r5l21 Haberkernen und Habermahl
+#facs_223_r5l22 von demjenigen so ins Land komt
+#facs_223_r5l23 oder darinnen von einem Ort
+#facs_223_r5l24 zum andern geführt wird, vom
+#facs_223_r5l25 Bern Mütt zu 12. Mäs. 1.
+#facs_223_r5l26 Von dem transitirenden, vom Mutten 2
+#facs_223_r5l27 Von dem mit Oberkeitl. Bewilligung
+#facs_223_r5l28 aus dem Land gehenden, vom Mutter2
+#facs_224_r3l1 Glas, Gläser, Guttern, Flaschen
+#facs_224_r3l2 Venetianisch und böhmisch
+#facs_224_r3l3 Blas, Waldglas und Fenster
+#facs_224_r3l4 Glas ohne Unterscheid
+#facs_224_r3l5 1
+#facs_224_r3l6 von einer Kräzen voll...
+#facs_224_r3l7 2
+#facs_224_r3l8 von einem beladenen Bastpferd
+#facs_224_r3l9 von einem Wagen voll, für
+#facs_224_r3l10 2
+#facs_224_r3l11 jedes vorgespannte Pferd
+#facs_224_r3l12 Gloggenspeis, oder Erz, Mösch,
+#facs_224_r3l13 2
+#facs_224_r3l14 vom Centner
+#facs_224_r3l15 2
+#facs_224_r3l16 Gips, der Feine, vom Fäßli¬
+#facs_224_r3l17 1
+#facs_224_r3l18 der gemeine vom Fäßli¬
+#facs_224_r3l19 Der feine, aus dem Land gehende
+#facs_224_r3l20 4
+#facs_224_r3l21 vom Fäßli
+#facs_224_r3l22 2
+#facs_224_r3l23 der gemeine,, vom Fäßli¬
+#facs_224_r3l24 Haber, von dem so ins Land kommt
+#facs_224_r3l25 oder darinnen von einem
+#facs_224_r3l26 Ort zum andern geführt wird,
+#facs_224_r3l27 ½
+#facs_224_r3l28 vom Bern Mutt von 12. Mas¬
+#facs_224_r3l29 1
+#facs_224_r3l30 Von dem transitirenden von Mütt¬
+#facs_224_r3l31 von dem so mit Oberkeitlicher
+#facs_224_r3l32 Bewilligung aus dem Land
+#facs_224_r3l33 geführt wird, vom Mütt¬
+#facs_224_r4l1 41.
+#facs_224_r4l2 Xe
+#facs_224_r4l3 Habermehl, Haberternen und Mehl.
+#facs_224_r4l4 von dem, so ins Landkomt, oder
+#facs_224_r4l5 in selbigem von einem Ort
+#facs_224_r4l6 zum andern geführt wird,
+#facs_224_r4l7 vom Mütt zu 12. Mäs
+#facs_224_r4l8 Von dem transitirenden vom
+#facs_224_r4l9 Centner
+#facs_224_r4l10 Von dem, so mit Oberkeitlicher
+#facs_224_r4l11 Bewilligung aus dem Land
+#facs_224_r4l12 geführt wird, vom Mütt
+#facs_224_r4l13 Hafner glätte, dieso ins Land
+#facs_224_r4l14 kommt, oder darinnen verführt
+#facs_224_r4l15 wird vom Centner
+#facs_224_r4l16 Hafnerarbeit, von bestellter
+#facs_224_r4l17 inländischer bey den Haf¬
+#facs_224_r4l18 neren, wird nichts bezahlt.
+#facs_224_r4l19 Für eine Bürde Geschirr auf
+#facs_224_r4l20 1
+#facs_224_r4l21 Gewinn und Gewerb hin
+#facs_224_r4l22 Von einem kleinen Karren mit
+#facs_224_r4l23 2.
+#facs_224_r4l24 Geschien
+#facs_224_r4l25 von einem Wagen einheimisch
+#facs_224_r4l26 Geschirr, für jedes Pferd oder
+#facs_224_r4l27 vorgespannte Stür Vieh.
+#facs_224_r4l28 = von
+#facs_224_r5l1 1
+#facs_224_r5l2 2.
+#facs_224_r5l3 2.
+#facs_224_r5l4 1/20
+#facs_225_r3l1 X
+#facs_225_r3l2 Dem einem Wagen fremdes
+#facs_225_r3l3 Geschier, mit einem vorge¬
+#facs_225_r3l4 2
+#facs_225_r3l5 pannten Pferd.
+#facs_225_r3l6 demie von jedem Pferd so dar¬
+#facs_225_r3l7 über aus noch vorgespannt ist. 2
+#facs_225_r3l8 1
+#facs_225_r3l9 von einer Bürde fremdes Geschirn
+#facs_225_r3l10 1
+#facs_225_r3l11 Hahnen, vom Dozend
+#facs_225_r3l12 Hammerschlag oder Eisenflätsch,
+#facs_225_r3l13 1.
+#facs_225_r3l14 vom Fäßli
+#facs_225_r3l15 1/2
+#facs_225_r3l16 Hauf, roher, und Kinder vom Centner
+#facs_225_r3l17 Haufsaamen, von dem so ins
+#facs_225_r3l18 Land komt, und von einem
+#facs_225_r3l19 Ort zum andern geführt wird,
+#facs_225_r3l20 Der Mütt zu 150. Pfund gerechnet.
+#facs_225_r3l21 Hartz und Pech, vom Centner
+#facs_225_r3l22 Hausrath und Zett zahlen:
+#facs_225_r3l23 von einem Wagen, mit
+#facs_225_r3l24 1. Stüle Vieh bespannt
+#facs_225_r3l25 mit 2 dito.
+#facs_225_r3l26 mit 3 dito
+#facs_225_r3l27 mit 4. dito
+#facs_225_r3l28 Neben den für ihren Hausgebrauch
+#facs_225_r3l29 Zollfreyen Personen, sind annoch
+#facs_225_r3l30 die Küher und armen Taglöhner
+#facs_225_r3l31 dafür frey
+#facs_225_r6l1 10„
+#facs_225_r6l2 20
+#facs_225_r6l3 30
+#facs_225_r6l4 40
+#facs_225_r7l1 des
+#facs_225_r7l2 x
+#facs_225_r7l3 rohe, von Pferden, Rindern
+#facs_225_r7l4 Haût
+#facs_225_r7l5 und Kühen
+#facs_225_r7l6 Von einer grünen Rinds- oder
+#facs_225_r7l7 Kühhaut, die ins Land kommt¬
+#facs_225_r7l8 oder darinnen von einem Ort
+#facs_225_r7l9 ..........
+#facs_225_r7l10 zum andern geht
+#facs_225_r7l11 1/2
+#facs_225_r7l12 Von einer grünen Pferdhaut
+#facs_225_r7l13 von einer Rinds- oder Kuhhaut
+#facs_225_r7l14 die mit Oberkeitlicher Bewil¬
+#facs_225_r7l15 ligung aus dem Land geführ¬
+#facs_225_r7l16 4
+#facs_225_r7l17 wird
+#facs_225_r7l18 Von einer Pferdhaut, die aus den
+#facs_225_r7l19 2
+#facs_225_r7l20 Land geführt wird.
+#facs_225_r7l21 2
+#facs_225_r7l22 Von den dürren Häuten, vom Centner
+#facs_225_r7l23 Von den aus dem Land gehenden
+#facs_225_r7l24 6
+#facs_225_r7l25 dürren Häuten.
+#facs_225_r7l26 Heugabeln, die auf einem Wegen
+#facs_225_r7l27 2
+#facs_225_r7l28 geführt werden, von 100. Stül
+#facs_225_r7l29 2
+#facs_225_r7l30 Oder vom Dozend
+#facs_225_r7l31 Wenn sie aber aus dem Land ge¬
+#facs_225_r7l32 4
+#facs_225_r7l33 führt werden, vom 100
+#facs_225_r7l34 Heu und Stroh, das mit Oberbeitl.
+#facs_225_r7l35 Bewilligung aus dem Land
+#facs_225_r7l36 geführt wird, vom Fuder 16.
+#facs_225_r7l37 Das, so im Land ciebuliert ist Zollfrey
+#facs_226_r2l1 Ain
+#facs_226_r2l2 1
+#facs_226_r2l3 Holz, ein Baum oder Dahend Läden
+#facs_226_r2l4 2.
+#facs_226_r2l5 Ein hundert Latten
+#facs_226_r2l6 1/2
+#facs_226_r2l7 ein tausend Schindlen
+#facs_226_r2l8 Stilling sind Zollfrey
+#facs_226_r2l9 Von einem großen neuen Schiff
+#facs_226_r2l10 10
+#facs_226_r2l11 dire les
+#facs_226_r2l12 wird bezalt
+#facs_226_r2l13 von einem Halbschiff und
+#facs_226_r2l14 6.
+#facs_226_r2l15 Spizweidling
+#facs_226_r2l16 2.
+#facs_226_r2l17 von einem dreylädigen Weidling
+#facs_226_r2l18 von einem Fuder Schalten und
+#facs_226_r2l19 4
+#facs_226_r2l20 Ruder
+#facs_226_r2l21 neuen
+#facs_226_r2l22 von einem leeren Lande oder
+#facs_226_r2l23 1
+#facs_226_r2l24 Ryfefas
+#facs_226_r2l25 2
+#facs_226_r2l26 von einem halben dito
+#facs_226_r2l27 2
+#facs_226_r2l28 Von eichenen Fasthauen vom 100
+#facs_226_r2l29 1
+#facs_226_r2l30 von 100 tannigen dito
+#facs_226_r2l31 von allem Bütti, kleinem
+#facs_226_r2l32 Küffergeschirn und Reifen
+#facs_226_r2l33 so auf Wagen geführt wird,
+#facs_226_r2l34 Zalt man von jedem vorge¬
+#facs_226_r2l35 spannten Pferd oder Stukkiehe 2
+#facs_226_r2l36 Von allerhand Holzwaare, als druber
+#facs_226_r2l37 Schachteln, Näpf, Teller, wenn durch
+#facs_226_r2l38 glaubwürdige Scheine bewiesen
+#facs_226_r2l39 wird, daß selbige im Land ver¬
+#facs_226_r2l40 fertiget worden, vom Centmar
+#facs_226_r3l1 2.
+#facs_226_r3l2 = Bon=
+#facs_226_r4l1 est
+#facs_226_r4l2 Xe
+#facs_226_r4l3 von der Krätze gleicher Waaren
+#facs_226_r4l4 2
+#facs_226_r4l5 Von der fremden auf Wagen
+#facs_226_r4l6 ins Land kommenden, vom Centner 4
+#facs_226_r4l7 2.
+#facs_226_r4l8 von der Krätze gleicher Waare
+#facs_226_r4l9 Von allerhand Hölzernem Werk¬
+#facs_226_r4l10 Zeug und Geschirr, als Rechen
+#facs_226_r4l11 Bablen, Schauflen, die auf
+#facs_226_r4l12 einem Wagen geführt werden
+#facs_226_r4l13 2
+#facs_226_r4l14 von 100. Stük
+#facs_226_r4l15 21
+#facs_226_r4l16 Oder vom Dezend
+#facs_226_r4l17 Wenn sie aber aus dem Land
+#facs_226_r4l18 4
+#facs_226_r4l19 geführt werden, vom 100
+#facs_226_r4l20 2
+#facs_226_r4l21 von einem Dozend Wannen
+#facs_226_r4l22 Von einer Römlen oder einem
+#facs_226_r4l23 2
+#facs_226_r4l24 Wannvorb
+#facs_226_r4l25 Und wenn sie aus dem Land
+#facs_226_r4l26 gehen, das doppelte.
+#facs_226_r4l27 2
+#facs_226_r4l28 4
+#facs_226_r4l29 Hönig, vom Häßlein
+#facs_226_r4l30 1
+#facs_226_r4l31 Vom Centner
+#facs_226_r4l32 /2/
+#facs_226_r4l33 Hühner, vom Dozend
+#facs_226_r4l34 Kälber von einem
+#facs_226_r4l35 Kalbfell, rohe, die einheimischen
+#facs_226_r4l36 Wie auch die so ins Land kommen
+#facs_226_r4l37 wenn sie von einem Ort zum andern
+#facs_226_r4l38 geführt werden, zahlen vom Centner 2
+#facs_226_r4l39 = Hennen
+#facs_227_r2l1 Ao
+#facs_227_r2l2 Wenn sie aber mit Patenten
+#facs_227_r2l3 aus dem Land geführt werden
+#facs_227_r2l4 das doppelte
+#facs_227_r2l5 Verarbeitete oder Leder, von
+#facs_227_r2l6 4
+#facs_227_r2l7 l'autre vieur d'Etaté, ou dans le dernier
+#facs_227_r2l8 Centner
+#facs_227_r2l9 1
+#facs_227_r2l10 kärst vom Dozend
+#facs_227_r2l11 2,
+#facs_227_r2l12 Kas vom Centner
+#facs_227_r2l13 Kuder und rohen Hanf vom Centnern ½
+#facs_227_r2l14 2.
+#facs_227_r2l15 kupfer vom Centner
+#facs_227_r2l16 ge-
+#facs_227_r2l17 Kirschenwaßer und andere
+#facs_227_r2l18 brannte Waser:
+#facs_227_r2l19 vom Saum
+#facs_227_r2l20 von 50 Maas
+#facs_227_r2l21 von 25. Maas.
+#facs_227_r2l22 Die Fremden ins Land kommende
+#facs_227_r2l23 vom Saum
+#facs_227_r2l24 Die transtitirenden vom Saun
+#facs_227_r2l25 NB: Auf einen Saum werden
+#facs_227_r2l26 3. Centner gerechnet.
+#facs_227_r2l27 Kleines Vieh oder Schmahl Vieh
+#facs_227_r2l28 von fünf Schaafen oder Geisten
+#facs_227_r2l29 von einem Kalb
+#facs_227_r2l30 6
+#facs_227_r2l31 von 1r Fetten Schwein so aus dem
+#facs_227_r2l32 Land geführt wird
+#facs_227_r2l33 l'autre et de la guerre, et de
+#facs_227_r2l34 Wenn es aber im Land bleibt
+#facs_227_r3l1 4.
+#facs_227_r3l2 2
+#facs_227_r3l3 1
+#facs_227_r3l4 8
+#facs_227_r3l5 4
+#facs_227_r4l1 1
+#facs_227_r4l2 /2
+#facs_227_r4l3 2
+#facs_227_r4l4 1
+#facs_227_r4l5 bonne
+#facs_227_r6l1 447.
+#facs_227_r6l2 x
+#facs_227_r6l3 Von einem mageren Schwerin
+#facs_227_r6l4 1/2
+#facs_227_r6l5 6
+#facs_227_r6l6 a/2
+#facs_227_r6l7 Fährli, von 6. Stük
+#facs_227_r6l8 Kohl von Holz, ist Zollfrey
+#facs_227_r6l9 der Steinkohl ist auch Zollfrey
+#facs_227_r6l10 Korn, in Häfen, von demjenigen
+#facs_227_r6l11 so ins Land kommt, oder darin,
+#facs_227_r6l12 nen von einem Ort zum an
+#facs_227_r6l13 dern geführt wird, vom Bern¬
+#facs_227_r6l14 Mütt zu 12 Mäs.
+#facs_227_r6l15 Von dem transitirenden vom Müll¬
+#facs_227_r6l16 Von dem mit oberkeitl. Bewilligung
+#facs_227_r6l17 aus dem Land gehenden, vom
+#facs_227_r6l18 1
+#facs_227_r6l19 Mütt.
+#facs_227_r6l20 ohne Fäfere, von demjenigen
+#facs_227_r6l21 Korn
+#facs_227_r6l22 so ins Land kommt, oder
+#facs_227_r6l23 darinnen von einem Ort
+#facs_227_r6l24 zum anderen geführt wird,
+#facs_227_r6l25 vom Bern Mütt zu 12 Mäs.
+#facs_227_r6l26 2
+#facs_227_r6l27 Von dem transitirenden
+#facs_227_r6l28 Von dem mit Oberkeitl. Bewilligung
+#facs_227_r6l29 2.
+#facs_227_r6l30 aus dem Land gehenden, vom
+#facs_227_r6l31 Mütte
+#facs_227_r6l32 Kräzenträger oder Krämerwaaren
+#facs_227_r6l33 von allen Arten, von der
+#facs_227_r6l34 2.
+#facs_227_r6l35 Burde, so auf dem Ruben
+#facs_227_r6l36 getragen wird
+#facs_228_r2l1 Krämerwaare, von allen Arten
+#facs_228_r2l2 von der Burde so auf dem
+#facs_228_r2l3 Rüken getragen wird.
+#facs_228_r2l4 Rüfferholz und Arbeit.
+#facs_228_r2l5 Von einem neuen leeren Land-
+#facs_228_r2l6 oder Ryffas
+#facs_228_r2l7 Von einem halben dito
+#facs_228_r2l8 von eichenen Faßthauen vom 100.
+#facs_228_r2l9 von 100 tannigen dito
+#facs_228_r2l10 von allem Bütti, kleinen Geschir
+#facs_228_r2l11 und Reifen, so auf Wagen
+#facs_228_r2l12 geführt wird, zahlt man von
+#facs_228_r2l13 jedem vorgespannten Pferd oder
+#facs_228_r2l14 Stüle Vieh.
+#facs_228_r2l15 Kühe, von einer Fetten
+#facs_228_r2l16 Wenn sie aber von einem Unter-
+#facs_228_r2l17 than oder Eid großen Verkauft
+#facs_228_r2l18 wird, vom Stürc
+#facs_228_r2l19 von einer majeren, wenn sie
+#facs_228_r2l20 aus dem Land verkauft wird,
+#facs_228_r2l21 vom Stür
+#facs_228_r2l22 Wenn sie aber im Land bleibt
+#facs_228_r2l23 vom Stük
+#facs_228_r2l24 Aubhaut, von einer grünen die
+#facs_228_r2l25 ms
+#facs_228_r3l1 A
+#facs_228_r4l1 1/2
+#facs_228_r4l2 21
+#facs_228_r4l3 1
+#facs_228_r5l1 2
+#facs_228_r5l2 2
+#facs_228_r5l3 l.
+#facs_228_r6l1 2
+#facs_228_r6l2 1/2
+#facs_228_r7l1 49.
+#facs_228_r7l2 X
+#facs_228_r7l3 ins Land vomt, oder darinnen
+#facs_228_r7l4 von einem Ort zum andern
+#facs_228_r7l5 1
+#facs_228_r7l6 geht
+#facs_228_r7l7 Von einer die mit Oberbeitlicher
+#facs_228_r7l8 Bewilligung aus dem Land
+#facs_228_r7l9 4
+#facs_228_r7l10 geführt wird.
+#facs_228_r7l11 2
+#facs_228_r7l12 Von den dürren Haüten, vom Centner
+#facs_228_r7l13 Von den aus dem Land gehenden
+#facs_228_r7l14 6
+#facs_228_r7l15 dürren Hauten
+#facs_228_r7l16 Rutsche, Chaise und Wagen, sie
+#facs_228_r7l17 mag nun voll oder leer seyn
+#facs_228_r7l18 von jedem vorgespannten
+#facs_228_r7l19 Pferd
+#facs_228_r7l20 So oft sie über die Brugg fahrt
+#facs_228_r7l21 Lawatsamen, von dem so ins
+#facs_228_r7l22 Land kommt, und von einem
+#facs_228_r7l23 Ort zum andern geführt
+#facs_228_r7l24 ½
+#facs_228_r7l25 wird.
+#facs_228_r7l26 Der Mutt zu 150. lb gerechnet
+#facs_228_r7l27 Linsen, von denjenigen, so ins Land
+#facs_228_r7l28 kommen, oder darinnen von
+#facs_228_r7l29 einem Ort zum anderen
+#facs_228_r7l30 geführt werden, vom
+#facs_228_r7l31 Bern. Mütt zu 12. Mäs. 1.
+#facs_228_r7l32 = von
+#facs_229_r2l1 Ar
+#facs_229_r2l2 = von denen transitirenden
+#facs_229_r2l3 2.
+#facs_229_r2l4 vom Mütt
+#facs_229_r2l5 von denen mit Oberkeitlicher
+#facs_229_r2l6 Bewilligung aus dem Land
+#facs_229_r2l7 2
+#facs_229_r2l8 gehenden, vom Mütt
+#facs_229_r2l9 Lohmehl das ins Land kommt,
+#facs_229_r2l10 oder darinnen von einem
+#facs_229_r2l11 Ort zum andern geführt
+#facs_229_r2l12 12
+#facs_229_r2l13 wird, zahlt von 2. Säken
+#facs_229_r2l14 1/2
+#facs_229_r2l15 das transitirende vom Sale.
+#facs_229_r2l16 Das mit oberkeitlicher Bewil¬
+#facs_229_r2l17 ligung aus dem Land gehende
+#facs_229_r2l18 1
+#facs_229_r2l19 vom Sale.
+#facs_229_r2l20 1,
+#facs_229_r2l21 Lumpen, vom Centner
+#facs_229_r2l22 Meersalz, oder Salz das die
+#facs_229_r2l23 Ausmeßere aus den Ober¬
+#facs_229_r2l24 keitlichen Magazinen und
+#facs_229_r2l25 Lagern wegführen, vom Faß. 4
+#facs_229_r2l26 das franfitirende, gleichfalls
+#facs_229_r2l27 4
+#facs_229_r2l28 vom Faß
+#facs_229_r2l29 Mehl, von demjenigen so ins
+#facs_229_r2l30 Land komt, oder darinen
+#facs_229_r2l31 von einem Ort zum andern
+#facs_229_r2l32 geführt wird, vom Bernr
+#facs_229_r2l33 ..
+#facs_229_r2l34 Mütt, zu 12 Mäs
+#facs_229_r2l35 — von
+#facs_229_r3l1 Von dem transitirenden von
+#facs_229_r3l2 Müte
+#facs_229_r3l3 Von dem mit Oberkeitl. Bewil¬
+#facs_229_r3l4 ligung aus dem Land gehenden
+#facs_229_r3l5 vom Mütt
+#facs_229_r3l6 Neping vom Centner
+#facs_229_r3l7 Nulchen, und zwar
+#facs_229_r3l8 der Käs vom Centner
+#facs_229_r3l9 der Anken so im Land bleibt
+#facs_229_r3l10 l'autre vieur d'Etaté, et de
+#facs_229_r3l11 vom Centner
+#facs_229_r3l12 der so mit oberkeitlicher Bewil¬
+#facs_229_r3l13 ligung aus dem Land gehet
+#facs_229_r3l14 der Zieger bezahlt vom Centur
+#facs_229_r3l15 Das Unschlitt Schmähr und Schmalz
+#facs_229_r3l16 vom Centner
+#facs_229_r3l17 Mühlsteine, und zwar der Boden
+#facs_229_r3l18 der Käufen
+#facs_229_r3l19 l'a d'icuil de l'autre et de la
+#facs_229_r3l20 fatten
+#facs_229_r3l21 Ochsen, von einem
+#facs_229_r3l22 Wenn er aber einem Unterthan
+#facs_229_r3l23 oder Eidgenoßen verkauft
+#facs_229_r3l24 ..
+#facs_229_r3l25 wird, vom Stük
+#facs_229_r3l26 Von einem magären, wenn er
+#facs_229_r3l27 aus dem Land verkauft wird
+#facs_229_r3l28 vom Stüb
+#facs_229_r3l29 Wenn er aber im Land bleibt,
+#facs_229_r3l30 vom Stüle.
+#facs_229_r4l1 45
+#facs_229_r4l2 a
+#facs_229_r4l3 2
+#facs_229_r5l1 2.
+#facs_229_r5l2 2
+#facs_229_r5l3 2
+#facs_229_r5l4 2
+#facs_229_r5l5 4
+#facs_229_r5l6 2
+#facs_229_r5l7 8
+#facs_229_r5l8 4.
+#facs_229_r5l9 2
+#facs_229_r6l1 2
+#facs_230_r2l1 Ochsenhaut, von einer grünen
+#facs_230_r2l2 die ins Landkomt, oder
+#facs_230_r2l3 darinnen von einem Ort
+#facs_230_r2l4 zum andern geht
+#facs_230_r2l5 Von einer die mit Oberbeitlicher
+#facs_230_r2l6 Bewilligung aus dem Land
+#facs_230_r2l7 geführt wird
+#facs_230_r2l8 von den dürren Haüten vom Cent
+#facs_230_r2l9 von den aus dem Land gehenden
+#facs_230_r2l10 dürren Haüten
+#facs_230_r2l11 Oefen, von bestellten inländischen
+#facs_230_r2l12 bey den Hafneren, wird
+#facs_230_r2l13 nichts bezahlt
+#facs_230_r2l14 von dem übrigen siehe den Ar¬
+#facs_230_r2l15 tikel Erdengeschirr und
+#facs_230_r2l16 Hafnerarbeit
+#facs_230_r2l17 Oehl, gemeines vom Centner
+#facs_230_r2l18 l'autre vieur d'Etaté, et de cet conseil
+#facs_230_r2l19 Rech und Harz, vom Centner
+#facs_230_r2l20 Ritel, zum Graben, vom Dozend
+#facs_230_r2l21 Pferd, von einem ungeladenen so
+#facs_230_r2l22 im Land von einem Ort zum
+#facs_230_r2l23 andern geführt wird.
+#facs_230_r2l24 Von einem Pferd das im Land angebauft
+#facs_230_r2l25 und daraus geführt wird
+#facs_230_r5l1 4
+#facs_230_r5l2 2
+#facs_230_r5l3 6
+#facs_230_r6l1 2
+#facs_230_r6l2 17
+#facs_230_r7l1 i
+#facs_230_r7l2 1
+#facs_230_r8l1 Pferdhaut, von einer grünen, die
+#facs_230_r8l2 ins Land kommt, oder darinnen
+#facs_230_r8l3 von einem Ort zum andern geht
+#facs_230_r8l4 Von einer die aus dem Land ger
+#facs_230_r8l5 führt wird,
+#facs_230_r8l6 von den dürren Haüten vom Centner
+#facs_230_r8l7 Von den aus dem Land gehender
+#facs_230_r8l8 dürren Haüten
+#facs_230_r8l9 Pulfer, der Centner
+#facs_230_r8l10 Rebsteten oder Stichling, sind
+#facs_230_r8l11 Zollfrey
+#facs_230_r8l12 Rebhürier, vom Dozend
+#facs_230_r8l13 Rechen, die auf einem Wagen ge¬
+#facs_230_r8l14 führt werden von 100. Stük
+#facs_230_r8l15 Oder vom Dozend
+#facs_230_r8l16 Wenn sie aber aus dem Land
+#facs_230_r8l17 geführt werden vom 100
+#facs_230_r8l18 Rekholdervögel, vom Dozend.
+#facs_230_r8l19 Retholderwasser vom Saum
+#facs_230_r8l20 von 50. Maas
+#facs_230_r8l21 von 25. Maas
+#facs_230_r8l22 das fremde ins Land kommende
+#facs_230_r8l23 vom Saum
+#facs_230_r8l24 das transitirende vom Saum
+#facs_230_r8l25 NB: auf einen Saum werden
+#facs_230_r8l26 3. Centner gerechnet.
+#facs_230_r9l1 153.
+#facs_230_r9l2 X
+#facs_230_r9l3 1/2
+#facs_230_r9l4 2
+#facs_230_r9l5 2.
+#facs_230_r9l6 6
+#facs_230_r9l7 1
+#facs_230_r10l1 1.
+#facs_230_r10l2 2
+#facs_230_r10l3 2f
+#facs_230_r10l4 4
+#facs_230_r10l5 1/2
+#facs_230_r10l6 4
+#facs_230_r10l7 2.
+#facs_230_r10l8 1
+#facs_230_r10l9 8
+#facs_230_r10l10 4
+#facs_231_r2l1 X
+#facs_231_r2l2 1
+#facs_231_r2l3 Reitender so oft erpaßigt,
+#facs_231_r2l4 Kinde, tannige oder ruhige die
+#facs_231_r2l5 ins Land kommt oder darinnen
+#facs_231_r2l6 von einem Ort zum andern
+#facs_231_r2l7 geführt wird, zahlt von
+#facs_231_r2l8 "
+#facs_231_r2l9 2. Säken
+#facs_231_r2l10 Die transitirende vom Sak¬
+#facs_231_r2l11 die mit Oberkeitl. Bewilligung
+#facs_231_r2l12 aus dem Land gehende, vom
+#facs_231_r2l13 Sak
+#facs_231_r2l14 Rindshaut, von einer grünen
+#facs_231_r2l15 die ins Land kommt, oder
+#facs_231_r2l16 darinnen von einem Ort
+#facs_231_r2l17 zum andern geht
+#facs_231_r2l18 von einer die mit Oberbeitl.
+#facs_231_r2l19 Bewilligung aus dem Land
+#facs_231_r2l20 geführt wird
+#facs_231_r2l21 von den Dürren Haüten, vom
+#facs_231_r2l22 Centner
+#facs_231_r2l23 Von den aus dem Land gehende
+#facs_231_r2l24 dürren Hauten
+#facs_231_r2l25 Rindvieh, von einem Fetten
+#facs_231_r2l26 Ochsen oder Kuh
+#facs_231_r2l27 Wenn sie aber einem Unterthan
+#facs_231_r2l28 oder Eid genoßen verkauft
+#facs_231_r2l29 werden, vom Stük
+#facs_231_r3l1 /2
+#facs_231_r3l2 1/2
+#facs_231_r3l3 1
+#facs_231_r4l1 1
+#facs_231_r4l2 4
+#facs_231_r5l1 2
+#facs_231_r5l2 6
+#facs_231_r5l3 2
+#facs_231_r5l4 1.
+#facs_231_r6l1 455
+#facs_231_r6l2 x
+#facs_231_r6l3 Von einem mägeren Ochsen oder
+#facs_231_r6l4 Kuh _ Denne von der Gust¬
+#facs_231_r6l5 waar, wenn sie aus dem Land
+#facs_231_r6l6 2
+#facs_231_r6l7 Verkauft wird vom Stüle
+#facs_231_r6l8 Wenn sie aber im Land bleiben
+#facs_231_r6l9 „ 1/2
+#facs_231_r6l10 vom Stüle
+#facs_231_r6l11 Roggen, von demjenigen so ins Land¬
+#facs_231_r6l12 kommt, oder darinnen von
+#facs_231_r6l13 einem Ort zum andern ge¬
+#facs_231_r6l14 führt wird, vom Bern Müll
+#facs_231_r6l15 1„
+#facs_231_r6l16 ..
+#facs_231_r6l17 zu 12. Mäs.
+#facs_231_r6l18 Von dem transitirenden vom Mütt
+#facs_231_r6l19 Von dem mit Oberbeitl. Bewil¬
+#facs_231_r6l20 ligung aus dem Land gehende
+#facs_231_r6l21 vom Mütt
+#facs_231_r6l22 Haut von Pferden, Rindern
+#facs_231_r6l23 Rohe
+#facs_231_r6l24 Ruhen:
+#facs_231_r6l25 Von einer grünen Rinds- oder
+#facs_231_r6l26 Ruhhaut die ins Land komt
+#facs_231_r6l27 oder darinnen von einem Ort
+#facs_231_r6l28 1
+#facs_231_r6l29 zum andern geht.
+#facs_231_r6l30 von einer grünen Pferdhaut.
+#facs_231_r6l31 von einer Stinds- oder Kuhhaut
+#facs_231_r6l32 die mit Oberkeitl. Bewilligung
+#facs_231_r6l33 aus dem Land geführt wird.
+#facs_231_r6l34 Bon
+#facs_232_r2l1 Von einer Pferdhaut die aus
+#facs_232_r2l2 dem Land geführt wird
+#facs_232_r2l3 von den Burren Haüten, vom
+#facs_232_r2l4 Centner
+#facs_232_r2l5 von den aus dem Land gehenden
+#facs_232_r2l6 dürren Hauten
+#facs_232_r2l7 Roher Hanf vom Centner
+#facs_232_r2l8 Robes Eisen, vom Centner
+#facs_232_r2l9 das verarbeitete
+#facs_232_r2l10 könnlen oder Wannkorb,
+#facs_232_r2l11 vom Stük
+#facs_232_r2l12 Wenn sie aber aus dem Land
+#facs_232_r2l13 gehen das doppelte
+#facs_232_r2l14 Roshaut, von einer grünen die
+#facs_232_r2l15 ins Land bommt, oder darinnen
+#facs_232_r2l16 von einem Ort zum andern
+#facs_232_r2l17 geht
+#facs_232_r2l18 von einer die aus dem Land¬
+#facs_232_r2l19 geführt wird
+#facs_232_r2l20 von den dürren Haüten vom
+#facs_232_r2l21 Centner.
+#facs_232_r2l22 von den aus dem Land gehenden
+#facs_232_r2l23 dürren hauten
+#facs_232_r2l24 Ruder und Schalten, vom
+#facs_232_r2l25 Buder
+#facs_232_r3l1 x
+#facs_232_r3l2 2.
+#facs_232_r3l3 2
+#facs_232_r3l4 6
+#facs_232_r3l5 2
+#facs_232_r3l6 e
+#facs_232_r5l1 1/2
+#facs_232_r6l1 2
+#facs_232_r6l2 6
+#facs_232_r6l3 4
+#facs_232_r7l1 45
+#facs_232_r7l2 Xe
+#facs_232_r7l3 Sägeßen, ein Lagelin von 25.
+#facs_232_r7l4 4
+#facs_232_r7l5 Stücken
+#facs_232_r7l6 2.
+#facs_232_r7l7 las dozend
+#facs_232_r7l8 das die Ausmeßere von
+#facs_232_r7l9 Salz
+#facs_232_r7l10 den Oberkeitlichen Magazinen
+#facs_232_r7l11 und Lagern wegführen
+#facs_232_r7l12 vom Faß
+#facs_232_r7l13 das transitirende, gleichfalls
+#facs_232_r7l14 vom Faß
+#facs_232_r7l15 Schachteln und andere Holzwaare
+#facs_232_r7l16 als Druken, Näpf, Teller
+#facs_232_r7l17 wenn durch glaubwürdige
+#facs_232_r7l18 Scheine bewiesen wird, daß
+#facs_232_r7l19 selbige im Land verfertiget
+#facs_232_r7l20 2
+#facs_232_r7l21 worden, vom Centner
+#facs_232_r7l22 2
+#facs_232_r7l23 von der Krätze gleicher Waare
+#facs_232_r7l24 von der fremden auf Wagen
+#facs_232_r7l25 ins Land kommenden, vom
+#facs_232_r7l26 4
+#facs_232_r7l27 2
+#facs_232_r7l28 Centner
+#facs_232_r7l29 von der Kräze gleicher Waare
+#facs_232_r7l30 allerhand Holzernen Werk
+#facs_232_r7l31 Von
+#facs_232_r7l32 Zeug und Geschien, als Rechen
+#facs_232_r7l33 Gablen, Schauflen die auf
+#facs_232_r7l34 einem Wagen geführt werd
+#facs_232_r7l35 2.
+#facs_232_r7l36 den, von 100 Stük
+#facs_232_r7l37 Oder vom Dozend... 1/2
+#facs_232_r7l38 =Som
+#facs_232_r8l1 4.
+#facs_232_r8l2 4
+#facs_233_r2l1 Wenn sie aber aus dem Land
+#facs_233_r2l2 geführt werden vom 100.
+#facs_233_r2l3 von einem dozend Wannen
+#facs_233_r2l4 von einer Römelen oder einen
+#facs_233_r2l5 Wannkorb
+#facs_233_r2l6 Und wann sie aus dem Land
+#facs_233_r2l7 gehen, das doppelte
+#facs_233_r2l8 Schaafe von Fünfen
+#facs_233_r2l9 Schaaffelle, die einheimischen
+#facs_233_r2l10 wie auch die so ins Land
+#facs_233_r2l11 kommen, wenn sie von
+#facs_233_r2l12 einem Ort zum andern
+#facs_233_r2l13 geführt werden, zahlen
+#facs_233_r2l14 vom Centner
+#facs_233_r2l15 Wenn sie aber mit Patenten
+#facs_233_r2l16 aus dem Land geführt werden,
+#facs_233_r2l17 das doppelte
+#facs_233_r2l18 2
+#facs_233_r2l19 Verarbeitete oder Leder, vom
+#facs_233_r2l20 4
+#facs_233_r2l21 Centner
+#facs_233_r2l22 Schaub- oder Strohhüte, von
+#facs_233_r2l23 le
+#facs_233_r2l24 einem dozend
+#facs_233_r2l25 Schaufeln, Rechen, Gablen
+#facs_233_r2l26 die auf einem Wagen ge¬
+#facs_233_r2l27 2
+#facs_233_r2l28 führt werden, von 100 Stück
+#facs_233_r2l29 1/2
+#facs_233_r2l30 Oder vom Dozend.
+#facs_233_r2l31 L. Bern.
+#facs_233_r3l1 XV
+#facs_233_r3l2 4.
+#facs_233_r3l3 2
+#facs_233_r3l4 2
+#facs_233_r5l1 459
+#facs_233_r5l2 Ar
+#facs_233_r5l3 Wenn sie aber aus dem Land
+#facs_233_r5l4 4
+#facs_233_r5l5 geführt werden, vom 100
+#facs_233_r5l6 Schauflen, zum Graben, von
+#facs_233_r5l7 1
+#facs_233_r5l8 Dozend
+#facs_233_r5l9 Schiff, von einem großen neuen
+#facs_233_r5l10 10
+#facs_233_r5l11 wird bezalt
+#facs_233_r5l12 Von einem Halbschiff und
+#facs_233_r5l13 6
+#facs_233_r5l14 Spizweidling
+#facs_233_r5l15 2
+#facs_233_r5l16 Von einem dreylädigen Weidling
+#facs_233_r5l17 21/2
+#facs_233_r5l18 Schindlen, ein Tausend
+#facs_233_r5l19 Schmalz, Unschlitt, vom
+#facs_233_r5l20 2
+#facs_233_r5l21 Centner
+#facs_233_r5l22 24
+#facs_233_r5l23 Schmähr, vom Centner.
+#facs_233_r5l24 Schleiffteine, große, für Rod.
+#facs_233_r5l25 10
+#facs_233_r5l26 werk, vom Stül.
+#facs_233_r5l27 ½
+#facs_233_r5l28 kleine das Stük
+#facs_233_r5l29 Schwein, von einem Fetten,
+#facs_233_r5l30 so aus dem Land geführt
+#facs_233_r5l31 2
+#facs_233_r5l32 1
+#facs_233_r5l33 wird
+#facs_233_r5l34 i
+#facs_233_r5l35 Wenn es aber im Land bleibt,
+#facs_233_r5l36 l'a dernier les concluëres ses ordres de
+#facs_233_r5l37 ½
+#facs_233_r5l38 Von einem magaren
+#facs_233_r5l39 1
+#facs_233_r5l40 Fährli, von 6. Stük
+#facs_233_r5l41 Stahl, vom Centner
+#facs_233_r5l42 Steinkohl, ist zollfrey
+#facs_234_r2l1 Stieren, von einem Fetten,
+#facs_234_r2l2 Wenn er aber einem Unterthan
+#facs_234_r2l3 oder Eid großen verkauft
+#facs_234_r2l4 wird, vom Stük
+#facs_234_r2l5 von einem mägeren — dene
+#facs_234_r2l6 von der Gusti Waar, wenn
+#facs_234_r2l7 sie aus dem Land verkauft
+#facs_234_r2l8 wird vom Stük
+#facs_234_r2l9 Wenn sie aber im Land bleiben
+#facs_234_r2l10 vom Stük
+#facs_234_r2l11 Stroh und Heu das mit Ober-
+#facs_234_r2l12 keitlicher Bewilligung aus
+#facs_234_r2l13 dem Land geführt wird,
+#facs_234_r2l14 2
+#facs_234_r2l15 vom Fuder
+#facs_234_r2l16 das so im Land cirkulirt ist
+#facs_234_r2l17 Zollfrey
+#facs_234_r2l18 Stroh und Schaubhüte, vom
+#facs_234_r2l19 Dozend
+#facs_234_r2l20 Thee vom Centner
+#facs_234_r2l21 Der tranfitirende
+#facs_234_r2l22 Tobat vom Centner
+#facs_234_r2l23 Vom transitirenden
+#facs_234_r2l24 Euch von Wollen.
+#facs_234_r2l25 das fremde böstliche, vom
+#facs_234_r2l26 Centner
+#facs_234_r3l1 der
+#facs_234_r3l2 2.
+#facs_234_r4l1 2.
+#facs_234_r4l2 2
+#facs_234_r6l1 1
+#facs_234_r6l2 12
+#facs_234_r6l3 4
+#facs_234_r6l4 16
+#facs_234_r6l5 4
+#facs_234_r6l6 8
+#facs_234_r7l1 Das einheimische und Landtuch
+#facs_234_r7l2 vom Centner
+#facs_234_r7l3 Leinernes von Flachs oder Rysten
+#facs_234_r7l4 vom Centner
+#facs_234_r7l5 Dasjenige so auf die inländischen
+#facs_234_r7l6 Bleichen geführt wird, ist zollfrey
+#facs_234_r7l7 Von einem fellen Ochsen
+#facs_234_r7l8 Vieh
+#facs_234_r7l9 oder Kuh
+#facs_234_r7l10 Wenn sie aber einem Unterthan
+#facs_234_r7l11 oder Eid genoßen verkauft.
+#facs_234_r7l12 ..
+#facs_234_r7l13 werden, vom Stüle
+#facs_234_r7l14 Von einem mangeren Ochsen oder
+#facs_234_r7l15 Ruh _ Denne von der Gusti¬
+#facs_234_r7l16 waar, wenn sie aus dem Land
+#facs_234_r7l17 verkauft wird, vom Stük.
+#facs_234_r7l18 Wenn sie aber im Land bleiben
+#facs_234_r7l19 vom Stüle.
+#facs_234_r7l20 von fünf Schaafen oder Geisen
+#facs_234_r7l21 von einem Kalb
+#facs_234_r7l22 Von einem Fetten Schwein, so aus
+#facs_234_r7l23 dem Land geführt wird
+#facs_234_r7l24 Wenn es aber im Land bleibt,
+#facs_234_r7l25 von einem mageren Schwein
+#facs_234_r7l26 Zährli von 6. Stük.
+#facs_234_r7l27 Unschlitt und Schmähr vom Contian
+#facs_234_r8l1 161
+#facs_234_r8l2 Au
+#facs_234_r8l3 4.
+#facs_234_r8l4 2
+#facs_234_r8l5 2
+#facs_234_r9l1 1
+#facs_234_r9l2 2
+#facs_234_r9l3 /20
+#facs_234_r9l4 t,
+#facs_234_r9l5 /21
+#facs_234_r9l6 2.
+#facs_234_r9l7 1
+#facs_234_r9l8 1/2
+#facs_234_r9l9 2f
+#facs_234_r9l10 2
+#facs_235_r2l1 Aa
+#facs_235_r2l2 Wagen, ein leerer, von jedem
+#facs_235_r2l3 vorgespannten Pferd oder
+#facs_235_r2l4 1
+#facs_235_r2l5 Stük Vieh.
+#facs_235_r2l6 NB. Die Angehörige der Zollfreyen
+#facs_235_r2l7 Gemeinden sind davon befreyt
+#facs_235_r2l8 Waldglas, ohne Unterscheid:
+#facs_235_r2l9 Von einer Kräze voll
+#facs_235_r2l10 von einem beladenen Bastpferd
+#facs_235_r2l11 von einem Wagen voll, für jeder
+#facs_235_r2l12 vorgespannte Pferd
+#facs_235_r2l13 Wannen, vom Dozend.
+#facs_235_r2l14 Wannkörb und Rönlen vom Stül¬
+#facs_235_r2l15 Und wann sie aus dem Land gehen
+#facs_235_r2l16 das doppelte.
+#facs_235_r2l17 Wite, von denjenigen so ins
+#facs_235_r2l18 Land kommen, oder von
+#facs_235_r2l19 einem Ort zum andern ge¬
+#facs_235_r2l20 führt werden, vom Bern Müll¬
+#facs_235_r2l21 zu 12. Mäs.
+#facs_235_r2l22 von denen transitirenden vom
+#facs_235_r2l23 Müte
+#facs_235_r2l24 von denen mit Oberkeitlicher
+#facs_235_r2l25 Bewilligung aus dem Land
+#facs_235_r2l26 gehenden, vom Mütt
+#facs_235_r2l27 Weißblech vom Centner
+#facs_235_r3l1 2
+#facs_235_r3l2 2
+#facs_235_r3l3 27
+#facs_235_r3l4 2
+#facs_235_r4l1 1
+#facs_235_r4l2 2
+#facs_235_r4l3 2
+#facs_235_r4l4 2.
+#facs_235_r5l1 1663
+#facs_235_r5l2 der
+#facs_235_r5l3 = Weidling, von einem großen
+#facs_235_r5l4 6
+#facs_235_r5l5 oder Spizweidling
+#facs_235_r5l6 2.
+#facs_235_r5l7 .
+#facs_235_r5l8 Von einem dreylädigen
+#facs_235_r5l9 Wein, von dem einheimischen Ryf¬
+#facs_235_r5l10 Lacotte- oder Landwein, vom
+#facs_235_r5l11 1
+#facs_235_r5l12 Dann
+#facs_235_r5l13 1
+#facs_235_r5l14 Von dem transitirenden
+#facs_235_r5l15 Werch, Hauf und Kuder, von
+#facs_235_r5l16 1/2
+#facs_235_r5l17 Centner
+#facs_235_r5l18 '12
+#facs_235_r5l19 Wezsteine, das Dozend
+#facs_235_r5l20 1
+#facs_235_r5l21 Zieger, vom Centner
+#facs_235_r5l22 2
+#facs_235_r5l23 Zinn, vom Centner
+#facs_235_r5l24 8
+#facs_235_r5l25 Zuker, vom Centner
+#facs_235_r5l26 4
+#facs_235_r5l27 der transitirende
+#facs_235_r5l28 Alle andere Artibel und Herren
+#facs_235_r5l29 die in obigem Tarif nicht ent¬
+#facs_235_r5l30 halten sind, zahlen vom Centner 4
+#facs_235_r5l31 Der Lauperswijl-Zoll soll nach
+#facs_235_r5l32 dem Innhalt des Tarifs von 1676.
+#facs_235_r5l33 von dortiger Zollstadt und Brugg
+#facs_235_r5l34 wegen, kraft Unseres disorts
+#facs_235_r5l35 habenden Zollrechtens, erhoben
+#facs_235_r5l36 werden, von allen denjenigen
+#facs_235_r5l37 = welche
+#facs_236_r2l1 welche über die Brugg zu laupers
+#facs_236_r2l2 Loyl, oder unten durch auf dem
+#facs_236_r2l3 Waßer, oder neben derselben
+#facs_236_r2l4 in den Zihlen und Marchen
+#facs_236_r2l5 nemlich bis gegen Illissteg bey
+#facs_236_r2l6 Läugnau, wie auch bis zur Fuhren
+#facs_236_r2l7 und der Herrschaft Signau, und
+#facs_236_r2l8 untenzer in den Goldbach, fahren
+#facs_236_r2l9 und gehen
+#facs_236_r2l10 von dem Lauperswijl Zoll,
+#facs_236_r2l11 sind nun für ihren Haus gebrauch
+#facs_236_r2l12 befreyt:
+#facs_236_r2l13 e
+#facs_236_r2l14 Eine Stadt Bern, und deren ein
+#facs_236_r2l15 die von
+#facs_236_r2l16 .
+#facs_236_r2l17 geseßene Bürger
+#facs_236_r2l18 Huttwyl, Dürrenroth, Affelteren
+#facs_236_r2l19 Eriswyl, Sumiswald, Lüzelflich drey
+#facs_236_r2l20 Viertel, Biglen, Röttenbach, Heßli¬
+#facs_236_r2l21 Rugs an, das kleine Emmenthal
+#facs_236_r2l22 Burgdorf, Trub, Langnan, Lau
+#facs_236_r2l23 pers wyl, Trachselwald, Ruders wyl
+#facs_236_r2l24 Die von den Kirchhörenen Signan
+#facs_236_r2l25 und Eggicoyl sind des Zolls ganz
+#facs_236_r2l26 befreyt.
+#facs_236_r3l1 uets
+#facs_236_r3l2 Der Lüzelflützoll dann, soll
+#facs_236_r3l3 bezogen werden, in den March
+#facs_236_r3l4 und Bezirken der vier Kirchhörenen
+#facs_236_r3l5 Trachselwald, Sumiswald, Lüzelflich
+#facs_236_r3l6 und Haßli
+#facs_236_r3l7 von dem Lüzelflich Zoll
+#facs_236_r3l8 sind nun für ihren Haus gebrauch
+#facs_236_r3l9 befreyt:
+#facs_236_r3l10 Die Stadt Bern, das ganze Emmen¬
+#facs_236_r3l11 thal, die von Signau, Heimiswyl¬
+#facs_236_r3l12 Bollingen, Walbringen, Rechingen,
+#facs_236_r3l13 Biglen, Oberburg, Krauchthal,
+#facs_236_r3l14 Rügsau, Worb, Lauperswyl,
+#facs_236_r3l15 Rüderswyl, Aßoltern, Jegistorf
+#facs_236_r3l16 Sumis wald, Köniz
+#facs_236_r3l17 Damit aber Niemand der Unwißenheit
+#facs_236_r3l18 sich entschuldigen möge, so befehlen
+#facs_236_r3l19 Wir, das gegenwärtiger Tarif durch
+#facs_236_r3l20 den Druk und öffentlichen Anschlag
+#facs_236_r3l21 bekant gemacht werde.
+#facs_236_r3l22 Geben in Unserer grosen Raths
+#facs_236_r3l23 Verfamlung den 7ten März 1791.
+#facs_236_r3l24 obid.
+#facs_237_r1l1 166.
+#facs_237_r1l2 Coll
+#facs_237_r2l1 Obidem
+#facs_237_r2l2 An die Einmenthal. Herren
+#facs_237_r2l3 Amtleute, zu Trachselwald
+#facs_237_r2l4 Sumis Wald, Brandis, Burgdorf
+#facs_237_r2l5 und Signau.
+#facs_237_r2l6 Schultheis Räth und Burger
+#facs_237_r2l7 Auf die von Unserer bestellten
+#facs_237_r2l8 Deutschen Zollkammer an uns gelangte
+#facs_237_r2l9 Vorstellungen über die Nothwen¬
+#facs_237_r2l10 digkeit einer Verbesserung und Er
+#facs_237_r2l11 neuerung der Tariffen, für Unsere
+#facs_237_r2l12 Emmenthalischen Zoll Stätte von Lau¬
+#facs_237_r2l13 pers wyl und Lüzelflüh u haben Wie¬
+#facs_237_r2l14 nach vorgegangener Untersuchung
+#facs_237_r2l15 und darüber angehörten Bericht
+#facs_237_r2l16 den beyligenden neuen Tarif für
+#facs_237_r2l17 obbemeldte beyde Zollstätte erkent.
+#facs_237_r2l18 und in Druk ausgehen laßen.
+#facs_237_r2l19 Mit Zusendung nun einer
+#facs_237_r2l20 genugsamen Anzahl Exemplaren
+#facs_237_r2l21 davon, befehlen Wir Eüch, selbiger
+#facs_237_r2l22 nicht nur bey den Zollstätten, sondern
+#facs_237_r2l23 auch
+#facs_237_r3l1 hills
+#facs_237_r3l2 6
+#facs_237_r4l1 467.
+#facs_237_r4l2 auch an den gewohnten Orten öffent¬
+#facs_237_r4l3 lich anschlagen zu laßen, und Unsere
+#facs_237_r4l4 Zollbeamtete bey der Ausübung des¬
+#facs_237_r4l5 selben zu schüzen, so wie auch dieses
+#facs_237_r4l6 Schreiben samt dem Tarif zu künf¬
+#facs_237_r4l7 tiger Nachricht behörigen Orts eine
+#facs_237_r4l8 schreiben zu laßen.
+#facs_237_r4l9 Datum den 7ten März 1791.

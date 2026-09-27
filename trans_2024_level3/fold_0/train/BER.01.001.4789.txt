@@ -1,0 +1,20 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 13/13
+# High similarity (>=80%): 10
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_128_r4l57 November 1795
+#facs_72_r3l18 verboll
+#facs_44_r3l14 fernerer Ausbreitung der sträflichen Schrift, betitelt
+#facs_44_r3l15 Keeuil de Chansons républicaines
+#facs_45_r3l3 An
+#facs_44_r3l17 alle Wälsche Herren Amtleute auch Aelen
+#facs_128_r2l6 und Grandson
+#facs_259_r2l4 Schultheis und Rath! etc.
+#facs_44_r3l20 Wir erhalten den zuverläßigen Bericht
+#facs_44_r3l21 daß folgende kleine Schrift: Reucil de Chanson
+#facs_44_r3l22 républicaines sur les triomphes des armées
+#facs_32_r3l27 Anbauf
+#facs_98_r5l28 en

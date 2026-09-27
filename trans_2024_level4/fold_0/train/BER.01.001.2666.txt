@@ -1,0 +1,132 @@
+BER.01.001.2666
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 123/123
+# High similarity (>=50%): 112
+# Low similarity (<50%): 11
+# Not found: 0
+#
+#facs_170_r3l23 Arberg. Montage d. 11. Aprilis.
+#facs_170_r3l24 Friemstorg
+#facs_170_r3l25 Zürm.
+#facs_170_r3l26 Praubrunnung den 12. dto
+#facs_171_r2l1 Buchsee
+#facs_171_r2l2 den 13. Aprilis.
+#facs_171_r2l3 Brandis
+#facs_171_r2l4 Thorberg. den 14. dto.
+#facs_171_r2l5 Loupen
+#facs_171_r2l6 den 15. dto.
+#facs_171_r2l7 Signaulo
+#facs_171_r2l8 Thunden 27. dto
+#facs_171_r2l9 dtsangen
+#facs_171_r2l10 Dans la...
+#facs_171_r2l11 Anhangend den 28. dto
+#facs_171_r2l12 Bixc.
+#facs_171_r2l13 den 29. dto.
+#facs_171_r2l14 Winns.
+#facs_171_r2l15 Zoffinge
+#facs_171_r2l16 den 30. dto
+#facs_171_r2l17 Arburg.
+#facs_171_r2l18 Burgdorff.
+#facs_171_r2l19 Trachselwals) d. 2. May
+#facs_171_r2l20 Potstatt.
+#facs_171_r2l21 Landtshuet, d. 3. dto.
+#facs_171_r2l22 Oberhofem
+#facs_171_r2l23 Pfnderscen. d. 4. dto
+#facs_171_r2l24 Frullingen d. 6. dt.
+#facs_171_r2l25 Zweysimmen
+#facs_171_r2l26 Schimbenberg
+#facs_171_r2l27 Biberstein d 7. dto.
+#facs_171_r4l1 Lentzburg
+#facs_171_r4l2 St. Johansen, d. 9. dto.
+#facs_171_r4l3 Interlacken d. 10. dto.
+#facs_171_r4l4 Nydaulo.
+#facs_171_r4l5 d. 11. dto.
+#facs_171_r4l6 Erlag.
+#facs_171_r4l7 Kongsfelten d. 13. dto.
+#facs_171_r4l8 Sonem
+#facs_171_r4l9 Ahlen d. 14. dto.
+#facs_171_r4l10 An alle T: Ambtleut, 4 Statt
+#facs_171_r4l11 FreytWeibel und Amman.
+#facs_171_r4l12 Daß niemand Sich aussert Landts
+#facs_171_r4l13 An andern Ohrt begebe, ohne vorwüssen
+#facs_171_r4l14 seiner vorgesetzten Ambtsmanns.
+#facs_171_r4l15 Schultheiß und Raht der Statt Bern,
+#facs_171_r4l16 Demnach Wir vernemen müssend, daß bey
+#facs_171_r4l17 gegenwärtigen Zeiten, da der Friden benachbahrten
+#facs_171_r4l18 Ohrten erfolget, will unserer vnderthanen Ihres
+#facs_171_r4l19 glück und vnderhalt aüsserer Ohrten Zesuchen,
+#facs_171_r4l20 und in das so genante Niderland sich zu begäben
+#facs_171_r4l21 vorhabens sein sollen; Als habens Wir diser
+#facs_171_r4l22 leuten, so wohl als der Bemeinden sicherheit
+#facs_171_r4l23 wahrzen mün, eine nohtsurfft sein erachtet.
+#facs_172_r2l1 daß wegen das behörige einsehen Tethun, und
+#facs_172_r2l2 Unseren Ambtleuten anzubefehlen, zu dem
+#facs_172_r2l3 ende, durch gegenwärtige öffentliche verbun¬
+#facs_172_r2l4 dung von Cantzlen jedermaniglich verwahren
+#facs_172_r2l5 Jelassen, daß niemand Sich aussert landts
+#facs_172_r2l6 en andern Ohrt begeben und niderlassen solle,
+#facs_172_r2l7 ohnn vorwüssen begrues und einwilligung
+#facs_172_r2l8 einer vorgesetzten Ambtmanns, der ihme
+#facs_172_r2l9 Vnseren Willen und Wegleisung zu seinem
+#facs_172_r2l10 besten zueröffnen, sonderbahr befelchnet ist,
+#facs_172_r2l11 bey der hinzugesetzten straff, daß vnderlassenden
+#facs_172_r2l12 fahls dergleichen Persohnen für sich und die
+#facs_172_r2l13 Ihrigen Ihrer Landtrecht sollend verlohre
+#facs_172_r2l14 -
+#facs_172_r2l15 haben, und zu keinen künfftigen Zeiten
+#facs_172_r2l16 mehr in unseren Landen weder erkent
+#facs_172_r2l17 aufgenommen noch gesuldet werden. Datl.
+#facs_172_r2l18 14. Marty 1698.
+#facs_172_r2l19 Obiger nun soltu von Cantzlen ohnverlaelt
+#facs_172_r2l20 zu Mäniglichs nachricht verläsen, volgendte
+#facs_172_r2l21 aber dir für die anmeldenden Zur Instruction
+#facs_172_r2l22 und Verweisung dienen lassen, deren erachten
+#facs_172_r2l23 Wir daß Dreyer gattung persohnen sein werden.
+#facs_172_r2l24 der Tagloner und Taglohner. 2 ausgehausete
+#facs_172_r2l25 verdorbene und vergeltstaget. 3. Undt solche
+#facs_172_r2l26 die noch etwas mittels besitzendt, undt Ihre
+#facs_172_r2l27 Haußhaltungen draussen besser durch jebringen
+#facs_172_r2l28 Hoffendt. Wie nun die ersten nicht
+#facs_172_r3l1 335.
+#facs_172_r3l2 Wohl Zehinderen, die anderen den äussert Landts¬
+#facs_172_r3l3 gehören, also solstu der dritten gattung Persohnen,
+#facs_172_r3l4 so sich anmelden werden, vorstellen wohl gebedencken,
+#facs_172_r3l5 a-
+#facs_172_r3l6 daß Sie nicht aufs ungelönsse Baulandt, Ihre
+#facs_172_r3l7 -
+#facs_172_r3l8 mittel auß dem Landt zühindt, und draussen
+#facs_172_r3l9 in gefahr setzindt, Ihr beste krefften Jahr undt
+#facs_172_r3l10 gesundheit verzehrendt, und im alter Mittel
+#facs_172_r3l11 krafftlös widerumb ins Land zubehren
+#facs_172_r3l12 wünschtindt, dan unser gäntzlicher Will undt
+#facs_172_r3l13 ig seye, daß dergleichen persohnen, so Ihre
+#facs_172_r3l14 Mittel hinwegzüchendt, neben abstattung des
+#facs_172_r3l15 -
+#facs_172_r3l16 abzugs auch Ihrer Mannrecht verlohren haben
+#facs_172_r3l17 und zu keinen Zeiten mehr, es seyn in Krieg
+#facs_172_r3l18 oder friden, oder was Ihnen immer begegnen möchte
+#facs_172_r3l19 men
+#facs_172_r3l20 «
+#facs_172_r3l21 für vnderthanen erbent, noch im Land geduldet
+#facs_172_r3l22 werden sollend; Wan aber über solcher Zu¬
+#facs_172_r3l23 Prechen sie vorthezuchen, und Ihre mittel mit¬
+#facs_172_r3l24 Zenemen dennoch beharren wurden, solstu die
+#facs_172_r3l25 selben zu erhebung ihrer Mann Rechtens in unsere
+#facs_172_r3l26 Cantzley weisen, über solche persohnen aber
+#facs_172_r3l27 "
+#facs_172_r3l28 den gemeinden eine Exacte Buchhaltung
+#facs_172_r3l29 führen lassen, disere aber so wohl als die Ilvey¬
+#facs_172_r3l30 erstere gattung, hiemit alle Wegzuchende gblich¬
+#facs_172_r3l31 wohlen beweglich und ernsthafft verwahrnen,
+#facs_172_r3l32 daß Sie Ihrer Seelen und Seligkeit gelauffenhafft.
+#facs_172_r3l33 Rechenschafft tragen, bey der erbauten und bekanten
+#facs_172_r3l34 Evangl. Religion beständig verbleibe
+#facs_172_r3l35 und an
+#facs_173_r1l1 Als 36
+#facs_173_r1l2 keine andern als Protestierende Ohrt nider¬
+#facs_173_r1l3 lassen sollindt, damit bey gegenwärtigen
+#facs_173_r1l4 Verfolgungs Zeiten Sie nicht in gefahr
+#facs_173_r1l5 pliegen verderbens gerahtens: Maßen
+#facs_173_r1l6 hiemit Jethim wüssen wirst. Batzutin literis

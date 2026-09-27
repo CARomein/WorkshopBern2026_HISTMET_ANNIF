@@ -1,0 +1,70 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 62/63
+# High similarity (>=80%): 57
+# Low similarity (<80%): 5
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4507
+#facs_222_r2l4 Getreis Vorrath zu verkauffen.
+#facs_32_r5l1 61.
+#facs_3_region_1629374296225_399l1 An
+#facs_220_r5l19 alle deutsche Herren Amtleut und Schaffner
+#facs_262_r7l4 da Oberkeitlich Betreid ligt, sepp¬
+#facs_222_r2l4 Getreis Vorrath zu verkauffen.
+#facs_220_r3l6 Schultheis Räth und Burger
+#facs_122_r3l21 Über den von Unseren fürgeliebten
+#facs_262_r7l8 Mit Räthen denen Herren deutsch
+#facs_282_r3l3 Sekelmeister und Venneren erwarten
+#facs_122_r3l24 verordneten KornCammer uns gemachten
+#facs_262_r7l11 Vortrag, betreffend das auf Martini¬
+#facs_262_r7l12 1781. eingegangene Oberkeitliche Getreid,
+#facs_122_r5l4 haben Wir gut befunden und erkent.
+#facs_221_r1l7 Es solle von dem daherigen über den
+#facs_221_r1l8 bestimten Vorrath aus, und nach Abzug
+#facs_221_r1l9 der ordinari und quasi ordinare Ausgaben
+#facs_222_r2l18 vorschießenden Obrigkeitlichen Getreis,
+#facs_221_r1l11 vor einmahl, und bis auf Unseren
+#facs_262_r7l19 weiteren bestimten Befehl, von dem
+#facs_262_r7l20 Winter=Bebächs, das ist Dinkel und
+#facs_262_r7l21 Waizen nur die Helfte abgestoßen.
+#facs_262_r7l22 hingegen A. das Sommer Gewächs in allen
+#facs_262_r7l23 verschiedenen Getreis Arten, gänzlich versil¬
+#facs_262_r7l24 beret werde; der Meinung jedoch, daß
+#facs_5_region_1629374639367_453l1 6
+#facs_32_r5l1 61.
+#facs_122_r4l5 #an die Unter¬
+#facs_56_r1l21 6 Schenbenberg
+#facs_262_r4l2 Lenzburg und Biberste
+#facs_263_r2l5 Allein beyzusehen
+#facs_263_r2l6 der Reynen aber
+#facs_263_r2l7 toumman
+#facs_263_r3l1 von dato an, biß auf den 1ten May nächst¬
+#facs_263_r3l2 könftig, von ermelten Sommerfrüchten
+#facs_263_r3l3 nur die erste Helfte, und so dann erst
+#facs_263_r3l4 mit Anfang des Maymonats die andere
+#facs_263_r3l5 Helfte B. abgestoßen und verkauft werden
+#facs_263_r3l6 solle; Wobey Unser Will und Enfehl
+#facs_38_r4l4 in fernerem dahin gehet. Daß in ansehen
+#facs_263_r3l8 dieser verkaufenden Früchten, die Ver
+#facs_263_r3l9 zeigung der Schüdtenen von Unseren
+#facs_100_r2l3 fürgeliebten Mit Rahten denen Herren
+#facs_90_r3l5 Teutsch Sekelmeister und Venneren
+#facs_263_r3l12 erwartet: dabey die gewohnlichen
+#facs_263_r3l13 Praecautionen genommen = mithin das
+#facs_263_r3l14 zu verkaufende Betreis nicht denen
+#facs_221_r2l9 Hädtleren en Bloc und zum voraus¬
+#facs_263_r3l16 sprochen-sondern nur zu kleinen
+#facs_263_r3l17 Kaufen, in laufendem Preis verkauft¬
+#facs_263_r3l18 und von denen angeliesenen Schüdtenen
+#facs_224_r3l5 vor allem aus das mindest behaltliche
+#facs_263_r3l20 Betreid abgestoßen = ins besonders dan
+#facs_264_r2l1 die Sommerfrüchte, als Haber, Bersten und
+#facs_263_r3l22 vorzüglich zu Anblümung der Felderen
+#facs_263_r3l23 hingegeben werden solle. Welchemnach
+#facs_156_r1l1 gls.
+#facs_32_r5l1 61.
+#facs_263_r5l2 Ihr Euch zu verhalten wißen, und über
+#facs_263_r5l3 das erlösende uns Rechnung tragen
+#facs_263_r5l4 werdet. Dat. d. 15. Marty 1782.
+#facs_178_r8l1 en

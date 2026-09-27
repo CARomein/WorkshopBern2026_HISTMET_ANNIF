@@ -1,0 +1,95 @@
+Law ID: BER.01.001.1387
+Name: Abhaltung von unglychen Reden wider den Vened. Zug.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 84/84
+# High similarity (>=50%): 80
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_118_r4l1 Tilun.
+#facs_118_r4l2 Wimmis
+#facs_118_r4l3 Riglen
+#facs_118_r4l4 Münsigen
+#facs_118_r4l5 Wicht rech¬
+#facs_118_r4l6 ihneren
+#facs_118_r4l7 Guitzeler
+#facs_118_r4l8 alx
+#facs_118_r4l9 Colzaberen.
+#facs_118_r4l10 Zweysimmen
+#facs_118_r4l11 Santen
+#facs_118_r4l12 Et
+#facs_118_r4l13 Frutingen
+#facs_118_r4l14 Intenlacken
+#facs_118_r4l15 Vnd Herren
+#facs_118_r4l16 Oberhafle
+#facs_118_r5l1 Cags-Beslimung zur Bereinigung
+#facs_118_r5l2 der Oberlendischen Mannlehen.
+#facs_118_r5l3 1648
+#facs_118_r5l4 daß die so hinder der Castlau
+#facs_118_r5l5 Rider Sibenthal Lehen zuempfachl
+#facs_118_r5l6 schuldig, sich vff Zinfag den 23
+#facs_118_r5l7 Diß Meymonats, und Mitwuchens
+#facs_118_r5l8 Den 24. gan Erlebach verfügen,
+#facs_118_r5l9 höllend.
+#facs_118_r5l10 die so zu Boltingen empfachen sollenen
+#facs_118_r5l11 Uff Dienstag den 25. May gan Voltinges
+#facs_118_r5l12 die aber so zu zweysimmen zurumpfachten
+#facs_118_r5l13 schuldig, vff Frytag und Sambstag den
+#facs_118_r5l14 6. und 27. das Meymonats sich ganz
+#facs_118_r5l15 zweisimmen begeben sollen
+#facs_118_r5l16 die so hinder dem Landt Rsche, sind Müline¬
+#facs_118_r5l17 vnd Reichenbach zuempfachen ghörend, vf
+#facs_118_r5l18 Montag den 29. dis Meymonats, zu Mülinen.
+#facs_118_r5l19 die Jenig aber so im Landt Frutingl., Adelboden
+#facs_118_r5l20 Landenburg, und ander dorten empfachen
+#facs_118_r5l21 sollend, vff Zinstag den 30. und Mitwochen
+#facs_118_r5l22 den 31. vnd letzten diß Meymonats sich
+#facs_118_r5l23 zu Fruting einstellen sollind.
+#facs_118_r5l24 vff Freytag den 2. und Samb Jag
+#facs_118_r5l25 denn 3. Junii nechstkünfftig
+#facs_118_r5l26 an Interlaken ins Gastshauß
+#facs_118_r5l27 gehalten
+#facs_119_r1l1 222
+#facs_119_r1l2 ott:
+#facs_119_r2l1 An Alle E. Amplleut. 4. Stadt Im Ergeüer, wie auch
+#facs_119_r2l2 die Frycreybel vnd Ammann. Abhaltung von vnglijchen reden viel
+#facs_119_r2l3 et de
+#facs_119_r2l4 den Vened. Zug
+#facs_119_r2l5 Schultlheis vnd Rhat. etc. Wie habend zu vnseren,
+#facs_119_r2l6 besonderen befrömbden vnd bedauren vernehmen müße.
+#facs_119_r2l7 was maßen von der annoch verend volikser erbund=
+#facs_119_r2l8 vnd vorhabenden kriegszug zu dienst der Durchleüchtigefen
+#facs_119_r2l9 Herrschafft benedig, vnserer Pundtsgnoßen, ihm vnd zer¬
+#facs_119_r2l10 tengleiche, ja vngütliche Reden auffgebracht vndt
+#facs_119_r2l11 spargirt werdind, Ob solte daßelbig weibende Volck
+#facs_119_r2l12 zu anderen gebrauch, vnd an andere Ort, als fürgebe
+#facs_119_r2l13 Trirt, angeführt werden. Undt dieen eiln solche vngegründte
+#facs_119_r2l14 erdichtete Abschreckungs Reden, zumt weniger verhinder
+#facs_119_r2l15 ung dises punctmeßigen auffbruchs, gerichtet sind
+#facs_119_r2l16 end ausschlachen thund, als moch vnd wir keinen vmb
+#facs_119_r2l17 gang nemen, die, vnd andern vnseren Amptlüten
+#facs_119_r2l18 Crin hiemit beschicht, zu bevelchen, dergleichen vngut
+#facs_119_r2l19 liches fürgeben hind dir best müglich abzeleinen
+#facs_119_r2l20 Vndt die Zeugen, so darmit Umbgehen vndt bekandt
+#facs_119_r2l21 wenden möchtend, alles ernsts, vnd Im fahl der
+#facs_119_r2l22 verharrung mit der straff der gfangenschafft, darun
+#facs_119_r2l23 abgehaltten, dadann du Hingegen die einten und
+#facs_119_r2l24 anderen Im gegenteill des rechten verstandts, der
+#facs_119_r2l25 versachen und vorhabens dises auffbruchs, vndt
+#facs_119_r2l26 sonderlich, da laut wundts und drauff gerichteten
+#facs_119_r2l27 Capituläon, diß Volck keines wegs teffen Mehr,
+#facs_119_r2l28 Sonder In Dalmatia, zu einem guten gesunden
+#facs_119_r2l29 Landt solle gebraucht werden, wirst Zuberichten.
+#facs_119_r2l30 und zeuersicheren müßen. Undt gleich wie
+#facs_119_r2l31 wie die recrevez für hrankrijch, bis zuend disen
+#facs_119_r2l32 Crerburg eingestekt, Also habend wir auch, In
+#facs_119_r2l33 betrachtung der Sach beschaffenheit zugelaßen
+#facs_119_r2l34 das erann gleich der eint oder andere geworben In¬
+#facs_119_r2l35 aufzug begriffen were, derselbe doch wohl das
+#facs_119_r2l36 Ewert hallten und Vortzüchen möge. Der meinen
+#facs_119_r2l37 es sein, stell augentz mit einem andern Versechen, vnd
+#facs_119_r2l38 der Wßzug ergentzt werden Fälle, demnach weisen
+#facs_119_r2l39 sich gehalten. Datum 9. May 1648.

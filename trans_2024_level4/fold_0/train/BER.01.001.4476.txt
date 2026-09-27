@@ -1,0 +1,68 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 60/61
+# High similarity (>=80%): 59
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4476
+#facs_125_r2l5 Die Sommerfrücht etc. zu verkaufen anbefohlen,
+#facs_19_region_1629824098864_357l1 34
+#facs_306_r1l3 gesont ad pag: 66
+#facs_131_r5l6 sollen.
+#facs_3_region_1629374270345_387l1 2.
+#facs_125_r2l2 alle weltschen Herren Amtläut, wo Oberbeitl.
+#facs_8_region_1629822195909_48l_1 12.
+#facs_281_r3l18 Betreis ligt.
+#facs_125_r2l5 Die Sommerfrücht etc. zu verkaufen anbefohlen,
+#facs_289_r4l10 Schultheis Rath und Bürger etc.
+#facs_122_r3l21 Über den von Unseren fürgeliebten
+#facs_6_region_1629374899588_493l9 Mit Rähten denen Herren Weltsch Sekelmeister
+#facs_243_r2l10 und Veneren, und Unserer verordneten
+#facs_125_r2l10 KornCammer uns gemachten Vortrag,
+#facs_125_r2l11 betreffend das auf Martini 1779 einge¬
+#facs_125_r2l12 gangene Obrigkeitliche Betreid, haben
+#facs_125_r2l13 Wir gut befunden und erkent: Es solle
+#facs_125_r2l14 vor einmal, und biß auf Unseren weiteren
+#facs_125_r2l15 bestimten Befehl, von dem Waizen nicht
+#facs_125_r2l16 das mindeste verkauft, von dem Roggen
+#facs_125_r2l17 und Mischeltorn dann, nur die Helfte, nach
+#facs_125_r2l18 uns nach abgestoßen, hingegen aber die
+#facs_125_r2l19 Sommerfrüchte, welche über den bestimten
+#facs_125_r2l20 vorrath aus, und nach Abzug der ordinari¬
+#facs_125_r2l21 und quasi ordinari Ausgaben, von sothanem
+#facs_122_r5l14 Obrigkeitlichen Betreid vorschießen werden
+#facs_125_r2l23 gänzlich verstilberet werden;
+#facs_23_r2l5 Der
+#facs_125_r2l25 Meinung jedoch, daß von dato an, biß
+#facs_125_r2l26 auf den 1. May nachstkönftig, nur die erstere
+#facs_125_r2l27 Hilfte der Sommerfrüchten und so dann
+#facs_328_r1l1 245.
+#facs_125_r3l2 erst mit Anfang des Maymonats die andere
+#facs_125_r3l3 Helfte abgestoßen und verkauft werden
+#facs_125_r3l4 solle; Worbey Unser Will und Befehl
+#facs_38_r4l4 in fernerem dahin gehet. Daß in ansehen
+#facs_125_r3l6 dieser verkauffenden Früchten, die Verzeigung
+#facs_125_r3l7 der Schüttenen, von seiten Unserer Fürgel.
+#facs_242_r5l9 Mit Räthen der Herren weltsch Sebelmeister
+#facs_125_r3l9 und vonneren erbartet, dabey die
+#facs_123_r3l2 gewöhnlichen Praecautionen genommen.
+#facs_123_r3l3 mithin das zu verkauffende Betreio
+#facs_264_r2l11 denen Händleren en bloc versprochen=
+#facs_125_r3l13 sondern zu kleinen Käußen in laufen dem
+#facs_125_r3l14 Poris verkaufft und von denen
+#facs_125_r3l15 angelöesenen Schüdkenen, vor allem aus
+#facs_164_r4l18 das mindest behaltliche Getreid abgestoßen
+#facs_125_r3l17 ins besonders dann die Sommerfrucht vor¬
+#facs_123_r3l11 züglich zu Anblümung der Felderen
+#facs_123_r3l12 hingegeben, auch erst denzumalen
+#facs_125_r3l20 völlig verkauft werden sollen, wann die
+#facs_125_r3l21 SommerSaat in Euerem Amt, und in denen
+#facs_125_r3l22 Gegenden, von welchen der Damen dazu
+#facs_125_r3l23 in demselben angekaufft wird, vollkommen
+#facs_125_r3l24 Welchemnach ihr Euch
+#facs_125_r3l26 wird besorget seyn
+#facs_125_r3l27 zu verhalten wißen = und über das erlosende
+#facs_125_r3l28 Uns gebührende Rechnung tragen werdet
+#facs_125_r3l29 Dat. d. 11. February 1780.
+#facs_178_r8l1 en

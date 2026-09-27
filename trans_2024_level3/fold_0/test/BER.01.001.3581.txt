@@ -1,0 +1,479 @@
+Law ID: BER.01.001.3581
+Name: Ihnen das getrukte Müntzmandat zusenden, und ihren Gewalt über Müntzsachen abzesprechen auf 30 C. setzen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 468/468
+# High similarity (>=50%): 458
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_485_r3l1 An Alle T. und W. Ambtl. außge¬
+#facs_485_r3l2 nen Freybeibel und Amma¬
+#facs_485_r3l3 Ihnen das getrübte Wüntz Mann
+#facs_485_r3l4 zusenden, und Ihren Gewalt über¬
+#facs_485_r3l5 Wüntzsachen abzusprechen auf
+#facs_485_r3l6 30. V. setzen
+#facs_485_r3l7 –
+#facs_485_r3l8 Schultheis Räht und Burger
+#facs_485_r3l9 er namhaffte Verlurst, so unser
+#facs_485_r3l10 Lieben und getreüben dürgeren und ver¬
+#facs_485_r3l11 thanen, mit Einbürff, so bohl In¬
+#facs_485_r3l12 äußert lobl. Eydtgnoßschafft geprägten
+#facs_485_r3l13 geringhältigen, bereits zum Theil
+#facs_485_r3l14 lig verruffenen, zum theil abgeruffen
+#facs_485_r3l15 Wüntzen zu gewachsen, hat Uns ben
+#facs_485_r3l16 get, hierbider das Erforserliche Einseh¬
+#facs_485_r3l17 bidermahlen vorzubehren, uns diese
+#facs_485_r3l18 Wüntze den Lauff in Unseren Land
+#facs_485_r3l19 gäntzlich zu untersagen, die Einligen¬
+#facs_485_r3l20 getruktes Mandat solches in mehreren
+#facs_485_r3l21 ausbeiset, welches Wir dir hin=
+#facs_485_r4l1 963
+#facs_485_r4l2 und befehlen wollen, selbiges zu manig¬
+#facs_485_r4l3 lichs Verhalt von Cantzle verkünden, und
+#facs_485_r4l4 an gebohnten Ohrten anschlage, zu lapen,
+#facs_485_r4l5 Wie nun Unser Sill ist, daß solchem al¬
+#facs_485_r4l6 lem geflißen nachgelebt werde; Als ha¬
+#facs_485_r4l7 fend Wir dir hierdurch alles Ernsts und
+#facs_485_r4l8 bey deinem Eyd befehlen solle, dir desen
+#facs_485_r4l9 Execution ohne schonen und dispensire
+#facs_485_r4l10 noch ansehe, der ofersohn angelegen seyn
+#facs_485_r4l11 zu laßen, und da jehmand hier vider ge¬
+#facs_485_r4l12 handlet zu haben angeklagt wurde, nach
+#facs_485_r4l13 deinem besten Bußen und gebüßen
+#facs_485_r4l14 besag der Ordnung zu urtheilen; In welchen
+#facs_485_r4l15 absehen und zutrauben dan Wir dir
+#facs_485_r4l16 dem Amtsmann überlagen haben bol,
+#facs_485_r4l17 lend, daß du auf 30. wohnen in Müntz
+#facs_485_r4l18 sachen Endlichen also absprechen mögeht
+#facs_485_r4l19 daß deine auffellende Vrtheil, besser
+#facs_485_r4l20 alsaro appelliert, noch recurriert vers¬
+#facs_485_r4l21 möge; dan es aber ein mehrers berühren solte, die
+#facs_485_r4l22 alles Wohl untersuchen, ein procedur in Blag,
+#facs_485_r4l23 Antbort, red und Viderred Sumarisch verfüh¬
+#facs_485_r4l24 regen und selbige alharo versenden sollest.
+#facs_485_r4l25 1729 und bestägtiget
+#facs_485_r4l26 8 f 9 x
+#facs_485_r4l27 20 in 23t. Xbris 1744
+#facs_486_r1l1 964
+#facs_486_r1l2 Ob id
+#facs_486_r1l3 Collath.
+#facs_486_r2l1 An Die 4. Ergeübische Städt
+#facs_486_r2l2 Als Reckerlingen Cons: ob id.
+#facs_486_r2l3 Amtstiß käht und Bürger
+#facs_486_r2l4 Der namhaffte Verlurst, so Wusten
+#facs_486_r2l5 Lieben und getreüben zurgeren und
+#facs_486_r2l6 Unterthanen mit ein Burff so bohl sich
+#facs_486_r2l7 als ausserth lobl. Eydtgnoßschafft gegen
+#facs_486_r2l8 ten geringhältigen, bereits zum Theil
+#facs_486_r2l9 völlig verruffenen, zum Theil abge¬
+#facs_486_r2l10 ruffenen muntzen zugebachsen, hat vns
+#facs_486_r2l11 benöhtiget, hierbider das Erforderliche
+#facs_486_r2l12 Einsehen vidermahlen vorzubehren, und
+#facs_486_r2l13 diesere Wüntzen den Lauff in Unser
+#facs_486_r2l14 Lausen gäntzlich zu untersagen, die Er¬
+#facs_486_r2l15 gendes getruetes Mandat solches in
+#facs_486_r2l16 verein außbeiset; welches Wir Euch h
+#facs_486_r2l17 mith zusenden, und befehlen wollen, selbst
+#facs_486_r2l18 zu männiglichs Verhalt von Canthen
+#facs_486_r2l19 künden, und an gebohnten Ohrten anschla¬
+#facs_486_r2l20 zu laßen; Wie nun Unser Bill ist, daß
+#facs_486_r2l21 chem allem geflißen nachgelebt berde,
+#facs_486_r2l22 Alß habend wir Euch hierdurch alles Es
+#facs_486_r3l1 965.
+#facs_486_r3l2 und bey Eüberen Bflichten befehlen sollen, Euch
+#facs_486_r3l3 topen Execution ohne schönen und dispensieren
+#facs_486_r3l4 noch ansehen der ofersohn angelegen seyn zu laßen,
+#facs_486_r3l5 und da jemand hier wider gehandlet zu haben.
+#facs_486_r3l6 angerlagt wurde, nach zu brem besten Äusen
+#facs_486_r3l7 und gebüßen besag der Ordnung zuertheilen,
+#facs_486_r3l8 In Belehem absehen und Zutrauben dan die
+#facs_486_r3l9 Euch überlaßen haben sollend, daß Ihr auf drey¬
+#facs_486_r3l10 sig Crohnen in Wüntzsachen endlichen also ab¬
+#facs_486_r3l11 sprechen möget, daß zübere außfallende
+#facs_486_r3l12 Vrtheil Oeder alharo appelliert, noch reut¬
+#facs_486_r3l13 riert werden möge; Wan es aber Ein mehrers
+#facs_486_r3l14 berühren solte, Ihr alles wohl untersuechen
+#facs_486_r3l15 Ein procedur in Blag Antborth, redund
+#facs_486_r3l16 tiserred Kummarisch verführen, und selbige
+#facs_486_r3l17 alharo versenden sollet, alles jehdenoch in dem
+#facs_486_r3l18 verstand, daß der beygelegte Gebalt über
+#facs_486_r3l19 30. T. völlig abgesprechen sich allein für
+#facs_486_r3l20 Dißmahl auf die Wüntzsachen verstehen,
+#facs_486_r3l21 auch länger nit bestand habe, solle, alß
+#facs_486_r3l22 Es Uns gefallen wird, und wir es guht
+#facs_486_r3l23 und nohtwendig erachten dersen. Actl.
+#facs_486_r3l24 ut supra.
+#facs_487_r1l1 966
+#facs_487_r1l2 An alle Freybeibel und
+#facs_487_r1l3 Bundon. Ob id
+#facs_487_r1l4 Schultheis Raht und Burger.
+#facs_487_r1l5 der vielichaffte Verlurst, so unser
+#facs_487_r1l6 b. und G. Bürgeren und Vnte¬
+#facs_487_r1l7 thanen mit Einzurff so wohl zu
+#facs_487_r1l8 Clats
+#facs_487_r1l9 alß äußert Loblr. Eydtgnoß schafft
+#facs_487_r1l10 geprägten geringhältigen, bereit
+#facs_487_r1l11 zum Theil völlig verrueffenen
+#facs_487_r1l12 zum Theil abgerueffenen Wünk
+#facs_487_r1l13 daher zu gebachsen, hat Unß benug
+#facs_487_r1l14 tiget, hierbider das Erforderliche
+#facs_487_r1l15 Einsehen widermahlen vorzubeh¬
+#facs_487_r1l16 und dieseren Müntzen den Lauff in
+#facs_487_r1l17 Vnseren Landen gäntzlichen zu unter
+#facs_487_r1l18 sagen, die Einligendes getrübtes
+#facs_487_r1l19 Mandat solches in mehrerem an,
+#facs_487_r1l20 Teiset; Welches Wir dir hiemith
+#facs_487_r1l21 zusenden, und befehlen Follen,
+#facs_487_r2l1 967.
+#facs_487_r2l2 Selbiges zu männiglichs Verhalt von
+#facs_487_r2l3 santzlen verbünden, und an gebohne
+#facs_487_r2l4 ten Ohrten anschlagen zu laßen,
+#facs_487_r2l5 Wie nun Unser bill ist, daß solchem
+#facs_487_r2l6 allem geflißen nachgelebt verse¬
+#facs_487_r2l7 Als habend wir dir hierdurch alles
+#facs_487_r2l8 ernsts, und bey deinem Eyd befehle,
+#facs_487_r2l9 Bollen, dir deßen Volstrerung ohne
+#facs_487_r2l10 schöne, noch ansehe der Ofersohn, an¬
+#facs_487_r2l11 gelegen seyn zu laßen, und da etwas der¬
+#facs_487_r2l12 gleichen Entdebt Bürde, alwegen das
+#facs_487_r2l13 gelt zu arrestieren, und anzehalten
+#facs_487_r2l14 mithin dan ohnverzogenlich die bebant¬
+#facs_487_r2l15 nuß der sach an unsere Verordnete
+#facs_487_r2l16 gelts Veräußerungs Commission zu berich¬
+#facs_487_r2l17 ten, welche dann nach Ihre ertheilter
+#facs_487_r2l18 Begleisung und gewalt ferners hie¬
+#facs_487_r2l19 rin zu verfahren schon düßen wirs.
+#facs_487_r2l20 Aetl ut Suproe
+#facs_488_r1l1 1681
+#facs_488_r1l2 Raccard
+#facs_488_r1l3 Wien Schultheiß Raht wird
+#facs_488_r1l4 Burger der Stadt Hern, thun kund
+#facs_488_r1l5 hiemith; demnach Wir eine gerau¬
+#facs_488_r1l6 Collats.
+#facs_488_r1l7 me zeith daher mit bedaubren bähr¬
+#facs_488_r1l8 nemen müßen, In das Höchst schäslig
+#facs_488_r1l9 Verbirrung das Wüntzbesen darin
+#facs_488_r1l10 verfallen, daß zu und äußert lobl.
+#facs_488_r1l11 Eydtgnosschafft allerhand alzugering
+#facs_488_r1l12 haltige Wintzen gepräget, In Vn¬
+#facs_488_r1l13 sere Städt und Land geborffen, die
+#facs_488_r1l14 grobe Tährschaffte Gold und Silber
+#facs_488_r1l15 sorten hierdurch darauß gezogen,
+#facs_488_r1l16 das gemein nützige Commercium
+#facs_488_r1l17 In eine große gerrütung, unsere
+#facs_488_r1l18 L. uns 9. Angehörige und Unterthä¬
+#facs_488_r1l19 nen aber in Einen Höchst beschwehrlichen
+#facs_488_r1l20 Verlurst gesetzet worden, welchem und
+#facs_488_r1l21 leidenlichen Landschaden Wir zwar an=
+#facs_488_r1l22 fangs, theils durch völlige Verrichtungs
+#facs_488_r2l1 ¬969
+#facs_488_r2l2 theils dan durch abrüeßung dergl. gering¬
+#facs_488_r2l3 hältigen müntzen auf Ihren innerli¬
+#facs_488_r2l4 chen und Eigenen Jahrt vorzubiegen,
+#facs_488_r2l5 getrachtet, dennoch aber, ohngeacht vnd
+#facs_488_r2l6 ser vielfaltigen darüberhin ergange¬
+#facs_488_r2l7 nen Bahrmungen seithero bahrnemen
+#facs_488_r2l8 müßen, daß Vnseren so heilsamen
+#facs_488_r2l9 einsehen mit nachgelebt, sondern im
+#facs_488_r2l10 gegentheil den völlig verbockenen
+#facs_488_r2l11 der gang gelaßen, und dan die abge¬
+#facs_488_r2l12 rufften nicht in dem preiß, die Wir
+#facs_488_r2l13 Sie gebürdiget, sondern höcher außgegeben
+#facs_488_r2l14 toron, uns dardurch der Verlurst ohn¬
+#facs_488_r2l15 erträglich fallen Buren landemtärz
+#facs_488_r2l16 lich sich vermehrenden übel nicht von
+#facs_488_r2l17 grund auf gesteuret werden solte; der oder
+#facs_488_r2l18 gen wir nachgehaltener reiffen beraht,
+#facs_488_r2l19 schlagung auß Landwätterlicher liebe
+#facs_488_r2l20 und Hochoberkeiten erflicht gegen Un¬
+#facs_488_r2l21 sere B. und g. Angehörige zu Statt und
+#facs_489_r2l1 Land Uns benöstiget gesehe, dem übel
+#facs_489_r2l2 die Burtzel völlig abgeschneisen,
+#facs_489_r2l3 und dergl. geringhältige durch von
+#facs_489_r2l4 ge unsere Außgeschribene, aber
+#facs_489_r2l5 nicht in Obacht gezogene Manda
+#facs_489_r2l6 auf einen inderen Fuß gesetzte,
+#facs_489_r2l7 und theils verruffte, hand und
+#facs_489_r2l8 Schrismüntzen gäntzlich und von
+#facs_489_r2l9 lig allerdings zu verruffen; hollend
+#facs_489_r2l10 auch hiemit oberbeitl. und Früstmei¬
+#facs_489_r2l11 nend gehebt und geordnet haben, daß
+#facs_489_r2l12 alle seith 20. Jahren dafür geprägte,
+#facs_489_r2l13 ringhältig erfundene Eydtgnöpische
+#facs_489_r2l14 Scheid und Handmunten Lobl.r Stand
+#facs_489_r2l15 Lucern, Unterwalden, Zug, Freyburg,
+#facs_489_r2l16 Walliß und Sischoff Gaßlische gantze
+#facs_489_r2l17 und halbe batzen, Schilling, Creützer,
+#facs_489_r2l18 und vierer, denn gischoff Gaslisch
+#facs_489_r2l19 3 bey Schillingstuk, weil sie alzugerin
+#facs_489_r2l20 hältig seithero erfunden worden, Sie
+#facs_489_r2l21 auch alle Alte Schilling, und der Rechte
+#facs_489_r3l1 971.
+#facs_489_r3l2 Gasell Beyschillinger, Indehme die Ersten
+#facs_489_r3l3 von den neüben der Stadt Hasell aber von
+#facs_489_r3l4 den Gischoff Gaßler z beyschillingen mit
+#facs_489_r3l5 bohl unterscheiden werden können, zusamt
+#facs_489_r3l6 all außländischen Müntzen, also gäntzlich ver¬
+#facs_489_r3l7 rueffen seyn und bleiben sollen, daß sie in
+#facs_489_r3l8 allen Vnsere T. und W. Landen komme
+#facs_489_r3l9 manden, weder gürgeren Vnterthanen
+#facs_489_r3l10 noch fremden angebotten, Eingenommen
+#facs_489_r3l11 noch außgegeben werden, also künfftig sie
+#facs_489_r3l12 Beine andere muntz mehr in Vnser
+#facs_489_r3l13 Landen lauff und gang haben sollen.
+#facs_489_r3l14 Als die Ehemalige alte gute gernundan¬
+#facs_489_r3l15 dere Eydtgnös. Müntzen, alß da sind
+#facs_489_r3l16 ganze und halbe verübaten, Creützer und
+#facs_489_r3l17 vierer, die alten drey Creützler plapert
+#facs_489_r3l18 und ortlistuk, so denn die bißhar bekan¬
+#facs_489_r3l19 te probhaltige neübenburger müntz
+#facs_489_r3l20 und übriger lobl. Eydtgn. Ohrten Ehemah¬
+#facs_489_r3l21 lige gantze und halbe batzen und Weul¬
+#facs_489_r3l22 ger
+#facs_490_r2l1 Alles bey straff der Confiscation
+#facs_490_r2l2 Verwürbung der vider gegenbehrtiges
+#facs_490_r2l3 licher Ernstgemeintes Verbodt anbieten
+#facs_490_r2l4 den einehmenden oder außgebende Mündz¬
+#facs_490_r2l5 und Einer Gueß von dem Jährt der
+#facs_490_r2l6 Consistation, sie steige so hoch sie um
+#facs_490_r2l7 boile, da von der also fallende Confiscio
+#facs_490_r2l8 tion und Gues Unß der Wierte Theil,
+#facs_490_r2l9 vnseren amtleuthen gleich viel
+#facs_490_r2l10 vom verlehder Zwey Viertel, so wohl von
+#facs_490_r2l11 der Confiscation alß der Vneß zu kommen
+#facs_490_r2l12 und diese letzteren von Unseren Amtleu
+#facs_490_r2l13 then bey Ihren pflichten also bald außgerigen
+#facs_490_r2l14 tet, und bezahlt derden soll.
+#facs_490_r2l15 Es möchte aber sich jehmand biser gegen dehr
+#facs_490_r2l16 tiges Unser Einsehen so nam hafft vergreift
+#facs_490_r2l17 daß wir Unß hiemit vorbehalten haben wollen
+#facs_490_r2l18 einen solchen nach bekantfindenden Umstän¬
+#facs_490_r2l19 den an Rut, Leib oder Leben der gebühr
+#facs_490_r2l20 nach anzusehen.
+#facs_490_r2l21 Damit aber Unsere Angehörige auch
+#facs_490_r2l22 Zeit habend, sich dieser gäntzlich verruffen
+#facs_490_r2l23 obvernamseten Eydgnößig und anderende
+#facs_490_r3l1 973.
+#facs_490_r3l2 Wüntzen abzuthun, und selbige äußert
+#facs_490_r3l3 Lands anzubringen, so ist vnsere Meinung,
+#facs_490_r3l4 daß mit Beendung der Confiscation im
+#facs_490_r3l5 straff gegen die Biderhandlenden, auf den
+#facs_490_r3l6 Ersten Hrachmohnat nächstkünftig in
+#facs_490_r3l7 ellen Unseren Landen der Anfang gemacht
+#facs_490_r3l8 Berden solle.
+#facs_490_r3l9 Obgleich nun obenhar die Älten Schillung
+#facs_490_r3l10 Wie auch der Stadt Hasellz beyschillinger
+#facs_490_r3l11 in gemeinem handel, gleich übrigen gering¬
+#facs_490_r3l12 haltigen und verrufften Wüntzen Verbot¬
+#facs_490_r3l13 ten bleiben, weilen selbige von den Neüben
+#facs_490_r3l14 nit Wohl zu unterscheiden, so habens denoch
+#facs_490_r3l15 Wir, in bedenken selbige sonsten anfern¬
+#facs_490_r3l16 und Schrat hältig, und hievor niemahls ver¬
+#facs_490_r3l17 botten vorden, hiemit zu geben und verordnen
+#facs_490_r3l18 Tollen, daß vorgemelte alte Schilling, uns
+#facs_490_r3l19 der Stadt Hasell Zweyschillinger, damit
+#facs_490_r3l20 niemand zu schaden komme, von Vnsere
+#facs_490_r3l21 Salz Außmeßeren und Zolls besteheren,
+#facs_490_r3l22 Die auch aller übriger ohrten, da Oberheitl.
+#facs_490_r3l23 gelt eingenommen wird, an Bezahlung abge¬
+#facs_490_r3l24 nommen, oder auch gegen anderes läuffiges
+#facs_491_r2l1 gutes gelt ohne Verlust außgebechslet
+#facs_491_r2l2 Berden sollen: Alß welche, wir es nach
+#facs_491_r2l3 kehres auf gleichein Fuß zu Unser
+#facs_491_r2l4 handen auch abnemen laße, deren
+#facs_491_r2l5 zu welchem End dan Unser ernstliche
+#facs_491_r2l6 befelch an alle Unsere Amtleüth gela¬
+#facs_491_r2l7 get, mit mir sich selbsten darnach zu
+#facs_491_r2l8 richten, sondern auch befidigte Aufsehe
+#facs_491_r2l9 zu bestellen, welche auf die viderhandlenden
+#facs_491_r2l10 geflißen lezten, und solche Ihnen verleijde
+#facs_491_r2l11 in diesem fahl aber gegen denselben in
+#facs_491_r2l12 oben außgehetzter Confiscation und
+#facs_491_r2l13 straht, ohne Ansehe, der Ofersohn bey auf
+#facs_491_r2l14 habende, Eyden verfahren thüens, die zuthun
+#facs_491_r2l15 auch gegenwertige Unsere Ordnung uns Ein¬
+#facs_491_r2l16 sehen zu mänglichs Verhalt von Cantzlen ver¬
+#facs_491_r2l17 künden, und aller gebohnten Ohrten anschläge
+#facs_491_r2l18 zu laßen Sie bestens düßen werden
+#facs_491_r2l19 Wie versehend Unß aber zu alle Vnsere
+#facs_491_r2l20 Lieben und getreüben gürgeren und Amtt
+#facs_491_r2l21 thanen, Teilen gegenkehrtiges Unser des
+#facs_491_r3l1 = 975.
+#facs_491_r3l2 gemeintes Einsehen allein das absehen
+#facs_491_r3l3 hat, Ihren Eigenen nutzen zuförderen.
+#facs_491_r3l4 und so namhafften Schaden zu bene¬
+#facs_491_r3l5 Belcher Ihne, durch annehmung dergleichen
+#facs_491_r3l6 Allzugeringhältige Wüntzen zu Sachsel¬
+#facs_491_r3l7 daß Sie vielmehr auß Liebe, zur beybe¬
+#facs_491_r3l8 haltung des Ihrigen, als forcht der straff
+#facs_491_r3l9 sich gebührend underbergen, um also
+#facs_491_r3l10 selbsten vor schaden sich hüeten bevor
+#facs_491_r3l11 Hrbe, in unser Kroßen Rahtsverein,
+#facs_491_r3l12 lung den 9ten february 1729.
+#facs_491_r3l13 Canzley Bern
+#facs_491_r3l14 traduction.
+#facs_491_r3l15 Tous L'Advoyer Petit et grand
+#facs_491_r3l16 au Conseil de la Ville et Republique de Berne
+#facs_491_r3l17 Scavoir Facisons; Quayants aperçus
+#facs_492_r2l1 avec de plaisir, que depuis quelque tems il
+#facs_492_r2l2 tors survenu une Confusion et un deson
+#facs_492_r2l3 tres présentable à Nos Etats, au sujet
+#facs_492_r2l4 les differentes mondyes de trop petite
+#facs_492_r2l5 Mais fabriquées tant dans la Suisse
+#facs_492_r2l6 que venors, qui se sont glisseés dans Nos
+#facs_492_r2l7 et Pays, et dou il est arrivé, qui
+#facs_492_r2l8 les grosses et bones Especes d'Or et d'ap-
+#facs_492_r2l9 gent en sont sorties le comerce deran
+#facs_492_r2l10 ge, et Nos chers et Feaux Bourgeois
+#facs_492_r2l11 et sujets, plonges dans une tres grande
+#facs_492_r2l12 perte; ce qui nous auroit déjà cy devant
+#facs_492_r2l13 engagé, pour eloigner de nos Etats un
+#facs_492_r2l14 tel domage de defendre entierement
+#facs_492_r2l15 les unes de ces Monoyes non Valables, et de
+#facs_492_r2l16 reduire les autres par une diminution
+#facs_492_r2l17 Convenable, à leur juste valeur intrinse,
+#facs_492_r2l18 que; Neanmoins Voyons, que tous nos avec
+#facs_492_r2l19 tissements et Mandats Salutaires, emanés
+#facs_492_r2l20 à ce hjet, n'ont point été observés
+#facs_492_r2l21 mais qu'au contraire, les Monoyes entre
+#facs_492_r2l22 rement deffendues ont eu leur libre cours,
+#facs_492_r3l1 977.
+#facs_492_r3l2 et que celles cy devant diminuées ont été reçues
+#facs_492_r3l3 un plus haut prise, de maniere que la
+#facs_492_r3l4 fils
+#facs_492_r3l5 perte qui en resulteroit, devenant excessi
+#facs_492_r3l6 il n'y auroit plus moyen de la supporter;
+#facs_492_r3l7 Nous n'apportions incessement un reme
+#facs_492_r3l8 ficace, à un mal qui saugmente tous ces
+#facs_492_r3l9 jours.
+#facs_492_r3l10 Dans cette vüe, ayants reflechi et mûre,
+#facs_492_r3l11 ment deliberé la dessus, mus d'ailleurs par
+#facs_492_r3l12 un amour Paternel pour le bien dehors
+#facs_492_r3l13 giers et feaux Bourgeois et sujets, aigri
+#facs_492_r3l14 bien que par le devoir de Souverain, Nous
+#facs_492_r3l15 Nous voyons dans la Nécessité de remettre
+#facs_492_r3l16 a un abus si criant, en remontant à la
+#facs_492_r3l17 tourée du mal, et d'interdire absolument
+#facs_492_r3l18 ces sortes de monoyes de bas alloy, cy devant
+#facs_492_r3l19 mis es hors de tout Comerce, de meme que celles
+#facs_492_r3l20 qui ont été diminuées par Nos mandats
+#facs_492_r3l21 precedents, publiés et non observés
+#facs_492_r3l22 À ces causes, voulons et ordonons tres
+#facs_492_r3l23 expressement par les présentes, que tou
+#facs_492_r3l24 tes les petites Monoyes, fabriquées depuis
+#facs_492_r3l25 20. dus dans la Suisse, et qui sont de trop
+#facs_493_r2l1 bas alloy et valeur, come sont les batis
+#facs_493_r2l2 demy batz, sols ou Schellings Crukers et
+#facs_493_r2l3 demi reukers des Louables Cantons de lu
+#facs_493_r2l4 Arne, Anderwalden, Zug, Frybourg,
+#facs_493_r2l5 ouvrage et de Mons l'Eveque de Bast
+#facs_493_r2l6 de même que les pièces de deux sols
+#facs_493_r2l7 N'est Schellings oudt. Evêque, tous le
+#facs_493_r2l8 Pieux sénélings, et les double Schelling
+#facs_493_r2l9 de la viele de sale les premiers n
+#facs_493_r2l10 pouvent pas facilement être discerné
+#facs_493_r2l11 dans les Nouveaux, et ces derniers, d'
+#facs_493_r2l12 vec cette de Monsr. l'Eveque de Baste
+#facs_493_r2l13 En général, que toutes Monoyes etrang
+#facs_493_r2l14 res, qui seront dans le cas susds. soyent
+#facs_493_r2l15 et restent entierement et sans reserve,
+#facs_493_r2l16 deffendues et hors de tout Comerce, sans
+#facs_493_r2l17 pouvoir avoir cours parmi Nos Bourgeois
+#facs_493_r2l18 Sijets, ou Etrangers, tant en Nos Pays
+#facs_493_r2l19 Allemands que Romands
+#facs_493_r2l20 Voulants que dores en avant, on n'offre
+#facs_493_r2l21 receive ny debite aucune autre monoye
+#facs_493_r3l1 979.
+#facs_493_r3l2 dans sous nos pays, que l'anciené et bonne mon
+#facs_493_r3l3 noye de Berne, et autres endroits de la Suisse,
+#facs_493_r3l4 Scavoir, nos anciens batz, demi bate, inutzen
+#facs_493_r3l5 et demi Crutzers, les ancienes pieces de trois
+#facs_493_r3l6 futiers, celles de quatre sols ou Schellings,
+#facs_493_r3l7 et donne Schellings, de même que la Mon-
+#facs_493_r3l8 noye de Neufchattel, reconve bonte jusques
+#facs_493_r3l9 ici, en un mot, toutes sortes de mondres
+#facs_493_r3l10 d'anciene datte fabriquées en Suisse.
+#facs_493_r3l11 Et ce sous peine de la confiscation de toutes
+#facs_493_r3l12 les susdites monoyes, qui auront été offer,
+#facs_493_r3l13 tes, reçües ou debitees, contre la présence
+#facs_493_r3l14 Notre expresse deffence, et au surplus
+#facs_493_r3l15 d'une amende du montant de la Conginaire
+#facs_493_r3l16 tion, quelque considerable quelle puisse
+#facs_493_r3l17 être. Desquelles Confiscations et amendes
+#facs_493_r3l18 un quart parviendra à Nous, un autre
+#facs_493_r3l19 à Nos Ballifs, et les deux autres quart
+#facs_493_r3l20 tant de la Confiscation que de l'Amende,
+#facs_493_r3l21 au Delateur, que Nos Ballifs auront soin
+#facs_493_r3l22 par leur devoir de leur delivrer sur le
+#facs_493_r3l23 Champ
+#facs_494_r2l1 Mais comme il pourroit arriver que quel
+#facs_494_r2l2 un vint à contrevenir a Nôtre present
+#facs_494_r2l3 Reglement et ordonance, d'une manière
+#facs_494_r2l4 éxorontante, et pour des somes conse
+#facs_494_r2l5 rables, nous nous reservons dans ce cas
+#facs_494_r2l6 de premier le delinquant, soit dans ces
+#facs_494_r2l7 cas de prendre le deliquant, soit dans
+#facs_494_r2l8 les biens, dans son corps, ou même à la
+#facs_494_r2l9 Vie, selon l'exigence du Cas,
+#facs_494_r2l10 Et afin que nos Bourgeois et hyets
+#facs_494_r2l11 ayent tous le tems requis pour se de
+#facs_494_r2l12 faire des susdites Monoyes deffendues
+#facs_494_r2l13 et les employer hors du Pays, Nôtre
+#facs_494_r2l14 tention est, que l'Execution du presen¬
+#facs_494_r2l15 Mandat ne sortisse son plein et entier
+#facs_494_r2l16 effet, pour la Confiscation et amende
+#facs_494_r2l17 qu'au premier jour du mois de juin
+#facs_494_r2l18 prochain.
+#facs_494_r2l19 Et quoique les vieux sols et Schellingo
+#facs_494_r2l20 et les double schellings de la Ville de Bas
+#facs_494_r2l21 le, soyent et restent deffendus en general
+#facs_494_r2l22 dans le Commerce, tout come les autres
+#facs_494_r2l23 Monoyes de petite valeur, à cause
+#facs_494_r3l1 981.
+#facs_494_r3l2 qu'il ne peuvent facilement être distingués
+#facs_494_r3l3 des Nouvaux, neantmoins Considerants, qu'ils
+#facs_494_r3l4 font de bonne valeur intrinseques qu'ils
+#facs_494_r3l5 n'ont point été cy devant interdits, et
+#facs_494_r3l6 afin que cela ne porte prejudice a Per
+#facs_494_r3l7 sone, nous voulons biens conceder, que
+#facs_494_r3l8 les susdito vieux sols, soit Schellings
+#facs_494_r3l9 aussi bien que les doubles Schellings de
+#facs_494_r3l10 La ville de Basle, soyent reçu en paye
+#facs_494_r3l11 ment par nos Sauniers, Comis des peu¬
+#facs_494_r3l12 ges, et dans tous les endroits des remples
+#facs_494_r3l13 souveraines, ou changés sans aucune
+#facs_494_r3l14 verte, contre d'autre argent courant,
+#facs_494_r3l15 lesquels Nous recevrons en suite sur le
+#facs_494_r3l16 même pic.
+#facs_494_r3l17 pour cet Effet nous ordonons et Comandons tres
+#facs_494_r3l18 expressement à tous nos Ballifs, non seule
+#facs_494_r3l19 ment de se conformer eux même à notre
+#facs_494_r3l20 presente volonté, mais de plus détablir
+#facs_494_r3l21 des surveillants assermentes, qui pretent
+#facs_494_r3l22 ne düe attention sur les contrements,
+#facs_494_r3l23 et qui les leur deferent, et que si Nosdts Bal¬
+#facs_494_r3l24 lits viennent à proceder contrecux, ils se
+#facs_495_r1l1 faient par leur serment et leur infli¬
+#facs_495_r1l2 gent les confiscations et amendes lusd.
+#facs_495_r1l3 sans aucune acceptation de persone
+#facs_495_r1l4 ny distinction quelquonque
+#facs_495_r1l5 Rafin que Persone n'en pretende cause
+#facs_495_r1l6 Londres nous ordonons que le présent
+#facs_495_r1l7 Manderé soit publié en chaire, et afficez
+#facs_495_r1l8 aux entroits accoutumes pour la Conduite
+#facs_495_r1l9 d'un chaquun.
+#facs_495_r1l10 préfin Nous nous asseurons, qu'en Consideration
+#facs_495_r1l11 de la bône Intention que Nous avons dans le premier
+#facs_495_r1l12 Reglement, qui na pour but que d'avancer le prix
+#facs_495_r1l13 Lundi deloigner de Nos Pays une perte Com¬
+#facs_495_r1l14 derable, qui resulteroit infailliblement par
+#facs_495_r1l15 le cœurs des surds. Monoyes: que sous Nos chers
+#facs_495_r1l16 Feaux Kijets attirés par l'Amour de la Consi=
+#facs_495_r1l17 vation de leurs biens plutôt que par
+#facs_495_r1l18 crainte du chatiment l'y soumetront avec
+#facs_495_r1l19 zéle et sincerité. Donc dans nôtre grand
+#facs_495_r1l20 Conseil le 9eme Fevrier 1729
+#facs_495_r1l21 Mancellerie de Berne

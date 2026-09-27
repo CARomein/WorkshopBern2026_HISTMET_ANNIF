@@ -1,0 +1,78 @@
+Law nr: BER.01.001.4579
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 66/66
+# High similarity (>=80%): 65
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_195_r5l16 die Hh. Amtleute zu Aarburg, Leusburg,
+#facs_195_r5l17 und Schenkenberg - denne an die 4. Aergang
+#facs_195_r5l18 Ache Städte. ansehend die dortigen Fabricanten.
+#facs_36_r3l7 Schultheiß und Rath
+#facs_195_r5l20 Die bekannten Königl. Franz. Comenz. Der
+#facs_195_r5l21 igungen, welche nicht wenig die Abnahm der
+#facs_195_r5l22 hiesigen Manufacturen beförchten laßen, bewegen
+#facs_195_r5l23 Aus, aus Landes väterlicher Vorsorge an sämtliche
+#facs_195_r5l24 fabricanten von Strümpfen, Strichbaar Cottonen
+#facs_195_r5l25 Indienen und Baumbolle, die ernstliche Ermahnung
+#facs_195_r5l26 hierdurch ergehen zu laßen. Daß da sie unter
+#facs_195_r5l27 der hiesigen milden Landes Regierung, allen
+#facs_195_r5l28 gnädigen
+#facs_196_r1l1 381
+#facs_196_r2l1 gnädigen Schuz und Freyheit gewiesen. Wie
+#facs_196_r2l2 hingegen von ihrer Denkungs Art als getreü¬
+#facs_196_r2l4 in Bürgern und Unterthanen billig gebarten
+#facs_196_r2l5 sollen, daß sie in Austheillung ihrer fabricieren
+#facs_196_r2l6 den Arbeit, in Spinnerey und Heberey, von
+#facs_196_r2l7 nun an, Unseren Immediat Unterthanen den
+#facs_196_r2l8 verdienten Vorzug gönnen, und dieselbe nicht
+#facs_196_r2l9 mehr an Außere und fremde abgeben, denen
+#facs_196_r2l10 ersteren dann, durch den daher ihnen billig
+#facs_196_r2l11 gonnenden mehrerer Vortheil Nahrung und
+#facs_196_r2l12 Verdienst verschaffen, und denenselben so viel
+#facs_196_r2l13 an ihnen den Nachtheil ersezen und verfüßen
+#facs_196_r2l14 werden, welcher ihnen durch besagte königl.
+#facs_196_r2l15 Verfügungen und Verbote der Einfuhr hier¬
+#facs_196_r2l16 ländischen Fabriuanten zugebachsen.
+#facs_196_r2l17 Wir verlangen nun, daß Ihr besagte
+#facs_193_r5l22 Amts
+#facs_196_r2l19 sämtliche fabricanten Euerer Stadt) vor
+#facs_196_r2l20 Euch bescheidet und ihnen persöhnlich in Unseren
+#facs_196_r2l21 Namen, daher die nöthigen Ermahnungen
+#facs_196_r2l22 und Vorstellungen machet; da Wir dann
+#facs_196_r2l23 von Euch den Bericht erbarten sind, in wie
+#facs_196_r2l24 weit dieser bestgemeinten, zugleich aber ernst
+#facs_196_r2l25 lichen Vermahnung nachgelebt worden
+#facs_196_r2l26 Datum den 21ten Novembris 1785
+#facs_83_r3l6 en
+#facs_100_r2l1 soll.
+#facs_196_r2l3 o
+#facs_196_r4l1 382
+#facs_196_r4l2 General Mandat
+#facs_196_r4l3 wegen dem Halt der Weinfuhrfaßen.
+#facs_23_region_1633454616028_2913l1 An
+#facs_196_r4l5 Alle deütsche und beltsche Hhl. Amtleute, die
+#facs_196_r4l6 ner Städte, Freybeibel und Ammann
+#facs_36_r3l7 Schultheiß und Rath
+#facs_196_r4l8 Da Wir eine Zeit daher bahrnemmen müßen,
+#facs_196_r4l9 daß Unser unterm 24ten Juny 1773. emanierte
+#facs_196_r4l3 wegen dem Halt der Weinfuhrfaßen.
+#facs_196_r4l11 besonders in Rüksicht auf die übertriebene
+#facs_196_r4l12 Ladung der Weinbagen nicht befolget werde.
+#facs_196_r4l13 So sehen Wir Uns veranlaßet, Euch, nebst zu¬
+#facs_196_r4l14 sendung einiger Exemplarien von dieser Ver¬
+#facs_196_r4l15 ordnung, anmit den befelchlichen Auftrag zu
+#facs_196_r4l16 ertheilen, solche Frischerdingen zur Befolgung
+#facs_196_r4l17 on Kanzlen verlesen zu laßen, und dener
+#facs_196_r4l18 bestellten Aufsteheren anzubefehlen, auf die
+#facs_196_r4l19 Fehlbaren ein bachsames Aug zu halten, um
+#facs_196_r4l20 solche zu entderen, welche Ihr dann ohne Schönen¬
+#facs_196_r4l21 mit der in bemeltem Mandat bestimmten Fuß
+#facs_196_r4l22 belegen berdet.
+#facs_196_r4l23 Datum den 23ten November 1785.

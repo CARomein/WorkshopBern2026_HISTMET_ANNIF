@@ -1,0 +1,28 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 21/21
+# High similarity (>=80%): 20
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_275_r2l4 über 1000 lb.
+#facs_154_r4l4 Wegen wieder einschleichung der Verbotenen Münzen
+#facs_154_r4l1 299
+#facs_85_r9l2 d
+#facs_91_r4l9 Alle Herren Amtleut des Weltschen Lands.
+#facs_154_r4l4 Wegen wieder einschleichung der Verbotenen Münzen
+#facs_4_region_1628102603697_72l1 Schultheiß und Raht
+#facs_154_r4l6 Uns ist angezeigt worden, daß zu wieder Unserer
+#facs_154_r4l7 unterm 2ten february 1759. emanirten Münze Verord¬
+#facs_154_r4l8 nung, einiche Zeit daher eine Menge verbotener
+#facs_154_r4l9 Münzen, hin und wieder in Unseren Weltschen Lan¬
+#facs_154_r4l10 den sich einschleichen; welches uns bewogen, Euch¬
+#facs_154_r4l11 hiemit anzubefehlen, nicht nur mit aller Wachsam.
+#facs_154_r4l12 seit in Eüerem Amt Invigilieren zu laßen, daß
+#facs_154_r4l13 keine dergleichen Verbottene Münzen mehr, in
+#facs_154_r4l14 selbiges eingeworffen werden können, sondern auch
+#facs_154_r4l15 bemelt Unsere in Einlag mitbommende Münz-Ver¬
+#facs_154_r4l16 ordnung aufs frische von Canzlen publicieren, und
+#facs_154_r4l17 deren Observation jedermängl. alles Ernstes und
+#facs_154_r4l18 bey der darauf gesezten Straff, anbefehlen zu laßen
+#facs_154_r4l19 Wie zu thun s. Dat. den 24ten Novembl. 1774.

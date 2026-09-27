@@ -1,0 +1,112 @@
+Law ID: BER.01.001.3805
+Name: Amts Besalzung und Contrebande halber.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 101/101
+# High similarity (>=50%): 101
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_94_r1l1 174.
+#facs_94_r1l2 Collat
+#facs_94_r2l1 Brandson.
+#facs_94_r2l2 Schultheiß und Radl.
+#facs_94_r2l3 Amts Gesatzung und Contrebande halber
+#facs_94_r2l4 Unsere verordnete Saltz Direction hat Unß
+#facs_94_r2l5 behörigermaßen Hinderbracht und den Bericht
+#facs_94_r2l6 abgeleget, Sie habe zwar gleich bey Anfang
+#facs_94_r2l7 der Uns angetredtenen Attematio
+#facs_94_r2l8 Regierung hinder Grandson, die bestalltzung
+#facs_94_r2l9 diesers Amts in Unserem nahmen Unternohmen
+#facs_94_r2l10 die nöstigen Commisen zu Grandson, Jvonan
+#facs_94_r2l11 Onens und Concise bestellet, dieselben mit
+#facs_94_r2l12 guten Wagen und Gebichten versehen, in
+#facs_94_r2l13 die Verordnung gemachet, daß an diesen Ohrten
+#facs_94_r2l14 Unser Roche Salz umb 3 1/2 x. d. lb. von
+#facs_94_r2l15 16. Onces hiemit auf gleichem fueß, wie in
+#facs_94_r2l16 Klafern T: und 18. Imediat Landen, verkauffet
+#facs_94_r2l17 werde; Sie müsse aber vernemmen und Erfahren
+#facs_94_r2l18 das diesere Debite nicht wohl ton staeten gechen
+#facs_94_r2l19 wolle, in deme sehr viele von denen dortigen
+#facs_94_r2l20 Unterthanen, das zu ihrem Haus brauch nöhtig
+#facs_94_r2l21 habende Saltz nicht bey denen Oberbeitl. bestellten
+#facs_94_r2l22 Commisen nemen, sonderen dasselbe, mit er aller
+#facs_94_r2l23 hand irrig, und nichtigen Vorbanden und Praetexti¬
+#facs_94_r2l24 on benachbahrten frembden Ohrten einbauffen und
+#facs_94_r2l25 nach Hauß führen, auch gar darton ihrem Nachbaur
+#facs_94_r2l26 mittheilen
+#facs_94_r3l1 1751
+#facs_94_r3l2 mitheilen thüyen, wie nun solches zu großem schaden und Nachtheil
+#facs_94_r3l3 Vnserer Salzhandlung gereichet, so können wir diesem übel länger
+#facs_94_r3l4 nicht zu sehen, sonderen sind bemüßiget und gesinnet, demselben mit
+#facs_94_r3l5 Allein Ernst zu begegnen, damit diesers Uns, als dißmahligen
+#facs_94_r3l6 Landtsherren zu ständiges Saltz Regale gehandhabet und Auf¬
+#facs_94_r3l7 recht behalten werde; derobegen wir nöhtig funden, die
+#facs_94_r3l8 byligendes mandat wider die Saltz Contrebande zu zusenden
+#facs_94_r3l9 mit dem Befehl, nicht nur daßelbe seines Ohrts zu künftiger
+#facs_94_r3l10 Nachricht einschreiben und von Canzlen deines Ambts zu Jeder¬
+#facs_94_r3l11 mäniglichen Verhalt publicieren, auch an denen Gewohnten
+#facs_94_r3l12 Ohrten anschlagen zu laßen, sonder auch geheime Aufseher zu be¬
+#facs_94_r3l13 stellen, und annebens by deinem Eydt und pflicht bestermaßen,
+#facs_94_r3l14 zu invigilieren und hand abzuhalten, daß selbig ein nachgelebt,
+#facs_94_r3l15 und die übertrettenden ohne Ansehen der Persohn, andere
+#facs_94_r3l16 Zum exempel, gebührend abgestrafft werden
+#facs_94_r3l17 Da übrigens Wir die execution diser Vnserer Verordnung
+#facs_94_r3l18 Unserer Verordneten Salz Direction aufgetragen
+#facs_94_r3l19 Als Wirstu daßjenige, so deßhalb oder sonsten, die
+#facs_94_r3l20 Salz-handlung ansehend, in deinem Ambt vorgehen
+#facs_94_r3l21 und sich zu tragen wird, derselben jeder Zeit über¬
+#facs_94_r3l22 schreiben, und denen von ihre erhaltenden Weglrei¬
+#facs_94_r3l23 sungen und befelchen geflißenlich nachkommen, Wie zu¬
+#facs_94_r3l24 Thun bestens wüßen Wirst. Gott mit vns Datl. 30 9bris
+#facs_94_r3l25 1740
+#facs_95_r2l1 Translation
+#facs_95_r2l2 vorgehenden Schreibens an Grandson
+#facs_95_r2l3 Nous l'Advoyer, et Conseil de la Ville et Republique
+#facs_95_r2l4 de Berne, Savoir faisons par les Presentes, que
+#facs_95_r2l5 avons eté informé de la part de notre Direction
+#facs_95_r2l6 des Sels, que malgré les mesures, qu'elles a prise
+#facs_95_r2l7 pour introduire dans le Balliage de Grandson
+#facs_95_r2l8 pendent le Tems de notre presente alternative
+#facs_95_r2l9 et y bien établir la Debite du sel de Roche, sur
+#facs_95_r2l10 le meme pied, qu'elle est établie dans nos tems
+#facs_95_r2l11 Imediates, nos Sujets de ce Bailliage ne laissoit
+#facs_95_r2l12 pas, Sous divers pretexte errone, et mal fond
+#facs_95_r2l13 d'acheter des Sels étrangers dans le Voisinage
+#facs_95_r2l14 & de le conduire ches eux et même, den depart
+#facs_95_r2l15 et faire part à leurs voisins;
+#facs_95_r2l16 Et come cela tend au Grand prejudice de notre
+#facs_95_r2l17 Direction des Sels, Nous nous trouvons dans la
+#facs_95_r2l18 Necessité et dans le Dessein, d'y aporter des re-
+#facs_95_r2l19 medes, éfficaces, afin de main tenir, et conser
+#facs_95_r2l20 ver le Droit de Regale des Sels, qui Nous appar¬
+#facs_95_r2l21 tient come ceux Souverains dans ledit Ba
+#facs_95_r2l22 liage pendent le tems de nre alternative
+#facs_95_r2l23 Pour cet Effet Nous defendons entiérement
+#facs_95_r2l24 par les Presentes, a tous nos sujets du dit
+#facs_95_r3l1 177
+#facs_95_r3l2 Bailliage de Grandson, d'acheter et d'y introduire
+#facs_95_r3l3 aucun Sel étranger, soit peu, soir boncoup, sous quel¬
+#facs_95_r3l4 que pratexte que ce soit, pour leur propre usage,
+#facs_95_r3l5 domestique ou autre, d'autant que nôtre Intention
+#facs_95_r3l6 Volonte est, quils fassent tous leurs emplettes uni
+#facs_95_r3l7 quement auprès de Comis etablis pour ce sujet par
+#facs_95_r3l8 nôtre Direction des Sels, Sous peine de Confisca
+#facs_95_r3l9 tion, et de cinq Livres Bernoises damande, pour
+#facs_95_r3l10 Chaque Mesure ou 20. Et pesant et au dessous de
+#facs_95_r3l11 Sel etranger, qu'an aura porté dans le Bailliage,
+#facs_95_r3l12 la premiere fois, et dix Livres damande par chaque
+#facs_95_r3l13 mesure ou 20. lb. pesant et au dessous, pour la
+#facs_95_r3l14 seconde, outre la confiscation, Entendu, que la
+#facs_95_r3l15 moitié dans de la confiscation que de l'amande
+#facs_95_r3l16 sera au profit de nôtre Baillif audit Lieu,
+#facs_95_r3l17 et l'autre moitié à celuy du Delateur; Ce qui
+#facs_95_r3l18 est rendu public par les Presentes pour la
+#facs_95_r3l19 Conduite d'un chacun; Notre Baillif ayant
+#facs_95_r3l20 d'ailleurs receu un Ordre tres serieux de nôtre
+#facs_95_r3l21 part, de faire vailler exactément sur les Contre¬
+#facs_95_r3l22 venants, et d'infliger a Chacun sans rémission
+#facs_95_r3l23 l'amande et Confiscation cy dessus énonces. Dons
+#facs_95_r3l24 f. 30 Nov: 1740.

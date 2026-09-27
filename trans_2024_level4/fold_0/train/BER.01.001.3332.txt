@@ -1,0 +1,141 @@
+Law ID: BER.01.001.3332
+Name: Das reciprocierl. freye Commercium zwüschen denen 3 verburgerten Stätten Bern, Freyburg und Solothurn ratione der hinder ihnen fabricierenden Waaren wieder öffnen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 130/130
+# High similarity (>=50%): 115
+# Low similarity (<50%): 15
+# Not found: 0
+#
+#facs_344_r3l17 An Alle 7 und W. Buthleuth, 4
+#facs_344_r3l18 Stätt, xyz  Item per placcard
+#facs_344_r3l19 an hiesige Pfeiler und Cäntzel
+#facs_344_r3l20 das Reciprocierl. freye Commercium
+#facs_344_r3l21 Zwischen denen 3 Verbürgerten Stätt¬
+#facs_344_r3l22 Hern, Freyburg und Solothurn ratione
+#facs_344_r3l23 der hindter Ihnen fabricierenden Waaren
+#facs_344_r3l24 wieder öfferen
+#facs_344_r3l25 Schultheis Räht und Burger etc.
+#facs_344_r3l26 Nachdeme von Beyden mit Unß verbürgerten
+#facs_344_r4l1 637.
+#facs_344_r4l2 Löbl. Stätte Heryburg und Solothurn
+#facs_344_r4l3 Bemühe Vorstellungen wieder Vnsere undter
+#facs_344_r4l4 11. Augusti 1719. außgeschriebene Mandat
+#facs_344_r4l5 Manufactur, und Comerus) Ord¬
+#facs_344_r4l6 gethan, und sonderlich auf der Letstlich
+#facs_344_r4l7 zu Aarberg gehaltenen Pründt Eydtgung
+#facs_344_r4l8 Kusamerkunft umbständtlich vorgebracht
+#facs_344_r4l9 worden, habend wir vorgedeute Unsere
+#facs_344_r4l10 Ordnung Allgemeiner Kümlichkeit
+#facs_344_r4l11 bege, solang gegenwärtige Zeitleicht
+#facs_344_r4l12 ein anders nicht erforderen werden.
+#facs_344_r4l13 hierdurch dahin erleuteren wollen, daß
+#facs_344_r4l14 das Comerium oder Kauf und Ver¬
+#facs_344_r4l15 Hauß des durch die Manckfactur Ord¬
+#facs_344_r4l16 nung verbottener, gleich übriger
+#facs_344_r4l17 darin nicht begriffener Waare zwischen
+#facs_344_r4l18 Allseitigen Bürgern und Undterthane
+#facs_344_r4l19 der 3 Löbl. Stätten Bern, Freyburgen
+#facs_344_r4l20 Solothurn wieder geöffnetzen und also
+#facs_344_r4l21 selbigen freystehen solle, Ihre findter
+#facs_344_r4l22 Eint, andern, und dritten Standts¬
+#facs_344_r4l23 Gottmäßigkeit verarbeitete waaren
+#facs_344_r4l24 auf den freyen offenen Jahr Märkken
+#facs_344_r4l25 allseitig und ohngehinderet zu verkauffen.
+#facs_344_r4l26 dafern selbe durch beglaubte Zeugniß¬
+#facs_344_r4l27 Scheins in der Hauptstatt von der hohen
+#facs_345_r3l1 ou leurs Lieutenants, afin quils puissent
+#facs_345_r3l2 informer Notre Chambre de Sante
+#facs_345_r3l3 mesures, que chaque Commune aura
+#facs_345_r3l4 Cest ce que Nous nous promette
+#facs_345_r3l5 prises
+#facs_345_r3l6 de leur obeissance. Au reste lon garde
+#facs_345_r3l7 dans tous les Chateaux Maisons des
+#facs_345_r3l8 Ministres et dans toutes les Ecoles des
+#facs_345_r3l9 Exemplaires de cette Notre Ordonnance
+#facs_345_r3l10 pour que chacun y puisse avoir lin
+#facs_345_r3l11 formation necessaire dans le cas de
+#facs_345_r3l12 besoin, et lon donnera aussy un Exempla
+#facs_345_r3l13 a chaque Inspecteur, qui luy tiendre
+#facs_345_r3l14 Instruction. Donne dans Notre Graf
+#facs_345_r3l15 Conseil ce 2. et 3. Septembre 1720
+#facs_345_r3l16 An Alle 7. und V. Buthleuth, 4
+#facs_345_r3l17 Stätt, xyz Item per placae
+#facs_345_r3l18 an hiesige Pfeiler und Cäntzel
+#facs_345_r3l19 das Reciprocierl. freye Commercium
+#facs_345_r3l20 Zwischen denen 3 Verbürgerten Stättl
+#facs_345_r3l21 Hern, Freyburg und Solothurn rationes
+#facs_345_r3l22 der hindter Ihnen fabricierenden Wweg,
+#facs_345_r3l23 wieder öfferen
+#facs_345_r3l24 Schultheis Räht und Burger,
+#facs_345_r3l25 Nachdeme von Beyden mit Vnß verburgen
+#facs_345_r4l1 37.
+#facs_345_r4l2 e
+#facs_345_r4l3 Löbl. Stätte beyburg und Solothur
+#facs_345_r4l4 mühe Vorstellungen wieder Vnsere undter
+#facs_345_r4l5 11. Augusti 1719. außgeschriebene Mandat
+#facs_345_r4l6 Manufactur- und Comerien¬
+#facs_345_r4l7 gethan, und sonderlich auff der Letsthin
+#facs_345_r4l8 zu Aarberg gehaltenen StundtEydtg auf
+#facs_345_r4l9 Zusammenkunft umbständtlich vorgebracht.
+#facs_345_r4l10 worden, habend wir vorgedeute Vnsere
+#facs_345_r4l11 Ordnung Allgemeiner Kümmlichkeit
+#facs_345_r4l12 bege, solang gegenwärtige Zeitkauff
+#facs_345_r4l13 a
+#facs_345_r4l14 ein anders nicht erforderen werden
+#facs_345_r4l15 hierdurch dahin erleuteren wollen, daß
+#facs_345_r4l16 das Comerium oder Kauff und Ver¬
+#facs_345_r4l17 tauff des durch die Manufactur Ord¬
+#facs_345_r4l18 nung verbottener, gleich übriger
+#facs_345_r4l19 darinn nicht begriffener Waare zwischen
+#facs_345_r4l20 undterthans
+#facs_345_r4l21 Allseitigen Bürgeren und
+#facs_345_r4l22 der 3 Löbl. Stätten Bern, Freyburgen
+#facs_345_r4l23 Solothurn wieder geöffnet sein und also
+#facs_345_r4l24 gelbigen freystehen solle, Ihre Hindter
+#facs_345_r4l25 eint, anderen, und dritten Standts¬
+#facs_345_r4l26 Gottmäßigkeit verarbeitete Waaren
+#facs_345_r4l27 auf den freyen offenen Jahr Mäckten
+#facs_345_r4l28 allzeitig und ohngehinderet zu verkauffen.
+#facs_345_r4l29 dafern selbe durch beglaubte Zeugniß¬
+#facs_345_r4l30 Scheins in der Hauptstatt von der hohen
+#facs_346_r2l1 Oberkeit durch dero Cantzley auff
+#facs_346_r2l2 Dem LandAber von den AberA.
+#facs_346_r2l3 hierung
+#facs_346_r2l4 leüthen ertheilt werden sollen, begle¬
+#facs_346_r2l5 des
+#facs_346_r2l6 und dardurch bescheinlich genug
+#facs_346_r2l7 sich nicht
+#facs_346_r2l8 werde, wie daß die zum Verkauff
+#facs_346_r2l9 in eine, andere oder dritte Gott
+#facs_346_r2l10 mäßigkeit versendende Waaren
+#facs_346_r2l11 würklich darinn verarbeithet
+#facs_346_r2l12 worden; Da wir vbrigens zu
+#facs_346_r2l13 bezeugung unsers bestgemeinten
+#facs_346_r2l14 Eydtgnung willens gegen den An¬
+#facs_346_r2l15 geherigen Vorbedeuter Lobl. Stände
+#facs_346_r2l16 Freyburg und Solothurn unß in
+#facs_346_r2l17 Fernerem dahin verstanden, daß
+#facs_346_r2l18 selbigen bewilliget sein solle, auch
+#facs_346_r2l19 dergleichen baaren auff den Märtten
+#facs_346_r2l20 Vnserer Landen und Gebiethen zu ver¬
+#facs_346_r2l21 faußen, welche Vnsers Bürgeren
+#facs_346_r2l22 und Vnderthanen von Außenhar¬
+#facs_346_r2l23 Vnsere Pottmäßigkeit zu be¬
+#facs_346_r2l24 schiken bewilliget sindt; die solchem
+#facs_346_r2l25 nach (gleich gegen vbrigen Unsere
+#facs_346_r2l26 Teutschen und Weltschen Amthleüthen
+#facs_346_r2l27 auch beschicht) befehlende, gegenbar
+#facs_346_r2l28 ge Unsere Mitterung und Erläuterung
+#facs_346_r3l1 2.
+#facs_346_r4l1 639
+#facs_346_r4l2 Vorgedeuter Unser Commercirn = Ordnung
+#facs_346_r4l3 mehro öffentlich vom Cantzlen verkünden.
+#facs_346_r4l4 und auff diesem fuß den Handel zwischen
+#facs_346_r4l5 Mehr angeregter Verbürgerter Stätten
+#facs_346_r4l6 allseitigen Angehörigen frey zu laßen; Wie
+#facs_346_r4l7 zu thun, und die behörigen Anstalten zu
+#facs_346_r4l8 verfüegen bißen wirst. Rp. Batum
+#facs_346_r4l9 ###ch. 15. May, undt

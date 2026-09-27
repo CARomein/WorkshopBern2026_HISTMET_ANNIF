@@ -1,0 +1,123 @@
+Law ID: BER.01.001.4230
+Name: Wegen Unterhaltung und Visitation der Schwellenen der Aaren und Saanen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 112/112
+# High similarity (>=80%): 9
+# Low similarity (<80%): 103
+# Not found: 0
+#
+#facs_5_r2l1 An
+#facs_22_r6l26 45.9
+#facs_218_r3l13 die H. Amtläuth zu Arberg, Erlach und Nydaub¬
+#facs_17_r3l8 und
+#facs_79_r3l11 bebogen, zu hinterhaltung dergleichen dem
+#facs_18_r2l52 1 Saauen
+#facs_52_r4l10 Schultheiß und Rath etc.
+#facs_170_r3l10 Begehren zu erhaltung Gratificationen, Assistenien,
+#facs_206_r4l15 chen Steür, Samlaren uns Collectanten nach verschrift der
+#facs_5_r5l15 Solche nun haben Wir Euch mmit Coma¬
+#facs_5_r5l17 niveren wollen, mit befelch, selbe nicht allein
+#facs_34_r1l6 mit nur öffentlich kund thun zu laßen, sonderen
+#facs_17_r3l18 Euere Rechnung so zu beschleüingen, daß ihr solche
+#facs_169_r5l4 zu künftiger Nachricht Seiner ohrte ad notum nemen
+#facs_33_r2l14 ferners hand obhalten, daß diesen Unseren
+#facs_72_r5l21 gesent werde. Dat. d. 30ten April 1763.
+#facs_6_r2l1 Placcard
+#facs_4_r2l2 Obid
+#facs_26_r5l21 Wir Schultheiß und Raht der Statt Bern thun tünden
+#facs_3_r1l1 Coll
+#facs_77_r2l4 Bern, thun kund hiemit; Demnach Wir mit
+#facs_80_r4l3 Alle Herren Amtleuth der großen route nach
+#facs_150_r2l12 und Unsere liebe Angehörige zu verbahrnen, sich vor
+#facs_244_r2l23 aber in deren diese Person anheimisch, dieser
+#facs_195_r5l12 und des lauffenden Jahrs fortdauren sollen. Welchem
+#facs_209_r3l22 auferzogen worden, aller Er geblieben ist, biß man ihn in die Lehrjahr
+#facs_26_r1l1 46.
+#facs_115_r4l19 In den Städten dann hinder Sie selbst gelegt, aller
+#facs_89_r5l17 künftig gesezt sind. Als haben Wir deßen
+#facs_179_r3l20 wegen des Bucheggbergs ein gleiches anbefehlen
+#facs_167_r4l14 lichen zu beheben gedenken. Also haben Wir auch
+#facs_150_r2l10 Wir, aus landesvätterlichen Vorsorge bebogen, nöhtig
+#facs_246_r4l20 dergleichen Gesindel zu verhüeten zu laßen,
+#facs_250_r5l8 Der Einte traget einen Blauen Rob, mit rohtem
+#facs_40_r2l13 zeigen: Alle Diensten und Hausgenößen¬
+#facs_175_r5l11 schen Appellation-Cammer, folgende Verordnung gemacht
+#facs_116_r3l16 tet werden.
+#facs_210_r2l4 seren Städten, Landen, Berichten und Babiet, Unseren
+#facs_180_r3l9 ämteren eine Collect zu gunsten der Brunstbeschädigte
+#facs_68_r4l17 gemeinen und Dorfschaften einschärpfen, auf
+#facs_242_r3l18 guths, seine Schwellenen oder andere Werk
+#facs_3_r2l20 auftragen wollen, hinder Euerem /: Bezirk :/ Amt
+#facs_227_r2l10 bezogen werden.
+#facs_238_r3l13 1° Soll ein jeder in seinem Bezirk, Jährlich Ordinari¬
+#facs_228_r5l18 haben Wir Eüch befehlen wollen, auf diese Personen fleißig¬
+#facs_181_r3l18 keinen Aufenthalt zu gestacten, sonderen Solchen auf
+#facs_84_r2l14 ter Schuhen oder Schlafen geschehen, mithin
+#facs_174_r2l22 Cammer nach gestaltsamme der Sachen einzuberichten.
+#facs_240_r4l23 durch das gemeine Werk gemacht werden,
+#facs_249_r2l18 nächst gelegenen Kirchhoff, Ehrlichen zur Erden
+#facs_96_r3l20 deren, und dieselbe Unserem Mannlehen- Ge¬
+#facs_10_r4l9 zu laßen.
+#facs_248_r4l19 Lobl. Stand berichtet worden, daß solches eine
+#facs_255_r5l4 fahre auch zuweilen darmit in Italien, und komme -
+#facs_160_r4l27 erlaubet, sein Vieh in dem Risond zu beiden; Wie nun
+#facs_26_r1l1 46.
+#facs_108_r3l25 sich hüete und enthalte, Eint- oder andere Stadtung
+#facs_6_r2l20 merhin zu gröstem Nachtheil, so wohl von den Einhin
+#facs_242_r3l18 guths, seine Schwellenen oder andere Werk
+#facs_30_r2l12 welche dergleichen Tücher an Äußeren Orten erhand¬
+#facs_70_r3l15 che von denen Gemeinden alsobald geleistet
+#facs_56_r4l9 gleichen Werber, und Laker in Eüberem Am¬
+#facs_87_r2l19 aux voituriers, d'enrayer à la dessus
+#facs_221_r3l3 Soll ein Mensch seyn von ungefahr 40. oder 50 Jahren¬
+#facs_241_r3l15 zu den Schwellenen und Däntschen nöhtige Holz,
+#facs_180_r6l8 auch Uns zu seiner Zeit den betrag überschreiben
+#facs_183_r5l13 demjenigen, so solchen lebendig der Justiz erblißeren
+#facs_72_r5l18 denselben einzufinden, und verschaffen zu helffen,
+#facs_185_r3l24 eigen zu laßen, damit solche gebührenden orts Achte
+#facs_226_r3l7 festgesetzt, und Wir des Verhafts berichtet werden. Dath
+#facs_240_r4l3 von zwanzig Pfunden von jeder zu erheben,
+#facs_70_r4l17 gen, daß von denen ankommenden Soldaten
+#facs_27_r3l4 gebrauchen; Deßgleichen sollen auch die übrigen
+#facs_172_r2l25 genommen werden.
+#facs_175_r5l15 bohl und gleich den Appellationen, da in erster Instan¬
+#facs_245_r3l24 Emolumenten, zu mehrerer Straffe verdienen wurden
+#facs_55_r3l3 Oberkeitl. Waldungen und Schächen von mir
+#facs_28_r3l4 benigstens auf Dreißig, und von denen halben auf
+#facs_240_r4l25 glaubt, daß die Schwellenen und Däntschen
+#facs_31_r2l7 jenigen, die dieses nicht beobachten werden, der
+#facs_180_r6l16 seren Landen Treber, Frantenbein gebrannt werde
+#facs_241_r3l15 zu den Schwellenen und Däntschen nöhtige Holz,
+#facs_25_r1l1 44.
+#facs_142_r4l9 Von Unserem Amtsmann zu Riberstein ist Uns die nachricht
+#facs_179_r6l4 befelch die anstalten vorzubehren, daß dieser Tag auch
+#facs_66_r3l6 ein dergleichen Doppel wird gefunden werden.
+#facs_81_r4l17 durch Unsere ehemalige, sonderheitlich durch
+#facs_173_r2l9 bedingnußen anmit gestacten
+#facs_156_r3l7 abzuhebende Verordnung pünktlich und unabläslich
+#facs_91_r2l12 andere dieser Invalides verstorben seyn, bei
+#facs_241_r6l8 solche angelegt werden solte, der Besizer der
+#facs_59_r2l18 ohne anders vorbehalten seyn. Alles bey
+#facs_79_r3l5 Ihnen anbefehlen, die in den Börferen er¬
+#facs_27_r2l14 bezeugen können, daß sie zu ihrem selbst eigenen
+#facs_106_r3l12 nach Beschaffenheit des Frebels, mit einer Leibe¬
+#facs_109_r2l14 noch angenommen und ausgegeben werden so
+#facs_32_r2l19 erachten werden, wobey, nach der Sachen Beschaff
+#facs_227_r2l19 ein Deistel dem H. Amttmann der ortd, und ein Drittel der
+#facs_59_r3l4 Verleider, der über das aus sich der Geheim
+#facs_217_r3l16 # an Lausanne allein: Damit auch dieserem Unserem will
+#facs_168_r2l20 Einsehen behöriger maßen befolget berde, haben Wir
+#facs_245_r3l18 Wir auch gehebt haben, daß Unser AmtsMann
+#facs_252_r7l15 wollen Euch anbey anbefohlen haben, auf diesen Rösbicht
+#facs_236_r3l18 heiten Ihr Euch gleicher gestalten demnach verhalten, und
+#facs_93_r3l11 in dergleichen sich ergebenden Vorfällen, solche
+#facs_100_r3l10 Als haben Wir Euch hievon die gemessene Nach¬
+#facs_217_r2l14 terbrömung eingelifferet werden sollen; So haben Wir durch
+#facs_166_r3l2 (gleich anderen Unseren Amtleüthen) befehlen wolle
+#facs_179_r3l17 gebohnten maßen vorkehren, daß solcher Rästag auch
+#facs_41_r3l5 Richter oder deßen Stadthalter offenbaren
+#facs_176_r2l19 Appellation, Cammer übersteigt, den Partheyen, es
+#facs_62_r3l3 den 21. Marty: 1763.

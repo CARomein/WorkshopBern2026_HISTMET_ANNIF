@@ -1,0 +1,41 @@
+BER.01.001.2603
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 32/32
+# High similarity (>=50%): 29
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_100_r3l17 1695
+#facs_100_r4l1 Schlvarzenburg, Lentzburg, Küngsfelden
+#facs_100_r4l2 Crachselwald, Wangen, Thun, Erlach, Nidank,
+#facs_100_r4l3 Schenckenburg. Laupen, Frau lobrunnen, Prienisberg,
+#facs_100_r4l4 Buhsen, Chorberg, Landtshutt,
+#facs_100_r4l5 Wie
+#facs_100_r4l6 die Landtschreiber auff die Oberkeitlichen Zehnden zu
+#facs_100_r4l7 pinten habind
+#facs_100_r4l8 Schultheis Räth und Bürger der Natt Gärn
+#facs_100_r4l9 Demnach Wir auß gehalten anlas überlegen laßen, ob die
+#facs_100_r4l10 solletur
+#facs_100_r4l11 Landtschreiber auff die Oberzeitlichen Zehnden zu pieten haben sollen.
+#facs_100_r4l12 der nit? Und was die orths fürs künftige zu statuieren sein
+#facs_100_r4l13 Wolle? Habend Wir über das Uns Widerbrachte guttachten
+#facs_100_r4l14 Datniert geordnet, und Erkent; daß unseren Landtschreibern nach
+#facs_100_r4l15 fürbas zugelaßen sein und bleiben solle auf Unsere Oberkentliche
+#facs_100_r4l16 Lehnden zu pieten, der Meinung und in dem Verstand gleich wohl,
+#facs_100_r4l17 daß selbige by Ihren Eyden mit unseren Rüderkhang vnd Landts
+#facs_100_r4l18 leuthen Wägen Versteigerung Hochobl. Zehnden auf einiche Weis vnd
+#facs_100_r4l19 Wäg in keine Verstandtnus sich einzulaßen, noch mit Ihren Colludieren
+#facs_100_r4l20 und Wan der eint oder andere einen Zehnden im höchsten Bott
+#facs_100_r4l21 bestanden, derselbe schuldig sein solle den gesteigerten Zehnden
+#facs_100_r4l22 selbsten Zebehalten, und auff keine Weis noch Weg, denselben
+#facs_100_r4l23 umb gewin oder sonsten einerwürdig auff profit zugeben.
+#facs_100_r4l24 Jedoch also, daß Er auch Wohl associerte der gemeinder, in den
+#facs_100_r4l25 oder die beständung zehnden annemmen möge. Welche Vnsere
+#facs_101_r3l1 Erkantnuß du seiner behörd einschriben laßen undt
+#facs_101_r3l2 deren in Vorsellenheiten nachzugeladen, auch Deinem
+#facs_101_r3l3 dismahligen Landtschreiber zu seiner nachricht by
+#facs_101_r3l4 geschwornen Eydt zu insinuieren Wüßen
+#facs_101_r3l5 seinen
+#facs_101_r3l6 Wirst. Dat. 4. 7bris. 1695.

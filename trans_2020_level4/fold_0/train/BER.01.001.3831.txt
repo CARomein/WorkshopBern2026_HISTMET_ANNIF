@@ -1,0 +1,118 @@
+Law ID: BER.01.001.3831
+Name: Die Einbringung fetter Schweinen erlaubt biss uff Ostermarkt.
+
+#facs_169_r3l17 Burg dorff auß Mittwachen den 17. jane 172
+#facs_169_r3l18 Landtshuett
+#facs_169_r3l19 19 o
+#facs_169_r3l20 Korichner
+#facs_169_r3l21 S. Jo hauser Hauß Sonstags
+#facs_169_r3l22 Enlach
+#facs_169_r3l23 Montags22
+#facs_169_r3l24 Buchse
+#facs_170_r2l1 Muescheffen
+#facs_170_r2l2 Mittlaache 21
+#facs_170_r2l3 Interlater hauß
+#facs_170_r2l4 Siechenhauß
+#facs_170_r2l5 bsonstags 25.
+#facs_170_r2l6 rit
+#facs_170_r2l7 Buren
+#facs_170_r2l8 montags 29.
+#facs_170_r2l9 Wienisbergerhauß
+#facs_170_r2l10 Signaus
+#facs_170_r2l11 Unterseben
+#facs_170_r2l12 Mittlochen 31
+#facs_170_r2l13 Hettis weyll
+#facs_170_r2l14 Frienisperg
+#facs_170_r2l15 donstags 1. Febr
+#facs_170_r2l16 Oberhoffen
+#facs_170_r2l17 Paupen
+#facs_170_r2l18 Mo
+#facs_170_r2l19 5.
+#facs_170_r2l20 zleystmen 3 montags
+#facs_170_r2l21 Brand et
+#facs_170_r2l22 1
+#facs_170_r2l23 Mittwochten.
+#facs_170_r2l24 Gottstatt
+#facs_170_r2l25 Bachselbald
+#facs_170_r2l26 915
+#facs_170_r2l27 unns
+#facs_170_r2l28 donstag 8
+#facs_170_r2l29 Unterlaben
+#facs_170_r2l30 Arlangen
+#facs_170_r2l31 Montags N
+#facs_170_r3l1 2e8
+#facs_170_r3l2 Millbochen
+#facs_170_r3l3 Ehorberg.
+#facs_170_r3l4 14. Febr 1792
+#facs_170_r3l5 Seniswald
+#facs_170_r3l6 15. do.
+#facs_170_r3l7 Prutingers  Sonstags
+#facs_170_r3l8 sin
+#facs_170_r3l9 19. do
+#facs_170_r3l10 Fraubrunnen) montags
+#facs_170_r3l11 Mittbochen
+#facs_170_r3l12 2. Mo.
+#facs_170_r3l13 Innsull.
+#facs_170_r3l14 Biberstein
+#facs_170_r3l15 donstags
+#facs_170_r3l16 22 dto.
+#facs_170_r3l17 3
+#facs_170_r3l18 Arburg
+#facs_170_r3l19 265to
+#facs_170_r3l20 Baulohl von Burgeren Montags
+#facs_170_r3l21 D. Johanser
+#facs_170_r3l22 28. dto.
+#facs_170_r3l23 mittwochen
+#facs_170_r3l24 arber
+#facs_170_r3l25 wangen
+#facs_170_r3l26 Martyi 17492
+#facs_170_r3l27 1
+#facs_170_r3l28 Donstags
+#facs_170_r3l29 
+#facs_170_r3l30 Sonen
+#facs_170_r3l31 5. No.
+#facs_170_r3l32 montags
+#facs_170_r3l33 siff
+#facs_170_r3l34 Schenkenberg
+#facs_170_r3l35 Mittbochen
+#facs_170_r3l36 1. 1
+#facs_170_r3l37 Gastelen
+#facs_170_r3l38 As
+#facs_170_r3l39 J. Mto.
+#facs_170_r3l40 Donstags
+#facs_170_r3l41 Nidaub)
+#facs_170_r3l42 Dosingen
+#facs_170_r3l43 N2. 315
+#facs_170_r3l44 Lantlburg  montags
+#facs_170_r3l45 Mittbochen 14 dto
+#facs_170_r3l46 Köngsfelden
+#facs_170_r3l47 Gonstags 15 dto.
+#facs_170_r3l48 Groß Spittahl
+#facs_170_r3l49 L setalschreibtrey.
+#facs_171_r1l1 324
+#facs_171_r1l2 6ll.
+#facs_171_r2l1 An
+#facs_171_r2l2 alle kunder w ambthlenth. H Rätt
+#facs_171_r2l3 Grecz beibel und Acceaud dtem pr
+#facs_171_r2l4 Ildell an Känzel
+
+#facs_171_r2l5 Die einbringung fetter s
+#facs_171_r2l6 Schlamen Erlaūbt biß vß
+#facs_171_r2l7 Ostermarkt
+#facs_171_r2l8 Schulth Räht und Bürger,
+#facs_171_r2l9 auß gnugsammen mit darzu bebegenden.
+#facs_171_r2l10 ersachen, habendtlir guthunden von
+#facs_171_r2l11 Dato an, bis nach vorstehendem Ostet,
+#facs_171_r2l12 martt deß 1742 jahrs die einbringung
+#facs_171_r2l13 anßerer frömbder fetter schlöëmend in
+#facs_171_r2l14 unser landt zu bedilligen und degen an
+#facs_171_r2l15 kauf in denenselbend himiten erlaubt un
+#facs_171_r2l16 dem verstandtjehdenoch, daß nach vorste
+#facs_171_r2l17 hendem ostermarkt 1742 unser dißörthige
+#facs_171_r2l18 Mandat von Ao 1718 und 1723. sieder völlig
+#facs_171_r2l19 bestandt und ehtorige krafft haben sollend
+#facs_171_r2l20 Dir demnach befehlende dieser unsere ver¬
+#facs_171_r2l21 willigung uinter demend ambt zu mängic
+#facs_171_r2l22 nachticht offent von cantzlen verkanden.
+#facs_171_r2l23 zu laßen wie zu thun du büßen lottst
+#facs_171_r2l24 Gott mit die Dat d 11 pr 1741.

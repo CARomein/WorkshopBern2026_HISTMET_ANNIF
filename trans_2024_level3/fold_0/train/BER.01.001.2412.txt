@@ -1,0 +1,92 @@
+Law ID: BER.01.001.2412
+Name: Wein Tax.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 81/81
+# High similarity (>=50%): 66
+# Low similarity (<50%): 15
+# Not found: 0
+#
+#facs_452_r1l22 An Halle Teütsche und Weltsche
+#facs_452_r1l23 Ambtleüth 4. Stätt Hreylo. vndt Anna
+#facs_452_r1l24 Wein Tax
+#facs_452_r1l25 Schr. V. vndt 6. der Statt Bern
+#facs_452_r1l26 Collat
+#facs_452_r1l27 Wir habend auß bedenklichen Vns darzu belegen,
+#facs_452_r1l28 Vrsachen guth funden, Die bewilligung, so des Außer
+#facs_452_r1l29 undt Frömbden Weins halb, wie underein 27. undt
+#facs_452_r1l30 30. vbris. Letzthin Außschreiben Laßen, für deßmahlen
+#facs_452_r3l1 Da durch Gottes Gnad Eine gnugsame quantitet eigene
+#facs_452_r3l2 Landtgleichses vorhanden, widerumb abzuenderen Undt selbige
+#facs_452_r3l3 außert deme was die mit oder anderen Vnserer Unterthanen
+#facs_452_r3l4 an solchem äußeren Wein bereits zur Handt gebracht, oder
+#facs_452_r3l5 würklich bestelt haben undt bey treben erhalten Vndt angeben
+#facs_452_r3l6 werdend; Item auch äußert deme Waß alten herkomme,
+#facs_452_r3l7 nach Vnserer Bürgerschaft für Ihren Hausbrauch für Ein Jahr
+#facs_452_r3l8 lang zugelaßen, äußert Landts zu behalten; Dargegen aber
+#facs_452_r3l9 Die Rohtwendige Vorsehung Zethun, damit nit allein der In¬
+#facs_452_r3l10 Landt gewachsene Wein zu Statt vndt Landt in Bille Vndt
+#facs_452_r3l11 Leidenlichem preiß verschenket, sondern auch des Fürkauffs
+#facs_452_r3l12 undt Weinhandlung halb alles nach der gepühr eingerichtete
+#facs_452_r3l13 verde¬
+#facs_452_r3l14 undt zwahr erstlichen so viel den preiß des Weins in Vnserer
+#facs_452_r3l15 Leubtstatt allhier ansehen will, wollend Wir hiemit geordnet
+#facs_452_r3l16 haben, daß der Allerbeste von rechten Wahren Vndt ohnver¬
+#facs_452_r3l17 feltschtem Reyff, Vndt La Coste Wein, Wie auch demselben
+#facs_452_r3l18 burgischen Besten Stohten Sarvagner Wein die Maaß aufs höchste
+#facs_452_r3l19 umb 4. B. undt dan der Aller beste Landtlein Vmb drey
+#facs_452_r3l20 Undt in halben batzen bey der pinten in hiesiger Statt
+#facs_452_r3l21 Undt nit höher verschencket In den Tavernes Vndt Wirths
+#facs_452_r3l22 Häüßeren so weit derselbe mit den Gasten Wirt Verbraucht
+#facs_452_r3l23 werden, und einen halben batzen Telerer Verkaufft worden
+#facs_452_r3l24 Auff dem Landt dan sollen die Wirthen Vndt Pintenschenken
+#facs_452_r3l25 regulirt sein den Wein außzugeben, Undt zwahr in den Vier
+#facs_452_r3l26 Graffschafften, Ober Ärgelo, Zofingen, Arburg undt den
+#facs_452_r3l27 s-
+#facs_452_r3l28 Vnderen Landtgerichten gleichwie in hiesiger Statt Wirth¬
+#facs_452_r3l29 hafften undt nicht Telorer, wohlfeiller aber auszugeben
+#facs_452_r3l30 ist indem zugelaßen
+#facs_453_r2l1 In dem Erenthal und oberen weit entlegnen Land
+#facs_453_r2l2 grichten dan, mag derselbe vmb einen halbenbawren
+#facs_453_r2l3 Theürer alß in den Wirtschafften hiesiger Statt doch
+#facs_453_r2l4 auch nicht höher ausgeben werden.
+#facs_453_r2l5 Alles by poen der Confiscation das Weins darvon der einen
+#facs_453_r2l6 Theil, zu Vnseren der andere Theil zu Unserer Umb¬
+#facs_453_r2l7 geltner Cammer, deren die Aussicht der Execution wird
+#facs_453_r2l8 indircoylicher Visitation, Vnd die fehlbahren in gebühren
+#facs_453_r2l9 straff zuzmühen verlaßen ist, Vnd der Vbrige dritten
+#facs_453_r2l10 Theil zu des Verleiders handen, ohne das derselbe groffe
+#facs_453_r2l11 fahret werde, wenn es auch immer antreffen möchte, bey
+#facs_453_r2l12 reurding joll
+#facs_453_r2l13 Wir wollend aber des preises halb beides in Vnser Stadt
+#facs_453_r2l14 alß auch in unseren Landen Uns Vorbehalten haben, was
+#facs_453_r2l15 Die Billichkeit und gebühr nicht beobachtet werden.
+#facs_453_r2l16 wolte das fehrnere Einsehen Zethun
+#facs_453_r2l17 Und damit auch Vnsere Burgerschafft desto beßer mit xxx
+#facs_453_r2l18 versehen werden möge, so wollend wir den Weinhändler
+#facs_453_r2l19 und mäniglichen, sy habind eigen gewächs oder nicht, vor
+#facs_453_r2l20 gout haben, dasselbige den Wein so in Vnseren Land
+#facs_453_r2l21 gewachsen und erhandlet worden in Vnsere Stadt alhier flaht
+#facs_453_r2l22 mögend, Doch mit dem austructenlichen Vorbehalt den
+#facs_453_r2l23 die freyheit einmahl bis auf Michaelis Tag nach
+#facs_453_r2l24 künftig gähten, hernach aber erwartet werden solle, die
+#facs_453_r2l25 Wir dieselbe weiter hinaus zu erstrecken gemeint sey
+#facs_453_r2l26 h
+#facs_453_r2l27 werdend; Denn auch sy denselben vf dem Platz nit aber
+#facs_453_r2l28 zinder beschloßenen Thüren, ablegen, feil halten, vnd
+#facs_453_r2l29 den schuldigen Platsgulden bezahlen Thurend
+#facs_453_r4l1 1857.
+#facs_453_r4l2 Damit auch der eigenmüdige allzu große Fürkauff vnd Erhandlung
+#facs_453_r4l3 des Weins in die Billiche gebühr eingezichlet werde, Wollens
+#facs_453_r4l4 wir hiemit angesehen haben, daß tilium Vnserer Weinhändleren
+#facs_453_r4l5 zugelasung seyn solle, für ein Jahr lang mehr als Enhundert
+#facs_453_r4l6 haß auf Wider verkaufft hin zu erhandlen, noch mit zuthun anderer
+#facs_453_r4l7 die sich mit Ihnen associren wölten, es seye für alle ins
+#facs_453_r4l8 gesamt oder indem absonderlich, eine mehrere quantitet
+#facs_453_r4l9 aufzubauften.
+#facs_453_r4l10 Vnsers Vnsers Ersehen nun so allein für diß Jahr vnd so viel
+#facs_453_r4l11 Den Weig Eintauff betrifft bis künftigen Michaele in ansehen
+#facs_453_r4l12 des Weintaxes aber biß Martini, gemeint seyn soll,
+#facs_453_r4l13 Wirstu von Cantzlen publiciren Zulaßen, Vnd selbsten gantz

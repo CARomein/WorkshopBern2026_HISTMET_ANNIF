@@ -1,0 +1,75 @@
+Law ID: BER.01.001.4955
+Name: Von der Heyden undt Zigyneren Verwysung, denne der Töüfferen verkoufften Gütteren wegenn.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 63/63
+# High similarity (>=80%): 45
+# Low similarity (<80%): 18
+# Not found: 0
+#
+#facs_210_r1l1 410
+#facs_141_r2l1 Colla
+#facs_53_r6l14 In Alle Tärsche und Welsche
+#facs_197_r3l4 egerlichen, à s/mhafften, bösen lumbdens,
+#facs_186_r4l19 diss. Vns Ist sindt etwas zyets daher
+#facs_64_r3l27 daß einer unserer Vndthanen, absehen
+#facs_143_r2l29 sechenn der personen straffenn,
+#facs_94_r6l25 Thun, wangen
+#facs_230_r3l12 Ichs p. Wiewollwir chievor zu Vnderschidenlichen
+#facs_210_r4l8 mendata v. Sghon lassen durch welche wir
+#facs_210_r4l9 bewelchen, das man das unträglich, überlistig,
+#facs_210_r4l10 vndt gevärlich seyden volck, undt zyginn¬
+#facs_210_r4l11 In unsern landen, undt gepietten mit lyden
+#facs_210_r4l12 noch dulden, sonders daß den selben vnd
+#facs_210_r4l13 getrockt hinweg leysen. Oder da ettliche
+#facs_210_r4l14 Launder ob diebstälen teguffen, oder
+#facs_210_r4l15 sonst argwönig erfunden wären, den, undt
+#facs_210_r4l16 dieselben gefencklich Inzuchen ohne,
+#facs_210_r4l17 und f, wo von nötten, auch mit warten¬
+#facs_210_r4l18 examinieren, und Er die bekantnuß
+#facs_210_r4l19 uns vberthicken solte, undt findt dabey
+#facs_210_r4l20 der Hoffnung geben, stöllichem wäre nach¬
+#facs_210_r4l21 kommen und geläpt worden. So teuemen
+#facs_210_r4l22 wir doch zwar mit höchsten mißfallen
+#facs_210_r4l23 undt besinnen das Leurspil, undt
+#facs_16_r5l1 27
+#facs_210_r5l2 das söllich mitt sollendt übelässig
+#facs_210_r5l3 undt gefharlich sindt, an etztlichen
+#facs_210_r5l4 acten nit allein  geduldet, sonde vil¬
+#facs_210_r5l5 licht noch darzu mit gutten Zu gnussen
+#facs_210_r5l6 Zw. Inhaltens zu sachen werden. Um nun
+#facs_210_r5l7 gefürkommen, undt hiemit unseren Un¬
+#facs_210_r5l8 gethanen, die sonst mit zu heimischen
+#facs_210_r5l9 und andern armen lütten genugsam
+#facs_210_r5l10 beschwärt, vor semelten Heiden und f zy
+#facs_210_r5l11 gynern fust, undt und geschaffen
+#facs_210_r5l12 haben wir dir, wie auch allen andernn
+#facs_188_r2l20 Unseren Amptlütte bezeigt, vndt dan nach gestalt
+#facs_210_r5l14 gepietten vndt zubevolchen ange¬
+#facs_210_r5l15 sachen, In dine am ptyung vndt be¬
+#facs_210_r5l16 sonders anpäßen, undt anstöchenn
+#facs_210_r5l17 So es daß erthes glegenheit ist die sonstige
+#facs_210_r5l18 ordnung zethun, den obgemelt zigijner
+#facs_210_r5l19 vndt heyden volck int büre glassen,
+#facs_210_r5l20 sonder hindersich vndt gerechts vnd
+#facs_65_r4l31 unseren Landen und gepieten habindt,
+#facs_210_r5l22 wisenn, mit dem einschafften be¬
+#facs_210_r5l23 Tömven, wo sy sich hierüber widerum In¬
+#facs_210_r5l24 laßenn, das man sey nit allein gefencklich
+#facs_211_r1l1 412
+#facs_211_r2l1 annomen, sonder auch alles ents mit
+#facs_211_r2l2 de zue zur examinieren, undt befragen
+#facs_157_r2l12 zu verleiden, damit er sinem T dienen nach
+#facs_211_r2l4 rischen straffen an Ihnen erstatten laßen,
+#facs_211_r2l5 wede. Campff dumm ein geflissen vff
+#facs_211_r2l6 sachen haben, undt, da ettliche sich
+#facs_211_r2l7 widerum hin zu lassen, oder sonst argwö¬
+#facs_211_r2l8 nig erfunden wurden, mit Behendigung
+#facs_211_r2l9 und Expamination ohne, undt mit
+#facs_211_r2l10 tortur, Ires Handels, undt wandels
+#facs_211_r2l11 halb, gepürlich gegen Ihnen zuwider
+#facs_211_r2l12 vndt Ire bekantnuß vns verständi¬
+#facs_211_r2l13 gen solt @ Dat. 11 April 1610

@@ -1,0 +1,98 @@
+BER.01.001.2819
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 89/89
+# High similarity (>=50%): 88
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_347_r1l10 Zoffingen, Das Gleith.
+#facs_347_r1l11 Arwangen, Zoll.
+#facs_347_r1l12 Wangen, Zoll.
+#facs_347_r1l13 Wietlisfach, Bipp. Zoll.
+#facs_347_r1l14 Langenthahl, Zoll
+#facs_347_r1l15 Gümmenen, Zoll.
+#facs_347_r1l16 Arberg, Zoll und gleith.
+#facs_347_r1l17 Nydauw, Zollundgleith
+#facs_347_r1l18 Lentihaus zu Herrn
+#facs_347_r1l19 Ors for Joll
+#facs_347_r2l1 ) 675
+#facs_347_r2l2 An alle W. Ambtleüts.
+#facs_347_r2l3 Einzihlung der byständereyen und Advocaten
+#facs_347_r2l4 Schultheiß undt Raht der Statt Zern etc.
+#facs_347_r2l5 Wir müeßend, unseren hievorigen vielfaltig außgeschribene
+#facs_347_r2l6 Mandaten und guten ordnungen zu wider, mit vnlieb
+#facs_347_r2l7 vernemmen; Waß maßen durch das Leidige, undt Landt
+#facs_347_r2l8 Verderbliche Vile trölen und Rechtigen, und der Advocaten
+#facs_347_r2l9 forderende Excessivische Pagkosten, da offermahls wegen
+#facs_347_r2l10 sehr geringen, und verschidenen formierenden unnösligen
+#facs_347_r2l11 Incidentzien, die Partheyen in kösten undt Wihebohrü=
+#facs_347_r2l12 seren, Lang herumb gezogen werdend, Meistentheils
+#facs_347_r2l13 Unser Lieben angehörigen in großen Verlurst und schaden
+#facs_347_r2l14 Ja gar in eüßerste Armuht und elend gesetzet worden:
+#facs_347_r2l15 Habend Wir auß vätterlichem wohlgemeintem Eyffer
+#facs_347_r2l16 Zu gutem den Unserigen zu Statt und Land, und damit
+#facs_347_r2l17 ins künfftig niemand mehr zu unzeitigen Trölen
+#facs_347_r2l18 Leichtlich eingeführt, noch durch die advocaten angeloke,
+#facs_347_r2l19 weniger durch unnöstige Incidenzien herumb geschleppet
+#facs_347_r2l20 werdien unsere hievorgemachte Reglement und Ordnungen
+#facs_347_r2l21 da hin erfrischet, und hiemit gantz ernstmeinend statuirte
+#facs_347_r2l22 und geordnet:
+#facs_347_r2l23 daß
+#facs_348_r1l1 Das fürohin in Process- und gerichtlichen
+#facs_348_r1l2 ansuchungen, wan die Haubtsach, darumb es
+#facs_348_r1l3 zuthun, in 100. ff. und darunder, an dem Under¬
+#facs_348_r1l4 gericht keinem kein Advocat admittiert und
+#facs_348_r1l5 gestattet, sonderen der Partheyen anligenheit all=
+#facs_348_r1l6 wegen durch die Fürsprechen Dargethan und ihnen
+#facs_348_r1l7 in müglichster kürtze auß der Sach geholffen
+#facs_348_r1l8 werden solle: In wichtigeren Sachen aber, und
+#facs_348_r1l9 Da die Haubtsach ermelte 100. ff. übersteiget, mag
+#facs_348_r1l10 Die Parthey einen advocaten ansprechen, der in
+#facs_348_r1l11 Verführung des Processes, in bescheidenheit und
+#facs_348_r1l12 gebühr ohne einiches unzuläßliches absechen ge=
+#facs_348_r1l13 treüwlich beystehe, und die Sach bestmeinend auß=
+#facs_348_r1l14 führe: Darfür aber obgleich ein mehrers Onder der
+#facs_348_r1l15 sand componiert oder versprochen wäre für seinen
+#facs_348_r1l16 Lohn und nahrung zusahmen mehr nicht zu forderen,
+#facs_348_r1l17 haben noch ihme bezahlt werden solle, alß namblich
+#facs_348_r1l18 ist tag fünff florin, wan er in gleichem Ambt bleibet;
+#facs_348_r1l19 undt wann er aus dem Ambt gehet des Tags
+#facs_348_r1l20 7 f 6 ßl. desgleichen wan die advocaten für
+#facs_348_r1l21 verschidene Partheyen zugleich an einem gericht
+#facs_348_r1l22 zuehun hatten, So sollen auch Sentzmahlen die taglöhm
+#facs_348_r1l23 nach ermeltem tax proportioniert und nach billig
+#facs_348_r1l24 keit
+#facs_348_r2l1 67
+#facs_348_r2l2 keit abgetheilt werden: Alles bey poen undt Straff
+#facs_348_r2l3 40. Florin unmachläßlicher Buß von dem Widersand
+#facs_348_r2l4 lenden, so wohl Advocaten alß Parthey selbsten, ohne
+#facs_348_r2l5 schonen zu bezeüchen, oder wo eint oder andere solche
+#facs_348_r2l6 Büß, Armuht halben, nicht vermächtend, mit 24. stün
+#facs_348_r2l7 diger gefangenschafft anzusehen.
+#facs_348_r2l8 Andt Damit
+#facs_348_r2l9 Den Vnnöstigen Incidentien, welche zu nichts anders
+#facs_348_r2l10 alß zu Verlängerung der Streit- und Trölhändlen
+#facs_348_r2l11 und Verderben der Partheyen gereichen, ins künfftig
+#facs_348_r2l12 vorgebogen werde, wollend Wir, das die Advocaten
+#facs_348_r2l13 und beyständer so dergleichen unnöstige beysandel
+#facs_348_r2l14 suscitieren und auff die bahn bringen wurdind, umb
+#facs_348_r2l15 100. Florin gestrafft, und nach gestaltsamme der Sachen,
+#facs_348_r2l16 zeß advocatisierens halben, noch entweders einge=
+#facs_348_r2l17 stelt, oder aber selbiges ihnen, durch die Ambtleüth
+#facs_348_r2l18 gentzlich interdiciert werden; Mit den frömbden
+#facs_348_r2l19 und ausländischen Advocaten aber, laßendt wir er
+#facs_348_r2l20 derenthalben bey dem Innhalt der albereit hievor
+#facs_348_r2l21 sub 23 Juny 1645. und 23. Junij 1673. außgangenen
+#facs_348_r2l22 Mandaten /: Dardurch ihnen das advocatiseren abge¬
+#facs_348_r2l23 streckt und verbotten worden) nochmahlen gentzlichen
+#facs_348_r2l24 verbleiben.
+#facs_348_r2l25 Welch- unseren ernstmeinenden willen und befelich
+#facs_349_r2l1 Zu gleich anderen unseren Weltschen Ambtleüthen,
+#facs_349_r2l2 zu erforderlicher Beobachtung und jedermäniglichs
+#facs_349_r2l3 Nachricht, auch deiner selbstigen Handobhaltung mit
+#facs_349_r2l4 allein den Undergrichten und Castlahnen notifi¬
+#facs_349_r2l5 cieren, und von Cantzlen verlesen, sonderen auch
+#facs_349_r2l6 seines gehörigen ohrts einschreiben zu laßen
+#facs_349_r2l7 wüßen wirst. Gott mit Dir. Dat. 4. Juny 1703

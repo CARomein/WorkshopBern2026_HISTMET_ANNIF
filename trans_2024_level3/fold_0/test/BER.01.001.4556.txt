@@ -1,0 +1,162 @@
+Law nr: BER.01.001.4556
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 150/150
+# High similarity (>=80%): 143
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_123_r6l10 Alle Weltsche Herren Amtleute
+#facs_123_r6l11 Abschaffung der Brochure betitlet, Relation
+#facs_123_r6l12 juste et véritable s
+#facs_123_r6l13 Schultheiß und Rath. Es ist unlängst in
+#facs_123_r6l14 Anseren Weltschen Landen eine Bro¬
+#facs_123_r6l15 Bure ausgestreut worden, unter dem
+#facs_123_r6l16 titel, Relation juste et veritable de la
+#facs_123_r6l17 grande Justice faite a Avendre le 18me
+#facs_123_r6l18 May 1784. worin die Bischoffbaflische
+#facs_123_r6l19 Gerichts-Stelle zu Courtlary durch ganz
+#facs_123_r6l20 und wahrhafte Vorgeben, auf die empfind¬
+#facs_123_r6l21 lichste Weise ist verleündet worden
+#facs_123_r6l22 Wir befehlen Euch daher auf die
+#facs_123_r6l23 tes Libell zu achten, den Exemplarien
+#facs_123_r6l24 deßelben nachforschen zu lasen, und
+#facs_123_r6l25 solche alsobald abzuschaßen.
+#facs_123_r6l26 Au Neus alleine
+#facs_109_r6l30 nach¬
+#facs_123_r6l28 Und da noch neulich erhaltenen
+#facs_123_r6l29 richten zufolge, dieses Libell auch zu
+#facs_123_r6l30 Neuws bey dem Puchtruber Nathey
+#facs_200_r4l30 achtet
+#facs_109_r1l1 210.
+#facs_136_r2l21 sollte.
+#facs_124_r3l1 nachgedrübt worden seyn soll, welches
+#facs_124_r3l2 Er zwar nicht eingestehen will, so wer
+#facs_124_r3l3 det Ihr ihne darüber nochmahls zu
+#facs_124_r3l4 Rede tellen, und sein allfähliges Ein¬
+#facs_124_r3l5 geständniß an Uns einberichten
+#facs_124_r3l6 und übrigens denselben ernstlich ver¬
+#facs_124_r3l7 mahnen nach Inhalt des Buchtruchs
+#facs_164_r3l11 Reglement
+#facs_124_r3l9 gegangene Censur in seiner Buchtin
+#facs_124_r3l10 vereÿ nichts trüben zu laßen
+#facs_124_r3l11 An Lausanne allein
+#facs_203_r3l7 Betreffend dann
+#facs_124_r3l13 abgelassenes Schreiben vom 11ten
+#facs_124_r3l14 diß, so werdet Ihr seiner Zeit die
+#facs_124_r3l15 Antwort darauf erhalten. Datl
+#facs_124_r3l16 den 20ten Septembris 1784.
+#facs_83_r3l6 en
+#facs_21_region_1633454506260_2871l1 Un
+#facs_124_r3l18 die Herren Amtleute zu Wiblisburg, Pet¬
+#facs_124_r3l19 ferlingen, Oron und Vivis
+#facs_273_r3l14 zehnd Nachlas.
+#facs_124_r3l21 Schultheiß Räth und Burger etc. von
+#facs_124_r3l22 Unseren fürgeliebten Miträhten des
+#facs_124_r3l23 Herren Welsch Sevelmeister und Ven¬
+#facs_124_r3l24 neren, ist aus der Vortrag gemacht
+#facs_124_r3l25 worden, über die heürigen Jahrs vom
+#facs_124_r5l1 241
+#facs_124_r5l2 Hochgewitter beschädigten Hochobrig.
+#facs_124_r5l3 weitlichen Betreid Zehnden
+#facs_124_r5l4 Wann sich nun aus denen in
+#facs_124_r5l5 gesandten eydlichen Schazungen
+#facs_124_r5l6 ergeben, daß die Bestehere der
+#facs_124_r5l7 Zehnden
+#facs_124_r5l8 Hinder dem Amt Wiblisburg
+#facs_124_r5l9 an dem Zehnden zu Villarsund Dabray.
+#facs_124_r5l10 San. Biehs 1/12
+#facs_124_r5l11 Wachen
+#facs_4_r8l9 a
+#facs_7_r5l1 20
+#facs_124_r5l25 Mischelkorn
+#facs_4_r1l1 2
+#facs_7_r7l1 9
+#facs_7_r7l1 9
+#facs_124_r5l18 Haber
+#facs_124_r5l19 An dem Zehnden zu Constantin
+#facs_4_r7l1 4
+#facs_4_r4l1 3.
+#facs_68_r8l26 An Waizen
+#facs_3_region_1627936339514_16l1 1
+#facs_3_region_1627936339514_16l1 1
+#facs_124_r5l14 Mischelborn
+#facs_4_r7l1 4
+#facs_4_r7l1 4
+#facs_124_r5l18 Haber
+#facs_124_r5l29 An dem Zehnden zu Delly
+#facs_4_r13l2 7
+#facs_6_region_1627936574015_66l1 6
+#facs_68_r8l26 An Waizen
+#facs_6_region_1627936574015_66l1 6
+#facs_4_r1l1 2
+#facs_124_r5l25 Mischelkorn
+#facs_53_r1l1 98
+#facs_4_r1l1 2
+#facs_68_r8l11 zu
+#facs_124_r5l40 An dem Zehnden zu Cudrefia
+#facs_68_r8l26 An Waizen
+#facs_4_r7l1 4
+#facs_124_r5l25 Mischelkorn
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r13l2 7
+#facs_124_r5l18 Haber
+#facs_272_r2l39 an dem Zehnden zu
+#facs_124_r5l50 und Mur
+#facs_4_r1l1 2
+#facs_4_r1l1 2
+#facs_124_r5l53 An Wäizen
+#facs_6_region_1627936574015_66l1 6
+#facs_6_region_1627936574015_66l1 6
+#facs_124_r5l25 Mischelkorn
+#facs_4_r1l1 2
+#facs_124_r5l18 Haber
+#facs_124_r5l60 An dem Zehnden zu LeGravo
+#facs_6_region_1627936574015_66l1 6
+#facs_7_r7l1 9
+#facs_124_r5l11 Wachen
+#facs_4_r1l1 2
+#facs_124_r5l25 Mischelkorn
+#facs_4_r1l1 2
+#facs_124_r5l18 Haber
+#facs_43_r2l7 8
+#facs_6_region_1627936574015_66l1 6
+#facs_3_region_1627936339514_16l1 1
+#facs_125_r1l1 242
+#facs_125_r2l1 Hinder dem Amt Petterlingen.
+#facs_125_r2l2 An dem Zehnden zu Missy
+#facs_124_r5l10 San. Biehs 1/12
+#facs_67_r4l36 An Haber
+#facs_196_r2l3 o
+#facs_6_region_1627936574015_66l1 6
+#facs_125_r2l7 2 Mürt 4 Kopf oder
+#facs_125_r2l8 Hinder dem Amt Cron
+#facs_125_r2l9 An dem Zehnden zu Rogcivere
+#facs_67_r4l36 An Haber
+#facs_125_r2l11 2.1.6
+#facs_125_r2l12 An dem Zehnden zu Pavilly
+#facs_67_r4l36 An Haber
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r4l1 3.
+#facs_125_r2l16 Hinder dem Amt Vivis
+#facs_125_r2l17 An dem Zehnden zu Chatel
+#facs_68_r8l26 An Waizen
+#facs_3_region_1627936339514_16l1 1
+#facs_125_r2l20 Gersten
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r13l2 7
+#facs_124_r5l18 Haber
+#facs_125_r2l24 24.7.
+#facs_69_r3l17 Schaden erlitten, so haben
+#facs_125_r2l26 solchen gnädigst nachgelaßen
+#facs_125_r2l27 deßen Ihr berichtet werdet, um
+#facs_125_r2l28 solches den Zehndbesteheren zu eröff¬
+#facs_125_r2l29 nen, und quen obbemelten Betrag
+#facs_125_r2l30 der Restand Summ nachzulaßen
+#facs_125_r2l31 Datum coram 200. den 12. Novem
+#facs_125_r2l32 bris 1784

@@ -1,0 +1,88 @@
+Law ID: BER.01.001.4746
+Name: Curs der Savoyischen Duplonen und Thalern, und derselben Bruchstüke, item der Bayerischen Thaler.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 77/77
+# High similarity (>=50%): 71
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_279_r5l2 Furs der Savoyischen Duplonen und
+#facs_279_r5l3 Thalern, und derselben Bruchstüke,
+#facs_279_r5l4 item der bayerischen Thaler.
+#facs_279_r5l5 An alle deutsch und Welsche Herren Amtleut,
+#facs_279_r5l6 Vier Städt freyweibel und Ammann
+#facs_279_r5l7 Schultheis Räth und Burger u.
+#facs_279_r5l8 Wegen Würdigung der Savöyischen Dublinen
+#facs_279_r5l9 und Thaler, Halbthaler und Viertelthaler,
+#facs_279_r5l10 wie auch der bayerischen Thaler, haben Wir
+#facs_279_r5l11 die in Einlage enthaltene Verordnung ergehen
+#facs_279_r5l12 zu lassen, nöthig erachtet, wovon Wir Euch
+#facs_279_r5l13 genugsamme Exemplar zusenden, mit dem Be¬
+#facs_279_r5l14 felch, solche zu Jedermanns Verhalt behöriger
+#facs_279_r5l15 maßen publicieren, und seines Orts einschreiben
+#facs_279_r5l16 zu laßen.
+#facs_279_r5l17 Datum den 17ten Januar 1794.
+#facs_279_r5l18 ob id:
+#facs_279_r5l19 Verordnung
+#facs_279_r5l20 W. R. Schultheis klein und Grosse
+#facs_279_r5l21 Räthe der Stadt und Republik Bern, ent¬
+#facs_279_r5l22 bieten allen Unsern Lieben und getri¬
+#facs_279_r5l23 = Burger
+#facs_279_r6l1 ates
+#facs_279_r6l2 hi1
+#facs_279_r6l3 232
+#facs_279_r6l4 neuest
+#facs_279_r6l5 nts
+#facs_279_r6l6 faibi¬
+#facs_279_r6l7 50
+#facs_279_r6l8 eine
+#facs_279_r6l9 281
+#facs_279_r7l1 A
+#facs_279_r7l2 3.
+#facs_280_r2l1 E.B. nur zugehörigen Unsern
+#facs_280_r2l2 gnädigen und geneigten Willen und
+#facs_280_r2l3 thun ihnen hiemit zu wißen.
+#facs_280_r2l4 Das wir auf den Vortrag Unserer
+#facs_280_r2l5 Verordneten Münzkammer für gut
+#facs_280_r2l6 erachtet haben, den bis auf den gegen¬
+#facs_280_r2l7 wärtigen Zeitpunkt ausgemünzten
+#facs_280_r2l8 Savoyischen Duplonen, den Savovischen
+#facs_280_r2l9 Thalern, Halbthalern, und Viertel¬
+#facs_280_r2l10 thalern, so wie auch den Bayerischen
+#facs_280_r2l11 Thalern, von welchen die Abdrüke
+#facs_280_r2l12 hier beygefügt werden, eine etwas
+#facs_280_r2l13 höhere Würdigung beyzulegen als in
+#facs_280_r2l14 dem Münz Mandat vom 9ten Aprill
+#facs_280_r2l15 1777 geschehen ist.
+#facs_280_r2l16 Wir wollen und verordnen dem¬
+#facs_280_r2l17 nach, daß gedachte Beldsorten von
+#facs_280_r2l18 nun an in unsern Landen von jeder¬
+#facs_280_r2l19 n um die hier beygesezte Würdi¬
+#facs_280_r2l20 gung abgenommen werden sollen,
+#facs_280_r2l21 als.
+#facs_280_r2l22 1° Die Savoyischen Duplonen, wenn
+#facs_280_r2l23 sie 170 Gran französisch Mark,
+#facs_280_r2l24 gewicht
+#facs_280_r4l1 2
+#facs_280_r4l2 3
+#facs_280_r4l3 4
+#facs_280_r6l1 usi
+#facs_280_r6l2 gewicht haben, zu 188 Bazen; die
+#facs_280_r6l3 fünffachen und halben nach Proportion
+#facs_280_r6l4 Die Savöyischen Thaler zu 47. Bezen
+#facs_280_r6l5 die Savoyischen Halbthaler zu 23. Sazen
+#facs_280_r6l6 2 Kreuzer
+#facs_280_r6l7 Die Savoyischen Viertelthaler zu 11 Bazen
+#facs_280_r6l8 2 Kreuzer
+#facs_280_r6l9 Die bayerischen Thaler zu 34 Bazen
+#facs_280_r6l10 2 Kreuzer
+#facs_280_r6l11 Alles jedoch nur in solange, als Wir nicht
+#facs_280_r6l12 Ursache haben werden, dieser verschiedenen
+#facs_280_r6l13 Geld sorten halb etwas anders zu verordnen,
+#facs_280_r6l14 Welches hiermit zu Jedermanns Nachricht
+#facs_280_r6l15 kund gethan wird
+#facs_280_r6l16 Beben in Unserer Großen Raths¬
+#facs_280_r6l17 Versamlung den 17ten Januar 1794.

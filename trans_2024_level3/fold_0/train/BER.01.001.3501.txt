@@ -1,0 +1,104 @@
+Law ID: BER.01.001.3501
+Name: Das Käffer Mandat erfrüschen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 93/93
+# High similarity (>=50%): 90
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_247_r4l18 Zedel an Mehwhl. der T. und W. ZollCamer,
+#facs_247_r4l19 Sie deßen per copiam benachrichten mit
+#facs_247_r4l20 gezinnen, Ihrerseits auch die Anstalt zu
+#facs_247_r4l21 Verfüegen, daß Mrgs. willen in Effect
+#facs_247_r4l22 gestellt werde -
+#facs_248_r3l1 An alle T: Ambleüth, außer
+#facs_248_r3l2 frutigen, zweysimmen, und Saanen
+#facs_248_r3l3 dene den 4. Stätt, freyweibel und
+#facs_248_r3l4 amman, Item an Mehhl. die Venner ob
+#facs_248_r3l5 und Undenauß vnd Zedel an hiesige Cantzel,
+#facs_248_r3l6 das Käffer Mandat zu erfrüschen,
+#facs_248_r3l7 Schultheiß und Rath der Statt Bern etc.
+#facs_248_r3l8 Bleichwie unsere Nederthanen der jenigen
+#facs_248_r3l9 ohrten so unserer hievorigen Einsehung
+#facs_248_r3l10 zu Abschaffung des überhand nemenden
+#facs_248_r3l11 Unzeiffers nun und dann sonderlich aber
+#facs_248_r3l12 den 21. Märtz 1711. und 4. May 1717. auß¬
+#facs_248_r3l13 geschrieben worden, gebührend nachgelet,
+#facs_248_r3l14 an den Feld und Baumfrüchten die
+#facs_248_r3l15 ersprießliche Würkung gespühret; Als
+#facs_248_r3l16 habend wir angezogene Ordnung hier
+#facs_248_r3l17 durch zum gemeinen besten früscher
+#facs_248_r3l18 dingen zu widerhohlen gut befunden
+#facs_248_r3l19 Weilen die erfahrung gelehrt, daß die Jug
+#facs_248_r3l20 geen in dem Erdtrich merklichen Schaden
+#facs_248_r3l21 verursachet, als soll hinführo jeder Haußtatten
+#facs_248_r3l22 schuldig verbunden seyn, zu allen Zeiten
+#facs_248_r3l23 Wan man brachet oder zum Slyen
+#facs_248_r3l24 Ackeriert, sonderlich an denen ohrten
+#facs_248_r3l25 das
+#facs_248_r4l1 49
+#facs_248_r4l2 Da die Schwein vnd Gänß nicht hinkommen,
+#facs_248_r4l3 seinem Pflug jemanden Nachzuschicken
+#facs_248_r4l4 der dis vnzeiffer fleißig aufflose, vnd dem
+#facs_248_r4l5 Dorff Meister, Vierer oder anderen dathu
+#facs_248_r4l6 bestelten auffseheren überantwortete, welcher
+#facs_248_r4l7 dann dieselbe ohnverbeilt abschaffen wirt, die
+#facs_248_r4l8 Käffer belangend, ist gnugsamb bekant, wie
+#facs_248_r4l9 dieselben alwo sie fliegen, der blust und jungen
+#facs_248_r4l10 Bäümen großen Schaden erweken; dannenhero
+#facs_248_r4l11 wir zu derer wo möglichen Erödung hiemit
+#facs_248_r4l12 Veranstalten haben wollind, daß Selbige an
+#facs_248_r4l13 denen Orthen da Sie fliegen allwegen so bald
+#facs_248_r4l14 und so lang sie sich erzeigen, an den Eychen,
+#facs_248_r4l15 und Buchen wie auch an den Hagen, so lang es
+#facs_248_r4l16 sich thun laßt, von den gemeinden ins gesambt
+#facs_248_r4l17 und von jeder Haushaltung in Ihren Privat
+#facs_248_r4l18 gütheren, zu den Bequemsten Zeiten von
+#facs_248_r4l19 den Bäümen abgeschütlet, fleißig auffgelesen,
+#facs_248_r4l20 in Sal gethan, dieselben ins Waßer gestoßen
+#facs_248_r4l21 vnd den bestelten alle Tag ein genießen,
+#facs_248_r4l22 von denselben aber durch Begießung mit heißen
+#facs_248_r4l23 Waßer alsobald abgeschafft oder verbrönt werden
+#facs_248_r4l24 sollind, in dem Verstand daß jede Haushaltung
+#facs_248_r4l25 so viel Mäs als viel Persohnen über 10. Jahr
+#facs_248_r4l26 alters darinen sich befindend vergebens zu
+#facs_248_r4l27 clifeys
+#facs_249_r2l1 Zuliferen schuldig seyn, und im übrigen
+#facs_249_r2l2 was Sie mehr Liferen wirdt. Von jed¬
+#facs_249_r2l3 Mäs Ein Batzen in Vnserem Nahmen
+#facs_249_r2l4 von dem bestelten Aufseher zu empfah¬
+#facs_249_r2l5 haben, und solches auch durch Vnsere Amb¬
+#facs_249_r2l6 leuth gut gemacht, und Uns verrechnet
+#facs_249_r2l7 werden solle, und damit disem Unserem
+#facs_249_r2l8 allgemeinen heilsammen Einsehen, durch
+#facs_249_r2l9 die höchstnöthige Vollstrekung das Leben
+#facs_249_r2l10 gegeben werde, als ist unser ernstlichen
+#facs_249_r2l11 will, daß von nun an durch vnsere Best
+#facs_249_r2l12 te Jäger Cammer in den 4ten Landgrichten
+#facs_249_r2l13 übriger Ohrten Unserer Landen aber
+#facs_249_r2l14 Durch unsere Ambtleüth alle nöthig¬
+#facs_249_r2l15 anstalt, mit Bestellung der auffseheren
+#facs_249_r2l16 und was weiters erforderlich verschaffet
+#facs_249_r2l17 und fahls eint- oder andere hierin saus
+#facs_249_r2l18 selig erfunden wurden, so sollind nicht
+#facs_249_r2l19 nur die Aufseher den Gwalt haben, die
+#facs_249_r2l20 Arbeit in der Fehlbahren Kosten verrichten
+#facs_249_r2l21 zulaßen, sonderen Wollend auch gehabt habe,
+#facs_249_r2l22 daß dieselben zu abstattung 3t lb. Vnnach¬
+#facs_249_r2l23 lesiger Buß gehalten, ein Drittel dem
+#facs_249_r2l24 Ambtsman, der andere den Armen der
+#facs_249_r2l25 gemeind, vnd der dritte dem auffseher den
+#facs_249_r2l26 oh
+#facs_249_r4l1 tr
+#facs_249_r4l2 ohrts Heimfallen solle, die gleich übrigen
+#facs_249_r4l3 Unseren Ambtleüthen befehlende, dis Unser
+#facs_249_r4l4 erfrischtes Einsehen von Cantzlen öffentlich
+#facs_249_r4l5 -
+#facs_249_r4l6 ohne einichen anstand verkünden, und zu künffti¬
+#facs_249_r4l7 gem Verhalten seines ohrts Einschreiben, und
+#facs_249_r4l8 äußersten fleises die Hand Obhaltung die obge¬
+#facs_249_r4l9 legen seyn zu laßen, Dat. den 24. aprilis.
+#facs_249_r4l10 1726

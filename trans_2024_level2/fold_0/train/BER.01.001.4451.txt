@@ -1,0 +1,73 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 65/66
+# High similarity (>=80%): 62
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4451
+#facs_252_r4l26 ernstmeinend befehlende, der Vorschrifft gemelter
+#facs_7_region_1629821263627_21l22 20.
+#facs_22_r4l8 d
+#facs_38_r2l2 Alle Teütsche Herren Amtleut und Schaffnern
+#facs_9_region_1629822406380_88l_2 Coll
+#facs_253_r3l1 An alle weltsche Herren Amtleut
+#facs_12_region_1629822809073_173l1 Ihnen befehlen die noch restierende Helffte an Kern
+#facs_12_region_1629822809073_173l2 Roggen und Mischel Horn, denen sämtlicher Dinbel
+#facs_12_region_1629822809073_173l3 und Wäyhn, so nach Abzug der Ordinari und Quasi¬
+#facs_12_region_1629822809073_173l4 ordinare ausgaben vorschießt, zu versilberen.
+#facs_70_r4l17 Schultheiß Räht und Burger
+#facs_12_region_1629822809073_173l6 Wir beziehen uns auf den Innhalt Unsers Schrei¬
+#facs_12_region_1629822809073_173l7 bens vom 13ten Febr. lezthin; Uns da die Zeit vor¬
+#facs_12_region_1629822809073_173l8 handen, da Wir in fernerem Unseren Willen
+#facs_12_region_1629822809073_173l9 über den Verkauft daß unter der Direction Unse¬
+#facs_12_region_1629822809073_173l10 rer Amtleuten und Schaffneren stehenden Obrigkeiten
+#facs_12_region_1629822809073_173l11 Getreids zu äußeren pflegen; So haben Wir auf
+#facs_12_region_1629822809073_173l12 den deßthalb uns von Unseren Fürgeliebten Mit¬
+#facs_12_region_1629822809073_173l13 Rähten denen Herren Teutsch / sive Weltsch/ Sekel,
+#facs_12_region_1629822809073_173l14 meister und Venneren mit und neben Unserer
+#facs_12_region_1629822809073_173l15 verordneten Korn Cammer gemachten Vortrag erkent,
+#facs_12_region_1629822809073_173l16 daß von dem auf Martinj fern drigen Jahrs ein¬
+#facs_12_region_1629822809073_173l17 gegangenen Obrigkeitl. Getreyd, nicht allein
+#facs_12_region_1629822809073_173l18 die noch vorhandene Helffte
+#facs_12_region_1629822809073_173l19 An die T. H. Amtleut. An die W. Hl. Amtlent
+#facs_12_region_1629822809073_173l20 An Roggen, /: an die Ärgenischen Alles Michel vorn und Rog¬
+#facs_12_region_1629822809073_173l21 Allein (und Kernen) sondern gen, sondern auch aller
+#facs_12_region_1629822809073_173l22 aller Dickel.
+#facs_12_region_1629822809073_173l23 Wayzen.
+#facs_12_region_1629822809073_173l24 So nach Abzug der Ordinarii, und quaque ordinari ausgabe
+#facs_12_region_1633446336471_2197l1 Publication des Lotterie Mand. von Ao. 1773. in der Stadt.
+#facs_12_region_1629822828609_179l1 Aus Anlaß des zu Neuenburg neu Sur ce qu'il est revenu à Lt: &a
+#facs_12_region_1629822828609_179l2 lich eingeführten Lotto, die gefähr, quil soit etabli à Nouschatel un
+#facs_12_region_1629822828609_179l3 lichste und nachtheiligste Art von al, nouveau Lotto, la plus desavanta,
+#facs_12_region_1629822828609_179l4 len Lotterien und Glüks höfen, ha¬ geuse de toutes les Especes de Lotterie.
+#facs_12_region_1629822828609_179l5 ben Meghhl. nöhtig erachtet, die Leurs dittes Excellences ont trouvé bon
+#facs_12_region_1629822828609_179l6 ernstliche Execution dero unterm et necessaire de faire resouvenir
+#facs_12_region_1629822828609_179l7 25 t 9bris 1773. binder alle, so bohl un chacun par l'affiche aux Pilliers
+#facs_12_region_1629822828609_179l8 Einheimsche, als ausländische publis du Contenu de leur Ordon
+#facs_12_region_1629822828609_179l9 Lotterien, und besonders das - nance concernant les Lotteries
+#facs_12_region_1629822828609_179l10 Lotto-Vfihl s in Druk ausgebours étrangéres & de la Deffense y
+#facs_12_region_1629822828609_179l11 Verboit anzubefehlen, und zu contenu de faire le Metier de
+#facs_12_region_1629822828609_179l12 dem End solches gewohnter Orten Collecteur pour en debiter des¬
+#facs_12_region_1629822828609_179l13 anschlagen zu laßen; Wal-Billets. Cest dequoi un chun
+#facs_12_region_1629822828609_179l14 ches hiemit offentlich kund ge, est avisé pour sa Conduite
+#facs_12_region_1629822828609_179l15 macht wird, damit Niemand par la presente Publication
+#facs_12_region_1629822828609_179l16 sich zu dem End alsOlector Donne a 12e May 1777.
+#facs_12_region_1629822828609_179l17 gebrauchen laße, und ein je¬
+#facs_8_region_1629822247398_66l_14 Chancellerie de Berne
+#facs_12_region_1629822828609_179l19 der sich disorts vor verlust
+#facs_12_region_1629822828609_179l20 und Schaden zu hueten wiße
+#facs_12_region_1629822828609_179l21 Actum den 12t. May 1777.
+#facs_6_region_1629374919258_502l6 Canzley Bern
+#facs_12_region_1629822787217_167l1 21
+#facs_12_region_1629822818591_176l1 Vorschießen wird, von nun an Verbaufft, und
+#facs_12_region_1629822818591_176l2 versilberet werden solle; Alles jedenoch in
+#facs_12_region_1629822818591_176l3 dem Verstand, daß in ansehen dieser Verbauch¬
+#facs_12_region_1629822818591_176l4 fenden Früchten, die gewohnlichen Praecactionen
+#facs_12_region_1629822818591_176l5 genommen, zumahlen das versilberende, nur zu
+#facs_12_region_1629822818591_176l6 kleinen Kaüffen verkaufft, und dabey vor allem
+#facs_12_region_1629822818591_176l7 aus das mindest behältlichste Getreyd abgestoßen
+#facs_164_r4l19 werde. Welchemnach Ihr Euch zu verhalten
+#facs_12_region_1629822818591_176l9 über das erlösende uns Rechnung zu tragen wüßi¬
+#facs_12_region_1629822818591_176l10 werdet. Dat. den 14t. May 1777.
+#facs_178_r8l1 en

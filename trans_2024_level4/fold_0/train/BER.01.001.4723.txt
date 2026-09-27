@@ -1,0 +1,35 @@
+Law ID: BER.01.001.4723
+Name: Getreid Verkauf im Welschen Land.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 24/24
+# High similarity (>=50%): 24
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_161_r4l1 im hienach p. 238
+#facs_161_r4l2 Coll
+#facs_161_r5l1 315.
+#facs_161_r5l2 Getreid Verkauf
+#facs_161_r5l3 im Welschen Land
+#facs_161_r5l4 An
+#facs_161_r5l5 alle Herren Amtleut Welschen Landes da Obrig
+#facs_161_r5l6 keitliches Getreid ligt
+#facs_161_r5l7 Schultheiß Räth und Bürger u.
+#facs_161_r5l8 Auf angehörten Vortrag Unserer Fürge
+#facs_161_r5l9 liebten Miträthen der Herren Welsch Sekel¬
+#facs_161_r5l10 meister und Venneren, haben Wir erkennt
+#facs_161_r5l11 daß die noch übrig bleibende Hälfte der Sommer,
+#facs_161_r5l12 früchten von nun an Verstilberet, und zu kleinen
+#facs_161_r5l13 Kaufen abgestoßen und darfür gebührende Rech¬
+#facs_161_r5l14 nung getragen werden solle; der Verkauf
+#facs_161_r5l15 dann bis den 15ten Herbstmonat nächstbünftig
+#facs_161_r5l16 deßen Ihr zum Verhalt
+#facs_161_r5l17 fortdauren möge;
+#facs_161_r5l18 berichtet werdet.
+#facs_161_r5l19 In Absicht auf die übrig bleibenden Winter
+#facs_161_r5l20 fruchte und deren Verkauf aber, werden Wir
+#facs_161_r5l21 Euch seiner Zeit das fernere überschreiben
+#facs_161_r5l22 Datum den 31ten May 1793.

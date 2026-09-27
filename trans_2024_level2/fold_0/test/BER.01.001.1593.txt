@@ -1,0 +1,22 @@
+Law ID: BER.01.001.1593
+Name: Söllind keine Persohnen ohne Passzedel passieren lassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 11/11
+# High similarity (>=50%): 11
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_313_r2l16 Vüren, Nydauw, Lauven, Burgdorff, Landtshut,
+#facs_313_r2l17 Arberg, Erlach, Wiblisburg, Pätterlingen, Dipp,
+#facs_313_r2l18 Wangen, Arwangen, Trachselwaldt.
+#facs_313_r2l19 Sollind keine persohnen ohne paß zedel paßieren laßen
+#facs_313_r2l20 Schuldtheiß undt Raht der Statt Bern, Dieweil heutigen tage
+#facs_313_r2l21 bericht eingelangt, daß zwüschen den streitigen Orten hinächtigen Abend
+#facs_313_r2l22 die öffentliche feindthätligkeit angehebt: Als ist vnser ernstiger befelich
+#facs_313_r2l23 hiemit an dich (wie auch an andere Vnsere Amptleit) deß dir neuer
+#facs_313_r2l24 traumten Haußes wol in acht zenemen Vndt dem hienärigen befelh gewe¬
+#facs_313_r2l25 alle verdechtige persohnen vff zuhalten oder Zeruck zewysen vnd dergleichen
+#facs_313_r2l26 nemants passieren zulaßen. Datum 27. Decemb. 1615.

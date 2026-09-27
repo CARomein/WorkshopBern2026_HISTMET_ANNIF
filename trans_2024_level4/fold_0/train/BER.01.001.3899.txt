@@ -1,0 +1,154 @@
+Law ID: BER.01.001.3899
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 143/143
+# High similarity (>=50%): 141
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_26_r3l13 An
+#facs_26_r3l14 Die Amtleuth Teutsch und Waltschen Land
+#facs_26_r3l15 Lausane, Lauper, Saanen, Trachselwald-
+#facs_26_r3l16 Könitz, Milden, Araus vikis Burgdorsi¬
+#facs_26_r3l17 pferthen Morsee Murten, thun Hindelbau¬
+#facs_26_r3l18 Thüren, Romainmotier zwey simenten Grandson
+#facs_26_r3l19 Eumiswald Wiblissurg Schenlenberg,
+#facs_26_r3l20 Lentzburg & Ausfelden gangen, Landthä¬
+#facs_26_r3l21 Gran disetre. Zedel an Herren Großweibel
+#facs_26_r3l22 Schultheis und Raht
+#facs_26_r3l23 wegen der Invaliden Pensionen -
+#facs_26_r3l24 Beilen Ihr Excellentz der Frantzösische Herr
+#facs_26_r3l25 Ambassadors
+#facs_26_r4l1 47
+#facs_26_r4l2 Ambassador zu Solothurn, willens denen
+#facs_26_r4l3 in frantzösischen Diensten der Alt- und
+#facs_26_r4l4 verwundeten, auch desentwegen im
+#facs_26_r4l5 Königl. Pithal Des Invalides eingeschri¬
+#facs_26_r4l6 benen Soldaten, die Pension widermah¬
+#facs_26_r4l7 len auszurichten, auch verlangt, daß
+#facs_26_r4l8 diesere Ihnen schuldige gelter entwe¬
+#facs_26_r4l9 ders in persohn, oder durch genugsame
+#facs_26_r4l10 procurierte, auch fahls die eint oder an¬
+#facs_26_r4l11 deren abgestorben, und Ihnen die fälligen
+#facs_26_r4l12 Pension annoch gebührete, Dero hinterlaße,
+#facs_26_r4l13 ne Erben solche erheben, und sich darinn
+#facs_26_r4l14 angeben mögen, Ich dennoch also, wan Sie
+#facs_26_r4l15 annoch im Leben, Ihnen von Unseren
+#facs_26_r4l16 amtleüthen Lebens Scheinen ertheilt,
+#facs_26_r4l17 solche dan in Unser Cantzley allhier Legali¬
+#facs_26_r4l18 siert werden sollen, als habend Wieder
+#facs_26_r4l19 hiermit befehlen wollen, ein solches nach
+#facs_26_r4l20 ver nam seten persohnen Deines Amts, so
+#facs_26_r4l21 unter dieser Zahl der Invalides würklich be¬
+#facs_26_r4l22 griffen seyn möchten, wüßend zu machen,
+#facs_26_r4l23 dahin daß Sie von Dir mit einem glaub¬
+#facs_26_r4l24 würdigen Schein in Frantzl. Sprach sich
+#facs_26_r4l25 versehen, das Sie noch im leben, und selbige
+#facs_26_r4l26 zur legalisation allhiesiger Cantzley eingeben,
+#facs_26_r4l27 umb
+#facs_27_r2l1 Um nachwerts Ihre pensionen in Solothur
+#facs_27_r2l2 erheben zu können. Wann aber Ich ge¬
+#facs_27_r2l3 storben wären, so annoch etwas zu forderen
+#facs_27_r2l4 hälten, wirst du Ihren Erben einen
+#facs_27_r2l5 Todten Schein auch in Frantzl. Sprach zu stellen
+#facs_27_r2l6 laßen, unter deinem Sigel, darinn verme¬
+#facs_27_r2l7 ,,det, welche Zeith, Tag, Jahr, und wo sie das
+#facs_27_r2l8 zeitl. gesegnet, solchen auch zur legalisation
+#facs_27_r2l9 Allhiesiger Cantzley eingeben laßen,
+#facs_27_r2l10 damit solchem nach neben originaliter
+#facs_27_r2l11 Zurukgebung des zu foriß erhaltenen
+#facs_27_r2l12 Invaliden Patento, sie den Rükstandin
+#facs_27_r2l13 Solothurn erheben laßen mögen, auf
+#facs_27_r2l14 den fahl aber die eint oder anderen der
+#facs_27_r2l15 Reiß nacher Solothurn gerne zu et¬
+#facs_27_r2l16 fahrung umbösten enthoben seyn.
+#facs_27_r2l17 möchten, ist Ihr Excellentz der Herr
+#facs_27_r2l18 Ambassador anerbiethig, wann ober¬
+#facs_27_r2l19 Leutherter maßen die Certificat, und
+#facs_27_r2l20 darüber verfertigte legalisationen
+#facs_27_r2l21 von verstorbenen dann die Invalides
+#facs_27_r2l22 Patente, Ihme von Unseren Amtl. schrift¬
+#facs_27_r2l23 lich verden eingesandt werden, die
+#facs_27_r2l24 Pensioners
+#facs_27_r3l1 49
+#facs_27_r3l2 pensionen gegen forma: Quittantzen Inßer
+#facs_27_r3l3 ohngeachtet aus zu bezahlen, und gefolge
+#facs_27_r3l4 zu laßen; desen nun Du verständiget
+#facs_27_r3l5 wirst, um sich in ansehen geeigen¬
+#facs_27_r3l6 Invalides deines Amts darnach richten
+#facs_27_r3l7 zu können; wie zu thuns. Datum d.
+#facs_27_r3l8 6ten May 1745
+#facs_27_r3l9 Etat des Invalides du Louable
+#facs_27_r3l10 Canton de Berne, qui peuvent se presenter
+#facs_27_r3l11 a l'Ambassadeur du Roy en suisse à
+#facs_27_r3l12 soleure pour y recevoir leurs Pensions pour
+#facs_27_r3l13 bannée 1744
+#facs_27_r3l14 Abraham de Palles de Lausanne
+#facs_27_r3l15 Jacob Jong von Rieden Baill: de Laupen
+#facs_27_r3l16 Hans Muller de Sanne
+#facs_27_r3l17 Hans Schild de Schangnau
+#facs_27_r3l18 Hans Burgeman de Konitz
+#facs_27_r3l19 Abraham Moginier de Mezieres
+#facs_27_r3l20 Jacob Hiutz d'Arau
+#facs_27_r3l21 Pierre Monay de Verag
+#facs_27_r3l22 Daniel Creatura de Moudon
+#facs_27_r3l23 Jean Rodolphe Fridli d'Ersingen
+#facs_28_r2l1 Samuel Meyer de Berne.
+#facs_28_r2l2 Jean Pierre Bisac de Bercher.
+#facs_28_r2l3 Pierre Paccoton de Mezeraij.
+#facs_28_r2l4 Henry Anselme de L'Ille.
+#facs_28_r2l5 Samuel Rouble de Mourten
+#facs_28_r2l6 Daniel Schneider de Thoun.
+#facs_28_r2l7 Charle Beaud de Rance
+#facs_28_r2l8 Bendicht Rohrer d'urtenen-
+#facs_28_r2l9 Bendicht Schwab de Dotzingen.
+#facs_28_r2l10 Daniel Arpeau de Bursin
+#facs_28_r2l11 Bendich Spring de Keisen-
+#facs_28_r2l12 Pierre Goy de Vaution
+#facs_28_r2l13 Pierre Adam Favre d'Ivoignan
+#facs_28_r2l14 Jean Grondebach de Soumiswald
+#facs_28_r2l15 Jean Jaques de l'Orme de Walleman
+#facs_28_r2l16 Malhis Scheller de Wildenstein
+#facs_28_r2l17 Phillippe Pierre Beson de Beroll
+#facs_28_r2l18 Redolphe Hoffman de Kulm
+#facs_28_r2l19 Johanes Martz de Lupfig
+#facs_28_r2l20 Jonas Menner de Jegenstorf
+#facs_28_r2l21 Pierre Demand de Lausane
+#facs_28_r2l22 George Muller de Seeberg -
+#facs_28_r2l23 Daniel du Clos de Villars
+#facs_28_r2l24 Johanes Ohler d'Erisaill
+#facs_28_r2l25 Jacob Ambsler de Dentzenbach
+#facs_28_r2l26 Abraham Kummer d'Alzisdorff
+#facs_28_r4l1 Jacob Hirsching d'Amseldingen
+#facs_28_r4l2 Johanes Rodoph Wolff d'ottmasingen
+#facs_28_r4l3 Jean Batiste de Boneville de Glinel
+#facs_28_r4l4 Pierre Philippe de la Joux de Cully
+#facs_28_r4l5 Samuel Äschbach de Lutselfüe.
+#facs_28_r4l6 An alle Herren Decanus Teutschen Lands
+#facs_28_r4l7 Item per zedell an den hiesigen
+#facs_28_r4l8 Schultheis und Raht des
+#facs_28_r4l9 Es will verlauten, ob solte dasjenige Psalmen
+#facs_28_r4l10 Buch, so der bekante Herr Spreng von Gasel
+#facs_28_r4l11 in Truk ausgehen laßen, im und anderen
+#facs_28_r4l12 Ohrten unserer Teutschen Landen ein¬
+#facs_28_r4l13 geführt werden; da nun wegen ungleich
+#facs_28_r4l14 heit des gesangs, hieraus anders nichts
+#facs_28_r4l15 als unordnung entstehen kan, und
+#facs_28_r4l16 sonsten von nicht geringer Bedenklichkeit
+#facs_28_r4l17 in unseren Kirchen und Schulez Neube
+#facs_28_r4l18 bücher zu gebrauchen, als veranlaset
+#facs_28_r4l19 und solches, Euch (gleich an deren Unseren
+#facs_28_r4l20 Decanen) hierdurch zu befehlen, rüberen
+#facs_28_r4l21 Capitulo brüederen wüßend zu machen
+#facs_29_r3l1 daß biß auff weitere Verordnung Sie
+#facs_29_r3l2 ohn abgeenderet so wohl bey dem, biß dahin
+#facs_29_r3l3 durchgehends eingeführten Psalmen gsang
+#facs_29_r3l4 und Melodie, als auch bey denjenigen
+#facs_29_r3l5 bücheren verbleiben, so von und auch
+#facs_29_r3l6 siert, und in beständiger übung gewesen,
+#facs_29_r3l7 maßen von Männiglich geschehen werde;
+#facs_29_r3l8 wir uns versehen. Datum d. 13. May
+#facs_29_r3l9 1745

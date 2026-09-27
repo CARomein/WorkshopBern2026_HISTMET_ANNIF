@@ -1,0 +1,201 @@
+Law ID: BER.01.001.3469
+Name: Alles über den Vorraht auss vorschiessende Sommer- und Wintergwächs zu versilberen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 190/190
+# High similarity (>=50%): 187
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_192_r3l8 Preys, wie man das Berepfund
+#facs_192_r3l9 pulver an Jegen Ort verkauffen solle:
+#facs_192_r3l10 Neüles:
+#facs_192_r3l11 Koll
+#facs_192_r3l12 Birs Pulver das Bern
+#facs_192_r3l13 Morffer
+#facs_192_r3l14 Pfund à 6.B
+#facs_192_r3l15 Cossonay
+#facs_192_r3l16 Komainmotier.
+#facs_192_r3l17 pferten.
+#facs_192_r3l18 ahlen
+#facs_192_r3l19 Vielis:
+#facs_192_r3l20 das Scheibenpulver.
+#facs_192_r3l21 Lausane:
+#facs_192_r3l22 5½ bz. das betn pfund
+#facs_192_r3l23 Milden:
+#facs_192_r3l24 rbe:
+#facs_192_r3l25 Pelterlingen Cons.
+#facs_192_r3l26 Grandson
+#facs_192_r3l27 Orow:
+#facs_192_r4l1 Müslieatst.
+#facs_192_r4l2 Trachfelwald.
+#facs_192_r4l3 Trachselwald
+#facs_192_r4l4 Signor
+#facs_192_r4l5 Trachschwald
+#facs_192_r4l6 Cächstkeald
+#facs_192_r4l7 Brandiß
+#facs_192_r4l8 Trachschwald
+#facs_192_r5l1 381
+#facs_192_r5l2 Wiblisburg:
+#facs_192_r5l3 Birspulfer à 5. B. 3. xr
+#facs_192_r5l4 Scheibenpulver 5. R. 1. Xr.
+#facs_192_r5l5 Mürten:
+#facs_192_r5l6 Biespulver 5 b. 2. xr.
+#facs_192_r5l7 Bern, in der Stalten
+#facs_192_r5l8 Scheibenpulv: 5. B.
+#facs_192_r5l9 Waberen
+#facs_192_r5l10 Birspulver das lb. 5. H. 2. Xr.
+#facs_192_r5l11 Rilcheerst
+#facs_192_r5l12 höchstelten.
+#facs_192_r5l13 Scheibenpulver des Bericht. a 5. xxx
+#facs_192_r5l14 Münfigen
+#facs_192_r5l15 Laupen
+#facs_192_r5l16 Kgnau
+#facs_192_r5l17 Cschangnan
+#facs_192_r5l18 Längnauli
+#facs_192_r5l19 Eggilerijl:
+#facs_192_r5l20 Birs
+#facs_192_r5l21 Summäswald
+#facs_192_r5l22 das Schifpulver 5. H. 2. x
+#facs_192_r5l23 Huttbeyl
+#facs_192_r5l24 Erisweyl
+#facs_192_r5l25 des Scheibenpulver a 5. xxx.
+#facs_192_r5l26 Lützelflühe
+#facs_192_r5l27 Trurbschachen,
+#facs_192_r5l28 Thun
+#facs_193_r2l1 Thun,
+#facs_193_r2l2 Schwarzenegg,
+#facs_193_r2l3 Thun.
+#facs_193_r2l4 Im Gwald,
+#facs_193_r2l5 Oberhoffen
+#facs_193_r2l6 Dießbach,
+#facs_193_r2l7 Wichtrachen,
+#facs_193_r2l8 Burderst,
+#facs_193_r2l9 ligerz,
+#facs_193_r2l10 Nyden
+#facs_193_r2l11 Nydanle
+#facs_193_r2l12 Arberg.
+#facs_193_r2l13 Buren
+#facs_193_r2l14 Wirdlisbach,
+#facs_193_r2l15 Bipf
+#facs_193_r2l16 Erlach
+#facs_193_r2l17 Wangen,
+#facs_193_r2l18 Langenthal,
+#facs_193_r2l19 Wangen
+#facs_193_r2l20 Rilchberg.
+#facs_193_r2l21 Burgdorff
+#facs_193_r2l22 Schwarzenburg
+#facs_193_r2l23 Erlenbach
+#facs_193_r2l24 Wimüß:
+#facs_193_r2l25 Laßle in Wyßland
+#facs_193_r2l26 Vndtewen
+#facs_193_r2l27 heutigen
+#facs_193_r2l28 zweysinnen
+#facs_193_r2l29 sich
+#facs_193_r2l30 Sanen
+#facs_193_r2l31 Rötschmund
+#facs_193_r2l32 Sanen.
+#facs_193_r2l33 zofdigen
+#facs_193_r2l34 Aran
+#facs_193_r2l35 Arburg: præs
+#facs_193_r2l36 Brugg
+#facs_193_r2l37 Lentzburgstraße Schynach.
+#facs_193_r3l1 Birspulver das pfund
+#facs_193_r3l2 Berügericht S. 63: 3. Xr.
+#facs_193_r3l3 Scheibopulver 5. bz. 1. x.
+#facs_193_r3l4 das Birspulver à 6. rt.
+#facs_193_r3l5 das W. Berügwicht
+#facs_193_r3l6 (das Scheibepulver 5ten & 2.)
+#facs_193_r5l1 38 x
+#facs_193_r5l2 An Alle T: und W: Amtleüth
+#facs_193_r5l3 und Haüser, da Oberk: getreyd ist:
+#facs_193_r5l4 Alles über den Vorraht aus vorschießende
+#facs_193_r5l5 Sommer- und Winter-gwächs zu versilberen
+#facs_193_r5l6 Schultheiß Räht und Burger
+#facs_193_r5l7 Nachdeme wir auß dem Unß einerlegen
+#facs_193_r5l8 Vortrag die Beschaffenheit der Korn,
+#facs_193_r5l9 häusern unser Teütsch- und weltschen
+#facs_193_r5l10 Landen verstanden, und daß darinen
+#facs_193_r5l11 durch den Segen Gottes ein Nahmhafftes
+#facs_193_r5l12 über den Vorraht aus sich befinde;
+#facs_193_r5l13 habend wir uns hiemit entschloßen
+#facs_193_r5l14 und Erkent: daß alles über den
+#facs_193_r5l15 in den Kornhäuseten würklich verhandenen
+#facs_193_r5l16 Vorraht auß vorschießende Oberteitl.
+#facs_193_r5l17 Sommer, und Wintergewachs, nach Abzug
+#facs_193_r5l18 der bevorstehenden Pfingst- und Herbst¬
+#facs_193_r5l19 Prohnfasten, nach Kauff und Lauff,
+#facs_193_r5l20 Jedenoch von demIingst behaltlichsten
+#facs_193_r5l21 Vertaufft, und abgestoßen werden solle.
+#facs_194_r2l1 In dem Verstand, daß du den Vorschuß
+#facs_194_r2l2 in der Natur, wie Er sich befindet,
+#facs_194_r2l3 Versilbaren, und nit etwann der
+#facs_194_r2l4 einten Gattung zu viel hingeben, und
+#facs_194_r2l5 nachwerts mit einer andern Gatt und
+#facs_194_r2l6 ersetzen sollest: wie dann, daß
+#facs_194_r2l7 disem destobeser nachgelebt werde,
+#facs_194_r2l8 Wir unseren Hürgeliebten Mit Rähten
+#facs_194_r2l9 Teutsch (Weltsch) Sekelmeister- undt
+#facs_194_r2l10 Venneren auffgetragen, dir, gleich
+#facs_194_r2l11 übrigen Unseren Ambtleüten, eine
+#facs_194_r2l12 Verzeichnuß zuzusenden, wieviel
+#facs_194_r2l13 und was für getreyd es deinem
+#facs_194_r2l14 Ambt zu verkauffen beziehen möge.
+#facs_194_r2l15 Welchern nach du dich richten, das zu
+#facs_194_r2l16 verkaufen bewilligte würklich hin¬
+#facs_194_r2l17 geben; und Also zu Logierung des
+#facs_194_r2l18 von der Hand des allerhöchsten er¬
+#facs_194_r2l19 wartenden Raubs in den Kornheusern,
+#facs_194_r2l20 Guurgsammen platz anschaffen, das
+#facs_194_r2l21 hieraus erlösende aber Geleüsenhafft
+#facs_194_r4l1 385
+#facs_194_r4l2 in erster Deiner Rechnung Ansetzen
+#facs_194_r4l3 sollst; wie in eint- und Anderein
+#facs_194_r4l4 by aufhabender Pflicht zu thun läußen
+#facs_194_r4l5 wirst p. Dat. 18. Aprilis 1725
+#facs_194_r4l6 Il ne s'est en nouveau, et c'est que
+#facs_194_r4l7 Petterlingen Cons. et Oec. Milden,
+#facs_194_r4l8 Oron, Lausanne, Morfer, Chillon,
+#facs_194_r4l9 Wiblisburg, Saanen, und Ahlen
+#facs_194_r4l10 auf den Mords verdächtigen Joseph Moret von Corbiere zu achten etc.
+#facs_194_r4l11 Schultheiß und Raht
+#facs_194_r4l12 Von Unseren G. L. C. M. und B. Lobl
+#facs_194_r4l13 Stands Heyburg, werden wir benach¬
+#facs_194_r4l14 richtet, welcher gestalten Letster Tagen
+#facs_194_r4l15 zu Vnadens in dera Vogthey Corbiere,
+#facs_194_r4l16 Huguet Morret der daselbstige Gerichtsäß
+#facs_194_r4l17 zusammt seiner Ehefrauwen, Catharina
+#facs_194_r4l18 Terraux, Jämmerlich in Ihrem Haus Zu
+#facs_194_r4l19 Todt geschlagen, und beyde Massacriert
+#facs_194_r4l20 Gefunden worden; wie nun der Verdacht
+#facs_194_r4l21 diser Mordthaten neben anderen auf den
+#facs_194_r4l22 Joseph Morret, deßen Beschreibung mitkommt
+#facs_194_r4l23 gefallen, wir annebens dann feündt Eydtgul.
+#facs_195_r2l1 In dem Verstand, daß du den Vorschuß
+#facs_195_r2l2 in der Natur, wie Er sich befindet
+#facs_195_r2l3 Versilbaren, und nit etwann der
+#facs_195_r2l4 einten galtung zuviel hingeben, und
+#facs_195_r2l5 nachwerts mit einer andern Geltung
+#facs_195_r2l6 ersetzen sollest: wie dann, daß
+#facs_195_r2l7 disem destobeser nachgelebt werde,
+#facs_195_r2l8 Wir Unseren Hürgeliebten Mit Rähte
+#facs_195_r2l9 Leutsch (Weltsch) SekelMeister, undt
+#facs_195_r2l10 Venneren auffgetragen, dir, gleich
+#facs_195_r2l11 übrigen Unseren Ambtleüten, eine
+#facs_195_r2l12 Verzeichnuß zuzusenden, wieviel
+#facs_195_r2l13 und was für getreyd es demein
+#facs_195_r2l14 Ambt zu verkauffen beziehen möge.
+#facs_195_r2l15 Welchern nach du dich richten, das zu
+#facs_195_r2l16 verkaufen bewilligte würklich hin¬
+#facs_195_r2l17 geben; und Also zu Logierung des
+#facs_195_r2l18 von der Hand deß allerhochsten er¬
+#facs_195_r2l19 wartenden Raubs in den Kornheüzern
+#facs_195_r2l20 Quurgsammen platz anschaffen, das
+#facs_195_r2l21 hieraus erlösende aber Geleüsenhaft
+#facs_195_r4l1 385
+#facs_195_r4l2 in erster Deiner Rechnung Ansetzen
+#facs_195_r4l3 sollst; wie in eint- und Anderein
+#facs_195_r4l4 by aufhabender Pflicht zu thun laßen
+#facs_195_r4l5 wirst p. Dat. 18. Aprilis 1725.

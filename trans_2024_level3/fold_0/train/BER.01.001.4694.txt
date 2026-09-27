@@ -1,0 +1,28 @@
+Law ID: BER.01.001.4694
+Name: Cours der spanischen Säulenthaler [...]
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 17/17
+# High similarity (>=50%): 17
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_83_r5l1 159
+#facs_83_r5l2 Cours der Spannischen Säulenthaler
+#facs_83_r5l3 von dem hierunten abgezeichnet stehenden
+#facs_83_r5l4 Geprag, auf 36 f 2 xr gesezt
+#facs_83_r5l5 An alle Hh. Amtleut d. u. W. Landen, 4 Städt, Freyw: u. Ammann
+#facs_83_r5l6 Schultheiß Stäth und Burger etc. Aus Ver¬
+#facs_83_r5l7 schiedenen Betrachtungen bewogen, haben
+#facs_83_r5l8 Wir wegen Würdigung der sogenannten
+#facs_83_r5l9 Säulen Thaler die in Beylage enthaltene
+#facs_83_r5l10 Verordnung ergehen zu laßen gut befunden
+#facs_83_r5l11 Wir übersenden Euch davon genugsame
+#facs_83_r5l12 Abdrück, mit Befelch, solche gewohnter
+#facs_83_r5l13 Orten anschlagen und zu maniglicher
+#facs_83_r5l14 Nachricht öffentlich von Kanzel verlesen
+#facs_83_r5l15 und behörigen Orts einschreiben zu lassen
+#facs_83_r5l16 Gott mit Euch. Datum den 17ten Wein.
+#facs_83_r5l17 monat 1792

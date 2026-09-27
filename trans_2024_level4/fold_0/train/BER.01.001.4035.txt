@@ -1,0 +1,239 @@
+Law ID: BER.01.001.4035
+Name: Ihnen die gedrukte hochoberkeitl. Wahrnung, wider die Abnahm der ausseren schlechten und verbottenen Scheidmünzen, zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 228/228
+# High similarity (>=50%): 193
+# Low similarity (<50%): 35
+# Not found: 0
+#
+#facs_242_r2l23 Liste
+#facs_242_r4l1 Siste
+#facs_242_r4l2 f -
+#facs_242_r4l3 der königlich Sardinischen Invalides
+#facs_242_r4l4 haben zu beziehen
+#facs_242_r4l5 piedmontesisch Gelt.
+#facs_242_r4l6 Baillage
+#facs_242_r4l7 Livres
+#facs_242_r4l8 Lamuel Bonnet de Rennen
+#facs_242_r4l9 50.
+#facs_242_r4l10 Moyse Benjamin Barraud de Bussigny
+#facs_242_r4l11 Sausannt
+#facs_242_r4l12 50
+#facs_242_r4l13 Jean François Testez de Paroisse Villettes
+#facs_242_r4l14 50.
+#facs_242_r4l15 David Guillaume soulier de Vevey.
+#facs_242_r4l16 Vevat
+#facs_242_r4l17 50
+#facs_242_r4l18 Jaques Perreas d'Ivorne
+#facs_242_r4l19 Aigle
+#facs_242_r4l20 50„
+#facs_242_r4l21 Jean François Pouza d'Ollon
+#facs_242_r4l22 —
+#facs_242_r4l23 50
+#facs_242_r4l24 C:
+#facs_242_r4l25 François Henri Berger d'Ecclepend
+#facs_242_r4l26 50.
+#facs_242_r4l27 Simcon Favay de Pompaples
+#facs_242_r4l28 Romainm
+#facs_242_r4l29 "
+#facs_242_r4l30 50
+#facs_242_r4l31 lieu
+#facs_242_r4l32 Joseph Truan d'Agy-
+#facs_242_r4l33 50
+#facs_242_r4l34 so,
+#facs_242_r4l35 Isaac Amaron de Dennens
+#facs_242_r4l36 Morges
+#facs_242_r4l37 David Place de St lierge
+#facs_242_r4l38 s
+#facs_242_r4l39 50
+#facs_242_r4l40 Henri Junod de Ste Croix
+#facs_242_r4l41 Yverdun
+#facs_242_r4l42 50
+#facs_242_r4l43 Pierre David Crenod de Montcheran
+#facs_242_r4l44 50
+#facs_242_r4l45 Samuel Ettopey de Granges
+#facs_242_r4l46 50
+#facs_242_r4l47 Moudon
+#facs_242_r4l48 50
+#facs_242_r4l49 David Gillard de Fiez
+#facs_242_r4l50 Grandson
+#facs_242_r4l51 50
+#facs_242_r4l52 Daniel Eurey de Concise
+#facs_242_r4l53 50.
+#facs_242_r4l54 Christian Brand, von Saaner
+#facs_242_r4l55 Daaken
+#facs_242_r4l56 50
+#facs_242_r4l57 Abraham Steiner aus dem Adeltoden¬
+#facs_242_r4l58 rutigen
+#facs_242_r4l59 50
+#facs_242_r4l60 Johannes Mennig von Oberteyl, Amts Wimmis,
+#facs_242_r4l61 Néidams
+#facs_242_r4l62 hinter Ridauw geseßen
+#facs_242_r4l63 50.
+#facs_242_r4l64 Peter Assliman von Langnauw
+#facs_242_r4l65 Trachselwald
+#facs_242_r4l66 50
+#facs_242_r4l67 Mariz Herzog von Lotzbyl.
+#facs_242_r4l68 Wangen
+#facs_242_r4l69 50.
+#facs_242_r4l70 Marti Werreli von Thalheim.
+#facs_242_r4l71 .50.-
+#facs_242_r4l72 Schinkender
+#facs_242_r4l73 Jacob Märkel von Möhnthal.
+#facs_242_r4l74 50
+#facs_242_r4l75 Rudolff Digerist von Tözberg
+#facs_242_r4l76 Summa Livre 1200.
+#facs_242_r4l77 24
+#facs_243_r1l1 49 x
+#facs_243_r1l2 Collath
+#facs_243_r2l1 6
+#facs_243_r2l2 an
+#facs_243_r2l3 Alle Trübsche und Welsche Amtleüth, 4. Stäck
+#facs_243_r2l4 freybeibel und Ammen. Item per Zedel an
+#facs_243_r2l5 alle Cänzel hiesiger Hauptstadt.
+#facs_243_r2l6 Ihnen die getrubte Hoch Oberbeitl. Wahrung,
+#facs_243_r2l7 wider die Abnahm der ausseren
+#facs_243_r2l8 Schlechten und verbodtenen
+#facs_243_r2l9 Scheidmünzen, zustanden.
+#facs_243_r2l10 Schultheiß Räht und Burger.
+#facs_243_r2l11 Einligendes getrubtes Mandat und Oberbeitl.
+#facs_243_r2l12 Wahrnung wider die abnahm der schlechten
+#facs_243_r2l13 äußeren Scheidmunzen, die durch Unsere
+#facs_243_r2l14 hievorige Verordnungen verbotten worden;
+#facs_243_r2l15 haben Wir Euch hiemit zufenden wollen,
+#facs_243_r2l16 mit befehl, solches nicht nur zu männiglichen
+#facs_243_r2l17 Nachricht und verhalt von Canzlen verbünden¬
+#facs_243_r2l18 sondern auch selbiges gewohnten Ohrten
+#facs_243_r2l19 offentlich anschlagen zu laßen. Maßen
+#facs_243_r2l20 zu veranstalten a Datum d. 17. Dec: 1733.
+#facs_243_r4l1 446
+#facs_243_r4l2 Wir Schultheis Klein und große
+#facs_243_r4l3 Nähte der Stadt Bern thun bund hiemit: Obschon
+#facs_243_r4l4 Wir aus Landwädterlicher Vorsorg zum öfferen
+#facs_243_r4l5 durch die von uns ausgegangene Verordnungen
+#facs_243_r4l6 getrachtet haben, denen in Unsere Land und Gebietz
+#facs_243_r4l7 sich einschleichenden allerhand geringhältigen und
+#facs_243_r4l8 schlechten Scheidmünzen, als wornach die Gold und
+#facs_243_r4l9 Silber, Sorten über ihren Werth getrieben, ja so
+#facs_243_r4l10 gar gegen so schlechte Münz die das Land anfüllet
+#facs_243_r4l11 aufgewechtlet, und aus dem Land gezogen werden
+#facs_243_r4l12 möglichen Inhalt zu thun, und durch Unsere von
+#facs_243_r4l13 zeith zu Zeith publicierte Mandat die schlechten
+#facs_243_r4l14 und geringhältigen Scheid münzen in Unsere Land
+#facs_243_r4l15 zu bringen, und darum anzunehmen, ernstlich
+#facs_243_r4l16 verbodten haben, in der Treu gemeinten
+#facs_243_r4l17 Absicht, Unsere Liebe Angehörige zu Stadt und
+#facs_243_r4l18 Land von dem ihnen und dem ganzen Land¬
+#facs_243_r4l19 dadurch zuwachsenden Höchst empfindlichen
+#facs_243_r4l20 Schaden und Verlurst best möglich zu bebahren.
+#facs_243_r4l21 So haben Wir jehden noch mit bedauren stehen
+#facs_243_r4l22 müßen, daß diesen, zum besten des Lands
+#facs_243_r4l23 abgesehenen so heilsamen Verordnungen zu wider
+#facs_243_r4l24 diese schlechte und geringhältige Scheid Münzen
+#facs_244_r2l1 mit vollem Schwaal ins Land geborsten worden
+#facs_244_r2l2 und darinnen Lauft genommen haben.
+#facs_244_r2l3 woraus dann bey des, die Steigerung und der
+#facs_244_r2l4 Mangel der Sold und Silber Sortes, wie
+#facs_244_r2l5 sonsten auch merbliche Zerrückung und
+#facs_244_r2l6 Nachtheil im Handel und Wandel entstanden
+#facs_244_r2l7 ist, und noch mehr entstehen muß, wo denn
+#facs_244_r2l8 nicht in zeithen vorgebogen wird.
+#facs_244_r2l9 zu Hemmung nun so großen Übels, und
+#facs_244_r2l10 damit das Land vor solch fernerem Schaden
+#facs_244_r2l11 verbahrt werden möge, haben Wir Und
+#facs_244_r2l12 borgenommen, Unsere Land mit guter und
+#facs_244_r2l13 unter Unserem Stämpfel ausgeschlagener
+#facs_244_r2l14 Scheidmung in Burzem zu verstehen, auch
+#facs_244_r2l15 solchen fahls alle andere Scheidnünzen
+#facs_244_r2l16 entweder gänzlich verruffen, oder selbige nach
+#facs_244_r2l17 ihrem innerlichen Wehrt schäzen und abruffen
+#facs_244_r2l18 zu laßen, wie dann die Mandats die Wir
+#facs_244_r2l19 deßwegen in baldigem zu publicieren gestimmt,
+#facs_244_r2l20 solches daß eigentlichen und mehreren erlaüteren
+#facs_244_r2l21 werden.
+#facs_244_r2l22 damit nun dann zumahl niemand zu
+#facs_244_r2l23 Schaden vomme, und jedermann sich in Zeithen
+#facs_244_r3l1 47
+#facs_244_r3l2 noch vorstehen könne, wollen Wir Unsere Angehö¬
+#facs_244_r3l3 rige zu Stadt und Land alles Ernsts hierdurch
+#facs_244_r3l4 ermahnt und verwahrnet haben, sich aller der
+#facs_244_r3l5 Schlechten äußeren Scheidmünzen (die durch
+#facs_244_r3l6 Unsere hievor emanierte Mandats und Verord¬
+#facs_244_r3l7 nungen verbodten worden, so wohl als auch der
+#facs_244_r3l8 St. Galler Derthli, in Zeithen zu entladen, und
+#facs_244_r3l9 Deren keine mehr in Unsere Land weder zu
+#facs_244_r3l10 bringen noch anzunehmen; Gestalten Wir zu
+#facs_244_r3l11 seiner Zeith, so bald nachlich Unser vorhabendes
+#facs_244_r3l12 dishörthiges Einstehen wird kund gemacht worden.
+#facs_244_r3l13 seyn, nach der Strenge derselben gegen jede
+#facs_244_r3l14 Übertrecker ohne Schonen verfahren lassen werden
+#facs_244_r3l15 dessen zur nachricht Wir nun diese Unsere
+#facs_244_r3l16 wohlgemeinte, doch ernstliche Wahrnung aller,
+#facs_244_r3l17 männig. Zum Verhalt von Canzlen verlesen
+#facs_244_r3l18 und gewohnter Ohrten anschlagen zu laßen.
+#facs_244_r3l19 hiemit anbefohlen haben. Beben in Unserer
+#facs_244_r3l20 Großen Rahts Versammlung den 17 Dec: 1753.
+#facs_244_r3l21 Canzley Bern.
+#facs_244_r3l22 Nous
+#facs_245_r1l1 19
+#facs_245_r2l1 Nous l'Advoyer Petit et Grand Consistre
+#facs_245_r2l2 de la Ville et Republique de Derne, savoir faisons par
+#facs_245_r2l3 les présentes; Quoiqua diverses fois nous aurions
+#facs_245_r2l4 taché de prevenir et d'empecher la debite de plusieurs
+#facs_245_r2l5 fortes de Monnoye de bas alloi et de trop petite
+#facs_245_r2l6 Valeur, qui se sont glissées et repandues dans nos Pays
+#facs_245_r2l7 nonobstant les Mandats et Ordonnances que par
+#facs_245_r2l8 un Effet de notre soin paternel, nous avons de
+#facs_245_r2l9 tems en tems fait publier, pour en arreter le
+#facs_245_r2l10 cours du mieux possible, le tout, en vie de préserver
+#facs_245_r2l11 par là nos chers et feaux Bourgeois et Sujets
+#facs_245_r2l12 de la perte qui leur en reviendroit, aussi bien
+#facs_245_r2l13 qu'à tous le Païs.
+#facs_245_r2l14 Cependant nous avons vu à regret et avec de plaisir,
+#facs_245_r2l15 que contre la teneur de nos Edits salutaires, émanes
+#facs_245_r2l16 à ce sujet, ces Monnoyes de bas alloi et de trop
+#facs_245_r2l17 petite valeur ne laissoient pas, que de sintroduire
+#facs_245_r2l18 dans le pays en abondance, et d'y avoir libre leurs
+#facs_245_r2l19 au grand prejudice de tout le pays, de maniere
+#facs_245_r2l20 que par la, non seulement il arrive, que les
+#facs_245_r2l21 bonnes especes d'Or et d'Argent se réhaupsent au dela
+#facs_245_r2l22 de leur juste valeur, ou sortent même du pays,
+#facs_245_r2l23 mais encore quil en resulte un dérangement de
+#facs_245_r2l24 Commerce très considérable, qui iroit toujours en
+#facs_245_r2l25 augmentant, si nous n'y apportons incepamment
+#facs_245_r2l26 les remedes convenables et effuaces.
+#facs_245_r2l27 Dans cette sud et pour garantir nos Etats d'un tel
+#facs_245_r2l28 dommage
+#facs_245_r3l1 199
+#facs_245_r3l2 jettérieur, nous avons résolu de pourvoie dans par les Pays et
+#facs_245_r3l3 Terres de Notre Domination d'une sufficante quantité de
+#facs_245_r3l4 bonne Monnoye, battue au loin de Notre Republique, et
+#facs_245_r3l5 de deffendre en même tems toutes autres Monnages Etran-
+#facs_245_r3l6 gères, ou bien de les reduire à leur valeur intrinseque, ainsi
+#facs_245_r3l7 quil sera contenu plus amplement dans les Mandats que
+#facs_245_r3l8 Nous avons dessein de faire publier, au plûtôt à ce sujet,
+#facs_245_r3l9 Afin donc que personne n'en souffre, et qu'un chacun
+#facs_245_r3l10 puisse de bonne heure se mettre à Couvert de la perte qui
+#facs_245_r3l11 lui arrideroit à l'Oreasion de cette Defense desdites Monnoyes,
+#facs_245_r3l12 Nous avons par un Effet de notre amour paternd bien voulu
+#facs_245_r3l13 avertir et exhorter très serieusement par ces presentes, tous nos
+#facs_245_r3l14 chers et feaux Bourgeois et Sujets de se defaire de bonne
+#facs_245_r3l15 heure de toutes les petites Monnoyes etrangéres de bas allois
+#facs_245_r3l16 qui ont été cy devant défendues par nos Edits et Ordonances
+#facs_245_r3l17 emanées à ce sujet, de même que des pièces de Quatre batz
+#facs_245_r3l18 de St Gall dont six se debitsient pour vingt Cinq Baches
+#facs_245_r3l19 Leurs enjoignants de nen plus apporter dans le Pays,
+#facs_245_r3l20 moins encore de les y debiter ou recevoir, d'autant que
+#facs_245_r3l21 Nous sommes dans la ferme resolution de faire executer
+#facs_245_r3l22 dans la suite à la Rigueur et sans remission en verstous
+#facs_245_r3l23 les Contrevenants, le Contenu des Mandats et Reglement
+#facs_245_r3l24 qui a cet effet seront dans peu publiés de notre part.
+#facs_245_r3l25 Ordonnons sur ce et commandons, que le présent
+#facs_245_r3l26 notre avertissement paternel, mais serieux, soit publie
+#facs_245_r3l27 en chaire et affiché aux Sieux accoutumes pour la
+#facs_245_r3l28 condicite d'un chacun. Donne en notre Grand
+#facs_245_r3l29 conseil le 17eme Decembre 1753.
+#facs_245_r3l30 Chancellerie de Berne

@@ -1,0 +1,169 @@
+Law ID: BER.01.001.3860
+Name: Der Weibspersohnen schrifftlichen Testamenten halber.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 158/158
+# High similarity (>=50%): 149
+# Low similarity (<50%): 9
+# Not found: 0
+#
+#facs_243_r2l6 1743.
+#facs_243_r2l7 Purgdorff
+#facs_243_r2l8 auf Mitbochen den 6ten febr.
+#facs_243_r2l9 Landshut
+#facs_243_r2l10 Kornherr
+#facs_243_r2l11 Donstags den 7ten. Dec.
+#facs_243_r2l12 St. Johäuser Hauß
+#facs_243_r2l13 Braubbrunnen
+#facs_243_r2l14 Montags den 11t. de
+#facs_243_r2l15 hinterlaker Haus
+#facs_243_r2l16 dud. sec
+#facs_243_r2l17 Mitbochen den 13ten. d.
+#facs_243_r2l18 Kouil
+#facs_243_r2l19 )
+#facs_243_r2l20 Primisperg
+#facs_243_r2l21 dousags den 14t. d.
+#facs_243_r2l22 Kreinspergerhaus
+#facs_243_r2l23 RupGaffen
+#facs_243_r2l24 8
+#facs_243_r2l25 Moulags den 18.ten
+#facs_243_r2l26 Dechenhaus)
+#facs_243_r2l27 Erlach
+#facs_243_r2l28 Mitbochen den 20.
+#facs_243_r2l29 Juxen
+#facs_243_r2l30 diquacél
+#facs_243_r2l31 Dousags, dem 21.n d.
+#facs_243_r2l32 Eydaul
+#facs_243_r2l33 Untersein
+#facs_243_r2l34 Bettisbyl
+#facs_243_r2l35 Montags den. 25.ten
+#facs_243_r2l36 Oberhoffen
+#facs_243_r2l37 Laupen
+#facs_243_r2l38 M. Abochen den 27. I.
+#facs_243_r2l39 bey dinnen.
+#facs_243_r2l40 Draudis
+#facs_243_r2l41 Dousags den 28. d.
+#facs_243_r2l42 Boll Stalt
+#facs_243_r2l43 Hinterlaten
+#facs_243_r3l1 H67.
+#facs_243_r3l2 Hinterlaten.
+#facs_243_r3l3 Montags den 4ten Marty
+#facs_243_r3l4 Dümisbald
+#facs_243_r3l5 Mitbochen den 8t. d.
+#facs_243_r3l6 Thorberg
+#facs_243_r3l7 Trachselbald
+#facs_243_r3l8 Toußags den 7ten d.
+#facs_243_r3l9 Wimis
+#facs_243_r3l10 Montags den 11t. d
+#facs_243_r3l11 thun
+#facs_243_r3l12 Prutigen
+#facs_243_r3l13 Mitbochen den 13ten. do
+#facs_243_r3l14 Insul
+#facs_243_r3l15 Diberstein
+#facs_243_r3l16 Donstags den 14. d.
+#facs_243_r3l17 Aarburg p.
+#facs_243_r3l18 Montags den 18t. dto
+#facs_243_r3l19 Daubherr von Jürgere,
+#facs_243_r3l20 Mitbochen den 20ten. d.
+#facs_243_r3l21 Wangen
+#facs_243_r3l22 St. Johansen
+#facs_243_r3l23 Donstags den 21ten dto
+#facs_243_r3l24 Aarbangen
+#facs_243_r3l25 Sipp
+#facs_243_r3l26 Montags den 25ten
+#facs_243_r3l27 C.
+#facs_243_r3l28 vaven
+#facs_243_r3l29 Stifft.
+#facs_243_r3l30 Ritbochen den 27.
+#facs_243_r3l31 Pchenhenberg
+#facs_243_r3l32 Caßelen
+#facs_243_r3l33 Goußags den 28ten. do
+#facs_243_r3l34 2 amberg
+#facs_243_r3l35 Ahlen
+#facs_243_r3l36 Monlags den. 1. Aprilis
+#facs_243_r3l37 Pensburg
+#facs_243_r3l38 Jofingen
+#facs_243_r3l39 Witbochen den 3ten do
+#facs_243_r3l40 Rouys Selden
+#facs_243_r3l41 Jonstags den 4. de
+#facs_243_r3l42 Bro. Sfittahl
+#facs_243_r3l43 Deut sich Febel Schreiberey
+#facs_244_r1l1 16 x
+#facs_244_r1l2 Collat.
+#facs_244_r2l1 Dus
+#facs_244_r2l2 Alle teutsche AmtLeuth, Vier Stall,
+#facs_244_r2l3 Item per
+#facs_244_r2l4 ,
+#facs_244_r2l5 Preyweybel und amau¬
+#facs_244_r2l6 Gedull an Canzel, denn an Melzöhl der
+#facs_244_r2l7 reichischen Appellation Camer, daß Statt,
+#facs_244_r2l8 -
+#facs_244_r2l9 Weysen Gerichts, und äußeren
+#facs_244_r2l10 Stall Brichts.
+#facs_244_r2l11 der weibs Persohnen schrifftlichen Testamente
+#facs_244_r2l12 halber
+#facs_244_r2l13 Schultheiß Räht und Burger./.
+#facs_244_r2l14 Als dann bey Unß die frag gebaltet, ob die
+#facs_244_r2l15 Weibs Persohnen schuldig und verbunden,
+#facs_244_r2l16 den buch ß äblichen Inhalt Ihrer auffrichtenden
+#facs_244_r2l17 schrifftlichen Testamenten, denen Gezeugen
+#facs_244_r2l18 straffenbahren, oder verlesen zulaßen.
+#facs_244_r2l19 damit solche Ihre Testament nachberts im
+#facs_244_r2l20 rechten bestand haben; Und nun disere sache,
+#facs_244_r2l21 erforderlicher maßen Wir untersuchen
+#facs_244_r2l22 und gestaltsamme Unschinterbringen laßen
+#facs_244_r2l23 Habend nach reiffer deren Überlegung, und
+#facs_244_r2l24 damit verdrießlichen Streitigkeiten, so daher
+#facs_244_r2l25 entstehen könten, in Zeith annoch vorgebogen berden
+#facs_244_r2l26 Wir aus Lands vällerlicher Vorsorg
+#facs_244_r2l27 Erläutherung Unserer Testamenten Ordnung
+#facs_244_r2l28 vom 30ten December 1691. zu Statuiren gut¬
+#facs_244_r2l29 funden, sehen und Ordnen demnach hiemit,
+#facs_244_r2l30 daß gleichwie bis anhero denen Weibs Persoher
+#facs_244_r2l31 Wir zugelaßen, den Juhalt Ihrer schrifftlichen
+#facs_244_r2l32 Testament
+#facs_244_r4l1 ui 69
+#facs_244_r4l2 Testamenten denen Bezeugen zur Denbahren
+#facs_244_r4l3 oder nicht, also auch fürters hin Sie nicht schuldig
+#facs_244_r4l4 und verbunden seyn sollen, Ihre aufrichtende
+#facs_244_r4l5 schrifftliche Testament dem Bezeugen Verlesen
+#facs_244_r4l6 zulaßen, sonderen zu deren Gültigkeit genugsam
+#facs_244_r4l7 daß durch Ibey Expresse beruffene ohnsterberff¬
+#facs_244_r4l8 liche gezeugen, gleich in Ansehen der Männeren
+#facs_244_r4l9 es geschieht, auch disere der Weibs Persohnen
+#facs_244_r4l10 Testament nebst daß Notary signatur. Inbendig¬
+#facs_244_r4l11 zu End der selben von der Zeugen eigenen Hand
+#facs_244_r4l12 Es übrigens
+#facs_244_r4l13 unterschriben seyn.
+#facs_244_r4l14 ohnab geändert bey dem völligen Inhalt oban¬
+#facs_244_r4l15 gezogener Testamenten Ordnung vom 30.
+#facs_244_r4l16 December 1691. bebenden laßende; welch
+#facs_244_r4l17 gegenbärtige Unsere Erlautherung zu
+#facs_244_r4l18 nänglichs hinkünfftiger Nachricht offentlich
+#facs_244_r4l19 von Canzlen verbunden, auch behörigen Orts In
+#facs_244_r4l20 dem Mandaten durch einschreiben zu laßen, du
+#facs_244_r4l21 bestens büßen Bürst. Datum den 19ten Decembris
+#facs_244_r4l22 1742.
+#facs_244_r4l23 An
+#facs_244_r4l24 Alle teutsch und weltsche Amt Leuth, Vier
+#facs_244_r4l25 Ställ, Preybeybel und Amau¬
+#facs_244_r4l26 die In Uugaren eingerißene Post ansehend.
+#facs_244_r4l27 Schultheiß und Raht etc.
+#facs_244_r4l28 Bleichbie die, in Ungarn bidermahls eingerißene
+#facs_244_r4l29 fest Unsere Geliebte Sanital Rath, in kraff
+#facs_244_r4l30 Ihnen
+#facs_245_r3l1 Ihnen Hochoberkeitlich aufgetragener
+#facs_245_r3l2 Instruction und Behalts, zu der, die
+#facs_245_r3l3 und anderen Amt Leuten, Burklich übersenten
+#facs_245_r3l4 gedrukten Vorsorg, bebogen; als habend
+#facs_245_r3l5 Wir dir hiemit befehlen wollen, nach Außleist
+#facs_245_r3l6 dieser Cammer Verordnungen, und das Zeh¬
+#facs_245_r3l7 nach erheüschenden Umständen der Zeith
+#facs_245_r3l8 dieselbe an dich deß ferneren wird gelangen
+#facs_245_r3l9 laßen, alles pflichmäßig und so geflißenlich
+#facs_245_r3l10 als förder samst zu beberkstelligen.
+#facs_245_r3l11 Naßen Wir Unß deßen zu dir bestens
+#facs_245_r3l12 versehend. Datum den 29. Decembris
+#facs_245_r3l13 1742

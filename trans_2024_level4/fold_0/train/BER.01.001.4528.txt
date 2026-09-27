@@ -1,0 +1,93 @@
+Law nr: BER.01.001.4528
+Name: Aufhebung des in ihren Ämteren sich befindlichen Roggen Vorraths und Verwandlung in andere Getreidarten.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 81/81
+# High similarity (>=80%): 72
+# Low similarity (<80%): 9
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_24_r2l6 die Herren Amtleut zu Königsfelden,
+#facs_24_r2l7 Fenzburg de Senhenberg, aus Leberstein
+#facs_283_r2l12 Landen ankaufen und daraus ab¬
+#facs_24_r2l9 auch zu Buchke und Aarberg. Sep
+#facs_24_r2l11 Aufhebung des in ihren Amteren sich
+#facs_24_r2l12 befindlichen Roggen Vorraths
+#facs_24_r2l13 und Verwandlung in andere Petrie Arten
+#facs_273_r3l15 Schultheis Räth und Burger
+#facs_24_r2l15 aus hinlänglichen Uns dazu bewegend.
+#facs_24_r2l16 Gründen, Wir gut befunden und erken¬
+#facs_24_r2l17 den bey Euerem Amt sich vorfindenden
+#facs_24_r2l18 Obrigkeiten unwandelbaren oder so ge¬
+#facs_24_r2l19 nanten Kriegs Vorrath an Roggen auf¬
+#facs_24_r2l20 zuheben, und solchen in andere Getreng
+#facs_24_r2l21 Arten zu verhandlen, zumahl in dieser
+#facs_24_r2l22 Absicht verordnet, daß alda
+#facs_24_r2l23 An platz der 860. Bern Müdt Roggen,
+#facs_24_r2l26 450. Mütt Dinkel und 320. Mutt Haber
+#facs_24_r2l25 An platz der 460. Bern Mudt Roggen,
+#facs_24_r2l26 450. Mütt Dinkel und 320. Mutt Haber
+#facs_24_r3l1 au Baugen
+#facs_24_r3l2 An Anlangen
+#facs_24_r1l4 au Leuzburg
+#facs_24_r3l4 au Tiberstein
+#facs_55_r4l26 Augusts
+#facs_53_r3l42 3. Aarberg
+#facs_24_r4l1 An Platz der 1095. Bern Mütt Roggen,
+#facs_24_r2l26 450. Mütt Dinkel und 320. Mutt Haber
+#facs_24_r4l3 An plaz der 175. Bern Mütt Roggen,
+#facs_24_r4l4 350. Mütt Haber
+#facs_24_r4l5 An platz den 80. Bern Mütt Roggen,
+#facs_24_r4l6 160. Mutt Haber
+#facs_24_r4l7 An platz der 30. Bern Mütt Roggen,
+#facs_24_r4l8 60. Mutt Haber.
+#facs_24_r4l9 An platz der 136. Kern Mütt Roggen,
+#facs_24_r4l10 204. Mütt diekel
+#facs_24_r4l3 An plaz der 175. Bern Mütt Roggen,
+#facs_24_r4l12 83. Müdt Dinkel
+#facs_24_r4l13 geschüdtet werden sollen.
+#facs_23_region_1633454616028_2913l1 An
+#facs_24_r4l15 In ansehen der Zeit aber, wenn diese
+#facs_24_r4l16 Verwandlung vorzunemmen. So ist deret¬
+#facs_24_r4l17 halb Unser hoch Obrigkeitliche Will um
+#facs_24_r4l18 Befehl, daß dieser Roggen Vorrath von
+#facs_24_r4l19 nun an, jedoch nur nach und nach, unter
+#facs_24_r4l20 denen vorgeschriebenen Cautelen zu kleine
+#facs_24_r4l21 kaufen in dem laufenden Preis, und
+#facs_24_r4l22 so dann bey dem mindest behältlichen der
+#facs_24_r4l23 Anfang gemacht, in ansehen der dahingen
+#facs_24_r4l24 Lofung dann und deren Verrechnung genau
+#facs_24_r4l25 nach Vorschrift des neuen Reuere Reglement
+#facs_24_r4l26 verfahren werden solle.
+#facs_34_r5l1 63
+#facs_7_r2l12 18
+#facs_8_r9l1 11
+#facs_25_r3l1 Welchemnach ihr das erlösende nicht.
+#facs_25_r3l2 Euere Amts Rechnung bringen = sondern
+#facs_25_r3l3 besonders verrechnen, und so bald das
+#facs_25_r3l4 Gels wird eingegangen seyn, selbiges
+#facs_25_r3l5 Unserem fürgeliebten Mitrath Herren T.
+#facs_25_r3l6 ubelmeister Steiger zukommen laßen werde.
+#facs_25_r3l7 Was dan die wieder Ersatzung des abge¬
+#facs_25_r3l8 stoßenen Roggenkorraths auf vorange¬
+#facs_25_r3l9 regtem Fuß in Dinbel /: Haber :/ oder Dintzel
+#facs_25_r3l10 und Haber) anbetrifft, so soll solche nur
+#facs_25_r3l11 nach und nach, und zwar nicht eherbescheh¬
+#facs_25_r3l12 als bis der Preis des Diebels auf
+#facs_25_r3l13 drey Kronen- und des Habers auf
+#facs_25_r3l14 zwey Kronen sehen Tagen der Bernmütt¬
+#facs_25_r3l15 wieder hinunter gefallen seyn wird, und
+#facs_25_r3l16 behaltliches Getreid aufgeschicket werden
+#facs_25_r3l17 an, als auch zu dem End der Befelch
+#facs_25_r3l18 von vorerkehnt unseren Furgeliebten
+#facs_25_r3l19 Miträthen eingeholt uns erwartet werden soll.
+#facs_25_r3l20 Wie in eint- und anderem zu thun,
+#facs_25_r3l21 und diese Vorraths Veränderung so wohl
+#facs_25_r3l22 in dem Schlos Mandaten Buch als auch
+#facs_25_r3l23 in Euerer Amts Instruktion nachrichtlich
+#facs_25_r3l24 einschreiben zu laßen, Ihr bestens wißen
+#facs_25_r3l25 werdet. Dat. d. 3. Merz 1783

@@ -1,0 +1,491 @@
+Law ID: BER.01.001.1485
+Name: De modo procedendi wider die Hexen.
+
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 478/478
+# High similarity (>=50%): 459
+# Low similarity (<50%): 19
+# Not found: 0
+#
+#facs_200_r4l12 de modo procedendi wie
+#facs_200_r4l13 die Hexen
+#facs_200_r4l14 Schuldtheif vndt Rast der Statt Bern
+#facs_200_r4l15 Die Vngleiche vnndt theils vngewohnliche scharpfe pro
+#facs_200_r4l16 cedures vnd Verfahrung, In Anziehung vnd nachvolgig pyne
+#facs_200_r4l17 licher examination der, deß leidigen und abscheüch-streff¬
+#facs_200_r4l18 lichen Lasters der hexerey verdechtigen persohnen, Häten
+#facs_200_r4l19 Vns mit vnbillichen Anlaß geben, den Sachen vndt wie Ins
+#facs_200_r4l20 künfftig mit dergleichen procediert, vndt ohne exorbitants ver-
+#facs_200_r4l21 fahren werden solle, gebürendes nachdencken Zehaben etc.
+#facs_200_r4l22 Befalten wir vnsere deßwegen hievor schon Ao 1634
+#facs_200_r4l23 Ußgeschribne Ordnung für uns genommen, selbige er
+#facs_200_r4l24 dauret Undt Inn etwas erleuterung derselben, Hoch
+#facs_200_r4l25 Oberkeitlich angesehen, statuiert und geordnet, wie der
+#facs_200_r4l26 Bylag vfweisst: So wir die hiemit Inn Frantzösisch-
+#facs_201_r2l1 translatieet Zuuberschicken gutfunden, damit solches
+#facs_201_r2l2 allergehörigen Orten deiner Verwaltung Copeylich¬
+#facs_201_r2l3 Communiciret, vndt von den innen und anderen, die es
+#facs_201_r2l4 berührt, gebürend Observiert vndt darob gehalten,
+#facs_201_r2l5 undt zugleich seines Orts zu künfftiger Nachricht
+#facs_201_r2l6 Ordenlich eingeschriben werde.
+#facs_201_r2l7 Betreffend dann die müchel disem Verdambten Laster
+#facs_201_r2l8 vorzubunen, habend wir gutfunden, die hiemit (wie
+#facs_201_r2l9 gen übrigen Vnseren Ambtlichen weltschen Landts¬
+#facs_201_r2l10 auch beschicht) beurlichlich anzedeüten,
+#facs_201_r2l11 Erstlich daß zuovermydung vnuersühnlichem
+#facs_201_r2l12 Haß es p. den Armen Inn tröl gefecht furtz
+#facs_201_r2l13 Summarisch recht gehalten, das gesetz der Armen
+#facs_201_r2l14 Ordenlich observiert, und keines wegs gestattet
+#facs_201_r2l15 werden, das sie Lang am Rechten vmbgezogen: Auch
+#facs_201_r2l16 weder eijchen nach Armen, vnd Insonderheit
+#facs_201_r2l17 Wybspersohnen, umb Jeder geringen Versach
+#facs_201_r2l18 Willen wir vil beschicht, ein Eidt, so Leider mehr
+#facs_201_r2l19 Kosten zur Meinen vß schlacht, zugemutet und
+#facs_201_r2l20 abgenomen werde: daß ebner maßen die Lugen
+#facs_201_r2l21 hafften Verführischen Wahrsäger, Zeichendünter
+#facs_201_r2l22 Begner vndt dergleichen Lumpeng sind, keines¬
+#facs_201_r2l23 wegs torturiert, sonder abgeschaffet werdert. Undt
+#facs_201_r2l24 Weil der Kilchendienst das fürnembste mitel
+#facs_201_r3l1 Zur Verhütung deß Übels ist, aber nit durch uß bisher
+#facs_201_r3l2 sonderlich Im Weltschen Land hat können Ordenlich ange¬
+#facs_201_r3l3 wandt werden, Wyl daselbst etliche prediger Vff
+#facs_201_r3l4 einmahl etliche gmeinden Zuuersuchen, da Ihnen dann
+#facs_201_r3l5 schwer vndt Vilmahl wegen strenge des Weibers.
+#facs_201_r3l6 Vnmuglich fürfalt, vff ein Tag an so manches Ort sich zu¬
+#facs_201_r3l7 begeben, vndt so vil zur predigen, hiemit Ihren Berüff
+#facs_201_r3l8 nach ernoderlichem Yfer zu verrichten, danckhar
+#facs_201_r3l9 Das Volck Inn desto größerer Vnerkantnuß blijbt, Ist disem
+#facs_201_r3l10 Vbel auch zubegegnen von Vns thunlich erachtet worden,
+#facs_201_r3l11 dan dergleichen Orten, In den Kirchen, so nach Bey ein ande¬
+#facs_201_r3l12 en alle Sontag morgens ein predig In der einten In¬
+#facs_201_r3l13 der anderen dann zuö Abend der Chot Cathaehismus
+#facs_201_r3l14 vnd so alternatim Fürzefahren) gehalten, Vndt alle die
+#facs_201_r3l15 Zuhörer von Jedem ont dahin gebracht werdirt, all-
+#facs_201_r3l16 wegen daselbst wo man das wort Gottes Verkündet
+#facs_201_r3l17 vndt vflegt, wie sehr sie auch daruon zu Haus, Vnfäl
+#facs_201_r3l18 barlich wo es Ir müglich sich Inzustellen, Es söllent
+#facs_201_r3l19 hiemit so wolsumers alsßßß unters Zeit, anstatt
+#facs_201_r3l20 der Abend predigen Kinderlehren aber zu mehrer
+#facs_201_r3l21 erbauwung, nach hiesiger manier da nämlich=
+#facs_201_r3l22 der predigeant Inn der Kirch von einem zum an¬
+#facs_201_r3l23 dern examinando et Instruendo umbgeht angestelt,
+#facs_201_r3l24 Und so wol die Jungen als die Alten darzu gehalten werden,
+#facs_201_r3l25 Die Herrn Predicanten dann Inn Verstentlicher
+#facs_201_r3l26 familiarischen Vnderwysung zue desto bißerem Ver¬
+#facs_201_r3l27 stand des Volcks sich deßen mütter sprach so weit mich
+#facs_202_r2l1 lich gebrauchen, Insonderheit aber allemahl (nebend¬
+#facs_202_r2l2 gewohntein cathechisieres) expresse reden Vndt Handlen,
+#facs_202_r2l3 C
+#facs_202_r2l4 von des Sataus macht, Ansatz vnnd Versuchungen,
+#facs_202_r2l5 wie der möntsch dem Allein widerstand thun könne
+#facs_202_r2l6 vndt solle.
+#facs_202_r2l7 Vber diß alles findend wir auch gut und ersprießlich
+#facs_202_r2l8 Das Wo verspürt wurde, daß ein persohn In solche
+#facs_202_r2l9 deß Satans Versuchungen käme Vnd Zue seinem Willen
+#facs_202_r2l10 glockat würde, aber noch nit sich ergeben hette, dis Orts
+#facs_202_r2l11 Der Herr Vorstand er gute Vff sicht vff sy haben
+#facs_202_r2l12 sie fründtlich Zu sich z beschicken, vnd vff den rechten
+#facs_202_r2l13 weg wysen, oder ihre ohne besorg einicher gefahr zu
+#facs_202_r2l14 gelaßen, ge selbst sich zu vor Ime Hn. vorstehnder zu begeben
+#facs_202_r2l15 Ihr naligen vnd aufrichtung zue offenbahren, von Ime
+#facs_202_r2l16 sich trösten vndt vomunteren Zlaßen, damit sie durch
+#facs_202_r2l17 dise Göttliche mittel dem Satan auß den Klauwen
+#facs_202_r2l18 irreret werden könne, Indoch soll der prediger
+#facs_202_r2l19 solches Inn geheim zubehalten ernsthafftig vermant
+#facs_202_r2l20 seig, Welcher dann auch Ir nach glegenheit und ver¬
+#facs_202_r2l21 spürender Sachen Beschaffenheit seine predigen dar-
+#facs_202_r2l22 nach richten kan, mit Vermahnung, wo der ein Vnns oder
+#facs_202_r2l23 ander Inn dergleichen schwere tentationen, denen die
+#facs_202_r2l24 undischen Vß Gottes Verhengnuß wiederworffen,
+#facs_202_r2l25 sie frölich zue Jun komen soll ind vnd mögend, die er
+#facs_202_r2l26 gnickliche Selenspreiß von Junc zuempfach.
+#facs_202_r2l27 Es soll auch zu den Schulen, wie dieselben In allen dörfferen
+#facs_202_r2l28 recht angestellt undt durchtugentliche Schulmeister
+#facs_202_r2l29 Versechen werdirt, sorg getragen undt wohl darob-
+#facs_202_r3l1 urung
+#facs_202_r3l2 gehalten werden, das die Jugent Vnder anderem mit Vß=
+#facs_202_r3l3 wendig Lehrung des Cathechismi sich übe, deßen Vßlegung
+#facs_202_r3l4 hernach Inn den Kinderlehren desto besser zuuerstehen: Daß
+#facs_202_r3l5 auch alle Haußvätter bey hocherstraff gemant werd int, ihre
+#facs_202_r3l6 Kinderfleißig zu die Schul vnd Kind erlehren zu schicken,
+#facs_202_r3l7 Das nit nur zur Wienacht, sonder auch zu Österlicher zeit
+#facs_202_r3l8 gewöhnliche Interrogats nit allein offentlich zu Kirchen, sondern
+#facs_202_r3l9 auch privatim Innhüßeren gehalten Vndt das Volck vom rechten
+#facs_202_r3l10 gebruch der H. Sacramenten nach nohtdurfft fleißig Vnder¬
+#facs_202_r3l11 wisen, wie nit weniger die betreübten Besucht getröstet
+#facs_202_r3l12 Item auch zu gewißen Tagen der Wochen In Indem Ort
+#facs_202_r3l13 Zu gewüßer Stund, durch eine des Lesens berichtete per¬
+#facs_202_r3l14 Sohn ein ginein, Jedoch kurtz begriffliches gebet expressi¬
+#facs_202_r3l15 wider deß Sataus tentation gerichtet, gehalten, vnd Jeder
+#facs_202_r3l16 Inwohner by hocher straff allwegen Wo Iuver Leibs=
+#facs_202_r3l17 halb müglich, binn gebet zuerscheinen gemant werde.
+#facs_202_r3l18 Vndt damit obigen so wol von den Predigeren, Schul¬
+#facs_202_r3l19 meistern Alß Zuhörrern ohne hindersachen nachkommen
+#facs_202_r3l20 werde. Ist Vnser wil das die visitatores an jedem
+#facs_202_r3l21 Ort allwegen selbst Cathachisieren, die zuhörer examinie:
+#facs_202_r3l22 ren undt berffen heilen sollind, Zuerforschen, ob sy in guten
+#facs_202_r3l23 früchten Wachsind, oder an dem es mangle, damit der¬
+#facs_202_r3l24 fälbare zu syner pflicht gehalten werden möge, Maßen
+#facs_202_r3l25 Du auch für dich selbst, vndt so weit müglich hand obzuhalten
+#facs_202_r3l26 Wüßen Wirst, wo sehr aber der prediger beßerer ab¬
+#facs_202_r3l27 theillung halb eine komlichere Form also bererliteret,
+#facs_202_r3l28 von der Class mit Deinem Zuthun fundindt, willend wir deßen
+#facs_202_r3l29 gern gewarten, Vndt demnach die Weitere nohtdurfft zu
+#facs_202_r3l30 bruelchen Uns nit zuö wier sein laßen. Hoff mit die
+#facs_202_r3l31 65
+#facs_202_r3l32 Datum 29. Decembris 1652.
+#facs_203_r1l1 3881
+#facs_203_r1l2 c.
+#facs_203_r1l3 Erstlich wann ein persohn durch eine Premieremt. Quand une personne
+#facs_203_r1l4 Der Hexerey bekäntliche gfangert sera accoulpée et accusée par une autre
+#facs_203_r1l5 angeben vndt beschuldiget wurdt detenue p. crime de sorcellerie de
+#facs_203_r1l6 daß die In den Secten und Versam=landir veu en la seite et Synagoge
+#facs_203_r1l7 lungen seye gesuchen worden, vndt
+#facs_203_r1l8 sans autre acte de realite, encores
+#facs_203_r1l9 ceste acculpaon, se sist par quatre
+#facs_203_r1l10 aber mit thäfflichs böses verbracht ou plusieurs fois ce neantmoings
+#facs_203_r1l11 Obschon soliches bis Jus viert on ny doibt point fonder, ains cela
+#facs_203_r1l12 oder mehemahl beschehe daß doch debura estre tenu et reputé pour
+#facs_203_r1l13 nutzit darauff gesatzt sonder – une pure illusion et tromperie de
+#facs_203_r1l14 soliches für ein Muson, Verbleußatan, sans sy arrester en facon
+#facs_203_r1l15 dung undt Betrug deß Satans — g. de soit.
+#facs_203_r1l16 gehalten undt geachtet werden.
+#facs_203_r1l17 soll.
+#facs_203_r1l18 Wie woll und auch hiemit angesach Nous voulons aussy pr. esclaircissemt.
+#facs_203_r1l19 vndt erlütrent haben, daß vor que lon ne fera aucun cas des
+#facs_203_r1l20 das gemeineschelten schmeichen, da pro pos Iniurieux p. souvent arriv
+#facs_203_r1l21 nämlich ein persohn die andere vent, quand une personne appelle
+#facs_203_r1l22 ein hexoder Bexenmeister und lautre sorcier, sorciere, ou en
+#facs_203_r1l23 Dergleichen schilten, undtaber-autres semblables termes, sans en
+#facs_203_r1l24 selbige wort, nit widerumb ab procurer liberation.  Reparum
+#facs_203_r1l25 sich thuff, ebenmeßig mit geschechen
+#facs_203_r1l26 werden solle.
+#facs_203_r1l27 Es werde daß die Wort Sinow et entend que les parolles
+#facs_203_r1l28 ein sonderbahren schein decreali: proferees, ayent une pleine appa
+#facs_203_r1l29 tot Jurzino vidt wurdig werind renae de la realité du faict, et
+#facs_203_r1l30 vns derselben Zuberichten Innen quils fussent dignes de nous en
+#facs_203_r1l31 donner advis, auquel cas Icelles
+#facs_203_r1l32 Wolichen, aß was dieselbigen nur deburont estre envoyées
+#facs_203_r1l33 undt allen vmbstenden, sambt dem clairem. Par escript, a nae toutes
+#facs_203_r1l34 anlaß der Worten, deütlich vnd ses circonstances necessaires
+#facs_203_r2l1 Vmbstendtlich sollend überschriben et le subject desdes. parolles, pour
+#facs_203_r2l2 Vnd unsers verneren Willens
+#facs_203_r2l3 sur ce attendre nre ulterieur
+#facs_203_r2l4 undt Bevelchs darüber erwant=
+#facs_203_r2l5 Comandement,
+#facs_203_r2l6 werden
+#facs_203_r2l7 Ehe vnnd zuuor man zur Informaön¬
+#facs_203_r2l8 En outre avant que de prendre
+#facs_203_r2l9 Vff nam, wider einiche persohn Inn
+#facs_203_r2l10 aucune Informato a a subjec
+#facs_203_r2l11 dergleichen fählen schreite, sollend wir
+#facs_203_r2l12 contre qui que ce doit il nous sera
+#facs_203_r2l13 Heuordrist umbstendtlich berichtet
+#facs_203_r2l14 bonne advis en general on quelle
+#facs_203_r2l15 werden. Ins gemein was die ac
+#facs_203_r2l16 reputation la personne accusée est
+#facs_203_r2l17 cusierte persohn für Lümbdens sich
+#facs_203_r2l18 Warum sie verdechtig, wie Vnd
+#facs_203_r2l19 en quoyelle est soubçonnée, coe-
+#facs_203_r2l20 Beßertwegen sie accusiert vndt et quoy elle est accusée, &
+#facs_203_r2l21 n-
+#facs_203_r2l22 telles autres circonstances pour la
+#facs_203_r2l23 dergleichen etc. Vnserer Vernehmen dessus attendre nre ulterieure
+#facs_203_r2l24 Erkäntnus darüber zuerwar, volonte
+#facs_203_r2l25 n.
+#facs_203_r2l26 Es sollend auch Im Fahl der Informa¬
+#facs_203_r2l27 Et au cas qu'on vint à prendre
+#facs_203_r2l28 tion offnam wider minse per informaon contre quelquun, les
+#facs_203_r2l29 ten Bezügen der Acusiaten persohn tesmoinys debaront estre pntes
+#facs_203_r2l30 fürgestelt werden, Ob Villicht sie a Celay qui est accasé, pr voir
+#facs_203_r2l31 den einten oder anderen nachdem sil pourra en vertu de nos loix
+#facs_203_r2l32 gsatz können verwerffen, vndt
+#facs_203_r2l33 sur ce establies des advouer &
+#facs_203_r2l34 hinderstellig machen
+#facs_203_r2l35 refuter l'un ou l'autre
+#facs_203_r2l36 Wir wollend das die Vnderre
+#facs_203_r2l37 Nous voulons aussy plus Copfe
+#facs_203_r2l38 Jungen böses Zethun an die sect
+#facs_203_r2l39 rences de faire du mal, d'aller a
+#facs_203_r2l40 Zegahn, Vndt derglijchen so daß tag la secte et autres tels pro parler
+#facs_203_r2l41 beschechend, als obenmeßig Teüff-
+#facs_203_r2l42 quise font de jour ne debvront
+#facs_203_r2l43 lische Verblendungen für keine
+#facs_203_r2l44 plus outre estre tenues pr rea
+#facs_203_r2l45 nugsam̄e realitet halten Vndt
+#facs_203_r2l46 lites suffisantes, comme estants
+#facs_203_r2l47 Wurde niemand geurhdet noch
+#facs_203_r2l48 de mesme une Illusion diabolique
+#facs_203_r2l49 ungezogen werden sollen
+#facs_203_r2l50 «
+#facs_203_r2l51 Et partant a cest occaon personne
+#facs_203_r2l52 de debura estre molestée, ny
+#facs_203_r2l53 incarcerée
+#facs_204_r1l1 390
+#facs_204_r1l2 Bann aber ein persohn von Zwey=Mais au cas qu'une personne fust
+#facs_204_r1l3 nen, Böses verbracht zu haben, auch
+#facs_204_r1l4 accusée et accoulpée par deux art.
+#facs_204_r1l5 d'avoir faict du mal que l'accusation
+#facs_204_r1l6 ben Vndt beschuldiget, die Anclag de deux soit confonante, Et que la
+#facs_204_r1l7 von zweyen ankegern einstimmig
+#facs_204_r1l8 chose first vray semblable a une rea
+#facs_204_r1l9 wurde, undt hiemit einer
+#facs_204_r1l10 lite comise, En sorte que la person
+#facs_204_r1l11 accusée aye comis de cy, ou cela ou
+#facs_204_r1l12 realischen verbrachten Tharffgleich sestre aide a le faire. En ce cas
+#facs_204_r1l13 sachen wurde also das die Augen: pourra on suiure contre telle personne
+#facs_204_r1l14 klagte persohn dise oder Inne par emprisonnem. par verval et
+#facs_204_r1l15 that verbracht oder Verbring
+#facs_204_r1l16 serieux Examen par deve visite
+#facs_204_r1l17 helffen, Im selbigen fahl mag ge¬
+#facs_204_r1l18 de la marque Satanique et par con-
+#facs_204_r1l19 frontaon avec celuy qui l'aura ac
+#facs_204_r1l20 gen denselben mit glaücklicher iusu, neantmoings avec cest expressé
+#facs_204_r1l21 einzmühung, consträntigem esclaircissem. que aependant on sen
+#facs_204_r1l22 Examine, visitation duß Cata: querra diligem. avec toutes les
+#facs_204_r1l23 ischen zwischennus, vnd Confrontation circonstances necessaires de la reçu
+#facs_204_r1l24 gegen den anklegern fürgefaßlite du faict d'avoir faice du mal
+#facs_204_r1l25 ren werden: Mitt diser vB=a gens et bestes, ou choses semblable
+#facs_204_r1l26 truckenlichen erlüterung doch Assauoir si cela est vrayemt arrive
+#facs_204_r1l27 daß auch vnder deßen der=
+#facs_204_r1l28 ou non, l. dequoy sera faict deüe
+#facs_204_r1l29 mention tousjours dans les process
+#facs_204_r1l30 klagten Thar, Leüt, gurt und dem er en las, que rel acte se treuust
+#facs_204_r1l31 gleichen verderbt zu haben, mit en effect et que l'accusateur vint
+#facs_204_r1l32 allen ernorderlichen Umb=a mourir constament la dessus,
+#facs_204_r1l33 standen precißis nachgeforschet Et que non obstant le serieux
+#facs_204_r1l34 werden soll, ob selbige eigent=Examen verbal une telle per
+#facs_204_r1l35 lich ernolget, oder mit deßen sonne accusée, et a peu pres
+#facs_204_r1l36 nicht in denen plönschen allewegen - convainque ne voulust entrer en
+#facs_204_r1l37 mütlich soll gesandt werden) Consession: Alors sera il loisible
+#facs_204_r1l38 Andt so is saith do facto also or the prendre informaon contre elle
+#facs_204_r1l39 findes, die ausgegere auch daruf des ses comportements, et vie passée
+#facs_204_r1l40 &
+#facs_204_r2l1 sterben wurdirt, vndt über
+#facs_204_r2l2 et se trouvant par la de plus fort
+#facs_204_r2l3 solches ernstwörtiges examen
+#facs_204_r2l4 soubconnee de suivre contre
+#facs_204_r2l5 Wie die Beklagte, Und also bey nacher
+#facs_204_r2l6 elle avec la simple torturæ, pour
+#facs_204_r2l7 ber wißene persohn, nützit Be¬
+#facs_204_r2l8 par apres du toutage nous donner
+#facs_204_r2l9 kente alßdann mit Berichts Vf¬
+#facs_204_r2l10 advis.
+#facs_204_r2l11 nennung Ihres gefueten handels
+#facs_204_r2l12 und Bandels fürzufahren,
+#facs_204_r2l13 vndt so Sie dardurch argwonig
+#facs_204_r2l14 gefunden Wirt, mit zimlicher
+#facs_204_r2l15 Marter wider Sie zeprocedieren
+#facs_204_r2l16 Vndt deßervolgs vns zebe-
+#facs_204_r2l17 richte
+#facs_204_r2l18 daerin
+#facs_204_r2l19 Wan In der nachforschung des Et pour estre tant plus asseure
+#facs_204_r2l20 Zwister zesem, findend wie en ceste inquisition, nous treuvons
+#facs_204_r2l21 mit Vnthümlich, daß wann ein bon quanti uncheval, boeuf, vache et
+#facs_204_r2l22 Rost Pfenwerdt und der
+#facs_204_r2l23 autres telles bestes viennent à
+#facs_204_r2l24 leichen abgast, daß durch den mourir quod Icelles pourroyent estre
+#facs_204_r2l25 Wasenmeister, selbiges (wie
+#facs_204_r2l26 visitees, et ouvertes par le Maistre,
+#facs_204_r2l27 l. coe on a de coustume en nre
+#facs_204_r2l28 In Vnserem Teutschen Laus Pays Allemand) pr sen resouvenir
+#facs_204_r2l29 zugeschehen pflegen) allwegen W. cas escheant
+#facs_204_r2l30 geöffnet werden, und man
+#facs_204_r2l31 deßen vff begebenden fahl
+#facs_204_r2l32 eingedenk sein möchte.
+#facs_204_r2l33 Dir anwendten Marter Halbaber Mais quant a ce qui est de la
+#facs_204_r2l34 Ist Vnser gäntzlicher Will, mei= torture, qui peut estre appliquée,
+#facs_204_r2l35 nung vnd brinlich, daß aber gegen Est nostre entiere volonte et
+#facs_204_r2l36 kein vnd anderen die Vrschap= wie andement: Quon no se servira
+#facs_204_r2l37 tenhuit der Leibs disposition d'aucune espece de torture
+#facs_205_r1l1 Harin
+#facs_205_r1l2 stercke Alters oder blödigkeit halb
+#facs_205_r1l3 extraordinaire et inusitée, sa
+#facs_205_r1l4 fürsichtig betrachtet, undt demselb
+#facs_205_r1l5 bien que, en cas qu'il y fallust
+#facs_205_r1l6 nach wider die ein und anderen
+#facs_205_r1l7 applicquer quelque personne Jalle,
+#facs_205_r1l8 verfahren, undt hierin alle Besche¬
+#facs_205_r1l9 Soibura en premier endurer la simme,
+#facs_205_r1l10 denheit gebraucht werden soll, auch
+#facs_205_r1l11 ble corde, et puis apres la pierre
+#facs_205_r1l12 de 25. R. que nous appellons simple
+#facs_205_r1l13 gegen solchen Armen Leichten einiche
+#facs_205_r1l14 porture, et en cas qu'elle ne voulust
+#facs_205_r1l15 ist
+#facs_205_r1l16 ungewohnte Marter gebraucht
+#facs_205_r1l17 faire deüe confession avec la
+#facs_205_r1l18 werden, Also Wann oberluter,
+#facs_205_r1l19 pierre de 50 mr qui est la moyenne
+#facs_205_r1l20 orture: Et apres avec la piesse
+#facs_205_r1l21 fer maßen müche persohn an die
+#facs_205_r1l22 du quintal, qui est la derniere
+#facs_205_r1l23 Marter solte geschlagen werden
+#facs_205_r1l24 torture, tousjours pr. trois levée
+#facs_205_r1l25 selbige färs erstmahl Lär Vfzogen
+#facs_205_r1l26 s'il est recogneu necessaire, le tout
+#facs_205_r1l27 Dannnthin mit dem 25. xxx welche
+#facs_205_r1l28 mantmoings avec reste circon
+#facs_205_r1l29 spection que la personne sera
+#facs_205_r1l30 wie zimliche Manter namsendt
+#facs_205_r1l31 deüemt. considerée en son aaye
+#facs_205_r1l32 Undt nit genug am Bekant aus mit
+#facs_205_r1l33 en la disposition de son corps
+#facs_205_r1l34 dem 50. lbigen, volgendts mit dem
+#facs_205_r1l35 si elle est de naturel robuste
+#facs_205_r1l36 foible, imbecille ou non, pr selon
+#facs_205_r1l37 Cantnerigen Stim so da nohtwende: ae estre suivy contre elle
+#facs_205_r1l38 von nöth
+#facs_205_r1l39 se marter genamset riet, all=sans permettre quil y soit
+#facs_205_r1l40 wegen wo xyz zum dritten Faick aucun excess
+#facs_205_r1l41 macal. Und mit weiters aber gegen den ein vnd andern die beschaffenheit der Leibs disposition
+#facs_205_r1l42 vnd hit
+#facs_205_r1l43 Herrtz. Alters oder blötigkeit halben fürsichtig betrachtet, vnd demselben nach vnd die einen
+#facs_205_r1l44 Er bscheidenheit gebraucht werden solle.
+#facs_205_r1l45 Es sollen auch keine ungewohnte Il est aussy deffendu par express
+#facs_205_r1l46 gefangenschafften gebraucht, sonders de ne se seroir d'aucunes prix
+#facs_205_r1l47 solche Arme Leüt In rechter Landts sous aetra ordinaires, Ains
+#facs_205_r1l48 gewonlicher Verwahrung enthal=voulons, et entendons que ces
+#facs_205_r1l49 ten werden dann Vndtlicher es sijnd pauvres gens soyent decenus
+#facs_205_r1l50 Vnserer Raubtlichten, oder auch vnd dans des lieux en tel casavois
+#facs_205_r1l51 furnemlich vnsere Vassallen.
+#facs_205_r1l52 stumés par tout le Pays: Car
+#facs_205_r1l53 en cas que quelquun de nos Ballys
+#facs_205_r1l54 wel
+#facs_205_r2l1 undcht anerheeren hierwider
+#facs_205_r2l2 ome aussy principalemt. nos
+#facs_205_r2l3 handlen Wurdirt, behaltend wie
+#facs_205_r2l4 Vassaulx fissent du contraire
+#facs_205_r2l5 ves hiemit ußtrückenlichen vor,
+#facs_205_r2l6 Nous nous reservons fort expressem¬
+#facs_205_r2l7 Ich nach gestalt der Sach, wider
+#facs_205_r2l8 deu ordonner le chastiment merite
+#facs_205_r2l9 den ein Vndt anderen die geb.
+#facs_205_r2l10 selon l'exigence du faict
+#facs_205_r2l11 ende Verdiente straff zuer¬
+#facs_205_r2l12 kennen
+#facs_205_r2l13 Inn des Processen soll alles deut
+#facs_205_r2l14 dans les procedures le rout debura
+#facs_205_r2l15 lich und umbstendtlich beschreibt
+#facs_205_r2l16 stre clairem. et avec toutes les cir
+#facs_205_r2l17 werden, wie die persohn accus
+#facs_205_r2l18 constances requises inscript, comme et
+#facs_205_r2l19 siert, Überwißen, vmb was
+#facs_205_r2l20 n quelle maniere la personne est
+#facs_205_r2l21 sachen etc. undt wie dieselben Ver¬
+#facs_205_r2l22 accusée, Pourquoy a quel subject
+#facs_205_r2l23 et pour quel faict, si et come cela
+#facs_205_r2l24 bracht, Item zur Welcher zeiten
+#facs_205_r2l25 est arrivé en quel temps, ou en quelle
+#facs_205_r2l26 pro vnd vff was manier sie
+#facs_205_r2l27 façon elle est marquée, si la marque
+#facs_205_r2l28 zeichnet wirdt zeichen beschaffen
+#facs_205_r2l29 est bien apparente, et esprouvée
+#facs_205_r2l30 undt probiert werden, undt was
+#facs_205_r2l31 &c
+#facs_205_r2l32 autres semblables circonstances
+#facs_205_r2l33 vergleichen nohtwendige umb
+#facs_205_r2l34 necessaires
+#facs_205_r2l35 stand mehr sein mögend
+#facs_205_r2l36 Wir wollend auch gentzlich ver¬
+#facs_205_r2l37 Nous ne roulons aussy en facon
+#facs_205_r2l38 bortt haben, daß einiche persohn
+#facs_205_r2l39 que ce soit qu'une persone estant
+#facs_205_r2l40 so obiger gestalt anklagt worden
+#facs_205_r2l41 simplemt accusée sans aucun
+#facs_205_r2l42 sich wider dieselb mit thätt¬
+#facs_205_r2l43 faict reel, w[m]e sus est declaré
+#facs_205_r2l44 lichs undt würcklichs erfun¬
+#facs_205_r2l45 soit nomée dans les process ny inscript
+#facs_205_r2l46 den, In den Processen vndt thuen dans les livres des procedures cri-
+#facs_205_r2l47 büchern benamset noch einge¬
+#facs_205_r2l48 minelles, ains qua leur noms soyent
+#facs_205_r2l49 schriben, sonders derselben na¬
+#facs_205_r2l50 laisses sans en faire aucune
+#facs_205_r2l51 en vorgelaßen werden sollt.
+#facs_205_r2l52 mention
+#facs_205_r4l1 de
+#facs_206_r1l1 394.
+#facs_206_r1l2 Es sollend auch die Angeber vor,
+#facs_206_r1l3 Ehrer Hinrichtung ernstig ver
+#facs_206_r1l4 Les Accusateurs deburont aussi
+#facs_206_r1l5 avant leur execution estre sera
+#facs_206_r1l6 mant werden, ob sie by Ihrer ad
+#facs_206_r1l7 aulem exhortez sils veulent de
+#facs_206_r1l8 gebung der persohnen da es vmb
+#facs_206_r1l9 neurer stables (estam question)
+#facs_206_r1l10 de faict réel.) en leurs ainsaons
+#facs_206_r1l11 scheinbare realiteten undt thätt.
+#facs_206_r1l12 ou non, affin de l'annotter on s'est
+#facs_206_r1l13 ligkeiten zuthun were) verbleibe
+#facs_206_r1l14 ew
+#facs_206_r1l15 Arellind oder nit, selbiges dann
+#facs_206_r1l16 seines Orts zuverzeichnen.
+#facs_206_r1l17 Wir Vollend hiemit auch noch
+#facs_206_r1l18 mahlen alles ernsts angesechen, er
+#facs_206_r1l19 de plus nous avons bien expressé
+#facs_206_r1l20 kent und geordnet haben, daß die
+#facs_206_r1l21 ordonné, comme par cestes ordonnons
+#facs_206_r1l22 expressem que les examinateurs
+#facs_206_r1l23 Examinatoren solche arme Leütere desdtes. personnes, substituendront
+#facs_206_r1l24 er ander Marter noch sonst dar
+#facs_206_r1l25 entieremt. de leur former des
+#facs_206_r1l26 nach ein ichter gestalten fragen sollen
+#facs_206_r1l27 questions et demandes, si pas ils
+#facs_206_r1l28 obsienit diser oder Innen Sie mit ont veu cestuycq, ou l'autre, les
+#facs_206_r1l29 namen namsende, in der Sect oder
+#facs_206_r1l30 nomant par leur noms, en la secte
+#facs_206_r1l31 ou autre part en semblable ren
+#facs_206_r1l32 sonst anderste wo in solcher stalt contre, si pas ils ons leur complice
+#facs_206_r1l33 gsechen Ob sie mit Ihre mit pflichtig et choser semblables puis que cest
+#facs_206_r1l34 syn undt dergleichen sich einmahl und chose de dangereuse sous
+#facs_206_r1l35 solches fragen uit allein ein gantz quence et mesme dessendu par le
+#facs_206_r1l36 gefahrlich dring, sonders auch Ien dront, Car quiconque soubliast
+#facs_206_r1l37 de
+#facs_206_r1l38 meinen Rechten verboren de tant, en faisant du contraire
+#facs_206_r1l39 Dann welcher hierwider handlen Nous nous reservons demesme
+#facs_206_r1l40 wurde behalten wie vns Vnß fort expressemt. de chartier ou
+#facs_206_r1l41 druckenlich vor einen solchen frägler tel formeur d'Interrogats selon
+#facs_206_r1l42 Je nach gestalt der Sach und Vermögenae du faict, et son demerité
+#facs_206_r1l43 dienen In gebürende straff zuzügl.
+#facs_206_r2l1 395.
+#facs_206_r2l2 Letztlich ist unser gäntzlicher wil
+#facs_206_r2l3 finalement voulons et entendons
+#facs_206_r2l4 meinung und Bruelch daß diser
+#facs_206_r2l5 De ceste nre ordonnance soit deüem
+#facs_206_r2l6 Vnser Ordnung Bürklich gelebt mise en execution et sans aucunement
+#facs_206_r2l7 vndt nachkommen, vndt darüber mit
+#facs_206_r2l8 exceder, avec cest est l'aircissement
+#facs_206_r2l9 Excediret werde In dem Ver=
+#facs_206_r2l10 Que nos Ballis deburont aussy assister.
+#facs_206_r2l11 stand, daß auch Vnsere Ambtlicht,
+#facs_206_r2l12 auxdts. examents, autant que pour
+#facs_206_r2l13 so Wyb In anderer gschafften
+#facs_206_r2l14 dautres affaires ils pourront avoir
+#facs_206_r2l15 halb müglich denexaminations
+#facs_206_r2l16 a commodité: Mais quant aux Vassants
+#facs_206_r2l17 selbs beywohnen: Den Vassallen
+#facs_206_r2l18 et seigneurs de jurisdiction leur est
+#facs_206_r2l19 undt Panerherren aber nach besa¬
+#facs_206_r2l20 en Conformité du Coustumier par
+#facs_206_r2l21 des Coustumirs solches gentzlich
+#facs_206_r2l22 express inhibé et deffendu d'y assister
+#facs_206_r2l23 en propre personne; jouxté quoy un
+#facs_206_r2l24 abgestrickt vndt verborten sel
+#facs_206_r2l25 hescun a qui il appartiendra se
+#facs_206_r2l26 Solle; Welchem allein du mit al
+#facs_206_r2l27 Caura conduire. Faict en Conseil
+#facs_206_r2l28 lein für dich selbsten gebürend
+#facs_206_r2l29 ce 29. Decembre 1651
+#facs_206_r2l30 nach zeto aus, undt dis gehörigen
+#facs_206_r2l31 Orts Yngchriben zelaßen, sondern
+#facs_206_r2l32 "
+#facs_206_r2l33 auch deßen die Reichtsgeschwor=
+#facs_206_r2l34 en undt diers berührt dyner
+#facs_206_r2l35 Verwaltung zeuerwahrne
+#facs_206_r2l36 Wüßen wirst und solt
+#facs_206_r2l37 Datum 29 decembr. 1651

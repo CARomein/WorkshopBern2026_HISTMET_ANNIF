@@ -1,0 +1,148 @@
+Law ID: BER.01.001.4361
+Name: Die Einfuhr alles fremden und ausländischen Getreids erlaubt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 137/137
+# High similarity (>=50%): 134
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_100_r6l7 An Büren, Wangen Arbangen, Bipp, Arburg
+#facs_100_r6l8 Biberstein, et Arau
+#facs_100_r6l9 da Wir Lobl. Stand Solothurn auch ersucht, wan
+#facs_100_r6l10 dieser Cörper hinter Ihren Landen anzutreffen
+#facs_100_r6l11 wäre, denselben den nächst gelegenen Hl.
+#facs_100_r6l12 Amtleuten, gegen Erlag ergangener Kösten
+#facs_100_r6l13 zur Begräbnus auf obigem Fuß gefolzen
+#facs_100_r6l14 zu laßen.
+#facs_100_r6l15 An
+#facs_100_r6l16 Alle Weltsche Herren Amtleut, Item Ahlen und
+#facs_100_r6l17 Saanen
+#facs_100_r6l18 Die Einfuhr alles Fremden und Ausländischen
+#facs_100_r6l19 Getreids erlaubt
+#facs_100_r6l20 Schultheiß Räht und Burgers
+#facs_100_r6l21 Da Wir, wegen den dismahligen Zeit Umständen
+#facs_100_r6l22 gut befunden, die Einfuhr alles Fremden
+#facs_100_r6l23 und ausländischen Getreids von dato an bis
+#facs_101_r3l1 Ersten Augusti 1770. zu erlauben, mithin
+#facs_101_r3l2 das dahero ausgegangene Verbock für diese
+#facs_101_r3l3 Zeit zu suspendieren; als haben Wir Euch
+#facs_101_r3l4 davon gnugsamme Exemplaria zusenden, und
+#facs_101_r3l5 Euch befelchlich auftragen wollen, solches zu
+#facs_101_r3l6 Jedermans Wüßenschafft und verhalt, allsobald
+#facs_101_r3l7 in Eüerem Amt von Canzlen verkünden,
+#facs_101_r3l8 und gewohnter Orten anschlagen zu laßen
+#facs_101_r3l9 Dath. den 23ten Aug. 1769.
+#facs_101_r3l10 Dir Schultheiß Klein und Broße Räste
+#facs_101_r3l11 der Stadt und Republib dern thun kund
+#facs_101_r3l12 hiermit; demnach Wir zum besten und Wohl¬
+#facs_101_r3l13 seyn Unserer getreuen lieben angehörigen
+#facs_101_r3l14 veranlaßet worden, durch ehevorige Ausge¬
+#facs_101_r3l15 gangene Mandat, die Einführ alles fremden
+#facs_101_r3l16 und ausländischen Betreydts, bey der daran¬
+#facs_101_r3l17 gesezten Straff, zu verbieten; daß Wir
+#facs_101_r3l18 durch die dermahlige Zeit Umständ bewog¬
+#facs_101_r3l19 worden, dieses Verbock, in so weitselbiges das
+#facs_101_r3l20 ganze Weltsche Land, das Gouvernement Ählen
+#facs_101_r3l21 und das Amt Sanen anbetrifft, für einmahl
+#facs_101_r3l22 dahin wider aufzuheben, und zu suspendire
+#facs_101_r5l1 186.
+#facs_101_r5l2 Das von Dato an, biß den 1ten Augusti des von
+#facs_101_r5l3 Gott erwartenden 1770. Jahrs, Jedermäniglich
+#facs_101_r5l4 Erlaubt seyn solle, frem des und Ausländisches
+#facs_101_r5l5 -
+#facs_101_r5l6 Getreyd, es seyn woher es immer wolle, in
+#facs_101_r5l7 bedeutes unsere Sveltsche Land, und die Ämter¬
+#facs_101_r5l8 Bestalter
+#facs_101_r5l9 Ahlen und Saanen, einzubringen.
+#facs_101_r5l10 die freye und ofene Einfuhr alles Getreyds,
+#facs_101_r5l11 was nahmens es seyn mag, in diese Ämter
+#facs_101_r5l12 für obbedeüte Zeit, von nun an Erlaubt ist
+#facs_101_r5l13 und seyn solle; da Wir dann, nach diesem
+#facs_101_r5l14 Zeit verlauff, das fernere darüber verordnen¬
+#facs_101_r5l15 werden; Welches zu maniglichs Nachricht
+#facs_101_r5l16 und Verhalt öffentlich kund gethan wird. Geben
+#facs_101_r5l17 in Unserer Großen Stahts Versammlung den
+#facs_101_r5l18 23th Augusts 1769
+#facs_101_r5l19 Causley Zern
+#facs_101_r5l20 Traduction
+#facs_101_r5l21 Sous L'Avoyer, Petit et Grand Conseil de
+#facs_101_r5l22 la Ville de Republique de Berne, savoir faisons par
+#facs_101_r5l23 les presentes; comme pour le bien et avantage de
+#facs_101_r5l24 Nos Chers & feaux sujets & Ressortissants, Nous
+#facs_101_r5l25 avons crû devoir interdire & prohiber par Nos Ordonnance
+#facs_101_r5l26 & Mandats, ci-devant émanez l'Importation de tous
+#facs_102_r2l1 Grains et Bleds forains et Etrangers dans les
+#facs_102_r2l2 Terres & Païs de Nôtre Domination, sous les peine
+#facs_102_r2l3 et chatimens y enoncez; nous avons animés par
+#facs_102_r2l4 les mêmes soins paternets, eu egard aux circonstan-
+#facs_102_r2l5 présentes, trouvé bon, pour autant que cela concern
+#facs_102_r2l6 nôtre Païs de Vaud, & le Gouvernement d'Aigle, de
+#facs_102_r2l7 même que le Balliage de Gessenay, de revoquer
+#facs_102_r2l8 Nos dits Ordonnances prohibitoires a cet Egard, & den
+#facs_102_r2l9 Suspendre l'effet, en sorte, que dès la présente Date
+#facs_102_r2l10 jusqu'au 1e jour du Mois d'Aoust de l'an de grace
+#facs_102_r2l11 prochain 1770, il sera libre & loisible a tous & à
+#facs_102_r2l12 un chacun, dimporter des graines Etrangeres &
+#facs_102_r2l13 foraines, de quelques lieux qu'elles puissent venir
+#facs_102_r2l14 dans Nôtre dit Païs de Vaud, & dans le Ressort
+#facs_102_r2l15 de Nos dits Gouvernement d'Aigle & Balliage de
+#facs_102_r2l16 Gessenay; voulant que l'Entrée des dites graines
+#facs_102_r2l17 Etrangéres de toute espece & denonciation, soit libre
+#facs_102_r2l18 & permise des maintenant pour le susdit tems & terme
+#facs_102_r2l19 à léchéance duquel Nous aurons soin dordonner
+#facs_102_r2l20 ce que Nous trouverons être Nécessaire.
+#facs_102_r2l21 en foi de quoi, & pour que chacun en ait conoissance
+#facs_102_r2l22 & puisse se Conduire en Conséquence, Nous avons fait
+#facs_102_r2l23 publier les présentes. Ainsi fait et arreté dans
+#facs_102_r2l24 l'assemblée de Nôtre Conseil Souverain le 23. Aoust 170
+#facs_102_r2l25 Chancellerie de Berne.
+#facs_102_r4l1 188
+#facs_102_r4l2 An
+#facs_102_r4l3 Alle Teutsch- und Weltsche Herren Amtleut und 4
+#facs_102_r4l4 Erganische Städt
+#facs_102_r4l5 Auf Verlangen deß Johanniter-Ordens zu heiters heim¬
+#facs_102_r4l6 die Anterlangte publication ergehen zu laßen, daß
+#facs_102_r4l7 einem H. Commandeur ohne Vorwüßen und Consens des
+#facs_102_r4l8 gedachten Capitels, gelt vorgestreket werde.
+#facs_102_r4l9 Schultheiß und Raht etc.
+#facs_102_r4l10 Es ist von seiten deß Johanniter Ordens in Malta
+#facs_102_r4l11 an Uns das Ansuchen beschehen, da selbige von
+#facs_102_r4l12 vergangenen Zeiten die Erfahrung haben, daß
+#facs_102_r4l13 hin und wider ein Fl. Commandeur aus diesem Teutschen
+#facs_102_r4l14 Groß- Priorat Gelter auf zu Borgen, und darfür
+#facs_102_r4l15 jeweilen den Credit seiner Commenden, obschon Ungül¬
+#facs_102_r4l16 tig, und gegen die bebaute Ordens, Statuta
+#facs_102_r4l17 zu untersezen sich angemaßget, so fort bey
+#facs_102_r4l18 erfolgtem Tod oder Insolvenz eines solchen Herren
+#facs_102_r4l19 Commandeur, die Revenues solcher Commenden, von denen
+#facs_102_r4l20 betreffenden Creditoren, unter beystand Ihrer
+#facs_102_r4l21 Landes=Obrigkeiten angegriffen, und beson
+#facs_102_r4l22 ders in der Schweih mit Sequester bekümmeret
+#facs_102_r4l23 worden sind, deßnahm sie, bey gegenwärtig
+#facs_102_r4l24 Ihrem versamleten Provincial = Capital, derley
+#facs_102_r4l25 künfftigen Unheilen durch eine Legale wahrnung
+#facs_102_r4l26 den, in solchem Geld Anborgungs, fall, sich befinden
+#facs_103_r3l1 Mogenden Creditoren vorzubiegen, beschloßen
+#facs_103_r3l2 Jedermäniglich wahrnen zu laßen, daß
+#facs_103_r3l3 alle diejenige, welche einem dißeitigen
+#facs_103_r3l4 Herrn Commandeur entweders auf seinen Privel
+#facs_103_r3l5 Credit= oder wohl gar etwan auf die Commenden
+#facs_103_r3l6 selbs, etwas Creditirt haben, Ihre Anfordern
+#facs_103_r3l7 in Zeit nächster dreyen Monaten, vom 20
+#facs_103_r3l8 Juny anzurechnen, solches bey diesförtigem Provi¬
+#facs_103_r3l9 cial- Capitel anzeigen, Widrigen falls Ihre
+#facs_103_r3l10 Forderungen verlohren haben wurden
+#facs_103_r3l11 für
+#facs_103_r3l12 das Zukünfftige aber denenjenigen, so einen
+#facs_103_r3l13 H. Commandeur ohne Vorwüßen und Consens des
+#facs_103_r3l14 gedachten Capitels, ferners hin Gelt vorstreben
+#facs_103_r3l15 wurden, darfür Niengands wo ein Rechtliches
+#facs_103_r3l16 Gehör zu hoffen haben sollen.
+#facs_103_r3l17 Da Wir nun hierin bedeutem Orden
+#facs_103_r3l18 entsprochen, als werdet Ihr solches zu jeder
+#facs_103_r3l19 manns verhalt öffentlich bekant machen, und
+#facs_103_r3l20 von Canzlen verlesen zu laßen. Datl. den
+#facs_103_r3l21 21 Aug. 1769.

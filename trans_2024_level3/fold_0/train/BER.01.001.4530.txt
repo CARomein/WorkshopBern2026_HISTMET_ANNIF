@@ -1,0 +1,76 @@
+Law nr: BER.01.001.4530
+Name: Getreid Verkauf.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 65/65
+# High similarity (>=80%): 64
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_36_r5l1 65
+#facs_4_r8l9 a
+#facs_26_r2l8 alle T. Herren Amtleut und Schafner, da
+#facs_26_r2l9 Obrigkeitlich Getreid ligt. Sep¬
+#facs_26_r2l10 Betrie Verkauf.
+#facs_94_r3l12 Schultheit Räth und Burger c Über¬
+#facs_26_r2l12 den von Ansteren fürgeliebten Miträthen
+#facs_26_r2l13 denen Herren T. Kabelmeister und Vennen
+#facs_26_r2l14 und Unserer verordneten Kornbammer Uns
+#facs_26_r2l15 gemachten Vortrag, betrefend das auf
+#facs_26_r2l16 Martinis 1782. eingegangene Obrigkeitl.
+#facs_26_r2l17 Getien, haben Wir gut befunden und
+#facs_26_r2l18 erkant: Es solle von dem daherigen¬
+#facs_26_r2l19 über den bestimten Vorrath aus, und
+#facs_33_r5l16 nach Abzug der Ordinari und quasi Ordinar
+#facs_26_r2l21 Ausgaben, vorschiessenden Obrigkeiten Ge-
+#facs_26_r2l22 treis, von einmal uns bis auf Unseren
+#facs_26_r2l23 beiteren bestimten Befehl, von dem
+#facs_26_r2l24 Winter Gewächs das ist Dinkel und
+#facs_26_r3l1 An das ganze
+#facs_26_r3l2 Seeland, Item an
+#facs_107_r6l31 =schenk.
+#facs_26_r3l4 Biberstein allen
+#facs_26_r3l5 ayzusetzen, der Kern
+#facs_26_r3l6 so wie auch
+#facs_26_r3l7 B. An die Amter
+#facs_26_r3l8 Schenkenberg, Lenzburg
+#facs_26_r3l9 und Wiberstein allein
+#facs_26_r3l5 ayzusetzen, der Kern
+#facs_26_r3l11 ben von nun an
+#facs_11_r6l1 17
+#facs_26_r4l2 Wayzen /: Item Mischelkorn im Seeland :/
+#facs_26_r4l3 nur die Helfte abgestoßen - hingegen A
+#facs_26_r4l4 das Sommer Gewächs in allen verschadenen
+#facs_26_r4l5 Getreid Arten, gänzlich versilbernt werde,
+#facs_26_r4l6 der Meinung jedoch, daß von dato an,
+#facs_26_r4l7 bis auf den 1. May nachstkäufig von
+#facs_26_r4l8 ermelten Sommerfruchten nur die erste
+#facs_26_r4l9 Helfte, und so dann erst mit Anfang
+#facs_26_r4l10 des Maymonats die andere Helffte B
+#facs_26_r4l11 abgestoßen und verkauft werden solle;
+#facs_26_r4l12 Wobey Unser Will und Befehl in fernerm
+#facs_26_r4l13 dahin gehet: daß in ansehen dieser
+#facs_26_r4l14 verkaufenden Früchten, die Verzeigung der
+#facs_26_r4l15 Schückenen von Unseren fürgeliebten Mit¬
+#facs_26_r4l16 räthen denen Herren T. Bebelmeister
+#facs_26_r4l17 und Venneren erwartet-dabey die ge¬
+#facs_26_r4l18 wöhnlichen Präbautionen genommen, – mithin
+#facs_26_r4l19 das zu verbaufende Getreid, nicht
+#facs_26_r4l20 denen Händlernen erbloc und sein voraus
+#facs_26_r4l21 versprochen - sondern nur zu kleinen Kauffen
+#facs_26_r4l22 in laufendem Preis verkauft, und von
+#facs_26_r4l23 denen angebiesenen Schüttenen vor allem
+#facs_26_r4l24 aus das mindest behältliche Getrain ab¬
+#facs_26_r4l25 gestoßen, ins besonders dan die Comer-
+#facs_26_r4l26 frücht und namentlich der Haben vorzüglich
+#facs_7_r2l12 18
+#facs_4_r10l1 13
+#facs_56_r2l1 Colle
+#facs_27_r3l1 zu Anblühmung der Felderen hingegeben
+#facs_27_r3l2 werden solle.
+#facs_27_r3l3 Welchemnach Ihr Euch
+#facs_27_r3l4 zu verhalten wissen, und über das er¬
+#facs_27_r3l5 lösende uns Rechnung tragen werdet.
+#facs_27_r3l6 Dat. d. 19. Merz 1783.

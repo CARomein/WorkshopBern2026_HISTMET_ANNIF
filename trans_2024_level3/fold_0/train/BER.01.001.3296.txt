@@ -1,0 +1,474 @@
+Law ID: BER.01.001.3296
+Name: Hoch oberkeitliche Verordnung, welcher gestalten die Manufacturen, und Handlungen befürderet und geäuffnet, und dardurch der Armuth und dem Müssigang, zu Statt und Land gesteüret werden könne und solle.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 463/463
+# High similarity (>=50%): 453
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_269_r3l10 Hoch Oberzeitliche Verordnung, welcher
+#facs_269_r3l11 gehalten die Manufacturen, und Hanslungen
+#facs_269_r3l12 befürderet uns graüffnet uns dardurch den
+#facs_269_r3l13 vermuth und dem Müßigang, zu Statt und
+#facs_269_r3l14 Land gesteüret werden könne und solle.
+#facs_269_r3l15 Wir Schulthis Käbt und Bur¬
+#facs_269_r3l16 Iger der Statt Sarn thuns uns hiemit
+#facs_269_r4l1 507
+#facs_269_r4l2 Demnach wir zu herthen gefaßet, welcher
+#facs_269_r4l3 gestalten die Manufactur- und handlungen
+#facs_269_r4l4 den wohlstand eines lands beförderen, und daß
+#facs_269_r4l5 lintzige Mittel seye, dardurch der Armuthung
+#facs_269_r4l6 Müßigang abbeholffen, und der dem Land so be¬
+#facs_269_r4l7 schwärliche Auslauff des Belts verhinderet
+#facs_269_r4l8 werden könne, als hat solches auf lands väl¬
+#facs_269_r4l9 terlicher Vorsorg uns veranlaßet, hiemit
+#facs_269_r4l10 den Testen und unbeweglichen Schluß zu
+#facs_269_r4l11 faßen, mit allem möglichstem Eyffer alles
+#facs_269_r4l12 daß jenige was zu Erhaltung diesers zweks
+#facs_269_r4l13 befürderlich seyn mag, zu Eigreiffen, und
+#facs_269_r4l14 folglich die zu diesem End hin gegebene und
+#facs_269_r4l15 in underschiedenlichen Artibuln bestehende
+#facs_269_r4l16 Verordnungen beständig zu handhaben, auch
+#facs_269_r4l17 deme, was solche underbrechen oder verhindern
+#facs_269_r4l18 möchte, den beg also abzuschneiden, damit
+#facs_269_r4l19 die jenigen, welche an einer so nöstigen und
+#facs_269_r4l20 nutzlichen Sach, ihre Zeit und kräfften ver¬
+#facs_269_r4l21 den anwenden, nicht maßleidig gemacht
+#facs_270_r3l1 sondern vielmehr auffgenumteret angefrischet,
+#facs_270_r3l2 und ihre Arbeiten und applicationen nicht
+#facs_270_r3l3 fruchtloost gemacht werdens, alles in mehre
+#facs_270_r3l4 ren, wie von einem zum anderen folget.
+#facs_270_r3l5 Obwohlen im Land bereits mit und andere
+#facs_270_r3l6 nützliche Manufacturen getrieben werden,
+#facs_270_r3l7 so sind dieselben dannoch nicht zulänglich, die
+#facs_270_r3l8 fin wohlter mit allen rostwendigkeiten zu
+#facs_270_r3l9 versorgen; derowegen wir uns Entschloßen
+#facs_270_r3l10 Durch Anschaffung eint und anderen Tor
+#facs_270_r3l11 theils außer Tabricanten anzufischen, sich
+#facs_270_r3l12 hier lands zu setzen, und nützliche Manu
+#facs_270_r3l13 facturen zu treiben; zu belhemens wie¬
+#facs_270_r3l14 unserem täglichen Raht den Gwalt gegeben
+#facs_270_r3l15 Von deren sich anmelden Bursen, selbigen
+#facs_270_r3l16 nach gestalt befindenden Dingen, die nature
+#facs_270_r3l17 Lisation oder anemung zum Underthan¬
+#facs_270_r3l18 nach Erworbenem Heimat in dem leus gratis
+#facs_270_r3l19 uns vergebens zu ertheilen; In ansehen da¬
+#facs_270_r3l20 der jenigen, so das verlangen tragen möchten
+#facs_270_r3l21 In unserer Haubtstatt selbsten zu sitzen,
+#facs_270_r6l1 Verso 9
+#facs_270_r6l2 habend wir laut der Ordnung vom 15. May 1715
+#facs_270_r6l3 Vns vorbehalten, in ansehen deß Ewigen Ein¬
+#facs_270_r6l4 wohnung Rechtens in Unser Haubstatt zu
+#facs_270_r6l5 Kunsten der dem Stand und Publico nühlich
+#facs_270_r6l6 und nohtwendig befindenden Persohnen, daß
+#facs_270_r6l7 jenige zu erkennen, was wir gedeylich fin¬
+#facs_270_r6l8 Den werden
+#facs_270_r6l9 Es sollen die Tabricanten in Arbeit anschaff¬
+#facs_270_r6l10 fung keines wegs gebunden seyn, sondern
+#facs_270_r6l11 ihnen Vielmehr frey stehen, Ihr arbeit zu gebe,
+#facs_270_r6l12 wem sie wollen, uns also ihr waar nach
+#facs_270_r6l13 belieben zu Statt und Land verarbeiten
+#facs_270_r6l14 zulaßen.
+#facs_270_r6l15 Den Tabricanten aber soll abgestreut seyn, ihr
+#facs_270_r6l16 waaren anderst als engros oder Stukweis
+#facs_270_r6l17 zu verkauffen, als welchen hiemit der Hand
+#facs_270_r6l18 verkauff und Detail benommen und verboten
+#facs_270_r6l19 vergestalten, daß solche nit bey der Ellen weder
+#facs_270_r6l20 in Magazin noch bey hauß noch weniger
+#facs_270_r6l21 im ostenen laden, sondern allein Stur
+#facs_270_r6l22 weis zu verkauffen befügt seyn sollen, Es
+#facs_271_r2l1 seye dann Sach, daß ein Fabricant von mit und
+#facs_271_r2l2 anderen particularen Comission bekämen
+#facs_271_r2l3 etwas Expresse für ihnen zu fabricieren, welches
+#facs_271_r2l4 Dem Fabricanten hiemit zugelaßen wäre
+#facs_271_r2l5 4. Sintemahlen die Consomption die Seel
+#facs_271_r2l6 aller Manufacturen ist, so haben wir auch zu
+#facs_271_r2l7 gutem des Landts und damit den Fabrican
+#facs_271_r2l8 ten der Vertrieb ihrer baar versichert werde,
+#facs_271_r2l9 uns Entschloßen, uns und die Unserigen
+#facs_271_r2l10 mit laus waar, es seye von wollen, dann
+#facs_271_r2l11 wollen, leinbat, Seiden, läder und derglichen
+#facs_271_r2l12 zubehelffen, uns zu bleiden, und gleich wie
+#facs_271_r2l13 wir uns auch selbsten darzu verbinslich
+#facs_271_r2l14 macht, als bollen wir hiemit auch grosmal
+#facs_271_r2l15 und gehabt haben, daß alle diejenigen, so
+#facs_271_r2l16 Oberseitlichen Ambtern und Diensten zu
+#facs_271_r2l17 Statt uns in unsern Leüschen uns weltschen
+#facs_271_r2l18 landen stehen, wie nicht Beniger auch die sein
+#facs_271_r2l19 Der Magistratur und in denen Redienungen
+#facs_271_r2l20 Unserer Stätten sich befinden, sich gleichmäßig
+#facs_271_r2l21 sig deme unterbersten sollen.
+#facs_271_r3l1 5.
+#facs_271_r3l2 durch
+#facs_271_r4l1 511.
+#facs_271_r4l2 Weilen zu besorgen, daß solche Schwärigkeit
+#facs_271_r4l3 Nanufacture
+#facs_271_r4l4 hervor thun möchten
+#facs_271_r4l5 soo nicht gäntzlich, dennoch zum Theil hinterste
+#facs_271_r4l6 sich machen könten, als habend wir nöhtig Frach
+#facs_271_r4l7 stet, harbieser auch die Erforderliche vorsorgze
+#facs_271_r4l8 thun, und hingegen das jenige anzubehren, da
+#facs_271_r4l9 wir zu Unserem best genügnten zwey gelö¬
+#facs_271_r4l10 gen mögen, wollend zu dem Ende hin Ernst mey¬
+#facs_271_r4l11 mens verbotten haben, daß aller frembde waaren
+#facs_271_r4l12 deren Gattung hier im laus fabriciert ver¬
+#facs_271_r4l13 den, /: als da sind wollene Tücher und Zeug, halt
+#facs_271_r4l14 wollene. Seidene, halb Seidens, und Raum
+#facs_271_r4l15 wollene Zeug und Stoffen, der leinwat äußert
+#facs_271_r4l16 Demjenigen frembden, so zu Coeffures, Mangelte
+#facs_271_r4l17 Rabbät Gravattes etc. gebrauch wird, und in so wei¬
+#facs_271_r4l18 solcher durch das Reformations mandat nicht
+#facs_271_r4l19 verbotten ist; Item die Manufacturen von
+#facs_271_r4l20 Lager, als Schuh, handschuh, wie auch die manu
+#facs_271_r4l21 factieren von gantzer Floret und Galet Seiden¬
+#facs_271_r4l22 Danne die wollenen und haarheit, wollene und
+#facs_271_r4l23 Seidene Sommer und Winter Strümpf, bey
+#facs_272_r2l1 hienach gesetzter Straff vom Tag der Publication
+#facs_272_r2l2 an dieser Ordnung, nicht mehr sollen in daß Land
+#facs_272_r2l3 gebracht und darinn der Häufft werden; der
+#facs_272_r2l4 Weynung Jeh dennoch, daß oberzehlte dieser
+#facs_272_r2l5 gattung allhier fabricierende baaren, nach
+#facs_272_r2l6 denen von Unserem Comercien = Rath erthei¬
+#facs_272_r2l7 lenden sonderbahren Anstalten werdind es
+#facs_272_r2l8 sitiert, von denen Georsneten böhrschafft
+#facs_272_r2l9 und in Ehelichem ppeis verbaufft werden.
+#facs_272_r2l10 6. Wann dergleichen Controbande braaren mit
+#facs_272_r2l11 Land geschiket und bekant wurde, daß Ein
+#facs_272_r2l12 Kauffman denselben hinder sich und verbrei¬
+#facs_272_r2l13 gen hätte, sollen die darzu bestellte auf sei¬
+#facs_272_r2l14 her hierdurch beqwältiget seÿn, diesen Brust
+#facs_272_r2l15 man zu Ersuchen, mit dem beylauftigen anhand¬
+#facs_272_r2l16 daß, weilen alle im Land sich befundenen
+#facs_272_r2l17 und fabricierte waar gezeichnet oder Plumbins
+#facs_272_r2l18 seyn wirs, alle ungezeichnete, so darinn wird in
+#facs_272_r2l19 getroffen werden, für Contrebande angesehen
+#facs_272_r2l20 so fort arrestieret, und nach verhör deß über die
+#facs_272_r2l21 ters und Erbenter Begründnus seines fehlen,
+#facs_272_r2l22 unauß bittlich Confisciert, und noch darzu
+#facs_272_r4l1 5/3
+#facs_272_r4l2 mit einer buß, die den selben berth der Con¬
+#facs_272_r4l3 fiscierten baar ausmachet belegt werden,
+#facs_272_r4l4 davon dann auf dem Land ein viertheils dem Ambt¬
+#facs_272_r4l5 nen, und ein Vortheil dem Verleider in
+#facs_272_r4l6 Unser Haubstatt aber dem Verleider Ein¬
+#facs_272_r4l7 Wittheil heimbdienen soll.
+#facs_272_r4l8 Auf daß auch nicht Etwan andere Particu¬
+#facs_272_r4l9 Haren für ihren eigenen Gebrauch von an¬
+#facs_272_r4l10 ßeren oder benachbahrten Ohrten her ver¬
+#facs_272_r4l11 bottene Baaren allhör beschikend, so soll der
+#facs_272_r4l12 eint oder andere der deßen überzeuget
+#facs_272_r4l13 wurde, neben der Confiscation der waar¬
+#facs_272_r4l14 annoch mit einer unnachläßigen Rust
+#facs_272_r4l15 deß hebben bärths der Confiscation im
+#facs_272_r4l16 der obvermelter Eintheilung angesehen¬
+#facs_272_r4l17 und harinn ohne ansehen der Persohn verfah¬
+#facs_272_r4l18 ren werden; Und ein solcher auch der obi¬
+#facs_272_r4l19 ger Sach halb verdächtig wäre, auf Erfor¬
+#facs_272_r4l20 deren verbunden seyn; xyz
+#facs_272_r4l21 einen Conto loco attestati, ton
+#facs_272_r4l22 Dem so ihme die waar ter kaufft, auf zu wei¬
+#facs_272_r4l23 sen, damit er sehen köne, absolches hier
+#facs_273_r3l1 Ländische oder außere waar seye.
+#facs_273_r3l2 damit die hiesigen Häusfleüt, so bereits mit
+#facs_273_r3l3 allerhand nöhtiger baar ziemlich versehen,
+#facs_273_r3l4 nicht zu Schaden kommen sollen alle den
+#facs_273_r3l5 bürkliche verhandene und bereits Comit
+#facs_273_r3l6 tirte waaren, ohne ihren Entgelt und auf
+#facs_273_r3l7 Oberseitliche Unkosten gezeichnet oder plus
+#facs_273_r3l8 birt, und folglich annoch als Land, waar an
+#facs_273_r3l9 gesehen werden, welchem nach ihnen zuge¬
+#facs_273_r3l10 laßen wirs, selbige noch ungehindert zu¬
+#facs_273_r3l11 verkauffen, sie die Bauffleüt aber ins un¬
+#facs_273_r3l12 Ptig ihre provision in den Lands Satrignen
+#facs_273_r3l13 gemachen gewiesen seyn; In maßen zu ver¬
+#facs_273_r3l14 hinderung daß kein Gefehrs, mit finf ehr
+#facs_273_r3l15 und Verdebitierung der auseren baaren
+#facs_273_r3l16 underlauffe, ob dem Verbott auf alle die
+#facs_273_r3l17 jenige außer Waaren, so anfangs diesen
+#facs_273_r3l18 Ordnung specificiert sind, gehalten werden
+#facs_273_r3l19 soll.
+#facs_273_r3l20 9. Fahls aber eint oder andere waar denen
+#facs_273_r3l21 man unmügänglich benöhtiget, entweder
+#facs_273_r3l22 im land noch nicht, oder aber darinen nicht
+#facs_273_r4l1 515.
+#facs_273_r4l2 in gnugsamer Quantitet fabriciert wurde, sollen
+#facs_273_r4l3 Die Kauffleüth dahin gewiesen seyn, sich darum
+#facs_273_r4l4 vor Unserem Comerci. Raht anzumelden, wel¬
+#facs_273_r4l5 of
+#facs_273_r4l6 her nach Erkenter Nohtwendigkeit zu Beschikung
+#facs_273_r4l7 der verlangten Parthey war, und er den behörigen
+#facs_273_r4l8 Procautionen, die patenten gratis Ertheilen
+#facs_273_r4l9 wirs
+#facs_273_r4l10 10. Wir haben auch gutfunden, die der Hausiere
+#facs_273_r4l11 halb hievor ausgangene Mandat dahin dis
+#facs_273_r4l12 mahlen zu Erneueren, daß allen frembden
+#facs_273_r4l13 Bausiereren, Krämeren, Putten, und Hä¬
+#facs_273_r4l14 zen Trägern alles feil halten, verlauffen
+#facs_273_r4l15 uns Gewerben mit was Battung waaren
+#facs_273_r4l16 Es immer sey, beyses an und zwüschen den
+#facs_273_r4l17 wochen Märkten (die Jahr=Mäckte allein
+#facs_273_r4l18 für Erlaubte waaren außgenommen,) so wohl
+#facs_273_r4l19 in Stätten, Schlößeren, dörfferen und
+#facs_273_r4l20 bey den Häusernn, als auf Straßen und
+#facs_273_r4l21 an abohrten gäntzlich abgestreut und
+#facs_273_r4l22 verbotte seyn soll; Bey Straff der
+#facs_273_r4l23 Confiscation ihrer Baaren, darmit gegen
+#facs_274_r2l1 Die Fehlbahren ohne verschonen zu verfah¬
+#facs_274_r2l2 ren, umb so da mehr, weil diese Leüth, die gute
+#facs_274_r2l3 Belt=sortes auß dem Land führen, und
+#facs_274_r2l4 denen Hausieren aber verstehen, wir nicht
+#facs_274_r2l5 Die jenige, welche allein dem Blasen in
+#facs_274_r2l6 Land nachgehen, als welchen sothanes Ble¬
+#facs_274_r2l7 sen Fürters unversperret bleibet.
+#facs_274_r2l8 11. Und obgleich wir die bißherige Jahr Mär¬
+#facs_274_r2l9 in Unser Baubt Statt Substistieren
+#facs_274_r2l10 laßen, so hat es dennoch darbey die Mey=
+#facs_274_r2l11 nung, daß die frembde Hausruth dieser
+#facs_274_r2l12 unserer Ordnung gleichmäßig an den
+#facs_274_r2l13 Jahr Märkten nachgeleben, und als
+#facs_274_r2l14 keine Maaren ausstellen noch vertau¬
+#facs_274_r2l15 sten sollen, deren Einführung durch dieser
+#facs_274_r2l16 Mandat verbotten ist; Damit aber so¬
+#facs_274_r2l17 thane außere Rauffleüth einer seits mit
+#facs_274_r2l18 Anlegung der Straff und Confiscation
+#facs_274_r2l19 nicht übereylet, anderseits aber auch die
+#facs_274_r2l20 Unwißenheit der Ordnung nicht vonim
+#facs_274_r2l21 vorschützen, so soll unserem Comerci¬
+#facs_274_r2l22 Raht obligen, die frembden Kauffleich
+#facs_274_r3l1 n'y
+#facs_274_r3l2 12
+#facs_274_r4l1 517.
+#facs_274_r4l2 an den hiesigen Jahr Märkten deßen verwahren,
+#facs_274_r4l3 und ihnen die hoch. Oberbeitliche Orsnung kun¬
+#facs_274_r4l4 machen zelaßen.
+#facs_274_r4l5 Weilen nun alles an der Execution gelegen
+#facs_274_r4l6 seyn wirs also ist auch Unser Ernstlicher
+#facs_274_r4l7 will und Meynung, daß ohne ansehen der
+#facs_274_r4l8 Persohn gegen diejenige verfahren werde, so die¬
+#facs_274_r4l9 ser unsere heylsamme zur allgemeinen Wohl¬
+#facs_274_r4l10 fahrt des Standts und Vatterlandtsab¬
+#facs_274_r4l11 gesehene Ordnung Einzulachen begehrten,
+#facs_274_r4l12 zu welchem wir unsern Comerci Rast
+#facs_274_r4l13 zu disfähliger Executions Cammern be-
+#facs_274_r4l14 näuset; und gleichwie derselbige durch hie=
+#facs_274_r4l15 vorige Reglement in der Competentz stehet
+#facs_274_r4l16 In Streitigkeiten, so diesem foro anhängig
+#facs_274_r4l17 biß auff zwey Tausend Pranken absolute
+#facs_274_r4l18 zu Erkennen, also haben wir denselben gegen¬
+#facs_274_r4l19 wärtig in fernerem dahin beqwältiget in
+#facs_274_r4l20 Paenal Sachen bis auffhundert Eheler
+#facs_274_r4l21 ohne Recours zu sprechen. Da aber der
+#facs_274_r4l22 Comerci=Raht termeynte daß das delictum
+#facs_274_r4l23 um ein mehreres zu büßen, mag zwahr
+#facs_275_r2l1 Die beschwährende Parthey vor Unsern täglichen
+#facs_275_r2l2 Raht. Recumieren, welchen wir gegenwärtig¬
+#facs_275_r2l3 Kewalt beygelegt, in derglichen Panat-Sache
+#facs_275_r2l4 biß auff zwey hundert Thaler absoluti zu
+#facs_275_r2l5 Richten, kan aber es eine höhere Sum berüs¬
+#facs_275_r2l6 =ren wurde, mag der beschwährende auch vor uns
+#facs_275_r2l7 den höchsten Gwalt recurrieren.
+#facs_275_r2l8 welcher wir hiemit zu manigliches Nach¬
+#facs_275_r2l9 nicht von Cantzlin publicieren und an ge¬
+#facs_275_r2l10 wohnten Ohrten anschlagen zulaßen gut,
+#facs_275_r2l11 befunden. Acta Coram 200 d. 7. Juny
+#facs_275_r2l12 10. Julii und 11. Augusti 1719
+#facs_275_r2l13 15
+#facs_275_r2l14 Antzley Barrii
+#facs_275_r4l1 h19
+#facs_275_r4l2 Ordonance Souveraine
+#facs_275_r4l3 Tendant a Faciliter et Augmenter les
+#facs_275_r4l4 Manufactures et le Comerce Dans le
+#facs_275_r4l5 Pays
+#facs_275_r4l6 Vous L'Adroyer Petit
+#facs_275_r4l7 et Grand Conseil de la Ville et Repub.
+#facs_275_r4l8 lique de Berne Saroir faisons, Qu'apres
+#facs_275_r4l9 avoir reflechi Combien les Manufactures
+#facs_275_r4l10 et le Comerce ont diffluence sur la prospe-
+#facs_275_r4l11 té d'un pays, de sorte qu'on peut les en
+#facs_275_r4l12 visager comme lunique moyen d'abolir
+#facs_275_r4l13 loisiveté et consequement la pauvreté
+#facs_275_r4l14 Comme aussi de pravenir la sortie de l'ar-
+#facs_275_r4l15 gent si prejudiciable an pays; Notre
+#facs_275_r4l16 Conftante atention a rechercher tous les
+#facs_275_r4l17 moyens convenables pour parvenir a ce
+#facs_275_r4l18 bût pour le bien de nos Etats, Nous auroit
+#facs_275_r4l19 determine a la ferme et inebranlable reso-
+#facs_275_r4l20 lution de faire les Etablissements Conte-
+#facs_275_r4l21 nus dans les articles suivants et de les
+#facs_276_r2l1 maintenir Inviolablement en ecartant tou
+#facs_276_r2l2 ce qui pourroit y prejudicier ou les traverser
+#facs_276_r2l3 afin de facilitere encourager touts leus
+#facs_276_r2l4 qui voudront sapliquer a des Entroprises si ne-
+#facs_276_r2l5 cessaires et si utiles et pour leur procurer une
+#facs_276_r2l6 douce jouissance de leurs peines et de leur
+#facs_276_r2l7 ravaux. Pour cet Effet avons arrete comme
+#facs_276_r2l8 huit.
+#facs_276_r2l9 1. D'autant que les Manufactures qui sont actu
+#facs_276_r2l10 ellement etablies ne sont pas encor d'une
+#facs_276_r2l11 assez grande ressource pour pouvoir sous
+#facs_276_r2l12 nir le pays de toutes les Necessitez Nous
+#facs_276_r2l13 avons trouver bon de proposer quelques
+#facs_276_r2l14 douceur et avantages aux Tabriquants
+#facs_276_r2l15 étrangers pour les Engager a sy venir
+#facs_276_r2l16 Etablir, pour cet Effet Nous avons donné
+#facs_276_r2l17 pouvoir a Nôtre petit Conseil de gratisir
+#facs_276_r2l18 Selon qu'il le trouvera Convenable, du droit
+#facs_276_r2l19 de Naturalisation, de telles personnes
+#facs_276_r2l20 Etrangeres qui voudront introduire des
+#facs_276_r2l21 Manufactures ou fabriques dans nos terres
+#facs_276_r2l22 en les recevant pour nos sujets sans quil
+#facs_276_r2l23 leur en doive rien (outer, apres qu'ils au
+#facs_276_r2l24 ront acquis un droit de Bourgeoisie ou
+#facs_276_r2l25 de Comunauté et s'il s'en presentoient,
+#facs_276_r3l1 11
+#facs_276_r3l2 111
+#facs_276_r5l1 521
+#facs_276_r5l2 qui desirassent de resider dans notre Capita
+#facs_276_r5l3 les meno, Nous Nous sommes reserver en
+#facs_276_r5l4 vertu de notre Edit du 15. May 1715
+#facs_276_r5l5 de disposer a legard de l'habitation perpen
+#facs_276_r5l6 recelle en leur saveur selon que lesdites
+#facs_276_r5l7 personnes Nous paroitroit utiles a
+#facs_276_r5l8 Etat et au Public
+#facs_276_r5l9 Aucun sapriquant ne sera gene de don¬
+#facs_276_r5l10 ner de l'ouvrage a qui ce soit mais ils
+#facs_276_r5l11 auront une Entiere liberté de faire
+#facs_276_r5l12 traivailler leurs marchandises dans
+#facs_276_r5l13 tout le pays par qui bon leur somblera,
+#facs_276_r5l14 Il sera néantmoins deffendu aux
+#facs_276_r5l15 fabriquants de vendre autrement qu'en
+#facs_276_r5l16 gros, de sorte quils ne devront point vendre
+#facs_276_r5l17 en detail ou a l'anné ni dans les Magazins
+#facs_276_r5l18 ni dans les maisons particulieres, et encor-
+#facs_276_r5l19 moins en Boutique Ouverte, mais unique
+#facs_276_r5l20 rece=
+#facs_276_r5l21 ment par pieces reserve Cependant sil neçeu
+#facs_276_r5l22 voietre
+#facs_276_r5l23 vant Comission Expresse d'un particulier
+#facs_276_r5l24 de fabriquer quelque Etoffe pour son usa-
+#facs_276_r5l25 ge, ce qui leur sera permis.
+#facs_276_r5l26 D'autant que la Consomption est l'ame de
+#facs_276_r5l27 toutes les Manufactures, Nous avons pour
+#facs_276_r5l28 le bien du pays et pour procurer a ceux
+#facs_276_r5l29 qui fabriqueront, une debite assurée de
+#facs_277_r2l1 11
+#facs_277_r2l2 "
+#facs_277_r2l3 5.
+#facs_277_r3l1 leurs marchandises resolu et arreté que
+#facs_277_r3l2 Nous tous les membres de l'Etat, n'emplo
+#facs_277_r3l3 gerions pour habiller Nous et Nos Fami
+#facs_277_r3l4 lles que des Marchandises fabriquées au
+#facs_277_r3l5 pays, tant de Laines Cottons, Toiles So-
+#facs_277_r3l6 yes, Peaux et Cuir Et de quelle autre
+#facs_277_r3l7 nature quellessoyent, et Comme Nous
+#facs_277_r3l8 avons bien voulu nous astreindre nous
+#facs_277_r3l9 memes a Cela Nous Voulons Ordonnons
+#facs_277_r3l10 que semplablement tous Ceux qui sont
+#facs_277_r3l11 pour vûs de Charges ou de Benefices
+#facs_277_r3l12 tant en Nos pays Allemands, qu'au-
+#facs_277_r3l13 pays de Vaud, ayent a sy Conformer
+#facs_277_r3l14 a Nôtre Simitation, soit que les dito
+#facs_277_r3l15 charges et benefices relevent immedée
+#facs_277_r3l16 tement de Nous, ou de la Magistratu
+#facs_277_r3l17 e des Villes
+#facs_277_r3l18 Pour prevenir tous leshrtacles qui
+#facs_277_r3l19 pouvoient se presenter a la ruine ou du
+#facs_277_r3l20 moins au prejudice des Manufactures par
+#facs_277_r3l21 avons trouvé necessaire d'y pourvoir par des
+#facs_277_r3l22 precautions Convenables au but de nos bonnes
+#facs_277_r3l23 Intentions. pour cet Effet nous descendons
+#facs_277_r3l24 par ces presentes trés serieusement sous la
+#facs_277_r3l25 peines portées cy apres l'entrée et la deb
+#facs_277_r3l26 le de toutes les marchandises Etrangeres to
+#facs_277_r3l27 les sortes et Especes se fabriqueront dans le
+#facs_277_r5l1 . 523
+#facs_277_r5l2 pays /: Comme sont les draps et Etoffer de
+#facs_277_r5l3 sema
+#facs_277_r5l4 bij
+#facs_277_r5l5 laine, demi laine, Etoffes de joye, ou de
+#facs_277_r5l6 Cottons les Toiles, Exepte pour Coeffures
+#facs_277_r5l7 Manchettes, Collets, et Cravates, que l'on
+#facs_277_r5l8 pourra faire de Toiles Etrangeres en
+#facs_277_r5l9 Conformité de nôtre Mandat de Refor¬
+#facs_277_r5l10 me; Item les Manufactures de Cuirs
+#facs_277_r5l11 Gans
+#facs_277_r5l12 et de peaux, Comme souliers, &c
+#facs_277_r5l13 les Manufactures de fleuret et de gatet-
+#facs_277_r5l14 les Comme aussi les Chapeaux soit de
+#facs_277_r5l15 caines ou de poit et les bas de soye ou
+#facs_277_r5l16 de laine tant d'esté que d'hyver Ilaquelle
+#facs_277_r5l17 deffence devra avoir lieu dès le Jour de
+#facs_277_r5l18 la publication des presentes, bien entes
+#facs_277_r5l19 du que notre Conseil de Commerce seroit
+#facs_277_r5l20 les dispositions requises pour que les sus-
+#facs_277_r5l21 dites especes de Marchandises fabriquées,
+#facs_277_r5l22 au pays soient visitées et qu'ensnite la
+#facs_277_r5l23 debite de celles qui seront reconnues pour
+#facs_277_r5l24 bonnes so fasse a un prix raisonable
+#facs_277_r5l25 sil arrivoit que l'on fit entier de ces sortes de
+#facs_277_r5l26 Marchandises de Contrebande Clandestiment,
+#facs_277_r5l27 dans le pays, et que l'on decouvrit qu'un Mar-
+#facs_277_r5l28 chand en gardat, Nous donnons pouvoir par
+#facs_277_r5l29 cettes aux Inspecteurs etablis pour cet Effet
+#facs_277_r5l30 de Visiter un tel Marchand et declarons,
+#facs_278_r4l1 les grands Chemins ou dans des lieux ecartes la
+#facs_278_r4l2 reservants en leur faveur que les Foires ou ils
+#facs_278_r4l3 poumont vendre des marchandises permises
+#facs_278_r4l4 sons peine de la Confiscation irrevocable des
+#facs_278_r4l5 Marchandises a regard des Contrevenants, d'autant
+#facs_278_r4l6 plus que le negoce de ces sortes de gens neboutit
+#facs_278_r4l7 qua tirer ses bonnes esseces d'argent hors du
+#facs_278_r4l8 pays, bien entendu que sous le nom de mercier
+#facs_278_r4l9 ne sont pas Compris les Vitriers qui roulent
+#facs_278_r4l10 par le pays, uniquement pour racomoder les
+#facs_278_r4l11 benestres aux quels nous laissons la liberte de
+#facs_278_r4l12 faire comme du passé.
+#facs_278_r4l13 Quoique Nous laissons subsister les foires sur la
+#facs_278_r4l14 cien pied dans notre Ville Capitale Nous enten
+#facs_278_r4l15 dons Cependant que les Marchands Etrangers des
+#facs_278_r4l16 ront aux dites foires sy Conformer suivant la
+#facs_278_r4l17 presente Ordonance de sorte quils ny devront eu
+#facs_278_r4l18 poser a vendre aucunes des Marchandises dont
+#facs_278_r4l19 lentrée est deffenduë par les presentes; Mais af
+#facs_278_r4l20 qu'il n'auve aucune surprise a legard des octob.
+#facs_278_r4l21 Marchands Etrangers par rapport aux Con-
+#facs_278_r4l22 fiscations et amandes, et aussi quils ne puissent
+#facs_278_r4l23 point pretexter d'ignorance Notre Conseil d'
+#facs_278_r4l24 Commerce aura soin de les en faire avertir, en
+#facs_278_r4l25 les rendants sachants de Ordomance Souveraines
+#facs_278_r4l26 Or Comme le tout depend de l'execution nous
+#facs_278_r4l27 voulons et entendons très serieusement que l'on
+#facs_278_r4l28 procede a la rigueur et sans avoir égard a par
+#facs_278_r4l29 sonne contre tous Ceux qui voudroient contre
+#facs_278_r4l30 venir a notre presente Ordonnance si salutaire
+#facs_278_r5l1 527
+#facs_278_r5l2 pour la prosperité de lʼEtat et de la Patrie qui
+#facs_278_r5l3 en fait lunique objet; Et pour cet Effet Nous
+#facs_278_r5l4 avons nommé notre Conseil de Comerce pour
+#facs_278_r5l5 en etre la Chambre d'Execution, au quél, outre
+#facs_278_r5l6 la Competence qu'il a de juger absolument
+#facs_278_r5l7 jusques a la somme de deux milles franco dans
+#facs_278_r5l8 les Cas qui en relevent; Nous avons ajouté le
+#facs_278_r5l9 pouvoir de decider sans recours jusques a la
+#facs_278_r5l10 somme de Cent Ecus blancs dans les affaires
+#facs_278_r5l11 paenales; mais lorsque le Conseil de Commerce
+#facs_278_r5l12 rouveroit quelque faute d'une nature a estre
+#facs_278_r5l13 partie
+#facs_278_r5l14 punie par une amande plus forte, la pa
+#facs_278_r5l15 qui sen croira lesée pourra en recourir par
+#facs_278_r5l16 devant Notre petit Conseil, au quel nous avons
+#facs_278_r5l17 donne le pouvoir de juger absolument dans
+#facs_278_r5l18 ces sortes d'affaires paenales jusques a la som
+#facs_278_r5l19 me de 200. Ecus blancs; et diceluy meme dans
+#facs_278_r5l20 les cas qui Excederont la dite somme, l'on
+#facs_278_r5l21 pourra avoir recours à Notre Conseil
+#facs_278_r5l22 Souverain
+#facs_278_r5l23 cest ce que pour la notice d'un Chacun Nous
+#facs_278_r5l24 avons trouvé a propos de faire publier en
+#facs_278_r5l25 et par affiches aux lieu acoutumés, Donne
+#facs_278_r5l26 dans notre Conseil Souverain le 7. de Juin
+#facs_278_r5l27 le 10. de Juillet et le 11. d'aout 1719
+#facs_278_r5l28 L S Chancellerie de Berne

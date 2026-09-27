@@ -1,0 +1,38 @@
+Law ID: BER.01.001.2145
+Name: Aussgerissner Soldaten halb uss Franckreich.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 27/27
+# High similarity (>=50%): 23
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_192_r3l29 6
+#facs_192_r6l1 Kewis, Morsee, Lausanna, Milden. 330
+#facs_192_r6l2 Wätterlingen Wangen erwangen zipp.
+#facs_192_r6l3 Arburg vndt Frauw.
+#facs_192_r6l4 Auß gewißner Soldaten halb vß Franckreich
+#facs_192_r6l5 Schuldtheis vnd Raht etc. Wie bereits feredriges
+#facs_192_r6l6 6
+#facs_192_r6l7 ches auff anhalten Ir Exl. des französischen Hrn. Ambassadoren
+#facs_192_r6l8 beschechen, als habend wir auch dißmalen auff deselben
+#facs_192_r6l9 frisches ersuchen vnd anhalten bewilliget, daß die Jenigen
+#facs_192_r6l10 Soldaten zu Roß vnd Fuß, pauß Franz Freichischen Dienst¬
+#facs_192_r6l11 als außgerißer daher komend, vnd Ihr Paßporten nit auff
+#facs_192_r6l12 zu weisen habend, auffgehalten, vnd Ihr Pferdt, gewehr
+#facs_192_r6l13 und rüstung Ihnen zu handen des Königs abgenommen
+#facs_192_r6l14 und denen, so solchen außgerißnen nachsezend ankonnen
+#facs_192_r6l15 vnd sich an melden Werdent, zugestelt vnd an die handt
+#facs_192_r6l16 gegeben, Die Soldaten aber für Ihre Persohnen allein
+#facs_192_r6l17 hernach ledig und vort gelaßen werden sollend undt
+#facs_192_r6l18 do
+#facs_192_r6l19 3 e
+#facs_192_r6l20 mögend, Ihres wegs zugehen.
+#facs_192_r6l21 berichtend wir dich hiemit der Meinung undt zu
+#facs_192_r6l22 Dem endt auch mit dem beniech, Daß du deme
+#facs_192_r6l23 gemeß dich gegen denen, die es berüert, undt
+#facs_192_r6l24 bej die alp ohne faßporten ankomen möchten.
+#facs_192_r6l25 Zeerhalten wüßen sollest. Maßen wir nur
+#facs_192_r6l26 Versechend. Datum 17. May 1678.

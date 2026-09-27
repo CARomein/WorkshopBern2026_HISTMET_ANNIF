@@ -1,0 +1,40 @@
+Law ID: BER.01.001.2090
+Name: Die Ihrigen dahin zehalten, den Wein in leidenlichem Preis zugeben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 29/29
+# High similarity (>=50%): 29
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_143_r4l8 Alen, Chillion, Lausanna, Morsee,
+#facs_143_r4l9 Neuwisz, Romainmostier, Oron, Iferten vndt
+#facs_143_r4l10 Milder
+#facs_143_r4l11 Sie Ihrigen dahin gehalten, den Wein In leidenlichen
+#facs_143_r4l12 preis zugeben
+#facs_143_r4l13 Schuldtheiß und Raht der Stadt Bern
+#facs_143_r4l14 Wir habend unseren Ambtleüten Im Oberlandt benechlich
+#facs_143_r4l15 zugeschriben, ihre Ambtsangehörige dahin zehalten, daß
+#facs_143_r4l16 Sie sich des Bußeren vnd frömbden Weine gentzlichen ent¬
+#facs_143_r4l17 zeüchind, vnd sich dargegen in Vnseren Landen mit deme,
+#facs_143_r4l18 Darin gewachsen, versechind, damit das gelt, nit auß dem
+#facs_143_r4l19 Landt verüßeret werde etc. mit der Vertröstung, vnsern
+#facs_143_r4l20 Vnderthanen im Weltschen Landt, welche wein Zeuerkonffen
+#facs_143_r4l21 habind, Ihnen Jederweilen denselben in leidenlichem
+#facs_143_r4l22 preis zukommen laßen werdind etc. deßen nun
+#facs_143_r4l23 habend wir dich hiemit berichten, vnd die darbej bevelchen
+#facs_143_r4l24 wollen, denen Jenigen die Reben habend, bej denen
+#facs_143_r4l25 gemelte vnsere oberlendische vnderthanen sich anmelden
+#facs_143_r4l26 mögten, —
+#facs_144_r1l1 233
+#facs_144_r1l2 Vollat
+#facs_144_r3l1 ernstlich zugepieten, sich eines gebührenden leidenlichen
+#facs_144_r3l2 reises zu contentieren und zuersechigen, vnd dann
+#facs_144_r3l3 har nit etwan anlaß genommen, denselben zu steigen
+#facs_144_r3l4 Wie wir Uns zu ihnen Versachen haben wöllen.
+#facs_144_r3l5 Sie solcher billigkeit bei ihnen plaz geben werdind
+#facs_144_r3l6 andere anstalt, so widrigen fahls nohtwendig sei.
+#facs_144_r3l7 möchten Zennemenden. Noch mit uns, Datum
+#facs_144_r3l8 Aug. 1676

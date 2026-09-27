@@ -1,0 +1,28 @@
+Law ID: BER.01.001.4723
+Name: Getreid Verkauf im Welschen Land.
+
+#facs_161_r4l1 Im hinach po338.
+#facs_161_r4l2 Eoll
+#facs_161_r5l1 315.
+#facs_161_r5l2 Getreid Verkauf
+#facs_161_r5l3 im Welschen Land.
+#facs_161_r5l4 An
+#facs_161_r5l5 alle Herren Amtleüt Welschen Landes da Obrig¬
+#facs_161_r5l6 keitliches Getreid ligt
+#facs_161_r5l7 Schultheis Räth und Berger etc.
+#facs_161_r5l8 Auf angehörten Vortrag Unserer fürge¬
+#facs_161_r5l9 liebten Miträthen der Herren Welsch Sekel¬
+#facs_161_r5l10 meister und Renneren, haben Wir erkannt
+#facs_161_r5l11 daß die noch übrig bleibende hälfte der Sommer¬
+#facs_161_r5l12 fruchten von nun an versilleret, und zu kleinen
+#facs_161_r5l13 keufen abgesteßen und darfür gebührende Rech¬
+#facs_161_r5l14 nung getragen werden solle; der Verkauf
+#facs_161_r5l15 dann bis den 15te herbstmonat nächstkünftig
+#facs_161_r5l16 daß en ihrgem verhalt
+#facs_161_r5l17 fortdauren möge;
+#facs_161_r5l18 berichtet werdet.
+#facs_161_r5l19 In Absicht auf die übrig bleibenden Winte¬
+#facs_161_r5l20 fruchte und deren Verkauf aber, werden Wir
+#facs_161_r5l21 Euch seiner Zeit das fernere überschreiben
+#facs_161_r5l22 Datum den 31ten Sray 1793.
+END

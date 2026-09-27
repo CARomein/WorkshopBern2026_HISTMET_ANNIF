@@ -1,0 +1,79 @@
+Law ID: BER.01.001.4716
+Name: Verordnung ansehend die Holzaustheilung [...] an die Gemeinden im Landgericht Seftigen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 68/68
+# High similarity (>=50%): 67
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_132_r4l1 257
+#facs_132_r4l2 Verordnung
+#facs_132_r4l3 ansehend die Holz Austheilung aus den Gurnigel¬
+#facs_132_r4l4 und Giebelegg = Waldungen, an die Gemeinden
+#facs_132_r4l5 im Landgricht Seftigen
+#facs_132_r4l6 Circulare an samtliche diese Gemeinden
+#facs_132_r4l7 Meghl. die Räthe haben sich durch die
+#facs_132_r4l8 Abnahme des Holzes in den Gurnigel und Giebel¬
+#facs_132_r4l9 egg Waldungen Ao. 1787. in der Nothwen¬
+#facs_132_r4l10 digkeit gestehen, die Austheilungen von Extra¬
+#facs_132_r4l11 Holz aus denselben namhaft einzuschränken
+#facs_132_r4l12 Da sich diese Waldungen durch eine solche
+#facs_132_r4l13 Ersparnis in etwas haben erholen können,
+#facs_132_r4l14 und Me Ghl. den Gemeinden so bis dahin aus
+#facs_132_r4l15 Gnaden daraus beholzet worden, gerne mit
+#facs_132_r4l16 Extra Holz zu Erhaltung ihrer Gebäuden
+#facs_132_r4l17 beyspringen möchten, in sofern die Wal¬
+#facs_132_r4l18 dungen nicht allzusehr erschöpft werden,
+#facs_132_r4l19 so haben hochdieselben zu verordnen gutgefunden:
+#facs_132_r4l20 Das Ordinärin Holz wird noch fer¬
+#facs_132_r4l21 1:°
+#facs_132_r4l22 zu einem Stok per Haushaltung ausgetheilt
+#facs_132_r4l23 werden; deßwegen soll jede Gemeind in
+#facs_132_r4l24 der Bittschrift, so sie jährlich dafür eingiebt
+#facs_132_r4l25 jede ihrer Haushaltungen mit Namen und
+#facs_132_r4l26 Zunau
+#facs_133_r2l1 Zunamen bemerken
+#facs_133_r2l2 Me Ghl. wollen auch zugeben,
+#facs_133_r2l3 2.
+#facs_133_r2l4 das diejenigen Partikularen von den
+#facs_133_r2l5 bemeldten Gemeinden, die Extra Holz
+#facs_133_r2l6 bedürftig seyn möchten, sich von drey
+#facs_133_r2l7 zu drey Jahren darum bewerben können.
+#facs_133_r2l8 Die Namen derjenigen so Extra Holz
+#facs_133_r2l9 begehren, sollen deutlich samt ihrem
+#facs_133_r2l10 Wohnungsort, aufgezeichnet werden.
+#facs_133_r2l11 damit man sie nicht mit andern Ver¬
+#facs_133_r2l12 wechsle, und diese Verzeichniß soll dann
+#facs_133_r2l13 mit der Bittschrift für das Ordinari Holz
+#facs_133_r2l14 eingegeben werden.
+#facs_133_r2l15 Diejenigen so extraholz erhalten
+#facs_133_r2l16 haben und sich vor Auslauf der bestimmten
+#facs_133_r2l17 drey Jahren auf die bemeldte Liste
+#facs_133_r2l18 würden sezen laßen, sollen nicht nur
+#facs_133_r2l19 nichts bekommen, sondern ohne anders
+#facs_133_r2l20 wieder für 3 Jahre von der Austheilung
+#facs_133_r2l21 des Extra Holzes ausgeschloßen seyn
+#facs_133_r2l22 3° Zwischen den Mayen Holzausthei¬
+#facs_133_r2l23 lungen sollen keine Holzb egehren ein¬
+#facs_133_r2l24 gegeben werden, als in fallen von
+#facs_133_r2l25 feüer- und Wasers = Noth, oder in
+#facs_133_r2l26 andern
+#facs_133_r4l1 259
+#facs_133_r4l2 anderen dergleichen dringenden Um¬
+#facs_133_r4l3 ständen
+#facs_133_r4l4 Alle Bittschriften sollen von wenig
+#facs_133_r4l5 4
+#facs_133_r4l6 stens zween Vorgesezten unterschrieben
+#facs_133_r4l7 behörig besiegelt, und diejenigen, so ins
+#facs_133_r4l8 Mayenholz gehören, dem Secretariat
+#facs_133_r4l9 der Holzkammer ohne Fehler vor dem 1te
+#facs_133_r4l10 Aprill zugestellt werden; indem nachher
+#facs_133_r4l11 keine abgenommen würden
+#facs_133_r4l12 Diese Verordnung wird der Gemeind mit
+#facs_133_r4l13 getheilt, damit sie sich darnach verhalte
+#facs_133_r4l14 und dieselbe zu künftiger Nachricht in ihr
+#facs_133_r4l15 Bemeindbuch einschreiben laße
+#facs_133_r4l16 Beben den 14ten May 1793.

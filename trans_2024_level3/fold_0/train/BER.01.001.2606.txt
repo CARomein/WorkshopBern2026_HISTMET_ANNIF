@@ -1,0 +1,85 @@
+BER.01.001.2606
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 76/76
+# High similarity (>=50%): 72
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_104_r1l1 195
+#facs_104_r1l2 Collath.
+#facs_104_r2l1 An alle Zt. und W. Ambtleüht,
+#facs_104_r2l2 4. Stätt, Freyweibel und Amann.
+#facs_104_r2l3 da getreit ist.
+#facs_104_r2l4 Den frucht-kauff wider einzihlen.
+#facs_104_r2l5 Schultheiß, Räht und Bürgern der Statt Gärn
+#facs_104_r2l6 id
+#facs_104_r2l7 anderem 6. May diß Jahrs hattend wir durch außschrei¬
+#facs_104_r2l8 ben Unseren angehörigen zu Statt und Land Widrumb ver¬
+#facs_104_r2l9 williget, daß Mäniglichen Innere und aüßern in Vnser
+#facs_104_r2l10 Gottmäßigkeit frucht auf Markten und bey den Häußeren
+#facs_104_r2l11 auffkauffen, und aussert derselben an Engnößische Ort
+#facs_104_r2l12 verführen möge, welches aber länger mit hat währen sollen,
+#facs_104_r2l13 als der Zustand der Zeiten es ervorderen werde, so auff
+#facs_104_r2l14 dißmahl uns vorkommene Erinnerung, sonderlichen aber
+#facs_104_r2l15 Es durch eingefallene schlechte Witterung die Frucht, Ernden
+#facs_104_r2l16 off den gebirgen so wol als etwelcher benachbarter Vßerer
+#facs_104_r2l17 eben außrahten, und zubesorgen, daß die besaameten
+#facs_104_r2l18 selber darvon nit minder in gefahr gesetzet werden möchten,
+#facs_104_r2l19 auch das allbereit ein Auffkauff der Frühten in Unser
+#facs_104_r2l20 vormäßigkeit verspührt worden, habend iß Oberkeitlicher
+#facs_104_r2l21 Vorsorg wir uns benöhtiget befunden, daßwegen bey Zeiten
+#facs_104_r2l22 Vorsehung züthun, damit nit etwan in mangel deßen
+#facs_104_r2l23 Vnseren
+#facs_104_r3l1 29b
+#facs_104_r3l2 Vnsere lieben angehörigen wider in nöhten gerahten, in
+#facs_104_r3l3 denen man vor weniger Zeit sich befunden hat, und hiemit in
+#facs_104_r3l4 abenderung ermeldten unsers außschreibens vom 6. May
+#facs_104_r3l5 Vor dißmahl angesehen, gehebt und verordnet, daß der
+#facs_104_r3l6 Einkauff der fruchten bey den Häüßeren so wol denen hödleren
+#facs_104_r3l7 als Vßeren, so nit vnsere Vnderthanen sind, Vnseren Undertha¬
+#facs_104_r3l8 en dan ins gemein gäntzlichen abgestrikt und verbotten
+#facs_104_r3l9 sein Sölle, Frücht Wert unser Ufottmäßigkeit zuverführen,
+#facs_104_r3l10 Denen Hodleren, so unsere Underthanen sind, allein zu laßende
+#facs_104_r3l11 Vff den öffentlichen Markten nach der bestimten Stund, wan
+#facs_104_r3l12 maniglichen sich mit früchten versehen haben wird, wie auch vff
+#facs_104_r3l13 Vnseren Obrigkeitlichen Häüßeren bey Unseren Ambtleühten,
+#facs_104_r3l14 fredicanten, burgeren und Herrschafft herren einzukauffen,
+#facs_104_r3l15 wo Fehr sie namblich die einkauffenden Frücht mit Wert vnser
+#facs_104_r3l16 Pottmäßigkeit verführen wolten: Den Vßeren aber bleibt
+#facs_104_r3l17 allein der Einkauff zugelaßen an öffentlichen Wochenmärt¬
+#facs_104_r3l18 ten, und zwar nur in Bescheidenheit, und ebenmäßig Erst zu
+#facs_104_r3l19 der stund, die denen Hodleren, wie gemeldt, jeden ohrts
+#facs_104_r3l20 bestimt ist: Alles bey confiscation oder ander straaff, die in
+#facs_104_r3l21 vorigen Mandaten außgetrukt ist, die gegen den Übertrettenden
+#facs_104_r3l22 ohne schohnen angewendt werden soll: Befelchend also dir
+#facs_104_r3l23 hiemit, Ernsthafft und bey deiner Pflicht, nit nur die
+#facs_104_r3l24 execution
+#facs_105_r2l1 Execution die hoch angelegen sein, hierzu die Auffseher
+#facs_105_r2l2 bestellen, sonder auch diesen Vnseren Willen von Cantzlen
+#facs_105_r2l3 Verkünden zu laßen, damit niemand der Unwüßenheit
+#facs_105_r2l4 sich entschuldigen könne; dan es ist Unser will. Gott mit
+#facs_105_r2l5 Dir! Dat. 3. Octob. 1695.
+#facs_105_r2l6 An alle T. vndt W. Ambtleut
+#facs_105_r2l7 4. Statt, FreitWeibel undt Amman
+#facs_105_r2l8 Item p placcard allhier in der Statt.
+#facs_105_r2l9 Wegen admodiation der Lauterbrünischen
+#facs_105_r2l10 Vergt wercken
+#facs_105_r2l11 su
+#facs_105_r2l12 Schultheiß und Raht der Statt Periz
+#facs_105_r2l13 Wir sind vorhabene Unsere Leuterbrumsche
+#facs_105_r2l14 berg Herck so nun eine Zeit daher ledig gestanden
+#facs_105_r2l15 Viderumb umb einen leisenlichen preis zu
+#facs_105_r2l16 admodieren; Damit nun solcher aller Ohrte
+#facs_105_r2l17 s
+#facs_105_r2l18 rung gethan werde; habendt Wir dich gleich
+#facs_105_r2l19 gegen anderen unseren Ambtleüten auch
+#facs_105_r2l20 beschieht, dessen hiemit nachrichtlich verstän=
+#facs_105_r2l21 digen wollen, mit dem Befald solches zu pub=
+#facs_105_r2l22 licieren, undt im Fahl der eint oder andere
+#facs_105_r4l1 von deinen Ambtrangehörigen selbige zu bestehe¬
+#facs_105_r4l2 lust gewune; Den oder dieselben noch vor dem
+#facs_105_r4l3 Frühling allhir vor Vnsere Fürgeliebte Mitröht
+#facs_105_r4l4 Teutsch Säckelmeister und vonnere zuweisen; Wie
+#facs_105_r4l5 zuthun wüsten wirst. Dat. 18. Novembris 1695.

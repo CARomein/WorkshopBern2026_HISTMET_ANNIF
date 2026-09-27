@@ -1,0 +1,38 @@
+Law ID: BER.01.001.4712
+Name: Getreid=Verkauf und Ergänzung des Kriegsvorraths.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 27/27
+# High similarity (>=50%): 10
+# Low similarity (<50%): 17
+# Not found: 0
+#
+#facs_118_r4l14 Datum den 15ten März 1793.
+#facs_118_r4l15 7 etwas weiter auszudehnen: demnach verordnen Wir
+#facs_118_r4l16 hiermit, daß in den Uns zugehörigen Zehm bezirken von
+#facs_118_r4l17 nun an einer jeden Haushaltung vergönt
+#facs_118_r4l18 Getreid = Verkauf und Ergänzung des Kriegs¬
+#facs_118_r4l19 Vorraths
+#facs_118_r4l20 An alle d. u. W. Herren Amtleut und Schafner
+#facs_118_r4l21 wo oberkeitlich Getreid ligt
+#facs_118_r4l22 Schultheis Räth und Burger u
+#facs_118_r4l23 Auf den uns von Unserer Verordneten
+#facs_118_r4l24 Deutschen
+#facs_118_r4l25 Welchen Venner und Korn-Kammer vorge¬
+#facs_118_r4l26 legten Getreid Etat pro Martini 1792. haben
+#facs_118_r4l27 Wir die Verstilberung der Winterfrüchten
+#facs_118_r4l28 noch eingestellt; in Ansehen der Sommer
+#facs_118_r4l29 früchten aber erkennt: das der Kriegs¬
+#facs_118_r5l1 de la
+#facs_119_r3l1 Vorrath an Haber auf allen Aemtern,
+#facs_119_r3l2 besonders weil der ferndrige Haber von
+#facs_119_r3l3 guter Qualitat, so geschwind möglich
+#facs_119_r3l4 ergänzt, und erst nach daheriger Ergän¬
+#facs_119_r3l5 zung die Hälfte der überschießenden Sommer
+#facs_119_r3l6 früchten zu kleinen Käuffen, und unter
+#facs_119_r3l7 den gewöhnlichen Vorsorgen abgestoßen
+#facs_119_r3l8 und darum gebührend Rechnung getragen
+#facs_119_r3l9 werden solle. Datum den 27ten März
+#facs_119_r3l10 1793.

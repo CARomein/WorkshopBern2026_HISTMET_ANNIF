@@ -1,0 +1,55 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 47/48
+# High similarity (>=80%): 45
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4459
+#facs_245_r2l4 Namero den
+#facs_66_r4l1 l'
+#facs_38_r4l20 Alle Welsche Herren Amtleit da Obrigkeitl. Getreid liegt,
+#facs_38_r4l21 und die nicht unter dem Obrigkeitl. Reglementstehen
+#facs_57_r5l23 Obed
+#facs_70_r4l17 Schultheiß Räht und Burger
+#facs_38_r2l7 Es ist Uns auf heute von seiten Unserer
+#facs_282_r3l2 fürgeliebten Mit Räthen der Herren Welsch
+#facs_39_r1l1 74.
+#facs_282_r3l3 Sekelmeister und Venneren erwarten
+#facs_39_r2l2 verordneten Korn Cammer über die Bestim
+#facs_39_r2l3 mung des auf Martini 1777 eingegangenen
+#facs_39_r2l4 Obrigkeitl. Getreids, der Vortrag gemacht
+#facs_39_r2l5 worden; Woraufhin Wir erbennt. Daß
+#facs_39_r2l6 für einmahl, und bis auf Unseren weiteren
+#facs_39_r2l7 bestimten Befehl, von dem Wayzen nicht
+#facs_39_r2l8 das mindeste verkaufft, von dem Rogge
+#facs_39_r2l9 und Mischelkorn dann nur die Helfte abge¬
+#facs_39_r2l10 stoßen, hingegen aber die Sommerfrüchte
+#facs_39_r2l11 welche (nach Abzug der Ordinari, und quasi
+#facs_39_r2l12 Oodinarii Ausgaben, von sothanem Obrigkeitl.
+#facs_39_r2l13 Getreis vorschießen werden) gänzlich ver¬
+#facs_39_r2l14 silberet werden sollen, der Meinung jedt
+#facs_39_r2l15 noch, daß von dato an, biß auf den 1ten May
+#facs_39_r2l16 nächstkünftig, nur die erstere Helfte der
+#facs_39_r2l17 Sommer Früchten, und sodann erst mit Anfang
+#facs_39_r2l18 des Maymonats, die andere Helfte abgestoß¬
+#facs_39_r2l19 und Verkaufft werden solle
+#facs_39_r2l20 Worbey Um¬
+#facs_39_r2l21 Wille uns Befelch in fernerein dahin gehen
+#facs_39_r2l22 daß in ansehen dieser verbaufenden
+#facs_39_r2l23 Früchten, die gewöhnlichen Praecautione
+#facs_39_r2l24 genommen, mithin das verkaufende mit
+#facs_39_r2l25 zu kleinen Kaüfen verkaufft, und dabey
+#facs_38_r4l2 solle.
+#facs_39_r4l1 75
+#facs_39_r4l2 vor allem aus das mindest behältliche Getreid
+#facs_5_region_1629374668377_462l14 Abgestoßen, in Specie dann die Sommerfrücht
+#facs_39_r4l4 Vorzüglich zu Anblühnung der Felderen hingegeben
+#facs_39_r4l5 auch erst denzumahl völlig verbaufft werden
+#facs_39_r4l6 sollen, wenn die Sommer Saat in Eüerem Amt und
+#facs_6_region_1629374899588_493l4 denen Gegenden von welchen der Saamen dazu
+#facs_39_r4l8 in demselben angekaufft wird, vollkommen wird
+#facs_39_r4l9 besorgt seyn; Welchemnach Ihr Euch zu verhalten
+#facs_39_r4l10 und über das erlösende uns Rechnung zu tragen
+#facs_39_r4l11 bnßen werdet. Dat. den 4ten Marty 1778.
+#facs_178_r8l1 en

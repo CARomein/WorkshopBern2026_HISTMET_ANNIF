@@ -1,0 +1,81 @@
+Law ID: BER.01.001.4389
+Name: Denen alten Meisteren und Wittfrauen Mezger Handwerks in Zürich, wird verwilliget, anstatt persönlich durch ihre Mezger Knechten Vych ankauffen zu lassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 70/70
+# High similarity (>=50%): 68
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_297_r3l13 an
+#facs_297_r3l14 Alle Teütsch und Weltsche Herren Amtleüth,
+#facs_297_r3l15 4. Stäck, Freyweibel und Ammann, Item per jedel
+#facs_297_r3l16 an die hiesige Cänzel
+#facs_297_r3l17 Denen Alten Meisteren und Wittfrauen Mezger
+#facs_297_r3l18 Handwerbs in Zürich, wird verwilliget, anstatt versönlich
+#facs_297_r3l19 durch ihre Mezger knechten Vych ankaufen zu laßen.
+#facs_297_r3l20 Stadthalter Räht und Bürger etc.
+#facs_297_r3l21 Da uns von seiten Lobl.n Standes Zürich
+#facs_297_r3l22 vorgestelt worden, was gestalten einiche
+#facs_297_r4l1 565.
+#facs_297_r4l2 Ihrer Bürgeren Mezger Meisteren und Witt¬
+#facs_297_r4l3 Frauen der Mezgeren, welche wegen Alters¬
+#facs_297_r4l4 und Gesundheits, Umständen nicht im stande
+#facs_297_r4l5 sind, Persönlich Vych einzubauffen, ange¬
+#facs_297_r4l6 halten, daß Ihnen verwilliget werden
+#facs_297_r4l7 möchte, ihren mit Oberkeitlichen Scheinen
+#facs_297_r4l8 abschikenden Knechten, in Unseren Landen
+#facs_297_r4l9 das nöhtige Vych für Ihre Fleischbänbe¬
+#facs_297_r4l10 ankaufen zu können; Wir dann diesen
+#facs_297_r4l11 Begehren entsprochen, mithin denen Bur¬
+#facs_297_r4l12 geren Mezgerhandtwerbs von Zürich, welche
+#facs_297_r4l13 Ihres Alters und Gesundheitshalb nicht im
+#facs_297_r4l14 stand sind, persönlich Vych in Unseren
+#facs_297_r4l15 Landen einzubauffen, und auch denen
+#facs_297_r4l16 Wittfrauen der Mezger Meisteren daselbs,
+#facs_297_r4l17 die günstige Bewilligung ertheilt, durch¬
+#facs_297_r4l18 Ihre Meisterknechten, die fie an Ihrer
+#facs_297_r4l19 Speis und Lohn haben, nach Unserer Verord¬
+#facs_297_r4l20 nung das zu ihren Fleisch Bänken ihnen
+#facs_297_r4l21 nöhtige Vych, in unseren Landen einbauf
+#facs_297_r4l22 fen zu mögen, doch, daß sie desthalb
+#facs_297_r4l23 mit Hoch Oberbeitlichen Scheinen versehen
+#facs_297_r4l24 seyen und sich übrigens in allem nach
+#facs_297_r4l25 Unser deshalb ausgangener Verordnung.
+#facs_297_r10l1 bre
+#facs_297_r10l2 4.
+#facs_298_r3l1 Vom 13ten July lezthin verhalten sollen.
+#facs_298_r3l2 Als werdet Ihr dieses nun zu Jedermanns¬
+#facs_298_r3l3 Verhalt und Nachricht öffentlich von
+#facs_298_r3l4 hanzlen verlesen laßen, und Euch darnach
+#facs_298_r3l5 zu richten wüßen. Dat. d. 21ten Sept. 1770.
+#facs_298_r3l6 An
+#facs_298_r3l7 Die Unter ArgenischeHerren Amtleut, u. 4. Statt
+#facs_298_r3l8 denen p. Jedel an MetzbH. der Marechaussee¬
+#facs_298_r3l9 und Policey Cammer, Item an H. Großweibel
+#facs_298_r3l10 und H. Gerichtschreiber
+#facs_298_r3l11 Auf vier, von Lobl. Stadt Straßburg signalisierte
+#facs_298_r3l12 Straßen Raüber zu achten
+#facs_298_r3l13 Stadthalter und Raht
+#facs_298_r3l14 Von Lobl. Stadt Straßburg, ist an uns das
+#facs_298_r3l15 Freund Nachbahrliche ansuchen geschehen, daß
+#facs_298_r3l16 auf die in mitbommendem Signalement ver¬
+#facs_298_r3l17 namsete Vier Straßen Raüber, welche den
+#facs_298_r3l18 Joseph Rint von Otrazheim in dem fleben
+#facs_298_r3l19 Merlenheim auf der Straß zu Dreyen
+#facs_298_r3l20 mahlen angegriffen, und so Mißhandlet,
+#facs_298_r3l21 daß er Tags darauf Todes verblichen, in
+#facs_298_r3l22 hiesigen Landen möchte geflißene Acht bestelt,
+#facs_298_r5l1 567
+#facs_298_r5l2 Auf betretten selbige angehalten, und gegen
+#facs_298_r5l3 Erlag der Kösten, Ihre ausgeliefert werden;
+#facs_298_r5l4 Da Wir nun dieser Stadt in sothanem Ansuchen
+#facs_298_r5l5 zu entsprechen kein Bedenken getragen, so
+#facs_298_r5l6 befehlen Wir Eüch, hinter Eüerem Amt /: Bezirks]
+#facs_298_r5l7 zu Anhaltung dieser Straßen Raüberen (fahls
+#facs_298_r5l8 sie sich darinn bliken laßen solten :/ die
+#facs_298_r5l9 gemeßene Anstalten vorzubehren, und
+#facs_298_r5l10 Uns deß verhaffts zu beiterer Verfügung
+#facs_298_r5l11 ohngesäumt zu berichten, Dat. d. 24. Septl. 1770

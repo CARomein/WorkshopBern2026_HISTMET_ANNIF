@@ -1,0 +1,424 @@
+BER.01.001.2829
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 415/415
+# High similarity (>=50%): 408
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_357_r4l6 Nydauw. Item Wiblisfürg deß isten Punctenshält
+#facs_357_r4l7 Ihme zuschreiben 1: wegen des Treberbrönnens
+#facs_357_r4l8 2. des Treübelbrächens halb vor dem Läset undt
+#facs_357_r4l9 3. wegen Bestimmung deß Bahns.
+#facs_357_r4l10 Schultheiß und Rast etc.
+#facs_357_r4l11 Nachdehme uns vorgestelt worden, wie unentbunden bey annachen
+#facs_357_r4l12 der Herbstzeith vor dem bestimbten allgemeinen Weinläset
+#facs_357_r4l13 mit treübel abbrächen hinder deinem Ambtsbezirk er hergehe,
+#facs_357_r4l14 Da durch die Näbleüth und andere gantze korb. Hütten und
+#facs_357_r4l15 Krätten Voll und zwahr ohne begrüeßung des Eigenthumbs und
+#facs_357_r4l16 Zehndherren abgebrochen, verkaufft, verschänket und wäggegeben
+#facs_357_r4l17 werdend, welches sonderlichen auch zu empfindtlichem nachtheil
+#facs_357_r4l18 Der zehnden Eint und anderer ohrten gereichen thut
+#facs_357_r4l19 Sind Wir bemüeßiget worden, wider dieser schädliche Ich mehr
+#facs_357_r4l20 und mehr zunemmende mißbräuch ein einsehen gethun
+#facs_357_r4l21 und wollend demnach allen und Jeden und hiemit Mäniglichen
+#facs_357_r4l22 hierdurch ernstmeinend eingescherpfft haben, alles treübel=
+#facs_357_r4l23 abbrachens, sonderlich aber in abwäsenheit der bestelten
+#facs_358_r1l1 bahnwarten sich gäntzlichen zemüeßigen, widerhandlenden
+#facs_358_r1l2 fahls aber die übertrettere Ich nach beschaffenheit Best
+#facs_358_r1l3 Fräfels mit einer straff belegt werden sollend.
+#facs_358_r1l4 And weilen nun und dan bey den bahnsbestimmungen
+#facs_358_r1l5 zum allgemeinen Weinläset zimlichen Verwirrungen
+#facs_358_r1l6 beobachtet und anbey auch wahrgenommen worden, daß
+#facs_358_r1l7 wegen Eigennützens und anderer Vrsachen willen die
+#facs_358_r1l8 Hoffnung deß bahns zu allgemeinem Laset allzu sehr zu
+#facs_358_r1l9 befurderen getrachtet, und also der Läset mehrentheils
+#facs_358_r1l10 zu frühe und vor rechter Zeitigung der trauben bestimbe
+#facs_358_r1l11 und an die Hand genommen werde; Alß habend wir gutt=
+#facs_358_r1l12 befünden, zu müglichster steüwrung diesers übels hiemit
+#facs_358_r1l13 zu erkennen und zu verordnen, daß von nun an und
+#facs_358_r1l14 hinfüro zu bestimmung des Bahns allein die alten Hauß
+#facs_358_r1l15 vätter und sonsten bescheidene Leüth zugelaßen, und da
+#facs_358_r1l16 volglichen sothane Bahnsbestimmung unserem jehweiligen
+#facs_358_r1l17 Ambtsmann zu Nydauw, umb solchen entwedero zu
+#facs_358_r1l18 bestätigen, oder aber Ich nach erheüschender nohtdurfft
+#facs_358_r1l19 zu verrürtzen oder weiters hinausgesetzen, zugeschikt,
+#facs_358_r1l20 und seines bescheidts darüber erwartet werden solle.
+#facs_358_r1l21 Und damit dem Ich mehr und mehr einreißenden höchst
+#facs_358_r1l22 schädlichen treberbranen auch hinder Deinem Ambte
+#facs_358_r1l23 bezirck erforderlicher maßen gestrüwet werde; So habend
+#facs_358_r1l24 wir gantz nohtwendig befunden, sothaner treber=brönne
+#facs_358_r3l1 67
+#facs_358_r3l2 gentzlichen abzestellen, und Mäniglichen hiermit verwahren
+#facs_358_r3l3 und alleß Ernsts ein scherpffen und befehlen wollen, sich
+#facs_358_r3l4 zeßen alß einer gantz schäd- und verderblichen sach vollkom=
+#facs_358_r3l5 lichen gemüeßigen, widrigen fahls die übertrettere Ich nach
+#facs_358_r3l6 befindtlichem fähler abgestrafft werden sollend.
+#facs_358_r3l7 Welche vnsere Einsehen, willen und befelche du zu mänige=
+#facs_358_r3l8 liche nachricht und benemmung aller entschuldigung offent=
+#facs_358_r3l9 lich von Cantzlen deines Ambtsbezirks verkünden, undt
+#facs_358_r3l10 das Jacob fleißig gehalten werde, die ob= und angelägen seine
+#facs_358_r3l11 solches auch zu künfftiger nachricht behörigen oft einschrei¬
+#facs_358_r3l12 Laßen solst. Gott mit Dir! Dat. 28. Septembris. 1703.
+#facs_358_r3l13 Reformation Ordnung
+#facs_358_r3l14 An die drey Colloquia in der Class Neuws In ansehen
+#facs_358_r3l15 Der pflichten der Predicanten, der Chorrichteren
+#facs_358_r3l16 und der Güntinden
+#facs_358_r3l17 Nous L'Advoyer et Conseil de la Ville de Berne
+#facs_358_r3l18 sçavoir faisons par les presentes, qu'ayants consideré que
+#facs_358_r3l19 la principale fin de Nôtre Gouvernement doit consister
+#facs_358_r3l20 dans l'advancement de la Gloire de Dieu, et du Regne
+#facs_358_r3l21 de jesus Christ, en procurant que nos Peuples vivent
+#facs_358_r3l22 sous nôtre Domination tranquillement en piété envers
+#facs_358_r3l23 Dieu, en Charité et en toute honesteté envers les
+#facs_359_r2l1 prochain; pour cet effet il étoit necessaire de rendre
+#facs_359_r2l2 le Ministere de nos Eglises moyennant l'Assistance
+#facs_359_r2l3 Divine plus instructir et plus édifiant que du passé
+#facs_359_r2l4 par de Nouveaux Reglements auxquels les Pasteurs
+#facs_359_r2l5 les consistoires et les Peuples seront obligés de se confor
+#facs_359_r2l6 mer ponctuellement et affin que les Anciennes Ordon
+#facs_359_r2l7 nances subsistent aussy; Nous Avons jugé à propos
+#facs_359_r2l8 pour éviter confusion et que chacun tant mieux
+#facs_359_r2l9 puisse scavoir toutes les parties de son devoir et les
+#facs_359_r2l10 remplir plus facilement de joindre les Anciennes
+#facs_359_r2l11 Ordonnances aux Nouvelles et de faire publier en
+#facs_359_r2l12 Chaire ce qui regarde le peuple, le Consistoire et le
+#facs_359_r2l13 Comunes et par ainsy leur notifier nôtre volonté.
+#facs_359_r2l14 et ordonnance affin que chacun sçache l'observer Exa
+#facs_359_r2l15 ctement la suivre et obeijr aux Ministres.
+#facs_359_r2l16 Afin que les Pasteurs Exercent leur Ministere
+#facs_359_r2l17 avec tant plus d'Edification, il est necessaire qu'ils
+#facs_359_r2l18 Etudient exactement l'Etat de leurs Eglises pour
+#facs_359_r2l19 savoir les vices et lespechés qui regnent parmy leurs Parois
+#facs_359_r2l20 siens, afin de les Corriger et censurer tant plus serieu.
+#facs_359_r2l21 sement en bons serviteurs de Dieu, sans aucune craine
+#facs_359_r2l22 d'hommes, Comme par Exemple les Chicannes, les processes
+#facs_359_r2l23 non necessaires ou mal fondés tendants à la ruïne
+#facs_359_r2l24 des familles accompagnez de plusieurs ruses et tours
+#facs_359_r2l25 de Chicanneries, négligence dessoings de la famille et
+#facs_359_r4l1 de L'education des Enfans; Comme aussy les juremens
+#facs_359_r4l2 699
+#facs_359_r4l3 le jeu, la debauche et semblables pechés: Et affin de
+#facs_359_r4l4 reussir tant mieux dans un dessein si important, lesdes
+#facs_359_r4l5 Ministres visiteront soigneusement toutes les famille.
+#facs_359_r4l6 de leur Paroisse pour le moins une fois l'année, comme
+#facs_359_r4l7 un devoir de Ministre qui doit connoitre ses Brebis, leur
+#facs_359_r4l8 faire des Remonstrances selon la necessité, les Instruire
+#facs_359_r4l9 les Exhorter, les Consoler et ce tant les grands que les
+#facs_359_r4l10 petits;
+#facs_359_r4l11 Comme les Catechismes sont d'une grande utilité pour
+#facs_359_r4l12 l'Edification de l'Eglise, Nous trouvons à propos que
+#facs_359_r4l13 les preches sur semaine soient changés en Cathechisme
+#facs_359_r4l14 lesquels se feront publiquement dans les Eglises.
+#facs_359_r4l15 Ontre cela les Ministres seront obligez de faire des Cate-
+#facs_359_r4l16 chismes particuliers à la Jeunesse dans les Ecoles, das les
+#facs_359_r4l17 cures ou autres lieux les plus comodes; lesquels catechis
+#facs_359_r4l18 mes seront diligement frequentés par tous les Enfans de
+#facs_359_r4l19 la paroisse; Et à l'Egard de ceux qui souhaitteront de par-
+#facs_359_r4l20 ficiper aux precieux Sacrements de la Ste. Cene avons
+#facs_359_r4l21 ordoné qu'ils seront Catechisés par devant l'Assemblee un
+#facs_359_r4l22 Dimanche ou deux devant la Communion, et en cas que
+#facs_359_r4l23 le Ministre les trouve Capables d'etre admis à la Ste
+#facs_359_r4l24 Cene, il les y admette selon sa prudence, mais qu'il en
+#facs_359_r4l25 excluë les Ignorans et en use sans autre formalité
+#facs_359_r4l26 velon sa prudence
+#facs_360_r2l1 2° Affin que la Catechisation publique soit distribuée a tous
+#facs_360_r2l2 ceux qui ont bessin, les Ministres en „Registreront ceux
+#facs_360_r2l3 d'entre leurs paroissiens qui devront être interrogez, pour eu
+#facs_360_r2l4 lire le Rolle, marquer les absens, s'informer de la cause
+#facs_360_r2l5 de leur absence, laquelle n'etant pas legitime ou suffisante
+#facs_360_r2l6 leurs en feront des reproches en particulier et venants a
+#facs_360_r2l7 tomber par pere nonchalance jusques à trois fois de suite
+#facs_360_r2l8 ils les feront venir en consistoire pour y etre censures et
+#facs_360_r2l9 Bâtiez selon l'exigence du faits
+#facs_360_r2l10 4° Lorsque le Pasteur appercevra quelques dissentions, querelle
+#facs_360_r2l11 et inonities entre le mary et la feme et qu'il sera avec
+#facs_360_r2l12 de l'infidelité des serviteurs et des servantes envers
+#facs_360_r2l13 leurs maitres, de la desobeysance des Enfans envers leurs
+#facs_360_r2l14 peres et meres, de la haine et inimitié entre les voisins
+#facs_360_r2l15 et des Process frivoles entre les Particuliers, il usera alors
+#facs_360_r2l16 de prudence et de moderation, selon la necessité pour
+#facs_360_r2l17 retablir la paix, l'amitié, l’union, L'obeysance et la
+#facs_360_r2l18 gidelité et pour detourner les plaideurs de leurs recher-
+#facs_360_r2l19 ches legeres et de leurs chicannes par des fortes raisons
+#facs_360_r2l20 et persuasions Chrestiennes.
+#facs_360_r2l21 On avertira les Peuples qu'on nomme les disitateurs pour
+#facs_360_r2l22 tout le Cours de l’Année, affin qu’ils puissent se prevaloir
+#facs_360_r2l23 de la liberté qu'ils ont de s'acquitter de l'obligation ou il
+#facs_360_r2l24 sont de faire scavoir auxdts visitateurs les plaintes qu'ils
+#facs_360_r2l25 ont a faire contre leurs Ministres.
+#facs_360_r3l1 7
+#facs_360_r3l2 6. Rath
+#facs_360_r3l3 Anna B
+#facs_360_r3l4 7. 10ber
+#facs_360_r3l5 44
+#facs_360_r3l6 hendt
+#facs_360_r3l7 is
+#facs_360_r5l1 1701.
+#facs_360_r5l2 Nous trouvons qu'il est bon de retrancher les grands repas
+#facs_360_r5l3 que les Villes et les Comunes donnoient aux visitateurs
+#facs_360_r5l4 lorsque la visite auxquels assistoient nombre de personnes
+#facs_360_r5l5 et Chefs de La Comune pour luy faire Compagnie, ce qui
+#facs_360_r5l6 fournoit a la grande charge desdtes. Villes et Comunes et
+#facs_360_r5l7 bien loin que cela contribuat au sujet pour lequel la visite
+#facs_360_r5l8 se faisoit, l'intelligence qui se contractoit pendant ledt. repa-
+#facs_360_r5l9 etoit plus nuisible et Contraire a la visite Exacte, serieuse
+#facs_360_r5l10 et desinteressee des Posteurs et de L'Eglise; Ainsy Nous
+#facs_360_r5l11 voulons qu'au lieu d'un semblable repas, il soit donné
+#facs_360_r5l12 pour cela, par lesdtes. Villes et Comunes, au Visitateur un
+#facs_360_r5l13 Ecusblanc de quoy il pourra faire sa depence.
+#facs_360_r5l14 Nous voulons et Ordonnons qu'a l'advenir, lors qu'il y aura
+#facs_360_r5l15 vacance d'un Juge, d'une Ancien ou Assesseur du Consistoire que
+#facs_360_r5l16 le Ministre et le Consistoire, nomment a la pluralité des voix
+#facs_360_r5l17 deux Personnes capables d'exercer ces charges, gens de probité
+#facs_360_r5l18 et de bon sens, desquels nos Ballifs et les Seigneurs de Juris-
+#facs_360_r5l19 diction, qui auront droit de consistoire en éliront un pour rem
+#facs_360_r5l20 plir ladite vacance sans se laisser induire ou gagner en ladte
+#facs_360_r5l21 Election par aucuns dons ou presens que Nous deffendons, et
+#facs_360_r5l22 interdisons entierement a nos Ballifs, Vassaux et Ministres,
+#facs_360_r5l23 de recevoir pour cet effect, devant ni apres, soit par aucun
+#facs_360_r5l24 Ce dernier les derniers
+#facs_360_r5l25 des leurs directement ny indirectement, et peine d'etre de-
+#facs_360_r5l26 clarés coupables de Simonie et d'encourrir nôtre distance,
+#facs_360_r5l27 toutes lesquelles choses ne sont pas tant une nouvelle Ordon
+#facs_360_r5l28 nance
+#facs_360_r6l1 ffe
+#facs_360_r6l2 rée
+#facs_361_r1l1 nance qu'une reintroduction ou raffraichissement des
+#facs_361_r1l2 anciennes
+#facs_361_r1l3 8
+#facs_361_r1l4 Nous d'oulons aussy que quand que leur aura ainsy êté
+#facs_361_r1l5 ein a la charge de Consistorial, s'il arrivoit qu'il la refus
+#facs_361_r1l6 le Consistoire le devra puissament exhorter à l'accepter,
+#facs_361_r1l7 et s'il persistoit dans son refus, ils l'avertiront que la
+#facs_361_r1l8 plainte en sera portée a nos Ballifs, et iceux ne pouvant
+#facs_361_r1l9 les porter à l'accepter, nous en donneront avis pour connoitre
+#facs_361_r1l10 si ce refus est fondé sur des causes justes, et cela n'etant
+#facs_361_r1l11 pas, mais paroissant une simple desobeyssance et deffacier
+#facs_361_r1l12 de bonne volonté à servir l'Eglise, Nous luy puission
+#facs_361_r1l13 imposer telle peine et amende que nous trouverons
+#facs_361_r1l14 Convenable
+#facs_361_r1l15 9
+#facs_361_r1l16 Deplus Nous entendons et ordonnons que si les conoi-
+#facs_361_r1l17 storiaux etoient eux mêmes d'une Vie et d'un comporte:
+#facs_361_r1l18 ment scandaleux ou qu'ils protegeassent d'autres person-
+#facs_361_r1l19 nes, Commettans scandales ils seront deposés et outre cela
+#facs_361_r1l20 à Nous reveles, afin que leurs imposions encore un plus
+#facs_361_r1l21 rude chatiment, suivant l'importance ou l'exigence de
+#facs_361_r1l22 leur faute.
+#facs_361_r1l23 10. Nous voulons et Ordonnons que chaque Consistorial
+#facs_361_r1l24 soit obligé de se charger de l'inspection d'un certain nom
+#facs_361_r1l25 bre de familles, dont il soit responsable, et que suivant
+#facs_361_r2l1 it Zu
+#facs_361_r2l2 verläsen
+#facs_361_r2l3 ber sonst
+#facs_361_r2l4 Grobachten.
+#facs_361_r4l1 1703
+#facs_361_r4l2 cette introduction le Ministre etant descendu de la Chaire
+#facs_361_r4l3 ou dans d'autres occasions demandera et s'informera de
+#facs_361_r4l4 chacun des Consistoriaux, si tout se passe bien et dans l'ordre
+#facs_361_r4l5 dans sa repartition affin que lors que le Ministre voudra faire
+#facs_361_r4l6 la Visitation des familles, il puisse pour lors prendre avec luy
+#facs_361_r4l7 le Consistorial du quartier qu'il voudra visiter.
+#facs_361_r4l8 Nous ordonnons et commendons que les Juges et Assesseurs
+#facs_361_r4l9 des consistoires preteront le serment de leurs charges dans l'Eglise
+#facs_361_r4l10 en presence de toute l'Assembleé de six en six ans lors de l'entree
+#facs_361_r4l11 en Charge des Nouveaux Ballifs et le Ministre dirigera
+#facs_361_r4l12 son Action sur ce sujet et lira les devoirs des Consistoriaux
+#facs_361_r4l13 contenu dans nos diverses Ordonnances: Mais en cas que
+#facs_361_r4l14 le Juge ou quelemn des Assesseurs vint a deceder pendant
+#facs_361_r4l15 la prefecture du Ballif; Nous voulons qu'en tel cas
+#facs_361_r4l16 celuy ou ceux qui seront elûs en place seront obligés
+#facs_361_r4l17 de preter serment dans L'Eglise devant toute l'Assembl
+#facs_361_r4l18 qui leur sera intimé par le Ballif ou son Lieutenant
+#facs_361_r4l19 et en même tems les autres assesseurs seront rememores
+#facs_361_r4l20 par le serment qu'ils ont prêté de Continuer a remplir
+#facs_361_r4l21 leur devoir. /.
+#facs_361_r4l22 Nous entendons aussy que le Dixiéme article de nôtre
+#facs_361_r4l23 Mandat Souverain de l'An 1655, soit renouvellé et
+#facs_361_r4l24 observe, le quel porte deffense de vendre vin et de le-
+#facs_361_r4l25 debiter a pot et a pinte le jour du Dimanche, puisque
+#facs_362_r3l1 par cette voye le jour du Seigneur est honteusement
+#facs_362_r3l2 profané, sans pourtant que nous voulions enlever les
+#facs_362_r3l3 Exceptions des passans ou autres y contenuës.
+#facs_362_r3l4 Affin que les Impies ou prophanes qui nonobstant les
+#facs_362_r3l5 Remonstrances qui leur seront faites demeureront incon-
+#facs_362_r3l6 rigibles puissent en quelque façon être reprimes; Nous
+#facs_362_r3l7 permettons et Concedons que les consistoires soyent en
+#facs_362_r3l8 pouvoir de Condamner tels pecheurs obstines et desobeyssant
+#facs_362_r3l9 de subir la prison, soit riére nos Ballifs,soit riere nos
+#facs_362_r3l10 vassaux qui ont droit de tenir prisons, et de qui les coupables
+#facs_362_r3l11 se trouveront Jurisdiciables, dans les quelles ils seront ame
+#facs_362_r3l12 nes et lesdts. Ballifs et d'assaux seront tenus de les
+#facs_362_r3l13 recevoir suivant la teneur des Sentences Consistoriales
+#facs_362_r3l14 entendans expressement qu'a l'Egard de ceux qui ne seront
+#facs_362_r3l15 condamnés a la prison que pour vingt et quatre heures ou
+#facs_362_r3l16 n'exigera pour les dépends de l'Emprisonnement que
+#facs_362_r3l17 six sols; puisque pendant ce tems là il ne leur sera donné
+#facs_362_r3l18 aucune nourriture, mais on payera avec moderation le
+#facs_362_r3l19 salaire de Ceux qui les Conduiront dans lesdites Prisons
+#facs_362_r3l20 Nous deffendons et prohibons à nos Ballifs qu'ils
+#facs_362_r3l21 n'ayant a se licentier de dispenser sur ce que les Loin
+#facs_362_r3l22 et Ordonnances Consistoriales deffendent les jours du
+#facs_362_r3l23 Dimanche à peine de nôtre Hegrace.
+#facs_362_r4l1 14.
+#facs_362_r4l2 1705
+#facs_362_r4l3 A L'Egard des Paroisses composées de divers Villages, Nous
+#facs_362_r4l4 voulons et entendons que pour Etablir L'Inspection requise
+#facs_362_r4l5 dans chaque Comune, Elle soit pourveüe autant que faire se
+#facs_362_r4l6 pourra, d'un Consistorial pris dans le lieu, s'il s'y trouve des
+#facs_362_r4l7 sujets Capables d'Exercer cette charge.
+#facs_362_r4l8 15.
+#facs_362_r4l9 Nous deffendons aux Consistoires d'exiger des parties plus
+#facs_362_r4l10 d'Emolumens que ce que les loix et ordonnances Consistoria
+#facs_362_r4l11 les portent, ny de tirer plus d'un Ecusblanc, quand même le
+#facs_362_r4l12 Consistoire se seroit assemblé a L'Extraordinaire precisement
+#facs_362_r4l13 pour un fait.
+#facs_362_r4l14 16
+#facs_362_r4l15 Nous deffendons et prohibons aux consistoires de s'assemble-
+#facs_362_r4l16 à l'insceu et sans la presence des Ministres quand ils seront
+#facs_362_r4l17 sur les lieux, declarans les sentences prises en leur absence nulles
+#facs_362_r4l18 et de nul effect; N'entendans pourtant pas que si les Ministres
+#facs_362_r4l19 s'absentoient volontairement les Juges et les consistoires ne puis¬
+#facs_362_r4l20 sent s'assembler aux jours ordinaires et valablement faire
+#facs_362_r4l21 leurs fonctions conformement aux loix et ordonnances Consisto-
+#facs_362_r4l22 riales, et en cas que le Ministre fut Malade, il luy sera
+#facs_362_r4l23 donné comunication; ou bien si à Cause de longue maladie
+#facs_362_r4l24 foiblesse ou vieillesse, il avoit un suffragant arresté, iceluy
+#facs_362_r4l25 pourra et devra assister en Consistoire a la place du
+#facs_362_r4l26 Ministre etc.
+#facs_362_r4l27 regulter. Nous voulons aussy et Entendons que les consistoires riere
+#facs_362_r4l28 ein aber sonst nos vassaux soyent pourveus, composés et exerce comme du
+#facs_362_r4l29 beobachten
+#facs_362_r4l30 passé; Sçavoir du Ministre, d'un Juge et des Assesseurs consisto-
+#facs_362_r4l31 naux
+#facs_363_r3l1 par cette voye le jour du Seigneur est honteusement
+#facs_363_r3l2 profane, sans pourtant que nous voulions enlever les
+#facs_363_r3l3 Exceptions des passans ou autres y contenuës.
+#facs_363_r3l4 Affin que les Impies ou prophanes qui nonobstant les
+#facs_363_r3l5 Remonstrances qui leur seront faites demeureront encore
+#facs_363_r3l6 rigibles puissent en quelque façon être reprimes; Nous
+#facs_363_r3l7 permettons et Concedons que les consistoires soyent en
+#facs_363_r3l8 pouvoir de Condamner tels pecheurs obstines et desobeyssant
+#facs_363_r3l9 de subir la prison, soit riere nos Ballifs, sert riere, nos
+#facs_363_r3l10 Vassaux qui ont droit de tenir prisons, et de qui les coupables
+#facs_363_r3l11 se trouveront Jurisdiciables, dans les quelles ils seront ame
+#facs_363_r3l12 nes et lesdts. Ballifs et dassaux seront tenus de les
+#facs_363_r3l13 recevoir suivant la teneur des sentence Consistoriales
+#facs_363_r3l14 Entendans expressement qu'a l'Egard de ceux qui ne seront
+#facs_363_r3l15 condamnés à la prison que pour vingt et quatre heures ont
+#facs_363_r3l16 n'exigera pour les dépends de l'Emprisonnement que
+#facs_363_r3l17 six sols; Puisque pendant ce tems la il ne leur sera donné
+#facs_363_r3l18 aucune nourriture, mais on payera avec moderation le
+#facs_363_r3l19 salaire de Ceux qui les Conduiront dans lesdites Prisons
+#facs_363_r3l20 Nous deffendons et prohibons a nos Ballifs qu'ils
+#facs_363_r3l21 n'ayent à se licentier de dispenser sur ce que les Loix
+#facs_363_r3l22 et Ordonnances Consistoriales deffendent les jours du
+#facs_363_r3l23 Dimanche à peine de nôtre distance. =
+#facs_363_r4l1 14.
+#facs_363_r4l2 1705
+#facs_363_r4l3 A L'Egard des Paroisses composeés de divers Villages, Nous
+#facs_363_r4l4 voulons et entendons que pour Etablir L'Inpection requise
+#facs_363_r4l5 dans chaque Comune, Elle soit pourveüe autant que faire se
+#facs_363_r4l6 pourra, d'un Consistorial pris dans le lieu, s'il s'y trouve des
+#facs_363_r4l7 sujets Capables d'Exercer cette charge.
+#facs_363_r4l8 is
+#facs_363_r4l9 Nous deffendons aux consistoires d'exiger des parties plus
+#facs_363_r4l10 d'Emolumens que ce que les Loix et ordonnances Consistoria
+#facs_363_r4l11 les portent, ny de tirer plus d'un Ecusblanc, quand même le
+#facs_363_r4l12 Consistoire se seroit assemblé a L'Extraordinaire precisement
+#facs_363_r4l13 pour un fait.
+#facs_363_r4l14 16
+#facs_363_r4l15 Nous deffendons et prohibons aux consistoires de s'assemble-
+#facs_363_r4l16 à l'insceu et sans la presence des Ministres quand ils seront
+#facs_363_r4l17 sur les lieux, declarans les sentences prises en leur absence nulle
+#facs_363_r4l18 et de nul effect; N'entendans pourtant pas que si les Ministres
+#facs_363_r4l19 s’absentoient volontairement les Juges et les consistoires ne puis-
+#facs_363_r4l20 sent s'assembler aux jours ordinaires et valablement faire
+#facs_363_r4l21 leurs fonctions conformement aux loix et ordonnances consisto-
+#facs_363_r4l22 riales, et en cas que le Ministre fut Malade, il luy sera
+#facs_363_r4l23 donné comunication; ou bien si à cause de longue maladie
+#facs_363_r4l24 foiblesse ou dicillesse, il avoit un suffragant arresté, iceluy
+#facs_363_r4l25 pourra et devra assister en consistoire a la place du
+#facs_363_r4l26 Ministre S.
+#facs_363_r4l27 Mitié zu terre Nous voulons aussy et Entendons que les consistoires riere
+#facs_363_r4l28 ten aber sonst nos vassaux soyent pourveus, composés et Exercé come du
+#facs_363_r4l29 Probaistes. pasée, sçavoir du Ministre, d'un Juge et des Assesseurs consisto-
+#facs_363_r4l30 riaux
+#facs_364_r3l1 riaux et puisque lesdts Juges sont les officiers de nos dits
+#facs_364_r3l2 vassaux et par eux etablis; iceux dits vassaux ne pourront
+#facs_364_r3l3 ny ne devront presider ny assister en personne aundito.
+#facs_364_r3l4 Consistoires. etc
+#facs_364_r3l5 Deplus nous ordonnons et statuons a tous les consistoires
+#facs_364_r3l6 de s'assembler le Jour ordinaire de la semaine qui precede
+#facs_364_r3l7 celle de la premiere Comunion, Premierement affin que la
+#facs_364_r3l8 Conduite de chaque membre du Consistoire soit Examine
+#facs_364_r3l9 depuis le premier jusques au dernier par la pluralité des
+#facs_364_r3l10 suffrages, celuy dont il s'agira s'etant retiré, et que rentrant
+#facs_364_r3l11 il luy soit en Charité fraternelle representé les manquement
+#facs_364_r3l12 de son office, qu'on aura remarqué en luy, pour être exhorté
+#facs_364_r3l13 a s'en Corriger: Secondemt affin qu'ils rendent conte de l'Etat
+#facs_364_r3l14 des familles pour remedier de bonne heure a ce qu'il sera de
+#facs_364_r3l15 besoin pour les reconciliations et autres deffauts opposez a
+#facs_364_r3l16 la Ste. Comunion et enfin pour qu'on regle tout ce qui regarde
+#facs_364_r3l17 l'ordre et le service de la Communion. —
+#facs_364_r3l18 Nous enjoignons et ordonnons à tous peres et meres ou
+#facs_364_r3l19 autres charges Ayants des Enfans qu'ils ayent à envoyer soig
+#facs_364_r3l20 neusemt lesdts Enfans ou pupils aux Ecoles, d'ou ils ne
+#facs_364_r3l21 pourront les retirer qu'apres les avoir fait examiner par
+#facs_364_r3l22 leur Ministre, pour voir s'ils savent lire courrament ou
+#facs_364_r3l23 du moins correctement; En sorte qu'ils puissent bien faire
+#facs_364_r3l24 la lecture de la Ste Ecriture dans leur Maison particulie
+#facs_364_r3l25 rement le soir apres soupper et les Dimanches apres les
+#facs_364_r5l1 19
+#facs_364_r5l2 20
+#facs_364_r5l3 nicht zu
+#facs_364_r5l4 Verlesen aber
+#facs_364_r5l5 ist zu
+#facs_364_r5l6 halten
+#facs_364_r5l7 20
+#facs_364_r6l1 907
+#facs_364_r6l2 repas: Et en cas d'opposition ou de desobeyssance de la part des
+#facs_364_r6l3 Peres, des Meres ou des Tuteurs, Nos Ballifs sur la plainte qui
+#facs_364_r6l4 leur sera faite y pourvoiront.
+#facs_364_r6l5 Nous remettons à la prudence de nos Ministres pour juger
+#facs_364_r6l6 quels Enfans devront sortir de L'Ecole et lesquels seront admis
+#facs_364_r6l7 sibles à la Ste Cene, Comme il a êté cy devant; Leur enjoignant
+#facs_364_r6l8 d'y proceder d'une maniere qu'il en puisse repondre devant Dieu;
+#facs_364_r6l9 Quand aux Enfans qui sçavent lire, nous enjoignons aux Parteurs
+#facs_364_r6l10 qu'ils ayent a insinuer fortement aux Peres, Meres et Tuteurs
+#facs_364_r6l11 qu'ils obligent les Enfans qui gardent le bétail de prendre avec
+#facs_364_r6l12 eux quelques livres de devotion et qu'ils y lisent diligement
+#facs_364_r6l13 Nous desirons autant que faire se peut que les Ecoles soyent
+#facs_364_r6l14 frequentées aussy bien en Eté qu'en hyver, Mais eu égard ou cela
+#facs_364_r6l15 ne se peut pratiquer, Et ou l'on ne peut tenir la main que les Enfans
+#facs_364_r6l16 les frequentent pendant l'Été au lieu de cela Nous etablissions
+#facs_364_r6l17 les Catechisations publiques, et privées sur semaine que Nous voulons
+#facs_364_r6l18 devoir etre soigneusement frequentées par les Ecoliers pour être
+#facs_364_r6l19 bien instruits.
+#facs_364_r6l20 Enfin Nous voulons et ordonnons que les Peres, Mores et Tuteur,
+#facs_364_r6l21 qui auront de quoy payer le salaire accoutumé au Maître d'Ecole
+#facs_364_r6l22 y satisfassent au terme convenu et en cas de refus que le Chate
+#facs_364_r6l23 lain ou le premier Justicier sur la plainte du Maître d'Ecole
+#facs_364_r6l24 ou du Ministre, sera obligé d'aller avec deux autres Justiciers
+#facs_364_r6l25 ou Comuniers, pour le faire payer promptement, En levant
+#facs_365_r1l1 les gages d'une main et les vendant de l'autre, sans autre
+#facs_365_r1l2 figure de Process suivant nos precedentes Ordonances Et
+#facs_365_r1l3 pour tant mieux suppleér aux chetifs salaires des Maitres
+#facs_365_r1l4 d'Ecoles, Nous entendons et Voulons que les Chefs de
+#facs_365_r1l5 familles moyenneés qui n'ont point d'Enfans ou qui en
+#facs_365_r1l6 ont qui sont au dessus de l'âge de les envoyer à l'Ecole
+#facs_365_r1l7 contribuent suivant leur faculté pour l'entretien du
+#facs_365_r1l8 Maitre D'Ecole.
+#facs_365_r1l9 Ce sont les Reglemens que Nous avons jugé necessaire
+#facs_365_r1l10 de prescrire aux Posteurs de Nos Eglises, aux consistoires
+#facs_365_r1l11 aux Peuples, aux Peres et Mores de familles, leur enjoig
+#facs_365_r1l12 nans de s'y conformer, sous peine de nôtre distance, pour
+#facs_365_r1l13 cet effet, Nous Commandons a nos Ballifs, comme aussy aux
+#facs_365_r1l14 Doyens et Jurés des classes de veiller la dessus, affin que le
+#facs_365_r1l15 Contrevenants aprés avoir êté Charitablement avertis de
+#facs_365_r1l16 se corriger, soyent annotez dans les actes de Classe qui nous
+#facs_365_r1l17 seront envoyéz pour punir leur desobeyssance; Carainsy a
+#facs_365_r1l18 êté conclu et arresté en nôtre dit Conseil le 13. et 14
+#facs_365_r1l19 Juillet 1702. Le 31. May et 6. Sept, et 8. octobre 1703.

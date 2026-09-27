@@ -1,0 +1,64 @@
+Law nr: BER.01.001.4568
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 52/52
+# High similarity (>=80%): 46
+# Low similarity (<80%): 6
+# Not found: 0
+#
+#facs_166_r4l1 adq
+#facs_87_r3l14 alle deutsche Herren Amtleute
+#facs_147_r5l19 Landsassen
+#facs_36_r3l7 Schultheiß und Rath
+#facs_156_r6l20 die össtere, seit Errichtung der Land¬
+#facs_156_r6l21 saßen Corporation, von denen Landfasen
+#facs_156_r6l22 eingelegte Beschwerden, daß in de¬
+#facs_156_r6l23 nenjenigen Bemeinden wofie Haus
+#facs_156_r6l24 häblich sitzen, oder sich Haus hablich nieder
+#facs_156_r6l25 zu laden gedenken, hin und wieder
+#facs_156_r6l26 das
+#facs_108_r2l2 0
+#facs_157_r2l1 Das Hindersäs geld auf eine Willbiche,
+#facs_157_r2l2 die Weise und äußert allem Ver¬
+#facs_157_r2l3 hältniß mit dem allfähligen an
+#facs_157_r2l4 wenig Orten sich vorfindenden General
+#facs_157_r2l5 gesteigert und so vermehrt werde,
+#facs_157_r2l6 faß die mehresten von Ihnen bald
+#facs_157_r2l7 nicht mehr im Stand seyen, diese Hin¬
+#facs_157_r2l8 dersäs Gelder aufzubringen; anneben
+#facs_157_r2l9 auch angebracht worden, daß die
+#facs_157_r2l10 armsten Famillien Haut Vädter und
+#facs_157_r2l11 Wirtwen, welche alljärliche Assistentzen
+#facs_157_r2l12 von Unserer verordneten Lands All¬
+#facs_157_r2l13 nosen kammer erhalten, ohne Underscheid
+#facs_157_r2l14 das gleiche wir die bemitlete hin¬
+#facs_157_r2l15 dersaßen bezahlen, und oft mit eine
+#facs_157_r2l16 Hand als Hindersäsgeld ausrichten, bey
+#facs_157_r2l17 sie mit der anderen zu Erleichterung
+#facs_157_r2l18 ihrer Noth von der Kammer als Allmo¬
+#facs_157_r2l19 fen empfahen.
+#facs_157_r2l20 Wann nun durch verschiedene aus¬
+#facs_157_r2l21 gegangene Verordnungen denen Bemei¬
+#facs_157_r2l22 Den andtruklich und ersagt ist, willkühr
+#facs_157_r2l23 liche Hinderfäsgelder aufzulegen, und
+#facs_157_r2l24 solche eigenmächtig zu vermehren, so
+#facs_3_region_1627936339514_16l1 1
+#facs_12_r8l14 B
+#facs_157_r4l2 Die Bedrohung der
+#facs_157_r4l3 praeclusi
+#facs_157_r5l1 306
+#facs_157_r5l2 tragen Wir eüch auf, denen Vorgeschten
+#facs_157_r5l3 fer Bemeinden Euers Amts, alles
+#facs_157_r5l4 Ernsts anzubefehlen, sich hierinnen
+#facs_157_r5l5 denen vorhandenen Reglementen
+#facs_157_r5l6 gemäs zu verhalten, mithin die
+#facs_157_r5l7 Hin der sät gelder nicht zu verhöhen.
+#facs_157_r5l8 sondern selbige auf gleichem Ruß
+#facs_157_r5l9 zu beziehen, wie solche von Alters¬
+#facs_157_r5l10 har je weilen bezogen worden,
+#facs_157_r5l11 Datl. den 10t. May 1785.
+#facs_83_r3l6 en

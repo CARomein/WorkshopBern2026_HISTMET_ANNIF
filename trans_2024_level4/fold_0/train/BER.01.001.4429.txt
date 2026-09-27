@@ -1,0 +1,33 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 25/26
+# High similarity (>=80%): 25
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4429
+#facs_153_r8l5 Verordnung wegen den Sädkelfuhren
+#facs_93_r1l2 Collat.
+#facs_153_r8l1 297
+#facs_85_r9l2 d
+#facs_242_r4l13 Alle Teütsch und Weltsche Herren Amtleuth, 4. Städt,
+#facs_257_r2l10 freybeibel und Amann
+#facs_153_r8l5 Verordnung wegen den Sädkelfuhren
+#facs_4_region_1628102603697_72l1 Schultheiß und Raht
+#facs_153_r8l7 Unsere in mitkommendem Placcard ausgesezte
+#facs_153_r8l8 Verordnung vom 25ten Juny 1743 enthaltet deutlich,
+#facs_153_r8l9 daß die Bättel fuhr gegen alle Fremde zu gebrau
+#facs_153_r8l10 chen verboten, und daß mann sich derselben gegen
+#facs_153_r8l11 Einheimsche und Schweizerische Angehörige nur in
+#facs_153_r8l12 so ferne bedienen solle, als diese deren vonnöhten
+#facs_153_r8l13 haben werden, um von Haus in Spittähler und Bääder¬
+#facs_153_r8l14 oder von diesen oder anderen Orten, wider in ihr
+#facs_153_r8l15 Heymath zu kehren; da Wir nun von Benachbahr
+#facs_153_r8l16 ten Orten einer disförtigen Verordnung benach
+#facs_153_r8l17 richtet worden; so finden wir nöhtig, Euch die
+#facs_153_r8l18 frische Øffentliche Verkündung und Einschreibung,
+#facs_153_r8l19 wie nicht weniger auch die Handhabung obgemelter
+#facs_153_r8l20 Unserer Verordnung die Bäckelführen ansehend¬
+#facs_153_r8l21 einmit von neuem kräfftigst zu injungieren; Maßen
+#facs_153_r8l22 geschehen werde Wir Uns zu Euch versehen Dath.
+#facs_153_r8l23 Den 16ten Novembl. 1774

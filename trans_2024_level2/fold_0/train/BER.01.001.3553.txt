@@ -1,0 +1,42 @@
+Law ID: BER.01.001.3553
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_493
+# Matched: 31/31
+# High similarity (>=80%): 30
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_362_r4l14 An Alle Decanus Im Teütschen Cons.
+#facs_362_r4l15 Ihnen die Uniformitet in den Gebeten und Lyturgeg
+#facs_317_r3l16 anbefehle,
+#facs_38_r4l15 Schultheiß und Raht etc.
+#facs_22_r4l13 72
+#facs_29_r3l1 sollat
+#facs_363_r2l1 Wir habend vernommen müßen, daß Eint und
+#facs_363_r2l2 anderer Ohrten in den Kirchengebecken, wie
+#facs_363_r2l3 auch bey Begehung der Heil. Communion
+#facs_363_r2l4 Neuberungen vorgenommen werden, welches
+#facs_363_r2l5 Uns dan veranlaßet, gegen wehrtigen Befel¬
+#facs_363_r2l6 an Eüch /: gleich an übrige Decano, Teutschen
+#facs_363_r2l7 Caus beschicht :/ abgehen zu laßen, dahin, daß
+#facs_363_r2l8 in denen Kirchengebetten und Lyturgegen
+#facs_363_r2l9 nichts neüberliches unternommen, sonder
+#facs_363_r2l10 bey dem Agend Süechlin verblieben werde
+#facs_363_r2l11 Wann aber Eint oder andere etwelche AbEnse
+#facs_363_r2l12 rung zum Heil der Kirchen dienend, nöh¬
+#facs_363_r2l13 tig erachtete, solle er solches an Gebührend
+#facs_363_r2l14 Ohrt gelangen laßen, und unsers Willens Er¬
+#facs_363_r2l15 warten; und weilen etlicher Ohrten anstaet des
+#facs_363_r2l16 Gibellesens Jährend der Heil. Communion das
+#facs_363_r2l17 Gesang eingeführt worden, Alß hollend Wir
+#facs_363_r2l18 gehebt haben, daß solches Unterlagen, und
+#facs_64_r3l1 123
+#facs_363_r3l2 anstatt deßen, wie hier in der Haubtstatt beschicht¬
+#facs_363_r3l3 in der Bibel gelesen werde, langet solchemnach
+#facs_363_r3l4 Unser befelch an Euch, diese Vnseren Billen Eü¬
+#facs_363_r3l5 Herrn Capituls Brüederen zu Ihrem Verhalt Ein¬
+#facs_363_r3l6 Zuschärffen und zu insinuieren. Wie zuthun Ihr
+#facs_363_r3l7 Jäße verdet. Dat. den 22ten Nov. 1727.

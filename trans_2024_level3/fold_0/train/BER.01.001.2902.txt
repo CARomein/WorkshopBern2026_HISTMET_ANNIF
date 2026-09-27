@@ -1,0 +1,80 @@
+Law ID: BER.01.001.2902
+Name: Wegen hiesiger Tuch Manufactur.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 69/69
+# High similarity (>=50%): 68
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_54_r4l19 An alle T. undt W. Ambtleüth
+#facs_54_r4l20 4. Stett, Freyweibel und Ammann
+#facs_54_r4l21 item p Placcard in hiesiger Haubt Statt
+#facs_54_r4l22 Wegen hiesiger Tuch Mannfactur
+#facs_54_r4l23 Schultheis und Raht der Statt Bern.
+#facs_54_r4l24 Demnach Wir aus Landtvätterlicher Vorsorg angesehen
+#facs_54_r4l25 den so merklichen Auslauff des gelts aus Vnseren
+#facs_54_r4l26 Landen und die daraus entstehende allgemeine Armuht
+#facs_54_r4l27 auch den Vontag zu tag zu Statt und Land zunemenden
+#facs_54_r4l28 Mueßiggang, habend Wir zu steüwrug solch einreißender
+#facs_55_r2l1 üblen, nach dem Exempel anderer Fürsten undt
+#facs_55_r2l2 Ständen, die Einführung der Manufacturen, alß die
+#facs_55_r2l3 heilsambste und träfftigste Mittel, albereith vor etwas
+#facs_55_r2l4 Jahren zu wegen zu bringen gebrachtet, zu disem Ein
+#facs_55_r2l5 auch allen und Jeden Vnderfangeren oder Entreprenens
+#facs_55_r2l6 die hierzu nöstige Privilegia undt Freyheiten ertheilt
+#facs_55_r2l7 sonderlich aber das verpott vnderschildlicher hier Landträ¬
+#facs_55_r2l8 zu fabricieren nöstiger und inniglicher waaren von Vsten
+#facs_55_r2l9 Orten zu beschiken und zu verkauffen, zu mäniglichen
+#facs_55_r2l10 nachricht ergehen laßen, maßen Wir auch der
+#facs_55_r2l11 gnädigen Zutrauwens Zu allen mit dergleichen
+#facs_55_r2l12 waaren handlenden Kauffleükhen zu Statt undt
+#facs_55_r2l13 Land wären, daß Sie sich diesem Unserem Hochoben
+#facs_55_r2l14 keitlichen willen gehorsambst conformieren wurden
+#facs_55_r2l15 Zeme entgegen aber habend Wir durch die leidige
+#facs_55_r2l16 erfahrung sehen müeßen, wie daß meiste solch wü=
+#facs_55_r2l17 serem Hoch=berkeitlichen absehen nicht entsprochen
+#facs_55_r2l18 sondern auf allerhand Weiß und weg sich wider selbst
+#facs_55_r2l19 der dißmahligen conjuncturen in den benachbahrten
+#facs_55_r2l20 Landen, sowohl ratione des preiser der waaren
+#facs_55_r2l21 alß der gelts sich praevalirt, Ihren eignen nutzen
+#facs_55_r2l22 dem allgemeinen vorgezogen, Vnserer Bisherigen
+#facs_55_r2l23 lemens, so Wir Ihnend in straffbahren Fählen
+#facs_55_r2l24 zeigt, vorsetzlich mißbraucht, und hierdurch die in
+#facs_55_r2l25 Großer mühe, sorg und kosten Einb und anderen
+#facs_55_r2l26 Ihrts, sonderlich in allhiesiger Haubtstatt eingeführt
+#facs_55_r2l27 nanufacturen durch Ihre widersetzung zu mert¬
+#facs_55_r2l28 lichem Schaden und Verkurst gebracht und Unser
+#facs_55_r2l29 so heilsammes absehen hindertriben. p. Derowegen
+#facs_55_r2l30 Wir uns benöhtiget befunden, sonderlich da unser
+#facs_55_r3l1 101
+#facs_55_r3l2 große Raht auf gnügsamm erheblichen gründen undt
+#facs_55_r3l3 Vrsachen diese in Vnser Haubtstatt aufgerichtete manu factus
+#facs_55_r3l4 Denen Underfangeren völliglich, lauth mit Ihnen sub 23
+#facs_55_r3l5 Juni 14. Julij. und 3. Septembris 1700. getroffenen
+#facs_55_r3l6 Tractats, übergeben, und mit denen nöstigen privilegia=
+#facs_55_r3l7 und Freyheiten zu Handen gestelt, gegenwärtige öffentliche
+#facs_55_r3l8 Publication zu Statt und Land ergehen zu laßen, krafft
+#facs_55_r3l9 welcheren allen und jeden Kauffleüthen, Bürgerin undt
+#facs_55_r3l10 fnderthanen, Einheimbschen und Frömbden Jun=undt
+#facs_55_r3l11 Part den Jahrmärkten alles ernste eingescherpfft wirt
+#facs_55_r3l12 denen durch unseren Commercien Raht gemachten undt
+#facs_55_r3l13 eingeführten, sonderlich aber denen sub 20. Aprilis 1702.
+#facs_55_r3l14 allen Handelsleükhen so mundtlich alß schrifftlich communi¬
+#facs_55_r3l15 cierten, auch deren von unserem Großen Raht alß den
+#facs_55_r3l16 s-
+#facs_55_r3l17 Höchsten gewalt sub 9. Octobris 1705 außgegangenen Ord¬
+#facs_55_r3l18 nungen gehorsambst nachzugeleben, bey poen der Confes=
+#facs_55_r3l19 cation und unnachläßiger wegnemmung aller solcher ver¬
+#facs_55_r3l20 bottenen waaren, deren halber theil dan dem verleider
+#facs_55_r3l21 die andere helfft aber dem Ambtomann, oder Jenige
+#facs_55_r3l22 Statt, so es gebührt, heimbdienen und verbleiben soll,
+#facs_55_r3l23 zu dem End hin befelchend Wir allen und Jeden Vnseren
+#facs_55_r3l24 Ober= und Ander=Ambtleüthen gedachten Underfangenen
+#facs_55_r3l25 und denen von Ihnen hierzu bestellenden Aufseheren
+#facs_55_r3l26 alle krefftige Hülffshand zu biethen, und Sie bey denen
+#facs_55_r3l27 Ihnen von dem Höchsten Gewalt ertheilten Privilegien
+#facs_55_r3l28 zuschützen und zu handthaben: Gott mit Dir! Datl. 4. Nov.
+#facs_55_r3l29 Rthl 706

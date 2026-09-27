@@ -1,0 +1,156 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 148/149
+# High similarity (>=80%): 140
+# Low similarity (<80%): 8
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4829
+#facs_281_r2l8 Die Verordnung und das Verbodt über den
+#facs_281_r2l9 Handel mit fremden und inländischen Hüten
+#facs_281_r2l10 und die Ausfuhr der Hasenbälge, betreffend,
+#facs_281_r2l11 bekant gemacht.
+#facs_281_r2l12 An alle Herren Amtsleute deutsch und
+#facs_281_r2l13 welschen Lands, vier Städt, Freÿweibel
+#facs_82_r3l24 — und
+#facs_134_r3l18 Schultheiß und Rathen
+#facs_281_r2l16 Das unterem
+#facs_281_r3l15 August 1785. von Uns ausgegangene
+#facs_281_r2l18 und unterm 9ten May 1795. bestäthigte
+#facs_281_r2l19 verbott wieder die Einbringung u. Verkauf
+#facs_281_r2l20 den fremden Hüte, haben wir nachdem es
+#facs_281_r2l21 in einigen Punkten abgeänderet, und den
+#facs_281_r2l22 gegenbärtigen Zeiten gemäßen einge¬
+#facs_281_r2l23 richtet worden, von neuem bestathiget.
+#facs_281_r2l24 Mit Zusendung einer genügsammen
+#facs_281_r2l25 Anzahl Exemplar dieser Verordnung befehlen
+#facs_281_r2l26 Wir Euch selbige von Kanzeln verlesen,
+#facs_30_r4l1 51.
+#facs_281_r3l2 üm behörigen Orts einschreiben zu laßen
+#facs_281_r3l3 Datum den 12ten August 1797.
+#facs_4_r3l2 Verordnung.
+#facs_281_r3l5 Wir Schulthes und Rath da
+#facs_281_r3l6 Stadt und Republik Bern; entbieten allen
+#facs_281_r3l7 Unseren lieben und getreuen Kürgeren
+#facs_281_r3l8 und angehörigen Unserer deutsch und
+#facs_8_r6l1 9
+#facs_281_r3l10 welschen Städte und Lande, unsern gnäd¬
+#facs_259_r3l19 und geneigten Willen, und geben ihnen
+#facs_281_r3l12 hiemit zu vernehmen
+#facs_281_r3l13 Als dann Wir durch die Erfahrung über
+#facs_281_r3l14 zeuget worden, daß das unterm 29ten
+#facs_281_r3l15 August 1785. von Uns ausgegangene
+#facs_281_r3l16 unterm 9ten May 1795. bestüthigte Verbott¬
+#facs_281_r3l17 wieder die Einbringung und Verkauf der
+#facs_281_r3l18 fremden Hütte, Unsern dabey gehabten
+#facs_281_r3l19 Landes bätterlichen Absichten bestens ent¬
+#facs_281_r3l20 sprochen, und den Ruzen und Verbeßerung
+#facs_281_r3l21 der Hutmacher Profesion vorzüglich bebirket
+#facs_281_r3l22 hat; als haben wir für gut befunden
+#facs_281_r3l23 telbige überhaupt zu bestäthigen, jedoch in
+#facs_281_r3l24 einigen Punkten abzuänderen und denen
+#facs_281_r3l25 gegenwärtigen Zeiten und Umständen gemäß
+#facs_281_r3l26 einzurichten.
+#facs_282_r1l1 550.
+#facs_282_r2l1 Wir haben dahero, in Aufhebung
+#facs_282_r2l2 aller ältern hier einschlagenden Ver¬
+#facs_282_r2l3 fügungen hiemit gesezt und verordnet,
+#facs_282_r2l4 erkennen und verordnen hiemit:
+#facs_282_r2l5 Handel mit ausländischen
+#facs_282_r2l6 Hüten, jederman verbotten.
+#facs_282_r2l7 Daß die Einigung ins Land, Gewerb
+#facs_282_r2l8 und verbauf aller ausländischen Hüte
+#facs_282_r2l9 ohne Ausnahme, von nun an jedermanng
+#facs_282_r2l10 lich so bohl der Meisterschaft der Hutmacher
+#facs_282_r2l11 profession, als aber denen Handelsleuten
+#facs_282_r2l12 und Kranceren zu Stadt und Land, wie
+#facs_282_r2l13 auch allen Äußern, so wohl an Jahr und
+#facs_282_r2l14 Wochenmarkten Unserer Städte und
+#facs_282_r2l15 dörfern, als außer denenselben, so wohl
+#facs_282_r2l16 öffentlich als heimlich, hiemit abgestelt.
+#facs_282_r2l17 und verbotten seyn solle. Bey Straff
+#facs_282_r2l18 der Confisation und vierzig Pfunden
+#facs_282_r2l19 Ruß gegen die Widerhandelnden, davon
+#facs_282_r2l20 ein drittheil uns verrechnet werden.
+#facs_282_r2l21 im Drittheil dem Richter, und ein
+#facs_282_r2l22 drittheil dem Verleider heimdienen
+#facs_27_r3l8 soll.
+#facs_282_r2l24 von diesem Verbodt aber werden
+#facs_193_r3l5 5519.
+#facs_282_r3l2 ausgenommen, die in Unserer Haupt und
+#facs_282_r3l3 übrigen Städten angeseßene Bürger und
+#facs_283_r3l6 Partibularperstonen für ihren alleinigen
+#facs_282_r3l5 Gebrauch und ohne für sich selbst oder in
+#facs_282_r3l6 sommißion damit Handlung zu treiben,
+#facs_282_r3l7 von äußeren Landen irgend einen Hut
+#facs_282_r3l8 verschreiben wollten.
+#facs_282_r3l9 Handel mit inländischen Güter,
+#facs_282_r3l10 nur den inländischen Gutmacher¬
+#facs_282_r3l11 mersteren gestattet.
+#facs_282_r3l12 Zweytens, allen inländischen Hutmacher
+#facs_282_r3l13 meisteren verbilligen Wir mit ihren
+#facs_282_r3l14 selbst fabrizirten Hüten so wohl die Meße
+#facs_282_r3l15 in der Hauptstadt als Jahrmarkte in
+#facs_282_r3l16 den übrigen Städten des Landes zu bestuchen;
+#facs_282_r3l17 Hingegen soll allen inländischen Handels¬
+#facs_282_r3l18 leuten und Kramern, wie auch allen
+#facs_282_r3l19 Äußern der Gewerb und Verkauf mit
+#facs_282_r3l20 inländischen Hüten untersagt seyn. Bey
+#facs_92_r3l19 Strafe der confiscation oder deren Werth, läng¬
+#facs_282_r3l22 vierzig Pfunden Ruß, davon ein Drittheil
+#facs_282_r3l23 Uns verrechnet werden, ein Drittheil dem
+#facs_282_r3l24 Richter um ein Drittheil dem Verleider heim¬
+#facs_282_r3l25 dienen soll.
+#facs_283_r1l1 552.
+#facs_283_r2l1 Drittenz, bewilligen Wir denen Hutmacher
+#facs_283_r2l2 der mit uns verbürgerten lobl. Ständen
+#facs_283_r2l3 Fryburg und Solothurn, nach Maßgab
+#facs_283_r2l4 Aarbergischen Abscheids von 1720. be¬
+#facs_283_r2l5 auch denen der Stadt Riel, unter vorbe¬
+#facs_283_r2l6 halt des Gegenrechts, noch ferner die offenen
+#facs_283_r2l7 Jahrmärte der Städte Unserer Lande
+#facs_283_r2l8 /: nicht aber die Dorfmarkte:/ mit ihrem
+#facs_283_r2l9 Hutbaaren besuchen zu dürfen, wofern
+#facs_283_r2l10 sie mit glaubwürdigen Zeugnißen Releis
+#facs_283_r2l11 leisten können, daß sie solche selbst
+#facs_283_r2l12 fabricirt haben, und darunter nicht
+#facs_283_r2l13 fremde Hüte zum Vorschein kommen.
+#facs_283_r2l14 Viertens was den schädlichen Fürbauf
+#facs_283_r2l15 und Ausfuhr, der von denen Hutmanheren
+#facs_283_r2l16 gebrauchenden Hafenbalge betrift, so
+#facs_283_r2l17 laßen wir es bey Unsterem den 14. J
+#facs_283_r2l18 November 1795. gemachten daherigen
+#facs_283_r2l19 verbodt lediglich bekenden.
+#facs_283_r2l20 Unseren ZollCänißen und Aufsehren
+#facs_283_r2l21 befehlen Mir, auf die Einfuhr dieser von
+#facs_283_r2l22 Uns verbodtenen Maare genau zu achten
+#facs_283_r2l23 und alle fremden Hüte, die ohne Einfuhr,
+#facs_283_r2l24 patent ins Land gebracht werden sollten,
+#facs_283_r2l25 als Contrebande anzuhalten, und so fort
+#facs_283_r2l26 dem Richter anzuzeigen.
+#facs_37_r3l1 65
+#facs_283_r3l2 In der Hauptstadt und deren Bezirk, wie
+#facs_283_r3l3 auch in den Landgrichten da keine Oberamt
+#facs_283_r3l4 leute stehen, soll unser verordnete Commen¬
+#facs_283_r3l5 zien Rath, welcher denen sich anmeldenden
+#facs_283_r3l6 Partibularperstonen für ihren alleinigen
+#facs_283_r3l7 Gebrauch nach Gutbefinden, Einfuhrpatente
+#facs_283_r3l8 für fremde Hüte ertheilen kan, in denen
+#facs_283_r3l9 andern Städten und Amteren aber der
+#facs_283_r3l10 competirliche Richter des Orts, denen Wir
+#facs_283_r3l11 die Handhabung dieser Unsterer Verordnung
+#facs_283_r3l12 auftragen, in erster Instanz urtheilen
+#facs_283_r3l13 und der beschberenden Parthey den Rekurs
+#facs_283_r3l14 vor uns gestadten.
+#facs_283_r3l15 Wir behalten uns aber vor, diese unsere
+#facs_283_r3l16 Verordnung nach Unserem Belieben zu
+#facs_283_r3l17 mehren, zu minderen, oder gar aufzuheben,
+#facs_283_r3l18 je nachdem es das gemeine Reste und der
+#facs_283_r3l19 Nusen der Hutmacherprofession erheischen
+#facs_283_r3l20 wird; welche Verordnung wir zu jeder¬
+#facs_283_r3l21 manns Nachricht und Verhalt haben in
+#facs_283_r3l22 druk verfaßen, von Canzlen verlesen
+#facs_283_r3l23 und gewohnter Orten anschlagen laßen.
+#facs_257_r3l4 Geben den
+#facs_27_r3l20 Lansley Bern.
+#facs_98_r5l28 en

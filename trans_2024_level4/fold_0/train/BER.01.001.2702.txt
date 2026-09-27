@@ -1,0 +1,36 @@
+BER.01.001.2702
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 27/27
+# High similarity (>=50%): 24
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_215_r4l25 1
+#facs_215_r4l26 1.
+#facs_215_r4l27 hier
+#facs_216_r1l1 ä22
+#facs_216_r1l2 Dictx
+#facs_216_r2l1 In nachfolgende Ambtlent.
+#facs_216_r2l2 Die Extra Posten wohl bestellen
+#facs_216_r2l3 8
+#facs_216_r2l4 Schultheiß Indt Raht der Statt Pern.
+#facs_216_r2l5 Bey dißmahls so gefahrlich anschimmenden
+#facs_216_r2l6 Conjuncturen, da Wir von Reguten
+#facs_216_r2l7 vornemen betrüwet sind, will und er
+#facs_216_r2l8 anderen Veranstaltungen höchst vonnohten
+#facs_216_r2l9 sein, daß die Extra posten wohl bestellet
+#facs_216_r2l10 seyen; Inmassen wir dir hiemit befohlen
+#facs_216_r2l11 haben wollendt, angesicht dis brieffs zu N:
+#facs_216_r2l12 Nach zum lauffen Tüchtige Persohnen
+#facs_216_r2l13 zubestellen, und der Treulo halben zu beeydigen,
+#facs_216_r2l14 auch Ihnen zu insinuieren, daß Sie sey
+#facs_216_r2l15 weder Tags noch nachts von Haus begebend
+#facs_216_r2l16 damit Sie die Gesseits auf der Extra post
+#facs_216_r2l17 einlauffende Brieffen ungesaumbt und
+#facs_216_r2l18 eiligist nacher N. und die von denen
+#facs_216_r2l19 einkommende brieffen nacher N. über¬
+#facs_216_r2l20 tragen, und denen jeden Ohrts gleich¬
+#facs_216_r2l21 mässig bestelten übergeben könendt.
+#facs_216_r2l22 Datx. 4 Febr. 1699

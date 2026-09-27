@@ -1,0 +1,267 @@
+Law ID: BER.01.001.3751
+Name: Wegen der Association der Grichtsherren und Vasallen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 256/256
+# High similarity (>=50%): 203
+# Low similarity (<50%): 53
+# Not found: 0
+#
+#facs_163_r2l9 An
+#facs_163_r2l10 FJ
+#facs_163_r2l11 Welche Ambtluth äußert Bonmont
+#facs_163_r2l12 Alle
+#facs_163_r2l13 von den Vasallez welschen Landsunter
+#facs_163_r2l14 brge
+#facs_163_r2l15 bey gemachten association schrifft.
+#facs_163_r2l16 d’une pouvre quelques-mains.
+#facs_163_r2l17 7
+#facs_163_r2l18 Schultheiß und Raht
+#facs_163_r2l19 Vernimmen, welcher gestalten von
+#facs_163_r2l20 Auß
+#facs_163_r2l21 Theils Unseren Herrschafft, Gerichtshl.
+#facs_163_r2l22 Collat
+#facs_163_r2l23 und Vasallen in Unseren walschen
+#facs_163_r2l24 Landen den letzt abgefloßenen December
+#facs_163_r2l25 hindurch zu mehrerer Beybehaltung
+#facs_163_r2l26 Ihrer etbann habender Berechtigkeiten
+#facs_164_r2l1 Eine Associations und Verbindungs-
+#facs_164_r2l2 Schrifft durch gepflogene eigenhändige
+#facs_164_r2l3 Unterschreibungen Errichtet worden,
+#facs_164_r2l4 die nicht nur denen Stätten, Communes
+#facs_164_r2l5 und Unterthanen Unserer Betschen
+#facs_164_r2l6 Landen ganz Nachtheilig Sonderen
+#facs_164_r2l7 auch Unseren Gerechtigkeiten uns
+#facs_164_r2l8 tragenden Oberkeitl. Gebalt und Ansehen
+#facs_164_r2l9 selbsten alzunach treiten Thüye
+#facs_164_r2l10 Hatten Zbar darüber sub 25 februarii
+#facs_164_r2l11 jüngsthin Wir allbereits durch ein
+#facs_164_r2l12 geschehenes Ausschreiben, unseren Will
+#facs_164_r2l13 und Meinung dahin zu vernemmen gegeben
+#facs_164_r2l14 daß Wir keine Verbindung gestalten
+#facs_164_r2l15 können, demnach dann die Befohlen
+#facs_164_r2l16 diesere Gerichts Heeren und Vasallen zu
+#facs_164_r2l17 erm ahnen von diser associatione abzutretten.
+#facs_164_r2l18 und zu trachten das Original d:ser
+#facs_164_r2l19 Schrifft Uns zu übersenden.
+#facs_164_r2l20 Wan dan beydes auff dem seithero
+#facs_164_r2l21 erhalten Original Instrument
+#facs_164_r3l1 321
+#facs_164_r3l2 Diser Machenschafft als sonsten
+#facs_164_r3l3 eingetroffenen Nachrichten, Wir deß
+#facs_164_r3l4 nehreren ersehen, wohin all d. sere
+#facs_164_r3l5 sahen Auslauffen, als können bey
+#facs_164_r3l6 solch gestalten dingen, und da einerseits
+#facs_164_r3l7 die Stält. Communes, und Unterthanen
+#facs_164_r3l8 Unserer Welschen Landen andurch härtiglich
+#facs_164_r3l9 getruckt, anderseits aber Unsere Judicatur
+#facs_164_r3l10 und Landtherrliche Rechte ein merckliges
+#facs_164_r3l11 eingeschrauwet und vernachtheiliget
+#facs_164_r3l12 seynburde, annebens dan mit als der
+#facs_164_r3l13 von Gott gesezten Oberkeit allein zu stehet
+#facs_164_r3l14 inzusehen in die Streitigkeiten, so unter
+#facs_164_r3l15 samtlichen unseren Unterthanen und
+#facs_164_r3l16 angehörigen obschleben umb zu verschaffen
+#facs_164_r3l17 daß Gut Recht gehalten und einem
+#facs_164_r3l18 jeden Unter Ihnen lediglich unter
+#facs_164_r3l19 unterem Schutz und Schirm zu dem
+#facs_164_r3l20 seinigen geholßen Bärde, ein solches
+#facs_164_r3l21 auch gleich bis anhero, also noch für bat
+#facs_164_r3l22 unter göttlichen Seegen auszuüeben
+#facs_165_r1l1 8e 8bre 8e 7bre 1775
+#facs_165_r1l2 ohrschein hinzuzuehmen, wie sie, so
+#facs_165_r1l3 geb. vohr. gegen mehr gerechnetig sechs
+#facs_165_r1l4 das ihr das geschriebenen wieder
+#facs_165_r1l5 nun Gesache weserg neben eisen selbst.
+#facs_165_r1l6 gebe negebeten sehr sein eine
+#facs_165_r1l7 de
+#facs_165_r1l8 untergehaltene: sollen wie sich ge¬
+#facs_165_r1l9 Unsichere Lesung als doch dienst zu
+#facs_165_r1l10 sollen sich alles geschrieben zu geben,
+#facs_165_r1l11 ungszugnehmigt, Sie auch zuverhandlung
+#facs_165_r1l12 S. d. I. St. Archiatenten von Vier ausgelassen
+#facs_165_r1l13 das gewiß ich recht umwesen sey,
+#facs_165_r1l14 zu geschickt gekommen sey. Daß der Herrn
+#facs_165_r1l15 Zweifel, auch mit dem Herrn Hoch¬
+#facs_165_r1l16 F.
+#facs_165_r1l17 wenig als sich ihnen so hetigiert, und
+#facs_165_r1l18 alsgedachten wir die hiemit hoffen hoch¬
+#facs_165_r1l19 berechtiglich zusammen zu gehabt.
+#facs_165_r1l20 Ihr Signaturin revocert und Nachricht gehabt
+#facs_165_r1l21 albehorelt aan die assuition ausgehalten,
+#facs_165_r1l22 desen Hochschlern und Saallen
+#facs_165_r1l23 536.
+#facs_165_r2l1 gekommen, das wieder zu vermeinungen
+#facs_165_r2l2 dier diese vielmeldens sont
+#facs_165_r2l3 geholen ausgesehen.
+#facs_165_r2l4 allhier in unsern arbeiten und zwischen Rechts¬
+#facs_165_r2l5 alßer Ihnen mich sein das Original des Pro¬
+#facs_165_r2l6 Sich sich ungetragen zu geschrieben seyen.
+#facs_165_r2l7 als alle validdel derselben sich noch
+#facs_165_r2l8 fällig an Leben und Abrigierten
+#facs_165_r2l9 H. Schouelons Asen wir hiemit
+#facs_165_r2l10 auß das rechte offte eingelasenen
+#facs_165_r2l11 Hervus aus dem hiesigen Chagen, prünge
+#facs_165_r2l12 hierübenden Diese, die die aufgekommen
+#facs_165_r2l13 8
+#facs_165_r2l14 unsechs als wir durch aller mehr nicht gehabt.
+#facs_165_r2l15 geben, auch mich hingegen ein günstigen
+#facs_165_r2l16 den die Zwischen Herren in den
+#facs_165_r2l17 Dr. Saalen
+#facs_165_r2l18 geschaffen gegenommen sich solchesen,
+#facs_165_r2l19 als sein auch so schuldige mandata
+#facs_165_r2l20 7
+#facs_165_r2l21 aller Ihr hochEdle und Amtsvoten
+#facs_165_r2l22 gefteert seyen. Den neuen gewiß
+#facs_165_r2l23 6
+#facs_165_r2l24 zu sehen, die dergleichen auswondertes
+#facs_165_r2l25 gesinnert all das ist auch so wieder
+#facs_166_r2l1 am
+#facs_166_r2l2 C:
+#facs_166_r2l3 Alle Welche Ambtleüth äußert Bonman
+#facs_166_r2l4 wegen deren association der Gerichtsherrn,
+#facs_166_r2l5 und Vasallen
+#facs_166_r2l6 Schultheiß und Raht etc.
+#facs_166_r2l7 Auslanget die sichere Nachricht ein ob
+#facs_166_r2l8 eye nach gepflogenen vielfaltigen Knaben
+#facs_166_r2l9 unter Unseren Herrschafft, Gerichtsherr
+#facs_166_r2l10 und Vasallen welschen Lands in litst
+#facs_166_r2l11 abgefloßenen Christmonat eine
+#facs_166_r2l12 Association und Verbindungsschrifft
+#facs_166_r2l13 dahin zu Papyr gebracht und zwar von
+#facs_166_r2l14 vielen Abweit in guter Meinung
+#facs_166_r2l15 unterzeichnet worden, daß in Fählen
+#facs_166_r2l16 am Fürfallenden Streitigkeiten, so
+#facs_166_r2l17 zwischen den Eint und anderen Unter¬
+#facs_166_r2l18 Ihnen und denen Stätten oder Gemeinden
+#facs_166_r2l19 oder auch anderen Unseren angehörigen
+#facs_166_r3l1 325
+#facs_166_r3l2 in der Landschafft Wandt sich eräugnen,
+#facs_166_r3l3 aller forderst die Herrschaffts Herren
+#facs_166_r3l4 in solch sich ergebenden Processen, und
+#facs_166_r3l5 wie ein solcher Vasall gegen seine
+#facs_166_r3l6 Widerparth sich zu verhalten, auch die
+#facs_166_r3l7 action zu Intimieren und zu verleithen
+#facs_166_r3l8 seyn wolle, vor allem auß bey einem
+#facs_166_r3l9 verordneten Ausschuß auß den Zwinghlen
+#facs_166_r3l10 sich umb Rahts zu erholen, in Rahlen
+#facs_166_r3l11 aber, da selbst Streit unter Ihnen den
+#facs_166_r3l12 Vasallen entstehen sollte, Ihrer Judicatur
+#facs_166_r3l13 sich zu unterziehen haben, Ersteren Fehls
+#facs_166_r3l14 auch die wider die Stätt und Communes
+#facs_166_r3l15 von den Herrschafftsherren auszuführen.
+#facs_166_r3l16 habende Process auff gemeine Umbbößen
+#facs_166_r3l17 sämtlicher Vasallen toegenommen worden
+#facs_166_r3l18 sollind, alles in dem bestgemeinten
+#facs_166_r3l19 Absehen damit durch Ihren Meistentheil
+#facs_166_r3l20 Hetbau
+#facs_166_r3l21 gen einsamlichen oder sonsten habendt
+#facs_166_r3l22 Berichtsherrlichen Recht und Berechtigkeiten
+#facs_166_r3l23 nicht so leichtlich von Communes und
+#facs_167_r2l1 Particularin Eingriff gethan, selbige
+#facs_167_r2l2 Ihnen nicht vernachtheiliget sonder
+#facs_167_r2l3 ferner hin Sie darbey geschüzet und in
+#facs_167_r2l4 solcher beybehalten werden mögen, wie
+#facs_167_r2l5 mit mehrerem auß angezogenen associati
+#facs_167_r2l6 Schrifft zu ersehen, wan dan aller vorderst
+#facs_167_r2l7 Vere Herrschafft Gerichte Hn. und Vasallen
+#facs_167_r2l8 wir niehmalen zu gestanden, und noch
+#facs_167_r2l9 dermahlen nicht gesinnet sind zu vergünstigen
+#facs_167_r2l10 daß die ein besonderes corpus außmache¬
+#facs_167_r2l11 Ihnen dann eben so wenig alles allen anderen
+#facs_167_r2l12 Unseren Angehörigen gezimmet außer Ordentlich
+#facs_167_r2l13 Versamlungen zu pflegen insbesonders
+#facs_167_r2l14 aber Mißfällig uns von Ihnen zu vernommen
+#facs_167_r2l15 kommen daß über der gleichen Sachen und
+#facs_167_r2l16 materien, die Unsere Judicatur meistentheilen
+#facs_167_r2l17 ohn mittelbahr anhängig, und darin gleich
+#facs_167_r2l18 allen anderen im Herrn angehörigen die
+#facs_167_r2l19 eben fahls unter unserem oberteitlichen
+#facs_167_r2l20 Schutz und schirm sich befinden, Ihnen
+#facs_167_r2l21 eben auch und also den Einten wir den
+#facs_167_r2l22 anderen bekentermaßen gut und schleunig
+#facs_167_r3l1 327.
+#facs_167_r3l2 Recht gehalten worden, Sie Sich dennoch in
+#facs_167_r3l3 associationen und Schrifftliche Verbindungen
+#facs_167_r3l4 eingelaßen, die so gar in Gewußen Fühlen
+#facs_167_r3l5 und daselbsten Unsere Rechte und Lehens¬
+#facs_167_r3l6 Berechtigkeiten offters mit einfließen
+#facs_167_r3l7 können von Unserer Judicatur sich entziehen
+#facs_167_r3l8 thäte als können disem allem seinen
+#facs_167_r3l9 Oertgang umb so minder gestatten, da
+#facs_167_r3l10 andurch unserem Oberheitlichen Gebalt und
+#facs_167_r3l11 Ansehen alzunahe getreten wird; gestalten
+#facs_167_r3l12 Wir bey so bewandten Dingen dir I: gleich
+#facs_167_r3l13 gegen anderen Ambtleüthen auch beschichtlich
+#facs_167_r3l14 nicht allein andurch alles Ernsts anbefehlen
+#facs_167_r3l15 haben Wollend, aus jenigen Vasallen
+#facs_167_r3l16 und Herrschafftsh'n deines Ambts, die so
+#facs_167_r3l17 in meistem Ansehen, nach und nach, in
+#facs_167_r3l18 aller Stille ohne daß ein Auffseher andurch
+#facs_167_r3l19 Erbecketberde, und jeh nach habender
+#facs_167_r3l20 Belegenheit vor dich zu bescheiden, und
+#facs_167_r3l21 mit guter auch anständiger Manier
+#facs_167_r3l22 Ihnen vorzustellen, was gestalten dergleichungen
+#facs_167_r3l23 Verbindungen und einlicher Gestalten
+#facs_168_r2l1 Particularen Eingriff gethan, selbige
+#facs_168_r2l2 Ihnen nicht vernachtheiliget sondern
+#facs_168_r2l3 ferner hin Sie darbey geschüzet und in
+#facs_168_r2l4 solcher beybehalten bieden mögen, wie
+#facs_168_r2l5 mit mehrerem auß angezogenen asseciatus
+#facs_168_r2l6 Schrifft zu ersehen, wan dan aller vorderst
+#facs_168_r2l7 d) sere Herrschafft gerichte Hn. und Vasallen
+#facs_168_r2l8 wir nichmalen zu gestanden, und noch
+#facs_168_r2l9 dermahlen nicht gesinnet sind zu vergönstigen
+#facs_168_r2l10 daß Sie ein besonderes corpus außmache,
+#facs_168_r2l11 Ihnen dann eben so wenig alles allen anderen
+#facs_168_r2l12 Unseren Angehörigen gezimmet außer Ordentlich
+#facs_168_r2l13 Versamlungen zu pflegen insbesonders
+#facs_168_r2l14 aber Mißfällig uns von Ihnen zu vernommen
+#facs_168_r2l15 kommen daß über der gleichen Sachen und
+#facs_168_r2l16 materien, die Unsere Judicatur meistentheils
+#facs_168_r2l17 ohnmittelbahr anhängig, und darin gleich
+#facs_168_r2l18 allen anderen unseren angehörigen die
+#facs_168_r2l19 eben fahls unter unserem oberteitlichen
+#facs_168_r2l20 Schutz und schirm sich befinden, Ihne
+#facs_168_r2l21 eben auch und also den Einten wir den
+#facs_168_r2l22 anderen bekantermaßen gut und Schleunig
+#facs_168_r3l1 321
+#facs_168_r3l2 Recht gehalten worden, Sie Sich dennoch in
+#facs_168_r3l3 assouationen und Schrifftliche Verbindungen
+#facs_168_r3l4 gelaßen, die so gar in Gewüßen Fählen,
+#facs_168_r3l5 und daselbsten Unsere Rechte und Behaus
+#facs_168_r3l6 Berechtigkeiten öffters mit einfließen
+#facs_168_r3l7 können von Unserer Judicatur sich entziehen
+#facs_168_r3l8 Thäte als können disem allem seinen
+#facs_168_r3l9 Oortgang umb so minder gestatten, da
+#facs_168_r3l10 andurch unserem Oberweitlichen Gebalt und
+#facs_168_r3l11 Ansehen abzunahe getreten wird; gestalten
+#facs_168_r3l12 Wir bey so bekandten Dingen der (gleich
+#facs_168_r3l13 gegen anderen Ambtleuthen auch beschicht)
+#facs_168_r3l14 nicht allein andurch alles Ernstes anbefehlen,
+#facs_168_r3l15 haben Wollend, aus jenigen Vasallen
+#facs_168_r3l16 und Herrschafftsh'n deines Ambts, die so
+#facs_168_r3l17 in meistem Ansehen, nach und nach, in
+#facs_168_r3l18 aller Stille ohne daß ein Auffseher andurch
+#facs_168_r3l19 Erbecket werde, und jeh nach habender
+#facs_168_r3l20 Belegenheit vor dich zu bescheiden, und
+#facs_168_r3l21 mit guter auch anständiger Manier
+#facs_168_r3l22 Ihnen vorzustellen, was gestalten dergleichung
+#facs_168_r3l23 Verbindungen und einlicher Gestalten
+#facs_169_r2l1 Ablleichung von Unserer Judicatur
+#facs_169_r2l2 Wir nicht zu geben können, mithin dahin
+#facs_169_r2l3 Sie zu ermahnte diser association,
+#facs_169_r2l4 abzustehen, und Übrige Interessierte
+#facs_169_r2l5 dahin abzutreten auch zu verleiten, dehnen
+#facs_169_r2l6 dan von Ihnen zu vernommen, wo das Origi
+#facs_169_r2l7 nal von der associations Schrifft sich
+#facs_169_r2l8 besinde, auch selbsten selbigen abzufordern.
+#facs_169_r2l9 und allhero an Uns zu Übersenden
+#facs_169_r2l10 das darüber erfolgende wirst nachbarts
+#facs_169_r2l11 an Uns berichten, gegenwertige Unsere
+#facs_169_r2l12 Anordnung seines Ohrts aber im Mandaten
+#facs_169_r2l13 Auch ein Schreibenlaßen liest, wie
+#facs_169_r2l14 guthun Aüßen solst Datum d. 25en febr.
+#facs_169_r2l15 1798

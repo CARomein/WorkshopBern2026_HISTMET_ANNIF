@@ -1,0 +1,25 @@
+BER.01.001.2514
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 16/16
+# High similarity (>=50%): 16
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_3_r2l1 Quod foelix faustumque sit.
+#facs_3_r2l2 Reipublicae Patriaegi Nostrae
+#facs_3_r2l3 An alle Weltsche Ambtleüht.
+#facs_3_r2l4 Wegen Einleihung der Zöllen und gleit
+#facs_3_r2l5 Im weltschen Land
+#facs_3_r2l6 Schuldheiß und Raht der Statt Bärn etc.
+#facs_3_r2l7 Weilen die drey Jahr, auff welche die Zöll und gleit Vnsers Weltschen
+#facs_3_r2l8 Lands hingelichen worden, bald verstrichen, als habend wir zu ander¬
+#facs_3_r2l9 wärtiger admodiation derselben tag angesetzt, Freytag d. 9. Juny nächst
+#facs_3_r2l10 künfftig; dir demnach, gleich gegen anderen Vnseren Ambtleichten Weltschen
+#facs_3_r2l11 Lands auch beschicht, hiemit befelchende, solches ohngesaumbt zu Manniglichs
+#facs_3_r2l12 Nachricht von Cantzlen publiciren zu laßen, damit alle die Jenigen so da
+#facs_3_r2l13 solche Zoll und gleit zu bestehen lust hätten, sich auf obigen Tag morgens zeitlichen
+#facs_3_r2l14 vor unseren Fürgeliebten Mittkasten W. Q. et T. Einzufinden, wüßend,
+#facs_3_r2l15 alles selbige gesteigeret, und dem höchst pietenden auff gnugsamme bürg¬
+#facs_3_r2l16 schafft hin werdend hingegeben werden. Datum 17. May 1693.

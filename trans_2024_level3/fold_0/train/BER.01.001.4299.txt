@@ -1,0 +1,133 @@
+Law ID: BER.01.001.4299
+Name: Verordnung für die Einschlagung eigener Gütheren, und Befreyung von der Gemeinweid im Amt Schenkenberg.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 122/122
+# High similarity (>=50%): 122
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_53_r2l12 Verordnung
+#facs_53_r2l13 für die Einschlagung Eigener Gutheren, und
+#facs_53_r2l14 Befreyung von der Gemein Wein
+#facs_53_r2l15 im Amt Schentenberg
+#facs_53_r2l16 Sesentenberg Prof
+#facs_53_r2l17 Statthalter und Raht P.
+#facs_53_r2l18 Wir haben die von Euch gethane Vorstel
+#facs_53_r2l19 lungen, ansehend die Einschlagung eigenet
+#facs_53_r2l20 Gütheren, und Befreyung von der Gemein¬
+#facs_53_r2l21 Weid in Eüerem Amt, in behörige Überle¬
+#facs_53_r2l22 gung nommen laßen, und auf beschehenen
+#facs_53_r2l23 Vortrag von einem zum anderen Erbent, und hiemit für
+#facs_53_r2l24 das künfftige verordnet
+#facs_53_r6l1 9
+#facs_53_r6l2 Soll jedermann erlaubt seyn, seine eigene Güther
+#facs_53_r6l3 es seyen Wiesen, aker, oder Ägerten, einzuschla¬
+#facs_53_r6l4 gen, und unter nachgeseztem Pfenning, von der
+#facs_53_r6l5 Gemeindweid zu befreyen,
+#facs_53_r6l6 Jedennoch sollen bis auf weitere Verordnung, von
+#facs_53_r6l7 dieser Erlaubnuß ausgenommen seyn, solche aber
+#facs_53_r6l8 die undten in den großen Zelgen ligen, und
+#facs_53_r6l9 wegen der freyen zu und Abführ, weder an
+#facs_53_r6l10 Strasen noch Wälder, noch offene Allmenten,
+#facs_53_r6l11 oder an würklich gemachte Einschlag stoßen welche
+#facs_53_r6l12 leztere dann, die zu und Abfuhr zu denen
+#facs_53_r6l13 Neuen Einschlägen, auf eine ihnen am wenigsten
+#facs_53_r6l14 nachtheilige Weise gestacken sollen
+#facs_53_r6l15 Soll aller Abtrag in Getreid, Heu, und und Wein
+#facs_53_r6l16 sein Eigen seyn, nach Entrichtung der darauf haff
+#facs_53_r6l17 tenden Zehnden und Bodenzinfen, doch soll
+#facs_53_r6l18 ihme verbotten seyn, solchen in Futer oder
+#facs_53_r6l19 mist, äußert das Amt zu verkaufen und zu
+#facs_53_r6l20 führen, es seye dann auf seine eigenthumliche
+#facs_53_r6l21 Güther, oder es wolle im Amt, solches in
+#facs_53_r6l22 lauffendem Preis Niemand kaufen, alles¬
+#facs_53_r6l23 doch in dem heiteren Verstand, daß solches¬
+#facs_53_r6l24 in unser Sattmäßigkeit verbleiben, und nicht
+#facs_53_r6l25 in eine fremde Souverainitet abgeführt werden soll.
+#facs_54_r3l1 Aller Zehnden in Korn oder Heu, von jedem
+#facs_54_r3l2 Stube Land, soll nach desen Einschlagung den
+#facs_54_r3l3 jenigen Zehndherren heimfallen, so vor der
+#facs_54_r3l4 Einschlagung den Zehnden auf diesem Stück
+#facs_54_r3l5 erhoben, und allso keine Veränderung vorgeht
+#facs_54_r3l6 wann gleich aus Aker Macken, oder aus Wiesen
+#facs_54_r3l7 Aber gemacht worden. Aller Heuzehnden dann
+#facs_54_r3l8 von neuen Macken, die als Acker, uns zuvor
+#facs_54_r3l9 gehndpflichtig waren, sollen Unserem Amtsman
+#facs_54_r3l10 In Natura aufgestellt, und von demselben uns getan¬
+#facs_54_r3l11 lich verrechnet werden.
+#facs_54_r3l12 5° Außeren die im Amt Güther haben, ist erlaubt
+#facs_54_r3l13 Futer und Mist auf dieselben im Amt zu kauffen
+#facs_54_r3l14 6° Denen Wälderen, in einem Land, zu schönen
+#facs_54_r3l15 wo der Holz Mangel, in einem so hohen Grade
+#facs_54_r3l16 St, sollen alle zänne von Todtem Holz, ver
+#facs_54_r3l17 bodten seyn; Und diese von der Gemein
+#facs_54_r3l18 weid befreyte Güter, nachdeme Sie zuvor
+#facs_54_r3l19 mit Steinen ordentlich ausgemarchet wor-
+#facs_54_r3l20 den, mit Gräben oder Lebhägen eingehäget
+#facs_54_r3l21 werden.
+#facs_54_r3l22 7o die Besizere sollen der Gemeind, zu billicher
+#facs_54_r3l23 Ersatzung ihres Weidrechts, Saar bezahlen, der
+#facs_54_r5l1 101
+#facs_54_r5l2 Zehenden Pfenning des Werths, daß
+#facs_54_r5l3 einzuschlagenden Stuk Landes, nach Ausweis
+#facs_54_r5l4 nner Eidlichen Schazung; Welches Gelt zu
+#facs_54_r5l5 dem Armen Guth geschlagen, und so gleich
+#facs_54_r5l6 zum besten deßelben, soll angelegt werden,
+#facs_54_r5l7 die Direction und Besorgung dieser Armen.
+#facs_54_r5l8 Güther, werden der Ehrbarkeit jeden Orts¬
+#facs_54_r5l9 überlaßen, von welcher die Gemeind alle
+#facs_54_r5l10 Jahr, unserem Amtsmann Rechnung geben
+#facs_54_r5l11 pell
+#facs_54_r5l12 Damit aber nicht ohne Vorwißen der Gemein¬
+#facs_54_r5l13 auch nicht wie bis anhin deß Lehenherren
+#facs_54_r5l14 eingeschlagen werde, so soll ein jeder, der
+#facs_54_r5l15 ein Stuk Land einschlagen will, sich bey der
+#facs_54_r5l16 gemeind melden; den Nahmen, die Art,
+#facs_54_r5l17 den Halt des Landes anzeigen, den Werth
+#facs_54_r5l18 deßelben durch das Zeugsamme der Schäze
+#facs_54_r5l19 ren erweisen, von allem ein Zeugsamme
+#facs_54_r5l20 nemen, solches unserem Amtsmann vorlegen,
+#facs_54_r5l21 nach erhaltener Bewilligung, den Einschlag,
+#facs_54_r5l22 oder Befreyungs-Pfennung entrichten, und
+#facs_54_r5l23 von Ihr darfür eine Quittanz neinen, welche
+#facs_54_r5l24 dann, nebst dem Zeugsame, den Titel der
+#facs_54_r5l25 Befreyung ausmachen wird; diese Zeug
+#facs_54_r5l26 // samt
+#facs_55_r2l1 samme dann sollen Gratis ertheilt werden
+#facs_55_r2l2 9o Zu nöhtiger Ordnung, soll in jeder Gemein
+#facs_55_r2l3 eine richtige Verzeichnuß der eingeschlagene
+#facs_55_r2l4 Stuben, ihres Halts, Werths, und des darfür¬
+#facs_55_r2l5 bezahlten Befreyungs-Pfenings, und im
+#facs_55_r2l6 Schloß von unserem Amtsman, eine andere
+#facs_55_r2l7 über das ganze Amt, nach den verschiede¬
+#facs_55_r2l8 nen Gemeinden eingerichtet, geführt,
+#facs_55_r2l9 und jederweilen richtig fortgesezt werden,
+#facs_55_r2l10 für welche Einschreibung Unserem Amtsmann
+#facs_55_r2l11 mehr nicht als zehen Schilling, und eben so viel für
+#facs_55_r2l12 die Bewilligung der Schäzeren, soll bezahlt werden
+#facs_55_r2l13 10° Wer ohne Vorwißen der Gemeind, oder ohne Bewil¬
+#facs_55_r2l14 ligung Unsers Amtsmanns, Güter einschlägt,
+#facs_55_r2l15 Der soll als ein Frefler angesehen werden, und
+#facs_55_r2l16 den Frefel mit dem Doppelten Pfenning, zu handen
+#facs_55_r2l17 des armen Guts Büßen; diese Bußen dann
+#facs_55_r2l18 alles vertheilt werden, daß ein Drittel uns, ein
+#facs_55_r2l19 Drittel dem Amtsmann, und ein Drittel den
+#facs_55_r2l20 Verleider heimdienen soll.
+#facs_55_r2l21 11a
+#facs_55_r2l22 Die Probzeit nach welcher Wir über den Nuzen,
+#facs_55_r2l23 oder Mängel dieser Einrichtung Urtheillen, und
+#facs_55_r2l24 dieselbe ganz oder zum Theil beybehalten, oder
+#facs_55_r4l1 103.
+#facs_55_r4l2 Abänderen werden, haben Wir auf zwölf Jahre
+#facs_55_r4l3 bestimmet; Mit der Erläuterung dennoch, daß
+#facs_55_r4l4 fahls nach dieser Zeit Wir dieses Mandat zum
+#facs_55_r4l5 Theil oder zum Ganzen Abänderen wurden, dann
+#facs_55_r4l6 zumahlen die Enderungen, dem eingeschlagenen
+#facs_55_r4l7 Erdrich, zu keinem Nachtheil gereichen sollen.
+#facs_55_r4l8 Diese Unsere Verordnung nun, werdet ihr
+#facs_55_r4l9 seines Orts eröfnen, selbige in behörige Execution
+#facs_55_r4l10 sezen, und solche auch zu künfftigem Verhalt
+#facs_55_r4l11 einschreiben laßen. Dat. d. 1. Febr. 1771.

@@ -1,0 +1,37 @@
+Law nr: BER.01.001.4532
+Name: Wo die Geltstagen und Benefices d'Inventaire ofentlich bekant gemacht werden sollen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 26/26
+# High similarity (>=80%): 25
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_355_r2l2 alle welsche Herren Amtleut.
+#facs_28_r5l12 Wo die Geltstagen und Benefices d'Inventaire
+#facs_28_r5l13 fentlich bekant gemacht werden sollen,
+#facs_28_r5l14 Schultheis und Rath’ aus gehabtem Anlas
+#facs_28_r5l15 haben Wir gut und nothwendig befunden,
+#facs_28_r5l16 daß in Zubonft, und damit Niemans die
+#facs_28_r5l17 Ohnbußenheit vorschüzen könne, die Geltstagen
+#facs_28_r5l18 und Benefice d'Inventaire zu mehrerer
+#facs_28_r5l19 Sicherheit den Gläubigeren, jedeilen durch
+#facs_28_r5l20 die Wochenbläffer, zu Lausanne, Ritis und
+#facs_28_r5l21 fferten, wie auch durch das allhiesige T.
+#facs_28_r5l22 Avis Blat öfentlich bekant gemacht werden
+#facs_28_r5l23 sollen; derobegen tragen Wir Euch anmit
+#facs_28_r5l24 befelchlichen auf, solches von nun an, allen
+#facs_28_r5l25 und jeden Gerichtsstellen Fueres Amts unnd
+#facs_9_r3l1 31
+#facs_28_r4l1 Coll
+#facs_29_r3l1 zu thun, und bey Straf Verantwortung,
+#facs_29_r3l2 in eräugnenden dergleichen Fällen Euch
+#facs_29_r3l3 demnach zu verhalten, und solcher alsbbaln
+#facs_29_r3l4 durch die vorbemelten 4. Avis Bläter zu
+#facs_29_r3l5 jedermänglichs Nachricht öfentl. bekant
+#facs_29_r3l6 zu machen, diese Verordnung auch zu könftiger
+#facs_29_r3l7 Nachricht in die Schloßbücher einschreiben
+#facs_315_r3l18 zu laßen.

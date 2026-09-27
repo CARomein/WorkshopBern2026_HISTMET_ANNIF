@@ -1,0 +1,60 @@
+Law ID: BER.01.001.4673
+Name: Den fryburgischen Mediat Angehörigen, wird der freye Getreidkauf, auf hiesigen Märkten, gestattet.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 49/49
+# High similarity (>=50%): 49
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_161_r1l1 314.
+#facs_161_r1l2 Collatt
+#facs_161_r2l1 An
+#facs_161_r2l2 die Herren Amtleut zu vitis,
+#facs_161_r2l3 Oron, Lausanne, Milden, Ifterten,
+#facs_161_r2l4 Pekerlingen, Wiblispurgen, Saauen,
+#facs_161_r2l5 und Laupen; denne an die
+#facs_161_r2l6 vier Mediat Amtleut. Sep.
+#facs_161_r2l7 Mediat
+#facs_161_r2l8 den Fryburgischen Angehörigen
+#facs_161_r2l9 wird der freye Getreid bauf, auf
+#facs_161_r2l10 hiesigen Markten, gestaitet.
+#facs_161_r2l11 Schultheiß und Rath.
+#facs_161_r2l12 Unterm 24ten Decembris 1789
+#facs_161_r2l13 sind wir mit loblichem Stand
+#facs_161_r2l14 Fryburg dahin übereingetommen,
+#facs_161_r2l15 daß denen Fryburgischen Ange¬
+#facs_161_r2l16 hörigen hinter Unseren Landen,
+#facs_161_r2l17 gleichbie reciproie hiesigen Ange¬
+#facs_161_r2l18 hörigen hinter Fryburgischer
+#facs_161_r2l19 rodtmäßigkeit, zu handen jeder
+#facs_161_r2l20 Haushaltung für ihren Hausge,
+#facs_161_r2l21 brauch, auf vorbeistende von
+#facs_161_r2l22 denen vorgesezten des Wohn¬
+#facs_161_r2l23 Orts ausgefertige authentische
+#facs_161_r3l1 315
+#facs_161_r3l2 Certificat ein mehrers nicht als
+#facs_161_r3l3 vier Mas Getreid auf jedem
+#facs_161_r3l4 Markt einzubauffen gestachtet,
+#facs_161_r3l5 seyn solle, und daß diese Er¬
+#facs_161_r3l6 tifikat von denenjenigen die
+#facs_161_r3l7 solche begehren, persönlich erhalten,
+#facs_161_r3l8 und für jede Haushaltung beson¬
+#facs_161_r3l9 ders ausgefertiget werden sollen.
+#facs_161_r3l10 Wann aber die Ernd durch
+#facs_161_r3l11 die Gütte Gottes überhaupt bohl
+#facs_161_r3l12 ausgefallen, so haben wir, aus
+#facs_161_r3l13 diesen Gründen bewogen, die
+#facs_161_r3l14 bißher gegen die Angehörige
+#facs_161_r3l15 der vier Mediat Ämter ver¬
+#facs_161_r3l16 hängte Fruchtspeer bieder aufge¬
+#facs_161_r3l17 hoben, und ihnen den freyen Ge¬
+#facs_161_r3l18 Freidkauff auf hiesigen Markten
+#facs_161_r3l19 gestaddet, und das zbar mit
+#facs_161_r3l20 dem ersten Septemb. nächstkünftig
+#facs_161_r3l21 dessen Ihr
+#facs_161_r3l22 anzufangen.
+#facs_161_r3l23 berichtet berdet. Dat. den
+#facs_161_r3l24 23 Augusty 1790.

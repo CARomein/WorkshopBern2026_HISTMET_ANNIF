@@ -1,0 +1,483 @@
+Law ID: BER.01.001.3766
+Name: Ordnung betreffend insgesamt die Weinhandlung, und den Weinverkauff, auch dessen Gewerb welchergestalten dieselbige erlaubt- und geführet werden mögen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 472/472
+# High similarity (>=50%): 452
+# Low similarity (<50%): 20
+# Not found: 0
+#
+#facs_207_r2l1 40
+#facs_207_r2l2 Ordnung
+#facs_207_r2l3 Werff und ins gesamt die Weinhandlung, und
+#facs_207_r2l4 den Wein-Verkauff auch deßen Geberb
+#facs_207_r2l5 Belchergestalten dieselbige Erlaubt¬
+#facs_207_r2l6 und geführet werden mögen.
+#facs_207_r2l7 Wie Schultheiß Räht und Bürger
+#facs_207_r2l8 Collath der Statt Bern, Entbiethen allen und jeden
+#facs_207_r2l9 Unseren Bürgeren, ober und Unter Ambtwüthen
+#facs_207_r2l10 Beist= und beltlichen Standts, auch allen
+#facs_207_r2l11 und jeden Unseren Lieben und getreulen
+#facs_207_r2l12 Einwohneren Unterthanen und angehörigen,
+#facs_207_r2l13 in Unseren Stält und Landen, Herrschafften
+#facs_207_r2l14 Reichten und gebiethen, Unseren Gruß,
+#facs_207_r2l15 Buädigen und geneigten billen samt
+#facs_207_r2l16 allein guten zu vor, und darbey zu
+#facs_207_r2l17 Pommerg;
+#facs_207_r2l18 Wielbohlen in hietweigen alten und neuben
+#facs_207_r2l19 zeithen, legen deß Weins, und deßen
+#facs_208_r2l1 Verkaufft, auch Geberbs halber, sowohl für
+#facs_208_r2l2 Unsere Haubtstalt, als gesamt Unser Land¬
+#facs_208_r2l3 von Uns vielfaltige gut, und heilsame
+#facs_208_r2l4 Ordnungen außgeben werden, die da
+#facs_208_r2l5 Vorschung gethan, las in ansehen daß Eint¬
+#facs_208_r2l6 und anderen harinmahls solle verbachtet werden
+#facs_208_r2l7 so habend jedennoch Wirbahnemmen müßen, daß
+#facs_208_r2l8 vielfaltig von denen selben, auß allerhand
+#facs_208_r2l9 Eigenmützigem absehen, zu widergehandlet
+#facs_208_r2l10 und auch beyder von den Reinhändlerin
+#facs_208_r2l11 und anderen Persohnen, in der Weinhandlung
+#facs_208_r2l12 verkauff deßelben, und Geberb, allerhand
+#facs_208_r2l13 schädliche Mißbrauch Erschlichen, und
+#facs_208_r2l14 getrieben werden wollen.
+#facs_208_r2l15 Inmaßen all disem Gebührend zu steul wegen
+#facs_208_r2l16 und zu allgemeinem Resten auch in diesen
+#facs_208_r2l17 Sachen eine billich mäßige Regul und
+#facs_208_r2l18 Anordnung fürs künfftige zu geben, aus
+#facs_208_r2l19 Landtulterliches und best gemeinter Vorsorg
+#facs_208_r2l20 Vorsang, verleitet, wir Unsere hiebevor, der
+#facs_208_r2l21 Verhandlung und deßen Verkaufft und
+#facs_208_r3l1 :14:
+#facs_208_r3l2 Bel erbs halber, ausgegangene Mandata
+#facs_208_r3l3 Erforderlicher maßen frischer Dings in
+#facs_208_r3l4 Berahtschlagung zeichen laßen, und nach
+#facs_208_r3l5 ter stand einer Bestaltsamme, darüberhin
+#facs_208_r3l6 zuthunden, dieselben andurch zu erneüteren,
+#facs_208_r3l7 zu Erläutern, und selbsten auch auff heutige
+#facs_208_r3l8 zeithen Einzurichten, bis in nachstehend¬
+#facs_208_r3l9 gegenwärtiger Ordnung, die Wir zu maniglichs
+#facs_208_r3l10 Nachricht und Verhalt in Teutsch- und belscher
+#facs_208_r3l11 Sprach in offenendruck ausfertigen, und
+#facs_208_r3l12 ten Canzlen verbundenlaßen, von Puncte
+#facs_208_r3l13 zu Puncten zu sehen ist.
+#facs_208_r3l14 Solchemnach bollenbir uns gegen Euch Unseren
+#facs_208_r3l15 ab, Ernanten samtlichen Lieben und Getreiben Bürger
+#facs_208_r3l16 Einwohner und Unterthanen hiemit versehen, Ihr Pflicht
+#facs_208_r3l17 mäßig, dieser unserer Ordnung nach, Euch richten leidet;
+#facs_208_r3l18 Unsererber und unter Ambtleuth an durch aber
+#facs_208_r3l19 befolchnet haben, alles Ernst und Fleißes darob zuhalten
+#facs_208_r3l20 daßelbe Vest und steiff beobachtet, die Übertreltere
+#facs_208_r3l21 dann, nach Inhalt der selben, angesehen, und in gebührende
+#facs_208_r3l22 Bestraftung gezogen werden.
+#facs_209_r2l1 Regiments,, sehige Bürger
+#facs_209_r2l2 so in Unseren Mediat, oder imediat
+#facs_209_r2l3 Landen Eigene Räben und Eigen
+#facs_209_r2l4 Ce
+#facs_209_r2l5 Weingebächs haben
+#facs_209_r2l6 Wiebollend hiemith Unseren Regiments, Verzügen
+#facs_209_r2l7 Bürgeren, den Verkauff deß Weins, so viel
+#facs_209_r2l8 Ihr eigen Gebächs, Pension, und Zehnd¬
+#facs_209_r2l9 Nein es betrifft, so denn derselbe in Unsere
+#facs_209_r2l10 eslediat und imediat Landen gebachsen
+#facs_209_r2l11 also fürbas hin freygestelt seyn und bleibe
+#facs_209_r2l12 laßen, daß Sie denselben zu Stalt und
+#facs_209_r2l13 Land, nach belieben, und Ihrem besten
+#facs_209_r2l14 Ruzen, bey der Pinten ausschanken, oder
+#facs_209_r2l15 En Gros, zu ganzen und halben Jaßen
+#facs_209_r2l16 verhandlen und vertreiben mögen; Jedoch
+#facs_209_r2l17 deß ausschembens halb bey der Pinten,
+#facs_209_r2l18 in dem heiteren Verstand, daß Einem
+#facs_209_r2l19 solchen Regimentssehigen Bürger.
+#facs_209_r2l20 In Unser Haubt statt Erlaubt seyn solle, seine
+#facs_209_r2l21 Wein bey der Pinten, in einem, oder auch
+#facs_209_r3l1 410
+#facs_209_r3l2 Mehreren, ja so viel Kellern verkauffen, und
+#facs_209_r3l3 außschemben laßen zu können, als Ihme
+#facs_209_r3l4 gefällig seyn wird.
+#facs_209_r3l5 Auff dem Land aber, soll das Außschenken deß
+#facs_209_r3l6 Weins bey der Pinten, Unseren Regiments tehige
+#facs_209_r3l7 Burgeren auffEigenen Gütern in daselbstige
+#facs_209_r3l8 Wohnungen, nicht aber in gemietheten
+#facs_209_r3l9 Häusern, also an einem Ohrt allein, und
+#facs_209_r3l10 zbar nur in solang sie Persöhnlichen alda
+#facs_209_r3l11 Ihre Wohnung pflegenberden, verbilliget,
+#facs_209_r3l12 und in mithin hierdurch ermahnt seyn,
+#facs_209_r3l13 keinen Einzug zu gestalten, noch einiche
+#facs_209_r3l14 Speis darbey aufzustellen bey Straff der
+#facs_209_r3l15 zehen, oder auch vorzig Pfunden Ruß, jeh
+#facs_209_r3l16 nach gestaltsame von den Widerhandlenden
+#facs_209_r3l17 zu bezeichen.
+#facs_209_r3l18 Ein gleiches hollend Wir auch verstanden haben von Unsere
+#facs_209_r3l19 Ambtleüthen, Predigkanten und Landschreibern.
+#facs_209_r3l20 solche unterbesagter Restuition, Ihreigen Bebrächt
+#facs_209_r3l21 Pension und Zehnd lain, in Ihren Schlößeren, Grund¬
+#facs_209_r3l22 häusern und Wohnungen allein, auch Wohl bey der Pinten
+#facs_209_r3l23 außschenden und verbauffenlaßen mögen.
+#facs_210_r2l1 II
+#facs_210_r2l2 habitanten und verwige sin¬
+#facs_210_r2l3 bohner, so in Unseren Immediat, und
+#facs_210_r2l4 Mediat Landen, Räben, und Eigen
+#facs_210_r2l5 Bebächs haben
+#facs_210_r2l6 Das aber die habitanten, oder Elbige
+#facs_210_r2l7 Einbohnerbetrifft, wollen wir selbige
+#facs_210_r2l8 dahin eingeschraubet haben, daß Sie
+#facs_210_r2l9 Ihr Eigen Gebächs nur an einem und zbar
+#facs_210_r2l10 dem Ohrt, wo Sie mit Leube und Liecht sitzen,
+#facs_210_r2l11 und Persöhnlichbohnen, Es seye gleich in
+#facs_210_r2l12 der Stalt oder auf dem Land und nicht an beyden
+#facs_210_r2l13 Osten zu gleicher Zeit außzuschenden die
+#facs_210_r2l14 Freyheit haben sollen bey Straff der Vierzig Pfunden
+#facs_210_r2l15 duß.
+#facs_210_r2l16 Daß gleichen hollend wir auch denenjenigen
+#facs_210_r2l17 Persohnen, So Berufs oder eines Diensts
+#facs_210_r2l18 halber, für Ihre Persohn allein, so lang
+#facs_210_r2l19 Ihr Dienstlähret, das Habitanten Recht
+#facs_210_r3l1 412
+#facs_210_r3l2 In der Hauptstalt erlanget, fürs künfftig
+#facs_210_r3l3 abgestreckt und verbotten haben, Ihr Eigen¬
+#facs_210_r3l4 Bebächs Leder bey der Pinten noch
+#facs_210_r3l5 le Gros allhier zu Debitieren, außgenommen
+#facs_210_r3l6 kan Sie Pension-Wein hätten; welchen
+#facs_210_r3l7 Pension- Wein Sie, gleich den habitante
+#facs_210_r3l8 verkaufen mögen, alles bey obiger Straff
+#facs_210_r3l9 der Vierzig Pfunde Guß.
+#facs_210_r3l10 III.
+#facs_210_r3l11 Enderthanen, so in Unseren
+#facs_210_r3l12 Mediat. und Imediat Landen eigen¬
+#facs_210_r3l13 Räben und Gebächs haben.
+#facs_210_r3l14 Was aber Unsere Unterthanen betrifft, so
+#facs_210_r3l15 eigene Räben in unserer Holtmäßigkeit haben
+#facs_210_r3l16 möchten, soll denen selben nicht erlaubt seyn,
+#facs_210_r3l17 Ihren Wein allhier in der Haubtstalt hinzu
+#facs_210_r3l18 velleren, sonderen allein aus bestimten Platz
+#facs_210_r3l19 zu führen, alda feill zuhalten und zu ganzen oder
+#facs_210_r3l20 halben faßen zu verkauffen, also jedoch, daß
+#facs_210_r3l21 von solchem Wein der Platz Gulden bezahlt, und
+#facs_210_r3l22 eine beglaubte Attestation von dem Ambtsmann
+#facs_211_r3l1 11
+#facs_211_r3l2 Deß Ohrts wo der Wein gebachsen, aufgewiesen
+#facs_211_r3l3 werde, daß solcher kein Erhandleter, sondere
+#facs_211_r3l4 auff eigenen Räben gelachsener Wein seye,
+#facs_211_r3l5 der ferneren Meinung, daß ein Räbmann
+#facs_211_r3l6 so nur etliche beiner Jaß zu verkauffen zälte.
+#facs_211_r3l7 solchen seinen Wein, den Kosten, daß allhar
+#facs_211_r3l8 Raysent zu erspahren, wohl einem anderen Comission
+#facs_211_r3l9 Weiß übergeben möge, solchen mit dem seine in
+#facs_211_r3l10 die Stalt zu führen, und besagter maßen zu verkauft.
+#facs_211_r3l11 Jedoch daß solcher Wein, Er oben gesagt mit
+#facs_211_r3l12 einer Attestation, daß Er deß Rebmans eigent¬
+#facs_211_r3l13 Wein seye, begleitet werde.
+#facs_211_r3l14 Aus dem Land aber wollend Wir Unseren
+#facs_211_r3l15 Unterthanen So Eigen gebrachs haben, auch Erlaub¬
+#facs_211_r3l16 und zu laßen Ihren Wein in ihren Saß, und
+#facs_211_r3l17 6
+#facs_211_r3l18 Wohnhäuseren, da Sie mit Feüler und Liecht
+#facs_211_r3l19 sizen/: anderstlo aber nicht bey den Pinten
+#facs_211_r3l20 auszuscheiden und zu vertreiben, in So fern
+#facs_211_r3l21 Sie keinen Einzug halten und keine Speiß
+#facs_211_r3l22 darmit auffstellen alles beystraff der
+#facs_211_r3l23 Vierzig Pfunden duß in biderhandlendem Pahl.
+#facs_211_r4l1 IV.
+#facs_211_r4l2 uche
+#facs_211_r4l3 Regiments vöhige Bürger.
+#facs_211_r4l4 Die äußert Unserm Glediat und Im¬
+#facs_211_r4l5 mediat Landen Stäben und Eigen¬
+#facs_211_r4l6 Gebächs haben
+#facs_211_r4l7 Denjenigen Unseren Bürgern, so Ihr Eigen
+#facs_211_r4l8 Gebächs, äußert Unserer Soltmäßigkeit haben
+#facs_211_r4l9 Wollend Wie zlar bohl bebilligen, daß Sie Solches
+#facs_211_r4l10 ins Land bringen, und auff hietor gemelte
+#facs_211_r4l11 Weyse zu Stalt und Land ausscheiden und
+#facs_211_r4l12 vertreiben mögen, und soll solcher Wein nicht
+#facs_211_r4l13 für frömder Wein gehalten werden, so fern Er
+#facs_211_r4l14 mit außerem darzu Erkandleten Wein nicht
+#facs_211_r4l15 termehret oder vermischet worden
+#facs_211_r4l16 Weilen Wir aber Eine Zeit daher erfahren müßen
+#facs_211_r4l17 daß, unter dem Schein deß Eigenen Gebächses, Einebat
+#facs_211_r4l18 mehrere Quantitet aus Land geführt worden
+#facs_211_r4l19 als haben Wir disem Mißbrauch zu steulern hiemit
+#facs_211_r4l20 geordnet und Erkent; daß ein jeder Regiments,
+#facs_211_r4l21 pehiger Bürger, So Räben Äußert Unserer Gottmäßiger
+#facs_212_r2l1 Haben möchte, Es seye Hinter Reubenburg,
+#facs_212_r2l2 Neubenstalt, oder anderstwo, äußert Lands, zu Steulern,
+#facs_212_r2l3 und abhebung der disfalls tvogeloffenen Mißbräuchen
+#facs_212_r2l4 gehalten seyn solle, nach vollendeten Herbst, mit
+#facs_212_r2l5 Einer Verzeichnuß und Specification seines
+#facs_212_r2l6 gemachten Weins Vor Unser verordneten Umgelt oder
+#facs_212_r2l7 Wein Cammes sich zustellen, und deßen Allharbringung
+#facs_212_r2l8 umb die behörige Patenten alda sich anzumelden
+#facs_212_r2l9 als welche auch ohne Entgelt, ihme soll zu gestelt.
+#facs_212_r2l10 werden) zu gleich dann vor solcher, in Guten
+#facs_212_r2l11 Treüben und Ehren zu declarieren, daß disere
+#facs_212_r2l12 allhero beschickende Quantitet und Qualitet
+#facs_212_r2l13 seines Weins, in seinen eigenen Räben, und nichts
+#facs_212_r2l14 anderstlo gebachsen seye, alles bey unausbleibliche
+#facs_212_r2l15 Straaff der Fünfzig Thaleren Zuß, nebst
+#facs_212_r2l16 Consiscation deß, solcher Gestalt wider gegenwärtigen
+#facs_212_r2l17 Ordnung fraudulose eingebrachten Weins, davon
+#facs_212_r2l18 Uns Ein Vierthel, Unserer verordneten Ohngelthammer
+#facs_212_r2l19 auch ein Viertel, die Übrige zwey Theil aber, dem
+#facs_212_r2l20 zahleiligen Verleider zu, und heimdienen sollen.
+#facs_212_r3l1 V.
+#facs_212_r3l2 d16.
+#facs_212_r3l3 Enderthanen, so aussert
+#facs_212_r3l4 Unseren Glediat und Immediat
+#facs_212_r3l5 Landen Räben und EigenGebuchs
+#facs_212_r3l6 haben.
+#facs_212_r3l7 ollend Wir zlar denenselben auch hiemit
+#facs_212_r3l8 vergunstiget haben, solchen Ihren Eigenen Wein
+#facs_212_r3l9 derselbe seye hinter Raubenburg Neubenstalt,
+#facs_212_r3l10 und anderstbo äußert Landts gebachsen, in
+#facs_212_r3l11 Unsere Land zu bringen; dieselben sollen aber
+#facs_212_r3l12 gleich in Ansehen Unserer Regiments-Wehigen
+#facs_212_r3l13 durgeren hietor im 4 articul. Erlaüteret ist
+#facs_212_r3l14 Pflichtig und verbunden seyn, nach auß heiß
+#facs_212_r3l15 deßelben sich vor Unser verordneten Ohmgelt-Cammer
+#facs_212_r3l16 deßenthalben auch Anzugeben, allbo, unter
+#facs_212_r3l17 gleichfahls nommender Vorsorg und Bracaution
+#facs_212_r3l18 Ihnen für die Einfuhr die Erforderliche Billigung
+#facs_212_r3l19 vergabens wird ertheilt, wider Erhandleten
+#facs_212_r3l20 Pahls dann auch gleicher Gestalten, gegen Ihnen
+#facs_212_r3l21 verfahren berden, doch soll den Unterthanen
+#facs_212_r3l22 hierdurch heiter Verbotten seyn diseren Ihren
+#facs_212_r3l23 äußert Pandsgelachsenen Wein, in Unseren
+#facs_213_r2l1 Landen bey der Pinten auszu Schencken, und
+#facs_213_r2l2 bleibt Ihnen Lediglich verwilliget solchen Ihren
+#facs_213_r2l3 Wein En Gros, zu Saßen weiß, und zbar
+#facs_213_r2l4 wenigstens per Fäßlin zu fünffzig maßen
+#facs_213_r2l5 auff einmahl darinnen zu verkauffen.
+#facs_213_r2l6 VI
+#facs_213_r2l7 Wein "Bewerb der
+#facs_213_r2l8 Burgeren.
+#facs_213_r2l9 1. Zu nun dises alles von selbst Eigenem
+#facs_213_r2l10 Wein gebächs, theils der Ruegeren, Theils der
+#facs_213_r2l11 Unterthanen gesagt ist, wie solcher Wein
+#facs_213_r2l12 zu Stalt und Land Debitiert und verkaufft.
+#facs_213_r2l13 werden könne; also haben Wir im Gegentheil
+#facs_213_r2l14 in dasehen deß Wein=Gelerbs, hiemit
+#facs_213_r2l15 annoch zu Statuieren gutfunden, daß Unser
+#facs_213_r2l16 Regiments=ächigen fürgeren allein /: mit
+#facs_213_r2l17 Ausschließung der Habitanten, oder Eligen
+#facs_213_r2l18 Einbohnern, und deren welchen bey Ihrer
+#facs_213_r2l19 Annennung, der Wein, Gewerb verbotten,
+#facs_213_r2l20 worden) zu kommen und bewilliget seyn
+#facs_213_r4l1 418.
+#facs_213_r4l2 solle, Wein, so in Unseren Landen gelechsen
+#facs_213_r4l3 auff Bebinn und Quast hin, zu kauffen,
+#facs_213_r4l4 und hernach solchen, sobohl Eigenen, oder
+#facs_213_r4l5 auch erkaufften Wein Entbeder en Gros
+#facs_213_r4l6 wider zu Verhandlen, oder aber allhier in der
+#facs_213_r4l7 Haubtstalt bey außgestecktem Lancken bey
+#facs_213_r4l8 der Pinten, nicht aber Heimlicher Weiß, per
+#facs_213_r4l9 Bouteilles, oder in untaren Stüblinen und
+#facs_213_r4l10 Schlupflunklen, sonderen nur und allein
+#facs_213_r4l11 in öffentlichen Kellerhälsen auszuschreiben,
+#facs_213_r4l12 und also den Weingeberb, in rechter
+#facs_213_r4l13 Bescheidenheit, Er sey mit Eigenem- oder
+#facs_213_r4l14 Erkaufften Wein zu führen, bey straaff
+#facs_213_r4l15 der Zehen, oder auch der Vierzig Pfunden Buß
+#facs_213_r4l16 joch nachgestalt samme der öffteren Fehleren
+#facs_213_r4l17 und verbrechen von den Fehlbahren zu beziehen
+#facs_213_r4l18 Worten Uns Ein Theil, Unserer ohmgelt-Cammer
+#facs_213_r4l19 der ander dem Verleider aber die zwey übrige
+#facs_213_r4l20 Theil heim dienen sollen
+#facs_213_r4l21 Und damit der Burger seinen Also
+#facs_213_r4l22 ausscheinenden Wein desto beßer vertreiben
+#facs_214_r2l1 Esq
+#facs_214_r2l2 Möge; Wollend Wir allen Stuben- und Gesellschafft
+#facs_214_r2l3 Wihrten bey gesagter Straff der Vierzig Pfunden
+#facs_214_r2l4 verbotten haben, Einichen Wein Einzukellerer
+#facs_214_r2l5 sonderen Sie sollen gehalten seyn denselben
+#facs_214_r2l6 Flaschent beiß in denen Offenen Kellern
+#facs_214_r2l7 abzuholen und zbar an dem Ohrt wo es Ihre
+#facs_214_r2l8 Gasten belieben wird.
+#facs_214_r2l9 Wie bollend aber die Rewilligung deß
+#facs_214_r2l10 Wein Geberbs auch dahin Eingeschrautet halte,
+#facs_214_r2l11 daß der seligenmützige Comission und
+#facs_214_r2l12 Assouation Handel, da unter dem Schein
+#facs_214_r2l13 und Rahmen Einer Regiment vthigen
+#facs_214_r2l14 Burgers der Habitanten Unterthanen, oder
+#facs_214_r2l15 gar frembde zu höchsten Nachtheil der
+#facs_214_r2l16 Bürgerschafft den Wein Geberb allhier in der
+#facs_214_r2l17 Stalt treiben bey Straff der Confiscation
+#facs_214_r2l18 terbotten seyn, und Ein jeder so deßwegen in
+#facs_214_r2l19 Verdacht Pallenburde, es seye der Käuffer oder
+#facs_214_r2l20 der Verläufer vor Unseres bestellten ohngelthammer
+#facs_214_r2l21 mit einem Solemnischen Eÿdt sich deßen
+#facs_214_r2l22 zu scurgieren und zu Entschulten,
+#facs_214_r2l23 gehalten werden solle.
+#facs_214_r3l1 420
+#facs_214_r3l2 4. Ausweilen dergleichen Mißbräuch, in
+#facs_214_r3l3 Leihung deß Rahmens mehrentheils von Weibs Persohne
+#facs_214_r3l4 getrieben werden; als bollend Wir denenselben
+#facs_214_r3l5 den Weingel erb anderst nicht zu gelaßen haben
+#facs_214_r3l6 als mit Handen und Gewalt Eines ordentliche
+#facs_214_r3l7 vogts, der in zutragendem Verdacht Red und
+#facs_214_r3l8 antlort geben könne, zu welchem und denen
+#facs_214_r3l9 Weinhändleren verbotten seyn solle sich mit
+#facs_214_r3l10 Weibs Persohnen zu Assoueren, noch denen selben
+#facs_214_r3l11 anderst als mit Einbilligung Ihrer Ehemanneren
+#facs_214_r3l12 oder vögten Wein zu verkaufen, Widerhandlenden
+#facs_214_r3l13 Rahts Ihnen umb Ihre dißohrtige Ansprachen
+#facs_214_r3l14 gar kein Recht gehalten werden solle,
+#facs_214_r3l15 5. Außert der Haubtstalt in Unseren
+#facs_214_r3l16 Teutsch und welschen Landen, mit Wein, so in
+#facs_214_r3l17 Unserer Boltmäßigkeit gebachsen, den Wein, geben
+#facs_214_r3l18 en Gros, zu ganzen und halben deßenleiß
+#facs_214_r3l19 zu vertreiben, hollend Wir Unseren Regiments vohigen
+#facs_214_r3l20 Burgeren, aller ohrten so Sie solches zu thun
+#facs_214_r3l21 gut finden möchten ohngehinderet Erlaubt
+#facs_214_r3l22 hingegen aber Ihnen bey vierzig Pfunden
+#facs_215_r2l1 6
+#facs_215_r2l2 Verbolten haben, solchen auff Bloinn und
+#facs_215_r2l3 Quaest hin, Erhandleten Wein, irgendwo auff
+#facs_215_r2l4 dem Land, bey der Pinten auszuschenden.
+#facs_215_r2l5 weilen solches zum Ruin der Pintenschenck
+#facs_215_r2l6 und Iaverne Häuseren gereichen wurde.
+#facs_215_r2l7 VII
+#facs_215_r2l8 Wein Händler, oder so genante
+#facs_215_r2l9 Marchands de Vins, sofern sie Meiner
+#facs_215_r2l10 Gnädigen Herren Unterthanen sind.
+#facs_215_r2l11 Was aber die Unterthanen, uns sonderlich
+#facs_215_r2l12 die Weinhändler Welschen Lands, betrifft; habend
+#facs_215_r2l13 Wir legen Ihres eine Zeit daher so übermäßig,
+#facs_215_r2l14 als Eigenunzig getriebenen Geberbs folgende
+#facs_215_r2l15 zihl und Maaß Ihnen vorzuschreiben, für gut
+#facs_215_r2l16 befunden
+#facs_215_r2l17 1.
+#facs_215_r2l18 5
+#facs_215_r2l19 daß selbige Ihnen auff Rebinu und Quast
+#facs_215_r2l20 hin, Erhandleten Wein, zu ganzen und halber
+#facs_215_r2l21 Saßen auff die geordnete Niederlegen, als Milde¬
+#facs_215_r2l22 Isterten Murten; Inhiesiger Hauptstalt auf
+#facs_215_r4l1 ta 22
+#facs_215_r4l2 Dem Plaz: Anne dem See und Aaren nach, hinunter
+#facs_215_r4l3 biß nach Nydaul, Küren Wangen und Aarburg,
+#facs_215_r4l4 führen mögen, außert diesen Niderlagen aber
+#facs_215_r4l5 einiche andere zu haben, noch kein zum Widerkauff
+#facs_215_r4l6 in darzu gemietete Keller zu legen, oder in Läger,
+#facs_215_r4l7 daß abzuziehen, daraus zu zapfen, und zu verkauffen,
+#facs_215_r4l8 besagten Weinhändleren verbotten seyn solle.
+#facs_215_r4l9 mit der ferneren Erlaüterung, daß Sie keinen
+#facs_215_r4l10 Welschen Landbein zu Rydaub oder Büren außladung
+#facs_215_r4l11 noch der Endlen verhandlind, weilen solches zum
+#facs_215_r4l12 völligen Quin Unser beyder Graffschafften,
+#facs_215_r4l13 Erlach und Rydaul gereichenburde; alles bey
+#facs_215_r4l14 Straff der Consiscation Eint oder anderen
+#facs_215_r4l15 Eidechandlenden Fahls.
+#facs_215_r4l16 Es sollen auch die Weinhändler umb die Quantitet
+#facs_215_r4l17 Ihres, die Aaren hinab herggenden Weins und
+#facs_215_r4l18 Anzahl der Haßen einen beglaubten Schein von dem
+#facs_215_r4l19 Ambtsmann deß Ohrts, boder Wein gekaufft
+#facs_215_r4l20 wird aufzuweisen haben, umb daraus zu Erseht,
+#facs_215_r4l21 ob kein verboltener Wein darunter sich befinde?
+#facs_215_r4l22 oder ob unterlegen anderstbo als an denen
+#facs_215_r4l23 zu gelaßenen Ohrten Ettas von dem Wein
+#facs_216_r1l1 1423
+#facs_216_r1l2 3
+#facs_216_r3l1 Verkaufft worden; Worauf dan Unsere Ambtleüth
+#facs_216_r3l2 gebührende Aufsicht bestellen, und die fehlbahre
+#facs_216_r3l3 in gebührende Straff zu ziehen lüßen.
+#facs_216_r3l4 werden.
+#facs_216_r3l5 Hierbey bollend Wir auch Ernst meinend
+#facs_216_r3l6 angesehen haben, daß die Weinhändler des¬
+#facs_216_r3l7 hin- und Herlauffens, Wein-Antragens und
+#facs_216_r3l8 auftringens gegen maniglich sich müßigen
+#facs_216_r3l9 und deß Käufers, an dem Ohrt der Niderlag,
+#facs_216_r3l10 lediglich Erbarten sollen alles bey Straaff
+#facs_216_r3l11 er Confiscation
+#facs_216_r3l12 Damit auch die Wirthen und Pinten,
+#facs_216_r3l13 Dchemben, somit dem Wein außgeben umbgehe¬
+#facs_216_r3l14 hinführo von den Weinhändlern, deß
+#facs_216_r3l15 antragens und aufftringens allzu viele
+#facs_216_r3l16 Weins, als bordurch manchem zu dem
+#facs_216_r3l17 Wein. Außschandten Vorschub und Anlaß gegeben
+#facs_216_r3l18 und zum Ruin und verderben geholffen wird,
+#facs_216_r3l19 überhabt bleiben. So habend Wir hirmithauch
+#facs_216_r3l20 Erkent, daß ins künfftig, umb ansprachen, so von
+#facs_216_r3l21 dem auf Sorg und Credit gegebenen Wein
+#facs_216_r4l1 ¼
+#facs_216_r4l2 Herrühren und überhundert hernen Steigen kein
+#facs_216_r4l3 Recht in den Geltstagen, disen Weinhändlern
+#facs_216_r4l4 gehalten werden solle.
+#facs_216_r4l5 Deßgleichen soll den Weinhändlern bey Straaff
+#facs_216_r4l6 5
+#facs_216_r4l7 der Confiscation abgestreckt und Verbotten seyn
+#facs_216_r4l8 vide fernem
+#facs_216_r4l9 Beläuterung.
+#facs_216_r4l10 tor dem Herbst den Wein, oder die Trauben an
+#facs_216_r4l11 in Mart. buch.
+#facs_216_r4l12 vom 14 feb: 1749
+#facs_216_r4l13 R. 176. dem Stock zu kaufen, weil dardurch viel
+#facs_216_r4l14 über nuz und Vortheil getriben werden kan.
+#facs_216_r4l15 VIII.
+#facs_216_r4l16 Wirthen und Vinten-schencken
+#facs_216_r4l17 1. denselben hollend Wirzu gelaßen haben,
+#facs_216_r4l18 den in Unseren Glediat oder Immediat
+#facs_216_r4l19 Landen Erbauffen Wein, in Ihren Wirths¬
+#facs_216_r4l20 oder Pintenschende¬ Häuseren bey der
+#facs_216_r4l21 Pinten außzu geben und zu vertreiben.
+#facs_216_r4l22 2. In gegentheil aber, soll Ihnen verbolten
+#facs_216_r4l23 seyn und bleiben bey der Pücten zu
+#facs_217_r2l1 Säumen beiß, und en Gros Wein zu Verkaufft
+#facs_217_r2l2 bey Straaff vierzig Pfunden duß,
+#facs_217_r2l3 3. Ihnen soll gleichfahls verbotten seyn, den
+#facs_217_r2l4 Erkaufften Wein Anderstbo ablegen zu laßen
+#facs_217_r2l5 als an denen obgenamseten Ablaz pläzen,
+#facs_217_r2l6 Hierbey aber hollend Wir dennoch denen Wihete
+#facs_217_r2l7 und Particularen deß oberen Theils Unsers
+#facs_217_r2l8 Ambts Trachselbald, wie auch Unseren Ambteren
+#facs_217_r2l9 Sumis wald Brandes Burgdorff Thorberg
+#facs_217_r2l10 Fraubbronnen und Landshut, zu gelaßen haben,
+#facs_217_r2l11 Ihren Erkaufften Wein zu Solothurn außladen
+#facs_217_r2l12 und daselbst abholen zu laßen, jedoch unter den
+#facs_217_r2l13 in den Glandaten vom 13 Februarii 1683.
+#facs_217_r2l14 und 27 Januarii 1722 enthaltenen
+#facs_217_r2l15 Procautionen, uns gedingen wir zu End diser
+#facs_217_r2l16 Ordnung selbe zu lesen sind; denen Wirths
+#facs_217_r2l17 und Particularen dann daß unteren theils
+#facs_217_r2l18 Ambts Trachselbald Sumis wald, wie auch
+#facs_217_r2l19 Wangen, Aarburg und Sipp soll auch vergönstiget
+#facs_217_r2l20 seyn, Ihren erkaufften Wein entbeders zu
+#facs_217_r2l21 zu Stangen oder Aarlangen ausladen, und
+#facs_217_r2l22 alda abholen laßen zu können.
+#facs_217_r3l1 ! 4.
+#facs_217_r3l2 IX
+#facs_217_r3l3 Rableüth, so auff zorg nemmen
+#facs_217_r3l4 bollen.
+#facs_217_r3l5 Den ansehen derselben soll zu gelaßen seyn, daß
+#facs_217_r3l6 Ihnen auff Ihren künfftigen Raub,edelt oder
+#facs_217_r3l7 Gewächs mag vorgestreckt werden; daß qlächses
+#facs_217_r3l8 halber, der Meinung, daß nach dem Herbst
+#facs_217_r3l9 Ihnen der Wehrt deßelben nicht höher solle angeschlagen
+#facs_217_r3l10 werden als Es zur Zeith der Außleyhung gelten,
+#facs_217_r3l11 Der Wein aber, an denen Ohrten, da der Tax:
+#facs_217_r3l12 üblich, nachdem, an jeden Ohrten, machenden
+#facs_217_r3l13 Jax; da Er aber nicht üblich, nach Kauf und
+#facs_217_r3l14 Lauff solcher solle abgenommen werden und
+#facs_217_r3l15 berechnet berden
+#facs_217_r3l16 elangend Endlichen Unsere Leutseh- und Welsche
+#facs_217_r3l17 Municipal Stält und Landschafften, so daß
+#facs_217_r3l18 Weins und deßen Debite halber besondere
+#facs_217_r3l19 Reglement und verschrifften haben möchten,
+#facs_217_r3l20 läßend Wir dieselben fürbas ohngehinderet
+#facs_217_r3l21 darbey verbleiben.
+#facs_218_r2l1 Schließlichen it Unser Will und Meinung
+#facs_218_r2l2 und Verstand in fernerem, daß in so weit alle
+#facs_218_r2l3 unsere übrige, deß Weinshalber hiebevor außgangene
+#facs_218_r2l4 Mandata und Ordnungen durch gegenwärtig
+#facs_218_r2l5 Unser Einsahm und Reglement nicht abgeändert,
+#facs_218_r2l6 Vermehret oder vermindert worden, die selben
+#facs_218_r2l7 noch ferners hin ihre töllige Krafft und Stand
+#facs_218_r2l8 haben sollen und zbar in solang biß Wir an
+#facs_218_r2l9 denenselben, oder auch an dißmahliger Ordnung
+#facs_218_r2l10 Etlas abzuanderen, zu minderen oder zu mehren.
+#facs_218_r2l11 für nützlich oder Gut und Nothlendig
+#facs_218_r2l12 Erachten Berden.
+#facs_218_r2l13 Wornach sich nun in aniglich zu richten, auch von
+#facs_218_r2l14 Schaden zu Hürten büßen wird, geben in unsere
+#facs_218_r2l15 Großen Rahts Versamlung, den 5' 6' 13. 20.
+#facs_218_r2l16 und 21. Septembris 1737., 4 und 6
+#facs_218_r2l17 Februarij 1739

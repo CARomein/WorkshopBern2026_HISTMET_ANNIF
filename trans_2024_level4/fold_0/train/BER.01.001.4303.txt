@@ -1,0 +1,115 @@
+Law ID: BER.01.001.4303
+Name: Verordnung für die Stadt Bern und derselben Teütsche Städte und Landschafften ansehend. Die Substitutionen oder Nacherbschafften.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 104/104
+# High similarity (>=50%): 100
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_71_r1l4 Publikationsverordnung Lievor p 131
+#facs_71_r1l5 Verordnung.
+#facs_71_r1l6 für die Stadt Bern
+#facs_71_r1l7 Und derselben Teutsche Städte und Landschafft
+#facs_71_r1l8 Ansehern
+#facs_71_r1l9 Die Substitutionen oder Nach Erbschaften
+#facs_71_r1l10 Wer vermog Gesazes über sein Gut Eigenen
+#facs_71_r1l11 Colatus
+#facs_71_r1l12 Willens Testamentlich zu verordnen mächtig
+#facs_71_r1l13 ist, der soll auch substituiren können, doch
+#facs_71_r1l14 nur auf zwey Fälle hin, wie folget
+#facs_71_r1l15 Der Erste Fall begreifft die einfache
+#facs_71_r1l16 Substitution, oder da Jemand neben dem Haus
+#facs_71_r1l17 Erben, noch einen Nach Erben bestimt, auf
+#facs_71_r1l18 den, nach des HaubtErben Tod, das Gut zurück
+#facs_71_r1l19 fallen soll.
+#facs_71_r1l20 Der zweyte Fall macht die Zweyfache
+#facs_71_r1l21 Substitution aus, oder da Jemand neben dem
+#facs_71_r1l22 Ersten Nach Erben noch einen zweiten Nach¬
+#facs_71_r1l23 Erben bestimt, auf den, nach des Ersten nach,
+#facs_71_r1l24 Erben tod, das Gut zurubfallen soll.
+#facs_71_r2l1 133
+#facs_71_r2l2 Es verstehet sich in beyden Fällen, daß, wie
+#facs_71_r2l3 der Testator einen oder mehr Haubt Erben
+#facs_71_r2l4 einsezen, derselbe gleicher maßen, nach Belie¬
+#facs_71_r2l5 ben, auch einen oder mehr Nach Erben bestimmen
+#facs_71_r2l6 kan, wofern Sie alle auf einmahl und zugleich
+#facs_71_r2l7 zum Erben beruffen werden.
+#facs_71_r2l8 Alle fernere Substitutionen über die ange¬
+#facs_71_r2l9 deüten zwey Fälle hinaus, wie auch alle so
+#facs_71_r2l10 genante Fidei Commiss, Stammgüter oder übrige
+#facs_71_r2l11 Machenschafften, dadurch Jemand Testament
+#facs_71_r2l12 lich oder anders über sein Vermögen etwas
+#facs_71_r2l13 dergleichen zu verfügen sich anmaßen wurde
+#facs_71_r2l14 sollen, mit Vorbehalt allein der Geschlechts
+#facs_71_r2l15 Kisten, derenthalb eine besondere Verordnung
+#facs_71_r2l16 vorhanden ist, bey Straff der Ungültigkeit
+#facs_71_r2l17 verbotten seyn.
+#facs_71_r2l18 Ob diesem allem soll von Obrigkeits wegen
+#facs_71_r2l19 gehalten werden, und in dieser Absicht sollen
+#facs_71_r2l20 in der Stadt die Herren Heimlicher, auf dem
+#facs_71_r2l21 Land aber Unsere Amtleut auf dasjenige, was
+#facs_71_r2l22 Unserem disförtigen Verboit zu wider vorgenommen
+#facs_71_r2l23 werden möchte, bey Ihrer Pflicht fleißig achten¬
+#facs_71_r2l24 geben vor Räht und Burger d. 20ten Marty 1771.
+#facs_71_r2l25 Canzley Bern.
+#facs_72_r1l1 134
+#facs_72_r1l2 Colats
+#facs_72_r2l1 An
+#facs_72_r2l2 Wie, an Löbl. Stand Fryburg Angrenzende Herren
+#facs_72_r2l3 Amtleüth; denn per jedel an Metzöhl. der Marech
+#facs_72_r2l4 und Policey Camer, wie auch Herrn Großweibel
+#facs_72_r2l5 und Herrn Gerichtschreiber
+#facs_72_r2l6 Der von Lobl. Stand Fryburg beschriebenen
+#facs_72_r2l7 Landstreicherin Claudine Balet, keinen Auf¬
+#facs_72_r2l8 enthalt zu gestatten
+#facs_72_r2l9 Schultheis und Raht
+#facs_72_r2l10 Löbl. Stand Fryburg hat die, in mit vom
+#facs_72_r2l11 mendem Signalement benamsete Land¬
+#facs_72_r2l12 streicherin claudine Balet, wegen waltenden
+#facs_72_r2l13 verdachts, daß sie sich beschehener Dieb¬
+#facs_72_r2l14 stählen schuldig gemacht habe, mit dem
+#facs_72_r2l15 Pranger und dem Stauzbäsen bestraffen
+#facs_72_r2l16 laßen, und selbige auf Lebens lang aus¬
+#facs_72_r2l17 gesamt Lobl. Eidgnoschafft verweisen laßen.
+#facs_72_r2l18 davon dann uns die abscheidmäßige nach¬
+#facs_72_r2l19 richt ertheilt. Mit Zusendung nun der
+#facs_72_r2l20 Beschreibung dieser Balet, befehlen Wir
+#facs_72_r2l21 Euch, derselben in Eüerem Amt keinen
+#facs_72_r2l22 Aufenthalt zu gestatten, sondern auf betre¬
+#facs_72_r2l23 ten selbige fort, und aus dem Land weisen
+#facs_72_r2l24 zu laßen. Dat. d. 21. Marty 1771.
+#facs_72_r2l25 Signal
+#facs_72_r5l1 135
+#facs_72_r5l2 Signalement
+#facs_72_r5l3 Marie Claudine Ballet, bey 45 oder 50. Jahren
+#facs_72_r5l4 alt, Michelmäßiger Statur, graue Augen
+#facs_72_r5l5 dunkel Braune Haar, weise Haube, Cattunenes
+#facs_72_r5l6 Blaues Schnupftuch, und einen mit rohten Band
+#facs_72_r5l7 gesaumter stroh Hut auf dem Kopf, ein weis¬
+#facs_72_r5l8 und blaufärbiges Halstuch, Ein blau Cattunenes
+#facs_72_r5l9 Leibchen, rothen Unterrob, blau und weiß
+#facs_72_r5l10 gestrichleten Schurz, glatte schue.
+#facs_72_r5l11 An
+#facs_72_r5l12 Die, an Löbl. Stand Luiern Angrenzende Herren
+#facs_72_r5l13 Amtleut, denne perJedel an Mehöhl. der Marechauss¬
+#facs_72_r5l14 und Policey-Cammer, denen Herrn Großbeibel und
+#facs_72_r5l15 Herrn Gerichtschreiber
+#facs_72_r5l16 Denen von Löbl. Stand Lucern banisierten Gebrüderen
+#facs_72_r5l17 Melchior und Michael Schlüßel, keinen Aufenthalt
+#facs_72_r5l18 zu gestacken.
+#facs_72_r5l19 Schultheiß und Rahtse
+#facs_72_r5l20 Die Gebrüdere Melchior und Michael Schlüssel,
+#facs_72_r5l21 hat lobl. Stand Luiern wegen Drohungen mit¬
+#facs_72_r5l22 Brand, auf 20. Jahr lang, aus gesamt Lobl.
+#facs_72_r5l23 Lignoßschafft verwiesen, und uns davon die
+#facs_73_r1l1 136.
+#facs_73_r1l2 solats
+#facs_73_r2l1 Abscheidmäßige Nachricht ertheilt. Mit
+#facs_73_r2l2 Mit Zusendung deren Signalement um
+#facs_73_r2l3 befehlen Wir Euch, denenselben auf betret¬
+#facs_73_r2l4 ten in Eüerem Amt keinen Aufenthalt zu
+#facs_73_r2l5 gestacken, sondern so gleich fortweisen zu
+#facs_73_r2l6 laßen. Dat. d. 21t Marty 1771.

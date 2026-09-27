@@ -1,0 +1,52 @@
+Law nr: BER.01.001.4119
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_500
+# Matched: 41/41
+# High similarity (>=80%): 39
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_3_r2l17 Mandat
+#facs_4_r2l1 Wir Schultheiss und Rath der Statt und
+#facs_7_r3l12 public Bern, und Wir Schultheiss und Rath
+#facs_7_r3l13 Statt und Respublie Fryburg, thund Huns hier
+#facs_15_r2l28 e
+#facs_7_r3l15 daß in Ersehung der vielfaltigen Convenienzion
+#facs_8_r3l16 sich einfinden, zuzugeben, daß in Unseren Ma
+#facs_7_r3l17 Landen Notarialische Instrument, durch Notarien,
+#facs_8_r3l18 Unser der Ständen Imediat, Landen Stipuliert
+#facs_34_r4l12 Aus
+#facs_7_r4l2 Ausgefertiget werden? Wir guth und nöthigfunden,
+#facs_7_r4l3 durch xyz gegenwärtiges Einsehen zu ordnen, im
+#facs_8_r4l4 zu befehlen, daß in Unseren Bemeinen Amtere
+#facs_7_r4l5 Mürten, Tscherliz und Grandson Alle und Jede No¬
+#facs_7_r4l6 tariaen Instrument und Actesfürohin, durch keine
+#facs_7_r4l7 Andere als durch die Mediaten Notarien, so von Unß
+#facs_8_r4l8 den beyden Ständen, für Jedes dieser Ämter
+#facs_7_r4l9 bestellt worden, Stipuliert und aufgerichtet werden
+#facs_7_r4l10 werden sollen, und allen uns Jeden Unseren
+#facs_7_r4l11 Angehörigen und Underthanen in diesen Be¬
+#facs_7_r4l12 meinen Ämteren fürohin, und Allezeit verbot¬
+#facs_7_r4l13 ten uns abgestreckt seyn soll, zu Ausfertigung
+#facs_272_r2l14 fählen zu senden
+#facs_8_r4l16 Ihrer Actes und großfertigung hinter diesen
+#facs_7_r4l17 Gemeinen Amteren Notarien aus Unster oder
+#facs_7_r4l18 Ständen Imediat=Landen, zu gebrauchen:-
+#facs_8_r4l20 Wie dann Wir geordnet und gehebt haben wollen, daß
+#facs_7_r4l20 von Zeit dieser Publication an alle Notaria (Actes
+#facs_8_r4l22 und Instrument, in diesen Unseren Gemeinen
+#facs_7_r4l22 Amteren
+#facs_7_r1l1 8
+#facs_233_r3l1 Sollt
+#facs_7_r3l1 worden, die fage deßen Allen Notarii aus denen
+#facs_7_r3l2 mediat,, Landen fürs künfftige alles Stipuliere
+#facs_8_r3l3 Bemeinen drey Ämteren Mürten, Tscherliz und Gr.
+#facs_8_r3l4 son, under darin aufgesezter Straaff gänzl. verbl.
+#facs_7_r3l5 worden. Dis Mandat nun über senden Wir Euch
+#facs_7_r3l6 dem Befehl, solches zu Männigl. Verhalt in Euerem
+#facs_7_r3l7 publicieren, seines Orths einschreiben zu laßen,
+#facs_7_r3l8 Pflichtmäßige Hans obzuhalten, daß deme durch
+#facs_7_r3l9 nachgelebt werde etc. Dat. d. 28ten Augusti 1759.

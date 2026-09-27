@@ -1,0 +1,78 @@
+Law ID: BER.01.001.2918
+Name: Eine Verordnung wegen denen Teüfferen und Lechenleüthen halb aussschreiben, mit Bedeüten, dass sie sich mit Scheinen versehen sollind.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 67/67
+# High similarity (>=50%): 67
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_76_r4l6 An alle T. und W. Ambtleüts, 4 Stäts
+#facs_76_r4l7 Freyweibel und Ammann. Item pro placcard
+#facs_76_r4l8 hiesiger Statt
+#facs_76_r4l9 Eine Verordnung wegen denen Teüfferen
+#facs_76_r4l10 und Lechenleübhen halb ausschreiben, mit
+#facs_76_r4l11 bedeüben, daß sie sich mit Scheinen versehen sollind,
+#facs_76_r4l12 Schultheis und Raht der Statt Herrn etc.
+#facs_76_r4l13 Coll. Wegen bekandt Ich mehr und mehr einreisender
+#facs_76_r4l14 Teüffer-Sect und zu hindertreibung derselben, haben
+#facs_76_r4l15 Wir das anderem 27. Februarii 1697. zu Statt und
+#facs_76_r4l16 Land außgeschribene Verbott, in Vnseren Landen
+#facs_76_r4l17 Werners die Widerteüffer alß ungehorsamme undt
+#facs_76_r4l18 widerspenstige nicht zu gedulden, im gegentheil aber
+#facs_76_r4l19 auszuschaffen, und die widerkehrenden härtiglich abzu¬
+#facs_76_r4l20 straffen, hiemit wider erfrischen zu laßen, Aus ohn
+#facs_76_r4l21 umbgänglich benöhtiget befunden, Insonderheit weilen
+#facs_76_r4l22 dergleichen Leüth allwegen bey aufsuchung sich zwahr
+#facs_76_r4l23 von Ihren Heimathen eüßeren, aber nicht äußert
+#facs_76_r4l24 Landts bleiben, sondern anderer Ohrben einschleichend,
+#facs_77_r2l1 Lechen bestehend, oder anderen Dienst nemmend, undt
+#facs_77_r2l2 also nit entdekt werden können; Inmaßen Wir
+#facs_77_r2l3 hiemit, disem krefftiglich vorzusein, widermahlen
+#facs_77_r2l4 ernstlich gehabt haben wollen, daß bey fünffzig pfum
+#facs_77_r2l5 Büß niemand zu Statt und Land, wer der seye
+#facs_77_r2l6 einigen Lächenmann, Gestehern eines gutts, Kne¬
+#facs_77_r2l7 oder Dienst annemmen solle, der nicht einen glau
+#facs_77_r2l8 würdigen Schein von dem Ambtsmann seines Heim
+#facs_77_r2l9 besiglet, aufweisen kan, daß Er ein Ehrlicher und
+#facs_77_r2l10 gehorsammer vnderthan seye, und so es eine Manns¬
+#facs_77_r2l11 Persohn, den Eydt der Treüw geschwohren habe; Für
+#facs_77_r2l12 welchen getrükten Schein aber, deren du bereits
+#facs_77_r2l13 eine zulängliche anzahl hinder dir haben soll,
+#facs_77_r2l14 nehr nicht als dem Ambtsmann für aufgetrübte
+#facs_77_r2l15 pütschafft zwey Creützer, und dem Schreiber für
+#facs_77_r2l16 hinzusetzung des nahmens auch zwey Creüher bezo¬
+#facs_77_r2l17 werden sollen; welchemnach auch die Lehenleüthen
+#facs_77_r2l18 und Diensten, so dißmahlen bereits außert Ihre
+#facs_77_r2l19 Heimaht sind, sich allerfürderlichst in Ihr Heimast
+#facs_77_r2l20 begeben, den Eydt ablegen, und deßen Schein
+#facs_77_r2l21 nemmen sollend, darzu dan Ihnen biß künfftig
+#facs_77_r2l22 Martini zeith gelaßen, da den zmahlen alle die
+#facs_77_r2l23 jenigen dergleichen Leübl und Diensten, so kein
+#facs_77_r2l24 solche Scheinen an gebührendem Ohrt aufzuweisen
+#facs_77_r2l25 und einzugeben hetten, aus dem Land gemüster
+#facs_77_r2l26 werden sollen; Dir demnach, gleich allen übrigen
+#facs_77_r2l27 Vnseren Ambtleüthen befehlende, dises ernstgenet
+#facs_77_r4l1 145
+#facs_77_r4l2 Verbott nit nur zu mäniglichs Nachricht von Cantzley
+#facs_77_r4l3 alsobald verkünden und seines Ohrts einschreiben
+#facs_77_r4l4 ze laßen, sonder auch fürs künfftige zu veranstalten
+#facs_77_r4l5 daß solches gleichmäßig Jährlichen mit dem getrükke¬
+#facs_77_r4l6 Teüffer Mandat von Ao. 1695. publiciert und davon
+#facs_77_r4l7 gehalten werde. Datl. 29. Juny 1707.
+#facs_77_r4l8 Wangen, Garwangen, Bipp, Burgdorff,
+#facs_77_r4l9 Thorberg, Landtshütt, Frauwbrunnen, Urberg,
+#facs_77_r4l10 Gottstatt, Nydauw, Büren, Interlakersauß
+#facs_77_r4l11 Underspittahl undt Stifft.
+#facs_77_r4l12 Ihnen wegen Hebreidt=Verzeigung in Obern Spittahl
+#facs_77_r4l13 die Verabfolgung Ihres Contingents anbefehlen
+#facs_77_r4l14 Schultheis undt Raht der Statt Bern etc.
+#facs_77_r4l15 Wir habend abermahlen zu Speisung unsers Oberm Spittahls
+#facs_77_r4l16 die behörige Eintheilung an getreit gemachet; Undt wie nun
+#facs_77_r4l17 deren nach es sich für deinen Antheil N: N: bezeüchen mag,
+#facs_77_r4l18 Als wirstu solche getreidt=Verzeigung auf begehren Vnsers
+#facs_77_r4l19 Oberen Spittahlmeisters Ihme gefolgen zu laßen wüßen
+#facs_77_r4l20 Linkel Roggen Haber.
+#facs_77_r4l21 Dath 6. July 1707.

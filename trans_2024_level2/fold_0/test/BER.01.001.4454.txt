@@ -1,0 +1,27 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 18/20
+# High similarity (>=80%): 18
+# Low similarity (<80%): 0
+# Not found: 2
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4454
+#facs_20_region_1629824243488_413l_4 Der Jagd Bahn wird in denen Amteren Wangen und
+# NOT FOUND: ????
+#facs_21_r1l1 38.
+#facs_9_region_1629822406380_88l_2 Coll
+#facs_21_r3l1 des gewohnten Jährlichen Jagdt Bahns, noch
+#facs_21_r3l2 nicht wird können eingesammlet werden, so haben
+#facs_21_r3l3 Wir auf die uns deshalben gethane Vorstel¬
+#facs_21_r3l4 lungen, den Jagdbahn in denen Umsteren
+#facs_21_r3l5 Wangen und Aarwangen (und für diß Jahr
+#facs_21_r3l6 allein) vom 2ten Montag im Herbstmonat bis
+#facs_21_r3l7 auf Michelstag als den 29ten Herbstmonat, hin
+#facs_21_r3l8 auszusezen gut befunden. Wir befehlen dero¬
+#facs_21_r3l9 wegen Eüch, solches auf den Känzeln Eueres¬
+#facs_21_r3l10 Amts publicieren zu laßen, die Widerhandlen
+#facs_21_r3l11 den aber mit der in Unserer daheriger Ordnung
+#facs_21_r3l12 bestimten Bus zu belegen, und zu Ersatzung
+#facs_21_r3l13 des danahen verursachten Schadens anzuhalten
+#facs_21_r3l14 Datl. d. 20t Augl 1777
+#facs_178_r8l1 en

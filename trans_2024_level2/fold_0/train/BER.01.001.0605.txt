@@ -1,0 +1,108 @@
+Law ID: BER.01.001.0605
+Name: Der Metzgeren alhie Clag ab Stümpleren und anderen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 97/97
+# High similarity (>=50%): 95
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_256_r4l39 Onron 5th. Mai
+#facs_256_r4l40 Porterlingen 4 May
+#facs_256_r4l41 Biblispurg 4 May
+#facs_256_r4l42 Rom: 7. Mai
+#facs_256_r4l43 Milden 5th May
+#facs_256_r4l44 Newis 8a May
+#facs_256_r4l45 Losanna 6. Mai
+#facs_256_r4l46 Bomont 13 Mai
+#facs_256_r4l47 Morzer 7. May
+#facs_256_r4l48 Neuenstadt. 14 May
+#facs_256_r4l49 Thillion 6 May
+#facs_257_r1l1 513.
+#facs_257_r1l2 In sechl. d. v. gerey
+#facs_257_r1l3 Thun, und erseewen, Interlacken
+#facs_257_r1l4 fruttingen, Ober Nideribenthall.
+#facs_257_r1l5 mag
+#facs_257_r1l6 Mchg
+#facs_257_r1l7 Burgdorff, Freyweilell Amen. D'Metzgen
+#facs_257_r1l8 alhie clagen ab Stumpke, und andern.
+#facs_257_r1l9 schuldtheiss Rhät, vnnd Klurger zu Bern vnseren grul¬
+#facs_257_r1l10 Zuvor Lieber getrüwer Burger
+#facs_257_r1l11 Es habend sich nun mehr mallen by vns erclagt
+#facs_257_r1l12 Unsere Bürger und Meister Mehger Handt¬
+#facs_257_r1l13 wercks, das nit allein sich Iren will hin nun
+#facs_257_r1l14 wider vmb die Statt, des Metzgens anemend
+#facs_257_r1l15 Die doch das Handwerck mit geleerst, Sonders
+#facs_257_r1l16 das fleisch in höcherem pryß, vnd wärt gäbinen
+#facs_257_r1l17 Dan sy es alhie gäben Dörffind, Item auch
+#facs_257_r1l18 eindweders fleiß zu viertlen, oder gantzen stuck
+#facs_257_r1l19 Godt hych alhier gebracht, vnd by den Jügeren
+#facs_257_r1l20 oder an der Anckenwaag, vnd anderen ortten nach
+#facs_257_r1l21 werden
+#facs_257_r1l22 Jedegin seyen willen verkaufft, welliches alles
+#facs_257_r1l23 wider vnsere Ordnungen strytte, die sie aber
+#facs_257_r1l24 zu haltten bunden, vnnd verstrickt syndt, vnd uns
+#facs_257_r1l25 derowägen, umb oberkeitliche Insächen gepätten etc.
+#facs_257_r1l26 Wan nun wir die ordnungen hierwider ge¬
+#facs_257_r1l27 macht, für uns genomen, vnd befunden, das solliches
+#facs_257_r1l28 alles vor Langest, menigklichem verpotten vnd
+#facs_257_r1l29 dabey angesächen worden, was gestalt man sich des
+#facs_257_r1l30 Mezgens gebruchen, vnseren hierumb gemachten
+#facs_257_r1l31 ordnungen, so wol alls die Meister alhie gemäß
+#facs_257_r1l32 halten soltte etc. Siderhar aber sölliches mißbrucht,
+#facs_257_r1l33 worden, vnd andere vnordnungen vnd mißbruch,
+#facs_257_r1l34 mit allein zu Nachtsill, und schaden Unserer
+#facs_257_r1l35 Meistereg Sonders auch der gantzen Burgerschafft
+#facs_257_r1l36 Ingerissen
+#facs_257_r2l1 1514
+#facs_257_r2l2 Ingerisen etc. haben wir vorige ordnungen widerumb
+#facs_257_r2l3 erfrischen, vnnd volgendt Insachen thun wollen,
+#facs_257_r2l4 Nämlich, und des Ersten, das weder Seinsch noch frömbder
+#facs_257_r2l5 Fürohin Linich Kalb, so noch vnder Dreyen wachen, altt In
+#facs_257_r2l6 die Metzg, weder khouffen, noch verkauffen solle, by
+#facs_257_r2l7 einem guldi burg, von dem Könffer vnd verköuffte
+#facs_257_r2l8 zu bezuchen,
+#facs_257_r2l9 Denne das an denen ortten, da das Metzgen nit verpotte¬
+#facs_257_r2l10 Sonders sey, vnnd zu gelagen als by dir, vnd anderstrei¬
+#facs_257_r2l11 sich desselben keiner vnderfachen vnnd annemen
+#facs_257_r2l12 Tölle. Er habe dan das Handtwerck nach Bruch, und Nächt¬
+#facs_257_r2l13 gelernet, oder sie sonst ein Erliche persohn, dem das
+#facs_257_r2l14 Mehgen vnß Vrsachen vertruwet werden möchte.
+#facs_257_r2l15 der vnd dieselben aber sich hiemit vnseren Ordnungen
+#facs_257_r2l16 au dit Amau
+#facs_257_r2l17 Dennen sich die vnserm mäßen haltten, deren vnderwerffen, vnd das fleisch
+#facs_257_r2l18 einer Veraltung
+#facs_257_r2l19 mit thürer dan unsere Meister alhie, hingäben, und
+#facs_257_r2l20 Ich gernn und gewärtig
+#facs_257_r2l21 verkauff söllindt by einem gulden burg, von jedem vber¬
+#facs_257_r2l22 schmeßig gentzlich
+#facs_257_r2l23 müsig söllend bey
+#facs_257_r2l24 trättern ohne schonen zu bezüchen etc.
+#facs_257_r2l25 eybung unser Straffen
+#facs_257_r2l26 Vnnd schlüfflich, Die wyll Unseren Meisteren alhie, nit
+#facs_257_r2l27 zu gelagen, thodt vijch In die Katt noch Schall zbringen
+#facs_257_r2l28 Sonders alles zu Schindthug, und In der Schall Schlacht
+#facs_257_r2l29 mugendt, bißhäro aber gesächen, vnd geschriüet worden, das von
+#facs_257_r2l30 allen ortten har thodtne Kelber, Schaff, Geissen, Gihl,
+#facs_257_r2l31 vnd der glijchen, oder sonst fleisch, alhier In vnsere Statt an die
+#facs_257_r2l32 Anckenwaag, vnnd zu den hüyeren bracht, vnd wie man
+#facs_257_r2l33 mögen verkaufft worden, da Niemandt wügen, wie
+#facs_257_r2l34 sy gemesget, oder ob sij sonst villicht sonst abgangen sijn
+#facs_257_r2l35 mögen etc. wollen wir hiemit allen, vnd jeden den vnsern
+#facs_257_r2l36 wie auch vereren, von was ortten die syndt, by dreyen pf.
+#facs_257_r2l37 pfringen vnabläßiger bus verpotten haben einiche Todte
+#facs_257_r2l38 vijis
+#facs_258_r2l1 Eüch, Es hiendt Kalber, Schaff, Leinen, Christi, vnd andres
+#facs_258_r2l2 derolychen auch einiche kalb, und ander fleisch alhar
+#facs_258_r2l3 In Unsere Statt In die Schall, an die Antten Waag,
+#facs_258_r2l4 noch andere orlte, zbringen noch bij den hüsseren
+#facs_258_r2l5 heimlich oder öffendtlich zekauffen, vnd dabey Vnseren
+#facs_258_r2l6 Meisteren alhie zu lagen, die Überträtter disers
+#facs_258_r2l7 unters verholts, so offt zu deren finden werdendt
+#facs_258_r2l8 zopfenden etc. Und damit sich nun niemandt der
+#facs_258_r2l9 Vnwigenheit disers vnsers ansächens endtschuldigen
+#facs_258_r2l10 könn, und darob gehaltten werde, wirst du solliches
+#facs_258_r2l11 von den Canzlen Diner Verwalttung öffendtlichen
+#facs_258_r2l12 verkünden lagen, datum den Augusti 1618.

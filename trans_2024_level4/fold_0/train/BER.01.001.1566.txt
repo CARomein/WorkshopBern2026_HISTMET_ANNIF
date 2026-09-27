@@ -1,0 +1,69 @@
+Law ID: BER.01.001.1566
+Name: Warnung vor Aufftreibung inficierten Veichs.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 58/58
+# High similarity (>=50%): 56
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_296_r2l7 Wiblisburg.
+#facs_296_r2l8 Rinstags den 1en May
+#facs_296_r2l9 Lausanna
+#facs_296_r2l10 Pätterlingen
+#facs_296_r2l11 Montagt den 7. May
+#facs_296_r2l12 Mit Wuchens den 2. May
+#facs_296_r2l13 morser, Newis
+#facs_296_r2l14 Milden
+#facs_296_r2l15 instags den 8. May
+#facs_296_r2l16 Dienstags den 3. Maii
+#facs_296_r2l17 Bomont
+#facs_296_r2l18 Oron
+#facs_296_r2l19 Mitwuchens den 9. May
+#facs_296_r2l20 Freitags den 4. Maii
+#facs_296_r2l21 Romamestier.
+#facs_296_r2l22 a
+#facs_296_r2l23 Vivis Neuwenstatt
+#facs_296_r2l24 Donstags den 10. Maii
+#facs_296_r2l25 Sambstag den 5. May
+#facs_296_r2l26 Ifferden
+#facs_296_r2l27 Freitags den 11. May
+#facs_296_r2l28 Trachselwald, Branditz, Signauw
+#facs_296_r2l29 Item die Freiweibel und Aman.
+#facs_296_r2l30 Warnung vor aufftreibung inficierten Reichs,
+#facs_296_r2l31 Schuldtheiß Vnd Raht der Statt Vern
+#facs_296_r2l32 Die Weilen der ein zeit daher, Vnd sonderlich forndrigen Jahrs, gespürti¬
+#facs_296_r2l33 leidige gepresten Vnder dem Reich, anderst mit gestillet vnd vffgehört
+#facs_296_r2l34 Dann daß hin vnd Her noch etwas abgangs vnd wider ansatzes gesoue
+#facs_296_r2l35 Vnd geklagt wirt, daher dann by der beuorstehenden Obergfahrt
+#facs_296_r3l1 73
+#facs_296_r3l2 Vnd Vfftreibung deß Reichs, ein sorgfeltige Vndt geflißne Vnderscheid
+#facs_296_r3l3 haltung hochnotwendig sein will, daß nit das angesteckte, oder von
+#facs_296_r3l4 Vngefunden orten darkommende Veich, zu dem gesunden gelaßen, Vndt
+#facs_296_r3l5 Durch solche Vndermischung vnd gemeinsame, ein mehrer schaden Ver-
+#facs_296_r3l6 Vrsachet werde, Alß Habend wir, Vff mit Vnzeitige hierumb¬
+#facs_296_r3l7 an Vns gelangte erinnerung, durch dise offentliche Verkündung
+#facs_296_r3l8 mencklichen Verwahrnen wollen, Vnd hiemit gantz ernstmeinend an¬
+#facs_296_r3l9 gesechen, daß niemand einich vngesundes, oder an orten, da der
+#facs_296_r3l10 Reich-presten angesetzt vnd gespürt worden, gehaltenes Vieh, Vff
+#facs_296_r3l11 die bergen Vnd Sommer-weiden, by hochen Vnser straff vnd Vnguad
+#facs_296_r3l12 auch bezal vndt ersatzung alles verursacheten Vndt ervolgeten Schadens
+#facs_296_r3l13 getreiben vnd vffgefuhren Vnderstahn, Auch solche Durchführung
+#facs_296_r3l14 nemanden Verstattet, sundern dieselbe verhinderet vndt Zeuk ge¬
+#facs_296_r3l15 halten: Hiemit solches Vnpaßierliche Vnich, gefahr vndt schaden zuuor-
+#facs_296_r3l16 meiden, anheimsch vndt absunderlich behalten werden solle, Es were
+#facs_296_r3l17 Dann, daß nach Völliger Vffführung deß gesunden Reichs, das vnge¬
+#facs_296_r3l18 sunde, ohne gefahr, etwan auch an besundere Ort zusamen vff
+#facs_296_r3l19 getriben werden könte. Die Jenigen aber, So diß geprestens
+#facs_296_r3l20 biß har ledig vnd vnberurt gebliben Vndt Ihr gesundes, vnargwöniges
+#facs_296_r3l21 Reich auffzuführen begehrend, sollend deßen vor Ihren fürgesetzten
+#facs_296_r3l22 gen Predicanten Vndt geschwornen vndtr ambtleüten, by eiden vffgenomen,
+#facs_296_r3l23 Zeugsame In schrifft vff zulegen haben, Vndt ohne ein solchen beglaubti¬
+#facs_296_r3l24 Schein mit Durchgelaßen worden, Auch in solcher Vfftreibung ihres gesenden
+#facs_296_r3l25 Reichs, die ort, so daß prestens halb argwonisch abmeiden, vnd sich eines
+#facs_296_r3l26 anderen wegs gebrauchen, Anderst Zöllend sy hernach vbriger orten
+#facs_296_r3l27 sich nit durchgelaßen werden. Darzu dann man Jedes orts gebürende
+#facs_296_r3l28 vffsicht zebestellen, Vndt also die einten Vnd anderen disem sich gemeß
+#facs_296_r3l29 Reuerhalten wüßen werdend. Datum 6. Aprilis 1615

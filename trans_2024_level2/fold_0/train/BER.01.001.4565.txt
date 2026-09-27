@@ -1,0 +1,137 @@
+Law nr: BER.01.001.4565
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 125/125
+# High similarity (>=80%): 118
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_4_r8l17 C
+#facs_150_r3l8 alle Weltsche Herren Amtleute, wo Obrig bei¬
+#facs_150_r3l9 lich Betreid ligt.
+#facs_150_r3l10 Betreid Verkauff.
+#facs_150_r3l11 Schultheiß Rähl und Burger
+#facs_93_r6l6 Über den von Unseren fürgeliebten
+#facs_150_r3l13 möchten denen Herren Weltsch Sebelmeister und
+#facs_33_r5l9 kenneren, und Ansterer verordneten Korn¬
+#facs_150_r3l15 Ausgemachten Vortrag. betreffend das auch
+#facs_150_r3l16 Martini 1784. eingegangene Obrigkeit
+#facs_150_r3l17 liche Betreid, haben Wir gut befunden und
+#facs_150_r3l18 Erbennt: Es solle von dem Dissorts über den
+#facs_150_r3l19 bestimmten Vorrath und nach Abzug der
+#facs_150_r3l20 Ordinari und Quasi Ordinari Ausgaben
+#facs_150_r3l21 vorschießenden Obrigkeitlichen Betreid,
+#facs_150_r3l22 wolwohl von den Winter als Sumerfrüh¬
+#facs_150_r3l23 ten, von nun an der halbige Theil ver¬
+#facs_150_r3l24 kauft
+#facs_3_region_1627936339514_16l1 1
+#facs_150_r5l1 292
+#facs_150_r5l2 hauft werden. Es ist aber dabey Unser
+#facs_253_r2l5 Wille und Befehl, daß zu Erspärung
+#facs_150_r5l4 zu verbauffenden Früchten, die Verzei¬
+#facs_150_r5l5 gung der Schuitenen von seiten Unser
+#facs_150_r5l6 fürgeliebten Mitrahten der Herren
+#facs_170_r4l12 welksch. Sekelmeister und Venneren
+#facs_150_r5l8 erwartet und befolget, dabey dann
+#facs_150_r5l9 die gewöhnlichen Pracantionen genoh¬
+#facs_150_r5l10 men werden, daß das zu verkauffende
+#facs_150_r5l11 Getreid nicht den Händleren en bloc
+#facs_150_r5l13 sondern nur zu kleinen Käußen.
+#facs_150_r5l14 außenden Preis verkauft, und von
+#facs_150_r5l15 denen angelwiesenen Schurtenen vor
+#facs_150_r5l16 allem aus das mindest behältliche abge¬
+#facs_150_r5l17 Toßen, insbesondere aber von der
+#facs_150_r5l18 Sommerfrüchten vorzüglich zu Anblümen,
+#facs_150_r5l19 der Felderen hingegeben werden solle.
+#facs_150_r5l20 In betref der anderen helffte Ver¬
+#facs_150_r5l21 Sommertrüchten, als Gersten. Paschi und
+#facs_93_r6l24 gaben, t honschierende
+#facs_150_r5l23 rauhen Witterung dieser Jahrszeit hier¬
+#facs_150_r5l24 durch begwältigen, Eueren bedürftigen
+#facs_150_r5l25 Amt angehörigen unter Sürgschafft
+#facs_150_r5l26 ihrer Bemennen, zu Anblünung ihrer
+#facs_99_r2l3 Garnen uns anderen Instrumenten zu fischen.
+#facs_150_r5l28 las benöhtigte Saamborn dieser ver¬
+#facs_151_r1l1 293
+#facs_100_r2l1 soll.
+#facs_6_region_1627936574015_66l1 6
+#facs_151_r3l1 schiedenen Getreid Arben vor streben zu
+#facs_118_r1l31 lesen
+#facs_105_r2l25 Welchem nach Ihr Euch zu verhalten
+#facs_28_r3l1 und über das erlösende uns gebührende
+#facs_151_r3l5 Rechnung zu tragen wißen werdet.
+#facs_151_r3l6 Datum den 8ten Aprilis 1785.
+#facs_83_r3l6 en
+#facs_21_region_1633454506260_2871l1 Un
+#facs_151_r3l8 Milden. Oron und Lausanne Prof.
+#facs_151_r3l9 Obrigkeitliche Steuer
+#facs_151_r3l10 in dortigen Ämteren Wegen der Strenge
+#facs_151_r3l11 les Winters
+#facs_22_region_1633454545044_2889l1 Schultheiß und Rath etc. die Stadt
+#facs_151_r3l13 Auf die von Euch an Uns gelangte Be¬
+#facs_151_r3l14 richten von der Noth und Mangel, in
+#facs_151_r3l15 welchen die heürigestrenge Widerung
+#facs_151_r3l16 und der so häufig gefallenen Schwer Euere
+#facs_151_r3l17 Amts Angehörige gesezt hat, genehmi¬
+#facs_151_r3l18 gen Wir vor allem aus Eueren hierin
+#facs_151_r3l19 bezeigten Eifer und bereits gemachte
+#facs_151_r3l20 Anstalten; da aber diese Schauptsäch
+#facs_151_r3l21 ich wegen gänzlicher Sprerung der
+#facs_151_r3l22 Straßen und Zugangen zu einzelnen.
+#facs_151_r3l23 Häuseren verursachet worden ist;
+#facs_3_region_1627936339514_16l1 1
+#facs_151_r4l1 294
+#facs_151_r4l2 so tragen Wir Euch hiemit auf, die erfor¬
+#facs_151_r4l3 ferlichen Anstalten vorzubehren, das
+#facs_151_r4l4 diese Wege durch die Gemeinden ohne
+#facs_151_r4l5 Verzug geoffnet, damit die Zufuhr der
+#facs_151_r4l6 Rebensmittlen nicht mehr gehemmt werde;
+#facs_151_r4l7 Um auch Unseren Angehörigen in
+#facs_151_r4l8 diesem Umstand LandesRätter¬
+#facs_151_r4l9 lich bey zu steingen; wollen Wie Euch
+#facs_151_r4l10 hiermit beywaltiget haben, denen
+#facs_151_r4l11 bedürftigen Euers Amts, deren Ar¬
+#facs_151_r4l12 nurth und Unvermögen durch die
+#facs_151_r4l13 Pfarrer und vorgesezte behörig be¬
+#facs_151_r4l14 scheiniget seyn wird, zu Steürung
+#facs_151_r4l15 fer tringendsten Rath und Haus hal¬
+#facs_151_r4l16 tung ein Mas Mischelborn und ein
+#facs_151_r4l17 Mäs Paschj, und höchstens zwanzig
+#facs_151_r4l18 Sahrn in Beld ohnentgeltlich als
+#facs_151_r4l19 ein Allmosen auszurichten; Enern
+#facs_151_r4l20 übrigen Amtsangehörigen aber
+#facs_151_r4l21 deren Armuth nicht so gros, die aber
+#facs_151_r4l22 dennoch das zu ihrem Underhalt noh¬
+#facs_151_r4l23 tige Betreu dermahlen anzubau
+#facs_151_r4l24 fen nicht vermögend sind, werdet
+#facs_151_r4l25 Ihr so wie in Zukaufft auch den
+#facs_151_r4l26 ersteren das Ihnen zu Ihrer Nahrung
+#facs_124_r5l6 ergeben, daß die Bestehere der
+#facs_152_r1l1 295
+#facs_152_r2l1 ihrer Gemeinden vorstreken, mit dem
+#facs_152_r2l2 vorbehalt, das solches nach Martinj ge¬
+#facs_152_r2l3 flißentlich wieder restituiert werde.
+#facs_153_r2l12 Übrigens werdet Ihr innert
+#facs_152_r2l5 gen Euren ämtlichen Gericht von dem Er¬
+#facs_152_r2l6 Folg dieser Unserer Verfügungen
+#facs_152_r2l7 nebst der specificierten Verzeichnis
+#facs_152_r2l8 von denen nach obiger Vorschrifft aus
+#facs_152_r2l9 getheilten Allmosen Uns einfenden
+#facs_152_r2l10 da auch zu besorgen, es möchte
+#facs_152_r2l11 Diese außerordentliche Witterung Krank¬
+#facs_152_r2l12 heiten nach sich ziehen; so werdet Ihr
+#facs_152_r2l13 fals deren sich äußern solten, Un¬
+#facs_153_r2l22 Aerem verordneten Sanitet Rath davon
+#facs_152_r2l15 von schleunige Nachricht einfenden.
+#facs_53_r8l12 Oron
+#facs_152_r2l17 Vorbey Euch zum Bericht dienet, daß Wir
+#facs_152_r2l18 in betref des an Uns einberichte
+#facs_152_r2l19 ten Salzmangels allbreits die ge¬
+#facs_152_r2l20 meßene Befehle an Unsere verord¬
+#facs_152_r2l21 nete Salzkammer abgegeben haben.
+#facs_152_r2l22 Datum den 12ten Aprilis 1785.
+#facs_28_r4l1 Coll

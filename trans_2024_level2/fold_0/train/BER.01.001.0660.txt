@@ -1,0 +1,57 @@
+Law ID: BER.01.001.0660
+Name: Der Posten Bestellung halb.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 46/46
+# High similarity (>=50%): 45
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_322_r2l1 An Sie Weltschen Ampthuth, Ussgenoeu
+#facs_322_r2l2 Bomont und Nuirenstadt
+#facs_322_r2l3 Drec Postenm
+#facs_322_r2l4 Verstellung halber
+#facs_322_r2l5 Schuldtheis etc. diewyl sich gegenwärtige leuff Je leng¬
+#facs_322_r2l6 ge schwieriger, ja also erzeigend, das wir auch darmit Je¬
+#facs_322_r2l7 schaffen vberkommen möchtend, vnd nebend gemeiner wacht
+#facs_322_r2l8 samkeit und forghaltung vnserer Hüseren und achtsam¬
+#facs_322_r2l9 was In der Nachbarschafft fürgan und sich erongen mochte,
+#facs_322_r2l10 auch nodtwendig seyn will, das die posten mit redlichen Um
+#facs_322_r2l11 grüßen Männeren, wol bestellt, vnd dardurch auch midt ver¬
+#facs_322_r2l12 fumpt werde, Ist vnser gefumen an dich, wie gegen anders
+#facs_322_r2l13 Unseren Amptslichen auch geschieht, das du dieselben dines
+#facs_322_r2l14 theils auch also bestellen und haben sollest, das man dem
+#facs_322_r2l15 versicheret und vergirüßt, Insonderheit aber dich mit Vn¬
+#facs_322_r2l16 serem Schaffner zu Feuerlingen des Eglyehest, wie du
+#facs_322_r2l17 post vngehinderet, und wo die sorg das zu vff Fryburgischen.
+#facs_322_r2l18 boden vffgehalten möchte werden, vff vnseren grund, sein
+#facs_322_r2l19 müglich zien strich vnd weg nennen könne etc. Als wir vns
+#facs_322_r2l20 deß zu vch allen verfechen, Datum 29 Juny 1620
+#facs_322_r2l21 Appendix, zuerdten, Neuwi, Romamostier
+#facs_322_r2l22 Payses halb & Spannsll. Volcks
+#facs_322_r2l23 Und Widtenmalen vns die advisen zukommen, das sich
+#facs_322_r2l24 gegen Pündten ein starck Volck samlen solle, Also das
+#facs_322_r2l25 dieselben zu gfhar vnd sorg eines Eyendtlichen girelts
+#facs_322_r2l26 standt, dabey aber nit Zwyfflen dann wo mann die
+#facs_322_r2l27 angryffen solte, es ohne Zwyfel ein allgemeine pra¬
+#facs_322_r2l28 tick syn, Und vns auch wenig ansechen werde, vnd hiemit
+#facs_322_r2l29 In sorgen standen das das hispanische Volck so den
+#facs_322_r2l30 past durch Canoy erworben, vnd albrei im anzug
+#facs_322_r2l31 auch nit ieyt von Vnseren geringen Liggen soll, Harzu
+#facs_322_r2l32 brucht werden möchte, beswegen vonnöthen syn
+#facs_322_r2l33 1.50
+#facs_322_r2l34 will vff daßelbig ein offen oug zu halten etc.
+#facs_322_r2l35 beuelehren wie die vorörist vff unser schloß und Huß
+#facs_322_r3l1 640
+#facs_322_r3l2 ein getrüwes vffsechen zu haben, und durch gute späch zu er¬
+#facs_322_r3l3 khendtschafft wieuil volcks sie, wo es sich enthalte, ob es
+#facs_322_r3l4 nie vortrucken thuge oder jölle, Sonders sich versamlen werde,
+#facs_322_r3l5 Und ob aundere, und wienil nachen volgindt, vnd wie u sich
+#facs_322_r3l6 Dorchaltindt, und was dauon gehalten werde, Und dann deßelb
+#facs_322_r3l7 so es berichts würdig, sonderlich wann es nit vorzuchen solte,
+#facs_322_r3l8 vns by tag und nacht zuuerstendigen, Und dich sonst demnach
+#facs_322_r3l9 auch nach gebür Zeuerhalten, und an guter Vffacht an dem
+#facs_322_r3l10 einen vnd anderen Urth, nurzit zu underlaßen.
+#facs_322_r3l11 Actum ut T.

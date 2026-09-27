@@ -1,0 +1,55 @@
+Law ID: BER.01.001.3497
+Name: Placcard.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 44/44
+# High similarity (>=50%): 43
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_243_r5l21 Placcard:
+#facs_243_r5l22 Nachdeme Meghh. wahtgenommen, daß in
+#facs_243_r5l23 Frankreich Neulee Duplonen und Thaler
+#facs_244_r2l1 Von disem lauffenden 1726. Jahr gepräget,
+#facs_244_r2l2 und in hiesige Land Geworffen worden.
+#facs_244_r2l3 Habend Hochged. Jhrgl. sich des eygentlichen
+#facs_244_r2l4 Währts der eint- und anderen Gattung
+#facs_244_r2l5 diser Gelthorten, deren Abtrub hierund
+#facs_244_r2l6 Zu sehen, erkundigen Laßen: Wie mü¬
+#facs_244_r2l7 durch gezogene prob hervorkommen, daß
+#facs_244_r2l8 dese Neülde Duplonen denen mit der
+#facs_244_r2l9 Sonnen gezeichnet in halt gleich: als
+#facs_244_r2l10 habend Sie selbe auf Hundert acht¬
+#facs_244_r2l11 und vierzig batzen, die Neuen Thaler
+#facs_244_r2l12 Aber auf Sechs und dreyßig Ratzen
+#facs_244_r2l13 Gesetzt, und deßen Moniglich hierdurch
+#facs_244_r2l14 benachtichten wollen, damit weder die im
+#facs_244_r2l15 noch thaler Höher als Obstat, in Unser
+#facs_244_r2l16 fanden nicht eingenommen, noch außge¬
+#facs_244_r2l17 werden, auch sich Jederman darnach zu
+#facs_244_r2l18 richten, und vor schaden zu seyn lästig
+#facs_244_r2l19 Actl. den 18. Marty 1726.
+#facs_244_r2l20 (Thaler 36. Batz.)
+#facs_244_r2l21 (Dupl. 148. Batz.)
+#facs_244_r4l1 ckes.
+#facs_244_r4l2 Translation.
+#facs_244_r4l3 obigen placcards
+#facs_244_r4l4 Leurs Excellences, nos souverains seigneurs
+#facs_244_r4l5 ayant observe, qu'on debitoit dans le pays
+#facs_244_r4l6 des Louis dor et Eux, fabriques en france
+#facs_244_r4l7 cette année; Elles ont fait prendre
+#facs_244_r4l8 Connoissance de la valeur des dites Especes
+#facs_244_r4l9 (dont l'Empreinte se trouve icy bas) Et comme
+#facs_244_r4l10 il se trouve par la preuve qui en a eté
+#facs_244_r4l11 faite, que Lesd. Louis dor sont de la
+#facs_244_r4l12 meme valeur que leur marquez au
+#facs_244_r4l13 Soleil, ils ont eté Evalvez sur le pied
+#facs_244_r4l14 de 148. baches, et lesd. Ecus Neufs a 36
+#facs_244_r4l15 vaches: Ce dont un chacun sera
+#facs_244_r4l16 rendu sachant pour sa Conduite, et afin
+#facs_244_r4l17 que Lesd. Louisdor et Ecus ne soient
+#facs_244_r4l18 recus ni debités sur un pied plus haut
+#facs_244_r4l19 dans les terres de leurs Excellences. Doné
+#facs_244_r4l20 ce 18 mars 1726

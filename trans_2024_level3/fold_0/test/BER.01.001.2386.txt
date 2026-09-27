@@ -1,0 +1,158 @@
+Law ID: BER.01.001.2386
+Name: Eine Stewr für die vertribenen Glaubensgnossen auffzenemmen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 147/147
+# High similarity (>=50%): 142
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_423_r2l22 Ce grand Cotechisme et le petit Catechisme
+#facs_423_r2l23 le catechisme de Berne, Palatin, le grand et
+#facs_423_r2l24 le petit Alphabet Talae Rhetorica
+#facs_423_r2l25 Sramatica Greeca Luthardi Clhico
+#facs_423_r2l26 Crammatica Latina Elementale ortelus Puerony
+#facs_423_r2l27 Zuberi Prose
+#facs_423_r2l28 Rudimenta Grieca Mulleri Metaphisica Nouveantes
+#facs_423_r2l29 ment avec
+#facs_423_r2l30 latina.
+#facs_423_r2l31 orderi Colloquia Catonis Disticha. Peaume,
+#facs_423_r2l32 Item auch denen Predicanten und Schulmeister
+#facs_423_r2l33 # Oberkeitlich zu insinuiren und sie ernsthafft
+#facs_423_r2l34 NB. und Widerumb in Obiger form erfrüschet den 24. Martii. 1689.
+#facs_423_r5l1 1791.
+#facs_423_r5l2 An Alle Teusche Ambtleuth 4. Statt
+#facs_423_r5l3 Ereylreibel undt Ammann
+#facs_423_r5l4 Eine Steler für die Vertribenen Glaubens großen
+#facs_423_r5l5 auff genemm
+#facs_423_r5l6 Schuldtheis Stäht vndt Burger der Statt Bern
+#facs_423_r5l7 Sittemahl durch die Immerzu anhaltende Hitz der Verfol¬
+#facs_423_r5l8 Jung noch von Zeit zu Zeit, Ja von Taay zu Taag, daherkommet
+#facs_423_r5l9 der Tralorige schwaal deren die Vmb der gerechten sach gotten
+#facs_423_r5l10 Wille Ihr Vatterland Ihre Güter Vndt alles Waß Ihrer
+#facs_423_r5l11 Lieb verlaßen müßen, welche dan mit merklichem Um Costen
+#facs_423_r5l12 müßen Weiters vortgebracht, oder auch zum Theil in
+#facs_423_r5l13 Landt erhalten werden, so erforderet auch Unser aller pflicht¬
+#facs_423_r5l14 daß wir in den Werken der Barmhertzigkeit mit müdt
+#facs_423_r5l15 Verdind, als die Wirs Gott zu danken haben, daß durch
+#facs_423_r5l16 sein sonderbahre gnad Wir Uns annoch in dem Stand
+#facs_423_r5l17 befinden, daß andere Vns, undt wie nit andere, umb so
+#facs_423_r5l18 Thanes Mitleiden, hülff Undt Handtreichung beruffen müßen.
+#facs_423_r5l19 Vndt diebeile nun die Letzt zum Trost Vndt ergunkung
+#facs_423_r5l20 diser armen Glaubens mitgliederen auffgenommene Collect
+#facs_423_r5l21 zu selbigem heiligem gebrauch, darzu Sie angesehen, angewent
+#facs_423_r5l22 undt auffgebracht worden: als haben Wie für hochnohtwen¬
+#facs_423_r5l23 dig erachtet, daß abermahlen ein Neüwe Collect gleich wie¬
+#facs_423_r5l24 Vnser Haubtstatt beschicht, allso auch aufem Land erhebt
+#facs_423_r5l25 undt auffgenommen werden solle, auff sont aag den Vierten
+#facs_423_r5l26 Lerbstmonat nechstkönfftig; deroleegen ein Jedes Christliches
+#facs_423_r5l27 gemüth hiemit Vätterlich vormahnt ist, Von denen Mittlen dar¬
+#facs_423_r5l28 nit Gott der Herr Einen Jeden gesegnet hat seinen glaubt
+#facs_423_r5l29 Vndt Liebe, durch ein freywillige Beystelde, es seye gleich viel
+#facs_423_r5l30 oder Wenig zuerzeigen, Jeder nach dem Er hat vnd Verma¬
+#facs_423_r5l31 undt Waß Ihm gott heißet, nit zweiflende das daß jett ein
+#facs_423_r5l32 Vergelter alles guten Sie darinn desto reichlicher segne
+#facs_423_r5l33 Werde. Die das ein nach befelcheinlt obiges von Cantzley
+#facs_424_r3l1 Verlesen zulaßen: Den Predikanten zu insinuiren,
+#facs_424_r3l2 daß Sie Ihre Predigten auch Umb etwas
+#facs_424_r3l3 darnach richtend, Undt mit sanfftmühtigen Zusprechen
+#facs_424_r3l4 Ihre zu hörer zu Christmiltreichem Mitleide
+#facs_424_r3l5 auffmunter und, undt allso die Collect zusamble¬
+#facs_424_r3l6 solche Unserem Teutschen Herren Sekelmeister zu
+#facs_424_r3l7 zeschiken, undt zugleich, wie hoch solche sich belaufft
+#facs_424_r3l8 Vnseren Täglichen Raht zu verständigen. Dato 19. Aug:
+#facs_424_r3l9 1687.
+#facs_424_r3l10 edel an die drey Cäntzel
+#facs_424_r3l11 Tob idem
+#facs_424_r3l12 Dieweilen die zum Trost der Vertribene
+#facs_424_r3l13 glaubens großen auffgenommene Letste Collect
+#facs_424_r3l14 zu selbigem heiligem Gebrauch, darzu sie angesehen
+#facs_424_r3l15 angeloent Undt aufgebracht worden, Vndt aber der
+#facs_424_r3l16 Immerzu anhaltende Hitz der Verfolgung verursachet
+#facs_424_r3l17 das noch tääglich der Schwall dieser betrübten Leüten
+#facs_424_r3l18 vorhanden ist, Welche mit großem Umbkosten Theil
+#facs_424_r3l19 einsen Vortgebracht, Vndt Theils Im Landt erhalten
+#facs_424_r3l20 Wirden; als haben der Reghl. Raht Undt Bürger angestel¬
+#facs_424_r3l21 undt geschloßen, daß auff nechst könfftigen Sonntaag
+#facs_424_r3l22 den 28. dis Monats allhier in der Haubtstatt
+#facs_424_r3l23 Abermahls nur sollent zu hülff Trost undt erhinkung
+#facs_424_r3l24 diser unser Mitglideren solle gesamblet vndt auffgenau¬
+#facs_424_r3l25 werden, namblich grad nach Endung der Morgenperüge
+#facs_424_r3l26 in den großen Kirchen auff der Nydek undt zu
+#facs_424_r3l27 Predigern, so wohl nach der Weltschen als nach des
+#facs_424_r5l1 793.
+#facs_424_r5l2 Tentschen Predigt, Nach Mittang aber Wirt kein Steüler mehr
+#facs_424_r5l3 auffgenommen werden: deßen nun wirt hiemit mänigklich benach¬
+#facs_424_r5l4 richtet, damit zu jeder sich verfaßet mache das Jenige allda
+#facs_424_r5l5 darzureichen, waß Er nach Beschaffenheit seiner mitlen, darmit got¬
+#facs_424_r5l6 der Herr einen Jeden gesegnet hat, zu thun Vermag, undt Waß
+#facs_424_r5l7 Gott Einen Jeden heißen mag; nit zweiflend dan daß gott der
+#facs_424_r5l8 allerhöchste soliche Werk der Barmhertzigkeit Vndt mitleidens in
+#facs_424_r5l9 gnaden ansehen, deme Wirr auch einbrünstig zu danken, daß
+#facs_424_r5l10 disen schwären Zeiten, wie biß dahin so gnädigklich sind erhalten,
+#facs_424_r5l11 worden. Actum Vorträhl Vndt Bürger d. 19. Aug. 1687.
+#facs_424_r5l12 Cantzley Bern
+#facs_424_r5l13 Zedel an die Herrn Geistlichen
+#facs_424_r5l14 ob idem
+#facs_424_r5l15 Die weilen von dkorn über acht Taay als den 28. dis
+#facs_424_r5l16 Monats allhier in der Haubtstatt gleich Wie auffem Land
+#facs_424_r5l17 in Stätten Vndt fleken auch geschehen soll, abermahl ein Collect soll
+#facs_424_r5l18 auffgenomen Vndt eingesambtet werden: Als wollend dieghl.
+#facs_424_r5l19 P. undt B. Euch Mehl. hiemit angesonnen haben Ewere actiones
+#facs_424_r5l20 onzumahl auch darnach ein zu richten, undt Elberen besten
+#facs_424_r5l21 fleiß anzubenden daß das geistliches einbrünstiges mitleiden
+#facs_424_r5l22 in denen gemühteren erbrekt, Undt zu milter Beysehr nach
+#facs_424_r5l23 imes Jeden Vermögen angezündet vndt thuchtig gemacht werdt
+#facs_424_r5l24 möge. Actum Vor Rast Vndt Bürger. 19. Aug. 1687.
+#facs_424_r5l25 Cantzley Berren
+#facs_425_r1l1 794
+#facs_425_r1l2 Collat
+#facs_425_r1l3 Collath
+#facs_425_r2l1 In der Welschen Kirchen
+#facs_425_r2l2 zu verlesen.
+#facs_425_r2l3 Ob Idem
+#facs_425_r2l4 Dimanche le 28. de ce mois, Il se te vera une
+#facs_425_r2l5 nouvelle collecte pour la consolation et l'assistera.
+#facs_425_r2l6 es pauvres refugies et exilés pour cause de Religion
+#facs_425_r2l7 Asseavoir apres les preches du matin et ce aussi
+#facs_425_r2l8 tien dans l'Eglise françoise qu'ailleurs: C'est
+#facs_425_r2l9 de quoy ll'Elx mes souverains seigneurs ont vouly
+#facs_425_r2l10 advertir un chaquun par la presente publication.
+#facs_425_r2l11 avec exhortation de tesmoigner la verite et
+#facs_425_r2l12 -
+#facs_425_r2l13 bingerite de sa foy par oeuvres de charité
+#facs_425_r2l14 suivant que les moyens d'un chacquur luy pourront
+#facs_425_r2l15 sournir et permettre, Et que Dieu, qui en sera
+#facs_425_r2l16 riche remunerateur, luy in spirera. Actum
+#facs_425_r2l17 Kancellene Berne
+#facs_425_r2l18 9 Aug. 1687.
+#facs_425_r2l19 Zedel an Woltschen Herr Predikante
+#facs_425_r2l20 16 idem
+#facs_425_r2l21 To brevet cy joint, Mr. le Ministre, voy est
+#facs_425_r2l22 envoyé de la part de ll. Exrs. avec ordre de le
+#facs_425_r2l23 publier demain de la chaire et afin que la
+#facs_425_r2l24 d'électe soit tant plus ample, Elles vous eniognent
+#facs_425_r2l25 a diriger vos actions aussy sur cette matiere.
+#facs_425_r2l26 autant que de besoin. A ceke fin que la
+#facs_425_r2l27 compassion de vos auditeurs soit enflamée
+#facs_425_r2l28 que leur foy se fasse voir par oeuvres reels.
+#facs_425_r2l29 de charité. Actum 19. Aug. 1687.
+#facs_425_r2l30 Chancelerie Berne
+#facs_425_r6l1 1795
+#facs_425_r6l2 zedet an die Herren Venner
+#facs_425_r6l3 ob Id.
+#facs_425_r6l4 von dKorn über acht tang, wie auchfl. bekant, wirt allhier
+#facs_425_r6l5 Neüler Collut gesamblet worden, nämlich nach der Morgen
+#facs_425_r6l6 —
+#facs_425_r6l7 redigt in der großen Kirchen auff der Nydegg und zu
+#facs_425_r6l8 a
+#facs_425_r6l9 Predigeren nach der Teutschen Vndt Weltschen Predigt, wie
+#facs_425_r6l10 letztlich auch geschehen ist, nach Mittag aber, soll kein steler
+#facs_425_r6l11 mehr auffgenommen werden, langet disem nach der Reghl. vndt
+#facs_425_r6l12 oberen gesinnen an Euch dkeshl, Bürger zuvorinnen undt
+#facs_425_r6l13 Abestellen, Welche bey den Thüren die Stelve eingemund vnd
+#facs_425_r6l14 schörigen ohrts Ablegend, Actum Vor Raht Vndt Bürger
+#facs_425_r6l15 19 Aug. 1687
+#facs_425_r6l16 Cantzley Bern

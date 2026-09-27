@@ -1,0 +1,34 @@
+Law ID: BER.01.001.1601
+Name: Der Ankunfft des extraordinari Ambassadoren aus Franckreich, berichten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 23/23
+# High similarity (>=50%): 22
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_319_r3l17 ewis Mordee, Lausanna Milden
+#facs_319_r3l18 Pätterlingen, Wiblisfürg. Der Ankunfft des Extraordinarii
+#facs_319_r3l19 Ambassadoren. Aus Franschweih, berichten
+#facs_319_r3l20 Schs. und Rhat etc
+#facs_319_r3l21 Wir werdendt berichtet, ob solte ein Frantzö Fischer Extraordinat.
+#facs_319_r3l22 Ambassador mit namen der Hertzog de La Roche faucon
+#facs_319_r3l23 hest zu Genff anlangen, und von dannen sich weiteres
+#facs_319_r3l24 n:
+#facs_319_r3l25 durch unser Land begeben: Warüber wir vnserem fürgelieben
+#facs_319_r3l26 Mit Rhat H. Venner vnd Ober Comandant Wagner zugeschrieben,
+#facs_319_r6l1 619
+#facs_319_r6l2 Das wir deßen gebührende reception vnd Complimentieren nach
+#facs_319_r6l3 des Standts Ihr Vnreptation gern sachen Thaten, wie etwas huner
+#facs_319_r6l4 gegen anderes in der gleichen fhälen beschechen, Jedoch ohne Kostfreyhaltung
+#facs_319_r6l5 als darauff so hohe persohnen nit vil sechend: If demnach vnser
+#facs_319_r6l6 gesinnen hiemit an Dich wohlgesagken H. Ambassadoren bey Seinem
+#facs_319_r6l7 re Ankunfft, da ein Jeder Amtsman den anderen berichten soll, vff
+#facs_319_r6l8 Den Grentzen deiner Verwaltung mit müglichster anstendigkeit
+#facs_319_r6l9 zu empfachen, vnd mit etwas zechen oder so vil pferdten, widerum
+#facs_319_r6l10 auff die grentzen deines Waltung, mit Zebegleiten, zugleich auch
+#facs_319_r6l11 Was unvzogenlich zuberichten, wo er seinen weg weiters hindurch
+#facs_319_r6l12 nemen werde, vns demnach besser vns ind zu verhalten.
+#facs_319_r6l13 Goll mit vns Octem 27 Feb. 1656.

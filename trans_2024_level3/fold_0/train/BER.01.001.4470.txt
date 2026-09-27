@@ -1,0 +1,86 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 78/79
+# High similarity (>=80%): 74
+# Low similarity (<80%): 4
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4470
+#facs_91_r5l13 Getreis zu verkaufen anbefohlen,
+#facs_3_region_1629374270345_387l1 2.
+#facs_91_r5l11 Alle Welsche Herren Amtleut, wo Obrigkeitlich
+#facs_91_r5l12 Getreidligte
+#facs_164_r2l12 Getreid zu verkauffen Ihnen anbefohlen,
+#facs_270_r3l16 gege
+#facs_70_r4l17 Schultheiß Räht und Burger
+#facs_91_r5l16 Und ist von Unseren Fürgeliebten Miträhten
+#facs_91_r5l17 den Herren Welsch Sebelmeister und Venmaren
+#facs_91_r5l18 und Unserer verordneten Korn-Cammer, der
+#facs_91_r5l19 Vortrag geschehen, über das auf martini 1778.
+#facs_91_r5l20 eingegangene Obrigkeitliche Getreis, darüber
+#facs_91_r5l21 Wie noch nicht durch Unser BefehlSchreiben
+#facs_91_r5l22 vom 22ten Febr. diß Jahrs bereits disponiert
+#facs_91_r5l23 haben; woraufhin Wie Erkent: es solle
+#facs_91_r5l24 nach Abzug der ordinaria und Quasi Ordinariaus
+#facs_91_r5l25 gaben, alles äußert dem Hochobrigkeitlich
+#facs_92_r1l1 178.
+#facs_92_r2l1 bestimten Vorraht, jeden Orts vorschießende
+#facs_92_r2l2 Obrigkeitliche Getreid, unter den gewohnten
+#facs_92_r2l3 vorsorglichen gedingen zu kleinen Kaufen
+#facs_92_r2l4 und in dem lauffenden Preis Verkaufft werden,
+#facs_92_r2l5 Und zwar ist noch dabey in fernerem Unser
+#facs_92_r2l6 Will und Befehl, daß
+#facs_92_r2l7 1° Das noch zu verkaufen stehende Mischel
+#facs_92_r2l8 Korn in folgender Zeit verkaufft werde, als die
+#facs_92_r2l9 einte Helfte von dem Empfang dis Schreibens
+#facs_92_r2l10 an, bis zu ein Brachewnats, die andere
+#facs_92_r2l11 Helfte aber im lauf Heimonats
+#facs_92_r2l12 2 der Waizen dann
+#facs_87_r2l12 in dreyen Zeitpunkten, als
+#facs_92_r2l14 der erste Drittel von Empfang dieses¬
+#facs_87_r2l14 Schreibens an, bis Endes Brachmonats,
+#facs_87_r2l15 der zweite Drittel, während und imlauf
+#facs_92_r2l17 deß Heimonats, und
+#facs_92_r2l18 der dritte und lezte Drittel, während und
+#facs_92_r2l19 im lauf des Augstmonats. Und
+#facs_89_r4l11 /: an die Ämter wo keine Wochen Markt
+#facs_76_r4l1 NB. die unterstrichen
+#facs_92_r2l22 sind, und nicht den Befehl erhalten werden,
+#facs_92_r2l23 3 Linnen gerten
+#facs_92_r2l24 das zu verkauffen habende Getreis zu
+#facs_92_r2l25 nichts
+#facs_92_r2l26 Speisung des hiesigen Korn Markts zu liefern :/
+#facs_92_r3l1 179
+#facs_92_r3l2 3o In ansehen dieser zu verkaufenden Obrig¬
+#facs_92_r3l3 beitlichen Früchten, mit denen Händleren vorlauf¬
+#facs_92_r3l4 fig, und eher sie das Gewächs wirklich abholen,
+#facs_92_r3l6 kein Kauf geschloßen, noch ihnen solches zu
+#facs_92_r3l7 bestellen erlaubt werde, sondern ihnen jedes
+#facs_92_r3l8 mahl zu kleinen Kaufen nur so vieles ver¬
+#facs_92_r3l9 hauft werden solle, als sie alsobald mit sich
+#facs_62_r2l13 gesehen werden.
+#facs_92_r3l11 /: an die Herren Amtleute zu Petterlingen
+#facs_92_r3l12 Milden, Lausanne, Morsen, Iferten, Wiblich für g
+#facs_185_r6l2 und
+#facs_92_r3l14 3° Ihr das obiger maßen zu verkaufen habende
+#facs_92_r3l15 im Laufen¬
+#facs_92_r3l16 Getreid, auf dem Markt zu
+#facs_92_r3l17 den Preis en détail verkaufen, und dabey¬
+#facs_92_r3l18 Euch angelegen seyn laßet, das zu versilberen
+#facs_92_r3l19 habende Getreid den Marktstagen nach so
+#facs_92_r3l20 anzutheilen, daß nach obiger Anweisung jede
+#facs_92_r3l21 Gartung Frucht in der zu derselben Abstoßung
+#facs_92_r3l22 angewiesenen Zeit, und nicht ehender zu Martt
+#facs_92_r3l23 gestellt, und verbaufft werde
+#facs_222_r3l19 Welchemnach Ihr Euch zu verhalten wißen¬
+#facs_89_r6l23 und über das erlösende uns gebührende
+#facs_92_r3l26 Rechnung tragen. übrigens dann wegen denen
+#facs_279_r3l15 diesem Verkauf abzustoßenden Betreu¬
+#facs_3_region_1629374275635_390l1 3.
+#facs_3_region_1629374270345_387l1 2.
+#facs_93_r1l1 180.
+#facs_93_r1l2 Schüttenen, die Anleitung Unserer Fürge¬
+#facs_93_r1l3 liebten Miträhten der Herren Welsch Sebel
+#facs_93_r1l4 meister und Venneren erwarten und befolgen
+#facs_93_r1l5 berdet. Dat. d. 21t May 1779.
+#facs_178_r8l1 en

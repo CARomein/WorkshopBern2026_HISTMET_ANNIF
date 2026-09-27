@@ -1,0 +1,25 @@
+Law ID: BER.01.001.1885
+Name: Dass auch der Wein so von Solothurn kombt, für frömbden zerechnen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 14/14
+# High similarity (>=50%): 11
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_269_r3l14 Fraubrunnen, Landtshütt, Wangen
+#facs_269_r3l15 Burgdorff, Urwangen undt Sipp
+#facs_269_r3l16 Daß auch der Wein so von Solothurn komst
+#facs_269_r3l17 für frömbden Zwechnen.
+#facs_269_r3l18 Guldtheiß und Raht der Stadt Gern etc.
+#facs_269_r3l19 in weilen Unser außgangenes Verpacht des frömbdes
+#facs_269_r3l20 2
+#facs_269_r3l21 Weins so wie erst vnderem 16 oct: letzthin erfrischet
+#facs_269_r3l22 seinen Zweck nit wurde erreichen mögen, Wan dem Wein
+#facs_269_r3l23 kauffen zu Solothurn dahin der einten und anderen
+#facs_270_r1l1 utrisser.
+#facs_270_r1l2 Coll.
+#facs_270_r2l1 Arburg, undt übrige Vnder Ergön wische vndt
+#facs_270_r2l2 Emmentalische Ambtleüth, auch 4 Stett.

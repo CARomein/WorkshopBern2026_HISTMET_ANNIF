@@ -1,0 +1,91 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 83/84
+# High similarity (>=80%): 80
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4500
+#facs_225_r3l21 Die Execution der vorhandenen Ordnungen
+#facs_73_r8l5 In
+#facs_214_r5l17 alle deutsch und Geltschen Herren Amtleut,
+#facs_227_r2l3 4. Städt, Freyweibel und Amann, Sept.
+#facs_225_r3l21 Die Execution der vorhandenen Ordnungen
+#facs_225_r3l22 gegen dem Strolesen- und Bättel Gesind,
+#facs_225_r3l23 auf das genauste anbefehlen
+#facs_289_r4l10 Schultheis Rath und Bürger etc.
+#facs_225_r3l25 des Gutachtens, welches uns unsere Verordnete
+#facs_227_r1l1 544.
+#facs_225_r4l2 Policey und Marechausse Cammer über die
+#facs_225_r4l3 Mittel und Maasreglen vorgetragen,
+#facs_225_r4l4 die zu ergreiffen seyn wollen, um der
+#facs_225_r4l5 für Stadt und Land so drukenden
+#facs_225_r4l7 Plage der fremden Strolchen und Bäckteren¬
+#facs_225_r4l8 abzuhelfen; haben Wir befunden
+#facs_225_r4l9 daß die Dissorts angebrachten Klägden
+#facs_225_r4l10 nicht vom Mangel guter und dienlicher
+#facs_226_r3l5 Ordnungen und Reglementen, wie
+#facs_225_r4l12 sondern, daß diese einiger Orten
+#facs_225_r4l14 Unseren Landen uns besonders auf den
+#facs_225_r4l15 Brenzen auf eine unverantwortliche
+#facs_225_r4l16 Weise aus der Acht gelaßen werden,
+#facs_225_r4l17 zumal dergleichen Gesindel nicht, nach Inhalt
+#facs_225_r4l18 ermelter Verordnungen, allsobald bey
+#facs_225_r4l19 dem Eintritt ins Land, zurük gewiesen-
+#facs_225_r4l20 dasjenige so ohne Passeport im Land¬
+#facs_225_r4l21 herum ergriffen wird, selten gebührem
+#facs_225_r4l22 abgestraft wird. Worbey so gar auch
+#facs_225_r4l23 verlauten wollen, daß die Marechaussée
+#facs_225_r4l24 hin und wieder im Land, öfters durch
+#facs_225_r4l25 anderwärtigen Gebrauch von ihrem
+#facs_225_r4l26 ordentlichen Dienst abgehalten werde.
+#facs_225_r4l27 Bleich wie Wir nun bey so bewandten
+#facs_225_r4l28 Umständen (under vorläufiger
+#facs_27_r5l1 51.
+#facs_226_r2l1 Bezeugung Unsers hoch Obrigkeitlichen
+#facs_226_r2l2 Mißfallens über die inexecution erwehn¬
+#facs_226_r2l3 Unsterer Verordnungen, gegen alle die¬
+#facs_226_r2l4 jenigen, so sich hierunter im Fehler¬
+#facs_226_r2l5 erfinden mögen :/ gut gefunden und
+#facs_226_r2l6 erkent: in ansehen der Abhaltung und
+#facs_226_r2l7 Bestraffung des fremden Strolchen
+#facs_226_r2l8 und Rättel-Gesinds, es bey den
+#facs_226_r2l9 würklich vorhandenen dahin einschlagene
+#facs_226_r2l10 Ordnungen und Reglementen, bewenden
+#facs_226_r2l11 zu laßen, uns in dieser Absicht Unserer
+#facs_226_r2l12 Verordneten Marechaussee und Policey
+#facs_226_r2l13 Cammer aufgetragen und überlaßen habe.
+#facs_226_r2l14 solchen das Leben zu geben, mit dem
+#facs_226_r2l15 beygelegten Bewalt, zu dem Ende all¬
+#facs_226_r2l16 diejenigen Maasreglen zu ergreiffen,
+#facs_226_r2l17 und von ihrer Cammer aus befelchlich an¬
+#facs_226_r2l18 zuordnen, welche selbige so wohl in etwelcher
+#facs_226_r2l19 Abänderung der in ermelten Verord¬
+#facs_226_r2l20 nungen ligende Straffen, als sonsten
+#facs_226_r2l21 nach ihrer Klugheit, für gut, nothwendig
+#facs_226_r2l22 und dienlich erachtet werden; Allso
+#facs_226_r2l23 befehlen Wir Euch, /: gleich allen übrigen
+#facs_302_r2l18 Unseren Amtleuten die es berühren
+#facs_58_r5l1 111
+#facs_226_r3l2 auch Euers Orts, durch die genauste
+#facs_226_r3l3 Handhabung und Vollstrekung aller auf
+#facs_226_r3l4 Diesen Gegenstand sich beziehenden
+#facs_226_r3l5 Ordnungen und Reglementen, wie
+#facs_226_r3l6 nicht weniger auch der deshalb von
+#facs_226_r3l7 ermelt Unserer verordneten Marechaussee
+#facs_226_r3l8 und Policey Cammer Eüch zukommenden
+#facs_226_r3l9 schriftlichen Aufträgen, derselben
+#facs_226_r3l10 bestens an die Hand zu gehen, um
+#facs_226_r3l11 in exemplarischer Bestraffung der
+#facs_226_r3l12 Fehlbaren, zu dem End, so viel an Euch
+#facs_226_r3l13 ligt, beholfen zu seyn; Maßen
+#facs_226_r3l14 geschehen werde, Wir Uns zu Euch
+#facs_226_r3l15 versehen, so wie auch das gegenwärtige
+#facs_226_r3l16 Schreiben, zu Euer und Eüerer
+#facs_226_r3l17 Amts Nachfahren stäten Erinnerung
+#facs_226_r3l18 uns verhalt, nachrichtlich in das
+#facs_226_r3l19 Schloß Mandaten auch einschreiben
+#facs_71_r3l1 Datum
+#facs_226_r3l21 laßen werdet.
+#facs_226_r3l22 May 1781.
+#facs_178_r8l1 en

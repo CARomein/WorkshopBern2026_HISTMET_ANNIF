@@ -1,0 +1,53 @@
+Law ID: BER.01.001.4711
+Name: Jeder Haushaltung, in denen oberkeitlichen Zehndbezirken, wird vergünstiget [...] ein Viertel Juchart Landes mit Erdapfeln zehndfrey anpflanzen zu können.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 42/42
+# High similarity (>=50%): 29
+# Low similarity (<50%): 13
+# Not found: 0
+#
+#facs_117_r3l27 0
+#facs_118_r1l1 228
+#facs_118_r1l2 Coll
+#facs_118_r2l1 Jeder Haushaltung, in denen Oberbeitlichen
+#facs_118_r2l2 zeind bezirken, wird vergunstiget, anstatt
+#facs_118_r2l3 wie bisher Ortel, in Zukunft 1/4 tel Juchart
+#facs_118_r2l4 Landes mit Erdapfeln Zehndfrey anpflanzen
+#facs_118_r2l5 zu können.
+#facs_118_r2l6 Ain
+#facs_118_r2l7 alle deutsch und Welsche Herren Amtleut,
+#facs_118_r2l8 4 Städte, Freyweibel und Ammann, Zofinge
+#facs_118_r2l9 Oeconomo, Gottstadt; denne per jedel an
+#facs_118_r2l10 hiesige Känzel; an Mahhl. Deutsch Sekelm
+#facs_118_r2l11 Vennere, Mehlvh. der Kornkammer,
+#facs_118_r2l12 Mehlh. des Spithal und Insel Directorii,
+#facs_118_r2l13 Mehwhl. des Bauamts, H. Kornherr, Hl. Mus¬
+#facs_118_r2l14 hafen Schaffner; die H. Schaffnere des Inter¬
+#facs_118_r2l15 laken, Frienisberg und St. Johannesen Hauses
+#facs_118_r2l16 ettis wyl und Siechenvogt
+#facs_118_r2l17 Schultheis Räth und Burger u
+#facs_118_r2l18 Auf den Uns von Unserer Verordneten
+#facs_118_r2l19 Stands Commission erstatteten Vortrag,
+#facs_118_r2l20 und in Beherzigung der Uns von sämtlich
+#facs_118_r2l21 Unsern Lieben angehörigen bey jedem
+#facs_118_r2l22 Anlaß bezeigten Treue und Bereitwillig¬
+#facs_118_r2l23 keit haben Wir gutgefunden die am 5ten
+#facs_118_r2l24 Julii 1759. und 20ten Junii 1766. gegebene
+#facs_118_r2l25 Vergünstigung wegen Zehnd freyer An¬
+#facs_118_r2l26 pflanzung
+#facs_118_r4l1 ac
+#facs_118_r4l2 229
+#facs_118_r4l3 Epflanzung der Erdapfel auf einem Achttel
+#facs_118_r4l4 von einer Jucharten für jede Haushaltung
+#facs_118_r4l5 vergönnt seyn soll, in allem bis auf eine Viertel
+#facs_118_r4l6 Inchanten oder 10,000 Quadrat Schuh es seye
+#facs_118_r4l7 auf eigenem oder angeliehenem Erdrich mit
+#facs_118_r4l8 Erdapfeln zu bepflanzen, ohne darvon einigen
+#facs_118_r4l9 Zehnden zu entrichten.
+#facs_118_r4l10 desen Ihr berichtet
+#facs_118_r4l11 werdet um diese Unsere Concession zu jeder
+#facs_118_r4l12 manns verhalt öffentlich verlesen und seiner
+#facs_118_r4l13 Orts nachrichtlich einschreiben zu laßen.

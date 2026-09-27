@@ -1,0 +1,125 @@
+BER.01.001.2810
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 116/116
+# High similarity (>=50%): 114
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_336_r2l10 Beschreibung
+#facs_336_r2l11 Der Ambtleüthen Teütschen Landto auff Ihre
+#facs_336_r2l12 Rechnungen pro Ano. 1703.
+#facs_336_r2l13 Fraubrumen
+#facs_336_r2l14 Frienisferg Sambstag
+#facs_336_r2l15 3. Marty.
+#facs_336_r2l16 Buren
+#facs_336_r2l17 Montago
+#facs_336_r2l18 5: Martij.
+#facs_336_r2l19 Cignance
+#facs_336_r2l20 Burgdorff
+#facs_336_r2l21 6 dito.
+#facs_336_r2l22 Zinstag
+#facs_336_r2l23 Thorberg)
+#facs_336_r2l24 7. dito.
+#facs_336_r2l25 Trachfelwald. Mittwecheno
+#facs_336_r2l26 8. dito.
+#facs_336_r2l27 Thun. Sonstags
+#facs_337_r1l1 Sumißwald
+#facs_337_r1l2 Frytage
+#facs_337_r1l3 Arberg
+#facs_337_r1l4 Buchfer
+#facs_337_r1l5 Sambstags.
+#facs_337_r1l6 Lampen)
+#facs_337_r1l7 Landtosutt
+#facs_337_r1l8 Montago
+#facs_337_r1l9 Brandiß
+#facs_337_r1l10 Königsfelden. Zustags.
+#facs_337_r1l11 Lentzburg. Mittwuchens
+#facs_337_r1l12 Wangen
+#facs_337_r1l13 Arwangen) Sonstags.
+#facs_337_r1l14 Zipp. Freylags
+#facs_337_r1l15 Nudauw
+#facs_337_r1l16 Sambstago-
+#facs_337_r1l17 a jott statt,
+#facs_337_r1l18 Winnis
+#facs_337_r1l19 Montagu
+#facs_337_r1l20 Oberhoffen
+#facs_337_r1l21 Frutigen
+#facs_337_r1l22 Einstags
+#facs_337_r1l23 Zweysimmen
+#facs_337_r1l24 Erlach
+#facs_337_r1l25 St Johansen
+#facs_337_r1l26 Mittwüchtno
+#facs_337_r2l1 9. Marty
+#facs_337_r2l2 10. dito.
+#facs_337_r2l3 2. Aprilis
+#facs_337_r2l4 3. dito.
+#facs_337_r2l5 4. dito
+#facs_337_r2l6 19. dito
+#facs_337_r2l7 20. dito
+#facs_337_r2l8 21. dito.
+#facs_337_r2l9 23. dito.
+#facs_337_r2l10 24. dito
+#facs_337_r2l11 25. dito.
+#facs_337_r3l1 Collate
+#facs_337_r4l1 Interlacken
+#facs_337_r4l2 65
+#facs_337_r4l3 Vnderseen  Sonstags
+#facs_337_r4l4 26 Aprilis
+#facs_337_r4l5 Ahlen. Freytags
+#facs_337_r4l6 27. dito
+#facs_337_r4l7 Oberhasch: Sambstage
+#facs_337_r4l8 28. dito
+#facs_337_r4l9 Saanen. Freytags¬
+#facs_337_r4l10 4 Maij
+#facs_337_r4l11 Biberstein
+#facs_337_r4l12 Sambstags
+#facs_337_r4l13 5. dito.
+#facs_337_r4l14 Zoffingen,
+#facs_337_r4l15 Arburg
+#facs_337_r4l16 Montags
+#facs_337_r4l17 14. dito.
+#facs_337_r4l18 Schenkenberg
+#facs_337_r4l19 Alleß vnder denen hievorigen und bekanten Insinua¬
+#facs_337_r4l20 tionen
+#facs_337_r4l21 de
+#facs_337_r4l22 Actum 6. Febr: 1703
+#facs_337_r4l23 Placcard.
+#facs_337_r4l24 Sachen so dem Post Ambt Vnrecht Consigniert,
+#facs_337_r4l25 sollend Confisciert sein.
+#facs_337_r4l26 Nachdehme Meine gnädige Herren undt Oberen
+#facs_337_r4l27 Wahrgenommen, daß nun und dann dem allhiesigen
+#facs_337_r4l28 PostAmbt einiche Sachen zu versenden übergeben
+#facs_337_r4l29 solche aber entwedere in quantitet oder qualitet Vnrecht
+#facs_337_r4l30 angegeben und consigniert werdind, Er bestraffung
+#facs_338_r1l1 halb aber dergleichen Fräfflen und Port=betrügen
+#facs_338_r1l2 bishero nichts eigentliches gesetzet und geordnet gewe=
+#facs_338_r1l3 Habend dieselben in betrachtung das Post=Ambt:
+#facs_338_r1l4 Der Verpflichtung stehet, alle Sachen, wie sie Consignir
+#facs_338_r1l5 Undt dahin übergeben werden, wan sie aus schuldig
+#facs_338_r1l6 undt negligentz des PostAmbts, oder deßen
+#facs_338_r1l7 bedienten, und nicht durch unglücksfähl verlehren,
+#facs_338_r1l8 gehend, zu ersehen, deßen einen billichen gegensatz
+#facs_338_r1l9 und gleichheit einzuführen gutt und nostwendig
+#facs_338_r1l10 befunden, und demenach zu desto mehrerer sicher
+#facs_338_r1l11 heit des PostAmbts geordnet, daß wan einiche sache,
+#facs_338_r1l12 Dem Post=Ambt übergeben ünergeben, und aber
+#facs_338_r1l13 selbige in eint oder anderen wäg vnrecht oder nit
+#facs_338_r1l14 nach erforderen Consigniert wurden, solchen fahls
+#facs_338_r1l15 bedeüter PostAmbt gegen obvermelter großen pflich
+#facs_338_r1l16 und gefahr auch das Confixation recht haben solle.
+#facs_338_r1l17 alles deßen, was zu wenig und Unrecht angegeben
+#facs_338_r1l18 worden, damit dardurch eint oder andere gesuchte
+#facs_338_r1l19 Vortheil und betrug künfftig hin verhüetet werden
+#facs_338_r1l20 mögend, da hingegen aber auch die Post-Commiss schuldig
+#facs_338_r1l21 sein sollend einem Jeden der gelt oder geltowährt
+#facs_338_r1l22 Dahin übergibt, die büecher vorzuweisen, wie es ringe
+#facs_338_r1l23 schriben
+#facs_338_r3l1 65
+#facs_338_r3l2 schriben, undt dan das PostAmbt bis zu dem ersten
+#facs_338_r3l3 Bureau alß Zürich Schaffausen, Basel, Genff, Neüwenburg
+#facs_338_r3l4 vndt für so weith alß es für die übergebende Sachen das
+#facs_338_r3l5 Port annimbt, guttsprächen solle. Acta vor Meinen
+#facs_338_r3l6 Gnädigen Herren Räht undt Bürgeren d. 13. Januarij
+#facs_338_r3l7 undt 6 februarij 1703.

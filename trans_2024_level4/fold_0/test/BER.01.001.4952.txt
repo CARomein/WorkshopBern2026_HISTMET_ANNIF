@@ -1,0 +1,68 @@
+Law ID: BER.01.001.4952
+Name: Der Fassnacht Füren undt Küchlireichens halb.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 56/56
+# High similarity (>=80%): 37
+# Low similarity (<80%): 19
+# Not found: 0
+#
+#facs_205_r2l1 400.
+#facs_10_r3l1 o
+#facs_81_r1l24 senden hinrecht achtt thag zuentrichten, wo er
+#facs_205_r3l2 undt Amen der Faßnacht füren
+#facs_205_r3l3 undt Küchlin wichens halb.
+#facs_205_r3l4 Siss. p. Das zusechens undt Apotts
+#facs_205_r3l5 wie hievon zu vnder schidenlich zytt der
+#facs_205_r3l6 faßnacht Einiern Füchliwichens, unnd
+#facs_205_r3l7 glönffs, so man zue selben zydt von einem
+#facs_205_r3l8 odt an das andre mit aller Unkucht, geil¬
+#facs_205_r3l9 heit, undt Unbescheidenheit mit Zimmern, pfs
+#facs_205_r3l10 faßnachtbutzl. vndfandere gfalt gebricht
+#facs_205_r3l11 gemacht, undt vor kurzl. Jaren er frischen
+#facs_110_r3l7 haben, wie Dich, und anndere vnnsere ampflütt¬
+#facs_205_r3l13 ohne Zweyffel mitgessen seyn, wyl
+#facs_205_r3l14 aber wir sechendt, vndt gesprechen, da, wen
+#facs_205_r3l15 solche unsarensechl. vdt Spott den
+#facs_205_r3l16 Vnseren intrefften undt mit einsten füge¬
+#facs_205_r3l17 bildett, undt in fischett werden, das sey die¬
+#facs_205_r3l18 selben zetöberzietten desto mehr anlaß¬
+#facs_205_r3l19 nemendt, Ir wegen wir abermalen, sonderlich
+#facs_205_r3l20 zu disen thüren zytten da allenthalben, vnd
+#facs_205_r3l21 bijvilen große armutte, undt mangel escheint
+#facs_205_r3l22 nothwendig befunden, vorgehend unser zusuchen
+#facs_205_r3l23 undt verpott zum Fischen, als hiemit beschicht
+#facs_205_r3l24 vndt wir die bewelchend, den Unseren durch
+#facs_39_r1l1 1701
+#facs_5_r3l1 7
+#facs_205_r4l3 offne Tkündigung von den Cantzlen mit
+#facs_205_r4l4 allem einst undt by x w. d. biß nit
+#facs_205_r4l5 allein die Faßnacht zuwe, welche man hin¬
+#facs_205_r4l6 vndt wider In etliche griemd. zumachen
+#facs_205_r4l7 sich anwesaget, gärtzlichen abzustricken.
+#facs_205_r4l8 undt zu pitten, sonder auch das glönff
+#facs_205_r4l9 so sey beuchend von dorff zu dorffen mit
+#facs_205_r4l10 prochtl. undt kommen euch etwan mit¬
+#facs_205_r4l11 Ein Ilinen das Küchlin Gewich, da dan
+#facs_205_r4l12 allerley vermaß, unbescheidenheit, überflüß¬
+#facs_205_r4l13 undt mißbuch Gottes gaben t gath
+#facs_205_r4l14 vndt daher die zum gottes daß mher über
+#facs_205_r4l15 ein garten landt greith mit, zuvergeb¬
+#facs_205_r4l16 sich durch offne Bekündung, undt die Ver¬
+#facs_205_r4l17 stender der Kilchen Tomhanen laßen, sich
+#facs_205_r4l18 deß einen, undt anderen zuüberheben, vndt
+#facs_205_r4l19 aller Zucht, vbarkeits undt bescheidenheit
+#facs_205_r4l20 gebeflysen, solche überfluß zu
+#facs_205_r4l21 sparen, damit sy den annen dese bas¬
+#facs_205_r4l22 hilff, undt bystandt leisten mognidt.
+#facs_205_r4l23 Damit aber disem Vnserem ansehen dest nichts
+#facs_205_r4l24 stadt undt gehorsam bescheile, wirst du vns
+#facs_205_r4l25 vier undrampt litten, vndt andere, die du zum Vff¬
+#facs_205_r4l26 sechnen verden magst, hiemff, vnd vff die vber¬
+#facs_205_r4l27 trethe deses geflißner achten, vndt dieselbe
+#facs_205_r4l28 Noluth unsers ansechens In buß, vdt straaff
+#facs_205_r4l29 züchen ohne einich verschone etc. Datum 7. Febr.
+#facs_34_r5l2 61

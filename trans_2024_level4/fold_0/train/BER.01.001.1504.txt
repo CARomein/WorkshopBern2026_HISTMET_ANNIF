@@ -1,0 +1,299 @@
+Law ID: BER.01.001.1504
+Name: Wegen des Fluchens und Schwerens.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 288/288
+# High similarity (>=50%): 266
+# Low similarity (<50%): 22
+# Not found: 0
+#
+#facs_219_r1l11 Ann alle Teutsche Ambleüth
+#facs_219_r1l12 wegen des Fluchens und
+#facs_219_r1l13 5
+#facs_219_r1l14 (Translation)
+#facs_219_r1l15 schworens
+#facs_219_r1l16 Wir der Schuldtheiß vnnd
+#facs_219_r1l17 Rhat der Statt Bern, allen und
+#facs_219_r1l18 Nous l'Aduoyer, et Conseil de la Ville
+#facs_219_r1l19 Jeden unseren Kirchendieneren,
+#facs_219_r1l20 de Berne, a touts et chascuns nos
+#facs_219_r1l21 Burgeren, ein wohneren, Ober¬
+#facs_219_r1l22 Ministres, Bourgeois, Habitants, Officier
+#facs_219_r1l23 und underAmbtleüthen, auch alle,
+#facs_219_r1l24 Hauts et Subalternes, comme aussi
+#facs_219_r1l25 anderen unseren Lieben und ge¬
+#facs_219_r1l26 a touts autres nos chers et feaux
+#facs_219_r1l27 Truwen Vnderthanen vnd angehörige
+#facs_219_r1l28 subiects, et ceux qui nous appartiennent
+#facs_219_r1l29 In unseren Stetten, Graff: vnd
+#facs_219_r1l30 Residents riere nos Villes, Comtés.
+#facs_219_r1l31 herrschafften Landen Gerichten vnd
+#facs_219_r1l32 Seigneuries, Provinces et Jurisdictions
+#facs_219_r1l33 gebieten wohnhafft, unseren gnedigen
+#facs_219_r1l34 de nostre Obeissance, nostre gratieuse
+#facs_219_r1l35 gruß, günstigen vnnd geneigten
+#facs_219_r1l36 Salutation, benigne affection et
+#facs_219_r1l37 willen, sambt allem guten Zuuor
+#facs_219_r1l38 bonne volonté promise.
+#facs_219_r1l39 Auch wie vnsere fremme vnnd getreüer
+#facs_219_r1l40 Regiments, vorfahren, Lobseliger gedächtnuß
+#facs_219_r1l41 Comme nos chers Ancestres, qui nay
+#facs_219_r1l42 auß erinnerung Göttlichen worts rund -
+#facs_219_r1l43 ont precédé en l'office de Magistra
+#facs_219_r1l44 fahren Erkantnuß desselben, bald nach erschei¬
+#facs_219_r1l45 le tres heureuse mémoire, esmeus par
+#facs_219_r1l46 nung des Liechts der gnaden: Also haben
+#facs_219_r1l47 une vraye Cognoissance de la parolle de
+#facs_219_r1l48 auch wie by der mus von Gott auffge=
+#facs_219_r1l49 Dieu, aussytost apres la manifestation
+#facs_219_r1l50 Tragnes Verwaltung, vß schuldiger Oberkeit
+#facs_219_r1l51 de la tumiere de Salut; Ainsi aussi avons Ni
+#facs_219_r1l52 cher Fürsorg vnnd gutem eifer vnns Jeder
+#facs_219_r1l53 en la charge qu'il à pleu à Dieu nous commettons
+#facs_219_r1l54 reilen zum nechsten rund höchsten ob eine
+#facs_219_r1l55 de temps en temps mis toute peine et diligens
+#facs_219_r1l56 par plusieurs nos Statuts, Ordonnames,
+#facs_219_r2l1 421.
+#facs_219_r2l2 angelegen sein laßen, durch vnderschidenliche et Mandats, d'aduertir et enioindre fort soignen
+#facs_219_r2l3 Grsatz Ordnungen vnnd Mandat, vnsere von sement a nos chers et vien aimés, mesmes à v.
+#facs_219_r2l4 Gott vns anvertrauwte Lieben vudgetrümen chascun en sa personne charge et condition
+#facs_219_r2l5 lugesörigt ius gemein, Ja so gar auch einen de s’estudier et addonner à la pieté, crainte
+#facs_219_r2l6 toden zum seinem Stand, Ambt, vnnd wesen, de Dieu, vraye charité, avec vie et conuer
+#facs_219_r2l7 orgfeltig zu erinneren vnnd zuuermahnen, sation honnesse, tant en paroles que par
+#facs_219_r2l8 ich der wahren Koltsforicht, rechter ein¬ oeuvres, en despouillant toutes actions
+#facs_219_r2l9 begleißneter Liebe, vnnd eines rechtgeschafften Scandaleuses et reprehendensibles: Mais appra¬
+#facs_219_r2l10 -
+#facs_219_r2l11 hebaren Lebens Inn Worten rund wercken, nants a contu coeur, et à nostre gran
+#facs_219_r2l12 zubefleißen: vnnd hingegen alles gattlose, vn¬ dissime desplaisir que en ae dernier temp
+#facs_219_r2l13 ehrbare, sundt: Lasterhafft: vnd sträffliche - desplorable, tels nos gratieux et paternel
+#facs_219_r2l14 Leben abzulegen. Wann aber wir zu vnsern aduertissements et enionctions, comme aussi vu
+#facs_219_r2l15 lächsten hertzenleidt vnnd bedaurlichen mißfaken Sainctes exhortations, redargutions et correct
+#facs_219_r2l16 vernemen müßen, daß bey disen leidigen letsten
+#facs_219_r2l17 Zeiten solche gnedige rund vätterliche Erinnerun¬
+#facs_219_r2l18 ons és predications de la parolle de
+#facs_219_r2l19 auch die predigen Gottlichen worts rinn
+#facs_219_r2l20 au temple; Ny mesmes la voix du Seigneur
+#facs_219_r2l21 byläuffige beschelt: straff. vnnd abmahnunge,
+#facs_219_r2l22 noshe Dieu Tout puissant preschant d'en haut
+#facs_219_r2l23 von Cantzern, Ja so gar auch die würckliche, von
+#facs_219_r2l24 par les signes et effects du Ciel cognent
+#facs_219_r2l25 einer Zeit zur anderen fürgehnden vnd bekante,
+#facs_219_r2l26 à chascun, n'ont envers la plus part et
+#facs_219_r2l27 That, vnnd straff predigen Gottes deß All¬
+#facs_219_r2l28 tant d'effect d'amendement que plusieurs
+#facs_219_r2l29 rechtigen vom Himmel herab selbsten, by den
+#facs_219_r2l30 Jeunes et vieux hommes et femmes de
+#facs_219_r2l31 mehrentheil, nicht so vil vermögen, vnnd daß
+#facs_219_r2l32 hautte et basse condition (chose lamentable)
+#facs_219_r2l33 een vil Junge vnnd alte, Weib: rund Mans
+#facs_219_r2l34 contrevenient non seulement en plusieurs
+#facs_219_r2l35 -
+#facs_219_r2l36 persohnen, hochen: vnnd inderen Standts (leider
+#facs_219_r2l37 façons, mais se souillent encor plus que
+#facs_219_r2l38 vilfaltig sich nit allein hierwider freuenlich
+#facs_219_r2l39 jamais en toute sorte de pechés et
+#facs_219_r2l40 vergeßen, sondern mehr dann zu einigen Zeiten
+#facs_219_r2l41 meschancetés, principalement en lhorrible
+#facs_219_r2l42 sich mit allerhand sind vnnd bosheiten beflecken
+#facs_219_r2l43 énorme et intollerable Vice de Jurer
+#facs_219_r2l44 Sonderlich aber, das abscheüwliche, greüerlich
+#facs_219_r2l45 laspheimer, faire des imprecation
+#facs_219_r2l46 -
+#facs_219_r2l47 und schandtliche laster deß vöppigen vnnd
+#facs_219_r2l48 nesusants du St et Sacré Nom de Dieu
+#facs_219_r2l49 leichtfertigen, Schwerens, fluchens, lesterens
+#facs_219_r2l50 des Saincts Sacrements, et plusieurs autres
+#facs_219_r2l51 und mißbrauch des H. Namens Gottes
+#facs_219_r2l52 jurements et parolles subiectes à chastiment
+#facs_219_r2l53 der H. Sacramenten rund vilfaltige and
+#facs_219_r2l54 Jaeux estants tellement coustumiers e
+#facs_219_r2l55 böse schwur: vnnd streffliche reden, so gar
+#facs_219_r2l56 en vogé, que de la mesme arrivent plusieurs
+#facs_219_r2l57 gemein worden vnnd getriben werden, daß
+#facs_219_r2l58 fois pariurants pariurements et
+#facs_219_r2l59 auch daher vielmals ein offner weg zum -
+#facs_219_r2l60 inobservations de serment, le vice estant
+#facs_219_r2l61 vers plusieurs venu à une telle scandaleuse
+#facs_219_r2l62 Meineidt gemacht, vnnd by eilen nun bald - et miserable coustume, que quelques uns
+#facs_220_r1l1 loi
+#facs_220_r1l2 Ime eine solche ergerlicht gewon,, ne le reputent presque plus pour estre pesche,
+#facs_220_r1l3 heit kommen, das es bey etlichen - Nous donques pour obvier au iuste courrou
+#facs_220_r1l4 gleichsam für keine sünd mehr et Chastiments de nostre Dieu, qui nous
+#facs_220_r1l5 wil geachtet werden, als habend wir vmb tallonnent, en continuation et vive
+#facs_220_r1l6 abwendung der deßwegen ob vnns schwebenden perseneration de nostre bon zele, anon
+#facs_220_r1l7 schwere Greichen vnnd gerechten Straffen par cestes derechef et de plus fort
+#facs_220_r1l8 Gottes, Inn ohnaußgesetztem bestendigen - voulu enjoindre et commander à tout
+#facs_220_r1l9 guten eifer heimt die Vnseren Lieben vnnd – et un choseun les nostres riere les villes
+#facs_220_r1l10 getreüwen Angeforigen zu Statt rund Landt lieux et terres de nostre obeissance
+#facs_220_r1l11 der particulier
+#facs_220_r1l12 e-
+#facs_220_r1l13 das gemein vnnd besonders gantz angelegenlich, en generalis, au tant quun chascun doibt,
+#facs_220_r1l14 rund so lieb einem Jeden sein Zeitliche wol, estre soignaux et desireux de son vier
+#facs_220_r1l15 fart, sonderlich aber seiner seelen ewige - temporel et principalement du salut de
+#facs_220_r1l16 heil vnnd seligkeit angelegen sein soll,
+#facs_220_r1l17 son âme, à ce que les uns et les autres
+#facs_220_r1l18 erinneren vnnd vermahnen wellen, das ein
+#facs_220_r1l19 quels qu'ils soyent substitiennent entierement.
+#facs_220_r1l20 Jeder wer der auch sye, sich von diser
+#facs_220_r1l21 de ce grand pesché, et vice de iurer
+#facs_220_r1l22 schweren sind vnnd laster des schwerensblaspheimer et faire des imprecations
+#facs_220_r1l23 lesterens vnnd fluchens, wie das Immer
+#facs_220_r1l24 geschechen vnnd erdenckt werden möchte, -
+#facs_220_r1l25 et maudissons, en façon que ce soit
+#facs_220_r1l26 gentzlich zuendthalten, Also das ein Jeder
+#facs_220_r1l27 si bien qu'un chascun de telle qualité,
+#facs_220_r1l28 et condition qu'il soit, doibt avoir et
+#facs_220_r1l29 was Standts vnnd wesend er seye, allegirt tout temps et a toutes heures devant se
+#facs_220_r1l30 vor augen haben vnnd wißen soll daß – yeux, Et vien scavoir, que Dieu ne
+#facs_220_r1l31 Gott der Herr, nach besag seiner beygesetzten tiendra pour innocent, celuy qui aura
+#facs_220_r1l32 treüerung der nicht für unschuldig halten pris son nom en vin, et quil faudra
+#facs_220_r1l33 werdt, der seiner namen vppigkeit, vnnd vne fois rendre compte dune chateure
+#facs_220_r1l34 mitel nimbt, auch vmb ein Jedes vnnützes – parolle mas a propos, lachée et proferet
+#facs_220_r1l35 richtfertiges wort dermalen eins vorhen,, Cest pourquoy les uns et les autres
+#facs_220_r1l36 schafft werde haben müßen; deßwegen daibuent en toute façon de succourtume
+#facs_220_r1l37 sich ein Jeder vor allem Cobts lestren - et entierement abdenir de tous jurement
+#facs_220_r1l38 appigem, leichtfertigen Fluchen vnd schweren Blasphemes et imprecations, tant a l'encontre
+#facs_220_r1l39 weilen sich selbst vnnd den Nebendmoutschen, de my mesme, que conte son prochain
+#facs_220_r1l40 nus sonsten zum allung antircenimq remid – et autrement, Et au contraire porter
+#facs_220_r1l41 endthalten, auch sonsten de einer dem anderen pon et salutaire exemple les uns aux
+#facs_220_r1l42 ein gut erbauwlich Ehempel vortragen soll.autres
+#facs_220_r2l1 Damit nun keiner durch vorsetzliches stillschwei¬ Et afin que personne ne se rende coupable
+#facs_220_r2l2 4
+#facs_220_r2l3 en, en er sonst fürglich vor sein könte, sicherß et participant par son silence du pesche
+#facs_220_r2l4 deren Sund theilhafftig mache, So ist vnser d'autruy, y pouvant commodement prevenir
+#facs_220_r2l5 ernstiger will, meinung vnnd beuelch, das ein Nous voulons, mandons et commandons fort
+#facs_220_r2l6 oder seinen nechsten, den er so hört schweren expressement, Qu'un chascun ayant et
+#facs_220_r2l7 steren vnnd fluchen rund dergleichen, es seye - entendant son prochain ainsi iurer
+#facs_220_r2l8 I am gemeld
+#facs_220_r2l9 oder Inn Sonderbaren gesprächen, Vlaspheimer, meudire et choses semblables,
+#facs_220_r2l10 der Inn gesellschaften, frundtlich vnd brüder, soit en general en discours, ou en compagnie,
+#facs_220_r2l11 -
+#facs_220_r2l12 lich dauon abmahnen, oder Ir nach dem es - len debura amiablement et fraternellement
+#facs_220_r2l13 die persohn Staudts, Orts oder anderer repiendre et corriger: Ou bien selon les
+#facs_220_r2l14 zufelligkeiten halb, eine beschaffenheit hette, circonstances de la personne, du lieu, et
+#facs_220_r2l15 vnnd die wort ergangen weren, solches einem selon que l'importance du iurement sera
+#facs_220_r2l16 Jewesenden Kirchendiener oder Ehrn Richter den faire le rapport au Ministre ou autre
+#facs_220_r2l17 Ehebaren solle, damit der Jenige für de lassistance Consistoriale, ofin quun ter
+#facs_220_r2l18 ein Ersam Thorgricht beschickt, Ime daselbst soit cité par devant le consistoire pour la
+#facs_220_r2l19 ein fügler für gehalten vnnd zur beßerung lus estae representé sa faute et exhorté à
+#facs_220_r2l20 weisen werde. Die Jenigen aber so vmb – se corriger et amender pour laduenir: Avec
+#facs_220_r2l21 besondere brüderliche Abmahnungen, auch – cest esclaircissement, an cas que quelqu'un
+#facs_220_r2l22 ihrengrichtliche einmalig ernstliche fürhaltung en vertu de telle fraternelle admonition
+#facs_220_r2l23 nichts geben, vnnd sich nit beßerren würden, - et rep rehension, Et apres luy avoir une fois
+#facs_220_r2l24 -
+#facs_220_r2l25 -
+#facs_220_r2l26 alle widermals für Ehergericht beschickt - consistorialement estè dheuement representé sa
+#facs_220_r2l27 vnnd daselbst zum fordfahl gehalten, vnnd faute, ne se voulut corriger et amender, tels et
+#facs_220_r2l28 mit einer gantz ernstfafften vermahnung zur semblables refractaires deuront estre derechef
+#facs_220_r2l29 n-
+#facs_220_r2l30 würcklichen Beserung vermögen werden. Eites ex consistoire, pour la se prosterner à terre,
+#facs_220_r2l31 crier mercy à Dieu, et tous ceux qu'il pourroit avoir
+#facs_220_r2l32 scandalizé et de plus estre serieusement exhorté
+#facs_220_r2l33 Es möchte aber sich Jemandts dergestalten mit et induict u une maye correction et amendement
+#facs_220_r2l34 schweren, Lesteren, fluchen unnd dergleichen
+#facs_220_r2l35 ergesßen vnnd vertieffen, oder so gar Mais il pourroit arriver que quelquun soubliat
+#facs_220_r2l36 seine warung eine Imo erschießen lasten, et senfonçast si avant dans des horribles et enovo
+#facs_220_r2l37 3. wie deßen nohtwendig in üßten berichtet Jurements,blasphemes et maudissons, ou que telles
+#facs_220_r2l38 werden. Im welchem fase wir vns verurre Conrections et admonitions Consistoriales ne
+#facs_220_r2l39 a-
+#facs_220_r2l40 und hartero straff, so nach gestalt der pourroyent heuver lieu d'amendement, Que de
+#facs_220_r2l41 Sach anwenden zu laßen, es seye mit
+#facs_220_r2l42 necessité nous en deurions estre advertis, En quel cas
+#facs_220_r2l43 pfangenschafft oder sonst, außtrunkenlich nous nous en reserums par expres un plus grand
+#facs_220_r2l44 vorbehalte.
+#facs_220_r2l45 et plus Graf chastiment, soit par emprisonnement,
+#facs_220_r2l46 qu'autrement selon le merite du faict
+#facs_221_r1l1 42a
+#facs_221_r1l2 Vnnd dieweil (mit dit erfahrung (Leider) - Et d'autant que plusieurs (comme l'experience
+#facs_221_r1l3 bezeüget. Iren wil mit vorkehrung der le tesmoigne) søublient et mesprenent, pour
+#facs_221_r1l4 worten, außlaßung oder hinzusetzung etlicher couvrir, teur Jurements en adioustants ou
+#facs_221_r1l5 Silben, zu bauentlung des schnungs sich - diminuants des syllabes, ou changeants de
+#facs_221_r1l6 gilfaltig vergeßen, vnnd durch einen leicht„ termes et mots de leur Jurement dune faci
+#facs_221_r1l7 fertigen angemeseten faltschen wahn Ihnen ou d'autre, et par une vaine et fausse
+#facs_221_r1l8 inbilden, wann sich nur das wort disers imagination, se sont à croire, quand ils n
+#facs_221_r1l9 n-
+#facs_221_r1l10 oder Jenen schwurs nicht außtrucken, so habe disent le mot de cestucs ou lautre jurem
+#facs_221_r1l11 es kein nest, seye so bis nicht gemeint, haben tout entier, le corrompant ou changeant en
+#facs_221_r1l12 nicht geschworen oder und dergleichen. Da quelque façon, quil ny a point de danger
+#facs_221_r1l13 aber dise vermeinte außreden, Kluglen – quils ne tentendent en mat, quils n'ont pa-
+#facs_221_r1l14 "
+#facs_221_r1l15 vnnd vngereimbte Endtschuldigung für den Hure et choses semblables. Quoy que telle
+#facs_221_r1l16 schwur selbsten zum allweg zu achten vnnd cauiliation, subtilités et excuses pretendues
+#facs_221_r1l17 zuhalten, weil es nach dem wort Gottes sont entierement reputées pour le Jurement
+#facs_221_r1l18 heißt. Euwere Red seye Ja, Ja, Nein, nein, mesme, puis quil est dict, vostre parolle soo
+#facs_221_r1l19 -
+#facs_221_r1l20 was drüber ist das ist vom Bösen. Als Ouy, Ouy. Non, Non, car ce qui est par
+#facs_221_r1l21 ist vnser ebenmeßiges gantz ernstliches erinnern desens, est du enalin: Partant voulons et
+#facs_221_r1l22 und cimasum, das ein ieder sich erseren, so entendons de mesmes fort serieusement
+#facs_221_r1l23 wol als deß außgetruckten Ihrerns selbsten Quam chasum aye a sub stenir de ter
+#facs_221_r1l24 müßigen, vnnd vberheben sollen. Maßen wir et semblables termes, non mains que ou
+#facs_221_r1l25 hiemit vnseren Eirchendieneren zu Statt Jurement mesme: Ainsi que par cester
+#facs_221_r1l26 vnnd landt ernstmeinend eingebunden haben - mandons et commandons à tous nos Ministres
+#facs_221_r1l27 weilen, Jan den predigen rund sandcxlis de la parolle de Dieu, qu'ils ayent en leur
+#facs_221_r1l28 Im den Kinderlehren erstlich die schwere predications et singulierement és Catheckirner
+#facs_221_r1l29 Sind des fluchens vnnd schworens, den ein en premiers a bien faire comprendre aux
+#facs_221_r1l30 vnnd anderen wol einzuschrapfen, vand - was et aux autres la gravité du pesché de
+#facs_221_r1l31 hiemit solchen vnguten falschen wahn, vnnd Jurements Blasphemes et maudissons en quelle
+#facs_221_r1l32 des hierin vermeinten nicht so groben führens facon quils peuvent estre et aussi oster du
+#facs_221_r1l33 hier zuschören grundtig Gebenenen, damit fondament et extirper des pensées et copiteons
+#facs_221_r1l34 betriege
+#facs_221_r1l35 weiteres niemand sich ame disem oot fältschlich de leurs Auditeurs telles et semblables canillations
+#facs_221_r1l36 et excuses imaginaires, afin que par ce moyen
+#facs_221_r1l37 Das desto korfftigen, nund nachtruck — personne par une veine persuasion ne habuse et
+#facs_221_r1l38 Zeitliche erhaltung diß unsers Christenlichen
+#facs_221_r1l39 se trompe soy mesme
+#facs_221_r1l40 frorents pounds, ist vnser mill vnnd - Et pour tant plus facilement et avec plus deffent
+#facs_221_r1l41 Minnung, das auch Ihm den Schulen die Censum pouvoir atteindre et obtenir les fini de ceste
+#facs_221_r1l42 angestelt, durch offentliche mund seinliche auff¬ nostre Chrestienne intention, Est nostre volonté et
+#facs_221_r1l43 forsung, auff die beërnde Jugend constflißig commandement, que les Consures es Escholes seront
+#facs_221_r1l44 praestat, die halbaren vorzeichnet, vnnd nach dhevement ordonnées en constituant des verveillant
+#facs_221_r1l45 ordiren ohne ansonsen gegünstiget worden sollen/ pubings et secrets qui se prendront diligemment
+#facs_221_r1l46 garde sur la Jeunesse,ennotants les deffaillants, affin qu’ils loyent chastiez, sans avoir espard
+#facs_221_r1l47 à personne, selon le merite de leur faute
+#facs_221_r2l1 Wie wollen hiemit auch ernstlich gemeint. Outtie ce que dessus, voulons mandons et commendons
+#facs_221_r2l2 22)
+#facs_221_r2l3 und brualchen haben, das diß vnser ynsachen expressement, que ceste nostre Ordonnanæ noch
+#facs_221_r2l4 nicht allein an ietzund, vnnd für dißhin - seulement sera publié en chaire presentement
+#facs_221_r2l5 Ierlich zweimal, nämlich zu eingehendem, et par deux diverses fois a laduenir, servois.
+#facs_221_r2l6 frühling, vnnd außgehendem Herbst zue an Commencens du Printemps, Et à la fin des
+#facs_221_r2l7 mungkliches nachricht: offentlich von Cantzern Vendanges, chasque année, afin que selon ce
+#facs_221_r2l8 erlesen: Sondern auch Jedes mals durch chascun se sache tant mieux conduire: Mais
+#facs_221_r2l9 die Prediger Göttlichen worts Ire action aussi que toutes les fois chasque Ministre
+#facs_221_r2l10 und Predig vermitlest eines darzu be- prendra a ce subiect un tente convenable
+#facs_221_r2l11 quement lexts darnach gerichtet, auch - pour la dessus former son action et dresser
+#facs_221_r2l12 hernach etwan noch zwo oder dry nechst son presche, comme aussi encor deux ou trois
+#facs_221_r2l13 darauff volgende Predigen zu mehrerer actions secutives, pour tant meilleure
+#facs_221_r2l14 Ausserpfung darüber gehalten werden sollen. Instruction des uns et des autres
+#facs_221_r2l15 -
+#facs_221_r2l16 Alles zu dem und, damit Gott der Herr
+#facs_221_r2l17 vnnd sein hochgebenedeyter Namen geprise,
+#facs_221_r2l18 Le tout à ceste fin, Que nostre Seigneur dieu,
+#facs_221_r2l19 Der nechste gebeßeret, ein Jeder Inne
+#facs_221_r2l20 It son St. nom soit glorifie, nostre prochain -
+#facs_221_r2l21 dans les
+#facs_221_r2l22 seinem heil befürderet, vnnd die obschwe¬
+#facs_221_r2l23 edifié, chascun en son salut advancé et
+#facs_221_r2l24 benden Straffen vnnd Zorn Gottes
+#facs_221_r2l25 que nous puissions tous ensemble, en tant
+#facs_221_r2l26 durch rechtschaffene Buß vnnd besßerung
+#facs_221_r2l27 qu'il sera possible, euiter le juste courroux
+#facs_221_r2l28 et dans le mois d'Etaté
+#facs_221_r2l29 et chastiment de Dieu penchant sur nos
+#facs_221_r2l30 müglichst abgemandt worden: Vnnd wir testes, par une vraye et sincere repentence.
+#facs_221_r2l31 also noch fürbas Inn unserem allgemeine
+#facs_221_r2l32 -
+#facs_221_r2l33 wärthen Lieben Vatterlandt Im Frid
+#facs_221_r2l34 Poue par ce moyen iouyr encores en nostre
+#facs_221_r2l35 Chere et Commune Patice des libertés tant
+#facs_221_r2l36 ruhstand, der so erwünschten Grist: Spirituelles que temporelles, Louant
+#facs_221_r2l37 und leiblichen Fryheiten genießen
+#facs_221_r2l38 -
+#facs_221_r2l39 - q'lorifiants et exaltants de coeur et de
+#facs_221_r2l40 mögen, seine großen Kurthaten mit mund bancke, voire avec toutes les forces de
+#facs_221_r2l41 6
+#facs_221_r2l42 vnnd hertz, vnnd allen vnseren Seelen - lame, ses grandes graces et bien faicts tant
+#facs_221_r2l43 kreffen, hie zeitlich vnnd hernach auch dort icy, qua la vie à venir eternellement
+#facs_221_r2l44 ewig zu Leben, zu ruhmen vnnd zu - Amen. Fait à Berne en nostre
+#facs_221_r2l45 reisen. Amen. Datum 23. Julij 1652. Conseil a 23. Juillet 1652

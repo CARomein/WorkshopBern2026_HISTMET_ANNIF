@@ -1,0 +1,136 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 128/129
+# High similarity (>=80%): 125
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4446
+#facs_78_r4l8 Verordnung
+#facs_37_region_1628530191162_400l1 64.
+#facs_346_r2l4 Oron
+#facs_161_r5l10 Wir Schultheiß Klein und Große Räht
+#facs_323_r2l6 Stadt und Respubli Bern, entbieten allen
+#facs_263_r2l23 unserer lieben und getreuen Bürgeren und
+#facs_329_r3l6 Angehörigen zu Stadt und Land Unseren Gnädi¬
+#facs_329_r3l7 gen und Wohlgeneigten Willen, und geben
+#facs_329_r3l8 ihnen dabey zu vernehmen.
+#facs_329_r3l9 Demnach Wir aus Landeswäck erlicher Huld
+#facs_329_r3l10 und Gnad gut gefunden, das Unserer Haubt.
+#facs_329_r3l11 Stadt gebührende Abzug-Recht, in Absicht auf
+#facs_329_r3l12 Unsere Unterthanen Teutschen Lands (gleich wie
+#facs_329_r3l13 solches gegen Unsere Unterthanen Welschen Land
+#facs_329_r3l14 bereits ehedeßen geschehen :/ zu milderen, und
+#facs_329_r3l15 dahin aufzuheben: daß solches fürohin gegen
+#facs_329_r3l16 Unsere eingeseßene Unterthanen nur krafft
+#facs_329_r3l17 Gegenrechtens ausgeübt werden solle; so haben
+#facs_329_r3l18 Wir über die Art und Weise, wie das uns zu
+#facs_329_r3l19 ständige AbzugsRecht überhaubt künftighin
+#facs_329_r3l20 so bohl in Unserer Haubtstadt als sämtlichen
+#facs_329_r3l21 Unseren übrigen Städt= und Landen ausgeübt
+#facs_329_r3l22 werden soll, gegenwärtige Ordnung errichtet,
+#facs_329_r3l23 und zum Druck beförderen laßen.
+#facs_329_r3l24 Allerwordenst bestätigen Wir anmit alle
+#facs_329_r3l25 von Und oder Unseren in Bock rühenden Regi¬
+#facs_329_r3l26 ments Vorfahren über den Abzug gemachte
+#facs_330_r1l1 650.
+#facs_330_r2l1 und dermalen noch in Krafft bestehende
+#facs_330_r2l2 verkommnußen und errichtete Verträge, wie
+#facs_330_r2l3 auch alle ertheilte, oder bestätigte Freyhei¬
+#facs_330_r2l4 ten und Bewilligungen /: workon die Verzeich¬
+#facs_330_r2l5 nuß wird nachgedrubt werden :/ und wollen
+#facs_330_r2l6 daß so wohl in der Haubtstadt und denen vier
+#facs_330_r2l7 Landgerichten Unsere verordnete Kauff¬
+#facs_330_r2l8 haus-Direction, als sonsten in unseren übrigen
+#facs_330_r2l9 Städt und Landen Teutsch und Welschen Gebiet
+#facs_330_r2l10 jeder Unserer bestelten Amtleuten, in
+#facs_330_r2l11 Beziehung des Abzugs, sich, bey allen da ein
+#facs_330_r2l12 schlagenden Fällen, nach denselben durch
+#facs_330_r2l13 aus richte. Solchemnach verordnen Wir
+#facs_330_r2l14 I. Uber das Gut so in Unserer Gottmäßigtein
+#facs_330_r2l15 von einem Ort derselben an einen
+#facs_330_r2l16 anderen, an einen Unserer Bürgeren
+#facs_330_r2l17 oder Unterthanen übergehet.
+#facs_330_r2l18 a. daß künftighin von dem Gut, welches aus
+#facs_330_r2l19 Unserer Haubtstadt und den Vier Landgerichten
+#facs_330_r3l3 an einen anderen Ort Unserer Bottmäßigkeit,
+#facs_330_r2l21 an einen Unserer Unterthanen übergehen
+#facs_330_r2l22 wird, kein Abzug mehr behalt werden solle
+#facs_330_r2l23 6. Deßgleichen soll auch kein Abzug mehr
+#facs_330_r2l24 bezahlt werden von dem Gut, welches voreinem
+#facs_330_r3l1 651.
+#facs_330_r3l2 Ort Unserer Teutschen- oder Welschen Landen
+#facs_330_r3l3 an einen anderen Ort Unserer Bottmäßigkeit,
+#facs_330_r3l4 an einen Unserer Bürgern oder Unterthanen
+#facs_330_r3l5 übergehen wird. Es seye dann, daß in eint= und
+#facs_330_r3l6 anderm Fall dieses Gut an einen solchen Ort
+#facs_330_r3l7 gezogen wurde, der selbst den Abzug von Unsern
+#facs_330_r3l8 Bürgern oder Unterthanen fordert, und nach¬
+#facs_330_r3l9 habender Freyheit solches Recht auszuüben be¬
+#facs_330_r3l10 rechtiget sey, welchen falls, krafft gegenrech
+#facs_330_r3l11 tens, auch von den Bürgeren eines solchen Orti¬
+#facs_330_r3l12 der Abzug zu Unseren Handen bezogen werden
+#facs_330_r3l13 soll, wann einem derselben in Unseren Teutsch
+#facs_330_r3l14 oder Welschen Landen Gut aufallen wurde
+#facs_330_r3l15 II. Über das Gut welches aus Unserer Gottmäßig¬
+#facs_330_r3l16 beit weggezogen wird; und zwar
+#facs_330_r3l17 a. von Personen die aus dem Land ziehen, und
+#facs_330_r3l18 Mickel mit sich fort nehmen
+#facs_330_r3l19 Derenthalb ist Unser Wille, daß alle Unser
+#facs_330_r3l20 Bürger und Alte oder neue Unterthanen, wenn
+#facs_330_r3l21 sie nach Vorschrifft der Ordnung, das Mann¬
+#facs_330_r3l22 und Landrecht aufgeben, von all ihrem Ver¬
+#facs_330_r3l23 mögen, worinn es immer bestehe, und wo immer
+#facs_330_r3l24 es gelegen, es sey auch würblich in Unserer
+#facs_330_r3l25 Lande gezogen worden oder nicht, den Abzug
+#facs_37_region_1628530197132_403l1 65.
+#facs_331_r2l1 mit zehen vom hundert bezahlen sollen.
+#facs_331_r2l2 denen Landsfremden hingegen, welche
+#facs_331_r2l3 sich nicht zu Unterthanen annehmen laßen,
+#facs_331_r2l4 sondern nur ihren Wohnsiz in Unseren Land
+#facs_331_r2l5 den aufschlagen, soll, wenn sie wieder fort¬
+#facs_331_r2l6 ziehen, von ihrem Gut kein Abzug gefordert
+#facs_52_region_1629371727639_50l_4 werden.
+#facs_331_r2l8 6. In Ansehen dann des Guts welches
+#facs_331_r2l9 lands fremden Krafft erbrechtens oder
+#facs_331_r2l10 sonsten in unserer Bottmäßigkeit
+#facs_331_r2l11 anfällt.
+#facs_331_r2l12 dessthalb verordnen Wir: daß wenn
+#facs_331_r2l13 einem Lands fremden von einem Unserm
+#facs_331_r2l14 Burgern, Eingebohrnen oder Naturalisier
+#facs_331_r2l15 Unterthanen, durch Heyraht, Erbs= oder
+#facs_331_r2l16 Schentungsweise Gut anfällt, der Lands
+#facs_331_r2l17 fremde von dem allso erhaltenen Gut
+#facs_331_r2l18 den Abzug mit zehen vom hundert bezahlt
+#facs_150_r4l24 solle;
+#facs_331_r2l20 raügnet sich dann ein solcher Fall, so
+#facs_331_r2l21 soll über das an den Landsfremden
+#facs_331_r2l22 übergehende Gut, ungesäumt eines Ver¬
+#facs_331_r2l23 zeichnuß gemacht, von den beweglichen
+#facs_331_r2l24 Sachen und der Baorschafft der Abzug (als
+#facs_331_r3l1 = 653
+#facs_331_r3l2 in gleichem Zeitpunkt, mit dem Anfall des¬
+#facs_331_r3l3 Guts an den Landsfremden, fällig (so gleich
+#facs_331_r3l4 erhoben: die Ligenden Güter aber, wenn selbige
+#facs_331_r3l5 innert Jahr und Tag nicht verkauft werden, nach
+#facs_331_r3l6 Verfließung dieser Frist, Eidlich geschäzt, und
+#facs_331_r3l7 so dann auch von deren Wehrt, der bereits,
+#facs_331_r3l8 Verfallene Abzug, ohne fernere Gestündung,
+#facs_331_r3l9 eingezogen, und diesemnach bezahlt werden.
+#facs_331_r3l10 Es kan aber von der Schuldigkeit, den und
+#facs_331_r3l11 in obigen Fällen verfallenen Abzug zu bezah¬
+#facs_331_r3l12 len, sich ein Landsfremder nicht entschütten.
+#facs_331_r3l13 wenn er sich gleich nachgehends zu Unserm Unter¬
+#facs_331_r3l14 than annehmen läßt
+#facs_331_r3l15 allen Landsfremden aber, welchen durch
+#facs_93_r3l15 In
+#facs_331_r3l17 Heyraht, Erbs- oder Schenbungsweise von es
+#facs_331_r3l18 Landsfremden, der sich bey uns nicht naturalisie
+#facs_331_r3l19 ren laßen, sondern nur in unseren Landen wohnt,
+#facs_331_r3l20 oder gar nur im durchreisen darin stirbt, gut
+#facs_331_r3l21 anfällt, soll davon kein Abzug geforderet
+#facs_331_r3l22 werden. Geben in Unseren Großen Rahts
+#facs_331_r3l23 Versamlungen vom 22ten April, und 9ten May
+#facs_331_r3l24 1774. wie auch 29t. May 1776.
+#facs_150_r3l11 Canzley Hern.
+#facs_24_region_1628255397587_277l11 en

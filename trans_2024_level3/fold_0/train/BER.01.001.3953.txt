@@ -1,0 +1,158 @@
+Law ID: BER.01.001.3953
+Name: Dass die vier Klöster [...] das Umgelt und Böspfenning hinführo zu bezahlen haben sollen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 147/147
+# High similarity (>=50%): 135
+# Low similarity (<50%): 12
+# Not found: 0
+#
+#facs_188_r2l16 Proiectierte Rechnungs Tagen
+#facs_188_r2l17 der H. Amtl. T. Lands per a: 1748.
+#facs_188_r2l18 1748
+#facs_188_r2l19 Interlater Haus auf Donstag d 25 Janbr
+#facs_188_r2l20 St. Johanser Haus
+#facs_188_r2l21 Oberhofen
+#facs_188_r2l22 Montag den 29ten dto
+#facs_188_r2l23 ssueschaffen
+#facs_188_r2l24 Brienischberg.
+#facs_188_r2l25 Mitboch den 31 Dto
+#facs_188_r2l26 Kriemschberger Haus,
+#facs_188_r2l27 Könitz
+#facs_188_r2l28 Prutigen Dönstag den 1ten Febr.
+#facs_188_r2l29 Erlach
+#facs_188_r3l1 305
+#facs_188_r3l2 17
+#facs_188_r3l3 Februar
+#facs_188_r3l4 Kornherr 12/
+#facs_188_r3l5 und Abrechten Montags den 5ten Dec.
+#facs_188_r3l6 Quchen,
+#facs_188_r3l7 Siechenbaude
+#facs_188_r3l8 Mitbochenden 7
+#facs_188_r3l9 und Abrechnung
+#facs_188_r3l10 interlaten Dienstag den 8ten Dto
+#facs_188_r3l11 Signaub./.
+#facs_188_r3l12 Nidaul Montags den 12 Dto
+#facs_188_r3l13 darberg
+#facs_188_r3l14 prandis Mitboch den 14ten Dec.
+#facs_188_r3l15 reüren
+#facs_188_r3l16 Fraubronen
+#facs_188_r3l17 Landshut dorstag den 15 Dto.
+#facs_188_r3l18 Zurq Dorff Montag den 19ten 8to
+#facs_188_r3l19 lunis bald
+#facs_188_r3l20 Trachselbalch
+#facs_188_r3l21 Boltstalt Mitboch den 21 Dto
+#facs_188_r3l22 Donstag den 22 x
+#facs_188_r3l23 Vorberg
+#facs_188_r3l24 Geltis Beis
+#facs_188_r3l25 Montag den 26n Dto
+#facs_188_r3l26 Insul
+#facs_188_r3l27 Untersuchung
+#facs_188_r3l28 zbey binnen 4.
+#facs_188_r3l29 und Abrechnung Mitbuch d. 28ten. Dto.
+#facs_188_r3l30 laupen.
+#facs_188_r3l31 St. Johansen 13) Donstag d. 29t. dto.
+#facs_188_r3l32 und Abrech
+#facs_189_r3l1 Martias
+#facs_189_r3l2 Stifft um
+#facs_189_r3l3 Montag den
+#facs_189_r3l4 43
+#facs_189_r3l5 Abrechnung
+#facs_189_r3l6 63
+#facs_189_r3l7 Mitboch der
+#facs_189_r3l8 tsun-
+#facs_189_r3l9 7.
+#facs_189_r3l10 ye Raubherr, Dönstag den
+#facs_189_r3l11 von Schurgeren.
+#facs_189_r3l12 11.
+#facs_189_r3l13 Caffelen
+#facs_189_r3l14 Montags dem
+#facs_189_r3l15 Larburg.
+#facs_189_r3l16 Vixx 1um
+#facs_189_r3l17 13c
+#facs_189_r3l18 Abrechnung, Mit boch dem
+#facs_189_r3l19 Arfangen
+#facs_189_r3l20 Rziberstein
+#facs_189_r3l21 14th.
+#facs_189_r3l22 Donstag d.
+#facs_189_r3l23 barnen,
+#facs_189_r3l24 Wimmig und
+#facs_189_r3l25 Abrechnung Montag den 18ten
+#facs_189_r3l26 Ahlen
+#facs_189_r3l27 Wangen
+#facs_189_r3l28 Lenhburg, Mitbochen den 20t.
+#facs_189_r3l29 zofigen
+#facs_189_r3l30 est.
+#facs_189_r3l31 Donstag den
+#facs_189_r3l32 Schreibenberg
+#facs_189_r3l33 Königsfelden. Mit bochen d. 87
+#facs_189_r3l34 groß Schwahl. Dostag den 28.
+#facs_189_r3l35 Rechnungs Tagen
+#facs_189_r3l36 der Weltschen Herren Amtl.
+#facs_189_r3l37 1748
+#facs_189_r3l38 Feld
+#facs_189_r3l39 Wiblischburg 2 seel. Freytags d. 2.
+#facs_189_r3l40 fälterlingen Rech: Samstagsd. 3.
+#facs_189_r4l1 Decr.
+#facs_189_r4l2 Februarij
+#facs_189_r4l3 1748
+#facs_189_r4l4 Gferthen 4t Rech. Freytags d. 9
+#facs_189_r4l5 Milden 6. Rechnung Samstag d. 10ten
+#facs_189_r4l6 d. 16n
+#facs_189_r4l7 von 8 Rech. Freytags
+#facs_189_r4l8 Reubenstalt xyz Recl. Samstagd d. 17ten
+#facs_189_r4l9 Lausanne 5 Rech. Freytag d. 23.
+#facs_189_r4l10 Morsel 4t. Rech. vomstag d. 24ten
+#facs_189_r4l11 Martius.
+#facs_189_r4l12 tivis zweyte Rech: Freytags den 1
+#facs_189_r4l13 aubone 3 Rech. Samstags d. 2ten
+#facs_189_r4l14 8.
+#facs_189_r4l15 v. Weinschenb.
+#facs_189_r4l16 (und Abrech.) Freytagd
+#facs_189_r4l17 Romainmostier 4 Rech. Samstag den 9ten
+#facs_189_r4l18 Reums 6. Rech: Freytag den - 1 5ten
+#facs_189_r4l19 Bonmont 5 Rech: Samstag den 16n
+#facs_189_r4l20 Reglement
+#facs_189_r4l21 das die vier Clöster Fraubronen,
+#facs_189_r4l22 Vorberg, Friemschberg, und Holtstalt
+#facs_189_r4l23 das umgelt und bösffenung hinführo
+#facs_189_r4l24 zu bezahlen haben sollen.
+#facs_189_r4l25 Ald dann von seithen verhöhl. der umgelt
+#facs_189_r4l26 Cammer Rughl. und oberen hinterbrecht
+#facs_189_r4l27 worden, aus bat grunden Sie vermeinen
+#facs_190_r2l1 daß die vier Clöster Fraubronen Thorberg
+#facs_190_r2l2 Trienifferg und Boltstalt von Allem
+#facs_190_r2l3 bey der einten auscheubenden binnen
+#facs_190_r2l4 das ohmgelt und böd Pfenning zu be¬
+#facs_190_r2l5 Zahlen schuldig seyen, sich deßenthals
+#facs_190_r2l6 auff Hochoberkeitl. Ordnungen stüzende
+#facs_190_r2l7 einerseits; anderseits hochged.
+#facs_190_r2l8 Ihr Anl. dann darauf obaus gesetzten
+#facs_190_r2l9 Clösteren stehenden H. Amtl. gegen
+#facs_190_r2l10 Vorwand wider die Bezahlung des
+#facs_190_r2l11 ohngelts und Gämpfenings auch
+#facs_190_r2l12 angehört und vernommen; haben
+#facs_190_r2l13 Repll. und Oberen nach darüber
+#facs_190_r2l14 gemachten Reflectionen, wie auch
+#facs_190_r2l15 in erinnerung daß besagten H. Amt.
+#facs_190_r2l16 in Ao 1744 vor Besatzung dieser
+#facs_190_r2l17 ämteren vorbehalten worden.
+#facs_190_r2l18 birlie jeh beilen dem desenthalten
+#facs_190_r2l19 etbann zu errichtenden Reglement
+#facs_190_r2l20 sich zu unter Ziehen haben sollen,
+#facs_190_r2l21 auch verschiedene Hochoberbeitl.
+#facs_190_r2l22 Ordnungen vorhanden, vermög
+#facs_190_r2l23 deren das umgelt und böd pfennig¬
+#facs_190_r3l1 369
+#facs_190_r3l2 in diesen Clösteren von denen Hl. Amtl.
+#facs_190_r3l3 solle entrichtet werden; hiemit erbaut
+#facs_190_r3l4 und verordnet, daß diesere H. Amtl.
+#facs_190_r3l5 von a: 1744. an da dieser vorbehalt bey
+#facs_190_r3l6 schehen, das Umgelt und bössenig
+#facs_190_r3l7 von allem bey der finden auscheüben.
+#facs_190_r3l8 den bein zu bezahlen, und inde konst¬
+#facs_190_r3l9 tig aus zu richten hiemit schuldig und
+#facs_190_r3l10 verbunden seyn sollen. Actum corum
+#facs_190_r3l11 200. d. 1 Dec: 1747.

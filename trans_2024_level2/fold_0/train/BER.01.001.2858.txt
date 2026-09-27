@@ -1,0 +1,28 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_490
+# Matched: 20/21
+# High similarity (>=80%): 20
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: LawID: BER.01.001.2858
+#facs_388_r2l4 Wegen des Osterdts Prästens im Elsas¬
+#facs_388_r2l4 Wegen des Osterdts Prästens im Elsas¬
+#facs_305_r6l18 Schultheiß und Raht etc.
+#facs_388_r2l6 Weilen zu beförchten, es möchte die im Elsaß vnder
+#facs_388_r2l7 den Pferdten grassierende Seüch, auch in hiesige Landt
+#facs_388_r2l8 gebracht, und dardurch ein merklicher schaden verursachet
+#facs_388_r2l9 werden; habend Wir der nostwendigkeit erachtet
+#facs_388_r2l10 nach dem Exempel anderer benachbahrter Ständen,
+#facs_388_r2l11 hiemit zu verordnen, das die von der herauff kommende
+#facs_388_r2l12 züg= und Reithpferdt bey keinem Wirthen in die Gemei¬
+#facs_388_r2l13 ne Ställ zu anderen Pferdten, sondern in abgesönderte
+#facs_388_r2l14 Ställ gestellet, dieselben auch nit an denen gemein
+#facs_388_r2l15 brünnen getränket, sonderen Ihnen das waßer in
+#facs_388_r2l16 Ihren Stall getragen werden solle: deßen Wir dich hiemit
+#facs_388_r2l17 gleich gegen anderen Ambtleüthen auch beschicht, zur
+#facs_388_r2l18 bewerkstelligung bey den Wiethen benachrichten, anbey aber
+#facs_388_r2l19 auch befeichnen wollen, vns zu berichten, ob hinder deinem
+#facs_388_r2l20 Ambt einiche Pferdt Einheimbsche oder frömbde von
+#facs_388_r2l21 dergleichen Frankheiten gefallen seyen: Gott mit dir!
+#facs_388_r2l22 Dat. 19 Decembris 1704

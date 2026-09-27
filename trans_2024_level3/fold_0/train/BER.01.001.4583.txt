@@ -1,0 +1,167 @@
+Law nr: BER.01.001.4583
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 155/155
+# High similarity (>=80%): 142
+# Low similarity (<80%): 13
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_219_r4l10 alle deuttoch und welche Herren
+#facs_219_r4l11 Amtleut und Schafnern, da Oberkeitl.
+#facs_219_r4l12 Getreyd ligt. Sepr.
+#facs_219_r4l13 Betreyd-Verkauf.
+#facs_27_r3l13 Schultheiß Räth und Burger etc. Über dem
+#facs_94_r3l13 den von Unserenfürgeliebten Mit¬
+#facs_14_region_1633454353484_2800l1 de
+#facs_219_r4l17 der Herren belsch) Bewelmeister im
+#facs_219_r4l18 Vennere und von Unsteren verordneten
+#facs_219_r4l19 Kornhammer uns abgestacteten Vor¬
+#facs_219_r4l20 trag und Bericht über das nach Abzug
+#facs_219_r4l21 les vorrahts und der ordinarie und
+#facs_219_r4l22 quasi ordinarie ausgaben zum Verkauf
+#facs_219_r4l23 übrig bleibende getreyd, haben Wir
+#facs_66_r1l1 124
+#facs_66_r3l1 125
+#facs_70_r2l31 An das T: Laus
+#facs_220_r1l2 für dasd: Land
+#facs_220_r1l4 für das b. Land
+#facs_220_r2l1 zu erkennen gut befunden.
+#facs_220_r2l2 Daß von nun an, aller vorhandene
+#facs_220_r2l3 Kernen und Mistchelborn, und die¬
+#facs_220_r2l4 Helfte aller über den bestimten
+#facs_171_r3l3 dentlich
+#facs_220_r2l6 Vorrath und ausgaben aus¬
+#facs_220_r2l7 terschießenden Winterfrüchten ver¬
+#facs_220_r2l8 silberet werden solle.
+#facs_220_r2l9 Ingleichem daß von nun an, biß
+#facs_220_r2l10 Ersten May die erste Helfte aller
+#facs_220_r2l11 Sommer feuchte mit Anfang Maymonats
+#facs_220_r2l12 aber die übrige Helfte derselben ver¬
+#facs_220_r2l13 kauft werden solle.
+#facs_220_r2l14 Daß alle Sommerfruchte samt dein
+#facs_220_r2l15 halben Theil der über den Vorrath, und
+#facs_220_r2l16 die ordinarie und extra ordinare Ausgaben
+#facs_220_r2l17 vorstchießenden Winterfrüchte, von und
+#facs_220_r2l18 den verstilbert, und zwar die einte
+#facs_220_r2l19 Helfte der Sommer Früchte, von jez biß
+#facs_220_r2l20 auf den ersten May die andere
+#facs_220_r2l21 Helfte aber erst von Anfang des
+#facs_220_r2l22 Maymonats her verkaufft werden solle.
+#facs_220_r2l23 Alles jedoch in dem Verstand, daß
+#facs_220_r2l24 die erste Helfte der Sauerfrüchte
+#facs_220_r3l1 für das welche
+#facs_220_r3l2 kand allein
+#facs_60_r1l1 112.
+#facs_220_r4l2 Hauptstäch zum Anstägen der Felder¬
+#facs_220_r4l3 die übrige Helfte aber nur nach und
+#facs_220_r4l4 nach, und zu kleinen Käufen hingegeben,
+#facs_27_r3l2 werden solle.
+#facs_220_r4l6 Wobey unter fernere Will und Befehl
+#facs_220_r4l7 ist, daß in Ansehung der nur zum Theil
+#facs_220_r4l8 Zu verbauffenden Früchte die Verzeigung
+#facs_27_r5l13 der Schüttenen von Seiten Unserer für¬
+#facs_220_r4l10 Miträhten der Herren welsch Sebel
+#facs_259_r4l10 meister und Venneren den Bericht
+#facs_220_r4l12 von den
+#facs_220_r4l14 befolget werden soll.
+#facs_220_r4l15 angebietenen Schüdtenen dann berdet;
+#facs_220_r4l16 Ihr jedeilen das mindest behältlichste
+#facs_220_r4l17 zu ersten und vor allem aus abstoßig.
+#facs_220_r4l18 Worbey Unter fernere Willen und
+#facs_220_r4l19 Refehl ist, daß von allem Getrey das
+#facs_220_r4l20 schlechtest und mindstbehaltlichste, und
+#facs_220_r4l21 Ibar vorzüglich das von dem lezten
+#facs_220_r4l22 Jahrgang abgestoßen werden solle.
+#facs_105_r2l25 Welchem nach Ihr Euch zu verhalten
+#facs_220_r4l24 und über das erlöfende uns Rech¬
+#facs_220_r4l25 nung zu tragen bestens bißen berdet.
+#facs_312_r2l12 Geben den 15.ten
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_221_r1l2 alle deutsch und welsche Herren
+#facs_221_r1l3 Amtleut, 4. Städt frey weibel
+#facs_117_r5l16 und Amann
+#facs_221_r1l5 Putlitation des Käfer Mandats.
+#facs_221_r1l6 Wir befehlen
+#facs_221_r1l7 Collat. Schulthei und Rath etc.
+#facs_221_r1l8 Euch andurch, das unterm 9. März
+#facs_221_r1l9 1771. - ausgegangene Mandat, ansehend
+#facs_221_r1l10 die ungern oder Maykäfer, in Eüeren
+#facs_221_r1l11 Amt frischer Dingen ungesäumt sub
+#facs_221_r1l12 lizieren, und deßen genaue Exebution
+#facs_221_r1l13 ernsthaft anbefehlen zu laßen.
+#facs_221_r1l14 Dat. den 27ten Mertz 1786.
+#facs_6_region_1633454281779_2775l1 d
+#facs_221_r1l16 Del-Wurzel- und Pulver-Träger
+#facs_221_r1l17 Collat. Vedel an Mehloh. die Commercien
+#facs_221_r1l18 Räth.
+#facs_221_r1l20 Durch die vom 3ten Joachmt
+#facs_221_r1l21 1785 von Mn Ghl. einanierte Verordnung
+#facs_221_r1l22 in betreff des Hufierbesens und
+#facs_221_r1l23 verbott der fremden Kräzenträger
+#facs_221_r1l24 und Colportiürs, ist Ibar Euch Mühlbl.
+#facs_161_r4l13 die Ertheilung der Bewilligungen
+#facs_11_r4l1 42
+#facs_221_r2l2 Verkaufs Patenten für alle Hustierer
+#facs_221_r2l3 ohne Ausnahm überlaßen worden.
+#facs_221_r2l4 Wann aber hierunter auch die Öhl
+#facs_221_r2l5 Wurzel und Pulverträger begriffen,
+#facs_221_r2l6 sind, welche allerhand Arzneyen im Land
+#facs_221_r2l7 herum tragen, mithin auf die Gesund¬
+#facs_221_r2l8 heit der Menschen und S. B. Vieh nahm¬
+#facs_221_r2l9 taften Einfluß haben; So haben
+#facs_221_r2l10 Medehl. erkent: daß aus diesen und
+#facs_221_r2l11 anderen vorhaltenden Betrachtungen,
+#facs_221_r2l12 in Abenderung der Verordnung vom
+#facs_221_r2l13 3ten Juny 1785. dieser Art von Hustiereren
+#facs_221_r2l14 als Ohl-Wurzel und Pulterträgeren,
+#facs_221_r2l15 in Zukunft die Patenten von Mühlehlen
+#facs_221_r2l16 den Sanitet Rähten aus ertheilt werden
+#facs_221_r2l17 stollen.
+#facs_199_r6l12 dessen ihr berichtet
+#facs_221_r2l19 mit dem Frl. anstinnen, in Zukunft
+#facs_221_r2l20 bau jemand für obvermelte Art von
+#facs_221_r2l21 Patenten sich bey titl. anmelden wurde,
+#facs_221_r2l22 selbige zu deren Erhaltung an Mehlöhl.
+#facs_221_r2l23 die Servitaet Räth zu beisen.
+#facs_221_r2l24 Actl. den 26ten April 1786.
+#facs_222_r1l1 129
+#facs_123_r2l1 Collate
+#facs_23_region_1633454616028_2913l1 An
+#facs_221_r1l2 alle deutsch und welsche Herren
+#facs_222_r3l3 Anctleut, und Herrschafts Herren
+#facs_222_r3l4 /: so Stands Glieder sind:/ Sepp:
+#facs_222_r3l5 Mieth und Gaben betreffend.
+#facs_229_r3l7 Schultheiß Räth und Burger pr
+#facs_222_r3l7 Wir haben, nach vorgegangener reiffer
+#facs_222_r3l8 Überlegung nothwendig erachtet, der
+#facs_222_r3l9 in dem rothen Zuch pag. 166. enthaltenen
+#facs_222_r3l10 Ordnung der Mieth und Gaben halb
+#facs_222_r3l11 da es heißet: Leben oder nicht Leben
+#facs_222_r3l12 habende Sachen, wie die auch Namen
+#facs_222_r3l13 haben mögen, folgende Stelle beyzusehen,
+#facs_222_r3l14 Weder zuvor, noch hernach, beder¬
+#facs_222_r3l15 selbst noch durch andere, weder für
+#facs_222_r3l16 sich noch für die Seinigen, wan schon
+#facs_222_r3l17 keine Verabredungen bären toe
+#facs_222_r3l18 gegangen. ohne einehm Unter¬
+#facs_222_r3l19 scheid zu geben und zu nemmen
+#facs_222_r3l20 gänzlich verbotten und abgestrett¬
+#facs_354_r2l23 seyn bollen.
+#facs_222_r3l22 Alles bey Straff nicht nur bey dem
+#facs_222_r3l23 Empfaher des MeineEids, sonderen auch
+#facs_123_r2l1 Collate
+#facs_222_r5l1 430
+#facs_222_r5l2 dem, der einiche Gaben in dergleichen
+#facs_222_r5l3 fählen geben oder nur anbieten Burde
+#facs_222_r5l4 fer Verstoßung etc.
+#facs_222_r5l5 Welches Euch hiermit einberichteten
+#facs_222_r5l6 bird, mit dem beyläufigen Sefelchlichen
+#facs_222_r5l7 Auftrag, euch solches in Vorfallenheit
+#facs_222_r5l8 zur Vorschrift dienen zu laßen.
+#facs_222_r5l9 Datl. den 28ten Aprill 1786.

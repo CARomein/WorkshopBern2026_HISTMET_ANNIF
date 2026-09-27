@@ -1,0 +1,58 @@
+Law ID: BER.01.001.1864
+Name: Dem Obrist Nevrony, seine Trouppes passieren zelassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 47/47
+# High similarity (>=50%): 45
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_248_r3l20 3
+#facs_248_r3l21 ohrts ein Zeschreiben
+#facs_248_r3l22 Neüis, Nydouw Erlach, Allen.
+#facs_248_r3l23 llf
+#facs_248_r3l24 dem Obrist Nevrony, seine trouppes
+#facs_248_r3l25 pasieren Ztlaßen
+#facs_248_r3l26 Schuldtpris undt Raht
+#facs_248_r3l27 Der Collonel Nevrony, hat eines Zeuernemmen
+#facs_248_r3l28 geben laßen, was maßen er zur Diensten der
+#facs_249_r3l1 Durchleuchtigsten Herrschafft Venedig, um fünf hundert
+#facs_249_r3l2 Mann, so wol hinder Genff als Neuwenburg Zewerbe,
+#facs_249_r3l3 vorhabtes seye, vnns vmb den Paß für solche ge¬
+#facs_249_r3l4 wordene Trouppes ersuchende, Welches wir ihnen
+#facs_249_r3l5 hiemit verwilliget um dem Verstandt daß er keiner
+#facs_249_r3l6 der Küstern Pfwiglen und abfüren solle, Dir disen
+#facs_249_r3l7 nach bemerchende, Wann der gleichen Völker bey die
+#facs_249_r3l8 anlangen möchten, selbige vngehindert passieren Ze-
+#facs_249_r3l9 laßen, gedaen Vnder fleißiger Aufsicht undt er¬
+#facs_249_r3l10 forschung, ob nit etwan vnserer Unterthanen darund
+#facs_249_r3l11 begriff sey mögten, die du vff den fahl anzuhalten
+#facs_249_r3l12 vndt uns deßen Zuberichten wol wüßen wirst.
+#facs_249_r3l13 L. vndt daß er auch zwischen Greff undt Pausanna
+#facs_249_r3l14 prombdr Furst auf Dingen möge,
+#facs_249_r3l15 Datum den 20 Marty 1669
+#facs_249_r3l16 An alle T. A. Sie vf ihre Rechnung
+#facs_249_r3l17 beschreiben
+#facs_249_r3l18 Schuldtpais unndt Raht.
+#facs_249_r3l19 Wir haberei den Tag zur Ablegung Deiner Herige
+#facs_249_r3l20 Amots Rechnung, wie Vnsere fürgeliebte Mittehät,
+#facs_249_r3l21 tot
+#facs_249_r3l22 Er desalmeister Vnndt Vennere solchen angesetzt und
+#facs_249_r3l23 bestimmt, bey Zeiten zuuor, die, wie hiemit beschieht
+#facs_249_r3l24 verwendigen wöllen, benantlichen Montag die
+#facs_249_r3l25 3. May nechst
+#facs_249_r4l1 kunfftig: Mitt dem beuelchlichen Hin zur Thun, daß
+#facs_249_r4l2 du denselben, ohne selbst anmaßende Verlengerung,
+#facs_249_r4l3 Zebesuchen, auch (in par tag daruor, die Rechnung
+#facs_249_r4l4 Jedem sonderbar zuerschouren zugeben. Vndt die
+#facs_249_r4l5 Restantz so du vern schuldig verbliben sein magst
+#facs_249_r4l6 dem Besatz nach, Inn parem gelt, (zue sambt
+#facs_249_r4l7 demme Comittatur an die Überlendischen) so du
+#facs_249_r4l8 uß anbefolcheer maßen verkaufftem Getreidt er
+#facs_249_r4l9 löst haben wirst magst, mit dir zebringen wußest:)
+#facs_249_r4l10 Zue samt einer Verzeichnus des, bey deinem yntrit
+#facs_249_r4l11 Im Unserem Hauß, die Übergebnen Hausrahtt, munition
+#facs_249_r4l12 armatur undt was der gleichen sein mag. Alß wie
+#facs_249_r4l13 vnns Ed. Datum 24. Marty 1669.

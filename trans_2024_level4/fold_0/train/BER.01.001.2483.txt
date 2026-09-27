@@ -1,0 +1,86 @@
+Law ID: BER.01.001.2483
+Name: Fürkauff dess Viehs verpieten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 75/75
+# High similarity (>=50%): 72
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_519_r2l13 An alle Amptleüts im oberlandt
+#facs_519_r2l14 Ammenthal, ober und under Ärgenüb
+#facs_519_r2l15 auch freyweiball und Amman
+#facs_519_r2l16 Bürkauff des Viehs Verpieten
+#facs_519_r2l17 Schultheis Räht und Burger etc.
+#facs_519_r2l18 Auf die Unß Vorkommenen Villfälltigen und Landtschedlichen
+#facs_519_r2l19 Mißbrauch, so mit Erhandlung des großen und gemäßete
+#facs_519_r2l20 Reichs vorgehen, indem allerley fürkauff mit demselben
+#facs_519_r2l21 umbsollches den Vßeren und frömdten Metzteren hinzu
+#facs_519_r3l1 981
+#facs_519_r3l2 e-
+#facs_519_r3l3 geben getrieben wirt allso daß selbige in Rechte
+#facs_519_r3l4 weis nit mehr zubekommen, habend wir auß oberkeitliches
+#facs_519_r3l5 obligenheit Vnsere Vorige deswegen außgangene Mandas
+#facs_519_r3l6 und Verpott dahin zum öffteren erfrischen laßen, daß
+#facs_519_r3l7 allen Vnseren Vnderthanen und Landtsäßen, der auff¬
+#facs_519_r3l8 vnd für kauff allein in der maas und anderst nit zugelaßen
+#facs_519_r3l9 sein solle, sie behallt und dan sollch erkaufftes Viech ob
+#facs_519_r3l10 Ihrem eignen futer Sechswochen und drey Tag lang bey
+#facs_519_r3l11 Zechen Pfunden bus, von Jedem vor das vorgesetzten Zeit
+#facs_519_r3l12 allso enteüßerten und wider Verkaufften Stuck Reich von
+#facs_519_r3l13 dem überträllenden ohne schonen Zubezeichen, wann aber
+#facs_519_r3l14 von Unseren Lieben angehörigen und getreülden bürgeren
+#facs_519_r3l15 einer gesambten Ehrsamen Meisterschafft des Malzger¬
+#facs_519_r3l16 handtwercks allhier vnß beschwährungsweis anbracht
+#facs_519_r3l17 werden, wie ungebunden es annoch mit dergleichen für
+#facs_519_r3l18 kauff hergange, und gleichsamb kein gemestetes Reich
+#facs_519_r3l19 mehr zubekommen seye, es seye dann durch die dritte oder
+#facs_519_r3l20 Vierte handt bereits geloffen, indem fürbeuffler
+#facs_519_r3l21 sollbiges Vor und an den Mariten auf kauffind, darauf
+#facs_519_r3l22 Allsoballd wider Feil halltin, oder auf einen anderen
+#facs_519_r3l23 Marit Jagind, und allso jeder Zeit in dem Preis aufsteiges
+#facs_520_r2l1 I
+#facs_520_r2l2 alls könnend wir wohl abmessen, daß obgedeuten
+#facs_520_r2l3 Unseren Mandaten schlechtlich handt gehallten
+#facs_520_r2l4 werde, gestallten wir die hiemit über die begehrte
+#facs_520_r2l5 vernere Vorsehung zu insinuieren Unß benöthiget
+#facs_520_r2l6 befunden, daßellbe früscher dingen dahin offentlich
+#facs_520_r2l7 von Cantzken Verkunden zulaßen, daß so viell
+#facs_520_r2l8 Den fürkauff des großen Mast Viehs betrifft, es
+#facs_520_r2l9 seye daß selbiger in dem Stall ob dem Dürren
+#facs_520_r2l10 Huter oder auf denen bürgen und weyden ob dem
+#facs_520_r2l11 Kraut gemeset werden, derselbe Unseren
+#facs_520_r2l12 Vnderthanen anderst nit zugelaßen sein solle, er
+#facs_520_r2l13 Hallte dann dersellben einer sein Erhandtleten
+#facs_520_r2l14 Reich sechs wochen und drey tag lang ob seinem
+#facs_520_r2l15 eigenen Füeter oder seinem Graas auf den bärgen
+#facs_520_r2l16 oder beiden alles bey Straff der Confiscation enß
+#facs_520_r2l17 Reichs, mit wellchem wider dieses Vnsers Einsahme
+#facs_520_r2l18 für kauff getrieben würde, da darvon ein Drittel
+#facs_520_r2l19 dem Verleider ein anderer Vnserem Amptmann
+#facs_520_r2l20 des ohrts da er fahl sich zutragt underr übrig
+#facs_520_r2l21 Drittel Vns heimbdinnen soll, die sollchem nach gantz
+#facs_520_r2l22 Ernstmeinen befellchende darob geflißenlich und bey
+#facs_520_r2l23 einem geschlohrnen Eydt zuhallten, die fählbahre
+#facs_520_r3l1 983
+#facs_520_r3l2 nach Inhalt deßullben abzustraffen, und allso diesen
+#facs_520_r3l3 klagten abzuhellffen, wo nit so weiters nachgesehen
+#facs_520_r3l4 und die Meisterschafft daß wegen sich bey Unß verners
+#facs_520_r3l5 anmelden wurde, wirstu deiner saumbseligkeit, und
+#facs_520_r3l6 schlechter handt obhältung hallb vor vnß versprechen
+#facs_520_r3l7 nüßen, gestallten du dich hiemit zu verhallten läßen
+#facs_520_r3l8 Wirst, doch bleibet annoch unverbotten denen Vßeren
+#facs_520_r3l9 Vieh in Vnseren Landen nach allter Freyheit zuerhandlen
+#facs_520_r3l10 und äußert Landt zuferggen; Item auch unseren
+#facs_520_r3l11 Vnderthanen das Mastreich, nachdemme sie dasellbe
+#facs_520_r3l12 a
+#facs_520_r3l13 Recht wochen und drey tag lang ob dem Dürren
+#facs_520_r3l14 Eueter oder ob dem graas erhallten haben, Ihres
+#facs_520_r3l15 beliebens in oder aussert unseren Landen zu verbauffen,
+#facs_520_r3l16 das übrige Vrich aber so nit für Mast Reich zurechnen, alles
+#facs_520_r3l17 zug stieren und dergleichen, mögen Vnsere Nnderthanen
+#facs_520_r3l18 auch wohl Ihres beliebens kauffen Vnd wider Ver¬
+#facs_520_r3l19 bauffen, wie sie gedencken Ihr nutz sein werde.
+#facs_520_r3l20 Datum 6. May 1691.

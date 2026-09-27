@@ -1,0 +1,41 @@
+Law ID: BER.01.001.4002
+Name: Jäger- Mandat.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 30/30
+# High similarity (>=50%): 28
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_100_r1l1 188
+#facs_100_r1l2 Collats
+#facs_100_r2l1 Jächer, Mandat.
+#facs_100_r2l2 Thorberg im Banchen Ambt, Item
+#facs_100_r2l3 -
+#facs_100_r2l4 Bölligen, Biglen, Hochstecken vom
+#facs_100_r2l5 Canzlen zu verlesen und in der
+#facs_100_r2l6 Haubt Stadt an die Pfeiler zu schlage.
+#facs_100_r2l7 Demnach Unsere Gnätige Herren
+#facs_100_r2l8 Wehrgenommen, daß seith etwelchen
+#facs_100_r2l9 Jahren daher durch inmäßiges
+#facs_100_r2l10 Jegen die stehe Sterle erodet worden,
+#facs_100_r2l11 Demnoch aber in Überbliebsel in den
+#facs_100_r2l12 Thorberg Waldungen sich befinden soll,
+#facs_100_r2l13 Haben Hochgedacht Unsere Gnädige
+#facs_100_r2l14 Herren zu deren wieder empflan¬
+#facs_100_r2l15 zung nöhtig erachtet, folgende Wal¬
+#facs_100_r2l16 dungen von nun an in Bahn zu
+#facs_100_r2l17 legen, als daselbach, Rauschboden,
+#facs_100_r2l18 Brauw Holz und Allment-Holtz, Alster
+#facs_100_r2l19 und dergestalten, daß manigliche
+#facs_100_r2l20 hierdurch verbocken ist, in gedachten
+#facs_100_r2l21 Vier Waldungen einiches Rehe zur
+#facs_100_r2l22 Jagen, und zu fällen, bey Hundert Pfunden
+#facs_100_r4l1 189
+#facs_100_r4l2 id
+#facs_100_r4l3 ohnnachläßlicher Buß von jedem Stuck
+#facs_100_r4l4 Welchem nach nun Manigl. sich vor
+#facs_100_r4l5 schaden zu hueten wüßen wird. Act. d. 16.
+#facs_100_r4l6 Decembris 1751.

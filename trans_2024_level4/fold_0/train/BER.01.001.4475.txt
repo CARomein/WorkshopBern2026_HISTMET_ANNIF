@@ -1,0 +1,94 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 86/87
+# High similarity (>=80%): 79
+# Low similarity (<80%): 7
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4475
+#facs_91_r5l13 Getreis zu verkaufen anbefohlen,
+#facs_178_r7l2 a a
+#facs_122_r3l17 alle deutsche Herren Amtleut und Schaffnere,
+#facs_122_r3l18 da Obrigkeitlich Getreid ligt.
+#facs_122_r3l19 Betreis zu verkaufen anbefohlen.
+#facs_309_r5l16 Schultheis Rath uns Bürger etc
+#facs_122_r3l21 Über den von Unseren fürgeliebten
+#facs_122_r3l22 Mit Räthen denen Herren Deutsch Sebel,
+#facs_122_r3l23 Meister und Veneren und Unserer
+#facs_122_r3l24 verordneten KornCammer uns gemachten
+#facs_221_r1l34 an die Amt¬
+#facs_22_r4l39 Erlach
+#facs_122_r4l3 St. Johansen und
+#facs_122_r4l4 Nydan allein
+#facs_122_r4l5 #an die Unter¬
+#facs_122_r4l6 Schulenberg, Lenzi¬
+#facs_38_r2l21 und Biberstein alle
+#facs_88_r1l2 An die Ämter
+#facs_56_r1l21 6 Schenbenberg
+#facs_122_r4l10 und Tiberstein allein
+#facs_122_r5l1 339
+#facs_122_r5l2 Vortrag; betreffend das auf Martini 1779
+#facs_122_r5l3 eingegangene Obrigkeitliche Betreid,
+#facs_122_r5l4 haben Wir gut befunden und erkent.
+#facs_122_r5l5 Es solle vor einmahl, und biß auf Unser
+#facs_122_r5l6 weiteren bestimten Befehl, weder an
+#facs_122_r5l7 dinbel noch Waizen nicht das mindeste
+#facs_122_r5l8 Verkauft, von dem Roggen + (und Michelborn),
+#facs_122_r5l9 Dann nur die Helfte abgestoßen= hingegen
+#facs_122_r5l10 aber # (aller Kernen so wie auch) die Sommer
+#facs_122_r5l11 Früchte, welche über den bestimten Vorrath
+#facs_122_r5l12 aus, und nach Abzug der ordinari uns
+#facs_122_r5l13 quasi ordinari Ausgaben, von sothanem
+#facs_122_r5l14 Obrigkeitlichen Betreid vorschießen werden
+#facs_122_r5l15 gänzlich tersilberet werden; der Meinung
+#facs_122_r5l16 jedoch, daß von dato an, biß auf den 1ten
+#facs_122_r5l17 May nächstbönftig, nur die erstere Helfte
+#facs_122_r5l18 der Sommerfrüchten, und so dann erst mit
+#facs_122_r5l19 Anfang des Maymonats die andere
+#facs_122_r5l20 Helfte 4 (der Kernen aber von nun an)
+#facs_122_r5l21 abgestoßen und verkauft werden solle;
+#facs_80_r2l14 Worbey Unser Will und Befehl in fernerem
+#facs_122_r5l23 dahin gehet, daß in ansehen dieser verkaufen
+#facs_122_r5l24 Früchten, die Verzeigung der Schuckenen
+#facs_122_r5l25 von seiten Unserer fürgeliebten Mit¬
+#facs_122_r5l26 Räthen der Herren deutsch Bekelmeister
+#facs_19_region_1629824098864_357l1 34
+#facs_123_r2l1 das eingeblammer
+#facs_123_r2l2 an die 3. Schal.
+#facs_123_r2l3 nierungen in der
+#facs_123_r2l4 Stadt allein.
+#facs_125_r3l9 und vonneren erbartet, dabey die
+#facs_123_r3l2 gewöhnlichen Praecautionen genommen.
+#facs_222_r3l8 mithin das zu verkaufende Getreis
+#facs_123_r3l4 nicht denen Händteren Enbloc und zum
+#facs_123_r3l5 voraus versprochen- sondern nur zu
+#facs_123_r3l6 kleinen kaufen, in lauffendem Preis¬
+#facs_123_r3l7 verkauft- und von denen angewiesenen
+#facs_123_r3l8 Schüdtenen vor allem aus das mindest
+#facs_123_r3l9 behältliche Getreis abgestoßen, ins
+#facs_123_r3l10 besonders dann die Sommerfrücht vor¬
+#facs_123_r3l11 züglich zu Anblümung der Felderen
+#facs_123_r3l12 hingegeben, auch erst denzumalen
+#facs_125_r3l20 völlig verkauft werden sollen, wann die
+#facs_123_r3l14 Sommer Saat in Eüerem Amt, und in
+#facs_123_r3l15 denen Gegenden, von welchen der
+#facs_123_r3l16 Daamen dazu in demselben angekaufft
+#facs_123_r3l17 wird, vollkommen wird besorget seyn.
+#facs_123_r3l18 Den Haber ins besonders betreffend,
+#facs_123_r3l19 ist Unser Wille, daß ihr das zu verkauff¬
+#facs_123_r3l20 labende in der Stadt ligende quantum,
+#facs_123_r3l21 weder denen Händlern versprechen noch
+#facs_123_r3l22 verbauffen = sondern solches zu Speisung des
+#facs_123_r3l23 hiesigen Korn Markts, alda nach und nach aus¬
+#facs_123_r3l24 stellen = öffentlich feil bieten, und zu kleine
+#facs_123_r3l25 Kauffen, in laufendem Preis, und en
+#facs_102_r1l2 Collt
+#facs_22_r4l1 41
+#facs_123_r5l2 Détail verkaufen laßen= zumahl des Sthalb
+#facs_123_r5l3 die Direction Unserer verordneten Korn¬
+#facs_123_r5l4 Cammer befolgen werdet.
+#facs_88_r2l9 Welchem nach Ihr Euch zu verhalten
+#facs_123_r5l6 wißen, und über das erlosende Uns
+#facs_123_r5l7 gebührende Rechnung tragen werdet.
+#facs_123_r5l8 Dath. d. 11ten February 1780.
+#facs_178_r8l1 en

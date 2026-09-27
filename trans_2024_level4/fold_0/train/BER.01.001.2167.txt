@@ -1,0 +1,80 @@
+Law ID: BER.01.001.2167
+Name: Wegen Fürkauf des Veichs.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 69/69
+# High similarity (>=50%): 63
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_219_r4l25 Trachselwaldt Branditz
+#facs_219_r4l26 the
+#facs_219_r4l27 Vnß Erwegen, Signon, Thun, Burgdorff, Thorberg, Zweysimen
+#facs_219_r4l28 Landtgericht sefftigen, vnd Konolfingen, wegen fur
+#facs_219_r4l29 der Reichs
+#facs_219_r4l30 Demnach wie
+#facs_219_r4l31 is the said
+#facs_219_r4l32 s
+#facs_219_r4l33 Ausnadtheiß und Raht der Statt hern
+#facs_219_r4l34 Auff die vielfaltig einkommen, klagten vns benötiget befund¬
+#facs_219_r4l35 mit Ehesamme Meisterschafft des Mezger Handtwercks alhier
+#facs_219_r4l36 des bei disen leüffen vnd zeiten all zu hoch gestügenen fleis¬
+#facs_219_r4l37 Paper vmb ein was einzuschräncken, habends sie was zu wesen
+#facs_219_r4l38 Verwunderung angezeigt, wie hoch darwohl gemeßete vnd
+#facs_219_r4l39 gestiegen, vnd wie es in auffkauff- vnd entußerung deßelben
+#facs_219_r4l40 hergehe, also daß Sie anstehend, vnnd bald mit mehr wüßen.
+#facs_219_r4l41 wo solches zuerhandlen sein werde, vnd fürnemlich daher
+#facs_219_r4l42 komme, weilen die alten ordnungen genzlich auß der acht gelaßen
+#facs_219_r4l43 und aller fürkauff in mehr und mehr fürgenommen vnd gestaltet
+#facs_219_r4l44 werde, vns dahero mit eingebung einer Verzeichenß
+#facs_219_r4l45 alles deren so sich solchen vnxuläßlichen fürkouffs vnderwundendend,
+#facs_220_r2l1 Vmb das erforderliche einsehen ankehrend, und nun ob
+#facs_220_r2l2 angedeüte alte Ordnung unter anderem auch wohl
+#facs_220_r2l3 Exprimiert, daß einer, sie ein oder mehr stuck Rindt
+#facs_220_r2l4 Weich erhandlet, solches ehe er daßelbe widerumb zu
+#facs_220_r2l5 ner kauffen befürgt, sechs zwachen lang ob seinen
+#facs_220_r2l6 eigenen Futer zuerhalten schuldig; Alß habend wie
+#facs_220_r2l7 Zu abhaltung der Jenigen, welche sich solchen Bürkow
+#facs_220_r2l8 nur allzu viel weder windend, gutfunden, dis alte
+#facs_220_r2l9 einsachen, Wie hiemit beschicht, widerumb zu
+#facs_220_r2l10 erftischen, mit Bremen hiemit an dich, Deine Ambts
+#facs_220_r2l11 angehörige, vnd mit nahmen, die in eingeschloßner
+#facs_220_r2l12 Verzeichnus anzogne herpchnen, von solchem
+#facs_220_r2l13 kauff ab- und zu fleißiger beobachtung dises
+#facs_220_r2l14 Articuls anzuhalten, auch die Übertreiches ohne
+#facs_220_r2l15 Verners schonen in die bestimte Straff zuziehen
+#facs_220_r2l16 Datum 15. Februarij 1679.
+#facs_220_r2l17 Trachselwaedt
+#facs_220_r2l18 Peten Ellenberg und sein Sohn
+#facs_220_r2l19 Inß Burckhardt
+#facs_220_r2l20 Hans Dubaen der oberwihrt
+#facs_220_r2l21 Joseph Haßlibacher.
+#facs_220_r4l1 ius.
+#facs_220_r4l2 An die T- und W. Ambtleut
+#facs_220_r4l3 Sie auff Ihre Rechnungen beschreiben.
+#facs_220_r4l4 vnsere Sürgebibt
+#facs_220_r4l5 Buldtheis und Raht der Stadt Jern etc.
+#facs_220_r4l6 Quiträht Teütsch Seckelmeister und Vennere, habend zum
+#facs_220_r4l7 abhörung deiner diß Jährigen Ambts Rechnung, tag angesz¬
+#facs_220_r4l8 Sonstag den 1. May nechst künfftig: dessen wolten wir
+#facs_220_r4l9 dich hiemit zu dem und berichten, daß du solchen Tags
+#facs_220_r4l10 mit Deiner Rechnung zuerscheinen, dieselbe bevorderst
+#facs_220_r4l11 auch nohte endiger Orten zu communicieren, sonderlich
+#facs_220_r4l12 ber in der Secklschreiberey Zeubergeben denßest
+#facs_220_r4l13 der du auch die Zehndrödel mitzebringen, vnd was ein
+#facs_220_r4l14 oder an Ambts restantz schuldig sein mag, zugleich
+#facs_220_r4l15 Vatp: 26
+#facs_220_r4l16 february 1679
+#facs_220_r4l17 gutzemachen haben Wirt. Godt mit dir
+#facs_220_r4l18 3
+#facs_220_r4l19 Sedel, an die in der Statt
+#facs_220_r4l20 Es haben meine Hochgeehrte Herren Teütsch Seckelmeister
+#facs_220_r4l21 vnd Venuwe sich zur abhörung eüwer Ambtsrechnung
+#facs_220_r4l22 stag angesezt und mit wochen den 21 May negst künfftig
+#facs_220_r4l23 und wordend Ihr deßen hiemit zu dem end bei Zeiten
+#facs_220_r4l24 berichtet, daß Ihr euwere Rechnung bis dahin ferti¬
+#facs_220_r4l25 zu machen, vnd bestimten Tags, seines orts abzulegen.
+#facs_220_r4l26 beuonderst aber gewohnter maßen, bei Hanß Prcommaicui
+#facs_220_r4l27 ﻿Müsinde Acta 26 february 1679

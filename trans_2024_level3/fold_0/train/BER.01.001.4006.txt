@@ -1,0 +1,99 @@
+Law ID: BER.01.001.4006
+Name: Verkauff frömder Hüeten im Land - aussert in denen Jahr Märkten - verbotten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 88/88
+# High similarity (>=50%): 83
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_104_r2l12 Signalement
+#facs_104_r2l13 Conrad Mathey, ohngefehr 27. Jahr.
+#facs_104_r2l14 alt mittelmäßiger Statur, hat eine
+#facs_104_r2l15 Schwarzen Barth, ein feites Angesicht
+#facs_104_r2l16 Schönerz kreuße Haar, und Schwarzer
+#facs_104_r2l17 Augen
+#facs_104_r4l1 197
+#facs_104_r4l2 Une
+#facs_104_r4l3 Thun, Interlaten, wimmiß, zweysimmen,
+#facs_104_r4l4 Frutigen und Sanen Sepp
+#facs_104_r4l5 Verkauf Freinder Hüeten im Land. /:
+#facs_104_r4l6 äußert an denen Jahr Markten :/
+#facs_104_r4l7 Verbotten
+#facs_104_r4l8 Schultheiß und Rast etc.
+#facs_104_r4l9 Nachdeme uns mit mehrerem
+#facs_104_r4l10 hinterbracht worden die Beschwurden
+#facs_104_r4l11 der Meisterschafft Hutmacher-Handt¬
+#facs_104_r4l12 werks zu Thun; Über den,
+#facs_104_r4l13 Seithen der Bauren = Krämerei, und
+#facs_104_r4l14 Land Treibenden Gewerb und Handlung
+#facs_104_r4l15 mit frönden Hieten als welches zu
+#facs_104_r4l16 Großem Rachtheil der erstehen gereich¬
+#facs_104_r4l17 et, und deßmachen das Ansuchen
+#facs_104_r4l18 an Unß beschechen, daß Wir hier¬
+#facs_104_r4l19 wieder das gemeßene Einsachen
+#facs_104_r4l20 und Vorstorge zu Thun Uns Gefallen
+#facs_104_r4l21 laßen möchten; Habens wir im
+#facs_104_r4l22 Erwegung der billichkeit und in
+#facs_105_r2l1 dem Abstehen, gesachter Profession
+#facs_105_r2l2 mehreres aufzuhelften, den
+#facs_105_r2l3 Vertrieb Ihrer waar zu beförseren,
+#facs_105_r2l4 uns in so weith der Gelts ver¬
+#facs_105_r2l5 äußerung vorzubiegen, der
+#facs_105_r2l6 ohnungänglichen nohtwendigkeit.
+#facs_105_r2l7 erachtet, unsere, hiebevor aus¬
+#facs_105_r2l8 gangene Ordnungen zu wieder¬
+#facs_105_r2l9 holen, und zu erlauteren, In¬
+#facs_105_r2l10 naßen Unser Will und Befehl
+#facs_105_r2l11 dieser ist, daß die einbringung
+#facs_105_r2l12 Gewerb und Verkauff aller Frömder
+#facs_105_r2l13 Hueten fürohin Maniglich /: äußert
+#facs_105_r2l14 denen Meisterschafften dieser
+#facs_105_r2l15 Profession zu Stadt und Land, so die
+#facs_105_r2l16 Jahr Markt noch ferners besuchen
+#facs_105_r2l17 mögen) abgestrebt und verboiten
+#facs_105_r2l18 seyn solle, und zwar sowohl an
+#facs_105_r2l19 gemeinen Jahr, als Wochen, Marren
+#facs_105_r2l20 Ostentl. und Heiml., bey Straffe der
+#facs_105_r2l21 Confiscation, und vierzig Pfunden Buß
+#facs_105_r3l1 199
+#facs_105_r3l2 von jedem Rehlbahren zu beziechen,
+#facs_105_r3l3 von welcher Confiscation und Bueß ein
+#facs_105_r3l4 dritel dem Verleider ein Drittel dem
+#facs_105_r3l5 Ambtsmann deß Ohrts und ein dritel
+#facs_105_r3l6 Unß der Oberkeit heimdienen wirs.
+#facs_105_r3l7 Damit aber die Land-Krämere, so mit
+#facs_105_r3l8 dergleichen waar würklich versehen,
+#facs_105_r3l9 genugsamme Zeit habend, sich deren
+#facs_105_r3l10 abzuthun, wollen Wir Ihnen den
+#facs_105_r3l11 Verkauff in Ihren Nkram-Läden,
+#facs_105_r3l12 biß ersten Herbstmonat nächstkrüffig
+#facs_105_r3l13 annoch vergunstigen nach ausgeloffe¬
+#facs_105_r3l14 nem diesem Termin, soll denselben
+#facs_105_r3l15 alle Handlung mit Hürten, wie
+#facs_105_r3l16 obgemelt, verboten seyn, und Sie
+#facs_105_r3l17 fahl der übertreibung nach dieser
+#facs_105_r3l18 Ordnung ohne schönen angesehen werden,
+#facs_105_r3l19 Wir bewilligen denen Hutmacheren
+#facs_105_r3l20 ler, mit Unß verbürgerten Böbl.
+#facs_105_r3l21 Ständen Fryburg und Sollothurn, die
+#facs_105_r3l22 offene Jahr-Märkte noch ferners zu
+#facs_105_r3l23 besuchen, und Ihre waar zu debitieren.
+#facs_106_r3l1 Sie sollen aber allwegen glaub¬
+#facs_106_r3l2 würdige Certificat mitbringen
+#facs_106_r3l3 aufweisen, daß die Hürte von
+#facs_106_r3l4 Ihrer eygenen Fabrique seyen.
+#facs_106_r3l5 "
+#facs_106_r3l6 Diese Unsere Verordnung
+#facs_106_r3l7 werdet Ihr /: Gleich wie anderer
+#facs_106_r3l8 Ohrten deß Oberlands auch beschicht:/
+#facs_106_r3l9 mit Beförderung von Canzlen
+#facs_106_r3l10 durchgehends verbunden gewohn¬
+#facs_106_r3l11 Vier maßen anschlagen, und zu
+#facs_106_r3l12 künfftiger Nachricht einschreiben
+#facs_106_r3l13 laßen, anbey, daß deren nach¬
+#facs_106_r3l14 gelebt werde, Hand obzuhalten.
+#facs_106_r3l15 bestens wüßen. Datum d. M.
+#facs_106_r3l16 Februarij 1752

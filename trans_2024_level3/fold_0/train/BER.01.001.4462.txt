@@ -1,0 +1,37 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 30/30
+# High similarity (>=80%): 28
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_53_r2l7 Wegen der in hiesiger Haubtstadt und darzu
+#facs_41_r4l3 a-
+#facs_53_r2l2 Die Cänzel hiesiger Haubtstadt, denn bey dem
+#facs_53_r2l3 aüßeren Krankenhaus, und in dem Äußeren
+#facs_53_r2l4 Spittahl
+#facs_53_r2l5 Auf Sontag den 6ten diß vor der Morgen Predig¬
+#facs_53_r2l6 zu verlesen.
+#facs_53_r2l7 Wegen der in hiesiger Haubtstadt und darzu
+#facs_53_r2l8 dienenden Districten grassierenden Rohten Ruhr
+#facs_53_r2l9 eine freywillige Steur aufzunemen.
+#facs_5_region_1629374639367_453l1 6
+#facs_53_r2l11 Da Meghhl. und Obern Räht und Burger
+#facs_53_r2l12 aus Landes Vädterlicher Sorgfalt gut befun¬
+#facs_53_r2l13 den und Erkent: daß in denen gegenwär¬
+#facs_53_r2l14 tig vorwaltenden Umständen, da die Rohte
+#facs_53_r2l15 Ruhr starb grassieren thut, zu gönsten der
+#facs_53_r2l16 in hiesiger Haubtstadt und darzu dienende
+#facs_53_r2l17 Districten sich befindlichen vielen Raht
+#facs_53_r2l18 und Mangel leidenden Kranken, und zu
+#facs_53_r2l19 derselben mehreren Hilf und Trost, in samt
+#facs_53_r2l20 lichen Kirchen dieser Haubtstadt auf nächs¬
+#facs_53_r2l21 bevorstehenden H. Räckag eine freywillige
+#facs_53_r2l22 Steüer aufgenommen werden solle; Als wird
+#facs_53_r2l23 ein solches hiemit offentlich bekant gemacht
+#facs_53_r2l24 damit Mäniglich zu erweisung eines solchen
+#facs_53_r2l25 Gotsgefälligen Christlichen Liebeswerk, sich
+#facs_53_r2l26 verfaßt machen können. Act. d. 2ten Septl. 1778
+#facs_20_region_1629824215073_404l_6 Cantzley Bern.
+#facs_178_r8l1 en

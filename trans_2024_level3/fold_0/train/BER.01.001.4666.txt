@@ -1,0 +1,102 @@
+Law ID: BER.01.001.4666
+Name: Wegen Abnahm der französischen Duplonen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 91/91
+# High similarity (>=50%): 91
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_123_r2l1 An
+#facs_123_r2l2 alle deutsch und belschen Herren
+#facs_123_r2l3 Amtleute.
+#facs_123_r2l4 gegen Abmichin der Französischen
+#facs_123_r2l5 Duplonen
+#facs_123_r2l6 Schultheis Räth und Burger.
+#facs_123_r2l7 zu Erleichterung des Handels, wollen
+#facs_123_r2l8 Wir bis auf fernere Verordnungen
+#facs_123_r2l9 jedermaniglich freystellen die¬
+#facs_123_r2l10 auf 156. buzen gebürdigte ganz-
+#facs_123_r2l11 neue französische Ruplanen, gleich¬
+#facs_123_r2l12 bie auch übrige in Unferen
+#facs_123_r2l13 Münz Verordnungen erlaubte
+#facs_123_r2l14 Goldforten nach gutbefinden.
+#facs_123_r2l15 abzunehmen; wie solches des mehreren
+#facs_123_r2l16 in einligender Publication ent¬
+#facs_123_r2l17 halten ist, davon wir Euch genug,
+#facs_123_r2l18 same Exemplar zusenden mit dem
+#facs_123_r2l19 Gefelch, solches behörig bekant machen,
+#facs_123_r2l20 und an denen gebohnten Orten
+#facs_123_r2l21 Datl:
+#facs_123_r2l22 anschlagen zu laßen.
+#facs_123_r2l23 den 29ten Mevi 1790
+#facs_123_r4l1 241
+#facs_123_r4l2 Verordnung.
+#facs_123_r4l3 Wir Schulthersz klern u: große
+#facs_123_r4l4 Räthe der Stadt u. Republik dern,
+#facs_123_r4l5 daß, in Auf¬
+#facs_123_r4l6 thun kund hiemit.
+#facs_123_r4l7 hebung der in unserm Mandat
+#facs_123_r4l8 vom 24.ten Februarn 1786. auf die
+#facs_123_r4l9 allzuhöhe Abnahm der ganz neuen
+#facs_123_r4l10 französischen Tuplonen gesetzten
+#facs_123_r4l11 Straffe, wir einem jeden hierdurch
+#facs_123_r4l12 frey stellen, diese auf 156. bahen
+#facs_123_r4l13 gebürdigte Ruplanen, gleichbie übrige
+#facs_123_r4l14 in Unseren Münz Verordnungen
+#facs_123_r4l15 erlaubte Goldstorten, nach Gutbefinden
+#facs_123_r4l16 abzunehmen. Es soll aber niemän¬
+#facs_123_r4l17 schuldig seyn, solche höher als sie ge¬
+#facs_123_r4l18 bürdigt sind, anzunehmen.
+#facs_123_r4l19 Fetreffend die ältern Duplonen
+#facs_123_r4l20 von 152. Gran vollen Gebichts, soll
+#facs_123_r4l21 es bey dem publicierten Tax der
+#facs_123_r4l22 164. sahen, so bin auch der Silber¬
+#facs_124_r2l1 torten und Scheid Münzen halb, bey
+#facs_124_r2l2 der Vorschrift Unsterer Verordnung
+#facs_124_r2l3 Wornach
+#facs_124_r2l4 ferner best verbleiben.
+#facs_124_r2l5 sich ein jeder zu richten und wor¬
+#facs_124_r2l6 Schaden und Nachtheil zu hüten.
+#facs_124_r2l7 bißen wird.
+#facs_124_r2l8 Beben in Unserer Großen
+#facs_124_r2l9 Rathsverfammlung d. 29. März 1790.
+#facs_124_r2l10 Fraduction.
+#facs_124_r2l11 Nous L'advoyer, petit & grand
+#facs_124_r2l12 Conseils de la Ville & République
+#facs_124_r2l13 de Berne, savoir faisons par
+#facs_124_r2l14 les prèsentes: qu'en révocation
+#facs_124_r2l15 des peines Statuées par Notre
+#facs_124_r2l16 Ordonnance du 24 fevrier 1786.
+#facs_124_r2l17 pour ceux qui recevroient les
+#facs_124_r2l18 Louis d'oc de france, de nouvelle
+#facs_124_r2l19 fabrication, selon l'Édit du Roi
+#facs_124_r2l20 de 1785. au - delà du prix par
+#facs_124_r2l21 Nous fixe à 156 baches, Nous
+#facs_124_r3l1 243
+#facs_124_r3l2 permettons dès aujourd'hui à un
+#facs_124_r3l3 chacun, de recevoir & de debiter ces
+#facs_124_r3l4 dits Louis d'or de France, au prix
+#facs_124_r3l5 qu'il le jugera à propos, ainsi
+#facs_124_r3l6 que les autres especes d'or dont
+#facs_124_r3l7 le cours se trouve permis selon
+#facs_124_r3l8 Nos Ordonnances antérieures:
+#facs_124_r3l9 Mais personne ne sera obligé de
+#facs_124_r3l10 les recevoir a un plus haut prix
+#facs_124_r3l11 qu'elles ne sont taxées.
+#facs_124_r3l12 Les anciens Louis d'or de France
+#facs_124_r3l13 de 152. grains complets, continueront
+#facs_124_r3l14 de valoir 164 baches, selon la
+#facs_124_r3l15 taxe par Nous établie
+#facs_124_r3l16 Quant aux Monnores d'argent &
+#facs_124_r3l17 de billon, Nous laissons les choses
+#facs_124_r3l18 absolument sur les pied que Nos
+#facs_124_r3l19 Reglements émanés à ce sujet le
+#facs_124_r3l20 prescrivent sans y rien changer.
+#facs_124_r3l21 ordonnons en consequence à
+#facs_124_r3l22 Nos Baillifs, de faire publier &
+#facs_124_r3l23 afficher la présente aux endroits accoutumés.
+#facs_125_r3l1 Donné en Notre grand Conseil,
+#facs_125_r3l2 ce 29 mars 1790

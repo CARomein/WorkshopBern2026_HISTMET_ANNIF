@@ -1,0 +1,946 @@
+Law ID: BER.01.001.4643
+Name: Wegen todt gefundenen oder gefährlich verwundten Personen, und daher aufzunehmenden vivis repertis. Vorschrift für Land- und Wundärzte.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 935/935
+# High similarity (>=50%): 911
+# Low similarity (<50%): 24
+# Not found: 0
+#
+#facs_263_r3l5 Wegen
+#facs_263_r3l6 Todt gesundenen oder gefährlich
+#facs_263_r3l7 verwandten Personen
+#facs_263_r3l8 und daher aufzunehmenden
+#facs_263_r3l9 Visis repertis
+#facs_263_r3l10 pr 13
+#facs_263_r3l11 Alle Teütsche und welsche
+#facs_263_r3l12 Hhl. Amtleüte, Freybeibel
+#facs_263_r3l13 und Ammann sepp.
+#facs_263_r3l14 Schultheiß und Rath
+#facs_263_r3l15 ter Erziehlung einer mehreren
+#facs_263_r3l16 Wollständigkeit der in Criminal
+#facs_263_r3l17 und andern bichtigen Fällen hinführt
+#facs_263_r4l1 521
+#facs_263_r4l2 aufzunehmenden Visum repertum.
+#facs_263_r4l3 haben wir nöthig befunden, die im An¬
+#facs_263_r4l4 schluß enthaltene Vorschrifft für
+#facs_263_r4l5 fiesige Land und Abundarzte zu er¬
+#facs_263_r4l6 richten und in Truk ausgegehen zu
+#facs_263_r4l7 Mit Zustendung um
+#facs_263_r4l8 décidée au comte de l'autre nouvelle,
+#facs_263_r4l9 lassen
+#facs_263_r4l10 einer für einer Amt benöthigt
+#facs_263_r4l11 Anzahl Exemplar von dieser ge¬
+#facs_263_r4l12 trukten Verordnung, befehlen Wir
+#facs_263_r4l13 Euch Solche denen in einem Amt
+#facs_263_r4l14 sich befindlichen Ärzten und wund¬
+#facs_263_r4l15 ärzten, bin auch denen Landschrei¬
+#facs_263_r4l16 bere zu stellen, Sie in den Schloß
+#facs_263_r4l17 Büchern zu neerer und euerer
+#facs_263_r4l18 Amts Nachfahren zu istenschaft und
+#facs_263_r4l19 Verhalt nachrichtlich einschreiben
+#facs_263_r4l20 zu laßen, und dabey Hand ob¬
+#facs_263_r4l21 zu halten, daß dieser Vorschrift
+#facs_263_r4l22 von seiten der Land- und Wund¬
+#facs_263_r4l23 wärzte eines Amts in vorfallenden
+#facs_264_r3l1 Anläßen jehbeilen genau nach,
+#facs_264_r3l2 7
+#facs_264_r3l3 gelebt werde. Dat.
+#facs_264_r3l4 1789
+#facs_264_r3l5 Vorschrifft
+#facs_264_r3l6 für Land und Grundherzte
+#facs_264_r3l7 Es haben Meine Brandige Herr
+#facs_264_r3l8 erstehen müßen, bin unvollstand
+#facs_264_r3l9 und Mangelhaft die von Wunder
+#facs_264_r3l10 in Criminal= und andern Fällen
+#facs_264_r3l11 aufgenommenen disa repertio
+#facs_264_r3l12 beschaffen seyen, und dabey
+#facs_264_r3l13 in Betrachtung gezogen welchen
+#facs_264_r3l14 dichtigen Einfluß dieselbe
+#facs_264_r3l15 auf das Schicksal eines Delin¬
+#facs_264_r3l16 =quenten habe, Demnach dann
+#facs_264_r3l17 auf den von Mehyfren den Sancien
+#facs_264_r3l18 Räthen Meghlen abgestatteten
+#facs_264_r3l19 Bericht nöthig gefunden, den
+#facs_264_r3l20 Wundärzten eine Vorschrift
+#facs_264_r3l21 zuertheilen, nach welcher sie
+#facs_264_r3l22 in Aufnahm von disis repertis
+#facs_264_r3l23 und verfertigung des Berichts
+#facs_264_r5l1 ./.
+#facs_264_r5l2 darüber zu Werke gehen sollen.
+#facs_264_r5l3 Hochdieselben verordnen daher
+#facs_264_r5l4 bas folgt
+#facs_264_r5l5 So. Wenn einem Wundarzt vom Richter
+#facs_264_r5l6 eines Orts befahlen wird, über den
+#facs_264_r5l7 einten oder andere von obigen
+#facs_264_r5l8 Fälle ihm einen schrifftlichen
+#facs_264_r5l9 Bericht und Gutachten abzustatten,
+#facs_264_r5l10 Wohn hauptsächlich eine sehr
+#facs_264_r5l11 genann anatomische und pfysiologischen
+#facs_264_r5l12 kentniß erfordert wird, ohne die
+#facs_264_r5l13 er einfmals mit Bewißheit behangen
+#facs_264_r5l14 ban, welche Wunden schlechterdings
+#facs_264_r5l15 tödlich, welche an sich selbst töd¬
+#facs_264_r5l16 lich, und welche von zufälliger
+#facs_264_r5l17 Weise tödlich genennt werden
+#facs_264_r5l18 mus, so soll er
+#facs_264_r5l19 In seinem Berichte anzeigen, von
+#facs_264_r5l20 welchem Richter er zu dieser Ver¬
+#facs_264_r5l21 richtung beordert worden.
+#facs_264_r5l22 2. Welche Personen dabey vom
+#facs_265_r3l1 Richter geordnet zugegen gebesten,
+#facs_265_r3l2 Woll er sich des Nahmens, oder
+#facs_265_r3l3 benigstens des Alters und die
+#facs_265_r3l4 schlechts des Subjekts erkundigen
+#facs_265_r3l5 4° die Zeit und den Ort anzeigen
+#facs_265_r3l6 wo er die Besichtigung angestel¬
+#facs_265_r3l7 hat
+#facs_265_r3l8 5o In welcher Beschaffenheit, natür¬
+#facs_265_r3l9 glichen oder wieder natürlichen,
+#facs_265_r3l10 der Mensch vor und nach der
+#facs_265_r3l11 Verlezung gebesen, mit
+#facs_265_r3l12 welchen Instrumenten er
+#facs_265_r3l13 verbundet worden, bin die
+#facs_265_r3l14 Zufälle gewesen da er gestorben
+#facs_265_r3l15 ob er gleich nach der Verlezung
+#facs_265_r3l16 kunstmäßig besorget worden.
+#facs_265_r3l17 seye, oder nicht, was für eine
+#facs_265_r3l18 Lage er bey Erhaltung der
+#facs_265_r3l19 Wunde gehabt, ob er vor und
+#facs_265_r3l20 nach der Verlezung eine gute
+#facs_265_r3l21 Diät beobachtet, wie sein
+#facs_265_r5l1 125
+#facs_265_r5l2 Bemüts = Zustand vor und nach der
+#facs_265_r5l3 Verlezung beschaffen gewesen sey.
+#facs_265_r5l4 2° Hierauf soll der geordnete
+#facs_265_r5l5 Wundarzt anfangen, die im
+#facs_265_r5l6 mitelbare Urstache des Todes des
+#facs_265_r5l7 vorhandenen Subjekts auszustahen,
+#facs_265_r5l8 wenn ihn nicht eine allgemeine und
+#facs_265_r5l9 Im höchsten Brade sich befindliche
+#facs_265_r5l10 Fäulniß deßelben hieran
+#facs_265_r5l11 oder eine giftige
+#facs_265_r5l12 verhindert,
+#facs_265_r5l13 und an stekende Krankheit, wormit
+#facs_265_r5l14 der Mensch vor seiner Ermordung
+#facs_265_r5l15 behaftet gewesen, oder die Ent¬
+#facs_265_r5l16 äußerung einiger Haupttheilen
+#facs_265_r5l17 und Eingebeilen p. kan diese
+#facs_265_r5l18 unmitelbahre Ursache des Todes
+#facs_265_r5l19 icht sogleich entdekt, und gründ¬
+#facs_265_r5l20 lich bewiesen werden, wie sie zum
+#facs_265_r5l21 Exempel bey solchen Personen
+#facs_265_r5l22 die meinem engen und wohl
+#facs_265_r5l23 verschloßenen Raum vom
+#facs_266_r2l1 vom Schwefel und Koflenrauch,
+#facs_266_r2l2 vom Tampf eines frischen Weins
+#facs_266_r2l3 Biers nasser Wäsche, Leders
+#facs_266_r2l4 J. g. oder vom Cliz plötzlich ge¬
+#facs_266_r2l5 tödet werden, entdekt wird,
+#facs_266_r2l6 weil man sogleich aus den aus
+#facs_266_r2l7 serlichen kannzeichen sehen
+#facs_266_r2l8 kann, daß sie an einer Er-
+#facs_266_r2l9 stikung gestorben sind, so soll
+#facs_266_r2l10 alhoder Wundarzt dem Todten
+#facs_266_r2l11 alle seine Kleider ausziehen
+#facs_266_r2l12 laßen, und seine ganze äußern
+#facs_266_r2l13 Haut vom Kopf bis zu den
+#facs_266_r2l14 Füßen besichtigen und an
+#facs_266_r2l15 merken, was vom natürlichen
+#facs_266_r2l16 Zustande abweicht und in selbigen
+#facs_266_r2l17 nicht gefunden wird; als z. L.
+#facs_266_r2l18 Clut Austretungen in und
+#facs_266_r2l19 unter der Haut, unter der Seit¬
+#facs_266_r2l20 haut; surbutische und andere
+#facs_266_r2l21 Krankheitsfleren, Beschwulste
+#facs_266_r4l1 527
+#facs_266_r4l2 Wunden, andere Verlezungen, wie
+#facs_266_r4l3 auch Verrenkungen der Blindern,
+#facs_266_r4l4 und Zeichen einer anfangenden
+#facs_266_r4l5 häulung deß Körpers
+#facs_266_r4l6 Sind an der Haut starke Quet¬
+#facs_266_r4l7 schungen geschehen, daß das Clut
+#facs_266_r4l8 in selbige ausgetreten ist, so mus¬
+#facs_266_r4l9 der Ort wo sie sich befinden, ihre
+#facs_266_r4l10 Dreite, Länge und Anzahl, in dem
+#facs_266_r4l11 .
+#facs_266_r4l12 Bericht angezeigt werden.
+#facs_266_r4l13 Dind Geschbülste vorhanden
+#facs_266_r4l14 so soll untersucht werden, ob
+#facs_266_r4l15 selbige von einer äußern Be¬
+#facs_266_r4l16 Balt, oder von neerlichen
+#facs_266_r4l17 Krankheiten entstanden sind.
+#facs_266_r4l18 Gemerkt mann kennzeichen
+#facs_266_r4l19 der Fäulung, nehmlich: wenn sich
+#facs_266_r4l20 die Epidermis von der Haut ab¬
+#facs_266_r4l21 föndert, unter derselben eine
+#facs_266_r4l22 gelbe Seuchtigkeit sich erzeigt,
+#facs_266_r4l23 die Haut sich barhblau ausricht,
+#facs_267_r1l1 Der Körzer aufordunsten und übel¬
+#facs_267_r1l2 ermifend ist, die Nagel von Fisbar¬
+#facs_267_r1l3 zer Farbe sind x
+#facs_267_r1l4 Sind Wunden, Stiche oder Hiebe in
+#facs_267_r1l5 der Haut, so werden die Verter,
+#facs_267_r1l6 länge Tiefe und breite derselben
+#facs_267_r1l7 angemerkt, eine jede Verlezung
+#facs_267_r1l8 genau abgemeßen und beschrieben
+#facs_267_r1l9 Hierbey soll der Wundarze
+#facs_267_r1l10 noch nachstehen, ob aus den Wunden
+#facs_267_r1l11 oder einer andern Befnung, als
+#facs_267_r1l12 dem Munde, der Nase, den
+#facs_267_r1l13 Ohren, der Harn röhre, dem
+#facs_267_r1l14 Mastdarm und der Muster
+#facs_267_r1l15 Blut, Waser, Harn, oder
+#facs_267_r1l16 andere Unreinigkeiten fließen,
+#facs_267_r1l17 ob der Körper Fest oder Mager
+#facs_267_r1l18 die Musklen stark oder schwach,
+#facs_267_r1l19 und die Blutgefäße groß oder klein
+#facs_267_r1l20 seyen. Von allem diesem
+#facs_267_r1l21 soll er in seinem Bericht
+#facs_267_r2l1 19
+#facs_267_r2l2 die erforderliche Anzeige machen.
+#facs_267_r2l3 Nach dieser äußerlichen Gesichti
+#facs_267_r2l4 gung des Körpers schreitet der
+#facs_267_r2l5 Wundarzt zur Eröfnung desselben
+#facs_267_r2l6 Das erste soer hierbey zuthun
+#facs_267_r2l7 hat, ist, die Wunde genau zu
+#facs_267_r2l8 untersuchen, zu durch schneiden,
+#facs_267_r2l9 das darunter liegende Fest und
+#facs_267_r2l10 Musklen abzuständern, um bis
+#facs_267_r2l11 An das End derselben gelau
+#facs_267_r2l12 gen zu können.
+#facs_267_r2l13 Zweytens eröfnet er diejenige
+#facs_267_r2l14 Höhle oder Begeld zu erst, wo die
+#facs_267_r2l15 Wunde gemacht worden ist, und
+#facs_267_r2l16 untersucht darin jedes Eingaben
+#facs_267_r2l17 nach seiner Lage, Verbindung,
+#facs_267_r2l18 gesunden oder kranken In¬
+#facs_267_r2l19 schaffenheit und erlistenen
+#facs_267_r2l20 Verlezung, der Länge, Breite und
+#facs_267_r2l21 Tiefe nach
+#facs_267_r2l22 Frictens, wenn er einaffene
+#facs_268_r2l1 Höhle oder offenbare Erweiterung
+#facs_268_r2l2 in einer weichen Begend antrifft,
+#facs_268_r2l3 so soll er nachsehen, ob feste
+#facs_268_r2l4 und fremde, oder flüßige Sachen
+#facs_268_r2l5 darinn enthalten, und anzeigen,
+#facs_268_r2l6 von welcher Natur, Große, Meng¬
+#facs_268_r2l7 und Figur sie seyen, und an
+#facs_268_r2l8 welchem Ort sie gestekt.
+#facs_268_r2l9 Viertens, soll er untersuchen,
+#facs_268_r2l10 ob in der eröfneten Höhle große
+#facs_268_r2l11 Schlagadern oder andere beträcht¬
+#facs_268_r2l12 liche Blut Befäße zerschnitten.
+#facs_268_r2l13 oder ob sie mit vielem Blut
+#facs_268_r2l14 angefüllt, oder leer seyen; wie
+#facs_268_r2l15 auch, ob Hauptnerren und einige
+#facs_268_r2l16 innere Theile verlezt worden.
+#facs_268_r2l17 Fünftens: soller bey er¬
+#facs_268_r2l18 öfnung der Hireschaale nach
+#facs_268_r2l19 dem er die äußern Haut weg
+#facs_268_r2l20 genohmen, die darunter liegende
+#facs_268_r2l21 Muskelen das Teinhäntlein,
+#facs_268_r3l1 331.
+#facs_268_r3l2 und die Knochen genau unterstuchen,
+#facs_268_r3l3 ob die erstern Beutschungen, das Sein¬
+#facs_268_r3l4 Haütlein Blutaustrechungen und
+#facs_268_r3l5 die Knochen Eindrüke, Riße oder
+#facs_268_r3l6 Krüche haben; und ihre Anzahl, Länge,
+#facs_268_r3l7 Aiger und Fortlauf beschreiben.
+#facs_268_r3l8 Bey der Abfügung der Hirnschaale
+#facs_268_r3l9 mus er sich in acht nehmen, daß
+#facs_268_r3l10 er mit der Säge nicht etwann die
+#facs_268_r3l11 harte Hirnhant verleze und 3 lut
+#facs_268_r3l12 gefäße die untersucht werden
+#facs_268_r3l13 meßen, zerreise
+#facs_268_r3l14 Sechstens: nachdem die Hirn¬
+#facs_268_r3l15 schale abgenohmen worden ist
+#facs_268_r3l16 untersucht er, ob auf oder unter
+#facs_268_r3l17 der Hirn faut ausgetretenes Blut
+#facs_268_r3l18 vorhanden, die Clut gefäße derselben
+#facs_268_r3l19 leer von Blut oder Waßer, oder
+#facs_268_r3l20 voll, stark aufgetrieben, oder mit
+#facs_268_r3l21 Polizen angefüllt seyen; wie die
+#facs_268_r3l22 Substanz des Hires, der Toden
+#facs_269_r1l1 Der Hirnschale nach beggenommenen
+#facs_269_r1l2 Hirn beschaffen seyn, ob auf
+#facs_269_r1l3 demselben ausgetreten Blut
+#facs_269_r1l4 Waßer der fremde Körper
+#facs_269_r1l5 sich befinden und ob die Hirn¬
+#facs_269_r1l6 schale ausserordentlich die
+#facs_269_r1l7 oder dünn seyn.
+#facs_269_r1l8 Siebentes, ist eine Brust
+#facs_269_r1l9 Wunde vorhanden, die in die
+#facs_269_r1l10 Höhle denselben geht, so soll
+#facs_269_r1l11 der Wundarzt wohl anmerken,
+#facs_269_r1l12 und anzeigen, zwischen welchen
+#facs_269_r1l13 Rippen, von unten oder oben
+#facs_269_r1l14 gezählt, sie gemacht worden.
+#facs_269_r1l15 und bey Eröffnung der Gruß
+#facs_269_r1l16 ich wohl in Recht nommen, daß
+#facs_269_r1l17 er beym ablösen des Brustbeins
+#facs_269_r1l18 von den Schlüßelbeinen, die
+#facs_269_r1l19 große Schlüssel, und Armgefaße
+#facs_269_r1l20 nicht zerschneide. Hierauf
+#facs_269_r1l21 betrachtet er die Menge des
+#facs_269_r2l1 533
+#facs_269_r2l2 des in der rechten oder linken Grußhöhle
+#facs_269_r2l3 ausgetretenen Gluts, zieht solches
+#facs_269_r2l4 vermitlest eines Schwammes her¬
+#facs_269_r2l5 aus, und untersucht ob die Ver¬
+#facs_269_r2l6 blutung von zerscheitenen Blut¬
+#facs_269_r2l7 Befaßen der Lungen oder des
+#facs_269_r2l8 Herzens entstanden; ferners, ob
+#facs_269_r2l9 alle in der Grust enthaltene Theile
+#facs_269_r2l10 sich neben der Wunde in einem
+#facs_269_r2l11 gefunden Zustande befunden
+#facs_269_r2l12 und in den Herzgefäßen in der
+#facs_269_r2l13 Herzkammer, oder im Dat der Hohl
+#facs_269_r2l14 u. Lungenader keine Polizi gewesen
+#facs_269_r2l15 Reyen
+#facs_269_r2l16 Achtens ist die Verbundung am
+#facs_269_r2l17 dauch geschen so soll der Wundarzt
+#facs_269_r2l18 nach Eröffnung desselben eine
+#facs_269_r2l19 gleiche Untersuchung anstellen,
+#facs_269_r2l20 den thödlich verbundet wordenen
+#facs_269_r2l21 Theil aufs genauste beschreiben
+#facs_269_r2l22 und anzeigen, in welchem Zustand
+#facs_270_r2l1 er die überigen Eingebenide angetragt,
+#facs_270_r2l2 ufen habe.
+#facs_270_r2l3 In Fällen, wo die bahre Ursache
+#facs_270_r2l4 der Tödlichkeit von der Verlezung
+#facs_270_r2l5 eines Theils in dieser oder je
+#facs_270_r2l6 ner Höhle des Leibs gründlich
+#facs_270_r2l7 bewiesen werden kan, ist der
+#facs_270_r2l8 Wundarht nicht allemal verpflich¬
+#facs_270_r2l9 tet, die übrigen Höhlen zu
+#facs_270_r2l10 eröffnen, als zu E: in tödlichen
+#facs_270_r2l11 Verlesungen des kleinen und
+#facs_270_r2l12 großen Behires, des Rück-
+#facs_270_r2l13 Bradmars, der Lungen, des
+#facs_270_r2l14 Herzens und der großen Blut
+#facs_270_r2l15 Befäße in der Brust, des
+#facs_270_r2l16 Zwerchfalls, der Leber, Milz,
+#facs_270_r2l17 Magens, der Bedärmen, Bekröstes,
+#facs_270_r2l18 der Nieren, Harablase und großen
+#facs_270_r2l19 Blutadern des Unterleibs.
+#facs_270_r2l20 Doch wird er jedes mal einen voll
+#facs_270_r2l21 kommenen Gericht von den
+#facs_270_r3l1 135
+#facs_270_r3l2 bahren Ursachen des Todes dem Richter
+#facs_270_r3l3 des Orts eingeben, um sich wieder
+#facs_270_r3l4 alle zweifelhafte Vorwürfe schühen
+#facs_270_r3l5 zu können, wenn er die Eingeweide
+#facs_270_r3l6 in allen drey Höhlen genau unter¬
+#facs_270_r3l7 sucht.
+#facs_270_r3l8 3o Es ist auch oben §. 2. bemerkt.
+#facs_270_r3l9 worden, daß ein Wundarzt es
+#facs_270_r3l10 nicht nöthig habe, ertrunkene
+#facs_270_r3l11 Personen, an denen keine aus
+#facs_270_r3l12 serliche Zeichen einer gewalthät¬
+#facs_270_r3l13 eigen Verlehung gefunden worden
+#facs_270_r3l14 oder solche die vom Kohlenrauch,
+#facs_270_r3l15 Schwefel, Wein, Bier und Dampf,
+#facs_270_r3l16 oder vom Pliz getödet worden, und
+#facs_270_r3l17 er davon vollkommen überzeugt
+#facs_270_r3l18 ist, legalisch zu eröffnen, weil
+#facs_270_r3l19 man schon durch eine genügstame
+#facs_270_r3l20 Menge hier über gemachter Unter¬
+#facs_270_r3l21 suchungen und Verbachtungen
+#facs_270_r3l22 versichert ist, daß sie dadurch
+#facs_271_r1l1 alle annemm Schlag, oder Stelefluß
+#facs_271_r1l2 gestorben sind. Da aber auch
+#facs_271_r1l3 erwürgte Personen von gleicher
+#facs_271_r1l4 ursach sterben, so soll der
+#facs_271_r1l5 Wundarht selbige ohne Ansta¬
+#facs_271_r1l6 öffnen, wenn er an ihnen und
+#facs_271_r1l7 Die geringsten Merkmale der
+#facs_271_r1l8 Erwürgung an der äußern Haus
+#facs_271_r1l9 des Halses oder an der Brust
+#facs_271_r1l10 entdeket; zu erst eröffnet
+#facs_271_r1l11 er den Kopf, in welchem er
+#facs_271_r1l12 ausgetretenes Blut, und oboch
+#facs_271_r1l13 die Schlag als Rückführenden
+#facs_271_r1l14 Aderen vom 3 lut außerord¬
+#facs_271_r1l15 lich ausgedehnt, und das
+#facs_271_r1l16 Hirn drukend finden wird,
+#facs_271_r1l17 in der Brust wird auch die
+#facs_271_r1l18 Lunge Befäße von über¬
+#facs_271_r1l19 mäßigem Blut angesichwollen
+#facs_271_r1l20 Dieungen braue roth und die
+#facs_271_r1l21 Herzkammer gleichfalls von
+#facs_271_r2l1 tob schon es zu bein
+#facs_271_r2l2 gäntl. entschieden
+#facs_271_r2l3 Prob dienen soll,
+#facs_271_r2l4 durch in seinen
+#facs_271_r2l5 bericht anzeigen
+#facs_271_r2l6 obselbige obge
+#facs_271_r2l7 schonung oder zu
+#facs_271_r2l8 oder gesunden
+#facs_271_r2l9 Anbey wird
+#facs_271_r2l10 auch anzeigen
+#facs_271_r3l1 a 537
+#facs_271_r3l2 vielem Blut ausgedehnt antreffend.
+#facs_271_r3l3 4° Ist das Todgefundene Subjekt ein
+#facs_271_r3l4 frisch gebohrens Kind, an welchem rein.
+#facs_271_r3l5 äußerlichen Merkmahle einiger Verlezung
+#facs_271_r3l6 bemerkt werden, hingegen aber deßen
+#facs_271_r3l7 Nabelstchnur nicht unterbunden
+#facs_271_r3l8 worden ist, durch die es sich hat
+#facs_271_r3l9 verbluten können, und es noch
+#facs_271_r3l10 migen wiß ist, obens tod oder
+#facs_271_r3l11 Lebendig gebohren seyn, so soll
+#facs_271_r3l12 der Wunderht deßen Trust zu¬
+#facs_271_r3l13 eerst öffnen, und von der Lungen
+#facs_271_r3l14 einige Stüke abschneiden, die, wenn
+#facs_271_r3l15 Ain ins Wasser geworfen, sogleich
+#facs_271_r3l16 zu Boden finken, und dardurch
+#facs_271_r3l17 des
+#facs_271_r3l18 zuzeigen, daß das Kind schon
+#facs_271_r3l19 vor der Bebert tod gelesen, und
+#facs_271_r3l20 einsmahls noch geathmet habe.
+#facs_271_r3l21 Neben diesem wird er zugleich
+#facs_271_r3l22 unter teihen, und in seinem Bericht
+#facs_271_r3l23 anzeigen, ob es bis zur gewohnten
+#facs_272_r1l1 und insonderheit
+#facs_272_r1l2 Jeg der Beschaffenheit
+#facs_272_r1l3 der Lungen
+#facs_272_r1l4 Inständl. beschret
+#facs_272_r1l5 am beyfügen
+#facs_272_r2l1 Beburts Zeit gelanget seyn, und
+#facs_272_r2l2 ob sich an seinen neürlichen
+#facs_272_r2l3 Haupttheilen etwas unnaturliche
+#facs_272_r2l4 oder kraures erzeigt habe, wel¬
+#facs_272_r2l5 ches seinen Tod schon nach der
+#facs_272_r2l6 Lauf der Natur hat verer
+#facs_272_r2l7 machen können. x
+#facs_272_r2l8 5° Em Arztoder Wundarzt,
+#facs_272_r2l9 von dem ein gründliches Gutacht
+#facs_272_r2l10 über Todes Fälle gefordert wird,
+#facs_272_r2l11 die von Vergiftungen entstanden
+#facs_272_r2l12 Kind, kan ohne genaue kentniße
+#facs_272_r2l13 aller Biftartigen Dingen die
+#facs_272_r2l14 den Menschen plötzlich oder
+#facs_272_r2l15 langsam zu tödten fähig sind
+#facs_272_r2l16 nur selten und bestimmt eines
+#facs_272_r2l17 vorlegen. Deslagen werden
+#facs_272_r2l18 die Landärzte ermähnt die Zier
+#facs_272_r2l19 über von gelehrten Manere
+#facs_272_r2l20 mitgetheilte Beobachtungen
+#facs_272_r2l21 und Anweisungen fleißig
+#facs_272_r3l1 539
+#facs_272_r3l2 lesen, damit sie in Criminal Fällen
+#facs_272_r3l3 dem Richter über alles was den ver¬
+#facs_272_r3l4 ursachten Tod eines vergifteten
+#facs_272_r3l5 Menschen angeht, einen deutlichen
+#facs_272_r3l6 und entscheideten Bericht abstatten
+#facs_272_r3l7 können. Es ist jedermann be¬
+#facs_272_r3l8 kant, das von jedem eingenahmen
+#facs_272_r3l9 en äzenden Bift, wie z: E: vom
+#facs_272_r3l10 Brünspan, Arsenie, Sublimat, Vitrial,
+#facs_272_r3l11 Behl, Scheidwasser, und sovielen
+#facs_272_r3l12 andren Dingen mehr, aus dem
+#facs_272_r3l13 Mineral- als Pflanzenreich, ein
+#facs_272_r3l14 Mensch plözlich getödet werden kan,
+#facs_272_r3l15 und hievon immer, sogleich die
+#facs_272_r3l16 heftigsten Zuckungen, Bichter,
+#facs_272_r3l17 Schmerzen im Baumen (Rachen)
+#facs_272_r3l18 und Magen, und der heftigste Reiz
+#facs_272_r3l19 zum Erbrechen bis zum Tode in
+#facs_272_r3l20 ihm erregt werden, welches kein
+#facs_272_r3l21 anderer im Leibe entwiklet worden
+#facs_272_r3l22 Stoff von verderbten Säften und
+#facs_273_r2l1 Krankheit jemals so plöglich further
+#facs_273_r2l2 zu bringen vermögend ist. Es mag
+#facs_273_r2l3 nun eine solche Wirkung von
+#facs_273_r2l4 dieser oder jener Urstache ent¬
+#facs_273_r2l5 standen seyn, daß ein Mensch
+#facs_273_r2l6 Baringutidet wird, so giebt dieses
+#facs_273_r2l7 eine sehr starke Vermuthung von
+#facs_273_r2l8 Vergiftung, und in solchem Fall
+#facs_273_r2l9 soll der Wundarzt, nach demmer
+#facs_273_r2l10 sich aller Umständen und der zu
+#facs_273_r2l11 fällen halber die sich an selbigem
+#facs_273_r2l12 vor seinem Tode eräugnet haben.
+#facs_273_r2l13 genau wird erkundiget haben.
+#facs_273_r2l14 den Körper eröffnen, und
+#facs_273_r2l15 dabey fürnehmlich die innere
+#facs_273_r2l16 Geschaffenheit des Baumens,
+#facs_273_r2l17 der Speisrohre, des Magens
+#facs_273_r2l18 und der Järmen untersuchen
+#facs_273_r2l19 welche wenn sie enthündet, zur
+#facs_273_r2l20 freßen, und mit dem Grand
+#facs_273_r2l21 behaftet sind, deutlich anzeigen
+#facs_273_r3l1 5/11
+#facs_273_r3l2 daß der Mensch, der eine kurze Zeit
+#facs_273_r3l3 vorher gesund gewesen, von einer
+#facs_273_r3l4 eingeschlukten scharfen und azen¬
+#facs_273_r3l5 den Materte vergiftet, und
+#facs_273_r3l6 damit getödet worden seyn
+#facs_273_r3l7 Es ist Mrghh.r Wille und Befehl
+#facs_273_r3l8 daß sich alle Ärtzte und Wundärzte
+#facs_273_r3l9 gegenwärtige Instruktion bevon
+#facs_273_r3l10 jedem ein Dopel zugestellt wer¬
+#facs_273_r3l11 den wird, in Vorfallenheiten
+#facs_273_r3l12 zur Vorschrift dienenlaßen,
+#facs_273_r3l13 und damit Hochdieselben wißen
+#facs_273_r3l14 mögen, ob diesem Befehl ein
+#facs_273_r3l15 Benügen geschehe; so soll von je-
+#facs_273_r3l16 dem aufgenohmenen Viso reperto,
+#facs_273_r3l17 ein Döpel dem Herrn Amtsmann,
+#facs_273_r3l18 zu Handen MuhbHrn. den Danität,
+#facs_273_r3l19 Räthen von dem Verfaßer des¬
+#facs_273_r3l20 selben, übergeben, wie bereits
+#facs_273_r3l21 durch den J. S. der Verordnung
+#facs_273_r3l22 für Wundärzte, und 6 Artl.
+#facs_274_r3l1 der Verordnung für Ärzte vor.
+#facs_274_r3l2 geschrieben ist
+#facs_274_r3l3 Beben d. 7ten Jenner 1789.
+#facs_274_r3l4 Translation
+#facs_274_r3l5 Leurs Excellences Nos Souve
+#facs_274_r3l6 rains Deigneurs ayant reconnu
+#facs_274_r3l7 à Leur grands de plaises, combien les
+#facs_274_r3l8 apports officiels des Chirurgiens en
+#facs_274_r3l9 des cas criminels ou autres sont
+#facs_274_r3l10 frequement mcomlets et defectueux
+#facs_274_r3l11 et ayant pris en serieuse considéré
+#facs_274_r3l12 ation, qu'elle influence impor
+#facs_274_r3l13 tante de tels rapports peuvent
+#facs_274_r3l14 avoir sur le Port d'un Delin
+#facs_274_r3l15 quant, à ces causes et sur les
+#facs_274_r3l16 représententions qui leur ont été
+#facs_274_r3l17 faites par l'Illustre conseil de
+#facs_274_r3l18 sante, elles ont jugé necessaire
+#facs_274_r4l1 543
+#facs_274_r4l2 et arreté de prescrire aux Chirurgiens
+#facs_274_r4l3 des Villes & Pays Soumis a leur Obeissance
+#facs_274_r4l4 les instructions à la Teneur des quelles
+#facs_274_r4l5 ils auront a se conformer, tant
+#facs_274_r4l6 dans les Visitations officielles qu'ils
+#facs_274_r4l7 seront appellés a faire, que dans
+#facs_274_r4l8 les rapports qu'ils dresseront
+#facs_274_r4l9 leur résultat. En consequence
+#facs_274_r4l10 Leurs Excellences ont ordonné et
+#facs_274_r4l11 statué et ordonnent ei ordonnen et
+#facs_274_r4l12 statuent ce qui suit
+#facs_274_r4l13 01
+#facs_274_r4l14 Lorsqu'un chirurgien aura reçu ordre
+#facs_274_r4l15 de la part du juge d'un lieu, de
+#facs_274_r4l16 lui donner par écrit un rapport
+#facs_274_r4l17 et son avis concernant quelqu’un
+#facs_274_r4l18 des cas ci dessus enonces, cas pour
+#facs_274_r4l19 le quel il est necessaire, en général
+#facs_274_r4l20 que le chirurgien grossede des connois
+#facs_274_r4l21 sances très exaltes dans l'Anademie
+#facs_275_r1l1 Dans la Phisiologie, sans lesquelles
+#facs_275_r1l2 a ne puira jamais attester avec cet
+#facs_275_r1l3 chacun, quelles blessures ont été
+#facs_275_r1l4 bralamem mortelles, non plus
+#facs_275_r1l5 quelles qui l'ont été en elles-mêmes
+#facs_275_r1l6 ouquisent evenues telles par
+#facs_275_r1l7 l'effet de quelque accident; le dit
+#facs_275_r1l8 Chirurgien sera tenu
+#facs_275_r1l9 Sr. Denhier, dans son rapport,
+#facs_275_r1l10 lequel juge il aura reçu un tel
+#facs_275_r1l11 Ordre,
+#facs_275_r1l12 2° Quelles Personnes, par Ordre du
+#facs_275_r1l13 juge, auront présentes à cet acte
+#facs_275_r1l14 Juridique
+#facs_275_r1l15 D. Il s'informera du Nom, du moins
+#facs_275_r1l16 de l'Age et de la famille du sujet
+#facs_275_r1l17 qui sera l’objet de sa visite ordonnée
+#facs_275_r1l18 née
+#facs_275_r1l19 4° Il énoncera le tems et le lieu ou
+#facs_275_r1l20 il aura procedé à la Visitation
+#facs_275_r1l21 3° Il devra indiquer en quel Etat
+#facs_275_r2l1 naturel ou extraordinaire, se sera trouvée
+#facs_275_r2l2 la personne avant et après l’accident,
+#facs_275_r2l3 avec quel instrument elle aura été
+#facs_275_r2l4 blessee, quels auront été les accidens
+#facs_275_r2l5 qui auroint précédé ou suivi mme
+#facs_275_r2l6 diatement sa mort; si la ditte
+#facs_275_r2l7 Personne a été soignée, ou non, selon
+#facs_275_r2l8 la regle de l'art, incontinent après
+#facs_275_r2l9 avoir reçu la blessure, quelle etoit
+#facs_275_r2l10 la situation ou la position de son corps
+#facs_275_r2l11 lorsque le coup à eté porté; si, avant
+#facs_275_r2l12 ou apres avoir reçu le coup, elle à ob¬
+#facs_275_r2l13 servé un bon régime, et enfin-
+#facs_275_r2l14 qu'elle aura été sa situation d'esprit,
+#facs_275_r2l15 avant et après l'accident
+#facs_275_r2l16 12
+#facs_275_r2l17 Le chirurgien devra commencer ensuite
+#facs_275_r2l18 a rechercher la cause médiate de la
+#facs_275_r2l19 mort du sujet; à moins qu'une cor
+#facs_275_r2l20 "auption générale du corps, et porte
+#facs_275_r2l21 deja au plus haut degré, nel'en empchaît
+#facs_276_r2l1 absculume, on on que la personne
+#facs_276_r2l2 avant d’être assassinée, n'eut été
+#facs_276_r2l3 ateinte d'une maladie venimeuse
+#facs_276_r2l4 ou contagnise. Au cas ou la dite
+#facs_276_r2l5 cause immediate de la Mort ne
+#facs_276_r2l6 pourroit d'abord être découverte et
+#facs_276_r2l7 sufisament constatee. comme on
+#facs_276_r2l8 l’aperçoit par exemple, sur de telles
+#facs_276_r2l9 Personnes qui ont été subitement tuées,
+#facs_276_r2l10 dans un espeice etroit et bien fermé
+#facs_276_r2l11 par la Vapeur du soufre ou du Charbon
+#facs_276_r2l12 soit par celle d'un & in nouveau,
+#facs_276_r2l13 d'un biere fraiche, d'une lescive mouillé
+#facs_276_r2l14 du cuir eu, ou par la foudre; dans
+#facs_276_r2l15 les quels cas on peut aperce voir
+#facs_276_r2l16 du premier coup d’oeil, par des signes
+#facs_276_r2l17 exterieurs, que la mort a été causée
+#facs_276_r2l18 par une souffocation; dans ces
+#facs_276_r2l19 cas, le chirurgien fera dépouiller
+#facs_276_r2l20 14
+#facs_276_r2l21 le corps mort de ses vêtemens, et
+#facs_276_r2l22 examinera la surface entiere de la
+#facs_276_r3l1 547
+#facs_276_r3l2 Peau, depuis la tête jusqu’aux pieds,
+#facs_276_r3l3 puis il notera tout ce qui s'écarteroit
+#facs_276_r3l4 l'étât naturel, et qui ne sy trouveroit
+#facs_276_r3l5 pas conforme, comme par exemple, des
+#facs_276_r3l6 Extravaisons de sang soit dans la beau
+#facs_276_r3l7 ou au desous de la Peau et du tissu = cela
+#facs_276_r3l8 lulaire; des tâches provenant du
+#facs_276_r3l9 seerbiet ou de quelque autre maladie,
+#facs_276_r3l10 des Enflures des plaies et autres en
+#facs_276_r3l11 domagemens, ainsi que des foulures
+#facs_276_r3l12 ou dislocation des membres et des
+#facs_276_r3l13 Signes qui indiquent un commence
+#facs_276_r3l14 ment de laernuption du corps
+#facs_276_r3l15 Au cas ou il auroit été fait, à la
+#facs_276_r3l16 Peau de fortes meurtrissures, de sorte
+#facs_276_r3l17 que le sang s'y fut extravase, le
+#facs_276_r3l18 Chirurgien de vra indiquer dans son
+#facs_276_r3l19 rapport, la partie ou elles se trouver
+#facs_276_r3l20 ont, leur largeur, leur longueur et
+#facs_276_r3l21 leur nombre.
+#facs_277_r1l1 S'il se trouve des Enflures sur le corps
+#facs_277_r1l2 le chilurgien devra examiner si elles
+#facs_277_r1l3 dont prévenues de quelque force ou
+#facs_277_r1l4 vielchie extérieures, ou si elles autres
+#facs_277_r1l5 Voient été causées par quelque Maladie
+#facs_277_r1l6 interne. Il enoncera aussi, dans
+#facs_277_r1l7 son rapport, s'il se manifeste quelque
+#facs_277_r1l8 signe de putrefaction; comme
+#facs_277_r1l9 l'orsque l'épiderme se sépare de
+#facs_277_r1l10 la peau, qu'il se montre au desous
+#facs_277_r1l11 dicelle, une humeur jeannetre,
+#facs_277_r1l12 que la Peau est d'un noir bleuâtre
+#facs_277_r1l13 et que le corps est bouffi et exhale
+#facs_277_r1l14 une mauvaise Odeux, et qu'enfin
+#facs_277_r1l15 les ongles sont d'une couleur noir
+#facs_277_r1l16 atre
+#facs_277_r1l17 S'il se trouve, dans la peau, des bles
+#facs_277_r1l18 sures occasionées par des Instrument
+#facs_277_r1l19 pointus ou tranchans, le Chirurgien
+#facs_277_r1l20 en examinera l'emplacement, la
+#facs_277_r2l1 49
+#facs_277_r2l2 longueur, la profondeur et la largeur.
+#facs_277_r2l3 l prendra aussi la mesure exacte de
+#facs_277_r2l4 chaque Plaie, dont il devra donner
+#facs_277_r2l5 la description détaillée.
+#facs_277_r2l6 Chirurgien sera tenu d’examiner
+#facs_277_r2l7 en outre s'il decoule des places ou
+#facs_277_r2l8 des autres ouvertures du corps, telles
+#facs_277_r2l9 que la Bouche, le kez, les Creilles,
+#facs_277_r2l10 les voyes urinaires, le fondement ou la
+#facs_277_r2l11 matrice du sang de l'eau / lesmphes
+#facs_277_r2l12 des urnes ou quelques ou qulques.
+#facs_277_r2l13 autres immondices; si le corps et gras
+#facs_277_r2l14 ou maigre; si les muscles sont forts
+#facs_277_r2l15 ou faibles, et si les canaux sanguins
+#facs_277_r2l16 sont large ou etroits de tous ces objets
+#facs_277_r2l17 il donnera dans son rapport, tous les
+#facs_277_r2l18 du tails necessaire et desirables
+#facs_277_r2l19 Apres avoir fait cet examen préalable
+#facs_277_r2l20 de l'exterieur du Corps, le chirurgien
+#facs_277_r2l21 procédera à l'ouverture.
+#facs_278_r1l1 le dernier bois qu'il aura à observée
+#facs_278_r1l2 dans cette opélution, sera de fondére
+#facs_278_r1l3 exactement la Place, de la partager
+#facs_278_r1l4 avec le occupée, d'en séparer les grais
+#facs_278_r1l5 et musius, qui seroient situées
+#facs_278_r1l6 au desous delle, afin de pouvoir
+#facs_278_r1l7 parvenir jusqu'au fond de la ditte
+#facs_278_r1l8 Place
+#facs_278_r1l9 En second lieu il fera ensuite l'ouver¬
+#facs_278_r1l10 ture de la Cavité ou de la Partie ou
+#facs_278_r1l11 se trouvera la place, et en examinera
+#facs_278_r1l12 chaque intestin d'apres sa situation
+#facs_278_r1l13 et sa conection avec les autres, soit
+#facs_278_r1l14 d'apres l'etat ou le dit intestin pourra
+#facs_278_r1l15 avoir été reduit par l'effet d'une maison
+#facs_278_r1l16 ladie ou dela blessure, selon sa
+#facs_278_r1l17 longueur, sa largeur et sa profondeur.
+#facs_278_r1l18 En troisieme lieu, lorsque le cherur
+#facs_278_r1l19 Egien rencontrera une cavité ou un élat
+#facs_278_r1l20 gisement manifeste dans une partie
+#facs_278_r1l21 molle, il devra examiner s'il ne s'y
+#facs_278_r2l1 531
+#facs_278_r2l2 trouve point quelques matieres fermés
+#facs_278_r2l3 ou liquides, ou étrangeres, et il en indiquera
+#facs_278_r2l4 la nature, le &olume et la figure, ainsi
+#facs_278_r2l5 que la partie ou il sera fait cet amas
+#facs_278_r2l6 de matieres
+#facs_278_r2l7 En Quatrieme lieu, il examinera si l'on
+#facs_278_r2l8 reperçoit dans la cavité qu'il aura ouvertié
+#facs_278_r2l9 de grandes artères, ou d'autres Vaisseaux
+#facs_278_r2l10 fanguins qui soient coupés, s'ils les a-
+#facs_278_r2l11 trouvés remplis de beaucoup de sang ou
+#facs_278_r2l12 Quides, et si des tendons ou Herfs prin
+#facs_278_r2l13 ripeaux, et quelques parties interieures
+#facs_278_r2l14 ont été offensés
+#facs_278_r2l15 En Cinquieme lieu, lorsqu'il voudra pro-
+#facs_278_r2l16 pieder à l'ouverture du Crâne, après
+#facs_278_r2l17 en avoir enlevé la peau extérieure qui
+#facs_278_r2l18 le couvre, il examinera exactement
+#facs_278_r2l19 les muscles, le perierane et ensuite
+#facs_278_r2l20 le crâne même, afin de s'assurer s'il
+#facs_278_r2l21 n'existe point de foulure dans les muscles.
+#facs_279_r1l1 fite perifane ne contient point de lang
+#facs_279_r1l2 percevus, et enfin si l'on apperçoit
+#facs_279_r1l3 jous, sans l'os quelque enfloncement
+#facs_279_r1l4 des femmes ou des fraetures, desquelles
+#facs_279_r1l5 il indiquera le nombre, la longueur, la
+#facs_279_r1l6 figure et l'etendue
+#facs_279_r1l7 lorsqu'il scie a le crâne, il observera
+#facs_279_r1l8 avec le plus grand soin, de ne point
+#facs_279_r1l9 offenser, avec sa scie le dure-mere qui
+#facs_279_r1l10 enveloppe le Cerveau, et de ne déchirer
+#facs_279_r1l11 non plus aucun daissau sanguin
+#facs_279_r1l12 les quels il devra également examiner
+#facs_279_r1l13 En sixieme Lieu, apres avoir enlevé
+#facs_279_r1l14 le Crâne, il examinera s'il ne se
+#facs_279_r1l15 trouve point de sang extravasé
+#facs_279_r1l16 au-dessus et au=dessous de la dure-
+#facs_279_r1l17 mere, si les 8 aissaux sanguins
+#facs_279_r1l18 de cette partie contiennent du sang ou
+#facs_279_r1l19 de l'eau, ou s'ils sont vides, sils sont
+#facs_279_r1l20 gonflés considerablement, ou remplis
+#facs_279_r2l1 us s
+#facs_279_r2l2 de polypes, en quel Etat se seront trouvés
+#facs_279_r2l3 tant la substance meme du cerveau, que
+#facs_279_r2l4 le fond intérieur du Crâne, s'il y a aperçu
+#facs_279_r2l5 du sang extravasé, de l'eau ou quelques
+#facs_279_r2l6 Corps étrangers, et enfin, si le crâne est
+#facs_279_r2l7 d'extraordinairement épais ou mince
+#facs_279_r2l8 En septieme Lieu, s'il se trouve une bles
+#facs_279_r2l9 sure à la Poitrine, qui aboutisse à
+#facs_279_r2l10 la cavité de cette partie, le chirurgien
+#facs_279_r2l11 l'autre derniere, s'est dernier à lui aucune
+#facs_279_r2l12 minera et indiquera avec Soin
+#facs_279_r2l13 entre quelles côtes, à compter depuis le
+#facs_279_r2l14 haut ou depuis le bas, ces blessures auront
+#facs_279_r2l15 été faites. En faisant l'ouverture de
+#facs_279_r2l16 la Poitrine, il evitera avec soin, qu'en
+#facs_279_r2l17 Séparant l’os appellé Sternum, des
+#facs_279_r2l18 clavicules, il ne coupe pas le gros
+#facs_279_r2l19 Paissau du Bras ni ceux de Clavicules
+#facs_279_r2l20 Il considérera ensuitte la quantité du
+#facs_279_r2l21 sang qui se sera extravase dans la
+#facs_279_r2l22 cavité gauche ou dans la cavité droite
+#facs_280_r1l1 de la poésire, puis en ôtera le sang au
+#facs_280_r1l2 moyen d'un Eponge, et examinera se
+#facs_280_r1l3 affusion du sang est provenüe de
+#facs_280_r1l4 en compare des veines du Poulmon
+#facs_280_r1l5 du décidé des veines du coeur, il
+#facs_280_r1l6 Oostivelà en outre, si toutes les par
+#facs_280_r1l7 tus contenues dans la Poitrine
+#facs_280_r1l8 et vusines ou lieu ou sera la blessure
+#facs_280_r1l9 se sont ouvrées dans un état sa
+#facs_280_r1l10 lubre, et s'il n'a point aperçu
+#facs_280_r1l11 de petits polypes dans les Vaisseaux
+#facs_280_r1l12 et dans les ventricules du Coeur, soit
+#facs_280_r1l13 dans le sinus de la veine=eave ou de
+#facs_280_r1l14 la veine pulmonaire
+#facs_280_r1l15 En huitieme lieu, lorsque la blessure
+#facs_280_r1l16 aura été portée dans le ventre, le
+#facs_280_r1l17 Chirurgien, après avoir fait l'ouver
+#facs_280_r1l18 ture de cette partie, fera des recherches
+#facs_280_r1l19 semblables à ce qui a été dit ei desus
+#facs_280_r1l20 il donera la description la plus exacte
+#facs_280_r1l21 de la partie blessée, et indiquera en
+#facs_280_r2l1 G55
+#facs_280_r2l2 quel état il aura trouvé le reste des in¬
+#facs_280_r2l3 estins
+#facs_280_r2l4 Dans les cas cependant ou la vraie cause
+#facs_280_r2l5 de la mort, produite par l'endomage
+#facs_280_r2l6 ment de telle ou telle cavité du corps,
+#facs_280_r2l7 pourroit etre sufisament constatée le
+#facs_280_r2l8 Chirurgien ne sera pas toujours obligé
+#facs_280_r2l9 d'ouvrir les autres cavités; comme par
+#facs_280_r2l10 exemple, dans les endommagement
+#facs_280_r2l11 mortels de la cervelle, ou du cervelet,
+#facs_280_r2l12 de la moëlle de l'épine du dos, des
+#facs_280_r2l13 poulmons, du Coeur, ou des gros &ais
+#facs_280_r2l14 seaux sanguins de la Poitrine ; soit
+#facs_280_r2l15 du diaphragme, du fois, de la rate de
+#facs_280_r2l16 l'estomac des boyaux, du mesentere
+#facs_280_r2l17 des rognons, de la vessie et des grandes
+#facs_280_r2l18 Weines du bas-Ventre. Il sera cepen a
+#facs_280_r2l19 dant tenu, chaque fois, de remettre au
+#facs_280_r2l20 juge du lieu une relation circonstanciée
+#facs_280_r2l21 et detaillée dans tous ses points, des
+#facs_280_r2l22 Vraies causes qui ont occasioné la mort
+#facs_281_r1l1 et de rougir répondre a toutes les
+#facs_281_r1l2 objections d'oriteuses qu'on pourroit
+#facs_281_r1l3 lui faire. Pour cet effet, il examinera
+#facs_281_r1l4 avec exactitude les entrailles, dans
+#facs_281_r1l5 toutes les trois cavités
+#facs_281_r1l6 V. 3
+#facs_281_r1l7 Il a été remarqué et dessus, au Sr
+#facs_281_r1l8 qu'un Chirurgien ne sera point
+#facs_281_r1l9 obligé de faire l'ouverture juri
+#facs_281_r1l10 dique des corps des Personnes noyes
+#facs_281_r1l11 qui n’offriroient aucun signe exterieur
+#facs_281_r1l12 d'un endommagent cause par quelque
+#facs_281_r1l13 violence ou force exterieures, soit de
+#facs_281_r1l14 ceux de telles autres Personnes, qui
+#facs_281_r1l15 auroient peri par un effet de la
+#facs_281_r1l16 Vapeur du Charbon, du souffre, du
+#facs_281_r1l17 Vin de la biere ou de quelque autre
+#facs_281_r1l18 exhalaison mortelle, soit encore
+#facs_281_r1l19 lorsque ces personnes auroient été
+#facs_281_r1l20 tuées par la foudre, et qu'il seroit
+#facs_281_r2l1 57
+#facs_281_r2l2 intimement convaincu que leur mort auroit
+#facs_281_r2l3 été causée par de tels accidents, puisqu'on
+#facs_281_r2l4 s'est assuré déjà par une quantité suf
+#facs_281_r2l5 d'experKences faites a ce sujet
+#facs_281_r2l6 fisante
+#facs_281_r2l7 que de telles personnes perissent toutes
+#facs_281_r2l8 d'une apoplexie ou d'une suffocation.
+#facs_281_r2l9 Toutefois, comme des personnes etranglées
+#facs_281_r2l10 perissent aussi par un effet des meme cause
+#facs_281_r2l11 le chirurgien ne devra point hésiter à faire
+#facs_281_r2l12 l'ouverture du corps, s'il y decouvre seule
+#facs_281_r2l13 ment le moindre signe d'étranglement,
+#facs_281_r2l14 soit à la peau du cou, soit sur la poitrine.
+#facs_281_r2l15 Dans ce cas il ouvrira d'abord la tête
+#facs_281_r2l16 ou il trouvera du sang extravaisé; les arteres,
+#facs_281_r2l17 ainsi que les deines qui portent le sang vers
+#facs_281_r2l18 le coeur, extremement gonflées de sang
+#facs_281_r2l19 et le cerveau fort presse par elles
+#facs_281_r2l20 dans la Poitrine il trouvera les Vaisseaux
+#facs_281_r2l21 du poulmons egalement gonflées par
+#facs_281_r2l22 une extrême surabon donçe de sang;
+#facs_282_r1l1 les poulmons mêmes seront d'un rouge
+#facs_282_r1l2 brunâtre, et les cavites du coeur grossier
+#facs_282_r1l3 aussi par la quantité de sang qui
+#facs_282_r1l4 s'y sera porté
+#facs_282_r1l5 § 4
+#facs_282_r1l6 Si le sujet trouvé mort mort, est une
+#facs_282_r1l7 Enfant nouvellement ne, sur lequel
+#facs_282_r1l8 on ne puisse decouvrir aucun signe
+#facs_282_r1l9 exterieur d'endommagement, mais
+#facs_282_r1l10 cependant il n'ait point le cordon
+#facs_282_r1l11 ombilical noue, et qu'il soit mierteur
+#facs_282_r1l12 si l'enfant est venu au monde mort
+#facs_282_r1l13 ou vivant; dans ce cas le Chirurgien
+#facs_282_r1l14 devra commencer par l'ouverture du
+#facs_282_r1l15 la poitrine, et couper quelques mor-
+#facs_282_r1l16 ceaux des poulmons; et si les morceaux
+#facs_282_r1l17 etant jetés dans de l'eau, s'enfoncent
+#facs_282_r1l18 aussi tot, ce sera un indice que
+#facs_282_r1l19 l'Enfant est mort avant sa nais
+#facs_282_r1l20 sance, et qu'il n'a jamais respire.
+#facs_282_r2l1 Le chirurgien devra examiner en outre, si
+#facs_282_r2l2 l'Enfant est parvenu au terme ordinaire de
+#facs_282_r2l3 la Naissance; s'il se trouve dans les par
+#facs_282_r2l4 ties principales de l'interieur du corps
+#facs_282_r2l5 quelque chose de contraire au cours ordres.
+#facs_282_r2l6 naire de la Nature, soit quelque prin-
+#facs_282_r2l7 cipe de maladie qui puisse avoir ce
+#facs_282_r2l8 easionné naturellement sa mort
+#facs_282_r2l9 5
+#facs_282_r2l10 Un medecin ou un chirurgien, auxquels
+#facs_282_r2l11 on demanderoit un preavis raisonné
+#facs_282_r2l12 sur des cas de mort produits par l'effet
+#facs_282_r2l13 de quelque poison, ne peuvent en donner
+#facs_282_r2l14 que rarement des preus sans une con
+#facs_282_r2l15 noissance exacte et approfondie de toutes
+#facs_282_r2l16 les especes de poisons qui sont capables
+#facs_282_r2l17 de faire perir un homme, soit d'une mort
+#facs_282_r2l18 subite, ou d'une mort lente, c'est pour
+#facs_282_r2l19 quoi tous les medecins des campagnes
+#facs_282_r2l20 sont exhortés à lire assiduement les
+#facs_283_r2l1 Observations qui ont ete communiquées
+#facs_283_r2l2 sur des sujets de cette nature, par des
+#facs_283_r2l3 hommes oveus et expert et experts
+#facs_283_r2l4 afin qu'en cas criminels, ils
+#facs_283_r2l5 soyent à même depouvoir donner
+#facs_283_r2l6 au Juge des relations claires et deux
+#facs_283_r2l7 sives sur tout ce que peut avoir que
+#facs_283_r2l8 rapport avec les causes de la mort
+#facs_283_r2l9 d'une personne empoisonée
+#facs_283_r2l10 Personne n’ignoré, que tout Poi
+#facs_283_r2l11 son corrosif avalé, tel, par exemple
+#facs_283_r2l12 que le verd-de-gris, l'arsence, le sublir
+#facs_283_r2l13 l'huile-de-ditroi, l'eau-forte, et divers
+#facs_283_r2l14 autres corps venimeux tant miner
+#facs_283_r2l15 aux que degeteaux, peuvent tuer
+#facs_283_r2l16 subitement une personne, on sait
+#facs_283_r2l17 aussi que ces poisons avales causent
+#facs_283_r2l18 d'abord les plus fortes angoisses
+#facs_283_r2l19 des convulsions, des douleurs dans
+#facs_283_r2l20 la bouche, dans le gosier et dans
+#facs_283_r2l21 l'estomac, ainsi quels plus
+#facs_283_r3l1 161
+#facs_283_r3l2 fortes envies de vomir jusqu'a ce que la
+#facs_283_r3l3 mort s'ensuive, Effets qu'aucune autre
+#facs_283_r3l4 matiere de suis corrompus, ni aucune
+#facs_283_r3l5 principes de quelque maladie qui se
+#facs_283_r3l6 seroient developpes ou formés dans le
+#facs_283_r3l7 corps ne sont capables de produire.
+#facs_283_r3l8 Lorsque donc on auroit remarqué des
+#facs_283_r3l9 symptomes de cette nature, par quelle
+#facs_283_r3l10 cause quils ayent pu être occasionnés
+#facs_283_r3l11 et que la personne qui les auroit ressentis
+#facs_283_r3l12 fut morte; de telles circonstances don,
+#facs_283_r3l13 neront les plus forts soupçons qu'elle
+#facs_283_r3l14 . Dans ce cas
+#facs_283_r3l15 aura été empoisonnée
+#facs_283_r3l16 après s’être informé prealablement et
+#facs_283_r3l17 avec exactitude de tous les symptomes
+#facs_283_r3l18 accidens et circonstances qui se seront
+#facs_283_r3l19 manifestés avant la mort de la ditte
+#facs_283_r3l20 personne, le Chirurgien fera l'ouverture
+#facs_283_r3l21 du Corps, et s'attachera principalement
+#facs_283_r3l22 a examiner l'état de l'intérieur de la
+#facs_283_r3l23 bouche et dela gorge, celui des
+#facs_284_r1l1 eannaux alimentaires, de l'estomac et
+#facs_284_r1l2 des boyaux, les quelles parties, lors
+#facs_284_r1l3 qu'elles se trouveront enflammes,
+#facs_284_r1l4 rougeés ou a quées de la gangrene
+#facs_284_r1l5 indiqueront clairement que la qui
+#facs_284_r1l6 sonne morte, qui peu de tems
+#facs_284_r1l7 auparavane, se seroit trouvée en
+#facs_284_r1l8 un etat de pleine santé, aura été
+#facs_284_r1l9 empoisonnée par quelque matiere
+#facs_284_r1l10 avalée, soit acidé, soct corrosive,
+#facs_284_r1l11 la quelle auroit occasionné sa
+#facs_284_r1l12 mort.
+#facs_284_r1l13 Leurs Excellences entendent
+#facs_284_r1l14 et ordonnent, que dans tous les cas
+#facs_284_r1l15 ci-dessus denoncés, tous les medecins
+#facs_284_r1l16 et chirurgiens se conforment au
+#facs_284_r1l17 presentes instructions, dont un
+#facs_284_r1l18 double sera remis à chacun d'entre
+#facs_284_r1l19 eux; et afin qu'elle puissent
+#facs_284_r1l20 connoitre, si leur Volonte a ut
+#facs_284_r2l1 563
+#facs_284_r2l2 égard a été executée, il sera delivré au Ri
+#facs_284_r2l3 gneur Baillif, pour le faire parvenir
+#facs_284_r2l4 à l'Illustre Conseil de Santé, un
+#facs_284_r2l5 double de chaque rapport officiel, par
+#facs_284_r2l6 le medecin ou le chirurgien qui l'aura
+#facs_284_r2l7 dresse, ainsi qu’il à deja été prescrit
+#facs_284_r2l8 dans l’article 7e de l'ordonnance con¬
+#facs_284_r2l9 cernant les Chirurgiens, et dans l'article
+#facs_284_r2l10 6e de celle concernant les médecins
+#facs_284_r2l11 Donné le 7e Janvier 1789

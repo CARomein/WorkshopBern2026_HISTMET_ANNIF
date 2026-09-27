@@ -1,0 +1,29 @@
+BER.01.001.2635
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 20/20
+# High similarity (>=50%): 20
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_132_r2l1 Coll.
+#facs_132_r3l1 252
+#facs_132_r3l2 An Thun, Trandis, Signane, Thorberg.
+#facs_132_r3l3 Burgdorff, Landtehunt, Lentzburg Schwartzenburg
+#facs_132_r3l4 Alle Freyweibel und Amman, Hem¬
+#facs_132_r3l5 Trachsellwaldt.
+#facs_132_r3l6 Die früscher Dingen mahnen, ob dem Tauffer mandat
+#facs_132_r3l7 geflissenlich zu halten.
+#facs_132_r3l8 Schultheiß und Raht der Statt Bern.
+#facs_132_r3l9 Wir müssens mit ohnlieb vernemen, wie daß ohngeacht
+#facs_132_r3l10 Unser anlangst außgeschribenen Teüffevordnung, die Verlesene
+#facs_132_r3l11 Täuffere sich widerumb ins land verfüegen, und darinnen
+#facs_132_r3l12 vnderschlauff finden Thürzins etc. Worüber Wir dich deiner
+#facs_132_r3l13 Theils nochmahlen aller ernste vermahnt haben wollendt, die
+#facs_132_r3l14 engelägen sein zu lassen, exacté ob bedüter Ordnung zuhalten
+#facs_132_r3l15 und so deren hinder deinem Ambt angetroffen werden solten
+#facs_132_r3l16 nach Inhalt derselben wider sie zu verfahren, so lieb dir sein
+#facs_132_r3l17 wirdt, Oberbeitliche Ungnad und harte Verantwortung zu ver¬
+#facs_132_r3l18 meiden; Messen geschehen werden wir Uns verschendt.
+#facs_132_r3l19 Datz. 30. Novembris 1696.

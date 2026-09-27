@@ -1,0 +1,33 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 25/26
+# High similarity (>=80%): 21
+# Low similarity (<80%): 4
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4437
+#facs_255_r5l5 die Erbstheilungen einer Erblaßers, sollen durch den
+#facs_30_region_1628528561302_105l1 50.
+#facs_3_region_1628102450149_34l_1 An
+#facs_259_r3l2 Alle Teütsche Herren Amtleut und Ählen
+#facs_255_r5l4 und Gottsta¬
+#facs_255_r5l5 die Erbstheilungen einer Erblaßers, sollen durch den
+#facs_255_r5l6 Landschreiber desjenigen Bezirbs, wo der Erblaßer geseßt
+#facs_255_r5l7 ist ausgefertiget werden
+#facs_3_region_1628102473141_41l_3 Schultheiß und Rahts
+#facs_255_r5l9 Schon zu verschiedenen mahlen, hat vor uns die
+#facs_255_r5l10 Frage gewaltet, ob die Ausfertigung der Erbstheil¬
+#facs_255_r5l11 lung eines Erblaßers, demjenigen Landschreiber
+#facs_255_r5l12 zukomme in deßen bezirk er säßhaft gewesen,
+#facs_255_r5l13 der aber dem, wo solcher Verbürgeret wäre. Damit
+#facs_255_r5l14 nun solches entscheiden, und aller Anlaß zu
+#facs_255_r5l15 künftigen Streittigkeiten vermüdten werde, ist
+#facs_255_r5l16 Unser Wille, und wollen andurch Statuirt haben.
+#facs_255_r5l17 daß dergleichen Erbstheillungen durch dem
+#facs_255_r5l18 Landschreiber desjenigen Bezirks, wo der Erblaßer
+#facs_255_r5l19 läshafft ist, ausgefertiget werden. Welches Ihr
+#facs_255_r5l20 zu künftiger Nachricht werdet in die Schloß¬
+#facs_255_r5l21 Bücher einschreiben laßen. Dat. d. 30. May 1775.
+#facs_255_r5l22 2. dem Amtschreiber des Orts eröfnen- und an¬
+#facs_255_r5l23 nebens p
+#facs_24_region_1628255397587_277l11 en

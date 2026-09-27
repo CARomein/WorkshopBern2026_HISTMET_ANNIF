@@ -1,0 +1,93 @@
+Law ID: BER.01.001.3238
+Name: 1. Die Einfuhr dess frömbden Weins verbieten. 2. Hingegen die hierlandts gewachsenen in seiner vorgeschribenen Maass zu lassen. 3. Das Husieren mit den gebrönten Wasseren verbieten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 82/82
+# High similarity (>=50%): 82
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_129_r2l18 und expedit. d. 6. 8b 1717.
+#facs_129_r3l1 235.
+#facs_129_r3l2 An alle Oberländische Amtleuth.
+#facs_129_r3l3 1. Die Einfuhr deß frömbden weins verbieten.
+#facs_129_r3l4 hingegen die hierlandts gewachsenen in sei¬
+#facs_129_r3l5 2
+#facs_129_r3l6 Vorgeschribenen Maaß zu laßen
+#facs_129_r3l7 und
+#facs_129_r3l8 Das Husieren mit den gebrönten waßeren
+#facs_129_r3l9 3
+#facs_129_r3l10 Verbieten
+#facs_129_r3l11 Schuldtheis und Rath der Statt Bern,
+#facs_129_r3l12 Mißfellig müßend wie vernommen, daß ohn¬
+#facs_129_r3l13 Collath.
+#facs_129_r3l14 geacht unßeren hievorigen ernstlichen verbotten
+#facs_129_r3l15 dennoch hin und wider in unseren Oberlän¬
+#facs_129_r3l16 dischen Landen der Eheuthaler, Wallißer, und
+#facs_129_r3l17 andere frembde wein heimlich ins Land ge¬
+#facs_129_r3l18 auch dem im
+#facs_129_r3l19 Schlicketen und darmit viel galts entäußert
+#facs_129_r3l20 heimbschen ge
+#facs_129_r3l21 der Verkaufe
+#facs_129_r3l22 dahero wir höchst nöthig befunden das Verbote
+#facs_129_r3l23 gisperation.
+#facs_129_r3l24 allen frömbden weins in den oberländischen
+#facs_129_r3l25 Landschafften zu erfrischen, und hiemit alles
+#facs_129_r3l26 Ernsts und by Confiscation /: davon dem
+#facs_129_r3l27 Verleider der dritte Theil heimfallen soll.
+#facs_130_r2l1 Männiglich dergleichen Einfuhr zu verbieten,
+#facs_130_r2l2 Solchem nach Unßeren Ober- und Underbe¬
+#facs_130_r2l3 amteten by Ihren hohen und theüre Eyden be¬
+#facs_130_r2l4 fehlende, darob Eiferig zu invigilieren, und
+#facs_130_r2l5 zu halten, zu solchem Ende auch gebührender
+#facs_130_r2l6 Orthen nöthige auffsechere zu bestellen, und
+#facs_130_r2l7 fahlß etwas entdecket wurde, Unßere Umb¬
+#facs_130_r2l8 gelter Cammer deßen Euch zu berichten, maaßen
+#facs_130_r2l9 dieselbe denbefelch empfangen auff Ihrer
+#facs_130_r2l10 seiths aufsachere zu bestellen.
+#facs_130_r2l11 Die Einfuhr und verkauff des Ryst, La Coste
+#facs_130_r2l12 und weltschen Landweins betreffend, habend
+#facs_130_r2l13 wir deselben halb geordnet, daß zwar die
+#facs_130_r2l14 birthen von Thun sich mit dergleichen wein
+#facs_130_r2l15 für Ihre wirtschaften Fürters wie vorhin wohl
+#facs_130_r2l16 versechen mögen, Ihnen aber und anderen under
+#facs_130_r2l17 dem schein solch zugelaßenen Kauffs darauf
+#facs_130_r2l18 engros oder zu faßen weiß anderstwohin
+#facs_130_r2l19 zu verkauften, noch denen Oberländischen
+#facs_130_r2l20 wirthen desen von Ihnen den wiethen zu Thun
+#facs_130_r3l1 237.
+#facs_130_r3l2 oder anderen zu erhandlen by Confiscation Ver¬
+#facs_130_r3l3 botten seyn solle.
+#facs_130_r3l4 Hingegen aber soll denen wirthen obt'hun zuge¬
+#facs_130_r3l5 laßen seyn, für Ihre wirtschaften mit dergleichen
+#facs_130_r3l6 wein allhier in der Haubtstatt mit bescheiden
+#facs_130_r3l7 heit sich zu versechen, wie in hievorigen Zeithen
+#facs_130_r3l8 beschechen: ebenmäßig bleibt den Sämmeren
+#facs_130_r3l9 wie vorhin bewilliget, allhier Ihre lagel zu füllen,
+#facs_130_r3l10 Waß das Brönnen und Verkauffen des Kirsen¬
+#facs_130_r3l11 waßers betrifft, so mochten wir wohl erlömischen,
+#facs_130_r3l12 daß solches alles eine gesundheit schädliche
+#facs_130_r3l13 sach unterlaßen würde, Wir wollend aber
+#facs_130_r3l14 Zu etwelcher Hemmung desselben das herumbragen,
+#facs_130_r3l15 und Husieren mit demselben by confiscation
+#facs_130_r3l16 verbotten haben. Deßen wir dich
+#facs_130_r3l17 gleich gegen anderen Oberländischen Amtleuthen
+#facs_130_r3l18 auch beschieht hiemit benachrichten, und zugleich
+#facs_130_r3l19 befelchnen wollen, nit allein solches Zu Manig¬
+#facs_130_r3l20 liches nachricht von Cantzle, verkünden zu laßen,
+#facs_130_r3l21 sonderen auch in eint und anderem und dritten
+#facs_131_r2l1 drichten steiffe Hand abzuhalten. Gott mit dir. Datum
+#facs_131_r2l2 8. Dec: 1717.
+#facs_131_r2l3 per Postscriptum
+#facs_131_r2l4 An Saanen und Zweyemmen allein.
+#facs_131_r2l5 Waß hieroben in disem Mandat wegen
+#facs_131_r2l6 rückauffung des Ryst, La Coste und
+#facs_131_r2l7 Beltschen weins enthalten ist, soll die beyde
+#facs_131_r2l8 Landschafften des Amts Saanen, und Castlanden
+#facs_131_r2l9 Zwey sinnen nit berühren, zumahlen dorthigen
+#facs_131_r2l10 Unseren Underthanen fürters zugelaßen
+#facs_131_r2l11 bleibet, in den weinlanden Unsers gebiets
+#facs_131_r2l12 selbsten, ihre nothwendigkeit die vorhin ein¬
+#facs_131_r2l13 zukauffen, und dorthen abzuholen. Dat. ut supra.

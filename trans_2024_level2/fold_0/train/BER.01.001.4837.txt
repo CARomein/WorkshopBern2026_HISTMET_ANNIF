@@ -1,0 +1,28 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 20/21
+# High similarity (>=80%): 19
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4837
+#facs_45_r3l19 Wegen Bevogtungen
+#facs_3_region_1629374296225_399l1 An
+#facs_90_r3l17 Die Herren Amtleüt zu Frienisperg und Ruchste
+#facs_45_r3l18 und Sumißbald
+#facs_45_r3l19 Wegen Bevogtungen
+#facs_21_r5l16 Schultheiß und Raht’
+#facs_45_r3l21 Aus Anlaß einer zwischen denen Herren Amt
+#facs_45_r3l22 leuten zu Trachselwald und Trancks gewalt
+#facs_45_r3l23 ten und an Ihr End. gelangte Frage, betr.
+#facs_45_r3l24 tungs Sachen ansehend, haben Meghhl. für besag
+#facs_45_r3l25 beyde Ämter, wie auch für die Amter Rurgdorff und
+#facs_45_r4l1 87
+#facs_45_r4l2 Sumißwald verordnet: Daß künftighin Mänig
+#facs_45_r4l3 lich von dem Amtsmann, hinter welchem mann
+#facs_45_r4l4 verbürgeret ist, man sie gleich innert oder außer
+#facs_45_r4l5 dem Amt, bekogtet werden solle; deßen Sie berich¬
+#facs_45_r4l6 let werden, ümm vorfällen darnach sich zu verhal¬
+#facs_45_r4l7 ten, und solches zu künftiger Erinnerung, in den
+#facs_45_r4l8 Schloßbüchen einschreiben zu laßen. Dat. 18 May 1778.
+#facs_178_r8l1 en

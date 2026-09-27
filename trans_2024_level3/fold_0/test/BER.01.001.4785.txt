@@ -1,0 +1,300 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 293/293
+# High similarity (>=80%): 282
+# Low similarity (<80%): 11
+# Not found: 0
+#
+#facs_128_r4l57 November 1795
+#facs_4_r3l2 Verordnung.
+#facs_22_r2l12 über den Verkehr von Lebens mitteln mit Aussern
+#facs_120_r6l20 Wir Schultheiß und Rath der Stadt und
+#facs_237_r3l2 entbieten allen Ansteren G. L. Verbürger
+#facs_4_r3l23 Bürgern und Angehörigen, zu Stadt und Land,
+#facs_22_r2l16 unsern gnädigen und geneigten Willen,
+#facs_22_r2l17 und geben ihnen hierdurch zu vernehmen.
+#facs_22_r2l18 daß Wir, in Fortstehung Anserer Verord¬
+#facs_22_r2l19 nungen, zu Handhabung der Hochobrigkeit
+#facs_22_r2l20 lichen Ausfuhr, Verbotts vom 3ten Decemb.
+#facs_22_r2l21 1794. und in Milderung sonderheitlich der
+#facs_22_r2l22 gegen Unsere Benachbarte die Lobl. Stände
+#facs_22_r2l23 Fryburg
+#facs_73_r4l1 137
+#facs_283_r2l3 Fryburg und Solothurn, nach Maßgab
+#facs_22_r3l3 Verkehr von allen Arten von Lebensmittlen mit
+#facs_22_r3l4 Außern fest gesezt und verordnet haben, was
+#facs_22_r3l5 hienach von einem zum andern folget.
+#facs_22_r3l6 1° Obliegenheiten Unsrer Angehörigen
+#facs_22_r3l7 in Ansehung des Verkehrs mit Äussern
+#facs_22_r3l8 1°) Ueberhaupt soll manniglich der Verkauf an
+#facs_22_r3l9 Fremde von auszuführen unterstagten Leben
+#facs_22_r3l10 bedürfnißen außerhalb den öffentlichen
+#facs_251_r3l23 Jahr- und Wochenmarkten des löbl. Standes
+#facs_22_r3l12 Verordnung vom 3ten Decemb. bestimmten
+#facs_22_r3l13 Strafe, verbotten seyn. Unter Fremden sollen
+#facs_22_r3l14 aber alle diejenigen verstanden werden.
+#facs_22_r3l15 die nicht in Unsern Immediat Landen ange¬
+#facs_220_r4l18 versehen sind
+#facs_22_r3l17 Unsere Bürger und Angehörige aber, welche
+#facs_22_r3l18 sich nicht in hiesiger Immediat-Gottmäßigkeit
+#facs_22_r3l19 aufhalten, sollen anzusehen seyn, wie die Einwohner
+#facs_22_r3l20 der Orts, hinter welchem sie wohnen. Von dieser
+#facs_22_r3l21 General=Vorschrift sollen jedoch ausgenommen
+#facs_22_r3l22 seyn die Mezgermeister derjenigen benachbar
+#facs_22_r3l23 ten Städte, denen durch eigene Verordnung
+#facs_22_r3l24 gen der Verkauf von kleiner Viehwaart
+#facs_22_r3l25 bey
+#facs_23_r1l1 38
+#facs_23_r2l1 bey den Häusern erlaubt ist, insofern sie hie¬
+#facs_23_r2l2 zu die erforderlichen Erlaubnung=Scheine auf¬
+#facs_23_r2l3 weisen können.
+#facs_23_r2l4 2.) Auch auf den Jahr- und Wochen- Markten
+#facs_23_r2l5 ist es nur erlaubt der gleichen Lebens Bedurch¬
+#facs_23_r2l6 niße an Eydgenoßen und Mediaten Angehöri¬
+#facs_23_r2l7 gezuverkauffen, denen der Ankauf durch
+#facs_23_r2l8 besondere Obrigkeitliche Verordnungen
+#facs_23_r2l9 gestattet ist. Pferde, große und klein
+#facs_23_r2l10 Viehwaare darf aber nur an solche ver¬
+#facs_23_r2l11 äußert werden, die mit einem authen¬
+#facs_23_r2l12 tischen vom Markt-Inspektor als gültig
+#facs_23_r2l13 anerkennten- und von ihme unterschrie¬
+#facs_23_r2l14 benen Ankauf-Schein versehen sind. Auf
+#facs_23_r2l15 die Widerhandlung ist ebenfalls die
+#facs_23_r2l16 Ausfuhr-Strafe gesezt.
+#facs_23_r2l17 II: von den Obliegenheiten der
+#facs_23_r2l18 Außeren, denen der Ankauf
+#facs_23_r2l19 in hiesigen Landen gestattet ist.
+#facs_23_r2l20 In Ansehung der Lebwaare haben sie sich nach
+#facs_23_r2l21 folgender Vorschrift zu verhalten.
+#facs_23_r2l22 vor dem Ankauf.
+#facs_23_r2l23 3.) Ermeldte Eydsgenoßen und Mediat¬
+#facs_23_r2l24 Angehörige
+#facs_23_r3l1 39
+#facs_23_r3l2 angehörige, denen der Ankauf von Lebwaare in
+#facs_23_r3l3 hiesigen Landen gestattet ist, sollen sich zu die
+#facs_23_r3l4 sem Ende beym Amtsmann der Orts, wo sie
+#facs_23_r3l5 angeseßen sind, oder bey derjenigen Gerichts-
+#facs_23_r3l6 oder Polizey stelle, die diesen Plaz vertrittet
+#facs_23_r3l7 einen gedrukten von dem Ober=Amtsmann
+#facs_23_r3l8 besiegelten und eigenhändig unterschriebenen
+#facs_23_r3l9 Ankauf-Schein auszuwürken bemüht seyn.
+#facs_23_r3l10 die Mezger Meister derjenigen Städte aber,
+#facs_23_r3l11 denen wochentlich ein gewißer Quantum Vieh
+#facs_23_r3l12 anzukaufen bewilliget ist, sollen sich mit ge¬
+#facs_23_r3l13 schriebenen Ankauf-Scheinen versehen, die
+#facs_23_r3l14 mit dem Stadt- Siegel und der Unterschrift
+#facs_23_r3l15 des Stadtschreibers verwahrt seyn müßen.
+#facs_23_r3l16 4°) die Erforderniße zu einem solchen
+#facs_23_r3l17 rechts gültigen Ankauf = Schein bestehen darinn
+#facs_23_r3l18 daß der Name und Wohnort des Kaufers,
+#facs_23_r3l19 wie auch allfällig derjenigen für den die
+#facs_23_r3l20 Waare angekauft wird, angezeigt und
+#facs_23_r3l21 zugleich bescheinigt seye, daß der Käufer
+#facs_23_r3l22 kein Händler, sonder der anzukaufenden
+#facs_23_r3l23 Waare zu seinem Hausgebrauch oder zum
+#facs_23_r3l24 Dahelf eines Fleischbants benöthigt;
+#facs_23_r3l25 fernerm, daß die Anzahl des anzukaufenden
+#facs_58_r2l24 hiesiger
+#facs_60_r1l1 110
+#facs_24_r3l1 Viehes nicht mit zahlen, sondern mit Buchstaben
+#facs_24_r3l2 aus gesteht seyn, auch nicht das jenige über
+#facs_24_r3l3 steige, was einem solchen Publiko Hochobrig
+#facs_24_r3l4 heitlich bewilliget ist, und endlich, daß der
+#facs_24_r3l5 Marbt-Tag bestimmt seyn an welchem
+#facs_24_r3l6 die Waare angekauft werden solle
+#facs_257_r3l1 501.
+#facs_24_r3l8 An dem ermelten Markt-Tage soll
+#facs_24_r3l9 der Käufer verpflichtet seyn, ehe und bevor
+#facs_24_r3l10 er die bewilligte Waare ankaufen wird,
+#facs_24_r3l11 sich mit seinem Ankauf=Schein zum
+#facs_24_r3l12 Markt=Inspektor zubegeben, und ihm
+#facs_24_r3l13 welbigen zur Prüfung vorzuweisen, bey
+#facs_24_r3l14 einer Strafe von zwanzig Pfunden.
+#facs_24_r3l15 Vereinigt der Schein alle oberwähnte
+#facs_24_r3l16 Erforderniße zu seiner Rechtsgültigkeit
+#facs_24_r3l17 so soll der Inspektor seine Ankaufs- Be¬
+#facs_24_r3l18 willigung hinzufügen, und mit seiner
+#facs_24_r3l19 Unterschrift bekräftigen, erst als denn
+#facs_24_r3l20 ist der Käufer befugt seine Waare
+#facs_24_r3l21 anzukaufen.
+#facs_24_r3l22 Bey dem Ankauf.
+#facs_24_r3l23 6°) Es ist dem Äußern Käufer ernstlich
+#facs_24_r3l24 verbotten, ein mehrers oder etwas andere
+#facs_24_r3l25 anzukaufen, als sein Ankauf=Schein verwilligt,
+#facs_24_r3l26 auch
+#facs_9_r7l1 11
+#facs_24_r4l2 auch soll er an keinem andern Ort oder Markt - Tage
+#facs_24_r4l3 seine benöthigte Waare ankaufen, als in seinem
+#facs_24_r4l4 Jedel ausgesetzt ist, bey Strafe der Confiscation
+#facs_24_r4l5 und einer Buße vom Werth derselben, nach Wo
+#facs_24_r4l6 schrift des Ausfuhr-Verbotts vom 3ten Decemb: 1794.
+#facs_24_r4l7 Die nemliche Poen ist auch auf den Fall gesezt
+#facs_24_r4l8 wo jemand ohne Ankauf - Schein oder mit einer
+#facs_24_r4l9 ungültigen Ankauf-Schein Pferde, große
+#facs_24_r4l10 und kleine Viehwaare anzukaufen sich ermer¬
+#facs_24_r4l11 ten würde. Als ungültig sind alle diejenige
+#facs_24_r4l12 Ankauf-Scheine anzusehen, die nicht auf den
+#facs_24_r4l13 Namen des Kaufers gestellt sind, die
+#facs_24_r4l14 bereits benuzt und mit der Ausfuhr be¬
+#facs_24_r4l15 willigung des Inspektors verstehen sind, und
+#facs_24_r4l16 überhaubt alle diejenigen, welche nicht
+#facs_24_r4l17 oberwähnte im vierten Artikel enthalten
+#facs_24_r4l18 Erfordernisse zur Rechtsgültigkeit ver¬
+#facs_24_r4l19 .. Derjenige aber, welcher einen
+#facs_24_r4l20 auf seinen Namen lautenden Ankauf¬
+#facs_24_r4l21 Schein einem andern abtrittet oder übergiebt,
+#facs_24_r4l22 soll zu einer Buße vom Werth der Waare
+#facs_24_r4l23 die darauf angekauft wird, verfällt werden.
+#facs_24_r4l24 Nach dem Ankauf.
+#facs_24_r4l25 7°) Jeder ausern Käufer ist verpflichtet.
+#facs_9_r7l25 nach
+#facs_25_r1l1 42
+#facs_25_r2l1 nach getroffenem Ankauf sich zum Markt
+#facs_25_r2l2 In spektor oder zum Inspektor des Orts zu ver¬
+#facs_26_r2l3 fügen, sich von demselben einen Subschen
+#facs_26_r2l4 ausfertigen, und die Anzahl des Angekauften
+#facs_25_r2l5 in den Ankauf-Schein verzeichnen zu laßen.
+#facs_25_r2l6 bey einer Ruße von zwanzig Pfunden
+#facs_25_r2l7 8.) diesen Ankauf=Schein sollen als denn die
+#facs_25_r2l8 Mezgere derjenigen Publika, denen wöchen¬
+#facs_25_r2l9 lich eine gewiße bestimmte Anzahl anzu¬
+#facs_25_r2l10 kaufen verwilligt ist, dem Zoll Commis
+#facs_25_r2l11 oder Inspektor der Orts, welcher ihnen
+#facs_25_r2l12 zum Austritt verzeigt worden zu stellen,
+#facs_26_r2l13 der ihnen dann, wenn selbiger in der Regel
+#facs_25_r2l14 ist, einen Ausgang-Zedel ausfertigen
+#facs_25_r2l15 wird. Die übrigen begünstigten Eidsge
+#facs_25_r2l16 noßen und Mediat angehörige aber
+#facs_25_r2l17 sollen sich durch den Inspektor der Orts¬
+#facs_25_r2l18 wo sie angekauft, die Ausfuhr Bewilligung
+#facs_25_r2l19 nebst der Marschroute in den Ankauf¬
+#facs_25_r2l20 Schein setzen laßen, und als denn die an¬
+#facs_25_r2l21 gewiesene Marschroute aufs genaueste
+#facs_25_r2l22 beobachten, und nur bey Tag ihre Reise
+#facs_26_r2l23 fortschen. Auf die Widerhandlung in
+#facs_25_r2l24 allen diesen Fällen ist die Ausfuhr
+#facs_25_r2l25 Strafe
+#facs_9_r7l1 11
+#facs_13_r1l1 18
+#facs_25_r2l25 Strafe
+#facs_25_r4l3 9°) Alle äußere sollen die nach dieser Vorschrift
+#facs_25_r4l4 angekauften Pferde, große und kleine Viehlwar
+#facs_25_r4l5 alsobald abführen, unterlassenden Falls dar-
+#facs_25_r4l6 Angekaufte im Land verbleiben, und darinn
+#facs_25_r4l7 wieder verkauft werden soll.
+#facs_25_r4l8 10) In Ansehung aller übrigen Lebensbedürf¬
+#facs_25_r4l9 niße soll ebenfalls allen Äußern, denen der
+#facs_26_r4l11 Ankauf hinter Unser Vollmäßigkeit ge¬
+#facs_25_r4l11 statet ist bey der im Mandat vom 3ten Decemb.
+#facs_25_r4l12 1794 bestimmten Strafe verbotten seyn, der
+#facs_26_r4l14 gleichen anderrwo denn an den öffentlichen
+#facs_25_r4l14 Jahr- und Wochen- Märkten anzukaufen.
+#facs_25_r4l15 Hiebey sind auch alle diejenigen besondern
+#facs_25_r4l16 Verordnungen förmlichst vorbehalten,
+#facs_25_r4l17 die den Verbehr derselben mit einzelner
+#facs_25_r4l18 Cantonen, Landschaften und Städten der
+#facs_25_r4l19 nähren bestimmen.
+#facs_9_r7l7 Die Vollziehung und das Richteramt in
+#facs_9_r7l8 erster Instanz dieser Unserer Verordnung
+#facs_25_r4l22 wird Unserer wohl verordneten Polizey
+#facs_25_r4l23 Cammer, für die Stadt und deren Bezirk
+#facs_24_r3l26 auch
+#facs_25_r1l1 42
+#facs_25_r2l1 nach getroffenem Ankauf sich zum Markt
+#facs_25_r2l2 In spektor oder zum Inspektor des Orts zu ver¬
+#facs_26_r2l3 fügen, sich von demselben einen Subschen
+#facs_25_r2l4 ausfertigen, und die Anzahl der Angekauften
+#facs_25_r2l5 in den Ankauf-Schein verzeichnen zu laßen.
+#facs_25_r2l6 bey einer Ruße von zwanzig Pfunden
+#facs_25_r2l7 8.) diesen Ankauf=Schein sollen als denn die
+#facs_25_r2l8 Mezgere derjenigen Publika, denen wöchen¬
+#facs_25_r2l9 lich eine gewiße bestimmte Anzahl anzu¬
+#facs_25_r2l10 kaufen verwilligt ist, dem Zoll Commis
+#facs_25_r2l11 oder Inspektor der Orts, welcher ihnen
+#facs_25_r2l12 zum Austritt verzeigt worden zu stellen,
+#facs_25_r2l13 der ihnen denn, wenn selbiger in der Regen,
+#facs_25_r2l14 ist, einen Ausgang-Zedel ausfertigen
+#facs_25_r2l15 wird. Die übrigen begünstigten Eidsge
+#facs_25_r2l16 noßen und Mediat angehörige aber
+#facs_25_r2l17 sollen sich durch den Inspektor der Orts¬
+#facs_25_r2l18 wo sie angekauft, die Ausfuhr Bewilligung
+#facs_25_r2l19 nebst der Marschroute in den Ankauf¬
+#facs_25_r2l20 Schein setzen laßen, und als denn die an¬
+#facs_25_r2l21 gewiesene Marschroute aufs genaueste
+#facs_25_r2l22 beobachten, und nur bey Tag ihre Reise
+#facs_26_r2l23 fortschen. Auf die Widerhandlung in
+#facs_25_r2l24 allen diesen Fällen ist die Ausfuhr
+#facs_25_r2l25 Strafe
+#facs_9_r1l1 10
+#facs_13_r1l1 18
+#facs_25_r2l25 Strafe
+#facs_8_r6l1 9
+#facs_26_r4l4 Alle äußere sollen die nach dieser Vorschrift
+#facs_26_r4l5 angekauften Pferde, große und kleine Viehwar
+#facs_25_r4l5 alsobald abführen, unterlassenden Falls dar-
+#facs_25_r4l6 Angekaufte im Land verbleiben, und darinn
+#facs_25_r4l7 wieder verkauft werden soll.
+#facs_26_r4l9 In Ansehung aller übrigen Lebensbedürf
+#facs_26_r4l10 eße soll ebenfalls allen Äußern, denen der
+#facs_26_r4l11 Ankauf hinter Unser Vollmäßigkeit ge¬
+#facs_25_r4l11 statet ist bey der im Mandat vom 3ten Decemb.
+#facs_25_r4l12 1794 bestimmten Strafe verbotten seyn, der
+#facs_26_r4l14 gleichen anderrwo denn an den öffentlichen
+#facs_101_r3l5 Jahr- und Wochenmarkten ankaufen dörfen
+#facs_25_r4l15 Hiebey sind auch alle diejenigen besondern
+#facs_25_r4l16 Verordnungen förmlichst vorbehalten,
+#facs_25_r4l17 die den Verbehr derselben mit einzelner
+#facs_25_r4l18 Cantonen, Landschaften und Städten der
+#facs_25_r4l19 nähren bestimmen.
+#facs_26_r4l21 11°) die Vollziehung und das Richteramt in
+#facs_9_r7l8 erster Instanz dieser Unserer Verordnung
+#facs_25_r4l22 wird Unserer wohl verordneten Polizey
+#facs_25_r4l23 Cammer, für die Stadt und deren Bezirk
+#facs_24_r3l26 auch
+#facs_9_r7l1 11
+#facs_283_r3l3 auch in den Landgrichten da keine Oberamt
+#facs_27_r2l2 mann stehen; in den Aemlern aber Unser
+#facs_9_r7l13 Amts Leuten aufgetragen
+#facs_9_r7l14 In allen Fällen da Waaren arrestirt
+#facs_9_r7l15 werden, soll immer ein Verbal errichtet:
+#facs_27_r2l6 und aus eingesendet werden, damit schi¬
+#facs_9_r7l17 entscheiden mögen, ob die Waare losge¬
+#facs_27_r2l8 laßen werden solle, oder nicht; er wäre
+#facs_9_r7l19 dann Sach, daß solches nur alleinigkeiten
+#facs_9_r7l20 betreffen würde.
+#facs_27_r2l11 Ist die arrestirte Waare von solcher
+#facs_9_r7l22 Natur, daß selbige bis zu Beendigung das
+#facs_9_r7l23 Prozesses sich aufzehren oder sonsten Schaden
+#facs_27_r2l14 Schaden leiden konnte, so wird dem Richter
+#facs_27_r2l15 überlaßen, nach den Umständen selbige
+#facs_27_r2l16 fentlich versteigern zulaßen, und das
+#facs_27_r2l17 erlöste Geld in Verwahrung zu behalten.
+#facs_27_r2l18 Ist der Eigenthümer im Lande an
+#facs_27_r2l19 gestessen, so kann die dem Schaden aus gesetzte
+#facs_27_r2l20 Waare, gegen hinreichende Bürgschaft
+#facs_27_r2l21 für den ganzen Werth, verabfolget
+#facs_5_r5l11 werden
+#facs_27_r2l23 Die Urtheile sie mögen renurrirt wer-
+#facs_27_r2l24 den oder nicht, sollen immer dar Uns zu
+#facs_27_r2l25 gesendet
+#facs_27_r3l1 gesendet werden, damit Wir selbige nach den
+#facs_27_r3l2 Umständen bestätigen oder abändern können,
+#facs_27_r3l3 die Confiscationen und Bußen sollen in
+#facs_27_r3l4 drey gleiche Theile getheilt werden, wovon zwey
+#facs_27_r3l5 Drittel dem Verleider, unter Geheimhaltung
+#facs_27_r3l6 seiner Namens, und ein Drittel den Armen des
+#facs_27_r3l7 Orts, wo der Fehler begangen worden, zu kom¬
+#facs_27_r3l8 soll.
+#facs_27_r3l9 Welcher zu Jedermanns Verhalt
+#facs_27_r3l10 bekannt gemacht wird, mit dem Be
+#facs_27_r3l11 fehl an alle Ober- und Unter-Beam¬
+#facs_27_r3l12 tete, Zoll = Commissen und Inspekto¬
+#facs_27_r3l13 ren, auf Handhabung gegenwärtiger
+#facs_71_r3l2 n
+#facs_27_r3l15 Verordnung genau zulvachen
+#facs_18_r2l14 die Fehlbaren ohne Ansehen der
+#facs_27_r3l17 Person und ohne Schonen dem ge¬
+#facs_27_r3l18 bührenden Richter anzuzeigen
+#facs_257_r3l4 Geben den
+#facs_234_r2l3 and
+#facs_98_r5l28 en

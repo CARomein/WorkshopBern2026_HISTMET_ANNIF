@@ -1,0 +1,304 @@
+Law ID: BER.01.001.2891
+Name: Wie es der jenigen halb, so sich mit Wärbungen vergreiffen, gehalten werden solle; die hochoberkeitliche Ordnung vom 18.Apr.1704 zur Publication ussschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 293/293
+# High similarity (>=50%): 290
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_37_r2l1 An alle T. und W. Ambtleüts.
+#facs_37_r2l2 4. Stett Freyweibel und Ammann
+#facs_37_r2l3 Wie es der Jenigen halb, so sich mit Wärbung
+#facs_37_r2l4 des
+#facs_37_r2l5 vergreiffen, gehalten werden solle; die Hochde
+#facs_37_r2l6 keitliche Ordnung vom 18. Apr: 1704. zur
+#facs_37_r2l7 Publication Verschreiben.
+#facs_37_r2l8 Statthalter Räht und Burger etc.
+#facs_37_r2l9 Collatz durch einen Hochverkeitlichen Entschluß vom 15.
+#facs_37_r2l10 Aprilis 1704. sindt sich bereits vorgesehen undt
+#facs_37_r2l11 geordnet, wie es der Officiereren und Ihren bestelt
+#facs_37_r2l12 halb, so sich mit Wärbungen vergreiffen mähten
+#facs_37_r2l13 gehalten werden solle, da vnder anderen in
+#facs_37_r2l14 Zulterung der vormahle darauf gesetzten Hahen
+#facs_37_r2l15 straffen eine Belbstraff von fünffzig Thalert
+#facs_37_r2l16 pro kopff von Jehdem allzutiel geworbenen Mann
+#facs_37_r2l17 angesehen worden; Wan aber diesere Ordnung,
+#facs_37_r2l18 mäniglich zur nachricht dienen soll, biß dahin
+#facs_37_r2l19 Vnseren Landen nicht kund gemacht worden und
+#facs_37_r2l20 dennoch Unser will ist, daß solche beobachtet, undt
+#facs_37_r2l21 die fählbahren, so darwider handlen möchten
+#facs_37_r2l22 derennach ohnnachläßig abgestrafft werdind; Alß
+#facs_37_r2l23 habend wir eine vnvmbgäntliche nohtwendigkeit
+#facs_37_r2l24 zu sein erachtet, die hierüber führende Meinung
+#facs_37_r2l25 durch ein allgemeiner tßschreiben an alle Unser
+#facs_37_r3l1 vide et
+#facs_37_r3l2 Pag: 95
+#facs_37_r3l3 Collath
+#facs_37_r4l1 67
+#facs_37_r4l2 Beambbete, wie hiemit beschihet, offenbahr zu machen,
+#facs_37_r4l3 Langet also Vnser ernstmeinende befelch hiemit an dich,
+#facs_37_r4l4 Dieses HochOberkeitliche Einsehen und Verpott offentlich
+#facs_37_r4l5 von Cantzlen verkünden zu laßen, damit Niemandt
+#facs_37_r4l6 sich der ohnwüßenheit behelffen, sonderen sich desto
+#facs_37_r4l7 mehr vor der übertrettung hüeben könne; Maßen
+#facs_37_r4l8 zu auch deines theils geflißenlich darob halten, und so
+#facs_37_r4l9 etwas hinder deinem Ambtsbezirk darwider vorgienge
+#facs_37_r4l10 undt dir bekandt gemacht wurde, deßen Unsere bestelte
+#facs_37_r4l11 RecruesCamer ohnverweilt berichten solst. Gott mit
+#facs_37_r4l12 dir! Dats. 2d. Juny 1706
+#facs_37_r4l13 Reformation
+#facs_37_r4l14 et
+#facs_37_r4l15 Ordonnance Souveraine
+#facs_37_r4l16 contre
+#facs_37_r4l17 Les somptuosités des Habillements et autres
+#facs_37_r4l18 Abus et Exces dans les festins et Ameublements
+#facs_37_r4l19 Nous L'Advoyer Petit et grand Conseil de la Ville
+#facs_37_r4l20 et Canton de Berne, a tous nos Ballifs, Officiers, Mi-
+#facs_37_r4l21 nistres, Consistoriaux et autres nos sujets de nostre pays
+#facs_37_r4l22 de Vaud Ames et feaux, Salut
+#facs_37_r4l23 Ayants Remarqué que de tems a autre il se comettoit de
+#facs_37_r4l24 frands exces en ce que nos sujets et habitans des terres
+#facs_37_r4l25 de nostre Obeyssance et sur tout ceux de nôtre Pays de Vaux
+#facs_37_r4l26 de l'un et de l'autre sexe dans les villes et a la Campagne
+#facs_37_r4l27 se sont accoutumés de suivre les Modes étrangeres dans les
+#facs_37_r4l28 Habillements, Festins et Ameublements.
+#facs_38_r2l1 Le tout directement contre les Ordonnances que nous
+#facs_38_r2l2 cy-devant fait a ce sujet: Nous avons cru qu'en quelle
+#facs_38_r2l3 de Souverain, il etoit de nôtre devoir d'y apporter lesd
+#facs_38_r2l4 necessaires pour remedier a ces abus qui peuvent atti-
+#facs_38_r2l5 la Malediction de Dieu, et causer la Ruine de nos sud.
+#facs_38_r2l6 en ce que par ces Exces ils depensent la meilleure Part
+#facs_38_r2l7 de leur Bien, qui même se transporte dans les Pays
+#facs_38_r2l8 étrangers: Partant apres avoir reflechi sur le Projet
+#facs_38_r2l9 a été dressé par les Ballifs, la Noblesse et les Villes
+#facs_38_r2l10 nostre Pays de Vaud dans leur Assembleé tenue a Lau
+#facs_38_r2l11 sanne, Nous avons ordonné et arreté le Reglement
+#facs_38_r2l12 suivant, que Nous voulons être observé dans l'etendu
+#facs_38_r2l13 de nostre pays de Vaud, tant par les Vassaux, Nobles,
+#facs_38_r2l14 Bourgeois et Habitants, que generalement par tout
+#facs_38_r2l15 nos sujets dans les Villes, Bourgs, Chateaux et Village
+#facs_38_r2l16 sans exception de personne, de quelle qualité et conde ses
+#facs_38_r2l17 qu'elle soit.
+#facs_38_r2l18 Premierement Nous avons reconû qu'il se commet un
+#facs_38_r2l19 grand a bus au prejudice du pays, en ce qu'il y a plusieurs
+#facs_38_r2l20 particuliers qui vont a Geneve et autres lieux circon-
+#facs_38_r2l21 voisins achetter a credit lors qu'ils veulent se mari
+#facs_38_r2l22 ou faire des empletes pour quelque autre occasion
+#facs_38_r2l23 Pour cet effet nous avons trouvé necessaire de deffi
+#facs_38_r2l24 à tous et a un chacun de nos sujets du pays de Vau
+#facs_38_r2l25 de quelle Condition qu'ilssoyent, d'achetter des Marchands
+#facs_38_r2l26 dises et Etoffes au dit Geneve ou ailleurs: Et comen
+#facs_38_r2l27 Nous avons la dessus requis nos Chers Alliés et Confedeu
+#facs_38_r2l28 de la Ville de Geneve d'avertir tous leurs Marchands
+#facs_38_r2l29 de ne donner et vendre a credit aux personnes du Roy
+#facs_38_r2l30 de Vaud aucunes Etoffes, joyaux ni Marchandises
+#facs_38_r2l31 peine de perdre les sommes qui leur seront pour ce düs
+#facs_38_r4l1 Nous enjoignons et deffendons en consequence de cela, aux
+#facs_38_r4l2 Refs et Membres de Justice de ce Pays, d'administrer pour ce
+#facs_38_r4l3 sortes de dettes aucune Justice aux dits Marchands Genevois et
+#facs_38_r4l4 Etrangers: Mais comme on pourroit faire creer des Cedules et
+#facs_38_r4l5 Actes obligatoires sous le nom d’argent presté, Nous avons
+#facs_38_r4l6 arreté, que pour enlever tout souvçon et prætexte, les susdit.
+#facs_38_r4l7 Marchand devront se purger par serment et asseurer que
+#facs_38_r4l8 C'est pour argent preste, et non pour vante de Marchandises
+#facs_38_r4l9 Bien entendu qu'en cecy on ne comprend pas les Marchands de
+#facs_38_r4l10 ce paijs qui negocient, et qui peuvent achetter a credit des
+#facs_38_r4l11 Marchandises permises.
+#facs_38_r4l12 A l’egard des Marchands du Pays, il leur sera de même
+#facs_38_r4l13 deffendu de donner et vendre a Credit leurs Marchandises, puis
+#facs_38_r4l14 cela engage trés souvent des gens a faire des emplettes dont
+#facs_38_r4l15 ils pourroyent se passer, et lesquelles ils ne feroyent pas, s'ils
+#facs_38_r4l16 etoyent obligés de payer content: Mais come il y a des cas
+#facs_38_r4l17 extraordinaires, sur tout pour des devils, Nous avons ordonné
+#facs_38_r4l18 que ceux qui voudront acheter des Etoffes a crédit, devront
+#facs_38_r4l19 s'adresser aux Chefs de Justice d'où ils dependront, pour leur
+#facs_38_r4l20 faire connoitre la necessité qu'ils en ont, et en retirer
+#facs_38_r4l21 Acte pour le remettre aux Marchands, lesquels pourront
+#facs_38_r4l22 alors vendre a credit les Marchandises et Etoffes reconvie
+#facs_38_r4l23 absolument necessaires par cet Acte; Et encore le term
+#facs_38_r4l24 du Payement devra être fixé après la premiere recolte
+#facs_38_r4l25 de la Moisson soit des vendanges, ou tout au plus dan
+#facs_38_r4l26 une Armeé depuis le crédit fait, a faute de quoy il sera
+#facs_38_r4l27 administré aucune Justice aux Marchands qui donneront
+#facs_38_r4l28 autrement a credit et ne se feront payer dans le temp.
+#facs_38_r4l29 prescrit: et pour éviter toutes fraudes, que les dits Marchand
+#facs_38_r4l30 et Acheteurs pourroyent faire en creant des Actes
+#facs_38_r4l31 obligatoires, comme si c'etoit pour argent prêté, les dit
+#facs_38_r4l32 Marchands seront tenus de se purger par serment, comme
+#facs_38_r4l33 nous l'avons ordonné cy-dessus à l’egard de ceux de
+#facs_38_r4l34 Geneve
+#facs_39_r4l1 Et d’autant que les Manufactures du Pays ont été etre
+#facs_39_r4l2 pour le bien et l'avantage des Sujets, dans la vüe d'y attirme
+#facs_39_r4l3 le negre et d'empecher que l’argent n'en sorte mal à p
+#facs_39_r4l4 pour des Etoffes et Marchandises qui se peuvent faire dans
+#facs_39_r4l5 pays: Nous verrions avec plaisir, que nos Vassaux et
+#facs_39_r4l6 du Pays de Vaud sans distinction, tant Ecclesiastiques que
+#facs_39_r4l7 Seculiers, de l’un et de l'autre sexe voulussent se reste
+#facs_39_r4l8 autant que faire se pourra, a ne s'habiller que des Etats
+#facs_39_r4l9 qui seront fabriquées dans le Paÿs: D'autre part les Mus
+#facs_39_r4l10 facturiers devront travailler de bonne foy et faire des
+#facs_39_r4l11 propres pour le Paÿs et les Saisons, come aussy les donner
+#facs_39_r4l12 au meme prix qu'on les pourra avoir à Geneve et aille
+#facs_39_r4l13 et se servir aussy autant qu'il sera possible, des laines
+#facs_39_r4l14 Paijs.
+#facs_39_r4l15 4°. A l'egard des Etoffes de soye étrangéres, il sera depuis
+#facs_39_r4l16 d'en faire venir et entrer, dans le Paÿs a plus haut pro
+#facs_39_r4l17 que de six francs l’hune: Il sera de plus deffendu avec
+#facs_39_r4l18 Femes de quelle qualité et Condition qu'elles soyent
+#facs_39_r4l19 de porter aucuns Ilabits de soye dans les Villes les
+#facs_39_r4l20 de Dimanche, de Cene, de Fêtes et de Jeune, mais seul
+#facs_39_r4l21 les autres dours de la Semaine, et à condition que le pris
+#facs_39_r4l22 et valeur desdites Etoffes ne surpasse les six francs
+#facs_39_r4l23 l'Aune: Le tout sous speine de dix florins d'Amende
+#facs_39_r4l24 pour la premiere fois, de vingt florins pour la second
+#facs_39_r4l25 et de trente florins pour la troisieme fois
+#facs_39_r4l26 En detail
+#facs_39_r4l27 A l'egard des Deüils
+#facs_39_r4l28 Il ne sera permis de porter des Habits de deüil que dans
+#facs_39_r4l29 le cas cy après specifiés scavoir aux Maris pour leur
+#facs_39_r4l30 Femmes aux Fermes pour leur Maris, aux Enfans pour
+#facs_39_r4l31 leur Peres, meres, Grand-Peres, grand-Meres, Beauf
+#facs_39_r6l1 7.
+#facs_39_r6l2 et Bellemeres, aux freres et Soeurs des Défunts, et à ceux
+#facs_39_r6l3 qui seront Heritiers. Defendants a cet égard de donner lors
+#facs_39_r6l4 des funerailles aucuns frepes, qu'à ceux qui se trouveront Parens
+#facs_39_r6l5 du Defunt ou de la Defunte auxdits degrés, et d'ailleurs que
+#facs_39_r6l6 les crepes n'excedent pas la longueur de trois quarts d'aune
+#facs_39_r6l7 outre le tour du Chapeau; Et que les veuves n'en portent
+#facs_39_r6l8 point de longueur excessive, non plus que les Hommes de Man-
+#facs_39_r6l9 feaux trop longs.
+#facs_39_r6l10 Et comme dans quelques lieux du Paÿs, les Femmes y portent
+#facs_39_r6l11 encore de Couvre - Chefs, ce qui est une depense inutile et exce-
+#facs_39_r6l12 sive, nous avons aussy trouvé à propos de les leur deffendre
+#facs_39_r6l13 et interdire
+#facs_39_r6l14 De même tous les ameublements a l'occasion des deüils doi-
+#facs_39_r6l15 vent être defendus, sous peine de Chatiment que la Chambre
+#facs_39_r6l16 de Reforme de chaque lieu infligera aux contrevenans selo
+#facs_39_r6l17 l'exigence du fait.
+#facs_39_r6l18 A l'egard des Mariages et Ameublements
+#facs_39_r6l19 6e Les Excés qui se sont comis a cet egard, nous ont obligé
+#facs_39_r6l20 de defendre tous les presents qu'on a accoutumé de se faire
+#facs_39_r6l21 de quelque Nature qu'ils puissent être directement ou
+#facs_39_r6l22 indirectement à la reserve des presents de l'Epoux a l'Epo
+#facs_39_r6l23 de, ou de l'Epouse à l'Epoux qui se devront reduire a une
+#facs_39_r6l24 Bague proportionnée a leur Condition, et du seul Habit
+#facs_39_r6l25 entier de l'Epouse pour la Ceremonie des Epousailles avec
+#facs_39_r6l26 un Bouquet de fleurs du Pays, sous peine de Chatiment
+#facs_39_r6l27 que la Chambre de Reforme de chaque lieu infligera aux
+#facs_39_r6l28 Contrevenants selon l'exigence du fait.
+#facs_39_r6l29 Il sera de plus défendre aux Epoux et Epenses de faire faire
+#facs_39_r6l30 aucuns meubles pour leur usage que quatre semaines apres
+#facs_40_r4l1 l'accomplissement de leur Mariage a peine de Punition;
+#facs_40_r4l2 l'exigence du fait.
+#facs_40_r4l3 8
+#facs_40_r4l4 Il est aussy ordonné aux Peres et Meres, ou à ceux qui les
+#facs_40_r4l5 sentent d'eviter tous Exces dans les Trousaux qu'ils donnera
+#facs_40_r4l6 aux filles lors de leur mariage, et de se conformer aux pro-
+#facs_40_r4l7 les defenses a peine de Chatiment que la Chambre de Reg
+#facs_40_r4l8 de chaque lieu infligera aux Contrevenants.
+#facs_40_r4l9 9° Les garnitures de Lits qui seront de Drap, ne devvront pasir
+#facs_40_r4l10 plus cheres que de deux Ecusblanis l'Aune, et pour les autres
+#facs_40_r4l11 Etoffes, que de demi Ecusblanc l'Aune: Bien entendu qu'il
+#facs_40_r4l12 ne sera pas permis de faire doubler les dites garnitures de
+#facs_40_r4l13 Lit, en quelque maniere que ce soit, sous peine de virgt ci
+#facs_40_r4l14 florins d'Amande.
+#facs_40_r4l15 id
+#facs_40_r4l16 A l'Egard des Tapisseries l'on n'en pourra a chéter
+#facs_40_r4l17 aucune Garniture de plus haut prix que de cinque
+#facs_40_r4l18 florins pour chaque Chambre sous peine d'amende et
+#facs_40_r4l19 missive de cinquante florins.
+#facs_40_r4l20 Et comme les Habits noirs sont plus seans pour la
+#facs_40_r4l21 Exemonie des Nopces, que ceux de couleur, et que d'aille
+#facs_40_r4l22 notre intention est aussy, que les femmes portent de
+#facs_40_r4l23 Habits noirs lors qu’elles participent a la Ste Cened
+#facs_40_r4l24 seigneur; Il devra être defendu aux Epenses de se fai
+#facs_40_r4l25 Epouser avec des Habits de Coaleur: Entendans toutes
+#facs_40_r4l26 que cet article ne doit regarder que les gens de qualis
+#facs_40_r4l27 et qui en ont les moyens
+#facs_40_r4l28 A l'egard des Bâtémes
+#facs_40_r4l29 In devra se conformer au Mandat de Reforme, pr
+#facs_40_r4l30 en chaire l'annee 1692. auquel nous ajoutons qu'on
+#facs_40_r4l31 doit pas prendre tant de partains et de Marraines, ma
+#facs_40_r7l1 73
+#facs_40_r7l2 se conformer à cet égard à la maniere de nôtre Pays Allemand
+#facs_40_r7l3 A l’egard de l'or et argent en filage, du velours
+#facs_40_r7l4 et dentelles de fil en general.
+#facs_40_r7l5 Les galons, filages et broderies d'or et d'argent et les velours
+#facs_40_r7l6 doivent estre entiezement defendus a toutes personnes, de quelque
+#facs_40_r7l7 qualité et Condition que ce soit a peine de cent florins d'Amende
+#facs_40_r7l8 De même aussy toutes sortes de Demtelles de fil, soit du Païs
+#facs_40_r7l9 soit de dehors, sous peine de six florins d'Amende.
+#facs_40_r7l10 A l'Egard des Festins
+#facs_40_r7l11 14. Nous defendons aux hostes de donner à manger et à boir
+#facs_40_r7l12 a credit au dela de trente sols à la fois, et dans la suite
+#facs_40_r7l13 qu'ils ne soyent payés du premier Ecat: et lors que quelque
+#facs_40_r7l14 personnes iront manger dans leur logis, faisant a croire
+#facs_40_r7l15 qu'elles veulent payer content leur Ecot, et qui cependant
+#facs_40_r7l16 s’en iront sans payer, lesdits Ilostes s'en devront plaindre
+#facs_40_r7l17 aux Chefs de Justice d'ou lesdites personnes dependront, le
+#facs_40_r7l18 quels leur preteront la main, pour qu'ils puissent être
+#facs_40_r7l19 promptement payés et seront les Debiteurs outre cela con-
+#facs_40_r7l20 damnes a autant d'amende que la valeur de leurs Ecot
+#facs_40_r7l21 se montoit: mais si les hostes ne font pas leurs plainteurs
+#facs_40_r7l22 et poursuites dans le predit Terme de huit cours, ils perdront
+#facs_40_r7l23 ce qui leur est deu
+#facs_40_r7l24 Concernant les nouvelles Modes
+#facs_40_r7l25 Il sera defendu de faire venir de dehors des mode inde
+#facs_40_r7l26 centes, superflues et incomodes, sous peine d'un gros
+#facs_40_r7l27 Râtiment
+#facs_40_r7l28 Les falbalaz seront aussy defendus aux garnitures de lits et
+#facs_41_r3l1 17.
+#facs_41_r3l2 18.
+#facs_41_r4l1 aux habillements que l'on fera à l'avenir, comme aussy aux
+#facs_41_r4l2 charpes que les femmes portent, excepté un seul aux
+#facs_41_r4l3 Jupes; Sur tout nous deffendons les Echarpes d'Eté ici
+#facs_41_r4l4 une chose superfluë sous peine d'Amende irremissible
+#facs_41_r4l5 de quinze florins.
+#facs_41_r4l6 La presente Reforme doit avoir lieu dés à present pour
+#facs_41_r4l7 les Galons, broderies d'or et d'argent, et les velours
+#facs_41_r4l8 Mais quant aux habillements Nous accordons le terre
+#facs_41_r4l9 de deux années pour porter et usur ceux que l'on a
+#facs_41_r4l10 presentement, pourvû qu'il n'y ait pas de grands Exce
+#facs_41_r4l11 ce que Nous laissons regler a la prudence de la Chambre
+#facs_41_r4l12 de Reforme de chaque lieu
+#facs_41_r4l13 A l'egard des dentelles; comme la deffence a deja et
+#facs_41_r4l14 introduite dans quelques Balliages de nôtre payés
+#facs_41_r4l15 de Vaud, depuis quelques anneés: En ces endroits elle
+#facs_41_r4l16 y doit subsister des à present; Mais pour les autres
+#facs_41_r4l17 Balliages ou telle deffense n'aura pas encore
+#facs_41_r4l18 été faite, on aura le terme de deux ans pour
+#facs_41_r4l19 porter et use celles qu'on y peut avoir
+#facs_41_r4l20 Ceux des Villages et de la Campagne seront aussy
+#facs_41_r4l21 obligés de se conformer a notre presente Reforme
+#facs_41_r4l22 et ceux qui feront voyage d'un Balliage ou d'une
+#facs_41_r4l23 ville a l'autre, ne pourront y porter des habilleurs
+#facs_41_r4l24 ou choses dessenduës a peine d'être cités devant la
+#facs_41_r4l25 Chambre de Reforme pour y payer irremissiblement
+#facs_41_r4l26 Les amendes
+#facs_41_r4l27 Quant aux points qui ne sont pas specifiés ou eclair
+#facs_41_r4l28 dans cette Reforme, Nous entendons qu'au surplus
+#facs_41_r5l1 1755.
+#facs_41_r5l2 on s'en tienne à nôtre Mandat de l'anneé 1692. qui a esté
+#facs_41_r5l3 publié en chaire.
+#facs_41_r5l4 Execution de la Reforme.
+#facs_41_r5l5 Affin que les contrevenants soyent meritoirement Chatiés
+#facs_41_r5l6 Nous avons ordonné, que dans les villages, les Consistoires
+#facs_41_r5l7 devront servir de Chambre de Reforme, mais dans les Villes
+#facs_41_r5l8 on en doit établir expressement, de la maniere qu'on trou
+#facs_41_r5l9 vera en chaque endroit la plus convenable. Et pour
+#facs_41_r5l10 d'autant mieux découvrir les Contrevenants, les Denoncia
+#facs_41_r5l11 leurs devront avoir un tiers des amendes. Les pauvres de
+#facs_41_r5l12 Raque lieu, ou la faute aura eté commise, l'autre tiers
+#facs_41_r5l13 et le restant sera partagé également entre les membres
+#facs_41_r5l14 de la Chambre de Reforme.
+#facs_41_r5l15 Et le cas advenant que les abus et fautes excedassent
+#facs_41_r5l16 le pouvoir des dites Chambres de Reforme cy dessus expri
+#facs_41_r5l17 celles en devront donner incessament avis a nôtre Advo-
+#facs_41_r5l18 yer et Conseil Estroit qui infligeront aux contrevenant.
+#facs_41_r5l19 la peine suivant l'exigence du fait.
+#facs_41_r5l20 Fait et passé en Notre grand Conseil ce vingt et
+#facs_41_r5l21 huit, et trentieme d'Avril de l'anneé mille sept
+#facs_41_r5l22 cent et six. 1706

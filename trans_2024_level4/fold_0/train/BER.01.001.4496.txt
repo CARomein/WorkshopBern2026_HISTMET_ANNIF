@@ -1,0 +1,37 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 29/30
+# High similarity (>=80%): 28
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4496
+#facs_220_r3l18 denen Pfarrkinderen, bey ihrer
+#facs_109_r4l71 It
+#facs_220_r3l16 alle Decinos deutschen Lands, und
+#facs_220_r3l17 Classen weltschen Lands
+#facs_220_r3l18 denen Pfarrkinderen, bey ihrer
+#facs_220_r3l19 Admission zum Heil. Abendmahl, das
+#facs_220_r3l20 dienen Mandat bekant zu machen.
+#facs_220_r3l21 Schultheis und Rath etc. Ofters beschehene
+#facs_220_r3l22 leidige Zufälle zeigen, daß die von Uns
+#facs_220_r3l23 anbefohlene jährliche Verlesung von
+#facs_101_r3l11 soll.
+#facs_220_r5l1 531
+#facs_220_r5l2 Canzlen, des so betittelten Dirnen Mandats
+#facs_220_r5l3 nicht hinreichend ist, der Jugend die
+#facs_220_r5l4 nothwendige Kentniß davon beyzubringen,
+#facs_220_r5l5 noch die häuftigen Wiederhandlungen
+#facs_220_r5l6 zu behinderen
+#facs_220_r5l7 Dieses nun hat
+#facs_220_r5l8 Uns veranlaßet, Euch zu befehlen,
+#facs_220_r5l9 Eüeren Capitals Brüderen aufzutragen;
+#facs_220_r5l10 neben der jährlichen Publication bemeltig
+#facs_220_r5l11 Mandats, jelveilen denen Pfarrkinderen¬
+#facs_220_r5l12 bey ihrer Admission zu dem heiligen
+#facs_220_r5l13 Abendmahl, desen Inhalt bekant zu
+#facs_220_r5l14 machen, und solchem die angemeßene
+#facs_220_r5l15 und sattsamen Eindruk machen könnende
+#facs_220_r5l16 Vermahnungen beyzufügen. Datl. d.
+#facs_220_r5l17 17th february 1781.
+#facs_178_r8l1 en

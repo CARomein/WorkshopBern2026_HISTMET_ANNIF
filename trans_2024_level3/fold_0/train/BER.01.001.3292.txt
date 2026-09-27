@@ -1,0 +1,32 @@
+Law ID: BER.01.001.3292
+Name: Wegen den Reiffen Fassen Tauwen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_492
+# Matched: 21/21
+# High similarity (>=80%): 21
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_263_tr_2l_1 Blt
+#facs_263_tr_2l_2 Raubs, Morser, Lausanne, Aubonne,
+#facs_263_tr_2l_3 item Ementhalische Ober Argauvische
+#facs_263_tr_2l_4 und Oberkandische Ambtleuth
+#facs_263_tr_2l_5 Wegen den Reiffen Passen Tauwen
+#facs_263_tr_2l_6 Schl. und Rath des Stadt Bärn. S.
+#facs_263_tr_2l_7 Es sindt bekanter Maßen die faß, dauber
+#facs_31_r1l2 Collat
+#facs_263_tr_2l_9 reiffen, und Bänder eine Zeit daher so
+#facs_263_tr_2l_10 Besüechig worden, daß Sy Gleichsam umb
+#facs_263_tr_2l_11 das Gelt nicht, oder gar in einem aazu¬
+#facs_263_tr_2l_12 hochen preis zebekommen; welches neben andern
+#facs_263_tr_2l_13 ren auch dannenhör kommen soll, daß selbe
+#facs_263_tr_2l_14 wieder unserige vorige beseichen veräußert
+#facs_263_tr_2l_15 und ausser Landts verkauft werden.
+#facs_263_tr_2l_16 Derowegen wir die hierdurch befohlen
+#facs_263_tr_2l_17 haben, vollendt, sothane Veräußerung
+#facs_263_tr_2l_18 auch ein Frisches bey Oberkeitl. Straff
+#facs_263_tr_2l_19 zuverbiethen und dergleichen Waar nicht
+#facs_263_tr_2l_20 auß dem Landt zelaßen, Rath 30. Juny
+#facs_263_tr_2l_21 1719 item 4 July 1719

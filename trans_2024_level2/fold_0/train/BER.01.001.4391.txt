@@ -1,0 +1,49 @@
+Law ID: BER.01.001.4391
+Name: Wegen Versilberung des über den Vorraht vorschiessenden Wayzens.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_505
+# Matched: 38/38
+# High similarity (>=50%): 12
+# Low similarity (<50%): 26
+# Not found: 0
+#
+#facs_1_r1l5 No 25.
+#facs_2_r1l1 St. A. B.
+#facs_2_r1l2 A1
+#facs_2_r1l3 505
+#facs_3_r2l1 1.
+#facs_3_r2l2 An
+#facs_3_r2l3 Die Herren Amtleut zu Lenzburg, Schenkenberg, Biberstein,
+#facs_3_r2l4 Briemisferg, Gottstatte, Erleich, und Trachselwald
+#facs_3_r2l5 wegen Versilberung des über den Vorraht vorschießenden
+#facs_3_r2l6 Waij zous
+#facs_3_r2l7 Schultheiß Räht und Burgers
+#facs_3_r2l8 Unterm 15ten lezt abgewichenen Juny, haben Wir Euch¬
+#facs_3_r2l9 den Befelch ertheilet, die von lezter Ernd eingegangene
+#facs_3_r2l10 Einheimsche Obrigkeitliche=Winterfrüchte /: An Lenzburg
+#facs_3_r2l11 und Schenkenberg allein :/ mit Ausnahm jedoch des¬
+#facs_3_r2l12 Kernens, nach Abzug der Ordinari, und quasi-ordinari¬
+#facs_3_r2l13 Ausgaben, wie auch deßen, was Eüer Contingent
+#facs_3_r2l14 auf dem Vorschießenden betragen mag, zu wider
+#facs_3_r2l15 anlegung oder Ergänzung daß von uns jeden Orts¬
+#facs_3_r2l16 bestimten Obrigkeitlichen Vorrahts zu widmen;
+#facs_3_r2l17 Wann Wir aber durch den von unseren Fürgelieb¬
+#facs_3_r2l18 ten MitRähten den Herren Teutsch Sekelmeister
+#facs_3_r2l19 und Venneren auf heute Uns erstatteten Raport
+#facs_3_r2l20 ternommen, daß über diß aus (an Schenkenberg und
+#facs_3_r2l21 Lenzburg allein) neben dem Kernen auch etwas
+#facs_3_r2l22 an Weyzen / An Riberstein, Neun Bern Müdt Kernen,
+#facs_3_r2l23 und Wäyzen) an Freundsperg, drey und dreißig
+#facs_3_r2l24 Herrn Mütz Kernen /: an Bockstatt, dreißig Bern
+#facs_3_r2l25 Müdt Kernen und Wayzen /: an erlach, sechs Bern
+#facs_3_r2l26 Mürt Waysen: an Trechtelbald, Siben und Vier¬
+#facs_3_r2l27 nnkeit
+#facs_4_r3l1 Euch /: an Schenkenberg und Lenzburg allein, gleich
+#facs_4_r3l2 wie unter obigem dato ratione des Kernens besche¬
+#facs_4_r3l3 hen) hiemit befehlen wollen, auch obiger maßen
+#facs_4_r3l4 den vorschießenden Wayschen best möglichst in
+#facs_4_r3l5 lauffendem Preis zu versilberen, und über dahe¬
+#facs_4_r3l6 rige Losung uns Rechnung zu tragen. Datl.
+#facs_4_r3l7 den 1ten July 1772.

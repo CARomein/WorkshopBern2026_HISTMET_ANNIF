@@ -1,0 +1,16 @@
+BER.01.001.2627
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 7/7
+# High similarity (>=50%): 6
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_124_r4l15 An alle T. und W. Ambtleut.
+#facs_124_r4l16 4. Stätt Hreyweibel und Ammen
+#facs_124_r4l17 Heman alle Cäntzel.
+#facs_124_r4l18 Bättag auf d. 20. Augusti daß Inhalts wie
+#facs_124_r4l19 sub. 26. Juli 1695. beschehen, ausschreiben
+#facs_124_r4l20 ..
+#facs_124_r4l21 Datum 24. Julij 1696.

@@ -1,0 +1,215 @@
+Law ID: BER.01.001.3365
+Name: Wegen burgundischen Weins und Brantweins.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 204/204
+# High similarity (>=50%): 193
+# Low similarity (<50%): 11
+# Not found: 0
+#
+#facs_399_r4l5 P. S.
+#facs_399_r4l6 Wann auch einiche andere Stamtsglieder
+#facs_399_r4l7 indemein Ambtlich sich befinden wurden, sonst
+#facs_399_r4l8 Du Ihnen solches gleichfahls zur Nachricht
+#facs_399_r4l9 eröffnen u.
+#facs_399_r4l10 Besreibung
+#facs_399_r4l11 Der Hn Ambtleuthen Teütsch- und Weltschen
+#facs_399_r4l12 Landts, auß Ihre Rechnungen
+#facs_399_r4l13 Anno 1722
+#facs_399_r4l14 Montags den 2ten Februarii
+#facs_399_r4l15 buchler
+#facs_399_r4l16 Lantshust
+#facs_399_r4l17 Dinstags den 3ten x
+#facs_399_r4l18 Burgdorff,
+#facs_399_r4l19 Gewalt ist Beyl
+#facs_399_r4l20 Mitwochens den 4ten do.
+#facs_399_r4l21 Arberg,
+#facs_399_r4l22 Donstags den 5ten de
+#facs_399_r4l23 buren,
+#facs_399_r4l24 lauxem
+#facs_400_r2l1 St. Johanßen, Creytags den
+#facs_400_r2l2 6ten Februarii
+#facs_400_r2l3 Nydaulo,
+#facs_400_r2l4 Erlach Montags den
+#facs_400_r2l5 9 ten do.
+#facs_400_r2l6 Wangen, dinstags den
+#facs_400_r2l7 10en de
+#facs_400_r2l8 Arbangen, Mitwochens den
+#facs_400_r2l9 11ten des
+#facs_400_r2l10 12te do
+#facs_400_r2l11 Thorberg, Donstags den
+#facs_400_r2l12 13den do.
+#facs_400_r2l13 Bipp, Freytags den
+#facs_400_r2l14 Roenheer.
+#facs_400_r2l15 Montags den 16ten de
+#facs_400_r2l16 B. JohanserHaus
+#facs_400_r2l17 Iinterlaken
+#facs_400_r2l18 Haus Dienstags den 17. do
+#facs_400_r2l19 Vierinspreger
+#facs_400_r2l20 Geltstalt Mitbohrnsdabey 18den do-
+#facs_400_r2l21 Commißbald,
+#facs_400_r2l22 Donsagt den 19en de
+#facs_400_r2l23 brandis
+#facs_400_r2l24 Signauli, Freytags den 20ten x
+#facs_400_r2l25 23t do
+#facs_400_r2l26 thun, Montags den
+#facs_400_r2l27 Chrauwronen,
+#facs_400_r2l28 Dinstags den 24.ten 9.
+#facs_400_r2l29 Oberhoffen,
+#facs_400_r2l30 Siechenhaus,
+#facs_400_r2l31 Montags den 9ten Marty
+#facs_400_r2l32 Mueßhaften.
+#facs_400_r3l1 1755.
+#facs_400_r3l2 Chriemisperg, Dienstags den 10den Marty
+#facs_400_r3l3 brutigen.
+#facs_400_r3l4 Wimmiß, Mitwochens den 11den do.
+#facs_400_r3l5 Bauwherr, Dienstags den 12ten do
+#facs_400_r3l6 Imterkaken,
+#facs_400_r3l7 Vnterfern, 5 Montags den 16ten do¬
+#facs_400_r3l8 Prachselwald, Dinstags den 17ten de
+#facs_400_r3l9 Ahlen, Mitwochens den 18ten de
+#facs_400_r3l10 Biberstein,  Donstags den 19ten de
+#facs_400_r3l11 Bleyfinen
+#facs_400_r3l12 23ten do
+#facs_400_r3l13 .
+#facs_400_r3l14 Hofdingen, Montags den
+#facs_400_r3l15 Marburg, 1 Dinstags den 24ten de
+#facs_400_r3l16 Saanen,
+#facs_400_r3l17 Schenkenberg, Dönstags den 26ten do¬
+#facs_400_r3l18 Königsfelden, Montags den 30ten x
+#facs_400_r3l19 Denzburg, dienstags den 31ten do
+#facs_400_r3l20 Stifft allhier
+#facs_401_r2l1 Neules Abrechnung, Mitwochens den 25. Februar
+#facs_401_r2l2 Aubonne, Abrechn: Donstags den
+#facs_401_r2l3 26. do.
+#facs_401_r2l4 Wiblispurg, Freytags den
+#facs_401_r2l5 27. d
+#facs_401_r2l6 Petterlingen, Samstags den
+#facs_401_r2l7 28. do.
+#facs_401_r2l8 Milden Montags den
+#facs_401_r2l9 2nde Martine
+#facs_401_r2l10 Oron, Mitwochen den
+#facs_401_r2l11 4ten do.
+#facs_401_r2l12 den 30
+#facs_401_r2l13 Chillon, Donstags den
+#facs_401_r2l14 6ten Sept.
+#facs_401_r2l15 Neulenstalt, Creytags den
+#facs_401_r2l16 7en de
+#facs_401_r2l17 Jferthen, Samstags den
+#facs_401_r2l18 13en d.
+#facs_401_r2l19 Lausanne, Creytags den
+#facs_401_r2l20 14 den 5t.
+#facs_401_r2l21 Möther, Samstags den
+#facs_401_r2l22 20ten
+#facs_401_r2l23 Aubonne, Freytags den
+#facs_401_r2l24 21.9
+#facs_401_r2l25 Neules, Samstags den
+#facs_401_r2l26 27ten
+#facs_401_r2l27 Bonmont, Hochtags den
+#facs_401_r2l28 Romainmotier Samsteri den 28ten
+#facs_401_r3l1 757
+#facs_401_r3l2 Zonmont, Neules, Aubonne,
+#facs_401_r3l3 Pausanne, Merger, Romainmotier
+#facs_401_r3l4 pferthen, Ahlen, Chillon, sept
+#facs_401_r3l5 wegen Burgundl. Weins und Brantelreins etc.
+#facs_401_r3l6 Schs. und Raht
+#facs_401_r3l7 Es bleibet zwar annoch bewilliget, den
+#facs_401_r3l8 Burgundischen Wein und Brantelben
+#facs_401_r3l9 durch Unsere Bottmäßigkeit An Außer¬
+#facs_401_r3l10 Orth, auß vorweisene Gnuegsamme
+#facs_401_r3l11 Gesundheits scheinen für Persohnen, P. R.
+#facs_401_r3l12 pferdt, und übriges, zu verbiethen,
+#facs_401_r3l13 ferggen, und als Transit wahren
+#facs_401_r3l14 durchzuführen; Indemne aber Unß
+#facs_401_r3l15 die sichere Nachricht eingelangt, daß
+#facs_401_r3l16 Vndter dem Schein des Trannts eine
+#facs_401_r3l17 Quantitet solchen Beweis und Brankweins
+#facs_401_r3l18 in Land Verdebitiert, und dardurch
+#facs_401_r3l19 der Verkauff des Einhemischen Weins ge¬
+#facs_401_r3l20 stehet; Mithin auch das Gelt Entausret
+#facs_401_r3l21 bierit; alß haben wir die hierdurch
+#facs_401_r3l22 befehlen wollen, ausvergleichen Anseren
+#facs_402_r2l1 Neüles Abrechnung, Mitwochens den 25. februarij
+#facs_402_r2l2 Aubonne, Abrechn: Donstags den
+#facs_402_r2l3 26. do
+#facs_402_r2l4 Wiblispurg, Freytags den
+#facs_402_r2l5 27. d
+#facs_402_r2l6 Petterlingen, Samstags den
+#facs_402_r2l7 28 do.
+#facs_402_r2l8 Milden Montags den
+#facs_402_r2l9 Marty
+#facs_402_r2l10 4te
+#facs_402_r2l11 Oron, Mitwochen den
+#facs_402_r2l12 5ten 30
+#facs_402_r2l13 Chillon Donstags den
+#facs_402_r2l14 6ten de
+#facs_402_r2l15 Neulenstalt, Creytags den
+#facs_402_r2l16 7en 9e
+#facs_402_r2l17 Jferthen, Samstags den
+#facs_402_r2l18 3. do do
+#facs_402_r2l19 Lausanne, Creytags den
+#facs_402_r2l20 17 den 5b.
+#facs_402_r2l21 Möther, Samstags den
+#facs_402_r2l22 20ten de
+#facs_402_r2l23 Aubonne, Freytags den
+#facs_402_r2l24 21. verso
+#facs_402_r2l25 Neules, Samstags den
+#facs_402_r2l26 27th do.
+#facs_402_r2l27 Bonmont, Hrytags, den
+#facs_402_r2l28 Romainmotier Samstags den 28ten
+#facs_402_r3l1 757
+#facs_402_r3l2 Bonmont, Neulas, Aubonne,
+#facs_402_r3l3 Lausanne, Morger, Romainmotier
+#facs_402_r3l4 fferthen, Ahlen, Chillon, lept
+#facs_402_r3l5 wegen Burgundl. Weins und Brauteweins etc.
+#facs_402_r3l6 Schs. und Raht
+#facs_402_r3l7 Es bleibet zwar auch bewilliget, den
+#facs_402_r3l8 Burgundischen Wein und Brantelen
+#facs_402_r3l9 durch unsere Bottmäßigkeit an Außer
+#facs_402_r3l10 Orth, auß vorweisende Genüegsamme
+#facs_402_r3l11 Gesundheits scheinen für Persohnen, s. R.
+#facs_402_r3l12 pferdt, und übriges, zu verbiethen
+#facs_402_r3l13 ferggen, und als Transit wahren
+#facs_402_r3l14 durchzuführen; Indemie aber Unß
+#facs_402_r3l15 die sichere Nachricht eingelangt, daß
+#facs_402_r3l16 Vnter dem Schein des Tranntes eine
+#facs_402_r3l17 Quantitet solchen Bewis und Brantweins
+#facs_402_r3l18 im Land Verdebitiert, und dardurch
+#facs_402_r3l19 der Verkauf des Einheimischen Weins ge¬
+#facs_402_r3l20 stehet; Mithin auch das Gelt Entäußert
+#facs_402_r3l21 bereit, als haben wir die hierdurch
+#facs_402_r3l22 befehlen wollen, auf dergleichen Ansteren
+#facs_403_r2l1 Wein und beantelvein hinter deinen
+#facs_403_r2l2 Ambt eine fleißige Aussicht zu
+#facs_403_r2l3 bestellen, und nach denen vorhandenen
+#facs_403_r2l4 Ordnungen, bann deßen gefunden werden.
+#facs_403_r2l5 sollte, selbigen zu Confiscieren
+#facs_403_r2l6 Damit aber destobester in Erfahrung
+#facs_403_r2l7 Gebraucht werden möge, auss das
+#facs_403_r2l8 Weiß und Mamer solcher uns
+#facs_403_r2l9 vnd gevorffen werde daß die
+#facs_403_r2l10 denen verordneten Zollpommisen
+#facs_403_r2l11 Deines Ambts einscherpffen, daß
+#facs_403_r2l12 beim Eintritt dieser Weins undt
+#facs_403_r2l13 Brautelweins, so den Transit durch
+#facs_403_r2l14 Vnsere Bottmäßigkeit haben soll
+#facs_403_r2l15 Die Inselbenden die Quantitet in die
+#facs_403_r2l16 Paß Jedlen, oder Lettres de voitures,
+#facs_403_r2l17 Eygenhandigenschreiben, und an
+#facs_403_r2l18 den Jenigen ZollCommis, bey desen
+#facs_403_r2l19 Zollstatt sie Auß Unseren Landen
+#facs_403_r2l20 gefergget werden soll, berichtetes,
+#facs_403_r2l21 bordend damit bey deßen Ausfuhr
+#facs_403_r3l1 759
+#facs_403_r3l2 mann Eygentlich läußen möge, ob der¬
+#facs_403_r3l3 gleichen Belauf, so eingeführt, bey dem
+#facs_403_r3l4 Außtritt sich befinde, oder aber, ob
+#facs_403_r3l5 Aldas davon im Land gelaßen worden,
+#facs_403_r3l6 umb nach vorhandenen Ordnungen gegen
+#facs_403_r3l7 die Übetretter Verfahren zu können;
+#facs_403_r3l8 Welches Ihnen alles Ernsts einzuscherßen
+#facs_403_r3l9 und bey deiner Ambtspflicht darob
+#facs_403_r3l10 zu halten befelpnet wirst etc. Datl.
+#facs_403_r3l11 den 12. Januarii 1722

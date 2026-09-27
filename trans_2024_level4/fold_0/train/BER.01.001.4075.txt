@@ -1,0 +1,386 @@
+Law ID: BER.01.001.4075
+Name: Wegen der Montour und Armatur Veräusserung ein Einsehen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 375/375
+# High similarity (>=50%): 317
+# Low similarity (<50%): 58
+# Not found: 0
+#
+#facs_58_r1l13 Rechnungs Tagen
+#facs_58_r1l14 Für die Tuns W. H. Amtlenth und
+#facs_58_r1l15 andere Persohnen, deren Rechnung,
+#facs_58_r1l16 vor Mühghl. Teutsch Sekelmeister.
+#facs_58_r1l17 und Venere abzulegen.
+#facs_58_r1l18 pro ao 1757
+#facs_58_r1l19 1757
+#facs_58_r1l20 1° Vor denen Ordinarii Amts Rechnungen
+#facs_58_r1l21 H. Boummer &
+#facs_58_r1l22 31 Baumann. Buchsen Allmosten
+#facs_58_r1l23 H. Jenner. Silberhandlung
+#facs_58_r1l24 Allmosten Cam: Allmosten Secret.
+#facs_58_r1l25 Donstags d. 13. Jan.
+#facs_58_r1l26 Salßdirectoren Große Salzhandlung. Montags 17. do
+#facs_58_r1l27 Pulverhalter Pulverhandlung
+#facs_58_r1l28 Kriegs Raht: Zeughaus Rechnung. Mittbochs 19f do
+#facs_58_r2l1 Pf. Ordinari AmtsRechnungen
+#facs_58_r2l2 No. der
+#facs_58_r2l3 103
+#facs_58_r2l4 Hnung
+#facs_58_r2l5 H. alt Legit: v. Allmoßen Directl.
+#facs_58_r2l6 als Sehelinsten
+#facs_58_r2l7 H. alt Landvogt Exulant, Cammer
+#facs_58_r2l8 Donstags den 20ten Januar
+#facs_58_r2l9 Jener als Sekelmeister
+#facs_58_r2l10 alt gedagt. Otto
+#facs_58_r2l11 stax Gelter
+#facs_58_r2l12 als Sekelmeister
+#facs_58_r2l13 H. alt Schlths = Halles ihm Sevel
+#facs_58_r2l14 Montag den 24ten
+#facs_58_r2l15 derelinstr.
+#facs_58_r2l16 Kl. Gaudars. Schallenhaus Joseph
+#facs_58_r2l17 kündelig pfleger
+#facs_58_r2l18 H. Heller.
+#facs_58_r2l19 Groß KornMla.
+#facs_58_r2l20 Mitwachs d. 26. do
+#facs_58_r2l21 Gazin Verwalter
+#facs_58_r2l22 Interleter Hauß
+#facs_58_r2l23 C
+#facs_58_r2l24 7
+#facs_58_r2l25 St. Johanfer Haus
+#facs_58_r2l26 Montags d. 31 do
+#facs_58_r2l27 Dto
+#facs_58_r2l28 1
+#facs_58_r2l29 Korn Herr
+#facs_58_r2l30 4.
+#facs_58_r2l31 Milsar
+#facs_58_r2l32 d. 2. Febr.
+#facs_58_r2l33 5
+#facs_58_r2l34 Mußhafen
+#facs_58_r2l35 C'est un peu de ses
+#facs_58_r2l36 h.
+#facs_58_r2l37 König
+#facs_58_r2l38 donay den 3t Dto
+#facs_58_r2l39 4
+#facs_58_r2l40 Biechenhauß.
+#facs_58_r2l41 d. 4. do
+#facs_58_r2l42 Erztags
+#facs_58_r2l43 5. Willispurg
+#facs_58_r2l44 les
+#facs_58_r2l45 Seinste
+#facs_58_r2l46 6. Petterlingen)
+#facs_58_r2l47 rt. 5 do
+#facs_58_r2l48 6. Laupen
+#facs_58_r2l49 Montags d. 7. do.
+#facs_58_r2l50 C. Zettir. vy.
+#facs_58_r2l51 7. Gottstatt
+#facs_58_r2l52 Mitwocht d 9th do
+#facs_58_r2l53 1 D:
+#facs_58_r2l54 5 Signaux
+#facs_58_r2l55 denstags d. 10ten Dec
+#facs_58_r2l56 3. Anberg.
+#facs_58_r2l57 5 Nijdaul
+#facs_59_r1l1 104
+#facs_59_r1l2 Continuatio der ordinarii anter
+#facs_59_r1l3 Rechnungen
+#facs_59_r1l4 No
+#facs_59_r1l5 175.
+#facs_59_r1l6 der Rechnung
+#facs_59_r1l7 Je ne pourais c'est le
+#facs_59_r1l8 karten.
+#facs_59_r1l9 Erytags d. 11ten Febr
+#facs_59_r1l10 1. do
+#facs_59_r1l11 Vamstags d. 12. do-
+#facs_59_r1l12 7 Oberhaften
+#facs_59_r1l13 ditto
+#facs_59_r1l14 Montags d. 14. do.
+#facs_59_r1l15 6 Fraubnung
+#facs_59_r1l16 5. Erlach
+#facs_59_r1l17 Mitwochs den 16. de
+#facs_59_r1l18 4. St. Johan
+#facs_59_r1l19 7. Griemsterg
+#facs_59_r1l20 1.d
+#facs_59_r1l21 Donstags d. 17. do.
+#facs_59_r1l22 2 Prieinsp: Hauß
+#facs_59_r1l23 2. hausarre
+#facs_59_r1l24 Peytagt d. 18. d.
+#facs_59_r1l25 Brander
+#facs_59_r1l26 2 e
+#facs_59_r1l27 3
+#facs_59_r1l28 Thun
+#facs_59_r1l29 Montags d. 21. do.
+#facs_59_r1l30 5 heutigen
+#facs_59_r1l31 4 Weyfinn
+#facs_59_r1l32 Wittwochs d. 23. do
+#facs_59_r1l33 2. Landshut
+#facs_59_r1l34 6. Trechselwald
+#facs_59_r1l35 5 Sumißwald
+#facs_59_r1l36 Donstags d. 24. d.
+#facs_59_r1l37 6 Milden
+#facs_59_r1l38 Feytags d. 25. d.
+#facs_59_r1l39 4. Wums
+#facs_59_r1l40 1. Buchsee
+#facs_59_r1l41 Montags d. 28. d.
+#facs_59_r1l42 4. do. abrechnung
+#facs_59_r1l43 4. Stifft Bern
+#facs_59_r1l44 6. Buren
+#facs_59_r1l45 Mitwochs d. 2. Marty
+#facs_59_r2l1 Continuatio den ordinay amts
+#facs_59_r2l2 No. der
+#facs_59_r2l3 105
+#facs_59_r2l4 Rechnung
+#facs_59_r2l5 Rechnung
+#facs_59_r2l6 1757
+#facs_59_r2l7 7 Anlangen
+#facs_59_r2l8 de
+#facs_59_r2l9 Kaufhaus und
+#facs_59_r2l10 Chauff God
+#facs_59_r2l11 of
+#facs_59_r2l12 Verwester Hollhl
+#facs_59_r2l13 Abschug Rechnung
+#facs_59_r2l14 denstags 3. Mai
+#facs_59_r2l15 1
+#facs_59_r2l16 Oron
+#facs_59_r2l17 Feytags L. D.
+#facs_59_r2l18 4
+#facs_59_r2l19 Welsch Weinschenr.
+#facs_59_r2l20 Demstags 5. d
+#facs_59_r2l21 7.
+#facs_59_r2l22 Wangen
+#facs_59_r2l23 Montags d. 7. do
+#facs_59_r2l24 ditto
+#facs_59_r2l25 5 Burgdorff
+#facs_59_r2l26 Mitwacht d. 9. J.
+#facs_59_r2l27 2. Arburg
+#facs_59_r2l28 Thoeber
+#facs_59_r2l29 6
+#facs_59_r2l30 Vonstags d. 10. do.
+#facs_59_r2l31 5
+#facs_59_r2l32 Biberstein
+#facs_59_r2l33 Vegtags den 11t. de
+#facs_59_r2l34 Vierung
+#facs_59_r2l35 5
+#facs_59_r2l36 Samstags den 12do
+#facs_59_r2l37 7. Moeser
+#facs_59_r2l38 1. do
+#facs_59_r2l39 Montags den 14d.
+#facs_59_r2l40 9 Inhut
+#facs_59_r2l41 4 Bipp.
+#facs_59_r2l42 Interlaken
+#facs_59_r2l43 Mitwochs d. 16. 8.
+#facs_59_r2l44 7
+#facs_59_r2l45 1
+#facs_59_r2l46 ditto
+#facs_59_r2l47 3. Untersien
+#facs_59_r2l48 Destags d. 17. do.
+#facs_59_r2l49 Id
+#facs_59_r2l50 BJofnign
+#facs_60_r1l1 104
+#facs_60_r1l2 N
+#facs_60_r1l3 der Stechen
+#facs_60_r2l1 Continuatio der ordinari anter
+#facs_60_r2l2 Rechnungen
+#facs_60_r2l3 1757.
+#facs_60_r2l4 Erztags d. 11ten Febr.
+#facs_60_r2l5 eröfferten.
+#facs_60_r2l6 1. d
+#facs_60_r2l7 Vom Tags d. 12. d.
+#facs_60_r2l8 7 Oberhaften
+#facs_60_r2l9 Montags d. 14. do
+#facs_60_r2l10 1 ditto
+#facs_60_r2l11 6. Fraubnung
+#facs_60_r2l12 5. Erlach
+#facs_60_r2l13 Mitwochs den 16. do
+#facs_60_r2l14 4 St. Johanß
+#facs_60_r2l15 7. Griemsterg
+#facs_60_r2l16 1.
+#facs_60_r2l17 denstags d. 17. do.
+#facs_60_r2l18 2 Prienisp. Haus
+#facs_60_r2l19 2 Lausarre
+#facs_60_r2l20 Beylags d. 18. d.
+#facs_60_r2l21 5 Irandis
+#facs_60_r2l22 thun
+#facs_60_r2l23 ;
+#facs_60_r2l24 Montags d. 21. do.
+#facs_60_r2l25 5 Feutigen
+#facs_60_r2l26 4 zweyfimme
+#facs_60_r2l27 Mittwochs d. 23. do
+#facs_60_r2l28 2. Landshut
+#facs_60_r2l29 6 Trachselwald
+#facs_60_r2l30 5 Sumißbald
+#facs_60_r2l31 Donstags d. 24. do.
+#facs_60_r2l32 6 Milden
+#facs_60_r2l33 Feytags d. 25. d.
+#facs_60_r2l34 4. Winns
+#facs_60_r2l35 1. Buchser
+#facs_60_r2l36 Montags d. 28. d.
+#facs_60_r2l37 4. do. abrechnung
+#facs_60_r2l38 4. Stifft Bern
+#facs_60_r2l39 6. Buren
+#facs_60_r2l40 Mitwochd. d. 2. Marty
+#facs_60_r3l1 continuatio der ordinary amts
+#facs_60_r3l2 No. der
+#facs_60_r3l3 105
+#facs_60_r3l4 Rechnung
+#facs_60_r3l5 Stochen und
+#facs_60_r3l6 7.
+#facs_60_r3l7 erkangen.
+#facs_60_r3l8 1757
+#facs_60_r3l9 kauff Haus
+#facs_60_r3l10 Kaufhaus und
+#facs_60_r3l11 verwester hollhl.
+#facs_60_r3l12 Abschug Stichnung
+#facs_60_r3l13 Donstags 3. Mart
+#facs_60_r3l14 Orosn
+#facs_60_r3l15 Peytags L. d.
+#facs_60_r3l16 Weltsch Weinschenk.
+#facs_60_r3l17 Demstags 5. d.
+#facs_60_r3l18 "
+#facs_60_r3l19 Wangen
+#facs_60_r3l20 Montags d. 7. do
+#facs_60_r3l21 ditto
+#facs_60_r3l22 5. Burgdorst.
+#facs_60_r3l23 Mittwochs
+#facs_60_r3l24 d.j. d.
+#facs_60_r3l25 2. Arburg
+#facs_60_r3l26 Thonberg,
+#facs_60_r3l27 Vonstags d. 10. do
+#facs_60_r3l28 5
+#facs_60_r3l29 Biberstein
+#facs_60_r3l30 5
+#facs_60_r3l31 Divier
+#facs_60_r3l32 Vegstags den 11. d.
+#facs_60_r3l33 5
+#facs_60_r3l34 7. Moesen
+#facs_60_r3l35 Samstags den 12do
+#facs_60_r3l36 1. do
+#facs_60_r3l37 Insul
+#facs_60_r3l38 Montags den 14 d
+#facs_60_r3l39 9
+#facs_60_r3l40 4. Bipp.
+#facs_60_r3l41 Inteelaken
+#facs_60_r3l42 7
+#facs_60_r3l43 Mitwochs d. 10. d.
+#facs_60_r3l44 1
+#facs_60_r3l45 ditto
+#facs_60_r3l46 7 Untersoon
+#facs_60_r3l47 1
+#facs_60_r3l48 Dorstags d. 17. do
+#facs_60_r3l49 1d
+#facs_60_r3l50 6 Josting
+#facs_61_r1l1 106
+#facs_61_r1l2 No. der
+#facs_61_r1l3 Insum¬
+#facs_61_r2l1 Continuatio der ordinay Amts Rechnung
+#facs_61_r2l2 1757
+#facs_61_r2l3 domain moitier
+#facs_61_r2l4 Vorstags:
+#facs_61_r2l5 75
+#facs_61_r2l6 18 mars
+#facs_61_r2l7 amstags 19. D.
+#facs_61_r2l8 ditto
+#facs_61_r2l9 Bruamt
+#facs_61_r2l10 Montags d. 21. d.
+#facs_61_r2l11 1 ditto.
+#facs_61_r2l12 2. Schenbenberg
+#facs_61_r2l13 Mitwochs 23. D.
+#facs_61_r2l14 6 Castelen
+#facs_61_r2l15 1 ditto
+#facs_61_r2l16 7 Lenzburg
+#facs_61_r2l17 1. ditto
+#facs_61_r2l18 Denstags d. 24.
+#facs_61_r2l19 2ahlen
+#facs_61_r2l20 2 Bonnont
+#facs_61_r2l21 Samstags 26.d.
+#facs_61_r2l22 4 Neuenstatt
+#facs_61_r2l23 5. Königsfelden
+#facs_61_r2l24 Montags - 28d.
+#facs_61_r2l25 5 Roche
+#facs_61_r2l26 Mitwachs d. 30 do.
+#facs_61_r2l27 2 Oranen
+#facs_61_r2l28 18 Groß Spithal
+#facs_61_r2l29 Donstags den 31. d.
+#facs_61_r2l30 6. Auboré
+#facs_61_r2l31 Erztagd. d. 1ten April
+#facs_61_r2l32 3. Neulos
+#facs_61_r2l33 Samstags den 2d.
+#facs_61_r3l1 3o Rechnungen nach oftern. 107.
+#facs_61_r3l2 uns im Lauf des Jahrs 1757
+#facs_61_r3l3 Vollkammerk. Straßen Rechnung
+#facs_61_r3l4 ,
+#facs_61_r3l5 Statt Majo
+#facs_61_r3l6 Donstags d. 28. April.
+#facs_61_r3l7 Stattstaht
+#facs_61_r3l8 Donstags d. 12ten Maßen
+#facs_61_r3l9 H. Don diess
+#facs_61_r3l10 Inner Bezirk
+#facs_61_r3l11 Umgelt
+#facs_61_r3l12 Kl. Steiger
+#facs_61_r3l13 außer Bezirk. Dienstags d. 26. Junii
+#facs_61_r3l14 Umgelt in der Statt¬
+#facs_61_r3l15 Böspfemng
+#facs_61_r3l16 Montags 22. Aug
+#facs_61_r3l17 Kirchmeyer vom Raht
+#facs_61_r3l18 Kirchmeyer von Bürgern  Donstags 25. Jan.
+#facs_61_r3l19 Thun Cons: Stundt
+#facs_61_r3l20 Thun Kornschaftner
+#facs_61_r3l21 Dorstags 1 Sept
+#facs_61_r3l22 Teutsch Weinschenk
+#facs_61_r3l23 Vonstags 8. Dec
+#facs_61_r3l24 Groß Allmöfner
+#facs_61_r3l25 Deutsch cetelschreiberey
+#facs_62_r1l1 108
+#facs_62_r1l2 Collant
+#facs_62_r2l1 An
+#facs_62_r2l2 Interlaken, oberhafte, item
+#facs_62_r2l3 Sernen, Prätigen und
+#facs_62_r2l4 Weysinnen Sepp
+#facs_62_r2l5 Wagen der Morilour udi armatur veräußerung
+#facs_62_r2l6 Einsehen
+#facs_62_r2l7 Schultheiß und Raht.
+#facs_62_r2l8 auf Unß erstatteten Bericht und
+#facs_62_r2l9 auf vernehmen, was maßen so
+#facs_62_r2l10 mit als anderer Orten von
+#facs_62_r2l11 Unseren angehörigen sich deren
+#facs_62_r2l12 befindend welche der, unterm 2.
+#facs_62_r2l13 Februar, 1714. darwieder ergange¬
+#facs_62_r2l14 nen vorstorg entgegen Ihr Murrition
+#facs_62_r2l15 gebehr und Armatur an außer
+#facs_62_r2l16 nus frembde verhandlen
+#facs_62_r2l17 une
+#facs_62_r2l18 veräußeren, gebend Wie
+#facs_62_r2l19 der ohnumgänglichen Nohtkendig
+#facs_62_r2l20 heit erachtet, sothaner Mandat
+#facs_62_r2l21 zu erfrischen, und, in der
+#facs_62_r2l22 ungebüßheit, ob solches sich derle
+#facs_62_r2l23 ringeschrieben befinde, Euch /: gleich
+#facs_62_r2l24 etwelch anderen Amtkeüthen) hier¬
+#facs_62_r2l25 durch daselbe Copey übersenden.
+#facs_62_r2l26 zumahlen endurch befehlen wollen.
+#facs_62_r2l27 zu vigilieren, daß deme nachgele¬
+#facs_62_r2l28 bet werde, in diesem absehen¬
+#facs_62_r2l29 aber solches behöriger Orten doch
+#facs_62_r3l1 109
+#facs_62_r3l2 /
+#facs_62_r3l3 unter der Haus uns mit behut¬
+#facs_62_r3l4 samkeit zu injurgieren, ohne jedoch
+#facs_62_r3l5 daß sothane Vorsorg de 1714 auf
+#facs_62_r3l6 neue von Canzlen verlesen und
+#facs_62_r3l7 verkündet werde. rt. Datl. den 6.
+#facs_62_r3l8 Decembris 1756
+#facs_62_r3l9 Gedel an Schgl. die Kriegs Stäht
+#facs_62_r3l10 Collath
+#facs_62_r3l11 Sie deßen per Copiam über ge¬
+#facs_62_r3l12 thanen Vortrag, und mit dem Erl.
+#facs_62_r3l13 gesinnen verständigen, von Ihnen
+#facs_62_r3l14 und auch denen Herren Land Majoren
+#facs_62_r3l15 durchgehends von dieser ernenerten
+#facs_62_r3l16 Ordnung und Einsehen Participation
+#facs_62_r3l17 zu ertheilen, mithin ihnen jeh¬
+#facs_62_r3l18 nach Ihrem Nachghl. ermeßen und
+#facs_62_r3l19 gutfinden das Weitere hierüber
+#facs_62_r3l20 pro Instructione aufzutragen.
+#facs_62_r3l21 Wie dann zu thun Sie bestens bißen
+#facs_62_r3l22 berken. Dat. d. 6ten Dec: 1756.

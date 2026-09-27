@@ -1,0 +1,106 @@
+Law ID: BER.01.001.4254
+Name: Auf ein Buch welches von dem Eid handelt, fleissige Acht zu bestellen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_502
+# Matched: 95/95
+# High similarity (>=50%): 93
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_17_r4l27 Signalen:
+#facs_18_r3l1 Signalement
+#facs_18_r3l2 Rudolst Düffrene, Schumacher seiner Profession, bey
+#facs_18_r3l3 44. Jahren Alters, 6½. Bern Schu lang, Corpulenten
+#facs_18_r3l4 Leibs, tragt schwarz Braune zusammen gebundene
+#facs_18_r3l5 haar ein Bleichlechtes Angesicht, Graue Augen
+#facs_18_r3l6 und schwarzen Bart, unter dem Baken hat er ein
+#facs_18_r3l7 Narben, und wann er redet so stoßet er sich am
+#facs_18_r3l8 R. aussprechen, tragte ehemahls einen grauen
+#facs_18_r3l9 wollenen Rob, rohte Westen, und schwarz Lederne
+#facs_18_r3l10 Hosen
+#facs_18_r3l11 An
+#facs_18_r3l12 Alle T. und W. H. Amtleut, 4. Stätt, Freybeibel und
+#facs_18_r3l13 Aman, Item Jedel an hiesige Cänzel,
+#facs_18_r3l14 und H. Großweibel
+#facs_18_r3l15 Auf ein Buch welches von dem Eid handelt, fleißige
+#facs_18_r3l16 acht zu bestellen.
+#facs_18_r3l17 Schultheis und Raht
+#facs_18_r3l18 Unter der Aufschrifft versuch über wichtige wahr¬
+#facs_18_r3l19 seiten zur Blutseligkeit der Menschen etc. ist in
+#facs_18_r3l20 dem Lauff dieses Jahres im Druk erschienen,
+#facs_18_r3l21 welches von dem Eyd handelt, und mit solchen
+#facs_18_r3l22 Irrigen und gefährlichen Lehren angefüllet ist,
+#facs_18_r3l23 „die
+#facs_18_r4l1 29
+#facs_18_r4l2 Die da über diesen Punkt die wahren Brund¬
+#facs_18_r4l3 Sähe Unserer Religion und Regierung umzu¬
+#facs_18_r4l4 stürzen suchen etc.
+#facs_18_r4l5 Damit nun durch diese allerdings straff¬
+#facs_18_r4l6 bahre Schrift, Unsere wehrte Burgere und Ange¬
+#facs_18_r4l7 hörige nicht in die Irre geführt werden, haben
+#facs_18_r4l8 Wir hiemit Erkent.
+#facs_18_r4l9 4° Daß dieses Buch, es seye, daß es frühe
+#facs_18_r4l10 oder Späht, unter dieser, oder unter einer
+#facs_18_r4l11 anderen Aufschrift zum Vorschein komme; wie
+#facs_18_r4l12 auch die Übersezungen und Abschrifften davon
+#facs_18_r4l13 durchgehends in Unseren Landen verbotten
+#facs_18_r4l14 seyn sollen.
+#facs_18_r4l15 2° Daß diejenigen Exemplarien, welche sich
+#facs_18_r4l16 bereits in handen Unserer Bürgere und Ange¬
+#facs_18_r4l17 hörigen befinden möchten, von der Verbün¬
+#facs_18_r4l18 dung dieses Verboots an, inner acht Tagen,
+#facs_18_r4l19 dem Richter jeden Orts eingehändiget, und
+#facs_18_r4l20 son demselben uns eingesendet werden sollen,
+#facs_18_r4l21 3. Würde aber der eine oder andere Unse¬
+#facs_18_r4l22 Burgeren und Angehörigen, in Unserm in
+#facs_18_r4l23 Ihren Gehorsam gesezten Zutrauen nicht ent¬
+#facs_18_r4l24 sprechen, und diesem Unserm Ernstlichen
+#facs_18_r4l25 verboit zu wieder, sich so weit vergehen, daß
+#facs_19_r2l1 Er dieses hinter sich habende Buch, inner der
+#facs_19_r2l2 obbestimten Zeit, dem Richter des Ohrts zu
+#facs_19_r2l3 übergeben unterlaßen wurde, soll auf besche¬
+#facs_19_r2l4 hende Entdebung, ein solcher Eine Geld Buß von
+#facs_19_r2l5 Ein Hundert Thaler bezahlen
+#facs_19_r2l6 Und mit gleicher Straffe sollen auch belegt
+#facs_19_r2l7 werden alle diejenigen, welche von gegenwär¬
+#facs_19_r2l8 tigen oder zubünfftigen Auflagen und Übersetz¬
+#facs_19_r2l9 ungen, ein Exemplar oder Abschrifften verbauffen
+#facs_19_r2l10 oder kaufen würden, allso daß so wenig die Gegen¬
+#facs_19_r2l11 wärtigen Besizere, als die zukünfftigen Käuffel
+#facs_19_r2l12 und Verkäufern, sich des geringsten Nachlaß zu
+#facs_19_r2l13 getrösten haben werden
+#facs_19_r2l14 4°4 die ganze Buß soll dem Verleider heim
+#facs_19_r2l15 dienen, und deßen Nahme geheim bleiben
+#facs_19_r2l16 Dieser Unser Will wird demmenach öffentlich von
+#facs_19_r2l17 der Canzel kund gethan, damit Jedermann sich vor
+#facs_19_r2l18 Schaden und Nachtheil zu verhüeten wiße, und die
+#facs_19_r2l19 Übertreckere sich nicht mit der Unwißenheit Entschul¬
+#facs_19_r2l20 digen können, sondern Ihr gegen selbige ohne
+#facs_19_r2l21 schonen noch ansehen der Person pünbtlich nach diese
+#facs_19_r2l22 vorschrifft verfähret. Dat. den 16. Septemb. 1766.
+#facs_19_r2l23 zedel an alle Canzel der Gattstadt. Mut: mutaud: das gleiche Im¬
+#facs_19_r2l24 verlesen.
+#facs_19_r2l25 Zedel an H. Großweibel. Ihme von diesem
+#facs_19_r2l26 ver
+#facs_19_r4l1 31
+#facs_19_r4l2 Verbodt eine Abschrift zusenden, mit Befehl,
+#facs_19_r4l3 das selbe auch denen Buchtruberen und Zuch¬
+#facs_19_r4l4 händleren kund zu thun, in der Haubtstadt
+#facs_19_r4l5 auf die Übertreckere des Verboots zu wachen
+#facs_19_r4l6 und nach Vorschrifft des selben zu verfahren
+#facs_19_r4l7 An
+#facs_19_r4l8 H. Amtleut, 4. Stäck, Freybeibel
+#facs_19_r4l9 Alle T. und N
+#facs_19_r4l10 und Amann
+#facs_19_r4l11 Dem Vergifftensvorhabend gewesenen Hans Ulrich
+#facs_19_r4l12 Wegmüller von Brandis, keinen Aufenthalt zu gestatten.
+#facs_19_r4l13 Schultheiß und Raht etc.
+#facs_19_r4l14 Wegen begangenen schwären verbrechen, haben
+#facs_19_r4l15 Wir den Hans Ulrich Weymüller von Brandis¬
+#facs_19_r4l16 auf Ewig aus gesamt Lobl. Eisgnoßschafft banisiert
+#facs_19_r4l17 und befehlen Euch mit Zusendung deßen signalem
+#facs_19_r4l18 demselben keinen Aufenthalt in Eüerem Amt
+#facs_19_r4l19 zu gestatten, sondern auf betrecken ihne allsobald
+#facs_19_r4l20 fortzuweisen. Dat. d. 20ten Sept. 1766.

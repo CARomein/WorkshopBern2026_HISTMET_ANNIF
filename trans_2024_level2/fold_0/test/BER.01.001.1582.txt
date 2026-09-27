@@ -1,0 +1,31 @@
+Law ID: BER.01.001.1582
+Name: Ein allgemeine Musterung befelchen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 20/20
+# High similarity (>=50%): 17
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_306_r2l15 An Alle Teütsch und Weltsche Ambtleut.
+#facs_306_r2l16 Ein allgemeine Musterung befelchen
+#facs_306_r2l17 Schuldtheiß Vnd Raht der Statt Bern
+#facs_306_r2l18 Weilen wir Hochnotwendig Zesein
+#facs_306_r2l19 erachtet, zu Statt vnd Land ein allgemeine Musterung anzestellen,
+#facs_306_r2l20 Vmb die errengenden mengel desto besten zu reparieren, Alß habend wir
+#facs_306_r2l21 die hiemit befelchen wellen, alle Vßzüger Vndt übrige in anschaffi=
+#facs_306_r2l22 deiner Verwaltung alles ernsts dahin zhalten, daß ein Jeder ver-
+#facs_306_r2l23 dem angesetzten tag so da sein wirt Sambstag der 24 diß monats
+#facs_306_r2l24 sich mit seinem Überwehr vnd habenden munition, an dem ort so Im¬
+#facs_306_r2l25 durch den Herrn Haubtman wirt vernanset werden, by seiner Compens
+#facs_306_r3l1 93.
+#facs_306_r3l2 befinde, Vnd daßelben beuelchs erwarte zu gleichen zeit soll auch durch
+#facs_306_r3l3 dich dem Volk byligendes Inen im fal lärmens bestimbtes rendez vous
+#facs_306_r3l4 vorgelesen Vnd kundt gemacht werden) Gott mit dir. Datum 19 Nouembr.
+#facs_306_r3l5 6555
+#facs_306_r3l6 An Thorberg, Burgdorff, Arberg, Büren
+#facs_306_r3l7 Frauwbrunnen, Landtshut, Signauw, Thun,
+#facs_306_r3l8 Laupen, Frienisperg. Item Alle Freiweibel vnd
+#facs_306_r3l9 Elman

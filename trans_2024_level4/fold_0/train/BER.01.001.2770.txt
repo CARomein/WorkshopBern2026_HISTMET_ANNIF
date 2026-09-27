@@ -1,0 +1,30 @@
+BER.01.001.2770
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 21/21
+# High similarity (>=50%): 8
+# Low similarity (<50%): 13
+# Not found: 0
+#
+#facs_306_r3l9 ohne schonen zu verfahren. Datum 22. Augusti 1701
+#facs_306_r3l10 An alle T undt Weltsche Ambtleüth
+#facs_306_r3l11 4. Stätt, Freyweibel und Ammann Item pe¬
+#facs_306_r3l12 placcard an alle Thor und gewohnte Ohrt
+#facs_306_r3l13 Dieser Statt
+#facs_306_r3l14 Abenderung etwelcher Oberländischen Jahr, diese Marckten etc.
+#facs_306_r3l15 Schultheiß und Rast der Statt Bern
+#facs_306_r3l16 Weilen die Oberländischen Jahr- Vieh-Märckt hiebevor nach
+#facs_306_r3l17 Denen abfahrten ab den bergen eingerichtet gewesen, und aber
+#facs_306_r3l18 der angenommene verbesserte Calender deßwegen einiche besuen¬
+#facs_306_r3l19 Licht abenderung erforderet; Alß werdend wir selbige auff
+#facs_306_r3l20 kunfftige Zeithen eingerichtet, ehestens bekantmachen laßen
+#facs_306_r3l21 angestellet
+#facs_307_r2l1 Wie folget, der Erlenbach Märit auff sonstag der fünffige
+#facs_307_r2l2 ehenden: Der im Adelboden auff Freytag den Sechszechen
+#facs_307_r2l3 den: der zu Frutigen auf Sambstag den 17; der zü Rijchenbahr
+#facs_307_r2l4 auff zinstag den Zwäntzigsten, undt der zu zweyfinnen auff
+#facs_307_r2l5 Mitwuchen den ein undt zwanligsten des bevorstehenden
+#facs_307_r2l6 Herbstmonate: So die hiemit zu Mäniglichs verhalt unge¬
+#facs_307_r2l7 saumbt aller ohrten seiner Ambts kund machen solst.
+#facs_307_r2l8 Dat. 22. Augusti 1701.

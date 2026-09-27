@@ -1,0 +1,123 @@
+BER.01.001.2656
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 114/114
+# High similarity (>=50%): 104
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_160_r4l1 Coll
+#facs_160_r4l2 C:
+#facs_160_r5l1 An etwelche nachbeschribene
+#facs_160_r5l2 Ambtleut T. undt W. Landts¬
+#facs_160_r5l3 Hochgewildt undt Fäderstihl fellen
+#facs_160_r5l4 jelassen.
+#facs_160_r5l5 Schultheiß und Raht der Statt Bern.
+#facs_160_r5l6 &c
+#facs_160_r5l7 K
+#facs_160_r5l8 Seilen auß mißverständtnuß von v. der Teütschen
+#facs_160_r5l9 und Weltschen Seckelschreiberey auß, der befelch an
+#facs_160_r5l10 etwelche Unsere Ambtleüt ergangen, etwas hochgleich
+#facs_160_r5l11 undt Hederspihl auf vorhabende Rastereyen fellen
+#facs_160_r5l12 zulassen; habend wir dir gleich etwelchen anderen
+#facs_160_r5l13 Vnseren Ambtleuten, in aufhebung gedachten Befalchen
+#facs_160_r5l14 hiemit befahlen wollen, hinder deinem Ambt die
+#facs_160_r5l15 veranstaltung zuverschaffen, daß fürderlichst ein
+#facs_160_r5l16 gefelt, und allharo Unserem geliebten
+#facs_160_r5l17 Mitraht H. Rahtsh. Willading als Obman der Jeger,
+#facs_160_r5l18 Cammer überschickt werde, der meinung gleich wohlen
+#facs_160_r5l19 daß den Müterschweinen und Geissen, so weit
+#facs_160_r5l20 möglich verschont werde. Dat. 16. Novembris 1697.
+#facs_160_r5l21 Scheibenberg. Ein Wildtschlwein und ein Rehbock.
+#facs_160_r5l22 Lentzburg. Ein dotzet oder 1½ Dotzet, Rebhüner
+#facs_160_r5l23 Anlangen. Ein dotzet Rebhüner.
+#facs_160_r5l24 noch per recharge neben den dotzet ein mehrers allhärgeschicken
+#facs_161_r3l1 Laßli zwei Hemschböck, Wildthüner und anders
+#facs_161_r3l2 4
+#facs_161_r3l3 feserspihl so viel zubekommen.
+#facs_161_r3l4 Interlocken. Ein halb dozet feder stihl
+#facs_161_r3l5 Vnderseen. Ein Gomschbock undt ½ Dotzet Wildthüer.
+#facs_161_r3l6 prutingen. —½ Dotzet Wildthüner
+#facs_161_r3l7 Wimmis. auch.
+#facs_161_r3l8 Ahlen. ein Hirsch und Fäderspihl
+#facs_161_r3l9 Schwartzenburg. ein Hirsch¬
+#facs_161_r3l10 pferten. Ein Wildtschlein und 12. Rabhüner.
+#facs_161_r3l11 Bomont. Ein Wildtschloem und ein Hirsch¬
+#facs_161_r3l12 Moorsee 24. Rabbüner, und ein Rehbock.
+#facs_161_r3l13 Neulos. Ein Rah, und 12 Rebhuner.
+#facs_161_r3l14 Petterlingen: 12. Rebhüner.
+#facs_161_r3l15 Wiblispurg. 12. Diebhüner.
+#facs_161_r3l16 Nydaul, Lin Hirg
+#facs_161_r3l17 An alle T: Ambtleüt, 4 Statt
+#facs_161_r3l18 Freyleibel und Ammen. Item
+#facs_161_r3l19 per placcard allhier in der Statt
+#facs_161_r3l20 Den Straßburger Märit publicieren
+#facs_161_r3l21 Schultheiß und Raht der Statt Pern
+#facs_161_r3l22 Von seiten daß Magistrats zu Straßburg sind Wir
+#facs_161_r3l23 berichtet worden, das Ihr Königl. Maystl. in
+#facs_161_r3l24 Franckreich selbige Statt, über die gewohnte Ilvey
+#facs_161_r4l1 luin.
+#facs_161_r4l2 Märckten, noch mit zweyen befreiten Reich- und Roßmarck
+#facs_161_r4l3 ten begnadet habe, also daß krafft obanzogner Königl.
+#facs_161_r4l4 Begnädigung und befreyung jedermäniglichen neuen
+#facs_161_r4l5 halb solcher Zeit vergont sein solle, mit Pferden, Rind,
+#facs_161_r4l6 und anderem Reich vngehinderet zu handlen, selbige
+#facs_161_r4l7 Zukauffen und Zuverkauffen, ein uns auschetauschen
+#facs_161_r4l8 ihnn das Ihnen darfür einiger Zoll oder andern gebühr
+#facs_161_r4l9 abgeforderet, oder auch Sie Ihre pferdt oder veich, noch auch
+#facs_161_r4l10 das darfür erlösste gelt, oder dargegen eingetauschte
+#facs_161_r4l11 Wahren, mit arrest beschlagen werden mögen, es wäre
+#facs_161_r4l12 dann vmb schuld und Vrsach, so auf selbigem marckt
+#facs_161_r4l13 contrahiert und verwürcket worden wäre; Massen
+#facs_161_r4l14 Der Erste auf künfftige Straßburger Wienacht, oder
+#facs_161_r4l15 den fünfften Zeüer neülben Calenders angehabt und
+#facs_161_r4l16 so lang als der sonst gewöhnliche Wienacht Marckt,
+#facs_161_r4l17 währen solle; Wann nun Wir umb die publication
+#facs_161_r4l18 diser befreiten Reich und Rosemarckten zugleich
+#facs_161_r4l19 -
+#facs_161_r4l20 ersucht worden; Als habend Wir dir, gleich gegen
+#facs_161_r4l21 anderen Ambtlenten auch beschieht, hiemit befehlen
+#facs_161_r4l22 wollen, solches zu Mäniglichs nachricht undt
+#facs_161_r4l23 verhält öffentlich verbunden gelassen. Gott mit
+#facs_161_r4l24 Dir. Bat. 29. 9bris. 1697
+#facs_162_r1l1 314.
+#facs_162_r1l2 Coll
+#facs_162_r2l1 An alle W. Ambtlent.
+#facs_162_r2l2 Ein Project einer Jegerordnung zumachen
+#facs_162_r2l3 und herzuschicken.
+#facs_162_r2l4 pr
+#facs_162_r2l5 Schultheiß uns Raht der Statt Pern¬
+#facs_162_r2l6 Des aurlich kame vnß vor, daß als Wir jüngstens
+#facs_162_r2l7 Zu Oberbeitlicher nohtdurfft etwas fäder glaildts
+#facs_162_r2l8 in dem Weltschen Land zufallen, und herzubringen
+#facs_162_r2l9 befohlen, vns der Bericht einkommen, daß gedachtes
+#facs_162_r2l10 Land, durch das unmässige Hetzen und Jagen
+#facs_162_r2l11 mehrentheils deren, denen weder das Jagen noch
+#facs_162_r2l12 Gegenacht gebührt oder gezimbt, vom Alwildt gantz
+#facs_162_r2l13 errödet und erschöpfet sich befinde, so die Vrsach ist,
+#facs_162_r2l14 der
+#facs_162_r2l15 Das von Oberbeitlich obliger
+#facs_162_r2l16 Vorsorg wegen, wir die
+#facs_162_r2l17 gedanken gefasset, auch einiche Ordnungen, gleich
+#facs_162_r2l18 in Unseren Teütschen Landen beschehen, allda
+#facs_162_r2l19 einzuführen, doch aber ohne angriff der Vassaleri
+#facs_162_r2l20 oder anderen habenden gerechtigkeiten; Befelchend¬
+#facs_162_r2l21 also dir hiemit (gleich übrigen unseren welchen
+#facs_162_r2l22 Aemblenten: ein pahr verständiger Vaspallen
+#facs_162_r2l23 mit etwelche von den Stätten deiner Ambts,
+#facs_162_r2l24 Welche zu der Jagdt Recht haben möchten Zu
+#facs_162_r2l25 dir zuziechen, undt ein Project zumachen, wie
+#facs_162_r2l26 man vermeinte, daß nach Beschaffenheit der
+#facs_162_r2l27 zeiten, und des Releildts jeden Ohrts, die jegen
+#facs_162_r3l1 99.
+#facs_162_r3l2 Wider genöffnet, gepflanchet, vnd in gutem Wesen erhalten
+#facs_162_r3l3 werden könte, und gedachtes project vns Zeuberschreiben
+#facs_162_r3l4 damit drüber das verüere nachdencken gehalten, uns
+#facs_162_r3l5 das so man guet erachten wirdt, außgeschriben werden
+#facs_162_r3l6 könne. Massen deines Theils zu exequieren wüsten
+#facs_162_r3l7 wirst, zu welchem end auch beygefüeget wirt, ein
+#facs_162_r3l8 doppel der Jegerorsnung Teütscher Landen umb
+#facs_162_r3l9 o-
+#facs_162_r3l10 darin Sich zuerschaulen. Gott mit dir. Batz.
+#facs_162_r3l11 Januarij 1698

@@ -1,0 +1,46 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_493
+# Matched: 38/39
+# High similarity (>=80%): 36
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: LawID: BER.01.001.3437
+#facs_350_r3l8 rite
+#facs_93_r1l1 176
+#facs_77_r3l1 Collate
+#facs_29_r3l1 sollat
+#facs_56_r3l2 An Alle T: und W. Ambtleüth,
+#facs_263_r1l3 4. Stätt, Freyweibel und aman
+#facs_72_r4l11 It. p placcard an hiesige pfeyler
+#facs_93_r3l4 Wegen geringhältigen umbgeprägeten Herrn
+#facs_93_r3l5 thaleren, und neülden Zehenbätzleren, oder Franten.
+#facs_38_r4l15 Schultheiß und Raht etc.
+#facs_93_r3l7 Aus bey verwahrten Placcarden wirst du
+#facs_93_r3l8 ersehen, was wir wegen der Neuld umb,
+#facs_93_r3l9 Geprägete Französischen Thaleren, und zehen
+#facs_93_r3l10 Bätzleren, oder Franten, wegen Ihrer
+#facs_93_r3l11 Geringhältigkeit zu verordnen Gutfunden.
+#facs_93_r3l12 Welche Wir dir hiemit zusenden, und
+#facs_93_r3l13 Anbey befehlen wollen, solche zu Meniglichs
+#facs_93_r3l14 Verhalt und Nachricht an gewohnten
+#facs_93_r3l15 Orthen Anschlagen zu Laßen; Wie Zethun büse
+#facs_93_r3l16 Wirst p. Dat. 8. Febr. 1724
+#facs_355_r3l9 Placard.
+#facs_93_r3l18 Weilen Meghl. und Oberen Wahrgenommen,
+#facs_93_r3l19 das die in Erantreich Neulofabricierte
+#facs_93_r3l20 Thaler, und Neulde Zehenbätzler, oder Frantenstück
+#facs_93_r4l1 177.
+#facs_93_r4l2 deren Abtruk hierunden zu sehen, zu gering¬
+#facs_93_r4l3 hältig seyen, habend Ihrgl. für guet erachtet,
+#facs_93_r4l4 sich der eint- und anderen eygentlichen Halts
+#facs_93_r4l5 und Barths erkundigen zu laßen, und durch
+#facs_93_r4l6 gezogene Proben in Erfahrung gebracht, daß
+#facs_93_r4l7 der Thaler nicht mehr dann siben, und zwantzig
+#facs_93_r4l8 Bahen, das Franten-stükli oder Zehenbätzler dann
+#facs_93_r4l9 mehr nicht alß Neimbatzen werth seye;
+#facs_93_r4l10 Welches Ihr Gl. durch gegenledertiges plauart
+#facs_93_r4l11 und Abtrut hiemit meniglich zu seinem
+#facs_93_r4l12 Verhalt, und Vorkommung Schävens, und mach¬
+#facs_93_r4l13 bollen, umb sich darnach richten Zekönen
+#facs_93_r4l14 Actum den 8. Februarii 1724

@@ -1,0 +1,406 @@
+Law ID: BER.01.001.4659
+Name: Bekantmachung wegen des neü in Druke erschienenen Anhanges zu der erneüerten Gerichtssazung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 395/395
+# High similarity (>=50%): 366
+# Low similarity (<50%): 29
+# Not found: 0
+#
+#facs_73_r2l1 Schulthe
+#facs_73_r2l2 Collati
+#facs_73_r3l1 B
+#facs_73_r3l2 alle deutschen Herren Amtleute
+#facs_73_r3l3 demie an Ahlen, die vier Städt,
+#facs_73_r3l4 Schbarzenburg und Hectis Byl.
+#facs_73_r3l5 Ihnen den Anhang zu der erneuerte,
+#facs_73_r3l6 Gerichts-Sähung zusenden.
+#facs_73_r3l7 Rath und Burger. F
+#facs_73_r3l8 Bey Anlaß der durch Unsere
+#facs_73_r3l9 vorstorge veranstalteten neuen
+#facs_73_r3l10 Auflage der im Jahre 1761. ernen¬
+#facs_73_r3l11 erten Gerichtssatzung, haben Wir gut
+#facs_73_r3l12 und zum allgemeinen Resten unzlich
+#facs_73_r3l13 erachtet, unsere seither publizierte
+#facs_73_r3l14 Verordnungen, durch welche ermeldte
+#facs_73_r3l15 Gerichtsfahung abgeändert und ver¬
+#facs_73_r3l16 beßert worden, sammeln und unter
+#facs_73_r3l17 dem Titel eines Anhangs, so
+#facs_73_r3l18 druben zu laßen, daß Jedermann
+#facs_73_r3l19 sich denselben nach Gelieben, ent¬
+#facs_73_r3l20 weder mit der neuen Auflage
+#facs_73_r3l21 der Gerichtsfahung oder besonders
+#facs_73_r3l22 Diesem Anhang
+#facs_73_r3l23 anschaffen kann.
+#facs_73_r4l1 144
+#facs_73_r4l2 haben Wir noch beygefügt, folgende
+#facs_73_r4l3 von Uns erkennte aber bis anhin
+#facs_73_r4l4 noch nicht publizierte Verordnungen
+#facs_73_r4l5 nähmlich die unterm 26ten November
+#facs_73_r4l6 1784. gemachte und seither in etwas
+#facs_73_r4l7 abgeänderte Ordnung ansehend die
+#facs_73_r4l8 Beneficia Inventarii und Geltstage;
+#facs_73_r4l9 die vom 30. März 1787. und 12. ten
+#facs_73_r4l10 Januar 1789. wegen Verminderung
+#facs_73_r4l11 der Rechtshändel und die vom 163
+#facs_73_r4l12 Merz 1789. wieder die saumseligen
+#facs_73_r4l13 vögte.
+#facs_73_r4l14 Hierbey ist unser Wille und Befehl
+#facs_73_r4l15 das diese drey Verordnungen von
+#facs_73_r4l16 nun an, als von uns ausgegebene
+#facs_73_r4l17 Gestehe angestehen und gleich dem
+#facs_73_r4l18 erstern von Jedermann geflißen
+#facs_73_r4l19 und getreulich befolget werden.
+#facs_73_r4l20 Beyligende Exemplar des ermelten
+#facs_73_r4l21 Anfangs zur Gerichtssatzung übersenden
+#facs_73_r4l22 Wir Euch, so wohl zu Ennerer Nach¬
+#facs_73_r4l23 richt und verhalt, als damit Ihr
+#facs_74_r2l1 so wohl in die Landschreiberey als¬
+#facs_74_r2l2 an jede Gerichtsstelle Eueres Amtes
+#facs_74_r2l3 ein doppel davon übergeben und
+#facs_74_r2l4 bey diesem Anlaße deren Gefolgung
+#facs_74_r2l5 ernstmeinend empfehlen könnet.
+#facs_74_r2l6 Ein Exemplar dann soll im Schlos¬
+#facs_74_r2l7 Wir
+#facs_74_r2l8 aufbehalten werden.
+#facs_74_r2l9 tragen Euch auch auf, dieses
+#facs_74_r2l10 Mandat auf den Kanzeln tüeret
+#facs_74_r2l11 Antes verlesen und in Eüre
+#facs_74_r2l12 Schloßbücher einschreiben zu laßen.
+#facs_74_r2l13 geben, den 30ten Novembris 1789.
+#facs_74_r2l14 Zedel an die Herren Landgerichts¬
+#facs_74_r2l15 Venner, zu seftigen, Konolfingen,
+#facs_74_r2l16 und Zollikofen. Ihnen das gleiche
+#facs_74_r2l17 überschreiben, die Publikation von
+#facs_74_r2l18 Kanzel allein ausgenommen.
+#facs_74_r2l19 An alle x
+#facs_74_r3l1 143
+#facs_74_r3l2 An alle Herren Herrschafts Herren
+#facs_74_r3l3 deutschen Lands, von welchen sogleich
+#facs_74_r3l4 das Verzeichniß folgen wird.
+#facs_74_r3l5 obid:
+#facs_74_r3l6 Schultheiß Räth und Burger.
+#facs_74_r3l7 Rey Anlas der veranstalteten
+#facs_74_r3l8 neuen Auflage der Gerichtssahung
+#facs_74_r3l9 vom Jahr 1761. haben wir gut, und
+#facs_74_r3l10 zum allgemeinen Resten nachlich er¬
+#facs_74_r3l11 achtet, unsere seither publicierte
+#facs_74_r3l12 Verordnungen, durch welche ermelte
+#facs_74_r3l13 Gerichtsatzung abgeändert und verbessert
+#facs_74_r3l14 borden, sameln, und unter dem Titel
+#facs_74_r3l15 eines Anhangs druben zu laßen.
+#facs_74_r3l16 Demselben haben Wir noch beyge¬
+#facs_74_r3l17 füegt, folgende von Uns erkante, aber
+#facs_74_r3l18 bis aichm noch nicht publicierte
+#facs_74_r3l19 Verordnungen, nemlich die unterm
+#facs_74_r3l20 26t November 1784 gemachte, seither
+#facs_74_r3l21 in etwas abgeänderte Ordnung an¬
+#facs_74_r3l22 sehend die Beneficia Inventarii um
+#facs_74_r3l23 Geltstage, die vom 30ten März
+#facs_75_r3l1 1787 und 12. Jenner 1789. beym Ver¬
+#facs_75_r3l2 ninderung der Rechtshändel, und die
+#facs_75_r3l3 vom 16ten März 1789. wieder die
+#facs_75_r3l4 saumseligen vögte.
+#facs_75_r3l5 Mit Zufendung nun eines Exem¬
+#facs_75_r3l6 plers dieses Anhangs, ist Unser
+#facs_75_r3l7 Willen und Befehl, das gemeldte
+#facs_75_r3l8 3. Verordnungen von nun an.
+#facs_75_r3l9 als von uns ausgegebene gesehe ange¬
+#facs_75_r3l10 stehen, und von jedermann befolget,
+#facs_75_r3l11 seines behörigen Orts aber nachricht¬
+#facs_75_r3l12 lich eingeschrieben werden. DatC: ut supra.
+#facs_75_r3l13 An die acht freybeibel und hier¬
+#facs_75_r3l14 Ammann. Ihnen gleiches überschreiben,
+#facs_75_r3l15 nur mit verandertem und folgendem
+#facs_75_r3l16 Schluße:
+#facs_75_r3l17 Damit nun dieses behörig bekant.
+#facs_75_r3l18 berde, so haben Wir die angebogene
+#facs_75_r3l19 Kundmachung ausgehen laßen von
+#facs_75_r3l20 der du eine genügsame Anzahl
+#facs_75_r3l21 Exemplarien erhalten wirst, um
+#facs_75_r3l22 C
+#facs_75_r6l1 145
+#facs_75_r6l2 solche auf den Känzeln deines Re¬
+#facs_75_r6l3 Zirks-publicieren zu laßen, von
+#facs_75_r6l4 dem Anhange selbst den schiken
+#facs_75_r6l5 Wir dir ein Exemplar zu deinen
+#facs_75_r6l6 eigenen Handen zu, die für die
+#facs_75_r6l7 Herrschaften und Gerichtsstellen aber,
+#facs_75_r6l8 die etba in deinem Rezirke liegen
+#facs_75_r6l9 mögen, haben wir derselben gerade zu
+#facs_75_r6l10 Zukommen laßen.
+#facs_75_r6l11 Bedel an Mahbsch. der deutschen
+#facs_75_r6l12 Appellat Kammer, des Stadt und
+#facs_75_r6l13 Stadt Waifengrichtes bin auch des
+#facs_75_r6l14 Oberen Ehegerichtes. Sie deßen
+#facs_75_r6l15 alles auch berichten, und demenach
+#facs_75_r6l16 Ihnen ein Exemplar zu Handen der
+#facs_75_r6l17 Kammer und eines zu Handen des
+#facs_75_r6l18 Sebretariats zustenden.
+#facs_75_r6l19 Zedel an die Känsel. Für jeden
+#facs_75_r6l20 eine Publikation zur Verlesung
+#facs_75_r6l21 Zuschiken, so wie solche auch an
+#facs_76_r3l1 an den üblichen Orten ist angeschlagen
+#facs_76_r3l2 worden.
+#facs_76_r3l3 An alle belschen Herren Amstleute
+#facs_76_r3l4 demne Zofingen, Stift und Gottstadt,
+#facs_76_r3l5 Nahmens der Kanzley. Ihnen als
+#facs_76_r3l6 Standsgliedern ein doppel dieses An¬
+#facs_76_r3l7 hangs zu eigenen Handen zuschiben
+#facs_76_r3l8 daselcher auch hier ist ausgetheilt
+#facs_76_r3l9 Borden.
+#facs_76_r3l10 Zedel an Mahb. der Gesetzgebungs Comis¬
+#facs_76_r3l11 Sie dieser Verfuegungen berichten.
+#facs_76_r3l12 Verzeichniß
+#facs_76_r3l13 der Auf die Ämter verschikten.
+#facs_76_r3l14 Anhänge.
+#facs_76_r3l15 zu jedem Schreiben ward ein besonderes
+#facs_76_r3l16 Plat, folgenden Innhalts gelegt.
+#facs_76_r3l17 Beylagen.
+#facs_76_r3l18 1. Exemplar Anhang in groß folio für den
+#facs_76_r3l19 Hh. Landvogt als Standsglied.
+#facs_76_r4l1 147.
+#facs_76_r4l2 1. Exemplar in groß folio zu der
+#facs_76_r4l3 Oberkeitlichen Gerichts = Satzung.
+#facs_76_r4l4 des Schloßes.
+#facs_76_r4l5 Exemplar in klim folio zu Handen
+#facs_76_r4l6 1
+#facs_76_r4l7 der Landschreiberey.
+#facs_76_r4l8 Exemplarien für die Gerichtsstellen
+#facs_76_r4l9 00
+#facs_76_r4l10 des Amtes.
+#facs_76_r4l11 -
+#facs_76_r4l12 Diesenmach sind nun in allem
+#facs_76_r4l13 auf die Ämter verschikt worden.
+#facs_76_r4l14 bin folget:
+#facs_76_r4l15 Pixx
+#facs_76_r4l16 11
+#facs_76_r4l17 Thun.
+#facs_76_r4l18 derlangen
+#facs_76_r4l19 10
+#facs_76_r4l20 Surgdorf
+#facs_76_r4l21 Wangen
+#facs_76_r4l22 für dortige Herr
+#facs_76_r4l23 Landshut
+#facs_76_r4l24 schaften und Stadt = 10
+#facs_76_r4l25 Lenzburg
+#facs_76_r4l26 11
+#facs_76_r4l27 Füren
+#facs_76_r4l28 Schenbenberg
+#facs_76_r4l29 4
+#facs_76_r4l30 Untersteen
+#facs_76_r4l31 17
+#facs_76_r4l32 Aarberg
+#facs_76_r4l33 J beystimmenr.
+#facs_76_r4l34 8 Nidau
+#facs_76_r4l35 Wimmis
+#facs_76_r4l36 8e Erlag
+#facs_76_r4l37 oy,
+#facs_76_r4l38 frutigen
+#facs_76_r4l39 Oberhofen, 6 Lauxen
+#facs_76_r4l40 3„ lignan
+#facs_76_r4l41 harly
+#facs_76_r4l42 Trachselbald „ 11„ Diberstein.
+#facs_76_r5l1 5 x
+#facs_76_r5l2 9
+#facs_76_r5l3 9th
+#facs_76_r5l4 5
+#facs_76_r5l5 15
+#facs_76_r5l6 11„
+#facs_76_r5l7 9
+#facs_76_r5l8 7
+#facs_76_r5l9 4
+#facs_76_r5l10 9
+#facs_76_r5l11 67
+#facs_76_r5l12 6
+#facs_77_r2l1 St. Johannesen
+#facs_77_r2l2 3
+#facs_77_r2l3 5
+#facs_77_r2l4 Aarburg
+#facs_77_r2l5 54
+#facs_77_r2l6 Fuchster
+#facs_77_r2l7 5
+#facs_77_r2l8 säänen.
+#facs_77_r2l9 5
+#facs_77_r2l10 Innis bald
+#facs_77_r2l11 5
+#facs_77_r2l12 Krandis
+#facs_77_r2l13 4
+#facs_77_r2l14 Könch
+#facs_77_r2l15 Interlaben 10
+#facs_77_r2l16 7
+#facs_77_r2l17 Kastelen
+#facs_77_r2l18 4
+#facs_77_r2l19 Köngsfeldener
+#facs_77_r2l20 7.
+#facs_77_r2l21 Stifft
+#facs_77_r2l22 8
+#facs_77_r2l23 3
+#facs_77_r2l24 Thorberg
+#facs_77_r2l25 Ählen
+#facs_77_r2l26 5
+#facs_77_r2l27 lichbarzenburg,
+#facs_77_r2l28 4
+#facs_77_r2l29 Fraubrümen,
+#facs_77_r2l30 3
+#facs_77_r2l31 Heddis byl
+#facs_77_r2l32 7
+#facs_77_r2l33 —
+#facs_77_r2l34 friems berg
+#facs_77_r2l35 3
+#facs_77_r2l36 Spithalgrichte
+#facs_77_r2l37 An jede der vier Städte sind drei
+#facs_77_r2l38 Exemplar geschikt worden.
+#facs_77_r2l39 Die Hghl. Landgrichts Venner
+#facs_77_r2l40 haben jeder eines für sich, eines, für
+#facs_77_r2l41 den Lebretarius, und eines für jede
+#facs_77_r2l42 Gerichtsstelle erhalten; allso der von
+#facs_77_r2l43 Seftigen noch drey, die andere aber
+#facs_77_r2l44 nur eines.
+#facs_77_r2l45 Versuchniß
+#facs_77_r2l46 der Herrschaften an die geschrieben
+#facs_77_r2l47 borden ist.
+#facs_77_r2l48 Auch jedem dieser Schreiben ist ein be¬
+#facs_77_r2l49 sonderes Plat beygelegt worden, worauf
+#facs_77_r3l1 149
+#facs_77_r3l2 stand daß der Anhang in groß
+#facs_77_r3l3 folio für die Herrschaft, die in
+#facs_77_r3l4 klein folio aber den eine für den
+#facs_77_r3l5 Herrschaftschreiber, und die anderen
+#facs_77_r3l6 für die Gerichte bestimt seyen.
+#facs_77_r3l7 Hindelbank
+#facs_77_r3l8 3
+#facs_77_r3l9 Spieh
+#facs_77_r3l10 Jegenstorf.
+#facs_77_r3l11 3
+#facs_77_r3l12 Berhensee
+#facs_77_r3l13 5.
+#facs_77_r3l14 Urtenen
+#facs_77_r3l15 purgistem
+#facs_77_r3l16 Kärisbyl
+#facs_77_r3l17 Gurzelen
+#facs_77_r3l18 Machtstecken
+#facs_77_r3l19 3. Gerichte.
+#facs_77_r3l20 leftigen
+#facs_77_r3l21 Moorsteedorf
+#facs_77_r3l22 Unterdorf, Stadt
+#facs_77_r3l23 3
+#facs_77_r3l24 Hofbeil
+#facs_77_r3l25 3
+#facs_77_r3l26 Thun ist verhalten
+#facs_77_r3l27 1. Gericht
+#facs_77_r3l28 3.
+#facs_77_r3l29 Riggisperch
+#facs_77_r3l30 3
+#facs_77_r3l31 Scheunen
+#facs_77_r3l32 3
+#facs_77_r3l33 Rümligen
+#facs_77_r3l34 3.
+#facs_77_r3l35 Kisten
+#facs_77_r3l36 3
+#facs_77_r3l37 3
+#facs_77_r3l38 Johlen
+#facs_77_r3l39 depuis bien
+#facs_77_r3l40 3
+#facs_77_r3l41 Kelp, doppelte
+#facs_77_r3l42 Niederhungen
+#facs_77_r3l43 4
+#facs_77_r3l44 Gerichtsstelle
+#facs_77_r3l45 3
+#facs_77_r3l46 3 „ Niederbichtrag
+#facs_77_r3l47 3
+#facs_77_r3l48 Kerstag
+#facs_77_r3l49 3. Münstigen
+#facs_77_r3l50 3.
+#facs_77_r3l51 Englisperg
+#facs_77_r3l52 3. Wijl
+#facs_77_r3l53 3.
+#facs_77_r3l54 Riedburg,
+#facs_77_r3l55 3. Sterb
+#facs_77_r3l56 3
+#facs_77_r3l57 Rümplich
+#facs_77_r3l58 Preingarten, 3, Uzigen
+#facs_77_r3l59 Rychenbach 3. Münchenbyler, 3.
+#facs_78_r4l1 Liebegg.
+#facs_78_r4l2 3.
+#facs_78_r4l3 3
+#facs_78_r4l4 Thunstädten
+#facs_78_r4l5 3
+#facs_78_r4l6 Wildegg
+#facs_78_r4l7 3
+#facs_78_r4l8 Rued
+#facs_78_r4l9 Schafts Heim
+#facs_78_r4l10 3
+#facs_78_r4l11 3
+#facs_78_r4l12 Schöffland
+#facs_78_r4l13 für die Burgdorf
+#facs_78_r4l14 Hallbijl
+#facs_78_r4l15 ischen Herrschaften
+#facs_78_r4l16 9
+#facs_78_r4l17 und sie im Schloß
+#facs_78_r4l18 5. Geichte,
+#facs_78_r4l19 geschikt worden.
+#facs_78_r4l20 und 7. Geichte stelle.)
+#facs_78_r4l21 Endlich erhielten noch von diesen
+#facs_78_r4l22 Anhängen verschiedene Bureaux der
+#facs_78_r4l23 Stadt, die haben forderen laßen
+#facs_78_r4l24 alle Stationierten Kanzleyer, die
+#facs_78_r4l25 Weibel und Läufer.
+#facs_78_r4l26 Bekantmachung
+#facs_78_r4l27 begen
+#facs_78_r4l28 des neu in Kricke erschienen
+#facs_78_r4l29 Anhänger.
+#facs_78_r4l30 zu der erneuerten Gerichtssatzung
+#facs_78_r4l31 Der Schultheiß klein und große
+#facs_78_r4l32 Räthe der Stadt und Republik dern,
+#facs_78_r4l33 thun kund hiermit: daß wir bey
+#facs_78_r4l34 Anlaß der durch unsere Vorsorge¬
+#facs_78_r4l35 veranstalteten neuen Oktar Auflage,
+#facs_78_r5l1 151
+#facs_78_r5l2 der im Jahre 1761. erneüerten Gerichts¬
+#facs_78_r5l3 Sazung, gut und zum allgemeinen
+#facs_78_r5l4 Resten nühlich zu seyn erachtet haben,
+#facs_78_r5l5 Unsere seither zu verschiedenen
+#facs_78_r5l6 malen publisierten Verordnungen
+#facs_78_r5l7 durch welche ermeldte Gerichtssehung
+#facs_78_r5l8 abgeändert und verbessert worden
+#facs_78_r5l9 ist, sammeln und unter dem Titel
+#facs_78_r5l10 eines Anhanges zu der ernenerte
+#facs_78_r5l11 Gerichts-Sazung druben zu laßen.
+#facs_78_r5l12 diesem Anhange der bereits
+#facs_78_r5l13 publizierten Verordnungen haben
+#facs_78_r5l14 Wir noch beyfüegen laßen, folgende
+#facs_78_r5l15 drey von uns zbar schon vor¬
+#facs_78_r5l16 einiger Zeit erbente, aber bis
+#facs_78_r5l17 anhin noch nicht gehörig bekant
+#facs_78_r5l18 gemachte Verordnungen. als
+#facs_78_r5l19 nemlich.
+#facs_78_r5l20 1o die unterm 26ten November
+#facs_78_r5l21 1784. gemachte, und seither in
+#facs_78_r5l22 etwas abgeänderte Verordnung
+#facs_78_r5l23 betrefend die Beneficia Inventarii und
+#facs_78_r5l24 Gelds trge.
+#facs_79_r2l1 2. Sie Verordnung über die Ver¬
+#facs_79_r2l2 minderung der Prozeße, vom 30ten
+#facs_79_r2l3 Merz 1787. und 125 Januar 1789.
+#facs_79_r2l4 und endlich
+#facs_79_r2l5 3o die Verordnung beim Anhalt¬
+#facs_79_r2l6 ung staumseliger vögte zu Ablag
+#facs_79_r2l7 ihrer Rechnungen, vom 9ten Januar
+#facs_79_r2l8 und 16ten Mäch 1789.
+#facs_79_r2l9 Hierbey ist nun unser Wille
+#facs_79_r2l10 und Refehl, daß diese drey hier
+#facs_79_r2l11 ausdrüklich verwünseten Verordnung,
+#facs_79_r2l12 von nun an, als von Uns aus¬
+#facs_79_r2l13 gegangene Gesehe angesehen, und
+#facs_79_r2l14 gleich den sechs ersten in diesem
+#facs_79_r2l15 Anhange enthaltenen Verordnungen
+#facs_79_r2l16 von jedermann geflißen und ge-
+#facs_79_r2l17 treulich befolget werden.
+#facs_79_r2l18 Welches hiemit zu jedermanns
+#facs_79_r2l19 Nachricht und künftigem Verhalt
+#facs_79_r2l20 öffenth durch den Druk unnd gemacht
+#facs_79_r2l21 wird. Geben in unserer großen Raths,
+#facs_79_r2l22 Verhandlung den 30ten November 1789.

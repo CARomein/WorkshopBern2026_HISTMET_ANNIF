@@ -1,0 +1,196 @@
+Law ID: BER.01.001.4131
+Name: Wein Zeichnung und dahin einschlagende Sachen ansehend.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 185/185
+# High similarity (>=50%): 157
+# Low similarity (<50%): 28
+# Not found: 0
+#
+#facs_42_r4l10 Verzeichnuß
+#facs_42_r4l11 bas jedem obvernäuseter Amtleüthen an
+#facs_42_r4l12 Wein Pensionen hinführo gebühret
+#facs_42_r4l13 Säum
+#facs_42_r4l14 Am Rydauber dee
+#facs_42_r4l15 Ein und fünffzig
+#facs_42_r4l16 Dem Hl. Amtmann zu Erlach
+#facs_42_r4l17 fenf und fünfzig.
+#facs_42_r4l18 Johansten
+#facs_42_r4l19 St
+#facs_42_r4l20 hingeltschabr. als Schaffner
+#facs_42_r4l21 vier und zwanzig.
+#facs_42_r4l22 Sippschal
+#facs_42_r4l23 zu
+#facs_42_r4l24 Rechs und zwanzig
+#facs_42_r4l25 dem Hl. Amts Mann zu Fraubronn,
+#facs_42_r4l26 Sache und zbanzig
+#facs_42_r4l27 Buchfen
+#facs_42_r4l28 nachs und zwanzig
+#facs_42_r4l29 Hochstadt
+#facs_42_r4l30 dreyßig.
+#facs_42_r4l31 Briemisberg
+#facs_42_r4l32 funf und dreißig.
+#facs_42_r4l33 H. Stiftschaften allhier
+#facs_42_r4l34 drey und dreyßig.
+#facs_42_r4l35 Hl. Amtsmann zu Thorber
+#facs_42_r4l36 Am Thaner dei
+#facs_42_r4l37 fünf und dreißig
+#facs_42_r4l38 H. Amts Mann zu Thun
+#facs_42_r4l39 Siben und Rechzig
+#facs_42_r4l40 Interlacken
+#facs_42_r4l41 Zböll
+#facs_42_r4l42 Ob erhofen nebst dem halben bey
+#facs_42_r4l43 Neünzehen
+#facs_42_r4l44 St.fftschaffner allhier.
+#facs_42_r4l45 H
+#facs_43_r1l1 76
+#facs_43_r1l2 Wifflisburg, Peterlingen, Lausanne, von
+#facs_43_r1l3 Wein Zeichnung litis, Mörsen, Anboue, Bonmont, Romain
+#facs_43_r1l4 und dahin reischla¬
+#facs_43_r1l5 "
+#facs_43_r1l6 Emotier und Jferten
+#facs_43_r1l7 de gende Sachen en
+#facs_43_r1l8 segen.
+#facs_43_r1l9 Schultheiß Rähl und Burger,
+#facs_43_r1l10 Wir haben gut befunden, die Reiß des Befahren
+#facs_43_r1l11 wie der teutschen Sekelschrbr., füre könfftig
+#facs_43_r1l12 Collg
+#facs_43_r1l13 abzustellen, und über die, in die weltsche¬
+#facs_43_r1l14 Weinzeichnung einschlagende Sachen, folgende
+#facs_43_r1l15 Verordnung zu machen
+#facs_43_r1l16 il
+#facs_43_r1l17 Daß das Quantum alles Weine, welcher den
+#facs_43_r1l18 Amtleüten, es seye für Pension, Herbst
+#facs_43_r1l19 Wehrmuth, Bagage, Faß=Ordinarii, Gratii
+#facs_43_r1l20 tion, oder für die Frauwen Land Vogtinnen
+#facs_43_r1l21 gebühret, per Saum à 100. Hern Maas gern
+#facs_43_r1l22 fixiert und
+#facs_43_r1l23 für ein und allezeit vestgesezt, und in den
+#facs_43_r1l24 gleichen permanenten faßen den Amtleuth
+#facs_43_r1l25 überlaßen seyn soll.
+#facs_43_r1l26 Da dann dem Amts Mann zu
+#facs_43_r1l27 für eins
+#facs_43_r1l28 alles fürohin unveränderl. gebühren soll
+#facs_43_r1l29 In dem.... Keller Paß N: Wien, die Zusamen mit über
+#facs_43_r1l30 doch daß anebens den sämtl. Amtleüthen
+#facs_43_r1l31 Türbaar auch der Füllbein, oder das 5 prol
+#facs_43_r3l1 77.
+#facs_43_r3l2 als ein Beneficium netto verbleiben, dieser aber
+#facs_43_r3l3 Ihnen allbegen, bey Einsendung der Keller Etats
+#facs_43_r3l4 verzeiget werden soll; Und dabey beim AmtsMän¬
+#facs_43_r3l5 verschiedene Keller in seiner Verwaltung hat.
+#facs_43_r3l6 Alle dieselbe zusammen gerechnet, von allen darinn
+#facs_43_r3l7 vorhandenen Faßen, joh von zwanzig faßen. Ein
+#facs_43_r3l8 Faß, und von dem Überschuß, dieser sämtl. Kelleri¬
+#facs_43_r3l9 zusammen Einfaß, dem Amts Mann, in einem
+#facs_43_r3l10 gutfindenden Keller angebiesen und gezeichnet
+#facs_43_r3l11 werden solle.
+#facs_43_r3l12 Alle übrige bei Pensionen dann im weltschen
+#facs_43_r3l13 Land, und in der Haubtstadt, fürbaar durch Unsere
+#facs_43_r3l14 gehbeiligen SeibelMeister beltscher Landen, alljährl.
+#facs_43_r3l15 per Faß assigniert, und nachbehrte verzedlet,
+#facs_43_r3l16 und nach bis herigem Herbomen zugeführt werden
+#facs_43_r3l17 sollen; Führohin aber keines derselben in dem
+#facs_43_r3l18 Rysstahl vierhundert und zwanzig Maas, und in
+#facs_43_r3l19 La Côte oder übrigen Kelleren vier hundert und
+#facs_43_r3l20 fünfzig maasübersteigen solle
+#facs_43_r3l21 Und damit die Zeichnung dieser Pensionen, in
+#facs_43_r3l22 Hier von einem zehbeiligen H. weltich Sevelmstr
+#facs_43_r3l23 beschehen könne, allen Amtleüthan bey Ihren Eyden
+#facs_44_r2l1 iniungienst seyn solle, alsobald nach beschehen
+#facs_44_r2l2 Herbst einem H. weltsch Seckelmeister die Stell¬
+#facs_44_r2l3 Etats einzuschiken, darauf einerseits, bar¬
+#facs_44_r2l4 wie viel, es seye von Domaine, Zeenden, oder
+#facs_44_r2l5 Bodenzinsen, eingegangen? Und anderseits
+#facs_44_r2l6 Halt und Qualität jeden faßes genaub verzt
+#facs_44_r2l7 net seye, dann auch keinen Wein aus den
+#facs_44_r2l8 Oberkeitl. Keller abzuführen, oder abfüh¬
+#facs_44_r2l9 zu laßen, ehe und bevor sie die Zeichnung Solche
+#facs_44_r2l10 Wein, Pensionen und Geschirren werden
+#facs_44_r2l11 erhalten haben.
+#facs_44_r2l12 dabey ferners den sämtl. Amtleüthen,
+#facs_44_r2l13 Eydtl. anbefohlen ist, den Zeenderen, und beste Coll.
+#facs_44_r2l14 Herbsten Inspectoren zu injungiren, geflißene
+#facs_44_r2l15 Obsicht zu halten, daß die Verzeendung des
+#facs_44_r2l16 beisen Weins, nicht mit rothem Beschehe, noch
+#facs_44_r2l17 Der rothemit dem weisen vermischet werde.
+#facs_44_r2l18 Wie auch unerachtet aller rother Bein, so
+#facs_44_r2l19 über die darauf assignierte Pensionen¬
+#facs_44_r2l20 aus den Amtleüthen noch ferners hin ver¬
+#facs_44_r2l21 bleiben soll, das Quantum deselben jedent
+#facs_44_r2l22 Alljährl. auf die einschikende Keller=Etats
+#facs_44_r2l23 eingetragen werden solle.
+#facs_44_r3l1 79
+#facs_44_r3l2 Und endtl. bann die Verzedlungs-
+#facs_44_r3l3 von einem h. E. weltsch Seckelußr, den Amtleüthen
+#facs_44_r3l4 berden zugesandt seyn, Sie demnach sich verhalten.
+#facs_44_r3l5 und die nöthigen Anstalten zu fürden. Spedition
+#facs_44_r3l6 der gezeichneten Pensionen, und Beschirren an
+#facs_44_r3l7 Ihre Behörde fleißig verfügen sollen: welches
+#facs_44_r3l8 alles Ihr seines Ohrts einschreiben, und bey Euer
+#facs_44_r3l9 Pflicht, demselben nachgehen werdet; Bock mit
+#facs_44_r3l10 Eüch Dats. d. 24ten Marty 1760.
+#facs_44_r3l11 6
+#facs_44_r3l12 Neuwenstatt Pithal Meiser.
+#facs_44_r3l13 Wir haben gut befunden bey Anlaas einer
+#facs_44_r3l14 anderen Einrichtl. der W: Weinzeichnung, auch
+#facs_44_r3l15 das Quantum des Weins, so einem zehbeiligen
+#facs_44_r3l16 Spittahl Mstr. zu Neuenstadt, es seye für
+#facs_44_r3l17 Pension= Herbst= Zeend= Einfuhr, Gratification
+#facs_44_r3l18 der für eine Frbl. SpidtahlMister zu Neuenstadt
+#facs_44_r3l19 4
+#facs_44_r3l20 gebühret per Saum à 100. Hern Maaß gerechnet,
+#facs_44_r3l21 l'fixée ou
+#facs_44_r3l22 für ein und allezeit best zu sezen, so daß ihme
+#facs_44_r3l23 für einsund alles hinführo ohnverenderl.
+#facs_44_r3l24 gebühren sollen in dem Neuenstatt beller, sechs fast
+#facs_44_r3l25 weisen beins, die aber niemahls übersteigen solle
+#facs_45_r1l1 80
+#facs_45_r1l2 Aund von dem Über¬
+#facs_45_r1l3 schuß dieser Sande
+#facs_45_r1l4 Koller zusammen
+#facs_45_r1l5 Ein laß
+#facs_45_r2l1 Doch daß danebens Ihme fürbas auch der
+#facs_45_r2l2 Füllbein oder 5. pC. als ein Beneficium
+#facs_45_r2l3 netto verbleiben- und alljaht, bey Einsendung
+#facs_45_r2l4 des Keller- Etats verzeiget werden soll,
+#facs_45_r2l5 So jeh doch daß feine samtl. Keller zusammen
+#facs_45_r2l6 gerechnet, von allen darinn vorhandenen —
+#facs_45_r2l7 Raßen jeh von zwanzig fasen Ein faß, ihme
+#facs_45_r2l8 von einem zehleiligen H. W. sekelMstr.
+#facs_45_r2l9 angelvieffen werden soll.
+#facs_45_r2l10 Und damit die Zeichnung auch seiner Keller
+#facs_45_r2l11 in Hier von einem jehbeiligen H. v. Sekel W.
+#facs_45_r2l12 beschehen könne; So wollen Wir Ihme bey seinem
+#facs_45_r2l13 Eydt injungiert haben; alsobald nach beschehenen
+#facs_45_r2l14 Herbst, einem H. W. Sekelmstr. die Keller,
+#facs_45_r2l15 Etats einzuschiken, darauf einerseits las? und
+#facs_45_r2l16 wie viel- es seye von Domaine, zernden oder
+#facs_45_r2l17 Bodenzinßen eingegangen? und anderseits
+#facs_45_r2l18 der Halt und Qualität jeden Faßes genaus
+#facs_45_r2l19 verzeichnet seye, dann auch kein Wein aus
+#facs_45_r2l20 den Oberbeitl. Kelleren abzuführen, oder
+#facs_45_r2l21 abführen zu lasen, Ehe und bevor Er die Zeichniß
+#facs_45_r2l22 solcher Wein Pensionen und Beschirren wird
+#facs_45_r2l23 erhalten haben.
+#facs_45_r3l1 81
+#facs_45_r3l2 Dabey ferners Ihme Eydtl. anbefohlen ist, den
+#facs_45_r3l3 Zeenderen und bestellten Zeend- Inspectoren, zu
+#facs_45_r3l4 njungieren geflißene Absicht zu halten, daß die
+#facs_45_r3l5 Verzeendung des beißen Weins nicht mit rothem
+#facs_45_r3l6 beschehe, noch der rothe mit dem weisen Wein
+#facs_45_r3l7 vermischet werde! Wie auch unerachtet aller
+#facs_45_r3l8 rother Wein, so über die darauf assignierte Pensionen
+#facs_45_r3l9 aus, Ihme noch fernerd hin verbleiben soll? Das
+#facs_45_r3l10 Quantum deßelben jedennoch alljährl. auf die einschi¬
+#facs_45_r3l11 kende Keller, Etats zu tragen
+#facs_45_r3l12 Und endtl. wann der Verzedlungs Befelch von einem
+#facs_45_r3l13 beltschen Herren SevelMstr. Ihme wird zugestandt
+#facs_45_r3l14 seyn Er demenach Sich verhalten und die nöthigen
+#facs_45_r3l15 Anstalten zu förderl. Spedition der gezeichneten
+#facs_45_r3l16 Pensionen und Beschirren, an Ihre Behördefleißig
+#facs_45_r3l17 zu verfügen. Belches alles Ersteines Ohrts —
+#facs_45_r3l18 einschreiben, und bey seiner Pflicht demselben
+#facs_45_r3l19 nachgehen wird. Dat. d. 24ten Marty 1760.

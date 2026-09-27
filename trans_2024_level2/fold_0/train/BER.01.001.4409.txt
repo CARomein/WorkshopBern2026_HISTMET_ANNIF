@@ -1,0 +1,100 @@
+Law ID: BER.01.001.4409
+Name: Für die 5 Dorffschafften der Ämteren Bonmont und Neüws, welche wegen Viehprestens grossen Schaden erlitten, auf künftigen Bättag eine freywillige Collect erheben zu lassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_505
+# Matched: 89/89
+# High similarity (>=50%): 87
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_264_r2l4 An
+#facs_264_r2l5 Alle Herren Amtleut Weltschen Landes.
+#facs_264_r2l6 für die 5 Dorfschafften der Ämteren Bonmont
+#facs_264_r2l7 und Neubs, welche wegen Vieh Prestens großen
+#facs_264_r2l8 Schaden erlichen, auf künftigen Bättag eine
+#facs_264_r2l9 freywillige Collect erheben zu laßen.
+#facs_264_r2l10 Schultheis Räht und Burgers
+#facs_264_r2l11 Zu Erhebung einer freybilligen Collect auf
+#facs_264_r2l12 Nünftigen Bäckag, so wohl in Unserer
+#facs_264_r2l13 Haubtstadt, als unseren samtlichen Weltschen
+#facs_264_r2l14 Landen, zu gönsten der 5. Dorfschafften
+#facs_264_r2l15 Trenchepied, und la Rippe, Amts Bonmont
+#facs_264_r2l16 und annex. Borex und Crassier Amts Neüs¬
+#facs_264_r2l17 welchen zu hinterhaltung der ferneren
+#facs_264_r2l18 Progressen des bey ihnen unter dem
+#facs_264_r2l19 Horn Vieh ausgebrochenen Prestens, aus
+#facs_264_r2l20 Befelch Unsers verordneten Sanitet.
+#facs_264_r2l21 Rahts, im April lezthin, in 11. Ställen
+#facs_264_r3l1 (
+#facs_264_r4l1 519
+#facs_264_r4l2 all ihr gesundes und angestebtes Vieh Nider¬
+#facs_264_r4l3 geschlagen worden; Haben Wir mitbom¬
+#facs_264_r4l4 mende Publication aufsezen, und zum
+#facs_264_r4l5 Druck beförderen laßen; Wir übersenden
+#facs_264_r4l6 Euch davon gnugsame Exemplar mit dem
+#facs_264_r4l7 befelch, solche aller Orten in Eüerem
+#facs_264_r4l8 Amt, auf Sontag vor dem Bättag zu
+#facs_264_r4l9 jedermanns verhalt offentlich verlesen zu
+#facs_264_r4l10 laßen, und dabey jedem Pfarrer anzu¬
+#facs_264_r4l11 befehlen, daß er in seiner Predigt dieser
+#facs_264_r4l12 Leuten, und daß von daher zu allge
+#facs_264_r4l13 meinem besten erlittenen Schadens¬
+#facs_264_r4l14 und Verluests so gedenke, daß dardurch
+#facs_264_r4l15 die Christliche Mildthätigkeit bey ihren
+#facs_264_r4l16 Zuhöreren nachtruksamst erwekt werde.
+#facs_264_r4l17 Maßen geschehen werde, Wir uns zu
+#facs_264_r4l18 Eüch bestens versehen Dat. d. 13ten Aug. 1773.
+#facs_264_r4l19 Publication
+#facs_264_r4l20 Vous L'Avoyer, Petit et Grand Conseil
+#facs_264_r4l21 de la Ville et Republique de Berne, a tous ceux
+#facs_264_r4l22 qu'il appartiendra Savoir faisons.
+#facs_264_r4l23 Il n'est que trop connu, qu'au mois d'Octobre
+#facs_265_r2l1 de l'année passée, il s'est manifesté parmi
+#facs_265_r2l2 -
+#facs_265_r2l3 les bétes à Cornes dans les Bailliages de
+#facs_265_r2l4 Bonmont & de non, une Contagion d'une
+#facs_265_r2l5 espèce si dangereuse, qu'apres avoir tenté inuté
+#facs_265_r2l6 lement toutes fortes d'autres remédes, & pour
+#facs_265_r2l7 empêcher que ce cruel fléau n'etendit encore
+#facs_265_r2l8 plus loin ses ravages, il a fallu en venir à la
+#facs_265_r2l9 facheuse extremité de faire assommer plus de
+#facs_265_r2l10 cent pieces de Bétail, tant fain que malade,
+#facs_265_r2l11 qui se trouvoit rassemblé dans Onze Etables-
+#facs_265_r2l12 à Trenchepied, à la Rippe, à Arnex à Borex,
+#facs_265_r2l13 & a Crassier.
+#facs_265_r2l14 Au moyen de cette sage précaution, prise
+#facs_265_r2l15 par Ordre de Nôtre Conseil de Santé, on est
+#facs_265_r2l16 parvenu à arrêter les progrès de la Contagion
+#facs_265_r2l17 Mais il est aisé de juger, combien il en coute
+#facs_265_r2l18 à ces cinq Comunautés. Outre la perte
+#facs_265_r2l19 éffektive quils ont essuyés à ce sujet, dont
+#facs_265_r2l20 on fait monter la valeur à la Somme de 34245
+#facs_265_r2l21 florins, elles se sont encore, faute d'attelage
+#facs_265_r2l22 ou autrement, vües privées de la jouissance
+#facs_265_r2l23 d'une partie considerable de leurs possessions.
+#facs_265_r2l24 & chacun doit compater d'autant plus vivement
+#facs_265_r2l25 à leur triste Situation, que le sacrifice, qu'elle
+#facs_265_r3l1 521.
+#facs_265_r3l2 ont été obligées de faire, avoit pour bût, de
+#facs_265_r3l3 garantir le reste de Nos Etats dʼune semblable
+#facs_265_r3l4 Calamité
+#facs_265_r3l5 Nous ne doutons nullement, que Nos chers
+#facs_265_r3l6 & feaux Citoyens & sujets par une suite des
+#facs_265_r3l7 sentimens de bienveuillance & de Charité, dont
+#facs_265_r3l8 ils se montrent en toutes fortes d'occasions, animés
+#facs_265_r3l9 les uns envers les autres, ne s'empressent chacun
+#facs_265_r3l10 suivant sa faculté, a concourrir au soulagement
+#facs_265_r3l11 de ceux d'entr'eux qui se trouvent accablés du poids
+#facs_265_r3l12 de tant de disgraces
+#facs_265_r3l13 C'est dans cette vüe que nous avons jugé a propos
+#facs_265_r3l14 d'ordonner qu'il sera fait le jour du jeune prochain
+#facs_265_r3l15 non seulement dans nôtre capitale, mais aussi
+#facs_265_r3l16 dans toutes les Villes & Communautés du Pais-
+#facs_265_r3l17 de Vaud, suivant l'usage de chaque lieu, une
+#facs_265_r3l18 Quête ou Collecte volontaire, du produit de laquelle
+#facs_265_r3l19 on doit Nous rendre Compte, afin que Nous
+#facs_265_r3l20 puissions ensuite aviser à ce qu'il y aura de
+#facs_265_r3l21 plus à faire à cet égard. Donc ce 13 Août 1773.
+#facs_265_r3l22 Chancellerie de Berne

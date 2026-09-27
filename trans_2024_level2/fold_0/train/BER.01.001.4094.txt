@@ -1,0 +1,57 @@
+Law ID: BER.01.001.4094
+Name: Wegen Getreyd-Versilberung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 46/46
+# High similarity (>=50%): 42
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_141_r2l30 &c
+#facs_141_r2l31 Canzien Bern.
+#facs_141_r4l1 And
+#facs_141_r4l2 263.
+#facs_141_r4l3 Alle W. Amtleüth, dem Murten
+#facs_141_r4l4 Tscherlich Sepp.
+#facs_141_r4l5 Lieder wieder Ihre AllerCristl.
+#facs_141_r4l6 Auszügliche
+#facs_141_r4l7 Mögl. abzufingen und zu
+#facs_141_r4l8 verkaufen verbeiten.
+#facs_141_r4l9 vide Q. Man:
+#facs_141_r4l10 No. 238. pagl.
+#facs_141_r4l11 353.
+#facs_141_r4l12 Au
+#facs_141_r4l13 Alle t. und b. Amtsleuth und Häuser der Obrigkeitl.
+#facs_141_r4l14 Getreyd ligt
+#facs_141_r4l15 Wegen Getreyd-Verstilberung
+#facs_141_r4l16 Schultheiß Räht und Bürger
+#facs_141_r4l17 auf Unß beschehenen Vortrag, was an Getrey
+#facs_141_r4l18 Unseren Kornhaüsteren über den be¬
+#facs_141_r4l19 in
+#facs_141_r4l20 stimten Vorraht aus dermahlen sich befinde,
+#facs_141_r4l21 haben Wir der nohtwendigkeit erachtet,
+#facs_141_r4l22 und Euch so gleich übrigen Unseren Amt¬
+#facs_141_r4l23 Leuthen und Schaffneren / hiemit bey Euerer
+#facs_141_r4l24 Eydespflicht befehlen wollen, alle überseten
+#facs_141_r4l25 Verraht aus vorhandene Sommer Prucht,
+#facs_141_r4l26 noch Abzug der gewöhnlichen Prohntesten
+#facs_141_r4l27 wie auch der ordinarien und quasi ordi¬
+#facs_141_r4l28 nario zu verkauffen, zu  verstilberen
+#facs_141_r4l29 unter jenigen procautionen, welche sowohl
+#facs_141_r4l30 ansehen der Mulleren und Hodleren,
+#facs_141_r5l1 0 f 80 x
+#facs_142_r3l1 = als sonsten, bereits in ehevorigen
+#facs_142_r3l2 Unseren Schreiben bestbebenter
+#facs_142_r3l3 maßen enthalten
+#facs_142_r3l4 en
+#facs_142_r3l5 it der
+#facs_142_r3l6 Erläuterung, daß denen, so
+#facs_142_r3l7 Gewächs Zu Anblühnung ihrer Oberg¬
+#facs_142_r3l8 pelderen begehren zu kaufen.
+#facs_142_r3l9 gute und hierzu gedägliche Frugte
+#facs_142_r3l10 gefolgen möge, wornach Ihr Euch¬
+#facs_142_r3l11 zu richten und den betrag seiner
+#facs_142_r3l12 Zeith gebührend zu verrechnen bißen.
+#facs_142_r3l13 berdet. etc. Dat. d. 13ten Jan. 1758

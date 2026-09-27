@@ -1,0 +1,150 @@
+Law ID: BER.01.001.1940
+Name: Verpott der frömbden Handtiereren und dergleichen unnüzen Gesindts im Landt. Erleüteret 23.Apr.1672.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 139/139
+# High similarity (>=50%): 133
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_322_r2l13 An Alle T. vnd y
+#facs_322_r2l14 Ambtleüts. 4. Stett. frey¬
+#facs_322_r2l15 Wirbel und Amman.
+#facs_322_r2l16 Verposs der frömbden Handtiereren und
+#facs_322_r2l17 Coll
+#facs_322_r2l18 dergleichen Annüzen gesindts im Landt
+#facs_322_r2l19 Erlentwet 23. apr. 1672. Infra
+#facs_322_r2l20 Schuldtheiß und Raht der Stadt Sern
+#facs_322_r2l21 Er ligt Mennigklichem vor augen, wie weit vnser
+#facs_322_r2l22 Landt und gepiet, thütscher und wretscher Sprach,
+#facs_322_r2l23 von allerhand vf eren und frömbden Handelsleüthen
+#facs_322_r2l24 undt giaerbtreibern, sonderlich aber den durch¬
+#facs_322_r3l1 633
+#facs_322_r3l2 vnsere wilfaltig außgangene Mandat verpondnen
+#facs_322_r3l3 zusiereren Huchen- und kretzen trageren, und der:
+#facs_322_r3l4 t
+#facs_322_r3l5 gleichen Stümpalkremere, mehr dan vor niemahls der
+#facs_322_r3l6 gestalten anerfült und beladen, daß dieselben dem
+#facs_322_r3l7 t
+#facs_322_r3l8 2
+#facs_322_r3l9 Landt von deme dan sie nit nur ihre nahrung, sondern
+#facs_322_r3l10 Euch die noch darüber in dem Landt tragenden gelts:
+#facs_322_r3l11 müchel Zeüchend, zu einem vnertreglichen Last
+#facs_322_r3l12 werdend: deßen dan, nebend anderem, auch dises
+#facs_322_r3l13 Zum Heitere Langens ist, daß ein guter Theil der
+#facs_322_r3l14 Landtskinderen, Er brat anderstwo zesuchen laßen,
+#facs_322_r3l15 Landt Zeüchen: Da sonst mancher, Wan er vor¬
+#facs_322_r3l16 plchen Landtsfrömbden zu schlag kommen möchte.
+#facs_322_r3l17 etwas ehrlicher begangenschafft fürnemt wurde
+#facs_322_r3l18 das seine darbej zeschaffen: Darbej auch dises
+#facs_322_r3l19 vnderloufft, daß durch solche frömbde Hendler
+#facs_322_r3l20 und Husierer vil vnnötige Sachen, deren man gar
+#facs_322_r3l21 Wohl umpären möchte, Ins Landt gebracht, den
+#facs_322_r3l22 leüthen eingeschwert undt angehenckt, Das
+#facs_322_r3l23 gelt dargegen Verüßeret: und darbej nit minder
+#facs_322_r3l24 auch die guten gewichtigen sorten auffgewechßlet.
+#facs_322_r3l25 vnd vßem Landt getragen werdend
+#facs_322_r3l26 Das habend wir daß oberkeitlicher für prg die
+#facs_322_r3l27 wir tragend für die wohlfahrt unser Lieben
+#facs_323_r2l1 angehörigen, undt abwendung deßen, so derselben sehr
+#facs_323_r2l2 und hinderlich sein mag, in angelegenliches nachdenke, ge=
+#facs_323_r2l3 zogen, vndt darüber, sonderlich bej bekandtem Zustand
+#facs_323_r2l4 Der Jetzigen an gelts michlen gahr erschöpften Zeiten
+#facs_323_r2l5 und Löuffen, vilfaltige Ursach fünde, und uns entschloßen,
+#facs_323_r2l6 disem übel mit Oberkeitlichem Einsechen Zebegegnen,
+#facs_323_r2l7 und dardurch unsere Liebe angehörigen solchen ver=
+#facs_323_r2l8 derblichen überlasts zuendtladen; Zu welchem endl
+#facs_323_r2l9 dan wir hiemit angesehen, statuirt und geordnet
+#facs_323_r2l10 haben wellende, daß aller handtieren, geweben, feil¬
+#facs_323_r2l11 halten, zusieren und verkauffen, beides der sache, vnd
+#facs_323_r2l12 Wahren so im Landtwachsen und gemacht werden,
+#facs_323_r2l13 Alß getreidt, Wein, Möechen, Läder, Linin vndt
+#facs_323_r2l14 ander Tuch, garn. Werch, flachs und Wullen: Wie¬
+#facs_323_r2l15 auch deren, so von eßenher eingebracht werden,
+#facs_323_r2l16 Alß Reis. Specerey, Fastenscheiß, Kestenen, Pomerantzen
+#facs_323_r2l17 Citronen, und sonderlich allerhand gemeiner Kremer
+#facs_323_r2l18 Wahr nnnd wormit immer zwerb und fürkauff
+#facs_323_r2l19 getriben werden kan, darunder auch gemeint
+#facs_323_r2l20 Die einbringung Ins Landt, des unßerthalb dem
+#facs_323_r2l21 selben gewachsenen weins, und getreidts Item
+#facs_323_r2l22 Roßen, Vnichs, Schaffen und Schweinen, In allen
+#facs_323_r2l23 vnseren Teütschen vnd weltschen Landten undt
+#facs_323_r3l1 gepieten niemandts anderem, als vnseren Burgeren
+#facs_323_r3l2 und vnderthanen, als den Landtkinderen erlaubt und
+#facs_323_r3l3 Zugelaßen: vnd hingegen daßelbe allen anderen vßere
+#facs_323_r3l4 und frömbden, sie seyen von vernachbarten oder
+#facs_323_r3l5 anderen vßeren Orten her, es geschechene an- oder
+#facs_323_r3l6 zwischen den Wuchen merckten, mit husieren oder
+#facs_323_r3l7 anderer gestalten, allerdinge abgestrickt und verpotten.
+#facs_323_r3l8 sein solle, bej 25. lb. büß für das erste, 50 lb für
+#facs_323_r3l9 das andere mahl, und wan über solche Wahrnungen
+#facs_323_r3l10 Zum Dritten mahl beschicht, bei confiscation der Wahr¬
+#facs_323_r3l11 und nidtlicher verweisung eines solchen sich eintringenden
+#facs_323_r3l12 frömbden hendlers: Welches verpond dan mit
+#facs_323_r3l13 allein in gemeinem der Völkeren Rechten mündt
+#facs_323_r3l14 anderer ohrten befindtlichem brauch- sondern auch
+#facs_323_r3l15 auff alte außgangne ordnungen undt Mandat
+#facs_323_r3l16 gegründet.
+#facs_323_r3l17 Vnder disen anzugelaßenen Frömbden Handtirung
+#facs_323_r3l18 treiberen, sollend auch verstanden, und denselben
+#facs_323_r3l19 gleich gehalten werden, die frömbden Im Landt
+#facs_323_r3l20 5
+#facs_323_r3l21 Vmbherzeüchenden glaser, alß Handtwercksverstümpler
+#facs_323_r3l22 Wie auch die Schleiffer, könnfeger, Hartzer, Lorbonen
+#facs_323_r3l23 Wetzstein und Schufflen Kremer, Hochler undt
+#facs_323_r3l24 Reis treger.
+#facs_324_r1l1 636.
+#facs_324_r1l2 In disem verpott aber werdend mit verstanden
+#facs_324_r1l3 sonder außgesezt, die gewohnten offnen Jahroneeckt,
+#facs_324_r1l4 ana welchen einem Jeden Inneren vnd eßeren sein wahr
+#facs_324_r1l5 Peilzuhalten erlaubt und zugelaßen.
+#facs_324_r1l6 Er sollend auch die jenigen vßeren Kenner undt
+#facs_324_r1l7 Hendler, somit ihrer wahr vnsere Landt, nur zum
+#facs_324_r1l8 Durchzug betrehend, ihre Herbrig in offnen Wirts,
+#facs_324_r1l9 schrüseren Zeuemmen gewisen: vnd darbei alles
+#facs_324_r1l10 Euchhaltens, bej obgedachter straff sich zemüeßigen
+#facs_324_r1l11 verwahrnet sein.
+#facs_324_r1l12 Darbei bleibet den inßeren undt frömbden neuer
+#facs_324_r1l13 Pfert undt unbenomen, solche wahren Im Landt
+#facs_324_r1l14 auffgekauffen, und auff Jahre bezahlung daraus
+#facs_324_r1l15 an andere ort zuerfüehren, die in denselben
+#facs_324_r1l16 vnseren Landen gewachsen, oder fabriciert mit
+#facs_324_r1l17 gemacht worden: Da fuhr im Landt selbi¬
+#facs_324_r1l18 kein für- undt wider verkauff darmit
+#facs_324_r1l19 getrieben wort:
+#facs_324_r2l1 637
+#facs_324_r2l2 Darunder aber wollend wir den Einlendischen Kupfer¬
+#facs_324_r2l3 Schmiden und Rotgießerey, zur vertreibung ihrer
+#facs_324_r2l4 Wahr, sich der frömbden Keßleren Zegebrauchen, Weilen
+#facs_324_r2l5 Dieselben mit einbringung frömbder wahr verüsterung
+#facs_324_r2l6 Des Alten Kupfers und Metals vnd Auffanechslung
+#facs_324_r2l7 Der groben Sorten, geklagter maßen, wider ihre
+#facs_324_r2l8 patenten gehandlet, weiters nit zugelaßen, sonder
+#facs_324_r2l9 abgestrickt und verpotten haben: Welche dan solchen
+#facs_324_r2l10 nach sich der Sinheimschen fürbas Zebedienen weüße
+#facs_324_r2l11 wordend.
+#facs_324_r2l12 In gleichem sohlend die Landtsfrömbden Arbeiter
+#facs_324_r2l13 Zum Reben- undt Vredtbauw, wie auch die frömbd¬
+#facs_324_r2l14 Hausdiensten, knecht, Megd vnd Spinnern, verpond¬
+#facs_324_r2l15 Jurid. etc
+#facs_324_r2l16 allein
+#facs_324_r2l17 ein, vermog unsers deßwegen underem 8. Jan.
+#facs_324_r2l18 1666. außgangenen Mandats, welches wie hirmit
+#facs_324_r2l19 erfrischet und widerholet haben Wellend.
+#facs_324_r2l20 Einem allem nach befelchend wir die hiemit, diß
+#facs_324_r2l21 Danser, Wie anfangs gedacht, zu nuz vnd Wohlfahrt
+#facs_324_r2l22 des Landts, und verhürtung weiterer erarmung
+#facs_324_r2l23 vnser Lieben vnderthanen, treüwherzig gerichteter
+#facs_324_r2l24 an sich selbst auch höchst nohtmendiges Einsachen,
+#facs_325_r2l1 Zu Mennigklichs nachricht von Canzlen verkünden
+#facs_325_r2l2 Zeläßen, und nach solcher vorgangenen Wahrnung
+#facs_325_r2l3 Gegen denen so vngescheücht daranider handlen wur=
+#facs_325_r2l4 nach Innhalt deselben zeuerfahren: Mit Exaction
+#facs_325_r2l5 und bezeüchung der auffgesezten straff, da beides von
+#facs_325_r2l6 der buß und Confiscation, die und dem Verleider
+#facs_325_r2l7 Die bestimte portion alß den drichten Theil Heindiener
+#facs_325_r2l8 und genolgen soll. Alß wir vnt dan zu dir,
+#facs_325_r2l9 und deinem Fleiß und nifer versechen haben,
+#facs_325_r2l10 wollend. Datum 2. Marty 1672.

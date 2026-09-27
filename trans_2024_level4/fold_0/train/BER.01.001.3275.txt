@@ -1,0 +1,646 @@
+Law ID: BER.01.001.3275
+Name: Mandat wegen der Tabac Pflanzung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 635/635
+# High similarity (>=50%): 620
+# Low similarity (<50%): 15
+# Not found: 0
+#
+#facs_202_r1l1 Auffsatz An Alle Teütsche.
+#facs_202_r1l2 376. +
+#facs_202_r1l3 Vnd weltsche Ambtleuth
+#facs_202_r1l4 1719
+#facs_202_r1l5 4 Stadt Frey Weibel und
+#facs_202_r1l6 0.I
+#facs_202_r1l7 (Rm. 79. 107)
+#facs_202_r1l8 Rmman
+#facs_202_r1l9 Mandat wegen des Tabac Pflanzung
+#facs_202_r1l10 Schultheiß Räth und Bürger der Stadt Bar¬
+#facs_202_r1l11 Weilen jährlichen Nahmhaffte Summen Gelts
+#facs_202_r1l12 Collath
+#facs_202_r1l13 Vermittelst deß Gebrauchs allerhand Gatum
+#facs_202_r1l14 fremden Sabacs auß dem Landt gezogen wer¬
+#facs_202_r1l15 den, als sind wir auch auf Michel bedacht,
+#facs_202_r1l16 Wie dieß öhrtiger Gelts veräußerung gesteuret,
+#facs_202_r1l17 und solch fränder Sabae hin der trieben werden
+#facs_202_r1l18 möge; gestalten wir auch zu dem End Uns
+#facs_202_r1l19 entschließen werden, nach etwelcher Zeit allen
+#facs_202_r1l20 Verrauß und Gebrauch deß ausländischen
+#facs_202_r1l21 Tabacs gäntzlichen zeverbiethen. Damit aber die
+#facs_202_r1l22 jenigen, so deßen Gebrauch zu Ihrer Ge=
+#facs_202_r1l23 einer Zeit bedürfftig sindt, in Einen weg
+#facs_202_r1l24 darmit versehen seyndt, habenst wir für
+#facs_202_r1l25 ein thunliches Mittel erachtet, die Sabac¬
+#facs_202_r1l26 Pflantzung selbsten gleich an benachbahrten
+#facs_202_r1l27 und angrentzenden Ohrten, mit glüklichen,
+#facs_202_r2l1 377.
+#facs_202_r2l2 success beschechen, auch in unseren Eigenen Landen
+#facs_202_r2l3 einzuführen; deßwegen dan dir beyliegender
+#facs_202_r2l4 Bericht und Beschreibung, wie die Tabae Pflan¬
+#facs_202_r2l5 tzung vorzunemen, und was darbey hebeob¬
+#facs_202_r2l6 achten seyn, zugesandt Art mit Befelch solche
+#facs_202_r2l7 den Gemeinden und Preditanten deines Ambts¬
+#facs_202_r2l8 Zezestellen, und deine Ambts Angehörige
+#facs_202_r2l9 dahin anzufrischen, solch heilsammes werk fürder¬
+#facs_202_r2l10 lich und noch heurigen Jahrs in effect zesetzen,
+#facs_202_r2l11 zu welchem End die Eint und Andere sich
+#facs_202_r2l12 Bey dem Ambts Mann oder denenjenigen
+#facs_202_r2l13 so Er in seinem Ambt bestellen wirdt, angebe¬
+#facs_202_r2l14 können, umb den Nöthigen Tabac Saamen (so
+#facs_202_r2l15 dir von unserer verordneten Comission
+#facs_202_r2l16 wirt zegesendt werden) Herrheben, und dann
+#facs_202_r2l17 nach auffweisung einliegendt getrubter
+#facs_202_r2l18 vorschrifft zuverfahren: wann dann in der
+#facs_202_r2l19 Plantzung oder fürterer Aussrüstung
+#facs_202_r2l20 deß Tabacs Auß Mangel nit habender
+#facs_202_r2l21 gnugsames Wüsenschafft man Anstehen
+#facs_202_r2l22 wurde, so kan der allweilige Bericht allhier
+#facs_202_r2l23 zu Bern eingeholet werden, zumahlen wir
+#facs_203_r2l1 Alles weiters nöthige Anordnen und Aus¬
+#facs_203_r2l2 begehrenden fahls Ihnen kundig und verstän¬
+#facs_203_r2l3 dige Leüth zeschiben werden; Endtlichen dann
+#facs_203_r2l4 Folst du dir auch Angelegen seyn laßen,
+#facs_203_r2l5 Von Zeit zezeit Unsere Bestellte Commission
+#facs_203_r2l6 zuberichten, was diesere Pflantzung für
+#facs_203_r2l7 einen fortgang gebene, datum 10. febr. 1709.
+#facs_203_r2l8 P.S. beyliegend wird die auch Fabal
+#facs_203_r2l9 Saamen zegeschikt, mit Bericht, daß wegen
+#facs_203_r2l10 deßen reine in Ein gemeines Garten
+#facs_203_r2l11 Bedt nit mehr als etwan ein Einger
+#facs_203_r2l12 hut toll gesagt wirdt, so nachberts setzling
+#facs_203_r2l13 für eine gantze Jucharten vorbringt.
+#facs_203_r2l14 Wan du auch nit gung Tabac Saamen
+#facs_203_r2l15 hättest magst du die jenigen, so deßen
+#facs_203_r2l16 mehr verlangten, allsaro vor Unsere
+#facs_203_r2l17 destwegen express angeordnete Commissi
+#facs_203_r2l18 on weisen etc. und nit weniger Ber¬
+#facs_203_r2l19 richten. Ob von Wein? und Wie die
+#facs_203_r2l20 Tabac Pflanzung in deinem
+#facs_203_r2l21 Ambt vorgenommen werde. h-
+#facs_203_r4l1 Beschreibung und Bericht, wie der
+#facs_203_r4l2 Tabac zu Pflantzen und was darbey
+#facs_203_r4l3 gebeobachten seye.
+#facs_203_r4l4 In der Zeit deß anseyens so da ist von
+#facs_203_r4l5 Anfang biß zu End deß Mertzen, oder je nach
+#facs_203_r4l6 deme sich die Widerung Anlast auch im
+#facs_203_r4l7 Hormung, zumahlen des Saamen offermahlen
+#facs_203_r4l8 Zwölff wochen in der Erden lieget, soll das
+#facs_203_r4l9 Garten Bett, in welches anfänglich der
+#facs_203_r4l10 Saamen muß geworffen werden, folgender
+#facs_203_r4l11 gestalten Zegerüstet werden.
+#facs_203_r4l12 Nemblich derhErs wird auß dem Garten¬
+#facs_203_r4l13 Beth weggehoben, anstadt deß Herds, mehr
+#facs_203_r4l14 als ein Schu, tief frischer, rauwer Roß,
+#facs_203_r4l15 Baub, so der Beste ist, hart auf ein ander
+#facs_203_r4l16 gelegt und getreiten; Nachberts auch den
+#facs_203_r4l17 Baut bey sechs Zöll hoch deß besten Grundts
+#facs_203_r4l18 9
+#facs_203_r4l19 darüber geriebt der Saamen mit gesiebter
+#facs_203_r4l20 äsche, vermischt, damit der Tabac nit zetil¬
+#facs_203_r4l21 Hertor kome, als dann darau f geseyet und
+#facs_203_r4l22 Heletst durch ein reines Sieb lechter Herd
+#facs_203_r4l23 darauf geworffen werden, und nicht höcher
+#facs_204_r2l1 Als daß Mann die Äschen noch gleiche
+#facs_204_r2l2 rau sehr könne.
+#facs_204_r2l3 Der Sammen in dem Garten Beth, kan auch
+#facs_204_r2l4 Wan man will, und es die Nothurfft
+#facs_204_r2l5 erforderet, bespreizet werden mit einem
+#facs_204_r2l6 Waßer das auch diese weiß zugeristet
+#facs_204_r2l7 birdt. Mann neme etwan zwey Mäß
+#facs_204_r2l8 dauben Hüner, oder Schaaff Mist, auch
+#facs_204_r2l9 anderen Bauw, so man deß Ersten nicht
+#facs_204_r2l10 hat, in einen Sak von Stroh- Sät oder
+#facs_204_r2l11 Pat - thuch gemachet, thue man selben in
+#facs_204_r2l12 einen etwan zwey Säum oder nach pro¬
+#facs_204_r2l13 portion minderhaltenden Keßel mit
+#facs_204_r2l14 Waßer, laße mans also einiche Stunden
+#facs_204_r2l15 d’un petit d’autre pieds-hac’hui de la voix quatre sédée,
+#facs_204_r2l16 sieden und wiederum erhalten, hernach
+#facs_204_r2l17 rau mans zum Sprizen brauchen
+#facs_204_r2l18 Wann aber die Gelegenheit man nicht
+#facs_204_r2l19 hätte, das waßer also jezerüsten von
+#facs_204_r2l20 man den Bauw in Obigen Säben lediglich
+#facs_204_r2l21 in eine Büdte mit kaltem Waßer
+#facs_204_r2l22 angefüllt, einlegen, und nachwerts dem
+#facs_204_r2l23 halten Waßer, die Räuche heben einen
+#facs_204_r2l24 Warns darüberschüdten, so auch gut ist
+#facs_204_r4l1 381.
+#facs_204_r4l2 Es wirdt observiert, daß wo müglich die Garte
+#facs_204_r4l3 Beth an solchen Oheten gemacht werdind, daß
+#facs_204_r4l4 Sy von denen Nordwinden nicht bewähyet
+#facs_204_r4l5 werden, und gemeinlich gegen Sonnen auf¬
+#facs_204_r4l6 gang liegend. etc. auch daß das Port deß
+#facs_204_r4l7 Gartenbeths den Grund bey zechen Zöllen hoch
+#facs_204_r4l8 übersteige.
+#facs_204_r4l9 Ehe und bevor auch der Saamen in das
+#facs_204_r4l10 garten Beth geworffen wirdt, kan man, so
+#facs_204_r4l11 nen bill, und früh Pfläuzling verlanget,
+#facs_204_r4l12 den Saamen etwan zehen Tage vorher, in
+#facs_204_r4l13 garten Gschirr mit feinem guten Grund
+#facs_204_r4l14 wohl vermischt einlegen und beinnen laßen,
+#facs_204_r4l15 Wann der Saamen also ins beth geworffen,
+#facs_204_r4l16 ist, und nachberts hin und wieder zu
+#facs_204_r4l17 die errumme, und die Blätlin etbau eines
+#facs_204_r4l18 Pfennings breit werden, müßen selbige
+#facs_204_r4l19 verdünert werden, damit die Setz- und
+#facs_204_r4l20 Pfläntzling einanderen nicht ersteken;
+#facs_204_r4l21 Muß Ihnen auch allen anderen vorschub
+#facs_204_r4l22 gethan werden, sie hekräfften Zbringen,
+#facs_205_r2l1 die gelben Schößlin thut man auß, die
+#facs_205_r2l2 Dunkel Grünen aber bringen den besten
+#facs_205_r2l3 Tabac./.
+#facs_205_r2l4 Wann auch in der Zeit des Anseyens,
+#facs_205_r2l5 oder nachberts, allzu Wärme oder halte
+#facs_205_r2l6 Wickerung einfiehle, so muß das Garten
+#facs_205_r2l7 Beth des Tags mit geflochtenen Stroh¬
+#facs_205_r2l8 debenen, nächtlicher Beil aber allezeit
+#facs_205_r2l9 bedeht werden, damit der Saamen oder
+#facs_205_r2l10 die Pfläuzling nicht erfrieren, oder durch
+#facs_205_r2l11 alzu große Wärme vertrobnen oder zu
+#facs_205_r2l12 Geyl werden etc. Indemne aber das Tabac¬
+#facs_205_r2l13 kraut sehr zart ist, muß wohl geachtet wer¬
+#facs_205_r2l14 den, daß die Stroh debenen nur auf den
+#facs_205_r2l15 erhöchten Laden deß Garten beths oder in
+#facs_205_r2l16 dem garten Beth bleiben, bis Sie im fünf
+#facs_205_r2l17 gegen sechs Blättlin haben, und man erachtet,
+#facs_205_r2l18 daß die Ryffen vorbey seyen, so in hiesigen
+#facs_205_r2l19 Landen ohngefehrd von Micken Meyens bis
+#facs_205_r2l20 Mieten im brachmoneth und bis gege¬
+#facs_205_r2l21 St. Johannestag beschicht.
+#facs_205_r2l22 # auffsterkenden Jangen auffligend und den Samen oder plant¬
+#facs_205_r2l23 nicht berühren
+#facs_205_r2l24 Ci
+#facs_205_r2l25 Diese pfläntzling müßen im Gartenbeth
+#facs_205_r3l1 383.
+#facs_205_r3l2 Der Tavac Pfläntzling müßen im Garten Both
+#facs_205_r3l3 bleiben, biß Sie in fünff gegen jezes Blätlin
+#facs_205_r3l4 haben, und man erachtet, daß die Ryffen
+#facs_205_r3l5 worbey seyen, so in hiesigen Landen ohngefehrs
+#facs_205_r3l6 Von Micten Meyens biß midten im brachmonat
+#facs_205_r3l7 und biß gegen St. Johannes tag beschicht.
+#facs_205_r3l8 Nach dieser Zeit können diese Setzling
+#facs_205_r3l9 in einander Erdrich entweders auff die
+#facs_205_r3l10 offenen Felder oder Garten, je nachdeme
+#facs_205_r3l11 man viel zu Pflanzen gesinnet, versetzt
+#facs_205_r3l12 werden, und jegliches Staudelin etwan
+#facs_205_r3l13 zwey Schuto von einander allwegen in einer
+#facs_205_r3l14 graden Linien, darmit Mann darzbüschen
+#facs_205_r3l15 gehen und selbe in nachwährtiger Arbeit
+#facs_205_r3l16 wegen Ihrer Zährte nicht verderbt noch
+#facs_205_r3l17 berührt werden mögend etc.
+#facs_205_r3l18 Das Erdrich aber, wohin diese Tabac¬
+#facs_205_r3l19 Stäudelin versetzt werden müßen, belan¬
+#facs_205_r3l20 gend, muß von ungezeiffer wohl gesäuberet
+#facs_205_r3l21 werden, und glaubt man, daß in hiesigen
+#facs_206_r2l1 Landen das Brach=Land und grünt¬
+#facs_206_r2l2 tig Erdtrich der bequemste Grund seye,
+#facs_206_r2l3 und wie trobener das Erdrich, wie
+#facs_206_r2l4 Beßer es seye; In trobnem Mooß, und
+#facs_206_r2l5 Lät. Grund wachst der Tabac zwar auch
+#facs_206_r2l6 wie liechter und beßer der Grund
+#facs_206_r2l7 aber wie beßeren Tabac ex produciert:
+#facs_206_r2l8 In den brachzelggen aber von der Tabac
+#facs_206_r2l9 jehbeilen versetzt werden, ohne daß nah¬
+#facs_206_r2l10 werts solche brach Abere zum Korn an¬
+#facs_206_r2l11 rayen wiederum Früsch gebaubet worden müßen,
+#facs_206_r2l12 Demnach daß so fehrn die brachtwere zu
+#facs_206_r2l13 und deß MeyMonets wohl parat und ge¬
+#facs_206_r2l14 rüstet seyen, und auch der Bauto, so
+#facs_206_r2l15 ordinarii darauff zuführen gepflegt wirdt,
+#facs_206_r2l16 im Frühling darein gethan worden; welchem,
+#facs_206_r2l17 nach die Tabac-Pfläntzling, van keine
+#facs_206_r2l18 Reyste mehr zobesorgen bis an das Hertz¬
+#facs_206_r2l19 bladt hinein gesetzt, und so selbiges in
+#facs_206_r2l20 trobenes Zeit beschicht, selbige wohl be¬
+#facs_206_r2l21 goßen und wan es allzu trokeneszeiten
+#facs_206_r3l1 385.
+#facs_206_r3l2 bähren, mit dem Beschädten fortgefahren werden,
+#facs_206_r3l3 van
+#facs_206_r3l4 In etwelcher Zeit hernach, da die Pfläntzling
+#facs_206_r3l5 Gesetzt sindt, und anzuwachsen anfangen, sollen
+#facs_206_r3l6 dieselben mit kleinen Haulenen gleich den rüben
+#facs_206_r3l7 bier Kabiß gehabet werden, welches auch
+#facs_206_r3l8 durch verständige Kinder oder Dorffs¬
+#facs_206_r3l9 Arme beschechen kan;
+#facs_206_r3l10 In diesem haben und nachwährtigen Häufflen
+#facs_206_r3l11 Käpfen und Gitzen aber nimt man das
+#facs_206_r3l12 gute und trobene Weiter wohl in Acht
+#facs_206_r3l13 Auch daß den pflantzen noch an den Wurz¬
+#facs_206_r3l14 len noch Stamden nicht zu nach gekomme
+#facs_206_r3l15 werde.
+#facs_206_r3l16 Dan die Tabac Stoude weiters fortwachsen,
+#facs_206_r3l17 soll mit obgemehlten Herdrühren fortge¬
+#facs_206_r3l18 setzet, und wan derselbige Zechen bis zwölff,
+#facs_206_r3l19 und nach der güte deß Erdrichs auch
+#facs_206_r3l20 Mehr Blätzer hat, das haben für das
+#facs_206_r3l21 letste Mahl. andernommen werden.
+#facs_207_r2l1 Nach Verrichteter Hat-Arbeit aber,
+#facs_207_r2l2 van der Stängel aber anfangt den
+#facs_207_r2l3 Saamen zu zeigen, soll ungesäumt der
+#facs_207_r2l4 kopf, das ist, aus Oberste an der Tabac¬
+#facs_207_r2l5 Stauden, wan man es nicht express
+#facs_207_r2l6 für Saamen zebetommen, schießen laßen
+#facs_207_r2l7 will, wie auch Nachberts alle Nebetschößlich
+#facs_207_r2l8 so man Geitz nambset, und welche Wüsche
+#facs_207_r2l9 den Bläteren und dem Stängel hinauff schieß
+#facs_207_r2l10 ßend, zu allen Zeiten bey trobenen Weiter
+#facs_207_r2l11 da die Stunden von Thau oder Regen nicht
+#facs_207_r2l12 näß sind, abgebrochen werden, damit der
+#facs_207_r2l13 übrige Saßt die Bläter zu Ihrer Voll¬
+#facs_207_r2l14 Bommenheit bringen könne.
+#facs_207_r2l15 Wan nachwerts der Tabac herreysten
+#facs_207_r2l16 anfangt, ist deßen ein ziehen, bann die
+#facs_207_r2l17 Bläter umb etwas Gelb werden, und selb
+#facs_207_r2l18 und Graf Grün marmoriert sindt, welche
+#facs_207_r2l19 euch ze erst bey den drey oder vier under¬
+#facs_207_r2l20 ten Bläckeren, sonst Boden Blädter genant,
+#facs_207_r2l21 zeiget
+#facs_207_r3l1 ven 3,87.
+#facs_207_r3l2 Diesere zeitige Boden Blädter, sollen alsdann
+#facs_207_r3l3 Vor denen anderen abgebrochen, gleich auf einan¬
+#facs_207_r3l4 deren gelegt, in ein Bundes, so ohngefehrd
+#facs_207_r3l5 minder einem Arme getragen werden kan,
+#facs_207_r3l6 mit einem zusamen geknüpften Schaubband
+#facs_207_r3l7 gebunden, Stötzlig auf die Stängel, daß die Braut¬
+#facs_207_r3l8 Spitzen oben seyen, auf einen Boden vom Abendt
+#facs_207_r3l9 biß zum Morgen gesetzet, nach Verfließung
+#facs_207_r3l10 dieser Zeit aber, monderist also bald aber,
+#facs_207_r3l11 damit Sie nicht auff ein anderen verbrennen
+#facs_207_r3l12 An einen Pakfaden, oder stark gezwirnter
+#facs_207_r3l13 Garn, durch den Stängel deß Blats und
+#facs_207_r3l14 Zwar flach neben dem Blat durch gezogen
+#facs_207_r3l15 aufgehenkt werden.
+#facs_207_r3l16 Die anderen Bläcker aber, so bey Abnemmung
+#facs_207_r3l17 der Boden Bläcker noch nicht reyff und
+#facs_207_r3l18 allzeit etwas grüner verbleibend mögend
+#facs_207_r3l19 nach Ihrer Zeitigung zu underschiedlichen
+#facs_207_r3l20 mahlen abgenomen und nach obiger Beschrei¬
+#facs_207_r3l21 bring darmit verfahren, und annoch etwan
+#facs_207_r3l22 Vier und zwanzig Stund biß sie in etwas
+#facs_207_r3l23 schweisen, vor dem Aufhenken, auf ein ander
+#facs_208_r3l1 Gelaßen, und wohl sorg getragen werden,
+#facs_208_r3l2 Daß Sie nicht auf ein anderen verbrönnen.
+#facs_208_r3l3 Alles dieses Tabac Krankt aber muß an
+#facs_208_r3l4 durchzügigen und trobenen Ohrten, und da
+#facs_208_r3l5 es nicht naß werden kan, aufgeheubt werde.
+#facs_208_r3l6 auch muß sorg getragen worden, daß dieses Braut
+#facs_208_r3l7 mit allzu nache auf ein anderen Hange, damit
+#facs_208_r3l8 mit grün bleibe das roth werden soll, Es
+#facs_208_r3l9 soll auch allso hangen bleiben aufs wenigste biß
+#facs_208_r3l10 nach dem Neüwen Jahr
+#facs_208_r3l11 NB. Zeletst wann alle Bläcke von dem Erd¬
+#facs_208_r3l12 rich eingesamlet sindt, so kan man die stänge
+#facs_208_r3l13 ausziechen, und weilen Sij viel- fodte in sich haben
+#facs_208_r3l14 sie zu Mastung des Erdrichs einähren
+#facs_208_r3l15 Instruction sur la maniere de cultiver
+#facs_208_r3l16 le Tabac
+#facs_208_r3l17 Dans le temps de Semailles, cest à dire, depuis
+#facs_208_r3l18 le comencement, jusque a la fin du Mois de
+#facs_208_r3l19 Mars, ou meme au mois de fevrier, suivant la
+#facs_208_r3l20 temps quil fait, la graine restant Souvent dout
+#facs_208_r3l21 semaines en Terre sans lever :/ il faudra preparer
+#facs_208_r3l22 a planche ou couche de Jardin, dans laquelle
+#facs_208_r3l23 on jettera premierement la graine de la maniere
+#facs_208_r3l24 suivante, scavoir.
+#facs_208_r4l1 3895
+#facs_208_r4l2 Il faut oter la terre de ladite planche et mettre en
+#facs_208_r4l3 place, du fumier de Cheval fraix, de la hauteur d'un
+#facs_208_r4l4 bon pied, le bien presser et fouler, ensuite
+#facs_208_r4l5 meure sur ce fumier de la meilleure terre
+#facs_208_r4l6 criblée, de la hauteur de six pouces, et y semer
+#facs_208_r4l7 la graine du Tabac, melée avec de la cendre
+#facs_208_r4l8 criblee, afin quelle ne se leve pas trop epaisse,
+#facs_208_r4l9 et enfin couvrir la semence de ladite graine
+#facs_208_r4l10 avec une terre legere, passé a travers d'un critble
+#facs_208_r4l11 fin, ensorte qu'on voye encore un peu la Cendre.
+#facs_208_r4l12 On pourra aussi, si ont le trouvé a propos, arroser
+#facs_208_r4l13 la graine Semée dans ladite planche avec
+#facs_208_r4l14 une eau preparée de la maniere suivante.
+#facs_208_r4l15 Prenez environ deux mesures de fiente de
+#facs_208_r4l16 Pigeon, de Poule ou de Brebis, soit de quelques
+#facs_208_r4l17 autre Sorte, mettez la dans un Sac de grosse
+#facs_208_r4l18 toile claire, comme toile d’emballage, et mette
+#facs_208_r4l19 ce sac dans un Chaudron tenant environ
+#facs_208_r4l20 deux cent potm ou à proportion, faites
+#facs_208_r4l21 bouillir l'eau quelques heures, et laisséz la
+#facs_208_r4l22 un peu rafroidir, apres cela Vous Vous en
+#facs_208_r4l23 Servitez, pour arroser
+#facs_209_r2l1 Mais si vous navez pas la Comodité de pre
+#facs_209_r2l2 paréz l'eau de la maniere susdite, Vous pourai
+#facs_209_r2l3 mettre les sacs avec la fiente dans une Cuve
+#facs_209_r2l4 pleine deau froide, et pour lui oter la crudite
+#facs_209_r2l5 Vous ij verserez de l'eau chaude, cette maniere
+#facs_209_r2l6 et bonne aussi.
+#facs_209_r2l7 Vous observez que la blanche ou couche du
+#facs_209_r2l8 Sardin destinée pour la graine ne soit pas ex-
+#facs_209_r2l9 posée a la Bise (la meilleure exposition
+#facs_209_r2l10 seroit entre le levant et le midi, comme aussi
+#facs_209_r2l11 que les aix, qui entourrent la planche, soyent
+#facs_209_r2l12 dix pouces plus hauts que la dite planche
+#facs_209_r2l13 Avant que vous semiez votre graine, si vous
+#facs_209_r2l14 souhaittez, quelle se leve promptement, Vous
+#facs_209_r2l15 la pouvez mettre environ dix jours au
+#facs_209_r2l16 paravant dans un Pot de Terre, melée avec
+#facs_209_r2l17 de bonne Terre et la laisser germer
+#facs_209_r2l18 Si pendant la Semaille ou apres, il fait
+#facs_209_r2l19 un temps du trop froid, ou trop chaud, il
+#facs_209_r2l20 faut couvrir la planche de jardin le jour
+#facs_209_r2l21 avec des paillassons, soit couvertes de
+#facs_209_r2l22 Paille, (et la couvrira toutes les Nuits
+#facs_209_r3l1 391.
+#facs_209_r3l2 quelques temps quil fasse, / afin que la graine
+#facs_209_r3l3 ou le plantes ne gelent, ou que la Chaleur
+#facs_209_r3l4 ne les desseche, ou encor quelles ne poussent
+#facs_209_r3l5 pas trop fort.
+#facs_209_r3l6 Lomme l'herbe du Tabac est fort tendre, il
+#facs_209_r3l7 faut avoir soin que les paillassons ne la
+#facs_209_r3l8 touchent, et ne couchent que sur les aix
+#facs_209_r3l9 qui borde la planche, et quils soyent Sou¬
+#facs_209_r3l10 tenus par desperches ou echalaz.
+#facs_209_r3l11 Ces plantes doivent rester dans la planche
+#facs_209_r3l12 jusques à ce quelles ayent produits cinq
+#facs_209_r3l13 à six feuilles, et que l'on juge que les
+#facs_209_r3l14 gelées blanches, qui dans nostre Pays
+#facs_209_r3l15 durent environ jusqu'a la my May ou
+#facs_209_r3l16 meme quelquefois jusques a la mij Juin,
+#facs_209_r3l17 soijent passées.
+#facs_209_r3l18 Ensuite Vous pourrez transplanter les plan¬
+#facs_209_r3l19 tes dans un autre Terrain, soit dans des
+#facs_209_r3l20 Champs ou jardins, solon la quantité, que
+#facs_209_r3l21 Vous en Voudrez cultiver, les planter en
+#facs_210_r2l1 Ligne droite eloignées l'une de l'autre de
+#facs_210_r2l2 deux pieds, afin que dans le travail sui,
+#facs_210_r2l3 vant, on puisse marcher entre les rangs
+#facs_210_r2l4 sans gates les plantes.
+#facs_210_r2l5 Le Terrain, ou Vous transplanterez les plantes
+#facs_210_r2l6 de Tabac doit etre nettoijé d'insectes. On
+#facs_210_r2l7 troit, que dans ce Paÿs les Champs labouriés
+#facs_210_r2l8 et les Terres graveleuses et Seches sont les plus
+#facs_210_r2l9 pussissent
+#facs_210_r2l10 propres au Tabac, et quoi quils recussoit
+#facs_210_r2l11 assez dans les marais deséchez, et terres ar-
+#facs_210_r2l12 gilleuses, cependant plus le Terrain est leger
+#facs_210_r2l13 mieux il lui convient.
+#facs_210_r2l14 On pourra transplanter le Tabac dans les
+#facs_210_r2l15 Champs en friche, Sans quil soit necessaire
+#facs_210_r2l16 de les fumer de rechef, lorsque l'on y vou-
+#facs_210_r2l17 dra semer le ble, pourvu que les dits champ
+#facs_210_r2l18 ayent eté bien préparés a la fin du mois
+#facs_210_r2l19 de May, et que le fermier, que l'on y
+#facs_210_r2l20 employe ordinairement; y aye été mis
+#facs_210_r2l21 ceu printemps.
+#facs_210_r3l1 ^ 393
+#facs_210_r3l2 Quelque temps après, les gelées blanches
+#facs_210_r3l3 n'étant plus à craindre, Vous mettrez les
+#facs_210_r3l4 plantes de Tabac en terre jusqu’au Coeur
+#facs_210_r3l5 de la plante; Il faut les bien arroser
+#facs_210_r3l6 le soir, quand il fait chaud, et aussi long
+#facs_210_r3l7 temps que la Chaleur dure, Ensuite les
+#facs_210_r3l8 plantes commençant a croistre il les faut
+#facs_210_r3l9 bien Sarcler, et labourer la terre avec des
+#facs_210_r3l10 1.° 2
+#facs_210_r3l11 petites beches, comme on fait aux Choux
+#facs_210_r3l12 et Raves, les Enfans un peu raisonables
+#facs_210_r3l13 et les pauvres du village peuvent être
+#facs_210_r3l14 employés a cet ouvrage.
+#facs_210_r3l15 5
+#facs_210_r3l16 En quoi, aussi bien que dans les ouvrages
+#facs_210_r3l17 suivants, il faut observer, que le temps
+#facs_210_r3l18 soit beau et sec, et prendre garde de
+#facs_210_r3l19 ne pas gater les plantes ou les racines,
+#facs_210_r3l20 en Sarclant de trop prez.
+#facs_210_r3l21 c
+#facs_210_r3l22 Quand les plantes seront plus avancées
+#facs_210_r3l23 il faut continuer de labourer la terre
+#facs_210_r3l24 et lorsquelles auront produits dix à
+#facs_210_r3l25 doux feuilles, ou même plus, suivant
+#facs_211_r2l1 la bonté du Terrain, il le faut Sarder
+#facs_211_r2l2 encore une fois, et lui doner par la son
+#facs_211_r2l3 dernier labour.
+#facs_211_r2l4 Ce labourage étant fait, et la Tige comen
+#facs_211_r2l5 ment
+#facs_211_r2l6 cant en graine, il faut pincer la tête ou
+#facs_211_r2l7 le Commet des plantes (a moins qu'on ne
+#facs_211_r2l8 Veuille les conserver pour graines) aussi
+#facs_211_r2l9 bien que les prejettons, qui vienent entre
+#facs_211_r2l10 la Tige et les feuilles, afin que les dites
+#facs_211_r2l11 fevilles profitent mieux de la Seve, En
+#facs_211_r2l12 quoi il faut encore observer le beau temps
+#facs_211_r2l13 et que les plantes ne soijent pas mouillées
+#facs_211_r2l14 de pluije ou de rosée lorsque vous faites
+#facs_211_r2l15 cet ouvrage.
+#facs_211_r2l16 Quand les feüilles commencent à jaunir, oû
+#facs_211_r2l17 sont marbres de jaune et verd, ce que l'on
+#facs_211_r2l18 appercoit premierement aux trois ou quatre
+#facs_211_r2l19 feuilles les plus proche de Terre;/ cest une
+#facs_211_r2l20 marque, que le Tabac comence a mevrir
+#facs_211_r2l21 Ces feuilles les plus proches de terre, qui
+#facs_211_r3l1 395
+#facs_211_r3l2 sont meures, seront eueillies les premieres, on
+#facs_211_r3l3 les attache avec de la paille longue par pe-
+#facs_211_r3l4 tites gerbes ou liasses, de la grosseur, quon
+#facs_211_r3l5 les puisse, porter sous lesbras, ont le mettra
+#facs_211_r3l6 sur le planche d'une Chambre ou Galatas
+#facs_211_r3l7 le queüve en bas, et la pointe des feuilles
+#facs_211_r3l8 en haut ou ont les laissera depuis le soir
+#facs_211_r3l9 jusqu'au lendemin matin, et alors afin
+#facs_211_r3l10 que le trop de Chaleur, ne les gate, il
+#facs_211_r3l11 faut prendre les feuilles avec de la ficelle.
+#facs_211_r3l12 ou du fil double, passé à travers de la
+#facs_211_r3l13 Cote de la feuille
+#facs_211_r3l14 On eueillit les autres feuilles à mesure
+#facs_211_r3l15 quelles mettissent, et lon y procedera
+#facs_211_r3l16 de la maniere susdite. Il faut observer
+#facs_211_r3l17 quon les laisse ensemble avant que de
+#facs_211_r3l18 les prendre, pendant vingt et quatres
+#facs_211_r3l19 heures environ, ou jusqu'a ce quelles suent
+#facs_211_r3l20 un peu, mais Vous prenderez garde
+#facs_211_r3l21 quelles ne se brûtrent.
+#facs_211_r3l22 Il faut aussi avoir soin de prendre les
+#facs_212_r2l1 feuilles de Tabac a des endroits bien
+#facs_212_r2l2 Cairex, et ou le Vent transpire, et non pas
+#facs_212_r2l3 trop prez les unes des autres, afin quell
+#facs_212_r2l4 ne restent pas vertes, au lieu de devenir
+#facs_212_r2l5 rouges, comme elles doivent etre, et on les
+#facs_212_r2l6 laissera pendües pour le moins jusqu'apres
+#facs_212_r2l7 le nouvel An.
+#facs_212_r2l8 Enfin toutes les feuilles étantpenées
+#facs_212_r2l9 on tire le tiges de Terre, et comme
+#facs_212_r2l10 elles ont beaucoup de Sel, on les remet et
+#facs_212_r2l11 terre pour engraisser le Champ, comme
+#facs_212_r2l12 lon fait du fumier lors qu'on laboura
+#facs_212_r2l13 An Calla Classes W. Landtr
+#facs_212_r2l14 Wegen Sitzung der suffraganten
+#facs_212_r2l15 Schultheis und Raht etc.
+#facs_212_r2l16 Collath
+#facs_212_r2l17 Unß Langet der Bericht ein, daß hin und
+#facs_212_r2l18 wieder unsere Predikanten W. Landts der
+#facs_212_r2l19 Ihren anvertraubte Cäntzel von solchen
+#facs_212_r3l1 297.
+#facs_212_r3l2 besteigen, und auch die seiligen Sacrament
+#facs_212_r3l3 Verwählten laßnidt, die wieder die Handt Auf¬
+#facs_212_r3l4 legung noch protestation concionandi ein¬
+#facs_212_r3l5 pfangen, derowegen wir Unß Veranlaßet
+#facs_212_r3l6 Gesehn; dieses Oberkeitliches Einsehen
+#facs_212_r3l7 hierwieder vorzubehren, und zugleich zu
+#facs_212_r3l8 Verordnen, daß wann ein Studiosus so
+#facs_212_r3l9 weder die Handt Auftlegung noch den
+#facs_212_r3l10 Gewalt zu Predigen empfangen, sich erfrechen
+#facs_212_r3l11 wurde, entweders öffentlich zu predigen
+#facs_212_r3l12 oder aber die H. Sacrament zuver¬
+#facs_212_r3l13 walten, ein solcher zu wohlverdienter
+#facs_212_r3l14 straff umb die drey Ihme nachgehenden
+#facs_212_r3l15 Studiosi in seiner Ordnung removiert
+#facs_212_r3l16 auf
+#facs_212_r3l17 werden solle; welches wie wir es unser
+#facs_212_r3l18 Accademey zu Lausanne hiemit zur exe¬
+#facs_212_r3l19 cution überschrieben; also habendt wir
+#facs_212_r3l20 Euch deßen auch nachrichtlich ver¬
+#facs_212_r3l21 ständigen wollen, umb ins künfftig
+#facs_212_r3l22 dergleichen nicht mehr zugestacken
+#facs_212_r3l23 Einte Wie geschehen werde die muß
+#facs_212_r3l24 verschende fürs, laute
+#facs_213_r2l1 Fürs andere dann habendt wir auch
+#facs_213_r2l2 wahrgenommen, daß von Eint und ander
+#facs_213_r2l3 Claßen die Suffragantz entweders selbsten
+#facs_213_r2l4 Erwöhlet, oder aber Unß zur Bestäthigung
+#facs_213_r2l5 überschrieben werden, Anstadt daß die
+#facs_213_r2l6 Erwählung derselben bespag einliegenden
+#facs_213_r2l7 Unseren Anordnungen vom 8. Aug. 1661.
+#facs_213_r2l8 25. January 1678. und 3. May. 1697.
+#facs_213_r2l9 Vnser Accademey zu Lausanne zestehet,
+#facs_213_r2l10 Als welchen die Capacitat und rang der
+#facs_213_r2l11 anderhabenden Studenten am besten Bekant.
+#facs_213_r2l12 Derowegen wir auch in keinen Anstandt
+#facs_213_r2l13 setzen wollen, Euch hierdurch aufgetragen,
+#facs_213_r2l14 Obstehenden Ordnungen ins fünfftig ge¬
+#facs_213_r2l15 flißen nachzugeleben und die suffragante
+#facs_213_r2l16 von Unser Accademey zu Lausanne zu
+#facs_213_r2l17 begehren, welche dann Ihre Pflicht hierin
+#facs_213_r2l18 auch erstatten birt.
+#facs_213_r2l19 diesen
+#facs_213_r2l20 Undt beilen auß Anlaaß auch ge¬
+#facs_213_r2l21 andet worden, daß eint und andere
+#facs_213_r4l1 399.
+#facs_213_r4l2 Predikanten in solchem hochen Alter, oder mit
+#facs_213_r4l3 solchen schwachheiten behafftet sich befunden, daß
+#facs_213_r4l4 Sy Thee Pastoral Pflichten nicht in allem
+#facs_213_r4l5 ein Gemeß leisten können, allein aber auß
+#facs_213_r4l6 dem Absehen, etwas weniger zu erspahren
+#facs_213_r4l7 keine Suffraganten erforderen, Indeme und
+#facs_213_r4l8 diesers ein Gewüßenssach, und der Kirche
+#facs_213_r4l9 reme
+#facs_213_r4l10 daran gelegen, daß hierinn expediert werde;
+#facs_213_r4l11 Als habendt wir Euch bey Eweren Pflichten
+#facs_213_r4l12 insinuieren wollen, wan dergleichen ohnter¬
+#facs_213_r4l13 mögliche Predikanten in Eüwerer Class sich
+#facs_213_r4l14 befinden sollen, selbe dahin anzuhalten. Daß
+#facs_213_r4l15 Sie sich umb Suffraganten belieben thügen,
+#facs_213_r4l16 und Also diesem Übel dorgebogen werde.
+#facs_213_r4l17 dat. d. 12. Jan. undt 28. Febr. 1719.
+#facs_213_r4l18 Pausanne An die Accademey
+#facs_213_r4l19 Auß Eüverem WohlEingelangten Schreiben
+#facs_213_r4l20 vernemmendt wie daß Un Anständige
+#facs_213_r4l21 iregulariteten darin vorgehen thüyindt,
+#facs_214_r2l1 1o Indemne die Studiosi, so die Handt Auf¬
+#facs_214_r2l2 legung noch nicht empfange, von den
+#facs_214_r2l3 Predibanten hin und wieder Ihre Vices mit
+#facs_214_r2l4 Predigen, wo nicht gar mit administration
+#facs_214_r2l5 der z. Sacramenten gebraucht werdende
+#facs_214_r2l6 2o die Classen mit hindansetzung der
+#facs_214_r2l7 deßwegen gemachten Reglementen den in Ihrem
+#facs_214_r2l8 bezirk sich befindenden Predikanten, die Sus¬
+#facs_214_r2l9 fraganten selbsten verordnend, Außack daß
+#facs_214_r2l10 solches Eüch zestehe; worüber so viel den
+#facs_214_r2l11 ersten Punkten Ansehen will; wir hiemit Sta¬
+#facs_214_r2l12 tuiert und Geordnet, daß wan ein Studiosus
+#facs_214_r2l13 so nicht würklich die HandtAufflegung
+#facs_214_r2l14 und potestatem Concionandi, erhalten, und
+#facs_214_r2l15 dahin erfrehen solte, offentliche Cautzel se¬
+#facs_214_r2l16 besteigen, zu predigen, oder auch gar die
+#facs_214_r2l17 Heiligen Sacrament Zuverhalten, daß ein
+#facs_214_r2l18 solcher zu wohlverdienter straff und finden
+#facs_214_r2l19 haltung dergleichen eigen gewältigen unbesonnen¬
+#facs_214_r2l20 heiten umb drey Ihme nachgehende Studiosi
+#facs_214_r2l21 in seinem rang und Ordnung removiert
+#facs_214_r3l1 401.
+#facs_214_r3l2 und hin undegesezt werden soll, welche unsere
+#facs_214_r3l3 Ordnung wir den sämbtlichen Classen unsers
+#facs_214_r3l4 Weltschen Landts überschiken werden, Euch aber
+#facs_214_r3l5 hier durch aufftragen; wollen, den Studiosis Unser
+#facs_214_r3l6 accademey zu künfftiger Nachricht und eigener
+#facs_214_r3l7 observantz kundt zumachen, und sie hinter ernsti¬
+#facs_214_r3l8 meinendt abzemahnen.
+#facs_214_r3l9 Was aber Anlangen will, die andere klag
+#facs_214_r3l10 daß die Classen den Reglementen zuwieder
+#facs_214_r3l11 die Suffraganten selbsten bestellendt an¬
+#facs_214_r3l12 tadt solches Euch zestehen thüye, habendt wir
+#facs_214_r3l13 hierüber dißmahln anoch nichts erkennen, son¬
+#facs_214_r3l14 deren Euch befehlen wollen, Unß von diesem
+#facs_214_r3l15 Reglement mit nechstem ein überschrifft
+#facs_214_r3l16 Zeubersenden, umb solche innach auch die
+#facs_214_r3l17 genießene remedur zeberathen, undt
+#facs_214_r3l18 an die Classen langen zulaßen, dato 12 Jan.
+#facs_214_r3l19 die ordnung begeb Schung der unge
+#facs_214_r3l20 Luffraganten
+#facs_214_r3l21 Bausanne Accademey
+#facs_214_r3l22 Allaten. Vnderem 12. Janl. letzthin habendt wir Euch
+#facs_215_r2l1 do. Indemne die Studiosi, so die Handt auf
+#facs_215_r2l2 legung noch nicht empfange, von den
+#facs_215_r2l3 Predibanten hin und wieder Ihre Vices mit
+#facs_215_r2l4 Predigen, wo nicht gar mit administration
+#facs_215_r2l5 der z. Sacramenten Gebraucht werdendt,
+#facs_215_r2l6 R.o die Classen mit hindansetzung der
+#facs_215_r2l7 deßwegen gemachten Reglementen den in Ihrem
+#facs_215_r2l8 Bezirk sich befindenden Predikanten die Sus¬
+#facs_215_r2l9 fraganten selbsten verordnend, Außack daß
+#facs_215_r2l10 solches Eüch zestehe; worüber so viel den
+#facs_215_r2l11 ersten Punckten Ansehen will; wir hiemit Sta¬
+#facs_215_r2l12 tuiert und geordnet, daß wan ein Studiosus
+#facs_215_r2l13 so nicht würklich die Handt Aufflegung
+#facs_215_r2l14 und potestatem Concionandi, erhalten, sich
+#facs_215_r2l15 dahin erfrehen solte, öffentliche Cautzel se=
+#facs_215_r2l16 besteigen, zu predigen, oder auch gar die
+#facs_215_r2l17 Heiligen Sacrament Zuverwalten, daß ein
+#facs_215_r2l18 solcher zu wohlverdienter straff und hinder¬
+#facs_215_r2l19 haltung dergleichen eigen zwältigen unbesonnen¬
+#facs_215_r2l20 Leiten umb drey Ihme nachgehende Studios
+#facs_215_r2l21 in seinem rang und Ordnung removiert
+#facs_215_r3l1 401.
+#facs_215_r3l2 und hin undegesezt werden soll, welche unsere
+#facs_215_r3l3 Ordnung der den sambtlichen Classen unsers
+#facs_215_r3l4 weltschen Landts überschiken werden, Euch aber
+#facs_215_r3l5 hierdurch aufftragen; wollen, den Studiosis Unser
+#facs_215_r3l6 accademey zu künfftiger Nachricht und eigener
+#facs_215_r3l7 observantz kundt zemachen, und sie hietor ernst¬
+#facs_215_r3l8 meinendt abzemahnen.
+#facs_215_r3l9 Was aber Anlangen will, die andere klag
+#facs_215_r3l10 daß die Classen den Reglementen zuwieder
+#facs_215_r3l11 die Suffraganten selbsten bestellendt an¬
+#facs_215_r3l12 stadt solches Euch zestehen thüye, habendt wir
+#facs_215_r3l13 hierüber diß Mahlen annoch nichts erkennen, son¬
+#facs_215_r3l14 deren Euch befehlen wollen, Unß von diesem
+#facs_215_r3l15 Reglement mit nechstem ein überschrifft
+#facs_215_r3l16 Zaubersenden, umb solchemnach auch die
+#facs_215_r3l17 gemeßene remedur zuberathen, undt
+#facs_215_r3l18 an die Classen langen zulaßen, dato 12 Jan.
+#facs_215_r3l19 die ordnung begeb sekung der 719
+#facs_215_r3l20 Luffrayanten
+#facs_215_r3l21 ausanne Accademey
+#facs_215_r3l22 Allantl. Vnderm 12. Jan. ertsichin habends wir Euch
+#facs_216_r3l1 Vnsere gemachte Ordnung wieder diejänige
+#facs_216_r3l2 Studiosos, so ohne Handt aufflegung und behörigen
+#facs_216_r3l3 Gewalt die offentlichen Cantzle besteigen, überschreiben,
+#facs_216_r3l4 Welchen aber wir seithane auch verstanden, daß
+#facs_216_r3l5 Unseren hietorigen Ordnungen zwieder die suffa¬
+#facs_216_r3l6 ganten von den Classen selbsten Erwöhlet, oder recta
+#facs_216_r3l7 Von Unß gefordert werdend, Anstadt selbe
+#facs_216_r3l8 zugeben Euch zu stehen thuze; Als habendt wir
+#facs_216_r3l9 an alle unsere Classen W. Landts deßwegen
+#facs_216_r3l10 Ablauffen laßen, was Copeyliche Einlaag, an=
+#facs_216_r3l11 sehend diesen Puncten, und mehreren mit
+#facs_216_r3l12 führet, welches wir Euch hiemit gleichmeßig
+#facs_216_r3l13 communicieren. datum 28. febr 1719

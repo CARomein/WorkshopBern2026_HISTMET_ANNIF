@@ -1,0 +1,90 @@
+Law ID: BER.01.001.3225
+Name: Das Commercium gegen der Neüwenstatt sowohl Ratione der Debitierung ihres Weins als Einkauffung dess Getreids under gewüssen Conditionen widerumb öffnen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 79/79
+# High similarity (>=50%): 74
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_97_r1l12 Mandat an
+#facs_97_r1l13 Erlach, Nydauw, Orberg, Ißerten, Jurg. Dorff,
+#facs_97_r1l14 Item an alle Ambtleuth im Seeland und
+#facs_97_r1l15 Rimentsal
+#facs_97_r1l16 Das Commercium gegen der neuwen statt
+#facs_97_r1l17 sowohl ratione der debitiärung Ihres
+#facs_97_r1l18 Weins als eintauffung des getreids
+#facs_97_r1l19 under geleüßen Conditionen widerumb
+#facs_97_r1l20 of them.
+#facs_97_r1l21 Collat
+#facs_97_r1l22 Wäetheis und Raht der Statt Bern
+#facs_97_r1l23 anderem 21. 7brig. 1714 ist Unseren verbürgerten
+#facs_97_r1l24 von der Neuernstatt das Comercium dahin interdicier
+#facs_97_r2l1 183.
+#facs_97_r2l2 worden, daß sie keine frucht für Ihre nohtdurfft in Unsere
+#facs_97_r2l3 Londen einlauffen noch auch Ihren Wein darinnen ver¬
+#facs_97_r2l4 debitieren mögend: In gegenwährtigen Zeithen aber und
+#facs_97_r2l5 bey Verstandener gestaltsamme dortiger Sachen hat Unser
+#facs_97_r2l6 große Raht gutbefunden, underem 5. und 10. diß
+#facs_97_r2l7 Monats diese Interdiction für die Jenigen, so der Statt
+#facs_97_r2l8 Neüwenstatt freyheiten und das Bernische Burgerrecht
+#facs_97_r2l9 nach acten serkommen zu manutenieren suchen, und sich
+#facs_97_r2l10 solches angelegen seyn laßen werden, wider aufzuheben,
+#facs_97_r2l11 und selbige deß eheforigen beneficii trostlichen genießen
+#facs_97_r2l12 zulaßen, Jedoch auf einen Certificat, so in ansehen deß
+#facs_97_r2l13 einlaufenden getreyet und verkauffenden weins
+#facs_97_r2l14 verfapet seyn soll, wie einlag mitgibet; deßen Wir
+#facs_97_r2l15 Dich hiemit gleich gegen einigen anderen Ambtleüthen
+#facs_97_r2l16 auch beschieht, benachrichten, mit dem befelch, weilen
+#facs_97_r2l17 "
+#facs_97_r2l18 Die Interdiction von Cantzlen publiciert worden
+#facs_97_r2l19 Die nunmehrige wideraufhebung derselben für die
+#facs_97_r2l20 so es berührt, auch widerumb publicieren zu laßen.
+#facs_97_r2l21 deines Theils dann auch die weiter Veranstaltung
+#facs_98_r2l1 zuverschaffen, daß von denen Neülsenstalberein
+#facs_98_r2l2 keine andern dieses genoß theilhafftig werdend, als
+#facs_98_r2l3 die Jenigen, so mit denen Certificaten nach einligen
+#facs_98_r2l4 dem Formulas versehen seyn werdend. Dat.
+#facs_98_r2l5 15 Marty 1717
+#facs_98_r2l6 Nous maistres Bourgois et Conseil de la Neufe
+#facs_98_r2l7 Ville, Declarons, que par devant Nous sest present
+#facs_98_r2l8 N. N.... Bourgois de cette Ville, lequel Nous à
+#facs_98_r2l9 expose qu'ayant vendu la quantité de
+#facs_98_r2l10 Bosses de Vin à N. N. Sujet de L. L. E. C. de Berne
+#facs_98_r2l11 Il luy seroit necessaire d'avoir surce Nos lettres attes
+#facs_98_r2l12 tatoires afin que le et vin puisse être introduit sans
+#facs_98_r2l13 difficueté sur les Terres de L'E dites Exe. Nous certifions
+#facs_98_r2l14 donc que les susnome N. N. Bourgois de cette ville
+#facs_98_r2l15 est du nombre de ceux qui ont rempli leurs devoirs de
+#facs_98_r2l16 notre egard, et que par sa declaration sermentale, il
+#facs_98_r2l17 Nous à attesté, que le susdt vin pas luy vendu est
+#facs_98_r2l18 uniquement de son etu: En foy de quoy Nous luy avons
+#facs_98_r2l19 fait expedier les presentes, munies de nôtre sçeau
+#facs_98_r4l1 185
+#facs_98_r4l2 ordinaire, et signées par le secretaire de cette Ville. fait
+#facs_98_r4l3 à Neufeville le
+#facs_98_r4l4 a
+#facs_98_r4l5 Anstatt deß understrichenen soll nachfolgendes eingesetzt
+#facs_98_r4l6 werden, wie volget. qui cherchent à maintenir les
+#facs_98_r4l7 ancienes franchises coutümes et libertés de la Ville
+#facs_98_r4l8 come aussi la combourgoisie avec L.L.E.C. de Berne
+#facs_98_r4l9 Vous Maistres Bourgois et Conseil de la Neufe
+#facs_98_r4l10 Ville
+#facs_98_r4l11 Certifions que N. N. est Bourgois de cette Ville
+#facs_98_r4l12 est du nombre de ceux qui ont rempli leur devoir envers
+#facs_98_r4l13 le Magistrat, et qu'il nous assure par son serment
+#facs_98_r4l14 que les grains quil va acheter au Marché de Cerlier
+#facs_98_r4l15 et de Nydau est uniquement pour son usage et
+#facs_99_r2l1 et celuy de sa famille, s'estant engagé parle
+#facs_99_r2l2 mesme serment à n'en faire part à aucun
+#facs_99_r2l3 autre. Ce que Nous avons ordoné leur estre
+#facs_99_r2l4 expedie par Exrit en cette forme sous nostre
+#facs_99_r2l5 sceau ordinaire, et l'un du secretaire de la Ville
+#facs_99_r2l6 fait a la Neufeville. le
+#facs_99_r2l7 Anstatt obigen understrichenen soll nachfolgenden
+#facs_99_r2l8 ringesezt werden. Qui cherchent a maintenir
+#facs_99_r2l9 les ancienes franchises coutumes et libertés
+#facs_99_r2l10 de la Ville, come aussi la Combourgoisie avec
+#facs_99_r2l11 L.L. E.E. de Berne

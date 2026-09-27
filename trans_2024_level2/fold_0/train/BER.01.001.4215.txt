@@ -1,0 +1,81 @@
+Law ID: BER.01.001.4215
+Name: Ihnen anbefehlen, an bevorstehendem Bättag in ihren Ämteren eine Collect zu Gunsten der Brunstbeschädigten zu Kerzerz samlen zu lassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 70/70
+# High similarity (>=50%): 69
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_180_r3l5 An
+#facs_180_r3l6 Die H. Amtleüth von Erlach, Arberg, Büren, Nydau
+#facs_180_r3l7 Laupen, Wiblidburg, Pesterlingen praest. et cons.
+#facs_180_r3l8 Ihnen anbefehlen, an bevorstehendem Rädtag in Ihrer
+#facs_180_r3l9 ämteren eine Collect zu gunsten der Brunstbeschädigte
+#facs_180_r3l10 zu Kerzerz sammlen zu laßen.
+#facs_180_r3l11 Stadthalter und Rath
+#facs_180_r3l12 Das Dorf Karzerz in dem Amt Murten ist den 26ten
+#facs_180_r3l13 lezten Maji mit einer Feürerbrunst solchergestalt
+#facs_180_r3l14 eingesucht worden, daß 54. Haushaltungen mittel
+#facs_180_r3l15 Verlurst Ihrer Häuser und Habseeligkeiten in groß
+#facs_180_r3l16 verlurst, ja viele davon in gänzliche Armuth geneh¬
+#facs_180_r3l17 ten, und der Schade auf T. 23326: 17. bz. gebürdiger
+#facs_180_r3l18 wird. Damit nun Unsere Liebe und Getreüe An
+#facs_180_r3l19 gehörige, welche vor solch schwehren Heunsuchung.
+#facs_180_r3l20 gnädiglich verschont, und in Ruhen bey dem Ihrigen
+#facs_180_r3l21 verblieben, diese Ihre mitleidenrwürdige Fruder
+#facs_180_r3l22 aus ihrem Übertluß trösten können; haben Wir
+#facs_180_r3l23 hiemit geordnet, daß gleichbie in verschiedenen
+#facs_180_r3l24 anderen Ämteren, also auch in Eüerem Amt auf
+#facs_180_r3l25 Den bevorstehenden Räctag in allen Kirchen Eüeres
+#facs_180_r6l1 35
+#facs_180_r6l2 Eüeres Amts eine freybillige Steür durch Seeydigti¬
+#facs_180_r6l3 eingesammelt, und solche Euch eingehändiget, auch durch
+#facs_180_r6l4 den Pfarrer die Predigt auf diese Umstände gerich¬
+#facs_180_r6l5 tet werden solle. Ihr werdet demmenach gleich auf
+#facs_180_r6l6 Empfang dieser Schreibens, solcher auf allen Canzlen¬
+#facs_180_r6l7 lüers Amts verlesen, und veranstalten laßen,
+#facs_180_r6l8 auch Uns zu seiner Zeit den betrag überschreiben
+#facs_180_r6l9 damit Wir das fernere legen dißörtiger repartiti
+#facs_180_r6l10 on darüber verfüegen können. Bet. d. 2ten Aug. 1764.
+#facs_180_r6l11 An
+#facs_180_r6l12 die H. Amtleüth zu Schbarzenburg und Grandson
+#facs_180_r6l13 Verbot des Treber-Krantenbeins etc.
+#facs_180_r6l14 Stadthalter und Rath
+#facs_180_r6l15 Wir müßen vernommen, daß an einichen Orten in Un
+#facs_180_r6l16 seren Landen Treber, Frantenbein gebrannt werde
+#facs_180_r6l17 An Schbarzenburg allein; Und daß insonderheit
+#facs_180_r6l18 die Einbohner der Vogtey Schbarzenburg den ver¬
+#facs_180_r6l19 derblichen Gebrauch haben, Ihr Kirsen=Waßer gegg¬
+#facs_180_r6l20 treber, Brantenbein vielfaltig zu vertauschen) Con¬
+#facs_180_r6l21 junctim) damit nun diesem Inhalt gethan, mithin
+#facs_180_r6l22 Unseren bereits den 26ten Härmung und 29t Novembl.
+#facs_180_r6l23 beyder Ao 1732 ausgeschribenen, auch den 16ten Septemb.
+#facs_180_r6l24 746. erfrischten Verboten, von welch lezterm eine
+#facs_180_r6l25 abschrift hier beyligt, das Leben gegeben werde; so haben
+#facs_180_r6l26 Wir auf erhaltenen Consens von Löblen Stand Erpburg
+#facs_180_r6l27 nöthig befunden, selbige auch hinter Eüerem Amt kund
+#facs_181_r1l1 Coll
+#facs_181_r1l2 Coll
+#facs_181_r3l1 und machen zu laßen, und befehlen demmenach Euch zu
+#facs_181_r3l2 veranstalten, daß gedachtes Verbodt aller Ohrten
+#facs_181_r3l3 von Canzlen verlesen, auf die Übertrechtere geflißene
+#facs_181_r3l4 acht bestellet, und Unser Willen in Effect gesetzt werde.
+#facs_181_r3l5 Dat. d. 6 Aug. 1764.
+#facs_181_r3l6 An,
+#facs_181_r3l7 Die Oberländisch, Emmenthalisch, und Ergäubisch Amtleüth,
+#facs_181_r3l8 wie auch vier Stadt
+#facs_181_r3l9 Ihnen anbefehlen, auf den Erasmur Knoriger von
+#facs_181_r3l10 Einsidlen zu achten.
+#facs_181_r3l11 Stadthalter und Rath etc.
+#facs_181_r3l12 Er hat der Lobl. Stand Schbeiz Ihren Angehörigen Erasmu¬
+#facs_181_r3l13 Aueriger von Einsiedlen, als einen überwisenen aufbe¬
+#facs_181_r3l14 ler der gemeinen Volle und Stöhrer der Ruhe für
+#facs_181_r3l15 zwölf Jahr lang aus gesammt Loblicher Eisgenossenschaft
+#facs_181_r3l16 zu verbeisen gutbefunden; Westwegen wir mit Zusen¬
+#facs_181_r3l17 dung des signalements Euch befehlen, hinter Eüch Ihnen
+#facs_181_r3l18 keinen Aufenthalt zu gestacten, sonderen Solchen auf
+#facs_181_r3l19 betredten unter ernsthafter bedrohung fortbeisen zu
+#facs_181_r3l20 lassen. Dat. d. 9. Aug. 1764.

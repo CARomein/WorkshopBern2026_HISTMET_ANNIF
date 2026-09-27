@@ -1,0 +1,103 @@
+Law ID: BER.01.001.4113
+Name: Mit Communication obigen Mandats sie berichten, dass die Einfuhr dess burgundischen und savoyischen Getreyds fehrners erlaubt seye.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 92/92
+# High similarity (>=50%): 86
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_250_r3l5 An
+#facs_250_r3l6 Alle Weltsche Amtleuth
+#facs_250_r3l7 Mit Communication Obigen Mandats Sie berichten,
+#facs_250_r3l8 daß die Einfuhr deß Burgündl. und Savoyl. getreyes
+#facs_250_r3l9 fehrners erlaubt seye.
+#facs_250_r3l10 Schultheis und Rath etc.
+#facs_250_r3l11 Wiebohlen in Abänderung daß sub 12ten Aug. 1757.
+#facs_250_r3l12 nurgegangenen Mandats, Wir dermahlen gut,
+#facs_250_r3l13 befunden, die Einbringung alles fremden
+#facs_250_r3l14 Gebächstes in Unsere Landes zu verbiethen u xbr.
+#facs_250_r3l15 Joh dennoch haben wir für Unsere beltsche Lande
+#facs_250_r3l16 allein die fernere Einbringung des Burgunds
+#facs_250_r3l17 und Pavoyl. Gebächstes, fernerehin und ins
+#facs_250_r3l18 jonge
+#facs_250_r6l1 480
+#facs_250_r6l2 Lange es Unßbeliebig, gestadten bollen, Mithin
+#facs_250_r6l3 dann zu diesem End mitkommenden Truck zu Mä¬
+#facs_250_r6l4 nigliches Nachricht ausgehen zu laßen ich
+#facs_250_r6l5 l'autre passe de l'Etat d'hautre, comme s'il ne s'est
+#facs_250_r6l6 Mit Zustandung nun genügsamer Exemplarien
+#facs_250_r6l7 davon, befehlen Wir Euch solche nicht allein offentl.
+#facs_250_r6l8 von Canzlen verlesen, sonder auch gelrohnter Orte
+#facs_250_r6l9 sind besonders auf den Korn Mördeten Enbere
+#facs_250_r6l10 Amts) anschlagen zu laßen. Dat. den 23ten April 1739
+#facs_250_r6l11 Placard
+#facs_250_r6l12 Nous L'Advoyer, Petit et Grand Conseil
+#facs_250_r6l13 de la Ville et Republique de Berne, Savoir faisons: Comme
+#facs_250_r6l14 les circonstances des Tems, qui Nous avoient obligé le 12e
+#facs_250_r6l15 Août 1757, pour le soulagement de tous ceux, qui des
+#facs_250_r6l16 pendent de Nôtre Gouvernement, non seulement de
+#facs_250_r6l17 defendre la sortie des grains hors du Pais, mais
+#facs_250_r6l18 encore de permettre la libre entrée du Bled'étrange
+#facs_250_r6l19 dans Nos Etats ont par un Effet de la Bonté Divine
+#facs_250_r6l20 tellement changé en bien, que l'on trouve achullement
+#facs_250_r6l21 Partout
+#facs_250_r7l1 nts
+#facs_250_r7l2 em
+#facs_250_r9l1 fohlen 86
+#facs_251_r2l1 Partout dans les terres de nôtre Obeüssance des
+#facs_251_r2l2 Grains en Quantité suffisante, et à un prix raisonner
+#facs_251_r2l3 nable: Nous avons jugé necessaire, pour l'avantage
+#facs_251_r2l4 du Public, de revoquer en Partie Nôtre dit Man,
+#facs_251_r2l5 dat du 12 août 1757., en deffendant absolument, à
+#facs_251_r2l6 compter des ce jour, l'Entrée de toute sorte de
+#facs_251_r2l7 grains et Bleds étrangeres dans Nos Etats, sous
+#facs_251_r2l8 Peine de Confiscation de la Denrée; a L'Exception
+#facs_251_r2l9 cependant des Grains de Bourgogne et de Savoy
+#facs_251_r2l10 dont Nous permettons L'Entrée ulterieurement
+#facs_251_r2l11 pour Nôtre Pais de Vaud seulement, et aussi long¬
+#facs_251_r2l12 tems, que Nous le trouverons convenable.
+#facs_251_r2l13 À ces causes, Nous mandons et comandons à tous
+#facs_251_r2l14 Nos Hauts et Bas„ Officiers, Inspecteurs, Peagers et
+#facs_251_r2l15 Sujets, de Veiller, a ce que la Presente Defense soit
+#facs_251_r2l16 exactement et rigoureusement executée et observée.
+#facs_251_r2l17 Partant Nous Ordonnons a Nos Saillifs de punir
+#facs_251_r2l18 les Acheteurs ou Vendeurs, qui seront trouvés en
+#facs_251_r2l19 faute
+#facs_251_r3l1 4821
+#facs_251_r3l2 faute à cet Egard, de la maniere ci dessus énoncée, sans
+#facs_251_r3l3 distinction de l'Etranger ou du sujet: Et devra un
+#facs_251_r3l4 tiers de cette Confiscation Nous échoit en propre, une
+#facs_251_r3l5 tiers au Baillif du lieu, où le Blet étranger aura
+#facs_251_r3l6 été decouvert et arrêté, et enfin un tiers au Delateur
+#facs_251_r3l7 auquel au Surplus, on promet le Secret
+#facs_251_r3l8 Bien entendu néantmoins, que dans cette Defense
+#facs_251_r3l9 ne doivent point être compris les grains étrangers,
+#facs_251_r3l10 qui à la date de la Publication de cette Ordonnant
+#facs_251_r3l11 se trouveront actuellement dans le Pais, et dont la
+#facs_251_r3l12 Vente sera permise à tout le Monde, avec la Précaue
+#facs_251_r3l13 tion seulement, que ceux, qui auront de ce Fles
+#facs_251_r3l14 étranger, soient tenus de lindiquer à Nôtre Baillop
+#facs_251_r3l15 du Lieu, auquel ils feront compter par Ecrit, aussi
+#facs_251_r3l16 Souvent que besoin sera, ou, combien, et à qui ils
+#facs_251_r3l17 en ont vendu.
+#facs_251_r3l18 Et come la Presente Ordonnance ne regarde
+#facs_251_r3l19 uniquement que l'Entrée des Grains étrangers
+#facs_251_r3l20 dans
+#facs_251_r7l1 fohlen 86
+#facs_252_r1l1 183. Dans Nos Terres, Nous ne pretendons rien
+#facs_252_r1l2 -
+#facs_252_r1l3 changer à Nôtre Mandat du 12e Août 1737
+#facs_252_r1l4 quant à la sortie du Bledhors de Nos Païs,
+#facs_252_r1l5 Laquelle doit rester deffenduë et interdite à
+#facs_252_r1l6 un chacun, sous la Peine y enoncée, pour
+#facs_252_r1l7 aussi longtems quil nous plaira.
+#facs_252_r1l8 À cet effet et pour que Persone ne puisse prétexte
+#facs_252_r1l9 cause d'ignorance, la Presente Ordonnance
+#facs_252_r1l10 doit être publiquement Luë en Chaire, et affichée
+#facs_252_r1l11 non seulement aux lieux accoutumes, mais parti
+#facs_252_r1l12 culierement la, ou les Marchés de Medse tiennent
+#facs_252_r1l13 Donné en nôtre Grand Conseil ce 23e Avril
+#facs_252_r1l14 1759

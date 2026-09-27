@@ -1,0 +1,185 @@
+Law ID: BER.01.001.3922
+Name: Wegen Beziehung des Zolls und Trattengelts.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 174/174
+# High similarity (>=50%): 172
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_86_r1l1 166.
+#facs_86_r1l2 Collat
+#facs_86_r1l3 NB ist sub
+#facs_86_r1l4 16 Aug. 1746
+#facs_86_r1l5 92. für dat
+#facs_86_r1l6 v. Landrevocier
+#facs_86_r1l7 leerde
+#facs_86_r1l8 indame die Zoll
+#facs_86_r1l9 komischen solicat noch
+#facs_86_r1l10 dem Paris beziehen
+#facs_86_r1l11 stellen, nach dem
+#facs_86_r1l12 Acten Gebrauch
+#facs_86_r2l1 An
+#facs_86_r2l2 Alle Teut sch und v. Amtleuth vier Stält¬
+#facs_86_r2l3 Frey weibel und ainan. Hemp. ze dell an
+#facs_86_r2l4 Mehlöhl des Kaufhauses
+#facs_86_r2l5 Wegen beziehung des Zolls und Tralten Gelts
+#facs_86_r2l6 Schultheisund Raht
+#facs_86_r2l7 Obwohlen durch Unsere hievorinen ausgeschei¬
+#facs_86_r2l8 bene Ordnungen, bis es mit beziehung des
+#facs_86_r2l9 Zolls und trattengelts bey durchfuhr frönder
+#facs_86_r2l10 und auch byd quösischer Pferdten solle gehalten
+#facs_86_r2l11 Eyn, So haben ich dennoch wir eine Zeit dahero
+#facs_86_r2l12 Wahrgenommen, daß desen ohngeacht kommt
+#facs_86_r2l13 in anderen unseren Amtleuthen, deßen
+#facs_86_r2l14 halb bey Uns um Begleisung angehalten
+#facs_86_r2l15 worden; welches Uns dan veranlaßet auff
+#facs_86_r2l16 ein Frisches consultieren zu laßen, was für
+#facs_86_r2l17 eine deütliche vorschrift allen Unseren
+#facs_86_r2l18 Amtleüthen Teütschundweltscher Landen
+#facs_86_r2l19 darüber zu geben seyn wolle, damit die¬
+#facs_86_r2l20 Ordnungen nicht in ohngleichen verstanden
+#facs_86_r2l21 gezogen werden, und ein jeder büse bieer
+#facs_86_r2l22 sich hierin zu verhalten habe; Allermaßen
+#facs_86_r2l23 auft Uns hinterbrachtes Gutachten Wir zu
+#facs_86_r2l24 einer künfftigen Regul und Richtschnur
+#facs_86_r2l25 hiemit
+#facs_86_r7l1 167
+#facs_86_r7l2 angesehen Statuiert und geordnet haben wollen,
+#facs_86_r7l3 daß von Pferdten die in Eydgülen Ohrten erhand
+#facs_86_r7l4 let worden, und durch unsere Land geführt,
+#facs_86_r7l5 berden nach bis heriger übung für den Zoll
+#facs_86_r7l6 per Stuk ein Kreutzer für den Transit aber von
+#facs_86_r7l7 jedem Pferd siben und ein halben baten solle,
+#facs_86_r7l8 und möge geforderet und bezahlt werden
+#facs_86_r7l9 von Pferdten dann die in Unseren Landen
+#facs_86_r7l10 und Gebiethen angebauft worden, und aus
+#facs_86_r7l11 selbigen abgeführt worden, soll neben dem Zoll
+#facs_86_r7l12 annoch das sortie oder tralten Gelt, als 15 Bz. von
+#facs_86_r7l13 Pferd gefordert und verrechnet werden.
+#facs_86_r7l14 Was aber Eyd gn. für Ihren eigenen Hausbrauch
+#facs_86_r7l15 ankaufften, und darfür certificat von Hans
+#facs_86_r7l16 werden auffweisen können, für solche Pferdt
+#facs_86_r7l17 soll nur der Zoll bezahlt werden.
+#facs_86_r7l18 So viel endlichen er seinge Pferdt anschet, die
+#facs_86_r7l19 außerth der Eyd gn. gekaufft worden, und ledigl.
+#facs_86_r7l20 durch Unsere boltmäßigkeit in Außere Dienst¬
+#facs_86_r7l21 passieren, derenthalbist Unser Will und
+#facs_86_r7l22 befehlich, das auff vorweisende authentische
+#facs_86_r7l23 certifieat das Sie äußerth der Eydgnoßschafft
+#facs_86_r7l24 angebaufft worden, man sich bey Ihrer Durchfuhr
+#facs_86_r7l25 an den Hollstälten mit dem Zollallein Ald
+#facs_86_r7l26 ein Creicher vom Pferdt benügen sollen,
+#facs_86_r7l27 deßen
+#facs_87_r1l1 166.
+#facs_87_r1l2 Collath
+#facs_87_r1l3 NB. ist sub
+#facs_87_r1l4 16. Aug. 1746
+#facs_87_r1l5 12. Für dat
+#facs_87_r1l6 V. Land revocier
+#facs_87_r1l7 wurde
+#facs_87_r1l8 indama die Zoll¬
+#facs_87_r1l9 Comisen soliret nae
+#facs_87_r1l10 dem Paris beziehen
+#facs_87_r1l11 stellen. Nach dem
+#facs_87_r1l12 Acten Gebrauch
+#facs_87_r2l1 An
+#facs_87_r2l2 Alle Teüt sch und W. Amtleüth vier Stält¬
+#facs_87_r2l3 Freybewelund ainan. Item per zedell an
+#facs_87_r2l4 Mehlohl des Kaufhauses
+#facs_87_r2l5 Wegen beziehung des Zolls und Tralten Gelts
+#facs_87_r2l6 Schultheisund Raht
+#facs_87_r2l7 Obbohlen durch Unsere hievormen ausgeschei¬
+#facs_87_r2l8 bene Ordnungen, wie es mit beziehung des
+#facs_87_r2l9 volls und trattengelts bey durchfuhr frönder
+#facs_87_r2l10 und auch eyd Gnösischer Pferdten solle gehalten
+#facs_87_r2l11 seyn, so habend ich dennoch wir eine Zeit daher
+#facs_87_r2l12 ahrgenommen, daß desen Ohngeacht voneint
+#facs_87_r2l13 und anderen unseren Amtleuthen, deßent¬
+#facs_87_r2l14 halb bey uns um Begleisung angehalten
+#facs_87_r2l15 worden; welches und dan veranlaßet auf
+#facs_87_r2l16 ein Frisches Consultieren zu laßen, las für
+#facs_87_r2l17 eine reütliche vorschrifft allen Unseren
+#facs_87_r2l18 Amtleüthen Teütschund Weltscher Landen
+#facs_87_r2l19 harüber zu geben seyn solle, damit die¬
+#facs_87_r2l20 Ordnungen nicht in ohngleichen Versand¬
+#facs_87_r2l21 gezogen werden, und ein jeder büse bieer
+#facs_87_r2l22 sich hierin zu verhalten habe; Allermaßen
+#facs_87_r2l23 auf Uns hinterbrachtes Gutachten Wir zu
+#facs_87_r2l24 einer bünfftigen Regul und Richtschnur
+#facs_87_r2l25 hiemit
+#facs_87_r3l1 3e
+#facs_87_r3l2 4:
+#facs_87_r6l1 167
+#facs_87_r6l2 angesehen Statuiert und geordnet haben wollen,
+#facs_87_r6l3 daß von Pferdten die in Eyd gul. Ohrten erhand¬
+#facs_87_r6l4 let worden, und durch Unsere Land geführt
+#facs_87_r6l5 berden nach bis heriger übung für den Zoll
+#facs_87_r6l6 et Stub ein Kreutzer, für den Trunsit aber von
+#facs_87_r6l7 jedem Pferd siben und ein halben batzen solle.
+#facs_87_r6l8 und möge geforderet und bezahlt werden
+#facs_87_r6l9 von Pferdten dann die in Unseren Landen
+#facs_87_r6l10 und gebiethen angekauft worden, und auch
+#facs_87_r6l11 selbigen abgeführt worden, soll neben dem Zoll
+#facs_87_r6l12 moch das sortie oder tralten Gelt, als & 5 Bz. von
+#facs_87_r6l13 Pferd geforderet und verrechnet werden.
+#facs_87_r6l14 Was aber Eyd gn. für Ihren eigenen Hausbrauch
+#facs_87_r6l15 ankauffen, und darfür certificat von Haus
+#facs_87_r6l16 werden auffweisen können, für solche Pferdt
+#facs_87_r6l17 soll nur der Zoll bezahlt werden.
+#facs_87_r6l18 So viel endlichen er jenige Pferdt ansihet, die
+#facs_87_r6l19 Zu Berth der Eyd gn. gebaufft worden, und ledigl.
+#facs_87_r6l20 durch Unsere boltmäsigkeit in Aussere Dienst¬
+#facs_87_r6l21 passieren, derenthalbist Unser Will und
+#facs_87_r6l22 befehlch, das auff vorbeisende Aulhentische
+#facs_87_r6l23 Certifieat daß Sie außerth der Eydgnoßchafft
+#facs_87_r6l24 angekauft worden, man sich bey Ihrer Durchfuhr
+#facs_87_r6l25 an den Hollstälten mit dem Zollallein als
+#facs_87_r6l26 ein Creicher vom Pferdt benügen solle.
+#facs_87_r6l27 deßen
+#facs_88_r3l1 alles
+#facs_88_r3l2 Desen nun du sogleich gegen übrigen Unseren
+#facs_88_r3l3 Amtl. T. und W. Lands auch beschieht) hiemit
+#facs_88_r3l4 zu behöriger Befolgung berichtet wirst, mit
+#facs_88_r3l5 befelch sothanes Unseremsehen in den Schloß¬
+#facs_88_r3l6 bücheren zu bünfftigem verhalt seines
+#facs_88_r3l7 ohrts einschreiben zu lasen. Wie zu thues
+#facs_88_r3l8 Datum den 30th Apr 1746.
+#facs_88_r3l9 An
+#facs_88_r3l10 Alle Weltschen Amtleüth
+#facs_88_r3l11 Zegleit Schreiben der Chorgricht Satzung —
+#facs_88_r3l12 Schultheis Rähtund Burger¬
+#facs_88_r3l13 Wiebohlen durch vielfaltige von Unseren Lobl.
+#facs_88_r3l14 Regiments vorderen und uns in Alten un¬
+#facs_88_r3l15 neüben Zeithen ausgebene Mandat Satzun,
+#facs_88_r3l16 ordnungen vorgeschriben ist, wie Unserezu
+#facs_88_r3l17 Stalt und Land verordnete Chorgericht, in
+#facs_88_r3l18 Ehesachen und anderen vorfallenden Geschäfti-
+#facs_88_r3l19 sich verhalten sollen; So haben jehdoch Miefür
+#facs_88_r3l20 gut und nohtwendig angesehen, dises alles¬
+#facs_88_r3l21 früscher Dingen zu übersehen, aufgegen¬
+#facs_88_r3l22 wertige Zeithen einrichten, zusammen
+#facs_88_r3l23 eine Satzung tragen, solche in offenen trut¬
+#facs_88_r5l1 169
+#facs_88_r5l2 auch in Französischer Sprach ausfertigen, zu jeder¬
+#facs_88_r5l3 mens nachricht und verhalt, in unsere Schlößer
+#facs_88_r5l4 und Pfrudhaüser die erforderlichen Exemplavia
+#facs_88_r5l5 legen laßen; Inmaßen und darbegen beitläufig
+#facs_88_r5l6 beit dieser müwen Satzung selbe nicht füglich auff
+#facs_88_r5l7 den Canzlen verlesen beiden Bau, jederman
+#facs_88_r5l8 andurch verständiget wird, das in Unseren
+#facs_88_r5l9 Schlößeren und Pfründhäuseren solche von jeder¬
+#facs_88_r5l10 mann eingesehen und belesen werden köne,
+#facs_88_r5l11 Dir demenach befehlende, nicht die Chor Gericht
+#facs_88_r5l12 Sazung sonder dieses Unser ausschreiben zu
+#facs_88_r5l13 eines jeden büsenschaft von Cantzlen verkün¬
+#facs_88_r5l14 den zu laßen. Datum den 9ten May 1746.
+#facs_88_r5l15 5. von angeschloßenen Exemplarien diser
+#facs_88_r5l16 Neüben in französischer Sprach übersetzten
+#facs_88_r5l17 satzung birst du ein Doppel für Dich behalten
+#facs_88_r5l18 das andere denen Documenten des Schloßes
+#facs_88_r5l19 beÿlegen; dene ein doppel jedem Parc Herrn
+#facs_88_r5l20 Deines Amts und ein doppell jedem Chor
+#facs_88_r5l21 gericht zu stellen lasen. Datumut Supra¬

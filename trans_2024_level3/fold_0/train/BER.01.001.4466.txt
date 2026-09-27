@@ -1,0 +1,84 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 76/77
+# High similarity (>=80%): 69
+# Low similarity (<80%): 7
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4466
+#facs_79_r6l15 Somme Früchte zu versilberen ihnen anbefohlen
+#facs_41_r4l3 a-
+#facs_211_r3l10 Alle Teütsch und Welsche Herren Amtleüt und
+#facs_79_r6l13 Schaffner, da Obrigkeitl. Getreid ligt, item Stifft
+#facs_79_r6l14 Korn Amt und Mushafen, respectii des Habers etc.
+#facs_79_r6l15 Somme Früchte zu versilberen ihnen anbefohlen
+#facs_20_region_1629824250145_416l_1 Schultheiß Räht und Bürgers
+#facs_79_r6l17 Über den von Unseren Fürgeliebten Mit¬
+#facs_175_r5l1 auch
+#facs_79_r6l19 Rähten denen Herren Welsch) Sekelmeister und
+#facs_79_r6l20 Venneren und verordneten Korn Camer Uns¬
+#facs_79_r6l21 gemachten Vortrag; betreffend das auf
+#facs_79_r6l22 Martinj 1778. eingegangene Obrigkeitliche
+#facs_79_r6l23 Getreid, haben Wir gut befunden und erkent¬
+#facs_122_r5l5 Es solle vor einmahl, und biß auf Unser
+#facs_82_r4l10 e
+#facs_80_r1l1 154
+#facs_80_r1l2 4 ans Welschland
+#facs_218_r4l15 von dem
+#facs_122_r4l5 #an die Unter¬
+#facs_80_r1l5 benberg, Lenzburg
+#facs_122_r4l10 und Tiberstein allein
+#facs_38_r2l23 Aller Kernen. /
+#facs_80_r1l8 so wie auch
+#facs_80_r1l10 an diese 3.
+#facs_80_r1l11 Amter allein
+#facs_122_r5l6 weiteren bestimten Befehl, weder an
+#facs_80_r2l2 noch Waizen, nicht das mindeste Verbauff, von
+#facs_80_r2l3 dem Roggen und Mischelhorn dann, nur die
+#facs_80_r2l4 Gelffte abgestoßen, hingegen aber die Somme
+#facs_80_r2l5 Früchte, welche nach Abzug der Ordinari, und
+#facs_38_r2l22 quasi-Ordinarii Ausgaben, von sothanem Obrig¬
+#facs_80_r2l7 keitlichen Getreid vorschießen werden, gänzlich
+#facs_80_r2l8 versilberet werden, der Meinung jedoch, daß
+#facs_38_r2l27 dato an, biß auf den 1ten May nächst künftig.
+#facs_80_r2l10 nur die erstere Helfte der Sommer Früchten
+#facs_80_r2l11 und so dann erst mit Anfang des May Monat
+#facs_80_r2l12 die andere Helfte) der Kernen aber von mir
+#facs_80_r2l13 auf abgestoßen und verbaufft werden solle
+#facs_80_r2l14 Worbey Unser Will und Befehl in fernerem
+#facs_80_r2l15 dahin gehet: daß in ansehen dieser Verban¬
+#facs_164_r4l8 den Früchten, die Verzeigung der Schüttenen
+#facs_164_r4l9 von seiten Unserer für geliebten Mit Rähten
+#facs_351_r3l21 der Herren Sebelmeister und Wener
+#facs_80_r2l19 erbartet, dabey die gewöhnlichen Praecant
+#facs_80_r2l20 nen genommen, mithin das zu verkauffend
+#facs_80_r2l21 Getreid nicht denen Händleren En bloc verste¬
+#facs_80_r2l22 chen, sondern (mit ausnahm des Fabers
+#facs_80_r2l23 Desthalb das fern
+#facs_316_r4l18 hienach folgen wird.
+#facs_221_r1l34 an die Amt¬
+#facs_80_r3l2 Müsthagen Item Interlas¬
+#facs_80_r3l3 einzig und St. Inhauser
+#facs_80_r3l4 Stallin, Septr.
+#facs_80_r4l1 155.
+#facs_80_r4l2 zu kleinen Kaufen in laufendem Preis ver¬
+#facs_80_r4l3 kaufft, und von denen angewiesenen Schüttenen
+#facs_80_r4l4 vor allem aus das mindest behältlichsten
+#facs_80_r4l5 Getreu abgestoßen, ins besonders dann die
+#facs_38_r4l10 Sommerfrücht vorzüglich zu Anblühnung der
+#facs_80_r4l8 Felderen hingegeben, auch erst denzümelen
+#facs_80_r4l9 völlig verkaufft werden sollen, wann die Sommer
+#facs_80_r4l10 Saat in Eüerem Amt, und in denen Gegenden
+#facs_80_r4l11 von welchen der Saamen dazu in demselben
+#facs_80_r4l12 angekauft wird, vollkommen wird besorget seyn
+#facs_80_r4l13 + den Haber ins besonders betreffend, ist Unse¬
+#facs_80_r4l14 Wille, daß Ihr das zu verkaufen habende
+#facs_80_r4l15 in der Stadt ligende Quantum, weder denen
+#facs_80_r4l16 Händleren versprechen, noch verbauffen- sondern
+#facs_80_r4l17 solches zu speisung des hiesigen Korn Markts alda
+#facs_80_r4l18 ausstellen, öffentlich feyl bieten und zu kleine
+#facs_80_r4l19 käuffen verkaufen laßen sollet:/ Welchem
+#facs_80_r4l20 nach Ihr Euch zu verhalten wissen, und über
+#facs_80_r4l21 das erlösende uns gebührende Rechnung tragen
+#facs_80_r4l22 werdet. Dat. d. 22ten Febr. 1779.
+#facs_178_r8l1 en

@@ -1,0 +1,48 @@
+Law ID: BER.01.001.2038
+Name: Der verpottnen Reichsmüntzen halb Recharge.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 37/37
+# High similarity (>=50%): 37
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_64_r3l14 gahn Erlenbach auff Zinstag vnd Mitwochen den
+#facs_64_r3l15 25. mnd 26. Maii
+#facs_64_r3l16 Chim Oberhoffen, Wimmis, Gurtzelen, Churzen, Wabern,
+#facs_64_r3l17 Wanzenriedt, Mürj. Münsingen, Viglen vndt Boltingen
+#facs_64_r3l18 auff Sonstag den 27. May
+#facs_64_r3l19 Zweysimen, Sanen. auff Freitag und Sambstag den ex
+#facs_64_r3l20 und 29. Maii
+#facs_64_r3l21 Nulmen auff Zinstag und Mitmachen den 1. und 2. Junii
+#facs_64_r3l22 brutingen mdt Wimis. Auff Dorstag undt Freitag
+#facs_64_r3l23 den 3. und 4. Junii
+#facs_64_r3l24 Interlacken auff Montag und Zinstag den 7. und 8. Junii
+#facs_64_r3l25 Verlacken, und ersten Haßler
+#facs_64_r3l26 Oberhoffen, auff Mit Wochen den 9ten Junii allein wegen Ober¬
+#facs_64_r3l27 Hoffschen Oberhoffen. Theu-Münsinges. Bigten-Mürch¬
+#facs_65_r2l1 An die ander Ergeüwischen
+#facs_65_r2l2 Ambtleüth, und 4. Stadt
+#facs_65_r2l3 Der verpachtnen ReichsMuntzen halb
+#facs_65_r2l4 Recharge
+#facs_65_r2l5 Schwedtheiß und Raht der Stadt Bern
+#facs_65_r2l6 Wie wie bereits anderem 21. Decembris 1674.
+#facs_65_r2l7 die vnseren vor den schädlichen geringhäetigen
+#facs_65_r2l8 Reichs- Müntzen, nebend den so genanten Schweizer
+#facs_65_r2l9 Ortlinen, Verwahrnen laßen, bey brürechend
+#facs_65_r2l10 Wie die hiemit über das so von unseren U. L. E.
+#facs_65_r2l11 der Stadt Basel, ver deswegen zugeschriben
+#facs_65_r2l12 worden, von neüwem, in Deiner Verwaltung
+#facs_65_r2l13 Die Anstalt mit solcher Handobhaltung hethen,
+#facs_65_r2l14 das ob dem damals außgeschribnen vndt
+#facs_65_r2l15 publicierten Verpacht, rüchten ernster gehalten,
+#facs_65_r2l16 vnd dardurch die einschleit- und annemung
+#facs_65_r2l17 solcher nachtheiligen Müntzen, sambt den
+#facs_65_r2l18 Schreicher Ordlinen, verhüetet werde.
+#facs_65_r2l19 Sonderlich bei beuorstehendem Zurzachmerit,
+#facs_65_r2l20 Dahin dergleichen Münzen vfert Zweiffel
+#facs_65_r2l21 gebracht werden. Wie Du dan hiemit
+#facs_65_r2l22 Zethun wüßen Wirst, und mit ver¬
+#facs_65_r2l23 Datum 10. Maii 1675.

@@ -1,0 +1,47 @@
+Law ID: BER.01.001.3664
+Name: Die Bätteljegenen [...] aussschreiben.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_494
+# Matched: 36/36
+# High similarity (>=80%): 36
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_234_r3l2 Romainmostier
+#facs_234_r3l3 Jaque Begnens de Vaution, Rt
+#facs_234_r3l4 anoch die Pension von
+#facs_234_r3l5 A. 1730. zu bezieh¬
+#facs_234_r3l6 Aubone
+#facs_234_r3l7 Pierre Magonet to aubone
+#facs_234_r3l8 Zedel an H. Großweibel
+#facs_234_r3l9 Samuel Meyer von Bern,
+#facs_174_r5l2 Den
+#facs_234_r3l11 Alle T: und W. Ambtleuth 4 Stadt Prig bey
+#facs_234_r3l12 Amen, Item p Zedel
+#facs_234_r3l13 Mehlohl. der Bürger
+#facs_234_r3l14 Die Bäddeljagenen auf nach¬
+#facs_10_r2l5 außschreiben.
+#facs_234_r3l16 folgende Ty¬
+#facs_210_r3l9 Schultheiß und Raht der p
+#facs_234_r3l18 Collal: Weilen des Gottes und Stellehns
+#facs_234_r3l19 Gesins sich wider ins Land biefft.
+#facs_235_r1l1 H62
+#facs_235_r2l1 alß habend Wir zu deren Hinter¬
+#facs_235_r2l2 treibung eine Tödzelzäg¬
+#facs_235_r2l3 zustellen guetfunden, und dar¬
+#facs_235_r2l4 für diß Jahr bestimbt den 7
+#facs_235_r2l5 und 30. May, denn d. 8. 16.
+#facs_235_r2l6 und 38t. Brochmonath, und
+#facs_235_r2l7 6. 11. und 30ten July nechst¬
+#facs_235_r2l8 bünffte, mit dem ernstge¬
+#facs_235_r2l9 nienten Befelch, daß selbige
+#facs_235_r2l10 geflißen verrichtet, daß halb
+#facs_235_r2l11 nach Inhalt Unsers Mandats
+#facs_235_r2l12 von Ao. 1727. verfahren, die
+#facs_235_r2l13 Tagen aber biß zur execution
+#facs_235_r2l14 jetzweilen geheim zu halten.
+#facs_235_r2l15 berdend, wie zu thuen
+#facs_235_r2l16 Dalg den 20ten Aprilis
+#facs_235_r2l17 1933

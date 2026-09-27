@@ -1,0 +1,580 @@
+Law ID: BER.01.001.3241
+Name: Schreiber Mandat im W. Land.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 569/569
+# High similarity (>=50%): 554
+# Low similarity (<50%): 15
+# Not found: 0
+#
+#facs_136_r1l1 248.—
+#facs_136_r1l2 6 d
+#facs_136_r2l1 Schreiber Mandat, Am W. Leus
+#facs_136_r2l2 a
+#facs_136_r2l3 Schuldtheis und Rath der Stacs Herr
+#facs_136_r2l4 Unßeren grueß bevor Lieber und getrauwen
+#facs_136_r2l5 Amtsmann.
+#facs_136_r2l6 Demnach wünschen sich einer geraume
+#facs_136_r2l7 Zeith daher durch die erfahrung ersehen müßen,
+#facs_136_r2l8 waß maßen die allzugroße und von Tag zu
+#facs_136_r2l9 Tag zunemmende quantitet der Schreibere im
+#facs_136_r2l10 weltschen Land unseren dorthigen undethanen
+#facs_136_r2l11 mehr zu Ihrem undergang allß aber auff
+#facs_136_r2l12 nemen gereiche; Indeme schon ein guter
+#facs_136_r2l13 Theil derselben, theils aus ignorantz solchen
+#facs_136_r2l14 mehr aus gunst allß Capacitel halber
+#facs_136_r2l15 offt von den examinatoren Im weltschen Land
+#facs_136_r2l16 passierter und angenommener Schreiberein,
+#facs_136_r2l17 Theils dann wegen nicht betrachtung und
+#facs_136_r2l18 abstattung Ihrer kunstanhängigen pflichten,
+#facs_136_r2l19 in vielfaltige weitläufigkeiten und Proces¬
+#facs_136_r2l20 gewiesen, und destwegen Ihnen unerträglich
+#facs_136_r2l21 aufgefallene Costen, mehrmahlen in
+#facs_136_r2l22 die äußerste roth uns Armuth gesetzten
+#facs_136_r3l1 249
+#facs_136_r3l2 worden; Habend Wir, allß die Äußerer
+#facs_136_r3l3 Vnderthanen heyl und wohlstand immerhin
+#facs_136_r3l4 nahe zu hertzen gefaßet, wie auch zu Steurung
+#facs_136_r3l5 aller dieß Orths eingeschlichener Mißbrauchen
+#facs_136_r3l6 und hinkünftiger gäntzlicher Vorbiegung
+#facs_136_r3l7 dießers jeh mehr und mehr eintringenden
+#facs_136_r3l8 Übels zu kräftigeren und zulänglichen mitten
+#facs_136_r3l9 zuschreiten, Unß benöthiget gesehen; zu dem End
+#facs_136_r3l10 und damit künfftighin nicht, wie vorhin
+#facs_136_r3l11 beschechen, untüchtige subjecta zu Schreibenem.
+#facs_136_r3l12 auch die
+#facs_136_r3l13 creiert, für das gegenwärtige da
+#facs_136_r3l14 nöthigen hilffs-Mittel zu vereingerung der
+#facs_136_r3l15 dießmahlen sich befindlichen großen mange
+#facs_136_r3l16 der unerfahrnen Schreiberen ergriffen werden
+#facs_136_r3l17 kömmen, folgendes ansechen zu thuen gutfunden.
+#facs_136_r3l18 No. Sollend alle die Jenigen, so hinkünfftig sich
+#facs_136_r3l19 zu Schreiberen passieren zu laßen, und die
+#facs_136_r3l20 Notariat kunst zu neben gesinnet, vor
+#facs_136_r3l21 allen Dingen einen saubern und läslichen
+#facs_136_r3l22 buchstaben zu führen wüßen.
+#facs_137_r2l1 2° Solland Sie nicht unerkant seyn in
+#facs_137_r2l2 läsung alter Schriften und Caracterein.
+#facs_137_r2l3 3e. Sollans Sie auch genot seyn in der Rechenkunst
+#facs_137_r2l4 4. Wird erfordert, daß Sie neben dem Contu
+#facs_137_r2l5 mier eine gnugsame bekantschafft habind
+#facs_137_r2l6 aller vornembsten von Unß auß ergangene,
+#facs_137_r2l7 Satz, und Ordnungen, samteiner vollständigen
+#facs_137_r2l8 Wüßenschafft aller gewohnten und nöthigen
+#facs_137_r2l9 formalilets.
+#facs_137_r2l10 5° Sollend sie gelehrt seyn in ansechen der
+#facs_137_r2l11 pflichten, die sie so wohl gegen Unß der
+#facs_137_r2l12 Hohen Oberkeit qua Notarii publici schuldig
+#facs_137_r2l13 allß gegen den Partheyen, die von Ihnen
+#facs_137_r2l14 etwas zu stipulieren zulaßen willens.
+#facs_137_r2l15 6o Ist. Unser will und meinung, daß alle
+#facs_137_r2l16 die Jenigen, so zu geschwornen Schreiben
+#facs_137_r2l17 angenommen zu werden verlangend, in
+#facs_137_r2l18 der lateinischen Sprach versiert, zu dem End¬
+#facs_137_r2l19 auch einen Schein oder attestatum vor¬
+#facs_137_r4l1 25 x
+#facs_137_r4l2 weisen sollend, wie daß sie Verdienter maßen
+#facs_137_r4l3 ad lectiones publicas promoviert, oder deßen würdig
+#facs_137_r4l4 seÿgid.
+#facs_137_r4l5 Sollauch keiner befüegt seyn sich ansehen der
+#facs_137_r4l6 pflichten, die sie so wohl gegen Unß der Sachen Obrigkeit
+#facs_137_r4l7 qua notarii publii schuldig, allß gegen den Partheyen
+#facs_137_r4l8 die von Ihnen etwas stipulieren zu laßen willens umb
+#facs_137_r4l9 die examination angeben zu können, Er habe dann
+#facs_137_r4l10 einen actum necessitatis /: fundiert auff unßer
+#facs_137_r4l11 dießmakliges Reglement, welches den Casum necessi¬
+#facs_137_r4l12 tatis außdrucket:/ von dem Orth da er zu functionieren
+#facs_137_r4l13 gesinnet, auffzubeisen
+#facs_137_r4l14 Ehe und bevor auch einicher zu dem Examen admittiret
+#facs_137_r4l15 werde, ist Unser will uns meinung, daß der oder
+#facs_137_r4l16 all
+#facs_137_r4l17 die, drey lang vorher in einer wohlbestellten Schreib¬
+#facs_137_r4l18 stuben gestanden seyen: zumahlen so wohl die praxis alles
+#facs_137_r4l19 die Theoria zu einer guten Foderen erfordnet wird.
+#facs_137_r4l20 mit dem Heiteren und austrücklichen Befehl an alle
+#facs_137_r4l21 hierzubestellte examinatoren, derenthalben wie durch
+#facs_137_r4l22 particular ordres, by unseren Amtleüthen
+#facs_138_r2l1 Die nöthige Vorsehung gethan, daß Sie alle die
+#facs_138_r2l2 jenigen, so sich examinierten zulaßen willens, über
+#facs_138_r2l3 alle obangeregte Articul nach aller rigor und
+#facs_138_r2l4 ohne ansechen der persohn examinierind.
+#facs_138_r2l5 Wann nun in einem Ambt, eine oder mehr
+#facs_138_r2l6 notariat, stella, ledig, und es hiemit nothwendig
+#facs_138_r2l7 die sich angebende zu examinieren, solches auch ver¬
+#facs_138_r2l8 geschribener maßen unpartheyisch verrichtet
+#facs_138_r2l9 worden ist, so solland die, so vohl Capacitirt be¬
+#facs_138_r2l10 funden worden sind, mit erforderlichen scheinen
+#facs_138_r2l11 auff gleichen Tag vor uns zu erscheinen gewisen
+#facs_138_r2l12 werden, umb den oder die jenigen, so unß gefellig,
+#facs_138_r2l13 Zu admittieren und mit gewohnter Patenten zu
+#facs_138_r2l14 Versechen:
+#facs_138_r2l15 Wir haben auch beyzufüegen unmbgänglich
+#facs_138_r2l16 nöthig funden, und hiemit unseren imediat u
+#facs_138_r2l17 verthanen beltschen Lands gäntzlichen Arbottenn
+#facs_138_r2l18 sich hinder den gemeinen ämteren examinieren und
+#facs_138_r2l19 zu schreiberen passieren zu laßen, wollend hiemit
+#facs_138_r2l20 gehebt haben, daß ein jeder hinder dem Amt
+#facs_138_r2l21 sich examiniren laße, sind es welchem Er qua
+#facs_138_r3l1 253.
+#facs_138_r3l2 Notarius publicus zu functionieren gesinnet, by poen
+#facs_138_r3l3 der nullitet aller derjenigen actuum so Er außerthalben
+#facs_138_r3l4 expedieren wurde.
+#facs_138_r3l5 In Reiteration Unßerer hievor schon mehrmahle
+#facs_138_r3l6 außgegangenen Ordnung, wollend wir allen und
+#facs_138_r3l7 jeden Schreiberen by privation Ihrer foderen gantz ernst¬
+#facs_138_r3l8 befohlen haben, dero minutes Unßeren
+#facs_138_r3l9 Amtleüthen von 3. zu 3. Monathen geflißenlich zu
+#facs_138_r3l10 übergeben
+#facs_138_r3l11 Und weilen die Erfahrung gelehret, daß ohngeacht
+#facs_138_r3l12 deß darumb auff sich habenden Eydts viel Notaris
+#facs_138_r3l13 hin und wider in übergaab dero minutes in rechter
+#facs_138_r3l14 Zeith gantz saumselig gewesen, und wann selbiges
+#facs_138_r3l15 schon beschechen, unßeren amtläuthen, oder dero einzen¬
+#facs_138_r3l16 chere, nicht allezeith bekannt gelesen, ob mit oder
+#facs_138_r3l17 enderes in rural-lechen-Erkennt, oder von Edelloder
+#facs_138_r3l18 affter leihen releviere: allß wollend Wir für immer¬
+#facs_138_r3l19 s-
+#facs_138_r3l20 hin geordnet habe, daß alle drey monath nicht
+#facs_138_r3l21 In die uncontestierlich bekante minutes von Edel
+#facs_138_r3l22 es affter, losen, sondern auch die Zweiffelhafften
+#facs_139_r1l1 Unserem Obercomissario zur examination zu¬
+#facs_139_r1l2 geschickt werden, by obterdeüter straaff der
+#facs_139_r1l3 privation der foderen; fahlß aber solche Lechen
+#facs_139_r1l4 sich befinden thäten, die nicht von dem jenigen
+#facs_139_r1l5 Amt relevierten, darinnen der schreiben geseßen,
+#facs_139_r1l6 allß soll den zumahlen der Amtsmann be¬
+#facs_139_r1l7 felchnet seyn den interessierten Lechenherren deßen
+#facs_139_r1l8 benachrichten zu laßen
+#facs_139_r1l9 Allß eine Landsschädliche sach habend wir
+#facs_139_r1l10 angesehen die Böständereyen, deren sich der meiste
+#facs_139_r1l11 Theil der schreiberen im weltschen Land an¬
+#facs_139_r1l12 Laßgen, vermitlest welchern die genü=
+#facs_139_r1l13 und einfaltige Baursamme entweders auß
+#facs_139_r1l14 ignorant oder geleine halber solcher bestanden,
+#facs_139_r1l15 men
+#facs_139_r1l16 lich große und unerträgliche proces¬
+#facs_139_r1l17 gewisen worden, auch der meiste Theil derselben
+#facs_139_r1l18 sich deßwegen deß erarmens nicht erwehren
+#facs_139_r1l19 können; vollend derowegen alle und jecken
+#facs_139_r1l20 dergleichen byständereyen gäntzlichen abgestreckt
+#facs_139_r1l21 und verbotten haben, aussert dero nächtgesibten
+#facs_139_r1l22 Mit der bijläufigen Meinung annoch in
+#facs_139_r3l1 255.
+#facs_139_r3l2 ansechen dero verwandten, daß solche nicht geschecheche
+#facs_139_r3l3 an dem Orth, da einer functionieren thuet, auch
+#facs_139_r3l4 nicht außert dem Amt, und jehweilen mit bewillig¬
+#facs_139_r3l5 gung Unßerer Amtläuthen,
+#facs_139_r3l6 Für das gegenwärtige und zu reducierung der
+#facs_139_r3l7 dießmahl sich befindlichen öffentlichen Schreiberen
+#facs_139_r3l8 Wollend wir unßeren amtleüthen weltschen Landts¬
+#facs_139_r3l9 anbefohlen haben allen Schreiberen hinder dero Ämteren
+#facs_139_r3l10 Ihre patentes abzuforderen, solche zu erdauren, ob hier
+#facs_139_r3l11 recipieret! hier den Eydt prestiert, welchen behirck in
+#facs_139_r3l12 Ihnen zur function assigniert? Und ob Sie noch alle?
+#facs_139_r3l13 und wo sich functionieren thügem sich exacte zu inquirieren.
+#facs_139_r3l14 ist, das kein
+#facs_139_r3l15 da dann unßer Will und
+#facs_139_r3l16 Schreiber hinder mehr allß einem Amt, und hinder
+#facs_139_r3l17 demjenigen, wohin die Patenten Ihne limitieret
+#facs_139_r3l18 zu functionieren befüegt seyn solle, by poen der
+#facs_139_r3l19 nullitet aller derjenigen actum, so Er außerthalben
+#facs_139_r3l20 expedieren wurde.
+#facs_139_r3l21 2o Solland alle die Jnxigen, so mit würklich bestellte
+#facs_139_r3l22 und wohl meritierte Land=gricht, Chorgericht
+#facs_140_r2l1 und Rathschreiber sind, vor unßeren Amtsman
+#facs_140_r2l2 hinder welchem Sie sitzend und functionierend
+#facs_140_r2l3 bescheiden, da novo in seiner gegenwart daß
+#facs_140_r2l4 Landschreibers selbigen Amts mit noch hinzuthuen
+#facs_140_r2l5 dreyer der Eltesten, und in der kunst wohl
+#facs_140_r2l6 erfahrnen Notariorum nach innhalt der in
+#facs_140_r2l7 dem Mandat vorgeschribenen punkten, aller
+#facs_140_r2l8 schärzte nach examiniert, und Ihrer Capacitet
+#facs_140_r2l9 halber frischer dingen auff die grob gesetzten da=
+#facs_140_r2l10 dann nach eingelangtem bericht, wie mit
+#facs_140_r2l11 und andere in ihrer Tüchtigkeit und Verrichtung,
+#facs_140_r2l12 beschaffen befunden seyn; wie die alßdann
+#facs_140_r2l13 Unseren willen eröffnen werden, wenn oder in
+#facs_140_r2l14 welchem fahl wir neüwe schreiber ane und
+#facs_140_r2l15 wollen, und wann dann künftig hin die noth¬
+#facs_140_r2l16 durfft erforderte neüwe schreiber zu creieren,
+#facs_140_r2l17 so sollend Selbige obbedeüter maßen allwegen
+#facs_140_r2l18 examiniret werden
+#facs_140_r2l19 3° Sollend alle Schreiber veltschen Landts zur
+#facs_140_r2l20 production Ihres protocols und therenalen
+#facs_140_r2l21 seith Ihrer functionierung an unabläßig
+#facs_140_r4l1 257.
+#facs_140_r4l2 angehalten werden, umb zu sehen, ob selbige in guter
+#facs_140_r4l3 Ordnung und form, und nach unßere intention
+#facs_140_r4l4 eingerichtet und geführt worden. Ob auch Sie Ihre
+#facs_140_r4l5 Minutes Vermög Ihres Eydts von 3. zu 3. monathe,
+#facs_140_r4l6 Unßeren Amtleüthen überbracht! Oder Sie harinn
+#facs_140_r4l7 nachläßig gewesen, und weilen gantz vermuthlich
+#facs_140_r4l8 lint und andere nach gehaltenem recramine
+#facs_140_r4l9 entweders incapacitiert oder in Ihrem berueff gantz
+#facs_140_r4l10 hinläßig sich erfinden werden, allß solten Unßere
+#facs_140_r4l11 Amtleüth Unß Ihrer Verrichtung treulzlich und für¬
+#facs_140_r4l12 derlich berichten; damit Selbige ich nach beschaffenheit
+#facs_140_r4l13 der sach eingestellt, oder aber derrederen völlig priviert
+#facs_140_r4l14 werden können
+#facs_140_r4l15 Weilen beobachtet worden, daß in den gemein
+#facs_140_r4l16 ämtern allß zu Ticherlitz und Grandson, seith
+#facs_140_r4l17 etwelcher Zeith daher, etwelche von Unßeren
+#facs_140_r4l18 imediat= unterthanen, und dem Bericht nach liechter
+#facs_140_r4l19 dingen zu schreibenen angenomen und passiert worden;
+#facs_140_r4l20 Allß wollend wir gehabt haben, daß alle die po.
+#facs_140_r4l21 Zeith 10 Jahren daher, hinder verdeinten beyden mediat¬
+#facs_141_r2l1 Ämtern zu Schreiben criert worden, dießmahlen
+#facs_141_r2l2 aber hinder unßer bochmäßigkeit sich befinden,
+#facs_141_r2l3 hinder demamt, dasie würcklich functionieren
+#facs_141_r2l4 obverdöntermaßen aller rigor nach solle reexam
+#facs_141_r2l5 niet werden; Vnd so sich deren befunden, die da ein
+#facs_141_r2l6 früsches examen außzustehen sich weigeren wurden,
+#facs_141_r2l7 denselben, wie allen übrigen, so sich eines reeximini
+#facs_141_r2l8 zu entschütten vermeinten, wollend wir Ihre
+#facs_141_r2l9 faderen in qualitet eines geschwornen schreiben
+#facs_141_r2l10 von nun abgestelt, und ferners zu gebrauch
+#facs_141_r2l11 interdiciert haben.
+#facs_141_r2l12 Damit aber der ainte nicht mehr allß der
+#facs_141_r2l13 andere hierinn favorisiert werden möge;
+#facs_141_r2l14 wollend wir unseren Amtleüthen weltschen
+#facs_141_r2l15 Lands auch dieser dingen befohlen haben,
+#facs_141_r2l16 die bewandnuß und wie ein jederhinder
+#facs_141_r2l17 hinder seinem Amt es dießfahlß ang¬
+#facs_141_r2l18 trosten, by Ihren Eydten Uns fürderlich zu
+#facs_141_r2l19 berichten: So habens Wir auch beobachtet,
+#facs_141_r2l20 wie daß etwelche Landschreiber Weltschen
+#facs_141_r4l1 259.
+#facs_141_r4l2 Landts neben dero Berueff, annoch Castlaeyen,
+#facs_141_r4l3 by unßeren vassatten versechen thüyend; Wann Wir
+#facs_141_r4l4 um solches allß eine mit unßerem interesse
+#facs_141_r4l5 incompatierliche Sach anseche; allß wollend Wir
+#facs_141_r4l6 statuiert haben, daß wo deren sich finden werden,
+#facs_141_r4l7 nun an Eint oder anderen Stelle auffzu¬
+#facs_141_r4l8 Von
+#facs_141_r4l9 geben und abzutretten verbunden, seyn sollend
+#facs_141_r4l10 Gleichfahlß wollend wir es geordnet haben mit
+#facs_141_r4l11 denen gerichtschreiberen, so da an denen gerichtstellen
+#facs_141_r4l12 da sie functionierend, mehr allß am Stoll betretten
+#facs_141_r4l13 Und damit so wohl künfttighin alles auch
+#facs_141_r4l14 dießmahlen alles hievorbeschribne desto kräfti¬
+#facs_141_r4l15 ger ins werck gestellt, und selbigem ohnab¬
+#facs_141_r4l16 Enderlich nachgelobt werde; Habend wir ohnent¬
+#facs_141_r4l17 bahrlich nöthig zu seyn erachtet, eine geleise
+#facs_141_r4l18 und gnugsamme anzahl Schreiber in jeden
+#facs_141_r4l19 Amt zu bestimmen uns zu reguliera¬
+#facs_141_r4l20 Wibliffer
+#facs_141_r4l21 Hinder dem mit Wiblisburg befindend sich
+#facs_141_r4l22 21. passierte Schreiber, weilen aber ein
+#facs_142_r2l1 4. gerichts, Cameren in der Statt und 6.
+#facs_142_r2l2 Grichtstellen auf dem Land zu bedienen sind
+#facs_142_r2l3 Allß findend Wir, daß zu bedienung dieser
+#facs_142_r2l4 Stellen, 5. Schreiber in der Statt und 7. in dem
+#facs_142_r2l5 übrigen Amtsbehirck sufficient seyen.
+#facs_142_r2l6 Patterlingen.
+#facs_142_r2l7 Zu abwartung der gerichtsCammeren von der Stadt
+#facs_142_r2l8 dependierend, findend Wir, daß 5. Notarii gnügst
+#facs_142_r2l9 Weilen aber in dem übrigen Amt nit mehr allß
+#facs_142_r2l10 3. gerichtstellen und 4. darzu bestelte notarii sind,
+#facs_142_r2l11 Allß wollen Wie unserseithe es auch bey
+#facs_142_r2l12 derselben bewenden laßen.
+#facs_142_r2l13 Milden
+#facs_142_r2l14 Nach gethaner und ersuchung der schreiberen hinder
+#facs_142_r2l15 diesem Amt, deren ander Zahl 49. der
+#facs_142_r2l16 gerichtstellen aber 30. der meiste Theil aber von
+#facs_142_r2l17 den vassallen dependieren, findend wir, daß in
+#facs_142_r2l18 der Stals Milde, mit zuthuen daß Landschreiben
+#facs_142_r2l19 6. notarii: zu lucens und derselben Castlahmey 3.
+#facs_142_r2l20 in dem übrigen Amtsbezirk aber nit mehr
+#facs_142_r2l21 allß 11. Notarii zu abwartung vorfallender
+#facs_142_r2l22 geschäfften vonnöthen
+#facs_142_r3l1 261.
+#facs_142_r3l2 Lausanne
+#facs_142_r3l3 Die allhargeschickte liste der Schreibere, dieses Amts
+#facs_142_r3l4 besteiget sich lauth Etats auff 108. Persohne; drach¬
+#facs_142_r3l5 dem nun so wohl wegen des gerichtstellen dießers
+#facs_142_r3l6 Amts, deren an der Zahl 15.) allß übrigen der
+#facs_142_r3l7 Statt zuständigen notariat, und secretariat stellen,
+#facs_142_r3l8 der satsame bericht eingelanget; habend wir be¬
+#facs_142_r3l9 funden, daß 12. Notarii alle Secretariat und günst¬
+#facs_142_r3l10 stellen von der Statt dependierend zubesienen genugtand
+#facs_142_r3l11 Jedem übrigen Amtsbezirck aber annoch 26. Notarii zu
+#facs_142_r3l12 besienung dortiger gerichtstellen, und übrigen geschäffte
+#facs_142_r3l13 bestellt verbleiben sollen
+#facs_142_r3l14 Cron
+#facs_142_r3l15 Weilen hinder diesemamt nur 4. gerichts-Cammeren
+#facs_142_r3l16 zu bedienen sind, der schreibere, aber 11., Allß findende
+#facs_142_r3l17 bis, daß 6. Notarii solchen abzuwarten genugsamb.
+#facs_142_r3l18 Vivis
+#facs_142_r3l19 Anstatt der 42. hinter diesem Amt sich befun¬
+#facs_142_r3l20 denen Notario etc. alles in der Stace nur (gricht
+#facs_142_r3l21 stellen mit begriff deß Landschreibers; seinend
+#facs_142_r3l22 wir in derselben nit mehr allß 6. Notarii auf
+#facs_143_r2l1 dem land aber allein 5. nöthig zu bedienn
+#facs_143_r2l2 der geschäfften, zu welchen notarii publici
+#facs_143_r2l3 forderat werden.
+#facs_143_r2l4 Ouorsée.
+#facs_143_r2l5 Eß belaufft sich die anzahl der geschworen
+#facs_143_r2l6 schreiberen diesers Amts auff 86. obwohlen zwa
+#facs_143_r2l7 36. gerichtsstellen zu bedienen, darunter 33. von den
+#facs_143_r2l8 vassallen bestellet werden; So habend wir lauth
+#facs_143_r2l9 eingelangten berichten befunden, daß die anzahl
+#facs_143_r2l10 der Notariore auff 30. reduciert werden könne,
+#facs_143_r2l11 darunter mit begriff deß Land schreibers:
+#facs_143_r2l12 in der Statt, die übrigen 24. aber auf dem
+#facs_143_r2l13 Land functionieren sollen, zumahlen ein Notarius
+#facs_143_r2l14 wegen näche erwerthen gekommlich 2 bis in 3 gis
+#facs_143_r2l15 stellen ecr vassallen besienen kan
+#facs_143_r2l16 Aubonne.
+#facs_143_r2l17 Hinter diesem amt befinden sich 19 geschwomt
+#facs_143_r2l18 schreiber und 7. gerichtstellen, welche zu besienen
+#facs_143_r2l19 4 in der Stadt und 6. auf dem land auch
+#facs_143_r2l20 gungsam zuseyn erachtet wird.
+#facs_143_r3l1 263.
+#facs_143_r3l2 Müls.
+#facs_143_r3l3 Zu bedienung 14. geruhtstellen dieses Amts,
+#facs_143_r3l4 darumder auch der meiste Theil atm ünßeren
+#facs_143_r3l5 Vassallen bestellet werden; habend Wir anstat der
+#facs_143_r3l6 28. geschwornen schreibenen nit mehr allß 14. zu ab¬
+#facs_143_r3l7 wartung dortiger geschafften nöthig erachtet, da¬
+#facs_143_r3l8 under mit begriff deß Landschreibers 6. in der
+#facs_143_r3l9 Statt und 8. auf dem Land Ihre functiones
+#facs_143_r3l10 -
+#facs_143_r3l11 zu vereichten haben werden,
+#facs_143_r3l12 Beaumont
+#facs_143_r3l13 Dieses Amt hat 3. gerichtstellen, und nit mehr alles
+#facs_143_r3l14 3. Notarij, welche wie solang sie Ihre functiones
+#facs_143_r3l15 wohl versechen werden, allß wohl bestellt verbleiben
+#facs_143_r3l16 zulaßen gesinnet.
+#facs_143_r3l17 Isterken.
+#facs_143_r3l18 Die anzahl der schreibere, diesers Amts besteiget sich
+#facs_143_r3l19 auf 76. die gerichtstellen aber auff 27 zu bedienung
+#facs_143_r3l20 welchern aber zu allen Zeithen nit mehr allß 30. Notarii
+#facs_143_r3l21 erforderet werden, darunter auch mit begriff daß
+#facs_143_r3l22 Landschreibers 6. in der Stald und 24. auff dem
+#facs_143_r3l23 Land functionieren könne.
+#facs_144_r2l1 Romainmotier
+#facs_144_r2l2 Hinter diesem Amt befinden sich 33. Notarij im
+#facs_144_r2l3 11. 4. gerichtstellen, zu bedienung solchern von Unß die
+#facs_144_r2l4 zahl 14 geschwornen schreibenen allß gnug, uns
+#facs_144_r2l5 admittiert wird.
+#facs_144_r2l6 +
+#facs_144_r2l7 61
+#facs_144_r2l8 dafelchend Solchenmnach dir, gleich gegen übrige
+#facs_144_r2l9 Unseren Amtleüthen vieltschen Lands auch be=
+#facs_144_r2l10 schicht, ob gegenwärtigen dir überschribnen
+#facs_144_r2l11 und zum besten deß Lands angesehenen Mandat
+#facs_144_r2l12 und Ordnung bestermaßen, und allso hand obzu¬
+#facs_144_r2l13 halten, daß derselben in allberg geflißen nachgelebt
+#facs_144_r2l14 werde: Wie dann wir unß zu dir versechen haben,
+#facs_144_r2l15 Collend; Bott mit Dir! Dat. 10. Jan. 1718.
+#facs_144_r2l16 Sanz undt Aslev
+#facs_144_r2l17 vo. fol 274.
+#facs_144_r4l1 265.
+#facs_144_r4l2 Suit la translation du Mandat.
+#facs_144_r4l3 cy Dessus touchant les notaires
+#facs_144_r4l4 du Paÿs de Vaud.
+#facs_144_r4l5 L'advoyer et Conseill de la ville de Berne nostre
+#facs_144_r4l6 salutation promise, cher et feal Ballif.
+#facs_144_r4l7 Experience nous ayant appris desja depuis long tems
+#facs_144_r4l8 que la trop grande quantité des notaires dans
+#facs_144_r4l9 nostre paijs de vaud, dont le nombre saugmente
+#facs_144_r4l10 tous les jours, causoit plutôt du tort a nos chers et bien
+#facs_144_r4l11 aimés sujets, que de l'utilité, En ce que par lignorane
+#facs_144_r4l12 de la pluspart desdits notaires, qui souvent sont plutost
+#facs_144_r4l13 admis au Notariat par la faveur de ceux, qui les exa-
+#facs_144_r4l14 minent au Pays de Vaud que par leur capacité, induisent
+#facs_144_r4l15 nos sujets dans des procés prolixes et ruineux, qui les
+#facs_144_r4l16 precipitent ensuitte dans de grandes pertes, voire dans
+#facs_144_r4l17 la derniere misere; Cest pourquoy et ayant tousjours
+#facs_144_r4l18 a Coeur le bien de nos sujets, et voulants remedier
+#facs_144_r4l19 aux abus, qui se sont glissés jusqua present, nous nous
+#facs_144_r4l20 sommes vûs dans lindispensible necessité de songer
+#facs_144_r4l21 aux moyens de prevenir les maux qui pourront
+#facs_145_r2l1 dans la suitte en resulter et affin qu'il n'arrive pas
+#facs_145_r2l2 come du passé, que des personnes incapables soient
+#facs_145_r2l3 admises au notariat, et pour diminuer le grand ne
+#facs_145_r2l4 bre des notaires ignorants, nous avons trouvé a
+#facs_145_r2l5 propos de faire une ordonnance, dont la tenue
+#facs_145_r2l6 fensuit
+#facs_145_r2l7 Que tous ceux, qui a l'avenir voudront se faire
+#facs_145_r2l8 17
+#facs_145_r2l9 reçevoir Notaires, ayent une main belle et lisible
+#facs_145_r2l10 Ils devront scavoir lire les anciens documents et
+#facs_145_r2l11 25
+#facs_145_r2l12 Caracteres.
+#facs_145_r2l13 de même devront ils être verzés dans l'arithme
+#facs_145_r2l14 3:
+#facs_145_r2l15 biques
+#facs_145_r2l16 4° L'outre le contumier, ils ayent connoissance des prix
+#facs_145_r2l17 cipaux de nos statuts et Ordonnances et quils sçe
+#facs_145_r2l18 chent toutes les formalités requises et accoutumées
+#facs_145_r2l19 Ils devront scavoir aquoy les oblige la qualité de
+#facs_145_r2l20 5
+#facs_145_r2l21 Notaire public, soit a legard de nous leur souverain
+#facs_145_r2l22 soit par rapport aux parties, qui voudront fair
+#facs_145_r2l23 passer quelque acte par leurs mains
+#facs_145_r2l24 Co. nous voulons et entendons, que tous ceux, qui aspez,
+#facs_145_r2l25 veront au Notariat, soient versés dans la langue
+#facs_145_r2l26 latiné; Pour cet effet ils produiront une attestation
+#facs_145_r4l1 267.
+#facs_145_r4l2 Comme ils ont été avancés dans les Ecoles et parvenus
+#facs_145_r4l3 aux leçons publiques, ou du moins qu'ils en ont été dignes
+#facs_145_r4l4 7°. Aucun ne sera en droit de se faire examiner, sil ne
+#facs_145_r4l5 peut produire un Certificat de la necessité d'etablir un
+#facs_145_r4l6 notaire dans le lieu, ou il pretend exercer sa charge
+#facs_145_r4l7 et cela de la maniere, come nostre present Reglement
+#facs_145_r4l8 exprime le cas de necessité
+#facs_145_r4l9 Nous voulons, quarant que quelqu'un puisse etre admis
+#facs_145_r4l10 a l'examen, il ait travaillé 3. ans durant, chez un Praticien,
+#facs_145_r4l11 puisque la pratique est aussy necessaire que la Theorie pour
+#facs_145_r4l12 former un bon notaire
+#facs_145_r4l13 Ordonnons tres expressement aux Examinateurs établis
+#facs_145_r4l14 qu'ils ayent a examiner tous ceux, qui voudront se faire
+#facs_145_r4l15 passer notaires sur les dits susdits articles, atoute rigueur
+#facs_145_r4l16 et sans aucun egard pour persone; ainsy que nous
+#facs_145_r4l17 avons donné ordres particuliers a nos ballifs la dessus
+#facs_145_r4l18 Lorsqu'il y aura une vacance de notaire dans un
+#facs_145_r4l19 Balliage, et que celuy ou ceux, qui y aspirent auront
+#facs_145_r4l20 été examinés de la maniere susdite et trouve suffisament
+#facs_145_r4l21 capables, on devra les renvoyer par devant nous tous
+#facs_145_r4l22 sur le même jour, munis, d'une attestation, pour ereer
+#facs_146_r2l1 Notaire celuy ou ceux, que nous trouverons a
+#facs_146_r2l2 3
+#facs_146_r2l3 propos et les pourvoir d'une Patente
+#facs_146_r2l4 Nous avons aussy trouvé necessaire de deffendre
+#facs_146_r2l5 à nos sujets imediat de se faire examiner et
+#facs_146_r2l6 passer notaire et riere les Balliages Comuns, et
+#facs_146_r2l7 voulons par contre que chacun devra se faire
+#facs_146_r2l8 examiner riere le Balliage, dans lequel il
+#facs_146_r2l9 pretend exerçer sa charge, sous peine de nulli
+#facs_146_r2l10 de tous les actes, qu'il passeroit ailleurs.
+#facs_146_r2l11 En reiteration de nos precedentes ordonances, nous
+#facs_146_r2l12 voulons, que tous les notaires ayent a produire
+#facs_146_r2l13 leurs minutes à nos Ballifs de 3. en 3. mois, sous
+#facs_146_r2l14 peine de la privation de leur charge
+#facs_146_r2l15 Et come nous avons remarqué, que plusieurs
+#facs_146_r2l16 Notaires, nonobstant leur serment ont été fort
+#facs_146_r2l17 negligeants a produire leurs minutes dans le
+#facs_146_r2l18 tems fire, et quand même ils l'ont fait, nos
+#facs_146_r2l19 Ballifs ou leurs Receveurs ne sçavoient pas pour
+#facs_146_r2l20 cela, si les biens vendus etoient des rieraux
+#facs_146_r2l21 ou sils relevoient de fief noble ou de l'arriere,
+#facs_146_r2l22 fich.
+#facs_146_r2l23 Cest pourquoy nous ordonons pour toujours,
+#facs_146_r3l1 269.
+#facs_146_r3l2 que tous les 3. mois on devra envoyer à nostre Commis
+#facs_146_r3l3 saire general non seulemt. les minutes incontestablement
+#facs_146_r3l4 connues des fiefs nobles et arriere siefs, mais encore celles
+#facs_146_r3l5 qui sont contestées et en doute; sous la susditte peine
+#facs_146_r3l6 de la privation de la plume, affin quelles soient
+#facs_146_r3l7 examinées par le dit Comissaire general, et cas arrivant
+#facs_146_r3l8 quils se trouvat des fiefs, qui ne relevassent pas du
+#facs_146_r3l9 Balliage, riere lequel reside le notaire nous ordonons
+#facs_146_r3l10 qu'ators le Ballif fera advertir de cela le seigneur de
+#facs_146_r3l11 fief interesse
+#facs_146_r3l12 Nous regardons aussy come une chose tres pernicieuse
+#facs_146_r3l13 que la plupart des notaires de nôtre Paÿs de vaux
+#facs_146_r3l14 s'erigent en Procureurs ou assistants, par quel moyen
+#facs_146_r3l15 ils entrainent tant par ignorance, que par hvidité du
+#facs_146_r3l16 pain nos sujets dans une infinité de procés et dincidents
+#facs_146_r3l17 dont il ne sortent que par la perte de leurs biens; pour
+#facs_146_r3l18 ces raisons nous defendons tres expressement, a tous et
+#facs_146_r3l19 un chacun des notaires, de se meler dorenavant d'aucun
+#facs_146_r3l20 proces, soit pour plaider soit peur assister, a moins, que
+#facs_146_r3l21 ce ne soit en faveur d'un parent; bien entendu, qu'ils ne
+#facs_146_r3l22 pourront l'assiter au lieu, ou ils fonctionnent en
+#facs_146_r3l23 qualité de notaires, et seulement dans l'étendüe de leurs
+#facs_146_r3l24 Balliages, et avec la permission du Ballis.
+#facs_147_r3l1 Pour remedier au mal present et affin de retrancher
+#facs_147_r3l2 le nombre des notaires.
+#facs_147_r3l3 Nous ordonnons à tous nos Ballifs de notre payer
+#facs_147_r3l4 de Vaud, de demander a tous et un chacun des
+#facs_147_r3l5 notaires de leurs Balliages, sa Patente, pour quelque
+#facs_147_r3l6 soient examinées, et pour voir, si les dits notaires
+#facs_147_r3l7 ont été receus icy, s'ils ont preté le serment ici
+#facs_147_r3l8 quels districts onleurs a assigné pour exercer
+#facs_147_r3l9 leur fonction, et s'ils fonctionnent encore tous et
+#facs_147_r3l10 dans quel lieu. Nôtre volonté étant qu'aucun
+#facs_147_r3l11 Notaire ne sera en droit de fonctionner que rien
+#facs_147_r3l12 le Balliage, qui luy est assigné par sa Patente, sous
+#facs_147_r3l13 peine de nullité de tous les actes qu'il passeroit
+#facs_147_r3l14 ailleurs.
+#facs_147_r3l15 2° Tous ceux qui ne sont pas actuellemt etablis se
+#facs_147_r3l16 retaires Ballivaux, Curiaux, secretaires du Com
+#facs_147_r3l17 sistoire ou Secretaires de ville, devront etre cités
+#facs_147_r3l18 par devant le Ballif, riere lequel ils font leur
+#facs_147_r3l19 demeure, pour etre par luy, conjointemt avec le
+#facs_147_r3l20 Secretaire Ballival et encore trois de plus au
+#facs_147_r3l21 ciens et experimentés notaires du Balliage
+#facs_147_r3l22 de nouveau examiné a toute rigueur, sur
+#facs_147_r3l23 tous les articles contenus dans ce mandat.
+#facs_147_r5l1 271.
+#facs_147_r5l2 Apres quoy et sur le rapport, qui nous sera fait de la
+#facs_147_r5l3 a pacité des uns ou des autres, nous vous manderons de
+#facs_147_r5l4 même, qu'a nos autres Ballis du Paijs de vaud notre
+#facs_147_r5l5 volonté, quand? et en quelcas nous jugerons a propos
+#facs_147_r5l6 de creér de nouveaux notaires.
+#facs_147_r5l7 Tous les notaires de nostre Paÿs de vaud, devront
+#facs_147_r5l8 être tenus a produire leurs Protocols et Registres, de
+#facs_147_r5l9 puis le tems quils fonctionnent dans leurs charges, pour
+#facs_147_r5l10 voir sils sont en bon ordre, et en ###e düe forme, et
+#facs_147_r5l11 s'ils sont registres suivant nostre intention, de plus si
+#facs_147_r5l12 en conformité de leurs serments ils ont produit leurs
+#facs_147_r5l13 minutes de S. en 3. mois à nos Ballifs, ou sils sont ete
+#facs_147_r5l14 negligeants a le faire, et comme il y apparence, que
+#facs_147_r5l15 par le nouvel examen qu'on fera, quelques uns seront
+#facs_147_r5l16 trouvés ignorants, ou negligents dans leurs fonctions,
+#facs_147_r5l17 Nous ordonnons a tous nos Baillis, de nous faire un
+#facs_147_r5l18 rapport exact et fidelle par leurs serment de L'Etat
+#facs_147_r5l19 ou ils auront trouvé les choses, et cela avec promp,
+#facs_147_r5l20 titude, affin que les dits notaires soient suspendus
+#facs_147_r5l21 ou privés entièremt de leurs charges, suivant l'exi
+#facs_147_r5l22 gence du cas.
+#facs_147_r5l23 4°
+#facs_148_r2l1 4e. Ayants aussy remarqué que quelques uns
+#facs_148_r2l2 nos sujets imediats setoient fait passer notaires
+#facs_148_r2l3 riere les Balliages d'Echallens et de Grandson, et
+#facs_148_r2l4 même à ce que nous apprenons, d'une maniere
+#facs_148_r2l5 assez legere; Nous ordonons, que tous ceux, qui
+#facs_148_r2l6 depuis dix ans enca, ont été receu pour no
+#facs_148_r2l7 taires riére les deux dits Bailliages Comuns
+#facs_148_r2l8 et qui se trouvent actuellemt. dans nostre Pays
+#facs_148_r2l9 de vaud devront être nouvellement, et à toute
+#facs_148_r2l10 rigueur examines riere le Baillage ou il
+#facs_148_r2l11 fonctionemt, et sils sen trouvoient quelques uns
+#facs_148_r2l12 qui voulussent faire difficulté de subir cette
+#facs_148_r2l13 examen; nous voulons que ceux-la et tous les
+#facs_148_r2l14 autres, qui voudroient eviter un nouvel Examen
+#facs_148_r2l15 soient des a present interdit de leur qualité de
+#facs_148_r2l16 Notaire, sans en pouvoir faire aucune fonction
+#facs_148_r2l17 Mais affin qu'on ne soit pas favorise au
+#facs_148_r2l18 prejudice d'un autre, nous mandons à tous
+#facs_148_r2l19 nos Baillifs de nôtre Paÿs de vaud, de
+#facs_148_r2l20 nous informer des choses susdites, prompte
+#facs_148_r2l21 temt. par leurs serments, coment elles se
+#facs_148_r3l1 273.
+#facs_148_r3l2 seront trouvées, riere leurs Balliages; Nous avons
+#facs_148_r3l3 aussy remarque, que quelques uns de nos Secretaires
+#facs_148_r3l4 Ballivaux outre leur charge de Secretaire exercent
+#facs_148_r3l5 encore celle de Chatellain aupres de nos vasseaux
+#facs_148_r3l6 Et comme nous regardons cela, comme une chose incompa¬
+#facs_148_r3l7 tible avec nos interets, nous ordonnons, qu'en cas qu'il se
+#facs_148_r3l8 trouvât de ceux la, ils ayent des a present a resigner
+#facs_148_r3l9 l'une ou l'autre de ces deux charges
+#facs_148_r3l10 Nous entendons de même, que les Curiaux ne pourronber
+#facs_148_r3l11 exerçer plus d'une charge riere leur district de justice
+#facs_148_r3l12 Et affin que tout ce qui est contenu cy dessus, soit en tout
+#facs_148_r3l13 tems a present et a l'avenir exactement gardé et observé
+#facs_148_r3l14 et qu'on sy conforme avec assiduité, nous avons
+#facs_148_r3l15 trouvé a propos de fixer un certain nombre de notaires
+#facs_148_r3l16 dans chaque Balliage.
+#facs_148_r3l17 Rioré le baillage N. autant vu d. mandat
+#facs_148_r3l18 En consequence de quoy nous vous ordonnons, de même
+#facs_148_r3l19 quà tous les autres Ballis de rostre Pays de vaud
+#facs_148_r3l20 de tenir main, affin que la presente ordonnance,
+#facs_148_r3l21 que nous avons faitte pour le bien de nos sujets soit
+#facs_148_r3l22 exactement observée; ainsy que nous nous confions
+#facs_148_r3l23 en vôtre exactitude. Dieu vous aye en sa sainte garde.
+#facs_148_r3l24 Donné le 10e de Janvier 1718

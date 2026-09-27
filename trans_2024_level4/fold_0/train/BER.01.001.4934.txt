@@ -1,0 +1,47 @@
+Law ID: BER.01.001.4934
+Name: Unwärschafften faltschen Crützdicken wegen.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 35/35
+# High similarity (>=80%): 31
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_121_r2l1 36
+#facs_325_r2l1 An Tütsch und Weltsch Amptluch, vier Stede
+#facs_185_r3l3 Amen, Freyweibel, Schwartzenburg, Suisis.
+#facs_185_r3l4 wald
+#facs_371_r1l13 Herrschafftisch.
+#facs_185_r3l6 rung dicken wegen Comp. calern
+#facs_185_r3l7 Sehr als Nach dem Uns ein gartung Krützdicken, So vff der eine
+#facs_185_r3l8 Eydten d. Franskrychisch Crütz, vnd vff der annderen dry
+#facs_185_r3l9 Gilgien, ein sparrer dardurch, und darneben ein klen¬
+#facs_185_r3l10 Schilelin hatt, fürgelegt, und Vermeldet worden, das derselbe
+#facs_185_r3l11 gattung alhie In vnser Statt diß Lucien marits ein anzaal
+#facs_185_r3l12 durch ettliche Frembde gewärbsluth, für gut und Wärschaff
+#facs_185_r3l13 In dem pryß und wärch als ein Grütz dieben abgeben worden —
+#facs_185_r3l14 syendt, Ist derselben halb ein erdeckung beschechen, und
+#facs_185_r3l15 nau befunden das dieselben gar ring, und ein Stuck mit
+#facs_185_r3l16 mehr als Vierthalben batzen wärth. Wyl dan Zubesor
+#facs_185_r3l17 das solcher Kirchen dicken, Villicht an äunderen Ortl. Vnsers
+#facs_185_r3l18 Landts auch vßgeben worden seyn, vnd noch wyvers vß geben
+#facs_185_r3l19 werden möchten, als habend wir biß zu Ußgang einer teuch
+#facs_185_r3l20 Hynbar gemacht werde, gedachten den Unserm vor schaden vnd
+#facs_185_r3l21 nachtheill zu seyn, dieselben durch ein Ußscheyben, als baldt
+#facs_185_r3l22 und by gutter zyt sölcher einren gattung Liechter kurtz dickel
+#facs_185_r3l23 durch ofne Verkündungen berichten und verwarnen laßen wollen.
+#facs_185_r3l24 Wie auch zugleich, das 11 in ynnemung der Thaleren, deren
+#facs_185_r3l25 Iudt das man die Ryschsthaler umb ein r gewürdiget, allerlei
+#facs_185_r3l26 annderer gattung Ins Land gebracht, und In gleich würth als
+#facs_185_r3l27 die Rychsthaler, ob y gleichwol niet so schwar noch Theil geltes
+#facs_185_r3l28 ußgeben werdendt, ein underscheid haltindt Vür sich zu
+#facs_185_r3l29 anderheir beflyßindt, luth vnser vorgenden Verwarnung
+#facs_185_r3l30 keine frombde gold: noch Silber Jochim, die von uns mit ge¬
+#facs_185_r3l31 wirdiget, und In der münzOrdnung begriffen sindt, von
+#facs_185_r3l32 den Frömbden gewärbslichen Zuempfachen, und hiemit Im
+#facs_185_r3l33 selbt vor verkürst und schaden zu zu, darumb die dise Ver¬
+#facs_185_r3l34 warnung vff offnen länzlen und an Orthdatt vonnöthes
+#facs_185_r3l35 erthan laßen sollt, Datum 16ten Decembris 9615

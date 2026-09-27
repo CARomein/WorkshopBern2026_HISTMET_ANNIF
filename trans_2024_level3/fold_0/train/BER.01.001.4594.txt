@@ -1,0 +1,328 @@
+Law nr: BER.01.001.4594
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 317/317
+# High similarity (>=80%): 294
+# Low similarity (<80%): 23
+# Not found: 0
+#
+#facs_170_r4l1 330
+#facs_274_r2l1 Landen, jedem Hausvatter bey 40. rt
+#facs_274_r2l2 Ruß und aller Verantbortung im
+#facs_274_r2l3 fahl eines Unglüks im Fachte, auf das
+#facs_274_r2l4 ausdrüklichste verbodten seyn soll.
+#facs_274_r2l5 ein geladenes Gebuhr, anders als
+#facs_274_r2l6 inbeschloßen und wohl verbahret, in
+#facs_274_r2l7 seinem Haus zu dulden, und aufzubehalten,
+#facs_274_r2l8 Ansonsten ein jeder Biederhandlender
+#facs_274_r2l9 ohne Schonen mit der oben bestimten
+#facs_274_r2l10 Auß und im Fahl eines Unglüks¬
+#facs_274_r2l11 nebst Erfahung aller Kösten und all¬
+#facs_274_r2l12 fähligen Entschädniß je nach dem Um¬
+#facs_274_r2l13 ständen mit angemessner Leibesstraff
+#facs_274_r2l14 soll belegt werden.
+#facs_274_r2l15 Desen ihr anmit berichtet werdet,
+#facs_274_r2l16 inn es öffentlich zu jedermans ver¬
+#facs_274_r2l17 halt auf den Kanzlen verlesen zu
+#facs_274_r2l18 faßen. Dat. den 22ten Novembl. 1786.
+#facs_83_r3l6 en
+#facs_157_r4l1 oll.
+#facs_274_r4l1 531
+#facs_23_region_1633454616028_2913l1 An
+#facs_44_r4l3 alle deutsch und welsche Herren Amt¬
+#facs_294_r3l8 A. Städt, Freyweibel, und Amann
+#facs_274_r4l5 denne per Zedel an die hiesigen
+#facs_274_r4l6 Einzel, und per Placcard an die Pfeiler
+#facs_274_r4l7 Ausschreibung der Jagd Verbotts.
+#facs_274_r4l8 Schultheiß und Rath etc. bey bieder¬
+#facs_274_r4l9 mahl heranrübender Zeit, da dem Ge¬
+#facs_274_r4l10 bild verschonet werden soll, wollen Wir
+#facs_137_r4l21 Unseren Furgeren
+#facs_110_r6l23 an befehlen
+#facs_137_r4l22 an das deutsche Land
+#facs_92_r9l30 landt
+#facs_274_r4l15 von nächstkönftigem 1. Januar an, von nächtbächtiger
+#facs_274_r4l16 biß auf den zweyten Montag im Liechteneßan
+#facs_274_r4l17 Septembris /: jedoch mit der des biß Bartholomey
+#facs_274_r4l18 Vogelschießens halb in der neue
+#facs_274_r4l19 Jüger Ordnung vom 20t. Heimnonat
+#facs_274_r4l20 hinbeggenthaltenen Ausnahme,
+#facs_70_r5l2 Unseren Angehörigen aber das ganhe
+#facs_70_r5l3 Jahr hindurch, alles Hezen Schießen
+#facs_274_r4l23 Jagen und Fahen des Gewilds und der
+#facs_274_r4l24 vögel es seye mit Lätschen oder garig
+#facs_274_r4l25 Elinten, oder auf andere Weise, aller¬
+#facs_274_r4l26 dings, und bey der in (aus welche Land¬
+#facs_274_r4l27 daheriger :/ der neuen Jäger Ordnung
+#facs_223_r4l1 532
+#facs_28_r4l1 Coll
+#facs_275_r3l1 ausgedrukten Ruß, verbocten habe
+#facs_275_r3l2 Jedermäniglich ernstmeinend befehlende
+#facs_138_r2l19 der Vorschrift gemelter Ordnung nach¬
+#facs_275_r3l4 zukommen, und solche in alle weg zu be¬
+#facs_275_r3l5 bachten; welches zu eines jeden Verhalten
+#facs_219_r4l4 öffentlich von Canzlen publicieren, und
+#facs_140_r3l8 ten
+#facs_275_r3l8 soll. Dat. den 1. Decembris 1786.
+#facs_23_region_1633454616028_2913l1 An
+#facs_160_r2l16 alle deutsch und weltsche Herren Amtleuti
+#facs_145_r5l4 Vier Städt, Freyweibel und Amann
+#facs_275_r3l12 Vieh Ausfuhr verbietet lobl. Stand
+#facs_275_r3l13 Lusern, aus dero Landen.
+#facs_175_r3l20 Schultheiß und Rathen.
+#facs_275_r3l15 und Verkauff, auch Ausfuhr des Viehs
+#facs_275_r3l16 hat lobere Stand Luzern das in Einlager
+#facs_275_r3l17 enthaltene Mandat ausgehen laßen
+#facs_275_r3l18 welches wir euch mit dem befelchlichen
+#facs_275_r3l19 Auftrag zusenden, solches zu jeder
+#facs_275_r3l20 mäniglich verhalt öffentlich von Caulin
+#facs_275_r3l21 verkünden zu laßen, dabey dann auch
+#facs_275_r3l22 die reciprocitet gegen die Luzernische
+#facs_275_r3l23 Türgere und angehörige Metzger
+#facs_275_r3l24 Meister Handberts zu beobachten,
+#facs_28_r4l1 Coll
+#facs_28_r4l1 Coll
+#facs_275_r6l1 533.
+#facs_275_r6l2 und die wiederhandende gleich zu halten
+#facs_275_r6l3 Datl. den 4ten Decembris 1786.
+#facs_275_r6l4 Schulthers und Rath der
+#facs_196_r4l27 Wir
+#facs_275_r6l6 Respublik
+#facs_275_r6l7 Stadt Hern, thun kund hiemit; daß
+#facs_275_r6l8 Unsere getreue liebe alte Eidgnößen
+#facs_275_r6l9 löblichen Standes Luzern, wegen der
+#facs_275_r6l10 Viehausfuhr folgende Verordnung er
+#facs_275_r6l11 gehen und kund thun laßen, welche Wir
+#facs_275_r6l12 nöhtig gefunden, zur Wissenschaft und
+#facs_275_r6l13 verhalt, Unferer lieben und getreuen
+#facs_275_r6l14 angehörigen hiemit öffentlich bekant zu
+#facs_275_r6l15 machen. Geben den 4ten bis 1786.
+#facs_65_r3l5 Canzley Bern.
+#facs_141_r4l12 Hir Schultheis und Rath
+#facs_275_r6l18 der Stadt Luzern, unsern gnädig¬
+#facs_275_r6l19 geneigten Willen, samt allein gut¬
+#facs_275_r6l20 zuvor. Ehefame, Ehebare, infonders
+#facs_275_r6l21 Liebe und getreuer
+#facs_275_r6l22 Nach deme Wir neuerdingen zu größtem
+#facs_275_r6l23 unserm Mißlieben durch standhafte
+#facs_275_r6l24 Klägden zu vernehmen gehabt, was müßig
+#facs_19_r3l24 kosten herunten sehen oder durchstreichen
+#facs_276_r1l1 534
+#facs_276_r2l1 des Mast- und Schmaltiehes dergestalten
+#facs_276_r2l2 überhand genommen, daß andurch Unser
+#facs_276_r2l3 Landschaft von obgedachtem Vieh fast ganz
+#facs_276_r2l4 lichen entblößet, und zum Theilso wohl
+#facs_276_r2l5 Unsere Stadt- als Landmezger das Pub¬
+#facs_276_r2l6 likum fernerhin zu bedienen außer
+#facs_276_r2l7 Stand gesteht berden; als haben Wir
+#facs_276_r2l8 Uns genöhtiget befunden, aus Landes
+#facs_276_r2l9 hätterlicher Fürstorg gegenwärtige
+#facs_276_r2l10 Maßregeln vorzukehren; gebieten
+#facs_276_r2l11 demnach in Kraft gegenwärtigen Mai
+#facs_276_r2l12 fals, und zbar erstens: daß Fürohin
+#facs_276_r2l13 allen Viehhändlern, so wohl einheimschen
+#facs_283_r2l24 als Fremden fernerhin und bey¬
+#facs_276_r2l15 aller Fürkauf von aller Gartung Vieh
+#facs_276_r2l16 nicht nur bey Straf und Konfis kation
+#facs_276_r2l17 sondern annoch dem Fehler angemessne
+#facs_276_r2l18 Geld- oder Leibstraf neuerdings ver¬
+#facs_276_r2l19 borthen und untersagt seyn solle.
+#facs_276_r2l20 zbeytens. Wird aber den eidsge¬
+#facs_276_r2l21 cößischen Meistern Meygerhand werbs,
+#facs_276_r2l22 auch übrigen Eydsgenoßen gestadten
+#facs_276_r2l23 an öffentlichen Viehmarkten, nicht aber
+#facs_276_r2l24 bey den Ställen oder auf den Straßen
+#facs_29_r7l1 53
+#facs_276_r3l2 und zwar erstern gegen Vorbeistung eines
+#facs_276_r3l3 onshentischen Scheins von der Obrigkeit
+#facs_276_r3l4 oder Amtmann ihres Orts nur allein
+#facs_288_r3l6 zu verstehung ihrer Fleischbänken
+#facs_276_r3l6 keine 8 wegs aber zum Wiederterkauf
+#facs_276_r3l7 das benöhtigte Vieh entweder persönlich
+#facs_276_r3l8 oder durch ihre gedungene eigene
+#facs_276_r3l9 Knechte; leztern aber nur für ihren
+#facs_276_r3l10 eignen Hausbrauch mit Ausschluß jeden¬
+#facs_276_r3l11 noch der 2. und 3. jährigen Rindern und
+#facs_276_r3l12 erstmältigen Kühen bis auf weitere
+#facs_276_r3l13 Verordnung unter gleicher Vorbeisung
+#facs_276_r3l14 eines solchen obbesagten Scheins anzu¬
+#facs_276_r3l15 baufen, welche Scheine dann von unsern
+#facs_276_r3l16 verordneten Aufseher mit Beysehung
+#facs_276_r3l17 der Anzahl, Qualität, Preis und Tagt
+#facs_351_r2l1 touchant la Sortie des Vaches
+#facs_276_r3l19 unterschrieben werden sollen, damit die
+#facs_276_r3l20 Käufen solche scheine auf den Grenzen
+#facs_31_r5l18 seit einiger Zeit in denen Oberbeitlichen
+#facs_276_r3l22 nung vorbeisen können: in deßen
+#facs_276_r3l23 Ermänglungsfall aber sollen alle aus
+#facs_276_r3l24 führende Stük Vieh von Unsern vorge¬
+#facs_276_r3l25 sehten, Zollern oder Landjägern angehalten
+#facs_29_r7l1 53
+#facs_277_r2l1 bonfissirt und annoch mit 20. Thalern und
+#facs_277_r2l2 nachläßiger Ruß belegt werden.
+#facs_277_r2l3 Trickens: Sollen die Käufer die auf
+#facs_277_r2l4 gekaufte Manstbaar, 6 Wochen, die Kühe
+#facs_277_r2l5 Krauchstiere und Kalber aber 3. Wochen
+#facs_277_r2l6 ehesin solche wieder verkaufen, erweislich
+#facs_277_r2l7 an ihrem Fuster zu haben verbunden
+#facs_277_r2l8 seyn; biedrigenfalls sie als Fürkäufer
+#facs_277_r2l9 würden angesehen und gebührender
+#facs_277_r2l10 maßen aufs strengste bestraft werden
+#facs_277_r2l11 dannethin solle gleichfalls bey hoher
+#facs_277_r2l12 Straf und Konfisbation die jungen
+#facs_277_r2l13 oder sogenanten Saugbälber, ehe sie
+#facs_277_r2l14 3. Wochen an der Milch gestanden
+#facs_277_r2l15 an die Metzger oder jemand anders
+#facs_277_r2l16 zu verhandeln verbocten seyn.
+#facs_277_r2l17 Viertens: Solle alle Ausfuhr außer
+#facs_277_r2l18 die Eidsgenößschaft der Mast= so bohin
+#facs_277_r2l19 als Faselbaar aufs schärfste verbotten
+#facs_277_r2l20 hingegen aber jedermäniglichen so wohl
+#facs_277_r2l21 Einheimischen als fremden bebilliget
+#facs_277_r2l22 seyn, an öffentlichen Viehmärkten
+#facs_277_r2l23 nur allein die Wucherstieren oder so-
+#facs_277_r2l24 genanten Munz ankaufen, und
+#facs_277_r3l1 537.
+#facs_277_r3l2 solche außer Lands verhandeln zu
+#facs_226_r4l8 können.
+#facs_277_r3l4 Fünftens: Da auch die allgemeine
+#facs_277_r3l5 Klag Uns zu vernehmen gestanden, wie
+#facs_277_r3l6 daß das Schbemfleisch in überaus hohen
+#facs_277_r3l7 Preis gestiegen, und noch mehr zu steigen
+#facs_277_r3l8 beginne, indem die Schweine alle außer
+#facs_277_r3l9 lands verkauft werden; als sahen Wir
+#facs_277_r3l10 Uns bemüßigt zu verbieten, bey Kon¬
+#facs_277_r3l11 fis bation und 20. Thalern Ruß gegen
+#facs_277_r3l12 Kaufersto wohl als Verkäufer alle
+#facs_277_r3l13 Mast- und angemästete Schlein¬
+#facs_277_r3l14 aus Unserer Stadtmäßigkeit hinaus
+#facs_277_r3l15 zu verhandeln.
+#facs_277_r3l16 Rechtens: Und leztlichen thun Wir alle
+#facs_277_r3l17 Unsere Vorgesezte, Geschborne, Zoller
+#facs_277_r3l18 und Landjäger auf das ernstlichste
+#facs_277_r3l19 ermahnen, und Warnen, auf Befolgung
+#facs_277_r3l20 dieses unsers Mandats genaueste
+#facs_277_r3l21 obacht zu halten, und die Fehlbare
+#facs_277_r3l22 ungefaumt Unserm Präsidenten
+#facs_277_r3l23 der FleischSchazungs Konußion an
+#facs_277_r3l24 zuzeigen, da sich aber auch ereignig
+#facs_277_r3l25 könte, daß die Geschbornen und
+#facs_277_r3l26 vorgesezten, oftmalen selbst großen
+#facs_278_r1l1 [538]
+#facs_28_r4l1 Coll
+#facs_278_r3l1 Adgleich bey derley für- und verbothenem
+#facs_278_r3l2 Kauf haben, allso ergehet in solch und
+#facs_278_r3l3 verhoffendem Fall an alle Unsere Unter¬
+#facs_278_r3l4 thanen insgesamt, und an einen jeden
+#facs_278_r3l5 ins besondere Unser ernstliche Befehl,
+#facs_278_r3l6 daß sie solche Unsere wieder dieses
+#facs_278_r3l7 Verboth und ihren Eid handelnde Vor¬
+#facs_278_r3l8 gesetzten unverzüglich besagtem Unserm
+#facs_278_r3l9 Präsidenten in aller Treue anzeigen
+#facs_278_r3l10 sollen, mit der Versicherung, daß nebst
+#facs_278_r3l11 Verschweigung ihres Nahmens ihm
+#facs_278_r3l12 der Trittel von der auf die Über¬
+#facs_278_r3l13 freter dieses Mandats gesetzte
+#facs_278_r3l14 Konfis kation oder Geldstraf fleißigst
+#facs_278_r3l15 abgefolget werden solle; mithin ein
+#facs_278_r3l16 jeder vor Straf und Ungnad sich zu
+#facs_278_r3l17 hütten wißen wird.
+#facs_278_r3l18 Geben aus Unserm Rath den
+#facs_140_r3l8 ten
+#facs_278_r3l20 22.= Wintermonats 1786.
+#facs_278_r3l21 Cansley Luvern.
+#facs_47_r3l6 Traduction.
+#facs_38_r2l6 Nous L'Avoyer et conseil de la
+#facs_278_r3l24 Ville & republique de Berne, savoir faison
+#facs_278_r4l1 539.
+#facs_351_r2l15 par les présentes, que le louable
+#facs_278_r4l3 chers et fideles alliés & confedérés du Lou
+#facs_278_r4l4 able Etat de Lucerne, nous ayant commu-
+#facs_278_r4l5 nique leur Ordonnance du 22e Novembre
+#facs_278_r4l6 dernier, touchant la sortie du bétail
+#facs_278_r4l7 des Terres de leur Domination. Nous
+#facs_278_r4l8 avons trouvé bon de la faire imprimer
+#facs_278_r4l9 & publier pour l'avis & l'instruction
+#facs_278_r4l10 de Nos chers & fideles Ressortissants
+#facs_278_r4l11 Donne le 4e Decembre 1786.
+#facs_48_r3l25 Chancellerie de Berne
+#facs_60_r4l15 Nous L'Avoyer et Conseil de
+#facs_278_r4l14 La Ville de Lucerne, mandons notre gra-
+#facs_278_r4l15 cieuse Bienveillance à nos chers & fideles
+#facs_278_r4l16 Ressortissants & leur faisons savoir
+#facs_164_r4l20 par les Présentes
+#facs_278_r4l18 Que par des plaintes fondées a Nous
+#facs_278_r4l19 parvenues, nous avons appris a notre
+#facs_278_r4l20 grand déplaisir, qu'un pernicieux monopole
+#facs_278_r4l21 à tellement precipité la sortie des bestiaux
+#facs_278_r4l22 de Nos Pays que leur rareté met désor
+#facs_278_r4l23 mais les bouchers des Villes & terres
+#facs_278_r4l24 de notre Domination dans l'impossibilité
+#facs_279_r1l1 542
+#facs_279_r2l1 3° Ces mêmes propriétaires seront tenus
+#facs_279_r2l2 de garder pendant six semaines les
+#facs_279_r2l3 bestiaux gras & les maigres, tels que
+#facs_279_r2l4 boeufs propres au labourage, vaches &
+#facs_279_r2l5 veaux le terme de trois semaines, avant
+#facs_279_r2l6 d'oser les revendre, & obligés de prouver
+#facs_279_r2l7 en outre, que durant cet intervalle de
+#facs_279_r2l8 tems des bestiaux ont eté nourris & entre
+#facs_279_r2l9 tenus à leurs frais et dépends. Voulant
+#facs_279_r2l10 que les contrevenants soyent punis sans
+#facs_279_r2l11 remission comme coupables de nonopole.
+#facs_279_r2l12 Nous ordonnons aussi aux proprietaires
+#facs_279_r2l13 des veaux de lait, de les garder le term
+#facs_279_r2l14 de trois semaines au moins, avant de
+#facs_279_r2l15 les vendre aux bouchers ou à d'autres
+#facs_279_r2l16 personnes quelconques sous peine de
+#facs_279_r2l17 Confiscation & de châtiment exemplaire
+#facs_279_r2l18 4o Généralement Nous défendons la
+#facs_279_r2l19 sortie de toute espece de bétail pour
+#facs_279_r2l20 d'autres Etats & Pays que ceux de la
+#facs_279_r2l21 de lédiation Kelvétique, à l'exception
+#facs_279_r2l22 les seuls taureaux, que chacun pourra
+#facs_279_r2l23 acheter à nos foires publiques, & conduire
+#facs_279_r2l24 hors du Pays, pour les revendre ensuites
+#facs_177_region_1633454898390_2970l1 343.
+#facs_279_r3l2 5° Comme on Nous a de même porté
+#facs_279_r3l3 plainte que les prix du porc est fort
+#facs_279_r3l4 cher & qu'il haussera selon toute appa-
+#facs_279_r3l5 rence, vu que tous les cochons se vendent
+#facs_279_r3l6 au dehors, nous nous voyons obligés d'un
+#facs_279_r3l7 interdire la sortie, s'entend pour les
+#facs_279_r3l8 gras & ceux mis a l'engrais, sous peine
+#facs_279_r3l9 de Vingt Ecus d'amende a la quelle Nous
+#facs_279_r3l10 condamnons l'acheteur comme le vendeur.
+#facs_279_r3l11 6° Enfin Nous exhortons très serieusement
+#facs_279_r3l12 tous nos préposés, jurés, commis de Peages
+#facs_279_r3l13 & Patrouilleur de veiller scrupuleusement
+#facs_279_r3l14 à l'exacte observation de la présente
+#facs_288_r2l2 Ordonnance.
+#facs_279_r3l16 venants sans délai ni rémission à
+#facs_279_r3l17 notre Président de la Commission des vivres
+#facs_279_r3l18 Et si, contre notre attente, des jurés ou Pre-
+#facs_279_r3l19 posés même oseroient s'oublier au point
+#facs_279_r3l20 de se meler de ces sortes de monopoles &
+#facs_279_r3l21 trafics illicites, Nous enjoignons en ce cas
+#facs_279_r3l22 tres serieusement à tous & un chacun du
+#facs_279_r3l23 nos sujets & ressortissants de denoncer
+#facs_279_r3l24 scrupuleusement & sans remissions, ces
+#facs_279_r3l25 Préposés infideles & parjures à Notre
+#facs_30_r2l1 54
+#facs_28_r4l1 Coll
+#facs_280_r3l1 dit président de la Commission des Vivres
+#facs_280_r3l2 les assurant, que toutes les fois qu'un tel
+#facs_280_r3l3 cas se presentera, les coupables seront
+#facs_280_r3l4 pouris exemplairement, & que les dénors
+#facs_280_r3l5 ciateurs percevront régulierement le tiers
+#facs_280_r3l6 de l'amende ou confiscation susdites, imposées,
+#facs_280_r3l7 aux contrevenants. C'est pourquoi les Pre-
+#facs_280_r3l8 sentes seront imprimées & publiées, pour
+#facs_280_r3l9 que chacun sçache se préserver de domagé
+#facs_280_r3l10 & se garder d'encouvrir Notre indignation
+#facs_280_r3l11 Donné en Notre Conseil le 22d Novembre
+#facs_214_r2l7 1786.
+#facs_280_r3l13 Chancellerie de Lucerne

@@ -1,0 +1,52 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 44/45
+# High similarity (>=80%): 44
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4423
+#facs_90_r2l4 Winter Gewächs zu versilberen, Ihnen anbefohlen
+#facs_90_r1l1 170.
+#facs_337_r4l1 Colle.
+#facs_90_r2l2 Die Teutschen Herren Amtleut und Schaffnere
+#facs_90_r2l3 wo Obrigkeitliches Getreidligt
+#facs_90_r2l4 Winter Gewächs zu versilberen, Ihnen anbefohlen
+#facs_8_region_1628103609022_15l1 Schultheiß Räht und Bürger
+#facs_90_r2l6 Von Unseren Fürgeliebten Mit Rähten denen
+#facs_90_r2l7 Herren Teutsch Sebelmeister und Venneren
+#facs_90_r2l8 und Unserer verordneten KornCamer, ist
+#facs_90_r2l9 Uns über die Distination des auf Martini 1773.
+#facs_90_r2l10 eingegangenen Obrigbeitl. Getreyds, in Betreff
+#facs_90_r2l11 der Winter Früchten, der fernere Vortrag
+#facs_90_r2l12 geschehen, da dann Wir derenthalb erkent:
+#facs_90_r2l13 daß alles dasjenige, was nach erganzung
+#facs_90_r2l14 des Vorrahts, wie auch nach Abzug der Ordinarii
+#facs_90_r2l15 und Extra Ordinari-Ausgaben, und deßen was
+#facs_90_r2l16 Euer Contingent auf dem übrig bleibenden
+#facs_90_r2l17 betragen mag, von eint oder anderer Gattung
+#facs_90_r2l18 an Winter Gewächs in denen unter Eüerer
+#facs_90_r2l19 Direction stehenden Kornhäuseren übrig bleiben
+#facs_90_r2l20 eins, ehist möglich alles verkauft und Ver¬
+#facs_90_r2l21 silberet werden solle. In dem Verstand¬
+#facs_90_r2l22 jeden noch, daß dabey die gewöhnlichen Praecaus
+#facs_90_r2l23 tionen genommen, mithin das verkauffende
+#facs_90_r2l24 ein zu kleinen Kaufen verkaufft, und vor
+#facs_90_r2l25 // züglich
+#facs_90_r3l1 171.
+#facs_90_r3l2 züglich das mindest behältliche Getreid, vor¬
+#facs_90_r3l3 nemlich aber die noch eint und anderer Orten
+#facs_90_r3l4 sich vorfindenden wenigen Schüttenen alten
+#facs_90_r3l5 Getreids abgestoßen werden sollen; zu welchem
+#facs_90_r3l6 End- Wir Unseren Fürgeliebten Mit Rähten
+#facs_243_r4l21 denen Herren Teutsch Sekelmeister und Venneren
+#facs_90_r3l8 aufgetragen, Euch die Schüteren so verkaufft
+#facs_90_r3l9 werden sollen zu benamsten: Deßen Ihr berich¬
+#facs_90_r3l10 tet werdet mit befelch, falls ihr nicht im Fahl
+#facs_92_r5l21 äret, die Benamsung solch Alter Schüttenen zu
+#facs_90_r3l12 zu erwarten, vorzüglich das mindest behältliche
+#facs_90_r3l13 von dem obiger maßen vorschießenden Winter
+#facs_90_r3l14 Früchten abzustoßen, und für deren Betrag
+#facs_90_r3l15 uns gebührende Rechnung zu tragen. Datl.
+#facs_90_r3l16 Den 23t May 1774.
+#facs_24_region_1628255397587_277l11 en

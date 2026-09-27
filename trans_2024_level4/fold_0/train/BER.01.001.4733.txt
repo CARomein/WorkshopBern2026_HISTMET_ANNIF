@@ -1,0 +1,152 @@
+Law ID: BER.01.001.4733
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 141/141
+# High similarity (>=50%): 137
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_214_r3l20 ob id
+#facs_214_r3l21 Verordnung
+#facs_214_r3l22 Wir Schultheiß und Rath der Stadt
+#facs_214_r3l23 und Republit Bern, thun kund hiermit:
+#facs_214_r4l1 et 21
+#facs_214_r4l2 Demnach Wir durch sichere Nachrichten vernom¬
+#facs_214_r4l3 men, welchermaßen seit einiger Zeit eine Menge
+#facs_214_r4l4 Strolchen und Herrenlofes Gestindel, zu großer
+#facs_214_r4l5 Beschwerde und Schaden, ja zur Unsicherheit selbst
+#facs_214_r4l6 Unserer lieben und getreuen Angehörigen in das
+#facs_214_r4l7 Land dringen, in selbigem herumstreifen, um
+#facs_214_r4l8 durch Betteln dem arbeitsamen Landmann die
+#facs_214_r4l9 frucht seines sauern Schweises verzehren; als
+#facs_214_r4l10 haben Wir aus väterlicher Vorforge und zi¬
+#facs_214_r4l11 Sicherstellung unserer getreuen Angehörigen
+#facs_214_r4l12 nöthig erachtet, diesem wegen denen benachbarten
+#facs_214_r4l13 Kriegen immer zunehmenden Übel, so viel mög
+#facs_214_r4l14 lich abzuhelfen, und dem ferneren Eindringen
+#facs_214_r4l15 dieses Gefindels ein Ziel zu sezen. Zu diesen
+#facs_214_r4l16 Ende haben Wir nicht nur in dem obern uns untern
+#facs_214_r4l17 Aergan eine allgemeine Strolchen Aufhebung
+#facs_214_r4l18 veranstaltet, sondern wollen nunmehr, zu
+#facs_214_r4l19 Verhütung ferneren Eindringens, und zu Säuberung
+#facs_214_r4l20 der übrigen Theile des Deutschen und Welschen
+#facs_214_r4l21 Verhalt
+#facs_214_r4l22 Landes, hierdurch zu Jedermann
+#facs_214_r4l23 verordnet haben was folget.
+#facs_214_r4l24 Alles Strolchen, und Herrenlofes gefindet,
+#facs_214_r4l25 1°
+#facs_214_r4l26 so in Unsern Landen sich annoch befinden würde.
+#facs_214_r4l27 = 16
+#facs_215_r2l1 Anna mit Püssen versehen seyn oder
+#facs_215_r2l2 nicht, soll in hiesigen Landen nicht geduldet
+#facs_215_r2l3 sondern von nun an und bey unnachlässiger
+#facs_215_r2l4 harter Gefangenschaft und schwerer Leibes¬
+#facs_215_r2l5 träse alsobald fortgewiesen werden
+#facs_215_r2l6 2.) Unter den Strolchen sind alle dieje¬
+#facs_215_r2l7 ligen begrissen, welche ohne bekannten Auf¬
+#facs_215_r2l8 verhält, oder erweisliche sichere Wohnung, oder
+#facs_215_r2l9 berannte und erweisliche Reise Geschäfte im
+#facs_215_r2l10 Lande herumziehen
+#facs_215_r2l11 Wer nun solche Personen, mannlichen
+#facs_215_r2l12 3)
+#facs_215_r2l13 der weiblichen Beschlechts auf Nebenstraßen
+#facs_215_r2l14 In Buschen, Wäldern oder Feldern antreffen
+#facs_215_r2l15 wird, soll selbige den Vorgesetzten der
+#facs_215_r2l16 nächsten Gemeinde zuführen, die dann
+#facs_215_r2l17 solche alsogleich dem Amtsmann des Orts
+#facs_215_r2l18 zusenden werden
+#facs_215_r2l19 4°) Wenn jemand von Unsern Angehörigen
+#facs_215_r2l20 dergleichen Gesindel verstebt oder an
+#facs_215_r2l21 Aborten entdeken würde, sich aber zu
+#facs_215_r2l22 dessen habhaftmachung nicht stark genug
+#facs_215_r2l23 glaubte, so soll er schuldig seyn; solches den
+#facs_215_r2l24 Vorgesezten der nächsten Gemeinde anzu¬
+#facs_215_r2l25 zeigen, welche sodann verpflichtet sind.
+#facs_215_r2l26 selbiges
+#facs_215_r3l1 .3
+#facs_215_r3l2 selbiges gewahrsam aufheben und dem Amtsmann
+#facs_215_r3l3 des Orts zuführen zu laßen.
+#facs_215_r3l4 Sollten dergleichen Strolchen bey den Haufer
+#facs_215_r3l5 5.)
+#facs_215_r3l6 der Partikularen in abgelegenen Dönfern
+#facs_215_r3l7 oder einsamen Wohnpläzen Nachtlager forder¬
+#facs_215_r3l8 so soll es alsobald dem eint- oder andern der
+#facs_215_r3l9 nächsten Vorgesezten angezeigt werden, damit
+#facs_215_r3l10 derselbe zu Aufhebung dergleichen Gefindels,
+#facs_215_r3l11 entweder die nächstgelegenen Bewohner zur Hilfe
+#facs_215_r3l12 auffordern, oder sonst die nöthigen Anstalten
+#facs_215_r3l13 vorkehren könne.
+#facs_215_r3l14 6.) Jedermann soll aber nicht nur gehalten seyn.
+#facs_215_r3l15 den Vorgesezten bey solch einer Aufforderung
+#facs_215_r3l16 thätige Hilfe zu leisten, sondern auch zu seiner
+#facs_215_r3l17 eigenen Sicherheit jedem seinen Nachbauern, der
+#facs_215_r3l18 von solchen Bästen heimgesucht würde, wechsel¬
+#facs_215_r3l19 seitig zu Hilfe eilen, um die Verdächtigen auf¬
+#facs_215_r3l20 zufangen, und in das nächste Schloß zu liefern
+#facs_215_r3l21 7.) die Marechaussée wird die Neben- und Fuß
+#facs_215_r3l22 wege in Wäldern und Feldern fleissig durch wenig
+#facs_215_r3l23 dern, und zur allgemeinen Sicherheit das ihrige
+#facs_215_r3l24 beytragen helfen, der Meynung jedoch, daß
+#facs_215_r3l25 wann das Gefindel einer Marechaussé über
+#facs_215_r3l26 legen wäre, und diese Handbietung fordern würden,
+#facs_215_r3l27 ihr
+#facs_216_r2l1 ihr solche von allen Bewohnern einzelner
+#facs_216_r2l2 Häuser oder Dorfschaften, ohne Zandern
+#facs_216_r2l3 und bey eigener Verantwortung, geleistet
+#facs_216_r2l4 werden solle.
+#facs_216_r2l5 Wird bey der summarischen Untersuchung
+#facs_216_r2l6 8°
+#facs_216_r2l7 dergleichen diesern Amtleuten zugeführt.
+#facs_216_r2l8 Landstrenzer, oder bey Erdaurung ihrer
+#facs_216_r2l9 Passe, entwert, daß sie sich nicht dieser
+#facs_216_r2l10 Verordnung gemäß verhalten, und von
+#facs_216_r2l11 deren Verantmachung an das Land geräumt
+#facs_216_r2l12 haben, so sollen selbige mit Gefangenschaft
+#facs_216_r2l13 und bey Kurfällen mit Prügeln bestraft,
+#facs_216_r2l14 jedesmal dasie Unsern Amtleuten zuge¬
+#facs_216_r2l15 führt, und unter Bedrohung noch härterer
+#facs_216_r2l16 Strafe fortgewiesen, auch je nach den
+#facs_216_r2l17 Umständen auf die Grenzen geführt
+#facs_216_r2l18 werden
+#facs_216_r2l19 Auch die mit Pässen versehenen Rei¬
+#facs_216_r2l20 9°
+#facs_216_r2l21 senden, sollen auf den Hauptstraßen
+#facs_216_r2l22 verbleiben, in dem Lande sich ohne Beruf
+#facs_216_r2l23 nicht aufhalten, sondern ihren Weg fort¬
+#facs_216_r2l24 sezen, worauf bey der Untersuchung der
+#facs_216_r2l25 Passe wohl zu achten ist.
+#facs_216_r2l26 10:)
+#facs_216_r3l1 Verso
+#facs_216_r3l2 10a Personen aber die wegen Geschäften im Lande
+#facs_216_r3l3 Herumreifen und solches hinlänglich bescheinigen
+#facs_216_r3l4 können, wie auch Handwerksgesellen so mit gül¬
+#facs_216_r3l5 tigen Kundschaften und felleisen versehen sind,
+#facs_216_r3l6 sind hierunter nicht begriffen, sollen aber stets
+#facs_216_r3l7 auf den Hauptstraßen oder den zu ihren Ge¬
+#facs_216_r3l8 thäften führenden Straßen verbleiben
+#facs_216_r3l9 Da aber die besten Sicherheitsanstalten
+#facs_216_r3l10 unnüz und fruchtlos sind, wenn nicht ein jede
+#facs_216_r3l11 das seinige, und Dorfschaften mit Vereinigten
+#facs_216_r3l12 Kräften das ihrige zu deren Aufrechthaltung
+#facs_216_r3l13 beytragen, und zwar ohne Rüksicht eines unhei¬
+#facs_216_r3l14 tigen Mitleidens gegen die Strolchen oder
+#facs_216_r3l15 einer übelangebrachten Ersparnis etwelcher ge-
+#facs_216_r3l16 ringer Kosten; so wird hierdurch jedermann ver¬
+#facs_216_r3l17 warnet, daß wann bey einer allfälligen Nachfor¬
+#facs_216_r3l18 thung sich erzeigen würde, daß abgelegene Häuser
+#facs_216_r3l19 und Höfe die Strolchen beherberget hätten, ohne es
+#facs_216_r3l20 der Nachbarschaft anzuzeigen, die Meisterleute
+#facs_216_r3l21 als Hähler werden angesehen und bestraft worden;
+#facs_216_r3l22 Dorf schaften dann die das Gesindel aus Unthätigkeit
+#facs_216_r3l23 Nachsicht oder zu Ersparung einiger Kosten
+#facs_216_r3l24 nicht angehalten und in das nächste Schloß geliefert
+#facs_216_r3l25 hätten, werden ohne Schonen zu allen Kosten verfällt
+#facs_217_r3l1 werden, die einer fleissigern Dorfschaft von
+#facs_217_r3l2 daher aufgefallen waren nebst einer schär¬
+#facs_217_r3l3 feren Ahndung in wiederholtem Fall
+#facs_217_r3l4 Hierauf werden alle Amtleute und Vor¬
+#facs_217_r3l5 Gesezte fleißig zu wachen ermahnt
+#facs_217_r3l6 Geben den 30ten September 1793

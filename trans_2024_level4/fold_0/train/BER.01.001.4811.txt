@@ -1,0 +1,60 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 52/53
+# High similarity (>=80%): 51
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4811
+#facs_200_r4l12 Aufhebung des Ausfuhr Verbotts
+#facs_200_r4l13 von Brandtenldein, Kirschen und
+#facs_200_r4l14 andere gebrandten Waßeren
+#facs_200_r4l15 An alle deutsche und Welsche Herren Amtleut,
+#facs_200_r4l16 IV. Städt, Freyweibel und Amann und 7. Zedel
+#facs_200_r4l17 an die hiesigen Cänzel.
+#facs_200_r4l18 Statthalter und Rath der Stadt Bern.
+#facs_200_r4l19 von der hier hier mit kommenden Publikation,
+#facs_200_r4l20 wordurch das Ausfuhr verbott, des Brandten
+#facs_200_r4l21 weinr, Kirschen und anderer gebrandten Waßer
+#facs_200_r4l22 wieder auf gehoben ist, übersenden Wir Euch
+#facs_200_r4l23 eine genugstamme Anzahl Exemplar mit dem
+#facs_200_r4l24 Befehl, solche aller Orten anschlagen und von
+#facs_302_r6l11 Castelen
+#facs_131_r2l21 390
+#facs_116_r3l1 Collete
+#facs_8_r6l1 9
+#facs_201_r3l1 Canzler verlesen zu laßen. Gott mit Euch
+#facs_200_r4l10 Datum den 14. Julii 1796
+#facs_75_r1l2 obed
+#facs_67_r3l14 Publication
+#facs_164_r3l12 Wir Schultheiß und Rath der Stadt und Republik
+#facs_201_r3l6 Bern, thun kund hiemit: daß, in Betrachtung
+#facs_201_r3l7 der veränderten Zeit Umstände, Wir nicht
+#facs_201_r3l8 mehr nöthig finden, die Ausfuhr des Brau¬
+#facs_201_r3l9 tenwein, Kirschen, und andrer gebrandten
+#facs_201_r3l10 Waßeren, zu verbieten, und daß wir den
+#facs_201_r3l11 nach Unser unterm 11ten Wintermonat.
+#facs_201_r3l12 1794 deßhalb publizirte Verordnung auf
+#facs_201_r3l13 leben, und diesen Handel, so wie derselbe
+#facs_201_r3l14 vorhin gewesen, wieder freÿ lassen.
+#facs_201_r3l15 Da aber die Einfuhr aller gebrandten
+#facs_201_r3l16 Waßern ferners hin verbotten seyn soll.
+#facs_201_r3l17 so bleibt es deshalb lediger Dingen bey
+#facs_201_r3l18 der von Ansteren Gnädigen Herren und
+#facs_201_r3l19 Obern, das fremden Weins, Eßigs und Brand¬
+#facs_201_r3l20 ten weins halber, unterm 14ten. Januar 1774
+#facs_201_r3l21 in Druk ausgegebenen Verordnung, sowie
+#facs_201_r3l22 es auch in Anstehen des innern Verkehrs
+#facs_201_r3l23 und der Detail Handlung, bey Unser den
+#facs_201_r3l24 = Prandten
+#facs_20_r2l25 90
+#facs_23_r3l1 39
+#facs_201_r5l2 Brandten wein und ander gebrandte Waße
+#facs_201_r5l3 anstehenden, unterm 11ten Januar 1790. publi¬
+#facs_201_r5l4 cirten Verordnung sein unabgeändertes Ver¬
+#facs_201_r5l5 bleiben haben soll. Als welches Wir hiemit durch
+#facs_201_r5l6 öfentliches Anschlagen und Verlesung von
+#facs_201_r5l7 Canzeln, zu Jedermanns Nachricht bekannt
+#facs_201_r5l8 machen wollen. Geben den 18. Julii 1796
+#facs_85_r2l1 obi.
+#facs_98_r5l28 en

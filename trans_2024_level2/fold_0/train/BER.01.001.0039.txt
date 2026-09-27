@@ -1,0 +1,596 @@
+Law nr: BER.01.001.0039
+Name: Ordnung unnd Satzunng der Pensionenn unnd Reyssgelouffenn.
+
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_479
+# Matched: 583/583
+# High similarity (>=50%): 576
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_99_r1l18 schultcheis klein vnnd groß Rat zu decun¬
+#facs_99_r1l19 Innsern fruuntlichenn gruß zuuor, Ersa¬
+#facs_99_r1l20 menn liebenn getruwenn, Als wir vff, S.
+#facs_99_r1l21 dartlouwstag nächst verschinnen, vch vnne
+#facs_99_r1l22 anndern den vnnserm In Stat vnnd lanne
+#facs_99_r2l1 1719
+#facs_99_r2l2 der Pensionenn vnnd reyßgelouffenn hals geschri¬
+#facs_99_r2l3 binn wie wir dann solliche abgestellet, vnnd
+#facs_99_r2l4 das wir In thurther zyt ein ordnung unne
+#facs_99_r2l5 sathuung darüber mit gutter vorbetrachtunng
+#facs_99_r2l6 machenn wolltennt, hat biß har der grossonn
+#facs_99_r2l7 schwärrenn Hänndlenn halb, die vff vnnß ge¬
+#facs_99_r2l8 uallenn int mogenu besthachenn, So wir aber
+#facs_99_r2l9 Etlicher maß zu vnwenn khomenn, habem
+#facs_99_r2l10 wir vnns diß hanndele hatt zusamenn xxtan
+#facs_99_r2l11 Unnd Ein ordnung der pensionenn vnnd frömb¬
+#facs_99_r2l12 denn khriegenn, da har vnns vil vurats vnd
+#facs_99_r2l13 thadenn zugestanndenn, vffgericht, vnnd augentz
+#facs_99_r2l14 zu Gott geschworenn, dieselbe ordnung stät, vnnd
+#facs_99_r2l15 Vnuerbrochennlich zehalltenn, des habenn wir
+#facs_99_r2l16 Ich In yl wöllenn berichtenn, vch hie zwusthen,
+#facs_99_r2l17 bis wir vch die ordnung (das In thurthem
+#facs_99_r2l18 sin wirt) zuschickenn, wussenn darnach ze¬
+#facs_99_r2l19 halttenn, vnnd der frömbdenn Khriegenn Mu¬
+#facs_99_r2l20 ssigenn, by straff schwarer straff, Datx
+#facs_99_r2l21 vff S. Mathys tap Enno rch. Rix.
+#facs_100_r1l1 Vide Epitomen.
+#facs_100_r1l2 Infra 202
+#facs_100_r2l1 Erenning unnd satuung
+#facs_100_r2l2 der pensionenn vnnd reys¬
+#facs_100_r2l3 gelöuffenn,
+#facs_100_r2l4 In der Schultheis, die rat, vnnd ge¬
+#facs_100_r2l5 mein burger genannt die Zwoyhunn¬
+#facs_100_r2l6 dert der Stat derim thune khunne
+#facs_100_r2l7 Unnd veriachgunt offennlich mit
+#facs_100_r2l8 diser schrifft, Das wir habenn betrach:
+#facs_100_r2l9 tett vnnser ouch der vnnseren In Stat
+#facs_100_r2l10 unne lanne, lob, mith, ter, vnnd wol:
+#facs_100_r2l11 fact, darquo die besonndre gnad so Got
+#facs_100_r2l12 der allmechtig vnns In säundnung vnd
+#facs_100_r2l13 offnunng sins herligenn worts rychlich
+#facs_100_r2l14 mitgeteilt hat, Da nun int pnus
+#facs_100_r2l15 Ist
+#facs_100_r2l16 dasselbig gehorenn, vnnd weissenn, son¬
+#facs_100_r2l17 dero demnach vnnser labenn zerichten,
+#facs_100_r2l18 des wir vnnß vß denselbenn yna den
+#facs_100_r2l19 zu besserunng, Vursers läbenns gefli¬
+#facs_100_r2l20 ssenen, vnnd vff sollichs Ettlich
+#facs_100_r2l21 gruwell vfgeruttet lut vnnser vf:
+#facs_100_r2l22 gannquenn Reformation darinne wie¬
+#facs_100_r2l23 Denns wytter twitte my mit der zyt
+#facs_100_r2l24 alles Hindan Zethund vnnd abzestel¬
+#facs_100_r3l1 172
+#facs_100_r3l2 lenn, das got vnnd Christenlicher liebe
+#facs_100_r3l3 Widrip, So nun die wiettenn vnnd gaben
+#facs_100_r3l4 von Furstenn vnnd herrnn, wie die bißbar¬
+#facs_100_r3l5 genommenn, Auch Eigner mith die groß¬
+#facs_100_r3l6 gruwill vor got sinne, so die herthenn der
+#facs_100_r3l7 nömmsthenn verdunncklenn, vnnd par ver¬
+#facs_100_r3l8 blaundenn, dadurch dann all rat vnnd vr¬
+#facs_100_r3l9 teil verargwonet, vnnd niemants, so damit
+#facs_100_r3l10 besudlet, besonnders der oberkeit vertruwet
+#facs_100_r3l11 Wirt, zu dem, das dadurch gwaltig khungk¬
+#facs_100_r3l12 rijch, stett vnnd laünder zerstört, unnd zu
+#facs_100_r3l13 Abfal thomenn sinnd, als Rom, vnnd ann.
+#facs_100_r3l14 der machtig stet, vnnd communenn, Als
+#facs_100_r3l15 man Ollerumthalbenn In Historienn finndt
+#facs_100_r3l16 habennt wir als Ein Christenliche Oberkeit
+#facs_100_r3l17 zu hinleguung, fursachuung vnnd abstellung
+#facs_100_r3l18 des alles, Ouch zu Kunthallt vnnd ganndt¬
+#facs_100_r3l19 habuung vnnsers von got gegaenenn regiments
+#facs_100_r3l20 Sonne verwalts, Ouch vnnser stett, lanne vnnd
+#facs_100_r3l21 liet In fridlichenn rüwigem, Christlichem
+#facs_100_r3l22 wasenn zu erhalltenn, vnnd das wir vor
+#facs_100_r3l23 dem straunpenn gericht Cote am Jünigsten
+#facs_100_r3l24 tag dest bas bestan, vnnd vnnser verwaltung
+#facs_100_r3l25 gut rächnunng gäbenn mogennt, Alle wen
+#facs_101_r1l1 In betrachtuung des zeygaüncklichenn augen¬
+#facs_101_r1l2 blicklichenn labenn, vnnd das vnnß gar
+#facs_101_r1l3 Eheinenn mith bringenn, Ob wir glijch
+#facs_101_r1l4 Woe Aller wellt gint uberckhamend
+#facs_101_r1l5 Unnd aber vnnser seelenn verdampnuß
+#facs_101_r1l6 gewertig sin wurdemit harunis wic
+#facs_101_r1l7 mit wolbedachtem zyttigem Rat, In be¬
+#facs_101_r1l8 trachtuung verganngner schadenn, vnd
+#facs_101_r1l9 nachredenn schmälerinung vnnser le¬
+#facs_101_r1l10 renn Ouch damit wir dem zorn vnnd
+#facs_101_r1l11 rach gottes mogennt kuntruimen, diß
+#facs_101_r1l12 nachvolgenn d'Ewig, ordnunng, satzung
+#facs_101_r1l13 Dennen fursachunng habe mit berett vnnd
+#facs_101_r1l14 geordnet angenomenn, beschlossen vff
+#facs_101_r1l15 gericht, vnnd so bliche staet zehaltenn
+#facs_101_r1l16 zu Gott geschworenn, In wijsz vnnd
+#facs_101_r1l17 form, als hernach volget, dem Ist also,
+#facs_101_r1l18 Vnnd namlich des erstenn so billich
+#facs_101_r1l19 Ist, das der psath gaber der best sin soll,
+#facs_101_r1l20 Der dem vsatz vnnderwurfftig vnnd
+#facs_101_r1l21 dem nach labenn, So Ist das lutter
+#facs_101_r1l22 vnnsert will vnnd meinung, Das
+#facs_101_r1l23 Wir vnnd vnnser Nachkommenn
+#facs_101_r1l24 hinfur aller frömbdenn furstenn vnnd
+#facs_101_r1l25 y herrung stettenn vnnd läundernn Mietten,
+#facs_101_r3l1 173
+#facs_101_r3l2 vnnd gabenn praesionenn vnnd schenncki¬
+#facs_101_r3l3 nenn ganntz müssig aan, vnnd vnns der
+#facs_101_r3l4 Enntstglachenn, In form vnnd gestalltenn
+#facs_101_r3l5 Als hernach bof erluttert Dem Ist allso
+#facs_101_r3l6 Das niemants In vnnser Staten, vnnd
+#facs_101_r3l7 anndern vnnserm Stettenn lannden vnnd
+#facs_101_r3l8 gepiettenn wonennd oder gesässenn Er sye
+#facs_101_r3l9 burger, lanndtman, oder hinndersässen, geist¬
+#facs_101_r3l10 lich, oder wiltlich, Edele oder vnedell, rycken
+#facs_101_r3l11 oder Arm wijs oder man, Junng oder allt
+#facs_101_r3l12 In was stande oder wasenn die sinnden nie¬
+#facs_101_r3l13 mants vs genomenn von disem tog hin, wa¬
+#facs_101_r3l14 der von Päpstenn kheysernn, Chuungenn
+#facs_101_r3l15 Furstenn, Hertzogenn, Grauenny Herrnn
+#facs_101_r3l16 Stettenn, läundernn, geistlichenn oder welt:
+#facs_101_r3l17 lichenn stäundenn gar vnnde ganntz von
+#facs_101_r3l18 Niemants vberae korn pension dienstgellt
+#facs_101_r3l19 Jargeltz nuet gab, scheuncke Sy spount Ietz
+#facs_101_r3l20 zugesagt, Oder die furchin vnnß oder den
+#facs_101_r3l21 Innsernn zustan, verheissenn vnnd zu gesagt
+#facs_101_r3l22 mochteunt wordenn, habenn namenn Empfa¬
+#facs_101_r3l23 chenn, noch In sölcher gestalt vtzit kunt¬
+#facs_101_r3l24 lechnenn, schennckenn, vffbrechenn, Noch
+#facs_101_r3l25 vonn der dem sthyn, das vnnser, oder niemants
+#facs_101_r3l26 fur sich selbst, das sin versetzenen verthusthenn
+#facs_102_r1l1 Verckhouffrun noch verschennckenn sollennt.
+#facs_102_r1l2 wader durch fich selbe sin wijb-khinne frund
+#facs_102_r1l3 dienst noch anndern damit sollichs In sin nuti
+#facs_102_r1l4 kommenn möchte heimlich noch offenlich
+#facs_102_r1l5 gemeinlich oder sonderlich In dhein wys
+#facs_102_r1l6 noch was, Ouch wir noch vnnser aller nach¬
+#facs_102_r1l7 thommenn In vnnser Stat seckell, Noch die
+#facs_102_r1l8 vnnserm In stat vnnd lanne peuwinlich
+#facs_102_r1l9 noch dhein gmeind Insonnders In vnnserm
+#facs_102_r1l10 oder Irenn nutz deß blyckenn gelt, oder den
+#facs_102_r1l11 wardt gar mit namenn Empfachenn be¬
+#facs_102_r1l12 wanndenn, noch besectlenn alles by geschwoc¬
+#facs_102_r1l13 nenn Eydenn
+#facs_102_r1l14 Damit aber nie
+#facs_102_r1l15 mants argkwonenn möp, Das wir dise satzung
+#facs_102_r1l16 mit Einicheckeij geuardenn gemacht, vnnd
+#facs_102_r1l17 dadurch fur vnns selvs, vnnd vnnser ver¬
+#facs_102_r1l18 wanndtenn Etwas vnnderstan wöllennt
+#facs_102_r1l19 das gemeinem lannes fridenn widrig, So be¬
+#facs_102_r1l20 Haeltenn wir vor ollein das Jargelet
+#facs_102_r1l21 das In vnnser Stat sochell gehort, namlich
+#facs_102_r1l22 von des fridenn wagenn, zu Fryburg zyn
+#facs_102_r1l23 0
+#facs_102_r1l24 sthenn dem Frantzösischenn Khirny, vnnd
+#facs_102_r1l25 gemeiner Eydgnosthafft gemacht zum
+#facs_102_r1l26 anndernu Das Jargellt, so von wagenn der
+#facs_102_r1l27 Erbeynung mit dem huß Ostervyck, vnd
+#facs_102_r1l28 vurgunndi, vnns ouch Allem In der Stat
+#facs_102_r1l29 seckell gehort, vnnd zu letst, das Jargellt
+#facs_102_r1l30 Durchthan 13 July
+#facs_102_r1l31 1544
+#facs_102_r1l32 1
+#facs_102_r3l1 174
+#facs_102_r3l2 Tomb Willem de aeltenn priuntuussenn, So bin stat
+#facs_102_r3l3 Vern mit dem Hus Sauwje Garbracht hat, Dunst
+#facs_102_r3l4 keins vberall, vnnd doch hirby all somndrig pen
+#facs_102_r3l5 sionenn, miettenn vnnd gabenn ganuth vß besthlo¬
+#facs_102_r3l6 senn, by hienachgesatster straffen
+#facs_102_r3l7 Vnnd Ob
+#facs_102_r3l8 Völlichs Iemaunt nit halltenn vnnd sich das mit
+#facs_102_r3l9 der warheit wurd erfinndenn, das alldann der oder
+#facs_102_r3l10 dieselbigenn sampt oder sunnders, von stunnd an
+#facs_102_r3l11 von allenn Eeren gesetzt, vnnd furer Ir läben:
+#facs_102_r3l12 lang zu dheinenn erlichenn sachenn, Als zu
+#facs_102_r3l13 gericht, Rat, Khunntsthafftenn, vnnd derglijcken
+#facs_102_r3l14 Henndlenn gebrucht, Sonn der alls khunntlich be¬
+#facs_102_r3l15 sagt, Erloß, meineydig verwurckt, erstorbenn ver¬
+#facs_102_r3l16 theert lut, niemannts wäder nutz noch sthad twig¬
+#facs_102_r3l17 klich gehalltenn vnnd geachtet, Ouch sol hie¬
+#facs_102_r3l18 wider mitzit erdacht furgezogenu, oder an bracht
+#facs_102_r3l19 wardenn, das dem zu abbruch oder letzunng Ei¬
+#facs_102_r3l20 nichs wags moge dienenn oder prychenn, durch
+#facs_102_r3l21 frombe oder heimsth munntlich oder schrifftlich
+#facs_102_r3l22 Dann wir hierinne alle funnen arglist, vnd zu p
+#facs_102_r3l23 vnnd geuarde, dero sich Iemant gebruchenn, da
+#facs_102_r3l24 mit Er vrsach habenn mochten, sollich pensionem
+#facs_102_r3l25 sthennckinenn, miet gabenn oder dienstgellt zena¬
+#facs_102_r3l26 menn, vs. gesatzt, vnnd gemittenn wolleunt sin vnd
+#facs_102_r3l27 Vnnd ob sich begäbenn, das Ir
+#facs_102_r3l28 sbelybenn
+#facs_102_r3l29 1 mannt Einichenn anzug, austhlag, rat oder that
+#facs_103_r1l1 gäbenn vnnd thun wurde die ordunung abge¬
+#facs_103_r1l2 Z stellenn, der seils sol zu rachter straff hunn¬
+#facs_103_r1l3 dert gulden verfallenn sin, vnnd die ouch von
+#facs_103_r1l4 Im an alle pnad so dick Es zu beschulden
+#facs_103_r1l5 khumpt zu hanndenn vnnser Stat gezogenen
+#facs_103_r1l6 Dennd dero mittzit nachgelassenn worden vnnd
+#facs_103_r1l7 darzu Ein gaunth Jar von vnnser stat dern
+#facs_103_r1l8 Der lannet sthafft, wo Er Ein lann etman
+#facs_103_r1l9 ixe On alle gnad leistenn, Souere aber
+#facs_103_r1l10 der so arm, das Im nit muglich wäre sollich
+#facs_103_r1l11 straff zu bezalenn, Alldann so sol Er siner
+#facs_103_r1l12 terenu beroupt vnnd guntsetzt sin, Ob aber
+#facs_103_r1l13 tinicher oder mer, So sich allso verganngem
+#facs_103_r1l14 Eenne verwurckt hättennt, Daruon nit stan
+#facs_103_r1l15 sonnders fur Ein mal hin, sollich miettenn
+#facs_103_r1l16 Vnnd gabenn namenn, vnnd dis ordnung
+#facs_103_r1l17 mit achtenn, unnd obbenempte straff, vnnd
+#facs_103_r1l18 Anclumbdunng mit sthetzenn, sonn ders allso
+#facs_103_r1l19 In Irem furnamenn beharrenn wolltennt
+#facs_103_r1l20 der vnnd dieselbenn sobleunt an alle gnad
+#facs_103_r1l21 vom labenn zum tod, mit dem schwertt ge
+#facs_103_r1l22 richt wordenn, Ob Ist aber hierinn vorbe¬
+#facs_103_r1l23 halltenn, Das ein Inlaundiger burger, oder
+#facs_103_r1l24 lanntman, Ouch all die, so vnnder vnnser stat
+#facs_103_r1l25 pauer gehörenn, dem ann deren vngenarli¬
+#facs_103_r1l26 cher wys, von sinem tignenn gutn wol
+#facs_103_r2l1 175
+#facs_103_r2l2 theunckenn vnnd terunng thun magen als die
+#facs_103_r2l3 guttenn hat, vnnd derglichenn vnargwänig ver¬
+#facs_103_r2l4 teruungenn, wie das von allter har sitt unnd
+#facs_103_r2l5 gevon Ist. So sol aber niemante der von
+#facs_103_r2l6 &c
+#facs_103_r2l7 vnnß zu frömbdenn furstenn vnnd herrnn In
+#facs_103_r2l8 potsthafft wys hinns zu tagleystuungenn, oder
+#facs_103_r2l9 unst aundrer gestalt geschickt, oder fur sich
+#facs_103_r2l10 Hoff Osterman
+#facs_103_r2l11 selbs berufft oder vnberufft ryttenn, oder gan
+#facs_103_r2l12 tag 1539 ist
+#facs_103_r2l13 difer Aruckel wurde, Sie zerunng rytlon noch annder gabenn
+#facs_103_r2l14 der Vrtlow Vermugenn vnnd scheancke, (als ross, hy denn siell
+#facs_103_r2l15 erbetert vor
+#facs_103_r2l16 bergesthirn goed oder gelt, pfennig, oder des wartt,
+#facs_103_r2l17 gemeltert Allso
+#facs_103_r2l18 ut namenn, noch Empfachenn, somders, damit
+#facs_103_r2l19 Wann jemands
+#facs_103_r2l20 wir der ist aller argkwon hingenomenn sye vnnd all peuard
+#facs_103_r2l21 emer pottschafft
+#facs_103_r2l22 gemittenn blybennt, Alles vß sthlachenn vnnd
+#facs_103_r2l23 von mr. han vor
+#facs_103_r2l24 gart vnd een ganntgen vnnd gar mussig gan, by oberlutterte
+#facs_103_r2l25 Die erloupt
+#facs_103_r2l26 straff, Jeden wertratten den vffzeleggenn
+#facs_103_r2l27 vnd goordnet
+#facs_103_r2l28 wirt, das allein die dermal vorbehaltenn
+#facs_103_r2l29 allsdanken die¬
+#facs_103_r2l30 selbigen
+#facs_103_r2l31 Is Ist aber darby zugelassenn, das ein Jeder¬
+#facs_103_r2l32 potten drn Rijt
+#facs_103_r2l33 sine khinnd zu furstenn vnnd herrun, ouch zu
+#facs_103_r2l34 lon woll
+#facs_103_r2l35 men mogen
+#facs_103_r2l36 thul schickenn, vnnd die allda khunst spra¬
+#facs_103_r2l37 namlich einer
+#facs_103_r2l38 jedes rags vijff
+#facs_103_r2l39 Hennen thupenne, vnnd gut sittenn mag lassenn
+#facs_103_r2l40 und darzu
+#facs_103_r2l41 lernenn, vnnd ob Inenn zu furdrunnig desselbenn
+#facs_103_r2l42 Die Zerung
+#facs_103_r2l43 dem Knecht zu lebs narumus vnnd Irem staund vthit wurde
+#facs_103_r2l44 geben genolgen von denen die mit bürger sind
+#facs_103_r2l45 een bengem x stverum tag
+#facs_103_r2l46 Statt Shryber
+#facs_104_r1l1 gäbenn Das sy sollichs mogennt namenn vnnd
+#facs_104_r1l2 behalltenn doch das Irrnn vattern vnnd frunn¬
+#facs_104_r1l3 denn dachar mitzit wytter Ersthiesse, vnnd
+#facs_104_r1l4 Darinn ehem genard gebrucht waerde, vnnd
+#facs_104_r1l5 by dem allem söllenn vnnd wollenn wir all
+#facs_104_r1l6 gemeinlich vnnd sonderlich Einanndernn
+#facs_104_r1l7 kanntgabenn schutzenn vnnd sthiemenn by
+#facs_104_r1l8 Innsernn geschwornenn Eydenn, Als hie¬
+#facs_104_r1l9 nach wytter usbesthridenn ist
+#facs_104_r1l10 Eurer Ist zuwissenn, Das wir obbemelet
+#facs_104_r1l11 Schultheis rat vnnd burger der Stat Veru
+#facs_104_r1l12 betrachtet vnnd zu hertzenu genasit habenn
+#facs_104_r1l13 Die schwäre nachred, verschmelernung vnnd
+#facs_104_r1l14 Dercletzunng vnnser erenn Ouch erödung
+#facs_104_r1l15 unser stettenn laundenn vnnd gepretten, So
+#facs_104_r1l16 nit allein vnnß vnnd den vnnsernn suum der
+#facs_104_r1l17 gemeiner Eydgnosthafft Ein gutte zyt dahac
+#facs_104_r1l18 durch frömbd vflaündig Khriep (got Er
+#facs_104_r1l19 barnis) begepsiet vnnd zupestann denn sinne
+#facs_104_r1l20 Dem allem hinfur vorgesin, vnnd damit
+#facs_104_r1l21 sollich mutwillig Khriep abgestellt, Lannd
+#facs_104_r1l22 unnd bit mit hillff vnnd xuad gottes In
+#facs_104_r2l1 176
+#facs_104_r2l2 Ihirm frid, vnnd ruwenn gehalltenn, unnd tinann¬
+#facs_104_r2l3 dernn vor leyd vnnd khummer verhuttenn, vnnser
+#facs_104_r2l4 Denne der vnnserm lob, nutge vnnd ter furdernn
+#facs_104_r2l5 lyb, seel, ter vnnd gut bewarenn, habenn wir
+#facs_104_r2l6 Diß nach geschribenn satzunng, vnnd ordnunng der
+#facs_104_r2l7 Frömbdenn veyßgelöuffenn halb angesächenn, be¬
+#facs_104_r2l8 rett vffgericht, vnnd vestenncklich zechalltenn
+#facs_104_r2l9 angenomenn In Wortenn als hernach volgt
+#facs_104_r2l10 Annd namlichenn, des erstenn, So habenn wir vns
+#facs_104_r2l11 Erckgrunt vnnd Erluttert, das wir furwerthin fur
+#facs_104_r2l12 vnnß selbst vnnd vnnser twig nachkhommenn, aller
+#facs_104_r2l13 Frömbdenn furstenn vnnd herrnn vnnnd Ir khriegenn
+#facs_104_r2l14 4.
+#facs_104_r2l15 mussig gan, vnnd vnns derselbenn ganntz vnne gar
+#facs_104_r2l16 Enntschlachenn, Vnnd daruff so wollenn wir am
+#facs_104_r2l17 Alle furwort, das hinfur niemannt geistlicher noch
+#facs_104_r2l18 welltlicher, wijs oder man Junng oder allt In vnnser
+#facs_104_r2l19 stat dern vnnd In vnnsernn laundenn unnd gepietten
+#facs_104_r2l20 gesässenn oder wonennen, mit frömbdenn furstenn
+#facs_104_r2l21 herrun, stettenn, oder laünderum Oder Irenn pottenn
+#facs_104_r2l22 Unnd gesanntenn, Dhern heimlich practick, noch
+#facs_104_r2l23 offentlich gesuch, warbunnen oder antrag thun noch
+#facs_104_r2l24 Inenn vtzit schrybenn verckhuurdenn oder Empietten
+#facs_104_r2l25 sollennt, da durch fhriegs vbung, vffbruch, offrij
+#facs_105_r1l1 Empörnung zwoijnung oder widerwertigkeit
+#facs_105_r1l2 Erwachsenn oder gefurdert mochte waerdenn
+#facs_105_r1l3 durch sich selbst oder Iemant von Jrotwagen
+#facs_105_r1l4 vnnd ob söllichs von Iemant In wöllicher
+#facs_105_r1l5 gestalt das sin mochte besthaüge, das der vin
+#facs_105_r1l6 dieselbenn als welthatig lut geachtet, vnd
+#facs_105_r1l7 an alle gnad vom labenn zum tod gericht
+#facs_105_r1l8 sollennt wordenn
+#facs_105_r1l9 Wöllicher ouch hinfur In vnnser Stadt Sern
+#facs_105_r1l10 oder vnnser laundernn vnnd geprettenn Einich
+#facs_105_r1l11 hennlich gerinn versammlunng, ansthleg vnnd
+#facs_105_r1l12 prattickenn, mit wem das waer thun oder fur¬
+#facs_105_r1l13 namenn, oder Iemannts darzu bestellenn vnd
+#facs_105_r1l14 darumb Etwas verheissenn zusagenn, oder ga¬
+#facs_105_r1l15 benn, sing tignenn puts, oder sunst dadurch
+#facs_105_r1l16 vnnderstanndenn wurde In rattenn oder an
+#facs_105_r1l17 den pmeindenn Ein mers zemachtenn Ein
+#facs_105_r1l18 gem furstenn, herrnn, stettenn oder länn¬
+#facs_105_r1l19 dernn zuzeziechenn oder zu anndern sachen
+#facs_105_r1l20 geratenn vnnd zuheleffenn, So wider dis
+#facs_105_r1l21 ordnung sin mochte, daruf vnruw, Khrieg,
+#facs_105_r1l22 oder widerwertickheit Emitstan vnnd nachuoll:
+#facs_105_r1l23 genn mochte der vnnd dieselbenn sollennt
+#facs_105_r1l24 von vnnser Staten vnnd lannet schafft une
+#facs_105_r1l25 Alle gnad schwerenn, vnnd darzu Ir Jeder
+#facs_105_r3l1 177
+#facs_105_r3l2 hunndert gulldin an vnnser Stat buw zu rächter vn
+#facs_105_r3l3 ablässiger straff verfallenn sijn vnnd die vßrichten
+#facs_105_r3l4 Wo aber Ein frömbder, Es Sije Ein tijdgnoss,
+#facs_105_r3l5 oder annder vnß laündisthen, glijche warbunng om
+#facs_105_r3l6 Inns oder die vnnserm thun wurde, der vnnd
+#facs_105_r3l7 dieselbenn sollennt vnnser Stat vnnd lannd Ewig¬
+#facs_105_r3l8 tlich verwurckt, wo sij daruber darinne betrat¬
+#facs_105_r3l9 tenn wurdennt, Ob Inenn gericht wie obstat
+#facs_105_r3l10 Es sol ouch hinfur niemant dhern houptmann.
+#facs_105_r3l11 schafft, Lutiner schrijber oder vannrich ampt
+#facs_105_r3l12 fur sich selbst oder vff lius andernn bestellunng
+#facs_105_r3l13 Annamwuy noch habenn, dann der, so von vnnß
+#facs_105_r3l14 vnnd vnnserm Herrschafftenn zu dienst vnnd
+#facs_105_r3l15 rettuung vnnser Stettenn, laundenn gepiettenn
+#facs_105_r3l16 Unnd luttenn, geordnet, vnnd dargabenn wurtt
+#facs_105_r3l17 Vnnd wöllicher sich daruber einichter Oberg vll¬
+#facs_105_r3l18 ter Ompternn gebruchenn, beladenn oder vn
+#facs_105_r3l19 der namenn wurd, das alldann der vnnd diesel¬
+#facs_105_r3l20 benn vnnser Stat vnnd lannd angenutz rumenn,
+#facs_105_r3l21 vnnd alles Ir gut mit wys vnnd khinne willen
+#facs_105_r3l22 vnnd sin trye vnns veruallenn sin, vnnd zu dem
+#facs_105_r3l23 6
+#facs_105_r3l24 so Inn allso bystellt, ziechenn solle, vnnd ob sy
+#facs_105_r3l25 daruber In vnnserm stettenn, laundenn oder gepie¬
+#facs_105_r3l26 obgesthoben artickell ist erlutert worden
+#facs_105_r3l27 Julij 1544 wie das in mannal
+#facs_105_r3l28 Geistgemeldts dach geschriben staet, auch
+#facs_105_r3l29 hienach folio 3 -211
+#facs_106_r1l1 ttenn wurdenn betrattenn vnnd Ergriffenn,
+#facs_106_r1l2 Aeldann sollennt vnnser amptent dieselbenn
+#facs_106_r1l3 Ane verzug vänngklich annaimenn, vnnd dem
+#facs_106_r1l4 nach vom labenn zum tod an alle gnad gericht
+#facs_106_r1l5 vslanneigt wordenn, wo sich auch hinfur erfunnde, das
+#facs_106_r1l6 Jemannts le sijeunt houptlut oder aunder die vn-
+#facs_106_r1l7 Homptlut
+#facs_106_r1l8 off wiglei
+#facs_106_r1l9 sernn vffwiglenn, Inenn gelt verheissenn oder
+#facs_106_r1l10 gabenn vnnd sij damit In der herrnn diemst
+#facs_106_r1l11 vnnd besteldunng fürrnn wurdennt, wo man
+#facs_106_r1l12 die Wussenn vnnd anckkommenn mag, zu de¬
+#facs_106_r1l13 nenn sol Jederman gryffenn, Sy annamenn
+#facs_106_r1l14 vnnd Inleggenn, vnnd glijcher wys van la¬
+#facs_106_r1l15 benn zum tod richtenn, vnangesächen wo
+#facs_106_r1l16 har dieselbenn, oder wöllichem ort vnnser Eyd
+#facs_106_r1l17 gnosthafft sy zu dechirig synnt, wohin
+#facs_106_r1l18 ouch dieselbenn vffwigter, oder Ir pottenn kom:
+#facs_106_r1l19 meunt, oder wanndlerunt, vff die sol menngk¬
+#facs_106_r1l20 lich Ein gut vff sächenn habenn, vnnd wo Ir
+#facs_106_r1l21 hanndell argwoüig Ersthint, Sij alldann an
+#facs_106_r1l22 genommenn unnd gefragt, vnnd wo sy sich
+#facs_106_r1l23 schulldig finnermat, Olldann wie annoch
+#facs_106_r1l24 houptlut gestrafft vnnd gericht waerdenn
+#facs_106_r1l25 Ober wöllich Einspennig Khnecht sich durch
+#facs_106_r1l26 die houttlut, vffweigler, oder Ir pottenn oder fur
+#facs_106_r1l27 traff hienach
+#facs_106_r1l28 sich selbst lasseunt bewegenn, damit Sy hinweg
+#facs_106_r1l29 Fol. a 198
+#facs_106_r1l30 Ziechennt, vnnd sich allso vnnserun gepottenn
+#facs_106_r2l1 178
+#facs_106_r2l2 unnd verpottenn unghorsam hoügennt dieselbenn
+#facs_106_r2l3 all sollennt nach vnnser Erckhanntnuß vnnd gelägen
+#facs_106_r2l4 heit der sach gestrafft wordenn, vnnd uit In vnnste
+#facs_106_r2l5 lanntschafft thommenn, biß die straff vff Eij geleit
+#facs_106_r2l6 Wuxt
+#facs_106_r2l7 Und wann sich begabe, das wir mit Lignenn Ehriegenn
+#facs_106_r2l8 beladenn, vnnd allso Ins velld zugemit In zusatz oder
+#facs_106_r2l9 belapperumng khamennt (dauor got Sye) vnnd Ei¬
+#facs_106_r2l10 nich vnnder vnnß, oder den vnnserun vie oder wenig
+#facs_106_r2l11 heimlich gerinn, versamluung, ansthley, vnnd Rat
+#facs_106_r2l12 thun wurdeunt, Que der houptlutte nu vnnd vora
+#facs_106_r2l13 vnnser wissenn vnnd willenn vnn d allso durch schriff¬
+#facs_106_r2l14 tenn oder pottsthafftenn, den vyendenn warmngen
+#facs_106_r2l15 Inne verckhuundnungen zusanndtennt, den zuge¬
+#facs_106_r2l16 Ob gefurenn vnnderstuundennt, wie das besthächenn
+#facs_106_r2l17 mocht, dieselbenn all, so das thatnnt der darin ver
+#facs_106_r2l18 willigtteunt, vnnd sollichs vff sy gebracht wurde
+#facs_106_r2l19 sollennt lijs vnnd labenn verwurckt han, om alle
+#facs_106_r2l20 gnad
+#facs_106_r2l21 werdning
+#facs_106_r2l22 Vnnd damit dis gägenwintigtig der pensionenn vnnd
+#facs_106_r2l23 reys gelouffenn halb, Auch alles das hievor vnnd nach
+#facs_106_r2l24 gesthribenn stat, Ewig bestaund, So habenn wir Ei¬
+#facs_106_r2l25 genutlich berett vnnd beschlossenn, Erstlich
+#facs_106_r2l26 das die durch vnnß vnnd die vnnserm In stat vnd
+#facs_107_r1l1 lannd geschworenn solle wardenn, von menngk¬
+#facs_107_r1l2 lichem, was von viertsächenn Jarenn vff mann
+#facs_107_r1l3 stammen vnnd namenn Ist Ouch alle Jar Er
+#facs_107_r1l4 univert wordenn Damit Jederman des gut.
+#facs_107_r1l5 Wussenn hab
+#facs_107_r1l6 vnnd ob sich Iemant, so dis ordnunng geschwo
+#facs_107_r1l7 renn vnnd angenommenn, mit genärdenn hin¬
+#facs_107_r1l8 derhalltenn vnnd abriechenn, oder sunst nit
+#facs_107_r1l9 vnnd vrouppenn ware, das sol Inn doch nit schip
+#facs_107_r1l10 menn sonnders Inn diß ordnunng brudenn
+#facs_107_r1l11 zu glycher wys als ob Er zu gappuij vsin waer
+#facs_107_r1l12 Dennď sölliche ordnunng solvs postchworenen
+#facs_107_r1l13 hätte.
+#facs_107_r1l14 Inn anndernn So dis sathuung vnnd ordnung
+#facs_107_r1l15 Durch den wereunterl In Stat vnnd lannen
+#facs_107_r1l16 angenomenn vnnd gehalltenn geschworenn, Ist
+#facs_107_r1l17 von Nodtenn, Ob sich füyte, das Jeth oder
+#facs_107_r1l18 khuunfftiger zyt, Ettlich vil oder wenig sonn
+#facs_107_r1l19 drig personenn, oder gemeindenn In vnnserm
+#facs_107_r1l20 stettenn lanneenn vnnd geprettenn dis ord¬
+#facs_107_r1l21 nunng nit stchwerenn, oder nit halltenn,
+#facs_107_r1l22 vnnd daruber mutwillsun, vnnd frauelum
+#facs_107_r1l23 vnnd sich darumb nit wollenn lassenn
+#facs_107_r1l24 straffenn, Das alldann das meer furfaren
+#facs_107_r1l25 vnnd sich nit Irrenn noch verhinndernn lassen
+#facs_107_r1l26 sonnders vnnß dieselbigen vngehorsamenn
+#facs_107_r1l27 (lut diser satzunng) heleffenn straffenn,
+#facs_107_r2l1 179
+#facs_107_r2l2 Unnd Darby Einanndernn getruwlich hanndthabenn
+#facs_107_r2l3 thuthenn vnnd sthirmenn, unnd darinne gar nie¬
+#facs_107_r2l4 mants sthonenny
+#facs_107_r2l5 Zum Drittenn, wo sich vber Khurtz oder laning (daruor
+#facs_107_r2l6 gott sije) begäbe, das wir oder vnnser nach Rhom¬
+#facs_107_r2l7 meun von diser ordnung vnnd sathuung wagenn
+#facs_107_r2l8 (als wol zebesorgenn Ist) vberuöttiget, angenochten,
+#facs_107_r2l9 getrungenn oder beckhumbert wurdennt, durch wen
+#facs_107_r2l10 oder wöllicher gestalt das beschäche, das alldann die
+#facs_107_r2l11 vnnsernn In Stat vnnd lanne wider mennigklich by
+#facs_107_r2l12 gethanen tydenn vnnß bystannd thuennt Ir lijs
+#facs_107_r2l13 läbenn vnnd gut dapfferlich zu vnnß setzennt
+#facs_107_r2l14 als sij ouch zethune andas schulleig sinnen Unne
+#facs_107_r2l15 mit hilleff vnnd gnad gottes vnnser gemein vatter
+#facs_107_r2l16 lannd, Onch desselbenn fryheittenn, die vnnser alt¬
+#facs_107_r2l17 vordernn mit manhafftenn thatenn vnnd ver¬
+#facs_107_r2l18 verunng Irs bluts trobert, vnnd loblich herbracht
+#facs_107_r2l19 habennt, biß In den tod Einanndernn geleffenn
+#facs_107_r2l20 hannehabenn, schutzen, vnnd sthirmenn, vor leijen
+#facs_107_r2l21 verhuttenn, vnnd vnns vmb dhern sach daruon
+#facs_107_r2l22 treinigenn lassenn, Alles by geschwornenn Eydenn
+#facs_107_r2l23 In Khrafft dis brieffs
+#facs_107_r2l24 Darzu Ist abgerett, Ob Iemannd, Er sije vnnser burger
+#facs_107_r2l25 Launtman, oder hinndersäss, In oder vswendig vnser
+#facs_108_r1l1 wie man
+#facs_108_r1l2 das being recht¬
+#facs_108_r1l3 vffgeben
+#facs_108_r1l4 sollr stat
+#facs_108_r1l5 hienach sol
+#facs_108_r1l6 2 11
+#facs_108_r2l1 Stat deen in vnnseren Stettenn lanndenn vnnd
+#facs_108_r2l2 geviettenn so wir Jetz habenn, oder noch vber¬
+#facs_108_r2l3 thonsenn möchtigunt wonnend, sich vnnderstan
+#facs_108_r2l4 wurde diser furgesthribuer vnnd prsthwornen
+#facs_108_r2l5 ordnunng nit zeyrlabenn, Sonnders allso von
+#facs_108_r2l6 Dero waegenn vnnd von vnnserun stetten
+#facs_108_r2l7 Lanndenn vnnd geprettenn mit wyb vnne
+#facs_108_r2l8 khinnd oder allein hinzirchenn damit Er sol¬
+#facs_108_r2l9 licher frömbdenn Khriepenn vnnd reysom
+#facs_108_r2l10 pflagenn vnnd pensionenn Empfachenn
+#facs_108_r2l11 enne naamenn, vnnd wider das, So hiervan ge
+#facs_108_r2l12 Ichribenn stat, thun mochte der mag sin burgt
+#facs_108_r2l13 hier launtracht vor vnns Schultheissenn vnd
+#facs_108_r2l14 Rat vffgen, wir dann der bruch ist, vnnd
+#facs_108_r2l15 Dannethin sich nit widerums In vnnser streten
+#facs_108_r2l16 oder lanndenn hußhablich setzenn, In dhein
+#facs_108_r2l17 Wag, ane vnnser Erkoupnuß, doch Ime Ein
+#facs_108_r2l18 Durchzug vnnd wanneele vnab geschlagenn
+#facs_108_r2l19 mit gediungenn, das Er wider dise ordi
+#facs_108_r2l20 minnig mit Hänndle,
+#facs_108_r2l21 Cilutert hie¬
+#facs_108_r2l22 nach folio ein aufgehender zelten
+#facs_108_r2l23 am nachsten woll
+#facs_108_r2l24 Is Ist aber hieby zeuermerckenn, das die so
+#facs_108_r2l25 biß vff datum dis brieffs dem gemeinenn
+#facs_108_r2l26 louff nach In wunng der frömbden
+#facs_108_r2l27 Chriepenn gestanndenn, Oder mietten vnnd
+#facs_108_r2l28 gabenn von frömbdenn furstenn vnnd herrn
+#facs_108_r2l29 genommen, Das Sy darinus Irer terem
+#facs_108_r2l30 Einicher gestallt geschwecht sollenn sin
+#facs_108_r3l1 180
+#facs_108_r3l2 oder belybenn Sonnders was bißhar sich der Hänndlen
+#facs_108_r3l3 halb verloffenn hat, das sol alles abgestorbenn sin
+#facs_108_r3l4 Unnd dheiner dem anndernn das vffgebenn noch
+#facs_108_r3l5 verwijssenn, vnnd darumb nit gestrafft wordenn,
+#facs_108_r3l6 So uerr, Das Sy sich hinfur des alles mussgend
+#facs_108_r3l7 und damit dis ordnung vnnd satzunng durch
+#facs_108_r3l8 Dams vnnd vnnser nachkhomenn, gestracke, styff,
+#facs_108_r3l9 Doffracht redlich vnnd dapfferlich gehalltenn,
+#facs_108_r3l10 deronachgangenn vnnd gelapt wärde, So habenn
+#facs_108_r3l11 wir vnnß verzigenn aller Funndenn vns zupenn
+#facs_108_r3l12 listenn, gevardenn furwortenn, frytheittenn,
+#facs_108_r3l13 Gnaevnn fursthub vnndersthlouff, vnnd aller
+#facs_108_r3l14 annder mittlem vnnd wapen, dadurch vnne mit dis¬
+#facs_108_r3l15 vorgesthribenn ordnung vnnd satzinnigen Irth oder
+#facs_108_r3l16 har nach besthwecht, gemindert, Emntsetzt, oder
+#facs_108_r3l17 gehundert mochte wärdenn, Alles Erberlich In¬
+#facs_108_r3l18 guttenn trinwenn vnnd by zu Got gesthwornenn
+#facs_108_r3l19 Eydem
+#facs_108_r3l20 Doch so Ist disr sathuung allso gu
+#facs_108_r3l21 hierstan, das die dhern abbruch thun solle noch
+#facs_108_r3l22 moge vnnserm geschwornenn puundenn vnnd burgk
+#facs_108_r3l23 rächernn, Die wir mit vnnserm liebenn Eydgnessen
+#facs_108_r3l24 Prundthuossenn vnnd burgerim habemitn darzu
+#facs_108_r3l25 der Erbeynunng mit dem huß Österrich, vnnd
+#facs_108_r3l26 Surgrunde Dem Alltenn puncto unnd mit dem Hus
+#facs_108_r3l27 Durchthann 13 Julij 1544
+#facs_109_r1l1 Sauwe dem Friderung zu Fryburg zwisthenn dem
+#facs_109_r1l2 khuung von franuckrych, vnnd gemeiner tijd
+#facs_109_r1l3 gnosthafft vffgericht, dem burgkrächtenn mit
+#facs_109_r1l4 den dryenn stettenn, Costannts Jenuff, vnnd
+#facs_109_r1l5 Losam miwlich anpenomenn vnuergriffenlich
+#facs_109_r1l6 doch allweg die sonn drie pensionenn vt ge-
+#facs_109_r1l7 .
+#facs_109_r1l8 Dem allem nach, das wir
+#facs_109_r1l9 Aglossenn
+#facs_109_r1l10 dise satzunng mit vnnsern Einhällem vat
+#facs_109_r1l11 noch wussenn vnnd willenn der vnnserm
+#facs_109_r1l12 In stat unnd lannd, wol bessernn vnnd nieren
+#facs_109_r1l13 mogennt In Khrafft diser schrifft die der
+#facs_109_r1l14 zu zugsame mit vnnserm anhanngenndenn
+#facs_109_r1l15 Dierer sigel verwarett, Ouch sunst ander
+#facs_109_r1l16 vie brieff vnnder vnnserm vff getruckten
+#facs_109_r1l17 secrrt den vnnserm In Stat vnnd lanne
+#facs_109_r1l18 Zugesthickett zu bestauntnuß aller vnnd Je¬
+#facs_109_r1l19 der obgestbribuer dringenn punctenn vnnd
+#facs_109_r1l20 Inticklenn, deßhachenn vff Mathien
+#facs_109_r1l21 Anno etc. etc. 1529 II 24
+#facs_109_r1l22 Tinspeniger Ehriegerin
+#facs_109_r1l23 straff
+#facs_109_r1l24 Alesdann hievor der Einspennigenn knechten
+#facs_109_r1l25 halb kein straff bischar benambsett, Setzennt
+#facs_109_r1l26 wir, das sollich Einspennig Khuecht, die int
+#facs_109_r1l27 Houptlut, vffwigler, noch Rotmeister sind
+#facs_109_r2l1 -1817
+#facs_109_r2l2 Wann Sy vber dise ordnunng In frömede Khrieg louffen
+#facs_109_r2l3 Das Sij vanncklich Ingeleit vnnd nit vssgelassenn wer¬
+#facs_109_r2l4 damit, bis sy zächenn pfunnd pfennig an alle Xnad vß:
+#facs_109_r2l5 richtennt doch die straff des meineyds damit nit
+#facs_109_r2l6 abgeleit sin, Wo sij aber nit so habeuur, All¬
+#facs_109_r2l7 dann sölliche geltstraff mit genaungknus abtragenn,
+#facs_109_r2l8 Allso, das Sy zächenntag vnnd souil nächt zu wasser
+#facs_109_r2l9 vnnd brott In genaungknuß eigenn sollennt, wer
+#facs_109_r2l10 dero halb, so verganngnenn Jars, Nach dem wir
+#facs_109_r2l11 dise ordnung gemacht, In frömbde Khricx zogenn
+#facs_109_r2l12 vnnd widerumb anheimsth wordenn die darumb
+#facs_109_r2l13 prumptlich Ingeleit vnnd burgsthafft gäbenn
+#facs_109_r2l14 wytter straff abgetrapenn, Sollenn vnnser
+#facs_109_r2l15 Amptlit die Zachenn pfunnd von Jedem burgen
+#facs_109_r2l16 Inbrinn penn, Die aber noch nit Ingeleit sind
+#facs_109_r2l17 yßm Ouch kein burgsthafft gäbenn, Söllennt
+#facs_109_r2l18 die straff lijden, wie oblut, Ontl. xvi
+#facs_109_r2l19 Februarij, Anno etc etc.
+#facs_109_r2l20 des
+#facs_109_r2l21 Straff Des mijnijes stat hernach
+#facs_109_r2l22 solio, vnd mithuet
+#facs_109_r2l23 197

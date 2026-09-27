@@ -1,0 +1,170 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 162/163
+# High similarity (>=80%): 156
+# Low similarity (<80%): 6
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4422
+#facs_312_r3l3 Vorrechte, Obligenheiten und Pflichten
+#facs_85_r1l1 160
+#facs_4_region_1628102585488_60l1 2.
+#facs_78_r4l8 Verordnung
+#facs_85_r3l2 über die
+#facs_239_r2l3 Vorrechte, Obligenheiten und Pflichten der
+#facs_85_r3l4 Landschreiberen, in den Ämteren vorfür
+#facs_85_r3l5 sie bestellt sind.
+#facs_85_r3l6 Es sollen die Land- und Amtschreiber einzig und allein
+#facs_85_r3l7 befügt seyn, in den Ämtern, wofür sie bestellt sind,
+#facs_85_r3l8 alle Contracten und Instrument zu empfahen, im
+#facs_85_r3l9 zu verfertigen, die nach der Stadtsatzung und dem
+#facs_85_r3l10 Tarif Notarialiter ausgefertiget werden müßen.
+#facs_85_r3l11 oder deren Notarialische Ausfertigung die Partheyen
+#facs_85_r3l12 freywillig anbegehren.
+#facs_303_r5l7 Desgleichen soll ein jeder Unter Beamtet
+#facs_239_r2l14 einzig das Recht, wie auch die Pflicht obligen, die Audienz
+#facs_85_r3l15 die Audienz des Amtmans und die Gerichte
+#facs_85_r3l16 zu besorgen, die davon abhangende Scripturen
+#facs_85_r3l17 auszufertigen, und die davon fallende Emolument
+#facs_85_r3l18 zu erheben.
+#facs_85_r3l19 3. Hingegen aber sollen die Land- und Amtschreiber
+#facs_85_r3l20 nicht befügt seyn, die Amts=Angehörigen anzu¬
+#facs_85_r3l21 halten, jenige Verhandlungen bey ihnen Ausfer¬
+#facs_85_r3l22 tigen zu laßen, worzu die Stadtsazung und der
+#facs_239_r2l22 Tarif, selbige nicht ausdrukentlich verbindet.
+#facs_85_r3l24 4. Allen anderen Schreiberen und Notarien wird
+#facs_6_region_1628103169678_158l1 6
+#facs_6_region_1628103169678_158l1 6
+#facs_85_r6l1 161
+#facs_85_r6l2 derowegen verbaten, in den Ämtern, wofür sie
+#facs_85_r6l3 nicht bestellt sind, einige Contracten oder Instru¬
+#facs_85_r6l4 ment zu empfahen, und zu verschreiben, noch einig
+#facs_85_r6l5 von der Amtlichen Audienz oder Gerichtstellen
+#facs_85_r6l6 des Amts abhangende Scripturen zu verfertigen.
+#facs_85_r6l7 Alles bey Straffe der Ersatzung des Schadens, so
+#facs_85_r6l8 daraus entstehen könte, auch zwanzig Pfund Bus¬
+#facs_85_r6l9 von jedem deme zu wider verfertigten Instrumen
+#facs_85_r6l10 oder Schrifft; von welcher Buß ein Drickel der
+#facs_85_r6l11 Obrigkeit, ein Drickel dem Amtsmann des Orts
+#facs_85_r6l12 und ein Drictel dem Verleider zubommen¬
+#facs_92_r3l6 wir
+#facs_135_r6l24 Über diß soll der Fehlbare Schreiber das Schreib¬
+#facs_85_r6l15 Emolument von der dieser Ordnung zuwieder ver¬
+#facs_85_r6l16 fertigten Schrifft oder Instrument, dem Landschreiber
+#facs_85_r6l17 des Orts gut machen und ersezen, als wenner solches
+#facs_85_r6l18 selbs ausgefertiget hätte
+#facs_85_r6l19 Auf alle Notarialiter ausgefertigte Instrument und
+#facs_85_r6l20 Contracten, wie auch auf alle Sprüche, Urkund und
+#facs_85_r6l21 Scheinen, daß gleichen auf alle Abschrifften, Extracten
+#facs_85_r6l22 und andere Schrifften, sollen die Land- und Amt
+#facs_85_r6l23 schreibere die bezogene Schreib- und Sigel Emolumen¬
+#facs_85_r6l24 aussehen, und zwar an einem solchen Orte ausben
+#facs_85_r6l25 dig, daß es mänglich in die Augen falle.
+#facs_64_r11l2 r
+#facs_37_region_1628530197132_403l1 65.
+#facs_142_r2l9 e-
+#facs_86_r1l1 162.
+#facs_7_region_1628103356063_198l1 9.
+#facs_7_region_1628103297306_189l1 8
+#facs_6_region_1628103173914_161l1 7.
+#facs_86_r5l1 Es werden die Land- und Amtschreibere Ernst¬
+#facs_86_r5l2 lich angemahnt, in denjenigen Fällen, wo die
+#facs_86_r5l3 Emolument noch dem Halt der Bogen und Seiten
+#facs_86_r5l4 bestimt sind, sich einer gewißenhafften und nicht
+#facs_86_r5l5 allzu sehr ausgedähnten Schreibart zu befleißen
+#facs_86_r5l6 auch ihre Substituten ebenfahls hierzu anzuhal¬
+#facs_86_r5l7 sen; ins gemein sollen sie auf jede ganz über
+#facs_86_r5l8 schriebene Seite wenigstens - zwanzig und zwey
+#facs_86_r5l9 einen sezen, auch in Ansehen des Zwischenraums
+#facs_86_r5l10 und anfüllung der Linien, mit genugsamen
+#facs_86_r5l11 Wörtern, nach Masgabe dieser Vorschrifft, sich zu
+#facs_86_r5l12 verhalten befleißen.
+#facs_86_r5l13 Es sollen die Land- und Amtschreibere ihre Substi¬
+#facs_86_r5l14 tuten selbsten besolden, und für selbige weder
+#facs_86_r5l15 von ihnen noch von ihren Principalen kein
+#facs_86_r5l16 Emolument eingeführt, bezogen noch gefordert
+#facs_122_r2l19 besuchen
+#facs_86_r5l18 Alle Land- und Amtschreibern auch ihren Sub
+#facs_136_r6l7 tuten und Schreiberey-dienern wird ernstlich¬
+#facs_136_r6l8 verbotten, einigen Partheyen, der sie imer
+#facs_136_r6l9 seyn möchten, Proceduren oder andere Rechts¬
+#facs_86_r5l22 schrifften von welcher Art sie wären, zu ver¬
+#facs_86_r5l23 fertigen, vielweniger jemand vor den richterlichen
+#facs_86_r5l24 Audienzen oder vor Gericht zu Assistieren
+#facs_8_region_1628103586001_9l1 11.
+#facs_9_region_1628103835119_42l1 12.
+#facs_8_region_1628103580860_6l1 10
+#facs_86_r9l1 163.
+#facs_136_r6l14 Alle Scheinen, Urkunde, Urtheln und Sprüche
+#facs_86_r9l3 die vor der richterlichen Audienz, vor Gericht oder
+#facs_86_r9l4 von Geldsverordneten ausgefällt werden; wie
+#facs_86_r9l5 auch alle Contracten und Instrument die Notaria
+#facs_86_r9l6 lisch ausgefertiget werden, die Haubtdoppel wie¬
+#facs_86_r9l7 die Rebenddoppel und Abfertigungen, sollen unten
+#facs_86_r9l8 das Oberamtliche Sigel gestellt, auch von den Land¬
+#facs_86_r9l9 und Amtschreibern den Partheyen nicht Unbesigel
+#facs_86_r9l10 herausgegeben werden, bey Straff der Ersatzung des
+#facs_86_r9l11 Schadens und Nachtheils so jemand daraus zubachen.
+#facs_86_r9l12 könte
+#facs_86_r9l13 Hierunter sind jedennoch die Obligationen Reversen¬
+#facs_86_r9l14 Quittanzen, Bürgschaffts Briefen und dergleichen
+#facs_86_r9l15 Schrifften nicht begriffene
+#facs_86_r9l16 Ferners wird allen Land- und Amtschreibern ernst¬
+#facs_86_r9l17 lich verbotten, von irgend einer Audienz, oder
+#facs_86_r9l18 gerichtlichen Verhandlung, noch sonsten von
+#facs_86_r9l19 irgend einem Contract, Instrument oder andern
+#facs_86_r9l20 Schrifft, die unter das Oberamtliche Sigel gehört
+#facs_86_r9l21 Vor deren Besiglung weder Auszug noch Abschrifften
+#facs_86_r9l22 jemand zu ertheillen; auch weder Collocationen
+#facs_86_r9l23 noch Anweisungen zur Geduld, jemand vor der
+#facs_86_r9l24 Passation des Geltstag Rodels heraus zu geben,
+#facs_86_r9l25 gleichfalls bey Straff der Verantwortung für alles
+#facs_86_r9l26 so daraus entstehen wird.
+#facs_37_region_1628530197132_403l1 65.
+#facs_66_r10l1 n-
+#facs_86_r10l3 b
+#facs_65_r16l1 le
+#facs_24_region_1628255397587_277l11 en
+#facs_66_r10l1 n-
+#facs_87_r1l1 164.
+#facs_9_region_1628103839744_45l1 13.
+#facs_87_r3l1 damit die Partheyen zu rechter Zeit gefergget,
+#facs_87_r3l2 und alles seiner Zeit behörig Besigelt werden könne,
+#facs_87_r3l3 sollen die Lande und Amtschreiber schuldig und Ver¬
+#facs_87_r3l4 bunden seyn, innert nachgesezter Zeit, die vorfal
+#facs_87_r3l5 lenden Schrifften jeweilen auszufertigen; unter
+#facs_87_r3l6 laßenden Falls aber, für allen Schaden und
+#facs_87_r3l7 Nachtheil gut stehen und Verantwortlich seyn, so
+#facs_87_r3l8 aus der Verzögerung entstehen könte
+#facs_87_r3l9 A. In Appellations und Recuro-Sachen, sollen
+#facs_87_r3l10 die Urtheille, so weiters gezogen werden möchte.
+#facs_87_r3l11 nach Ausweis der Stadtsatzung, längstens in
+#facs_87_r3l12 Zeit von dreyen Tagen, von ergangener Urthel
+#facs_87_r3l13 an zu rechnen, in behöriger Form gefertiget,
+#facs_87_r3l14 und in Vier und zwanzig Stunden nach derselbe
+#facs_87_r3l15 fertigung gebührend Besigelt, und den Partheyen,
+#facs_87_r3l16 so sich darum anmelden, herausgegeben
+#facs_52_region_1629371727639_50l_4 werden.
+#facs_315_r2l1 3. andere Urkunde aber und gerichtlich
+#facs_87_r3l19 Scheinen dann, längstens innert vierzehen
+#facs_87_r3l20 Tagen, von der Zeit an gerechnet, da selbige
+#facs_87_r3l21 gefüllt worden.
+#facs_87_r3l22 C. Instrumenten und Contracten, so Notariali
+#facs_87_r3l23 ter ausgefertiget werden, vom Tage der
+#facs_87_r3l24 Angab an gerechnet, wo möglich in dreyen
+#facs_10_region_1628103945415_60l1 14.
+#facs_37_region_1628530197132_403l1 65.
+#facs_87_r5l2 Monaten Zeit, auf das Spähteste aber in
+#facs_87_r5l3 Sechs Monaten Zeit
+#facs_87_r5l4 D. Testament, Codicill und andere Vergabungen
+#facs_87_r5l5 von Todes wegen, sollen vom Tag der Angab
+#facs_87_r5l6 an gerechnet, längstens innert drey Tagen zeit
+#facs_87_r5l7 ausgefertiget und besigelt werden.
+#facs_87_r5l8 Dieser Obrigkeitlichen Instruction nun, sollen
+#facs_87_r5l9 die Land- und Amtschreibere fleißig nachgeleben,
+#facs_201_r4l5 und die im XVI. Titel des Tarifs enthaltene
+#facs_87_r5l11 Executions-Vorschrifft, auch alle in dieser Instru¬
+#facs_87_r5l12 tion enthaltene Artikel angehen. Actum Coram
+#facs_87_r5l13 Senatu den 7ten und 13ten Marty 1772.
+#facs_150_r3l11 Canzley Hern.
+#facs_24_region_1628255397587_277l11 en

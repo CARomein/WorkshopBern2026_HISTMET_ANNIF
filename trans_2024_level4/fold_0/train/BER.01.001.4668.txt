@@ -1,0 +1,155 @@
+Law ID: BER.01.001.4668
+Name: Reglement wegen Bestimmung des Schifflohns von den Passagiers auf dem Thuner See.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 144/144
+# High similarity (>=50%): 144
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_135_r2l13 Reglement
+#facs_135_r2l14 begen Bestimmung des Schifflohns
+#facs_135_r2l15 von den Passagiers auf dem
+#facs_135_r2l16 Thumer See.
+#facs_135_r2l17 Mir Schultheiß und Rath der
+#facs_135_r2l18 Stadt um Republik dern, thun kum
+#facs_135_r2l19 hiemit: Leinnach Uns die Noth¬
+#facs_135_r2l20 bendigkeit vorgestellt worden,
+#facs_135_r3l1 263
+#facs_135_r3l2 das auch in Betreff derjenigen
+#facs_135_r3l3 Schifflente zu Thun, die für die
+#facs_135_r3l4 fahrt der in das Oberland reisenden
+#facs_135_r3l5 Persohnen allda Schiffe halten
+#facs_135_r3l6 und die unter keinem Reglement
+#facs_135_r3l7 ligen, einliches einsehen zu thun
+#facs_135_r3l8 allerdings erforderlich bäre, Wir
+#facs_135_r3l9 daraufhin, und damit einerseits
+#facs_135_r3l10 diese Schiffleute ihren billigen
+#facs_135_r3l11 Verdienst finden, anderseits dan,
+#facs_135_r3l12 die Reisenden von unmäßigen
+#facs_135_r3l13 forderungen gesichert seyen,
+#facs_135_r3l14 hiemit zu verordnen und zu bestimmen
+#facs_135_r3l15 gut befunden haben, was hienach
+#facs_135_r3l16 von einem zum anderen folget.
+#facs_135_r3l17 1o für die Fahrt eines gedekten,
+#facs_135_r3l18 mit aller Nothbendigkeiten ver¬
+#facs_135_r3l19 sehenen Schiffs von Thun biß¬
+#facs_135_r3l20 zum Neuhaus, und von da, ohne
+#facs_135_r3l21 sich daselbs aufhalten zu müßen,
+#facs_135_r3l22 Zurukzufahren, mag für jeden der
+#facs_136_r2l1 Schiffleute so nach Begehren der
+#facs_136_r2l2 Reisenden zur Fahrt des Schifs
+#facs_136_r2l3 bird gebraucht werden wanzig.
+#facs_136_r2l4 Sasen= und unter keinem Vorband
+#facs_136_r2l5 ein mehrers gefordert werden.
+#facs_136_r2l6 Wie dann auch wann die Abfahrt
+#facs_136_r2l7 von Thun nach Mittag geschiehet,
+#facs_136_r2l8 denen Schiffleuten frey gestellt
+#facs_136_r2l9 bleibt, nach Ankunff des Schifs
+#facs_136_r2l10 beym Neuhaus daselbst übernacht
+#facs_136_r2l11 zu bleiben, oder gleichen Abends
+#facs_136_r2l12 zurückzufahren; ohne das beder
+#facs_136_r2l13 in eint noch anderm Fall ein
+#facs_136_r2l14 mehrers als das hieroben bestimte
+#facs_136_r2l15 zu bezalen seye.
+#facs_136_r2l16 2. wann aber die Schiffleute auf
+#facs_136_r2l17 Begehren der Reisenden zur
+#facs_136_r2l18 Disposition derselben beym Neu
+#facs_136_r2l19 Haus verbleiben, so wird ihnen für
+#facs_136_r2l20 solchen Rasttag ein billiges Tag
+#facs_136_r2l21 geld, nach Übereinkunfft zu
+#facs_136_r3l1 265
+#facs_136_r3l2 entrichten seyn. Melch unsere
+#facs_136_r3l3 Verordnung hiemit zu jedermans,
+#facs_136_r3l4 insbesonders aber zu der Rei¬
+#facs_136_r3l5 senden Wissenschaft und Verhalt
+#facs_136_r3l6 durch den Trük öffentlich bekant
+#facs_136_r3l7 gemacht, und an den gebohnten
+#facs_136_r3l8 Orten angeschlagen werden soll.
+#facs_136_r3l9 Geben den 24ten Aprill 1790.
+#facs_136_r3l10 Traduction.
+#facs_136_r3l11 Reglement
+#facs_136_r3l12 pour établir le prix que
+#facs_136_r3l13 doivent payer les Passagers
+#facs_136_r3l14 sur le Lac de Thoune.
+#facs_136_r3l15 Nous L'Adroyer et Conseil de
+#facs_136_r3l16 la Ville & République de Berne,
+#facs_136_r3l17 savoir faisons: sur ce qui Nous
+#facs_136_r3l18 à été représenté, qu'il seroit
+#facs_136_r3l19 très nécessaire que nous prissions
+#facs_137_r2l1 en considération les Bateliers
+#facs_137_r2l2 de Thonne, qui tiennent des
+#facs_137_r2l3 bateaux pour servir au passage
+#facs_137_r2l4 des Voyageurs qui se rendent
+#facs_137_r2l5 au Pays d'un haut & qui ne
+#facs_137_r2l6 sont soumis a aucun Réglement,
+#facs_137_r2l7 En conséquence, afin que, d'un
+#facs_137_r2l8 côté, les Cateliers recoivent une
+#facs_137_r2l9 retribution équitable de leurs
+#facs_137_r2l10 peines, et que, de l'autre, les
+#facs_137_r2l11 Voyageurs ne soyent pas exposés
+#facs_137_r2l12 à des pretentions exorbitantes,
+#facs_137_r2l13 Nous avons trouvé bon d’apprécier
+#facs_137_r2l14 & d’ordonner comme suit:
+#facs_137_r2l15 1° Pour un bateau couvert
+#facs_137_r2l16 pourvu de toutes les choses
+#facs_137_r2l17 necessaires au passage de l'honneur
+#facs_137_r2l18 a Neuhauss, & le retour, sans
+#facs_137_r2l19 être obligé de s'y arreter, il sera
+#facs_137_r2l20 payé vingt baches à chacun
+#facs_137_r2l21 des bateliers que les voyageurs
+#facs_137_r3l1 267
+#facs_137_r3l2 auroient demandé pour ce trajet,
+#facs_137_r3l3 & ils ne pourront rien exiger au
+#facs_137_r3l4 delà, sous quelque prétexte que
+#facs_137_r3l5 puisse être.
+#facs_137_r3l6 ce
+#facs_137_r3l7 Comme aussi lorsque le départ
+#facs_137_r3l8 de Thoune auroit lieu après midi
+#facs_137_r3l9 & que les Cateliers sont libres
+#facs_137_r3l10 de repartir le même soir, d'abord
+#facs_137_r3l11 après leur arrivée à Neuhauss,
+#facs_137_r3l12 ou d'y passer la nuit, ni dans
+#facs_137_r3l13 l'un ni dans l'autre cas, on
+#facs_137_r3l14 n’aura rien a leur payer de
+#facs_137_r3l15 plus, que ce qui a été fixe ci-
+#facs_137_r3l16 dessus.
+#facs_137_r3l17 2° Mais si les Cateliers restent
+#facs_137_r3l18 à Neuhauss sur la requisition
+#facs_137_r3l19 des Voyageurs & a leur disposition
+#facs_137_r3l20 alors ils s'arrangeront entre eux
+#facs_137_r3l21 quant au juste dédommagement
+#facs_137_r3l22 qui leur revient pour ce jour.
+#facs_137_r3l23 de relâche.
+#facs_138_r2l1 Notre présente Ordonnance
+#facs_138_r2l2 sera rendue publique par voie
+#facs_138_r2l3 d'impression, & affichée aux
+#facs_138_r2l4 lieux accoutumes, afin qu'elle
+#facs_138_r2l5 soit connue d’un chacun, sur
+#facs_138_r2l6 tout des Voyageurs pour leur
+#facs_138_r2l7 servir de conduite. Donne
+#facs_138_r2l8 le 24e Avril 1790.
+#facs_138_r2l9 obid:
+#facs_138_r2l10 Thun Cons:  Wegen Sestim
+#facs_138_r2l11 ung des Schifflohns von denen
+#facs_138_r2l12 in das Oberland reistenden
+#facs_138_r2l13 Persohnen, haben wir nöthig
+#facs_138_r2l14 befunden beygehendes Reglement
+#facs_138_r2l15 zu errichten, wovon Wir Euch
+#facs_138_r2l16 hiemit die erforderliche Anzahl
+#facs_138_r2l17 getrukter Exemplar zustanden
+#facs_138_r2l18 mit dem Auftrag, solche zu
+#facs_138_r2l19 Thun so wohl in den Gasthöfen
+#facs_138_r2l20 als sonst gebohnter Orten
+#facs_138_r4l1 269.
+#facs_138_r4l2 anschlagen und zu jedermanns
+#facs_138_r4l3 Wissenschaft und Verhalt öffentl.
+#facs_138_r4l4 bekant machen zu lasen; dabey
+#facs_138_r4l5 aber Hand obzuhalten, daß solchem
+#facs_138_r4l6 Reglement jedeilen genau nach¬
+#facs_138_r4l7 gelebt werde; wie dann ihr
+#facs_138_r4l8 solches auch seines behörigen Orts
+#facs_138_r4l9 nachrichtlich einschreiben lassen.
+#facs_138_r4l10 Berdet. Dat. den 24. April 1790.

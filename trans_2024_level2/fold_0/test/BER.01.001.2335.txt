@@ -1,0 +1,87 @@
+Law ID: BER.01.001.2335
+Name: Ihnen bewilligen den Underthanen eine gwüsse Quantitet Getreits nach undt nach vor ihren Haussbrauch zeverkauffen, damit die Getreidtstheüre im W. Land umb etwass gesteürt werde.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 76/76
+# High similarity (>=50%): 73
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_375_r6l12 Milden Eferten Vätterlingen und
+#facs_375_r6l13 Romainmostier mutatis mutandis ut Infri-
+#facs_375_r6l14 Ihnen bewilligen den Vnderthanen eine glönste quantitet getreite,
+#facs_375_r6l15 nach Undt nach vor Ihren Hausbrauch zu verkaufen, damit der
+#facs_375_r6l16 N°
+#facs_375_r6l17 getreidts theüre Im W. Land Vmb etwaß gesteürt werden
+#facs_375_r6l18 Schs. Undt Raht der Stall Bern
+#facs_375_r6l19 damit der Im Woltschland sich eräugten Vertheürung des getreids Umb¬
+#facs_375_r6l20 etwas gesteürt werde, habend wir auß Vällerlicher Vorsorg Vnsere Kornhäuser
+#facs_375_r6l21 zu gutem der Vnterthanen gern offnen wollen, dieweilen dan lauth Rechnung
+#facs_375_r6l22 Vnseren Magazinen hinder vndkilden sich befinden soll an Weitzen 45. dKült, an
+#facs_375_r6l23 Foggen 103. Vndt an Haber 244 mögen Wie Vohl geschehen laßen, daß an Weiln
+#facs_375_r6l24 Verkaufft werde 15. Müll. Roggen 53. Vndt Haber 144. Die hiemit befeichen biß
+#facs_375_r6l25 auff dise quantibet denen Jenigen von Vnseren Vnterbhanen Im Weltsch Land, die sich ber¬
+#facs_375_r6l26 die anmelden Werden, nach Vndt nach fur den Haußbrauch Vmb billichen, das ist etwa
+#facs_375_r6l27 äherem preis als nach dem gemeinen Lauff zuverkauffen, Vndt hierzu das Jennige an
+#facs_375_r6l28 zugreiffen, so sich am minsten behalten Laßet: Vmb des erlößten dan seines ahrts getrewen
+#facs_375_r6l29 Rechnung zuhalten Datum 13. Juny 1685
+#facs_375_r6l30 Ifferten an Wöytzen 248. Mütt geesten 83. Haber 312. Misch selkow Vnd Roggen
+#facs_375_r6l31 nögen Wie Wohl geschehen laßen, daß an Weytzen Verkaufft Wer, de 84. Mütt an gorsten
+#facs_375_r6l32 33 Vndt an Haber 106. Mut
+#facs_375_r6l33 Pätterlingen an Weitzen M. 122. an Wishelkorn 178. Und an haben 240 möge Wie Wohl¬
+#facs_375_r6l34 geschehen laßen daß an Weitzen Verkaufft werde No. 42. Mischt Wort 78. Vndt Haber 140 Mk
+#facs_375_r6l35 Romaemostien v. Weilzen 121. Mischelkorn 169. gersten 51 p. Vndt Haber 4 O.M. mögen W
+#facs_375_r6l36 Wohlgeschehen laßen, daß an Weiligen Verkauft werde s. M. 51. dischelkow 79. gärsten
+#facs_375_r6l37 2f. Undt Haber 10. Sept
+#facs_376_r1l1 696
+#facs_376_r1l2 hillon
+#facs_376_r1l3 Den zu daselbst vorhandenen außgehölten getreidts Verfahr von den
+#facs_376_r1l4 Vnder zweyen mahlen naher Vifis fergen Vndt daselbst verkauffen zu
+#facs_376_r1l5 Acht- undt Raht der statt Berr etc.
+#facs_376_r1l6 Wie Vernemmend, daß die zum Vorfaht zu Crillon vorhandene 50. Mi¬
+#facs_376_r1l7 Colle getreit gar außgeholt, Vndt finden, daß wegen Thunlich selbige sonder
+#facs_376_r1l8 bey dieser Zeit, da das Korn Im Woltsch Land Thelor Worden zu verkauffen,
+#facs_376_r1l9 Die befolchend die selbige diese etwan vnder zweyen mahlen naher vifie¬
+#facs_376_r1l10 fergen undt da selbst in billichen, Vndt näherem Preis als na¬
+#facs_376_r1l11 dem gemeinen Lauff zu verkauffen, Vndt Vmb das erlößte Vns trelöe
+#facs_376_r1l12 Rechnung Traagen: Undt Weilen Wir auß Vnseren Kornhäusern zu
+#facs_376_r1l13 Gulden, Ifferten, Pätterlingen Vndt Romainmostier zu gutem den
+#facs_376_r1l14 Vnterthang Ein quantitet getreits Vmb billichen preis außzuge
+#facs_376_r1l15 die Verordnung gethan solstu solches zu vifis auff dem Martt kundt
+#facs_376_r1l16 machen, damit die so für Ihren Haus brauch einzukauffen begehren sich
+#facs_376_r1l17 daselbst anmelden kommend Datum 13 Juny 1683.
+#facs_376_r1l18 Redel an Messl. W. Q. et F. ob id
+#facs_376_r1l19 Es habend Ihr gep. gegen denen Herren Ambtleüthen zu
+#facs_376_r1l20 Coll.
+#facs_376_r1l21 Kilden, Ifferten, Romainmostier undt Pätterlingn bereits
+#facs_376_r1l22 die Verordnung gethan, bis auff die in beyligender Ewer der
+#facs_376_r1l23 Verzeichnus zum Verkauff bestimbte quantitet den Woltschen
+#facs_376_r1l24 Vnterthanen in billichem Vndt etwas näherem preiß als nach dem
+#facs_376_r1l25 gemeinen Lauff auszugeben: Deßen auch die Ambtleuth zu
+#facs_376_r1l26 Korsee Vndt Vifis advisirt, Vmb solches auff dem Marke
+#facs_376_r1l27 sundt zumachen: Im Ubrigen aber im gantzen Woltschland
+#facs_376_r1l28 alle Veräußerung des Getreidts en gros Verpotten, darbey
+#facs_376_r1l29 aber sie nohtwendig Ver befunden, durch ein Vor die Handt nemmern
+#facs_376_r1l30 visitation in gewüße erfahrung zu bringen, Waß von Vorraht Ein
+#facs_376_r1l31 vndt andern Ohrten vorhanden oder nit voranden seye, Euch dit hhoch
+#facs_376_r1l32 fründtlich auf innend zu dem Endt Einen Herren Visitatores
+#facs_376_r3l1 ie
+#facs_376_r3l2 zu verordnen, welcher dan von nun an Befelchnet sein soll, die Korn
+#facs_376_r3l3 Häuser des Weltschen Landts zu besichtigen, vndt sehe, ob der Vermeinte
+#facs_376_r3l4 Vor Raht sich bey allen effective befinde, Vndt nach befindenden Dingen
+#facs_376_r3l5 auch aus denen Kornhäusern von Wybliffurg, Causanne vndt dKorsee,
+#facs_376_r3l6 Als den Welche der befelch noch nicht ergangen; Entbeders die in diser
+#facs_376_r3l7 Verzeichnus bestimbte, oder Wan der Vermeinte Vorkahl int gantz
+#facs_376_r3l8 Vorhanden were, Wie gesagt nach Beschaffenheit minder, als die Verzeich¬
+#facs_376_r3l9 ete quantitet, durch die Herren Ambtleüth den Unterthanen in Leidenlichen
+#facs_376_r3l10 preiß debitiren zulaßen; Vndt dan bey seiner Widerkunfft, Wie Er
+#facs_376_r3l11 Wichtl. der Visitator es Eint vndt anderer ohrten angetroffen: Vndt
+#facs_376_r3l12 Weilen der zu Chillion gewohnte Vortraht von 50. drütten, welche ange¬
+#facs_376_r3l13 griffen Vndt gantz außgeholt, naher Visis geführt vndt Verkaufft werden
+#facs_376_r3l14 "
+#facs_376_r3l15 sollen, Will nohthwendig sein daß selbige replacatirt werdend, Euch
+#facs_376_r3l16 Kupf. Überlaßend die Verordnung zethun, oder so Ihr deslangen
+#facs_376_r3l17 Bedenkens hattet, Ihr gep. deßen gleichwohl förderlich verständigen
+#facs_376_r3l18 Actum 13. Junij 1685.

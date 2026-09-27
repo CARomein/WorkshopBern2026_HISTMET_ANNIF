@@ -1,0 +1,50 @@
+Law ID: BER.01.001.4285
+Name: Einen Theil vom Vorraht zu verkauffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_502
+# Matched: 39/39
+# High similarity (>=50%): 37
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_255_r1l1 492
+#facs_255_r1l2 per post scriptum.
+#facs_255_r2l1 An Rydau. Ihr werdet auch die Anstalten
+#facs_255_r2l2 gewohnter maßen thun, daß dieser Räckag
+#facs_255_r2l3 auch in dem Münsterthal verbündet, und
+#facs_255_r2l4 gefeyret werde.
+#facs_255_r2l5 An Fraubrunnen, Büren und Landtshut. Ihnen
+#facs_255_r2l6 wegen deß Bucheggbergs ein gleiches befehlen
+#facs_255_r2l7 An Königsfelden. Dabey Ihr auch wegen
+#facs_255_r2l8 Gebistorff und Rirmistorff, das nöhtige zu
+#facs_255_r2l9 Feyrung dieses Tags anordnen werdet
+#facs_255_r2l10 Au
+#facs_255_r2l11 Benft, Neuenburg, Fürstl. Raht und Stadt,
+#facs_255_r2l12 Biel und Neuenstatt. Ihnen hievon auch Nach
+#facs_255_r2l13 richt geben, mit gesinnen, solchen auch Ihrer
+#facs_255_r2l14 seits zu feyren
+#facs_255_r4l1 tr
+#facs_255_r4l2 au
+#facs_255_r4l3 Alle H. Amtleut und Schaffner da Oberbeitlich
+#facs_255_r4l4 Getreid ist
+#facs_255_r4l5 Einen Theil vom Vorraht zu verkaufen
+#facs_255_r4l6 Schultheiß Räht und Burger etc.
+#facs_255_r4l7 da Wir über den von seiten Unser Furgeliebten
+#facs_255_r4l8 Mittstähten Sekelmeister und Venneren, und
+#facs_255_r4l9 Korn, Direction, uns gethanen Vortrag gut befun¬
+#facs_255_r4l10 den und Erkent, daß diese Unsere Venier
+#facs_255_r4l11 und KornCammer beywältiget seyn sollen, je nach
+#facs_255_r4l12 dich erzeigendem Mangel und erheuschender
+#facs_255_r4l13 -
+#facs_255_r4l14 Nohtdurfft, zu Speisung der Korn-Märiten
+#facs_255_r4l15 auf das Höchste den Vierten Theil deß Ober¬
+#facs_255_r4l16 beitlichen Land=Vorrahts zu verbauffen, dazu
+#facs_255_r4l17 aber das Älteste und mingst behaltlichste
+#facs_255_r4l18 gewiedmet seyn solle; Als haben Wir Euch deßen
+#facs_255_r4l19 berichten und befehlen wollen, dem von Unser
+#facs_255_r4l20 Wenner, und Korn Cammer Deßorts Empfahenden
+#facs_255_r4l21 Befelch Euch hierin zu conformieren, und für das-
+#facs_255_r4l22 erlösende getreüe Rechnung zu tragen. Datl.
+#facs_255_r4l23 den 22ten July 1768.

@@ -1,0 +1,98 @@
+Law ID: BER.01.001.3372
+Name: Wegen Seüberung der Landtstrassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 87/87
+# High similarity (>=50%): 87
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_409_r3l23 Hiesow Gehöret das Mand. an die Oberl. Ambtl. Sie auch das
+#facs_409_r3l24 Schreiben nach Thun, vide pag: 788.
+#facs_410_r2l1 An Alle T. Ambtbrüth,
+#facs_410_r2l2 4. Statt, Preylreibel
+#facs_410_r2l3 und
+#facs_410_r2l4 Amen
+#facs_410_r2l5 Wegen Zeuberung der Landstraßen etc.
+#facs_410_r2l6 Schultheiß und Raht etc.
+#facs_410_r2l7 Vnß ist der bericht ertheilt worden,
+#facs_410_r2l8 das Vnseren deßtwegen außgangen
+#facs_410_r2l9 Einsehen Ohngeacht, die straßen Wosten
+#facs_410_r2l10 aller Orthen Unserer Lande in Pflechten
+#facs_410_r2l11 Zustand, auch an Theil Orthen mit
+#facs_410_r2l12 Gestenppen den Straßen undt neb¬
+#facs_410_r2l13 den Zennen stehenden Standen undt
+#facs_410_r2l14 Brunnen, deren Ast sich allzuweiten
+#facs_410_r2l15 Ausbreiten, dergestalten überwachsen
+#facs_410_r2l16 das die Reitenden und zu furß gehenden
+#facs_410_r2l17 hievon Mächtig behandert, und wie
+#facs_410_r2l18 mit Heule, Strohlo, auch anderen
+#facs_410_r2l19 dergleichen Sachen durchgefahren werden
+#facs_410_r2l20 will, ein Guter theil An einen
+#facs_410_r2l21 standen behange; welches Uns
+#facs_410_r2l22 Wiedermahlen veranlaßet, die /: gleich
+#facs_410_r3l1 77.
+#facs_410_r3l2 Gegen Unseren Teütschen Ambtleüthen auch
+#facs_410_r3l3 beschicht) gantz Ernst meinem zu befehlen,
+#facs_410_r3l4 denen einigen Gemeinen und Anstößeren,
+#facs_410_r3l5 einiges Oblieget, aller Ernstes zu Jesimmer
+#facs_410_r3l6 bey dißmahligen Zeithen nicht nur die straßen
+#facs_410_r3l7 zu verbeßeren, und dieselben von allem Ge¬
+#facs_410_r3l8 strupp zu seuberey, sondern auch die an
+#facs_410_r3l9 den beyzeitigen Zeugen sich befindende
+#facs_410_r3l10 standen und beym Abschof ausschneiten,
+#facs_410_r3l11 und In Ihre Natürliche Märchen bringen zu
+#facs_410_r3l12 Lassen, daß die Völlige Straß freybleiben
+#facs_410_r3l13 und die mit Heüld, strösse, undt dergleichen
+#facs_410_r3l14 wochen beladene Wagen aller Orthen Vn¬
+#facs_410_r3l15 gehindert zuepfahren mögend, Ob solchem
+#facs_410_r3l16 Unserm befelich nachgelebt werde, bis
+#facs_410_r3l17 gegen dem Vorstehenden Mey Monath zu
+#facs_410_r3l18 berichten können wirst, umb in manglen¬
+#facs_410_r3l19 dem Fahl die fernern Nohtdurfft Vorkehren
+#facs_410_r3l20 zu können etc. Datum den 17. Marty
+#facs_410_r3l21 1722
+#facs_411_r2l1 An Alle T. Ambtleuth
+#facs_411_r2l2 4. Statt, Preyweibel und
+#facs_411_r2l3 Amen
+#facs_411_r2l4 Wegen Seüberung der Landstraße etc.
+#facs_411_r2l5 Schultheiß und Raht etc.
+#facs_411_r2l6 Vnß ist der bericht ertheilt worden,
+#facs_411_r2l7 das Vnsern deßtwegen Außgangen
+#facs_411_r2l8 Eingehen OhngeAcht, die straßen Wost
+#facs_411_r2l9 aller Orthen Vnserer Landen in pflechten
+#facs_411_r2l10 Zustand, auch an theil Orthen mit
+#facs_411_r2l11 Gestenppen den Straßen undt neben
+#facs_411_r2l12 den zennen sehenden Standen undt
+#facs_411_r2l13 Brunrn, deren Ast sich allzu weith
+#facs_411_r2l14 Ausbreiten, dergestalten überwachsen,
+#facs_411_r2l15 das die Reitenden und Zufurß gehenden
+#facs_411_r2l16 hievon Mächtig behandert, und wan
+#facs_411_r2l17 mit Heule, Strohlo, auch anderen
+#facs_411_r2l18 dergleichen Sachen durchgefahren werden.
+#facs_411_r2l19 holl, ein guter theil Anlern
+#facs_411_r2l20 standen behange; welches Unß
+#facs_411_r2l21 wiedermahlen veranlaßet, die /: gleich
+#facs_411_r3l1 73.
+#facs_411_r3l2 Gegen Unseren Teütschen Ambtleüthen auch
+#facs_411_r3l3 beschicht) gantz Ernstmeinem zu befehlen,
+#facs_411_r3l4 denenjenigen Gemeinen und Anstößeren,
+#facs_411_r3l5 einiges Oblieget, aller Ernst zu Insinuiren
+#facs_411_r3l6 bey dißmahligen Zeithen nicht nur die straßen
+#facs_411_r3l7 zu verbeßeren, und dieselben von Allem Ge¬
+#facs_411_r3l8 strupp zu seuberey, sondern auch die an
+#facs_411_r3l9 den beyötzeitigen Zeugen sich befindende
+#facs_411_r3l10 standen und beim alschaft ausschneiten,
+#facs_411_r3l11 und In Ihre Natürliche Märchen bringen zu
+#facs_411_r3l12 laßen, daß die völlige Straß freybleiben
+#facs_411_r3l13 und die mit Heüld, strafe, undt dergleichen
+#facs_411_r3l14 sachen beladene Wagen aller Orthen Vn¬
+#facs_411_r3l15 gehindert zurpfahren mögend, Ob solchem
+#facs_411_r3l16 Vnserm befelich nachgelebt werde, bis
+#facs_411_r3l17 Gegen dem Vorstehenden Mey Monath zu
+#facs_411_r3l18 berichten wüsten wirst, umb in infanglen
+#facs_411_r3l19 ein fahl die fernern Nohtdurfft Vorbehten
+#facs_411_r3l20 Zu können etc. Datum den 17. Marty
+#facs_411_r3l21 1722

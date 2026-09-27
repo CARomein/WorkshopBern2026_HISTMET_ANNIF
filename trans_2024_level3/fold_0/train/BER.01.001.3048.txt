@@ -1,0 +1,374 @@
+Law ID: BER.01.001.3048
+Name: Getrukt Placard.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 363/363
+# High similarity (>=50%): 349
+# Low similarity (<50%): 14
+# Not found: 0
+#
+#facs_208_r1l1 I0.
+#facs_208_r1l2 in
+#facs_208_r1l3 pertinet a
+#facs_208_r1l4 pag: 399.
+#facs_208_r1l5 Collath.
+#facs_208_r2l1 Getrukt Placard.
+#facs_208_r2l2 Wir Schultheiß Räth und Bürger
+#facs_208_r2l3 Der Statt Bern Thund kund hiemit Zeder¬
+#facs_208_r2l4 mäncklichen: Dein nach Wir durch Unserer
+#facs_208_r2l5 .
+#facs_208_r2l6 von zeith zu zeith außgangene heilsamme Ordnung
+#facs_208_r2l7 gen und Mandat auß Landtsväterlicher von
+#facs_208_r2l8 sorg Uns Jederzeith alles Ernstes angelegen
+#facs_208_r2l9 sein laßen, und vermittellst sowohl millter
+#facs_208_r2l10 güthe, alls auch würklicher Anwendung in
+#facs_208_r2l11 anzogenen Ordnungen Enthalltener Straffen
+#facs_208_r2l12 aüßerstens getrachtet, die sogenante Seit¬
+#facs_208_r2l13 der Wiedertäufferen auß Unseren Lande
+#facs_208_r2l14 und Gepiethen außzureuthen, und selbige
+#facs_208_r2l15 darvon zufaüberen, so thut durch die
+#facs_208_r2l16 leidige Erfahrung bezeugen, daß alle wieder
+#facs_208_r2l17 die von zeith zu zeith ausgegangenen im Land
+#facs_208_r2l18 befindtliche so genante Wiederkäufer vorge¬
+#facs_208_r2l19 kehrte und angewemte gütliche und Ernstliche
+#facs_208_r2l20 Mittell Ein mehrers nicht gefruchtet, als daß
+#facs_208_r2l21 solche Eher in das zu, alls abnemmen gestiegen
+#facs_208_r2l22 Wann nun solche Leuth Ihrer natürlichen
+#facs_208_r2l23 Oberkeith den Eydt der Treüwen zuschweren,
+#facs_208_r2l24 und mit demselbigen sich gegen Ihre zuver¬
+#facs_208_r2l25 binden weigern, Ja im Fahl der Noth die¬
+#facs_208_r2l26 Waaften zuergreiffen, umb dardurch das
+#facs_208_r2l27 Liebe Vatterland zuschützen und Zuschirmen,
+#facs_208_r2l28 Rund außschlagen, wie nicht weniger die
+#facs_208_r2l29 Beschaffenheit Unserer Landen, umb die ge¬
+#facs_208_r2l30 Treüne Underthang von weiterer anstekung
+#facs_208_r3l1 ue
+#facs_208_r3l2 dieser so genanten Seit zu verhüten, nicht zugeben,
+#facs_208_r3l3 mig, daß dergleichen Leüth darinnen geduldes
+#facs_208_r3l4 -
+#facs_208_r3l5 bereint: Alls habend Wir durch Unser in Trut
+#facs_208_r3l6 außgebenden Mandat de ao 1695. und hernach
+#facs_208_r3l7 beschehener Wiederhohlung allen ermellter See
+#facs_208_r3l8 Ergebenen Persohnen den freyen Außtritt auß
+#facs_208_r3l9 Unseren Landen, wie nicht weniger die völlige
+#facs_208_r3l10 weggzeüchung und mitnemmung Ihrer güeteren
+#facs_208_r3l11 ledigklich auff Erlaag deß Abzug Bellts gestattet
+#facs_208_r3l12 Daß aber sothaner Unser gnädigen Erklärung
+#facs_208_r3l13 und Willen nicht folg geleistet worden, scheinet
+#facs_208_r3l14 nicht die geringste Ursach zu seyn, daß diesere
+#facs_208_r3l15 Leuthen biß dahin kein gewußes Orth Ihrer Weg¬
+#facs_208_r3l16 ziehung, umb allda desto freyer und ohngehinderen
+#facs_208_r3l17 Ihre vorschützende gewüßens Freyheit üeben zu¬
+#facs_208_r3l18 können, verzeigt worden; alls habend Wir zube¬
+#facs_208_r3l19 gnädigen
+#facs_208_r3l20 fürderung ermellt Unser Erklärung, welche
+#facs_208_r3l21 Wie hierdurch und zwahr annoch mit milterer
+#facs_208_r3l22 gedingen, erfrüschet, und jedermanitlich kund¬
+#facs_208_r3l23 gemacht haben wollendt, mit Ihro Königl. May
+#facs_208_r3l24 stet in Prüsen durch dero darzu begwäntigten
+#facs_208_r3l25 Herren Envoyé Bondeli, deme mit Ihro Hochmö¬
+#facs_208_r3l26 genden der H. General Staten der vereinigen
+#facs_208_r3l27 ten Niderlanden durch dero darzu begwälltigten
+#facs_208_r3l28 Herren Secretarium Runkel wegen Übernem¬
+#facs_208_r3l29 mung dieser so genanten Wiederkäuferischen
+#facs_208_r3l30 Persohnen Einen wahren und auffrichtigen Ver=
+#facs_208_r3l31 glich getroffen und Beschloßen, wie von Puncten
+#facs_208_r3l32 zu Puncten volget.
+#facs_209_r3l1 So verharrend Wir annoch in gleichen gedenken und
+#facs_209_r3l2 wollend hierdurch nachgegeben haben, daß
+#facs_209_r3l3 denen von hier nach Holland abreisenden
+#facs_209_r3l4 Bäufferischen Leüthen freystehen solle, von
+#facs_209_r3l5 dannen noch Ihrem gefallen sich ins Preußischen
+#facs_209_r3l6 verfüegen zukönnen: Der Meinung Zehden noch,
+#facs_209_r3l7 laß nach anzogenen Hl. Secretarii Runkell
+#facs_209_r3l8 gethane Versicherung die von hier
+#facs_209_r3l9 Abführende Käufer nach der Erklärung Ihre
+#facs_209_r3l10 Königl. Mayestl. in Preußen nicht in allhier
+#facs_209_r3l11 siger Nachbarschafft alles etwan hinder der
+#facs_209_r3l12 Grafschafft Neüdenburg und valendis her¬
+#facs_209_r3l13 nach und zu keinen Zeithen geduldet, sondern
+#facs_209_r3l14 von dannen weggeschaffet werden sollind. Eben¬
+#facs_209_r3l15 allso habend Wir verabfolgung halb dieser
+#facs_209_r3l16 Bäuferen Mitle Unsere hievorige Erkänt¬
+#facs_209_r3l17 auß dahin bestätiget, daß der abreisen
+#facs_209_r3l18 den würklich Emtselte oder noch hervor=
+#facs_209_r3l19 kommende Mittel Erkenter maßen von hier
+#facs_209_r3l20 weggezogen werden mögend, darunder
+#facs_209_r3l21 auch der Jenigen, so würklichen in hiesigen
+#facs_209_r3l22 verhafft sich befinden, zuständige Mittell
+#facs_209_r3l23 gemeint, Ja von gleich deren Einiche¬
+#facs_209_r3l24 den Gemeind oder Kirchengütheren zuge¬
+#facs_209_r3l25 legt wären, darunder aber nicht be¬
+#facs_209_r3l26 griffen sein sollen Jenige Täuferische
+#facs_209_r3l27 Mittell, welche von anderen außgetrettern
+#facs_209_r3l28 oder verwiesenen Täufferen herrühren, und der
+#facs_209_r3l29 gemeinden übergeben sein möchten.
+#facs_209_r6l1 nous
+#facs_209_r6l2 laßend Wir Es nochmahlen darbey bewenden
+#facs_209_r6l3 daß alle Consterische Persohnen, welche Entwedern
+#facs_209_r6l4 von sich selbsten auß dem Landt begeben, oder
+#facs_209_r6l5 sonsten außgericht der Behändigung biß dahin
+#facs_209_r6l6 verborgen gehalten, zu Richtigmachung und be¬
+#facs_209_r6l7 Mitnennung Ihrer Mittlen Unsere Land wie¬
+#facs_209_r6l8 serumb betretten, und zum Vorschein kommen
+#facs_209_r6l9 -
+#facs_209_r6l10 nögend. Darbey aber könnend Wir auß
+#facs_209_r6l11 Erheblichen gründen nicht zugeben, daß die Jeni¬
+#facs_209_r6l12 gen, so würklich bannisiert, oder verwiesen von
+#facs_209_r6l13 Obrigkeits wegen verschilt, oder Lehrer und
+#facs_209_r6l14 Zeugnußgeber sein möchten, gleicher Freyheit
+#facs_209_r6l15 genießen, sondern darvon ausgeschloßen sey,
+#facs_209_r6l16 sollins.
+#facs_209_r6l17 Habend Wir auch guthfunden, daß die
+#facs_209_r6l18 Oberkeitlichen verhafft sich befindtliche Täufer
+#facs_209_r6l19 sambtlichen auff stellende Burgschafften hin¬
+#facs_209_r6l20 ledig gelaßen werden, und anbey versprechen
+#facs_209_r6l21 sollin, auff begehren und bestimmende Zeith
+#facs_209_r6l22 sich gebührend wieder Einzufinden und inzwüschen
+#facs_209_r6l23 weder Tärster Versamblungen noch andere
+#facs_209_r6l24 Unruhren anzustellen; Denne; so habend
+#facs_209_r6l25 Wir diesen und allen denen Jenigen Cäuffe¬
+#facs_209_r6l26 ren, so der ananistey oder Baus Erweisung
+#facs_209_r6l27 à
+#facs_209_r6l28 vor Ihre Persohnen zwahr nicht genießen
+#facs_209_r6l29 können, dannoch bewilliget und zugestanden,
+#facs_209_r6l30 Ihre Etwann noch Im Land habende Mittell
+#facs_209_r6l31 so verborgen sein möchten, durch die Ihrige
+#facs_209_r6l32 oder Ihre Gevalltshabere zu beziehen, und ohne Abstattung.
+#facs_209_r6l33 deß abzugs weggzuziehen.
+#facs_210_r1l1 40b
+#facs_210_r1l2 2°
+#facs_210_r3l1 Die Abreis Zeith der Täufer Leüthen habend
+#facs_210_r3l2 Wir mit dem Herren Secretario Runkel
+#facs_210_r3l3 dahin beabredet und verglichen, daß
+#facs_210_r3l4 namblichen denenselben zu Ihrer Wegen
+#facs_210_r3l5 ziehung und Abfuhr bis zu Emkünfftige,
+#facs_210_r3l6 Brachmonats Zeith verstattet, und über
+#facs_210_r3l7 lis gesezte Zihl annoch Einvergout werden
+#facs_210_r3l8 solle, Innerst welchem Jahr sie Ihre sech¬
+#facs_210_r3l9 in gentzliche Richtigkeit bringen werden, zu-
+#facs_210_r3l10 mahlen Ihnen Jehmand, an den Irsprechen
+#facs_210_r3l11 würden, von der Ehrbarkeit, Jegliche
+#facs_210_r3l12 Orths Under Oberkeitlicher Bestätigung
+#facs_210_r3l13 verordnet, und dieselben sonderlich zu
+#facs_210_r3l14 vom 10. Januarii.
+#facs_210_r3l15 schuldiger Treüw angehallten werden
+#facs_210_r3l16 sollind; Der beyleüffigen Meinung, daß
+#facs_210_r3l17 alle Läufer zu ausferkigung der Be¬
+#facs_210_r3l18 nöthigsten verzeichnuß alle Ihre Mittelb¬
+#facs_210_r3l19 und güther getreüblichen angeben und ohne
+#facs_210_r3l20 Betrug nahmhafft Machen sollind, und
+#facs_210_r3l21 Gleichwie Wir bereiths underem 27.
+#facs_210_r3l22 Januarij letst hin Erkent, daß dieser
+#facs_210_r3l23 abziehenden Leüsterleüthen, in Betrachtung
+#facs_210_r3l24 Ihro Hochmögenden der Herren General
+#facs_210_r3l25 Staden Einkommenen Recommendation, wie auch
+#facs_210_r3l26 angesehen, daß Wir dieser Leüthen halb mit
+#facs_210_r3l27 keinen weiteren Kösten beladen, sondern solche
+#facs_210_r3l28 allsobald von hier auß biß nach Holland ohne
+#facs_210_r5l1 de
+#facs_210_r5l2 Unsere Entgelltnuß übernommen werden sollend, der
+#facs_210_r5l3 sonst schuldige abzug von Ihren mitwmmenden Mitli¬
+#facs_210_r5l4 gnädig nachgelaßen, und denenselben darmit ver¬
+#facs_210_r5l5 schonet werden solle; allso laßend wir Es noch
+#facs_210_r5l6 mahlen darbey ohn abgeEnderet verbleiben, und
+#facs_210_r5l7 wollend über das annoch zugegeben haben, daß
+#facs_210_r5l8 wan Reformierte Ehe hatten oder Kinder
+#facs_210_r5l9 nachziehen
+#facs_210_r5l10 Ihren Täuferischen Ehe-Gatten oder Eltern
+#facs_210_r5l11 wollten, sie gleicher Abzug und zugenießen
+#facs_210_r5l12 haben sollens. Und
+#facs_210_r5l13 In ansehen dan der Jenigen, da nur Mann und Weis
+#facs_210_r5l14 oder nur Eint- oder andere Kinder der Bäufferi¬
+#facs_210_r5l15 schen Seit zugethan wären, und doch sämbtlichen
+#facs_210_r5l16 von hinnen zeichen wollten, und was dergleichen mehr
+#facs_210_r5l17 sich begeben könnte etc. habend Wir auff allen fahl
+#facs_210_r5l18 geordnet, daß wan Reformierte Ehegaben, Item
+#facs_210_r5l19 Elteren Kinder, so et von Ihren Baufferisch ge¬
+#facs_210_r5l20 fümten EheGatten, Elteren oder Kinderen guth wil¬
+#facs_210_r5l21 lig folgen und mit Ihnen weggreichen wollten, daß
+#facs_210_r5l22 dar zumahlen solches dergleichen mit auffgebung
+#facs_210_r5l23 das Landt- und MannRechtens bewilliget seyn,
+#facs_210_r5l24 Dolle.
+#facs_210_r5l25 Endlichen dan so habend Wir auch, so wohl zu¬
+#facs_210_r5l26 Unserer daharigen Sicherheit aller Benennung
+#facs_210_r5l27 ler vorschützenden Unwüßenheit in ansehen der
+#facs_210_r5l28 Wiederhandlenden, unumbgänglich nöthig Erachtet
+#facs_210_r5l29 und wollend demnach durch Enrutung gegen
+#facs_210_r5l30 wärtiger öffentlicher Verkündung aller Ernsts¬
+#facs_210_r5l31 gehebt haben, daß Unter dem Nahmen der güetere
+#facs_210_r5l32 wie zu Endt deß obigen 4ten articuls stehet, ver=
+#facs_211_r2l1 verstanden sein solle, daß alle Bäufer wu¬
+#facs_211_r2l2 Außfertigung der bentthigten Verzeichnuß¬
+#facs_211_r2l3 alle Ihre Mittell und Gütter getreüwlichen,
+#facs_211_r2l4 angeben, auch alle dero Schulten und gegen¬
+#facs_211_r2l5 schulden, das ist, so wohl was sie schuldig, als
+#facs_211_r2l6 was man Ihnen hingegen zu thun und
+#facs_211_r2l7 6
+#facs_211_r2l8 schuldig ist, nahmhafft machen, auch selbige,
+#facs_211_r2l9 fahlt sie dieselbe innert der im obigen
+#facs_211_r2l10 gleichen 4ten Articul vernambseten Ter-
+#facs_211_r2l11 mins=Zeith Ihrer Abfahrt nicht angeben,
+#facs_211_r2l12 wie nicht weniger auch nach dero Angab¬
+#facs_211_r2l13 und verfließung der annoch vergonten
+#facs_211_r2l14 Jahrszeith, nicht abführen Thaten, Con¬
+#facs_211_r2l15 fisciert und zu Unseren Hausen Heimbge
+#facs_211_r2l16 fallen seyn sollens. Denne so ist
+#facs_211_r2l17 auch Unser heiter Will, Meinung und
+#facs_211_r2l18 verstand, daß neben denen in dem 3ten
+#facs_211_r2l19 articul aus allhiesigen Oberkeitlichem
+#facs_211_r2l20 verhafft auff Bürgschafft hin Looßgelaste
+#facs_211_r2l21 nen Bäuferen verbottenen Anstellungen
+#facs_211_r2l22 der Bäuffer Versamblungen und andere
+#facs_211_r2l23 Unruhen, auch zu besuchung dergleichen
+#facs_211_r2l24 von anderen angestellten Versamblungen
+#facs_211_r2l25 Ihnen verpotten sein solle. Item wan sie
+#facs_211_r2l26 sich auch auf begehren und bestimmende
+#facs_211_r2l27 Zeith, wie in gleichem obigen 3ten Articul
+#facs_211_r2l28 angezogen, wieder verhoffen nicht gebührend
+#facs_211_r2l29 wieder Einfinden würden, so habend Wir
+#facs_211_r2l30 geordnet, daß in diesem Fahl die Bürgen
+#facs_211_r3l1 49
+#facs_211_r3l2 für Einen Jeden Lehrer künffzig für einen
+#facs_211_r3l3 Zeugnuß Geber dreyßig, und für Einen ge¬
+#facs_211_r3l4 käufer zwäntzig Dublinen Unser verordneten
+#facs_211_r3l5 Täufer Cammerey zu Oberkeitlichen Handen zu
+#facs_211_r3l6 legen schuldig seyn sollig. Die würklich Landträ¬
+#facs_211_r3l7 verwiesenen und von Oberkeitswegen verschikte
+#facs_211_r3l8 Bäuffer dan anbelangend wollend Wir hier¬
+#facs_211_r3l9 -
+#facs_211_r3l10 durch geseht haben, daß selbige, fahls sie
+#facs_211_r3l11 Unsere Landt wiederumb zu betretten, von
+#facs_211_r3l12 welcher Freyheit, wir sie lauth 2. vorstehen
+#facs_211_r3l13 grunden außge¬
+#facs_211_r3l14 den Articuls aus erheblich,
+#facs_211_r3l15 schloßen, sich Erfrächen Thäten, gebührend bei
+#facs_211_r3l16 -
+#facs_211_r3l17 bachtet werden sollind. Weiters so ist auch
+#facs_211_r3l18 Unser Verstand, daß die Im letsten Articul
+#facs_211_r3l19 vorstehenden Verglichs mit Ihren Elteren oder
+#facs_211_r3l20 sonsten abreisende minderjährige der Selt
+#facs_211_r3l21 nicht zugethane Kinder Ihr Land= und Mann
+#facs_211_r3l22 Rechtzugleich weggezogen haben, auch von Une
+#facs_211_r3l23 nicht mehr für Unsere Angehörige gehällte
+#facs_211_r3l24 werden sollind, worbey Wir Unsere Liebe
+#facs_211_r3l25 Bemeinden in zu tragenden fählen zu Ihrer da¬
+#facs_211_r3l26 harigen sicherheit zuschützen und zu schirmen.
+#facs_211_r3l27 gäntlichen Entschloßen, Fahls und wieder
+#facs_211_r3l28 besters verhoffen einiche dieser Täuferischen
+#facs_211_r3l29 Sach zugethane Persohnen dieser Unsere
+#facs_211_r3l30 Miltreiche gnad ausschlagen und Unserem
+#facs_211_r3l31 dasarigen Willen, nämbliche
+#facs_211_r3l32 neben aufgebung Ihrer Land- und Mann Rechten
+#facs_211_r3l33 mit Ihren Mittlen und Güttern ohne Abstattung
+#facs_211_r3l34 deß Abzugs von hier, wie droben vermeldt,
+#facs_211_r3l35 abzuweisen, und Unsere Land und Bepieth¬
+#facs_212_r3l1 nicht mehr zu betretten, nicht nachkommen
+#facs_212_r3l2 sollten, so ist Unser gäntzlicher Entschluß,
+#facs_212_r3l3 alle und jede Fählbahre, wie nicht weniger
+#facs_212_r3l4 auch die Jenigen, so sich in könfftigen
+#facs_212_r3l5 Zeithen diesere Seit in Unseren Landen
+#facs_212_r3l6 zu lehren und zu bekennen Erfrächen möchten,
+#facs_212_r3l7 auf betretten mit höcher Straff nach
+#facs_212_r3l8 befindenden Dingen alls verführer deß
+#facs_212_r3l9 Volks anzusehen etc. Damit nun ein jeder
+#facs_212_r3l10 desto bester diesem Unserem gegen
+#facs_212_r3l11 wertigen Willen sich nachzurichten und
+#facs_212_r3l12 obiger wiederhandlenden fahls, ohnauß
+#facs_212_r3l13 bleiblicher Straff vorzukommen wüßte.
+#facs_212_r3l14 wollend Wir allen und jeden Unserer
+#facs_212_r3l15 Ambtleüthen hierdurch alles Ernstes
+#facs_212_r3l16 befohlen haben, gegenwertige Verkündung
+#facs_212_r3l17 zu jedermäncklichs Nachricht offentlich
+#facs_212_r3l18 von Cantzlen fürderlichst verlesen und
+#facs_212_r3l19 behöriger Orthen anschlagen zulaßen. Wie
+#facs_212_r3l20 zu thun und Hand obzuhallten sie bestenen
+#facs_212_r3l21 wüßen werdind. Dat. d. 11. Febr. 1711.
+#facs_212_r3l22 An alle T. Ambt Leüts.
+#facs_212_r3l23 Ußert Frutigen, zweysimen, und Sanen
+#facs_212_r3l24 Denne 4. Stätt, Freyweibell und
+#facs_212_r3l25 Ammau. Item per Zesell an die Cäufel
+#facs_212_r3l26 hiesiger Statt.
+#facs_212_r3l27 das Käffer Mandat Erneüwern.
+#facs_212_r3l28 Schultheis und Rath
+#facs_212_r3l29 Gleichwie Unsere Underthanen der Jenigen
+#facs_212_r3l30 orthen, so Unseren hievorigen Einsehen zuab
+#facs_212_r6l1 41
+#facs_212_r6l2 schaffung deß überhandnemmenden Ungezeiffert nun -
+#facs_212_r6l3 und dan sonderlich aber den 27. Aprilis 1708. auf¬
+#facs_212_r6l4 geschrieben worden, gebührend
+#facs_212_r6l5 nachgelebt, an den
+#facs_212_r6l6 feld und Baumbfrüchten die Ersprießliche Wür¬
+#facs_212_r6l7 lung gespühret, alls habend wir anzogene Ord¬
+#facs_212_r6l8 en besten früscher
+#facs_212_r6l9 nung hierdurch zum gem
+#facs_212_r6l10 dingen zewiderhohlen und in Etwas zu erleüthern
+#facs_212_r6l11 guth und nöthig befunden:
+#facs_212_r6l12 Weilen die Erfahrung gelehret, daß die Jngere
+#facs_212_r6l13 in dem Erdtrich merklichen schaden verursachen,
+#facs_212_r6l14 allß soll hin führo Jeder HaußVatter schuldig und
+#facs_212_r6l15 verbunden sein, zu allen Zeithen, wan man
+#facs_212_r6l16 brachet oder zum sayen acheriert, sonderlich
+#facs_212_r6l17 an denen Orthen, da die Schwein und Genß
+#facs_212_r6l18 nicht hinkommend seinem Pflug Zehmand¬
+#facs_212_r6l19 nachzeschiken, der diß Ungezeiffer fleißig auf
+#facs_212_r6l20 lesen und dem Dorff Meister, vierer
+#facs_212_r6l21 anderen darzu bestellten aufseheren über¬
+#facs_212_r6l22 anthworten Thüye, welcher dan dieselben ohnveff
+#facs_212_r6l23 weillt abschaffen wirdt.
+#facs_212_r6l24 Die Käffer bestreffend, ist genügsamb bekant,
+#facs_212_r6l25 die dieselben allwo sie fliegend dem blust
+#facs_212_r6l26 und Jungen Baumen großen schaden Erweken,
+#facs_212_r6l27 Donnenhero wir zu deren wo müglicher
+#facs_212_r6l28 Erdung hiemit veranstalltet haben wollendt,
+#facs_212_r6l29 daß selbige an denen Orthen, da sie fliegend
+#facs_212_r6l30 allwegen sobald und solang sie sich Erzeigend, an
+#facs_212_r6l31 den Eichen und Buchen, wie auch in den Hägen, so weit
+#facs_212_r6l32 sich thun laßt, von den Gemeinden ins gesambt
+#facs_212_r6l33 und von jeder Hausholltung in Ihren privat¬
+#facs_213_r2l1 güeteren Zu den bequembsten Zeithen von
+#facs_213_r2l2 den Baümer abgeschüttellt, fleißig aufge¬
+#facs_213_r2l3 läsen, in Säk gethan, dieselben ins waßen
+#facs_213_r2l4 gestoßen und dem bestellten alle Tag zu
+#facs_213_r2l5 genießen von denenselben aber durch be¬
+#facs_213_r2l6 gießung mit heisein waßer allsobald abge¬
+#facs_213_r2l7 schaffen oder aber verbrönt werden sollen,
+#facs_213_r2l8 In dem Verstand, daß Jede Hausthalts
+#facs_213_r2l9 so viel Mät als viel Persohnen über zich
+#facs_213_r2l10 Jahr Alters, darinen sich befinden, ver=
+#facs_213_r2l11 gebens zulieferen schuldig sein, und in
+#facs_213_r2l12 übrigen, was sie mehr liefferen wirdt,
+#facs_213_r2l13 von jedem Mäß ein batzen in Unserem
+#facs_213_r2l14 nahmen von dem bestellten auffsehern zu
+#facs_213_r2l15 Empfachen haben, und solches durch Unsere
+#facs_213_r2l16 Ambtleüth guth gemacht und Uns ver
+#facs_213_r2l17 rechnet werden solle.
+#facs_213_r2l18 Und da mit dieserem Unserem allge¬
+#facs_213_r2l19 meinen Heilsamen Einsehen durch die höchstin
+#facs_213_r2l20 Thige Vollstrekung das Leben gegeben werde.
+#facs_213_r2l21 als ist Unser Ernstlicher will, daß von nun
+#facs_213_r2l22 an durch Unsere bestellte Jeger Cammer in
+#facs_213_r2l23 denen vier Landtgrichten, übriger Orthen
+#facs_213_r2l24 Unserer Landen aber durch Unserer Ambt
+#facs_213_r2l25 Leuth alle nöthige anstallt mit bestellung
+#facs_213_r2l26 der Aufseheren und was weiters Erfor¬
+#facs_213_r2l27 derlich verschaffet, und fahls eint oder
+#facs_213_r2l28 andere hierin saumbselig Erfunden
+#facs_213_r2l29 bürdend, so sollend nicht nur die
+#facs_213_r4l1 G8
+#facs_213_r4l2 Auffseher den quallt haben die Arbeithin,
+#facs_213_r4l3 der fehlbahren Costen verrichten zelaßen, son¬
+#facs_213_r4l4 deren wollend auch gehept haben, daß die
+#facs_213_r4l5 selben zu Abstattung dreyer Pfunden immer
+#facs_213_r4l6 läßiger Buß gehalten, darvon Ein Drittel
+#facs_213_r4l7 dem Ambtsmann der andere den Armen
+#facs_213_r4l8 ler Binein und der Drittel dem Auffsehe
+#facs_213_r4l9 desOrths heimbfallen solle: Dir gleich übrigen
+#facs_213_r4l10 Unseren Ambt Leüthen demmenach befelehende
+#facs_213_r4l11 diß Unser Erfrischtes Einsehen öffentlich von
+#facs_213_r4l12 gantzley verkünden, zu künftiger verhallt sei,
+#facs_213_r4l13 nes Orths Einschreiben und ußersten fleißes,
+#facs_213_r4l14 die Handobhältung dir angelegen sein
+#facs_213_r4l15 laßen. Kott mit dir. Datum den. 21. Marty 1711.

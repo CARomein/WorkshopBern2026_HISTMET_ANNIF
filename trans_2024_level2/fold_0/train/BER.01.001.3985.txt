@@ -1,0 +1,129 @@
+Law ID: BER.01.001.3985
+Name: Hirschen Jagt erlaubt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 118/118
+# High similarity (>=50%): 113
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_40_r7l4 Liste
+#facs_40_r7l5 Derjenigen Mrghl. an die obige
+#facs_40_r7l6 Schreiben adressiert worden.
+#facs_40_r7l7 6 x
+#facs_40_r7l8 Niclaus Dapelhoffer Herr zu Uzigen.
+#facs_40_r7l9 (
+#facs_40_r7l10 Albrecht Friederich von Erlach, alt Landtoge
+#facs_40_r7l11 zu Morsten, Herr zu Hindelbank
+#facs_40_r7l12 Johann Emanuel Fischer, Landvogt
+#facs_40_r7l13 zu Ifferten Herr zu Rychenbach
+#facs_40_r7l14 Seat Fischer, zu Bümligen
+#facs_40_r7l15 Victor Fischer, zu delp.
+#facs_40_r7l16 Vinzenz Prisching, alt Schultzeis
+#facs_40_r7l17 zu Thun, Herr zu Wyl
+#facs_40_r7l18 Franz Ludwig von Graffenries, Herr
+#facs_40_r7l19 zu Klersaz
+#facs_40_r7l20 Aebilles Jenner, im Haskl
+#facs_40_r7l21 Johann Rudolf May, Kornherr,
+#facs_40_r7l22 zu Deisweil
+#facs_40_r7l23 Lmanuel von Mülenen, Hauphin.
+#facs_40_r7l24 zu Münsigen (Neuhaus)
+#facs_41_r3l1 H. Albrecht Steiger Alt Vogt von
+#facs_41_r3l2 Thorberg, H. zu Wichtrach, zu Münsigen,
+#facs_41_r3l3 Anthoni Zillier, Mayer, zu Habstatten
+#facs_41_r3l4 Alexander von Wattenweil, Herr¬
+#facs_41_r3l5 schaffts Verwalter zu Worb¬
+#facs_41_r3l6 Samuel von Werdt, Herr zu Toffen
+#facs_41_r3l7 FranzLudwig Würstenberger,
+#facs_41_r3l8 Hauptman zu Seitenweil
+#facs_41_r3l9 Jacob Wytenbach, alt vogt zu
+#facs_41_r3l10 Buchster, auf dem Graben.
+#facs_41_r3l11 Lan
+#facs_41_r3l12 7 und St. Amtleuth, 4. Städt
+#facs_41_r3l13 Elle
+#facs_41_r3l14 Freylweibel und Amen; Item
+#facs_41_r3l15 Zedel an hiesige Cänzel.
+#facs_41_r3l16 Hirschen Jagt erlaubt
+#facs_41_r3l17 Schultheis Räht und Burger der Stadt Ber¬
+#facs_41_r3l18 Demmenach Unß von verschiedenen
+#facs_41_r4l1 Orten her nicht nur von vielen particular
+#facs_41_r4l2 Haushaltungen, sonderen auch von ganzen
+#facs_41_r4l3 gemeinden die der und Wehmühtig vorstellung
+#facs_41_r4l4 gethan worden, wie bedaurlich Sie zustehen
+#facs_41_r4l5 müßen, was für großen Schaden Ihnen
+#facs_41_r4l6 die Menge der überhand nemmenden Hirschen
+#facs_41_r4l7 in Ihren Felderen, Aberen, Gärten und Bründer
+#facs_41_r4l8 zufuegen, mit 3it hierin das erforderliche
+#facs_41_r4l9 Einsehen zu Ihrem Trost vorzubehren.
+#facs_41_r4l10 Als haben Wir dieserem anwachsenden Übel
+#facs_41_r4l11 zu steüren solchem nach aus lands vätterlichen
+#facs_41_r4l12 Vorstorg von min an bis ende höuffigen
+#facs_41_r4l13 Octobris hiermit jedermaniglich, allen Unserer
+#facs_41_r4l14 zurgeren und Underthanen zu laßen und
+#facs_41_r4l15 bewilligen wollen, Alle zirschen Hindenen
+#facs_41_r4l16 und Kälber zu fellen; des Jagens
+#facs_41_r4l17 Gleichwohl in dem Verstand, daß selbiger
+#facs_41_r4l18 mit den Jagdhünden nicht eher bewilliget
+#facs_41_r4l19 seyn solle Als bis nach geendigter Ernd;
+#facs_41_r4l20 Gleichwie Wir nun in der sothaner Restruction
+#facs_42_r3l1 El. Albrecht Steiger Als Vogt von
+#facs_42_r3l2 Thorberg, H. zu Wichtrach, zu Münsigen,
+#facs_42_r3l3 Anthoni Killier, Mayor, zu Habstellin
+#facs_42_r3l4 Alexander von Wattenweil, Herr¬
+#facs_42_r3l5 schaffts Verwalter zu Worb¬
+#facs_42_r3l6 Samuel von Werdt, Herr zu Toffen
+#facs_42_r3l7 FranzLudwig Würstenberger,
+#facs_42_r3l8 Hauptman zu Seitenweil
+#facs_42_r3l9 Jacob Wytenbach, alt Vogt zu
+#facs_42_r3l10 Buchster, auf dem Graben
+#facs_42_r3l11 1
+#facs_42_r3l12 L'un
+#facs_42_r3l13 Alle
+#facs_42_r3l14 und St. Amtleüth, 4. Städt
+#facs_42_r3l15 6
+#facs_42_r3l16 Freylweibel und Amen; Item
+#facs_42_r3l17 Zedel an hiesige Cänzel.
+#facs_42_r3l18 Hirschen Jagt erlaubt
+#facs_42_r3l19 Schultheiß Räht und Burger der Stadt¬
+#facs_42_r3l20 Demmenach Unß von verschiedenen
+#facs_42_r4l1 Orten her nicht nur von vielen particula¬
+#facs_42_r4l2 Haushaltungen, sonderen auch von ganzen
+#facs_42_r4l3 Gemeinden die der und Wehmühtig vorstellung
+#facs_42_r4l4 gethan worden, wie bedaurlich Sie zustehen
+#facs_42_r4l5 müßen, was für großen Schaden Ihnen
+#facs_42_r4l6 die Menge der überhand nemmenden Hirschen
+#facs_42_r4l7 in Ihren Felderen, Akeren, Gäeten und Gründen
+#facs_42_r4l8 zufuegen, mit mit hierin das erforderliche
+#facs_42_r4l9 Einsehen zu Ihrem Trost vorzubehren.
+#facs_42_r4l10 Als haben Wir dieserem anwachsenden Übel
+#facs_42_r4l11 Zusteuren solchemnach aus Lands vätterlichen
+#facs_42_r4l12 Vorstorg von nun an bis Ende könfftigen
+#facs_42_r4l13 Octobris hiermit jedermäniglich, allen Unsere
+#facs_42_r4l14 Burgeren und Underthanen zu lassen und
+#facs_42_r4l15 bewilligen wollen, Alle Hirschen Hindenen
+#facs_42_r4l16 und Kälber zu fellen; daß Jagens
+#facs_42_r4l17 Gleichwohl in dem Verstand, daß selbiges
+#facs_42_r4l18 mit den Jagdhünden nicht eher bewilliget
+#facs_42_r4l19 seyn solle Alß bis nach geendigter Ernd;
+#facs_42_r4l20 Gleichwie Wir nun im der sothaner Restorition
+#facs_43_r2l1 diesere dermahlen, so schädlich gewordene
+#facs_43_r2l2 Thier biß auf obgesetzte Zeit zu erlegen
+#facs_43_r2l3 verwilliget; Also und hinwiederum wollen
+#facs_43_r2l4 in Erleütherung und Abänderung Unser
+#facs_43_r2l5 in Ano 1742. in Truk außgangenen
+#facs_43_r2l6 Jäger Ordnung auch fürs künfftige nach
+#facs_43_r2l7 diesem Termin allen Unseren Angehörigen
+#facs_43_r2l8 hiemit zugelasen und erlaubt haben,
+#facs_43_r2l9 so oft dergleichen Hirschen Ihnen in Ihren
+#facs_43_r2l10 Büteren Schaden und Nachtheil zufüeg¬
+#facs_43_r2l11 velbige in so weit sie darauf mögen
+#facs_43_r2l12 betretten werden, zu fallen; Euch demmenach
+#facs_43_r2l13 befehlende, gegenwertige Unsere Verord¬
+#facs_43_r2l14 nung zu jedermanigl. Verhalt offentl.
+#facs_43_r2l15 von Canzlen verkünden zu laßen
+#facs_43_r2l16 1
+#facs_43_r2l17 Maaßen zu veranstalten Ihr bestens
+#facs_43_r2l18 laußen werdet. Gott mit Euch Dat. d. 19 Junii
+#facs_43_r2l19 1750.

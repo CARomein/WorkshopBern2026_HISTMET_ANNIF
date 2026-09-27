@@ -1,0 +1,223 @@
+Law ID: BER.01.001.4651
+Name: Ihnen die Verordnung, betreffend die Einfuhr des fremden Getreydes, auf darauf gesezten Prämien, zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 212/212
+# High similarity (>=50%): 202
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_8_r3l1 lg. r.
+#facs_8_r3l2 2
+#facs_8_r3l3 3
+#facs_8_r5l1 Den
+#facs_8_r5l2 alle deutsch und
+#facs_8_r5l3 hen.
+#facs_8_r5l4 Herren
+#facs_8_r5l5 deme Zofing und Bogtstritt
+#facs_8_r5l6 Amtlente, vier Stadt Frey Weibel
+#facs_8_r5l7 und Amann.
+#facs_8_r5l8 _=
+#facs_8_r5l9 Ihnen die Verordnung, betreffend
+#facs_8_r5l10 die Einfuhr des fremden Getreydes
+#facs_8_r5l11 auf darauf gesezten Pramen,
+#facs_8_r5l12 Insenden.
+#facs_8_r5l13 Schultheiß und Rath.
+#facs_8_r5l14 a
+#facs_8_r5l15 Aus dem beyligenden Mandat
+#facs_8_r5l16 berdet, ihr des mehreren ersehen,
+#facs_8_r5l17 bas UrGhhl. und Ober zu Beförderung
+#facs_8_r5l18 der Einfuhr des fremden Getreyds,
+#facs_8_r5l19 verordnet haben; Mit Zusendung deßen
+#facs_8_r5l20 nun befehlen Wir Euch selbiges ohne
+#facs_8_r5l21 Anstand auf allen Crichlen Eueres
+#facs_8_r5l22 Amts publicieren zu laßen, und
+#facs_8_r5l23 zu deßelben Execution so wohl die
+#facs_8_r5l24 behörigen Aufseher an den Grensten
+#facs_8_r5l25 zu bestellen, welche das ins Land
+#facs_8_r5l26 kommende Getreyd unentgeldlich.
+#facs_8_r5l27 mit Consigne Zedel versehen, und
+#facs_9_r2l1 für ihre dßortige Bemühung seiner
+#facs_9_r2l2 Zeit belohnt werden sollen, als
+#facs_9_r2l3 aber theils zu Einführung einer
+#facs_9_r2l4 Controlle und theut zu Rezahlung der
+#facs_9_r2l5 Praemien die nöhtige Befehle abzugeben
+#facs_9_r2l6 und die erforderlichen Personen
+#facs_9_r2l7 zu ernennen.
+#facs_9_r2l8 Über als aus berdet ihr Uns¬
+#facs_9_r2l9 mit nächstem die Folgen von dieser
+#facs_9_r2l10 Publication, samt Eueren allfähligen
+#facs_9_r2l11 Gedanken einberichten, und sodann
+#facs_9_r2l12 alle Monat uns eine umarische
+#facs_9_r2l13 Berechnung, über die ertheilte Praemien
+#facs_9_r2l14 samt einem Bericht einsenden, was
+#facs_9_r2l15 selbige für eine Würbung hervor¬
+#facs_9_r2l16 gebracht haben, ob und wie viel fremdes
+#facs_9_r2l17 Getreys in Eüeren Amts Pezirk
+#facs_9_r2l18 gekommen, und welche Veränderung
+#facs_9_r2l19 in dem Preiß der Fruchten bemerkt.
+#facs_9_r2l20 borden seye.
+#facs_9_r2l21 Dat. den 26ten Aug. 1789
+#facs_9_r2l22 Verordnung
+#facs_9_r3l1 13
+#facs_9_r3l2 Verordnung.
+#facs_9_r3l3 Wir Schultheiz klein und grosse-
+#facs_9_r3l4 Raste der Stadt und Republit Bern¬
+#facs_9_r3l5 Coll.
+#facs_9_r3l6 entbieten allen unseren Kürgeren
+#facs_9_r3l7 und Angehörigen zu Stadt und Land¬
+#facs_9_r3l8 unseren gnädigen und geneigten
+#facs_9_r3l9 Willen, und geben ihnen dabey zu
+#facs_9_r3l10 vernemmen.
+#facs_9_r3l11 Nachdem Wir mit beständiger
+#facs_9_r3l12 Sorgfalt gebachet, daß der benöhtige
+#facs_9_r3l13 Getreyd-Vorrath zum Unterhalt
+#facs_9_r3l14 Unserer Angehörigen vorhanden seye;
+#facs_9_r3l15 und Wir zu dem End seit langer
+#facs_9_r3l16 Zeit, und mit großem Aufwand
+#facs_9_r3l17 neue Korn Vorräthe gefammlet.
+#facs_9_r3l18 und solche bey den gegenwärtigen
+#facs_9_r3l19 theuren Zeit Umständen zum Resten
+#facs_9_r3l20 unserer Landen, öffnen laßen,
+#facs_9_r3l21 da Wir dann unsere Landesbäcker,
+#facs_9_r3l22 lichen Absichten niemalen mit so
+#facs_10_r2l1 vielem Vergnügen und Nüzen als
+#facs_10_r2l2 dißmalen erfüllet sehen: so zweiflen
+#facs_10_r2l3 Wir keineswegs, daß vermittelst dieser
+#facs_10_r2l4 und anderen getroffenen Anstalten
+#facs_10_r2l5 beim Mangel in unseren Landen
+#facs_10_r2l6 zu befürchten seye.
+#facs_10_r2l7 Damit aber nichts unterlaßen
+#facs_10_r2l8 berde, das zu Unserer und Künsterer
+#facs_10_r2l9 lieben angehörigen Beruhigung führe)
+#facs_10_r2l10 kann; so wollen Wir vor allem aus
+#facs_10_r2l11 die Verwilligung eines freyen und im
+#facs_10_r2l12 gehinderten Handels, mit fremden
+#facs_10_r2l13 Getreye, erneuern und bestäthigen
+#facs_10_r2l14 und zwar für so lange Zeit, als
+#facs_10_r2l15 die Umstände um das gemeine
+#facs_10_r2l16 Beste solches erforderen beyden.
+#facs_10_r2l17 Wir versprechen zugleich, die Ein-
+#facs_10_r2l18 fuhr des fremden Getreids in
+#facs_10_r2l19 .
+#facs_10_r2l20 Unsere Lande nicht zu hemen noch
+#facs_10_r2l21 zu verbieten, es seye dann Sechs
+#facs_10_r2l22 Monat vorher solche Abänderung
+#facs_10_r2l23 oder verbock öffentlich kund gethan.
+#facs_10_r3l1 15
+#facs_10_r3l2 worden, damit indeßen jedermann
+#facs_10_r3l3 mit allen Sicherheit den Getrey¬
+#facs_10_r3l4 Handel führen möge.
+#facs_10_r3l5 In der Absicht und Hoffnung
+#facs_10_r3l6 nun, den gegenbärtigen hohen
+#facs_10_r3l7 —
+#facs_10_r3l8 Preis des Getreyds fallen zu sehen
+#facs_10_r3l9 haben Wir uns auch ferners gefallen
+#facs_10_r3l10 laßen, auf die Einfuhr des äußert
+#facs_10_r3l11 den benachbarten Cantonen angekauften
+#facs_10_r3l12 Getreyds, in unsere Lande einen
+#facs_10_r3l13 Aufmunterungspreis zu sehen
+#facs_10_r3l14 2.° =
+#facs_10_r3l15 welcher von nun an, und so lange
+#facs_10_r3l16 Wir es nöhtig finden, von Untern
+#facs_10_r3l17 Marktaufsteheren, Schloß einziehern,
+#facs_10_r3l18 oder anderen dazu bestellten Per¬
+#facs_10_r3l19 wohnen, zu 2. Kreuzer für jedes
+#facs_10_r3l20 Sernmas fremden Kernen, Wachen
+#facs_10_r3l21 oder Mehl entrichtet werden soll.
+#facs_10_r3l22 das zum verbauff oder eigenem
+#facs_10_r3l23 Gebrauch in unsere Lande gebracht
+#facs_10_r3l24 bind.
+#facs_10_r3l25 Wir versprechen zugleich demjenigen
+#facs_11_r2l1 eine Relohnung von 80. Razen bezahl¬
+#facs_11_r2l2 zu laßen, der auf jeden öffentlichen
+#facs_11_r2l3 Marktag, voman Getreye verkauft,
+#facs_11_r2l4 die stärkste Menge fremder Früchten
+#facs_11_r2l5 zu Markt bringen wird, in dem Ver¬
+#facs_11_r2l6 stand jedennoch, daß diese Menge
+#facs_11_r2l7 benigstens die Zahl von 80. Perimias
+#facs_11_r2l8 kernen, Wachen oder Mehl übersteige.
+#facs_11_r2l9 Endlich wollen wir alles das jenige
+#facs_11_r2l10 fremde getreyd, welches auf den
+#facs_11_r2l11 Markten nicht verkauft werden.
+#facs_11_r2l12 kann, um den Mittelpreiß jeden
+#facs_11_r2l13 Marktages, zu unsern Handen
+#facs_11_r2l14 in unsere handelbahre Magazin
+#facs_11_r2l15 ankaufen und durch die daselbst
+#facs_11_r2l16 bestellte verwaltere baar bezahlen
+#facs_11_r2l17 laßen; unter dem Vorbehalt jedenen
+#facs_11_r2l18 daß jedes Hermmas Kernen und Wachen
+#facs_11_r2l19 19. lb. zu 17. Unzen Marktgelicht,
+#facs_11_r2l20 an Gebicht halten solle, und über
+#facs_11_r2l21 dies eine gute und annehmliche
+#facs_11_r2l22 frucht seye.
+#facs_11_r4l1 17.
+#facs_11_r4l2 Zu Ausmeidung der Mißbrauchen,
+#facs_11_r4l3 welche von der auf die Einfuhr
+#facs_11_r4l4 des fremden Getreyds gesezten Re¬
+#facs_11_r4l5 hohnung herfließen, und daher Unseren
+#facs_11_r4l6 bestgemeinten wohlthätigen Absichten
+#facs_11_r4l7 Zuwieder laufen könnten, haben
+#facs_11_r4l8 Wir gut befunden, zu verordnen:
+#facs_11_r4l9 1° Es solle nur dasjenige Getreyd,
+#facs_11_r4l10 als fremdes angesehen werden,
+#facs_11_r4l11 das bey dem Eintricht in Unsere
+#facs_11_r4l12 Lande Unseren Zollbeamteten
+#facs_11_r4l13 oder den von Unseren Amtleuten
+#facs_11_r4l14 an den Grenzen zu bestellenden
+#facs_11_r4l15 vorgesehten angegeben, und von
+#facs_11_r4l16 ihnen mit unentgeldtlich zu er¬
+#facs_11_r4l17 theilenden Consigne jedeln begleitet
+#facs_11_r4l18 seyn wird.
+#facs_11_r4l19 Begen Vorweisung und Übergab
+#facs_11_r4l20 dieser Consigne zedeln allein
+#facs_11_r4l21 sollen von Unseren Markt auf¬
+#facs_11_r4l22 steheren oder von denen dazu
+#facs_11_r4l23 bestellten Personen die Prämien
+#facs_12_r3l1 behalt werden, welche Wir auf die
+#facs_12_r3l2 ung sey, das dußert Unserem und
+#facs_12_r3l3 2.
+#facs_12_r3l4 den benachbarten Cantonen ange¬
+#facs_12_r3l5 kauften getreydes, gesezt haben.
+#facs_12_r3l6 3. Liejenigen, Beiche hiermen einigen
+#facs_12_r3l7 Betrags sich schuldig machen wurden,
+#facs_12_r3l8 sollen von dem Richter des Ortr
+#facs_12_r3l9 wo sicher entdert worden, mit der
+#facs_12_r3l10 Confislation ihres Getreydes zu
+#facs_12_r3l11 chünsten die Armen des gleichen
+#facs_12_r3l12 Orts, und im Fall einer Wieder¬
+#facs_12_r3l13 hohlung, noch über die Confiscation
+#facs_12_r3l14 aus, mit einer Gefangenschaft
+#facs_12_r3l15 von zweymahl 24 Stunden gestraft
+#facs_12_r3l16 werden.
+#facs_12_r3l17 Wir verhoffen zugleich v. Unseren
+#facs_12_r3l18 hieben und getreuen Angehörigen,
+#facs_12_r3l19 es werde jeder derselben zu diesen
+#facs_12_r3l20 unseren bestgemeinten und bohl¬
+#facs_12_r3l21 thätigen Absichten so viel möglich
+#facs_12_r3l22 beyzutragen, und selbige zu erfüllen
+#facs_12_r3l23 trachten; Zu welchem End Wir jedes
+#facs_12_r4l1 9
+#facs_12_r4l2 dahin gehende Restreben, so wohl als
+#facs_12_r4l3 den vermehrten Feldbau und die
+#facs_12_r4l4 mehrere Anpflachung des Getreydes,
+#facs_12_r4l5 welche sämtlich zu Wiederherstellung
+#facs_12_r4l6 des suchenden Überflußes an Lebens¬
+#facs_12_r4l7 mitteln führen können, mit gnädigen
+#facs_12_r4l8 Wohlgefallen ansehen werden.
+#facs_12_r4l9 Wir befehlen demnach, in Auf
+#facs_12_r4l10 hebung aller zuwieder laufenden
+#facs_12_r4l11 Mandaten, unseren Amtleuten, auf
+#facs_12_r4l12 die Befolgung dieser unserer Ver¬
+#facs_12_r4l13 ordnung genau zu achten; welche
+#facs_12_r4l14 Zu dem End in Druk ausgegeben:
+#facs_12_r4l15 öffentlich von Kanzeln verlesen.
+#facs_12_r4l16 um an gewohnten Orten zu jedem
+#facs_12_r4l17 manns Nachricht, angeschlagen werden
+#facs_12_r4l18 soll
+#facs_12_r4l19 Beben in unserer Großen
+#facs_12_r4l20 Rathsverfammlung, den 26ten Augst,
+#facs_12_r4l21 monats 1789.
+#facs_12_r4l22 Kansley Herrn

@@ -1,0 +1,78 @@
+Law ID: BER.01.001.0561
+Name: Halttung halb der Musterung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 67/67
+# High similarity (>=50%): 21
+# Low similarity (<50%): 46
+# Not found: 0
+#
+#facs_116_r3l13 1614
+#facs_117_r2l1 1
+#facs_117_r2l2 Ann alle weltsche Amptluth halttung
+#facs_117_r2l3 halb der Musterung
+#facs_117_r2l4 schuldtheis etc. dir wirtt zwöffels ohn In
+#facs_117_r2l5 Frischer gedechnus sein, was wir dir vnd anderen
+#facs_117_r2l6 Vnseren kuntlüthen weltsch landts den 7
+#facs_117_r2l7 Mts Jüngst verschinnen zugeschrijben, vnd beuochen
+#facs_117_r2l8 das du Vnsere Vassalen, die dry vßzug, vnd
+#facs_117_r2l9 vnsere Vnderthanen in gemein, Vnseren ernstigen
+#facs_117_r2l10 ansechl. mit yffer vndernt dahin vermanen,
+#facs_117_r2l11 Vnd haltten sollist, das vnsere Edelluth zu
+#facs_117_r2l12 bedienung Irer lächt, sich grüst vnd verfaßt
+#facs_117_r2l13 machindt, ouch die Vbrüger mit denen
+#facs_117_r2l14 wehren, die Ihnen bestimpt, Und vferlegt
+#facs_117_r2l15 worden sindt, vnd Vnsere Underthanen in
+#facs_117_r2l16 In gemein, welche wehr vnd waaffen zetragen
+#facs_117_r2l17 thugenlich sich darmit nach nothurfft zu sechindt
+#facs_117_r2l18 Dann wir gesinnet syndt, nach gelägenheitt
+#facs_117_r2l19 der Zytt by Ihnen ein Generalmusterung
+#facs_117_r2l20 an zesächl. wie albereidt In Unserem
+#facs_117_r2l21 tutschl. land verricht worden, So
+#facs_117_r2l22 nun vns mit zwyfflet, du werdit
+#facs_117_r2l23 die einen und anderen darzu, und zu Iren
+#facs_117_r4l1 vra
+#facs_117_r4l2 dahin gericht haben, Vnd dan sich diser Zytt
+#facs_117_r4l3 seltzame vnd gefahrliche leüff erzeigendt die
+#facs_117_r4l4 C
+#facs_117_r4l5 uns Vrsach gäbendt, Und bewegend zewußl.
+#facs_117_r4l6 vnd zuerfharen, wie die Vnseren des wältschl
+#facs_117_r4l7 Landts mit nothwendig kriegs bereit schafft
+#facs_117_r4l8 versehl, vnd weß wir vns Irem Im fahl der noth
+#facs_117_r4l9 nach Gott zegetrosten, Alls haben wir hoch
+#facs_117_r4l10 nothwendig, vnd erfahrderlich sijn erst In Vnserem
+#facs_117_r4l11 güntzl. weltsch. landt zwahr von ergangnen
+#facs_117_r4l12 stärbets wägl. nit ein general musterung
+#facs_117_r4l13 sonders furnelich der Vßzügen Jedes Amts¬
+#facs_117_r4l14 vnd deren so sich sonst fry vnd guttwillig, mit
+#facs_117_r4l15 Irer Kriegs bereitschafft in solcher vorhabenden
+#facs_117_r4l16 musterung erzeig vnd stellen möchten, ein
+#facs_117_r4l17 musterung vf munterung vnd beschauw der
+#facs_117_r4l18 wehren furnemen vnd verrichten Zeläßl
+#facs_117_r4l19 vnd habend Vf solch ennd hin zum umsterherren
+#facs_117_r4l20 verordnet Vnseren gebrotten mithvatt hrn
+#facs_117_r4l21 schauß von Mullinen, und Imma
+#facs_117_r4l22 darumb offnen beuelich vnd gewalt zugestelt
+#facs_118_r2l1 (
+#facs_118_r2l2 zugestelt welcher Vff U. by dir anlangen
+#facs_118_r2l3 vnd die offentliche Musterung der Vßgezognen
+#facs_118_r2l4 In Zynem Ampt morndes fürnemen wirt
+#facs_118_r2l5 derhalben wirst du dieselben augentz des
+#facs_118_r2l6 ver-verwährnen vnd Ihnen gebietten lassen,
+#facs_118_r2l7 Zy zu N. alls vf den verordnett
+#facs_118_r2l8 Austerplatz, mit Iren harnisen wehr
+#facs_118_r2l9 und wahffen erschwümen, und ihre schul¬
+#facs_118_r2l10 dige pflicht leisten sollendt vnnd
+#facs_118_r2l11 damit solche vorhabende Musterung
+#facs_118_r2l12 mit mehreren ansechl. abgahn mochte
+#facs_118_r2l13 It vnser will vnd verstand, das du den
+#facs_118_r2l14 Vnseren sijnen Amptsangehörigl mit
+#facs_118_r2l15 verhaltten, Sonders sy ermanen sollist
+#facs_118_r2l16 das welche ghijchwoll nit Indendryen
+#facs_118_r2l17 vfzügl begreiffen, das sij mitt destommen
+#facs_118_r2l18 In die Musterung begaben vnd Insellen
+#facs_118_r2l19 mögendt, alls das vns darann angenemens
+#facs_118_r2l20 gefallen beschächl
+#facs_118_r2l21 Datum 4 Augusti

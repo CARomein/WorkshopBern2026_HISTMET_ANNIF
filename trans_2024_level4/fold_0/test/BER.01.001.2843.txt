@@ -1,0 +1,22 @@
+BER.01.001.2843
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 13/13
+# High similarity (>=50%): 13
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_377_r4l11 Lentzburg. Schenkenberg. Hiberstein
+#facs_377_r4l12 Wegen Bewachung der Wachtfeüwren
+#facs_377_r4l13 Schultheiß und Raht etc.
+#facs_377_r4l14 Die eingelangten bedenklichen advisen und bewegungen
+#facs_377_r4l15 Der Franz. Trouppen bey den gräntzen wollend nicht zügeben
+#facs_377_r4l16 daß denenselben ohne Wachtsammer aug nachgesehen werde;
+#facs_377_r4l17 Allermaßen wir der eüßersten nohtwendigkeit zu sein erachtet
+#facs_377_r4l18 Die Wachtfeüwer zu Lenhburg, Schenckenberg und Ziberstein
+#facs_377_r4l19 mit wächteren bestellen-zelaßen, undt befelchendt
+#facs_377_r4l20 Dir demnach, die ungesaumbte Veranstaltung der Verwahrung
+#facs_377_r4l21 Der Wachtfeüwren in deinem Ambt ergehen undt fleißige
+#facs_377_r4l22 achtung geben zelaßen, wie zu thun wüßen wirst. Gott mit
+#facs_377_r4l23 zir. Datl. 5. Aprilis 1704.

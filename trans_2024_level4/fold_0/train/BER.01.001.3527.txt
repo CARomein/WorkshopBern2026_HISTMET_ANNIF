@@ -1,0 +1,204 @@
+Law ID: BER.01.001.3527
+Name: Wegen den nachgebrägten St. Gallen Batzen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 193/193
+# High similarity (>=50%): 178
+# Low similarity (<50%): 15
+# Not found: 0
+#
+#facs_293_r3l4 Beschreibung
+#facs_293_r3l5 der E: vnd W: H. Ambtleüthen zu
+#facs_293_r3l6 Ablag ihrer Rechnung
+#facs_293_r3l7 Osteren
+#facs_293_r3l8 1727
+#facs_293_r3l9 3. Febrij
+#facs_293_r3l10 Buchse - Montags d
+#facs_293_r3l11 Landtshut
+#facs_293_r3l12 Burgdorff
+#facs_293_r3l13 4
+#facs_293_r3l14 Dienstags
+#facs_293_r3l15 Signault
+#facs_293_r3l16 5.
+#facs_293_r3l17 Arberg.
+#facs_293_r3l18 Mitwochens d.
+#facs_293_r3l19 Beuren
+#facs_293_r3l20 6.
+#facs_293_r3l21 Donstags d.
+#facs_293_r3l22 Laupen
+#facs_293_r3l23 Nydaulo
+#facs_293_r3l24 7
+#facs_293_r3l25 Erytagt
+#facs_293_r3l26 Wittlispurg
+#facs_293_r3l27 dans le
+#facs_293_r3l28 8
+#facs_293_r3l29 Pätterlingen
+#facs_293_r3l30 Sambstags d
+#facs_293_r3l31 10
+#facs_293_r3l32 S. Johanisen
+#facs_293_r3l33 Montags d
+#facs_293_r3l34 hattis wyl
+#facs_293_r3l35 "
+#facs_293_r3l36 11.
+#facs_293_r3l37 Elach
+#facs_293_r3l38 Dienstags den
+#facs_293_r3l39 12
+#facs_293_r3l40 Mitwochens
+#facs_293_r3l41 Esorburg
+#facs_293_r3l42 ch
+#facs_293_r4l1 581
+#facs_293_r4l2 Donstags den
+#facs_293_r4l3 Wangen
+#facs_293_r4l4 13. febris.
+#facs_293_r4l5 Feytags d
+#facs_293_r4l6 14
+#facs_293_r4l7 Milden
+#facs_293_r4l8 Sambstags den
+#facs_293_r4l9 15
+#facs_293_r4l10 -
+#facs_293_r4l11 Oron
+#facs_293_r4l12 Bipp
+#facs_293_r4l13 17.
+#facs_293_r4l14 Montags-d
+#facs_293_r4l15 Arlangen
+#facs_293_r4l16 18
+#facs_293_r4l17 5 Johanser
+#facs_293_r4l18 Hausdienstags d
+#facs_293_r4l19 Interlaken
+#facs_293_r4l20 19
+#facs_293_r4l21 Mitwochende
+#facs_293_r4l22 Frimisserger Hauß
+#facs_293_r4l23 20
+#facs_293_r4l24 Donstags den
+#facs_293_r4l25 Kornherr
+#facs_293_r4l26 Freytags den - 21.
+#facs_293_r4l27 Iderten
+#facs_293_r4l28 22
+#facs_293_r4l29 Sambstags den
+#facs_293_r4l30 Romainmôtier
+#facs_293_r4l31 24
+#facs_293_r4l32 Gottstat
+#facs_293_r4l33 Montags d
+#facs_293_r4l34 Oberhoffen
+#facs_293_r4l35 25
+#facs_293_r4l36 -
+#facs_293_r4l37 Brandis
+#facs_293_r4l38 Dienstags den
+#facs_293_r4l39 Sumniswald
+#facs_293_r4l40 26
+#facs_293_r4l41 de
+#facs_293_r4l42 Mitwochens d.
+#facs_293_r4l43 friemischen
+#facs_293_r4l44 27
+#facs_293_r4l45 Constags den
+#facs_293_r4l46 Siechenhauß
+#facs_293_r4l47 28
+#facs_293_r4l48 Ereytag den
+#facs_293_r4l49 Chillon
+#facs_293_r4l50 Neuwenstatt
+#facs_293_r4l51 1. Martii
+#facs_293_r4l52 Sambstags den
+#facs_293_r4l53 Lausane
+#facs_293_r4l54 3
+#facs_293_r4l55 Montags d
+#facs_293_r4l56 Fraubrunnen
+#facs_293_r4l57 4
+#facs_293_r4l58 Dienstags d
+#facs_293_r4l59 rutigen
+#facs_293_r4l60 3
+#facs_293_r4l61 Vnderseen)
+#facs_293_r4l62 alimis
+#facs_294_r2l1 damus - Mitwochens den 5. Martii
+#facs_294_r2l2 6
+#facs_294_r2l3 Mußhaffen darstags den
+#facs_294_r2l4 Beaumont
+#facs_294_r2l5 7.
+#facs_294_r2l6 Feytags.
+#facs_294_r2l7 de
+#facs_294_r2l8 Petterlingen Cons.
+#facs_294_r2l9 8
+#facs_294_r2l10 d
+#facs_294_r2l11 Sambstags
+#facs_294_r2l12 Neuws-
+#facs_294_r2l13 Montagd d
+#facs_294_r2l14 10
+#facs_294_r2l15 Insul
+#facs_294_r2l16 12
+#facs_294_r2l17 Mitwochens d.
+#facs_294_r2l18 Stifft alhier
+#facs_294_r2l19 Trachselwald
+#facs_294_r2l20 13
+#facs_294_r2l21 Constags den
+#facs_294_r2l22 Bodingen
+#facs_294_r2l23 14
+#facs_294_r2l24 Ereytags d.
+#facs_294_r2l25 aubone
+#facs_294_r2l26 15
+#facs_294_r2l27 Sambstags d
+#facs_294_r2l28 Morsen.
+#facs_294_r2l29 17.
+#facs_294_r2l30 Bauherr v. Gurgern Montags
+#facs_294_r2l31 Interlalen
+#facs_294_r2l32 18
+#facs_294_r2l33 Dienstags
+#facs_294_r2l34 zweysimen
+#facs_294_r2l35 19
+#facs_294_r2l36 Mitwochens den
+#facs_294_r2l37 Arburg
+#facs_294_r2l38 20
+#facs_294_r2l39 3
+#facs_294_r2l40 Donstags
+#facs_294_r2l41 Thun
+#facs_294_r2l42 21.
+#facs_294_r2l43 Weltschweinschenk Freytags d.
+#facs_294_r2l44 24
+#facs_294_r2l45 Biberstein
+#facs_294_r2l46 de
+#facs_294_r2l47 Montays
+#facs_294_r2l48 Schenkenberg
+#facs_294_r2l49 25
+#facs_294_r2l50 ch
+#facs_294_r2l51 Ahlen
+#facs_294_r2l52 dienstags
+#facs_294_r2l53 26
+#facs_294_r2l54 Mitwochensch
+#facs_294_r2l55 Lentzburg
+#facs_294_r2l56 27.
+#facs_294_r2l57 9
+#facs_294_r2l58 Konigsfelden
+#facs_294_r2l59 Donstags
+#facs_294_r2l60 31
+#facs_294_r2l61 Saavon
+#facs_294_r2l62 d
+#facs_294_r2l63 -
+#facs_294_r2l64 Montags
+#facs_294_r2l65 3. Aprilis
+#facs_294_r2l66 groß spittahl
+#facs_294_r2l67 doustags d
+#facs_294_r2l68 adresse
+#facs_294_r5l1 Den 583
+#facs_294_r5l2 An die Ambtleuth und 4 Stättl
+#facs_294_r5l3 im Obern und underen Ärgäckl.
+#facs_294_r5l4 Item Burgdorff, Trachselwald und
+#facs_294_r5l5 Sunniswald
+#facs_294_r5l6 Wegen den nachgebrägten S. Gallen
+#facs_294_r5l7 Batzen
+#facs_294_r5l8 Schultheiß und Rath
+#facs_294_r5l9 Auß anschluß werde Er ersehen, was maßen
+#facs_294_r5l10 Löbl. Statt c. Gallen Bedeütet, daß ihr
+#facs_294_r5l11 neüwegeschlagene Batzen, in Minderem
+#facs_294_r5l12 Wehrt nachgepräget und außgestreüet,
+#facs_294_r5l13 allein daran erkent werden, daß die
+#facs_294_r5l14 daran stehende Kr. Tieffer hinun der
+#facs_294_r5l15 als an den ihren gesetzt p. worüber
+#facs_294_r5l16 Ihr gl. Ihnen befehlen wollen, darauff
+#facs_294_r5l17 geflißen achten Zulaßen, entdekenden
+#facs_294_r5l18 fahls die So dergleichen debitierten, zu
+#facs_294_r5l19 examiniren, und fahls sy stark im fählen
+#facs_294_r5l20 selbige einzesetzen, eint und anderen fehls
+#facs_294_r5l21 aber Ihr Gulden der Vergicht zu Examiniren,
+#facs_294_r5l22 Indeßen seine Ambtsangehörige Zuverwahr¬
+#facs_294_r5l23 nen, der gleichen Müntzen nit abzunemen.
+#facs_294_r5l24 Wie Zethl. Sie wüßen werd. Dat. 31. Dec: 1726.

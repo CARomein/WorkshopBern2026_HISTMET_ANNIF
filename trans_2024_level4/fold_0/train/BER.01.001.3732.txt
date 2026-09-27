@@ -1,0 +1,10 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_495
+# Matched: 2/3
+# High similarity (>=80%): 1
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.3732
+#facs_100_r2l15 Bätteljäginen.
+#facs_19_r4l8 e

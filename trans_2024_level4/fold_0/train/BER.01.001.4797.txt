@@ -1,0 +1,83 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 76/76
+# High similarity (>=80%): 73
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_260_r3l22 de 1797.
+#facs_4_r3l2 Verordnung.
+#facs_117_r3l29 ansehend den Pferd Handel und Ausfuhr
+#facs_58_r2l9 Wir Schultheiß und Rath der Stadt
+#facs_117_r3l31 und Republik Bern, thun kund hiermit
+#facs_18_r4l24 da
+#facs_117_r4l1 223
+#facs_117_r4l2 Daß stets mit den Vortheilen des Landes
+#facs_117_r4l3 beschäftiget, Wir Uns über den Zustand des
+#facs_117_r4l4 Pferde und das Bedürfniß des Landes Bericht
+#facs_117_r4l5 haben vorlegen laßen, woraus sich ergiebet
+#facs_117_r4l6 das die Anzahl der im Lande sich befindlichen
+#facs_117_r4l7 Pferde, in Vergleichung der dießjährig mittel
+#facs_117_r4l8 mäßig ausgefallenen Futter Erndte, das dem
+#facs_117_r4l9 Lande vortheilhafte Quantum übersteige und
+#facs_117_r4l10 mithin eine Milderung der unterm 3ten
+#facs_117_r4l11 Merz und 4ten December 1794 ergangenen
+#facs_117_r4l12 Verordnungen der Pferde halb, erlaube
+#facs_117_r4l13 Wir haben daher, der von Unghl. und
+#facs_117_r4l14 Oberen erhaltenen Vollmacht zufolge, nach
+#facs_117_r4l15 eifer Erdaurung der Sache, zu Erleichterung
+#facs_117_r4l16 des Pferdhandels, und bis und solange die Um¬
+#facs_117_r4l17 Stände und das beste des Landes eine andere
+#facs_117_r4l18 Verkehr nothwendig machen werden, erkannt
+#facs_1_r2l2 1.
+#facs_117_r4l20 Daß die Ausfuhr aller Pferde die über acht
+#facs_117_r4l21 Jahr alt sind und nicht mehr zeichnen (mit
+#facs_117_r4l22 Ausnahm der tragenden Stütten :/ so wie
+#facs_117_r4l23 auch die Ausfuhr der diesjährigen Füllen
+#facs_117_r4l24 erlaubt seyn solle, jedoch unter folgender
+#facs_117_r4l25 Einschränkung
+#facs_117_r4l26 a daß dieselben nur auf öffentlichen Jahr
+#facs_82_r3l24 — und
+#facs_118_r2l1 224
+#facs_3_r1l2 A!
+#facs_7_r1l1 6
+#facs_118_r6l1 Auch Viehmärkten des Landes oder an
+#facs_118_r6l2 den Wochenmärkten der Hauptstadt
+#facs_118_r6l3 angebauft werden.
+#facs_118_r6l4 daß der Käufer allezeit von dem
+#facs_118_r6l5 bestellten Markt Inspektor eine
+#facs_118_r6l6 Marschroute abfordere und von der
+#facs_118_r6l7 ihme verzeigten Straße nicht abweiche¬
+#facs_118_r6l8 daß die obgedachten Pferde nirgends
+#facs_118_r6l9 aus dem Land geführt werden, als bey
+#facs_118_r6l10 dem Zoll Bureau zu St Moritzen, Copet,
+#facs_118_r6l11 Nidau, Dürrmühle, Zoffingen Lenzburg
+#facs_118_r6l12 und Brugg; auch sollen sich die Markt¬
+#facs_118_r6l13 Inspektoren angelegen seyn laßen.
+#facs_118_r6l14 unter irgend einem Vorwand es auch
+#facs_118_r6l15 seyn mag, kein anderes Austritts Bureau
+#facs_118_r6l16 in der Marschroute anzuweisen, als die
+#facs_118_r6l17 hier vernamseten.
+#facs_118_r6l18 Bey den Austritts Bureaux sollen die
+#facs_118_r6l19 Pferde angezeigt und dem Zoll Commis¬
+#facs_118_r6l20 zur Untersuchung vorgewiesen, auch
+#facs_118_r6l21 von ihme genau controlleat werden.
+#facs_118_r6l22 Alles bey Strafe der Confiscation
+#facs_118_r6l23 der Pferde oder deren Wenth, und über
+#facs_118_r6l24 dem aus noch bey einer Busse von gleichem
+#facs_118_r6l25 = Wenth
+#facs_56_r3l22 to
+#facs_16_r5l1 25
+#facs_118_r8l2 = Werth, für diejenigen die gegen diese Vor¬
+#facs_118_r8l3 schriften handeln würden.
+#facs_24_r2l1 40
+#facs_118_r8l5 Wir haben ferner zu Erleichterung des Pfers¬
+#facs_118_r8l6 handels, in Aufhebung der Verordnung vom 13ten
+#facs_118_r8l7 Jenner lezthin über den innern Verkehr mit
+#facs_118_r8l8 Pferden erkennt: daß die Rükscheine für Pferde
+#facs_118_r8l9 eben so wie für das Vieh samt ihren Folgen und
+#facs_118_r8l10 Sporteln aufgehoben seyn sollen.
+#facs_118_r8l11 Als welches zu Jedermanns Verhalt öffentlich
+#facs_118_r8l12 bekannt gemacht wird.
+#facs_118_r8l13 Beben den 15ten Oktober 1795
+#facs_98_r5l28 en

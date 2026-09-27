@@ -1,0 +1,241 @@
+Law ID: BER.01.001.2047
+Name: Ihnen die neüwe Kleider-Ordnung überschicken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 230/230
+# High similarity (>=50%): 222
+# Low similarity (<50%): 8
+# Not found: 0
+#
+#facs_72_r1l1 135
+#facs_72_r1l2 Mllg
+#facs_72_r2l1 An die W. Ambtleütht.
+#facs_72_r2l2 Ihnen die Neuwe Kleider ordnung
+#facs_72_r2l3 überschicken.
+#facs_72_r2l4 Wuldtheis vnd Raht der Statt Vern
+#facs_72_r2l5 Wider den schnöden Kleider Pracht vnd dergleichen
+#facs_72_r2l6 Excessen, so zu unserem Wiltschen Landt so Wohl
+#facs_72_r2l7 in den Stechen, als auff dem Landt vberhandt
+#facs_72_r2l8 nemen wollen, haben Wir eine Reformation
+#facs_72_r2l9 vnd mäßigung ausgehen, vnd selbige getruckt
+#facs_72_r2l10 In beikomenden Exemplarien zu demer undt
+#facs_72_r2l11 Deiner Ambtsangehörigen nachrichtend behöriger
+#facs_72_r2l12 observation die Zukommen Zelaßen gutfunden
+#facs_72_r2l13 Zu dem undt damit du selbige nicht allein gehörigen
+#facs_72_r2l14 orten Zu publicieren, sondern auch dieselben
+#facs_72_r2l15 Demein gutfinden nach auszutheilen, vnd in alle
+#facs_72_r2l16 weg die Execution zuuerschaffen, auch Wie
+#facs_72_r2l17 selbige angangen, etwan nach verflinßung
+#facs_72_r2l18 reyer Monaten und Zuberichten Wüßest
+#facs_72_r2l19 Gott mit Dir. Datum 20. Julii 1675
+#facs_72_r3l1 36
+#facs_72_r3l2 Reformation Et Ordonnance houveraine
+#facs_72_r3l3 contre
+#facs_72_r3l4 Les somptuosités et autres Excess aux Habillements.
+#facs_72_r3l5 Vous m'envoyer Et conseil de la ville de Berne, a toute
+#facs_72_r3l6 des Ballifs et Officiers, mediats et Immediats, Ministres, Consistoriaux
+#facs_72_r3l7 tautres nos subiects de nostre pays de vauld amés et feaux, salut.
+#facs_72_r3l8 Ayants remarqué que de temps à autre il se commettoit de grands
+#facs_72_r3l9 Russ, en ce que nos subjects et habitants des terres de nostre
+#facs_72_r3l10 Puisance, sur tout ceux du pays de vaud de l'un et de t'autre sexe,
+#facs_72_r3l11 dans les villes et sur le pays, se sont accoustumés de suiure les
+#facs_72_r3l12 nodes estrangeres dans leurs habits et vestements, le tout
+#facs_72_r3l13 directement contre les ordonnances que nous avons cy devant
+#facs_72_r3l14 Nous avons creu estre de nostre
+#facs_72_r3l15 faictes à ce suiect
+#facs_72_r3l16 ffice, d'y apporter les soings, que nous avons fugé necessaire
+#facs_72_r3l17 pour obuier a tels abus, qui ne sont pas seulement contraires
+#facs_72_r3l18 a la modestie, mais qui peuvent attirer la malediction de
+#facs_72_r3l19 Dieu, outre que nous y avons un tresnotable Interest, de
+#facs_72_r3l20 revenir la raine de nos subjects qui despencent la meilleure
+#facs_72_r3l21 partie de leur bien à des semblables sumptuosites, et dont
+#facs_72_r3l22 argent se transporte hors du pays; Et partant auons
+#facs_72_r3l23 arreste le Leiglement suivant, que nous voulons estre
+#facs_72_r3l24 obserué dans le district de nostre pays de vauli, tant par
+#facs_72_r3l25 Les vassaux, Nobles, Bourgeois et Habitants, que generalement
+#facs_72_r3l26 couto nos subjects dans les villes, bourgs, villages et sur le
+#facs_72_r3l27 pays, sans exception de personne, de quelle qualité et condition
+#facs_73_r2l1 qu'elle soit, Ecclesiastique ou Seculiere; Mandants surce
+#facs_73_r2l2 et comandants d'authorité souueraine, a touts nos Ballifs
+#facs_73_r2l3 leurs Lieutenants, gens tenants nos Cours de consistoire et
+#facs_73_r2l4 autres nos Hauts officiers qu'il appartiendra, d'y avoir
+#facs_73_r2l5 vigneuse inspection et tenir main, quil soit ponctuellement
+#facs_73_r2l6 observé, sans permettre quil y soit contrevenu en aucune
+#facs_73_r2l7 maniere
+#facs_73_r2l8 Et premierement en general
+#facs_73_r2l9 Nous defendons à toutes personnes de quelle qualité
+#facs_73_r2l10 et condition quelles soyent, homes et femmes, de porter
+#facs_73_r2l11 aucunes est offes ou toiles d'or ou d'argent tissu, soubs
+#facs_73_r2l12 peine de cent florins d'amande
+#facs_73_r2l13 2
+#facs_73_r2l14 De mesmes aussy sur aucuns Habillements de quel estoffe
+#facs_73_r2l15 Que ce soit aucuns galons, franges, dentelles, vroderie
+#facs_73_r2l16 dor d'argent, ou de soye, excepté les boutons et garni
+#facs_73_r2l17 tures d'argent d'orfeurerie qui seront permis aux
+#facs_73_r2l18 personnes de qualité soubs peine de 15 florins aux
+#facs_73_r2l19 3
+#facs_73_r2l20 Contre venants
+#facs_73_r2l21 Item touttes quippures, dentelles, passements de
+#facs_73_r2l22 soye ou de filet et autres affaires estrangeres de
+#facs_73_r2l23 leste nature, en sorte que dans le terme de 15
+#facs_73_r2l24 tours on les debura oster des havits qui en seront
+#facs_73_r2l25 jarnis, à peine de payer trois florins pour la
+#facs_73_r2l26 premiere, six florins pour la seconde, et neuf florines
+#facs_73_r2l27 pour la troisiesme fois d'Amande.
+#facs_73_r3l1 138
+#facs_73_r3l2 4
+#facs_73_r3l3 Deffendons aussy de porter aucune toile d'Holande ny autre toile
+#facs_73_r3l4 strangere, si non pour des Collets de femmes, et Rabats ou grauatles
+#facs_73_r3l5 hommes, toutes autres toiles devants Estre fautes au pays, soubs peine
+#facs_73_r3l6 Le cinq florins d'amende
+#facs_73_r3l7 5
+#facs_73_r3l8 Item la superfluite des Rubans et tours d'esquillettes de soye de
+#facs_73_r3l9 melle couleur et façon quils soyent, soubs peine de payer trois
+#facs_73_r3l10 lorins pour la premiere six pour la seconde, et neuf pour la
+#facs_73_r3l11 6
+#facs_73_r3l12 troisieme fois.
+#facs_73_r3l13 Dailleurs ayants aussy considéré que tant par Mandat particulier
+#facs_73_r3l14 re par les loix Consistoriales toutes sortes decées sont deffendus
+#facs_73_r3l15 eux baptesmes des Enfants, il est à ce subiect enioinct a toutes
+#facs_73_r3l16 personnes de se conformer auxdictes loix, soubs peine de cinquante
+#facs_73_r3l17 florins de Bamp, et ce tant au regard des festins, nombres
+#facs_73_r3l18 les parains et Maraines que Estreines, qui ne deburont exceder
+#facs_73_r3l19 un faveur et par qui que ce soit, la valeur d'un ducat, s'ab
+#facs_73_r3l20 tenants en outre de touts presents qui se font reciproquement
+#facs_73_r3l21 en tel faict, soit par tinges ou autrement.
+#facs_73_r3l22 17
+#facs_73_r3l23 Deffendons aussy à toutes personnes de quelle qualité et con-
+#facs_73_r3l24 dition qu'elles soyent, de donner aucun habit, chapeau, crespe
+#facs_73_r3l25 ou autre ornement pour porter le ducil à personne, à
+#facs_73_r3l26 la reserve de ceux de la maison, soubs peine de dix florins
+#facs_73_r3l27 de Vamp.
+#facs_74_r2l1 8
+#facs_74_r2l2 De mesme les donnations soit donnes, qui se font en argent
+#facs_74_r2l3 du autrement au retour de l'ensevelissement d'une personne
+#facs_74_r2l4 souts peine portée es ordonnances Consistoriales folio 51
+#facs_74_r2l5 Entendans que ceux qui voudront faire charité, la deuvoir
+#facs_74_r2l6 distribuer en d'autres temps soit par eux ou par qui ils
+#facs_74_r2l7 -19
+#facs_74_r2l8 trouveront à propos.
+#facs_74_r2l9 Et ne sortira pour l'advenir personne des Saincte
+#facs_74_r2l10 predications avant que d'aubir receu la venediction
+#facs_74_r2l11 le pasteur, à peine d'estre cité en Consistoire et
+#facs_74_r2l12 Chastie selon exigence du faict.
+#facs_74_r2l13 Quand on va au temple pour participer au sainet,
+#facs_74_r2l14 Sacrement de la Cene, ou es jours de Jousnes ons
+#facs_74_r2l15 debura aller sans aucun fast, et avec des habits simple
+#facs_74_r2l16 et noirs, ceux qui en auront, afin que demonstrez
+#facs_74_r2l17 aussy par les nabits, la contrition de coeur, que l'on
+#facs_74_r2l18 doit avoir en de telles assemblées soubs la peine
+#facs_74_r2l19 que le consistoire trouvera bon leur imposer
+#facs_74_r2l20 Au regard des Homes
+#facs_74_r2l21 I.
+#facs_74_r2l22 Nous deffendons aux hommes de porter les perruques
+#facs_74_r2l23 sans vrgente necessité, ny plus longues que les autres.
+#facs_74_r2l24 hevelures, scavoir jusques sur le Rabat, soubs peine
+#facs_74_r2l25 de trois florins pour la premiere six pour la seconde
+#facs_74_r2l26 Aneus pour la troisiesme fois
+#facs_74_r3l1 40
+#facs_74_r3l2 2
+#facs_74_r3l3 La bourgeoisie dans les villes doit aller aux preches et priere
+#facs_74_r3l4 ecemanteau; Et ceux qui y entreront avec des bastons, Canne¬
+#facs_74_r3l5 m'autrement sans manteau, debvront estre convenus en Con
+#facs_74_r3l6 sistoire et payer dix florins de bamp
+#facs_74_r3l7 Au regard des Fenies et filles.
+#facs_74_r3l8 eu l'Excess et abus, qu'il y a aux Cappes, nous entendons de
+#facs_74_r3l9 les moderer et reformer entierement, en sorte qu'aladuenir
+#facs_74_r3l10 les plus cheres ne deburont estre que de dix Escus petits et
+#facs_74_r3l11 quor ne sera il permis à toutes sortes de personnes de les
+#facs_74_r3l12 porter a ce prix, Ains seulement aux femmes de qualité et de
+#facs_74_r3l13 Loblesse les plus considerables, et les autres en deburont porter
+#facs_74_r3l14 emoindres; Et affin que celles qui feront les Cappes sçachent
+#facs_74_r3l15 la dessus de conduire, Elles debaront estre convenuës en Con-
+#facs_74_r3l16 distoire et prester serment de n'en faire à l'advenir de plus
+#facs_74_r3l17 cheres, à peine de payer cinq florins de bamp pour la premiere
+#facs_74_r3l18 dix pour la seconde et quinze pour la troisiesme fois, outre
+#facs_74_r3l19 a Confiscation de la marchandise tant au regard de celles
+#facs_74_r3l20 miles porteront que de celles qui les vendront plus
+#facs_74_r3l21 heres que cela, Et celles qui en acheteront et apporteront
+#facs_74_r3l22 de dehors payeront double bamp, tant pour elles que pour
+#facs_74_r3l23 celles quiles auront faictes. [2]
+#facs_74_r3l24 Deffendons aussy touts sollets de points de paris ou de
+#facs_74_r3l25 landre et autres façons Estrangeres, soubs peine de trois
+#facs_74_r3l26 lorins, pour la premiere, six pour la seconde, et neuf pour
+#facs_74_r3l27 a troisiesme fois
+#facs_75_r2l1 3.
+#facs_75_r2l2 Item les Manches des habits debvront estre dores en quant
+#facs_75_r2l3 de telle sorte, qu'elles ne soyent plus courtes que les coudes
+#facs_75_r2l4 soubs peine de dix florins d'Amande
+#facs_75_r2l5 4
+#facs_75_r2l6 Amme aussy les Robes, qui trainent sur terre deburont
+#facs_75_r2l7 estre couppées en telle sorte, qu'elles ne touchent pas
+#facs_75_r2l8 terre, soubs peine de dix florins d'Amande
+#facs_75_r2l9 5f
+#facs_75_r2l10 Par cestes il est aussy expressement enioinct à
+#facs_75_r2l11 toutes femmes et filles de quelle qualité ou condition
+#facs_75_r2l12 qu'elles soyent de ne porter à la fois qu'une Lobe
+#facs_75_r2l13 et une Juppe soubs peine de cinq florins pour la
+#facs_75_r2l14 première, dix pour la seconde, et quinze pour la troisième
+#facs_75_r2l15 6.
+#facs_75_r2l16 fois
+#facs_75_r2l17 Leur deffendans aussy de porter des souliers garnis
+#facs_75_r2l18 de dentelles, galons ou autre ornements si non pour
+#facs_75_r2l19 les attachés, soubs peine de trois, "six pour la seconde
+#facs_75_r2l20 et neuf pour la troisieme fois. # florins pour la preni
+#facs_75_r2l21 7.
+#facs_75_r2l22 Les femmes Nobles et Bourgeoises dans les villes
+#facs_75_r2l23 deburont aller les Dimanches et Jours de feste aux
+#facs_75_r2l24 reches avec un honnorable Habit noir et tout
+#facs_75_r2l25 imple sans garniture, soubs la mesme peine que dans
+#facs_75_r2l26 article immediatement precedant
+#facs_75_r3l1 4e
+#facs_75_r3l2 s
+#facs_75_r3l3 Les femmes des Ministres et autres Ecclesiastiques doibuent
+#facs_75_r3l4 elles habilleés, ainsy que la bien sceance et leur qualité lec-
+#facs_75_r3l5 equiert, et se passer des havits de velour de taffetas, soye et
+#facs_75_r3l6 satin, et de tout ce qui leur sera indecent, que si elles passent
+#facs_75_r3l7 ans l'excess on le debura remonstrer en Consistoire ou
+#facs_75_r3l8 hastier autrement selon l'Exigence du faict.
+#facs_75_r3l9 9
+#facs_75_r3l10 Toutes femmes et filles sans exception aucune se deburont
+#facs_75_r3l11 resvoiler ou decouvrir le visage en entrant dans le
+#facs_75_r3l12 temple et principalement en s'approchant de la Table du
+#facs_75_r3l13 Seigneur es Jours de saincte (ene soubs peine d'estre
+#facs_75_r3l14 Le primendées par le Consistoire
+#facs_75_r3l15 Concernant les Jeunes Enfants.
+#facs_75_r3l16 Les petits Enfants soit fils ou filles devuront estre habillee,
+#facs_75_r3l17 par leurs peces et meres, comme il est ordonné cy dessus
+#facs_75_r3l18 sans qu'il y paroisse aucune superfluite en rubans dans
+#facs_75_r3l19 leur chappeaux, cappes et Habits, ny aussy aucunes den-
+#facs_75_r3l20 telles, galons dor ou dargent, ou autres dentelles de soye
+#facs_75_r3l21 afin que par ce moyen ils soyent esleues des leur bas
+#facs_75_r3l22 âge a la modestie et bien seance.
+#facs_75_r3l23 pour les servantes
+#facs_75_r3l24 Afin que les servantes soyent cognües d'avec les filles
+#facs_75_r3l25 de condition et Bourgeoises, nous ordonnons qu'elles ne
+#facs_76_r2l1 deburont estre habillees d'autre Estoffe, que de celuy qui se
+#facs_76_r2l2 fabrique dans le pays et qui ne soit plus cher que le Cadit
+#facs_76_r2l3 tne porteront elles a laduenir que des beginnés sans dantet
+#facs_76_r2l4 et qui ne soyent de taffetas, leur deffendants en outtre toute
+#facs_76_r2l5 Rantelles, glands et autres tels ornements quine leur con-
+#facs_76_r2l6 viennent pas, soubs peines d'emprisonnement ou autre
+#facs_76_r2l7 Chastiment que le Consistoire trouvera von leur im-
+#facs_76_r2l8 loser
+#facs_76_r2l9 Bien entendu que par ceste cy nostre ordonnance et Refor-
+#facs_76_r2l10 mation seront aussy defendus, tout ainsy que sils estoyent
+#facs_76_r2l11 cy specifiquement exprimés, touts autres excess et abus,
+#facs_76_r2l12 come aussy les nouvelles modes scandaleuses et contraires
+#facs_76_r2l13 a la modestie qui seront somptueuses et non necessaires
+#facs_76_r2l14 ou invtiles, tant celles d'apresent, que celles qui de temps
+#facs_76_r2l15 en temps se pourroyent glisser dans le pays à l'aduenir
+#facs_76_r2l16 Voulants et Entendants tres serieusement que chascun
+#facs_76_r2l17 ayt à se conformer a aeste nostre ordonnance, soubs
+#facs_76_r2l18 les peines portées et autres chastiments plus griess
+#facs_76_r2l19 que nous nous reseruons en cas de besoin: Et seront
+#facs_76_r2l20 les Amandes qui escherront partagées en quattre
+#facs_76_r2l21 portions, dont l'une deura appartenir a nous,
+#facs_76_r2l22 autre à nos Ballis, la troisiesme au Consistoire
+#facs_76_r2l23 du lieu et la derniere au Realateur. Fait et passé
+#facs_76_r2l24 en nostre Conseil a 20 de Juillet 1675

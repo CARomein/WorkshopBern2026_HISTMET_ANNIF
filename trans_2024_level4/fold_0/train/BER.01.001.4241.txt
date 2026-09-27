@@ -1,0 +1,33 @@
+Law ID: BER.01.001.4241
+Name: Wegen Verwachung der Fuhrwägen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 21/22
+# High similarity (>=80%): 4
+# Low similarity (<80%): 17
+# Not found: 1
+#
+#facs_34_r1l1 62.
+#facs_5_r2l1 An
+#facs_226_r5l3 die H. Amtleüth zu Wangen, Arlangen, Sipp, Brandiß,
+#facs_178_r3l4 dis, Wangen, Aarbangen, Uarburg, Lenzburg
+#facs_180_r3l7 Laupen, Wiblidburg, Pesterlingen praest. et cons.
+#facs_17_r3l8 und
+#facs_251_r5l21 wegen Verzehndung der herd Apflen ausgegangenen
+#facs_56_r3l9 Schultheiß und Rath,
+#facs_103_r4l11 suchen, die näheren berichten einziehen, und sich
+#facs_3_r1l1 Coll
+# NOT FOUND: auf der route von Basel bis näher Morsan, Ihre Fuhr¬
+#facs_185_r3l13 Venner, Cammer Persöhnlich zu erscheinen, sonderen auch
+#facs_83_r2l9 Heümonats aber, wollen Wir, zum behuf
+#facs_253_r4l22 Andreas Wandel, ein Eingesessener Bürger zu Tübing
+#facs_71_r4l17 gemacht. Wir bollen nun Euch befohlen haben
+#facs_140_r2l6 leiden schuldig seyn sollen.
+#facs_246_r2l4 Ihnen anbefehlen denen zu haltenden Capitlen
+#facs_133_r3l16 solche Dirne, aller dieser Vorstellungen ungeacht, vor den
+#facs_34_r1l2 Niemanden erlaubt seyn solle, fremde fayence
+#facs_70_r4l9 des Nachts beschloßen seyen, denen Feeren und
+#facs_68_r4l17 gemeinen und Dorfschaften einschärpfen, auf
+#facs_181_r3l5 Dat. d. 6 Aug. 1764.

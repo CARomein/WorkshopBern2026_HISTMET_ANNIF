@@ -1,0 +1,97 @@
+Law ID: BER.01.001.2276
+Name: Ihnen wider den Vichpresten die einkommene Recept zuschicken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 86/86
+# High similarity (>=50%): 84
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_338_r5l28 Ad Eosdem
+#facs_338_r5l29 Ihnen das Trukte Recept Wider den Viechpresten
+#facs_338_r5l30 zu schiken undt darbey andeüten
+#facs_338_r5l31 Schuldthris undt Raht etc.
+#facs_338_r5l32 Auff Erhaltenen Bericht, daß von der Landtschafft Gex näher der
+#facs_338_r5l33 Sich presenten hinder dem Ambt Newis Eingerißen seye, viel Viech
+#facs_338_r7l1 hier
+#facs_338_r7l2 eyn
+#facs_338_r7l3 10
+#facs_339_r2l1 bereits gefellet habe, undt besorglich mehrers umb sich greiffe
+#facs_339_r2l2 werde, fahls durch gute Anstalt undt anwendende mittel
+#facs_339_r2l3 Solches nicht verhütet werden könte, habend darüber, wie
+#facs_339_r2l4 nohtwoendig befunden, durch diß unser Außschreiben vnser
+#facs_339_r2l5 Ambtleuth Im W. Landt zu verwahren undt zuermahnen, daß
+#facs_339_r2l6 Jeder Hinder seiner Verwaltung, da das Vbel seye Würkliche
+#facs_339_r2l7 Eingerisen Oder nit sich angelegen sein laße vndt sieg trage.
+#facs_339_r2l8 das weitere ansteke, müglichst zu verhüten, zu dem Endt das
+#facs_339_r2l9 angestekte und er das gesunde nicht zu laßen, sondern von
+#facs_339_r2l10 dem anderen zu sonderen, undt zu verwordnen, daß selbiges
+#facs_339_r2l11 auff die Wiariten nicht gelaßen, vndt was darvon abgehet
+#facs_339_r2l12 udt hinfallen thut, dieff gnug ins Erdrich verlochet worden.
+#facs_339_r2l13 Undt wie bykommendes Recept ein Belertes mittel sein sollen.
+#facs_339_r2l14 das angestekte Viech darmit zu heilen, dafern es beyzeiten -
+#facs_339_r2l15 braucht Wirt, also haben wir dasselbe in Truk ausgehen
+#facs_339_r2l16 undt darvon dir Wie anderen unseren Ambtleüthen un¬
+#facs_339_r2l17 Woltschen Land auch beschicht, beykommende Doppel zuüber¬
+#facs_339_r2l18 nachen guth befunden, umb selbige denen, die es bedörffte
+#facs_339_r2l19 werden zu distribuiren; Maßen deines Theils zu thu¬
+#facs_339_r2l20 undt ob das Vbel hinder die gespüret, auch waß
+#facs_339_r2l21 die anwendenden mittel undt Anstalten Würken werden;
+#facs_339_r2l22 us zu berichten Wüßen Würst. Gott mit Dir
+#facs_339_r2l23 Datq 12 May 1682.
+#facs_339_r2l24 Recepte pour cognoistre le mal et la
+#facs_339_r2l25 ontagion qui reine presentement en
+#facs_339_r2l26 quelques lieux du pays de Vaud tant
+#facs_339_r2l27 parmis les Chevaux, que les bestes a cornes
+#facs_339_r2l28 A le moyen tant de les guerir, que de les preserve
+#facs_339_r2l29 sud. mai
+#facs_339_r2l30 Gremierement le mal se prend dessus et dessous li
+#facs_339_r2l31 langue proche du gosier, ou il se faict une fente qui
+#facs_339_r2l32 coupe la langue de travers, si lon n'y remedie promptement
+#facs_339_r3l1 la lange tombe dans 24 heures et la beste tombe 622.
+#facs_339_r3l2 morte en meme temps
+#facs_339_r3l3 eux, qui sont attaquez de ce mal il faut visiter le bestail,
+#facs_339_r3l4 ou chevaux deux fois le Jour au dessus et au desous de la
+#facs_339_r3l5 langue, et froter la playe avec une culier d'Argent jusques
+#facs_339_r3l6 ce quelle seigne bien fort, et laver la playe avec de ledit
+#facs_339_r3l7 fraiche et tramper une petite piece d'Escarlate avec
+#facs_339_r3l8 du sell et la froter avec ladte. piece d'Escarlate, ou autre
+#facs_339_r3l9 grap rouge et apres lavoir lavé la Jeter au feu, puis il faut
+#facs_339_r3l10 piller de Laill, de la sauge et de lartichaud pastard, et
+#facs_339_r3l11 peler le tout avec sel et vinaigre et en laver la bouche du
+#facs_339_r3l12 bestaill, et leur donner a manger du sel et aussy continuer
+#facs_339_r3l13 jusques a guerison
+#facs_339_r3l14 Pour preserver le bestaill soit chevaux de cette
+#facs_339_r3l15 maladie il luy faut donner a manger de l'ustriche, du guerre
+#facs_339_r3l16 u sell et vinaigre avec de l'alun et souffre bien pille a moderation.
+#facs_339_r3l17 An Alle Teütsche Amtleuth
+#facs_339_r3l18 Vier Stett Freyweibel vndt Amman ihnen Wider
+#facs_339_r3l19 den Vieh presten die einkommene Recept zu schiken,
+#facs_339_r3l20 Htatt halter undt Raht etc.
+#facs_339_r3l21 vie haben den Leidigen Bricht vernommen erhalten, daß der Viehpresten
+#facs_339_r3l22 den Vnderschildlichen dhrten Unser Teütsch undt Weltschen Landen ein gerißt
+#facs_339_r3l23 Darvon aber, wan man dem Vbel bey Zeiten remedirt keines
+#facs_339_r3l24 Dahin fällen Thür: undt Weilen Uns mit kommende Recept und
+#facs_339_r3l25 praeservatio als vor gewus undt bewahrt überschikt worden,
+#facs_339_r3l26 haben wir die /: Wie gegen Anderen Vnserer Amblleüthen Ang
+#facs_339_r3l27 beschicht) beyligende Doppel mit dem befelch Vbersenden wollen
+#facs_339_r3l28 umb darvon denen, die es bedörfften part zugeben, darbey aber
+#facs_339_r5l1 a
+#facs_340_r2l1 auch Ein Noht dürfft erachtet, die, wie hirmit beschicht¬
+#facs_340_r2l2 Lübefelchen, daß du die auffs Verwist angelegen sein
+#facs_340_r2l3 Laßest, Es seye, das der Presten Hinder dir nit einiger
+#facs_340_r2l4 solchen müglichst abzuwenden, oder da er albereit¬
+#facs_340_r2l5 sich verspüren ließe, daß verüere Ansteke, zu verhüten
+#facs_340_r2l6 zu dem Endt gute Verordnung zethun, daß das gesunde
+#facs_340_r2l7 mit uder das angestekte Viech gelaßen, sonder von
+#facs_340_r2l8 demselben auffs sorgfeltigest gesündert, vndt daß das
+#facs_340_r2l9 Inficirte nit auff die märiten gelaßen werde; Wie
+#facs_340_r2l10 auch die Leuth, so mit dem Kranknen vmbgangen zu dem
+#facs_340_r2l11 gesunden Vieh undt den Leüten, so deßen Warten, mit kommen
+#facs_340_r2l12 undt das vom presten abgangene an aborhten dieff
+#facs_340_r2l13 verlachet undt verscharret werde; Summa alle die
+#facs_340_r2l14 nohtloendige praecautionen zugebrauchen, die in den
+#facs_340_r2l15 gleichen fählen gepflegt werden. Gestalten zu deinem
+#facs_340_r2l16 fleiß wir uns versehen haben wollend. Datum 18 May 1882.

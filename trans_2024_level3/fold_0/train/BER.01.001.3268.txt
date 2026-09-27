@@ -1,0 +1,213 @@
+Law ID: BER.01.001.3268
+Name: Verbott der frömden Schweinen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 202/202
+# High similarity (>=50%): 197
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_188_r1l1 348
+#facs_188_r1l2 Collath.
+#facs_188_r1l3 Collath.
+#facs_188_r3l1 An alle Teütsche und W. Ankleuth
+#facs_188_r3l2 4 Städt Frey Weibel und Amau.
+#facs_188_r3l3 Verboit der fremden Schweinen.
+#facs_188_r3l4 Schultheiß Räth und Bürger. etc.
+#facs_188_r3l5 Einliegendes Mandat wieder die Frömbde
+#facs_188_r3l6 Schwein wirt dir gleich anderen Ambtleuthe,
+#facs_188_r3l7 hiemit getrubt zu geschikt, umb demselbe
+#facs_188_r3l8 nach dich zu verhalten, und die Execution
+#facs_188_r3l9 zu geben wüßen. Soct mit Dir. Rath
+#facs_188_r3l10 28 Decembris 1718
+#facs_188_r3l11 Oberkeitliches Mandat der fränden
+#facs_188_r3l12 Schweinen halb.
+#facs_188_r3l13 Die Schultheiß Räth und Bürger der Stadt
+#facs_188_r3l14 Bern thund kund hiemit; demnach Uns hinzu
+#facs_188_r3l15 allen Zeiten nicht mehrers als das Heyl und
+#facs_188_r3l16 geständige wohlfahrt vnserer Landen obgelegen
+#facs_188_r3l17 seyn solle, so lieget Unß bey diesen Gelt,
+#facs_188_r3l18 blammen Zeiten sonderlich ob, Uns dahin hube
+#facs_188_r3l19 arbeiten, daß das annoch in hiesigen Lande
+#facs_188_r3l20 verbliebene klare Gelt und Dilbar Sortei
+#facs_188_r3l21 in Vnseren eigenen Landen selbsten behalten,
+#facs_188_r4l1 349.
+#facs_188_r4l2 und Nicht veräußert werde; und weilen Unß
+#facs_188_r4l3 nebe anderen darüberhin auch die Vorstellung be¬
+#facs_188_r4l4 schehn, welch große und nahmhaffte Summen Geldts¬
+#facs_188_r4l5 Jährlich durch Landtsfrönde und äußert der Eydt¬
+#facs_188_r4l6 Genoßschafft erzogenen feiße und Magere Schwein
+#facs_188_r4l7 zum grösten Nachtheil Vnserer Landen weggezogen
+#facs_188_r4l8 verdindt, so daß annoch die Baupsamme und andere
+#facs_188_r4l9 Einwohner deß Landts sich auffrömde Schwein der¬
+#facs_188_r4l10 laßen und die Zucht und Mastung derselben meisten
+#facs_188_r4l11 theils hindan und nicht mehr wie vor diesem Be¬
+#facs_188_r4l12 schechen in Vnsern Landen fortsetzen etc. Als habind wir
+#facs_188_r4l13 zu verhürtung der diß Ohrts veraüßerenden nahm¬
+#facs_188_r4l14 hafften Summen Belts zum besten und Nutzen vnserer
+#facs_188_r4l15 angehörigen die Einbringung und Erkauffung solchen
+#facs_188_r4l16 fründer äußert der Eydtgenoßschafft gefallenes und
+#facs_188_r4l17 herkommenden feißen und magern Schweinen, darundt
+#facs_188_r4l18 auch alles solch frömder Spek und Schweinsfleisch
+#facs_188_r4l19 terstanden, und mit begriffen seyn soll, gäntzlichen
+#facs_188_r4l20 und zwar bey tölliger Confiscation, dank an ein
+#facs_188_r4l21 drickel Unß der Hochen Landt Oberkeit, der andere
+#facs_188_r4l22 dem Ambtsman des Ohrts, und der Dricke dem
+#facs_188_r4l23 Verleider heimdienen soll, verboetten und für künftig
+#facs_188_r4l24 Zeiten, und so lang als wir solches Arbeit nicht
+#facs_188_r4l25 wiederuffen werden, undersagt haben vollends.
+#facs_189_r4l1 Demnach Inder nachfolgender Erläuterung
+#facs_189_r4l2 Was obspecificierte frömde feise Schwein betr.
+#facs_189_r4l3 so soll dieses terboit in ansehen der feißen
+#facs_189_r4l4 eine Strafft und Anfang gewinnen, auf vor¬
+#facs_189_r4l5 stehende Rechtmäß, so daß nach gemelder
+#facs_189_r4l6 Publication keine dergleichen Freunde frise
+#facs_189_r4l7 Schwein nicht mehr inn Unsere fand hinein
+#facs_189_r4l8 gelaßen, sondern zuruk gewiesen, wie der,
+#facs_189_r4l9 handtlenden fahls aber der Confiscation, die
+#facs_189_r4l10 obgemeldt, underworffen seyn sollendt
+#facs_189_r4l11 Der Magern frönden schweinen halb dann soll
+#facs_189_r4l12 dieses verbatt erst angehen auf nächstkünfftig
+#facs_189_r4l13 Johannj. Damit man allen fahls jemand zur
+#facs_189_r4l14 Zucht oder Mastung für münfftige Jahr dero
+#facs_189_r4l15 nöthig hadte, sie inert solcher Zeit den Be¬
+#facs_189_r4l16 nöthigten Antauff thun kommndt.
+#facs_189_r4l17 Bleich wie dan der freye Bauff mit den
+#facs_189_r4l18 benachbahrten Eydtgenößischen Ohrten, so weit
+#facs_189_r4l19 es dero eigene Bär ansichet dis Ohrts halb
+#facs_189_r4l20 ungehemmet bleibt, so hat es dennoch diese,
+#facs_189_r4l21 verstand, daß den angehörigen der benachbahrten
+#facs_189_r4l22 Eydtgenößischen Ohrten gleichen zahlt under¬
+#facs_189_r6l1 oben außgesetzter Confiscations Straaff verboitzen
+#facs_189_r6l2 seyn solle, solch Landes frände und außer Schweine
+#facs_189_r6l3 under dem Titel Eydtgenißischen Guts, auf was bey¬
+#facs_189_r6l4 es immer seyn wolle, zum Verkauff in Vnsere
+#facs_189_r6l5 Bommäßigkeit zu führen; Bleich dan auch den
+#facs_189_r6l6 unserigen undes gleicher straaff terbocken seyn
+#facs_189_r6l7 coll, an benachbahrten Eydt genösischen Ohrte
+#facs_189_r6l8 solche etwan dorthin erhandtlete Landesfrönde
+#facs_189_r6l9 und äußert der Eydtgenosschafft gefallene Schwein
+#facs_189_r6l10 anzukauffen.
+#facs_189_r6l11 Dan so weiflend wir keines Begs, dan daß von
+#facs_189_r6l12 gesambten Unseren Lieben angehörigen, die diß Ohrts
+#facs_189_r6l13 vorbehr ende Landtsvätterliche Vorsehung nicht mit
+#facs_189_r6l14 gebührender Dankbahrkeit erkennt, und von denselben
+#facs_189_r6l15 durgehendes werde begriffen werden, daß obiges
+#facs_189_r6l16 ferbodt lediglich zu allgemeinem Landts Nutze
+#facs_189_r6l17 angesehen seye, hiemit sie selbsten auch fürs
+#facs_189_r6l18 kunfftige wegen natürlich vorstehender mehrerer und
+#facs_189_r6l19 guter Lösung, die Schweinhucht und Mastung
+#facs_189_r6l20 derselbigen mehrers als bis hiehin beschechen, fortsehen
+#facs_189_r6l21 und also auch denjenigen Nahmhafften Profit, so
+#facs_189_r6l22 bißhiehin an die frönden gefallen, an sich zu
+#facs_189_r6l23 ziechen und bey sich selbsten zu behalten trachten werdindt.
+#facs_190_r3l1 Allermaßen hiemit, damit das gantze Land
+#facs_190_r3l2 mit hielandischen Schweinen versehen werden möge,
+#facs_190_r3l3 Wir mehr gedachte Vnsere Liebe und Getreul¬
+#facs_190_r3l4 Angehörigen zur Zucht und eigenen Mastung
+#facs_190_r3l5 derselben angemahnt haben sollende.
+#facs_190_r3l6 Allen Vnsery Oberg und Vnder Ambtleut,
+#facs_190_r3l7 demnach befelchende nicht nur Hand obzu¬
+#facs_190_r3l8 halten und zu invigilieren, daß solch vnser be¬
+#facs_190_r3l9 hinsehen und verbatt in unablößliche Execu
+#facs_190_r3l10 gesetzet, sondern annoch daß dieses gegen
+#facs_190_r3l11 wehrtige Mandat offentlich von Cantzlen ver¬
+#facs_190_r3l12 lesen und auch zu jeder manniglichens Nachricht
+#facs_190_r3l13 an Gewohnten Ohrten und sonderlich zu den
+#facs_190_r3l14 Frönden Wissenschafft an den Grentzen an¬
+#facs_190_r3l15 schlagen werde. Dat. 28 Dec. 1718
+#facs_190_r3l16 Bn
+#facs_190_r3l17 oùs L'Advoyer Petit et Grand
+#facs_190_r3l18 Consell de la Ville et Republique De Berne, scavoir
+#facs_190_r3l19 faisons par les présentes, que reflechissant dïvement
+#facs_190_r3l20 et serieusement sur tout ce qui peu contribuer au bien
+#facs_190_r3l21 et à la prosperité de Nos Paijs et sujets, dans les tems
+#facs_190_r3l22 facheux et denués d'Argent, dans lesquels Nous some
+#facs_190_r3l23 combé, Nous avons trouvé bon et necessaire, pour
+#facs_190_r3l24 les garantir d'un epuisement entier, de faire en sorte
+#facs_190_r3l25 par de Salutaires Reglements, que ce qui reste
+#facs_190_r4l1 8
+#facs_190_r7l1 35.
+#facs_190_r7l2 d'Argent et xxx entre autres articles, qu'au grand prejet
+#facs_190_r7l3 dice de Nos Sujets, il sortoit anuellement du Paÿs des
+#facs_190_r7l4 mes tres considerables par l'Entree des Cochons étvangers
+#facs_190_r7l5 engraisses et maigres, élevés hors du territoire de Suisse
+#facs_190_r7l6 de maniere que Nos Paysans, contants sur l'Entrée
+#facs_190_r7l7 des dits Cochons etrangers, cesse d'en faire race dans le
+#facs_190_r7l8 Sur
+#facs_190_r7l9 Pays et negligent absolument d'en engraisser.
+#facs_190_r7l10 ces Representations et dans la veüe de procurer
+#facs_190_r7l11 de tout notre pouvoir le bien et l’avantage de Nos Sujets,
+#facs_190_r7l12 en empechant la sortie d'une quantité si considerable
+#facs_190_r7l13 d'argent, Nous avons trouvé à propos de defendre
+#facs_190_r7l14 absolument par les présentes toute Entrée et achat des
+#facs_190_r7l15 dits Cochons peine irremissible d'une entiere confis-
+#facs_190_r7l16 cation, m'apartager en trois portions egales, dont la
+#facs_190_r7l17 premiere parviendra a notre fisq, la seconde au
+#facs_190_r7l18 profit de Notre Ballif du Lieu, et la troisieme au
+#facs_190_r7l19 Delateur. Ordonnans que tout ce que dessus soit
+#facs_190_r7l20 befrevouer
+#facs_190_r7l21 rigoureusement executé, pour aussi long tems que
+#facs_190_r7l22 nous ne trouverons pas à propos la presente de fense
+#facs_190_r7l23 faite avec les eclaircissements suivans
+#facs_190_r7l24 N° pour ce qui regarde les Cochons gras, Nous
+#facs_190_r7l25 voulons que la presente deffense soit executée de
+#facs_190_r7l26 la Chandaleuse prochaine, de maniere qu'apres le
+#facs_190_r7l27 dit ferme, on ne les laisse absolument plus entrez
+#facs_190_r7l28 dans les Parÿs, mais qu'arrivant aux frontieres, on
+#facs_190_r7l29 les renvoue incessament en arriere, et qu'en cas
+#facs_190_r7l30 d'ulterreure Contravention, on procede a la Controquation
+#facs_190_r7l31 sans aucun Egard, comme sus est dit
+#facs_190_r7l32 et bonnes Especes dans le Pays, n'en sorte plus par Cantrée et
+#facs_190_r7l33 Aenat de plusieurs choses superflues et Etrangeres; A
+#facs_190_r7l34 cest ocasion, nous ayant esté representé. A
+#facs_191_r2l1 2°
+#facs_191_r2l2 3
+#facs_191_r4l1 Legard des Cochons maigres, comme quelques une
+#facs_191_r4l2 de nos Sujets en pourroient avoir besoin, afin des
+#facs_191_r4l3 faire vace dans le Pays, et de les mettre à lengral
+#facs_191_r4l4 pour les Années suivantes, Nous avons trouvé
+#facs_191_r4l5 bon den permettre l'Entrée pour cet usage jusques
+#facs_191_r4l6 à la St Jean prochaine, aprés la quelle la présent
+#facs_191_r4l7 Defense aura lieu comme cy-dessus
+#facs_191_r4l8 En troisieme Lieu, quoy que ce ne soit nullement
+#facs_191_r4l9 Notre intention d'interrompre ny meme de gene
+#facs_191_r4l10 le Commerce avec les autres Cantons et autres
+#facs_191_r4l11 Lieva de Suisse, en tant quil regarde leurs
+#facs_191_r4l12 propres Marchandises; Nous entendons cepen-
+#facs_191_r4l13 dant, que ceux de leurs sujets qui contre
+#facs_191_r4l14 viendront à Notre presente defense, avec
+#facs_191_r4l15 et qui sous le nom de
+#facs_191_r4l16 leurs propres effets, entreprendront demeener dans
+#facs_191_r4l17 Nos Pays, et dy mettre en vente tels Cochons
+#facs_191_r4l18 atrangers des à present defendus, soyent
+#facs_191_r4l19 assujettis à la meme peine de Confiscation
+#facs_191_r4l20 que ceux des Nôtres, qui sémen ciperont d'en
+#facs_191_r4l21 acheter d'Eux sous ce Pretexte, la dite Con¬
+#facs_191_r4l22 fiscation devant être irremisible à legari
+#facs_191_r4l23 des uns et des autres.
+#facs_191_r4l24 omme Nous ne doutons en aucune maniere, qui
+#facs_191_r4l25 Nos bien aymes sujets comprenant facilement.
+#facs_191_r4l26 que Notre presente deffense n'a dautre
+#facs_191_r4l27 veüe, que leur utilité, ne Nous schachent bon
+#facs_191_r4l28 gré du soin paternel, que Nous prenons de la
+#facs_191_r4l29 procurer et qu'en courage par l'assurance d'un
+#facs_191_r6l1 355
+#facs_191_r6l2 debit plus considerable que cy devant, ils ne s'appliques
+#facs_191_r6l3 soigneusement à elever et engraisser eux mêmes
+#facs_191_r6l4 des Cochons afin de sattirer le profit considerable
+#facs_191_r6l5 que les etrangers ont fait jusques a present dans le
+#facs_191_r6l6 Pays, par cette Espece de Comerée
+#facs_191_r6l7 Commendons sur ce a tous Nos hauts et bas Officiers de
+#facs_191_r6l8 veiller avec soin à l'observation de notre presente
+#facs_191_r6l9 de fonse et de la mettre en execution avec la derniere
+#facs_191_r6l10 vigeur dans tout son contenu, et que pour linstruc¬
+#facs_191_r6l11 tion d'un chaque et pour enlever tout pretexte
+#facs_191_r6l12 Rignorance, il en soit fait lecture publique en
+#facs_191_r6l13 naire, et quelle soit affichée dans les lieux
+#facs_191_r6l14 accoutumés, et principalement le long des
+#facs_191_r6l15 frontieres pour avertissement aux etvangers
+#facs_191_r6l16 qui pourroient faire tels Commerce. Données
+#facs_191_r6l17 le 28 Décembre 1718

@@ -1,0 +1,40 @@
+Law ID: BER.01.001.4707
+Name: Für den Nagelhandel sollen keine Hausierpatenten mehr ertheilt werden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 29/29
+# High similarity (>=50%): 29
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_102_r3l16 Für den Nagelhandel sollen keine Hausier¬
+#facs_102_r3l17 patenten mehr ertheilt werden.
+#facs_102_r3l18 au
+#facs_102_r3l19 die Herren Amtleute zu Trachselwald,
+#facs_102_r3l20 Sumiswald, Brandis, Burgdorf,
+#facs_102_r3l21 Schultheis und Rath etc
+#facs_102_r3l22 Aus dem
+#facs_102_r3l23 Uns von Unserem Verordneten Commerzien¬
+#facs_102_r3l24 nath
+#facs_102_r4l1 197.
+#facs_102_r4l2 Rath über die Vorstellungen der Nagelschmide
+#facs_102_r4l3 im Emmenthal und Landgericht Conolfingen
+#facs_102_r4l4 erstatteten Vortrag haben Wir vernommen.
+#facs_102_r4l5 wie daß dieselben sich über Mangel an genug¬
+#facs_102_r4l6 samer Arbeit beschweren, und diesen Zerfall
+#facs_102_r4l7 hauptsächlich dem Verkauf fremden Waaren
+#facs_102_r4l8 auf den Messen, sowohl durch einheimische
+#facs_102_r4l9 Krämer als auch aüßere Hausierer, zuschreiben
+#facs_102_r4l10 In Betrachtung nun dieser Gründe haben
+#facs_102_r4l11 Wir erkennt: daß in Zukunft keine Hausierer
+#facs_102_r4l12 Patenten für den Nagelhandel sollen ertheilt
+#facs_102_r4l13 werden; was aber den Verkauf der Nägel
+#facs_102_r4l14 anbetrift, so soll er noch fernerhin an die
+#facs_102_r4l15 Jahrmärkten jedermann erlaubt, und dieser
+#facs_102_r4l16 Gewerb nicht eingeschränkt seyn
+#facs_102_r4l17 dessen Ihr berichtet werdet, um solches
+#facs_102_r4l18 den Supplikanten zu eröffnen und behörigen
+#facs_102_r4l19 Orts einschreiben zu laßen. Datum den
+#facs_102_r4l20 15th January 1793

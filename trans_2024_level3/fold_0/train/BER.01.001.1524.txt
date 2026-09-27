@@ -1,0 +1,32 @@
+Law ID: BER.01.001.1524
+Name: Söllend für ein Monat Sold uss dem Reissgelt nemmen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 21/21
+# High similarity (>=50%): 20
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_242_r2l37 85
+#facs_242_r4l1 Ann
+#facs_242_r4l2 Bln
+#facs_242_r4l3 Ambtleuth unnd See.
+#facs_242_r4l4 Sollend für
+#facs_242_r4l5 Monat Sold ciß dem Rißgelt
+#facs_242_r4l6 nommés.
+#facs_242_r4l7 Schultheiß Khät vnnd Burger der Statt Bern
+#facs_242_r4l8 doch unser aller nechst vorlauffendes Schreiben, und vß
+#facs_242_r4l9 deßelbigen Ynschluß, wirt zwar vermeldet, das den Obersten
+#facs_242_r4l10 vnnd Houbtleüthen anderthalben Monat Sold vß dem —
+#facs_242_r4l11 Reißgelt vff Jede Company überliffret werden möchte,
+#facs_242_r4l12 Wir habend aber daßelbige nit dergstalten gutfunden
+#facs_242_r4l13 Sonders hiemit erkent vnnd gerhaten, das Ihnen nur für
+#facs_242_r4l14 Dem Monat Sold ist dem Reißgelt zugestelt vnnd den
+#facs_242_r4l15 Soldaten allein das wuchengelt daraus bezalt werden solle
+#facs_242_r4l16 Deßen wir dich hiemit eilfertig vnnd nachrichtlich berichten: —
+#facs_242_r4l17 vnnd darbey erinnerlich beuelchen wellen, vnsere Vassallen,
+#facs_242_r4l18 So finder deiner Verwaltung sein möchtend, nochmalen zur
+#facs_242_r4l19 ständtlichen Gerüsthaltung zeuermahnen. Gott mit dir
+#facs_242_r4l20 Datum 6 Marty 1653

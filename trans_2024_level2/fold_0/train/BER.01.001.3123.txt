@@ -1,0 +1,199 @@
+Law ID: BER.01.001.3123
+Name: Von den hingerichteten Persohnen sollen zuerst die auffgangenen Kösten zahlt, und das übrig blibene den Vahsallen oder Grichtsh. heümbdienen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 188/188
+# High similarity (>=50%): 179
+# Low similarity (<50%): 9
+# Not found: 0
+#
+#facs_340_r1l1 1660.
+#facs_340_r1l2 2.
+#facs_340_r2l1 Un alle T: und W. Ambtleüts
+#facs_340_r2l2 Acht und Rath der Stadt Bern etc.
+#facs_340_r2l3 Die Jahrrechnungen aufschreiben, wie
+#facs_340_r2l4 gewohnt.
+#facs_340_r2l5 Tagansetzung.
+#facs_340_r2l6 Zu Ablaag der Beütschen Ambts Rechnungen
+#facs_340_r2l7 Ao. 1713
+#facs_340_r2l8 Februarius
+#facs_340_r2l9 Thorberg? Montags d.
+#facs_340_r2l10 20.
+#facs_340_r2l11 Burgdorff
+#facs_340_r2l12 21.
+#facs_340_r2l13 Thun. Sinstags den
+#facs_340_r2l14 Prauwbrunnen,
+#facs_340_r2l15 22.
+#facs_340_r2l16 Buchser
+#facs_340_r2l17 Mitwochens den
+#facs_340_r2l18 bürg
+#facs_340_r2l19 prienis Berg
+#facs_340_r2l20 23
+#facs_340_r2l21 Sonstags den
+#facs_340_r2l22 Landts Huth
+#facs_340_r2l23 goitstact
+#facs_340_r2l24 24.
+#facs_340_r2l25 langen Freztags d.
+#facs_340_r2l26 Erlach
+#facs_340_r2l27 25.
+#facs_340_r2l28 St. Johannes Sambstagt den
+#facs_340_r2l29 Ober Spietahl)
+#facs_340_r2l30 27
+#facs_340_r2l31 Wangen Montags d.
+#facs_340_r2l32 bipp
+#facs_340_r2l33 Arleangen
+#facs_340_r2l34 28
+#facs_340_r2l35 Sinniswald. Sinstags den
+#facs_340_r2l36 Arberg
+#facs_340_r3l1 Stifft
+#facs_340_r3l2 Mitwochens den
+#facs_340_r3l3 St. Johannes Hauß
+#facs_340_r3l4 Bauloherr
+#facs_340_r3l5 Sprieniß pergerhaus? Sonstags den
+#facs_340_r3l6 Signaul
+#facs_340_r3l7 Oberhoffen Freytagt d.
+#facs_340_r3l8 Brandiß
+#facs_340_r3l9 Wimnis
+#facs_340_r3l10 spruligen Sambstags den
+#facs_340_r3l11 zweysinnen
+#facs_340_r3l12 Und erseen
+#facs_340_r3l13 Insull
+#facs_340_r3l14 Monlogs d.
+#facs_340_r3l15 Interlaker Haus
+#facs_340_r3l16 Hectiß weil
+#facs_340_r3l17 Siechenhaus? Dinstags d.
+#facs_340_r3l18 Muschaffen
+#facs_340_r3l19 Kornherr Montage den
+#facs_340_r3l20 Nydaul
+#facs_340_r3l21 Lentzburg
+#facs_340_r3l22 Dinstags dh
+#facs_340_r3l23 Biberstein
+#facs_340_r3l24 Sang
+#facs_340_r3l25 Ahlen Mitwochens d.
+#facs_340_r3l26 Arburg
+#facs_340_r4l1 Martius.
+#facs_340_r4l2 1
+#facs_340_r4l3 2.
+#facs_340_r4l4 4
+#facs_340_r4l5 C.
+#facs_340_r4l6 7.
+#facs_340_r4l7 Aprilis.
+#facs_340_r4l8 3
+#facs_340_r4l9 4
+#facs_340_r4l10 5.
+#facs_341_r2l1 Hoffigen
+#facs_341_r2l2 Sonstagsd.
+#facs_341_r2l3 Schenkenberg
+#facs_341_r2l4 Köngefelden 2 Preytags d.
+#facs_341_r2l5 Erachselwald
+#facs_341_r2l6 Tanderspietahl Sambstags den
+#facs_341_r2l7 Interlaten. Mitwochen
+#facs_341_r2l8 Lagansetzirng
+#facs_341_r2l9 Zu Ablag der Welltschen Rech¬
+#facs_341_r2l10 Milden, Abrechnung d.
+#facs_341_r2l11 Neüwenstatt, abrechnung den
+#facs_341_r2l12 Neulos den
+#facs_341_r2l13 Bonmont den
+#facs_341_r2l14 Romainmostier
+#facs_341_r2l15 Ifferten den
+#facs_341_r2l16 Wisflisburg
+#facs_341_r2l17 Päcterlingen
+#facs_341_r2l18 Milden
+#facs_341_r2l19 Oron
+#facs_341_r2l20 Chillon
+#facs_341_r2l21 Neüle enstatt
+#facs_341_r2l22 Aubonne
+#facs_341_r3l1 aprilis
+#facs_341_r3l2 6
+#facs_341_r3l3 7.
+#facs_341_r3l4 s
+#facs_341_r3l5 12
+#facs_341_r3l6 nungen
+#facs_341_r3l7 Februarius
+#facs_341_r3l8 17.
+#facs_341_r3l9 Martius
+#facs_341_r3l10 17.
+#facs_341_r3l11 18.
+#facs_341_r3l12 20.
+#facs_341_r3l13 21.
+#facs_341_r3l14 22
+#facs_341_r3l15 23
+#facs_341_r3l16 24
+#facs_341_r3l17 22
+#facs_341_r3l18 28
+#facs_341_r3l19 29.
+#facs_341_r4l1 1663
+#facs_341_r4l2 Martius.
+#facs_341_r4l3 Paterlingen Cons: procu. 1710. 1711. 1712.
+#facs_341_r4l4 30.
+#facs_341_r4l5 31
+#facs_341_r4l6 Mörsee,
+#facs_341_r4l7 Aprilis
+#facs_341_r4l8 1.
+#facs_341_r4l9 Weltschweinschenk
+#facs_341_r4l10 22
+#facs_341_r4l11 Lausanne
+#facs_341_r4l12 Un Alle W: Ambtleuts.
+#facs_341_r4l13 von den hingerichteten Persohnen, sollen zu Erst
+#facs_341_r4l14 Die auf gangenen Kösten Zahlt, und das
+#facs_341_r4l15 übrig blibene den vasullen oder grichte H.
+#facs_341_r4l16 heimbdienen
+#facs_341_r4l17 Schultheiß und Rath
+#facs_341_r4l18 Nachdeme wir früher dinge verspührt, daß ohngeacht
+#facs_341_r4l19 Unsere Lobl. Regiments vordere schon ao 1580.
+#facs_341_r4l20 Unseren Vassallen und GerichtsHerren stelltschen
+#facs_341_r4l21 Landts Einen nahmhafften antheil an der hinder¬
+#facs_341_r4l22 Ihren Herrschafften hingerichteten Arbellthätere,
+#facs_341_r4l23 Untern und Verlasenschaft gnädigest Concediert,
+#facs_341_r4l24 auch bißher bestendig darbey manuteniert
+#facs_341_r4l25 Dennoch Eint und andere derselbigen sich darin
+#facs_341_r4l26 int vermügen, sondern wanse auf Mangell
+#facs_341_r4l27 habender Executions Rechten zu Vollstrekung,
+#facs_342_r2l1 der Todes Urtheil die Übellthäter
+#facs_342_r2l2 Unsere Immediat gerichten oder Ambt
+#facs_342_r2l3 leüthen übergeben müeßen, dero güther
+#facs_342_r2l4 zwahr Confisquieren, aber über dis
+#facs_342_r2l5 auch noch die Kosten fordern wollen, welchen
+#facs_342_r2l6 Neüloerung Einzuführen schon öffters ten=
+#facs_342_r2l7 tiert worden, und zu den Mehrmahlen auß¬
+#facs_342_r2l8 gangenen Mandat und Schreiben an Morsen
+#facs_342_r2l9 Neulos und Milden de ais 1600. 1617. 1632
+#facs_342_r2l10 1646. und 1667. Anlaß geben, und dißmahlen
+#facs_342_r2l11 ins gemein zu widerhohlen dahin, weil
+#facs_342_r2l12 Einerseiths von den Twing und Panerherren
+#facs_342_r2l13 kein Special recht kan auffgewiesen werden,
+#facs_342_r2l14 Ein mehrers allt das gnädigst Conce¬
+#facs_342_r2l15 dierte zu praetendiren, hingegen aber
+#facs_342_r2l16 nach und erschidlichen rechtsgelehrten Meinung
+#facs_342_r2l17 die wir disfahls Consultieren laßen, und
+#facs_342_r2l18 à
+#facs_342_r2l19 nach aller Fürsten, oberkeiten und
+#facs_342_r2l20 grichts H. übung keiner von Einer
+#facs_342_r2l21 hingerichteten Criminalischen Persohn Hinder
+#facs_342_r2l22 laßenen güthern Etwas Confisquieren
+#facs_342_r2l23 kan oder soll, Ehe und bevor alle
+#facs_342_r2l24 seine Schulden, beschwerden, onera oder
+#facs_342_r2l25 charges de L Hoirie Vollkommen abgezogen
+#facs_342_r2l26 und bezahlt seyen, hiemit wir wohlgegründet
+#facs_342_r3l1 G65
+#facs_342_r3l2 dergleichen Mißbräuch, daß die Ewing- und Panherre
+#facs_342_r3l3 das guth nemen, und Unß oder Unsern ambt¬
+#facs_342_r3l4 leuthen die Kösten zuertragen überlaßen wollen,
+#facs_342_r3l5 zu verhinderen, derobegen wir nochmahl alles
+#facs_342_r3l6 Ernsts dis befehlen, daß wan hinführo Einiche
+#facs_342_r3l7 remittierte Persohn hingerichtet wirt, und viel oder
+#facs_342_r3l8 wenig guth verlaßt, wo Ich das gelegen
+#facs_342_r3l9 daß vor allen Dingen die auffgangenen Kösten
+#facs_342_r3l10 darvon genommen und bezahlt, und dan das
+#facs_342_r3l11 à
+#facs_342_r3l12 übrig, deme hinder welchem Er gelegen
+#facs_342_r3l13 wie von allerher Heim dienen und Conficiert
+#facs_342_r3l14 seyn solle, welches du zu künfftiger Nachricht
+#facs_342_r3l15 und fleißiger Observanz nit nur in dem
+#facs_342_r3l16 Schlaffbuch Einschreiben, sondern auch den Jenigen
+#facs_342_r3l17 Herrschafft Herrn seines Ambts solls berühre
+#facs_342_r3l18 mag, läußend machen sollst. Godt mit dir
+#facs_342_r3l19 Actl. 16. Janl. 1713. aber Erst Expediert
+#facs_342_r3l20 d. 28. Febr. 1713.

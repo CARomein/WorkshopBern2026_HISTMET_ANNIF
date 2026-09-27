@@ -1,0 +1,325 @@
+Law ID: BER.01.001.4000
+Name: Wegen Eheeinsegnung - Tauff- Communicanten- und Todten Rödel der Predigkanten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 314/314
+# High similarity (>=50%): 251
+# Low similarity (<50%): 63
+# Not found: 0
+#
+#facs_94_r5l14 Schultheiß und Rath
+#facs_94_r5l15 Signalement
+#facs_94_r5l16 Johannes Weibel von Lünkhofen, aus dem
+#facs_94_r5l17 Kolleramt der Stadt Ehreingarten in der
+#facs_94_r5l18 Freyen Antweren Herrschaft, seines Alters¬
+#facs_94_r5l19 23. Jahr, lang 5 1/2. Schuh, hat braum glatte
+#facs_94_r5l20 Haar, bleiches Angesicht, ohne Hart, graue
+#facs_94_r5l21 Rugen, halbe Bugbraunen, von hiemlich
+#facs_95_r2l1 degagierter Leibs-Constitution, stellt sich
+#facs_95_r2l2 aber als Erbarmens würdig, forchtsam
+#facs_95_r2l3 dehmüthig und etwas schleichend, nach der
+#facs_95_r2l4 Gattlerin Gebrauch, tragt dießmalen eine
+#facs_95_r2l5 neüsen farben gut=tuchenen Rock mit
+#facs_95_r2l6 schbarzen Knöpfen, ein rothes Leibl. von
+#facs_95_r2l7 Charlatine, gelbe lederne Spitzhosen, braune
+#facs_95_r2l8 Strümpf, Stadtschuh mit Zimmernen Schuh¬
+#facs_95_r2l9 Quigg
+#facs_95_r2l10 Lobl. Stand gemeiner Eydgroßschaft, äussert
+#facs_95_r2l11 Appenzell
+#facs_95_r2l12 Ebige Banisation Christian Riterers und
+#facs_95_r2l13 seines Eheleibs - vide signalement
+#facs_95_r2l14 -
+#facs_95_r2l15 Unser rd. Pag. Sequel. 182
+#facs_95_r2l16 Ist in Missiven, durch eingeschrieben
+#facs_95_r2l17 Alle d. und W. Amtleüthe
+#facs_95_r2l18 Ausschreibung der Rechnungs-Tagen
+#facs_95_r2l19 Formular vide pag. 41./.
+#facs_95_r3l1 No. d. Rech.
+#facs_95_r3l2 Collard
+#facs_95_r4l1 179.
+#facs_95_r4l2 Rechnungs-Tagen
+#facs_95_r4l3 der Deutschen und Welschen Herren Amt¬
+#facs_95_r4l4 leuten pro Anno 1762
+#facs_95_r4l5 «*
+#facs_95_r4l6 1752.
+#facs_95_r4l7 6. Interlaber Haus
+#facs_95_r4l8 Montags. Januarius den. 17.
+#facs_95_r4l9 5. Kornherr
+#facs_95_r4l10 Mitbahr.
+#facs_95_r4l11 2 St. Johansen Haus
+#facs_95_r4l12 A 19
+#facs_95_r4l13 4. Schuchsen
+#facs_95_r4l14 sonstage.
+#facs_95_r4l15 7.20.
+#facs_95_r4l16 6 Mußhafen
+#facs_95_r4l17 2. Primisberg.
+#facs_95_r4l18 Montagu
+#facs_95_r4l19 den 24.
+#facs_95_r4l20 3. Primis Berg Haus
+#facs_95_r4l21 No 26.
+#facs_95_r4l22 4. Erlach
+#facs_95_r4l23 Mitborsch
+#facs_95_r4l24 3. Wochenhaus.
+#facs_95_r4l25 uf. 27
+#facs_95_r4l26 6. Röden
+#facs_95_r4l27 Anstags.
+#facs_95_r4l28 6. Brandis.
+#facs_95_r4l29 Preubrunnen und
+#facs_95_r4l30 1.
+#facs_95_r4l31 A. 31
+#facs_95_r4l32 Montagu
+#facs_95_r4l33 Abrechnung
+#facs_95_r4l34 2.
+#facs_95_r4l35 Lônity
+#facs_95_r4l36 Mitboche. Februarius d. 2.
+#facs_95_r4l37 Gottstadt
+#facs_95_r4l38 2.
+#facs_95_r4l39 Signor)
+#facs_95_r4l40 6.
+#facs_95_r4l41 Laupen und
+#facs_95_r4l42 13
+#facs_95_r4l43 1.
+#facs_95_r4l44 Donstage
+#facs_95_r4l45 Verechnung
+#facs_95_r4l46 2. Hättisbeyl
+#facs_95_r4l47 J 4
+#facs_95_r4l48 Prägtags
+#facs_95_r4l49 6. Wiblisburg
+#facs_96_r2l1 N°
+#facs_96_r2l2 Petterlinge
+#facs_96_r2l3 = 1.
+#facs_96_r2l4 und Abrechnung
+#facs_96_r2l5 S. Thorberg und
+#facs_96_r2l6 Abrechnung.
+#facs_96_r2l7 J. Böwen und
+#facs_96_r2l8 Abrechnung
+#facs_96_r2l9 4 Darberg
+#facs_96_r2l10 2 Oberhofen)
+#facs_96_r2l11 Abrechnung Milden
+#facs_96_r2l12 1 dto.
+#facs_96_r2l13 2 Wampen
+#facs_96_r2l14 6. Sumisbald
+#facs_96_r2l15 3 Aarburg
+#facs_96_r2l16 5 St. Johansen
+#facs_96_r2l17 1. Trachselwald
+#facs_96_r2l18 Übrechnung do
+#facs_96_r2l19 22. Neuwenstadt
+#facs_96_r2l20 3. Lausanne
+#facs_96_r2l21 6. Burgdorff.
+#facs_96_r2l22 2. Verwengen
+#facs_96_r2l23 4. Insul
+#facs_96_r3l1 Samstags Februarius 4.5.
+#facs_96_r3l2 d. 7
+#facs_96_r3l3 Nio. Aags
+#facs_96_r3l4 A 9
+#facs_96_r3l5 Mitboohr
+#facs_96_r3l6 7.10
+#facs_96_r3l7 Soustags
+#facs_96_r3l8 d. 15.
+#facs_96_r3l9 Freytag
+#facs_96_r3l10 8
+#facs_96_r3l11 12
+#facs_96_r3l12 Samstagr.
+#facs_96_r3l13 N. 14
+#facs_96_r3l14 Montagu
+#facs_96_r3l15 of 16th
+#facs_96_r3l16 Mitboches
+#facs_96_r3l17 d. 17:
+#facs_96_r3l18 Donstags
+#facs_96_r3l19 d. 18.
+#facs_96_r3l20 Trytags
+#facs_96_r3l21 d. 19
+#facs_96_r3l22 Samstags
+#facs_96_r3l23 d 21.
+#facs_96_r3l24 Montags
+#facs_96_r3l25 d. 23'
+#facs_96_r3l26 Mitwochs
+#facs_96_r4l1 No 23. Landshut
+#facs_96_r4l2 Thun c) Schonstags
+#facs_96_r4l3 4
+#facs_96_r4l4 Abrechnung Anbone Freytag
+#facs_96_r4l5 1. Anbone. Samstags
+#facs_96_r4l6 Buch Qreubt
+#facs_96_r4l7 1
+#facs_96_r4l8 Abrechnung dr. Montags
+#facs_96_r4l9 5. Stifft Allhier
+#facs_96_r4l10 Winnis. Mitwochs
+#facs_96_r4l11 5
+#facs_96_r4l12 2.
+#facs_96_r4l13 Interlaben
+#facs_96_r4l14 heutigen Herrn Donstags
+#facs_96_r4l15 6
+#facs_96_r4l16 Morsee
+#facs_96_r4l17 2
+#facs_96_r4l18 Erytags
+#facs_96_r4l19 3.
+#facs_96_r4l20 Weltzich Weinschenk Samstags
+#facs_96_r4l21 3
+#facs_96_r4l22 dans un
+#facs_96_r4l23 Montags
+#facs_96_r4l24 Wegstimmen
+#facs_96_r4l25 5.
+#facs_96_r4l26 hastelen
+#facs_96_r4l27 1
+#facs_96_r4l28 Mitwochs
+#facs_96_r4l29 Bubrechnung do
+#facs_96_r4l30 Untersteewen.
+#facs_96_r4l31 2
+#facs_96_r4l32 Schenkenberg.
+#facs_96_r4l33 2.
+#facs_96_r4l34 Sonstags
+#facs_96_r4l35 Lentzburg
+#facs_96_r4l36 2
+#facs_96_r4l37 Fristags
+#facs_96_r4l38 Romainmotier
+#facs_96_r4l39 2.
+#facs_96_r4l40 Sammstags
+#facs_96_r4l41 Donmont
+#facs_96_r4l42 3.
+#facs_96_r4l43 Hoffingen
+#facs_96_r4l44 Montags
+#facs_96_r4l45 A
+#facs_96_r4l46 Abrech. do
+#facs_96_r4l47 Mitwochs
+#facs_96_r4l48 13. Proß Stictahl
+#facs_96_r5l1 181.
+#facs_96_r5l2 februC. 1752
+#facs_96_r5l3 24 do
+#facs_96_r5l4 d. 25. d.
+#facs_96_r5l5 den 26. do
+#facs_96_r5l6 d. 28. do.
+#facs_96_r5l7 den. 1. Marty
+#facs_96_r5l8 d. 2s do
+#facs_96_r5l9 d. 3. do
+#facs_96_r5l10 den 4t do.
+#facs_96_r5l11 d. 6. do
+#facs_96_r5l12 den 8e de
+#facs_96_r5l13 2.° 9.s de
+#facs_96_r5l14 2d 2n do
+#facs_96_r5l15 d. Act: do
+#facs_96_r5l16 1613 do.
+#facs_96_r5l17 d 15f x
+#facs_97_r2l1 182
+#facs_97_r2l2 N°
+#facs_97_r3l1 Marty 1752
+#facs_97_r3l2 d 16s d
+#facs_97_r3l3 3. Ahlen
+#facs_97_r3l4 6. Biberstein
+#facs_97_r3l5 f 17' d.
+#facs_97_r3l6 "
+#facs_97_r3l7 Vorstags
+#facs_97_r3l8 6. sibis
+#facs_97_r3l9 den 18. d.
+#facs_97_r3l10 Sammstags
+#facs_97_r3l11 6 Oron
+#facs_97_r3l12 d. 20ten do
+#facs_97_r3l13 6. Königsfelden Montags
+#facs_97_r3l14 d. 24s. do.
+#facs_97_r3l15 4 Neules
+#facs_97_r3l16 Ergtags
+#facs_97_r3l17 2. Perten
+#facs_97_r3l18 Signalement
+#facs_97_r3l19 Christen Stiederer, und Sein Eheweibt
+#facs_97_r3l20 wie zu sehen pag. 178.
+#facs_97_r3l21 Ist lang lächter uns Magerer Statur
+#facs_97_r3l22 ohngeferd 5. Schu und 8. Zoll Hoch,
+#facs_97_r3l23 a
+#facs_97_r3l24 hat heiter Braune lange Haar
+#facs_97_r3l25 Schwartz lechte Augbrauen, wenige
+#facs_97_r3l26 Bart, tragt ein Grüne, Rock, Blauwes
+#facs_97_r3l27 Leiblin, Große wollene Hosen, und
+#facs_97_r3l28 Strümpf, und Bauren Schu, Seines
+#facs_97_r3l29 und
+#facs_97_r3l30 Handwerbs ein Schaubhuetler
+#facs_97_r3l31 ohngeferd 23. Jahr alte
+#facs_97_r4l1 Collaten
+#facs_97_r4l2 Collate
+#facs_97_r5l1 183
+#facs_97_r5l2 Elsbeth Bucher von Courbrü sein Eheweib
+#facs_97_r5l3 gleichen Alters, ist middelmäßig be¬
+#facs_97_r5l4 sezter Statur, hat Castanien Braune Haar
+#facs_97_r5l5 und zupsten, ein Sauberes doch groblechtes
+#facs_97_r5l6 Angesicht tracht ein Braunes mit Sammt¬
+#facs_97_r5l7 Schmueren beseztes Castaglin, einen
+#facs_97_r5l8 dunkel blauwen Vol, und ein Sürtuche
+#facs_97_r5l9 von Blauwer Indiene.
+#facs_97_r5l10 An
+#facs_97_r5l11 Alle T. Ambtleuth 4. Stadt Freyweibel¬
+#facs_97_r5l12 und demann
+#facs_97_r5l13 Wegen Eingegnung, dar Tauff, Comunicante,
+#facs_97_r5l14 und Todten Rödel der Predigkanten.
+#facs_97_r5l15 Schultheiß und Raht
+#facs_97_r5l16 nterem 16. Aug. jüngst hier
+#facs_97_r5l17 Haben Wir wegen in Theils Pfarhäusern
+#facs_97_r5l18 Unserer teutschen Landen verspührten
+#facs_97_r5l19 irregulariteten in Führung der Schlaf¬
+#facs_97_r5l20 Bücheren Nöhtig erachtet, dis ohrts ein
+#facs_97_r5l21 Einsehen zu Thun, so wir sämtlichen
+#facs_97_r5l22 Decanen zu Händen der Capitlen Communiciret,
+#facs_98_r2l1 A:
+#facs_98_r2l2 2:
+#facs_98_r3l1 ihn aber seither wir dieser Neuwe,
+#facs_98_r3l2 Verordnung eines und anderes
+#facs_98_r3l3 beyzusezen Gutbefonden, als über¬
+#facs_98_r3l4 senden Euch das völlige Reglement
+#facs_98_r3l5 mit Befelch, jedem Pfarrh. Enwers
+#facs_98_r3l6 Befirbs ein Dopel darvon zu
+#facs_98_r3l7 künftiger Befolgung zu stellen zu
+#facs_98_r3l8 laßen, und ist hiemit Unser Willen.
+#facs_98_r3l9 wie hienach folget.
+#facs_98_r3l10 äußert dem Ehereichts Manual,
+#facs_98_r3l11 sollen annoch vier Rödel geführt werden,
+#facs_98_r3l12 als ein Ehe einsegnungs Rodel, ein
+#facs_98_r3l13 Tauff Stödel ein Communicante, Stodel und
+#facs_98_r3l14 ein Todten = Rödel, uns zwar eine
+#facs_98_r3l15 jeder dieser Stödel sonderbahr.
+#facs_98_r3l16 Alle diese Rödel sollen Alljährliche
+#facs_98_r3l17 von den Juratr. nach Ausweisung
+#facs_98_r3l18 der Predigkanten Ordnung Pag. 85.
+#facs_98_r3l19 bey der haltenden Kirchen Visitation
+#facs_98_r3l20 Examiniert werden und fahls einiger
+#facs_98_r3l21 Mangel sich finden würde, soll Er
+#facs_98_r3l22 solches zu vorbehrender Remedur,
+#facs_98_r5l1 185
+#facs_98_r5l2 bey erster Class. Versamlung anzeigen.
+#facs_98_r5l3 3°
+#facs_98_r5l4 Die Einschreibung der Ehen soll wie
+#facs_98_r5l5 bißher Geschehen mit vernaufung deß
+#facs_98_r5l6 tags der Copulation, beyder verlobten
+#facs_98_r5l7 nahmen, und Ihres Heimahts.
+#facs_98_r5l8 4
+#facs_98_r5l9 Die Tauf-Rödel sollen fortgesetzt werden.
+#facs_98_r5l10 nach Anweisung der Predigkanten Ordnung
+#facs_98_r5l11 Paf. 24.
+#facs_98_r5l12 5. In die Todten, Rödel soll nichts anders.
+#facs_98_r5l13 eingebracht werden, als der Nahmen dest
+#facs_98_r5l14 verstorbenen, der Tag des Todes und
+#facs_98_r5l15 der Begrabsnuß, mit Auslaßung aller
+#facs_98_r5l16 ferneren Umbständen.
+#facs_98_r5l17 Die Nahmen der zugelaßenen Communicanten
+#facs_98_r5l18 6
+#facs_98_r5l19 sollen eingeschrieben werden, ohne von
+#facs_98_r5l20 Ihrer mehreren oder minderen Tuchtig¬
+#facs_98_r5l21 keit zu melden, die samtlichen Rodel
+#facs_98_r5l22 Aber sollen wohl Conditioniert gehalten, Exact
+#facs_98_r5l23 paginiert und Registriert werden.
+#facs_98_r5l24 Bey Absterben eines Pfarrherren soll der
+#facs_98_r5l25 visitator alle Kirchen-Rödel zu seinem
+#facs_99_r4l1 und zu Seiner
+#facs_99_r4l2 Handen nommen
+#facs_99_r4l3 Zeit dem Successor einhändigenen
+#facs_99_r4l4 de inzwischen der Vicarius aller¬
+#facs_99_r4l5 Vorfallenheiten Genauw verzeichnen.
+#facs_99_r4l6 und dem Successori zur einschreibung
+#facs_99_r4l7 übergeben soll.
+#facs_99_r4l8 und Endtlichen sollen bey der
+#facs_99_r4l9 alljährlichen Verkündung der
+#facs_99_r4l10 Kirchen Visitationen die Kirchgenoßen
+#facs_99_r4l11 ernstlich ermahnt werden sich
+#facs_99_r4l12 fleißig einzufinden. Welche
+#facs_99_r4l13 Unsere Verordnung Ihr übrigens
+#facs_99_r4l14 auch in den Schloß-Bücheren ein¬
+#facs_99_r4l15 schreiben lassen werdet. Datl. d. 26.
+#facs_99_r4l16 Novembris 1751.

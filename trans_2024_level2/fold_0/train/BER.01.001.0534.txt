@@ -1,0 +1,55 @@
+Law nr: BER.01.001.0534
+Name: Erfrischung des Verpots, Knüttel und Stecken zetragen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 44/44
+# High similarity (>=80%): 40
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_80_r3l20 Octana
+#facs_80_r3l21 An alle Tuttsche Amptluth
+#facs_80_r3l22 Fryweibel und Amman Erfrischung
+#facs_80_r3l23 des Spots, Kunstel. vnd Steckl. Zetragen
+#facs_80_r3l24 wiewoll wir die vnserm zu Statt vnd landt
+#facs_126_r4l8 hs.
+#facs_80_r3l26 min vil und dick ermanen und zum gepietten
+#facs_80_r3l27 lassen, das sij bij poen vnd buß 3 lb nit also mitt
+#facs_80_r3l28 tack künttlen vnd gablen, zu kilch vp Maritl
+#facs_80_r3l29 vnd trassen ghan, Sonders Ire Sijten wahr
+#facs_80_r3l30 bij sich haben vnd tragen sollindt wie söliches
+#facs_80_r3l31 redlichen Eydguessen vnd vnser Witt Woll
+#facs_80_r3l32 anständig So haben wir die zytt har mit
+#facs_80_r3l33 allein gespürer Sonders es haben uns
+#facs_80_r3l34 vnsere Jungt vfgeschickten Muster H. Fürbracht
+#facs_81_r1l1 147
+#facs_81_r2l1 Jerin schlechte gehorsamme erzeigt vnd dambmitt
+#facs_81_r2l2 gehaltten werde dan der mehrer theil, deren
+#facs_81_r2l3 so vff die Musterplatz kommen huzeseihenen
+#facs_81_r2l4 mitt Ire Wehr Sonder Knüttlen steckenn
+#facs_81_r2l5 vnd gablen tragen vnd by sich geheptt
+#facs_81_r2l6 Derwegen sindtt wir verursachet worden
+#facs_81_r2l7 sollich vnser vorgendt Insechen hiemitt
+#facs_81_r2l8 Zeerfrischen und der Zebenelchenn, das die
+#facs_81_r2l9 Vnseren diner Amptsverwalttung vonn
+#facs_81_r2l10 offnen Cantzlen des Wepports vnd geborts
+#facs_81_r2l11 nochmaln erfuerst und ermanen lassist
+#facs_81_r2l12 Das sy by vermijßung der buss obgemelt
+#facs_81_r2l13 Ire Sytten wehr zu kilchen mächt vnnd
+#facs_81_r2l14 strassen, ordenlich tragen vnd by sich haben
+#facs_81_r2l15 haben sollind, Vnd damit dem statt bescheiden
+#facs_81_r2l16 von den Thälbarn die buss vermög vorgenden
+#facs_81_r2l17 Vnsechens vnd mandats ohne schonen synzüchisten
+#facs_81_r2l18 Tehlusslich so ehrengemelter vnsere Verordnete
+#facs_81_r2l19 Musterhs aus angemeldt, das sy an wehren
+#facs_81_r2l20 tharnisten vnd dhägenphencken mangel fundet
+#facs_81_r2l21 auch dir vnd anderen beuolchen die verbesserung
+#facs_81_r2l22 by den Jenigen mit ernst heverschaffen,
+#facs_81_r2l23 Wollen wir Dir hiemit auch gepotten
+#facs_81_r2l24 haben, demselben gehorsamlich vnd In thruw
+#facs_81_r2l25 auch mit sonderneupt nachze kommen vnd
+#facs_81_r2l26 Statt zethun daran beschicht vnser
+#facs_11_r3l28 will.
+#facs_82_r2l19 Datum

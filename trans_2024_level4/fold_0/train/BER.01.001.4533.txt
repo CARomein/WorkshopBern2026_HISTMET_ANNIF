@@ -1,0 +1,27 @@
+Law nr: BER.01.001.4533
+Name: Die Criminal Proceduren aufzubewahren.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 15/15
+# High similarity (>=80%): 13
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_29_r3l10 alle Herren Amtleut 7 Lands.
+#facs_29_r3l11 Die Crimnial Preeduren aufzubebahren,
+#facs_29_r3l12 Schultheiß und Rath etc. Bey gehabtem
+#facs_29_r3l13 Anlaß haben Wir wahrgenommen, daß in
+#facs_29_r3l14 sich ergebenden Criminal Fällen, die Criminal
+#facs_29_r3l15 Prozeduren auf den Amteren nicht fleißig
+#facs_29_r3l16 aufbehalten werden; da nun sehr vieles
+#facs_29_r3l17 daran gelegen, so tragen Wir Euch be¬
+#facs_29_r3l18 felchlich auf, die Anstalten vorzukehren,
+#facs_29_r3l19 daß in sich ergebenden fallen, die Criminal
+#facs_29_r3l20 Prozeduren mit aller Sorgfalt in ein
+#facs_29_r3l21 Cahier zustamen gebunden, und wohl ver¬
+#facs_29_r3l22 bahrt aufbehalten werden. Dat. den 1.
+#facs_54_r10l10 Aprill

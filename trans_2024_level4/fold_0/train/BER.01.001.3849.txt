@@ -1,0 +1,3689 @@
+Law ID: BER.01.001.3849
+Name: Chorgricht Satzung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 3678/3678
+# High similarity (>=50%): 3442
+# Low similarity (<50%): 236
+# Not found: 0
+#
+#facs_277_r4l17 1744.
+#facs_277_r4l18 22 January
+#facs_277_r4l19 Burgdorff
+#facs_277_r4l20 auf Mittbocher den
+#facs_277_r4l21 Interlackerhauß
+#facs_277_r4l22 235 dito
+#facs_277_r4l23 Korn Serr
+#facs_277_r4l24 Donstags
+#facs_277_r4l25 St. Johanßerhauß
+#facs_277_r4l26 27.5 dito
+#facs_277_r4l27 Braub Brunnen
+#facs_277_r4l28 Montags
+#facs_277_r4l29 Landtshut
+#facs_277_r4l30 Mittbochen - 29th Dito
+#facs_277_r4l31 Budsee
+#facs_277_r4l32 Könitz
+#facs_278_r2l1 Grienisferg
+#facs_278_r2l2 Grienispergerhaus,
+#facs_278_r2l3 Mueßhafen
+#facs_278_r2l4 Reisensauß
+#facs_278_r2l5 Erlach
+#facs_278_r2l6 Buren
+#facs_278_r2l7 Obersooffen
+#facs_278_r2l8 Untersein
+#facs_278_r2l9 –
+#facs_278_r2l10 Hettis byl
+#facs_278_r2l11 Dignuë
+#facs_278_r2l12 Nydaul
+#facs_278_r2l13 Lauppen
+#facs_278_r2l14 Weysimen
+#facs_278_r2l15 Boltestalts
+#facs_278_r2l16 Brandis
+#facs_278_r2l17 Interlacken
+#facs_278_r2l18 Sinnissbald
+#facs_278_r2l19 Insull
+#facs_278_r2l20 Tsorberg
+#facs_278_r3l1 1744
+#facs_278_r3l2 auf Dienstag den 30t Janl.
+#facs_278_r3l3 Montags
+#facs_278_r3l4 3. Febr.
+#facs_278_r3l5 Mitbosen
+#facs_278_r3l6 5th dito
+#facs_278_r3l7 6 b dito
+#facs_278_r3l8 dienstags
+#facs_278_r3l9 10. t dito.
+#facs_278_r3l10 Montags
+#facs_278_r3l11 12.t dito.
+#facs_278_r3l12 Mitbochens
+#facs_278_r3l13 13. T dito
+#facs_278_r3l14 Donstags
+#facs_278_r3l15 17 L dits
+#facs_278_r3l16 Montags
+#facs_278_r3l17 19 f dito
+#facs_278_r3l18 Mitbochen
+#facs_278_r3l19 20t dits
+#facs_278_r3l20 Donstags
+#facs_278_r4l1 537.
+#facs_278_r4l2 1744.
+#facs_278_r4l3 Thun
+#facs_278_r4l4 auf Montag den 24ten febr
+#facs_278_r4l5 Frutigen
+#facs_278_r4l6 Stifft.
+#facs_278_r4l7 Mitbochens
+#facs_278_r4l8 26.5 Dito
+#facs_278_r4l9 Aarberg
+#facs_278_r4l10 Uarbangen
+#facs_278_r4l11 Dorstags
+#facs_278_r4l12 27th. dito
+#facs_278_r4l13 Bipps
+#facs_278_r4l14 2: Le Martij
+#facs_278_r4l15 BaubHerr von Burgern, Montags
+#facs_278_r4l16 Blangen
+#facs_278_r4l17 Mitbochen,
+#facs_278_r4l18 4th Marty
+#facs_278_r4l19 St. Johansen
+#facs_278_r4l20 Arburg
+#facs_278_r4l21 5. Dito.
+#facs_278_r4l22 Donstags
+#facs_278_r4l23 Biberstein,
+#facs_278_r4l24 Trachselbald
+#facs_278_r4l25 9th Dito
+#facs_278_r4l26 Montagor
+#facs_278_r4l27 Wimmiß
+#facs_278_r4l28 Schembenberg
+#facs_278_r4l29 Mitbosen, 11t dito.
+#facs_278_r4l30 Tapelen
+#facs_278_r4l31 daanen
+#facs_278_r4l32 Donstags, 12 t dito.
+#facs_278_r4l33 aslen.
+#facs_278_r4l34 Lentzburg
+#facs_278_r4l35 Montagd, 16t dito
+#facs_278_r4l36 Goftingen.
+#facs_278_r4l37 Mitborsen, 18t dito
+#facs_278_r4l38 Clougsfelden
+#facs_278_r4l39 Sonstags, 19th dito.
+#facs_278_r4l40 Broß Spitshal
+#facs_278_r4l41 Sigriert Buchhalter Benoit
+#facs_279_r1l1 la 538
+#facs_279_r1l2 sorgricht atzung.
+#facs_279_r1l3 Wir Schultzeiß Klein und Broß
+#facs_279_r1l4 Räht der Stadt Bern entbieten aller
+#facs_279_r1l5 Collat
+#facs_279_r1l6 und jeden Unseren Bürgeren, Ein
+#facs_279_r1l7 bohneren, Ober- und Unter Ambtleüther
+#facs_279_r1l8 ple
+#facs_279_r1l9 Junigs Instruction Kirchen Dieneren, Ehe Hämmeren, in
+#facs_279_r1l10 so Masselben Chor. Richteren, auch allen Unseren
+#facs_279_r1l11 Thoegrichts nach
+#facs_279_r1l12 vnterlhergrichts Leben und Betrauben Unterthan
+#facs_279_r1l13 Sähung Gut obhir
+#facs_279_r1l14 und Angehorigen, in unseren Stätte
+#facs_279_r1l15 van aufgetragen
+#facs_279_r1l16 Graff, und Herschafften, Landen, Brich¬
+#facs_279_r1l17 worden, ist socam
+#facs_279_r1l18 200. aus vom 19
+#facs_279_r1l19 und Gebieten, Unseren Gruß, Aus¬
+#facs_279_r1l20 habeg. 1745 und
+#facs_279_r1l21 gen und geneigten Willen, samt allem
+#facs_279_r1l22 ist Eingeschriben
+#facs_279_r1l23 a
+#facs_279_r1l24 guten zuvor, und darbey zu vernemmen
+#facs_279_r1l25 Polinpruch
+#facs_279_r1l26 Wie bohlen, zu Fortpflanzung bahrer
+#facs_279_r1l27 Gotttforcht, Christlichen Lebend, Handel
+#facs_279_r1l28 und Wandels, in Unseren, durch des
+#facs_279_r1l29 Allerhöchsten Gnad, Uns untertreubtig
+#facs_279_r1l30 Landen, und hingegen zu Abstell, und
+#facs_279_r1l31 Ausilgung Sünd und Lasteren, auch
+#facs_279_r1l32 ernsthaffter derselben Bestraffung, vom
+#facs_279_r1l33 Unseren in Boct ruhenden Regimen
+#facs_279_r1l34 Vorfahren, durch vielfältige Landstätte,
+#facs_279_r1l35 Ordnung, und Chorgrichter=Sazungen ruhe
+#facs_279_r1l36 lichen vorgeschrieben, durch seithero von
+#facs_279_r1l37 Uns ausgegebene Straffengesaz und ande¬
+#facs_279_r2l1 539
+#facs_279_r2l2 Mandata dann auch angeordnet worden ist,
+#facs_279_r2l3 wie sich harmfahls zu verhalten, auch
+#facs_279_r2l4 welcher gestalten untersambtlichen
+#facs_279_r2l5 Unseren Angehörigen und Einbohneren
+#facs_279_r2l6 anständige Ordnung, zucht und Ehr¬
+#facs_279_r2l7 barkeit fortgepflanzet, mithin auch in
+#facs_279_r2l8 Ehe-Sachen, und anderen Jählen, und
+#facs_279_r2l9 vorfallenden Streitigkeiten geurtheilet.
+#facs_279_r2l10 werden solle.
+#facs_279_r2l11 So habend jedennoch wir wahrnemmen
+#facs_279_r2l12 müßen, daß mit Ablauff der Jahren
+#facs_279_r2l13 solche nicht nur Theyls in Vergeß ge¬
+#facs_279_r2l14 stelt, sondern selbsten bey jezmahligen
+#facs_279_r2l15 Zeiten, und damit abgeenderter Lebens¬
+#facs_279_r2l16 Manier der Menschen, die ohnungängliche
+#facs_279_r2l17 Rothdurfft erforderen wollen, daß die
+#facs_279_r2l18 dißorthigen Asaz auch darnach gerichtet
+#facs_279_r2l19 werden.
+#facs_279_r2l20 Inmaßen zu dem End hin, nach dem
+#facs_279_r2l21 Rayspiel Unserer Löbl. Altforderen, und
+#facs_279_r2l22 damit das Heyl und die Wolfahrt sämtlichen
+#facs_279_r2l23 Unserer ungehörigen für bas beförderet,
+#facs_279_r2l24 werde, wer nicht nur gutfunden, diß¬
+#facs_279_r2l25 Orthige ehemahlige Sazungen für die
+#facs_279_r2l26 Hand zu nommen, und mit Fleiß durch zu
+#facs_279_r2l27 gehen, sonderen in eint und anderem
+#facs_279_r2l28 gestalten Dingen nach aufgegen bährtigen
+#facs_279_r2l29 Seiten und Läuff selbe zu richten zu
+#facs_279_r2l30 verbeßeren
+#facs_280_r2l1 Verbeßeren, und in ferneren hiernach
+#facs_280_r2l2 anzuordnen, bin von einem zum
+#facs_280_r2l3 anderen folget.
+#facs_280_r2l4 Alles in dem Absehen, damit der Sache
+#facs_280_r2l5 das Allerhöchsten für las ob Unseren
+#facs_280_r2l6 Landen ruhen, und über dieselbige ge¬
+#facs_280_r2l7 zogen, deßen Einbohner zu bahrer Joach
+#facs_280_r2l8 Boßes, und Ausübung Christlichen
+#facs_280_r2l9 Lebens und Wandels, jehrnehr und mehr¬
+#facs_280_r2l10 verleitet werden
+#facs_280_r2l11 Articul.
+#facs_280_r4l1 541
+#facs_280_r4l2 Articul und Satsungen
+#facs_280_r4l3 die Ehe betreffend
+#facs_280_r4l4 Wie eine Ehe solle bezogen, und, wann
+#facs_280_r4l5 selbe streitig bewiesen werden.
+#facs_280_r4l6 A.
+#facs_280_r4l7 Für das Erste setzen und ordnen wir
+#facs_280_r4l8 daß Niemand in Unser Stadt und Land
+#facs_280_r4l9 die Ehe bezeühen solle, ohne beyweisen und
+#facs_280_r4l10 Wegen wahrtigkeit zweyer frommen, Ehrbahren
+#facs_280_r4l11 Ohnverworffenen Mannen: Wann aber die
+#facs_280_r4l12 angesprochene Persohn der Eheversprechung
+#facs_280_r4l13 nicht geständig wäre, soll die klagende ihre
+#facs_280_r4l14 Ansprach beweisen, entwederd durch zbey ge¬
+#facs_280_r4l15 verberffliche Bezeugen, oder schrifftliche Ehe,
+#facs_280_r4l16 versprechung, hierin aber weder auf die von
+#facs_280_r4l17 Der klagenden Parthey vergebende Mundliche
+#facs_280_r4l18 Betheürungen, noch auf vorweisende, aber nicht
+#facs_280_r4l19 gestandene Pfänder auch nicht auf den Ver¬
+#facs_280_r4l20 bortenen Beyschlaff und Schvangerschafft gesehen
+#facs_280_r4l21 werden.
+#facs_280_r4l22 Das sich kein sind vor hienach bestimten
+#facs_280_r4l23 Jahren ihn Wüsen, vor der Mutter, vögten Ao.
+#facs_280_r4l24 terpflichten soll. Sambt der Straff deren so sie dazu
+#facs_280_r4l25 einführen.
+#facs_280_r4l26 v.
+#facs_280_r4l27 Damit aber die Ehe nicht ohn bedachtlich bezogen
+#facs_280_r4l28 werde
+#facs_281_r2l1 Werde, so soll kein Ehe hafften, die ein von
+#facs_281_r2l2 bezuge hinderruckes obgemeldtem seinem
+#facs_281_r2l3 Päter, Muter, vögten oder nächsten Anver¬
+#facs_281_r2l4 ten, Es daß es völliglich fünff und zbanzig
+#facs_281_r2l5 Jahr alt seye: Geschehe es aber vor diesem
+#facs_281_r2l6 Jahren, so mögends die genannten sein Vater
+#facs_281_r2l7 und Mutter etc. hinderen, und vernichtigen
+#facs_281_r2l8 Wer aber jemanden zu der gleichen Ehe¬
+#facs_281_r2l9 sprechungen einführung und verpflichten
+#facs_281_r2l10 wurde, ohne vorbüßen und billen der
+#facs_281_r2l11 Elteren, vögten und nächsten Verbanden,
+#facs_281_r2l12 der soll gestrafft werden nach gestaltsamm
+#facs_281_r2l13 und wichtigkeit der Sach, und Unseres
+#facs_281_r2l14 täglichen Rahts Erkantnuß.
+#facs_281_r2l15 Wie sich die verEhelichen mögend so die
+#facs_281_r2l16 Reemosen genießen, oder darin erzogen sind.
+#facs_281_r2l17 /
+#facs_281_r2l18 Derenthalben wollen Wir, daß diejenigen
+#facs_281_r2l19 so das Allmosen genießen, oder begen¬
+#facs_281_r2l20 Leibs=Schbachheiten, sich und ihre Kinder
+#facs_281_r2l21 zu ernehren nicht vermöhten, ohngeacht
+#facs_281_r2l22 sie fünff und zu bänzig Jahr neters erreicht
+#facs_281_r2l23 ohne Verbilligung deren, von welchen sie
+#facs_281_r2l24 solches empfangen, sich immer vor Ehelichen
+#facs_281_r2l25 mögen; die aber, so darin erzogen bordne,
+#facs_281_r2l26 und aber selbigen nicht mehr genießen,
+#facs_281_r2l27 sie vor dem fünffundzwanzigsten Jahr
+#facs_281_r2l28 Geld
+#facs_281_r3l1 543
+#facs_281_r3l2 Alters sich Ehelich einlaßen bürden, alsdann
+#facs_281_r3l3 in den Städten die Stuben oder Gesellschafften
+#facs_281_r3l4 und auf dem Land die Ehrbarkeiten, in
+#facs_281_r3l5 Rahmen der Gemeinden, solche Ehe lösen
+#facs_281_r3l6 -
+#facs_281_r3l7 und Zeugen mögen.
+#facs_281_r3l8 Wann sich die Kinder selbst mögen
+#facs_281_r3l9 versorgen
+#facs_281_r3l10 4
+#facs_281_r3l11 So aber Elteren, und verbandten
+#facs_281_r3l12 säumig baren und Ihre Kinder nicht
+#facs_281_r3l13 versehend, zuenthalb den funffend Zbanzug
+#facs_281_r3l14 Jahren, so mögen sie dann sich, mit Gottes
+#facs_281_r3l15 Hilff, darnach selbst, von jedermann ohngehin,
+#facs_281_r3l16 deret, verehelichete; doch der Ehesteür holl¬
+#facs_281_r3l17 mer Oberkeit Erkantnuß vorbehalten
+#facs_281_r3l18 so es von der und Muter widrig wäre.
+#facs_281_r3l19 Daß man die Kinder zu keiner
+#facs_281_r3l20 Ehe zwingen soll.
+#facs_281_r3l21 5
+#facs_281_r3l22 Stholl auch beder von der, Muter, Inbald,
+#facs_281_r3l23 noch Riemand jhre Kinder zur Ehe, wider
+#facs_281_r3l24 ihren Willen, zu keinen Zeiten zwingen
+#facs_281_r3l25 oder nöthigen; Wo aber das geschehe, und
+#facs_281_r3l26 rechtlich geklagt wurde, soll es nichts gelten
+#facs_281_r3l27 und die Übertreiter gestrafft werden, nach
+#facs_281_r3l28 ines Ehrsammen Rahts Erkäntnuß. Ob aber
+#facs_281_r3l29 Vater und Mucter ein ehrliche Wahl den
+#facs_281_r3l30 Einderen
+#facs_282_r2l1 Kinderen aufthäten, und aber dierau¬
+#facs_282_r2l2 nicht folgen, sondern das Bösere, Mann
+#facs_282_r2l3 oder Weibe hebben, an die Hand nemen
+#facs_282_r2l4 burden, sind sie Eltern denselben ihren
+#facs_282_r2l5 Kinderen kein Ehesteur zu geben schuldig.
+#facs_282_r2l6 Wie sich freye Persohnen, die
+#facs_282_r2l7 Niemand zu versprechen stahn verehelichen
+#facs_282_r2l8 mögen.
+#facs_282_r2l9 6
+#facs_282_r2l10 Wann zbey ein anderen nehmen, die
+#facs_282_r2l11 frey bären, und niemand hätten, den
+#facs_282_r2l12 sie zu versprechen stühnden, oder der sich
+#facs_282_r2l13 Ihrer eineme, und sie ein anderen jechtigste
+#facs_282_r2l14 die sollen ein anderen behalten: doch soll
+#facs_282_r2l15 das Meitlein über vierzehen jahr, und der
+#facs_282_r2l16 hnab nicht unter Sechszehen Jahren alt seyn.
+#facs_282_r2l17 wo sie aber einanderen in abred Bären, und
+#facs_282_r2l18 bein Rundschaft hätten, nach laut der ersten
+#facs_282_r2l19 Sazung, soll es nichts gelten, darnach bühr
+#facs_282_r2l20 sich jederman zu halten, und vor Schad und
+#facs_282_r2l21 Schaden zu hüten.
+#facs_282_r2l22 Man die, so vatter, Mufer, oder Freund,
+#facs_282_r2l23 haben, sich vorehelichen mögen
+#facs_282_r2l24 Wie diejenigen, die Riemands zu verspre¬
+#facs_282_r2l25 stehen, nicht sollen Ehelich werden, das Meitlen¬
+#facs_282_r3l1 245.
+#facs_282_r3l2 Beye dann 14., und der knab 16 Jahr alt:
+#facs_282_r3l3 Also auch kann die Kinder, so mit Vater
+#facs_282_r3l4 Muter oder anderen Freünden versehen
+#facs_282_r3l5 sind, und obbestimmte Jahrzahl nicht haben
+#facs_282_r3l6 sich verehelichen, soll dieselbe bezogene Ehe-
+#facs_282_r3l7 nichts gelten, sonderen kafftlod seyn, und
+#facs_282_r3l8 die Übertreiter gestrafft werden, wie bisher
+#facs_282_r3l9 gemeinlich geschehen ist: In ansehen, daß
+#facs_282_r3l10 solche junge Persohnen zu der Ehe untugenlich,
+#facs_282_r3l11 und deren nicht verständig nich mächtig
+#facs_282_r3l12 sind.
+#facs_282_r3l13 ƒ
+#facs_282_r3l14 Daß versprochene Ehe, vor dem Tod
+#facs_282_r3l15 oder Scheidung seiner Ehe-Menschen
+#facs_282_r3l16 nichts gelten soll.
+#facs_282_r3l17 8
+#facs_282_r3l18 Ob auch Einer oder Eine, vor solcher Scheide,
+#facs_282_r3l19 gung, oder bey Leben seines Ehegemahls,
+#facs_282_r3l20 einem anderen bey seinen Treuen und
+#facs_282_r3l21 Blauben, künfftige Ehe versprechen, oder
+#facs_282_r3l22 zu sagen Bürde, soll solche Ehe gar nicht gelten
+#facs_282_r3l23 und der Beyschlaff, so einicher unter loffen
+#facs_282_r3l24 nach der Satzung gestrafft werden.
+#facs_282_r3l25 Das die, so miteinanderen die Ehe
+#facs_282_r3l26 gebrochen oder im ledigen stand miteinander
+#facs_282_r3l27 Hureÿ getriben, nachdem hernach dar
+#facs_282_r3l28 einte oder andere in der Ehe gfen ein¬
+#facs_282_r3l29 anderen nicht ehelichen mögend
+#facs_282_r3l30 Dein Er sohn, so in der Ehe gewesen und Ehebrüchig
+#facs_282_r3l31 wo den soll noch mag nach Absterben ihres
+#facs_282_r3l32 Granahld
+#facs_283_r2l1 Bemahls, oder Rechtlicher Scheidigung
+#facs_283_r2l2 sey, was fehle von demselben, sich
+#facs_283_r2l3 mit dem verehelichen, mit welchem sie
+#facs_283_r2l4 die Ehe gebrochen, oder vor dem Ehestand
+#facs_283_r2l5 Zu rey getriben, es komme zu recht oder nicht
+#facs_283_r2l6 die Scheidigung seye von dieser fahls wegen
+#facs_283_r2l7 beschehen, oder nicht, damit Ärgernus ver¬
+#facs_283_r2l8 mitten bleibe, und ein ehrbahr leben
+#facs_283_r2l9 erhalten, und nicht anlaß, Ursach, und
+#facs_283_r2l10 Mickel zu übelthaten, so sich etbann zwischen
+#facs_283_r2l11 unwilligen, mühseligen Eheleüthen, und
+#facs_283_r2l12 Mord, heimlichem Nachstellen, und in
+#facs_283_r2l13 ander bey zu tragen möchten, geben werde
+#facs_283_r2l14 ne geschehen wurde, so einem nachgelaß¬
+#facs_283_r2l15 wäre, sein Huren oder Hüring zu Ehe zu
+#facs_283_r2l16 nemmen
+#facs_283_r2l17 Das ledige Persohnen, ob sie sich
+#facs_283_r2l18 wohl mit ein anderen vergehen,
+#facs_283_r2l19 hierinn nicht begriffen.
+#facs_283_r2l20 Wir wollen aber hiemit nicht verstanden
+#facs_283_r2l21 haben, daß zwo ledige Persohnen, so
+#facs_283_r2l22 mit einanderen Gemuthbillet, sich
+#facs_283_r2l23 nicht mögen mit ein anderen verehelich
+#facs_283_r2l24 sonderen daselbe soll ihnen zugelaßen
+#facs_283_r2l25 seyn.
+#facs_283_r2l26 Bann
+#facs_283_r3l1 547
+#facs_283_r3l2 Wann zwey sich mit einander neuen
+#facs_283_r3l3 Hurey vergehen, im Eheliche frucht
+#facs_283_r3l4 erzielend, und hernach jedweders
+#facs_283_r3l5 ich seiner Belegenheit nach
+#facs_283_r3l6 verehelichet, und eheliche Kinder
+#facs_283_r3l7 erzeugen, daß auch dieselben
+#facs_283_r3l8 einander nicht ehelichen sollen.
+#facs_283_r3l9 11.
+#facs_283_r3l10 Wann zbey miteinanderen Hurey getrieben,
+#facs_283_r3l11 und unEheliche Frucht erzeüget: Darauf
+#facs_283_r3l12 aber jedes sich anderst so verEhelichet, und
+#facs_283_r3l13 in solchem Ehestand wieder erzielend, deren
+#facs_283_r3l14 Theylen
+#facs_283_r3l15 keines mag des anderen Kinder zur Ehe
+#facs_283_r3l16 nemmen: Als welches wir hiemit darumb
+#facs_283_r3l17 verbotten haben wollen, daß obwohl die selben
+#facs_283_r3l18 Beblügte halber einan deren nichtsangehen
+#facs_283_r3l19 doch einjedes unter ihnen, der zu vor
+#facs_283_r3l20 erzeügten unEhelichen Fruchtnatürliche
+#facs_283_r3l21 Beschbüsterte, u, welche frucht ihre
+#facs_283_r3l22 Beschbüsterte, sind vom Vatter und
+#facs_283_r3l23 das andere von der Mutter beysammen
+#facs_283_r3l24 in der Ehe sehen wurde: solche Ergernuß
+#facs_283_r3l25 nun zu vermeiden, wolle wir, daß
+#facs_283_r3l26 derglichen Eheversprechungen nicht gelten
+#facs_283_r3l27 sollen.
+#facs_284_r2l1 Op sich die Aussätzigen mit den
+#facs_284_r2l2 Reinen nicht verehelichen sollen
+#facs_284_r2l3 12
+#facs_284_r2l4 Als ich hievor etbann begeben und noch,
+#facs_284_r2l5 künftigen sich zu tragen möchte, daß junge
+#facs_284_r2l6 oder alte gesunde Persohnen mit anderen, sich
+#facs_284_r2l7 des Außatzes schuldig und behafft, ich verEhel¬
+#facs_284_r2l8 und noch Ehelich verpflichten wolten, haben wir
+#facs_284_r2l9 Aus jederzeit, als auch nochmahlen entschloßen,
+#facs_284_r2l10 angesehen und gesezt: Die beile Rectes daß Herrn
+#facs_284_r2l11 Besatz vermag, und gar austruckenlich be¬
+#facs_284_r2l12 tient, daß die Unsauberin, und mit der
+#facs_284_r2l13 Maltzoy befleckten Persohnen, von den gesund¬
+#facs_284_r2l14 abgesünderet werden sollen, und dann auch der
+#facs_284_r2l15 Ausath, vermög unser Satzung, ein Ursach
+#facs_284_r2l16 Scheidigung ist: Als solle dergleichen Befleckter
+#facs_284_r2l17 mit gesunden Persohnen die Ehebezeugung
+#facs_284_r2l18 nimmer gestattet, sondern gleichfahls verbotte¬
+#facs_284_r2l19 und Unseren Ehe Richteren in könfftigen ein¬
+#facs_284_r2l20 gebunden und befohlen seyn, dieselben ihres
+#facs_284_r2l21 vorhabens gestraut abzuweisen, und da es gleich
+#facs_284_r2l22 wohl beschehen wäre, sie von einanderen biedern
+#facs_284_r2l23 zu scheiden.
+#facs_284_r2l24 Belche Freündschaft halb sich zu sahmen
+#facs_284_r2l25 vermählen mögen
+#facs_284_r2l26 13.
+#facs_284_r2l27 Nachdem Wir erstmahls angesehen, daß fürche
+#facs_284_r2l28 die Ehe zu bezeuhen, oder gemachte Ehe, wie recht ist,
+#facs_284_r2l29 nicht
+#facs_284_r3l1 tr
+#facs_284_r3l2 Micht solte hinderen, noch zertreuen
+#facs_284_r3l3 beinerley Alie Brod, noch ander Sachen
+#facs_284_r3l4 Dann die in Bödtlicher Schrifft Levit. am 18.
+#facs_284_r3l5 blarlich ausgetruckt werden, und deshalb
+#facs_284_r3l6 das mit Belt, und Dispensieren, erlange
+#facs_284_r3l7 aufgehebt, indem sich aber etlich in gar
+#facs_284_r3l8 nahen Baden der Sibschafft, und Magschafftl.
+#facs_284_r3l9 Ehelich vermischt, daraus viel Nachred
+#facs_284_r3l10 Schand, Aergernuß, und abscheuen ent¬
+#facs_284_r3l11 standen: solchem vorzu seyn, und damit
+#facs_284_r3l12 sich niemand vertieffe, sonderen
+#facs_284_r3l13 Manniglich bericht empfahr, in das Brade¬
+#facs_284_r3l14 und wie nach, auch mit Bein er sich verschelichen
+#facs_284_r3l15 nöge: So sind zu mehrerem Bericht und Unter¬
+#facs_284_r3l16 scheid, die verbottenen Grad, beyde Männliche
+#facs_284_r3l17 und Weiblichs Beschlechts, nach Böttlichem Besatz
+#facs_284_r3l18 hienach ausgesönderet, specificiert und verzeichnet
+#facs_284_r3l19 darbey soll männiglich bleiben, und Niemand ge¬
+#facs_284_r3l20 Zimmen noch vergönt werden, die, oder bat darin
+#facs_284_r3l21 ter begriffen und beschloßen ist, zu überfahren
+#facs_284_r3l22 dann ob jemand so fr äffen, der sich in diesen verbotten
+#facs_284_r3l23 Jählen und Graden, und das darunter begriffen
+#facs_284_r3l24 vertieffen, oder die Ehe bezeichen wurde, dieselbe
+#facs_284_r3l25 Ehe soll nichts gelten, und nicht destominder die
+#facs_284_r3l26 räbertreiter an Leib, Ehr, und Buth je nach
+#facs_284_r3l27 gestalt der Sachen gestrafft werden, Ist also
+#facs_284_r3l28 allein zugelaßen, daß die so im halben dritten
+#facs_284_r3l29 Slid, oder Grad, und darüber gefreündet sind
+#facs_284_r3l30 gun.
+#facs_284_r3l31 einanderen zur Ehenen
+#facs_284_r3l32 Es
+#facs_285_r2l1 Der Knab soll
+#facs_285_r2l2 nicht zur Ehe
+#facs_285_r2l3 haben noch
+#facs_285_r2l4 niemmen
+#facs_285_r3l1 (Seine Großmutter
+#facs_285_r3l2 Seine Mutter
+#facs_285_r3l3 seine Stieffmuter
+#facs_285_r3l4 Seiner Mutter (Sohns Tochter)
+#facs_285_r3l5 Tochter Tochter.
+#facs_285_r3l6 Seine Schwester von Vater
+#facs_285_r3l7 und Muter
+#facs_285_r3l8 Seine Schbester von Vater
+#facs_285_r3l9 oder von Muter allein
+#facs_285_r3l10 Seine Tochter
+#facs_285_r3l11 seines Sohns Tochter
+#facs_285_r3l12 Seiner Tochter Töchter
+#facs_285_r3l13 Des Vactors Schbester
+#facs_285_r3l14 Deß Vactors Bruders Fraus
+#facs_285_r3l15 Muter Schbester.
+#facs_285_r3l16 Der Muter Bruders Fraus
+#facs_285_r3l17 Seines Sohns Weib
+#facs_285_r3l18 Seines Bruders weis
+#facs_285_r3l19 seiner Frauen Tochter
+#facs_285_r3l20 seiner Frauen Sohns Tochter
+#facs_285_r3l21 seiner Weibs Tochter Töchter
+#facs_285_r3l22 seiner Frauen Sch bester
+#facs_285_r3l23 seine Schbiger.
+#facs_285_r3l24 a
+#facs_285_r4l1 - 551
+#facs_285_r4l2 Brorvatter
+#facs_285_r4l3 Vater
+#facs_285_r4l4 StieffVatter
+#facs_285_r4l5 Sohns Sohn
+#facs_285_r4l6 Ihrer Vaters
+#facs_285_r4l7 Tochter Sohn
+#facs_285_r4l8 Bruder von Vater und
+#facs_285_r4l9 Muter
+#facs_285_r4l10 Bruder von Vater oder
+#facs_285_r4l11 Muter allein
+#facs_285_r4l12 Sohne
+#facs_285_r4l13 Sohns Sohn
+#facs_285_r4l14 Tochter Sohn.
+#facs_285_r4l15 Waiteres Bruder
+#facs_285_r4l16 Muter Bruder
+#facs_285_r4l17 Das Magdlein
+#facs_285_r4l18 Vaters Schbester Mann
+#facs_285_r4l19 mag nicht zur
+#facs_285_r4l20 Muter Schbester Mann
+#facs_285_r4l21 Ehe haben noch
+#facs_285_r4l22 Tochter Mann
+#facs_285_r4l23 nommen ihren
+#facs_285_r4l24 Schbester Mai
+#facs_285_r4l25 Mans Sohn
+#facs_285_r4l26 Mannes Sohns Sohn
+#facs_285_r4l27 Mans Tochter Sohn
+#facs_285_r4l28 Manns Bruder
+#facs_285_r4l29 Ihren Sichbäher
+#facs_285_r4l30 Øbrige Verboit sind in folgenden
+#facs_285_r4l31 sonderbahren Sozungen begriffen
+#facs_286_r1l1 des 2
+#facs_286_r1l2 Deschbüsterte=Kinder vorbehr
+#facs_286_r1l3 die einander nicht Ehelichen solle
+#facs_286_r1l4 14
+#facs_286_r1l5 Wir wollen hiemit auch streng und vestiglich
+#facs_286_r1l6 abestreckt und verbodten haben; daß sich
+#facs_286_r1l7 niemand hinfüre im Schrad geschbüstert
+#facs_286_r1l8 vom Bibliothek
+#facs_286_r1l9 Einderen, oder näher, verheürate; daß
+#facs_286_r1l10 Vor das übersehe, der soll (die obgemell)
+#facs_286_r1l11 mutatz ut infra
+#facs_286_r1l12 st.) an Leib, Ehr und Guth, härtiglich
+#facs_286_r1l13 pag: 746. 747.
+#facs_286_r1l14 gestraff: desgleichen die Ehe, so darbiet
+#facs_286_r1l15 1748
+#facs_286_r1l16 bezogen, zu nichts erbaut: Welche aber
+#facs_286_r1l17 weiter und über diesen Grad sind, es
+#facs_286_r1l18 seye in Sibschafft des Bluts, oder Magschaft
+#facs_286_r1l19 und hiemit auch diejenigen, da allein
+#facs_286_r1l20 der eint Theyl über den Grad der
+#facs_286_r1l21 Besch büster von Kindern hinaus ist, und
+#facs_286_r1l22 die allso einanderen im halben dritten
+#facs_286_r1l23 Brau verwandt, mögen boht für Ehelich
+#facs_286_r1l24 er konst, und in den Ehestand zu samme
+#facs_286_r1l25 gelaßen werden. Darnach wiße sich
+#facs_286_r1l26 Männiglich zu richten, und für Schaden
+#facs_286_r1l27 zu verbahren.
+#facs_286_r1l28 Meines
+#facs_286_r2l1 usz.
+#facs_286_r2l2 Meiner Frauen Schwester Tochter,
+#facs_286_r2l3 wie auch seiner Frauen Schwester
+#facs_286_r2l4 Tochter Tochter belangend
+#facs_286_r2l5 15
+#facs_286_r2l6 Wir wollen auch nicht gestatten, daß
+#facs_286_r2l7 Einer seiner Frauen Schbestr Tochter
+#facs_286_r2l8 noch seiner Frauen Schwester Tochter¬
+#facs_286_r2l9 Tochter. Und hinwiederum ein Frau
+#facs_286_r2l10 Ihres Ehemand Bruders Sohn, noch
+#facs_286_r2l11 ihres Ehemanns Bruders Sohns Sohn
+#facs_286_r2l12 ehelichen mögen noch solle
+#facs_286_r2l13 daß keiner, oder keine, seiner
+#facs_286_r2l14 abgestorbenen Ehegemahls Stieff¬
+#facs_286_r2l15 Vatter oder Mutter zur Ehe nommen¬
+#facs_286_r2l16 soll,
+#facs_286_r2l17 16
+#facs_286_r2l18 Wir wollen auch, von Ehrbahrkeit und
+#facs_286_r2l19 näher Verbandtschafft wegen ernstlich ge=
+#facs_286_r2l20 meint und gewöhnlich verboten haben, daß
+#facs_286_r2l21 bey, deren eins deß anderen Stieffvater
+#facs_286_r2l22 oder Stieffmuter zu vor zur Ehegehabt, ein-
+#facs_286_r2l23 anderen nicht ehelichen mögend, zestbegen
+#facs_286_r2l24 soll niemand sich gelusten laßen, in
+#facs_286_r2l25 solche nahe Verbandtschafft zu heürathen.
+#facs_286_r2l26 bey hoher Straff und Ungnad, neben
+#facs_286_r2l27 der Richtigkeit der Ehe.
+#facs_286_r2l28 Jos.
+#facs_287_r1l1 Daß keiner seines Stieffvadters
+#facs_287_r1l2 verlaßene Ehelichen solle
+#facs_287_r1l3 7
+#facs_287_r1l4 ben so wenig soll einem seines Stiefften
+#facs_287_r1l5 verlaßene Wittben, oder eineren
+#facs_287_r1l6 ihrer Stieffmater verlaßenen Wichli¬
+#facs_287_r1l7 zur Ehe zu nemmen zugelaßen, sondern
+#facs_287_r1l8 ein solche zu sohenen Vermählung, die
+#facs_287_r1l9 nicht allein vergerlich, sonderen auch
+#facs_287_r1l10 abscheülich wäre, nicht minder ernst¬
+#facs_287_r1l11 und gänzlich verbotten seyn.
+#facs_287_r1l12 Daß in zweifelhafftigen Fählen
+#facs_287_r1l13 und Stafflen der Freundschafften
+#facs_287_r1l14 Die Eherichter sollen Rahts gefragt werden
+#facs_287_r1l15 18
+#facs_287_r1l16 Ob aber solcher Pählen und Fründschaffl.
+#facs_287_r1l17 halb, etbau Spahn, Mißverstand oder
+#facs_287_r1l18 Zweifel bey dem gemeinen Mann, so tillenst
+#facs_287_r1l19 dieser Dingen halb nicht verständigenen erfallen
+#facs_287_r1l20 burden, damit sich unbüßender Dingen
+#facs_287_r1l21 halb niemand vertieffe, so sollen allbege
+#facs_287_r1l22 vor Bezeühung der Ehe die Ehe Richter Papt
+#facs_287_r1l23 gefragt und bescheid, und Läuterung, von
+#facs_287_r1l24 Zuthun oder zu laßen seye, von Ihnen
+#facs_287_r1l25 er forderet und genommen werden.
+#facs_287_r1l26 Xbr.
+#facs_287_r2l1 ue 555.
+#facs_287_r2l2 Der Witten Halber
+#facs_287_r2l3 In
+#facs_287_r2l4 Zu Vermeidung allerhand Rachreden
+#facs_287_r2l5 und Anstoßes, auch zu erhaltung der
+#facs_287_r2l6 der Ehrbahrkeit, haben wir gesetzt, daß
+#facs_287_r2l7 hinfüro kein Weib, vor Verfließung
+#facs_287_r2l8 eines Jahrs, von dem Tod Ihres abgestor¬
+#facs_287_r2l9 benen Ehemans an zu rechnen, zu
+#facs_287_r2l10 anderer Ehe greiffen solle: Sonderen
+#facs_287_r2l11 biß dahin sich enthalten, und vorhero
+#facs_287_r2l12 sich bemer mit ihrer Verbinden solle,
+#facs_287_r2l13 -
+#facs_287_r2l14 Bey Vermeidung unserer Straff-
+#facs_287_r2l15 und bey Paen der ungültigkeit der
+#facs_287_r2l16 Ehe
+#facs_287_r2l17 Johmisch Catholische Weiber und
+#facs_287_r2l18 Heurathen Verboten
+#facs_287_r2l19 20
+#facs_287_r2l20 Solche Heürath mit Römisch Catholischen
+#facs_287_r2l21 Weiberen sollen in unseren Landen
+#facs_287_r2l22 immer geduldet werden; Wann sich
+#facs_287_r2l23 aber jemand der unseren allso vergeßen
+#facs_287_r2l24 bürde, daß er außert Unseren Landen
+#facs_287_r2l25 einesolche Person Ehelichen Bürde, soll
+#facs_287_r2l26 Er sein Wackerland samt allem dannenhero
+#facs_287_r2l27 in oder äußert Lands fließenden Genooß
+#facs_287_r2l28 verbürckt
+#facs_288_r2l1 verbürcht haben, auch sein habend
+#facs_288_r2l2 Ruth zu unseren Oberheitlichen
+#facs_288_r2l3 Handen confisciert: Er aber ins fünffti¬
+#facs_288_r2l4 in Unseren Landen etwas zu Erben
+#facs_288_r2l5 unkehig seyn.
+#facs_288_r2l6 Daß ein jede Ehe mit offentliche
+#facs_288_r2l7 Hirchgang solle vollzogen werden.
+#facs_288_r2l8 21.
+#facs_288_r2l9 Sargbohn, Hinderred und Betrug zu
+#facs_288_r2l10 vermeiden, soll ein jegliche Ehe öffentlich
+#facs_288_r2l11 in der Kirchen auf drey nachemader
+#facs_288_r2l12 folgende Sonntagen, so wohl in der Hochzeit
+#facs_288_r2l13 Leüthen Heymat, als aber an denen
+#facs_288_r2l14 orthen, da sie zur selben Zeit sich aufhalten,
+#facs_288_r2l15 verbündet, und zuerthalb sechs Wochen
+#facs_288_r2l16 nach der Versprechung, mit offentlich
+#facs_288_r2l17 Wirchgang bezeüget werden: auff daß
+#facs_288_r2l18 mann müße vor Ehelichen Bey einandere
+#facs_288_r2l19 size oder nicht: Damit aus der Ehe
+#facs_288_r2l20 nicht ein Hürey werde: Dann wir je
+#facs_288_r2l21 solches und größeres, um des Rächsten
+#facs_288_r2l22 eillen schuldig und verbunden sind:
+#facs_288_r2l23 Die es aber übersehen Hänger anstehen
+#facs_288_r2l24 Lasser
+#facs_288_r3l1 557.
+#facs_288_r3l2 Laßen, und aber beywohnen zu¬
+#facs_288_r3l3 sammen haben wurden, sollen für
+#facs_288_r3l4 horgricht beschickt und vermahnt
+#facs_288_r3l5 werden, ihr Hochzeit für derlich zu
+#facs_288_r3l6 erstaeten, damit Äergermiß ver¬
+#facs_288_r3l7 muten bleibe: Und soll einjeglicher
+#facs_288_r3l8 Pfarrherr alle solche Persohnen in
+#facs_288_r3l9 den Eheredel einschreiben, und keine
+#facs_288_r3l10 dem anderen seine Kircx gehörigen
+#facs_288_r3l11 ohne sein Kunst und Willen öffentlich
+#facs_288_r3l12 insegnen
+#facs_288_r3l13 Wakung in Descidung
+#facs_288_r3l14 der Cse zu brautsen.
+#facs_288_r3l15 Daß kein Ehemensch das ander
+#facs_288_r3l16 umb einigerley Ursach Billen
+#facs_288_r3l17 ohne Recht verlasen soll.
+#facs_288_r3l18 1
+#facs_288_r3l19 Hiebeil sich aus Zeugen d. Bödtlichen
+#facs_288_r3l20 und menschlichen Rechtens erfindt
+#facs_288_r3l21 daß die Ehescheidung in etlichen
+#facs_288_r3l22 fehlen und artielen zugelaßen, auch
+#facs_289_r2l1 Zu erhaltung Ehelichen standt
+#facs_289_r2l2 und anderem guten, nüzlich
+#facs_289_r2l3 und nothendig ist, und aber hierin
+#facs_289_r2l4 viel Betrug, Aufsatz, und Befährlich¬
+#facs_289_r2l5 beiten von den ärglistigen Bemüther
+#facs_289_r2l6 biß har gesucht, und geringe Ursachen
+#facs_289_r2l7 zur Scheidigung genommen worden:
+#facs_289_r2l8 Haben wir zu verhütung deßelben.
+#facs_289_r2l9 geordnet und gesetzt: Daß keinem
+#facs_289_r2l10 Ehemeschen gezieme, sich von dem
+#facs_289_r2l11 anderen eigenen Abalts und fürnemen
+#facs_289_r2l12 aus bas Ursach doch das Bäre, abzusammen
+#facs_289_r2l13 zertreuen, oder sein Ehegemahl von Ihm
+#facs_289_r2l14 selbe fräfentlich zu verlaßen, sondern
+#facs_289_r2l15 sollen sich tugentlich und freundlichen
+#facs_289_r2l16 einanderen leiden, und vertragen
+#facs_289_r2l17 und keiner durch fräfene, unbillich
+#facs_289_r2l18 onnothbendige Klägten, Befehrd, Kist,
+#facs_289_r2l19 Parben, noch Ansprachen, zur Scheidigung
+#facs_289_r2l20 Ursachen suchen noch anbringen.
+#facs_289_r3l1 d 559
+#facs_289_r3l2 Riemand soll zur Scheidigung etc.
+#facs_289_r3l3 dichtete Klagen führen
+#facs_289_r3l4 2.
+#facs_289_r3l5 Es soll auch hiemit mänglich ge¬
+#facs_289_r3l6 Bahrnet seyn, das sich niemand
+#facs_289_r3l7 unbegründter, erdichteter Klagen.
+#facs_289_r3l8 und Ursachen, zu scheiden anmaßen.
+#facs_289_r3l9 oder einchen List und Befehrd hierin
+#facs_289_r3l10 brauche: Dann ob jemand hierin einge¬
+#facs_289_r3l11 recht, und betrüglich erfunden, und
+#facs_289_r3l12 Unsere Ehrrichter solches eigentlich er¬
+#facs_289_r3l13 dauren und erkennen Burden, der
+#facs_289_r3l14 soll an seinem Leib, Leben Ehr und
+#facs_289_r3l15 duth nach große einer Verschuldi¬
+#facs_289_r3l16 gung gestrafft werden.
+#facs_289_r3l17 Von denen die sich Erdichteter
+#facs_289_r3l18 6
+#facs_289_r3l19 Taubzucht und Unsinnigkeit gebrauchen
+#facs_289_r3l20 Wann es sich begäbe, daß, so eines seines
+#facs_289_r3l21 Ehegemahls sach und müd, durch angenommene
+#facs_289_r3l22 der Simulierte Taubsucht, oder Trunkener
+#facs_289_r3l23 weis sich hirn bütig und unwirscherzeigen,
+#facs_289_r3l24 oder
+#facs_290_r2l1 Oder das andere umbzubringen,
+#facs_290_r2l2 und zu töden bedrauen Bürde, allein
+#facs_290_r2l3 auf das End hin, daß sein Ehegemahl
+#facs_290_r2l4 Dardurch getrieben und verursachet
+#facs_290_r2l5 burde, die Scheidigung zu suchen, I.
+#facs_290_r2l6 solchem Fahl, wollen Wir, bann Mai
+#facs_290_r2l7 oder Weis einem Ehrsammen Chorgen
+#facs_290_r2l8 blagte, daß sein Ehegemahl sich sotaus
+#facs_290_r2l9 cütig und um wir sich gegen ihme erzeigte
+#facs_290_r2l10 mit Worten und Werken, es auch,
+#facs_290_r2l11 rauch und ungebührlich tractierte
+#facs_290_r2l12 und hielte, daß es solches nicht erduld
+#facs_290_r2l13 Noch leiden könte, auch Leibs und Lebens¬
+#facs_290_r2l14 nicht sicher, und derhalben die Scheidigung
+#facs_290_r2l15 begehren wurde, dieser Wüten aber, oder
+#facs_290_r2l16 obgemeldt, Simutiert und sonst angenommen
+#facs_290_r2l17 wäre. Das ohngeacht diesers begehrent
+#facs_290_r2l18 hinführo dergleichen Ehe, (weil die heiligen
+#facs_290_r2l19 Schrift das nicht zu last) nicht solle geschehen
+#facs_290_r2l20 den, sondern ein solche ungestühme
+#facs_290_r2l21 cütende Persohn für das erste mahl.
+#facs_290_r2l22 durch die Eherrichter, von solchem Un-
+#facs_290_r2l23 reimlichenuwesen, mit ernsthoffen Worte,
+#facs_290_r2l24 as
+#facs_290_r3l1 761.
+#facs_290_r3l2 Ab, und zu enderung und verbeßer
+#facs_290_r3l3 nung seines Lebens vermahnt werden
+#facs_290_r3l4 da aber solcher nicht so viel erschießen
+#facs_290_r3l5 dann daß sie allso fürfahren, und es
+#facs_290_r3l6 geklagt wurde: Alsdann gegen einer
+#facs_290_r3l7 solchen Persohn, zum anderen mahl mit
+#facs_290_r3l8 der auch harter Befangen
+#facs_290_r3l9 gemeiner
+#facs_290_r3l10 schafft, je nach gestalt der Sach procediert
+#facs_290_r3l11 werden: Wann aber auch dis Mictel
+#facs_290_r3l12 nicht bürven wolte, sollen die Ehe¬
+#facs_290_r3l13 Richter für das Dricke mahl ein
+#facs_290_r3l14 enträbige
+#facs_290_r3l15 solch bütende Persohn, und deren Hand¬
+#facs_290_r3l16 lung, für Uns die Oberkeit bringen
+#facs_290_r3l17 dieselbe an Leib, Leben, Ehr und But,
+#facs_290_r3l18 oder verbei unter Stadt und Land¬
+#facs_290_r3l19 se nach gestalt der Sach anderen zu
+#facs_290_r3l20 einem augen iheinlichen Exempel
+#facs_290_r3l21 zu straffen
+#facs_290_r3l22 Scheidens halb, Sie sich die Richter
+#facs_290_r3l23 halten sollen.
+#facs_290_r3l24 4
+#facs_290_r3l25 Sie weil sich für und für viel schädens
+#facs_290_r3l26 zuträgt, daran männiglich bedaurend hat,
+#facs_290_r3l27 welches
+#facs_291_r2l1 Wohler mit Aufzug des Rechtens
+#facs_291_r2l2 vielleicht gebeudt werden, und die
+#facs_291_r2l3 unschuldige Persohn sich inzbüschen be¬
+#facs_291_r2l4 denken, und bereden laßen möchte.
+#facs_291_r2l5 ihres für genommenen Rechtens abzu¬
+#facs_291_r2l6 Ist hierüber erläuteret: daß die Ehe¬
+#facs_291_r2l7 Richter solche Persohnen, nach ihrem Bur¬
+#facs_291_r2l8 bedunken, und gestalt der Ursach, ab¬
+#facs_291_r2l9 zu beisen, und aufzuhalten, und Auf¬
+#facs_291_r2l10 gelegnere Zeit zu bescheiden, Gebalt
+#facs_291_r2l11 haben sollen. Oder auch je, nach beschei¬
+#facs_291_r2l12 fenen sachen und Umständen, zu zu,
+#facs_291_r2l13 geben, daß solche Eheleüth auf eine bestimme
+#facs_291_r2l14 zeit sich ton einanderen sönderen möge.
+#facs_291_r2l15 In Hoffnung, daß mit et bas Zeit lauff,
+#facs_291_r2l16 uns inzbüschen beschehendem freündlichen
+#facs_291_r2l17 zu sprechen, Freunden, verbandten, der
+#facs_291_r2l18 Beistlichen oder anderer ehrbahren Pei=
+#facs_291_r2l19 sohnen, der Frieden vermittlet werden,
+#facs_291_r2l20 könne: Da der nöthigen Verpflegung
+#facs_291_r2l21 halber, solchen Jahls Unserem oberen
+#facs_291_r2l22 Schorgricht das billiche zu verordnen über¬
+#facs_291_r2l23 Laßen wird; Doch alles in dem Verstand
+#facs_291_r2l24 fir
+#facs_291_r3l1 x 563.
+#facs_291_r3l2 für die Ofersohn, so sich zu beklagen
+#facs_291_r3l3 vermeinte, daß selbe sich dest wegen
+#facs_291_r3l4 vor und angeben möge.
+#facs_291_r3l5 Daß man umb alle Ehe sachen
+#facs_291_r3l6 vor den Eherichteren zu Recht
+#facs_291_r3l7 kommen soll.
+#facs_291_r3l8 5
+#facs_291_r3l9 Ob aber je ein oder das ander Ehe¬
+#facs_291_r3l10 gemahl genugsamme und Ehehaffte Ursachen
+#facs_291_r3l11 zu der Scheidigung zu haben vermeinen.
+#facs_291_r3l12 und sich in keinen Weg abbeisen, noch
+#facs_291_r3l13 begütigen laßen solte: So sollen sie
+#facs_291_r3l14 für die Eherichter Behren, denen Ihr
+#facs_291_r3l15 anligen erzehlen, und Ihrer Erkantnuß
+#facs_291_r3l16 inn des Rechtens darumb gewahrten
+#facs_291_r3l17 Wie die Richter, so man für sie
+#facs_291_r3l18 ..
+#facs_291_r3l19 zu Recht komt, sich zu halten
+#facs_291_r3l20 6
+#facs_291_r3l21 Die Eheflichter sollen mit Ehe-Scheidung
+#facs_291_r3l22 nicht eylen: Sonderen dieselbe, so lang
+#facs_291_r3l23 sie mögen, Behren und aufhalten, solche
+#facs_291_r3l24 auch ohne Sichtige und Rath-tringende
+#facs_291_r3l25 Ursach nicht ergehen laßen: Und daßwegen
+#facs_291_r3l26 den
+#facs_292_r2l1 In Anlas, die Umstand un¬
+#facs_292_r2l2 Ursach einer jeden Ehe, ach, es seye
+#facs_292_r2l3 durch Kundschafft oder andere fügliche
+#facs_292_r2l4 Mittel gründlich und eigentlicher¬
+#facs_292_r2l5 dauren: daß gleichen alle ding, nach
+#facs_292_r2l6 Bestalt und gelegenheit der Sachen
+#facs_292_r2l7 und Klägten, und deren gebüßheit
+#facs_292_r2l8 mit großem Ernst Wohl erlegen und
+#facs_292_r2l9 ermeßen, und allen einglichen flei¬
+#facs_292_r2l10 enbenden, die Ehe-far theyen der
+#facs_292_r2l11 Scheidigung abzu beisen, und so dann
+#facs_292_r2l12 alles das versucht, so zu versuchen ist
+#facs_292_r2l13 und aber die Versuchung je nicht
+#facs_292_r2l14 tact haben möchte: So mögen dann
+#facs_292_r2l15 die Richter, nach befundener Gestalt
+#facs_292_r2l16 der Sach, und ihrer Fürsichtigkeit,
+#facs_292_r2l17 handlen und erkennen, das vor sie recht
+#facs_292_r2l18 ehrbar und billich bedunket: Doch
+#facs_292_r2l19 wie ob gedacht, mein and scheiden ohne
+#facs_292_r2l20 richtige, tringende und genugsamme Ursachen,
+#facs_292_r2l21 Marum die Scheidigung ergehen möch¬
+#facs_292_r2l22 7.
+#facs_292_r2l23 fürnemlich so ein Chemensch das ande¬
+#facs_292_r2l24 nit offenem lästerlichem Ehebruches,
+#facs_292_r2l25 sicht, ohne des anderen Schuld und
+#facs_292_r2l26 Ursach
+#facs_292_r4l1 [563]
+#facs_292_r4l2 sach, und der vor dem Ehe Bricht, mit
+#facs_292_r4l3 offener gnugsammer kundschafft (wie
+#facs_292_r4l4 man andere Sachen nach Unseren
+#facs_292_r4l5 Stadt Rechten erbahren soll) erfunden
+#facs_292_r4l6 und er biesen Sie recht ist, oder an
+#facs_292_r4l7 offener That, so gebärdlich und arg bönisch
+#facs_292_r4l8 funden wird, daß die That mit keiner
+#facs_292_r4l9 Bstalt der Warheit mag verlaugnet
+#facs_292_r4l10 werden: Darum mögen die Richter
+#facs_292_r4l11 Co. kein Mittel, Stict, noch Unterthä¬
+#facs_292_r4l12 digung, an dem unschuldigen, beieobstaht
+#facs_292_r4l13 helffen bill, die Scheidigung ergehen laßen.
+#facs_292_r4l14 So aber ein Ehegemahl an dem anderen
+#facs_292_r4l15 Ehebrüchig, und das Unschuldig dem anderen
+#facs_292_r4l16 verzeucht und vergibt, und sich allso nicht
+#facs_292_r4l17 von ihme zu scheiden begährt; das laßen Wir
+#facs_292_r4l18 wie offt eines dem anderen also übersehen,
+#facs_292_r4l19 beschehen, doch daß allbegen nicht desto min¬
+#facs_292_r4l20 der die Straff ihren Fürgang habe, und sol¬
+#facs_292_r4l21 ches derselben genabbruchig seye.
+#facs_292_r4l22 Item, so eins Leib und Leben verbürtet, aus¬
+#facs_292_r4l23 sätzig, bütig und Unsinnig, daß Sie vor,
+#facs_292_r4l24 Emanderen nicht sicher, und da kein Aende
+#facs_292_r4l25 gung zu hoffen, und ob etwann aus Unver
+#facs_292_r4l26 möglichkeit der Natur, und anderen
+#facs_292_r4l27 Mänglen, zu ehelichen Werten nicht zugenlich
+#facs_292_r4l28 berat
+#facs_293_r2l1 pr
+#facs_293_r2l2 dere. Doch oll wie obstaht hierinn
+#facs_293_r2l3 nicht geeilt, sonderen der Außäthigkeit
+#facs_293_r2l4 Taubsucht uns Unsinngkeit, deßgleich
+#facs_293_r2l5 Der Unvermöglichkeit halb, zu vor
+#facs_293_r2l6 Hülff und Raht der Aertzten, durch
+#facs_293_r2l7 Statürliche Arzney, und andere füg¬
+#facs_293_r2l8 liche Michel, ob die je biederzubringen
+#facs_293_r2l9 gesucht werden; so dann nichts helffen
+#facs_293_r2l10 würde, mag man auch die Scheidigung
+#facs_293_r2l11 ergehen laßen, dem Gesunden zurich
+#facs_293_r2l12 zu vermeiden, darum die Ehe von
+#facs_293_r2l13 Bort eingesezt ist.
+#facs_293_r2l14 Der Untermöglichen halb, daß
+#facs_293_r2l15 die ein Jahr lang bey einandere
+#facs_293_r2l16 verbleiben sollen.
+#facs_293_r2l17 8
+#facs_293_r2l18 Aber in dem Stahl der Ehe vermöglich
+#facs_293_r2l19 heit, sollen nicht desto minder beyd
+#facs_293_r2l20 Theyl ein Jahr lang bey einander bohne
+#facs_293_r2l21 Wurde es sich dann nicht beßeren, mag
+#facs_293_r2l22 man sie nach verfließung des Jahrs
+#facs_293_r2l23 scheiden, und sich anderst wo verheüratet
+#facs_293_r2l24 lasen: So sehr daß die geschbornen
+#facs_293_r3l1 567
+#facs_293_r3l2 Merzte, so dieser Dingen Verstand haben
+#facs_293_r3l3 darüber Rahts gefragt, und solcher Män=
+#facs_293_r3l4 gel uns unvermöglichkeit den Richter
+#facs_293_r3l5 en nur gemacht werde.
+#facs_293_r3l6 Der lauterung der Aussazigheit halb.
+#facs_293_r3l7 9.
+#facs_293_r3l8 Wann der leydige Ausatz an einer
+#facs_293_r3l9 verEhelichten Persohn sich erzeigt, soll
+#facs_293_r3l10 von der Zeit an, da solches vor dem
+#facs_293_r3l11 Richter geklagt worden, das Unreine
+#facs_293_r3l12 Ehegemahl schuldig seyn, von bewahrten
+#facs_293_r3l13 und erfahrnen vertzten Medicament
+#facs_293_r3l14 und Mittel zu gebrauchen, um sich
+#facs_293_r3l15 curieren zu laßen; Jahls aber nach
+#facs_293_r3l16 verfloßenem Jahr und Tag, von der Zeit
+#facs_293_r3l17 an zu rechnen, da es angezeigt worden
+#facs_293_r3l18 von bewährten uns erfahrnen Aerzten be¬
+#facs_293_r3l19 zeugt wurde, daß keine Heilung zu hoffen
+#facs_293_r3l20 mag dann zu mahlen dem reinen
+#facs_293_r3l21 Theil die Scheidigung auch begehren
+#facs_293_r3l22 ertheilt werden.
+#facs_293_r3l23 Anderer
+#facs_294_r2l1 Anderer Zuföhlen halb, darum
+#facs_294_r2l2 rein aus treuliche Satzung.
+#facs_294_r2l3 18
+#facs_294_r2l4 Haben wir, weilen sich dieselben
+#facs_294_r2l5 unterschiedenlich und migleich
+#facs_294_r2l6 zu tragen, nichts gebüßers Statuieren
+#facs_294_r2l7 und ordnen können. Zestwegen vor
+#facs_294_r2l8 sich ein fahl begeben würde, darum
+#facs_294_r2l9 kein Sozung verhanden, soll die Sach¬
+#facs_294_r2l10 Danzumahl an Uns oder Einen Ehr¬
+#facs_294_r2l11 sammen Raht gelangen
+#facs_294_r2l12 Daß Unreine, raubhuchtige und
+#facs_294_r2l13 Unsinnige, nach der Scheidigung
+#facs_294_r2l14 nicht desto minder verpflegt werden.
+#facs_294_r2l15 solle.
+#facs_294_r2l16 11.
+#facs_294_r2l17 So auch jemandt also der Taubsucht
+#facs_294_r2l18 oder Maltzey halb gescheiden wurde.
+#facs_294_r2l19 deßelben gelaßen Bemahl soll gleichbahr
+#facs_294_r2l20 schuldig seyn, solches nach zimlicher
+#facs_294_r2l21 Rothdurfft, und allein seinem Vermögen
+#facs_294_r2l22 zu versorgen.
+#facs_294_r2l23 [i,]
+#facs_294_r3l1 569
+#facs_294_r3l2 Wie Ein hingeloffen Gemensch von
+#facs_294_r3l3 seinem Hinderlaßenen, so hinder
+#facs_294_r3l4 Uns sich beruffen werden soll,
+#facs_294_r3l5 12
+#facs_294_r3l6 So ein Ehemensch das ander, und Ber¬
+#facs_294_r3l7 fehrden und Leichtfertigkeit, eigenem
+#facs_294_r3l8 vermeßenen Muthbillon und Godheit
+#facs_294_r3l9 verlaßen und von ihme lauffen würde,
+#facs_294_r3l10 soll dem Verlaßnen darinn nicht ver¬
+#facs_294_r3l11 gönt und erlaubtseyn, sich mit jemand
+#facs_294_r3l12 zu versprachen, noch zu verschlichen, son
+#facs_294_r3l13 deren gewiesen werden, fleißige Rachfrag
+#facs_294_r3l14 nach dem hingeloffenen zu haben, und
+#facs_294_r3l15 so es dann erfragt, und weißt, wo daßelbige
+#facs_294_r3l16 , mag es die Eheschichter umb Recht im
+#facs_294_r3l17 Hül. anzusen. Die sollen dann der
+#facs_294_r3l18 hingeloffenen auf einen bestimten Tag
+#facs_294_r3l19 sicher Bleit zum Rechten, und biederumb
+#facs_294_r3l20 darvon geben, mit Wahrnung, es komme
+#facs_294_r3l21 oder bleibe aus, daß nicht destominder und
+#facs_294_r3l22 Rechten werde für gefahren, und so es nicht
+#facs_294_r3l23 erscheine, ihme alsdan Stadt und Land ver¬
+#facs_294_r3l24 botten werden: So es aber auf solche Ein¬
+#facs_294_r3l25 ladung ungehorsam bleiben, und nicht
+#facs_294_r3l26 erscheinen.
+#facs_295_r2l1 Erkennen, auch dem Richteren vor
+#facs_295_r2l2 dem plagen den Theil glaublich U.
+#facs_295_r2l3 kund gebracht bürde, daß ihme die
+#facs_295_r2l4 Verkündung zu vißen kommen wäre.
+#facs_295_r2l5 so mögen sie ihme je zu dreyen Tagen
+#facs_295_r2l6 und sechs Wochen, durch drey offene
+#facs_295_r2l7 Verkündigungen zum Dricten mahl
+#facs_295_r2l8 doch nicht mehr Persohnlich und unte
+#facs_295_r2l9 Augen, die Tag=Sazungen an offenen
+#facs_295_r2l10 Cantzlen, in den Herschafften und Kirch¬
+#facs_295_r2l11 hörimmen, da die hingeloffene Persohn
+#facs_295_r2l12 vor ihrem Hinscheid anheimisch gewesen
+#facs_295_r2l13 und zu Haus geseßen, verkünden laßen
+#facs_295_r2l14 und so es dann ungehorsam ausbleibt, und
+#facs_295_r2l15 das Recht nicht besucht, als dann die Richter
+#facs_295_r2l16 fürfahren, und erkennen, was sie nach
+#facs_295_r2l17 Bestalt und Belegenheit der Sach billig
+#facs_295_r2l18 bedunkt.
+#facs_295_r2l19 Welches sein hingeloffen EheBemahl
+#facs_295_r2l20 nicht erfragen mag.
+#facs_295_r2l21 13
+#facs_295_r2l22 Fahls aber das Verlasen das hingeloffene
+#facs_295_r2l23 nicht erfragen xyz betrecten, und das
+#facs_295_r2l24 nöchte.
+#facs_295_r2l25 beglaubter maßen erhalte.
+#facs_295_r2l26 B
+#facs_295_r3l1 571.
+#facs_295_r3l2 So soll es ein Jahr und ein Tag still
+#facs_295_r3l3 stehen, sich enthalten, und mittler
+#facs_295_r3l4 Zeit mit niemand ich versprechen
+#facs_295_r3l5 noch verEhelichen. Wann dann es noch
+#facs_295_r3l6 Erscheinung des Jahrs Recht anrisffen,
+#facs_295_r3l7 sollen die Ehepfichter mit den dreyen
+#facs_295_r3l8 hievor bemeldten Stüffen fürfahren
+#facs_295_r3l9 und so dreymahl drey Tag und Sechs
+#facs_295_r3l10 Wochen verfloßen, und das hingeloffene
+#facs_295_r3l11 zum Rechten nicht erschinne, als dann
+#facs_295_r3l12 mögen sie dem Verlaßenen das Recht¬
+#facs_295_r3l13 und was Sie billich bedunckt, daß Un
+#facs_295_r3l14 gehorsammen Ausbleibens unangesehen,
+#facs_295_r3l15 ergehen laßen
+#facs_295_r3l16 So das beruffene Ehegemahl aus¬
+#facs_295_r3l17 bleibt, oder nachdem es dem Rechten
+#facs_295_r3l18 begegnet, wiederum hinlaufft, bis
+#facs_295_r3l19 es verschuldet haben.
+#facs_295_r3l20 14.
+#facs_295_r3l21 Würde aber der citierte Theil zum
+#facs_295_r3l22 Rechten begegnen, und aber der
+#facs_295_r3l23 Urtheil, die ihme gesprochen, nicht geleben
+#facs_295_r3l24 sonderen sich wiederumb an deren
+#facs_295_r3l25 vier ohngeacht der citation, nicht
+#facs_295_r3l26 erscheinen
+#facs_296_r2l1 Erscheinen Soll ein solche Persohn
+#facs_296_r2l2 Unser Stadt und Land verbürch¬
+#facs_296_r2l3 haben, und wo sie dann hernach in
+#facs_296_r2l4 Unseren Landen und Bebieren
+#facs_296_r2l5 betrecken werden mag als dann
+#facs_296_r2l6 Ihre der Eyd von Stadt und Land¬
+#facs_296_r2l7 geben, und darzu der Oberkeit
+#facs_296_r2l8 unter deren Sie sich niderlast, ver¬
+#facs_296_r2l9 leidet, auch als ungehorsam und
+#facs_296_r2l10 unbußfertig verruffen, und münd
+#facs_296_r2l11 mehr darein gelaßen werden: Es
+#facs_296_r2l12 Bäre dann Sach, daß an derselben ge¬
+#facs_296_r2l13 äußerten Persohn, kundliche, bahre
+#facs_296_r2l14 scheinbahre, Rechte Beßerung gespührt,
+#facs_296_r2l15 also daß sie der Gnaden, und mit
+#facs_296_r2l16 ihrem Ehegemahl Haus zu halten, als
+#facs_296_r2l17 frommen Eheleüthen gezimmet begehrte
+#facs_296_r2l18 Welchen fahls Wir unsere Hand offen
+#facs_296_r2l19 behalten haben wollen, solche Persohnen
+#facs_296_r2l20 ob es uns gefällig, zu begnadigen: Ob
+#facs_296_r2l21 aber sach wäre, daß dieselbige Persch.
+#facs_296_r2l22 mit gefehrden so lang ausbleiben
+#facs_296_r2l23 biß sein Ehegemahl mit Tod abgangen
+#facs_296_r2l24 oder sich anderst verthelichet, oder
+#facs_296_r2l25 andere
+#facs_296_r3l1 1573.
+#facs_296_r3l2 Andere Unsere Mandaten und
+#facs_296_r3l3 Ordnungen, es seye der Pension,
+#facs_296_r3l4 Reis geläu Den halb, oder in ander
+#facs_296_r3l5 Weg übertreiten hätte: Wollen
+#facs_296_r3l6 Wir, daß es nicht allein von demselben
+#facs_296_r3l7 an, immermehr in Unser Stadt und
+#facs_296_r3l8 Land gelaßen: Sonderen boet den
+#facs_296_r3l9 Eyd nicht halten, und darüber er¬
+#facs_296_r3l10 griffen Burde, dannethin an Leib und
+#facs_296_r3l11 Leben gestrafft werden sollen
+#facs_296_r3l12 Daß man die verlaßne Persohn,
+#facs_296_r3l13 so es sich in die länge verzüge,
+#facs_296_r3l14 ihrem Ehegemahl nachzufragen
+#facs_296_r3l15 weisen soll
+#facs_296_r3l16 15.
+#facs_296_r3l17 Und ob et wann eine Persohn zu lang her¬
+#facs_296_r3l18 beilan, und seinem Ehgemahl nicht nach¬
+#facs_296_r3l19 fragen wurden also das man vermuthten,
+#facs_296_r3l20 und leichtlich erachten möchte, das es ein
+#facs_296_r3l21 Engelagte und unterrate Sach sey: Sollen
+#facs_296_r3l22 die Ehe Richter dieselbe Persohn ernste¬
+#facs_296_r3l23 früntlich vermahnen, seinem etloesen
+#facs_296_r3l24 7
+#facs_297_r2l1 Den Ehegemahl nach zufragen, und ihnen
+#facs_297_r2l2 durch Fuag und Mittzel als obstaht da
+#facs_297_r2l3 berahten und behulsen seyn, damit
+#facs_297_r2l4 Schand und Angenens desto mehr verh¬
+#facs_297_r2l5 werde, doch wann das verlesen ein für
+#facs_297_r2l6 Ehren Persohn ehrbahren Wandels
+#facs_297_r2l7 soll die nicht gezloung in werden, ihm
+#facs_297_r2l8 ausgetrochenen Ehegemahl nachzuzeiten
+#facs_297_r2l9 so lang dieselbe sich from verhaltet
+#facs_297_r2l10 Joain Mensch mit Musen und
+#facs_297_r2l11 lauben sich äuseret.
+#facs_297_r2l12 16
+#facs_297_r2l13 Ob aber jemand mit Musen.
+#facs_297_r2l14 len, und aus Behors am, Gebott und
+#facs_297_r2l15 Erlaubnus seiner Oberheit oder
+#facs_297_r2l16 seines Ehagemahls vergünstigung
+#facs_297_r2l17 oder anderen ehrlich an, redlichen
+#facs_297_r2l18 chen und Händlen, und mit leisen
+#facs_297_r2l19 habten Dingen sich äuseren, und
+#facs_297_r2l20 hinbagg ziehen wurde, Damm soll kein
+#facs_297_r2l21 Ziehl bestimmt noch gesetzt, auch dene
+#facs_297_r3l1 j75
+#facs_297_r3l2 anheisch gebliebenen sich anderwertig
+#facs_297_r3l3 zu verahlichen nicht erlaubt worden,
+#facs_297_r3l4 so lang, bis es gläublichen Schein und
+#facs_297_r3l5 Zeugnus bringt, daran im Ehedericht
+#facs_297_r3l6 nomen mag, das sein hingezogen Ehe¬
+#facs_297_r3l7 Domahl nicht mehr im Leben seye.
+#facs_297_r3l8 Erläuterung dieser Satzung.
+#facs_297_r3l9 17
+#facs_297_r3l10 Hierüber haben Wir gesezt, die weil die
+#facs_297_r3l11 alte Sazung keine Zeit bestimmt, wann
+#facs_297_r3l12 das vorlasene Ehegemahl sich widerum
+#facs_297_r3l13 verehlichen möge, sondern dahin
+#facs_297_r3l14 verbindt, so lang zu warten, und den
+#facs_297_r3l15 Ehe halb ohngeenderet zu bleiben, bis
+#facs_297_r3l16 durch glaubbürdigen Schein erzeigt
+#facs_297_r3l17 wird, das das hinluegga zogene Tods von¬
+#facs_297_r3l18 schieden seye, nun aber sich begebe, das¬
+#facs_297_r3l19 Aloann einer unter einem Fähnlein
+#facs_297_r3l20 hinlegg in Krieg zuge, und aber, ob gleich=
+#facs_297_r3l21 loohl daselb geurlaubet, oder doch nicht
+#facs_297_r3l22 wieder seine käme, sondern von einem
+#facs_297_r3l23 Regdal.
+#facs_298_r2l1 ment in das andere dingete, und alhier
+#facs_298_r2l2 lohann Reine, Zehen oder mehr Jahr.
+#facs_298_r2l3 bliebe, in solchem Fahl, da einer all¬
+#facs_298_r2l4 laagsziehet, und Sein Gemahl fünff ge¬
+#facs_298_r2l5 ze Jahr verlasen werden also das von
+#facs_298_r2l6 dem hinterlosenen Theil Klag käme
+#facs_298_r2l7 sollen die EheRichter das klaghatta
+#facs_298_r2l8 erstlich so weit möglich abhalten, und
+#facs_298_r2l9 zur Redult vermahnen, da es aber
+#facs_298_r2l10 nicht erwinden, sondern die Schaidigung
+#facs_298_r2l11 begehren wurde, und fünff Jahr, wie
+#facs_298_r2l12 obgemelt, verlossen wären, mögen
+#facs_298_r2l13 ihme die Vorauff Grieff nach ordent¬
+#facs_298_r2l14 cher Form geben, und da das Citiers
+#facs_298_r2l15 nicht erschinne, ihme sein Recht das
+#facs_298_r2l16 Scheidigung ergehen lasen; Jedoch durch
+#facs_298_r2l17 jenigens so aus dem Rechten, oder tod
+#facs_298_r2l18 Malefizischer Sachen liegen, flüchte
+#facs_298_r2l19 gen Fus gesezt haben, hierin nicht
+#facs_298_r2l20 begnissen: deren Verlasne nicht schon
+#facs_298_r2l21 dig seyn sollen, diese Jahr Zahl aus¬
+#facs_298_r2l22 worten, sondern mögens lauth der Pa¬
+#facs_298_r2l23 Jüngch
+#facs_298_r3l1 57
+#facs_298_r3l2 =zung, mit dem Rechten fortfahren
+#facs_298_r3l3 Fremder und nicht Lands anheimscher
+#facs_298_r3l4 Persohnen halb, das man sich deren
+#facs_298_r3l5 im Rechten nicht bedienen be¬
+#facs_298_r3l6 laden solle.
+#facs_298_r3l7 18
+#facs_298_r3l8 Ob aber Dienst knecht Einzügling und
+#facs_298_r3l9 fremde Persohnen; die Und, oder an
+#facs_298_r3l10 deren, die mit Und gleichen Gläu¬
+#facs_298_r3l11 lens sind, nicht zu versprachen stehen
+#facs_298_r3l12 untersuchnden, vorgemelter Weis¬
+#facs_298_r3l13 der EheHändlen und Scheidigung halb¬
+#facs_298_r3l14 imanderen zu citieren, und rechtfern
+#facs_298_r3l15 tigen, die mag man wohl an Ort und
+#facs_298_r3l16 End, da sie vorhin gebasen, und dahin sie
+#facs_298_r3l17 Gericht gehörig, oder da sie herbomen sind,
+#facs_298_r3l18 weisen, und sich ihrer nichts beladen.
+#facs_299_r1l1 Von Stratt des Ehebrues
+#facs_299_r1l2 und der Háreÿ.
+#facs_299_r1l3 Stras das doppelten Ehebrucht, solche
+#facs_299_r1l4 gangen wird durch einen Ehman
+#facs_299_r1l5 mit einer Ehefrau.
+#facs_299_r1l6 1
+#facs_299_r1l7 Straff des Ehemans.
+#facs_299_r1l8 dieselbe haben Wir dahin bestimmet, das
+#facs_299_r1l9 der Ehemann für den ersten Fehler
+#facs_299_r1l10 Mit zwanzig tägiger Befangenschau
+#facs_299_r1l11 1
+#facs_299_r1l12 abgestnasten, und
+#facs_299_r1l13 2. als ärgerlich, von allen Beist und¬
+#facs_299_r1l14 Baltlichen Ehren „ Amteren und Die
+#facs_299_r1l15 sten in Unseren Stätzen und Land
+#facs_299_r1l16 aus geschlosen, und noch darbey
+#facs_299_r1l17 3. Zu einer Abbitt vor Bergnicht, wie¬
+#facs_299_r1l18 bis har, gehalten werden solle.
+#facs_299_r1l19 Für den anderen Fasten
+#facs_299_r1l20 1. Aus drey Jahr lang das Landt vorleich
+#facs_299_r1l21 mo
+#facs_299_r1l22 2. Bey seiner Begnädigung zu einer ordent¬
+#facs_299_r1l23 lichen ap¬
+#facs_299_r3l1 1.
+#facs_299_r3l2 27
+#facs_299_r4l1 5793
+#facs_299_r4l2 lichen Depraecation vor der geängerten gan¬
+#facs_299_r4l3 ihre Beweind gehalten werden solle.
+#facs_299_r4l4 Für den deiden Fehler.
+#facs_299_r4l5 So aber jemand an solcher Zünstigung
+#facs_299_r4l6 und Stras sich nicht stosen, sondern
+#facs_299_r4l7 zum drich an Wahl vertraben wurde,
+#facs_299_r4l8 so soll derselbe mit ewiger Lands-Ver¬
+#facs_299_r4l9 weisung angesehen, und wann er das Land
+#facs_299_r4l10 leiderinn betrecken, und darinn ergriffen
+#facs_299_r4l11 burde, ohn alle Gnad mit dem Ochberth
+#facs_299_r4l12 Eingerichtet werden.
+#facs_299_r4l13 Stros der Gefrau.
+#facs_299_r4l14 stür den ersten Fehler¬
+#facs_299_r4l15 soll sie mit zwanzig tägiger Behangen,
+#facs_299_r4l16 Clas a. abgestraf, und
+#facs_299_r4l17 zu einer offentlichen Deprecation oder
+#facs_299_r4l18 Abbitt vor der ganzen Bemeind ge¬
+#facs_299_r4l19 .
+#facs_299_r4l20 Colten Borden
+#facs_299_r4l21 Für den anderen Fehler.
+#facs_299_r4l22 1. Nach ih
+#facs_300_r2l1 1. Nach ausgestandener gewohnter Befan¬
+#facs_300_r2l2 ganschas, für Fier Jahr lang des
+#facs_300_r2l3 Landt verwiesen, und
+#facs_300_r2l4 Bey ihrem Eintritt zu einer wider
+#facs_300_r2l5 2.
+#facs_300_r2l6 nahligen offentlichen Depraecation
+#facs_300_r2l7 vor der ganzen geärgerten Gemein
+#facs_300_r2l8 gehalten werden.
+#facs_300_r2l9 Er soll aber eine solche Weibe
+#facs_300_r2l10 Persohn, kann schon die Vier Jahr ver¬
+#facs_300_r2l11 flosen, nicht wieder in das Land ge
+#facs_300_r2l12 lasen werden, ohne Vorweisung glau¬
+#facs_300_r2l13 würdigen Scheine ihrer Wohlterh
+#facs_300_r2l14 tens, loth nendem Exilis.
+#facs_300_r2l15 Für den dritten Fehler.
+#facs_300_r2l16 Soll dieselbe mit Ruhtin gestrichen
+#facs_300_r2l17 elbig banisiert, und bey der Widerte,
+#facs_300_r2l18 tretung im Land, mit dem Schlechter
+#facs_300_r2l19 ungerichtet werden.
+#facs_300_r2l20 11.
+#facs_300_r2l21 Ehebruch, Straff.
+#facs_300_r2l22 Da ein ledige Manns Persohn
+#facs_300_r2l23 nt
+#facs_300_r3l1 571.
+#facs_300_r3l2 mit einer vorahlichten Weibs Per¬
+#facs_300_r3l3 sohn vertrabet.
+#facs_300_r3l4 dies alle haben Wir so wohl in Anse¬
+#facs_300_r3l5 sen dar Manus Persohn, als der Weibs,
+#facs_300_r3l6 Persohn, in dem Ersten Anderen und
+#facs_300_r3l7 dritzen Fehler bestimmet, wie hiero¬
+#facs_300_r3l8 ben in dem doppelten Ehebruch ent¬
+#facs_300_r3l9 halten.
+#facs_300_r3l10 111
+#facs_300_r3l11 Stras, da ein vereblichste Mand Persohn
+#facs_300_r3l12 sich mit einer ledigen Weibs,
+#facs_300_r3l13 Persohn tergiset.
+#facs_300_r3l14 Stras der Maus, Personen.
+#facs_300_r3l15 Weilan nach dem Worth Bortes und
+#facs_300_r3l16 Der Meinung der Böcks-Selehrten
+#facs_300_r3l17 dieser Sundenfahl zwar ärgerlich und
+#facs_300_r3l18 gros, doch aber nicht der Geschasenheit
+#facs_300_r3l19 und Würkung ist, wie die bey den
+#facs_300_r3l20 ersten und anderen Fähl der Ehre
+#facs_300_r3l21 brüchen; Als wollen Wir dieser Sünd
+#facs_300_r3l22 halb rt
+#facs_301_r3l1 Calb hiemit erkennet und geordnet haben
+#facs_301_r3l2 das im solcher für das erste Mahl
+#facs_301_r3l3 Junff Zehentagiger Befangenschas
+#facs_301_r3l4 abgestraft, auch im Fehler in Uns
+#facs_301_r3l5 nen Städten des grosen oder kleine
+#facs_301_r3l6 Rahts Bäre, des alben aus Füns hat
+#facs_301_r3l7 lang suspendiert und stillgestellt, von
+#facs_301_r3l8 allen seinen übrigen Ehren Amt
+#facs_301_r3l9 ren und Diensten aber höllig privie¬
+#facs_301_r3l10 und entsetzet seyn, also jedannoch, das
+#facs_301_r3l11 ein solcher, nach Verfliesung dieser
+#facs_301_r3l12 Zeit der Fünff Jahren, des großen
+#facs_301_r3l13 Rahts bürklichen wieder eingesetzt
+#facs_301_r3l14 und dannethin wieder zu allen Ehrn¬
+#facs_301_r3l15 amteren und Diensten zu praeten¬
+#facs_301_r3l16 dieran und zugelangen die Vasigkeit
+#facs_301_r3l17 haben solle: Worbey es dann auch die
+#facs_301_r3l18 Verstand hat, wann einem dergleichen
+#facs_301_r3l19 Fehler auskommen wurde, alldieben
+#facs_301_r3l20 er bürklich an einem Amt ist, das
+#facs_301_r3l21 ihm solch angetractener Amt zu
+#facs_301_r3l22 seiner mehreren Stros gerechnet
+#facs_301_r3l23 wordenach.
+#facs_301_r4l1 583.5
+#facs_301_r4l2 werden solle, als wan er es würklich aus¬
+#facs_301_r4l3 bedienet hätte.
+#facs_301_r4l4 Andere Fehler
+#facs_301_r4l5 Derselbe soll mit dreyßigtägiger Refan¬
+#facs_301_r4l6 genschas abgestraff, zu einer Abbiet von
+#facs_301_r4l7 Borgricht gehalten, und ein solch Schuldig¬
+#facs_301_r4l8 ger noch darzu aller Ehren und Diensten
+#facs_301_r4l9 also priviert und entsezet werden, das er
+#facs_301_r4l10 nachwerts darzu nicht mehr gelangen kan;
+#facs_301_r4l11 Deidte Fehler.
+#facs_301_r4l12 Der aber, so sich zum dricken Mahl mit
+#facs_301_r4l13 diesem Fehler verunreinigen Bürde, —
+#facs_301_r4l14 soll aus drey Jahr lang von Unseren
+#facs_301_r4l15 Stadt und Landen eydtlich verwirsen seyn;
+#facs_301_r4l16 Und bey seinem Eintritt zu einer ofent¬
+#facs_301_r4l17 lichen Depraecation vor der geärgerten Be¬
+#facs_301_r4l18 meind gehalten worden
+#facs_301_r4l19 Vierto Fehler.
+#facs_301_r4l20 Und im hierten Wwasl aus dvoig von
+#facs_301_r4l21 Unseren Stadt und Landen terbammisiret
+#facs_301_r4l22 1
+#facs_302_r3l1 seyn, und fahls er daselbe wieder betraffend
+#facs_302_r3l2 würde, ohn alle Gnad mit dem Schlo¬
+#facs_302_r3l3 hingerichtet werden.
+#facs_302_r3l4 Straf der Kleibs Perbosner
+#facs_302_r3l5 Die ledige Weibe, Persohn, so sich mit ei¬
+#facs_302_r3l6 von Verehlichten vertraben wurde,
+#facs_302_r3l7 soll für den ersten Fehler mit Zurecht
+#facs_302_r3l8 tägigen Gefangenschaft abgestraßet,
+#facs_302_r3l9 In dem anderen Fehler aber
+#facs_302_r3l10 Drey Jahr lang von Stadt und Land von
+#facs_302_r3l11 lorsen, und, nach deren Verfliesung
+#facs_302_r3l12 nicht wieder hineingelesen werden
+#facs_302_r3l13 sie könne dann glaubhos von Schein ihres Wohl
+#facs_302_r3l14 verhaltens vorbeisen; Worbey es dann
+#facs_302_r3l15 auch die Meinung hat, daß selbige bey¬
+#facs_302_r3l16 ihrem Wieder Eintritt zu einer Depre¬
+#facs_302_r3l17 cation vor Chordreicht gehalten werden;
+#facs_302_r3l18 solle.
+#facs_302_r3l19 In dem dritten Fehler,
+#facs_302_r3l20 Soll eine solche für Sache Jahr lang¬
+#facs_302_r3l21 Loech
+#facs_302_r4l1 O5s.
+#facs_302_r4l2 =ton Unseren Stadt und Landen also eyd,
+#facs_302_r4l3 lith verwiesen seyn, das sie, nach Vere
+#facs_302_r4l4 fliesung derselben, ohne Verweisung glaub¬
+#facs_302_r4l5 hässten Scheins ihrer Wohlverhaltens und
+#facs_302_r4l6 deserung, nicht wieder eingelasen, bey dem
+#facs_302_r4l7 hintritt aber zu einer offentlichen Abbiet
+#facs_302_r4l8 Vor der geängerten Benerin gehalten wer¬
+#facs_302_r4l9 den
+#facs_302_r4l10 Vierte Fehler.
+#facs_302_r4l11 Wann sich aber eine Weibe Persohle ab sol¬
+#facs_302_r4l12 cher Züchtigung nicht beseren, sondern
+#facs_302_r4l13 zum vierten Mahl mit gleichem Fehler
+#facs_302_r4l14 versündigen würde, so soll eine solchen
+#facs_302_r4l15 gleichlois hieroben in Ansehen der
+#facs_302_r4l16 Mans Persohn terordnet, aus obig von
+#facs_302_r4l17 Unseren Stadt und Landen vorliefen
+#facs_302_r4l18 und fahls sie leiderkommen, und darinn
+#facs_302_r4l19 betrecken wurde, ohn alle Gnad mit
+#facs_302_r4l20 Dem Schloert vom Leben zum Tod singen
+#facs_302_r4l21 richtet worden.
+#facs_303_r2l1 IV.
+#facs_303_r2l2 Lurey Straff.
+#facs_303_r2l3 6
+#facs_303_r2l4 So begangen wird von einer ledigen
+#facs_303_r2l5 Mans Persohn, mit einer ledigen
+#facs_303_r2l6 Weibs Persohn.
+#facs_303_r2l7 Stras der ledigen Mand Per¬
+#facs_303_r2l8 Cosneto
+#facs_303_r2l9 Erste Fehler.
+#facs_303_r2l10 aus gnugsam leichtigen Betrachtungen
+#facs_303_r2l11 und nach denen beynehe aller Ortheil
+#facs_303_r2l12 geblichen Ordnungen, haben Wir den
+#facs_303_r2l13 ersten ledigen Fehler zwar nicht an¬
+#facs_303_r2l14 Ehren, jedoch dahin anzusehen be¬
+#facs_303_r2l15 stimmt, das nämlich an solch fehlba
+#facs_303_r2l16 wor mit Ein hundert Pfund, zu Ha¬
+#facs_303_r2l17 den der Armen das Orts, dara
+#facs_303_r2l18 daheim, wann er aber in Unserer
+#facs_303_r2l19 Stäcten und Landen in Ehrenstelle
+#facs_303_r2l20 Rmtoran rt.
+#facs_303_r4l1 ius.
+#facs_303_r4l2 Einteren oder Diensten wäre, mit Zley¬
+#facs_303_r4l3 hundert Pfund aus abgestrafet und da
+#facs_303_r4l4 ein solcher die Baltstraß als obald zu¬
+#facs_303_r4l5 erlegen nicht vermöchte, oder nicht
+#facs_303_r4l6 wollte, solchen fahle mit zesen tägi¬
+#facs_303_r4l7 ger Befangenschaft bücklichen und
+#facs_303_r4l8 ohne Schonen, noch Ansehen der Persoh¬
+#facs_303_r4l9 angesehen werden solle.
+#facs_303_r4l10 Andere Stehler.
+#facs_303_r4l11 Dieser andere Fehler soll in all Weg,
+#facs_303_r4l12 s
+#facs_303_r4l13 es seyn mit Ballt oder Befangenschaft
+#facs_303_r4l14 nach hieroben gemachtem Unterscheid
+#facs_303_r4l15 Doppelt gebuset, und darüber aus noch
+#facs_303_r4l16 ein solcher aller seiner habenden Ehren=
+#facs_303_r4l17 Einteren und Diensten priviert werden
+#facs_303_r4l18 so daß er zu selben oder anderen, erst
+#facs_303_r4l19 nach Verfliesung Dreyer Jahren, zu
+#facs_303_r4l20 praetendieren und zugelangen, die Von
+#facs_303_r4l21 sigheit haben mag; Wann er aber in
+#facs_303_r4l22 Unseren Städt an das grosen Resto¬
+#facs_303_r4l23 wäre, nach diesen Dreyen Jahren wie¬
+#facs_303_r4l24 damm ich:
+#facs_304_r2l1 darum eingesetzt seyn soll.
+#facs_304_r2l2 Dritte Fehler.
+#facs_304_r2l3 Der aber, so sich zum deuten Mahl ledig
+#facs_304_r2l4 Weis vergehen wurde, soll als ein Unbusch
+#facs_304_r2l5 fertiger, die Fehler seyen gleich mit in
+#facs_304_r2l6 deren oder unterschiedlich auskommen, von
+#facs_304_r2l7 allen Ehren Ämteren und Diensten gänzig
+#facs_304_r2l8 lichen ausgeschlossen bleiben, für im
+#facs_304_r2l9 long von Stadt und Land teulviesen, und
+#facs_304_r2l10 darzu noch schuldig seyn, alsobald nach
+#facs_304_r2l11 seinem Eintrich, die gewohnte Abbiet von
+#facs_304_r2l12 Chordreicht zuthun
+#facs_304_r2l13 Vierte Fehler.
+#facs_304_r2l14 Der vierte ledige Fehler soll mit sechs¬
+#facs_304_r2l15 jähriger Lants Vorweisung, und offentlicher
+#facs_304_r2l16 Abbeit vor der geärgerten Bemeind, abge¬
+#facs_304_r2l17 strabth berden.
+#facs_304_r2l18 Fünffte Fehler
+#facs_304_r2l19 So aber einer sich zum fünsten Mahl mit
+#facs_304_r2l20 diesem Caster befleben wurde, soll der
+#facs_304_r2l21 selbe aus derg von Unseren Statt und
+#facs_304_r2l22 Landen verwiesen, und so er sich bieder
+#facs_304_r2l23 einlasen, und darinnen betreiben.
+#facs_304_r3l1 ol. 589
+#facs_304_r3l2 mit dem Schwert vom Leben zum Tod hingen
+#facs_304_r3l3 richtet werden.
+#facs_304_r3l4 Straf der ledigen Weibs Per Sohn
+#facs_304_r3l5 Erste Fehler.
+#facs_304_r3l6 Dieselbe soll gleich der ledigen Manns Persohn
+#facs_304_r3l7 angesehen, und also das erste Mahl mit
+#facs_304_r3l8 ein hundert Pfunden, zuhanden der Ar¬
+#facs_304_r3l9 man des Orts da sie daheim, gestraft
+#facs_304_r3l10 benden. Fahls aber eine solche Fehlbahre
+#facs_304_r3l11 die Gelt Stras nicht vermöchte, oder sonst
+#facs_304_r3l12 nicht alsobald abstatten wollte, soll sie
+#facs_304_r3l13 Dargegen mit zehen tägiger Befangern
+#facs_304_r3l14 ihas bürklichen und ohne Schonen, noch
+#facs_304_r3l15 2
+#facs_304_r3l16 Ansehen der Persohn, angesehen werden.
+#facs_304_r3l17 Andere Fehler.
+#facs_304_r3l18 Derselbe soll von der schuldigen Weibs Ver¬
+#facs_304_r3l19 sohn mit zwanzig, tägiger Befangen schall
+#facs_304_r3l20 abgebüset, und am solche, von sie an
+#facs_304_r3l21 Burgers Tochter, noch darzu für ein Jahr
+#facs_304_r3l22 lang in die Spinnstuben gesperret, und
+#facs_304_r3l23 zur Arbeit gehalten werden, um sie
+#facs_304_r3l24 dandurch in ihrem Sünden Lauff zu hin¬
+#facs_305_r2l1 nen, und zur Gaserung zubringen.
+#facs_305_r2l2 Auseren halb aber, so nicht hiesige?
+#facs_305_r2l3 gers, Töchteren sind haben Wir gear¬
+#facs_305_r2l4 das selbige ebenmäsig, wann sie es
+#facs_305_r2l5 nögen, aus ihre Kost hin, für ein Jahr
+#facs_305_r2l6 lang in die Spinn, Stuben gesetzet;
+#facs_305_r2l7 sie aber ihre Verköstigung abzutre¬
+#facs_305_r2l8 gen nicht vermöchten, für zwey Stunde
+#facs_305_r2l9 lang an das Hals=Eisen gestellt wer¬
+#facs_305_r2l10 den sollen.
+#facs_305_r2l11 Dritte Fehler
+#facs_305_r2l12 Derselbe soll durch zweyjährigen
+#facs_305_r2l13 Spinnen Stuben, oder auch ahnige Schell
+#facs_305_r2l14 werk Stras, nach hieroben gemacht
+#facs_305_r2l15 Unterscheid, abgebüset, und ein solch
+#facs_305_r2l16 Schuldige annoch dahin gehalten wer¬
+#facs_305_r2l17 den, nach ausgestandener Stras¬
+#facs_305_r2l18 Ih ergeicht zu deprae uaren.
+#facs_305_r2l19 Vierte Fehler.
+#facs_305_r2l20 mit sey.
+#facs_305_r2l21 Dieser soll gestrat 3 beeden
+#facs_305_r2l22 jähriger Banisation, und nach densel¬
+#facs_305_r2l23 Abbut es
+#facs_305_r2l24 ben mit einer offentlichen
+#facs_305_r2l25 Durchl.
+#facs_305_r3l1 5911
+#facs_305_r3l2 der geärgerten Gemeind; der bey läuffi¬
+#facs_305_r3l3 gen Meinung, das, nach solch verflor¬
+#facs_305_r3l4 senem Termin, sie nicht wieder hin¬
+#facs_305_r3l5 ein gelesen werden solle, sie könne denn
+#facs_305_r3l6 authentische Zeugsame ihres Wohlver¬
+#facs_305_r3l7 haltend vorlegen.
+#facs_305_r3l8 Fünffte Fehler.
+#facs_305_r3l9 Das beyen soll ein solche ausgeclas ann
+#facs_305_r3l10 Tirnen ausgeschmeichet, obig tanisciert
+#facs_305_r3l11 und, bey der Widerbetractung im Land
+#facs_305_r3l12 mit dem Schwert hingerichtet werden.
+#facs_305_r3l13 Neue und Amselmeister¬
+#facs_305_r3l14 de Tirnen
+#facs_305_r3l15 V.
+#facs_305_r3l16 dieselben sollen durch voranstelltung
+#facs_305_r3l17 der Chorffrichten zu Stadt und Land¬
+#facs_305_r3l18 beobachtet, eingezogen, und nach der Er¬
+#facs_305_r3l19 Lantnus des täglichen Rahts, gestalten
+#facs_305_r3l20 Dingen nach, entweders mit der Spin¬
+#facs_305_r3l21 stuber etc.
+#facs_306_r2l1 stuben, Schallbewerk, Lands Verlau
+#facs_306_r2l2 lung, Ruthen Streichung und Bro¬
+#facs_306_r2l3 nung, oder sonst anderen empfindlich
+#facs_306_r2l4 chen dergleichen Leibe Strafen, ohne
+#facs_306_r2l5 Schonen, angesehen werden.
+#facs_306_r2l6 VI.
+#facs_306_r2l7 Wegen Bezahlung des Krauss
+#facs_306_r2l8 Befangenschaft Kösten, Ammer
+#facs_306_r2l9 Lohns, und Erhaltung der
+#facs_306_r2l10 ohnahlichen Kindern
+#facs_306_r2l11 ren.
+#facs_306_r2l12 Das wegen haben Wir geordnet daß
+#facs_306_r2l13 hinführo die Tienen nichts mehr für
+#facs_306_r2l14 den Kranz und Befangenschafft
+#facs_306_r2l15 sten, wohl aber drey Cronen für die
+#facs_306_r2l16 Amenlohn des Kinds von dem Huern
+#facs_306_r2l17 bezahlet werden soll: Und gleichbar
+#facs_306_r2l18 termit lest desen die Tienen sich sollte,
+#facs_306_r2l19 ten aus der Befangensches lösen
+#facs_306_r2l20 soll, als hat es den Verstand,
+#facs_306_r2l21 sie solches nicht vermöchte, sie ents
+#facs_306_r2l22 Dertig
+#facs_306_r3l1 193.
+#facs_306_r3l2 das mit der Trüllen, oder aber mit der
+#facs_306_r3l3 Hals Eisen Stras beleget, und gezuchten
+#facs_306_r3l4 get werden solle.
+#facs_306_r3l5 Der Erhaltung halb des Kinds dann, bis er¬
+#facs_306_r3l6 ein Speis selbsten gelommen kann, soll es
+#facs_306_r3l7 an dem Richter stehen, die Tirnen, nach
+#facs_306_r3l8 Bestaltsamme die Sach, und ihren Miet¬
+#facs_306_r3l9 len, entweders zum halben oder dritten
+#facs_306_r3l10 Theil zu verfällen, das andere aber denn
+#facs_306_r3l11 Waiter aus zulegen; der Meinung,
+#facs_306_r3l12 bann der Vater käme, die Mutter aber
+#facs_306_r3l13 Mitel hätte, die Verpflegung des¬
+#facs_306_r3l14 Kinds der Mutter obligen, gleich wie
+#facs_306_r3l15 hinwiederum der Vater schuldig seyn.
+#facs_306_r3l16 solle, fahls er Mittel hätte, und die
+#facs_306_r3l17 Muter keine, die Erhaltung des Kindes
+#facs_306_r3l18 alleinig aus sich zu nemen. Da aber
+#facs_306_r3l19 bedor Rector noch Muter mit Mitland
+#facs_306_r3l20 nicht versehen, sondern beyde arm
+#facs_306_r3l21 wären, soll die Verpflegung des Kinds
+#facs_306_r3l22 der Bomeind, da der Pastor daheim
+#facs_306_r3l23 aus allen ich.
+#facs_307_r2l1 ausfallen; In diesem Fahl aber am
+#facs_307_r2l2 solche Gemeind befügt seyn, den sich
+#facs_307_r2l3 nig um Abtrag des Kostens, wie in zu
+#facs_307_r2l4 lichen Ansprachen üblich ist, zu
+#facs_307_r2l5 langen, und nach den Besazen in
+#facs_307_r2l6 zutreiben.
+#facs_307_r2l7 V. 11.
+#facs_307_r2l8 Hären=Belter.
+#facs_307_r2l9 Wann dergleichen Schaut Dirnen einen
+#facs_307_r2l10 Mann zu Fahl gebracht, selbige nach¬
+#facs_307_r2l11 worts einen solchen mit allerhand
+#facs_307_r2l12 drönungen nöhtigen, und darmit
+#facs_307_r2l13 nahmhatte Gelter, und dergleichen
+#facs_307_r2l14 aus zu person suchen; Diesem Abib
+#facs_307_r2l15 vorzubiegen, wollen Wir hiemitht
+#facs_307_r2l16 tuieren, das kahls eine Tirnen
+#facs_307_r2l17 Fues und Ibanzig Thaler Swerthe Hü¬
+#facs_307_r2l18 ren, Lohn, oder Delt empfangen,
+#facs_307_r2l19 sie mit dem Hald Eisen, Man sie
+#facs_307_r2l20 Fünstzig Thaler werths bekommen, mit
+#facs_307_r2l21 Dem Schallenbort, und fähld sie
+#facs_307_r2l22 Hundert etc
+#facs_307_r3l1 59a
+#facs_307_r3l2 =Hundert Thaler verthi genommen, mit Ku=
+#facs_307_r3l3 than gestrichen, und wann sie
+#facs_307_r3l4 Über Hundert Thaler werthes bekommen,
+#facs_307_r3l5 an Leib oder Leben gestrat zu werden,
+#facs_307_r3l6 und alsdann der Herrn Lohn, vann sel¬
+#facs_307_r3l7 ben die Tinnen vermöchte, und des
+#facs_307_r3l8 Ehebrecher Weib und Kind desen
+#facs_307_r3l9 nähtig wären, ihnen den Weib und
+#facs_307_r3l10 Kinden widerum zugestellt werden
+#facs_307_r3l11 oder, in nicht armühtigem Pahl,
+#facs_307_r3l12 den Armen des Orts überlasen
+#facs_307_r3l13 seye solle.
+#facs_307_r3l14 VIII
+#facs_307_r3l15 Von Entdebung dergleichen
+#facs_307_r3l16 Huren Selteren.
+#facs_307_r3l17 Meilen aber dem Übel nicht von gesteu¬
+#facs_307_r3l18 art, noch diese Stras Michel angel an¬
+#facs_307_r3l19 det werden, wann es im verborganen
+#facs_307_r3l20 seinen Fortgang gelomet; als haben
+#facs_307_r3l21 Wie zu Entdekung deselben hiemit
+#facs_307_r3l22 geordnet und erkannt, das Damjangen
+#facs_307_r3l23 soch.
+#facs_308_r1l1 so dergleichen Ding entdeken wurde,
+#facs_308_r1l2 Holt bey der Tinnen zusuchen überle¬
+#facs_308_r1l3 Cyn, ja auch dannjenigen, welchem
+#facs_308_r1l4 gleichen geforderet worden, und er
+#facs_308_r1l5 zahlt hätte, in selber entdekenden
+#facs_308_r1l6 Pahl das Hurenddelt seinem Mai
+#facs_308_r1l7 und Kinden, so sie es nöhtig wären,
+#facs_308_r1l8 zuruk geben, oder, in nicht annuch
+#facs_308_r1l9 gem Fahl, den Armen das Drcht¬
+#facs_308_r1l10 überlasen werden solle: Anebens¬
+#facs_308_r1l11 die Stras allwegen inn am Grad¬
+#facs_308_r1l12 gemilteret, und zum Exempel ein
+#facs_308_r1l13 doppelter Ehebauch mit der Stras des
+#facs_308_r1l14 einfachen: der andere ledige Fehler
+#facs_308_r1l15 mit das ersten Stras beleget, oder wenn
+#facs_308_r1l16 et der erste ledige Fehler bäre, gantz
+#facs_308_r1l17 ledig entlasen werden sollen und also
+#facs_308_r1l18 auch in übrigen Fählen.
+#facs_308_r1l19 IX.
+#facs_308_r1l20 Räppler und Einsäuber.
+#facs_308_r1l21 Diejenigen aber so sich zum Kuppler
+#facs_308_r1l22 oder c.
+#facs_308_r3l1 597
+#facs_308_r3l2 Tirnen zuführen, und zu Einzeuchung
+#facs_308_r3l3 dergleichen schantlichen Wolteren ge¬
+#facs_308_r3l4 brauchen liesen, sollen als schädliche
+#facs_308_r3l5 Persohnen und Blucksauger, mit Ruthen
+#facs_308_r3l6 gestrichen, gebrant zeichnet, und elvig
+#facs_308_r3l7 bannisiert werden.
+#facs_308_r3l8 x:
+#facs_308_r3l9 Wie in Hurey und Ehebruchs Sachen
+#facs_308_r3l10 zu verfahren.
+#facs_308_r3l11 Wann eine Weibe Persohn sich schlvangeran
+#facs_308_r3l12 Leibs befunde, soll selbe vor dem Richtern
+#facs_308_r3l13 der Chordreicht des Orths, da sie lassen
+#facs_308_r3l14 nend, oder dienand sich aushaltet, ihre
+#facs_308_r3l15 Schloangerschatz, und zugleich den Vat¬
+#facs_308_r3l16 ter ihres unter dem Herzen tragenden
+#facs_308_r3l17 Kinde, anzeigen, damit, und desen Vorord¬
+#facs_308_r3l18 nung, der zum Vatter angebene deswe¬
+#facs_308_r3l19 an bescheiden, zu Rad gestosen, und
+#facs_308_r3l20 wann er der Anklag nicht getändig, so
+#facs_308_r3l21 keit möglich, beeydigte, oder ehrliche
+#facs_308_r3l22 benachbarte Mand Persohnen, sich bey¬
+#facs_308_r3l23 ihrer ich
+#facs_309_r2l1 ihrer Bemist einfinden, und als dann
+#facs_309_r2l2 die Wahrheit ihrer Anklägd, in ihre
+#facs_309_r2l3 Gebuhets, Schmerzen examiniert, dan
+#facs_309_r2l4 der bahre Vatter an Tag gebracht wer=
+#facs_309_r2l5 könne; In dem heiteren Verstand, daß
+#facs_309_r2l6 fahls die Weibe, Persohn die Angabung
+#facs_309_r2l7 des Vaters vor oder in der Bauist¬
+#facs_309_r2l8 terliese, ihre nachwärts vom Glauben
+#facs_309_r2l9 beygemesen, und dafern der Vatter des
+#facs_309_r2l10 angebene That nicht frey billig bekent.
+#facs_309_r2l11 ihme das wegen kein Eyd zugemuhtes
+#facs_309_r2l12 sonder in diesem Fahl ein solchen
+#facs_309_r2l13 entlasen, und das Kind einzig von der
+#facs_309_r2l14 Tirnen erhalten werden. Derselben
+#facs_309_r2l15 Stras aber Unserem Taglichen Rest über
+#facs_309_r2l16 lasen seyn solle; der ferneren Mei¬
+#facs_309_r2l17 nung, das in solchem Fahl danzumahlen
+#facs_309_r2l18 das Kind den Namen der Mutter tra=
+#facs_309_r2l19 gen, in der Mutter Heimat sein Sie
+#facs_309_r2l20 gerracht haben, auch von der Mutter¬
+#facs_309_r2l21 halten, und ohn vormögenden Rahts¬
+#facs_309_r2l22 von derjenigen Bewand, da die Mu¬
+#facs_309_r2l23 terol.
+#facs_309_r4l1 299
+#facs_309_r4l2 ter anheimsch, verpflogen werden.
+#facs_309_r4l3 So dann eine schwangere Meibd-Persohn,
+#facs_309_r4l4 vor oder in der Genis einen Vater an¬
+#facs_309_r4l5 geben, und aus solchem beharren thäte
+#facs_309_r4l6 Dannoch aber der also angebene Vater das
+#facs_309_r4l7 Kind nicht vor das seinige erkennen wol¬
+#facs_309_r4l8 te, so soll im solcher, wann er sonst gu¬
+#facs_309_r4l9 ten Bauendes ist, zu dem Purgation
+#facs_309_r4l10 Eyd gehalten, und diesam nach die Tin¬
+#facs_309_r4l11 nen, wann ein solcher seine Unschuld¬
+#facs_309_r4l12 durch den Pergations Eyd mahifer
+#facs_309_r4l13 stiert hätte, nach Unsers täglichen
+#facs_309_r4l14 Rahts Erkentnus abgestrasz berden.
+#facs_309_r4l15 Mann aber eine solche Tienen, xyz
+#facs_309_r4l16 in der damist, den während ihrer
+#facs_309_r4l17 Schwangerschaft Beklagten entschlän¬
+#facs_309_r4l18 gen, und einen anderen zum Wacken
+#facs_309_r4l19 angeben wurde, soll der entschlagene
+#facs_309_r4l20 ledig seyn, und der andere, nach Erkant¬
+#facs_309_r4l21 aus Unserer täglichen Rahts, zum¬
+#facs_309_r4l22 Purgations Eyd gehalten, sie die Tienen
+#facs_309_r4l23 aber, began der ersten falschen Anklag,
+#facs_309_r4l24 ohne ich
+#facs_310_r2l1 Zohne Gnad, ans Hals Eisen gestellt
+#facs_310_r2l2 werden.
+#facs_310_r2l3 Wurde auch eine Tirnen vor oder in
+#facs_310_r2l4 Benist, einen Fremden zum Nach¬
+#facs_310_r2l5 ihres Kinds angeben, und solcher
+#facs_310_r2l6 darüberhin fortmachen, soll dann zum
+#facs_310_r2l7 len, wann ein solcher Nader ein Eyd
+#facs_310_r2l8 Bürs, die Mutter schuldig und pflich
+#facs_310_r2l9 tig seyn, samt ihrem Kind dann Ver¬
+#facs_310_r2l10 ter nach zugehen, und selbigen in sein
+#facs_310_r2l11 nem Heymaht zu suchen, auch daselbst
+#facs_310_r2l12 Gutrachten, das das Kind ihre abgene
+#facs_310_r2l13 men werden da aber sich er eignen solten
+#facs_310_r2l14 das sie den Vater nicht antreffen, und
+#facs_310_r2l15 auch vor dem Richter das elbstigen Chö=
+#facs_310_r2l16 das Kind anzunemmen versaget wurde
+#facs_310_r2l17 um desen die Mutter gnugsame Zin¬
+#facs_310_r2l18 nus, Scheine aus zu beisen hätte; So seine
+#facs_310_r2l19 solchen Fahls das ohnehlich erzeugete.
+#facs_310_r2l20 Kind der Beschlechte Nahmen der M
+#facs_310_r2l21 ter tragen, und da anheimisch seyn, alles
+#facs_310_r2l22 die Mutter turburgerat, auch von der
+#facs_310_r2l23 Muhroof
+#facs_310_r3l1 1601.
+#facs_310_r3l2 Mutter, wenn sie bey Mutlan erhalten,
+#facs_310_r3l3 ihn vermögenden Fehls aber von der
+#facs_310_r3l4 Bemeind, da die Mutter anheimisch, und
+#facs_310_r3l5 lang, bis es im Stand seyn wird, das
+#facs_310_r3l6 Leben zu gelinnen erhalten und besor¬
+#facs_310_r3l7 get worden.
+#facs_310_r3l8 Ist aber ein solcher Vater nicht im
+#facs_310_r3l9 Eyd, Gros, sondern ein Lands, Fremder
+#facs_310_r3l10 bind dann zumahlen Unser allhiesiges
+#facs_310_r3l11 Gerd recht hierten Unseren täglichen
+#facs_310_r3l12 Raht allwegen die erforderlichen Vorstel¬
+#facs_310_r3l13 Lungen thun, da dann demselben zu¬
+#facs_310_r3l14 erkennen überlesen seyn soll, je nach¬
+#facs_310_r3l15 Deme der angebene Vatter von hiesigen
+#facs_310_r3l16 Landen entfernet, die Mutter samt dem
+#facs_310_r3l17 Eind Damm Vater nach Zusenden oder
+#facs_310_r3l18 nicht? Wie nicht weniger über daherige
+#facs_310_r3l19 Casus, und auch eines solchen Kinds Hei¬
+#facs_310_r3l20 math und Bürgerrechten Land die
+#facs_310_r3l21 Rohtdurs anzuordnen.
+#facs_310_r3l22 Wann dann entlichen eine Meibr, Per¬
+#facs_310_r3l23 Cahne eine Manns, Persohn das Beyschlafte
+#facs_310_r3l24 beklagte ich.
+#facs_311_r2l1 Beklagte, ohne das sich sich schwangen
+#facs_311_r2l2 n.
+#facs_311_r2l3 Leibe befunde, so ist Unser Will¬
+#facs_311_r2l4 Meinung, fahls die Anblag in erst¬
+#facs_311_r2l5 neün Monaten, von der Zeit des ge=
+#facs_311_r2l6 klagten Beyschlags an zu rechnen.
+#facs_311_r2l7 beschehen wurden das ein aus dieser
+#facs_311_r2l8 Weis angebener zu dreyen unterschl.
+#facs_311_r2l9 lichen Mahlen vor Gerd Reicht beschei¬
+#facs_311_r2l10 den, allda ernstwörtlich, aber ohne An¬
+#facs_311_r2l11 bendung der Gefangenschafft, über
+#facs_311_r2l12 die geklagte That, und deren Umstän¬
+#facs_311_r2l13 der Zeit und das Orthe, examiniert,
+#facs_311_r2l14 inn nicht gestehendem Fahl aber, mit
+#facs_311_r2l15 nichts bewiesen werden könte, die Dach¬
+#facs_311_r2l16 Gott und der Zeit überlasen werden,
+#facs_311_r2l17 solle, fahls aber die Anklag erst noch mit
+#facs_311_r2l18 Monaton, von der Zeit an das Geblag
+#facs_311_r2l19 ten Beyschlas zu rechnen, beschehen
+#facs_311_r2l20 burden so soll daraus gar nichts re¬
+#facs_311_r2l21 flectiert werden.
+#facs_311_r2l22 Wer seinen Dienst oder Nogst¬
+#facs_311_r2l23 Tochter vorführt.
+#facs_311_r2l24 x15
+#facs_311_r4l1 305
+#facs_311_r4l2 X A
+#facs_311_r4l3 Welcher seinen Dienst oder Vogts Taah¬
+#facs_311_r4l4 ter schwächt, soll zu der bestimmten Straff
+#facs_311_r4l5 noch zween Tag und Sächst in Befan¬
+#facs_311_r4l6 gensches gesezt werden.
+#facs_311_r4l7 Wann einer sein Weib an offener
+#facs_311_r4l8 That ergeise.
+#facs_311_r4l9 10
+#facs_311_r4l10 XII
+#facs_311_r4l11 Pommer, so einer sein Eheweib, an offener
+#facs_311_r4l12 Schand und That ergeide des Ehebruchs
+#facs_311_r4l13 angritte befunde. Was er dann mit ihren
+#facs_311_r4l14 und Dammhüring handelte: Soll bleiben,
+#facs_311_r4l15 als von Jacobolten gewesen ist.
+#facs_311_r4l16 Stras der Diensten, und besoldeten
+#facs_311_r4l17 Händgenesen, die ihren Meister
+#facs_311_r4l18 und Frauen Kind verkupp¬
+#facs_311_r4l19 len und schwächen.
+#facs_311_r4l20 XVIII
+#facs_311_r4l21 Wann sich zutragen wurde, das die Dienst,
+#facs_311_r4l22 und besoldete Haus=Sanosam so ihres
+#facs_311_r4l23 Herren Meisters oder Frauen Nuz¬
+#facs_311_r4l24 zu fördern, und dargegen Schaden
+#facs_311_r4l25 und Schand zu verhälten schuldig,
+#facs_311_r4l26 demselben ich
+#facs_312_r2l1 denselben ihren Herren, Meister
+#facs_312_r2l2 und Frauen ihre Kind und Töchter
+#facs_312_r2l3 verhupplen, oder selbe betöelen,
+#facs_312_r2l4 und mit ihnen Unsicht begehen le¬
+#facs_312_r2l5 den. Haben Wir geordnet, das
+#facs_312_r2l6 Ehelrichter solche ihnen vorkommen¬
+#facs_312_r2l7 Fähl Uns Fürbringen sollen, damit
+#facs_312_r2l8 dieselben, welche selbige bagehen¬
+#facs_312_r2l9 anderen zu einem Exempel, ihrem
+#facs_312_r2l10 Verdienen noch gestraff werden
+#facs_312_r2l11 Wie die Varnang um argmehr
+#facs_312_r2l12 nig Leuenden beschehen soll.
+#facs_312_r2l13 XIV
+#facs_312_r2l14 Wann einer oder eine des Ehebruchts
+#facs_312_r2l15 dächtig, und das durch die Nachbahren
+#facs_312_r2l16 Fruns, oder anderen die es angeheten der
+#facs_312_r2l17 Ehedder nicht, oder zweyen, Oder durch eine
+#facs_312_r2l18 der Ehe Richteren angezeigt lies; sie
+#facs_312_r2l19 dieselbe verangwohnete Persohn durch
+#facs_312_r2l20 die Ehe Richter freüntlich und Neiger
+#facs_312_r2l21 lich von ihrem argenlichen Wesen ab¬
+#facs_312_r2l22 Zustehen vermahnt, und heimlichen
+#facs_312_r2l23 /: Unseil.
+#facs_312_r3l1 3058
+#facs_312_r3l2 /: Anheil, Unwillen und Uneinigkeit
+#facs_312_r3l3 Pläuschen Ehelauthen zu verhüten :/
+#facs_312_r3l4 gewarnet werden. Wann aber an der,
+#facs_312_r3l5 selben solche heimliche, gütige Waren
+#facs_312_r3l6 nung nichts helfen, und sie sich darob
+#facs_312_r3l7 nicht besaren, sondern in ärgerli¬
+#facs_312_r3l8 chem Wandel fortfahren, und ver¬
+#facs_312_r3l9 harren, das der Verdacht also großer
+#facs_312_r3l10 wurde, Alsdann soll dieselbige Her¬
+#facs_312_r3l11 ohn, gleith als ob sie einen of entli¬
+#facs_312_r3l12 chen Ehebruch begangen hätte, gestra¬
+#facs_312_r3l13 werden
+#facs_312_r3l14 Mer sich des anderen berüsmte.
+#facs_312_r3l15 XV.
+#facs_312_r3l16 Und objemand sich das anderen beruhm¬
+#facs_312_r3l17 te, der soll nach der Oberkeit Erkante¬
+#facs_312_r3l18 aus gestraft werden.
+#facs_312_r3l19 Wer einen Ehebruch begienge, und
+#facs_312_r3l20 selbe off anbahneten damit die
+#facs_312_r3l21 Dihaidigung erfolge.
+#facs_312_r3l22 XVI.
+#facs_312_r3l23 Blachea r
+#facs_313_r2l1 Wleicher Bestalt welcher oder welche
+#facs_313_r2l2 besihehener zusammen- Bekommung, oder
+#facs_313_r2l3 würde, und also mit
+#facs_313_r2l4 die Ehe breche
+#facs_313_r2l5 Muht willen ohne Ursach durch Mit¬
+#facs_313_r2l6 des Ehebruchs die Scheidigung suchte
+#facs_313_r2l7 sich das an berühmte, oder sonst selbt
+#facs_313_r2l8 offenbahrte, oder ein andere Persohn
+#facs_313_r2l9 mude
+#facs_313_r2l10 mit Holt oder sonst bestellte
+#facs_313_r2l11 biese, sein Ehegemahl zu beschlafen.
+#facs_313_r2l12 und
+#facs_313_r2l13 nur der Scheidigung willen
+#facs_313_r2l14 wie recht ist.
+#facs_313_r2l15 ihrs kundbahr wurde,
+#facs_313_r2l16 Soll nach der Oberkeit Erkantnu
+#facs_313_r2l17 Laibam
+#facs_313_r2l18 je nach Gefinden,
+#facs_313_r2l19 Leben gestrasfft werden.
+#facs_313_r2l20 Mann das Schuldig nach Versicher
+#facs_313_r2l21 hung des Auschuldigen, nicht be¬
+#facs_313_r2l22 der zu seinem Ehegemahl
+#facs_313_r2l23 kehren wollte, was Ih¬
+#facs_313_r2l24 me daraus fol¬
+#facs_313_r2l25 gen Buede.
+#facs_313_r2l26 XVII.
+#facs_313_r2l27 Ob aber das Schuldig, nach güdtlicher
+#facs_313_r2l28 on your
+#facs_313_r2l29 Verzeihung des Unschuldigen
+#facs_313_r2l30 genügsamung
+#facs_313_r3l1 607.
+#facs_313_r3l2 einigsamme Ursachen nicht wollte wie¬
+#facs_313_r3l3 der zu seinem Gemahl kehren; das soll
+#facs_313_r3l4 ohne alle Gnad von Stadt und Land ver¬
+#facs_313_r3l5 ehr darinn gelasen
+#facs_313_r3l6 biesen
+#facs_313_r3l7 berden: Dann solche seine Weigerung
+#facs_313_r3l8 ein heitere, gebüse Anzeigung ist seiner
+#facs_313_r3l9 Darinn verbrachten Ehebrucht, das er¬
+#facs_313_r3l10 von diesem Ehegemahl gescheiden wur¬
+#facs_313_r3l11 de: Welches doch, was zu Unser vorigen
+#facs_313_r3l12 Satzung, das Leben vorwürbt hätte.
+#facs_313_r3l13 C. Gendix oder Anfang.
+#facs_313_r3l14 XVIII
+#facs_313_r3l15 Er möchte auch ein so schandlicher verrug
+#facs_313_r3l16 ter Mensch, und so ein boser, vielfal¬
+#facs_313_r3l17 tiger Ehebruch seyn: das Wir Unser
+#facs_313_r3l18 Hand osten löllen behalten, mit der
+#facs_313_r3l19 Stras zu verfahren, nach dann Uns billich
+#facs_313_r3l20 und der Scheidigung gemäs bedunkt.
+#facs_313_r3l21 Der gescheidenen Beleutsen
+#facs_313_r3l22 Butse salben
+#facs_313_r3l23 XIXS
+#facs_314_r2l1 X IX.
+#facs_314_r2l2 das zeitlichen Guhts halber der gebühren
+#facs_314_r2l3 nen Persohnen, wollen Wir solches
+#facs_314_r2l4 ser Erbantnus vorbehalten haben
+#facs_314_r2l5 ein nach Gestalt der Sach zu handle
+#facs_314_r2l6 Welche am Ehebriost Julan
+#facs_314_r2l7 erkannt, dieselben von dem Qui
+#facs_314_r2l8 Leüthen darzu gehalten war,
+#facs_314_r2l9 den sollen.
+#facs_314_r2l10 XX
+#facs_314_r2l11 Wie wollen auch, das alle die, so wie
+#facs_314_r2l12 Herrn Ehedricht, Rechtlich, und mit
+#facs_314_r2l13 Urtheil zusamen als Ehelauthorte
+#facs_314_r2l14 berdom, und aber der Urtheil nicht
+#facs_314_r2l15 geloben, das alsdann dieselben
+#facs_314_r2l16 den Pfarr Herren und Verord¬
+#facs_314_r2l17 einer jeden Kirch hörl, erstlich
+#facs_314_r2l18 Amt laüthen aus dem Land, so Wie
+#facs_314_r2l19 ihnen haben, und wo darinn nicht
+#facs_314_r2l20 bahres gehandlet werden mag,
+#facs_314_r2l21 Ehedt nicht allhier schriftlich,
+#facs_314_r2l22 herzogenlich angezeigt, aus das
+#facs_314_r3l1 609.
+#facs_314_r3l2 ihnen nach Verdienen gehandlet werde.
+#facs_314_r3l3 Wann und wie nach der Ocheidigung
+#facs_314_r3l4 der Schuldig und Unschuldig
+#facs_314_r3l5 sich vorahlichen möge.
+#facs_314_r3l6 XXI
+#facs_314_r3l7 Was die unschuldige Eheparthey betrübst, son
+#facs_314_r3l8 dieselbe wenigstens am halb Jahr hinrah¬
+#facs_314_r3l9 tens halb stillstehen, und wann sie sich,
+#facs_314_r3l10 nach desen Verfliesung, um Gewilli¬
+#facs_314_r3l11 gung anderworte zu verglichen, an¬
+#facs_314_r3l12 melden wurden soll der Richter sich da¬
+#facs_314_r3l13 hin zu bereden suchen, das sie wider
+#facs_314_r3l14 zu ihrem vorigen Ehegemahl vähre:
+#facs_314_r3l15 Chuerheblichen Fahls aber anderwertige
+#facs_314_r3l16 Ehe ihme Beitere nicht gesperrt werden.
+#facs_314_r3l17 Die schuldige Parthey aber soll wenig¬
+#facs_314_r3l18 stans Achthehen Monat still stehen,
+#facs_314_r3l19 fahls die Unschuldige noch nicht noch
+#facs_314_r3l20 berehlichet wäre, auch dahin gelorsen
+#facs_314_r3l21 borden, sich mit ihrer abgescheidenen Ehe=
+#facs_314_r3l22 Parthey ih¬
+#facs_315_r2l1 XX IX.
+#facs_315_r2l2 das zeitlichen Buhts halber der gesehen
+#facs_315_r2l3 nen Persohnen, wollen Wir solches 21.
+#facs_315_r2l4 Der Erkantnus vorbehalten haben, da
+#facs_315_r2l5 ein nach Gestalt der Sach zuhandlen.
+#facs_315_r2l6 Welche am EheDriost zu Camer¬
+#facs_315_r2l7 erkannt, dieselben von dem Amt¬
+#facs_315_r2l8 Leüthen darzu gehalten wer¬
+#facs_315_r2l9 den sollen.
+#facs_315_r2l10 XX.
+#facs_315_r2l11 Wie wöllen auch, das alle die, so in Un¬
+#facs_315_r2l12 seine Ehedtricht, Rechtlich, und mit der
+#facs_315_r2l13 Urtheil zusamen als Eheleuth erkannt.
+#facs_315_r2l14 berden und aber der Urtheil nicht
+#facs_315_r2l15 geleben, das alsdann dieselben durch
+#facs_315_r2l16 den Pfarr Herren und Verordnete
+#facs_315_r2l17 einer jeden Kirch hörl, erstlich Unserm
+#facs_315_r2l18 Amt laüth an aus dem Land, so Wir bey¬
+#facs_315_r2l19 ihnen haben, und wo darinn nichts fruch
+#facs_315_r2l20 bahres gehandlet werden mag, Unseren
+#facs_315_r2l21 Ehedt nicht allhier schrittlich, und im¬
+#facs_315_r2l22 herzogenlich angezeigt, aus das mit
+#facs_315_r2l23 ihnen etc.
+#facs_315_r3l1 609
+#facs_315_r3l2 ihnen nach Verdienen gehandlet werde.
+#facs_315_r3l3 Wann und wie nach der Ocheidigung
+#facs_315_r3l4 der Schuldig und Anschuldig
+#facs_315_r3l5 sich verehlich an möge.
+#facs_315_r3l6 XXI
+#facs_315_r3l7 Was die unschuldige Eheparthey betreibts, son¬
+#facs_315_r3l8 dieselbe wenigstens ein halb Jahr hienach¬
+#facs_315_r3l9 tans halb stillstehen, und wann sie sich,
+#facs_315_r3l10 nach desen Verfliesung, um Gewilli¬
+#facs_315_r3l11 gung anderwerts zu verehlichen, an¬
+#facs_315_r3l12 melden wurde, soll der Richter sich da¬
+#facs_315_r3l13 hin zubereden suchen, das sie wider
+#facs_315_r3l14 zu ihrem vorigen Ehegemahl bahre:
+#facs_315_r3l15 Chuerheblichen Fahls aber anderwertige
+#facs_315_r3l16 Ehe ihme weiters nicht gesperrt werden.
+#facs_315_r3l17 die schuldige Parthey aber soll wenig¬
+#facs_315_r3l18 stand Achthohen Sonat still stehen,
+#facs_315_r3l19 fahls die Unschuldige noch nicht noch
+#facs_315_r3l20 terehlichet wäre, auch dahin gewiesen
+#facs_315_r3l21 borden, sich mit ihrer abgescheidenen Ehe=
+#facs_315_r3l22 Parthey 7.
+#facs_316_r2l1 Parthey trachten zu versuhnen; Wann
+#facs_316_r2l2 ein solcher nicht angehet, mag ihm auch
+#facs_316_r2l3 bewilliget werden, sein Blub ander
+#facs_316_r2l4 wertig zusuchen.
+#facs_316_r2l5 Wosies die Unschuldige Per¬
+#facs_316_r2l6 Sohn ohne Erlaubnis ver¬
+#facs_316_r2l7 mahlen wurde, das
+#facs_316_r2l8 es nicht gelten soll.
+#facs_316_r2l9 XXII
+#facs_316_r2l10 Und ob sich die unschuldige Persohn, be¬
+#facs_316_r2l11 oder nach Verfliesung des halben Jahres
+#facs_316_r2l12 ohne Gunst und Erlaubnus Ansied¬
+#facs_316_r2l13 und bewählig
+#facs_316_r2l14 Ende nichts vermählen
+#facs_316_r2l15 burde, dieselbe Ehe soll nichts gelten:
+#facs_316_r2l16 Sondern für ein Ehebruch, wann der
+#facs_316_r2l17 Beyschlas darzu kommen, geachtet, und
+#facs_316_r2l18 gestraft werden: Doch soll gegen¬
+#facs_316_r2l19 solchen Persohnen, die Abarm aus Tho¬
+#facs_316_r2l20 heit, ohngefragt und ohnerlaubt, sich be¬
+#facs_316_r2l21 der in die Ehe verpflichten, und die
+#facs_316_r2l22 Schlängerung unterliese, mit jetzt
+#facs_316_r2l23 dachter Stras, Vernichtung der Ehe=
+#facs_316_r2l24 und ich
+#facs_316_r4l1 ben.
+#facs_316_r4l2 und Unehligmachung der Leibsfrucht
+#facs_316_r4l3 nicht geeilet, sondern in solchem Fahl
+#facs_316_r4l4 die Sach Unserem täglichen Raht für
+#facs_316_r4l5 gebracht, und da, nach deroselben deschah¬
+#facs_316_r4l6 fenheit, gehandlet werden.
+#facs_316_r4l7 So aber die Schuldige Persohn
+#facs_316_r4l8 sich ohne Erlaubnis vereh¬
+#facs_316_r4l9 lichet, was sie darinn
+#facs_316_r4l10 Laiden soll
+#facs_316_r4l11 XXIII
+#facs_316_r4l12 Wann ein ich brüchige Persohn, so von be¬
+#facs_316_r4l13 gangenen Ehebrucht liegen, gescheiden
+#facs_316_r4l14 worden, sich anderwertig terehlichet, ohne
+#facs_316_r4l15 vorgehende Erlaubnus Unsers Oberen
+#facs_316_r4l16 Gedtrichte, eine solche Ehe ungültig seyn,
+#facs_316_r4l17 und zu kamen Zeiten in Unsaren
+#facs_316_r4l18 Landen geduldet: Hiemit beyde Theil,
+#facs_316_r4l19 das ist, nicht nur die also ehebrüchig ab¬
+#facs_316_r4l20 gescheidene Persohn, sondern auch die,
+#facs_316_r4l21 so sich gedauter Masen mit derselben
+#facs_316_r4l22 unenlaubt./.
+#facs_317_r2l1 einerlaubt verpfliechtet, wann sie nicht
+#facs_317_r2l2 von einanderen abstehen, sondern
+#facs_317_r2l3 Leüth seyn wöllen, ihres Hand häb¬
+#facs_317_r2l4 chen Siser halb und Unsern Landes
+#facs_317_r2l5 gewiesen, und wann der Beyschlos
+#facs_317_r2l6 reits erfolget, nach dem Besaz, mitt
+#facs_317_r2l7 Befangenschafft abgestraff werden
+#facs_317_r2l8 Ja zu mehrerer Straßein ganz Jahr
+#facs_317_r2l9 lang Unsere Landschafft ihnen ver¬
+#facs_317_r2l10 sert seyn, dann wir solche Ehe in
+#facs_317_r2l11 Unseren Landen nicht leyden wol¬
+#facs_317_r2l12 len, doch 2 Oberkeitliche Bnad tod¬
+#facs_317_r2l13 behalten: Die Kinder aber von solchen
+#facs_317_r2l14 Eheleüthen erbohren, sollen für ihr
+#facs_317_r2l15 lich erzeuget angesehen, auch ihren
+#facs_317_r2l16 Vätterlichen Landt, Heymahte und
+#facs_317_r2l17 Bürger Rechtens genoes und theises
+#facs_317_r2l18 werden.
+#facs_317_r2l19 Wann sicd die BlCoseidene
+#facs_317_r2l20 bieder zusammen vorahlichen,
+#facs_317_r2l21 und darinn kein neuer
+#facs_317_r2l22 Kirchgang./.
+#facs_317_r3l1 1613
+#facs_317_r3l2 Kirchgang gehalten werden.
+#facs_317_r3l3 XXIV.
+#facs_317_r3l4 Wurden sich aber die Bescheidene
+#facs_317_r3l5 im Caus der Zeith, vor oder nach den
+#facs_317_r3l6 Jahr, mit einanderen wiederum versüh¬
+#facs_317_r3l7 nen: So sollen sie sich deshalb dem
+#facs_317_r3l8 Ehe Pricht angeben, und darum kein
+#facs_317_r3l9 Fürgenommen
+#facs_317_r3l10 neuer Kirchgang gehalten werden;
+#facs_317_r3l11 vorbehalten jedennoch, es hätte sich dann
+#facs_317_r3l12 antwoders indeßen anderwerts trech¬
+#facs_317_r3l13 lichet gehabt, in welchem Pahl die Ab¬
+#facs_317_r3l14 gescheidenen nicht bider zusammen
+#facs_317_r3l15 m
+#facs_317_r3l16 Tractor
+#facs_317_r3l17 Stras der Persohnen, so von
+#facs_317_r3l18 ihrer Trunkenheit und Fülle¬
+#facs_317_r3l19 nach Bagen, mit ihrer Ehe¬
+#facs_317_r3l20 Parthey Zänkisch
+#facs_317_r3l21 worden.
+#facs_317_r3l22 XXII
+#facs_317_r3l23 Wir geben hiemit unseren Ehe Richten
+#facs_317_r3l24 ren Bolvalt, bann ihnen von dergleichen
+#facs_317_r3l25 Trumbuen
+#facs_318_r2l1 Trunbnen, und Wein ergebenen Lez¬
+#facs_318_r2l2 und Wein, Balgerin Klag für käuß
+#facs_318_r2l3 Was maßen Sie sich nicht allein mit
+#facs_318_r2l4 ren Ehegemählen, sonderen auch in
+#facs_318_r2l5 der Pastallt, ungebührlich erzeigte
+#facs_318_r2l6 das sie nicht allein mit Befangenen
+#facs_318_r2l7 sondern auch mit Verbach der Stube
+#facs_318_r2l8 und Mihrte Häuseren strafen sollen,
+#facs_318_r2l9 und mogen.
+#facs_318_r3l1 unter 645
+#facs_318_r3l2 Vom Kirchgang, Jesu¬
+#facs_318_r3l3 chung der Predigen, und
+#facs_318_r3l4 Abend Babäcken, auch Hal¬
+#facs_318_r3l5 tung des Sabasts.
+#facs_318_r3l6 1
+#facs_318_r3l7 Wir gebiethem das männiglich, was Stande
+#facs_318_r3l8 jeder seye, nach dem Gefolch Bated, die
+#facs_318_r3l9 Predigen Göttlichen Worths, und die Pa¬
+#facs_318_r3l10 bätt mit Fleis, seines Orths, wo er
+#facs_318_r3l11 Kirch spählig, besuchen solle, und fehls
+#facs_318_r3l12 Solches zu verschiedenen Mahlen, son¬
+#facs_318_r3l13 derlich an Dorn, und beygebogen von den
+#facs_318_r3l14 Gemeindt¬ Duosen unterlaßen wurde,
+#facs_318_r3l15 sollen selbige zu dem Predigkant des
+#facs_318_r3l16 Orths bescheiden, dieselben in Frünt¬
+#facs_318_r3l17 sigkeit und Liebe erinnert worden, den
+#facs_318_r3l18 Gottes dienst freundlicher zu besuchen
+#facs_318_r3l19 Lehrners aus bleibenden Fehls vor
+#facs_318_r3l20 Chordreicht citiert, und in Liebe ange¬
+#facs_318_r3l21 musul S.
+#facs_319_r2l1 mähnet werden, dem Bortes dienst¬
+#facs_319_r2l2 tiger bey zu lohnen; Fahls aber die
+#facs_319_r2l3 ellet unverfänglich, und die Kirche
+#facs_319_r2l4 hörige ferners und bleiben thäten, sollen
+#facs_319_r2l5 sie Unseren Ober Amt leuthen, und
+#facs_319_r2l6 stellten Dingen nach, und zu gebühren
+#facs_319_r2l7 der Bestralung verleidet werden,
+#facs_319_r2l8 Et soll sich männiglich der Unsere
+#facs_319_r2l9 wähnend der Predigen, Kirchgang und
+#facs_319_r2l10 Bebätten, so wohl aus Sonn, und Leht¬
+#facs_319_r2l11 Pest- und Gätt Tagen alles Zächens und
+#facs_319_r2l12 Trinkand musigen, auch niemand der
+#facs_319_r2l13 Stadt und Platz geben.
+#facs_319_r2l14 Item alles Särkten, Tauschen, Sprü¬
+#facs_319_r2l15 schon, Trölen, Apellazen und umbstigen
+#facs_319_r2l16 Raht halten, soll an Bon-Feyer Paß
+#facs_319_r2l17 Dädt Tagen, so wohl wähnend, daß
+#facs_319_r2l18 den Predigen und Kirchgang, gänzliche
+#facs_319_r2l19 terbodten seyn.
+#facs_319_r2l20 Desgleichen soll aller Karren, Pahen
+#facs_319_r2l21 Schlichen, Schiffen, Pflügen, Sätzen,
+#facs_319_r2l22 Räym, Einführen, Zaunen, und
+#facs_319_r2l23 cisée.
+#facs_319_r3l1 C17.
+#facs_319_r3l2 den Feld, Arbeit, und äußerliche gemeine
+#facs_319_r3l3 Tag werk, an Sonn und Fayrtagen gänz¬
+#facs_319_r3l4 lich unterlasen werden; bey Zehen.
+#facs_319_r3l5 Pfunden unnach läsiger Aus¬ Hierung
+#facs_319_r3l6 ter aber sind nicht verstanden fremder
+#facs_319_r3l7 Kaus Leüthen Fuhr, und Last, Wägen,
+#facs_319_r3l8 und dergleichen Nohtfahl, doch also, das
+#facs_319_r3l9 dieselben nicht in währender Morgen,
+#facs_319_r3l10 Predig verfertiget werden. Dargegen aber
+#facs_319_r3l11 wollen Wir diesem Verbort auch angehenten
+#facs_319_r3l12 haben, das an Sonntagen sich nicht gezimmern,
+#facs_319_r3l13 de und unanständige Jagen, Kischen, —
+#facs_319_r3l14 Spiehlen, Kurzweilen und andere denglei¬
+#facs_319_r3l15 chen Werk, dardurch der Heiliges abath-
+#facs_319_r3l16 und Ruhetag in anderen Bebrauch vor¬
+#facs_319_r3l17 want wird: Bey gleicher Straff, bis nächst
+#facs_319_r3l18 Sie obstest.
+#facs_319_r3l19 sonderlich soll das an Doutagen in die
+#facs_319_r3l20 Stadt kommende Land Voll, und sonst Mann,
+#facs_319_r3l21 eiglich von allem Geldesen, mit Schepen
+#facs_319_r3l22 Jauffer &
+#facs_320_r2l1 Hauchsen, Müten und anderem uneheblich
+#facs_320_r2l2 rem Thun mit groben und üppigen, in
+#facs_320_r2l3 gerlichen Worten, Gebäuden und Mey¬
+#facs_320_r2l4 mit welchen der Tag des Herren auch schon
+#facs_320_r2l5 lich und übel misbraucht, und gemeinen
+#facs_320_r2l6 Ehrbarkeit verärgeret wird, Oberkeit li¬
+#facs_320_r2l7 abgemahnt und verwahrnet seyn, des¬
+#facs_320_r2l8 bij verhalten
+#facs_320_r2l9 diejenigen, so sich also üx
+#facs_320_r2l10 burden, durch die Weibel strabt in
+#facs_320_r2l11 Borgnichtliche Befangensches gefucht
+#facs_320_r2l12 und Beiters, nach Gestaltsammer der Dach¬
+#facs_320_r2l13 verdienter Masen angesehen werden.
+#facs_320_r2l14 Collen. Darzu dann ein jeder Unser¬
+#facs_320_r2l15 kleinen und Grosen Rahts Gebalts
+#facs_320_r2l16 ein solcher Insolenten dahin fuhren
+#facs_320_r2l17 zulasen.
+#facs_320_r2l18 An den Bäcklagen in der Wochen, welche
+#facs_320_r2l19 her im Unser Haubt, Statt der Donstag¬
+#facs_320_r2l20 ist, sollen die Laden und Werb, Statt
+#facs_320_r2l21 nen lährender Predig beschlossen behal¬
+#facs_320_r2l22 ten, die Predigen besucht, und in sol¬
+#facs_320_r2l23 cher f.
+#facs_320_r3l1 Latus
+#facs_320_r3l2 cher Zeit die Hand Arbeit unterlaßen, weil
+#facs_320_r3l3 ger einiges Klopfen, Hochdlaw, Hämmern
+#facs_320_r3l4 dergleichen hinderliche Ding getrie¬
+#facs_320_r3l5 und
+#facs_320_r3l6 ben werden: Bey zweyen Pfunden aus,
+#facs_320_r3l7 von dem Übertreten, halb zu der Kirchen
+#facs_320_r3l8 und halb zu der Weiblen als Ausseheren
+#facs_320_r3l9 Handen, zu bezeichen.
+#facs_320_r3l10 Die Feürgschauer und Venner Weibel
+#facs_320_r3l11 sollen allhier in der Stadt, und aus dann
+#facs_320_r3l12 Land in jeder Kirchhöri Zwey sonst bestel¬
+#facs_320_r3l13 te Aus seher seyn, und durch die Amtleichen
+#facs_320_r3l14 und Predig kanten darzu ehrbahren tugent¬
+#facs_320_r3l15 liche Männer, Weibel, oder andere gesezt
+#facs_320_r3l16 werden, aus die fahrlosige Kirchgänger und
+#facs_320_r3l17 Besucher der Arbeiten, auch andere laster¬
+#facs_320_r3l18 habte Sachen, und die so an Sonn,, und andern
+#facs_320_r3l19 Tagen, böhrend der Predigen, Kinder¬
+#facs_320_r3l20 ehren, oder Abend Gebätten, vor der Kie¬
+#facs_320_r3l21 chen oder anderstlei, hin und beider stehen,
+#facs_320_r3l22 schlagen spiehlen, oder andere leicht fertig¬
+#facs_320_r3l23 Sachen üben, oder sich in Wihrt-Weinschenen
+#facs_320_r3l24 ben etc.
+#facs_321_r1l1 nen, Hoch, und Winkel, Häuser in das neue
+#facs_321_r1l2 Itand bey Zeit und Weil der Predigen, der
+#facs_321_r1l3 Obr. Löbkuchen, und Breutenbein, oder
+#facs_321_r1l4 dergleichen vorkaufen, bey ihren Erhde
+#facs_321_r1l5 zu achten, sie in die Kirchen zu beisen,
+#facs_321_r1l6 und dieselben, sonderlich aber diejenigen
+#facs_321_r1l7 so in solcher Zeit bey dem Zächund Teunsch
+#facs_321_r1l8 funden werden, im Unser Stadt, einen
+#facs_321_r1l9 jelresenden Obmann am Chor Bricht u.
+#facs_321_r1l10 Chorl. Richteren ich, und aus dem Land da
+#facs_321_r1l11 Ober Amtleüthen, Prediganten und
+#facs_321_r1l12 Cder. Richteren bey ihren Eyden zu ver¬
+#facs_321_r1l13 leiden, damit von denselben die bestimten
+#facs_321_r1l14 Zahen Pfund Bus bezogen werden.
+#facs_321_r1l15 von Kinder, Lohren
+#facs_321_r1l16 11.
+#facs_321_r1l17 Et ist Unser Will, das die Kinder, Jahre
+#facs_321_r1l18 llenthalb zu Stadt und Land
+#facs_321_r1l19 Kirch Spiehl zu Winters Zeit in den
+#facs_321_r1l20 Häusern, und zu Sommers Zeit in denke
+#facs_321_r1l21 Monsieur
+#facs_321_r1l22 ikon
+#facs_321_r1l23 chen mit der Jugend, vor
+#facs_321_r1l24 bis 5 f.
+#facs_321_r2l1 624
+#facs_321_r2l2 bis ausgangd Octobris bey Meidung der
+#facs_321_r2l3 Kirchen dienerin Entsatzung, oder an¬
+#facs_321_r2l4 derer Stras, fleisig gehalten werden.
+#facs_321_r2l5 sollen auch alle Hand=Väter in
+#facs_321_r2l6 ad jeder ins besonders ihre Kin¬
+#facs_321_r2l7 Jugend, von sechs bis aus Zwan¬
+#facs_321_r2l8 der und
+#facs_321_r2l9 zig Jahren Alters, auch die Dienst und
+#facs_321_r2l10 Hausgenosen, mit mehreren Ernst, als¬
+#facs_321_r2l11 bis hern darzu halten, und ihnen an Dönn
+#facs_321_r2l12 tagen, insonderheit das Zusamenleusen,
+#facs_321_r2l13 und allerley unordenlich üppig Leben
+#facs_321_r2l14 und Mesen nicht gestatten, noch ihren —
+#facs_321_r2l15 Diensten, Knechten, oder Mägden, wann sie
+#facs_321_r2l16 die dingend, vorsprechen, ihnen zuzulasen,
+#facs_321_r2l17 die JahrMärbt, Hochzeit, und Sontäglichen
+#facs_321_r2l18 Versammlungen zu besuchen, bey zehen
+#facs_321_r2l19 Pfunden aus, und sollen Knechtung
+#facs_321_r2l20 so solche Vorbehaltens thun bey
+#facs_321_r2l21 Mg’s 1/ in all
+#facs_321_r2l22 daw, jedes eine drey Pfund gebüßt, loosia
+#facs_321_r2l23 aber die nicht vermöchten, mit Gefangen
+#facs_321_r2l24 schafft gestratz worden: Welche dann das
+#facs_321_r2l25 juge rt
+#facs_322_r2l1 ninge Volk, in solchem uppigan Masen,
+#facs_322_r2l2 und Abzug von den Kinder, Lehren
+#facs_322_r2l3 haben, sich dann Predigkeuten leider
+#facs_322_r2l4 men, oder die Fehlbahren vor Uns¬
+#facs_322_r2l5 seren Amtleuthon und ChorRichter
+#facs_322_r2l6 versprechen wurden, die seyen Beam¬
+#facs_322_r2l7 te oder Unbeamtete, sollen um Jahr
+#facs_322_r2l8 Pfund, und ein Maibs Persohn um sei¬
+#facs_322_r2l9 Pfund dus gestraftt, und die Fürgeb¬
+#facs_322_r2l10 ten Unter Amtlärth und Beschleger
+#facs_322_r2l11 die über das erste Wahl solches thun lie¬
+#facs_322_r2l12 den, ihrer Diensten, neben der Aus¬
+#facs_322_r2l13 sagt worden.
+#facs_322_r2l14 Die Kirchen Diener zu Stadt und Canne
+#facs_322_r2l15 Jahr und
+#facs_322_r2l16 Collan mit Chor. Richtoren alle Früh¬
+#facs_322_r2l17 ling, von Haus zu Haus, von Hof zu thuen
+#facs_322_r2l18 ein Umgang thun, alle Lind und
+#facs_322_r2l19 inn ein Rodel aus schreiben, aus den
+#facs_322_r2l20 Daum seligen achten, die fahrläßigen
+#facs_322_r2l21 Kirchs angehörigen für Welßnicht
+#facs_322_r2l22 beschiken, und wo sie nicht gnugsame
+#facs_322_r2l23 Dasach sch¬
+#facs_322_r4l1 um 623
+#facs_322_r4l2 Ursach fürbenden können, straffen und
+#facs_322_r4l3 für deserung mahnen, die aber über
+#facs_322_r4l4 das ungehorsamm, und, denn Ober Amtler¬
+#facs_322_r4l5 then, oder dem Choeßricht Unser
+#facs_322_r4l6 Haubtstatt verleyden, strengere Straff
+#facs_322_r4l7 darob zu erwarten.
+#facs_322_r4l8 Vom Tauff
+#facs_322_r4l9 111
+#facs_322_r4l10 Da soll niemand seine Kind, sie seyen
+#facs_322_r4l11 ehelich oder unehelich, in dann Stätten¬
+#facs_322_r4l12 über Acht, und aus der Land schatt über
+#facs_322_r4l13 vier zohen Tag ungetausst lesen, er habe
+#facs_322_r4l14 Dann solche billiche Ursach, das ein Pre¬
+#facs_322_r4l15 dig laut ihne für entschuldiget haben¬
+#facs_322_r4l16 möchte, wo nicht, die Übertreffer und
+#facs_322_r4l17 Johan Pfund gestralt werden.
+#facs_322_r4l18 Wie lasen auch nicht geschehen, das zu
+#facs_322_r4l19 Eind mahn dann drey Betätter
+#facs_322_r4l20 Changelischer Religion genommen worden,
+#facs_322_r4l21 die Fällen auch ihres Slaubens halb
+#facs_322_r4l22 7
+#facs_323_r1l1 und Verstand des Tauss dermasen unter
+#facs_323_r1l2 richtet seyn, das sie darinnen Bescheid ge¬
+#facs_323_r1l3 ben mögten.
+#facs_323_r1l4 Die verslichen Kind soll man, aus¬
+#facs_323_r1l5 Begehren der Muter oder anderer nichten
+#facs_323_r1l6 ungelaufft lesen, sondern hernach
+#facs_323_r1l7 Vater erfragt werden, nach Ordnung
+#facs_323_r1l8 des Chordreichte weiter hierinn zu¬
+#facs_323_r1l9 Landlan.
+#facs_323_r1l10 Wir böllen auch, das die erbästen
+#facs_323_r1l11 Zeügen, wo sie Leibe und ohrhaft der Stadt
+#facs_323_r1l12 4
+#facs_323_r1l13 Has kein halb nicht verhinderet werden, ich
+#facs_323_r1l14 ne Pflicht selbe persöhnlich erstattend,
+#facs_323_r1l15 zugleich das die Vätzer dem Heilig
+#facs_323_r1l16 gen Taus salbs beywohnen, und sich zu¬
+#facs_323_r1l17 vor bey dem Kirchendiener Darum ein
+#facs_323_r1l18 melden sollen.
+#facs_323_r1l19 Es sollen auch nochmahlen zu Stadt
+#facs_323_r1l20 und Land ganz ernstlich vorbotten seyn,
+#facs_323_r1l21 die überflüsigen und vöstlichen Taus¬
+#facs_323_r1l22 Michler, welche es seye am Tag, wann sie
+#facs_323_r1l23 Eind den Christlichen Taus empfahrt, oder
+#facs_323_r1l24 darnach
+#facs_323_r2l1 125
+#facs_323_r2l2 Carnach, mit Berüsen vieler Persohnen,
+#facs_323_r2l3 als auch in Unbescheidenheit und Mis¬
+#facs_323_r2l4 brauch Spöis und Tranks, langembizen
+#facs_323_r2l5 und dergleichen, gehalten werden mög¬
+#facs_323_r2l6 ten: Jedoch dan Behärterten und Ver¬
+#facs_323_r2l7 wanten, so von auseren Orten har¬
+#facs_323_r2l8 kommend, ein bescheidenlicher Mahl¬
+#facs_323_r2l9 vorbehalten.
+#facs_323_r2l10 ebenmäsig sollen auch abgestrakt
+#facs_323_r2l11 seyn, die unnoht bandigen Geistlichen
+#facs_323_r2l12 chen, Ehebaren Gerüchteren übel an¬
+#facs_323_r2l13 ständigen Gräbnus Mühler, solche loe¬
+#facs_323_r2l14 Der inn eigenen noch offenen Häusern
+#facs_323_r2l15 Auch alten: Alles bey zehen Pfunden
+#facs_323_r2l16 Bus.
+#facs_323_r2l17 Doch was die belanget, so die Leich¬
+#facs_323_r2l18 zum Grab fertigen, und zur Erdow
+#facs_323_r2l19 bestadten, denen mögen des Abgestorben
+#facs_323_r2l20 Verwanten für ihre Mühe und
+#facs_323_r2l21 Erbeit Zahlung einer Wahl: dasglei¬
+#facs_323_r2l22 chen aus eren Fründen und Verwanten
+#facs_323_r2l23 ein Mahl in Bescheidenheit beiden lesen.
+#facs_323_r2l24 Esq.
+#facs_324_r1l1 vom Placstmahl des
+#facs_324_r1l2 H. A. E. S.
+#facs_324_r1l3 IV
+#facs_324_r1l4 Wir wollen hiemit befohlen haben, das
+#facs_324_r1l5 welche Persohnen in Jahrs Zeit ein¬
+#facs_324_r1l6 oder mehrmahl am Neid, Zorn und H.
+#facs_324_r1l7 gegen ihrem nächsten, oder anderen¬
+#facs_324_r1l8 leichtfertigen Ursachen, sich des Her¬
+#facs_324_r1l9 von Rahtmahl enthalten und enthir¬
+#facs_324_r1l10 hen thäten, dieselben aus dem Landt¬
+#facs_324_r1l11 Borgricht beschikt, und darum gerecht
+#facs_324_r1l12 fertiget, auch zu aus und deserung be,
+#facs_324_r1l13 mähnt: Aber in Unser Stadt solches ge¬
+#facs_324_r1l14 gen Haus-Räckeren, Maus-Persohnen
+#facs_324_r1l15 Weiberen, und anderen Mit- Frawen
+#facs_324_r1l16 so der Meidung des Heer. R.K. Sach¬
+#facs_324_r1l17 mahls beschuldiget, also solle gehalten
+#facs_324_r1l18 werden: Nämmlich das die Männer trei=
+#facs_324_r1l19 Georgnicht beschikt, und daselbst gere¬
+#facs_324_r1l20 fertiget, die Eheweiber und aber und
+#facs_324_r1l21 Witloen, durch etliche Tonn Obergericht,
+#facs_324_r1l22 ervt h
+#facs_324_r2l1 527
+#facs_324_r2l2 samt einem Predigkanten in ihren
+#facs_324_r2l3 Häuseren befragt, und zu zusund desen
+#facs_324_r2l4 nung gewiesen worden, welche aber sein
+#facs_324_r2l5 liche Ursachen und Anligen zuhaben.
+#facs_324_r2l6 Die mögen od in geheim ich von
+#facs_324_r2l7 vermeinen,
+#facs_324_r2l8 Predigkanten anzeigen: Bey welchen
+#facs_324_r2l9 aber solches alles nichts fruchten würck¬
+#facs_324_r2l10 behalten Wie Uns vor gegen dieselben.
+#facs_324_r2l11 das Weitere nach bewarten Dingen zu
+#facs_324_r2l12 bewordnen, welche aber in offentlichen Ar¬
+#facs_324_r2l13 gerlichen Lasteren, als Füllerey, Trun¬
+#facs_324_r2l14 Namheit, Hureÿ, stätigem Zanten, Tro¬
+#facs_324_r2l15 len und darg leichen Ergernusen, ohne
+#facs_324_r2l16 Gaserung verharren, und nicht deßelweniger
+#facs_324_r2l17 sich mit den Gemeine Watter, zu des Herrn
+#facs_324_r2l18 Tis ich verfügen, die sollen etlich Tag zuvor
+#facs_324_r2l19 für Chordreicht brauben, ich nun die Befoh¬
+#facs_324_r2l20 ihres unlourdigen Riesens des Heiligen
+#facs_324_r2l21 Decraments fürgehalten werden, mit ernst¬
+#facs_324_r2l22 licher Erinnerung des grosen Anheils, so
+#facs_324_r2l23 sie des wegen von B. D. A. zu erwarten;
+#facs_324_r2l24 Wann dann über solche Vermahnung, so
+#facs_324_r2l25 die 7.
+#facs_325_r2l1 die Hartnähigen Verächt er Doctor, und
+#facs_325_r2l2 seiner Salammenten sich weiter ein
+#facs_325_r2l3 dringen wurden, dieselben sollen
+#facs_325_r2l4 Predigkanton und Gorgnicht der D.
+#facs_325_r2l5 keit, und ihren Amtleuthen zu trechen
+#facs_325_r2l6 en, damit sie nach der stalt und Er¬
+#facs_325_r2l7 forderung der Sach angesehen werde,
+#facs_325_r2l8 Er will sich auch nicht gebühren, so
+#facs_325_r2l9 Heinesung der Heil. Sacramenten,
+#facs_325_r2l10 mit üppiger, prächtig er und leicht fer¬
+#facs_325_r2l11 c:
+#facs_325_r2l12 tiger, sondern in ehrbahrer, anständig
+#facs_325_r2l13 ger und unseren Ordnungen ganzen
+#facs_325_r2l14 sener Kleidung für das Herrn
+#facs_325_r2l15 angesicht zu tratten; Und so jamaus
+#facs_325_r2l16 sich in nächster Zeit z Beyer oder dersel¬
+#facs_325_r2l17 Tagen vorhero so ihme bewust, daß des
+#facs_325_r2l18 Herren Rechtmahl vorhanden, mit M.
+#facs_325_r2l19 oder anderer Ehebarkeit bladen wurde,
+#facs_325_r2l20 Der soll vom Congeicht höher, dauch
+#facs_325_r2l21 anderen Zeiten gestraft worden: Nammlich
+#facs_325_r2l22 umm hohen Pfund aus, so Wir auch
+#facs_325_r2l23 nen hiemit auslegen, die am Tag des Herrn
+#facs_325_r2l24 Rachtmasilch
+#facs_325_r3l1 229
+#facs_325_r3l2 Nachtmahls, so in Gesellschaften
+#facs_325_r3l3 Wischen
+#facs_325_r3l4 und Zäch, Häuser, oder andere Doth, in
+#facs_325_r3l5 oder auserhalb der Stadt zum Zächen¬
+#facs_325_r3l6 begeben wurden: In gleicher Aus sol¬
+#facs_325_r3l7 ben auch begrifen seyn derjenigen, so dar¬
+#facs_325_r3l8 zu Stadt und Platz geben.
+#facs_325_r3l9 Er sollen auch die Kirch, Banosen,
+#facs_325_r3l10 allenthalben, bann sie zum Nachtmahl
+#facs_325_r3l11 des Herren gegangen sind, in Christli¬
+#facs_325_r3l12 cher Bemeind bey einanderen verharren,
+#facs_325_r3l13 bis zu Ende daselben, und der Danksagung
+#facs_325_r3l14 die man von Herzen thun soll, und
+#facs_325_r3l15 Dein Heilig Leyden und Sterben, bey¬
+#facs_325_r3l16 wohnen, und niemand gezinnen, dertor ab,
+#facs_325_r3l17 zutreiten, er wurde von Krankheit, oder
+#facs_325_r3l18 Leibd-Kloff getrungen.
+#facs_325_r3l19 Damit aber die Jungen Unterständigen
+#facs_325_r3l20 Wohl erinneren, und an der Heil. Einsatzung¬
+#facs_325_r3l21 des Herrn nicht vergreiben, sondern mit
+#facs_325_r3l22 Vorbericht sich darzu schicken, sollen alle und
+#facs_325_r3l23 jede Predigkanten /: zuvor ehe die Vorben
+#facs_325_r3l24 reitungs Bedächtnus des Leidens Christen
+#facs_325_r3l25 Durch das Heilig Sacrament geübt wird :/
+#facs_325_r3l26 als 7.
+#facs_326_r2l1 als zu Ostern, Pfingsten, auch ein erster
+#facs_326_r2l2 Dontag im Herbstmonat und zu Wieh¬
+#facs_326_r2l3 ein Christliche Predig halten, darneben
+#facs_326_r2l4 auch ein verständliche Unterbersung so
+#facs_326_r2l5 darbahr gegen dem jungen Volk terricht
+#facs_326_r2l6 Desgleichen sollen sie die Haus Vätter.
+#facs_326_r2l7 Hand Mutter vermahnen, damit die Jugne
+#facs_326_r2l8 den Tisch des Herren besuchen, und dieses
+#facs_326_r2l9 Heil. Decrament würdiglich gewesen
+#facs_326_r2l10 möge, selbige hierzu durch die Predigung
+#facs_326_r2l11 ten erforderlicher Masen zubereiten.
+#facs_326_r2l12 und unterweisen zulaßen, und boße sich
+#facs_326_r2l13 nach werths in einem anderen Künchspiehl
+#facs_326_r2l14 wiederlosen wollten, sollen sie einen
+#facs_326_r2l15 Zauguns Schein von dem Predig Landen
+#facs_326_r2l16 so sie unterweisen, mit nemen, um hie¬
+#facs_326_r2l17 zeigen, das eine solche Persohn hierzu
+#facs_326_r2l18 tüechtig erfunden worden.
+#facs_326_r2l19 Fremde und unbekante Persohnen
+#facs_326_r2l20 aber, so das Hochbürdig, Nachtmahl der
+#facs_326_r2l21 Herren uns in wollen, sollen allliegen
+#facs_326_r2l22 vierzogen Tag zu vor bey dem Predig¬
+#facs_326_r2l23 konnten des 2 Artr sich angeben, und ex
+#facs_326_r2l24 mineraux
+#facs_326_r3l1 631
+#facs_326_r3l2 manieren lesen, ob sie gnugsamme Erkantn,
+#facs_326_r3l3 aus haben, und wie sie fernere Unterbe¬
+#facs_326_r3l4 sung vonnöhten hätten, sollen sie hiezu
+#facs_326_r3l5 gebuhrend vorbereitet werden.
+#facs_326_r3l6 Vom Unterricht, und Versörung
+#facs_326_r3l7 der Erwachsenen, sonderlich vor
+#facs_326_r3l8 Haltung des Herren Recht¬
+#facs_326_r3l9 mahls und Einsegnung
+#facs_326_r3l10 der Ehe.
+#facs_326_r3l11 de cette partie.
+#facs_326_r3l12 Es sollen alle Kirchen diener Schul¬
+#facs_326_r3l13 und LehnMeisteren in den Kirchen mit
+#facs_326_r3l14 Schulen neben Unterweisung der Jugen,
+#facs_326_r3l15 die so zu Jahren und Tagen kommend, son¬
+#facs_326_r3l16 derlich in den Johannesen der Heil.
+#facs_326_r3l17 Sacramenten /: des Heil. Haus und Nach¬
+#facs_326_r3l18 nahlt das Herren :/ vom Heil. Stand¬
+#facs_326_r3l19 der Ehe, und wie sie sich in die Pflicht
+#facs_326_r3l20 und Behorsamme der Oberkeit schicken
+#facs_326_r3l21 sollen, unterrichten, lauth des in Trub
+#facs_326_r3l22 gegebenen kurzen Unterricht Puchleiner
+#facs_326_r3l23 07
+#facs_327_r2l1 So sollen auch die Kirchen Diener allhier
+#facs_327_r2l2 im Unser Haubt Stadt und aus dem
+#facs_327_r2l3 zu gewüser Zeit, allliegen vor Haltum
+#facs_327_r2l4 des Herrn Nachtmahls, die erlauchs¬
+#facs_327_r2l5 Tugend und Dienst in der Kirchen, oder
+#facs_327_r2l6 im Pfundhaus befragen, in vorberuf
+#facs_327_r2l7 eind aus die
+#facs_327_r2l8 ten Puncten unterweisen
+#facs_327_r2l9 End im ordenliche Verzuch ausgemacht
+#facs_327_r2l10 aller Söhnen, Töchteren, Knechten und
+#facs_327_r2l11 Magden, damit die Dammsiligen augen
+#facs_327_r2l12 ben, und gestraß: werden.
+#facs_327_r2l13 Denn die Jungen angehenden Eheleich
+#facs_327_r2l14 vor Einsegnung derselben, was von ihr
+#facs_327_r2l15 ten geachtet wird, für sie beschikt, in
+#facs_327_r2l16 Haubt-Stuken Christlicher Religion
+#facs_327_r2l17 bis sonderlich vom Ehestand, umständig
+#facs_327_r2l18 lich erforschet, welche nicht erscheinen
+#facs_327_r2l19 oder nicht leidenlich an Bescheid geben,
+#facs_327_r2l20 und also des Ehestands ganz unbericht,
+#facs_327_r2l21 noch unbürdig erkannt wurden, diesel¬
+#facs_327_r2l22 ben je nach befinden ausgehalten, und
+#facs_327_r2l23 die Zusamengebung eingestellt werden.
+#facs_327_r2l24 möglich.
+#facs_327_r3l1 633
+#facs_327_r3l2 nöge, ungeacht das Hochzeit schon angestellet
+#facs_327_r3l3 wäre worden.
+#facs_327_r3l4 zu Steiffhaltung dieser Ordnung solle
+#facs_327_r3l5 alle Decanen, wie auch die Juraten, und die
+#facs_327_r3l6 so visitieren, verbunden seyn, in Haltung
+#facs_327_r3l7 der gemeinen oder sonderen Capitlen¬
+#facs_327_r3l8 und Visitationen, nachzuforschen, ob die
+#facs_327_r3l9 Kirchen Diener solche Unterweisung und
+#facs_327_r3l10 Erforschung mit Ernst und Treuen einge,
+#facs_327_r3l11 führt und geübt, oder mitgelesen, die so
+#facs_327_r3l12 lahrlosig erfunden, zu verzeichnen, und
+#facs_327_r3l13 inn die Acta einzuterleiben, und alle
+#facs_327_r3l14 die Mängel an dann einen und anlern
+#facs_327_r3l15 bey ihren Eyden angebührenden Orthe
+#facs_327_r3l16 zu indteben.
+#facs_328_r2l1 Londachsen vnd Last
+#facs_328_r2l2 ren, so der Reformierten Even¬
+#facs_328_r2l3 gelischen Orth Zuläder.
+#facs_328_r2l4 1
+#facs_328_r2l5 von Papistischen Leremonien
+#facs_328_r2l6 Dienbeil dieselbigen viel und mancher
+#facs_328_r2l7 sind, für nemlich aber die Mes und
+#facs_328_r2l8 Kirch weichenen, Mahlfahrten und der
+#facs_328_r2l9 gleichen: Wölland Wie jede Maus¬
+#facs_328_r2l10 Persohn, so sich darmit vorgehen können
+#facs_328_r2l11 e, um Zehow, und am Maibun¬
+#facs_328_r2l12 Kuns Pfund, laut der alten Ordnung
+#facs_328_r2l13 forsen.
+#facs_328_r2l14 Und sollen hierauf Unsere Dber¬
+#facs_328_r2l15 und Unter, Amtläuth, auch Echjänner
+#facs_328_r2l16 und Beschlorne zu Stadt und Land¬
+#facs_328_r2l17 Hochlachten, und in Abstraffung der
+#facs_328_r2l18 Übertreckeren schuldigen Eyfer erlei¬
+#facs_328_r2l19 son.
+#facs_328_r2l20 -
+#facs_328_r2l21 hon cs
+#facs_328_r3l1 um 635.
+#facs_328_r3l2 11
+#facs_328_r3l3 von Bocts Lästerung, Schweren
+#facs_328_r3l4 und Fluchen.
+#facs_328_r3l5 Beforderst soll ein jeder ins gemein, was
+#facs_328_r3l6 Stants und Wesans er seye, allezeit vor sei¬
+#facs_328_r3l7 nen Zügen haben und läusen, das Gott
+#facs_328_r3l8 der Herr den nicht unschuldig halten land,
+#facs_328_r3l9 Der Seinen Nahmen üppiglich und eitel
+#facs_328_r3l10 et, das liegen sich selbe vor allem
+#facs_328_r3l11 Borte lästeren, üppigern, leichtfertigen
+#facs_328_r3l12 Schleeren und Fluchen, wider sich selbe
+#facs_328_r3l13 und denn Nebend-Menschen, entlechnen
+#facs_328_r3l14 und enthalten, und seinem Nebend Man¬
+#facs_328_r3l15 schon ein gut Exempel und deserung seyn.
+#facs_328_r3l16 Demnach seinen Nächster, jung und
+#facs_328_r3l17 alt, nach der Lehr des Heiligen Apostels¬
+#facs_328_r3l18 Pauli beseren, den oder diejenigen, von
+#facs_328_r3l19 Danau er es hört, in gemein, oder sonderen
+#facs_328_r3l20 Besprächen, oder in Besellschaften, da¬
+#facs_328_r3l21 über freundlich und brüderlich beshelten,
+#facs_328_r3l22 und darvon abmahnen, insonderheit auch
+#facs_328_r3l23 die Landleuth, von denen man dergleichen
+#facs_328_r3l24 u Kollenhälsen, aus den Basen, und andere
+#facs_329_r1l1 = loosert
+#facs_329_r1l2 Die eben, so der Vermahnung nicht acht
+#facs_329_r1l3 sonderen darüber mit schnöden und bo¬
+#facs_329_r1l4 Bescheid begegnen würden, sollen in allen
+#facs_329_r1l5 ser Haubt, Stadt Unserem Ober Worg
+#facs_329_r1l6 aus dem Land aber den Furgesezten und
+#facs_329_r1l7 Ober, Amtlauthen, vorleydet werden.
+#facs_329_r1l8 So sich aber jemand mit so grosen und
+#facs_329_r1l9 grausamen Pödte Lasterungen und Sie
+#facs_329_r1l10 ren vertieben möchte, behalten Wir Uns
+#facs_329_r1l11 tor, an solche höhere Loibs, und Butz Stralsund
+#facs_329_r1l12 zuwenden.
+#facs_329_r1l13 Insonderheit sollen alle Kirchen, dienen
+#facs_329_r1l14 Borkrichter, Schul- und Lehrmeister, Haus
+#facs_329_r1l15 Vätter und Haus Mücker aus ihre Kirchge¬
+#facs_329_r1l16 nosen, Schuler, Lehrenburg, Kindern
+#facs_329_r1l17 und Dienst, mit mehrerem Fleisachten
+#facs_329_r1l18 die mit Beschaltung und Abstraßung
+#facs_329_r1l19 ten entwohnen, ihnen aber aus mit gutem
+#facs_329_r1l20 Exempel vorgehen, und sich selbe davon
+#facs_329_r1l21 enthalten.
+#facs_329_r1l22 Auch in den Schulen ins Onderheit die
+#facs_329_r1l23 Censuray
+#facs_329_r2l1 637
+#facs_329_r2l2 Censuren angestellt, durch öffentliche und
+#facs_329_r2l3 heimliche Ausseher aus die Jugend geachtet,
+#facs_329_r2l4 die Fehlbahren verzeichnet, und nach Ver¬
+#facs_329_r2l5 dienen gezüchtiget werden.
+#facs_329_r2l6 Und hiemit sich alle Amt Leut bey¬
+#facs_329_r2l7 ihrer schuldigen Eydt Pflicht hierin
+#facs_329_r2l8 ganz wachtbahr und eyferig erzeigen, heim¬
+#facs_329_r2l9 liche und öffentliche Ausschword¬
+#facs_329_r2l10 nen, die mit ganzein Ernst aus die Über¬
+#facs_329_r2l11 trecker achten, und die Ungehorsammen den¬
+#facs_329_r2l12 Amtlruthen oder Chonkichteren ver¬
+#facs_329_r2l13 leiden.
+#facs_329_r2l14 111
+#facs_329_r2l15 Von Zauberey, Schwarz Kür¬
+#facs_329_r2l16 sten, versagern der Kranken
+#facs_329_r2l17 heiten, abergleubiger Leven
+#facs_329_r2l18 und Schaze
+#facs_329_r2l19 Brolow.
+#facs_329_r2l20 Die mit Wahrsagen desch Herren Mund¬
+#facs_329_r2l21 Lager, Mas an verbinden Weggerechne,
+#facs_329_r2l22 dergleichen Betrungenachen, als von
+#facs_329_r2l23 drittig
+#facs_330_r3l1 soe sort
+#facs_330_r3l2 die aber, so der Vermahnung nicht achten
+#facs_330_r3l3 sonderen darüber mit schnöden und bösen
+#facs_330_r3l4 Beschen begegnen würden, sollen in Ur¬
+#facs_330_r3l5 ser Haubt, Stadt Unserem Ober Gerge¬
+#facs_330_r3l6 aus dem Land aber den Fürgesetzten und
+#facs_330_r3l7 Ober, Amtleuthen, vorley dat werden.
+#facs_330_r3l8 So sich aber jemand mit so gros und un¬
+#facs_330_r3l9 grausamen Poete Lasterungen und Schlech¬
+#facs_330_r3l10 ren vorließen möchte, behalten Wir Un¬
+#facs_330_r3l11 tor, an solche höhere Loibs, und Gut, Stralsund
+#facs_330_r3l12 zuwenden.
+#facs_330_r3l13 Insonderheit sollen alle Kirchen, diener
+#facs_330_r3l14 Vorl. Richter, Schul- und Lehrmeister, Haus¬
+#facs_330_r3l15 Pätzer und Haus Mütter aus ihre Kirch ge¬
+#facs_330_r3l16 nosen, Schules, Lehrknebinn, Kinder
+#facs_330_r3l17 und Dienst, mit mehrerem Fleisachten
+#facs_330_r3l18 die mit Beschaltung und Abstraßung der
+#facs_330_r3l19 ten entwohnen, ihnen aber auch mit gutem
+#facs_330_r3l20 Exempel vorgehen, und sich selbe darvon
+#facs_330_r3l21 enthalten.
+#facs_330_r3l22 Auch in den Schulen insanderheit die
+#facs_330_r3l23 Censuron y
+#facs_330_r4l1 637
+#facs_330_r4l2 Censuren angestellt, durch öffentliche und
+#facs_330_r4l3 heimliche Ausseher aus die Jugend geachtet,
+#facs_330_r4l4 die Fehlbahren verzeichnet, und nach Ver¬
+#facs_330_r4l5 dienen gezüchtiget werden.
+#facs_330_r4l6 Und hiemit sich alle Amt, Leuth bey¬
+#facs_330_r4l7 ihrer schuldigen Eydt Pflicht hierin
+#facs_330_r4l8 ganz leachtbahr und eyferig erzaligen, seines
+#facs_330_r4l9 lich und öffentliche Ausschwend¬
+#facs_330_r4l10 nen, die mit ganz ein Ernst aus die Über¬
+#facs_330_r4l11 trecker achten, und die Ungehorsammen den
+#facs_330_r4l12 Amtleükhen oder Werkrichteren ver¬
+#facs_330_r4l13 leiden.
+#facs_330_r4l14 111
+#facs_330_r4l15 Von Zauberey, Schwarz Lür¬
+#facs_330_r4l16 sten, versegnen der Krank¬
+#facs_330_r4l17 heiten abergläubigen Leren
+#facs_330_r4l18 und Schaz
+#facs_330_r4l19 dralen.
+#facs_330_r4l20 Die mit Wahrsagen, desch Herren, Wund¬
+#facs_330_r4l21 sagen, Was den verbinden segnen war,
+#facs_330_r4l22 darg leich en Betriegerochen, als von
+#facs_330_r4l23 Kntt of
+#facs_331_r2l1 dem Herren verbotenen Zauberey umge¬
+#facs_331_r2l2 han, auch die in allerley Krankheiten
+#facs_331_r2l3 unfählen, verlurst, und Wickelwärtig,
+#facs_331_r2l4 keiten ihrer Persohnen, oder Gute halben
+#facs_331_r2l5 mit denselben Wandel und Gemeinsch
+#facs_331_r2l6 haben, Hilff und Raht bey ihnen suchen
+#facs_331_r2l7 worden: Sollen nicht allein für Chor¬
+#facs_331_r2l8 Reicht beschikt, aus Bockes Wohrt darinn
+#facs_331_r2l9 gestrat und ermahnt worden, davon ab¬
+#facs_331_r2l10 zu stehen, sondern ein Manns Persohn Ihr
+#facs_331_r2l11 Zig, und ein Weibe Persohn hohen Pfund
+#facs_331_r2l12 Ausgaben, für das erste Mahl: das an¬
+#facs_331_r2l13 der Wahl über Aus vorley dat, solche Zauber
+#facs_331_r2l14 Meister und Schwarz Künstler, auch die
+#facs_331_r2l15 so selbige gebrauchen mit zweyfachen
+#facs_331_r2l16 Bus, Befangensches, oder an Leib, Ehe,
+#facs_331_r2l17 und Blut und Verleisung abzustrafen,
+#facs_331_r2l18 der Meinung das von dahero fliesenden
+#facs_331_r2l19 Bösen dem Verley der jeweilen der halben
+#facs_331_r2l20 theil zudienen soll.
+#facs_331_r2l21 die h.
+#facs_331_r3l1 639.
+#facs_331_r3l2 Die Segnerey dücher sollen durch die
+#facs_331_r3l3 Charkichter heraus gefordert, und Uns¬
+#facs_331_r3l4 übergeben werden, und da sich jemand¬
+#facs_331_r3l5 nit so groser Zauberey vorgesan, und sie
+#facs_331_r3l6 würdig achter bürden, Auf das des ersten
+#facs_331_r3l7 Mahls fürzubringen, sollen sie solches eine
+#facs_331_r3l8 thun.
+#facs_331_r3l9 Die Hebammen zu Statt und aus dem
+#facs_331_r3l10 Land, sollen vor ihrer Anmennung mit
+#facs_331_r3l11 Bestähtigung verlarnet werden, sich als
+#facs_331_r3l12 lerley aborglaubigen Sachen und Leven
+#facs_331_r3l13 mit Creuzgen, Plisman,
+#facs_331_r3l14 Sprechung sonderbahre Wörtern, Ver¬
+#facs_331_r3l15 das dergleichen zu
+#facs_331_r3l16 agnen,
+#facs_331_r3l17 Büsigen, bey Meidung Unsere
+#facs_331_r3l18 Stras¬
+#facs_331_r3l19 IV.
+#facs_331_r3l20 Wider das unmensöhlich, und
+#facs_331_r3l21 ersätzlich zu und Übertreinken
+#facs_331_r3l22 auch alle anlasige Michel der
+#facs_331_r3l23 Trunkenheit, Pausen und
+#facs_331_r3l24 Inq
+#facs_331_r3l25 Prosa.
+#facs_332_r2l1 Ingenam alla und jede Hoch und Nach¬
+#facs_332_r2l2 dere, Stants- und Beamtete Persoh¬
+#facs_332_r2l3 gar niemand ausbedingt, die sich mit
+#facs_332_r2l4 Spais und Trank übernommen, und
+#facs_332_r2l5 ein Unzucht begehen landen, soo
+#facs_332_r2l6 gestalten Dingen nach an Gelt, oder
+#facs_332_r2l7 fangenschaft oder Entbezung ihrer
+#facs_332_r2l8 Amteren und Diensten abgestraff¬
+#facs_332_r2l9 borden.
+#facs_332_r2l10 Dis Ohrts eingehende Rusen, so
+#facs_332_r2l11 len in die Rüchsen gelegt, und datum
+#facs_332_r2l12 Den Chorgrichten, auch Ober Amst.
+#facs_332_r2l13 leuthen zu Stadt und Land, der
+#facs_332_r2l14 dritte Theil gehören, mit Erläu¬
+#facs_332_r2l15 terung, bann dergleichen Fehler
+#facs_332_r2l16 aus damm Land durch das Gorgesichte
+#facs_332_r2l17 antdokt, und rechtfertiget wird,
+#facs_332_r2l18 ihr Theil der Rusen in gemeine
+#facs_332_r2l19 Büchsen gelegt, und der Ober Amt¬
+#facs_332_r2l20 mann daran, bis der Chorl. Richter
+#facs_332_r3l1 64F.
+#facs_332_r3l2 von einer, sein Theil haben solle.
+#facs_332_r3l3 So aber solche Fehler zu Statt=
+#facs_332_r3l4 und Land, durch andere angeben werden
+#facs_332_r3l5 den, soll dann Verley der von obbe¬
+#facs_332_r3l6 meltem den dem Theil, der dritten
+#facs_332_r3l7 Theil gefolgen.
+#facs_332_r3l8 Wann jemand dergleichen Unsuchten
+#facs_332_r3l9 und Ungebühren, nicht alsbald, sonn
+#facs_332_r3l10 daran erst über lang, und etwann aus
+#facs_332_r3l11 Reid, Has, und Widerwillen ange¬
+#facs_332_r3l12 be, der Fall nach der stellt der Dach¬
+#facs_332_r3l13 gestans 8 werden.
+#facs_332_r3l14 Die Chorkichter sollen die lieder¬
+#facs_332_r3l15 lichen Prasar und Weinschlauch, so
+#facs_332_r3l16 mit Schaden und Nachtheil ihrer
+#facs_332_r3l17 Haushaltungen den Wihets Häuserw.
+#facs_332_r3l18 nachziehen, und über die ordentliche Zeigen
+#facs_332_r3l19 daselbe verharren, beschilen, zu¬
+#facs_332_r3l20 9 leich die Mihete, so solches über Zeit
+#facs_332_r3l21 hundtl.
+#facs_333_r2l1 und Maas gestatten, und sie bey
+#facs_333_r2l2 derseite ihrem Befehl nach stras¬
+#facs_333_r2l3 Und im Fahl kein Besorg¬
+#facs_333_r2l4 folgte, wollen Wir aus Anzeig der
+#facs_333_r2l5 Chor Richteren, solche Gesellen,
+#facs_333_r2l6 mit Verbietung der Währts Häu¬
+#facs_333_r2l7 seran, und anderer Bestaltsstraße
+#facs_333_r2l8 fen, das sollen auch Unsere Dber¬
+#facs_333_r2l9 Amtläuth gegen ich wäuerstatten
+#facs_333_r2l10 9
+#facs_333_r2l11 vom Pfieslen
+#facs_333_r2l12 Wir wollen hiemit derjenigen
+#facs_333_r2l13 Spiehlen, dadurch die einten diesen
+#facs_333_r2l14 Post bahre Zeit mus brauchen und be¬
+#facs_333_r2l15 sammen, die anderen aber an ihre
+#facs_333_r2l16 Nahrung Mangel bey den möchten
+#facs_333_r2l17 alles Ernste verbotten haben, die
+#facs_333_r2l18 derleider handlande und Fehlbah
+#facs_333_r2l19 nach
+#facs_333_r3l1 Zeq
+#facs_333_r3l2 Eren je nach Testaltsamme des Feh¬
+#facs_333_r3l3 fers zu bestrasen,
+#facs_333_r3l4 Mann aber solches üppige Spieh¬
+#facs_333_r3l5 len anbommen, und Feye, Tagen gebraucht.
+#facs_333_r3l6 werden wollte, soll solches ohne Scho¬
+#facs_333_r3l7 nen als im Dabbath, Bruch angesehen
+#facs_333_r3l8 und von jeder Persohn, so gespiehet
+#facs_333_r3l9 als auch vom Mihet oder Haus, Mei¬
+#facs_333_r3l10 ster, so Plah darzu gegeben hätte.
+#facs_333_r3l11 zehen Pfund, ohnablesige Stras-
+#facs_333_r3l12 bezogen werden.
+#facs_333_r3l13 Was aber das hohe Spiehlen, und
+#facs_333_r3l14 ..
+#facs_333_r3l15 die Bluhs Spiehl betrifft, lasen
+#facs_333_r3l16 Wie es lediglich bey Unseren aus¬
+#facs_333_r3l17 gangenen Mandaten betienden, und
+#facs_333_r3l18 thun die Execution derselben denen
+#facs_333_r3l19 sors zukommt, ernstlich anbefohlen
+#facs_333_r3l20 Nom 1
+#facs_334_r2l1 V. 1.
+#facs_334_r2l2 vom Tarsen.
+#facs_334_r2l3 Wann auch das Tansen nicht nur,
+#facs_334_r2l4 wann an den Hochzeitlichen Ehrenst
+#facs_334_r2l5 gen, sondern bey allerhand Edeler
+#facs_334_r2l6 genheiten an heimlichen, abgeles
+#facs_334_r2l7 nen und verborgenen Theten zu
+#facs_334_r2l8 Tag und Nacht misbraucht wird;
+#facs_334_r2l9 Haben Mir gesetzt und geordnet,
+#facs_334_r2l10 das welcher zu solchen uner¬
+#facs_334_r2l11 laubten Tänzen den Plaz dargeben
+#facs_334_r2l12 sollte, mit zwanzig Pfund aus
+#facs_334_r2l13 ein jede Mand Persohn aber, so
+#facs_334_r2l14 getanzet zwey Pfund, und eine
+#facs_334_r2l15 Weils Persohn ein Pfund aus¬
+#facs_334_r2l16 bezahlen solle; In Unser Haubt
+#facs_334_r2l17 Stadt und anderen Stäcken Re¬
+#facs_334_r2l18 sers Lands lasen Wie es ledig¬
+#facs_334_r2l19 lich bey dem Reformation Maus
+#facs_334_r2l20 dat ich
+#facs_334_r3l1 kense
+#facs_334_r3l2 Dat von anno 1728. verbleiben; Als
+#facs_334_r3l3 so das die Tanz allein anhoch zei¬
+#facs_334_r3l4 ten zu Stadt und Land mit aller
+#facs_334_r3l5 Bescheidenheit gehalten werden.
+#facs_334_r3l6 mögen, und erlaubt seyn sollen!
+#facs_334_r3l7 V. A.
+#facs_334_r3l8 Von Stras anderen mußt wil¬
+#facs_334_r3l9 ligen leichtfertigen We¬
+#facs_334_r3l10 sans.
+#facs_334_r3l11 Wir verbieten auch das Umher¬
+#facs_334_r3l12 schlweisen Nachts oder Tagd aus
+#facs_334_r3l13 den Basen, oder in den Dörffen
+#facs_334_r3l14 ren, nächtliche Einzug halten,
+#facs_334_r3l15 Neujahr, Farnacht und Mieh¬
+#facs_334_r3l16 nacht singen und schreyen, item
+#facs_334_r3l17 von einem Hand in das andere
+#facs_334_r3l18 s
+#facs_334_r3l19 zu Kilten gehen, wie auch die
+#facs_334_r3l20 Heydnischen Fadnacht, Raue —
+#facs_334_r3l21 las nacht, Buzer, Simmerryen,
+#facs_334_r3l22 und h.
+#facs_335_r2l1 und dergleichen Unlesen, so zu
+#facs_335_r2l2 Anrich und Beschwerd eingezogen
+#facs_335_r2l3 ner ehrbahrer Leuthon, verübt-
+#facs_335_r2l4 wird, und sollen allhie in Unß¬
+#facs_335_r2l5 Stadt die Meibel und Mächt¬
+#facs_335_r2l6 auch Bättel Vögt bey ihren Ey¬
+#facs_335_r2l7 den, und aus dem Land die Theil
+#facs_335_r2l8 Richter und Ehegämmer, daraus
+#facs_335_r2l9 merklich achten, und sollen
+#facs_335_r2l10 solche Persohnen mit Gefangen
+#facs_335_r2l11 Schatz, ins onderheit aber dar¬
+#facs_335_r2l12 Baïtelÿ sind, darhan abgehalten
+#facs_335_r2l13 Und oder den Th or Richteren ver¬
+#facs_335_r2l14 ley det, und am Manus Persohn
+#facs_335_r2l15 um drey Pfund, ein Frau oder
+#facs_335_r2l16 Tochter um dreyßig Schilling
+#facs_335_r2l17 gestras zu leerden.
+#facs_335_r2l18 S. bleibt auch ernstlichkeit
+#facs_335_r2l19 bott an das micht willige Zusa¬
+#facs_335_r2l20 meulens mich
+#facs_335_r3l1 64 7
+#facs_335_r3l2 menlausen der Jugend, und
+#facs_335_r3l3 ungeladener Pästen, auch dar¬
+#facs_335_r3l4 Niedersingen aus dem Land, bey
+#facs_335_r3l5 vorfallenden Hochzeiten Festen;
+#facs_335_r3l6 Er geschehe auch mit oder ohne Kö¬
+#facs_335_r3l7 sten der Hochzeit Leüthen, wor¬
+#facs_335_r3l8 durch allerhand Gefügen vor¬
+#facs_335_r3l9 gehen, bey Stras der Defangen¬
+#facs_335_r3l10 schafft, und Ersetzung des
+#facs_335_r3l11 Schadans, um welchen auch die
+#facs_335_r3l12 Gemeind selbst, wo der Scha¬
+#facs_335_r3l13 den verursachet worden, und
+#facs_335_r3l14 sie denn Übel hätten behören
+#facs_335_r3l15 können, noch es seyn soll.
+#facs_335_r3l16 C. sollen auch alle Haus Rät¬
+#facs_335_r3l17 ter und Hans Mutter wohl ver¬
+#facs_335_r3l18 mehnt und verlariert seyn,
+#facs_335_r3l19 Männliches und weibliches Be¬
+#facs_335_r3l20 (ch lacht, ihrer erwachsenen Ein¬
+#facs_335_r3l21 dernach
+#facs_336_r2l1 = deren, sonderlich Knechten und
+#facs_336_r2l2 Mägden, in absonderlich den
+#facs_336_r2l3 nach zulegen, alle Bürger¬
+#facs_336_r2l4 uns, Schand und Unzucht, so in
+#facs_336_r2l5 Begentheil erfolgen kan, zu¬
+#facs_336_r2l6 vermeiden.
+#facs_336_r2l7 Welche aber die Chorgricht
+#facs_336_r2l8 verachten mit Worten, oder sonst
+#facs_336_r2l9 Spotten, sich ungehorsam mit
+#facs_336_r2l10 Bezahlung der Rusen erzeigen,
+#facs_336_r2l11 die soll man bey Unserem
+#facs_336_r2l12 Amt leuthen, oder dem Ehegerichte
+#facs_336_r2l13 allhier angeben, sie so lang und
+#facs_336_r2l14 viel zu straken, bis sie sich ge¬
+#facs_336_r2l15 horsam erzeigen.
+#facs_336_r2l16 So haben auch die Chor. Richter
+#facs_336_r2l17 zu Stadt und Land, von Aus Pa
+#facs_336_r2l18 fehl und Salvalt, die verfall¬
+#facs_336_r2l19 nen Soltstraßen, so nicht baar
+#facs_336_r2l20 bezahlt werden, durch ihre Weibes,
+#facs_336_r2l21 Lom. s.
+#facs_336_r4l1 649.1
+#facs_336_r4l2 von den übertrockenden, mit Pfand¬
+#facs_336_r4l3 austragen, und sonst, nach jeder¬
+#facs_336_r4l4 Hrichte Recht, leer andere Herr¬
+#facs_336_r4l5 schafft zusen, zu bejagen, und sol¬
+#facs_336_r4l6 len zu Behaltung der Rusen (bis
+#facs_336_r4l7 aus eine Theillung :/ die Theckliche
+#facs_336_r4l8 tar aus dem Land ihre Reichts Rüg¬
+#facs_336_r4l9 sen, oder Sparhafen haben, die
+#facs_336_r4l10 verfallenen Pusern, Kundschaft
+#facs_336_r4l11 Belt und dergleichen Gesell da,
+#facs_336_r4l12 rein zusammlen, und den Predican
+#facs_336_r4l13 ten oder dem Obman des Thor¬
+#facs_336_r4l14 gerichte zu behalten übergeben,-
+#facs_336_r4l15 oder sonst wohl verwahrt in ei¬
+#facs_336_r4l16 em Behalt der Kirchen vorhüten,
+#facs_336_r4l17 maus gethan anderst dann in Bey¬
+#facs_336_r4l18 sein der Amtleuthen, die jähr¬
+#facs_336_r4l19 lich in dasazung der Klorgauss sich
+#facs_336_r4l20 ten, von den alt en York isteren¬
+#facs_336_r4l21 Rechnungen.
+#facs_337_r2l1 Rechnung empfahen, und das ver¬
+#facs_337_r2l2 fallen Belt, so viel sich den Th.
+#facs_337_r2l3 Richteren gebührt, ihnen herau
+#facs_337_r2l4 geben, und gleichlich theilen, das
+#facs_337_r2l5 übrige aber zu ihren und Unser
+#facs_337_r2l6 Handen ziehen sollen, allen
+#facs_337_r2l7 Vortheil zu vermeiden.
+#facs_337_r3l1 651
+#facs_337_r3l2 Von der Zesatzung und
+#facs_337_r3l3 Form der Chongeichten zu
+#facs_337_r3l4 Stadt und Land.
+#facs_337_r3l5 1.
+#facs_337_r3l6 Diederilen das Chorgnicht allhier in Anser
+#facs_337_r3l7 Stadt Hern das Haubt aller anderen Unserend
+#facs_337_r3l8 Chorgrichten seyn soll; Also behalten Wie
+#facs_337_r3l9 Und vor, wegen der Sachen Wichtigkeit, der¬
+#facs_337_r3l10 Calban Gesatzung und Bestellung halber, ja
+#facs_337_r3l11 Zeit zu Zeit zu verordnen, bis Wie
+#facs_337_r3l12 Unseren Angehörigen und Unterthanen
+#facs_337_r3l13 ad dero Wohlfahrt angemesen und dien¬
+#facs_337_r3l14 lich zuseyn, erachten worden.
+#facs_337_r3l15 In Unsern municipal-Stätten dann,
+#facs_337_r3l16 las an Wir es noch ferners bey dem Herr
+#facs_337_r3l17 kommen terbleiben.
+#facs_337_r3l18 Die Chorgnicht aber aus dem Land, sollen
+#facs_337_r3l19 Raysau des Predigkanten, durch die
+#facs_337_r3l20 Eintlaüth und Tlingherren jeden Kirch, ficht
+#facs_337_r3l21 mit Ehebahren, des ehenlichen und Tugend
+#facs_337_r3l22 lichen Persohnen, deren Stras und Mar¬
+#facs_337_r3l23 gegen ih
+#facs_338_r2l1 nungen bey den anderen etwas gelten.
+#facs_338_r2l2 gen, besaht, und dieselben, so immahl
+#facs_338_r2l3 bahlt, ohne leichtige Ursachen nicht gern
+#facs_338_r2l4 ert, auch jährlich, kann sie gesetzt werden, und
+#facs_338_r2l5 jeden Ohrts Herkommen und Gebräuchen,
+#facs_338_r2l6 Der Gemeind, oder vor unseren Amtler
+#facs_338_r2l7 then und Predigkanten den Eyd thun und
+#facs_338_r2l8 abstatten. Alles mit der beygefügten Er¬
+#facs_338_r2l9 lauterung jedoch, das in nichmahls gerech¬
+#facs_338_r2l10 Licht gewesene Persohn die Stall eines.
+#facs_338_r2l11 Chorkichters nicht vertretzen; Unserem
+#facs_338_r2l12 ledige Geistliche aber wegen obsabenden
+#facs_338_r2l13 Pflichten den Chorgrichten beyzubohnen
+#facs_338_r2l14 für bis befügt seyn sollen.
+#facs_338_r2l15 Die Ober Amtleuth und Tlingherren, so
+#facs_338_r2l16 die Ehereicht verwalten, sollen auch
+#facs_338_r2l17 bey ihren Eyden, aus die verordneten Be¬
+#facs_338_r2l18 Richter gute Acht halten, selbst soott ihnen
+#facs_338_r2l19 Beschäften halb möglich, in ihren Besche¬
+#facs_338_r2l20 Versammlungen bey ihren, und ihnen les
+#facs_338_r2l21 Ernesten, wider die Angehorsamen
+#facs_338_r2l22 wider speußigen, getraüe Hülff und Recht
+#facs_338_r2l23 stensch.
+#facs_338_r3l1 65¬
+#facs_338_r3l2 stand thun: Wo sie aber davon säumig wären,
+#facs_338_r3l3 als dann der Predigbaut und die Chorklichter
+#facs_338_r3l4 ley ihren Eyden schuldig seyn, solches an
+#facs_338_r3l5 Aus, oder Unser Chorgruht allhier zu¬
+#facs_338_r3l6 bringen: Jedoch sollen sie, von der Ober¬
+#facs_338_r3l7 Amtleuthen, oder Richters Abwesen wegen
+#facs_338_r3l8 nicht unterlasen über fürkommende Sachen¬
+#facs_338_r3l9 zu urtheilen und zu erkennen: der Mei¬
+#facs_338_r3l10 ung jedoch, das sie weder an Unseren
+#facs_338_r3l11 Tag lichau Bast noch an das OberThorg nicht
+#facs_338_r3l12 nichts schrifftliches gelangen lesen sollen,
+#facs_338_r3l13 sie haben dann solches ihren vorgesetzten
+#facs_338_r3l14 Amtlauthen oder Iwing hören communiciret,
+#facs_338_r3l15 von ihnen besigten lesen. Dasgleichen
+#facs_338_r3l16 Bogantheil, wo die Predig kanten und
+#facs_338_r3l17 Chor. Richter in ihren Ämtern hinlässig und
+#facs_338_r3l18 ungeflisen erfunden wurden, sollen die
+#facs_338_r3l19 Antlath, auch bey ihren Eiden verbunden
+#facs_338_r3l20 seye, solches dem Bergericht allhier zuzu¬
+#facs_338_r3l21 schreiben dieselben zu straken.
+#facs_338_r3l22 das ein jeder Predigbaut in Deiner
+#facs_338_r3l23 Kirchspiehl ein ordentliches Manual habe.
+#facs_338_r3l24 soch
+#facs_339_r2l1 so ihnen die Kirch mehr anschafen sollen,
+#facs_339_r2l2 Darinn die änderungen der Chorricht
+#facs_339_r2l3 ren, und alle andere vor vorgericht ver¬
+#facs_339_r2l4 losen Handel durch den Predigkanten
+#facs_339_r2l5 oder einen der Schreiberen, so an den
+#facs_339_r2l6 Oheten sind, ausgeschrieben werden, da,
+#facs_339_r2l7 selbig soll auch allezeit bey dem Kirchspiel
+#facs_339_r2l8 zu glaubbürdiger Zeugsame und Erinne¬
+#facs_339_r2l9 nung aller vorhand leten Sachen, bleiben,
+#facs_339_r2l10 und aus den ordenlicher Visitationen
+#facs_339_r2l11 erforderet werden, damit man jeder=
+#facs_339_r2l12 Gorgrichte Fleis, oder Umfleis erkennen
+#facs_339_r2l13 nöge, und Uns dar behognenen Tusen
+#facs_339_r2l14 halb desto besere Rechnung gegebene Werde
+#facs_339_r2l15 Er sollen die ChorReichter aus dann
+#facs_339_r2l16 Land, nach Juhalt ihres Eyds, zum Lo¬
+#facs_339_r2l17 nigsten alle vierzehen Tag, sich ein¬
+#facs_339_r2l18 mahl torsamlen, sie haben etwas zu
+#facs_339_r2l19 schas er oder nicht: So aber durch läschen
+#facs_339_r2l20 nden daran gelegen seyn wurde,
+#facs_339_r2l21 das das Chongeicht versammlet beede, der
+#facs_339_r2l22 agch.
+#facs_339_r3l1 Ses
+#facs_339_r3l2 mag mit einem Gulden zu Handen des
+#facs_339_r3l3 Chorgrichte Gastgericht erkaufen, und soll
+#facs_339_r3l4 nicht weiters schuldig seyn, damit den
+#facs_339_r3l5 unzumliche Kosten, so an etlichen Dr.
+#facs_339_r3l6 than ausgetrieben wird, abgestellt wer¬
+#facs_339_r3l7 Je
+#facs_339_r3l8 11
+#facs_339_r3l9 vom Amt der Chorkios,
+#facs_339_r3l10 teron.
+#facs_339_r3l11 Die Chorkichter sollen nicht allein¬
+#facs_339_r3l12 Befelch haben, aus die Ehe Sachen zu¬
+#facs_339_r3l13 achten, sondern ins gemein ob allen
+#facs_339_r3l14 Unsavon, Christlicher Disciplin,
+#facs_339_r3l15 gemeiner Zucht und Ehrbarkeit hal¬
+#facs_339_r3l16 ber ausgegangenen Satzungen mit höch¬
+#facs_339_r3l17 stein Fleis und Ernst zuhalten,
+#facs_339_r3l18 und die Übertreiter der Calbigen, es¬
+#facs_339_r3l19 et an Weibe oder Mand Persohnen
+#facs_339_r3l20 zu beschiken, zu rechtfertigen, und
+#facs_339_r3l21 ach den Sazungen und Mandator
+#facs_339_r3l22 kustralen: als da sind Gottes Läste,
+#facs_339_r3l23 vor s.
+#facs_340_r1l1 =ren, Sagner, Teufels beschloerer, müssen
+#facs_340_r1l2 willige Vors Lümer und Verächter der
+#facs_340_r1l3 Predigen, des Heil. Gödtlichen Mohr
+#facs_340_r1l4 und der Heil. Sacramenten, Ungehö¬
+#facs_340_r1l5 samme gegen den Eltaren, Hurer, Eheber¬
+#facs_340_r1l6 cher, Kuppler, trunkene Leüth, Tär¬
+#facs_340_r1l7 zer, offentliche Wucherern Spiehler¬
+#facs_340_r1l8 innüzige Mäsiggänger, die soüppigen
+#facs_340_r1l9 Kleider tragen, aus Kirch leistnen
+#facs_340_r1l10 Hausan, in Minuereyen, und Parnacht¬
+#facs_340_r1l11 busch Weisumläusern, Fasnacht
+#facs_340_r1l12 Paur machen, nächt licht Unruchen
+#facs_340_r1l13 anrichten, oder Spath in Zächen bis in
+#facs_340_r1l14 die Nacht verharren, liederliche
+#facs_340_r1l15 Winterl. Wihet, und was sonst der¬
+#facs_340_r1l16 gleichen mehr ärgerlicher Leüthan sind,
+#facs_340_r1l17 die Christlicher Zucht und Ehrbarkeit
+#facs_340_r1l18 zuwieder handlen; Wo aber jemand in
+#facs_340_r1l19 solchen und dergleichen Sachen so schloßen
+#facs_340_r1l20 lich sich vorgienge, das er höherer Stecke
+#facs_340_r1l21 bürdig möchte geachtet werden: Soller
+#facs_340_r1l22 Sieg.
+#facs_340_r2l1 1657
+#facs_340_r2l2 Sie das albig an die Ober Amtläuth und
+#facs_340_r2l3 da danen an Und, oder Unser Chor¬
+#facs_340_r2l4 gericht langen lesen.
+#facs_340_r2l5 die Chor Richter, so unfleisig die
+#facs_340_r2l6 Chorgnicht besuchen, und ohne Ehehafte
+#facs_340_r2l7 Ursachen ausbleiben, sollen für das
+#facs_340_r2l8 erste Wahl zum Fleisermahnt,
+#facs_340_r2l9 Zum andern Mahl, und so offt es dann
+#facs_340_r2l10 geschicht, um Füns, oder Zosen Schil¬
+#facs_340_r2l11 hing, nach des Chorgenstr Erkant¬
+#facs_340_r2l12 nus, und Gestallt samme der Sachen,
+#facs_340_r2l13 gestraft werden.
+#facs_340_r2l14 111
+#facs_340_r2l15 Die EheRichter, sollen über
+#facs_340_r2l16 Dachen, so zweifelhast
+#facs_340_r2l17 ob sie Malefizisisch,
+#facs_340_r2l18 nichts urtheilen.
+#facs_340_r2l19 Wir ordnen hiemit ein, das Unberer
+#facs_340_r2l20 EheRichter, um Sachen, so Zweifle
+#facs_340_r2l21 hafft, ob sie für Malefisisch zu achten,
+#facs_340_r2l22 c
+#facs_341_r2l1 und darum oder mehr Persohn
+#facs_341_r2l2 gefänglich eingezogen sind, ob und wie
+#facs_341_r2l3 dieselben zu strafen, nichts urtheil
+#facs_341_r2l4 noch erkennen, sondern bey dergleichen
+#facs_341_r2l5 an die langen wird, und fürbringen
+#facs_341_r2l6 sollen.
+#facs_341_r2l7 In fernerm dann sollen die Ehe¬
+#facs_341_r2l8 Richter in Verführung der Schorgricht
+#facs_341_r2l9 lichen Procedurae und dergleichen,
+#facs_341_r2l10 in den Fählen, da haine positive
+#facs_341_r2l11 Thorgrichtliche Satzung des Thalben
+#facs_341_r2l12 vorhanden wäre, dann zumahlen nach¬
+#facs_341_r2l13 Unserer Stadt Sazung handlen, und
+#facs_341_r2l14 deren nach urtheilen; doch in deme
+#facs_341_r2l15 heiteren Verstand, das allwegen kuch
+#facs_341_r2l16 und nach dem summarischen Rechter,
+#facs_341_r2l17 wie in Civil Ansprachen gepflogen und
+#facs_341_r2l18 wird, harmfehld vorfahren und proces
+#facs_341_r2l19 diert werden solle.
+#facs_341_r3l1 859.
+#facs_341_r3l2 Dajungen, wie weit die Ehe¬
+#facs_341_r3l3 Gnicht aus dem Land Edelvalt haben
+#facs_341_r3l4 sollen, in Ehehen zuhandlen,
+#facs_341_r3l5 vor und ihr sie dieselben in
+#facs_341_r3l6 Unser Stadt für Ehe¬
+#facs_341_r3l7 gericht und zu Recht
+#facs_341_r3l8 weisen
+#facs_341_r3l9 1
+#facs_341_r3l10 Wo zwey einanderen der Ehe an¬
+#facs_341_r3l11 wird und bekantlich sind
+#facs_341_r3l12 Erstlich, so zwey einanderen der Ehe
+#facs_341_r3l13 Anrad und behantlich sind: Soller
+#facs_341_r3l14 sie die heisen zusammen gehen, und
+#facs_341_r3l15 un verzogenlich KirchenRechtthung
+#facs_341_r3l16 Er wäre dann Sach, das sie einanderen
+#facs_341_r3l17 zu nach gefreut, und näher, dan im
+#facs_341_r3l18 halben deiten Slies der Freundschaft,
+#facs_341_r3l19 und das halb in denen Arbeitenen¬
+#facs_341_r3l20 Draden, lauth Unserer Dazung, oder
+#facs_341_r3l21 sonst s.
+#facs_342_r2l1 sonst verschloägeret wären, nammlich
+#facs_342_r2l2 das ihren mitweder Zuvor sich
+#facs_342_r2l3 des anderen Vater, zudem Mutter
+#facs_342_r2l4 Schwester, Muter Gaudre, und Rat
+#facs_342_r2l5 terd. Bruder, Ehrlich oder auserhalben
+#facs_342_r2l6 vermischet hätte, wo sich solche Treu¬
+#facs_342_r2l7 gen begeben, soll es für die Eheklichste
+#facs_342_r2l8 inn die Stadt gewiesen werden.
+#facs_342_r2l9 B.
+#facs_342_r2l10 Wan die Elteren, Rögl.
+#facs_342_r2l11 ihrs Kinder oder Vogte Kinder,
+#facs_342_r2l12 die sich verehlichet hätten,
+#facs_342_r2l13 unterstanden, mit
+#facs_342_r2l14 Recht beiderzu¬
+#facs_342_r2l15 ziehen
+#facs_342_r2l16 Item wann noch junge Persohnen ein¬
+#facs_342_r2l17 and von der Ehe anred und bekantte
+#facs_342_r2l18 aber eintweders Eltern, oder Mögte
+#facs_342_r2l19 mit deselben Jugend das verhinder¬
+#facs_342_r2l20 ren, und hintertreiben wolten, laut
+#facs_342_r2l21 Uns over Sazung: Soll niemand sein
+#facs_342_r2l22 Recht s.
+#facs_342_r3l1 961.
+#facs_342_r3l2 = Recht abgeschlagen werden. Doch so mag
+#facs_342_r3l3 man zuvor die unbilligen Eltern,
+#facs_342_r3l4 Vögt etc. freundlich ankehren, und besten,
+#facs_342_r3l5 davon abzustehen, und die Ehe zuzu¬
+#facs_342_r3l6 lasen.
+#facs_342_r3l7 111
+#facs_342_r3l8 So zwey einanderen der Ehe halber
+#facs_342_r3l9 ansprechen, aber die einte Par¬
+#facs_342_r3l10 they nicht bekantlich ist.
+#facs_342_r3l11 Dann wo Zley einanderen der Ehe an sper¬
+#facs_342_r3l12 chen, und man den ungüstigen Theil
+#facs_342_r3l13 nicht bereden mag /: darzu man doch al¬
+#facs_342_r3l14 len Fleis und Ernst ankehren soll,
+#facs_342_r3l15 damit die Ehe zum Stand gebracht
+#facs_342_r3l16 werde) der Kläger oder Klägernn aber
+#facs_342_r3l17 auf ihrem Füdnamen verharren,
+#facs_342_r3l18 vermeinende, das andere habe ihn die
+#facs_342_r3l19 Ehe zugesagt, und aber das an, wie in
+#facs_342_r3l20 der ersten Sehung erläutert, kein Kun¬
+#facs_342_r3l21 schafft etc.
+#facs_343_r2l1 schaft hat, mögen die ChorRichter
+#facs_343_r2l2 ausert Unser Stadt der ansprachen
+#facs_343_r2l3 Parthey ihren Ungrund vorstellen
+#facs_343_r2l4 und ob sie sich weisen lasen wollte,
+#facs_343_r2l5 ohne fernere Kösten, oder Allhandrei¬
+#facs_343_r2l6 ung vor Unser Ober Chorgricht, dies
+#facs_343_r2l7 beyde von einander ledig sprechen
+#facs_343_r2l8 Fahls aber die ansprechende Per¬
+#facs_343_r2l9 sohn den Beyschlas klagte, oder sonsten
+#facs_343_r2l10 nicht abstehen wollte, sollen die Par¬
+#facs_343_r2l11 theyen mit einem Gericht schreiben
+#facs_343_r2l12 an Unser OberChorg nicht verlei¬
+#facs_343_r2l13 sen werden.
+#facs_343_r2l14 IV.
+#facs_343_r2l15 daß in Zusamen Thädigung
+#facs_343_r2l16 der Eheleuthen die Stras vorbehal¬
+#facs_343_r2l17 ten, oder die Partheyen für die
+#facs_343_r2l18 Chorffrichter in Unser Stadt
+#facs_343_r2l19 geschikt werden sollen.
+#facs_343_r2l20 Item, wann Spän oder Streitigkeiten,
+#facs_343_r2l21 Jahrs.
+#facs_343_r3l1 1663.
+#facs_343_r3l2 sich zutragen, zwischen Eheleuthen,
+#facs_343_r3l3 die kurz oder lang bey einander gesessen,
+#facs_343_r3l4 haben die Ehetrichter Bewalt, diesel¬
+#facs_343_r3l5 ben zu verthädigen, sie freundlich¬
+#facs_343_r3l6 zu bereden, und zu vereinbahren, da¬
+#facs_343_r3l7 mit sie bey der Haushaltung bleiben,
+#facs_343_r3l8 und nicht zu Recht kommen, und son¬
+#facs_343_r3l9 derlich niemand, so weit jenen mögen
+#facs_343_r3l10 lich, um kleinfügige Sachen zu Recht
+#facs_343_r3l11 kommen zu lesen, sonderen sie selbt zu
+#facs_343_r3l12 verhören, und et wann das Schuldige nach
+#facs_343_r3l13 Nebuhr zu strafen und einzusehen,
+#facs_343_r3l14 und allwegen mit allen Fleis und von
+#facs_343_r3l15 such anden Mitten anzuhalten, damit
+#facs_343_r3l16 Eheleuth bey ein anderen bleiben, jedoch
+#facs_343_r3l17 den Ehebruch, und die Stras das alben¬
+#facs_343_r3l18 vorbehalten.
+#facs_343_r3l19 Wie aber and an dem anderen mit Ehe¬
+#facs_343_r3l20 bruch, oder anderem Domm Rechten —
+#facs_343_r3l21 eingemäd.
+#facs_344_r2l1 Lungemäd, so grob überfahren, daß der
+#facs_344_r2l2 selb nach langem Bedulden, das Rege
+#facs_344_r2l3 haben, und sich keiner Wegs abweisung
+#facs_344_r2l4 haben wollte: Magman sie hier in
+#facs_344_r2l5 Unser Stadt für die Richter zu Rügen
+#facs_344_r2l6 bescheiden, und dieselben als dann ihn
+#facs_344_r2l7 Urtheil und Sentenz darüber fällen,
+#facs_344_r2l8 lasen, auch weder Amt leuth, Predig¬
+#facs_344_r2l9 vanten Ehegämmer, sich der Sach be¬
+#facs_344_r2l10 In nicht beladen: Nammlich kein
+#facs_344_r2l11 Urtheil der Geidigung fällen, aber
+#facs_344_r2l12 wohl mündlich handlen, so für sie
+#facs_344_r2l13 zusamen, und nicht von ein anderen
+#facs_344_r2l14 kommen.
+#facs_344_r2l15 In Zuspruch der Lin¬
+#facs_344_r2l16 deren, wie sich zu verhalten.
+#facs_344_r2l17 Und wir dieses Streitig beiter für¬
+#facs_344_r2l18 fallen, um zu wüßen, komme die Er
+#facs_344_r2l19 haltung sch.
+#facs_344_r3l1 65
+#facs_344_r3l2 =haltung der Kindern auszubunden,
+#facs_344_r3l3 die Beurtheilung aber herüber den
+#facs_344_r3l4 Chorgrichten in den Städten und aus
+#facs_344_r3l5 dem Land nicht gebührt; Als soll ich nen
+#facs_344_r3l6 solches verboeten, im Wegentheil aber
+#facs_344_r3l7 sie dahin gewesen seyn, über dergleichen
+#facs_344_r3l8 Sachen nichts zu sprechen, sondern den
+#facs_344_r3l9 Casum lediglich allhero an Unser Ober¬
+#facs_344_r3l10 Chorg nicht zu weisen, und zu über¬
+#facs_344_r3l11 schreiben, sonsten in widerhandleten
+#facs_344_r3l12 Pahl, Wir sie zu gebührender Verant¬
+#facs_344_r3l13 wortung zauchen würden. Es
+#facs_344_r3l14 &
+#facs_345_r2l1 Rundschafft, Urtheil,
+#facs_345_r2l2 Belt, samt der ChorRichteren
+#facs_345_r2l3 Lohn, loie sich das theilt, aus¬
+#facs_345_r2l4 sert Unser Haubt Stadt.
+#facs_345_r2l5 Hundschaft, Delt.
+#facs_345_r2l6 So hiel Kund schafften ein Ehegerichts
+#facs_345_r2l7 gelegt, soll den Richteren von
+#facs_345_r2l8 jeder füns Schilling werden.
+#facs_345_r2l9 A M.
+#facs_345_r2l10 Urtheil, Pelt.
+#facs_345_r2l11 So nun die Richter zwischen den
+#facs_345_r2l12 Partheyen um die Ehrem rechtlich
+#facs_345_r2l13 Urtheil Fällen, gibt jede Parthey¬
+#facs_345_r2l14 in Pfund.
+#facs_345_r2l15 Welches samt übrigem Reichs
+#facs_345_r2l16 Belt zusamen gelagt, und nach
+#facs_345_r2l17 Verfliesung
+#facs_345_r4l1 567
+#facs_345_r4l2 Verfliesung des halben Jahrs, unter¬
+#facs_345_r4l3 die Richter, und den Schreiber gleich¬
+#facs_345_r4l4 lich getheilt werden soll.
+#facs_345_r4l5 Der Emilementen ausert Unser
+#facs_345_r4l6 Haubt=Stadt halb, lasend Wie er¬
+#facs_345_r4l7 bey deme; was jedem Dtsets Debrauen
+#facs_345_r4l8 mit sich bringet, verbleiben, nicht
+#facs_345_r4l9 Zwei flenden das aller Orthen ge¬
+#facs_345_r4l10 bührende Moderation werde ge¬
+#facs_345_r4l11 braucht worden; widrigen Fahls
+#facs_345_r4l12 Wir uns vorbehalten, zu verordnen,
+#facs_345_r4l13 was Mir billich erachten werden.
+#facs_346_r2l1 Beyder Stäcten Bern und
+#facs_346_r2l2 Freyburg gethane Vergleichung, be=
+#facs_346_r2l3 treffend das Chorgricht, Straff der An¬
+#facs_346_r2l4 zuchten, offenen Lasteren, Ehebruch
+#facs_346_r2l5 und Hürey, item Scheidigungen, und
+#facs_346_r2l6 Ansprachen der Hürey, in gemeine
+#facs_346_r2l7 Herrschaften, Murten,
+#facs_346_r2l8 Brand son und Tscher¬
+#facs_346_r2l9 li.
+#facs_346_r2l10 Zum ersten der Stras halb, so von der
+#facs_346_r2l11 Übertreittenden durch bey der Stätten
+#facs_346_r2l12 Amtleüth eingezogen werden: Es seh¬
+#facs_346_r2l13 von Überfüllen, Spiehlen, zerhauen
+#facs_346_r2l14 nen Kleideren ich laut der Reformi¬
+#facs_346_r2l15 tion, und anderer Straff würdiger Be¬
+#facs_346_r2l16 chen, soll es bleiben, wie es bis här je,
+#facs_346_r2l17 braucht ist: also nammlich, das die
+#facs_346_r2l18 Amtläuth, welche jeder Herrschaft¬
+#facs_346_r2l19 Bürgesetzte sind, sie seyen von dem
+#facs_346_r2l20 oder Freiburg, dieselben Reltstraß
+#facs_346_r2l21 fer¬
+#facs_346_r3l1 1669
+#facs_346_r3l2 fen zu bey der Stäcken Handen einzeit¬
+#facs_346_r3l3 chen, und bey den Städten verrechnen
+#facs_346_r3l4 sollen, inmasen sie gleichlich Theil
+#facs_346_r3l5 daran haben.
+#facs_346_r3l6 Zum Anderen aber, der Leibe- Straf¬
+#facs_346_r3l7 fen halb, so über den Ehebruch und
+#facs_346_r3l8 die Hurey geordert, so keine Scheidi¬
+#facs_346_r3l9 gung aus ihnen tragend: Da soll der
+#facs_346_r3l10 Amtman derselben Herrschaft, von
+#facs_346_r3l11 des meisten Beschrey und Kosters we¬
+#facs_346_r3l12 gen Vier oder Sacht ehebaar Mannen¬
+#facs_346_r3l13 so darzu geordnet werden sollen, zu ih¬
+#facs_346_r3l14 ne namen, und vor allen Dingen
+#facs_346_r3l15 Die arg leöhingen Persohnen für sie be¬
+#facs_346_r3l16 schicken, alle Dingeigentlich erkundi¬
+#facs_346_r3l17 gen, und die, so Peenfällig sind, nach¬
+#facs_346_r3l18 Inhalt der Ordnung strafen.
+#facs_346_r3l19 Zum dritze bo aber etlich Persohner
+#facs_346_r3l20 Mann oder Weib, der Scheidigung begepr¬
+#facs_346_r3l21 tranch.
+#facs_347_r2l1 ten, und darum Recht anrüffen,
+#facs_347_r2l2 den: Alsdann soll von dem Amtsma
+#facs_347_r2l3 nichts anders gehandlet, dann die Par¬
+#facs_347_r2l4 theyen für ihre Herren und Oberen
+#facs_347_r2l5 so derselben Zeit Raht und Zug haben
+#facs_347_r2l6 gewiesen werden, dieselben sollen
+#facs_347_r2l7 dann darinnen hand lan.
+#facs_347_r2l8 Zum Vierten und letsten, derent¬
+#facs_347_r2l9 halb, die einanderen der Ehe anspro¬
+#facs_347_r2l10 then, und aber einanderen derselben
+#facs_347_r2l11 nicht geständig sind, ist gleiche Mei¬
+#facs_347_r2l12 nung abgeradt, nämlich, das sie aug¬
+#facs_347_r2l13 für die Oberkeit, so zur selben
+#facs_347_r2l14 Zeit Raht und Zug hat, sollen beschei¬
+#facs_347_r2l15 den, und gerechtfertiget werden.
+#facs_347_r2l16 Actum zu den 10. February
+#facs_347_r2l17 1554 f
+#facs_347_r3l1 6712
+#facs_347_r3l2 Der besonderbahren
+#facs_347_r3l3 Iving Herren halb.
+#facs_347_r3l4 zu letzt. Demnach etliche Sonder¬
+#facs_347_r3l5 bahre Persohnen, und anderen so hinter
+#facs_347_r3l6 Und als Oberen und Leute Herren
+#facs_347_r3l7 sizen, Hofe und Nieder Dericht ha¬
+#facs_347_r3l8 ben, und aber den Bahn zurichten von
+#facs_347_r3l9 Und empfahren müssen: Wollen Wir
+#facs_347_r3l10 gegen selbige die Stras der Ehehand¬
+#facs_347_r3l11 len und vorbehalten haben, und bei¬
+#facs_347_r3l12 ner sonderbahren Persohn oder Herr
+#facs_347_r3l13 schafft, so hinter Uns sizt, und Hofe an
+#facs_347_r3l14 Reichte hat, solche Strasen aus,
+#facs_347_r3l15 Zu legen, nach lasen, doch anderen
+#facs_347_r3l16 ihren Berechtigkeiten und Herr¬
+#facs_347_r3l17 sich heilen ohne Schaden.
+#facs_348_r2l1 Per che Dichteren
+#facs_348_r2l2 Eydt.
+#facs_348_r2l3 1
+#facs_348_r2l4 Schlaeren die Ehe Richter und Recht¬
+#facs_348_r2l5 Frecher des Ehegerichts, das Ersten
+#facs_348_r2l6 der Stadt Bern Trau und Mar¬
+#facs_348_r2l7 heit zu leisten, derselben Ruß-
+#facs_348_r2l8 zu förderan, und Schaden zu ver¬
+#facs_348_r2l9 den, gemanne ausrechte Bericht,
+#facs_348_r2l10 gleich dann keinen als dem Reichen
+#facs_348_r2l11 zu führen: Ihre Urtheilen nach
+#facs_348_r2l12 sag und vermög der Sahung und Da¬
+#facs_348_r2l13 nung des Ehegerichts zugaben, wäre
+#facs_348_r2l14 niglich ohnangesahm, und in solchem
+#facs_348_r2l15 gar niemends zu verschonen, noch¬
+#facs_348_r2l16 schauen, sich weder Feindschafft
+#facs_348_r2l17 Bunst, Raïd, Has, noch sonst nichts
+#facs_348_r2l18 überallich.
+#facs_348_r4l1 873
+#facs_348_r4l2 überall bewegen lasen, sondrem
+#facs_348_r4l3 nach bestem Musen und Gewusno,
+#facs_348_r4l4 und Unseren bazend Ordnungen
+#facs_348_r4l5 die Sachen, so für sie kommen, zu er¬
+#facs_348_r4l6 begann vermesen, und demnach zu¬
+#facs_348_r4l7 entscheiden; Was auch unter ihnenun¬
+#facs_348_r4l8 geredt wird, und am jeder rahtet,
+#facs_348_r4l9 hannlich zusalten, und namandt
+#facs_348_r4l10 aus erth alb dem Beicht, es beyde
+#facs_348_r4l11 dann isma befohlen, zu melden vor
+#facs_348_r4l12 und leas einem jeden anzubringen.
+#facs_348_r4l13 angezeigt wird, daselbig fürderlich
+#facs_348_r4l14 an den Richter und Recht sprecher
+#facs_348_r4l15 Langen zu lesen: zu dem Bricht,
+#facs_348_r4l16 bann ihnen geborten wird, fürderlich
+#facs_348_r4l17 zu gehe, und sich, ohne ehrfas zeig¬
+#facs_348_r4l18 beÿ
+#facs_348_r4l19 merklich Ursachen, nicht ausören,
+#facs_348_r4l20 und in Summa, alles das Zuthin,
+#facs_348_r4l21 So sich in solchem gebührt, und
+#facs_348_r4l22 die p.
+#facs_349_r2l1 = Nohtdurfft erforderet, nach ihrem
+#facs_349_r2l2 besten Verstand, und besondere,
+#facs_349_r2l3 des Ehegeichte Sazung, in Stadt
+#facs_349_r2l4 des Ehebruchs und Herry etc. ohng
+#facs_349_r2l5 schochen zu halten, alles ehebarlich,
+#facs_349_r2l6 ausgeacht und ohngefährlich.
+#facs_349_r2l7 A.1.
+#facs_349_r2l8 deß Chorgricht, dohreibers
+#facs_349_r2l9 Eyd.
+#facs_349_r2l10 Schwaarat ein Chorgericht-Schreiber, der
+#facs_349_r2l11 Stadt Bern Traü und Warheit zu lei¬
+#facs_349_r2l12 sten, ihren Nutz zu fürdern, und
+#facs_349_r2l13 Schaden zuwanden, so man nichtet, am
+#facs_349_r2l14 Bericht zusitzen, oder einen Verwesen
+#facs_349_r2l15 zu haben, die Processen Klagund Ant¬
+#facs_349_r2l16 bort, auch darüber ergangenen Ur¬
+#facs_349_r2l17 theilen, und Erbantnusen und an¬
+#facs_349_r2l18 ders, so er geheisen wird, eigentlich zu
+#facs_349_r2l19 vorzeichnen /.
+#facs_349_r4l1 675.
+#facs_349_r4l2 verzeichnen: Die Gries, so dargeborten
+#facs_349_r4l3 werden, auch der Stadt Reformation
+#facs_349_r4l4 und Sajungen um solche Fähl gar
+#facs_349_r4l5 traülichen zu lesen, und also dann
+#facs_349_r4l6 Chorgnicht getraulich abzulwarten,
+#facs_349_r4l7 ohne Urlaub, besonders aus die
+#facs_349_r4l8 gesetzten Berichts, Tag, von der Stadt
+#facs_349_r4l9 nicht zu kommen, um alle zu Unse¬
+#facs_349_r4l10 von Handen gebührende Befälle und
+#facs_349_r4l11 Confiscationen, sie ereignen sich in
+#facs_349_r4l12 Ordinari oder Extraordinari Zeiten, —
+#facs_349_r4l13 traue Rechnung zuhalten, und alle
+#facs_349_r4l14 jährlichen deren Betrag gebührenden,
+#facs_349_r4l15 Orts zu bezahlen, das gefallen Sigel¬
+#facs_349_r4l16 Belt, dem Richter, so ja ist, und dann
+#facs_349_r4l17 es gehört, oder wie es dann Richteren ge¬
+#facs_349_r4l18 fällt, getraülich anzuantworten, —
+#facs_349_r4l19 und das nichts zu beseklen, noch in
+#facs_349_r4l20 seinen Ruzen zu verwenden, auch —
+#facs_349_r4l21 kein Erbantnus zu versigten, und —
+#facs_349_r4l22 hinaud etc.
+#facs_350_r2l1 hinaus zugeben, sie seye dann zu tor¬
+#facs_350_r2l2 so es die Noht erfordert, den Ehe¬
+#facs_350_r2l3 tenen gemeinlich, oder dem Praeside
+#facs_350_r2l4 ten vorgelesen, und für gerecht gebe
+#facs_350_r2l5 auch alles das, so da fürgetragen, à
+#facs_350_r2l6 gezeigt, gerahten und gehandlet wir
+#facs_350_r2l7 zu verschleigen, und also zu verha¬
+#facs_350_r2l8 len, was zu verhälen, und zu offnen
+#facs_350_r2l9 was zu offnen ist.
+#facs_350_r2l10 111H
+#facs_350_r2l11 Das Chongerichts Weibels Eyd.
+#facs_350_r2l12 Et schlaert ein Chorlweibel, der Statt
+#facs_350_r2l13 Bern Treu und Warheit zu lei¬
+#facs_350_r2l14 ten, ihren Nuz zu fürdern, und
+#facs_350_r2l15 Schaden zu wenden, Damm Chorgricht
+#facs_350_r2l16 treulich abzubarten, ohne Urlaub von
+#facs_350_r2l17 der Stadt nicht zu kommen, aus die
+#facs_350_r2l18 bestimmten Beichte Tag, und sonst von
+#facs_350_r2l19 er von einem Richter geheis an, dem die
+#facs_350_r2l20 richt zu bieten, und die Boets, so ihm
+#facs_350_r2l21 ten einem Richter, oder anderen Sondern
+#facs_350_r2l22 bahren s.
+#facs_350_r4l1 677.
+#facs_350_r4l2 bahren, von ihnen salbe wegen empfeh¬
+#facs_350_r4l3 hen, bey guter Zeit zuthun, das glei¬
+#facs_350_r4l4 chen alles das, so er am Chorgricht
+#facs_350_r4l5 das gerathen angebracht, und gehandlet
+#facs_350_r4l6 wird, gehört zu verschweigen, und
+#facs_350_r4l7 keiner Wegs auserthalb zu melden,
+#facs_350_r4l8 darzu der Gefangenen auswürde
+#facs_350_r4l9 gar Persohnen, so ihm nun Straff
+#facs_350_r4l10 des Ehebrucht, und anderer Sachen
+#facs_350_r4l11 wegen empfohlen werden, getreulich
+#facs_350_r4l12 zu warten, zu vorhüten, und besondern
+#facs_350_r4l13 Denow, so um den Ehebruch eingelagt,
+#facs_350_r4l14 kein ander Spais- und Trank zugeben,
+#facs_350_r4l15 zukommen zu lesen, dann wir die Ehe¬
+#facs_350_r4l16 gericht dazung zu gibt, und bestimmt,
+#facs_350_r4l17 auch dieselben all, so in der Henry¬
+#facs_350_r4l18 bus, würdig erfunden, und erkant, zu
+#facs_350_r4l19 fertigen, und in ein Rodel zu ver¬
+#facs_350_r4l20 zeichnen: dasgleichen die Gries so in
+#facs_350_r4l21 Nahmen eines ehesammen Ehergerichts-
+#facs_350_r4l22 geschrieben etc.
+#facs_351_r2l1 geschrieben, zu verschiken, in guten
+#facs_351_r2l2 Trauen, alle Befährs vermuthen
+#facs_351_r2l3 IV
+#facs_351_r2l4 Die Löbeit und Depraecati,
+#facs_351_r2l5 Conan betreffend.
+#facs_351_r2l6 Überlasen Wie dem Richter, so sei¬
+#facs_351_r2l7 bige erkennen leind, solche einzuen¬
+#facs_351_r2l8 ten, und durch die Kirchen¬
+#facs_351_r2l9 -
+#facs_351_r2l10 so wohl an Unserem allhiesigen
+#facs_351_r2l11 Ober Chorg nicht, als auch denen übri¬
+#facs_351_r2l12 gen Chorgeichten in Unseren Städt
+#facs_351_r2l13 und Landen, in Vorfallenseiten,
+#facs_351_r2l14 je nach Hut finden und geboh es erscheit
+#facs_351_r2l15 der Fählow, selbige allwegen in ihr
+#facs_351_r2l16 rem Beysein zu tollstreken.
+#facs_351_r2l17 R. C. c. H.H.
+#facs_351_r2l18 Solchjomnach bollen Mir-Nud gegen
+#facs_351_r2l19 75
+#facs_351_r2l20 67
+#facs_351_r3l1 879.
+#facs_351_r3l2 Euch Unseren obernannten Lieben¬
+#facs_351_r3l3 und Betrauen Bürgeren, Einwoh¬
+#facs_351_r3l4 neren, Angehörigen und Untertha¬
+#facs_351_r3l5 nen hiemit versehen Ihr pflicht¬
+#facs_351_r3l6 mäsig diesen Unseren Saz und Ord¬
+#facs_351_r3l7 nungen nach Euch richten werdet;
+#facs_351_r3l8 Unsere Amtleuth und Kirchendiener,
+#facs_351_r3l9 Chor Richter und Ausseher aber, an,
+#facs_351_r3l10 Durch befelchert haben, aller Ernst
+#facs_351_r3l11 und Fleises, bey Euren Eydund
+#facs_351_r3l12 Pflichten, darob zuhalten, des¬
+#facs_351_r3l13 selbe Last und steiff beobachtet.
+#facs_351_r3l14 die Übertrecker dann nach Inhalt
+#facs_351_r3l15 derselben angesehen, und in
+#facs_351_r3l16 gebührende Gestrafung gezogen¬
+#facs_351_r3l17 werden. Alles bey Herr
+#facs_351_r3l18 meidung unserer Hoch Ober¬
+#facs_351_r3l19 keitlicher Stras und Ungnade
+#facs_351_r3l20 Bebenach.
+#facs_352_r2l1 Beben in Unseren großen
+#facs_352_r2l2 =
+#facs_352_r2l3 Rechts Versammlungen im Jahren
+#facs_352_r2l4 1739. und vollendet und Jahr¬
+#facs_352_r2l5 1743.
+#facs_352_r4l1 681.
+#facs_352_r4l2 An alle T: und W. Amtlich, 4. Statt
+#facs_352_r4l3 Frey weibel und Amen.
+#facs_352_r4l4 Item per Zodel an alle Känzel hie¬
+#facs_352_r4l5 siger HaubtStadt. Sep¬
+#facs_352_r4l6 Die neue Thorgricht Sazung Ihnen zu¬
+#facs_352_r4l7 senden, und befehlen, wie es mit deren
+#facs_352_r4l8 Publication gehalten seyn wolle.
+#facs_352_r4l9 Schultheis Räht und Burger der Statt
+#facs_352_r4l10 Hernach.
+#facs_352_r4l11 Viele ohlen durch vielfältige bey der
+#facs_352_r4l12 von unseren Löbl. Regimento Vorden
+#facs_352_r4l13 nan und Uns, in alten und auch
+#facs_352_r4l14 neueren Zeiten, ausgegebene Manda¬
+#facs_352_r4l15 ta, Satz und Ordnungen, vorgeschrie¬
+#facs_352_r4l16 ben ist, wie Unsere zu Stadtung
+#facs_352_r4l17 Land verordnete Chorgricht in Ehesa¬
+#facs_352_r4l18 sen und anderen vielfältig vorfal¬
+#facs_352_r4l19 lenden Beschäften sich verhalten
+#facs_352_r4l20 sollen; so haben jedennoch Wie für
+#facs_352_r4l21 gutil.
+#facs_353_r2l1 und noht wendig angesehen, all die¬
+#facs_353_r2l2 sers Früscher Dings übersehen, aus
+#facs_353_r2l3 gegenwertige Zeiten inrichten,
+#facs_353_r2l4 und zusamen in eine Dazung tragen.
+#facs_353_r2l5 auch selbige im obenen Truh ausfer¬
+#facs_353_r2l6 tigen, zu manigliche Nachricht mit
+#facs_353_r2l7 Verhalt, und damit niemand deren
+#facs_353_r2l8 Unbüsanheit vorschuzen könne, bei
+#facs_353_r2l9 das in Unsere Schlöser, und auch
+#facs_353_r2l10 die Pfrud häuser die erforderli¬
+#facs_353_r2l11 chen Exemplaria darvon legen lei¬
+#facs_353_r2l12 sen ich.
+#facs_353_r2l13 Inwesen und weilen liegen Weitz¬
+#facs_353_r2l14 läufigkeit dieser neuen bezung sel¬
+#facs_353_r2l15 bige nicht fürglich aus den Läuschen
+#facs_353_r2l16 publiciert werden kan, jederman an¬
+#facs_353_r2l17 durch desen benachrichtet und dahin
+#facs_353_r2l18 verständiget wird, das in Unseren
+#facs_353_r2l19 Schlöswen und Pfundhäuseren sol¬
+#facs_353_r2l20 che von männiglich eingesehen und be¬
+#facs_353_r2l21 les auch.
+#facs_353_r3l1 Décret
+#facs_353_r3l2 = lesen werden könne ich Dir demnach
+#facs_353_r3l3 befelchende, nicht die Chorgricht so
+#facs_353_r3l4 zung, sondern gegenwertiges Un¬
+#facs_353_r3l5 sere Ausschreiben zu eines jeden
+#facs_353_r3l6 Wusan schasth von Lanzlow off ent
+#facs_353_r3l7 lich vorkünden zu lasen. Wie zu¬
+#facs_353_r3l8 thun du läsen wirst. Datl. d.
+#facs_353_r3l9 5th Decembris 1743
+#facs_353_r3l10 P. S. von angeschlosenen Exempla¬
+#facs_353_r3l11 rien dieser neuen Chorgricht Sazung
+#facs_353_r3l12 birst ein Doppel für Dich behalten,
+#facs_353_r3l13 das andere denen übrigen Documen¬
+#facs_353_r3l14 ten des Schlosses bey legen, einem je¬
+#facs_353_r3l15 den Pfarr Herren deiner Amts im
+#facs_353_r3l16 doppel zu stellen, und auch in je¬
+#facs_353_r3l17 das Thorgricht deiner Amts ein Cop,
+#facs_353_r3l18 pal überreichen lasen / Dammenax da
+#facs_353_r3l19 bey das die Chorgricht bezung, und auch
+#facs_353_r3l20 gegenwärtige Unsere Verordnung nach,
+#facs_353_r3l21 nicht lösen dann Mandaten durch ein schrei¬
+#facs_353_r3l22 ben losen. Datl: ut supra.
+#facs_354_r4l1 An die H: Amtläuth, so gegen
+#facs_354_r4l2 Fryburch benachbaret.
+#facs_354_r4l3 Aus Pierre Periard zuächten.
+#facs_354_r4l4 Schultheis und Raht etc.
+#facs_354_r4l5 Wegen schweren Verbrechens hat
+#facs_354_r4l6 Löbl. Stand Freyburg den Pierre
+#facs_354_r4l7 Pereard von Dussy Amtr Montagnie
+#facs_354_r4l8 ausgesamter Eydgros schafft alsig vand
+#facs_354_r4l9 siert, und inn ihren Landen vogelfal¬
+#facs_354_r4l10 erkannt: dahero mit Einschlus desen
+#facs_354_r4l11 Beschreibung Wir der /: gleich andere
+#facs_354_r4l12 ren Amtlauthen :/ befehlend, aus die¬
+#facs_354_r4l13 sen Mann Achtung zu bestellen, in
+#facs_354_r4l14 da er entdekt wurde, demselben bei
+#facs_354_r4l15 nen Lufenthalt zu gestacten, sondern
+#facs_354_r4l16 ren fort zu beisem etc. Dat. 24. Dec.
+#facs_354_r4l17 1743.
+#facs_354_r4l18 Beschreibung.
+#facs_354_r4l19 Pierre Periard von Ryssi Vogtoy=
+#facs_354_r4l20 Montenach hinter dem Lanton
+#facs_354_r4l21 Feyburg etc.
+#facs_354_r6l1 685.
+#facs_354_r6l2 Fryburg ist seinem Sagen nach ohnge¬
+#facs_354_r6l3 Fehed 60. Jahr alt, 5 Schur und 3.
+#facs_354_r6l4 Holl Hoch, geholten Leibs und brei¬
+#facs_354_r6l5 ten Schulteren, hat roht lechte Haa¬
+#facs_354_r6l6 nen ein langlecht und weises ange¬
+#facs_354_r6l7 sicht, rohten Bärt, graue Augen, ist
+#facs_354_r6l8 aus der rechten Achsel mit dem Frey¬
+#facs_354_r6l9 burg Zeichen gebrandmahlet, tragt
+#facs_354_r6l10 ein alten rohten Roth mit blauen
+#facs_354_r6l11 Überschlag und Hinnenen Knöpf, ein
+#facs_354_r6l12 nohten Unternoth mit vüxderner
+#facs_354_r6l13 Knöpf, ein roster Lybl. oder Ernst¬
+#facs_354_r6l14 Tuch mit schwarzen Knöpff, gelb
+#facs_354_r6l15 Ladernen Hosen.
+#facs_354_r6l16 In
+#facs_354_r6l17 Alle 7 und W. Amt Leuth, frey lebl. und
+#facs_354_r6l18 Aman.
+#facs_354_r6l19 Tabellen sich der ausiert Lands sich
+#facs_354_r6l20 befindlichen auszurichten.
+#facs_354_r6l21 Schultheis und Raht der Stadt Diench¬
+#facs_354_r6l22 James P.
+#facs_355_r3l1 Damit Unser Verboit wegen dem
+#facs_355_r3l2 gefährlichen Reis P läuft desto
+#facs_355_r3l3 beser erreicht werden, und man
+#facs_355_r3l4 genau ersehen könne, wer et wann
+#facs_355_r3l5 solch fremde und ohnerlaubte
+#facs_355_r3l6 Kriegs diensten sich begebe, habend-
+#facs_355_r3l7 Wir dir /: gleich übrigen Unsaren
+#facs_355_r3l8 Amtleuthen:/ befehlen wollen, als
+#facs_355_r3l9 jährl. auss fleisigste die Tabellen
+#facs_355_r3l10 deiner ausert Landts befindtl.
+#facs_355_r3l11 Amtsangehörigen, mit Nahmen,
+#facs_355_r3l12 Zunahmen, Habuhetrorth, auch
+#facs_355_r3l13 lealcher Oheten in Ausaren Landen
+#facs_355_r3l14 sie sich aushalten, in Kriege dien¬
+#facs_355_r3l15 sten oder sonsten u. einzurich ver¬
+#facs_355_r3l16 Denne diejenigen, so aus auseren
+#facs_355_r3l17 Diensten wieder nach Haus kommen, h
+#facs_355_r3l18 examinier an, von welchem Worten
+#facs_355_r3l19 und was nahmens, sie enrolliert worden,
+#facs_355_r3l20 und Unserem bestelten Kriegsraht
+#facs_355_r3l21 gebohnte ich.
+#facs_355_r4l1 G887
+#facs_355_r4l2 gewöhnter masen einzusenden. Datl.
+#facs_355_r4l3 d. 31. st. Decembris 1743.
+#facs_355_r4l4 Rechnungs Tagen
+#facs_355_r4l5 Der Weltschen Herren Amtleüthen
+#facs_355_r4l6 Pro Anno 1744.
+#facs_355_r4l7 Zu uffreiten
+#facs_355_r4l8 7 L. Febeus
+#facs_355_r4l9 Wistlispurg
+#facs_355_r4l10 Collat
+#facs_355_r4l11 ary
+#facs_355_r4l12 Damstagd.
+#facs_355_r4l13 Pätterlingen
+#facs_355_r4l14 den 8ten. dito
+#facs_355_r4l15 Freilage
+#facs_355_r4l16 den 14.en dito
+#facs_355_r4l17 Silden
+#facs_355_r4l18 15t. dito
+#facs_355_r4l19 Samstags
+#facs_355_r4l20 II
+#facs_355_r4l21 Oron
+#facs_355_r4l22 d. 21. t dito
+#facs_355_r4l23 Praitage
+#facs_355_r4l24 .
+#facs_355_r4l25 Abundtste Rechnung Lausanne
+#facs_355_r4l26 den 22ten. dito.
+#facs_355_r4l27 Samstags
+#facs_355_r4l28 Villeneuve
+#facs_355_r4l29 den 28. dito.
+#facs_355_r4l30 Freitagd
+#facs_355_r4l31 Morser-
+#facs_355_r4l32 d 29. t dito.
+#facs_355_r4l33 damstags
+#facs_355_r4l34 Aubone
+#facs_355_r4l35 d. 3.1.en Januarij
+#facs_355_r4l36 Preytags
+#facs_355_r4l37 Yverdun-
+#facs_355_r4l38 den 7ten. Marty
+#facs_355_r4l39 Samstags
+#facs_355_r4l40 Malt sich Wainschan
+#facs_355_r4l41 d 13.t dito.
+#facs_355_r4l42 Treptags¬
+#facs_355_r4l43 Vevey
+#facs_355_r4l44 den 14.ten. dito
+#facs_355_r4l45 amstagt
+#facs_355_r4l46 Comainmostier
+#facs_355_r4l47 d 20t dito
+#facs_355_r4l48 Freilage.
+#facs_355_r4l49 Bonmont.
+#facs_355_r4l50 Prad 1ste Rachung
+#facs_355_r4l51 d. 21 t. dito
+#facs_355_r4l52 Samstags
+#facs_355_r4l53 Nyon -
+#facs_355_r4l54 & D
+#facs_355_r4l55 H H J
+#facs_356_r1l1 688
+#facs_356_r1l2 Collatz
+#facs_356_r2l1 Wo das Schultheisen Holz hinzu¬
+#facs_356_r2l2 führen.
+#facs_356_r2l3 Bey abermahl angernkter Zeit, das
+#facs_356_r2l4 das Mönghl. Amts Schultheisen be¬
+#facs_356_r2l5 stimmte Schultheisen Holz aus der Pa¬
+#facs_356_r2l6 ticularen eigenen Waldungen-
+#facs_356_r2l7 für das verwichene 1743. Jahr
+#facs_356_r2l8 angeschafft werden soll, wird man
+#facs_356_r2l9 lich, den es angehet, hierdurch ernst
+#facs_356_r2l10 lich erinnert, sothanes Holz aus dem
+#facs_356_r2l11 von Rembohl Alt, Landvogt May von
+#facs_356_r2l12 Bonmont bestimmende Zeit, so daß y
+#facs_356_r2l13 ohne Fehler, und
+#facs_356_r2l14 bind den
+#facs_356_r2l15 Zwar anders nicht als in wahrschen
+#facs_356_r2l16 Fuderen aus sein H. Landvogts¬
+#facs_356_r2l17 Mäy Guht nun Bösli genant abzu¬
+#facs_356_r2l18 legen, da sonsten bann die Fuder
+#facs_356_r2l19 nicht bährschaft, selbige nicht wur¬
+#facs_356_r2l20 den abgenommen werden. Altl. d. 4. ten
+#facs_356_r2l21 Janl 1744
+#facs_356_r2l22 Annoch
+#facs_356_r4l1 1689
+#facs_356_r4l2 An alle 7 und W. Amtläckh,
+#facs_356_r4l3 L.
+#facs_356_r4l4 4.
+#facs_356_r4l5 Stadt, Freylraibel und
+#facs_356_r4l6 Iman Sep
+#facs_356_r4l7 In Ansehen Werbungen.
+#facs_356_r4l8 Schulthers Räht und Bürger etc.
+#facs_356_r4l9 Alleo Beschleidigkeiten vorzubiegen,
+#facs_356_r4l10 und damit der Werbungen halber in
+#facs_356_r4l11 die von Und erlaubte Kriegs Dienste
+#facs_356_r4l12 alles denen Bedungen und Reglementen
+#facs_356_r4l13 ten nach eingreichtet werde; Wollend¬
+#facs_356_r4l14 Wir dir hiemit anbefohlen haben,-
+#facs_356_r4l15 wann von denen beeydigten vorberen¬
+#facs_356_r4l16 die angelworbene Mausches vorgestalz
+#facs_356_r4l17 wird, derselben Anzahl in jenigen Mor¬
+#facs_356_r4l18 ber Patent, oder Copey, so er dir vor¬
+#facs_356_r4l19 zu legen haben wird, traülichen einzu¬
+#facs_356_r4l20 schreiben, zugleich dann von solcher
+#facs_356_r4l21 gestellt an Mannschas nichts destolvenii
+#facs_356_r4l22 ger die vorhin anbefohlene verschlosene
+#facs_356_r4l23 Liste of
+#facs_357_r3l1 Elisé, an Unsere verordnete Recru¬
+#facs_357_r3l2 Cammer gestellt, dem Werbarnich und
+#facs_357_r3l3 digen, damit die angelvorbene Mann¬
+#facs_357_r3l4 schafts allwegen gebührend controliert
+#facs_357_r3l5 werden könne. Wie zuthun und solche
+#facs_357_r3l6 nachrichtlichen einzuschreiben, du be¬
+#facs_357_r3l7 stand läusern wirst. Gott mit die¬
+#facs_357_r3l8 Dall. den 15. Jan. 1744.

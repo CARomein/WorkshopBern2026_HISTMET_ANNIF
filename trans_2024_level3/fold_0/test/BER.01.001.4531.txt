@@ -1,0 +1,98 @@
+Law nr: BER.01.001.4531
+Name: Ob Ibid
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 86/86
+# High similarity (>=80%): 81
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_27_r3l8 alle W. Herren Amtleut, wo Obrigkeitl.
+#facs_27_r3l10 liegt
+#facs_13_r4l10 H
+#facs_27_r3l12 Obid
+#facs_27_r3l13 Schultheiß Räth und Burger etc. Über dem
+#facs_27_r3l14 von Unseren fürgeliebten Mitrathen dem
+#facs_27_r3l15 Herren W. Bevelmeister und Neueren, und
+#facs_27_r3l16 Unserer verordneten KornCamer Uns
+#facs_26_r2l15 gemachten Vortrag, betrefend das auf
+#facs_27_r3l18 Martini 1782. eingegangene Obrigkeitliche
+#facs_27_r3l19 Getrin, haben Wir gut befunden und
+#facs_27_r3l20 rkent: Es solle von dem die Borts nach
+#facs_27_r3l21 Ergänzung des auf Euerem Amt bestimten
+#facs_27_r3l22 Vonnaths und
+#facs_28_r3l3 9 An Pferten allein.
+#facs_27_r3l24 /: dasjenigen so zu gleichem End hin zu Neus
+#facs_27_r3l25 zu Ergänzung der dortigen Vorraths an
+#facs_27_r3l26 Wagen mich erforderlich, und bey 50.
+#facs_27_r3l27 Däben betragen mag, wie auch:“ noch
+#facs_12_r8l14 B
+#facs_27_r4l2 An Neusbleibt
+#facs_27_r4l3 das Wert Waizen id
+#facs_27_r4l4 der Expedition aus
+#facs_27_r5l2 nach Abzug der Ordinari und quasi Or¬
+#facs_27_r5l3 „dinarii Ausgaben, vorschießenden Obrigkeiten
+#facs_27_r5l4 Getreid, von den Winter fruchten, als
+#facs_27_r5l5 Waizen, Roggen und Mischelkorn, für ein¬
+#facs_27_r5l6 mal uns bis auf Unseren bestimten weiteren
+#facs_27_r5l7 Befehl, nur die Helfte abgestoßen hingegen
+#facs_27_r5l8 aber die Sommerfrüchte, als Haber, Gersten
+#facs_27_r5l9 und Paschy, völlig versilberet werden.
+#facs_26_r4l12 Wobey Unser Will und Befehl in fernerm
+#facs_26_r4l13 dahin gehet: daß in ansehen dieser
+#facs_95_r2l8 verkaufen den Früchten, die Verzeigung
+#facs_27_r5l13 der Schüttenen von Seiten Unserer für¬
+#facs_27_r5l14 geliebten Miträthen der Herren W. Sebel¬
+#facs_27_r5l15 meister und Stemmen erwartet, dabey
+#facs_27_r5l16 die gewöhnlichen Präbautionen genommen,
+#facs_27_r5l17 mithin das zu verkauffende Getreis nicht
+#facs_27_r5l18 denen Händlern en bloc versprochen, sondern
+#facs_27_r5l19 nur zu kleinen Kaufen in laufendem
+#facs_27_r5l20 Preit verkauft- und von denen ange¬
+#facs_27_r5l21 wiesenen Schüttenen vor allem aus, da
+#facs_27_r5l22 mindest behältliche Getreis abgestoßen
+#facs_27_r5l23 ins besonders dann die Sommerfruchte vor¬
+#facs_27_r5l24 züglich zu Anblühnung der Felderen hin¬
+#facs_27_r5l25 gegeben werden sollen.
+#facs_27_r5l26 Welchemnach Ihr Euch zu verhalten läßt,
+#facs_7_r2l12 18
+#facs_8_r1l1 10
+#facs_28_r3l1 und über das erlösende uns gebührende
+#facs_28_r3l2 Rechnung tragen werdet.o Dat. d. 19. März 1712
+#facs_27_r3l23 An iferten allein
+#facs_28_r3l4 und auf erhaltenden Avis von Unseren
+#facs_28_r3l5 Amtsmann zu Neur, demselben das er-
+#facs_28_r3l6 forderliche zu Ergänzung der dortigen
+#facs_28_r3l7 hoch Obrigkeitlichen Vorraths an Weyzen
+#facs_28_r3l8 zukommen laßen.
+#facs_28_r3l9 Ö An Neud allein
+#facs_28_r3l10 In Bedenken aber, auf Euerem Amt der
+#facs_28_r3l11 Vorrath an Mayzen aus dem ferndrigen
+#facs_28_r3l12 Jahrs eingegangenen Waysen nicht er¬
+#facs_28_r3l13 ganzt werden kam So ist deshalb
+#facs_28_r3l14 Unser Will: daß neben dem so von
+#facs_28_r3l15 dem ferndrigen Eingang, nach Abzug der
+#facs_28_r3l16 Eingangs vermelten Ordinar und Quasi¬
+#facs_28_r3l17 Ordinarii Ausgaben an Weizen vorschießen
+#facs_28_r3l18 bird, auch allen derjenige Waysen dazu
+#facs_28_r3l19 verbendet werden, so legen dem Genfer¬
+#facs_28_r3l20 zug von anderen Ämteren nach Neuz
+#facs_28_r3l21 gebracht worden, und alda noch liegen
+#facs_28_r3l22 thut, dazu verwandt – uns dann endlich
+#facs_28_r3l23 das noch zu völliger Ergänzung Eueres
+#facs_28_r3l24 Vorraths an Weysen ermanglende, von
+#facs_28_r3l25 Seiten Unsers Amtmanns zu Ihrerten beyge¬
+#facs_100_r2l1 soll.
+#facs_4_r6l1 5
+#facs_28_r5l2 beygeschoßen- und Euch zu dem Ende über¬
+#facs_28_r5l3 macht werde. Welchemnach Ihr Euch
+#facs_28_r5l4 verhalten und das zu völliger Ergänzung
+#facs_28_r5l5 des Wayzen Vorraths auf Eüenem Amt
+#facs_28_r5l6 von Iferten noch erforderliche bekant
+#facs_28_r5l7 machen, und dabey achten werdet, daß
+#facs_28_r5l8 solches wohl conditioniert eingebracht werden
+#facs_52_r2l18 Datl.

@@ -1,0 +1,22 @@
+Law ID: BER.01.001.2505
+Name: Waagen Placcard zuschicken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 11/11
+# High similarity (>=50%): 11
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_540_r1l18 An alle T. Amptleäth der
+#facs_540_r1l19 Stath sind
+#facs_540_r1l20 Waagen placard zuschicken.
+#facs_540_r1l21 Schultheiß und Rast etc.
+#facs_540_r1l22 Es Vermeidung daß im Gebrauch der Wagen beahrgenommen
+#facs_540_r1l23 Collath
+#facs_540_r1l24 betrugt habend wir guthfunden ein einsehen zethun, wie beyligend
+#facs_540_r1l25 getrückte Exemplaria imhaltend, So wir die überschickende Edler
+#facs_540_r1l26 mit befelich selbige an gebohnten Ohrten anschlagen zulaßen, und
+#facs_540_r1l27 mit abstraffung der fahlbahren hinführo steiffe Hand obzuhalten
+#facs_540_r1l28 Datum 1 Marty 1693

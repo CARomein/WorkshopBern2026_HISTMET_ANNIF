@@ -1,0 +1,402 @@
+Law ID: BER.01.001.3182
+Name: Wie es in Wegzühung des Mann- und Landrechtens der Underthanen und dero würklich habenden oder nachwärts fallenden Guts halben gehallten werden solle.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 391/391
+# High similarity (>=50%): 375
+# Low similarity (<50%): 16
+# Not found: 0
+#
+#facs_8_r3l1 Mafel
+#facs_8_r3l2 V
+#facs_8_r3l3 Ligens
+#facs_8_r4l1 11.
+#facs_8_r4l2 Ordnung
+#facs_8_r4l3 Wie Er In
+#facs_8_r4l4 A
+#facs_8_r4l5 Wegzühung des Mann, und Land¬
+#facs_8_r4l6 Rechtens der Vnderthanen und
+#facs_8_r4l7 Dero würklich habenden oder
+#facs_8_r4l8 halber
+#facs_8_r4l9 Nachwärts fallenden Gutsge¬
+#facs_8_r4l10 zällten werden solle
+#facs_8_r4l11 Et
+#facs_8_r4l12 Demnach die Erfahrung von
+#facs_8_r4l13 Zeit zu Zeit Erwisen, daß von hiesigen Under¬
+#facs_8_r4l14 thanen Einige auß Noht getriben, andere aber in
+#facs_8_r4l15 Hooßnung Ihr zeitliches Glük beßer zu besteisen,
+#facs_8_r4l16 sich in außere Land begebend, Theils darvon sich
+#facs_8_r4l17 darinnen haußhablichen Niderlaßend, und So Sie
+#facs_8_r4l18 etwas Mittel im Land verlaßen, oder Ihnen
+#facs_8_r4l19 erblichen zufallend, solches weggzuzöhen suchend
+#facs_8_r4l20 und deswegen by Meinen gnädigen Herren umb
+#facs_8_r4l21 Erlaßung Ihres Lande und Manrechtens, auch Ver¬
+#facs_8_r4l22 abfolgung sothaner Mittlen, sich anmeldendt, und
+#facs_8_r4l23 öffters ohne gnugsamme Praecantionen, und auf Un¬
+#facs_8_r4l24 gleichem zuß erhalten: Alls hat solches Meine Gna¬
+#facs_8_r4l25 dige Herren zu billicher überlegung der Sachen
+#facs_8_r4l26 Beschaffenheit und zu Einrichtung einer beständigen
+#facs_8_r4l27 Bnobachtung, wie In Eint oder anderen Pählen
+#facs_8_r4l28 Verfahren werden solle, verleitet Maßen dann die¬
+#facs_8_r4l29 selbe zu künfftiger Nachricht und verhällt zu ordnen
+#facs_9_r1l1 13.
+#facs_9_r1l2 12
+#facs_9_r1l3 gutfunden, In Weit und Form, Wie hernach
+#facs_9_r1l4 werden; der byläuffigen Meinung, wann die
+#facs_9_r1l5 Amtl. verlangten die Rechnungen zu sehen,
+#facs_9_r1l6 volget.
+#facs_9_r1l7 daß selbige Ihnen vorgewisen werden sollen.
+#facs_9_r1l8 von Manns- und Weibs¬
+#facs_9_r1l9 Persohnen zur Gemein.
+#facs_9_r1l10 Doch soweit müglich ohne Costen, wie des Mehrers
+#facs_9_r1l11 Wie die Ja¬
+#facs_9_r1l12 nigen xyz Wann Jemand Maus, oder Weibs Persohne
+#facs_9_r1l13 zu sehen im Mandatenbuch No. 11. fol. 652.
+#facs_9_r1l14 mittel, So sich außert Landts begibet, und Mittel im Land
+#facs_9_r1l15 und Weilen demnach Einer hohen Oberkeit
+#facs_9_r1l16 Ein weg zü¬
+#facs_9_r1l17 hender im Hinderlaßet, oder Jemandem, So bereits des
+#facs_9_r1l18 nicht allein für das zeitliche, sonderen auch für
+#facs_9_r1l19 Land hinder sich befindend, Ein Erb und Mittel zu fallen, Sol-
+#facs_9_r1l20 Das Ewige Heil Ihrer Vnderthanen und angehöri¬
+#facs_9_r1l21 laßet zu vor die Ehrbarkeiten deß ohrts darüber die aufsicht
+#facs_9_r1l22 -
+#facs_9_r1l23 die wegsgen zu sorgen obliget; Alls Soll Niemanden das
+#facs_9_r1l24 wällten
+#facs_9_r1l25 deme wie hallten, und darum zu Verantwortung stehen,
+#facs_9_r1l26 Man, oder Landrecht, weniger die Mittel wegzu¬
+#facs_9_r1l27 ung des
+#facs_9_r1l28 Ein Erb St
+#facs_9_r1l29 Einem außer hiemit verschaffen, daß darüber Ein Ehrlicher
+#facs_9_r1l30 gerechtens vie¬
+#facs_9_r1l31 zuhen Erlaubt werden, Er könne dann durch Anthen
+#facs_9_r1l32 Der Mittel
+#facs_9_r1l33 Landts sich be, benuttleter vogt gesetzt, welcher dieselben zu
+#facs_9_r1l34 tischen gnugsammen Schein bybringen, daß Er
+#facs_9_r1l35 Erlauben
+#facs_9_r1l36 findenden alles
+#facs_9_r1l37 hier im Land zu seinen Handen Nemmen, und So Eine Theilung
+#facs_9_r1l38 noch der wahren Evangel. Religion zugethan,
+#facs_9_r1l39 Erfolget, derselben bywohnen, zwey doppel¬
+#facs_9_r1l40 fallet, zu
+#facs_9_r1l41 Fürs Einte; fürs andere dann, daß Er an dem ohrt
+#facs_9_r1l42 verpflege
+#facs_9_r1l43 dem Inventario oder verzeichnis seiner Vogt
+#facs_9_r1l44 da Er sich nidergelaßen, ein würkliches Bürger
+#facs_9_r1l45 seye.
+#facs_9_r1l46 angehöriger Mirlen verfertigen laßen, die Mitt¬
+#facs_9_r1l47 und Heimatrecht habe.
+#facs_9_r1l48 zinstragend Machen, das einte doppel des
+#facs_9_r1l49 Im Fahl nun auf Sothanem Hus die Wegzü¬
+#facs_9_r1l50 an das Mauer
+#facs_9_r1l51 Inventarii der Gemeind, da die Persohn dahin
+#facs_9_r1l52 hung deß Manne oder Landrechtens, samt den
+#facs_9_r1l53 ist ungzu ziehen
+#facs_9_r1l54 schrährt, soll zu
+#facs_9_r1l55 Mittlen von der Oberkeit zu erhallten Begehrung
+#facs_9_r1l56 Zur Einschreibung in Ein sonderbar darzu May
+#facs_9_r1l57 wurde, soll zugleich eine Lechnung und Speci¬
+#facs_9_r1l58 des bey übergeben, das andere aber hindtlich eine Speu¬
+#facs_9_r1l59 ation dch
+#facs_9_r1l60 -
+#facs_9_r1l61 fication der Mittlen von der Ehrbarkeit oder
+#facs_9_r1l62 elen vorgen.
+#facs_9_r1l63 Ihme behellten, und jährlichen doch Mügl
+#facs_9_r1l64 werden.
+#facs_9_r1l65 Amtsman des ohrts Ertheilt, Eingelegt werden
+#facs_9_r1l66 ohne Casten, gebührende Rechnung darum g
+#facs_9_r1l67 Damit auf erhälltende Bewilligung der Belaufen
+#facs_9_r1l68 tragen, das vorschießende Zum Hauptgut ge
+#facs_9_r1l69 deß abzugs an gebührendem Ohrt aufgezeichnet
+#facs_9_r1l70 schlagen und allso daßelbe zu vermehren ge¬
+#facs_9_r1l71 werden könne.
+#facs_9_r1l72 trachtet, und in alle weg darin Ehrbarlich Un¬
+#facs_9_r1l73 auffrichtig verfahren, und ohne der Oberkeit
+#facs_9_r1l74 vorwusen niemand nichts darvon gegeben
+#facs_10_r1l1 14
+#facs_10_r1l2 zahls sich dann erfindet, das eine Persohn seine Wa-
+#facs_10_r1l3 So Eine Religion Religion geEnderet, und der Römischlathol. zugefallen
+#facs_10_r1l4 geenderet, wie
+#facs_10_r1l5 deren Mittell allsobald zu oberkeitl. Handen Confiscan¬
+#facs_10_r1l6 mit deßen
+#facs_10_r1l7 Mitthen zu
+#facs_10_r1l8 bezogen werden; Es wäre dann Sach, daß Eine Pers
+#facs_10_r1l9 verfahren.
+#facs_10_r1l10 sich an solchen ohrten Bürgerlich gesetzt hatte, da der
+#facs_10_r1l11 Freyzügigkeit halb Eint vnd anders durch Tractaten
+#facs_10_r1l12 Verglichen wäre, wie hernach vnder dem Titul der
+#facs_10_r1l13 abzügen zu sehen.
+#facs_10_r1l14 auf welchem Bey Erhaltung derwegzuhung deß Mann, vnd Landtrecht
+#facs_10_r1l15 Aus der abzug
+#facs_10_r1l16 wie auch der Mittlen, Soll der alzug auf den
+#facs_10_r1l17 zu beziehen?
+#facs_10_r1l18 Füß, wie hernach der abzügen halb zu sehen, bey
+#facs_10_r1l19 Wohin die Er,
+#facs_10_r1l20 theillte wegen In der Sekelschreiberey derselbe dem Amtsman
+#facs_10_r1l21 tzüsung  auff compte gesetzt; die weggzühung des Mann- und
+#facs_10_r1l22 Lande und Neu
+#facs_10_r1l23 Rechtens zu Landrechtens aber an die Guieind, da die Persohn
+#facs_10_r1l24 notificieren. Daheim gewesen, zu dortiger Einschreibung
+#facs_10_r1l25 notificiert werden.
+#facs_10_r1l26 Von Mans-Persohnen zur
+#facs_10_r1l27 besonders
+#facs_10_r1l28 22. was für pflicht Ein Mans Persohn soll by verlangender wegzühun¬
+#facs_10_r1l29 Eine Mannsperge
+#facs_10_r1l30 Deß Mann, und LandRechtens und der Mittlen, auch zu
+#facs_10_r1l31 so das Mann undt
+#facs_10_r1l32 Landtrechtwegen
+#facs_10_r1l33 ist
+#facs_10_r1l34 gleich einen authentischen Schein vorweisen, ob Er
+#facs_10_r1l35 will angehalt
+#facs_10_r1l36 borden soll
+#facs_10_r1l37 ledigen Standts oder verhürathet seyn und Kinder
+#facs_10_r1l38 auch wie vel Er derselben habe, und wie vil Eint¬
+#facs_10_r1l39 wie mit der jenigen
+#facs_10_r1l40 Kinder
+#facs_10_r1l41 et
+#facs_10_r1l42 und anderen Gschlechts; da fahls die Kinder
+#facs_10_r1l43 Ihre gesagung
+#facs_10_r1l44 ihr Erreichen
+#facs_10_r1l45 Ihre gsatzmäßige Jahr Erreicht, derselben ant=
+#facs_10_r1l46 zu verfahren
+#facs_10_r1l47 Guts mit verabfolget, Sondern der Vatter zur
+#facs_10_r1l48 seyr.
+#facs_10_r1l49 Theilung angewisen, und solcher Kinderen antheilen
+#facs_10_r1l50 Im Land mit Gungsammer Sicherheit aufbehallter
+#facs_10_r2l1 15
+#facs_10_r2l2 werden soll, so lang biß die Kinder selbsten auf
+#facs_10_r2l3 anfangs Beschriben weis die weggzühung begehreten
+#facs_10_r2l4 Vnd erhalten werden.
+#facs_10_r2l5 6
+#facs_10_r2l6 Der Underjährigen Kinden antheil aber Mogend
+#facs_10_r2l7 mit der Und
+#facs_10_r2l8 tem Vatter gegen Mitnemmung dero Lande und Mann
+#facs_10_r2l9 trigen Kinder
+#facs_10_r2l10 Zechtens unter abermaliger Notification an die
+#facs_10_r2l11 theil an Ihre
+#facs_10_r2l12 Omeind verabfolget werden; weilen sollche Kinder
+#facs_10_r2l13 terg mitlich
+#facs_10_r2l14 alten werden
+#facs_10_r2l15 noch unter deß Vatters Gwallt sind, darbey aber
+#facs_10_r2l16 holl
+#facs_10_r2l17 wohl zu reflectieren sein wirdt, was Leumdens
+#facs_10_r2l18 und Lebwesens der Vatter seyn, damit Rahls Erscher
+#facs_10_r2l19 nender Liechtsinnigkeit oder Kinderlichkeit aus Land¬
+#facs_10_r2l20 Vätterlicher Vorsorg gegen den Kinderen Ein solcher
+#facs_10_r2l21 seines sonst habenden Rechtens abgewiesen werden.
+#facs_10_r2l22 könne
+#facs_10_r2l23 Der Weibs Persohnen halb Ins
+#facs_10_r2l24 Besonders
+#facs_10_r2l25 Denenselben Magzwar auf Ihr begehren und er anfange
+#facs_10_r2l26 angezogenen Praecantionen die Wegzühung Ihres
+#facs_10_r2l27 mit der
+#facs_10_r2l28 Landdechtens und Mittlen auch zugenaßen werden
+#facs_10_r2l29 Espersche
+#facs_10_r2l30 erlangende Jedoch für Ihre Persohnen allein, vnd ohne daß Sie
+#facs_10_r2l31 Gedachung
+#facs_10_r2l32 wider der Gmeinden vorwüßen und Willen Einiche,
+#facs_10_r2l33 res Landt
+#facs_10_r2l34 sten und Kinder Mitnemmen, hiemit solchen zahls mit denen
+#facs_10_r2l35 sley gehalten, selben Theilen und allein Ihren bezichenden antheil
+#facs_10_r2l36 edij jolls
+#facs_10_r2l37 weggzühen sollind; In wellcher Begebenheit aber die
+#facs_10_r2l38 Vrsachen der Weggzehung Einer solchen Mutter
+#facs_10_r2l39 wohl vnd ersucht und von der Hh. Amtlichen und
+#facs_10_r2l40 gemeinden Erforschet und berichtet, vollglich nach
+#facs_10_r2l41 beschaffenen Dingen willfahret oder abgeschlagen werden
+#facs_10_r2l42 solle.
+#facs_11_r2l1 Rechte und Bereis¬
+#facs_11_r2l2 Tigkeiten
+#facs_11_r2l3 Der Statt Bern In ansehen
+#facs_11_r2l4 der Abzügen
+#facs_11_r2l5 Wie Jenige, So Mittel aus dem
+#facs_11_r2l6 Land zühen wollen, nach beschaffen¬
+#facs_11_r2l7 heit der Ohrten, da sie Sitzend
+#facs_11_r2l8 oder hinzuhen wollen, gehalten
+#facs_11_r2l9 werden sollen. Alls Nach.
+#facs_11_r2l10 s
+#facs_11_r2l11 Zürich
+#facs_11_r2l12 Daß die gegebenen und versprochene Heurathgüter
+#facs_11_r2l13 wie nicht weniger alle allbereit verfangene und ver¬
+#facs_11_r2l14 fallene Güter, So Ein Verlobtes dem anderen zubringen
+#facs_11_r2l15 Mag, alles ab- und Nachzugs gäntzlich und gar
+#facs_11_r2l16 frey und ledig sein sollend.
+#facs_11_r2l17 Desgleichen wann Ein Burger oder Bürgerin mit Ihre
+#facs_11_r2l18 allbereit habenden Gut, sich nach Zürich begeben
+#facs_11_r2l19 alldort niderlaßen und wohnen wollte, voll solchen
+#facs_11_r2l20 ohne einiche Beschwärdt oder abzugsforderung be=
+#facs_11_r2l21 schehen und der freye zug verstattet werden.
+#facs_11_r2l22 Spann aber Einer Eine Erbschafft, legat oder Gemach
+#facs_11_r2l23 dahin zucht, soll zehen von hundert der Oberkeit
+#facs_11_r2l24 für den abzug Entrichten: die Mobilien und
+#facs_11_r2l25 fahrende Haab aber, und was noch Mehrers zu
+#facs_11_r2l26 Taxieren Nicht aufss höchste sonderen leidenlich
+#facs_11_r2l27 angeschlagen werden.
+#facs_11_r2l28 Alles obige Vermög Vertrags vom 8ten Marty 1640
+#facs_11_r3l1 1
+#facs_11_r3l2 Luzern.
+#facs_11_r3l3 Die Zärn- und Luzernische Bürger waren vor alltem gege¬
+#facs_11_r3l4 Einander freyzügig, vermög vertrags auff Mitwochen Pauli
+#facs_11_r3l5 bekehrung anno 1492. Wie Im Luzerinschen außtrag¬
+#facs_11_r3l6 oder abscheidtsbuch Fol. 195. zu sehen.
+#facs_11_r3l7 Wie nicht weniger die beydtseitigen Vnderthanen
+#facs_11_r3l8 Vermög Erlüterung von anno 1572. wie In gleichem Buch
+#facs_11_r3l9 fol. 196 zu finden.
+#facs_11_r3l10 Dise Freyheit haben die Einmenthaler hinder Luzern
+#facs_11_r3l11 und vice versa, Jederzeit genoßen, wie auß dem
+#facs_11_r3l12 denen außgeschoßenen der Herrschaft Grachselwald,
+#facs_11_r3l13 sub 12. febrl. 1547. Ertheilten, in gleichem Buch
+#facs_11_r3l14 fol. 251. Eingeschribenen Schein zu sehen,
+#facs_11_r3l15 Auf disem Fuß sind bey der Ständen Burger und Vnder¬
+#facs_11_r3l16 thanen Meistens gehalten, zuweilen aber auch mit
+#facs_11_r3l17 Lauf der Zeit Streitigkeiten Erwekt worden, bis In¬
+#facs_11_r3l18 Aprili 1672. da Luzirn sich schrifftlich vernemen laßen
+#facs_11_r3l19 daß Es denen Bärmschen Underthanen kein Erb Mehr
+#facs_11_r3l20 auß dero Landen gevolgen laßen wolle. Wie zu sehen
+#facs_11_r3l21 Im Lucernbuch Lit: C. Fol. 585. Worauf Zern denen
+#facs_11_r3l22 Gräntzämtl. gegen Luzern sub 29. aprilis Ermeldten
+#facs_11_r3l23 Jahrs befohlen, ein gleiches In ansehen der Luzerni=
+#facs_11_r3l24 schen angehörigen Zuthun.
+#facs_12_r1l1 Vri Schweis Underwal¬
+#facs_12_r1l2 den, zug, Clarus, Catho,
+#facs_12_r1l3 lischer Religion
+#facs_12_r1l4 Mit disen ohrten sind keine Vergleich zufinden, hiemit
+#facs_12_r1l5 wann Erbschafften oder Mittell dahin verfallen sollten,
+#facs_12_r1l6 Müßte wenigstens der abzug zehen vom hundert¬
+#facs_12_r1l7 bezogen; wann aber Ein hernischer Bürger oder
+#facs_12_r1l8 Vnderthan dahin Zühen, sich niderlaßen und allso
+#facs_12_r1l9 Religion änderen wurde, deßen Gut völlig zu hau¬
+#facs_12_r1l10 der oberkeit Confisciert werden.
+#facs_12_r1l11 Qlarus Evangelischer
+#facs_12_r1l12 Religion
+#facs_12_r1l13 Weilen diß Ohrts auch keine Verträg vor Haut
+#facs_12_r1l14 Müsste bey verabfolgung der Mittlen und Erbschafften
+#facs_12_r1l15 der abzug zehen vom hundert bezogen werden,
+#facs_12_r1l16 Basel.
+#facs_12_r1l17 Von denen Bürgeren bey der Stätten Bärn und Bas¬
+#facs_12_r1l18 soll Reciproce kein abzüg von denen Undertha¬
+#facs_12_r1l19 aber fünff vom hundert bezogen werden, sihe
+#facs_12_r1l20 vertrag vom 15. May 1604. Im 7. Sp. Buch Lit.
+#facs_12_r1l21 fol: 133. und Lit: K. K. Fol: 160
+#facs_12_r1l22 Fryburg
+#facs_12_r1l23 Die Bürger von Bärn und Fryburg sind gegen Eine
+#facs_12_r1l24 In alle weg freyzügig, die Underthanen aber
+#facs_12_r1l25 derselben so wohl von denen Imediat als Medi¬
+#facs_12_r2l1 9
+#facs_12_r2l2 Landen sind von dem weggzuhenden Gut fünff von
+#facs_12_r2l3 hundert für den abzug schuldig; von den ligenden
+#facs_12_r2l4 Güteren aber, So Sie Hinder der Oberkeit, von dannen
+#facs_12_r2l5 Sie weggzuhen bleiben laßen, bezahlen sie nichts, laut
+#facs_12_r2l6 Vertrags vom 24. 7bris 1601. Im Fryburgischen
+#facs_12_r2l7 Außtragbuch No. 1. Fol. 337. Eingeschriben.
+#facs_12_r2l8 Ein gleiches ist In ansehen der gemeinen Unterthanen
+#facs_12_r2l9 Im Amt Schwartzenburg & Vice versa durch den
+#facs_12_r2l10 abscheid de anno 1670. bestätiget worden; wie auß
+#facs_12_r2l11 dem Fryburgischen Außtragbuch No. 2. Fol. 246. zu
+#facs_12_r2l12 sehen.
+#facs_12_r2l13 Sollotijurn
+#facs_12_r2l14 Beydseitige Bürger der Stätten Rärn und Sollothur¬
+#facs_12_r2l15 sind wegen gegen Einander habenden Burgerrechtl
+#facs_12_r2l16 Freyzügig
+#facs_12_r2l17 In ansehen der Vnderthanen aber hat Sollothurn in der
+#facs_12_r2l18 Im November 1576 zu Frauwbrunnen gepflogenen,
+#facs_12_r2l19 Conferentz sich erklährt, daß Sie Ins künfftig von denen
+#facs_12_r2l20 jenigen, welche auß dem Sollothürinschen In das
+#facs_12_r2l21 Bernische Ziehen den abzug bezühen werden, der Statt
+#facs_12_r2l22 Bärn überlaßend, Ein gleiches In ansehen Ihrer angeho¬
+#facs_12_r2l23 rigen zuthun. Wie zu sehen im Sollothurnischen
+#facs_12_r2l24 Außtragbuch No. 2. Fol. 348
+#facs_12_r2l25 Der abzug aber thut laut Sollothuenischen Schreibens
+#facs_12_r2l26 Datirt auf Freytag Nach Corporis 1574. Fürff von
+#facs_12_r2l27 Hunderf. Wie in gleichem Buch Fol. 319. zu
+#facs_12_r2l28 sehen.
+#facs_13_r2l1 Auß dem Sollothurnischen Abscheid dann vom 3. Jan: 1577.
+#facs_13_r2l2 ist zusehen, daß beydtseitige Hhl. Ehren Gesandte
+#facs_13_r2l3 den abscheid von ao 1576. auch auf die vertuschete
+#facs_13_r2l4 guter Extendiert haben, Sihn gleiches Buch fol. diese
+#facs_13_r2l5 Es ist auch der Bürgeren und Underthanen halb der
+#facs_13_r2l6 Dreyen Stätten, Bern, Fryburg und Sollothurn in ansehen
+#facs_13_r2l7 der abzügen Ein Gleichmäßiger verglich, wie hieroben
+#facs_13_r2l8 gemeldt, zu finden In dem Fryburgbuch Lit. D. Fol. 4
+#facs_13_r2l9 de Dato 4 Marty 1594.
+#facs_13_r2l10 Schafhusen, Appenzell
+#facs_13_r2l11 der aüßeren Schoden.
+#facs_13_r2l12 Disern ohrt sind In dem Vertrag vom 8. Marty 1640
+#facs_13_r2l13 segriffen, und sollen allso des abzugs halben gleich
+#facs_13_r2l14 Zürich gehalten werden.
+#facs_13_r2l15 Appenzell der Zueren
+#facs_13_r2l16 Rhodon
+#facs_13_r2l17 Weilen des abzugs halb kein Vertrag vorhand¬
+#facs_13_r2l18 alls soll selbiges Ohrt, Gleich vri, Schweitz, Vnder¬
+#facs_13_r2l19 walden, Zug, Glarus Cathol. Religion gehalt
+#facs_13_r2l20 werden.
+#facs_13_r2l21 Viel
+#facs_13_r2l22 Bärn und Ziel der Beysen Stätten Eingeheßen
+#facs_13_r2l23 Burger und Einwohner, und alle die, so in der
+#facs_13_r2l24 Gerichtsstab geseßen, sind in alle weg freyzügig
+#facs_13_r2l25 Die Jenigen aber, so außer denen Gerichtsufen
+#facs_13_r2l26 geseßen, oder aber ob sie gleich darinnen gesehen
+#facs_13_r3l1 rto
+#facs_13_r3l2 gleiches ist ver¬
+#facs_13_r3l3 lichen borden
+#facs_13_r3l4 unt Neuwe,
+#facs_13_r3l5 Jurg sub 19
+#facs_13_r3l6 31. bis 3
+#facs_13_r3l7 land: un
+#facs_13_r3l8 let: durchl.
+#facs_13_r4l1 21
+#facs_13_r4l2 dennoch gut zuhen wollten, So außert den Stätten und
+#facs_13_r4l3 Grichtsstäben gefallen, sollen für den abzug Eins von
+#facs_13_r4l4 wanzig oder fünff von hundert bezalen, laut
+#facs_13_r4l5 Vertrags von ao. 1551. Laut Bielerischen Erleüterungs
+#facs_13_r4l6 Schreiben vom 14. Febr. 1685 und bey der Statten
+#facs_13_r4l7 Abscheidts vom Nach und letzten aprilis 1566.
+#facs_13_r4l8 Müllhausen
+#facs_13_r4l9 Bärn und Müllhusen haben sich sub 4. Marty und
+#facs_13_r4l10 24. 8bris 1644. dahin verglichen, daß dero Bürger¬
+#facs_13_r4l11 So deß wahren und Gantzen Burgerrechtens genooß sind
+#facs_13_r4l12 deß abzugs in alle weg Frey, dero Underthanen
+#facs_13_r4l13 aber für denselbigen fünff vom hundert zu bezalen
+#facs_13_r4l14 schuldig sein sollind, wie Im großen Pundtbuch
+#facs_13_r4l15 fol. 515. et seqq. zu sehen.
+#facs_13_r4l16 Benff
+#facs_13_r4l17 Zallt für den abzug fünff vom hundert & vice versa
+#facs_13_r4l18 lauth Verglichs vom 30. Febr. 1627.
+#facs_13_r4l19 Marty
+#facs_13_r4l20 Chim
+#facs_13_r4l21 Wallis.
+#facs_13_r4l22 Die Burger Landluth und Unterthanen der
+#facs_13_r4l23 beyden Ständen Barn und Wallis, welche von
+#facs_13_r4l24 Einem Gebieth in das andere Ziehen, mögen
+#facs_13_r4l25 Ihre Güter, gegenwärtige und künffige Erb¬
+#facs_13_r4l26 schafften ruhig genießen, vertuschen und verkauffen.
+#facs_13_r4l27 und das Erlöste gellt aus dem Land ziehen, sind
+#facs_13_r4l28 aber schuldig von dem weggzuhenden funf von hundert
+#facs_13_r4l29 für den Abzug zubezalen. lauth verglichs vom 28 aug
+#facs_13_r4l30 7. Sept. und 17. 9br. 1666. Im 7. Spbuch Lit. V. v. Fol.
+#facs_13_r4l31 22. Eingeschriben.
+#facs_14_r1l1 22.
+#facs_14_r1l2 Frankreich
+#facs_14_r1l3 zwischen Frankreich vnd Bärn ist Mann lauth ver¬
+#facs_14_r1l4 trägen und Pündtnuß freyzügig, Jedoch allso
+#facs_14_r1l5 Daß wann sich Bernische angehörige in den Königl.
+#facs_14_r1l6 Landen, so die Cron Frankreich vor der Pundts¬
+#facs_14_r1l7 Erneüwerung von ao 1663 besaßen Niderlaßen
+#facs_14_r1l8 keinen abzug; Wann Sie aber in denen Seithero
+#facs_14_r1l9 -
+#facs_14_r1l10 froberten Landen sich niderlaßen, zehen vom Hunden
+#facs_14_r1l11 bezalen sollen.
+#facs_14_r1l12 NB. Außert deme, was hieroben specificiert ist,
+#facs_14_r1l13 Sollen zärnische Bürger und Underthanen, wo Sie
+#facs_14_r1l14 sich immer Niderlaßen möchten, anstatt fünff,
+#facs_14_r1l15 Zehen vom hundert bezahlen, wie ohnlängst¬
+#facs_14_r1l16 Eingeführt worden
+#facs_14_r1l17 Welchemnach Nun ins künfftig verfahren Um¬
+#facs_14_r1l18 dise ordnung zu Jedermäniglichs Nachricht
+#facs_14_r1l19 nicht allein öffentlich verkündet, sonderen
+#facs_14_r1l20 auch ein Getruktes Doppel davon hinder
+#facs_14_r1l21 Jede Gerichtsstatt In dem Land geleget
+#facs_14_r1l22 werden soll. Actum 18. Marty 1718. 1715
+#facs_14_r1l23 hünten

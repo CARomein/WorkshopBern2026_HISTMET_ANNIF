@@ -1,0 +1,237 @@
+Law ID: BER.01.001.3913
+Name: Wegen Bezeüchung der Invalides Pensionen in sardinischen Diensten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 226/226
+# High similarity (>=50%): 209
+# Low similarity (<50%): 17
+# Not found: 0
+#
+#facs_67_r5l1 get
+#facs_67_r5l2 ge¬
+#facs_68_r2l1 Rechnungs Tagen
+#facs_68_r2l2 der Teutsch und Weltschen Herren
+#facs_68_r2l3 .
+#facs_68_r2l4 Amtleüthen
+#facs_68_r2l5 Pro Ano 1746.
+#facs_68_r2l6 1746
+#facs_68_r2l7 Muschaffen
+#facs_68_r2l8 Januarius
+#facs_68_r2l9 Interlakerhaus Miltwochen den 26.
+#facs_68_r2l10 Könitz,
+#facs_68_r2l11 27
+#facs_68_r2l12 Sonstag den
+#facs_68_r2l13 Erlach
+#facs_68_r2l14 Arberg
+#facs_68_r2l15 31
+#facs_68_r2l16 décidée dans le prix d'Etat dans la derniere
+#facs_68_r2l17 v. Joh. Haus  Montag den
+#facs_68_r2l18 Februarius
+#facs_68_r2l19 Landdhut
+#facs_68_r2l20 Miltwochen den 2.
+#facs_68_r2l21 Oberhofen
+#facs_68_r2l22 Sirchenhaus
+#facs_68_r2l23 Donstag den 3.
+#facs_68_r2l24 Holtinwyl
+#facs_68_r2l25 Wifllidburg Freytag den 4
+#facs_68_r2l26 selterlingen
+#facs_68_r2l27 Samstag den 5
+#facs_68_r2l28 und abrechnung
+#facs_68_r2l29 Zuchsee
+#facs_68_r2l30 7.
+#facs_68_r2l31 wachselwaldt Montags den
+#facs_68_r2l32 und abrech.
+#facs_68_r3l1 Korn Herr
+#facs_68_r3l2 Thüren 18.
+#facs_68_r3l3 Mittwochen den
+#facs_68_r3l4 und abrech
+#facs_68_r3l5 Minuß
+#facs_68_r3l6 Donstag den
+#facs_68_r3l7 Ny däub.
+#facs_68_r3l8 Milden
+#facs_68_r3l9 Freytag den
+#facs_68_r3l10 l'a pris d'autre nomme d'Ondine
+#facs_68_r3l11 Oron
+#facs_68_r3l12 Samstag den
+#facs_68_r3l13 Krimischerg.
+#facs_68_r3l14 und finischen Haus Montag den
+#facs_68_r3l15 Prutigen
+#facs_68_r3l16 Miltwochen den
+#facs_68_r3l17 Untersten
+#facs_68_r3l18 Boltstalt
+#facs_68_r3l19 Donstag den
+#facs_68_r3l20 Arburg
+#facs_68_r3l21 Jfferthen Freytag den
+#facs_68_r3l22 Neuwenstalt Samstag den
+#facs_68_r3l23 Stifft. Montag.
+#facs_68_r3l24 Signaus
+#facs_68_r3l25 Miltwochen den
+#facs_68_r3l26 Laupen
+#facs_68_r3l27 thun. Dostag den
+#facs_68_r3l28 Morser. Preytag den
+#facs_68_r3l29 Lausane. Samstag den
+#facs_68_r4l1 131
+#facs_68_r4l2 Februariuo
+#facs_68_r4l3 9
+#facs_68_r4l4 10
+#facs_68_r4l5 11.
+#facs_68_r4l6 12
+#facs_68_r4l7 14
+#facs_68_r4l8 16
+#facs_68_r4l9 17
+#facs_68_r4l10 18
+#facs_68_r4l11 19
+#facs_68_r4l12 21
+#facs_68_r4l13 23.
+#facs_68_r4l14 24
+#facs_68_r4l15 25
+#facs_68_r4l16 26
+#facs_68_r5l1 et
+#facs_68_r5l2 gegenwärtigen Rechtshofen ge¬
+#facs_68_r5l3 2t
+#facs_68_r5l4 9
+#facs_68_r5l5 3
+#facs_69_r2l1 1746.
+#facs_69_r2l2 Februarius
+#facs_69_r2l3 Brandiß
+#facs_69_r2l4 28
+#facs_69_r2l5 Zwey simmen Montags den
+#facs_69_r2l6 Martius
+#facs_69_r2l7 Zurqdorff
+#facs_69_r2l8 2.
+#facs_69_r2l9 Miltwochen den
+#facs_69_r2l10 St. Johansen
+#facs_69_r2l11 Arhangen
+#facs_69_r2l12 3
+#facs_69_r2l13 Donstag den
+#facs_69_r2l14 Interlaten
+#facs_69_r2l15 Aubone 4n.
+#facs_69_r2l16 4.
+#facs_69_r2l17 und Abrech, Freytags den
+#facs_69_r2l18 5.
+#facs_69_r2l19 vivis.
+#facs_69_r2l20 Samstag den
+#facs_69_r2l21 Thorberg 1.
+#facs_69_r2l22 und abrech¬
+#facs_69_r2l23 9
+#facs_69_r2l24 Insul. Miltwochen den
+#facs_69_r2l25 Ripp
+#facs_69_r2l26 10.
+#facs_69_r2l27 Donstag den
+#facs_69_r2l28 Sumiswald
+#facs_69_r2l29 1 et 1
+#facs_69_r2l30 M. Meinschenk. Freytag den
+#facs_69_r2l31 12t.
+#facs_69_r2l32 Romainmotier Samstag den
+#facs_69_r2l33 Bauwherr von
+#facs_69_r2l34 churgeren Montags den - 1 4
+#facs_69_r3l1 133
+#facs_69_r3l2 1746
+#facs_69_r3l3 Martius
+#facs_69_r3l4 saanen
+#facs_69_r3l5 Fraubrunnen 1. Miltwochen den
+#facs_69_r3l6 16.
+#facs_69_r3l7 und Abrechnung,
+#facs_69_r3l8 Schibersteil
+#facs_69_r3l9 17
+#facs_69_r3l10 Donstag den
+#facs_69_r3l11 3
+#facs_69_r3l12 hlen
+#facs_69_r3l13 18
+#facs_69_r3l14 Bonmont Freytag den
+#facs_69_r3l15 19.
+#facs_69_r3l16 Neubd. Sonstag den
+#facs_69_r3l17 Castelei
+#facs_69_r3l18 21
+#facs_69_r3l19 Schenkenberg Montagd den -
+#facs_69_r3l20 Zofingen 1er
+#facs_69_r3l21 und abrech¬
+#facs_69_r3l22 Miltwochen den 23
+#facs_69_r3l23 Lenzburg)
+#facs_69_r3l24 Köngsfelden. Donstag den - 24.
+#facs_69_r3l25 Brooß,
+#facs_69_r3l26 Montag den 20 - 28.
+#facs_69_r3l27 Pithal
+#facs_69_r3l28 Mangen
+#facs_69_r3l29 Wie zu Expedieren Vide Mandaten
+#facs_69_r3l30 buch Numero 13 Pagina 137
+#facs_69_r4l1 s
+#facs_69_r5l1 get
+#facs_69_r5l2 gegen
+#facs_69_r5l3 ist
+#facs_69_r5l4 9
+#facs_70_r1l1 134
+#facs_70_r1l2 Collat
+#facs_70_r3l1 Ain
+#facs_70_r3l2 I Serthen, Rrugg, wird, Lausane¬
+#facs_70_r3l3 Ahlen, Milden, Schenkenberg Morsu
+#facs_70_r3l4 Romainmotier
+#facs_70_r3l5 Wegen Bezeüchung der Invalides
+#facs_70_r3l6 Pensionen in Sarimischen Diensten
+#facs_70_r3l7 Schultheis und Raht
+#facs_70_r3l8 Weilen nunmehro die Zeit vorhen,
+#facs_70_r3l9 Den, daß nach Inhalt der in Ao 1738
+#facs_70_r3l10 mit Ihro Königl. Mayl. in Sacdinien
+#facs_70_r3l11 errichteten Capitulation die jährl.
+#facs_70_r3l12 Invalides pensionen von fünfzig
+#facs_70_r3l13 Hern Pfunden per Mann, unter
+#facs_70_r3l14 nachstehenden bedingnußen
+#facs_70_r3l15 bezogen werden sollen, nämlichen
+#facs_70_r3l16 Soll jedem Soldaten und Invalides,
+#facs_70_r3l17 so hier zu End mit nahmen und zu¬
+#facs_70_r3l18 nahmen, heimath, Amt, und N¬
+#facs_70_r3l19 bezeichnet, ein mit obigen Requisitio,
+#facs_70_r6l1 135
+#facs_70_r6l2 3
+#facs_70_r6l3 Versehenes Certificat de vie, unter der
+#facs_70_r6l4 Ober Amtleüthen Insigel, und der
+#facs_70_r6l5 Landschreiberen Signatur ausgefer¬
+#facs_70_r6l6 tiget werden.
+#facs_70_r6l7 von jedem dieser Invalides eine quitantische
+#facs_70_r6l8 deß zu empfahenden nach mit komen¬
+#facs_70_r6l9 dem Formular durch die Landschreiberey
+#facs_70_r6l10 ausgefertiget und von dem Invalide
+#facs_70_r6l11 ie,
+#facs_70_r6l12 selbsten unterschriben, beygefügt
+#facs_70_r6l13 gat
+#facs_70_r6l14 von denen etwan abgestorbenen
+#facs_70_r6l15 rgrs
+#facs_70_r6l16 Invalides die behörigen Todten scheinen
+#facs_70_r6l17 Ist
+#facs_70_r6l18 mit vermeldung des N 2/3 so Ihme in
+#facs_70_r6l19 hier gegeben worden, tagd des hinscheids
+#facs_70_r6l20 daharige quittantz aber nach dem pro-
+#facs_70_r6l21 rata von den Erben verfertiget, und
+#facs_70_r6l22 nach beschehener gebührenden legaliso¬
+#facs_70_r6l23 tion Unserer Amtleuthen solchegleich
+#facs_70_r6l24 den Acte de Vie und quitantzen unserem
+#facs_70_r6l25 nier
+#facs_70_r6l26 he
+#facs_70_r6l27 bestelten Secretario durch Unsere
+#facs_70_r6l28 Ober Amtleut zu fernerer Verordnung
+#facs_70_r7l1 s
+#facs_71_r2l1 nerth vier zehen Tagen Zeit ohne sehle
+#facs_71_r2l2 eingesandt werden, zu mahlen derselben
+#facs_71_r2l3 von Ant bestelt worden, auff ob ver¬
+#facs_71_r2l4 nante Leis, die Bezahlung der
+#facs_71_r2l5 Invalides pensionen zu erheben, und
+#facs_71_r2l6 nachwerts unseren Amtleüthen
+#facs_71_r2l7 zu gebührender austheilung zu
+#facs_71_r2l8 übermachen welches aber erst jesweilen
+#facs_71_r2l9 ne Hornung geschehen kann, gestalten
+#facs_71_r2l10 die das arige Rechnung milten
+#facs_71_r2l11 Jans in Turin liquidiert werden,
+#facs_71_r2l12 wird.
+#facs_71_r2l13 Endlichen dan sollen alle obige Certi¬
+#facs_71_r2l14 ficat, und verfertigende quitantzen
+#facs_71_r2l15 ohne einliches von die seren Leüthen bezahlender
+#facs_71_r2l16 Emolument ausgefertiget werden
+#facs_71_r2l17 Ald langet Unser befelch an Dich hienach
+#facs_71_r2l18 stehende in deinem Amt sich befindenden
+#facs_71_r2l19 Invalides, vor dich zu bescheiden, und
+#facs_71_r2l20 nach ob stehender Wegweisung die benöhtigten
+#facs_71_r2l21 acte de vie, todten Schrien, und quitantzen
+#facs_71_r2l22 terferggen zu lasen, und bedeüter maßen ein
+#facs_71_r2l23 Zusenden, Datum den 13 Dec. 1745

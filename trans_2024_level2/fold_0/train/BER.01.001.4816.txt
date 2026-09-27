@@ -1,0 +1,97 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 89/90
+# High similarity (>=80%): 88
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4816
+#facs_224_r5l13 Interims, Terbott
+#facs_224_r5l14 der Pferdt Ausfuhr, so lange gegenwärtige
+#facs_224_r5l15 Militar Anstalten dauern
+#facs_45_r3l3 An
+#facs_224_r5l17 Alle deutsch und Welsche Herren Amtleute
+#facs_204_r3l12 IV. Städte, Freyweibel und Amann
+#facs_53_r3l2 Schultheiß und Rath der Stadt Bern
+#facs_224_r5l20 Bey den Gegenwärtigen sorg sammen Zeiten, und damit
+#facs_224_r5l21 zu Verrichtung der nötigen militär Fuhrungen
+#facs_224_r5l22 immer die erforderlichen Pferdte vorhandenseyen,
+#facs_224_r5l23 sehen Wir Uns genöthiget einstweilen die Ausführ
+#facs_224_r5l24 aller Pferdte ohne ausnahm aufs schärfste wiederum
+#facs_224_r5l25 zu verbieten, bey Straf der confiscation der
+#facs_184_r2l12 prochain
+#facs_74_r1l1 138
+#facs_83_r2l1 Collats
+#facs_225_r3l1 Pferden, oder der Werths derselben Wann
+#facs_225_r3l2 sie der Confiscation entgiengen.
+#facs_225_r3l3 Es sollen daher einstweilen und so lang die
+#facs_226_r3l4 gegenwärtigen außerordentlichen Militär
+#facs_225_r3l5 Anstalten fort dauren werden, die Verord¬
+#facs_226_r3l6 nung vom 16. October 1795, und die in der
+#facs_225_r3l7 Publikation vom 12ten September lezthin wieder
+#facs_226_r3l8 holte Gestattung der Ausfuhr von diesjähriger
+#facs_225_r3l9 Füllen, und Pferdten über 8. Jahr suspendirt,
+#facs_225_r3l10 und hiemit für einmal auch dieser Gattung
+#facs_226_r3l11 auszuführen verbotten seyn.
+#facs_291_r2l11 Desen ihr berichtet werdet, mit
+#facs_225_r3l13 Verbott behöriger maßen bekannt machen.
+#facs_225_r3l14 zulaßen, und zu wachen daß dem selben nach
+#facs_226_r3l15 gelebt werde. Datum den 10. Octob. 1796.)
+#facs_225_r3l16 Verminderung
+#facs_225_r3l17 der Dorf Wachen Welschen Landes
+#facs_226_r3l18 An alle Welsche Herren Amt leute und Aelen
+#facs_239_r3l13 Schulthei und Rath der Stadt Bern
+#facs_225_r3l20 da laut der Uns allseitig eingekommenen
+#facs_225_r3l21 Berichte, die Anzahl der in der Waadt befind¬
+#facs_225_r3l22 lich gewesenen Strolchen und verdächtigen
+#facs_225_r3l23 Leute sich nun schon soweit vermindert hat,
+#facs_225_r3l24 daß bey denen dawieder eingeführt en Policey
+#facs_225_r3l25 Anstalten
+#facs_100_r6l1 189
+#facs_225_r4l2 Anstalten, einige Erleichterung statt finden kann; so laßen
+#facs_225_r4l3 Wir uns nun mit allem Vergnügen eineselche Erleich¬
+#facs_225_r4l4 terung Unserer Lieben und Getreuen Angehörigen
+#facs_225_r4l5 gefallen, und wollen mithin Euch, in einiger Abänderung
+#facs_226_r4l6 Unsers Befehls vom 17ten Hornung lezthin überlaßen
+#facs_226_r4l7 haben, die durch den selben in Eüerm Amt ange¬
+#facs_225_r4l8 ordneten Polizey Anstalten, nach der Lage und Be¬
+#facs_226_r4l9 chaffenheit deßelben, jedoch mit aller Vorsicht und
+#facs_225_r4l10 Klugheit dergestalt zu mildern, daß dem unge¬
+#facs_225_r4l11 achtet für die öffentliche Sicherheit keine Gefahr
+#facs_225_r4l12 zu besorgen stehe; da wir Euch dann zugleich be¬
+#facs_225_r4l13 gwältigen, die eingeführten Dorfwachten, an
+#facs_225_r4l14 Orten wo keine Strolchen sich aufhalten oder durch
+#facs_225_r4l15 ziehen, gänzlich auf zuheben, und solche in denen
+#facs_225_r4l16 solchem Gesindel ausgeseztern Ortschaften, nach
+#facs_225_r4l17 Gutfinden zu verkleinern.
+#facs_225_r4l18 Sollten aber die Umstände die gänzliche
+#facs_225_r4l19 Beybehaltung oder Herstellung der am 17ten
+#facs_225_r4l20 Hormung anbefohlenen Dorfwachten erfordern,
+#facs_226_r4l21 so werdet Ihr auch dazu begwältiget und Euch an
+#facs_225_r4l22 gelegen seyn laßen das angemessene zur
+#facs_226_r4l23 Sicherheit des Landes und Eüres Amtes zu veran¬
+#facs_225_r4l24 Wie in allem zu thun, Wir aus
+#facs_281_r3l1 sta
+#facs_225_r4l26 zu Eurer Klugheit und Eifer bestens ver¬
+#facs_225_r4l27 sehen, so dann auch von Euch erwarten sind,
+#facs_225_r4l28 daß Ihr Aus mit nächstem ein berichten
+#facs_226_r4l29 werdet
+#facs_74_r1l1 138
+#facs_217_r2l1 Collets
+#facs_1_r2l2 1.
+#facs_225_r3l1 Pferden, oder der Werths derselben Wann
+#facs_226_r3l2 die der Confiscation entgiengen,
+#facs_225_r3l3 Es sollen daher einstweilen und so lang die
+#facs_226_r3l4 gegenwärtigen außerordentlichen Militär
+#facs_225_r3l5 Anstalten fort dauren werden, die Verord¬
+#facs_226_r3l6 nung vom 16. October 1795, und die in der
+#facs_225_r3l7 Publikation vom 12ten September lezthin wieder
+#facs_226_r3l8 holte Gestattung der Ausfuhr von diesjähriger
+#facs_225_r3l9 Füllen, und Pferdten über 8. Jahr suspendirt,
+#facs_225_r3l10 und hiemit für einmal auch dieser Gattung
+#facs_226_r3l11 auszuführen verbotten seyn.
+#facs_57_r2l15 Deßen Ihr berichtet werdet um solches
+#facs_225_r3l13 Verbott behöriger maßen bekannt machen.
+#facs_225_r3l14 zulaßen, und zu wachen daß dem selben nach
+#facs_226_r3l15 gelebt werde. Datum den 10. Octob. 1796.)
+#facs_98_r5l28 en

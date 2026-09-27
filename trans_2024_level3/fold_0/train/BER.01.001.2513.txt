@@ -1,0 +1,853 @@
+Law nr: BER.01.001.2513
+Name: Bättler-Ordnung auf die Stadt und Landschaft Bern gerichtet. Erneüert im 1690sten Jahr.
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 841/841
+# High similarity (>=50%): 829
+# Low similarity (<50%): 12
+# Not found: 0
+#
+#facs_549_r4l1 1041.
+#facs_549_r4l2 Bättler Ordnung
+#facs_549_r4l3 auf die
+#facs_549_r4l4 Stadt und Landschaft Bern
+#facs_549_r4l5 gerichtet
+#facs_549_r4l6 Erneuert im 1690sten Jahr.
+#facs_549_r4l7 Jac. Cap. 1. verst. 27
+#facs_549_r4l8 Wann jemand dieser Welt Güter hat
+#facs_549_r4l9 und siehet seinen Kinden darben
+#facs_549_r4l10 und schleußt sein Herz vorhin zu, bin
+#facs_549_r4l11 bleibet die Liebe Gottes bey ihme
+#facs_549_r4l12 Matth. Cap. 10. Verst. 42
+#facs_549_r4l13 Wer dieser geringen einen mir
+#facs_549_r4l14 mit einem Recher valten Waßers
+#facs_549_r4l15 tranket, in einer Jungers Namen,
+#facs_549_r4l16 wärlich ich tage euch, es wird ihme
+#facs_549_r4l17 nicht unbelohnet bleiben.
+#facs_549_r4l18 Proverb. Cap. 19. verst. 19
+#facs_549_r4l19 Wer sich des Armen erbarmet,
+#facs_549_r4l20 der leyhets dem Herrn, der wird
+#facs_549_r4l21 ihme wiederum guts vergelten.
+#facs_550_r2l1 Wir Schultheiß, Räthund Bürger
+#facs_550_r2l2 der Statt Bern, erbieten allen Unstern
+#facs_550_r2l3 Amtleuten und Underthanen in allen
+#facs_550_r2l4 Stätten, Fleben, Dörfferen und Höfen
+#facs_550_r2l5 Unsern gnädigen Gruß, und darbey
+#facs_550_r2l6 zu vernemmen, daß Wir die Stäht, den
+#facs_550_r2l7 20. Januarii 1676. eine Ordnung wider
+#facs_550_r2l8 len offenen Gasen-Rättel in Druk ausge¬
+#facs_550_r2l9 hen, und hernach den 14ten Octobris 1679. und
+#facs_550_r2l10 den 25ten Junii 1681. unterschiedenliche
+#facs_550_r2l11 Erläuterungen darüber ausschrei¬
+#facs_550_r2l12 ben und von Cantzeln verlesten
+#facs_550_r2l13 laßen, den gäntlichen Hoffnung
+#facs_550_r2l14 es werde deren nachgelebt, und
+#facs_550_r2l15 darob steif und vest gehalten werden
+#facs_550_r2l16 müßen aber jezum mit Beclauren
+#facs_550_r2l17 sehen und erfahren, daß selbige
+#facs_550_r2l18 aus der Ucht gelaßen, und Unse¬
+#facs_550_r2l19 re Land wiederum mit einhei¬
+#facs_550_r2l20 mischen und fremden Sättlern
+#facs_550_r2l21 solchergestallten erfüllt, daß dannen
+#facs_550_r2l22 her Unsere Spital und Klöster
+#facs_550_r2l23 erst höpft, und der Landmann gleich
+#facs_550_r2l24 sam zu Boden gerichtet und ein
+#facs_550_r2l25 Welchem Ubel
+#facs_550_r2l26 niert werden.
+#facs_550_r2l27 Wir nicht länger also zustehen
+#facs_550_r2l28 kommen
+#facs_550_r4l1 1043
+#facs_550_r4l2 können, sondern demselben
+#facs_550_r4l3 bin hiemit beschicht, kräfftiglich
+#facs_550_r4l4 Teuren wollen, und zu dem End aus¬
+#facs_550_r4l5 gezogene Unsere Ordnung hie¬
+#facs_550_r4l6 derum erfrischet und erläutert,
+#facs_550_r4l7 bin hernach folget.
+#facs_550_r4l8 Wegen der Armen im Land
+#facs_550_r4l9 daß eine jede Kilchhöre und Gemeind
+#facs_550_r4l10 ihre Aemenselbs erhalten solle.
+#facs_550_r4l11 Namlichen und des ersten, damit
+#facs_550_r4l12 nun das so überlegene und unan¬
+#facs_550_r4l13 ständige Heuschen und Battlen von
+#facs_550_r4l14 Haus zu Haus, wie nicht weniger
+#facs_550_r4l15 auch das Landstreichen des einhei¬
+#facs_550_r4l16 mischen und fremden muthwilli¬
+#facs_550_r4l17 gen starken Settelgestinds, funo¬
+#facs_550_r4l18 ihm bücklich abgestellt, auch zugleich
+#facs_550_r4l19 mit dem Almosten eine beßene
+#facs_550_r4l20 und ersprießlichere Ordnung
+#facs_550_r4l21 geschaffet und erhalten beyden
+#facs_550_r4l22 könne; Als ist Unser Will und
+#facs_550_r4l23 Befehl, daß eine jede Bemeind, es
+#facs_550_r4l24 sey in Stäcken, aller auf dem Land
+#facs_550_r4l25 ihre Allmostens, beedigen Armen
+#facs_550_r4l26 und
+#facs_551_r3l1 und Nothdürftigen selbst erhalten,
+#facs_551_r3l2 und solcheemaßen verstorgen.
+#facs_551_r3l3 solle, daß dieselben weder alte
+#facs_551_r3l4 noch Junge nicht Urstach haben
+#facs_551_r3l5 oden gezbungen werden, in der
+#facs_551_r3l6 Stadt oder im Dorf herum ihe All¬
+#facs_551_r3l7 mosten zu suchen und zu lättlen,
+#facs_551_r3l8 7
+#facs_551_r3l9 als eine Sach, welche der Ordnung mit
+#facs_551_r3l10 tem Befehl Gottes zu bielen, so daheiten
+#facs_551_r3l11 verbietet, daß kein Sättler unter sei¬
+#facs_551_r3l12 nem Volbstolle gestattet werden, ob
+#facs_551_r3l13 bahl zu selbigen, auch zu allen und je¬
+#facs_551_r3l14 den Zeiten, viel Arme und Nothleiden
+#facs_551_r3l15 de gefunden worden, und sonderlich
+#facs_551_r3l16 bey dießen schweren und schwierigen
+#facs_551_r3l17 Steingslauffen, deren zu mehr und mehr
+#facs_551_r3l18 sich erzeigen werden, die da mannig,
+#facs_551_r3l19 lichem genugsame Verstachen an die
+#facs_551_r3l20 Hand geben sollen, mit mehrerem
+#facs_551_r3l21 Eifer sein Allmosen zu beobachten
+#facs_551_r3l22 daß es nicht den starken müßig gehenden
+#facs_551_r3l23 sondern einzig und allein dem Fürft
+#facs_551_r3l24 gen und würdigen Armen zukommen
+#facs_551_r3l25 und mitgetheilt werden möge. Wie
+#facs_551_r3l26 dann in dem Wort Armen die Gesun¬
+#facs_551_r3l27 den
+#facs_551_r5l1 1045
+#facs_551_r5l2 len, Erwachsenen und starken, auch
+#facs_551_r5l3 sie, so etwas Mittel, und darneben
+#facs_551_r5l4 arbeiten mögen, gar nicht gemeint, son¬
+#facs_551_r5l5 dern allein die Alten, lahmen, arme, kranke
+#facs_551_r5l6 und presthafte Menschen, die gar nichts
+#facs_551_r5l7 mehr thun, und mit ihren Handarbeit sich
+#facs_551_r5l8 nicht mehr ernahren können, auch sonst
+#facs_551_r5l9 unerzogene Vatten- und Mutter, loste arme
+#facs_551_r5l10 Waißlein, zu solchem Allmosten zugelaßen,
+#facs_551_r5l11 und verstanden seyn sollend.
+#facs_551_r5l12 Vie in Verleichnuß und Erkannt
+#facs_551_r5l13 nuß der Armen die Beweinden sich zu
+#facs_551_r5l14 verhalten haben, und von den Mittlen
+#facs_551_r5l15 ihnen Unterhaltung
+#facs_551_r5l16 Welches dann durch Mittel dieser Unster¬
+#facs_551_r5l17 Ordnung und nachgeschriebener Weg
+#facs_551_r5l18 beisung, sehr wohl geschehen kann, beim
+#facs_551_r5l19 nemlich ein jeder, in getreuer Betrachtung
+#facs_551_r5l20 des Allmostens so er bißhero in den Confuz
+#facs_551_r5l21 sion und Unordnung, dem Würdigen
+#facs_551_r5l22 und Unbürdigen, Staeben und Schwachen,
+#facs_551_r5l23 gleichsam ohne Unterscheid durch das ganze
+#facs_551_r5l24 Jahr ausgetheilt, und wie hochdaselbige,
+#facs_551_r5l25 es sey in Gelt, Gewächs, oder anderm
+#facs_551_r5l26 sich beloffen haben möchte, daßelbige
+#facs_551_r5l27 Fürohin für ein Jahr lang zusammen
+#facs_551_r5l28 legen
+#facs_552_r1l1 1046
+#facs_552_r1l2 s
+#facs_552_r2l1 legen, und es durch einen getreuen
+#facs_552_r2l2 ordentlicher Aussenden, den auf¬
+#facs_552_r2l3 gesteheindenen würdigen Armen, als
+#facs_552_r2l4 ein gerechtes, Gott wohlgefälliges Ab-
+#facs_552_r2l5 mosten, wird ordnen uns zukommen
+#facs_552_r2l6 laßen, die dem Unser Will und
+#facs_552_r2l7 Meynung dahin abgehet, das alle Ge
+#facs_552_r2l8 meinden in jeden Kilchhöre durch
+#facs_552_r2l9 einen jederbeiligen fleissigen Umgang
+#facs_552_r2l10 uns Erforschung ihre Allmoßens bürdig
+#facs_552_r2l11 digen und nothäerftigen Armen, mit
+#facs_552_r2l12 erforderlichem Unterscheid ihres Alters,
+#facs_552_r2l13 Unvermöglichkeit und Armuth, mit Na¬
+#facs_552_r2l14 men und Zimmer in einen Stadel ver¬
+#facs_552_r2l15 zeichnen, und dann von Person zu Person
+#facs_552_r2l16 beschreiben laßen sollen, was uns bei
+#facs_552_r2l17 viel jedem zu seiner dürftigen Unterhal¬
+#facs_552_r2l18 tung an Nahrung und Kleidung vonnöthen
+#facs_552_r2l19 seye, und so hoch demnach dieser Rödel
+#facs_552_r2l20 in gemein sich belauft, selbiges auf
+#facs_552_r2l21 die Habhaften eines jedeßen Ver¬
+#facs_552_r2l22 mögen und der Billigkeit nach, abgetheilt
+#facs_552_r2l23 und für ein Jahr lang zustammengelegt,
+#facs_552_r2l24 werden solle, welcher Zustammenschuß dann
+#facs_552_r2l25 geschehen mag, in Beld, Getreid, Molchen
+#facs_552_r2l26 -
+#facs_552_r4l1 1047.
+#facs_552_r4l2 und dergleichen Lebensmittlen, nach
+#facs_552_r4l3 jeden Orts und Landt Kommlichkeit und
+#facs_552_r4l4 Beschaffenheit, und sollen bis dahin solche
+#facs_552_r4l5 Sachen aus einiger Kilchhorin nicht veraus¬
+#facs_552_r4l6 fert werden. Der Meynung auch, wobey
+#facs_552_r4l7 Kilchhorinen oder Gemeinden etwas vor¬
+#facs_552_r4l8 raths an gemeinem, nämlich Klichen-Spend¬
+#facs_552_r4l9 oder Armen = Gut vorhanden, daß selbiges
+#facs_552_r4l10 zu Leichterung der Anlagen wohl möge
+#facs_552_r4l11 zu solchem Allmosten angebendt werden,
+#facs_552_r4l12 ihn allein was das Kilchgut betrifft, anderst
+#facs_552_r4l13 nicht dann so viel es ohne Angriff des Haupt
+#facs_552_r4l14 Zuts noch Schlächung deßen, so bis dato daraus
+#facs_552_r4l15 beelegt und erhalten worden, wohl erlei¬
+#facs_552_r4l16 den mag.
+#facs_552_r4l17 Von Bestellung der Allmosneren
+#facs_552_r4l18 und Austheilung des Allmosens
+#facs_552_r4l19 uben welchen Zustammenschutz und gestif¬
+#facs_552_r4l20 tetes Allmosten dann, einer jeden Ge¬
+#facs_552_r4l21 mend, hievor gedachter maßen, ob- und
+#facs_552_r4l22 angelegen seyn wird, von Zeit zu Zeit
+#facs_552_r4l23 ehrliche und vertrauliche Leut zu ordnen
+#facs_552_r4l24 und zu sezen, welche die Zustammenlag
+#facs_552_r4l25 empfahren, und dann solch Allmosten
+#facs_552_r4l26 bochentlich oder aufs längst monatlich
+#facs_552_r4l27 den Armen, was jedem laut Rodels von
+#facs_552_r4l28 verdnet
+#facs_553_r3l1 ordnet und bestimmt wird, fürnemlich an
+#facs_553_r3l2 spredigs-Tagen ohnpartheyisch und ohne
+#facs_553_r3l3 Ansehen der Person oder Verwandtschaft
+#facs_553_r3l4 auszutheilen, darbey aber auch auf die
+#facs_553_r3l5 Leibs vermöglichen Achtung zu geben bestellt
+#facs_553_r3l6 seyn sollen, daß dieselben /: sonderlich
+#facs_553_r3l7 welche von dem Hans Gottes nicht zu beit¬
+#facs_553_r3l8 entlegen) bey Anhörung der Predigen
+#facs_553_r3l9 wo möglich, sich einfinden, biedrigen Falle
+#facs_553_r3l10 aber, bey muthbilligen Verabstaumung
+#facs_553_r3l11 leßen, dem Ausbleibenden fürstelligen
+#facs_553_r3l12 Tag zur Straf, sein Allmosten umbehal¬
+#facs_553_r3l13 ten werde, damit bey solchen in höchsten
+#facs_553_r3l14 Unbissenheit lebenden armen Leuten
+#facs_553_r3l15 die Gottesfacht und Erkanntniß ihres
+#facs_553_r3l16 Heils, je mehr und mehr eingepflanzet,
+#facs_553_r3l17 und vermehret werden möge.
+#facs_553_r3l18 Die Bemeinden mögen ihre
+#facs_553_r3l19 Armen mit Steuverhalten, oder sie
+#facs_553_r3l20 in die Haufer und auf die
+#facs_553_r3l21 Guter abtheilen
+#facs_553_r3l22 Darbey aber wollen Wie den Unserigen
+#facs_553_r3l23 zu Stadt und Land heimgestellt und zu
+#facs_553_r3l24 gelaßen haben, entweders eine solche
+#facs_553_r3l25 Zustammenlag, wie obgemelt, zu thun, oder
+#facs_553_r3l26 haben
+#facs_553_r5l1 1049
+#facs_553_r5l2 aber, wo es die Möglichkeit zugeben wird
+#facs_553_r5l3 für Armen selbsten in ihre Häuser abzutheilen
+#facs_553_r5l4 und Anzunehmen, um beyläuffig dieselben
+#facs_553_r5l5 in destobeßen zur Gottesforcht, und die Vermög¬
+#facs_553_r5l6 lichen zu ehelichen Arbeit zu halten und
+#facs_553_r5l7 zu gewöhnen, dardurch dann auch der Lands
+#facs_553_r5l8 schädliche und lasterhafte Müßiggang bey
+#facs_553_r5l9 vielen kann ausgeretitet und abgeschaffet,
+#facs_553_r5l10 und das Landskündige, auch im Wort Gottes
+#facs_553_r5l11 selbs sich befindende Sprechwart an den
+#facs_553_r5l12 Ungehorsamen und Wiederstenstigen
+#facs_553_r5l13 erstattet werden kann. Wer nicht
+#facs_553_r5l14 arbeitet, der soll auch nicht eßen
+#facs_553_r5l15 Paßdiete Ordnung den Kilchhörl
+#facs_553_r5l16 rinen nach angesehen.
+#facs_553_r5l17 Hierunter aber ist Unter Will und
+#facs_553_r5l18 Verstand, daß diese Unsere Ordnung,
+#facs_553_r5l19 Erhaltung halb der Einheimischen Armen,
+#facs_553_r5l20 durchaus den Kilchhörenen nach ange¬
+#facs_553_r5l21 sehen seyn und gehen solle, also und zu
+#facs_553_r5l22 dem End, wann in einer Kölchhöre eine oder
+#facs_553_r5l23 mehr Gemeinden gar nicht bey Mittlen
+#facs_553_r5l24 und ihnen unmöglich wäre, ihre Armen
+#facs_553_r5l25 ohne Beyhülf der anderen selbs zu erhalten
+#facs_553_r5l26 daß dann in solchem Fall die anderen Ge¬
+#facs_553_r5l27 menden, welche mehrere Mittel, und gewohn¬
+#facs_553_r5l28 lich
+#facs_554_r3l1 lich wiedere Armen haben, ihren Milch
+#facs_554_r3l2 genoßen und armen Gemeinden, in Er¬
+#facs_554_r3l3 haltung dero Armen, nach Gebühr und
+#facs_554_r3l4 erheisthender Noth zu Hülf vommen
+#facs_554_r3l5 sollen, als Wir dann zu Ihnen den rei¬
+#facs_554_r3l6 eheren Gemeinden, deßen Uns ging
+#facs_554_r3l7 lich verstehen wollen. Wann aber ein
+#facs_554_r3l8 Kirchhörin mit so vielen Armen beschwer¬
+#facs_554_r3l9 und beladen wäre, daß ihre solches ohne
+#facs_554_r3l10 andere Seyhülf unmöglich fallen beide,
+#facs_554_r3l11 soll dieselbe Unsere Allmosten-Commeren
+#facs_554_r3l12 deßen berichten, die dann, die ihnen
+#facs_554_r3l13 unter die Armen zu greiffen, Nach
+#facs_554_r3l14 denkens haben und berathen
+#facs_554_r3l15 seyn werden.
+#facs_554_r3l16 5
+#facs_554_r3l17 Alles Pattlen vor den Haüseren
+#facs_554_r3l18 und auf den Straßen verbotten.
+#facs_554_r3l19 Bey welchen guten und verhoffent¬
+#facs_554_r3l20 lichen liebreichen Anstalt nun, in
+#facs_554_r3l21 deme die Allenfens bürdigen Armen
+#facs_554_r3l22 in jeder Gemeind also nach Nothdurft
+#facs_554_r3l23 verstorget werden, sollen dieselben
+#facs_554_r3l24 sich mit der verordneten Erhaltung
+#facs_554_r3l25 vergnügen, selbige mit demütigem Räule
+#facs_554_r3l26 empfahen, die Leibs vermöglichen sich
+#facs_554_r5l1 1051.
+#facs_554_r5l2 darneben ehelicher Arbeit befleißen
+#facs_554_r5l3 und sich alles ferneren Geläufs und
+#facs_554_r5l4 Bättlens von den Hauseren, bey den
+#facs_554_r5l5 Thürlinen und auf den Straßenmus,
+#facs_554_r5l6 nigen, und gar niemanden weiters
+#facs_554_r5l7 überlegen seyn.
+#facs_554_r5l8 Fremden, auch Landstreichenden
+#facs_554_r5l9 Bättler en Salb
+#facs_554_r5l10 Was dann die äußeren und Landt frem¬
+#facs_554_r5l11 den Tättler anlangen thut, deren von
+#facs_554_r5l12 ses schn oder uns Landeschädlichen
+#facs_554_r5l13 Müßiggangs wegen, je mehr und
+#facs_554_r5l14 mehr sich in Unsere Lande einschleichen,
+#facs_554_r5l15 darunten dann etliche Hütten, und Krä¬
+#facs_554_r5l16 zen, tragende Männer mit Weib und
+#facs_554_r5l17 Kinderen begriffen, welche ihnen den
+#facs_554_r5l18 Müßiggang, das Landstreichen und viel¬
+#facs_554_r5l19 malige diebische Zugreifen, Rauben
+#facs_554_r5l20 und Stehlen viel lieber seyn laßen,
+#facs_554_r5l21 als in ihrem Land und in ihnen Gemeinen
+#facs_554_r5l22 den mit den Ihrigen ehelicher Hand¬
+#facs_554_r5l23 Arbeit und Gebinnung ihres Strals
+#facs_554_r5l24 sich zu befleißigen, derenthalben
+#facs_554_r5l25 haben Wir angesehen und geordnet,
+#facs_554_r5l26 daß
+#facs_555_r3l1 das demselben solches unanständige
+#facs_555_r3l2 Landstreichen und Umherlaufen
+#facs_555_r3l3 in Unsern Landen und Bebieten
+#facs_555_r3l4 wie auch das Ubbettlen und auf drin¬
+#facs_555_r3l5 gende Nachtheebungen bey den Bau¬
+#facs_555_r3l6 ren, von nun an gänzlich verbotten
+#facs_555_r3l7 und abgestrekt seyn, und den
+#facs_555_r3l8 bestellten Aufsehern hiemit ob,
+#facs_555_r3l9 liegen solle, dafern nach Publica¬
+#facs_555_r3l10 tion und Ausgang dis Unsers
+#facs_555_r3l11 Mandats, und vonher gegange¬
+#facs_555_r3l12 nen Verbahrung, der eine oder
+#facs_555_r3l13 andere solcher Landstreicherein und
+#facs_555_r3l14 Kräsen Trägeren, die seyen Ein¬
+#facs_555_r3l15 heimische oder fremde, sich weiter
+#facs_555_r3l16 gelüsten ließe, hin und wieder in
+#facs_555_r3l17 len Torfern bey Tag oder Nacht zu
+#facs_555_r3l18 großer Beschwerd und Überlast der
+#facs_555_r3l19 Unserigen zu haußieren, den oder
+#facs_555_r3l20 dieselben alles Ernsts fort, von Ort zu
+#facs_555_r3l21 Ort bis auf die Gränzen zu führen
+#facs_555_r3l22 und in ihr Heymat zu beisten mit
+#facs_555_r3l23 der Anstalt bey den Bruchen und Päßen
+#facs_555_r3l24 /: dasonderlich die Zollner oder Brük
+#facs_555_r5l1 1053
+#facs_555_r5l2 Knechte es in ihrer Pflicht haben sollen,
+#facs_555_r5l3 daß sie nicht wiederum hineinge,
+#facs_555_r5l4 laßen werden, zu welchem End¬
+#facs_555_r5l5 und mehrmer Nachricht, Unsere
+#facs_555_r5l6 Amtlent an den Gränzen, den ausse¬
+#facs_555_r5l7 ren vernachbarten Amtleuten
+#facs_555_r5l8 so oft es die Noth-erhenschet, zuschrei¬
+#facs_555_r5l9 ben sollen, ihre Armen und der,
+#facs_555_r5l10 gleichen Landlauffen bey sich
+#facs_555_r5l11 zu behalten; biedrigen falls
+#facs_555_r5l12 werde gegen den Ueberlaufenen,
+#facs_555_r5l13 als verbrechenen Unsers Mann,
+#facs_555_r5l14 dats, die strengeren Mittel und
+#facs_555_r5l15 Abstrafung ohne weitere Gnä¬
+#facs_555_r5l16 angebundt werden.
+#facs_555_r5l17 Einheimische Arme, so im Landfind
+#facs_555_r5l18 Betreffend die einheimischen Armen¬
+#facs_555_r5l19 so Unsere Unterthanen und im Lau
+#facs_555_r5l20 sind, sollen dieselben alsobald, nach
+#facs_555_r5l21 Publikation dieser Unserer Ordnung,
+#facs_555_r5l22 sich in ihre Gemeinden begeben
+#facs_555_r5l23 und dieso verehelichet sind, sich
+#facs_555_r5l24 daselbsten haushäblich sehen, doch
+#facs_555_r5l25 soll
+#facs_556_r3l1 soll ihnen, sowohl als denen ledigen
+#facs_556_r3l2 zugelaßen seyn, zu beßerem ih¬
+#facs_556_r3l3 rem Nuzen und Unterhalt, aus
+#facs_556_r3l4 andersloo, nach Relieben und
+#facs_556_r3l5 Gelegenheit, eheliche Dienst zu
+#facs_556_r3l6 ruher und anfenehmen, wel¬
+#facs_556_r3l7 chemnach eine jede Gemein
+#facs_556_r3l8 ihre Armen also wiederum
+#facs_556_r3l9 aufnehmen soll und wird, und
+#facs_556_r3l10 klore nicht allein die Dorfsre¬
+#facs_556_r3l11 noßen, sondern auch die, so nur
+#facs_556_r3l12 Hinderfäßen daselbsten sind
+#facs_556_r3l13 welche sie die Gemeind mit den
+#facs_556_r3l14 Ihrigen ferners dulden sollen,
+#facs_556_r3l15 es wäre denn Sach, daß dieselben
+#facs_556_r3l16 ihrer bekannten Heimaten
+#facs_556_r3l17 halben glaubbüedige Schein
+#facs_556_r3l18 in Händen hätten, und aber
+#facs_556_r3l19 von ehrlicher Regangenschaft
+#facs_556_r3l20 und empfahener Lehengüteren
+#facs_556_r3l21 begen in andern Gemeinden
+#facs_556_r3l22 ohne dero Beschwerd geduldet
+#facs_556_r5l1 1055
+#facs_556_r5l2 werden, oder aber, daß es solche Per¬
+#facs_556_r5l3 onen seyen, die zwar angenom¬
+#facs_556_r5l4 mene Lands=Kinder sind, aber
+#facs_556_r5l5 keine Heimath Wisen, denen
+#facs_556_r5l6 Wir sonderbare Scheinen, unter
+#facs_556_r5l7 Unserem kleinen Canzley Siegel,
+#facs_556_r5l8 ertheilt, ihre Nahrung und Arbeit
+#facs_556_r5l9 auf dem Land zu suchen, ohne das
+#facs_556_r5l10 selbige einigen Gemeind aufge¬
+#facs_556_r5l11 drungen werden. Im Fall
+#facs_556_r5l12 aber diese Armen, der Ordnung
+#facs_556_r5l13 zu wichen, wiederum auslauffen
+#facs_556_r5l14 und dem Sättel nachziehen werden,
+#facs_556_r5l15 sollen dieselben durch die bestellten
+#facs_556_r5l16 Proffosen in der Gemeind Kosten
+#facs_556_r5l17 wiederum dahin geführt werden.
+#facs_556_r5l18 welchem nach sie, die Gemeinden,
+#facs_556_r5l19 Sorg zu tragen und dieselben inzu¬
+#facs_556_r5l20 halten wißen werden.
+#facs_556_r5l21 Einseimische Arme, so außer
+#facs_556_r5l22 Lands sind
+#facs_556_r5l23 Was denn diejenigen Armen belangen
+#facs_556_r5l24 gend, die auch Unsene Unterthanen
+#facs_556_r5l25 aben
+#facs_557_r3l1 aber dismal nicht im Land sind
+#facs_557_r3l2 sondern sich ausserhalb dem
+#facs_557_r3l3 selben aufhalten, wann sie ihr
+#facs_557_r3l4 Mannrecht nicht hinbeygezogen,
+#facs_557_r3l5 mögen dieselben wohl wiederum
+#facs_557_r3l6 hineingelaßen werden, sollen aber
+#facs_557_r3l7 sich nicht lang unterwegs stammen
+#facs_557_r3l8 sondern sich strales in ihre Gemein¬
+#facs_557_r3l9 den verfügen. Die aber ihn
+#facs_557_r3l10 Mannechst hinbeggezogen, sollen
+#facs_557_r3l11 wiederme an die Ort, da sie sich
+#facs_557_r3l12 niedergelaßen, gelaiesten werden.
+#facs_557_r3l13 es wäre denn Sach, daß sie daselb¬
+#facs_557_r3l14 sten vom Krieg vertrieben worden,
+#facs_557_r3l15 welches jederweilen durch ein
+#facs_557_r3l16 scharfes Examen wohl zu erfangen,
+#facs_557_r3l17 schen seyn wird, in solchem
+#facs_557_r3l18 Fall kann man sie auch wie andere
+#facs_557_r3l19 vertriebene Dulden
+#facs_557_r3l20 Und diebeilen es deren gibt
+#facs_557_r3l21 von Oberländeren, Siebenthalern
+#facs_557_r3l22 und anderen, die unterem Vor¬
+#facs_557_r3l23 band
+#facs_557_r5l1 1057.
+#facs_557_r5l2 band ins Niederland zu reisen, nur
+#facs_557_r5l3 umher schweifen und bättlen, sollen
+#facs_557_r5l4 dieselben nicht durchgelassen
+#facs_557_r5l5 sondern wiederum zurückgebin¬
+#facs_557_r5l6 sen werden, von denen Gemein
+#facs_557_r5l7 den, aus welchen sie gebürtig,
+#facs_557_r5l8 hier um einen glaubwürdigen
+#facs_557_r5l9 Schein zubringen. In welchem
+#facs_557_r5l10 Fall dann man sie hinziehen.
+#facs_557_r5l11 laßen mag
+#facs_557_r5l12 Außere und fremde Arme.
+#facs_557_r5l13 Wann dergleichen Arme ankommen,
+#facs_557_r5l14 die nicht Unser Confession sind, sol¬
+#facs_557_r5l15 len dieselben an die Ort ihrer Re¬
+#facs_557_r5l16 ligion mit einem Almosen gewiesen,
+#facs_557_r5l17 und ihnen angedeutet werden, daß
+#facs_557_r5l18 man sie hier nicht dulden könne,
+#facs_557_r5l19 beilen man mit den Einheimischen
+#facs_557_r5l20 genug beschwert. Geben sich aber
+#facs_557_r5l21 Eenen ausfür Glaubensgenoßen,
+#facs_557_r5l22 und kommen von benachbarten oder
+#facs_557_r5l23 solchen Ortenher, da guter Frieden
+#facs_557_r5l24 ist, von man dieselben auch wiederum
+#facs_558_r3l1 zurük an ihre Orte beisten; die¬
+#facs_558_r3l2 jenigen aber, so der Steligion
+#facs_558_r3l3 wegen verfolget, und aus ihrem
+#facs_558_r3l4 Heimath verjagt worden, sollen
+#facs_558_r3l5 teals für unsere Amtleute, hin¬
+#facs_558_r3l6 ter welchen im angetroffen worden,
+#facs_558_r3l7 geführt werden, die dann selbige
+#facs_558_r3l8 examinieren, und so sie aus ihren
+#facs_558_r3l9 Attestationen oder anderen genug,
+#facs_558_r3l10 samen Umständen sehen, daß ihr
+#facs_558_r3l11 Vorgeben bahrhaft, selbige, neben
+#facs_558_r3l12 einem Zehr Pfenning in Unsere Haupt
+#facs_558_r3l13 stadt für die Exulanten, Commeren
+#facs_558_r3l14 schilen, die dann sie jederbeilen nach
+#facs_558_r3l15 Beschaffenheit ihres Zustandes beden¬
+#facs_558_r3l16 ken, oder aber nach Gestalt der
+#facs_558_r3l17 Sache wieder fortweisten werden.
+#facs_558_r3l18 Im Fall aber ein solchen vertrieben
+#facs_558_r3l19 ner Glaubens Genoß in Unserer Haupt
+#facs_558_r3l20 stadt von ermeldter Unserer Cammer
+#facs_558_r3l21 bereits wäre assistirt und mit einem
+#facs_558_r3l22 Viativo verstehen worden, mit denen
+#facs_558_r3l23 Wortm: Veuä Berne, und assistirt in Herrn
+#facs_558_r3l24 assistirt zu Nydau anstatt sein
+#facs_558_r3l25 = tull
+#facs_558_r5l1 1059.
+#facs_558_r5l2 soll denenselben nicht weiters geben,
+#facs_558_r5l3 andern sie ihres Wegs fortgebieten
+#facs_558_r5l4 werden, denen dann von andern etwan
+#facs_558_r5l5 gelischen Orten gleiche Handreichung
+#facs_558_r5l6 biederfahren wird
+#facs_558_r5l7 Die reisenden Handwerts-Gesel¬
+#facs_558_r5l8 les betreffend.
+#facs_558_r5l9 Der reisenden Handwertes Gestellen
+#facs_558_r5l10 halber dann, wollen Wir auch ange¬
+#facs_558_r5l11 sehen haben, und ist Unser ernstlichen
+#facs_558_r5l12 Will, daß dieselben fürohir bey dem
+#facs_558_r5l13 Eintritt in Unser Land ein Attestation
+#facs_558_r5l14 nehmen, welchen Tags nie angelanget,
+#facs_558_r5l15 demnach sich der Hauptstraßen und des
+#facs_558_r5l16 geraden Wegs befleißen, und nur
+#facs_558_r5l17 allein in den Städten, allbo sie nach
+#facs_558_r5l18 Arbeit zu fragen haben, /: darzu auch
+#facs_558_r5l19 Langenthal als ein Mittel Ort zwischen
+#facs_558_r5l20 len Städten gesezet wird, von den
+#facs_558_r5l21 Verordneten des Allmoßens ein Zehe¬
+#facs_558_r5l22 Pfenning zu empfahen haben sollen.
+#facs_558_r5l23 vermittelst desselben, falls sie nicht An¬
+#facs_558_r5l24 beitfinden, fort= und weiters zu ziehen.
+#facs_558_r5l25 Im übrigen dann des bißher gelahnten
+#facs_558_r5l26 ihrem Beruf unanständigen, und
+#facs_558_r5l27 eben.
+#facs_559_r3l1 überlegnen Herschens und Dättlens von
+#facs_559_r3l2 Haus zu Haus in Städten und Dörfern
+#facs_559_r3l3 /: deßen bißhero zu Unserem und der
+#facs_559_r3l4 Unsterigen großem Mißfallen,
+#facs_559_r3l5 mancher sich mehr, als seines Hand¬
+#facs_559_r3l6 berks und Arbeitens zu behelfen, unter
+#facs_559_r3l7 standen) gänzlich zu überheben und
+#facs_559_r3l8 zu enthalten. Im Fall aber wider
+#facs_559_r3l9 verhoffen Unsere Predicanten, stilch¬
+#facs_559_r3l10 meyer und andere Unter-seamtete
+#facs_559_r3l11 ihnen, dieser Unserer Ordnung zubiden,
+#facs_559_r3l12 gleichwohlen auch Zehrpfenning ertheilen.
+#facs_559_r3l13 und folgends selbige in ihre Rechnung
+#facs_559_r3l14 bringen würden, sollen solche ihnen
+#facs_559_r3l15 nicht admittirt noch getgeheisen, son¬
+#facs_559_r3l16 Wienauf
+#facs_559_r3l17 lern ausgetilget werden.
+#facs_559_r3l18 Unsere Amtleut ganz fleißig Achtung
+#facs_559_r3l19 geben sollen.
+#facs_559_r3l20 Von allerhand Steür- und Brunst¬
+#facs_559_r3l21 Briefen.
+#facs_559_r3l22 Es ist auch bekannt, daß beydes unter Ein¬
+#facs_559_r3l23 heimischen und auch fremden, je mehr
+#facs_559_r3l24 und mehr der Mißbrauch eingerissen,
+#facs_559_r3l25 das sie mit allerhand und vielmals mit
+#facs_559_r3l26 betruglichen Steue, und dennstbriefen,
+#facs_559_r3l27 1.= ohne
+#facs_559_r5l1 1061
+#facs_559_r5l2 ohne Unsern Vervilligung und Erlaub¬
+#facs_559_r5l3 niß in unseren Städten und Landen
+#facs_559_r5l4 umher gelauffen, und dardurch
+#facs_559_r5l5 die Unseren mit Sättlen und Steur
+#facs_559_r5l6 forderen nicht wenig beschwert haben,
+#facs_559_r5l7 welches dann nicht mir Unser Reits
+#facs_559_r5l8 sondern auch von andern Eydgenös
+#facs_559_r5l9 sischen Orten mehr, in gestammten Sadi¬
+#facs_559_r5l10 eher Tagleistung zu klag kommen, daß
+#facs_559_r5l11 wegen Wir denselben ergangenen
+#facs_559_r5l12 Eydgenößischen allgemeinen Schluß
+#facs_559_r5l13 gemäß, den ein- und anderen alles
+#facs_559_r5l14 Ernsts wollen abgestrekt und verbotten
+#facs_559_r5l15 haben, mit einigen weiteren Stene
+#facs_559_r5l16 und neuest, Briefen in Unseren
+#facs_559_r5l17 Landen machen zu gehen, noch einige
+#facs_559_r5l18 Steur zu battlen und aufzuheben
+#facs_559_r5l19 sondern wann jemanden, es sey Privates
+#facs_559_r5l20 Personen oder Gemeinden, aus leyden
+#facs_559_r5l21 der und wohlbekannter Noth obgelegen,
+#facs_559_r5l22 meine Steur zu fordern, soll solches anderst
+#facs_559_r5l23 nicht geschehen, als mit Unserm Vorleis¬
+#facs_559_r5l24 sen und Bebilligung, und daß demnach
+#facs_559_r5l25 solche Steur, durch Unseren Amtsmann
+#facs_559_r5l26 deine Wir es jederweilen anbefehlen,
+#facs_559_r5l27 berden.
+#facs_560_r3l1 werden, selbiger Orten selbst aufge¬
+#facs_560_r3l2 nommen, und das also erhebte Geld
+#facs_560_r3l3 demjenigen zugestellt werden solle.
+#facs_560_r3l4 deme sie von Uns erlaubt und bebis
+#facs_560_r3l5 liget worden. Wann aber derglei¬
+#facs_560_r3l6 chen Briefe und Rüchlein verlächtig
+#facs_560_r3l7 fallen, sollen dieselben ihnen aus Händen
+#facs_560_r3l8 genommen, die Trägen verarrestirt, und
+#facs_560_r3l9 Wir dessen berichtet werden
+#facs_560_r3l10 Halsstarrige Bättler.
+#facs_560_r3l11 Damit nun wie obensteht, die Armen
+#facs_560_r3l12 dieser Unserer Ordnung nachleben
+#facs_560_r3l13 die Halsstärrigen von allem beitern Dättler
+#facs_560_r3l14 abgehalten und zu gebührendem Gehorsen
+#facs_560_r3l15 gebracht werden, sollen in jeder Gemeind, nach¬
+#facs_560_r3l16 dem eine groß oder klein, ein oder zween hertzhaften
+#facs_560_r3l17 Männer zu Profosten verordnet, verstoldet.
+#facs_560_r3l18 und in Eydspflicht aufgenommen und befelchent
+#facs_560_r3l19 werden, eine fleißige unverdroßene und
+#facs_560_r3l20 ein abläßige Aufsicht auf die Armen zu haben,
+#facs_560_r3l21 sonderlich aber an den Paßen, Gräntzen,
+#facs_560_r3l22 Benken und Überfahrten, und diejenigen
+#facs_560_r3l23 so diese Unsern Ordnung übertretten
+#facs_560_r3l24 bürden, das erstemal treülich können, die
+#facs_560_r3l25 Einheimischen, daß sie sich in ihre Gemeinden,
+#facs_560_r3l26 die
+#facs_560_r5l1 1063.
+#facs_560_r5l2 die Äußeren aber sich aus dem Land begeben;
+#facs_560_r5l3 werden sie gehorchen mit Heil, wo nicht, sol¬
+#facs_560_r5l4 ten zum andern mal die Proffesten, (da
+#facs_560_r5l5 einer dem andern allbigen solche Leut von
+#facs_560_r5l6 tet zu Ort übergeben kann:/ die Einhei¬
+#facs_560_r5l7 mischen in ihre Gemeinden und die frem¬
+#facs_560_r5l8 den aus Unserm Land führen, und die
+#facs_560_r5l9 selben ernsthaft bedrauen, wo sie sich
+#facs_560_r5l10 wiederum werden betretten laßen, sie
+#facs_560_r5l11 dem zumalen nach verdienen bürden
+#facs_560_r5l12 abgestraft werden. Wann sie aber
+#facs_560_r5l13 hieran sich auch nicht behren bürden, so sollen
+#facs_560_r5l14 sie zum dritten mal in Arrest genommen, und
+#facs_560_r5l15 Wir deßen berichtet werden, demnach zu er
+#facs_560_r5l16 beimmen, mit was für Straf, sie anzusehen sey.
+#facs_560_r5l17 berten
+#facs_560_r5l18 e
+#facs_560_r5l19 Bider die ungehorsamen und Salz,
+#facs_560_r5l20 Marrigen Verbrecher dißobrigkeitlichen
+#facs_560_r5l21 Mandats
+#facs_560_r5l22 Es möchten aber unter solchem Sättele Gestind
+#facs_560_r5l23 auch solche boshafte Leut vernommen und ge¬
+#facs_560_r5l24 funden werden, welche den Landleuten, und
+#facs_560_r5l25 auch den Aufsteheren von dieser Ordnung
+#facs_560_r5l26 beym allerhand böste rachgierige Stük zu
+#facs_560_r5l27 berüben andrauen, oder mit bösten Worten
+#facs_560_r5l28 ausbrechen dürften; derenthalben ist Unster¬
+#facs_560_r5l29 Befehl, daß solche böste Leute ergriffen, und
+#facs_561_r3l1 Unserm Ober Amtsmann selbigen
+#facs_561_r3l2 Dets gebahrstamlich zugeführt, gefangen
+#facs_561_r3l3 lich enthalten, und Wir darüber, ihrer Ver¬
+#facs_561_r3l4 haftung halben, unverweilt berichtet wer¬
+#facs_561_r3l5 den sollen, dieselbigen ihrem Verdienen
+#facs_561_r3l6 nach an Leib und Leben abstrafen zu laßen
+#facs_561_r3l7 Wider die Beschwerd des Allmosen
+#facs_561_r3l8 gebens.
+#facs_561_r3l9 Damit aber die Armen in den Gemeinden
+#facs_561_r3l10 eller Ortendestominder zur Ungeduld bebegt
+#facs_561_r3l11 werden, und sich gehorsamer in dieses Unsere
+#facs_561_r3l12 Ordnung einzuschikenen Ursach haben, als sollen
+#facs_561_r3l13 alle und jede der Unserigen zu Stadt und
+#facs_561_r3l14 Land, welche von Gott dem Herrn mit Vermögen
+#facs_561_r3l15 und guten Mittlen gestegnet sind, sich wohl er¬
+#facs_561_r3l16 inneren und betrachten, daß solches regulierte
+#facs_561_r3l17 Allmoster keineswegs betittelt werden soll;
+#facs_561_r3l18 als aber eine neue oder ungewahmte
+#facs_561_r3l19 Beschwerd und Auflag wäre, sondern daß
+#facs_561_r3l20 dis vielmehr soll seyn eben das Allmessen
+#facs_561_r3l21 so ein jeden vor diesem mitzutheilen
+#facs_561_r3l22 sobahl schuldig alt gebohnt gebeten, und
+#facs_561_r3l23 daß es solle seyn, ein freywilliges und
+#facs_561_r3l24 eingeklungenes Opfer, welches Gott
+#facs_561_r3l25 dem Herrn wohlgefällig, als von wel¬
+#facs_561_r3l26 chem der heilige Prophet Mastes rühmt,
+#facs_561_r3l27 in er
+#facs_561_r5l1 1065
+#facs_561_r5l2 Beschaffe Recht den Wittwen und Waysten
+#facs_561_r5l3 und habe den Armen und Fremdlung
+#facs_561_r5l4 lieb, daß er ihm Nahrung und Kleider
+#facs_561_r5l5 gebe, welches auch uns billig zur Nach¬
+#facs_561_r5l6 folg und Lehr hinterlaßen worden, und
+#facs_561_r5l7 Gott den Herr auch selbst hin und wieder in
+#facs_561_r5l8 einem heiligen Wort so oftmal Uns die Art
+#facs_561_r5l9 men und dürftigen ernstlich anbefiehlt.
+#facs_561_r5l10 daß also diß Allmosen geschehen soll aus
+#facs_561_r5l11 einem guten Gebißen, mit freywilligem
+#facs_561_r5l12 Herzen, so sehr jedem abgelegen ist, den Segen
+#facs_561_r5l13 Gottes über das Seinige zu erlangen und
+#facs_561_r5l14 zu behalten.
+#facs_561_r5l15 Von Erbschaft der armen Abgestorb¬
+#facs_561_r5l16 nen verlaßner Mittlen
+#facs_561_r5l17 Nachdem Wir aber auch unter anderem
+#facs_561_r5l18 wohl erbogen, daß diese Unsere Ord-
+#facs_561_r5l19 mung mehrentheils Orten zu Städten und
+#facs_561_r5l20 Gemeinden bey so eingeführten Selbs,
+#facs_561_r5l21 Erhaltung der Armen, furnemlich
+#facs_561_r5l22 für den Anfang nicht ohne Beschwerd
+#facs_561_r5l23 ankommen wird, und daß auch unter
+#facs_561_r5l24 denselben Armen solche Personen
+#facs_561_r5l25 sich befinden werden, welche zwar noch
+#facs_561_r5l26 etwas Mittel besitzen, doch aber ihr
+#facs_561_r5l27 Leben darmit nicht erhalten mögen,
+#facs_561_r5l28 und
+#facs_562_r3l1 und darneben von den Ihrigen, es seyen
+#facs_562_r3l2 Kinder oder Anverwandte (die Ver¬
+#facs_562_r3l3 mögens halb ihnen wohl zu Hulf
+#facs_562_r3l4 kommen könnten :/ ganz lieblos in
+#facs_562_r3l5 solcher Noth der Armuth und in dem
+#facs_562_r3l6 Bättelsteken laßen; als haben Wir
+#facs_562_r3l7 auch dißfalls es für eine selbs redende
+#facs_562_r3l8 Billigkeit befunden, und ist auch Un¬
+#facs_562_r3l9 ser Will, daß wann dergleichen Per¬
+#facs_562_r3l10 2
+#facs_562_r3l11 sonen in Städten und Gemeinden
+#facs_562_r3l12 über dero Allmosten abstreben, daß
+#facs_562_r3l13 alsdann dero hinterlassene Mittel
+#facs_562_r3l14 nicht den gedachten Kindern noch verband,
+#facs_562_r3l15 ten, sondern den Gemeind, von dero sie
+#facs_562_r3l16 Allmosten genoßen, erblich und eigen¬
+#facs_562_r3l17 thümlich heimfallen solle, es wäre dann
+#facs_562_r3l18 Sach, daß des abgelebten Erben, um
+#facs_562_r3l19 das, was für Allmosten an denselben
+#facs_562_r3l20 gebendt worden, der Gemeind ein
+#facs_562_r3l21 vermögliche Recompenz und Erstazung
+#facs_562_r3l22 der Gebühr nach thun, und schaffen
+#facs_562_r3l23 wollte, alsdann und in Erstattung deßen
+#facs_562_r3l24 sie solchen Erbs wohl genoß werden.
+#facs_562_r3l25 mögen.
+#facs_562_r3l26 11.
+#facs_562_r4l1 1067
+#facs_562_r4l2 Wider den schädlichen Müßig¬
+#facs_562_r4l3 gang und Liederlichkeit.
+#facs_562_r4l4 Und die weilen die Lands-Armuth meh¬
+#facs_562_r4l5 rentheils entstehet aus dem leidigen
+#facs_562_r4l6 Müßiggang, und daherigen lieder
+#facs_562_r4l7 lichem Lebwesen, indeme mancher
+#facs_562_r4l8 in seiner Jugend, oder auch in
+#facs_562_r4l9 lem Alter; wann ihme durch Heurath
+#facs_562_r4l10 Erbfall oder sonsten etwann gute
+#facs_562_r4l11 Mittel in die Hand fallen, sich dem¬
+#facs_562_r4l12 nach aller ehrlichen Arbeit entzieht
+#facs_562_r4l13 und hingegen dem Müßiggang und
+#facs_562_r4l14 liederlichem Leben ergibt, seine Mittel
+#facs_562_r4l15 in den Wirths, und Weinhauferen Übel
+#facs_562_r4l16 verbraucht, und also sich mit Weib und Kin¬
+#facs_562_r4l17 lern in Armuth und an Kattelstab bringt
+#facs_562_r4l18 und dann folgends sämtlich den Gemein¬
+#facs_562_r4l19 len zu höchster Beschwerd auffällt
+#facs_562_r4l20 Andern dann, als Dienst-Knechte und
+#facs_562_r4l21 dergleichen junge Manns-Personen,
+#facs_562_r4l22 mehr aus Appigkeit und Muthwillen
+#facs_562_r4l23 Als aber aus Noth mit armen Weibs,
+#facs_562_r4l24 Perstonen und Armen Lienstmag,
+#facs_562_r4l25 den sich ganz frühzeitig verheirathen,
+#facs_562_r4l26 unbebußt, wie sie sich und die Ihrigen
+#facs_563_r3l1 werden erhalten können, deren dann
+#facs_563_r3l2 niel mit Weib und Kinderen den Ge¬
+#facs_563_r3l3 meinden auffallen; und dergleichen
+#facs_563_r3l4 Klagen auch für Uns kommen und gelan¬
+#facs_563_r3l5 get. Als ist nun dieser beyden Punkten
+#facs_563_r3l6 halb an alle Unsere Ober und Unter¬
+#facs_563_r3l7 Amtleut, auch an Unsere Predicanten und
+#facs_563_r3l8 Ehore Richter, Unser ernstlicher Will und
+#facs_563_r3l9 Befehl, auf dergleichen linderliche Manns¬
+#facs_563_r3l10 an Weibte-Prestonen, welche sich dem ver-
+#facs_563_r3l11 chenlichen Lebvesten ergeben, oder auch mit
+#facs_563_r3l12 nungen und unnöthigem Tauschen und
+#facs_563_r3l13 Marten ihr Gut hindurch richten, fleißig
+#facs_563_r3l14 zu achten, dieselben von Chon Bericht
+#facs_563_r3l15 oder durch Gefangenschaft davon ab und
+#facs_563_r3l16 zu beßerer Haushaltung anzumahnen
+#facs_563_r3l17 der aber unerheblichen Fall solchen
+#facs_563_r3l18 liederlichen Leuten den Gebalt über ihr
+#facs_563_r3l19 het zu benehmen, und sie solchermaßen
+#facs_563_r3l20 zu bevogten, daß den armen Weibern
+#facs_563_r3l21 und Kindern ihr des beyzeiten geschirmt
+#facs_563_r3l22 Breden möge
+#facs_563_r3l23 Wider die unseitigen Perschlichung
+#facs_563_r3l24 gen.
+#facs_563_r3l25 Der Dienst-Knechten und Mägden
+#facs_563_r3l26 halb, dann, die sich gelüsten laßen, also
+#facs_563_r5l1 1069
+#facs_563_r5l2 unbedacht und frühzeitig zu hinrathen
+#facs_563_r5l3 bwohl unstere obrigkeitliche Meynung
+#facs_563_r5l4 keineswegs dahin gehet, daß Wir jemän¬
+#facs_563_r5l5 den vorbieten wollen, sich zu verhen¬
+#facs_563_r5l6 rathen, indem der Ehestand im heiligen
+#facs_563_r5l7 Wort Gottes niemand verbotten, so ist
+#facs_563_r5l8 jedoch Unser Will und Verstand, dieweil
+#facs_563_r5l9 hierinn gar viel aus unzeitigen Muth,
+#facs_563_r5l10 willen und Unbedacht geschicht, daß solche
+#facs_563_r5l11 Personen bevorderst für die Ehebarheit
+#facs_563_r5l12 beschikt, und daselbsten examinirt wer¬
+#facs_563_r5l13 den sollen, wie sie sich selbst erhalten können
+#facs_563_r5l14 Darbey Wir aber einer
+#facs_563_r5l15 and bellen
+#facs_563_r5l16 jeden Gemeind die Gebalt gegeben
+#facs_563_r5l17 und oberheitlich anbefohlen haben wollen,
+#facs_563_r5l18 dergleichen junge Leut, welche über ge¬
+#facs_563_r5l19 schehene Warenung und ohne Lebens¬
+#facs_563_r5l20 Mittel, hernach mit Weib und Kinderen
+#facs_563_r5l21 der Gemeind und dero Allmosten beschwer¬
+#facs_563_r5l22 lich seyn, und auffallen wurden, des
+#facs_563_r5l23 Torf-Rechtens zu entstehen, ohne daß
+#facs_563_r5l24 die Gemeindschuldig seyn solle, der Er¬
+#facs_563_r5l25 haltung eines solchen Manns, noch der
+#facs_563_r5l26 wenigen sich zu beladen
+#facs_563_r5l27 Pie.
+#facs_564_r3l1 Piese Ordnung wird gleichwie
+#facs_564_r3l2 auf dem Land, also auch zu Bern in der Haupt
+#facs_564_r3l3 Stadt, den Jünften nach eingeführt, und
+#facs_564_r3l4 darob vest zu halten gebotten.
+#facs_564_r3l5 Und gleichwie diese Unsere Ordnung in
+#facs_564_r3l6 Unseren Landen, denen Kilchhörenen
+#facs_564_r3l7 und Gemeinden nach angestehen, und einge¬
+#facs_564_r3l8 richtet worden, also haben Wie auch dieselb
+#facs_564_r3l9 bige allhier in Unserer HauptStück, den
+#facs_564_r3l10 Dünften und Gestellschaften nach, Erhal¬
+#facs_564_r3l11 tung halben dero Armen, gleichen ge¬
+#facs_564_r3l12 Talt eingeführt, und mit nicht wiederum
+#facs_564_r3l13 Eifer und Ernst angesehen, daß aller
+#facs_564_r3l14 bis dahero verübter öffentliche und
+#facs_564_r3l15 überlegene Gassen Sättel bey Tag und
+#facs_564_r3l16 Nacht von nun an gänzlich abgeschaffet
+#facs_564_r3l17 und auch in derselben gar nicht mehr ge¬
+#facs_564_r3l18 duldet werden soll. Zu dem End sollen
+#facs_564_r3l19 die Thorbarten bey den Thiern dergleich
+#facs_564_r3l20 chen Rättelgefind nicht hineinzulaßen.
+#facs_564_r3l21 vermähnet, denen die Saüel vägt und
+#facs_564_r3l22 Proffosten befelchnet werden, auf der
+#facs_564_r3l23 Raßen fleißige Aufsicht zu haben, und
+#facs_564_r3l24 die Kinder so sie also bättlend antreffen
+#facs_564_r5l1 1071.
+#facs_564_r5l2 werden, hinauf in den Spithal zu führen, allbo
+#facs_564_r5l3 man sie um ihrer Eltern Namen fragen kann,
+#facs_564_r5l4 bau man dann denselben hat, sollen denn
+#facs_564_r5l5 zumalen sie die Eltern durch die Weibel
+#facs_564_r5l6 vermahnt werden, ihre Kinder bey Haus
+#facs_564_r5l7 zu halten, und mit nothwendiger Nahrung
+#facs_564_r5l8 zu verstehen, wo es aber nicht in ihrem Ver¬
+#facs_564_r5l9 mögen sich hierum bey ihrem Gestellschaften
+#facs_564_r5l10 anzumelden. Im Fall aber solches an den
+#facs_564_r5l11 Kindern noch Eltern nichts fruchten würde;
+#facs_564_r5l12 sollen Wir deßen berichtet werden, demnach zu
+#facs_564_r5l13 ebenen, ob die Eltern nicht von das Zeug er ziel
+#facs_564_r5l14 zu bernisieren, und die Kinder durch die Sättel
+#facs_564_r5l15 vögte mit Ruthen zu schmeitzen, oder was für
+#facs_564_r5l16 eine andere Straf an sie zu wenden seyn
+#facs_564_r5l17 Und wollen derhalben Euch, Unserer Amt
+#facs_564_r5l18 leut zu Stadt und Land, mit Hülf und Zuthun
+#facs_564_r5l19 Unserer Kirchen, dieneren jeden Orts
+#facs_564_r5l20 zur OberAufsticht über diese Ordnung und
+#facs_564_r5l21 Mandat verordnet, und ernstmeynem
+#facs_564_r5l22 aufgetragen und anbefohlen haben, mit
+#facs_564_r5l23 solchen Eueren fleißigen Aufsicht dergestalten
+#facs_564_r5l24 Hand abzuhalten, daß selbige unaufhörlich
+#facs_564_r5l25 uns beständig fortgesetzt, und erhalten
+#facs_564_r5l26 Wo daran et das Nachläßigkeit und Mangel
+#facs_564_r5l27 sich erängte, derselbe beyzeiten und unnach
+#facs_564_r5l28 läßlich
+#facs_565_r1l1 1072.
+#facs_565_r1l2 ###
+#facs_565_r2l1 läßlich verbeßeret: Der nothwendige Bericht
+#facs_565_r2l2 aller und jeder widerwärtigen und verhandel¬
+#facs_565_r2l3 licher Vorfallenheiten, von Euch Unseren
+#facs_565_r2l4 Amtleuten abstonderlich, oder auch mit zuthun
+#facs_565_r2l5 den Herren Predicanten, und Ehrbarkeiten
+#facs_565_r2l6 selbigen Orten, aus jederbeilen fleißig
+#facs_565_r2l7 zu solchem End auch die
+#facs_565_r2l8 überschreiben
+#facs_565_r2l9 gemeinden, zu deren beständigen Burklichen
+#facs_565_r2l10 Haltung und Erstellung, ernstermähnlichen
+#facs_565_r2l11 erinneret: Hiemit auch das Kirchen im
+#facs_565_r2l12 Gemeine Gut, und was hievon den Armen
+#facs_565_r2l13 gestiftet und vergabet worden, recht und ge¬
+#facs_565_r2l14 treulich verwaltet werde. Wie zu Euch samt, und
+#facs_565_r2l15 sonderlich Unser gnädiges und gutes Vertrauen
+#facs_565_r2l16 gesteht und gestellet wird. Den beylauffigen
+#facs_565_r2l17 Meynung, kann wider Unser beßer Verstehen
+#facs_565_r2l18 lieses so nothwendige und nicht minder nutz
+#facs_565_r2l19 liche Werk verabsterumt, und biederum in
+#facs_565_r2l20 Abgang gerathen wurde, daß in selbem Fals
+#facs_565_r2l21 der Fehler und die Schuld Euch, und der NichtEr¬
+#facs_565_r2l22 stattung Eueren Amts Pflicht zugemessen
+#facs_565_r2l23 worden solle. Darnach wisset Ihr Eich
+#facs_565_r2l24 zu verhalten.
+#facs_565_r2l25 Erneuert und verhandlet in Unseren
+#facs_565_r2l26 großen Raths-Verstammlung, den 21ten. Tag
+#facs_565_r2l27 Wintermonats, diß 1690sten Jahrs
+#facs_565_r2l28 Daß obige VättelOrdnung von einem in Hochobrigkeitlicher
+#facs_565_r2l29 drukerey gedrukten Exemplar dieser Verordnung wörtlich
+#facs_565_r2l30 abgeschrieben sey, bescheint den 7ten Juny 1805
+#facs_565_r2l31 C. L. Herbert, Canzley Registreter

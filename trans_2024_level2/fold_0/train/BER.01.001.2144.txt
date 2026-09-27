@@ -1,0 +1,77 @@
+Law ID: BER.01.001.2144
+Name: Wegen Verüsserung des Getreidts.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 66/66
+# High similarity (>=50%): 64
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_191_r1l29 Huc Fol: 4. 22. an Sahnen, frutigen, Wimmiß, Theu, Zweysammt.
+#facs_191_r1l30 Oberhoffen, anstalt
+#facs_191_r1l31 Den Vieh brösen betreffend.
+#facs_191_r3l1 Chap
+#facs_191_r3l2 An Alle T. und W.
+#facs_191_r3l3 Ambtleut. 4 Stadt-Freyweibel und Liman
+#facs_191_r3l4 Wegen Verüßerung des gutreides
+#facs_191_r3l5 Demnach wir
+#facs_191_r3l6 Stallhalter und Raht der Stach Bern etc.
+#facs_191_r3l7 mit vielieb vnd erschidenlich zu ernemen gehabt, daß die Korn
+#facs_191_r3l8 rücht in verthüpung gerahten, vnd dieselbe sich vermehren undt
+#facs_191_r3l9 zunemen thuye, guten theils auß der Vrsach, daß des getreides
+#facs_191_r3l10 viel durch die auff- vnd hierkeüffer erhandlet, und an vßere ont¬
+#facs_191_r3l11 verfüert wirt, habend wir denn durch erforderliches einsechen
+#facs_191_r3l12 gebegegnen eine Poche nothurfft sein befunden, vmb so viel desto
+#facs_191_r3l13 mehr, weilen zu Baden vff allgemeiner Eidtgnoßischen zusamen
+#facs_191_r3l14 Junfft, dergleichen schädlichen Fürkonff mit zugestaden verab¬
+#facs_191_r3l15 scheidet, und durch vernachbarte Eidtgnößische Ort darob
+#facs_191_r3l16 Zuhalten der anfang bereits gemacht worden, vnd solchem nach¬
+#facs_191_r3l17 die, Wir anderen vnseren Ambtleüthen hiemit benecchen wollen,
+#facs_191_r3l18 zu deiner Verwaltung, dergleichen auff vnd Fürkours
+#facs_191_r3l19 Denn so darmit zur verüßerung vnßem Landt vmbgechen
+#facs_191_r3l20 uit zugestathen, daß daß des getreidts auch für vnd an ver¬
+#facs_191_r3l21 achbarte Eidt vnd Puntsgrößische Ort zuerhandlen vndt
+#facs_191_r3l22 abzuführen niemandem zugelaßen werde, anderst dan
+#facs_191_r3l23 für den selbst eigenn Haußbrauch, vnd auff beglaubten darumb
+#facs_191_r3l24 von selbiger Oberkeit, oder deren OberAmbtsleüten, das
+#facs_191_r3l25 Eingeführt werden soll, mit sich bringenden schrifftlichen Schein
+#facs_191_r3l26 Darzu du dan die gehörige anstalt zumachen, vnd nohlenendige
+#facs_191_r3l27 auffsicht zebestellen, auch die, s über verstandene Wahrung
+#facs_191_r3l28 vnd nachricht dises verpots darwider handlen wurden,
+#facs_191_r3l29 mit der straff der Confiscation anzusachen wüßen wirst,
+#facs_191_r3l30 Der meinung, daß auch die Hendlers mit getreidt von Vernach
+#facs_191_r3l31 larten Orten herr, daßelbe durch zu fünfren, ankommen wurden,
+#facs_191_r3l32 mit durchgelaßen, werd mit ohne beglaubten Schein, daß es in
+#facs_191_r3l33 er Eidt geschafft verbraucht werden solle. Wie wir vns
+#facs_191_r3l34 versichend. Dat. 30. Aprilis 1678.
+#facs_191_r3l35 ###
+#facs_192_r3l1 An Gangen, Arwangen, Bipp, Arburg,
+#facs_192_r3l2 Arauw, Vrchenckenberg, Biberstein
+#facs_192_r3l3 sonderlichen aber sollen die Jenigen hinderhalten, würde
+#facs_192_r3l4 und dan umb die nohtwendige Aufsicht bestelt werden
+#facs_192_r3l5 Die LehrenVäßer mit getreidt abführen, dieselben
+#facs_192_r3l6 Außert Landtfüehren, und gegen frombdem Wein
+#facs_192_r3l7 Verstauschen.
+#facs_192_r3l8 Analle W. Ambtleut. Was für
+#facs_192_r3l9 mißbreüch mit dem Papagey schinßen
+#facs_192_r3l10 am Sontag Vorgangen
+#facs_192_r3l11 Ausuldtheis und Raht etc. Auß einem anderen Sachen
+#facs_192_r3l12 alb von der Classpächerlingen des einkommenen Schreiben
+#facs_192_r3l13 Vernemund Wirauch, ob selten am Sontag mit undt
+#facs_192_r3l14 anderer Orten gewüßt, prauader, so man Levation
+#facs_192_r3l15 de May namset, und vermeinte papagey freyheiten
+#facs_192_r3l16 Vnderam scheln des Exercitij in den Wehren, von
+#facs_192_r3l17 gehen, dardurch dieser tag des Herren Übelmißbraucht
+#facs_192_r3l18 und prophaniert wirt. Damit nun wir die noht
+#facs_192_r3l19 wendige remedierung hierüber desto besperfürz¬
+#facs_192_r3l20 kommen und zubestellen wüßend, zubend wir gutfund,
+#facs_192_r3l21 Den bericht von allen Ämbteren Lebezeüchen, Was in
+#facs_192_r3l22 Disen Stucken inden orts vorgänge, die hiemit
+#facs_192_r3l23 Ernreichend, solchen Bericht, so viel Dein Ambtsner
+#facs_192_r3l24 Wachtung betrifft, vns fürderlich und deutlich, was
+#facs_192_r3l25 in berüerten stucken bißhar an solchen Tagen zu
+#facs_192_r3l26 nachtheil des Gotsdiensts, und entheiligung des
+#facs_192_r3l27 Sabbats verübt worden, zeüberschreiben
+#facs_192_r3l28 Wie uns versehen. Datum 13. May 1678.

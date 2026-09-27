@@ -1,0 +1,106 @@
+Law ID: BER.01.001.1265
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 95/95
+# High similarity (>=50%): 89
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_93_r2l28 Recognoissance: Vßererlechen Herren
+#facs_93_r2l29 C
+#facs_93_r2l30 ausanna Erkanntnußen zu trneümeren, soll essteren
+#facs_93_r2l31 Stenden, Geistliche und Vassallen nit zugelassen werden
+#facs_93_r2l32 ohne vorgehnde, gebürende befrag- vnd bewilligung möglichen
+#facs_93_r2l33 Wie mit mehrerem Im Man. sub 9. Ja n: 1662
+#facs_94_r1l1 oll
+#facs_94_r1l2 re se debuoit
+#facs_94_r2l1 Translaon du Mundat sus escrips
+#facs_94_r2l2 A duoyer Petite grand Conseil de la ville de Berniere
+#facs_94_r2l3 salut
+#facs_94_r2l4 Ce n'est pas sans juste raison, et bonnes consideravnt
+#facs_94_r2l5 a ce mouvantes, Que nos Honnorer prediccesseurs en
+#facs_94_r2l6 Charge, ay avoyent ordonné Coment een quelle maniere
+#facs_94_r2l7 les subjects se puissent presenter devant leur Souverain
+#facs_94_r2l8 enfauti de Conteste et difficultés: Notament que cela
+#facs_94_r2l9 A. Weill faire de propre authorité, ains par licence
+#facs_94_r2l10 permission des Bailliss, qui peunent sçavoir, si les
+#facs_94_r2l11 faits, dont il s'agist, sont en litis-pendance et subiciter
+#facs_94_r2l12 Tau (vurs de la Justice vu non, Et qu'il en soit fait
+#facs_94_r2l13 notificaon à la partie.
+#facs_94_r2l14 Orest il, que par une publicaon en date duhrme de
+#facs_94_r2l15 Mars et 31. d'Aoust 1654. Nous aurions licentie non
+#facs_94_r2l16 bienaymes subiects, de pouvoir venir par devant nous
+#facs_94_r2l17 ou nre Conseil ordre pour choses raisonables, sende
+#facs_94_r2l18 estre astraincts den avoir la permission de nous
+#facs_94_r2l19 Bailliss, et sans Craincte dênestre chastiei pourveu-
+#facs_94_r2l20 que deue notificaon en soit faite a la partie. Vans
+#facs_94_r2l21 Teste bonne Intention et esperance, quenous avions
+#facs_94_r2l22 un chascun y marcheroit en sincerité et loyaulté
+#facs_94_r2l23 Mais léxperience du depuis nous a faict voir, que
+#facs_94_r2l24 la plus part se servent de ceste liberté, pour circonvenir
+#facs_94_r2l25 leur prochain par subtilité et précipitaon, tant de
+#facs_94_r2l26 devoyements et supterfugier du droict merpris des voyes
+#facs_94_r2l27 amiablei et plus courtes pour sortir d'affaire, Et leurs
+#facs_94_r2l28 Informaons plansibles et faites à plaisir, que autrement
+#facs_94_r2l29 ftant que les plaideurs temeraires par leurs artificer-
+#facs_94_r2l30 Ce avent faire changer de face les affaires, Et quel a partie
+#facs_94_r2l31 Incapable et trop foible a repugnier a ces chicanes
+#facs_94_r2l32 Et lei femer vesuei, et orphelini sont pro cipités en leur
+#facs_94_r2l33 dront, et consumer en leur bieni, et noui molesté et
+#facs_94_r2l34 empeschei aux affairei de plus grande importance.
+#facs_94_r3l1 177
+#facs_94_r3l2 Pour quel abus d'desordre ainsy parvenu a reçue, dont
+#facs_94_r3l3 lusieurs de nos subjecti Judicieux, qui de ce ont pris garde,
+#facs_94_r3l4 en ont tesmoigné leur déplaisir par maniere de soleance
+#facs_94_r3l5 les ploinctes, Et affinque de nre part, par de voir d'office,
+#facs_94_r3l6 y soit remedie, au bien et a l'utilité de ceux qui nous sont
+#facs_94_r3l7 omis en charge. Nous avons trouvé nécessaire, d'y
+#facs_94_r3l8 pourvoir coe noui faisons par cestes; Voulants et Exhor¬
+#facs_94_r3l9 tants touts et un chascun a part de semonster facile envers
+#facs_94_r3l10 un prochain en faicts de difficulté; Et en cas que quelqu'un
+#facs_94_r3l11 ne peut avoir satisfaon raisonable par voyes amiables,
+#facs_94_r3l12 de se servir de la vase du droit, qui a celle fin est estably:
+#facs_94_r3l13 Atant quo paerce moyens, oceluy de nos Bailliss a ce vrdonne,
+#facs_94_r3l14 ou autres personnes arbitraires les choses en conteste soyent
+#facs_94_r3l15 terminées, riereup: Un en cas d'appel l'en suive les
+#facs_94_r3l16 Instance; l'une apres l'autre, sans entrer en longueire de proces
+#facs_94_r3l17 par des devoyements qui tendent à prolixité: Car en tell
+#facs_94_r3l18 cas ne sera donné audience, ny entrée a personne; Ainsceu
+#facs_94_r3l19 qui neant moings viendront conno courir ic, (percipitement, en seront
+#facs_94_r3l20 non seulement deboutée, et condemné; aux despends de leur
+#facs_94_r3l21 partie, mais aussy chasties selon l'exigence du faut
+#facs_94_r3l22 Que sitouresfois le faut estoit tel, que pour des raisons
+#facs_94_r3l23 considerations particulieres, nre Baillif trouvoyt bon
+#facs_94_r3l24 de le renvoyer par devant nre Conseil ordre ou d'en permettre
+#facs_94_r3l25 le recours aux parties, En ce cas et autres que l'on se voulera
+#facs_94_r3l26 presenter en Conseil, pour choser legitimes et raisonables
+#facs_94_r3l27 entendons que cela seface du sçeu se consentement de nre
+#facs_94_r3l28 ,
+#facs_94_r3l29 Raillif, qui sçaura accompagnier les parties de ses le tres
+#facs_94_r3l30 2
+#facs_94_r3l31 de l'Estat, ou les circonstances de l'affaire le requierent, Et que
+#facs_94_r3l32 Ampetrant dun tel recours en fasse deüement faire la
+#facs_94_r3l33 of the said manieres
+#facs_94_r3l34 notificaon a la partie, sil enavne, Et de ce fasse conster
+#facs_94_r3l35 ..
+#facs_94_r3l36 par acte d'attestaon ou autrement: si moings seront teldes
+#facs_94_r3l37 avant dureurs esconducits et chastiers comme dictest. Saissante
+#facs_94_r3l38 en cela aux actions et plaincter qui contiendront verité,
+#facs_94_r3l39 dirigées contre nos Bailliss et hauls officiers, soit pourfant
+#facs_94_r3l40 administraon de Justice, ou pour autre subuit, leur libre
+#facs_95_r2l1 avois, par devant leur Souverain, et du possé
+#facs_95_r2l2 moyennant deüe notificaon. Mais la Chambre de
+#facs_95_r2l3 Nostre Conseil ordinaire sera fermeé, non seulement
+#facs_95_r2l4 entempt de feriei, mair aussy des le 10me. de Juivet
+#facs_95_r2l5 Jusque; au wme d'Aoust, et trois septmaines, durant
+#facs_95_r2l6 les vendanges toutes les années. Reverul les affaires
+#facs_95_r2l7 vrgenter, d'en danger de domage.
+#facs_95_r2l8 Et
+#facs_95_r2l9 affin qu’un chascun sescache conduire, selon ceste nre
+#facs_95_r2l10 vouloir et ordon. vous comendori de faire publier
+#facs_95_r2l11 en chere les presentes, et lui en registrer au Chasterie
+#facs_95_r2l12 pour servir de reiglé à l'advenir - Donner's en nre
+#facs_95_r2l13 grand Conseil. Ce 24. de Marc. 1662.

@@ -1,0 +1,197 @@
+Law ID: BER.01.001.3786
+Name: Dass das Umbgelt vom Bier bezahlt werden solle.
+
+#facs_42_r1l1 14
+#facs_42_r1l2 Berzichnihen prnti
+#facs_42_r1l3 De Partherren, so die Jax Belter nichtlich
+#facs_42_r1l4 Papilab sr thun
+#facs_42_r1l5 H Decan zu Sigris beyl
+#facs_42_r1l6 8le
+#facs_42_r1l7 in Dangenthal Ca pitul
+#facs_42_r1l8 
+#facs_42_r1l9 pfarrer zu trißbeil
+#facs_42_r1l10 zu Rerenbach
+#facs_42_r1l11 zu Rohrbach
+#facs_42_r1l12 apitul zu Bern
+#facs_42_r1l13 H Helster von Werdt
+#facs_42_r1l14 Hrr Pittahlperdger Supichl
+#facs_42_r1l15 herr pfarrhe zu Walten weyl
+#facs_42_r1l16 zu Murg
+#facs_42_r1l17 zu Münsigen
+#facs_42_r1l18 di dillisen
+#facs_42_r1l19 
+#facs_42_r1l20 s Capiluel Zuranzburg und Brngl
+#facs_42_r1l21 her pparrhe  Amers weil
+#facs_42_r1l22 Papitul zu Argil
+#facs_42_r1l23 herren pfaberhen zu Granchen.
+#facs_42_r2l1 75.
+#facs_42_r2l2 An
+#facs_42_r2l3 At
+#facs_42_r2l4 alle tentsche ambtlauth und übrige oberkeiten.
+#facs_42_r2l5 Bediente
+#facs_42_r2l6 16
+#facs_42_r2l7 ihnen zu Ablag dero Rechnungen tag
+#facs_42_r2l8 ansezen Ciehitor das Cormuiar.
+#facs_42_r2l9 Dohtan  Rarmbe
+#facs_42_r2l10 26 novei 1739 bris
+#facs_42_r2l11 Rechnunge Tagen
+#facs_42_r2l12 Pro No 1740.
+#facs_42_r2l13 Ssebe
+#facs_42_r2l14 Ed
+#facs_42_r2l15 Mlterchen
+#facs_42_r2l16 Lendthut
+#facs_42_r2l17 Adaub
+#facs_42_r2l18 sonstags 4
+#facs_42_r2l19 Kolich
+#facs_42_r2l20 
+#facs_42_r2l21 Montags 8
+#facs_42_r2l22 auhser.
+#facs_42_r2l23 10.
+#facs_42_r2l24 Doiemisperg
+#facs_42_r2l25 Mittohen
+#facs_42_r2l26 Frenffergerhuß
+#facs_43_r2l1 Kienhers
+#facs_43_r2l2 Konstags¬
+#facs_43_r2l3 d. Phanser hauß
+#facs_43_r2l4 de
+#facs_43_r2l5 montag.
+#facs_43_r2l6 Musha zen
+#facs_43_r2l7 Sinißbald
+#facs_43_r2l8 Mtbochen
+#facs_43_r2l9 Aarbangen
+#facs_43_r2l10 Fraubbruern
+#facs_43_r2l11 Distigs
+#facs_43_r2l12 Interlacterhauß
+#facs_43_r2l13 Bublerr von Burgeren Montag
+#facs_43_r2l14 Mn
+#facs_43_r2l15 oberhoßen
+#facs_43_r2l16 Mitlonhen.
+#facs_43_r2l17 Hattislyl
+#facs_43_r2l18 Brandiß
+#facs_43_r2l19 dostas
+#facs_43_r2l20 Goltstatt
+#facs_43_r2l21 thaben
+#facs_43_r2l22 Montags.
+#facs_43_r2l23 Sahnhatß
+#facs_43_r2l24 Millichen
+#facs_43_r2l25 zbessien
+#facs_43_r3l1 1
+#facs_43_r3l2 15
+#facs_43_r3l3 17.
+#facs_43_r3l4 18.
+#facs_43_r3l5 23
+#facs_43_r3l6 24.
+#facs_43_r3l7 25
+#facs_43_r3l8 29
+#facs_43_r3l9 8 M
+#facs_43_r4l1 Sonstags
+#facs_43_r4l2 Luren
+#facs_43_r4l3 Aberg
+#facs_43_r4l4 
+#facs_43_r4l5 Matags
+#facs_43_r4l6 A. R
+#facs_43_r4l7 Mitlachen
+#facs_43_r4l8 Insull
+#facs_43_r4l9 Lsselbald
+#facs_43_r4l10 Donstagt.
+#facs_43_r4l11 gutigen
+#facs_43_r4l12 Ma tags
+#facs_43_r4l13 chen
+#facs_43_r4l14 Aberstein
+#facs_43_r4l15 Mitlochen
+#facs_43_r4l16 Aarburg
+#facs_43_r4l17 St Johansen
+#facs_43_r4l18 Lostapt
+#facs_43_r4l19 eb
+#facs_43_r4l20 Interlaiten
+#facs_43_r4l21 Malig.
+#facs_43_r4l22 Antersorn
+#facs_43_r4l23 Schamken berg
+#facs_43_r4l24 Bitlohen
+#facs_43_r4l25 Caselen Aberchnung
+#facs_43_r5l1 3
+#facs_43_r5l2 7
+#facs_43_r5l3 9
+#facs_43_r5l4 10
+#facs_43_r5l5 14
+#facs_43_r5l6 16.
+#facs_43_r5l7 17
+#facs_43_r5l8 L.
+#facs_43_r5l9 23
+#facs_44_r2l1 Baan
+#facs_44_r2l2 dastag
+#facs_44_r2l3 
+#facs_44_r2l4 Castelte
+#facs_44_r2l5 Wimmuß
+#facs_44_r2l6 29
+#facs_44_r2l7 Montags
+#facs_44_r2l8 
+#facs_44_r2l9 Wangen
+#facs_44_r2l10 30
+#facs_44_r2l11 Zofingen- Meitlechen
+#facs_44_r2l12 31
+#facs_44_r2l13 Ahlen 8on stags den
+#facs_44_r2l14 4
+#facs_44_r2l15 Lenzburg Montags
+#facs_44_r2l16 6.
+#facs_44_r2l17 Königs Felden Wectlochen
+#facs_44_r2l18 groß spittahl 3onstags
+#facs_44_r2l19 2
+#facs_44_r2l20 Ddub 10 Decembr 709.
+#facs_44_r2l21 
+#facs_44_r2l22 Lechnungs tagen
+#facs_44_r2l23 Dr Mlchen H Ambtleut zengs o s
+#facs_44_r2l24 Wiblissirg Brptagd.
+#facs_44_r2l25 12 sth
+#facs_44_r2l26 Pätterlingen Danstags
+#facs_44_r2l27 13
+#facs_44_r3l1 79.
+#facs_44_r3l2 Milden- Frestags 19 febr
+#facs_44_r3l3 oron taistags 20.
+#facs_44_r3l4 26
+#facs_44_r3l5 Vitis Dreÿtags
+#facs_44_r3l6 27.
+#facs_44_r3l7 Seubenstatt samnstag
+#facs_44_r3l8 4 Marlij
+#facs_44_r3l9 Lausanne Breytags
+#facs_44_r3l10 5.
+#facs_44_r3l11 Volch Weinschemb Samstag
+#facs_44_r3l12 11.
+#facs_44_r3l13 Aubon ner Überhu Frertagt.
+#facs_44_r3l14 12
+#facs_44_r3l15 zu shrung Sonstigt
+#facs_44_r3l16 18
+#facs_44_r3l17 Demainmotier, Herytags.
+#facs_44_r3l18 19
+#facs_44_r3l19 Bonmont Samstagt
+#facs_44_r3l20 25
+#facs_44_r3l21 Seubd3stagt
+#facs_44_r3l22 26
+#facs_44_r3l23 Morsel Samstagt
+#facs_44_r3l24 1Apprilis.
+#facs_44_r3l25 erten setags
+#facs_45_r1l1 80.
+#facs_45_r1l2 A
+#facs_45_r1l3 Alle Runtschr und Welche Ambtleuth 9. Statt
+#facs_45_r1l4 Freybeibel und Aman
+
+#facs_45_r1l5 Daß das umbgeltvom died bezahlt werden,
+#facs_45_r1l6 olle
+#facs_45_r1l7 Schultzis und Raht
+#facs_45_r1l8 Demnach unteren zu septembel let sthen vonlesen
+#facs_45_r1l9 Boßen Raht Statucer vund Grandert orden, daße
+#facs_45_r1l10 Collatu
+#facs_45_r1l11 schon ao 1692 eingeführtes lebung außtede
+#facs_45_r1l12 did rumbgele aren solle haben wi s
+#facs_45_r1l13 zu Staltund land hierdurch kunnd machenwollen.
+#facs_45_r1l14 also daß von allend bey der pintend außehruse
+#facs_45_r1l15 sie das umbgelt nach fedeßen ohrti geloshe
+#facs_45_r1l16 bezahlt das jenige aber so en Grod leiters vrd
+#facs_45_r1l17 der partomission gemacht von umbgelts s
+#facs_45_r1l18 wanaber daßelben bey der Pintenlieder verat
+#facs_45_r1l19 wird das Angelt darvon auch entrichtet
+#facs_45_r1l20 berden solle Maßen das di sere Ordnung in
+#facs_45_r1l21 dimend Bezirck, danenjenigen so Es ansiht
+#facs_45_r1l22 Erßnenliest Datum den 2t Decemubi
+#facs_45_r1l23 1799
+END

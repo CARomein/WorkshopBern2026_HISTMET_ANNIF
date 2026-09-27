@@ -1,0 +1,152 @@
+Law nr: BER.01.001.4566
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 140/141
+# High similarity (>=80%): 129
+# Low similarity (<80%): 11
+# Not found: 1
+#
+#facs_149_r5l1 290
+#facs_21_region_1633454506260_2871l1 Un
+#facs_152_r4l3 alle Unterweltschen Landsäußert
+#facs_151_r3l8 Milden. Oron und Lausanne Prof.
+#facs_152_r4l5 denen dürftigen Amtsangehörigen Be¬
+#facs_152_r4l6 Freid vorzustreken.
+#facs_36_r3l7 Schultheiß und Rath
+#facs_152_r4l8 Auf die von eint und anderen Unse¬
+#facs_152_r4l9 ren Amtleuten an Uns gelangte
+#facs_152_r4l10 Berichte, über die traurigen Umstände
+#facs_152_r4l11 in welche die heürigestreuge Wit¬
+#facs_152_r4l12 terung, sonderheitlich aber der so
+#facs_152_r4l13 häufig gefallene Schnee, verschie¬
+#facs_152_r4l14 fene Bezirke Unserer weltschen
+#facs_152_r4l15 Landen der selbst hat, die daherige Noth dan,
+#facs_152_r4l16 hauptsächlich durch die gänzliche
+#facs_152_r4l17 Speirung der Strafen insonder¬
+#facs_152_r4l18 heit aber der Zugangen zu einzel¬
+#facs_152_r4l19 nen Häuseren entstanden ist,
+#facs_152_r4l20 so tragen Wir Euch anmit auf
+#facs_152_r4l21 die erforderlichen Anstalten vor
+#facs_152_r4l22 zu kehren, das die Wegen Euers Amts
+#facs_152_r4l23 ohne Verzug durch die Bemeinden ge¬
+#facs_152_r4l24 öffnet werden, damit die Zufuhr
+#facs_152_r4l25 der Lebensmittlen nicht länger ge¬
+#facs_152_r4l26 Um aber
+#facs_152_r4l27 hemmet werde.
+#facs_153_r1l1 297
+#facs_153_r2l1 Unsern ungehörigen in diesen Drucken
+#facs_153_r2l2 fen Umständen Landeswärterliche Hilfe
+#facs_153_r2l3 zu leisten, so begwältigen Wir Euch
+#facs_153_r2l4 hiermit, denen bedürftigen Eueres Amts
+#facs_153_r2l5 die gegenwärtig nicht im Stande sind
+#facs_153_r2l6 das zu ihrem Anderhalt benöhtigte
+#facs_153_r2l7 Betreid anzuschaffen, ihnen selbige
+#facs_153_r2l8 unter Türgschafft ihrer Gemeinden
+#facs_153_r2l9 vorzustreben, mit dem Vorbehalt,
+#facs_153_r2l10 daß selbiges nach Martin geflis¬
+#facs_153_r2l11 senlich wieder restituiert werde.
+#facs_153_r2l12 Übrigens werdet Ihr innert
+#facs_153_r2l13 14. Tagen Eueren ämtlichen Bericht
+#facs_153_r2l14 von dem Erfolg dieser Unserer
+#facs_153_r2l15 Verfügungen, nebst der Verzeichnis
+#facs_153_r2l16 des vorgestrebten Betreids Aus¬
+#facs_153_r2l17 einsenden
+#facs_152_r2l10 da auch zu besorgen, es möchte
+#facs_152_r2l11 Diese außerordentliche Witterung Krank¬
+#facs_152_r2l12 heiten nach sich ziehen; so werdet Ihr
+#facs_153_r2l21 fals deren sich äußeren solten. Un
+#facs_153_r2l22 Aerem verordneten Sanitet Rath davon
+#facs_153_r2l23 achleunige Nachricht ertheilen. Datum
+#facs_153_r2l24 en 12e aprilis 1785
+#facs_83_r3l6 en
+#facs_100_r2l1 soll.
+#facs_8_r7l2 29.
+#facs_23_region_1633454616028_2913l1 An
+#facs_117_r3l2 Alle deutsch und Weltsche Herren Amtleute
+#facs_153_r4l4 Vier Stadt, Freyweibel und Amann
+#facs_153_r4l5 Lachley Emolument
+#facs_153_r4l6 Schulths und Raths
+#facs_153_r4l7 Sey Anlas der lezthin abgelegten
+#facs_153_r4l8 Kanzley Rechnung, haben Wirternam
+#facs_153_r4l9 men, welch beträchtliche Anhal Exstan¬
+#facs_153_r4l10 len, sowohl an Obrigkeitlichen Auf
+#facs_153_r4l11 lagen, welche directe Unserm Stands
+#facs_153_r4l12 Crario anzunefallen, als auch an schul
+#facs_153_r4l13 digen Commission und Cachley Gebühren
+#facs_153_r4l14 weit verschiedenen Jahren sich vorfin
+#facs_153_r4l15 den, die entweders zu behöriger Zeit ein¬
+#facs_153_r4l16 Zusenden verabfäumet, oder denen
+#facs_153_r4l17 so es betrafe, abzuforderen und erlas¬
+#facs_153_r4l18 sen worden, derowigen Wir ange¬
+#facs_153_r4l19 neßen und nohtwendig erachtet, Un¬
+#facs_153_r4l20 keren schon ehemals hierüber ergan¬
+#facs_153_r4l21 genen Betsche vom 10. Februarius 1759
+#facs_153_r4l22 deßen Abschrift hier beylieget, hiemit
+#facs_153_r4l23 auf das neüe wieder zu erfrischen und
+#facs_329_r3l4 sich haben gefallen laßen, an dero
+#facs_187_r3l13 Ullen Meisteren Meyger Hand
+#facs_153_r4l26 Unserer
+#facs_154_r1l1 299
+#facs_27_r3l12 Obid
+#facs_154_r4l1 Unserer diesseitigen Willens Meinung an¬
+#facs_154_r4l2 zubefehlen: Zu dem End werdet Ihr
+#facs_154_r4l3 von Seiten Unserer Canzley eine genau
+#facs_154_r4l4 Verzeichnis der diesförtigen Ausstän¬
+#facs_154_r4l5 den für Euer Amt, so wie auch geweile
+#facs_154_r4l6 für das zukönfftige erhalten, und die
+#facs_154_r4l7 sen Unseren Befehl werdet Ihr
+#facs_42_r3l15 u.
+#facs_154_r4l10 zu könfftiger Nachricht in die Schlos¬
+#facs_154_r4l11 Sücher einschreiben lasen; wie in
+#facs_154_r4l12 eint- und anderem zu thun Wir Uns
+#facs_154_r4l13 zu Euch bestens versehen. Datum
+#facs_154_r4l14 den 26. Aprilis 1785.
+#facs_23_region_1633454616028_2913l1 An
+#facs_156_r3l8 alle Teutsch und Weltsche Herren Amtleute
+#facs_153_r4l4 Vier Stadt, Freyweibel und Amann
+#facs_154_r4l18 Lanzley Emolument
+# NOT FOUND: .
+#facs_154_r4l20 Laut erhaltenen speciellen Auftrag
+#facs_154_r4l21 von Müghh. den Näthen, soll ich die
+#facs_154_r4l22 Ehre haben Titl. so wie allen Möchs
+#facs_154_r4l23 den Herren Amtleüten ein Verzeigung
+#facs_154_r4l24 von denen noch ausständigen Obrig¬
+#facs_154_r5l1 300
+#facs_154_r5l2 keitlichen Auflagen, Siegel Geldern und
+#facs_154_r5l3 Emolumenten so dero Amt berühren
+#facs_154_r5l4 zu übersenden, mit geziemendem Er¬
+#facs_154_r5l5 suchen beliebt zu seyn, denen die es be¬
+#facs_154_r5l6 rühret, die Bezahlung abforderen und
+#facs_154_r5l7 der Canzley übermachen zu lasen.
+#facs_154_r5l8 samt aber Titl. durch mehrmah¬
+#facs_154_r5l9 lige Übermachung der obvermel¬
+#facs_154_r5l10 ten Bebühren in Zukonfft nicht wie¬
+#facs_154_r5l11 im vorgangenen, allzu oft behäliget
+#facs_154_r5l12 Werden, so vermeinte ich unmasgeb¬
+#facs_154_r5l13 lich das bequemste wäre, wen
+#facs_154_r5l14 dieselben über die von seiten der
+#facs_154_r5l15 Lanzley empfahrende Verzeichniße
+#facs_154_r5l16 eingefehr nach Ausgab beyliegenden
+#facs_154_r5l17 Mofells eine genaue controlle füh¬
+#facs_154_r5l18 ren, und das eingehende Bels so
+#facs_154_r5l19 fann bey Ende jeden Jahrs der Canz¬
+#facs_154_r5l20 ley einhändigen lasen würden, da¬
+#facs_154_r5l21 Amtsrechnung, die
+#facs_154_r5l22 mit alles meiner
+#facs_154_r5l23 meld eilen auf diese Zeit beschloßen
+#facs_154_r5l24 Wird, eingetragen werden könne,
+#facs_154_r5l25 Ich stelle aber solches dem gutfinden
+#facs_154_r5l26 Titl. anheim, erbiete mich hinwie¬
+#facs_154_r5l27 deren zu allen von mir abhän¬
+#facs_155_r1l1 301
+#facs_100_r2l1 soll.
+#facs_37_r1l1 66
+#facs_155_r3l1 gen können den Dienstgefällig beiten
+#facs_155_r3l2 und verharre mit befonderer Hoch¬
+#facs_155_r3l3 achtung etc.
+#facs_16_r9l1 t
+#facs_154_r4l14 den 26. Aprilis 1785.
+#facs_155_r3l6 sigl. Kirchberger.

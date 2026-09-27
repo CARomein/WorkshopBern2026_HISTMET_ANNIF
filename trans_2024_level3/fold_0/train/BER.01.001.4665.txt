@@ -1,0 +1,97 @@
+Law ID: BER.01.001.4665
+Name: Verordnung wegen Ausfuhr des Holzes aus dem Amt Vivis, und wegen der allzustarken Contrebande.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 86/86
+# High similarity (>=50%): 85
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_117_r3l1 229
+#facs_117_r3l2 Verordnung
+#facs_117_r3l3 begen Ausfuhr des Holzes aus dem
+#facs_117_r3l4 Amt viris, und beym der allGustarten
+#facs_117_r3l5 Contrebande
+#facs_117_r3l6 p
+#facs_117_r3l7 Schultheiß und Rath¬
+#facs_117_r3l8 Zwis an Herrn Landtogt.
+#facs_117_r3l9 Wir haben zuverläßig in Erfahrung
+#facs_117_r3l10 gebracht, daß bey dem Holz Ver¬
+#facs_117_r3l11 Bauf aus Eüerem Amt, insonderheit
+#facs_117_r3l12 bon Montreux, Veytaux, Villeneuve
+#facs_117_r3l13 und der Enden, in andere nahe
+#facs_117_r3l14 gelegene Ämter und vornehmlich
+#facs_117_r3l15 nach Lausanne eine sterke Contrebande
+#facs_117_r3l16 vor sich gegangen, und viel Holz
+#facs_117_r3l17 äußert hiesige Sottmäßigkeit.
+#facs_117_r3l18 verführt worden seye.
+#facs_117_r3l19 Obschon Wir den Holz verbauf
+#facs_117_r3l20 von dem Amt Witis, in andere,
+#facs_117_r3l21 in Unstern Landen gelegene Ort.
+#facs_117_r3l22 schaften noch ferners gestacten
+#facs_117_r3l23 bollen; so haben Wir jedennoch
+#facs_118_r2l1 gut gefunden; zu Vermeidung der
+#facs_118_r2l2 durch unsere Reglemente längst ver¬
+#facs_118_r2l3 bodenen Hitz Ausfuhr aus dem
+#facs_118_r2l4 Ranton, und damit durch diesen
+#facs_118_r2l5 unerlaubten Schleichhandel ein, so
+#facs_118_r2l6 Einwend ehrliches Bedürfnis für Unstera
+#facs_118_r2l7 Liebe und getreue Angehörige nicht
+#facs_118_r2l8 zu sehr vertheürt werde, folgende
+#facs_118_r2l9 vorstorgen, dabey zu genauer
+#facs_118_r2l10 Befolgung vorzuschreiben.
+#facs_118_r2l11 1° Wenn ein Angehöriger aus
+#facs_118_r2l12 einem andern Amt in dem Eüerigen
+#facs_118_r2l13 Holz anteufen bill, so soll er Euch
+#facs_118_r2l14 noch ferners ein Requisitorium
+#facs_118_r2l15 von seinem Amtsmann vorbeisten,
+#facs_118_r2l16 worinn die anzukaufen verlangte
+#facs_118_r2l17 Quantität Holzes, und für lesen
+#facs_118_r2l18 gebrauch solche bestimt seye, specificiert
+#facs_118_r2l19 seyn muß; worauf ihr dann die
+#facs_118_r2l20 Bebilligung zum Anbauf ertheillen
+#facs_118_r2l21 könnet.
+#facs_118_r6l1 231
+#facs_118_r6l2 Soll ohne diese Eüere Gebilligung
+#facs_118_r6l3 kein Holz, oder beim die ertheilt ist,
+#facs_118_r6l4 nichts mehr als solche mitbringt
+#facs_118_r6l5 aus dem Amt geführt werden.
+#facs_118_r6l6 Alles Holz, so auf die erhaltene Se¬
+#facs_118_r6l7 Billigung aus dem Amt geführt,
+#facs_118_r6l8 werden soll, muß bey dem nächsten
+#facs_118_r6l9 Zoll Bureau consigniert bey der
+#facs_118_r6l10 Ausschiffung in dem dortigen Zoll
+#facs_118_r6l11 Bureau angegeben daselbs ein
+#facs_118_r6l12 Abladungs Zedel erhalten, und solcher
+#facs_118_r6l13 in Zeit von 14 Tagen, in erstem
+#facs_118_r6l14 Bureau wieder vorgebieten werden.
+#facs_118_r6l15 verbieten Wir gleichfalls einiges
+#facs_118_r6l16 l'autre vieur et de la guerre,
+#facs_118_r6l17 Holz aus Eüerem Amt auf fremden
+#facs_118_r6l18 Schiffen zu verführen.
+#facs_118_r6l19 5°. Alle die der obigen Verordnung
+#facs_118_r6l20 im eint oder andern Artikel zu
+#facs_118_r6l21 biederhandlen, wollen wir angesehen
+#facs_118_r6l22 haben, als beim sie das Holz
+#facs_118_r6l23 aus dem Land geführt härten,
+#facs_119_r2l1 und als solche bestraft wißen.
+#facs_119_r2l2 wiese unsere Verordnung nun
+#facs_119_r2l3 die kur in Erbartung einer für
+#facs_119_r2l4 das ganze Welschland zu machenden
+#facs_119_r2l5 allgemeinen Vorschrift vorläufig
+#facs_119_r2l6 zu Krrichtin gutbefunden haben
+#facs_119_r2l7 übersenden Wir Euch mit dem
+#facs_119_r2l8 Befehl, solche behöriger maßen publi¬
+#facs_119_r2l9 lieren und nachrichtlich einschreiben
+#facs_119_r2l10 zu laßen, auch Hand abzuhalten
+#facs_119_r2l11 daß solcher genau nachgelebt, wie
+#facs_119_r2l12 auch das Leder für die zu ertheilende
+#facs_119_r2l13 Holz ausfuhr Gebilligungen noch für
+#facs_119_r2l14 die Consigne und Abladungs Zedlen
+#facs_119_r2l15 beine andere Emolumente gefordert
+#facs_119_r2l16 berden, als in so beit solche all¬
+#facs_119_r2l17 falls würklich sollten bestimt und
+#facs_119_r2l18 eingeführt seyn.
+#facs_119_r2l19 Datum den 11ten März 1790.

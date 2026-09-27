@@ -1,0 +1,102 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1> a skos:Concept ;
+    skos:notation "n01.1so.1" ;
+    skos:prefLabel "Religionsangelegenheiten"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2> a skos:Concept ;
+    skos:notation "n01.1so.2" ;
+    skos:prefLabel "Bevölkerungs- und Standeswesen, Herrschaftsverfassung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.3> a skos:Concept ;
+    skos:notation "n01.1so.3" ;
+    skos:prefLabel "Randgruppen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.4> a skos:Concept ;
+    skos:notation "n01.1so.4" ;
+    skos:prefLabel "Aufwand und Luxus"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5> a skos:Concept ;
+    skos:notation "n01.1so.5" ;
+    skos:prefLabel "Sittlichkeit, Ehe- und Familie, Sexualität"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.6> a skos:Concept ;
+    skos:notation "n01.1so.6" ;
+    skos:prefLabel "Vormundschaftswesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.7> a skos:Concept ;
+    skos:notation "n01.1so.7" ;
+    skos:prefLabel "Erbschaftswesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.1> a skos:Concept ;
+    skos:notation "n01.2pso.1" ;
+    skos:prefLabel "Vergnügungen & Öffentliche Leichtfertigkeit"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2> a skos:Concept ;
+    skos:notation "n01.2pso.2" ;
+    skos:prefLabel "Öffentliche Sicherheit, Kriminalität"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.3> a skos:Concept ;
+    skos:notation "n01.2pso.3" ;
+    skos:prefLabel "Zensur und Buchdruck"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.4> a skos:Concept ;
+    skos:notation "n01.2pso.4" ;
+    skos:prefLabel "Policey der Verwaltung und Justiz"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1> a skos:Concept ;
+    skos:notation "n01.3prh.1" ;
+    skos:prefLabel "Gesundheitswesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.2> a skos:Concept ;
+    skos:notation "n01.3prh.2" ;
+    skos:prefLabel "Sozialwesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.3> a skos:Concept ;
+    skos:notation "n01.3prh.3" ;
+    skos:prefLabel "Erziehungswesen ; Kultur"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1> a skos:Concept ;
+    skos:notation "n01.4esp.1" ;
+    skos:prefLabel "Landwirtschaft"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.2> a skos:Concept ;
+    skos:notation "n01.4esp.2" ;
+    skos:prefLabel "Forst- und Bodennutzung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.3> a skos:Concept ;
+    skos:notation "n01.4esp.3" ;
+    skos:prefLabel "Produktion"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.4> a skos:Concept ;
+    skos:notation "n01.4esp.4" ;
+    skos:prefLabel "Arbeitsordnung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5> a skos:Concept ;
+    skos:notation "n01.4esp.5" ;
+    skos:prefLabel "Handwerk und Gewerbe"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6> a skos:Concept ;
+    skos:notation "n01.4esp.6" ;
+    skos:prefLabel "Handel und Dienstleistungen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.7> a skos:Concept ;
+    skos:notation "n01.4esp.7" ;
+    skos:prefLabel "Geld- und Kreditwesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.1> a skos:Concept ;
+    skos:notation "n01.5ldp.1" ;
+    skos:prefLabel "Wasser"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.2> a skos:Concept ;
+    skos:notation "n01.5ldp.2" ;
+    skos:prefLabel "Straßen, Verkehr und Post"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.3> a skos:Concept ;
+    skos:notation "n01.5ldp.3" ;
+    skos:prefLabel "Grundstücks- und Bodenordnung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.4> a skos:Concept ;
+    skos:notation "n01.5ldp.4" ;
+    skos:prefLabel "Bauwesen und Infrastruktur"@de .
+

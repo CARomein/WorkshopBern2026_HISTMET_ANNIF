@@ -1,0 +1,213 @@
+Law ID: BER.01.001.1970
+Name: An die Herren Decanen. Die Capitel zehalten. Item der Bätlerordnung halb. An die Teütschen Ambtleüth. Ob idem.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 202/202
+# High similarity (>=50%): 177
+# Low similarity (<50%): 25
+# Not found: 0
+#
+#facs_350_r2l1 Maius
+#facs_350_r2l2 Lenzburg.
+#facs_350_r2l3 Königsfelden vonstag den,
+#facs_350_r2l4 Schenckenberg
+#facs_350_r2l5 Fritag den
+#facs_350_r2l6 Hiberstein.
+#facs_350_r2l7 2
+#facs_350_r2l8 Wrburg
+#facs_350_r2l9 s
+#facs_350_r2l10 Hoffingen.
+#facs_350_r2l11 Sambstag den 3
+#facs_350_r2l12 <gap/>
+#facs_350_r2l13 Arwangen) Montag den 5
+#facs_350_r2l14 Bipp. R
+#facs_350_r2l15 C. D. Rolle mit Eindt
+#facs_350_r2l16 Wangen
+#facs_350_r2l17 Zinstag d. 6.
+#facs_350_r2l18 Landtshut
+#facs_350_r2l19 Fraubrunnes
+#facs_350_r2l20 Burgdorff
+#facs_350_r2l21 2
+#facs_350_r2l22 Mit Wochen den 7.
+#facs_350_r2l23 Thorberg Chinctag den 9
+#facs_350_r2l24 Tydouw.
+#facs_350_r2l25 Bären. -
+#facs_350_r2l26 2
+#facs_350_r2l27 Weesstad Sambstag den 10
+#facs_350_r2l28 Sr. Johans Jesul
+#facs_350_r2l29 Montagen den 12
+#facs_350_r2l30 Erlach
+#facs_350_r4l1 Mains
+#facs_350_r4l2 -
+#facs_350_r4l3 Arberg
+#facs_350_r4l4 Coupen.
+#facs_350_r4l5 Zinsag den 13.
+#facs_350_r4l6 d
+#facs_350_r4l7 Frie nifferg
+#facs_350_r4l8 Buchsee.
+#facs_350_r4l9 dait wochen.
+#facs_350_r4l10 Brandis
+#facs_350_r4l11 Signorum
+#facs_350_r4l12 Sonstagen 15
+#facs_350_r4l13 Trachselwaldt
+#facs_350_r4l14 Thun
+#facs_350_r4l15 Christag
+#facs_350_r4l16 Oberhoffen
+#facs_350_r4l17 Underseen. I Sambstag
+#facs_350_r4l18 Interlacken
+#facs_350_r4l19 Firutingen: Lenontag.
+#facs_350_r4l20 u
+#facs_350_r4l21 Wimis
+#facs_350_r4l22 Zinstag.
+#facs_350_r4l23 Zweyseines
+#facs_350_r4l24 Sanen.
+#facs_350_r4l25 Zenitweichen
+#facs_350_r4l26 älen
+#facs_350_r5l1 An die Herren Decanen.
+#facs_350_r5l2 1689
+#facs_350_r5l3 Die Capittel zuhalten.
+#facs_350_r5l4 ;
+#facs_350_r5l5 g. den dat lavendraine Hall.
+#facs_350_r5l6 Schuldtheis und Raht der Stadt Gem. etc.
+#facs_350_r5l7 Collathiß ei herzunachender gewohnter Zeit der Capitlenhaetung
+#facs_350_r5l8 habend wir nich hiemit beneichen wollen, en werd theils
+#facs_350_r5l9 ouest
+#facs_350_r5l10 Daßelbe auff den Tag, wie andere mahl gebraucht worden, an:
+#facs_350_r5l11 Zestellen, und in selbiger versamlung dahin zuhandlen undt
+#facs_350_r5l12 -
+#facs_350_r5l13 hand obzthalten, daß die Censuren, vmb welche es Zethun,
+#facs_350_r5l14 gut vnparteyisch vnd nit minder ernstlich ohne schonen ver¬
+#facs_350_r5l15 richtet, vnd du an dem einten oder anderen Capitelt bruder
+#facs_350_r5l16 befindenden mengel, ohne nachsechen mit nohtwendigen
+#facs_350_r5l17 Umbstenden, beschriben, und die Acta hernach bei Zeiten
+#facs_350_r5l18 seines orts als in eingebracht werdirt. Alß wir nur
+#facs_350_r5l19 Zu eich, vnd der gantzen versamlung, deren auch vnser
+#facs_350_r5l20 Ambtleüth fleißiger alß bißhar beizwohnen ermahnt
+#facs_350_r5l21 werdend versichend.
+#facs_350_r5l22 Und weilen uns für ein mangel und Inobservation
+#facs_350_r5l23 Der Bätlerordnung fürkommen, daß wil deren so solcher
+#facs_350_r5l24 ordnung nach, ihre handreichung von ihrer Gemeindt
+#facs_350_r5l25 Da sie anheim sich sind, zuempfachen habend, deren sich nit
+#facs_350_r5l26 Vermüeges, sonder an Vernachbarte orth auch lauffend,
+#facs_350_r5l27 Dazu auch frömbde umbleüsser auch hin und her sich.
+#facs_350_r5l28 finden laßen, habend wir deme Zubegegnen, mit
+#facs_351_r3l1 nur unseren Ambtleüthen zugeschriben, sondern darbe
+#facs_351_r3l2 gutfunden, daß in den Capietzler den Kirchendie neren Insgene¬
+#facs_351_r3l3 dans les uns
+#facs_351_r3l4 vnd Jedem Ins besonder, insinuirt werde, bej den Gemeinden
+#facs_351_r3l5 Die besondere anstalt gethun, vnd hand obgehalten, daß solches
+#facs_351_r3l6 gelauff den einden und anderes verwehrt, vnd die Einheimsche
+#facs_351_r3l7 Durch nohtwendiger Zusprechen, bej Haus behalten, vnder den
+#facs_351_r3l8 Landtsfrömbden aber, die so leibt halber zur arbeit zu
+#facs_351_r3l9 brauchen sind, auff vnsere vestung Arburg geschickt werd
+#facs_351_r3l10 alwo sie zur arbeit gehalten werden sollind, das werde
+#facs_351_r3l11 nun Ihr, neben vnseren Ins Capital kommenden Ambtleüthen
+#facs_351_r3l12 ansezeuchen, und in solche vnd erred kommen Zelaßen wüßen,
+#facs_351_r3l13 Welche zur Execution dises unsnes Ansechens erheb- und
+#facs_351_r3l14 annorderlich sein mag. Datum 4. Aprilis 1673
+#facs_351_r3l15 An die Teütschen Ambtleüth.
+#facs_351_r3l16 Ob Idem
+#facs_351_r3l17 Schuldtheiß undt Raht der Stadt Bern.
+#facs_351_r3l18 Bei herzunachender gewohnter Zeit der Capitlen Haltung
+#facs_351_r3l19 abend Wie den befrech an die Decanen ergehen laßen, die
+#facs_351_r3l20 selben Zeuersamlen, vnd darbej fand obzuhalten, daß die Censuren
+#facs_351_r3l21 rechten armsts verrichtet, die befindtlichen mengel ohne
+#facs_351_r3l22 schonen, angezeigt, vnd in die Acta gebracht werd int. Die
+#facs_351_r3l23 Er mit zugleich beuechende, Dich in selbiger versamlung
+#facs_351_r3l24 gehöriger und ervorderlicher maßen, auch eingebefindes
+#facs_351_r5l1 91
+#facs_351_r5l2 Das was bedeüter maßen fürfalt, rechten ernsts verhandlen
+#facs_351_r5l3 Zehlffen: vnd das ohnauß bleibenlich vnd bej deiner vff dir
+#facs_351_r5l4 6
+#facs_351_r5l5 habenden Eydt- vnd Ambtspflicht: deren Wir dan dich hierun¬
+#facs_351_r5l6 .
+#facs_351_r5l7 Darumb vnd der vrsachen zuerinneren gehabt, Weilen biß har
+#facs_351_r5l8 Gahr wenig vnser Ambtileüthe, in den Capitlen einbefunden,
+#facs_351_r5l9 -
+#facs_351_r5l10 haben, Wir aber solche negligentz keinem mehr nachzusetzen,
+#facs_351_r5l11 sondern den, oder die Jenigen, die Wie nit in den für mus¬
+#facs_351_r5l12 kommenden Actis, für solche die denselben beigemohnt, vnder:
+#facs_351_r5l13 schreiben finden werdendt, hierum sonderbahr zu red zustellen;
+#facs_351_r5l14 Und die verunre gebühr gegen ihme fürzenenden gemeint
+#facs_351_r5l15 sind; Und wan vielleicht die Zeit des Capitels haltung
+#facs_351_r5l16 a-
+#facs_351_r5l17 vff die Zeit fallen wurde, die die Zur Zur abergung deiner
+#facs_351_r5l18 Ambts Rechnung bestimt ist, laßend wir geschehen, daß die
+#facs_351_r5l19 Besuchung des Capitels vorzreichen, und erst nach demselben,
+#facs_351_r5l20 Die alßbaldt zur ablegung der Rechnung auch harkommen
+#facs_351_r5l21 -
+#facs_351_r5l22 mögest und sölle f. Darnach weiste dich zuhalten
+#facs_351_r5l23 Vndt weilen vns für ein mangel und Inobservation der
+#facs_351_r5l24 Bätlne-ordnung fürkommen, daß wil deren so solcher ordnung
+#facs_351_r5l25 nach, ihre Erhaltungs-midhel von den Chmeinden, da sie
+#facs_351_r5l26 anheimsch sind, Zugenießen habend, deren sich nit vermügen,
+#facs_351_r5l27 sonder an vernachbarte ort dem bächel nach Lauffind,
+#facs_351_r5l28 Darzu auch frömbde Vmbleüffer, oder Landtstreichende
+#facs_351_r5l29 Baten hin vnd her angetroffen werdirt, Alß habend
+#facs_351_r5l30 Wir gutfunden, daß deme Zabe gegnen, in den Capitlen ein
+#facs_351_r5l31 Anzug beschechehe, dahin namblich, daß ein Jeder Kirchendiener
+#facs_351_r5l32 bej den ihme angehörigen Gemeinden durch noht wendiges=
+#facs_351_r5l33 zusprechen verschaffen und hand obhalten sollen,
+#facs_352_r1l1 1692
+#facs_352_r1l2 Daß die Sinse imbschen sich deßen, was sie von den hrsmeinen
+#facs_352_r1l3 haben, Zeüer nuegen anheimbsch bleibind: Die Landtsfröne
+#facs_352_r1l4 aber, so zur arbeit zebrauchen, ergriffen, vnd auff vnsere
+#facs_352_r1l5 vestung Erbneg gefüert werdint, sie alda zur arbeit zu
+#facs_352_r1l6 halten: Die Leibs unvermüglichen aber sollend der ordnung
+#facs_352_r1l7 nach, vff die grenzen gefüehrt, und vortgefährt und
+#facs_352_r1l8 gewisen werden.
+#facs_352_r1l9 Darbey aber habend wir der Stechen halb, weilen sie
+#facs_352_r1l10 Nur an Härge, verstandner maßen die, so obgedachtermaßen, daß ihre
+#facs_352_r1l11 Lenzburg, Konigi
+#facs_352_r1l12 felden Schencken
+#facs_352_r1l13 Gemeinden, Umbs allmusens willen zu ihnen komend, deßa
+#facs_352_r1l14 berg undt
+#facs_352_r1l15 abgeweisen nit gemeint, sonder ihnen handreichung zethun
+#facs_352_r1l16 Biberstein
+#facs_352_r1l17 gepietig sind, disen vnderscheid machen wollen, daß zwar
+#facs_352_r1l18 Denen ab dem Landt das hinein Lauffen in die Stäch, von
+#facs_352_r1l19 gedachter maßen verwehrt: darbej aber die vnsere
+#facs_352_r1l20 in den Stetten dahin gewisen sein sollin, das was
+#facs_352_r1l21 sie dis orts gegen ihnen freywillig Zethun gemeint
+#facs_352_r1l22 sind, nindt woders durch einen Wuchentlich vnder ihne
+#facs_352_r1l23 selbs erhebenden Zusamenschen, oder sonst vnß Ihren
+#facs_352_r1l24 gemeinen mitlen, den angedeüten vernachbarten Armen
+#facs_352_r1l25 in den Dörfferen, zu bestimten Zeiten, Überreichen,
+#facs_352_r1l26 vnd in die hand der Omeinden, zur ordenlichen
+#facs_352_r1l27 Austheilung, oder anderer gestaeten ablegen Ze¬
+#facs_352_r1l28 laßen, wie es der einten oder anderen Stadt
+#facs_352_r1l29 selbs belieben Wirt.
+#facs_352_r2l1 burg
+#facs_352_r2l2 hin
+#facs_352_r3l1 69b
+#facs_352_r3l2 Dir hiemit brüeichend, Im einten vnd anderen stuck, Im¬
+#facs_352_r3l3 Capitel, und hernach, so weit es umb die Execution vndt
+#facs_352_r3l4 und obhaltung Zethun, das deine beizetragen, vnd dir die
+#facs_352_r3l5 bestendige erhaltung mehrgedachter Ordnung recht angelegen
+#facs_352_r3l6 ein Zelaßen Quod auch die Landtsfrömbde, Bäthler so dir
+#facs_352_r3l7 gedacht er maßen Überbracht werden, anzunemen, undt
+#facs_352_r3l8 Zur Arbeit anhalten Zelaßen, alß wir uns zu dir
+#facs_352_r3l9 Versechend. Datum 4. Aprilis 1673.
+#facs_352_r3l10 eine
+#facs_352_r3l11 .
+#facs_352_r3l12 Oost Scriptum
+#facs_352_r3l13 Vnd weilen, Wie wir mit mißfallen vernemend, die außge-
+#facs_352_r3l14 Schreibner Bätler-ordnung schlechtlich beobachtet vnd gehalten -
+#facs_352_r3l15 Werde, Alß ist vnser beneven, daß im Capitel deßen vnderli¬
+#facs_352_r3l16 gedacht, vnd von Jedem Kirchendiener deütlicher bericht
+#facs_352_r3l17 wie es in seiner Kirchen ginein darmit hergange, und
+#facs_352_r3l18 ob die ordnung in den einen oder anderen Weg gehalten
+#facs_352_r3l19 Werde, oder mit, und was für mangel Jedes orts vor¬
+#facs_352_r3l20 handen seye, begehrt, derselbe verzeichnet, und darüber
+#facs_352_r3l21 von mitlen und Expedienten geredt werden solle, wie
+#facs_352_r3l22 solche mengel Jedes orts zuerbesseren, und nach dem
+#facs_352_r3l23 Verstand der Ordnung, die Sach anderst undt also an¬
+#facs_352_r3l24 Zestellen, daß dem Werck sein genüegen widtfahre, vnd
+#facs_352_r3l25 aller bißharige mangel verbeßeret werde. Darzu dan
+#facs_352_r3l26 Du so vil die Execution betrifft, zur selben haid obhalten,
+#facs_352_r3l27 und Wie dieselbe ervolget, oder woran es sich stoßen,
+#facs_352_r3l28 vnd obiger anstaet vngeacht, er wirden wolle vns in
+#facs_352_r3l29 Monats frist berichten sollt vnd wirst. Alß wie Uns
+#facs_352_r3l30 Vorsechend. Datum et supra.

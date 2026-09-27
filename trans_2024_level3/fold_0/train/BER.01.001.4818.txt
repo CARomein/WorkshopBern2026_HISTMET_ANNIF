@@ -1,0 +1,93 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 85/86
+# High similarity (>=80%): 80
+# Low similarity (<80%): 5
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4818
+#facs_4_r3l2 Verordnung.
+#facs_239_r5l12 in Betref der Erleichterung des Verkehrs mit Getreys
+#facs_239_r5l13 zwischen den Angehörigen beider Lobl. Stände Bern und
+#facs_239_r5l14 Freyburg
+#facs_239_r5l15 An die an Freyburg angrenzenden Herren Amtleute
+#facs_239_r5l16 denen Mürten und Tscherliz, item per Jedel an Kornbammer
+#facs_239_r3l13 Schulthei und Rath der Stadt Bern
+#facs_239_r5l18 zu Erleichterung des Verkehrs mit Getreys zwischen
+#facs_239_r5l19 Unsren Lieben und Getreuen Angehörigen mit denen
+#facs_239_r5l20 Lobl. Standes Freyburg, haben Wir verordnet, was in
+#facs_239_r5l21 beyliegender Publikation enthalten ist, welche Euch zu
+#facs_239_r5l22 gestandt wird um solche behöriger massen publiziren
+#facs_239_r5l23 zulaßen. Datum den 9ten Februar 1797.
+#facs_88_r1l1 166.
+#facs_222_r2l1 Collet
+#facs_7_r1l1 6
+#facs_67_r3l14 Publication
+#facs_240_r3l2 wir Bultheis, klein und große Räthe der Nadt und
+#facs_240_r3l3 Republirtern, entbieten allen Unsern lieben
+#facs_240_r3l4 und getreuen Bürgern und Angehörigen zu Stadt
+#facs_240_r3l5 und Land unsern gnädigen und geneigten Willen
+#facs_22_r2l17 und geben ihnen hierdurch zu vernehmen.
+#facs_240_r3l7 daß, da ausser beständiges Augenmerk da
+#facs_240_r3l8 Im Gerichtet ist, den Wohlstand Unserer Lieber,
+#facs_55_r2l7 und getreuen Angehörigen, Butter
+#facs_240_r3l10 befustigen, Wir in dieser Rüksicht bewogen
+#facs_240_r3l11 worden, unterm 28. Januar 1795. zur Ver¬
+#facs_240_r3l12 minderung des damals so hohen Getreid
+#facs_240_r3l13 preistes, zu verordnen.
+#facs_240_r3l14 daß einem dreyburgischen Immediat an
+#facs_240_r3l15 gehörigen, der persönlich auf einem hiesigen
+#facs_240_r3l16 vochenmarkt erscheint, bewilliget seye, auf
+#facs_240_r3l17 Vorweisung eines behörigen Scheins von einem
+#facs_240_r3l18 vorgesezten seines Orts, für seine Haushaltung
+#facs_240_r3l19 allein 4. Maas Getreid anzukaufen;
+#facs_240_r3l20 Daß den Angehörigen der Mediat Ämter
+#facs_240_r3l21 hingegen nur bewilligt seye, wochentlich 2. Maart
+#facs_240_r3l22 Der Handhaltung anzukauffen, eine Person
+#facs_240_r3l23 aber sich mit 3. Ankaufs zedlen für seine Nach¬
+#facs_240_r3l24 baren beladen, mithin in allem acht Mäs wochent¬
+#facs_240_r3l25 lich ankaufen könne.
+#facs_240_r3l26 Da nun, dank sey es der göttlichen Vorsehung
+#facs_104_r3l26 den
+#facs_88_r3l1 167
+#facs_240_r4l2 die Getreide Preise beträchtlich gefallen sind; so habe
+#facs_240_r4l3 Wir, nach der mit dem Lobl. Stand Freyburg getroffe¬
+#facs_240_r4l4 nen Übereinkunft, gutbefunden, obgedachte Verord¬
+#facs_240_r4l5 nung dahin abzuändern, und hiemit zu verordnen;
+#facs_240_r4l6 1° Daß von nun an den Immediat Angehörigen des
+#facs_240_r4l7 Lobl. Stands Freyburg bewilliget seye, auf Vorweis
+#facs_240_r4l8 ung der eingeführten = von einem vorgesezten
+#facs_240_r4l9 der Gemeind unterschriebenen Certificate, daß das an
+#facs_240_r4l10 zu kaufende Getreid für seinen Hausgebrauch bestimm¬
+#facs_240_r4l11 seye, wochentlich 4. Maas Getreu anzukauffen.
+#facs_240_r4l12 und daß hierbey einer Person gestattet sey, sich mit
+#facs_240_r4l13 fünf andern zudeln für seine Nachbaren zu beladen
+#facs_240_r4l14 mithin in allem 24. Maas Getreid ankauffen konnte.
+#facs_240_r4l15 la denn Unsere Immediat angehörige auf den Män¬
+#facs_240_r4l16 ten des Löbl. Standes Freyburg den gleichen Vortheil
+#facs_240_r4l17 genießen werden.
+#facs_240_r4l18 2° Daß diese Verordnung ebenfalls auch auf die
+#facs_240_r4l19 Mediat Amter, Murten, Grandston und Theolch
+#facs_240_r4l20 aus gedehnt seyn solle, und mithin den Mediat Ange¬
+#facs_240_r4l21 hörigen gestattet seye, hinter jedem Amt vier Maa¬
+#facs_240_r4l22 per Haushaltung, wie den Immediat angehörigen
+#facs_240_r4l23 des andern Standes, anzukaufen, und sich auch
+#facs_240_r4l24 mit fünf zedlen zu beladen,
+#facs_240_r4l25 Würde sich nun jemand mit mehr als obge¬
+#facs_240_r4l26 meldten sechs Ankaufs ze dlen beladen, oder
+#facs_240_r4l27 würde sonst betrug damit getrieben werden
+#facs_5_r1l1 2.
+#facs_90_r1l1 168
+#facs_217_r2l1 Collets
+#facs_7_r2l1 3
+#facs_241_r3l1 so soll der Fehlbare für das erstemal mit der
+#facs_241_r3l2 Consistation der erkauften Getreides beyder zweiten
+#facs_241_r3l3 und mehrere Wiederhandlung aber mit eben
+#facs_250_r3l9 der Confiscation und einer Geldbufts des¬
+#facs_241_r3l5 derselben belegt werden: wo von dann
+#facs_241_r3l6 Dritter dem Fisco zu fallen, ein Drittel dem
+#facs_241_r3l7 Amtsmann des Orts, und ein Drittel dem
+#facs_241_r3l8 Verleider zu kommen soll.
+#facs_186_r4l11 Geben in Unserer Großen Raths-Ver¬
+#facs_241_r3l10 sammlung, den 5ten Februar 1797.
+#facs_98_r5l28 en

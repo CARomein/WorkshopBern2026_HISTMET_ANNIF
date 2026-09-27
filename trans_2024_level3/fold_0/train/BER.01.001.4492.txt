@@ -1,0 +1,45 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 38/38
+# High similarity (>=80%): 34
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_216_r4l13 Dem Blachs= und Wersch Dörren¬
+#facs_3_region_1629374296225_399l1 An
+#facs_176_r4l6 Alle Teütsch und Welsche Herren Amtleüt
+#facs_176_r2l15 4. Städt, Freybeibel und Amann
+#facs_216_r2l4 lengen
+#facs_216_r4l13 Dem Blachs= und Wersch Dörren¬
+#facs_126_r2l12 Schultheis und Raths-
+#facs_216_r4l15 wieder, durch das in Dörfern vorgenommen
+#facs_216_r4l16 flachs- und Wach-Dörren, entstandene
+#facs_216_r4l17 Unglüksfälle, haben uns veranlaßet.
+#facs_216_r4l18 zu verhütung derselben, solches darin
+#facs_216_r4l19 gänzlichen zu verbieten, daß niemand
+#facs_216_r4l20 mehr gestadket seyn soll, einliches Werg
+#facs_216_r4l21 oder Flachs anderswo als außer dem
+#facs_216_r4l22 Dörfern, und zwar auf den offenen
+#facs_216_r4l23 Felderen, oder wenigstens Hundert Schritte
+#facs_28_r1l1 52
+#facs_165_r3l1 oll.
+#facs_217_r3l1 von all möglichen Gebäuden, zu dörren
+#facs_217_r3l2 und zu brechen, alles unter einer
+#facs_217_r3l3 Straffe von lb. 10. Ruß zu handen des
+#facs_217_r3l4 verleiders.
+#facs_217_r3l5 Wann aber unglükliche Feürsbrunste
+#facs_217_r3l6 aus dißortigem Versehen entstehen,
+#facs_217_r3l7 so sollen die Fehlbaren mit Gefangenschaft,
+#facs_217_r3l8 oder je nach den Umständen mit
+#facs_217_r3l9 harterer Strafe belegt werden; und
+#facs_217_r3l10 sich weder Braussteuer noch Collect zu
+#facs_217_r3l11 getrösten haben.
+#facs_217_r3l12 Welch Unsere Verordnung Ihr von
+#facs_217_r3l13 Canzeln verlesen, und samtlichen Vorge¬
+#facs_217_r3l14 sezten Euers Amts, die genauste
+#facs_217_r3l15 Verbachtung, in Verleidung der Fehlbaren
+#facs_217_r3l16 anbefehlen - zugleich aber selbige in die
+#facs_217_r3l17 Mandaten Bücher des Schloßes einschreiben
+#facs_226_r3l21 laßen werdet.
+#facs_178_r8l1 en

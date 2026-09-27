@@ -1,0 +1,36 @@
+Law ID: BER.01.001.3065
+Name: Die erschlagenen Körper öffnen zelassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 25/25
+# High similarity (>=50%): 24
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_232_r4l23 2
+#facs_232_r4l24 Huc pertinet das Mandat
+#facs_232_r4l25 an W. Ambt Laüth wegen der Neuen Gerichts¬
+#facs_232_r4l26 Cösten Ordnung, dem Landtspressuren
+#facs_232_r4l27 Analle W. Ambt Leüts
+#facs_232_r4l28 Decreta Coram 200
+#facs_232_r4l29 9. Sept. 1711.
+#facs_232_r4l30 wede pag: 454.55. Die Erschlagene Jörper öffnen zelaßen.
+#facs_232_r4l31 16 et 37 x Schultheiß und Rath der Statt Bey¬
+#facs_232_r4l32 Collatl. AußEtliche Eine Zeith daher Uns Einge¬
+#facs_232_r4l33 Schikten Proceduren habend Wir
+#facs_233_r3l1 daß wan leider Todtschlag vorgangen
+#facs_233_r3l2 die Cörper nicht geöffnet und besichtiget,
+#facs_233_r3l3 und wie die Sachen sich befunden, den
+#facs_233_r3l4 Proceduren nicht Eingesezt worden; Wo¬
+#facs_233_r3l5 rüber Wir dir gleich gegen Übrigen-
+#facs_233_r3l6 Ambtleüthen welltschen Landts auch be¬
+#facs_233_r3l7 " schicht, befohlen haben wollend, hinkünfftig
+#facs_233_r3l8 wan dergleichen leidige Casus sich zu¬
+#facs_233_r3l9 tragen die Corper geöffneten visitiert
+#facs_233_r3l10 und die Befindtnuß den Proceduren
+#facs_233_r3l11 Einverleiben zulaßen; Wie zethun und den
+#facs_233_r3l12 gerichten solches zu könfftiger nach¬
+#facs_233_r3l13 richt zu verdeuten laßen wirst. Dab.
+#facs_233_r3l14 d. 10. Septembris. 1711.

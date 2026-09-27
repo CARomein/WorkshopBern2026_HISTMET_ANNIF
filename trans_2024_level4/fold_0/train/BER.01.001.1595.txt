@@ -1,0 +1,33 @@
+Law ID: BER.01.001.1595
+Name: Deren von Genff Ankunfft berichten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 22/22
+# High similarity (>=50%): 18
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_313_r7l1 of
+#facs_313_r7l2 -
+#facs_313_r7l3 2,
+#facs_314_r2l1 1656.
+#facs_314_r2l2 An Neuis, Morsee, Zuerden, Erlach.
+#facs_314_r2l3 Frienisperg, Burgdorff.
+#facs_314_r2l4 Deren von Genff ankunfft berichten
+#facs_314_r2l5 Schuldtheiß undt Raht der Stadt Bern etc.
+#facs_314_r2l6 Es werdend drey Compareyen Fus volck von Genff vff
+#facs_314_r2l7 brechen, Vndt den 6. daß Monats zu Neuis den 7. zu Cossonax
+#facs_314_r2l8 Den 8. Zu Ifferten den 9. zu Collombier oder Affernach zuuer
+#facs_314_r2l9 Neüwenburg den 10. zu Inß den 11. Zu Schüpfen vndt den 12
+#facs_314_r2l10 zu Weinungen ankommen, deßen wir sich nachrichtlich berichten
+#facs_314_r2l11 Vndt darbe ansinnen wollen, die vnuerweilte anstalt zethun
+#facs_314_r2l12 Daß sy mit nahrungs mitlen, gegen gebürender bezalung Ver¬
+#facs_314_r2l13 sechen werdind: Wie wir vns versechend. Datum 3. Jan: 1650,
+#facs_314_r2l14 Appendix an Zuerden
+#facs_314_r2l15 Es ist darbey auch vnser gesinnen hiemit an Dich, Zeuerschaffte,
+#facs_314_r2l16 daß zwey große Schifffertig gehalten, damit Im fahl bey
+#facs_314_r2l17 quemer Witterung, die Völker durch ein Verordnung zu Schiffe
+#facs_314_r2l18 näher Mürten geführt, vndt Neüwenburg alsobald berichtet,
+#facs_314_r2l19 Daß sij nit dort durch passeren werdend. Datum ut supra.

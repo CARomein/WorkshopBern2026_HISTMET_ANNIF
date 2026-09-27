@@ -1,0 +1,164 @@
+Law ID: BER.01.001.3041
+Name: Von Liechtmöss biss Barthlomey alles Hetzen und Jagen einstellen, [...] wie sub 22. January 1710.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 153/153
+# High similarity (>=50%): 144
+# Low similarity (<50%): 9
+# Not found: 0
+#
+#facs_203_r3l1 Beschriebung der Teütjesen H. Ambt¬
+#facs_203_r3l2 Leüthen auff dero Rechnungs Ablaag.
+#facs_203_r3l3 Februarius
+#facs_203_r3l4 Thorberg 2 Donstags
+#facs_203_r3l5 b.
+#facs_203_r3l6 Burgdorff
+#facs_203_r3l7 frey Tags
+#facs_203_r3l8 27.
+#facs_203_r3l9 Thun
+#facs_203_r3l10 Interlaken
+#facs_203_r3l11 Frauwbrunnen) Sambstags
+#facs_203_r3l12 28.
+#facs_203_r3l13 Buchsee
+#facs_203_r3l14 Martius.
+#facs_203_r3l15 Brieußberg Montags
+#facs_203_r3l16 2.
+#facs_203_r3l17 Beuren
+#facs_203_r3l18 11
+#facs_203_r3l19 Landtschut  zinstags
+#facs_203_r3l20 1
+#facs_203_r3l21 Arberg
+#facs_203_r3l22 Paupen
+#facs_203_r3l23 13.
+#facs_203_r3l24 Underspittahl Freytagt
+#facs_203_r3l25 Gottstat
+#facs_203_r3l26 14.
+#facs_203_r3l27 Erlay
+#facs_203_r3l28 St. Johansen Sambstags
+#facs_203_r3l29 Ober Spittahl
+#facs_203_r3l30 16
+#facs_203_r3l31 Wangen
+#facs_203_r3l32 Montags
+#facs_203_r3l33 Bipp
+#facs_203_r3l34 17
+#facs_203_r3l35 Arvangen. Dinstags
+#facs_203_r3l36 Summisswald.
+#facs_203_r3l37 18
+#facs_203_r3l38 Mittwochens
+#facs_203_r3l39 2
+#facs_203_r3l40 Stiff
+#facs_203_r3l41 St. Johanfer Haus.
+#facs_203_r3l42 19
+#facs_203_r3l43 Sonstags
+#facs_203_r3l44 Bauwherr pp
+#facs_203_r3l45 Krienißberg Haus
+#facs_203_r3l46 20.1
+#facs_203_r3l47 Signau
+#facs_203_r3l48 Oberhoffen Kreytags
+#facs_203_r3l49 Brandiß
+#facs_204_r2l1 Martius
+#facs_204_r2l2 Wimniß
+#facs_204_r2l3 Sambstags
+#facs_204_r2l4 prutigen
+#facs_204_r2l5 21.
+#facs_204_r2l6 Zweysimmer
+#facs_204_r2l7 Untersean¬
+#facs_204_r2l8 Insull
+#facs_204_r2l9 Montego
+#facs_204_r2l10 Interlaker Haus
+#facs_204_r2l11 23.
+#facs_204_r2l12 hatt is weyll
+#facs_204_r2l13 Siechenhauß
+#facs_204_r2l14 Zinstags
+#facs_204_r2l15 24 x
+#facs_204_r2l16 Mußhaffen
+#facs_204_r2l17 Kornherr
+#facs_204_r2l18 30.
+#facs_204_r2l19 th
+#facs_204_r2l20 de la
+#facs_204_r2l21 Montags
+#facs_204_r2l22 Lentzburg
+#facs_204_r2l23 Biberstein)
+#facs_204_r2l24 31
+#facs_204_r2l25 Sanen Dinstags
+#facs_204_r2l26 Aprilis,
+#facs_204_r2l27 Ahlen
+#facs_204_r2l28 dans la derniere séance dans les
+#facs_204_r2l29 1
+#facs_204_r2l30 Arburg? Mittwochens.
+#facs_204_r2l31 Hoffingeng
+#facs_204_r2l32 3.
+#facs_204_r2l33 Trachselwald Freytagt
+#facs_204_r2l34 Nydaen
+#facs_204_r2l35 Schenkenborg  sambstags.
+#facs_204_r2l36 4
+#facs_204_r2l37 Köngsfelden
+#facs_204_r2l38 Tag ansetzung zu ablag der Welltschen
+#facs_204_r2l39 herren Ambtleüthen Rechnungen
+#facs_204_r2l40 auf Ostern 1711.
+#facs_204_r2l41 Martiey
+#facs_204_r2l42 ab
+#facs_204_r2l43 Causanne aud
+#facs_204_r2l44 24. Apr.
+#facs_204_r2l45 Morter auff
+#facs_204_r2l46 4. Marty
+#facs_204_r2l47 Neüos auf
+#facs_204_r2l48 2. May
+#facs_204_r2l49 Bonmont a und
+#facs_204_r4l1 395
+#facs_204_r4l2 Romainmostier
+#facs_204_r4l3 24. Marty
+#facs_204_r4l4 C. Marti
+#facs_204_r4l5 Verdun auf
+#facs_204_r4l6 7.
+#facs_204_r4l7 dto
+#facs_204_r4l8 Avanche auf
+#facs_204_r4l9 9. dto.
+#facs_204_r4l10 Payerne aud
+#facs_204_r4l11 10. dto.
+#facs_204_r4l12 Moudon auf
+#facs_204_r4l13 2e. Maij
+#facs_204_r4l14 dron auf
+#facs_204_r4l15 12. Marty.
+#facs_204_r4l16 Chillon und Lauff
+#facs_204_r4l17 Ville neufve
+#facs_204_r4l18 28 Marty
+#facs_204_r4l19 aubonne auff
+#facs_204_r4l20 An alle T. und W. Ambt Leüth. 4. Stett
+#facs_204_r4l21 Freyweibell und Amman, Item per zesell an
+#facs_204_r4l22 hiesige Säntzell.
+#facs_204_r4l23 Von Liechtmäß bis Barthlomey alles hehr
+#facs_204_r4l24 und Jagen einstellen, denn alles Hoch¬
+#facs_204_r4l25 und Feder gwilli auff 2. Jahr lang ver¬
+#facs_204_r4l26 piethen. Wir sub. 22. January 1710.
+#facs_204_r4l27 Schultheiß und Rath der Statt Bern etc.
+#facs_204_r4l28 Bey abermahlen anrukender Brunst und bruth¬
+#facs_204_r4l29 Zeith deß gewiltes, habend Wir in Erfrischung Unse¬
+#facs_204_r4l30 rer hietoriger Ordnungen, hiemit mäncklichen Zu¬
+#facs_204_r4l31 verwehrnen guthfunden, von Liechtmäß an¬
+#facs_204_r4l32 biß künfftigen Barthlomey Tag sich alles Hetzens
+#facs_204_r4l33 Jegens und schießens gäntzlichen zuünüeßigen
+#facs_204_r4l34 anbey auch Ihren zum Jagen abgerichteten
+#facs_204_r4l35 oder dem gewild nachsetzenden und verderblichen
+#facs_204_r4l36 Hunden zu allen Zeithen deß Jahrs des Jahrs
+#facs_204_r4l37 die anbefohlenen schweren Brügell anzuhänten;
+#facs_205_r3l1 Und weilen durch das eine zeith daher
+#facs_205_r3l2 verspührte hefftige nachstellen der Reb- und
+#facs_205_r3l3 Geldhüeneren, dieselben, wie auch das¬
+#facs_205_r3l4 Hoch- und Roth gewills sehr Erschöpfet und
+#facs_205_r3l5 erödet worden; alls wollend Wir auff
+#facs_205_r3l6 zwey Jahr lang jedermäncklich völlig¬
+#facs_205_r3l7 lich verpotten haben, Einichen Räbh nener
+#facs_205_r3l8 Hoch= und Rothgevild nachzusetzen, weniger
+#facs_205_r3l9 selbige ohne Unsere Belaubnuß zu
+#facs_205_r3l10 schießen oder zufellen, und er was schein
+#facs_205_r3l11 Es imer sein möchte; Alles bey der in
+#facs_205_r3l12 voriger Ordnung aufgesetter Buß und
+#facs_205_r3l13 Straff, darmit die Pöhlbahren ohne schönen
+#facs_205_r3l14 noch ansehen der Persohn Vnnachläßlich
+#facs_205_r3l15 belegt werden sollend. Welches du zu
+#facs_205_r3l16 Mancklichs Nachricht von Cantzlen ver¬
+#facs_205_r3l17 künden laßen wirst, Gott mit dir. Dat.
+#facs_205_r3l18 den 28. Januarij 1711.

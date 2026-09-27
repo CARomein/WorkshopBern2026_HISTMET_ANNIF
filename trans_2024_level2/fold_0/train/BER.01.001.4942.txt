@@ -1,0 +1,53 @@
+Law ID: BER.01.001.4942
+Name: Bewilligung Passes [...] Soldaten nach Saffoy.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 42/42
+# High similarity (>=80%): 33
+# Low similarity (<80%): 9
+# Not found: 0
+#
+#facs_203_r4l1 400
+#facs_165_r3l1 An Tütsche und welche Amptluth
+#facs_203_r4l3 Freyweibel Nummern. 4. stedt Junu ergeüde
+#facs_203_r4l4 schrybenn
+#facs_203_r4l5 Bewilligung payes hs. 16sten
+#facs_203_r4l6 am zyn, soldatr, nach saffoy
+#facs_203_r4l7 Demnach der Vnnd erer betrachthung
+#facs_203_r4l8 daß der St. Kanopischen ambassaderenn zu Lucram schriftlich
+#facs_203_r4l9 begärenn denn Kriegsknechtenn So zu Erfüllung des Hr obersten
+#facs_203_r4l10 vom Regiment zu Samy berüft werdenn, denn pas der
+#facs_203_r4l11 gestalt der bewilligedt durch vnser Lannd. das Sy die durch
+#facs_203_r4l12 fürer der staldt Insiledet werdinde, das sy sich durch
+#facs_203_r4l13 gleytlich Rüdeig vnnd styll ane der unseren beschwerdt
+#facs_203_r4l14 noch klarftig aldinnet, vnnd Ir pis vund trank da
+#facs_203_r4l15 gebürlichenn pris bezalind vnnd gestraks die Weilung
+#facs_203_r4l16 trupen Ays vnnd nitt Samenthaft Sunders durch zu
+#facs_203_r4l17 25 durch zu sind. Haben wyr dich deßen zu diener nach¬
+#facs_203_r4l18 richtung ste tendigenn. Hienebenn ernstig zuwinden wolle
+#facs_203_r4l19 deil, wie gepüren das thäglich den wil Wollts durch
+#facs_203_r4l20 vnnser Landt seßüchen sich anmaßedt, vnder Vilerleitig
+#facs_203_r4l21 eürgäben vnnd schinn ene das wir vßerdt Jeniger vnd will
+#facs_203_r4l22 gung des volks halbenn So allerin dem Sanoyard zu Küchen
+#facs_203_r4l23 hol vnnd wirdt, vmb denn cas bishero gegrüst worden
+#facs_203_r4l24 weilliches Vnnd aber bedenklich vnnd vnmlidenlich für
+#facs_203_r4l25 fallen wil, das by dißen gefarlichen Selßamen geschwin¬
+#facs_203_r4l26 den Teuffenn ein Solliches gestadtede werden Sölls¬
+#facs_203_r4l27 das du an allen noht wendigen opten diuerspvalt hunl
+#facs_203_r4l28 angentl. die Vordnung thüatest angesicht die briefz, das alles
+#facs_203_r4l29 die Jenigen Soldaten So vber vnser grund vnnd bodem
+#facs_203_r4l30 leßerdt der abemelter sone glaubwürdige schin das Inein¬
+#facs_203_r4l31 hölliches (zugelaßenn) gezuchen vorhabenns zurück gedeißen
+#facs_203_r4l32 Izes vorhabenus In gebür gefragdt vnnd erforschedt, vonn
+#facs_203_r4l33 Der Stavas bedenklichs furfaldt wir berichde werd inde
+#facs_231_r3l10 40
+#facs_204_r2l1 Dännedthin So Jt Auch unser gantz Frunsthaftigen
+#facs_204_r2l2 deil unnd beneken, das forgennd vnser vorgänge wort¬
+#facs_204_r2l3 keiner vnser vnderthanenn by straf libs, läbenns, Er¬
+#facs_204_r2l4 vnnd guth, sich In Einicher Frömbder Hren vnnd haubtlück
+#facs_204_r2l5 Diemit begäbenn Sölle Allerfürderlichst kam kantz den
+#facs_204_r2l6 aff zin neües vkündige laßen Söllist. Damitt me¬
+#facs_204_r2l7 mittlich sich darvon schutten wüße datumers Inven¬
+#facs_190_r1l2 1616

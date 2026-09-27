@@ -1,0 +1,31 @@
+BER.01.001.2633
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 22/22
+# High similarity (>=50%): 21
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_130_r3l15 An allen, Chillon, Lausane,
+#facs_130_r3l16 Morsen, Schulas, Ifferten.
+#facs_130_r3l17 Verbott, den Wein an Hrömbden
+#facs_130_r3l18 Ohrt mit Zukeweüsteren.
+#facs_130_r3l19 Schultheis und Raht der Statt Vorn etc.
+#facs_130_r3l20 Bey dißmahligen Zeiten, da der Wienstock
+#facs_130_r4l1 248.
+#facs_130_r4l2 Zimblich mißrahten, und der preis deß Weins sonsten
+#facs_130_r4l3 hoch gestigen, besorgendt Wir noch eine mehrere Verthürung
+#facs_130_r4l4 desselben, wann nicht gehinderet werden solte, den
+#facs_130_r4l5 Wein an Brömbse Ohrt zuvereüsteren; In massen
+#facs_130_r4l6 Wir in erwartung fernerer anordnung, gleichetlichen
+#facs_130_r4l7 anderen Vnseren Ambtleuten, dir hiemit zu befehlen
+#facs_130_r4l8 gunt funden, allen denen Jengen Heimbschen undt
+#facs_130_r4l9 Brömbden, so einichen Wein an andern als Eydtgnössische
+#facs_130_r4l10 ohrt, denen Wir den Freyzen kauff in Bescheidenheit nicht
+#facs_130_r4l11 zuhemmen begehren, vereüsseren und abführen wolten
+#facs_130_r4l12 solcher schwar zumachen, und Zehindertriben, jedoch ohne
+#facs_130_r4l13 publication, aber einmahlen mit solcher Vorsehung, daß
+#facs_130_r4l14 dennoch der Wein im Verbleiben müsse, wie zuvaran¬
+#facs_130_r4l15 stalten deiner Vorsichtigkeit überlassen wirdt. Datum
+#facs_130_r4l16 26 Octobris 1696

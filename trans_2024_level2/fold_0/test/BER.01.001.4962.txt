@@ -1,0 +1,50 @@
+Law ID: BER.01.001.4962
+Name: Ussmusterung halb frömbder savoyscher Krämeren, unndt Kessleren.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 39/39
+# High similarity (>=80%): 21
+# Low similarity (<80%): 18
+# Not found: 0
+#
+#facs_20_r2l1 34
+#facs_97_r3l1 185
+#facs_247_r5l3 In Eüth vndt Welsch-Zimpt¬
+#facs_247_r5l4 luth, Eßumstrung halb fümbde
+#facs_247_r5l5 Saloijschen Kämpen, Vnndt
+#facs_247_r5l6 Keslenen.
+#facs_247_r5l7 Als die vijl vns Insonderheit by disen
+#facs_247_r5l8 Kriegsläufen bedenklich, vnd vnlyderlich
+#facs_247_r5l9 fürfalt allerley frömbden volcks, so
+#facs_247_r5l10 hin, Vndt wider In Vnsern gepiett
+#facs_247_r5l11 In Stett Vndt Landt Ambschweiffete
+#facs_247_r5l12 es syendt kämer kätzenbragen feßlich
+#facs_247_r5l13 thlyffer, vndt andere Ers. glijchen, so die
+#facs_247_r5l14 wol so baldt sich Jetz und mit Leysen
+#facs_247_r5l15 Ins landt laßendt vndt vnder solchem
+#facs_247_r5l16 schijn alle sachen vßspächendt, sonder¬
+#facs_247_r5l17 lich die V Sabey, Zügstel, Prenow
+#facs_247_r5l18 undt Burgund, undt andere Lümbde
+#facs_247_r5l19 So Ist vnser ernstflijßiger bevelich
+#facs_31_r4l28 4.
+#facs_248_r2l1 en die Vf solche degliche Umb¬
+#facs_248_r2l2 schweifende personen, die da mit
+#facs_248_r2l3 Eydt gesten, vndt von vns mit zu
+#facs_248_r2l5 vnderthanen angenommen sind, acht
+#facs_248_r2l6 Zelassen, undt die In dieser Tewaltung
+#facs_248_r2l7 gebetretten, by mich yffen, undt ernst
+#facs_248_r2l8 by Thrönwung der Blurst Irer wharen
+#facs_248_r2l9 undt Juff Iur prisonen och unser
+#facs_248_r2l10 landen vnd H. gepietten zu bewijsen, vndt
+#facs_248_r2l11 zegepiellen, sich In Je Heymas Zemachen
+#facs_248_r2l12 wo aber einiger nit gegensem seyn, oder
+#facs_248_r2l13 Vber das ergriffen wurde, gefencklich
+#facs_248_r2l14 Inzezüchen, undt der Vrsachen zubefragen
+#facs_248_r2l15 vndt, so zenthalb etwas aigwönigs,
+#facs_248_r2l16 oder bedencklichs fürfallen wurde
+#facs_248_r2l17 vns deßen gebeichten, wo nich, nochmals
+#facs_248_r2l18 In ihr heimat zuwysen, by Uhrbüwung
+#facs_248_r2l19 der straaff obstadt, Jaren beschicht
+#facs_248_r2l20 Vnser Will. Dat. 23. Feb. 1611.

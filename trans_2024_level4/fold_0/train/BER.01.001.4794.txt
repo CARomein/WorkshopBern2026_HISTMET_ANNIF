@@ -1,0 +1,117 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 110/110
+# High similarity (>=80%): 109
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_14_r3l8 Décembre 1794
+#facs_96_r3l17 Verbott verschiedener schlechten Scheid¬
+#facs_96_r3l18 münzen, so wie auch der alten Franz.
+#facs_96_r3l19 halben Laubthaler, und der neuen
+#facs_96_r3l20 Genferthaler
+#facs_70_r2l14 An alle deutsch und Welsche Herren Amtleut
+#facs_96_r3l22 vier Städte, Freyweibel und Ammann
+#facs_77_r2l12 Schultheis Räth und Burger
+#facs_96_r3l24 Wegen den vielen in Eurs gekommenen
+#facs_96_r3l25 schlechten Scheidmünzen, den alten abgeschlif¬
+#facs_96_r3l26 =fenen
+#facs_222_r2l1 Collet
+#facs_96_r5l1 181.
+#facs_96_r5l2 —fenen französischen zwanzig Sazen Stüken,
+#facs_96_r5l3 und den neuen Genfer Thalern, haben Wir
+#facs_96_r5l4 nöthig erachtet, eine neue Publikation ergehen¬
+#facs_96_r5l5 zu laßen; von welcher Wir Euch eine genug
+#facs_96_r5l6 same Anzahl Exemplar übersenden, um solche
+#facs_96_r5l7 üblichermaßen publicieren und in die Schloß
+#facs_96_r5l8 bücher einschreiben zu laßen
+#facs_96_r5l9 Datum den 14ten September 1795.
+#facs_75_r1l2 obed
+#facs_67_r3l14 Publication
+#facs_96_r5l12 Wir Schultheis Klein und Große Räthe
+#facs_46_r3l2 der Stadt und Republik Bern, entbieten allen
+#facs_96_r5l14 Unsern lieben und getreuen Bürgern und Ange¬
+#facs_96_r5l15 hörigen Unsern gnädigen und geneigten Willen
+#facs_96_r5l16 und geben ihnen anmit zu wißen
+#facs_96_r5l17 Daß Wir mit Unlieb haben vernehmen müssen
+#facs_96_r5l18 wie daß Unsern Münzverordnungen, und der erst
+#facs_96_r5l19 am 7ten Oktober 1793. ausgegangenen Warnung
+#facs_96_r5l20 zuwieder viele allzugeringhaltige Scheid Münzen
+#facs_96_r5l21 sich in Unsern Landen im Umlaufe befinden und
+#facs_96_r5l22 noch immer darin geworfen werden
+#facs_96_r5l23 Um nun diesem Übel zu begegnen, wollen
+#facs_96_r5l24 Wir in einiger Abänderung der Verordnung
+#facs_96_r5l25 vom 9ten Aprill 1777. alle ältern und neuere
+#facs_96_r5l26 Scheid.
+#facs_97_r1l1 182.
+#facs_97_r2l1 Schiedmunzen, von einem Bazen und darunter
+#facs_97_r2l2 welche nicht mit unserm Gepräge versehen
+#facs_97_r2l3 Kind, /: die ganzen Bazen von Lobl. Stande
+#facs_97_r2l4 Solothurn allein bis auf fernere Verordnung
+#facs_97_r2l5 aus genommen) für die Zukunft gänzlich
+#facs_97_r2l6 untersagt und verbotten haben;
+#facs_97_r2l7 Auf die Widerhandlung dieses Verbotts,
+#facs_97_r2l8 sezen Wir, nebst der Confiscation der
+#facs_97_r2l9 eingenommenen oder ausgegebenen Verbotten
+#facs_97_r2l10 Münze eine Geldbuße von einer Kronen
+#facs_97_r2l11 wenn die Summe zwey Kronen und darunter
+#facs_97_r2l12 beträgt, und von zwey Kronen, wenn das
+#facs_97_r2l13 verbottene Geld die Summe der zwey Kronen
+#facs_97_r2l14 übersteigen würde. Bey einer zweyten
+#facs_97_r2l15 Widerhandlung ist die Büße zu verdoppeln.
+#facs_97_r2l16 und bey einer dritten ist der Fehlbare nach Un¬
+#facs_97_r2l17 Weibs täglichen Raths Erkanntniß an Ehre Leib¬
+#facs_97_r2l18 oder Gut abzustrafen
+#facs_97_r2l19 Wegen Vertheilung der Confiscation und
+#facs_97_r2l20 Buße verordnen Wir, daß solche in drey gleiche
+#facs_97_r2l21 Theile vertheilt werde, wovon denn ein Drittel
+#facs_97_r2l22 Uns der Obrigkeit, der andere dem Richter des
+#facs_97_r2l23 Orts, und der dritte dem Verleider anheim dienen
+#facs_97_r2l24 soll. Auch in Betreff aller übrigen dieß
+#facs_97_r2l25 ortigen Bestimmungen verbleibet es lediglich bei
+#facs_97_r2l26 gedacht
+#facs_97_r3l1 183.
+#facs_97_r3l2 gedacht Unserm am 9ten Aprill 1777 erneuerte.
+#facs_97_r3l3 großen MünzMandat, als welches, in so fern es
+#facs_97_r3l4 nicht durch gegenwärtige und andere neuere Ver¬
+#facs_97_r3l5 ordnungen in etwas abgeändert worden ist, noch ferner
+#facs_97_r3l6 in Kraft bestehen soll.
+#facs_97_r3l7 Ferner wollen Wir noch jedermann kund thun
+#facs_97_r3l8 daß niemand gehalten und verpflichtet seyn solle, ab¬
+#facs_97_r3l9 geschliffene und in ihrem Reprage unbenntlich ge¬
+#facs_97_r3l10 vordene Münzen an Bezahlung zu nehmen.
+#facs_97_r3l11 und weil dieses vornehmlich bey den französischen
+#facs_97_r3l12 zwanzigbazen = Stüben der fall ist, so wollen Wir
+#facs_97_r3l13 hiemit insbesondere alle diejenigen zwanzig Bazen
+#facs_97_r3l14 Stübe mit französischem Bepräge die vor dem Jahr
+#facs_97_r3l15 1775 ausgemünt worden, verbotten haben, so daß
+#facs_97_r3l16 mithin weiter keine französischen Zwanzig Sazen Stube
+#facs_97_r3l17 in Unstern Landen curstieren sollen, als diejenigen
+#facs_97_r3l18 welche seit dem Regierungs Antritte König Ludwig
+#facs_97_r3l19 des XVI. sowohl unter seinem Namen als auch seither
+#facs_97_r3l20 in Frankreich ausgeprägt worden sind.
+#facs_97_r3l21 Ein gleiches Verbott finden Wir auch nöthig gegen
+#facs_97_r3l22 den Eurs der bis dahin um vierzig Sazen angenom¬
+#facs_97_r3l23 menen Thaler welche die Stadt Genf im Jahr
+#facs_97_r3l24 1794 so wie in diesem laufenden Jahre 1795
+#facs_97_r3l25 lat auspragen laßen, herauszugeben, und hiemit
+#facs_97_r3l26 zu jedermanns Verhalt bekannt zu machen
+#facs_180_r4l33 zur
+#facs_11_r1l1 14.
+#facs_98_r2l1 184
+#facs_238_r3l1 Sollate
+#facs_98_r4l1 Zur Strafe der Widerhandlung gegen diese
+#facs_98_r4l2 beyden lezten Vorschriften haben Wir die Confis¬
+#facs_98_r4l3 cation der ausgegebenen Stüke, und im zweyten
+#facs_98_r4l4 Fehler neben der Confiscation eine Buße von
+#facs_98_r4l5 gleichem Werth verordnet
+#facs_98_r4l6 Die Execution dieser Verordnung soll auf den
+#facs_98_r4l7 1ten Jenner 1796 ihren Anfang nehmen, und
+#facs_98_r4l8 allen Unter Beamteten und Officialen obliegen
+#facs_98_r4l9 auf die Fehlbaren genaue Aufsicht zu halten,
+#facs_98_r4l10 und solche dem Richter des Orts ohne Schonen zu
+#facs_98_r4l11 verleiden
+#facs_93_r3l11 Beben in Unserer Großen Raths Ver¬
+#facs_98_r4l13 lung den 22ten Aprill, 9. und 14ten September
+#facs_103_r4l1 195
+#facs_98_r5l28 en

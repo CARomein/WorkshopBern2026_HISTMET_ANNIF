@@ -1,0 +1,404 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 396/397
+# High similarity (>=80%): 381
+# Low similarity (<80%): 15
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4465
+#facs_60_r2l4 der Stadt Bern Teütsche Lande
+#facs_60_r2l1 Erneuerte
+#facs_60_r2l2 Jäger-Ordnung
+#facs_109_r2l1 Sir Wm.
+#facs_60_r2l4 der Stadt Bern Teütsche Lande
+#facs_272_r3l16 Wir Schulthes Elein und große
+#facs_60_r2l6 der Stadt und Respublic Bern entbieten
+#facs_60_r2l7 allen Unsern lieben und getreüen Bürger
+#facs_60_r2l8 und Angehörigen zu Stadt und Land Unser
+#facs_227_r3l12 gnädigen und wohlgeneigten Willen
+#facs_60_r2l10 geben ihnen dabey zu vernemen
+#facs_60_r2l11 Das Wir, aus hinlänglich uns dazu
+#facs_60_r2l12 bewegenden Gründen und Ursachen, gut
+#facs_60_r2l13 gefunden, Unsere in Ao. 1742. in Drukau
+#facs_60_r2l14 gegebene Jäger-Ordnung überschauen zu
+#facs_60_r2l15 laßen, und in Aufhebung derselben, für un¬
+#facs_60_r2l16 fern Teutsche Lande, gegenwärtige Neue
+#facs_60_r2l17 Jägerordnung gemacht, dadurch dann an
+#facs_60_r2l18 gesehen und geordnet, was von einem
+#facs_60_r2l19 Punkten zu dem anderen folget
+#facs_60_r2l20 Sonn- und Seijertage
+#facs_60_r2l21 Allervorderst soll maniglich verboten sey
+#facs_60_r2l22 an Sonn, und Feyertagen zu Jagen, an
+#facs_60_r3l1 115
+#facs_60_r3l2 was Weis es mier seyn mag, bey Straf zehen
+#facs_60_r3l3 Pfund Ruß, von jedem Widerhandlenden zu
+#facs_60_r3l4 beziehen.
+#facs_60_r3l5 Beschloßene Zeit
+#facs_60_r3l6 die beschloßene und verbotene Zeit zum
+#facs_60_r3l7 Jagen und dem Geflügel und Gewild nachzu¬
+#facs_60_r3l8 stellen, soll jährlich mit dem ersten Tag Jemer
+#facs_60_r3l9 ihren Anfang nehmen, und anhaltend fort.
+#facs_60_r3l10 dauren bis auf den zweyten Montag im
+#facs_60_r3l11 Herbstmonat; sie soll sich auch auf alles Gewild
+#facs_60_r3l12 gleich beziehen, und die Schimpfen ins besonders
+#facs_60_r3l13 namentlich darunter mit einbegriffen seyn,
+#facs_60_r3l14 allso daß aussert den reißenden Thieren,
+#facs_60_r3l15 bährend dieser Zeit, alles Gewild und Geflüge
+#facs_60_r3l16 sie es immer Namen haben mag, gefristet
+#facs_60_r3l17 seyn und verschonet bleiben soll, bey Straff
+#facs_60_r3l18 der Confiscation der Jäger-Instrumenten,
+#facs_60_r3l19 und 100 Pfunden Stüs von jedem Hochgewald,
+#facs_60_r3l20 und 10 Pfund Bus von jedem kleinen Stuk
+#facs_60_r3l21 wie nicht weniger auch unter gleicher Confio¬
+#facs_60_r3l22 cation und Ruß, von jedemmahl da eine auf
+#facs_60_r3l23 Die Jagd gienge, ob er gleich nichts bekämen
+#facs_61_r1l1 116.
+#facs_61_r2l1 Ausnahm für das Kögelschießen
+#facs_61_r2l2 Das Vögelschießen aber unter den Kirsch¬
+#facs_61_r2l3 bäumen und sonsten, soll jedes Jahr bereit
+#facs_61_r2l4 vom 20ten Hemmonat hinbegg erlaubt seyn, daß
+#facs_61_r2l5 nur in so fern als mann sich dabei (biß zu dem
+#facs_61_r2l6 gewohnten Jagdzeit) keines Hunds bedienen
+#facs_61_r2l7 noch deren mit sich führen wird.
+#facs_196_r6l10 dann
+#facs_61_r2l9 Im Verbot und dann sind, in den Land¬
+#facs_61_r2l10 Gerichten: der Burnigel, die Gibelegg, der
+#facs_61_r2l11 Schaaf Hübel, das Stierenhölzl. und die Stierin
+#facs_61_r2l12 wen, der Wackensyl-Wald, die Blumenstein
+#facs_61_r2l13 Hölzer, der Schwarzenberg und Schönenboden,
+#facs_61_r2l14 demie die Neünenen und Wirthneren bis
+#facs_61_r2l15 an die Flühe, die samtlichen Wartenwyl¬
+#facs_61_r2l16 Hölzer und die Linegg. In dem Amt Schen¬
+#facs_61_r2l17 tenberg dann: Der Hohn, und Geistberg, der
+#facs_61_r2l18 Tüzberg und die Winterhalden, wie auch
+#facs_61_r2l19 aremgarten. Allso daß Niemand einig
+#facs_61_r2l20 Gesild darinn jagen, noch demselben, wen
+#facs_61_r2l21 es schon an anderen Orten aufgetrieben, in
+#facs_61_r2l22 diesen Wäldern nachsezen, ja auch nur eine
+#facs_61_r3l1 117
+#facs_61_r3l2 Düchsten darein tragen solle, bey fünf und
+#facs_61_r3l3 wenzig Pfunden duß, so oft deme zuwieder
+#facs_61_r3l4 gehandlet wurde, wie auch bey Confiscation der
+#facs_61_r3l5 Büchsen, Garnen und andern Jägerinstrumente
+#facs_61_r3l6 Welcher aber in diesen Verbockenen Wäldern
+#facs_61_r3l7 bürblich ein hochgewild schießen oderfällen
+#facs_61_r3l8 wurde, derselbe soll eine mehrere Straff, als¬
+#facs_61_r3l9 nur auf das Jagen, wie obvermelt, gesezt ist,
+#facs_61_r3l10 auf sich gezogen haben, und neben Confiscation
+#facs_61_r3l11 der Jäger instrumenten, um hundert Pfund Pfen¬
+#facs_61_r3l12 ning verfallen seyn; und welcher diese Geld
+#facs_61_r3l13 straffe nicht vermöchte, derselbe soll, wann es
+#facs_61_r3l14 ein Burger, durch Unsern Gerichtschreiber
+#facs_61_r3l15 gefergget, und vor das Burgernzahl hinaus gewie¬
+#facs_61_r3l16 sen, oder, wann es ein Landman, mit Leistung,
+#facs_61_r3l17 Gefangenschaft, oder in andere Wege, nach gestel¬
+#facs_61_r3l18 Den Dingen, angesehen werden
+#facs_41_r4l3 a-
+#facs_61_r3l20 Jedermäniglich, auch Unsern Amtleuten
+#facs_61_r3l21 und Tringherren soll verboten seyn, in Unser
+#facs_61_r3l22 Stadt Gericht, und den Vier Land Gerichten eini¬
+#facs_61_r3l23 Reh zu fällen, bey hundert Pfunden auß von
+#facs_279_r2l48 jede
+#facs_62_r1l1 118.
+#facs_62_r2l1 Fallen, Leysen, Lauer,
+#facs_62_r2l2 Auch zu denen Zeiten und an den Orten
+#facs_62_r2l3 da sonst dem Gewild nachzusezen zugelas¬
+#facs_62_r2l4 ist, soll mit Ausnahm der Vögel, verbeiten
+#facs_62_r2l5 seyn, den Haafen und anderm Groß- und
+#facs_62_r2l6 kleinen Gewild, Fällen und Lettschen zu richten
+#facs_62_r2l7 oder auf der Caur nachzustellen, bey fünfzig
+#facs_62_r2l8 Pfund Buß, so oft einer diß Verbock übertrett
+#facs_62_r2l9 wurde, welcher aber dem Gewild mit Geschoß
+#facs_62_r2l10 Hallen zu richten sich unterstehen thäte, der
+#facs_62_r2l11 soll je nach sich erzeigenden Umständen, im
+#facs_62_r2l12 härterer, ja so gar mit Leibes- Stoeffe an,
+#facs_62_r2l13 gesehen werden.
+#facs_62_r2l14 Wegen dem verwilligten Letschenstube
+#facs_62_r2l15 für die Vögel aber, hat es den Verstand
+#facs_62_r2l16 daß solches nur in der offenen Jagd Zeit er¬
+#facs_62_r2l17 laubt, hingegen aber diejenigen, so dergle¬
+#facs_62_r2l18 chen Vogelletschen gestekt haben, dahin gehol=
+#facs_62_r2l19 ten seyn sollen, solche nach dem Herbst, und
+#facs_62_r2l20 wenn die verbottene Zeit anrubet, wieder auf
+#facs_62_r2l21 zu ziehen und abzuschaffen, bey zehen Pfunden
+#facs_62_r2l22 Ruß von jedem Widerhandlenden zu erheben
+#facs_11_region_1629822684875_145l1 19.
+#facs_62_r3l2 Ausnehmen der Haasen und Vogel.
+#facs_62_r3l3 Junge Haasen oder junge Vögel aus den
+#facs_62_r3l4 Vestern auszunehmen, soll bey unausbleiblich
+#facs_62_r3l5 Straffe verbotten seyn; dennoch bleiben von
+#facs_62_r3l6 diesem Verbott fernershin ausgenommen die
+#facs_62_r3l7 Rinderstarren, dulen, Wilde dauben, Rechtögel,
+#facs_62_r3l8 dene die Ägersten Krähen, Gugger, Spazen und
+#facs_62_r3l9 dergleichen schädliche Vögel
+#facs_62_r3l10 Schädliche und reissende Thiere.
+#facs_62_r3l11 Was dann die schädlichen und reißenden
+#facs_62_r3l12 Thiere anbelanget, als Jaren, Wolff, Lüchs
+#facs_62_r3l13 Wilde Schwein und Dachsen etc. mögen dieselben
+#facs_62_r3l14 zu jeder Zeit und an allen Orten gefangen
+#facs_62_r3l15 oder gefällt werden
+#facs_62_r3l16 Wemme und wie das Jagen erlaubt
+#facs_62_r3l18 Weme solches singegen verbotten seye.
+#facs_50_r3l7 Unseren Amtleüten und vorge¬
+#facs_62_r3l20 hin die Jagd in ihren Ämtern und Gerichtsbar¬
+#facs_62_r3l21 leiten, jedoch daß sie solche mit der erforder¬
+#facs_62_r3l22 lichen Bescheidenheit gebrauchen, und nicht
+#facs_26_r9l8 1.20
+#facs_63_r2l1 auf Gewinn oder Verkauf hin Zagen, oder
+#facs_63_r2l2 jagen laßen.
+#facs_63_r2l3 Ihnen aber soll die Jagd, in den im Sam¬
+#facs_63_r2l4 ligenden Waldungen und Bezirken, so wie
+#facs_63_r2l5 auch alles Hoch=Roht= und Feder=Gewilds,
+#facs_63_r2l6 wie maniglich, bey der darauf gesezten
+#facs_63_r2l7 Rüß verbotten seyn; deßgleichen soll ihnen
+#facs_63_r2l8 auch in alle weg HochObrigkeitlich abgestell¬
+#facs_63_r2l9 und verbotten seyn, die Jagd hinzuleihen
+#facs_63_r2l10 oder jemanden Patenten, schrifft, oder
+#facs_63_r2l11 mundliche Bewilligungen zum Jagen zu
+#facs_63_r2l12 geben, vielweiniger aber den Fürkäufferen
+#facs_63_r2l13 Des Gewilds einige Patenten oder Bewilligung
+#facs_63_r2l14 gen zu ertheillen, damit einzig in ihren
+#facs_63_r2l15 Ämtern und Gerichtsbarbeiten Gewerb zu
+#facs_63_r2l16 treiben
+#facs_63_r2l17 Wobey auch die Tbingherren sich dieser
+#facs_63_r2l18 Unserer Ordnung nach zu richten haben sollig
+#facs_63_r2l19 jedoch ohne Nachtheil ihrer etwa habenden
+#facs_63_r2l20 Gerechtigkeiten.
+#facs_63_r2l21 Unsern Burgern gebührt, mit Ausnahm
+#facs_63_r2l22 der jeweilen im dann ligenden Waldung
+#facs_63_r2l23 gen und Bezirken, so wie auch alles Hoch¬
+#facs_63_r2l24 Roht- und Feder-Gewilds etc. das Recht, in
+#facs_63_r3l1 121
+#facs_63_r3l2 der offenen Zeit zu jagen; ihnen ist aber
+#facs_63_r3l3 verbotten, weder bewehrte Landleut mit auf
+#facs_63_r3l4 die Jagd zu nehmen, noch, ohne ihre Persönlichs
+#facs_63_r3l5 gegenwart, ihre Knechte auf die Jagd zu schicken,
+#facs_63_r3l6 beides bey jehen Pfund Büß, und Confiscation
+#facs_63_r3l7 der Jäger Instrumenten. Auch ist Unfere
+#facs_63_r3l8 Verordnete Jäger Cammer begbältiget, jenige
+#facs_63_r3l9 Burger, welche in offener Zeit die Jagd miß¬
+#facs_63_r3l10 brauchen wurden, einzuschrauben, oder so gar
+#facs_63_r3l11 ihnen das Jagen gänzlich abzustellen.
+#facs_63_r3l12 Wann dann jedermäniglich überzeuget seyn
+#facs_63_r3l13 muß, daß dem gemeinen Landmann nichts
+#facs_63_r3l14 schädlichers, als der Hang und die Gewohnheit
+#facs_63_r3l15 zur Jags; indeme derselbe dadurch von der
+#facs_63_r3l16 Arbeit abgehalten, zum Müeßiggang und
+#facs_63_r3l17 der Liederlichkeit gewöhnt wird, Weib und
+#facs_63_r3l18 Kinder in mangelbaren Stand versehet, -
+#facs_63_r3l19 und endlich den Gemeinden und dem ganzen
+#facs_63_r3l20 Land zu gröster Beschwerd auffallt; dahero
+#facs_63_r3l21 Wir zu Bezeugung Unsers Obrigbeitlichen
+#facs_63_r3l22 Mißfallens, unsere Unterthanen so in
+#facs_63_r3l23 Unseren vogteyen, wie auch in hiesigen
+#facs_64_r1l1 122.
+#facs_64_r2l1 Stadt-Gericht geseßen sind, ernstlich vermehr
+#facs_64_r2l2 haben wollen, mehr ihrer Arbeit und Began¬
+#facs_64_r2l3 genschafften obzuligen, als aber dem Jagen
+#facs_64_r2l4 nach zu lauffen; und stehen in der Erbar
+#facs_64_r2l5 fung, daß durch Unterlaßung des Jagens
+#facs_64_r2l6 und dem Gewild nachstellen, ein jeder
+#facs_64_r2l7 seinen eigenen Ruzen zu beförderen, sich
+#facs_64_r2l8 werde angelegen seyn laßen; Wiedrig¬
+#facs_64_r2l9 sich erzeigenden Falls aber, wollen Wir alle
+#facs_64_r2l10 Unsere Amtleute und Gemeinden hiemit
+#facs_64_r2l11 errinnert haben, auf solche ihre Untergebten
+#facs_64_r2l12 und Gemeinds-genoßen ein geflißenes
+#facs_64_r2l13 Aug zu halten, und selbe, durch völliges ad
+#facs_64_r2l14 halten, in der Zeit vom Verderben zu retti¬
+#facs_64_r2l15 auch solche ohne Fehler entweder der Jäger
+#facs_64_r2l16 Camer oder Unsern Amtleuten zu verleiden
+#facs_64_r2l17 Albrigens Unseren Amtleüten überlaßend
+#facs_64_r2l18 entweder von selbsten, nach bisherig jeweilt
+#facs_64_r2l19 gehabtem Gewalt, oder durch Anweisung
+#facs_226_r2l3 Unsterer Verordnungen, gegen alle die¬
+#facs_64_r2l21 nachdem es die Noht und Ungebunden,
+#facs_64_r2l22 heit des Jagens erforderen wird, ihren
+#facs_64_r2l23 Amts angehörigen die Jagd gänzlichen
+#facs_23_r2l10 123
+#facs_64_r3l2 oder zum Theil zu verbieten.
+#facs_64_r3l3 Unseren getreuen lieben Eidgnoßen,
+#facs_64_r3l4 Mitburgern und Brüdern der Städten Freyburg
+#facs_64_r3l5 und Solothurn Jurgern, gebührt, gleich unserm
+#facs_64_r3l6 Bürgern, mit Ausnahm der jeweilen in Bannli¬
+#facs_64_r3l7 genden Waldungen und Bezirken, so wie auch
+#facs_64_r3l8 alles Hoche Raht, und Feder gewilds das Recht
+#facs_64_r3l9 in der offenen Zeit zu jagen; Jedoch mit dem
+#facs_64_r3l10 Unterscheid, daß die fehlbaren Bürger und Unter¬
+#facs_64_r3l11 thanen dieser beiden lobl. Ständen und Städten
+#facs_64_r3l12 nicht nur unter denen in dieser Ordnung bestim¬
+#facs_64_r3l13 ten Rußen ligen; sondern so wohl Unserer verord¬
+#facs_64_r3l14 eten Jäger Cammer, als Unsern Amtleuten
+#facs_64_r3l15 überlaßen ist, krafft gegenrechtens die
+#facs_64_r3l16 Fehlbaren in alle weg so anzusehen und zu
+#facs_64_r3l17 halten, wie die Unserigen in gleichem Fall
+#facs_64_r3l18 hinter diesen beyden Lobl. Ständen wurden
+#facs_64_r3l19 angesehen und gehalten werden
+#facs_64_r3l20 Allen fremden mit Uns nicht verbürgerten,
+#facs_64_r3l21 oder denen so nicht ein besonderes Recht zu
+#facs_64_r3l22 Jagen hätten, soll fürbas zu allen Zeiten
+#facs_64_r3l23 bey fünfzig Pfunden Fuß, alles Jagen und
+#facs_65_r1l1 124.
+#facs_65_r2l1 dem Gewild und Geflügel nachstellen, auf
+#facs_65_r2l2 was Art und Weis es immer geschehen mag,
+#facs_65_r2l3 verbotten seyn.
+#facs_65_r2l4 Ein jeder, deßen Hund in der Verbotten
+#facs_65_r2l5 Zeit jagend angetroffen wird, soll um Sechs¬
+#facs_65_r2l6 Pfund Bus verfallen seyn.
+#facs_23_r2l5 Der
+#facs_65_r2l8 der Entäußerung des Gewilds
+#facs_65_r2l9 mit der Anweisung wo solches in der Stadt
+#facs_65_r2l10 Feÿl gehalten werden solle.
+#facs_65_r2l11 Damit aber die hiesige Burgerschafft das
+#facs_65_r2l12 Gewild mit aller kommlichkeit und in einem
+#facs_65_r2l13 leidenlichen Preis erhandeln könne, auch
+#facs_65_r2l14 wegen deselben Mangel, zu klagen nicht
+#facs_65_r2l15 Anlaß gegeben werde, wollen Wir anmit
+#facs_65_r2l16 das ernstliche Einsehen dahin vorgekehrt
+#facs_19_region_1629824109407_363l24 haben.
+#facs_65_r2l18 A. soll maniglich verbocken seyn.
+#facs_65_r2l19 einiges Gewild, wie das Namen haben mag,
+#facs_65_r2l20 äußert unserer Seckmäßigkeit zu ver¬
+#facs_65_r2l21 handeln oder zu verkauffen; bey Straff
+#facs_65_r2l22 der Confiscation oder dem Wehrt des Gewill
+#facs_14_region_1629823063779_230l_1 25.
+#facs_65_r3l2 und Zehen Pfund auß von jeglichem Stük
+#facs_65_r3l3 so veraüßeret wird. Uns vorbehaltende
+#facs_65_r3l4 begen Veräußerung des Hoch- und Roht-Gewilds
+#facs_65_r3l5 eine mehrere angemeßene Straffe zu
+#facs_65_r3l6 bestimmen.
+#facs_65_r3l7 B. Soll alles dasjenige gewild so in der
+#facs_65_r3l8 offenen Jagd Zeit, und nicht an verbottenen
+#facs_65_r3l9 Orten gefällt wird, frey, öffentlich und unverbor¬
+#facs_65_r3l10 gen in hiesige Haubt Stadt gebracht, und an der
+#facs_65_r3l11 Ankenwaag, als dem dazu allein bestimten
+#facs_65_r3l12 Ort, offentlich feyl gehalten, auch damit aller¬
+#facs_65_r3l13 dings kein Fürk auff getrieben werden. Wie
+#facs_65_r3l14 dann den Verbaüffern, Wihrten und Gastge¬
+#facs_65_r3l15 ben auch keines wegs erlaubt seyn soll, da
+#facs_65_r3l16 Gewild heimlich zu versprechen oder zu bestellen
+#facs_65_r3l17 vor den Thoren, oder bey deßen Einbringung
+#facs_65_r3l18 in die Stadt zu kaufen oder zu verkaufen,
+#facs_65_r3l19 bey Straff der Confiscation des Gewilds, oder
+#facs_65_r3l20 den Wehrt deßelben; als worüber die
+#facs_65_r3l21 genießene Aufsicht zu halten, und die Fehl¬
+#facs_65_r3l22 Baren zu gebührender Straff zu ziehen, brafft
+#facs_65_r3l23 Fürkaufs-Ordnung vom 4ten Juny 1747. Unfere
+#facs_65_r3l24 verordneten Policey Cammer obligen thut.
+#facs_66_r1l1 126
+#facs_66_r2l1 Der Jäger Cammer Bewaltung
+#facs_66_r2l2 Instruction.
+#facs_66_r2l3 Damit aber gegenwärtige Unsere neue
+#facs_66_r2l4 Jäger=Ordnung auch in allen ihren übrigen
+#facs_66_r2l5 Theilen, in samtlichen Unseren Teutschen Landen
+#facs_66_r2l6 vollzogen werde; so haben Wir Unsere verordnet
+#facs_66_r2l7 Jäger Cammer hierzu mit dem erforderlichen Auf-
+#facs_66_r2l8 hen und Gefalt versehen; in dem vollkommenen
+#facs_66_r2l9 zu trauen, daß dieselbe zu dem End alle nöhtige
+#facs_66_r2l10 veranstaltungen, wie nicht weniger auch die
+#facs_66_r2l11 Abstraffung der Fehlbaren, und was sonsten zu
+#facs_66_r2l12 Aufnung der Jagd dienlich seyn wird, sich bestens
+#facs_66_r2l13 werde angelegen seyn laßen, vorzubehren
+#facs_66_r2l14 Wobey Wir aber sie die Camer selbst hiemit
+#facs_66_r2l15 auch ins besondere dahin eingezielet haben wollen,
+#facs_66_r2l16 daß sie in denen jezt oder in Zukunfft, für je
+#facs_66_r2l17 und allezeit, oder nur einige bestimte Jahre in
+#facs_66_r2l18 Verbat gelegten Waldungen oder Bezirben,
+#facs_66_r2l19 kein Stut Hoch-Gewild zu fällen haben sollen,
+#facs_66_r2l20 anders als aus Befehl Unsers täglichen Raht
+#facs_66_r2l21 oder eines jewestenden Ehrenhaubts und regie¬
+#facs_66_r2l22 enden Herrn Schultheißen, als denen solche
+#facs_66_r2l23 mit Moderation, doch anders nicht als unter
+#facs_23_r2l10 123
+#facs_66_r3l2 Veranstaltung Unserer verordneten Jäger Can¬
+#facs_66_r3l3 mer, zu bewilligen überlaßen wird.
+#facs_66_r3l4 Oberaufficht der Amtleüten
+#facs_66_r3l5 Aller Orten aber in Unseren Teutschen Landen
+#facs_66_r3l6 so weit die Ämter sich erstreken, wollen Wie die
+#facs_66_r3l7 Oberaufsicht denen jewesenden Ober Amtleuten
+#facs_66_r3l8 in ihren Ämtern, nach Inhalt dieser Ordnung, über
+#facs_66_r3l9 laßen haben; jedoch der Meinung und mit dem
+#facs_66_r3l10 Gefehl, daß sie sich dem Inhalt derselben selbsten
+#facs_66_r3l11 unterziehen. Falls aber etwas wiedriges sich
+#facs_66_r3l12 erangnen sollte, soll Unserer verordneten Jäger
+#facs_66_r3l13 Cammer obgelegen, und anmit befelchlich eingeschärfe
+#facs_66_r3l14 seyn, darauf fleißige Acht zu halten, und auf
+#facs_66_r3l15 hinlänglich erhaltenen Bericht, dergleichen Fehl
+#facs_66_r3l16 Bare Amtleute Unserm täglichen Raht zu verleiden,
+#facs_66_r3l17 Entdetung der Seslbaren
+#facs_66_r3l18 Und damit die Fehlbaren desto ehender ent¬
+#facs_66_r3l19 dekt werden, sollen die verordnete Jägermeister
+#facs_66_r3l20 jeder aufs wenigste Zween oder mehrere Unter¬
+#facs_66_r3l21 Bediente oder Aufseher bestellen, eheliche und
+#facs_66_r3l22 unverweisliche Leüte, um die genauere Aufsicht
+#facs_67_r1l1 128.
+#facs_67_r2l1 über die ihnen anbefohlenen Bezirke zu haben,
+#facs_67_r2l2 und die Übertreckern bey ihren Eiden, damit
+#facs_67_r2l3 sie zu belegen sind, ohne einiges Absehn der
+#facs_67_r2l4 Person zu verleiden: Der Meinung, daß
+#facs_67_r2l5 denenselben als dann ohne ferners beweisthun¬
+#facs_67_r2l6 fölliger Glauben beygemeßen, und zu dem
+#facs_67_r2l7 und die Beklagten, auf der Cammer Citation hin¬
+#facs_67_r2l8 allbegen zu gebührender Erscheinung, von Unser
+#facs_67_r2l9 Antleüten angehalten werden sollen,
+#facs_67_r2l10 Falls aber der eint oder andere durch
+#facs_67_r2l11 andere als dazu bestellte Beeidigte Personen
+#facs_67_r2l12 der Cammer verleidet wurde, wieder diese
+#facs_67_r2l13 Ordnung gehandlet zu haben, der Beklagte
+#facs_67_r2l14 aber der Klag nicht bekantlich gemacht werden
+#facs_67_r2l15 könte, so soll Unsere bestellte Jäger Camer
+#facs_67_r2l16 Gewalt und Befehl haben, nach vorläufiger
+#facs_67_r2l17 Dorghältiger Erwegung der Person des Verle¬
+#facs_67_r2l18 ders und des Beklagten, besonders aber ob
+#facs_67_r2l19 dieselben gegen einander in Feindschafft gestan¬
+#facs_67_r2l20 den, wie auch was für Zeichen und Umstände
+#facs_67_r2l21 das Beklagten Überzeugung vorhanden, nach
+#facs_67_r2l22 bewandt findenden Umstanden, gegen einen
+#facs_67_r2l23 solchen Beklagten zu verfahren.
+#facs_16_region_1629823769956_289l1 29
+#facs_67_r3l2 Es sollen auch die Ammann und Freybeibel in
+#facs_67_r3l3 denen Stadt- und Land-Gerichten, so weit ihre
+#facs_67_r3l4 Bezirke reichen, denn die Ober Amtleute in ihren
+#facs_67_r3l5 Ämtern denen Tannwarten zu Verrichtung ihrer
+#facs_67_r3l6 Pflicht Amtliche Hand bieten, und die Forst hüeter
+#facs_67_r3l7 und dann warten eines jeden Walds bey ihren
+#facs_67_r3l8 geschwornen Eiden auf die Frefler zu achten,
+#facs_67_r3l9 und dieselben ohne Schonen der Cammer zu verleiden
+#facs_67_r3l10 schuldig und verbunden seyn.
+#facs_332_r9l1 br
+#facs_67_r3l12 Was dann die fallenden Rußen anbelangt,
+#facs_67_r3l13 wollen Wir zu mehrerer vollziehung dieser Ordnung,
+#facs_67_r3l14 laß, so viel es Unsere Jäger Cammer und Unfere
+#facs_67_r3l15 Amtleute betreffen thut, solche ihnen einzig, und
+#facs_67_r3l16 ohne daß sie uns etwas davon zu verrechnen.
+#facs_67_r3l17 haben, zukommen sollen. Mit dem Vorbehalt
+#facs_67_r3l18 jeden noch, daß sie von solchen den Verleidern und
+#facs_67_r3l19 aufsehern, zu ihrer mehreren Anfrischung, je nach
+#facs_67_r3l20 den Umständen, bis auf den halben Theil
+#facs_67_r3l21 angedeyen laßen.
+#facs_67_r3l22 Das Confisciante Hoch- und Rohte Gewild dann
+#facs_67_r3l23 soll unserm jeweiligen Ehren Haubt dem
+#facs_68_r1l1 130.
+#facs_68_r2l1 Regierenden Herrn Schultheisen (welchem
+#facs_68_r2l2 auch der Hochflug, wie von Alters harter
+#facs_68_r2l3 bleibt) gebühren; das klein=Gewild samt den
+#facs_68_r2l4 Jäger Instrumenten aber, Unserer Verordneten
+#facs_68_r2l5 Jäger Cammer heimdienen
+#facs_68_r2l6 Unsere Hoffnung gehet aber dahin, daß
+#facs_68_r2l7 maniglich durch schuldige Beobachtung diese
+#facs_226_r2l3 Unsterer Verordnungen, gegen alle die¬
+#facs_68_r2l9 Straffen vorzukommen sich befleißen werde. Diese
+#facs_68_r2l10 in Unserer Großen Rahts Versammlung den
+#facs_68_r2l11 27ten Merz, 3ten April und 15ten May, wie auch den
+#facs_68_r2l12 19. Augstmanat und 3ten Herbstmonat des 1778. Ich
+#facs_193_r4l5 Cangley Bern’
+#facs_68_r2l14 der bestellten Aufseheren Eich
+#facs_68_r2l15 Den auch die Bannwarten und Forstner
+#facs_68_r2l16 der in der Jäger Ordnung ausgedrukten
+#facs_68_r2l17 Hölzern schwören sollen.
+#facs_68_r2l18 Schworen dieselben, die ihnen anbefohlene
+#facs_68_r2l19 Aufsicht besten Fleißes zu verrichten; die
+#facs_68_r2l20 Ubertreffer, wo immer möglich, zu entdeken,
+#facs_68_r2l21 und solche ohne Ansehn der Person der Cammer
+#facs_68_r2l22 zu verleiden
+#facs_178_r8l1 en

@@ -1,0 +1,97 @@
+Law ID: BER.01.001.4296
+Name: Wegen Emigrationen in Preüssisch-Pommern.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 86/86
+# High similarity (>=50%): 83
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_39_r5l15 An
+#facs_39_r5l16 Alle Unter Ärgenische Herren Amtleut und 4. Stäck
+#facs_39_r5l17 Wegen Emigrationen in Preußische Pommern.
+#facs_39_r5l18 Stadthalter und Raht P.
+#facs_39_r5l19 von Lobl. in Stand Zürich haben Wir die Vertrau¬
+#facs_39_r5l20 liche Nachricht erhalten, daß in deßen Lande
+#facs_39_r5l21 das Gerücht von einer mit vielen Vortheilen
+#facs_39_r5l22 begleiteten Emigration nach Preußisch Pommeran
+#facs_39_r5l23 sich ausgebreitet, und daß leider! Bey diesen
+#facs_40_r2l1 Klammen- Zeiten, daselbe nur allzu vielen
+#facs_40_r2l2 Eingang bey deßen Angehörigen finde, mit
+#facs_40_r2l3 dem Freund Nachbahrlichen Ansuchen, Wir belieben
+#facs_40_r2l4 möchten, die Anstalten vorzukehren, daß Ihre
+#facs_40_r2l5 allso verführten, und nach Preüsisch- Pommeren
+#facs_40_r2l6 Emigrierenden Angehörigen in unseren Landen
+#facs_40_r2l7 nicht durchgelaßen, sondern zurub in Ihr
+#facs_40_r2l8 Heymath Gewiesen werden
+#facs_40_r2l9 Da Wir nun lobl.n Stand zürich hierunter
+#facs_40_r2l10 zu entsprechen kein Bedenken getragen; So
+#facs_40_r2l11 befehlen Wir euch /: gleich anderen Grenz Amt¬
+#facs_40_r2l12 leuten) in Einem Amt auf dergleichen
+#facs_40_r2l13 Jüricherische Emigranten wachen zu laßen, und
+#facs_40_r2l14 fahls deren in Eüerem Amt ankommen solten
+#facs_40_r2l15 dieselben ohne anders wider zurück und nach
+#facs_40_r2l16 Hause weisen zu laßen. Dat. d. 29ten Novembl. 1770.
+#facs_40_r4l1 73.
+#facs_40_r4l2 Du
+#facs_40_r4l3 Die Herren Amtleuth zu Lausanne, Anbonne
+#facs_40_r4l4 und Neus
+#facs_40_r4l5 Wegen transgressionen in durchfuhr Fremder Früchte
+#facs_40_r4l6 durch die Königl. Franz. Lande, und Anbauff derselben
+#facs_40_r4l7 in der Provinz Dauphine.
+#facs_40_r4l8 Stadthalter und Raht
+#facs_40_r4l9 Abschrifftlich beygehendes Schreiben von Sr. Exellz
+#facs_40_r4l10 dem Königl. Franz. Herren Ambassadoren, wird
+#facs_40_r4l11 Euch des mehreren zeigen, was derselbe wegen
+#facs_40_r4l12 transpressionen in durchfuhr fremder Früchten
+#facs_40_r4l13 durch die Königl. Franz. Lande, und Anbauff
+#facs_40_r4l14 derselben in der Provinz Dauphine, an uns
+#facs_40_r4l15 gelangen laßen. Wie nun vermuhtlichen
+#facs_40_r4l16 die von der Stadt mit mutar bestelte Comissionarii
+#facs_40_r4l17 Eilleicht dergleichen transgressionen vorgenommen,
+#facs_40_r4l18 als haben Wir Euch befehlen wollen, etwelche
+#facs_40_r4l19 von dem Rath vor Euch zu bescheiden, denen
+#facs_40_r4l20 selben von solchem die erforderliche Nachrich¬
+#facs_40_r4l21 zu ertheillen, mit dem ferneren Beyfügen¬
+#facs_40_r4l22 die Verfügung mache
+#facs_40_r4l23 .
+#facs_40_r4l24 Daß Sie die Statt
+#facs_40_r4l25 daß Ihre Comissionaires von dergleichen Ver¬
+#facs_40_r4l26 bottenen Anbauffen sich hüeten, und weder
+#facs_40_r4l27 auf diese noch andere weise wider dergleichen
+#facs_40_r4l28 in Fraubreich subsistierende Verbothandlen
+#facs_40_r4l29 naßen widerhandlenden Fahls Ihre Früchte
+#facs_41_r3l1 Wurden angehalten, Wir aber nimmermehr
+#facs_41_r3l2 zu deren relaxierung, ihnen behülflich an
+#facs_41_r3l3 die Hand gehen werden. Dat. den 20ten Decembl. 1777.
+#facs_41_r3l4 An
+#facs_41_r3l5 die Ober- und Unter-Angenische Herren Amtleut
+#facs_41_r3l6 demie die zu Baaden, Ober- und Untere Freye Ämter
+#facs_41_r3l7 Item per jedel an Mehloh. der Marechaussee Camer
+#facs_41_r3l8 wie auch Herrn Großweibel und Herrn Gerichtschreibe
+#facs_41_r3l9 Die auf den Glarner Caspar Hans, oder Johannes
+#facs_41_r3l10 Hertach und deßen Sohn anbefohlene Acht, wird wider
+#facs_41_r3l11 aufgehoben.
+#facs_41_r3l12 Stackhalter und Raht
+#facs_41_r3l13 Wegen der an dem Brugger Courier begangenen
+#facs_41_r3l14 Mißhandlung, und Beraubung daherigen Fehl Eigens,
+#facs_41_r3l15 haben Wir euch unter anderem sub 20t. Novemb
+#facs_41_r3l16 dis zu Ende gehenden Jahrs aufgetragen, auf
+#facs_41_r3l17 den dißfahls in Verdacht gefallenen Glarne
+#facs_41_r3l18 Caspar Hans oder Johannes Hertach von Arnen
+#facs_41_r3l19 in Canton Blarus, und deßen mit sich
+#facs_41_r3l20 führenden 12. Jährigen Knaben, ein besonders
+#facs_41_r3l21 wachsammes Auge zu haben, und auf betrecken
+#facs_41_r3l22 selbige fest sehen zu laßen; Wann aber durch
+#facs_41_r3l23 die seithero mit ihme verführte Examina, und
+#facs_41_r5l1 75
+#facs_41_r5l2 die ihrenthalb aufgenommene fernere Informatione
+#facs_41_r5l3 so vieles heraus gekommen, daß Wir selbige
+#facs_41_r5l4 der Gefangenschaft wider zu entlaßen, und
+#facs_41_r5l5 auf freyen Fuß sezen zu laßen gut befunden
+#facs_41_r5l6 Als haben Wir euch deßen hiemit nachrichtlich
+#facs_41_r5l7 und dahin berichten wollen, die auf die
+#facs_41_r5l8 Hertach Vatter und Sohn bestelte Acht, wider
+#facs_41_r5l9 aufzuheben. Dat. den 26ten Decembl. 1770.

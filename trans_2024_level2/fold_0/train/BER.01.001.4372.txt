@@ -1,0 +1,41 @@
+Law ID: BER.01.001.4372
+Name: Fernere Befehle, dass dess Oberst Lieutenant Gaudot von Neüenburg ausgebende Memoires und Schrifften nirgendswo sollen getrukt noch verkaufft werden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 30/30
+# High similarity (>=50%): 30
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_186_r5l23 Signalemt.
+#facs_187_r3l1 An
+#facs_187_r3l2 Die Herren Amtleuth Weltschen Lands, denne
+#facs_187_r3l3 Mürten und Tscherli, Item an die Herren Amtlei¬
+#facs_187_r3l4 im Seekand
+#facs_187_r3l5 fernere Befehle, daß deß Oberst Lieutenant Gani
+#facs_187_r3l6 von Neuenburg ausgebende Memoires und Schrifften
+#facs_187_r3l7 irgendwo sollen getrukt noch verbaufft werden.
+#facs_187_r3l8 Schultheis und Raht P.
+#facs_187_r3l9 Über dasjenige, so Wir albereit unterm 10.
+#facs_187_r3l10 dis, Eüch in Ansehen der Persohn des in
+#facs_187_r3l11 Holländischen Diensten stehenden Oberst Lieut¬
+#facs_187_r3l12 Gaudots und deßen allfähligen weiters¬
+#facs_187_r3l13 weisung euch überschrieben, haben Wir Euch
+#facs_187_r3l14 anbefehlen wollen, wo je von deßen Schrift
+#facs_187_r3l15 in Ansehen der letzt gestilten Neuenburgischen
+#facs_187_r3l16 Geschäfften, in Eüerem Amt entweders in
+#facs_187_r3l17 Manuscript, oder Getrukt in Vorschein komme,
+#facs_187_r3l18 solten, Ihr allßgleich alle Exemplaria davon
+#facs_187_r3l19 einziehet, und uns einsendet (an die Hl.
+#facs_187_r3l20 Amtleüte wo Stäcke sind :/ wie dann Ihr auch
+#facs_187_r3l21 denen in Eüwerem Amt sich allfählig vorfü¬
+#facs_187_r3l22 denden Buchhändleren und denen so Bücher
+#facs_187_r3l23 ausgleichen Befehlen, und Ihnen verdeuten
+#facs_187_r3l24 werdet, daß, wo sie dergleichen Schriften
+#facs_187_r3l25 iehalten wurden, sie solche allso gleich, und
+#facs_187_r5l1 S47
+#facs_187_r5l2 Ohne jemanden davon Doppel zu verkaufen
+#facs_187_r5l3 oder zum Lesen zu geben, Euch eingeben
+#facs_187_r5l4 Datl d 13t Marty 1770

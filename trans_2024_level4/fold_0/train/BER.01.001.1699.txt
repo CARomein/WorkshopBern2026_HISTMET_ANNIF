@@ -1,0 +1,26 @@
+Law ID: BER.01.001.1699
+Name: Umb Verbesserung der Strassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 15/15
+# High similarity (>=50%): 15
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_36_r4l1 65
+#facs_36_r4l2 Mündigen, Muri Buchsel, Frinnisperg,
+#facs_36_r4l3 Laupen, Stittl, Waderen Belp weib der Beße¬
+#facs_36_r4l4 nung der Straße
+#facs_36_r4l5 Schuldt heiß vndt Raht. Dieses langwirige Rägenwätten hatt
+#facs_36_r4l6 die Straßen so tiett vndt sumpfig gemachtet, daß dieselben
+#facs_36_r4l7 hohtwendiger maßen der beßer et vndt gnugbar gemaget,
+#facs_36_r4l8 werden müßen. Daher wir die hiemit beuelchen Wellen
+#facs_36_r4l9 In deiner Verwaltung Jethun, das aller Nohtwendige
+#facs_36_r4l10 beten, die tieffen straßen er fült vndt also der beßeret
+#facs_36_r4l11 verdind, das man solche ohne gefahr vndt ungemach brauchen
+#facs_36_r4l12 könne, dazu dann nit minder die abscheidung des esten
+#facs_36_r4l13 undt gestündts, nohtwendig sein will. Darnach weistu nu
+#facs_36_r4l14 stattung des einten undt anderen bei gewohnter
+#facs_36_r4l15 Inuerschatten. Dat 13. Septembris 1659.

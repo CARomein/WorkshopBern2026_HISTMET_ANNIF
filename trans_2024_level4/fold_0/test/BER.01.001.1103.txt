@@ -1,0 +1,71 @@
+Law ID: BER.01.001.1103
+Name: Verruffung der Plapparten und Duplexern halb.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 60/60
+# High similarity (>=50%): 57
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_228_r1l17 Alhar gehört den Mandat wegen der weinfuhr, so aber
+#facs_228_r1l18 in secundo sequenti folio eingeschriben worden
+#facs_228_r2l1 Ementhal und Exgouw.
+#facs_228_r2l2 Verröffung der Plapparten
+#facs_228_r2l3 und Duplexen halb.
+#facs_228_r2l4 Schuldtheiß etc. Demnach wir berichtet worden, das
+#facs_228_r2l5 Collatu
+#facs_228_r2l6 Vnsere Eidtgnossen die zeit dahar, die guten vnd grot
+#facs_228_r2l7 Silber sorden aufgewechslet, vermuntzet, vnd Im
+#facs_228_r2l8 schlechte Basler Plappart oder Rupter etc. Verwandlet
+#facs_228_r2l9 werdint, daher Vnsere Bandt, sonderlich das Ergän¬
+#facs_228_r2l10 Vnd Eimmenthal mit selbiger Vnnutzen müntz erfült, vnd
+#facs_228_r2l11 der enden kein gut gelt gefunden wirt: Als habend wir
+#facs_228_r2l12 zu Vorkommung deß daher vndtspringenden handtschadens
+#facs_228_r2l13 nach dem exempel anderer benachbarten Eidt gnössischer
+#facs_228_r2l14 neten, die sie ab vnd gar verrufft, hiemit auch gentzlich
+#facs_228_r2l15 Verpieten, Vnd die beuelhen wollen, die Vnsern offentlich
+#facs_228_r2l16 von Cantzlen geuerwahrnen sich deren abgethun, Vndt
+#facs_228_r2l17 fürhin, bey pren der Confiscation, keines wegs weder
+#facs_228_r2l18 angenommen noch ausgegeben. Dann das ist vnser will,
+#facs_228_r2l19 Datum ib. Septembris 1639
+#facs_228_r2l20 Kn.)
+#facs_229_r1l1 sich erzeigen will: Alß habend wir
+#facs_229_r1l2 nothwendig funden, die hiemit zebruelchen
+#facs_229_r1l3 vns ein ordenliche vßfuhrliche Verzeichnung
+#facs_229_r1l4 wie hof sich die Zinsen, so demein
+#facs_229_r1l5 Ampt durch Herren Seckelmeister
+#facs_229_r1l6 Frischertz Domahlen vffgeladen
+#facs_229_r1l7 worden, belauffnet, was und wien
+#facs_229_r1l8 Zu Caron empfangen, auch Ihmme
+#facs_229_r1l9 Danann geliferet und gewährt
+#facs_229_r1l10 In was sonten Jede Ciferung beschechen
+#facs_229_r1l11 vnd In was vreis, dieselben
+#facs_229_r1l12 angerechnet worden, Invent
+#facs_229_r1l13 nepflünfftigen Sambsag ohne
+#facs_229_r1l14 Pfählen zu Verneuern vnser entschlu¬
+#facs_229_r1l15 zu vberschicken. Das ist vnsers
+#facs_229_r1l16 Leill, Datum 2. Septemb. 1639
+#facs_229_r1l17 Alhar gehört den Mandat wegen der weinfuhr, so aber
+#facs_229_r1l18 in secundo sequenti folio eingeschriben worden;
+#facs_229_r1l19 ** d
+#facs_229_r1l20 boven
+#facs_229_r2l1 Cmmenthal und Exgönw.
+#facs_229_r2l2 Verrüffung der Flapparten
+#facs_229_r2l3 und Duplexen halb.
+#facs_229_r2l4 Schuldtheiß etc. Demnach wir berichtet worden, das
+#facs_229_r2l5 Tlatu. Vnsere Eedtgnossen die Zeit doharen die guten vnd groben
+#facs_229_r2l6 Silber höreden aufgewechslet, Vermüntzet, vnd Inn
+#facs_229_r2l7 schlechte Basler Plappart oder Rupten etc. Verwandlet,
+#facs_229_r2l8 werdint, daher Vnsere handt, sonderlich das Ergauw
+#facs_229_r2l9 vnd sumenthal mit selbiger Vnnutzen müntz erfült, vnd
+#facs_229_r2l10 der enden kein gut gelt gefunden wirt: Als habend wir
+#facs_229_r2l11 zu Vorkommung deß daher vndtsgeingenden handt schadens
+#facs_229_r2l12 nach dem exempel anderer benachbarten Eidt grossischer
+#facs_229_r2l13 Orten, die sy ab vnd gar Verrufft, hiemit auch gentzlich
+#facs_229_r2l14 Verpieten, Vnd die beuelchen wellen die Vnseren offentlich
+#facs_229_r2l15 von Cantzlen geuerwohrnen, sich deren abgethun, vndt
+#facs_229_r2l16 fürohig, bey pren der Confiscation, keines wegs weder
+#facs_229_r2l17 angenommen noch ausgegeben. Dann das ist Vnser will
+#facs_229_r2l18 Datum 16. Septembris 1639

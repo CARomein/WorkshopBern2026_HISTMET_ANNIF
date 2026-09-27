@@ -1,0 +1,92 @@
+Law ID: BER.01.001.1050
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 81/81
+# High similarity (>=50%): 80
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_168_r2l1 Beschrijbung den Weltschen Umstluthen
+#facs_168_r2l2 Ihre Rechnungen sub dato
+#facs_168_r2l3 sche Form wie voruer
+#facs_168_r2l4 Jahres geschriben worden beschreiben
+#facs_168_r2l5 niger
+#facs_168_r2l6 Biblispang vt.
+#facs_168_r2l7 Päckertlingen Schaffner
+#facs_168_r2l8 Milder
+#facs_168_r2l9 Oroy
+#facs_168_r2l10 Chillion
+#facs_168_r2l11 Leinwenstadt Spindt Mtr
+#facs_168_r2l12 Lausanna
+#facs_168_r2l13 Nother
+#facs_168_r2l14 etwis
+#facs_168_r2l15 Beaumont
+#facs_168_r2l16 Comamostier
+#facs_168_r2l17 Ifferdter
+#facs_168_r2l18 Listif Dees T.
+#facs_169_r2l1 die Weltschen Umptluth
+#facs_169_r2l2 Lausanno, Ifferdten, Newis Monse¬
+#facs_169_r2l3 Commamostier, Chillion Milder
+#facs_169_r2l4 Wiblischburg und Pädterlingen
+#facs_169_r2l5 üldt heiß vnnd Raht, etc. Wir haben zwar Vber¬
+#facs_169_r2l6 6
+#facs_169_r2l7 Insers, den 14 Martii nechsthingewichen, Vnsere
+#facs_169_r2l8 weltschen Landts Verwahrung halb, V gangen
+#facs_169_r2l9 reybten, die verzeichnuß von eidtlichen Amsteren
+#facs_169_r2l10 wie hoch den Vrschuß des zwölffte, mans, zu
+#facs_169_r2l11 denselben sich belauffe, von Lausannen nacher
+#facs_169_r2l12 empfangen, vnd waß vnsere durch gemeltes
+#facs_169_r2l13 peyben dahin gesagte Umtytlüth aldort beratschlaget
+#facs_169_r2l14 nughamlich verstanden. Da dann gut finden worden,
+#facs_169_r2l15 daß wo die gefahr zufferdten am größen sein wur¬
+#facs_169_r2l16 alßdann Vber die zwo Compagneyer von Wiblispur
+#facs_169_r2l17 vnd Päckerlingen, so zu deßelben secours verordne
+#facs_169_r2l18 noch von Lausanna vnd Morgex, Jedem auch namen
+#facs_169_r2l19 in Compagney, so sonsten zum Amts Newis verordne¬
+#facs_169_r2l20 zuzüchen. Wo aber das Umso Neimis selbste
+#facs_169_r2l21 in größer gefahr, diese zwo Compareyen von
+#facs_169_r2l22 Hausanne Vnndt Morgex, zu deßen Secours
+#facs_169_r2l23 gebraucht, darzu noch andere Zwo Companyen
+#facs_169_r2l24 Von Viviiß und Milden, so iust vff Romamosdie
+#facs_169_r2l25 warten, zu hilff geschickt werden. So aber
+#facs_169_r2l26 auch Romamostier selbsten die meiste gefahr
+#facs_169_r2l27 besorgete, den solchem fahl vber nechst bemelten
+#facs_169_r2l28 zu seinem Stecours verordnete Zwo Compangen
+#facs_169_r2l29 siuls und Milden, auch noch andere
+#facs_169_r2l30 ..
+#facs_169_r2l31 wo von Wiblispurg und Pätterlingen
+#facs_169_r2l32 so sonsten gar Fsterben gehörend, demselben
+#facs_169_r2l33 zu Folff kommen sollen. Also das Vice Versa¬
+#facs_169_r2l34 vnder disen dreyen s uempterenifferden kommancken
+#facs_169_r4l1 ad Newis wo die gefahr am grösten eines
+#facs_169_r4l2 vien Compagneyn in fahl den noth zu Hülff
+#facs_169_r4l3 bekommen wurde. Wo sie aber alle drü samethafft
+#facs_169_r4l4 angelochten, Alsdan auch von anderen Orten mehrer
+#facs_169_r4l5 hilff dahin gesandt werden solte etc. diß alles
+#facs_169_r4l6 habe wir vns gefallen lassen, vnd solche proiectiret
+#facs_169_r4l7 ordnung bestäctiget. Jedoch wyl es anJetzund nit
+#facs_169_r4l8 vmb diß, sonder vil mehr vmb den Vorschuß des
+#facs_169_r4l9 zwölffen, Mans in jedem Vngt wie derselb
+#facs_169_r4l10 ein bedünfftigen zu abhaltung der Raubereyen
+#facs_169_r4l11 zugesendt werden könne, Zethun ist: So bewelchende
+#facs_169_r4l12 wie die hiemit, die Jenigen, so im welchem verschus¬
+#facs_169_r4l13 des zwölffen mans, die ersten gebeuchs werden
+#facs_169_r4l14 Hernach auch die anderen, so sey von 14 du 14 Tagen
+#facs_169_r4l15 Ablösen Söllend, mit Tauff und Zunamen
+#facs_169_r4l16 vff zuschryben, die ersten das sy nit vbermacht,
+#facs_169_r4l17 von Hus blijbend, vnd alli daß sij sich sommetzlich
+#facs_169_r4l18 rüst halbend zuuermahnen, Ihnen auch
+#facs_169_r4l19 allfwegen ein fürer sampt einem Leutenant
+#facs_169_r4l20 zugegeben, So bald du dan vmb den secour
+#facs_169_r4l21 desselben vffchusses angesprochen seyn winst, denselben
+#facs_169_r4l22 in das begnete orth zu eiersenden. Oder hinwiederum
+#facs_169_r4l23 so du dessen beyerso, von denen orthen, die die
+#facs_169_r4l24 zum secours verordnet zuberuffen. Jedoch
+#facs_169_r4l25 ist hiebey vnser will, das solches ohne anengung
+#facs_169_r4l26 deß Reißgelbe beschechten, sonders die Vyeschoßnen
+#facs_169_r4l27 einbweders sich selbsten erhalten, oder doch
+#facs_169_r4l28 von Iren Gemeinden in anderhalb darthan
+#facs_169_r4l29 werden sollt Datum 7 Aprilis 1638

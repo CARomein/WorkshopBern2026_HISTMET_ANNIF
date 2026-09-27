@@ -1,0 +1,297 @@
+Law ID: BER.01.001.4057
+Name: Münzmandat.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 286/286
+# High similarity (>=50%): 276
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_327_r5l15 Placcard
+#facs_327_r5l16 Klein und Broße Räht
+#facs_327_r5l17 Dir Schultzeip,
+#facs_327_r5l18 der Stadt Hern, thun kund hiemit; daß Wir seitb geraumer
+#facs_327_r5l19 seit wahrnemmen müßen, die die guten Bald Gottes aus Unfern
+#facs_327_r5l20 Landen gezogen, und Unseren Angehörigen entrißen, dagegen
+#facs_327_r5l21 dann, schlechte uns geringhaltige Scheidmunzen unterschoben
+#facs_327_r5l22 und das ganze Land damit angefüllet worden, durch welchen
+#facs_327_r5l23 eingerechten Aufbechsel, Unsere liebe Angehörige zu großem¬
+#facs_327_r5l24 erlurst und Schaden gebracht worden, also daß Wie durch
+#facs_327_r5l25 dieste betrachtungen bebogen, und damit für die künfftige
+#facs_327_r5l26 zeithen, Unsere Lande vor solchem Nachtheil verbahrt bleiben
+#facs_327_r5l27 mögen, hierdurch eine Landes vätterliche Vorborg anzuordnen,
+#facs_327_r5l28 nohtwendig erachtet, zumahlen gut befunden haben, von denen
+#facs_327_r5l29 Ausländischen Scheidungen, nur die hernach vernamfete
+#facs_327_r5l30 und probhältig erfundene, in ihrem bisherigen Gang zu
+#facs_327_r5l31 laßen, alle andere geringhältige aber, theils abzubürdigen
+#facs_327_r5l32 und auf ihren innerlichen Werth hinunder zu sezen, oder
+#facs_327_r5l33 gänzlich zu verbiethen, wie hernach folget, als,
+#facs_328_r3l1 1.
+#facs_328_r3l2 2
+#facs_328_r3l3 #halbe bazen, trotz
+#facs_328_r3l4 Fryburg, Unterwelden
+#facs_328_r3l5 völliß und dischafft laßen
+#facs_328_r3l6 2
+#facs_328_r3l7 5.
+#facs_328_r3l8 6
+#facs_328_r3l9 7
+#facs_328_r5l1 Erlaubte Scheilmünzen, nach bisherigem Lauß.
+#facs_328_r5l2 hünf bähler von Genft und Neuenburg, sambt Ihren
+#facs_328_r5l3 Bruchstüben
+#facs_328_r5l4 Dertli von Schbrech und Schaffhausen, oder alte Eilß schilligen
+#facs_328_r5l5 schlappert von Hasel, oder alte vier schilligen
+#facs_328_r5l6 Recette, deren 3. einfache um 5. Bern bazen
+#facs_328_r5l7 Alte ganze Sazen, von Zürich, Luern, Uwg, Schbeit,
+#facs_328_r5l8 5
+#facs_328_r5l9 Zug und Neuenburg, um 4. Bern brenzer
+#facs_328_r5l10 6. Alte halbe dazu von diesen Orthen, umb 2. Kreuzer
+#facs_328_r5l11 7. Alte 3. breuzler von Fryburg und Solothurn, um 3. vr
+#facs_328_r5l12 Abgebürdigte Scheid, Münzen.
+#facs_328_r5l13 Stannische siben bahen stube, um 6. bazen, 2. treuzer.
+#facs_328_r5l14 Zürich Dertli, um 15. breuzer
+#facs_328_r5l15 Bänzlich verbottene Scheid Münzen.
+#facs_328_r5l16 Die fünflichen Stuk von Luiern, Urg, Schbeit, Underbalde
+#facs_328_r5l17 zugt, Erzburg, Wallis und Tischoff desel, samt Ihren
+#facs_328_r5l18 Druch stücken. Letzte zwey gattung insonderzeit, weilen
+#facs_328_r5l19 solche von sehr möglichem schroot.
+#facs_328_r5l20 Dortli von St. Gallen und Appenzell.
+#facs_328_r5l21 Dertl. von Kastel, oder 3. bazen stube de Ao 1724.
+#facs_328_r5l22 Banze Sazen von Walliß und Rischoff Gafel - #
+#facs_328_r5l23 Copplete Schilling oder Assis von Rastel
+#facs_328_r5l24 Einfache, alte und neue Schilling, von Zürich, Luiern, und
+#facs_328_r5l25 allen anderen tragen.
+#facs_328_r5l26 Alle breuzer, vierer rappen und ängster und dergl.
+#facs_328_r5l27 geringe München, was nicht mit dem Bernstämpfal
+#facs_328_r5l28 gezeichnet ist.
+#facs_328_r5l29 Alle Reichs Münzen ohne Ausnahm.
+#facs_328_r5l30 Worbey es den Verstand hat, daß alle außere Scheid¬
+#facs_328_r5l31 Münz /: worunter gezehlet wird, alles was unter dem
+#facs_328_r6l1 '842
+#facs_328_r6l2 werth eines Hern Pfunds, oder 7½ bazen Hern Währung
+#facs_328_r6l3 gebürdiget ist) welche hier nicht under die erlaubten
+#facs_328_r6l4 gesezt worden, ohne ausnahm verbotten seyn solle. Darum
+#facs_328_r6l5 doch nicht begriffen seÿn sollen, die drüchstück von denen
+#facs_328_r6l6 hier im Land gangbahren Silber Sortes, als welche fernershin
+#facs_328_r6l7 in ihrem proportednierten Werth gegen den ganzen verbleiben
+#facs_328_r6l8 mögen.
+#facs_328_r6l9 Damit aber die fernere Einberffung der schlechten Münzen
+#facs_328_r6l10 in Unsere Lande behinderet, und dieses so Landsschädliche
+#facs_328_r6l11 Übel, in seinem Ursprung ausgetilget werden möge, mithin
+#facs_328_r6l12 die so genante Kipper um Wippen, das ist, alle Held sämtler,
+#facs_328_r6l13 welche verrußene schlechte Münzen in Unsere Lande
+#facs_328_r6l14 ringen, und selbige gegen gute Münzen, oder auch gegangen
+#facs_328_r6l15 Hold und Silber Sorte aufbrchslen um aus dem Land ziehen
+#facs_328_r6l16 eine auch solche Negotianten, fabriganten, Commissionnaires
+#facs_328_r6l17 Creditoren, Euhrleuth, briehsträgere oder andere dergleichen
+#facs_328_r6l18 Gebinn- und Gewerb treibende Leüthe, die mit solchen ver¬
+#facs_328_r6l19 bottenen Münzen Zahlungen ausrichten, oder sonsten solche ins
+#facs_328_r6l20 Land streüen, gestöhet und gebührend abgestrafft werden, ist
+#facs_328_r6l21 Unser will, das das eingebrachte, schlechte und verbotten
+#facs_328_r6l22 Belt, von Unseren Ambtleüthen, mit Confiscation belegt, der¬
+#facs_328_r6l23 jenige aber, so solches einzubringen sich unterstehen wurde,
+#facs_328_r6l24 fürz erste mahl, auch eine bus von dem Doppleren
+#facs_328_r6l25 Werth der Consiscation zu bezahlen haben, fürs zweyte
+#facs_328_r6l26 nahl aber, sich nach bewandten Dingen, über das aus, noch
+#facs_328_r6l27 an Leib, Ehr und Huth abgestrafft werden solle; also auch
+#facs_328_r6l28 ergestalten gleichbohl, daß wenn derjenige keine solche
+#facs_328_r6l29 erbottene Münzen waren zugesandt worden, solches —
+#facs_328_r6l30 selbsten dem Richter des Orts angeben wurde, er von
+#facs_328_r6l31 der zu liberiert seyn, und annoch einen drittel von der
+#facs_328_r6l32 Confiscation haben solle; wurde er aber solches innerlich 3.
+#facs_328_r6l33 sagen anzuzeigen, unverlaßen, und jehdenoch von anderen
+#facs_329_r2l1 angegeben werden, so soll der Empfacher die ganze buß
+#facs_329_r2l2 hohlt aber der Übersender in gleicher Zeith, auch im
+#facs_329_r2l3 dann behändiget werden könte, ein jeder von beyden
+#facs_329_r2l4 den halbigen Theil zu bezahlen haben.
+#facs_329_r2l5 Ingleichem, und damit manniglich desto mehr zu
+#facs_329_r2l6 beobachtung dieser Hoch Oberfl. Ordnung, und zur
+#facs_329_r2l7 Wachsamkeit gegen die Widerhandlende angefrischet
+#facs_329_r2l8 werde, ist Unser Will und Meynung ferners, daß
+#facs_329_r2l9 die Confiscation und duß, in drey gleiche Theil vertheilt
+#facs_329_r2l10 werden, davon der einte zu Unferen Händen bezogen
+#facs_329_r2l11 borden, der andere aber dem Amtsman des Orthi¬
+#facs_329_r2l12 und der dritte dem Verleider heimbdienen soll, da
+#facs_329_r2l13 denn diesen beyden Ihr antheil an der Confiscation
+#facs_329_r2l14 nach dem innerlichen Werth mit gutem Beld ausgebechselt.
+#facs_329_r2l15 werden wird
+#facs_329_r2l16 Damit aber ein jeder seine verlust, auf denen
+#facs_329_r2l17 würklich habenden verbottenen Scheidmunchen, erleichteren
+#facs_329_r2l18 oder gänzlich abbenden, und sich derselben desto beßer
+#facs_329_r2l19 entladen können, wollen Wir aus solch gnädigen
+#facs_329_r2l20 Betrachtungen, männiglichen Zeith dazu vergönnen, bis auf
+#facs_329_r2l21 nächst könfftigen Neüjahrs Tag, und mögen wohl zugeben
+#facs_329_r2l22 daß bis dahin dieselbe im kleinen Handbauff, nicht
+#facs_329_r2l23 aber im großen Handel können angebotten werden
+#facs_329_r2l24 annoch soll niemand verbunden seyn, solche anzunemmen
+#facs_329_r2l25 -
+#facs_329_r2l26 der Ferner beyläuftigen Meynung, daß nach diesem
+#facs_329_r2l27 gestezten Termin auch in dem kleinen Hand kaufft, die
+#facs_329_r2l28 anbietung so wohl als die abnahm solcher Münzen
+#facs_329_r2l29 ohne anders aufhören soll, da ansonsten die wieder¬
+#facs_329_r2l30 handlende gleichfahls mit der Confiscation und hieroben
+#facs_329_r2l31 bestimmten Enß, ohne schonen würden angesehen werden,
+#facs_329_r2l32 von nun an, aber, soll gänzlich und austrubentlich¬
+#facs_329_r2l33 derbotten seyn, ferners von diesen schlechten Münzen
+#facs_329_r4l1 E44.
+#facs_329_r4l2 von Ausanhar ins Land zu bringen, unter oberläuterten
+#facs_329_r4l3 Confiscation uns duß, ohne Nachlaßung, wie dann auch den
+#facs_329_r4l4 igotianten, fabricanten etc. ebenfahls Wir hiemit abgestellt,
+#facs_329_r4l5 haben wollen, ihre Arbeitsleuth mit solch hier verrußenen
+#facs_329_r4l6 Münzen von nun an ferners zu bezahlen.
+#facs_329_r4l7 Wir wollen demenach allen Unseren Amtleüthen hiemit.
+#facs_329_r4l8 alles ernsts befohlen, und nachdrüklichst eingeschärft haben
+#facs_329_r4l9 auf diesere Unsere Ordnung eyferigst zu wachen, versehen
+#facs_329_r4l10 aber mit vollem vertrauen, es werden Unsere Liebe und
+#facs_329_r4l11 getreüe angehörige, aller Unserer Stätten und Landen
+#facs_329_r4l12 Diesen, ihren selbst eigenen Nutzen erzihlenden so Lands¬
+#facs_329_r4l13 vätterlichen als ernstmeinenden Verordnung, durch schuldigen
+#facs_329_r4l14 Behorsamb nachzuleben, und sich selbst vor Verantwortung
+#facs_329_r4l15 Straff und Schaden zu hüten, beflissen seyn. Geben in
+#facs_329_r4l16 Unserer Großen Rahtsversammlung den 4ten Juny 1755.
+#facs_329_r4l17 Canzley Dern.
+#facs_329_r4l18 Traduction.
+#facs_329_r4l19 Nous l'advoyer, Petit et Grand Conseil
+#facs_329_r4l20 de la Ville et Republique de Berne, savoir faisons, par
+#facs_329_r4l21 les présentes: que depuis longtems nous avons remarqué avec déplaisir
+#facs_329_r4l22 combien, par un trafic clandestin et illicite, on a fait sortir de nos terres
+#facs_329_r4l23 et Pays, les bonnes especes d'Or et d'Argent, et combien en échange,
+#facs_329_r4l24 on y a introduit toutes sortes de petites A menues Monoyes de
+#facs_329_r4l25 mauvais alloy, jusqu'à en remplir tout le païs, au grand préjudice
+#facs_329_r4l26 de Nos sujets et Ressortissans, qui n'ont pu que leur soufrir
+#facs_329_r4l27 beaucoup de la privation et rareté desdites bonnes especes
+#facs_329_r4l28 A ces causes, et à ce mûs par Nos soins paternels, pour le bien
+#facs_329_r4l29 et l'avantage du païs, en une de prévenir d'ultérieures pertes et
+#facs_329_r4l30 dommages, Nous avons jugé à propos, de faire à ce sujet un
+#facs_329_r4l31 pouveau Réglement, par lequel nous avons cru Statua et déterminer
+#facs_330_r2l1 1
+#facs_330_r2l2 2.
+#facs_330_r2l3 3.
+#facs_330_r2l4 4.
+#facs_330_r2l5 5
+#facs_330_r2l6 6
+#facs_330_r2l7 le Sr.
+#facs_330_r4l1 quelles sont les Monoyes étrangéres, auxquellés nous permettons le
+#facs_330_r4l2 libre leurs comme jusques à présent; quelques sont celles qui
+#facs_330_r4l3 nous avons mises au rabais et revites à leur valeur intrinseque;
+#facs_330_r4l4 et enfin quelles sont celles, auxquelles nous absolument interdit
+#facs_330_r4l5 tout cours dans les terres et pays de notre Domination, le
+#facs_330_r4l6 tout de la maniere Suivante;
+#facs_330_r4l7 Monoyes valables et quon pourra recevoir au leurs
+#facs_330_r4l8 comme par le passé
+#facs_330_r4l9 Les pieces de 5 baches de Genève et de Neufchâtel, avec leurs
+#facs_330_r4l10 fraction
+#facs_330_r4l11 Les Gros de Schwitz et de Schaffouse, ou pieces d'11. Lucernes
+#facs_330_r4l12 Les anciens plapparts de Bâle, ou pièces de 4. Lucernes.
+#facs_330_r4l13 les Piccettes, à 5 baches de Berne, les 3. simples.
+#facs_330_r4l14 Les anciennes pieces d'un bache, des soins de Zurech, Lucerne, Uri
+#facs_330_r4l15 Schweitz, Loug et Neufchâtel, pour 4. Creutzer Bernois.
+#facs_330_r4l16 Les anciens demibaches de tous ces loins, à 2. Creutzer,
+#facs_330_r4l17 A les anciennes pieces de 3. Creutzer des Cantons de Frybourg
+#facs_330_r4l18 et de soleure, pour 3. Cautzer de Boure
+#facs_330_r4l19 Monnoyes reduites et mises au Rabais.
+#facs_330_r4l20 Les Reales ou pièces d'Espagne de 7. baches, n'auront cours que
+#facs_330_r4l21 pour 6 baches et 2. Creutzer de Berne.
+#facs_330_r4l22 Et les Gros de Zurich, apellés en allemand Corthlis, ne vaudront
+#facs_330_r4l23 que 15. Creutzer piece
+#facs_330_r4l24 Monoyes absolument interdites, et qui n'auront plus de cours
+#facs_330_r4l25 Les pieces de 5. baches de Lucerne d'Uri, de Schweitz, d'Unterwald,
+#facs_330_r4l26 de Roug, de Fribourg et de Vallay A de l'Eveché de Bâle, avec
+#facs_330_r4l27 leurs fractions, sur tout les deux dernieres Sortes, où la
+#facs_330_r4l28 grande inégalité de leur alloy.
+#facs_330_r4l29 2° Les Gros ou Oerthli de St Gall et d'Appenzell.
+#facs_330_r4l30 3. Les gros, ou pieces de 3. baches du Canton de Bâle, fabriqués en 17
+#facs_330_r6l1 6461
+#facs_330_r6l2 Les Baches entiers de Vallay A de l'Evêché de Bâte
+#facs_330_r6l3 4
+#facs_330_r6l4 E. Les demibaches de Fribourg, d'Unterwaldon, de Vallay et de l'Evêche de B.
+#facs_330_r6l5 6. Les assis ou pieces de 2. Lucernes du Canton de Bâle
+#facs_330_r6l6 les Lucernes ou Schillings simples et doubles de Zürich, de Lucerne,
+#facs_330_r6l7 et de tout autre Coin.
+#facs_330_r6l8 tous les Creutres, demi Creutzer et tout autre sorte de menüe monoye,
+#facs_330_r6l9 1787
+#facs_330_r6l10 qui ne porte point l'empreinte du soin de Berne
+#facs_330_r6l11 Et enfin toutes les monvroyes d'Empire, sans exception
+#facs_330_r6l12 9
+#facs_330_r6l13 Bien entendu au reste, que tout billon ou meme monoye étrangeré
+#facs_330_r6l14 dans lequel Nous comprenons tout ce qui est évalué au dessous d'une livre
+#facs_330_r6l15 Bernoise, ou de 7. baches et ¼ de notre monnoye :/ dont les especes ne se
+#facs_330_r6l16 trouvent point compreises parmi celles que nous venons d'indiquer comme
+#facs_330_r6l17 bonnes et permises, sera interdit et déffendu sans exception, formi les
+#facs_330_r6l18 pactions des Especes d'argent qui ont cours dans notre païs, lesquelles
+#facs_330_r6l19 nous laissons Subsister plus outre dans leur valeur proportionnée à leur
+#facs_330_r6l20 centier
+#facs_330_r6l21 Et afin dempêcher desormais l'entrée des monoyes de bas alloy dans
+#facs_330_r6l22 nos terres et paes, et les expulser radicalement, densi que pour parvenir
+#facs_330_r6l23 lautre côté à reprimer les billoneurs et rogneurs, c.a.d. tous ce
+#facs_330_r6l24 Agjoteurs et changeurs qui introduisent a mauvais billon dans le
+#facs_330_r6l25 païs, et l'y échangent contre des bonnes monnoyes, ou même contre de
+#facs_330_r6l26 espèces d'Or et d'argent, pour en sortir ces dernieres, de même que ceux
+#facs_330_r6l27 des Négociants, fabriquans, Comissionaires, Spediteurs, Poiteniers,
+#facs_330_r6l28 Messagers ou porteurs de Lettres et tels autres, qui, pour faire usuré
+#facs_330_r6l29 et pour un vil interêt, pourroient faire des paiemens en pareilles
+#facs_330_r6l30 Monnoyes défendues, ou les repandre d'une autre maniere dans le
+#facs_330_r6l31 païs nous voulons et ordonnons que toute monnoye proscrète
+#facs_330_r6l32 et de mauvais alloy, ainsi illicitement introduite, soir saisie et
+#facs_330_r6l33 confisquée par nos bailliss: que de plus, celui qui se donnera la
+#facs_330_r6l34 licence de l'introduire, ait à payer pour la premiere fois, une
+#facs_330_r6l35 Amende au double de l'argent confis que, et qu'en cas de récidive,
+#facs_330_r6l36 il soit en outre châtie, en son corps, ou en son honneur Accibière
+#facs_330_r6l37 Suivant l'exigence du cas, de maniere cependant, que s'il arivoit
+#facs_330_r6l38 que celui à qui on auroit fait un envoy de semblables mon
+#facs_330_r6l39 noyes defendües, allât se denoncer lui même au juge du lieu,
+#facs_331_r1l1 il sera non seulement exemt de la ditte amende, mais aura
+#facs_331_r1l2 même encore un tiers de la confiscation échue; cas menant
+#facs_331_r1l3 au contraire, qu'un tel négligeant de faire sa déclaration
+#facs_331_r1l4 dans l'Espace de 3. jours, et qu'il fut ni plus ni moins
+#facs_331_r1l5 denoncé par un autre, celui qui aura receu et recite le
+#facs_331_r1l6 paquet, devra payer l'Amende en entier, à moins qu'on
+#facs_331_r1l7 ne puisse en même tems se saisir de celui qui en saura
+#facs_331_r1l8 fait l'envoy, auquel cas chacun d'eux, payera la moitié de
+#facs_331_r1l9 Amende imposée
+#facs_331_r1l10 En outre, et pour d'autant plus intéresser un chacun, à
+#facs_331_r1l11 l'Observation de la présente Ordonance, et pour veiller
+#facs_331_r1l12 d'autant mieux sur les Transgresseurs, Nous voulons et
+#facs_331_r1l13 entendons, que toutes Confiscations et amendes soyent
+#facs_331_r1l14 partagées en 3. portions égales, dont l'une sera apliquée à
+#facs_331_r1l15 notre fisc, l'autre a partiendra au baillifou juge du Lieu
+#facs_331_r1l16 A la troisiéme au Délateur, et seront ces 2. derniers portions
+#facs_331_r1l17 échangées et délivrées aux dits Baillifs et aux Délateurs
+#facs_331_r1l18 un bonnes Especes, selon la valeur intrinseque des sommes
+#facs_331_r1l19 son fisquées.
+#facs_331_r1l20 épendant pour mettre les particuliers, qui se trouveront
+#facs_331_r1l21 actuellement pour vûs du plus au moins de ces mauvais billons
+#facs_331_r1l22 en état de diminuer ou deviter tout à fait la perte qu'ils
+#facs_331_r1l23 pourroient y faire et pour leur donner le moyen de S'en
+#facs_331_r1l24 décharger plus facilement; Nous voulons bien, par un
+#facs_331_r1l25 effet de l'attention paternelle, leur accorder pour cela,
+#facs_331_r1l26 le terme de tout le reste de cette année, et ne fixer l'entiére
+#facs_331_r1l27 "
+#facs_331_r1l28 interdiction de ces monnoyes defendices, qu'au jour du
+#facs_331_r1l29 nouvel an prochain; consentans que d'ici là on puisse
+#facs_331_r1l30 encore les offrir dans le petit détail et pour les minües dépenses
+#facs_331_r1l31 Journalieres, mais nullement pour de gros payemens; ensorte
+#facs_331_r1l32 néanmoins que personne ne sera tenu de les recevoir; et bien
+#facs_331_r1l33 entendu en outre, qu'aprés le dit terme expiré, il sera dès lors
+#facs_331_r1l34 absolument interdit a un chacun, ni d'offrir, ni de recevoir
+#facs_331_r1l35 de telles monnoyes défendues, pas même dans le petit détail,
+#facs_331_r3l1 648
+#facs_331_r3l2 et dessus limité; le tout, sous la peine irrémissible de la confiscation
+#facs_331_r3l3 A de l'Amende ci dessus déterminée contre les Transgresseurs; faisons
+#facs_331_r3l4 dés à présent défense absolue et pleniere d'en introduire desormais
+#facs_331_r3l5 de dehors dans les terres et païs de Notre Obeïssance, sous la même
+#facs_331_r3l6 peine irremissible de la confiscation et de l'Amende ci dessus imposée
+#facs_331_r3l7 défendons de même totalement, en vertu des présentes à tous Négation.
+#facs_331_r3l8 tabriquans = de payer des maintenant et à l'avenir leurs ouvriers
+#facs_331_r3l9 en pareilles Mohnoyes proserites.
+#facs_331_r3l10 Mandons sur ce et comandons très expressément et trés
+#facs_331_r3l11 serieusement a tous Nos Bailliss, de veiller Soigneusement à
+#facs_331_r3l12 l'Executions du présent Reglement: duquel Nous nous promettons
+#facs_331_r3l13 une exacte Observation de la part de tous nos chers A feaux
+#facs_331_r3l14 Sujets et Ressortissants, d'autant que, conformément à nos soins
+#facs_331_r3l15 Paternets il na pour but que leur propre advantage: et
+#facs_331_r3l16 qu'ainsi par une duë et exacte Obeissance ils sauront se garantir
+#facs_331_r3l17 de leur domage et de la rigueur des peines qui seront infligées aux
+#facs_331_r3l18 Frans gresseurs. Donne en nôtre Conseil Souverain, ce 4 juin 1755.
+#facs_331_r3l19 Chancellerie de Berne

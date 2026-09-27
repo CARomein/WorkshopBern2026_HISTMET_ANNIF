@@ -1,0 +1,548 @@
+Law nr: BER.01.001.4570
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 536/536
+# High similarity (>=80%): 499
+# Low similarity (<80%): 37
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_117_r3l2 Alle deutsch und Weltsche Herren Amtleute
+#facs_153_r4l4 Vier Stadt, Freyweibel und Amann
+#facs_160_r2l18 das Hausier wesen und Verbott der frem¬
+#facs_160_r2l19 den Krähnträger und Kolpörteür betreffen.
+#facs_36_r3l7 Schultheiß und Rath
+#facs_92_r9l30 landt
+#facs_160_r3l1 310
+#facs_160_r3l2 kommenden gedrubten Plabards werdet Ihr
+#facs_160_r3l3 ersehen, was für eine Verordnung Wir zu
+#facs_160_r3l4 Außnung der inländischen Handlung und
+#facs_160_r3l5 zur Sicherheit Unserer Bürgeren und
+#facs_160_r3l6 Anderthanen in Ansehn des Hausierwe¬
+#facs_160_r3l7 gens, in Landesvätterlicher Absicht er¬
+#facs_160_r3l8 gehen zu lasen für gut befunden
+#facs_160_r3l9 Mit deren Zusendung nun befehlen
+#facs_160_r3l10 Wir Euch gleich allen Unseren Amtleu¬
+#facs_160_r3l11 ten solche zu jedermans Nachricht und
+#facs_160_r3l12 Verhalt von Canzler verlesen an gewohn¬
+#facs_160_r3l13 ten Orten anschlagen, behörigen Orts
+#facs_160_r3l14 zu könftiger Nachricht einschreiben
+#facs_160_r3l15 zu laden und selbige genauest und
+#facs_160_r3l16 mit möglichstem Fleis und Eifer
+#facs_160_r3l17 zu beobachten und zu handhaben
+#facs_160_r3l18 Aus Weltsch Land Allin
+#facs_160_r3l19 dabey dann ein wachsames Aug
+#facs_230_r5l7 obzuhalten, daß deme nachgelebt
+#facs_160_r3l21 bünfftig nicht mehr drey monatliche
+#facs_160_r3l22 Zedel oder Billets de Roulenieut
+#facs_160_r3l23 an Colporteurs oder wer es immer seyn
+#facs_160_r3l24 mag, ertheilt werden.
+#facs_160_r3l25 Wie dann geschehen werde, Wie
+#facs_160_r3l26 Uns bestens zu Euch versehen. Datl. den
+#facs_160_r3l27 3t Juny 1785
+#facs_9_r3l1 31
+#facs_100_r2l1 soll.
+#facs_14_region_1627971782200_27l1 Verordnung
+#facs_196_r4l25 betreffen
+#facs_161_r3l3 das Hausier Wesen
+#facs_161_r3l4 Terbott der
+#facs_161_r3l5 fremden Kräzenträger und Kolporteurs
+#facs_161_r3l6 Wir Schultheiß und Rath der Stadt
+#facs_161_r3l7 und Republik Sern, entbieten allen Un¬
+#facs_161_r3l8 feren Lieben und getreuen Sürgeren und
+#facs_161_r3l9 Anderthanen Unserer Teutschen und Welt
+#facs_161_r3l10 schen Städte und Lande, Unseren gnädigen
+#facs_161_r3l11 und geneigten Willen, und geben ihnen hin
+#facs_161_r3l12 mit zu vernehmen.
+#facs_181_r2l3 Als dann wir durch Erfahrung
+#facs_161_r3l14 Erfahrung belehret worden, das nicht nur
+#facs_161_r3l15 durch so viele fremde Landstreicher Krämer
+#facs_161_r3l16 und Hausierer die Handlung in Unser
+#facs_161_r3l17 Landen verdorben worden, sondern auch
+#facs_161_r3l18 dieselben durch dergleichen Leute in Un¬
+#facs_161_r3l19 Eicherheit gesezt werden; so ist dar
+#facs_161_r3l20 durch unsere Landes vätterliche Vor¬
+#facs_161_r3l21 sorge aufgewecket und Wir bewogen
+#facs_161_r3l22 worden, zu Äußnung der Handlung
+#facs_161_r3l23 und Herstellung gemeiner Lühe und
+#facs_161_r3l24 Sicherheit, Unsere in ehe vorigen Zeiten
+#facs_9_r3l1 31
+#facs_161_r4l2 ausgegangene Ordnungen aufs neue
+#facs_161_r4l3 in Untersuchung zu nehmen, und solche
+#facs_161_r4l4 denen gegen wärtigen Zeiten und
+#facs_161_r4l5 Amständen gemäs abzuändern
+#facs_161_r4l6 und einzurichten; Wir haben dero¬
+#facs_161_r4l7 wegen in Aufhebung aller ältern hier
+#facs_161_r4l8 einschlagenden Verfügungen hiemit
+#facs_161_r4l9 Für die Zukunft festgesezt und geord¬
+#facs_161_r4l10 net.
+#facs_161_r4l11 Erstlich, soll die Aufsicht über das Hand¬
+#facs_161_r4l12 lungswesen überhaubt, eben Wie
+#facs_161_r4l13 die Ertheilung der Bewilligungen
+#facs_161_r4l14 oder Verkauf Patenten, für die dem
+#facs_161_r4l15 Land unentbehrlichen Artikel und Waa
+#facs_161_r4l16 ren /: worunter die Savoyer Kessler
+#facs_161_r4l17 und Magnins mitbegriffen) ohne
+#facs_161_r4l18 Ausnahm, sowohl in der Hauptstadt
+#facs_161_r4l19 als in gesamten Unseren Landen
+#facs_161_r4l20 Unserem Commerum Rath überlasen
+#facs_161_r4l21 leyn, und einzig und allein von dem
+#facs_161_r4l22 selben abhangen; also, das nicht
+#facs_161_r4l23 nur allen übrigen Dybasterien
+#facs_161_r4l24 sondern auch allen Unseren Amt¬
+#facs_161_r4l25 leuten, nachdrüblichst verborten
+#facs_161_r4l26 Wird, irgend einige Hausier Patente
+#facs_161_r4l27 oder
+#facs_9_r3l1 31
+#facs_162_r2l1 oder Gewilligung zu ertheilen, oder
+#facs_162_r2l2 Denen Hausiereren irgendloo in Unserm
+#facs_162_r2l3 Landen einigen Aufenthalt oder Ablag
+#facs_162_r2l4 weder zu gestatten noch zu dulden
+#facs_162_r2l6 Zweytens: Sollen die bis dahin 40
+#facs_162_r2l7 denen ZollConcisen in Unserer Landschaft
+#facs_162_r2l8 Waat ertheilten drey monatlichen
+#facs_162_r2l9 Roulier zedel von nun an abgeschaft
+#facs_162_r2l10 und denenselben hingegen die genaueste
+#facs_162_r2l11 Wachsamkeit auf alle fremden sage¬
+#facs_162_r2l12 nanten Krähmträger öder Kolporteurs,
+#facs_162_r2l13 welche ohne Patent ins Landkommen
+#facs_162_r2l14 solten, hiemit eingeschärft seyn
+#facs_162_r2l15 drittent gleichwir Wir allen rechtschaffen
+#facs_162_r2l16 nen eidgnößischen und fremden Kaufleuten
+#facs_162_r2l17 und Krameren, die ihre Waaren durch
+#facs_162_r2l18 gewohnte öffentliche Auchrleute, Land
+#facs_162_r2l19 straßen und Kaufhäuser gehen lasen
+#facs_162_r2l20 ferners bewilligen, die offenen Jahr
+#facs_162_r2l21 markte der Städte, nicht aber die
+#facs_162_r2l22 dorfmärkte zu besuchen; Also haben
+#facs_162_r2l23 Wir hingegen allen Hausiereren oder
+#facs_162_r2l24 Kräzentragern, ohne Ausnahm, welche
+#facs_162_r2l25 ihre Waaren mit eigenen Fuhrwerben
+#facs_162_r2l26 oder auf dem Rübern ins Landbring¬
+#facs_109_r6l1 211
+#facs_162_r4l2 und mit keinen Patenten von Unferem
+#facs_162_r4l3 Comercierath versehen sind (welche
+#facs_162_r4l4 die, so sie erhalten, allezeit bey sich
+#facs_162_r4l5 tragen, und bey denen Zollstädten vor
+#facs_162_r4l6 weisen sollen :/ allen Aufenthalt
+#facs_162_r4l7 und Verkauf ihrer Waar an - und
+#facs_162_r4l8 außer denen Jahrmärkten der Stad¬
+#facs_162_r4l9 ten und dörferen, hiemit bey Straf
+#facs_162_r4l10 von zwanzig Pfunden für das erste.
+#facs_162_r4l11 mahl, für das zweytemahl aber
+#facs_162_r4l12 bey Confiscation derselben, völlig
+#facs_181_r2l24 und
+#facs_162_r4l14 Wobey es in ansehn der Inden bey
+#facs_162_r4l15 der besondern ihrenthalb ertheilten
+#facs_162_r4l16 Verordnung, so lang es mit gefallen
+#facs_162_r4l17 Wird, sein bewenden haben soll.
+#facs_162_r4l18 Viertens: soll Unseren Fürgeren und
+#facs_162_r4l19 Anderthanen aller Verkauf und Com¬
+#facs_162_r4l20 mission handel, für Rechnung von frem
+#facs_162_r4l21 fen Kaufleüten, es seye, das sie ihnen
+#facs_162_r4l22 Waaren zusenden, oder solche zu Ende
+#facs_162_r4l23 der Meßen und Marbten der Stad¬
+#facs_43_r2l14 Uns vorwaltenden Bedenken aber, haben
+#facs_162_r4l25 der Confiscation verbocten und die Kauf¬
+#facs_162_r4l26 leüte, welche von einer Messe oder
+#facs_255_r2l9 3.15
+#facs_163_r2l1 Jahrmarkt zum andern irgendwo in
+#facs_163_r2l2 denen Städten Unserer Landen Waaren
+#facs_163_r2l3 Hinderlasen würden, angehalten werden
+#facs_163_r2l4 solche anzuzeigen und in die Kaufhäuser
+#facs_163_r2l5 zu legen, oder in verschlosenen Magi¬
+#facs_163_r2l6 ziene zu lasen, und die Schlüssel denen
+#facs_163_r2l7 Kaufhaus verwalteren oder Zoll Cam
+#facs_163_r2l8 misen zuzustellen.
+#facs_163_r2l9 Es sollen auch alle Contrakte, von
+#facs_163_r2l10 welcher Natur sie mier seyn mögen,
+#facs_163_r2l11 Die von Krämern under dem Namen
+#facs_163_r2l12 von Bedienten, Commisen oder Comissiv¬
+#facs_163_r2l13 nairs für fremde Kaufleute errichtet
+#facs_163_r2l14 Berden, in allen Fällen alsnull und
+#facs_163_r2l15 nichtig angesehen, und kein Recht da
+#facs_163_r2l16 für gehalten werden.
+#facs_163_r2l17 Von denen hievor bestimmten Buß
+#facs_163_r2l18 und Confiscationen soll ein dritt¬
+#facs_163_r2l19 theil Uns verrechnet werden, der
+#facs_163_r2l20 Zweite drittheil dem Richter, und der
+#facs_163_r2l21 fritte dem Verleider heim dienen.
+#facs_163_r2l22 Alle Unsere bestelten Zoll¬
+#facs_163_r2l23 Commisen und Aufschere sollen bey
+#facs_163_r2l24 ihren Eiden schuldig seyn, auf die
+#facs_163_r2l25 dieser Ordnung verbottene unpä¬
+#facs_3_region_1627936339514_16l1 1
+#facs_163_r4l1 316
+#facs_163_r4l2 tentierte Hausierer und Krämer Fleißin
+#facs_163_r4l3 zu achten, sie beym Eintritt ins Land
+#facs_163_r4l4 zu Warnen, denen Fehlbaren ihre
+#facs_163_r4l5 Waaren anzuhalten, und sie sofort
+#facs_163_r4l6 dem Richter anzuzeigen.
+#facs_163_r4l7 Wir tragen Unserem Comercien
+#facs_163_r4l8 Rath hiemit auf, die Oberaufsicht
+#facs_163_r4l9 zu Ausübung dieser Verordnung
+#facs_163_r4l10 in samtlichen Unseren Städt und
+#facs_163_r4l11 Landen überhaupt zu besorgen, und
+#facs_163_r4l12 alles das zu veranstalten, was zu
+#facs_163_r4l13 Erfüllung derselben gereichen kan;
+#facs_163_r4l14 derselbe soll in der Hauptstadt und
+#facs_163_r4l15 deren Schirb, wie auch in denen
+#facs_163_r4l16 Landgerichten in denen anderen
+#facs_163_r4l17 Städten und Amteren aber Unserer
+#facs_163_r4l18 Amtleute, denen Wir die Execution
+#facs_163_r4l19 under ihrer eigenen Verantwortung
+#facs_295_r4l14 halten, damit derselben gestand
+#facs_163_r4l21 theilen, und der beschwärende
+#facs_92_r9l8 Jitterlingen
+#facs_163_r4l23 Tatten. Die Anzeige der Fehlbaren
+#facs_163_r4l24 aber soll Unsern Underbeamten
+#facs_163_r4l25 und vorgesezten bey ihren Eiden ein¬
+#facs_163_r4l26 geschärft seyn.
+#facs_164_r1l1 317.
+#facs_187_r2l23 s
+#facs_164_r3l1 Welche Unsere Verordnung, deren soll
+#facs_164_r3l2 strekung auf den ersten Wintermonat
+#facs_164_r3l3 nächst künfftig anfangen soll, und die
+#facs_164_r3l4 Wir Uns je nach denen Umständen
+#facs_164_r3l5 abzuänderen vorbehalten, zu jeder¬
+#facs_164_r3l6 mans Nachricht öffentlich von Kanz
+#facs_164_r3l7 len verlesen und gewöhnter Orten
+#facs_164_r3l8 angeschlagen werden soll. Geben
+#facs_164_r3l9 den 3ten Prachmonats 1785.
+#facs_65_r3l5 Canzley Bern.
+#facs_83_r3l6 en
+#facs_164_r3l11 Reglement
+#facs_164_r3l12 concernant les Colporteurs
+#facs_164_r3l13 Defense
+#facs_1_r1l2 des
+#facs_164_r3l15 Colporleurs et vagabonds étrangers.
+#facs_184_r3l2 Nous l'Avoyer et Conseil
+#facs_164_r3l17 la Ville et Republique de Berne, à tous
+#facs_164_r3l18 Nos chers et fidels sujets et ressortissants
+#facs_147_r3l1 leur mandons Nôtre gracieuse Bienveil
+#facs_164_r3l20 et par les présentes savoir faisons.
+#facs_164_r3l21 Qu'une longue experience nous ayant
+#facs_4_r8l9 a
+#facs_164_r4l1 318
+#facs_164_r4l2 appris, que non seulement le grand nombre
+#facs_164_r4l3 de Rodeurs, Merciers et Colporteurs
+#facs_164_r4l4 étrangers à continué à la ruine du
+#facs_164_r4l5 Comerie dans nos Pays, mais que même
+#facs_164_r4l6 La sureté publique y est exposée par
+#facs_164_r4l7 le sejour de ces sortes de Géné¬
+#facs_164_r4l8 Notre attention paternelle Nous
+#facs_164_r4l9 a engagés, tant à l'Avantage du Com
+#facs_164_r4l10 merce, qu'aux fins de retablir la tran
+#facs_164_r4l11 quilité et la sureté publique, d'exami
+#facs_164_r4l12 ner de nouveau les précédentes Ordo
+#facs_164_r4l13 nances émanées a cet égard, pour y
+#facs_164_r4l14 faire les changements nécessaires, et
+#facs_164_r4l15 les a dapter aux Tems, et aux circonstances
+#facs_164_r4l16 ces présentes. Nous avons donc, annul,
+#facs_164_r4l17 ant toutes les Dispositions plus
+#facs_164_r4l18 anciennes concernant cet Objet, trouvé
+#facs_164_r4l19 bon, d'ordonner et de statuer pour l'avenir
+#facs_164_r4l20 par les Présentes
+#facs_164_r4l21 1° Que l'Inspection, touchant le trafic en
+#facs_164_r4l22 general ainsi que l'Octroi des Permissions
+#facs_164_r4l23 ou Patentes, pour la Vente des Marchan-
+#facs_164_r4l24 dises et articles de premiere Nécessité
+#facs_164_r4l25 le parmi lesquels Nous comprenons aussi
+#facs_164_r4l26 ceux, que debitent les Chaudronniers
+#facs_164_r4l27 soit magnius Savoyards :/ sera confiée,
+#facs_164_r4l28 tant en la Capitale, que dans tous Nos-
+#facs_164_r4l29 Pays, à Notre Conseil de Comerie,
+#facs_6_region_1633454281779_2775l1 d
+#facs_69_r5l9 31/9
+#facs_165_r2l1 et dependra uniquement de lui; en
+#facs_165_r2l2 sorte, qu'il est defendu très expressément
+#facs_4_r10l4 les
+#facs_165_r2l4 non seulement à tous les Dicasteres,
+#facs_165_r2l5 mais encore à tous Nos Baillifs, d'accord
+#facs_165_r2l6 der de maniere ou d'autre, des Patentes
+#facs_165_r2l7 soit Permissions de col porteur, ni de soelf
+#facs_165_r2l8 frir, que les Colporteurs sejournent, ou
+#facs_165_r2l9 ayent des Dépots, en quel lieu que ce
+#facs_165_r2l10 puisse etre des Pays de Notre Domi
+#facs_165_r2l11 nation.
+#facs_165_r2l12 2° Foutes les Permissions, accordées
+#facs_165_r2l13 jusqu'ici pour le terme de trois mois
+#facs_165_r2l14 par les Comis des Leages de Nos Pays
+#facs_165_r2l15 Romands, sous le Nom de Billets de
+#facs_165_r2l16 Roulement, seront des à present abord
+#facs_165_r2l17 lies, et lesdits Comis chargés au contraire
+#facs_165_r2l18 de veiller, avec la plus scrupuleuse atter,
+#facs_165_r2l19 tion, à l'entree des Colporteurs étranger
+#facs_165_r2l20 non munis de Patentes
+#facs_165_r2l21 3° Nous permettons come du passé
+#facs_165_r2l22 à tous veritables Negociants & Merciers
+#facs_165_r2l23 tant suisses qu'Etrangers, qui font
+#facs_165_r2l24 transporter leurs Marchandises sur
+#facs_165_r2l25 les grandes toutes, de la manière usitée,
+#facs_165_r2l26 et par des Voituriers publics, en les fait
+#facs_165_r2l27 sant passer par Nos Douanes, de feu
+#facs_4_r8l17 C
+#facs_165_r3l2 par le Mojen de leu
+#facs_165_r3l3 Propre déclare, le
+#facs_165_r3l4 pour et la debit
+#facs_165_r3l5 de ces mêmes Mar.
+#facs_165_r3l6 chandises
+#facs_165_r4l1 320
+#facs_165_r4l2 quenter les foires publiques de nos villes
+#facs_165_r4l3 à l'exception cependant des Villages
+#facs_165_r4l4 mais défendons par contre très expresse.
+#facs_165_r4l5 ment à tous les Colporteurs sans
+#facs_165_r4l6 Exception, qui, n'étant point munis
+#facs_165_r4l7 de Patentés par Notre Conseil de Com¬
+#facs_165_r4l8 merie /: lesquelles Patentes ceux qui
+#facs_165_r4l9 les obtiennent auront soin d'avoir tou¬
+#facs_165_r4l10 jours sur eux, pour pouvoir les pro-
+#facs_165_r4l11 duire aux Peages par où ils passent :/
+#facs_165_r4l12 portent, ou indroduisent des mar
+#facs_165_r4l13 handises aux foires de Nos Villes
+#facs_165_r4l14 et Villages, soit pendant la durée de
+#facs_165_r4l15 les foires, soit hors de là, sous peine
+#facs_165_r4l16 de Vingt Livres d'Amende pour la
+#facs_165_r4l17 premiere fois, et pour la seconde de
+#facs_165_r4l18 a confiscation des dites Marchandi
+#facs_165_r4l19 ses,
+#facs_165_r4l20 Voulant qu'a legard des juifs on ob
+#facs_165_r4l21 serve l'Ordonnance qui les concerne par
+#facs_165_r4l22 ticulierement, aussi longtems que
+#facs_165_r4l23 Nous le jugerons convenable
+#facs_165_r4l24 4e Nous voulons et ordonnons, que
+#facs_165_r4l25 tout trafic et Comerce de Commission
+#facs_165_r4l26 pour le compte de Negociants etrangers
+#facs_170_r2l10 dieser Absicht an besten entspre¬
+#facs_34_r4l7 Nachant
+#facs_166_r1l1 321.
+#facs_166_r2l1 tissants, soit qu'on leur adresse ces Marchan
+#facs_166_r2l2 dises, soit qu'on les leur laisse en depos
+#facs_166_r2l3 dans les Villes à l'expiration des foires,
+#facs_166_r2l4 sous peine de confiscation, & que les Nego,
+#facs_166_r2l5 diants, qui laisseront des Marchandises
+#facs_166_r2l6 d'une foire à l'autre, en quelle Ville de Nos
+#facs_166_r2l7 Pays que ce puisse être soient tenus de
+#facs_166_r2l8 les indiquer et deposer dans les Doua-
+#facs_166_r2l9 nes et Halles publiques, ou bien de
+#facs_166_r2l10 les laisser dans des Magasins duement
+#facs_166_r2l11 fermés, en en remettant les clefs aux
+#facs_166_r2l12 Directeurs des Douanes, ou aux comis
+#facs_1_r1l2 des
+#facs_166_r2l14 De même tous les Contracts, de
+#facs_166_r2l15 qu'elle nature qu'ils soyent, faits par
+#facs_166_r2l16 des Merciers sous le nom de commis,
+#facs_166_r2l17 Domestiques, ou Commissionaires en
+#facs_166_r2l18 faveur de Negotiants étrangers, se
+#facs_166_r2l19 ront, en tous les cas, regardés, comme
+#facs_166_r2l20 nuls, et de toute Nullité en Justice
+#facs_166_r2l21 De ces amendes et confiscations
+#facs_166_r2l22 ci dessus reglées, il nous sera tenu
+#facs_166_r2l23 compte pour un tiers, un tiers sera pour
+#facs_166_r2l24 le Juge du lieu, et l'autre au Dénonci
+#facs_53_r10l1 da
+#facs_166_r2l26 Tous nos comis et inspecteurs de
+#facs_170_r1l1 329
+#facs_166_r4l2 Peages doivent sous leurs serments veiller
+#facs_166_r4l3 avec un soin particulier sur les Col.
+#facs_166_r4l4 porteurs et Merciers, non munis de
+#facs_166_r4l5 Patentes, dont il est fait mention dans
+#facs_166_r4l6 la présente Ordonnance, les avertir à
+#facs_166_r4l7 leur entrée dans le Pays, arreter les
+#facs_166_r4l8 Marchandises aux Contrevenants
+#facs_166_r4l9 et les denoncer ensuite au Juge
+#facs_166_r4l10 du Lieu
+#facs_166_r4l11 Nous chargeons Nôtre Conseil
+#facs_166_r4l12 de Comerce par les Presentes, d'avoir
+#facs_166_r4l13 la Surinspection à l'Execution de
+#facs_166_r4l14 cette Ordonnance, dans toutes Nos
+#facs_166_r4l15 Pilles et Pays en général, et de pouvoir
+#facs_166_r4l16 à tout ce qui peut tendre a son exacte
+#facs_166_r4l17 Observation; le constituant pour Juge
+#facs_166_r4l18 en premier ressort pour ce qui regarde
+#facs_166_r4l19 La Capitale et va Banlieue, ainsi que
+#facs_166_r4l20 les quatre jurisdictions, soit Landge
+#facs_166_r4l21 richt, et dans les autres Villes et Bail,
+#facs_166_r4l22 liages de Notre Domination les Bail¬
+#facs_166_r4l23 Eifs respectifs, que Nous rendons
+#facs_336_r3l26 nomen werden sollen, als berdet
+#facs_166_r4l25 accordant à la partie condamnée le
+#facs_166_r4l26 bénéfice d'Appel par devant Nous.
+#facs_166_r4l27 Nous voulons aussi, que les
+#facs_270_r4l1 323
+#facs_28_r4l1 Coll
+#facs_167_r3l1 subdélégués de Nos Baillifs, de même
+#facs_167_r3l2 que les preposés, soient tenus sous leur
+#facs_167_r3l3 Serment, de dénoncer les coupables.
+#facs_167_r3l4 La présente Ordonnance d'ont l'Exé,
+#facs_167_r3l5 cution aura lieu dès le premier jour du
+#facs_167_r3l6 Mois de Novembre prochain, et
+#facs_167_r3l7 que Nous Nous reservons de chan,
+#facs_167_r3l8 ger selon les circonstances, sera lue
+#facs_167_r3l9 et publiée en chaire et affichée aux
+#facs_167_r3l10 endroits accoutumes, pour l'Instruc,
+#facs_167_r3l11 tion de tous et un chacun. Donné
+#facs_167_r3l12 le 3e juin 1785
+#facs_48_r3l25 Chancellerie de Berne
+#facs_23_region_1633454616028_2913l1 An
+#facs_167_r3l15 Die Herren Amtleut von Frutigen, Nydau¬
+#facs_167_r3l16 Thorberg, Anbonne, und Neus- denen
+#facs_167_r3l17 Amann zu Stettlen und Amann zu
+#facs_167_r3l18 Rechigen
+#facs_167_r3l19 Berichte über die Beschaffenheit der
+#facs_167_r3l20 Landstrasen
+#facs_167_r3l21 Schultheiß Raht und Burger. Unseren
+#facs_157_r4l1 oll.
+#facs_166_r1l1 321.
+#facs_167_r5l2 Amtleuten ist bey Ihren Eyden einge¬
+#facs_167_r5l3 bunden, alljährlich die pflichtmäßige
+#facs_167_r5l4 Gerichte einzusenden, über die Beschaf¬
+#facs_108_r3l21 fenheit der Landstraßen P da nur
+#facs_167_r5l6 nun solches für diß Jahr von Euch
+#facs_167_r5l7 noch nicht beschehen, so tragen Wir
+#facs_167_r5l8 Euch auf den Bericht der Landstras
+#facs_167_r5l9 sen Eüers Amts Unserer Ver¬
+#facs_167_r5l10 ordnung deutschen Zollkammer,
+#facs_167_r5l11 / N. F. Weltsch Land, Weltsche Zoll.
+#facs_167_r5l12 kammer) mit aller Beförderung
+#facs_167_r5l13 einzufenden, und in Zukunft Euerer
+#facs_108_r6l3 er disorts aufhabenden Pflicht ein¬
+#facs_108_r6l4 gedenk zu seyn. Dat. 14. Juny 1784.
+#facs_167_r5l16 10th Junius 1785
+#facs_374_r2l1 ar
+#facs_167_r5l18 alle deutsch und Weltsche Herren Andeleute
+#facs_167_r5l19 la Rebland ist
+#facs_167_r5l20 Privilegium exclusivum für Louis Me¬
+#facs_167_r5l21 Liziet und Jean Maubert von Orbe zu
+#facs_167_r5l22 Verfertigung neuer Frühl
+#facs_167_r5l23 Auf beschehenes
+#facs_36_r3l7 Schultheiß und Rath
+#facs_167_r5l25 Lechrerbietiges Nachlwerben Unserer
+#facs_168_r1l1 325
+#facs_168_r2l1 Mediat Angehörigen Louis Melizet und
+#facs_168_r2l2 Jean Maubert beide von Orbe, welche im
+#facs_168_r2l3 Trüel erfunden so weniger Holz und
+#facs_168_r2l4 Hilf erforderet, und vermitlest
+#facs_168_r2l5 ließen in bürzerer Zeit eine mehre¬
+#facs_168_r2l6 ne Quantitat Trauben, weit beser
+#facs_168_r2l7 als mit den gewohnten Trühlen ge¬
+#facs_168_r2l8 preßet werden kan etc. haben Wie
+#facs_168_r2l9 denenselben zu alleiniger Verfer¬
+#facs_168_r2l10 stigung und Verkauffung solcher Trul
+#facs_168_r2l11 ein Privilegium exclusivum für
+#facs_168_r2l12 Unsere Deutsch und weltschen Land
+#facs_168_r2l13 auf 20. Jahr lang gnädigst und
+#facs_168_r2l14 dahin concediert, das mannglich die
+#facs_168_r2l15 Nachmachung und Debitierung dieser
+#facs_168_r2l16 Trühlen während dieser 20. Jahre
+#facs_168_r2l17 Bey Confiscation und einer Buß von
+#facs_168_r2l18 Einhundert Thaler verbosten seyn soll.
+#facs_168_r2l19 deßen Ihr zu Einer Wißenschafft und
+#facs_168_r2l20 allfähligen Execution solch Privilegii fals
+#facs_168_r2l21 Ihr dafür von den Impetranten requi¬
+#facs_168_r2l22 nert würdet, zugleich aber auch zu
+#facs_168_r2l23 Bekantmachung deselben, damit
+#facs_168_r2l24 Eüere Amts angehörige sich allenfals
+#facs_6_region_1627936574015_66l1 6
+#facs_3_region_1627936339514_16l1 1
+#facs_19_r2l1 32
+#facs_168_r5l2 vor Schaden hüten können berichtet
+#facs_168_r5l3 werdet.
+#facs_297_r5l13 Datum den 13.
+#facs_23_region_1633454616028_2913l1 An
+#facs_117_r3l2 Alle deutsch und Weltsche Herren Amtleute
+#facs_145_r5l4 Vier Städt, Freyweibel und Amann
+#facs_109_r6l10 Ernd Ferien
+#facs_36_r3l7 Schultheiß und Rath
+#facs_168_r5l10 Voy nächstens angehenden Erndferien,
+#facs_168_r5l11 welche die gewohnte Zeit als vom 10
+#facs_168_r5l12 July biß 10. Augusti Dauren werden,
+#facs_168_r5l13 Haben Wir Eüch wie alljarlich geschieht
+#facs_168_r5l14 erinneren wollen, während dieser
+#facs_168_r5l15 Zeit keine andere als äußerst
+#facs_168_r5l16 Wichtige Bischäffte, weder vor
+#facs_168_r5l17 Aus nach an Unsere verordnete
+#facs_168_r5l18 Kammeren und Tribunal gelangen
+#facs_168_r5l19 zu lasen. Wie geschehen werde
+#facs_163_r4l21 theilen, und der beschwärende
+#facs_168_r5l21 den 20. Junius 1785
+#facs_169_r1l1 327
+#facs_28_r4l1 Coll
+#facs_169_r3l1 Zedel an Mehwh. der deutschen Holzbammer
+#facs_169_r3l2 Neu zu veranstaltende Holzlieferung
+#facs_169_r3l3 aus dem Oberlande
+#facs_169_r3l4 Aus dem von Euch MehwH. Ihr Gnaden
+#facs_169_r3l5 vorgelegten Gutachten, haben Hoch¬
+#facs_169_r3l6 dieselben mit vermögen ersehen, das
+#facs_70_r2l14 Wald
+#facs_169_r3l8 in Sonderheit die Obrigkeit lichen in den
+#facs_169_r3l9 Ämteren Wimmis, Frutigen und zwey¬
+#facs_169_r3l10 sinnen - noch nicht so holzloos seyn
+#facs_169_r3l11 daß sie nicht betrachtliche Lieferungen
+#facs_169_r3l12 ohne Nachtheil der verschiedenen Ge¬
+#facs_169_r3l13 nen aushalten mögen
+#facs_169_r3l14 So wie Ihr Mehwhl. Euch bis
+#facs_169_r3l15 fahin mit dem besten Erfolg bestre¬
+#facs_169_r3l16 bet, die Er Surgerschaft mit dem
+#facs_169_r3l17 forderlichen Holz münterbrochen zu
+#facs_169_r3l18 versehen, eben so haben Ihr d. na den
+#facs_169_r3l19 das gerechte zu trauen zu Ihnen
+#facs_169_r3l20 das Ihr auch dißmahl, da es um
+#facs_169_r3l21 frische Holzlieferungen zu thun ist,
+#facs_169_r3l22 alles das vorkehren werdet, das
+#facs_169_r3l23 Ihr nach Eüeren blugen Einsichten die
+#facs_169_r3l24 sem Vorsatz am vortheilhaftesten
+#facs_169_r3l25 finden werdet
+#facs_169_r3l26 damit auch die von Euerer
+#facs_28_r4l1 Coll
+#facs_19_r2l1 32
+#facs_169_r5l2 Mehl. Cammer aus zu der nöhtigen Besichtigung
+#facs_169_r5l3 dieser Waldungen niedergesezte Comission
+#facs_169_r5l4 von den Herren Landvögten der gedach¬
+#facs_169_r5l5 ten Ämter, alle erforderliche Hilfe und
+#facs_169_r5l6 Handbietung erhalte, so werdet Ihr Mchhl
+#facs_169_r5l7 die mit komende Befehl schreiben, wovon
+#facs_169_r5l8 eine Abschrift beiligt, dieser Kommission
+#facs_169_r5l9 zu ihrem Behelf zustellen.
+#facs_169_r5l10 zu seiner Zeit werden aber Ihr Bna¬
+#facs_169_r5l11 den dasjenige erwarten, das Hochden
+#facs_169_r5l12 selben über diese zu veranstaltenden
+#facs_169_r5l13 Lieferungen zur Benehmigung wird
+#facs_169_r5l14 vorgetragen werden. Actum den
+#facs_169_r5l15 21 Junius 1785.
+#facs_169_r5l16 Wimmis, Frutigen und zweysimmen
+#facs_27_r3l12 Obid
+#facs_169_r5l18 Unsere verordnete deutsche Holstamer, hat
+#facs_169_r5l19 Aus den Bericht abgestattet, das insonder¬
+#facs_169_r5l20 heit in Eüerem Amt sich verschiedene Wal¬
+#facs_169_r5l21 dungen befinden, die eine beträchtliche Lie¬
+#facs_169_r5l22 ferung für die Hauptstadt ohne Nachtheil
+#facs_169_r5l23 der verschiedenen Gemeinen aushalten
+#facs_169_r5l24 können. Da derselben Besichtigung
+#facs_170_r1l1 329
+#facs_170_r2l1 unentbehrlich ist, um sowohl die Lieferungen
+#facs_170_r2l2 zu Stand zu bringen, als die verschiedene
+#facs_170_r2l3 auf dem Ort bestens
+#facs_170_r2l4 sich eräugnen mögende Hinderniße zu
+#facs_170_r2l5 heben; so haben Wir gedacht Unser Holz¬
+#facs_170_r2l6 Cammer aufgetragen, durch eine aus ihrem
+#facs_170_r2l7 Mittel abzusendende Komission al
+#facs_170_r2l8 les das veranstalten zu trachten
+#facs_170_r2l9 das auf Unsere Genehmigung hin
+#facs_170_r2l10 dieser Absicht an besten entspre¬
+#facs_170_r2l11 chen mag.
+#facs_170_r2l12 Da es sich nun zutragen möchte
+#facs_170_r2l13 faß diese Kommißion Euerer Amtlichen
+#facs_170_r2l14 Hilfe bedürftig ware, oder sonsten
+#facs_170_r2l15 verschiedene Anweisungen nöhtig
+#facs_170_r2l16 hätte, so befehlen Wir Euch nimt
+#facs_170_r2l17 derselben auf ihrammelden alles das
+#facs_170_r2l18 angesäumt zukommen zu lasen, das ihr
+#facs_170_r2l19 zur Erleichterung und zur Befürderung
+#facs_170_r2l20 ihrer Arbeit erforderlich seyn wird.
+#facs_170_r2l21 Gott mit Euch.
+#facs_170_r2l22 Datum den 21. Junius 1785.

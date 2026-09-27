@@ -1,0 +1,41 @@
+Law ID: BER.01.001.3294
+Name: Den Bättag aussschreiben.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_492
+# Matched: 30/30
+# High similarity (>=80%): 30
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_264_tr_1l_2 An Alle d. und W. Ambtlruth 4 Stück
+#facs_31_r1l2 Collat
+#facs_264_tr_1l_4 Freyweibel und Amen auch die 4.
+#facs_264_tr_1l_5 gemeinen Ambter, item p zedel.
+#facs_264_tr_1l_6 An hiesige T. und W. Käntzel.
+#facs_264_tr_1l_7 Den Bäckag außschreiben
+#facs_264_tr_1l_9 Auf den 7. Septembr. ad formam
+#facs_264_tr_1l_10 item an Genff, Neuwenburg,
+#facs_264_tr_1l_11 Gubernator und Fürstl. Rath
+#facs_264_tr_1l_12 und vier Ministral, Neuvent¬
+#facs_264_tr_1l_13 Stadt und Kirl. dat. 6. July Voig
+#facs_264_tr_1l_14 Schs. und Raht der Statt dern
+#facs_264_tr_1l_15 Auß dambbahrer errmerung vor so vilfaltige Guthaten
+#facs_264_tr_1l_16 Die der Liebe Godt dieses Jahr durch unß abermahl
+#facs_264_tr_1l_17 durch seinen Sägen widerfahren laßen, ist auff Letzege¬
+#facs_264_tr_1l_18 haltmer, Gadischer Tagleistung under den Evangelischen
+#facs_264_tr_1l_19 Loblicher ohrten, im abermahliger Damb, Buß, fast, und
+#facs_264_tr_1l_20 Badtag auff sonstag den 7. Herbst Monet nechstlaufften Pla¬
+#facs_264_tr_1l_21 cidlert, verglichen und angenommen worden, alß daß
+#facs_264_tr_1l_22 derselbe aller der Löbln. Eydtgnoßschafft und zuge¬
+#facs_264_tr_1l_23 Qulanten Reformierten Ohrten, fürlich um alß
+#facs_264_tr_1l_24 Leiliglich begangen werden, sollen damit der Liebe
+#facs_264_tr_1l_25 Gott darfon ein Gefallen haben möge; Maßen
+#facs_264_tr_1l_26 dann wir denselben Unserseits auch angenommen,
+#facs_264_tr_1l_27 und durch Gegenwährtige offene Verründungen
+#facs_264_tr_1l_28 Jedes gläubiges Hertzerrneret und Vermahnet haben wollend,
+#facs_264_tr_1l_29 darzu sich rechtchaffen zu rüsten, und disen Tag wie auch übrige
+#facs_264_tr_1l_30 Zeit seines Lebens Alß gotseliglich zubringen zu helfen, damit
+#facs_264_tr_1l_31 der sagen daß Allerhöchsten vorbaß obnuß wolten ihme
+#facs_264_tr_1l_32 dat. 6. July 1719

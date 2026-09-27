@@ -1,0 +1,201 @@
+Law ID: BER.01.001.4073
+Name: Der Bayerischen Ganz und Halben Thaleren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 190/190
+# High similarity (>=50%): 120
+# Low similarity (<50%): 70
+# Not found: 0
+#
+#facs_42_r5l20 Placeard
+#facs_42_r5l21 der Bäyerischen ganz und halben Thaler
+#facs_42_r5l22 Wir Schultheiß Klein und Große.
+#facs_42_r5l23 Rähte der Stadt Zern thun kund hiemit,
+#facs_42_r5l24 Alsdann sint einlicher Zeit dafür, in Uns
+#facs_42_r5l25 ren Landen ganse und halbe Thaler aus
+#facs_42_r5l26 Zageren, deren abtrub hierunter beyge¬
+#facs_42_r5l27 füegt ist, in verschen komme, den dann
+#facs_42_r5l28 40. Bazen und
+#facs_42_r5l29 mann den ersteren und
+#facs_42_r5l30 den anderen um die helfte anzunehmen
+#facs_43_r2l1 vermeint, haben Wir nach gezogen
+#facs_43_r2l2 ner, und Unß wiederbrachter prob¬
+#facs_43_r2l3 von dem wahren märlichen Wert
+#facs_43_r2l4 apr
+#facs_43_r2l5 dieser Stuben Unß veranlaßet,
+#facs_43_r2l6 gesehen solche himunter zu sehen.
+#facs_43_r2l7 und zu evaluieren, also daß
+#facs_43_r2l8 obiger Beyrische ganze unzum
+#facs_43_r2l9 Thaler, so läng er
+#facs_43_r2l10 stemme Korn und Schrot¬
+#facs_43_r2l11 unveränderet bleibt, und
+#facs_43_r2l12 34. Bezug der halbe aber hinpertine¬
+#facs_43_r2l13 auf Weltsche
+#facs_43_r2l14 in 17. Wäzen hiesiger behauptecard, pag. 9
+#facs_43_r2l15 und höher mit in Unseren Statt ungeschrieben
+#facs_43_r2l16 und Landen angebotten und
+#facs_43_r2l17 abgenommen werden noch anderst
+#facs_43_r2l18 Lauf und ganz haben sollen,
+#facs_43_r2l19 Bey straff der Confiscation, auf
+#facs_43_r2l20 den Geben so wohl als den
+#facs_43_r2l21 Collat
+#facs_43_r2l22 Nemmeri und nach bebauten
+#facs_43_r2l23 Umständen auch mit mehreren
+#facs_43_r2l24 Wir befohlen demnach Unseren
+#facs_43_r2l25 Ober und Unterbeamteten, ihres
+#facs_43_r2l26 orts pflichtmäßig zu achten und
+#facs_43_r3l1 3
+#facs_43_r3l2 = Hand obzuhalten, daß die Uber¬
+#facs_43_r3l3 tr.
+#facs_43_r3l4 ffeket werden und
+#facs_43_r3l5 ing in allen
+#facs_43_r3l6 gen geschehe,
+#facs_43_r3l7 _
+#facs_43_r3l8 Herrn
+#facs_43_r3l9 C
+#facs_43_r3l10 Burgdorff, Trachselbald, Signaub¬
+#facs_43_r3l11 Sumißbald, Thun, Winniß, Saanen
+#facs_43_r3l12 Interlaken Haßle, Waagen,
+#facs_43_r3l13 Anlangen, Arburg, Lenzburg, proft
+#facs_43_r3l14 item an die Freyb: und Ämen, dene
+#facs_43_r3l15 Lanzb: Zoffingen, Frau, Brugg Civ. sepp.
+#facs_43_r3l16 Vingt
+#facs_43_r3l17 Ihnen das Fürkauf
+#facs_43_r3l18 Placcord zusenden
+#facs_43_r3l19 Iren
+#facs_43_r3l20 Statthalter und Rahte
+#facs_43_r3l21 der L. Stand Luiern Unß dero in
+#facs_43_r3l22 Beylagen abgetrubte Vorstorg wieder
+#facs_43_r3l23 den Reichs Enebauff in ihrer Bott¬
+#facs_43_r3l24 Pipbeit eingestandt, haben Wir
+#facs_43_r3l25 /: gleich andere benachbarten
+#facs_44_r2l1 vermeint, haben Wir nach gez¬
+#facs_44_r2l2 ner, und Unß Biederbrachter Probe¬
+#facs_44_r2l3 von dem wahren märlichen Bürg¬
+#facs_44_r2l4 dieser Stuben Unß veranlaßet
+#facs_44_r2l5 gesehen solche hinunter zu sehen.
+#facs_44_r2l6 und zu evaluieren, also daß
+#facs_44_r2l7 obiger Hayrische ganze unordere
+#facs_44_r2l8 Thaler, so lang er¬
+#facs_44_r2l9 seinem Korn und Schrot¬
+#facs_44_r2l10 unverändert bleibt, und
+#facs_44_r2l11 34. Bezeug der halbe aber Unpertiner
+#facs_44_r2l12 der Weltsche
+#facs_44_r2l13 um 17. Wagen hiesiger behauptacard, pag. 90
+#facs_44_r2l14 und höher mit in Unseren Statt ingeschriebt
+#facs_44_r2l15 und Landen angebotten- und
+#facs_44_r2l16 abgenommen werden noch anderst
+#facs_44_r2l17 Lauff und ganz haben sollen;
+#facs_44_r2l18 Bey straff der Confiscation, auf
+#facs_44_r2l19 den Geben so wohl als den
+#facs_44_r2l20 Collat
+#facs_44_r2l21 Nemmeri und nach bekanten.
+#facs_44_r2l22 Umständen auch mit mehreren
+#facs_44_r2l23 Wir befehlen demnach Unseren
+#facs_44_r2l24 Ober und Unterbeamteten, ihres
+#facs_44_r2l25 orts pflichtmäßig zu achten.
+#facs_44_r3l1 79
+#facs_44_r3l2 = Hand obzuhalten, daß die Über¬
+#facs_44_r3l3 tretter entdeket werden und
+#facs_44_r3l4 Jurgdorff, Trachsell
+#facs_44_r3l5 uld.
+#facs_44_r3l6 Sumißbald, thun
+#facs_44_r3l7 Interlaken. Haß
+#facs_44_r3l8 Arbungen, et
+#facs_44_r3l9 a
+#facs_44_r3l10 item an Sie pr
+#facs_44_r3l11 Lanzb: Zoffingen,
+#facs_44_r3l12 Ihnen das xxx
+#facs_44_r3l13 Placcord J.
+#facs_44_r3l14 Statthalter und
+#facs_44_r3l15 Der L. Stand Lin
+#facs_44_r3l16 Beylagen abgetr¬
+#facs_44_r3l17 den leicht für
+#facs_44_r3l18 Pigkeit einigen
+#facs_44_r3l19 Euch /: gleich.
+#facs_45_r2l1 vermeint, haben Wir nach gezoge¬
+#facs_45_r2l2 ner, und Unß wiederbrachter probat
+#facs_45_r2l3 von dem wahren merlichen Bart¬
+#facs_45_r2l4 dieser Stuben.
+#facs_45_r2l5 gesehen solche
+#facs_45_r2l6 und zu evaluier
+#facs_45_r2l7 obiger Beyrischen
+#facs_45_r2l8 Theilen Thalck
+#facs_45_r2l9 se
+#facs_45_r2l10 me
+#facs_45_r2l11 as
+#facs_45_r2l12 Abra
+#facs_45_r2l13 hûnpertine.
+#facs_45_r2l14 34
+#facs_45_r2l15 et Weltsche
+#facs_45_r2l16 Er bahrung placard, pag. 90
+#facs_45_r2l17 frau Statt ungeschrieben
+#facs_45_r2l18 ten und
+#facs_45_r2l19 noch anderste
+#facs_45_r2l20 ben sollen;
+#facs_45_r2l21 fiscation, auf
+#facs_45_r2l22 als den
+#facs_45_r2l23 Collat
+#facs_45_r2l24 bekanten
+#facs_45_r2l25 mit mehreren
+#facs_45_r2l26 ach Unseren
+#facs_45_r2l27 erbeamteten, ihren
+#facs_45_r2l28 läßig zu achten und
+#facs_45_r3l1 79
+#facs_45_r3l2 Hand obzuhalten, daß die Über¬
+#facs_45_r3l3 tretter entdeket werden und
+#facs_45_r3l4 dieser Unser Verordnung in allen
+#facs_45_r3l5 ein stattstammes Genüeger geschehe,
+#facs_45_r3l6 Geben d. 18ten Aug. 1756
+#facs_45_r3l7 Canzley Clerre
+#facs_45_r3l8 C
+#facs_45_r3l9 A
+#facs_45_r3l10 Rurgdorff, Trachselbeld, Signaulo
+#facs_45_r3l11 Sumißwald, Thun, Winniß, Saad
+#facs_45_r3l12 l
+#facs_45_r3l13 Interlaken Hoßle, Wangen
+#facs_45_r3l14 Anlangen, Arburg, Lenzburg, proft.
+#facs_45_r3l15 item an die Freyb: und Ämman, dene
+#facs_45_r3l16 Lanzb: Hoffingen, Frau, Brugg Civ. sepp.
+#facs_45_r3l17 Vingt
+#facs_45_r3l18 Ihnen das Fürbauf
+#facs_45_r3l19 Placcard zusenden.
+#facs_45_r3l20 den
+#facs_45_r3l21 Statthalter und Rahte
+#facs_45_r3l22 der L. Stand Luiern Unß dero in
+#facs_45_r3l23 Beylagen abgetrubte Vorstorg wirdt
+#facs_45_r3l24 den Reichs Fürbauff in ihrer Bott
+#facs_45_r3l25 Sigkeit eingestandt haben Wir
+#facs_45_r3l26 Euch /: gleich andere benachbarten
+#facs_46_r2l1 kennenet, haben Wir nach gezogen
+#facs_46_r2l2 ner, und Unß Biederbrachter proba¬
+#facs_46_r2l3 von dem Crafe
+#facs_46_r2l4 dieser Stuben
+#facs_46_r2l5 gesehen solchs
+#facs_46_r2l6 und zu evalet
+#facs_46_r2l7 obiger sey.
+#facs_46_r2l8 Theilen Thaler.
+#facs_46_r2l9 Remen 4
+#facs_46_r2l10 Andern
+#facs_46_r2l11 selbe aber rückertine
+#facs_46_r2l12 der Weltsche
+#facs_46_r2l13 östiger Behrunplacard, pag. 90.
+#facs_46_r2l14 Unseren Statt ungeschriebe
+#facs_46_r2l15 gebotten, und
+#facs_46_r2l16 dem noch anderst
+#facs_46_r2l17 haben sollen;
+#facs_46_r2l18 refiscation, auf
+#facs_46_r2l19 als dem
+#facs_46_r2l20 Collat
+#facs_46_r2l21 Ich bekanten
+#facs_46_r2l22 mit mehreren
+#facs_46_r2l23 Demnach Unseren
+#facs_46_r2l24 aterbeamteten, ihres
+#facs_46_r2l25 mäßig zu achten und
+#facs_46_r3l1 79
+#facs_46_r3l2 Hand obzuhalten, daß die Über¬
+#facs_46_r3l3 tretter entdeket werden und
+#facs_46_r3l4 dieser Unser Verordnung in allem
+#facs_46_r3l5 in stattstames Genüegen geschehe,

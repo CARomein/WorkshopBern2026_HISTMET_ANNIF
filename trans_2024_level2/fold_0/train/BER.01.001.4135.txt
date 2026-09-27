@@ -1,0 +1,80 @@
+Law ID: BER.01.001.4135
+Name: Ihnen anbefehlen, dass bey neüw auffbauenden Häuseren, dieselbe nicht allzunahe aneinander gesezet, denne dass die Häuser mit Ziegeldächeren- item in allen Dörfferen Dorfwächter- ferners die Vorgesezte den Umgang mit Visitation der Häuseren fleissig halten- und die Dorffschafften sich Feürsprüzen anschaffen sollen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 69/69
+# High similarity (>=50%): 67
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_54_r6l1 99
+#facs_54_r6l2 Luy
+#facs_54_r6l3 Alle Teutsche Amtleuth, Freyweibel und Amann
+#facs_54_r6l4 Ihnen anbefehlen, daß bey Neus auffbauenden
+#facs_54_r6l5 Häusern, dieselbe nicht allzuneh an einander
+#facs_54_r6l6 gesezet, denn daß die Häuser mit Ziegel dächeren¬
+#facs_54_r6l7 Item in allen dörfferen Dorf Wächter, Ferners
+#facs_54_r6l8 die vorgesezte den Umgang mit Visitation
+#facs_54_r6l9 der Häusernen fleißig halten, und die
+#facs_54_r6l10 Dorfschafften sich Feursprüzen
+#facs_54_r6l11 Anschaffen sollen.
+#facs_54_r6l12 Schultheiß und Raht der Stadt Bern
+#facs_54_r6l13 Die einiche Zeit daher hin und wider in Unseren
+#facs_54_r6l14 Landen entstandene nahmhaffte Feurs Brunsten,
+#facs_54_r6l15 haben uns veranlaßet, behöriger maßen
+#facs_54_r6l16 überlegen zu laßen, auf was weise dergleichen
+#facs_54_r6l17 Unseren Unterthanen höchst beschwährlich fallende,
+#facs_54_r6l18 Unglük ausgemitten werden könten? so haben
+#facs_54_r6l19 Wir aus Landes Vätterlicher, zu Unserer gesamten
+#facs_54_r6l20 Unterthanen tragender Liebe bewogen, nachste¬
+#facs_54_r6l21 hende Verordnung disohrts vorzubehren gut
+#facs_54_r6l22 befunden, benantlichen und
+#facs_54_r6l23 Wie nun Uns daheriges befinden an heute hinterbracht
+#facs_54_r6l24 worden
+#facs_55_r2l1 Deß Ersten, wollen Wir, daß, wo in einem
+#facs_55_r2l2 Dorff, Ein oder mehrere Neüe Häuser, jetzt
+#facs_55_r2l3 und in Zukunfft auffgebauet werden wolten;
+#facs_55_r2l4 daß solchen fahls selbige nicht allzunehr an
+#facs_55_r2l5 einander, oder an andere Bürkl. befindtlich
+#facs_55_r2l6 Behausungen oder Scheuren aufgebauet, und weil
+#facs_55_r2l7 immer möglich solche mit Ziegel, Dächeren
+#facs_55_r2l8 versehen werden sollen, damit solche nicht so
+#facs_55_r2l9 gleich von anderen Entzündet, und in Brand
+#facs_55_r2l10 gestehet werden mögen
+#facs_55_r2l11 Zweytens, Befehlen Wir Unseren Getreuen
+#facs_55_r2l12 Lieben Unterthanen in allen Dörfferen, Ein
+#facs_55_r2l13 oder Mehrere Dorffbächter dem Kehr nachzu¬
+#facs_55_r2l14 bestellen, damit solche allstündlichen,
+#facs_55_r2l15 Insonders bey Nacht, den ganzen Umbgang
+#facs_55_r2l16 deß Dorffs halten, und wo jeh ein Unglüt
+#facs_55_r2l17 widerfahren solte, das nöhtige zu schlauinger
+#facs_55_r2l18 hilff vorbehren mögen.
+#facs_55_r2l19 Prittens, wollen Wir, daß in denen Bösere
+#facs_55_r2l20 die Feüngschauer, in deren Ermanglung aber die
+#facs_55_r2l21 Viener, Dorffmeister oder andere vorgesetzte,
+#facs_55_r2l22 fleißig den Umbgang halten, die Häuser und
+#facs_55_r2l23 mir
+#facs_55_r3l1 101
+#facs_55_r3l2 Camin öffters Visitieren, und wo etwas Feurs
+#facs_55_r3l3 Gefährliches sich vorfinden solte, solches behöriger
+#facs_55_r3l4 Ohrten Unseren Amtleuten anzeigen, diesere
+#facs_55_r3l5 aber die behörigen Remeduren allsobald veranstalten
+#facs_55_r3l6 wollen.
+#facs_55_r3l7 Viertens dann, und weilen bey entstehenden
+#facs_55_r3l8 feürs Brunsten, die Beursprüzen mit großem Ruhen
+#facs_55_r3l9 gebraucht werden, so ist Unser Will, daß die
+#facs_55_r3l10 Dorffschafften sich dergleichen Feurstrüzen ehe
+#facs_55_r3l11 baldest anzuschaßen, und solche in gutem stand
+#facs_55_r3l12 ich beilen unterhalten, sich angelegen seyn
+#facs_55_r3l13 laßen.
+#facs_55_r3l14 Wie nun diesere Unsere Landes vätterliche
+#facs_55_r3l15 Vorsorg auf das Wohlseyn Unserer Unterthanen
+#facs_55_r3l16 abzihlet, so zweifflen Wir keines wegs, es werde
+#facs_55_r3l17 dieselben Unserem dißöhrtigen Willen so
+#facs_55_r3l18 schuldig als Willig entgegen gehen.“ Welches
+#facs_55_r3l19 behöriger maßen kund zu machen, und gegen
+#facs_55_r3l20 wärtiges zum Verhalt Nachrichtln seines Ohrts
+#facs_55_r3l21 einschreiben zu laßen Ihr wüßen werdet. Datl.
+#facs_55_r3l22 den 17. May 1760

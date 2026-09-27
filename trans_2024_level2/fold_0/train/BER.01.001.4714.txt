@@ -1,0 +1,32 @@
+Law ID: BER.01.001.4714
+Name: Warnung der hiesigen Landen, vor denen falschen Assignaten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 21/21
+# High similarity (>=50%): 19
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_120_r3l10 Wernung der hiesigen Landen vor
+#facs_120_r3l11 denen falschen asignaten
+#facs_120_r3l12 An
+#facs_120_r3l13 alle deutsch und Welsche Herren Amtleut
+#facs_120_r3l14 1 v Städte.
+#facs_120_r3l15 Schultheis und Rath u.
+#facs_120_r3l16 Wir haben nothwendig erachtet Euch eine
+#facs_120_r3l17 genugsame Anzahl Exemplar derjenigen
+#facs_120_r3l18 Warnung gegen die falschen asignate
+#facs_120_r3l19 zu übersenden, welche Wir zum Besten
+#facs_120_r3l20 Unserer Lieben und getreuen Angehöri¬
+#facs_120_r3l21 gen in Druk ausgegeben, mit dem Be-
+#facs_120_r3l22 fehl solche zu jedermäniglichem Verhalt
+#facs_120_r3l23 = öffentlich
+#facs_120_r4l1 Col
+#facs_120_r4l2 O a
+#facs_120_r5l1 233
+#facs_120_r5l2 öffentlich von Kanzlen verlesen, und ge¬
+#facs_120_r5l3 .
+#facs_120_r5l4 wohnter Orten anschlagen zu laßen.
+#facs_120_r5l5 Datum den 16ten April. 1793

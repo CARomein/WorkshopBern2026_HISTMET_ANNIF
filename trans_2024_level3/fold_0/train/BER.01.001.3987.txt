@@ -1,0 +1,191 @@
+Law ID: BER.01.001.3987
+Name: An alle Classen Weltschen Lands. Die, so Brevets de Classe begehren, sollen zuerst sich bey der Class anmelden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 180/180
+# High similarity (>=50%): 157
+# Low similarity (<50%): 23
+# Not found: 0
+#
+#facs_54_r2l13 Ausschreibung der Rechnungs
+#facs_54_r2l14 Tagen vide formular pag 41
+#facs_54_r2l15 Project der Rechnungs Tagen der T. und
+#facs_54_r2l16 M Herren Amtleuth de 26 Nov l. 1757
+#facs_54_r2l17 Siechenhauß auf Mitwachen den 24. Jan.
+#facs_54_r2l18 suterlachen Haus auf Donstags
+#facs_54_r2l19 28 dito
+#facs_54_r4l1 96
+#facs_54_r4l2 St Johanfer Haus 1
+#facs_54_r4l3 auf Donstags den 28t dito
+#facs_54_r4l4 und Abrechnung
+#facs_54_r4l5 Kornherr
+#facs_54_r4l6 Köniz. 1t und Montagu d.... 1 febr. 1751.
+#facs_54_r4l7 Abrechnung
+#facs_54_r4l8 Mueshaaffen
+#facs_54_r4l9 Oberhoff an No
+#facs_54_r4l10 The said
+#facs_54_r4l11 Mitwochen 3t dito
+#facs_54_r4l12 Abrechnung
+#facs_54_r4l13 Irienisser
+#facs_54_r4l14 Abrechnung
+#facs_54_r4l15 4b dito
+#facs_54_r4l16 Doustags
+#facs_54_r4l17 Brieinfferger Haus
+#facs_54_r4l18 5t dib.
+#facs_54_r4l19 Wibliffurg
+#facs_54_r4l20 Froytags
+#facs_54_r4l21 6. dito.
+#facs_54_r4l22 Pamstags
+#facs_54_r4l23 Patterlingen
+#facs_54_r4l24 Buchsee
+#facs_54_r4l25 8. Dito
+#facs_54_r4l26 Montags
+#facs_54_r4l27 Erlach
+#facs_54_r4l28 dito
+#facs_54_r4l29 Lands huet
+#facs_54_r4l30 10.
+#facs_54_r4l31 Mitwochen
+#facs_54_r4l32 Arberg
+#facs_54_r4l33 dito
+#facs_54_r4l34 act.
+#facs_54_r4l35 Donsdags
+#facs_54_r4l36 Sumislorald
+#facs_54_r4l37 Signaulo
+#facs_54_r4l38 dito
+#facs_54_r4l39 12
+#facs_54_r4l40 Freytags-
+#facs_54_r4l41 Milden
+#facs_54_r4l42 dits
+#facs_54_r4l43 13
+#facs_54_r4l44 amstags
+#facs_54_r4l45 Lausrine
+#facs_54_r4l46 15. dito
+#facs_54_r4l47 St. Johansen
+#facs_54_r4l48 Montags den
+#facs_54_r4l49 Nidau.
+#facs_55_r1l1 Febr. 1751.
+#facs_55_r1l2 Jurgdorf
+#facs_55_r1l3 Anderstaan vb. Mitwochen 17. dito.
+#facs_55_r1l4 Abrechnung
+#facs_55_r1l5 Denstags - 18 dito
+#facs_55_r1l6 Trachselwald
+#facs_55_r1l7 Sauvan
+#facs_55_r1l8 pferten Abrech: Frytags - 19. dito
+#facs_55_r1l9 1. Rechnung Samstags 20. dito
+#facs_55_r1l10 Verlangen 1r
+#facs_55_r1l11 Brechnung Montags 22 dito
+#facs_55_r1l12 Winniß
+#facs_55_r1l13 Aarburg
+#facs_55_r1l14 Mitwochen 24. dito.
+#facs_55_r1l15 notstadt 1
+#facs_55_r1l16 Abrechnung
+#facs_55_r1l17 Thun Bürch
+#facs_55_r1l18 Dorstags 28. dito
+#facs_55_r1l19 Juran
+#facs_55_r1l20 Neuenstatt Prytags 26. dito
+#facs_55_r1l21 Vivis
+#facs_55_r1l22 27. dito.
+#facs_55_r1l23 amstags
+#facs_55_r1l24 Thorberg
+#facs_55_r1l25 Hetis weil den Montags
+#facs_55_r1l26 A Marty 1751.
+#facs_55_r1l27 Abrachnung.
+#facs_55_r1l28 Wangen 1h
+#facs_55_r1l29 Abrechnung
+#facs_55_r1l30 Mitwochen den 3t dito
+#facs_55_r1l31 drandis
+#facs_55_r1l32 Piberstein
+#facs_55_r1l33 dienstags
+#facs_55_r1l34 4th. Marty
+#facs_55_r1l35 Sipz
+#facs_55_r1l36 Pron
+#facs_55_r1l37 Prytages
+#facs_55_r1l38 5t. dito
+#facs_55_r2l1 Welt sich Stemschen
+#facs_55_r2l2 Zofingen
+#facs_55_r2l3 Nisff
+#facs_55_r2l4 Gestal
+#facs_55_r2l5 früngen
+#facs_55_r2l6 Bau Amt
+#facs_55_r2l7 Egaubronen
+#facs_55_r2l8 nach
+#facs_55_r2l9 g. Interlachen
+#facs_55_r2l10 eine
+#facs_55_r2l11 Plosten wieder
+#facs_55_r2l12 Leichburgen geb.
+#facs_55_r2l13 Abrachnung
+#facs_55_r2l14 Saaren
+#facs_55_r2l15 Ahlen
+#facs_55_r2l16 Broß Spithal
+#facs_55_r2l17 Romainmostia Abrech
+#facs_55_r2l18 1 Rach.
+#facs_55_r2l19 Aubone
+#facs_55_r2l20 Morste Abrech
+#facs_55_r2l21 el. Rechnung
+#facs_55_r2l22 Köngsfalden
+#facs_55_r2l23 Schonkenberg 1b
+#facs_55_r2l24 Abrechnung
+#facs_55_r2l25 Castelen
+#facs_55_r2l26 Bonmont
+#facs_55_r2l27 Neuhes
+#facs_55_r3l1 98
+#facs_55_r3l2 Samstags 6r Martii 1751
+#facs_55_r3l3 Montags 8t dito
+#facs_55_r3l4 Mitwochen 10. dito.
+#facs_55_r3l5 Donstags II. Dito
+#facs_55_r3l6 Montags 15 dito
+#facs_55_r3l7 Mitwochen 17t dito
+#facs_55_r3l8 dito
+#facs_55_r3l9 Donstags 18
+#facs_55_r3l10 dito
+#facs_55_r3l11 Erbstags 12
+#facs_55_r3l12 Samstags 13
+#facs_55_r3l13 dito
+#facs_55_r3l14 dito
+#facs_55_r3l15 Feylags 19t
+#facs_55_r3l16 Demstags 20. dito
+#facs_55_r3l17 Montagt 22 dito
+#facs_55_r3l18 Mitwochen 24. dito
+#facs_55_r3l19 Frytags 26. dit¬
+#facs_55_r3l20 amstags 27. dito.
+#facs_56_r2l1 In
+#facs_56_r2l2 Alle Classen Weltschen Lands
+#facs_56_r2l3 cke, so Brevets de Classe begehren, sollen Zuerst
+#facs_56_r2l4 sich bey der Class anmelden
+#facs_56_r2l5 Schultheiß und Rath
+#facs_56_r2l6 Unß ist das mehreren vorstellig gemacht
+#facs_56_r2l7 worden, was maßen diejenige, welche Breveta
+#facs_56_r2l8 de Classe begehren, anstatt sich bey der Claß
+#facs_56_r2l9 anzumelden vor zwo bey Uns einkommen in
+#facs_56_r2l10 der Zeit, da die Clas sich nit zu verfamben
+#facs_56_r2l11 pfleget, und des nahen das begehren an jeglicher
+#facs_56_r2l12 Pfarrer abfonderlich comuniciert werden müßen,
+#facs_56_r2l13 Zu nicht geringer Beschwärd und Irregularitet
+#facs_56_r2l14 so dißtahls wiederfahren thut; Deme nun
+#facs_56_r2l15 ins bünfftige vorzuvommen, ist Unser
+#facs_56_r2l16 Will und Gefehl daß die Exponenten
+#facs_56_r2l17 ins künfftige gehalten seyn sollen, mit
+#facs_56_r2l18 Eingebung dergl. Requêtes der ordenlichen Zeit,
+#facs_56_r3l1 100
+#facs_56_r3l2 Da die Class sich zu verstamlen pfleget, zu erwarte
+#facs_56_r3l3 che sie sich anmelden, damit das Anliegen vor
+#facs_56_r3l4 dienstelben und
+#facs_56_r3l5 pfuchet, un
+#facs_56_r3l6 Dero Gedanken Uns
+#facs_56_r3l7 genießenen Entschluß
+#facs_56_r3l8 nachwerts übermacht werden könne, zu gewesen
+#facs_56_r3l9 Entstehluß; Solten aber solche Extra Casus
+#facs_56_r3l10 vorfallen, da Gefahr in Verzug, oder die Sach
+#facs_56_r3l11 pressant wäre, und ein schleünige Butloort
+#facs_56_r3l12 erforderen thäte, behalten Wir Uns vor auch
+#facs_56_r3l13 in der Fläuschenzeit, das guthindende zu verfüegen
+#facs_56_r3l14 und seines Orts anzubefehlen, wan Jemand
+#facs_56_r3l15 Zu dem End vor Ans einkommen wird; Wir
+#facs_56_r3l16 haben Euch, (Gleich übrigen Classen Weltschen
+#facs_56_r3l17 Lands: hievon parte geben wollen, mit Gesezt
+#facs_56_r3l18 diese Ansere Vorstorg gebührender maßen
+#facs_56_r3l19 zu mänglichs Verhalt und Nachricht kund
+#facs_56_r3l20 zu machen; Gott mit Eüch. Dat. den 3. Dec.
+#facs_56_r3l21 1750 f

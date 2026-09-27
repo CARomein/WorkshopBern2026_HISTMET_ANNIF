@@ -1,0 +1,155 @@
+BER.01.001.2544
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 146/146
+# High similarity (>=50%): 133
+# Low similarity (<50%): 13
+# Not found: 0
+#
+#facs_33_r3l12 Ollat
+#facs_33_r3l13 Getreit Tax Im Weltschen
+#facs_33_r3l14 Land,
+#facs_33_r3l15 Da geschelzet ist der
+#facs_33_r3l16 Kernen.
+#facs_33_r3l17 der Weilzen das Mäs¬
+#facs_33_r3l18 zu
+#facs_33_r3l19 Q
+#facs_33_r3l20 Xe
+#facs_33_r3l21 ausanne
+#facs_33_r3l22 25.
+#facs_33_r3l23 Morsen
+#facs_33_r3l24 z
+#facs_33_r3l25 30.
+#facs_33_r3l26 Neuwir
+#facs_33_r3l27 2
+#facs_33_r3l28 Vivis
+#facs_33_r3l29 33
+#facs_33_r3l30 33
+#facs_33_r3l31 Ifferten
+#facs_33_r3l32 22
+#facs_33_r3l33 Milen
+#facs_33_r3l34 21.
+#facs_33_r3l35 fatterlingen
+#facs_33_r3l36 24
+#facs_33_r3l37 Wiblispurg
+#facs_33_r3l38 Romainmostier
+#facs_33_r3l39 28.
+#facs_33_r3l40 Rogget
+#facs_33_r3l41 das Mäs zu
+#facs_33_r3l42 Lausanne
+#facs_33_r3l43 19. -1.
+#facs_33_r3l44 Morsen
+#facs_33_r3l45 23.
+#facs_33_r3l46 Neuwis
+#facs_33_r3l47 25.
+#facs_34_r1l1 Vivis
+#facs_34_r1l2 by
+#facs_34_r1l3 it
+#facs_34_r1l4 ifferten
+#facs_34_r1l5 Hilden
+#facs_34_r1l6 15 x
+#facs_34_r1l7 Pfatterlingen
+#facs_34_r1l8 des
+#facs_34_r1l9 18
+#facs_34_r1l10 Wiblizourg
+#facs_34_r1l11 Romainmostier
+#facs_34_r1l12 21.
+#facs_34_r1l13 Haber
+#facs_34_r1l14 Das Mas zu
+#facs_34_r1l15 Lausanne
+#facs_34_r1l16 9
+#facs_34_r1l17 8.
+#facs_34_r1l18 Norsen
+#facs_34_r1l19 Theuwis
+#facs_34_r1l20 10
+#facs_34_r1l21 Kisir
+#facs_34_r1l22 11.
+#facs_34_r1l23 offerten
+#facs_34_r1l24 11
+#facs_34_r1l25 Hilden
+#facs_34_r1l26 Gatterlingen
+#facs_34_r1l27 Wiblissurg
+#facs_34_r1l28 Komainmostier
+#facs_34_r1l29 9
+#facs_34_r1l30 Gärsten In Häsen das Mäs zu
+#facs_34_r1l31 Losaunu
+#facs_34_r1l32 Morsun
+#facs_34_r1l33 17
+#facs_34_r1l34 Neümit
+#facs_34_r1l35 20
+#facs_34_r1l36 plivis
+#facs_34_r1l37 22
+#facs_34_r1l38 Ifferten
+#facs_34_r1l39 22
+#facs_34_r1l40 Milven
+#facs_34_r1l41 14
+#facs_34_r1l42 Kfätterlingen
+#facs_34_r1l43 14
+#facs_34_r1l44 Wiblisourg
+#facs_34_r1l45 16
+#facs_34_r1l46 of Comainmostier
+#facs_34_r1l47 18
+#facs_34_r1l48 49
+#facs_34_r1l49 Die Schönsten Ärbs und weisen Wit. das Mäs an allen
+#facs_34_r1l50 geben wie der Kernen oder Weitzen
+#facs_34_r3l1 x
+#facs_34_r3l2 2
+#facs_34_r4l1 1
+#facs_34_r4l2 1.
+#facs_34_r5l1 59
+#facs_34_r5l2 Die Rohten Ärbs aber und Minderin will wie der Roggen.
+#facs_34_r5l3 Der Messelle dann nach der qualitet und quantitet der Ingre¬
+#facs_34_r5l4 dienzu
+#facs_34_r5l5 An alle 2t und W. Ambtleühk
+#facs_34_r5l6 Wider die Veräußerung des Getreits
+#facs_34_r5l7 Einsehen zethun, und das gewächs
+#facs_34_r5l8 auff den Marit Zestellen
+#facs_34_r5l9 Schultheiß Und Raht der Statt Bärn etc.
+#facs_34_r5l10 Collaten Damit nach der intention Vnserer bereits hievor außgeschriebenen Ordnungen
+#facs_34_r5l11 und Mandaten alle GetreitsVereußerung best möglich abgemitten und
+#facs_34_r5l12 die Märiten gehoeist werden mögend,
+#facs_34_r5l13 habend wir über das Erin¬
+#facs_34_r5l14 neren Vnserer Rom Direction den Landleichten alles getreit Ver¬
+#facs_34_r5l15 kauffen bey dem haus hiemit Ernsthafft zu verpieten und sie dahin
+#facs_34_r5l16 anzweisen gut und nohtwendig fünden, Ihr getreit, so sie zuver¬
+#facs_34_r5l17 kauffen begehrind, auf die Märiten zuführen; der meinung,
+#facs_34_r5l18 daß Ich den noch Ihren Lagwären, deren sie sich bedienend, in be¬
+#facs_34_r5l19 Scheidenheit mit getreit bey Haus hülff zetzun vergant sein.
+#facs_34_r5l20 Vnseren Ambtleichten, Pfredicanten und Vasallen auch fürbas
+#facs_34_r5l21 frey stehen solle, Ihr Getreit auf die in letztem Vnserem Mandat
+#facs_34_r5l22 anzogene Weise zuverkauffen.
+#facs_34_r5l23 So ist auch der Hochbaren oder Blotiers halber Unser will und
+#facs_35_r1l1 60
+#facs_35_r1l2 Meinung, daß dieselben Ihr Korn nit bey den Bauren, son¬
+#facs_35_r1l3 dern auf den Märiten von dem Überblib oder bey den Pfre¬
+#facs_35_r1l4 Vicanten und Vasallen kauffen, und jedes mahls bey den
+#facs_35_r1l5 Ambtleichten oder verordneten Inspectoren consigniren, und
+#facs_35_r1l6 Wann vom bestellten Inspectoren der Märiten, da sie getreit
+#facs_35_r1l7 zum Verkauffen hinführend, attestata neinen sollind, was in
+#facs_35_r1l8 qualitate und quantitate durch sie verkaufft worden. Deßen
+#facs_35_r1l9 wollend wir dich gleich gegen anderen Vnseren Ambtleichten
+#facs_35_r1l10 auch beschiht, hiemit benachrichten, damit du solches seines
+#facs_35_r1l11 ohrts publiciren zulaßen, und darob zuhalten wüßest. Datum
+#facs_35_r1l12 14 Decemb. 1693
+#facs_35_r1l13 Au alle Zt. Ambtheüht
+#facs_35_r1l14 4. Stätt, Freyweibel und Amann
+#facs_35_r1l15 Ihnen zuschreiben, wie vor Einem Jahr wegen auffe¬
+#facs_35_r1l16 Zenden Getreit Erfats; Denne, wie es mit denen
+#facs_35_r1l17 Märiten beschaffen.
+#facs_35_r1l18 Collazen Schultheiß und Raht der Statt Järn
+#facs_35_r1l19 Weilen die Verzeichnußen der Ambtleüchten und particularen getreits
+#facs_35_r1l20 Und die bestellte Auffsicht bey der Verkauffung deßelben, so wir fehre
+#facs_35_r1l21 drigen Jahrs underem 19. 9bris anbefohlen, zu weißung der
+#facs_35_r1l22 Cariten und wider die Veräußerung nit wenig gedienet,
+#facs_35_r3l1 61
+#facs_35_r3l2 Als habend wir nohtwendig funden, heürigen Jahrs ein gleiches
+#facs_35_r3l3 Einsehen Zethun, und befelchend dir hiemit, auf gleiche Weis und
+#facs_35_r3l4 manier, wie fehrndrigen Jahrs beschehen, aller particularen getreits
+#facs_35_r3l5 dich zu erkundigen, und was ein Jeder darvon für seinen Haußbrauch
+#facs_35_r3l6 zubehalten, und wie viel er darvon verkauffen zukönnen Vermeine¬
+#facs_35_r3l7 neben deme was du haben magst, Vnserer Getreits Direction baldes
+#facs_35_r3l8 möglich eine specification zuzuschiken, und im übrigen mit bestellung
+#facs_35_r3l9 der Aufsicht nach dem angezogenen Mandat, darauf wir Uns
+#facs_35_r3l10 beziehend, zuverfahren; wie geschehen werde, wir vns versehend.
+#facs_35_r3l11 Datus 16 Xbris 1693

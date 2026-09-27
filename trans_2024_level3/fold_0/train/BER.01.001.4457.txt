@@ -1,0 +1,29 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 21/22
+# High similarity (>=80%): 19
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4457
+#facs_109_r4l23 Namen
+#facs_23_r4l13 63
+#facs_82_r4l10 e
+#facs_59_r4l7 Alle Teütsche Herren Amtleint, 4. Städt, Freybeibel
+#facs_33_r4l4 Item p zedel an Melchhl. Herrn Alt Venner Manuel, als
+#facs_33_r4l5 Obervogt im Zucheggberg, und Herrn Venner Steiger
+#facs_33_r4l6 als regierender Venner des Landgerichts Zollitofen
+#facs_83_r3l24 Obrigkeit
+#facs_7_region_1629821295051_30l1 Schultheiß und Rahts
+#facs_33_r4l9 Wischen Lobl. Stand Solothurn und Uns ist
+#facs_33_r4l10 ein Verglich getroffen worden, vermittelst
+#facs_33_r4l11 deßen in Fällen, wenn Solothurnische Angehö¬
+#facs_33_r4l12 rige aus dem Bucheggberg, sich mit hiesigen
+#facs_33_r4l13 Unterthanen verheürahten, und Vice Versa¬
+#facs_33_r4l14 dem Trosel wenn solcher in Hausrähtlichen
+#facs_33_r4l15 Sachen bestehet, kein Abzug gefordert werden,
+#facs_33_r4l16 soll. Dieses nun werdet Ihr in den Schloß
+#facs_33_r4l17 Bücheren behörig einschreiben laßen, und in
+#facs_33_r4l18 Zutragenheiten Euch demenach verhalten,
+#facs_33_r4l19 Dath. den 18ten Decembl. 1777
+#facs_178_r8l1 en

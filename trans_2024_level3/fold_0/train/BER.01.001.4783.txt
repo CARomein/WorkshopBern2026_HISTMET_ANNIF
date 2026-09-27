@@ -1,0 +1,328 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 321/321
+# High similarity (>=80%): 315
+# Low similarity (<80%): 6
+# Not found: 0
+#
+#facs_246_r1l1 1478.
+#facs_1_r2l2 1.
+#facs_4_r3l2 Verordnung.
+#facs_4_r3l3 anstehend den inneren Handel mit Perdten und Vieh;
+#facs_4_r3l4 item
+#facs_4_r3l5 wegen allem durch hiesige Lande gehenden Transitzut.
+#facs_4_r3l6 An alle deutsche und Welsche Herren Amtleute
+#facs_4_r3l7 vier Städten Freyweibel und Ammann, wie
+#facs_4_r3l8 auch an Schwarzenburg und Grandson
+#facs_154_r4l12 Schultheiß und Rath etc.
+#facs_4_r3l10 Beygebogen erhaltet Ihr eine hinreichende Anzahl
+#facs_4_r3l11 Exemplar von den Verordnungen, welche Wir
+#facs_4_r3l12 in Betreff des innern Handels mit Pferdten
+#facs_4_r3l13 und Vieh zwischen Unsern eigenen Angehöre
+#facs_4_r3l14 gen wie auch wegen des Transits durch hie=
+#facs_4_r3l15 stige Lande, zu emaniren nöthig befunden. Ihr
+#facs_4_r3l16 werdet solche gewohnter maßen publiziren, von Rau
+#facs_4_r3l17 zeln verlesten behörigen Orts einschreiben und an
+#facs_4_r3l18 schlagen laßen. Actum den 13. Januar 1795.
+#facs_4_r3l2 Verordnung.
+#facs_4_r3l20 in Betreff des innern Handels mit Pferdten und Vieh
+#facs_15_r2l10 Wir Schultheiß und Rath der Stadt und Republer
+#facs_4_r3l22 entbieten allen Unsern lieben und getreuen
+#facs_4_r3l23 Bürgern und Angehörigen, zu Stadt und Land,
+#facs_124_r6l26 = ans
+#facs_5_r1l1 2.
+#facs_141_r2l2 GH.
+#facs_5_r3l1 Unsere gnädigen und geneigten Willen, und geben
+#facs_5_r3l2 ihnen hier durch zuvernehmen.
+#facs_5_r3l3 Da es Unsern Gnädigen Herren und Obern
+#facs_5_r3l4 Räth und Bürgern gefallen, Uns den Auftrag
+#facs_5_r3l5 zu ertheilen, zu Handhabung der den 3ten
+#facs_5_r3l6 dezember lezthin ausgegangenen Ausführ¬
+#facs_5_r3l7 verbotte, diejenigen Anstalten vorzukehren,
+#facs_5_r3l8 so die Execution bemelter Verordnung, so wie
+#facs_5_r3l9 der controlle, bewürken und beforderei
+#facs_5_r3l10 mögen; so haben Wir, wegen dem umläu¬
+#facs_5_r3l11 dischen Verkehr verordnet, was hiernach folget
+#facs_5_r3l12 1° Von den Gesundheits Scheinen
+#facs_5_r3l13 Wenn in Unsern Landen Viehbaare um
+#facs_5_r3l14 Schweine verkauft oder vertauschet werden,
+#facs_5_r3l15 soll der Verkaufer dem Käufer, oder der
+#facs_5_r3l16 vertauscher dem Gegentäuscher einen Gesund¬
+#facs_5_r3l17 heits schein zu stellen, und der Raufer selbigen
+#facs_5_r3l18 abzuforderen schuldig seyn, bey fünf Pfunden
+#facs_5_r3l19 Duß für den Fehlbaren und mehrerer Bestraf¬
+#facs_5_r3l20 ung von Unserm Sanitaet-Stath, im Fall die
+#facs_5_r3l21 betreffende Waare mit einer anstekenden
+#facs_5_r3l22 Krankheit behaftet wäre.
+#facs_5_r3l23 Uebrigens verbleibt es bey dem jenigen
+#facs_5_r3l24 = was
+#facs_5_r5l1 was Unser Sanität - Rath wegen den Gesundheits¬
+#facs_5_r5l2 scheinen im Bergfahrt-Reglement verordnet hat.
+#facs_5_r5l3 II. Von den Stuk-Scheinen
+#facs_5_r5l4 1o Ein jeder der Pferde, Viehwaare oder Schweine
+#facs_5_r5l5 In hiesigen Landen ankauft, ist schuldig den
+#facs_5_r5l6 Verkäufer einen Rübschein zu geben, bey Strafe
+#facs_5_r5l7 von 20. Pfunden Ruß.
+#facs_5_r5l8 2. Die Rück scheine sollen gedrukt, und von dem
+#facs_5_r5l9 im 4ten Artikel bestimmten Inspektoren
+#facs_5_r5l10 aus gefertiget und eigenhändig unterschrieben
+#facs_5_r5l11 werden
+#facs_5_r5l12 3° Für ein jedes Pferd oder Stuk Hornvieh, soll
+#facs_5_r5l13 ein besonderer Rükschein ausgefertiget werden
+#facs_5_r5l14 für Kälber Schaafe oder Schweine mag der
+#facs_5_r5l15 Rükschein für den ganzen Kaufdien, wann
+#facs_5_r5l16 die Anzahl mit Buchstaben ausgesezt seyn.
+#facs_5_r5l17 wird.
+#facs_5_r5l18 Für jeden Rükschein ist dem Inspektor
+#facs_5_r5l19 zu bezahlen ein Batzen; für die kleine Waare
+#facs_5_r5l20 aber nur ein Kreuzer von jedem Stür, doch
+#facs_5_r5l21 niemals mehr als sechs Kreuzer, wann schon
+#facs_5_r5l22 mehrere Stük darum angeschrieben waren.
+#facs_5_r5l24 Geschieht der Kauf bey den Häusern
+#facs_309_r6l47 Mulligen.
+#facs_5_r4l1 4
+#facs_6_r2l1 Ställen; so sollen sich Käufer und Verbaüfer
+#facs_6_r2l2 mit einander zu dem Instektorn des Orts, wo
+#facs_6_r2l3 die Waare gestanden, verfügen, den Rauf
+#facs_6_r2l4 anzeigen und den Rückschein von ihme abfordern.
+#facs_6_r2l5 Wird der Kauf an einem Jahrmarkt
+#facs_6_r2l6 geschloßen, so soll dasiger Markt-Instek¬
+#facs_6_r2l7 tor den Ruckschein ertheilen.
+#facs_6_r2l8 Mezgere, welche die Waare nicht also
+#facs_6_r2l9 bald an die Hand nehmen können, mögen
+#facs_6_r2l10 die Stukscheine durch den Inspektorn des jen¬
+#facs_6_r2l11 gen Orts ertheilen laßen, wo ihnen die
+#facs_6_r2l12 Waare überliefert wird.
+#facs_6_r2l13 5° Die Stukscheine sollen immer auf den
+#facs_6_r2l14 Namen des würklichen Käufers gestellt,
+#facs_6_r2l15 werden, der die Waare stellsten anbauft
+#facs_6_r2l16 es sey denn, daß jemand eine rechtsgül¬
+#facs_6_r2l17 sige Prokur vorweisen könne, in welchem
+#facs_6_r2l18 Fall der Procurirte nebst dem Prokurgeber
+#facs_6_r2l19 eingeschrieben werden sollen.
+#facs_6_r2l20 6. So oft die Waare Hand ändert, so oft
+#facs_6_r2l21 soll ein Stukschein ertheilt werden.
+#facs_6_r2l22 7°. Da sich eine Menge Betrüger vor.
+#facs_6_r2l23 finden, die unter erdichtetem Namen
+#facs_6_r2l24 Rükscheine von sich stellen; so wollen Wir
+#facs_37_r3l22 der
+#facs_5_r1l1 2.
+#facs_1_r2l2 1.
+#facs_11_r3l1 15
+#facs_6_r5l2 jedermann verwarnen, ihre Waare an niemand.
+#facs_6_r5l3 anders als an solche Leute zu verhandlen, die
+#facs_6_r5l4 ihnen bekannt sind, oder bescheinigen können wer¬
+#facs_6_r5l5 vie seyen, maßen diejenige die ihre Waare des
+#facs_6_r5l6 unbekannte Personen verhandelt hätten, je
+#facs_6_r5l7 nach vorwaltenden Umständen, darüber zur
+#facs_6_r5l8 Verantwortung wurden gezogen und bestraft
+#facs_5_r5l11 werden
+#facs_6_r5l10 III. Obliegenheit der einheimischen
+#facs_6_r5l11 Raufer und Verkäufer
+#facs_6_r5l12 Alles erhandelte große und kleine Vieh soll.
+#facs_6_r5l13 dem Käufer also gleich an die Hand gestellt
+#facs_6_r5l14 und an des Käufers Futer genommen
+#facs_5_r5l11 werden
+#facs_6_r5l16 Hievon sind aber die Mezgermeister aus
+#facs_6_r5l17 genommen, welche die erbaufte Waare in
+#facs_6_r5l18 den Händen des Verkäufers lassen können,
+#facs_6_r5l19 biß sie Gelegenheit haben selbige abzuschlachten
+#facs_6_r5l20 Sie sollen aber nicht befügt seyn, diese Waaren
+#facs_6_r5l21 an jemand anders zu verkauffen
+#facs_6_r5l22 Ein jeder Käufer ist verbunden, die
+#facs_6_r5l23 Pferde ein Monat lang, die Viehlaare aber
+#facs_6_r5l24 drey Wochen an seinem Futter zubehalten
+#facs_6_r5l25 che erstelbige wieder verkaufen kann,
+#facs_151_r5l28 -serieuse
+#facs_7_r1l1 6
+#facs_7_r2l1 3
+#facs_7_r3l1 für Pferde und das große Hornvieh bey einer
+#facs_7_r3l2 Ruße von achtzig Pfunden, und für Kälber
+#facs_7_r3l3 oder Schaafe bey einer Zusse von zehen
+#facs_7_r3l4 Pfunden per Stür
+#facs_7_r3l5 Unter dem eigenen Futter wird mit
+#facs_7_r3l6 das jenige verstanden, welches in der
+#facs_7_r3l7 Kaufers Scheune liegt
+#facs_7_r3l8 Sobald der Käufer, wie der Verkaufer
+#facs_7_r3l9 wieder nach Hause gekehrt, soll der Raufer
+#facs_7_r3l10 innert zweymal vier und zwanzig Stunden
+#facs_7_r3l11 von seiner Stükkehr bey Hause angerechnet,
+#facs_7_r3l12 die angekauften Pferde, Viehwaare oder
+#facs_7_r3l13 Schweine, dem Inspektor des Orts an
+#facs_7_r3l14 geben wo die Waare hingeführt wird,
+#facs_7_r3l15 und selbige einschreiben laßen.
+#facs_7_r3l16 der Verkäufer hingegen ist ver¬
+#facs_7_r3l17 pflichtet innert gleicher Zeit seinen
+#facs_7_r3l18 Ruckschein demjenigen Inspektorn zu¬
+#facs_7_r3l19 zu stellen, hinter dem vorhero die Waart
+#facs_7_r3l20 gestanden und eingeschrieben war, an¬
+#facs_7_r3l21 sonsten der Fehlbahre seine Nachlässig¬
+#facs_7_r3l22 keit mit zwanzig Pfunden büssen soll,
+#facs_7_r3l23 wenn er seine Verzögerung nicht mit hin¬
+#facs_7_r3l24 reichenden Gründen entschuldigen könnte.
+#facs_5_r5l11 werden
+#facs_6_r5l1 5
+#facs_1_r2l2 1.
+#facs_7_r6l1 7.
+#facs_7_r6l2 Werden aber acht Tage Zeit nach der Stük
+#facs_7_r6l3 kunft des Kaufers oder Verkäufers vergehen,
+#facs_7_r6l4 ohne daß der Käufer seine Waare einschreiben
+#facs_7_r6l5 läßt, oder der Verkäufer seinen Rükschein
+#facs_7_r6l6 dem Inspektorn seines Bezirkszustellt; so
+#facs_7_r6l7 soll der Fehlbare mit der Ausfuhrstrafe
+#facs_7_r6l8 belegt werden, weil bey einer solchen Verhöge
+#facs_7_r6l9 ung man sich überzeugen muß, daß der
+#facs_7_r6l10 Käufer seine Waare der Controlle entziehen
+#facs_7_r6l11 und veräußern wollen, der Käufer aber solche
+#facs_7_r6l12 würklich veräussert habe.
+#facs_7_r6l13 Der Inspektor dann, deme die Einschreib¬
+#facs_7_r6l14 ung liegt, soll die Art, das Alter und die
+#facs_7_r6l15 Farbe der Pferde und der überjährigen
+#facs_7_r6l16 großen Viehs, bey der kleinen Waare wie
+#facs_7_r6l17 bey den Schweinen, nur die Anzahl in seinem
+#facs_7_r6l18 Lödel aufzeichnen: für welche Bemühung dann
+#facs_7_r6l19 mag der Inspektor beziehen von jedem Stück
+#facs_7_r6l20 großer Waare ein Bahen, und kleiner
+#facs_7_r6l21 Waare ein Kreuzer, niemalen aber mehr
+#facs_7_r6l22 als sechs Kreuzer.
+#facs_7_r6l23 Es bleibt jedermann gestattet, einige
+#facs_7_r6l24 auszuführen verbottene Waare durch
+#facs_7_r6l25 jemain anders für seinen selbst eigenen
+#facs_7_r6l26 Gebrauch
+#facs_8_r1l1 8
+#facs_7_r1l1 6
+#facs_8_r3l1 Gebrauch anhaufen: oder seine eigene Waare
+#facs_8_r3l2 verkaufen zu laßen; es soll aber in allen
+#facs_8_r3l3 Fällen derjenige, so den Auftrag ertheilt
+#facs_8_r3l4 für seinen Prokurirten haften, und den
+#facs_8_r3l5 selben mit einer unterschriebenen schrift¬
+#facs_8_r3l6 lichen Prokur versehen.
+#facs_8_r3l7 Jedermann soll verbotten seyn, Pferde
+#facs_8_r3l8 und Viehwaare bey Nacht und Nebel von
+#facs_8_r3l9 einem Ort an das andere zu führen,
+#facs_8_r3l10 das ist Winterszeit vom 1t Weinmonat
+#facs_8_r3l11 biß 1ten Aprills, Morgens vor sechs um
+#facs_8_r3l12 Abends nach Acht Uhr; Sommers Zeit
+#facs_8_r3l13 dann vom 1. Aprill biß 1t Weinmonat
+#facs_8_r3l15 Morgens vor vier Uhr und Abends nach
+#facs_8_r3l16 neun Uhr. Wer darwider handelt, oder
+#facs_8_r3l17 die von dem Inspektorn verzeigte March
+#facs_8_r3l18 coute nicht befolgen wird, soll mit der im
+#facs_8_r3l19 Ausfuhr-Verbott vom 3ten Decemb. 1794
+#facs_8_r3l20 vorgeschriebenen Strafe belegt werden
+#facs_8_r3l21 Einheimische Käufer aber, denen es
+#facs_8_r3l22 nicht möglich wäre bey der vorgeschriebene
+#facs_8_r3l23 tags Zeit ihr Heimat zu erreichen, sollen
+#facs_8_r3l24 es dem Inspektorü wo sie ihre Waare er¬
+#facs_8_r3l25 handelt, anzeigen, der als dann solches
+#facs_37_r3l22 der
+#facs_32_r3l15 s
+#facs_8_r6l1 9
+#facs_8_r6l2 der Marschroute beyfügen wird, in diesem
+#facs_8_r6l3 Fall sind die einheimischen Käufer von obigen
+#facs_8_r6l4 Gebott ausgenommen
+#facs_8_r6l5 IV. von Reisenden, die Pferde ausführen
+#facs_8_r6l6 Ein jeder, der mit eigenen oder Miethpferden
+#facs_8_r6l7 außer Land zureisen vorhaben ist, soll verpflig
+#facs_8_r6l8 tet seyn, die gleichen ausgeführten Pferdte
+#facs_8_r6l9 wieder in das Land zuschaffen, unterlaßenden
+#facs_8_r6l10 Falls als Widerhändler gegen die Ausführ¬ Ord¬
+#facs_8_r6l11 nung bestraft werden; es wäre denn Sach, daß
+#facs_8_r6l12 bewiesen werden könnte, das diese Thiere
+#facs_8_r6l13 durch Zufall oder Krankheit zu Grunde ge¬
+#facs_8_r6l14 gangen.
+#facs_8_r6l15 Diejenigen welche mit Pferdten in die Canton
+#facs_8_r6l16 Freyburg und Solothurn, oder in die mit Lobl.
+#facs_8_r6l17 Stand Freyburg gemeinstam besitzende Mediat
+#facs_8_r6l18 ämter reisen, sollen bey dem Grenz=Bureau
+#facs_8_r6l19 so wohl bey ihrer Hin= und Herreise sich melden
+#facs_8_r6l20 und, und anzeigen, was für Pferde sie mit sich
+#facs_8_r6l21 führen.
+#facs_8_r6l22 Will aber jemand, es seyen Einheimische.
+#facs_8_r6l23 oder Fremde die sich im Land aufhalten, an
+#facs_8_r6l24 ein ander Ort außer Land mit Pferden hin
+#facs_98_r5l28 en
+#facs_9_r1l1 10
+#facs_7_r2l1 3
+#facs_9_r4l1 reisen, oder mit denselben durch vorbemelte
+#facs_9_r4l2 Territoria weiters gehen; so sollen sie von
+#facs_9_r4l3 dem Amtsmann des Orts, wo sie wohnen
+#facs_9_r4l4 einen Ausgangschein erhalten, unterlaßen
+#facs_9_r4l5 den Falls aber nach Vorschrift der Ordnung
+#facs_9_r4l6 vom 3ten Decemb. 1794 bestraft werden.
+#facs_9_r4l7 den im Lande sich aufhaltenden Frem
+#facs_9_r4l8 den soll kein Ausführschein ertheilt werden
+#facs_9_r4l9 er seye dann, daß sie durch einen authentischen
+#facs_9_r4l10 Schein von dem Eintritts = Bureau beweisen
+#facs_9_r4l11 können, daß sie diegleichen Pferde mit sich in
+#facs_9_r4l12 das Land gebracht.
+#facs_9_r4l13 derjenige so einen Ausgangschein ver.
+#facs_9_r4l14 langt, soll dem Amtsmann die Dauer seiner
+#facs_9_r4l15 Keiste angeben, welche Zeit dann mit Buch¬
+#facs_9_r4l16 staben in den Ausgangschein zusezen ist,
+#facs_9_r4l17 verfließen aber vierzehn Tage mehr als die
+#facs_9_r4l18 bestimmte Dauer der Reife ohne daß
+#facs_9_r4l19 der Reisende die Pferde zurükgebracht oder
+#facs_9_r4l20 zurük gestandt, und den erhaltenden Aus¬
+#facs_9_r4l21 gangschein dem Amtsmann zurükgege¬
+#facs_9_r4l22 ben, so soll er mit der in der Ordnung
+#facs_9_r4l23 vom 3ten December 1794. vorgeschriebener
+#facs_9_r4l24 Ausfuhrstraf belegt werden
+#facs_1_r2l2 1.
+#facs_5_r1l1 2.
+#facs_9_r1l1 10
+#facs_9_r7l1 11
+#facs_9_r7l2 4o. die Ausgangscheine sollen die Zahl, Alter
+#facs_9_r7l3 und Farbe der ausgeführten Pferde anzeigen,
+#facs_9_r7l4 und mit der eigenhändigen Unterschrift und
+#facs_9_r7l5 Diegel Unserer Amtleute verstehen werden
+#facs_9_r7l6 V. Von der Exetution
+#facs_9_r7l7 Die Vollziehung und das Richteramt in
+#facs_9_r7l8 erster Instanz dieser Unserer Verordnung
+#facs_9_r7l9 wird Unserer wohlverordneten Polizey-Kammer
+#facs_9_r7l10 für die Stadt und deren Bezirk, auch die Land¬
+#facs_9_r7l11 gerichte, die unter keinem Amtsmann
+#facs_9_r7l12 stehen; in den Aemtern aber Unsern
+#facs_9_r7l13 Amts Leuten aufgetragen
+#facs_9_r7l14 In allen Fällen da Waaren arrestirt
+#facs_9_r7l15 werden, soll immer ein Verbal errichtet:
+#facs_9_r7l16 und uns eingestandt werden, damit Wir
+#facs_9_r7l17 entscheiden mögen, ob die Waare losge¬
+#facs_9_r7l18 laßen werden solle, oder nicht; es wäre
+#facs_9_r7l19 dann Sach, daß solches nur alleinigkeiten
+#facs_9_r7l20 betreffen würde.
+#facs_27_r2l11 Ist die arrestirte Waare von solcher
+#facs_9_r7l22 Natur, daß selbige bis zu Beendigung das
+#facs_9_r7l23 Prozesses sich aufzehren oder sonsten Schaden
+#facs_9_r7l24 Leiden könnte, so wird dem Richter überlaßen¬
+#facs_65_r4l26 auf
+#facs_9_r7l1 11
+#facs_10_r2l1 nach den Umständen selbige öffentlich verstei¬
+#facs_10_r2l2 gern zu laßen, und das erlöste Geld in Ver-
+#facs_10_r2l3 wahrung zu behalten.
+#facs_17_r4l18 Ist der Eigenthümer im Lande angeseßen,
+#facs_17_r4l19 so kann die dem Schaden ausgestezte Waare
+#facs_10_r2l6 gegen hinreichende Bürgschaft für den gan¬
+#facs_10_r2l7 zen Werth, verabfolget werden.
+#facs_10_r2l8 5°. Die Urtheile sie mögen recurriet werden.
+#facs_10_r2l9 oder nicht, sollen immerdar uns zugestandt
+#facs_10_r2l10 werden, damit wir selbige nach den Um¬
+#facs_10_r2l11 Jänden bestätigen oder abänderen können
+#facs_10_r2l12 die Confiscationen und Zußen sollen,
+#facs_10_r2l13 in drey gleiche Theile getheilt werden, wovon
+#facs_10_r2l14 zwey drittel dem Verleider, unter Geheim
+#facs_10_r2l15 haltung seines Namens, und ein drittel den
+#facs_10_r2l16 Armen des Orts, wo der Fehler began¬
+#facs_10_r2l17 gen worden, zu kommen sollen
+#facs_10_r2l18 Welches zu Jedermanns Verhalt be¬
+#facs_10_r2l19 kannt gemacht wird, mit dem Befehl an
+#facs_10_r2l20 alle Ober- und Unter-Beamtete, Zoll
+#facs_10_r2l21 Commißen und Inspektoren, auf Hand
+#facs_10_r2l22 habung gegenwärtiger Verordnung ge¬
+#facs_10_r2l23 nau zu wachen und die Fehlbaren ohne
+#facs_10_r2l24 Anstehen der Person und ohne Schonen
+#facs_10_r2l25 dem
+#facs_10_r3l1 13
+#facs_10_r3l2 dem gebührenden Richter anzuzeigen
+#facs_257_r3l4 Geben den
+#facs_98_r5l28 en

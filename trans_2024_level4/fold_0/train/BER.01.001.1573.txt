@@ -1,0 +1,75 @@
+Law ID: BER.01.001.1573
+Name: Das Juden Mandat erfrischen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 64/64
+# High similarity (>=50%): 60
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_301_r3l7 An Alle Teütsche Amstleüt
+#facs_301_r3l8 Das Juden Mandat erfriphen-
+#facs_301_r3l9 Schuldtheiß vnd Raht der Statt Bernen.
+#facs_301_r3l10 Wiewol wir vor etwas Jahren den
+#facs_301_r3l11 vß vff sich selbsten gezognem fluch, hin vnd her verstreuten vngleü¬
+#facs_301_r3l12 bigen Vndt verstokten Juden, Alß schädlichen betriegeren Vnd vßfanger
+#facs_301_r3l13 deß Christen bluts, den, sonderlich Im Ergenw Vnerlaubt genomen,
+#facs_301_r3l14 Intritt Handel vnd Wandel In vnserem Land, durch ernstliches vf
+#facs_301_r3l15 schreiben, vndt by hocher straff, abstriken Vnd verbieten laßen, So
+#facs_301_r3l16 mußen wir doch vernemen, daß dieselben nit allein sich vngescheucht
+#facs_301_r3l17 der einten Vnd anderen orten Ins land laßend, sonderen auch neben
+#facs_301_r3l18 anderen stuken Ihres vff beschiß vnd trug, vnd vßfüllung Ihrer
+#facs_301_r3l19 zeitsekels gerichteten gwerbs, die Eile der Pferdten von Vßeren Oete
+#facs_301_r5l1 Herr, Ins Landbringin vnd Verhandlind, Dardurch dann das gute
+#facs_301_r5l2 gelb vß dem Landgezogen, Vnd darby auch vnseren Lieben, Vnderthane
+#facs_301_r5l3 der Verkauff Ihrer pfenwerten, Vnd notwendige geltlosung, zu mit
+#facs_301_r5l4 geringem empfinden, Vnd entgeltnuß gestelt vnd verhinderet wirt: So
+#facs_301_r5l5 Aus verursachet, ob angedeutes Vnser voriges Mandat zuerfrüsche,
+#facs_301_r5l6 Vnd disen schadlichen leüten, die weitere betrettung handel vnd
+#facs_301_r5l7 Vandel In Vnseren Landen zeuerbieten, Maßen wir die hiemit be
+#facs_301_r5l8 felchend, die Jenigen so sich hinder deiner Ambts Verwaltung befind¬
+#facs_301_r5l9 Vndt einlaßen möchten, by pern einhundert gulden Vnnachleßigern
+#facs_301_r5l10 buß, vort vnd vß dem Land zweisen, Vnd darzu die Zeugen, so vber
+#facs_301_r5l11 solche einmalige Warnung sich widerumb ergreiffen laßen würden, neben
+#facs_301_r5l12 Ihrer wider Vortschikung, In ernambte buß zezenchen, vnd sy biß vff
+#facs_301_r5l13 erlag derselben, zu verhafft genommen, damit die vnseren Irenthalb
+#facs_301_r5l14 Vnbeschwert, vnd menklich vnbetragen bleibe, darnach weistu dich
+#facs_301_r5l15 Gehalten. Datum 9. Augusti 1655
+#facs_301_r5l16 Purgdorff, Frauwbrunnen, Wangen
+#facs_301_r5l17 Hümenen dem Wirth p. Ledel, Wiblisburg
+#facs_301_r5l18 Wegen der posten
+#facs_301_r5l19 DR mußend gespuren vnd ist onsbekant
+#facs_301_r5l20 Daß die, In Vnseren Landen zur Versendung Oberkeitlicher Schreiben, an
+#facs_301_r5l21 gestalte post, durch particular-versohnen mißbrucht, Vnd vff derselben
+#facs_301_r5l22 Ihre besundern, vns vnd Vnsern Stand nichts angehende eigne brieffen
+#facs_301_r5l23 Versendt werdend, da vns dann der Vnkosten daruon aufffallen thut,
+#facs_301_r5l24 Solchen mißbruch aber abzeichneiden, habend wir angesehen, Vnd wellen
+#facs_302_r3l1 Dich deines theils hiemit verwarnet vnd ermant haben, daß zur
+#facs_302_r3l2 Fünfftig solche particular-phreiben, von hieruß an den Orten
+#facs_302_r3l3 da die posten abgelegt werdend, nit abgenommen, noch vortgetragen,
+#facs_302_r3l4 sonderen die pacquet, wan nit oberkeitliche, Vndt mit Vnsrem Statt
+#facs_302_r3l5 oder Cantzley Sigel verwarte brieffen darbey sind, widerumb
+#facs_302_r3l6 ruck geschikt, Vndt also der Costen, so vns durch solchen mißbrin¬
+#facs_302_r3l7 Der posten, aufffallen wurde, abgewendt werden solle. Wie du¬
+#facs_302_r3l8 solchem Vnserem ansehen, Vnd behelch nach Zethun wüßen wirst
+#facs_302_r3l9 Datum 31. Augusti 1655.
+#facs_302_r3l10 Thun, Wimis, Zweisimen, Sanen,
+#facs_302_r3l11 Frütingen, Interlaeken.
+#facs_302_r3l12 umb Rohrgwildt
+#facs_302_r3l13 Schuldtheiß und Raht der Statt Bern
+#facs_302_r3l14 &
+#facs_302_r3l15 Dieweil Wir gewertig sind, daß
+#facs_302_r3l16 ersten tagen die Herren Gesandten Von beiden Hochen Stenden
+#facs_302_r3l17 Engeland vnd Holland, sambt Ihren gelehrten, alhie In Vnser
+#facs_302_r3l18 Statt werd in anlangen, Vnd also bedacht dieselbigen gebürlich
+#facs_302_r3l19 Ertragfachen, vndt tractieren Zelaßen. Alß habend wir gutfunden
+#facs_302_r3l20 geben anderer gethanen fürsechung, die hiemit Lebefelchen, In dem
+#facs_302_r3l21 Verwaltung die anstalt Zethun, daß etwas Hoch- vnd Rostgwill
+#facs_302_r3l22 möge erhalten Vndt zu wegen gebracht werden, damit selbiges in der
+#facs_302_r3l23 Bletscher, vndt besten orten einmal vff behalten werde, Vnd wa-
+#facs_302_r3l24 Du etwas wirst zur Hand gebracht haben, deßen Vnseren Sekelmeister
+#facs_302_r4l1 annuen 3.
+#facs_302_r4l2 Leütschen Landts ohn verzogenlich Zuberichten, wie wir die wol
+#facs_302_r4l3 Zutrauwend. Datum 10. Septembris 1655.

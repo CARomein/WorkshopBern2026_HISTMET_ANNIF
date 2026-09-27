@@ -1,0 +1,36 @@
+Law ID: BER.01.001.4348
+Name: Das Land verwahren, dass falsche Federthaler debitirt werden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 25/25
+# High similarity (>=50%): 25
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_22_r1l1 36
+#facs_22_r1l2 Coll
+#facs_22_r1l3 66
+#facs_22_r2l1 A
+#facs_22_r2l2 Alle Teutsche und welsche Herren Amtleute, vier
+#facs_22_r2l3 Stät. Freyweibel und Ammon, deme per
+#facs_22_r2l4 Redel an die Länzel der Hauptstatt
+#facs_22_r2l5 Das Landverwahren, daß falsche Federthaler debitirt werden.
+#facs_22_r2l6 Rathalter und Raths
+#facs_22_r2l7 Es kommen falsche Silber Sorten mit dem Frag der neuen
+#facs_22_r2l8 Französischen oder sogenanten Federthaler zum Borstchein
+#facs_22_r2l9 einiche sind mit der Jahrzahl 1760 und mit dem Ruchstaben
+#facs_22_r2l10 bezeichnet, auch denen Guten und rechten an Gewicht gleich¬
+#facs_22_r2l11 und sind von denenselben nicht leicht zu unterscheiden, wer
+#facs_22_r2l12 Sie nicht mit Fleis und Sorgfalt, gegen die Guten gehalten, und
+#facs_22_r2l13 genau beschaut werden: inlaßen der Betrug mit einem
+#facs_22_r2l14 zimlichen zusatz von Silber verdelet ist.
+#facs_22_r2l15 Da wir stets beleimmert sind, Unsere Werthe Angehörige
+#facs_22_r2l16 und Unterthanen vor Schaden und Nachtheil zu verhüten
+#facs_22_r2l17 also verwahrnen werir auch gegenwertig dieselben vor der
+#facs_22_r2l18 annahm dergleichen falschen Federthaler, und mahnen Sie
+#facs_22_r2l19 an bey Gold einnehmen, der gleichen Stuk mit behörige
+#facs_22_r2l20 Sorgfalt zu besichtigen, und zu prüfen, welches zu
+#facs_22_r2l21 mängliches verhalt von den Canzlen kund gethan wird,
+#facs_22_r2l22 Datum den 10ten Novembris 1768.

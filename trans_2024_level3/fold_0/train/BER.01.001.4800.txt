@@ -1,0 +1,56 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 49/49
+# High similarity (>=80%): 47
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_135_r3l15 Die Ausfuhr des Hornviehs und der
+#facs_135_r3l16 Kälber wird freygestellt, und die
+#facs_135_r3l17 daherigen ausfuhr verbotte aufgehoben.
+#facs_70_r2l14 An alle deutsch und Welsche Herren Amtleut
+#facs_123_r5l22 Städt, Freyweibel und Ammann.
+#facs_135_r3l20 Schultheiß und Rath u Einliegende Hoch¬
+#facs_135_r3l21 obrigkeitliche Verordnung, wodurch die freye
+#facs_135_r3l22 Ausfuhr des Horn Viehs von nun an wieder ge¬
+#facs_135_r3l23 stattet wird, werdet Ihr gewohnter maßen
+#facs_128_r2l13 Von
+#facs_140_r6l1 269
+#facs_135_r5l2 von Canzlen verlesen und anschlagen laßen,
+#facs_135_r5l3 Datum den 31ten December 1795.
+#facs_93_r2l1 ob
+#facs_4_r3l2 Verordnung.
+#facs_32_r2l4 Wir Schultheiß, Klein und Große
+#facs_135_r5l7 Räthe der Stadt und Republik Bern, ent¬
+#facs_135_r5l8 bieten allen Unsern lieben und getreuen Bürger
+#facs_135_r5l9 und angehörigen Unsern gnädigen und geneigten
+#facs_135_r5l10 Willen und geben ihnen hiemit zu vernehmen.
+#facs_135_r5l11 Daß Wir bey dem immermehr zunehmenden
+#facs_135_r5l12 Viehstande, für gut erachtet haben, zum Besten
+#facs_135_r5l13 Unsrer Lande die bis dahin bestandenen Ausfuhr¬
+#facs_135_r5l14 Verbotte, so viel sie das Horn Vieh betreffen
+#facs_135_r5l15 wieder aufzuheben, so daß mithin der freye
+#facs_135_r5l16 Handel und die Ausfuhr alles Horn Viehs, mit
+#facs_135_r5l17 Inbegriff der Kälber von nun an wieder erkannt,
+#facs_135_r5l18 und jedermann gestattet seyn soll; alles jedoch
+#facs_135_r5l19 mir in so lange, als Wir nicht Ursache finden
+#facs_135_r5l20 werden, hierüber etwas anders zu verfügen
+#facs_135_r5l21 Wobey es in Bezug auf die noch immer ver¬
+#facs_135_r5l22 botten bleibende Ausfuhr der Schaafe, Schweine
+#facs_135_r5l23 und Beißen, so wie des fleisches und Unschlitts
+#facs_135_r5l24 Schmehr und Spek bey dem Ausfuhr Verbott vom
+#facs_135_r5l25 4ten März 1794. und deßelben nachherigen
+#facs_135_r5l26 Erläuterungen, und in Betreff des verbottenen
+#facs_205_r2l26 Raht
+#facs_1_r2l2 1.
+#facs_136_r1l1 260.
+#facs_238_r3l1 Sollate
+#facs_136_r3l1 Fürkants bey der daherigen Verordnung vom
+#facs_136_r3l2 20ten December 1786. sein unabgeändertin
+#facs_136_r3l3 Verbleiben haben soll
+#facs_136_r3l4 Welches anmit zu jedermanns Nachricht
+#facs_136_r3l5 und Verhalt öffentlich bekannt gemacht wird,
+#facs_93_r3l11 Beben in Unserer Großen Raths Ver¬
+#facs_136_r3l7 samlung den 28ten december 1795
+#facs_98_r5l28 en

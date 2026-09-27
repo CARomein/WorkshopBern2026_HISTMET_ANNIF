@@ -1,0 +1,55 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 47/48
+# High similarity (>=80%): 46
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4480
+#facs_162_r4l4 Ihnen die Niedersezung einer Comission zu
+#facs_162_r4l1 417.
+#facs_3_region_1629374296225_399l1 An
+#facs_38_r2l2 Alle Teütsche Herren Amtleut und Schaffnern
+#facs_162_r4l4 Ihnen die Niedersezung einer Comission zu
+#facs_162_r4l5 Bestimmung der fallen welche bey Ehrschazigem Gut
+#facs_162_r4l6 als eine Handänderung anzusehen sind, kund thun
+#facs_162_r4l7 mit daß von dem Zug eines Guths bey neuer Eheschaz soll bezogen ledigen
+#facs_91_r5l15 Schultheiß Räht und Burgers.
+#facs_162_r4l9 Wir haben zu Bestimmung der Fällen, welche
+#facs_162_r4l10 bey Ehrschäzigem Gut, als eine Handänderung
+#facs_162_r4l11 anzusehen sind, eine eigene Commission aus¬
+#facs_162_r4l12 Unserem Ehren-Mittel nieder zu sezen, nöhtig
+#facs_162_r4l13 erachtet, indeßen aber und in Erwartung,
+#facs_162_r4l14 das dieselbe über den desthalb erhaltenen Auf¬
+#facs_162_r4l15 trag, ihr Systematisches Butachten Uns hinter¬
+#facs_162_r4l16 bringen, und daraufhin das fernere von
+#facs_162_r4l17 Uns wird ausgeschrieben und publiciert werden.
+#facs_162_r4l18 für eins und alle mahl gut befunden und Erkent
+#facs_162_r4l19 Wann ein Lehengut verbaufft, und der
+#facs_162_r4l20 Kauf gezogen wird, so gehet dadurch nur eine
+#facs_162_r4l21 Handänderung vor, und soll folglich auch nicht
+#facs_162_r4l22 mehr als ein Ehrschatz gefordert werden.
+#facs_162_r4l23 In dem Fall allso, da ein Käufer vor
+#facs_162_r4l24 dem Zug, schon den Eheschatz bezahlt hätte,
+#facs_162_r4l25 ist der Züger mehr nicht schuldig, als dem
+#facs_162_r4l26 Kaüffer die dafür ausgelegte Summazn
+#facs_162_r4l27 ersezen, und der Lehenherr soll von wegen
+#facs_163_r1l1 418.
+#facs_163_r2l1 des Jugs nicht einen zweiten Ehrschaz.
+#facs_163_r2l2 forderen. Wann aber der Zug geschich¬
+#facs_163_r2l3 bevor der Käuffer den Eheschaz bezahlt
+#facs_163_r2l4 hat, so ist der juger allein, als der in
+#facs_163_r2l5 den würklichen Besitz des Guts komt, den
+#facs_163_r2l6 Eheschat zu bezahlen schuldig, und soll von dem
+#facs_163_r2l7 Käufer nichts dafür geforderet werden.
+#facs_163_r2l8 Es ergehet demnach Unser Befelch an
+#facs_163_r2l9 Euch, (gleich wie an alle andere Unsere
+#facs_163_r2l10 Teutsche Amtleut und Schaffnere) in folg¬
+#facs_163_r2l11 deßen von Jügen, keinen neuen Eheschach
+#facs_163_r2l12 mehr zu beziehen, und gegenwärtiges —
+#facs_181_r3l16 Schreiben zu Euerer und Eüerer Amts Nach¬
+#facs_163_r2l14 fahren stäten Wissenschaft und Vor¬
+#facs_163_r2l15 schrifft, nachrichtlich in dem Schloß-Mandat
+#facs_163_r2l16 Buch einschreiben zu laßen. Datl.
+#facs_163_r2l17 Den 19ten May 1780.
+#facs_178_r8l1 en

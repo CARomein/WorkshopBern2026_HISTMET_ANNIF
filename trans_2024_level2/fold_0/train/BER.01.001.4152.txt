@@ -1,0 +1,93 @@
+Law ID: BER.01.001.4152
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 82/82
+# High similarity (>=50%): 81
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_127_r3l11 Mandat
+#facs_127_r3l12 An Alle Teutsch- und Weltsche Herren Amt
+#facs_127_r3l13 Leuth, und die Vier aargenische Stadt
+#facs_127_r3l14 Hir Schultheiß und Rast der Stadt
+#facs_127_r3l15 und Republie Bern, thund kund hiermit;
+#facs_127_r3l16 daß die vernemmen müßen, wie in Un¬
+#facs_127_r3l17 serer Bockmäßigkeit die Silber-Gebicht
+#facs_127_r3l18 Ungleich, das Medicinische Gebicht aber
+#facs_127_r3l19 Absonderlich in den Eintheillungen Unrichtig;
+#facs_127_r4l1 243
+#facs_127_r4l2 Worbey dann die gemeine Sicherheit leidet, und
+#facs_127_r4l3 böse Folgen entstehen können; Wir aus Landes¬
+#facs_127_r4l4 vätterlicher Liebe und Vorsorg, jedem von
+#facs_127_r4l5 Unseren beEydigten Gewicht-Fekeren von
+#facs_127_r4l6 obbemelten Gewichten eine Achte Mutter,
+#facs_127_r4l7 zuzustellen und zu injungieren anbefohlen
+#facs_127_r4l8 die Apotheker, und Silber = Gebichten, welche
+#facs_127_r4l9 sie verfertigen oder ausbeßeren werden
+#facs_127_r4l10 in allen ihren Eintheillungen, der ihnen
+#facs_127_r4l11 zugestellten Mucke gänzlich gleich zu
+#facs_127_r4l12 machen, und keine aus Händen zu laßen
+#facs_127_r4l13 sie seye dann allso befunden, und mit dem
+#facs_127_r4l14 behörigen Stämpffel bezeichnet worden; Wir
+#facs_127_r4l15 befehlen und wollen in fernerem, daß auf
+#facs_127_r4l16 den Ersten Septemb. nächstkünfftig, alle und
+#facs_127_r4l17 jede, die einige Arzney Michel zurüsten,
+#facs_127_r4l18 oder Gold und Silber, wie auch feine- und
+#facs_127_r4l19 andere Seiden anbauffen und Verkauffen
+#facs_127_r4l20 sich keiner anderen Gebicht bedienen, als
+#facs_127_r4l21 deren, so von dem Gebicht - Feber des orts
+#facs_127_r4l22 ren errichtet, ausgebeßeret und bezeichnet
+#facs_127_r4l23 seyn wird; da dann das Medicinische oder so
+#facs_128_r4l1 dienante Apotheber-Gelricht, vor zurüstung
+#facs_128_r4l2 der Arzneyen, das Silber Gebicht zu Gold¬
+#facs_128_r4l3 Silber und Seiden dienen, alle übrige
+#facs_128_r4l4 Waaren aber wie bißhero bey der jeden
+#facs_128_r4l5 Ohrts üeblichen Eisen-Gelricht, gewogen, und
+#facs_128_r4l6 Alles nebst
+#facs_128_r4l7 de ses
+#facs_128_r4l8 hingeben werden sollen.
+#facs_128_r4l9 Confiscation der Mangelhafften Geleichten
+#facs_128_r4l10 bey einer Ruß von Zesen Pfunden, von den
+#facs_128_r4l11 Widerhandlenden unnachläßlich zu beziehen
+#facs_128_r4l12 davon Ein Theil Unserem Fisco, der andere
+#facs_128_r4l13 dem Amtsmann, der Dritte aber dem Verlei¬
+#facs_128_r4l14 der anheim fallen und zu kommen soll. Geben
+#facs_128_r4l15 Unserer Rahts Versammlung den 22ten
+#facs_128_r4l16 April 1761.
+#facs_128_r4l17 Canzley Bern
+#facs_128_r4l18 Translation
+#facs_128_r4l19 Tous L'Advoyer et Conseil de la Ville
+#facs_128_r4l20 Ville et Republique de Berne sçavoir faisons
+#facs_128_r4l21 Quetant venû à Nôtre Connoissance, que dans Nos
+#facs_128_r5l1 245.
+#facs_128_r5l2 Etats le poid des Orfœuvres est différent, et celui des
+#facs_128_r5l3 Médecins peû juste, sur tout dans lestwactions, ce qui
+#facs_128_r5l4 blesse la sureté publique, et peut avoir des suites
+#facs_128_r5l5 Sacheusses. Nous avons donné Nos ordres gracieux,
+#facs_128_r5l6 pour quil soit remis à Nos Etaloneurs jurés, de
+#facs_128_r5l7 bonnes Matrices pour lun et lautre, & enjoint de
+#facs_128_r5l8 regler et ajuster les poids d'Apoticaires & des Orfoeuvres
+#facs_128_r5l9 de manier quils foyent en tout parfaitement égaux
+#facs_128_r5l10 aux susdittes Matrices, de n'en pas laisser fortir de
+#facs_128_r5l11 leurs mains, qui ne soyent düement confrontés, trouvés
+#facs_128_r5l12 justes & ensuite étalonnes, Voulons et ordonnons
+#facs_128_r5l13 au surplus, qu'au premier du Mois de Septembre
+#facs_128_r5l14 prochain, tous ceux qui préparent des Medicamens
+#facs_128_r5l15 ou achetent et Vendent des Matieres dor & d'argent,
+#facs_128_r5l16 comme aussi des soyes fines & autres, nusent pas-
+#facs_128_r5l17 d'autres poids que de ceux qui seront faits ou raccom¬
+#facs_128_r5l18 modés & marqués par l'Etaloneur juré du lieu, que
+#facs_128_r5l19 le pois d’apoticaire serve pour les Médicamens;
+#facs_128_r5l20 celui des Orfocuvres pour les Matiéres d'Or & d'argent
+#facs_128_r5l21 & les soyes, & que toutes les autres Marchandises
+#facs_128_r5l22 se delivrent & présent comme par le passé, au poid
+#facs_128_r5l23 de fer actuellement établi dans chaque lieu, sous
+#facs_129_r2l1 Prince de confiscation des poids fautifs, & de dix
+#facs_129_r2l2 livres d'Amende, au profit de Nôtre Fisc, du
+#facs_129_r2l3 Rauvy et du Denonvateur, a repartir par
+#facs_129_r2l4 éguée portion. Donné en Nôtre Conseil ce
+#facs_129_r2l5 22e Avril 1761
+#facs_129_r2l6 Chancellerie de Berne

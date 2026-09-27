@@ -1,0 +1,37 @@
+Law ID: BER.01.001.3043
+Name: Wegen frömbden Obligationen und Gülltbriefen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 26/26
+# High similarity (>=50%): 25
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_205_r5l13 auch
+#facs_205_r5l14 An alle Unser Ergönwisse Stätt
+#facs_205_r5l15 uns Ampt leuth.
+#facs_205_r5l16 Wegen Frömbden Obligationen und Gülltbriefen.
+#facs_205_r5l17 Schultheiß und Rath der Statt Bern
+#facs_205_r5l18 Damit du dich zu könfftiger Nachricht in ansehender
+#facs_205_r5l19 Neüe achtrichtenden güllt brieffen halb an Außer
+#facs_205_r5l20 Orth zu verhallten weißest, wollend wir die hie¬
+#facs_205_r5l21 mit bedeütet haben, daß bereits in außgan¬
+#facs_205_r5l22 genen Mandaten darüber versehung getha, und
+#facs_205_r5l23 bey Confiscation aufzurichten verpotten worden,
+#facs_205_r5l24 Welches Wir in conformitet deßelben wieder
+#facs_205_r5l25 dahin Erwieret haben wollend, daß keinen
+#facs_205_r5l26 Frömbden in Unser Bottmäßigkeit Einicher
+#facs_205_r5l27 Brieff mit Underpfänden aufzurichten
+#facs_205_r5l28 bewilliget sein, noch einen bereits aufga¬
+#facs_206_r3l1 richteten an dieselben zuverhandlen bey dem
+#facs_206_r3l2 der Confiscation; Welcher Uwerer Erleüte:
+#facs_206_r3l3 rung die Unserergönischen Stadt und Ambt¬
+#facs_206_r3l4 Leuth zu ihrem verhallt auch benachrichtet
+#facs_206_r3l5 werdend, damit aber die Confiscation
+#facs_206_r3l6 nicht ohnverwahrnet vergehen thüge; wollend
+#facs_206_r3l7 Wir dis befohlen haben, das Mandat
+#facs_206_r3l8 zu Mäncklichs nachricht offentlich bevor¬
+#facs_206_r3l9 derst von Cantzlen verlesen zulaßen.
+#facs_206_r3l10 Gott mit dir. Datum d. 6. Febr. 1711.

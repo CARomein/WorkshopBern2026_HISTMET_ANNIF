@@ -1,0 +1,34 @@
+Law ID: BER.01.001.4406
+Name: Getreyd zu verkauffen ihnen anbefohlen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_505
+# Matched: 23/23
+# High similarity (>=50%): 21
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_142_r3l15 An
+#facs_142_r3l16 Die Herren Amtleut zu Biberstein, Zostingen, Wange
+#facs_142_r3l17 Trepelwald, Sumißwald, Brandes, Büren, Arberg,
+#facs_142_r3l18 St. Johannesen, Nyden et Arburg
+#facs_142_r3l19 Getreyd zu verbauffen Ihnen anbefohlen
+#facs_142_r3l20 Schultheis Räht und Bürger
+#facs_142_r3l21 Über angehörten Vortrag Unserer Fürgeliebten
+#facs_142_r3l22 Mit Rähten, der Herren Teutsch Sebelmeister
+#facs_142_r3l23 und Venneren und Unserer Verordneten Korn
+#facs_142_r4l1 Collaten
+#facs_142_r5l1 273
+#facs_142_r5l2 Cammer, haben Wir gut befunden und Erkent.
+#facs_142_r5l3 nun auch die noch restierende Zweyte helffte
+#facs_142_r5l4 der ferndrigen Winterfrüchten, die sich in
+#facs_142_r5l5 hüerem Amt über dasjenige so zu Complatierung
+#facs_142_r5l6 deß vorrahts nöhtig, und nach Abzug der Ordinarii
+#facs_142_r5l7 und Quasi - Ordinari - Ausgaben befinden wird,
+#facs_142_r5l8 Versilberen zu laßen. Deßen Ihr berichtet
+#facs_142_r5l9 werdet, mit befelch, Euch demnach zu verhalten,
+#facs_142_r5l10 und das vorschießende Getreis von nun an in
+#facs_142_r5l11 lauffendem preis, jedoch nur zu kleinen Häuffen
+#facs_142_r5l12 zu verkaufen, und Uns darfür behörigen Orts¬
+#facs_142_r5l13 Rechnung zu tragen. Dat. d. 9ten July 1773.

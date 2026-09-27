@@ -1,0 +1,240 @@
+Law ID: BER.01.001.1189
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 229/229
+# High similarity (>=50%): 217
+# Low similarity (<50%): 12
+# Not found: 0
+#
+#facs_318_r1l25 Mr
+#facs_318_r2l1 305
+#facs_318_r2l2 Anstellung der General Capitlen
+#facs_318_r2l3 Anno 1642
+#facs_318_r2l4 Im Tütschen Landt
+#facs_318_r2l5 Nijdauw uff Montag den 16 Maij
+#facs_318_r2l6 C. Bürer vff Zinstag
+#facs_318_r2l7 7. May
+#facs_318_r2l8 Collatun
+#facs_318_r2l9 Burgorff vf Mitwohl
+#facs_318_r2l10 c. Langlthal vff Beytag.
+#facs_318_r2l11 18. Maii
+#facs_318_r2l12 2o Maij
+#facs_318_r2l13 Brugg vff Montag 23 Maij
+#facs_318_r2l14 Acouw vff Zinftag
+#facs_318_r2l15 den 24. dito.
+#facs_318_r2l16 Thun, daselbst vff freyt etc.
+#facs_318_r2l17 Den 27. May.
+#facs_318_r2l18 Das Bern Capitel alhie
+#facs_318_r2l19 vff Mitwichen 1a Juny.
+#facs_318_r2l20 Zu besuch des Capittels Nysauw.
+#facs_318_r2l21 werdend beschriben
+#facs_318_r2l22 Die Vögts
+#facs_318_r2l23 Teßenberg
+#facs_318_r2l24 Nydauw, der verkündets auch den Meyern zu
+#facs_318_r2l25 Ligarts
+#facs_318_r2l26 ¬
+#facs_318_r2l27 Gottstatt
+#facs_318_r2l28 k
+#facs_318_r2l29 pr
+#facs_318_r2l30 8t: Johanßen
+#facs_318_r2l31 8. Arberg, wegl. Bergen, Kalmach e.
+#facs_318_r2l32 l
+#facs_318_r2l33 Erlach. Item der Schuldtheiß daselbs
+#facs_318_r2l34 Item der Schuldtheiß zu Mueten
+#facs_318_r2l35 NB. der Decan disers Capituls solles auch verkünden
+#facs_318_r2l36 Dem Türschen presianten zu Murten
+#facs_318_r2l37 Mostier oder Munster
+#facs_318_r2l38 Court
+#facs_318_r2l39 Dem producanten zu
+#facs_318_r2l40 Dachßfelden vnndt
+#facs_318_r2l41 Bevillard.
+#facs_318_r2l42 Weliche auch In disers Capitel
+#facs_318_r2l43 gehörig.
+#facs_319_r2l1 Zu dem Capital Büren werden
+#facs_319_r2l2 beschriben
+#facs_319_r2l3 Der Schuldtheiß zu Büren
+#facs_319_r2l4 k. Vogts zu Arberg
+#facs_319_r2l5 f. Vogt Zu Freienisperg.
+#facs_319_r2l6 Burgdorffer Capitul
+#facs_319_r2l7 Schls zu Burgdorff
+#facs_319_r2l8 Burgermeister daselbs
+#facs_319_r2l9 E. Landtv. zu Trachselwaldt
+#facs_319_r2l10 6. Vogth zu Rünnißwaldt Levegl. Sumiß wale vnndt
+#facs_319_r2l11 Iegenstorff
+#facs_319_r2l12 8. Brandes.
+#facs_319_r2l13 Frawbrunnen
+#facs_319_r2l14 P. Landtshutt
+#facs_319_r2l15 Feyweibel zu Zuggemeindt.
+#facs_319_r2l16 feyweibel zu Copping.
+#facs_319_r2l17 -
+#facs_319_r2l18 E. Vogt zu Torberg. Dnogh Ersingh vnd Coppingen
+#facs_319_r2l19 2. Wenighe zu Hindelbanck
+#facs_319_r2l20 6. vnd Inquisiten das Capitel Langenthal
+#facs_319_r2l21 Landvogt zu Trachselwaldt
+#facs_319_r2l22 vogt Zu Sumiswaldt.
+#facs_319_r2l23 6 Schaffner zu Zoffing.
+#facs_319_r2l24 Schuldtheiß zu Zoffingen
+#facs_319_r2l25 Arburg
+#facs_319_r2l26 2 Waügen
+#facs_319_r2l27 C. Bix
+#facs_319_r2l28 l. Bewangen
+#facs_319_r2l29 Schultheis zu Butzwil
+#facs_319_r3l1 306.
+#facs_319_r3l2 In das Arouwer Capitel.
+#facs_319_r3l3 6. Landtuogt zu Centzburg sampt dem Twingk Imselben Ampt.
+#facs_319_r3l4 Vogt zu Biberstein
+#facs_319_r3l5 e. Schuldtheis zu Frauw
+#facs_319_r3l6 Ins Brugger Capittel
+#facs_319_r3l7 l. Lamtuogt zu Lentzburg
+#facs_319_r3l8 von anstoßend Ambteren wegen.
+#facs_319_r3l9 vogt zu Biberstein
+#facs_319_r3l10 vogt zu Schenckenberg. sampt den Tewinghl zu Castelen
+#facs_319_r3l11 6
+#facs_319_r3l12 undt Wildegg
+#facs_319_r3l13 Hoffmeister zu Kängpfelden
+#facs_319_r3l14 l. Centzburg Schuldtheis.
+#facs_319_r3l15 l. Brugg Schuldtheiß
+#facs_319_r3l16 Ins Thuner Capitel
+#facs_319_r3l17 Schuldtheis zu Thun
+#facs_319_r3l18 1
+#facs_319_r3l19 Mider: und Obersibenthal
+#facs_319_r3l20 l. Feuringen
+#facs_319_r3l21 P. Haßler
+#facs_319_r3l22 l Interlacken.
+#facs_319_r3l23 L. Vndersewen.
+#facs_319_r3l24 Feyherr zu Spirtz. Thun soll Imme es antem
+#facs_319_r3l25 6 sauen wegen Castlany Sanen
+#facs_320_r1l1 Bern Capitel vff Mithwuesen
+#facs_320_r1l2 K. Juny Zehalten
+#facs_320_r1l3 Den Capitels brüderen wirt es gekündt durch
+#facs_320_r1l4 Dem Hrs. Decan alhie
+#facs_320_r1l5 Quod darumb an In
+#facs_320_r1l6 Demnach werdene volgende Amptluth darzu
+#facs_320_r1l7 beschriben.
+#facs_320_r1l8 4. Die Amman der 4. Kilchspälen
+#facs_320_r1l9 Muri, Stettlen, Bellingh, Pechingl sampt denen
+#facs_320_r1l10 to
+#facs_320_r1l11 Lanzubtzingh
+#facs_320_r1l12 2. Im Landtgericht Sefftingh.
+#facs_320_r1l13 bertheil vnder freyweibel Peter Heinen zu
+#facs_320_r1l14 Guetzelen
+#facs_320_r1l15 Twingherren zu
+#facs_320_r1l16 Kilthdorff sambt den kunnen
+#facs_320_r1l17 Gertzensee.
+#facs_320_r1l18 Pryweibel zu Guetzelen, d’soll es auch guten
+#facs_320_r1l19 Dem Aman zu Gurtzelen,
+#facs_320_r1l20 Aman zu Sefftu
+#facs_320_r1l21 7
+#facs_320_r1l22 Dem Stattthalter zu Blumenstein
+#facs_320_r1l23 Am Mitlaren theil.
+#facs_320_r1l24 Twiegherren zu
+#facs_320_r1l25 Burgistrin
+#facs_320_r1l26 Rumlingen, Riggisperg sambt
+#facs_320_r1l27 an cn
+#facs_320_r1l28 Fey weibel zu Thuenen, daß all es auch Exkünten den
+#facs_320_r1l29 Amann zu Schöneck.
+#facs_320_r1l30 nan zu Thurnen
+#facs_320_r1l31 Aman oder Weibel zu Wattenweil
+#facs_320_r1l32 zu Blumenstein
+#facs_320_r1l33 Item der Stiffschaffner wegl. Rüggisperg sambt dem
+#facs_320_r2l1 307
+#facs_320_r2l2 Im vrederre theil
+#facs_320_r2l3 Twingherren zu Belx
+#facs_320_r2l4 Töffen isambt den Amann
+#facs_320_r2l5 ärsatz
+#facs_320_r2l6 1
+#facs_320_r2l7 Feyweibel zu Belp. der soll es auch verkünden dem
+#facs_320_r2l8 Aman zu Englischerg und Muleren.
+#facs_320_r2l9 3. Im Larckgrist Sternenberg
+#facs_320_r2l10 Vogt zu Künitz, sampt dem binnen vnd Weibel daselbst
+#facs_320_r2l11 Schwartzenburg Landtsvenner vnd Statthalter.
+#facs_320_r2l12 Guggisberg Statthalter
+#facs_320_r2l13 Vogt zu Lauppen sambt dem Meyer zu Vileroltingh
+#facs_320_r2l14 und kommen zu Gümenen und Herrn balen.
+#facs_320_r2l15 Twingherr zu Bümplitz sampt dem Amman¬
+#facs_320_r2l16 Stifftschaffner, wegen Frauwen Cappelen vndt
+#facs_320_r2l17 Oberbalm vndt den Amen daselbst.
+#facs_320_r2l18 fryweibel zuwangen, sambt dem Statthalter zu
+#facs_320_r2l19 Neuwenegg, kommen zu Riedburg.
+#facs_320_r2l20 Twingh. zu Münchenwöler
+#facs_320_r2l21 4. In Landtgricht Konelfingen.
+#facs_320_r2l22 Vogt zu Torberg, sambt dem Aman zu Walckringl.
+#facs_320_r2l23 Vogt zu Signauw sambt seinen vnder Amptküthen.
+#facs_320_r2l24 Twingseren
+#facs_320_r2l25 Zu Wijl sambt dem Loman
+#facs_320_r2l26 Zu Worb, sampt dem Am
+#facs_320_r2l27 Dießbach, sambt dem Aman
+#facs_321_r3l1 Münsingen sambt dem kommen
+#facs_321_r3l2 Risen. sambt dem kennen
+#facs_321_r3l3 Huygen sampt dem kann
+#facs_321_r3l4 Fryweibel zu Münsingh, der sol es gekünten
+#facs_321_r3l5 Dem Amman zu Ober- und Niderwichtract
+#facs_321_r3l6 Beyweibel zu Bigern sampt dem oman daselbst
+#facs_321_r3l7 5. Im L. Zollighoffen
+#facs_321_r3l8 Vogt zu Buchter. sambt dem Stathalter
+#facs_321_r3l9 Twinghr zu Rychenbach sambt dem Ammer
+#facs_321_r3l10 zu Zollighoffen.
+#facs_321_r3l11 Twinghr zu Breingarten
+#facs_321_r3l12 fryweibel zu Rotelfingen
+#facs_321_r3l13 Beschrijbung Ins Bern Capitel
+#facs_321_r3l14 Schuldtheiß etc. diewyl wir eine hache ndurffte
+#facs_321_r3l15 geachtet, die General Capitel zu vnserem
+#facs_321_r3l16 C. vnd W. Landt anzustellen vnd halten zulaßen
+#facs_321_r3l17 vnd Zu dem, so alhie Ime vnser Statt gehalten
+#facs_321_r3l18 und prichtet werden soll, Mitwuchen der
+#facs_321_r3l19 erst nechstkunfftigen Brachmonats angesechnen
+#facs_321_r3l20 vnd bestimck ist, wollend wir dich ernst flyß,
+#facs_321_r3l21 Amahnt vnd bevelihnet haben solich verstand
+#facs_321_r3l22 Capitel alhie vff bemelten tag gehorsamlich
+#facs_321_r3l23 zubesuchen, das gereicht vns zu gewägl. pungl.
+#facs_321_r3l24 Datum 2. Maii 1642
+#facs_321_r3l25 Schwartzenburg, dem Landtsvenner vndt
+#facs_321_r3l26 Statthalter by die, wie auch dem Statthalter In
+#facs_321_r3l27 Euggisperg soliches ordentlich Heuerkünden
+#facs_321_r4l1 An die T. Amptluth, da Capitul stellen sind,
+#facs_321_r4l2 Als da sind Nydauw, Büren. Burgdorff,
+#facs_321_r4l3 Langenthal. Arauw, Brugg, Thun
+#facs_321_r4l4 Hollenn. Schuldtheis etc. Alßdann nun ein gute Zeittz daher
+#facs_321_r4l5 Die general Capitul zuhalten vnderlaßen worden
+#facs_321_r4l6 habens wir ein hoche notturfft sein erachtet, dieselbt
+#facs_321_r4l7 Herngen Jahrs, so wol In vnserm Tals aus W. Landt
+#facs_321_r4l8 angestellen, halten und verrichten Gelaßen, undt
+#facs_321_r4l9 vff sölich Ende hin vnser Ehrsam Rhats-Pottschafft
+#facs_321_r4l10 von Rhäten und Burgeren, sampt einem unser
+#facs_321_r4l11 Vorstenderrn der kelchen alhie vordnet, die
+#facs_321_r4l12 werdend vff Montag den 16 May, magens guter
+#facs_321_r4l13 Früyer tag Zeitt zu Rydauw ihren beuelen an¬
+#facs_321_r4l14 tretten, alijs prichten, und daßelbigen Capitul
+#facs_321_r4l15 halten. Darum wie dich vel vid ernstfleißig
+#facs_321_r4l16 wollens Vmant haben, derselben vnkunfft
+#facs_321_r4l17 Brouw, Bruhdenhmalen Herrwarten, vnd dem Capitel
+#facs_321_r4l18 il
+#facs_321_r4l19 Vndt das daselbst persönlich by zewohnen, Auch hiezwuschen
+#facs_321_r4l20 Capital noch allen deinen vnder Amptluthen, so darzu auch
+#facs_321_r4l21 altenn gewon¬
+#facs_321_r4l22 sen, bruch sollende berufft werden, angedüte Tagsatzung
+#facs_321_r4l23 Besuchen vnd handlung, gebürlich Heuerkünden, vnndt
+#facs_321_r4l24 weisen. Dieselb gehorsamlich zu besuchen, umahnen belaßen,
+#facs_321_r4l25 Darnach wüße dich berichten. Datum 2. May 1642
+#facs_321_r4l26 An die Ambtlüt damit Capitulstallen sind. Sie
+#facs_321_r4l27 Ingang ut supra
+#facs_321_r4l28 Darum wir dich ernstfleißig wellend vermahnt haben
+#facs_321_r4l29 liche vorstehende Capitul, mit denen In deiner
+#facs_321_r4l30 Ampts. Erwaltung geseßenen Twiepherren, vnd deine
+#facs_321_r4l31 onder Amptslüthen, so demselben auch bywohne
+#facs_321_r4l32 vns deßen durch dein vordnung by guter Zeitt
+#facs_321_r4l33 gebürend maßen erwarnet, und berichtet werden
+#facs_321_r4l34 sollend an bemelten Ortt, und off bestempten tax
+#facs_321_r4l35 gehorsamlich zu besuchen. Datum ut supra.
+#facs_321_r4l36 6. der Twimpferren halb allein gan Leutzburg
+#facs_321_r4l37 vnd Schenckenberg
+#facs_322_r1l1 Den Decanis Schreibtman also
+#facs_322_r1l2 Ingang ut supra. Weliger anstellung wie
+#facs_322_r1l3 vis vff sölich Enthin berichten wollen, damit
+#facs_322_r1l4 Ihr dieselbige allen vweren Capitels brüderen
+#facs_322_r1l5 ordenlich vkündnis, sich denhmal mit vch daselbst
+#facs_322_r1l6 finden Zelaßen, das Gerricht vns zu guten
+#facs_322_r1l7 Dungen. Dat ut supra.

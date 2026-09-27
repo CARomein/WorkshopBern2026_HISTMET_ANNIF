@@ -1,0 +1,209 @@
+Law ID: BER.01.001.4282
+Name: Ihnen befehlen, einen Theil dess vorhandenen Vorrahts zu verkauffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_502
+# Matched: 198/198
+# High similarity (>=50%): 194
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_245_r5l12 Signalement
+#facs_245_r5l13 Franz Ludwig Mocta von Mötier-Travers, Bür
+#facs_245_r5l14 ger zu Neuenburg, ein Grenadier, ist ohnge¬
+#facs_245_r5l15 fehr 20 oder 21. Jahr alt, 5. Fuß, 4. jölle
+#facs_245_r5l16 hoch runden Angesichts, und schöner leibes farbe,
+#facs_245_r5l17 dabey in etwas Blater- Narbicht; hat braune
+#facs_245_r5l18 Augen und Braune Haare, welch leztere er
+#facs_245_r5l19 zu beilen in einem Beütel, wie auch nach
+#facs_245_r5l20 Englischer Art aufgebunden, (sonst a la Cadogan
+#facs_245_r5l21 genant) trägt, und hat ein Kleis von Gelblich¬
+#facs_245_r5l22 tem geblünntem Kacken oder Indienne
+#facs_246_r1l1 174
+#facs_246_r1l2 Col
+#facs_246_r2l1 An
+#facs_246_r2l2 Alle Teutsch- und Weltsche H. Amtleuth
+#facs_246_r2l3 und Schaffnere, wo Oberkeitl. Getreid ist
+#facs_246_r2l4 Ihnen befehlen, einen Theil des vorhandi¬
+#facs_246_r2l5 vorrahts zu verkaufen
+#facs_246_r2l6 Schultheis Räht und Burger etc.
+#facs_246_r2l7 Über den von Unser Venner Camer gethan
+#facs_246_r2l8 Vortrag, über den Verkauff des noch
+#facs_246_r2l9 restierenden halbigen Theil Winter=Gewächst
+#facs_246_r2l10 so den Vorraht, die Ordinaria und Quasi
+#facs_246_r2l11 Ordinaria übersteigt, haben Wir Erbent,
+#facs_246_r2l12 das obbemelte über den Vorraht, die
+#facs_246_r2l13 ordinaria und Quasi-Ordinaria sich vorfindende
+#facs_246_r2l14 restanzliche Winterfrucht, völliglich versilber
+#facs_246_r2l15 werden solle. Doch unter denen gewohnten
+#facs_246_r2l16 Praecautionen, nämlich, daß das Mings behal¬
+#facs_246_r2l17 lichste Getreid abgestoßen, und solches Nicht
+#facs_246_r2l18 durch allzu große Kauf= sonderen aufs höchste
+#facs_246_r2l19 nur per Ein Fuder hingegeben werde. Deßen
+#facs_246_r2l20 Ihr Berichtet werdet, um Euch darnach zu
+#facs_246_r2l21 verhalten, und mit dem Verbauff von nun an
+#facs_246_r2l22 den Anfang zu machen, um das Erlösende das
+#facs_246_r2l23 Getreue Rechnung zu tragen. Dat. d. 15ten Juny 17.
+#facs_246_r5l1 475.
+#facs_246_r5l2 An
+#facs_246_r5l3 Die H. Amtleut von der Stifft. Laupen, Arberg,
+#facs_246_r5l4 Heuren, Wangen, Arhangen, Bipp, Arburg,
+#facs_246_r5l5 Biberstein, Wildenstein, Königsfelden, Leichburg
+#facs_246_r5l6 und Arau Cio-
+#facs_246_r5l7 denn an H. Großweibel
+#facs_246_r5l8 Auf die in dem Waßer Verunglübten Daniel
+#facs_246_r5l9 Albrecht aus dem Zürich Gebiet, und dabis Badesche
+#facs_246_r5l10 aus dem Eggibeil achten, und wo diese Cörper entdete
+#facs_246_r5l11 werden könten, selbige Ehrlich begraben zu laßen
+#facs_246_r5l12 Schultheiß und Rahts
+#facs_246_r5l13 Bestrigen Tags sind allhier in der Aar
+#facs_246_r5l14 in einem Schiff verunglübet, und so gleich
+#facs_246_r5l15 von dem Schnellen lauff derselben weggeschwenden
+#facs_246_r5l16 worden, daniel Albrecht, aus dem Zürich
+#facs_246_r5l17 Gebiet, und David Badesche aus dem Eggweil
+#facs_246_r5l18 Wie nun diß ein Unglüb so selbe betroffen,
+#facs_246_r5l19 haben Wir Euch befehlen wollen, wo je die
+#facs_246_r5l20 entseelten Cörper in Eüerein Amt aufgehalten
+#facs_246_r5l21 werden könten, solche allso gleich Ehrlichen auf
+#facs_246_r5l22 dem nächst gelegenen Kirchhof befrdigen zu
+#facs_246_r5l23 laßen, uns deßen zu berichten, und die daharigen
+#facs_246_r5l24 Kösten uns anzurechnen. Dat. d. 16. Juny 1768
+#facs_246_r5l25 An Teüren, Wangen, Arbengen, Sipp, Arburg und Riberstein.
+#facs_246_r5l26 Wurde auch Lobl. Stand Solothurn Euch einberichten, daß diese
+#facs_246_r5l27 körper bey Ihnen gefunden worden, werbetehe solche erheben, daherig
+#facs_246_r5l28 kösten bezahlen, solche vorgemelter maßen beErdigen laßen,
+#facs_246_r5l29 und die Kösten Uns anrechnen.
+#facs_247_r1l1 O4 F 6
+#facs_247_r1l2 Collant
+#facs_247_r2l1 An
+#facs_247_r2l2 Alle Teutsch und Sveltsche H. Amtleut, 4. Stätt,
+#facs_247_r2l3 Freybeibel und Ammann
+#facs_247_r2l4 Ausschreibung der Ernd ferinn
+#facs_247_r2l5 Schultheis und Raht etc.
+#facs_247_r2l6 Den Anfang heüriger Ernd seinen haben Wir
+#facs_247_r2l7 gesezet auf Sontag den 10ten bevorstehenden
+#facs_247_r2l8 Monats July, und deren Dauer bestimmt, bis
+#facs_247_r2l9 Mitwochens den 10ten Aug. 1768 Deßen dann
+#facs_247_r2l10 Eüch berichten wollen, mit Befelch, während
+#facs_247_r2l11 solcher Zeit keine andere, als höchst noht
+#facs_247_r2l12 dringende Geschäffte an Uns, und Unsere
+#facs_247_r2l13 bestelten Cammeren gelangen zu laßen,
+#facs_247_r2l14 noch Partheyen an Selbige zu weisen.
+#facs_247_r2l15 Dat. d. 9. Juny 1768.
+#facs_247_r3l1 linet ad
+#facs_247_r3l2 pag: 434
+#facs_247_r5l1 4771
+#facs_247_r5l2 linen Diben hals, und braune krause haar, tragt
+#facs_247_r5l3 Einen blauen Güttuchenen Rok, blaue Hosen und
+#facs_247_r5l4 strümpf, bald ein rohtes, bals ein blaues Zaunsol,
+#facs_247_r5l5 und Schu mit Schnallen
+#facs_247_r5l6 deßen Weib
+#facs_247_r5l7 2o Catharina, bey 40. Jahren alt, mägerer und langer
+#facs_247_r5l8 statur, hat graue haar, rüchlichtes Angesicht, hat einen
+#facs_247_r5l9 mändigen Hals, tragt einen blauen Rittel mit
+#facs_247_r5l10 rohter Brust, braunes Casägl. und Ordinari weis und
+#facs_247_r5l11 blau gestrichtetes Fürtuch, und Baurenschu mit
+#facs_247_r5l12 Laschen, husieret mit Schnür und Strählen
+#facs_247_r5l13 deßen Tochter
+#facs_247_r5l14 Maria oder Catharina, bey 15. Jahren Alt, kurzer
+#facs_247_r5l15 besezter Statur, feilen rohtlechten Angesichts, hat
+#facs_247_r5l16 halbe krause haar in Züpfen geflochten, mit einem
+#facs_247_r5l17 sammet Band auf dem Kopf, nach Ärgener Art, komt
+#facs_247_r5l18 halb zürcherisch und halb fernerisch gebleidet, tragt
+#facs_247_r5l19 Schu mit Laschen, husiert mit Schnün und Strählen
+#facs_247_r5l20 4°. Jacob Müller, deß obigen Ullis Sohn, ein Körber,
+#facs_247_r5l21 bey 23 Jahren Alters, ohngefehr 5 Schühoch, rahnen
+#facs_247_r5l22 Statur, spizigen rohtlechten Angesichts, braune Augen¬
+#facs_248_r3l1 Tragt halbe brause offene Haar, hat einen Maüse
+#facs_248_r3l2 farben Alten Rok nach Statt Art gemacht, mit
+#facs_248_r3l3 gleich färbiger Veste, blaue Oberländische Spitzho an
+#facs_248_r3l4 und graue Cstor farbe Strümpf, und Schuhe mit
+#facs_248_r3l5 Schnallen
+#facs_248_r3l6 deßen Weib
+#facs_248_r3l7 Barbara, bey 24. Jahr alt, großer fecker Statur
+#facs_248_r3l8 fecken rohtlechten Angesichts Braune Augen¬
+#facs_248_r3l9 großes Maul, halbe krause haar in kleine Zöpfel
+#facs_248_r3l10 geflochten, tragt einen blauen schlechten
+#facs_248_r3l11 Kickel, Braunes Guttuchenes Cajägli, weiß und
+#facs_248_r3l12 Blau gestrichtetes Fürtuch, und Schuh mit laschen
+#facs_248_r3l13 susiert mit kurzer Waar und Schlomm. Führt ein
+#facs_248_r3l14 junges 2. Jähriges Knäblein
+#facs_248_r3l15 6. Caspar Müller, daß Müllers Bruder, ein
+#facs_248_r3l16 Körber, bey 35. Jahren Alt, Bey 5. Schuhach, rahm
+#facs_248_r3l17 Statur, setzen schwarzen Angesichts, braune Aug
+#facs_248_r3l18 schwarze grade lange ungebundene Haar, tragt
+#facs_248_r3l19 einen blauen Güttüchenen Rob, Blaue Veste.
+#facs_248_r3l20 und gleich färbige Spitzhosen, Schuh mit Ringen
+#facs_248_r3l21 Deßen Weib
+#facs_248_r3l22 7. Maria, bey 40. Jahren Alt, langer rohner Statur, wohl
+#facs_248_r5l1 K 7
+#facs_248_r5l2 lechten Angesichts, braune Augen, hat braune in
+#facs_248_r5l3 Jüpfen geflochtene Haar, tragt einen blauen Kickel
+#facs_248_r5l4 Braunes Casäglin, weis uns blau gestrichtetes Fürtuch
+#facs_248_r5l5 Schuh mit Laschen, ist eine Schaubhüetlerin, führt 6.
+#facs_248_r5l6 oder 7. Kinder Männlichen Geschlechts
+#facs_248_r5l7 8. Anna Müller, daß zu Aargangen hingerichteten
+#facs_248_r5l8 Durst Müllers Eheweib, bey 35 Jahren Alt, langer
+#facs_248_r5l9 Mägerer Statur, schwarzen Angesichts, hat ein großes
+#facs_248_r5l10 Maul, braune Augen, schwarze in Züpfen geflocht
+#facs_248_r5l11 tene Haar, tragt einen schwarzen Kickel, braunes
+#facs_248_r5l12 Easäglin, weiß und blau gestrichletes Fürtuch und
+#facs_248_r5l13 Schuh mit Laschen, ist ebenfahls eine Körberin und
+#facs_248_r5l14 ihre Tochter
+#facs_248_r5l15 9° Anna, bey 15. Jahren alt, kleiner Statur, mager an
+#facs_248_r5l16 Angesichts, graue Augen, falle in Züpfen geflochtene
+#facs_248_r5l17 haar, tragt einen blauen Kittel; Braun Crsäglin
+#facs_248_r5l18 wei und blau gestrichtet Furtuch, und Schuh¬
+#facs_248_r5l19 mit Laschen, ist ebenfahls eine Körberin
+#facs_248_r5l20 Verena Müller eine Schwester des obigen Ulli Müllers,
+#facs_248_r5l21 bey 30. Jahren alt, Mittelmäßiger rahner Statur,
+#facs_248_r5l22 Brunnen wüesten angesichts, braune Augen, einen
+#facs_249_r3l1 Diken hals mit Schnacten, als wann sie den
+#facs_249_r3l2 eingenanten gehabt hätte, hat schwarze Herrn
+#facs_249_r3l3 in Züpfen geflochten, tragt einen Schaubhut
+#facs_249_r3l4 und einen Blauen Kickel, braunes Casäglin
+#facs_249_r3l5 gestrühlete weis und blaues Fürtuch, und Schuh
+#facs_249_r3l6 mit Schnallen, ist eine Körberin
+#facs_249_r3l7 11. Jacob Müller, aus dem Thurgen, bey 53. Jahren
+#facs_249_r3l8 Alters ein Körber seiner Profession, etwann 5½.
+#facs_249_r3l9 Schu hoch, hat schwarze Haar und Bart, wohl
+#facs_249_r3l10 besezter Statur, tragt ein blaues Kleid, Veste
+#facs_249_r3l11 und zwilchene Hosen. Ist mit samt Weib und
+#facs_249_r3l12 Kinderen aus dem Land für Ewig verwiesen worden
+#facs_249_r3l13 Niclaus Müller, des obigen Bruder, 47. Jahren
+#facs_249_r3l14 Alters, auch ein Körber, ohngefehr 4 und ein halbe
+#facs_249_r3l15 Schu hoch, hat Branne Haare und Bart, schlechte
+#facs_249_r3l16 Augen, tragt ein ganz braunes Kleid, baur
+#facs_249_r3l17 wilch, Hosen; Ist auch für Evig mit seinem Weib
+#facs_249_r3l18 aus dem Land Eidlich verwiesen worden.
+#facs_249_r5l1 481
+#facs_249_r5l2 An
+#facs_249_r5l3 Hl. David Edelstein, Pfarrer zu Rüggisberg,
+#facs_249_r5l4 Bottlieb Tillmann, Pfarrer zu seedorff,
+#facs_249_r5l5 Daniel Ris, Pfarrer zu Trub,
+#facs_249_r5l6 Anthonj Daniel Steckler, Pfarrer zu Kilchlindag
+#facs_249_r5l7 Abraham Rengger, Pfarrer zu Gebistorff
+#facs_249_r5l8 Abraham Sprüngli, Pfarrer zu Biorwyl
+#facs_249_r5l9 Samuel Kuhn, Pfarrer zu Meybirch,
+#facs_249_r5l10 Rudolff Scharer, Principal allhier,
+#facs_249_r5l11 Jacob Frölich, Pfarrer zu Umiben
+#facs_249_r5l12 Teat Messmer, Pfarrer zu Reutigen
+#facs_249_r5l13 Ludwig Marti, Pfarrer zu Mühliberg
+#facs_249_r5l14 Rudolff Julliker, Pfarrer in der Lauenen
+#facs_249_r5l15 Ihnen die Verledigte Pfarr- Stell in der Kirchen
+#facs_249_r5l16 zum Heil. Beist allhier kund thun, und ob Sie zu
+#facs_249_r5l17 haltung der Probpredigen erscheinen wollen.
+#facs_249_r5l18 Schultheiß und Raht 5
+#facs_249_r5l19 Da Ihr Vermög daß von Unserem Wohlverord¬
+#facs_249_r5l20 neten Kirchen Convent, gethanen Vorschlags, Euch
+#facs_249_r5l21 zu der Verledigten Pfarrer-Stelle in der Kirchen
+#facs_249_r5l22 zum Heil. Geist in der Wahl befindet, als haben
+#facs_249_r5l23 Wir euch davon die ohnverweilte Rechricht
+#facs_250_r3l1 Beben- und anbefehlen wollen, Eüer
+#facs_250_r3l2 Antwort, Schreiben, ob Ihr zur Prob Predig¬
+#facs_250_r3l3 erscheinen wollet, allsobald nach empfang
+#facs_250_r3l4 dieses Schreibens, an hiesiges Decanat einzu¬
+#facs_250_r3l5 senden, damit die Tagen zu den Prob- Predi
+#facs_250_r3l6 gen ehebaldest bestimt werden können.
+#facs_250_r3l7 Dath. den 21. Juny 1768.

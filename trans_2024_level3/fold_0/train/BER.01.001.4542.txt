@@ -1,0 +1,544 @@
+Law nr: BER.01.001.4542
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 532/533
+# High similarity (>=80%): 462
+# Low similarity (<80%): 70
+# Not found: 1
+#
+#facs_68_r6l2 holl.
+#facs_63_r4l1 119
+#facs_12_r8l3 in
+#facs_63_r4l3 deutsch und welche Herren Amtlent
+#facs_117_r3l3 4. Städt, Freyweibel und Amann
+#facs_63_r4l5 Schwarzenburg eine Grandson; denn p.
+#facs_63_r4l6 Jedel an Mehloffl. den Marechaussée und
+#facs_63_r4l7 Policey Camer, und Herren Großweibel
+#facs_63_r4l8 und Herren Bruhtschreiber, Sep¬
+#facs_63_r4l9 anderwärtige Einrichtung des Schallen- und
+#facs_63_r4l10 vormahligen Zucht jez Arbeithause.
+#facs_175_r3l20 Schultheiß und Rathen.
+#facs_63_r4l12 und Obere in ansehen des Schallen¬
+#facs_63_r4l13 hauses und des vormaligen äußeren
+#facs_63_r4l14 Zuchthauses, welches hinfüro Arbeitshaus
+#facs_63_r4l15 heißen wird, eine anderkärtige Ein¬
+#facs_63_r4l16 richtung zu machen nothwendig erachtet,
+#facs_63_r4l17 So haben Wir in der Absicht den
+#facs_63_r4l18 Gefangenen allen Anlaß abzuschneiden,
+#facs_63_r4l19 laraus zu entbreichen, gut gefunden,
+#facs_63_r4l20 nitkommende Verordnung zu machen, und
+#facs_63_r4l21 tum Druk beförderen zu laßen;
+#facs_63_r4l22 Wir übersenden Euch eine hinlängliche
+#facs_63_r4l23 Unzahl doppel davon, mit dem Befehl,
+#facs_63_r4l24 selbige öffentlich verlesen uns gewohnten
+#facs_63_r4l25 Orten anschlagen zu laßen, nunmahl
+#facs_63_r4l26 Oberamtlich zu machen, daß solcher
+#facs_222_r1l1 129
+#facs_104_r1l2 Col
+#facs_64_r2l1 von Jederman nachgelebt werde; Als
+#facs_64_r2l2 zu machen das ihr diese Verordnung
+#facs_64_r2l3 auch zu Herrer Amts Nachfahren Wißen
+#facs_64_r2l4 schaft unhauptlich in den Schloßbücheren
+#facs_64_r2l5 Beschreiben lassen wendet. Datl. den
+#facs_64_r2l6 29th Septembris 1783
+#facs_14_region_1627971782200_27l1 Verordnung
+#facs_347_r2l1 Dorir Schultheis und Rath
+#facs_64_r2l9 der Stadt und Republih Bern, thun bum
+#facs_64_r2l10 hiemit; da Unsere Gnädige Herren und
+#facs_64_r2l11 Ober gut gefunden, die bis hiehin unter
+#facs_64_r2l12 dem gleichen doch gestandene Correbtions¬
+#facs_64_r2l13 häuser, das so genante Schallenwerk und
+#facs_64_r2l14 das äußere Zuchthaus von einander zu
+#facs_64_r2l15 sonderen, zumahl das erstere mit
+#facs_64_r2l16 Beybehaltung des Namens Deallenberk
+#facs_64_r2l17 zu Bestrafung der gröteren Verbrechen
+#facs_64_r2l18 ganz zu wiedmen, für mindere Verbrechen
+#facs_64_r2l19 den, an Platz des ehemaligen äußeren
+#facs_64_r2l20 Zuchthauses, ein neues Gebäus und andere
+#facs_64_r2l21 wärtige Einrichtung, unter dem Nahmen
+#facs_64_r2l22 Arbeitshaus, auf und ausführen zu laßen,
+#facs_64_r3l1 121
+#facs_64_r3l2 denen Gefangenen beider dieser Errebt
+#facs_64_r3l3 tionshäusern dann, zu Vermeidung
+#facs_64_r3l4 des Ausreißens eine besondere kürze
+#facs_64_r3l5 und sehr ausgezeichnete Kleidung zu
+#facs_64_r3l6 geben, nemlich den Gefangenen der Schallen¬
+#facs_64_r3l7 hauses, eine braune mit schwarzen Strichen
+#facs_64_r3l8 welche vornen auf der Brust mit den
+#facs_64_r3l9 Buchstaben S. H. bezeichnet ist, denen
+#facs_64_r3l10 im Arbeitshaus aber eine ganz blaue
+#facs_64_r3l11 so wird solches hiemit durch den Druk
+#facs_123_r4l2 bekant gemacht wird. Actum coram 200
+#facs_64_r3l13 Und da Wir mit Mißbelieben wahr¬
+#facs_64_r3l14 meinen müßen, daß bis anhin denen
+#facs_64_r3l15 Schallenleuten zum Ausreißen öftert Hilf
+#facs_64_r3l16 geleißet worden; so verbieten Wir jeden¬
+#facs_64_r3l17 mann bey hinter Strafe, diesen Gefangen,
+#facs_64_r3l18 beder Messer, feilen noch andere Instrument
+#facs_64_r3l19 die ihnen zum Ausreißen beförderlich seyn
+#facs_64_r3l20 böuten zu geben, noch zukommen zu
+#facs_64_r3l21 laßen, holte aber jemand sich so weit
+#facs_64_r3l22 tergeßen, den einten oder anderen der-
+#facs_64_r3l23 selben seiner Eisen zu befreyen, oder
+#facs_64_r3l24 ihme durch Darleihung anderbärtigen
+#facs_64_r3l25 Kleidern zu seiner Flucht Vorschub zu
+#facs_65_r1l1 122.
+#facs_65_r2l1 thun, so stell derselbe alle Kosten
+#facs_65_r2l2 bezahlen, und wir behalten uns noch
+#facs_65_r2l3 in fernerem vor, derselben bewandten
+#facs_65_r2l4 Umständen noch beiters zu bestrafen,
+#facs_65_r2l5 Nicht nur aber soll von Niemand die
+#facs_65_r2l6 flucht eines solchen Gefangenen begon¬
+#facs_65_r2l7 stiget werden, sondern Wir ermahnen
+#facs_65_r2l8 im Gegentheil jedermann selbige in
+#facs_65_r2l9 Vorfallenseiten wo möglich anzuhalten,
+#facs_65_r2l10 und in das Haus selbst, daraus sie
+#facs_65_r2l11 entlicher, oder dem nächstgelegenen hiesigen
+#facs_65_r2l12 Kundtman zu übergeben, als wofür sie
+#facs_65_r2l13 von Obrigkeits wegen, bey der Über¬
+#facs_65_r2l14 lieferung eines solchen Gefangenen, eine
+#facs_65_r2l15 Belohnung von sehen Pfund zu erhalten
+#facs_65_r2l16 haben werden.
+#facs_65_r2l17 Den Stadt und Landharschiereren aber be¬
+#facs_65_r2l18 fehlen Wir, bey ihrer Pflicht, diese Ver¬
+#facs_65_r2l19 ordnung genau zu befolgen, und diejenigen,
+#facs_65_r2l20 so derselben zuwieder handlen möchten,
+#facs_65_r2l21 ohne Ahonen noch Ansehen der Persohn.
+#facs_65_r2l22 seines behörigen Orts zu verleiden.
+#facs_65_r2l23 Wie dann wir uns zu allen Unseren
+#facs_65_r2l24 Amtleüten bestens versehen, daß sie
+#facs_53_r3l19 12.3
+#facs_65_r3l2 oberamtlich wachen werden, daß dieser
+#facs_65_r3l3 Verordnung von jederman nachgelebt
+#facs_65_r3l4 berde. Geben den 29.ten Monat 1783
+#facs_65_r3l5 Canzley Bern.
+#facs_47_r3l6 Traduction.
+#facs_136_r2l21 sollte.
+#facs_60_r4l15 Nous L'Avoyer et Conseil de
+#facs_65_r3l9 la Ville et Republique de Berne
+#facs_60_r4l17 favoir faisons par les présentes.
+#facs_65_r3l11 Leurs Excellences du Conseil Souverain
+#facs_65_r3l12 ayant trouvé bon de séparer les deux
+#facs_65_r3l13 maisons de force de cette Capitale, l'une
+#facs_65_r3l14 nommée le Schallenwerk et l'autre la maison
+#facs_65_r3l15 de correction y attenante, en destinant la
+#facs_65_r3l16 premiere en entier sous le nom actuel
+#facs_133_r3l19 werden sollen, als wann sie die Erb
+#facs_65_r3l18 des gens coupables de crimes graves et
+#facs_65_r3l19 substituant à l'autre une edifice nouvellement
+#facs_65_r3l20 construit sous le nom de maison de travail
+#facs_65_r3l21 foumis a des regles particulieres, et destine
+#facs_65_r3l22 specialement pour y detenir des gens
+#facs_65_r3l23 coupables de moindres délits; a ces firs
+#facs_65_r3l24 et pour mettre d'autant plus de difficulté
+#facs_64_r3l1 121
+#facs_66_r2l1 à leur évasion, ces prisonniers auront
+#facs_66_r2l2 un habillement court et distinctif de
+#facs_66_r2l3 Tout autre, savoir ceux du Schallenhaus
+#facs_66_r2l4 ou des sonnettes, des habits de drap
+#facs_66_r2l5 grossier, à fond brun avec des rayes
+#facs_66_r2l6 noires et sur la poitrine la marque.
+#facs_66_r2l7 S:H: /: cest a dire Schallen Haus:/
+#facs_66_r2l8 et aux de la maison de Travail un habille
+#facs_66_r2l9 ment de draps bleu.
+#facs_66_r2l10 Et comme nous avons remarqué avec dé¬
+#facs_66_r2l11 „plaisir en differentes occasions, qu'il y a
+#facs_66_r2l12 eu des Gens qui se sont émancipe de
+#facs_66_r2l13 favoriser la déssertion de quelques uns de
+#facs_66_r2l14 ces prisonniers. Nous défendons à tous et un
+#facs_66_r2l15 hacun sous des peines très graves, de leur
+#facs_66_r2l16 fournir à l'avenir des couteaux, limes ou
+#facs_66_r2l17 autres instrument, dont ils pourroient
+#facs_66_r2l18 le servir pour séchapper. Voulant qu'au
+#facs_66_r2l19 cas que quelqu'un s'oublioit au point
+#facs_66_r2l20 de dégager un de ces malfaiteurs de ses
+#facs_66_r2l21 fers, ou de favoriser sa désertion, en lui
+#facs_66_r2l22 procurant des habits pour se déguiser
+#facs_66_r2l23 qu'il soit non seulement tenu sans remissant
+#facs_66_r2l24 à payer tous les frais qui pourront
+#facs_66_r3l1 125
+#facs_66_r3l2 résulter de sa nouvelle saisie ; mais en
+#facs_66_r3l3 outre nous nous reservons son chatiment
+#facs_66_r3l4 alterieur, filon les circonstances et la
+#facs_66_r3l5 gravité du cas.
+#facs_66_r3l6 De plus et bien loin de favoriser l'évasion
+#facs_66_r3l7 d'un de ces prisonniers, nous exhortons au
+#facs_66_r3l8 contraire un chacun de s'empresser à procurer
+#facs_66_r3l9 l'arêt d'un tel fugitif, et à le faire traduire
+#facs_66_r3l10 foit ici à la maison de laquelle il c'est
+#facs_66_r3l11 évades soit au Baillif du district dans
+#facs_66_r3l12 lequel il aura été arrêté. Voulant que
+#facs_66_r3l13 pour cet effet il lui soit délivré de Notre
+#facs_66_r3l14 part une recompense de dix livres bernoises.
+#facs_66_r3l15 Nous enjoignons en consequence tant aux
+#facs_66_r3l16 patrouilleurs de cette Capitale, qu'a la mare
+#facs_66_r3l17 chaussée qui patrouille dans le pays, comme
+#facs_66_r3l18 en objet dépendant de leur office de suivre
+#facs_66_r3l19 strictement la presente Ordonnance, et de
+#facs_66_r3l20 denoncer tous ceux qui y contreviendront, sans
+#facs_66_r3l21 égard pour personne ; Nous reposant du
+#facs_66_r3l22 reste sur l'activité de tous nos Baillifs
+#facs_66_r3l23 pour que le contenu d'icelle soit pareillement
+#facs_66_r3l24 brevé d'un chacun. Donne le 29e Septbre 1783
+#facs_179_region_1633454973166_3014l13 Chancelerie de Berne
+#facs_83_r3l6 en
+#facs_67_r1l1 126
+#facs_56_r2l1 Colle
+#facs_67_r2l1 Ertantnus
+#facs_67_r2l2 daß die Abbüßungen der 4. Chorgrichten
+#facs_67_r2l3 zu Neuenegg, Mühleberg, ferenbalin und
+#facs_67_r2l4 Wohlen nicht mehr in hier = sondern zu
+#facs_67_r2l5 Laugen vor sich gehen sollen.
+#facs_67_r2l6 Lauven Prof.
+#facs_31_r5l5 Schultheiß und Rath etc da die
+#facs_67_r2l8 in Euerem Schreiben vom 7. dieß, ent¬
+#facs_67_r2l9 haltene Vorstellungen und in Erläuterung
+#facs_67_r2l10 Unserer der Chorgrichten zu Neuenegg,
+#facs_67_r2l11 Müflenberg, Ferenbalm und Wohlen halb
+#facs_67_r2l12 sub 27. Januar dieß Jahrs gemachten
+#facs_67_r2l13 Verfügung, kraft deren solche für die
+#facs_67_r2l14 Zukonff dem Amt Laupen anhängig
+#facs_67_r2l15 gemacht worden, wollen Wir hiemit
+#facs_67_r2l16 geordnet haben, daß samtliche diese
+#facs_67_r2l17 4. Korgricht, gleich übrigen Chorgrichten
+#facs_67_r2l18 des Amts Langen, mit allen davon
+#facs_67_r2l19 abhangenden Reguelen diesem Amt zuge¬
+#facs_67_r2l20 than-mithin die daher sich ergebendt
+#facs_67_r2l21 Abbüßungen, nicht mehr in hier
+#facs_67_r2l22 sondern zu Laupen vor sich gehen
+#facs_59_r2l22 sollen.
+#facs_67_r2l24 deßen ihr berichtet werdet,
+#facs_67_r2l25 mit Befelch, solches zu Euer und Euerer
+#facs_67_r2l26 Amts Nachfahren Wißenschafft und Ver¬
+#facs_67_r2l27 halt in den Schloßbüheren umrichtl. einschreiben
+#facs_315_r3l18 zu laßen.
+#facs_196_r4l27 Wir
+#facs_66_r1l1 124
+#facs_374_r2l1 ar
+#facs_67_r4l3 die Herren Amtleut zu Wiblisturg
+#facs_67_r4l4 Petterlingen, Milden, Lausanne, Morstel,
+#facs_67_r4l5 fferten und Romainmotier. Sep
+#facs_271_r6l16 Nachlaß der durch Hochgewitter
+#facs_67_r4l7 beschädigten Zehnden.
+#facs_43_r2l6 Schultheit Räth und Bürger
+#facs_67_r4l9 Aus von unseren fürgeliebten Mit¬
+#facs_67_r4l10 räthen den Herren welsch Develmeister
+#facs_67_r4l11 und Venneren, über die Heurigen
+#facs_67_r4l12 Jahrs vom Hochgewitter beschädigten
+#facs_272_r2l3 Getreid Zehnden.
+#facs_67_r4l14 worden, daraus sich dann ergeben, daß
+#facs_67_r4l15 nach tezificierte Zehndbestehere folgenden
+#facs_67_r4l16 Schaden erlieten, alt
+#facs_363_r1l1 T10
+#facs_69_r3l16 Ju
+#facs_67_r4l19 zu Valamand und Mur
+#facs_3_region_1627936339514_16l1 1
+#facs_67_r4l22 Un Orge d'Eté
+#facs_67_r4l23 Pois, Poissettes et Lentilles
+#facs_10_r1l1 14
+#facs_80_r3l6 haben.
+#facs_67_r4l26 zu Villars und Chabray.
+#facs_9_r8l4 22.2
+#facs_68_r4l3 an Waysen
+#facs_67_r4l29 4.44
+#facs_4_r1l1 2
+#facs_67_r4l31 An Bled
+#facs_68_r4l8 An Sommergersten
+#facs_67_r4l34 5.26
+#facs_67_r4l35 An Wiben und Finsen
+#facs_67_r4l36 An Haber
+#facs_68_r1l1 128
+#facs_56_r2l1 Colle
+#facs_128_r2l20 solle.
+#facs_136_r2l13 meh,
+#facs_68_r4l2 zu Constantine
+#facs_68_r4l3 an Waysen
+#facs_8_r2l2 24
+#facs_8_r7l2 29.
+#facs_21_region_1633454506260_2871l1 Un
+#facs_10_r1l1 14
+#facs_68_r4l8 An Sommergersten
+#facs_4_r4l1 3.
+#facs_68_r4l10 An Wiben und Linsen
+#facs_3_region_1627936339514_16l1 1
+#facs_14_region_1627971805407_36l1 23
+#facs_4_r6l1 5
+#facs_67_r4l36 An Haber
+#facs_68_r4l16 zu Cuderfin
+#facs_68_r4l3 an Waysen
+#facs_8_r2l2 24
+#facs_21_region_1633454506260_2871l1 Un
+#facs_271_r6l1 525.
+#facs_4_r1l1 2
+#facs_53_r8l3 Untersten
+#facs_68_r4l10 An Wiben und Linsen
+#facs_9_r5l1 34
+#facs_68_r4l14 Anhaben
+#facs_4_r1l1 2
+#facs_68_r4l28 Sa hinter Wiblist.
+#facs_31_r2l1 56.
+#facs_68_r4l31 Wetterlingen
+#facs_68_r4l32 zu Ehesard in toto 5. Müte 11. Köpf oder Aus¬
+#facs_68_r4l33 zu 8. Mär
+#facs_6_region_1627936574015_66l1 6
+#facs_11_r6l1 17
+#facs_68_r4l36 zu Resuders in toto 5. Mk. 7. K. oder
+#facs_11_r1l1 16
+#facs_68_r4l38 Zu Missy, in toto 5. mtt. 5. K. oder
+#facs_68_r4l39 16.2
+#facs_68_r4l40 zu Vallon in tote 3 mll. T. Kä. oder
+#facs_6_region_1627936574015_66l1 6
+#facs_8_r1l1 10
+#facs_68_r4l43 Sr. hinter Petterlingen
+#facs_68_r4l44 61
+#facs_3_region_1627936339514_16l1 1
+#facs_97_r3l16 seichnet sich befindet,
+#facs_355_r3l18 entbieten allen Unseren getreuen
+#facs_68_r4l48 sollen berechnet werden.
+#facs_68_r4l49 Milden,
+#facs_68_r4l50 zu Thierens
+#facs_68_r4l51 An Roggen
+#facs_68_r4l52 An Roggen Haber 4. Mk oder
+#facs_7_r4l1 21
+#facs_87_r3l8 steint werden.
+#facs_4_r4l1 3.
+#facs_6_region_1627936574015_66l1 6
+# NOT FOUND: (
+#facs_157_r4l1 oll.
+#facs_37_r1l1 66
+#facs_56_r2l1 Colle
+#facs_100_r2l1 soll.
+#facs_28_r4l1 Coll
+#facs_187_r2l23 s
+#facs_54_r5l22 Lausanne
+#facs_68_r8l3 zu Corvons
+#facs_68_r4l3 an Waysen
+#facs_7_r3l1 22
+#facs_7_r3l1 22
+#facs_68_r4l51 An Roggen
+#facs_15_region_1633454385876_2820l8 46
+#facs_67_r4l36 An Haber
+#facs_68_r8l10 Colly petit
+#facs_68_r8l11 zu
+#facs_67_r4l36 An Haber
+#facs_8_r1l1 10
+#facs_68_r8l14 Sa Suiter Lausane 19
+#facs_4_r1l1 2
+#facs_91_r6l21 Morsel
+#facs_68_r8l17 zu Grataloux, so allezeit für 3. Jahre
+#facs_68_r8l18 hingeliehen wird, in allem
+#facs_3_region_1627936339514_16l1 1
+#facs_68_r8l20 halb Wäysen, halb Haber.
+#facs_68_r8l21 so unter 2. mahlen mit Hochge¬
+#facs_120_r3l13 2. Iferten
+#facs_68_r8l23 witter getroffen worden.
+#facs_68_r8l24 zu Rances.
+#facs_54_r5l19 J°
+#facs_68_r8l26 An Waizen
+#facs_68_r8l27 zu Ste Croix
+#facs_68_r8l28 13.5.4
+#facs_53_r8l3 Untersten
+#facs_68_r8l30 27.2.8
+#facs_67_r4l36 An Haber
+#facs_68_r8l32 Sr. imter Pforten 48. 3. 1.
+#facs_4_r4l2 15
+#facs_68_r8l35 Romainmotier
+#facs_68_r8l36 zu Gimel, an Haber
+#facs_68_r8l37 haben Wir ihnen denen Zahn besteheren diesen
+#facs_14_region_1633454353484_2800l1 de
+#facs_68_r8l39 Betrag in Gnaden nachgelassen
+#facs_68_r8l40 Ihr berichtet berdet, mit dem befelchl. Auftrag
+#facs_68_r8l41 ihnen solches zu eröfnen, uns an der Bestandtum
+#facs_68_r8l42 diese Abschätzung abzurechnen. Dat. d. 14ten 9bri. 1785
+#facs_68_r8l43 Ab. Nr. 12
+#facs_68_r8l44 Sa Sumarium
+#facs_2_r1l1 St.
+#facs_68_r4l44 61
+#facs_272_r2l8 Wiblisturg
+#facs_68_r8l48 Hinter
+#facs_10_r1l1 14
+#facs_68_r4l31 Wetterlingen
+#facs_100_r1l1 192
+#facs_68_r4l49 Milden,
+#facs_4_r4l2 15
+#facs_54_r5l22 Lausanne
+#facs_7_r2l12 18
+#facs_68_r8l56 Monsieur
+#facs_54_r5l11 3 Ferten
+#facs_12_r8l1 19
+#facs_68_r8l59 Romainmotie
+#facs_4_r13l2 7
+#facs_4_r7l1 4
+#facs_69_r1l1 130
+#facs_157_r4l1 oll.
+#facs_21_region_1633454506260_2871l1 Un
+#facs_69_r3l2 die Herren Amtläut zu Königsfelden
+#facs_69_r3l3 then, Stift uhaftner allhier, denn per
+#facs_69_r3l4 Weill an die Schastnerey des großen
+#facs_69_r3l5 Spitthals, an Hernen Nußhasten Schafner
+#facs_69_r3l6 und H. Schafner des Interlabensauses Sep
+#facs_27_r3l12 Obid
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_94_r1l25 von Unserenfürgeliebten Miträthen des
+#facs_69_r3l10 denen Herren T. Bebelmeister um
+#facs_69_r3l11 Venneren ist aus der Vortrag gemacht
+#facs_69_r3l12 worden, über die heürigen Jahrs mit
+#facs_124_r5l2 Hochgewitter beschädigten Hochobrig.
+#facs_69_r3l14 aus denen eingesandten eidlichen Schazungen
+#facs_69_r3l15 Ergeben, daß die Bestehern des Zehnden
+#facs_68_r8l11 zu
+#facs_69_r3l17 Schaden erlitten, so haben
+#facs_69_r3l18 Wie ihnen solchen nachhulaßen geruhet
+#facs_69_r3l19 deßen Ihr berichtet werdet, mit Befolg
+#facs_69_r3l20 solches den Zehndbesteheren zu eröfnen,
+#facs_69_r3l21 und ihnen obvermelten Betrag, an der
+#facs_69_r3l22 bestandt Sum abzuschreiben. Dat. d.
+#facs_69_r3l23 21 Novb 1783
+#facs_28_r4l1 Coll
+#facs_54_r8l21 Königsfelden
+#facs_53_r8l13 Thun Schloß.
+#facs_69_r4l4 Wm. Schafrerei
+#facs_267_r5l42 Groß Spithal
+#facs_69_r4l6 Nifl Bern
+#facs_53_r3l8 Mitwochen
+#facs_53_r3l6 Interlabenhaus
+#facs_69_r5l1 Sabelle
+#facs_69_r5l2 über die Zehndbeschädigungen Obe¬
+#facs_69_r5l3 T. Landew, 1783.
+#facs_69_r5l4 1. Molter.
+#facs_69_r5l5 elfige
+#facs_146_r4l15 Zeigen
+#facs_14_region_1633454353484_2800l1 de
+#facs_69_r5l8 Rosenthal
+#facs_7_r4l1 21
+#facs_54_r7l4 l'
+#facs_69_r5l4 1. Molter.
+#facs_69_r5l12 Tburabahn
+#facs_69_r5l13 Amseldingen
+#facs_112_r1l29 Hort
+#facs_69_r5l15 Mitler Langenegon
+#facs_92_r9l36 Thomas
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_69_r5l18 oder Bultigen
+#facs_266_r7l1 id
+#facs_68_r4l22 An Gersten
+#facs_69_r5l21 Niderbütse
+#facs_69_r5l22 Oberbätsche
+#facs_173_r5l10 Berichten
+#facs_69_r5l24 3.° im Feuer aufgegangen
+#facs_69_r5l25 Schneitershauer
+#facs_69_r5l26 Broun
+#facs_69_r5l27 Kersa
+#facs_69_r5l28 Falleubach
+#facs_90_r6l6 schwören.
+#facs_68_r8l48 Hinter
+#facs_273_r3l11 rechnen.
+#facs_12_r8l14 B
+#facs_69_r5l33 Obermuhlenen
+#facs_69_r5l34 Niedermühleren
+#facs_69_r5l35 Than, Budel und Zimmerwald
+#facs_69_r5l36 Engeloch
+#facs_256_r3l6 J. A.
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r1l1 2
+#facs_4_r4l1 3.
+#facs_9_r3l1 31
+#facs_69_r10l1 131
+#facs_50_r4l1 93
+#facs_4_r1l1 2
+#facs_62_r1l1 116
+#facs_211_r3l13 befinden.
+#facs_91_r5l14 Schulp
+#facs_124_r5l18 Haber
+#facs_161_r1l1 d11.
+#facs_9_r1l1 12.
+#facs_6_region_1627936574015_66l1 6
+#facs_7_r4l1 21
+#facs_4_r13l2 7
+#facs_3_region_1627936339514_16l1 1
+#facs_15_region_1633454385876_2820l8 46
+#facs_4_r13l2 7
+#facs_6_region_1627936574015_66l1 6
+#facs_3_region_1627936339514_16l1 1
+#facs_43_r2l7 8
+#facs_4_r4l1 3.
+#facs_11_r1l1 16
+#facs_46_r1l1 84.
+#facs_326_r1l1 636.
+#facs_4_r4l1 3.
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r4l1 3.
+#facs_4_r1l1 2
+#facs_4_r6l1 5
+#facs_4_r6l1 5
+#facs_4_r1l1 2
+#facs_15_region_1633454385876_2820l8 46
+#facs_43_r2l7 8
+#facs_6_region_1627936574015_66l1 6
+#facs_4_r1l1 2
+#facs_4_r4l1 3.
+#facs_70_r1l1 132
+#facs_70_r1l2 Interlatensaur
+#facs_100_r2l1 soll.
+#facs_53_r8l1 Interlaben
+#facs_75_r1l1 142
+#facs_70_r2l3 P Transport
+#facs_70_r2l4 19 3 16.1.
+#facs_70_r2l5 Oberblaken
+#facs_4_r7l1 4
+#facs_4_r1l1 2
+#facs_70_r2l8 Niederblaken
+#facs_4_r1l1 2
+#facs_70_r2l11 fuglisberg
+#facs_54_r9l21 Jahre
+#facs_15_region_1633454385876_2820l8 46
+#facs_70_r2l14 Wald
+#facs_6_region_1627936574015_66l1 6
+#facs_309_r3l16 x
+#facs_130_r3l27 sey.
+#facs_4_r4l1 3.
+#facs_31_r2l1 56.
+#facs_59_r3l1 111
+#facs_23_region_1633454616028_2913l1 An
+#facs_70_r2l22 alle T: und W. Herren Amtleut, 4
+#facs_155_r3l9 Stadt, Freyweibel und Amann
+#facs_70_r2l24 Zedel an die hiesigen Känzel, und so
+#facs_70_r2l25 Placcard an die Pfeiler.
+#facs_70_r2l26 Jage Verbott
+#facs_137_r4l18 Schultheis und Raths sey wider her¬
+#facs_70_r2l28 Gemahl heran unkender Zeit, da dem
+#facs_70_r2l29 Gewils verschmet werden soll, wollen
+#facs_70_r2l30 Wir unseren Bürgeren
+#facs_70_r2l31 An das T: Laus
+#facs_70_r2l31 An das T: Laus
+#facs_274_r4l15 von nächstkönftigem 1. Januar an, von nächtbächtiger
+#facs_70_r2l34 von nächstkräftigen
+#facs_4_r2l10 nicht als.
+#facs_70_r2l36 an, bis auf den 2ten Montag
+#facs_90_r12l7 Bartner
+#facs_70_r2l38 im Herbstmonat /: jedoch mit
+#facs_70_r2l39 der des Vogelichießens halb
+#facs_70_r2l40 in der neuen Jäger Ordnungen,
+#facs_70_r2l41 vom 20. Häumenat hinlegen.
+#facs_115_r2l26 = haltenen
+#facs_161_r1l1 d11.
+#facs_56_r2l1 Colle
+#facs_70_r5l1 133
+#facs_70_r5l2 Unseren Angehörigen aber das ganhe
+#facs_70_r5l3 Jahr hindurch, alles Hezen Schießen
+#facs_70_r5l4 Jagen und Fahen des Gewilds und
+#facs_70_r5l5 der Vögel, es seye mit Betrehen oder
+#facs_70_r5l6 Garnen, flinten oder auf andere Weise
+#facs_70_r5l7 allerdings, und bey der in /: an
+#facs_70_r5l8 das W. Land daheriger) der neuen
+#facs_70_r5l9 Jäger Ordnung ausgedrukten Bus
+#facs_70_r5l10 verbotten haben. Jedermaniglich ernst¬
+#facs_70_r5l11 meinem befehlende, der Vorschrift ge¬
+#facs_70_r5l12 melter Ordnung nachzukommen, und solche
+#facs_70_r5l13 in alle Weg zu beobachten. Welches
+#facs_70_r5l14 Zu eines jeden Verhalt, öfentlich von
+#facs_70_r5l15 Kanzeln verlesen werden soll. Dat.
+#facs_70_r5l16 d. 3 Decemb. 1783.

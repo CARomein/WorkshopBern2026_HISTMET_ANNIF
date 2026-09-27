@@ -1,0 +1,76 @@
+Law ID: BER.01.001.4646
+Name: Wegen Bestellung der Kaminfeger.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 65/65
+# High similarity (>=50%): 64
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_310_r1l1 1614
+#facs_310_r1l2 Collatze
+#facs_310_r2l1 A
+#facs_310_r2l2 alle deutschen Herren Amtleüthe, denne
+#facs_310_r2l3 Muthl. Raubherr vom Raht
+#facs_310_r2l4 wegen Bestellung der Kaminfeger
+#facs_310_r2l5 Die Angleichheit, die bis jetzt in Bestellung
+#facs_310_r2l6 der kaminfeger ist beobachtet worden
+#facs_310_r2l7 bewegt uns diesorts etwas allgemeiner
+#facs_310_r2l8 zur Befolgung vorzuschreiben. Wie
+#facs_310_r2l9 wollen und verordnen demnach, daß in
+#facs_310_r2l10 Unsern deutschen Landen die Kaminseger
+#facs_310_r2l11 überall von Unsern Amtleüten, und in
+#facs_310_r2l12 den Landgerichten, wo nicht Amtleute
+#facs_310_r2l13 sind von Unserem Bauherr vom Raht
+#facs_310_r2l14 bestellt und in Belübe aufgenommen werden,
+#facs_310_r2l15 doch nur für so lang, daß Sie Ihre Pflichten
+#facs_310_r2l16 wohl erfüllen, als welchen auch laut der
+#facs_310_r2l17 offentlich bekant gemachten Instruction
+#facs_310_r2l18 der Raminfeger vom 23ten April 1788 die
+#facs_310_r2l19 Aufsicht über dieselben obliegt. Da jedoch
+#facs_310_r2l20 nicht jedes Amt seinen besonderen, ihm
+#facs_310_r2l21 eigenen Kaminfager haben kan; so ist
+#facs_310_r2l22 Unser Wille, daß benachbarte Amtleüte
+#facs_310_r2l23 sich wegen Bestellung eines gemeinsammen
+#facs_310_r2l24 Kaminfegers mit einander vereinigen
+#facs_310_r2l25 Übrigens hat es bey Unser oben ange¬
+#facs_310_r2l26 führten Instruction sein fern
+#facs_310_r4l1 etc. 615
+#facs_310_r4l2 Nebenden. Deßen Ihr anmit zu Eüe¬
+#facs_310_r4l3 berichdet werdet, mit dem Befehl, dieser
+#facs_310_r4l4 Schreiben seines Ortes einschreiber
+#facs_310_r4l5 zu laßen. Beben den 6ten Aprill 1789.
+#facs_310_r4l6 Wegen
+#facs_310_r4l7 Concurs Fählen in den Mediat Amteren
+#facs_310_r4l8 Murten und Tscherliz. sepp.
+#facs_310_r4l9 Schultheiß Räht und Burger zu
+#facs_310_r4l10 Auf das von Sr. Königl. Mayestl. in
+#facs_310_r4l11 Frankreich untrein 20 Augstl. und 19ten Sept.
+#facs_310_r4l12 1784 ausgegebene und Uns mitgeteilte
+#facs_310_r4l13 Edikt, betreffend die zwischen den königl.
+#facs_310_r4l14 französischen und Unseren Unterthanen
+#facs_310_r4l15 hinführo zu beobachtende gegenseitige
+#facs_310_r4l16 Gleichheit und Belts taglichen Concurs
+#facs_310_r4l17 Fällen, haben Wir nötig erachtet, eine
+#facs_310_r4l18 solche einzuführende gegenseitige Gleich¬
+#facs_310_r4l19 Zeit auch zum besten Unserer mit Lobl.
+#facs_310_r4l20 Stand Freyburg gemeinsam besizenden
+#facs_310_r4l21 Mediat Ämter einzuführen.
+#facs_311_r2l1 Da nun Lobl. Stand Fryburg sich solches
+#facs_311_r2l2 auch seinerseits gefallen laßen, und
+#facs_311_r2l3 diesem nach die in abschriftlicher Beylachen
+#facs_311_r2l4 enthaltene, in Unserem der beyden
+#facs_311_r2l5 Stände gemeinschaftlichem Nahme
+#facs_311_r2l6 ausgestellte Declaration Dr. Excellz:
+#facs_311_r2l7 dem französischen Herrn Rottschafter
+#facs_311_r2l8 unter heütigem dato übermacht worden
+#facs_311_r2l9 ist, so haben Wir deßen Euch berichte
+#facs_311_r2l10 und dabey anbefehlen wollen, diese
+#facs_311_r2l11 Erklärung, denen verschiedenen Gericht
+#facs_311_r2l12 stellen Eüeres Amt behörigermassen
+#facs_311_r2l13 bekant zu machen, und solche auch
+#facs_311_r2l14 zu Einkünftiger Nachricht und Verhalt
+#facs_311_r2l15 seines behörigen Orts ein schreiben
+#facs_311_r2l16 zu laßen. Beben d. 15ten April 1789

@@ -1,0 +1,49 @@
+Law ID: BER.01.001.3613
+Name: Ihnen verbiehten den vom weyssen Wein schuldigen Zehnden in rohtem Wein zubeziehen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_494
+# Matched: 38/38
+# High similarity (>=50%): 37
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_41_r5l1 77
+#facs_41_r5l2 Nidaub, Erlach, St. Johansen.
+#facs_41_r5l3 Ihnen verbiehten den vom Weysen Wein
+#facs_41_r5l4 Schuldigen Zehnden in rohem bein
+#facs_41_r5l5 zu beziehen.
+#facs_41_r5l6 Schultheis Räht uns Burger
+#facs_41_r5l7 Mit vielieb haben Wir zu vernommen.
+#facs_41_r5l8 gehabt, welcher gestalten an Eint und anderen
+#facs_41_r5l9 ehrten der Wißbrauch eingeschlichen, und sich
+#facs_41_r5l10 täglich vermehre, daß der von beißem neuen
+#facs_41_r5l11 schuldige Zehnden mit rohtem Wein auszu¬
+#facs_41_r5l12 richtet und bezahlet werde; Wie nun solches
+#facs_41_r5l13 bider Unsere Oberbeitl. Rechte, und der
+#facs_41_r5l14 Zahmpflichtigen schuldigkeit lauffet; Alpha¬
+#facs_41_r5l15 bend wir nöhtig erachtet, jedermänniglich
+#facs_41_r5l16 hievon zu verbahrnen, und zugleich zu befelchen
+#facs_41_r5l17 daß ein jeder Zehndpflichtige den Zehnden
+#facs_41_r5l18 von Seinem Bein auch mit beißem allein
+#facs_41_r5l19 und mehr nicht an rostem also so viel deßen
+#facs_41_r5l20 Zahnden erforderat, es seye gleich eenig oder viel
+#facs_42_r2l1 abführen uns bezahlen solle, vidrigen
+#facs_42_r2l2 fahls die darbider Handlenden ohne am
+#facs_42_r2l3 sehen der Ofersohn als solche angesehen
+#facs_42_r2l4 und in gestrafft werden sollen, so einen
+#facs_42_r2l5 ehndfrügel begangen; zu welchem endt¬
+#facs_42_r2l6 Du die Zehn Einzeücher alle Jahr¬
+#facs_42_r2l7 Herbst dazu formalisch beEidigen dieß, bei¬
+#facs_42_r2l8 nen rohten für weisen Bein angenommen,
+#facs_42_r2l9 Wie bey aufhabender Pflicht zuthun, da¬
+#facs_42_r2l10 rob striff hand abgehalten, und gegenbehrti¬
+#facs_42_r2l11 ges Unser Ernstgemeintes Einsehen mit
+#facs_42_r2l12 nur dismahlen von nun an, sonder
+#facs_42_r2l13 auch jährlich umb die Zeith, Bau des
+#facs_42_r2l14 Bahn gemacht wird, zu männiglichs ver¬
+#facs_42_r2l15 salt von Cantzlen verbunden, sonder
+#facs_42_r2l16 auch diesers Mandat in die Schlaffbür¬
+#facs_42_r2l17 cher einschreiben zu lasen bestensbüsen
+#facs_42_r2l18 bist. Dat. d. 13ten Aprilis 1730.

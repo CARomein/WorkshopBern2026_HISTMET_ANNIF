@@ -1,0 +1,56 @@
+Law nr: BER.01.001.0535
+Name: Pulvers und Salpetters halb.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 45/45
+# High similarity (>=80%): 45
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_76_r4l5 An alle Tütsche und Weltsch
+#facs_76_r4l6 Amptluth puluers und
+#facs_76_r4l7 Salpetters halb
+#facs_76_r4l8 Scho und wir wol wir dir vor wenig abgeloffner tagl
+#facs_76_r4l9 beuolchen Indyner Amptsverwalttung en mercklich
+#facs_76_r4l10 vfsechen Zehaben, vf die Jennigh so hinder vns Salpet¬
+#facs_76_r4l11 ter Grabend, das sij dem nit vnsam land verggundt
+#facs_76_r4l12 noch verkauffint, Sonders das du demselben In¬
+#facs_76_r4l13 kauffist, vnd von Inen empfachist, vermog des
+#facs_76_r4l14 gemachten schlags, vnd wedu ein gutte anzal by
+#facs_76_r4l15 ein anderen vnseren zu gherrendessen schrifftlichen
+#facs_76_r4l16 bericht ist und mitt destoweniger damit das
+#facs_76_r4l17 disere nach alls hochnothwendig mit ernst In¬
+#facs_76_r4l18 achtung genommen werde, so wellist deme vnder¬
+#facs_76_r4l19 Amptluth für dich scheiden vnd sij by Irem ehren
+#facs_76_r4l20 vnd Eüden ernstlich vermanen, das ii vf söilche
+#facs_76_r4l21 Salpetter Graber achtung und den einen und
+#facs_76_r4l22 anderen, so den vss dem land verkauffen oder
+#facs_76_r4l23 schaffen vnd cragen würden verleydindt, damit
+#facs_76_r4l24 derselbigen vnserm zu ghuss nit entzogen werde, du
+#facs_76_r4l25 magt hieneben wol gestatten, das an denen enden
+#facs_76_r4l26 wohl zu luermacher In dynce amptyung wennig
+#facs_76_r4l27 das dieselben Salpetter vff kouffindt das
+#facs_76_r4l28 Pulner aber nit Frömbden sonders heimschen
+#facs_4_r1l11 1
+#facs_78_r2l1 Berkouffindt, und wo sach das die puluer
+#facs_78_r2l2 macher ein huischen vorraht gutt puluer
+#facs_78_r2l3 hettun vnd das nit Im Land verkauffen
+#facs_78_r2l4 könttend, soltu dasselbig wie auch von denn
+#facs_78_r2l5 Salpetter Grabern den Salpetter Keüfftich
+#facs_77_r2l6 abnemen In unser Husch empfachen und
+#facs_77_r2l7 ons darum gutte rechnung geben, unnd
+#facs_77_r2l8 damit aber dines ossgebens, es seyndes
+#facs_77_r2l9 gelts halben, oder wegenn des puluers
+#facs_77_r2l10 und Salpetters, So unserem Zügh zu
+#facs_77_r2l11 schaffen wirt, ein gwüsses haben mögist
+#facs_77_r2l12 wirt dir vnser Zughern synes Innemens
+#facs_77_r2l13 vonn dir ein Ein Recepisse zustellen,
+#facs_78_r2l14 deß du dich In diner Rechnung
+#facs_77_r2l15 behelfen Wirt, und wo der gelts halben
+#facs_77_r2l16 hierin mangel entstunde, das du iz ein
+#facs_77_r2l17 und ander mit bezalen möchtigt Soltu¬
+#facs_77_r2l18 dessen berichten Damit der sach geholffenn
+#facs_77_r2l19 werde, das verstan von uns mitt ernst
+#facs_77_r2l20 Datum 30 Decembris 1613

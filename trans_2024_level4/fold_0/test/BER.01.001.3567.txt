@@ -1,0 +1,204 @@
+Law ID: BER.01.001.3567
+Name: Die frembden fadenen, wollenen, galet und seidene gewobene Strümpf und Kappen verbiehten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 193/193
+# High similarity (>=50%): 187
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_425_r3l10 Arberg.
+#facs_425_r3l11 Niclaus Schori. Weilen Er gestorben, könne
+#facs_425_r3l12 seine Erben mit Einem Todtenschein die obge¬
+#facs_425_r3l13 melt sich angeben, zugleich auch, wann es nicht be¬
+#facs_425_r3l14 reits beschehen, das Original der Patent in Kolo¬
+#facs_425_r3l15 thurn überlieferen.
+#facs_425_r3l16 Erlach
+#facs_425_r3l17 Pfetter Huser von Inst
+#facs_425_r3l18 Ludvig SchueMacher von Trieten¬
+#facs_425_r3l19 Jacob Mügeli aus dem Amt Erlach, Beile, diser
+#facs_425_r3l20 gestorben, können seine Erben mit Einem auf
+#facs_425_r3l21 obigem fueß gestelten Todtenschein sich angebe¬
+#facs_425_r3l22 zugleich auch, dann es nicht bereits beschehen, das
+#facs_425_r3l23 Original der Patent in Solothurn überlieferen
+#facs_425_r3l24 Burgdorf.
+#facs_425_r3l25 Samuel Schnell von Vurgdorff.
+#facs_426_r2l1 Thun.
+#facs_426_r2l2 Hendicht Widtgart von Steffißburg
+#facs_426_r2l3 Heinrich Hut von Thun
+#facs_426_r2l4 Gürbhard Pfister von Uetendorff.
+#facs_426_r2l5 Krienißberg.
+#facs_426_r2l6 Haus dübi von Schüpfen
+#facs_426_r2l7 Eevitzburg
+#facs_426_r2l8 Hartmann Städer von Centzburg, Beile,
+#facs_426_r2l9 dieser gestorben, können seine Erben mir
+#facs_426_r2l10 Einem auf obigem fueß gestelten Tod¬
+#facs_426_r2l11 ten Schein sich angeben, zu gleich auch,
+#facs_426_r2l12 vann es nicht bereits beschehen, das Origina
+#facs_426_r2l13 der Patent in Volothurn überliefere,
+#facs_426_r2l14 Thorberg
+#facs_426_r2l15 Ulrich Mühlimann von Coppigen
+#facs_426_r2l16 Edupen
+#facs_426_r2l17 Jacob Jonj von Helmried.
+#facs_426_r2l18 Dagnerr
+#facs_426_r2l19 Hanß Müller von Saanen
+#facs_426_r2l20 Landgricht Conolfingen
+#facs_426_r2l21 Jacob Wäber von Kisen
+#facs_426_r2l22 amgricht Zolligboffen
+#facs_426_r2l23 Hans Burtner von Herenschbanden
+#facs_426_r2l24 Könitz an Freydeibel
+#facs_426_r2l25 Hanß Burgimann von Könitz.
+#facs_426_r3l1 845
+#facs_426_r3l2 Buchsee.
+#facs_426_r3l3 Jurß Müchler von Münchenbuchsee.
+#facs_426_r3l4 Tscherlitz.
+#facs_426_r3l5 Claude Robert d'Orbe
+#facs_426_r3l6 pierre et Abraham Joran brgd ton Pantherear
+#facs_426_r3l7 Wanger
+#facs_426_r3l8 Krs. Rueffli von Rohrbach. Darby ist zu inqui¬
+#facs_426_r3l9 dieren ob Er gestorben, und fahls Er nicht mehr
+#facs_426_r3l10 bey leben, können sich seine Erben mit Einem
+#facs_426_r3l11 auf obigem fueß gestelten Todtenschein angeben,
+#facs_426_r3l12 zugleich auch das Original der patent in
+#facs_426_r3l13 Solothurn überlieferen.
+#facs_426_r3l14 Lausane.
+#facs_426_r3l15 Abraham Francois de L'Essert & Lausane
+#facs_426_r3l16 Guillaume Bastien ton Plantar
+#facs_426_r3l17 Abraham d'Epallestos Lausane
+#facs_426_r3l18 Jean Louis Nombredor de Gravaux
+#facs_426_r3l19 Antoine Genoret de Vivier
+#facs_426_r3l20 Wifflißburg
+#facs_426_r3l21 Aaude Rosset d'Avanche.
+#facs_426_r3l22 Weisrns
+#facs_426_r3l23 Jean Jaque Vieux de Bassin
+#facs_426_r3l24 Moury Blanc de Begnin
+#facs_426_r3l25 Pierre François de Fiet de Nyon
+#facs_427_r2l1 Chillon
+#facs_427_r2l2 Jean Francois Vadin to Blonay
+#facs_427_r2l3 Pierre Bourquin de Mons treux
+#facs_427_r2l4 Werthert
+#facs_427_r2l5 Joseph Goriet de Vuarrens
+#facs_427_r2l6 Joseph Elair de Berjanin
+#facs_427_r2l7 Grandson
+#facs_427_r2l8 Pierre Bovier de Violat
+#facs_427_r2l9 Beat Jacob favre de Concise
+#facs_427_r2l10 Zweysimmen
+#facs_427_r2l11 pfeler Christeler an der Leng
+#facs_427_r2l12 Prutigen
+#facs_427_r2l13 Christen Rubi von Prutigen, fahls Er
+#facs_427_r2l14 nicht mehr im Leben, könne sich seine
+#facs_427_r2l15 Erben mit Einem auf obigem Fueß ge¬
+#facs_427_r2l16 stelten Todtenschein angeben, zugleich auch
+#facs_427_r2l17 das Original der Patent in Solothurn über=
+#facs_427_r2l18 lieferen.
+#facs_427_r2l19 Christen Nägeli von Stieten
+#facs_427_r2l20 Moudon
+#facs_427_r2l21 Abraham Maginier de Mezieres.
+#facs_427_r4l1 S47
+#facs_427_r4l2 An alle T. und W. Ambtleuth
+#facs_427_r4l3 4 Stäck, Freybeibel und Amman.
+#facs_427_r4l4 Item an die Cäntzel hiesiger
+#facs_427_r4l5 Haubtstatt
+#facs_427_r4l6 Die frembden fadenen, wollenen, galet und
+#facs_427_r4l7 Seidene gebobene Strümpf und
+#facs_427_r4l8 kappen verbiehten.
+#facs_427_r4l9 Schultheis Näht und Bürger
+#facs_427_r4l10 Auß Einlag ist daß mehrere zu ersehen, daß Wir
+#facs_427_r4l11 zu seiten der im Land sich befindlichen fabri¬
+#facs_427_r4l12 ques die fremde, Fadene, Oollene, Galet und
+#facs_427_r4l13 seidene gebobene Strumpf und Kappen
+#facs_427_r4l14 hierdurch zu verbiehten, auch Wir deren Zeich¬
+#facs_427_r4l15 nung guhtfunden; derobegen wir die
+#facs_427_r4l16 hievon genugsame doppel hiemit zusenden.
+#facs_427_r4l17 anby befehlen wollen, selbige nicht nur ange¬
+#facs_427_r4l18 lohnten Ohrten zu Jedermans Nachricht anschlagen,
+#facs_427_r4l19 und von Cantzlen verlesen zu laßen, sonder
+#facs_427_r4l20 auch zu hinterhaltung dergleichen frembden
+#facs_427_r4l21 Waar und deren Zeichnung die nöhtige An¬
+#facs_427_r4l22 stalt zu verfüegen; Sie zu thun rthl. Dat. 16 ten
+#facs_427_r4l23 Juny 1788.
+#facs_427_r4l24 Verte ad pag. 851.
+#facs_428_r1l1 848.
+#facs_428_r1l2 Ob id
+#facs_428_r1l3 Collary
+#facs_428_r2l1 Placcard.
+#facs_428_r2l2 Wn Schultheiß Rähl und Burger¬
+#facs_428_r2l3 ter Statt gern thund kund hiemith
+#facs_428_r2l4 Alßdan Wir Unß Jederzeith den Aufnah¬
+#facs_428_r2l5 und Flor der Manufacturen zu Stadt und
+#facs_428_r2l6 Land sehr angelegen seyn laßen, beiden
+#facs_428_r2l7 zu Verhürtung der Relt veräußerung,
+#facs_428_r2l8 und Vermeidung deß leidigen Müßiggangs
+#facs_428_r2l9 Alß auch wuseren Lieben angehörigen, so
+#facs_428_r2l10 wohl arbeith alß folglichen die Erhaltung
+#facs_428_r2l11 Mittel zu verschaffen: Wir dehnenach
+#facs_428_r2l12 von Unserem Verordnete Commercien
+#facs_428_r2l13 Raht mit sonderem Lieb vernommen, daß
+#facs_428_r2l14 Vermittelst der bereits alhier eingeführt
+#facs_428_r2l15 Strümpf fabrique Vnsere Stadt und
+#facs_428_r2l16 Land mit gnugsamen und anemlichen
+#facs_428_r2l17 Waaren, so wohl an fodigen, vollenen, galet
+#facs_428_r2l18 und anderen seydenen Strümpfen und Cappen
+#facs_428_r2l19 versehen werden können: Als vollend wir hie¬
+#facs_428_r2l20 mit von nun an gentzlich abgestrekt und
+#facs_428_r2l21 verbotten haben, den Eintritt und einfuhr
+#facs_428_r2l22 Aller frembden, und äußert Vnserer Dat.
+#facs_428_r3l1 849.
+#facs_428_r3l2 Wäpigkeit fabricierten und gebobenen strümp¬
+#facs_428_r3l3 ten und Cappen, Sie seyen von Faden, vollen
+#facs_428_r3l4 galet oder anderer seyden, so daß niemand
+#facs_428_r3l5 Weder in vnserer Stadt noch Landen, Es seye,
+#facs_428_r3l6 an, oder zwischen den Jahrmarkten, derselben
+#facs_428_r3l7 trembden Waaren feilhalten verbauffen,
+#facs_428_r3l8 oder sonst haben könne noch solle:
+#facs_428_r3l9 Wie nun solches Unser Ernstgemeinter Bill und
+#facs_428_r3l10 gefelch; Als fürgen wir hiemit diesem Unse¬
+#facs_428_r3l11 rem Verbodt bey, beides die Confiscation solcher
+#facs_428_r3l12 trennden daar, und auch noch zwäntzig Thlr.
+#facs_428_r3l13 zur straff und Gneß von Jedem Übertret¬
+#facs_428_r3l14 ter zu beziehen, so viel und offt alß Er derselben
+#facs_428_r3l15 zu haben angetroffen würde: von delcher
+#facs_428_r3l16 Hueß und Confiscation den Ein Drittel
+#facs_428_r3l17 Uns, der Weyte dristel dem Verleyder, und
+#facs_428_r3l18 der drifte Theil in Unserer Haubtstatt dem
+#facs_428_r3l19 Handelsgericht, auf dem Land aber dieser
+#facs_428_r3l20 letztere Drittel Unserem Ambtsmann zu¬
+#facs_428_r3l21 kommen, und heimdienen soll: Allermaßen
+#facs_428_r3l22 Wir hiemit solches zu Mäniglichs Nachricht
+#facs_428_r3l23 aller Ohrten von Cantzler verlesen, uns an ge¬
+#facs_429_r2l1 Bohnten Ohrten öffentlich anschlagen laßen.
+#facs_429_r2l2 damit aber Jenige Kauff und Handels
+#facs_429_r2l3 Leuth so mit dergl. fremden Waaren ver¬
+#facs_429_r2l4 sehe, und beladen sind, hierdurch mit zu
+#facs_429_r2l5 schaden kommen, alß werden Sie hiemit
+#facs_429_r2l6 vermahnt, Ihre bereits habende strünige
+#facs_429_r2l7 und Cappe, durch Vnsere bestelte Comis
+#facs_429_r2l8 so ohne Entgelt und umsonst solches
+#facs_429_r2l9 verrichten sollen, zeichnen zu laßen, Wie
+#facs_429_r2l10 dann auch künfftighin alle hier Land
+#facs_429_r2l11 Fabricierte und gewobene Strümp¬
+#facs_429_r2l12 und Cappe, durch Ein Eingeleobenes
+#facs_429_r2l13 l’autre pouvoir s’est moins sommé ses concluis.
+#facs_429_r2l14 zeichen von den fremden unterscheiden veran¬
+#facs_429_r2l15 sollen, und also keine andere bey obige¬
+#facs_429_r2l16 straff werde, geduldet werden, zu dem er
+#facs_429_r2l17 also unseren verordneten Commercirn Raht
+#facs_429_r2l18 alhier in der Stadt, und die Ambtsleüth
+#facs_429_r2l19 auf dem Korn alß gebührende Richter
+#facs_429_r2l20 und Executores dieses Verboots bestellt
+#facs_429_r2l21 haben wollen, deelchem nach Sich Jedermann
+#facs_429_r2l22 Vor Costen und schaden zu hüten Jüßen wird.
+#facs_429_r3l1 851.
+#facs_429_r3l2 Sintemahl obige Confiscation und Gerst¬
+#facs_429_r3l3 von jedem Übertretter unnachläßig
+#facs_429_r3l4 bird bezogen werden; deßtwegen Wir auch
+#facs_429_r3l5 allen Commisen bey Vnseren Zolstäcken hier
+#facs_429_r3l6 durch bey Ihren Eyden Einschärffend, genau
+#facs_429_r3l7 auf die Einfuhr dieser Jaaren zu achten,
+#facs_429_r3l8 Selbige zu arrestieren, und nach habender
+#facs_429_r3l9 Instruction gegen die fahlbahren ohne Ver¬
+#facs_429_r3l10 schonen zu procedieren; dieben in Unser
+#facs_429_r3l11 Großen RahtsVersamlung den 16ten Juny
+#facs_429_r3l12 1728

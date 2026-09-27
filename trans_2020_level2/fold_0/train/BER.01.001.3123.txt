@@ -1,0 +1,193 @@
+Law ID: BER.01.001.3123
+Name: Von den hingerichteten Persohnen sollen zuerst die auffgangenen Kösten zahlt, und das übrig blibene den Vahsallen oder Grichtsh. heümbdienen.
+
+#facs_340_r1l1 660.
+#facs_340_r1l2 2
+#facs_340_r2l1 Un alle Sr und W. Ambkleut
+#facs_340_r2l2 bis und rathder statt bern etc.
+#facs_340_r2l3 die Jahrrehnungen aufschreiben, wie
+#facs_340_r2l4 gewohnt.
+#facs_340_r2l5 Tagansezung.
+#facs_340_r2l6 zu ablaag der Leutschen AmbtsLechnng
+#facs_340_r2l7 N. 1713.
+#facs_340_r2l8 Februarius
+#facs_340_r2l9 Thorberg  montags den
+#facs_340_r2l10 20.
+#facs_340_r2l11 Burgorf
+#facs_340_r2l12 21.
+#facs_340_r2l13 tthun, sinstags den
+#facs_340_r2l14 fraulbrunnen
+#facs_340_r2l15 22.
+#facs_340_r2l16 buchser
+#facs_340_r2l17 Mitwochens d
+#facs_340_r2l18 burg
+#facs_340_r2l19 Frien�berg
+#facs_340_r2l20 23.
+#facs_340_r2l21 sonstags den
+#facs_340_r2l22 andtshut
+#facs_340_r2l23 gottstatt
+#facs_340_r2l24 24.
+#facs_340_r2l25 Laupen Srehtags d.
+#facs_340_r2l26 Erlach
+#facs_340_r2l27 25.
+#facs_340_r2l28 St Johansen sambstags den
+#facs_340_r2l29 ober spittahl
+#facs_340_r2l30 27.
+#facs_340_r2l31 Stangen montags den
+#facs_340_r2l32 
+#facs_340_r2l33 Arlangen.
+#facs_340_r2l34 28.
+#facs_340_r2l35 Sinißwald Sinstags den
+#facs_340_r2l36 Arberg
+#facs_340_r3l1 Stiff
+#facs_340_r3l2 Mitwochens dn.
+#facs_340_r3l3 S. Johanser Hauß
+#facs_340_r3l4 Bauloherr
+#facs_340_r3l5 Krienispergerhaus Sonstags d
+#facs_340_r3l6 Synaul
+#facs_340_r3l7 Oberhoffen Freytags den
+#facs_340_r3l8 brandiß
+#facs_340_r3l9 Winmiß
+#facs_340_r3l10 srutigen sambstags den
+#facs_340_r3l11 eusg
+#facs_340_r3l12 Anderseen
+#facs_340_r3l13 Insell
+#facs_340_r3l14 montags den
+#facs_340_r3l15 Interlater haūß
+#facs_340_r3l16 Hewtiß weil
+#facs_340_r3l17 siechenhauß  zinstags den
+#facs_340_r3l18 Mushahte
+#facs_340_r3l19 Kornherr e montag den
+#facs_340_r3l20 Rydaub
+#facs_340_r3l21 Leubburg
+#facs_340_r3l22 Dinstagt R.
+#facs_340_r3l23 biberstein
+#facs_340_r3l24 sen
+#facs_340_r3l25 ahle mitwochens de
+#facs_340_r3l26 Arburg
+#facs_340_r4l1 Martius.
+#facs_340_r4l2 1.
+#facs_340_r4l3 .
+#facs_340_r4l4 4.
+#facs_340_r4l5 6.
+#facs_340_r4l6 7.
+#facs_340_r4l7 Aprilis
+#facs_340_r4l8 3.
+#facs_340_r4l9 
+#facs_340_r4l10 3.
+#facs_341_r2l1 Hotigen
+#facs_341_r2l2 sonstags den
+#facs_341_r2l3 Schenkertberg
+#facs_341_r2l4 Kongefolden 2 Freytags e
+#facs_341_r2l5 Brachselwald
+#facs_341_r2l6 Anderspitahl Sambstags d
+#facs_341_r2l7 Interlaken. mittwochens den
+#facs_341_r2l8 Cagansezung
+#facs_341_r2l9 zu Ablag der Welltschen Recht
+#facs_341_r2l10 Milden. Abrechnung d
+#facs_341_r2l11 Neulenstatt abrechnung den
+#facs_341_r2l12 Neulos de
+#facs_341_r2l13 Bonmont den
+#facs_341_r2l14 Romainmortier den
+#facs_341_r2l15 Isterten den
+#facs_341_r2l16 Wißlisburg
+#facs_341_r2l17 Pätterlingen
+#facs_341_r2l18 Milden
+#facs_341_r2l19 bion
+#facs_341_r2l20 Chillon
+#facs_341_r2l21 Neūloenstait
+#facs_341_r2l22 Hubonne
+#facs_341_r3l1 Aprilij
+#facs_341_r3l2 6.
+#facs_341_r3l3 7.
+#facs_341_r3l4 8.
+#facs_341_r3l5 12
+#facs_341_r3l6 ungen
+#facs_341_r3l7 Februarius.
+#facs_341_r3l8 17.
+#facs_341_r3l9 Martiu.
+#facs_341_r3l10 17.
+#facs_341_r3l11 18.
+#facs_341_r3l12 20
+#facs_341_r3l13 21.
+#facs_341_r3l14 22.
+#facs_341_r3l15 23.
+#facs_341_r3l16 24.
+#facs_341_r3l17 28
+#facs_341_r3l18 28.
+#facs_341_r3l19 29.
+#facs_341_r4l1 663
+#facs_341_r4l2 Martius.
+#facs_341_r4l3 Pätterlingen Cons: proor 1110. 17u. 1712
+#facs_341_r4l4 30
+#facs_341_r4l5 31.
+#facs_341_r4l6 Morsee
+#facs_341_r4l7 Aprilis.
+#facs_341_r4l8 1.
+#facs_341_r4l9 Weltschweinschent
+#facs_341_r4l10 22.
+#facs_341_r4l11 Pausanne
+#facs_341_r4l12 An Alle W. Ambt Leuts.
+
+#facs_341_r4l13 von den hingerihtete persohnen sollen zu erst
+#facs_341_r4l14 die auf gangenen kösten zahlt und das
+#facs_341_r4l15 übrig blibene den vahullen oder grichts hren
+#facs_341_r4l16 zeimbdienen
+#facs_341_r4l17 Schulthiß und lath
+#facs_341_r4l18 Nachdemme wir frücher dingen verspührt, daß ohngacht
+#facs_341_r4l19 unsere Lobl Regimens vorderen schon ao 1550
+#facs_341_r4l20 unseren vasallen und grichtsherren welltschen
+#facs_341_r4l21 landts ein nahmhafften antheil ander hinder
+#facs_341_r4l22 Ihren Herrschafften Eingerichteten Abelckhatere
+#facs_341_r4l23 Pieteren und Verlaßenschafft gädigest Concediert,
+#facs_341_r4l24 auch bißherr bestendig darbey monuleniert
+#facs_341_r4l25 dennoch eint und andere derselbige sich darmit
+#facs_341_r4l26 nit vernugen, sondere wanse auß Mangell
+#facs_341_r4l27 habender Exccutions rechten zu vollstretung
+#facs_342_r2l1 der Todes Artheil die Übellthater
+#facs_342_r2l2 Vnsern Immediat grichten oder Ambt
+#facs_342_r2l3 leüthen übergeben mueßen, dero guthen
+#facs_342_r2l4 zwahr Confisquieren, aber über diß
+#facs_342_r2l5 auch noch die Kosten forderen wollen, welche
+#facs_342_r2l6 Neulerung Einzefuhren schonoffers ten¬
+#facs_342_r2l7 tiert worden, und zuden mehrmahlen auß¬
+#facs_342_r2l8 gangenen mandat und schreiben an Morser
+#facs_342_r2l9 Neulos und Milden den ao 1600 1617 1632.
+#facs_342_r2l10 1646 und 1667 anlaß geben und dißmahlen
+#facs_342_r2l11 ins gemein zuwiderhohlen dahi, weil
+#facs_342_r2l12 Einerseiths von den Eling und Pauerherrn
+#facs_342_r2l13 kein hacal recht kan auffgeleisen werden
+#facs_342_r2l14 Ein mehrers alls das gnädigst Conce¬
+#facs_342_r2l15 dierten zu protendiren, hingegen aber
+#facs_342_r2l16 nach und erschidlichen rechtsgelehrte, Nenung
+#facs_342_r2l17 die leir dißfahls Consultieren laßen, und
+#facs_342_r2l18 
+#facs_342_r2l19 nach aller fürsten, Ob erkeiten und
+#facs_342_r2l20 grichtshrr übung keiner von einer
+#facs_342_r2l21 hingerichteten Criminalischen Persohn hindero
+#facs_342_r2l22 laßenen gutheren eblas Confisquieren
+#facs_342_r2l23 ken oder soll, Ehe und betor alle
+#facs_342_r2l24 seine schulden, beschwerden, onera oder
+#facs_342_r2l25 Carges de EHtoirie vollkommen abgezogen
+#facs_342_r2l26 und bezahlt seyen, hiemit loige wohlgeffidt
+#facs_342_r3l1 665
+#facs_342_r3l2 Dergleichen Mißbrauch, daß die Ewing und fanherren
+#facs_342_r3l3 das guth nemmen und anß odes unseren ambt
+#facs_342_r3l4 leüthen die kösten zu Ertragen überlaßen wollen,
+#facs_342_r3l5 zuverunderen derolegen wir nachmahl alles
+#facs_342_r3l6 ernsts die befehlen, daß wan hinführo einiche
+#facs_342_r3l7 remittierte Persohn hingerichtet wirt, und viel oder
+#facs_342_r3l8 wenig guth verlaßt, wo Ich das gelegen
+#facs_342_r3l9 daß vor allen zingen die aufgangenen kösten
+#facs_342_r3l10 darvon genommen und bezahlt und dan das
+#facs_342_r3l11 
+#facs_342_r3l12 übrig, demme hinder welchem Er gelegen
+#facs_342_r3l13 wie von allterher heim Sienen und sonfisciert
+#facs_342_r3l14 seyn solle, welches zu zu künfftiger Nachricht
+#facs_342_r3l15 und fleißiger observars nit muß in dem
+#facs_342_r3l16 Schlafbuch Einschreiben, sonderen auch den Jenigen
+#facs_342_r3l17 Herrschafft Herren seines Ambts, soEs beruhren
+#facs_342_r3l18 mag wüßend machen sollst. Gott mit die
+#facs_342_r3l19 Actr. 16. Janl. 1743. aber Erst capediert
+#facs_342_r3l20 Den 10. febr 112
+END

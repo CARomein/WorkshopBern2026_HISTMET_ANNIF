@@ -1,0 +1,35 @@
+Law ID: BER.01.001.3876
+Name: Sommer Getreydts Aussfuhr erlaubt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 24/24
+# High similarity (>=50%): 22
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_367_r3l8 5
+#facs_367_r3l9 L. 37. bz. 2. R.I.
+#facs_367_r3l10 22. S
+#facs_368_r3l1 An die Ober, und Unter¬
+#facs_368_r3l2 Arganvischen Amt Leuth Item
+#facs_368_r3l3 Vier Statt
+#facs_368_r3l4 Sommer Bethreydts Ausfuhr
+#facs_368_r3l5 Erlaubt.
+#facs_368_r3l6 Schultheis, Räht und Bürger etc.
+#facs_368_r3l7 In Bedenken unsere Landt ankommer
+#facs_368_r3l8 fruchten zimmlich angefüllet, selbige
+#facs_368_r3l9 auch einen guten Abgang ins Barll
+#facs_368_r3l10 ckebieth haben; Vollendt Wir hiemit
+#facs_368_r3l11 Unseren Angehörigen Im Oberen¬
+#facs_368_r3l12 um Unteren Augaub verbilliget habe.
+#facs_368_r3l13 daß das Sommer gethreydt, als Haber
+#facs_368_r3l14 Kersten etc. Sie auß Unseren Land¬
+#facs_368_r3l15 Verkaufen und an Erembde hin¬
+#facs_368_r3l16 geben mögen, um andurch zu ei¬
+#facs_368_r3l17 mher Loosung zu gelangen; deßen
+#facs_368_r3l18 du hiemith, um solches von Cantzlen
+#facs_368_r3l19 zu verlesen, und gebührenden Ohrts
+#facs_368_r3l20 einschreiben zu Laßen befelchnet
+#facs_368_r3l21 wirst. Datum den 14ten febr. 1744

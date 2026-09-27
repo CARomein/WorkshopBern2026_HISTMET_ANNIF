@@ -1,0 +1,85 @@
+Law ID: BER.01.001.3433
+Name: Das Müntzplaccard vom 17.und 18.Decemb.1722 in dem Puncten der Beambteten halber erfrischen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 74/74
+# High similarity (>=50%): 74
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_88_r4l1 169
+#facs_88_r4l2 An Alle W. Ambtleuth.
+#facs_88_r4l3 Das Müntzplaccard vom 17. und 18. Decemb.
+#facs_88_r4l4 1722. in dem puncten der beAmbteten
+#facs_88_r4l5 halber erfrischen.
+#facs_88_r4l6 Schultheis und Raht etc.
+#facs_88_r4l7 letzthin
+#facs_88_r4l8 Seith daß wir sub 13. Decemb. (die steyfe bey
+#facs_88_r4l9 pachtung Unßerer in Ansehen der Eydt¬
+#facs_88_r4l10 gnößischen und frembden Müntzen den 17. und
+#facs_88_r4l11 18. ChristMonath 1722. HochOberkeitlich Ge¬
+#facs_88_r4l12 nachter, und in druk außgebener Ordnung
+#facs_88_r4l13 in dem Gemeinen Handell früher dingen
+#facs_88_r4l14 Ernstmeinen anbefolchen; Ist Unß der
+#facs_88_r4l15 Anbeliebege bericht Annoch eingeloffen, daß
+#facs_88_r4l16 einiche Unser Ober- und VndterAmbtleüthen,
+#facs_88_r4l17 Commisen und Bedienten, dergleichen Müntze
+#facs_88_r4l18 in hoherein preys, als sie werth, und von Unß
+#facs_88_r4l19 geschätzt worden, wo nit für die Oberteitlichen,
+#facs_88_r4l20 denoch für Ihre selbst eygene privat-sachen
+#facs_88_r4l21 innemmen, und außgeben, da doch vor
+#facs_88_r4l22 Anzogene Unsere Müntzordnung heiter und
+#facs_88_r4l23 klar Vnseren willen und befelch hierüber
+#facs_88_r4l24 An Tagleget, daß Namblichen,
+#facs_89_r2l1 dise geringe Müntzen nicht nur von Vnserer
+#facs_89_r2l2 hürgeliebten Miträhten, Teutsch- und Welte
+#facs_89_r2l3 SebelMeistern, noch Ihren Sevelschreibern, sondern
+#facs_89_r2l4 Vnseren Ambtleüthen Teutsch- und Weltscher
+#facs_89_r2l5 Landen vmbgeltneren, Soßpfenungeren,
+#facs_89_r2l6 einzemheren, Saltzr Zoll, und Post, Commihen
+#facs_89_r2l7 In der Pulverhandlung; Item bey den gericht¬
+#facs_89_r2l8 stellen; Insumma bey allen oberkeitlichen
+#facs_89_r2l9 Einkünften, vom höchsten bis zum Letsten
+#facs_89_r2l10 sie seyen hier außgetrukt, oder nicht,
+#facs_89_r2l11 anderst nicht, als auf dem von Unß
+#facs_89_r2l12 Gesetzten Fues weder für das Oberkeitlichen
+#facs_89_r2l13 noch Ihre selbsteygene Sachen, weder durch
+#facs_89_r2l14 sich selbst, noch die Ihrigen oder andere bey
+#facs_89_r2l15 Ihren Eydten eingenommen, noch ausgeben
+#facs_89_r2l16 werden, sondern die widerhandlende bedienten
+#facs_89_r2l17 undter was Vorwand die Übersehung immer
+#facs_89_r2l18 geschehen möchte, mit entsatzung Ihrer
+#facs_89_r2l19 Diensten, undt daran sangenden Genoßes
+#facs_89_r2l20 11
+#facs_89_r2l21 Angesehen werden soll und
+#facs_89_r3l1 171
+#facs_89_r3l2 Derowegen wir, Alß die vestiglich entschloßen,
+#facs_89_r3l3 kauftnundtlichen
+#facs_89_r3l4 Ob diser Münzen Ordnung steyft zu halten; die
+#facs_89_r3l5 hiemit, gleich allen Vnseren Weltschen Ambtleüthen
+#facs_89_r3l6 Alles ernstr befehlen wollen, sothane Ordnung
+#facs_89_r3l7 nicht nur selbsten by deinem Eydt zu beobachten
+#facs_89_r3l8 Andern Vnseren Willen Allen in der Ordnung
+#facs_89_r3l9 Vernambseten, und in demein Ambt sich
+#facs_89_r3l10 befindtlichen Undterbeambteten, und Einzemherr
+#facs_89_r3l11 der Oberkeitlichen Gelteren, bey Vermeydung
+#facs_89_r3l12 darauf gesezter straff, und deß Menieyds
+#facs_89_r3l13 Elbsten, einzuschärpfen, beynebens dan
+#facs_89_r3l14 diß Unser widerhohlter Einsehen mit dem
+#facs_89_r3l15 Obvernammbsten den 18. Dec: Letzthin Abgebung
+#facs_89_r3l16 von Cantzlen öffentlich verbünden zu laßen.
+#facs_89_r3l17 Wie geschehen werde, wir Unß Versehend. Datl. 17.
+#facs_89_r3l18 Januarij 1724
+#facs_92_r3l1 Jagens, und Schießens des gewildts wie¬
+#facs_92_r3l2 solches Immer Nahmen haben mag, sich gantz
+#facs_92_r3l3 zu müsßigen, anbey auch den zum Jage,
+#facs_92_r3l4 abgerichteten und verderblichen Hunden
+#facs_92_r3l5 Die Gewohntenschwähten prügell Anzehenter
+#facs_92_r3l6 Aller bey der in der Ordnung auffge¬
+#facs_92_r3l7 setzter Bus und straf, darmit die fehlbahre
+#facs_92_r3l8 ohne Schonen belegt werden sollen; welcher
+#facs_92_r3l9 von Cantzlen Verlesen zu Laßen, und steyft
+#facs_92_r3l10 darob zu halten befelchnet wirst etc. Datl.
+#facs_92_r3l11 13 febr: 1724.

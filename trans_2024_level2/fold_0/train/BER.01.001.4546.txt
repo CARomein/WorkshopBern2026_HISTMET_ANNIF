@@ -1,0 +1,37 @@
+Law nr: BER.01.001.4546
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 26/26
+# High similarity (>=80%): 26
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_95_r1l1 182
+#facs_95_r2l1 für einmahl und bis auf Unseren
+#facs_95_r2l2 bestimten weiteren Befehl, nur die
+#facs_95_r2l3 Helfte abgestoßen, hingegen aber die
+#facs_95_r2l4 Sommerfrüchte, als Haber, Gersten und
+#facs_95_r2l5 Paschj, völlig versilberet werden; Wobey
+#facs_26_r4l12 Wobey Unser Will und Befehl in fernerm
+#facs_26_r4l13 dahin gehet: daß in ansehen dieser
+#facs_95_r2l8 verkaufen den Früchten, die Verzeigung
+#facs_27_r5l13 der Schüttenen von Seiten Unserer für¬
+#facs_95_r2l10 geliebten Miträthen der Herren v. Sebel¬
+#facs_95_r2l11 meister und Stemmeren erwartet, dabey die
+#facs_95_r2l12 gewöhnlichen Praecantionen genommen = mithin
+#facs_95_r2l13 das zu verkauffende Getreid nicht denen
+#facs_95_r2l14 Händlernn en bloc verstrichen sondern nur
+#facs_95_r2l15 zu kleinen Käuffen in laufendem Preis
+#facs_95_r2l16 verkauft, uns von denen angewiesenen
+#facs_95_r2l17 Schüdtzenen von allein aus das mindest
+#facs_95_r2l18 behältliche Getreid abgestoßen, ins
+#facs_95_r2l19 besonders dann die Sommerfrüchst vorzüglich
+#facs_27_r3l1 zu Anblühmung der Felderen hingegeben
+#facs_95_r2l21 werden sollen. Welchemnach Ihr Euch zu
+#facs_95_r2l22 verhalten wißen, und über das erlösende
+#facs_95_r2l23 Aus gebührende Rechnung tragen werdet.
+#facs_94_r3l8 Dat. d. 10. Merz 1784.
+#facs_83_r3l6 en

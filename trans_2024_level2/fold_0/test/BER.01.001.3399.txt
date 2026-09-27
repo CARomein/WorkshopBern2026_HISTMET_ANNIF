@@ -1,0 +1,148 @@
+Law ID: BER.01.001.3399
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_493
+# Matched: 137/137
+# High similarity (>=80%): 125
+# Low similarity (<80%): 12
+# Not found: 0
+#
+#facs_52_r3l1 ollat
+#facs_80_r4l1 155
+#facs_80_r4l2 An Alle 2 + Ambtleüth,
+#facs_56_r3l3 4. Statt, Freyweibel, und Amman
+#facs_79_r3l7 It. per placcard an hiesige Pfeyler
+#facs_80_r4l5 Ihnen das Getrukte placcard, wegen den
+#facs_80_r4l6 Neuen und abgeänderten Jahr Markten, und
+#facs_80_r4l7 sonsten ratione der Indenschafft, zu schiken,
+#facs_443_r3l20 Schultniß und Raht etc.
+#facs_80_r4l9 Was Unßbewogen, einiche Jahr, undt
+#facs_80_r4l10 Viechmärkte sowohl in Vnserer Hauptstatt
+#facs_80_r4l11 Als übrigen Teütschen Landen frisch einzu¬
+#facs_80_r4l12 Führen, abzeänderen, und zu publicieren, das
+#facs_80_r4l13 Stauß mitkommenden Getrukten Placcarden
+#facs_80_r4l14 deß mehrere zu ersehen; welche wir
+#facs_80_r4l15 Dir sindurch zusenden, und befehlen wollen,
+#facs_80_r4l16 selbe nit nur von Cantzlen Verlesen, sondern
+#facs_80_r4l17 blichen
+#facs_80_r4l18 Auch Aller=Orthen Deines Ambts zu Menig¬
+#facs_80_r4l19 liches Nachricht Anschlagen zu lasen.
+#facs_80_r4l20 Und weilen wir auß diesem Anlas gut.
+#facs_80_r4l21 funden, die Judenschafft deß sonsten auff
+#facs_80_r4l22 Ihre Persohnen gelegten Extraordinarii auff
+#facs_80_r4l23 Lags zu entheben; Als wirst du zugleich
+#facs_80_r4l24 befelchnet, solches denen Zollsbestehen in
+#facs_31_r1l1 56
+#facs_29_r3l1 sollat
+#facs_81_r3l1 oder einzeücheren der Zöllen und derg.
+#facs_81_r3l2 auflagen dahin zu verdeüten, daß sie
+#facs_81_r3l3 von den Juden mehr nicht, alß von andern
+#facs_81_r3l4 Persohnen, zu beziehen haben sollen.
+#facs_69_r3l18 Wie Zethun laußen Wirst etc. Datum
+#facs_81_r3l6 decemb. 1723
+#facs_42_r2l17 Laccard.
+#facs_81_r3l8 wegen denen Neülden und Abgeänderten
+#facs_81_r3l9 Jahr Märkten; denn wegen der Judenschafft
+#facs_81_r3l10 Wir Schultheiß und Raht der Statt Bern
+#facs_81_r3l11 thund kund hirmit. Demenach
+#facs_81_r3l12 Vnß Vnsere Liebe und Getreülde An¬
+#facs_81_r3l13 gehörige und undterthanen Verschidener
+#facs_81_r3l14 Orthen Unserer Teütschen Landen in Gebüh¬
+#facs_81_r3l15 render Unterthänigkeit Vorstellen
+#facs_81_r3l16 laßen, was maßen sie zu komblicher Ver-
+#facs_81_r3l17 Treibung Ihrer überflüßigen Viechwaar¬
+#facs_81_r3l18 theils mehrerer Märkten wohl benohtiget,
+#facs_81_r3l19 wären, theils dan die habende Markte
+#facs_81_r4l1 157
+#facs_81_r4l2 eben nicht auff die bestgelegene Zeith
+#facs_81_r4l3 gerichtet, oder sonsten mit anderen Ohnge¬
+#facs_81_r4l4 zegenheiten für die Benachbahrten sich
+#facs_81_r4l5 begleitet befinden; Unß Angelegenlich
+#facs_81_r4l6 und demühtig ersuchende, Uns beliebe
+#facs_81_r4l7 Vnsere Landts Wälterliche Vorsorg dahin
+#facs_81_r4l8 gnädigst vorzubehren, daß dem Ihnen
+#facs_81_r4l9 hierauf entstehenden Schaden Möglichster
+#facs_81_r4l10 Maßen vorgebogen, und Also mehrere
+#facs_81_r4l11 Beförderung In gemeiner Handlung
+#facs_81_r4l12 hierdurch Angesafft werden möge.
+#facs_81_r4l13 Das darauffhin Wir, als denen ein
+#facs_81_r4l14 nehrers nicht angelegen, als unseren
+#facs_81_r4l15 Lieben und getreülden Angehörigen und
+#facs_81_r4l16 Vnterthanen zu Statt und Land bestmög¬
+#facs_81_r4l17 lich beholffen zu seyn, nach vorlenstiger
+#facs_81_r4l18 genauber Betrachtung, daß dis Ihr
+#facs_81_r4l19 begehten auf gute, und wichtige Ursachen
+#facs_81_r4l20 gegründet seye, Unß zu demselben
+#facs_81_r4l21 In gnaden gewiget, und also Hals
+#facs_82_r1l1 158
+#facs_82_r2l1 Nenlde Jährliche Viech Markte Verwilligen
+#facs_82_r2l2 Theils dan einiche umb etwas auff¬
+#facs_82_r2l3 besere Zeithen setzen; oder auch die, so
+#facs_82_r2l4 zwar bereits gehalten, aber noch nit
+#facs_82_r2l5 öffentlich publiciert worden, hierdurch
+#facs_82_r2l6 Gutheisen, und bestähtigen wollen,
+#facs_82_r2l7 hiemit Früsch einzufühten bewilliget.
+#facs_82_r2l8 so zu Erlenbach einen dritten Jahr Mark,
+#facs_82_r2l9 go da gehalten werden soll acht Tag vor
+#facs_82_r2l10 dem BernMartinj, Markt; wirdt seyn
+#facs_82_r2l11 der zweyte Mitwochen vor Andreae
+#facs_82_r2l12 2o Zu Herzogenbuchter ein früscher
+#facs_82_r2l13 Viech Markt auff Mitwochen vor Oßeren,
+#facs_82_r2l14 3° Zu Langenthal ein Jahr Markt auf
+#facs_82_r2l15 Hinstag vor Pfingsten
+#facs_82_r2l16 4o ein zweyter Jahr Markt an gleichen
+#facs_82_r2l17 Orth auf den Ersten Dönstag Im Herbst,
+#facs_82_r2l18 Marath.
+#facs_82_r3l1 159
+#facs_82_r3l2 Denne habend Wir auch für Nützlich angeheh,
+#facs_82_r3l3 nachstehende Jahr Markte in Ansehen der
+#facs_82_r3l4 Zeith abgeänderen; und zwar dahin, daß
+#facs_82_r3l5 der in Unserer Hauptstatt allhier bis
+#facs_82_r3l6 hero am letsten zinstag Im sormung
+#facs_82_r3l7 gehaltene Viech Markt künfftighin auff
+#facs_82_r3l8 Einstag vor der Alten Hasnacht gesetzt;
+#facs_82_r3l9 do dan der bißhiehin auff den ersten
+#facs_82_r3l10 Vinstag Im Herbstmonath gehaltene, aber
+#facs_82_r3l11 Ausch nit Oberkeitlich Gutgeheisene, und
+#facs_82_r3l12 Außgeschribene Viechwärkt auf Jetz¬
+#facs_82_r3l13 gedachte Zeit, als den ersten Zinstägen
+#facs_82_r3l14 Herbstmonath hierdurch vestgestellt.
+#facs_82_r3l15 3o mithin aber der zu Burgdorff hievor
+#facs_82_r3l16 den Ersten Mitwochen Im Mertzen gehaltene
+#facs_82_r3l17 Markt auff darstag vor Mitfasten
+#facs_17_r3l16 ge,
+#facs_82_r3l19 4° der zu Langnaulo auff den 26. Aprilis ge¬
+#facs_82_r3l20 haltene Markt auf Beytag vorosteren glegt, und dann
+#facs_83_r1l1 160
+#facs_83_r2l1 5° der zu Langenthal anstatt des zwistigen
+#facs_83_r2l2 Vor der Auffarth auf Zinstag vor Pfingsten
+#facs_83_r2l3 hierdurch bestimmbt; und Endtlichen
+#facs_83_r2l4 6° der Markt zu Huttwyl, so voriger
+#facs_83_r2l5 Zeithen auff den zweyten Mitwochen
+#facs_83_r2l6 ein Mertzen gefallen, zur künfftig auf
+#facs_83_r2l7 Mitwochen vor der Herren hasnacht
+#facs_83_r2l8 gehalten, und abgeändert werden solle
+#facs_83_r2l9 Damit nun alle und jede, so abstehen
+#facs_83_r2l10 ge Markte gebrauchen, hievon die ge¬
+#facs_83_r2l11 bührende wüßenschafft haben, und auch
+#facs_83_r2l12 die Judenschaft selbe zu besuechen an¬
+#facs_83_r2l13 Geftnschet werden möge, habend Wir
+#facs_83_r2l14 solche des hievor auff Ihren Persohnen
+#facs_83_r2l15 bezogenen Auflags hierdurch dahin
+#facs_83_r2l16 überheben wollen, daß sie künfftighin
+#facs_92_r4l2 in Unseren Landen die sogenannten Meer¬
+#facs_83_r2l18 und sonsten mehr nicht, als andere
+#facs_121_r4l1 Allat
+#facs_83_r4l1 161
+#facs_83_r4l2 Leuth beschwahrt seyn sollen; Wie dann
+#facs_83_r4l3 hierdurch Unser befelich an alle Vnsere Zolls¬
+#facs_83_r4l4 und Kaufhaußbestehere langet, sich in
+#facs_83_r4l5 Ansehen der Juden nach gegenwertigen
+#facs_83_r4l6 Vnserm Decret zu verhalten;
+#facs_83_r4l7 So Wir hiemit zu meniglichs Verhalt
+#facs_83_r4l8 2nd Nachricht in Druk geben, öffentlich
+#facs_83_r4l9 Verkünden, und an gebührenden Orthen An¬
+#facs_83_r4l10 schlagen lassen; so beschehen den 24ten
+#facs_83_r4l11 decembris 1723

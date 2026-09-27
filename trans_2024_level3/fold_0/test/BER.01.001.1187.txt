@@ -1,0 +1,12 @@
+Law ID: BER.01.001.1187
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_484
+# Matched: 1/1
+# High similarity (>=80%): 1
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_141_r4l10 en

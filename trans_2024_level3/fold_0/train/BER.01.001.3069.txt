@@ -1,0 +1,881 @@
+Law ID: BER.01.001.3069
+Name: Getruckte erneüwerte Ordnung und Einsehen, wieder allerhand Missbräuch in Verführung dess Rechtens, Bezeüchung der Kösten, Bussen und Befellen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 870/870
+# High similarity (>=50%): 857
+# Low similarity (<50%): 13
+# Not found: 0
+#
+#facs_235_r4l1 Getrückte erneuwerte
+#facs_235_r4l2 Ordnung und Einsehen
+#facs_235_r4l3 Wieder
+#facs_235_r4l4 Allerhand Mitzbräuch in Ver¬
+#facs_235_r4l5 führung deß Rechtens, Befeüchung
+#facs_235_r4l6 der Kösten, Büßen und Befellen.
+#facs_235_r4l7 Gestellt auf der Stall Bern Teutsche
+#facs_235_r4l8 Landtschafft.
+#facs_235_r4l9 Wir Schuldtheiß Räth und Bürger
+#facs_235_r4l10 der Statt Bern, Entbiethen allen Unseren
+#facs_235_r4l11 Leütschen, Ober= und Unter=Ambt Leüthen
+#facs_235_r4l12 Twingherren, Geist- und Welltlichen Gericht¬
+#facs_235_r4l13 deßen, auch übrigen getreüwen Lieben angehörigen
+#facs_235_r4l14 Unseren Gnädigen Gruß, geneigten Willen
+#facs_236_r2l1 Leuth nach Bescheidenheit und in Fählen so
+#facs_236_r2l2 In dem g'satz und ordnungen bestimmet
+#facs_236_r2l3 sind, niehmahlen höcher verfahren soll,
+#facs_236_r2l4 wohl aber nach geställten dingen unter
+#facs_236_r2l5 beziehen mögendt: In wichtigen fühlen
+#facs_236_r2l6 dan, so nicht durch das Zsatz und ord¬
+#facs_236_r2l7 nungen außgetrucket und bestimmt sind,
+#facs_236_r2l8 soll hinführo kein Ambtsman mehr
+#facs_236_r2l9 quallt haben, die Bußen zu bestimmen,
+#facs_236_r2l10 noch zu Componieren, sondern dahin
+#facs_236_r2l11 durch gegenwertige Ordnung verbunden¬
+#facs_236_r2l12 seyn, allwegen den Casum Umbständt,
+#facs_236_r2l13 lichen unserem täglichen Raht zu
+#facs_236_r2l14 überschreiben, deselben Erkantnus¬
+#facs_236_r2l15 darüber zu erwarten, und deroselbe
+#facs_236_r2l16 nach zu geleben. In minder straffen
+#facs_236_r2l17 bahren Sachen aber, können die-
+#facs_236_r2l18 Ambt Leuth wohl forthfahren: welch
+#facs_236_r2l19 unser Einsehen du hiemit zu Mänchen
+#facs_236_r2l20 liche Nachricht publicieren, auch in
+#facs_236_r2l21 den Schlaffbürcheren deines Ambts
+#facs_236_r2l22 Einschreiben, und dich darnach richten
+#facs_236_r2l23 sollst: Gott mit dir. Datque in Unser
+#facs_236_r2l24 großen Rathsversamblung d. 9. f.
+#facs_236_r2l25 1711.
+#facs_236_r4l1 Getruckte Erneuwerte
+#facs_236_r4l2 Ordnung und Einsehen,
+#facs_236_r4l3 Wieder
+#facs_236_r4l4 Allerhand Miszbräuch in Ver¬
+#facs_236_r4l5 führung des Rechtens, Bedeuchung
+#facs_236_r4l6 der Kösten, dußen und Befellen
+#facs_236_r4l7 Gestellt auf der Stall Bern Leutsche
+#facs_236_r4l8 Lanckschafft.
+#facs_236_r4l9 Wir Schuldtheiß Räth und Burger
+#facs_236_r4l10 der Statt Bern, Entbiethen allen Unseren
+#facs_236_r4l11 Leütschen, Ober- und Unter-Ambt Leüthen
+#facs_236_r4l12 Bwingherren, Geist- und Welltlichen Gericht¬
+#facs_236_r4l13 geßen, auch übrigen getreuwen Lieben angehörigen,
+#facs_236_r4l14 Unseren Gnedigen Gruß, geneigten Willen
+#facs_237_r2l1 und darbey zu wüßen. Alle dan wir schon
+#facs_237_r2l2 hiebe vor und sonderlich im Jahr 1648. der
+#facs_237_r2l3 Nothdurfft befunden, eine offentliche Ordnung
+#facs_237_r2l4 wie Er der Brichter
+#facs_237_r2l5 und Maaß zu bef
+#facs_237_r2l6 Emolumenten und anderer dem Rechten
+#facs_237_r2l7 anhängiger sachen halb in Unserer Teutschen
+#facs_237_r2l8 Landtschafft gehalten werden solle: Der
+#facs_237_r2l9 Hoffnung daß ohne abweichung dieselbe
+#facs_237_r2l10 in steifer Beobachtung wurde gehalten.
+#facs_237_r2l11 werden; dieser Vorsorg aber ohngeacht
+#facs_237_r2l12 Unß nun, und dan zu vernemmen koning
+#facs_237_r2l13 daß deroselben nicht aller Ohrten nach Un¬
+#facs_237_r2l14 Gerein Vorsatz und willen Entsprochen, sondern
+#facs_237_r2l15 noch allezeith zu merklicher Beschwerd der
+#facs_237_r2l16 Rechts üebenden in Bezeuchung der Gerichts¬
+#facs_237_r2l17 Kösten und anderen Emolumenten an vielen
+#facs_237_r2l18 Ohrten nach Belieben verfahren werde: daß
+#facs_237_r2l19 dahero wir von Oberkeitlichen Ambtswegen
+#facs_237_r2l20 verursachet worden, diesem übell durch Ei¬
+#facs_237_r2l21 Früsches Einsehen beßer zusteüren: Maße
+#facs_237_r2l22 allso in Erdanwerung obgemeldter Ordnung
+#facs_237_r2l23 und wie Es Eint und anderen Ohrts diß¬
+#facs_237_r2l24 -
+#facs_237_r2l25 mahlen geückt wirdt, wir guth funden
+#facs_237_r2l26 selbige mit etwelchen nothwendigen Zusätzen
+#facs_237_r2l27 und anweisungen zu vermehren, zuverbeßeren
+#facs_237_r2l28 und zu Ernenberen, darauß dan die vorge¬
+#facs_237_r3l1 5
+#facs_237_r3l2 setzten und Bedienten, undjenige solleß Rech¬
+#facs_237_r3l3 tens gebrauchen Ihre gebühr abzunemen und
+#facs_237_r3l4 zuerstaten, Unsere Underthanen aber Ins
+#facs_237_r3l5 gemen zu ersehen haben werden, daß Wir Ihrer
+#facs_237_r3l6 Wohlfarth halb sonderbahre Rechenschafft ge¬
+#facs_237_r3l7 tragen.
+#facs_237_r3l8 Allen Unseren Ober- und ander-Ampt¬
+#facs_237_r3l9 Leuthen, Ewingherren, Geist- und Weltlichen
+#facs_237_r3l10 trichtseßen, auch Schreibern und Beystandern
+#facs_237_r3l11 Anserer Beütschen Pottmeßigkeit hiemit Ernst¬
+#facs_237_r3l12 Meinend befehlende, mit gäntzlicher Beiseiths¬
+#facs_237_r3l13 setzung der dißharigen Verüebten anderwertigen
+#facs_237_r3l14 gebraüchen und gewohnheiten bey Vermeidung Un¬
+#facs_237_r3l15 außbleiblicher Straff und Ungnad nach dieser
+#facs_237_r3l16 gegenwertigen Neuwen Ordnung, alls Ein Reysan
+#facs_237_r3l17 Unser Statt und Land Salzung, sich pflichtmäßig
+#facs_237_r3l18 zurichten, darwieder Infinichen weg nicht zuhand¬
+#facs_237_r3l19 len, sondern ohnverbrüchlich darbey zu verbleiben.
+#facs_237_r3l20 Wie dan Wir Unß zu allen Ins gemein, und
+#facs_237_r3l21 Jeden Ins besonders gnedig versehen haben wollend.
+#facs_237_r3l22 Fründtlichkeit soll vor allem
+#facs_237_r3l23 Rechtigen gesucht werden.
+#facs_237_r3l24 Erstlich wollend wir gehept haben, daß vor aller
+#facs_237_r3l25 Rechtigung Unsere Ambt Leübl und gerichts vorge¬
+#facs_237_r3l26 sehte die Partheyen in der Pründtlichkeit zuweisen
+#facs_237_r3l27 und in müglichster Kürtze, und minsten Kosten
+#facs_238_r2l1 sich zu befragtragen sich befleißen sollen:
+#facs_238_r2l2 Jehöch ohne Zwang, und daß den Partheyen
+#facs_238_r2l3 Ihr freyer willen gelaßen werde: Ich
+#facs_238_r2l4 mung, und daß von Partheyen zur solche
+#facs_238_r2l5 Anweisung zur Fründtlichkeit aber, sollen
+#facs_238_r2l6 Unsere Ambtleuth von den Partheyen
+#facs_238_r2l7 kei Emolument forderen. Darbey sollend
+#facs_238_r2l8 auch Unsere Ambtleüth Eingedeuk sei,
+#facs_238_r2l9 in Bewilligung der Beyständeren alle
+#facs_238_r2l10 Bescheidenheit und Pürsichtigkeit zugebrauchen,
+#facs_238_r2l11 und disfahls nach Inhalt der zu Emstehende
+#facs_238_r2l12 Ordnung zur Beyständeren halb sich zu ver¬
+#facs_238_r2l13 halten.
+#facs_238_r2l14 Gastgrist umb, was sachen Er
+#facs_238_r2l15 zu bewilligen
+#facs_238_r2l16 In Spählen da mann Gastgrichtlich
+#facs_238_r2l17 verfahren wollte, sollen Unsere Ambtleuth
+#facs_238_r2l18 bevorderst wohl Erwegen, von was wichtigkeit
+#facs_238_r2l19 die sach seye, in was Intention die worth
+#facs_238_r2l20 geredt worden, was Etwan für umbstand
+#facs_238_r2l21 zubeobachten, ob der Beklagte noch Beharr
+#facs_238_r2l22 umb solchemnach sich Eüsterstens Zu bear¬
+#facs_238_r2l23 Beiten, daß die sach in Fründlichkeit beyge¬
+#facs_238_r2l24 legt werden möge: zu solchem End soll
+#facs_238_r2l25 auch der Kleger dahin gewiesen seyn,
+#facs_238_r2l26 9 damit fernere Cösten Vermiten bleiben etc.
+#facs_238_r3l1 461.
+#facs_238_r3l2 Von dem Beklagten bevörderst zuvernemen
+#facs_238_r3l3 ob Er in der fründtlichkeit Ihme begegnen
+#facs_238_r3l4 wolle?
+#facs_238_r3l5 Wo aber die jach vogestalltet, daß die Partheyen
+#facs_238_r3l6 zur Fründtlichkeit nicht verstehen wollten, so
+#facs_238_r3l7 mag zwahr in Begebenheiten, da Es Landts,
+#facs_238_r3l8 frembde und Entlegene Leüth, alls die
+#facs_238_r3l9 Im großen Kosten ligen
+#facs_238_r3l10 Denne gewallthat und sachen die Augen¬
+#facs_238_r3l11 scheinlich am wachsenden Schaden sind, Irem
+#facs_238_r3l12 Schälltwerth so seel und Eher berühren, antreffen,
+#facs_238_r3l13 will, Gastgricht bewilliget, daßelbe aber in
+#facs_238_r3l14 Heiligen Zeithen ohne sondere Tringende Noth
+#facs_238_r3l15 mit gehallten werden; Und soll auch fürohin Eine
+#facs_238_r3l16 Parthey so zur Rettung Ihrer Ehr in Pählen
+#facs_238_r3l17 der Erläuteret ist, Gastgerichtlich procedieren
+#facs_238_r3l18 würde, nicht mehr alls zoo Persohnen von Ver¬
+#facs_238_r3l19 wandten zu Ihrem Behelff und Rath mit sich
+#facs_238_r3l20 nemmen.
+#facs_238_r3l21 Der Meinung, daß außert obigen Pählen umb
+#facs_238_r3l22 keinerley Ursachen Gastgricht bebilliget und
+#facs_238_r3l23 ins besonders unter dem Nahmen der
+#facs_238_r3l24 Schälltworten, nit verstanden werden sollen, Stich¬
+#facs_238_r3l25 Schimpff- und Verachtungs=Worth, alles welche
+#facs_239_r2l1 Unsere Ambt Leüth auffzuheben, und güetlich
+#facs_239_r2l2 hinzulegen befelchnet seyn sollen, welchem
+#facs_239_r2l3 nach auch Unsere Ambtleuth, wen sie
+#facs_239_r2l4 sich Ihrer Eigenen Persohnen halben in
+#facs_239_r2l5 obigem Casu befinden würden, zurichten —
+#facs_239_r2l6 haben, und dardurch denen Ambtsangehörige
+#facs_239_r2l7 mit gutem Exempel vorgehen sollen. In
+#facs_239_r2l8 specie aber sollen Unsere Ambt Leuth
+#facs_239_r2l9 schuldig seyn, wan sie umb Schellt-
+#facs_239_r2l10 Worth so Ihre Eigene Persohn berühren,
+#facs_239_r2l11 gastgrichtlich procedieren wollten, bevorderst
+#facs_239_r2l12 Unserem Täglichen Rath den Casum Vor=
+#facs_239_r2l13 zu stellen, und deßen Bewilligung darü¬
+#facs_239_r2l14 ber zu erwarten etc.
+#facs_239_r2l15 Vorbey Wir dann auch gehept haben
+#facs_239_r2l16 wollin, daß Unsere Ambtleüth die
+#facs_239_r2l17 Bußen nicht gaßgerichtlich, sonder am
+#facs_239_r2l18 Ordinarii Gericht einforderen sollend.
+#facs_239_r2l19 Volget nun die Bestimmung der
+#facs_239_r2l20 Gerichts Emolumenten.
+#facs_239_r2l21 Wochen=Bricht.
+#facs_239_r2l22 An den Ordentlichen Wuesen=Grichten
+#facs_239_r2l23 soll der Ambtsman und das Pricht für
+#facs_239_r2l24 Ihr Emolument in die Büchsen zu fordern haben.
+#facs_239_r4l1 163.
+#facs_239_r4l2 von Jedem so Einer Ergangenen Urtheill Ein¬
+#facs_239_r4l3 Urkundt nimbt an Pfenningen. Fünff Schillung
+#facs_239_r4l4 von dem, welcher Kundtschafft nambset, an
+#facs_239_r4l5 Pfenningen. Fünff Schilling.
+#facs_239_r4l6 Von dem welcher Kundtschafft nambset, an
+#facs_239_r4l7 Pfenningen. Fünf Schilling.
+#facs_239_r4l8 Von dem so Ein Urtheill weiters appellirt
+#facs_239_r4l9 an Pfamungen. Pünff Schilling.
+#facs_239_r4l10 In Verfertigung der Käufen mag das gericht an
+#facs_239_r4l11 denen Ohrten, da solches brauchlich ist, von
+#facs_239_r4l12 Jedem Kauf oder Sausch forderen, und nemm
+#facs_239_r4l13 an Pfennung. Ein Pfundt.
+#facs_239_r4l14 Und Von Einer Appellat, die vor Gericht wiede¬
+#facs_239_r4l15 rum Verlesen und passiert wirdt, an denen
+#facs_239_r4l16 Ohrten, da solcher gewohnt und bräuchlich ist,
+#facs_239_r4l17 Ein Pfundt.
+#facs_239_r4l18 An Pfennigen
+#facs_239_r4l19 Wan die Ambt Leuth und die Landtschreiber an die
+#facs_239_r4l20 Ordinarii gericht reiten, sollen sie deßtwegen nichts
+#facs_239_r4l21 zuforderen haben.
+#facs_239_r4l22 Gastpricht.
+#facs_239_r4l23 Wan Jehmändem nun hie vor angezeigte sachen und
+#facs_239_r4l24 Händell Gastgricht bewilliget wirdt, dersoll
+#facs_239_r4l25 für die Erwerb- und bewilligung desselben Erlegen
+#facs_239_r4l26 Zwey Pfundt.
+#facs_239_r4l27 in Pfenningen
+#facs_240_r2l1 Vnd Einem Jeden gerichtseßen Er seye in
+#facs_240_r2l2 Der Näche oder Weite, für seinen Gang,
+#facs_240_r2l3 an gellt Fünff Gahen.
+#facs_240_r2l4 Und hat darzu das gemeine gericht,
+#facs_240_r2l5 noch weiters gleiche Gefell, wie hierben
+#facs_240_r2l6 deß Wochengrichts halb erleuteret ist,
+#facs_240_r2l7 zu bezeüchen und zu empfachen.
+#facs_240_r2l8 Appellat Gellt.
+#facs_240_r2l9 Von Einer Appellat die vom Underen
+#facs_240_r2l10 Richter für den Ambts=Mann gezogen
+#facs_240_r2l11 wirdt, gehört demselben für seine Urtheil
+#facs_240_r2l12 Die Er darüber gibt, wie von allter har,
+#facs_240_r2l13 Zoey Pfundt.
+#facs_240_r2l14 An Pfemmen.
+#facs_240_r2l15 Sigell Gellt.
+#facs_240_r2l16 Für das Sigell Beklt soll Ihme verordnet
+#facs_240_r2l17 und bestimbt seyn.
+#facs_240_r2l18 von Einem gemeinen Urkundt auch Eine
+#facs_240_r2l19 tschei zu Einem Gellt Aufbruch an
+#facs_240_r2l20 Pfenningen zechen Schilling,
+#facs_240_r3l1 1665
+#facs_240_r3l2 Und von Einem Appellation = Urkundt vom
+#facs_240_r3l3 Einfundt.
+#facs_240_r3l4 Andern Gericht An Penningen
+#facs_240_r3l5 Sosreiber.
+#facs_240_r3l6 Die bestellten Schreiber sollen sich an den
+#facs_240_r3l7 Ordenlichen Winhengrichten Ihres bestimbten
+#facs_240_r3l8 Schreiber Lohns Vermügen, an den Gastgrig¬
+#facs_240_r3l9 Wy aber soll Einem für den Gang, so pr
+#facs_240_r3l10 unnder zweyen Stunden weit dahin zu reisen haben
+#facs_240_r3l11 verordnet sein, neben Gastfreyn halltung aus
+#facs_240_r3l12 Pfenningen ein Pfundt.
+#facs_240_r3l13 So Er Aber zwo Stundt weith und darüber
+#facs_240_r3l14 Entseßen an Pfenningen. Zwey Pfundt.
+#facs_240_r3l15 .
+#facs_240_r3l16 Deme soll Er für seinen Schreiber Lohn
+#facs_240_r3l17 zuforderen und zu beziehen haben.
+#facs_240_r3l18 Uhrkundt An Pfen
+#facs_240_r3l19 Von Einem gen.
+#facs_240_r3l20 Ein Pfundt.
+#facs_240_r3l21 muge
+#facs_240_r3l22 von Einer Appellat die nicht weitleüffig ist
+#facs_240_r3l23 Zoey Pfundt.
+#facs_240_r3l24 An Pfemungen
+#facs_240_r3l25 von Einer größery aber. Drey Pfundt.
+#facs_241_r2l1 Von den Weithleüffigsten an Pemin¬
+#facs_241_r2l2 Vier Pfundt.
+#facs_241_r2l3 gen
+#facs_241_r2l4 deßtwegen ein jeder Schreiber allein
+#facs_241_r2l5 Klag, Anthwort, Replic und Duplic vor
+#facs_241_r2l6 verstandtlich
+#facs_241_r2l7 der Urtheill klar und deutlich einzu¬
+#facs_241_r2l8 bringen, und alle ohnnöthige weithleüffig¬
+#facs_241_r2l9 keit und nicht zur sach dienende Schrifften
+#facs_241_r2l10 außzulaßen gebiesen wirdt.
+#facs_241_r2l11 daß Ambts Manns außgesprochene
+#facs_241_r2l12 zuschreiben
+#facs_241_r2l13 Appellatz Urtheill gehört dem Ambts
+#facs_241_r2l14 Schreiber, so Er am Ohrt selbst, sitzt, an
+#facs_241_r2l15 lin Pfundt.
+#facs_241_r2l16 Pfenningen
+#facs_241_r2l17 SoEr aber nicht gras an der Hand
+#facs_241_r2l18 geseßen, auffl. Zwey Pfundt.
+#facs_241_r2l19 Von Einem Schein so von begehrenden
+#facs_241_r2l20 gellt auffbruchs wegen gefellt wirdt,
+#facs_241_r2l21 soll Ihme geordnet seyn. Ein Pfundt.
+#facs_241_r2l22 Weibell.
+#facs_241_r2l23 Den Gerichts Weiblen soll für Jedes¬
+#facs_241_r2l24 fürbott so in der Näche kan verrich¬
+#facs_241_r2l25 Tet werden, geordnet seyn. Ein halb Batzen.
+#facs_241_r3l1 6
+#facs_241_r3l2 von Einem Weiteresfürbott. Ein Batzen
+#facs_241_r3l3 Und wan Einer dem Gastgricht zusamen
+#facs_241_r3l4 siethet, soll Er darvon haben. Ein Pfundt.
+#facs_241_r3l5 Leütherung der Ohrten halb, da
+#facs_241_r3l6 hievor Mindere Gerichts Kösten in
+#facs_241_r3l7 Übung gewesen.
+#facs_241_r3l8 Doch ist hierin Außtrukenlich unger Verstand,
+#facs_241_r3l9 und Meinung, daß an denen Ohrten und gerichts¬
+#facs_241_r3l10 Stetten, an welchen Bißher Ein Minders und
+#facs_241_r3l11 Leidenlicheres Emolument, alls in dieser ge¬
+#facs_241_r3l12 meinen Ordnung bestimt ist, zubeziehen gewohnt
+#facs_241_r3l13 gewesen, Es bey selbem geringerem Brauch
+#facs_241_r3l14 fürters auch verbleiben, und diese Moderation
+#facs_241_r3l15 sich allein auff die übrigen Ohrt, da man mit
+#facs_241_r3l16 den Gerichts-Kösten, höcher gefahren, verstahen
+#facs_241_r3l17 und Erstreken solle.
+#facs_241_r3l18 Abstellung aller weiteren
+#facs_241_r3l19 Rostens.
+#facs_241_r3l20 -
+#facs_241_r3l21 Und wollen wir mit dieser Ordnung allen
+#facs_241_r3l22 ferneren und weiteren Kosten, so biß har
+#facs_241_r3l23 mit Mahlzeiten, Bezahlung Weins, und anderen
+#facs_242_r2l1 Korderungen. über die Partheyen gegangen,
+#facs_242_r2l2 gäntzlich auffgehept, abgestellt und den
+#facs_242_r2l3 Ambtsleüthen, Richteren Schreibern und
+#facs_242_r2l4 Weiblen Zehmanden Etwas ferners abzu=
+#facs_242_r2l5 forderen, ernstlich verpotten haben.
+#facs_242_r2l6 Die eincher Ohrten bezeüchende Audientz¬
+#facs_242_r2l7 gellter, da man Nur Rath begehrt
+#facs_242_r2l8 und nicht gesprüchet wirdt. Wie auch die
+#facs_242_r2l9 Jringen gellter, so für Eröffnung Ober¬
+#facs_242_r2l10 keitlicher Erkantnußen oder deren
+#facs_242_r2l11 Ablesung auf diesem oder Jenen
+#facs_242_r2l12 -
+#facs_242_r2l13 Ambt etwan gefordert werden möchten,
+#facs_242_r2l14 solle hiemit auch Ernstlich abgestellt,
+#facs_242_r2l15 seyn.
+#facs_242_r2l16 Der Tringherren und Niveren
+#facs_242_r2l17 Grichten halb: Item wo sonder
+#facs_242_r2l18 bahre Rechte sind.
+#facs_242_r2l19 Hiemit Ist Unser Verstand und Meinung,
+#facs_242_r2l20 Daß, was in dieser gantzen Ordnung Unseren
+#facs_242_r2l21 Ambt- und Gerichts Leüthen auff Erlegt und
+#facs_242_r2l22 fürgeschrieben wirdt, daselb sich Ebener¬
+#facs_242_r2l23 maßen auff die Ewing-Herry und die so
+#facs_242_r3l1 ui 69
+#facs_242_r3l2 unthere, und Nidere gerichts=Herrlichkeiten
+#facs_242_r3l3 hinder Unßhaben und Besitzen, Erstreken
+#facs_242_r3l4 und dieselbigen nicht weniger alles Unserer
+#facs_242_r3l5 Ambtleüth sich solcher Ordnung nach zu richten
+#facs_242_r3l6 gebiesen pflichtig und verbunden seyn sollins
+#facs_242_r3l7 damit die guthfundene gleichheit an alle
+#facs_242_r3l8 Ohrten gebührend observiert, und die Ander¬
+#facs_242_r3l9 thang durch Auß gleich gehaltten werdind.
+#facs_242_r3l10 Fahls aber die Einte oder andere gerichts¬
+#facs_242_r3l11 Stadt geftwegen sonderbahre authentische
+#facs_242_r3l12 Rechte hätten, denselben soll hierdurch nichts
+#facs_242_r3l13 benommen seyn; welche authentische Rechte
+#facs_242_r3l14 aber mit aller Beförderung allhier veri¬
+#facs_242_r3l15 ficiert und vorgewiesen werden sollen.
+#facs_242_r3l16 Schorgricht
+#facs_242_r3l17 Die Chor Richter aller Ohrten Unsers Landts
+#facs_242_r3l18 dan, sollend In Auflaag gemeiner Stufen
+#facs_242_r3l19 und Abstraffung fählhaffter Persohnen an
+#facs_242_r3l20 Ordenlichen Phorgerichts-Tagen, wie auch an Be¬
+#facs_242_r3l21 willigten und Erkaufften Gast- Ehrgrichten sich
+#facs_242_r3l22 allerdings verhallten, und nach Lauth und Vermög
+#facs_242_r3l23 Unserer Phorgericht Sathung und gemeiner
+#facs_243_r2l1 Ehrbarkeit halb außgangener Mandaten
+#facs_243_r2l2 und Niehmanden weiters, dan in derselben
+#facs_243_r2l3 bestimt ist, forderen noch abnemen.
+#facs_243_r2l4 Reith=Lohn des AmbtsManns
+#facs_243_r2l5 Diß Ohrts H. Wollen wir vor allen
+#facs_243_r2l6 Dingen gehept haben, daß Unsere
+#facs_243_r2l7 Ambt Leuth keinen Augenschein Erkennen,
+#facs_243_r2l8 und Einnemmen sollen, Es seye dan daß
+#facs_243_r2l9 beyse Partheyen, oder Eine allein auf
+#facs_243_r2l10 Ihren Kosten Es begehren Thüye,
+#facs_243_r2l11 und daß das geschäff noch der wichtig¬
+#facs_243_r2l12 keit und Natur seye, daß es anderst
+#facs_243_r2l13 nicht, alls durch Einnahm eines Augen
+#facs_243_r2l14 scheins Erheiteret und beygelegt werden
+#facs_243_r2l15 mag: Was dann der Ambtleüthen
+#facs_243_r2l16 Reith, Lohn betrifft, laßen wir es darbey
+#facs_243_r2l17 verbleiben, daß namblich Einem der
+#facs_243_r2l18 an Bellts Tagen oder anderen Sachen äußern
+#facs_243_r2l19 dem Rechten und auch an Thor=Gerichten
+#facs_243_r2l20 zwischen den Partheyen beschäfftiget ist,
+#facs_243_r2l21 und von näche wegen nicht zu Roß
+#facs_243_r2l22 seyn muß, deß Tags für sein Gang
+#facs_243_r3l1 Augenschein und außspruch Sechs Pundt. Wan
+#facs_243_r3l2 er aber sich an weitere ohrt zu Sprüchen,
+#facs_243_r3l3 Eheilungen, Spähnen auff Augenschein und
+#facs_243_r3l4 dergleichen Geschäfften zuuert dem Bezirt
+#facs_243_r3l5 seiner Verwaltung zu Pferdt 3 begibt,
+#facs_243_r3l6 für Ihm und seine diener zum Tag acht
+#facs_243_r3l7 Pfundt Pfenning äußert Schüter und Mahl,
+#facs_243_r3l8 So Er aber auß seinem Ambt an andere
+#facs_243_r3l9 chet zu solchen geschäfften die Er nicht Ambts¬
+#facs_243_r3l10 halben in seinem Eigenen Kosten zu Verrichten
+#facs_243_r3l11 schuldig ist, beruffen wirdt, für seinen Tag
+#facs_243_r3l12 Reith-Lohn und Außspruch Zechen Pfundt¬
+#facs_243_r3l13 Pfl. Außert Puter und Mahl, und nicht
+#facs_243_r3l14 mehr gebühren, und durch die Instierende
+#facs_243_r3l15 Parthey erlegt werden solle: Da in ansehen
+#facs_243_r3l16 deß Futter und Mahls wie ferners ver¬
+#facs_243_r3l17 orart, daß die Partheyen für deß Ambts¬
+#facs_243_r3l18 nannt, deß Schreibers und deß Ambtsmans
+#facs_243_r3l19 Dieners Zehrung dem Wihrte für Ein Mahl
+#facs_243_r3l20 nicht mehr zu bezahlen schuldig seyn sollen, alls
+#facs_243_r3l21 Drey Chronen. Diesemnach sollen sich auch
+#facs_243_r3l22 regulieren und Einrichten die Cämmeren und
+#facs_243_r3l23 Frichtstett hiesiger Haubt Statt.
+#facs_244_r4l1 Deß Schreibers Reith Lohn.
+#facs_244_r4l2 Wan auch mit Ihme dem Ambtsman se
+#facs_244_r4l3 Schreiber zu solchen Verrichtungen begehrt
+#facs_244_r4l4 und Erforderet wirdt, mag derselb zum
+#facs_244_r4l5 Stag, er seye zu Pus oder zu Roß
+#facs_244_r4l6 neben Püter und Mahl vier Pfundt-
+#facs_244_r4l7 Pfenung für seine Reiß forderen und
+#facs_244_r4l8 nemmen
+#facs_244_r4l9 Verbott der Mieth und Gaben.
+#facs_244_r4l10 Seftwegen laßen Wir Es nochmahlen
+#facs_244_r4l11 Bey der vorhandenen Ordnung Im¬
+#facs_244_r4l12 Rothenbuch und Anlängst publicierten,
+#facs_244_r4l13 Mandat gebenden, so daß deren allenk
+#facs_244_r4l14 lichen nachgelebt werden soll.
+#facs_244_r4l15 Botte Umb Schulden.
+#facs_244_r4l16 Wir wollend auch Fürbas von Kürtzen
+#facs_244_r4l17 und Minderen Kostens wegen nachgelaßen
+#facs_244_r4l18 haben, daß an denen Ohrten, da die Gotte
+#facs_244_r4l19 gebräuchlich sind, Unsere AmbtLeuth
+#facs_244_r4l20 dieselbigen umb gichtige und bekantliche.
+#facs_244_r5l1 273.
+#facs_244_r5l2 Schulden dem Begehrenden bewilligen mögen
+#facs_244_r5l3 -
+#facs_244_r5l4 solche nach bißharigen formaliteten Verrichten
+#facs_244_r5l5 zulassen; Weilen aber die Enforderende Gußen
+#facs_244_r5l6 von wegen der übersehenen Bottenen für allzu sa¬
+#facs_244_r5l7 und Excessivisch geachtet worden, alls habend=
+#facs_244_r5l8 Wir dieselbige dißmahlen auch dahin gesetzt,
+#facs_244_r5l9 Daß fürohy Im oberen Ergouw, wan das
+#facs_244_r5l10 vier Wochen Gott verfloßen, und vor Gericht
+#facs_244_r5l11 würklich geklagt wirdt, nicht mehr alls¬
+#facs_244_r5l12 Drey Pfundt: Im anderen Ergenis aber
+#facs_244_r5l13 von den Ersten drey Gottene, wann es darbey
+#facs_244_r5l14 bleibt, nicht mehr alls zwey Pfundt, von dem
+#facs_244_r5l15 Vierten übersehenen Gott aber vier Pfundt auß
+#facs_244_r5l16 Eingeforderet und Bezogen werden solle
+#facs_244_r5l17 Darbey hat es auch zu besonders die
+#facs_244_r5l18 Meinung, daß die Jenigen fünff Pfundt Ruß,
+#facs_244_r5l19 so einher Ohrten wegen angekündeten Leistungen
+#facs_244_r5l20 geforderet worden, abgestrekt seyn sollen.
+#facs_244_r5l21 Zubekente Güeter nicht in Verbott
+#facs_244_r5l22 legen zulaßen
+#facs_244_r5l23 Demnach sollen die güether und Anderpfänder,
+#facs_244_r5l24 so die Schuld Gläubiger auß Mangell der
+#facs_244_r5l25 zahlung Ihnen rechtlich zu bekennen laßen, nicht
+#facs_245_r1l1 & 74.
+#facs_245_r1l2 In Verbott gelegt, sonderen dargegen diesere
+#facs_245_r1l3 formalitet beobachtet, werden, daß den
+#facs_245_r1l4 saumbseligen Schuldneren zu dreyen under¬
+#facs_245_r1l5 schiedlichen Mahlen drey Tag nach Einandere,
+#facs_245_r1l6 ab dem Underpfand gebotten, und nach
+#facs_245_r1l7 dem dritten übersehenen Pott derselben
+#facs_245_r1l8 oder
+#facs_245_r1l9 gefangenschafft gelegt, xyz so Er nicht be
+#facs_245_r1l10 Stretten, der Gläubiger zu Außbringung
+#facs_245_r1l11 Eines allgemeinen Leibhaffs für Unsere
+#facs_245_r1l12 Täglichen Rath gewiesen werde.
+#facs_245_r1l13 Wegen den Weibells und ande¬
+#facs_245_r1l14 ren Bewilligungen.
+#facs_245_r1l15 Und weiln an einichen Ohrten bey den Wei¬
+#facs_245_r1l16 Bells und anderen Gewilligungen, Theills
+#facs_245_r1l17 Neüwe und Theills höhere und vor diesem
+#facs_245_r1l18 ganz ungebohnte Emolument geforderet
+#facs_245_r1l19 werden; alls Ist disfahls Unser Will
+#facs_245_r1l20 und Meinung, daß Unsere AmbtLeuth
+#facs_245_r1l21 die Es berühren mag, solche Neuwerungen
+#facs_245_r1l22 abthun, und selbige dahin gewiesen sein
+#facs_245_r1l23 sollen, sich der Emolumenten auf den
+#facs_245_r1l24 fuß der Ordnungen und der allten nicht
+#facs_245_r1l25 aber Neuwen drauin zubemege; Pahls
+#facs_245_r1l26 aber sonderlich in ansehen der forderungen
+#facs_245_r2l1 1475.
+#facs_245_r2l2 Für Botte, da die Underthanen für Ihren
+#facs_245_r2l3 Ambtsman Citiert werden, Eint oder ander
+#facs_245_r2l4 Ambtsman sond erbahre Rechte zu haben ver¬
+#facs_245_r2l5 meinte, soll Er dieselbige Unß vorweisen,
+#facs_245_r2l6 oder zu Ermanglendem Pahl für dergleichen
+#facs_245_r2l7 Bewilligungen nichts forderen: Es wäre dan
+#facs_245_r2l8 sach, daß ein Ambts-Angehöriger zwey
+#facs_245_r2l9 anders Ambt Citiert wurde.
+#facs_245_r2l10 Wegen Bezeüchung der Eheschätzen
+#facs_245_r2l11 Weilen dißfahls underschiedliche Mißbräuch beobach¬
+#facs_245_r2l12 stet worden, habend wir geordnet und gesetzt,
+#facs_245_r2l13 Daß fürohin auf Eine Bloße zu bekantnuß
+#facs_245_r2l14 bey Ehrschatz geforderet werden solle, sondern Erst
+#facs_245_r2l15 Denzumahlen, wan ein anderer Guth in wür¬
+#facs_245_r2l16 liche Besitzung genomen hat. Wie es dan
+#facs_245_r2l17 auch gleichmäßig in den Belltstagen den Ver¬
+#facs_245_r2l18 stand hat, daß wegen darschlagung der Ehrschätzigen
+#facs_245_r2l19 Bürtern den gemeinen Gellten, kein Ehrschatz=
+#facs_245_r2l20 bezogen werden soll, sondern nur von dem
+#facs_245_r2l21 Der das Güth in dem Gellte Tag würklich durch¬
+#facs_245_r2l22 die Collocation bekomt: Weiters haben Wir
+#facs_245_r2l23 angesehen und geordnet, daß von denen Käuffen
+#facs_245_r2l24 so nach dem Fisch ungültig sind, sie seye
+#facs_245_r2l25 Schrifftlich oder Mundtlich vorgangen, kein
+#facs_246_r2l1 Ehr Schatz gefordert, wohl aber wan
+#facs_246_r2l2 bey mit ein anderen Einen gültigen
+#facs_246_r2l3 Marit Ehrschätziger Bietern halb treffen,
+#facs_246_r2l4 obgleich zwey mit Einandern Einggüter
+#facs_246_r2l5 gg Marit Ehrschätziger güeteren halb treffen
+#facs_246_r2l6 obgleich sie hernach reüwig, und den
+#facs_246_r2l7 Marit aufgeben würden, daß nicht desto
+#facs_246_r2l8 weniger zu diesem Fahl Ein Ehrschatz
+#facs_246_r2l9 aber nicht mehr bezogen werden solle.
+#facs_246_r2l10 In Ansehen der Gellts Tagen.
+#facs_246_r2l11 Und weiln Wir wahrgenommen, daß
+#facs_246_r2l12 man begint Eint- und anderer Ohrte,
+#facs_246_r2l13 Bey verführung der Gelltstagen Einiche
+#facs_246_r2l14 Neüwerungen vorzenommen, danicht
+#facs_246_r2l15 allein die sonst große Kösten vermehrt,
+#facs_246_r2l16 sonderen auch sachen unter Herrschaft
+#facs_246_r2l17 Rechte gesetzt werden, so Eigentlich
+#facs_246_r2l18 nicht darunder gehöre: Alles habend
+#facs_246_r2l19 Wir durch folgende Ordnung deme zu
+#facs_246_r2l20 Begegnen nothwendig erachtet, wie von
+#facs_246_r2l21 Einem zum anderen Fallget.
+#facs_246_r5l1 47
+#facs_246_r5l2 Wirdt durch Ein Mißbrauch Eingeführt, daß
+#facs_246_r5l3 dem Jenigen, so in Guth in Einem Gelltstag
+#facs_246_r5l4 an die Hand nennen muß oder Im höchsten
+#facs_246_r5l5 Gott Ersteigeret, Ein formalischer Kauffbrieff
+#facs_246_r5l6 so Er besonders zahlen muß, verfertiget
+#facs_246_r5l7 und zugestellt werden will; Welches wieder
+#facs_246_r5l8 die Ällte und gewohnte Uebung auch zu ver¬
+#facs_246_r5l9 mehrung der Kösten gereichet: Derobegen Wir
+#facs_246_r5l10 -
+#facs_246_r5l11 hiemit solches verpotten und auffgehept habe,
+#facs_246_r5l12 wollend, allso daß Ein jedersich mit dem Colli¬
+#facs_246_r5l13 cation zedell, auß dem Belltstag Rodell,
+#facs_246_r5l14 Ich welchem Aber Jederzeith die Anstöß der
+#facs_246_r5l15 Anderpfänderen der Gültbrieffen außgetrukt
+#facs_246_r5l16 werden sollen, sich Vergnüegen wirdt, wel¬
+#facs_246_r5l17 ches für ein gnugsam gültiges Instrument.
+#facs_246_r5l18 zuhallten ist.
+#facs_246_r5l19 Wist schon vor diesem befunden worden, daß
+#facs_246_r5l20 die Ruße und Zehnd=Restanten nicht under
+#facs_246_r5l21 die Herrschaft Rechte zustellen seyen, dero¬
+#facs_246_r5l22 wegen Wir solches auff Ein Neuwer bestäti¬
+#facs_246_r5l23 get und hiemit geordnet haben wollend, daß
+#facs_246_r5l24 vergleichen Büßen und Zehnd Restanzen, so bohl
+#facs_246_r5l25 Vergangene alls künfftige; Wie auch das
+#facs_246_r5l26 zum ansäyen oder sonsten außgelichene Be¬
+#facs_246_r5l27 wöcht, nicht nur unter die Herrschafft-Rechte gerech¬
+#facs_246_r5l28 ret, noch auf diesem Fuß Collociert werden
+#facs_246_r5l29 sellen.
+#facs_247_r1l1 1478
+#facs_247_r1l2 3
+#facs_247_r3l1 Weilen auch an Ohrten, da die Verstük¬
+#facs_247_r3l2 lung der Büeteren zugelaßen, Ver¬
+#facs_247_r3l3 schiedene Käuffer Einter und anderer
+#facs_247_r3l4 Stuken sich befinden, welche Stuk aber
+#facs_247_r3l5 Sammenthafft In Eürm oder mehr
+#facs_247_r3l6 Hültbrieffen verhafft sind, und dauor
+#facs_247_r3l7 nach die Inhaber der Gültbrieffen
+#facs_247_r3l8 umb Ihre Summen auf die vielen
+#facs_247_r3l9 Käufer verstüklet Collonert werdend.
+#facs_247_r3l10 Alls habend Wir destwegen geordnet,
+#facs_247_r3l11 daß dieses alles dem Inhaberen deß
+#facs_247_r3l12 Brieffs an seinem Vollkommenen Unter¬
+#facs_247_r3l13 pfand Recht auff alle Stuk gantz nichts
+#facs_247_r3l14 benemen, sondern wan die Bezahlung
+#facs_247_r3l15 Erfollgen wirdt, solche samenthafft
+#facs_247_r3l16 beschehen, und biß dahin alle Stukh in
+#facs_247_r3l17 wesen Hans zu Jeh kommen, In ver
+#facs_247_r3l18 hafftung und Underpfandts-Pflicht
+#facs_247_r3l19 verbleiben, auch demenach in Gellts¬
+#facs_247_r3l20 Tagen Collociert werden soll: Außert
+#facs_247_r3l21 denen Jenigen Gült, Brieffen so nach
+#facs_247_r3l22 dem Schatzungs- Recht aufgerichtet sind,
+#facs_247_r3l23 oder noch möchten auffgerichtet werden.
+#facs_247_r3l24 Endtliche, dan wollend Wir in ansehen
+#facs_247_r3l25 der Geltstag Kösten und Emolumenten
+#facs_247_r4l1 479.
+#facs_247_r4l2 gehept haben, daß dieselben vorauß und ab
+#facs_247_r4l3 nach dem gesatz genommen, und nicht auff viel
+#facs_247_r4l4 fälltige Stuth oder underpfänder geschlagen,
+#facs_247_r4l5 kosten
+#facs_247_r4l6 werdend: Im fahl aber kein Gelt oder
+#facs_247_r4l7 andere FahrHaab vorhanden wäre, darauf
+#facs_247_r4l8 die Gellts-Tage Kösten bezahlt werden
+#facs_247_r4l9 möchten, so sollend dieselben Kösten pro rata
+#facs_247_r4l10 das Ist Eingetheillt, auff die güther und
+#facs_247_r4l11 Anderpfänder geschlagen werden;
+#facs_247_r4l12 Über Was Sachen die Ambt=Leüts
+#facs_247_r4l13 Endtlich Erkennen mögend
+#facs_247_r4l14 Zu Vermeidung Weithläufiger und mehrerer
+#facs_247_r4l15 proceduren und größeren Kostens, haben Wir
+#facs_247_r4l16 Thunlich befunden, Unseren OberAmpt Leuthen or¬
+#facs_247_r4l17 hiemit geschichet, den Gwallt ferners zu über-
+#facs_247_r4l18 geby, übersachen die vom Gericht Under-Gerichts
+#facs_247_r4l19 Appellations- weiß vor sie gelanget, und haubt¬
+#facs_247_r4l20 sächlich nicht mehr alls hundert Pfundt an,
+#facs_247_r4l21 treffen, (doch Bodenzins, Zehnden, herrschafft
+#facs_247_r4l22 Rechte, auch sache die Unsere Gerechtigkeit be¬
+#facs_247_r4l23 führen, außgeschloßen) Eintlich Und definitive-
+#facs_247_r4l24 Auch gsatz und Ordnungen bey Eydt und Ehrn rechtlich
+#facs_247_r4l25 zu erkennen, und abzusprechen, ohne daß Einiche Parthey
+#facs_247_r4l26 Die Ergangene Urtheil weiters Zeichen und appel¬
+#facs_247_r4l27 fieren möge.
+#facs_248_r3l1 Recht der Armen.
+#facs_248_r3l2 Wir wollend auch zu gutem der
+#facs_248_r3l3 Armen, welche von Armuth und Mann
+#facs_248_r3l4 gells wegen den Kosten den Rechts¬
+#facs_248_r3l5 Übung anzuwenden, und dem Rechten
+#facs_248_r3l6 nach zugehen nicht vermögend, hiemit
+#facs_248_r3l7 für und angesehen haben, daß dergleichen
+#facs_248_r3l8 Arme Landts=Heimische Persohnen, Es
+#facs_248_r3l9 seye daß beyde Partheyen, oder nur
+#facs_248_r3l10 Eine darfür möge Erkennt werden,
+#facs_248_r3l11 Ihr Sach und Anligen mit vorgehender
+#facs_248_r3l12 ordentlicher Bewilligung Unsers ober¬
+#facs_248_r3l13 Ambtsmanns und so weith müglich in¬
+#facs_248_r3l14 seinem Beyseyn dem Gericht fürbringen
+#facs_248_r3l15 mögend, da dann die Geschworne
+#facs_248_r3l16 schuldig seyn sollen, die andere Parthey
+#facs_248_r3l17 zum Rechten zuhallten, beyst Theill demnach
+#facs_248_r3l18 In Klag und Antsworth Summarisch, wie Ihm
+#facs_248_r3l19 spruchen gebraucht wirdt, sambt der
+#facs_248_r3l20 Kundtschafft, so die vorhanden und begehrt
+#facs_248_r3l21 wirdt, gegen Einandern anzuhören, und
+#facs_248_r3l22 folgendts dem Rechten und der billich¬
+#facs_248_r3l23 keit nach kurtz schleünig, ohne gestattung
+#facs_248_r3l24 Annöthiger Beyhändler, worüber zu
+#facs_248_r3l25 Erkennen, welche Urtheill zwahr nicht
+#facs_248_r4l1 481
+#facs_248_r4l2 weiters appelliert, aber durch die Be¬
+#facs_248_r4l3 schwärende Parthey, so die Haubtsach Hun¬
+#facs_248_r4l4 dert Pfundt übersteigt, allhir vor Unseren
+#facs_248_r4l5 tägliche Rath gebracht werden mag, deßelben
+#facs_248_r4l6 Erkantnuß darüber zu erwärthen: Was
+#facs_248_r4l7 dan hiesige Haubt- Statt belanget, soll die
+#facs_248_r4l8 Bewilligung sothanen Rechtens, wie biß dahin
+#facs_248_r4l9 allso fürters von Unserem Täglichen Rath
+#facs_248_r4l10 oder Außeren Statt Gericht erhalten, und
+#facs_248_r4l11 Demenach gleichmäßig verfahren werden.
+#facs_248_r4l12 Vorbey Es dan auch den Verstand hat, daß
+#facs_248_r4l13 Das Recht In diesem fahl vergebens,
+#facs_248_r4l14 und ohne Bezahlung Einichen Emoluments ge-
+#facs_248_r4l15 beyet und administriert werden soll, und
+#facs_248_r4l16 zwahr beyden Portheyen, wanselbige
+#facs_248_r4l17 beyderseiths Arm sind; Imfahl aber die
+#facs_248_r4l18 einte Parthey bemitlet wäre, soll selbige
+#facs_248_r4l19 umb Ihren Antheill der gebühr nach ab¬
+#facs_248_r4l20 schaffen. Der ferneren Meinung, wanden
+#facs_248_r4l21 bemutlete, zu der sach Underligen wurde,
+#facs_248_r4l22 daß Er der Armen Parthey keine Tag¬
+#facs_248_r4l23 Kösten zubezahlen habe; Und wan der Arme
+#facs_248_r4l24 Am Unrechten gefunden wurde, bey den Richter
+#facs_248_r4l25 stehe solle, zu Erkennen, wie Er wegen der dem
+#facs_248_r4l26 demitlete verursacheten Kosten und Unmuß an¬
+#facs_248_r4l27 zusehn seye.
+#facs_249_r2l1 Entlichen dan wollend Wir auch gehept
+#facs_249_r2l2 haben, daß allwegen die Zelth wan das
+#facs_249_r2l3 process zum Abspruch Unserem Täglichen
+#facs_249_r2l4 Rath vorgetragen wirdt, den Partheyen
+#facs_249_r2l5 kundt gemacht werden soll, damit sie
+#facs_249_r2l6 auch berichten können.
+#facs_249_r2l7 Straff der Leichtfertigen Eröleren
+#facs_249_r2l8 Damit auch nicht Ein jede Ergehende Urtheil
+#facs_249_r2l9 Trölhaffter Weis allhör gezogen werde, soll
+#facs_249_r2l10 Einem Jeden der In Einer allsoEigensing
+#facs_249_r2l11 allhörgezogenen Uhrtheill, von Unserem
+#facs_249_r2l12 Rath am Ungrund und Unrechten Funden
+#facs_249_r2l13 wirdt, die Vier und Zwäntzig Stündige
+#facs_249_r2l14 gefangenschafft zu verdienter Straff
+#facs_249_r2l15 aufferlegt seyn, dieselbe ihme zur War¬
+#facs_249_r2l16 nung und anderen Zum Exempel denzu,
+#facs_249_r2l17 mahlen unnachläffig an Ihme zu erstatten
+#facs_249_r2l18 Neüve dußen Ordnung
+#facs_249_r2l19 Wie wollend zwahr die Ambt Leuth bey
+#facs_249_r2l20 dem Bischarigen genoß der Rusen¬
+#facs_249_r2l21 halb verbleiben laßen, Jehdoch daß
+#facs_249_r4l1 183.
+#facs_249_r4l2 Die Ambt Leüth nach Bescheidenheit und J.
+#facs_249_r4l3 fahlen so in dem Bsatz und Ordnungen Be¬
+#facs_249_r4l4 stimmt sindt, niehmahlen höcher verfahren, wohl
+#facs_249_r4l5 aber noch gestallten dingen minder bezahlet
+#facs_249_r4l6 nögind; zu wichtigen fählen, dan, so nicht
+#facs_249_r4l7 durch Besatz und Ordnungen außgetrukt und
+#facs_249_r4l8 bestimmet sind, soll hinführo kein Ambtsmach
+#facs_249_r4l9 mehr gwallt haben, die Bußen zu bestimmen
+#facs_249_r4l10 noch zu Componieren, sondern dahin durch ge¬
+#facs_249_r4l11 genwertige ordnung verbunden seyn, allwegen
+#facs_249_r4l12 den Casum umbständtlich Unserem täglichen
+#facs_249_r4l13 Rath Zeüberschreiben, deßelben Erkantnuß
+#facs_249_r4l14 darüber zu erwarten, und dero nachzugeleben
+#facs_249_r4l15 In Minderstraff bahren Sachen aberkönnend,
+#facs_249_r4l16 die AmbtLeuth wohl forthfahren
+#facs_249_r4l17 Bestellung der Advocaten und
+#facs_249_r4l18 Beyständeren.
+#facs_249_r4l19 Wir habend hiemit auch geordnet, vnd Erkent,
+#facs_249_r4l20 daß fürohin das advocatisieren und Beyständung
+#facs_249_r4l21 bereyen annehmen niehmand zugelaßen seyen
+#facs_249_r4l22 sobe, anderst allt auf dem Fuß der deßen
+#facs_249_r4l23 wegen auffgesetzten mitkommenden Ordnung, so
+#facs_249_r4l24 daß sie auch zu derselbigen und daran ge¬
+#facs_249_r4l25 chenkten
+#facs_250_r2l1 schenkten Instruction vor Unser Teutschen
+#facs_250_r2l2 Appellation  Cammer Ernstlich ange¬
+#facs_250_r2l3 mahnt werden sollend: die gemeinen
+#facs_250_r2l4 Schulden Gotten Jedoch hierin nicht gemeint:
+#facs_250_r2l5 auch vorbehallten, wan Jehmand die
+#facs_250_r2l6 Seinigen gebrauchen wollte, oder zu sonst
+#facs_250_r2l7 Jehmandem das zutrauwen hätte, daß
+#facs_250_r2l8 Er an die bestellten Advocaten oder
+#facs_250_r2l9 Beyständer nicht gebunden seyn soll.
+#facs_250_r2l10 Ordnung und Reglement In ansehen
+#facs_250_r2l11 Der Procuratoren und Beyständeren.
+#facs_250_r2l12 Wir habend geordnet, daß fürohin-
+#facs_250_r2l13 weder Bürger noch andere Eignen freyen
+#facs_250_r2l14 willent sich der Beyständereyn allhier
+#facs_250_r2l15 in der Statt nicht annemmen, sondern
+#facs_250_r2l16 Es sollen dergleichen Statt=Procuratores
+#facs_250_r2l17 oder Beyständer von Unserer Teütschen
+#facs_250_r2l18 Appellation Cammer Ihrer Tüchtigkeit halb.
+#facs_250_r2l19 Examiniert, und nachwerts In Verordnung
+#facs_250_r2l20 derselben solche Subjecta auserlesen.
+#facs_250_r2l21 werden, zu deren Fleiß, Treuw, auf¬
+#facs_250_r2l22 richtigkeit und Büchtigkteit man sich
+#facs_250_r2l23 versehen könnte.
+#facs_250_r3l1 485.
+#facs_250_r3l2 dieser Procuratoren und Beyständen Pflichten
+#facs_250_r3l3 und Schuldigkeiten sollen haubt sächlich darinen
+#facs_250_r3l4 bestehen.
+#facs_250_r3l5 1o. daß sie sich In guten Treuwen und aller
+#facs_250_r3l6 auffrichtkeit, wie sich Ehrlichen, die Thugend¬
+#facs_250_r3l7 Berecht, und Billichkeit Liebenden Leüthen ge
+#facs_250_r3l8 zimmet, diesers Ihres Berichts anemmen und
+#facs_250_r3l9 Denselben verführen Thüzind.
+#facs_250_r3l10 2° Sollen sie Jederzeith bedacht seyn, den
+#facs_250_r3l11 Vertheyen auff das Kürtzeste und beste, durch
+#facs_250_r3l12 grade weg und ohne schlimme umbgang auß
+#facs_250_r3l13 den Sachen Zehelffen
+#facs_250_r3l14 3o. Ins besonders aber sollen sie keiner
+#facs_250_r3l15 Parthey wider Ihr goüßen In ein Bröhl
+#facs_250_r3l16 rathen, auch zu Verführung der Processen
+#facs_250_r3l17 das Recht nicht verlangeren, und endzlich
+#facs_250_r3l18 sich wohl darvor hüeten, daß sie Ihrer ange¬
+#facs_250_r3l19 nommenen Parthey recht der gegenparth beim
+#facs_250_r3l20 wenigsten nicht kundtbahr machen oder Ver¬
+#facs_250_r3l21 rethen Thützind.
+#facs_250_r3l22 Auf dem Land aber bleibt er bey bereits
+#facs_250_r3l23 gemachten Ordnungen, so daß ohne Bewilligung
+#facs_250_r3l24 der Ambtlaüthen keine Beyständer oder Advocaten
+#facs_251_r2l1 und solchen fahls allein auß den Gerichten
+#facs_251_r2l2 oder Ambteren genommen werden sollend,
+#facs_251_r2l3 da die Parthey geseßen Ist: Jehdoch hat
+#facs_251_r2l4 Es den Verstand, daß Ein Parthey auß
+#facs_251_r2l5 Einem anderen Ambt Eben nicht schüldig,
+#facs_251_r2l6 sein solle, Einen Beystand aus dem
+#facs_251_r2l7 Ambt deß Richters, vor welchem sie
+#facs_251_r2l8 zuthun hat, zunemen, sondern wohl
+#facs_251_r2l9 mit sich
+#facs_251_r2l10 Einen Beystand nach Belieben
+#facs_251_r2l11 bringen möge:
+#facs_251_r2l12 Dero Emolument oder Besoldung.
+#facs_251_r2l13 Und weilen Unß nun und dan Zimliche
+#facs_251_r2l14 Klägden vorkommen, daß die Jenigen Persohnen
+#facs_251_r2l15 so sich der Beyständereyen Bisher ange¬
+#facs_251_r2l16 nemen, In Beziehung Ihres Lohns oder
+#facs_251_r2l17 verdiensts zimlich hochgefahren, alls haben
+#facs_251_r2l18 Wir deßhalben auch statuiert und ge¬
+#facs_251_r2l19 ordnet.
+#facs_251_r2l20 Daß Einem Procuratoren oder Reystand,
+#facs_251_r2l21 wan Er vor Rath, Gericht, oder sonst
+#facs_251_r2l22 In einer Cammer Zethunhat, von der
+#facs_251_r2l23 Parthey für Jedesmahl Ein Pfundt bezahlt
+#facs_251_r2l24 werden solle.
+#facs_251_r3l1 187
+#facs_251_r3l2 Für die Audientz bey Einem Herren
+#facs_251_r3l3 Schultheister Fünff Gotzen.
+#facs_251_r3l4 Und für das Berichten in Appellation sachen
+#facs_251_r3l5 und sonsten, wan Er den gantzen Tag darmit
+#facs_251_r3l6 zubringt, Fünffzechen Götzen
+#facs_251_r3l7 Jehöoch bleibt denen Herren Kostens Modera¬
+#facs_251_r3l8 tolen in Bescheidenheit überlaßen, zu gah¬
+#facs_251_r3l9 wichtigen sachen nach vorhandenen Umbständen
+#facs_251_r3l10 EEbas mehrers, zu gahrgeringen Sachen
+#facs_251_r3l11 aber Etwas minders zu admittieren.
+#facs_251_r3l12 Darbey Er dan die Meinung hat, daß die¬
+#facs_251_r3l13 sere Procuratores oder Beyständer, äußert
+#facs_251_r3l14 Ihrem Lohn keine VerEhrung und Geschänk
+#facs_251_r3l15 Bedingen, oder Heüschen, weniger die Processen
+#facs_251_r3l16 über haubt umb Ein gewüßes Verdingen
+#facs_251_r3l17 sondern diesers Ihres bestimbten Lohns sich
+#facs_251_r3l18 lediglichen bemüegen sollind.
+#facs_251_r3l19 Alles unter dem Austruklichen Vorbehalt
+#facs_251_r3l20 und Communication, wan sich hervor thun
+#facs_251_r3l21 wurde, daß ein Procurator oder Beyständer
+#facs_251_r3l22 wieder das Jenige, so hieroben gebotten, gehand¬
+#facs_251_r3l23 let, und schuldig worden, daß dentzmahlen Ei¬
+#facs_252_r2l1 solcher, nach gestallt, ame mit privation
+#facs_252_r2l2 der Emolumenten Confiscation, deßen sol
+#facs_252_r2l3 über diesere Verordnung mit der Parthey
+#facs_252_r2l4 verglichen haben möchte, auch mit auff
+#facs_252_r2l5 legung derer gangenen Kösten und Be=
+#facs_252_r2l6 fangenschafft, oder auch mit vollkommener
+#facs_252_r2l7 Entsetzung abgestrafft werden solle.
+#facs_252_r2l8 Zestlengen die jehwesenden Großvei¬
+#facs_252_r2l9 bell und Gerichtschreiber verordnet sind,
+#facs_252_r2l10 zu wachen, daß obgesetzten Reglement
+#facs_252_r2l11 und Einsehen der Beystanden und Proceß
+#facs_252_r2l12 ratoren halb nachgelebt werde, und auch
+#facs_252_r2l13 nach gestallten Dingen die Fehlbahren Unserem
+#facs_252_r2l14 Täglichen Rath zu verleiden
+#facs_252_r2l15 Execution
+#facs_252_r2l16 Über alle Obige Ordnungen
+#facs_252_r2l17 und Einpesen.
+#facs_252_r2l18 Damit nun diesem Allein Eine getreuwe
+#facs_252_r2l19 und Steiffe Beobachtung zu wegen gebracht
+#facs_252_r2l20 werde, habend Wir nothwendig befunden,
+#facs_252_r2l21 solch Unser Einsehen und Ordnung In
+#facs_252_r3l1 189.
+#facs_252_r3l2 Druck zugeben, und selbige Unseren Ambt Leübschen
+#facs_252_r3l3 zu Ihrem Verhallt zu überschiken, darbey auch
+#facs_252_r3l4 denselbigen befelchlichen aufzutragen, zur nach¬
+#facs_252_r3l5 richt der Underthanen nicht allein solche
+#facs_252_r3l6 -
+#facs_252_r3l7 ordnung von pantzlen verkunden zelaßen,
+#facs_252_r3l8 sonderen auch Ein doppell darvon an Jede
+#facs_252_r3l9 Frichts Statt Ihres Rezirts zulegen, umb
+#facs_252_r3l10 daselbsten neben der Statt- Satzung aufbe¬
+#facs_252_r3l11 schallten und bey Jehweiliger Beeydigung der
+#facs_252_r3l12 forichten abgelesen zu werden. Wan aber
+#facs_252_r3l13 wieder beßers verhoffen Ein Underthan
+#facs_252_r3l14 wiederoberkeitliche ordnungen auch wieder
+#facs_252_r3l15 recht und Billichkeit wurde gehalten werden
+#facs_252_r3l16 und Er allso ab seinem Ambtsman zu¬
+#facs_252_r3l17 Klagen Ursach hätte, so wirdt Er allzeith Ein¬
+#facs_252_r3l18 ohngehinderten Zugang bey seiner Oberkeit
+#facs_252_r3l19 finden, zu welchem End der Einte oder andere
+#facs_252_r3l20 klagende Underthan vor allen dingen seinen
+#facs_252_r3l21 klägten Schrifftlich und In der wahrheit auff¬
+#facs_252_r3l22 setzen, und noch werts die befüegsamme haben,
+#facs_252_r3l23 soll, sich Entweders bey Einem Jehwesen
+#facs_252_r3l24 sey Ehrenhaubt dem regierenden Herren
+#facs_252_r3l25 Schultheißen, oder bey Jehmanden der Herren
+#facs_252_r3l26 Selellmeister und Vennern, oder auch bey
+#facs_252_r3l27 denen Herrn Hännblichern anzumelden,
+#facs_252_r3l28 Der Meinung, das der Jenige Herr, welche
+#facs_252_r3l29 von Einem Klagenden Landtmann wirdt
+#facs_253_r2l1 angesprochen werden, In der Pflicht
+#facs_253_r2l2 stehen soll, solche seine klagden anzu¬
+#facs_253_r2l3 hören und abzunemen, und In folg deßen
+#facs_253_r2l4 allwegen Einem jehwesende Ehren Hautt
+#facs_253_r2l5 Kundt Zethun, daß ein Landtman ab seinem
+#facs_253_r2l6 vorgesezten zu klagen habe, Worauff
+#facs_253_r2l7 Wohlermelltes Ehren Haubt die Audienz
+#facs_253_r2l8 verstatten, und die In Schrift versetzte,
+#facs_253_r2l9 Klag vor Rath abgehört, selbige aber wie
+#facs_253_r2l10 Eingegeben und ohne Abänderung vor
+#facs_253_r2l11 Ergehung Einicher Urtheill dem Ambts¬
+#facs_253_r2l12 man überschekt und Comunciert werden,
+#facs_253_r2l13 soll, damit Er dann mahlen seinen gegen¬
+#facs_253_r2l14 Bericht auch überschreiben, und allso nach
+#facs_253_r2l15 Recht und Willichkeit verfahren, und die
+#facs_253_r2l16 gebühr verschaffet werden könne: Mit
+#facs_253_r2l17 Vorbehallt daß Wie bis dato also auch für
+#facs_253_r2l18 Bas hy Unsere Ambt Leüth befügt seyn sollen,
+#facs_253_r2l19 wan sie sich der darüber vor Rath auß Erge¬
+#facs_253_r2l20 henden Erkantnus nicht Erfettigen könten, solche
+#facs_253_r2l21 -
+#facs_253_r2l22 Vor Uns den höchsten zwallt recurrendo zu
+#facs_253_r2l23 Ziehen: Endtlichen dan hat Er auch die Billiche
+#facs_253_r2l24 Meinung, fahls Ein Anderthan Eine
+#facs_253_r2l25 Ambtsman ungürtlich und ohngegründt
+#facs_253_r2l26 bey der Oberkeit anklagen würde, daß
+#facs_253_r2l27 Denymahlen auch ein solch unbegründt
+#facs_253_r2l28 klagender, gebührend abgestraff werden.
+#facs_253_r2l29 solle.
+#facs_253_r4l1 4-91
+#facs_253_r4l2 Geben In Unser Großen Raths Ver¬
+#facs_253_r4l3 samlung, den 14. Septembris 1709. 10.
+#facs_253_r4l4 und 15. Januarij 1710. 10. Aprilis. 8. May.
+#facs_253_r4l5 9. et 25. Septembris 1711.

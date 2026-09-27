@@ -1,0 +1,134 @@
+Law nr: BER.01.001.4557
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 123/123
+# High similarity (>=80%): 113
+# Low similarity (<80%): 10
+# Not found: 0
+#
+#facs_100_r2l1 soll.
+#facs_125_r4l1 243
+#facs_23_region_1633454616028_2913l1 An
+#facs_125_r4l3 Alle deutsche Herren Amtleute, 4. Stadt
+#facs_125_r4l4 Freylseibel und Ammann, item Schwar¬
+#facs_125_r4l5 zenburg, und Ählen
+#facs_125_r4l6 Meßerzuben
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_125_r4l8 Landes Vätterlicher Vorsorge nöhtiget
+#facs_125_r4l9 Uns das, sonderheitlich bey dem
+#facs_125_r4l10 Landvolk so sehr zunehmende ge¬
+#facs_125_r4l11 fährliche Messerzuken, um wo
+#facs_125_r4l12 einer möglich, durch unnachläßige
+#facs_125_r4l13 wohl verdiente Bestraffung der
+#facs_125_r4l14 Fehlbaren, demselben vorzubiegen,
+#facs_125_r4l15 Euch, gleich gegen Unsere übrige
+#facs_125_r4l16 Amtleute auch geschiehet, anzube¬
+#facs_125_r4l17 fehlen, in allen dergleichen Fällen
+#facs_125_r4l18 die dagegen verhängte, im Besaz¬
+#facs_125_r4l19 buch Fol. 501. sich befindliche Ver¬
+#facs_125_r4l20 ordnung, ohne einiges Nachsehen noch
+#facs_125_r4l21 Milterung zuweilen in Execution
+#facs_125_r4l22 zu sehen, mithin auch jeden Fall,
+#facs_125_r4l23 wa bey einer Meßer Zükung jemand
+#facs_125_r4l24 verwundt wurde, Unserem täg¬
+#facs_125_r4l25 lichen Rath zur Bestrafung einzu¬
+#facs_125_r4l26 berichten. Wir versehen uns zu
+#facs_125_r4l27 lich, daß solcher Vorschrift pünkt.
+#facs_125_r4l28 lich werde nachgelebt werden; Wober¬
+#facs_125_r4l29 Unser
+#facs_8_r2l2 24
+#facs_136_r2l21 sollte.
+#facs_126_r3l1 Unser Wille ist, daß Ihr gegen¬
+#facs_126_r3l2 wärtiges zu Eüerm und Eine
+#facs_126_r3l3 Nachfahren Erinnerung seines Orts
+#facs_126_r3l4 einschreiben lasset. Datum der
+#facs_126_r3l5 19 9bris 1784.
+#facs_21_region_1633454506260_2871l1 Un
+#facs_126_r3l7 zofingen. Lenzburg, Aarau und Brugg
+#facs_125_r4l6 Meßerzuben
+#facs_126_r3l9 Schultheiß Klein und große Rath 8 Aus
+#facs_126_r3l10 Landes Vätterlicher Vorsorge bewogen
+#facs_126_r3l11 nöhtiget Uns das, sonderheitlich bey dem
+#facs_125_r4l10 Landvolk so sehr zunehmende ge¬
+#facs_126_r3l13 Mesterzuben, um wo immer möglich¬
+#facs_53_r8l10 e
+#facs_126_r3l16 furch unnachläsige wohl verdied¬
+#facs_126_r3l17 strafung der Sehlbaren, demselben vor
+#facs_126_r3l18 zubiegen, Euch, gleich gegen Unsero Auct
+#facs_126_r3l19 inte auch geschiehet anzubefohlen,
+#facs_126_r3l20 in allen dergleichen Fällen die dagegen
+#facs_126_r3l21 verhängte, im Besazbuch Fol. 501
+#facs_126_r3l22 sich befindlichen Verordnung ohne ei¬
+#facs_126_r3l23 liches Nachsehen noch Milderung, ge¬
+#facs_126_r3l24 weilen in Execution zu sehen. Wie
+#facs_126_r3l25 geschehen werde Wir Uns bestens
+#facs_126_r3l26 zu Euch versehen. Datum coram
+#facs_126_r3l27 200 fen 19 9bris 1784.
+#facs_126_r4l1 zu suspendinnen
+#facs_126_r4l2 von befohlen cor: 20
+#facs_126_r4l3 du 18. feb. 1785.
+#facs_126_r4l4 Aufsnene mit Ver¬
+#facs_54_r5l10 Uerkangen
+#facs_3_region_1627936336835_13l2 der
+#facs_69_r3l23 21 Novb 1783
+#facs_83_r3l6 en
+#facs_111_r2l1 215
+#facs_21_region_1633454506260_2871l1 Un
+#facs_126_r5l3 Alle deutsche Herren Amtläute, item Ahlen
+#facs_126_r5l4 um Schwarzenburg, kenne vier Statt
+#facs_126_r5l5 Frey Weibel und Ammann, wie auch
+#facs_126_r5l6 an die deutsche Appellations-Kammer
+#facs_126_r5l7 Stadt- und Mäysengricht. Ferners
+#facs_126_r5l8 an die Herrschaffts Herren zu
+#facs_126_r5l9 Hindelbank, Jegenstorf, Selp, dießbach,
+#facs_126_r5l10 Wyl, Wichtrach, Münsigen, Worb,
+#facs_126_r5l11 Uzigen, Spiez, Riggisterg, Wildegg
+#facs_126_r5l12 Kund, Schöfftland, Bürgistin und
+#facs_126_r5l13 Liebegg, und endlich an alle
+#facs_126_r5l14 Er Gesellschaften allhier
+#facs_126_r5l15 Beneficia Inventarii und Beltstagen.
+#facs_126_r5l16 Schultheiß Räth und Burger 5 da
+#facs_126_r5l17 aus verschiedenen auf das Wohl Un¬
+#facs_126_r5l18 terer lieben und getreuen Bürgeren¬
+#facs_126_r5l19 im Unterthanen sich stüzenden Be¬
+#facs_126_r5l20 trachtungen Wir belvogen worden
+#facs_126_r5l21 die in Unserer Berichts-Satzung
+#facs_126_r5l22 nthaltenen Besähe, betreffend
+#facs_126_r5l23 die Beneficia Inventarii und Bolts¬
+#facs_126_r5l24 tagen, theils zu vermehren theils
+#facs_126_r5l25 zu vermöthideren oder abzuänderen
+#facs_126_r5l26 so haben Wir Unseren Willen und
+#facs_126_r5l27 Befehl hierüber, durch mitkommendes
+#facs_11_r1l1 16
+#facs_127_r2l1 in Druk ausgegangenet Placcare
+#facs_127_r2l2 an Tag zu legen gut erachtet
+#facs_127_r2l3 /: An die Herren Amtleute :/
+#facs_127_r2l4 Ihr werdet demmenach solches gewohnter
+#facs_127_r2l5 maßen öffentlich publicieren, da¬
+#facs_127_r2l6 von dann ein Doppel der im Schlos
+#facs_127_r2l7 und bey jeder Gericht stell in Eüerem
+#facs_127_r2l8 Amt sich befindlichen Gerichts-Ordnung
+#facs_127_r2l9 ein verleiben wie nicht weniger
+#facs_127_r2l10 auch in den Schloßbücheren nach¬
+#facs_127_r2l11 richtlich einschreiben lasen, und Hand
+#facs_127_r2l12 abhalten, daß in Vorfallenhei¬
+#facs_127_r2l13 ten, dem selben sorgfältig nachge¬
+#facs_127_r2l14 lebet werde.
+#facs_127_r2l15 /: An die Herren Herrschaffts herren :/
+#facs_127_r2l16 davon Wir Eüch einiche Exemplar in
+#facs_127_r2l17 Einlag zusenden, um davon behö¬
+#facs_127_r2l18 rige Wissenschafft zu haben
+#facs_127_r2l19 /: An die Er Gesellschafften :/
+#facs_127_r2l20 Me Ghh. übersenden Euch Titl. davon
+#facs_127_r2l21 genugsame Anzahl Exemplaria
+#facs_127_r2l22 mit dem frl. Auftrag, solches in Ener
+#facs_127_r2l23 Manual, wie auch in die auf Euerer
+#facs_127_r2l24 Ehrenden Gesellschaft sich befinden sol¬
+#facs_127_r2l25 linde Berichts-Satzung anhangen
+#facs_127_r2l26 zu laßen, und Hand abzuhalten.
+#facs_194_r2l30 respectierung
+#facs_127_r3l2 Eben cot: 200. Jan 18.
+#facs_93_r1l1 178

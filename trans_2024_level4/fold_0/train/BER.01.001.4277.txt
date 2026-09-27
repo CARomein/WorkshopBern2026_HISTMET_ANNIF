@@ -1,0 +1,36 @@
+Law ID: BER.01.001.4277
+Name: Ihnen die Verordnung, wegen unterlauffender Contrebande, unter dem Vorwand des Transits, zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_502
+# Matched: 25/25
+# High similarity (>=50%): 25
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_182_r4l15 Causley Bern.
+#facs_183_r3l1 An
+#facs_183_r3l2 Alle T: und W: H. Amtleut, 4. Städt
+#facs_183_r3l3 Freybeibel und Ammann.
+#facs_183_r3l4 Ihnen die Verordnung, wegen unterlaustende
+#facs_183_r3l5 Contrebande, unter dem Vorband des
+#facs_183_r3l6 Transits, zusenden.
+#facs_183_r3l7 Schultheiß und Rath
+#facs_183_r3l8 zu hemmung der im Land unter den
+#facs_183_r3l9 Schein und Vorband des Transits häufig
+#facs_183_r3l10 unterlaustender Contrebande in fremdem
+#facs_183_r3l11 Wein, Getreyer und anderer verbottener
+#facs_183_r3l12 Waaren, haben Wir nöthig befunden
+#facs_183_r3l13 diejenige Verordnung emanieren zu
+#facs_183_r3l14 laßen, worten Wir Euch andurch genüg¬
+#facs_183_r3l15 same Exemplar zusenden, mit dem
+#facs_183_r3l16 Refelch, auf deren geflißene Execution
+#facs_183_r3l17 Ober Amtlich zu vigilieren, und in Vor¬
+#facs_183_r3l18 fallenheiten den Zoll Commisen Richter.
+#facs_183_r3l19 Handbietung zu leisten; Auch selbige aller
+#facs_183_r3l20 Orten von Canzlen verlesen, und auf den
+#facs_183_r3l21 Brenzen, und an allen denen sonst gewohnl.
+#facs_183_r3l22 Orten öffentl. anschlagen, und in das
+#facs_183_r3l23 Mandaten durch einschreiben zu laßen.
+#facs_183_r3l24 Dat. den 12ten february 1768.

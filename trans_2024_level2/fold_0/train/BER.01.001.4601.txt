@@ -1,0 +1,380 @@
+Law nr: BER.01.001.4601
+Name: Feüer-Ordnung.
+
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 367/367
+# High similarity (>=80%): 360
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_4_r3l1 62
+#facs_319_r3l2 Feuer-Ordnung
+#facs_218_r4l16 für
+#facs_319_r3l4 die drey Ämter
+#facs_319_r3l5 Wangen, Garwangen und Ripp.
+#facs_45_r3l19 Wir Schulthers und Rath
+#facs_235_r7l19 der Stadt und Republil Bern,
+#facs_319_r3l8 thun kund hiemit: daß Wir aus
+#facs_319_r3l9 Landes vätterlicher Liebe und
+#facs_319_r3l10 Sorgfalt, für Unsere getreuen
+#facs_319_r3l11 Angehörigen der drey Ämteren
+#facs_319_r3l12 Wangen, Anrbangen und Ripp
+#facs_319_r3l13 folgende Feuer Ordnung zu errichten.
+#facs_319_r3l14 gut befunden; welche alljärlich
+#facs_319_r3l15 auf den zweyten Sontag im Herbst,
+#facs_319_r3l16 monat soll verlesen werden.
+#facs_319_r3l17 Vorsorg, wie sich vor Seuers=
+#facs_280_r3l20 brünst.
+#facs_319_r3l19 Es wird zum voraus gesezt um
+#facs_319_r3l20 ernstlich anbefohlen, daß jedes
+#facs_319_r3l21 Dorf ein oder zwey expresse
+#facs_11_r6l2 62.4
+#facs_320_r2l1 bestellte Nachtbüchter habe, die
+#facs_320_r2l2 vorgfältig auf allen Verdacht.
+#facs_320_r2l3 und Anzeigen des Feuers achten
+#facs_59_r2l22 sollen.
+#facs_4_r8l9 a
+#facs_320_r2l6 In jedem Dorf soll von dem
+#facs_320_r2l7 Amtsmann, auf Vorschlag der
+#facs_320_r2l8 vorgesezten, ein Brandmeister
+#facs_320_r2l9 und ein Feüryschauer erbühlt
+#facs_320_r2l10 und in Gelüb an Eides pflicht.
+#facs_320_r2l11 aufgenommen werden.
+#facs_4_r1l1 2
+#facs_320_r2l13 Der Feurgschauer soll mit und
+#facs_320_r2l14 neben den viers leuten, viermal
+#facs_320_r2l15 im Jahr, je von drey zu drey
+#facs_320_r2l16 Monaten, die Feuerstadte und
+#facs_320_r2l17 feüerhärden besichtigen und
+#facs_320_r2l18 sonderlich darauf achten, ob die
+#facs_320_r2l19 Oeten Feuerbladten, Gewölber,
+#facs_320_r2l20 Rauchfänge und Zielen, so ver¬
+#facs_320_r2l21 wahret und im Stand seyen, daß
+#facs_320_r2l22 keine Feuersgefahr zu befürchtigung
+#facs_320_r2l23 demie ob fleißig und wohl gerußet,
+#facs_320_r2l24 ob keine feuerfangende Sachen
+#facs_320_r3l1 625
+#facs_320_r3l2 nahe bey den Feüerherden ge¬
+#facs_320_r3l3 legt und die Asche auch so ver¬
+#facs_320_r3l4 wahret werde, daß von daher
+#facs_320_r3l5 keine Feursgefahr zu besorgen.
+#facs_132_r2l2 seyen.
+#facs_320_r3l7 Und wenn er, der Feürgschauer
+#facs_320_r3l8 oder die viersleute, deßen nicht
+#facs_320_r3l9 kundig wären, so können sie bey
+#facs_320_r3l10 wichtigen oder zweifelhaften Fällen
+#facs_320_r3l11 verständige Maurer und Zimmer¬
+#facs_320_r3l12 leüte dazu gebrauchen. Sie sollen
+#facs_320_r3l13 auch darauf fleisig acht halten
+#facs_320_r3l14 ob die gläferne Stall Lanternen
+#facs_320_r3l15 jebelen in gutem Stand sich
+#facs_211_r3l13 befinden.
+#facs_320_r3l17 Das Fehlerhefte sollen sie
+#facs_320_r3l18 mit Beystehung des Namens, so
+#facs_320_r3l19 gleich aufzeichnen, und demjenigen
+#facs_320_r3l20 so es betreffen mag anbefehlen
+#facs_320_r3l21 dasselbe zu verbeseren, und
+#facs_320_r3l22 die Saumseligen bey ihrer Pflicht
+#facs_320_r3l23 dem Amtsmann verleiden; auch
+#facs_320_r3l24 Hedesmal von ihrem Umgang dem
+#facs_320_r3l25 Amtsman den Bericht abstatten.
+#facs_4_r3l1 62
+#facs_4_r4l1 3.
+#facs_321_r2l2 Niemand soll bauchen, als in
+#facs_321_r2l3 den dazu erlaubten Rauch
+#facs_321_r2l4 öfen.
+#facs_4_r7l1 4
+#facs_321_r2l6 Alles Wach und Flachsdörry¬
+#facs_321_r2l7 bleibt laut Unseren Verordnung,
+#facs_321_r2l8 vom Jahr 1760 und 1786. in den
+#facs_321_r2l9 Häuferen und zu Nahe bey der
+#facs_321_r2l10 dörfern, wie auch alles feuren
+#facs_321_r2l11 mit Stoppeln und Lingeln ver¬
+#facs_321_r2l12 woboten.
+#facs_4_r6l1 5
+#facs_321_r2l14 desgleichen ist verboten, alles
+#facs_321_r2l15 schädliche Einstüzen, auch das Tababe,
+#facs_321_r2l16 rauchen in den Ställen, Teinen
+#facs_321_r2l17 und auf den Ruhnen.
+#facs_6_region_1627936574015_66l1 6
+#facs_321_r2l19 Jede Haushaltung soll mit einer
+#facs_321_r2l20 Lauterne versehen seyn, und
+#facs_321_r2l21 niemand sich erfrechen, mit
+#facs_321_r2l22 bloßem Licht in die Ställe, Te¬
+#facs_321_r2l23 bühmen, und um das Haus
+#facs_321_r2l24 zu gehen.
+#facs_4_r3l1 62
+#facs_321_r3l2 Vorsorgen vor entstehen dem
+#facs_321_r3l3 Brand.
+#facs_4_r8l3 I
+#facs_321_r3l5 Da die Feursprizen von jederman¬
+#facs_321_r3l6 als von gröstem Nußen und Hilf
+#facs_321_r3l7 bey Feuersbrünsten anerkent.
+#facs_321_r3l8 sind, so ermahnen Wir alle Dorf,
+#facs_321_r3l9 schaften wo Waßer vorhanden.
+#facs_321_r3l10 nach ihrem Vermögen, eine oder
+#facs_321_r3l11 mehrere derselben anzuschaffen.
+#facs_4_r1l1 2
+#facs_321_r3l13 Die Feuersprisen sollen, samt den
+#facs_321_r3l14 dazu gehörigen Schläuchen, in
+#facs_321_r3l15 einem sichern mit Ziegel bedekten
+#facs_321_r3l16 euftigen Gehalt verwahrt werden;
+#facs_321_r3l17 dazu soll der Ammann oder
+#facs_321_r3l18 Sahnbart, der vieren, der Krain
+#facs_321_r3l19 meister und der Feuersprizen¬
+#facs_321_r3l20 meister, jeder einen Schlüßel
+#facs_80_r3l6 haben.
+#facs_321_r3l22 zu jeder Feuersprize sollen
+#facs_321_r3l23 sechs bis acht gehülfen verordnet
+#facs_80_r2l15 seyn.
+#facs_319_r1l1 628.
+#facs_4_r4l1 3.
+#facs_322_r2l2 Alle Jahr zweymal sollen die
+#facs_322_r2l3 feüersprizen probiert, die Schläuche
+#facs_322_r2l4 gepicht, getrocknet, gesalbet, und
+#facs_322_r2l5 auch wo vonnohten so gleich ge¬
+#facs_322_r2l6 flikt berden. Welches auch
+#facs_322_r2l7 allsobald, beim die Feuersprizen
+#facs_322_r2l8 bey einer Brunst gebraucht
+#facs_322_r2l9 worden, geschehen soll; dieses
+#facs_322_r2l10 zu veranstalten wird der Straud¬
+#facs_322_r2l11 meister samt dem Feuersprizen,
+#facs_322_r2l12 meister sich angelegen seyn
+#facs_198_r5l12 laßen
+#facs_3_region_1627936339514_16l1 1
+#facs_322_r2l15 Bey jeder Feuersprise sollen
+#facs_322_r2l16 wachs bis acht Einer seyn.
+#facs_322_r2l17 Jedes Dorf soll nach seiner
+#facs_322_r2l18 Größe und Anzahl der Haushalt
+#facs_322_r2l19 nügen, und auf Gutfinden
+#facs_322_r2l20 des Amtmanns, mit einer an,
+#facs_322_r2l21 Zahl von Ibanzig bis achtzig
+#facs_322_r2l22 eineren versehen seyn.
+#facs_322_r2l23 der Feuergschauer, oder ein
+#facs_322_r2l24 besonders dazu geordneter
+#facs_322_r3l1 „ 629
+#facs_322_r3l2 Eimerkogt, soll eine genaue
+#facs_322_r3l3 Verzeichniß davon halten, die ab¬
+#facs_322_r3l4 gehenden und mangelbahren er¬
+#facs_322_r3l5 sehen laßen, auch nachstehen, daß
+#facs_322_r3l6 sie nach dem Gebrauch wieder¬
+#facs_322_r3l7 eingebracht werden. Selbige
+#facs_322_r3l8 stollen an einem sicheren Ort
+#facs_322_r3l9 unter einem Ziegeldach aufge
+#facs_322_r3l10 hängt Berden.
+#facs_322_r3l11 Es werden auch jede Haus Vater
+#facs_322_r3l12 ermahnt, nach ihrem Vermögen
+#facs_322_r3l13 sich einen Einer anzuschaffen.
+#facs_4_r6l1 5
+#facs_322_r3l15 Nicht nur jede Haushaltung¬
+#facs_322_r3l16 soll eine Leiter haben, sondern
+#facs_322_r3l17 über das soll ein jedes Dorf
+#facs_322_r3l18 mit drey großen, drey mitlern
+#facs_322_r3l19 Leitern, und nebst denen Feuer¬
+#facs_322_r3l20 haben der Feuerläufer mit
+#facs_322_r3l21 4. bis 6. großen Feuerhaben,
+#facs_322_r3l22 und einer Rondelle versehen¬
+#facs_322_r3l23 seyn, die auch an einem sichern
+#facs_322_r3l24 Ort aufbehalten Herden.
+#facs_59_r2l22 sollen.
+#facs_34_r5l1 63
+#facs_6_region_1627936574015_66l1 6
+#facs_323_r2l2 Wede Torfschaftsoll ihre bestimte
+#facs_323_r2l3 feüerlaufer haben.
+#facs_4_r13l2 7
+#facs_323_r2l5 Die Wasserbehälter, Waßer
+#facs_323_r2l6 leitungen und Waßerstammler
+#facs_323_r2l7 sollen wohl besorgt und unter¬
+#facs_323_r2l8 halten, und wo deren nicht sind,
+#facs_323_r2l9 neue nach der Lage jeden Orte
+#facs_323_r2l10 errichtet werden: damit bey
+#facs_323_r2l11 entstehendem Krand, das Waßer
+#facs_323_r2l12 schleunig könne eingeleitet und
+#facs_323_r2l13 aufgeschbellt berden.
+#facs_323_r2l14 Die Vierer und der Feuer¬
+#facs_323_r2l15 geschauer sollen beyschwerer
+#facs_323_r2l16 verantwortung darauf fleißig
+#facs_262_r4l12 achten.
+#facs_323_r2l18 Anstalten bey sich er auf
+#facs_323_r2l19 nenden Feuersbrunsten
+#facs_4_r8l9 a
+#facs_323_r2l21 Wenn im Dorf selbsten Feuer
+#facs_87_r3l17 Auf
+#facs_323_r2l23 Es soll der erste so es entdeten
+#facs_323_r3l1 631
+#facs_323_r3l2 würde, sogleich feuer rufen.
+#facs_323_r3l3 elles und sonderheit den Brand¬
+#facs_323_r3l4 meister, Feuergschauer und
+#facs_323_r3l5 vorgesezte aufbeken, welche
+#facs_323_r3l6 unverzüglich den Amtsman des
+#facs_323_r3l7 Orts deßen berichten laßen
+#facs_59_r2l22 sollen.
+#facs_323_r3l9 Der Brandmeister soll sogleich
+#facs_323_r3l10 die herzu eilenden auf die Dächer
+#facs_323_r3l11 der benachbarten und nächsten
+#facs_323_r3l12 Häuser, insonderheit die gegen
+#facs_323_r3l13 den Wind, mit Eymer und naßen
+#facs_323_r3l14 Tücheren schiken, und den Dach¬
+#facs_323_r3l15 Tuhl des brennenden Hauses,
+#facs_323_r3l16 benn er mit Stroh bedekt und
+#facs_323_r3l17 nicht mehr zu recten ist, also¬
+#facs_323_r3l18 bald niederhureisen, dazu soll
+#facs_323_r3l19 er die Leitern und Einer aus¬
+#facs_323_r3l20 theilen, und vor allem aus
+#facs_323_r3l21 dem Brunmeister oder dem
+#facs_323_r3l22 Feüergschauer anbefehlen, das
+#facs_323_r3l23 Waßer einzuleiten, auch daßelbe
+#facs_323_r3l24 aufschwellen laßen. Er soll auch
+#facs_323_r3l25 die Waßerzüge eintheillen,
+#facs_34_r5l1 63
+#facs_324_r2l1 und sobald die Feuersprihen.
+#facs_324_r2l2 angekommen, zur Beschirmung
+#facs_324_r2l3 der nächsten Häuser gebrauchen,
+#facs_324_r2l4 und zu deren Redienung die¬
+#facs_324_r2l5 Waßerhüge anordnen, und me
+#facs_324_r2l6 mand müßig laßen.
+#facs_324_r2l7 Jedermänglich wird hiebey
+#facs_324_r2l8 so wohl des Strandmeisters als
+#facs_324_r2l9 anderen vorgesezten Befehl
+#facs_324_r2l10 püncktliche und schleunige Folge
+#facs_324_r2l11 zu leisten wißen; welche dann
+#facs_324_r2l12 nach ihrer Einsicht und mit allem
+#facs_324_r2l13 Eifer alles nöhtig und dienlich
+#facs_324_r2l14 erachtende zu veranstalten sei;
+#facs_324_r2l15 angelegen seyn laßen werden.
+#facs_324_r2l16 Wenn eine Feuersbrunst im
+#facs_324_r2l17 Winter ausbrechen sollte, so soll
+#facs_324_r2l18 sogleich die Anstalt gemacht werden
+#facs_324_r2l19 in den Bauchhäuferen oder an
+#facs_324_r2l20 in den Partikularhäufere
+#facs_324_r2l21 Waßer zu Wärmen, damit
+#facs_324_r2l22 die Feuerstprizen damit könn
+#facs_324_r2l23 angefüllt und gebraucht beru¬
+#facs_324_r2l24 Zu dem End die Gemeinden
+#facs_324_r3l1 633
+#facs_324_r3l2 an den Orten wo deren noch
+#facs_324_r3l3 keine sind, sich werden angelegen;
+#facs_324_r3l4 seyn laßen, öffentliche und ge¬
+#facs_324_r3l5 meine Rauchhäuser zu erlangen.
+#facs_4_r1l1 2
+#facs_324_r3l7 Wann das Feüer nicht am Ort
+#facs_324_r3l8 selbsten ist, so sollen
+#facs_324_r3l9 Sobald die Loosschüße vom
+#facs_324_r3l10 Schloße oder die Sturmgloven.
+#facs_324_r3l11 gehört werden, die vorgesezten
+#facs_324_r3l12 der Brandmeister und die Feuer
+#facs_324_r3l13 läufer samt denen zu der Feuer
+#facs_324_r3l14 sprisen geordneten sogleich auf
+#facs_324_r3l15 fem in jedem Dorf bestimten
+#facs_324_r3l16 Sammelplaz ohne Verzug sich
+#facs_324_r3l17 einfinden, und alsdan berahten
+#facs_324_r3l18 ob die Feuersprizen gehen sollen.
+#facs_324_r3l19 oder nicht.
+#facs_324_r3l20 Die Feuerlaufer aber sollen.
+#facs_324_r3l21 von diesem Sammelplaz, alle
+#facs_324_r3l22 niteinander, samt der Rondelle,
+#facs_324_r3l23 ihren Eimern und Feuerhaben,
+#facs_324_r3l24 allso bald zum Feuer lauffen.
+#facs_324_r3l25 Mit der Feuersprisen
+#facs_325_r1l1 634.
+#facs_325_r2l1 sollen allzeit gehen, der Traud¬
+#facs_325_r2l2 meister und die dazu geordneten.
+#facs_325_r2l3 Die Wirthten und Müller solle
+#facs_325_r2l4 vorzüglich ihre Pferde mit einem
+#facs_325_r2l5 Fuhrmann, zu Ziehung der Feüer
+#facs_325_r2l6 sprisen, hergeben; in deren
+#facs_325_r2l7 Ermanglung das erste beste
+#facs_325_r2l8 Pferd ohne Widerrede dazu
+#facs_325_r2l9 kann genommen werden.
+#facs_325_r2l10 Allemal, wenn entweder die
+#facs_325_r2l11 feüersprihen oder die Feuer
+#facs_325_r2l12 Häufer bey einer Nrunst gewesen
+#facs_325_r2l13 soll der Brandmeister dem
+#facs_325_r2l14 Amtsmann, oder benn das Schlaf¬
+#facs_325_r2l15 allzu weit entlegen, dem
+#facs_325_r2l16 Weibel den Stapport abstatten
+#facs_325_r2l17 der dann solchen dem Amtsman
+#facs_325_r2l18 sobald möglich überbringen
+#facs_100_r2l1 soll.
+#facs_4_r4l1 3.
+#facs_325_r2l21 Verbahrung der Brand beschädigten
+#facs_325_r2l22 EHehten
+#facs_325_r2l23 Wenn Feüer ausbricht an einem
+#facs_325_r2l24 Ort wo eine Kirche sich befindet,
+#facs_325_r3l1 « 635
+#facs_325_r3l2 sollen die Effekten der Brandbe¬
+#facs_325_r3l3 schädigten und diejenigen aus
+#facs_325_r3l4 denen in Gefahr sich befindlichen
+#facs_325_r3l5 Häusern zur Verbahrung dahin
+#facs_325_r3l6 getragen werden, an Oertern
+#facs_325_r3l7 aber bo keine Kirche ist, sollen
+#facs_325_r3l8 allsogleich zu diesem End von dem
+#facs_325_r3l9 Brandmeister oder den vorge¬
+#facs_325_r3l10 sezten Pläse oder Häuser ver¬
+#facs_325_r3l11 seigt- und, wo immer der Ver¬
+#facs_325_r3l12 Wahrungsort seyn wird, von
+#facs_325_r3l13 selbigen unverzüglich vier be¬
+#facs_325_r3l14 wehrte ehrliche Männer zur
+#facs_325_r3l15 Hut dahin geordnet, und nach
+#facs_325_r3l16 den Umständen, durch Ausstellung
+#facs_325_r3l17 Vicherer Männer, gesorget werden,
+#facs_325_r3l18 das unterbegs nichts beyseits
+#facs_325_r3l19 getragen werden könne.
+#facs_325_r3l20 Diejenigen sösich vermessen
+#facs_325_r3l21 bürden, durch Ungehorsam oder
+#facs_325_r3l22 Nachläßigkeit dieser so heilsamen
+#facs_325_r3l23 und zum allgemeinen Resten
+#facs_325_r3l24 abh wekenden Verordnung ent¬
+#facs_325_r3l25 gegen zu handeln, sollen ohne
+#facs_326_r1l1 636.
+#facs_326_r2l1 Schonen mit doppelter Herr¬
+#facs_326_r2l2 schaftbuß, und nach Gewandtni¬
+#facs_326_r2l3 versachen, mit Gefangenschaft
+#facs_326_r2l4 bestraft werden: welche Stuß
+#facs_326_r2l5 dem Verleider ganz heimdienen
+#facs_100_r2l1 soll.
+#facs_326_r2l7 Wir sollen aber billig von
+#facs_326_r2l8 Unseren getreuen Angehörigen
+#facs_326_r2l9 erwarten, daß sie derselben so
+#facs_326_r2l10 billig als schuldig folge leisten,
+#facs_326_r2l11 und sich aus christlicher und nach¬
+#facs_326_r2l12 barlicher Liebe, ja zu ihrer
+#facs_326_r2l13 eigenen Sicherheit, eifrigst be¬
+#facs_326_r2l14 streben werden, derselben
+#facs_326_r2l15 nachzukommen, und dieselbe in
+#facs_326_r2l16 allen Artikelen zu erfüllen.
+#facs_326_r2l17 Endlich beyden auch unsere
+#facs_326_r2l18 Amtleute und zwar diejenige
+#facs_326_r2l19 von ihnen, die es in jedem
+#facs_326_r2l20 befondern Fall berühren
+#facs_326_r2l21 wird, in folg Unserer ausge¬
+#facs_326_r2l22 schriebenen allgemeinen Verord¬
+#facs_326_r2l23 nung vom 2ten Christmonats 1786
+#facs_326_r2l24 sich bestens angelegen seyn
+#facs_326_r3l1 637
+#facs_326_r3l2 laßen, bey jeder Feüersbrunst
+#facs_326_r3l3 über den Ursprung derselben
+#facs_326_r3l4 die schärfsten Informationen
+#facs_326_r3l5 aufzunehmen; und im Fall es
+#facs_326_r3l6 sich dadurch erzeigen sollte, daß
+#facs_326_r3l7 die Feuersbrunst durch die Ver¬
+#facs_326_r3l8 Wahrlofung der Besizern ent¬
+#facs_326_r3l9 standen wäre, so ist Unser ernst¬
+#facs_326_r3l10 gemeinte Wille, das sie den,
+#facs_326_r3l11 oder diejenigen so im Fehler
+#facs_326_r3l12 sich befinden, nicht nur sowohl
+#facs_326_r3l13 von denen Krandsteuren als
+#facs_326_r3l14 denen freybilligen Collecten
+#facs_326_r3l15 ausschließen, sondern sich noch
+#facs_326_r3l16 darüber aus, je nach bewandt
+#facs_326_r3l17 niß der Sachen, entweder mit
+#facs_326_r3l18 angemeßener Ahndung und
+#facs_326_r3l19 Straf von ihnen aus ansehen,
+#facs_326_r3l20 oder aber den Fall uns zu
+#facs_326_r3l21 gutfindender scharferer Ahndung
+#facs_326_r3l22 und Strafe überschreiben.
+#facs_326_r3l23 Geben den 6ten März 1787.

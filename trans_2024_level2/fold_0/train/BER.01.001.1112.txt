@@ -1,0 +1,92 @@
+Law ID: BER.01.001.1112
+Name: Das Verpott der Victualien gegen Biel.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 81/81
+# High similarity (>=50%): 79
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_242_r2l1 In Yserdton, Nydauw, Erlich, St. Johans
+#facs_242_r2l2 Insul Herren, Arberg, Buchsen, Friemßberg,
+#facs_242_r2l3 Rottelfingh Frauw. Brunnen Landtschutt
+#facs_242_r2l4 Henggeure Burgdorff
+#facs_242_r2l5 Das Opoct den Vic Jualien gegen viel
+#facs_242_r2l6 Schuldtheyß Khaät vnd Bürger
+#facs_242_r2l7 Demnach ein Statt viel sich durch vnser den vnder¬
+#facs_242_r2l8 schiedenliche an sy abgebne feindt: ernstliche ersuch¬
+#facs_242_r2l9 vnd ermahmung schrybl. der begerdtl. Remision
+#facs_242_r2l10 vndt außhergebung halb, deß von vngethrnarer
+#facs_242_r2l11 Verwaltung wegen Vnsers teutsch. Seckelmr.
+#facs_242_r2l12 Ampts Condammerten Hans Frischhertzen
+#facs_242_r2l13 daselbst vff enthaltenen Persohn zu erstattung
+#facs_242_r2l14 deßjenigen waß sy straff der fundten vndt
+#facs_242_r2l15 Verträgl zu wider sprechenlich Zethun schuldig
+#facs_242_r2l16 vnd pflichtig wärendt ehenes wegs Bewegl.
+#facs_242_r2l17 noch vermoch lasch wollen: Ja vber daß sy noch
+#facs_242_r2l18 hingegen, gegen vnserem Stand gantz vnEdt
+#facs_242_r2l19 gnösisch vndt mit vilerley Verdrichtligkeitl.
+#facs_242_r2l20 Vnnachbarlich erzeigt vnd verhalten, Gestalten
+#facs_242_r2l21 und mästl. Wir nit für khonendt mit gebühr¬
+#facs_242_r2l22 enden gegen mütlen Ihnen wider solche Ihr Procedur
+#facs_242_r2l23 Den ernst gezeigt undt eben daß was sy damit
+#facs_242_r2l24 vmb vnseren Standt verdienet widerfahren ge¬
+#facs_242_r2l25 lastl. habendt wie vnß wolbedachtlich undt
+#facs_242_r3l1 230.
+#facs_242_r3l2 Vß billichem Vijffer dahin entschlossl. gedachter Statt
+#facs_242_r3l3 Biel, und aller dero zu wohneren und angehörigen, den
+#facs_242_r3l4 bißher von Nachbarschafft undt gutter Eydt gesischer
+#facs_242_r3l5 Wolmeynung wegen in Vnseel Landt vnd gepieten
+#facs_242_r3l6 sonderlich aber den Vermach Vernachbardth Ortten
+#facs_242_r3l7 a
+#facs_242_r3l8 genoßenen vndt gebrachten feylt kauff aller Hand
+#facs_242_r3l9 victualia, Eß seye in getreidt wyn Molchl. vndt
+#facs_242_r3l10 was derglöhl, hiemit, und so lang wir nit zur vff¬
+#facs_242_r3l11 hebung bewegt, vnd verursachet werdendt, gentzlichl.
+#facs_242_r3l12 abgesteckl. vnd Jesperren: Also daß weder vnsere
+#facs_242_r3l13 vnderthanen Ihre Victualien gan Biel Zererkauffl.
+#facs_242_r3l14 führen, Noch die von Biel, dieselbe in unseren Landt
+#facs_242_r3l15 kaufflich erhebl. vnd absuchen soll undt noch mögendt.
+#facs_242_r3l16 Dir demnach befelhende, disl. vnseren billichl. willen
+#facs_242_r3l17 vnd Ansecht zu menigliches Nachricht, offentlich von
+#facs_242_r3l18 Cantzlen publicieren Zwischen. Undt daß demselben Un¬
+#facs_242_r3l19 Verbrüchenlich vndt flyßig nachgelebt werde, ernstliche
+#facs_242_r3l20 handt obgehaltl. darnach wüse die Zehalten. Datum
+#facs_242_r3l21 9 Januarij 1620
+#facs_243_r2l1 Morser, Newig, undt Jfferdten
+#facs_243_r2l2 Schuldtheil und dsats.
+#facs_243_r2l3 Demnach wie berichtet worden, das unserer Eidt,
+#facs_243_r2l4 von Solothurn Burgere Bösenwald vndt Subl.
+#facs_243_r2l5 für Ihre particular persohnen Vnseren, mit
+#facs_243_r2l6 Den Frantzösischen Fermieren, getroffenen Saltz¬
+#facs_243_r2l7 tractat zuwider zu merklichen Schaden
+#facs_243_r2l8 vndt verhinderung deselben, verschinnen
+#facs_243_r2l9 Jahrs auch einen Tractat vff etliche
+#facs_243_r2l10 Anzahl Saltzes, undt zwar vmb etwas
+#facs_243_r2l11 In höheren neyß yngangen undt erhalte
+#facs_243_r2l12 Darzu sie dann einen Waetgenant, von
+#facs_243_r2l13 Markisch zu Biel wohnende, als zur
+#facs_243_r2l14 fertigung gebruchend, daher es kompt
+#facs_243_r2l15 Der ermelte Fermiers vns die begehrt
+#facs_243_r2l16 vndt versprochene anzahl in Vergangnen
+#facs_243_r2l17 Jahren nit realiter geliferet, gestalten
+#facs_243_r2l18 stux, by den 34000 minods vf standen
+#facs_243_r2l19 Habendt wie nit umb ganz nennen
+#facs_243_r2l20 können die deßen Zeberichten, vndt
+#facs_243_r2l21 ..
+#facs_243_r2l22 daby zebefelchen, ermelten Bösenwald,
+#facs_243_r2l23 Zum undt Warten von Markrich Ihr Saltz,
+#facs_243_r2l24 y by die durchzusertigen und erstehen
+#facs_243_r2l25 möchtend, als priuat Saltz Im arrest
+#facs_243_r2l26 Zenommen, vff das win vnseren Vnstandt
+#facs_243_r2l27 Dardurch destobas befürdern, vfndt also
+#facs_243_r2l28 zu ruheren handen bringen mögend. Es ist
+#facs_243_r2l29 Aber hieby vnser verstand nit, das was
+#facs_243_r2l30 seyburg undt Sollothurn, als dem Stand
+#facs_243_r2l31 gehörig ist, welche in gleichen Zeit mit vier
+#facs_243_r2l32 tractiert: Sonders allen obigen vnndt
+#facs_243_r2l33 anderer privats persohnen particular que si
+#facs_243_r2l34 vint zwerb berufet, begriffen sein solle.
+#facs_243_r2l35 Datum 20 January 1640.

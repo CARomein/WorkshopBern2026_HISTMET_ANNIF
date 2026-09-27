@@ -1,0 +1,40 @@
+BER.01.001.2739
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 31/31
+# High similarity (>=50%): 24
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_271_r5l1 l'il
+#facs_271_r5l2 r
+#facs_271_r5l3 1
+#facs_271_r8l1 ,
+#facs_271_r8l2 2
+#facs_271_r8l3 1
+#facs_271_r8l4 h=
+#facs_271_r8l5 3
+#facs_271_r8l6 7t
+#facs_272_r1l1 530.
+#facs_272_r1l2 Collath
+#facs_272_r2l1 An alle T- und W. Ambtleüt.
+#facs_272_r2l2 Zu befehlen den heürigen Capitlen
+#facs_272_r2l3 ohnfahl fahrlich bey zwohnen.
+#facs_272_r2l4 Schultheiß und Raht der Statt Pern,
+#facs_272_r2l5 Dielweilen heüriges Jahr die gewohnte
+#facs_272_r2l6 Zeit zu haltung der Capitlen aber
+#facs_272_r2l7 wohlen härbey rücket; Als habendt
+#facs_272_r2l8 Wir den Decanen befehlchlichen aufge¬
+#facs_272_r2l9 tragen, die anstalt zuverschaffen, daß
+#facs_272_r2l10 Selbige auf gewohnte Zeit versamblet
+#facs_272_r2l11 und die vorfallende Geschäffte vorhandlet
+#facs_272_r2l12 werdindt; dessen wir dich, gleich andere
+#facs_272_r2l13 Vnsere Ambtleüt verständigend, mit
+#facs_272_r2l14 Dem befolch, daß du sothaner Versamblung
+#facs_272_r2l15 mit hindansetzung aller anderen
+#facs_272_r2l16 geschäfften beywohnen, und handobhalten
+#facs_272_r2l17 sollest, daß die geschafft erforderlicher
+#facs_272_r2l18 und gebührender massen vorhandlet,
+#facs_272_r2l19 und den actis einverleibet werdind.
+#facs_272_r2l20 Stott mit dix. Datx. 27 Marty 1700.

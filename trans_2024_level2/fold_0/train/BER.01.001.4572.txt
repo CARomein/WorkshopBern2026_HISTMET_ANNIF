@@ -1,0 +1,95 @@
+Law nr: BER.01.001.4572
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 84/84
+# High similarity (>=80%): 80
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_172_r4l1 Serordnung
+#facs_172_r4l2 wegen den Sierbrauereyen, Dierstublinen
+#facs_172_r4l3 um Bieraußschenbs.
+#facs_161_r3l6 Wir Schultheiß und Rath der Stadt
+#facs_172_r4l5 Hern thun kund hiermit; das, in der Absicht
+#facs_172_r4l6 den vielfaltigen Anordnungen und Miß¬
+#facs_172_r4l7 bräuchen Schrauten zu sezen, welche in
+#facs_172_r4l8 Der Haupt Stadt und deren Bezirk bey
+#facs_172_r4l9 dem Ausschenken des Riers entstanden
+#facs_172_r4l10 eind, und noch täglich zu nehmen. Wir be¬
+#facs_172_r4l11 wogen worden, folgendes zu verordnen:
+#facs_172_r4l12 4. vor allem aus sollen die Bierbrauereyen
+#facs_172_r4l13 under die Clas der Ehehafften gesezt und
+#facs_172_r4l14 ohne förmlich von Uns dazu erhaltene
+#facs_172_r4l15 Concession, fürohin derselben keine mehr
+#facs_357_r2l6 entrichtet werden.
+#facs_172_r4l17 Sollen allen Uns bürgeren und Hinderfäße
+#facs_172_r4l18 so kein besonderes Recht besitzen, der sei
+#facs_172_r4l19 kauf des Diers, wir andern Betränbs
+#facs_172_r4l20 in der Stadt und in demStadtbezirk, bey
+#facs_172_r4l21 Straf der Confiscation und Zutung
+#facs_172_r4l22 der Tolleranz, verbotten seyn.
+#facs_172_r4l23 3° Soll solchen desfals von seiten der Bur¬
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r6l1 5
+#facs_9_r6l1 33
+#facs_172_r7l2 gerschafft, weder der Namen geliehen¬
+#facs_172_r7l3 noch mit ihnen in Gemeinschaft ge¬
+#facs_172_r7l4 tretten werden, bey vierzig Pfunden
+#facs_12_r8l14 B
+#facs_172_r7l6 Ist den hiesigen Sürgeren der Bierver¬
+#facs_172_r7l7 kauf für ihre eigene Rechnung in
+#facs_172_r7l8 der Stadt nicht aber in dem Stadl
+#facs_172_r7l9 bezirk, zwar erlaubt; doch soll das
+#facs_172_r7l10 Hier in oßenen Kelleren, bey aus¬
+#facs_172_r7l11 gestebtem Tannlin, nicht aber
+#facs_172_r7l12 Stuben oder Bünachen, ausgeschenkt¬
+#facs_172_r7l13 und darbey kein Casae, starbe Ge¬
+#facs_172_r7l14 stränke und dergleichen verwirrtet, auch
+#facs_172_r7l15 In ansehen der Zeit, die übliche Polizey
+#facs_172_r7l16 beobachtet werden, bey einer Puston
+#facs_172_r7l17 zehn bis vierzig Pfunden in Recidive
+#facs_172_r7l18 fällen.
+#facs_172_r7l19 Der Bierverbauf in der Stube dann
+#facs_172_r7l20 woll nur gestattet seyn, den Tavernen
+#facs_172_r7l21 Gesellschafften und privilegierten Pin¬
+#facs_172_r7l22 enschenken, denne den Saßdenbeken¬
+#facs_172_r7l23 in ihren Rachstuben, und den Rier sie
+#facs_172_r7l24 deren in ihren Brauhänseren, alles nach
+#facs_172_r7l25 ihren habenden Rechten und besonderen
+#facs_122_r4l19 zur
+#facs_172_r7l27 Vorschrifften
+#facs_173_r1l1 335.
+#facs_173_r3l1 Zur Aufsicht und Handlabung dieser Verord¬
+#facs_173_r3l2 nung dann, und zu Testrafung der Über¬
+#facs_173_r3l3 trettungen bestellen wir unsere ver¬
+#facs_173_r3l4 ordnete Ohmgeldkammer
+#facs_173_r3l5 Welche Verordnung hiemit zu jedermans
+#facs_173_r3l6 Verhalt kund gemacht wird. Geben den
+#facs_173_r3l7 5ten Frachmonats 1785.
+#facs_21_region_1633454498812_2865l23 Canzleyvern.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_173_r3l10 alle Teütsche Herren Amtleute, denne an
+#facs_173_r3l11 die 4. Herren T. wegen den Landgerichten.
+#facs_173_r3l12 Kirchen Visitationen
+#facs_175_r3l20 Schultheiß und Rathen.
+#facs_173_r3l14 Und ist hinderbracht worden, daß bey
+#facs_173_r3l15 Abhaltung der gewohnten Visitationen der
+#facs_173_r3l16 Pfarrherren, die vorgesezte und Haus¬
+#facs_173_r3l17 wätten sich öffters nichher oder in sehe ge¬
+#facs_173_r3l18 ringer Anzal dabey einfuden
+#facs_173_r3l19 da nun Unser Wille ist, das die
+#facs_173_r3l20 vorge sezte und Hausvärter sich bey denen
+#facs_173_r3l21 Visitationen fleißig einfinden sollen, so
+#facs_173_r3l22 tragen Wir Euch befelchlich auf, diejenigen
+#facs_173_r3l23 von ihnen so an denenselben anwesend
+#facs_371_r1l1 726
+#facs_173_r5l2 seyn werden, jelweilen aufzuschreiben, die
+#facs_173_r5l3 außbleibenden aber, vor Eüch zu be¬
+#facs_173_r5l4 scheiden, ihnen einen scharfen Verweis
+#facs_173_r5l5 zu ertheilen, und zu könstiger Fleißi¬
+#facs_173_r5l6 ger Erscheinung ernstgemeint anzu¬
+#facs_173_r5l7 mähern. Dat. 30 Junius 1783

@@ -1,0 +1,492 @@
+Law nr: BER.01.001.4576
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 480/480
+# High similarity (>=80%): 419
+# Low similarity (<80%): 61
+# Not found: 0
+#
+#facs_186_r4l9 Mandat videp: 375
+#facs_186_r4l10 des Fürbaufs der kleinen
+#facs_186_r4l11 betref
+#facs_12_r8l3 in
+#facs_186_r4l13 Rich. Waar
+#facs_36_r3l7 Schultheiß und Rath
+#facs_186_r4l15 der Stadt und Repirblit Bern; Thun
+#facs_186_r4l16 bund hiemit; demnach Wirsteit ge¬
+#facs_186_r4l17 äumer Zeit wahrnehmen müßen,
+#facs_186_r4l18 daß der schädliche Fürbauf des
+#facs_186_r4l19 bleinen Viehe, als Kälber und Schaafe,
+#facs_186_r4l20 daß
+#facs_186_r4l21 stostarb überhand genommen,
+#facs_186_r4l22 solcher dem ganzen Publibo über
+#facs_186_r4l23 laubt und dem Mesger-Handlerb
+#facs_186_r4l24 ins besondere zum größten Nachtheil
+#facs_187_r2l1 gereichet; Als haben Wir nötig er¬
+#facs_47_r1l1 86.
+#facs_187_r2l1 gereichet; Als haben Wir nötig er¬
+#facs_187_r2l2 achtet, diesem Übel durch gegenbar
+#facs_187_r2l3 tige verordnung Einhalt zu thun, und
+#facs_187_r2l4 von einem Jun anderen zu erkennen,
+#facs_187_r2l5 wie folget, und Ivan.
+#facs_187_r2l6 I. Soll den Meisteren Klein Mäy¬
+#facs_187_r2l7 ger. Handwerbs, den ödgnösischen,
+#facs_187_r2l8 tolvohl als den unheimischen, erlaubt
+#facs_187_r2l9 und bewilliget seyn, das erfordere
+#facs_187_r2l10 liche Quantum zu Beforgung ihn
+#facs_187_r2l11 rer Bänke, sowohl durch sich als
+#facs_187_r2l12 ihre Knechte, aller Orten, wo es ihnen
+#facs_187_r2l13 beliebig, einzubaufen; mit dem
+#facs_187_r2l14 Heiterin Vorbehalt jedoch, daß so
+#facs_187_r2l15 wohl sie als ihre Knechte, jeder
+#facs_187_r2l16 Zeit mit authentischen Scheinen
+#facs_187_r2l17 von der Meisterschaft, oder in deren
+#facs_187_r2l18 Ermanglung von dem Magistrat
+#facs_187_r2l19 oder dem Amtmann des Orts bestigelt,
+#facs_187_r2l20 versehen seyen; einfolglich ihnen
+#facs_187_r2l21 gleich allen Händlern, aller für
+#facs_187_r2l22 bauf und Handel, unter was Verband
+#facs_3_region_1627936339514_16l1 1
+#facs_10_r3l1 36
+#facs_187_r3l2 es immer seyn mag, allerdings vor
+#facs_187_r3l3 botten seyn, und in Widerhandeln
+#facs_187_r3l4 dem Fall, ein solcher gleich einem
+#facs_187_r3l5 Händler angesehen werden.
+#facs_187_r3l6 II. Die Bauren und Händler dann
+#facs_187_r3l7 willen dahin gehalten seyn, beim
+#facs_187_r3l8 Kalber zum Wiederberbauf anzu¬
+#facs_187_r3l9 baufen, es seye dann Dach, daß
+#facs_187_r3l10 sie solche zu beßerer Mastung drey
+#facs_187_r3l11 Wochen an ihrer Milch gehabt ha¬
+#facs_18_r5l19 benden.
+#facs_187_r3l13 Ullen Meisteren Meyger Hand
+#facs_187_r3l14 werbs hiesiger Hauptstadt, soll
+#facs_187_r3l15 zu gunsten derselben, noch für
+#facs_187_r3l16 bas, wie bis dahin geschehen, das
+#facs_187_r3l17 Zugrecht wider alle fremde Mezger,
+#facs_187_r3l18 so nicht Eidgenoßen sind, auch wie
+#facs_187_r3l19 der Fremde und innere für¬
+#facs_187_r3l20 kaufer, vorbehalten seyn, jedoch mit
+#facs_339_r3l15 Schreiben
+#facs_336_r2l7 ist, an euch hätte gelangen, und
+#facs_91_r4l33 Mehger
+#facs_187_r3l24 für vom Plaz haben, und dann
+#facs_186_r4l20 daß
+#facs_188_r1l1 365
+#facs_299_r2l13 und dergleichen, wie auch allen
+#facs_188_r2l2 ganzen Rauf, wir solcher ergangen,
+#facs_188_r2l3 annehmen, und nicht nur Abann ein
+#facs_188_r2l4 Stüb, so ihme beliebig, aus lesen
+#facs_188_r2l5 auch gleich dem ersten Käufer
+#facs_188_r2l6 baar bezahlen solle.
+#facs_188_r2l7 Alles bey Straf der Con¬
+#facs_188_r2l8 fisbation und jbanzig Pfund duß,
+#facs_188_r2l9 welche die Wiederhandlende zu be¬
+#facs_188_r2l10 Jahlen haben, und dabon ein Mittel
+#facs_188_r2l11 uns, der andere dem Amtmann des
+#facs_188_r2l12 Oats, und ein Drittel dem Verbis
+#facs_188_r2l13 der, darüber das sich der Geheim¬
+#facs_188_r2l14 haltung seines Nahmens zu getrüsten
+#facs_188_r2l15 hat, hinndienen soll. Welches hier
+#facs_188_r2l16 mit zu männiglichs Nachricht um
+#facs_188_r2l17 verhalt öffentlich kund gethan wird
+#facs_188_r2l18 Geben den 3ten December 1767. und aufs
+#facs_188_r2l19 Eristche bestätiget und zu publiciren
+#facs_188_r2l20 abefohlen den 29. August 1785
+#facs_65_r3l5 Canzley Bern.
+#facs_83_r3l6 en
+#facs_188_r3l1 366
+#facs_177_region_1633454910390_2979l23 = Translation.
+#facs_184_r3l2 Nous l'Avoyer et Conseil
+#facs_112_r3l23 de la Ville et Republique de Berne,
+#facs_188_r3l5 savoir faisons par les présentes
+#facs_188_r3l6 Qu'ayant observé depuis quelque tems
+#facs_188_r3l7 combien le dangereux manopole du petit
+#facs_188_r3l8 Betail, soit des Veaux et des Moutens
+#facs_188_r3l9 étoit usage, au grand Dommage de
+#facs_188_r3l10 tout le Public, et à celui des Bouchers
+#facs_188_r3l11 en particulier; Nous avons jugé être
+#facs_188_r3l12 necessaire, de faire cesser cet abus dom
+#facs_188_r3l13 mageable, par la présente Ordonnance,
+#facs_188_r3l14 et de statuer et ordonner comme suit, de
+#facs_188_r3l15 point en point
+#facs_188_r3l16 1° Il sera permis et concédé aux
+#facs_188_r3l17 Maitres Bouchers du petit Bétail tant
+#facs_188_r3l18 à ceux qui habitent dans les Terres du
+#facs_188_r3l19 Louable Corps Hélvetique, qua ceux du
+#facs_188_r3l20 Canton, dacheter soit par Eux-même, soit
+#facs_188_r3l21 par leurs Domestiques, en tous lieux où
+#facs_188_r3l22 il leur conviendra, la quantité du
+#facs_90_r6l20 Peter
+#facs_189_r1l1 367.
+#facs_189_r2l1 petit Betail qui leur est nécessaire pour
+#facs_189_r2l2 l'approvisionnement de leurs bancs de
+#facs_189_r2l3 Boucherie; sous la condition expresse ces
+#facs_189_r2l4 pendant, que tant Eux que leurs Domes
+#facs_189_r2l5 tiques, devront toujours être munis de tes
+#facs_189_r2l6 moignages authentiques, de la part de la
+#facs_189_r2l7 Maitrise, où à ce défaut, de la part du
+#facs_189_r2l8 Magistrat, ou du Baillif du Lieu, munis
+#facs_189_r2l9 de leurs sceaux. Leur déffendant en
+#facs_189_r2l10 conséquence, très expressément ainsi qu’a
+#facs_189_r2l11 tous Monopoleurs, ou Revendeur, de faire
+#facs_189_r2l12 aucun mirnopole ou commerce, sous quel¬
+#facs_189_r2l13 que pretexte que ce puisse être, Sous
+#facs_214_r3l18 peine, en cas de contrevenance, d’etre envoyé
+#facs_189_r2l15 visage tout comme un monopoleur
+#facs_189_r2l16 2° Les Païsans et Gens qui font
+#facs_189_r2l17 ce Commerce, seront tenus à ne pous
+#facs_189_r2l18 voir acheter aucun veau, pour les revendre
+#facs_189_r2l19 à moins que pour bonnes raisons, ils ne
+#facs_189_r2l20 les ayent pour meilleur engrais, nourir
+#facs_189_r2l21 l'espace de trois semaines du Lait de leurs
+#facs_109_r6l30 nach¬
+#facs_189_r2l23 Le droit de retrait sera conservé comme
+#facs_136_r2l28 die
+#facs_10_r3l1 36
+#facs_189_r3l2 du passé à tous les Maitres Bouchers
+#facs_189_r3l3 de cette Capitale, vis-à-vis de tous les Bou-
+#facs_189_r3l4 chers qui ne sont pas de la Suisse, ainsi
+#facs_189_r3l5 qua légard des Revendeurs tant du Païs
+#facs_189_r3l6 qu’Etrangers, sous la réserve cependant, que
+#facs_189_r3l7 ce Droit de retrait ne pourra avoir lieu
+#facs_189_r3l8 dans les jours de foire annuels, contre les
+#facs_189_r3l9 Bouchers du dehors; et aussi, que celui qui
+#facs_189_r3l10 voudra faire le retrait, aye à accepter toute
+#facs_189_r3l11 la vente telle quelle aura été faite, et nous
+#facs_189_r3l12 de pouvoir choisir à son gré telle ou telle
+#facs_189_r3l13 pièce, et devra être tenu de rembourser aussi-to.
+#facs_189_r3l14 en comptant le premier acheteur, du prix
+#facs_189_r3l15 quil en aura payé
+#facs_302_r3l21 de cette espece, ainsi qu'a tous
+#facs_215_r2l17 & de vingt livres d'amende, payables par
+#facs_189_r3l18 les Contrevenants; dont un tiers devra nous re-
+#facs_111_r2l12 den Sünden und Castern, die allen
+#facs_189_r3l20 un tiers au Delateur, outre le secret de son
+#facs_354_r2l7 und Spitthal Directory.
+#facs_305_r3l14 par les voitures et voies ordinaires
+#facs_206_r1l12 den Weltschen Amtleüthen
+#facs_179_region_1633454973166_3014l13 Chancelerie de Berne
+#facs_189_r3l25 Aout 1788
+#facs_190_r1l1 369
+#facs_100_r2l1 soll.
+#facs_108_r2l2 0
+#facs_4_r1l1 2
+#facs_190_r4l1 A 11 alle deutsche und Woltsche
+#facs_190_r4l2 Herren Amtleute, Schafner und Cam¬
+#facs_190_r4l3 mern, die Rechnungen abzulegen.
+#facs_80_r3l6 haben.
+#facs_119_r2l24 Rechnungs-Ablagen
+#facs_36_r3l7 Schultheiß und Rath
+#facs_190_r4l7 In Ablag Euerer heurigen Amts Rech¬
+#facs_52_r4l3 deutschen
+#facs_190_r4l9 nung vor Unserer Wälschen
+#facs_190_r4l10 Cammer haben Wir bestimmt auf N. N.
+#facs_190_r4l11 nächst könftigen Jahrs, und deßen Euch
+#facs_190_r4l12 berichten wollen, mit Befohl auf obbe¬
+#facs_190_r4l13 stuntm Tag, solche also fertig zu
+#facs_190_r4l14 halten, (an die deutschen Herren
+#facs_190_r4l15 Amtbut :/: daß solche 14. Tag von dero
+#facs_190_r4l16 Ablag, solche mit denen nothwendigen
+#facs_190_r4l17 Beylagen verstehen Unserm Suchhal¬
+#facs_190_r4l18 be in der deutschen Sebelschreiberey
+#facs_190_r4l19 zur Erdauerung eingehändiget, und solche
+#facs_190_r4l20 dann auch beitres communicat werden
+#facs_190_r4l21 käme :/ an die Welschen Herren Amt
+#facs_190_r4l22 lent :/ daß Ihr solche gebührenden
+#facs_190_r4l23 Oats 14. Tag von der Ablag Communiciren
+#facs_119_r3l17 und das einte doppel davon samt
+#facs_190_r4l25 allen
+#facs_190_r7l1 370
+#facs_190_r7l3 allen Beylagen zur Justification
+#facs_190_r7l4 die Welsche Sebelschreiberey übergeben.
+#facs_190_r7l5 könnet. Datum d. 29ten Aug. 1785
+#facs_53_r3l1 Rechnungs Tagen
+#facs_190_r7l7 pro 1786.
+#facs_190_r7l8 Januarius
+#facs_190_r7l9 4. Interlaber Haus
+#facs_7_r2l12 18
+#facs_54_r9l15 Mitbochen
+#facs_190_r7l12 6 St. Johanfer Haus
+#facs_190_r7l13 16. Silberhandlung
+#facs_190_r7l14 7. Frimsberger Haus¬
+#facs_190_r7l15 19th:
+#facs_53_r9l3 Donstag
+#facs_190_r7l17 Dito.
+#facs_190_r7l18 Kornhero
+#facs_14_region_1627971805407_36l1 23
+#facs_190_r7l20 Buren
+#facs_53_r3l21 Montag
+#facs_190_r7l23 2 R. Kranbensaus
+#facs_8_r2l3 25
+#facs_53_r3l8 Mitwochen
+#facs_304_r2l24 signé
+#facs_4_r8l9 a
+#facs_266_r3l37 5. Nydau
+#facs_4_r7l1 4
+#facs_53_r3l24 3 Winnis
+#facs_8_r3l1 26
+#facs_53_r9l3 Donstag
+#facs_53_r3l25 Allmosten Secret.
+#facs_120_r2l10 Büchsen Allmose
+#facs_16_r11l1 27
+#facs_53_r9l9 Freytag
+#facs_190_r7l37 4. Wistlisburg
+#facs_191_r1l1 371.
+#facs_53_r2l1 No
+#facs_191_r2l2 4. Demis Wald
+#facs_91_r4l8 Laupen
+#facs_80_r3l16 bestimmen.
+#facs_191_r2l5 4 Oberhofen
+#facs_191_r2l6 5. Peterlingen
+#facs_191_r2l7 5 Aarberg
+#facs_191_r2l10 1. dito
+#facs_191_r2l9 7. König.
+#facs_191_r2l10 1. dito
+#facs_191_r2l11 3 Inteolaten
+#facs_53_r8l3 Untersten
+#facs_68_r4l49 Milden,
+#facs_266_r4l26 Trachselbald
+#facs_266_r4l28 Ruchter
+#facs_191_r2l16 6 Bottstatt
+#facs_192_r2l24 1 dit
+#facs_53_r8l9 Landshut
+#facs_191_r2l19 4 Oron
+#facs_53_r8l8 Burgdorf.
+#facs_192_r1l1 pls
+#facs_191_r2l22 4 Boandis
+#facs_191_r2l23 4. Mushafen
+#facs_53_r8l16 Fraubrunnen
+#facs_191_r2l25 3 Roche
+#facs_54_r9l15 Mitbochen
+#facs_53_r9l14 de sonsten
+#facs_53_r9l9 Freytag
+#facs_53_r3l8 Mitwochen
+#facs_120_r4l7 Lonstag
+#facs_53_r9l9 Freytag
+#facs_53_r3l8 Mitwochen
+#facs_130_r2l23 zugeben.
+#facs_53_r3l47 Freitag
+#facs_53_r3l21 Montag
+#facs_171_r3l24 = mit
+#facs_54_r7l1 febr.
+#facs_191_r4l2 den 1
+#facs_8_r2l3 25
+#facs_191_r4l4 3t
+#facs_43_r2l7 8
+#facs_7_r7l1 9
+#facs_8_r1l1 10
+#facs_7_r2l12 18
+#facs_11_r1l1 16
+#facs_11_r6l1 17
+#facs_7_r5l1 20
+#facs_7_r3l1 22
+#facs_4_r4l1 3.
+#facs_90_r3l1 N°
+#facs_4_r6l1 5
+#facs_4_r6l1 5
+#facs_6_region_1627936574015_66l1 6
+#facs_7_r4l1 21
+#facs_4_r1l1 2
+#facs_6_region_1627936574015_66l1 6
+#facs_4_r4l1 3.
+#facs_4_r7l1 4
+#facs_53_r8l13 Thun Schloß.
+#facs_191_r9l2 dito Schafnerey
+#facs_357_r2l7 VI.
+#facs_53_r8l19 Neuenstadt
+#facs_53_r8l17 Thorberg
+#facs_191_r9l6 7. Aarburg Schloß.
+#facs_190_r7l17 Dito.
+#facs_191_r9l8 Dito Garnison
+#facs_191_r9l9 Stift Bern
+#facs_54_r5l8 Frutigen
+#facs_90_r11l14 pferten
+#facs_4_r4l1 3.
+#facs_121_r6l11 5. d. Weinschenk
+#facs_4_r4l1 3.
+#facs_191_r9l15 Zofingen
+#facs_6_region_1627936574015_66l1 6
+#facs_191_r9l17 6. St, Johann per
+#facs_120_r3l22 Aarwangen
+#facs_6_region_1627936574015_66l1 6
+#facs_120_r3l24 4 Allmosen Directo¬
+#facs_4_r6l1 5
+#facs_120_r3l25 Exulanten Cammer
+#facs_124_r5l41 r
+#facs_4_r4l1 3.
+#facs_68_r8l35 Romainmotier
+#facs_6_region_1627936574015_66l1 6
+#facs_191_r9l28 Manger
+#facs_4_r1l1 2
+#facs_191_r9l30 Foisnisberg
+#facs_120_r3l38 Erlach
+#facs_53_r3l27 Sonstag
+#facs_92_r4l12 Sparer
+#facs_53_r3l21 Montag
+#facs_267_r3l24 Mitwachen
+#facs_53_r9l3 Donstag
+#facs_53_r9l9 Freytag
+#facs_53_r3l21 Montag
+#facs_171_r3l24 = mit
+#facs_53_r9l3 Donstag
+#facs_53_r9l9 Freytag
+#facs_53_r3l21 Montag
+#facs_53_r3l8 Mitwochen
+#facs_47_r4l1 87
+#facs_191_r11l2 Februarius
+#facs_8_r2l3 25
+#facs_8_r2l2 24
+#facs_16_r11l1 27
+#facs_192_r4l1 Martius
+#facs_191_r11l7 1t
+#facs_4_r1l1 2
+#facs_7_r7l1 9
+#facs_6_region_1627936574015_66l1 6
+#facs_191_r11l11 8t
+#facs_7_r7l1 9
+#facs_8_r1l1 10
+#facs_4_r10l1 13
+#facs_191_r11l15 5t
+#facs_195_r1l1 379.
+#facs_54_r5l30 4 Holzlieferung
+#facs_120_r3l44 14. Ziegelverwalter
+#facs_267_r2l26 11. Schallenhaus
+#facs_4_r6l1 5
+#facs_54_r5l22 Lausanne
+#facs_192_r2l7 Zinghaus
+#facs_67_r1l1 126
+#facs_192_r2l9 Pulber verwalter
+#facs_54_r8l5 Biberstein Schloß
+#facs_120_r3l2 Dto Schaffnerey
+#facs_54_r8l5 Biberstein Schloß
+#facs_191_r2l10 1. dito
+#facs_91_r6l21 Morsel
+#facs_54_r8l9 Kaufhaus
+#facs_54_r8l10 Abzug
+#facs_192_r2l17 2. Giltis wyl.
+#facs_192_r2l18 7. Daanen
+#facs_191_r2l10 1. dito
+#facs_192_r2l21 5 Arlen
+#facs_192_r2l22 2 aubonne
+#facs_54_r8l24 Schenbauberg
+#facs_3_region_1627936339514_16l1 1
+#facs_54_r8l20 Castelen
+#facs_192_r2l26 5. Königsfolden
+#facs_68_r6l2 holl.
+#facs_371_r2l15 belise
+#facs_54_r8l27 Bonmont
+#facs_192_r2l24 1 dit
+#facs_53_r9l3 Donstag
+#facs_53_r9l9 Freytag
+#facs_53_r3l21 Montag
+#facs_171_r3l24 = mit
+#facs_53_r9l9 Freytag
+#facs_53_r3l21 Montag
+#facs_53_r9l3 Donstag
+#facs_53_r9l9 Freytag
+#facs_53_r3l44 Montag den
+#facs_267_r3l5 Mitboche
+#facs_53_r3l15 Donsag
+#facs_130_r3l27 sey.
+#facs_192_r4l1 Martius
+#facs_192_r4l2 d 16b
+#facs_11_r6l1 17
+#facs_44_r1l1 80
+#facs_7_r3l1 22
+#facs_8_r2l2 24
+#facs_16_r11l1 27
+#facs_8_r5l1 30
+#facs_9_r3l1 31
+#facs_192_r4l10 Aprilis
+#facs_191_r4l4 3t
+#facs_4_r6l1 5
+#facs_6_region_1627936574015_66l1 6
+#facs_192_r4l14 7t.
+#facs_10_r7l1 37
+#facs_192_r5l2 Rechnungen nach Osteren.
+#facs_3_region_1627936339514_16l1 1
+#facs_267_r5l35 Mayus.
+#facs_53_r3l8 Mitwochen
+#facs_192_r5l6 Bauamt
+#facs_267_r5l42 Groß Spithal
+#facs_8_r1l1 10
+#facs_267_r3l5 Mitboche
+#facs_54_r8l35 8 Insel
+#facs_267_r5l47 Große Salz Rechnung
+#facs_8_r9l1 11
+#facs_120_r3l38 Erlach
+#facs_90_r3l1 N°
+#facs_192_r5l15 25. Koonke
+#facs_192_r5l16 23. Schuldeter
+#facs_11_r1l1 16
+#facs_53_r3l21 Montag
+#facs_55_r4l9 5. Taxgelder.
+#facs_192_r5l20 Straßen Rechnung
+#facs_11_r6l1 17
+#facs_14_region_1627971805407_36l1 23
+#facs_191_r3l7 Mitbrechen
+#facs_192_r5l24 6. Landfaßen Cammer
+#facs_192_r5l25 Umgelt, Auß: Bezirb,
+#facs_8_r1l1 10
+#facs_7_r2l12 18
+#facs_53_r9l3 Donstag
+#facs_192_r5l29 Dito immer Bezirk
+#facs_55_r4l26 Augusts
+#facs_55_r4l25 Stadtwacht
+#facs_6_region_1627936574015_66l1 6
+#facs_192_r5l33 Weysenhaus
+#facs_11_r1l1 16
+#facs_171_r3l24 = mit
+#facs_192_r5l37 Stadt Umgelt
+#facs_4_r4l1 3.
+#facs_192_r5l39 4 Böspfannung
+#facs_11_r6l1 17
+#facs_53_r9l3 Donstag
+#facs_192_r5l42 Kirchmeyer v. 3.
+#facs_4_r6l1 5
+#facs_192_r5l44 Novembris
+#facs_192_r5l45 6. Teilzig Weinschenb.
+#facs_192_r5l46 30t
+#facs_53_r9l3 Donstag
+#facs_192_r5l48 6. Gros Allmaßner.
+#facs_192_r5l49 2 Oberfasler
+#facs_42_r3l10 An alle
+#facs_356_r3l1 97
+#facs_100_r2l1 soll.
+#facs_196_r2l3 o
+#facs_221_r1l2 alle deutsch und welsche Herren
+#facs_260_r5l9 Amtleute, Freyweibel und Amann
+#facs_193_r3l3 Item Grandson und Ockbarfenburg,
+#facs_193_r3l4 wegen Fürbauf der kleinen Vieh Waar
+#facs_36_r3l7 Schultheiß und Rath
+#facs_193_r3l6 Auf die von der E: Meisterschaft des Klein¬
+#facs_193_r3l7 Meggen Handwerbs in hier und gemachte Drin¬
+#facs_193_r3l8 ende Vorstellungen, haben Wir gut befunden,
+#facs_193_r3l9 das unterm 3. Christmonat 1767 ausge¬
+#facs_193_r3l10 angene Verbott, in Absicht auf den Fürkauf
+#facs_193_r3l11 der kleinen Viehbaar, nach vorgegangener aber
+#facs_193_r3l12 nähliger Erdauerung deßelben, aufs frische
+#facs_193_r3l13 guth zu heißen und zu bestättigen, wie anschluß
+#facs_193_r3l14 ausweiset. Mit Zufendung genügt
+#facs_193_r3l15 Cammer Exemplarien von dieser Verordnung befeh¬
+#facs_193_r3l16 len Wie Euch, solche aufs frische von
+#facs_193_r3l17 Canzeln verlesen, gebohnter Orten Anstehl auf
+#facs_193_r3l18 ein, auch wo dieselbe nicht bereites einge¬
+#facs_193_r3l19 schrieben sich befindt, solche samt gegenbar
+#facs_193_r3l20 tigen Schreiben seines Orts einschrieben, und
+#facs_193_r3l21 invigilieren zu laßen, daß solchem nachgelebt,
+#facs_193_r3l22 werde, auch in Verfallenheiten solche in Execution
+#facs_193_r3l23 zusehen den 29ten Augusti 1785
+#facs_193_r3l24 Zürich-Lusern, Basel, Frgburg, Solo
+#facs_193_r3l25 Thirrn, Biel, Genf, Neirenburg und
+#facs_193_r3l26 Neuenstatt, an die dortigen Cantzleyen, Ihnen
+#facs_193_r3l27 sind auch Abdruke von obigen Mandat zu Handen Ihr
+#facs_193_r3l28 Meisterschaft Mzger Handwerk überstandt worden
+#facs_193_r3l29 Vide fichor pag: 362 et seyn
+#facs_128_r2l20 solle.
+#facs_196_r2l3 o

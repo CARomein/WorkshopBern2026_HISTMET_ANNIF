@@ -1,0 +1,94 @@
+Law nr: BER.01.001.0542
+Name: An Tütsche und Weltsche Amptlütt der Enden da Getreidt vorhanden. Item der Strassen Verbesserung halb.
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 84/84
+# High similarity (>=50%): 83
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_88_r2l7 =3
+#facs_88_r2l8 In Tütsche und weltsche Amptlütt der
+#facs_88_r2l9 and da getreidt rhanden, denn der
+#facs_88_r2l10 trassen Verbherung halb
+#facs_88_r2l11 In Demnach uns glonbwurdig fürkomen
+#facs_88_r2l12 das etliche vnserer vernachtigten durch die
+#facs_88_r2l13 Hodler vnd andere bestelte parsohnen wie auch die
+#facs_88_r2l14 Cosseren vnd frömbden vnderstandindt, Korn
+#facs_88_r2l15 so Ich Gottloll wolfeil, mit schwal vff zukaufft
+#facs_88_r2l16 vnd vss dem land zeuertigen, dasselbig vffze¬
+#facs_88_r2l17 schutten vnd vff Ire gelegenheit zubehalten
+#facs_88_r2l18 undt Wir vss Oberkeitlicher pflicht ver¬
+#facs_88_r2l19 ursachet worden, zu fürkommung der besorgenden
+#facs_88_r2l20 thürung und mangels desselben nach
+#facs_88_r2l21 volgend gecürend Insechen, (wie vor
+#facs_88_r2l22 Jahrenn auch beschechen) Zethun, Erstlich
+#facs_88_r2l23 wir denen und er Amptlutthen, vnd
+#facs_88_r2l24 bestaltten vffsecheren der Maritten ganz
+#facs_88_r2l25 ernstig bevelchend vff die vernachpart
+#facs_88_r4l1 162
+#facs_88_r4l2 Esseren vnd frombden hödler vnd vff keuffer dess
+#facs_88_r4l3 getreidts, mercklich zwachen, vnd denselben nit allein
+#facs_88_r4l4 Innert bestimpten Stunden vnnd vor unnd ahn
+#facs_88_r4l5 die Vnseren sich versächen, kein konff zugestandten
+#facs_88_r4l6 Sondt oms hernach nitt meher vnnd wichers dann
+#facs_88_r4l7 Für Iren nothwendigen hußbruch, vnnd vff gloub¬
+#facs_88_r4l8 wirdigen Schijn, die sich von Ir oberkeiten, haben
+#facs_88_r4l9 vnnd zeigen sollen das sij mitt dem korn so sey
+#facs_88_r4l10 Zekouffen begärend, kein Fürkouff gwün noch
+#facs_88_r4l11 trijben noch dasselbig uffschudten oder an vnseren
+#facs_88_r4l12 rath fuhre. Sonders allein für Ir vnnd freyen¬
+#facs_88_r4l13 derthanen noethurfft kouffan vnnd bruchen wel¬
+#facs_88_r4l14 lindt zijn vnnd vffgekouffen zuzulaßen, Sonderlich
+#facs_88_r4l15 aber vff zusechen das weder vnser nachbaren ver¬
+#facs_88_r4l16 pundtete nach vnsere einich getreidt by den huserer
+#facs_88_r4l17 bestellindt vff rauffind vnnd hinweg füchrim¬
+#facs_88_r4l18 Unnd so Jemand darwider handlen wurde das
+#facs_88_r4l19 erkaufft oder bestelt getreidt einmal In ver¬
+#facs_88_r4l20 Gott gelegen, vnnd vnns beschaffenheit solliches
+#facs_88_r4l21 Fürckouffs Zeuerstendigen. Dannenhin damit
+#facs_88_r4l22 wir wussen mögende was für vorhat, an aller
+#facs_88_r4l23 gattung getreidt In Vnseren hüßeren verhanden
+#facs_88_r4l24 vast du vnnd durch ein ordenliche verzeichnus
+#facs_88_r4l25 berichten, was für alts unnd müwes korn
+#facs_88_r4l26 vnnd andergetreidt, auch was vnnd wie vil brig
+#facs_88_r4l27 vnseren vnderthanen ußtahn möchte vorstendigt
+#facs_88_r4l28 beneben das Vstehnde mitt flijs vunderast
+#facs_88_r4l29 forderen vnnd Inzechen laßen, vnnt die vn¬
+#facs_88_r4l30 richtigen Sumseligen bezahler, mitt gefan¬
+#facs_88_r4l31 genschafft zur bezalung halten unnd ohne
+#facs_89_r2l1 Unseren ußtruckenlich bevelich eymichlei gattung
+#facs_89_r2l2 getreidt zeuerkouffen, Sonders also Im vor
+#facs_89_r2l3 schott zu behalten Deszglijchen die jenigen
+#facs_89_r2l4 vnsere vnderthanen, so noch unnd wolheben
+#facs_89_r2l5 nacherkundigung, was vorhat vnnd anzal¬
+#facs_89_r2l6 getreidt sich haben mögende, daß du vns
+#facs_89_r2l7 auch verstendigen solten zu vermannen dasel¬
+#facs_89_r2l8 big so wijth müglich auch andere vffgelegen¬
+#facs_89_r2l9 heit zubehalten vnnd sich nitt zuembloßen,
+#facs_89_r2l10 Behangend dan die landtstraßen, welche
+#facs_89_r2l11 durch Herrömung des Schees mechtig¬
+#facs_89_r2l12 verböseret vnnd zerzeugt werden möchten,
+#facs_89_r2l13 vnnd allbereidt verwustet sindt, Ist unser
+#facs_89_r2l14 gantz ernstiger beuelich an dich das du augsicht
+#facs_89_r2l15 disbriefs allen gemeinden diener ampes¬
+#facs_89_r2l16 pfläg die anpößen vnnd straßen geseßen,
+#facs_89_r2l17 vnnd dieselben zuerhalten schuldig sind be¬
+#facs_89_r2l18 vor wenig Jaren, vff gesezter buss. xx guldig
+#facs_89_r2l19 sollest, dieselben dergstalt furderlich zuuerbeßeren
+#facs_89_r2l20 vnnd versichern die Inhangenden stunden vnnd
+#facs_89_r2l21 Böum, wie auch die trolsteinn zu den straßen
+#facs_89_r2l22 hin Wag houwen vnnd Rumen dez heim¬
+#facs_89_r2l23 sche unnd frömbde, solliche ohne gefahr vnnd
+#facs_89_r2l24 schaden gebruchen mogindt vnnd vnns daher
+#facs_89_r2l25 vnser
+#facs_89_r2l26 kein klag fürkommen auch wurden wir dich, vnd
+#facs_89_r2l27 dine ampts anghrigen mitt erstattung unnd
+#facs_89_r2l28 vberträttung halb vnsers bevelchs mitt allein
+#facs_89_r2l29 nach gestalt der sachen straffen sonders auch
+#facs_89_r2l30 Zu Ersatzung entstandnen schaden veruellen,
+#facs_89_r2l31 Darnach Wus demselben zu furkommen vnd
+#facs_89_r2l32 vnserenn bevelich geforsamlich zu erstatten.
+#facs_89_r2l33 Datum II.
+#facs_89_r2l34 februarij 1614

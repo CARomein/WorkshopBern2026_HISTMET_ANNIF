@@ -1,0 +1,31 @@
+Law ID: BER.01.001.4637
+Name: Getreyd Einfuhr.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 20/20
+# High similarity (>=50%): 0
+# Low similarity (<50%): 20
+# Not found: 0
+#
+#facs_246_r1l1 there,
+#facs_246_r1l2 Coll.
+#facs_246_r2l1 On,
+#facs_246_r2l2 alle Teutschen- und Welschen
+#facs_246_r2l3 Herren Amtleute und 4. Städt¬
+#facs_246_r2l4 Betreyd Einfuhr.
+#facs_246_r2l5 Schultheiß Räth und Burger
+#facs_246_r2l6 Wir haben nothwendig erachtet, und
+#facs_246_r2l7 denen Umständen angemessen befun¬
+#facs_246_r2l8 den, (obgleich die Ernd durchgehends
+#facs_246_r2l9 Zimlich gut ausgefallen, und noch der
+#facs_246_r2l10 mahlen ungewiß, wie es mit der Saat
+#facs_246_r2l11 beschaffen seyn werde :/ den fragen
+#facs_246_r2l12 Kauf fremden Betreyds bis auf 1.
+#facs_246_r2l13 Augstl. 1789. Unsern Unterthanen an¬
+#facs_246_r2l14 mit zu bewilligen.
+#facs_246_r2l15 Desen ihr berichtet werdet, und
+#facs_246_r2l16 Euch in Vorfallenheiten darnach zu
+#facs_246_r2l17 verhalten, und solches gebohntermaßen
+#facs_246_r2l18 publiciren zu laßen. Datum d 3ten

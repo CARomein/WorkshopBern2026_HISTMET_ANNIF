@@ -1,0 +1,87 @@
+Law ID: BER.01.001.4946
+Name: Das m.G.H. denen Admodiatarien ire Vass zulassend, [...]
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 76/76
+# High similarity (>=80%): 57
+# Low similarity (<80%): 19
+# Not found: 0
+#
+#facs_30_r2l15 Ippendien
+#facs_140_r3l3 Roma
+#facs_171_r3l1 Konianistin, assentia Monney
+#facs_171_r3l2 den Comissarium betreffent
+#facs_171_r3l3 Und weil sich bemelte Unsere Besteher, Sonderlich
+#facs_171_r3l4 al den, Commissario Monney, erclagt, das derselbige Anlangst
+#facs_171_r3l5 ihnen Hinderrucks alhie erschienen, und etwas Prouision
+#facs_171_r3l6 als gebracht, und es krafft derselbe albernt etliche
+#facs_171_r3l8 liber, wider den Innhalt Irer admodiaon Componirt
+#facs_171_r3l9 vnd bezogen, und wyerer Zethun und erstain mochte
+#facs_171_r3l10 derwegen umb gegenfürfechung uns ersucht und ge¬
+#facs_171_r3l11 stetten: Habend wir zu Handthabung anzogner
+#facs_171_r3l12 durch ins hingegebnen admodiren, berurts Mönings
+#facs_171_r3l13 Inen Besteheren Hindereücks v. Bgebrachte Requision
+#facs_171_r3l14 offgehabt, und benelehen der Jun zugebietten, das war
+#facs_171_r3l15 er für Löber, krafft derselben componiet un¬
+#facs_171_r3l16 bezogen haben möchte, zuen den Besteherejangentz
+#facs_171_r3l17 restituiren, und sich fürthin derglichen Antiegation
+#facs_171_r3l18 und begriffs überhoben soll.
+#facs_171_r3l19 sen Übrigen. Werdendt wir durch geheime Ver¬
+#facs_171_r3l20 berichtet, als solte er commissaris Money, sidt den
+#facs_171_r3l21 Apprellen eitliche Löber, unrechtmessiger, vor¬
+#facs_171_r3l22 theiliger wys Componirt, bezogen, und wol so bald
+#facs_171_r3l23 schlechte Rechnung darumb gehalten haben, und sich
+#facs_171_r3l24 gegen eitlichen der Besteherein deßhalb ungleich
+#facs_171_r3l25 verluchen laßen, als ob er denselben, ime zu
+#facs_171_r3l26 Vortheil und Uns zu nachtheilt, etztlicher lebere
+#facs_171_r3l27 halb tractieren wolte, der wegen Beuelchend ei¬
+#facs_171_r3l29 Dir, diser Sach wie die beschaffen seyn möchte
+#facs_171_r3l30 eigentlich nachzufragen, und wo etwas vorge¬
+#facs_171_r3l31 bürlicher Composition beschehen wäre, dieselb¬
+#facs_171_r3l32 reuidieren und verbeßeren Zulaßen, und das
+#facs_171_r3l33 Lobgelt den Bestehern, es es zuen gehören ma¬
+#facs_171_r3l34 zu restituiren verschaffen, viel Uns gestaltsame daß
+#facs_171_r3l35 begangnen Thälers zuvierstendigen, die Unseren
+#facs_171_r3l36 Verneren willen darüber zuben solchen Datum 31sten
+#facs_171_r3l37 Kedel an Kanzob.
+#facs_171_r3l38 Dem nach mijn gnedig Herren
+#facs_172_r1l1 In die zwelischen Amptlück des m.a.
+#facs_172_r1l2 dann admodiatarien ihre lag zu lasend, sollent aber
+#facs_172_r1l3 denen welche sich wyn verlaufft gepiette, die von zuckstil
+#facs_172_r1l4 schuldchen etc. Es wird die und annderen Unseren, ma
+#facs_172_r1l5 Amptlichen welschen Landts, durch den Schryben
+#facs_172_r1l6 so wie verlangt an öch ergan laßen, kunstbare
+#facs_172_r1l7 an, wie das wir den Besteheren Unters zu kommen
+#facs_172_r1l8 Woltschen Landts, zu sammlung hörigen herpts zuge¬
+#facs_172_r1l9 laßen, das y die Jaß so mit Unserem Zeichen und
+#facs_172_r1l10 Unserer Hüseren gezeichnet, an allen Dethen, wo sie
+#facs_172_r1l11 dieselben erfharen und finden, bezuchen und die
+#facs_172_r1l12 anzaal derselben dir angeben in Grundt, darbey der
+#facs_172_r1l13 rs nochmalen bewenden laßendt
+#facs_172_r1l14 „ so wir aber
+#facs_172_r1l15 und zuerinneren, da mehrtheils vnserer Weltsch¬
+#facs_172_r1l16 Amptluchen, zwalt und beuelch geben worden, die
+#facs_172_r1l17 Zaal Laijus, so aber die ordinarii vorstam würden.
+#facs_172_r1l18 h besten, Unserem mich zeuerkauffen, und wie
+#facs_172_r1l19 die wol erachten, das du und anndere Vntre Ampt¬
+#facs_4_r1l11 1
+#facs_172_r1l21 nach beser glegenheit den Wyn, es geachten
+#facs_172_r1l22 amptsangehörigen, oder usseren, verkaufft haben
+#facs_172_r1l23 verwist, besonders herns In Unser LütschLandt.
+#facs_172_r1l24 wie wir dan von ettlichen Unseren Amptlüchen be¬
+#facs_172_r1l25 richtet, das hin: und wider ein anzaal Unser fasse
+#facs_284_r3l35 wollendt,
+#facs_172_r1l27 Als habendt wir dich und andere
+#facs_172_r1l28 Vnsere Amptluch, alles ernsts vermanen und
+#facs_172_r1l29 noch benekhen wollen, den Jenig eweren Ampt
+#facs_172_r1l30 angehörig, welchen Ir wyn verkaufft, by gebürenden
+#facs_172_r1l31 bus zegenwieten, das sy die empfangne Paß in Ihre
+#facs_172_r1l32 Kosten widerumb zuschaffen, und so sy Villicht dauon
+#facs_172_r1l33 eitliche an Vsere Orth könfflich hingeben, hettendt
+#facs_172_r1l34 die etc. by flycher bus, widerumb zu unseren Staeten
+#facs_172_r1l35 Sie v berandtworten sollen, wo mit wirstu die
+#facs_172_r1l36 Sumseligen bußen und Stratten, darnach wuß dich
+#facs_172_r1l37 mitt erstattung flyßiger Nachforschung zenerhalten
+#facs_172_r1l38 patum 16 Augusti 1615

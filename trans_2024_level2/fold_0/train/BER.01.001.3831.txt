@@ -1,0 +1,125 @@
+Law ID: BER.01.001.3831
+Name: Die Einbringung fetter Schweinen erlaubt biss uff Ostermarkt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 114/114
+# High similarity (>=50%): 96
+# Low similarity (<50%): 18
+# Not found: 0
+#
+#facs_169_r3l17 Burgdorff auff Mittwochen den 17. Jan. 1742.
+#facs_169_r3l18 Landtschnett,
+#facs_169_r3l19 18 ct.
+#facs_169_r3l20 Kornherr
+#facs_169_r3l21 St. Johanser Hauß? Sonstags
+#facs_169_r3l22 Erlay
+#facs_169_r3l23 Montags - 28.
+#facs_169_r3l24 Buisse
+#facs_170_r2l1 Mueschaffen
+#facs_170_r2l2 Mittwchen 24th.
+#facs_170_r2l3 Interlater Hauß
+#facs_170_r2l4 Siechenhauß
+#facs_170_r2l5 Vonstags 25.
+#facs_170_r2l6 Könitz
+#facs_170_r2l7 Büren
+#facs_170_r2l8 Montags - 29
+#facs_170_r2l9 Driemisbergerhauß
+#facs_170_r2l10 Vignaud
+#facs_170_r2l11 Untersewen
+#facs_170_r2l12 Mittworsen 31st.
+#facs_170_r2l13 Gettis weyll
+#facs_170_r2l14 Kreisperg
+#facs_170_r2l15 Domstags 1. Febr.
+#facs_170_r2l16 Oberhoffe.
+#facs_170_r2l17 Laugen.
+#facs_170_r2l18 dto
+#facs_170_r2l19 5
+#facs_170_r2l20 zweysamen Montags
+#facs_170_r2l21 Brand
+#facs_170_r2l22 7°
+#facs_170_r2l23 „Mittlowyen
+#facs_170_r2l24 Botlstatt.
+#facs_170_r2l25 Trachselbald
+#facs_170_r2l26 8.eté
+#facs_170_r2l27 Winns
+#facs_170_r2l28 Dönstag 8
+#facs_170_r2l29 Interlaken
+#facs_170_r2l30 Arfangen
+#facs_170_r2l31 Montagu R.S.
+#facs_170_r3l1 323
+#facs_170_r3l2 Mittbochen
+#facs_170_r3l3 Thorberg
+#facs_170_r3l4 14. Febr C. 1742
+#facs_170_r3l5 Sumisbald
+#facs_170_r3l6 15. x
+#facs_170_r3l7 Prutingern Vonstags
+#facs_170_r3l8 Thun
+#facs_170_r3l9 19. eté
+#facs_170_r3l10 raubrumen Montags
+#facs_170_r3l11 Mittwochen
+#facs_170_r3l12 21. dto
+#facs_170_r3l13 Innsull
+#facs_170_r3l14 Siberstein
+#facs_170_r3l15 Dorstag.
+#facs_170_r3l16 22. Hr
+#facs_170_r3l17 5
+#facs_170_r3l18 Arburg
+#facs_170_r3l19 26 cto
+#facs_170_r3l20 Bauloffl. von Rürgeren Montag.
+#facs_170_r3l21 St. Johansen
+#facs_170_r3l22 28 x
+#facs_170_r3l23 Mittwochen
+#facs_170_r3l24 Arberg
+#facs_170_r3l25 Wangen
+#facs_170_r3l26 Martij 1742
+#facs_170_r3l27 1.
+#facs_170_r3l28 Dorstags
+#facs_170_r3l29 Bipp
+#facs_170_r3l30 davon
+#facs_170_r3l31 5. Hô
+#facs_170_r3l32 Montags
+#facs_170_r3l33 Stifft
+#facs_170_r3l34 de jesu tenberg
+#facs_170_r3l35 Mittwochen
+#facs_170_r3l36 7. dto
+#facs_170_r3l37 Custelen
+#facs_170_r3l38 ählen
+#facs_170_r3l39 8t.
+#facs_170_r3l40 Vonstagt
+#facs_170_r3l41 Nidaus
+#facs_170_r3l42 Johringen
+#facs_170_r3l43 12. dto.
+#facs_170_r3l44 Rentzburg Montags
+#facs_170_r3l45 Mittwochen - 14. Nr.
+#facs_170_r3l46 Köngsfelden
+#facs_170_r3l47 Vonstays - 15. dto.
+#facs_170_r3l48 Brop Wittase
+#facs_170_r3l49 L: Sebalschreibrey
+#facs_171_r1l1 224
+#facs_171_r1l2 Coll
+#facs_171_r2l1 Qui
+#facs_171_r2l2 Alle T. und W. Ambthleuth. 4. Tätt
+#facs_171_r2l3 Freyweibel und Amau Hem pr
+#facs_171_r2l4 Kedell an Känzel
+#facs_171_r2l5 Die Einbringung fetter (sh)
+#facs_171_r2l6 Schleinen Erlaubt bis 4 ß
+#facs_171_r2l7 Ostermarkt;
+#facs_171_r2l8 Schulth. Räht und Burger,
+#facs_171_r2l9 Ausgnugsammen uns darzu belegenden
+#facs_171_r2l10 Ursachen, habendtleir guthunden von
+#facs_171_r2l11 dato an, bis nach forstehendem Oster,
+#facs_171_r2l12 Martt deß 1742. Jahrs, die Einbringung
+#facs_171_r2l13 aüßerer Frömbder fetter Schleinen in
+#facs_171_r2l14 unsere Landt zu bedilligen, und deren an
+#facs_171_r2l15 kauff in denenselben hiemit erlaubt, und
+#facs_171_r2l16 dem Verstandt jegdenoch daß nach vorste
+#facs_171_r2l17 hendem Ostermarkt 1742. unser dißörthige
+#facs_171_r2l18 Mandat von Aio 1718. und 1723. wieder völlig
+#facs_171_r2l19 bestandt und Ehevorige Krafft haben sollen,
+#facs_171_r2l20 Dir demnach befehlende dieser unsere Ver
+#facs_171_r2l21 willigung hinter deinem Ambt zu mäniglich
+#facs_171_r2l22 Nachricht öffentl. von Cantzlen vor künden
+#facs_171_r2l23 zu laßen, wiezu thun du wüßen löwst
+#facs_171_r2l24 Bott mit dir Dats. d. 11. Xbr. 1741.

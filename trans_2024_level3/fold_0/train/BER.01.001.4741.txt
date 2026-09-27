@@ -1,0 +1,24 @@
+Law ID: BER.01.001.4741
+Name: Verbott der Brodausfuhr aus dem W. Land.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 13/13
+# High similarity (>=50%): 12
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_250_r4l9 Verbott der 3rd Ausfuhr aus dem W. Land
+#facs_250_r4l10 7
+#facs_250_r4l11 Au alle Welsche Herren Amtleut.
+#facs_250_r4l12 Schultheis Räth und Burger
+#facs_250_r4l13 Wegen Ausfuhr des Brods und desen Entaüst¬
+#facs_250_r4l14 ferung in unseren Welschen Landen sind Wir
+#facs_250_r4l15 veranlaset worden, die in Einlage enthalten.
+#facs_250_r4l16 Verordnung ergehen zu laßen, darvon Wir
+#facs_250_r4l17 Euch anmit eine genugsame Anzahl gedrukter
+#facs_250_r4l18 Exemplar zusenden, mit Befehl, solche behöriger
+#facs_250_r4l19 maßen einzuschreiben, bekannt zu machen, von
+#facs_250_r4l20 Canzlen verlesen, und gewohnter Orten anschlage.
+#facs_250_r4l21 zu lassen. Datum den 25ten November 1793.

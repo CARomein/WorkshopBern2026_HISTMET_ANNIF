@@ -1,0 +1,162 @@
+Law ID: BER.01.001.4010
+Name: Münz Mandat.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 151/151
+# High similarity (>=50%): 144
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_121_r3l24 Etat
+#facs_122_r1l1 232
+#facs_122_r1l2 Collat.
+#facs_122_r2l1 tat
+#facs_122_r2l2 Des Soldats Invalides du Louable Canton
+#facs_122_r2l3 de Berne, qui peuvent se présenter à
+#facs_122_r2l4 Lambassade du Roy, en Suisse à Soleuve
+#facs_122_r2l5 pour y recevoir leurs pensions pour L'ancé.
+#facs_122_r2l6 1751. Ceux de ces Invalides, qui ne pourront
+#facs_122_r2l7 se rendre à Soleure pourront faire recevoir.
+#facs_122_r2l8 pour eux moyenant un acte d'existence.
+#facs_122_r2l9 dans les formes.
+#facs_122_r2l10 Lausane
+#facs_122_r2l11 Abraham de Palles de Lausane
+#facs_122_r2l12 Laupe, Canton
+#facs_122_r2l13 Jacob Jong d'emriette Baillage de
+#facs_122_r2l14 De Berne
+#facs_122_r2l15 Hans Muller de Sanen idem
+#facs_122_r2l16 Trachfelwald.
+#facs_122_r2l17 Hans Schild de Schangneau idem
+#facs_122_r2l18 Milder
+#facs_122_r2l19 Abraham Moginier de Meziérez idem
+#facs_122_r2l20 Arrault
+#facs_122_r2l21 Jacob hirt d'arraw. idem
+#facs_122_r2l22 Kroßv.
+#facs_122_r2l23 Samuel Meyer de Dorne j. au H
+#facs_122_r2l24 3 Perten.
+#facs_122_r2l25 Jean Pierre Bisat de Berget jdem
+#facs_122_r2l26 Morser
+#facs_122_r2l27 Henri anselme de lille idem.
+#facs_122_r2l28 Murten
+#facs_122_r2l29 Samuel Roublé de mourte. idem
+#facs_122_r2l30 Thun
+#facs_122_r2l31 Daniel Schneider de Thoun jdam
+#facs_122_r2l32 ifferten
+#facs_122_r2l33 Charles Beaud de Rence. Idem
+#facs_122_r2l34 Hieselbank.
+#facs_122_r2l35 Benediet Rohrer d'urtenir
+#facs_122_r3l1 233
+#facs_122_r3l2 Daniel Arpeau de Bursin. idem.
+#facs_122_r3l3 Romainmotier
+#facs_122_r3l4 Benedict Spring de Keisen idem
+#facs_122_r3l5 Ausbache
+#facs_122_r3l6 Pierre Goy de Vaulion idem
+#facs_122_r3l7 Romainmotier
+#facs_122_r3l8 Pierre Adam Favor d'yvoinau idem
+#facs_122_r3l9 Grandson
+#facs_122_r3l10 Jean Grundenbach de Soumiswald, idem
+#facs_122_r3l11 Sumniswald.
+#facs_122_r3l12 Mathies Scheller de Wildenstein idem.
+#facs_122_r3l13 Wildenstein
+#facs_122_r3l14 Rodolph Hoffman de Kulin idem
+#facs_122_r3l15 Lenzburg
+#facs_122_r3l16 Johanas Marty de Lupfing idem
+#facs_122_r3l17 Königsfelden
+#facs_122_r3l18 Georg Meusnier de Seeberg. idem
+#facs_122_r3l19 Wangen.
+#facs_122_r3l20 Daniel Du Clos de Villers, idem
+#facs_122_r3l21 Morsee
+#facs_122_r3l22 Abraham Cummer d'utisdorff idem
+#facs_122_r3l23 thun
+#facs_122_r3l24 Jacob Hirschig de Amseldingen. Idem.
+#facs_122_r3l25 thun
+#facs_122_r3l26 Jean Baptiste de Bonneville de Gimel idemt.
+#facs_122_r3l27 Morsce
+#facs_122_r3l28 Philipe de la joux de Cully. idem
+#facs_122_r3l29 Lausane
+#facs_122_r3l30 Jaques Propre de Copet. idem
+#facs_122_r3l31 Neues.
+#facs_122_r3l32 Romainmotier
+#facs_122_r3l33 Abraham Cugny de Lazzaraz idem
+#facs_122_r3l34 -
+#facs_122_r3l35 Signaulo
+#facs_122_r3l36 Jonas Ramseyer de Gross hochstetten, idem
+#facs_122_r3l37 sauon
+#facs_122_r3l38 Abraham le noir de Chateau d'ais. idem
+#facs_122_r3l39 Interlaken.
+#facs_122_r3l40 Christian Kertz de Grindelwald. idem
+#facs_122_r3l41 Wangen
+#facs_122_r3l42 Niclaus Wislocher de Herzogbouchsy, idem
+#facs_122_r3l43 Erlach.
+#facs_122_r3l44 Zacharie Kuentz de Certier. idem.
+#facs_122_r3l45 Bürgdorff.
+#facs_122_r3l46 Gaspard Grueb de Lottweil. idem
+#facs_122_r3l47 Trachfelwald.
+#facs_122_r3l48 Gaspard Walter d'hub. idem
+#facs_123_r3l1 andre Clerc de Rance idem. Ifferten.
+#facs_123_r3l2 Gabriel Truyan de Valerbes idem Romainmotier
+#facs_123_r3l3 David Nicolas Jacard Ste Croyæ idem Isterten,
+#facs_123_r3l4 David Nicolas Vautraver de Champagne idemt.“
+#facs_123_r3l5 Grandson
+#facs_123_r3l6 27. St.
+#facs_123_r3l7 Aus
+#facs_123_r3l8 Alle T. Ambtleuth, 4. Städt, Freyw.
+#facs_123_r3l9 und Amann, außerlenburg.
+#facs_123_r3l10 Münz Mandat.
+#facs_123_r3l11 Schultheiß und Raht
+#facs_123_r3l12 Nachdeme Unß der Sichere Bericht
+#facs_123_r3l13 eingekommen, was maßen die
+#facs_123_r3l14 schlechte Reichs, und andere gering¬
+#facs_123_r3l15 hältige Münzen jeh mehr und mehr
+#facs_123_r3l16 in unsere Land geworffen, mittelst
+#facs_123_r3l17 deßen aber zu steigerung der Silber¬
+#facs_123_r3l18 und Gold Sorten nit wenig anlaßen
+#facs_123_r3l19 gegeben werde, und hierin vielert
+#facs_123_r3l20 Mißbrauch also eingerißen, daß
+#facs_123_r4l1 235.
+#facs_123_r4l2 Wir Unß unmügänglich bemüßiget
+#facs_123_r4l3 sehen, das fernere Einsehen darwieder
+#facs_123_r4l4 zu Thun; Als wollend Wir zu dem End¬
+#facs_123_r4l5 nach dem exempel benachbahrter Eydt¬
+#facs_123_r4l6 gnösischen Lobl. Ohrten nicht nur aller
+#facs_123_r4l7 Reichs, Münz, sonderen auch benantl.
+#facs_123_r4l8 die Würtenüberg, Bademlurlach, und
+#facs_123_r4l9 Schwabische Fünfzehen Creuzer, Stuck, und
+#facs_123_r4l10 Groschen etc. in unseren Teutschen Lande
+#facs_123_r4l11 und Herrschafften, ein vor alle mahl ver¬
+#facs_123_r4l12 ruffen, und deren Curs, wie hiemit
+#facs_123_r4l13 beschicht, verboten haben, bey ohnablässiger
+#facs_123_r4l14 Straff der Confiscation, und 24.tt. Buß,
+#facs_123_r4l15 wo fern aber der Fehlbahre im unver¬
+#facs_123_r4l16 mögen die Bus zubezahlen, soll Er
+#facs_123_r4l17 darfür mit Gefangenschaft, a 4. lb
+#facs_123_r4l18 per 24. Stund gerechnet, angesehen
+#facs_123_r4l19 werden. Weilen auch aus diesen
+#facs_123_r4l20 anlaß wir Uns erinneren der wiederholten
+#facs_123_r4l21 Verordnung so wegen denen gering¬
+#facs_123_r4l22 hältigen und verruffenen Eydtgnößischen
+#facs_123_r4l23 Scheyd- Münzen ausgangen, als Lucerner,
+#facs_124_r2l1 Urner=Unterwaldner-Dryburger¬
+#facs_124_r2l2 und Wallißer Münch et Thund Wir
+#facs_124_r2l3 Unseren Angehörigen durchgehendts
+#facs_124_r2l4 hiemit alles ernsts verwahrnen,
+#facs_124_r2l5 und Ihnen einfchärpfen, sich solcheren
+#facs_124_r2l6 bestmöglich, und zwar bis ersten
+#facs_124_r2l7 Julii. nächstkünfftig abzuthune
+#facs_124_r2l8 als bis dahin wie darzu Termin
+#facs_124_r2l9 vergout haben wollend, nach der Zeit.
+#facs_124_r2l10 aber, soll mit execution der Mandaten
+#facs_124_r2l11 ohne Schönen fortgefahren werden;
+#facs_124_r2l12 Wir befehlend Euch (gleich all übrige
+#facs_124_r2l13 Unseren Ambtleuthen und Städten
+#facs_124_r2l14 3. Landen) Dothanes Schreiben
+#facs_124_r2l15 fürderlich zu Manigl. Nachricht
+#facs_124_r2l16 und verhalt von Canzlen verlesen,
+#facs_124_r2l17 und gewohnter Ohrten anschlagen,
+#facs_124_r2l18 zu laßen, mithin Eüwers Theils
+#facs_124_r2l19 daß deme nachgelebt werde, Pflicht¬
+#facs_124_r2l20 mäßige Hans abzuhalten; Maßen
+#facs_124_r2l21 geschehen werde, wir Unß versehens.
+#facs_124_r2l22 Datt d. 20. May 1752.

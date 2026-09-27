@@ -1,0 +1,110 @@
+Law ID: BER.01.001.4218
+Name: Ihnen anbefehlen, den Waasenmeisteren das Verbott wegen Haltung von Schweinen wissend zu machen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 99/99
+# High similarity (>=50%): 96
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_183_r5l21 Signalement
+#facs_183_r5l22 Franz Alphond Scolar, gebürtig von Altorff, gewesener Haubt¬
+#facs_183_r5l23 mann in Königl. Französischen Diensten, 48 Jahr seines älters
+#facs_183_r5l24 ohngefähr 5. Schuh und ein Zoll lang, hat ein bleiches angesich
+#facs_183_r5l25 gehabten
+#facs_183_r5l26 an der stirn rechterseits ein Tochlein von einer Wunden,
+#facs_184_r4l1 Wunden, trägt bald ein gelben Rock und Camisal mit
+#facs_184_r4l2 gelben Knöpfen, und dergleichen Hosen, und bald ein
+#facs_184_r4l3 beiß grau gebolletes Kleid mit schmahlen Goldbörtlein
+#facs_184_r4l4 ein Hut mit durchbrochner schmahlen Goldborten, redt
+#facs_184_r4l5 nebst der deutschen Sprache, Französisch und Italienisch.
+#facs_184_r4l6 Traduction
+#facs_184_r4l7 François Alphonse Scolar, natif d’Altorf, ci-devant Co
+#facs_184_r4l8 pitaine au service de Sa Majesté Très Chrêtienne, age de
+#facs_184_r4l9 48 ans, haut d'environ 5 pieds, et un pouce, ayant une
+#facs_184_r4l10 visage pâle, le front marqué au Côté droit par une petitte
+#facs_184_r4l11 ontusion, provenant d'une blessure qu'il y a recüé; s'ha-
+#facs_184_r4l12 billant quelques fois d'un Tustaucorps, veste et culotte
+#facs_184_r4l13 de Couleur Joannes, avec des boutons jaunes, et d'autres
+#facs_184_r4l14 fois d'un habit de laine gris-blanc, avec de petits bords
+#facs_184_r4l15 der étroits; portant un chapeau bordé d'une Campan-
+#facs_184_r4l16 soit points d’Espagne étroits en or. Outre la langue alle,
+#facs_184_r4l17 mande, il parle encore les langues françoises et Italiennes
+#facs_184_r4l18 Ain
+#facs_184_r4l19 alle deutschen Herren Amtleüth, in deren Bezirk sich
+#facs_184_r4l20 Waasenmeister befinden
+#facs_184_r4l21 Ihnen anbefehlen, den Waasenmeisteren das Verbodt beym
+#facs_184_r4l22 Haltung von Schbeinen Wissens zu machen.
+#facs_184_r4l23 Stadthalter und Rath
+#facs_184_r4l24 Sintemahlen mit allem grund zu vermuthen ist, daß die
+#facs_184_r6l1 359
+#facs_184_r6l2 daß die Waasenmeistere auf dem Land, wann Sie Schwein
+#facs_184_r6l3 halten, dieselben mit Fleisch von allerhaus abgestandenen
+#facs_184_r6l4 Vieh und Thieren Fucteren und mästen, anstadt daß Sie
+#facs_184_r6l5 solches, Ihrer pflicht und Instruction gemät, alsobald ver¬
+#facs_184_r6l6 lachen solten; So haben Wir zu beybehaltung guter Ordnung
+#facs_184_r6l7 und reinlichkeit angemessen erachtet, allen Warsamen
+#facs_184_r6l8 steren in Zukunft, das halten der Schbeinen, bey Ober
+#facs_184_r6l9 beitlicher Straff zu verbiethen, welches Ihr also dem in
+#facs_184_r6l10 Eüerem Amt sich befindlichen Waasenmeister eröfnen
+#facs_184_r6l11 und anbefehlen, zugleich aber invigilieren werdet, daß
+#facs_184_r6l12 diesem Unserem Willen ein Genügen geschehe. Datl. d.
+#facs_184_r6l13 19th July 1764.
+#facs_184_r6l14 Verzeichnuß der Orten, wo Scharfrichter und Waa¬
+#facs_184_r6l15 senmeister sitzen
+#facs_184_r6l16 zu Bern, Scharpffrichter
+#facs_184_r6l17 . d.
+#facs_184_r6l18 Darau.
+#facs_184_r6l19 Burgdorf, W. M.
+#facs_184_r6l20 d
+#facs_184_r6l21 Büren
+#facs_184_r6l22 5c. wohnt auf der Fluh bey Int
+#facs_184_r6l23 Erlach,
+#facs_184_r6l24 d° bohnt auf dem Jairberg.
+#facs_184_r6l25 Nydau
+#facs_184_r6l26 3° und noch 1. auf der Schbarzenegg
+#facs_184_r6l27 thun
+#facs_184_r6l28 Interlaken, 8o und 1 zu Brienh
+#facs_184_r6l29 Wimit
+#facs_184_r6l30 Beysimmen, und 1 In der Langg
+#facs_184_r6l31 im Landgricht Safftigen
+#facs_184_r6l32 Ubsch
+#facs_184_r6l33 Münsigen
+#facs_184_r6l34 bohnt zu Herzogenbuchsee
+#facs_184_r6l35 Wangen
+#facs_184_r6l36 Hutby
+#facs_184_r6l37 Trachselwald
+#facs_184_r6l38 käuflich
+#facs_184_r6l39 Signan
+#facs_184_r6l40 Braubrunnen, im Blumenthal
+#facs_184_r6l41 Wildenstein, im Hafen
+#facs_185_r3l1 ten.
+#facs_185_r3l2 alle deutsch und Weltsche H. Amtleüth, Schaffnereyen
+#facs_185_r3l3 und verschiedene Dycasteria und Persohnen etc. welche
+#facs_185_r3l4 für Meghhl. Rechnung abzulegen haben
+#facs_185_r3l5 Ihnen zur Ablegung derselben Tag bestimmen
+#facs_185_r3l6 Schultheiß und Rath)
+#facs_185_r3l7 drükschen
+#facs_185_r3l8 zu ablag Eüerer heürigen Rechnung vor Unserer
+#facs_185_r3l9 Wellehen
+#facs_185_r3l10 Vennerlämmer haben Wir Euch bestimmt
+#facs_185_r3l11 nächstbünftig, und deßen Eüch berichten wollen, mit
+#facs_185_r3l12 befelch, nit nur auf obbestimmten Tag vor gedachten
+#facs_185_r3l13 Venner, Cammer Persöhnlich zu erscheinen, sonderen auch
+#facs_185_r3l14 Eüere Rechnung also fertig zu halten, daß Ihr solche ge¬
+#facs_185_r3l15 bührenden Orts, Acht Tag zuvor Communicieren, im
+#facs_185_r3l16 das einte doppel davon sammt allen Beylagen zur Jus¬
+#facs_185_r3l17 tification in die Teutsche) Sebelschreiberey übergeben
+#facs_185_r3l18 altschaft
+#facs_185_r3l19 könnet. Dat. d. 1ten Sept. 1764.
+#facs_185_r3l20 an die Cammeren, so Rechnungen abzulegen haben
+#facs_185_r3l21 ist nach dem Wort nächstkünftig, folgender zu sezen: Un
+#facs_185_r3l22 " deßen Eüch Titl. berichten wollen, mit gesinnen, durch
+#facs_185_r3l23 Eüeren Rechnungs, Steller diese Rechnug also beschlei¬
+#facs_185_r3l24 eigen zu laßen, damit solche gebührenden orts Achte
+#facs_185_r3l25 Tag zuvor Communiciert, und das einte doppel dato
+#facs_185_r3l26 zeutschen
+#facs_185_r3l27 sammt allen beylagen zur Justification in die Wiltsche
+#facs_185_r3l28 "Sebelschreiberey übergeben werden könne. Act. ut supra.

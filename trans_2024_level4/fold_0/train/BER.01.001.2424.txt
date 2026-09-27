@@ -1,0 +1,28 @@
+Law ID: BER.01.001.2424
+Name: Tractätlein Evangelium Nicodemi verpieten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 17/17
+# High similarity (>=50%): 10
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_461_r3l18 Signouw, Brandis, Trachselwald Thun
+#facs_461_r3l19 undt Burgdorff
+#facs_461_r3l20 Tractätlein Evangelium Nicodemi Verpieten
+#facs_461_r3l21 Schö. vndt Raht der Statt Bern
+#facs_461_r3l22 Aus ist zuhanden kommen Ein In Ao. 1684. getrükte.
+#facs_461_r3l23 Beschreibung des Evangeliums Nicodemi von dem Leide
+#facs_461_r3l24 Vnsers Herren Josu Christi, zu dem Sachen enthalten
+#facs_461_r3l25 Die der H. Schrifft ohngemäß befonden worden und
+#facs_461_r3l26 maßen auff das Widerbringen Unser Geistligkeit
+#facs_461_r4l1 Collad
+#facs_461_r5l1 1867
+#facs_461_r5l2 Wie guth befonden, selbiges In Vnseren Landen verpieten
+#facs_461_r5l3 Vndt die Exemplaria so zur Handt zubringen confiscire,
+#facs_461_r5l4 zulaßen, die Wie gegen anderen Vnseren Ennethalischen Ambt¬
+#facs_461_r5l5 Leüthen auch beschieht, hiemit befelehende Demme hinder
+#facs_461_r5l6 deiner Ambtheyung nachzuforschen, Undt die Anstalt zethun
+#facs_461_r5l7 daß die Jenigen Exemplaria so zur handt bracht werden mögen,

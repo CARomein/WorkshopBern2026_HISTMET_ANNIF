@@ -1,0 +1,70 @@
+Law ID: BER.01.001.3942
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_497
+# Matched: 59/59
+# High similarity (>=80%): 59
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_142_r3l11 Deswarzenburg Prof: Indem
+#facs_142_r3l12 uns der höchstensfällige Darbey
+#facs_142_r3l13 sichere Bericht kurzlich eingelanget
+#facs_142_r3l14 das in der Landschafft und Amt
+#facs_142_r3l15 Schbarzenburg, nicht rechmäßig
+#facs_142_r3l16 beruffene ohngeschickte lehrer sich
+#facs_142_r3l17 einfinden, die dem Landmann Ab
+#facs_142_r3l18 Hand ohngegründte und gefährliche
+#facs_142_r3l19 neinungen in Religions sache, bey
+#facs_142_r3l20 zu bringen und jrr zu machen
+#facs_142_r3l21 Führer, mithin Ihne zu verführen
+#facs_142_r4l1 moffre
+#facs_142_r5l1 275
+#facs_142_r5l2 suchen, bordurch allerley unordnung
+#facs_142_r5l3 entspringen dörfften, als bönen wir
+#facs_142_r5l4 diesem übel dardurch Unsere Lieber
+#facs_142_r5l5 angehörige versichert, und zu gefährl.
+#facs_142_r5l6 thümmeren verleitet werden, von
+#facs_142_r5l7 Oberkeitlich pflichts wegen nicht allso¬
+#facs_142_r5l8 nachsehen, sonderen finden Unsbe¬
+#facs_142_r5l9 müßiget, solche den ernstl. Inhalt
+#facs_142_r5l10 zu thun, dero begen Wir Eüch ernst¬
+#facs_142_r5l11 " meinend hierdurch anbefohlenen
+#facs_142_r5l12 haben wollen, dergleichen gefährliche
+#facs_142_r5l13 unerlaubte Lehrer, bie auch die
+#facs_142_r5l14 flazgeber aufendeben mit einer
+#facs_142_r5l15 Gelt bus zu belegen; Namlich das
+#facs_142_r5l16 erste mahl mit zwanzig, das andere
+#facs_142_r5l17 mahl mit vierzig, und das drilte
+#facs_142_r5l18 mit acht zig Cronen, welche Buß dann
+#facs_142_r5l19 nach abzug des dritten Theils für
+#facs_142_r5l20 den verleider, gäntzlich denen Armen
+#facs_142_r5l21 güteren, bodiefühlbahren die ver¬
+#facs_142_r5l22 samlungen anstellen und halten
+#facs_143_r1l1 276
+#facs_143_r2l1 verlaßen
+#facs_143_r2l2 werden, seundienen, und von Ihme
+#facs_143_r2l3 beigerenden fahls nach aller schimpfen
+#facs_143_r2l4 bie andere gemeine Schulden rechtl.
+#facs_143_r2l5 eingetriben werden sollen; alle-
+#facs_143_r2l6 Geist- und weltliche Beamtete den
+#facs_143_r2l7 sind hierdurch alles ernsts beystrecken
+#facs_143_r2l8 der entsetzung, und bey Unserer
+#facs_143_r2l9 Oberbeitl. schloren Ohngnad vermahnt,
+#facs_143_r2l10 auf solche o uleidenl. Lehrerund
+#facs_143_r2l11 auch auf die pfazgeber geflißen
+#facs_143_r2l12 Acht zu halten, und die einen,
+#facs_143_r2l13 und anderen entdekendenfahr
+#facs_143_r2l14 Eüch als unserem Amtsmanne
+#facs_143_r2l15 ohngesäumt zu verleiden, und
+#facs_143_r2l16 an zu zeigen; welch gegenbärtig
+#facs_143_r2l17 Unseren Willen und ernstl. beselche
+#facs_143_r2l18 Ihr in vorfallenheiten ohne schöne
+#facs_143_r2l19 genaub vollziehen, solchen zu¬
+#facs_143_r2l20 nännig. Nachricht und verhalt von
+#facs_143_r2l21 Cantzlen verlesen, und auch seines
+#facs_143_r2l22 gebührenden Ohrtd einschreiben.
+#facs_143_r2l23 laßen werdet. Datum den 13ten May
+#facs_124_r4l23 1747

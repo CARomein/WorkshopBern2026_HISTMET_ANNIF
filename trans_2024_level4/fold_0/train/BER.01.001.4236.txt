@@ -1,0 +1,42 @@
+Law ID: BER.01.001.4236
+Name: Ihnen den Getreyd-Verkauff anzubefehlen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 31/31
+# High similarity (>=80%): 9
+# Low similarity (<80%): 22
+# Not found: 0
+#
+#facs_5_r2l1 An
+#facs_224_r3l16 alle Teütsch, und Weltsche H. Amtläuth, und die Oberkeitl.
+#facs_156_r3l18 alle Teütsch und Weltsche H. Amtleüth, und Vier Städ¬
+#facs_190_r3l17 beibel und Amann; Item per Zedel an alle hiesige Dich
+#facs_53_r5l4 er, da Obrigkeitlich Betreyd ist.
+#facs_250_r3l5 und Hl. Gerichtschreiber
+#facs_148_r2l20 Ihnen den Betreys, Verkauf anzubefehlen etc.
+#facs_74_r3l3 Auf den von Lobl. Stand Zug banisierten
+#facs_207_r3l6 zu achten etc.
+#facs_148_r2l21 Schultheis Räth und Burger
+#facs_52_r4l10 Schultheiß und Rath etc.
+#facs_224_r3l20 Auf uns gethanen Vortrag von seiten Unser geliebten Miträhle,
+#facs_3_r1l1 Coll
+#facs_250_r3l9 Wie sind von dem Lobl. Stand Solothurn berichtet
+#facs_53_r5l12 Teutsch- und Weltsch- Sechelmeisteren und Vanneren¬
+#facs_3_r1l1 Coll
+#facs_121_r5l14 befehlen Wir Eüch auf Ihne Zimmermann achten, und betret¬
+#facs_169_r5l14 Vortrag über die Beschaffenheit des vorhandenen
+#facs_37_r5l19 einen Christ-geziemenden Wandel über Uns
+#facs_251_r3l4 Ihnen befehlen, das über den Vorraht aus sich
+#facs_217_r2l10 Unterthanen sich befindliche Exemplaria von demselben
+#facs_53_r5l17 ri und Quasi Ordinari ausgaben, vorschießenden
+#facs_58_r5l13 Häuseren, Ställen, und auf den Straßen, oder
+#facs_74_r3l17 hinter Euerem Amt achten, und auf
+#facs_247_r1l31 geschrieben, auf Sechs Jahre lang aus Lobl. ein
+#facs_251_r3l15 præcautionen, und Nicht zu Großen Käuffen
+#facs_55_r5l5 von gesamter Lobl.n Eydgnoßschaft verbiesen,
+#facs_224_r5l7 hierin nach Eyd und Ordnung zu verfahren, und um dar¬
+#facs_206_r4l14 acht zu bestellen, und in sich ereignendem Fahl gegen derglei¬
+#facs_148_r4l11 mindst behältlichsten den anfang zu machen, und über das
+#facs_252_r3l12 zu laßen. Dat. d. 20ten Juny 1766.

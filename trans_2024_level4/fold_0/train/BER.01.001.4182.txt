@@ -1,0 +1,45 @@
+BER.01.001.4182
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 36/36
+# High similarity (>=50%): 34
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_255_r4l16 Cantzley Tern
+#facs_255_r4l17 An Tixx, Hangen, Aarlangen,
+#facs_255_r4l18 Landtshuet, Büren, Nydaulo, Arberg,
+#facs_255_r4l19 Mürten, Wiblisturg, Päterlingen Cons¬
+#facs_255_r4l20 et Oecon: Isilten, Lausanne mit Morsen.
+#facs_255_r4l21 6
+#facs_255_r4l22 Der Fuhrleuten Wägen auf Ihr begehren
+#facs_255_r4l23 daß nachts verwachen gelassen
+#facs_255_r4l24 Statthalter und Raht der Statt Bern,
+#facs_255_r4l25 ber erhaltenen sicheren Bericht, daß denen
+#facs_255_r4l26 Euhrleuten auf der route von Basel bis nacher
+#facs_256_r2l1 Morsen, ihre fuhrwägen nächtlicher weil
+#facs_256_r2l2 nicht sicher seyen, sondern darvon ent¬
+#facs_256_r2l3 wendet werde, wollendt wir zu erhaltung
+#facs_256_r2l4 freyen und sicheren wandels hiemit
+#facs_256_r2l5 Erkent und gehabt haben, daß die viheten
+#facs_256_r2l6 auf obgedachter route schuldig sein sollen
+#facs_256_r2l7 die Fuhrwägen auf Begehren der Fuhr,
+#facs_256_r2l8 heüten und gegen leidenlicher belohnung
+#facs_256_r2l9 durch sichere leüt deß nachts verwachen
+#facs_256_r2l10 gelassen; So du den Währten Deiner
+#facs_256_r2l11 Ambts zu eröffnen und Ihnen ein¬
+#facs_256_r2l12 bescherpfen wüssen wirst. Dat. 20. 9brii
+#facs_256_r2l13 1699
+#facs_256_r2l14 P. S. und weilen Ausolff hanscher einem
+#facs_256_r2l15 Fuhrmann von Basel kurtz verwichenen
+#facs_256_r2l16 Tagen von seiner Fuhr nächtlicher weil
+#facs_256_r2l17 nach aufhauwung des spahns eine Reiß¬
+#facs_256_r2l18 Coffre gwaltthätiger weis weggestohlen
+#facs_256_r2l19 worden; Als wollend Wir dir hiemit befohlen
+#facs_256_r2l20 haben, dises diebstahls wegen alle müglichste
+#facs_256_r2l21 nachforschung gehalten, und durch publication
+#facs_256_r2l22 dem entdecker drysig dreichsthaler anze¬
+#facs_256_r2l23 bieten, damit solche Bubenstuck entdeckt,
+#facs_256_r2l24 abgestrafft und gemeine Sicherheit erhalten
+#facs_256_r2l25 werden könne. Dat. ut supra.

@@ -1,0 +1,41 @@
+Law ID: BER.01.001.2300
+Name: Ob idem.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 30/30
+# High similarity (>=50%): 29
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_353_r5l35 Recept
+#facs_353_r5l36 stoß
+#facs_353_r5l37 5
+#facs_353_r5l38 Aakenbletter gedehrt, zu Pulfer gedehet, darunder düres
+#facs_353_r5l39 Tindtfleisch gehaket in Eßig gelegt undt dem Viech eingegeben
+#facs_354_r3l1 Masse interlaken, ch'un,
+#facs_354_r3l2 Trächselwald
+#facs_354_r3l3 ob idem
+#facs_354_r3l4 Statthalter Vndt Raht der Statt Bern etc.
+#facs_354_r3l5 Aus Anlaß deßen waß des Viehbrästens halben uns
+#facs_354_r3l6 heüth abermahlen vorkommen, haben wir über das, Waß-
+#facs_354_r3l7 die deßwegen, Vnderem 26. dises zugeschrieben worden.
+#facs_354_r3l8 noch dises hinzusetzen guthfunden, daß auch das Jenige
+#facs_354_r3l9 Viech, so Vnsere Untethanen anderstloohin zu Sommeren
+#facs_354_r3l10 Verdingt haben, ohne den Erforderlichen Schein, daß an dem
+#facs_354_r3l11 ohrten Weiden undt Bergen, da sich solches auffgehalten, kei¬
+#facs_354_r3l12 Brästen regiere mit hineingelaßen werde, undt Weilen diesen
+#facs_354_r3l13 Brästen von einem Vergifften Taule herkommen soll, soll hierwider
+#facs_354_r3l14 das best praeservatio sein, das Vieh zunächt bey zeiten
+#facs_354_r3l15 inzustellen, undt die nacht durch im Stall zu behalten, bis da
+#facs_354_r3l16 Taulo auff getroknet ist; Welches Vnser einsehen, zusambt den
+#facs_354_r3l17 Lest vorgehenden, du vom Cantzel publiciren Laßen solst
+#facs_354_r3l18 Datq. 28. Julij 1683.
+#facs_354_r3l19 P.S.
+#facs_354_r3l20 Dieweil die Bättler Ordnung etlicher Ohrte, schlecht gehalten
+#facs_354_r3l21 Wirt, soltu handtobhalten, das selbige durch aus hinder dir
+#facs_354_r3l22 Observirt werde, undt wie es mit deren Execution bebaut
+#facs_354_r3l23 Vnsere Allmusen Cammer berichten
+#facs_354_r3l24 tup die Außschreibung des 3 ättags V. 8. den 25. obriaet
+#facs_354_r3l25 sub dato 2. Aug. 1683.

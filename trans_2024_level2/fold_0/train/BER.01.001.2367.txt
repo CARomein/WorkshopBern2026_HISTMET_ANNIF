@@ -1,0 +1,31 @@
+Law ID: BER.01.001.2367
+Name: Vernere Anstalten wegen den Piedmonteseren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 20/20
+# High similarity (>=50%): 20
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_404_r3l25 Nydauw, Büren, Erlach, Arberg
+#facs_404_r3l26 Landshuth, Fraubbrunnen
+#facs_404_r3l27 Vernere Anstalten wegen den Piedmontesern
+#facs_404_r3l28 Schs. undt Raht der Statt Bern etc.
+#facs_404_r3l29 Lauth beyligender Specification werden Erster Taage
+#facs_404_r3l30 Eine anzahl Waldenser in dem Ambt geschikt werden, nämblich
+#facs_404_r3l31 ut die gantze Zahl, auff welche Deine Ambts angehörigt sich
+#facs_404_r3l32 uthwillig erklärt, sonder für dißmahl nur ein Theil derselben
+#facs_404_r3l33 Wie die Verzeichnus außweist, In dem Verstand, daß die übrigen
+#facs_405_r3l1 zu seiner Zeit auch folgen werden: Deßen nun
+#facs_405_r3l2 Wirstu mit dem Ernstlichen Befelch benachrichtiget
+#facs_405_r3l3 umb die Verordnung zu verschaffen, daß dise Leüth auff
+#facs_405_r3l4 Ihre Ankunft allso bald beherberget Logirt vor
+#facs_405_r3l5 versorget werden mogind, allso vndt dergestalten, daß
+#facs_405_r3l6 Vertheillung derselben, der Anfang bey der den
+#facs_405_r3l7 Ambtsmann gemacht, volgends bey denen Predi¬
+#facs_405_r3l8 kanten, Undt so vortan allzeit denen Vermöglichste,
+#facs_405_r3l9 vortgefahren, undt dennoch so weit möglich, Sie, sonderlich
+#facs_405_r3l10 Waß Verwante sindt nit Weit von einander Vertheillet
+#facs_405_r3l11 Verdind. Datum. 31. 10bris. 1688

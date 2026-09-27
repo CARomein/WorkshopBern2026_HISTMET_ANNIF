@@ -1,0 +1,139 @@
+Law ID: BER.01.001.2939
+Name: Ihnen befehlen, denen Capitul Versamblungen ohnfälbar beyzuwohnen undt wegen Verspüren des Teüfferthumbs den grundtlichen Bericht einzuholen undt fürderlich zuüberschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 128/128
+# High similarity (>=50%): 124
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_102_r3l32 Kancellerie de Berne
+#facs_103_r2l1 An G. Ambtleuth
+#facs_103_r2l2 Ihnen befehlen, denen Capitui
+#facs_103_r2l3 Versammlungen ohnfalber
+#facs_103_r2l4 beyzuwohnen undt wegen Verschüre,
+#facs_103_r2l5 den Teüfferthumbs den gründtlichen
+#facs_103_r2l6 bericht einzuholen, undt fürderlich
+#facs_103_r2l7 Zuüberschreiben
+#facs_103_r2l8 Schuldtheit undt Rest der Statt Bern,
+#facs_103_r2l9 Collasße Weilen die Zeit abermahl vorstehet, daß
+#facs_103_r2l10 Die Capitul in Unseren Teütschen lande
+#facs_103_r2l11 gehalten werden sollindt, Alß wirstu gleich
+#facs_103_r2l12 anderen Unseren Ambtleüten hiemit
+#facs_103_r2l13 bestelchnet, darbey ohn alles fählen die
+#facs_103_r2l14 Einzufinden, undt wahrzunemen, daß
+#facs_103_r2l15 alles, so da wider Eint und andere
+#facs_103_r2l16 Efredianten und sonsten angebracht
+#facs_103_r2l17 werden möchte, den Actis Einverleibet
+#facs_103_r2l18 undt Uns zugesendet werden.
+#facs_103_r2l19 Undt weilen Wir den bedaurlichen
+#facs_103_r2l20 Bericht erhalten, daß ohngeacht Unserer
+#facs_103_r2l21 Heilsammen Einsehen, dennoch hin undt
+#facs_103_r2l22 wider die wider Einwürtzlung des Teuffes
+#facs_103_r2l23 thumbs Versfürt werden; Als habend
+#facs_103_r2l24 Wir in widerholung Unsers vorigen
+#facs_103_r2l25 befelchs die hiemit alles Ernsts befehlen
+#facs_103_r2l26 wollen, dich deßen wohl zu erkundigen
+#facs_103_r3l1 zu dem End in der Capitul Versamblung die
+#facs_103_r3l2 Verdianten deürs Ambts angelegenlich
+#facs_103_r3l3 Guvermahnen, daß Sie das, was Ihnen
+#facs_103_r3l4 dieser Schädlichen Seit halb in wüßen sein
+#facs_103_r3l5 mähte, ohngefhochn fröffnen thüindt; Welch
+#facs_103_r3l6 Erhaltenden Bericht dann du Unmit
+#facs_103_r3l7 aller Befürderung zu überschreiben, und
+#facs_103_r3l8 sonsten in alle weg Unser dißörtigen
+#facs_103_r3l9 Ordnung pflichtmeßig nachzugeleben
+#facs_103_r3l10 wüßen wirst; Da sonsten bey Erscheinen
+#facs_103_r3l11 dem mangel du zu gebührender Vorant¬
+#facs_103_r3l12 wortung wurdeß gezogen werden. Datl. 14 May
+#facs_103_r3l13 1708
+#facs_103_r3l14 trachselwaldt undt Schbarzenburg
+#facs_103_r3l15 Allein: Anstatt deß leßen Punckens
+#facs_103_r3l16 Und wie Wir zu sonderen lieb verstan¬
+#facs_103_r3l17 den, daß du über innigst an Dich abgebene
+#facs_103_r3l18 befelch in ansehen verspürender widerhin
+#facs_103_r3l19 reißung des Teüfferthumben dich wachtbar
+#facs_103_r3l20 Erweisest, und desenthalb den verlangten
+#facs_103_r3l21 Bericht an Unsere verordnete Teüffer
+#facs_103_r3l22 Cammer langen laßen; Alß wirstu
+#facs_103_r3l23 hiemit befelchnet, noch Unserem zu
+#facs_103_r3l24 trauwen in sothanem Fleiß getreüwlich
+#facs_103_r3l25 fortzusetzen, ob Unser daherigen Ordnung
+#facs_103_r3l26 unabläßig zuhalten, undt in Specie
+#facs_103_r3l27 E bey Gelegenheit nehster Capital haltung
+#facs_103_r3l28 bey den Spredicanten deines Ambts-
+#facs_104_r2l1 wohl zu erforschen, was Ihm dahero in
+#facs_104_r2l2 wüßen, da dann solch einbringenden
+#facs_104_r2l3 bericht das ungesaumbt zu über¬
+#facs_104_r2l4 schiken wüßen wirst. Dat. 14. May. 1708
+#facs_104_r2l5 Na Was in leßer Cammer allein an Trach¬
+#facs_104_r2l6 selwaldt zu überschreiben.
+#facs_104_r2l7 An
+#facs_104_r2l8 Arberg, Büren, Nidaub, Erlach,
+#facs_104_r2l9 Lauppen, Burgdorff, Waagen, Anlangen,
+#facs_104_r2l10 Bipp, Arburg, Schenbenberg
+#facs_104_r2l11 Lentzburg, Wiblisfurg, Milden, Lausanne,
+#facs_104_r2l12 Morser, Keuler, Ifferten
+#facs_104_r2l13 Schuldtheit undt Raht der Statt Bernos
+#facs_104_r2l14 Collat. Weilen Wir vermeinend, daß Jeniger
+#facs_104_r2l15 Unser Einsehen, so Wir underem
+#facs_104_r2l16 14. lest verstrichenen Merzen zu
+#facs_104_r2l17 Verhürtung der aufwechslung undt
+#facs_104_r2l18 Verfüßerung der Gold und Silber,
+#facs_104_r2l19 sortes gemachet und zur Verkündung
+#facs_104_r2l20 ausschreiben laßen, in imgleiche
+#facs_104_r2l21 verstand gezogen werden wolle, als
+#facs_104_r2l22 habend Wir dir hiemit, gleich gege-
+#facs_104_r2l23 einen anderen Ambtleüten auch
+#facs_104_r2l24 beschichet, in Erläuterung deßelben zu
+#facs_104_r2l25 verdeüten gutfunden, daß daründer
+#facs_104_r2l26 nit gemeint die Jenige Speditions und
+#facs_104_r2l27 handlungs gelter, welche da von äußeren
+#facs_104_r4l1 Orten harkommen, und durch Unsere landt
+#facs_104_r4l2 abgeführt werden, sondern wollend, daß solche
+#facs_104_r4l3 noch fürbas gewohnter maßen ungehindert
+#facs_104_r4l4 durchgeführt werden mögend, deßen du
+#facs_104_r4l5 nemit berichtet und anbey befelchnet
+#facs_104_r4l6 seirst, hinder Deinem Ambt zu deßen
+#facs_104_r4l7 beobachtung den nöhtigen Befelch gehörigen
+#facs_104_r4l8 Et
+#facs_104_r4l9 Orthe zu Ertheilen, wie zuthun wüße
+#facs_104_r4l10 wirst. Datl. 23 May 1708.
+#facs_104_r4l11 An alle St. Ambtleüth (Ausgenomm¬
+#facs_104_r4l12 Interlaken, und erseren Strachtelbald,
+#facs_104_r4l13 Erlach, Nydaulo und Schenkenberg; It.
+#facs_104_r4l14 Schwarzenburg Prütingen.
+#facs_104_r4l15 In Capital Versamblung zu erfahren, ob die
+#facs_104_r4l16 deüsterischen Vorfohne sich widerhännster
+#facs_104_r4l17 Schuldthes undt Raht der Statt beru¬
+#facs_104_r4l18 *
+#facs_104_r4l19 Anderem 18en Jüngsthin gerubten
+#facs_104_r4l20 Weymonats hattend Wir aus genugsamer
+#facs_104_r4l21 Ursach den befelich an alle Unsere Ambt
+#facs_104_r4l22 Leüth Co. Landts Ergehen laßen, in nächster
+#facs_104_r4l23 Capitul Versamblung und sonsten
+#facs_104_r4l24 was Vornemender
+#facs_104_r4l25 „
+#facs_104_r4l26 müglichst zu befahren
+#facs_104_r4l27 wider Eininstung halb der Teüfferischen
+#facs_104_r4l28 Efersohnen Hinder Ihren Ambteren Re¬
+#facs_104_r4l29 seiner werden an bag bringen mögen
+#facs_104_r4l30 und den Einholenden bericht Uns mit aller
+#facs_104_r4l31 befürde eing zuüberschreiben, und wärend
+#facs_105_r4l1 Dasow, billig gewärtig, et burde dieserem
+#facs_105_r4l2 Unserem Willen und befelch durchgehenden
+#facs_105_r4l3 Eingenüegen geleistet worden sein. Wan
+#facs_105_r4l4 aber Wir seithard von Etwelchen Ambtleü
+#facs_105_r4l5 ten den dißörtigen Bericht erhalten; Alß
+#facs_105_r4l6 habend wir hiemit diesen befelch an dich,
+#facs_105_r4l7 wie an Einiche andere Unsere Ambt¬
+#facs_105_r4l8 leüth auch beschieht, dahin widerholen wollen
+#facs_105_r4l9 daß du uns hethanen gründtlichen Bericht
+#facs_105_r4l10 allerfürderlichst überschreiben thüeß, -
+#facs_105_r4l11 zumahlen die anbefohlene reiffliche
+#facs_105_r4l12 berahtung dieser Materi biß dahin
+#facs_105_r4l13 anstehen verbleiben müßen. Maßen
+#facs_105_r4l14 Wir deßen für dersammen Einlangung
+#facs_105_r4l15 Erwarten thund. dat. 11. Juny 1708

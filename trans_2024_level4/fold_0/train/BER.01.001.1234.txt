@@ -1,0 +1,30 @@
+Law ID: BER.01.001.1234
+Name: Wegen Wallissischen Hrn. Ehrengsandten Zuzugs.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 19/19
+# High similarity (>=50%): 19
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_368_r3l1 355.
+#facs_368_r3l2 Annachvolgende Orth.
+#facs_368_r3l3 begen Wallißischen Herrn Ehrngsandten zuzugs¬
+#facs_368_r3l4 Schuldtheiß und Rhatt etc.
+#facs_368_r3l5 Zu der vff den 2 huius angestelten den Ehren gemäßen
+#facs_368_r3l6 Empfachung der denchmalen ankomenden Wallisischen
+#facs_368_r3l7 Herren Ehrengsandten, Habend wir gutfunden, neben
+#facs_368_r3l8 Unserer Bürgerschafft eine anhal Volcks vß den Rechß
+#facs_368_r3l9 Graffschafft Stetten vnder dem Comendo beider Haubt
+#facs_368_r3l10 lüthen Gr. Jörg Steiger, vndt Hr. Gabriel von Dießbach
+#facs_368_r3l11 huberütten vndt zugebruchen, Gesinnend deme zu
+#facs_368_r3l12 Volgandich, die Vnuerwylte Verordnung Zethun¬
+#facs_368_r3l13 daß vß der Statt Thun fünfftig wolgebrachte Mus¬
+#facs_368_r3l14 quetierer vßgehagen, Vndt Sontags den 20. dito alhier
+#facs_368_r3l15 mit Iren wehren versechen geschickt werdint
+#facs_368_r3l16 Denen wirt dann Pulners, Herr losierung vndt
+#facs_368_r3l17 andersinhalb, was vonnöten, Vernern nachricht ertheilt,
+#facs_368_r3l18 werden. In Versuchung deßelben die Göttlichen
+#facs_368_r3l19 chirm wol beuelchende. Datum 2. Augusti 1643.

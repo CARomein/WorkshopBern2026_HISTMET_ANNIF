@@ -1,0 +1,849 @@
+Law nr: BER.01.001.4593
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 838/838
+# High similarity (>=80%): 772
+# Low similarity (<80%): 66
+# Not found: 0
+#
+#facs_260_r5l1 506
+#facs_28_r4l1 Coll
+#facs_261_r1l3 + Verbeßerung
+#facs_261_r2l1 machen zu könftiger Nachricht und
+#facs_261_r2l2 verhalt einschreiben zu laßen, und
+#facs_261_r2l3 Hand abzuhalten, daß derselben nach
+#facs_261_r2l4 Datl. den 6ten
+#facs_261_r2l5 gelebt werde.
+#facs_261_r2l6 Septembris 1786
+#facs_31_r5l15 Publication
+#facs_64_r2l8 Wir Schultheiß und Rath
+#facs_261_r2l9 der Stadt Bern, thun kund Sie mit
+#facs_261_r2l10 Demnach Wir mißfällig bahrnemmen
+#facs_261_r2l11 nüßen, daß die Arbeitsleute bey ver
+#facs_261_r2l12 fertigung neuer oder alter Gebäuden
+#facs_261_r2l13 sich dann und bann erfrechen, Holz
+#facs_261_r2l14 Eisenberk und Materialien von aller
+#facs_261_r2l15 Art zu entwenden; so haben Wir, um
+#facs_261_r2l16 diesen unzuläßlichen Frekeln, die
+#facs_261_r2l17 Wir als wirkliche Diebstähle ansehen,
+#facs_261_r2l18 bräftig vorzubeugen, folgende Verord¬
+#facs_261_r2l19 nung zu püncktlicher Gefolgung hiemit
+#facs_261_r2l20 bekant machen laßen, als
+#facs_261_r2l21 1. Wird jedem Arbeiter, es seye
+#facs_261_r2l22 für Obrigkeitliche oder Partikularge,
+#facs_261_r2l23 bäude etc. insbesondere aber den Zimmerleuten,
+#facs_261_r3l1 507.
+#facs_261_r3l2 Steinhauern, Leben und Handlangern
+#facs_261_r3l3 alles Ernsts verbotten, keinerley Arten
+#facs_261_r3l4 von Holz, Eisenwerk und Baumaterialig¬
+#facs_261_r3l5 was Namens sie immer seyn mögen,
+#facs_261_r3l6 vom großen bis zu dem kleinsten
+#facs_261_r3l7 auch so gar Spähne und sonsten ab¬
+#facs_261_r3l8 gehendes Holz nicht ausgenommen
+#facs_261_r3l9 zu entäußeren, ansonsten ein solch
+#facs_261_r3l10 entderter Frefler gleich als ob er sich
+#facs_261_r3l11 eines diebstahls schuldig gemacht
+#facs_261_r3l12 Facke, in die Gefangenschaft gesezt,
+#facs_261_r3l13 allda examinert, bekanntlich gemaht,
+#facs_261_r3l14 und in geständigem oder überwiesenen
+#facs_261_r3l15 fall, nebst Wiedererstockung der
+#facs_261_r3l16 entwendeten Materialien und Abtrag
+#facs_261_r3l17 aller deßthalb ergangenen Kosten
+#facs_261_r3l18 in geringern Fällen mit der Gefangen
+#facs_158_r4l19 das ehrerbietige Begehren der Meister
+#facs_261_r3l20 in wichtigern aber je nach den Un¬
+#facs_261_r3l21 tanden und unserm gutfinden, an
+#facs_261_r3l22 Ehr, Lieb oder Gut gestraft werden
+#facs_261_r3l23 Bird, darinnen aber diejenigen Spähne
+#facs_261_r3l24 nicht begriffen so die Zimmermeister
+#facs_261_r3l25 von ihrem eigenen Holz den Gesellen
+#facs_79_r1l1 50
+#facs_262_r2l1 aus ihre Werkstädten oder Zimmer
+#facs_262_r2l2 pläzen nach Hause zu tragen
+#facs_262_r2l3 bewilligen.
+#facs_262_r2l4 2° Und damit dergleichen Frekelt
+#facs_262_r2l5 desto ehender entdekt werden, soll ein
+#facs_262_r2l6 jeder Gesell auf den anderen achten,
+#facs_262_r2l7 und den Fehlbaren anzeigen; nicht
+#facs_262_r2l8 geschehenden falls aber gleich dem
+#facs_262_r2l9 Thäter angesehen werden.
+#facs_262_r2l10 3o. Sollen die Fehlbaren jebeilen
+#facs_262_r2l11 in der Stadt Unserem Großweibel
+#facs_262_r2l12 auf dem Land aber dem Richter
+#facs_262_r2l13 des Orts verleidet, und von dem
+#facs_262_r2l14 selben, nach Gestaltsame des Fehlers
+#facs_262_r2l15 gefertiget werden, es bäre dann Sach
+#facs_262_r2l16 daß einer sich so gröblich vergreifen.
+#facs_262_r2l17 bürde, daß vorbemelte Restraffung
+#facs_262_r2l18 nicht hinlänglich wäre, welchen falls sie
+#facs_262_r2l19 die Sache Uns zur Reurtheilung vor
+#facs_262_r2l20 tragen oder überschreiben sollen.
+#facs_262_r2l21 Ao. Und endlich soll diese unsere
+#facs_262_r2l22 Verordnung zu Stadt und Land in
+#facs_262_r2l23 ellen Obrigkeitlichen und anderen Werk
+#facs_262_r2l24 stöcken, der Zimmerleuten, Steinhauern
+#facs_28_r4l1 Coll
+#facs_79_r1l1 50
+#facs_262_r4l2 und Tachdeken, zu jedermans Verhalt
+#facs_262_r4l3 öffentlich angeschlagen werden, auch
+#facs_262_r4l4 überdies jeder Meister gehalten seyn,
+#facs_262_r4l5 dieselbe seinen neu eintretenden
+#facs_262_r4l6 Gestellen vorzulesten, und für dieselben
+#facs_262_r4l7 verantwortlich zu seyn. In der
+#facs_262_r4l8 Stadt sollen die Offiziale und Hattschierer,
+#facs_262_r4l9 auf dem Land aber die Unterbe¬
+#facs_262_r4l10 Amteten und vorgesezten auf die
+#facs_262_r4l11 genaue Befolgung dieser Verordnung
+#facs_262_r4l12 achten.
+#facs_262_r4l13 Gegeben den 6ten Septembris 1786.
+#facs_212_r2l16 Cansley Bern
+#facs_83_r3l6 en
+#facs_47_r3l6 Traduction.
+#facs_149_r2l13 gen, Aarlgangen, Diberstein
+#facs_262_r4l17 Republique de Berne Savoir faisons
+#facs_278_r4l2 par les presentes: que nos anciens,
+#facs_262_r4l19 a nôtre déplaisir, que les ouvriers employés
+#facs_262_r4l20 a la construction des nouveaux Câtimens
+#facs_331_r3l13 en présence des meuniers & de deux
+#facs_231_r2l20 anneter, Stellen, Dienste oder
+#facs_262_r4l23 ferraille & autre materiaux de toute
+#facs_28_r5l1 51
+#facs_263_r2l1 espece; nous avons pour remedier effi-
+#facs_263_r2l2 caaement a ces fortes de pillages illicites
+#facs_263_r2l3 que nous envoyeons comme des vols
+#facs_263_r2l4 veritables, trouvé bon de faire publier
+#facs_263_r2l5 l’ordonnance suivante, a la quelle
+#facs_263_r2l6 on aura a se conformer ponctuellement
+#facs_263_r2l7 en consequence.
+#facs_263_r2l8 1o Nous défendons très serieusement
+#facs_263_r2l9 a tout ouvrier, employé tant a Nos
+#facs_263_r2l10 batimens publics, qu'à ceux des par-
+#facs_263_r2l11 ticuliers et spécialement aux charpen-
+#facs_263_r2l12 tiers, maçons, couvreurs, et maneuvriers
+#facs_263_r2l13 d'emporter aucune espece de bois, fer-
+#facs_263_r2l14 raille & autres matériaux servant à
+#facs_263_r2l15 la construction des batimens, quel nom
+#facs_263_r2l16 qu'ils puissent avoir, du plus gros
+#facs_263_r2l17 jusqu’au plus petit article, y compris
+#facs_263_r2l18 même les buchilles & autre même
+#facs_263_r2l19 bois de rebut; sous peine aux contre-
+#facs_263_r2l20 renants d'être punis comme voleurs,
+#facs_263_r2l21 consequemment d'être emprisonnés
+#facs_263_r2l22 examinés & déclarés tels; les condamnant
+#facs_263_r2l23 d'après leur aveu ou conviction, non
+#facs_263_r2l24 seulement à la restitution des articles
+#facs_263_r3l1 j sur son Camerade
+#facs_28_r5l1 51
+#facs_263_r4l2 en leves & aux frais occasionnés par
+#facs_263_r4l3 leur arret mais encore à la peine -
+#facs_263_r4l4 de prison, outre l'interdiction du travail,
+#facs_263_r4l5 pour les fautes moins graves; Nou-
+#facs_263_r4l6 reservant la punition des autres, en
+#facs_263_r4l7 leur honneur, en leur corps, ou en leurs
+#facs_263_r4l8 bien, selon les circonstances. Excep-
+#facs_263_r4l9 tant cependant de cette ordonnance les
+#facs_263_r4l10 buchilles, que les maitres charpentiers
+#facs_263_r4l11 permettent a leurs compagnons d'em¬
+#facs_263_r4l12 porter avec eux de leurs chantiers
+#facs_263_r4l13 où ils travaillent, & qui proviennent
+#facs_263_r4l14 du bois qui leur appartient en
+#facs_263_r4l15 propre.
+#facs_263_r4l16 2° Pour découvrir plus aisément ces
+#facs_263_r4l17 sortes de pillages, nous voulons que
+#facs_263_r4l18 chaque compagnon ait a veiller?
+#facs_328_r3l11 Dingen, entweder die existierende
+#facs_263_r4l20 noncer sans rémission les contreve-
+#facs_263_r4l21 mants, sous peine d’être punis eux
+#facs_263_r4l22 mêmes comme coupables de vol
+#facs_164_r4l29 Pays, à Notre Conseil de Comerie,
+#facs_263_r4l24 la capitale a notre grand Sautier, &
+#facs_263_r4l25 par tout ailleurs au Juge du lieu,
+#facs_28_r5l1 51
+#facs_264_r2l1 a qui il appartiendra de chatier les
+#facs_264_r2l2 contrevenants, selon les circonstances
+#facs_264_r2l3 & la gravité de leur faute; a moins
+#facs_264_r2l4 que l'un ou l'autre ne s'oubliât à un
+#facs_264_r2l5 tel point, que la peine a-dessus-
+#facs_264_r2l6 dictée ne fut pas proportionnée au
+#facs_264_r2l7 delit. En quel cas nous en serons
+#facs_264_r2l8 avises pour Juger le coupable.
+#facs_264_r2l9 4. finalement Nous voulons, que
+#facs_264_r2l10 la présente Ordonnance soit publiée
+#facs_264_r2l11 affichée tant en cette Capitale que par-
+#facs_264_r2l12 tout ailleurs, aux chantiers & autres
+#facs_264_r2l13 lieux, tant publics que particuliere
+#facs_264_r2l14 ou les charpentiers, maçons & couveurs
+#facs_264_r2l15 travaillent; enjoignant aux maîtres de
+#facs_264_r2l16 ces professions d’en faire lecture à
+#facs_264_r2l17 leurs nouveaux compagnons, & d'en
+#facs_264_r2l18 répondre. Les officiers civils & les
+#facs_264_r2l19 archers de la marechaussée veilleront
+#facs_264_r2l20 en cette capitale, & par tout ailleurs
+#facs_264_r2l21 les préposés & officiers baillivaux à
+#facs_264_r2l22 l'exacte observation de la présente Ordonance
+#facs_264_r2l23 Donne le 6e Septembre 1786
+#facs_48_r3l25 Chancellerie de Berne
+#facs_28_r4l1 Coll
+#facs_28_r5l1 51
+#facs_23_region_1633454616028_2913l1 An
+#facs_264_r4l3 alle Cänsel hiesiger Haubtstadt, und bey
+#facs_264_r4l4 dem äußeren Krankenhaus. Sep
+#facs_264_r4l5 ansehend die Jagd um die Stadt herum.
+#facs_264_r4l6 so im Hornung 1784. in Sahn gelegt
+#facs_264_r4l7 borden, wieder aufgehoben.
+#facs_31_r5l15 Publication
+#facs_264_r4l9 Es haben Me Ghl. und Oberen aus vor¬
+#facs_264_r4l10 gebalteten günstigen Retrachtungen
+#facs_264_r4l11 gutbefunden, den durch die im Hornung
+#facs_264_r4l12 1784. ausgegangene Jäger Ordnung
+#facs_264_r4l13 unter dem Titel fernere Jagdbähnis be¬
+#facs_264_r4l14 stimmten Jagdbahn über den klein und
+#facs_264_r4l15 großen Bremgarten, so wohl als auch
+#facs_264_r4l16 die Jagdbähn oben und unten aus
+#facs_264_r4l17 um die Stadt herum, von nun an
+#facs_264_r4l18 wieder aufzuheben, dergestalten
+#facs_264_r4l19 daß das Jagen mit Hunden und sonsten
+#facs_264_r4l20 in diesen aufgehobenen Bähnen in
+#facs_264_r4l21 offener Jagd Zeith Er Ein Rurgerschaft
+#facs_264_r4l22 unbenommen ist, und seyn soll.
+#facs_264_r4l23 Dabey aber ist Mr Ghl. und Oberen
+#facs_264_r4l24 austrukliche Wille und Meinung, daß
+#facs_28_r5l1 51
+#facs_53_r8l10 e
+#facs_265_r3l1 alle übrigen Theil obbemelter Jäger,
+#facs_265_r3l2 Ordnung beydes in Absicht auf das
+#facs_265_r3l3 Jagen als die Sähn in denen ver¬
+#facs_265_r3l4 schiedenen Ämteren in ihrer Wirksam¬
+#facs_265_r3l5 keit verbleiben, und denenselben
+#facs_265_r3l6 durchaus folg geleistet werde, alles
+#facs_265_r3l7 bey der auf die biederhandlende ge¬
+#facs_265_r3l8 sehten Straf.
+#facs_265_r3l9 Welches hierdurch zu Mäniglichen
+#facs_265_r3l10 Nachricht öffentlich Hund gethan wird.
+#facs_265_r3l11 Act. coram 200. den 13. 7.bris 1786.
+#facs_47_r3l5 Lanzley Bern.
+#facs_23_region_1633454616028_2913l1 An
+#facs_265_r3l14 alle deutsche Herren Amtleut; dennen
+#facs_265_r3l15 an die zu Wiblispurg, Milden, Iffertz,
+#facs_265_r3l16 Lausonnen, Wieis, Oron, und Petterlingen
+#facs_265_r3l17 beym transitierendem Getreide
+#facs_36_r3l7 Schultheiß und Rath
+#facs_265_r3l19 In Wiederruffung des unterem 14ten
+#facs_265_r3l20 thung lezthin an Euch aberlaßenen Gefehls,
+#facs_265_r3l21 dem für lobl. Stand Fryburg bestimten
+#facs_265_r3l22 Getreid, so mit Transit Patenten und
+#facs_265_r3l23 Consignes zedeln verstehen sind, drey Monat
+#facs_265_r5l1 515
+#facs_265_r5l2 lang, die ungehinderte Durchfuhr zu gestatten,
+#facs_265_r5l3 thun Wir Euch hiermit anbefehlen, Euch
+#facs_265_r5l4 von nun an, und in Zukonft in Betref
+#facs_265_r5l5 alles transitierenden Getreids, lediglich
+#facs_265_r5l6 an der Transit Ordnung vom 12ten febr.
+#facs_265_r5l7 1768. zu verhalten.
+#facs_265_r5l8 Datl. den 18ten Septembris 1786.
+#facs_23_region_1633454616028_2913l1 An
+#facs_44_r4l3 alle deutsch und welsche Herren Amt¬
+#facs_265_r5l11 leut, Schafner und Kammeren, die
+#facs_265_r5l12 Rechnungen abzulegen haben.
+#facs_265_r5l13 Ihnen den Tag zur Rechnungs Ablag
+#facs_265_r5l14 bestimt.
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_265_r5l16 zu Ablag Eüerer Feurigen Amts Rechnung
+#facs_52_r4l3 deutschen
+#facs_265_r5l18 vor Unserer, welschen) Steiner Cammer,
+#facs_265_r5l19 haben Wir bestimt auf N. N. nächst¬
+#facs_265_r5l20 bönftigen Jahres, und deßen Euch berichten
+#facs_265_r5l21 wollen, mit Befehl auf obbestimten
+#facs_265_r5l22 Tag solche allfertig zu halten
+#facs_265_r5l23 an die deutschen Herren Amtleuth:
+#facs_265_r5l24 daß solche 14 Tag vor dero Ablag, mit
+#facs_265_r5l25 denen nothwendigen Reylagen versehen,
+#facs_28_r5l1 51
+#facs_28_r4l1 Coll
+#facs_266_r3l1 Unserem Buchhalter in den deutschen
+#facs_52_r4l13 Sekelschreiberey zur Erdaurung eingehändigt
+#facs_266_r3l3 fändiget, und solche dann auch weiters
+#facs_266_r3l4 communicirt werden könne. / An die
+#facs_266_r3l5 welschen Herren Amtleuth:/ daß ihr
+#facs_266_r3l6 solche gebührenden Orts 14. Tag von
+#facs_266_r3l7 der Ablag Communicieren, und das
+#facs_266_r3l8 einte Koppel davon samt allen Bey¬
+#facs_266_r3l9 lagen zur Justification in die Besche
+#facs_52_r4l13 Sekelschreiberey zur Erdaurung eingehändigt
+#facs_266_r3l11 Dat. den 9ten Septembris 1786.
+#facs_119_r2l24 Rechnungs-Ablagen
+#facs_53_r3l2 der teutsch und welschen Herren Amtleuther
+#facs_266_r3l14 pro 1787.
+#facs_43_r2l7 8
+#facs_90_r3l1 N°
+#facs_190_r7l8 Januarius
+#facs_4_r8l3 I
+#facs_266_r3l19 5. Interlakenhaus.
+#facs_8_r1l1 10
+#facs_53_r3l16 den
+#facs_266_r3l22 Mitbahn
+#facs_53_r3l9 1. St. Johanser Haus
+#facs_190_r7l17 Dito.
+#facs_266_r3l25 17. Silberhandlung
+#facs_266_r3l26 2. Frienisperger Haus
+#facs_266_r3l27 3. Kornherr
+#facs_62_r3l1 117
+#facs_190_r7l32 denstag
+#facs_4_r7l1 4
+#facs_191_r2l10 1. dito
+#facs_266_r3l32 3. Turen
+#facs_4_r4l2 15
+#facs_53_r3l21 Montag
+#facs_266_r3l35 3. außer Krankenhaus
+#facs_266_r3l36 5. Rignau
+#facs_266_r3l37 5. Nydau
+#facs_11_r6l1 17
+#facs_54_r9l22 Mitwochen den
+#facs_3_region_1627936336835_13l2 der
+#facs_266_r4l2 Rech
+#facs_266_r4l3 6. Wimmis
+#facs_266_r4l4 Allmosen Cammer Secret.
+#facs_266_r4l5 Rüchsten Allmosten
+#facs_120_r2l11 3. Sumis wald
+#facs_266_r4l7 Lauppen
+#facs_190_r7l17 Dito.
+#facs_80_r3l16 bestimmen.
+#facs_6_region_1627936574015_66l1 6
+#facs_266_r4l12 Oberhofen
+#facs_4_r6l1 5
+#facs_266_r4l14 Arberg
+#facs_4_r1l1 2
+#facs_92_r9l33 1 König
+#facs_53_r8l1 Interlaben
+#facs_4_r8l9 a
+#facs_53_r8l3 Untersten
+#facs_4_r7l1 4
+#facs_272_r2l8 Wiblisturg
+#facs_4_r6l1 5
+#facs_118_r7l25 Petterlingen
+#facs_6_region_1627936574015_66l1 6
+#facs_53_r8l4 Trachsellwald
+#facs_6_region_1627936574015_66l1 6
+#facs_53_r8l5 Buchsee
+#facs_120_r3l33 Dto
+#facs_3_region_1627936339514_16l1 1
+#facs_266_r4l31 2 Brotstadt
+#facs_53_r8l9 Landshut
+#facs_4_r7l1 4
+#facs_68_r4l49 Milden,
+#facs_6_region_1627936574015_66l1 6
+#facs_53_r8l12 Oron
+#facs_4_r6l1 5
+#facs_266_r4l38 2. Rurydorf
+#facs_53_r8l11 Brandis
+#facs_4_r6l1 5
+#facs_266_r4l41 5. Mushafen
+#facs_266_r4l42 6. Franbrunnen
+#facs_266_r4l43 4 Roche
+#facs_266_r4l44 6. Thun Schloß.
+#facs_266_r4l45 6. dito Schafnerey
+#facs_266_r4l46 7. Vivis d.
+#facs_266_r4l47 22 Neuenstadt.
+#facs_266_r6l1 517.
+#facs_266_r6l2 1787.
+#facs_266_r6l3 Januarii
+#facs_53_r9l3 Donstag
+#facs_7_r2l12 18
+#facs_8_r2l2 24
+#facs_140_r3l8 ten
+#facs_120_r4l2 Mitwoch
+#facs_8_r2l3 25
+#facs_53_r3l16 den
+#facs_53_r9l3 Donstag
+#facs_9_r3l1 31
+#facs_266_r6l13 Mitbahn den
+#facs_266_r6l14 Febru
+#facs_140_r3l8 ten
+#facs_53_r9l3 Donstag
+#facs_4_r1l1 2
+#facs_140_r3l8 ten
+#facs_53_r9l9 Freytag
+#facs_53_r3l16 den
+#facs_267_r5l60 Mitbach
+#facs_191_r11l11 8t
+#facs_53_r3l38 Sonstag den
+#facs_140_r3l8 ten
+#facs_7_r7l1 9
+#facs_53_r3l47 Freitag
+#facs_272_r2l3 Getreid Zehnden.
+#facs_6_region_1633454281779_2775l1 d
+#facs_267_r3l5 Mitboche
+#facs_266_r6l31 den 15.
+#facs_53_r9l3 Donstag
+#facs_266_r6l33 Freytag den 16.
+#facs_124_r5l41 r
+#facs_28_r5l1 51
+#facs_90_r3l1 N°
+#facs_267_r2l2 3. Thorberg
+#facs_267_r2l3 2. Uarburg Schloß
+#facs_267_r2l4 1 dito Garnison
+#facs_267_r2l5 4 Stift Sern
+#facs_54_r5l8 Frutigen
+#facs_267_r2l7 4. Ifferten
+#facs_267_r2l8 6. Zofingen
+#facs_267_r2l9 7. St. Johansten
+#facs_192_r2l24 1 dit
+#facs_120_r3l38 Erlach
+#facs_6_region_1627936574015_66l1 6
+#facs_267_r2l13 Allmosten Direction
+#facs_120_r3l25 Exulanten Cammer
+#facs_267_r2l15 4. Sipp.
+#facs_267_r2l16 4. Welsch Weinschenk
+#facs_68_r8l35 Romainmotier
+#facs_190_r7l17 Dito.
+#facs_4_r4l1 3.
+#facs_120_r3l31 Wangen
+#facs_200_r3l24 Frienisberg. In Abänderung Unserer Er¬
+#facs_267_r2l22 7. Aambangen
+#facs_54_r5l4 do
+#facs_267_r2l24 1. Holtlieferung
+#facs_267_r2l25 16. Zievel verbalter
+#facs_267_r2l26 11. Schallenhaus
+#facs_267_r2l27 6. Lausanne
+#facs_192_r2l7 Zinghaus
+#facs_267_r2l30 1. Pulfenverbalter
+#facs_54_r8l5 Biberstein Schloß
+#facs_191_r9l2 dito Schafnerey
+#facs_267_r2l33 7. Märfen
+#facs_191_r2l10 1. dito
+#facs_266_r6l2 1787.
+#facs_266_r6l14 Febru
+#facs_53_r3l44 Montag den
+#facs_12_r8l1 19
+#facs_267_r3l5 Mitboche
+#facs_7_r4l1 21
+#facs_53_r3l16 den
+#facs_53_r9l3 Donstag
+#facs_267_r3l9 den 22
+#facs_14_region_1627971805407_36l1 23
+#facs_267_r3l11 Freytags, des
+#facs_53_r3l21 Montag
+#facs_8_r3l1 26
+#facs_54_r9l15 Mitbochen
+#facs_6_region_1633454281779_2775l1 d
+#facs_192_r4l1 Martius
+#facs_53_r3l27 Sonstag
+#facs_53_r3l16 den
+#facs_53_r3l16 den
+#facs_4_r1l1 2
+#facs_30_r3l8 the
+#facs_53_r3l44 Montag den
+#facs_53_r3l16 den
+#facs_191_r3l4 Mitbachen
+#facs_190_r7l32 denstag
+#facs_267_r3l26 d. 8.
+#facs_7_r7l1 9
+#facs_267_r3l28 Freytag des
+#facs_53_r3l21 Montag
+#facs_267_r3l30 Mittbochen den 14.
+#facs_266_r6l33 Freytag den 16.
+#facs_90_r3l1 N°
+#facs_4_r4l1 3.
+#facs_4_r1l1 2
+#facs_6_region_1627936574015_66l1 6
+#facs_4_r1l1 2
+#facs_4_r6l1 5
+#facs_6_region_1627936574015_66l1 6
+#facs_4_r7l1 4
+#facs_4_r4l1 3.
+#facs_267_r5l1 519
+#facs_266_r6l2 1787.
+#facs_192_r4l1 Martius
+#facs_54_r8l9 Kaufhaus
+#facs_53_r3l21 Montag
+#facs_54_r8l10 Abzug
+#facs_12_r8l1 19
+#facs_54_r8l12 Hetis bijl
+#facs_54_r8l16 Daanein
+#facs_7_r3l1 22
+#facs_2_r1l1 St.
+#facs_4_r7l1 4
+#facs_53_r3l16 den
+#facs_267_r5l14 Aehlen
+#facs_267_r5l16 Freytag den 23.
+#facs_54_r8l14 Aubonne
+#facs_267_r5l18 Schenkenberg
+#facs_8_r3l1 26
+#facs_53_r3l44 Montag den
+#facs_267_r5l21 Estelen
+#facs_8_r7l1 28
+#facs_53_r9l8 Mitbochen den
+#facs_54_r8l21 Königsfelden
+#facs_8_r7l2 29.
+#facs_53_r9l3 Donstag
+#facs_54_r8l25 Lenzburg
+#facs_266_r6l33 Freytag den 16.
+#facs_92_r3l25 Neus
+#facs_54_r8l27 Bonmont
+#facs_267_r5l31 und im
+#facs_267_r5l32 Osteren
+#facs_54_r8l31 Rechnungen nach
+#facs_267_r5l34 Lauf des Jahrs 1787
+#facs_192_r5l4 Magué
+#facs_14_region_1633454353484_2800l1 de
+#facs_267_r5l60 Mitbach
+#facs_192_r5l6 Bauamt
+#facs_7_r7l1 9
+#facs_267_r3l5 Mitboche
+#facs_8_r2l2 24
+#facs_267_r5l42 Groß Spithal
+#facs_301_r4l1 ius,
+#facs_8_r9l1 11
+#facs_8_r1l1 10
+#facs_121_r4l16 dienstag
+#facs_267_r5l47 Große Salz Rechnung
+#facs_4_r4l2 15
+#facs_8_r3l1 26
+#facs_267_r5l50 KornCammer
+#facs_10_r1l1 14
+#facs_187_r2l23 s
+#facs_53_r3l21 Montag
+#facs_267_r5l54 Schul Sibel
+#facs_8_r2l2 24
+#facs_43_r2l7 8
+#facs_267_r5l57 Jax Gelder
+#facs_11_r1l1 16
+#facs_6_region_1633454281779_2775l1 d
+#facs_267_r3l5 Mitboche
+#facs_192_r5l20 Straßen Rechnung
+#facs_8_r2l2 24
+#facs_267_r5l63 7. Landasenhammer
+#facs_11_r6l1 17
+#facs_267_r5l65 dienstag der
+#facs_55_r4l20 8 Ohngeld außer Bezirken
+#facs_4_r1l1 2
+#facs_192_r5l29 Dito immer Bezirk
+#facs_267_r5l69 1. Stadtbacht
+#facs_267_r5l70 Mitbahn den 15.
+#facs_55_r4l27 Waysenhaus
+#facs_121_r6l3 Stadt Ohmgelt.
+#facs_3_region_1627936339514_16l1 1
+#facs_190_r7l32 denstag
+#facs_121_r6l6 Söspfenning
+#facs_267_r5l76 1. Kirchmeyer von Ruegere
+#facs_329_r3l22 Zustanden
+#facs_121_r6l11 5. d. Weinschenk
+#facs_267_r5l79 1. Groß Allmosten
+#facs_29_r1l1 52
+#facs_147_r4l2 C O
+#facs_268_r2l2 NB. da wo Stifft und
+#facs_268_r2l3 Plöster der Comenthus
+#facs_268_r2l4 alwesen muß noch
+#facs_268_r2l5 begin* beygesetzt werden.
+#facs_268_r2l6 & Cartullaria
+#facs_90_r11l1 auf erahmen
+#facs_23_region_1633454616028_2913l1 An
+#facs_227_r2l13 alle deutsche Herren Amtleut,
+#facs_268_r3l3 die auf den Schlösern ligende, Urtitel
+#facs_268_r3l4 Document und Original Urkunde, sollen
+#facs_268_r3l5 der Archiven Commission eingesendt werden.
+#facs_36_r3l7 Schultheiß und Rath
+#facs_268_r3l7 Da Unsere Archiven Commission
+#facs_268_r3l8 den Hoch Oberkeitlichen Auftrag erhalten
+#facs_268_r3l9 alle annoch vorhandene, hin und
+#facs_268_r3l10 wieder zerstreute, unsere Lande
+#facs_268_r3l11 und Restizungen anstehende Documenta
+#facs_268_r3l12 Urkunde etc. zu samlen, in Ordnung
+#facs_268_r3l13 zu bringen, und behörig inventorisieren
+#facs_268_r3l14 zu laßen, als tragen Wir Euch
+#facs_268_r3l15 auf, alle die etwan noch in Eünrem
+#facs_268_r3l16 Schloß (Closter) archiven ligende
+#facs_268_r3l17 Urtitel, Document und Original
+#facs_268_r3l18 Urlunde bemelt Unferer Archiven
+#facs_268_r3l19 Commission sub Inventario einzusenden
+#facs_268_r3l20 damit dieselben, dem Oberveith-Willen
+#facs_268_r3l21 gemäß in Ordnung gebracht und in
+#facs_268_r3l22 Unserm Stands Archiv sorgfältig auf¬
+#facs_268_r3l23 bewahrt werden können. Dat. d. 2. 8. bis 1786
+#facs_157_r4l1 oll.
+#facs_268_r5l1 521
+#facs_23_region_1633454616028_2913l1 An
+#facs_268_r5l3 alle welschen Herren Amtleut.
+#facs_268_r5l4 wegen Dispensation der Aspiranten
+#facs_268_r5l5 zu denen verledigten Schreiber Stellen
+#facs_268_r5l6 von der allhier Reise auf Bern.
+#facs_36_r3l7 Schultheiß und Rath
+#facs_268_r5l8 da Wir seit einiger Zeit wahrge¬
+#facs_268_r5l9 nomen, daß bey vacanten Notariat
+#facs_268_r5l10 Stellen in Unsern welschen Landen
+#facs_268_r5l11 alle diejenigen so sich um dieselbe
+#facs_268_r5l12 leberben, sich persönlich in hiesige
+#facs_268_r5l13 hauptstadt begeben, und bißweilen
+#facs_268_r5l14 eine zimliche Zeit sich in derselben
+#facs_268_r5l15 aufhalten, welches dann nicht anders
+#facs_268_r5l16 als für dieselben kostbar und
+#facs_268_r5l17 aüßerst beschwerlich seyn muß,
+#facs_268_r5l18 So haben Wir um diesen gan¬
+#facs_268_r5l19 unnöhtigen allher Reifen unserer
+#facs_268_r5l20 getreuen Angehörigen vorzubiegen.
+#facs_328_r2l8 Landes vätterlicher Vorsorge¬
+#facs_268_r5l22 und zum besten derselben zu
+#facs_268_r5l23 erkennen gut befunden, daß in
+#facs_268_r5l24 Zukonff beÿ dergleichen Schreiber
+#facs_268_r5l25 Vaccanzen alle Aspiranten sich ledigen
+#facs_270_r1l1 522.
+#facs_269_r2l1 Dingen bey ihren H. Amtleuten
+#facs_269_r2l2 anmelden, und ihnen ihre Actes de
+#facs_269_r2l3 Capacites und übrige vorgeschriebenen
+#facs_270_r2l4 Requisita samt einer Bittschrift
+#facs_269_r2l5 darinn ihre Bründe enthalten sich
+#facs_269_r2l6 befinden, zu stellen sollen, um selbige
+#facs_269_r2l7 als dann an uns gelangen zu laßen,
+#facs_269_r2l8 da dann nur derjenige so darzu
+#facs_269_r2l9 wird erbählt worden seyn, sich
+#facs_269_r2l10 nachwerts, so wohl zu praestierung
+#facs_269_r2l11 des Eids als Einmatriculierung
+#facs_269_r2l12 in hiesige Schreiber Controlle allher
+#facs_269_r2l13 begeben wird.
+#facs_269_r2l14 Welch unsere Verordnung ihr
+#facs_269_r2l15 seines behörigen Orts und thun,
+#facs_269_r2l16 und auch zu könftiger Verbachtung
+#facs_269_r2l17 in die Schloßbücher einschreiben
+#facs_269_r2l18 laßen werdet.
+#facs_269_r2l19 te
+#facs_269_r2l20 Datl. den 2t Octobris 1786,
+#facs_28_r4l1 Coll
+#facs_269_r4l1 523
+#facs_23_region_1633454616028_2913l1 An
+#facs_269_r4l3 alle Herrschafts- und Gerichts Herren
+#facs_269_r4l4 in dem Landgricht Seftigen. Sepp:
+#facs_269_r4l5 Straßen Verbesserung wird anbefohlen.
+#facs_36_r3l7 Schultheiß und Rath
+#facs_269_r4l7 Die Uns pflichtmäßig gethane Anzeige
+#facs_269_r4l8 von dem mangelbaren Zustand der in
+#facs_270_r4l9 den verschiedenen Bezirken des Land¬
+#facs_269_r4l10 grichts Seftigen, sich befindlichen Straßen
+#facs_269_r4l11 und der zu ihrer nötigen Verbeßerung
+#facs_270_r4l12 vergeblich an die dortige Feursame
+#facs_269_r4l13 ausgestelten Befehlen, veranlaßet
+#facs_270_r4l14 Uns, Euch gleichbietolches auch gegen
+#facs_269_r4l15 die übrigen Herrschafts und Gerichts¬
+#facs_269_r4l16 Herren in bedeutem Landgricht ge¬
+#facs_270_r4l17 schiehet) anzubefehlen so viel Enern
+#facs_269_r4l18 Herrschafts Bezirk anbetrift zu
+#facs_269_r4l19 veranstalten, daß die in demselben
+#facs_269_r4l20 mende Straßen fördersamst erbeßert.
+#facs_269_r4l21 und von denen betreffenden Gemeinden
+#facs_269_r4l22 anstößeren in einen guten
+#facs_214_r3l1 diese
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_270_r1l1 522.
+#facs_269_r2l1 Dingen bey ihren H. Amtleuten
+#facs_269_r2l2 anmelden, und ihnen ihre Actes de
+#facs_269_r2l3 Capacites und übrige vorgeschriebenen
+#facs_270_r2l4 Requisita samt einer Bittschrift
+#facs_269_r2l5 darinn ihre Bründe enthalten sich
+#facs_269_r2l6 befinden, zu stellen sollen, um selbige
+#facs_269_r2l7 als dann an uns gelangen zu laßen,
+#facs_269_r2l8 da dann nur derjenige so darzu
+#facs_269_r2l9 wird erbählt worden seyn, sich
+#facs_269_r2l10 nachwerts, so wohl zu praestierung
+#facs_269_r2l11 des Eids als Einmatriculierung
+#facs_269_r2l12 in hiesige Schreiber Controlle allher
+#facs_269_r2l13 begeben wird.
+#facs_269_r2l14 Welch unsere Verordnung ihr
+#facs_269_r2l15 seines behörigen Orts und thun,
+#facs_269_r2l16 und auch zu könftiger Verbachtung
+#facs_269_r2l17 in die Schloßbücher einschreiben
+#facs_269_r2l18 laßen werdet.
+#facs_270_r2l19 Datl. den 2ten Octobris 1786.
+#facs_28_r4l1 Coll
+#facs_269_r4l1 523
+#facs_23_region_1633454616028_2913l1 An
+#facs_269_r4l3 alle Herrschafts- und Gerichts Herren
+#facs_269_r4l4 in dem Landgricht Seftigen. Sepp:
+#facs_270_r4l5 Straßen Verbesserung wird anbefohlg.
+#facs_36_r3l7 Schultheiß und Rath
+#facs_269_r4l7 Die Uns pflichtmäßig gethane Anzeige
+#facs_269_r4l8 von dem mangelbaren Zustand der in
+#facs_270_r4l9 den verschiedenen Bezirken des Land¬
+#facs_269_r4l10 grichts Seftigen, sich befindlichen Straßen
+#facs_269_r4l11 und der zu ihrer nötigen Verbeßerung
+#facs_270_r4l12 vergeblich an die dortige Feursame
+#facs_269_r4l13 ausgestelten Befehlen, veranlaßet
+#facs_270_r4l14 Uns, Euch gleichbietolches auch gegen
+#facs_269_r4l15 die übrigen Herrschafts und Gerichts¬
+#facs_269_r4l16 Herren in bedeutem Landgricht ge¬
+#facs_100_r4l22 stand, Euch von dieser vorhabenden Reise
+#facs_269_r4l18 Herrschafts Bezirk anbetrift zu
+#facs_269_r4l19 veranstalten, daß die in demselben
+#facs_270_r4l20 ligende Straßen fördersamst erbessert.
+#facs_269_r4l21 und von denen betreffenden Gemeinden
+#facs_270_r4l22 oder anstößeren in einen guten
+#facs_128_r2l8 Erbschaften und der Heltstagen
+#facs_261_r2l5 gelebt werde.
+#facs_29_r1l1 52
+#facs_27_r3l12 Obid
+#facs_28_r4l1 Coll
+#facs_125_r2l27 deßen Ihr berichtet werdet, um
+#facs_271_r3l2 solches seines Orts, und mit der zu
+#facs_271_r3l3 gebenden Vertröstung zu eröfnen
+#facs_271_r3l4 daß Wir nach Bährschaft beendigter
+#facs_271_r3l5 Arbeit uns nicht entgegen seyn
+#facs_271_r3l6 laßen berden, für die Straßen
+#facs_271_r3l7 welche für die HochOberkeitlichen
+#facs_271_r3l8 Holz- und Steinführen nahmhaft.
+#facs_271_r3l9 gebraucht und beschädiget worden,
+#facs_271_r3l10 nach Gewandten Umständen, etwas
+#facs_271_r3l11 billichet noch Landes vätterlicher
+#facs_271_r3l12 Milde beyzutragen.
+#facs_271_r3l13 An die drey drey weiblen des-
+#facs_271_r3l14 Landgrichts Seftigen. Ihnen den
+#facs_271_r3l15 gleichen Befehl mit der beygefügten
+#facs_271_r3l16 Vertröstung und mit dem Beyfügen
+#facs_271_r3l17 zusenden, wann die eint oder
+#facs_271_r3l18 andern nicht gehorsam leisten
+#facs_271_r3l19 würden, jeden Bezirk in der Saum¬
+#facs_271_r3l20 seeligen Kösten verfertigen zu lasen.
+#facs_271_r3l21 und die daherige Verzeichniß den
+#facs_271_r3l22 betreffenden Gemeinden zu übersenden,
+#facs_53_r8l10 e
+#facs_27_r3l12 Obid
+#facs_271_r6l1 525.
+#facs_271_r6l2 zugleich aber an allen Orten wo es
+#facs_271_r6l3 nöhtig seyn wird, zu veranstalten,
+#facs_271_r6l4 daß den Straßen noch die Räume
+#facs_271_r6l5 aufgeschneitet werden.
+#facs_271_r6l6 Wie zu thun etc. Dat. d. 5. Octobl. 1786
+#facs_271_r6l7 Zedel an Mühh. Venner von Grafen
+#facs_271_r6l8 ried, als regierender Venner des
+#facs_271_r6l9 Landgerichts Seftigen. Ihne deßen
+#facs_271_r6l10 über sein daheriges Schreiben copeyl.
+#facs_271_r6l11 berichten, und die Regierte Verzeichniße
+#facs_271_r6l12 zurüksenden.
+#facs_23_region_1633454616028_2913l1 An
+#facs_271_r6l14 die Herren Amtleut zu Wiblispurg,
+#facs_271_r6l15 Milden, Lausanne, und Romainmotier sept.
+#facs_271_r6l16 Nachlaß der durch Hochgewitter
+#facs_67_r4l7 beschädigten Zehnden.
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_271_r6l19 Es ist uns feüte von Unsern für
+#facs_271_r6l20 geliebten Mit Stähten den Herren
+#facs_271_r6l21 Belsch Sekelmeister und Venneren
+#facs_271_r6l22 der Vortrag erstecket worden, über
+#facs_67_r4l34 5.26
+#facs_272_r2l1 die heurigen Jahrs vom Hochgeleiter
+#facs_272_r2l2 beschädigten Hochoberkeitlichen
+#facs_272_r2l3 Getreid Zehnden.
+#facs_272_r2l4 Da sich nun aus den eingesendten
+#facs_272_r2l5 eydlichen Schatzungen ergeben, daß
+#facs_272_r2l6 Die Zehndbestehern Eüeres Amts¬
+#facs_272_r2l7 nachfolgenden Schaden erlieten, als
+#facs_272_r2l8 Wiblisturg
+#facs_124_r5l40 An dem Zehnden zu Cudrefia
+#facs_69_r7l4 m
+#facs_9_r1l1 12.
+#facs_187_r2l23 s
+#facs_68_r4l3 an Waysen
+#facs_3_region_1627936339514_16l1 1
+#facs_43_r2l7 8
+#facs_272_r2l16 Bled
+#facs_4_r1l1 2
+#facs_6_region_1633454281779_2775l1 d
+#facs_4_r13l2 7
+#facs_124_r5l18 Haber
+#facs_4_r4l1 3.
+#facs_4_r4l1 3.
+#facs_23_region_1633454616028_2913l1 An
+#facs_272_r2l25 dem Zehnden zu Regrand¬
+#facs_23_region_1633454616028_2913l1 An
+#facs_272_r2l27 Waizen
+#facs_4_r1l1 2
+#facs_7_r7l1 9
+#facs_272_r2l16 Bled
+#facs_42_r1l1 76.
+#facs_80_r3l6 haben.
+#facs_6_region_1627936574015_66l1 6
+#facs_4_r8l9 a
+#facs_68_r4l49 Milden,
+#facs_272_r2l39 an dem Zehnden zu
+#facs_147_r4l2 C O
+#facs_67_r4l36 An Haber
+#facs_4_r7l1 4
+#facs_272_r2l43 an dem Zehnden zu Cremin.
+#facs_67_r4l36 An Haber
+#facs_4_r6l1 5
+#facs_272_r2l46 Causanne
+#facs_272_r3l1 527
+#facs_128_r2l16 Salben
+#facs_54_r5l22 Lausanne
+#facs_272_r3l4 an dem Zehnden zu Seigners
+#facs_68_r8l26 An Waizen
+#facs_272_r3l6 7 1.
+#facs_272_r3l7 15, 1,
+#facs_124_r5l18 Haber
+#facs_272_r3l9 an dem Zehnden zu Naz.
+#facs_4_r7l1 4
+#facs_4_r4l1 3.
+#facs_272_r2l27 Waizen
+#facs_83_r3l6 en
+#facs_50_r1l1 92
+#facs_124_r5l18 Haber
+#facs_272_r3l16 an dem Zehnden zu Domartin
+#facs_4_r6l1 5
+#facs_272_r2l27 Waizen
+#facs_23_region_1633454616028_2913l1 An
+#facs_9_r5l1 34
+#facs_124_r5l18 Haber
+#facs_272_r3l32 an dem Zehnden zu Boulen
+#facs_4_r7l1 4
+#facs_4_r1l1 2
+#facs_124_r5l11 Wachen
+#facs_23_region_1633454616028_2913l1 An
+#facs_8_r1l1 10
+#facs_124_r5l18 Haber
+#facs_272_r3l29 an dem Zehnden zu Montaubion
+#facs_4_r4l1 3.
+#facs_67_r4l36 An Haber
+#facs_272_r3l32 an dem Zehnden zu Boulen
+#facs_13_r5l1 45.
+#facs_67_r4l36 An Haber
+#facs_272_r3l32 an dem Zehnden zu Boulen
+#facs_7_r2l12 18
+#facs_68_r8l26 An Waizen
+#facs_80_r3l6 haben.
+#facs_68_r8l35 Romainmotier
+#facs_272_r2l39 an dem Zehnden zu
+#facs_16_r9l1 t
+#facs_68_r4l14 Anhaben
+#facs_342_r2l9 gehalten werde.
+#facs_29_r1l1 52
+#facs_147_r4l2 C O
+#facs_273_r3l1 gnädigst nachgelaßen. (An Milden)
+#facs_273_r3l2 dabey aber erkent: daß die Kösten
+#facs_273_r3l4 der Schazung davon abgezogen,
+#facs_273_r3l5 und von den Zehnd gestehern er-
+#facs_273_r3l6 tragen werden sollen.
+#facs_125_r2l27 deßen Ihr berichtet werdet, um
+#facs_273_r3l8 solches den Zehnd bestehenen zu er¬
+#facs_273_r3l9 öfnen, und ihnen obbemelte Ab¬
+#facs_273_r3l10 schehung an der Restand Sum abzu¬
+#facs_273_r3l11 rechnen.
+#facs_273_r5l6 Datl. den 15ten Novembris 1786.
+#facs_273_r3l13 Bottstadt Prof.
+#facs_273_r3l14 zehnd Nachlas.
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_273_r3l16 da uns heute von Unserm Fürge,
+#facs_273_r3l17 lietten Miträhten den Herren deut
+#facs_355_r2l7 Bekelmeister und Venere, untersuch¬
+#facs_273_r3l19 trag über die heurigen Jahrs durch
+#facs_273_r3l20 Hochgebinder beschädigten Oberbeitlichen
+#facs_273_r3l21 zehnden erstadtet worden, so haben
+#facs_273_r3l22 Wir ersehen, daß in Eüerem Amt
+#facs_273_r3l23 die Resteher des Arch Zehndens durch
+#facs_273_r3l24 dieses Unglüb an demselben neue
+#facs_130_r3l31 Alle
+#facs_29_r1l1 52
+#facs_273_r5l2 Mück Haber Schaden erlicken; welche
+#facs_273_r5l3 Betrag wir ihnen hiemit in Gnaden
+#facs_273_r5l4 nach laßen wollen; deßen Ihr
+#facs_273_r5l5 zu Eüerem Verhalt berichtet werdet.
+#facs_273_r5l6 Datl. den 15ten Novembris 1786.

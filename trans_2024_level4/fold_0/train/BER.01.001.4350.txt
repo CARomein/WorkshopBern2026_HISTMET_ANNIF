@@ -1,0 +1,94 @@
+Law ID: BER.01.001.4350
+Name: Die Bätteljagd von Fryburg ausgeschrieben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 83/83
+# High similarity (>=50%): 79
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_28_r4l1 3
+#facs_28_r4l2 Herren Amtsmann zu Caupen
+#facs_28_r4l3 lich Sakeljahr von Fryburg ausgeschrieben
+#facs_28_r4l4 Schultheil und Raths
+#facs_28_r4l5 Da Wir aus Euerem Antwort Schreiben vom 19ten dis ersehen
+#facs_28_r4l6 Belchermaßen Ihr eine Erläuterung verlanget, über die
+#facs_28_r4l7 Spedition des Pötelgesinds, welches durch die von Löbl. Nam¬
+#facs_28_r4l8 fryburg angeordnete Säteljagen wird aufgebracht, und
+#facs_28_r4l9 bey dem Debouche der Semesenbrügg, dem alda von Euch
+#facs_28_r4l10 toch in abschikenden Piquet wird übergeben werden, so wollen
+#facs_28_r4l11 w mir Euch solche dahin ertheilen, daß Ihr dieses Besindel
+#facs_28_r4l12 von der Semester Brugg weg, auf verzeich führen laßet,
+#facs_28_r4l13 alwo es durch veranstaltung Unters Amtsmanns zu Murten, wo
+#facs_28_r4l14 einem alda eintreffenden Signet wird übernohmen werden, und wo
+#facs_28_r4l15 Da weiters über Munt scheinr nach der Zihlbrugg in das Neuenb
+#facs_28_r4l16 gische wird abgeführt werden. Deßen nun wollen Wir Euch verstän¬
+#facs_28_r4l17 digen, um solches zu veranstalten. Datum den 21ten December 1766.
+#facs_28_r4l18 Ain
+#facs_28_r4l19 Herren Amtsmann zu Murten
+#facs_28_r4l20 Böteljägi von Fryburg ausgeschrieben.
+#facs_28_r4l21 Schultheil und Raths
+#facs_28_r4l22 Damit das durch die von Lobl. Stand Fryburg auf den 28-29 und 30ten die
+#facs_28_r4l23 Monats in Ihren Landen angeordnete Rätteljurg, aufgebrachte Gewelgestin¬
+#facs_28_r4l24 durch die nächste Reute aus Unseren Landen geschaffet werden
+#facs_28_r4l25 Einen, so ist unserem Amtsman zu laupen aufgetragen
+#facs_28_r4l26 worden, das bey der Semesen Trugg eintreffende Gesindel, durch
+#facs_28_r4l27 ein Piquet nacher Sterzerz führen zu laßen, wo dan Ihr ve¬
+#facs_28_r4l28 anstalten werdet, daß selbiger auch mit einem Signet emp
+#facs_28_r4l29 fangen, und von dannen nach Müntstheimer, also Unser un¬
+#facs_28_r4l30 man von Erlach selbiger ebenfahls mit einem Piquet empfahren
+#facs_28_r4l31 laßen wird, geführt werden solle, und da kein bürzerer Bey sey
+#facs_28_r4l32 findet, das Euch zugeführte Gesindel zu spediren, als dem
+#facs_28_r7l1 49
+#facs_28_r7l2 Diese konte nach Verzerh, als werdet Ihr solches, ebenso wohl
+#facs_28_r7l3 als das so von Mouton, Avanche, und theterlingen heil¬
+#facs_28_r7l4 kommen wird, dahin begleiten, und dorten übergeben laßen,
+#facs_28_r7l5 Wie zu thun Datum den 2 Sund 22ten December 1768
+#facs_28_r7l6 An
+#facs_28_r7l7 Herren Bentemann zu Erlang
+#facs_28_r7l8 Beteljegi von Fryburg ausgeschrieben
+#facs_28_r7l9 Schrettheiß und Raths
+#facs_28_r7l10 Damit das durch die von Lobl. Stand Fryburg auf den 28. 29. und 31
+#facs_28_r7l11 die monats in Ihrem Landen angeordnete Geschjegen aufgebrachte
+#facs_28_r7l12 3ätselge sind, durch die nächste roato aus unseren Landen geschaffet
+#facs_28_r7l13 werde, so ist Unserem gemeinsommen bintsmann zu Murten aufge¬
+#facs_28_r7l14 tragen worden, dar von der Seinsenbrögg her, Ihnen nach Verzeigen
+#facs_28_r7l15 Zuführende Gesindel, auch dasjenige, so von Milden, v. Biblis
+#facs_28_r7l16 burg und beserlingen dahin kommen, und dasjenige so Er selbst,
+#facs_28_r7l17 von Märten her zu spediren haben wird, aldorten mit einem
+#facs_28_r7l18 Viquet empfahne, und von dannen selbiger nach Munt scheiner
+#facs_28_r7l19 bringen zu laßen, alles er durch Eüre Veranstaltung eben
+#facs_28_r7l20 fahls mit einem Piquet empfangen, und dan nach der Zihlbrugg
+#facs_28_r7l21 In das Neuenburgische Spedirt werden soll, allwo dan solches durch
+#facs_28_r7l22 ein Neuenburgischer Signet übernehmen werden wird, wie dann
+#facs_28_r7l23 Den Staats Rath zu Neuenburg das behörige zu diesem Ende über
+#facs_28_r7l24 schrieben haben; daßen Ihr berichtet werdet. Datum d. 21 xbr 1768
+#facs_28_r7l25 Herren Beutdmann zu Nydau
+#facs_28_r7l26 Ceteljegen von Fryburg ausgeschrieben
+#facs_28_r7l27 Schultheis und Barth
+#facs_28_r7l28 Es hat Löbl. Stand Fryburg auf den 28-29 und 30ten des Monats
+#facs_28_r7l29 eine Barteljegen in Ihren Landen zu halten angeordnet, da
+#facs_28_r7l30 Wir nun Unserseits die Verfügung gethan, das dieses Strolch
+#facs_28_r7l31 Gesund auch aus Unseren Landen, durch die bürhesten Weg¬
+#facs_29_r4l1 fortgeschafft anbey behindert werde, daß solches von äußenher
+#facs_29_r4l2 nicht wieder sich im Land werste, als werdet Ihr befelchnet,
+#facs_29_r4l3 zu Eigert genugsomme Anstalten zu verfügen, damit
+#facs_29_r4l4 Diesem Bestind der Wieder mit in Unser Land verkehrt
+#facs_29_r4l5 ber
+#facs_29_r4l6 werde. Wie zu thun. Datum den 2sten X 1768.
+#facs_29_r4l7 Bierungen / alt 3. Jahr.
+#facs_29_r4l8 Die vier Italianischen Amtleute sept¬
+#facs_29_r4l9 Herren Major Vchiffel. renanten ertheilt
+#facs_29_r4l10 Schultheil und Rath
+#facs_29_r4l11 Auf das ehrerbietige Nachwerben des Edelgebohrnen und
+#facs_29_r4l12 Gestrengen Unsers Lieben getreuen Burgers David Tschiß etc.
+#facs_29_r4l13 Major im Regiment Tscharner in Königl. Sardinischen
+#facs_29_r4l14 Diensten, haben wir dem selben erlaubt, fünfzig
+#facs_29_r4l15 Mann renanten für seine Unterhabende Compagnie in den
+#facs_29_r4l16 vier Italienischen Bogteyen, anwerben zu können, daß
+#facs_29_r4l17 eßir Euch berichten, anbey dem auftragen wollen, die Verzeugung
+#facs_29_r4l18 ins der von Ihme anwerbenden und Euch vorstellenden
+#facs_29_r4l19 Mannschaft unser recronten Cammer einzusenden.
+#facs_29_r4l20 Datum den 21ten December 1768

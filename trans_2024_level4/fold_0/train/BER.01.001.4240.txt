@@ -1,0 +1,71 @@
+Law ID: BER.01.001.4240
+Name: Wegen Verzendung der Herdapflen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 59/60
+# High similarity (>=80%): 11
+# Low similarity (<80%): 48
+# Not found: 1
+#
+#facs_3_r1l1 Coll
+#facs_121_r5l19 dorff gebürtig, 19. Jahr alt, 5. Schue und 5½ Zoll hoch, lang
+#facs_178_r5l23 dupften angesichts, hat braune Augenbrauen, groß¬
+#facs_57_r4l11 einen Hut mit weißen zatlen, und einen schbar¬
+#facs_74_r5l14 schbarze Hosen und Strümpf, und in den
+#facs_17_r3l7 und einschwarzen Wullhut.
+#facs_5_r2l1 An
+#facs_235_r4l13 Alle Teütsch und Weltsche H. Amtleuth, 4. Städt, Freybeibel
+#facs_3_r1l1 Coll
+#facs_251_r5l5 und Amann, Stifft allhier, Zoffingen Oeconom: Gottstatt
+#facs_251_r5l6 Denen p. Zedel an hiesige Cänzel, an Mehbhl. des
+#facs_251_r5l7 Insul¬ und Spittahl=Directorq, Metzbhl. des¬
+#facs_251_r5l9 die Hl. Schaffner des Interlaken-Friemsberg
+#facs_251_r5l10 und St. Johannster Hauses, Hechtis byl und
+#facs_251_r5l26 es wegen Verzehndung der Herd=Apflen, bey der
+#facs_29_r1l1 52.
+#facs_12_r4l28 Erlach
+#facs_57_r4l20 Schultheiß
+#facs_27_r1l1 48
+#facs_80_r2l23 auch der hierbey zu nemen erforderlichen Praecautionen
+#facs_119_r3l6 Wir haben unterem 20ten Janl. 1745. Unseren entschluß
+#facs_175_r5l27 denzins, Zehnden oder andere Grundgerechtigkeiten
+#facs_85_r2l14 mer in Erleichterung der Wagen und der
+#facs_3_r1l1 Coll
+#facs_117_r3l2 sie nachricht gegeben, und befohlen, die zwey ersten Art
+#facs_257_r3l33 Adelboden Pfrud besazung außgeschrieben 653
+#facs_55_r3l1 haben, die anstalt ergehen zu laßen, da¬
+#facs_168_r2l27 bührend anzugeben, welche dann durch veranstaltung
+#facs_121_r2l13 Sie ohne anders fortgebiesen werden sollen; Wie nun
+#facs_76_r4l7 mitkommendem Placcarden zu ersehen haben.
+#facs_178_r5l15 gesichte, hat braune Angenbrauen, beiße große auge
+#facs_252_r3l2 einem Achtel einer Jucharten, oder 5000. quadrat
+#facs_171_r2l18 schreiben unterlaßen werden sollten, daß in solchen fählen
+# NOT FOUND: anhängig, danach fürohin nit mehr mit demselben singaga¬
+#facs_243_r3l14 red zu bezahlen schuldig seyn sollen; Alles neben
+#facs_172_r2l12 von thun, so denne dem Zollner zu Ende der Thun¬
+#facs_73_r5l2 gefängl. angehalten werden p Als haben
+#facs_34_r2l15 bein in derselben, und dem anligenden Stadtgericht
+#facs_176_r4l6 ansel zu verlesen.
+#facs_34_r2l19 Excessen, der behörige Einhalt gethan werden könne,
+#facs_58_r5l20 wieder
+#facs_81_r4l16 derem Mirfallen bährnemen müßen, wie
+#facs_174_r2l20 verfahren, und daherige Biderhandlungen entwe¬
+#facs_53_r5l5 Ihnen die Obrigkeitliche Erkantnus in ansehen
+#facs_161_r4l2 Rurgunderen verursachet werden, bollen Meghhl die
+#facs_109_r2l15 len, nachfolgende Scheid-Münzen, benantl.
+#facs_35_r2l2 widerhandlende ansonsten mit einer Ihrem
+#facs_33_r4l19 Haben Wir in Erwegung der Begründnuß dieses,
+#facs_42_r2l18 und Mandat, samt daheriger ernstlicher
+#facs_249_r4l26 anzuhalten und zu Examinieren, uns aber den
+#facs_62_r5l15 men, sondern sogar unter fälschlichem Nahmen
+#facs_11_r3l1 zu laßen, und uns zu berichten. Dabey Wir dem¬
+#facs_69_r4l6 das Waßer gesezt werden, des Nachts aber
+#facs_194_r3l4 darnach verhalten könne. Act. d. 1. Oct. 1764.
+#facs_121_r2l16 meinden in unseren Landen öffentlich kund gemacht
+#facs_138_r3l17 nicht allein zu Jedermans wissenschaft von Canzler verlesen
+#facs_193_r5l21 Drey für fünff Sazen, anzunemmen oder nicht; Welcher
+#facs_252_r3l11 von Canzlen verlesen, und seines Orts einschreiben
+#facs_240_r3l24 zu welchem Ende alle Schwellepflichtigen Pers
+#facs_252_r3l12 zu laßen. Dat. d. 20ten Juny 1766.

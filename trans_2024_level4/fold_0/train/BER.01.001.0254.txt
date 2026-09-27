@@ -1,0 +1,44 @@
+Law nr: BER.01.001.0254
+Name: Ufflag 1 Pfund Pfennige nachvolgendenn Ämpterenn unnd Vogtyenn järlich denn Rhätenn, unnd Amptlüten für ir abgangne Besoltung zum guetenn Jar ussrichten.
+
+# EXTRACTION INFO:
+# Volume: A_I_480
+# Matched: 34/34
+# High similarity (>=50%): 33
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_186_r4l16 9
+#facs_186_r4l17 1184 f 15 x
+#facs_186_r5l1 152
+#facs_186_r5l2 317.
+#facs_187_r1l1 318
+#facs_187_r1l2 Bfflag itl. pf. nachvolgendem Amsterem, vnnd
+#facs_187_r1l3 sogtgenet, Järlich denn Rhatenn, vnnd Amptleuten, für
+#facs_187_r1l4 Ex abgangenen beholtzung, zum guttum dar unzurichten
+#facs_187_r1l5 Diss ist geenden E. vorthalter etc. Vnnser Pramgarren vnnd andere der Stad Berner
+#facs_187_r1l6 20 Decemb 1601
+#facs_187_r1l7 nechstgelegne Buchwald, vnnd Holtzer: sind Inn diser zeitman
+#facs_187_r1l8 Tide Manual
+#facs_187_r1l9 Vermassenn, erhuwenn, vnd erschöpfft, das wir, noch andere vnser
+#facs_187_r1l10 Amptlich füchin, vnnser geordnet darholtz nit meer gesabun
+#facs_187_r1l11 nogend. Derhalbenn Ineur sich sonst durch Khouffenn siner gelagheit
+#facs_187_r1l12 nach wirt behollnenn, vnnd vor sichnun müssenn, wijl abne desen
+#facs_187_r1l13 Jatholtz vnnserenn Amptmann, vnnd dienstenn ordentlich Ingewidmet,
+#facs_187_r1l14 und zugethan, wordung, darüber auch nachgedenckenn, beschnehmen
+#facs_187_r1l15 wie nun dise abgang ohne vnnsur Stadt vnnd derselbenn, Inkhommen
+#facs_187_r1l16 beschwarr, nctlich gestalt, mochte insuest worden, Ist noghuolgund
+#facs_187_r1l17 mietel zugstandenn, vnnd befundenn wordenn, das funffzechen
+#facs_187_r1l18 niger vogtinn, vnd Amptlich bisbar der guttenn Jarmi, so die
+#facs_187_r1l19 vorigen, wegt, vnns denn schäfenn gewont sind zuuerhermin, mitlar
+#facs_187_r1l20 unter frey gewäsenn, Die aber Iren Amptherren nit wenig mit
+#facs_187_r1l21 alls andere habene. Derhalbenn wir geordnet, vnnd angesuch
+#facs_187_r1l22 das dieselbenn disin pflicht auch vnd worffenn, vnd fürhin schuldig
+#facs_187_r1l23 synn sollinn, Vnns Rhätenn vnnd Amptleiten, cum statt der hieobstadt
+#facs_187_r1l24 abgangnen beholtsung, Järlich zu genannt segt, ein pfund etc. Zum gu-
+#facs_187_r1l25 dar ves zurichtenn, Damit zuist sich indem für das derholts
+#facs_187_r1l26 funff zechenn pfund, welche vfflag dinem Ampt hiemit auch beschehen
+#facs_187_r1l27 die sollt du vnnd dme nachthommenn, Vns denen Ampts nutzung,
+#facs_187_r1l28 vnnd nit vonn vnnserem Inkhommen Järlich vnnd ordenlich zuendtricht
+#facs_187_r1l29 verpflicht synn, ouch sollichs getruweich, ohne mangel instact
+#facs_187_r1l30 das ist gantz vnnser will. Dat. 27 Aprilis 1588.

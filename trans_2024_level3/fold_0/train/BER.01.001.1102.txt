@@ -1,0 +1,146 @@
+Law ID: BER.01.001.1102
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 135/135
+# High similarity (>=50%): 125
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_226_r1l1 Toll
+#facs_226_r1l2 11.
+#facs_226_r1l3 wis
+#facs_226_r2l1 An Sie und die Weltschen Ambtleüth
+#facs_226_r2l2 Da weinwahr ist:
+#facs_226_r2l3 Schuldtheis und Rhat etc.
+#facs_226_r2l4 Wie sindt zur gewüs berichlet, das nit allein
+#facs_226_r2l5 Grömbde, Sonders auch vil vnserer Burger
+#facs_226_r2l6 und Vncthanen wein Ergönw und Einmenthal
+#facs_226_r2l7 hievor mehr beschechen, albereit vorfürlauffen.
+#facs_226_r2l8 und vff den künfftigen wein namhaffte
+#facs_226_r2l9 Summe gelts gebind, Ja auch wohl ein
+#facs_226_r2l10 gewüssen preis umb dasckas mähind, welche
+#facs_226_r2l11 anders mit heißt, dann wider Vnsere
+#facs_226_r2l12 Mandat den freyen und feylen kauff
+#facs_226_r2l13 versperen, vnd wider unsere Christenliche
+#facs_226_r2l14 Reformatio den,laub vff den Räben
+#facs_226_r2l15 verkauffen. Weil nun diß ein vulgdenlin
+#facs_226_r2l16 Obertredung anzogner Vnterern vff gute
+#facs_226_r2l17 Policry gegründte Mandat und ordnungen
+#facs_226_r2l18 ist, daruf, wann es Vngestraff hingehen
+#facs_226_r2l19 solte, anders mit, dann beides vertheünung
+#facs_226_r2l20 Des wenig vnd den Zuhn ervolgen wurde etc.
+#facs_226_r2l21 So benrlichend wir der Fleißige nachforschung
+#facs_226_r2l22 gehaben, wer die Jenigen Jun deiner
+#facs_226_r2l23 Verwaltung sey indt, so obgedeuter maßen
+#facs_226_r2l24 vff den Raub den Räben gelt empfangen,
+#facs_226_r2l25 wozu dann die kundt und namhafft gemacht
+#facs_226_r2l26 werdendt, soltu sie ohne Verschonen vermög
+#facs_226_r2l27 Unseren Reformation In unabläsige straff ziehen
+#facs_226_r3l1 2ib
+#facs_226_r3l2 Hieneben auch zu verhütung künfftigen
+#facs_226_r3l3 beschissen; Inn vermischung alten vff gangne
+#facs_226_r3l4 weins und den neüwen, nit vnderlassen
+#facs_226_r3l5 nochmahlen ein ernstige Kirche vnd visitatie
+#facs_226_r3l6 Den Kellern zuthun, vnd den Vfsgangne
+#facs_226_r3l7 und vnwünschafften nein, Vermög vorgehende
+#facs_226_r3l8 uns vom beutlichen abgeschaffen, unndt
+#facs_226_r3l9 die vnghorsamen und falbaren Zestraffen
+#facs_226_r3l10 Dalum 28. Augusti 1639.
+#facs_226_r3l11 .
+#facs_226_r3l12 Burgdorff, Wangen, Schwangen
+#facs_226_r3l13 Thun, Unterlacken
+#facs_226_r3l14 5
+#facs_226_r3l15 zweysinnen
+#facs_226_r3l16 Winnes, Thorberg,
+#facs_226_r3l17 Leitzburg
+#facs_226_r3l18 Arbung, Signauw Trachselin,
+#facs_226_r3l19 Brandis, Arberg, Erlach
+#facs_226_r3l20 Uydamu, Buren
+#facs_226_r3l21 Rouwzen
+#facs_226_r3l22 Zwiemsyng des H. Sekelndts halb bericht
+#facs_226_r3l23 Sch. Rhät und Burgerffl. zugeben.
+#facs_226_r3l24 Dieweil den Jenigen Zinsen halb, so
+#facs_226_r3l25 Coll
+#facs_226_r3l26 hievon vnsenen Stadtseckel ansängig gsen,
+#facs_226_r3l27 aber hernach In Aprili 1637 laut darumb
+#facs_226_r3l28 weisenden Mandato, unseine Ambleüthen
+#facs_226_r3l29 Zubezeüchen und Zeuerrechne übergeben.
+#facs_226_r3l30 und anbeuolchen worden, etwas anstosses
+#facs_227_r1l1 Coll
+#facs_227_r1l2 11
+#facs_227_r1l3 wie
+#facs_227_r2l1 An See und die Weltschen Ambtleüth
+#facs_227_r2l2 Da weinwahr ist:
+#facs_227_r2l3 Schuldtheis und Rhat
+#facs_227_r2l4 Wie sindt für gewüß berichlet, das nit allen
+#facs_227_r2l5 frömbde, Sonders auch vil vnserer Burger
+#facs_227_r2l6 und Vndthanen und ein Ergönw und Einentho
+#facs_227_r2l7 hievor mehr besprechen, albereit vorfürlauffen
+#facs_227_r2l8 und vff den fünfftigen wein namhaffte
+#facs_227_r2l9 Summe gelts gebind, Ja auch wohl ein
+#facs_227_r2l10 gewussen preis, vmb das faß mähind, welches
+#facs_227_r2l11 anders mit heißt, dann wider Vnsere
+#facs_227_r2l12 Mandat den freyen und feylen kauff
+#facs_227_r2l13 versperen, und wider unsere Christenliche
+#facs_227_r2l14 Reformatio den Raub vff den Räben
+#facs_227_r2l15 verkauffen. Weil nun diß ein vnlydenlich
+#facs_227_r2l16 Übertredung anzogner vnserer vff gut
+#facs_227_r2l17 Policry gegründte Mandat vnd ordnunge
+#facs_227_r2l18 ist, daruf, wann es ungestrafft hingehen
+#facs_227_r2l19 solte, anders mit, dann beides vertheünung
+#facs_227_r2l20 Des wenig vnd den fuhn en uolgen wurde etc.
+#facs_227_r2l21 So benrlichend wir der Fleißige nachforschung
+#facs_227_r2l22 gehaben, wen die Jenigen Juni Deiner
+#facs_227_r2l23 Verwaltung sey indt, so obgedeüter maßen
+#facs_227_r2l24 vff den Raub den Räben gelt empfangen,
+#facs_227_r2l25 wozu dann die kundt und namhafft gemacht
+#facs_227_r2l26 werdendt, soltu sie ohne verschonen vermög
+#facs_227_r2l27 unseren Reformation In unabläßig, straff suchen
+#facs_227_r3l1 Schs. I
+#facs_227_r3l2 Coll.
+#facs_227_r4l1 2ib
+#facs_227_r4l2 Kieneben auch zu verhütung künfftigen
+#facs_227_r4l3 -
+#facs_227_r4l4 beschisser, Inn vermischung alten vff gangne
+#facs_227_r4l5 weins, und den neüwen, nit vnderlassen
+#facs_227_r4l6 nochmahlen ein ernstige Kirche vnd visitatus
+#facs_227_r4l7 Den Kellern zuthun, vnd den vfsgangne
+#facs_227_r4l8 und vnwünschafften nein, Vermög vorgehende
+#facs_227_r4l9 Vnserem beuelchen abgeschaffen, unndt
+#facs_227_r4l10 die unghorsamen und falbaren Zestraffen.
+#facs_227_r4l11 Salum 28. Augusti 1639
+#facs_227_r4l12 Burgdorff, Wangen, Arwangen,
+#facs_227_r4l13 Thun, Interlacken, zweysimmen,
+#facs_227_r4l14 Winns
+#facs_227_r4l15 Thorberg, Leutzburg
+#facs_227_r4l16 Arbung, Signauw Trachselin,
+#facs_227_r4l17 Brandis, Arberg, Erlach
+#facs_227_r4l18 Eydauw,
+#facs_227_r4l19 Rouynen
+#facs_227_r4l20 Eriemsyerg des H. Deckelnder halb bericht
+#facs_227_r4l21 hät und Burger Herr zugeben.
+#facs_227_r4l22 Dieweil den Jenigen Zinsen halb, so
+#facs_227_r4l23 hievor vnseren Stadtseckel ansängig gesin¬
+#facs_227_r4l24 aber hernach In Aprili 1637 laut darin
+#facs_227_r4l25 weisenden Mandato vnsene Ambleüthen
+#facs_227_r4l26 zu bezeüchen und Heuerrechne vbergeben,
+#facs_227_r4l27 und anbeuolchen worden, etwas anstossen
+#facs_228_r1l1 sich erzeigen will: Alß habend wir
+#facs_228_r1l2 nothwendig funden, für hiemit zubevelchen
+#facs_228_r1l3 vns ein ordinliche vßfuhrliche Verzeichnung
+#facs_228_r1l4 wie hof sich die Zinsen, so demen
+#facs_228_r1l5 Ampt durch Herren Seckelmeister
+#facs_228_r1l6 Erischertz Domahlen vffgeladen
+#facs_228_r1l7 worden, belauf sint was und wien¬
+#facs_228_r1l8 Zu daran eingesangen, auch Ihme
+#facs_228_r1l9 Danan gelifendt und gewährt
+#facs_228_r1l10 In was sonten Jede Ciferung beschechen
+#facs_228_r1l11 vnd zu was preis, dieselben
+#facs_228_r1l12 angerechnet worden, Inuert
+#facs_228_r1l13 nechstlünfftigen Sambsag ohne
+#facs_228_r1l14 hätten zu verneuern vnser entschlu¬
+#facs_228_r1l15 zu vberschicken, da ist vnsert
+#facs_228_r1l16 Gill, Datum 2. Decemb. 1679

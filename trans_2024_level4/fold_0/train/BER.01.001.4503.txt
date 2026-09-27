@@ -1,0 +1,33 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 25/26
+# High similarity (>=80%): 23
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4503
+#facs_243_r2l5 den Haber zu verkaufen.
+#facs_30_r4l1 57
+#facs_3_region_1629374296225_399l1 An
+#facs_242_r5l3 Die Herren Amtleut im weltschen Land, da
+#facs_242_r5l4 Oberkeitlich Getreid ist
+#facs_243_r2l5 den Haber zu verkaufen.
+#facs_2_r1l2 Al
+#facs_242_r5l7 Stadthalter Rath und Burger¬
+#facs_243_r2l8 angehörten Vortrag Unserer Fürgeliebten
+#facs_242_r5l9 Mit Räthen der Herren weltsch Sebelmeister
+#facs_125_r2l9 und vemeren, und Unserer verordneten
+#facs_242_r5l11 KornCammer, und gethane Vorstellung.
+#facs_242_r5l12 haben Wir den im May lezthin aufgeschobene
+#facs_242_r5l13 Haber-Verkauf im weltschen Land, bey
+#facs_242_r5l14 nunmehr veränderten Umständen,
+#facs_242_r5l15 wieder aufgehoben, und Erkent, daß der
+#facs_242_r5l16 im weltschen Land noch zum Verkauf¬
+#facs_242_r5l17 restierende Haber nunmehro auch abgestoßen
+#facs_16_region_1629823786746_292l2 werde.
+#facs_160_r3l8 Deßen Ihr berichtet werdet mit befelch,
+#facs_242_r5l20 solchen zu kleinen Käußen hinzugeben
+#facs_242_r5l21 das daraus erlösende dann uns auf¬
+#facs_242_r5l22 Rechnung zu sezen. Datum das 1ten
+#facs_107_r4l11 augl
+#facs_178_r8l1 en

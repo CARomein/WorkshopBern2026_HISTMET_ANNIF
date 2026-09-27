@@ -1,0 +1,37 @@
+Law ID: BER.01.001.4944
+Name: Frömbden spanischen Kriegsvolcks wegen.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 25/25
+# High similarity (>=80%): 24
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_205_r3l8 Soffingen, St. Johansen, Arberg, Arouw
+#facs_205_r3l9 Biberstein, Schenckenberg, Lenzburg,
+#facs_205_r3l11 Kungsfelden, Brugs Frömbden Spanschen
+#facs_205_r3l12 Kriegsvolcks wegen
+#facs_205_r3l13 5 p., Was wir dich des paßes halben so wir dem Zeim¬
+#facs_205_r3l14 Kriegsnolck, das zu ergentzung des Obristen am Ryn Regi¬
+#facs_205_r3l15 ment zu Sauoy gefürt werden sollen, aber vnser Land gout
+#facs_205_r3l16 berichtet; und hieneben beuolchen alle mündere frembde daßart
+#facs_205_r3l17 denen zu rück zuhalten, wir sie dich ohne Zweystel noch güdter
+#facs_205_r3l18 maßen zuerinneren haben, als wir auch verhoffen willend sel¬
+#facs_205_r3l19 bigen, bißhar triwlich vnd gehorsammlich durch dich stadt geschehen
+#facs_205_r3l20 Wann wir aber berichtet, das sindt solcher vnser Fordnung, den Kriegs
+#facs_205_r3l21 uolck so durch Unser Land, vnd dem Spämer zu dienst zu zuzwey
+#facs_205_r3l22 begert, allerley undtel vnd weg sucht sich durch heimliche schlupfen
+#facs_205_r3l23 an Vngewonten Orth, kleinen paßen oder abwegen xxx borgnei¬
+#facs_205_r3l24 wyl es ge zu waßer oder zu landt, durchzuschleicken vnd paßieren
+#facs_205_r3l25 Als habend wir dich nochmalen hiemit ernstig sondern wollen, und
+#facs_205_r3l26 allein an offnen päßen, Sonder auch allen abwegen der Fehren
+#facs_205_r3l27 kendtinnen und durchzügen, die Vordnung zuthun, das solliche
+#facs_205_r3l28 Kriegsluth zu rück gewisen und hinder sich gehalten werdindt,
+#facs_205_r3l29 vnd zu übrig, wyl die leuff zimlig seltzam, vnd wir mit wußen
+#facs_205_r3l30 wo die vßehlach möchtend, vff vnser huß gudte achtung zugeben
+#facs_205_r3l31 und vff zu begebende Sachen allezijdt ein wachtbar auch zu halten
+#facs_205_r3l32 als wir vns zu diuem ernstig flÿß (sech haben wellendt)
+#facs_205_r3l33 Datum 7 Augusti 1616.

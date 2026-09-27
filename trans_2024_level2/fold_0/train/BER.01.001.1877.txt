@@ -1,0 +1,60 @@
+Law ID: BER.01.001.1877
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 49/49
+# High similarity (>=50%): 22
+# Low similarity (<50%): 27
+# Not found: 0
+#
+#facs_262_r1l1 10
+#facs_262_r1l2 An alle 2. undt W. Ambtluth
+#facs_262_r1l3 Ob idem subjectum.
+#facs_262_r1l4 Coll.
+#facs_262_r1l5 Schuldtseis vndt Raht der Statt Gern.
+#facs_262_r1l6 .
+#facs_262_r1l7 Weilen klag einkommen, daß hin und Wider mit nur in Unser
+#facs_262_r1l8 schlößeren Vndt Häusern der Lonten veraltet, vnd Venütz zu
+#facs_262_r1l9 großer quantitet da ligen theyr, sonder auch solcher Schlächter
+#facs_262_r1l10 verwaltet
+#facs_262_r1l11 Leuten von Vßenhör Ins Landt gebracht, den vnderthanen
+#facs_262_r1l12 verkaufen vnd sich darmit übel versorget werdet, alß habend
+#facs_262_r1l13 Wie das Volkomne negocium, darin der Lonten und das bli¬
+#facs_262_r1l14 Verstanden Wirt, In Vnseren handen zubehalten, vnd durch
+#facs_262_r1l15 Vnsere bestelte Verwalten zulaßen gutfunden, sonderlichen
+#facs_262_r1l16 Dieweilen man im Land selbsten die Materi zum Londte
+#facs_262_r1l17 reichlich vnd überfeüßig hat: Und die hiemit befelchen
+#facs_262_r1l18 Wallen, uns dan bericht zu übermachen, waß für Londter
+#facs_262_r1l19 bei die vorhanden, wie derselbe Conditioriert vnd von¬
+#facs_262_r1l20 Waß vßeren Orten her er ins Landt gebracht und In Was
+#facs_262_r1l21 preiß, wie nit weniger auch das bley debitiert werden,
+#facs_262_r1l22 Damit solchem nach die gutfindende Ordnung eingefuehrt
+#facs_262_r1l23 Vndt alslegen nach ernorderen der alte debitiert
+#facs_262_r1l24 Undt mit neü ehem erfrischet werden könne.
+#facs_262_r1l25 Goet mit Dir Datum 2. Maii 1668
+#facs_262_r1l26 10.
+#facs_262_r1l27 somme nouveau
+#facs_262_r1l28 .
+#facs_262_r3l1 An die W. Ambtleüth allein.
+#facs_262_r3l2 Schuldtheis undt Raht etc.
+#facs_262_r3l3 Wider den Im Weltschen Land klagenden alzu hohen preiß
+#facs_262_r3l4 des Puluers, da ein jedes pfund wegen der außwägeren
+#facs_262_r3l5 provision oder profit Umb ein batzen theürer als alhier Uns
+#facs_262_r3l6 kauffen wirt, zabend wie dises middel zune greiffen güffunde
+#facs_262_r3l7 daß eine abtheilung den Gmeinden Vndt den Vogteyen oder
+#facs_262_r3l8 Ambteren nach gemacht, und Vnß Jedwäderem Ambt ein Persche
+#facs_262_r3l9 der meinung jedoch, daß die so schon da sind, verbleiben)
+#facs_262_r3l10 bestelt werde, das Juluer alhier in dem preiß wie mans
+#facs_262_r3l11 Den Factoren gibt, gegen pahrer Bezahlung abzuholen, mit denen
+#facs_262_r3l12 so wohl den hievor alß ietz bestellenden sy für dey port
+#facs_262_r3l13 vnd provision vffs genießlichste selbsten tractieren vndt
+#facs_262_r3l14 Über ein komen möchtend: Deßen berichten Wir
+#facs_262_r3l15 Dich hiemit zu dem endt undt mit dem befelch, daß
+#facs_262_r3l16 Du In deinen Verwaltung solchen bestelten Puluer
+#facs_262_r3l17 verköuffnen insinuiren sollest, sich denn, mit aberun¬
+#facs_262_r3l18 Und wider Verkauffung des Puluers gemeß Zeuer
+#facs_262_r3l19 halten, Also daß darüber Im preis weiters
+#facs_262_r3l20 mit exadiert, Und ade Vernero Clag vermidten werde.
+#facs_262_r3l21 Als wir Uns Versechen. Datum 2. May 1668.

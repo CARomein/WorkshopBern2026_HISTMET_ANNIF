@@ -1,0 +1,27 @@
+Law ID: BER.01.001.3208
+Name: Die Capitulhaltung aussschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 16/16
+# High similarity (>=50%): 16
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_40_r5l6 An alle Teütsche Amtleüth, Item
+#facs_40_r5l7 Zoffingen und Gottstatt
+#facs_40_r5l8 obid: Nie Capitul Saltuirg
+#facs_40_r5l9 schreibe
+#facs_40_r5l10 Schuldtheiß und Rhat der Statt dem
+#facs_40_r5l11 Wir habend Vnseren Decanen Teutschen Landts aufgetragen,
+#facs_40_r5l12 die Haltung der Capitul heürigen Jahrs aufge¬
+#facs_40_r5l13 wohnte Zeit anzustellen; deßen zu hierdurch berichtet
+#facs_40_r5l14 wirst, Mit befelich die Capitul geflißen zu besuchen
+#facs_40_r5l15 und alle vorkommende Mängell und Klägdten den Actis
+#facs_40_r5l16 Eintragen zu laßen, In dem Verstand, daß selbige
+#facs_40_r5l17 fürderlich Müglich Nachwärts Recta an Unser Fürgeh:
+#facs_40_r5l18 Ehrenhaupt den Regierenden Hh. Schuldheißen über¬
+#facs_40_r5l19 sendt werden sollind, Wie alles In der form ge¬
+#facs_40_r5l20 schehen werde Wir vns zu dir versichend. Dat
+#facs_40_r5l21 4 Aprilis 1716

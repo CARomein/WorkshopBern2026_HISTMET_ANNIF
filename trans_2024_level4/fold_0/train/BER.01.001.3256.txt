@@ -1,0 +1,366 @@
+Law ID: BER.01.001.3256
+Name: Wegen Hinderhaltung dess fremden Weins.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 355/355
+# High similarity (>=50%): 348
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_168_r2l1 Mandat
+#facs_168_r2l2 Degen Hinderhaltung des fremden Weins,
+#facs_168_r2l3 Schultheiß Räht und Burger der
+#facs_168_r2l4 Stadt Bern etc.
+#facs_168_r2l5 Wir sind in der Landts-Vätterlichen Vorsorg¬
+#facs_168_r2l6 begriffen, wie das Belt beßer als hievor
+#facs_168_r2l7 in dem Land behalten, und aller unnöthiger
+#facs_168_r2l8 Anlaß zu deßen Veräußerung abgemitten werde.
+#facs_168_r2l9 möge; Wie nun un der anderem die Einfuhr
+#facs_168_r2l10 deß Frömden Weins vieles Belt auß dem Land
+#facs_168_r2l11 gezogen, als habens wir zu Hinderhaltung
+#facs_168_r2l12 deßelben folgendes Einsehen verordnet und
+#facs_168_r2l13 Erkent.
+#facs_168_r2l14 Vnd war erstlich, damit sich niemand mit dem
+#facs_168_r2l15 Nahmen fremder weinen wie, und under dem
+#facs_168_r2l16 Vorwand, dieser oder jener seye nicht in dem Verbot¬
+#facs_168_r2l17 begriffen, sich der Ordnung und aufgesetzter stra¬
+#facs_168_r2l18 entschüdten könne; So haben wir hier zu mönniglich,
+#facs_168_r4l1 Nachricht auszutrüben gutfunden, daß in diesem Verbach
+#facs_168_r4l2 aller Wein, auch Brandtenwein, und Liqueurs für fremd geachten
+#facs_168_r4l3 und soll eine besondere Verordnung zu end gegenwertigen
+#facs_168_r4l4 Mandats enthalten ist;
+#facs_168_r4l5 zu Gehinderung daß dergleichen fremde, Wein nicht in das
+#facs_168_r4l6 Land geführt werdind, soll aber Zolls bestellten und Commissen
+#facs_168_r4l7 in ihren Eyd eingerübet, und von Ihnen beschworen werden.
+#facs_168_r4l8 allen solchen wein so nur den Transit durch das Land begeh¬
+#facs_168_r4l9 ret, fleißig zu consignieren, und den Zolls Commiss bey der
+#facs_168_r4l10 Außfuhr deßen zu berichten, so daß wann je deßelben in der
+#facs_168_r4l11 durchfuhr mit ihrem wüßen in dem Land verblieben, oder
+#facs_168_r4l12 sonsten darein möchte kommen sein, sie solches keines wegs
+#facs_168_r4l13 zu verhälen, sondern alle geflißenliche Obacht dißfahls
+#facs_168_r4l14 zu halten, Eydmäßig verbunden sein sollend; Neben diesem
+#facs_168_r4l15 sollend sie annoch diejenige so für Äußere, dergleichen freunde
+#facs_168_r4l16 Mein per transit durch das Land schiken vollen, dahin
+#facs_168_r4l17 weisen, sich bey unserem täglichen Raht umb einen Transit¬
+#facs_168_r4l18 Patent zu bewerben; Jenigen fremden wein aber so für hiesige
+#facs_168_r4l19 Land ankommen möchte, sollend sie keines wegs inneßen,
+#facs_168_r4l20 sondern auch alle Patenten so ihnen zu bewilligter Einfuhr
+#facs_168_r4l21 deßelben vorgewiesen, werden möchten, beiseits setzen und
+#facs_168_r4l22 nicht respectieren sonderen solchen Wein alsobald
+#facs_168_r4l23 # und härinnen begriffen sein sollen, welcher ausert
+#facs_168_r4l24 Unseren Mediat oder imediat Landen gewachsen, und
+#facs_168_r4l25 erkommet, Jedoch wird in diesem allgemeinen Verbett in
+#facs_168_r4l26 verstanden der Raue anberger und kaum erst ander Wein
+#facs_168_r4l27 als derenthalb
+#facs_169_r1l1 Confiscierlich anhalten; Es wäre dan sach, daß solche Patrat
+#facs_169_r1l2 von uns dem Höchsten Gewalt aus selbsten gestellt wä¬
+#facs_169_r1l3 Der meinung daß von solche Commissen in einten und
+#facs_169_r1l4 anderem Nachsehen, etwas durch passieren laßen, und
+#facs_169_r1l5 Ihnen in Wüßen ist, nicht mert 8 tagen Zeit, so wohl
+#facs_169_r1l6 recta an Unseren täglichen Raht, als auch an Vnsern
+#facs_169_r1l7 Ober Ambt Leüth bericht thäten, sie alsdan mit einer
+#facs_169_r1l8 Gleichen, und je nach beschaffenen dingen höchere straf
+#facs_169_r1l9 als der fählbare selbsten nach der Ordnung zu
+#facs_169_r1l10 erlegen schuldig ist, ohne Gnad angesehen werden solle
+#facs_169_r1l11 Vnd Weilen Unsere AmbtLeüth die Ordinari Executer,
+#facs_169_r1l12 dergleichen Ordnungen sind. So laßen wir es auch die
+#facs_169_r1l13 bey bewenden, so daß jegleichem Ambtsman in sei=
+#facs_169_r1l14 bezirt die Execution zustehen, mithin auch unser
+#facs_169_r1l15 Ain geltner Cammer obligen soll gebührend zu
+#facs_169_r1l16 wachen, daß darob gehalten werde: Dennoch also daß
+#facs_169_r1l17 gedeüte AmbtsLeüth allwegung nach der Strafe
+#facs_169_r1l18 Anlegung unseren täglichen Raht der Zutragenher
+#facs_169_r1l19 innert 8. tagen Zeit sollind berichten, damit von Ihm
+#facs_169_r1l20 darüber reflectiert und erbenet, oder aber solch
+#facs_169_r1l21 Zur Deliberation anderwärtig verschiet werde,
+#facs_169_r1l22 könne.
+#facs_169_r3l1 hiel
+#facs_169_r3l2 Wegen theilung der Confiscationsen, habend wir geordnet,
+#facs_169_r3l3 daß dem Verleyder jehweilen so wohl von der Auß als
+#facs_169_r3l4 Von Confiscationen ein Drittel gebührt. Und wan ein
+#facs_169_r3l5 Ambtsman durch sein bestellte Aussicht solches entdelte, ihme
+#facs_169_r3l6 auch an der Auß und Confiscation im Drittel, van Er
+#facs_169_r3l7 aber nichts sonderen die hiesige Cammer solches entdeken
+#facs_169_r3l8 Ihr
+#facs_169_r3l9 wurde, dann zumahlen solcher Drickel der Cammer, und
+#facs_169_r3l10 dem Ambtsmann nichts zukommen solle; Gleich dann auch
+#facs_169_r3l11 die Cammer nichts zu beziechen haben wird, wan der
+#facs_169_r3l12 Ambtsman allein solches entdeken wurde. Der übrige
+#facs_169_r3l13 Dritte theil aber soll jehbeilen an zuß und Confiscationen
+#facs_169_r3l14 Unß verrechnet werden.
+#facs_169_r3l15 In ansehen der straff auflegung; habend wir hiemit
+#facs_169_r3l16 gesezt, so daß so wohl derjenige so die Commission zur
+#facs_169_r3l17 allhero beschibung jehmandem auftragt, als der so solche
+#facs_169_r3l18 annimmet. Die auch der so solchen fremden Wein in den
+#facs_169_r3l19 Land, in oder äußert den Mahlzeitg verbraucht oder
+#facs_169_r3l20 aufstellt, hiemit jeglicher dieser dreyen mit einer Zusagung
+#facs_169_r3l21 von funfzig Th angesehen werden solle. Zu meinung
+#facs_169_r3l22 daß der deme solcher Wein gehört, oder selbigen aufstelt,
+#facs_169_r3l23 anzeigen solle, durch weßen Vermicklung Er denselben.
+#facs_170_r3l1 in das Land gebracht und der darbey interessiert
+#facs_170_r3l2 gewesen, wann er aber solches nicht anzeigen wolte.
+#facs_170_r3l3 anzumahlen schuldig sein, die doppelte zuß zu
+#facs_170_r3l4 bezahlen.
+#facs_170_r3l5 feilen mithin aber wohl zu erachten, daß eint¬
+#facs_170_r3l6 und andere Persohnen in Ihren Kellern annoch
+#facs_170_r3l7 von diesem fremden verbottenen kein haben werden
+#facs_170_r3l8 so haben wir solchen zu verbrauchen, Zeit gesetzet,
+#facs_170_r3l9 biß auf künfftigen Neuwen Jahrs tag inclusive als
+#facs_170_r3l10 nach welcher Zeit sich keiner dergleichen fremden weil
+#facs_170_r3l11 nicht mehr in dem Land befinden, sondern auch Ent¬
+#facs_170_r3l12 deken der oder die Übertreckern nach Inhalt
+#facs_170_r3l13 dieses Mandats abgestrafft werden sollen.
+#facs_170_r3l14 komm aber künfftiglich der im Land wachsende
+#facs_170_r3l15 Wein im Preis hoch steigen, und der Eintauff
+#facs_170_r3l16 deßen der Hürgerschafft und dem Land beschwärlich
+#facs_170_r3l17 fallen wurde, habend wir dann zumahlen die Be¬
+#facs_170_r3l18 bühr vorkehren. In welchem Absehen wir hiemit
+#facs_170_r3l19 die Alte Policey Ordnung dahin ernenberet haben,
+#facs_170_r3l20 wollend, das unsere umgeltner Cammer uns alle
+#facs_170_r4l1 Jahr nach dem Herst den Bericht vortragen soll, was es
+#facs_170_r4l2 für eine beschaffenheit mit dem hier Landtsgewachsenen
+#facs_170_r4l3 Wein habe, in demmenach räthig zu werden, ob ein Weindag
+#facs_170_r4l4 C
+#facs_170_r4l5 zu machen oder was sonsten vorzunehmen seye.
+#facs_170_r4l6 Endtlichen, dan haben wir Vnsere Burger und Vnder¬
+#facs_170_r4l7 thane durch gegenwertiges Mandat zu benachrichten, auch
+#facs_170_r4l8 nöthig erachtet auf welchen fuß wir fürohin den Einbaufe
+#facs_170_r4l9 deß Neuvenburger-weins zugelaßen, daß nemlich jeglichen
+#facs_170_r4l10 Bürger und Underthan für seinen Haußbrauch allein.
+#facs_170_r4l11 nicht aber auf darin und queß hin von denen privilegierte
+#facs_170_r4l12 Neübenburgischen under dem Panner geseßenen In und Auß¬
+#facs_170_r4l13 Bürgern eigenen Wein gebächses Einbausten mögen und
+#facs_170_r4l14 war ohne einschraubung der Zeit, jedoch auf vorweisende
+#facs_170_r4l15 Certificat und nemnende genugsamme Patente hin. Zweiten
+#facs_170_r4l16 mögend alle Jun und Auf-Bürger so unter dem Panner
+#facs_170_r4l17 zu Neuvenburg gesäßen, und eigene alda gewachsenen
+#facs_170_r4l18 tem haben? Solchen Ihren Wein von Osteren bis den 1ten Herb¬
+#facs_170_r4l19 Monet allhero in hiesige Haubtstadt auf den Markt und
+#facs_170_r4l20 bestimmten platz führen, alwo hiesige Bürger und Vnderthan
+#facs_170_r4l21 davon für ihren Haußbrauch allein, nicht aber Wie
+#facs_170_r4l22 und Quast hin kauffen mögend; Drickens so mögen
+#facs_171_r1l1 Die auf den Haubt Paßen in Vnseren Landen geseßen
+#facs_171_r1l2 Wirthen auch in der bestimbten Zeit als von Osteren
+#facs_171_r1l3 bis den a. Herbstmonet von mehrgemehltem Neübens und
+#facs_171_r1l4 gischen Privilegierten zurger Wein, allwegen auf erhal¬
+#facs_171_r1l5 Die Patent von der allhiesigen Umgeltner Cammer
+#facs_171_r1l6 biß zwey oder drey Pohler rothen Wein zu der
+#facs_171_r1l7 ihrer Wirtschafften einkauffen; Alles dennoch so lang
+#facs_171_r1l8 es uns gefallen wird, wir es unserem Stand nutzlich
+#facs_171_r1l9 und ersprießlich erachten und zu mehrerer dißfählen
+#facs_171_r1l10 Einschrankung nicht Anlaß wird gegeben werden, vnd mith allen¬
+#facs_171_r1l11 nations fahlen in
+#facs_171_r1l12 vertheilen.
+#facs_171_r1l13 in sverstlegen
+#facs_171_r1l14 9. Was dan den Neüwenstetter Wein ansichet, habe
+#facs_171_r1l15 Wir es deselben halb auß guten Betrachtungen be=
+#facs_171_r1l16 dem Mandat vom 26. Weinewnet 1678. und 6 Wein,
+#facs_171_r1l17 monet verndrigen Jahrs bewenden laßen, so daß
+#facs_171_r1l18 das freye Comercium denen von der Neuenstadt
+#facs_171_r1l19 geöffnet blieben, und selbigen auch auf dem fuhr
+#facs_171_r1l20 wie vor hin, ihren Wein in Vnsern Landen zu verhanden
+#facs_171_r1l21 bewilliget sein solle: Jedoch daß Künfftighin sie ihre
+#facs_171_r1l22 Mein vor Martini tag in Vnseren Landen nicht
+#facs_171_r1l23 verkauffen thüyind und daß solche bewilligung
+#facs_171_r2l1 Die Bürger zu Neuenstadt und nicht etwan aussere so
+#facs_171_r2l2 Wein Wachs dorten haben, ansehen soll: Sie die Neuwen¬
+#facs_171_r2l3 statter auch sich darbey verpflichtend, seinen äußern weni¬
+#facs_171_r2l4 in ihre Statt zu Ihrem Gebrauch zu erhandlen, noch
+#facs_171_r2l5 weniger darvon in hiesige Land zu verbauffen.
+#facs_171_r2l6 Deßen alleßen Wir hiemit männiglich durch gegenwärtige
+#facs_171_r2l7 Verkündigung und öffentlichen Anschlag benachrichtig wollen,
+#facs_171_r2l8 umb sich darnach wüßen zu verhalten: Geben in dieser
+#facs_171_r2l9 großen Raths=Versammlung den 4. und 11 July 1718.
+#facs_171_r2l10 Erb. d.o. 16ten. apl. 1757 receviret abgeleisten. v. R. M.
+#facs_171_r2l11 de 29 xber 1758
+#facs_171_r2l12 Sandat
+#facs_171_r2l13 De Deffense des Vins
+#facs_171_r2l14 étrangers
+#facs_171_r2l15 Avoye Petit et Grand Conseil
+#facs_171_r2l16 de la Ville et Conton de Berne xx. la Consompture
+#facs_171_r2l17 des tems, ou l'on Saperçoit que l'argent devient for rare
+#facs_171_r2l18 dans notre Païs, nous a obligéz de donner notre attention
+#facs_171_r2l19 à ce mal, et de songer aux moyens de le prevenir
+#facs_172_r2l1 autant qu'il est possible. Et dautant que l'Entre
+#facs_172_r2l2 des Vins etrangers dans nos Etats en fait sortir
+#facs_172_r2l3 beaucoup d'argent, et cest par la l'une des causes
+#facs_172_r2l4 ce mal, Nous avons trouvé à propos d'y aporter le
+#facs_172_r2l5 remede Convenable en defendant l'Entree desdits,
+#facs_172_r2l6 Dins par le present Mandat
+#facs_172_r2l7 Premierement Afin qu'un chacun sache ce
+#facs_172_r2l8 que nous entendons par vins étrangers, et
+#facs_172_r2l9 que Personne n'ait occasion dans la suite de
+#facs_172_r2l10 se plaindre de notre presente déffense, Nous avons
+#facs_172_r2l11 trouvé nécessaire de déclarer, que nous y comprens
+#facs_172_r2l12 tous les Vins, les eaux de Visse et les Liqueux
+#facs_172_r2l13 qui croissent et se font hors de nos Etats, et qui
+#facs_172_r2l14 sont transportez de dehors dans nos Terres et Pays
+#facs_172_r2l15 mediats et imediats: nous exceptons toutefois de
+#facs_172_r2l16 cette deffense generale les Vins de Neufchatin
+#facs_172_r2l17 et de la Neux-Ville, pour lesquels il y a un
+#facs_172_r2l18 article particulier a la fin du present Man-
+#facs_172_r2l19 1 pour empecher, que ces sortes des Vins étrange
+#facs_172_r2l20 ne se glissent dans nôtre Paijs, il sera insu
+#facs_172_r2l21 dans le Serment, que tous les Comis des Aages
+#facs_172_r3l1 321
+#facs_172_r3l2 doivent prêter, de consigner duëment tout Vin etranger,
+#facs_172_r3l3 qui demande le transit par nos Terres et d'en donner avis
+#facs_172_r3l4 au Comis du Peage, par ou le dit Vin doit sortir, afin
+#facs_172_r3l5 que si a l'occasion du passage de ces Vins, il en restoit dans
+#facs_172_r3l6 le Pays, au su desdits Commis, ou qu'il en entrat par
+#facs_172_r3l7 quelqu'autre Voye, ils soyent obligez par leur serment,
+#facs_172_r3l8 non seulement de ne le point receler, mais aussi d'en
+#facs_172_r3l9 donner avis, et d'user de toute la l'igilance possible pour
+#facs_172_r3l10 le decouvrir: Ils devront aussi avertir ceux qui voudront
+#facs_172_r3l11 Caire passer de ces Sortes des Vins par nos Etats pour
+#facs_172_r3l12 les transporter ailleurs, quils ayent à s'adresser à
+#facs_172_r3l13 Notre petit Conseil, pour obtenir une Patente de Transit
+#facs_172_r3l14 Mais quant aux Vins étrangers, qu'on auroit fait venir
+#facs_172_r3l15 pour nos Paÿs, lesdits Commis n'en doivent point souffrir
+#facs_172_r3l16 Centrée, mais les arreter d'abord, et lestenir pour
+#facs_172_r3l17 confisquez, quelque Patente qu'on leur presente pour
+#facs_172_r3l18 les faire entrer, a moins quelle ne soit émanée de
+#facs_172_r3l19 Nous le Petit et Grand Conseil. Et au Cas que les dits
+#facs_172_r3l20 Commis viennent à coniver à l'entrée desdits Vins, ou a
+#facs_172_r3l21 negliger de donner avis dans huit jours a Notre
+#facs_172_r3l22 Perit Conseil de ce quils en auront sçu, ils subiront
+#facs_172_r3l23 sans remission la peine, qui est ordonnée contre
+#facs_172_r3l24 les autres Contrevenants et meme une plus grande
+#facs_172_r3l25 si le fait le merite.
+#facs_173_r2l1 't Comme Exécution de nos Ordonances est ordinaire
+#facs_173_r2l2 ment comise à Nos Dallifs, Nous leur enjoignons
+#facs_173_r2l3 tenir la Main, chaqun dans le ressort de son
+#facs_173_r2l4 ge, a ce que nôtre present Mandat y soit exacte,
+#facs_173_r2l5 ment observe; Enjoignons pareillement a Notre
+#facs_173_r2l6 Chambre des Vins de veiller a ce que nôtre Inter-
+#facs_173_r2l7 tion a cet Egard soit entierement Suivie, et com-
+#facs_173_r2l8 mandons, en outre a nos dits Ballifs d'informer
+#facs_173_r2l9 soigneusement Nôtre Petit Conseil de toutes les
+#facs_173_r2l10 Contraventions qui viendront a leur connaissance
+#facs_173_r2l11 et cela dans le terme de huit jours à compterre
+#facs_173_r2l12 celui quelles leur seront conués; afin que Nôtre
+#facs_173_r2l13 Petit Conseil puisse faire les Reflexions convena
+#facs_173_r2l14 et rendre jugement sur tous les cas dont il sera
+#facs_173_r2l15 informe, ou les renvoyer, a quelqu'autre Cham
+#facs_173_r2l16 pour en delibrer
+#facs_173_r2l17 Concernant les Confiscations et les Amandes, Nous
+#facs_173_r2l18 voulons, quelles soyent partagées en trois portes
+#facs_173_r2l19 égales, dont une appartiendra au Denonciateur
+#facs_173_r2l20 l'autre au Ballif du lieu, au Cas que la contr
+#facs_173_r2l21 r
+#facs_173_r2l22 vention soit decouvente par lui, par ceux qui
+#facs_173_r2l23 aura établis, pour veiller à l'observation de nôtre
+#facs_173_r2l24 present Mandat, mais si la decouverte ne s'est
+#facs_173_r2l25 point par eux, mais par Notre Chambre des Vingt
+#facs_173_r2l26 Elle seulle aura ce Tiers de l'Amande et Confiscat
+#facs_173_r3l1 sans qu'ils y puissent rien pretendre; bien entendu aussi, que
+#facs_173_r3l2 ladite Chambre ny aura auguné part, mais seulement
+#facs_173_r3l3 Nos Ballifs, lorsque la decouverte des contraventions
+#facs_173_r3l4 jaura été faite que par eux au par leurs Inspecteurs
+#facs_173_r3l5 Et quant à lautre Tiers desdites Amandes et Confiscations
+#facs_173_r3l6 il Nous apartiendra, et sera pour cet effet porté en Compte
+#facs_173_r3l7 a Notre profit.
+#facs_173_r3l8 Pour ce qui Regarde le Reglement et l'Imposition
+#facs_173_r3l9 des Amandes, Nous avons decreté, que tous ceux
+#facs_173_r3l10 qui donneront Commission de faire venir de Vins étrangers
+#facs_173_r3l11 dans Nos Pays, et tout ceux qui se changeront de pareil, etes
+#facs_173_r3l12 les Commissions, ou qui debiteront de ces vins dans No.
+#facs_173_r3l13 Terres, ou ij en serviront dans ou hors des Repas, payerôt
+#facs_173_r3l14 qui
+#facs_173_r3l15 cinquante Ecus blancs d'Amande: Entendent en outre que
+#facs_173_r3l16 celui a qui le dit Vin appartiendra, le debitera, ou le
+#facs_173_r3l17 présentera, sera tenu de declarer par quel moyen il a
+#facs_173_r3l18 fait entrer dans le païs et qui sont ceux, qui y ont part
+#facs_173_r3l19 Et s'il fait difficulté de donner sa declaration sur cela
+#facs_173_r3l20 il paÿera le double de l'Amande.
+#facs_173_r3l21 Et Comme il est à presumer, que plusieurs personnes
+#facs_173_r3l22 ont encore de ces Vins étrangers et de feudus Nous avos
+#facs_173_r3l23 ottroijé terme pour s'en défaire, jusqu'à premier jour
+#facs_173_r3l24 de
+#facs_174_r1l1 anvier prochain inclusivement, après le quel il ne
+#facs_174_r1l2 & devra plus trouver des semblables Vins dans Nos ou
+#facs_174_r1l3 et ceux quon decouvrira en avoir seront punis à fort
+#facs_174_r1l4 de Nôtre present Mandat.
+#facs_174_r1l5 ais s'il arrivoit que les Vins du crû de Nos
+#facs_174_r1l6 Paijs vinsent à un trop haut prix, ensorte que Nous
+#facs_174_r1l7 Bourgeois et Sujets en souffrissent; Nous apporterons
+#facs_174_r1l8 en ce cas le Remede convenable; Et dans cette vie
+#facs_174_r1l9 Nous avons trouvé à propos de renouveller nôtre
+#facs_174_r1l10 anciene Ordonance de Police, selon laquelle nôtre
+#facs_174_r1l11 Chambre des Vins devra nous remettre anvellement
+#facs_174_r1l12 apres Vandanges un Etat des Vins crus dans Nos Paux
+#facs_174_r1l13 pour delibrer en suite, sil est à propos de faire
+#facs_174_r1l14 une Taxe, ou de remedier à la trop grande cherse
+#facs_174_r1l15 par quelqu'autre moijen
+#facs_174_r1l16 Finalemt nous avons jugé necessaire de fait
+#facs_174_r1l17 Isçavoir a Nos Bourgeois et Sujets, sur que
+#facs_174_r1l18 pié Nous leur permettons d'acheter desormais de
+#facs_174_r1l19 vins de Neufchatel; A Sçavoir 1o Que chaque à
+#facs_174_r1l20 Nos Bourgeois et Sujets pourra, sans limitation
+#facs_174_r1l21 de temps, acheter et faire venir des Vins de Vusil
+#facs_174_r1l22 tel pour son usage tant seulement, mais nullement
+#facs_174_r2l1 pour en vendre, negocier ou trafiquer, et à condition que
+#facs_174_r2l2 ce soient des Vins privilegies, c’est a dire du propre crû
+#facs_174_r2l3 des bourgeois internes et Externes, qui sont sous la Banier.
+#facs_174_r2l4 de la Ville de Neufchatel, et que les acheteurs se
+#facs_174_r2l5 pourvoiront pour cet effet de Certificato et Patentes
+#facs_174_r2l6 necessaires; 2o Nous permettons aussi auxdits Bourgeois
+#facs_174_r2l7 Internes et Externes, qui ont du leur propre cru, de l'amener
+#facs_174_r2l8 dans Notre Ville Capitale, depuis Paques jusques au
+#facs_174_r2l9 premier de Septembre, et de ly exposer en vente sur la
+#facs_174_r2l10 place publique, Et Nos Bourgeois et Sujets en pourra
+#facs_174_r2l11 acheter, uniquemt aussi pour leur usage et nullement
+#facs_174_r2l12 pour en faire aucun negoce 3e nous accordons
+#facs_174_r2l13 pareillement aux Comtes, qui sont sur les grandes route
+#facs_174_r2l14 la permission de acheter, depuis Paques jusques au
+#facs_174_r2l15 premier de Septembre, deux ou trois Bosses de Vin
+#facs_174_r2l16 rouge, des susdits Vins Privilegiez de Neufchatel, pour
+#facs_174_r2l17 le usage de leurs Hotelleres tant seulement et
+#facs_174_r2l18 moyenant aussi quils se pourvoient pour cela de
+#facs_174_r2l19 dues Patentes; Le tout neantmoins pour aussi
+#facs_174_r2l20 long-temps quil nous plaira; Et que nous le
+#facs_174_r2l21 trouverons utile et Convenable a Notre Etat, et qu'on
+#facs_174_r2l22 ne Nous donnera pas occasion de limiter et restreindre
+#facs_174_r2l23 davantage nôtre presente permission
+#facs_174_r2l24 Et quant aux Vins de la Neuville, Nous avons trouvé
+#facs_174_r2l25 a propos, pour de bonnes raisons, de laisser subsister
+#facs_175_r3l1 les choses selon la teneur de nos Mandats du
+#facs_175_r3l2 26 octobre 1678 et 6. Octobre de l'Anée dernier
+#facs_175_r3l3 1717 en sorte que le Commerce restant libre et
+#facs_175_r3l4 ouvert dans nos Paijs aux Bourgeois de la
+#facs_175_r3l5 Neuville, ils y pourront vendre leur vin à l'avoir
+#facs_175_r3l6 comme du passé; Toutefois avec cette vertrictu
+#facs_175_r3l7 quils ne lij vendront qu'apres la St Martin et
+#facs_175_r3l8 que nôtre permission ne regardera que les seuls
+#facs_175_r3l9 Bourgeois de la Neuville, et nullement d'autres
+#facs_175_r3l10 Personnes, qui pourroient avoir des Vignes dans
+#facs_175_r3l11 ces quartiers la; et enfin que les dits Bourgeois
+#facs_175_r3l12 sengageront a ne point acheter des Vins d'un
+#facs_175_r3l13 autre crû que du leur, et encore plus à nen-
+#facs_175_r3l14 point vendre d'autres dans nos Paÿs.
+#facs_175_r3l15 Et affin que le Public soit duemt. informé de la
+#facs_175_r3l16 ce que dessus et q'un chacun puisse si confort
+#facs_175_r3l17 Nous Ordonnons, que le present Mandat sou
+#facs_175_r3l18 publié et affiché par tout ou besoin sera
+#facs_175_r3l19 doné en Notre Grand Conseil le 4. et 11. Juillet 1718
+#facs_175_r3l20 An Alle T. und Weltsche Ambtleuth
+#facs_175_r3l21 Freyweibel und Amman; Item An
+#facs_175_r3l22 die 4 Schultheißen der Ärgenwichen Städt
+#facs_175_r3l23 Item an die Cantzel der Stadt und
+#facs_175_r3l24 alle Pfeiler
+#facs_175_r3l25 Das Verbott wegen des fremden
+#facs_175_r3l26 Deins publicieren.
+#facs_175_r4l1 Collat.
+#facs_175_r4l2 Collat.
+#facs_175_r5l1 Schultheiß Räht und Bürger der
+#facs_175_r5l2 Tact. Herz. D.
+#facs_175_r5l3 Einligendes getrubte Mandat weggen hinderhaltung deß
+#facs_175_r5l4 fremden Weins, wirt die hiemit gleich anderen
+#facs_175_r5l5 AmbtLeuthen zugeschibet umb selbiges offentlich und
+#facs_175_r5l6 auf allen Cantzlen zu verlesen, und an deren Gewohnten
+#facs_175_r5l7 Orthen anschlagen selaßen. Obrigens dan auch die Execu¬
+#facs_175_r5l8 tion derselben bey demein Eyd die mit rechtem Ernst
+#facs_175_r5l9 angelegenen Zulaßen, wie wir Unß zu die ver¬
+#facs_175_r5l10 sehend, Hoff mit Dir. Datum 4. und 11. July 1718

@@ -1,0 +1,95 @@
+Law ID: BER.01.001.3761
+Name: Ihnen andeuten was für Getreyd zu verkauffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 84/84
+# High similarity (>=50%): 79
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_188_r3l15 Drac
+#facs_188_r3l16 Alls Blaat Teütsche und Walsche Ambtleuth und
+#facs_188_r3l17 Oberkeitliche Hauses daoberkeitl. Getraydsich¬
+#facs_188_r3l18 besieck Ihnen andeuten was für getreyd zu verkauffen
+#facs_188_r3l19 Schultheiß Räht und Burger
+#facs_188_r3l20 Collert nach deme Wir auß abermahlen die Gesandtnuß
+#facs_189_r2l1 Unsers Betreydts, so zu Statt und Land
+#facs_189_r2l2 in Unseren Kornehäusern Vorhanden,
+#facs_189_r2l3 Aus vorlegen laßen, und die Frag gewaltet
+#facs_189_r2l4 ob das über den Vorrath auß tochandene
+#facs_189_r2l5 Betreydt zu verkauffen seyn wolle;
+#facs_189_r2l6 habend Wir befunden, daß es am Erträglichste
+#facs_189_r2l7 seye das minstbehältlichste über den Vorrath
+#facs_189_r2l8 auß von allem Sommer gebächs und derhalbe
+#facs_189_r2l9 Theil von dem Winter gewächs, so nach abzu¬
+#facs_189_r2l10 deßen, so zu Aussrichtung der Faßnacht Pfing¬
+#facs_189_r2l11 und Herbst quasi ordinarien nöthig seyn möchte
+#facs_189_r2l12 zu Verselberen: Langetdemenach Unser Spfelh
+#facs_189_r2l13 an dich, das Schlechteste Gebächs ob gemelter maßen
+#facs_189_r2l14 bey Eydten Trachten abzustoßen, und deiner
+#facs_189_r2l15 Rechnung beyzuszen, zu welcher Zeit und an Le¬
+#facs_189_r2l16 du solches verkaufft, auch wie viel ein jedes gegeld
+#facs_189_r2l17 und demenachton allem würcklich Erlö senden stellen,
+#facs_189_r2l18 Uns getreul. Rechnung zu tragen. Gelt
+#facs_189_r2l19 mit der Datum den 9 January 1739.
+#facs_189_r2l20 Oc wen fasten und sonsten der etwan seyn könnenden
+#facs_189_r2l21 ordinarium und etc.
+#facs_189_r3l1 369
+#facs_189_r3l2 s'il ne s'est aucune pouvoir la pouvre,
+#facs_189_r3l3 Quin
+#facs_189_r3l4 Wangen, Aarlangen, dipp, Landshut, Fraub¬
+#facs_189_r3l5 bronnen, Burg dorff, Reuwren Arberg, Ridäus
+#facs_189_r3l6 Item Zedel an H. Großbeitel und
+#facs_189_r3l7 Herren Reichtschreiber
+#facs_189_r3l8 Schultheiss und Raht
+#facs_189_r3l9 Seith ein paar Tagen dahero sind umb die
+#facs_189_r3l10 Statt Solothurn herumb verschiedene nächtliche
+#facs_189_r3l11 Diebstahl verübet, und unter anderem
+#facs_189_r3l12 entbendet worden, was in Copeyl. anschluß
+#facs_189_r3l13 enthalten Mit deßen zu sendung nun
+#facs_189_r3l14 haben Wir die Gefehlen wollen, hinter deinem
+#facs_189_r3l15 amt solche anstalten verfürgen zu laßen.
+#facs_189_r3l16 daß auß jenige Persohnen, so von disen Effecten
+#facs_189_r3l17 Feiltragen Thäten, geachtet und verdächtigen
+#facs_189_r3l18 Fahls selbe vest gesezt deren Verhafften Wir auch
+#facs_189_r3l19 benachrichtetlerd ins biezuthun zu wußenbist.
+#facs_189_r3l20 avoir
+#facs_189_r3l21 Bolt mit der Datum den 12ten 799
+#facs_190_r1l1 370
+#facs_190_r1l2 pecification
+#facs_190_r1l3 Herrn Effecten sodan 7 Januarij
+#facs_190_r1l4 1729 in der Recht sind Entgründet
+#facs_190_r1l5 borden
+#facs_190_r1l6 Ein Jagd Klinben mit Moschbeschlagen halb gescheifftet
+#facs_190_r1l7 Ein Möschener Soldaten dagen
+#facs_190_r1l8 Ein mit Silbernen Gallonen quarciet tes küppel ihre Schmalle
+#facs_190_r1l9 Ein neube klinge samt der Scheide zu keinem Hirschfänger
+#facs_190_r1l10 Ein Surtout von Baracan grauler Fars
+#facs_190_r1l11 Ein zimlich gebrauchtes braungraubet Kleid
+#facs_190_r1l12 Etliche paar thuchige Hosen
+#facs_190_r1l13 Achtzehen bis zwanzig Mannen Hembder
+#facs_190_r1l14 davon einige mit Manchettes.
+#facs_190_r2l1 3715
+#facs_190_r2l2 Dort
+#facs_190_r2l3 Alle Teütsch und welsche Amtleüth 4 Stült
+#facs_190_r2l4 Oreyleibel und Ammen Stemperzedel
+#facs_190_r2l5 an die Cäntzel hiesiger Statt
+#facs_190_r2l6 Schultheis und Raht,
+#facs_190_r2l7 Bey abermahl angeruckter Brunst und Bruth¬
+#facs_190_r2l8 Zeit deß Gebilds, vollend Wir hiemit jedermänglich
+#facs_190_r2l9 terbahnet haben, von nächst künfftiger Fichtmäßen,
+#facs_190_r2l10 biß Bacholomaei tag alles hezens, Jagens, Schießens,
+#facs_190_r2l11 ichtl einiger auch daß so schädlichen fangens, alles
+#facs_190_r2l12 Kabilds ohne Aussnahm, mit letzten oder auß andere
+#facs_190_r2l13 beiß sich gänzlich zu enthalten, denen zum Jagen
+#facs_190_r2l14 abgerichteten oder von Natur jagenden Hünden
+#facs_190_r2l15 den Schläre Prügel anzuhancken, damit andurch die
+#facs_190_r2l16 Jagd jehmehr und mehr gehäußnet werde; alles bey
+#facs_190_r2l17 der in der Jäger Ordnung aufgesetzten straffe
+#facs_190_r2l18 Vormit die fehlbahren ohne Schönen sollen belegt werden.
+#facs_190_r2l19 welches zu beterkommung menniglichs Schaden und
+#facs_190_r2l20 verließ von Cantzler verlesen zu laße und steiff
+#facs_190_r2l21 darob zu halten büsen wirst Nolt mit
+#facs_190_r2l22 Dir Datum d. 19 Januarii 1739

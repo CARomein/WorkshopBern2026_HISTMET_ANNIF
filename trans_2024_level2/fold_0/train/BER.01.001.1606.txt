@@ -1,0 +1,28 @@
+Law ID: BER.01.001.1606
+Name: Zins und Zeenden ynzeziechen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 17/17
+# High similarity (>=50%): 16
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_322_r1l1 624
+#facs_322_r1l2 Cott
+#facs_322_r1l3 Oberland
+#facs_322_r1l4 Cincthal
+#facs_322_r1l5 Beel
+#facs_322_r1l6 Ergeües
+#facs_322_r1l7 off
+#facs_322_r2l1 An flluse Teätsche Ambtleäth
+#facs_322_r2l2 Zins vnd zenden Inzekiechen
+#facs_322_r2l3 Schuldtheiß und Rhatt
+#facs_322_r2l4 Vff beschechne erinnerung vnserer fürgeliebten Mittlhalten
+#facs_322_r2l5 Tutsch Keckelmeister vnd Prüneren: Ist vnser nochmahlig ernstlich
+#facs_322_r2l6 gesinnen hiemit an dich, Wo es noch nit beschechen, die ohnein gestel¬
+#facs_322_r2l7 ernstliche anstalt zethun, daß alle bey die noch vßstellige Zinsen
+#facs_322_r2l8 und Zehenden, ohne einichen Weiteren Verzug Würcklich bezogen
+#facs_322_r2l9 vnd eingebracht werdindt, wie geschechen werde, wir vns versehen
+#facs_322_r2l10 vnd dich darmit Voll wohl empfelhend. Datum 22 Marty 1656.

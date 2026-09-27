@@ -1,0 +1,111 @@
+Law ID: BER.01.001.4347
+Name: Ihnen die erfrischte Ordnung wegen Durchführung fremder Recrouten, und darunter sich etwann vorfindender hiesiger Unterthanen, zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 100/100
+# High similarity (>=50%): 99
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_17_r3l22 Signalemt.
+#facs_17_r6l1 27.
+#facs_17_r6l2 Signalement
+#facs_17_r6l3 Hans Ulli Vogel, von Nider Büzberg, ist 19. Jahr
+#facs_17_r6l4 Alt, lang bey 4 1/2 Schu, hat kurze grade Haar
+#facs_17_r6l5 Zimlich großen Kopf, mit einem großem Mauk,
+#facs_17_r6l6 tragt zwilchig Bauren Hosen, und ein Leibli von
+#facs_17_r6l7 beißem Haußtuch
+#facs_17_r6l8 au
+#facs_17_r6l9 Die Herren Amtleut zu Erlach, Rydau, Arberg,
+#facs_17_r6l10 Ruchfen, Landtshut, Draubrunen, Büren, Burgdorff
+#facs_17_r6l11 Bipp, Wangen, Aarwangen, Frau, Brugg, St.
+#facs_17_r6l12 Johansen, und Arburg,
+#facs_17_r6l13 Ihnen die erfrischte Ordnung wegen Durchführung
+#facs_17_r6l14 fremder Reerouten, und darunter sich etwann vorfin.
+#facs_17_r6l15 dender hiesiger Unterthanen, zusenden
+#facs_17_r6l16 Stadthalter und Rahts
+#facs_17_r6l17 Unsere in A. 1733, 34. 42. et 1747. abgegebene
+#facs_17_r6l18 Befehle, und Instructionen, in betreff wie Wir
+#facs_17_r6l19 es wollen gehalten wüßen, mit dem Durch¬
+#facs_17_r6l20 Marsch fremder Recrouten, durch Unsere
+#facs_17_r6l21 Bockmäßigkeit, geben gnugsamm an Tag
+#facs_17_r6l22 Unsere Besorgnuß, daß Unsere Lieben und
+#facs_17_r6l23 getreuen Angehörigen etwann auch in solche
+#facs_17_r6l24 fremde Dienste könten wegg, und dem Vatter
+#facs_17_r6l25 land entführt werden. Da uns nun zu vernenn¬
+#facs_18_r2l1 Bekommen, daß seit etwas Zeits daher, die
+#facs_18_r2l2 Preußischen Recrouten von Neuenburg herkom¬
+#facs_18_r2l3 mend, oft Unser Land durchreifen, so halten
+#facs_18_r2l4 Wie für nöhtig, in erfrischung obiger Ordnungen
+#facs_18_r2l5 selbige Copeyl. Euch zu übersenden, um auf deren
+#facs_18_r2l6 Buchstäblichen Execution fest zu halten. Ausge¬
+#facs_18_r2l7 nommen da es in der Ordnung de Ao. 1734 versehen
+#facs_18_r2l8 daß wann ein Landskind in der vorzustellenden
+#facs_18_r2l9 Recrouten, sich befinden thäte, der Werber mit
+#facs_18_r2l10 demselben angehalten werden solle, welches nur
+#facs_18_r2l11 dahin zu verstehen ist, fahls der Werber
+#facs_18_r2l12 dieseres Landskind, in Unserer Bockmäßigkeit
+#facs_18_r2l13 angeworben häcke; Wäre aber die Anwerbung
+#facs_18_r2l14 äußert Unserer Bodmäßigkeit beschehen,
+#facs_18_r2l15 so sollen der Werber und der Führer, nach bezah¬
+#facs_18_r2l16 lung der Umkösten, so sich etwann ereignen würden,
+#facs_18_r2l17 ledig gelaßen. Unser Unterthan aber von
+#facs_18_r2l18 der Recrouten weggenommen, und im Arrest
+#facs_18_r2l19 bis auf weitere Verordnung Unserer Recroute
+#facs_18_r2l20 Camer behalten werden. Dat. d. 17. Octobl. 1768
+#facs_18_r2l21 Obid
+#facs_18_r2l22 Lenzburg Prof. die von uns an unsere Amtleute
+#facs_18_r2l23 in Ao 1733 34. 42. und 1747 abgegebene Befehlt
+#facs_18_r2l24 und Instructionen geben deutlich mit, wie Wir
+#facs_18_r3l1 29
+#facs_18_r3l2 Es wollen mit dem Durchpass fremder Recrouten
+#facs_18_r3l3 durch allhiesige Bockmäßigkeit gehalten haben
+#facs_18_r3l4 wißen, alleine der Vorfall so sich zu Suhr im
+#facs_18_r3l5 Augstmonat lezthin, mit einer dort passierenden
+#facs_18_r3l6 Preußischen Recrouten zu getragen, und Eüer
+#facs_18_r3l7 Antwort Schreiben über diesen Vorfahl, laßen
+#facs_18_r3l8 Uns nicht ohnbegründt vernuchten, daß obge¬
+#facs_18_r3l9 deutete Befehle und Instructionen, in Verges¬
+#facs_18_r3l10 gekommen seyen; Damit aber selbigen das Leben
+#facs_18_r3l11 auf ein frisches, und mit allem Ernst und Vigilar
+#facs_18_r3l12 gegen alle und jede Fremde durchpassierende
+#facs_18_r3l13 Recrouten gegeben werde, so haben Wir nöhtig
+#facs_18_r3l14 befunden, selbige Befehle de Ais 1733. 34. 42.
+#facs_18_r3l15 et 1747. Euch Copey. hierbeyligend zu über¬
+#facs_18_r3l16 machen, und zugleich Ernstlich anzubefehlen,
+#facs_18_r3l17 daß selbige in Eierem Amt Pünktlich befol¬
+#facs_18_r3l18 get und Observiert werden: ausgenommen da es
+#facs_18_r3l19 in der Ordnung de Ao. 1734 versehen, daß wenn
+#facs_18_r3l20 Landskind in der vorzustellenden Recrouten
+#facs_18_r3l21 sich befinden thäte, der Werber mit demsel¬
+#facs_18_r3l22 bigen angehalten werden solle, welches nur dahin
+#facs_18_r3l23 zu verstehen ist, daß fahls der Werber dieses
+#facs_18_r3l24 Landskind in Unserer Vormäßigkeit ange¬
+#facs_18_r3l25 worben hätte, wäre aber die Anwerbung des
+#facs_19_r2l1 Landeskind, äußert Unserer Seitmäßigkeit
+#facs_19_r2l2 beschehen, so soll der Werber und Führer nach
+#facs_19_r2l3 Bezahlung der Umbösten so sich etwann ereignen
+#facs_19_r2l4 wurden, ledig gelaßen. Unser Unterthan von
+#facs_19_r2l5 der Recrouten weggenommen, und im Arrest biß
+#facs_19_r2l6 auf weitere Verordnung Unserer Recriëes Cammer
+#facs_19_r2l7 behalten werden. Diesere Visitation fremder
+#facs_19_r2l8 durchpassierender Recrouten aber, sie mag in
+#facs_19_r2l9 der Stadt Lenzburg übernachten, oder weiters
+#facs_19_r2l10 gehen, ligt allerdings einem jeweiligen Amts
+#facs_19_r2l11 mann auf Lenzburg ehender als dem Schultheiß
+#facs_19_r2l12 ob, Indemme der Ein, und Austritt der Rockmäs¬
+#facs_19_r2l13 digkeit der Hohen Obrigkeit in seiner Amts Ver¬
+#facs_19_r2l14 waltung sich befindet. Aus allem diesem
+#facs_19_r2l15 nun werdet Ihr von selbst abnemmen können, daß
+#facs_19_r2l16 lüere gegen den Wihrten zu Sundisorts vorge¬
+#facs_19_r2l17 kehrte Anstalten, gemelten Hochoberkeitlichen
+#facs_19_r2l18 Verordnungen nicht entsprechen, dahero Ihr
+#facs_19_r2l19 befelihnet werdet, solche wieder aufzuheben, und
+#facs_19_r2l20 selbige nach gedachten Verordnungen einzurichten,
+#facs_19_r2l21 Zugleich dann auch in denen Schlaffbücheren deß
+#facs_19_r2l22 Schloßes nachschlagen, ob sothane Verordnung wie
+#facs_19_r2l23 sichs gebührt, würklich eingeschrieben, widrigen fahls
+#facs_19_r2l24 selbige mit diesem Unserem Schreiben einschreibene laßen
+#facs_19_r2l25 perdet. Dat. ut supra

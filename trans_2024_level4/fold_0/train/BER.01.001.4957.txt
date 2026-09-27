@@ -1,0 +1,144 @@
+Law ID: BER.01.001.4957
+Name: Sägnery.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 132/132
+# High similarity (>=80%): 99
+# Low similarity (<80%): 33
+# Not found: 0
+#
+#facs_4_r3l1 eo
+#facs_7_r6l1 11.
+#facs_3_r5l2 3
+#facs_281_r1l6 419.
+#facs_214_r5l3 Mandat an E. vndt Welschampf
+#facs_214_r5l4 lüth, 4 Stett feyweybel, Elmen,
+#facs_214_r5l5 Schwartzenburg. Siegierung
+#facs_214_r5l6 Sichs etc. Wie habenndt hievor durch vnnsere
+#facs_214_r5l7 Reformation-Ordnung, undt vßgangne und
+#facs_214_r5l8 schiden lese Mandat. VB pflicht vnsers von
+#facs_214_r5l9 kott tragenden Oberkeitliche Ampts und
+#facs_214_r5l10 oöttlicher Fürsorg zu unser unde thauen Heil,
+#facs_214_r5l11 vndt Wolfhartz mit hohen yffer undt einst
+#facs_214_r5l12 auch by vffgesetzten bestimpten straffen
+#facs_214_r5l13 mennigklichem der unseren Tpottenn
+#facs_214_r5l14 sich von de schwären sündt de Zauberg, als da
+#facs_214_r5l15 Ist whorsagenn, beschweren, sägnen, wundt etc.
+#facs_214_r5l16 sägen, waffen Winden, vndt deglijchen bösen
+#facs_214_r5l17 aber glönbischen Vns hatt deß bösen Ceysz har=
+#facs_214_r5l18 Fliessenden Fursten, vndt mittlen zu verhütten
+#facs_214_r5l19 undt damit sich nit zu beflecken, undt das die un¬
+#facs_214_r5l20 soen In Iren nötten, undt anligen, es seye Iwe
+#facs_214_r5l21 personen oder gutts halber zu denen die sich solcher
+#facs_214_r5l22 bösen unzimlichen Künsten, undt mittlen unde¬
+#facs_214_r5l23 nommendt, undt als vil, als für Meyster oder
+#facs_214_r5l24 artzell In denselben vnßgebendt, undt buchen
+#facs_214_r5l25 lassendt kan wandel, zugang, noch zu einschafft
+#facs_214_r5l26 habendt, undt weder hylff noch rhatt by Ihnen suchen
+#facs_214_r5l27 söllindt. So gespuren, vndt erscheinen wir mit
+#facs_214_r5l28 höchstem bedienen, undt insfallen, das In vn¬
+#facs_214_r5l29 serem Entschen vndt welschen landt by altenn
+#facs_215_r1l1 420
+#facs_215_r1l2 + disghört
+#facs_215_r1l3 Ins Welschland
+#facs_215_r1l4 so hiernach mit
+#facs_215_r1l5 obgesetzten
+#facs_215_r1l6 zeichen geziehet
+#facs_215_r2l1 undt Jungen Mans: undt wijbspersonen
+#facs_215_r2l2 solche sindt (1) leyde) vberhandt nem¬
+#facs_215_r2l3 vndt genommenden wil, das sich zwischen viel hin
+#facs_215_r2l4 vnndt wider stölliche schwarz künsten houbeyen
+#facs_215_r2l5 undt seynetzen und neuwendt, dan durch aller
+#facs_58_r3l10 vnnd etwan sachen vnderwegen vnd dahinden plibendt
+#facs_215_r2l7 gudt zu heylen, undt ziecht zubringen un¬
+#facs_215_r2l8 der standenten: + Ouch Iren vil, welche In
+#facs_215_r2l9 nem glück, undt wol standt so blen Er sindt
+#facs_215_r2l10 andt hingegen In widerwertigkeit zufälenn
+#facs_215_r2l11 vnndt Franckhätten, so kleinbe glöübi¬
+#facs_215_r2l12 undt übelbestimt, das sey Inwötten, zu fhälen
+#facs_215_r2l13 verlust, undt Kankheithen, mit denen Gott
+#facs_215_r2l14 de herr sey umb Ire finden willen heim suchtet
+#facs_215_r2l15 on statt sij durch glönbiges yffrig geprott
+#facs_215_r2l16 zu Godt. undt sinnen bedencken mitt lenn
+#facs_215_r2l17 stölten Inzuflucht haben, undt Gottes gna¬
+#facs_215_r2l18 digen willen erwarten, sij hilff undt hatt
+#facs_215_r2l19 bey den Zeubnern, sägnen, schwartz Künschlein,
+#facs_215_r2l20 seiden volck, faltschen aitzeten, undt an¬
+#facs_215_r2l21 dern abreglaubigen lütten die hin, und wider
+#facs_215_r2l22 Im Landt umheilauffendt, biderblütt erge¬
+#facs_215_r2l23 wirdt, undt die einfalten betragendt, vndt
+#facs_215_r2l24 daesetzendt, sichendt, undt Ire bösen mittel
+#facs_215_r2l25 beuchendt: also das wie versachett worden, vndt haben
+#facs_215_r2l26 gantz nothwendig befunden, mennigklich der
+#facs_244_r3l1 311
+#facs_24_r2l1 42
+#facs_215_r3l3 Vnsern vorgende vnser, sielicher sünden böser
+#facs_284_r6l3 Befahren halber die Weltschen
+#facs_215_r3l5 Ußgangene Epotheen vndt UffgesetzKre¬
+#facs_215_r3l6 straffen, durch diß nur ausgehen, undt
+#facs_215_r3l7 vß schloben zu erfangenen, fürnemlich aber
+#facs_215_r3l8 der schwären verschwöckenlichen straaff, unndt
+#facs_215_r3l9 bekommung, so Gott in seinem Heiligen
+#facs_215_r3l10 vodt daruff gesetzt, das welcher mit solchen
+#facs_215_r3l11 bösen Tüffelischen Künsten werde vmbgan
+#facs_215_r3l12 oder bey solchen Lütten hilff, und erhalt suchen
+#facs_215_r3l13 das er wieder den selben sie angesicht setzen
+#facs_215_r3l14 hölle, undt das desselben viel stöllte ußge¬
+#facs_215_r3l15 rüthett und Wollen deswegen Jedemen
+#facs_215_r3l16 nigklich der unsern, damit sij sich nit
+#facs_215_r3l17 In dise schwäre sindt vier stieffindt gantz
+#facs_215_r3l18 enstig, undt väterlich verwandt haben, Ihnen
+#facs_215_r3l19 dise schwäre straaff, vndt tüinwung Gottes
+#facs_215_r3l20 allzyth für augen gebilden undt solcher
+#facs_215_r3l21 bösen aufflischen künsten, vnd mittl.
+#facs_215_r3l22 müssig zoghen, sich deren mitzit angenomen
+#facs_215_r3l23 noch zubelehren, es syndt glijcken die welche
+#facs_215_r3l24 sich unterlharen oder Tmeücken erthuen dien an¬
+#facs_215_r3l25 massendt zugebuechen, oder auch die so hilff
+#facs_215_r3l26 auf schotft bij Ihnen, Ire personen, oder gutts
+#facs_215_r3l27 halb anderschen möchten zesuchen
+#facs_24_r2l1 42
+#facs_216_r2l1 Bekentnendt hieruff die unsern Ampt¬
+#facs_186_r2l22 vonn stunden gentzlich entzogen werden
+#facs_296_r1l4 derselbigen hinter Nydaun und
+#facs_216_r2l4 deren, lurch vordnete zwusche ufflicher
+#facs_216_r2l5 alles flysses, undt aufs zu achtenn, wehne
+#facs_216_r2l6 Zuemann, undt die Jringen, welche dergleich
+#facs_216_r2l7 von Gott hoettue böse, unzulässige,
+#facs_216_r2l8 Gott missfellige Kunst, undt mittel
+#facs_216_r2l9 In was sachen, undt fhalen es seye, eben
+#facs_216_r2l10 ondt brüchen wurden, uns onzegeben, vnndt
+#facs_216_r2l11 Zu verzeigen, damit dieselben von einer
+#facs_216_r2l12 wie wir deß endtlich gesinnet vndt endt¬
+#facs_216_r2l13 schlossen, an lyb, ehe, oder gutt, unndt
+#facs_216_r2l14 verwijsung nach gestalt zur Thäler
+#facs_216_r2l15 undt bösen kunsten ohne ansechen die
+#facs_216_r2l16 personen vndt ohne tischonen gestrafft,
+#facs_176_r3l4 vndt der gfenknuß abgeschaffert undt allein
+#facs_216_r2l18 auch den alle die es seye Mans oder leyp ist
+#facs_216_r2l19 welche In Iren Kanckheithen, zu schulen,
+#facs_216_r2l20 lurst und schaden an freie vych, oder umb
+#facs_216_r2l21 velorne sachen by solchen zeubermeyster
+#facs_216_r2l22 Hilff, undt hatt stüchend die selbst in allen
+#facs_216_r2l23 für Gegricht beschickt sonder so offt es
+#facs_216_r2l24 zubeschulden kompt mit gefangenschafft
+#facs_216_r2l25 gestraff, undt ein Mangperson umb ist
+#facs_216_r2l26 R. d. Undt ein leybsperson umb s. lb. d
+#facs_216_r2l27 Not. Ins Welschlandt, 10. ff. 5. ßl..)
+#facs_2_r3l2 1
+#facs_161_r1l1 312
+#facs_24_r2l1 42
+#facs_216_r4l4 gestrafft: Undt das du Unsere Kirchen diener
+#facs_216_r4l5 sine ende amptlütt, undt die Ehrgönne
+#facs_216_r4l6 ob diserem unserem ansachen, vndt Ordnung
+#facs_216_r4l7 alles yffus, undt eints halten, der geflischen=
+#facs_216_r4l8 lich nachkommen, undt die übertretter derselben
+#facs_216_r4l9 noch daß wysung dis=Unsels ansechens
+#facs_216_r4l10 abstraffen, und dasselb offenlich in Cantzlin
+#facs_216_r4l11 nenniglichen Zu einer Warnung bekunden
+#facs_216_r4l12 lassen, sollendt: als wir uns zulichen flyssigen
+#facs_216_r4l13 erstattung desselben vserhendt. Datum
+#facs_216_r4l14 12. May 1610.

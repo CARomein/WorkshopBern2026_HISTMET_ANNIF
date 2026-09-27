@@ -1,0 +1,147 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 139/140
+# High similarity (>=80%): 133
+# Low similarity (<80%): 6
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4456
+#facs_27_r5l11 Ihnen die Gedrubte Verordnung wegen von der
+#facs_41_r4l3 a-
+#facs_176_r4l6 Alle Teütsch und Welsche Herren Amtleüt
+#facs_214_r5l18 4. Städt, freyleibel und Amann
+#facs_27_r5l11 Ihnen die Gedrubte Verordnung wegen von der
+#facs_27_r5l12 Judenschafft hier im Land eingeschlichenen Mißbrauch¬
+#facs_57_r5l6 zusenden
+#facs_21_r5l16 Schultheiß und Raht’
+#facs_27_r5l15 Damit verschiedenen bey der Handlung der
+#facs_27_r5l16 Judenschafft hier im Land eingeschlichenen Miß
+#facs_27_r5l17 brauchen, der genießene Einhalt gethan werde,
+#facs_27_r5l18 haben Wir nöhtig befunden, mitgehende
+#facs_27_r5l19 Verordnung zu errichten, und in Trub
+#facs_27_r5l20 ausgehen zu laßen, welche Wir Euch zu Eüe¬
+#facs_27_r5l21 rem Verhalt, Nachricht und Einschreibung.
+#facs_27_r5l22 anmit übermachen. Dat. d. 9ten Decemb. 1777.
+#facs_140_r1l1 ferne
+#facs_28_r1l1 52
+#facs_43_r4l8 Ordnung
+#facs_28_r1l3 Collg: Der Schultheiß und Rast der Stadt und
+#facs_28_r1l4 Respultii Bern, entbieten allen Unseren
+#facs_28_r1l5 lieben und getreuen Fürgeron und Unter¬
+#facs_28_r1l6 thanen zu Stadt und Land, Unseren gnad
+#facs_28_r1l7 gen und wohl geneigten Willen, und geben
+#facs_28_r1l8 ihnen Dabey zu vernehmen
+#facs_28_r1l9 Demnach, ungeacht Unserer öftermaln
+#facs_28_r1l10 ergangenen Verordnungen, in Ansehn der
+#facs_28_r1l11 handlung und Hausieren der Juden, die
+#facs_28_r1l12 selben imerhin fortfahren, die Meßen und
+#facs_28_r1l13 Jahr Märkte Unserer Städten, in großer
+#facs_28_r1l14 Menge zu besuchen, und mit allerhand
+#facs_28_r1l15 Krämerwaaren denen Häusieren nach zu
+#facs_28_r1l16 Hausieren, welches so wohl Unseren Handelt,
+#facs_28_r1l17 leuten und Landkrämeren zu Stadt und
+#facs_28_r1l18 Land, als aber denen Eid gnösischen Kauf¬
+#facs_28_r1l19 leüthen, welche hierländische Jahr Markte
+#facs_28_r1l20 besuchen, zu großem Schaden und Abbrig
+#facs_28_r1l21 ihrer Nahrung gereicht; Als haben Wir diese
+#facs_28_r1l22 Übel zu steüren, und damit der Handlung
+#facs_28_r1l23 der Juden, behörige Gränchen gefehet werden
+#facs_28_r1l24 folgende ernstliche Verordnung ergehen zu
+#facs_28_r1l25 laßen, nohtwendig erachtet. Als
+#facs_28_r2l1 53
+#facs_28_r2l2 1. wollen wir denen Juden, welche sich
+#facs_28_r2l3 auf denen Stadt= und Landmärkten Unserer
+#facs_28_r2l4 Gattmäßigkeit, zu Anbauff von Viehe und
+#facs_28_r2l5 Pferdten einfinden, diese Handlung, wie bis
+#facs_28_r2l6 hero, um Baares Geld, und gegen Abrichtung
+#facs_28_r2l7 gewohnter Gebühren, hiemit noch fernerhin
+#facs_28_r2l8 bewilligen.
+#facs_28_r2l9 2. Soll denen Juden, so lang es uns gefa¬
+#facs_228_r3l6 wird, der Eintritt in Unsere Lande zum
+#facs_28_r2l11 Verbauff von Kramerwaaren, zwar fernerhin
+#facs_28_r2l12 offen gelaßen seyn, mit dem ausdrüklichen
+#facs_119_r3l27 Beding jedennoch: daß so wohl die allso
+#facs_28_r2l14 die Besuchung der offenen Meßen und Jahr¬
+#facs_28_r2l15 markten der Haubt= und übriger Städten
+#facs_28_r2l16 Unserer Gottmäßigkeit eingeschraubet
+#facs_28_r2l17 seyen
+#facs_28_r2l18 3. Hingegen wird ihnen die Besuchung
+#facs_28_r2l19 aller Dorf, und Viehmärkten im Lande
+#facs_28_r2l20 ohne Ausnahm mit Kramersaaren gänzlich
+#facs_28_r2l21 untersagt
+#facs_28_r2l22 4. Soll keinen anderen Juden die Besuchung
+#facs_28_r2l23 der Meßen und Jahrmärkten Unserer
+#facs_27_r1l71 5.4
+#facs_29_r2l1 Haubt, und übriger Städten Unserer Sat¬
+#facs_29_r2l2 mäßigkeit verstattet werden, als denen
+#facs_29_r2l3 jenigen, welche vor Unserm Commercien Raht
+#facs_29_r2l4 behörig bescheiniget haben werden, daß Sie
+#facs_29_r2l5 bekannte, irgendwo angesessene, und mit rech¬
+#facs_29_r2l6 schaffener Kaufmannswaare handlende
+#facs_29_r2l7 Kauflente seyen
+#facs_29_r2l8 5. Alle übrige Juden aber, welche als
+#facs_29_r2l9 bloße Hausierer anzusehen sind, sollen von
+#facs_29_r2l10 Besuchung der beeden Meßen allhiesige
+#facs_29_r2l11 Haubtstadt, und der Jahrmärkten übriger
+#facs_29_r2l12 Städten fürohin gänzlich ausgeschloßen
+#facs_29_r2l13 seyn, und ihnen in hiesigem Kaufhaus kein
+#facs_29_r2l14 Marktzeichen zum feilhalten ertheilt werden.
+#facs_29_r2l15 6. Sollen alle Juden denen die Besic¬
+#facs_29_r2l16 hung der beeden JahrMeßen Unserer Haus
+#facs_29_r2l17 tadt bewilliget worden, gehalten seyn, an
+#facs_29_r2l18 denen ihnen verzeigenden Straßen, offen
+#facs_29_r2l19 Läden und Magazins oder Stände zu halten
+#facs_29_r2l20 7. Aber wird denenselben gänzlich verbot¬
+#facs_29_r2l21 denen Häuferen nach zu Hausieren oder
+#facs_29_r2l22 durch Unterhändler Hausieren zu laßen,
+#facs_29_r3l1 55
+#facs_29_r3l2 Auch sollen sie zu End jeder Messe gehalten
+#facs_29_r3l3 seyn, ihre überbleibende Waaren wieder abzu¬
+#facs_29_r3l4 führen, und keine Waarenlager von einer
+#facs_29_r3l5 Meße zur anderen allhier zu laßen
+#facs_29_r3l6 8. Alles und jedes obiger Gebodten und Ver¬
+#facs_29_r3l7 botten bey Straff der Confiscation der Waar¬
+#facs_29_r3l8 welche, in der Haubtstadt, in Drittel dem
+#facs_29_r3l9 Fisco, ein Drickel Unserm verordneten Com¬
+#facs_29_r3l10 auf den Land aber mercien Raht, und ein Drittel dem Verleiderg
+#facs_133_r3l2 in den
+#facs_29_r3l12 mündienen soll¬
+#facs_29_r3l13 Zentel dem Richter
+#facs_29_r3l14 des Ohets uns ein
+#facs_29_r3l15 dritel den Verleiden
+#facs_29_r3l16 9. Wird allen Juden ohne Ausnahm, bey
+#facs_29_r3l17 Straff der Confiscation, auch nach Befinden, bey
+#facs_29_r3l18 höheren Straffen, alles aufwechslen von Gold
+#facs_29_r3l19 Silber und allerhand Geld Sorten, vertauschen
+#facs_29_r3l20 Schulden und Gegenschulden errichten, auf¬
+#facs_29_r3l21 Sorg und Pfänder leihen, oder Verbauffen,
+#facs_29_r3l22 und Verdächtige oder gestohlene Sachen anzu¬
+#facs_29_r3l23 kaufen, hierdurch verbotten
+#facs_29_r3l24 10. Damit aber die Juden von dieser zum
+#facs_29_r3l25 Besten der Handlung abzielenden Verordnung
+#facs_29_r3l26 behörig unterrichtet werden, keine Unbisenheit
+#facs_30_r1l1 56.
+#facs_30_r2l1 Vorschüzen, und sich vor Schaden und Strafe
+#facs_30_r2l2 hüeten können, ist Unser Wille. Daß solche
+#facs_30_r2l3 mit erstem April Nachstkünftigen 1778.
+#facs_30_r2l4 Jahrs, zu allgemeiner Befolgung in unsere
+#facs_30_r2l5 ittmäßigkeit ihren Anfang nehmen solle,
+#facs_30_r2l6 Wir tragen Unserem verordneten Comer¬
+#facs_30_r2l7 cien Raht hiemit auf, die Oberaufsicht zu aus¬
+#facs_30_r2l8 übung derselben, in unseren Städten und
+#facs_30_r2l9 Landen überhaubt, besonders aber in Unserer
+#facs_30_r2l10 Haubtstadt zu besorgen
+#facs_30_r2l11 Befehlen allen Unseren Ober- und Untt
+#facs_30_r2l12 Beamteten alles Ernsts, auf die Handhabung
+#facs_30_r2l13 derselben zu bachen, die Fehlbaren ohne
+#facs_30_r2l14 Schönen mit bestimten Straffen zu belegen,
+#facs_30_r2l15 auch, nach bewandten Umständen, Unserem
+#facs_30_r2l16 Commercien Raht anzuzeigen. Unter keinem
+#facs_30_r2l17 vorband aber einigem Juden für Waarenlager
+#facs_30_r2l18 oder sonst andere dieser Ordnung zuvieder lau=
+#facs_30_r2l19 fende Bewilligungen zu ertheillen. Welche Wir
+#facs_30_r2l20 zu allgemeiner Nachricht, in Druk verfaßen, und
+#facs_30_r2l21 auf gewohnte Weise bekant machen laßen.
+#facs_30_r2l22 Geben den 9ten Christmonat 1777.
+#facs_317_r4l1 g
+#facs_178_r8l1 en

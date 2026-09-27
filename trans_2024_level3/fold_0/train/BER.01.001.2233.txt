@@ -1,0 +1,104 @@
+Law ID: BER.01.001.2233
+Name: Getreidt Mandaten Endtüsserung vom 27.Jan.1681 und dass die Frickthaler auch Getreidt kauffen mögind.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 93/93
+# High similarity (>=50%): 88
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_295_r2l20 Königstelden
+#facs_295_r2l21 Montags den 2. May
+#facs_295_r2l22 Eentsburg
+#facs_295_r2l23 Tiverstein
+#facs_295_r2l24 Dienstags 3. dito
+#facs_295_r2l25 Schenkenberg.
+#facs_295_r2l26 Arburg.
+#facs_295_r2l27 Mittloochens 4 dito
+#facs_295_r2l28 Boffingen
+#facs_295_r2l29 Bipp
+#facs_295_r2l30 Donstags 5 dito
+#facs_295_r2l31 Erwangen
+#facs_295_r3l1 Frylags 6. dito
+#facs_295_r3l2 Vangen
+#facs_295_r3l3 Landtschute
+#facs_295_r3l4 Traurebrunnen
+#facs_295_r3l5 Sambstags 7. dito
+#facs_295_r3l6 Buradorff.
+#facs_295_r3l7 Montags 9. dito
+#facs_295_r3l8 Thorberg
+#facs_295_r3l9 Buchsee,
+#facs_295_r3l10 Dienstags 10. Dito
+#facs_295_r3l11 Nidou
+#facs_295_r3l12 Arbero
+#facs_295_r3l13 Erlach
+#facs_295_r3l14 Möglochens 11. dito.
+#facs_295_r3l15 Johans Inh
+#facs_295_r3l16 Drienüber
+#facs_295_r3l17 Frythags 13 dito
+#facs_295_r3l18 Louppen.
+#facs_295_r3l19 Dambstags 14. Vito
+#facs_295_r3l20 Gottstatt
+#facs_295_r3l21 Grundis
+#facs_295_r3l22 Sachselwald
+#facs_295_r3l23 Montags 16. dito
+#facs_295_r3l24 ignow.
+#facs_295_r3l25 Zuren,
+#facs_295_r3l26 Suterlachen. Dienstags. 17. Dito.
+#facs_295_r3l27 thun.
+#facs_295_r3l28 Vnderseen. Mit Wochens 18. Vier
+#facs_295_r3l29 Frutlingen
+#facs_295_r3l30 Paanen Hen. Donstags 19. dito.
+#facs_295_r3l31 Alen.
+#facs_296_r2l1 Oberhoffen
+#facs_296_r2l2 Frytags 20 dito
+#facs_296_r2l3 Wimnis.
+#facs_296_r2l4 Freisiment.
+#facs_296_r2l5 Ambter in der Statt
+#facs_296_r2l6 Bauwher vom Raht.
+#facs_296_r2l7 Sambstags 21 Dito
+#facs_296_r2l8 Bautcherz von burgeren.
+#facs_296_r2l9 Seuthaus Montags 23 dito
+#facs_296_r2l10 Kischmeyer
+#facs_296_r2l11 Obe
+#facs_296_r2l12 Vnder Spithal: dienstags 24 dito
+#facs_296_r2l13 Insul.
+#facs_296_r2l14 Miterasens, den 25 dito
+#facs_296_r2l15 schusschaffen
+#facs_296_r2l16 Interlachen
+#facs_296_r2l17 3en dienstags 26 dito
+#facs_296_r2l18 Frienisvirger Hauß
+#facs_296_r2l19 Eid. Johanter Hausse Frytags den 27. dito.
+#facs_296_r2l20 Kornmeister
+#facs_296_r2l21 Diechenmeister. Sambstags 28 Octob.
+#facs_296_r2l22 hößttenniger.
+#facs_296_r2l23 Stiftschafter Montags. den 30. dito.
+#facs_296_r2l24 Remenger.
+#facs_296_r3l1 539
+#facs_296_r3l2 der gehört Frauw, Brugg, Separatim, Erleuterung der
+#facs_296_r3l3 andt alles zwey Getreidt Mandaten Endt Eußerung vom 27. Jan. 1681 und das
+#facs_296_r3l4 fol. 133. Die Frikthaler auch Getreidt kauffen mögend
+#facs_296_r3l5 Schuldtheiß und Raht der Statt Dern.
+#facs_296_r3l6 Vber unsere Vatterliche Vorsorg, die wir zu gutem vnser lieben angehörig
+#facs_296_r3l7 und getreulen Vnderthanen, wegen auffkauff vnd entzüsterung des
+#facs_296_r3l8 Getreidts Vnderam 27. Januarii letsthin gethan, vnd so wohl an Ein¬
+#facs_296_r3l9 2o andere vnsere Ambtleüt gelangen laßen, hat vnser dißmahlige
+#facs_296_r3l10 Ambtman auf Schenkenberg biß Schrifftlichen bedeutet, daß in demselben
+#facs_296_r3l11 der angrenzenden und benachbahrten im Frikthal mit gedacht, und er also
+#facs_296_r3l12 mit Wüßen möge, wie er sich gegen denselben zu verhalten haben werden,
+#facs_296_r3l13 unsere Weglegung darüber zu euwer und seiner Nachricht begehrendt;
+#facs_296_r3l14 Wie nun unsere Deßloegen außgeschriebene Ordnungen und Mandat
+#facs_296_r3l15 -
+#facs_296_r3l16 wohl die Eydtgnosen, als andere benachbahrte und verpuntete
+#facs_296_r3l17 nderthanen zu jeden Zeiten excipirt, als laßendt wir es nochmahlen.
+#facs_296_r3l18 darbey bewenden, und wollend deme gemäß den Trifthalerer, so
+#facs_296_r3l19 ung die noht nichts anders erheuschet, und wir zu anderem nit verursachet
+#facs_296_r3l20 wordert, hiemit bewilliget und zugelaßen haben, sich auff den offenen
+#facs_296_r3l21 Mähriten, allein für ihren Haußbrauch, und auff vorloesenden genusamen
+#facs_296_r3l22 Schein von ihrer Oberkeit, mit Getreidt zu verfachen, doch daß Solches
+#facs_296_r3l23 ohne fürkauff und in aller bescheidenheit, vnd zwahr erst nach der stundt
+#facs_296_r3l24 die Jeden ohrts der äußeren und sodieren halb gesetzt ist, beschehe, deßen
+#facs_296_r3l25 Ihr hiemit auch zur Nachricht verstemget, und dabey der treuwen
+#facs_296_r3l26 abjorg Gottes wohl empfelchen sindt. Dat. 8. Marty 1681.

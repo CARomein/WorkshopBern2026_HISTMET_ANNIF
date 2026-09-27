@@ -1,0 +1,27 @@
+Law ID: BER.01.001.2971
+Name: Ihnen befehlen die Visiten bey den Heüsern zuthun, undt zu verzeichnen wie viel Getreidt ein jede Hausshaltung im Vorraht hat.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 16/16
+# High similarity (>=50%): 16
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_143_r4l21 An alle freyßeibel undt Amen.
+#facs_143_r4l22 Ihnen befehlen, die Visiten bey den Häusern
+#facs_143_r4l23 Schathun, undt zu Verzeichnen wie viel
+#facs_143_r4l24 getreidt Ein Jede Haußhaltung in Vorast habe.
+#facs_143_r4l25 Schuldtheiß undt Rast deo Statt Bem¬
+#facs_143_r4l26 Damit Wir eigentlich wüßen mogind, wie
+#facs_143_r4l27 viel getreidt bey den particularen Unsers-
+#facs_144_r2l1 Teütschen landts sich befinden thüe; Alß habend
+#facs_144_r2l2 Wie die hiemit bey deinem theütere Eydt
+#facs_144_r2l3 befehlen wollen, mit aller beförderung
+#facs_144_r2l4 in deinem bezirk Einen umbgang zu
+#facs_144_r2l5 verrichten, undt alles nach inhalt beyli¬
+#facs_144_r2l6 gender Begleisung getreüwlich und unfan¬
+#facs_144_r2l7 seyisch zu verzeichnen, und Unser verord¬
+#facs_144_r2l8 einen Nom Direction Einzuschilen
+#facs_144_r2l9 Dat. 11th May 1709.

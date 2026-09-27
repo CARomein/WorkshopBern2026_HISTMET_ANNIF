@@ -1,0 +1,95 @@
+Law ID: BER.01.001.4644
+Name: Verordnung die Ausfuhr des Viehs betreffend.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 84/84
+# High similarity (>=50%): 83
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_285_r2l11 Verordnung
+#facs_285_r2l12 Die Ausfuhr des Viehs betreffend.
+#facs_285_r2l13 Wir Schultheiß, Klein und Pro¬
+#facs_285_r2l14 Se Räthe der Stadt und Republik Bern,
+#facs_285_r2l15 entbieten allen Unstern lieben und
+#facs_285_r2l16 getreuen Bürgern und Angehörigen
+#facs_285_r2l17 Unstern gnädigen und wohlgeneigten
+#facs_285_r3l1 565
+#facs_285_r3l2 Willen, und geben ihnen dabey zu ver¬
+#facs_285_r3l3 nemen: Daß in landes väterlicher Be¬
+#facs_285_r3l4 herzigung des bahren Wohlfeyns Unserer
+#facs_285_r3l5 getreuen lieben Angehörigen, Wir wieder
+#facs_285_r3l6 mahlen über die Beschaffenheit und den
+#facs_285_r3l7 gegenwärtigen Zustand der Vietzucht in
+#facs_285_r3l8 Unsteren Landen die näheren Gerichte ein¬
+#facs_285_r3l9 ziehen und Uns vorlegen laßen; Da
+#facs_285_r3l10 Wir nun daraus mit Vergnügen er¬
+#facs_285_r3l11 sehen, daß Unsere Lande hinlänglich
+#facs_285_r3l12 mit Lebwaar versehen, sich befinden
+#facs_285_r3l13 so wollen Wir die unterm 30ten April
+#facs_285_r3l14 1787. verbotene Ausfuhr aller Ruhe
+#facs_285_r3l15 und Kalbeten von nun an biederum
+#facs_285_r3l16 gestatten
+#facs_285_r3l17 Wie dan Unser Wille ist, daß bey
+#facs_285_r3l18 solchen Umständen die freye Handlung
+#facs_285_r3l19 und Ausfuhr alles Viehes ihren dort
+#facs_285_r3l20 gang haben solle, also daß die Unse¬
+#facs_285_r3l21 rigen ihr abzusteßen habendes Vieh, so¬
+#facs_285_r3l22 bohl in¬ als aussert Lands, an Einheim
+#facs_285_r3l23 sche, Äußere und Fremde verbaufen¬
+#facs_286_r2l1 auch hinbiederum alle Äußere und
+#facs_286_r2l2 Fremde das benöthigte kleine und groß
+#facs_286_r2l3 se, feite und magern Vieh, wie auch
+#facs_286_r2l4 Kälber und Schafe p in Unserm
+#facs_286_r2l5 Landen ankaufen und daraus abführen,
+#facs_286_r2l6 können.
+#facs_286_r2l7 Alles nach Ausweis der im allge¬
+#facs_286_r2l8 meinen Vieh Mandat de 20. X
+#facs_286_r2l9 1786 enthaltenen Vorschrift, und
+#facs_286_r2l10 des Artibels wegen dem Verbar¬
+#facs_286_r2l11 der kaufen sichs weis, des Men¬
+#facs_286_r2l12 Dats vom 24. Jänner 1787.
+#facs_286_r2l13 Als wornach jedermanniglich sich zu
+#facs_286_r2l14 verhalten wissen wird. Deben in
+#facs_286_r2l15 Unserer Großen Raths verstand=
+#facs_286_r2l16 lung d. 6t. März 1789
+#facs_286_r2l17 (Translation)
+#facs_286_r2l18 Nous l'advoyer, petit et grand conseils
+#facs_286_r2l19 de la Ville et Republique de Berne,
+#facs_286_r3l1 567
+#facs_286_r3l2 assurons tous Nos chers et fidelles citoyens et
+#facs_286_r3l3 Sujets, de Notre gracieuse Bienveuillance, et
+#facs_286_r3l4 leurs saisons savoir
+#facs_286_r3l5 Que dans Notre sollicitude pour tout ce qui
+#facs_286_r3l6 peut intéresser le bien-être et la prospérité
+#facs_286_r3l7 de tous Nos ressortissans, Nous etant fait ren-
+#facs_286_r3l8 dre Compte de létat où se trouve actuellement
+#facs_286_r3l9 l'économie du bétail et ayant trouvé a Nôtre
+#facs_286_r3l10 vive Satisfaction, que le Pays soumis à Notre
+#facs_286_r3l11 Obeissance sont suffissament pourvus de beste
+#facs_286_r3l12 aux, Nous avons résolu de permettre de nouveau
+#facs_286_r3l13 l'exportation de toutes Vaches et genisses, laquelle
+#facs_286_r3l14 Nous avions interdite par notre Mandat du 30
+#facs_286_r3l15 Avril 1787. Voulons que, vu ces circonstances
+#facs_286_r3l16 le libre commerce et l'exportation de tout bétail
+#facs_286_r3l17 à cornes reprennent leur cours président, et que
+#facs_286_r3l18 tous Nos ressortissants puissent vendre les bésti
+#facs_286_r3l19 aux dont ils voudront se défaire, tant au dedans
+#facs_286_r3l20 qu'au dehors du pays, soit a des sujets du
+#facs_286_r3l21 Canton, ou a des étrangers: permettons à
+#facs_286_r3l22 ceux-ci d'achetter dans nos paÿs, et d'en ca
+#facs_286_r3l23 porter toute espèce de grand et petit bétail à
+#facs_287_r2l1 Cornes, gras ou maigre, ainsi que des
+#facs_287_r2l2 veaux brebis y le tout a teneur du present
+#facs_287_r2l3 de Notre mandat general conservant le
+#facs_287_r2l4 bétail, du 3e Décembre 1786. ainsi
+#facs_287_r2l5 que de l'article 1. de noire Mandat du
+#facs_287_r2l6 24 Janvier 1787 dans lequel il est interdit
+#facs_287_r2l7 a tout boucher, d'acheter en gros et par
+#facs_287_r2l8 convention, des vieaux qui ne seroient pas
+#facs_287_r2l9 encore nés. Ce a quoi un chacun aura
+#facs_287_r2l10 a se conformer
+#facs_287_r2l11 Donne dans Notre assemblée du Grand
+#facs_287_r2l12 Conseil le 6 Mars 1789

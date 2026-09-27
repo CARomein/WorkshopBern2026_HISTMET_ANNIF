@@ -1,0 +1,35 @@
+Law ID: BER.01.001.0602
+Name: Verbesserung halb der Strassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 24/24
+# High similarity (>=50%): 23
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_252_r2l1 5p4
+#facs_252_r2l2 Februarius
+#facs_252_r2l3 An alle T. und W. Amptleuch,
+#facs_252_r2l4 1618
+#facs_252_r2l5 Fryweibel und Amman, Murte,
+#facs_252_r2l6 und Tscherlung-verbeßerung halb
+#facs_252_r2l7 ter Straßen
+#facs_252_r2l8 Dieweis uns fürkomen das durch die
+#facs_252_r2l9 ht
+#facs_252_r2l10 Waßergröße, hin und wider In unseren Rütscheyend
+#facs_252_r2l11 weltschen Landen die wägend Straßen mercklich
+#facs_252_r2l12 verfraßen, verflößt und geschent worden. Kaben
+#facs_252_r2l13 wie eß Oberkeitlicher Fürsorg, ein hoch-noturfft
+#facs_252_r2l14 zum erachtet, der hiemit ja wenn ernstiglich Hubenehm
+#facs_252_r2l15 hat du angsicht diß Grieff, unseres Lenderthanes
+#facs_252_r2l16 einer anvertruirten Verwaltung, verwarne
+#facs_252_r2l17 und ihnen gepietensöllest, Inuert acht tagen solche
+#facs_252_r2l18 wäg vnd Straßen, dergestalt Hebenehmen, ge¬
+#facs_252_r2l19 verbeßeren und zu reparieren, das Frömbde und
+#facs_252_r2l20 chemische, dieselben ohne hindernus noch geschär¬
+#facs_252_r2l21 brüchen mögend, by poen vnd Straff, wie die
+#facs_252_r2l22 zu unserem vorgenden Beßschryben verbesserung halb
+#facs_252_r2l23 der Straßen, bestimmt ist, vnd vnser ungnadt
+#facs_252_r2l24 Datum 9a. Februarij 1618

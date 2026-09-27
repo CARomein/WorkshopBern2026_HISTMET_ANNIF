@@ -1,0 +1,41 @@
+Law ID: BER.01.001.3434
+Name: Ihnen befehlen, wegen den Rodeurs, eine Betteljegi auff den 7.Febr. nechstkünfftig anzustellen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_493
+# Matched: 30/30
+# High similarity (>=80%): 30
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_90_tr_2l_2 An Alle Weltsche Ambtleüth,
+#facs_90_tr_2l_3 Item Grandson.
+#facs_90_tr_2l_4 Ihnen befehlen, wegen den Rodensch, eine Bettel¬
+#facs_3_r1l1 Collat.
+#facs_90_tr_2l_6 Jegen auf d. 7. Elbe: Nechstkünfftig Anzustellen.
+#facs_28_r4l13 Schultheis und Raht etc.
+#facs_90_tr_2l_8 Von einichen Unseren Ambtleuten W. Landts
+#facs_90_tr_2l_9 langen Uns die Nachrichten ein, das eine
+#facs_90_tr_2l_10 Zeith daher außteyser und Rodeurs mit
+#facs_90_tr_2l_11 Großen Stelen oder prüglen sich in Unser
+#facs_90_tr_2l_12 Welche Land Werffind, welche nit nur
+#facs_90_tr_2l_13 die Landleüth und Reysende Ihres guets,
+#facs_90_tr_2l_14 sondern des Lebens selbsten zu berauben
+#facs_90_tr_2l_15 trachten; Welches Unß Veranlaßet, disen
+#facs_90_tr_2l_16 Übell zu stäubten; zu disem und aber zu
+#facs_90_tr_2l_17 Gelangen eine Beltel Jegen in Unßeren Weltich
+#facs_90_tr_2l_18 lenden anzustellen, und auf den 7. Febr:
+#facs_90_tr_2l_19 rechsttünfftig auszuschreiben; Wie dann
+#facs_90_tr_2l_20 Unßer befelich an dich, gleich übrige Unsere
+#facs_90_tr_2l_21 Ambtläuth W. Landr, Langet, die Ver¬
+#facs_90_tr_2l_22 Anstaltung hinder deinem Ambt dahin
+#facs_90_tr_2l_23 zu verschaffen, daß sothane Beltell, jegi auf
+#facs_90_tr_1l_1 173
+#facs_90_tr_1l_2 Gedeüte Zeith Ihren Fortgang haben, und nit
+#facs_90_tr_1l_3 nur die Landtstraßen, sondern auch die Wäl¬
+#facs_90_tr_1l_4 der, durchsucht die antreffenden Verdächtigen
+#facs_90_tr_1l_5 Landtstreicher eingezogen, gegen selbige
+#facs_90_tr_1l_6 entweders nach vorhandenen Umbstenden
+#facs_90_tr_1l_7 Verfahren, oder wir deren Verhaffts Ver¬
+#facs_90_tr_1l_8 stendiget werden. Dat. 19. Jan. 1724.

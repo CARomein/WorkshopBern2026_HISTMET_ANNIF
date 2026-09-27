@@ -1,0 +1,74 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 67/67
+# High similarity (>=80%): 66
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_138_r3l1 Verordnung über den Transit
+#facs_138_r3l2 des Schieß Pulvers, der Armatur
+#facs_138_r3l3 und Kriegsmunition
+#facs_138_r3l4 An alle Herren Amtleut Deutsch und Welschen
+#facs_138_r3l5 Lands, 4 Städte, Freyweibel und Ammann¬
+#facs_138_r3l6 so wie auch an Merten und Tscherliz.
+#facs_259_r2l4 Schultheis und Rath! etc.
+#facs_138_r3l8 Aus verschiedenen Betrachtungen bewogen
+#facs_138_r3l9 haben Wir für gut befunden den Transit
+#facs_138_r3l10 des Pulvers durch hiesige Lande zu verbieten
+#facs_138_r3l11 und übersenden Euch eine genugsame Anzahl
+#facs_138_r3l12 Exemplare dieses gedrukten Verbolls, mit Be-
+#facs_138_r3l13 fehl solches behörigen Orts publicieren zu laßen
+#facs_138_r3l14 und über die genaue Befolgung deselben zu
+#facs_138_r3l15 wachen. Datum den 27ten Jänner 1796.
+#facs_67_r3l14 Publication
+#facs_58_r2l9 Wir Schultheiß und Rath der Stadt
+#facs_117_r3l31 und Republik Bern, thun kund hiermit
+#facs_138_r3l19 da Wir mit Unlieb vernehmen müßen
+#facs_138_r3l20 das seit einiger Zeit daher Schießpulver durch
+#facs_138_r3l21 Unsere Lande weiters geführt worden; so
+#facs_138_r3l22 stehen Wir uns genöthiget, um alle nachtheilige
+#facs_138_r3l23 folgen so hieraus entstehen könnten. zu behindern,
+#facs_138_r3l24 hiemit den Transit von Pulver, Armatur
+#facs_82_r3l24 — und
+#facs_138_r4l1 265.
+#facs_138_r4l2 und Kriegs munition durch Unsere Lande männiglich
+#facs_138_r4l3 zu verbieten
+#facs_138_r4l4 Werden nun dergleichen Waaren in Unsern Lande
+#facs_138_r4l5 ankommen, so sollen selbige, da wohie entdekt.
+#facs_138_r4l6 werden, angehalten und mit der Confiscation
+#facs_138_r4l7 beleget werden.
+#facs_138_r4l8 Sollte aber Jemand versuchen, dergleichen
+#facs_138_r4l9 Waaren durch Nebenwege ein= oder durch unsere
+#facs_138_r4l10 Lande zu führen, oder die Natur der Waare nicht
+#facs_138_r4l11 eigentlich und deutlich, oder gar wrig anzugeben
+#facs_138_r4l12 so soll nebst der Confiscation der Waare, der
+#facs_138_r4l13 Sehlbare annoch mit einer Buße von zwanzig Beyer
+#facs_138_r4l14 für jedes Pfund Pulver belegt, auch nach den Um¬
+#facs_138_r4l15 Tänden annoch vörperlich bestraft werden
+#facs_138_r4l16 Die Commissionairs und Steditoren welche
+#facs_138_r4l17 sich gebrauchen laßen, den Tränsit dergleichen
+#facs_138_r4l18 Waare zu befördern, auch den Empfang der Waare
+#facs_138_r4l19 dem Richter nicht anzeigen würden, sollen mit
+#facs_138_r4l20 eben dieser Strafe belegt werden.
+#facs_138_r4l21 Von den fallenden Strafgeldern und dem Wenth
+#facs_138_r4l22 der Confisbation, soll dem Verleider ein Drittel,
+#facs_138_r4l23 dem Amtsmann des Orts ein drittel, und dem fisco
+#facs_138_r4l24 ein Drittel zufließen.
+#facs_138_r4l25 Wird dergleichen Waare irgendwo angehalten
+#facs_138_r4l26 so soll der Amtsmann darüber ein Verbal erricht¬
+#facs_138_r4l27 laßen, und uns den Vorfall mit aller Beförderung
+#facs_140_r6l20 eine
+#facs_139_r1l1 266
+#facs_73_r3l2 Collat
+#facs_5_r4l1 4
+#facs_139_r3l1 Lemberulte, damit Wir ohne Verzug das
+#facs_139_r3l2 angemessene Verfügen können
+#facs_139_r3l3 Unsern MitEyd genoßen, welche der¬
+#facs_139_r3l4 gleichen Waaren zu ihrer eigenen oder
+#facs_139_r3l5 ihres Landes Bedürfnis nöthig haben, werden
+#facs_139_r3l6 Wir nach Eydgnösischem Herbommen auf
+#facs_139_r3l7 ihr Verlangen hin, die benöthigten Transit¬
+#facs_139_r3l8 Patenten stets bereitwillig zu kommen laßen.
+#facs_139_r3l9 Beben den 27ten Januar 1796.
+#facs_98_r5l28 en

@@ -1,0 +1,93 @@
+Law ID: BER.01.001.3156
+Name: Wegen Verheürathung der Bettleren und sonsten wegen den Armen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 82/82
+# High similarity (>=50%): 80
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_377_r2l12 An alle T. Ambtleüth, 4 Stätt, Freyweubel,
+#facs_377_r2l13 Item die 4 mit Freyburg
+#facs_377_r2l14 und Amman
+#facs_377_r2l15 n
+#facs_377_r2l16 gemein habende Gemanden; Venne
+#facs_377_r2l17 Sub 29 May 1714 an hiesiges Chorgricht
+#facs_377_r2l18 Sch. R. und G.
+#facs_377_r2l19 Wegen Verheürathung der Bettleren
+#facs_377_r2l20 und sonsten wegen den Armen
+#facs_377_r2l21 Temnars von unsers sich anlichen Gemeinsen Unß der neue
+#facs_377_r2l22 wohnnütigen klagten einkommen, wie ohnerträglich thut
+#facs_377_r2l23 bald fallen wolle, ihre Gemeindts Armen nahnet
+#facs_377_r2l24 Collath
+#facs_377_r2l25 Zuefft zu versehen, diser ihnen auffallende last aber
+#facs_377_r2l26 darin merklich vermehrt werde, daß die jenigen
+#facs_377_r2l27 Persohnen, so in der Gemeind Allmoosen auferzogen
+#facs_377_r2l28 werden, ohnangesehen hierwieder angesehener
+#facs_377_r2l29 Ordnungen, sich allzufrühzeitig und ohne daß
+#facs_377_r2l30 in stand ihre weib und tinder zu erhalten, verst
+#facs_377_r2l31 rathin; habendt wir umb disere und gesamte
+#facs_377_r2l32 Vnsere undergebene, welche disers ansichet
+#facs_377_r2l33 trostlooß zu laßen, nach reiffer diser sachen erwegung
+#facs_377_r3l1 = 733.
+#facs_377_r3l2 Zu hinderhaltung dergleichen frühseitigen Heürathen
+#facs_377_r3l3 hiemit gutfunden und erkent, das gleich wie lauth Chor¬
+#facs_377_r3l4 Grichtlicher setzung, die Eltern das recht haben, Ihre
+#facs_377_r3l5 Kinder, so unter 20. Jahren Alters sind, obgleich sie sich
+#facs_377_r3l6 Ehelich versprochen auch würklich der Byschlaff Vorgänge
+#facs_377_r3l7 sten der Eheversprechung zu ledigen, also den Gemeines
+#facs_377_r3l8 gleiches Recht, in ansehen dergleichen in Allmogst
+#facs_377_r3l9 uferzogenen Persohnen, denen sie gleichfahls an
+#facs_377_r3l10 Eltern statt sind, hierdurch gegeben und bewilliget
+#facs_377_r3l11 leur avoir venir un autre voir dans les
+#facs_377_r3l12 sein solle, wan Ein solcher tuab oder Meitl.
+#facs_377_r3l13 vor hingelegtem Fünst und zwantzigsten jahr ihres
+#facs_377_r3l14 Alters, sich ohne der Gemeind Einwilligung ehelich
+#facs_377_r3l15 versprochen, ja so gar auch der Byschlaaff erfolget wäre,
+#facs_377_r3l16 sich wider solche Eheliche Einsegnung zu sehe, und die
+#facs_377_r3l17 Ehe gleich den Elteren hinderstellig zu machen, mit
+#facs_377_r3l18 diser Erleuterung, wan der Bischlaß vorgangen, mit
+#facs_377_r3l19 eine schwangerschaft erfolget wäre, daß der kaab zu
+#facs_377_r3l20 wohl verdienter staatst vier Jahr Lang vßert Landts
+#facs_377_r3l21 in Kriegse oder anderen Diensten sich zu auffhalten
+#facs_377_r3l22 schuldig sein, und nicht ehender ins Land gelaßen
+#facs_377_r3l23 werden solle, bis Er gute Zeugsame seines wohl¬
+#facs_377_r3l24 Verhaltens mitbringen wird; die fählbahren beib¬
+#facs_377_r3l25 Persohnen dan ohne Ring, jedoch mit einem sonder
+#facs_377_r3l26 bahren Zeichen, als einer halb rothen halb schwartz
+#facs_377_r3l27 kappen vier jahr Lang im Schallenwert arbeiten
+#facs_377_r3l28 Die Erhaltung aber des enthelichen Kindts ihnen
+#facs_377_r3l29 Beiden ohne Beschward der Gemeind obligen solle
+#facs_377_r3l30 Alles in dem Verstand, wenn es sich zutragen solte, das
+#facs_377_r3l31 et weders die Mans= oder weibspersohn, oder beide
+#facs_377_r3l32 sammethafft nach verfließung diser Gesetzten 4 jahren
+#facs_377_r3l33 nit würklich 25 jahr erreichet hetten, die Maus
+#facs_377_r3l34 Persohn vor disem alter das Land nicht betratten,
+#facs_378_r2l1 Die weibs persohn aber biß dahin, im schallenweit
+#facs_378_r2l2 verharren, allen fahr aber und da beidseitig Eltern
+#facs_378_r2l3 genzlich im Unvermögen, das sind von Beiden
+#facs_378_r2l4 gemeinden, da Vatter und Mutter daheimen
+#facs_378_r2l5 sindt, verpflogen werden, den Gemeinden aber
+#facs_378_r2l6 nachwehrts überlaßen sein solle, die Eltern
+#facs_378_r2l7 solches besag Neuwer Gergerichtlichen Ordnung
+#facs_378_r2l8 abgewinnen zu machen; Dieweilen aber wegen der
+#facs_378_r2l9 Einheimischen Armen auch die frömbde Bettler
+#facs_378_r2l10 dem Landt- und Gemeindten höchst beschwörlich¬
+#facs_378_r2l11 Als habend wir denselben hierdurch befohlen
+#facs_378_r2l12 vnd sie ermahnen wollen, die Frömbden noch
+#facs_378_r2l13 inhalt der Ordnung aus dem Land zu schaffen, daß
+#facs_378_r2l14 Einheimischen Armen Kinder aber also vnd zu
+#facs_378_r2l15 Ehrlichen begangenschafften erziehen zu laßen,
+#facs_378_r2l16 daß wan selbe zu ihren jahren kommen, Sie ihr
+#facs_378_r2l17 Brodt selbsten verdienen können. Wie nun
+#facs_378_r2l18 bir gegenwärtiges Unser Einsehen wider dieser
+#facs_378_r2l19 Landtstrukende übel vorzukehren höchst nöthig
+#facs_378_r2l20 erachtet, also habend wir dir hierdurch befehl
+#facs_378_r2l21 wollen selbiges von nun an zu manigliche
+#facs_378_r2l22 Lachricht öffentlich von Cantzle verkünden
+#facs_378_r2l23 und alle jahr aufs feische mit dem Meyer
+#facs_378_r2l24 Mandat verlesen zu laßen, vnd das selts
+#facs_378_r2l25 nachgelebet werde, deines theils handt obzu¬
+#facs_378_r2l26 halten. Datum 20. April. 1714.

@@ -1,0 +1,25 @@
+BER.01.001.2525
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 16/16
+# High similarity (>=50%): 16
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_16_r3l2 25
+#facs_16_r3l3 An alle Lt. und W. Ambtleicht,
+#facs_16_r3l4 4. Stätt
+#facs_16_r3l5 Wegen denen Holländischen Wärbungen
+#facs_16_r3l6 Collaten Schultheiß und Raht der Stadt Bärn etc.
+#facs_16_r3l7 Ungern und mit mißfallen müßend wir sehen, wie von unseren Vnderthanen
+#facs_16_r3l8 viel wider das außgeschribne Verbot in frömbde Kriegsdienst sich begebind, und
+#facs_16_r3l9 nicht darvon abgehalten werdend; welches nirgend anders herfließen kan
+#facs_16_r3l10 als von der schlechten auffsicht vnd Inobservation vnserer Ambtleichten, weiln
+#facs_16_r3l11 sonderlich denjenigen, so an Waßerpaßen sind, solche Durchzug nit vnbekannt
+#facs_16_r3l12 sein mögen, doch nichts berichtet habend; dahero wir nohtwendig gefunden
+#facs_16_r3l13 sich gleich anderen Unserm Ambtleichten alles Ernsts und bey Eiden zuver¬
+#facs_16_r3l14 nahmen, beßer ob Vnserem Mandat zuhalten, und auf die übertretter
+#facs_16_r3l15 zeachten, ohne schohnen und geflißenlich; auch, wo schiff ankommen, selbige zu
+#facs_16_r3l16 visitiren, und die leicht derinnen zuverzeichnen, damit, wann du zu reden
+#facs_16_r3l17 gestellt werden soltest, dich verantworten könnet. Dat. 15. July 1693.

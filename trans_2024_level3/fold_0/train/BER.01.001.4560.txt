@@ -1,0 +1,222 @@
+Law nr: BER.01.001.4560
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 210/210
+# High similarity (>=80%): 203
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_117_r3l2 Alle deutsch und Weltsche Herren Amtleute
+#facs_145_r5l4 Vier Städt, Freyweibel und Amann
+#facs_140_r5l19 um Sr. Zedel an Herrn Brichtschreiber
+#facs_140_r5l20 Wie auch an die Canhel der Hauptstadt
+#facs_140_r5l21 Posten-Diligences
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_222_r3l21 seyn stellen.
+#facs_140_r5l24 gewesen, was maßen denen verordneten
+#facs_308_r2l8 Anbeistungen, den Angehörigen
+#facs_356_r3l1 97
+#facs_141_r2l1 Landen auf den Landstraßen von denen
+#facs_141_r2l2 Fuhrleuten, nicht nur nicht ausgewichen
+#facs_141_r2l3 werden wolle, sondern in lezt abge¬
+#facs_141_r2l4 wichenen Tagen, die Vermessenheit so
+#facs_141_r2l5 weit getrieben worden, das sowohl
+#facs_141_r2l6 Fuhr, als übermüchtige Candleute
+#facs_141_r2l7 sich vergeßen haben, die mit Unserm
+#facs_141_r2l8 kleit versehene Curiers anzufallen
+#facs_141_r2l9 um mit Worten und Werben zu miß,
+#facs_141_r2l10 handlen. Da nun dieses Betragen
+#facs_141_r2l11 Auser Mißfallen höchstens erreget
+#facs_141_r2l12 hat, zumalen die mit Unserend
+#facs_141_r2l13 kleit versehene Postillionen der
+#facs_141_r2l14 gemeinen Sicherheit vorzüglich genos
+#facs_141_r2l15 seyn sollen, als haben Wir in dieser
+#facs_141_r2l16 Absicht zur Beförderung ihres Laufs
+#facs_141_r2l17 und zu werkthätiger Ihnen angedeyen
+#facs_141_r2l18 der Hilfsleistung in Befahr und Noth
+#facs_141_r2l19 eine Verordnung ausgehen lasen, von
+#facs_141_r2l20 deren Wir Euch, eine genugsame Anzug
+#facs_141_r2l21 Exemplaria zufenden, mit Befehl
+#facs_141_r2l22 Diese Verordnung in Eüerem Amt mit
+#facs_141_r2l23 nur von Kanzel verlesen- und zu jeder
+#facs_100_r2l1 soll.
+#facs_37_r1l1 66
+#facs_141_r4l1 275
+#facs_141_r4l2 mans Einsicht und verhalt üblicher Orten
+#facs_141_r4l3 öffentlich, sondern auch in den Gast¬
+#facs_141_r4l4 Stuben der Wihrtshäuser anschlagen¬
+#facs_141_r4l5 und in den Schloßbücheren einschrei¬
+#facs_141_r4l6 ben zu laßen, sondern dabey auch
+#facs_141_r4l7 in sich erengnenden Fällen, Euch dar¬
+#facs_141_r4l8 nach zu richten, und die Fehlbaren
+#facs_141_r4l9 infolg derselben zu bestrafen, oder
+#facs_141_r4l10 den Umständen nach Uns zu ver¬
+#facs_141_r4l11 leiden. Datum 28. January 1785
+#facs_36_r3l7 Schultheiß und Rath
+#facs_141_r4l13 der Stadt und Republik Bern, thun
+#facs_141_r4l14 kund hiermit; demnach Uns einsfällig
+#facs_141_r4l15 ungezeigt worden, was maden denen
+#facs_141_r4l16 verordneten Posten und Deligences, in
+#facs_141_r4l17 Unseren Landen, auf den Landstras¬
+#facs_141_r4l18 sen von denen Fuhrleuten nicht nur
+#facs_141_r4l19 nicht außgelöchen werden wolle, sondern
+#facs_141_r4l20 in lezt abgewichenen Tagen die Vor¬
+#facs_141_r4l21 meßenheit so weit getrieben worden,
+#facs_141_r4l22 das sowohl Fuhr, als übermüchtige
+#facs_141_r4l23 Landleute sich vergeßen haben, die
+#facs_92_r1l1 176
+#facs_142_r2l1 mit Unserem Beleit versehene Couriers
+#facs_142_r2l2 anzufallen, und mit Wort und Wer¬
+#facs_142_r2l3 ben zu mißhandlen; dis strafbare
+#facs_142_r2l4 Betragen dann Unser Misfallen hoch¬
+#facs_142_r2l5 stens erreget hat, und künfftighin nach
+#facs_142_r2l6 aller Strenge geahndet werden soll,
+#facs_142_r2l7 als haben wir mittelst gegenwärti¬
+#facs_142_r2l8 ger Verordnung, alle Unsere Angehör
+#facs_142_r2l9 rige zu Stadt und Land, und alle Fremde,
+#facs_142_r2l10 Die in Unseren Grenzen sind, besonders
+#facs_142_r2l11 dann die Fuhrleute, die eingefesenen
+#facs_142_r2l12 wie die durchfahrenden, alles Ernsts
+#facs_142_r2l13 anmahnen wollen, denen Posten und Dili¬
+#facs_142_r2l14 gences, die Unsere Standes farb und Schil¬
+#facs_142_r2l15 führen, auf vorbeschehenes Zeichen mit
+#facs_142_r2l16 lem Posthorn auf denen Landstraßen
+#facs_142_r2l17 nicht nur alsogleich Platz zu machen, und
+#facs_142_r2l18 wo es auch immer seyn mag, auszuwei¬
+#facs_142_r2l19 chen, sondern auch in Befahr und Noth
+#facs_142_r2l20 ihnen mit werkthätiger Hand behülf,
+#facs_142_r2l21 lich zu seyn, in welch lezterm Fall das
+#facs_142_r2l22 Unsere Postbestehere denen Hülfs
+#facs_142_r2l23 leistenden, die ihrer Handreichung ge¬
+#facs_142_r2l24 bührende Selohnung zu kommen läsen.
+#facs_142_r3l1 277
+#facs_142_r3l2 werden, so wie Wir hingegen diejenigen
+#facs_142_r3l3 fie muht willig und vorsehlich die Posten
+#facs_142_r3l4 und Diligences aufhalten oder ver¬
+#facs_142_r3l5 zögeren würden, mit angemeßener
+#facs_142_r3l6 Strafe belegen lasen wollen,
+#facs_142_r3l7 Es gehet demnach Unser wust
+#facs_142_r3l8 liche Befehl an alle Unsere Amt¬
+#facs_142_r3l9 leute und Vorgeschte, in sich crang¬
+#facs_142_r3l10 nenden Vorfällen mehr bemelten
+#facs_142_r3l11 Posten und Deligences allen möglichen
+#facs_142_r3l12 Vorschub zu thun, ihren Lauf so weit
+#facs_142_r3l13 immer möglich zu befürderen, und aber
+#facs_142_r3l14 der Postillion eines solch Hochobrig
+#facs_142_r3l15 keitlich privilegierten Bührwerbt ge¬
+#facs_142_r3l16 gen jemand klagend auffrecten
+#facs_142_r3l17 würde, so soll der Richter des Orts
+#facs_142_r3l18 Eme kurze und gute Justiz admini¬
+#facs_142_r3l19 strieren, wobey Wir für diejenigen
+#facs_142_r3l20 welche den Postillion oder Courrier
+#facs_142_r3l21 in der Fortsehung seines Lauffs wer¬
+#facs_142_r3l22 den aufgehalten oder gehindert haben,
+#facs_142_r3l23 für das erste mahl, nebst Abtrag
+#facs_142_r3l24 der Kösten, eine Suß von jehen Pfun¬
+#facs_142_r3l25 fen, und bey Wiederholung, nebst
+#facs_142_r3l26 den Kosten, zwanzig Pfund Bus
+#facs_143_r1l1 278.
+#facs_100_r2l1 soll.
+#facs_143_r3l1 gesetzt haben wollen; der oder diejenigen
+#facs_143_r3l2 aber, so Thätlichkeiten gegen den
+#facs_143_r3l3 Postillion ausüben würden, sollen
+#facs_143_r3l4 in Gefangenschafft gesezt, verhört,
+#facs_143_r3l5 und soll das Examen Aus zu gewese¬
+#facs_143_r3l6 ner Testrafung der Fehlbaren über¬
+#facs_100_r3l2 sendt werden.
+#facs_143_r3l8 Und damit niemand die Unleisen¬
+#facs_143_r3l9 heit vorschüzen könne, so soll diese Vor¬
+#facs_143_r3l10 ordnung nicht nur von Kanzel verlesen,
+#facs_143_r3l11 öffentlichen
+#facs_143_r3l12 sondern an den gewohnten Orten zu
+#facs_143_r3l13 jedermans Einsicht und Verhalt ange¬
+#facs_143_r3l14 schlagen werden.
+#facs_143_r3l15 Geben den 28. January 1785
+#facs_65_r3l5 Canzley Bern.
+#facs_83_r3l6 en
+#facs_301_r3l15 ous l'Avoyer et Conseil de
+#facs_143_r3l18 la Ville et Republique de Berne, savoir
+#facs_143_r3l19 faisons par les présentes: que Nous avons
+#facs_143_r3l20 appris avec Deplaisir comme quoi l'on
+#facs_143_r3l21 refuse non seulement de faire place sur
+#facs_143_r3l22 Ces Toutes publiques à nos Postes et
+#facs_143_r3l23 Diligences, mais que même l'Insolence
+#facs_143_r4l1 279
+#facs_143_r4l2 et la Temerité ont été poussées ces jours
+#facs_143_r4l3 derniers par des Voituriers et des gens
+#facs_143_r4l4 de la Campagne à un tel point, qu'ils
+#facs_143_r4l5 ont maltraite, tant de paroles que de
+#facs_143_r4l6 fait des Courriers portant nôtre Livrée
+#facs_143_r4l7 et muni de l'Ecu de Nos Armes
+#facs_143_r4l8 Comme un tel Comportement a en couru
+#facs_143_r4l9 Nôtre juste Indignation, et que Nous
+#facs_143_r4l10 entendons qu'il soit puni severement.
+#facs_143_r4l11 à l'avenir, Nous exhortons très sere eu
+#facs_143_r4l12 sement par les Présentes tous Nos ressort
+#facs_143_r4l13 tissants quelconques, ainsi que tous Etran
+#facs_143_r4l14 gers dans Nos Etats, et en particu,
+#facs_143_r4l15 liers tant les Voituriers et Charetiers do¬
+#facs_143_r4l16 nicilié riere les Pays de Notre Domina
+#facs_143_r4l17 tion, que ceux qui n'y font que passer,
+#facs_143_r4l18 de faire non seulement place par tout
+#facs_143_r4l19 sur les grandes Roules, le mieux et le
+#facs_143_r4l20 plutôt possible, soit au premier Son
+#facs_143_r4l21 du Cor, soil à quelque autre Avertissemt.
+#facs_143_r4l22 que ce puisse être, à toutes les Postes et
+#facs_143_r4l23 Diligences portant Notre Livrée et
+#facs_143_r4l24 l'Ecu de Nos armes, mais encore de leur
+#facs_143_r4l25 preter tous les secours possibles lors
+#facs_143_r4l26 qu'elles se trouveront dans quelque
+#facs_144_r1l1 280
+#facs_144_r2l1 Peril ou Detresse, En ce dernier Cas ils
+#facs_144_r2l2 recevront de la societé ayant la Ferme
+#facs_144_r2l3 de Nos Postes une recompense propor
+#facs_144_r2l4 tionée au service qu'ils auront ren-
+#facs_144_r2l5 du en pareils Cas. Par contre ceux
+#facs_144_r2l6 qui oseront à bavenir de propos de
+#facs_144_r2l7 libéré, insulter, arreter ou retarder,
+#facs_144_r2l8 de quelle maniere que ce soit, les Postes
+#facs_144_r2l9 et Deligences susmentionnées, se
+#facs_144_r2l10 ront châties irremissiblement et se
+#facs_144_r2l11 lon la gravité du Cas
+#facs_144_r2l12 Cest pourquoi Nous ordonnons à
+#facs_144_r2l13 tous Nos Baillifs et preposés, de
+#facs_144_r2l14 prêter dans l'occasion toute l'assistan
+#facs_144_r2l15 ce possible aux dites Postes et Diligences
+#facs_144_r2l16 en contribuant de leur mieux à la célérité
+#facs_144_r2l17 de leur course Et au Cas que le Postil
+#facs_144_r2l18 lon d'une telle voiture souverainement
+#facs_144_r2l19 privilegiée portât des plaintes contre
+#facs_144_r2l20 qui que ce soit, le Juge du lieu aura à
+#facs_144_r2l21 Eu rendre prompre et courte justice.
+#facs_144_r2l22 Nous voulons en même tems, que
+#facs_144_r2l23 ceux qui auront arrette, empêché ou
+#facs_144_r2l24 retardé un courrier, soit Postillon dans
+#facs_144_r3l1 281
+#facs_144_r3l2 dans sa course, soient condamnés pour
+#facs_144_r3l3 la premiere fois à une amende de dix
+#facs_144_r3l4 Livres Bernoises, et pour la seconde
+#facs_144_r3l5 à une amende de vingt Livres, ainsi
+#facs_144_r3l6 qu'à tous les frais occasionnés à
+#facs_144_r3l7 ce sujet. Et quant à celui ou ceux,
+#facs_144_r3l8 qui agiront par Voie defait contre un
+#facs_144_r3l9 Postillon, ils seront arrettés et exami
+#facs_144_r3l10 nés, et l'on aura à Nous informer
+#facs_144_r3l11 pour que nous puissions en statuer
+#facs_144_r3l12 un Chatiment exemplaire
+#facs_144_r3l13 Les Présentes seront lues et publi.
+#facs_144_r3l14 ces en Chaire, et affichées aux
+#facs_144_r3l15 Endroits accoutume pour l'Instruc
+#facs_144_r3l16 tion de Tous et un chacun, et afin que
+#facs_144_r3l17 personne ne puisse prelexter cause
+#facs_144_r3l18 d'ignorance. Donné le 28. Janvier
+#facs_144_r3l19 1785
+#facs_115_r2l17 selle de Berne
+#facs_149_r1l1 289
+#facs_100_r2l1 soll.
+#facs_8_r9l4 60.

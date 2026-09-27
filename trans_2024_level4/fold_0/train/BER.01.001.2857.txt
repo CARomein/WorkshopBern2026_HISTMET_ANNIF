@@ -1,0 +1,24 @@
+BER.01.001.2857
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 15/15
+# High similarity (>=50%): 14
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_387_r1l16 5
+#facs_387_r3l1 An alle Weltsche Ambleüth
+#facs_387_r3l2 Wegen zu er vorgehenden Wärbungen
+#facs_387_r3l3 Sie zu obhaltung der Mandaten anmahnen.
+#facs_387_r3l4 Schultheiß und Rast.
+#facs_387_r3l5 Woon seithen deß Franz. H. Ambassadoren ist un¬
+#facs_387_r3l6 abermahlen klagend vorgebracht worden, ob solten
+#facs_387_r3l7 ohngeacht Unserer so offt widerholten verpotten widermahlen
+#facs_387_r3l8 früsche Wärbungen in Vnserem Weltschen Landt vorgenom=
+#facs_387_r3l9 men werden; derowegen wir dir, gleich übrigen Unseren
+#facs_387_r3l10 Weltschen Ambbleüthen hiemit befehlen wollen, ob unseren
+#facs_387_r3l11 deßwegen außgangenen Mandaten steiff zu halten, und
+#facs_387_r3l12 anbey auch dich alles Ernsts zu erkundigen, ob etwas der
+#facs_387_r3l13 gleichen vorgange und ins deßen, was an der sach sein
+#facs_387_r3l14 nöchte, zu berichten. Gott mit dir / Datq: 1 Dec: 1704.

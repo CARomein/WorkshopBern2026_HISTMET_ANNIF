@@ -1,0 +1,84 @@
+Law nr: BER.01.001.4327
+Name: Verordnung betreffend die Aufbewahrung der Protokolle, Minuten und anderen Bücheren der geschwornen Schreiber hiesiger Hauptstadt.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 73/73
+# High similarity (>=80%): 70
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_3_region_1627936336835_13l2 der
+#facs_59_r3l1 111
+#facs_224_r4l8 berden.
+#facs_186_r4l11 betref
+#facs_20_region_1633454443396_2840l3 die Aufbewahrung der Protokolle,
+#facs_20_region_1633454443396_2840l4 Minuten und andern Bücheren der
+#facs_20_region_1633454443396_2840l5 geschwornen Schreiber hiesiger Hauptstadt
+#facs_64_r2l8 Wir Schultheiß und Rath
+#facs_20_region_1633454448771_2843l2 Stadt und Revublit Bern, thun kund
+#facs_20_region_1633454448771_2843l3 hiemit; demnach Wir nötig erachtet,
+#facs_20_region_1633454448771_2843l4 wegen den Protokollen der geschwornen
+#facs_20_region_1633454448771_2843l5 Schreiber in hiesiger Hauptstadt und dazu
+#facs_20_region_1633454448771_2843l6 gehörenden Stadtgericht, eine Verfügung zu
+#facs_20_region_1633454448771_2843l7 treffen; als verordnen Wir hiemit:
+#facs_20_region_1633454448771_2843l8 1° Sollen alle Protokolle, Concepten, Minut,
+#facs_20_region_1633454448771_2843l9 und andere dergleichen Bücher's von
+#facs_20_region_1633454448771_2843l10 verstorbenen geschwornen Schreibern hiesiger
+#facs_20_region_1633454448771_2843l11 Hauptstadt, alsobald nach Oefnung des
+#facs_20_region_1633454448771_2843l12 auf ihre Verlassenschaft gelegten Sigels
+#facs_20_region_1633454448771_2843l13 von denigenigen so das Sigel öfnet zu
+#facs_20_region_1633454448771_2843l14 Handen genommen, so gleich verpitschiert
+#facs_20_region_1633454448771_2843l15 uns der Gerichtschreiberey übergeben werden
+#facs_20_region_1633454448771_2843l16 Solte die Verlassenschaft nicht unter Sigl
+#facs_20_region_1633454448771_2843l17 kommen, so sollen die Erben obigen Unsern
+#facs_20_region_1633454448771_2843l18 Willen erfüllen.
+#facs_20_region_1633454456012_2846l1 2. Bleicher gestalten sollen auch die Pro¬
+#facs_20_region_1633454456012_2846l2 tokolle, concepten, Minunten und andere
+#facs_20_region_1633454456012_2846l3 dergleichen Bücher der entsetzten oder
+#facs_20_region_1633454456012_2846l4 sonst abgehenden geschlronnen Schreiben
+#facs_20_region_1633454456012_2846l5 ebenfalls verpitschiert dahin übergeben
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_20_region_1633454456012_2846l7 3. Alle diese Bücher sollen an einem
+#facs_20_region_1633454456012_2846l8 eigens dazu gebiedmeten ihm Ort sorgfältig
+#facs_20_region_1633454456012_2846l9 aufbehalten, und darüber ein genaues
+#facs_20_region_1633454456012_2846l10 Inventarium gezogen werden, von welchem
+#facs_20_region_1633454456012_2846l11 Unsere verordnete Archiven Comißion ein
+#facs_20_region_1633454456012_2846l12 Soppel, das andere aber ein jedesender
+#facs_20_region_1633454456012_2846l13 Gerichtschreiber in Händen haben soll, diese
+#facs_20_region_1633454456012_2846l14 sollen bey jeder Aenderung eines Bruchts
+#facs_20_region_1633454456012_2846l15 Actuary vervollkommet und ergaust werden.
+#facs_20_region_1633454456012_2846l16 4. Diese Verordnung soll nicht allein für
+#facs_20_region_1633454456012_2846l17 die Zukonft, sondern, so weit möglich auch
+#facs_20_region_1633454456012_2846l18 für das Vergangene in Exebution gesetzt
+#facs_20_region_1633454456012_2846l19 werden, beswegen jederman so dergleichen
+#facs_20_region_1633454456012_2846l20 Protokolle, Concepten, Minunten und andere
+#facs_20_region_1633454456012_2846l21 Bücher in Händen hat, ermahnt wird, solche
+#facs_20_region_1633454456012_2846l22 Unserem Gerichtschreiber einzuhändigen.
+#facs_20_region_1633454456012_2846l23 5. Im Fall nach zu seinem Rechtsbehuf nötig
+#facs_20_region_1633454456012_2846l24 haben solte, etwas in diesen in Werkahrung
+#facs_4_r4l2 15
+#facs_10_r3l1 36
+#facs_21_region_1633454498812_2865l1 genommen, Protokollen nachmühen, oder
+#facs_21_region_1633454498812_2865l2 sich davon Extrakte geben zu laßen
+#facs_21_region_1633454498812_2865l3 so soll dieses, wenn es noch lebende
+#facs_21_region_1633454498812_2865l4 Persohnen betrift, nicht ohnen deren Vor¬
+#facs_21_region_1633454498812_2865l5 wißen- weder bey lebenden noch todten
+#facs_21_region_1633454498812_2865l6 Persohnen aber, anders als mit Belbilliger
+#facs_21_region_1633454498812_2865l7 eines jedesenden Gerichtschreibers geschehen.
+#facs_21_region_1633454498812_2865l8 6° Diese Verordnung soll nicht nun öfentlich
+#facs_21_region_1633454498812_2865l9 gedrukt, und sämtlichen hiesigen Burgern
+#facs_21_region_1633454498812_2865l10 ausgetheilt, sondern auch dem Tarit
+#facs_21_region_1633454498812_2865l11 der geschwornen Schreiben hiesiger Haupt¬
+#facs_21_region_1633454498812_2865l12 stadt eingerübt werden, damit jederman-
+#facs_21_region_1633454498812_2865l13 davon Wißenschaff habe.
+#facs_21_region_1633454498812_2865l14 So wie nun diese Verordnung einsig
+#facs_21_region_1633454498812_2865l15 und allein zum Besten und zur Sicherheit
+#facs_21_region_1633454498812_2865l16 der in hiesiger Hauptstadt und Stadt¬
+#facs_21_region_1633454498812_2865l17 gericht contrahierenden Persohnen gerichtet
+#facs_21_region_1633454498812_2865l18 ist, so sind Wir auch erbarten, daß
+#facs_21_region_1633454498812_2865l19 jedermann sich befleißen werde. Unsern
+#facs_21_region_1633454498812_2865l20 Absichten mit williger Folgleistung zu
+#facs_21_region_1633454498812_2865l21 entsprechen.
+#facs_21_region_1633454498812_2865l22 Geben d. 6 Jänner 1783.

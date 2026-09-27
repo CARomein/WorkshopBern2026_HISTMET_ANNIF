@@ -1,0 +1,608 @@
+BER.01.001.2689
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 599/599
+# High similarity (>=50%): 540
+# Low similarity (<50%): 59
+# Not found: 0
+#
+#facs_194_r5l1 2
+#facs_194_r5l2 n
+#facs_194_r5l3 se
+#facs_195_r1l1 agotio 30 x
+#facs_195_r1l2 Collat
+#facs_195_r2l1 Betrucktes Getreidt,
+#facs_195_r2l2 Mandat
+#facs_195_r2l3 Hir Statthalter Räht und
+#facs_195_r2l4 Bürger der Statt Pernentpieten
+#facs_195_r2l5 allen vnseren Bürgeren, Ober- und
+#facs_195_r2l6 Vnder Ambtlenten und vorgesetzten
+#facs_195_r2l7 Seist- und weltlichen Standts, auch allen und
+#facs_195_r2l8 Jeden Unseren getreülsen lieben Angehörigen
+#facs_195_r2l9 und vnderthanen in allen Stätten, Graf¬
+#facs_195_r2l10 schafften, horschafften und Gerichten Vnserer
+#facs_195_r2l11 Teütschen und Weltschen Landen, Vnseren
+#facs_195_r2l12 genügten guten Willen und gnädigen
+#facs_195_r2l13 gruß, und demnach zu vernemen: Daß
+#facs_195_r2l14 bey gegenwärtigen klamen Zeiten, da, obglein
+#facs_195_r2l15 Der gütige Gott eine Zimblich reiche Erndt
+#facs_195_r2l16 gegündt die Thürung dennoch immer steigen,
+#facs_195_r2l17 und in völligen James ausbrechen wurde,
+#facs_195_r2l18 wan durch krefftiges einsehen deren lauff
+#facs_195_r2l19 nicht gehemmet werden solte, Wie auß
+#facs_195_r2l20 kallerlicher Vorsorg für Unsere liebe Burger
+#facs_195_r2l21 und Anderthanen eine durchgehende
+#facs_195_r3l1 381.
+#facs_195_r3l2 Ordnung auszubünden guet und nohtwendig
+#facs_195_r3l3 befunden habend, darob dan von nun an bis
+#facs_195_r3l4 nach künfftiger Landt und danzumahliger wei¬
+#facs_195_r3l5 terer Verordnung und nachsehen gehalten
+#facs_195_r3l6 werden, und ein Jeder sich deren gehorsamblich
+#facs_195_r3l7 hinderwerffen soll, so lieb Ihme ist vnsere straff
+#facs_195_r3l8 und HochOberkeitliche Ungnas zuvermeiden.
+#facs_195_r3l9 Wollend also für das Erste, bis auf ermelte
+#facs_195_r3l10 Zeit dem Getreidt seinen unverenderlichen Tax
+#facs_195_r3l11 bestimbt haben, also daß das Tern Mäs Bernen oder
+#facs_195_r3l12 Weitzen deß besten Höcher nit als vmb achtzechen
+#facs_195_r3l13 Batzen angeschlagen, der schlechtere aber nach dem
+#facs_195_r3l14 Währt minder geschätzet, und nach sothaner
+#facs_195_r3l15 Schätzung verkauft, und darnach aller Ohrten
+#facs_195_r3l16 Vnserer Landen, jeh nach grosse und kleine daß
+#facs_195_r3l17 nässer und Weite der Zufuhr, der preiß Jeder
+#facs_195_r3l18 gattung Gewachses, nach inhalt Endtsstehender
+#facs_195_r3l19 Getreidt Tax Taffelen eingerichtet, undt zu
+#facs_195_r3l20 verhütung betrugs an Jedwederem Ohrt nur
+#facs_195_r3l21 das Jenige mas, so bishero daselbst neblich
+#facs_195_r3l22 gewesen, gebraucht werden solle.
+#facs_195_r3l23 So soll auch alle Vermischung des Gewachses
+#facs_195_r5l1 r
+#facs_195_r5l2 qui
+#facs_195_r5l3 se
+#facs_196_r2l1 Zum verbauff gäntzlichen verbotten sein
+#facs_196_r2l2 der Mühligelt dan und was vermischt
+#facs_196_r2l3 gewachsen, nach dem wahrt jeder gattung
+#facs_196_r2l4 Darinnen befindtlichen gewachses geschetzet
+#facs_196_r2l5 werden, dennoch ehender umb etwas zuenden
+#facs_196_r2l6 als zu hoch, damit dardurch das vnerlaubte
+#facs_196_r2l7 Einschlen verhinderet werde.
+#facs_196_r2l8 Vndt damit hierob gehalten werde, so
+#facs_196_r2l9 wollend Wir auf die übertrettung vorbe¬
+#facs_196_r2l10 schribner dingen die Confiscation des
+#facs_196_r2l11 Raufschillings oder Getreidts und en
+#facs_196_r2l12 pfund bues von Jedem Mas ohne einiche
+#facs_196_r2l13 nachlassung gesetzet haben, da von der
+#facs_196_r2l14 Confiscation dem Verleider der halbigen
+#facs_196_r2l15 Theil: Ein viertel dem Ambtsman
+#facs_196_r2l16 Wieder denn selbige fallet, und ein
+#facs_196_r2l17 viertheil zu unseren handen: Die buis
+#facs_196_r2l18 aber halb uns und halb dem Ambtsmann
+#facs_196_r2l19 heimenen, zu dem ende Unser antheil
+#facs_196_r2l20 Unserer geordneten Getreidts Cammer,
+#facs_196_r2l21 Welche Unß darfür Dechnung tragen
+#facs_196_r2l22 wirdt, eingelicheret werden soll.
+#facs_196_r3l1 383.
+#facs_196_r3l2 Im gegentheil aber wollend wir vns hiemit
+#facs_196_r3l3 dahin erklärt haben, daß Wir Selbsten Unser
+#facs_196_r3l4 Oberbeitlicher getreidt zu Statt und Land auch
+#facs_196_r3l5 nicht Thürer außgeben, sondern denen Jeni¬
+#facs_196_r3l6 gen, so das Ihrige auß noht also verkauft, und
+#facs_196_r3l7 achwärts dessen widerumb mangel haben
+#facs_196_r3l8 möchten, in gleichem Preis zur nohtdurfft
+#facs_196_r3l9 zukommen lassen werdens.
+#facs_196_r3l10 für das andere: Damit das getreidt aus
+#facs_196_r3l11 Vnseren Landen nicht vereüsseret, hingegen
+#facs_196_r3l12 aber die Mariten desto besser gespeisst werdendt
+#facs_196_r3l13 wollend Wir nicht allein Unser wider sothane
+#facs_196_r3l14 Vereusserung jungst außgeschribener Verbott¬
+#facs_196_r3l15 fenscher Dingen widerholet, sondern auch der
+#facs_196_r3l16 fählbahren Abstraffung halber dahin versterckt
+#facs_196_r3l17 haben, daß nicht allein das zu verenstern
+#facs_196_r3l18 duchende Getreidt, oder da er bereits vereüsseret
+#facs_196_r3l19 wäre, der Preis darfür in gelt confisciert
+#facs_196_r3l20 -
+#facs_196_r3l21 sondern auch ein solcher frecher übertretter,
+#facs_196_r3l22 noch darüber mit einfachem währt desselben,
+#facs_196_r3l23 ja nach beschaffenen Umbstanden undt grösse
+#facs_196_r3l24 der gefährs an Leib, Ehr und Guet abgestrafft
+#facs_197_r2l1 werden solle: Zu dem ins Mäniglich
+#facs_197_r2l2 Unserer lieben Angehörigen hiemit ernstlich
+#facs_197_r2l3 vermahnt wirdt, wan Er Jemanden deme
+#facs_197_r2l4 Schwiderhandlen in erfahrung bringen
+#facs_197_r2l5 könte, den oder dieselben, er treffe gleich
+#facs_197_r2l6 Ober, oder unter, Beambtete, ohne scheüchen
+#facs_197_r2l7 noch schonen unser allhier sonderbahr darzu
+#facs_197_r2l8 verordneten Korn, Direction oder Execution
+#facs_197_r2l9 Cammer seine Persohn ins gesambt, oder
+#facs_197_r2l10 einem deren Ehren Glideren ins be=
+#facs_197_r2l11 sonders, mit allen vmbständen zu offen¬
+#facs_197_r2l12 bahren; darbey dan auch ein Jeder bey
+#facs_197_r2l13 so thauer entdeckung der Wahrheit nicht
+#facs_197_r2l14 allein seine Sicherheit haben, und von obge¬
+#facs_197_r2l15 dachter Cammer seine Persohn bey Lyten
+#facs_197_r2l16 verschwigen behalten, sondern ihme auch
+#facs_197_r2l17 noch darüber für seine Mühe und treüle
+#facs_197_r2l18 das Confiscierte Getreidt oder Währt darfür
+#facs_197_r2l19 gäntzlich und eigenthümblich verabfolget
+#facs_197_r2l20 werden soll.
+#facs_197_r2l21 Grittens: Wollend wir ernstmeinend
+#facs_197_r2l22 geordnet haben, das Maniglich, Bürger,
+#facs_197_r2l23 Ambtleut, Predickanten, Vassallen und Vnderthanen
+#facs_197_r3l1 385.
+#facs_197_r3l2 Ohne vnderscheid und niemand außgenommen,
+#facs_197_r3l3 all sein Getreidt in der Vile und gattung, was
+#facs_197_r3l4 Ihme an Zins, Zehnden oder sonsten eingegangen,
+#facs_197_r3l5 und gewachsen sein, oder noch eingehen mochte,
+#facs_197_r3l6 Item wie will haußgenossen ein jeder habe, und
+#facs_197_r3l7 war Er für dieselben vor seinen Haußbrauch auf
+#facs_197_r3l8 ein Jahr lang zubehalten, und wie vill verkauffen
+#facs_197_r3l9 zekönnen, vermeine, ohne gefers und in auf¬
+#facs_197_r3l10 richtigkeit also fürderlich anzugeben haben solle,
+#facs_197_r3l11 daß allhier in Vnserer Haubtstatt und anderen
+#facs_197_r3l12 Unseren Stätten, da nicht Ambtleut sind, die
+#facs_197_r3l13 darzu verordneten, auf dem Land aber da
+#facs_197_r3l14 Unsere Ambtleüt sind, gedachte Unserer Ambtleut
+#facs_197_r3l15 nert vierzechen Tagen nach empfangenen
+#facs_197_r3l16 diesem Befelch mehr angezogener Vnserer
+#facs_197_r3l17 Cammer eine vollkommene verzeichnuß ein¬
+#facs_197_r3l18 händigen und überschicken können und sollens
+#facs_197_r3l19 Welchem ein völliger genügen zuleistenen
+#facs_197_r3l20 Jeder, der von Ambts oder Diensts wegen beeydiget
+#facs_197_r3l21 ist, bey seinem geschwornen Eyd und halbjähriger
+#facs_197_r3l22 Einstellung seiner Ehrenstellen, andere aber bey
+#facs_197_r3l23 traff Ilweymahl vier und zwanzig stündiger
+#facs_197_r3l24 Gefangenschafft undt halbjähriger Leisung
+#facs_197_r5l1 us
+#facs_198_r2l1 Hiermit angemahnt und verwahrmt
+#facs_198_r2l2 werden; In meinung daß die Jenigen
+#facs_198_r2l3 so noch nicht vertrochet haben, den Tröschet
+#facs_198_r2l4 auch befürderen und die verzeichniß
+#facs_198_r2l5 ehngesäumbt eingeben sollende
+#facs_198_r2l6 Vndt damit man sehen könne, wo das
+#facs_198_r2l7 geleächs hinkommen, und ob nichts darken
+#facs_198_r2l8 vereüsseret worden, soll ein Jeder sein ver=
+#facs_198_r2l9 kaufender gewächs auf Jedem Marit
+#facs_198_r2l10 dem bestelten aufseher angeben, der
+#facs_198_r2l11 selbiger dan in einen darzu habenden
+#facs_198_r2l12 diedel einschreiben wirdt, umb selbige
+#facs_198_r2l13 hernach gegen dem Haubt Rodel Gehalten.
+#facs_198_r2l14 Welche Unsere Ordnung zu Maniglichs
+#facs_198_r2l15 nachricht nicht allein von Cantzlen
+#facs_198_r2l16 -
+#facs_198_r2l17 sondern auch durch anschlagung auf
+#facs_198_r2l18 den Kornmarckten und anderen offnen
+#facs_198_r2l19 Ehrten fürdersam kund gemacht, sondern
+#facs_198_r2l20 auch von allen Unseren Oberen undt
+#facs_198_r2l21 Obider vermebteten geflissenlich beobachtet
+#facs_198_r2l22 mit getreullich vollstrecket, und wie
+#facs_198_r3l1 urthe
+#facs_198_r3l2 Deme alleen volg geleistet und die Mariten
+#facs_198_r3l3 gespeisst werdindt, Unsere Getreidts Directoren
+#facs_198_r3l4 von Zeit zu Zeit berichtet werden sollend. Geben
+#facs_198_r3l5 unser grossen Rahtsversamblung d. 21. Nov.
+#facs_198_r3l6 1698
+#facs_198_r3l7 Collat
+#facs_198_r3l8 Wetreidt Tax.
+#facs_198_r3l9 Wie Theur Jeder gattung Getreidts
+#facs_198_r3l10 verkauft werden soll.
+#facs_198_r3l11 Rärnen von
+#facs_198_r3l12 Heitzen
+#facs_198_r3l13 Roygen.
+#facs_198_r3l14 haber.
+#facs_198_r3l15 Gärsten Erbs
+#facs_198_r3l16 lg
+#facs_198_r3l17 Ex
+#facs_198_r3l18 verh.
+#facs_198_r3l19 x
+#facs_198_r3l20 rind
+#facs_198_r3l21 Hernmas
+#facs_198_r3l22 of
+#facs_198_r3l23 18.
+#facs_198_r3l24 5
+#facs_198_r3l25 12.—
+#facs_198_r3l26 132
+#facs_198_r3l27 Wick
+#facs_198_r3l28 Jurqdorff
+#facs_198_r3l29 so vnvereinscht
+#facs_198_r3l30 11.2
+#facs_198_r3l31 4.3
+#facs_198_r3l32 163
+#facs_198_r3l33 12.2
+#facs_198_r3l34 und schön
+#facs_198_r3l35 Erlag
+#facs_198_r3l36 1.
+#facs_198_r3l37 5.—
+#facs_198_r3l38 12.3
+#facs_198_r3l39 17’3
+#facs_198_r3l40 11
+#facs_198_r3l41 Hoffingen
+#facs_198_r3l42 4.
+#facs_198_r3l43 Aller Orten
+#facs_198_r3l44 16. 2
+#facs_198_r3l45 11.1
+#facs_198_r3l46 Solothurn
+#facs_198_r3l47 wie der Kärnen
+#facs_198_r3l48 11.1
+#facs_198_r3l49 16.3
+#facs_198_r3l50 1.2
+#facs_198_r3l51 43
+#facs_198_r3l52 Thun
+#facs_198_r3l53 5
+#facs_198_r3l54 13.—
+#facs_198_r3l55 15.—
+#facs_198_r3l56 l'un de ses
+#facs_198_r3l57 5.2
+#facs_198_r3l58 19.2.
+#facs_198_r3l59 Langnaul und
+#facs_198_r3l60 5.1
+#facs_198_r3l61 2.2
+#facs_198_r3l62 14.1
+#facs_198_r3l63 18.3.
+#facs_198_r3l64 hutweil
+#facs_198_r3l65 18.2
+#facs_198_r3l66 Grauler Viertel, 29.1.
+#facs_198_r3l67 8.1
+#facs_198_r3l68 213
+#facs_198_r3l69 Lentzburger Viertel. 28.2.
+#facs_198_r3l70 82
+#facs_198_r3l71 18
+#facs_198_r3l72 21.2
+#facs_198_r3l73 Erbs und Wick¬
+#facs_198_r3l74 8.
+#facs_198_r3l75 17.
+#facs_198_r3l76 Brügger Viertel, 27.3
+#facs_198_r3l77 21.1.
+#facs_198_r3l78 Das schlechter und
+#facs_198_r3l79 Pätterlingen.
+#facs_198_r3l80 .
+#facs_198_r3l81 5.1
+#facs_198_r3l82 12 1
+#facs_198_r3l83 13.3
+#facs_198_r3l84 18.1.
+#facs_198_r3l85 minder
+#facs_198_r3l86 Mieten.
+#facs_198_r3l87 4.
+#facs_198_r3l88 10.
+#facs_198_r3l89 11.2.
+#facs_198_r3l90 15.2
+#facs_198_r3l91 vivis.
+#facs_198_r3l92 2.° Votre conseil
+#facs_198_r3l93 16. -. Aller Ohrtenem¬
+#facs_198_r3l94 7.
+#facs_198_r3l95 2
+#facs_198_r3l96 18-
+#facs_198_r3l97 242
+#facs_198_r3l98 Lausanne
+#facs_198_r3l99 2 3 batzen Thürer als
+#facs_198_r3l100 3
+#facs_198_r3l101 s
+#facs_198_r3l102 14.2
+#facs_198_r3l103 19-
+#facs_198_r3l104 Morser
+#facs_198_r3l105 3.3. Der Roggen
+#facs_198_r3l106 .
+#facs_198_r3l107 6.
+#facs_198_r3l108 5.2.
+#facs_198_r3l109 21.
+#facs_198_r3l110 recculos.
+#facs_198_r3l111 16-
+#facs_198_r3l112 .
+#facs_198_r3l113 & —
+#facs_198_r3l114 7:3
+#facs_198_r3l115 24.2
+#facs_198_r3l116 Werden
+#facs_198_r3l117 3.—
+#facs_198_r3l118 5 f - :
+#facs_198_r3l119 III
+#facs_198_r3l120 71.
+#facs_198_r3l121 Komainmostier in
+#facs_198_r3l122 131
+#facs_198_r3l123 6.
+#facs_198_r3l124 15.1.
+#facs_198_r3l125 Wiblisturg
+#facs_198_r3l126 20.2
+#facs_199_r2l1 3880
+#facs_199_r2l2 Collatz
+#facs_199_r3l1 Nous Lieutenant Petit et Grand
+#facs_199_r3l2 conseil de la Ville et République de Berne: A tous
+#facs_199_r3l3 Mes Ballyfs, et nos autres Officiers Hauts et subalternes
+#facs_199_r3l4 Ministres, Bourgeois, Tujets, Manans et Habitans
+#facs_199_r3l5 de Nos Villes, Comtez et Terres de Notre cheïssance
+#facs_199_r3l6 sans exemplion de Personne, Salut. Comê. nôtre
+#facs_199_r3l7 plus Grand soin est de procurer le bien et avantageé
+#facs_199_r3l8 de tous beux que la providence Divine a Soumis
+#facs_199_r3l9 à Nôtre Gouvernement; Nous pour prevenir que
+#facs_199_r3l10 la cherté des Bleds qui regne dans nos Etats, ne
+#facs_199_r3l11 les resuise par une augmentation Excessive, dans
+#facs_199_r3l12 une extreme necessité et disette; avons jugé
+#facs_199_r3l13 necessaire, pour en arreter le cours, de faire
+#facs_199_r3l14 la presente ordonance, que nous voulons que
+#facs_199_r3l15 lon observe ponctuellement des sa datte jusque
+#facs_199_r3l16 apres les moissons prochaines, ou jusqu'a ce que
+#facs_199_r3l17 nous y aurons autrement pourveu, selon que
+#facs_199_r3l18 fils conjonctures le pourront requerir: Esperant
+#facs_199_r3l19 que chacun sy conformera, avec toute l'obeissance
+#facs_199_r3l20 qui nous est düe, afin d'eviter nôtre indignation
+#facs_199_r3l21 et les peines énoncées dans cette ordonance, dont
+#facs_199_r3l22 la teneur sensuit.
+#facs_199_r3l23 Nous voulons, selon la Taxe que Nous avons
+#facs_199_r3l24 trouve son le faire, que le meilleur froment
+#facs_199_r7l1 arr. -
+#facs_199_r7l2 ne soit vendu que dix-huit baches la mesure de Berne
+#facs_199_r7l3 Et que le moindre en qualité soit estimé suivant sa
+#facs_199_r7l4 valeur, conformement au Tarif transcrit cy dessous
+#facs_199_r7l5 dans lesquelles autres mesures de chaque lieu se trouvent
+#facs_199_r7l6 proportionées, et le prix de chaque Espece de grain regle
+#facs_199_r7l7 en consideration méme de la voiture qu'on est obligé
+#facs_199_r7l8 de faire en certains lieux
+#facs_199_r7l9 Pour eviter toute occasion de fraude, nous defendons
+#facs_199_r7l10 de se servir dautres mesures que de celles qui sont
+#facs_199_r7l11 ordinaires et usiteés dans chaque lieu.
+#facs_199_r7l12 Nous Interdisons aussy le melange de bleds ou
+#facs_199_r7l13 s-
+#facs_199_r7l14 grains de differentes Especes, dans la veuë de les vendre
+#facs_199_r7l15 Et à l'egard du Mécle qui a été recuilly tel, et qui devra
+#facs_199_r7l16 être taxé selon sa qualité a proportion des Especes
+#facs_199_r7l17 dont il sera composé, nous entendons, quil soit estimé
+#facs_199_r7l18 plutôt sur un pied bas que trop haut, afin dempecher
+#facs_199_r7l19 d'autant plus facilement le mélange
+#facs_199_r7l20 Et en cas de contravention a tout ce que dessus, Nous
+#facs_199_r7l21 voulons que les Desobeissans payent une livre Bernoise
+#facs_199_r7l22 d'amende pour chaque mesure de grain quils auront
+#facs_199_r7l23 venduë a trop haut prix, et que les grains et denrees
+#facs_200_r4l1 Ou l'argent qui en sera provenu, soient con
+#facs_200_r4l2 fisques, et appartienent scavoir la moitié au
+#facs_200_r4l3 Denonciateur, le quart au Ballyf ou le cas sera
+#facs_200_r4l4 Echu, et l'autre quart au Fise: Et pour les
+#facs_200_r4l5 amandes, la moitié en appartiendra à Nos
+#facs_200_r4l6 Ballyfs, et l'autre moitié sera delivrée à
+#facs_200_r4l7 Nôtre Chambre ou Direction des bleds qui Nous
+#facs_200_r4l8 en tiendra conte conformement aux ordres
+#facs_200_r4l9 qui luy ont été donnez à ce sujet.
+#facs_200_r4l10 Deplus nous declarons que non seulement
+#facs_200_r4l11 Nous ne ferons vendre les grains et bleds de
+#facs_200_r4l12 nos Greniers publics à un plus haut prix que
+#facs_200_r4l13 celui que nous avons reglé par ledit Tarif,
+#facs_200_r4l14 mais aussy, que nous en ferons livrer su fisamt
+#facs_200_r4l15 au même prix, a beux qui auroient par ne
+#facs_200_r4l16 cessité vendu les leurs sur les marchez.
+#facs_200_r4l17 A fin que les grains et bleds ne soient trans
+#facs_200_r4l18 portez hors de nos Terres, et que les marchez
+#facs_200_r4l19 En solent sufisament pourveus; Nous reïterons
+#facs_200_r4l20 tres Expressement les defenses cy devant faites
+#facs_200_r4l21 Et en augmentant les peines qui y sont declarées
+#facs_200_r4l22 voulons que les bleds et autres grains que l'on
+#facs_200_r4l23 poudra sortir du Paÿs, ou la valeur de Ceux
+#facs_200_r6l1 bois
+#facs_200_r6l2 qu'on decouvrira avoir été sortis, soient confisques.
+#facs_200_r6l3 est de plus, les transgresseurs seront tenus de paÿer
+#facs_200_r6l4 pour l'amende, autant que les blesd et les autres grains
+#facs_200_r6l5 pourroient valoir, exepté dans les cas ex traordinaire
+#facs_200_r6l6 equels nous nous reservons pour punir les bontres
+#facs_200_r6l7 venants en Corps, honneurs et biens, selon l'exigence
+#facs_200_r6l8 du fait et la grandeur de la faute. Exhortant pour
+#facs_200_r6l9 cet effet un chaquun, de temoigner en cette occasion
+#facs_200_r6l10 Le zele qu'il a pour nôtre service, et pour le bien du
+#facs_200_r6l11 public, en denonçant en toute liberté et sans crainte
+#facs_200_r6l12 n'nôtre chambre de bleds ou a quelqu'un de ses membres
+#facs_200_r6l13 beux qui auront desobeï a cet ordre, sans faire aucune
+#facs_200_r6l14 distinction des Personnes, non pas même en ce cas nos
+#facs_200_r6l15 Hauts et Bas Officiers qui pourroient être coupables
+#facs_200_r6l16 Premettons aux Denonciateurs sinceres nôtre pro-
+#facs_200_r6l17 tection Souveraine, et de ne les reveder point; ayant
+#facs_200_r6l18 pour ce sujet expressement comandé par leur serment
+#facs_200_r6l19 à tous les membres de nôtre dite chambre, de les
+#facs_200_r6l20 tenir entierement a couvert; laissant aussy auxdts
+#facs_200_r6l21 Denonciateurs pour recompence de leur fidelité
+#facs_200_r6l22 la confiscation entiere, ainsy quil a été cy dessus
+#facs_200_r6l23 expliqué
+#facs_200_r6l24 Nous voulons et comandons, que Tous nos Ballyfs,
+#facs_200_r6l25 Ministres, Vassaux, Bourgeois et Sujets, declarent
+#facs_200_r6l26 de bonne foy /: et ceux qui sont en charge par le devoir
+#facs_201_r3l1 et le serment ou ils sont engagez :/ à Nos
+#facs_201_r3l2 Ballyfs ou aux Officiers qui seront etablis pour
+#facs_201_r3l3 ce sujet, la quantité et la qualité des bleds, et
+#facs_201_r3l4 autres grains dont chaquun est actuellement
+#facs_201_r3l5 pourvû; Et ce qui luy reste dû en cense
+#facs_201_r3l6 -
+#facs_201_r3l7 rente ou autrement. Et pour cett Effet
+#facs_201_r3l8 Chaquun fera battre incessament ce qui luy
+#facs_201_r3l9 reste en gerbe. Nous entendons de plus, que
+#facs_201_r3l10 chaquun declare, le nombre des persones dont
+#facs_201_r3l11 sa famille est composée, quelle quantité
+#facs_201_r3l12 de grains il luy sera necessaire pour son
+#facs_201_r3l13 pourriture durant une ance, et combien
+#facs_201_r3l14 il croira d'en pouvoir vendre. Le tout sous
+#facs_201_r3l15 peine de privation de charge pour une demy
+#facs_201_r3l16 anée contre ceux qui en sont revétus, et
+#facs_201_r3l17 demprisonement pendant deux foys vingt
+#facs_201_r3l18 qu'altres heures, et d'un vanissement durant
+#facs_201_r3l19 dix mois, contre les autres; nous voulons
+#facs_201_r3l20 Lussy que nos Ballyfo envoyent led: Denom
+#facs_201_r3l21 prement a nôtre dite chambre, au plutard.
+#facs_201_r3l22 dans quinze jours apres la reception, et la
+#facs_201_r3l23 publication de cette ordonance.
+#facs_201_r3l24 f
+#facs_201_r3l25 Enfin pour avoir un Etat Exact des bleds et
+#facs_201_r3l26 Cautres grains qui se trouveront en nos païs
+#facs_201_r5l1 ßes
+#facs_201_r5l2 Et pour decouvrir plus facilement les sorties et les
+#facs_201_r5l3 6
+#facs_201_r5l4 autres malversations; Nous voulons que tous ceux;
+#facs_201_r5l5 qui en vendront aux marchez, soient obligez d'en denon,
+#facs_201_r5l6 er la quantité et la qualité a l'inspecteur a ce commis
+#facs_201_r5l7 qui en tiendra un registre, afin d'en pouvoir rendre Comte
+#facs_201_r5l8 à nôtre chambre lors quelle l'exigera.
+#facs_201_r5l9 Et afin que personne ne puisse ignorer Notre volonté
+#facs_201_r5l10 nous voulons que les presentes soient luës et publiées
+#facs_201_r5l11 en chaire, et qu'elles soient afichées aux places publi
+#facs_201_r5l12 ques et aux Marchez; Etans persuades que nos
+#facs_201_r5l13 Ballyfs et autres Officiers tiendront la main et feront
+#facs_201_r5l14 toutes leurs diligences possibles, afin que nôtre volonté
+#facs_201_r5l15 soit ponctuellement Executée et duëment observée.
+#facs_201_r5l16 Dequoy ils en informeront de tems en tems nôtre
+#facs_201_r5l17 chambre; Com'aussy de tout ce qui pourra se passer
+#facs_201_r5l18 d'important sur ce sujet, et comme les marchez seront
+#facs_201_r5l19 pourveus, pour y remedier davantage en cas de
+#facs_201_r5l20 besoin. Donne en nôtre Grand Conseil le 21 Novembre
+#facs_201_r5l21 1698
+#facs_202_r1l1 394
+#facs_202_r1l2 Farif
+#facs_202_r1l3 Du prix de touttes sortes de Grains.
+#facs_202_r1l4 Froment
+#facs_202_r1l5 egle
+#facs_202_r1l6 Auoine
+#facs_202_r1l7 Orge
+#facs_202_r1l8 Bach C
+#facs_202_r1l9 Bacht
+#facs_202_r1l10 c/
+#facs_202_r1l11 Collat
+#facs_202_r1l12 Bach. et
+#facs_202_r1l13 Bach,
+#facs_202_r1l14 C
+#facs_202_r1l15 ..
+#facs_202_r1l16 18
+#facs_202_r1l17 13
+#facs_202_r1l18 De Berne
+#facs_202_r1l19 2
+#facs_202_r1l20 o
+#facs_202_r1l21 s
+#facs_202_r1l22 12
+#facs_202_r1l23 ..
+#facs_202_r1l24 163
+#facs_202_r1l25 de Berthoux
+#facs_202_r1l26 2
+#facs_202_r1l27 12
+#facs_202_r1l28 3
+#facs_202_r1l29 4
+#facs_202_r1l30 1
+#facs_202_r1l31 .
+#facs_202_r1l32 de berlier
+#facs_202_r1l33 12
+#facs_202_r1l34 3
+#facs_202_r1l35 17 3
+#facs_202_r1l36 5
+#facs_202_r1l37 1
+#facs_202_r1l38 3
+#facs_202_r1l39 16 2
+#facs_202_r1l40 de Loffinguen
+#facs_202_r1l41 11
+#facs_202_r1l42 4
+#facs_202_r1l43 2
+#facs_202_r1l44 11
+#facs_202_r1l45 16 3
+#facs_202_r1l46 de soleure
+#facs_202_r1l47 11
+#facs_202_r1l48 3
+#facs_202_r1l49 2
+#facs_202_r1l50 4
+#facs_202_r1l51 11
+#facs_202_r1l52 de Thoun.
+#facs_202_r1l53 19 2
+#facs_202_r1l54 15
+#facs_202_r1l55 5
+#facs_202_r1l56 2-
+#facs_202_r1l57 13
+#facs_202_r1l58 de Langnaun
+#facs_202_r1l59 18
+#facs_202_r1l60 14
+#facs_202_r1l61 et Hutweil
+#facs_202_r1l62 5
+#facs_202_r1l63 12
+#facs_202_r1l64 2
+#facs_202_r1l65 d'arauw
+#facs_202_r1l66 Votre très ses
+#facs_202_r1l67 9 1
+#facs_202_r1l68 21
+#facs_202_r1l69 3
+#facs_202_r1l70 1
+#facs_202_r1l71 18
+#facs_202_r1l72 Mesure de Lentzbourg
+#facs_202_r1l73 28
+#facs_202_r1l74 21
+#facs_202_r1l75 2
+#facs_202_r1l76 8
+#facs_202_r1l77 2°
+#facs_202_r1l78 18
+#facs_202_r1l79 de Broug
+#facs_202_r1l80 3
+#facs_202_r1l81 27
+#facs_202_r1l82 21
+#facs_202_r1l83 1
+#facs_202_r1l84 8
+#facs_202_r1l85 u. v.
+#facs_202_r1l86 17
+#facs_202_r1l87 de Payerne.
+#facs_202_r1l88 18.1
+#facs_202_r1l89 13
+#facs_202_r1l90 3
+#facs_202_r1l91 5
+#facs_202_r1l92 1
+#facs_202_r1l93 12
+#facs_202_r1l94 de Moudon
+#facs_202_r1l95 15.2
+#facs_202_r1l96 1
+#facs_202_r1l97 2
+#facs_202_r1l98 9
+#facs_202_r1l99 2f
+#facs_202_r1l100 4
+#facs_202_r1l101 10
+#facs_202_r1l102 de Veray
+#facs_202_r1l103 der
+#facs_202_r1l104 24 2
+#facs_202_r1l105 18
+#facs_202_r1l106 11
+#facs_202_r1l107 16
+#facs_202_r1l108 V
+#facs_202_r1l109 de Lausane
+#facs_202_r1l110 19.—.
+#facs_202_r1l111 14
+#facs_202_r1l112 2
+#facs_202_r1l113 5
+#facs_202_r1l114 3
+#facs_202_r1l115 12
+#facs_202_r1l116 de Morges
+#facs_202_r1l117 21.—.
+#facs_202_r1l118 15
+#facs_202_r1l119 2
+#facs_202_r1l120 6
+#facs_202_r1l121 :
+#facs_202_r1l122 13
+#facs_202_r1l123 .
+#facs_202_r1l124 de Nyon
+#facs_202_r1l125 24.2
+#facs_202_r1l126 .
+#facs_202_r1l127 18
+#facs_202_r1l128 3
+#facs_202_r1l129 16
+#facs_202_r1l130 7
+#facs_202_r1l131 diverdon. 17.1.
+#facs_202_r1l132 13.
+#facs_202_r1l133 de Romainmost
+#facs_202_r1l134 5
+#facs_202_r1l135 11.1
+#facs_202_r1l136 20
+#facs_202_r1l137 et advanche
+#facs_202_r1l138 ..
+#facs_202_r1l139 13.4
+#facs_202_r1l140 6
+#facs_202_r1l141 -:
+#facs_202_r1l142 13.1
+#facs_202_r1l143 de Morat. „ 17. -..13-
+#facs_202_r1l144 2
+#facs_202_r1l145 4
+#facs_202_r1l146 11
+#facs_202_r1l147 3
+#facs_202_r1l148 d'Echelens ou 18
+#facs_202_r1l149 13 2
+#facs_202_r1l150 d'Orbe
+#facs_202_r1l151 des terres de la
+#facs_202_r1l152 12
+#facs_202_r1l153 5
+#facs_202_r1l154 Pois et Pesettes tous blancs et des plus beaux
+#facs_202_r1l155 Au méme prix que le fromer
+#facs_202_r1l156 2 oix et pesettes moindres en qualité
+#facs_202_r1l157 un bache plus haut que le segle.
+#facs_202_r1l158 La Farine qui se vend aux pauvres gens dans les Moulins, ne se doit
+#facs_202_r1l159 pendre que selon que l'espece dont Elle sera faite, avec
+#facs_202_r1l160 été venduë sur les marches

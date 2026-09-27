@@ -1,0 +1,42 @@
+Law nr: BER.01.001.0529
+Name: Ob dem Mandat wegen Abstellung der Wucherhandlungen zehalten.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 31/31
+# High similarity (>=80%): 29
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_30_r2l1 5.2
+#facs_266_r3l1 Ann die Waltschen, Amptluth
+#facs_266_r6l3 dem Mandat wegen Abstraffung der
+#facs_266_r6l4 Wucher Handlungen zuhalten
+#facs_57_r3l1 D
+#facs_266_r6l6 Dir. Ist Inn Wüssen was ernstigen
+#facs_266_r6l7 vnnd Christenlichen mandats, wir abstraffung halben
+#facs_266_r6l8 des unersettigen gytts unnd Wucherhandlungen von
+#facs_266_r6l9 weinig Jaren Vrsache vnnd meningtlichen Zug war¬
+#facs_266_r6l10 nung off endtlich verkhünden laßen. Da wir der
+#facs_266_r6l11 Haffnung gewesen, vnnd Vnns versuchen du vnend
+#facs_266_r6l12 andere Vnsere Umstlütt, hettendt darob gehaltten
+#facs_266_r6l13 Vnnd die Vbertretter Irem Verdienen nach gestraffte
+#facs_266_r6l14 Wann vnns aber glaubwürdig führkompt, das ettliche
+#facs_266_r6l15 Vnsere Amptluth Vnder dem Schyn das fürgeben
+#facs_266_r6l16 werden solle. Wir habind sollich vnser Mandat am
+#facs_266_r6l17 etlichen ortten Ingesteltt, disere Vnserem Christenlin
+#facs_266_r6l18 wolmeinenden vnnd billichem Insechen, mitt nach
+#facs_266_r6l19 itzendt noch die Vberträtter straffend, wie aber bil¬
+#facs_266_r6l20 lich beschechen solte, wann sich anderst Ire schuldigen
+#facs_266_r6l21 pflicht betrachten wöltend, So haben wir nitt
+#facs_266_r6l22 Vnderlassen Wöllen dich Zuberichten, das obange¬
+#facs_266_r6l23 regt fürgeben, beträffend die Instellung bemerkt
+#facs_266_r6l24 Vnsers Mandats gantz Stell vnnd erdacht, vnd
+#facs_266_r6l25 hiemitt alles ernsts nochmalen zegepletten unn
+#facs_266_r6l26 gebevelchen, mehr anzognem Mandat geflissenlichen
+#facs_266_r6l27 nachzegahn, vnnd die Verträtter ohne ansechen noch
+#facs_266_r6l28 verschonen der persohnen zestraffen. Daran beschicht
+#facs_266_r6l29 Vnser endtlicher will, dem wies gehorsamlich nach¬
+#facs_266_r6l30 Datum 16 Augusti 1611
+#facs_266_r6l31 zubhommen

@@ -1,0 +1,48 @@
+Law ID: BER.01.001.4937
+Name: Wegen der falschen Meilendischen Silbercronen und Urner Schillingen.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 36/36
+# High similarity (>=80%): 36
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_189_r3l1 An Kürsch und Weltsch Amptlich, wegen der
+#facs_189_r3l2 Falschen Meilendischen Silber Cronen
+#facs_189_r3l3 und Urner Schillingen
+#facs_189_r3l4 Schep Demnach uns ein nüwe gattung silberd einen
+#facs_189_r3l5 des gineinen Meilendischen Schlags, und ein anzal gäuwen
+#facs_189_r3l6 Schillingen so den Urner schlag vnd Zeichen habend, und En¬
+#facs_189_r3l7 langt durch etliche Persohnen vnd der Frömbde In vnser
+#facs_189_r3l8 Welch Land gebracht, vnd für gut vnd gerecht opgeben
+#facs_189_r3l9 habend wir beide Sorten vffsetzen
+#facs_189_r3l10 fürgelege worden.
+#facs_189_r3l11 Ires halts vnd Wärts probieren und erfecken laßen, da sie
+#facs_189_r3l12 dan befunden, das solche nüwe gattung Meilendischer
+#facs_189_r3l13 Silberk vonen Vngrecht und Unwärschafft, vnd ein Stuck an
+#facs_189_r3l14 Fynen, halt mit mehr wärch, als Ungenarlich xj baßen
+#facs_189_r3l15 Die Schilling aber gantz Ununez und falsch, dienst das
+#facs_189_r3l16 ohne Zwyssel an denen Orthen da söllich falsch gelt gemacht
+#facs_189_r3l17 deßelben mehr gepräget vnd In dise Land gebracht, vnd zu
+#facs_189_r3l18 nachtheill vnd schaden des genemen einfalten volcks vßgeben
+#facs_189_r3l19 habend wir eß Oberkeitlicher pflicht
+#facs_189_r3l20 werden möchte.
+#facs_189_r3l21 und Fürsorg, die Vnseren zu Statt vnd Landt deßen Vnuer¬
+#facs_189_r3l22 zogenlich berichten vnd verwarnen laßen wollen.
+#facs_189_r3l23 Beuelchend derwegen dir die Vnseren zyner Amptspfleg
+#facs_189_r3l24 durch fürderlichste offne Verkündung von den Cantzle¬
+#facs_189_r3l25 vor Innam: vnd vßgab solcher Vnmützen Sorten Meilen,
+#facs_189_r3l26 discher Silber Cronen und Schillingen, so vnder dem Schyn
+#facs_189_r3l27 unter gerechter Silber Cronen vnd Urner Schillingen, Im¬
+#facs_189_r3l28 Land vßgespreiert werdende, verwarnen zulaßen, vnd das
+#facs_101_r4l26 f
+#facs_189_r3l30 sy die Jenigen persohnen, sey syndt heimisch oder frömbd,
+#facs_189_r3l31 darmit vmbgan wurdendt, ohne Verschonen die verleiden
+#facs_189_r3l32 angeben, vnd dieselben durch dich augentz sampt dem gelt
+#facs_189_r3l33 vnd züg so vff Inen gefunden wirt, In gfenckliche ver¬
+#facs_189_r3l34 hafftung gelegt, vnd wie deßelben bericht werden sollende,
+#facs_189_r3l35 gegen zuen nach gebür vnd nodturfft procedieren zu laßen.
+#facs_189_r3l36 Datum 29a. Februarij 1616

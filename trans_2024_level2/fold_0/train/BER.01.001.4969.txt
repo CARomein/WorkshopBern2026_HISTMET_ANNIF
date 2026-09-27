@@ -1,0 +1,90 @@
+Law nr: BER.01.001.4969
+Name: [...] das man rächt zenden und das Veech nit in die Zelgen lassen solle biss alle Garben ab dem Väld sind.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_480
+# Matched: 79/79
+# High similarity (>=80%): 76
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_87_r4l1 In Statt vnd landwarnungen
+#facs_87_r4l2 mijn herren fürhin an den Zächen
+#facs_87_r4l3 den mitt nachlassen worden,
+#facs_87_r4l4 Item den man recht zouden vnd
+#facs_87_r4l5 das vorh nit In die zelgen
+#facs_87_r4l6 lassen solle, biß alle garben
+#facs_87_r4l7 ab dem väle sine
+#facs_87_r4l8 Schultheis etc. wiewol wir sijdt
+#facs_87_r4l9 etlichen Jarenn daher In vffruf
+#facs_87_r4l10 fung vnd verlichung vnsere zäch enden, die
+#facs_87_r4l11 Vnsern, so dieselben zesteigern vnd Empfachl.
+#facs_87_r4l12 willens sind gewäsen, gar eigentlich vnd
+#facs_87_r4l13 ärustig hand Warnen lassen, sich In
+#facs_87_r4l14 Empfachung derselbigen dermassen Zehal¬
+#facs_88_r2l10 vnd daruf zepietten, das sy des gedancken
+#facs_87_r4l16 möchtend, daran hebig vnd nit verlürstig
+#facs_87_r4l17 zesind, dan man Inen nach wärts Imvall
+#facs_87_r4l18 Ines vbernemmens nutzit daran nach¬
+#facs_87_r4l19 lassen wurde, Sollichs aber nit sovil ge¬
+#facs_87_r4l20 bracht noch erschossen, dan das wir ein
+#facs_87_r4l21 tattigs vnablässigs nach werkens Iront¬
+#facs_87_r4l22 halb vmb gnadige mässigung und Ablaß,
+#facs_87_r4l23 Ires daran geclagten nachzugs halb
+#facs_87_r4l24 ghept wellichem vorzesind vnd damit
+#facs_87_r4l25 Jeder wüß wes er sich diszu als hallt
+#facs_87_r4l26 vnd warby erpliben, soll vns hochhou¬
+#facs_87_r4l27 schender notturfft halb nochmallen.
+#facs_109_r4l2 163
+#facs_88_r1l1 122
+#facs_88_r2l1 Für gutt angsechen hat, vnnser obbe¬
+#facs_88_r2l2 melt vorig ansachen, widerumb zuerü¬
+#facs_88_r2l3 wenn, vnd bemelte die vnsern gmeinlich
+#facs_88_r2l4 vnnd sonderlich, durch offne vorkündung,
+#facs_88_r2l5 an den Cantzlen abermalen gantz ärust¬
+#facs_88_r2l6 lich, vnd eigentlich Warnen vnd Xmanen
+#facs_88_r2l7 gelassen, sich In steigerung vnd Empfachung,
+#facs_88_r2l8 berünter vnserer zächenden, dermassen
+#facs_88_r2l9 fursichtigklich vnd wolbedachtlich zuhalten,
+#facs_88_r2l10 vnd daruf zepietten, das sy des gedancken
+#facs_86_r2l3 gemessen vnd wärth daran zehaben, dan
+#facs_88_r2l12 dan wir deß entlichen vorhabens, vnd bei
+#facs_88_r2l13 dachts sind, Inen nachwärts vffirlagen,
+#facs_88_r2l14 inichs anderst dan von ungwitter vnd
+#facs_88_r2l15 Hagell, daran Erlichnen schadens hin¬
+#facs_88_r2l16 derlings vnd nachzugs halb einiche
+#facs_88_r2l17 nachlassung zethund, noch dese vtzit
+#facs_88_r2l18 wie bischar beschächen, zugelt ange
+#facs_88_r2l19 schlagen, sonders sij gäntzlich darumb abwysen,
+#facs_88_r2l20 vnd uns mit keiner andern verschafft
+#facs_88_r2l21 dan mit guttem, suberm wolgerüsten,
+#facs_88_r2l22 Korn, vnd haber, so sy daruf gepotten
+#facs_88_r2l23 werden haben, bezallen lassen, Es sollen
+#facs_88_r2l24 euch vnsere vnderthanen gineinlich vnd
+#facs_88_r2l25 sonderlich, sich In vff stellung der zend gar¬
+#facs_88_r2l26 ben vnd eszrichtung des zendens, dermassen
+#facs_88_r2l27 Umbsichtig vfurcht, vnd Erbar halten, den
+#facs_88_r3l1 Sy an keinem betrug falsch, oder vntruw
+#facs_88_r3l2 disz stucks ergryffen werdind, dan wod
+#facs_88_r3l3 zu Clag und val käme vnd kundtlich wund,
+#facs_88_r3l4 Sollten sy wussen, doß hiemit gar eigent¬
+#facs_88_r3l5 lich gewarnet sinden wir es nit anderst
+#facs_88_r3l6 dan als fur ein offentlichen wüssenthaf
+#facs_88_r3l7 ten diebstals rathuen vnd halten vnd die
+#facs_88_r3l8 thenigen so sich dergstalt vbersachen vnd
+#facs_88_r3l9 ventieffen, alls wüssenth affte dieben
+#facs_88_r3l11 nach Irem verdienen, wurden müssen
+#facs_88_r3l12 straffen. Sij sollen die zÿt zälgen daruf
+#facs_88_r3l13 die Summer frucht stand, nit öffnen
+#facs_88_r3l14 noch einich vorch darin tryben, vntzit die
+#facs_88_r3l15 bemelten frucht vnd garben allerding etc.
+#facs_88_r3l16 abgefürt, vnd die zälgen gäntzlich gerumpt
+#facs_88_r3l17 syn werden, alles by hoher veen vnd straff
+#facs_88_r3l18 durch vnsere amptlich daruf zesetzen, vnd
+#facs_88_r3l19 darob stif zohalten, das dem allem so vor¬
+#facs_88_r3l20 tadt gestracks nachkommen vnd glapt
+#facs_88_r3l21 werde, den Ist gantz vnser wyll desen soll
+#facs_88_r3l22 mencklich hiemit gar eigentlich gewar¬
+#facs_88_r3l23 net sin, sich darnach wussen zuhalten,
+#facs_88_r3l24 datum penultima Maij 1571

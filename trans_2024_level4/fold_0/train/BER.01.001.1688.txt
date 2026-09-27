@@ -1,0 +1,77 @@
+Law ID: BER.01.001.1688
+Name: Wegen der papistischen Schmachbüchlinen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 66/66
+# High similarity (>=50%): 64
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_26_r4l1 Eim alle E. E. 4. St. Freyne- vndt Annau
+#facs_26_r4l2 wegen der Papisten Schmachbüchlinen
+#facs_26_r4l3 Suldt heiß vndt Raht etc. Von unseren glaubens wider
+#facs_26_r4l4 wertigen sind der Schmutz vndt schwach-Buchlinen nach-
+#facs_26_r4l5 aller hand wegute verlefferungen biß hoe so wil gespürt
+#facs_26_r4l6 worden, daß wir zue aller dienten abstrattung deren so
+#facs_26_r4l7 darmit den 6 gehen, disen rohtwendigen Beselchen maßen
+#facs_26_r4l8 hiemit gegen die Beschicht, ergehen zulaßen Vrsach funden
+#facs_26_r4l9 das wann der gleichen Lester Carten schmach Büchl. vndt
+#facs_26_r4l10 verachtliche Schutz wieder, welche alle durch den Landts¬
+#facs_26_r4l11 Priden vndt den Jüngsten seidens schluß, verpotten sein
+#facs_26_r4l12 solten, hinder dnns gespütt, gesuchen vndt gehört werden
+#facs_26_r4l13 Nnbend abnemmevndt abschattung derselben Nach den Tre¬
+#facs_26_r4l14 Herrn, feil daberen, oder einschleickeren, vndt denen, so ihren
+#facs_26_r4l15 Lester - mut darmit treiben wurden, ernstlich getrachtet.
+#facs_26_r4l16 dieselben behendiget vndt gehencklich eingesetzt, vnndt Irer
+#facs_26_r4l17 verhafftung wir, zu weiterer erkandtnuß, Berichtet werden
+#facs_26_r4l18 3) Und, Maßen du Deines theils, so weit es hinder die zum
+#facs_26_r4l19 fahl kombt, zuthun wüßen wirst. Datum 6. Junij 1659.
+#facs_27_r1l1 Eversoren Knecht vndt Mägdtgar Wilmali
+#facs_27_r1l2 nachgelegt, undt Ires Nachtlegner halb mit
+#facs_27_r1l3 vndt abgeßuberet werden, deßen
+#facs_27_r1l4 gewaßen abermals Eximieret
+#facs_27_r1l5 verursacher worden, in durch gehindn ab¬
+#facs_27_r1l6 :
+#facs_27_r1l7 manung darwider undt erfrischung des alten gepoten
+#facs_27_r1l8 gehen zulaßen, vndt Inselch und hiemit dir, disen Anse¬
+#facs_27_r1l9 ten oberkeitlich vorsorglichen willen, allen daußvättern
+#facs_27_r1l10 Inn Deiner Verwaltung, die In der Kirchen nach der
+#facs_27_r1l11 bedig, undt nach dem austritt des vorigen Volcks zum
+#facs_27_r1l12 willpand vermant werden können, vorlesen zulaßen,
+#facs_27_r1l13 dardurch ulis dieselben Ins gemein- undt Jeden zur Besond¬
+#facs_27_r1l14 ernstlich erinneret vndt ermhant haben wollend, Inn der
+#facs_27_r1l15 rechtlichen Copierung seines Haußgesindts, den obgedachten
+#facs_27_r1l16 bürenden anderscheid zumachen, Also das weiblichen
+#facs_27_r1l17 vndt Meelliches geschlecht, Knecht, undt Megd In absonderliche
+#facs_27_r1l18 Demnach gelegt werd und wie es eines Jeden Hauses ge-
+#facs_27_r1l19 fügenheit halben besten sein kan: Allen anlaß zu
+#facs_27_r1l20 Ein Recht dardurch desto mehr zu verhüten: Wie dan ein jeder
+#facs_27_r1l21 mit die Erhaltung der Zucht vndt ehebarkeit angelegen ist
+#facs_27_r1l22 von selbsten Zethun gemeint sein soll. Undt damit solchem
+#facs_27_r1l23 deßo deßer nachgelebt wurde, sol diese dermanung undt
+#facs_27_r1l24 deutliche Verlesung von den Hausvätteren, Inelich wider
+#facs_27_r1l25 Solet undt wo an der Saltung etwas in au gels erscheint
+#facs_27_r1l26 die Innigen für Chor gericht beschickt, vndt sonderbar mit
+#facs_27_r1l27 Ihnen geordt werden. Wie wir denn versuchen haben,
+#facs_27_r1l28 wollend. Dat. 6. Juny 1659
+#facs_27_r3l1 Dem alle T. R. 4 St. Freyw. vndt Annau
+#facs_27_r3l2 Wegen der Papisten Schmachbüchlinen
+#facs_27_r3l3 Auldtdeis vndt Raht etc. Von unseren glaubens wider
+#facs_27_r3l4 wertigen sind der Schmutz vndt schwach-Buchlinen vnd
+#facs_27_r3l5 aller hand vngute verleferungen biß hoe so wil gespürt
+#facs_27_r3l6 worden, daß wir zur ewer diensten abstrattung deren so
+#facs_27_r3l7 darmit den 6 gehen, disen nohtwendigen Beselchen maßen
+#facs_27_r3l8 hiemit gegen die Beschicht, ergehen zulaßen Ursach funden
+#facs_27_r3l9 das wann der gleichen Lester Parten, schmach Büchli undt
+#facs_27_r3l10 verächtliche Scheutzlieder, welche alle durch den Landts¬
+#facs_27_r3l11 beiden vndt den Jungsten seldens schluß, verpotten sein
+#facs_27_r3l12 solten, hinder dnur gespütt, gesuchen undt gehört werden
+#facs_27_r3l13 nebend abnemme vndt abschaffung derselben Nach Den Tre¬
+#facs_27_r3l14 Herrn, feil daberen, oder einschleickeren, vndt denen so ihren
+#facs_27_r3l15 Lester - mut darmit treiben wurden, ernstlich getrachtet,
+#facs_27_r3l16 dieselben behendiget undt gefencklich eingesetzt, vndt Irer
+#facs_27_r3l17 versafftung wir, zu weiterer erkandtnuß, berichtet werden
+#facs_27_r3l18 und, Maßen du deines theils, so weit es hinder die Zun
+#facs_27_r3l19 fahl kombt, zuthun wüßen wirst. Datum 6. Junii 1659

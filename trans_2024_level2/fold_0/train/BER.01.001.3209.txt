@@ -1,0 +1,90 @@
+Law ID: BER.01.001.3209
+Name: Die strassburgische Pieces de Trentehols verruffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 79/79
+# High similarity (>=50%): 66
+# Low similarity (<50%): 13
+# Not found: 0
+#
+#facs_41_r2l1 An alle T. Vnd Welltsche Amtleüth
+#facs_41_r2l2 4. Stött, Freyweibell und Amau
+#facs_41_r2l3 Die Straßburgische pieces de Trente sols
+#facs_41_r2l4 verrüffen.
+#facs_41_r2l5 Schuldniß und Rhat der Statt Bärn
+#facs_41_r2l6 Ruhigende Plavards werden dir, gleich gegen
+#facs_41_r2l7 Einichen anderen Vnseren Amtl. auch beschicht, zu dem
+#facs_41_r2l8 End zugeschikt, damit zu stellbe nit nur offentlich
+#facs_41_r2l9 von Cantzlen verkünden, sondern auch angewohnten ohrte
+#facs_41_r2l10 unschlagen laßen, und daß denn Nachgelebt werde
+#facs_41_r2l11 hand ob zuhallten wüßen wirst. Gott mit dir das
+#facs_41_r2l12 Aprilis 1716
+#facs_41_r2l13 Evaluation
+#facs_41_r2l14 Placcard Per Twentefolt
+#facs_41_r2l15 Demnay Marie Buädige Herren und
+#facs_41_r2l16 oberen zu Erfahrung gedracht, das die sogenante
+#facs_41_r2l17 am Treutefols oder dreißbürger dreyzehen bätzler
+#facs_41_r2l18 In Frankreich Neüw vmbgepräget, und denenselbe
+#facs_41_r2l19 In höherem lauff alls bis hiehin gegeben werden.
+#facs_41_r2l20 wolle etc. s. Alls hat solches hochgedacht Weghl.
+#facs_41_r2l21 veranlaßet, disere Neüwgeprägte Trente sols auf
+#facs_41_r3l1 73.
+#facs_41_r3l2 Die Probseiten. Und Ihnen bewandtnuß hinderbringen
+#facs_41_r3l3 zu laßen; Allermaßen dann selbige Solchemnach befunde
+#facs_41_r3l4 Vnd Erkennt; daß selbe In dero Landen nicht höher
+#facs_41_r3l5 alls umb 13. batzen angenommen werden sollind etc. damit
+#facs_41_r3l6 aber sollche Neuwgeprägte 13. bätzler von JederMäniglich
+#facs_41_r3l7 erkannt werden mögend, habend Mehl. und oberen sollche
+#facs_41_r3l8 Nachstechen und auff gegenwärtiges Plavard zu Jedermann,
+#facs_41_r3l9 nigl. Nachricht aufftruken laßen, vmb sich darnach
+#facs_41_r3l10 Einzurichten wüßen etc. Allen aber, und VnderAmtl.
+#facs_41_r3l11 Demnach befehlende, Nicht allein solches aller Ohrten
+#facs_41_r3l12 anschlagen zu laßen, sondern daß deme Nachgelebt
+#facs_41_r3l13 werde Hand obzuhallten. Actis 6. aprilis 1716.
+#facs_41_r3l14 Cantzley Bärn
+#facs_41_r3l15 4.
+#facs_41_r3l16 1
+#facs_41_r3l17 S.
+#facs_41_r3l18 Leurs Excellences Nos Souverains Sgr haijant appris
+#facs_41_r3l19 que l'on avoit donné en France une nouvelle Empreinte
+#facs_41_r3l20 aux pieces de trentesols de strasbourg, dont la valent
+#facs_41_r3l21 n'est que de 13. bazen de ce pays & que moyenant cette
+#facs_41_r3l22 nouvelle Empeinte on les faisoit passer pour plus qu'ils
+#facs_41_r3l23 ne valent, ll dites Excellences après L'Epreuve qu'Elles
+#facs_41_r3l24 en ont faittes ont ordonné, que lesd: pieces de
+#facs_41_r3l25 Trente sols n'auront cours dans leurs paÿs que sur le
+#facs_41_r3l26 pied de 13 ons: Et afin qu'on les puisse conoitre
+#facs_42_r2l1 on a fait imprimer leur Empreinte sur le present
+#facs_42_r2l2 laissé, pour que chacun seache se conduire selon
+#facs_42_r2l3 cela, par ce ordonants a Mr. les Baillifs & autres
+#facs_42_r2l4 officiers de le pouvrier par affiche & detenir la main
+#facs_42_r2l5 pour l'observation de cette ordonance. Donné ce 6. Avril
+#facs_42_r2l6 1716
+#facs_42_r2l7 Chancellerie de
+#facs_42_r2l8 Berne
+#facs_42_r2l9 An alle T. vnd W. Amtl. Außert
+#facs_42_r2l10 Oberland, Jedoch Thun und Hinderlaten
+#facs_42_r2l11 Item an die 4. Statt Im Argouw, Item
+#facs_42_r2l12 Baaden, Murte Vnd Tscherlitz, Zedall an Groß¬
+#facs_42_r2l13 wiebell und Gerichtschreiber
+#facs_42_r2l14 Wegen Verso
+#facs_42_r2l15 Schuldtheiß und Rheb etc. Maihung Pbeyer
+#facs_42_r2l16 Lavidt Streichere
+#facs_42_r2l17 Collaten
+#facs_42_r2l18 Es habend sich zwey Landtstreicher Under
+#facs_42_r2l19 dem Nahmen Jacob Stelle und Johannes Müller
+#facs_42_r2l20 deren Beschreibung hier einligend Enthallten
+#facs_42_r2l21 Eicherfrächen Mit falltschen Steürbriefen und einem Nachge¬
+#facs_42_r2l22 grabten Sigell von Lobl. Stand Zürich hin und
+#facs_42_r2l23 wider In dem Land Vnd In der Nachbarschafft
+#facs_42_r2l24 für die Gemeind Hettlingen eine Steur einzusam¬
+#facs_42_r2l25 len; wie nun daran gelegen, daß dergleiche,
+#facs_42_r4l1 75
+#facs_42_r4l2 Betrieger handhafft gemacht werdindt, daß dar¬
+#facs_42_r4l3 gleichen betragen, alls wollend Wir dir befoh
+#facs_42_r4l4 haben In deinem Amt genauwe achtung geben zu laßen,
+#facs_42_r4l5 ob selbige nicht anzutreffen, um betrettenden fahl
+#facs_42_r4l6 selbige Einzusetzen und Uns deß Verhaffs zu ver¬
+#facs_42_r4l7 ständigen. Kott mit Dir. Dat. 20. Maÿ 1716.

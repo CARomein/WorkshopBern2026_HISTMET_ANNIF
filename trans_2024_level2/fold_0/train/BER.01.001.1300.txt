@@ -1,0 +1,98 @@
+Law ID: BER.01.001.1300
+Name: Wegen Salpeter undt Pulverhandels.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 87/87
+# High similarity (>=50%): 85
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_15_r6l18 An die T. Amptleütt, Freyweibel vnd Amun¬
+#facs_15_r6l19 wegen Salpeter undt puluerhandels,
+#facs_15_r6l20 schuldtheis und Rhott etc
+#facs_15_r6l21 Demnach wir verndrigl. Iars für gut an gesechen,
+#facs_15_r6l22 den Salpeter vnd puluerhandel Witumb fey gestellet
+#facs_15_r6l23 vnd Endes vorige alte wesen kommen geloßen, vnd
+#facs_15_r6l24 Darby gesetzter gewüßen Conditionen, Sonderlichen
+#facs_15_r6l25 das beides die Salpeter graber und puluermacher
+#facs_15_r6l26 Wy vßbringung frischer Patenten, wider die Gußerung
+#facs_15_r6l27 Der wahr vndt zu erstattung derselben patenten Inhalts
+#facs_15_r6l28 alhie In ein Eubdt vfgenommen werden soltten
+#facs_15_r6l29 vernemend aber, daß söliches biß har geringsten
+#facs_16_r2l1 Theils Inswerckgerichtet, Undt durch die einen undt
+#facs_16_r2l2 anderen die vorgehnden thuen by wyl, wie den fander
+#facs_16_r2l3 durch vnsere darzu bestelt gedoesne Verwalter und
+#facs_16_r2l4 Unserm namen vndt verlag Administrieren laßen
+#facs_16_r2l5 ertheilte patenten In handen behalten worden dero
+#facs_16_r2l6 sie sich auch ungeenderet biß har gebrucht, etlich dann
+#facs_16_r2l7 sonderlich vßern und frömbden, mißgebracht, gestalten daher
+#facs_16_r2l8 Der handel sitt etwas Zeits in nit geringe Vnordnung
+#facs_16_r2l9 gerathen, vnd den vnseren auch schaden zugefüegt,
+#facs_16_r2l10 In dem die ersuchten vnd durchgrabnen ortter nit
+#facs_16_r2l11 gebürend maßen vnd nach vß wysung der patenten
+#facs_16_r2l12 Widrumb veräbnet, vndt noch darzu der Salpete
+#facs_16_r2l13 mandere ortt verüßeret vnd finweg geschleickt
+#facs_16_r2l14 worden; derwegen beuelchend wir die hiemitt
+#facs_16_r2l15 allen In deinem Ampts bezirck gesessenen kalveter
+#facs_16_r2l16 grabern vndt Puluermachern die hieuor zu Zeit
+#facs_16_r2l17 wie obangedütet erlangte Patenten, ob, undt zu
+#facs_16_r2l18 Demen Handen heruß geforderen, die Frömbden
+#facs_16_r2l19 vndt die so mit vnser vnderthanen sind, beneben
+#facs_16_r2l20 gentzlich abgeschaffen, vnd hinweg, den ein vndt
+#facs_16_r2l21 andern Inheimsschen aber, so sich disers zwärbs
+#facs_16_r2l22 ärtern gebreichen wölte, alhier für uns Gedayser
+#facs_16_r2l23 vmb müdre ob an Zoque verndrigl. Ordnung gemäß,
+#facs_16_r2l24 Patenten anzuhalten, und die darinn gesetzte glündt
+#facs_16_r2l25 zuleisten. Desgleichen auch allen und Jeden Salpeter
+#facs_16_r2l26 graberen, so wol heimsschen als sonderlich frömbdten
+#facs_16_r2l27 In deiner Verwaltung geseßen, die Keßel vndt
+#facs_16_r2l28 andere gschirr so vns zuständig, vnd Inen hieue In
+#facs_16_r2l29 Der Zeit wie obstaht vtrudot vnd übergeben worden
+#facs_16_r2l30 sind, die du dann Comittest bylags vndt anwendend
+#facs_16_r2l31 fleißiger Nachforschung In erfahrung bringt solt, ob
+#facs_16_r2l32 und sind dich zu unsern Handen In sichere Verwahrung
+#facs_16_r2l33 9
+#facs_16_r3l1 Zenemmen volgendts vns deßen, was für gschier, die
+#facs_16_r3l2 disemnach empfangen haben wirst, vndt von was
+#facs_16_r3l3 perschnen zu vnserm nachrichtlichen Thalt, zuverstendiglich
+#facs_16_r3l4 als wie vns zu deinem flyß versuchen, vnd vns
+#facs_16_r3l5 damit semptlich göttlichem Schirm wolbeuckchen
+#facs_16_r3l6 hoben wöllend. Datum 12 Junij 1644.
+#facs_16_r3l7 Volgende persohnen haben an Salpeter
+#facs_16_r3l8 keßel so zu geh. Hustendig empfangl.
+#facs_16_r3l9 + ihnen
+#facs_16_r3l10 Hans Bickhardt hußwirtt zu Ober Herren zu Thun,
+#facs_16_r3l11 hat ein großen vndt ein kleinen Salpeter Keßel
+#facs_16_r3l12 empfangen
+#facs_16_r3l13 Abel Schwitzer, zu Sigrißwyl ein Salpeter Keßel
+#facs_16_r3l14 Christen Sigrist zu Tieracheren hat ein Salpeter kaßel
+#facs_16_r3l15 empfangt, so zu vttendorff ligen soll.
+#facs_16_r3l16 Prutingen
+#facs_16_r3l17 Veremias Schorbach bim Landerstüg, hatt ein Salpeter
+#facs_16_r3l18 Kesel empfangl.
+#facs_16_r3l19 Schwartzenburg
+#facs_16_r3l20 Vleich Laßarus Am Guggisperg hat ein Salpete
+#facs_16_r3l21 Kaßel empfangl.
+#facs_16_r3l22 Mucksen
+#facs_16_r3l23 adam Keßel noble zu Kerwerts hat ein Talpeter
+#facs_16_r3l24 keßel
+#facs_16_r3l25 Arbei
+#facs_16_r3l26 Hans Ritz zu Affolteren hat ein Salpeter Keßel
+#facs_16_r3l27 empfangl.
+#facs_16_r3l28 Wangers
+#facs_16_r3l29 Sebastias Spaar zu Hertzgenbuchsen, hat ein Valpeter
+#facs_16_r3l30 keßel,
+#facs_16_r3l31 Arbux
+#facs_16_r3l32 Andereß Büeler Im Gill Im Amptenburg, hat
+#facs_16_r3l33 ein Salpeter Keßel, so ihnen von Theter Lüpi Vberlifert
+#facs_16_r3l34 worden.
+#facs_17_r3l1 Lentzburg
+#facs_17_r3l2 Vlli autor zu Köllicken hatte ein Salpeter Keßel
+#facs_17_r3l3 empfangen
+#facs_17_r3l4 Schenckenberg
+#facs_17_r3l5 Zu Veldthein Im Ampt Schenckenberg, ligt ein¬
+#facs_17_r3l6 Keßel, so hievor Mathys Heintsman gebrucht.
+#facs_17_r3l7 In feyweibel undt Amen, wie auch Lauppen
+#facs_17_r3l8 Arberg, Prienisorg, Buchse, Frouwbrunnen

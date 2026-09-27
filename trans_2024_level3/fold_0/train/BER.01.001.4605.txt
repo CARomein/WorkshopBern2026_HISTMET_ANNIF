@@ -1,0 +1,51 @@
+Law nr: BER.01.001.4605
+Name: Getreid zu verkauffen wird anbefohlen.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 39/39
+# High similarity (>=80%): 38
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_353_r2l7 Chancellerie de Frybourg
+#facs_23_region_1633454616028_2913l1 An
+#facs_368_r2l8 alle deutsch und belsche Herren.
+#facs_353_r2l10 Amtleut und Schafnere, da Obrigkeitl.
+#facs_353_r2l11 Getreys ligt.
+#facs_353_r2l12 Betreid zu verkaufen wird, anbefohlig
+#facs_204_r3l23 Schultheis Räth und Burger c.
+#facs_353_r2l14 den von Unseren fürgeliebten
+#facs_353_r2l15 Miträften den Herren deutsch
+#facs_170_r4l12 welksch. Sekelmeister und Venneren
+#facs_353_r2l17 uns erstatteten Bericht über das
+#facs_353_r2l18 nach Abzug des Vorrahts und der
+#facs_150_r3l20 Ordinari und Quasi Ordinari Ausgaben
+#facs_353_r2l20 zum Verkauf übrig bleibende.
+#facs_353_r2l21 Getreid, tragen wir Euch hiermit
+#facs_353_r2l22 befelchlich auf
+#facs_353_r3l1 6914
+#facs_333_r2l18 (für das deutsche Land)
+#facs_353_r3l3 die restierende Helfte des noch übrig
+#facs_353_r3l4 bleibenden Betreyds in laufendem
+#facs_353_r3l5 Preis, jedoch nur zu kleinen Kaufen¬
+#facs_353_r3l6 und unter denen üblichen Gedingen
+#facs_353_r3l7 von nun an verstilberen zu laßen,
+#facs_353_r3l8 mit dem mindest behaltlichsten
+#facs_181_r2l24 und
+#facs_353_r3l10 den Anfang zu machen.
+#facs_353_r3l11 für das belsche Land.
+#facs_353_r3l12 Die noch übrige Helfte aller Sommer
+#facs_353_r3l13 und Winterfrüchten abzustoßen
+#facs_353_r3l14 und unter den gebohnten Cautele,
+#facs_353_r3l15 und zu kleinen Käuffen von nun
+#facs_353_r3l16 an zu verstilberen, und mit dem
+#facs_353_r3l17 mindest behaltlichsten den Anfang
+#facs_297_r3l19 zu machen.
+#facs_334_r2l4 Welchem nach Ihr Euch zu ver¬
+#facs_353_r3l20 halten, und über das erlöstende Uns
+#facs_353_r3l21 Rechnung zu tragen bestens
+#facs_353_r3l22 laißen berdet. Datl. den 11ten
+#facs_353_r3l23 Juny 1787

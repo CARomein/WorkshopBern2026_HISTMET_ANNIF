@@ -1,0 +1,144 @@
+Law nr: BER.01.001.4569
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 132/132
+# High similarity (>=80%): 120
+# Low similarity (<80%): 12
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_157_r5l13 alle Oberländische Herren Amtleute
+#facs_157_r5l14 Bey Geltsrechnungen die Synonima
+#facs_157_r5l15 auf Poena Naeclusi zu untersagen.
+#facs_157_r5l16 Angeacht
+#facs_198_r3l20 Schultheis und Raths.
+#facs_157_r5l18 Unsere Verordnungen und besonders
+#facs_157_r5l19 fie vom 15. Mevi 1780. allein bey
+#facs_31_r5l15 Publication
+#facs_157_r5l21 Renefizirn Inventarii, im Fall die
+#facs_327_r5l2 und beliebiger Austheillung, ge¬
+#facs_157_r5l23 geben und erlaßen würden, vergönne,
+#facs_157_r5l24 so sehen Wir nichts destolweniger bey
+#facs_157_r5l25 ihters vorkommenden Publicationen von
+#facs_112_r3l10 gen, die sich einer wahren Bewehrung
+#facs_108_r2l2 0
+#facs_117_r4l1 bell,
+#facs_3_region_1627936339514_16l1 1
+#facs_158_r4l1 und anderen Aufforderungen der
+#facs_159_r4l2 Bläubiger, daß wo nicht die Poena
+#facs_158_r4l3 praeclusi= dennoch Synonima gebraucht
+#facs_158_r4l4 werden, und gedacht Hochobrigkeitlich.
+#facs_158_r4l5 Verordnungen zu wieder gehandlet
+#facs_158_r4l6 wird. Wir befehlen Euch demmenan¬
+#facs_158_r4l7 Hand ob der Execution derselben zu
+#facs_158_r4l8 halten, und bey allen zu bewilligen,
+#facs_158_r4l9 den Publicationen von Geltsrechnun¬
+#facs_158_r4l10 gen und Aufforderungen der Bläu¬
+#facs_159_r4l11 bigeren den Anhang der Pena praeclam
+#facs_158_r4l12 oder dergleichen Synonima zu ver¬
+#facs_159_r4l13 sagen. Welches Ihr Eüerem Amt¬
+#facs_158_r4l14 Landschreiber zu könfftiger Oefol
+#facs_158_r4l15 gung anbefehlen werdet. Datum
+#facs_158_r4l16 den 19e. May 1785
+#facs_158_r4l17 Meß züber zu den Kohlen.
+#facs_158_r4l18 Wangen Graef: Nachdeme Wir
+#facs_158_r4l19 das ehrerbietige Begehren der Meister
+#facs_159_r4l20 schafft der Hufrund Wafenschmiede
+#facs_159_r4l21 der Ämsteren Wangen, Aarwangen
+#facs_158_r4l22 und Sipp, dahin abzweckend, das es
+#facs_158_r5l1 308
+#facs_158_r5l2 Uns gefallen möchte wegen überhand¬
+#facs_158_r5l3 nehmendem Mangel an Kohlen
+#facs_158_r5l4 ein bestimmtes Mas festzusezen
+#facs_158_r5l5 nach welchem dieselben angekauft
+#facs_158_r5l6 werden können, durch Unsere für
+#facs_158_r5l7 geliebte Miträhte die Herren Teutsch
+#facs_158_r5l8 Sekelmeister und Semmern undersuchen
+#facs_158_r5l9 und Uns darüber den Rapport
+#facs_158_r5l10 erstatten lasen, so haben Wir
+#facs_158_r5l11 denselben in ihrem Begehren gnä¬
+#facs_159_r5l12 digst entsprochen, mithin gutbe¬
+#facs_158_r5l13 funden für die Zu konft ein jicheres
+#facs_158_r5l14 Maas einzuführen, nach welchem
+#facs_159_r5l15 die bisar bey der Wanne unge¬
+#facs_158_r5l16 meßenen Kohlen verbauft und
+#facs_159_r5l17 angefauft werden solten. Es ist
+#facs_158_r5l18 demnach Unser Wille und Befehl
+#facs_158_r5l19 laß fürohin zu Meßung der Koh¬
+#facs_158_r5l20 Den in den Ämteren Wangen
+#facs_292_r3l10 ein genügen leisten.
+#facs_159_r5l22 gefekte, vier Verumas haltende
+#facs_158_r5l23 züber verfertiget und zu dieser
+#facs_158_r5l24 Mesendung gebraucht werden sollen.
+#facs_158_r5l25 leßen Ihr berichtet werdet, um
+#facs_155_r1l1 301
+#facs_3_region_1627936339514_16l1 1
+#facs_7_r7l1 9
+#facs_158_r4l1 und anderen Aufforderungen der
+#facs_159_r4l2 Bläubiger, daß wo nicht die Poena
+#facs_158_r4l3 praeclusi= dennoch Synonima gebraucht
+#facs_158_r4l4 werden, und gedacht Hochobrigkeitlich.
+#facs_158_r4l5 Verordnungen zu wieder gehandlet
+#facs_159_r4l6 wird. Wir befehlen Euch demmenach
+#facs_158_r4l7 Hand ob der Execution derselben zu
+#facs_158_r4l8 halten, und bey allen zu bewilligen,
+#facs_159_r4l9 den Publicationen von Geltsrechung
+#facs_158_r4l10 gen und Aufforderungen der Bläu¬
+#facs_159_r4l11 bigeren den Anhang der Pena praeclam
+#facs_158_r4l12 oder dergleichen Synonima zu ver¬
+#facs_159_r4l13 sagen. Welches Ihr Eüerem Amt¬
+#facs_158_r4l14 Landschreiber zu könfftiger Oefol
+#facs_158_r4l15 gung anbefehlen werdet. Datum
+#facs_158_r4l16 den 19e. May 1785
+#facs_83_r3l6 en
+#facs_159_r4l17 Mes züber zu den Kohlen.
+#facs_158_r4l18 Wangen Graef: Nachdeme Wir
+#facs_158_r4l19 das ehrerbietige Begehren der Meister
+#facs_159_r4l20 schafft der Hufrund Wafenschmiede
+#facs_159_r4l21 der Ämsteren Wangen, Aarwangen
+#facs_158_r4l22 und Sipp, dahin abzweckend, das es
+#facs_158_r5l1 308
+#facs_158_r5l2 Uns gefallen möchte wegen überhand¬
+#facs_158_r5l3 nehmendem Mangel an Kohlen
+#facs_159_r5l4 in bestimmtes Mas festzusezen
+#facs_158_r5l5 nach welchem dieselben angekauft
+#facs_158_r5l6 werden können, durch Unsere für
+#facs_158_r5l7 geliebte Miträhte die Herren Teutsch
+#facs_158_r5l8 Sekelmeister und Semmern undersuchen
+#facs_158_r5l9 und Uns darüber den Rapport
+#facs_158_r5l10 erstatten lasen, so haben Wir
+#facs_158_r5l11 denselben in ihrem Begehren gnä¬
+#facs_159_r5l12 digst entsprochen, mithin gutbe¬
+#facs_158_r5l13 funden für die Zu konft ein jicheres
+#facs_158_r5l14 Maas einzuführen, nach welchem
+#facs_159_r5l15 die bisar bey der Wanne unge¬
+#facs_158_r5l16 meßenen Kohlen verbauft und
+#facs_159_r5l17 angefauft werden solten. Es ist
+#facs_158_r5l18 demnach Unser Wille und Befehl
+#facs_159_r5l19 daß fürohin zu Meßung der Koh¬
+#facs_159_r5l20 len in den Ämteren Wangen
+#facs_120_r3l22 Aarwangen
+#facs_159_r5l22 gefekte, vier Verumas haltende
+#facs_158_r5l23 züber verfertiget und zu dieser
+#facs_158_r5l24 Mesendung gebraucht werden sollen.
+#facs_158_r5l25 leßen Ihr berichtet werdet, um
+#facs_53_r8l10 e
+#facs_160_r1l1 309
+#facs_160_r2l1 es den bittenden zu eröffnen einerseits¬
+#facs_160_r2l2 anderseits dann mit denen Amt¬
+#facs_160_r2l3 leuten zu Aarlangen und Sipp über
+#facs_160_r2l4 einzukommen, daß diese Mes zube¬
+#facs_160_r2l5 von dem Halt von vier Bernmäsen
+#facs_160_r2l6 und von gleicher Höhe und breite
+#facs_160_r2l7 aufgefertigt werden; dabey Un¬
+#facs_160_r2l8 ser Wille in fernerem dahin gehet,
+#facs_160_r2l9 daß die Fekung dieser Mes zuberende
+#facs_160_r2l10 iezt und in Zukonfst so oft es die
+#facs_160_r2l11 Noth erforderet geschehen solle.
+#facs_160_r2l12 Datum 21t. May 1785
+#facs_120_r3l22 Aarwangen
+#facs_160_r2l14 Ihnen im gleiches zu überschreiben.

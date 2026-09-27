@@ -1,0 +1,40 @@
+Law ID: BER.01.001.2064
+Name: Der Spend-Beneficien halb.
+
+#facs_94_r4l1 1
+#facs_94_r5l1 72.
+#facs_94_r5l2 Cherberg trauwbrunnen uchsee
+#facs_94_r5l3 St Johans Insul Trienisperg Hoffingen
+#facs_94_r5l4 
+#facs_94_r5l5 dec und Königefelder
+#facs_94_r5l6 
+#facs_94_r5l7 den Spend vattshen halb
+#facs_94_r5l8 tatthalter und raht der statt bere etc.
+#facs_94_r5l9 Wiewohl die jezmals würcklich einfüehrende und aller örten
+#facs_94_r5l10 bestendig haltende gätler ordnung dahin gerichtet, daß ein
+#facs_94_r5l11 de gmeind ihre armenselbs erhalten solle, so laßbend
+#facs_94_r5l12 sie doch hierunder uns belieben, solchen armen mit den
+#facs_94_r5l13 frnd mütschen uß unseren clößeren auch handupieten.
+#facs_94_r5l14 wie bißhar beschechen, aber in dem verstand und mit der
+#facs_94_r5l15 estriction, daß die, denen solche mütschen geordnet, dieselben
+#facs_94_r5l16 jederweilen selbs abholen, oder wan Sie darzu nit
+#facs_94_r5l17 vermüglich, beglaubte ziügnus schicken söllind, daß sie
+#facs_94_r5l18 noch lebind, damit nit für die abgestorbeen dises brote
+#facs_94_r5l19 genommen werde, wie bißhar mehrmals beschechen. Wan
+#facs_94_r5l20 
+#facs_94_r5l21 es dan umb die ertheilung eines verledigten spend
+#facs_94_r5l22 enesui zethen ist, söllend die so solche begehren, mit
+#facs_94_r5l23 einem geegnus schein ihrer armut und verhaltens
+#facs_94_r5l24 durch unsere ambtleüth für unsere fürgeliebte weitraht
+#facs_94_r5l25 
+#facs_94_r5l26 leütsch seckelmeister und vennere alhar gewisen
+#facs_94_r5l27 werden alß in deren hand und gwalt wir vere
+#facs_94_r5l28 bleiben laßend, solche beneficia zuertheilen das wolten
+#facs_94_r5l29 wie die hiemit zu domie nachricht notificieren, dich deme geres
+#facs_94_r5l30 hierin heuerhalten mit diser underscheidts-beobachtung, daß zu
+#facs_94_r5l31 solchen beneficien nur die, so in den Armen Vnuerreuglichen
+#facs_94_r5l32 Gmeinden geseßen recontendiert, vnd die in den reichen vndt
+#facs_94_r5l33 vermüglichen gmeindin derselben selbs erhaltung überlaßen
+#facs_94_r5l34 und übergangen werdind. Alß du dan deines theils
+#facs_94_r5l35 ze thun wüßen wirst. Dat am 22. octobris 1675
+END

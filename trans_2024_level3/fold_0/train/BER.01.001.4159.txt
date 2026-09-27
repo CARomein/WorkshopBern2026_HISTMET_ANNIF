@@ -1,0 +1,121 @@
+Law ID: BER.01.001.4159
+Name: Den im Schwang gehenden Strassen-Bättel zu hemmen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 110/110
+# High similarity (>=50%): 93
+# Low similarity (<50%): 17
+# Not found: 0
+#
+#facs_146_r4l20 Signalement
+#facs_146_r4l21 Joseph Schnenbli von Stimme pyl Canton Fryburg.
+#facs_146_r4l22 28. Jahr alt, ein Küester seines Handtwerbs, 5. Sich
+#facs_146_r5l1 281.
+#facs_146_r5l2 fünff Zoll hoch, besezter Statur, eines weißen geküpff¬
+#facs_146_r5l3 leten Angesichts, halb kurz geschnittenen Haaren, braunen
+#facs_146_r5l4 Augen und Augsbrauen, hat einen Großen beißen
+#facs_146_r5l5 fleben auf dem Stern deß Linken Augs, einen
+#facs_146_r5l6 starken falblechten Bart, tragt einen Braun wollenen
+#facs_146_r5l7 Rob und rohten Underrob¬
+#facs_147_r3l1 Ain
+#facs_147_r3l2 Alle Teutsch und Weltsche Amtleüth, 4. Städt, Frey¬
+#facs_147_r3l3 weibel und Ammann, Item per Plauards anzuschlag.
+#facs_147_r3l4 Den im Schwang gehenden Straßen-Bätsel zu
+#facs_147_r3l5 kommen
+#facs_147_r3l6 Schultheiß und Rahts
+#facs_147_r3l7 Was für ein Einsehen wider den im Schwang
+#facs_147_r3l8 gehenden Straßen- Räckel ergehen zu laßen
+#facs_147_r3l9 Wir uns gemüßiget gesehen, werdet ihr
+#facs_147_r3l10 aus Einigendem Plauard vernommen, mit zu
+#facs_147_r3l11 sendung deßen Wir Euch befehlen wollen
+#facs_147_r3l12 selbiges von Canzlen verlesen, auch aller Orten
+#facs_147_r3l13 an die Schulhäuser und sonsten anschlagen zu
+#facs_147_r3l14 laßen, wie dann zu thun, und geflißene
+#facs_147_r3l15 Land obzuhalten Ihr bestens wüßen werdet.
+#facs_147_r5l1 283
+#facs_147_r5l2 Placcard
+#facs_147_r5l3 Wir Schultheiß und Rast der Statt Bern
+#facs_147_r5l4 thun kund hiemit: Weilen durch den aller Ohrten
+#facs_147_r5l5 in Unseren Landen im Schwang gehende Straßen
+#facs_147_r5l6 Bätkel, da bald alle Kinder Truppen, weis den
+#facs_147_r5l7 Reisenden nachlauffen, viele Unglüb entstanden,
+#facs_147_r5l8 wie ganz Neulich zu Lenzburg beschehen, und allda
+#facs_147_r5l9 ein Kind Elender weis um das Leben gekommen, so
+#facs_147_r5l10 haben Wir für nöhtig erachtet, zu bevorkommung meh¬
+#facs_147_r5l11 reren dergleichen bedaurlichen zufällen, diesem
+#facs_147_r5l12 Mäniglich, sonderheitlich den Reisenden zur größten
+#facs_147_r5l13 Beschwehrs gereichenden Bäckel, welcher die Kinder
+#facs_147_r5l14 und viele Unserer Angehörigen von der Arbeit abziehes
+#facs_147_r5l15 und zum Müeßiggang gebehnt, dermahl einsten
+#facs_147_r5l16 ernstlichen Einhalt zu thun, mithin zum besten
+#facs_147_r5l17 Unsterer lieben Angehörigen zu verordnen, daß in
+#facs_147_r5l18 allen Unsteren Landen, allen uns jeden Unseren
+#facs_147_r5l19 angehörigen, den Kinderen wie den Erwachsenen
+#facs_147_r5l20 Persohnen, alles Geläuft auf den offenen Straßen
+#facs_147_r5l21 und bey den Thürlenen gänzlich Verbocken und
+#facs_147_r5l22 Abgestelt seyn und Verbleiben solle; bey Straff der
+#facs_147_r5l23 Ruthen in den Schulen für die Jungen Kinder und
+#facs_147_r5l24 der Gefangenschafft für die Erbachsenen Persohnen;
+#facs_148_r2l1 samt nun dieser Unser Will und Verordnung,
+#facs_148_r2l2 geflißen befolget werde, wollen Wir die Vor¬
+#facs_148_r2l3 gesezten jeder Gemeind, und alle Hauß vätte
+#facs_148_r2l4 richtgemeint verwahrnet haben, ihre Gemeinds
+#facs_148_r2l5 angehörige und Kinder von allem Räckel abzu¬
+#facs_148_r2l6 halten, und solches ihnen abzuwehren, sonsten
+#facs_148_r2l7 Wir selbige zur Verantwortung ziehen würden
+#facs_148_r2l8 Wie Wir auch ihre Bestraffung uns vorbehalte
+#facs_148_r2l9 haben wollen, wann je klageten bey uns ein
+#facs_148_r2l10 laufen solten, all Unseren Amtleuthen,
+#facs_148_r2l11 Hierschafft- Herren und Pfarrherren demnach
+#facs_148_r2l12 gebiehtende, hierauf ein genaues Aufsehen
+#facs_148_r2l13 und Hand obzuhalten, daß diesem Unseren
+#facs_148_r2l14 Willen das Leben gegeben werde, wie dann
+#facs_148_r2l15 auch die Marechaussée befelchnet seyn soll.
+#facs_148_r2l16 auf diß Bäcklen Acht zu haben, und wann
+#facs_148_r2l17 Sie dergleichen Bäckler antreffen wurde, solche
+#facs_148_r2l18 zur Bestraffung den Amtleüthen oder Vorge¬
+#facs_148_r2l19 fehten deß Orts zuzuführen. Act. d. 30ten
+#facs_148_r2l20 Juny 1761
+#facs_148_r2l21 Canzley Bern,
+#facs_148_r4l1 285
+#facs_148_r4l2 An
+#facs_148_r4l3 Alle Teutsch und Weltsche Amtleuth, mit Ausschluß
+#facs_148_r4l4 jedoch der Oberländischen, äußert Thun, So denne
+#facs_148_r4l5 an die Vier Stadt
+#facs_148_r4l6 Von denen Äußert Lands a fonds perdus anlegenden
+#facs_148_r4l7 Gelteren das Zehen per Cento zu bezeuchen
+#facs_148_r4l8 Schultheiß Räht und Burger
+#facs_148_r4l9 Die Vielfaltigen Gelt Summen, welche eine Geraum
+#facs_148_r4l10 Zeit dahero in Außere Land a fonds perdus placiert
+#facs_148_r4l11 worden, haben Uns albereit schon unkerem 23ten Xbris
+#facs_148_r4l12 1757. veranlaßet, um solche schwehr zu machen, und
+#facs_148_r4l13 dardurch den besorgenden Gelt-Mangel in Unseren
+#facs_148_r4l14 Landen zu beheben, Eine Verordnung dahin ergehen
+#facs_148_r4l15 zu laßen, daß von allen dahin placierenden
+#facs_148_r4l16 Gelteren, Eine Abgabe von Zehen pro Cento zu handen
+#facs_148_r4l17 Unsters Stands Sebels entrichtet werden solle, wie
+#facs_148_r4l18 alles deß mehreren in bemeltem Ausschreiben
+#facs_148_r4l19 vom 23. Decembl. 1757. enthalten. Wie aber
+#facs_148_r4l20 seith dieser Zeit beobachtet worden, daß von nirgend
+#facs_148_r4l21 wohne, als aus allhiesiger Stadt, dieser Abgabe
+#facs_148_r4l22 bezahlet werden. So sehen Wir uns bemüeßiget.
+#facs_148_r4l23 Diesem allem in mehrerem nachforschen zu laßen.
+#facs_149_r2l1 Ain wollen solchenmach Euch anmit befohlen haben,
+#facs_149_r2l2 nicht allein durch Eure Under Beamtete fleißige
+#facs_149_r2l3 auch frag hätten zu laßen, wer etwann seith dieser
+#facs_149_r2l4 hrich dergleichen Summen äußert Lands à fonds
+#facs_149_r2l5 perdus placieret, sonderen auch die in Euerein
+#facs_149_r2l6 Aus sich befindliche Notarios dahin anhalten
+#facs_149_r2l7 daß sie alle diejenigen benamsten, welchen
+#facs_149_r2l8 Sie seith dieser Verordnung. Actes de vie ertheilet
+#facs_149_r2l9 haben, damit demnach Sie zu eingabe Ihrer
+#facs_149_r2l10 Original-Titlen angehalten, und dardurch in
+#facs_149_r2l11 Erfahrung gebracht werden könne, wer dißorts
+#facs_149_r2l12 in Fehler gefallen; Und wie an einer Exacten
+#facs_149_r2l13 nachforschung alles gelegen etc. So werdet Ihr
+#facs_149_r2l14 damit befelihnet, solche oberwehnter maßen
+#facs_149_r2l15 vorzunemmen, und das heraus kommende üebliche
+#facs_149_r2l16 maßen Uns zu überschreiben. Wie zuthun
+#facs_149_r2l17 Dath den 9 July 1761.

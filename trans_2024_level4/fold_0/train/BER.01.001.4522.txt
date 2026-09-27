@@ -1,0 +1,41 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 34/34
+# High similarity (>=80%): 31
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_306_r4l23 Denen Österreichischen Underthanen, Betreio
+#facs_306_r4l21 In alle under Organische Herren Amtleut
+#facs_306_r4l22 item die 4. Stadt. Sepp.
+#facs_306_r4l23 Denen Österreichischen Underthanen, Betreio
+#facs_306_r4l24 in hiesigen Landen zu kaufen erlaubt.
+#facs_306_r4l25 Schultheis Räth und Bürger Auf bey Uns
+#facs_8_region_1629822195909_48l_1 12.
+#facs_3_region_1629374270345_387l1 2.
+#facs_37_r1l1 70
+#facs_307_r2l1 beschehenes Einlangen, von seiten der
+#facs_307_r2l2 Vorder Östreichischen Regierung in
+#facs_307_r2l3 Freyburg, haben Wir, ohne Abbruch des
+#facs_307_r2l4 obwaltenden Betreis=Mehl= und Prod:
+#facs_307_r2l5 Ausfuhr verbodts, zuzugeben geruhet,
+#facs_307_r2l6 daß die Österreichischen Underthanen
+#facs_307_r2l7 so lange Unsere Angehörige in dort,
+#facs_307_r2l8 seitigen Landen die gleiche Freyheit
+#facs_307_r2l9 genießen werden, auf gleichem Fuß-
+#facs_307_r2l10 wie die Angehörigen Unserer verbündeten
+#facs_307_r2l11 Mit Eidgnoßen in hiesigen Landen, das
+#facs_307_r2l12 zu ihrem Hausgebrauch nöthig fallende
+#facs_307_r2l13 Betreid, auf Vorweisung glaubwürdiger
+#facs_307_r2l14 Certificaten, zu kleinen Käußen anbauffen,
+#facs_307_r2l15 können.
+#facs_307_r2l16 Hier von nun ertheilen Wir Euch zu
+#facs_307_r2l17 Euerem Verhalt die erforderliche Nachricht,
+#facs_307_r2l18 mit dem befelchlichen Auftrag, solches, wo
+#facs_307_r2l19 es nöthig seyn mag, ebenfalls betant zu
+#facs_307_r2l20 machen, und seines behörigen Orts¬
+#facs_307_r2l21 nachrichtlich einschreiben zu laßen.
+#facs_307_r2l22 Wie zuthun s Datum den 18den
+#facs_246_r3l42 Novembl.
+#facs_178_r8l1 en

@@ -1,0 +1,94 @@
+Law ID: BER.01.001.1302
+Name: Ettliche Zenden alhar in Vorrath zewähren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 83/83
+# High similarity (>=50%): 80
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_18_r3l1 Arberg, Büren, Gottstatt, Unterlacken,
+#facs_18_r3l2 Frousbrunnen, Buchse, Burgdorff.
+#facs_18_r3l3 Ettliche henden alhier zu vorrath gedrähren.
+#facs_18_r3l4 Schuldtheiß Rhät undt Bürger etc.
+#facs_18_r3l5 Damit die besoldungen vnserer Ampt: vnd Dienstlüth
+#facs_18_r3l6 Alhie desto beßer vßgerichtet werden mögendt, habens
+#facs_18_r3l7 wie gleicher maßen, wie bereits vor zweyen Jahren
+#facs_18_r3l8 angesehen war, nothwendig befunden, etliche necht gelegne
+#facs_18_r3l9 Zenden alhier zu unser Statt fertigen zelaßen, Also vndt
+#facs_18_r3l10 dergestalten, daß so wol hörigen Iars als auch Inskunft,
+#facs_18_r3l11 allwegen by der hinlychnung derselben den höchfbietenden
+#facs_18_r3l12 vßteukenlich eröffnet vndt vorbehalten werden sollen,
+#facs_18_r3l13 solliche Hendt alhie In unsere Statt gewähren, unmit
+#facs_18_r3l14 mit dem großen Mäßyn zemeßen, doch Jedes Ampts
+#facs_18_r3l15 habend zum gerechtigkeit ohneschaden, vnd vnsern
+#facs_18_r3l16 Amptlüts die es berührt, and ordinari laster schipynung
+#facs_18_r3l17 ohne abbeuch, die deß wegen auch einst wie andrist
+#facs_18_r3l18 vnd wie von alterhar die also her wehrenden Zendt
+#facs_18_r3l19 In de Ynnemen vnd vfgeben bringen vndt Rechnen
+#facs_18_r3l20 sollend, Undt diewyl nun gewiße von Deinem Ampt
+#facs_18_r3l21 dependierende Zendt, nämlich die so hienach zu ent¬
+#facs_18_r3l22 Theichnet vnd Inamset sind, hargeliffert werden
+#facs_18_r3l23 sollend, habend wir dich disers vnsers ansechens nit vnbe
+#facs_18_r3l24 richt laßen, vnd die Zugleich alles Ernsts bevelchen wöllen
+#facs_18_r3l25 Die Dönerseits die Execuun vnd das disem Vnserns
+#facs_18_r3l26 bestgemeinten Willen gehorsam nachkommen werde,
+#facs_18_r3l27 höchsten flyßes angelegen sein zelaßen, als die vns
+#facs_18_r3l28 Dann so wol zu die als denen, so die Zendt bestehen
+#facs_18_r3l29 werdend Unzwyfenlich zusechend. Beyest darmit
+#facs_18_r3l30 Gottis Obselt wol Beudcher vatum 24. Juny 1644.
+#facs_18_r4l1 Arberg
+#facs_18_r4l2 Uß demselben Ampt soll horgefertiget werden
+#facs_18_r4l3 Der groß Cappelen
+#facs_18_r4l4 der klein Cappelen, henden, mir allein der Dinckel
+#facs_18_r4l5 der Arberger oder Statt) haber und anders nitt,
+#facs_18_r4l6 Von Interlacks oder Thun Schaffbuerey
+#facs_18_r4l7 sol hargwährt werden.
+#facs_18_r4l8 Der Belp Zenden, nämlich allein an Dinckel
+#facs_18_r4l9 EVß dem Ambtsfrauubrunnen soll
+#facs_18_r4l10 harglifert werden.
+#facs_18_r4l11 Fo Limpais
+#facs_18_r4l12 der Mülch,
+#facs_18_r4l13 Zenden, nur allein d’Dinckel.
+#facs_18_r4l14 Nid Ramserer
+#facs_18_r4l15 2
+#facs_18_r4l16 C. Schalunen
+#facs_18_r4l17 Der henden zu Büren zum Hoff soll wie hieue
+#facs_18_r4l18 durch den Kornherren alhie nit allein an Haben
+#facs_18_r4l19 sondern auch an Dunckel die hingelichen, also am
+#facs_18_r4l20 hie gegenommen, und In das Imme vndergebne¬
+#facs_18_r4l21 Pornhus gelegt werden.
+#facs_18_r4l22 Uß dem Ampt Buchsen soll hargeschickt
+#facs_18_r4l23 werden
+#facs_18_r4l24 Der Buchse
+#facs_18_r4l25 Hendorff
+#facs_18_r4l26 Hendt, allein was den Dinckel
+#facs_18_r4l27 Diemerswijl
+#facs_18_r4l28 betreibt
+#facs_18_r4l29 Löüß: vndt wickewijl,
+#facs_18_r4l30 Vß dem Ampt Büren, soll härgligert werdt.
+#facs_18_r4l31 Der Wengi Zendt
+#facs_18_r4l32 Dießbach Zendt. Der groß vnd klein
+#facs_18_r4l33 Valtivijl Zendt
+#facs_18_r4l34 Dotzingen Zendl. Pstaht sich allein vom Dinckel.
+#facs_19_r4l1 Von des Ampts Gottstatt gekommen
+#facs_19_r4l2 soll hargesendt werden.
+#facs_19_r4l3 Der Arch Zenden, allein an Dinckel
+#facs_19_r4l4 Luegdorff
+#facs_19_r4l5 Bommerkind
+#facs_19_r4l6 Uthungen
+#facs_19_r4l7 8
+#facs_19_r4l8 Bigel
+#facs_19_r4l9 Ruffshüseren
+#facs_19_r4l10 Haßly
+#facs_19_r4l11 Niderschwand
+#facs_19_r4l12 Zendt, an Dinckel undt Roggen,
+#facs_19_r4l13 Oberburg.
+#facs_19_r4l14 dienamlich Roggen ertragend.
+#facs_19_r4l15 Rormos
+#facs_19_r4l16 Ruppwijl
+#facs_19_r4l17 Nid heimißerijl
+#facs_19_r4l18 Vmblempen.
+#facs_19_r4l19 Wynigen

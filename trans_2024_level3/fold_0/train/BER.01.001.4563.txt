@@ -1,0 +1,41 @@
+Law nr: BER.01.001.4563
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 29/29
+# High similarity (>=80%): 28
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_4_r8l9 a
+#facs_148_r2l16 Alle Herren Amtleute auf der Haupt
+#facs_148_r2l17 Route und Landstraßen, damit an die
+#facs_148_r2l18 4. Städt, FreyWeibel und Ammann
+#facs_148_r2l19 Op Inung der Strafen vom Schnee
+#facs_198_r3l20 Schultheis und Raths.
+#facs_100_r2l1 soll.
+#facs_108_r2l2 0
+#facs_148_r2l23 Da durch den eingefallenen Häu¬
+#facs_148_r2l24 figen Schnee die Straßen verschlosen
+#facs_148_r2l25 tich befinden, der Handel und Wandel
+#facs_100_r2l1 soll.
+#facs_6_region_1627936574015_66l1 6
+#facs_148_r4l1 288
+#facs_148_r4l2 aber deren Eröffnung auf das schleunigste
+#facs_148_r4l3 erforderet. Als befehlen Wir Euch, auf
+#facs_148_r4l4 das eilfertigste durch Aufbietung ge¬
+#facs_148_r4l5 ungsamer Mannschaft, oder Anord¬
+#facs_148_r4l6 nung des gemeinen Werts in
+#facs_120_r3l41 amt
+#facs_148_r4l8 Eücherin, Sezirk) die Haupt= und
+#facs_148_r4l9 Landstraßen durch Räumung der
+#facs_148_r4l10 Schners öffnen zu lasen, und nach
+#facs_148_r4l11 den Umständen das erforderliche
+#facs_148_r4l12 anzuordnen und zu veranstalten
+#facs_148_r4l13 damit diese Strafen offen erhal¬
+#facs_148_r4l14 ten bleiben. Datum den 14. Mertz
+#facs_144_r3l19 1785
+#facs_83_r3l6 en

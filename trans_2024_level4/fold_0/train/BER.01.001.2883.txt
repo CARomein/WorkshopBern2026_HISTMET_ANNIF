@@ -1,0 +1,100 @@
+Law ID: BER.01.001.2883
+Name: Der Burgeren der Statt Neüwenburg Wein wider einlassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 89/89
+# High similarity (>=50%): 89
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_29_r3l22 Thun
+#facs_29_r3l23 Interlaken
+#facs_29_r3l24 Montags den 22. Marty
+#facs_29_r3l25 Büren
+#facs_29_r3l26 Thorberg
+#facs_29_r3l27 Dienstags den 23. dito.
+#facs_29_r4l1 Kriensperg. Mitwuchens den 24. Martii.
+#facs_29_r4l2 Burgdorff,
+#facs_29_r4l3 Buchser
+#facs_29_r4l4 Freytags den 26. Marty
+#facs_29_r4l5 Arberg
+#facs_29_r4l6 Lauppen
+#facs_29_r4l7 Eranwbrunnen Dienstags den 30. dito
+#facs_29_r4l8 Brandis
+#facs_29_r4l9 Lentzburg
+#facs_29_r4l10 Mitwüchen den 31 dito.
+#facs_29_r4l11 Arburg
+#facs_29_r4l12 Ahlen
+#facs_29_r4l13 Freytags den 2. Aprilis.
+#facs_29_r4l14 Saanen,
+#facs_29_r4l15 Frutigen
+#facs_29_r4l16 Mitwuchens den 7. dito
+#facs_29_r4l17 Zweyfinnen
+#facs_29_r4l18 Winnig
+#facs_29_r4l19 Semißwal
+#facs_29_r4l20 Sonstage den 8. dito.
+#facs_29_r4l21 Trachselwald
+#facs_29_r4l22 Arwangen
+#facs_29_r4l23 Freytage den 9. dito.
+#facs_29_r4l24 Wangen
+#facs_29_r4l25 Schenkenberg
+#facs_29_r4l26 Sambstags den 10. dito
+#facs_29_r4l27 hoffingen
+#facs_29_r4l28 Landtschutt
+#facs_29_r4l29 Montagu per dito.
+#facs_29_r4l30 Signance
+#facs_30_r3l1 Nydau
+#facs_30_r3l2 Mitwuchens d. 14. Aprilis
+#facs_30_r3l3 Gottstatt
+#facs_30_r3l4 Erlach¬
+#facs_30_r3l5 Donstags d. 15. dito.
+#facs_30_r3l6 St. Johansen,
+#facs_30_r3l7 Bix
+#facs_30_r3l8 Freylags d. 16. dito
+#facs_30_r3l9 Kongsfelden
+#facs_30_r3l10 Oberhofen
+#facs_30_r3l11 Vnderseen
+#facs_30_r3l12 Montags d. 19. dito.
+#facs_30_r3l13 Hiberstein
+#facs_30_r3l14 An alle T. und W. Ambtleüth
+#facs_30_r3l15 4 Stett, Freyweibel und Amman
+#facs_30_r3l16 Der Bürgeren der Statt Neüwenbur¬
+#facs_30_r3l17 Wein wider einlaßen
+#facs_30_r3l18 Schultheis Räht und Burger etc.
+#facs_30_r3l19 Das wegen Hinderhaltung Vßeren und Frömbder
+#facs_30_r3l20 Weins underem 10. Julii letsthin außgeschriben
+#facs_30_r3l21 Einsehen habend Wir aus erheblichen Ursache
+#facs_30_r3l22 in ansehen der wahrhafften Vnder dem Statt Pantz
+#facs_30_r3l23 stehenden Inn- und Bürgeren zu Neüwenbu
+#facs_30_r3l24 dahin gemitteret, daß, wie hiesigen Burger¬
+#facs_30_r3l25 fnderthanen zu allen Zeithen des Jahrs Neuwe=
+#facs_30_r6l1 53
+#facs_30_r6l2 burgischen Wein für Ihren Haußbrauch einzukauffen,
+#facs_30_r6l3 also auch den Wihrten, aber von gedachter Innen undt
+#facs_30_r6l4 fßburgeren eigenen gewächs allein, von Osteren an
+#facs_30_r6l5 biß vff den ersten tag Herbstmonat Wein für den
+#facs_30_r6l6 gebrauch Ihrer Wirtschafften zu erhandlen und ins
+#facs_30_r6l7 Land zu bringen bewilliget sein, und also es widerumb
+#facs_30_r6l8 der Wihrben halb bey der Verbescheidung von Ao. 1694
+#facs_30_r6l9 und im übrigen auch bey anfangs anzogenem Mandat
+#facs_30_r6l10 sein gäntzliches verbleiben haben solle. So zu deiner
+#facs_30_r6l11 Nachricht dir hiemit überschriben wirt. Gott mit
+#facs_30_r6l12 dir. Dat. 22. Febr. 1706.
+#facs_30_r6l13 An alle W. Ambtleüth
+#facs_30_r6l14 Die Camisards vnß dem Land zu schaffen
+#facs_30_r6l15 Ihnen früscher Dingen anbefehlen.
+#facs_30_r6l16 Schultheiß Räht und Bürger der Statt Bern.
+#facs_30_r6l17 Vnderem 24. 9bris letsthin habend wir dir /: gleich
+#facs_30_r6l18 anderen Unseren Weltschen Ambtleüthen befohlen
+#facs_30_r6l19 alle die Jenigen, so vnder dem nahmen der Camisardi
+#facs_30_r6l20 Verstanden werden können; bey Oberkeitlicher straff
+#facs_30_r6l21 ohne vnderscheid fort und daß unseren Landen zu ver=
+#facs_30_r6l22 weisen; Wir müeßend aber vernemmen und sehen
+#facs_30_r6l23 daß unserem sothanen Hochwerkeitl. willen schlechtlich
+#facs_30_r6l24 nachgelebt wirt; dahero Wir denselben hiemit ernst¬
+#facs_30_r6l25 meinend widerholen und die befehlen wollen, solchen
+#facs_31_r3l1 ungesaumbt zu vollstreken, sonsten saumbseligen
+#facs_31_r3l2 fahls du dich zu verantworten und Unsere Ungna
+#facs_31_r3l3 zu befahren haben wurdest. Datl. 3. Marty 1706

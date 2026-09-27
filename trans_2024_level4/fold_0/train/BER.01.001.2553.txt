@@ -1,0 +1,33 @@
+BER.01.001.2553
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 24/24
+# High similarity (>=50%): 22
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_45_r4l1 Erlenbach Mittwochen und Donstags den 23. und 24. May
+#facs_45_r4l2 81
+#facs_45_r4l3 Frütigen Vambstahr Montags den 2. und 4. dito
+#facs_45_r4l4 Boltig Freytags den 25.
+#facs_45_r4l5 Zweysimmen Montags Vnd Dinstags den 28. vd 29. do
+#facs_45_r4l6 Mühlinen Dienstagk und Freylags den 31 May und 1. Juny
+#facs_45_r4l7 heutigen Sambstags Montags den 2 und 4. dito
+#facs_45_r4l8 Interlaken Mittwochen den 5. dito
+#facs_45_r4l9 Oberhoffen dienstags Freytags und Sambstags d. 6. 7. und 8. dito
+#facs_45_r4l10 An Alle T. und A. Ambtleüht, 4. Statt, Preyserba
+#facs_45_r4l11 vndt Ammann
+#facs_45_r4l12 bey hoher Verantwortung exacté, ob dem getreidt Tax Gehalten
+#facs_45_r4l13 Batthalter, Räst und Bürger der Statt Bärn. etc.
+#facs_45_r4l14 Wir vernemmend gantz misfellig, daß ob unserem Außge¬
+#facs_45_r4l15 schribnen getreidt Tax nicht gehalten Werde, sonderlich
+#facs_45_r4l16 r
+#facs_45_r4l17 Wann das gewacht nicht zu Märit gefüehrt, und nur by den
+#facs_45_r4l18 Häusern Verlaufft wird; Daherot wir die, Wie allen
+#facs_45_r4l19 anderen Vnnseren Ambtleüthen hiemit zu befehlen gütfunden
+#facs_45_r4l20 Bey hoher Vnser straaff und Vngnad ob solchem Vnnserem
+#facs_45_r4l21 Getreidt Tax genauwest zuhalten, und nach bereits er-
+#facs_45_r4l22 theilten Wegweisungen die fählbahren ohne schönen nach
+#facs_45_r4l23 Ansehen der Persohn Hüberechtigen und abenstraffen, Maßen
+#facs_45_r4l24 Zethunk Vüßen folst. Datl. 16. May 1694.

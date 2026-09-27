@@ -1,0 +1,116 @@
+Law ID: BER.01.001.3627
+Name: Das Jagen [...] verbiehten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_494
+# Matched: 105/105
+# High similarity (>=50%): 103
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_101_r3l1 Wangen
+#facs_101_r3l2 Vrs. Rußlj von Rohrbach.
+#facs_101_r3l3 Causane
+#facs_101_r3l4 Abraham françois Delleßere de Lausane
+#facs_101_r3l5 Jean Louis Nombre d'Or de gravaux
+#facs_101_r3l6 Abraham d'Epalles de Lausane.
+#facs_101_r3l7 Neubre
+#facs_101_r3l8 Jean faque Vieux de Bassin.
+#facs_101_r3l9 Pierre François de fiel de Nyon
+#facs_101_r3l10 David de Ueran
+#facs_101_r3l11 Worten
+#facs_101_r3l12 Joseph Gonel de Vuarrens
+#facs_101_r3l13 Joseph Elair de Derjamin
+#facs_101_r3l14 krutigen.
+#facs_101_r3l15 Christen Rubj von Prutigen.
+#facs_101_r3l16 Cristian Vägeli von Sfietz
+#facs_101_r3l17 Erlach.
+#facs_101_r3l18 ofeider Huser von Inß.
+#facs_101_r3l19 Ullrich Nicles von Müntschenner
+#facs_102_r1l1 Tscherlitz
+#facs_102_r1l2 Abraham Jorand de Panthereaz
+#facs_102_r1l3 Benoit Aavan de Goumoens
+#facs_102_r1l4 NB. daß W. Reglets d'ordans hinterlaßen
+#facs_102_r1l5 Erben had, u noch in 20 Thlr. zu bezeuchen
+#facs_102_r1l6 sind aber erfelihnet, Ihre Patenten
+#facs_102_r1l7 mitzubringen.
+#facs_102_r1l8 Vichtrach.
+#facs_102_r1l9 Jacob Wäber von Kisen
+#facs_102_r1l10 Thorberg.
+#facs_102_r1l11 Ullrich Mühliman von Copigen
+#facs_102_r1l12 Langen.
+#facs_102_r1l13 Jacob Jonj von Helm Ried.
+#facs_102_r1l14 Dranon.
+#facs_102_r1l15 Hans Müller von Saauen.
+#facs_102_r1l16 Gabriel Martin de Rossignere
+#facs_102_r1l17 Trach Selbald
+#facs_102_r1l18 Hans Schild auß dem Schaugnau
+#facs_102_r2l1 Thun
+#facs_102_r2l2 Heinrich Hut von Thun
+#facs_102_r2l3 könnten.
+#facs_102_r2l4 Hanß Burgimann von Könitz.
+#facs_102_r2l5 Buchsee
+#facs_102_r2l6 Jurß
+#facs_102_r2l7 Mühler von Münchenbuchse
+#facs_102_r2l8 Chillon
+#facs_102_r2l9 Pierre Bourguin de Montreux
+#facs_102_r2l10 Pierre Monay de Vevay.
+#facs_102_r2l11 Burgdorff.
+#facs_102_r2l12 Daniel
+#facs_102_r2l13 Schnell
+#facs_102_r2l14 Aarau.
+#facs_102_r2l15 Jacob Hirth.
+#facs_102_r2l16 Worsen.
+#facs_102_r2l17 Jean françois Bassel
+#facs_102_r2l18 Romainmotier
+#facs_102_r2l19 Daques Begnens de Vaulion
+#facs_102_r2l20 Dern.
+#facs_102_r2l21 Daniel Weyer.
+#facs_103_r3l1 an Alle J. und W. Ambtleuth
+#facs_103_r3l2 4. Stadt, Freyb: und Amen.
+#facs_103_r3l3 itz P. Gedel an hiesige
+#facs_103_r3l4 Cänzell.
+#facs_103_r3l5 Das Jagen von Liechtmeß bis
+#facs_103_r3l6 Bartholomei Verbieh
+#facs_103_r3l7 sten
+#facs_103_r3l8 Schultheiß und Raht.
+#facs_103_r3l9 Bey abermahl angerurter Grunß- und
+#facs_103_r3l10 Gruthzeit deß gebils bollen Wir die be¬
+#facs_103_r3l11 "fohlen habe, mänglich zu verbahren"
+#facs_103_r3l12 daß Sie von nechstkünfftige Liechtmes
+#facs_103_r3l13 an biß auf Bartholomei tog aller
+#facs_103_r3l14 Hezens, jagens und Schießens daß ge¬
+#facs_103_r3l15 bilds, die solches immer Nahmen habe,
+#facs_103_r3l16 mag, sich gänzlichen müßigen, mithin
+#facs_103_r3l17 denen zum jagen abgerichteten Verderb¬
+#facs_103_r3l18 lichen Hunden Schwehreufrügel anhen
+#facs_103_r3l19 ben thügen, alles bey der in der Ordnung
+#facs_103_r3l20 aufgesezte Schuß und Straff, damit die
+#facs_103_r3l21 fehlbahren ohne schönen belegt werden sollen, be¬
+#facs_103_r3l22 ches von Canzler verlesen zu laßen und steif
+#facs_103_r3l23 Carob zu halten vüsten vijest. Datum den 1ten febrf 1773
+#facs_103_r5l1 An Alle Teütsche Ambtleuth
+#facs_103_r5l2 4. Stäck, Freybeibel und
+#facs_103_r5l3 Amanu, etc. an die Com¬
+#facs_103_r5l4 Zel in hiesiger Stadt
+#facs_103_r5l5 auch an Schbarzenburg
+#facs_103_r5l6 Ihnen die HochOberbeitl. Rült grieffe
+#facs_103_r5l7 Orauung zusenden, und befehlt
+#facs_103_r5l8 Schultheis Räht und Bürger.
+#facs_103_r5l9 Welcher gestalten Wir wegen Aufricht, ver¬
+#facs_103_r5l10 Zins und Ablosung der Gültbrieffen
+#facs_103_r5l11 die Alten deßthalb ergangenen Ord¬
+#facs_103_r5l12 mungen und Mandat theilsbestähti¬
+#facs_103_r5l13 gen, theils Erleütheren und vermehren
+#facs_103_r5l14 auch truben zu lasen der Nohtbendig¬
+#facs_103_r5l15 keit zu seyn crachtet, das ist auf Anschluß
+#facs_103_r5l16 deß mehreren zu ersehen, bovon Wir die
+#facs_103_r5l17 nugsame Exemplaria hiemit zusenden,
+#facs_103_r5l18 anby befehlen wollen, selbe zu män¬
+#facs_104_r2l1 niglichs verhalt von Canzlen ver¬
+#facs_104_r2l2 bünden, allen Gerichtsstelle deiner
+#facs_104_r2l3 Ambts ein doppel übergeben zu laßen,
+#facs_104_r2l4 mithin, daß dehme nachgelebt werde,
+#facs_104_r2l5 hand abgehalten. Wir zu thun
+#facs_104_r2l6 Datt den 7t febri 1731

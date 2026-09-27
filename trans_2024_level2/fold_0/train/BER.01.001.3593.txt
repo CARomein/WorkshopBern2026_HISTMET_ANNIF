@@ -1,0 +1,262 @@
+Law ID: BER.01.001.3593
+Name: Ihnen das getrukte Placcard wegen Einwechslung der schlechten verruffenen Müntzen zesenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 251/251
+# High similarity (>=50%): 248
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_516_r4l1 An Alle zum W. Amtleuth,
+#facs_516_r4l2 4. Stadt, Freyreibel und Amen.
+#facs_516_r4l3 noch in alle Cäntzel hiesiger Haubtstach
+#facs_516_r4l4 Ihnen das getrubte Placcard beym
+#facs_516_r4l5 Eindechslung der schlechten Ver¬
+#facs_516_r4l6 lißenen Müntzen zesenden
+#facs_516_r4l7 Schultheiß käht uns Jurgen c.
+#facs_516_r4l8 Auß einligend getruktem placcard vieß
+#facs_516_r4l9 die daß mehreren zu ersehen haben, das für ein
+#facs_516_r4l10 gnädige Verordnung wir begen der im Land
+#facs_516_r4l11 sich befindlichen unterem 9ten Febr. letsthin
+#facs_516_r4l12 verrueffenen Schlechten, gegen Einbechslu¬
+#facs_516_r4l13 guter Müntzen zu thun guetfunden, welche
+#facs_516_r4l14 Wir dir hiemit zesenden, mithin befehle,
+#facs_516_r4l15 Bollen, die ohneingestelte Anstalt dahin
+#facs_516_r4l16 ge verfüegen, daß solche zu jedermänniglich
+#facs_516_r4l17 verhalt auf Sontag den 22ten diß monats
+#facs_516_r4l18 ohne Fehler von Cantzlen verbündet.
+#facs_516_r4l19 werde; der beyläuftigen meinung,
+#facs_516_r5l1 1025.
+#facs_516_r5l2 daß von jehmand von dieser Schlimmen ver¬
+#facs_516_r5l3 rueffenen Müntz über fünt Thaler zur
+#facs_516_r5l4 Aufrechtlung bringen wurde, deßen nah¬
+#facs_516_r5l5 men in deß Saltzfactoren Bourderau
+#facs_516_r5l6 oder Verzeichnuß gebracht, der aber so über
+#facs_516_r5l7 Zehen oder mehr Thaler zu verbechslen.
+#facs_516_r5l8 hätte, und etwas verdachts Järe, daß sol¬
+#facs_516_r5l9 che schlechte muntz etwan expresse einge¬
+#facs_516_r5l10 sandlet, sich eydlich hierüber zu erleüthe.
+#facs_516_r5l11 ren angehalten werden solle; Wie zu
+#facs_516_r5l12 thun, und den Andenhor des placcards
+#facs_516_r5l13 vernamseten Saltzfactoren deines
+#facs_516_r5l14 districts nachrichtlich zu eröfnen, auch
+#facs_516_r5l15 fahls gegenkehrtige Unsere Verordnung
+#facs_516_r5l16 an Eint oder anderen Ohrten Deines Amts
+#facs_516_r5l17 mit füglich verschibt werden könte, du sol¬
+#facs_516_r5l18 ches durch expresse abschikende übertrage,
+#facs_516_r5l19 Ze laßen Büßen Birst, damit diß Ohrts
+#facs_516_r5l20 nichts unterlaßen werde, das zu Sehlen
+#facs_517_r1l1 1026
+#facs_517_r1l2 niger Vollzeuchung Unsers gnädigen
+#facs_517_r1l3 Stellens dienlich seyn mag. Dat. 113
+#facs_517_r1l4 Maij 1729
+#facs_517_r1l5 P: L: Wie man aber mit vorsehen können, die viel¬
+#facs_517_r1l6 guter Müntzen den Saltzfactoren zum
+#facs_517_r1l7 Aufwechsel der Verrueffene, zugehendt
+#facs_517_r1l8 werden sollen, so sind den Saltzfactoren
+#facs_517_r1l9 getrükte Zedel zugesandt worden, dann
+#facs_517_r1l10 Die jedem Einen Schein, so von den Saltz
+#facs_517_r1l11 factoren Unterschriben und gestempflet
+#facs_517_r1l12 zu stellen könne, Sie viel an Schlechter
+#facs_517_r1l13 Wüntz die empfangen, welcher belauß
+#facs_517_r1l14 Ihnen auch in Zehen oder Zbölf tagen be¬
+#facs_517_r1l15 Zahlt verden soll.
+#facs_517_r2l1 1027.
+#facs_517_r2l2 Placcard.
+#facs_517_r2l3 Nach Schultheip Rähl und Burger
+#facs_517_r2l4 der Stadt Hern Thund kund hiemit
+#facs_517_r2l5 Demnach wir Unß zu gutem Unser Lieben
+#facs_517_r2l6 und getreuen Angehörigen zu Statt und Land
+#facs_517_r2l7 genöhtiget gesehen, aus Landswäckerlicher Lie¬
+#facs_517_r2l8 te und hochoberbeitl. offlicht gegen denselben
+#facs_517_r2l9 unterem 9ten Febr. letzthin die schädlichen ge¬
+#facs_517_r2l10 ringhältigen Müntzen gäntzlichen zu verruffen
+#facs_517_r2l11 und damit Sie sich dieser also verrueffenen
+#facs_517_r2l12 Eydtgnößischen und anderen Müntzen ab¬
+#facs_517_r2l13 thun, und selbige äußert Lands anbrin¬
+#facs_517_r2l14 gen mögen, Zeit und Termin bis auf den
+#facs_517_r2l15 1ten Hrachmonath nechstkönfftig vergönnet. Be¬
+#facs_517_r2l16 nebens dan zu mehrerem Vortheil der
+#facs_517_r2l17 Unterthanen Unsere Saltzfactore zu Stadt,
+#facs_517_r2l18 und Land ausgetragen, selbige anbezahlung
+#facs_517_r2l19 daß kaltzes anzunemen; Als stehend Wir inder
+#facs_517_r2l20 Hoffnung gegen Unseren u. und 9. Unterthanen
+#facs_517_r2l21 Sie sich dis verbottenen muntzen, Er nicht
+#facs_517_r4l1 1.
+#facs_518_r2l1 gäntzlich, denoch meistens Berden abgethan
+#facs_518_r2l2 haben; Wie aber Eint und andere der Unster
+#facs_518_r2l3 nicht genugsame Gelegenheit gehabt haben möch¬
+#facs_518_r2l4 ten, sich mehr angeregter schädlichen münzen
+#facs_518_r2l5 völlig zu entladen, und aber unser Ich
+#facs_518_r2l6 gesetzte Schluß dahin gehet, daß nach demt,
+#facs_518_r2l7 Brachmonath nechstkünfftig gar keine mehr¬
+#facs_518_r2l8 gedachter verrueffenen Müntzen, unter auß
+#facs_518_r2l9 gesetzter straff lauff und gang haben sollen,
+#facs_518_r2l10 Als habend wir auß Lands vätterlicher
+#facs_518_r2l11 Liebe gegen die Vnseren, und damit niemand
+#facs_518_r2l12 zu schaden komme, auch zu bescheinung, die
+#facs_518_r2l13 sehr das Heyl und Bolseyn derselben unß aus
+#facs_518_r2l14 gelegen, unß in gnaden dahin geneiget, alle,
+#facs_518_r2l15 und jeden unseren Angehörigen zu Stadt
+#facs_518_r2l16 und Land die istinge verruffene Müntzen
+#facs_518_r2l17 unter aufgesetzter straht durch unsere Alles
+#facs_518_r2l18 Ohrten bestelte Saltzfactoren gegen andere gute
+#facs_518_r2l19 Alte Müntzen einbechslen zu lasen; zu bet¬
+#facs_518_r3l1 1029
+#facs_518_r3l2 chem End wir hiemit zu jedermänniglichs verhalt
+#facs_518_r3l3 kund machen wollen, daß den 28. 30. et 31. die
+#facs_518_r3l4 monahts May ein jeglicher, der mit dieser
+#facs_518_r3l5 Schlecht und verrueffenen Müntz annoch be¬
+#facs_518_r3l6 schwehrt und versehen, sich damit bey dem be¬
+#facs_518_r3l7 stelten Saltzfactoren, so wir Sie untenhar¬
+#facs_518_r3l8 zu sehen, in Einem jeden bezirk Vnsterer
+#facs_518_r3l9 Landen vernamset, einfinden thüye, und
+#facs_518_r3l10 daselbst die schlechte gegen gute Müntz einbechs¬
+#facs_518_r3l11 len zu können; alles der beyläufigen mei¬
+#facs_518_r3l12 nung, weilen dieses Unser Lands Vätterliches
+#facs_518_r3l13 Einsehen allein zu gutem Unserer
+#facs_518_r3l14 angehörigen angesehen, und gemeinet,
+#facs_518_r3l15 Daß niemand sich gelusten laße, von so¬
+#facs_518_r3l16 thaner schlechten müntz an außere, ohrte
+#facs_518_r3l17 einzeholen, und solche nachdehrts ins Land
+#facs_518_r3l18 zum aufbechsel zu bringen, als welches Wir hie¬
+#facs_518_r3l19 mit alles Ernsts, und bey ohnauß bleiblicher
+#facs_518_r3l20 hochOberkeitlicher ohnguar und Schärerstrafe
+#facs_518_r3l21 für eins und alle mahl verborden haben
+#facs_518_r3l22 bollend.
+#facs_519_r2l1 Bleich die nun die Unserigen durch gegen
+#facs_519_r2l2 dehrtige Vnsere gnädige Vorsorg von allen
+#facs_519_r2l3 Verlust, so Ihnen durch den völligen abruch
+#facs_519_r2l4 der schlechten müntzen zu bachsen könte,
+#facs_519_r2l5 gäntzlich gefristet werden; Alß versehend Wie
+#facs_519_r2l6 Unß auch zu ihnen, daß Sie künfftig hin zu
+#facs_519_r2l7 keine Zeiten mehr darbider Handlen, dergl.
+#facs_519_r2l8 verrueffene Müntzen abnehmen, mithin
+#facs_519_r2l9 Vnserer Ormung vom 9ten Febr. letzthin
+#facs_519_r2l10 gebührend nachleben werden: zumahlen
+#facs_519_r2l11 Wir festiglich entschloßen, alle diejenigen
+#facs_519_r2l12 so darbider handlen, und dergleichen gering¬
+#facs_519_r2l13 haltige Müntz, als belehrere Wir nach vora
+#facs_519_r2l14 geregtem Termin keinen lauff und gang¬
+#facs_519_r2l15 gestatten, einnemen oder außgeben durden
+#facs_519_r2l16 mit aufgesetzter straff ohne Schönen noch
+#facs_519_r2l17 ansehen der obersohn belegen werden.
+#facs_519_r2l18 Deben in Unser großen Rahts Versa¬
+#facs_519_r2l19 lung den 11ten May 1729.
+#facs_519_r3l1 1031.
+#facs_519_r3l2 Verzeichnus
+#facs_519_r3l3 Der Ohrten, da die Saltz Factore die Schlechte Ver¬
+#facs_519_r3l4 rueffene Müntz gegen gute außbechslen sollen, alß
+#facs_519_r3l5 Im anderergeüw. Zoffingen, Araus — Brugg
+#facs_519_r3l6 Lentzburg.
+#facs_519_r3l7 Ober Ergeuw. Arburg-Langenthal und Gurgdorff
+#facs_519_r3l8 Emmerthal. Langnaul
+#facs_519_r3l9 Vier Landgrühl. In hiesige Stadt
+#facs_519_r3l10 Thun-Widersten-Erlenbach
+#facs_519_r3l11 Oberland
+#facs_519_r3l12 und Saauen
+#facs_519_r3l13 Deeland, Herrn Nidauk Arberg und Erlach¬
+#facs_519_r3l14 Wellschland. Rechterlingen — Wilden
+#facs_519_r3l15 Lausane-Roche-Vieliß
+#facs_519_r3l16 J Perthen - Morsen - Reübst
+#facs_519_r3l17 und aubone
+#facs_519_r4l1 1
+#facs_520_r2l1 Traduction
+#facs_520_r2l2 Nous L'advoyer Petit et grand conseil
+#facs_520_r2l3 de La Ville et Republique de Berne, Scavoir Fait
+#facs_520_r2l4 par les presentes, qu'ayants été engagé par le
+#facs_520_r2l5 devoir de souverain, et par un amour patern
+#facs_520_r2l6 pour le bien de nos Bourgeois et Sujets de Noire
+#facs_520_r2l7 Nous le baijs, de deffendre absolument le 9
+#facs_520_r2l8 le mois de fevrier dernier toutes les monoy
+#facs_520_r2l9 De vas alloy tant celles qui ont été fabriquées
+#facs_520_r2l10 dans la Suisse, que dehors, et afin que chacun
+#facs_520_r2l11 fout s'en defaire et les debiter hors du Pays
+#facs_520_r2l12 avions accordé terme jusques au premier
+#facs_520_r2l13 four du Mois de Juin prochain; et en meme
+#facs_520_r2l14 tems, pour l'avantage de Nos sujets, ordoné
+#facs_520_r2l15 Nos comis et caissiers des sels en Nos villes et
+#facs_520_r2l16 Pays de recevoir lesdites Monoyes pour le payement
+#facs_520_r2l17 du Cet; ce qui nous donc lieu de croire que Nos
+#facs_520_r2l18 Chers et Feaux hijets se seront defaits, si pas enti
+#facs_520_r2l19 crement, neanmoins de la meilleure partie desd.
+#facs_520_r2l20 Monoyes interdites.
+#facs_520_r3l1 1033.
+#facs_520_r3l2 Mais come il se pourroit, que quelques uns n'au
+#facs_520_r3l3 roit pu avoir des occasions suffisantes pour se
+#facs_520_r3l4 de faire totalement desdites Monoyes; Et notre
+#facs_520_r3l5 ferme resolution étant de ne leur permetre
+#facs_520_r3l6 aucun cours, des le premier du Mois de juin
+#facs_520_r3l7 prochain, sous l'Amende prescrite. A ces
+#facs_520_r3l8 causes, presses par un amour Paterne
+#facs_520_r3l9 pour nos sujets, et afin que cela ne leur
+#facs_520_r3l10 porte aucun prejudice, come aussi pour te
+#facs_520_r3l11 moigner combien nous avons à coeur leur à
+#facs_520_r3l12 antage et bonheur, avons bien voulu mille
+#facs_520_r3l13 rier par grace à ce que tous Nos sujets des
+#facs_520_r3l14 Villes et Paijs puissent changer lesdites monoyes
+#facs_520_r3l15 deffendues contre des bônes et ancienes, aupres
+#facs_520_r3l16 de nos Comis des Sels et ablis pour cela; c'est
+#facs_520_r3l17 pourquoi nous faisons savoir par ces presens
+#facs_520_r3l18 tes, pour la Conduite d'un chacun, que tous
+#facs_520_r3l19 ceux qui seront encore pourvu desd. petites
+#facs_520_r3l20 Monoyes pourront se trouver les 28f30 et
+#facs_520_r3l21 31e. Jours du present Mois de May, cher Mosomis
+#facs_520_r3l22 et Caissiers des Sels que Nous avons établis dans
+#facs_521_r2l1 maque district de nôtre Pays, come il sera
+#facs_521_r2l2 Ce fie cy dessous, et les changer contre des bois
+#facs_521_r2l3 nes et coursables; bien entendu cependant
+#facs_521_r2l4 quelome le present Reglement a uniquement
+#facs_521_r2l5 pouvait le bien de nos hijets, personne n'a
+#facs_521_r2l6 The other chercher dehors lesd. Monoyes def
+#facs_521_r2l7 plus pour ensuite les porter et changer dans
+#facs_521_r2l8 le Pays, ce qui est deffendu tres expressement
+#facs_521_r2l9 par les presentes pour une fois et toutes,
+#facs_521_r2l10 tous les Chatiments rigoureux, et sous pe-
+#facs_521_r2l11 ne de Nôtre disgrace qui suivra unanquable,
+#facs_521_r2l12 ment
+#facs_521_r2l13 Et come par les presentes nos benignes precaux
+#facs_521_r2l14 Aions nos Rijets Sont entierement à couvert du
+#facs_521_r2l15 la perte, qui auroit pû leur arriver à l'occasion
+#facs_521_r2l16 de cette deffence totale desd. Monoyes. Nous
+#facs_521_r2l17 esperons d'eux, que dans la suite il n'y contre
+#facs_521_r2l18 viendront plus en recevant de pareilles Mon
+#facs_521_r2l19 yes interdites, mais qu'au contraire ils se consor-
+#facs_521_r2l20 meront duement a Nôtre ordonnance du 9e
+#facs_521_r2l21 fevrier dernier, etants fermement resolus
+#facs_521_r3l1 6
+#facs_521_r4l1 1035.
+#facs_521_r4l2 d'infliger sans remissions a tous les contrevenant,
+#facs_521_r4l3 de quelle condition qu'ils puissent etre, l'Amende
+#facs_521_r4l4 contenüe dans Nôtre dit Mandat, dont
+#facs_521_r4l5 en grand Conseil l'11e May 1729.
+#facs_521_r4l6 Votre
+#facs_521_r4l7 des Endroits du Pays de Vaud ou les comis en
+#facs_521_r4l8 Caissiers des Sels devront changer la Mondye
+#facs_521_r4l9 deffendüe contre de la bonne.
+#facs_521_r4l10 Lausane
+#facs_521_r4l11 Moudor
+#facs_521_r4l12 Payerne
+#facs_521_r4l13 Yverdon
+#facs_521_r4l14 Vevay
+#facs_521_r4l15 Roche Pro
+#facs_521_r4l16 Aubone
+#facs_521_r4l17 Nyon et
+#facs_521_r4l18 Morges
+#facs_521_r4l19 die Alle T. und W. Amtlich
+#facs_521_r4l20 4. Stäck, Freybeibel und
+#facs_521_r4l21 Amann. It. p. Gedelan
+#facs_521_r4l22 hiesige Cantzel.
+#facs_521_r4l23 Schultheis Raht und Bürger
+#facs_521_r4l24 In bedenken Anser getrübtes Mandat
+#facs_521_r4l25 in Ansehen der Einbechslung der Schlechten
+#facs_522_r3l1 gegen gute Wüntz in imgleichen Verstans
+#facs_522_r3l2 gezogen werden könte, so haben wir selbiger
+#facs_522_r3l3 hiemit dahin erleütheren sollen, daß
+#facs_522_r3l4 der Einwechsel ohne schaden der Unserige
+#facs_522_r3l5 hiemit baten für batzen geschehen solle, und
+#facs_522_r3l6 che Erläntherung hiemit nach obangeregten
+#facs_522_r3l7 Mandat von Cantzler Verlesen zu laßen
+#facs_522_r3l8 Büßen wirst. Dat. d. 13ten May 1729

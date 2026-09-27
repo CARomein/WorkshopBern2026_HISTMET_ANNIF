@@ -1,0 +1,212 @@
+Law ID: BER.01.001.3078
+Name: Den gantzen Vorschuss über den bestimbten Getreidtsvorrath vom mingstbehalltlichsten zu versilbern bewilligen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 201/201
+# High similarity (>=50%): 164
+# Low similarity (<50%): 37
+# Not found: 0
+#
+#facs_263_r4l13 Bepesreibung
+#facs_263_r4l14 Der Leutschen Ambtleüthe pro Ao. 1712.
+#facs_263_r4l15 february
+#facs_263_r4l16 Thorberg
+#facs_263_r4l17 15.
+#facs_263_r4l18 Montags den
+#facs_263_r4l19 Zuvorff
+#facs_263_r4l20 ib.
+#facs_263_r4l21 Thu
+#facs_263_r4l22 Dinstags etc.
+#facs_263_r4l23 Interlaken
+#facs_263_r4l24 Fraulebrunnen
+#facs_263_r4l25 17.
+#facs_263_r4l26 Mittwochens d.
+#facs_263_r4l27 Buchler
+#facs_263_r4l28 durs.
+#facs_263_r4l29 Krieniß pr
+#facs_263_r4l30 18
+#facs_263_r4l31 Landtrhuth Konstags den
+#facs_263_r4l32 Arberg
+#facs_263_r4l33 Underspittahl
+#facs_263_r4l34 19.
+#facs_263_r4l35 Preytagt den
+#facs_263_r4l36 Bollstall
+#facs_263_r4l37 Laupen
+#facs_264_r2l1 Erlach
+#facs_264_r2l2 Abt. Johansen Sambstags d.
+#facs_264_r2l3 Oberspittahl
+#facs_264_r2l4 Wangen
+#facs_264_r2l5 Montags den
+#facs_264_r2l6 Ripp.
+#facs_264_r2l7 Arwangen.
+#facs_264_r2l8 dienstags den
+#facs_264_r2l9 Sinniswalden
+#facs_264_r2l10 Stifft
+#facs_264_r2l11 Mittwochens den
+#facs_264_r2l12 St. Johannes Haus
+#facs_264_r2l13 Baucoherr
+#facs_264_r2l14 Sonstagsd.
+#facs_264_r2l15 Briemißberger Hauß
+#facs_264_r2l16 Signaues
+#facs_264_r2l17 Preytags den.
+#facs_264_r2l18 Oberhoffen.
+#facs_264_r2l19 Brandis.
+#facs_264_r2l20 Winnis
+#facs_264_r2l21 sprutigen.
+#facs_264_r2l22 Sambstags den
+#facs_264_r2l23 Zweysinnen.
+#facs_264_r2l24 Anderwer
+#facs_264_r2l25 Insull
+#facs_264_r2l26 Interlaker Hauß  Montagisch.
+#facs_264_r2l27 Hetliß weil
+#facs_264_r3l1 february
+#facs_264_r3l2 20
+#facs_264_r3l3 22.-
+#facs_264_r3l4 23.—
+#facs_264_r3l5 24.
+#facs_264_r3l6 25.-
+#facs_264_r3l7 26.
+#facs_264_r3l8 27.
+#facs_264_r3l9 29._
+#facs_264_r4l1 Martij
+#facs_264_r4l2 Siechenhaus
+#facs_264_r4l3 1
+#facs_264_r4l4 and
+#facs_264_r4l5 Zinsagsd.
+#facs_264_r4l6 Mußhaffen
+#facs_264_r4l7 2.
+#facs_264_r4l8 Koricherz.
+#facs_264_r4l9 Mittwochens den.
+#facs_264_r4l10 Nydauld
+#facs_264_r4l11 Lenthburg
+#facs_264_r4l12 21
+#facs_264_r4l13 Montags den
+#facs_264_r4l14 Bibersten
+#facs_264_r4l15 Sanen
+#facs_264_r4l16 28
+#facs_264_r4l17 -
+#facs_264_r4l18 Ahlen
+#facs_264_r4l19 Einzustags den
+#facs_264_r4l20 Arburgh.
+#facs_264_r4l21 23.
+#facs_264_r4l22 Hoffingen.
+#facs_264_r4l23 2 Mittwochenschen
+#facs_264_r4l24 Schenkenberg
+#facs_264_r4l25 25.
+#facs_264_r4l26 Interlaken Freytags den
+#facs_264_r4l27 26
+#facs_264_r4l28 Königsfelden, Sambstags den
+#facs_264_r4l29 May
+#facs_264_r4l30 9
+#facs_264_r4l31 Prachselwald, Montags d.
+#facs_264_r4l32 Bepesreibung
+#facs_264_r4l33 Der Wellhosen Herren Ambt Leuthen
+#facs_264_r4l34 pro Ao. 1712.
+#facs_264_r4l35 Martius,
+#facs_264_r4l36 n°
+#facs_264_r4l37 7
+#facs_264_r4l38 Oron Ab- und 1te Rechnung der
+#facs_264_r4l39 8
+#facs_264_r4l40 Chillon Ab, und 1ten Rechnungen,
+#facs_265_r3l1 Martius
+#facs_265_r3l2 Neüwenstatt
+#facs_265_r3l3 8
+#facs_265_r3l4 a
+#facs_265_r3l5 Morse ab und 1 Rech. den
+#facs_265_r3l6 9
+#facs_265_r3l7 Romainmostier ab, und 1ten Rech¬
+#facs_265_r3l8 8.
+#facs_265_r3l9 Neülds Idem
+#facs_265_r3l10 11
+#facs_265_r3l11 -
+#facs_265_r3l12 Beaumont
+#facs_265_r3l13 12
+#facs_265_r3l14 Lausanne den
+#facs_265_r3l15 14
+#facs_265_r3l16 Wifflisburg den
+#facs_265_r3l17 15.
+#facs_265_r3l18 Pätterlingend.
+#facs_265_r3l19 ib
+#facs_265_r3l20 Mildend.
+#facs_265_r3l21 17.
+#facs_265_r3l22 Ifferten den
+#facs_265_r3l23 18
+#facs_265_r3l24 Aubonne den
+#facs_265_r3l25 An alle T. und W. Ambtl.
+#facs_265_r3l26 da getreidt vorrath ist, um
+#facs_265_r3l27 Oberkeitl.r Häuser allhier.
+#facs_265_r3l28 Den gantzen vorschuß über den bestimbten
+#facs_265_r3l29 getreidts Vorrath vom Mingslbe¬
+#facs_265_r3l30 halltlichsten Zuversilberen bewilligen.
+#facs_265_r3l31 Schultheis Räth und Burger der Statt ver¬
+#facs_265_r3l32 Nachdeme Unß umbstendtlichen Hinder¬
+#facs_265_r3l33 bracht worden, wie es mit dem HochOber¬
+#facs_265_r5l1 515
+#facs_265_r5l2 keitlichen Bestimbten getreidt Vorrath xxx
+#facs_265_r5l3 Eine und anderen Ohrts Bewandt, habend Wie¬
+#facs_265_r5l4 Außguthen Ursachen Erkennt, daß vorall¬
+#facs_265_r5l5 Dingen Jeden Ohrtt der angelegte getreidt-
+#facs_265_r5l6 Vorrath würklichen verhanden sein, und ohner¬
+#facs_265_r5l7 gegriffen verbleiben solle, was aber über den¬
+#facs_265_r5l8 selben auß hiemit alles vorschuß Eingangen sei,
+#facs_265_r5l9 1.
+#facs_265_r5l10 möchte, darvon die künfftigen Paßnacht¬
+#facs_265_r5l11 Pfingst= und Herpstmonfasten, wie auch
+#facs_265_r5l12 andere ordinari außgaben, so wohl alles¬
+#facs_265_r5l13 die Exstanzen von sothanem Vorschuß abgezogen
+#facs_265_r5l14 Der überschuß deßelben aber völlig Verkauft
+#facs_265_r5l15 werden möge, Jehdenoch nicht zu großen.
+#facs_265_r5l16 käüffen, sonderen nur damit die märithen
+#facs_265_r5l17 nach und nach dardurch desto bester gespeisen
+#facs_265_r5l18 werdind: Darbey Es aber die Heitere
+#facs_265_r5l19 Meinung hat, daß bevorab das übell Con¬
+#facs_265_r5l20 ditionierte und Mingsch behalltlichste Zum¬
+#facs_265_r5l21 Verkauff gewiedmet, daß besere aber
+#facs_265_r5l22 dargegen behallten werden solle, alles
+#facs_265_r5l23 nach der An Beisung so du von Unseren
+#facs_265_r5l24 Fürgeliebten Mitträthen Sekellmeister
+#facs_265_r5l25 und venneren Empfachen wirst, sodas
+#facs_265_r5l26 nachwerts Er seye durch Visitation
+#facs_265_r5l27 oder sonsten deiner seaths die gefliße
+#facs_265_r5l28 ne Beobachtung sothanen Befelchs und
+#facs_266_r3l1 und Anweisung Erzheinen, und allso
+#facs_266_r3l2 Aller daharigen Veranthwortung über=
+#facs_266_r3l3 Hoben sein mögest, das Erlösende gelt
+#facs_266_r3l4 aber leirst du mit beyfürgender
+#facs_266_r3l5 ümbstendtlichen Specification ge
+#facs_266_r3l6 bührend zu verrechnen laüßen. Datl.
+#facs_266_r3l7 den 6. und 27. January 1712
+#facs_266_r3l8 An alle Decanus Leütfosen
+#facs_266_r3l9 Landts
+#facs_266_r3l10 Die Visitationes Ins künfftige aus
+#facs_266_r3l11 Die Sonntagen allen Anstellen
+#facs_266_r3l12 Schultheis und Rath der Statt Tern
+#facs_266_r3l13 wehrnemm
+#facs_266_r3l14 Sintenmahlen Wir nun und dan vernennig
+#facs_266_r3l15 müeßen, daß die Visitationen der
+#facs_266_r3l16 r
+#facs_266_r3l17 Kirchen Dieneren auff dem Fuß, wie
+#facs_266_r3l18 selbige bis hiehin verrichtet worden,
+#facs_266_r3l19 nicht den Erwünschten Zwek erreichen.
+#facs_266_r3l20 mögen, sonderen zum Zeithen solche
+#facs_266_r3l21 -
+#facs_266_r3l22 sachen darbey underloffen, welche
+#facs_266_r3l23 da ein mehrers Einsehen Erfordern
+#facs_266_r5l1 die 19.
+#facs_266_r5l2 wollen; Alls sind Wir benüeßiget worden,
+#facs_266_r5l3 fürs künfftige zu statuieren und zu verord¬
+#facs_266_r5l4 nung, daß die Visitationen der Predigkanten
+#facs_266_r5l5 und Kirchen dieneren fürohigen durch die
+#facs_266_r5l6 Juraten lediglich an Sontagen gantz ohnver¬
+#facs_266_r5l7 wahrneter Dingen und nach außweisung
+#facs_266_r5l8 der daharigen hochoberkeitl. ordnung ver¬
+#facs_266_r5l9 richtet, und das In Erfahrung gebrachte,
+#facs_266_r5l10 den Capituls Versamblungen vorgetragen,
+#facs_266_r5l11 werden solle: Euch sie gleich übrigen Decanen
+#facs_266_r5l12 Aisers Beutschen Landts hiemit befelehende
+#facs_266_r5l13 die Erforderliche Anstellt zu verfüegen, daß
+#facs_266_r5l14 Dieserem Unserem Willen und Einsehen.
+#facs_266_r5l15 völlig nachgelebt werbe, alls deßen Wir
+#facs_266_r5l16 gewärtig sein wollend. Dat. d. 19. Janl.

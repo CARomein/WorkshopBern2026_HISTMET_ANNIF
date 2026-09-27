@@ -1,0 +1,39 @@
+Law ID: BER.01.001.3611
+Name: Ihnen befehlen den Capitlen und Classen beyzewohnen.
+
+#facs_40_r3l1 7
+#facs_40_r3l2 An Alle S. und v Ambtleüth
+#facs_40_r3l3 ihnen befehlen den capitlen und
+#facs_40_r3l4 Cassen beyzebohnen.
+#facs_40_r3l5 Schultheiß und Rahtec.
+#facs_40_r3l6 Auß anlaß der bidermahl herzung,
+#facs_40_r3l7 chenden Zeith, da die Capitul (:Cassen¬
+#facs_40_r3l8 auf gebohnten tag angestelt berden
+#facs_40_r3l9 sollen, habend wir dir bey deinem
+#facs_40_r3l10 Eyd hiemith befehlen bollen, selbige
+#facs_40_r3l11 mit hindansezung aller anderen
+#facs_40_r3l12 geschafften ohnfehlbarlich zu besuechen
+#facs_40_r3l13 und nebst übrigen unsteren ambt-
+#facs_40_r3l14 leuthen, so ein gleichen befelcherhalten,
+#facs_40_r3l15 daby dich einzefinden: und verschaffen
+#facs_40_r3l16 daß alles anbringende den actis ein¬
+#facs_40_r3l17 verleibet und unß fürderlich über
+#facs_40_r3l18 sendtberde. Datu den 19tn apr 1730
+
+#facs_40_r5l1 35
+#facs_40_r5l2 an alle Decanos der Capitlen
+#facs_40_r5l3 . lands ite classen m lands.
+#facs_40_r5l4 ob ed
+#facs_40_r5l5 schultheis und rahtetc.
+#facs_40_r5l6 auß anlaß der bidermahl herzmachender
+#facs_40_r5l7 Zeith da die Capitul:Cassen) auf gebohnten
+#facs_40_r5l8 tag angestelt werden sollen, habend wir euch
+#facs_40_r5l9 hierdurch befehlen wollen, selbige auf bestin
+#facs_40_r5l10 tezeith zu veramlen mithin zu verschaffen
+#facs_40_r5l11 daß alles ohngeschochen Untersuecht, die
+#facs_40_r5l12 anbringende klegdten den actio ohne
+#facs_40_r5l13 Ansehen der ppersohnen einterlei
+#facs_40_r5l14 bet und selbige ohne Aufchueb Muß
+#facs_40_r5l15 eingeendt werde. Datum den 19ten aprl
+#facs_40_r5l16 1700.
+END

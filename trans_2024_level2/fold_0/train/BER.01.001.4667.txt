@@ -1,0 +1,463 @@
+Law ID: BER.01.001.4667
+Name: Reglement zur Vorsorg derjenigen Personen, welche von dem Kandersteg, über den Gemmiberg nach dem Leükeren Bad ins Wallisland reisen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 452/452
+# High similarity (>=50%): 435
+# Low similarity (<50%): 17
+# Not found: 0
+#
+#facs_125_r3l3 Reglement
+#facs_125_r3l4 Zur Vorsorg derjenigen Personen
+#facs_125_r3l5 welche von dem Kandersteg, uber den
+#facs_125_r3l6 Gemmiberg nach dem Leükeren Bad
+#facs_125_r3l7 ans Wallisland reisen.
+#facs_125_r3l8 Art. 1.
+#facs_125_r3l9 Betreffend die Anstalt
+#facs_125_r3l10 damit die Reistenden bey ihrer An¬
+#facs_125_r3l11 kunfft im Kandersteg zu ihrer
+#facs_125_r3l12 Reiste über den Gemeinberg nach
+#facs_125_r3l13 Raden im Wallis, so wohl für ihre
+#facs_125_r3l14 Personen, als für ihre Tagage,
+#facs_125_r3l15 die benöthigten Männer u. Pferdte
+#facs_125_r3l16 finden, so sind dazu so bohl die
+#facs_125_r3l17 Einbohner von Kandersteg, als
+#facs_125_r3l18 die sogenannten Mithelfer und
+#facs_125_r3l19 gasterer bestimmt, als welche so bohl
+#facs_125_r3l20 zum Tragen in Bereitschaft seyn,
+#facs_125_r4l1 245.
+#facs_125_r4l2 als die erforderlichen Pferde liefern
+#facs_125_r4l3 sollen.
+#facs_125_r4l4 d'après de l'autre nouvelle
+#facs_125_r4l5 Arbeit
+#facs_125_r4l6 Um aber zu solcher tängliche
+#facs_125_r4l7 Männer zu haben, sollen alle Früh¬
+#facs_125_r4l8 jahr den 25sten März auf Maria
+#facs_125_r4l9 Vervündigung, alle diejenigen, die
+#facs_125_r4l10 sich, es seye zum Tragen und zu
+#facs_125_r4l11 Pferdlieferungen, oder aber zum
+#facs_125_r4l12 Tragen allein gebrauchen laßen
+#facs_125_r4l13 Bollen, bey dem neuen Währtshaus
+#facs_125_r4l14 sich einfinden, da dann ein jedeiliger
+#facs_125_r4l15 Wirth allda die tüchtigen bählen
+#facs_125_r4l16 sie nach dem Rang, den sie durch
+#facs_125_r4l17 das Loos zu erhalten haben, in
+#facs_125_r4l18 einen Rodel verzeichnen, und selbige
+#facs_125_r4l19 auch, nach erheischender Nothdurfft,
+#facs_125_r4l20 ihrem Rang nach, gebrauchen wird.
+#facs_125_r4l21 diejenigen, welche Pferde und
+#facs_125_r4l22 Wagen liefern wollen, sollen sich
+#facs_125_r4l23 Damezumalen auch angeben, ein
+#facs_125_r4l24 schreiben laßen, und um den Rang
+#facs_125_r4l25 loosen.
+#facs_126_r2l1 Der jedeilige Wirth in dem neuen
+#facs_126_r2l2 für die Reisenden erbauten Wihrts¬
+#facs_126_r2l3 hause, son alles zu diesem End¬
+#facs_126_r2l4 nöthige Veranstalten; bey ihm
+#facs_126_r2l5 stollen diese Reisende sich anmelden,
+#facs_126_r2l6 vor ihme sollen die Abborde ge¬
+#facs_126_r2l7 macht, und daß diesem Regle
+#facs_126_r2l8 ment in allem nachgelebt werde,
+#facs_126_r2l9 von eben demselben fleißige
+#facs_126_r2l10 der
+#facs_126_r2l11 Aufsicht gehalten werden.
+#facs_126_r2l12 oder diejemzen dann, welche dar¬
+#facs_126_r2l13 bider handeln, oder gegen die 2
+#facs_126_r2l14 Reistenden sich nicht gebührend
+#facs_126_r2l15 auffuhren würden, sollen für selbiges
+#facs_126_r2l16 Jahr in dem Rödel durchgestrichen
+#facs_126_r2l17 berden, und an diesem Verdient
+#facs_126_r2l18 keinen Antheil haben.
+#facs_126_r2l19 für solche des Wirths Bemühung,
+#facs_126_r2l20 Anstalt und Aufsicht, stehet es ihme
+#facs_126_r2l21 frey, bey jeder Belegenheit 2.
+#facs_126_r2l22 Mann und 2. Pferde voraus, samt
+#facs_126_r2l23 Wagen zu liefern.
+#facs_126_r2l24 Ihme
+#facs_126_r3l1 247
+#facs_126_r3l2 Ihme soll auch von den Reisenden,
+#facs_126_r3l3 die Hülfe bedürfen, von jedem Pferd
+#facs_126_r3l4 mit Mann z bey- und von einer
+#facs_126_r3l5 zum Tragen bestimmten Person
+#facs_126_r3l6 ein Kreuzer behalt werden.
+#facs_126_r3l7 Wenn selbige guten Wein mit
+#facs_126_r3l8 auf den Berg nehmen wollen, mag
+#facs_126_r3l9 ihnen der Wirth auf ihr Anmelden
+#facs_126_r3l10 solchen verschaffen, und und den
+#facs_126_r3l11 gleichen Lohn, wie von einer gemeinig¬
+#facs_126_r3l12 Vergbürde, tragen laßen.
+#facs_126_r3l13 Da auch in solchem Wirths
+#facs_126_r3l14 Haus ein sicheres Magasin errichtet
+#facs_126_r3l15 worden, so können alle Waaren
+#facs_126_r3l16 und Effekten nach Belieben allda
+#facs_126_r3l17 abgelegt, und dem Wirth zur Ver¬
+#facs_126_r3l18 Wahrung übergeben werden, der
+#facs_126_r3l19 aber dafür gutstehen, und dem
+#facs_126_r3l20 Eigenthummer einen Empfang,
+#facs_126_r3l21 Schein der Waaren einhändigen
+#facs_126_r3l22 soll.
+#facs_126_r3l23 Der Wirth soll sich auch angelegen
+#facs_127_r2l1 seyn laßen, die ihm übersendeten
+#facs_127_r2l2 Waaren ungesäumt an ihre Schord¬
+#facs_127_r2l3 spedieren zu laßen.
+#facs_127_r2l4 Art: II.
+#facs_127_r2l5 Dar zum Tragen der Personen
+#facs_127_r2l6 vom landersteg bis in
+#facs_127_r2l7 Baden.
+#facs_127_r2l8 dazu erfordert es:
+#facs_127_r2l9 für eine mehr als gemeiniglich schwer
+#facs_127_r2l10 8. biß 10. Mann.
+#facs_127_r2l11 Person.
+#facs_127_r2l12 für eine middelmäßige 6 - 8.
+#facs_127_r2l13 für eine leichte 4.—6.
+#facs_127_r2l14 Einem jeden solchen Träger wird,
+#facs_127_r2l15 nebst 1/2. Maas Wein, 1. Pfund Käs,
+#facs_127_r2l16 und 1 bh. Brod, auch Zollfreyhaltung
+#facs_127_r2l17 beym Sichbarenbach, bezalt — 6ten 25.
+#facs_127_r2l18 Vom Landersteg bis zur Zauben¬
+#facs_127_r2l19 Erfordert es gleich viel Mann, noch
+#facs_127_r2l20 der Schbere der Person, und soll jeden
+#facs_127_r2l21 nebst obiger Portion an Wein,
+#facs_127_r3l1 249.
+#facs_127_r3l2 Käs und Prod bezahlt werden, bj 15.
+#facs_127_r3l3 Von der Dauben bis in das
+#facs_127_r3l4 Bad:
+#facs_127_r3l5 erfordert es nicht mehr als 4. bis 6.
+#facs_127_r3l6 Mann, da jedem derselben, beym
+#facs_127_r3l7 der Hin- und Herreife, nebst gleicher
+#facs_127_r3l8 portion an Wein, Käs und Brod,
+#facs_127_r3l9 auch Zollfreyhaltung, behalt wird bJ 20.
+#facs_127_r3l10 Art: III.
+#facs_127_r3l11 Max des Rertlohns für Mann,
+#facs_127_r3l12 und Pferd,
+#facs_127_r3l13 Vom Kandersteg bis an die D.
+#facs_127_r3l14 6/10.
+#facs_127_r3l15 Winteregg.
+#facs_127_r3l16 Van Kandersteg bis zum Sichbarenbach - 121.
+#facs_127_r3l17 Jur Lauben 20n
+#facs_127_r3l18 in das Par 32
+#facs_127_r3l19 nebst obenbemelter Portion Wein
+#facs_127_r3l20 Kus und Brod, auch Zollfreyhalt¬
+#facs_127_r3l21 nug, benn es in das Kind gehet.
+#facs_127_r3l22 Antl.
+#facs_128_r2l1 Art: IV
+#facs_128_r2l2 Lax des juhr und Tragerlohns
+#facs_128_r2l3 von Bagage.
+#facs_128_r2l4 von einer rechten Pferdladung
+#facs_128_r2l5 von 200 Pfund, von Kandersteg
+#facs_128_r2l6 bis in Raden, wird behalt, nebst
+#facs_128_r2l7 bj 32
+#facs_128_r2l8 1/2-
+#facs_128_r2l9 dem Zoll
+#facs_128_r2l10 Von allem Sagage, so von Kander¬
+#facs_128_r2l11 steg bis in Saden getragen oder
+#facs_128_r2l12 geführt wird, minder als 200. Pfund
+#facs_128_r2l13 an Gebicht, per Pfund ein Kreuzer.
+#facs_128_r2l14 Wer eigene oder außer dem
+#facs_128_r2l15 Amt gedingte Pferde hat, kann
+#facs_128_r2l16 nach Relieben pasieren. Der
+#facs_128_r2l17 aber deren im Amt gedinget hat,
+#facs_128_r2l18 der soll selbige im Kandersteg zu¬
+#facs_128_r2l19 rücklaßen, und sich daselbst mit
+#facs_128_r2l20 andern Pferden versehen, es seye
+#facs_128_r2l21 dann Sach, das deren an diesem
+#facs_128_r2l22 leztern Orte keine genugsame
+#facs_128_r2l23 Anzahl vorhanden bäre; welchen
+#facs_128_r2l24 falls er sich derer im Amt
+#facs_128_r3l1 251
+#facs_128_r3l2 gedingten Pferde ferners wird be¬
+#facs_128_r3l3 dienen können.
+#facs_128_r3l4 Art: V.
+#facs_128_r3l5 Tax des Reitlohns von Kandersteg
+#facs_128_r3l6 das Land hinab, für Mann
+#facs_128_r3l7 und Pferd, als
+#facs_128_r3l8 Von Kandersteg bis nach Frutigen bf. 10.
+#facs_128_r3l9 15.
+#facs_128_r3l10 Mühlung
+#facs_128_r3l11 30.
+#facs_128_r3l12 thun
+#facs_128_r3l13 nebst dem Unterhalt für Mann
+#facs_128_r3l14 und Pferd.
+#facs_128_r3l15 Art: VI
+#facs_128_r3l16 Pax des Fahrlohns mit
+#facs_128_r3l17 Wagen
+#facs_128_r3l18 Von jeder Person, mit Inbegriff
+#facs_128_r3l19 50 Pfund Tagage:
+#facs_128_r3l20 Von Kandersteg bis nach fautigen b 15.
+#facs_128_r3l21 Mühleng „ 20 „
+#facs_128_r3l22 Thun „ 30.
+#facs_128_r3l23 und kann nur eine Pferston
+#facs_129_r2l1 zu führen wäre, bis nach Thun B. 40.
+#facs_129_r2l2 für Beyrge von 200. Pfund, das
+#facs_129_r2l3 plieuse.
+#facs_129_r2l4 für das Kindere bis nach thun
+#facs_129_r2l5 von ein Pfund ein Kreuzer, so fern
+#facs_129_r2l6 er genugsame Ladung zusammen
+#facs_129_r2l7 gibt, an übrige Orte nach¬
+#facs_129_r2l8 proportion.
+#facs_129_r2l9 Allso von Unsern Gnädigen
+#facs_129_r2l10 Herren den Räthen der Stadt
+#facs_129_r2l11 und Republik seyn gutgeheißen,
+#facs_129_r2l12 und genehmiget, und zu jedermans
+#facs_129_r2l13 insbesonders aber zu der rei¬
+#facs_129_r2l14 den den Personen Wißenschafft
+#facs_129_r2l15 öffentlich durch den Druk bebaut
+#facs_129_r2l16 gemacht. Daben den 31ten
+#facs_129_r2l17 Merz 1790.
+#facs_129_r2l18 Ransley Bern.
+#facs_129_r2l19 Traduction
+#facs_129_r3l1 253
+#facs_129_r3l2 Fraduction.
+#facs_129_r3l3 Reglement
+#facs_129_r3l4 en faveur des personnes, qui
+#facs_129_r3l5 veulent se rendre de Kander,
+#facs_129_r3l6 steg aux bains de Leuck &
+#facs_129_r3l7 en Valay, en passant par le
+#facs_129_r3l8 mont Gemmi
+#facs_129_r3l9 Art: 1
+#facs_129_r3l10 Concernant les moyens.
+#facs_129_r3l11 Afin que les voyageurs trouvent
+#facs_129_r3l12 leur arrivée à Kandersteg, les
+#facs_129_r3l13 l'autre pieds d'hui aucune pouvre, commet dans le mois de
+#facs_129_r3l14 de
+#facs_129_r3l15 hommes & les chevaux necessaires
+#facs_129_r3l16 pour leurs personnes & leur ba¬
+#facs_129_r3l17 gage, dans leur passage du
+#facs_129_r3l18 mont Gemmi aux Cains de Vallay,
+#facs_129_r3l19 on a établi à cet effet, non – seule
+#facs_129_r3l20 ment les habitans du dit Kander
+#facs_129_r3l21 steg, mais aussi les ainsi només
+#facs_129_r3l22 Nithalfer/Portefraix :/ & les hôtes,
+#facs_129_r3l23 pour être egalement prêts à porter
+#facs_130_r2l1 Il a fait ici les chevaux requis¬
+#facs_130_r2l2 Et pour se pouvoir d'hommes
+#facs_130_r2l3 propos à Doravail, tous ceux
+#facs_130_r2l4 qui vous ont y être employés,
+#facs_130_r2l5 soit en qualité de porteurs &
+#facs_130_r2l6 de fournisseurs de chevaux, ou
+#facs_130_r2l7 de porteurs seulement, doivent
+#facs_130_r2l8 de rencontrer à l'Auberge neuve
+#facs_130_r2l9 tous les printemps, le 25. de
+#facs_130_r2l10 mars, jour de l'annonciation
+#facs_130_r2l11 où l'Aubergiste actuel elira
+#facs_130_r2l12 ceux qui en sont capables: il
+#facs_130_r2l13 les inscrira dans un rôle,
+#facs_130_r2l14 selon le rang qui leur sera
+#facs_130_r2l15 échu par le fort, et les em
+#facs_130_r2l16 ploiera dans l'occasion, aussi
+#facs_130_r2l17 selon leur rang.
+#facs_130_r2l18 Ceux qui veulent fournir des
+#facs_130_r2l19 chevaux & des chariots, doivent
+#facs_130_r2l20 aussi se presenter alors, ses
+#facs_130_r2l21 faire inscrire, & ensuite tirer.
+#facs_130_r3l1 255
+#facs_130_r3l2 leur rang au sort.
+#facs_130_r3l3 L'Aubergiste actuel de l'auberge
+#facs_130_r3l4 neuve, construite en faveur des
+#facs_130_r3l5 voyageurs, doit pourvoir à tous
+#facs_130_r3l6 les assangements nécessaires à
+#facs_130_r3l7 ce but. Les voyageurs doc¬
+#facs_130_r3l8 les
+#facs_130_r3l9 .
+#facs_130_r3l10 vent s'adresser à lui;
+#facs_130_r3l11 accords seront faits en sa pre¬
+#facs_130_r3l12 sence, & il devra apporter la
+#facs_130_r3l13 plus grande attention à ce que
+#facs_130_r3l14 le present Reglement soit fidelle,
+#facs_130_r3l15 Celui ou ceux qui
+#facs_130_r3l16 ment executé
+#facs_130_r3l17 y contreviendroient, ou qui ne se
+#facs_130_r3l18 conduiroient pas convenablement
+#facs_130_r3l19 envers les voyageurs, seront
+#facs_130_r3l20 rayés, pour cette année là, du
+#facs_130_r3l21 rôle, & n'auront aucune part
+#facs_130_r3l22 aux bénéfices.
+#facs_130_r3l23 En considération des soins
+#facs_130_r3l24 & des peines de l'aubergiste
+#facs_130_r3l25 des ses arrangement & de son
+#facs_131_r2l1 insPection, il lui sera loisible,
+#facs_131_r2l2 de fournir, à chaque occasion,
+#facs_131_r2l3 par préférence, deux hommes,
+#facs_131_r2l4 deux chevaux avec un chariot.
+#facs_131_r2l5 Les voyageurs, qui auront
+#facs_131_r2l6 recours à lui, devront lui payer
+#facs_131_r2l7 deux Kreutzers pour chaque
+#facs_131_r2l8 cheval avec un homme, & un
+#facs_131_r2l9 Kreatzer pour chaque homme
+#facs_131_r2l10 dont ils se serviront en qualité.
+#facs_131_r2l11 de porteurs.
+#facs_131_r2l12 S'ils veulent prendre avec
+#facs_131_r2l13 eux du bon vin sur la montagne,
+#facs_131_r2l14 sur la demande qu'ils en feront,
+#facs_131_r2l15 l'aubergiste sera tenu de le
+#facs_131_r2l16 leur procurer, et de le faire
+#facs_131_r2l17 transporter, au meme prix
+#facs_131_r2l18 qu'il en coute, pour une charge
+#facs_131_r2l19 Cordinaire de montagne.
+#facs_131_r2l20 Et come on a aussi construit
+#facs_131_r2l21 à cette Auberge, un magazin sur
+#facs_131_r3l1 257.
+#facs_131_r3l2 on peut y deposer, a son gré
+#facs_131_r3l3 ses marchandises & effets, &
+#facs_131_r3l4 les consigner à la garde de
+#facs_131_r3l5 l’aubergiste, qui en répond
+#facs_131_r3l6 & donne au proprietaire un
+#facs_131_r3l7 reçu de ce qu'on lui remet
+#facs_131_r3l8 L'aubergiste aura soin aussi,
+#facs_131_r3l9 d’expédier sans delais, les mari
+#facs_131_r3l10 chandises qui lui seront adres’
+#facs_131_r3l11 sées, aux lieux de leur destination
+#facs_131_r3l12 Artq: II
+#facs_131_r3l13 Taxe pour le transport des
+#facs_131_r3l14 personnes, de Kandersteg
+#facs_131_r3l15 jusques aux bains.
+#facs_131_r3l16 Ce qui exige,
+#facs_131_r3l17 Pour une personne au-dessus du
+#facs_131_r3l18 polds ordinaire de 8. a 10. hommes.
+#facs_131_r3l19 Pour une de poids moyen 6. à 8.
+#facs_131_r3l20 Pour une persone légère 4 a 6.
+#facs_131_r3l21 Outre une demi mesure de vin,
+#facs_132_r2l1 demi livre de fromage, & un bache
+#facs_132_r2l2 de pain, ainsi que l’affranchisse,
+#facs_132_r2l3 ment du péage à Schwarenbach,
+#facs_132_r2l4 on paiera à chacun de ces
+#facs_132_r2l5 porteurs 25 batz.
+#facs_132_r2l6 De Kandersteg jusqu’a
+#facs_132_r2l7 la Dauben.
+#facs_132_r2l8 Il faut le même le meme nombre
+#facs_132_r2l9 de porteurs, selon le poids des
+#facs_132_r2l10 personnes; & on payera a-
+#facs_132_r2l11 chacun, avec la meme ration
+#facs_132_r2l12 en vin, fromage & pain 15. lz.
+#facs_132_r2l13 De la Dauben jusques
+#facs_132_r2l14 aux Bains.
+#facs_132_r2l15 Il ne faut que 4. ou 6. homme
+#facs_132_r2l16 aux quels, vu l'allée et le re,
+#facs_132_r2l17 tour, on paiera, outre la même
+#facs_132_r2l18 ration, en vin, fromage, &
+#facs_132_r2l19 pain, ainsi que l'affranchissement
+#facs_132_r2l20 du peage 20 batz
+#facs_132_r3l1 259.
+#facs_132_r3l2 Art: III.
+#facs_132_r3l3 Taxe du louage des chevaux
+#facs_132_r3l4 tant pour le cheval que
+#facs_132_r3l5 pour l'home.
+#facs_132_r3l6 De Kandersteg, jusqu’à Winteregg lg. 10
+#facs_132_r3l7 Schwarenbach - 12½
+#facs_132_r3l8 20
+#facs_132_r3l9 „Dauben
+#facs_132_r3l10 aux Bains 32
+#facs_132_r3l11 avec la ration ci-dessus, en
+#facs_132_r3l12 fin, fromage & pain, ainsi que
+#facs_132_r3l13 l’affranchissement du peage, si
+#facs_132_r3l14 on va jusques aux bains.
+#facs_132_r3l15 Art: IV
+#facs_132_r3l16 Taxe des chariots & porte-
+#facs_132_r3l17 fraix pour les bagages:
+#facs_132_r3l18 Pour la charge d'un cheval, de
+#facs_132_r3l19 lb.200. de Kandersteg jusques aux
+#facs_132_r3l20 bains, on payera avec le péage
+#facs_132_r3l21 batz 32
+#facs_132_r3l22 Pour tous les pagages, qui
+#facs_133_r2l1 seront portés ou charies, de Kander-
+#facs_133_r2l2 steg jusques aux bains, au-dessous
+#facs_133_r2l3 de 200₤. on payera un Kreutzer
+#facs_133_r2l4 par livre pesant.
+#facs_133_r2l5 Quiconque se sert de son propre
+#facs_133_r2l6 cheval, ou d'un cheval loué hors
+#facs_133_r2l7 du bailliage, peut à sa volonté
+#facs_133_r2l8 continuer sa route: mais celui
+#facs_133_r2l9 qui en auroit loué dans le
+#facs_133_r2l10 baillage, doit le laisser a
+#facs_133_r2l11 Kandersteg, & s'y en pouvoir
+#facs_133_r2l12 d'un autre, à moins qu'il n'y
+#facs_133_r2l13 en eût pas dans cet endroit
+#facs_133_r2l14 en quantité suffisante; & dans
+#facs_133_r2l15 ce cas, il pourra continuer à
+#facs_133_r2l16 se servir des chevaux qu'il av-
+#facs_133_r2l17 roit loués dans le bailliage.
+#facs_133_r2l18 Arth.
+#facs_133_r3l1 261
+#facs_133_r3l2 Ortz: V.
+#facs_133_r3l3 Paxe d'un cheval de monture,
+#facs_133_r3l4 avec un homme, en descen¬
+#facs_133_r3l5 dant de Kandersteg:
+#facs_133_r3l6 savoir.
+#facs_133_r3l7 De Kandersteg jusqu’a Frontigen, batz 10
+#facs_133_r3l8 Muhlenen 15.
+#facs_133_r3l9 Thoune – 30
+#facs_133_r3l10 avec l'entretien de l'home & du cheval.
+#facs_133_r3l11 Art: VI.
+#facs_133_r3l12 Taxe du prix de voiture
+#facs_133_r3l13 en chariots:
+#facs_133_r3l14 Pour chaque persone, y compris
+#facs_133_r3l15 Ct 50 de bagage
+#facs_133_r3l16 De Kandersteg jusqu’à Troatigen batz
+#facs_133_r3l17 Muhlenen
+#facs_133_r3l18 Thoune
+#facs_133_r3l19 Mais s'il ne se trouvoit
+#facs_133_r3l20 qu'une seule personne à mener
+#facs_133_r3l21 jusqu’a Thoune
+#facs_133_r4l1 15
+#facs_133_r4l2 20
+#facs_133_r4l3 30
+#facs_133_r4l4 40 x
+#facs_134_r2l1 seront portés ou charies, de Kander-
+#facs_134_r2l2 steg jusques aux bains, au-dessous
+#facs_134_r2l3 de 200 m on payera un Kreutzer
+#facs_134_r2l4 par livre pesant.
+#facs_134_r2l5 Quiconque se sert de son propre
+#facs_134_r2l6 cheval, ou d'un cheval loué hors
+#facs_134_r2l7 du bailliage, peut à sa volonté
+#facs_134_r2l8 continuer sa route; mais celui
+#facs_134_r2l9 qui en auroit loué dans le
+#facs_134_r2l10 baillage, doit le laisser a
+#facs_134_r2l11 Kandersteg, & s'y en pouvoir
+#facs_134_r2l12 d'un autre, à moins qu'il ny
+#facs_134_r2l13 en eût pas dans cet endroit
+#facs_134_r2l14 en quantité suffisante; & dans
+#facs_134_r2l15 ce cas, il pourra continuer à
+#facs_134_r2l16 se servir des chevaux qu'il au-
+#facs_134_r2l17 roit loués dans le bailliage.
+#facs_134_r2l18 Arth
+#facs_134_r3l1 261.
+#facs_134_r3l2 Fol. 1
+#facs_134_r3l3 Paxe d'un cheval de monture,
+#facs_134_r3l4 avec un homme, en descen¬
+#facs_134_r3l5 dant de Kandersteg:
+#facs_134_r3l6 savoir.
+#facs_134_r3l7 De Kandersteg jusqu’a Frontigen, batz 10.
+#facs_134_r3l8 15
+#facs_134_r3l9 Muhlenen-
+#facs_134_r3l10 30
+#facs_134_r3l11 Thoune -
+#facs_134_r3l12 avec l'entretien de l'home & du cheval.
+#facs_134_r3l13 Art: VI
+#facs_134_r3l14 Taxe du prix de voiture
+#facs_134_r3l15 en chariots:
+#facs_134_r3l16 Pour chaque persone, y compris
+#facs_134_r3l17 té 50. de bagage:
+#facs_134_r3l18 De Kanderstag jusqu’à Frontigen batz
+#facs_134_r3l19 Muhlenen
+#facs_134_r3l20 Thoune
+#facs_134_r3l21 Mais s'il ne se trouvoit
+#facs_134_r3l22 qu'une seule personne a mener,
+#facs_134_r3l23 jusqu’a Thouné
+#facs_134_r4l1 15
+#facs_134_r4l2 20.
+#facs_134_r4l3 30
+#facs_134_r4l4 40
+#facs_135_r2l1 Quant aux bagages, le même prix
+#facs_135_r2l2 pour le 200. & en dessous, un
+#facs_135_r2l3 Receuizer la livre jusqu'a
+#facs_135_r2l4 Thouté, & à proportion pour
+#facs_135_r2l5 les autres endroits.
+#facs_135_r2l6 ainsi arrêté & approuvé, par
+#facs_135_r2l7 L.D.A.C. du Conseil de la Ville &
+#facs_135_r2l8 Republique de Berne & publié
+#facs_135_r2l9 pas dire d'impression, pour en
+#facs_135_r2l10 rendre sachant un chacun &
+#facs_135_r2l11 particulierement les voyageurs
+#facs_135_r2l12 Donne le 31e Mars 1790.

@@ -1,0 +1,155 @@
+Law ID: BER.01.001.1043
+Name: Wegen Pulver und Salpetergrabens.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 144/144
+# High similarity (>=50%): 136
+# Low similarity (<50%): 8
+# Not found: 0
+#
+#facs_160_r2l15 In die freyenischen Vermptluth
+#facs_160_r2l16 entzburg, Schenckenberg, Bäberstr.
+#facs_160_r2l17 Küngsfelden, und die Vier Städt
+#facs_160_r2l18 auch Erburg und Trachtse wol
+#facs_160_r2l19 uldthriß vnd Raht etc. Wir haben zwar
+#facs_160_r2l20 pr
+#facs_160_r2l21 schon zu vnderschiedenlichen mahlen bevelche¬
+#facs_160_r2l22 Vnsere Liebten vnd gethreuwen vnderthanen
+#facs_160_r2l23 y seyendo den Vfzug begriffen, oder sonst
+#facs_160_r2l24 Dossert deselben gezelt, mit krut von
+#facs_160_r2l25 lohl, harnisch vnd gewehr ie nach dem eine
+#facs_160_r2l26 Jeder Verlegt, stündtlich in solcher Beredtsche,
+#facs_160_r2l27 sein solle, damit in fahl er noth zu schicken
+#facs_160_r2l28 Und reitung des geliebte Vaterlandts
+#facs_160_r2l29 man sich Ihrer nützlich gebruchen könne
+#facs_160_r2l30 was aber ie von einer Tyth zur anderen
+#facs_160_r4l1 16
+#facs_160_r4l2 v
+#facs_160_r6l1 r
+#facs_160_r6l2 pr
+#facs_160_r6l3 bejaigt
+#facs_160_r6l4 angemelten
+#facs_160_r6l5 den schicken
+#facs_160_r6l6 als diß vnsern
+#facs_160_r6l7 leith ein oder
+#facs_160_r6l8 en wie auch des
+#facs_160_r6l9 anden damit
+#facs_160_r6l10 Vnser Stad eyn kaufft
+#facs_160_r6l11 chts vff dem Landt
+#facs_160_r6l12 soll vff angedeuber
+#facs_160_r6l13 fleychten, oder nit vidt
+#facs_160_r6l14 dans das alhie erkaufft
+#facs_160_r6l15 für wärschafft passiert.
+#facs_160_r6l16 kauffe ungelassen sein soll.
+#facs_160_r6l17 mit auch alle klagen vermeiden wird.
+#facs_160_r6l18 erthanen auch wo das pulver erkauffen,
+#facs_160_r6l19 wüssen mögendt.
+#facs_161_r2l1 wüsse mögendt, alß habend wir arth und staet
+#facs_161_r2l2 Da man daselbigen ins künfftig erkauffen
+#facs_161_r2l3 finden sol. hirmit ernamses namilii
+#facs_161_r2l4 Burgdorff, Langenthal, Brugh, Langnauw,
+#facs_161_r2l5 Chus, Vndersein, zwey sinnen, so auch Winn
+#facs_161_r2l6 vnd Frutigen verffechen soll, Sahnen
+#facs_161_r2l7 Widauw, Erlach, von Beneten 6. Die Darsten
+#facs_161_r2l8 beneichende fleysige Vfsicht zehaben, das das
+#facs_161_r2l9 zulver niemandt dan allein vnseren
+#facs_161_r2l10 anderthanen, reysenden vnd fürpassierenden
+#facs_161_r2l11 personen, vnd keineswegs frembden kramen
+#facs_161_r2l12 vnd fürkäuffere verkaufft werde,
+#facs_161_r2l13 vnd ist dabey vnser will, das du von
+#facs_161_r2l14 gemelten Vnseren Mittwohl vnndt
+#facs_161_r2l15 zügeherren Wilading, so vil thonen pulines,
+#facs_161_r2l16 als er die vbergeben wirt, abnemen
+#facs_161_r2l17 warsamlich vfhalten, vnd nach vnd na¬
+#facs_161_r2l18 seinen bestelten Factoren vff gebürender
+#facs_161_r2l19 Recepisse Zuuerkauffen eynlifer (öllenst
+#facs_161_r2l20 Dieweyl dann auch diser Salpeter vnd
+#facs_161_r2l21 pulverhandel meisern theils von den
+#facs_161_r2l22 vnderthanen Vnghorsamt wegen, welche
+#facs_161_r2l23 die Salpeter Graber mit Graben lassen
+#facs_161_r2l24 ders in allweg verhinderen, auch zu
+#facs_161_r2l25 zeijcten mit odersten schmachworwen, Ja auch
+#facs_161_r2l26 thädtlich angreyfften wellen verhindert wirt
+#facs_161_r2l27 So habend wir dir befelden wolle
+#facs_161_r2l28 Ehrengemelten Vnsern Zugherren vnndt
+#facs_161_r2l29 seinen besteliben wider dergleyche
+#facs_161_r2l30 fanghorsame personen (es seye mit
+#facs_161_r2l31 fürsechung holtzes oder Grabenshalt
+#facs_161_r2l32 befürderliche Hilffshandt zerpieten
+#facs_161_r2l33 Lananna, Moeser, Vivis, Jferdten
+#facs_161_r2l34 Pecherlingen, Millen, und Neuis.
+#facs_161_r3l1 Vnndt die strafwürdigen vnd Übertrettes
+#facs_161_r3l2 vnserer Mandaten vnd furwysender patenten
+#facs_161_r3l3 de nach stalt und beschaffenheit des fählern
+#facs_161_r3l4 vnd Vbertreckung, mit halbung gebürenden
+#facs_161_r3l5 vnderscheids der Iniurien vnd thättlichen
+#facs_161_r3l6 angreiffs, alleweg nach verhör beider
+#facs_161_r3l7 theilen, vermag vmb den ein vnd anderen
+#facs_161_r3l8 fahl verhandener Satzung, oder mit
+#facs_161_r3l9 berechtigung abdesraffen, oder
+#facs_161_r3l10 vermydung kostens dem eine von
+#facs_161_r3l11 anderen klagenden guet summarisis Recht
+#facs_161_r3l12 schalten, vnd die vnderthanen zu öffnung
+#facs_161_r3l13 Ihrer gehalten, so dieselben lär vnndt
+#facs_161_r3l14 unbräuchlich, zuuermögen, hingegen auch
+#facs_161_r3l15 wie Salgetergrauer zu Ihrer pflichb¬
+#facs_161_r3l16 vermög anzogner patenten, ernstflijsig
+#facs_161_r3l17 thalten, daß Vnsere Vnderthane
+#facs_161_r3l18 billiche klegten Gefuhren nit Vrsach habendt,
+#facs_161_r3l19 vnd wir daher ins Immerdar behelliget
+#facs_161_r3l20 werdirt. Das ist vnser will, vnndt
+#facs_161_r3l21 Wirstu dich darnach zurichten wüsse,
+#facs_161_r3l22 Demnach Dannethin die Jetzigen schwirigen leüssen
+#facs_161_r3l23 in der nachverschafft auch innerlich sich erzeigende
+#facs_161_r3l24 vnruheren vnd Kriegseinpörung, vndt dißmahlt
+#facs_161_r3l25 sonderliche Vrsach gebet, vff vnsern than¬
+#facs_161_r3l26 ein wachsbawes aug offen zuhaben, vnd vnß
+#facs_161_r3l27 vff allen nothfahl vor zubereiten u. So haben
+#facs_161_r3l28 wir keinen Umbgang nemen wollen. Das
+#facs_161_r3l29 hiemit alles ernsts zubefelchen, In geheimb
+#facs_161_r3l30 vnd aller stille, die v. züges vnd vbrige manschaft
+#facs_161_r3l31 gebietlich zeuermahnen, das sich vf allen nottfahl
+#facs_161_r3l32 en
+#facs_162_r1l1 Zmahnung gerust vnd bereit seggind
+#facs_162_r1l2 auch vff söllich und hin ein vneyngestelte visitatio
+#facs_162_r1l3 zethus, mit allein wit, und ob die vß Jüger
+#facs_162_r1l4 vnd vbrige menschafft, nach vnserem schienen
+#facs_162_r1l5 vnsechen vnd beueflich, mit Ihrer vferlegten wehres
+#facs_162_r1l6 vnd ein Jeder mit 6 pfunden bley, vndt
+#facs_162_r1l7 pfund aus puluer, auch nothwendigen
+#facs_162_r1l8 londern verschen seyn, Sondern auch was
+#facs_162_r1l9 vorplats die gemeinen in gleicherts enge¬
+#facs_162_r1l10 munition beyamen habend, demnach das
+#facs_162_r1l11 Meisgels vnd die vß Jüger, wo mangel
+#facs_162_r1l12 ein wirs, angsicht diß Vollkommen zuergenzen
+#facs_162_r1l13 Insonderheit die Zeichen, es seye des feüwers
+#facs_162_r1l14 nottschafft schickung oder loßschießen, als
+#facs_162_r1l15 in bereißschafft vnd bester Versoellung
+#facs_162_r1l16 zethun, den dafar im nothfahl kein mangel
+#facs_162_r1l17 geschyne, Volgendts vns dines Verrichtens
+#facs_162_r1l18 dem einer und anderen mit Vberschickung
+#facs_162_r1l19 einer specificierlichen Verzeichnuß ohne Verzicht
+#facs_162_r1l20 Jenerstendigen. Die weyl dann auch nit
+#facs_162_r1l21 mider nothwendig sein will, das wir auch
+#facs_162_r1l22 ein Vorerhat an Zündtstrecken habindt.
+#facs_162_r1l23 So befelchend wir wir das Jenige wärchen
+#facs_162_r1l24 und Flachskuder durch die Seiles dynes
+#facs_162_r1l25 verwalttung vff kauffen vnd Lundten
+#facs_162_r1l26 darauß machten erlassen: So du aber
+#facs_162_r1l27 keiner Seiler in dyner Verwaltung heilist
+#facs_162_r1l28 lijchwohl für dich alles das wärch, ist kaufft
+#facs_162_r1l29 vnd durch die benachparte Stiler ein anzahl
+#facs_162_r1l30 machen gelassen, vnd vns Zeuberschicken.
+#facs_162_r2l1 158
+#facs_162_r2l2 Außlich sindt wir entschlossen, ein tag vier zech¬
+#facs_162_r2l3 oder 3 Wuchen die Rhats khammeren aller
+#facs_162_r2l4 weltlichen wölhändlen halb beschlossen zehä¬
+#facs_162_r2l5 noch wendigkeitliche Standtssach obzulegen
+#facs_162_r2l6 derhalben so befelchend wie die, ein solche
+#facs_162_r2l7 -
+#facs_162_r2l8 zys lang von empfachung diß keine partheyen
+#facs_162_r2l9 bür uns gelassen, sonders anheimbsch gebehalten
+#facs_162_r2l10 vnd seyen hiemit Gott befolchen. Datum
+#facs_162_r2l11 15 februarij 1638

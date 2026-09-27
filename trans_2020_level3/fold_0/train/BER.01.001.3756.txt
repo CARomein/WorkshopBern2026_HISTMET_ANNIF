@@ -1,0 +1,168 @@
+Law ID: BER.01.001.3756
+Name: Die frömden fetten Schwein [...] ins Land zelassen.
+
+#facs_179_r1l1 318
+#facs_179_r1l2 Roietterte Rechnung
+#facs_179_r1l3 Tegen der teitschen Herren Ambtlütz¬
+#facs_179_r1l4 Pro anno 1739
+#facs_179_r1l5 Burgdorff
+#facs_179_r1l6 auff mitlahen den 14 an
+#facs_179_r1l7 Landthut
+#facs_179_r1l8 Sehdanp.
+#facs_179_r1l9 auff danstagden5 do
+#facs_179_r1l10 Harberg
+#facs_179_r1l11 Erlach
+#facs_179_r1l12 Montags den 49 do
+#facs_179_r1l13 Puchser
+#facs_179_r1l14 Crienisperg
+#facs_179_r1l15 Mitbachen den 2t d
+#facs_179_r1l16 Grentisperger
+#facs_179_r1l17 Baus
+#facs_179_r1l18 Korschern
+#facs_179_r1l19 Donstag den 22 do
+#facs_179_r1l20 N Johanser Haus
+#facs_179_r1l21 
+#facs_179_r1l22 Erachselwald
+#facs_179_r1l23 pp.
+#facs_179_r1l24 Montags den 26 do
+#facs_179_r1l25 Sumismald
+#facs_179_r1l26 Mitlochen den 28t do
+#facs_179_r1l27 Barwangzer
+#facs_179_r1l28 Nuchaften
+#facs_179_r1l29 Sonstgs den 2 do
+#facs_179_r1l30 Euterlaber Hans
+#facs_179_r2l1 249
+#facs_179_r2l2 Prandis
+#facs_179_r2l3 Montags den 2 Fefruarii
+#facs_179_r2l4 Bottstalt
+#facs_179_r2l5 helliswyl
+#facs_179_r2l6 Paupers
+#facs_179_r2l7 Mitbahen den 4. d
+#facs_179_r2l8 Diechenhaus
+#facs_179_r2l9 zweismen
+#facs_179_r2l10 Donstags den 5 do
+#facs_179_r2l11 Adnit.
+#facs_179_r2l12 Burgeren mitlg g do
+#facs_179_r2l13 Baubherr Von
+#facs_179_r2l14 St iohansen
+#facs_179_r2l15 Mitlochen den 41 do
+#facs_179_r2l16 Wirnisz.
+#facs_179_r2l17 Donstag den 12 do
+#facs_179_r2l18 N
+#facs_179_r2l19 Montags den 16 do
+#facs_179_r2l20 Biberstein
+#facs_179_r2l21 Aarburg
+#facs_179_r2l22 Millachen dn 18 de
+#facs_179_r2l23 grutigen
+#facs_179_r2l24 Graubronnen.
+#facs_179_r2l25 Sonstags den 19t do
+#facs_179_r2l26 Gulerlalen.
+#facs_179_r2l27 Moniags den 23 do
+#facs_179_r2l28 Enn
+#facs_179_r2l29 Mitbehan den 25 db
+#facs_179_r2l30 Besul.
+#facs_180_r2l1 Alelesten
+#facs_180_r2l2 Constags 26 do
+#facs_180_r2l3 Saanen
+#facs_180_r2l4 Schenlenberg
+#facs_180_r2l5 Montags den 2 Martii
+#facs_180_r2l6 Castelen
+#facs_180_r2l7 Buren
+#facs_180_r2l8 
+#facs_180_r2l9 Mitbachen den 2
+#facs_180_r2l10 Verhoffen.
+#facs_180_r2l11 Signauw
+#facs_180_r2l12 d
+#facs_180_r2l13 Donstags den 3
+#facs_180_r2l14 Wangen
+#facs_180_r2l15 Mantars den 9 do
+#facs_180_r2l16 Cpeberg
+#facs_180_r2l17 ablen.
+#facs_180_r2l18 mitbahen den 1t do
+#facs_180_r2l19 Zoffinaen
+#facs_180_r2l20 Donstags den 12 do
+#facs_180_r2l21 Brtsburg
+#facs_180_r2l22 Konigsselderr Matags den 16 do
+#facs_180_r2l23 Proosi ittahl. donstags den 19 do
+#facs_180_r3l1 351
+#facs_180_r3l2 Egenschung
+#facs_180_r3l3 der herren Ambtleüthen Wilsche Lands
+#facs_180_r3l4 zu Ablag der Rechnungen auß bster
+#facs_180_r3l5 1739
+#facs_180_r3l6 Abrencl.
+#facs_180_r3l7 Rehung frsten 6
+#facs_180_r3l8 Wiblissung
+#facs_180_r3l9 Vellerlergen sehenstig
+#facs_180_r3l10 d rehnung frstig de 18
+#facs_180_r3l11 bron
+#facs_180_r3l12 1
+#facs_180_r3l13 
+#facs_180_r3l14 9 Rehrung lenstig den 1
+#facs_180_r3l15 Reubenstatt
+#facs_180_r3l16 1
+#facs_180_r3l17 1 rchnung fürfa 1 26
+#facs_180_r3l18 I Weinschen
+#facs_180_r3l19 5 Rehrung Sonstegd lt
+#facs_180_r3l20 Weilden.
+#facs_180_r3l21 abrrihnung.
+#facs_180_r3l22 fichgen
+#facs_180_r3l23 d Rechnung
+#facs_180_r3l24 3sfectn
+#facs_180_r3l25 5 Rechnung Sonstags d 28
+#facs_180_r3l26 Vivis
+#facs_180_r3l27 Martius
+#facs_180_r3l28 b rahnung frsged
+#facs_180_r3l29 aubonne
+#facs_180_r3l30 2 rechenung samstag den 7ten
+#facs_180_r3l31 Lausanne.
+#facs_180_r3l32 3 nechnung freytig den 19
+#facs_180_r3l33 Pespre.
+#facs_181_r1l1 352
+#facs_181_r1l2 Nacle
+#facs_181_r1l3 3 Rechenng Rrilsag
+#facs_181_r1l4 Bonmont
+#facs_181_r1l5 lahung frglagt den 26
+#facs_181_r1l6 Mrsl
+#facs_181_r1l7 abrechuung
+#facs_181_r1l8 Pomainmoslier
+#facs_181_r1l9 Sambstag e
+#facs_181_r1l10 d kechnung
+#facs_181_r1l11 at
+#facs_181_r1l12 Alle Reutize und Walsze Ambtleuth Pier Stadt
+#facs_181_r1l13 Beiybeibel und Aman Item per redel
+#facs_181_r1l14 anlantzel sin auch ver Placard an
+
+#facs_181_r1l15 degebohnte Ohrt die Franden
+#facs_181_r1l16 Gatten Shlein ton Dats an
+#facs_181_r1l17 biß sach vorstehendem
+#facs_181_r1l18 Ostemankt 1739id
+#facs_181_r1l19 landzlaßen.
+#facs_181_r1l20 Schltheiß Rätt und Burger etc.
+#facs_181_r1l21 nbellen durch vnses Judrt et 2
+#facs_181_r1l22 julii 1718 in oßfenend truck außgegebens
+#facs_181_r1l23 Thandat be die Einfuhr frömder Schleinen
+#facs_181_r2l1 353
+#facs_181_r2l2 in unser Land bey Contiocation und
+#facs_181_r2l3 annoch außgesezter bestraftingterpirthen
+#facs_181_r2l4 laßen, So findend iedennoch, in Bidenben
+#facs_181_r2l5 hünrigen jahrs die kaum und andere brichte
+#facs_181_r2l6 wie nichtleniger das acherumb fehlgrschlagen
+#facs_181_r2l7 zu Alhebung besörgender allzu starcken thurnng
+#facs_181_r2l8 im verhaußf der schleinend und damit selbige
+#facs_181_r2l9 vonjenigend persehnend, so daran nöthig habend
+#facs_181_r2l10 möchten, mbillichen Preiserhandlitberden
+#facs_181_r2l11 mögen ans bemüßiget von mnen bißnach
+#facs_181_r2l12 torstehendem ostermarirt deß 1739 jahr den
+#facs_181_r2l13 hetten frandend Schweinen die Einbringung
+#facs_181_r2l14 in ansere landliemit zu verlälligen, und
+#facs_181_r2l15 sollendjenigend persohnend, so von außenhero
+#facs_181_r2l16 selbige in unserr land sund Verkauff
+#facs_181_r2l17 anhero ferggenburdend andurch tergenseiget
+#facs_181_r2l18 habend behrend obhrnantes zeit selbe darinn
+#facs_181_r2l19 sentlich feil halten und verköuffen zekömmen.
+#facs_181_r2l20 deßen de berichtet und befeuchnet biesen solch
+#facs_181_r2l21 unser tinsezen zu mäniglicher Nachricht
+#facs_181_r2l22 ostentlichton Cantzlen verbünden zulaßen
+#facs_181_r2l23 wir znthun lie venbirst gott mit die
+#facs_181_r2l24 Datum den 22 novembris 1788
+END

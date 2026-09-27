@@ -1,0 +1,30 @@
+Law ID: BER.01.001.1262
+Name: Wegen inficierten und geraubten Veichs.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 19/19
+# High similarity (>=50%): 18
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_91_r3l1 Chim, Winnis, Frutigen, Trachsellwaldt, Sramiß
+#facs_91_r3l2 signam, Lauppen, Arberg, Nydaun, Erlach Güre,
+#facs_91_r3l3 Burgdorfs, xyz angeschwungen, Bipp. Arbur
+#facs_91_r3l4 fürsehung wegen inficierten und geraubten Reichs
+#facs_91_r3l5 1
+#facs_91_r3l6 Bathalter vnnd Raht der Stadt Bern
+#facs_91_r3l7 Vber gegen ums beschechne nit vnnötige Erinnerung
+#facs_91_r3l8 haben und wir bei dismaliger hin- und herführung des
+#facs_91_r3l9 Reichs, die anstalt ergehenJelasßen, ein Noturftl, an
+#facs_91_r3l10 befunden, daß an deninfessen, Bruggen, vnd Zollstetten
+#facs_91_r3l11 kein Reich durchgelasßen werden solle, ohne gnugsamen
+#facs_91_r3l12 schein, oder beglaubtes Wohrzeichen, von was ohrten her¬
+#facs_91_r3l13 es kaufft vnnd gebracht werde: Damit beides den
+#facs_91_r3l14 verspürten diebstalen vndt entführungen des Reichs
+#facs_91_r3l15 Wie zugleich der Gemeinschafft, vnd dem schaden des
+#facs_91_r3l16 gebresteins dardurch vorgebogen werden möge. Die¬
+#facs_91_r3l17 hiemit befelhende, dich solchem nach, mit Nohtwendiger
+#facs_91_r3l18 Verordnung hinder dir, gemes zeuerhalten. Wie
+#facs_91_r3l19 wie uns versehend. Dat. 8. Octob. 1662.

@@ -1,0 +1,44 @@
+Law nr: BER.01.001.4536
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 32/32
+# High similarity (>=80%): 26
+# Low similarity (<80%): 6
+# Not found: 0
+#
+#facs_3_region_1627936339514_16l1 1
+#facs_32_r5l20 Hauzen, hiesige rothgenben Meisterschaft, Burgdorf,
+#facs_32_r5l21 Wangen, Leipz, Zofingen, Aram Nydau, Arberg
+#facs_32_r5l22 Euren und Erlach
+#facs_32_r5l23 Rothgarten von Viel, kauen hiesige Jahr Maakt besuchen
+#facs_32_r5l24 Wir haben bereits
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_7_r2l12 18
+#facs_12_r8l1 19
+#facs_33_r3l1 unterm 28. März 1747. zu Bezeigung
+#facs_33_r3l2 Unserer freundnachbarlichen Gelegenheit
+#facs_33_r3l3 beliebet, von Unserer in Ao. 1739. einem
+#facs_33_r3l4 Läder Ordnung, zu gonsten der Rothgirbe¬
+#facs_33_r3l5 Meisterschaft zu Biel, gegen Beobachtung
+#facs_33_r3l6 des Recipidey, für unsere Bürger und
+#facs_33_r3l7 Angehörige dieser Profeßion, eine Ausnahme
+#facs_33_r3l8 zu machen, doch mit dem Beding, daß
+#facs_33_r3l9 unter Anweisung hinlänglicher authentische
+#facs_33_r3l10 Zeugnißen, daß ihre Lädenwar von
+#facs_33_r3l11 ihnen selbst hinter Biel fabriciert worden,
+#facs_33_r3l12 die Bieler die offenen Jahr Märbte Unserer
+#facs_33_r3l13 Landen mit derselben besuchen köne,
+#facs_33_r3l14 Aus diese Ausnahm über Unsere den
+#facs_33_r3l15 3ten März 1775. einamerte neue Lüder
+#facs_33_r3l16 Ordnung unterem 18ten Jan. 1777. wieder
+#facs_33_r3l17 holt seines Orts bebaut gemacht; Nun
+#facs_118_r1l12 werdet Ihr solches Eüerein amtlichen
+#facs_33_r3l19 bemelter Zeit nicht geschehen, in die
+#facs_33_r3l20 Schloßbücher einschreiben lassen. Datl.
+#facs_31_r3l4 d. 3e May 1783.
+#facs_83_r3l6 en
+#facs_28_r4l1 Coll

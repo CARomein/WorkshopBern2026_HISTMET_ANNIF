@@ -1,0 +1,41 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 33/34
+# High similarity (>=80%): 31
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4489
+#facs_213_r4l7 Verbott der Ausfuhr allerhand des Früchten.
+#facs_213_r4l1 „ 517.
+#facs_59_r4l7 Alle Teütsche Herren Amtleint, 4. Städt, Freybeibel
+#facs_213_r4l4 Petterlingen, Oron, Vitis, Ählen, Lausane, Mörsel
+#facs_213_r4l5 Neüs, Romainmotier, Ifferten Anbonna, Bonmont-
+#facs_213_r4l6 Item 4. Städt, Freyweibel und Ammann
+#facs_213_r4l7 Verbott der Ausfuhr allerhand des Früchten.
+#facs_7_region_1629821295051_30l1 Schultheiß und Rahts
+#facs_213_r4l9 Da Uns hinterbracht worden, daß von Unser
+#facs_213_r4l10 Angehörigen und Unterthanen, allerhans Erd
+#facs_213_r4l11 Früchte und sonderheitlich Herdapfel, von Zeit
+#facs_213_r4l12 zu Zeit an Außere und Fremde Verkaufft¬
+#facs_213_r4l13 und aus dem Land geführt werden, dardurch
+#facs_213_r4l14 dann ein zimlicher Mangel an diesen nohtwen
+#facs_213_r4l15 digen Lebens Mutlen, sich erzeigen könte, wann
+#facs_213_r4l16 deme nicht in Zeiten vorgebogen wurde; So
+#facs_213_r4l17 haben Wir aus Landes vätterlicher Vorsorg zum
+#facs_213_r4l18 besten Unserer Angehörigen bewogen, Euch hie¬
+#facs_213_r4l19 mit befelchlich auftragen wollen, in Euerein
+#facs_213_r4l20 Amt /: Bezirb :/ Mäniglich verbieten zu laßen
+#facs_213_r4l21 keine ErdApfel, und andere dergleichen Erd¬
+#facs_213_r4l22 Früchte, bey Confiscation derselben aus Unsern
+#facs_213_r4l23 Landen zu verbauffen, und auszuführen
+#facs_213_r4l24 Ihr werdet demmenach auf die Fehlbaren
+#facs_213_r4l25 genaue Acht bestellen lasen, mit Hand¬
+#facs_213_r4l26 obhalten, daß diesem Unserem Willen
+#facs_27_r5l1 51.
+#facs_2_r1l2 Al
+#facs_214_r1l3 Ist doselt eingelangt
+#facs_214_r1l4 Tehet hiebeo pag
+#facs_214_r2l1 ein Volliges genügen geleistet werde.
+#facs_214_r2l2 Datl. den 26t Octobl. 1780.
+#facs_178_r8l1 en

@@ -1,0 +1,40 @@
+Law ID: BER.01.001.3039
+Name: Die Walliser Müntz abruffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 29/29
+# High similarity (>=50%): 27
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_202_r1l1 390.
+#facs_202_r1l2 Collath
+#facs_202_r2l1 Aslen, Chillon, Lausanne,
+#facs_202_r2l2 kow, Milden, Sänen, zweysinnen,
+#facs_202_r2l3 Frutigen, Wimmis.
+#facs_202_r2l4 Die Walliser Müntz abruffen.
+#facs_202_r2l5 Schultheiß und Rath der Statt Beruf
+#facs_202_r2l6 Nachdeme Wir die in Walliß neu geprägete
+#facs_202_r2l7 funff Bätzen, wie auch gantz und halbe batz
+#facs_202_r2l8 auf die Rech frob setzen laßen, und befun¬
+#facs_202_r2l9 den, daß sie zu geringhälltig seyen, habend
+#facs_202_r2l10 Wir zuvorkommung des sonsten darauß Ent¬
+#facs_202_r2l11 -
+#facs_202_r2l12 stehenden Landschadens sothane Neüen
+#facs_202_r2l13 Walliger Jünstbätzler auf vier und ein
+#facs_202_r2l14 halben batzen, die gantzen Batzen aber auf
+#facs_202_r2l15 dreyfreizer, und die halben auf eine
+#facs_202_r2l16 Amerner schilling gesetzt, so daß diese münten
+#facs_202_r2l17 in Unseren Landen nicht höcher abgenommen
+#facs_202_r2l18 1
+#facs_202_r2l19 noch außgegeben werden soll: deßen
+#facs_202_r2l20 Wir dich gleich andere grentz Amptleüth¬
+#facs_202_r2l21 hiemit berichten wollen, mit dem Auß-
+#facs_202_r2l22 Trukenlichen befelch, solch Unser Einse¬
+#facs_202_r2l23 nicht allein von Cantzlen verlesen, sondern
+#facs_202_r2l24 ren auch zu jedermäncklichs Nachricht
+#facs_202_r2l25 an gewohnten Orthen anschlagen zelaßen:
+#facs_202_r2l26 Wie zethun büßen wirst, xxx mit dir¬
+#facs_202_r2l27 Dats den. 12. Decembris. 1710.

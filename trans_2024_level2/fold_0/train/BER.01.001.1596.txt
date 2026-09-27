@@ -1,0 +1,48 @@
+Law ID: BER.01.001.1596
+Name: Wegen Anstellung der Spächen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 37/37
+# High similarity (>=50%): 32
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_314_r3l1 An Alle nechst by Lucern Freiburg, undt
+#facs_314_r3l2 Solothurn geseßne Ambtlent, Als¬
+#facs_314_r3l3 Trachselwald
+#facs_314_r3l4 Arburch
+#facs_314_r3l5 Sanen
+#facs_314_r3l6 Vignauw.
+#facs_314_r3l7 Manged.
+#facs_314_r3l8 Lucern.
+#facs_314_r3l9 Vimj.
+#facs_314_r3l10 Rentzburg Solothum
+#facs_314_r3l11 Arwangen
+#facs_314_r3l12 weisime
+#facs_314_r3l13 Freiburg
+#facs_314_r3l14 Bipp
+#facs_314_r3l15 Touvyen
+#facs_314_r3l16 Wiblisburg
+#facs_314_r3l17 Frauwbrunnen
+#facs_314_r3l18 Rätterlingen
+#facs_314_r3l19 Landtshuf
+#facs_314_r3l20 Nijdauw
+#facs_314_r3l21 Milden
+#facs_314_r3l22 Büren,
+#facs_314_r3l23 Chillion
+#facs_314_r3l24 Alex
+#facs_314_r3l25 Wegen anstellung der Spächen
+#facs_314_r3l26 MARINE ET this
+#facs_314_r3l27 x
+#facs_314_r3l28 Schuldtheiß vndt Raht der Statt Bern etc.
+#facs_314_r3l29 11
+#facs_314_r3l30 Bÿ gegenwurtigen bekanten löuffen
+#facs_314_r3l31 Ist Vnser nochmaliges ernstliches gesinnen hiemit an dich allen müglichsten
+#facs_314_r3l32 fleiß anzewenden gewüße vndt sichere Kundtschafften, vff vnseren
+#facs_314_r3l33 Widerwertigen, die Catholisch genanten Ort sonderlich gegen N. zebestellen,
+#facs_314_r3l34 auch sonsten geflißne Vffsicht vff ihre actionen zuhalten, Vndt Interweib
+#facs_314_r3l35 alles deßen so du brichtwürdiges einbringen kanst, by tag undt
+#facs_314_r3l36 macht vns zuberichten, wie wir vns versechend. Datum 5. Januar
+#facs_314_r3l37 * 656

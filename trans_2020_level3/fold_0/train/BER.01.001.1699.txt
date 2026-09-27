@@ -1,0 +1,19 @@
+Law ID: BER.01.001.1699
+Name: Umb Verbesserung der Strassen.
+
+#facs_36_r4l1 65
+#facs_36_r4l2 Ostermundigen Muri Buchsel Hrienisperg,
+#facs_36_r4l3 laupen stifft waderen bele umb verbeße,
+#facs_36_r4l4 rung der straßen
+#facs_36_r4l5 schuldtheiß undtraht dises langwirige pägenwatter halt
+#facs_36_r4l6 die straßen so tieff undtsumpfig gemachtet, daß dieselben
+#facs_36_r4l7 ohtwendiger maßen verbeßeret undt gungbar gemachet
+#facs_36_r4l8 werden müßen, daher wie die hiemit bevelchen wellen
+#facs_36_r4l9 In deiner verwaltung ze thun, das aller nohtwendige
+#facs_36_r4l10 heten die tieffen straßen erfült undt also verbeßeret
+#facs_36_r4l11 werdind, das man solche ohne gejahr undt ungemach brauchen
+#facs_36_r4l12 könne darzu dann nit minder die abschneidung des esen
+#facs_36_r4l13 undt gestürdts nohtwendig sein will. darnach weistu nun
+#facs_36_r4l14 stattung des einten undtanderen bei gewohnter
+#facs_36_r4l15 zuverschaffen. Datu 13. septembris 1659
+END

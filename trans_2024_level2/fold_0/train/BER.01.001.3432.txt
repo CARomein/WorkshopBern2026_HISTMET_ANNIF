@@ -1,0 +1,234 @@
+Law ID: BER.01.001.3432
+Name: Wegen dess frembden Bettel- und Strolchengesindts.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 223/223
+# High similarity (>=50%): 209
+# Low similarity (<50%): 14
+# Not found: 0
+#
+#facs_85_r3l8 Ausschreibung
+#facs_85_r3l9 der T. und W. H.r Ambtleüthen Rechnungs¬
+#facs_85_r3l10 Ablagen pro anno 1724.
+#facs_85_r3l11 Buchsee? Dinstags den 1. Februar
+#facs_85_r3l12 Landtshut
+#facs_85_r3l13 Burgderst Mitwochens den 2. dto
+#facs_85_r3l14 Heltißwyl
+#facs_85_r3l15 Arberg, Donstags den 3. dto.
+#facs_85_r3l16 Buten,
+#facs_85_r3l17 St. Johanßen, dreyfags den 4. dto.
+#facs_85_r3l18 Erlach,
+#facs_85_r3l19 Morser, Abrechnung, Sonnstags den 4ten dt.
+#facs_85_r3l20 7. dto
+#facs_85_r3l21 Laupen, Montags den
+#facs_85_r3l22 Nydauli,
+#facs_85_r3l23 8. dto
+#facs_85_r3l24 Thorberg, Dinstags den
+#facs_85_r4l1 165
+#facs_85_r4l2 Bipp,
+#facs_85_r4l3 Mitwochens den 9. februarij
+#facs_85_r4l4 gangen,
+#facs_85_r4l5 10. dto.
+#facs_85_r4l6 Aarlangen, dasstags den
+#facs_85_r4l7 Wiblisburg, Sambstags den 12. dto.
+#facs_85_r4l8 14. dto.
+#facs_85_r4l9 Groß Spithal, Montags den
+#facs_85_r4l10 Kornherr,
+#facs_85_r4l11 St. Johan̄sterhaus? Dinstags den 15. dto
+#facs_85_r4l12 auß Mitwochen den 16. dto
+#facs_85_r4l13 Indterlaten,
+#facs_85_r4l14 Brienisberger¬
+#facs_85_r4l15 0
+#facs_85_r4l16 17. dto.
+#facs_85_r4l17 den
+#facs_85_r4l18 Thun, Donstag
+#facs_85_r4l19 18. dto
+#facs_85_r4l20 1.°
+#facs_85_r4l21 Beytags den
+#facs_85_r4l22 Erelterlingen
+#facs_85_r4l23 to
+#facs_85_r4l24 „ 19
+#facs_85_r4l25 Oron,
+#facs_85_r4l26 Samstags den
+#facs_85_r4l27 Neüenstalt,
+#facs_85_r4l28 Montags den 21. dto.
+#facs_85_r4l29 Goltstalt,
+#facs_85_r4l30 signante,
+#facs_85_r4l31 Brienisberg, dinstags den 22. dto
+#facs_85_r4l32 23. dto.
+#facs_85_r4l33 Sumiswald, Mitwochens des
+#facs_85_r4l34 Donstags den 24 dto
+#facs_85_r4l35 Brandis
+#facs_85_r4l36 Oberhoffen,
+#facs_85_r4l37 Lausane, Kreytags den 25. dto.
+#facs_85_r4l38 26. dto
+#facs_85_r4l39 Morlin Samstags den
+#facs_85_r4l40 Montags den 28. x
+#facs_85_r4l41 raubrennen
+#facs_85_r4l42 Muschaffen,
+#facs_86_r2l1 29. Febr.
+#facs_86_r2l2 Siechenhaus Dinstags den
+#facs_86_r2l3 ten Marty
+#facs_86_r2l4 brutigen, Mitwochens den
+#facs_86_r2l5 Wimmis,
+#facs_86_r2l6 to
+#facs_86_r2l7 Bauldherr von Bürgeren, dastags den 2.
+#facs_86_r2l8 to
+#facs_86_r2l9 3.
+#facs_86_r2l10 Milden, Hrytags den
+#facs_86_r2l11 Dto
+#facs_86_r2l12 +
+#facs_86_r2l13 11
+#facs_86_r2l14 pferten, Samstags den
+#facs_86_r2l15 6. dto.
+#facs_86_r2l16 Indterlaten
+#facs_86_r2l17 Montags den
+#facs_86_r2l18 Vnd terseen,
+#facs_86_r2l19 8. dto.
+#facs_86_r2l20 1.
+#facs_86_r2l21 ählen, Mitwochens den
+#facs_86_r2l22 9. dto.
+#facs_86_r2l23 Insul, dorstags den
+#facs_86_r2l24 10. dto.
+#facs_86_r2l25 Rillon, Hrytags den
+#facs_86_r2l26 11. Pto.
+#facs_86_r2l27 11
+#facs_86_r2l28 Remainmotier, Samstags der
+#facs_86_r2l29 13. dto.
+#facs_86_r2l30 Hoffingen, Montags den
+#facs_86_r2l31 15. dto
+#facs_86_r2l32 Stigfft, Mitwochens den
+#facs_86_r2l33 16 dto
+#facs_86_r2l34 Tractelwald, darstags den
+#facs_86_r2l35 18. dto.
+#facs_86_r2l36 Neülos, Samstags den
+#facs_86_r2l37 20
+#facs_86_r2l38 29. dto
+#facs_86_r2l39 Pibersteyn, 1. Montags den
+#facs_86_r2l40 Arburg,
+#facs_86_r2l41 22 3to
+#facs_86_r2l42 Saauen, Mitwochens den
+#facs_86_r2l43 zweyfimmen
+#facs_86_r2l44 23. dto
+#facs_86_r2l45 Bonmont, dorstags den
+#facs_86_r2l46 24. dto
+#facs_86_r2l47 W. Wynschenk, Trytags den
+#facs_86_r4l1 167
+#facs_86_r4l2 Schentenberg, Montags de,
+#facs_86_r4l3 27. Marty
+#facs_86_r4l4 29. No
+#facs_86_r4l5 Aentzburg, Mitwochens des
+#facs_86_r4l6 Königs Felden, dienstags den 30. dto.
+#facs_86_r4l7 — 1ten aptilis.
+#facs_86_r4l8 Aubonne, Sonnstags den
+#facs_86_r4l9 An Alle T. Ambtleüth, vier
+#facs_86_r4l10 Stätt, Frey Weibel und Ammann
+#facs_86_r4l11 Wegen deß frembden Bettel, und Stoolchen
+#facs_86_r4l12 Gesindts
+#facs_86_r4l13 Schultheis und Raht
+#facs_86_r4l14 ohngelicht mehrmähliger vnserer heylsamen
+#facs_86_r4l15 Verordnung des Äußeren und frembden Gettel
+#facs_86_r4l16 und Strolchen-Gesindts müßen wir dennoch
+#facs_86_r4l17 ersehen, das darüber nicht alle Geflissenheit
+#facs_86_r4l18 bezeüget, sondern die bewerbstelligung derselben
+#facs_86_r4l19 Vndterlassen, und Immerforth dises Mättell,
+#facs_86_r4l20 und Strolchengesind durch das Land geführt,
+#facs_86_r4l21 wirdt; dahero wir für nöhtig angesehen,
+#facs_86_r4l22 dir /: gleich übrigen Ambtleüthen Teüthen Lands
+#facs_86_r4l23 hiemit ernstmeinend zu befehlen, daß
+#facs_86_r4l24 solches Gesind nicht durchs Land, sondern ferner
+#facs_87_r2l1 29. febr.
+#facs_87_r2l2 Siechenhaus Dinstags den
+#facs_87_r2l3 tn Marty
+#facs_87_r2l4 4
+#facs_87_r2l5 thrutigen, Mitwochens den
+#facs_87_r2l6 Winnis,
+#facs_87_r2l7 Bauldherr von Bürgeren, dasstags den 2. dto
+#facs_87_r2l8 dto
+#facs_87_r2l9 3
+#facs_87_r2l10 Milden, Hrytags den
+#facs_87_r2l11 4. dto.
+#facs_87_r2l12 11
+#facs_87_r2l13 pferten, Samstags den
+#facs_87_r2l14 6. dto.
+#facs_87_r2l15 Indterlaken
+#facs_87_r2l16 Montags den
+#facs_87_r2l17 Vndterseen,
+#facs_87_r2l18 8. dto.
+#facs_87_r2l19 11.
+#facs_87_r2l20 ählen, Mitwochens den
+#facs_87_r2l21 9. dto.
+#facs_87_r2l22 Insul, dorstags den
+#facs_87_r2l23 10. dto.
+#facs_87_r2l24 Millon, Hrytags den
+#facs_87_r2l25 11. dto.
+#facs_87_r2l26 1
+#facs_87_r2l27 Remainmötier, Samstags den
+#facs_87_r2l28 13. dto
+#facs_87_r2l29 n°
+#facs_87_r2l30 Hoffingen, Montags den
+#facs_87_r2l31 15. dto.
+#facs_87_r2l32 "
+#facs_87_r2l33 Stiefft, Mitwochens den
+#facs_87_r2l34 16 dto
+#facs_87_r2l35 Trachtelwald, darstags den
+#facs_87_r2l36 18. do.
+#facs_87_r2l37 Neüldes, Samstags dem
+#facs_87_r2l38 2
+#facs_87_r2l39 29 dto
+#facs_87_r2l40 Pibersteyn, 1. Montags den
+#facs_87_r2l41 Arburg,
+#facs_87_r2l42 22 dto
+#facs_87_r2l43 Saauen, Mitwochens den
+#facs_87_r2l44 werfinnen.
+#facs_87_r2l45 23. dto.
+#facs_87_r2l46 Sonmont, Donstags den
+#facs_87_r2l47 24. dto.
+#facs_87_r2l48 Sr. Wynschenk, Trytags den
+#facs_87_r4l1 167
+#facs_87_r4l2 27. Marty
+#facs_87_r4l3 Schenfenberg, Montags de¬
+#facs_87_r4l4 29. dto
+#facs_87_r4l5 Lentzburg, Mitwochens des
+#facs_87_r4l6 30. 9to
+#facs_87_r4l7 Königsfelden, dienstags den
+#facs_87_r4l8 Aubonne, Sonnstags den —  1ten Aprilis
+#facs_87_r4l9 An Alle T: Ambtleüth, vier
+#facs_87_r4l10 Stätt, Frey Weibel und Ammon
+#facs_87_r4l11 Wegen deß frembden Bettel, Vnd Strolchen,
+#facs_87_r4l12 Gesindts
+#facs_87_r4l13 Schultheis und Raht
+#facs_87_r4l14 zugeAcht mehrmahliger Vnserer heylsamen.
+#facs_87_r4l15 Verordnung des Äußeren und frembden Zettel
+#facs_87_r4l16 im Strolchen-gesindts müssen wir dennoch
+#facs_87_r4l17 ersehen, daß darüber nicht alle Geflissenheit
+#facs_87_r4l18 bezeuget, sondern die bewerkstelligung derselben
+#facs_87_r4l19 Vndterlaßen, und Immerforth dises Mättell,
+#facs_87_r4l20 und Strolchen gesund durch das Land geführt
+#facs_87_r4l21 birdt; dahero Wir für Nöhtig angesehen
+#facs_87_r4l22 Dir (gleich übrigen Ambtleüthen Teüthen Lands)
+#facs_87_r4l23 hiemit Ernstmeinend zu befehlen, daß
+#facs_87_r4l24 solches Gesund nicht durchs Land, sondernstener
+#facs_88_r2l1 Dider darauß gegen Ihr Heymath geführt.
+#facs_88_r2l2 werden solle; undt so eint- oder andere
+#facs_88_r2l3 Gemeind dise Unsere Verordnung übersehen
+#facs_88_r2l4 und diß Bettell, und Strolchen, gesind weiter:
+#facs_88_r2l5 ins Land hineinlaßen, oder führen würken,
+#facs_88_r2l6 Woll selbiges durch solche gemeind nicht
+#facs_88_r2l7 allhier gegen die Hauptstalt, sondern wider
+#facs_88_r2l8 Zurub, und derjenigen Gemeind zugeführt
+#facs_88_r2l9 werden, daher es kommen; der beyleüffigen
+#facs_88_r2l10 Meinung, daß zwar die Gemeind, wo solche
+#facs_88_r2l11 Anhalten wirdt, die Zurubfuhr in die Nechste
+#facs_88_r2l12 Gemeindthun, die Kösten aber von der
+#facs_88_r2l13 Saumseligen Gemeind, so dis gesindt durch¬
+#facs_88_r2l14 gelaßen, derselben entrichtet, und guet¬
+#facs_88_r2l15 gemacht, und darmit solveiters fortgefahren
+#facs_88_r2l16 werden soll, bis diß Gesind völlig auß dem
+#facs_88_r2l17 Land geschaffet seyn wirdt; welch-Unser
+#facs_88_r2l18 Einsehen du von Cantzlen Verlesen Zelasen,
+#facs_88_r2l19 auch deinerseits hand abgehalten wüsen wirst,
+#facs_88_r2l20 und wir Unß Versehen etc. Datl. 11. Januarij
+#facs_88_r2l21 1724

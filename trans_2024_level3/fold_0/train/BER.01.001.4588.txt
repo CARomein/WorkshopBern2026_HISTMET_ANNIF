@@ -1,0 +1,69 @@
+Law nr: BER.01.001.4588
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 58/58
+# High similarity (>=80%): 53
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_219_r4l10 alle deuttoch und welche Herren
+#facs_229_r3l3 Amtleut und Schaffner, da Ober¬
+#facs_229_r3l4 beitlich Getreid ligt
+#facs_229_r3l5 Verkauf der zweyten Helfte des
+#facs_229_r3l6 Oberkeitlichen Getreydt.
+#facs_229_r3l7 Schultheiß Räth und Burger pr
+#facs_229_r3l8 Gleichbin Wir unterm 24ten Marty
+#facs_229_r3l9 Lezthin zu verordnen der Nothwendig¬
+#facs_229_r3l10 keit erachtet, das der halbe Theil
+#facs_229_r3l11 der über den Vorrath und die
+#facs_229_r3l12 ordinau wie auch extraordinare Aus¬
+#facs_229_r3l13 gaben vorschießenden Winter
+#facs_229_r3l14 früchten versilberet werden solle,
+#facs_229_r3l15 So haben Wir auf angehörten
+#facs_229_r3l16 Vortrag Unserer Furgeliebten
+#facs_229_r3l17 /deutsch /
+#facs_220_r4l10 Miträhten der Herren welsch Sebel
+#facs_119_r2l29 Sekelmeister und Denneren haben Wir
+#facs_229_r3l20 Euch behelchlich auftragen sollen,
+#facs_229_r3l21 die überbleibende und noch vorrähtige
+#facs_229_r3l22 Helfte der Winterfrüchten, und zwar
+#facs_229_r3l23 vorzüglich von dem lezten Jahrgang
+#facs_229_r3l24 1785 und nicht behältlich unter denen
+#facs_28_r4l1 Coll
+#facs_12_r6l1 44
+#facs_229_r5l2 gewohnten Bedingen von nun an¬
+#facs_229_r5l3 abzustoßen, und verstilberen zu
+#facs_229_r5l4 deßen ihr zum Ver¬
+#facs_198_r5l12 laßen
+#facs_229_r5l6 falt berichtet werdet, mit Gefehle
+#facs_229_r5l7 über das erlösende uns Rechnung
+#facs_229_r5l8 zu tragen.
+#facs_229_r5l10 Datl. den 3ten July 1786.
+#facs_83_r3l6 en
+#facs_54_r5l4 do
+#facs_221_r1l2 alle deutsch und welsche Herren
+#facs_229_r5l13 Amtleut, vier Städt-Freyweibel
+#facs_179_region_1633454983342_3020l3 und Ammann
+#facs_229_r5l15 betreffend die Ausfuhr der Erdfrüchten.
+#facs_229_r5l16 da bey
+#facs_36_r3l7 Schultheiß und Rath
+#facs_229_r5l18 geliebt es Godt fortdaurend günstiger
+#facs_229_r5l19 Widerung eine gesegnete Ernd zu
+#facs_229_r5l20 verhoffen ist, so hat uns solches be-
+#facs_229_r5l21 wögen das unterem 26ten Octobris
+#facs_229_r5l22 1780. ausgegebene Verbodt wegen
+#facs_229_r5l23 Rehinderung der Ausfuhr der Herd¬
+#facs_229_r5l24 Opfel und anderer dergleichen Ersprüchte
+#facs_229_r5l25 dermahlen bieder aufzuheben und die
+#facs_229_r5l26 Exportation dieser Erdfrüchten zu
+#facs_23_region_1633454785261_2928l2 Wid
+#facs_28_r4l1 Coll
+#facs_230_r3l1 verwilligen. Deßen Ihr berichtet
+#facs_230_r3l2 werdet, mit dem Befehl, dieses zu
+#facs_242_r3l18 mäniglich Nachricht und Verhalt in Eüeren
+#facs_230_r3l4 verkünden zu laßen.
+#facs_230_r3l5 Dat. den 5ten July 1786

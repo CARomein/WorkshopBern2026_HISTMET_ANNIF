@@ -1,0 +1,298 @@
+BER.01.001.2646
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 289/289
+# High similarity (>=50%): 273
+# Low similarity (<50%): 16
+# Not found: 0
+#
+#facs_141_r4l6 Sie hinlichende Zoll und Bleidt sindt.
+#facs_141_r4l7 No Zoffingen das Bleidt
+#facs_141_r4l8 2
+#facs_141_r4l9 Anlangen der Zoll.
+#facs_141_r4l10 3
+#facs_141_r4l11 Wangen der Zoll
+#facs_141_r4l12 4°
+#facs_141_r4l13 Wirdt lisfach der Zoll
+#facs_141_r4l14 5°
+#facs_141_r4l15 Langenthal das Bleidt.
+#facs_141_r4l16 6°
+#facs_141_r4l17 Bümernen der Zoll
+#facs_141_r4l18 Arberg das Bleidt.
+#facs_141_r4l19 8
+#facs_141_r4l20 Arberg der Brüggzoll
+#facs_141_r4l21 Nydaulo Zoll und Bleidt
+#facs_141_r4l22 9
+#facs_141_r4l23 10
+#facs_141_r4l24 das Läntz Haus zu Jüren
+#facs_142_r1l1 Eingang.
+#facs_142_r1l2 Vrsachen des
+#facs_142_r1l3 verbote.
+#facs_142_r2l1 Neües Taback Mandat
+#facs_142_r2l2 In der Statt Hern uns dero Landen
+#facs_142_r2l3 Wir Schultheis Räht uns Järgere der
+#facs_142_r2l4 Statt Bern, geben allen Vnseren Ober- und Vnderen
+#facs_142_r2l5 Ambtleüten, wie auch unseren Furgern, und Ange¬
+#facs_142_r2l6 hörigen Unterthanen zu Statt und Landt, was Standts
+#facs_142_r2l7 und Wesens die sins, neben Vnserem gnädigen grund
+#facs_142_r2l8 und geneigten guten willen zu vernemen; Demnach
+#facs_142_r2l9 Wir mit sonderbahrem besäuberen und grossen Miß,
+#facs_142_r2l10 fallen erfahren und sehen müssen, daß Vnsern hievor
+#facs_142_r2l11 wider das Leibe, und Gemühts Gesundheit verserbliche
+#facs_142_r2l12 anständige, in ansehen daß Feulers gefährliche,
+#facs_142_r2l13 sonderlichen aber unnöhtiger weise ein grosses gelt
+#facs_142_r2l14 auß dem Land züchende Taback remken, verülden
+#facs_142_r2l15 und Schnupfen, außgangene villfaltige Ordnungen
+#facs_142_r2l16 und Mandat also schlechtlich beobachtet werden, und der
+#facs_142_r2l17 gebrauch dasselben leider nunmehro widerumb so
+#facs_142_r2l18 gemein worden, daß bald Mäniglich Mann, und
+#facs_142_r2l19 derslichen geschlechte, Junge und Alte deme sich
+#facs_142_r2l20 Ergaben, uns solches bald vngeschachen offentlich gebraucht,
+#facs_142_r2l21 Das abens Wir aus Oberbeitlicher Pflicht und Vorsorg
+#facs_142_r2l22 ferners nit zusehen können noch sollen, sondern
+#facs_142_r2l23 Der benöhtiget befunden, sothane Unsern Verbott
+#facs_142_r2l24 hiermit zuerfrischen, und zu widerholen, selbige
+#facs_142_r2l25 auch einzurichten guethunern auf weiß wie folget.
+#facs_142_r3l1 273
+#facs_142_r3l2 Robott in
+#facs_142_r3l3 gemein
+#facs_142_r3l4 Es solle das Rämben, beüwen und Schnupfen daß Tabacks
+#facs_142_r3l5 und Sießpulkers Jedermäniglichen ohne underscheidt Mann
+#facs_142_r3l6 und Weibe. Persohnen, Jung und Alten, er seyn war
+#facs_142_r3l7 Standts es wolle, als ein Landtschädlicher übel verbotten
+#facs_142_r3l8 sein, vnd also ein Jeder, Einheimbscher und Landtsfrämb¬
+#facs_142_r3l9 der in unserer Statt, Landen uns Gebieten, dessen sich
+#facs_142_r3l10 Zins
+#facs_142_r3l11 fürbar entziehen und enthalten; Bey fünf Pfund
+#facs_142_r3l12 pfennig Burs fürs erste, zechen Pfund füre andere
+#facs_142_r3l13 und fünfzechen Pfund fürs dritte mahl, von Jedem
+#facs_142_r3l14 so offentlich in Währtsheüseren, auf Gassen, oder
+#facs_142_r3l15 Strassen, und an gefährlichen Ohrten, nemlichen in
+#facs_142_r3l16 Schüren, Ställen und dergleichen: Und bey drey pfun¬
+#facs_142_r3l17 den Büer fürs erste, sechs Pfund furs andere, undt
+#facs_142_r3l18 benn pfund fürs dritte mahl, von Jedem, so bey
+#facs_142_r3l19 Gesellschafften in sonderen Beüseren darleider handlen
+#facs_142_r3l20 möchte, so offt es beschicht und bekant werden mag, oder
+#facs_142_r3l21 Prencon stras
+#facs_142_r3l22 Jemandts noch weiters fählen würde, nach befinden
+#facs_142_r3l23 der verordneten Cammer mit Abstraff- oder Verleidung
+#facs_142_r3l24 an Höcherem Ohrt, ohne schonen noch nachlassen der
+#facs_142_r3l25 Zur mit pfand- oder Aelt- Abforderung, und wo deren
+#facs_142_r3l26 einer erfolget, mit Gefangenschafft anwendung
+#facs_142_r3l27 zubezuchen: Oter so Einer die Aeltbues nicht vermoch¬
+#facs_142_r3l28 te, bey ein oder zwey mahl vier und zwäntzig stünde
+#facs_142_r3l29 gefangenschafftiger Gefangenschaft, jch nach deme Er an ein oder
+#facs_142_r3l30 anderen Ohrt gefehlt haben wirdt.
+#facs_143_r1l1 14
+#facs_143_r1l2 no
+#facs_143_r1l3 Straff der Solte aber Unser, der klein oder grossen Rähten,
+#facs_143_r1l4 vorgesetztere
+#facs_143_r1l5 Ambtleut und Kirchendienen Einer an der
+#facs_143_r1l6 Ebertrettung erfunden und erkant werden,
+#facs_143_r1l7 wollend wir einem solchen, als welcher villmehr
+#facs_143_r1l8 ein Sandhaber und aufseher sein sollen, die
+#facs_143_r1l9 Einer doppelt auferlegt haben, sie Unser bestelten
+#facs_143_r1l10 sameren, als da dergleichen verleidet werden.
+#facs_143_r1l11 sollen, zu erlegen.
+#facs_143_r1l12 5
+#facs_143_r1l13 Kundtschafft
+#facs_143_r1l14 als dan einer gesehen worden im fehler zu sein
+#facs_143_r1l15 und balecis
+#facs_143_r1l16 thum.
+#facs_143_r1l17 von Einem Mitglis der Cammer, daß Chorgrichts,
+#facs_143_r1l18 oder Einem des kleinen oder grossen Rahts (obgleich
+#facs_143_r1l19 Zur angebung die Eint und anderen nit verbunden
+#facs_143_r1l20 sind) angegeben, und solches bey seinem auf sich
+#facs_143_r1l21 tragendem Eydt beharret würde, soll demselben
+#facs_143_r1l22 völlig geglaubt, und der Fählbahre, wann er gleich
+#facs_143_r1l23 Laugnete, abgestrafft; Einer anderen gemeinen
+#facs_143_r1l24 Aussehers und beeydigten Angebers anblag aber
+#facs_143_r1l25 mit kundtschafften bewisen werden.
+#facs_143_r1l26 Plicht der
+#facs_143_r1l27 Wihrten
+#facs_143_r1l28 Wir habendt auch angesehen, daß allen Stuben¬
+#facs_143_r1l29 und Taverne, Wihrten, auch Wein, und Pinten
+#facs_143_r1l30 scheiden zu Statt und Land, aller ernste einge¬
+#facs_143_r1l31 scherpft sein solle, in denen Ihnen vertrauerten
+#facs_143_r2l1 Verwahrung
+#facs_143_r2l2 der Grömbden
+#facs_143_r2l3 und Einheims
+#facs_143_r2l4 schen
+#facs_143_r2l5 Straff der
+#facs_143_r2l6 Wihrten
+#facs_143_r2l7 Visitation
+#facs_143_r2l8 der Wihrts
+#facs_143_r2l9 Häusern
+#facs_143_r3l1 275
+#facs_143_r3l2 Vns angehörigen Häuseren das Taback reinken, verühren
+#facs_143_r3l3 und Schnupfen, nicht nur niemandem ohne ausnahmen
+#facs_143_r3l4 zugestatten, sondern Ihrer Vermögens zu verhinderen, und
+#facs_143_r3l5 die so Sich darvon nicht abtreiben lassen wolten, seiner
+#facs_143_r3l6 Ihrtr zu bestimbter abstraffung zuverleiden. Zu dem
+#facs_143_r3l7 und alle in Ihre Häuser kommende Persohnen, so wohl
+#facs_143_r3l8 trömbde als Einhemische, war Ständte und Beschlechte
+#facs_143_r3l9 Sie wärendt, allwegen bey Zeiten darvor zu verwahren.
+#facs_143_r3l10 pr
+#facs_143_r3l11 oder durch Ihre Hausgenossen verwahrnen gelassen; Da
+#facs_143_r3l12 aber ein solcher Wihrt oder Weinschenck an Erstattun¬
+#facs_143_r3l13 diser Seiner pflicht nachlässig, oder selbe fühlbahr erfun¬
+#facs_143_r3l14 den, oder auch der Cammer die übertretter nicht verleiden,
+#facs_143_r3l15 würde, soll ein solcher, wann er ein Burger, umb fünf¬
+#facs_143_r3l16 zig pfund buer verfallen sein; So er aber ein Äusserer,
+#facs_143_r3l17 wann er zum Dritten mahl erfunden, und also die Vor
+#facs_143_r3l18 gehndern abstraffungen an Ihme nicht gefruchtet
+#facs_143_r3l19 haben würden, noch darzu fort in Ihr Heimat gewisen
+#facs_143_r3l20 werden: Zu dem Ende die geordnete Cammer auf
+#facs_143_r3l21 die Währten sonderbahre geheime aufseher bestellen soll
+#facs_143_r3l22 Vmb zum Zeiten in den Währtsheüseren unbekanter
+#facs_143_r3l23 Weis zu visitieren, ob nicht daselbsten wider dis ver¬
+#facs_143_r3l24 bott gehandlet werde, und wie die Währten sich in Ihrer
+#facs_143_r3l25 disöhrtigen Pflicht verhalten Thürendt.
+#facs_143_r3l26 Darbey soll auch verbotten sein der Verkauf daß
+#facs_144_r1l1 76
+#facs_144_r1l2 Zuschung des Tabacks und Schnupf Tabacks, und der zum
+#facs_144_r1l3 Verbach des glüuben brauchender Rixen, war gattung, und vom
+#facs_144_r1l4 Cabats¬
+#facs_144_r1l5 stixen.
+#facs_144_r1l6 der Materi die auch seyen, bey vier pfund pfennig
+#facs_144_r1l7 von Jedem pfund Taback, und was darunder ist:
+#facs_144_r1l8 und bey zwey pfund pfrenig Bürs von jeden datzet
+#facs_144_r1l9 Tipen, und ein pfund pfennig von dem halben
+#facs_144_r1l10 Dozet Piper, und war daründer oder minder ist,
+#facs_144_r1l11 ohne schönen zubeziehen, oder die, so es nicht zuerla¬
+#facs_144_r1l12 gen vermochten, mit der Gefangenschafft, wie droben
+#facs_144_r1l13 verläutert, abzestraffen, über die Benem- und abschaf¬
+#facs_144_r1l14 tung solcher vnnöhtigen Wahr, da der Taback durch
+#facs_144_r1l15 die Weibel auf einem platz offentlich verbre¬
+#facs_144_r1l16 t-
+#facs_144_r1l17 und die Piper zerbrochen werden sollendt.
+#facs_144_r1l18 Erforderung des
+#facs_144_r1l19 Budt wann ein Reücker, keülver oder Schimpfer
+#facs_144_r1l20 Tabacks Ver¬
+#facs_144_r1l21 brüfferen.
+#facs_144_r1l22 entdeckt, soll von demselben zugleich ernst wörtlich
+#facs_144_r1l23 fuhrleüten
+#facs_144_r1l24 oder so das nicht erheblich, durch andere guet findende
+#facs_144_r1l25 sey, der, so Ihme den gebrauchten Taback verkaufft,
+#facs_144_r1l26 habe, erforschet, durch denselben auch der Fuhrmann
+#facs_144_r1l27 oder Treger derselben, und dergleichen mittel entreibet
+#facs_144_r1l28 werden, umb mit vnd andere in die nachvermeldte
+#facs_144_r1l29 dardurch verschuldte Bues und Straff zuziechen.
+#facs_144_r1l30 Termin dr.
+#facs_144_r1l31 aberk abza¬
+#facs_144_r1l32 Da der Tabock-Crammerin halb Wir Ihnen Ihrer
+#facs_144_r1l33 schaffen.
+#facs_144_r1l34 Wahr an aüssere Ohrt verkaufflich, oder sonsten sich
+#facs_144_r1l35 Gethun vier Wochen von Verkündigung gegenwärtigen
+#facs_144_r2l1 Aufseher.
+#facs_144_r2l2 Gräntzen und
+#facs_144_r2l3 Pässen
+#facs_144_r3l1 577
+#facs_144_r3l2 Verbotts an zu rechnen, zeit uns ziel bestimbt habe.
+#facs_144_r3l3 läsden undt
+#facs_144_r3l4 Visitation der wollens: Hoch Welcher verfliessung Ihre Häuser undt
+#facs_144_r3l5 n
+#facs_144_r3l6 Hüseren.
+#facs_144_r3l7 läden außgesucht, und ein Jeder derselben aller Exists
+#facs_144_r3l8 erforschet werden soll, ob von der verbottenen Wahr noch
+#facs_144_r3l9 etwas bey und hinder Ihme, und er seinem gewalt im
+#facs_144_r3l10 Landt seyn, oder nicht? mit derselben, wie droben ver¬
+#facs_144_r3l11 melset zu verfahren, den Crämmer verwahrnend, und
+#facs_144_r3l12 zur Hans=Gelübs haltens, von solcher Wahr abzustahen
+#facs_144_r3l13 Vndt damit desto weniger mit dem Verkauf fürgefahren
+#facs_144_r3l14 werde, ist Vnsere meinung uns Befelch, daß die Visita¬
+#facs_144_r3l15 tion der läsen und Heüseren diser Crämmeren Jährlich
+#facs_144_r3l16 Viermahl aufs wenigste verrichtet werde, in Unser
+#facs_144_r3l17 Heubtstatt zwey Committierta auß der bestelten
+#facs_144_r3l18 Cammer, auf dem Land aber durch sonderbahre darzu
+#facs_144_r3l19 verordnete, alleigen gegen der befindtlichen übertrettung
+#facs_144_r3l20 mit der straff und abschaffung zu verfahren, wie droben
+#facs_144_r3l21 gesüttet ist.
+#facs_144_r3l22 5. Die Führleüt und Treger dann, so mit dieser Wahr
+#facs_144_r3l23 vmbgahen, zu verhinderen, daß Sie solche nicht ins
+#facs_144_r3l24 aus führens oder tragend, sollen unsern Ambtleüt
+#facs_144_r3l25 uf den Bräntzen und Pässen sondern aufseher bestellen
+#facs_144_r3l26 die jenigen, derenhalb einiger argwohn und verdacht
+#facs_144_r3l27 wäre, zu erforschen und auszusuchen, uns gegen denen,
+#facs_144_r3l28 Kinder welchen Taback gefunden wurde, mit abschaffung
+#facs_145_r1l1 Execution
+#facs_145_r1l2 In der Statt.
+#facs_145_r2l1 Es somit endtlichen disen heilsamen uns nohtwenig
+#facs_145_r2l2 igen Verbott in eint- und anderen Stucken seiner
+#facs_145_r2l3 Inholts an der erhäuschten Execution und volglei¬
+#facs_145_r2l4 stung, an deren er fürnemblich gelegen, desto
+#facs_145_r2l5 weniger ermangle; Habend Wir, so will Vnsere Haubt¬
+#facs_145_r2l6 Statt betrifft, dieselbe Unserer Reformation Cammer
+#facs_145_r2l7 anhängig gemacht und anbefohlen, umb zu ge¬
+#facs_145_r2l8 bührender Hinderhaltung und abstraffung die
+#facs_145_r2l9 nicht wendige aufsicht anzuordnen, in meinung,
+#facs_145_r2l10 daß auch ein Jedes glis der Cammer ins beson¬
+#facs_145_r2l11 ders befuegt sein solle, in geheimbt und solcher
+#facs_145_r2l12 gestalt zwen aufseher /: und er dem genos daß
+#facs_145_r2l13 dritten Theils der Euer) zubestellen, die aber
+#facs_145_r2l14 gar niemandem, auch den übrigen Glideren
+#facs_145_r2l15 der Cammer Selbsten nicht, sondern allein deme
+#facs_145_r2l16 der sie bestelt, bebant sein und bleiben, darbey
+#facs_145_r2l17 aber die selben verbunden sein sollend, dem
+#facs_145_r2l18 jenigen, der Sie also bestelt, aller war sie wider
+#facs_145_r2l19 Der Mandat vorzugehen sahen würden, jederweilen
+#facs_145_r2l20 in geheimbt und getreullich zueröffnen,
+#facs_145_r2l21 auf deren angeben die Cammer oberleüterter
+#facs_145_r2l22 massen glauben beyzumessen und zuverfahren
+#facs_145_r2l23 wüssen wirdt.
+#facs_145_r3l1 VerNachrichtung
+#facs_145_r3l2 und Beschlus
+#facs_145_r4l1 execution
+#facs_145_r4l2 auf dem land
+#facs_145_r5l1 281.
+#facs_145_r5l2 Sie vollstreckung dann in Unseren Teütschen und
+#facs_145_r5l3 Waltschen Landen, wollend Wir noch fürbar Vnseren
+#facs_145_r5l4 Ambtleüten und Chordrichteren also überlassen haben,
+#facs_145_r5l5 daß Selbige zu eiferiger und Schuldiger Handobhaltung
+#facs_145_r5l6 solchen Oberkeitlichen mandats, auch Ihre Geheimbde
+#facs_145_r5l7 auf seher, als obstaht, bestellen sollend, welche dann unter¬
+#facs_145_r5l8 obigen, denen auf dem land verordneten ausseheren
+#facs_145_r5l9 bestimbten genos des Vierten Theils der fallenden
+#facs_145_r5l10 Bueßen, in guten Treuwen auf alle übertrettungen
+#facs_145_r5l11 Dises mandats, so wohl in ansehen daß Verkauf= und
+#facs_145_r5l12 einschleickens, obgedacht verbottner Wahren, als der
+#facs_145_r5l13 Räückens, weülvens und Schnupfens geflissene auf¬
+#facs_145_r5l14 sicht zuhalten, mit so offt Sie etwas dergleichen sehen,
+#facs_145_r5l15 und in erfahrung bringen würdend, solches seines
+#facs_145_r5l16 behörigen Ohrte, jederweilen anzubringen schuldig
+#facs_145_r5l17 sein sollend.
+#facs_145_r5l18 sessen allesin nun, soll durch die öffentliche Verbün¬
+#facs_145_r5l19 dung diser Vnsers ernstgemeinten mandato jetermänniglich
+#facs_145_r5l20 den er ansehen und berühren mag, sich vor der über¬
+#facs_145_r5l21 Trettung desselben zu verwahrnet: Unseren
+#facs_145_r5l22 Ambtleuten aber dardurch eingescherpft und befelchlich-
+#facs_146_r3l1 aufgetragen sein, sich disem allem, mit Bestellung
+#facs_146_r3l2 der aufseheren, und anderen darzu gehörigen
+#facs_146_r3l3 anstalten und verordnungen gemär zuverhalten,
+#facs_146_r3l4 und die Vollstreckung diser so nohtwändigen
+#facs_146_r3l5 Mandats, gleichen ernsts, wie es von uns gemeint
+#facs_146_r3l6 ist, Ihnen angelägen sein zulassen; Wie die, für
+#facs_146_r3l7 Vnsern Haubt statt befelte Cammer Ihrer Theils auch
+#facs_146_r3l8 zuthun wüssten wirdt, damit der erlamschte
+#facs_146_r3l9 Zweck diser so nohtwendigen einsehens erhalten
+#facs_146_r3l10 werde.
+#facs_146_r3l11 Geben in Unser grossen Rahts Versamblung den
+#facs_146_r3l12 19 Maij 1697
+#facs_146_r3l13 1
+#facs_146_r3l14 An Alle T. und W. Ambtleut
+#facs_146_r3l15 4. Statt, Freyseibel und Amman
+#facs_146_r3l16 Hie auch an die Cäntzel allhier.
+#facs_146_r3l17 Ihnen obiges Taback Mandat zuschicken.
+#facs_146_r3l18 Schultheiß Räht uns Jürger der Statt Pern,
+#facs_146_r3l19 Nachdeme wir nohtwensig erachtet, das taback
+#facs_146_r3l20 mandat widerumb erfrischen, und in Truck gaben
+#facs_146_r4l1 283.
+#facs_146_r4l2 Zelassen; habens Wir dir, gleich gegen allen anderen Vnseren
+#facs_146_r4l3 Ambtleuten auch beschieht, beyligenen Exemplaria zuschicken
+#facs_146_r4l4 wollen, mit dem Befelch, solcher auf nechstkünfftigen
+#facs_146_r4l5 Sontag zu maniglichs nachricht von allen Cantzlen
+#facs_146_r4l6 verläsen zulassen, und deiner Theils, ob dessen inhalt
+#facs_146_r4l7 also zuhalten, damit Unser absehen, und zweck erreichet,
+#facs_146_r4l8 werden möge; Mässen wir vns zu dir versehendt. Datum
+#facs_146_r4l9 19 Maij 1697

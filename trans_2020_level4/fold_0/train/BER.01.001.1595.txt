@@ -1,0 +1,26 @@
+Law ID: BER.01.001.1595
+Name: Deren von Genff Ankunfft berichten.
+
+#facs_313_r7l1 19
+#facs_313_r7l2 
+#facs_313_r7l3 absig
+#facs_314_r2l1 1656.
+#facs_314_r2l2 In Nevis Morsee, Fuerden, Ersach
+#facs_314_r2l3 frienilverg, Burgdorff.
+#facs_314_r2l4 Deren von Geuff arkunfft berichten
+#facs_314_r2l5 Belchte e le den de
+#facs_314_r2l6 Gwerdend drey Companeyen fußvolck von Geuffoff
+#facs_314_r2l7 brechen, Vndt den 6. diß Monats zu Neuis den 7 zu Cossonas
+#facs_314_r2l8 den 8. zu Ifferten den 9. zu Collembier oder Affernach hinder
+#facs_314_r2l9 Neüwenburg den 10. zu inß den 1. zu Schupfen undt den 12.
+#facs_314_r2l10 zu Weinngen ankomen, deßen wir dich nachrichtlich berichten
+#facs_314_r2l11 Vndt darby anseinen wollen, die vnuerweilte anstalt Zethun
+#facs_314_r2l12 daß sy mit nahrungs mitlen, gegen gebürender bezalung, Ver¬
+#facs_314_r2l13 sechen werdind. Wie wir uns versechend. Datu 3. jan 1656
+#facs_314_r2l14 Appendix an Fuerden.
+#facs_314_r2l15 Es ist darby auch unser gesinnen hiemit an dich zeuerschaffen
+#facs_314_r2l16 daß zwey großle Schifffertig gehalten, damit Im fahl be¬
+#facs_314_r2l17 quemer witterung, die voller durch ibin verordnung in sisfen
+#facs_314_r2l18 nacher Murten geführt, vndt Neüwenburg alsobald berichtet,
+#facs_314_r2l19 daß sy nit dort durch pastiaren werdind. Datu utsopra
+END

@@ -1,0 +1,160 @@
+Law ID: BER.01.001.1334
+Name: 1. Abmahnung von Kauff frömbder Tücheren. 2. Verpott frömbden Weins.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 149/149
+# High similarity (>=50%): 142
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_53_r1l1 An alle Teütsche Amptleüth, Vier Stätt Im Ergenür¬
+#facs_53_r1l2 Freyweibel vnnd Amen
+#facs_53_r1l3 1o Abmahnung von kauff, frömbder Nücherei
+#facs_53_r1l4 2o Verpold frömbden weinig.
+#facs_53_r1l5 Schuld theisst Raht vnd Burger der Statt Bern
+#facs_53_r1l6 Auß der Vns, unsers tragenden Oberbeitlichen Ambtshalber
+#facs_53_r1l7 ob regnen fürsorg, habend wir vns nit vnzeitig zu gemüt
+#facs_53_r1l8 geführt, vnd angelegenlich betrachtet, wie unser gantzes landt
+#facs_53_r1l9 Ich wenigen Jahren daher, an den, zu deß gemeinen Wesens vnd
+#facs_53_r1l10 handels erhaltung, unvermeydenlich nothwendigen mitlei¬
+#facs_53_r1l11 des gelts, für nemlich vns disen zweyen haubt vrsachen (dene
+#facs_53_r1l12 es zu zemeßen:) vffs vßerst erschöpfft, entblößt vndt
+#facs_53_r1l13 enervirt worden, daß Namlich es für das einte den
+#facs_53_r1l14 Landt einzeit daher an dem ermanglet, daß daselbige
+#facs_53_r1l15 mit Erkauffung der einperlichen Korns-Wijchs, vnd dergleiche
+#facs_53_r1l16 mitlen, das gelt von vßeren Orten har nit (wit andere
+#facs_53_r1l17 mal) In die handt bringen können; Vnnd dann für
+#facs_53_r1l18 andere, daß die erhandlung, Ynkauff: vnd einfuhrun
+#facs_53_r1l19 vßendischen, und frombder vnnothwendiger Sachen, vmb und
+#facs_53_r1l20 gegen welchen das gelt vß ein landt Püsseret vnd gezoge¬
+#facs_53_r1l21 wirt, ein Zeit daher mehr zu: dann abgenomen: welche
+#facs_53_r1l22 dem gantzen landt empfindtliche gelts Püßerungen dan
+#facs_53_r1l23 auch aller meist und für nemlich beschicht, durch die erkauffung
+#facs_53_r1l24 frömbder tücheren, vnd dergleichen wahren, wie auch durch
+#facs_53_r1l25 die erhandlung und Hoführung frömbden und vßlendischl.
+#facs_53_r1l26 weins, da dem die erfahrung hievor bezüget, was
+#facs_53_r1l27 -
+#facs_53_r1l28 mercklicher Suma gelts durch denselben vssen ländt
+#facs_53_r1l29 -
+#facs_53_r1l30 gezogen worden. Wann nun unser landt von den gnaden
+#facs_53_r1l31 Gottes, mit landt tuch, läder, und dergleichen, zu noch höfft sich
+#facs_53_r1l32 Bekleidung der vnseren gnugsam zu sehen, darmit ein jeder
+#facs_53_r1l33 ich vnd die seinen In rechten preiss nach ehren bekleiden
+#facs_53_r1l34 vnd dieettendliche überflüßige Plöstigung mit trömbden
+#facs_53_r1l35 schüren wahren wol verpfangen mag; Alls wollend wir
+#facs_53_r2l1 allein en de
+#facs_53_r2l2 Ergewischborg
+#facs_53_r2l3 no
+#facs_53_r3l1 alle vnd Jede vnsere lieben und getrüwen zu Statt und landt
+#facs_53_r3l2 ernst- wol meintlich ermant habe,
+#facs_53_r3l3 ich der frömbden
+#facs_53_r3l4 unheren vnd alles überflußes ankleidungen, dardurch wil gelts
+#facs_53_r3l5 nümütz er wyß gehrt wirt, gentzlich zemußigen, vnd sich der
+#facs_53_r3l6 Im landt vhandenen mitlen zu mügen. Vnd diemyl
+#facs_53_r3l7 dann auch ebenmesig von den gnaden Gottes Eerlichem hierfur
+#facs_53_r3l8 hochlich danck zesag:) diess gegenwürtige Jahr, vnser gantzen
+#facs_53_r3l9 Landt, mit Eile vnd guten eignen weins - mitlen dergestalten
+#facs_53_r3l10 gesegnet vnd versechen, daß wir vns alle deßelben wol jetzung
+#facs_53_r3l11 habend, vnd also diß mahlen mehreren Weins von vberen Urtt.
+#facs_53_r3l12 gantz nit bedörffend, Vnd wir beneben Im fürsorglichen vorhebt
+#facs_53_r3l13 begriffen, den ursachen der gelts züßerung vff den grundt aller
+#facs_53_r3l14 rechten Standts indicien, best vnd so weit muglich abgewehret,
+#facs_53_r3l15 Als habend wir vns vns erzelten Vrsachen beuorab vyfflic¬
+#facs_53_r3l16 berahten vnd entschlossen, vnser hievor bey gleicherzeitt
+#facs_53_r3l17 beschaffenheit vff gangne Ynsechen widerumb zuerfrüschen
+#facs_53_r3l18 vnd für dise Jahr, vnd biß vff eine andere Zeit die Infuhr¬
+#facs_53_r3l19 vnd plauffung alles vßeren vnd frömbden weint, In vnsern
+#facs_53_r3l20 landt gentzlich zeuerpieten, daß Vamlich weder Burgen
+#facs_53_r3l21 Vnderthanen, noch trömbde, einichen Sauoyischen: Chattaux
+#facs_53_r3l22 3. auffischen Frantzößischen: Wallißichen, zwein, [Sonderlich]
+#facs_53_r3l23 aber den, vnsere demselben nachfahrenden vnderthanen, wil
+#facs_53_r3l24 nals Roß und Wagen, haab vnd gut, Costenden Elpaßer nit
+#facs_53_r3l25 weder an solchen orten selbst, noch von anderen hendlern erkaufft,
+#facs_53_r3l26 vnd Ins landt bringen, nach der innen widerumb bey der Pinth
+#facs_53_r3l27 oder zu gantzen Vassen verlauffen, Sonnder mencklich deßen
+#facs_53_r3l28 ich enthalten, und daß In eben leidenlichen wifeilen preiß
+#facs_53_r3l29 und güte habenden Huheimbschen sich einigen und behelffen.
+#facs_53_r3l30 Tölle, als dardurch das gelt Im Landt Pbleibt, und der
+#facs_53_r3l31 gross. Clam rnnd mangel an selben nit p mehret wirt
+#facs_53_r3l32 Dorgegen aber wollend wir vßeren und frömbden, wie auch
+#facs_53_r3l33 benachwarten, und den Lucornischen Elßoß fuhrlichen, die
+#facs_53_r3l34 durch führung solchen vßlendischen Weins, aber vnsere
+#facs_54_r4l1 Landt vnd Gepiett, wofehr der Sanoyische vnd der ande¬
+#facs_54_r4l2 gewachset zum Yn, vnd versigung vnsers landts, ordenlich
+#facs_54_r4l3 consignirt, vnd daruon im landt mit xbrucht noch plroufft
+#facs_54_r4l4 wirt, nit gespert, Sonn der dieselbe Fürter wie bis har
+#facs_54_r4l5 zug elassen haben
+#facs_54_r4l6 Hierunder aber Ist vnser vßtruckenliche verstandt vnndt
+#facs_54_r4l7 meinung, daß von diss verputts wegen desen frombden
+#facs_54_r4l8 weins, niemandts anlass nemen noch gedanken solle, den
+#facs_54_r4l9 Ynheimbschen Wein desto thürer Zetzle auffen, vnd In eine
+#facs_54_r4l10 höheren preiss zubringen: So anderen daß derselb Im
+#facs_54_r4l11 Jetzigen leidenlichen Schlag und Peyß, unverhürt, um
+#facs_54_r4l12 vngesteigeret verbleibe, damit nit vns einem gutezentlichen
+#facs_54_r4l13 vnd vorhaben, ein anderer schaden vnd mißbruch entstande
+#facs_54_r4l14 Die alchem nach beuelchende, nebend offner Neündung diß
+#facs_54_r4l15 "
+#facs_54_r4l16 vnsers Spolffs, zu gebürender obseruation desselben, nothwendig
+#facs_54_r4l17 vffsicht zu bestellen, und diejenigen, So mit Ynbring, erkauff
+#facs_54_r4l18 und Abauffung frömbden weins darwider handlen vnd entdeckt
+#facs_54_r4l19 wurden, In die straff der Confiscion des Weins oder gelts
+#facs_54_r4l20 die wir hiemit druff gsetzt haben wollend, zezüchen, wo
+#facs_54_r4l21 welcheren dann dir vnd dem Pleider die gewohnte portio
+#facs_54_r4l22 gevolgen vnd heimbdienen sol. Wollander hiebey auch vnsere
+#facs_54_r4l23 Kauptmuthen, wie auch den Tiringherren zugebunden ein¬
+#facs_54_r4l24 gepotten haben, ernsthafftig und geflißen hand abzuhalten, das
+#facs_54_r4l25 der Wein durch die fordnete beeidete Schetzer seinen billichen
+#facs_54_r4l26 wart noch geschetzt, und wider disers unsers Mandats
+#facs_54_r4l27 —
+#facs_54_r4l28 Intention In einichst eiger: und pthürung gebracht worden,
+#facs_54_r4l29 Wie wir vns zu der Kirchen haben wollend. Datum 21 Novemb.
+#facs_54_r4l30 1645
+#facs_54_r5l1 Verkürtzte Form an die freyweibel
+#facs_54_r5l2 vnd anderen allein
+#facs_54_r5l3 Schuld theis Rähl vnd Burger
+#facs_54_r5l4 Die erfahrung bezuget, das ein Zeit daher, von frömbden
+#facs_54_r5l5 und vsseren Ortenhar, vmb vych, Molchen, vnd andere
+#facs_54_r5l6 Ce
+#facs_54_r5l7 net etc. erliche Sachen, wenig gälts Ins Landt gebracht: Hingegen
+#facs_54_r5l8 aber, so wol vmb trömbde Rucher, als auch vmbstelendisch
+#facs_54_r5l9 Ce
+#facs_54_r5l10 wein vnnothwendiger weiss, vnd gelts vßem fand gezogt
+#facs_54_r5l11 vnd Güßeret worden; Welches dann nit die minsten Vrsachl.
+#facs_54_r5l12 dess Landtkündigen, schädlichen, gemeinen gällt mangells sind.
+#facs_54_r5l13 Söllichen um gebürender maßen zubegegnen, wellend wir
+#facs_54_r5l14 beugederist alle vnd Jede vnsere lieben vnd getrüwen zu Statt
+#facs_54_r5l15 und landt, ernst- wol meintlich ermannt haben, sich der
+#facs_54_r5l16 Grömbden tücheren vnd alles vberflußes an vleidungen, dardurch
+#facs_54_r5l17 weil gelts vnnützer wyß gehet wirt, gentzlich zennußigen
+#facs_54_r5l18 vnd sich der Im landt phandenen mitlen als landt tuchs, ledt
+#facs_54_r5l19 und dergleichen Zeitungen: Demnach diewyl von den gnaden
+#facs_54_r5l20 Gottes vnser gantzes landt diss gegenwürtigen Jahrs mit
+#facs_54_r5l21 nten eignen Weins mitlen (Gott sey darfur gedambt)
+#facs_54_r5l22 ungsam Psechen, habend wir gut befunden, vnd vns entschloßen
+#facs_54_r5l23 unser hievor bey gleicher Zeitt beschaffenheit vßgangne vrsachen
+#facs_54_r5l24 wid erumb zwerfrüschen, und für diß Jahr, vnd bis vff eine andere
+#facs_54_r5l25 zeit, die einfährt, und schlauffung alles vßeren vnd fraubden
+#facs_54_r5l26 Weins In unserem landt gentzlich (wie hiemit beschicht:)
+#facs_54_r5l27 zeuerpieten, daß nämlich weder Burger, und erthanen
+#facs_54_r5l28 noch frömbde, einichen sauogischen, Gablaix, Genffischen
+#facs_54_r5l29 krantzostischen, wallischen, noch anderen Frömbden Wein, so underli¬
+#facs_54_r5l30 aber den vnsere demselben nachfahrenden vnderthanen, vilmals
+#facs_54_r5l31 Roßrund wagen, haab und gut cöstenden Elßaßer nit, weder
+#facs_54_r5l32 an solchen Orten selbst, noch von anderen hendleren erkauffen, wie
+#facs_54_r5l33 Ins landtbringen, noch darinn widerumb bey der Pinten, oder
+#facs_55_r1l1 zu gantzen vasten schauffen, o mder mengklich deßen
+#facs_55_r1l2 sich enthalten, und daß In eben leidenlichem wolfeile
+#facs_55_r1l3 preiß rund gute habenden einheimbschen sich und muge
+#facs_55_r1l4 und behelffen solle, alls dardurch das gelt Im landt
+#facs_55_r1l5 verbleibt, vnd der grosse clain vnd mangel am selben mit
+#facs_55_r1l6 Inichret wirt
+#facs_55_r1l7 Dargegen aber wollend wir vnseren vnd frömbden, wie
+#facs_55_r1l8 auch den benachparten die durchführung allichen volgendischen
+#facs_55_r1l9 weint über unser landt rund Gepiet (wo sehr davon
+#facs_55_r1l10 Im lande mit verkaufft noch erbrucht wirt) nit gespehet,
+#facs_55_r1l11 vnnder dieselbe, wie bis zugelaßen haben
+#facs_55_r1l12 Die zwen letzten Puncten verbleibend
+#facs_55_r1l13 Wie In der grösseren formb.
+#facs_55_r1l14 Datum 21 Novemb. 1645

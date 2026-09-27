@@ -1,0 +1,77 @@
+Law nr: BER.01.001.4587
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 66/66
+# High similarity (>=80%): 63
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_12_r2l1 43
+#facs_227_r3l2 fremilen Getreids mit dem ersten
+#facs_227_r3l3 liß Monats Juny zu verbieten.
+#facs_227_r3l4 nothwendig erachtet, als wollen
+#facs_227_r3l5 Wir dermahlen obigen Unferen
+#facs_227_r3l6 Willen dahin erläuteren, und Euch
+#facs_227_r3l7 hiemit anbefehlen vom 1ten die¬
+#facs_227_r3l8 an gerechnet, annoch drey Monat
+#facs_227_r3l9 lang auf von denen Kornhändlern
+#facs_227_r3l10 vorbeisende Patenten von Unserer
+#facs_227_r3l11 verordneten KornCammer ihr ge¬
+#facs_227_r3l12 treid ungehinderet durchführen
+#facs_227_r3l13 zu laßen, deßgleichen auch dem
+#facs_227_r3l14 mit Transit Patenten und Consignes
+#facs_227_r3l15 verstehenen für lobl. Stand feyburg
+#facs_227_r3l16 bestimten Getreid bährend dieser
+#facs_227_r3l17 Zeith der drey Monaten unge¬
+#facs_227_r3l18 hinterten durchpaß zu gestacten
+#facs_227_r3l19 Dat. den 14ten Juny 1786.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_10_r5l1 39
+#facs_295_r3l1 Collath.
+#facs_23_region_1633454616028_2913l1 An
+#facs_223_r2l13 alle Teutsch und welsche Herren
+#facs_228_r3l3 Amtleut, 4. Städt freybeibel
+#facs_117_r5l16 und Amann
+#facs_228_r3l5 Ernd Ferien ausgeschrieben;
+#facs_55_r5l16 Schultheiß und Rath rt den Anfang
+#facs_228_r3l7 der Heürigen Ernd Ferien,
+#facs_228_r3l8 haben Wir auf den 10ten July
+#facs_228_r3l9 und deren Ende bis auf den
+#facs_228_r3l10 10. Aug. nächstkönftig bestimt,
+#facs_228_r3l11 und deßen Euch berichten wollen,
+#facs_228_r3l12 mit Refehl, während dieser Zeit
+#facs_228_r3l13 keine andere dan nothdringende
+#facs_228_r3l14 Geschäfte, vor Uns und Unsere
+#facs_228_r3l15 bevordnete Cammeren und Tribunalia
+#facs_228_r3l16 gelangen zu laßen.
+#facs_228_r3l17 Datum den 16ten Juny 1786.
+#facs_3_region_1627936339514_16l1 1
+#facs_218_r3l1 Collati
+#facs_12_r6l1 44
+#facs_23_region_1633454616028_2913l1 An
+#facs_228_r5l3 die Herren Amtleut zu Signau,
+#facs_228_r5l4 Königsfelden, Laupen und Thorberg.
+#facs_108_r3l15 über die Beschaffenheit der Landstraße
+#facs_228_r5l6 soll von obigen H. Amtleuten der Gericht
+#facs_228_r5l7 eingefendt werden.
+#facs_229_r3l7 Schultheiß Räth und Burger pr
+#facs_228_r5l9 Amtleuten ist bey Ihren Eiden
+#facs_228_r5l10 eingebunden alljährlich die Pflicht¬
+#facs_228_r5l11 mäßige Berichte einzustanden, über
+#facs_228_r5l12 die Beschaffenheit der Landstraßen,
+#facs_228_r5l13 da nun solches für diß Jahr von
+#facs_228_r5l14 Euch unterlaßen worden, so
+#facs_197_r4l27 befehlen Wir Eüch, die für Unsere Rechnung
+#facs_228_r5l16 der Landstraßen Eüeres Amts
+#facs_228_r5l17 Unserer verordneten deutschen
+#facs_228_r5l18 Zollkammer mit aller Beförderung
+#facs_228_r5l19 inzusenden, und in Zukunft
+#facs_228_r5l20 Eüerer disorts aufhabenden
+#facs_228_r5l21 Pflicht eingedenkt zu seyn.
+#facs_228_r5l22 Datl. den 28ten Juny 1786.
+#facs_8_r9l1 11
+#facs_28_r4l1 Coll

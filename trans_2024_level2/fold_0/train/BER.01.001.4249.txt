@@ -1,0 +1,34 @@
+Law ID: BER.01.001.4249
+Name: Ihnen befehlen, das über den Vorraht aus sich befindliche Wintergewächs zu verkauffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 23/23
+# High similarity (>=50%): 7
+# Low similarity (<50%): 16
+# Not found: 0
+#
+#facs_250_r5l7 Signalement
+#facs_250_r5l8 Der Einte traget einen Blauen Rob, mit rohtem
+#facs_250_r5l9 Euter, habe lange Offene Haar gehabt, seye 40.-
+#facs_250_r5l10 biß 50. Jahr alt, eines langen mögeren Angesichts
+#facs_250_r5l11 Ein anderer, so den Knecht angegriffen, traget
+#facs_250_r5l12 einen sauberen grüenen Rob, weises wesstli¬
+#facs_250_r5l13 und Graue Tüchene S. V. Hosen,
+#facs_251_r3l1 Din
+#facs_251_r3l2 Alle T. und W. H. Amtleuth und Schaffnere, wo
+#facs_251_r3l3 Oberkeitl. Getreid Vorraht ist
+#facs_251_r3l4 Ihnen befehlen, das über den Vorraht aus sich
+#facs_251_r3l5 befindliche Winter Gewächs zu verbauffen
+#facs_251_r3l6 Schultheiß Stäht und Bürger
+#facs_251_r3l7 Auf den von Unser Venner Cammer, uns beschehenen
+#facs_251_r3l8 Vortrag, haben Wir Euch hiemit befehlen wollen,
+#facs_251_r3l9 das Über den Vorraht aus noch überbleibende
+#facs_251_r3l10 Winter-Gewächs, nach Abzug der Ordinari, und
+#facs_251_r3l11 Quasi=Ordinari, Ausgaben, von nun an zu ver¬
+#facs_251_r3l12 haufen und zu versilberen, und zwar werdet
+#facs_251_r3l13 Ihr bey Eüerern Eid das Mings behaltlichste
+#facs_251_r3l14 und schlechteste unter denen gewohnten
+#facs_251_r3l15 præcautionen, und Nicht zu Großen Käuffen
+#facs_251_r3l16 weiß, Abstoßen, um das Erlösende dann die

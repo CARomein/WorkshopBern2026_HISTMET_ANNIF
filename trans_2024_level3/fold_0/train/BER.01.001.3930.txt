@@ -1,0 +1,134 @@
+Law ID: BER.01.001.3930
+Name: Wegen Beziehung der Invalides Pensionen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 123/123
+# High similarity (>=50%): 112
+# Low similarity (<50%): 11
+# Not found: 0
+#
+#facs_122_r5l1 237
+#facs_122_r5l2 A
+#facs_122_r5l3 Rachstehende H. Amtleuth und Stält-Als
+#facs_122_r5l4 Causane Vivis Ählen, Romainmostier Morsen
+#facs_122_r5l5 Ifterthen Milden Grandson, Saanen Schenben
+#facs_122_r5l6 berg und prügg Civ. sepp.
+#facs_122_r5l7 Wegen Beziehung der Invalides pensionen¬
+#facs_122_r5l8 Schulthei und Raht
+#facs_122_r5l9 Weilen abermahlen die Zeit herbey geruhet
+#facs_122_r5l10 da die Königl. Sardinischen Invalides pensionen
+#facs_122_r5l11 so vom 1ten Jan. 1746. biß 1ten Jany. 1747.
+#facs_122_r5l12 verfallen sind entrichtet werden sollen, als
+#facs_122_r5l13 haben auf beschehenes vorbringen Unsers
+#facs_122_r5l14 bestelten Recrue Secretarii wir dir hiemith
+#facs_122_r5l15 befehlen wollen die Zuend dis Schreiben
+#facs_122_r5l16 ker zeichnete Invalides deines Amts vor dich
+#facs_122_r5l17 zu bescheiden, und denenselben die benöhtig¬
+#facs_122_r5l18 ten Certificats de vie unter Deinem Sigel-
+#facs_122_r5l19 und des Landschreibers Signatur aus zu¬
+#facs_122_r5l20 fertigen, auch selbe ohngesäumt ermeldtem
+#facs_122_r5l21 Unserem Reevues Secretario zu übermachen
+#facs_122_r5l22 damit er solche behörigen Ohrtdeingeben böne.
+#facs_122_r5l23 Solten aber von dieser Invalides seithlet¬
+#facs_122_r5l24 sterem Jahr verstorben seyn, wirst du denen
+#facs_123_r2l1 hinterlaßenen Erben einen Todten Schei¬
+#facs_123_r2l2 unter deinem Sigel und des Pfarr Herren
+#facs_123_r2l3 signatur aus fertigen laßen, darin eine
+#facs_123_r2l4 das seines Hinscheids beygesetzt, und selbigen
+#facs_123_r2l5 gleichfahls Unserem Recrues Secretario
+#facs_123_r2l6 übersenden, Endlichen dan und beilen
+#facs_123_r2l7 von seithen des Office General du Solde zu
+#facs_123_r2l8 Turin man sich mit einer General Quittuntz
+#facs_123_r2l9 von unserem Recrues Secretario benüget,
+#facs_123_r2l10 als wirst du die seren Leüthen anbefehlen,
+#facs_123_r2l11 daß Sie jemanden procurieren diesere
+#facs_123_r2l12 ihnen zukomende pensionen in hier
+#facs_123_r2l13 bey dem Recrues Secretario abzuholen,
+#facs_123_r2l14 und die Ihme zu seiner Sicherheit die
+#facs_123_r2l15 benöstigten Quittunzen ausfertigen,
+#facs_123_r2l16 Wie in eint und anderem zuthun
+#facs_123_r2l17 bestens wüsen wirst. Datum den 9ten
+#facs_123_r2l18 Janl 1747 Liste
+#facs_123_r2l19 Der Invalides in Königl. Sardinische, diensten
+#facs_123_r2l20 Caben zu forderen
+#facs_123_r2l21 Piedmon teser Belt
+#facs_123_r2l22 L.S. y
+#facs_123_r2l23 David Place de Ste Crois Amts Pferthe
+#facs_123_r2l24 50,=,,
+#facs_123_r2l25 Rudolff Stantz von Zruge
+#facs_123_r2l26 50 x
+#facs_123_r2l27 Guillaume Toulier ton Vikis
+#facs_123_r2l28 50 à 0 x
+#facs_123_r2l29 Samuel Bonnet de Renens Amts Lausanne 50"
+#facs_123_r3l1 239
+#facs_123_r3l2 L:S:
+#facs_123_r3l3 2
+#facs_123_r3l4 Jaques Pereaz d'Yvorne Amtshilen¬
+#facs_123_r3l5 50: = = „
+#facs_123_r3l6 Samuel Etoppey, de Granges, Amts Milden 50
+#facs_123_r3l7 Marti Mernli von Thalheim Amts Schonbergen 50 rt
+#facs_123_r3l8 Jacob Merbel von Möhnthal Amt & Schentenberg - 50 -"-
+#facs_123_r3l9 Isaac Amaron, de Deneno Amts Morser
+#facs_123_r3l10 50 x
+#facs_123_r3l11 Henry Berger, d'Eulepens Amt Romaimostier
+#facs_123_r3l12 50
+#facs_123_r3l13 t
+#facs_123_r3l14 Henry Junod de Ste Croix Amts Pferthen.
+#facs_123_r3l15 50
+#facs_123_r3l16 "
+#facs_123_r3l17 Simon Tavey de Pompaples amts Romainmos:50=
+#facs_123_r3l18 Moyse Benjamin Barraud de Bussigny Amts Lausan: 50
+#facs_123_r3l19 n°
+#facs_123_r3l20 David Francois Mottaz, de Neufchatel
+#facs_123_r3l21 50
+#facs_123_r3l22 50
+#facs_123_r3l23 Jean Francois Pouza d'Olon, Amts Wöhlen,
+#facs_123_r3l24 t
+#facs_123_r3l25 h-
+#facs_123_r3l26 ¬
+#facs_123_r3l27 Rudolff Sigerist von Schözberg Amtschenbenber¬
+#facs_123_r3l28 50
+#facs_123_r3l29 Daniel Guillard defiez Amts Grandson.
+#facs_123_r3l30 33 = 6
+#facs_123_r3l31 20=10
+#facs_123_r3l32 Joseph Truan d'Agy Amts Romaimostier
+#facs_123_r3l33 20.16
+#facs_123_r3l34 8
+#facs_123_r3l35 Christian Gränd von Saanen
+#facs_123_r3l36 Suma 875
+#facs_123_r3l37 Sop post Scriptum in die Schreiben zu thun
+#facs_123_r3l38 Ntans
+#facs_123_r3l39 diesere Rechnung werde er den Invalides auch¬
+#facs_123_r3l40 communicieren, und einberichten obselbige Zufl
+#facs_123_r3l41 befunden worden
+#facs_123_r3l42 Daniel Guillard de Fiez hat seine patent empfangen
+#facs_123_r3l43 den 1ten May 1741 allso gebührt Ihnen nur vor
+#facs_123_r3l44 8 Mosnat die pension so dar nacht 33 L: 6. S: 8 d.
+#facs_123_r3l45 Joseph Truan d'Agg fat die Invalide patent empfangen
+#facs_123_r3l46 den 1. May 1746. also gebührt Ihm nur vor acht Monath
+#facs_123_r3l47 die pension nam: 83 L: S: 8 G: weilener aber bürkl. von dem
+#facs_123_r3l48 Regtiau ist seine Seide empfangen 12. L. 105. so beziehet nur
+#facs_123_r3l49 2. p. 1. Jan. 1747. 20. L. 16. S. 8. d.
+#facs_123_r3l50 Christian
+#facs_124_r2l1 Collat
+#facs_124_r2l2 Collas
+#facs_124_r3l1 Christian Strand von Saanen hat die Invalides
+#facs_124_r3l2 patent empfangen den 1ten May 1746. allso geben
+#facs_124_r3l3 Ihme nur vor 8 Mohnat die pension, näml. 33
+#facs_124_r3l4 L. 6. S. 8. d. weilen er aber bürblich von dem
+#facs_124_r3l5 Regmt. auf seine Neis empfangen 12. L. 105.
+#facs_124_r3l6 so be ziehet er mir bis auf 1. Jan. 1747.
+#facs_124_r3l7 20 L: 16. s: 8 d:
+#facs_124_r3l8 An
+#facs_124_r3l9 Alle Teütschund Weltsche Amtl. 14 Stält¬
+#facs_124_r3l10 Freybeibel und Aman
+#facs_124_r3l11 Schultheisend Raht
+#facs_124_r3l12 Wir haben Gut funden durch angeschloßen
+#facs_124_r3l13 Getrubtes Placcard denen Cooihat einen
+#facs_124_r3l14 preis zu setzen, und hiemit dir befehlen
+#facs_124_r3l15 wollen, selbe gewohnter Ohrten anschlagen,
+#facs_124_r3l16 auch Dipplaccard in dem Mandaten
+#facs_124_r3l17 buch ein schreiben zu laßen. Wie zu thun,
+#facs_124_r3l18 Datum den 9ten Jan. 1747.

@@ -1,0 +1,92 @@
+Law nr: BER.01.001.4603
+Name: Wegen dem Schwellen an der Aar von Thun bis auf Bern. Publication.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 81/81
+# High similarity (>=80%): 79
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_334_r2l10 Thun, Freybeibel des Landgerichts¬
+#facs_334_r2l11 Seftigen und Conolfingen, denn
+#facs_230_r3l12 Aman.
+#facs_334_r2l13 begen dem Schwellen an der Aar
+#facs_334_r2l14 von Thun bis auf Bern
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_334_r2l16 da die Schiffahrt auf der Aar
+#facs_334_r2l17 von Thun auf Sern, allerdings
+#facs_334_r2l18 gute Polizey zu Erhaltung der
+#facs_334_r2l19 schbellen erfordert, und daher
+#facs_334_r2l20 die angeschloßene Verordnung
+#facs_334_r2l21 nöhtig macht, und Unser Wille
+#facs_334_r2l22 ist, daß solche in jeder Kirch der
+#facs_334_r2l23 Aar nach, wo die Angehörigen
+#facs_36_r5l1 65
+#facs_334_r4l2 interessiert sind, verlesen werde.
+#facs_334_r4l3 als wird solche Verordnung zu
+#facs_334_r4l4 uneingestelter publication und Ein¬
+#facs_334_r4l5 schreibung Euch hierdurch zugesendt.
+#facs_334_r4l6 Datl. den 29ten März 1787.
+#facs_31_r5l15 Publication
+#facs_57_r5l8 Wir Schultheit und Rath sey
+#facs_334_r4l9 thun kund hiemit, demnach Wir
+#facs_334_r4l10 in Betrachtung so bohl des Schaden¬
+#facs_334_r4l11 den jeder Anstößer der Aar von
+#facs_334_r4l12 Thun nach der Hauptstadt, seinem
+#facs_334_r4l13 gegenüber gelegenen Nachbar
+#facs_334_r4l14 durch unordentliches schwellen
+#facs_334_r4l15 zufügt, als aber des daraus
+#facs_334_r4l16 entstehenden Nachtheils für die
+#facs_334_r4l17 Uns so sehr angelegene Schiffarth
+#facs_334_r4l18 nach hiesiger Hauptstadt, nöhtig
+#facs_334_r4l19 befunden folgende, auf das all
+#facs_334_r4l20 einige Wohl Unserer Lieben
+#facs_312_r3l8 und getreuen Angehörigen
+#facs_334_r4l22 sehene Verordnung bekant zu¬
+#facs_334_r4l23 machen, deren Befolgung wir hier,
+#facs_334_r4l24 durch kräftigst anbefehlen
+#facs_335_r1l1 654.
+#facs_4_r8l9 a
+#facs_335_r2l2 St Unser Wille, daß in be¬
+#facs_335_r2l3 meldtem Kistrikt von thun bis
+#facs_335_r2l4 hieher, keine neue Schbelle von
+#facs_335_r2l5 welcher Art und unter welchem
+#facs_335_r2l6 Vorband es immer seyn, errichtet
+#facs_335_r2l7 werde, ohne vorher beschechechene An¬
+#facs_335_r2l8 steige bey Unserer verordneten
+#facs_335_r2l9 Aaren Direktion, welche darüber
+#facs_335_r2l10 den benöhtigten Augenschein
+#facs_335_r2l11 Ein einen, und die Art, Lage und
+#facs_335_r2l12 Richtung der neuen Schwelle.
+#facs_335_r2l13 bestimmen wird.
+#facs_4_r1l1 2
+#facs_335_r2l15 Deßgleichen auch soll keine
+#facs_335_r2l16 der wirklich bestehenden Schbellen
+#facs_335_r2l17 beder ausgebesert, noch von
+#facs_335_r2l18 neuem angelegt werden, ohne
+#facs_335_r2l19 Vorbißen und Genehmigung
+#facs_335_r2l20 bemeldt Unserer dazu verord¬
+#facs_335_r2l21 neten Direction, als welcher Wir
+#facs_335_r2l22 ze nach den Umständen die Richtung
+#facs_335_r2l23 derselben abzuändern überlaßen
+#facs_335_r2l24 doch soll
+#facs_110_r6l29 Stadt
+#facs_4_r4l1 3.
+#facs_36_r5l1 65
+#facs_4_r4l1 3.
+#facs_335_r3l4 Denen Schiffleuten nach bis
+#facs_335_r3l5 heriger Übung unbenommen seyn,
+#facs_335_r3l6 zur Sicherheit der Schiffahrt, bey
+#facs_335_r3l7 erheischenden Umständen, kleines Holz
+#facs_335_r3l8 an die Schbellen zu hängen, damit
+#facs_335_r3l9 die Schiffe beym Anfahren nicht
+#facs_335_r3l10 bersten, und andere dergleichen
+#facs_335_r3l11 Verfügungen zu treffen; bey
+#facs_335_r3l12 größern und wichtigern Fällen
+#facs_335_r3l13 aber, sollen sie gehalten seyn.
+#facs_335_r3l14 gleich den Anstößern solches Unserer
+#facs_335_r3l15 verordneten Arren Direction
+#facs_335_r3l16 anzuzeigen. Dat. den 29 März 1787

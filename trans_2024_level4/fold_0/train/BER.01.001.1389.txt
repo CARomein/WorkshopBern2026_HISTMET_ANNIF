@@ -1,0 +1,32 @@
+Law ID: BER.01.001.1389
+Name: Hahrmanung der in venetianische Dienst gedingten Soldaten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 21/21
+# High similarity (>=50%): 21
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_120_r3l14 An alle 2. und W. A. Freyer¬ und Amman
+#facs_120_r3l15 Hasamänung der ich denetianische Dienst
+#facs_120_r3l16 gedingten Soldaten
+#facs_120_r3l17 Schuldlheis und Rhat
+#facs_120_r3l18 Die wyl unsern bürgern, die zu der Durchleüchtigen
+#facs_120_r3l19 Herrschafft, venedig dienst verordnete, und erwöllte
+#facs_120_r3l20 fünff Hauptlüt vff beschechne Mahnung vorhabens, Innern
+#facs_120_r3l21 acht Tages mit Irem Volck vfzubrechen und ins Feld¬
+#facs_120_r3l22 zuziechen, Als habend wir die Crin ins gemein¬
+#facs_120_r3l23 gegen allen vnserem Ambtlüten beschichten hiemit
+#facs_120_r3l24 beuelchen wöllen, offendtlich von Cantzlein verkünden
+#facs_120_r3l25 gelaßen, daß alle die Jenigen, so sich von berührten
+#facs_120_r3l26 fenseren Hauptlüten zu anzognen kriegsdienst teh¬
+#facs_120_r3l27 dingen laßen, vf zinstag den b. oder Mitzeuchens den 7
+#facs_120_r3l28 nechstl. Brachmonats, sich ohne Verzug und fähles,
+#facs_120_r3l29 by meidung ehren, leibs und guts straff, allhie ein¬
+#facs_120_r3l30 Vollindt, damit Sy mit den Companyen alßbalden
+#facs_120_r3l31 ontzeüchen könnindt, wie wie uns zu eines
+#facs_120_r3l32 jeden schuldigen gehorsamme versechen haben, wollend
+#facs_120_r3l33 Synt vnder daß Gott wohl bevölchen. Datum 29. Maii
+#facs_120_r3l34 1648

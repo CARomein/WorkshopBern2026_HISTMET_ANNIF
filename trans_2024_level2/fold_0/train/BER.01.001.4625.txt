@@ -1,0 +1,98 @@
+Law ID: BER.01.001.4625
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 87/87
+# High similarity (>=50%): 85
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_196_r3l1 38 7
+#facs_196_r3l2 Circulare
+#facs_196_r3l3 an alle Herren Amtleute Deutscher
+#facs_196_r3l4 Landen.
+#facs_196_r3l5 Schultheiß Räth und Burger u.
+#facs_196_r3l6 Da Wie unterm 1ten Decembris
+#facs_196_r3l7 1786. für Unsere deutsche Lande einen
+#facs_196_r3l8 Ober Commissarium zu bestellen gut
+#facs_196_r3l9 befunden haben: so ist demselben dabey
+#facs_196_r3l10 die Besorgung samtlicher Mannlehen
+#facs_196_r3l11 aufgetragen, und ihme anbefohlen worden
+#facs_196_r3l12 die davon fallende Eheschäze alljährlich
+#facs_196_r3l13 in eine Sigellation zu bringen, und Uns
+#facs_196_r3l14 Ferners ist ihme
+#facs_196_r3l15 vorzutragen
+#facs_196_r3l16 auch anbefohlen Borden, auf alle
+#facs_196_r3l17 Ehrschäze, Todfälle, und andere Befäl¬
+#facs_196_r3l18 so von Unsern Lehen abhangen, und
+#facs_196_r3l19 von Unsern Amtleuten bezogen berden,
+#facs_196_r3l20 fleißig zu achten, und ob dabey weder
+#facs_196_r3l21 Unsere Rechte verabstäumt noch ein
+#facs_196_r3l22 nehreres als solche mitbringen gefordert.
+#facs_196_r3l23 Berde, zu welchem End alle Unsere
+#facs_196_r3l24 Amtleute alle obbemelten Befälle, beim
+#facs_196_r3l25 gleich sie als Amts = Beneficia Ihnen
+#facs_196_r3l26 allein
+#facs_197_r2l1 allein zu nutzen überlaßen worden,
+#facs_197_r2l2 fürohin specifice in das Einnehmen
+#facs_197_r2l3 und dann summarisch wieder in das
+#facs_197_r2l4 Ausgeben ihrer Amts Rechnungen
+#facs_197_r2l5 bringen sollen, mit Ausnahm jedoch
+#facs_197_r2l6 jeniger geringer Ehrschäzen von Pfen¬
+#facs_197_r2l7 mugzinsen die nicht auf eine Krone
+#facs_197_r2l8 oder fünf und zwanzig sazen anstei¬
+#facs_197_r2l9 gen, als welche lediglich summarisch
+#facs_197_r2l10 in die Amts Rechnungen eingebracht
+#facs_197_r2l11 Bleicherbeise
+#facs_197_r2l12 werden mögen.
+#facs_197_r2l13 ist ihme auch aufgetragen worden
+#facs_197_r2l14 vorgfältig zu achten, daß Unsere
+#facs_197_r2l15 Amtleüte ihre Zinsbücher und Heisch
+#facs_197_r2l16 Rödel in guter Ordnung halten
+#facs_197_r2l17 und die Handänderungen zu beilen
+#facs_197_r2l18 in selbige, nicht aber in die Urbarn
+#facs_197_r2l19 einschreiben, damit deren Erneuerung
+#facs_197_r2l20 um desto länger vermiedten werden
+#facs_197_r2l21 könne.
+#facs_197_r2l22 Damit nun dieser Unserer
+#facs_197_r2l23 Willensmeinung ein Benügen geleistet
+#facs_197_r2l24 werde, so wird Euch solche andurch mit
+#facs_197_r2l25 getheilt, mit dem Befehl, zufolg deßen
+#facs_197_r2l26 eine genaue und umständliche Verzeichnen
+#facs_197_r2l27 aller
+#facs_197_r3l1 owd.
+#facs_197_r3l2 aller und jeder Handänderungen
+#facs_197_r3l3 der in Eüerein Amt sich befindlichen
+#facs_197_r3l4 oder davon abhangenden Mannlehen
+#facs_197_r3l5 nebst einer umständlichen Resignation
+#facs_197_r3l6 aller von denen Schreiberen Eueres
+#facs_197_r3l7 Amts aufgenommenen und stipulierten
+#facs_197_r3l8 Instrumenten, die sothane Mannlehen
+#facs_197_r3l9 betreffen mögen, wie auch der dies¬
+#facs_197_r3l10 erts allenfalls nöthigen Schätzungen
+#facs_197_r3l11 alljährlich vor Martiny Unserm
+#facs_197_r3l12 Ober Commissarii deutschen Lands
+#facs_197_r3l13 einzuschiken, damit sodann derselbe
+#facs_197_r3l14 darauf die ihme obliegende Composition
+#facs_197_r3l15 der Ehrschätzen verfertigen, und seine
+#facs_197_r3l16 Sigellation aufsezen könne. Sodenns
+#facs_197_r3l17 berdet Ihr auch nach obiger Vorschrift
+#facs_197_r3l18 alle Ehrschätze, Todfälle, und andere
+#facs_197_r3l19 Befälle, so von Oberbeitlichem Lehen
+#facs_197_r3l20 herrühren, und von Euch bezogen berden,
+#facs_197_r3l21 fürohin jedeiten in das Einnehmen und
+#facs_197_r3l22 Ausgeben der von Euch abzulegenden
+#facs_197_r3l23 Amts Rechnungen eintragen;- und
+#facs_197_r3l24 endlich wird Euch anbefohlen, jeweilen
+#facs_197_r3l25 im lezten Jahr Euerer Amts Praefec
+#facs_197_r3l26 tur vor Osteren Eurer Zinsbücher
+#facs_197_r3l27 und Heischrödel gemeldtem Ober Commissario
+#facs_197_r3l28 zur Examination zu überschiben.
+#facs_197_r3l29 Diesen
+#facs_198_r2l1 6
+#facs_198_r3l1 Diesen Befehl dann berdet ihr zum
+#facs_198_r3l2 verhalt Euerer Nachfahrer seines
+#facs_198_r3l3 Orts einschreiben laßen.
+#facs_198_r3l4 Datum den 7ten durchmonat 1788.

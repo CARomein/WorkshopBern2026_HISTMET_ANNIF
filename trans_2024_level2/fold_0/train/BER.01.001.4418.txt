@@ -1,0 +1,351 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 343/344
+# High similarity (>=80%): 324
+# Low similarity (<80%): 19
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4418
+#facs_160_r4l26 leit, wird untersagt und verbocten werden;
+#facs_31_region_1628529579916_271l1 Farif und Reglement
+#facs_31_region_1628529579916_271l2 über das
+#facs_31_region_1628529579916_271l3 Post= uns Gotten=Wesen in allhiesiger Haubt¬
+#facs_31_region_1628529579916_271l4 Stadt
+#facs_323_r2l5 Wir Schultheiß Klein und Broße Rähte der
+#facs_31_region_1628528607835_117l3 Stadt und Respubli Birn, thun kund hiemit
+#facs_31_region_1628528607835_117l4 Demnach Wir aus Anlaß gnädigst beliebter
+#facs_31_region_1628528607835_117l5 frischer hinlichung Unserer Post=ferme, auch Post¬
+#facs_31_region_1628528607835_117l6 und Bottenwestens, item der Messagerie p zugleich
+#facs_31_region_1628528607835_117l7 geruhet, das Post=Reglement und den Tarif, wider
+#facs_31_region_1628528607835_117l8 malen revidieren zu laßen; daß darauf hin
+#facs_31_region_1628528607835_117l9 Wir, auf uns daher erstatteten rapport hin,
+#facs_31_region_1628528607835_117l10 niche Abänderung darinn zu machen, mithin
+#facs_31_region_1628528607835_117l11 gut befunden, solch Regtement und Tarif fest zu
+#facs_31_region_1628528607835_117l12 sezen, wie von Artibel zu Artibel hienach ent¬
+#facs_31_region_1628528607835_117l13 halten ist.
+#facs_31_region_1628528607835_117l14 Damit nun jedermann wiße, in wie weit
+#facs_31_region_1628528607835_117l15 mann den Porto schuldig seye, auch sich in vorfallen¬
+#facs_31_region_1628528607835_117l16 heiten zu betragen habe, allso niemand daher
+#facs_31_region_1628528607835_117l17 die Unwißenheit vorschühen könne; als
+#facs_31_region_1628528607835_117l18 haben Wir solchen Tarif und das Reglement
+#facs_31_region_1628528607835_117l19 zum Drub beförderen laßen, und ist dabey
+#facs_31_region_1628528607835_117l20 Unser Wille, daß an allen Post=Bureaux,
+#facs_31_region_1628528607835_117l21 Zu gesamt Unseren Teutsch= und Weltschen
+#facs_30_region_1628528561302_105l1 50.
+#facs_32_region_1628529667178_288l1 54.
+#facs_32_region_1628529690996_297l1 Landen, gegenwärtiger Tarif und Reglement, in
+#facs_32_region_1628529690996_297l2 form Placcards, öffentlich ausgehängt, und daß
+#facs_32_region_1628529690996_297l3 solches geschehe, soll allhier in Unserer Häubt¬
+#facs_32_region_1628529690996_297l4 Stadt von Unserer verordneten PostCommission,
+#facs_32_region_1628529690996_297l5 in übrigen Städten und Landen aber, von
+#facs_32_region_1628529690996_297l6 Unseren Amtleuten des Orts, darauf fleißig
+#facs_32_region_1628529690996_297l7 geachtet- und, unterlaßen falls, die Remadur
+#facs_32_region_1628529690996_297l8 vorgekehrt werden.
+#facs_32_region_1628529690996_297l9 Dieses Reglement und Tarif nun, soll in
+#facs_32_region_1628529690996_297l10 seiner Wirksamkeit den Anfang nemmen den
+#facs_32_region_1628529690996_297l11 1ten Augusti des 1778. Jahrs, und dauern, so lang
+#facs_32_region_1628529690996_297l12 es Uns gefallen wird. Geben in Unserer
+#facs_32_region_1628529690996_297l13 Großen Rahts Versamlung den 10ten Marty 1774.
+#facs_32_region_1628529690996_297l14 Porto der Briefen
+#facs_32_region_1628529690996_297l15 von einem einfachen Brief soll bezalt werden.
+#facs_32_region_1628529690996_297l16 Solothurn
+#facs_32_region_1628529690996_297l17 von Bern an Fryburg,
+#facs_32_region_1628529690996_297l18 Mürten,
+#facs_16_region_1628252371041_28l1 22.
+#facs_32_region_1628529690996_297l20 Burgdorff,
+#facs_32_region_1628529699267_300l17 und von dannen
+#facs_32_region_1628529690996_297l22 wider zuruk. Thun,
+#facs_32_region_1628529690996_297l23 Erlach.
+#facs_32_region_1628529690996_297l24 Im Land herum von einem Ort an ein anders,
+#facs_32_region_1628529690996_297l25 die nicht über Fünf Stund von einander
+#facs_32_region_1628529699267_300l1 entlegen sind, soll bezalt werden, eben¬
+#facs_32_region_1628529699267_300l2 mäßig
+#facs_32_region_1628529690996_297l19 2.x
+#facs_36_region_1628530098110_387l_16 können.
+#facs_32_region_1628529699267_300l5 dasel¬
+#facs_32_region_1628529699267_300l6 Von dem nach
+#facs_155_r3l1 ge
+#facs_14_region_1628104374389_136l1 Neüenburger Wein.
+#facs_270_r2l5 5te Isterten
+#facs_32_region_1628529699267_300l10 Reis,
+#facs_145_r4l37 Morfen
+#facs_32_region_1628529699267_300l12 4x
+#facs_32_region_1628529699267_300l13 Lausanne,
+#facs_32_region_1628529699267_300l14 Vitis
+#facs_62_r7l7 de
+#facs_32_region_1628529699267_300l16 Lenzburg,
+#facs_32_region_1628529699267_300l17 und von dannen
+#facs_226_r2l17 kan.
+#facs_32_region_1628529699267_300l19 wider zurük.
+#facs_32_region_1628529699267_300l20 Drugg,
+#facs_294_r8l26 bung
+#facs_32_region_1628529699267_300l22 Im Land herum von einem Ort zum anderen,
+#facs_32_region_1628529699267_300l23 so über Fünfstund von einander entlegen sind,
+#facs_32_region_1628529699267_300l24 ebenmäßig
+#facs_26_region_1628255617061_325l1 42.
+#facs_32_region_1628529699267_300l26 Wann aber ein einfacher Brief, von einem Theil
+#facs_32_region_1628529699267_300l27 des Landes durch die Haubtstadt hindurch in
+#facs_6_region_1628103169678_158l1 6
+#facs_33_region_1628529797176_312l1 56.
+#facs_33_region_1628529811258_318l1 den anderen Theil des Landes gehet, so soll
+#facs_33_region_1628529811258_318l2 Denzumal, was von der Haubtstadt hinwegg
+#facs_33_region_1628529811258_318l3 nur 5. stund weit gehet, nebst dem bestimten,
+#facs_33_region_1628529811258_318l4 annoch 2 x und was weiters als 5 stund weit
+#facs_33_region_1628529811258_318l5 gehet, annoch 4.x. bezalt werden.
+#facs_33_region_1628529811258_318l6 von Bern biß nach Zürich und Schaffhausen,
+#facs_32_region_1628529699267_300l17 und von dannen
+#facs_33_region_1628529811258_318l8 von einem doppelten Brief, mag der Porto
+#facs_33_region_1628529811258_318l9 um den halbigen Theil vermehrt, und solcher
+#facs_33_region_1628529811258_318l10 auch mich proportion von einem drey= oder mehrfältigen
+#facs_33_region_1628529811258_318l11 Brief, bezogen werden.
+#facs_33_region_1628529811258_318l12 Briefe aber, die Muster enthalten, sollen
+#facs_33_region_1628529811258_318l13 Moderater Taxiert werden.
+#facs_33_region_1628529811258_318l14 für Briefe an jenige Ort, so von der Haubt¬
+#facs_33_region_1628529811258_318l15 Toute abgelegen, und durch expresse Botten von
+#facs_33_region_1628529811258_318l16 denen nächst gelegenen Bureaux, dahin getragen
+#facs_33_region_1628529811258_318l17 werden müßen, soll, neben dem Ordinari¬ Port
+#facs_33_region_1628529811258_318l18 an gedachtes Bureau, auch für das Boten Lohn,
+#facs_33_region_1628529811258_318l19 und nicht mehr bezalt werden, als  x 2.
+#facs_33_region_1628529811258_318l20 Niemand soll zugelaßen seyn, andere als
+#facs_33_region_1628529811258_318l21 seine eigene Briefe, in Paquet zu schlagen.
+#facs_33_region_1628529811258_318l22 Mit den Brief-Paquets aber, soll die proportion
+#facs_33_region_1628529811258_318l23 nach der Entfernung wie mit den Briefen platz
+#facs_33_region_1628529811258_318l24 haben, allso daß er, der einfache Brief 4x bezalt,
+#facs_33_TextRegion_1633111152880_59l1 Vom Lod 8.x. wo aber der einfache Brief 2. x. bezalt,
+#facs_33_TextRegion_1633111152880_59l2 vom Tod nur 4 x. soll bezogen werden.
+#facs_33_TextRegion_1633111152880_59l3 von Briefen dann, so aus fremden Landen.
+#facs_33_TextRegion_1633111152880_59l4 kommen, sollen die Auslagen nicht auf einem Höhe¬
+#facs_33_TextRegion_1633111152880_59l5 ren Fuß bezalt werden, als solche denen fremden
+#facs_33_TextRegion_1633111152880_59l6 Bureaux vergütet werden.
+#facs_33_TextRegion_1633111152880_59l7 Porto der Hardes und Waaren.
+#facs_33_TextRegion_1633111152880_59l8 für Hardes und Swaaren, soll allwegen nach
+#facs_33_TextRegion_1633111152880_59l9 proportion der Brief = Porto verfahren werden;
+#facs_33_TextRegion_1633111152880_59l10 allso daß, wo von einem einfachen Brief 4 X
+#facs_33_TextRegion_1633111152880_59l11 bezahlt wird, von jedem Pfund hiesiger Gewicht
+#facs_33_TextRegion_1633111152880_59l12 mehr nicht soll bezalt werden, als 4 X
+#facs_33_TextRegion_1633111152880_59l13 Wo aber von einem Einfachen Brief nur bezo¬
+#facs_33_TextRegion_1633111152880_59l14 gen wird 2x, soll von jedem Pfund hiesiger
+#facs_33_TextRegion_1633111152880_59l15 Gewicht auch nur bezogen werden... 2x
+#facs_33_TextRegion_1633111152880_59l16 Außer was von Neuenburg, und von dannen
+#facs_33_TextRegion_1633111152880_59l17 allhero versendt wird, da von einem Pfund nur
+#facs_33_TextRegion_1633111152880_59l18 bezalt werden soll.
+#facs_32_region_1628529690996_297l19 2.x
+#facs_33_TextRegion_1633111152880_59l20 Was aber Waaren und Paquets sind, so nur
+#facs_33_TextRegion_1633111152880_59l21 durch hiesige Rottmäßigkeit gehen, und von Genf
+#facs_33_TextRegion_1633111152880_59l22 nach Zürich, Schaffhaufen und Basel, oder von
+#facs_33_TextRegion_1633111152880_59l23 Dannen wider nach Genf gehen, mag von jedem
+#facs_33_TextRegion_1633111152880_59l24 Pfund Genfer Gewicht wie bis dato gewohnt, all¬
+#facs_33_TextRegion_1633111152880_59l25 wegen
+#facs_33_region_1628529802646_315l1 57
+#facs_34_region_1628529876675_330l1 58.
+#facs_34_region_1628529896512_336l1 "wegen bezogen werden nämlich
+#facs_26_region_1628255621593_328l1 43.
+#facs_34_region_1628529896512_336l3 Für diesen bestimten Porto sollen die
+#facs_34_region_1628529896512_336l4 Post Bestehere von den Waaren so im Land¬
+#facs_34_region_1628529896512_336l5 bleiben, die Entrichtung aller Zoll, und gleit¬
+#facs_34_region_1628529896512_336l6 gefällen, auf der ganzen Route über sich neh¬
+#facs_34_region_1628529896512_336l7 men, und niemand, unter dem Vorwand der
+#facs_34_region_1628529896512_336l8 zöllen, etwas mehr als den bestimten Port¬
+#facs_34_region_1628529896512_336l9 lohn forderen; Wovon jedennoch einzig und¬
+#facs_34_region_1628529896512_336l10 allein jenige Waaren und Artikel ausgenomen
+#facs_34_region_1628529896512_336l11 sind, so auf der, zu End dis Reglements abge¬
+#facs_34_region_1628529896512_336l12 drubten Verzeichnuß stehen, und darum
+#facs_34_region_1628529896512_336l13 benennet werden, für welche Waaren einzig.
+#facs_34_region_1628529896512_336l14 und allein, und zwar auch nur, wann solche in
+#facs_37_region_1628530206341_406l20 Unsere Weltsche Lande gehen, oder aus denselben
+#facs_34_region_1628529896512_336l16 herkommen, denen Post besteheren nebst dem
+#facs_34_region_1628529896512_336l17 hieroben fest gesezten Vortlohn, annoch von jedem
+#facs_34_region_1628529896512_336l18 Pfund bezalt werden soll, was bey jedem Artibel
+#facs_34_region_1628529896512_336l19 bestimmet ist.
+#facs_34_region_1628529896512_336l20 Was aber jemige Waaren anbetrifft, so aus
+#facs_34_region_1628529896512_336l21 Unseren Landen gehen, oder durch selbige transitiren,
+#facs_34_region_1628529896512_336l22 wird es in Ansehen der Zöllen ferners hin bey dem
+#facs_34_region_1628529896512_336l23 jenigen verbleiben, was das hiesige Post-Amt
+#facs_34_region_1628529896512_336l24 mit den Benachbahrten Äußeren Verglichen hat,
+#facs_34_region_1628529896512_336l25 und bißher in Ülung gewesen.
+#facs_39_region_1628677423295_62l1 69.
+#facs_34_region_1628529910642_339l1 Porto vom Beld.
+#facs_34_region_1628529910642_339l2 Die Post bestehere sollen gehalten seyn, alle
+#facs_34_region_1628529910642_339l3 Geld-Croupo ohne ausnahm anzuehmen, und,
+#facs_34_region_1628529910642_339l4 auf begehren der Partheyen, alle Gold = Croupa
+#facs_34_region_1628529910642_339l5 und diejenige Silber Croupo so nur fünfzig Feder¬
+#facs_34_region_1628529910642_339l6 Thaler oder deren Wehrt und darunter enthal¬
+#facs_34_region_1628529910642_339l7 fen, durch den ersten Courier, wo immer möglich,
+#facs_34_region_1628529910642_339l8 zu versenden; da ihnen dann für Port und Risqua
+#facs_34_region_1628529910642_339l9 bezahlt werden soll, wo ein Brief 4x kostet:
+#facs_34_region_1628529910642_339l10 Vom Gold, ein quart vom hundert.
+#facs_34_region_1628529910642_339l11 Vom Silber, ein halbes vom Hundet.
+#facs_34_region_1628529910642_339l12 Wann aber ein Brief nur 2.x. besten wurde:
+#facs_34_region_1628529910642_339l13 Vom Gold, ein Achtel vom Hundert.
+#facs_34_region_1628529910642_339l14 Vom Silber ein quart vom hundert.
+#facs_34_region_1628529910642_339l15 Solte mann aber die Geld-Croups durch die
+#facs_34_region_1628529910642_339l16 Land Kutsch versenden wollen, so soll von beis
+#facs_34_region_1628529910642_339l17 obaus gesezten Taxen, jeweilen nach Masgab
+#facs_34_region_1628529910642_339l18 Der Briefs Porto, nur die Helffte gefordert
+#facs_34_region_1628529910642_339l19 und bezogen werden; Und sollen die Post Beste.
+#facs_34_region_1628529910642_339l20 chere schuldig seyn, alle Geld-Croups so für die
+#facs_34_region_1628529910642_339l21 Land Kutsch übergeben werden, bey derselben
+#facs_34_region_1628529910642_339l22 ersten Abreis zu Spedieren.
+#facs_34_region_1628529910642_339l23 Jedermann soll schuldig seyn, die Paquets, Geld
+#facs_35_region_1628529993243_354l_1 60.
+#facs_35_region_1628530007281_363l_1 oder andere Effecten, so mann versenden will,
+#facs_35_region_1628530007281_363l_2 mit benachung der Sum, des Wehrts oder qua¬
+#facs_35_region_1628530007281_363l_3 litet, aufrichtig der Post anzugeben, und zu
+#facs_35_region_1628530007281_363l_4 Consignieren; da dann die Post um alle dergleichen
+#facs_35_region_1628530007281_363l_5 Sachen, und zwar so weit der Portlohn bezogen wird,
+#facs_35_region_1628530007281_363l_6 Verantwortlich seyn soll; Es seye dann Sach- daß
+#facs_35_region_1628530007281_363l_7 die Bestehere beweisen könten, daß das über¬
+#facs_35_region_1628530007281_363l_8 gebene, durch unvermeidenliche zufäll, und
+#facs_35_region_1628530007281_363l_9 ohne der Post besteheren, ihrer Commisen, Couriers
+#facs_35_region_1628530007281_363l_10 und Botten Schuld verlohren gegangen, und
+#facs_35_region_1628530007281_363l_11 verderbt worden.
+#facs_35_region_1628530007281_363l_12 Wurden aber solche Effecten nicht behörig¬
+#facs_35_region_1628530007281_363l_13 Consigniert, so ist die Post darum nicht verant¬
+#facs_35_region_1628530007281_363l_14 wortlich, und was fälschlich in ansehen der
+#facs_35_region_1628530007281_363l_15 qualitat oder quantität in dem Post Bureau
+#facs_35_region_1628530007281_363l_16 angegeben und darinn entdebt wird, soll der
+#facs_35_region_1628530007281_363l_17 competierliche Richter, auf der Post besteheren
+#facs_35_region_1628530007281_363l_18 anmelden, zu handen der Post confiscieren,
+#facs_35_region_1628530007281_363l_19 und derselben zustellen.
+#facs_35_region_1628530007281_363l_20 Wo bestelte Bureaux, Commisen oder Factoren
+#facs_35_region_1628530007281_363l_21 sind, sollen die Effecten denenselben, obver¬
+#facs_35_region_1628530007281_363l_22 deüter maßen übergeben, und consigniert
+#facs_35_region_1628530007281_363l_23 werden: Wo aber keine dergleichen sind,
+#facs_35_region_1628530007281_363l_24 mögen selbige deme, so das Ordinari= und
+#facs_35_region_1628530016344_366l_1 schwehre Sachen führt, wohl übergeben, dem Courier
+#facs_35_region_1628530016344_366l_2 aber nichts als Briefe aufgeladen, und zugestelt
+#facs_35_region_1628530016344_366l_3 werden; Zumahlen um die Effecten so unterwegs¬
+#facs_35_region_1628530016344_366l_4 dem Courier übergeben, und folglich nicht consigniret
+#facs_35_region_1628530016344_366l_5 werden, die Post nicht verantwortlich seyn soll.
+#facs_35_region_1628530016344_366l_6 Die Post Commisen sollen schuldig seyn, denen¬
+#facs_35_region_1628530016344_366l_7 jenigen, so ihnen einiche effecten oder Geld überge¬
+#facs_35_region_1628530016344_366l_8 ben, die Bücher, worin die Spedierende Sachen
+#facs_35_region_1628530016344_366l_9 eingeschrieben werden, auf Verlangen, vorzu¬
+#facs_35_region_1628530016344_366l_10 weisen, auch ihren Nahmen anzugeben.
+#facs_35_region_1628530016344_366l_11 Nicht weniger sollen die Commisen verpflichtet
+#facs_35_region_1628530016344_366l_12 seyn, denenjenigen, so ihnen Geld oder kostbahre
+#facs_35_region_1628530016344_366l_13 Effecten übergeben, alsobald dagegen ein recepisse
+#facs_35_region_1628530016344_366l_14 auszustellen.
+#facs_35_region_1628530016344_366l_15 Bleichfalls sollen die Briefträgere schuldig
+#facs_35_region_1628530016344_366l_16 seyn, diejenigen, so einiche Effecten oder Geld —
+#facs_35_region_1628530016344_366l_17 empfangen, deßen ohngesaumt zu Avisieren,
+#facs_35_region_1628530016344_366l_18 und ihnen eine schrifftliche Quittanz, darinn der
+#facs_35_region_1628530016344_366l_19 Effect oder das Geld consigniert ist, zu übergeben,
+#facs_35_region_1628530016344_366l_20 da dann derjenige, an dann solches adressiert ist,
+#facs_35_region_1628530016344_366l_21 seinen Nahmen darunter sehen, und gegen
+#facs_35_region_1628530016344_366l_22 das Paquet auswechslen soll.
+#facs_35_region_1628530016344_366l_23 Es sollen in beid lezt erwehnten Fällen,
+#facs_35_region_1628530016344_366l_24 weder die Post Comisen, noch die Particularen
+#facs_35_region_1628529999522_360l_1 61.
+#facs_36_region_1628530079871_375l_1 62.
+#facs_285_r4l11 unter keinem Vorwand etwas mehr
+#facs_36_region_1628530098110_387l_2 Quittanzen und Recepisse von sich zu stellen
+#facs_36_region_1628530098110_387l_3 wiedrigen Falls demjenigen Theil, so hierwider
+#facs_36_region_1628530098110_387l_4 fehlen wurde, wann über die anvertraute Sach
+#facs_36_region_1628530098110_387l_5 Streit entstehen solte? kein Recht soll gehal¬
+#facs_36_region_1628530098110_387l_6 ten werden.
+#facs_36_region_1628530098110_387l_7 Und, damit dieser Verordnung bestens
+#facs_36_region_1628530098110_387l_8 nachgelebt werde, sollen die Post bestehern
+#facs_36_region_1628530098110_387l_9 gehalten seyn, aller Orten genugsam- und
+#facs_36_region_1628530098110_387l_10 tüchtige Commisen zu halten; Besonders aber
+#facs_36_region_1628530098110_387l_11 sollen in allhiesigem kleineren Bureau, zu
+#facs_36_region_1628530098110_387l_12 Abnahm und Ausgab der Paqueten und Briefen,
+#facs_36_region_1628530098110_387l_13 niemahl minder als zwey Commisen, den
+#facs_36_region_1628530098110_387l_14 Brieftrager nicht gerechnet, sich vorfinden,
+#facs_36_region_1628530098110_387l_15 um das Publicum behörig bedienen zu
+#facs_36_region_1628530098110_387l_16 können.
+#facs_36_region_1628530098110_387l_17 Es soll auch zu Stadt und Land, allen
+#facs_36_region_1628530098110_387l_18 Post Commisen und Brief trägeren verboten
+#facs_235_r6l13 und ligenden Gütern; denn die eingegeben¬
+#facs_104_r3l2 sehen werden können
+#facs_36_region_1628530098110_387l_21 Nach allem diesem vorgeschriebenen nun
+#facs_36_region_1628530098110_387l_22 sollen die Postbestere sich pünbtlich verhal¬
+#facs_172_r7l23 leit ansehen wird.
+#facs_36_region_1628530104394_390l_1 vorbestimten, unter keinem Vorwand nichts
+#facs_36_region_1628530104394_390l_2 mehrers zu forderen, noch ferners zu beziehen
+#facs_36_region_1628530104394_390l_3 haben; Gleichwie hingegen Wir, wegen dem¬
+#facs_36_region_1628530104394_390l_4 jenigen, so durch gegenwärtiges Reglement und
+#facs_36_region_1628530104394_390l_5 Tarif ihnen zugedacht und bewilliget ist, sie Schüzen
+#facs_36_region_1628530104394_390l_6 und Schirmen werden.
+#facs_36_region_1628530104394_390l_7 Endlichen dann, wird hiemit kund gethan,
+#facs_36_region_1628530104394_390l_8 daß derjenige, so sich zu beklagen hätte, daß
+#facs_36_region_1628530104394_390l_9 gegenwärtigem Tarif und Reglement nicht seye
+#facs_36_region_1628530104394_390l_10 nachgelebt- oder aber die Burcaux sammselig
+#facs_36_region_1628530104394_390l_11 bedient worden, hier in der Haubtstadt und
+#facs_36_region_1628530104394_390l_12 dem Stadt Bezirk, bey der verordneten Post¬
+#facs_36_region_1628530104394_390l_13 Commission, in den anderen Stäcken und auf
+#facs_36_region_1628530104394_390l_14 dem Land aber, bey dem Amtsmann des Orts,
+#facs_36_region_1628530104394_390l_15 sich anmelden, welcher die Partheyen verhören,
+#facs_36_region_1628530104394_390l_16 und, auf begehren, die gesätzliche Bedenkzeit
+#facs_36_region_1628530104394_390l_17 einräumen, und nachwehrts in erster Instanz
+#facs_36_region_1628530104394_390l_18 Summarisch darüber absprechen soll.
+#facs_36_region_1628530104394_390l_19 Falls nun die eint oder andere Parthey, die, in
+#facs_36_region_1628530104394_390l_20 Erster Instanz ausgefällte Urtheil, weiters Zeuchen
+#facs_36_region_1628530104394_390l_21 will, so soll von unseren Amtleuten an die Post¬
+#facs_36_region_1628530104394_390l_22 Commission, von derselben aber, wan der Wehrt des
+#facs_36_region_1628530104394_390l_23 im Streit ligenden Einhundert Thaler überstei¬
+#facs_36_region_1628530104394_390l_24 get, an uns recurriert werden können.
+#facs_36_region_1628530086779_381l_1 63
+#facs_37_region_1628530191162_400l1 64.
+#facs_37_region_1628530206341_406l1 Wann dann eine Amtliche Urtheil recurriert wird,
+#facs_37_region_1628530206341_406l2 so soll das Recours Urbund mit einer wohl motivierten
+#facs_37_region_1628530206341_406l3 Urtheil, und der von den Partheyen angebrachten
+#facs_37_region_1628530206341_406l4 Rechtsgründen, allso gleich von unseren Amt¬
+#facs_37_region_1628530206341_406l5 leuten directe Unserer verordneten Post Commission
+#facs_37_region_1628530206341_406l6 ohne Entgelt übersendt- und derselben Urtheil
+#facs_37_region_1628530206341_406l7 gewärtiget werden.
+#facs_37_region_1628530206341_406l8 Es soll aber der Kläger gehalten seyn, seine
+#facs_37_region_1628530206341_406l9 Klage vor dem bestimten Richtermert dreyen
+#facs_37_region_1628530206341_406l10 Monaten von der Zeit anzurechnen, da ihme der
+#facs_37_region_1628530206341_406l11 vermeint erlickene Nachtheil bekant seyn mag,
+#facs_37_region_1628530206341_406l12 anzubringen, nach welcher Zeit ihme kein Recht
+#facs_37_region_1628530206341_406l13 gehalten, und auf die Klage nicht geachtet werden
+#facs_37_region_1628530206341_406l14 soll. Geben in Unser Großen Rahts Versamlung
+#facs_37_region_1628530206341_406l15 den 10ten Marty 1774.
+#facs_37_region_1628530206341_406l16 Verzeichnuß
+#facs_37_region_1628530206341_406l17 derjenigen Waaren, für welche etwas mehrers
+#facs_37_region_1628530206341_406l18 als der im 2ten Abschnitt bestimte Portlohn
+#facs_37_region_1628530206341_406l19 mitgibt, bezahlt werden soll, wann selbige in
+#facs_37_region_1628530206341_406l20 Unsere Weltsche Lande gehen, oder aus denselben
+#facs_37_region_1628530206341_406l21 harkommen, als
+#facs_37_region_1628675909794_15l1 1. Or et Argent, en Masse, Billon ou lingots;
+#facs_37_region_1628675909794_15l2 Jouallerie fine, et ce qui est enchassé en Or de Cent
+#facs_300_r4l2 stens
+#facs_58_region_1629373571441_241l_12 i/
+#facs_37_region_1628530214260_409l3 Livres poids de Marc, une Livre ou un pour cent.
+#facs_37_region_1628530214260_409l4 2. Horlogerie, jouallerie fausse, et ce qui est enchassé
+#facs_37_region_1628530214260_409l5 en Argent
+#facs_50_region_1628873467160_144l28 1.—.
+#facs_37_region_1628530214260_409l7 3. Fil blanc, fil d'Hollande ou de Flandre, item dentelle
+#facs_37_region_1628530214260_409l8 de fil de flandre, Italie ou france
+#facs_22_region_1628253659497_214l_1 34.
+#facs_37_region_1628530214260_409l10 4. Or et Argent, rompu broyé ou brulé.
+#facs_37_region_1628530214260_409l11 "fin, battu en feuilles Livrets,
+#facs_37_region_1628530214260_409l12 "fin trait ou filé en Dentelles,
+#facs_37_region_1628530214260_409l13 Etoffes, Toiles, Draps d'Or et d'Argent fin.
+#facs_37_region_1628530214260_409l14 Rubans, Gallons, franges d'or et d'Argent fin
+#facs_37_region_1628530214260_409l15 Ouvrages d’Orfevrerie et fillagname.
+#facs_37_region_1628530214260_409l16 Boëtes ou Etuis de Montre,
+#facs_37_region_1628530214260_409l17 Boutons de fil d'Or ou d'Argent.
+#facs_260_r4l26 ter
+#facs_37_region_1628530214260_409l19 5. Beaume, Essence et huile précieuse, fil blanc meter
+#facs_37_region_1628530214260_409l20 de fin, moyen et grossier
+#facs_9_region_1628103835119_42l1 12.
+#facs_37_region_1628530214260_409l22 6. Martre, Zibeline et autre Pelletrie fine.
+#facs_10_region_1628103945415_60l1 14.
+#facs_37_region_1628530214260_409l24 7. China, Civette, Cochenille, et autre Drogue fine,
+#facs_37_region_1628530214260_409l25 Myrhe, Semences de Perles,
+#facs_4_region_1628102585488_60l1 2.
+#facs_37_region_1628530214260_409l27 Dentelles Comunes.
+#facs_37_region_1628530214260_409l28 Toile de Cambray, Hollande Baptiste
+#facs_37_region_1628530214260_409l29 Wir ermahnen hierbey jedermann, die, durch die
+#facs_37_region_1628530214260_409l30 Post zu versendende Waaren, richtig zu consignieren
+#facs_37_region_1628530197132_403l1 65.
+#facs_38_region_1628676035969_23l1 66.
+#facs_38_region_1628676045317_29l1 wie dann, im Fall eines Verdachts, die Zoll
+#facs_38_region_1628676045317_29l2 Comisen die Paquets visitieren, und, auf entdeken
+#facs_38_region_1628676045317_29l3 die fälschlich Consignierte Waar, ohne Schonen,
+#facs_38_region_1628676045317_29l4 nach Vorschrifft Unserer Zoll Reglementen, zu
+#facs_38_region_1628676045317_29l5 Obrigkeitlichen Handen confiscieren soll. Geben
+#facs_38_region_1628676045317_29l6 in Unserer großen Rahts Versamlung d. 10ten Marty 1774
+#facs_24_region_1628255397587_277l11 en

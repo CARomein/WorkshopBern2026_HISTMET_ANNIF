@@ -1,0 +1,162 @@
+Law ID: BER.01.001.3339
+Name: Einen Bättag [...] ausschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 151/151
+# High similarity (>=50%): 142
+# Low similarity (<50%): 9
+# Not found: 0
+#
+#facs_353_r1l1 1652
+#facs_353_r1l2 Collath
+#facs_353_r2l1 11
+#facs_353_r2l2 Beschreyburg
+#facs_353_r2l3 der H. Amthleuthen Teütsch- und Weltschen
+#facs_353_r2l4 Landts auff Ihre Rechnungen ao. 1721.
+#facs_353_r2l5 februarius
+#facs_353_r2l6 Buchsee, Montags den
+#facs_353_r2l7 10
+#facs_353_r2l8 Landtshiret
+#facs_353_r2l9 Dinstags den
+#facs_353_r2l10 11
+#facs_353_r2l11 Hettisbeyl,
+#facs_353_r2l12 12
+#facs_353_r2l13 Burgdorff, Mitwochens den
+#facs_353_r2l14 Aarberg, Donstags den
+#facs_353_r2l15 13
+#facs_353_r2l16 Buren,
+#facs_353_r2l17 4
+#facs_353_r2l18 Laupen, Freytags den
+#facs_353_r2l19 17
+#facs_353_r2l20 Nydaulo, 2 Montags den
+#facs_353_r2l21 Erlach,
+#facs_353_r2l22 18.
+#facs_353_r2l23 St. Pohansen, dinstags den
+#facs_353_r2l24 19
+#facs_353_r2l25 Wangen, Mitbinheus den
+#facs_353_r2l26 20
+#facs_353_r2l27 Thorberg, Dienstags den
+#facs_353_r2l28 21
+#facs_353_r2l29 Arlangen, Freitags den
+#facs_353_r2l30 24
+#facs_353_r2l31 Franlobrun Montagr den
+#facs_353_r2l32 „ 25
+#facs_353_r2l33 Brandes, dinstags dem
+#facs_353_r2l34 Bixx,
+#facs_353_r2l35 „ 26
+#facs_353_r2l36 Gottstatt, Mitbuchens des
+#facs_353_r2l37 thuen
+#facs_353_r2l38 27
+#facs_353_r2l39 Oberhoffen, darstags den
+#facs_353_r2l40 28.
+#facs_353_r2l41 Chriemisberg, Freytag in den
+#facs_353_r3l1 Martius
+#facs_353_r3l2 Signaulo
+#facs_353_r3l3 Suemiswald) Montags den 3.
+#facs_353_r3l4 Kornherr
+#facs_353_r3l5 Dinstags den 4
+#facs_353_r3l6 St. Johanster Haus.
+#facs_353_r3l7 Indterlachen.
+#facs_353_r3l8 Haus, Mitbuchow d. 5.
+#facs_353_r3l9 Heinsberger¬
+#facs_353_r3l10 6
+#facs_353_r3l11 Bauleherr, darstags den
+#facs_353_r3l12 7
+#facs_353_r3l13 heutigen, dreytags den
+#facs_353_r3l14 Winniß
+#facs_353_r3l15 10.
+#facs_353_r3l16 Siechenhaus, Montags den
+#facs_353_r3l17 Mösthaften,
+#facs_353_r3l18 11
+#facs_353_r3l19 Trachselwald, dinstags den
+#facs_353_r3l20 12
+#facs_353_r3l21 Aehlen, Mitwuchens den
+#facs_353_r3l22 13.
+#facs_353_r3l23 Wiblisburg, dasagr den
+#facs_353_r3l24 14
+#facs_353_r3l25 Petterlingen, Freytage den
+#facs_353_r3l26 15
+#facs_353_r3l27 Milden, Samstags den
+#facs_353_r3l28 17.
+#facs_353_r3l29 Oron, Mentags den
+#facs_353_r3l30 Chillon
+#facs_353_r3l31 Neuwenstatt, Mitleuchens den 19
+#facs_353_r3l32 „ 20
+#facs_353_r3l33 pferten, dienstags den
+#facs_353_r3l34 21.
+#facs_353_r3l35 Morsie Freytags en
+#facs_353_r3l36 Aubonne, Samstags den 22
+#facs_353_r3l37 Indterlanten: Montags den 24.
+#facs_353_r3l38 Vnd Herren
+#facs_354_r2l1 Martius
+#facs_354_r2l2 Bibersten, Mitwuchens den
+#facs_354_r2l3 26
+#facs_354_r2l4 4
+#facs_354_r2l5 Aarburg, dasstags des
+#facs_354_r2l6 27
+#facs_354_r2l7 Hoffingen, Montags den
+#facs_354_r2l8 1131
+#facs_354_r2l9 Aprilis
+#facs_354_r2l10 Saane.
+#facs_354_r2l11 Zweysinnen? Dinstags den
+#facs_354_r2l12 1
+#facs_354_r2l13 Schentenberg, Mitbuchens den 2
+#facs_354_r2l14 Romainmotier, 1 Donstags den
+#facs_354_r2l15 Reules,
+#facs_354_r2l16 4
+#facs_354_r2l17 Bonmont, Freytages den
+#facs_354_r2l18 5
+#facs_354_r2l19 Lausanne, Samstags den
+#facs_354_r2l20 s.
+#facs_354_r2l21 Königsfelden, dienstags den
+#facs_354_r2l22 Lentzburg,
+#facs_354_r2l23 Mitwuchens den 9
+#facs_354_r2l24 Stitzvallhier.
+#facs_354_r4l1 Ses
+#facs_354_r4l2 An Alle t. und W. Amthleuth,
+#facs_354_r4l3 4. Statt, Freyweibel
+#facs_354_r4l4 Aannau, Item an alle
+#facs_354_r4l5 käntzel allhier
+#facs_354_r4l6 Böttag auf zinsage d. 25. Marty nechstünfftig Außschreiben
+#facs_354_r4l7 Schultheißem Raht etc.
+#facs_354_r4l8 Nachdemme wir besetziget die Gegenwärtige
+#facs_354_r4l9 Erkenkliche Zeitleüff, da der Allerhöchste
+#facs_354_r4l10 der Vnbueßfertigen weld seine Gerechte
+#facs_354_r4l11 Gerichte Antröset, und die bekante Orth
+#facs_354_r4l12 in Frankreich mit der Aussmachenden Pesti¬
+#facs_354_r4l13 lentzischen Stüch heimbsuchet, sindt wir
+#facs_354_r4l14 nach dem Beysprehl Anderer Lobl.
+#facs_354_r4l15 Evangel. Orgen belegen worden, zu ab¬
+#facs_354_r4l16 Bendung solcher schwehren Gerichten Gottes
+#facs_354_r4l17 von Unsern Ge. Vatteland einen Fast¬
+#facs_354_r4l18 Burß- und Bättag auf zinstags den
+#facs_354_r4l19 25. Marty nechsttünfftig (wie hiemit
+#facs_354_r4l20 beschicht) ausschreiben zu laßen; damit
+#facs_354_r4l21 nung derselbe in Vnseren Landen feyelich
+#facs_354_r4l22 begangen und Jedes Glied der Kirchen
+#facs_354_r4l23 darauf sich gebührend vorbereiten, und
+#facs_354_r4l24 mit Einbrünstigen Gebatt dieser große
+#facs_354_r4l25 nbel
+#facs_355_r2l1 Von Unserm Lebwärthen Vatterland
+#facs_355_r2l2 Ablenden möge; wollend wir die
+#facs_355_r2l3 hierdurch bevohlen haben, diesen Tag.
+#facs_355_r2l4 von Cantzl. Verkunden, und Vnseren
+#facs_355_r2l5 Predigkanten verdeuthen zu laßen
+#facs_355_r2l6 alß dann Ihre Actionen darnach
+#facs_355_r2l7 Einrichten zu können: Gott den Herrn
+#facs_355_r2l8 erfleihen, daß Er Unß in Gnaden
+#facs_355_r2l9 erhören, und zugenießung fernerer
+#facs_355_r2l10 Geist- und leibl. freyheiten Gnaden
+#facs_355_r2l11 erhalten wolle. Dat. 18. february 8
+#facs_355_r2l12 Nydaulo In Ansehen deß Münsterthahls
+#facs_355_r2l13 Prau lebränen, Landtshuet und Buren
+#facs_355_r2l14 ratione deß Bürchseggbergs; und
+#facs_355_r2l15 Königsfelden in Ansehen Geb= und bierungs
+#facs_355_r2l16 derst.
+#facs_355_r2l17 Genff, Neubenburg Fürstl. Räht et Cid.
+#facs_355_r2l18 Sie zur
+#facs_355_r2l19 3
+#facs_355_r2l20 Biel und Neüldenstatt
+#facs_355_r2l21 Mithaltung Einladen

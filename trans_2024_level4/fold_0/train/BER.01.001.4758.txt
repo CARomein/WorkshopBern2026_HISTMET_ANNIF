@@ -1,0 +1,93 @@
+Law nr: BER.01.001.4758,
+Title: Hiesige Angehörige sollen mit authentischen Scheinen versehen seyn, um Vieh aussert Lands ankaufen zu können.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_512
+# Matched: 82/82
+# High similarity (>=80%): 82
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_3_r1l1 Coll
+#facs_106_r3l1 hiesige eingehörige sollen mit authentischen
+#facs_106_r3l2 scheinen vierstehen seyn, um Vieh äußert
+#facs_106_r3l3 Lands ankauffen zukönnen.
+#facs_106_r3l4 An alle deutsche und Welsche Herren Amtleute
+#facs_106_r3l5 4. Städte Breyweibel und Amman auch
+#facs_106_r3l6 Schwarzenburg und Granosen, denne per Zedel
+#facs_106_r3l7 an Mehnlohh. der Polizey Cammer
+#facs_106_r3l8 Schultheiß und Stath da in folg der
+#facs_106_r3l9 unterm 4ten Merz lezthin einanirten
+#facs_106_r3l10 Vieh. Ausfuhr Verbotts denjenigen eid¬
+#facs_106_r3l11 genößischen Angehörigen der Orten.
+#facs_106_r3l12 wo die hiesigen gleiche Begünstigung ge¬
+#facs_106_r3l13 nießen, welche zum Gebrauch in den
+#facs_106_r3l14 Schaalen, oder Haus gebrauch Vieh in
+#facs_106_r3l15 hiesigen Landen ankauffen wollen,
+#facs_106_r3l16 solches an den Jahr markten und gegen
+#facs_106_r3l17 Vorweisung authentischer Scheine ge¬
+#facs_106_r3l18 stattet ist: So müßen die hiesigen
+#facs_106_r3l19 angehörigen an den jenigen eidgnöße
+#facs_106_r3l20 schen Orten, da sie Vieh ankauffen
+#facs_106_r3l21 wollen, mit gleichen Scheinen wie
+#facs_106_r3l22 Unser Mandat von anderen Eid-
+#facs_106_r3l23 genoßen forderet versehen seyn.
+#facs_106_r3l24 = Wis.
+#facs_106_r4l1 201
+#facs_106_r4l2 Wir übersenden Euch davon eine hinlängliche
+#facs_106_r4l3 Anzahl Exemplar, um solche Eüern Amtsan¬
+#facs_106_r4l4 gehörigen, gegen Erlag von einem Bahen
+#facs_106_r4l5 vom Schein auf Begehren zu ihrem Behelf
+#facs_106_r4l6 ertheilen zu können.
+#facs_106_r4l7 /: an die Freyweibel und Ammann :/
+#facs_106_r4l8 Wir haben derselben eine genugsame
+#facs_106_r4l9 Anzahl druken laßen, und für die Stadt
+#facs_106_r4l10 und Stadt gericht, so wie auch für die
+#facs_106_r4l11 Land gerichte, derselben Ertheillung Un
+#facs_106_r4l12 serer verordneten Polizey Cammer
+#facs_106_r4l13 aufgetragen
+#facs_106_r4l14 Die Orte der Eidgenosschaft mit
+#facs_106_r4l15 welchen die wechselseitige Handlung
+#facs_106_r4l16 dermalen Plaz hat, sind Freyburg,
+#facs_106_r4l17 Solothurn, Schaffhausen, die mediat
+#facs_106_r4l18 Ämter mit Freyburg und der Tassenberg.
+#facs_106_r4l19 Auf die von verschiedenen Amtleuten
+#facs_106_r4l20 Aus gethane Einfragen, haben Wir
+#facs_106_r4l21 erkennt.
+#facs_106_r4l22 1° Daß in Betrachtung der Lage ver¬
+#facs_106_r4l23 schiedener Landesgegenden, wo die Ein¬
+#facs_106_r4l24 wohner bis dahin eingerichtet waren,
+#facs_106_r4l25 ihr eigenes Vieh und Pferde aufäußern
+#facs_32_r5l19 in
+#facs_107_r1l1 202
+#facs_107_r2l1 in der Eidgroßschaft befindlichen Bergen
+#facs_107_r2l2 zu sömmeren, wir ihnen diese Freyheit
+#facs_107_r2l3 noch ferners gestatten, doch unter
+#facs_107_r2l4 dem deutlichen Vorbehalt des Berg
+#facs_107_r2l5 fahrt Reglements in allen seinen
+#facs_107_r2l6 Theilen, und genauer Befolgung der
+#facs_107_r2l7 von unserm Sanitaet Rath über
+#facs_107_r2l8 diesen Gegenstand zu ertheilenden
+#facs_107_r2l9 befehlen.
+#facs_107_r2l10 2. Wollen wir nimmt ausdrüklich ver¬
+#facs_107_r2l11 ordnet haben, daß für die Auffahrt
+#facs_107_r2l12 dieser Leblaar einbesondere Con¬
+#facs_107_r2l13 trolle errichtet werde, worinnen die
+#facs_107_r2l14 Geschaffenheit und die Menge des Viehs
+#facs_107_r2l15 eines jeden Eigenthümers genau
+#facs_107_r2l16 verzeichnet werde, damit derjenige
+#facs_107_r2l17 der nicht authentisch beweisen könnte,
+#facs_107_r2l18 was ihme während der Sömmerung
+#facs_107_r2l19 gefallen wäre, bey der Abfahrt mit
+#facs_107_r2l20 der durch die Ordnung vom 3ten und 4b.
+#facs_107_r2l21 Merz auf die Aus Fuhr gesezten
+#facs_107_r2l22 Strafe belegt werden könne.
+#facs_107_r2l23 dessen Ihr andurch berichtet
+#facs_107_r2l24 werdet mit dem Befehl, solches zum
+#facs_107_r2l25 Verhalt
+#facs_3_r1l1 Coll
+#facs_107_r4l1 203
+#facs_107_r4l2 Verhalt Eurer Amte Angehörigen sobald mög¬
+#facs_107_r4l3 lich publiciren zulaßen.
+#facs_107_r4l4 Datum den 10. April 1794.

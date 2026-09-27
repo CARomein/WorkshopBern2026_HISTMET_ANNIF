@@ -1,0 +1,38 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 30/31
+# High similarity (>=80%): 29
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4443
+#facs_321_r2l7 Winter Frücht zu verkauffen Ihnen anbefohlen
+#facs_103_r10l1 a
+#facs_321_r2l5 Die Herren Amtleut zu erlach, St. Johansen
+#facs_321_r2l6 und Rydau
+#facs_321_r2l7 Winter Frücht zu verkauffen Ihnen anbefohlen
+#facs_148_r3l7 Schultheiß Räht und Burger.
+#facs_321_r2l9 Demnach von unseren Fürgeliebten Mich Rähten
+#facs_243_r4l21 denen Herren Teutsch Sekelmeister und Venneren
+#facs_90_r2l8 und Unserer verordneten KornCamer, ist
+#facs_321_r2l12 die Vorstellungen hinterbracht worden, welche
+#facs_321_r2l13 Unsere Amtleut zu Erlach und St. Johansen in
+#facs_321_r2l14 Ansehen des Verbaufs der vorschießenden
+#facs_38_region_1628676045317_29l5 Obrigkeitlichen Handen confiscieren soll. Geben
+#facs_321_r2l16 laßen, So haben Wir erkent: daß zu erlach,
+#facs_321_r2l17 St. Johansen und Rydau, samtliche Winterhricht
+#facs_321_r2l18 (welche nach Abzug der Ordinaris und quasi Ordinarii)
+#facs_243_r3l16 Ausgaben, wie auch deßen was Eüer Contingent
+#facs_321_r2l20 auf dem restierenden betragen mag, neben
+#facs_321_r2l21 dem jeden Orts bestimten vorraht an Obrigkeit
+#facs_321_r3l1 633
+#facs_321_r3l2 Betreyd vorschießen werde, verstilberet werden
+#facs_321_r3l3 sollen; der Meinung jedenoch, daß dabey die
+#facs_243_r4l10 üblichen Vorsorgen genommen, mithin solche nur zu
+#facs_321_r3l5 Winter Früchten die mindest behältlichen Vor¬
+#facs_321_r3l6 allem aus Abgestoßen, und solche nur nach und
+#facs_321_r3l7 nach zu kleinen kaufen erlaßen werden.
+#facs_321_r3l8 Welchemnach Ihr Euch verhalten, und über das
+#facs_321_r3l9 erlösende uns gebührende Rechnung tragen
+#facs_321_r3l10 werdet. Dat. d. 24ten April 1776
+#facs_24_region_1628255397587_277l11 en

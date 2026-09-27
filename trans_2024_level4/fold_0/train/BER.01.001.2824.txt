@@ -1,0 +1,126 @@
+BER.01.001.2824
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 117/117
+# High similarity (>=50%): 116
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_352_r2l12 Bancellerie de Berne.
+#facs_352_r2l13 hoc pertinet pag: 663.
+#facs_352_r2l14 Auff hiernach specificierte Ambter sind
+#facs_352_r2l15 Die sortie zedel versendt worden
+#facs_352_r2l16 stück
+#facs_352_r2l17 Nach Schenkenberg
+#facs_352_r2l18 400.
+#facs_352_r2l19 Biberstein.
+#facs_352_r2l20 100
+#facs_352_r2l21 Zoffingen.
+#facs_352_r2l22 200
+#facs_352_r2l23 Arburg
+#facs_352_r2l24 400
+#facs_352_r2l25 Lenhburg
+#facs_352_r2l26 800
+#facs_352_r2l27 Ahlen.
+#facs_352_r2l28 Saanen
+#facs_352_r2l29 400
+#facs_352_r2l30 500.
+#facs_352_r3l1 Zweysimmen
+#facs_352_r3l2 Wimmis
+#facs_352_r3l3 Thun
+#facs_352_r3l4 Interlaken
+#facs_352_r3l5 Frutigen
+#facs_352_r3l6 Oberhofen
+#facs_352_r3l7 Landtshut
+#facs_352_r3l8 Frauwbrunnen
+#facs_352_r3l9 Wangen
+#facs_352_r3l10 Arwangen
+#facs_352_r3l11 Bipp
+#facs_352_r3l12 Büren.
+#facs_352_r3l13 Frienischerg
+#facs_352_r3l14 Trachselwald
+#facs_352_r3l15 Semißwald
+#facs_352_r3l16 Brandis
+#facs_352_r3l17 Burgdorff
+#facs_352_r3l18 Signario
+#facs_352_r3l19 Nydauw
+#facs_352_r3l20 St Johansen
+#facs_352_r3l21 Erlach
+#facs_352_r4l1 685
+#facs_352_r4l2 stück
+#facs_352_r4l3 200
+#facs_352_r4l4 200
+#facs_352_r4l5 400
+#facs_352_r4l6 500
+#facs_352_r4l7 100
+#facs_352_r4l8 100
+#facs_352_r4l9 400
+#facs_352_r4l10 300
+#facs_352_r4l11 800
+#facs_352_r4l12 800.
+#facs_352_r4l13 800.
+#facs_352_r4l14 400
+#facs_352_r4l15 200
+#facs_352_r4l16 1000
+#facs_352_r4l17 400
+#facs_352_r4l18 500.
+#facs_352_r4l19 600
+#facs_352_r4l20 800
+#facs_352_r4l21 500.
+#facs_352_r4l22 200
+#facs_352_r4l23 100
+#facs_353_r2l1 Buchser
+#facs_353_r2l2 stück.
+#facs_353_r2l3 Arberg
+#facs_353_r2l4 200
+#facs_353_r2l5 400
+#facs_353_r2l6 Laupen
+#facs_353_r2l7 300
+#facs_353_r2l8 P. 13000. stuk
+#facs_353_r2l9 Denen Freyweiblen jedem etwan 100. sl
+#facs_353_r2l10 Denen Stätten Undt Ammane, nihil
+#facs_353_r2l11 An alle Weltsche Ambtleüth da Stett sind
+#facs_353_r2l12 vmb auffnahm verflüchtlingen
+#facs_353_r2l13 von Orange.
+#facs_353_r2l14 Schultheiß und Raht etc.
+#facs_353_r2l15 Wir sind benachrichtet, daß die Reformierte, zu Orange
+#facs_353_r2l16 sich entschloßen dorten zu weichen, und Ihre gewüßen
+#facs_353_r2l17 Freyheit mit Zurücklaßung Ihrer güeteren Vßerer
+#facs_353_r2l18 Ohrten zu suchen; daß dieser Leüthen bereits eine
+#facs_353_r2l19 anzahl bey Genff ankommen, und der Rest etwan in
+#facs_353_r2l20 gesambt 2000. stark nach und nach Erwartet werde;
+#facs_353_r2l21 welche sich bey uns durch ihre zween Pfarherren umb
+#facs_353_r4l1 Hilff und auffnahm anmelden laßen: bey so gestalten
+#facs_353_r4l2 1687
+#facs_353_r4l3 sachen nun habend wir befunden, daß die Vnseren sich
+#facs_353_r4l4 dieser also zuschikenden Liebens-berüeffung mit keinem
+#facs_353_r4l5 grund werdind entzeüchen können, sonder vielmehr jeder
+#facs_353_r4l6 zer bey mittlen, und demne die herstreüw= und zerrüttung
+#facs_353_r4l7 Der bekenneren deß H. Evangeliums billich zu herben gehen
+#facs_353_r4l8 wirt, diesere gelägenheit sein gutthätigkeit in der That zu
+#facs_353_r4l9 bezeügen freüdig Ergreiffen werden; In solcher Hoffnung
+#facs_353_r4l10 und erfolgung unsers verneren entschlußes langet Unser
+#facs_353_r4l11 Befelch hiemit an Ich /: gleich wie an übrige W. Ambleüth
+#facs_353_r4l12 Da Stett sind, auch beschicht) denen Stetten und Vermüg¬
+#facs_353_r4l13 lichen particularen seines Ambts daselbe kund zumachen,
+#facs_353_r4l14 und eint und andere zu erinneren von Ziesen guthen
+#facs_353_r4l15 Leüthen vffzunemmen: Was nun vßgericht haben wirst
+#facs_353_r4l16 Solstu deßen uns so geschwind müglich part geben: umb
+#facs_353_r4l17 übrige Schlüs auch hernach einrichten zu können: Gott
+#facs_353_r4l18 mit Dir. Datt. 2. Aug: 1703.
+#facs_353_r4l19 Lucern und Sollothurn
+#facs_353_r4l20 Wegen abrüeffung der Rappen
+#facs_353_r4l21 Bonser. p
+#facs_353_r4l22 Nach angehörter Relation unserer Fürgeliebten Mitt=
+#facs_353_r4l23 rahten und gewesen Ehren gesanten zu Baden habend
+#facs_353_r4l24 Wir in puncto deß Müntzwäsens und in specie wegen
+#facs_354_r2l1 Denen Rappen Unß entschloßen, erfürters bey den
+#facs_354_r2l2 Verndrigen Resolutionen bewenden zu laßen.
+#facs_354_r2l3 Inmaßen wir Lemme zu volg auff ein früsches in
+#facs_354_r2l4 Vnserem Ergeüw den verndrigen abruff der Rappen
+#facs_354_r2l5 auf einen ängster revterieren laßen: Welches wir
+#facs_354_r2l6 auch keinen Umbgang nemmen wollen, Eüch Vnseren
+#facs_354_r2l7 g. L. E. M. und H. hiemit nachrichtlich und freundtlich zu
+#facs_354_r2l8 participieren: wormit Wir uns beyderseits Gottes
+#facs_354_r2l9 gnädiger Obsorg wohl empfählend. Datum 21 Aug 1703.

@@ -1,0 +1,44 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 37/37
+# High similarity (>=80%): 35
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_44_r3l13 Verbott
+#facs_187_r3l11 aller Handarbeiten an Sontagen
+#facs_187_r3l12 dringende Nothfälle ausgenommen
+#facs_145_r3l2 An alle Deutsch und Welsche Herren Amt¬
+#facs_187_r3l14 leut IV. Städte Freyweibel und Amann
+#facs_187_r3l15 wie auch alle Claßen Welschen Lands
+#facs_187_r3l16 und alle dekauen deutschen Lands.
+#facs_84_r2l10 Schultheis und Rath
+#facs_187_r3l18 Da wir mit gröstem Misfallen zu ver
+#facs_187_r3l19 läßig vernehmen müßen, daß die schuldige
+#facs_187_r3l20 Feyer der Sonn- und Festtagen, nicht nur
+#facs_187_r3l21 gänzlich verabstammt, sonderen gar an
+#facs_187_r3l22 diesen dem Gottes dienst und der Ruhe
+#facs_187_r3l23 ge¬
+#facs_86_r3l1 163
+#facs_187_r4l2 gewiedmeten Tagen aller Orten gleich an Wer
+#facs_187_r4l3 tagen öffentlich gearbeitet werde; als haben
+#facs_187_r4l4 wir zu Hemmung dieses ärgerlichen Mißbrauche
+#facs_187_r4l5 Euch aufs neue anbefehlen wollen, die erforder¬
+#facs_187_r4l6 lichen Anstalten vorzukehren, daß auch in diesem
+#facs_187_r4l7 Punct Unserer Chorgericht Satzung nach gelebt,
+#facs_187_r4l8 und jedermänniglich alle Hand und Land Arbeit
+#facs_187_r4l9 außer in dringenden Nothfällen und wo zur
+#facs_187_r4l10 Zeit des Heuens, Embdens, der Ernde und der
+#facs_187_r4l11 Weinlese Gefahr und großer Schade zu be¬
+#facs_187_r4l12 förchten wäre, verbotten und untersagt
+#facs_187_r4l13 seyn solle; In welch leztern Fällen aber
+#facs_187_r4l14 solches nicht anders als mit Vorwißen und
+#facs_187_r4l15 Vermittlung des Pfarrers und erhaltener
+#facs_182_r2l28 Bewilligung
+#facs_187_r4l17 allzuweiter Entfernung seines Statthalters
+#facs_187_r4l18 an selbigen Ort und zwar erst nach dem
+#facs_187_r4l19 Morgen Gottes Dienst geschehen soll
+#facs_187_r4l20 deßen Ihr also zum Verhalt berichtet werdet
+#facs_187_r4l21 Datum den 30t. Junii 1796
+#facs_98_r5l28 en

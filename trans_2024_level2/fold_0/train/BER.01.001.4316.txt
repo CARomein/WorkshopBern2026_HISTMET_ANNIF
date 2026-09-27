@@ -1,0 +1,47 @@
+Law ID: BER.01.001.4316
+Name: Wegen den Beken aussert der Haubt Stadt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 36/36
+# High similarity (>=50%): 35
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_139_r4l1 265
+#facs_139_r4l2 An
+#facs_139_r4l3 Alle Teutsche Herren Amtleüth und Freybeibel
+#facs_139_r4l4 Wegen den Beken äußert der Haubt Stadt
+#facs_139_r4l5 Schultheiß Räht und Bürgers
+#facs_139_r4l6 In bedenken die der Müller = Ordnung von Ao.
+#facs_139_r4l7 1693. beygerübte Landbeken = Ordnung, keines.
+#facs_139_r4l8 begs auf die heutigen Zeiten gerichtet, und
+#facs_139_r4l9 mithin allerdings erforderlich, daß eine Neue
+#facs_139_r4l10 Beken=Ordnung für Unsere Teutsche Land errichtet
+#facs_139_r4l11 werde; Wir dann bereits zu entwerffung dersel¬
+#facs_139_r4l12 ben die erforderlichen Anstalten vorgebehret;
+#facs_139_r4l13 Als haben Wir in Aufhebung bemelter Land
+#facs_139_r4l14 Beken-Ordnung, so in der Müllern Ordnung
+#facs_139_r4l15 von Ao. 1693. enthalten, Euch deßen benachrig
+#facs_139_r4l16 ten wollen, mit dem Befelch, deßen ohne
+#facs_139_r4l17 Anstand samtliche Unsere Liebe und Getreue
+#facs_139_r4l18 angehörige, so viel nämlichen Euer Amt betrifft,
+#facs_139_r4l19 zu benachrichten, Einerseits: Anderseits dann
+#facs_139_r4l20 ist auch Unser bill, daß in Erwartung eine
+#facs_139_r4l21 frische Lande Beken = Ordnung von Unserem
+#facs_139_r4l22 täglichen Raht werde ausgefertiget, und
+#facs_139_r4l23 deren publication veranstaltet seyn, Inzwi¬
+#facs_139_r4l24 schen die Beken aussert der HaubtStadtschul¬
+#facs_139_r4l25 dig und pflichtig seyn sollen, Ihr verkauffen¬
+#facs_139_r4l26 des Brodt auch das Gewicht deß Bern Pfundts
+#facs_140_r3l1 zu sibenziehen Unzen poid de Mare das Pfuns¬
+#facs_140_r3l2 berechnet, zu verbaben, und dabey in keinen
+#facs_140_r3l3 anderen preis zu verkaufen, als wie es Unser
+#facs_140_r3l4 Amtleute zu Anfang jeden Monats nach dem
+#facs_140_r3l5 Mickelpreis des Getreids in vorigem Monat
+#facs_140_r3l6 nach gemäßigter Billigkeit für Ihr Amt
+#facs_140_r3l7 bestimmen, und bekant machen werden
+#facs_140_r3l8 Wie demenach zu thun, und Euch zu verhalten
+#facs_140_r3l9 die Übertreibere aber behörig zu bestraffen,
+#facs_140_r3l10 Ihr bestens wüßen werdet. Dat. d. 10. Julii 1771.

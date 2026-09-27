@@ -1,0 +1,238 @@
+Law ID: BER.01.001.2026
+Name: Mandat. Dardurch aller vernere Gebrauch dess Tabacks, in der Statt Bern, und allen derselben Landen und Gepieten verpotten: und mit was Straff darob zuhalten seye, gebotten wirt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 227/227
+# High similarity (>=50%): 223
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_26_r3l1 +
+#facs_26_r3l2 Mandat
+#facs_26_r3l3 ardurch aller vernere gebrauch des
+#facs_26_r3l4 abacks in der Stadt Hern, vnd allen der
+#facs_26_r3l5 selben Landen und gepinten verpoden: vnd mit
+#facs_26_r3l6 Was straff darob zuhalten seye, geboden
+#facs_26_r3l7 Wirt
+#facs_26_r3l8 Wir Schuldtheis Raht vnd Burger der
+#facs_26_r3l9 Statt Bern, einpieten allen Vnseren Ober- vndt vnder
+#facs_26_r3l10 Ambtleüten Bürgeren vnd Vnderthanen, in vnser Haubtstadt
+#facs_26_r3l11 vnd vßert derselben aller orten vnd ämbtern vnser Landes
+#facs_26_r3l12 und gepieten, was Standts Condition vnd wesens ein Jeder
+#facs_26_r3l13 seye, vnseren gnedigen gruß, geneigten guten Willen, vndt
+#facs_26_r3l14 Darbej Zeuernenden; Nach dem die Zeit daher der tägliche
+#facs_26_r3l15 Augenschein zuerkennen geben, daß das nit nur unnötig,
+#facs_26_r3l16 vnd darbej ein groß gelt inß dem Landt zeühende sondern auch
+#facs_26_r3l17 Dem Wentschen an seiner Leibs vnd gemünts gesundheit
+#facs_26_r3l18 schäd- und vnederbliche vnd in andere Weg mehr gefährliche
+#facs_26_r3l19 vnd vnanstendige Cabac-reücken, in seinem so beschaffnen
+#facs_26_r3l20 vnguten brauch vnd gang ie mehr vnd mehr auffsteigen,
+#facs_26_r3l21 zu- und so gahr überhandnenden thüye, daß beides Mann
+#facs_26_r3l22 und Weib, Junge und alte, Deme sich ergebend, vnd hiemit
+#facs_26_r3l23 Unser in dem Jährlich verlesend, Großen-Mandat
+#facs_26_r3l24 Da wieder begriffenes Verpöch mit angesehen Werde
+#facs_26_r3l25 daß daher wie vns verursachet, vnd Oberkeitlich, ambts
+#facs_26_r3l26 halben schuldig befunden, disem Vbel mehrern ernsts zu¬
+#facs_26_r3l27 begegnen, vnd das durch eine steecker- vnd scherpfung
+#facs_26_r3l28 des angedeüten bißhar mit angesechenen Verpöchs
+#facs_26_r3l29 welche wir dan hiemit dahin gesezt vndt bestimt
+#facs_27_r2l1 und mit hernach nolgenen darzu gehörigen bestellungen vorsichen
+#facs_27_r2l2 eben wullend, daß nämlich aller verneue gebrauch des Rabau
+#facs_27_r2l3 mit reinken, keücken, Schnupps vnd in andere Weg, es beschri¬
+#facs_27_r2l4 Reich heimlich oder öffentlich, innet oder vßerthalb der
+#facs_27_r2l5 häusernn, in geselschafften, oder anderen Orten vnd enden
+#facs_27_r2l6 In der mennigklichen ohne vnderscheid, Mans- vnd Weibsferst
+#facs_27_r2l7 Jungen vnd Alten wer vnd Was Standts ein Jeder seye,
+#facs_27_r2l8 Alß ein Landtsschädlich auch Leib vnd gemüet werderbliche
+#facs_27_r2l9 Wal gänzlich und allerdings verpotten sein: Und also
+#facs_27_r2l10 Jederminnigklich, Innere vnd vnsere, die sich in Unser
+#facs_27_r2l11 Haubtstadt, Landen und gepieten befinden, sich dises so schäd¬
+#facs_27_r2l12 vnd unedneblichen gebrauchs fürbas gänzlich entspruch-
+#facs_27_r2l13 und enthalten sollen, vnd das bei fünffzig Pfunden pfenni¬
+#facs_27_r2l14 buß, die wie hiemit bestimt, vnd darauff gesetzt haben,
+#facs_27_r2l15 Wollen, dieselben von Jedem Übertrecher, und so offt
+#facs_27_r2l16 es von ihme beschicht vnd bekandt werden mag, ohne
+#facs_27_r2l17 einises schonen nochnachlaßen, mit pfand oder gelt
+#facs_27_r2l18 abforderung, oder wo deren keine ernölget, mit
+#facs_27_r2l19 der gefangenschafft anwindung, zuberüchen: Der
+#facs_27_r2l20 meinung, daß der sie so wil gelts middel nit vermocht
+#facs_27_r2l21 Darfür mit der Krüllen, oder woderen keine, mit
+#facs_27_r2l22 der vorhandenen gestrengsten gefangen schafft Wien
+#facs_27_r2l23 agvnd nacht lang vnnächleßlich bei waßer undt
+#facs_27_r2l24 Brodt abgestrafft werden solle.
+#facs_27_r2l25 So dan einer, Der dises rnückens oder anderen gebrauch
+#facs_27_r2l26 des Rabacks beschuldiget, deßen nit bekantlich sein wolte,
+#facs_27_r2l27 mit gnugsander Kundtschafft nit belegt worden könte.
+#facs_27_r2l28 deßelben halb, laßend wir es dahin gestelt sein, daß
+#facs_27_r2l29 alhie der verordneten Cammeren, und auff dem Landt
+#facs_27_r3l1 5
+#facs_27_r3l2 Dem Ambtsman und Chorrichteren obligen solle, durchmügliche
+#facs_27_r3l3 nachforschung nachzu sezen, und nach befindender gestaltsame,
+#facs_27_r3l4 Darinn zchandlen
+#facs_27_r3l5 wete dan so gahr meiner Ambtleüten und Kirchendienern einer
+#facs_27_r3l6 an der Übertrechung dises so hoch ernordenlichen Verpoots, als
+#facs_27_r3l7 leßen sie vilmehr die Executores vnd Handhaber sein sollen, er
+#facs_27_r3l8 unden vnd erkent werden, demselben völlend wir die obbe
+#facs_27_r3l9 tunte straff vierntach aufferlegt haben, die selbe durch die affi¬
+#facs_27_r3l10 in der Haubtstadt zur Execution dises Mandats anstellende,
+#facs_27_r3l11 Cammer, Mon ihme ohne gnad zebezeüchen, deren dan zu solchem
+#facs_27_r3l12 und, ein solcher Übertrechter verlindet werden soll,
+#facs_27_r3l13 Damit aber die Vbertrechter dieses Verpochs, desto beßer
+#facs_27_r3l14 bekandt und endtdeckt werden mögend, sollend darüber
+#facs_27_r3l15 geflißene Aufffacher bestalt, vnd dieselben für ihr mühe, der buß
+#facs_27_r3l16 Wie hernach volget, theilhafft gemacht werden.
+#facs_27_r3l17 Wir wöllend beileüffig auch angesehen haben, daß allen Stuben
+#facs_27_r3l18 und Tavernen. Wihrten auch Wein- vnd Pinten schencken zu¬
+#facs_27_r3l19 Statt und Land ein Eidts glübt außerlegt werde, in den Ihnen
+#facs_27_r3l20 Vertrauenten vnd angehörigen Häuseren, das Taback-reücke
+#facs_27_r3l21 mit nur niemanden, ohne exception zugestatten, sondern es ihren
+#facs_27_r3l22 Vermögens zuuerhinderen, vnd die p sich darum mit abtreiben
+#facs_27_r3l23 laßen wolten, seines orts zu ihrer bestimten Abstraffung
+#facs_27_r3l24 zu unelniden, auch frömbde bei ihnen losierende leüth, denen
+#facs_27_r3l25 dises Verpold nit bekandt, desselben zu ihrer ankunfften
+#facs_27_r3l26 gebührend zu uerwahrnen.
+#facs_28_r3l1 aber ein solcher Wihrt und Wein schenck an solcher
+#facs_28_r3l2 einer pflicht erstattung selbst fählhafft vnd nachläßig.
+#facs_28_r3l3 gefunden würde, soll derselbe mit der dem Rücker
+#facs_28_r3l4 bestimten bus der fünfftig pfunden angesehen, vndt
+#facs_28_r3l5 der ein geselschafft und Steben wohrt alhier ist, von
+#facs_28_r3l6 solchem Dienst verstoßen werden
+#facs_28_r3l7 Hiermit wöllend wir nit weniger auch verpache,
+#facs_28_r3l8 haben, den Verkauff des Labacks und der Zim¬
+#facs_28_r3l9 reücken brauchender Piper, was gattung und von
+#facs_28_r3l10 Was materi die auch seyen, be- fünff pfunden buß
+#facs_28_r3l11 von indem Lod, und Zweys Pfunden von Jeder
+#facs_28_r3l12 Pipen, sie seyen in- oder vßert Landts gemacht,
+#facs_28_r3l13 ohne schonen zubezeüchen, oder die, ses nicht vermoch¬
+#facs_28_r3l14 mit der Crüllen oder gefangenschafft wie der oben
+#facs_28_r3l15 Arleütenat, darfür abzustraffen, nebend der be=
+#facs_28_r3l16 nem. vnd abschaffung pechte vennen wahr, da
+#facs_28_r3l17 Der Caback, durch die Weibel vff einem platz
+#facs_28_r3l18 Amtlich verbrant, und die Piper zerbrochen
+#facs_28_r3l19 Werden sollend
+#facs_28_r3l20 Es soll auch von Jahrem undtdeckten Reückerernß
+#facs_28_r3l21 wörtlich, und wan das nit erheblich, bei der Eidt
+#facs_28_r3l22 glübd, den so ihm den gebrauchten Taback verkauff
+#facs_28_r3l23 habe, erforschet: durch denselben auch der Fuhrma¬
+#facs_28_r3l24 oder lenger so denselben ihm dem Verkäufer
+#facs_28_r3l25 zugebracht, wieder gleichem mittel endtdekt, vnd
+#facs_28_r3l26 volgendts der einte vnd andere in die nachner melt
+#facs_28_r3l27 Daudurch verschuldte buß vnd straff gezogen werden.
+#facs_28_r4l1 52
+#facs_28_r4l2 Wir wöllend aber den Taback Krueneren deßen so sie zur
+#facs_28_r4l3 Zeit der publication dises Mandats bereits in handen
+#facs_28_r4l4 haben würdend, an Vßere ontverknüfflich, oder beste
+#facs_28_r4l5 ich abzuthun, hiemit termin, bis auff Faßnacht nechstkunfftig
+#facs_28_r4l6 Ingeben: darbei aber gemeint und befohlen haben, alß
+#facs_28_r4l7 hald darnach, die Heüser vnd Laden, solcher Verknüffern
+#facs_28_r4l8 Zevisitieren, vnd ein Jeden derselben, bei einer scharpfen
+#facs_28_r4l9 Eidtsglüsd zuerforschen, ob noch etwas solcher Wahr
+#facs_28_r4l10 Bei und hinder ihm oder in seinem Ginaet im Landt
+#facs_28_r4l11 seye oder nit? Mit derselben, wie droben erleütere
+#facs_28_r4l12 Zuerfahren, mit der Wahrung, vnd eidtlichen ver¬
+#facs_28_r4l13 Frechung, die ein solcher Verkeufer thun soll, sich
+#facs_28_r4l14 Diser wahr fürbas giehlich zu müeßigen
+#facs_28_r4l15 Undt damit desto weniger mit solchem Verkauff für
+#facs_28_r4l16 gefahren werde, wöllend wir gemeint und befohlen
+#facs_28_r4l17 aben, daß solche visitation der Laden vnd Heusenen
+#facs_28_r4l18 diser Leemeren Jährlich viel mahl widerholet werden,
+#facs_28_r4l19 -
+#facs_28_r4l20 solle, In vnser Zäubtstadt durch vnsere diener
+#facs_28_r4l21 Groß- Weibel, Einungen und Gerichtschreiber, Auff dem
+#facs_28_r4l22 Landt aber durch sonderbahr darzu verordnete allwegen
+#facs_28_r4l23 jegen der befindtlichen übertreitung, mit der straff
+#facs_28_r4l24 und ob schaffung zuverfahren, wie droben erleüteret,
+#facs_28_r4l25 Da zu mehrer Verhüetung deßen, und der einbringung
+#facs_28_r4l26 -
+#facs_28_r4l27 des Rabacks ins Land, Habend wir in vernerein
+#facs_28_r4l28 auch angesechen, daß durch vnsere Ambtleüth an den
+#facs_29_r2l1 grentzen und Päßen, sondere Aufsacher bestelt werden
+#facs_29_r2l2 sollind, die fuhrleuth vnd Reisende, u mit diser wahr vmb
+#facs_29_r2l3 sehen, oder deren sonst beladen möchten, da einlicher argwohn
+#facs_29_r2l4 Und verdacht vorhanden were, zu erforschen und zuersuchen
+#facs_29_r2l5 vnd gegen denen hinder Welchen Raback funden würde
+#facs_29_r2l6 mit der Abschaffung desselben dürths feüer, und bezeüchen
+#facs_29_r2l7 fünff Pfunden bus, von Jedem Lod zu erfahren, Wie der
+#facs_29_r2l8 gesagt ist: Der meinung, daß bis zur bezahlung
+#facs_29_r2l9 solcher buß, alle mit gefünhrte andere Wahr, in arrest
+#facs_29_r2l10 verbleiben, nach verfließung aber eines Monats, dieselbe
+#facs_29_r2l11 Wan vnderdeß die Bezahlung nit er nolget, confiscier
+#facs_29_r2l12 und verwürckt sein, der Fuhrman auch, so er solche
+#facs_29_r2l13 gefüehrten Rabacks, ein wüßen schafft gehabt, auch in ge¬
+#facs_29_r2l14 bührende Straff gezogen werden solle.
+#facs_29_r2l15 zu disem und, und solche verpachtne Fuhr zuendtdecken,
+#facs_29_r2l16 gebend wir hiemit allen Zollneren, mit nur auff der
+#facs_29_r2l17 Grenzen, sondern auch anderer Orten unsers Landts
+#facs_29_r2l18 Onderlich auch denen in vnserer Haubt-statt, zwalt
+#facs_29_r2l19 da die einten und anderen sollen eidtlich vermahnt,
+#facs_29_r2l20 werden, keinen Caback ein- und durchzulaßen, undt
+#facs_29_r2l21 .
+#facs_29_r2l22 zu solchem und die Fuhrleüth und füßgänger zu
+#facs_29_r2l23 visitieren, und die Wahren im Fahl verdachts, auß
+#facs_29_r2l24 Sacken zulaßen, umb zu suchen, ob einiger Taback
+#facs_29_r2l25 darunder gefunden werde.
+#facs_29_r2l26 Fahls dan bei einem Posten oder Fußgänger durch dieß
+#facs_29_r2l27 nichtel Raback funden würde, sol derselbe, neben der be¬
+#facs_29_r2l28 nem- vnd abschaffung des Rabacks, mit dem Schallenwerk
+#facs_29_r2l29 oder der Trüllen ie nach gestaltsame der sach und des
+#facs_29_r2l30 Dets abgestattet werden.
+#facs_29_r3l1 54
+#facs_29_r3l2 Gleich wie aber durch vorgedachte Fuhrleüth und Fußgänger
+#facs_29_r3l3 Lehrnuische verstanden würden, beso wöllend wir hiemit an¬
+#facs_29_r3l4 Die vßeren und frembden, so den Raback durch unsere Landt vn¬
+#facs_29_r3l5 andere Ort zuführen habend, dahin gewesen und verpflichtet,
+#facs_29_r3l6 aben, denselben an den Zollsteden, zu ningang des Landes
+#facs_29_r3l7 zugeben, vnd umb die anzahl, die daselbsten ordenlich gemogen
+#facs_29_r3l8 werden soll, ein Consignation, und von dem Ambtsma, be¬
+#facs_29_r3l9 sigleten, oder wann er mit am Ort were, sonst authorisierten
+#facs_29_r3l10 Paßzudel genemen, denselben an der letsten Zollstatt
+#facs_29_r3l11 3ti außgang des Landes, fürzuweisen: All ino dan der darin
+#facs_29_r3l12 Vernambsete Laback widerumb abgemogen werden soll,
+#facs_29_r3l13 vmb zu suchen, ob daruon mit im Landt gelaßen worden
+#facs_29_r3l14 Da dan die Zollner seher letsten Orten, dergleichen führleüten
+#facs_29_r3l15 chen ein solchen gnugsamb beglaubten Paßzudel, nit durchzulassen,
+#facs_29_r3l16 und Wan sie an der Gericht und anzahl der zu eingang-ge¬
+#facs_29_r3l17 abten Rabacks, minder, vnd hirmit finden wurden, daß im
+#facs_29_r3l18 Landt davon verkaufft vnd hindereaßen worden, der son¬
+#facs_29_r3l19 fiscation-abschaffung und straff halb, zuuerfahren müßen.
+#facs_29_r3l20 Werdens, wie droben erleiteret ist,
+#facs_29_r3l21 Damit nun es disem Vnserem so noht anendigen Verpott
+#facs_29_r3l22 Mandat, in dem einten und andern steck seines Innhalts
+#facs_29_r3l23 in der erheüschten Execution und volgleistung, an deren
+#facs_29_r3l24 dan sonderlich gelegen, desto weniger ermangeln, haben
+#facs_29_r3l25 Wie, so wil vnser Haubt statt betrifft, eine besondere
+#facs_29_r3l26 Cammer, in drey unser kleinen, und vier Unser großen
+#facs_29_r3l27 Rahtsgliederen bestehend, bestalt und verordnet: Unsen
+#facs_29_r3l28 Teütsch und Wretschen Landtschafft halber aber, Wöllend
+#facs_29_r3l29 Wie hiemit den benreden und pflicht, solcher Execution unsern
+#facs_29_r3l30 Ambtleüten und Chorrichteren Jeder orts Ins gesambt,
+#facs_30_r3l1 auffgetragen haben, deßhalb eruorderliche Hand abgehalte
+#facs_30_r3l2 und alles das was zur gebührenden handhabung dises,
+#facs_30_r3l3 Verpochs gehörig und eruorderlich beizutragen undt
+#facs_30_r3l4 Brunnschaffen
+#facs_30_r3l5 zu fahl kommenen bußen dan, soll so viel die in den
+#facs_30_r3l6 Stad und dem Stadt Gericht betrifft, der gedachten Cammer
+#facs_30_r3l7 Zamen, und dem Verleider ein Drichel zufallen, die auf
+#facs_30_r3l8 Dem Land aber, in vier Theil getheilt, und darnon eine
+#facs_30_r3l9 verrechnet werden, der ander dan dem Ambtsma¬
+#facs_30_r3l10 De dem Chorgricht, und der Vierte dem Ver¬
+#facs_30_r3l11 indienen
+#facs_30_r3l12 Ihr Verkündung
+#facs_30_r3l13 dessen alltßin nun, soll d.
+#facs_30_r3l14 dieses unsers ernst gemeinten Mandats, Jedermennig
+#facs_30_r3l15 flich, den es ansechen und berüehren mag, sich vor der
+#facs_30_r3l16 Übetrichung deßelben zu erhüeten, verwahrnet
+#facs_30_r3l17 Unseren Ambtleüten aber dardurch eingescherpfte
+#facs_30_r3l18 vnd bewechlich aufgetragen sein, sich disem allem, mit
+#facs_30_r3l19 Bestellung der Auffsechern, und anderen darzu gehörig,
+#facs_30_r3l20 anstalten und Verordnungen gemeß zuuerhalten,
+#facs_30_r3l21 und die Execution dises so nohtwendigen Mandats gleich¬
+#facs_30_r3l22 ernsts, wie es von Uns gemeint ist, ihnen angelegen
+#facs_30_r3l23 sein zulaßen: Wie die, für unsere Haubt - Stadt
+#facs_30_r3l24 bestelte Cammer ihres Theils auch zethun anüßen.
+#facs_30_r3l25 wirt. Damit der erwünschte Zweck dises so
+#facs_30_r3l26 nohtwendigen einsechens erhalten werde, geben
+#facs_30_r3l27 in unser großen Rahts-Versamlung den 8. Januar:
+#facs_30_r3l28 1675

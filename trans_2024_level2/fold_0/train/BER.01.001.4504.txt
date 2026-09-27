@@ -1,0 +1,44 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 36/37
+# High similarity (>=80%): 35
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4504
+#facs_243_r2l5 den Haber zu verkaufen.
+#facs_30_r4l1 57
+#facs_101_r3l11 soll.
+#facs_41_r4l3 a-
+#facs_243_r2l2 die Herren Amtleut im Declans, da
+#facs_243_r2l3 Oberbeitlich Getreid ist; Item per
+#facs_243_r2l4 Jedel an die hiesigen Hh. Schafuere.
+#facs_243_r2l5 den Haber zu verkaufen.
+#facs_220_r5l23 Schultheis Räth und Bürger
+#facs_194_r4l1 über
+#facs_243_r2l8 angehörten Vortrag Unserer Fürgeliebten
+#facs_243_r2l9 Mit Räthen der Herren deutsch Sekelmeister
+#facs_243_r2l10 und Veneren, und Unserer verordneten
+#facs_243_r2l11 KornCammer, haben Wir den im May
+#facs_243_r2l12 lezthin aufgeschobenen Haber-Verkauf
+#facs_243_r2l13 bey nunmehro veränderten Umständen
+#facs_242_r5l15 wieder aufgehoben, und Erkent, daß der
+#facs_243_r2l15 bey Euch über den Vorrath= wie auch die
+#facs_243_r2l16 ordinari und quasi ordinari Ausgaben
+#facs_243_r2l17 aus, noch zum Verkauf restierende Haber
+#facs_243_r2l18 nunmehro auch, unter denen gewöhnlichen
+#facs_243_r2l19 Praecautionen abgestoßen werden solle,
+#facs_160_r3l8 Deßen Ihr berichtet werdet mit befelch,
+#facs_243_r2l21 bey diesem Haber verkauf, die Verzeigung
+#facs_243_r2l22 der Schüdtenen von seiten Unserer
+#facs_243_r2l23 fürgeliebten Mit Räthen der Herren
+#facs_243_r2l24 deutsch Sekelmeister und Venneren zu
+#facs_26_r7l3 mi
+#facs_243_r2l26 erwarten, und solchen zu kleinen
+#facs_243_r3l1 577
+#facs_243_r3l2 Käuffen hinzugeben; für das daraus
+#facs_243_r3l3 erlösende dann uns gebührende Rechnung
+#facs_116_r3l10 zu tragen.
+#facs_124_r2l23 Wie zuthun
+#facs_243_r3l6 den 22ten Augusti 1781.
+#facs_178_r8l1 en

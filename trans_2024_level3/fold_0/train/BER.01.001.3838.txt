@@ -1,0 +1,117 @@
+Law ID: BER.01.001.3838
+Name: Durchmarsch des Baden-Durlachischen Regiments concediert.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 106/106
+# High similarity (>=50%): 104
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_196_r3l10 Zedel an Meslihr die Schul Räht, Sie
+#facs_196_r3l11 deßen mit Zusendung einer Copia von
+#facs_196_r3l12 diesem Mandat nachrichtl. verständigen,
+#facs_196_r3l13 Zedel an Mehhlen. Electores Wit zusen¬
+#facs_196_r3l14 dung einer Copia von diesem Mandat und
+#facs_196_r3l15 Verzeichnungs Sie deßen auch berichten, mit
+#facs_196_r3l16 frl. gesinnen, nach verfloßener Zeith, zu
+#facs_196_r3l17 diesen Pfründen, wann der Tax nicht bezalt,
+#facs_196_r3l18 Ihr Bekl. Eine Wahl zu deren wider besa¬
+#facs_196_r3l19 zung einzugeben;
+#facs_197_r3l1 Qui
+#facs_197_r3l2 Edle Ergeübische, Seeländische, und
+#facs_197_r3l3 weltsche Ambthleut, B. Ripp. pr. zedell.
+#facs_197_r3l4 Durchmarsch der Raden
+#facs_197_r3l5 dürlachischen Regiments
+#facs_197_r3l6 concediert
+#facs_197_r3l7 Schultheis und Raht der Statt Bern
+#facs_197_r3l8 Demnach auff von seithen der Prl.
+#facs_197_r3l9 Margraffin von Raden, wie auch H.
+#facs_197_r3l10 Margraffen Carl August zu Baden
+#facs_197_r3l11 Durlach beschehenes Ansuchen Wir
+#facs_197_r3l12 bewilliget, daß des Prinzen Carl Will
+#facs_197_r3l13 helms zu Raden verlach in Konigl.
+#facs_197_r3l14 Sardinisch diensten habende Regiment
+#facs_197_r3l15 durch Unsere land Recroute weiß Jehr
+#facs_197_r3l16 doch unbekehrt ins Savoy geführt werden mögen,
+#facs_197_r3l17 Als habend wir deß durchmarschshalbt
+#facs_197_r3l18 dieser Manschafft folgende precaukonen
+#facs_197_r3l19 an zuordnen gutfunden, als
+#facs_197_r3l20 Solle der Rührer dieser Recroute den
+#facs_197_r3l21 habenden Pass vorbeisen, welchen zu
+#facs_197_r3l22 visieren wirst
+#facs_197_r3l23 2°
+#facs_197_r7l1 375
+#facs_197_r7l2 Solle Er vorweysen eine Verzeichniß der
+#facs_197_r7l3 Mitschführenden Mannschafft, darinen
+#facs_197_r7l4 so wohl deren Namen, zunahmen und geburts¬
+#facs_197_r7l5 orth Specificiert; dieser Liste nun wirst du
+#facs_197_r7l6 unterschreiben, damit selbige bey außgang
+#facs_197_r7l7 auß unseren Landen in dem letsten Ambts¬
+#facs_197_r7l8 mann gebührend Confrontiert werden könne.
+#facs_197_r7l9 auch
+#facs_197_r7l10 Soll dem Rührer dieser Recroute verbotten seyn
+#facs_197_r7l11 in unseren Landen weder frömbt noch Ein¬
+#facs_197_r7l12 heimische anzuwerben, widrigen fahls
+#facs_197_r7l13 so wohl der Werber als der Angevorbene eine
+#facs_197_r7l14 gestekt berden soll;
+#facs_197_r7l15 dan soll der Führer, und die mit sich führende
+#facs_197_r7l16 Mannschafft aller Orthen, da Sie durch passaren
+#facs_197_r7l17 werden, sich still und ruhig aufführen, in
+#facs_197_r7l18 vider handlenden Fahl aber zur Verantwor¬
+#facs_197_r7l19 tung und nach Verantbortung zur gestaltsamme
+#facs_197_r7l20 zur straff gezogen werden.
+#facs_197_r7l21 Deßen allesen du nun hiemith dahin berichtet wirst,
+#facs_197_r7l22 umbfahls von obgedachter Manschaft durch den amtt,
+#facs_197_r7l23 bezirk passieren wurde, dich diesemnach verhalten zu können.
+#facs_197_r7l24 wie dan zu thun bestens wüßen wirst, Gott mit dir
+#facs_197_r7l25 Datl d.T. Marty 1742
+#facs_198_r1l1 B76.
+#facs_198_r1l2 pertinet
+#facs_198_r1l3 ad Fol. 363.
+#facs_198_r1l4 Coll.
+#facs_198_r2l1 da Raben sind
+#facs_198_r2l2 An alle T. und W. Ambthleuth 4 Tatl
+#facs_198_r2l3 Prey Weibel und Amen
+#facs_198_r2l4 Wein Verbott s. Erläuterung.
+#facs_198_r2l5 Schultheis Räht und Ringer
+#facs_198_r2l6 Obschon durch verschiedene Ordnungen
+#facs_198_r2l7 insbesonders aber das unteren 24. Febr.
+#facs_198_r2l8 1739. offentlich in Trub außgegebene
+#facs_198_r2l9 Reglement die Weinhandlung betreffend
+#facs_198_r2l10 wir außtrübenlich verbotten, vor dem
+#facs_198_r2l11 Herbst den Wein oder die Trauben an
+#facs_198_r2l12 dem stot zu kauffen, So müßen wir
+#facs_198_r2l13 denoch vernemmen, daß obiges Verbott
+#facs_198_r2l14 durch ohngleiche auslegungen außgelichen
+#facs_198_r2l15 und hindangesezt werde, sonderheitlich als
+#facs_198_r2l16 dan selbiges nur die so genanten Petoillon,
+#facs_198_r2l17 oder Weinhändler Weltschen Landtsbetreffe,
+#facs_198_r2l18 Inmaßen wir hiemith nöhtig befunden
+#facs_198_r2l19 darüber die Erläntherung dahin zu geben,
+#facs_198_r2l20 daß nicht nur obgemelten Petvillons
+#facs_198_r2l21 oder so genanten Weinhändleren sondern
+#facs_198_r2l22 allen unseren Bürgeren und und unnderthanen
+#facs_198_r2l23 zusgemeinen und besonders, bey straff der
+#facs_198_r2l24 Confiscation verbotten seyn solle, den
+#facs_198_r2l25 Winn vor dem Herbst, und Eher selbiger ge¬
+#facs_198_r2l26 möstet und getruhlet auch gefaßet und
+#facs_198_r2l27 ein
+#facs_198_r3l1 pertinet
+#facs_198_r3l2 ad Fol. 3T12
+#facs_198_r4l1 377.
+#facs_198_r4l2 gebelleret ist, zu erhandlen und anzukauffen,
+#facs_198_r4l3 darin aber nicht begrieffen seyn sollen, jenige
+#facs_198_r4l4 welche nach unserer Ao 1739. außgangenen Or¬
+#facs_198_r4l5 nung Art. 9. Ihren eigenen Räbleuthen
+#facs_198_r4l6 auff den künftigen raub hin anleichungen
+#facs_198_r4l7 thun bürden, als welchen solches nach Inhalt
+#facs_198_r4l8 bemelten Articulo noch ferners zugelaßen
+#facs_198_r4l9 wirdt bleibt, deßen du gleichanderen Ambth,
+#facs_198_r4l10 gleüthen hiemith benachrichtet und befelchnet
+#facs_198_r4l11 birst, zu männiglich Nachricht solches von Cantzlen
+#facs_198_r4l12 verkunden, auch behörigen Orths einschreiben
+#facs_198_r4l13 Und daß demenach gelebt werde Handobhalten
+#facs_198_r4l14 zu laßen büßen wirst, Gott mit dir
+#facs_198_r4l15 Dath. d. 14. Febr. 1748.

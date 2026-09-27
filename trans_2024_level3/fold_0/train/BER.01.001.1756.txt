@@ -1,0 +1,94 @@
+Law ID: BER.01.001.1756
+Name: Die Capitel zehalten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 83/83
+# High similarity (>=50%): 77
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_149_r3l31 C:
+#facs_149_r3l32 Neulzburg
+#facs_149_r3l33 Lawen
+#facs_149_r3l34 Königs Felden Montag. i. May
+#facs_149_r3l35 Ernensv. Donstag 11 d
+#facs_149_r3l36 Schunckenberg,
+#facs_149_r3l37 Buchsee
+#facs_150_r2l1 Biberst
+#facs_150_r2l2 Zinst 2 May
+#facs_150_r2l3 Arbung
+#facs_150_r2l4 Brandiß zu kreit 12. d.
+#facs_150_r2l5 Signorum
+#facs_150_r2l6 Hoffing
+#facs_150_r2l7 rechseler
+#facs_150_r2l8 vizmande
+#facs_150_r2l9 Mit wochen 3 do.
+#facs_150_r2l10 thun
+#facs_150_r2l11 Wirz
+#facs_150_r2l12 Wann
+#facs_150_r2l13 Oberhoffen Mont. 15. d
+#facs_150_r2l14 und seinen
+#facs_150_r2l15 Landtshut d. Prit. 5. d.
+#facs_150_r2l16 Interlack.
+#facs_150_r2l17 Fraumbr.
+#facs_150_r2l18 Tharberg
+#facs_150_r2l19 Mont-8.
+#facs_150_r2l20 Präutig, zwist 16 d
+#facs_150_r2l21 Burgdorff
+#facs_150_r2l22 Wimmis
+#facs_150_r2l23 Büren
+#facs_150_r2l24 2. weysimmen
+#facs_150_r2l25 Nidoner zinst. 9 d.
+#facs_150_r2l26 hocs statt
+#facs_150_r2l27 Sahnen Mitmuch 17. d.
+#facs_150_r2l28 Alen
+#facs_150_r2l29 St. Johansen
+#facs_150_r2l30 Erlach Mitrauch. 10. d.
+#facs_150_r2l31 Arberg
+#facs_150_r2l32 An alle Teütsche Amptleuth
+#facs_150_r2l33 Die Capitel zuhalten
+#facs_150_r2l34 Oott
+#facs_150_r2l35 Schultheiß undt Raht der Statt Benn
+#facs_150_r2l36 Wir habend der ordinari Lavitlen halb, by denen
+#facs_150_r2l37 wie es für diese Jahr verbleiben laßend bey herzu nachender
+#facs_150_r2l38 gewohnter Zeit, xyz die hiemit beuelchen wollen, daß du deiner
+#facs_150_r2l39 theils solcher Censur Handlung ohneß bleiblich selbst beywohnen
+#facs_150_r2l40 und dieselbe 6. mit solchem verurrderlichen Rechten eyffer und
+#facs_150_r2l41 benst vernichten helffen sollest, daß dis ohrts keinem ver¬
+#facs_150_r2l42 schonet, noch durch die finger gesehen, Sonderen eines Jeden
+#facs_150_r2l43 erhalten In Lehr und Leben, sonderlich so will die mangel
+#facs_150_r2l44 und neuerderliche verbesserung betrifft, sein aufrichtig.
+#facs_150_r5l1 287
+#facs_150_r5l2 Und ohn verhalten fürbracht, und den Actis einverleibet werde,
+#facs_150_r5l3 Mit gebührender Hand obhaltung undt gutem deinem Beybrach
+#facs_150_r5l4 die rüsere vor und mehrmalige rßschreiben es von dem
+#facs_150_r5l5 sinten und anderen ermorderent damit der Sach, umb die
+#facs_150_r5l6 das gethan In alleweg genug beschehe: Als wie nur Zue
+#facs_150_r5l7 die, und den H. Decanis denen wie gleichen bevelch zu
+#facs_150_r5l8 Schreibend versochen haben wollend, Der Meinung, daß die
+#facs_150_r5l9 Acta auch bey Zeiten gebürend underschriben, allher ge¬
+#facs_150_r5l10 schikt worden sollen. Dat. 3. Aprilis 1665.
+#facs_150_r5l11 Alw die Decanus sic
+#facs_150_r5l12 Ach hiemit bewelchen wollen die haltung solchen ordinari Lapi¬
+#facs_150_r5l13 Tels anzustellen, und solche Censur und Loferschungs Handlung,
+#facs_150_r5l14 6. cetera mutatis andis.
+#facs_150_r5l15 -
+#facs_150_r5l16 Un die Waltschen Ambblüt.
+#facs_150_r5l17 Die media wegen der Armuet der
+#facs_150_r5l18 derthanen Im WeltschLandt
+#facs_150_r5l19 ze consultieren
+#facs_150_r5l20 Hochß und Rhat. etc. Wie sindt erst oberkeitlicher Fürsorg
+#facs_150_r5l21 Inn dem nit minder nohtwenligen nach demten begriffen
+#facs_150_r5l22 wie der so allgemeinen Erarmung unserer Undenthanen
+#facs_150_r5l23 Weltschen Landts zestemeren Vnd vor zuwehren sei werde.
+#facs_150_r5l24 Wylen aber an Jedem ohrt selbsten am besten bekant, so wol
+#facs_150_r5l25 dersteligen ersachen, alß durch was bequemste Mittel
+#facs_150_r5l26 denselbigen widerumb auffzehreffen; habend wir gut
+#facs_150_r5l27 befunden, dir hiemit zebefelchen, mit einem Vß Schuten
+#facs_150_r5l28 von den verständigsten Vnnd achtbaresen Persohnen
+#facs_150_r5l29 a) daß einten und anderen halb zu conferieren, und do reme¬
+#facs_150_r5l30 dye Zue consultieren, daßelvige In Schrifft verfaßen zu
+#facs_151_r2l1 Laßen, und vns fürderlich zu überschiken, Alß wir am
+#facs_151_r2l2 denn versichend. Dat. d. 8. Aprilis 1665.

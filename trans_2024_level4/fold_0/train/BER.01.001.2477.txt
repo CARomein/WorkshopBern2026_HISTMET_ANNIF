@@ -1,0 +1,136 @@
+BER.01.001.2477
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 127/127
+# High similarity (>=50%): 107
+# Low similarity (<50%): 20
+# Not found: 0
+#
+#facs_20_r1l18 Collat.
+#facs_20_r1l19 Proportionirter Getreit Tax
+#facs_20_r1l20 Im Weltschen Land.
+#facs_20_r1l21 Kernen oder Weitzen das Mäs zu
+#facs_20_r1l22 Dfätterlingen -
+#facs_20_r1l23 bx x
+#facs_20_r1l24 Milden — —
+#facs_20_r1l25 23
+#facs_20_r1l26 Vivis -
+#facs_20_r1l27 20
+#facs_20_r1l28 Lausanne -
+#facs_20_r1l29 30
+#facs_20_r1l30 Morsen -
+#facs_20_r1l31 24
+#facs_20_r1l32 26. 2
+#facs_20_r2l1 33
+#facs_20_r2l2 Neues
+#facs_20_r2l3 Iverden
+#facs_20_r2l4 -
+#facs_20_r2l5 mainmostier
+#facs_20_r2l6 Wiblisourg
+#facs_20_r2l7 Roggen.
+#facs_20_r2l8 das Mäs zu -
+#facs_20_r2l9 Ce
+#facs_20_r2l10 fätterlingen
+#facs_20_r2l11 Milden.
+#facs_20_r2l12 a
+#facs_20_r2l13 Rivis
+#facs_20_r2l14 dans le mois des pieds desirés
+#facs_20_r2l15 aufanne
+#facs_20_r2l16 .
+#facs_20_r2l17 Morsen
+#facs_20_r2l18 Neunss
+#facs_20_r2l19 Iverden
+#facs_20_r2l20 "
+#facs_20_r2l21 omainmostier
+#facs_20_r2l22 Triblisourg
+#facs_20_r2l23 Baber
+#facs_20_r2l24 das Mäs zu
+#facs_20_r2l25 fätterlingen
+#facs_20_r2l26 Milden -
+#facs_20_r2l27 Vielis
+#facs_20_r2l28 Lausanne
+#facs_20_r2l29 Morsun
+#facs_20_r2l30 Neuws
+#facs_20_r2l31 Iver den
+#facs_20_r3l1 h
+#facs_20_r3l2 X
+#facs_20_r3l3 30
+#facs_20_r3l4 21.„
+#facs_20_r3l5 25 x
+#facs_20_r3l6 25.12
+#facs_20_r3l7 17.
+#facs_20_r3l8 15
+#facs_20_r3l9 e
+#facs_20_r3l10 22.
+#facs_20_r3l11 18
+#facs_20_r3l12 e
+#facs_20_r3l13 19
+#facs_20_r3l14 22
+#facs_20_r3l15 2
+#facs_20_r3l16 16
+#facs_20_r3l17 9
+#facs_20_r3l18 19
+#facs_20_r3l19 8. 2
+#facs_20_r3l20 7. 2
+#facs_20_r3l21 10. Z
+#facs_20_r3l22 3
+#facs_20_r3l23 8
+#facs_20_r3l24 10
+#facs_20_r3l25 2
+#facs_20_r3l26 10
+#facs_20_r3l27 8. 1
+#facs_21_r1l1 34
+#facs_21_r1l2 x
+#facs_21_r1l3 Romainmostier
+#facs_21_r1l4 9.
+#facs_21_r1l5 Wiblisourg -
+#facs_21_r1l6 9.
+#facs_21_r1l7 Pösen das Mär zu
+#facs_21_r1l8 Hoesten In¬
+#facs_21_r1l9 Aufätterlingen
+#facs_21_r1l10 14.
+#facs_21_r1l11 Milden
+#facs_21_r1l12 12
+#facs_21_r1l13 1
+#facs_21_r1l14 Vivis
+#facs_21_r1l15 18
+#facs_21_r1l16 3
+#facs_21_r1l17 Lausanne
+#facs_21_r1l18 15.
+#facs_21_r1l19 Morsen
+#facs_21_r1l20 -
+#facs_21_r1l21 16
+#facs_21_r1l22 1
+#facs_21_r1l23 Neüws
+#facs_21_r1l24 18
+#facs_21_r1l25 Iverden
+#facs_21_r1l26 13.
+#facs_21_r1l27 Romainmostier
+#facs_21_r1l28 o-
+#facs_21_r1l29 16
+#facs_21_r1l30 Wiblisourg -
+#facs_21_r1l31 -
+#facs_21_r1l32 16
+#facs_21_r1l33 Die gar Hübschen juren Arbs und Weißen Wiki gleich dem Kernen
+#facs_21_r1l34 oder Weitzen.
+#facs_21_r1l35 Die Schlechteren und Minderen Arbs und Wiki aber, wie auch der Messer
+#facs_21_r1l36 und Medae, nach Beschaffenheit und proportion des darinn sich be¬
+#facs_21_r1l37 findlichen Gewächstes, verkaufft werden sollend nach der Schatzung
+#facs_21_r1l38 der beeidigten Inspectoren der KornMarkten
+#facs_21_r2l1 de
+#facs_21_r2l2 2
+#facs_21_r5l1 An alle Zeütsche und Weltsche Ambtleicht
+#facs_21_r5l2 4. Stätt, Freyweibel und Ammann
+#facs_21_r5l3 Den abtruk abgerüffter Krießländischer Thaleren
+#facs_21_r5l4 an gewohnten ohrten anzuschlahen.
+#facs_21_r5l5 a
+#facs_21_r5l6 Wultheiß und Rast der Statt Bärn
+#facs_21_r5l7 Beyligende Exemplaria abgerüffter Friesländischer Thaleren werdende
+#facs_21_r5l8 der dahin überschickt, vmb selbige zu Manniglichs nachricht an gewohnten
+#facs_21_r5l9 orten anschlagen zulaßen. Datum 9. Augusti 1693.
+#facs_21_r5l10 Gierunder abgetrükte Friesländische Thaler sind durch gezogene Werk
+#facs_21_r5l11 allzu gering hältig befunden, und deßwegen von Meinen Gnädigen Herrn
+#facs_21_r5l12 und Oberen auff vier und zwantzig batzen abgeruffen worden, also daß
+#facs_21_r5l13 In dero Landen sie höher nicht weder außgegeben noch abgenommen werden
+#facs_21_r5l14 öllend. Actum 9. Augusti 1693.

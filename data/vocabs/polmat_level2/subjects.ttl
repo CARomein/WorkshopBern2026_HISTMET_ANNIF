@@ -1,0 +1,22 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/rhonda/polmat/n01.1so> a skos:Concept ;
+    skos:notation "n01.1so" ;
+    skos:prefLabel "Gesellschafts- und Sozialordnung. Religion"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso> a skos:Concept ;
+    skos:notation "n01.2pso" ;
+    skos:prefLabel "Öffentliche Sicherheit und Ordnung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh> a skos:Concept ;
+    skos:notation "n01.3prh" ;
+    skos:prefLabel "Sozialwesen. Gesundheitswesen. Erziehungswesen. Kultur"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp> a skos:Concept ;
+    skos:notation "n01.4esp" ;
+    skos:prefLabel "Wirtschaftsordnung. Arbeits- und Berufsordnung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp> a skos:Concept ;
+    skos:notation "n01.5ldp" ;
+    skos:prefLabel "Bodenordnung, Bauwesen, Grundstückswesen, Öffentliche Einrichtungen"@de .
+

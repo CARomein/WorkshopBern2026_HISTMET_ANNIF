@@ -1,0 +1,43 @@
+Law ID: BER.01.001.2433
+Name: Den Teüfferen keinen Underschlauff zugeben.
+
+#facs_480_r2l21 3x
+#facs_480_r3l1 905.
+#facs_480_r3l2 An alle D. Amptleits
+#facs_480_r3l3 Frey weibell und Amman
+#facs_480_r3l4 den Beüfferen keinen Vnderschlauff
+#facs_480_r3l5 zugeben
+#facs_480_r3l6 statthallter und raht etc.
+#facs_480_r3l7 Der an etwellchen ohrten unserer landen zugenommene
+#facs_480_r3l8 ihrthumb der wider Taüfferey hatt vnß veranlaßet
+#facs_480_r3l9 die hievor darwider außgangene gute Mandat vnd
+#facs_480_r3l10 ordnungen erfrüschen ze laßen, wie nun krafft deroselben
+#facs_480_r3l11 denen auf ihrer loiderspänstigkeit verharrenden der
+#facs_480_r3l12 freye abzug innert dem zihl der atag tagen vergont birt
+#facs_480_r3l13 dir aber die nit unzeitige beysorg tragend sie möchtend sich
+#facs_480_r3l14 anandere in unserer pottmeßigkeit gelegene ohrt
+#facs_480_r3l15 erschleicben, Alls habend wir zu verhürtung deßen
+#facs_480_r3l16 in alle Vnsere Amptleüth, wie hiemit auch an dich
+#facs_480_r3l17 beschicht den befollch ergehen laßen, daß sie gegen ihren
+#facs_480_r3l18 amptsangehörigen die anstallt thüyindt, und diesellben
+#facs_480_r3l19 Verbahreindt, dergleichen Cüüfferische persohnen Vnder las
+#facs_480_r3l20 schein es auch immer seye bey poen sechtzig cronen nit
+#facs_480_r3l21 zugedullden maßen sollchem nach hinder deinem ampt
+#facs_480_r3l22 die Verordnung ze thun vnd zu moniglichs nachricht, die
+#facs_480_r3l23 wahrnung vo cantzlen ergehen ze laßen, dir überlaßen
+#facs_480_r3l24 wirt. Datus et Supra.
+
+#facs_481_r2l1 Cedull
+#facs_481_r2l2 An Mehlhl: der Cauffer Camer
+#facs_481_r2l3 Ob idem.
+#facs_481_r2l4 ehr gull überschikend Eich mehlohl hiemit aber
+#facs_481_r2l5 schrifftlich, was der woidertaüfferen hallb en eit
+#facs_481_r2l6 andere ohrt außzuschreiben guthfunden werden,
+#facs_481_r2l7 Vnd wie nun die widerspunstigen nach dem Innhall
+#facs_481_r2l8 deß mandats einh mechlohl zugeführt werden.
+#facs_481_r2l9 sollend, alls wollend ihr gull eüch von eueo
+#facs_481_r2l10 überlaßen haben, zu veranstallten, daß so bohl
+#facs_481_r2l11 in der Insull allhier, für die Lehrer alls zur
+#facs_481_r2l12 Neübenstatt für die allten taüserplatzen
+#facs_481_r2l13 gemacht lerde. Actum at Supra.
+END

@@ -1,0 +1,93 @@
+Law ID: BER.01.001.3881
+Name: Die in Carolinam reisenden Unterthanen ansehend.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 82/82
+# High similarity (>=50%): 81
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_375_r3l1 An alle Ober Ländischen Amt¬
+#facs_375_r3l2 Leuth.
+#facs_375_r3l3 Die in Carolinam reistenden Unter¬
+#facs_375_r3l4 thanen Anstehendt
+#facs_375_r3l5 Schultheiß und Raht der Statt Berg
+#facs_375_r3l6 Weilen ohngeacht aller Unser gethanen
+#facs_375_r3l7 bestgemeinten Verbahrungen, wir Ich
+#facs_375_r3l8 Demnach sehen müßen, daß viele von
+#facs_375_r3l9 Unseren Unterhanen nicht abwendig
+#facs_375_r3l10 gemacht werden können, in Carolinam
+#facs_375_r3l11 Als habendt Wir
+#facs_375_r3l12 abzureisen.
+#facs_375_r3l13 dir gleich Übrigen Oberländischen
+#facs_375_r3l14 Amtleutten hiemith befelchlich auf
+#facs_375_r3l15 tragen wollen, auf Jenige, so von
+#facs_375_r3l16 dieser Reiß wiederzurück kommen sollte,
+#facs_375_r3l17 zu achten, sie in Gefänglichen
+#facs_375_r3l18 Verhafft zu setzen und unß deßen
+#facs_375_r3l19 zu fernerer Unser Verordnung zu¬
+#facs_375_r3l20 berichten. Datum d. 27. Febr. 1744
+#facs_375_r5l1 723
+#facs_375_r5l2 An alle F: und Weltsche Amt Leuth,
+#facs_375_r5l3 frey Weibel und Ammann
+#facs_375_r5l4 Von Brembden durch führenden Recroutes
+#facs_375_r5l5 soll wegen deren Examinierung kein
+#facs_375_r5l6 Emolument bezogen werden.
+#facs_375_r5l7 Schultheis und Raht etc.
+#facs_375_r5l8 Demnach wir vernemmen müßen, was die¬
+#facs_375_r5l9 stellten ohngeacht Unserer sub 15ten febr
+#facs_375_r5l10 1735. außgeschriebenen Ordnung, was für
+#facs_375_r5l11 Emolument nämlichen Unsere Amtleuth
+#facs_375_r5l12 bey Vorstellung der abführenden hiesigen
+#facs_375_r5l13 Reeroutes zu beziehen haben sollen, Ich
+#facs_375_r5l14 dennoch in Theils Amteren eine Zeith
+#facs_375_r5l15 dafär die In diesem Fahl admittierte
+#facs_375_r5l16 Jechen Creuzer per Mann auch von dem
+#facs_375_r5l17 Freunden durchführenden Recrues bezogen
+#facs_375_r5l18 werden wollen; Als habendt wir zu hinter¬
+#facs_375_r5l19 Treibung dieses einschleichenden Mißbrauchs
+#facs_375_r5l20 nöhtig befunden, in Erfrischung obge¬
+#facs_375_r5l21 meldten Unsers Einsehens dir (gleich
+#facs_375_r5l22 gegen alle übrige T. und W. Amt Leüth
+#facs_375_r5l23 auch Beschicht) hiermith zu befehlen, dich
+#facs_375_r5l24 hierinn fahlt nach sothaner Ordnung
+#facs_375_r5l25 Stricke zu Conformieren und hinführo
+#facs_375_r5l26 von p
+#facs_376_r3l1 Von denen durchpaspierenden fremde
+#facs_376_r3l2 recroutes für daheriges Examen kein
+#facs_376_r3l3 Emolument zu forderen, Inmaßen
+#facs_376_r3l4 du dich könfftig demnach verhalten
+#facs_376_r3l5 und solches nur von unseren eigenen
+#facs_376_r3l6 abführenden und dir vorgestellten
+#facs_376_r3l7 Reines Beziehenwirst. Datum
+#facs_376_r3l8 den 18 febr. 1744.
+#facs_376_r3l9 En alle Weltsche Amt Leüth.
+#facs_376_r3l10 Wegen eines Sergeantz und Halsch¬
+#facs_376_r3l11 Werber Jean Jaques Chevallay.
+#facs_376_r3l12 Schultheiß, Räht und Bürger
+#facs_376_r3l13 Ein gewüßer Sergeant aus dem Regiment
+#facs_376_r3l14 Widtmer in Frankreich, Nahmens Jean
+#facs_376_r3l15 Jaques Chevallay von St Prex amts
+#facs_376_r3l16 Mörser, hat zu bieder Unseren vielfal¬
+#facs_376_r3l17 tigen, sonderlich aber unterem 9ten July
+#facs_376_r3l18 1741 der verbottenen Werbungen halber
+#facs_376_r3l19 außgangenen Ordnungen freffentlich ge¬
+#facs_376_r3l20 handlet und denen auffgesetzten Straaß
+#facs_376_r3l21 sich zugezogen, daß wir denselben von
+#facs_376_r3l22 Leben zum Todt verurtheillet zu werden
+#facs_376_r3l23 verfellet
+#facs_376_r5l1 227.
+#facs_376_r5l2 verfellet: Wie aber dieser Chevallen mit
+#facs_376_r5l3 zu behändigen gebesen, undt Landts¬
+#facs_376_r5l4 flüchtig Ist: Als haben Wir zugleich
+#facs_376_r5l5 erbennt, daß wer Ihne Lebendig
+#facs_376_r5l6 zu Unseren Handen Lieferen Ein
+#facs_376_r5l7 Hundert Thaler- Wer aber denselben
+#facs_376_r5l8 Todt Lieferen Thäte, günstzig Thaler
+#facs_376_r5l9 Recompenz von Unß zu empfahren haben
+#facs_376_r5l10 solle; deßen du hiemith nachrichtlich
+#facs_376_r5l11 und es von Canzlen bestendt zu machen
+#facs_376_r5l12 verständiget wirst. Datum den 28ten
+#facs_376_r5l13 febr. 1744

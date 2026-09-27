@@ -1,0 +1,40 @@
+Law ID: BER.01.001.4945
+Name: Wegen ussgrissner Soldaten im Schallenwärck.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 29/29
+# High similarity (>=80%): 24
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_20_r2l1 33
+#facs_8_r3l1 2
+#facs_172_r2l3 An die verzweibel und Ammen wegh geschrieben
+#facs_172_r2l5 von aldat. Km. Schalleinwarrk
+#facs_172_r2l6 Schuldtheil. Demmach wir verstanden, das Iren etzlichen
+#facs_172_r2l7 so alhie angefeßlet gehen, vnd Im gemeinen Schallenwerschen
+#facs_172_r2l8 gearbeitet, aß sorglosigkeit eßgerisen, und tückischen
+#facs_172_r2l9 eys sich hinweg gemacht, dieselbigen auch an erli¬
+#facs_172_r2l10 Orthen, da man so gesechen, furpaßiert, und aber durch
+#facs_172_r2l11 annchen Unserer Underthanen, wie Inen es sonst wol
+#facs_172_r2l12 gebürthete, verleidet, vilminder sy wider alhar
+#facs_172_r2l13 geschaffet worden, das dan uns mit wenig befrans,
+#facs_172_r2l14 So habend wir dir hiemit mich allein
+#facs_1_r1l2 der
+#facs_172_r2l16 ernst vffbinden und benelehen wollen, das du syne
+#facs_172_r2l17 Ampts angehörigen Verwarnit und vermauet
+#facs_172_r2l18 3 schl. Ins künfftig ein bessere Achlung habuit, und
+#facs_172_r2l19 verglgehen persohnen, wyb oder man so fürthin¬
+#facs_172_r2l20 pryßen mochtendt, und zuen mit den nochhaben
+#facs_172_r2l21 zeichen, begegnen wurdendt, alhar schaffindt, und die
+#facs_172_r2l22 jenigen by welchen sich solche persohnen verschlachen,
+#facs_172_r2l23 und ja auch Inzuchen möchtend, die verleidnet, Vn¬
+#facs_172_r2l24 du vns derselben halb berichten könnet, damit wie
+#facs_172_r2l25 uns gegen zuen nach ihrem verdienen Zehalten
+#facs_172_r2l26 eüßende, und damit sollichs dienen Amptsange
+#facs_172_r2l27 hörig desto Khundsbarer werde, soll du dis vnser
+#facs_172_r2l28 Mandat, zu mennigliches Nachrichtung öffendtlich
+#facs_172_r2l29 von den Cantzler pkhunden laßen, ist wyse
+#facs_172_r2l30 will, Datum 22. Augusti 1616  1615  of 18/6 30, 133

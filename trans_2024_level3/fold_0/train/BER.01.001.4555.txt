@@ -1,0 +1,145 @@
+Law nr: BER.01.001.4555
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 133/133
+# High similarity (>=80%): 129
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_121_r6l13 5. Groß Allmosen
+#facs_121_r6l14 Lausanne, Pferten und Neulot kafte denne
+#facs_121_r6l15 Jedel an Herrn Bros Weibel
+#facs_121_r6l16 Libell gegen die Gerichts Stelle zu
+#facs_121_r6l17 Courtelary
+#facs_123_r6l13 Schultheiß und Rath. Es ist unlängst in
+#facs_121_r6l19 dem Herrn Tischoff von Sasel ein
+#facs_121_r6l20 Relation juste et veritable de la gran
+#facs_121_r6l21 de Justice faite à Avendre le 18me
+#facs_121_r6l22 May 1784. betistletes Impressum
+#facs_121_r6l23 so ein Colporteur aufgestreut, u
+#facs_121_r6l24 anzügliche Stellen gegen die Magistra¬
+#facs_121_r6l25 ter zu Courtelary ruthalt, eingesend¬
+#facs_121_r6l26 Auf das an Uns besche
+#facs_105_r4l26 worden.
+#facs_121_r6l28 hene Ansuchen nun, wollen Wir Euch
+#facs_121_r6l29 anmit aufgetragen haben, die erforderte
+#facs_121_r6l30 lichen Anstalten vorzubehren, daß dieses
+#facs_121_r6l31 Libell nicht nur nicht ausgestreut, sondern
+#facs_121_r6l32 lie sich allfählig vorfindende Exemplaria da¬
+#facs_121_r6l33 von hernichtet werden. Ihr werdet
+#facs_121_r6l34 auch bey denen hinter Euch schanden Buch¬
+#facs_121_r6l35 tenberen nachforschen, ob selbiges etwan
+#facs_121_r6l36 in hiesigen Landen gedrukt worden? Das
+#facs_100_r2l1 soll.
+#facs_37_r1l1 66
+#facs_122_r2l1 heraus kommende dann Uns zu fernerer
+#facs_122_r2l2 Verordnung einberichten
+#facs_122_r2l3 An Ifferten allein
+#facs_122_r2l4 da der Verdacht obwaltet, das ein gewißig
+#facs_122_r2l5 Hällen der Verleger desselben seye, so
+#facs_122_r2l6 werdet Ihr denselben bescheiden und
+#facs_122_r2l7 hierüber ernsthaft zu Redestellen und
+#facs_122_r2l8 insonderheit befragen, wer ihme dieses
+#facs_122_r2l9 Manuscript zum Truk übergeben, auch
+#facs_122_r2l10 ersuchen laßen, ob sich der Stempel der
+#facs_122_r2l11 Vignette davon nicht etwa in seiner Tru¬
+#facs_122_r2l12 derey befinde? Das Heraus kommende
+#facs_122_r2l13 werdet Ihr Uns zu fernerer Verord¬
+#facs_122_r2l14 nung einberichten. Dat. den 24ten Aug.
+#facs_53_r3l4 1784.
+#facs_83_r3l6 en
+#facs_4_r1l1 2
+#facs_122_r2l17 Alle deutsch und Weltsche Herren Amt¬
+#facs_122_r2l18 leute 4. Städt, Freyweibel und Amann
+#facs_122_r2l19 Herbst Ferien
+#facs_122_r2l20 Schultheiß und Rath et Wir haben die
+#facs_122_r2l21 heürigen Herbstferien vom 16. Herbst¬
+#facs_122_r2l22 monat bis Marting nächst künfftig
+#facs_122_r2l23 bestimmt, und befehlen Euch währen
+#facs_55_r5l24 dieser Zeit keine andere dann noth¬
+#facs_122_r2l25 gende Beschäfte, an Uns und Unser
+#facs_122_r2l26 verordnete Dicasteria und Tribuna
+#facs_122_r2l27 lia gelangen zu laßen. Datum K.
+#facs_122_r2l28 25 Angstmonats 1784
+#facs_100_r2l1 soll.
+#facs_68_r4l44 61
+#facs_122_r3l3 pertinct ad pag. 229
+#facs_122_r4l1 237
+#facs_42_r3l15 u.
+#facs_122_r4l3 Alle Kanzel hiesiger Haupt Stadt, wie
+#facs_122_r4l4 auch die französische Kirche
+#facs_122_r4l5 Es hat dem Allerhöchsten gefallen das Dorf
+#facs_122_r4l6 Essertine im Amt Morser durch eine den
+#facs_122_r4l7 11. Augusti diß Jahrs entstandene
+#facs_122_r4l8 Feuersbrunst, dergestalt heimzusu¬
+#facs_122_r4l9 chen, daß in weniger als einer halben
+#facs_122_r4l10 Stunde 22. Häuser, 17. angefülte Scheünen
+#facs_122_r4l11 19. Ställe eine Schmieten und Babofen
+#facs_122_r4l12 samt allen darin sich befindlichen Haus¬
+#facs_122_r4l13 rath und Lebensmüdlin von den Flam¬
+#facs_122_r4l14 enen aufgerieben worden sind, welche
+#facs_122_r4l15 einen Schadenton mehr als L. 43000
+#facs_122_r4l16 verursachet; durch diesen unglüklichen
+#facs_122_r4l17 Zufall befinden sich die Einwohner
+#facs_122_r4l18 dieses Dorfs in die bedanrens würdig¬
+#facs_122_r4l19 zur
+#facs_122_r4l20 Den Umstände versezt
+#facs_122_r4l21 Hilfe und Trost dieser unglüklichen
+#facs_122_r4l22 haben Me Ghh. und Obere, nebst an¬
+#facs_122_r4l23 deren erkent. Es solle auf leünftiger
+#facs_122_r4l24 Heil. Wienachts fest in den Prich¬
+#facs_122_r4l25 und morgen Predigten in allen
+#facs_122_r4l26 Kirchen hiesiger Hauptstadt eine frey¬
+#facs_122_r4l27 willige Beysteuer eingefamlet wer¬
+#facs_122_r4l28 In dem End wird jeder¬
+#facs_140_r3l8 ten
+#facs_122_r4l30 digen freundlichst ermahnt, zur
+#facs_122_r4l31 Ergnibung dieser Elenden als Mit
+#facs_122_r4l32 mensch und als Christ soviel beysch
+#facs_122_r4l33 tragen, als seine Umstände
+#facs_122_r4l34 erlauben
+#facs_10_r6l1 38
+#facs_222_r4l1 Collat
+#facs_123_r4l1 erlauben werden. Welches hiemit offentlich
+#facs_123_r4l2 bekant gemacht wird. Actum coram 200
+#facs_123_r4l3 den 25. Augustus 1784.
+#facs_47_r3l6 Traduction.
+#facs_123_r4l5 Il a plû au Tout-Quissant d'appésant
+#facs_123_r4l6 fir sa Main sur le village d'Essertine
+#facs_123_r4l7 Bailliage de Morges, en permettant
+#facs_123_r4l8 qu'une Incendie cruelle, arrivée le 11. du
+#facs_123_r4l9 Mois d'Aoust de la courante Anée, y
+#facs_123_r4l10 consumat en moius d'une demi Heure
+#facs_123_r4l11 22. Maisons 17. Granges, 19. Ecuries, un
+#facs_123_r4l12 Forge et une Boulangerie, avec tous les
+#facs_123_r4l13 Meubles, Utensiles, Denrees et Pivres
+#facs_123_r4l14 qui s'y trouvoient dont le Domage sévalue
+#facs_123_r4l15 à plus de L43000
+#facs_123_r4l16 Par ce funeste
+#facs_123_r4l17 Accident les malheureux Habitans
+#facs_123_r4l18 de ce village se trouvent reduits en
+#facs_123_r4l19 l'Etat le plus deplorable
+#facs_123_r4l20 R: EE: pour procurer les Secours
+#facs_123_r4l21 les plus efficaces à ces Infortunes par
+#facs_123_r4l22 tous les Moyens possibles, ont trouvé bon
+#facs_123_r4l23 entr'autres, d'ordonner en leur Faveur
+#facs_123_r4l24 une Collecte libre & volontaire, qui
+#facs_123_r4l25 se fera le jour de Noel prochain dans
+#facs_123_r4l26 toutes les Eglises de cette Capitale.
+#facs_123_r4l27 aux divers Sermons qui s'y tiendront
+#facs_55_r4l17 dans la
+#facs_123_r4l29 Cest pourquoi chacun est exhorté
+#facs_123_r4l30 amicalement, et comme Home, & come
+#facs_123_r4l31 Chrêtien, de contribuer selon ses facultés
+#facs_100_r2l1 soll.
+#facs_123_r6l1 239
+#facs_123_r6l2 =au soulagement de ces malheureux Ince¬
+#facs_123_r6l3 dies
+#facs_123_r6l5 Les Présentes seront lues et
+#facs_123_r6l6 publiées en Chaire. Donné en Conseil
+#facs_123_r6l7 souverain le 25 Août 1784
+#facs_48_r3l25 Chancellerie de Berne

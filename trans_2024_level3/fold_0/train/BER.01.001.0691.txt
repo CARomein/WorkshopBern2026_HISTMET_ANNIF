@@ -1,0 +1,53 @@
+Law ID: BER.01.001.0691
+Name: Von Getreids wegen, Für- und Uffkouff.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 41/41
+# High similarity (>=80%): 31
+# Low similarity (<80%): 10
+# Not found: 0
+#
+#facs_242_r3l1 An allt Tütsche und Welsche
+#facs_359_r2l11 Argonne, Enger: Amassa von Getreidt
+#facs_359_r2l12 wegen für vnd vff kauff
+#facs_359_r2l13 Ders. Die xiijl uns finckompt, den bij de¬
+#facs_359_r2l14 Vnseren zu Statt vnd Landt, deß Getreutt
+#facs_359_r2l15 halben von Tag zu Tag ein uthierung und auch
+#facs_359_r2l16 plam geclagt werde, vnd söliches keinen anderen
+#facs_359_r2l17 Vnseren Vrsachen zu errechnen, dan das den für
+#facs_359_r2l18 vnd vf kouffnen, Crombden, vnd heimbschen, wie
+#facs_359_r2l19 vnsere gutte Landts Ordnungen, zugelaßen
+#facs_359_r2l20 Criert, mit allem vf freyen Officien Maritten,
+#facs_359_r2l21 Sonders auch bin zuseren, das Getreidt mit
+#facs_359_r2l22 Schwal vnd Überfluß rfzukauffen, vnd vmb daß
+#facs_359_r2l23 schnöden Landtverderblichen gellts gries vnd Namens
+#facs_359_r2l24 geillen, ußem Landt zu fhuren, da sollche lütt
+#facs_359_r2l25 das Vatterlandt, vnd was daran gelegen, das
+#facs_359_r2l26 was vor Gott und den Montschen schuldig,
+#facs_359_r2l27 deßelben Wollstand, und notdurfft, Jetz und
+#facs_359_r3l1 716.
+#facs_359_r3l2 In das künfftige zu betrachet und für deren
+#facs_359_r3l3 In schlechter achtung habend, vnd tragend, sonders
+#facs_359_r3l4 allein Iren Eines vnd sonderen Seckell machen
+#facs_359_r3l5 wöllend. So wöllen wir dich, wie andere Vnsere
+#facs_359_r3l6 Amptluth voriger Unser, deßhalben Vßgangnen
+#facs_359_r3l7 Ordnungen und Mandates Trinneret, vnd dabey
+#facs_359_r3l8 Ernstlich Eumandt, vnd Omandt haben, bey den
+#facs_359_r3l9 hüseren, vnd Speicheren, weder hemischen noch frömbden
+#facs_359_r3l10 den kauff, und vorauff deß Getreidts Hu¬
+#facs_359_r3l11 gestaßen, Sonders manigklich zu Emanis, sich
+#facs_359_r3l12 fryen Marckstetten vnd Ortten zu hallten, by
+#facs_359_r3l13 müdung des vfersetzten Verweckung des Getreidt
+#facs_359_r3l14 vnd Wuss, Vnd das vf den Kornmaritten
+#facs_359_r3l15 das Unmäßige Landtschädliche fur, vnd vfkauff
+#facs_359_r3l16 nit zugelaßen, Sonders Vsere vnd benachten
+#facs_359_r3l17 sich aller Zinnigkheit, was für Ir hußbruch Er¬
+#facs_359_r3l18 achtet wirt, vnd ohne des Landts mangell und
+#facs_359_r3l19 notdurfft, zugestatten, beflijßen, vnd be¬
+#facs_359_r3l20 müyen sollen, wie vorige Vnser vrsachen
+#facs_359_r3l21 ende mögend, dan nach wirst dich by dijus Ampts
+#facs_359_r3l22 pflichtigen müßen zu behallten, Datum
+#facs_65_r1l24 Novembris 1623

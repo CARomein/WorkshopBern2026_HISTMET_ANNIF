@@ -1,0 +1,53 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 45/46
+# High similarity (>=80%): 43
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4490
+#facs_124_r1l17 daß die EheContracten dem jedeiligen Hhl.
+#facs_3_region_1629374296225_399l1 An
+#facs_124_r1l12 alle deutsche Herren Amtleut, Freyweibel
+#facs_36_r1l2 Colle
+#facs_124_r1l14 und Amman, an welche der Vertrag
+#facs_124_r1l15 von Ao 1753. zwischen Bern und Dolothurn
+#facs_124_r1l16 errichtet, communiciert worden.
+#facs_124_r1l17 daß die EheContracten dem jedeiligen Hhl.
+#facs_124_r1l18 Inspectoren über das Kucheggberg, zur
+#facs_124_r1l19 Erdaurung und Underschrift vorgewiesen
+#facs_44_r4l6 werden
+#facs_120_r4l9 Schultheis und Rath
+#facs_124_r1l22 Aus gehabtem Anlaß ist uns die Anzeige
+#facs_124_r1l23 geschehen, daß von seiten Unserer
+#facs_124_r1l24 Angehörigen, in Verschreibungen der Ehe
+#facs_124_r1l25 Contracten zwischen Vernerischen und
+#facs_124_r1l27 solothurnischen Angehörigen, dem disorts
+#facs_125_r3l1 345
+#facs_124_r2l2 zwischen beyden loblichen Ständen in Ao 1753.
+#facs_124_r2l3 aufgerichteten Verglich nicht nachgelebt;
+#facs_16_region_1629823786746_292l2 werde.
+#facs_124_r2l5 Wann nun Uns, zum besten
+#facs_124_r2l6 Unserer Angehörigen, daran gelegen
+#facs_124_r2l7 daß, so wie überhaupt, also auch ins besonders
+#facs_124_r2l8 der Verschreibung der EheContracten halb¬
+#facs_124_r2l9 ermeltem Verglich durchaus nachgelebt
+#facs_124_r2l10 werde; so befehlen Wir Eich, in Erneue¬
+#facs_124_r2l11 rung Unsers Mandats vom 29. Juny 1753
+#facs_124_r2l12 und mit Zusendung einer Abschrifft des
+#facs_124_r2l13 berührenden Artl., die erforderliche
+#facs_124_r2l14 anstalt vorzukehren, daß dem Inhalt
+#facs_124_r2l15 deßelben von seiten Eüerer Amts¬
+#facs_124_r2l16 angehörigen, die es berühren mag,
+#facs_124_r2l17 getreulich nachgelebt-Zumalen zu dem
+#facs_124_r2l18 ens die vorbommenden EheContracten, in
+#facs_124_r2l19 folg Unsers KefelchSchreibens vom 3ten
+#facs_124_r2l20 Herbstmonat 1744. Unserm geliebten
+#facs_124_r2l21 Mitrath Herrn Inspectoren über das
+#facs_124_r2l22 Rucheggberg, zur Erdaurung und Under¬
+#facs_124_r2l23 Wie zuthun
+#facs_124_r2l25 schrift, vorgeloiesen werden.
+#facs_124_r2l26 und solches behörigen Orts in denen
+#facs_51_r2l50 Schloßbücheren einschreiben zu
+#facs_124_r2l28 wißen werdet. Dat. d. 14.ten Febr. 1780.
+#facs_178_r8l1 en

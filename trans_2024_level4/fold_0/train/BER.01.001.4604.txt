@@ -1,0 +1,57 @@
+Law nr: BER.01.001.4604
+Name: Betreffend den Schleichhandel und Fürkauf mit Anken.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 45/45
+# High similarity (>=80%): 45
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_339_r3l15 Schreiben
+#facs_339_r3l16 an die sämtlichen Freyleibel des¬
+#facs_271_r3l14 Landgrichts Seftigen. Ihnen den
+#facs_339_r3l18 betreffend den Schleichhandel und
+#facs_339_r3l19 fürkauf mit Anken
+#facs_36_r3l7 Schultheiß und Rath
+#facs_339_r3l21 von den Säumeren von Wattenbyl,
+#facs_339_r3l22 und Blumenstein die alle Wochen
+#facs_339_r3l23 Anken, und andere Lebens Mittel
+#facs_53_r11l9 163
+#facs_339_r4l2 zum Verkauf in die Hauptstadt
+#facs_339_r4l3 führen, ist uns klagend angezeigt
+#facs_339_r4l4 worden: daß in deinem Rezirk
+#facs_339_r4l5 Schleichhändlere und Fürkäuflere
+#facs_339_r4l6 sich vorfinden, die den Anken auf¬
+#facs_339_r4l7 kaufen, und solchen weiters verhandlen
+#facs_339_r4l8 Da uns nun daran gelegen ist,
+#facs_339_r4l9 laß Unsere Hauptstadt genugsam
+#facs_339_r4l10 mit Anken verstehen werde; als
+#facs_339_r4l11 tragen Wir Dir auf, behörigen Orts
+#facs_339_r4l12 bekant machen zu laßen, daß Ibar
+#facs_339_r4l13 jedermann wie bis hiehin erlaubt, und
+#facs_339_r4l14 zugelaßen seye, in deinem Bezirk
+#facs_339_r4l15 Anken für seinen selbst eigenen Haus¬
+#facs_339_r4l16 brauch zu erhandlen, und anzukaufen,
+#facs_339_r4l17 daß aber äußert diesen Räumeren
+#facs_339_r4l18 und patentierten Aufenträgeren
+#facs_339_r4l19 jederman verboten seye, Anken an
+#facs_339_r4l20 den Wiederverkauf zu erhandlen
+#facs_339_r4l21 oder damit Gewerb zu treiben
+#facs_339_r4l22 zumahlen die Fehlbahren zu den
+#facs_339_r4l23 Confiscation des Anbens, und noch
+#facs_339_r4l24 über das aus zu einer Ruß von
+#facs_339_r4l25 20. Pfunden per Centner, ohne Nachlaß
+#facs_37_r1l1 66
+#facs_340_r2l1 sollen verhält werden, von welcher
+#facs_340_r2l2 Confiscation und Fuß dann dem
+#facs_340_r2l3 verleiden nebst Geheimhaltung
+#facs_340_r2l4 seines Nahmens der halbe Theil
+#facs_340_r2l5 gebühren und zukomen soll; zu¬
+#facs_340_r2l6 gleich wirst du auf die Execution
+#facs_340_r2l7 dieser Ordnung wachen und die¬
+#facs_340_r2l8 selbe behörigen Orts einschreiben
+#facs_340_r2l9 publicieren und verlesten lassen.
+#facs_340_r2l10 Dat. den 28. April 1787.

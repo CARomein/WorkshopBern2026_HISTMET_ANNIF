@@ -1,0 +1,117 @@
+Law ID: BER.01.001.4126
+Name: Wegen ihre Competenz übersteigende Gebäuen und Reparationen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 106/106
+# High similarity (>=50%): 94
+# Low similarity (<50%): 12
+# Not found: 0
+#
+#facs_35_r3l1 Quiter
+#facs_35_r3l2 Coll
+#facs_35_r3l3 in1
+#facs_35_r3l4 Brandis
+#facs_35_r3l5 Thorbero
+#facs_35_r3l6 rachstelbald
+#facs_35_r3l7 Burgdorf
+#facs_35_r3l8 Hodtstadt
+#facs_35_r3l9 Briemis Bern
+#facs_35_r3l10 Landshuth
+#facs_35_r3l11 Coll
+#facs_35_r4l1 61
+#facs_35_r4l2 Sollen hinführe der
+#facs_35_r4l3 baren Ao. 1714. zum Vorrat
+#facs_35_r4l4 du
+#facs_35_r4l5 Vorrath habe
+#facs_35_r4l6 angelegt.
+#facs_35_r4l7 dickel¬ Haber
+#facs_35_r4l8 Poggen
+#facs_35_r4l9 Dinckel, Haber
+#facs_35_r4l10 Roggen.
+#facs_35_r4l11 210
+#facs_35_r4l12 1608
+#facs_35_r4l13 150
+#facs_35_r4l14 1608
+#facs_35_r4l15 25
+#facs_35_r4l16 75
+#facs_35_r4l17 4049
+#facs_35_r4l18 295.
+#facs_35_r4l19 210
+#facs_35_r4l20 4099
+#facs_35_r4l21 195
+#facs_35_r4l22 30.
+#facs_35_r4l23 soe
+#facs_35_r4l24 30.
+#facs_35_r4l25 „ 562“
+#facs_35_r4l26 22
+#facs_35_r4l27 375
+#facs_35_r4l28 2720
+#facs_35_r4l29 204
+#facs_35_r4l30 182. „ 2803 „ 300
+#facs_35_r4l31 375
+#facs_35_r4l32 1822
+#facs_35_r4l33 50 1747 375
+#facs_35_r4l34 1775
+#facs_35_r4l35 160„4533„
+#facs_35_r4l36 410 " 4 i 775 "
+#facs_35_r4l37 50
+#facs_35_r4l38 753
+#facs_35_r4l39 50
+#facs_35_r4l40 75 653
+#facs_35_r4l41 Item
+#facs_35_r4l42 An
+#facs_35_r4l43 Alle Teütsch und beltsche Amtsleuth an die Heiligen
+#facs_35_r4l44 Schaffner der Oberbeitl. Häusern, dem Zoffinge¬
+#facs_35_r4l45 Gott Statt, Stifft allhier, Hillisbyl Schaffner, Neubenstatt Stithalman
+#facs_35_r4l46 Item an Mtsggl. wie auch hohl. die Kriegs R. Teuw. k.t. Paul. Commission
+#facs_35_r4l47 große, und Rechte als D. mietung v. Johla Cammer
+#facs_35_r4l48 Burger
+#facs_35_r4l49 1.° 2
+#facs_35_r4l50 Schultserß Rath und
+#facs_35_r4l51 wegen Ihre Competenz übersteigenden Rebaüen und
+#facs_35_r4l52 Reparationen
+#facs_35_r4l53 Er ist nicht minder dann daß durch ein sub 6ten
+#facs_35_r4l54 April 1736. aus geschribenes Mandat, Wir, aus
+#facs_35_r4l55 Anlaas der, wider die Reglement vornemenden
+#facs_35_r4l56 Bebäuben und Reparationen, und daneben
+#facs_35_r4l57 dem hohen Stand auffallenden nahmhaften ¬
+#facs_36_r2l1 Ausgaben Allen Unseren Amtleüthen
+#facs_36_r2l2 Unseren Willen dahin erösnet, daß einen
+#facs_36_r2l3 Amts Mann so dar bider fehlet, die Ansez
+#facs_36_r2l4 für sothane Gebäub und Reparationen
+#facs_36_r2l5 in der Rechnung durchgestrichen, demselb
+#facs_36_r2l6 bährend der Zeith Seiner Amts-Verbaltl.
+#facs_36_r2l7 und so lang bis Er seineschuldige Restan¬
+#facs_36_r2l8 bezahlt zu einicher Gnad beim Access gegen
+#facs_36_r2l9 berdesolle, wann aber ein Amts Mann obigen
+#facs_36_r2l10 zu folg seine Restanz bezahlt haben wir
+#facs_36_r2l11 -
+#facs_36_r2l12 Danzumahl erst er sich bey Unserem
+#facs_36_r2l13 tägl. Rath, um den Zutriff vor Uns¬
+#facs_36_r2l14 anmelden möge, und erbarten solle ob
+#facs_36_r2l15 Er durch Zbey drickel Stimmen den Acceso
+#facs_36_r2l16 vor Aus erlangen könne?
+#facs_36_r2l17 Wann aber Wir
+#facs_36_r2l18 beobachtet, daß dieser Verordnung ungeacht
+#facs_36_r2l19 jeden noch ohne Stewilligung oder über die
+#facs_36_r2l20 Competenz ausgebauet worden, als haben und
+#facs_36_r2l21 nöthig befunden, in Erfrischung und verster Coll.
+#facs_36_r2l22 Unser ehevorigen Mandaten, hiemit zu¬
+#facs_36_r2l23 verordnen, daß bann ein Amts Mann über
+#facs_36_r2l24 seine Competenz, ohnbefragte und ohnbeleb
+#facs_36_r2l25 ligte Reparationen oder Rebänd unterno
+#facs_36_r3l1 63
+#facs_36_r3l2 und in Ansehen Ansezung und Verrechnung
+#facs_36_r3l3 derselben auf obangedeütem Fuß, wider ihne
+#facs_36_r3l4 verfahren wurde es ratione des allenfahls
+#facs_36_r3l5 suchenden Begnadigung den Verstand haben
+#facs_36_r3l6 solle, daß Er selbige auch vor Uns gleich dem
+#facs_36_r3l7 -
+#facs_36_r3l8 assess vor Rath mit zbey Drittel Stimmen
+#facs_36_r3l9 -
+#facs_36_r3l10 erhalten müße, welches Euch zu Eüerein
+#facs_36_r3l11 künfftigen Verhalt, auch Einschreibung seiner
+#facs_36_r3l12 Ohrts hiemit kund gethan wird. Godt mit Eüch¬
+#facs_36_r3l13 Dath. d. 22ten Febr. 1760.

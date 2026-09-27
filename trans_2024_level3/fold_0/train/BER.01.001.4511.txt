@@ -1,0 +1,54 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 46/47
+# High similarity (>=80%): 41
+# Low similarity (<80%): 5
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4511
+#facs_271_r4l5 Für die Brunstbeschädigten Dorfschaften
+#facs_325_r12l1 2nd
+#facs_9_region_1629822406380_88l_3 Alle Teütsch und Weltsche Herren Amtleut.
+#facs_214_r5l18 4. Städt, freyleibel und Amann
+#facs_271_r4l4 deme Zedel an allhiesige Canzel.
+#facs_271_r4l5 Für die Brunstbeschädigten Dorfschaften
+#facs_271_r4l6 fahrbangen und Dürenasch, auf Heil.
+#facs_271_r4l7 Pfingsten eine freybillige Collect einzusamlen
+#facs_140_r2l24 Schultheis
+#facs_144_r2l27 zu
+#facs_271_r4l10 Erhebung einer
+#facs_271_r4l11 freywilligen Collect auf
+#facs_271_r4l12 könfftige Heil. Pfingsten, so wohl in Unserer
+#facs_271_r4l13 Haubtstadt, als unseren samtlichen
+#facs_271_r4l14 steütsch und weltschen Landen, zu gönsten
+#facs_271_r4l15 der beeden Dorfschaften Pahrwangen
+#facs_271_r4l16 und Dürrenasch, in Unserem Amt Lenzburg
+#facs_271_r4l17 gelegen, welche durch entstandene
+#facs_271_r4l18 türchterliche Feurs-Brunst einen sehr
+#facs_271_r4l19 großen Verlurst und Schaden erlichen
+#facs_271_r4l20 haben Wir mitkommende Publication
+#facs_271_r4l21 aufsezen, und zum Druk beförderen
+#facs_271_r4l22 laßen. Wir übersenden Euch
+#facs_271_r4l23 davon genugsame Exemplar, mit
+#facs_271_r4l24 dem Refehl, solche aller Orten in
+#facs_271_r4l25 Eüerein Amt, auf Sontag vor der
+#facs_271_r4l26 heil. Pfingsten zu jedermands ver¬
+#facs_186_r6l78 be
+#facs_215_r2l2 6 b
+#facs_5_region_1629374639367_453l1 6
+#facs_146_r2l9 celles-ci.
+#facs_272_r3l1 Verhalt offentlich verlesen zu laßen,
+#facs_272_r3l2 und dabey jedem Pfarrer anzubefehlen,
+#facs_272_r3l3 daß er in seiner Predig dieser
+#facs_272_r3l4 Leüthen und daß daher erlittenen
+#facs_272_r3l5 Schadens und Verlursts so gedenke
+#facs_272_r3l6 fas dardurch die Christliche Mild
+#facs_272_r3l7 schätigkeit bey ihren Zuhöreren
+#facs_272_r3l8 nachtruksamst erwekt werde, maßen
+#facs_272_r3l9 geschehen, und daß von Euch der Betrag
+#facs_272_r3l10 der eingesamleten Collect Unserer
+#facs_272_r3l11 verordneten Teütschen Sevelschreiberey
+#facs_272_r3l12 zugesandt werde, Wir uns zu
+#facs_272_r3l13 Euch bestens versehen. Godt
+#facs_272_r3l14 mit Einl. Dat. den 18ten April 1782
+#facs_178_r8l1 en

@@ -1,0 +1,146 @@
+Law ID: BER.01.001.4939
+Name: Volgender Sachen wegen, und Anstellung halb der Schulen an nothwendigen Orthen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 135/135
+# High similarity (>=80%): 124
+# Low similarity (<80%): 11
+# Not found: 0
+#
+#facs_193_r3l22 An die Rütschen Amptlich volgender
+#facs_193_r3l23 Sachen wegen, und anstellung
+#facs_193_r3l24 halb der Schulen an nothwenig
+#facs_139_r4l3 r
+#facs_193_r3l26 Demnach wir zu gemüt und hertzen gfür¬
+#facs_40_r2l24 d.
+#facs_193_r3l28 die Verlöserung aller Stenden, by dieser Letzten Zett, zu¬
+#facs_193_r3l29 sonderheit die grobe Umrußenheit und unerkhandtung
+#facs_193_r3l30 Gottes worts und der geheimniß hyner H. Sacramenten
+#facs_193_r3l31 die (leyden) diser zyn by Iren Vilen Jungen vnd Alte
+#facs_193_r3l32 befunden wirt. Also das dieselben im Handell des
+#facs_193_r3l33 glaubens (vff dem Ir feill vnd Seligkeit bestaht)
+#facs_193_r3l34 schlechtlich gegründet und Unterricht sindt, daher
+#facs_193_r3l35 an desto mehr wider Doct und zu Wort, und vnser
+#facs_193_r3l36 der Oberkeit Christenliche Besatz und Ordnungen durch
+#facs_193_r3l37 allerhandt, Sünd, Laster, mißethat und Übertrettung.
+#facs_193_r3l38 herrlich gesundiget vnd verfällt, und dardurch Gottes
+#facs_193_r3l39 gerechter zorn und Straff über uns gereitzt wirt
+#facs_193_r3l40 Habend wir die Pflicht unses Oberkeitlichen Ampt¬
+#facs_193_r3l41 zu syn erkennet, mit allein für die zynliche Wölschaft
+#facs_193_r4l1 380.
+#facs_193_r4l2 Unser von Gott anbeuol, ihrer Unterthanen, Sonnders aus¬
+#facs_193_r4l3 das heill ihrer Seelen zutrachten, derwegen nach mitlen ge¬
+#facs_193_r4l4 Dinnet, dardurch die Vnseren, bezonders die Zugendt In besserer
+#facs_193_r4l5 Hortsforscht, mehrem bericht der Erkhandtnuß synes H. Worts¬
+#facs_193_r4l6 und der geheimnuß der K. Sacramenten, vnd durchuß jeden
+#facs_193_r4l7 glaubenshalben vfferzogen, angefürtend und errichtet
+#facs_193_r4l8 werden mögende, karzu dan wir dhein bequemer mittel
+#facs_193_r4l9 noch befürderung befinden können, dan das an Orthen da
+#facs_193_r4l10 große Gmeinden findt, zu Lehr und Underwysung der
+#facs_193_r4l11 Jugende Schulmer angestellt vnd erhalten werdindt,
+#facs_193_r4l12 und vff solch end hin an ihren Verordneten die von uns
+#facs_193_r4l13 Jüngstuerschinnen Jars vff die General Capitel abgesendet
+#facs_193_r4l14 worden, In beuelich vfferlegt, den Furgesetztes Im Deistlichen
+#facs_193_r4l15 und Weltlichen Stand, sollichen Vnseren willen und vorhaben
+#facs_193_r4l16 zueröffnen, und durch Ir unwel die Verordnung thun, das
+#facs_193_r4l17 an Orthen da es ernorderlich, tugenliche und behörmieten,
+#facs_193_r4l18 Schul: und Lehrnier Verordnet, und von Jeder Hinein, es
+#facs_193_r4l19 ye es gmeiner Schur oder dem Fürschutz des Kilehengus
+#facs_193_r4l20 wo arme Inwunden werend) erhalten werdindt, welchen
+#facs_193_r4l21 Verordnung und anstellung zu jedem Amst wir bericht ieder
+#facs_193_r4l22 sollen (als mehrentheils Orthen besprechen) darzu die verüere
+#facs_193_r4l23 gebür und nodtnefft zu verschaffen, und damit die Schul¬
+#facs_193_r4l24 und Lehrmer theils desto daß vp dem Inkamer des Köchenguts
+#facs_193_r4l25 wo vß mangel anderer müelen man darzu geyffen müßte.
+#facs_193_r4l26 erhalten werden mogindt, habend wir angesehen vnd
+#facs_193_r4l27 bewlehen, das das Kilehengut nützlicher Verwaltet und ange¬
+#facs_193_r4l28 wandt werde, dan bißhar Villicht bescherhen, die mißleüch¬
+#facs_193_r4l29 vnd vberflüßige Vorzehrung desselben vffgehebt vnd erspart
+#facs_193_r4l30 die Rechnungen deßelben nach Jedes Ampts und Drehs glegenht
+#facs_193_r4l31 In lydenlicher anzaal der Fürgesetzten vom Geistlichen
+#facs_193_r4l32 weltlichen Stand, und mit mit solchen, zulauff vnd vberfluß
+#facs_193_r4l33 der persohnen, als bißhar beschechen, von den Pflegern oder
+#facs_193_r4l34 verwalteren ernorderet, vnd erschären, wie dieselben
+#facs_307_r4l13 darmit umbgangendt, und wohin das getreidt verkaufft, ob
+#facs_193_r4l36 vberflüßig vnd Vnnodtwendig vßgeben sich beschinne, daßelbigen
+#facs_193_r4l37 abgestellt werde, wie auch die Verehrungen so man an
+#facs_193_r4l38 erlichen Orthen gewont gün den Amptlüchen oder Pflegeren
+#facs_193_r4l39 Eß demselben Kirchengur zuthun, als auch vnser will und
+#facs_193_r4l40 verstand ist, den Kildhengut an annderen Orthen da man es
+#facs_193_r4l41 glichwol mit zum Theil darzu bruehen müßte, wol ver¬
+#facs_193_r4l42 waltet werden solle.
+#facs_193_r4l43 annethin habend wir auch angefechen vnd bewelchen, damit
+#facs_193_r4l44 die Frucht und Auszbarkeit der angestellten Schulen, und der
+#facs_193_r4l45 Jugendt gefaste lehr und Erkhandtnuß des Worts Gottes
+#facs_193_r4l46 desto mehr gehöret und die Persohnen so sich anfangs zu
+#facs_194_r1l1 381
+#facs_194_r2l1 Dem Risch des Herren Verfügen wollend, Ires glaubens
+#facs_194_r2l2 desto bessere Rechnung geben, und die heiligen Sacrament
+#facs_194_r2l3 würdiglich bruchen kommndt, haben & wir angesuche,
+#facs_194_r2l4 und beurlehren, das vnsere Kilehendiener vnd Jeder
+#facs_194_r2l5 derselben In yuer Einem so wol die Jugendt, welche
+#facs_194_r2l6 In den angestellten Schüler Unterricht werden sollen, als
+#facs_194_r2l7 auch anndere persohnen die Therens und Vnderrichtene
+#facs_194_r2l8 In dem Handell Jochs Heills manglen möchten, zu gewüßen
+#facs_194_r2l9 byr vor haltung des H. Nachtmals, In der Kirchen oder
+#facs_194_r2l10 Gefrundhuß, In by die zweyer Chorrichteren oder minderer
+#facs_194_r2l11 Erbaren tugentlicher persohnen Vernemen, deshalb als
+#facs_194_r2l12 auch des B. Touffs nach nodhurscht vernemmen, Inderweisen
+#facs_194_r2l13 und berichten Föllenst, wie auch die Jungen Ehluch f
+#facs_194_r2l14 Endewichts bedörffendt, was der Ehestandsge, damit
+#facs_194_r2l15 er ein anderen die Thrüw vnd pflicht leistend, so E nach
+#facs_194_r2l16 Gottes wort schuldig sindt, Vff das desto minder Vntritt,
+#facs_194_r2l17 Übertreitungen und Zertrennungen sich In dieren
+#facs_194_r2l18 Stand zutragindt
+#facs_194_r2l19 Ob wol nun wir die Hoffnung vnd Zuuersicht zu vnseren
+#facs_194_r2l20 Klehendiueren, Ober- vnd vnder Amptlichen, auch
+#facs_194_r2l21 Vnseren vnderthanen habend, das Er von der Ehren Gottes,
+#facs_194_r2l22 erbuwung syner Kilchen, und Irer Kinderen Vnder¬
+#facs_194_r2l23 wysung wegen In dem Wort Gottes, zu Irem heill vnd
+#facs_194_r2l24 Wolthart, solchem Unserem guthertzigen getruwen
+#facs_194_r2l25 Vätterlichen Ansechen und Ordnung, es geäußderreich¬
+#facs_194_r2l26 tung halb der Zugendt der H. Sacramenten und puncten
+#facs_194_r2l27 des glaubens, und des Ehstandthall, als auch mit anstel¬
+#facs_194_r2l28 lung der Schulen an nochwendigen Orthen, volgendstatt
+#facs_194_r2l29 gethan haben werdindt, Jedoch so es an dem mit gnug
+#facs_194_r2l30 das man wol angefangen, wan man nia fortschrytet
+#facs_194_r2l31 und beharret, Als habend wir vnsere Kilchendiener
+#facs_194_r2l32 Ober- und VnderAmptluth, auch vnderthanen gemeinlich
+#facs_194_r2l33 und Sonnderlich hiemit freyendtlich durch Erkündung ab¬
+#facs_194_r2l34 den Cantzlen, disers unsers Christenlichen, Gott wol¬
+#facs_194_r2l35 geuelligen, zu vnser vnd der vnseren zyplichen vnd
+#facs_194_r2l36 erwigen wolfhart dienenden vorhabens, und ange¬
+#facs_194_r2l37 Ziehnen heilsamen, Fruchtbaren, nützlichen Wercks
+#facs_194_r2l38 erinneren, und unsere Kilshendiener Vermanen wollen,
+#facs_194_r2l39 das y angedütte Inen anbevölchne Unverwysung gege¬
+#facs_194_r2l40 den vnseren wie obstahl, mitt allem yffer und ernst
+#facs_194_r2l41 In gutten Thäuwen verrichten höllendt. Demnach auch
+#facs_184_r3l52 unsere Underthanen alles ernsts zu vernommen und Warne,
+#facs_194_r2l43 zu anderricht Irer zugendt, derenhalb es die größe¬
+#facs_194_r2l44 flicht habend, nodtwendige Verordnung durch Ir Strie¬
+#facs_194_r2l45 Und einzel, zu erhaltung ingenlicher reformirten Lehr-
+#facs_194_r2l46 vnd Schulmers, thun und zarreichen sollendt, und die
+#facs_269_r4l26 einen und ann deren manglen vnd fälen wirt, vnsers vernerei¬
+#facs_194_r3l1 Schulage pflicht leisten vnd erstatten, das es zu der Ehe Gottes
+#facs_194_r3l2 und Unserens Vermögen gereichen möge, vff Welliche Execuor
+#facs_194_r3l3 und erstattung wir unseren OberAmptlichen ernstlich beurliche
+#facs_194_r3l4 haben wollendt, nur allein flyß vnd ernst zu achten endstöckl.
+#facs_194_r3l5 hand obzuhalten, das dem allem von den eines und mindere
+#facs_194_r3l6 mit allem ein Jahr, Sonnders auch volgende Jahr gehorsamtig
+#facs_194_r3l7 nachgelebt, und die Jharlößigen vnd ungehorsamen In fol¬
+#facs_194_r3l8 tung der Capieelen und sont wann es zubeschulden kombt
+#facs_194_r3l9 aus nach verdienen zestraffen angeben werdindt, als
+#facs_194_r3l10 wir gleiches den Decanen jedes Capitels zugeschrieben, ein
+#facs_194_r3l11 und versechen wollend das dieselben vnd vnsere Amptlich
+#facs_194_r3l12 schiff hierob werdindt halten
+#facs_40_r2l24 d.
+#facs_194_r3l14 Zu übrigen, wyl nach tuerschinnen Jars, die General Capistel
+#facs_194_r3l15 gehalten worden, sachten wir diß Jars mit einerderlichen
+#facs_194_r3l16 dieselben widerumb anzestellen, Sonnders das allein die
+#facs_194_r3l17 besonnderbaren Capitel, wie hievor gebracht worden, durch
+#facs_194_r3l18 die Decanus vnd dich angestellt, vnd nach gewontem Bruch
+#facs_194_r3l19 und allem yffer, flyß vndernst verrichlet, die Verhandlungen
+#facs_194_r3l20 In Scheifft genaßet, und Uns Überschickt werden sollendt.
+#facs_97_r2l24 Datum 12

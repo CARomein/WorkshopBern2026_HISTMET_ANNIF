@@ -1,0 +1,42 @@
+Law nr: BER.01.001.0385
+Name: Getreyd zu verkauffen anbefohlen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 31/31
+# High similarity (>=80%): 26
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_5_region_1629374639367_453l1 6
+#facs_5_region_1629374656917_459l1 An Arberg, Erlach
+#facs_5_region_1629374656917_459l2 und Rydau allein
+#facs_5_region_1629374656917_459l3 Ruchsen allein
+#facs_38_r2l25 wie auch,
+#facs_5_region_1629374656917_459l5 zung des auf Enriens
+#facs_5_region_1629374656917_459l6 lenden Obrigkeit
+#facs_5_region_1629374656917_459l7 Getreid vorrahten
+#facs_261_r5l11 deßen
+#facs_5_region_1629374656917_459l9 Contingent auf den
+#facs_5_region_1629374656917_459l10 noch restierenden
+#facs_5_region_1629374656917_459l11 betragen mag.
+#facs_5_region_1629374668377_462l1 nicht das wenigste Verkaufft, und von dem
+#facs_5_region_1629374668377_462l2 Gottstatt, St. Johannsen Roggen und Kernen, nur die Helffte abgestoßen
+#facs_5_region_1629374668377_462l3 das Mishelörundphingegen dann das Mischel korn und sämtliche
+#facs_5_region_1629374668377_462l4 Sommer Früchte, welche (nach Abzug der Ordinarii)
+#facs_5_region_1629374668377_462l5 An Burgdorff und Quasi=Ordinari=Ausgaben, von sothanem
+#facs_122_r5l14 Obrigkeitlichen Betreid vorschießen werden
+#facs_5_region_1629374668377_462l7 Amt noch ermang vom 1ten künfftigen Merzen an, gänzlich
+#facs_5_region_1629374668377_462l8 Versilberet werden sollen; alles jedennoch in den
+#facs_5_region_1629374668377_462l9 an Roggen und Verstand, daß in ansehen dieser Verkaufen
+#facs_5_region_1629374668377_462l10 den Früchten, die gewöhnlichen Praecactionen
+#facs_5_region_1629374668377_462l11 genommen, mithin das Verkaufende nur zu
+#facs_5_region_1629374668377_462l12 kleinen Kaufen verkaufft, und dabey vor
+#facs_222_r3l13 allein aus das mindest behaltliche
+#facs_5_region_1629374668377_462l14 Abgestoßen, in Specie dann die Sommerfrücht
+#facs_5_region_1629374668377_462l15 vorzüglich zu anblühmung der Felderen hinge¬
+#facs_5_region_1629374668377_462l16 werden sollen, wann die Sommer Saat in Eüerni
+#facs_5_region_1629374668377_462l17 Saamen darzu in demselben angekaufft wird, an Oron allin
+#facs_5_region_1629374668377_462l18 vollkommen wird besorget seyn; Welchem
+#facs_5_region_1629374668377_462l19 werdet. Dat. den 13ten february 1777.

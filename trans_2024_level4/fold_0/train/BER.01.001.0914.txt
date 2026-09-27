@@ -1,0 +1,107 @@
+Law ID: BER.01.001.0914
+Name: 1. Wegen dess Getreidtufkouffs [...] 2. Verpott der nüwen Urner Dublonen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 96/96
+# High similarity (>=50%): 92
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_35_r2l10 An alle T. vnnd W. Ambtlüt¬
+#facs_35_r2l11 4. Stett, Fryw. vnnd Amman. 1. wegen
+#facs_35_r2l12 deß Getreidts Ekouffs erfrischung
+#facs_35_r2l13 vorigen Mandats. 2. noch
+#facs_35_r2l14 der einigen Vreer Dublinen.
+#facs_35_r2l15 Statthalters u.
+#facs_35_r2l16 Diewyl wir nit allein vspürend, daß vßere
+#facs_35_r2l17 vnnd benachbarte, von daß nun ein gereine Zeit hero
+#facs_35_r2l18 imporschwebenden landt vnnd Lüt- vderblichen
+#facs_35_r2l19 kriegswesens, vnnd darauß erfolgenden mangels vnd
+#facs_35_r2l20 hörung wegen, nach allen mittlen trachtend, wie sy sich
+#facs_35_r2l21 In unseren landen vnnd Gepieten vmb Getreidt
+#facs_35_r2l22 vmbsechen, daßelb vff kauffen, vnnd hinweg Er¬
+#facs_35_r2l23 schaffen mögendt, maßen wir auch vmb gestatt: vnnd
+#facs_35_r2l24 zulassung deßelben vnderschidenlich ersucht worden,
+#facs_35_r2l25 Sonders auch mitt beduren vnnd mißfallen bericht
+#facs_35_r2l26 Empfach müßend, daß ohngeacht vnsers darwider
+#facs_35_r2l27 oßgangen
+#facs_35_r3l1 34
+#facs_35_r3l2 des
+#facs_35_r3l3 Vßgangnen Mandats In vnseren Landen hin vnd wider
+#facs_35_r3l4 das Korn vnnd Getreidt mit schwgal vff gekaufft, pauffge¬
+#facs_35_r3l5 halten paßiert, vnndt fortgelaßen, unnd nit so sehr vnsere
+#facs_35_r3l6 freunden, als aber vnseren feinden zugeschaffet werden, dardurch
+#facs_35_r3l7 im anders mit erfolgen kan, dan ein vmb sich freßende
+#facs_35_r3l8 thüre, vnnd daß der gmeine man, so jetz syn Getreide
+#facs_35_r3l9 Vmb wol feilen priß von handen laßt, hernach daselb zu¬
+#facs_35_r3l10 einer nahrung In thürem wärdt widerumb ekauffen muß.
+#facs_35_r3l11 sölichem nun vß schuldiger Oberkeitlicher pflicht, sonderlich by
+#facs_35_r3l12 gegenwürtige Kriegs: vnnd hiemitt auch thürung antrönwenden
+#facs_35_r3l13 Seit zu begegnen, Alß habend wir kein vmbgang nemen wöllen,
+#facs_35_r3l14 alle vnsere Amptlut, vnnd hiemitt auch dich deßen geer¬
+#facs_35_r3l15 wahrnen vnd In erfruschung vnsers Jüngst vß gangnen,
+#facs_35_r3l16 Insechens von einem gecpieten, daß Jemandts der vnseren
+#facs_35_r3l17 weder Tags noch nachts, weder heim: noch offentlich weder
+#facs_35_r3l18 heimbschen benachbart, noch vil weniger frömbden vff: vnnd
+#facs_35_r3l19 Erköufferen einich Getreidt by den Küseren Vsprechen
+#facs_35_r3l20 oder Ckauffen, sondern daßelb vff offne gewonliche
+#facs_35_r3l21 Wuchenmärit In vnseren Landen, vnnd sonst nienen andrist
+#facs_35_r3l22 pohin führen vnnd gekauffen: deßglyck daß einigen
+#facs_35_r3l23 kombden, vnnd vßeren noch auch benachbarl. oder Irer
+#facs_35_r3l24 bestelten, ohne vnsere sonderbare bewilligung, einrich Getreidt,
+#facs_35_r3l25 weder heim, noch offentlich, weder vff den Märcken noch eil
+#facs_35_r3l26 weniger by den Küseren, vffgekauffen vnnd vßern Land¬
+#facs_35_r3l27 derfertigen gestachet noch zugelaßen werden solle,
+#facs_35_r3l28 vnder was praetext vnnd schyn das Joch sijn möge, Jedoch
+#facs_35_r3l29 Vnseren benachbarten, vnnd puncts Vrwandten, wie von alter
+#facs_35_r3l30 her der frye kouff für Iren Fußbruch allein vnnd mit
+#facs_35_r3l31 wyters Erf verspehrt, so sehr daß sij Jedesmals
+#facs_36_r1l1 Tijdouw
+#facs_36_r1l2 entiern
+#facs_36_r1l3 r
+#facs_36_r1l4 Arouw
+#facs_36_r1l5 Lentzburg.
+#facs_36_r1l6 praefecto, allein
+#facs_36_r2l1 gebürende Attestationen, vnnd Schyn von Iren
+#facs_36_r2l2 Oberkeiten vffzulegen habindt. Was nun für
+#facs_36_r2l3 Getreidt wider den Inhalt diser Ordnung ge¬
+#facs_36_r2l4 Raufft oder an gelt darust erlößt wurde, das sol
+#facs_36_r2l5 hne alles fälen noch geschonen Confiscations¬
+#facs_36_r2l6 wyß, so offt es zu beschulden kombt, zu vnseren
+#facs_36_r2l7 handen bezog werden.
+#facs_36_r2l8 Vns diewyl vns furkombt, daß etzliche schiffeten
+#facs_36_r2l9 Getreidt, in vnserem Weltich fand ohne vnser
+#facs_36_r2l10 sonderbare bewilligung, vf kaufft, zu Nydouw vnd
+#facs_36_r2l11 volgets dahar auch an anderen Orten vnnd päßen
+#facs_36_r2l12 pauffgehalten durchpaßiert, vnnd vff Klingerum
+#facs_36_r2l13 zugeführt worden, Beuelchend wir dir, daß vff
+#facs_36_r2l14 dergleich fehl geachtet, und solche schiffeten, die
+#facs_36_r2l15 mit keinen paß Zeulen von vnseren Weltschen
+#facs_36_r2l16 Ambtluten zu sehen, Ins künfftig zwörten,
+#facs_36_r2l17 gestelt, vnnd nach befindendem und Dacht und über¬
+#facs_36_r2l18 trettung vnsers Mandats mit durchgelaßen
+#facs_36_r2l19 Sind drit
+#facs_36_r2l20 und wan wir gleichwol dem ein oder anderen
+#facs_36_r2l21 Ortt ein an zal früchten extraordinarie zu erkauffen,
+#facs_36_r2l22 bewilligen wurden, wie dann sonderlich gegen
+#facs_36_r2l23 unseren E. von Zürich beschechen, Jedoch sölliche
+#facs_36_r2l24 Erstellung gethan werde, daß alle bescheidenheit
+#facs_36_r2l25 vnd die Inen genamsete vnnd terminierte anzal¬
+#facs_36_r2l26 stricte observirt vnnd nit überschritten werden.
+#facs_36_r4l1 35
+#facs_36_r4l2 Vnnd alß dann ein muge gattung Vnser dublonen
+#facs_36_r4l3 etstanden, vnnd Ins Land geschleickt, auch albereit an
+#facs_36_r4l4 ettlichen Orten vnser Landtschafft durch frembde Handels¬
+#facs_36_r4l5 persohnen vßgeben worden, für Spannisch Dublinen, denen
+#facs_36_r4l6 aber nit furder gleichen, vnnd bil geringeren holts, darmitt
+#facs_36_r4l7 nun die vnseren nit dargesetzt vnnd betrog werdint,
+#facs_36_r4l8 Alß haben wir dieselben gentzlich gerufft, vnnd wollen
+#facs_36_r4l9 daß söliche zu vri geprägete dublonen, weder abgenomen
+#facs_36_r4l10 hoch vß geben werden sollmt. Vnnd damitt nun ob disen
+#facs_36_r4l11 allem gehalten wde, ist vnser ernstige beuelch an dich, die
+#facs_36_r4l12 Execution nit allein durch offne publicaon. Sonder auch
+#facs_36_r4l13 anstellende nochwendige vffsicht alles yffers vnnd feyßes
+#facs_36_r4l14 zur schaffen. Dann das ist vnser will. Datum 16.
+#facs_36_r4l15 Septembris 1634.

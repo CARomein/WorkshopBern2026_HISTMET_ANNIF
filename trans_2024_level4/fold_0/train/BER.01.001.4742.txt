@@ -1,0 +1,87 @@
+Law ID: BER.01.001.4742
+Name: Verordnung zu Hemmung der Getreid Ausfuhr [...]
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 76/76
+# High similarity (>=50%): 74
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_254_r4l1 501.
+#facs_254_r4l2 Verordnung
+#facs_254_r4l3 zu Hemmung der Getreid Ausfuhr aus denen
+#facs_254_r4l4 GrenzAemtern, Nydau, Erlach u. St. Johansen
+#facs_254_r4l5 An die Herren Amtleute zu Nydau, Erlach,
+#facs_254_r4l6 und St. Johansen.
+#facs_254_r4l7 Schultheis und Rath u
+#facs_254_r4l8 Da wegen fortdaurendem Hohen Preis des
+#facs_254_r4l9 Getreides Wir Uns genöthiget sehen, der
+#facs_254_r4l10 Ausfuhr desselben noch mehrere Schranken zu
+#facs_254_r4l11 setzen; so haben Wir angebogene Verordnung
+#facs_254_r4l12 Euch zusenden, und zugleich befehlen wollen, selbige
+#facs_254_r4l13 zu Jedermanns Verhalt von Canzlen publicieren
+#facs_254_r4l14 und an den gewohnten Orten anschlagen zu laßen
+#facs_254_r4l15 Ihr werdet demnach die zu Execution der
+#facs_254_r4l16 selben benöthigten Aufseher bestellen, selbige
+#facs_254_r4l17 in Eydespflicht aufnehmen, und ihnen die benöthigte
+#facs_254_r4l18 Instruction ertheilen.
+#facs_254_r4l19 Da die Hemmung der Getreid Ausfuhr in
+#facs_254_r4l20 den gegenwärtigen Zeiten für das Vaterland
+#facs_254_r4l21 sehr wichtig ist; so zweifeln Wir keineswegs
+#facs_254_r4l22 Ihr werdet die Euch zusendenden Verzeichnisse
+#facs_254_r4l23 der bestellten Aufseheren mit unverdrossenem
+#facs_254_r4l24 nander Controllieren, und in
+#facs_254_r4l25 = allem
+#facs_254_r4l26 Fleiß geg.
+#facs_254_r6l1 fühle
+#facs_254_r6l2 7
+#facs_255_r2l1 = allem mit "bem, was zu Erzielung
+#facs_255_r2l2 Unserer heilsamen Absichten gereichen
+#facs_255_r2l3 mag.
+#facs_255_r2l4 Wir wollen Eng zu dem Endzwek auch
+#facs_255_r2l5 auftragen, die samtlichen Vorgesetzten
+#facs_255_r2l6 nach und nach, ohne großes Aufsehen zu
+#facs_255_r2l7 erweken, vor Eüch zu bescheiden, und den
+#facs_255_r2l8 selben dringend zu Gemüth führen, wie
+#facs_255_r2l9 viel dem Vaterland daran gelegen seye,
+#facs_255_r2l10 die Ausfuhr des Getreides zu behindern,
+#facs_255_r2l11 und zu dem End selbige kräftig ermahnen,
+#facs_255_r2l12 das auch sie als Vaterlandsliebende Männer
+#facs_255_r2l13 das ihrige beytragen, die Ausfuhr des Ger¬
+#facs_255_r2l14 treides zu behindern, die Execution dieser
+#facs_255_r2l15 Verordnung zu bewirken, und alle Wider
+#facs_255_r2l16 handelnden in Folge ihrer geschwornen
+#facs_255_r2l17 Eyden Euch anzuzeigen, zu dem End dann
+#facs_255_r2l18 auch dieselben in ein besonderes Gelübt
+#facs_255_r2l19 an Eydesstall aufzunehmen.
+#facs_255_r2l20 Da alle Vermuthung vorhanden, daß
+#facs_255_r2l21 von Seite der Mülleren zu Twann, Ligaz
+#facs_255_r2l22 und Lüscherz viel Getreis und Mehl aus¬
+#facs_255_r2l23 geführt wird, so werdet Ihr geheime
+#facs_255_r2l24 aufseher bestellen, welche auf diese
+#facs_255_r2l25 = Müller
+#facs_255_r3l1 ob id:
+#facs_255_r3l2 Coll
+#facs_255_r4l1 ir 503
+#facs_255_r4l2 Müller, besonders bey Nacht die genauste
+#facs_255_r4l3 Aufsicht halten, und die Widerhandlenden an¬
+#facs_255_r4l4 zeigen.
+#facs_255_r4l5 Solltet Ihr nöthig finden, annoch an mehreren
+#facs_255_r4l6 Orten Eüeres Amts geheime Aufseher zu
+#facs_255_r4l7 bestellen, so werdet Ihr solches Unserer
+#facs_255_r4l8 verordneten Kornkammer anzeigen; damit
+#facs_255_r4l9 aber nicht allzugroße Unkosten dem Aerario
+#facs_255_r4l10 auffallen, werdet Ihr auch mit derselben
+#facs_255_r4l11 über die Bezahlung aller geheimen und andere
+#facs_255_r4l12 würklich anbefohlenen sowohl als in Zukunft
+#facs_255_r4l13 noch anzuordnenden Aufsehern correspondiren¬
+#facs_255_r4l14 /: an Erlach ist noch beygefügt
+#facs_255_r4l15 Endlich tragen Wir Euch noch auf, diese Ver¬
+#facs_255_r4l16 ordnung dem Magistrat zu Neuenstatt
+#facs_255_r4l17 freundnachbarlich zu communicieren, damit
+#facs_255_r4l18 selbiger die Magistratsperson zu Unter¬
+#facs_255_r4l19 möge.
+#facs_255_r4l20 Zeichnung der Scheine von
+#facs_255_r4l21 Datum den 11ten December 1793.

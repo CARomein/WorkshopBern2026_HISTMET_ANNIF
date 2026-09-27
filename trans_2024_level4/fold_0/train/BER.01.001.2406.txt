@@ -1,0 +1,103 @@
+Law ID: BER.01.001.2406
+Name: Veräusserung des Getreits verpieten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 92/92
+# High similarity (>=50%): 92
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_446_r2l18 Den der rechnung
+#facs_446_r2l19 An alle Teütsche und Weltsche
+#facs_446_r2l20 Umbbleuth 4. Statt, Freyweibel, vnd Anna,
+#facs_446_r2l21 Veräußerung des Getreits Verpieten
+#facs_446_r2l22 Schs. undt Raht undt Bürger
+#facs_446_r2l23 Bty dißmahligen Zeiten da baldt aller ohrten in seiner
+#facs_446_r2l24 Außert Landts ein großer Mangel an Getreidt
+#facs_446_r3l1 Verspürt wirt, Undt da nicht ein erforderliches einsehe,
+#facs_446_r3l2 beschehen, eine merckliche Rehlorung zu besorgen were, habend
+#facs_446_r3l3 wir gleich anderen benachbahrten Eydtgnößischen ohrten Vns
+#facs_446_r3l4 benöhtiget befunden Vnsere hievorige Verpott, [die Wir
+#facs_446_r3l5 Vider die Veräußerung des Getreids zum öfferen außgehen
+#facs_446_r3l6 Laßen zuerfrischen und hiemit zu verordnen, daß manigklichen
+#facs_446_r3l7 bürgeren, Ein wohneren Undt Unterthanen Vnserer Landen, und
+#facs_446_r3l8 en specie allen Unseren Ambtleuthen aller Fürkauff
+#facs_446_r3l9 Dardurch das Gebächs Vertheülert werden kan, hiemit
+#facs_446_r3l10 gäntzlichen abgestreket, Vndt darzu Ernstmeinend Verpotten
+#facs_446_r3l11 sein solle, einich getreidt an Ohrt äußert Unserer Bottmäßig
+#facs_446_r3l12 keit weder zu verkauffen noch dahin abzuführen oder
+#facs_446_r3l13 abführen zelaßen, mit denen Eydtgnosischen vnd denen Unter=
+#facs_446_r3l14 thanen aber mit denen Wir verbündet sind. Wollen wie den
+#facs_446_r3l15 getreitkauff auff den öffnen Markten so lang die noht
+#facs_446_r3l16 nichts anders erheüschet, zwahr gestatten, Über anderß
+#facs_446_r3l17 ut als in bescheidenheit, Vndt auff vorweisenden gnug¬
+#facs_446_r3l18 sammen schein von Ihrer Oberkeit, daß kein für kauff
+#facs_446_r3l19 darbey vnderlauffe, sonder was Jeder einkaufft für sinnen
+#facs_446_r3l20 selbs Haußbrauch seye: sonderlich aber wollen wie die
+#facs_446_r3l21 so genanten Hodler oder Kornhändler dahin eingezihet
+#facs_446_r3l22 haben, daß ihnen die Veräußerung des Getreits
+#facs_446_r3l23 Außert Vnser pottmäßigkeit vndt der Getreid kauff
+#facs_446_r3l24 bey den Häusern gar interdicirt, undt Sie hingegen dahin
+#facs_446_r3l25 gewiesen sein sollend, auff den öffentlichen Korn Markte
+#facs_446_r3l26 Vndt zwahr Erst nach der Stund die Jeden Ohrts der
+#facs_446_r3l27 Hodlern halben brauchlich ist Ihre provision zumache,
+#facs_446_r3l28 undt das ein kauffende Widerum in Vnsern Landen
+#facs_447_r2l1 zu verkauffen, darunder aber Arme Tagloner
+#facs_447_r2l2 undt dergleichen Vnderthanen nit verstanden,
+#facs_447_r2l3 als denen nit verpotten sein soll für Ihre
+#facs_447_r2l4 Hausbrauch bey den Häüseren Zekauffen. Item
+#facs_447_r2l5 auch vorbehalten unsere Ambtleüth die den
+#facs_447_r2l6 Einheimschen Hodleren Ihr eigen gewächs bey
+#facs_447_r2l7 den Häüßeren Verkauffen und Hingeben mögen
+#facs_447_r2l8 wo fern Sie versichert, daß gedeüte Hodler
+#facs_447_r2l9 daselbe in unseren Landen Widerumb zu
+#facs_447_r2l10 Markt führen und nicht an Außere Ohet
+#facs_447_r2l11 Verkauffen werden.
+#facs_447_r2l12 Damit aber hierwider nicht gehandlet
+#facs_447_r2l13 Werde, wollend wir hiemit angesehen haben
+#facs_447_r2l14 daß unsere Ambtleüth, wie auch die Vor¬
+#facs_447_r2l15 gesetzte in unseren Stätten bey Straaff der
+#facs_447_r2l16 entsatzung von Ihren Ämbtern auch
+#facs_447_r2l17 anderer Unser Oberkeitlichen Ahngnad nit
+#facs_447_r2l18 Allein selbsten darwider nicht zu handle
+#facs_447_r2l19 sonderen auch Im Ubrigen die Handtohaltung
+#facs_447_r2l20 Ihnen alles Ernsts Angelegen sein Zuläh¬
+#facs_447_r2l21 deß wegen erforderliche Auffscher zu bestellen
+#facs_447_r2l22 die so darwider Thun oder handle, Wur
+#facs_447_r2l23 mit der confiscation Straaff anzusehen.
+#facs_447_r2l24 sonst nach Beschaffenheit der Sachen Sie in
+#facs_447_r5l1 839
+#facs_447_r5l2 gepuhrende Straaff zu ziehen, darbey dan auch die Jenigen
+#facs_447_r5l3 particulars persohnen, so eigen gewächs zu verkauffen, oder
+#facs_447_r5l4 sonst einen großen Vorraht hätten, vermahnt werden sollen.
+#facs_447_r5l5 damit nit auff bösere Zeiten zu warten, sonderen aus¬
+#facs_447_r5l6 Liebe gegen Ihrem Nebendmentschen Umb billichen pfenung
+#facs_447_r5l7 Ihre Kornhäuser zu offnen, das wollen wir dir
+#facs_447_r5l8 gleich wie gegen Übrigen Unseren Ambtleüthen auch
+#facs_447_r5l9 Beschuht dahin Insinuirt haben, damit du es zu publiciren
+#facs_447_r5l10 undt darob geflißenlich zu halten Wußest. Gott
+#facs_447_r5l11 mit die Dat. den 2. Novemb. 1688.
+#facs_447_r5l12 An alle Teutsche und Weltsche
+#facs_447_r5l13 Ambbleüth 4. Stätt Freyw. vnd Amman
+#facs_447_r5l14 Obgeschribenes mandat erfrischet Vnder nachfol¬
+#facs_447_r5l15 gender Abänderung
+#facs_447_r5l16 Schr. undt Raht der Statt Berup.
+#facs_447_r5l17 Waß in der Ersten parenthesis (1) geschriben soll,
+#facs_447_r5l18 außgelaßen hingegen gesetzt werden
+#facs_447_r5l19 Nachdeme Ver¬
+#facs_447_r5l20 nur Zeit daher Wahr genommen, daß Vnseren hievor der Getreids
+#facs_447_r5l21 Veräußerung halb außgeschribene Ordnungen und mandaten, sonderlich
+#facs_447_r5l22 Deme vom 2. 9bris 1688. auf vielfaltige weise zuwider an Eint und an¬
+#facs_447_r5l23 deren Ohrten gehandlet werde, habend wie etc.
+#facs_447_r5l24 Waß zwischen der anderen 16 stehet soll außgelaßen werden vnd
+#facs_447_r5l25 nach dem Wort Verbott gesetzt werden, das Wort Widerumb.
+#facs_447_r5l26 bey disem Zeichen soll das wort ernstmeinend hin ein gesetzt werde
+#facs_447_r5l27 Bey disem Zeichen soll anstatt ernstmeinend das wort allerdings
+#facs_447_r5l28 ersetzt werden.
+#facs_447_r5l29 bey disem Zeichen soll hinzugesetzt werden: Vndt die Hinder¬
+#facs_447_r5l30 Ihnen unseren Unterthanen ein gleiches gestatten
+#facs_447_r5l31 bey disem Zeichen soll anstatt gestatten verwilligen gesetzt
+#facs_447_r5l32 vorden
+#facs_447_r5l33 sub Dato 3. 7bris 1690

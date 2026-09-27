@@ -1,0 +1,85 @@
+Law ID: BER.01.001.1829
+Name: Die Fahr abzestellen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 74/74
+# High similarity (>=50%): 73
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_213_r4l22 = Morse, Chillion. Undt dein vnderhabendes Hauß und
+#facs_213_r4l23 deßen Statt mit Zwölff Persohnen neben den Zusetzern be-
+#facs_213_r4l24 setzt haben,
+#facs_213_r4l25 Arburg, Biberstein Kungsfelsen,
+#facs_213_r4l26 undt Schenkenberg.
+#facs_213_r4l27 Die fahr abzestellen
+#facs_213_r4l28 Schultheiß und Kl. Wir werdend von Vnseren V. L. A.
+#facs_213_r4l29 der Statt Zürich, schrifftlich benachrichtiget, Was maßen ihr
+#facs_213_r4l30 vnndt Vnsere Statt, vßerer Ohrten für suspect gehalten,
+#facs_213_r6l1 43.
+#facs_213_r6l2 Ja bereits zu Knerenberg neben anderen Benachbarten Stetzen
+#facs_213_r6l3 offendtlich angeschlagen worden, welches vß mangel gnugsammer
+#facs_213_r6l4 sünderung der Inficierten ohrten unndt Persohnen her gefloßen.
+#facs_213_r6l5 Dannen har sy verursachet alle Paß gegen verdächtigen ohrten
+#facs_213_r6l6 sorgfältiglich verwarz zelaßen, vnd darbey Eidtgl. meinung
+#facs_213_r6l7 andäutende, daß mitler wylen Persohnen von Basel nacher, ver¬
+#facs_213_r6l8 mitlast der Unabgeschaffet verblibenen kleinen fahren vnndt
+#facs_213_r6l9 fischer schiffling zur ihnen sich nächerint, Habend wie dem
+#facs_213_r6l10 beywüffigen ersuchen nach, die, wie gegen anderen Unseren
+#facs_213_r6l11 Ambtluthen auch beschicht, hiemit befelchen wöllen, Alle der
+#facs_213_r6l12 gleichen nebendfahr, undt Fischer-schifflin, vßert den ge¬
+#facs_213_r6l13 wohnten fahren allerdings abgeschaffen Vndt vfft Landt ziechen
+#facs_213_r6l14 zulaßen, bey den ordinarii fahren aber die gebürende ernst¬
+#facs_213_r6l15 liche anstalt unndt verfürgung Zethun, daß nimam ynge¬
+#facs_213_r6l16 schiffet noch Übergefüret werde, das nit mit beglaubten
+#facs_213_r6l17 gnugsammen Schein unndt Paß Zedel versächen seye, daß
+#facs_213_r6l18 er von gesunden uninficierten undt vnuerdechtigen ohrten
+#facs_213_r6l19 härkomme, Allermaßen vnser vorgehendes gesächten bereits
+#facs_213_r6l20 vermögen, undt wie hiemit exequiert haben wollendt
+#facs_213_r6l21 Votum den 11. Novemb. 1667
+#facs_213_r6l22 An alle Weltsche undt Teutsche
+#facs_213_r6l23 Ambtleüt. Vff die Wärber zu achten
+#facs_213_r6l24 Die underschiden
+#facs_213_r6l25 Schultheis undt Raht der Statz Bern
+#facs_213_r6l26 lichen Verpot, die wir von Zeit zur Zeit der unerlaubten Wärb¬
+#facs_213_r6l27 ungen halb, Im Unseren Landen vßgehn laßen undt die daruf
+#facs_213_r6l28 gesezte Lyb vndt Lebensstraff, soeten nun mehr verhoffer
+#facs_214_r3l1 maßen, so vill gewürks unndt jedermeniglich von der gleiche
+#facs_214_r3l2 Inerlaubten aufwiglen undt auf dingen Unserer Underthanen ab¬
+#facs_214_r3l3 gehalten haben, Wider vnser versachen aber, haben wir Wilmals
+#facs_214_r3l4 Vernauung undt erfaren mueßen, wie villfaltig darwider gehand=
+#facs_214_r3l5 let werde, dannenhar wir auch verursachet worden, Unser
+#facs_214_r3l6 unsachen jederwyln zuerfrischen, undt wylen wie unterschieden
+#facs_214_r3l7 sich berichtet worden, daß dismalen unterschidenliche Nur¬
+#facs_214_r3l8 bungen obhanden seyendt, undt dannenhar besorgen mueßendt
+#facs_214_r3l9 daß er allerley wyß vnderstanden werden möchte, Unsern
+#facs_214_r3l10 -
+#facs_214_r3l11 Vnderthanen auch aufzedingen undt weg zu füchren, Alß
+#facs_214_r3l12 habend wie die gleich anderen Unseren ambtlüthen zubefelchen,
+#facs_214_r3l13 güetfunden, vff der gleichen Werber fleißig zrachten
+#facs_214_r3l14 undt so der eint oder andere ergriffen werden möchte, den oder
+#facs_214_r3l15 dieselben gefenklich an jenenen undt seiner verhafftung
+#facs_214_r3l16 oder wo sonst der gleichen verspürt werden möchte, zuberichte
+#facs_214_r3l17 Wie du deiner ambtspflicht gemät Zethun wol wüßen wirst
+#facs_214_r3l18 Dath 18 November 1667
+#facs_214_r3l19 An die gemeinen Ambtleüt
+#facs_214_r3l20 mit Freyburg.
+#facs_214_r3l21 Ihne Tag zu ablegung
+#facs_214_r3l22 Ihrer Rechnungen bestimmen.
+#facs_214_r3l23 Schuetheisi und Raht der Statß Bern etc.
+#facs_214_r3l24 Diewylen die Zeit abermalt herzu gerukt, in deren die
+#facs_214_r3l25 Rechnungen Unserer mit unseren L. L. der Statt. Fryburg
+#facs_214_r3l26 gemein habenden ämbteren, den ambtlüthen abgenommen
+#facs_214_r3l27 undt angehört werden sollen. Alß habend wir veran¬
+#facs_214_r3l28 laßeter maßen ermelten Unseren L. E. zu sölicher Rech¬
+#facs_214_r3l29 mugs-verhör den Tag vff Montag den 2. Decemb. s. r.
+#facs_214_r5l1 415.
+#facs_214_r5l2 Zur Mueten abendts an der Herberg zerscheinen angesetzt, alß
+#facs_214_r5l3 Ist welchem Tag vnsere Ehren Deputierte sich zufinden werden,
+#facs_214_r5l4 deßen nun wirstu zu dem endt hiemit berichtet damit du
+#facs_214_r5l5 dich mit den noch schuldigen Rechnungen von getragen gemeine
+#facs_214_r5l6 ambt verfaßt, dorten vor beiderseits herren Ehrengesandten
+#facs_214_r5l7 Vnfälbarlich zu zestellen, vndt selbige abzulegen müßest.
+#facs_214_r5l8 glatsl. 22. November. 1661.

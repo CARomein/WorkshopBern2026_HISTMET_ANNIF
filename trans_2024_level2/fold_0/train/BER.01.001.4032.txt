@@ -1,0 +1,67 @@
+Law ID: BER.01.001.4032
+Name: Concessionen für Reisgründ zu ertheilen, denen H. Amtleüthen aufs Frische verbotten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 56/56
+# High similarity (>=50%): 52
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_231_r3l12 A:
+#facs_231_r3l13 Alle T. und W. Amtleuth, 4. Städt, Freyb¬
+#facs_231_r3l14 und Ammen, ausgenommen Köniz, Tuchsee,
+#facs_231_r3l15 Städt Lenzburg und Hofingen, dem Bomont
+#facs_231_r3l16 und Jegenstorff.
+#facs_231_r3l17 Concessionen für Reißgrund zu ertheilen,
+#facs_231_r3l18 denen H. Amtleüthen aufs frische verbotten¬
+#facs_231_r3l19 Schultheiß und Räht und Burgens
+#facs_231_r3l20 Nachdeme Uns die Vorstellung beschehen, was
+#facs_231_r3l21 seith geraumer Zeith daher, vor Mißbräuche
+#facs_231_r3l22 und
+#facs_231_r4l1 451.
+#facs_231_r4l2 Anticipationen, in Weggebung und Zurygnung der
+#facs_231_r4l3 Reis-Gründen hin und wieder eingerißen, also
+#facs_231_r4l4 daß ein solcher mit nur Mangel an Vorraht, der
+#facs_231_r4l5 zum Underhalt der Schbellinen nöhligen
+#facs_231_r4l6 Wedelen, sondern auch anderer Gestalten mehr
+#facs_231_r4l7 nit geringen Nachtheil und Schaden verursaget, und
+#facs_231_r4l8 Leßnahm der ohnumbgänglichen Stoffbendigkeit seyn
+#facs_231_r4l9 wolle, deme inhalt und die gemeßene Vorsorg zu thun
+#facs_231_r4l10 habend zu dem Ende Wir hiemit erkent und geordnet,
+#facs_231_r4l11 laß, gleichbie im vergangenen es nit die Meinung
+#facs_231_r4l12 gehabt, daß dergleichen Reyßgründ ohne Unser
+#facs_231_r4l13 vorbüßen und Gewilligung jehmands, wer der
+#facs_231_r4l14 auch wäre, concediert noch hingegeben werden, es
+#facs_231_r4l15 auch fürohin und in bünfftigen Zeithen durchgehends
+#facs_231_r4l16 alfo verstanden und gehalten, zumphlen Unsere
+#facs_231_r4l17 Amtleuth nicht befuegt seyn sollen, von Reisgrünten
+#facs_231_r4l18 etwas unter was nahmen und vorband es auch
+#facs_231_r4l19 seyn möge, beggzugeben, Inmaßen wir Uns
+#facs_231_r4l20 hierüber zu allen und jeden Zeithen die Disposition
+#facs_231_r4l21 noch weiters vorbehalten und Euch (eben) wie
+#facs_231_r4l22 anderen Amtleuthen) befohlen haben soll im
+#facs_231_r4l23 Euch Euerseiths Deine zu conformieren, und daß
+#facs_231_r4l24 Unserem Sentent ein genügen geschehe, nach
+#facs_231_r4l25 auf habender Eüerer Pflicht zu sigilieren
+#facs_231_r4l26 mithin werdet Ihr, auch zu dem auf dieseren
+#facs_231_r4l27 Reisgründen bachsenden Holz bestmögliche
+#facs_232_r1l1 452 452
+#facs_232_r1l2 Collat.
+#facs_232_r2l1 Sorg zu tragen wüßen, als welches zu den
+#facs_232_r2l2 Schwellin Werken in sonderheit destiniert ist,
+#facs_232_r2l3 auch diß Schreiben seines Orts zur nachricht
+#facs_232_r2l4 einschreiben laßen. Dat. d. 15. Augl. 1753.
+#facs_232_r2l5 an
+#facs_232_r2l6 Alle T. und W. Ambtleuth. 4. Stadt Freyb.
+#facs_232_r2l7 und Äman.
+#facs_232_r2l8 Ausschreibung der Herbstfarien.
+#facs_232_r2l9 Schultheis und Saht etc.
+#facs_232_r2l10 Den Anfang heüriger Herbst harien haben
+#facs_232_r2l11 Wir bestimmt auf Montag den 17. diß. und
+#facs_232_r2l12 deßen Euch berichten wollen, mit Befehl
+#facs_232_r2l13 keine andere dann noht dringende Geschäfft
+#facs_232_r2l14 vor Uns und Unsere verordnete Cammeren
+#facs_232_r2l15 gelangen zu laßen. God mit Euch. Datl.
+#facs_232_r2l16 1. Sept. 1753.

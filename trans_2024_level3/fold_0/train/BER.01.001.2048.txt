@@ -1,0 +1,676 @@
+Law ID: BER.01.001.2048
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 665/665
+# High similarity (>=50%): 579
+# Low similarity (<50%): 86
+# Not found: 0
+#
+#facs_77_r7l1 Ce nouvelle nouveau
+#facs_77_r7l2 K. J. C. P.
+#facs_77_r7l3 2
+#facs_77_r7l4 décidées. L'autre entretien avec le dernier ou le
+#facs_77_r7l5 1
+#facs_77_r7l6 Der Schultheiß und Raht der Statt Bern / entbleiben.
+#facs_77_r7l7 ten allen unseren Kirchendienern / Amtleuhten / Chorrichtern / Schul- und Lehr
+#facs_77_r7l8 „meisteren / auch allen unseren lieben und getreuen angehörigen unsers Teutschen Landes / unsern günstigen gnädigen Gruß
+#facs_77_r7l9 und demnach zuvernemmen / dieweilen die nohtwendigkeit erforderen wöllen / daß gegenwertiger zeit die Schul=Ordnungen
+#facs_77_r7l10 S.
+#facs_77_r7l11 auf dem Land etwas vermehrt und verbessert werden / wie uns obligender massen zu erkennen geben worden. Haben wir
+#facs_77_r7l12 den Fürgesetzten der Kirchen und Schulen unser Haubt=Statt den Befelch aufgetragen / ein durchgehnde frische Dr.
+#facs_77_r7l13 nung aufzusetzen / und uns vorzubringen / welche wir euch unsern Kirchendieneren auf dem Land darauf zugeschikt / um von euch zuvernemmen / ob
+#facs_77_r7l14 selbige jeden orts eingeführt werden könne / oder noch etwas darzu oder darvon zu thun seyn werde? nach dem nun darüber euer bericht uns einge=
+#facs_77_r7l15 langet / habend solichem nach auß unserem Befelch / anfangs / ermeldte unsere Kirchen= und Schuldiener unser Statt / hernach unser fürgelieb
+#facs_77_r7l16 te Mit=Rähte Teutsch Seckelmeister und Fenner / dise Ordnung eingerichtet / und wir dieselbige hiemit gutgeheissen und bestätiget / wie folget
+#facs_77_r7l17 MARINE ET COLONIES
+#facs_77_r7l18 S. C. S. rn
+#facs_77_r7l19 Istel
+#facs_77_r7l20 MÈSUM
+#facs_77_r7l21 Obligster
+#facs_77_r7l22 * M
+#facs_77_r7l23 Die kleisirung einer kleisten stattungen wie
+#facs_77_r7l24 (4) Als wie wir zwie sein sehr künfsereicht sehr sein, wie
+#facs_77_r7l25 MARINE ET COLONIES
+#facs_77_r7l26 Obligkeiten ière témoire
+#facs_77_r7l27 Né à la suite de l'exposé d'ordre au compte
+#facs_77_r7l28 de laße, à M.
+#facs_77_r7l29 de la rue de lui se
+#facs_77_r7l30 alda sekäliären, sein wie sein
+#facs_77_r7l31 Schulmeister allwegen am ersten Sonntag darnach / da
+#facs_77_r7l32 ehen / daß das Gesang in den Schulen und Kirchen ge=
+#facs_77_r7l33 Kirchsgenossen zu anhörung der Predigen gemeinlich
+#facs_77_r7l34 Rstlich sollen die Schulen auf den
+#facs_77_r7l35 ffnet werde.
+#facs_77_r7l36 men komen / die Elteren der ursachen solchen außbleiben,
+#facs_77_r7l37 Land / in allen Kilchhörinen / an den
+#facs_77_r7l38 Zu dem end sollen die Schulmeister / in denen zeiten
+#facs_77_r7l39 befragen / und im fahl es sich michtwillig geäussert hätte /
+#facs_77_r7l40 quemsten orten angestellt werden / damit
+#facs_77_r7l41 und stunden / weil die Schul währt / sich der Schulstube
+#facs_77_r7l42 selbe in gebühr züchtigen. hätten aber die Elteren dasselbe ab=
+#facs_77_r7l43 Die Kinder von den umligenden Dörffern,
+#facs_77_r7l44 nicht ausseren und anderen geschäfften nachgehen / wie oft
+#facs_77_r7l45 gehalten / sollen dieselben sich vor ihrem Vorstehnder den
+#facs_77_r7l46 und Höfen selbige desto besser besuch
+#facs_77_r7l47 mals beschicht / sondern bey den Schulkinderen stäts ver=
+#facs_77_r7l48 über verantworten / welcher dann gegen denenselben zuwer
+#facs_77_r7l49 Gegen könnind.
+#facs_77_r7l50 bleiben / und fleissige aufsicht auf dieselben haben
+#facs_77_r7l51 fahren wussen wird / wie hernach folget / wann er an ihre ent=
+#facs_77_r7l52 Demnach sollen die Gmeinden dahin trachten / daß sie
+#facs_77_r7l53 Sie sollen auch kein tag ohne erlaubnuß des Vorste
+#facs_77_r7l54 schuldigung nicht kommen könte.
+#facs_77_r7l55 o möglich / eygene Schulhäuser haben / kauffen oder
+#facs_77_r7l56 hers / so er nach bey der stell / aussert der Schul bleiben / noch
+#facs_77_r7l57 Es sollen auch neben den Chorrichtern und de
+#facs_77_r7l58 luen/ oder wanns nicht in ihrem vermögen/ Hauser dan
+#facs_77_r7l59 sich ausseren.
+#facs_77_r7l60 Schulmeister/ erliche under den besten Knaben / zu Auff=
+#facs_77_r7l61 empfahen/ auf daß die Schulen ohne hinde
+#facs_77_r7l62 Was dann ihre belohnung antrifft / sollen die Gemein-
+#facs_77_r7l63 auß kön.
+#facs_77_r7l64 haren bestellt werden / damit fleissig achtung geben werde.
+#facs_77_r7l65 gehalten werden.
+#facs_77_r7l66 den dahin sehen / daß ihnen ihr bestimter Lohn eingehänden
+#facs_77_r7l67 Der anfang der Schulen / was die jungen und kleine
+#facs_77_r7l68 auf die / welche sich in der Kirchen und Schul ungebühr,
+#facs_77_r7l69 zet werde / und so jemand darinn saumselig wäre / soll de
+#facs_77_r7l70 linder betrift / soll seyn auf Gallen Tag / und der außga
+#facs_77_r7l71 verhalten.
+#facs_77_r7l72 selbe von dem Chorgricht oder Fürgesetzten / zu seiner schul=
+#facs_77_r7l73 den ersten Aprilis. Die andern aber / so etwas stärker und
+#facs_77_r7l74 Auß der Schul soll kein Lehrkind erlediget und frey ge=
+#facs_77_r7l75 igkeit angehalten werden / damit die Schulmeister neben
+#facs_77_r7l76 cöse / und zum feldbau nohtwendig gebraucht werden
+#facs_77_r7l77 lassen werden / biß es die Fundament der wahren Religion
+#facs_77_r7l78 hrer grossen mühe / nicht noch darzu vil verdruß / und ano
+#facs_77_r7l79 sollen den ersten Novembris anfangen / und etwas früh
+#facs_77_r7l80 diese uns in den Catechismis angewisen/ erlehrnt/ es
+#facs_77_r7l81 und unkosten bey einziehung ihres Soldes / haben müsse
+#facs_77_r7l82 erlassen / inzwischen zu desto grösserm fleiß angehalten weil.
+#facs_77_r7l83 an sach / daß auß mangel der Gaben / solches nicht ge=
+#facs_77_r7l84 Jm fahl aber des einten oder anderen Besoldung zu gering
+#facs_77_r7l85 den. Weilen aber die beschaffenheit der feldarbeit und
+#facs_77_r7l86 lichen könte / welches ein jeder treuer Diener Gottes
+#facs_77_r7l87 väre soll dieselbe ihnen verbessert werden.
+#facs_77_r7l88 orts ungleich / kan nach derselbigen die zeit des anfangs un=
+#facs_77_r7l89 und gehinden wol wussen wir
+#facs_77_r7l90 an dann auch das Holtz ein stuck des Schulm=
+#facs_77_r7l91 gezihlet und außgestreckt.
+#facs_77_r7l92 des außgangs der Schulen
+#facs_77_r7l93 Ob gleichwol die Verständigen und Erwachsenen den
+#facs_77_r7l94 kers belohnung ist / als soll ein jede Gemeind verschaffen
+#facs_77_r7l95 Vorsteher d.
+#facs_77_r7l96 werden / nach dem es der An=
+#facs_77_r7l97 Schulen halben erlediget werden / so sollen sie dannoch
+#facs_77_r7l98 daß deselbe nach nothdurft / darmit versehen werd.
+#facs_77_r7l99 lorts nohtwendig erachten werden. Fahls es sich thun
+#facs_77_r7l100 den Jinderlehren zu antworten / und das Gesang in den
+#facs_77_r7l101 Die Eltern sollen ihre Kinder beyzeiten / und so bald
+#facs_77_r7l102 laßt / und an denen orten es seyn kan / und bereits einge=
+#facs_77_r7l103 Kirchen zu besuchen verpflichtet seyn. Und damit das Ge=
+#facs_77_r7l104 etwas sssen können / in die Schul schicken / und dem Sch.
+#facs_77_r7l105 führt / sollen die Schulen das gantze Jahr durch cont
+#facs_77_r7l106 sang esto glücklicher fortgehe / sollen sie es zuvor in der
+#facs_77_r7l107 neisterselbs / mit beschreibung ihrer natur / anbefehlen / und
+#facs_77_r7l108 nuiert werden.
+#facs_77_r7l109 schreu/ oder an einem andern darzu bequemen ort/ my
+#facs_77_r7l110 so sie herim saumselig solten erfunden werden / sollen
+#facs_77_r7l111 Die Gemeinden sollen die Schulmeister nicht eygn
+#facs_77_r7l112 manären probieren.
+#facs_77_r7l113 Fürgeetzten gewalt haben sie darzu anzuhalten
+#facs_77_r7l114 gewalts und willens annemmen und bestellen / sondern die
+#facs_77_r7l115 Dach vollendung der zeit sollen auch die Examina, nach
+#facs_77_r7l116 Anne und nothdürftige Eltern / die ihren Kindern
+#facs_77_r7l117 begärenden personen für die Amtleuht und Vorsteher der
+#facs_77_r7l118 zuthun der Amtleuhten / da es seyn kan / Predicanten um
+#facs_77_r7l119 nicht vermögen Bücher zukauffen / auch in der zeit / daßen
+#facs_77_r7l120 Kirchen / als ihre Fürgesetzten / denen solche annen
+#facs_77_r7l121 Eltesten / in der Schul gehalten / (oder wann es die gelegen
+#facs_77_r7l122 die Schul gehen / nahrung und kleider darzureichen / solle
+#facs_77_r7l123 zusteht / weisen / sich vor ihnen zu stellen.
+#facs_77_r7l124 tit gibt / in der Kirchen / vor der offentlichen Gemein /
+#facs_77_r7l125 die Amtsleucht und Vorsteher / um raht und hilf ersuche.
+#facs_77_r7l126 Zum Schuldienst sollen Gottsförchtige / Gott= und
+#facs_77_r7l127 gestellt werden / der meynung / daß es ohn der Oberke=
+#facs_77_r7l128 welche dann allen möglichsten fleiß anwenden sollen wie
+#facs_77_r7l129 Tugendliebende personen / und die von natur geneigt und
+#facs_77_r7l130 noch der Gemeind kosten beschehen / und zu dem end fürge
+#facs_77_r7l131 nen auß gemeiner steur möchte geholffen werden / weil oh=
+#facs_77_r7l132 fugenlich zur underweisung der Jugend / erwehlt und best=
+#facs_77_r7l133 mmen werden solle / wann der Amtsmann etwan an=
+#facs_77_r7l134 das ein jede Gemeind ihre Armen erhalten soll / dann die
+#facs_77_r7l135 niget werden / nach dem sie ihrer tüchtigkeit halben / durch ein
+#facs_77_r7l136 geschafften halb sich an denen orten einfinden muß.
+#facs_77_r7l137 Armen auß mangel der nahrung von der Christlichen
+#facs_77_r7l138 vorgehendes Examen auf die prob werden gesetzt worde
+#facs_77_r7l139 Wann darzu die Gemeinden den fleissigen Kinden en
+#facs_77_r7l140 derweisung nicht hinderhalten werden.
+#facs_77_r7l141 seyn
+#facs_77_r7l142 Gab außtheilen lassen wollen / selbige darmit desto mei=
+#facs_77_r7l143 Die Schulkinder dann / sollen Gott von hertzen förcht.
+#facs_77_r7l144 Die Schulmeister / sollen vor allen dingen / ihren
+#facs_77_r7l145 aufzumunteren / ist ihnen dasselbige freygestellt / und mögen
+#facs_77_r7l146 ten / ihne einbrünstig anrüffen / sonderlich auch in Schröt.
+#facs_77_r7l147 Schulkinden ein gut exempel vortragen/ die Kinder fleiss
+#facs_77_r7l148 sie zu dem und nach mittlen trachten / gleich andern / die se=
+#facs_77_r7l149 len Gott um den beystand des Heiligen Geistes bitten.
+#facs_77_r7l150 sig / verständtlich und außdruckenlich lehren hätten / lesen
+#facs_77_r7l151 ches schon loblich eingefuhrt haben.
+#facs_77_r7l152 und zuvor / zum ersten / nicht das geschribne / sondern das ge=
+#facs_77_r7l153 Die erwachsenen sollen in der Kirchen fleissig auf Gott
+#facs_77_r7l154 Damit nun dise Ordnung und Gesatz desto besser
+#facs_77_r7l155 druckte in dem Psalmenbuch / Testament und Bibel / an
+#facs_77_r7l156 Es Wort achtung geben / damit sie hernach ihren Fürgese
+#facs_77_r7l157 achtet werden / so sollen alle Vorsteher ihre pflicht fleissig
+#facs_77_r7l158 daß sie bey zeiten zu dem H. Wort Gottes gewehnt werden.
+#facs_77_r7l159 ten / wo sie befragt wurden / auß der Predig / was sie behal=
+#facs_77_r7l160 ac/ und die Schulen alle wochen auf das
+#facs_77_r7l161 darnach die grössern im Catechismo und Underricht / getrei=
+#facs_77_r7l162 an acht ne
+#facs_77_r7l163 ten / sagen können / und sollen sich gegen ihren Fürgesetzte
+#facs_77_r7l164 nigst ein mal / so sie in ihrem Dorf ist / im fahl aber ausser=
+#facs_77_r7l165 lich und erweisen / und zum schreiben fleissig anhalten
+#facs_77_r7l166 ehrerbietig und demühtig erzeigen / der Lehrmeistern Lehn=
+#facs_77_r7l167 alb / alle 14. tag / so weit möglich / und die abgelegenh=
+#facs_77_r7l168 Sie sollen auch gewalt haben / und von den Elteren ni
+#facs_77_r7l169 und Straf / mit gebürlichem gehorsam underwerffen / un=
+#facs_77_r7l170 und vile der Schulen zulaßt / vistrieren / und so einiger man
+#facs_77_r7l171 erhindert werden / die Jugend / wo vonnöhten / mit Ruhte
+#facs_77_r7l172 hrliche Leuht / weder mit worten noch wercken beleidige
+#facs_77_r7l173 an den Eltern so ihre Kinder nicht fleissig in die Sch.
+#facs_77_r7l174 züchtigen / und das mit fürsichtigkeit und bescheyde
+#facs_77_r7l175 oder antasten / und sich also verhalten / wie sichs fromme
+#facs_77_r7l176 halten und versaumen / oder an den Uhrmeistern un=
+#facs_77_r7l177 heit / so aber einer in der Straf überfahren wurde / der
+#facs_77_r7l178 und züchtigen Schulkinderen geztem
+#facs_77_r7l179 Schultindem verspührt wurde / sollen sie die einten
+#facs_77_r7l180 den Furgesetzten verleidet und nach gebür gestraft werden
+#facs_77_r7l181 Die Schulen sollen sie morgens und nachmittag / zu
+#facs_77_r7l182 udern erstlich wahrmen / hernach weiters nach gestalt der
+#facs_77_r7l183 Es sollen auch die Lehrmeister sich beyzeiten in der
+#facs_77_r7l184 bestimten zeit besuchen / und sich bey dem Gebätt und G
+#facs_77_r7l185 verbrechens an seinen ort / es seye an dem Chorgricht
+#facs_77_r7l186 Schul begeben / da dann die Stunden / wann sie anfangen
+#facs_77_r7l187 ang einfinden / und die zeit wol anwenden / weil sie kurtz / un=
+#facs_77_r7l188 aufhören sollte.
+#facs_77_r7l189 oder auch Capitel anbringen / auf daß endlich durch Anl.
+#facs_77_r7l190 in jeder Vorsteher / nach beschaffen
+#facs_77_r7l191 die Schulen mehrentheils nur den winter durch währer
+#facs_77_r7l192 it des orts / beste
+#facs_77_r7l193 Inmen soll / und die Mor
+#facs_77_r7l194 thorite und Ansehen der hohen Oberkeit dem übel geweh=
+#facs_77_r7l195 ad mt.
+#facs_77_r7l196 und sollend die Elteren sie darzu fleissig anhalten
+#facs_77_r7l197 bätt und Psalmen=singen anheben / und sonderlich
+#facs_77_r7l198 Wann ein Schulkind außbleiben wurde / soll die
+#facs_77_r7l199 werd.
+#facs_77_r7l200 Disem nach wollend wir alle Amtleuhte / Vorstehnder der Gemeinden / Schulmeister und übrige so es ansicht / hiemit ernst=vätterlich ver=
+#facs_77_r7l201 zahnt haben / obbeschribener Regul / so vil dieselbe einen jeden berührt / nach beschaffenheit des orts / fleissigens nachzukommen / und fahls die
+#facs_77_r7l202 eoder andere Vorstehnder der Gemeind / die heilsame Erkantnuß Gottes / es seye durch Sommer Schulen und wochentliche Repetitione
+#facs_77_r7l203 auf ein andere manier zu auffnen sich getrauet / werdend wir dasselbe zu höchstem gefallen aufnemmen / der hoffnung / wann dises alles durch
+#facs_77_r7l204 Es werde geübt werden / daß dardurch die Ehr des Allerhöchsten Gottes / und der Kindern Heil und Seligkeit werd befürdert / wie auch
+#facs_77_r7l205 göttische und abergläubische Greuel / darzu vil wegen ihrer groben unerkantnuß verführet werden / abgeschafft und neue Lehrn.
+#facs_77_r7l206 erhalten werden. Darzu dann der Allerhöchste Oft und Vatter unseres Herren Jesu Cherin sein Grund und Segen / Vätterlich mit
+#facs_77_r7l207 len wolle / Amen. Actum 14. Augusti 167
+#facs_78_r4l1 Aufgenommen vorzücklichen Größe und Köderin /.
+#facs_78_r4l2 Uudemann
+#facs_78_r4l3 O
+#facs_78_r4l4 x
+#facs_78_r4l5 C.
+#facs_78_r4l6 dans le dernier entretienement, a été entretenué avec cette réseignité entre entre passe
+#facs_78_r4l7 C:
+#facs_78_r4l8 de la riviere
+#facs_78_r4l9 4.
+#facs_78_r4l10 Jr Schultheiß und Raht der Statt Bern / entdie
+#facs_78_r4l11 .
+#facs_78_r4l12 ten allen unseren Kirchendienern / Amtleuhten / Chorrichtern / Schul- und Lehr=
+#facs_78_r4l13 meisteren / auch allen unseren lieben und getreuen angehörigen unsers Teutschen Landes / unsern günstigen gnädigen Gruß
+#facs_78_r4l14 und demnach zuvernemmen / dieweilen die nohtwendigkeit erforderen wöllen / daß gegenwertiger zeit die Schul=Ordnungen
+#facs_78_r4l15 Nauf dem Land etwas vermehrt und verbessert werden / wie uns obligender massen zu erkennen geben worden. Haben wil
+#facs_78_r4l16 den Fürgesetzten der Kirchen und Schulen unser Haubt=Statt den Befelch aufgetragen / ein durchgehnde frische Ordn.
+#facs_78_r4l17 C.
+#facs_78_r4l18 nung aufzusetzen / und uns vorzubringen / welche wir euch unsern Kirchendieneren auf dem Land darauf zugeschikt / um von euch zuvernemmen / oder
+#facs_78_r4l19 selbige jeden orts eingeführt werden könne / oder noch etwas darzu oder darvon zu thun seyn werde? nach dem nun darüber euer bericht uns eing
+#facs_78_r4l20 langet / habend solichem nach auß unserem Befelch / anfangs / ermeldte unsere Kirchen= und Schuldiener unser Statt / hernach unser fürgelieb=
+#facs_78_r4l21 te Mat=Rähte Teutsch Seckelmeister und Fenner / vise Ordnung eingerichtet / und wir dieselbige hiemit gutgeheissen und bestätiget / wie folget
+#facs_78_r4l22 OBSERVÉ
+#facs_78_r4l23 Obligkeit
+#facs_78_r4l24 Obligkeit
+#facs_78_r4l25 1
+#facs_78_r4l26 4S4iqu
+#facs_78_r4l27 S.
+#facs_78_r4l28 Il y a bien ai laisserie
+#facs_78_r4l29 Geld
+#facs_78_r4l30 2*
+#facs_78_r4l31 *
+#facs_78_r4l32 -
+#facs_78_r4l33 *
+#facs_78_r4l34 ¬
+#facs_78_r4l35 Obligkeit erwärtigkeits
+#facs_78_r4l36 ( w. k. ö. w. über die k.
+#facs_78_r4l37 Sie ist 1818 1818, Nro I.R. N. 1818.
+#facs_78_r4l38 engekom¬
+#facs_78_r4l39 Nachrichtung sein.
+#facs_78_r4l40 Nix-Alfs-Nizin
+#facs_78_r4l41 (1) ###
+#facs_78_r4l42 Schulmeister allwegen am ersten Sonntag darnach/ da di
+#facs_78_r4l43 sehen / daß das Gesang in den Schulen und Kirchen
+#facs_78_r4l44 Rstlich sollen die Schulen auf den
+#facs_78_r4l45 Kirchsgenossen zu anhörung der Predigen gemeinlich zu
+#facs_78_r4l46 äuffnet werde.
+#facs_78_r4l47 Gland / in allen Kilchhörinen / an den
+#facs_78_r4l48 amen komen / die Elteren der ursachen solchen außbleiben
+#facs_78_r4l49 Zu dem end sollen die Schulmeister / in denen zeiten
+#facs_78_r4l50 quemsten orten angestellt werden / damit
+#facs_78_r4l51 befragen / und im fahl es sich michtwillig geäussert hätte /
+#facs_78_r4l52 und stunden / weil die Schul währt / sich der Schulstuben
+#facs_78_r4l53 Die Kinder von den umligenden Dörffer
+#facs_78_r4l54 selbe in gebühr zuchtigen / hätten aber die Elteren dasselbe ab=
+#facs_78_r4l55 nicht aüsseren und anderen geschäfften nachgehen / wie oft
+#facs_78_r4l56 und Höfen selbige desto besser besuchen
+#facs_78_r4l57 gehalten / sollen dieselben sich vor ihrem Vorstehnder dar=
+#facs_78_r4l58 mals beschicht / sondern bey den Schulkinderen stäts von
+#facs_78_r4l59 könnind.
+#facs_78_r4l60 über verantworten / welcher dann gegen denenselben zuver-
+#facs_78_r4l61 leiben / und fleissige auffücht auf dieselben haben
+#facs_78_r4l62 Demnach sollen die Gmeinden dahin trachten/ daß sie
+#facs_78_r4l63 fahren wüssen wird / wie hernach folget / wann er an ihre ent=
+#facs_78_r4l64 Sie sollen auch kein tag ohne erlaubnuß des Vorste
+#facs_78_r4l65 eo möglich / eygene Schulhäuser haben / kauffen
+#facs_78_r4l66 schuldigung nicht kommen könte.
+#facs_78_r4l67 hers / so er nach bey der stell / aussert der Schul bleiben / non
+#facs_78_r4l68 bauen/ oder wanns nicht in ihrem vermögen/ Hauser darzu
+#facs_78_r4l69 Es sollen auch neben den Chorrichtern und den
+#facs_78_r4l70 zusseren.
+#facs_78_r4l71 um den zinß empfahen/ auf daß die Schulen ohne hinde
+#facs_78_r4l72 Schulmeister / etliche under den besten Knaben / zu Auf=
+#facs_78_r4l73 Was dann ihre belohnung antrifft/ sollen die Gemei=
+#facs_78_r4l74 gehalten werden.
+#facs_78_r4l75 heren bestellt werden / damit fleissig achtung geben werde
+#facs_78_r4l76 den dahin sehen / daß ihnen ihr bestimter Lohn eingehänd=
+#facs_78_r4l77 Der anfang der Schulen / was die jungen und kleine
+#facs_78_r4l78 auf die / welche sich in der Kirchen und Schul ungebüh=
+#facs_78_r4l79 het werde / und so jemand darinn saumselig wäre / soll der=
+#facs_78_r4l80 Kinder betrift / soll seyn auf Gallen=Tag / und der außge=
+#facs_78_r4l81 selbe von dem Chorgricht oder Fürgesetzten / zu seiner schon
+#facs_78_r4l82 lich verhalten.
+#facs_78_r4l83 den ersten Aprilis. Die andern aber / so etwas stärker u
+#facs_78_r4l84 Auß der Schul soll kein Lehrkind erlediget und frey ge=
+#facs_78_r4l85 igkeit angehalten werden / damit die Schulmeister nebe
+#facs_78_r4l86 Grosse / und zum feldbau nohtwendig gebraucht werden
+#facs_78_r4l87 lassen werden / biß es die Fundament der wahren Religion
+#facs_78_r4l88 ter grossen mühe / nicht noch darzu vil verdruß / und an
+#facs_78_r4l89 sollen den ersten Novembris anfangen / und etwas frühe
+#facs_78_r4l90 wie sie uns in den Catechismis angewisen / erlehrnt / es se
+#facs_78_r4l91 und unkosten bey einziehung ihres Soldes / haben müsse
+#facs_78_r4l92 erlassen / inzwischen zu desto grösserm fleiß angehalten werden
+#facs_78_r4l93 dann sach / daß auß mangel der Gaben / solches nicht ge=
+#facs_78_r4l94 fahl aber des einten oder anderen Besoldung zu gering
+#facs_78_r4l95 den. Weilen aber die beschaffenheit der felden
+#facs_78_r4l96 schehen könte / welches ein jeder treuer Diener Gottes;
+#facs_78_r4l97 wäre/ soll dieselbe ihnen verbessert werden
+#facs_78_r4l98 lorts ungleich / kan nach derselbigen die zeit des anf
+#facs_78_r4l99 in dann auch das Holtz ein stuck des Schulme.
+#facs_78_r4l100 andercheyden wol wussen wird.
+#facs_78_r4l101 des außgangs der Schulen eingezihlet und außgestrec=
+#facs_78_r4l102 Ob gleichwol die Verständigen und Erwachsenen die
+#facs_78_r4l103 rs beohnung ist / als soll ein jede Gemeind verschafft
+#facs_78_r4l104 werden / nach dem es der Amtsmann und Vorsteher de=
+#facs_78_r4l105 Schulen halben erlediget werden / so sollen sie dannoch
+#facs_78_r4l106 daß deselbe nach nothdurft / darmit versehen werde
+#facs_78_r4l107 lorts nohtwendig erachten werden. Fahls es sich ihr
+#facs_78_r4l108 den Hinderlehren zu antworten / und das Gesang in der
+#facs_78_r4l109 Die Eltern sollen ihre Kinder beyzeiten / und so bald sie
+#facs_78_r4l110 laßt / und an denen orten es seyn kan / und bereits eing
+#facs_78_r4l111 Kirchen zu besuchen verpflichtet seyn. Und damit das Ge=
+#facs_78_r4l112 etwas sissen können / in die Schul schicken / und dem Schloß
+#facs_78_r4l113 führt / sollen die Schulen das gantze Jahr durch von
+#facs_78_r4l114 sang desto glücklicher fortgehe / sollen sie es zuvor in der
+#facs_78_r4l115 meisterselbs / mit beschreibung ihrer natur / anbefehlen / und
+#facs_78_r4l116 nuiert werden.
+#facs_78_r4l117 Schisen/ oder an einem andern darzu bequemen ort /
+#facs_78_r4l118 sie herimn saumselig solten erfunden werden / sollen die
+#facs_78_r4l119 Die Gemeinden sollen die Schulmeister nicht eygen
+#facs_78_r4l120 Jurgesetzten gewalt haben sie darzu anzuhalten.
+#facs_78_r4l121 en probieren.
+#facs_78_r4l122 quand
+#facs_78_r4l123 gewalts und willens annemmen und bestellen / sondern die
+#facs_78_r4l124 Nach vollendung der zeit sollen auch die Examina, wo
+#facs_78_r4l125 Anne und nothdürftige Eltern / die ihren Kinder
+#facs_78_r4l126 begärenden personen für die Amtleuht und Vorsteher der
+#facs_78_r4l127 uthun der Amtleuhten / da es seyn kan / Predicanten und
+#facs_78_r4l128 nicht vermögen Bücher zukauffen / auch in der zeit / daß in
+#facs_78_r4l129 Kirchen / als ihre Fürgesetzten / denen solche annemm
+#facs_78_r4l130 Eltesten / in der Schul gehalten / (oder wann es die gelege
+#facs_78_r4l131 die Schul gehen / nahrung und kleider darzureichen / solle
+#facs_78_r4l132 zusteht / weisen / sich vor ihnen zu stellen
+#facs_78_r4l133 heit gibt / in der Kirchen / vor der offentlichen Gemeind
+#facs_78_r4l134 die Amtsleuht und Vorsteher / um raht und hilf ersuchen
+#facs_78_r4l135 Zum Schuldienst sollen Gottsförchtige / Gott= und
+#facs_78_r4l136 ngestellt werden / der meynung / daß es ohn der Oberkei
+#facs_78_r4l137 wesche dann allen möglichsten fleiß anwenden sollen wie
+#facs_78_r4l138 Tugendliebende personen / und die von natur geneigt um
+#facs_78_r4l139 noch der Gemeind kosten beschehen / und zu dem end fürg
+#facs_78_r4l140 nen auß gemeiner steur möchte geholffen werden / weil oh
+#facs_78_r4l141 Eugenlich zur underweisung der Jugend / erwehlt und beste=
+#facs_78_r4l142 nommen werden solle / wann der Amtsmann etwan and
+#facs_78_r4l143 das ein jede Gemeind ihre Armen erhalten soll / dann
+#facs_78_r4l144 iget werden / nach dem sie ihrer tüchtigkeit halben / durch
+#facs_78_r4l145 rer geschäfften halb sich an denen orten einfinden muß.
+#facs_78_r4l146 Armen auß mangel der nahrung von der Christlichen
+#facs_78_r4l147 vorgehendes Examen auf die prob werden gesetzt worde
+#facs_78_r4l148 derweisung nicht hinderhalten werden.
+#facs_78_r4l149 Wann darzu die Gemeinden den fleissigen Kinden ein=
+#facs_78_r4l150 seyn
+#facs_78_r4l151 Die Schulkinder dann/ sollen Gott von hertzen förcht.
+#facs_78_r4l152 Gab außtheilen lassen wollen / selbige darmit desto mei
+#facs_78_r4l153 Die Schulmeister / sollen vor allen dingen / ihre
+#facs_78_r4l154 ten / ihne einbrünstig anruffen / sonderlich auch in Schn.
+#facs_78_r4l155 Schulkinden ein gut exempel vortragen/ die Kinder flen=
+#facs_78_r4l156 aufzumunteren / ist ihnen dasselbige freygestellt / und möge
+#facs_78_r4l157 en Gott um den beystand des Heiligen Geistes bitten
+#facs_78_r4l158 sig / verständtlich und außdruckenlich lehren bätten / lese
+#facs_78_r4l159 sie zu dem end nach mittlen trachten / gleich andern / die so
+#facs_78_r4l160 Die erwachsenen sollen in der Kirchen fleissig auf G
+#facs_78_r4l161 und zuvor / zum ersten / nicht das geschribne / sondern das ge=
+#facs_78_r4l162 ches schon loblich eingeführt haben.
+#facs_78_r4l163 es Wort achtung geben / damit sie hernach ihren Fürgese
+#facs_78_r4l164 druckte in dem Psalmenbuch / Testament und Bibel / an
+#facs_78_r4l165 Damit nun dise Ordnung und Gesatz desto besser bey
+#facs_78_r4l166 en / wo sie befragt wurden / auß der Predig / was sie beha=
+#facs_78_r4l167 daß sie bey zeiten zu dem H. Wort Gottes gewehnt werde
+#facs_78_r4l168 trachtet werden / so sollen alle Vorsteher ihre pflicht fleissi
+#facs_78_r4l169 en / sagen können / und sollen sich gegen ihren Fürgesetzte
+#facs_78_r4l170 darnach die grössern im Carechismo und Underricht / getreide
+#facs_78_r4l171 in acht nemmen / und die Schulen alle wochen auf das in
+#facs_78_r4l172 threrbietig und demührig erzeigen / der Lehrmeistern Leh
+#facs_78_r4l173 lich underweisen / und zum schreiben fleissig anhalten.
+#facs_78_r4l174 gst ein mal / so sie in ihrem Dorf ist / im fahl aber aussern
+#facs_78_r4l175 und Straf / mit gebürlichem gehorsam underwerffen / in
+#facs_78_r4l176 Sie sollen auch gewalt haben / und von den Elteren nicht
+#facs_78_r4l177 halb / alle 14. tag / so weit möglich / und die abgelegenheit
+#facs_78_r4l178 ehrliche Leuht / weder mit worten noch wercken beleidigen
+#facs_78_r4l179 verhindert werden / die Jugend / wo vonnöhten / mit Ruhte
+#facs_78_r4l180 und vie der Schulen zulaßt / visitieren / und so einiger man
+#facs_78_r4l181 zu züchtigen / und das mit fürsichtigkeit und bescheyden
+#facs_78_r4l182 oder antasten / und sich also verhalten / wie sichs fromm
+#facs_78_r4l183 gel an den Elteren so ihre Kinder nicht fleissig in die Sch
+#facs_78_r4l184 und züchtigen Schulkinderen geziemt.
+#facs_78_r4l185 eit / so aber einer in der Straf überfahren wurde / der
+#facs_78_r4l186 alten und versaumen / oder an den Lehrmeistern
+#facs_78_r4l187 Die Schulen sollen sie morgens und nachmittag / zu
+#facs_78_r4l188 en Fürgesetzten verleidet und nach gebür gestraft werden.
+#facs_78_r4l189 Schulkindern verspührt wurde / sollen sie die einten un=
+#facs_78_r4l190 Es sollen auch die Lehrmeister sich beyzeiten in der
+#facs_78_r4l191 bestimten zeit besuchen / und sich bey dem Gebätt und G.
+#facs_78_r4l192 andern erstlich wahrnen / hernach weiters nach gestalt der
+#facs_78_r4l193 Schul begeben / da dann die Stunden / wann sie anfange
+#facs_78_r4l194 sang einfinden/ und die zeit wol anwenden / weil sie kurtz / un
+#facs_78_r4l195 verbrechens an seinem ort / es seye an dem Chorgricht
+#facs_78_r4l196 id aufhören sollen / ein jeder Vorsteher / nach beschaffen
+#facs_78_r4l197 die Schulen mehrentheils nur den winter durch währen
+#facs_78_r4l198 oder auch Capitel anbringen / auf daß endlich durch An
+#facs_78_r4l199 des orts / bestimmen soll / und die Morgenstund mit
+#facs_78_r4l200 und sollend die Elteren sie darzu fleissig anhalten
+#facs_78_r4l201 others
+#facs_78_r4l202 und Ansehen der hohen Oberkeit dem übel geweh=
+#facs_78_r4l203 ätt und Psalmen=singen anheben / und sonderlich zu
+#facs_78_r4l204 Wann ein Schulkind außbleiben wurde / soll de
+#facs_78_r4l205 werde
+#facs_78_r4l206 Diesem nach wollend wir alle Amtleuhte / Vorstehnder der Gemeinden / Schulmeister und übrige so es ansicht / hiemit ernst=vätterlich von
+#facs_78_r4l207 mit haben / obbeschribener Regul / so vil dieselbe einen jeden berührt / nach beschaffenheit des orts / fleissigest nachzukommen / und fahls der
+#facs_78_r4l208 e oder andere Vorstehnder der Gemeind / die heilsame Erkantnuß Gottes / es seye durch Sa=
+#facs_78_r4l209 nmer Schulen und wochentliche Repetitione
+#facs_78_r4l210 auf ein andere manier zu auffnen sich getrauet / werdend wir dasselbe zu höchstem gefallen aufnemmen / der hoffnung / wann dises alles durch
+#facs_78_r4l211 nds werde geübt werden / daß dardurch die Ehr des Allerhöchsten Gottes / und der Kindern Heil und Seligkeit werd befürdert / wie an
+#facs_78_r4l212 abgöttische und abergläubische Greuel / darzu vil wegen ihrer groben unerkantnuß verführet werden / abgeschaffet und neue jrige Lehre
+#facs_78_r4l213 derhalten werden. Darzu dann der Allerhöchste GOtt und Vatter unsers Herren JEsu Christi sein Gnad und Segen / Vätterlich im
+#facs_78_r4l214 en wolle / Amen. Actum 14. Augusti 167
+#facs_79_r6l1 meisteren / auch allen unseren neben wircken.
+#facs_79_r6l2 und demnach zuvernemmen / dieweilen die nohtwenvigte
+#facs_79_r6l3 den Fürgesetzten der Kirchen und Schulen unser Haubt=Statt den Befelch aufgetragen / ein durchgehende sei=
+#facs_79_r6l4 auf dem Land etwas vermehrt und verbessert werden / wie uns obligenden
+#facs_79_r6l5 S. R.
+#facs_79_r6l6 rundig aufzusetzen / und uns vorzubringen / welche wir euch unsern Kirchendieneren auf dem Land darauf zugeschikt / mit von euch zuvernemmen / oder
+#facs_79_r6l7 lbige jeden orts eingeführt werden könne / oder noch etwas darzu oder darvon zu thun seyn werde? nach dem nun darüber euer bericht uns eing
+#facs_79_r6l8 langet / habend solichem nach auß unserem Befelch / anfangs / ermeldte unsere Kirchen= und Schuldiener unser Statt / hernach unser fürgelieb
+#facs_79_r6l9 (2)
+#facs_79_r6l10 * *
+#facs_79_r6l11 te Mit=Rähte Teutsch Seckelmeister und Fenner / diß Ordnung eingerichtet / und wir dieselbige hiemit gutgeheissen und bestätiget / wie folget
+#facs_79_r6l12 als zu
+#facs_79_r6l13 L'ÉTÉRÉSßE
+#facs_79_r6l14 M M
+#facs_79_r6l15 Die wiederleleisten mniederität
+#facs_79_r6l16 Kreibyung des k. k.
+#facs_79_r6l17 tous les faits de tous fait
+#facs_79_r6l18 15,7
+#facs_79_r6l19 Schulmeister allwegen am ersten Sonntag darnach / da die
+#facs_79_r6l20 MARINE ET COLONIES
+#facs_79_r6l21 de la
+#facs_79_r6l22 Ilmoit l'affaire a état été
+#facs_79_r6l23 3 e
+#facs_79_r6l24 Kirchsgenossen zu anhörung der Predigen gemeinlich zu
+#facs_79_r6l25 XII8 (4)
+#facs_79_r6l26 Pachtpräsischen
+#facs_79_r6l27 samen komen / die Elteren der ursachen solchen außbleiben
+#facs_79_r6l28 sehen / daß das Gesang in den Schulen und Kirchen ge=
+#facs_79_r6l29 2
+#facs_79_r6l30 IN?
+#facs_79_r6l31 befragen / und im fahl es sich muhtwillig geäussert hätte / da=
+#facs_79_r6l32 Rstlich sollen die Schulen auf den
+#facs_79_r6l33 Rauffnet werde.
+#facs_79_r6l34 Zu dem end sollen die Schulmeister / in denen zeit /
+#facs_79_r6l35 selbe in gebühr züchtigen/ hätten aber die Elteren dasselbe an
+#facs_79_r6l36 Gland / in allen Kilchhörmen / an den bey
+#facs_79_r6l37 und stunden / weil die Schul waͤhrt / sich der Schulstube.
+#facs_79_r6l38 halten / sollen dieselben sich vor ihrem Vorstehnder der=
+#facs_79_r6l39 quemsten orten angestellt werden / dam
+#facs_79_r6l40 licht aüsseren und anderen geschäfften nachgehen / wie oft=
+#facs_79_r6l41 über verantworten / welcher dann gegen denenselben zuwe-
+#facs_79_r6l42 Vnd die Kinder von den umligenden Dörffern
+#facs_79_r6l43 nals beschicht / sondern bey den Schulkinderen stäts ver=
+#facs_79_r6l44 fahren wüssen wird / wie hernach folget / wann er an ihre en
+#facs_79_r6l45 Eund Höfen selbige desto besser besucht
+#facs_79_r6l46 bleiben / und fleissige aufsicht auf dieselben haben
+#facs_79_r6l47 schuldigung nicht kommen könte.
+#facs_79_r6l48 Sie sollen auch kein tag ohne erlaubnuß des Vorste
+#facs_79_r6l49 Degen könnind
+#facs_79_r6l50 Es sollen auch neben den Chorrichtern und de=
+#facs_79_r6l51 Demnach sollen die Gmeinden dahin trachten / daß si=
+#facs_79_r6l52 hers / so er nach bey der stell / aussert der Schul bleiben / no¬
+#facs_79_r6l53 Schulmeister / etliche under den besten Knaben / zu Auff
+#facs_79_r6l54 wo möglich / eygene Schulhäuser haben / kauffen
+#facs_79_r6l55 heren bestellt werden / damit fleissig achtung geben werd
+#facs_79_r6l56 bauen/ oder wanns nicht in ihrem vermögen/ Hauser dar-
+#facs_79_r6l57 sich aüssere
+#facs_79_r6l58 Was dann ihre belohnung antrifft/ sollen die Gemein
+#facs_79_r6l59 auf die / welche sich in der Kirchen und Schul ungebühr
+#facs_79_r6l60 um den zinß empfahen / auf daß die Schulen ohne hinde
+#facs_79_r6l61 ben dahin sehen / daß ihnen ihr bestimter Lohn eingehänd=
+#facs_79_r6l62 nuß können gehalten werden.
+#facs_79_r6l63 et werde / und so jemand darum saumselig wäre / soll der
+#facs_79_r6l64 verhalten.
+#facs_79_r6l65 Auß der Schul soll kein Lehrkind erlediget und frey ge=
+#facs_79_r6l66 Der anfang der Schulen / was die jungen und klein
+#facs_79_r6l67 selbe von dem Chorgricht oder Fürgesetzten / zu seiner schul=
+#facs_79_r6l68 sen werden / biß es die Fundament der wahren Religion
+#facs_79_r6l69 Kinder betrift / soll seyn auf Gallen=Tag / und der außge=
+#facs_79_r6l70 digkeit angehalten werden / damit die Schulmeister nebe
+#facs_79_r6l71 en ersten Aprilis. Die andern aber / so etwas stärker un=
+#facs_79_r6l72 wiesie uns in den Catechismis angewisen / erlehrnt / es sey
+#facs_79_r6l73 ter grossen muͤhe / nicht noch darzu vil verdruß / und an
+#facs_79_r6l74 sse / und zum feldbau nohtwendig gebraucht werden.
+#facs_79_r6l75 dann sach / daß auß mangel der Gaben / solches nicht an=
+#facs_79_r6l76 und unkosten bey einziehung ihres Soldes / haben müssen
+#facs_79_r6l77 sollen den ersten Novembris anfangen / und etwas früh=
+#facs_79_r6l78 schehen könte / welches ein jeder treuer Diener Gottes
+#facs_79_r6l79 im fahl aber des einten oder anderen Besoldung zu gerin
+#facs_79_r6l80 erlassen / inzwüschen zu desto grösserm fleiß angehalten werden
+#facs_79_r6l81 anderscheyden wol wussen wird.
+#facs_79_r6l82 wäre/ soll dieselbe ihnen verbessert werden
+#facs_79_r6l83 Ob gleichwol die Verständigen und Erwachsenen der=
+#facs_79_r6l84 den. Weilen aber die beschaffenheit der feldarbeit und
+#facs_79_r6l85 ann dann auch das Holtz ein stuck des Schulms
+#facs_79_r6l86 orts ungleich / kan nach derselbigen die zeit des anfangs un=
+#facs_79_r6l87 Schulen halben erlediget werden / so sollen sie dannoch in
+#facs_79_r6l88 kers Wohnung ist / als soll ein jede Gemeind verschaffen
+#facs_79_r6l89 des außgangs der Schulen eingezihlet und außgestrech
+#facs_79_r6l90 den Kinderlehren zu antworten / und das Gesang in der
+#facs_79_r6l91 daß deselbe nach nothdurft / darmit versehen werde.
+#facs_79_r6l92 werden / nach dem es der Amtsmann und Vorsteher der
+#facs_79_r6l93 als sie
+#facs_79_r6l94 Kirchen zu besuchen verpflichtet seyn. Und damit das Ge=
+#facs_79_r6l95 Die Eltern sollen ihre Kinder beyzeiten / und so
+#facs_79_r6l96 orts nohtwendig erachten werden. Fahls es sich thun
+#facs_79_r6l97 sang desto glücklicher fortgehe / sollen sie es zuvor in der
+#facs_79_r6l98 huit
+#facs_79_r6l99 etwas sissen können / in die Schul schicken / und den
+#facs_79_r6l100 ußt/ und an denen orten es seyn kan/ und bereits einge
+#facs_79_r6l101 Schifen/ oder an einem andern darzu bequemen ort / m
+#facs_79_r6l102 meisterselbs / mit beschreibung ihrer natur / an
+#facs_79_r6l103 führt / sollen die Schulen das gantze Jahr durch von
+#facs_79_r6l104 sie herum saumselig solten erfunden werden / sollen die
+#facs_79_r6l105 anderen probieren.
+#facs_79_r6l106 auch vollendung der zeit sollen auch die Examina, mit
+#facs_79_r6l107 miiert werden.
+#facs_79_r6l108 en gewalt haben sie darzu anzuhalten.
+#facs_79_r6l109 Die Gemeinden sollen die Schulmeister nicht eygen=
+#facs_79_r6l110 zuthun der Amtleuhten / da es seyn kan / Predicanten um
+#facs_79_r6l111 Anne und nothdürftige Eltern / die ihren Kinder
+#facs_79_r6l112 walt's und willens annemmen und bestellen / sondern in
+#facs_79_r6l113 Eltesten / in der Schul gehalten / (oder wann es die gelegen
+#facs_79_r6l114 nicht vermögen Bücher zukauffen / auch in der zeit / da sie
+#facs_79_r6l115 begärenden personen für die Amtleuht und Vorsteher
+#facs_79_r6l116 heit gibt / in der Kirchen / vor der offentlichen Gemein=
+#facs_79_r6l117 die Schul gehen / nahrung und kleider darzureichen / soll
+#facs_79_r6l118 Kirchen / als ihre Fürgesetzten / denen solche annemmun-
+#facs_79_r6l119 angestellt werden / der meynung / daß es ohn der Oberk
+#facs_79_r6l120 die Amtsleuht und Vorsteher / um raht und hilf ersuchen.
+#facs_79_r6l121 zusteht / weisen / sich vor ihnen zu stellen
+#facs_79_r6l122 noch der Gemeind kosten beschehen / und zu dem end fürg
+#facs_79_r6l123 welche dann allen möglichsten fleiß anwenden sollen / wie ihre
+#facs_79_r6l124 Zum Schuldienst sollen Gottsförchtige / Gott=unter
+#facs_79_r6l125 kommen werden solle / wann der Amtsmann etwan and-
+#facs_79_r6l126 nen auß gemeiner steur möchte geholffen werden/ weil oh
+#facs_79_r6l127 Jugendliebende personen/ und die von natur geneigt in
+#facs_79_r6l128 das ein jede Gemeind ihre Armen erhalten soll / dann die
+#facs_79_r6l129 er geschäfften halb sich an denen orten einfinden mu=
+#facs_79_r6l130 tugenlich zur underweisung der Jugend / erwehlt und best
+#facs_79_r6l131 Armen auß mangel der nahrung von der Christlichen und
+#facs_79_r6l132 Wann darzu die Gemeinden den fleissigen Kinden en
+#facs_79_r6l133 get werden/ nach dem sie ihrer tüchtigkeit halben / durch er
+#facs_79_r6l134 Gab außtheilen lassen wollen / selbige darmit desto meh
+#facs_79_r6l135 derweisung nicht hinderhalten werden.
+#facs_79_r6l136 vorgehendes Examen auf die prob werden gesetzt worden
+#facs_79_r6l137 Die Schulkinder dann/ sollen Gott von hertzen förch.
+#facs_79_r6l138 aufzumunteren / ist ihnen dasselbige freygestellt / und möge
+#facs_79_r6l139 ten / ihne einbrünstig anruffen / sonderlich auch in Schu=
+#facs_79_r6l140 sie zu dem end nach mittlen trachten / gleich andern / die so
+#facs_79_r6l141 Die Schulmeister / sollen vor allen dingen / ihre
+#facs_79_r6l142 len Gott um den beystand des Heiligen Geistes bitten
+#facs_79_r6l143 ches schon loblich eingeführt haben.
+#facs_79_r6l144 Schulkinden ein gut exempel vortragen/ die Kinder flei=
+#facs_79_r6l145 Die erwachsenen sollen in der Kirchen fleissig auf Ge=
+#facs_79_r6l146 Damit nun dise Ordnung und Gesatz desto besser be=
+#facs_79_r6l147 ig / verständtlich und außdruckenlich lehren hätten / lesen
+#facs_79_r6l148 tes Wort achtung geben / damit sie hernach ihren Fürgesen
+#facs_79_r6l149 trachirt werden / so sollen alle Vorsteher ihre pflicht fleiss
+#facs_79_r6l150 und zuvor/ zum ersten/ nicht das geschribne / sondern das ge=
+#facs_79_r6l151 ten / wo sie befragt wurden / auß der Predig / was sie behal
+#facs_79_r6l152 in acht nennen / und die Schulen alle wochen auf das wir
+#facs_79_r6l153 druckte in dem Psalmenbuch / Testament und Bibel / an
+#facs_79_r6l154 ten / sagen können / und sollen sich gegen ihren Fürgesetzte
+#facs_79_r6l155 nigst ein mal/ so sie in ihrem Dorf ist / im fahl aber ausse=
+#facs_79_r6l156 laß sie bey zeiten zu dem H. Wort Gottes gewehnt werden /
+#facs_79_r6l157 erbietig und demühtig erzeigen / der Lehrmeistern Le=
+#facs_79_r6l158 halb / alle 14. tag / so weit möglich / und die abgelegenh=
+#facs_79_r6l159 darnach die grössern im Catechisimo und Underricht / geiren
+#facs_79_r6l160 und Straf / mit gebürlichem gehorsam underwerffen /
+#facs_79_r6l161 und vile der Schulen zulaßt / visitieren / und so einiger ma=
+#facs_79_r6l162 lich und erweisen / und zum schreiben fleissig anhalten.
+#facs_79_r6l163 ehrliche Leuht / weder mit worten noch wercken beleidige
+#facs_79_r6l164 zel an den Elteren so ihre Kinder nicht fleissig in die Schip
+#facs_79_r6l165 Sie sollen auch gewalt haben / und von den Elteren nicht
+#facs_79_r6l166 er antasten / und sich also verhalten / wie sichs frommen
+#facs_79_r6l167 halten und versaumen / oder an den Lehrmeistern un=
+#facs_79_r6l168 verhindert werden / die Jugend / wo vonnöhten / mit Ruh
+#facs_79_r6l169 und züchtigen Schulkinderen geztemt.
+#facs_79_r6l170 Schultindern verspührt wurde / sollen sie die einten un=
+#facs_79_r6l171 zu züchtigen / und das mit fürsichtigkeit und bescheyden
+#facs_79_r6l172 Die Schulen sollen sie morgens und nachmittag / zum
+#facs_79_r6l173 andern erstlich wahrnen / hernach weiters nach gestalt die
+#facs_79_r6l174 heit / so aber einer in der Straf überfahren wurde / der s=
+#facs_79_r6l175 bestimten zeit besuchen / und sich bey dem Gebätt und Ge=
+#facs_79_r6l176 verbrechens an seinen ort / es seye an dem Chorgricht
+#facs_79_r6l177 den Fürgesetzten verleidet und nach gebür gestraft werden
+#facs_79_r6l178 sang einfinden/ und die zeit wol anwenden / weil sie kurtz / un
+#facs_79_r6l179 oder auch Capitel anbringen / auf daß endlich durch An=
+#facs_79_r6l180 Es sollen auch die Lehrmeister sich beyzeiten in der
+#facs_79_r6l181 die Schulen mehrentheils nur den winter durch währer
+#facs_79_r6l182 horitet und Ansehen der hohen Oberkeit dem übel geweh=
+#facs_79_r6l183 Schul begeben / da dann die Stunden / wann sie anfangen
+#facs_79_r6l184 und söllend die Elteren sie darzu fleissig anhalten
+#facs_79_r6l185 und aufhören sollen / ein jeder Vorsteher / nach beschaffen
+#facs_79_r6l186 werd.
+#facs_79_r6l187 Wann ein Schulkind außbleiben wurde / soll der
+#facs_79_r6l188 heit des orts / bestimmen soll / und die Morgenstund mit
+#facs_79_r6l189 Gebätt und Psalmen=singen anheben / und sonderlich zu
+#facs_79_r6l190 Disen nach wollend wir alle Amtleuhte / Vorstehnder der Gemeinden / Schulmeister und übrige so es ansicht / hiemit ernst=vätterlich ver=
+#facs_79_r6l191 mahnt haben / obbeschribener Regul / so vil dieselbe einen jeden berührt / nach beschaffenheit des orts / fleissigest nachzukommen / und fahls die
+#facs_79_r6l192 einte oder andere Vorstehnder der Gemeind / die heilsame Erkantnuß Gottes / is seye durch Sonner Schulen und wochentliche Repétitionen
+#facs_79_r6l193 oder auf ein andere manier zu äuffnen sich getrauet / werdend wir dasselbe zu höchstem gefallen aufneuen / der hoffnung / wann dises alles durch
+#facs_79_r6l194 gehnds werde geübt werden / daß dardurch die Ehr des Allerhöchsten Gottes / und der Kindern Heil und Seligkeit werbe befurdert / wie an
+#facs_79_r6l195 vil abgöttische und abergläubische Greuel / darzu vil wegen ihrer groben unerkantnuß verführet werden / abgeschafft und neue Lehrer
+#facs_79_r6l196 hindelhalten werden. Darzu dann der Allerhöchste GOtt und Vatter unsers Herren JEsu Christi sein Gnad und Segen, Vätterlich mit
+#facs_79_r6l197 theilen wolle / Amen. Actum 14. Augusti 167
+#facs_79_r6l198 Ce nouvelle.
+#facs_79_r6l199 5
+#facs_79_r6l200 37
+#facs_79_r6l201 de l'honneur en avec la
+#facs_80_r2l1 deburon
+#facs_80_r2l2 fabrique
+#facs_80_r2l3 rtne
+#facs_80_r2l4 t qui n
+#facs_80_r2l5 Lantell
+#facs_80_r2l6 Viennen
+#facs_80_r2l7 hastim
+#facs_80_r2l8 poser
+#facs_80_r2l9 Bien en
+#facs_80_r2l10 mation
+#facs_80_r2l11 icy specie
+#facs_80_r2l12 come and
+#facs_80_r2l13 a la mode
+#facs_80_r2l14 inutile
+#facs_80_r2l15 en temps
+#facs_80_r3l1 Rautres Chastiments plus greifs.
+#facs_80_r3l2 nons en cas de besoin: Et seront
+#facs_80_r3l3 Virront partageés en quattre
+#facs_80_r3l4 seura appartenir à nous,
+#facs_80_r3l5 fils la troisiesme au Consistoire
+#facs_80_r3l6 au Realateur. faict et passé
+#facs_80_r3l7 20. de Juillet. 1675
+#facs_80_r5l1 An Alle T. Ambtleüth.
+#facs_80_r5l2 frey Weibel und Äman
+#facs_80_r5l3 Ihnen die neüwe Schul-ordnung zuschicken
+#facs_80_r5l4 Schuldtheiss und Raht der Stadt Berre.
+#facs_80_r5l5 -
+#facs_80_r5l6 Die weil die nögtwendigkeit es ernorderet hat, habend
+#facs_80_r5l7 -
+#facs_80_r5l8 Wie eine durchgehende Ordnung der Schulen vnsers
+#facs_80_r5l9 Teütschen Landtsauffsetzen, vnd in Cruck verfertigen
+#facs_80_r5l10 aßen, Wie du auß den Beilagen zu ersechen hast,
+#facs_80_r5l11 fecht wir die hirmit überschickend, mit dem beneue
+#facs_80_r5l12 c
+#facs_80_r5l13 reißige hand obzuhalten, vnd vnsere Kirchen- vndt
+#facs_80_r5l14 Schul-ordnung diener in deiner Ambtsnernaltung
+#facs_80_r5l15 dahin anzumahnen, daß Sie derselben getreüwlich
+#facs_80_r5l16 nachkomend, zu welchem und nit allein du für Dich
+#facs_80_r5l17 ein Exemplar nenden, sondern auch einem Jeden
+#facs_80_r5l18 Prndicanten und Lehrmeister eins zustellen soet
+#facs_80_r5l19 der meinung, daß ein Jeder es seinem Successoren
+#facs_80_r5l20 hinderlaßen, vnd keiner daßelbe in sich wegnem
+#facs_80_r5l21 julle, oder befahren. Datum 14. Augusti 1675.

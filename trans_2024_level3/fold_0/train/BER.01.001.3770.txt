@@ -1,0 +1,78 @@
+Law ID: BER.01.001.3770
+Name: Wegen Bezahlung der Invalides Pensionen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 67/67
+# High similarity (>=50%): 64
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_246_r1l1 481
+#facs_246_r1l2 Ain
+#facs_246_r1l3 Nachfolgende Amtleuth, Lausanne, Erlandson,
+#facs_246_r1l4 Laupen Saauen Trachsell, ald Köniz Milden, April,
+#facs_246_r1l5 Vivis Neulow durgdorff, Isterten aubonne,
+#facs_246_r1l6 Mörser Mürten, thun, zollig koffen
+#facs_246_r1l7 Büren Romainmotier zley sinnen
+#facs_246_r1l8 Bipp Sumiswald Wibliffurg, Wildisten
+#facs_246_r1l9 sefftigen
+#facs_246_r1l10 Lenzburg Königsfelden, legen bezahlung
+#facs_246_r1l11 Invalider
+#facs_246_r1l12 pensions
+#facs_246_r1l13 Schultheis und Last
+#facs_246_r1l14 Weilen Ihr Excellenz der Französische Herr
+#facs_246_r1l15 Collate
+#facs_246_r1l16 Amdassador in Solothurn Urpiethig, und
+#facs_246_r1l17 Billens, denen in Französischen Diensten veraltet
+#facs_246_r1l18 und verbundeten, auch deß entlegen, und
+#facs_246_r1l19 Königl. Spiltase des Invalides Eingeschribene
+#facs_246_r1l20 soldaten, die Pension vidermahlen außzeichte
+#facs_246_r1l21 auch verlangt daß diesere Ihnen Schuldige Gelter
+#facs_246_r1l22 entwaders in Personen oder durch gnugsamme
+#facs_246_r1l23 Procurierte, auch fahls die Eint oder anderen
+#facs_246_r1l24 abgestorben und Ihnen die fälligen Bensionen
+#facs_246_r1l25 annoch gebühren Thäten dero hinterlaßenen Erben,
+#facs_246_r1l26 solche Erheben und sich da nmb angeben mögen.
+#facs_246_r2l1 ierung des
+#facs_246_r2l2 Jedennoch also, wann Sie annoch bey Leben, Ihnen
+#facs_246_r2l3 von Unseren Ambtleüthen Lebens-scheinen
+#facs_246_r2l4 ertheilet, solche dann in unser Canzley allhier
+#facs_246_r2l5 Legalisiert werden sollind etc. als habend Wir die
+#facs_246_r2l6 hirmith anbefehlen wollen, ein solches nach
+#facs_246_r2l7 ternamseten Persohnen deines Ambts, so unter
+#facs_246_r2l8 dieser Zahl der Invalides würcklich begriffen seyn
+#facs_246_r2l9 möchten. Büßend zu machen, dahin, daß Sie
+#facs_246_r2l10 ton dir mit einem Glaubbürdigen Mandats
+#facs_246_r2l11 Certificat in Französcher Sprach sich verschind
+#facs_246_r2l12 daß Sie noch im Leben und selbe zur legalisation
+#facs_246_r2l13 allhiesiger Canzley eingeben, umb nachbehets
+#facs_246_r2l14 Ihre Pensionen in Slothurn Erheben zu können.
+#facs_246_r2l15 Wann aber ich gestorbene waren, so von disem
+#facs_246_r2l16 Jahr annoch etlas zu fordern hätten, wirst du
+#facs_246_r2l17 Ihren Erben Einen Todtenschein auch in Franz.
+#facs_246_r2l18 Sprach, zu stellen laßen, unter Deinem Sigel
+#facs_246_r2l19 darinnen vermeldet, welche Zeith, Tag, Pahr,
+#facs_246_r2l20 und wo Sie das zeitle gesegnet solchen auch zur
+#facs_246_r2l21 Legalisation allhiesiger Cantzley eingeben laßen.
+#facs_246_r2l22 damit solchem nach neben Originaliter
+#facs_246_r2l23 zu eintgebung deß zu Paris tehaltenen
+#facs_247_r2l1 Invalides, Patent sie den Ruckstandt in
+#facs_247_r2l2 Solothurn Erheben laßen mögen.
+#facs_247_r2l3 auf den Zahl aber die Eint oder anderen der
+#facs_247_r2l4 Ways nacher Solothurn gerne zu Erfahrung
+#facs_247_r2l5 umb Cösten enthoben seyn wolten; Ihr
+#facs_247_r2l6 Ihr Excellent der Herr Ambassador anErpiethig,
+#facs_247_r2l7 can Ob Erlaüteiter maßen die Certificat
+#facs_247_r2l8 und darüber verfertigte legalisationen
+#facs_247_r2l9 ten verstorbenen dann, die Invalides Patente
+#facs_247_r2l10 Ihme von Unseren Ambtleuthen schrifftlich werden
+#facs_247_r2l11 Eingesandt werden die Pensionengegen
+#facs_247_r2l12 Formalische Quittanzen, deßen ohngeacht
+#facs_247_r2l13 außzu bezahlen und gefolgenzulaßen.
+#facs_247_r2l14 Daß an du nun nachrichtlich verständiget liest
+#facs_247_r2l15 umb dich in Ansehen jenigen Invalides
+#facs_247_r2l16 deines Ambts darnach richten zu können.
+#facs_247_r2l17 wir Zethun bestens wüßenbiest. Gott mit dir
+#facs_247_r2l18 Datum den 23. Aprilis 1799.

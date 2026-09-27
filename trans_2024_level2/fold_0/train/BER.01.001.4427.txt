@@ -1,0 +1,44 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 36/37
+# High similarity (>=80%): 36
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4427
+#facs_143_r5l13 Aufhebung der angeordneten Einschraubung wegen der
+#facs_143_r5l11 Die Herren Amtleut zu Wiblisburg, Pesterlingen, Isterter
+#facs_143_r5l12 St. Johansen, Erlach und Nydau, denen Grandson
+#facs_143_r5l13 Aufhebung der angeordneten Einschraubung wegen der
+#facs_143_r5l14 Schiffahrt auf dem Neuenburger See.
+#facs_3_region_1628102473141_41l_3 Schultheiß und Rahts
+#facs_143_r5l16 Da die Zeit Umstände, welche uns gemeinsamlich mit
+#facs_143_r5l17 Lobl. Stand Fryburg im Novembl. 1771. veranlaßet.
+#facs_143_r5l18 unter anderem zu verordnen, daß einerseits an
+#facs_143_r5l19 dem dißeitigen Uster des Neuenburger Sees von
+#facs_143_r5l20 Cheyres jusqu'à la Sange, äußert denen damahls
+#facs_143_r5l21 bestimten 6 Orten, kein Schiff anländen, und
+#facs_143_r5l22 inderseits von diesen bestimten 6 Orten kein
+#facs_143_r5l23 Schiff vor 7. Uhr des Morgens, und nach 5. Ufr. deß
+#facs_144_r1l1 278.
+#facs_144_r2l1 Abends, Abfahren solle u in etwas sich gebeßert.
+#facs_144_r2l2 So haben Wir (da die zu gleicher Zeit bestellte
+#facs_144_r2l3 Patrouilles von uns bereits sub 30ten April 1772. ab
+#facs_144_r2l4 gestellt worden) auch diese, die Schiffahrt auf dem
+#facs_144_r2l5 Neuenburger See so nahmhaft beschwährende Einschrei¬
+#facs_144_r2l6 tung annirt wider auf zu heben gut befunden, wel¬
+#facs_144_r2l7 ches Ihr zu mänglichs Nachricht kentlich verlesen
+#facs_144_r2l8 und dabey verkünden laßen werdet, daß für
+#facs_144_r2l9 Einmahl die Ausfuhr des Getreids, Brodt und Mehls
+#facs_144_r2l10 aus hiesigen Landen in das Neuenburgische aus¬
+#facs_144_r2l11 anderswohin äußert Lands, noch allezeit unter
+#facs_144_r2l12 der, in der sub 15ten Janl. 1773. ausgegebenen HochObrig
+#facs_144_r2l13 beitlichen Verordnung ausgesezten Confiscation
+#facs_144_r2l14 und Büßmänigl. Verbocken, und die Neuenbür¬
+#facs_144_r2l15 gische Angehörige dahin eingezichlet bleiben, das Beny¬
+#facs_144_r2l16 tigte Getreyd zu ihrem Hausbrauch, nach der ihnen
+#facs_144_r2l18 sub 13ten Augl. 1773. vergönnten Bewilligung auf vorbei¬
+#facs_144_r2l19 sende Certificats mit bescheidenheit in Unseren
+#facs_144_r2l20 Landen auf denen öffentlichen Märiten zu Erlag
+#facs_144_r2l21 und Rydau einzubauffen. Dat. d. 1ten Aug. 1774.
+#facs_24_region_1628255397587_277l11 en

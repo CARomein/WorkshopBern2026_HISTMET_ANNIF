@@ -1,0 +1,100 @@
+BER.01.001.2782
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 91/91
+# High similarity (>=50%): 88
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_314_r2l16 4 Signauw, Arwangen, Erlach; auch auch sein Inventa
+#facs_314_r2l17 denen der von deinem Vorfahren dir übergebnen obenckl.
+#facs_314_r2l18 gewehren Munition undt Hauswahts.
+#facs_314_r2l19 q Sumißwald: auch ein Exacte Verzeichnuß des
+#facs_314_r2l20 Oberkeitl. Hausrasto.
+#facs_314_r3l1 Burgdorff
+#facs_314_r3l2 Montags den 3. Aprilis.
+#facs_314_r3l3 Brandiß
+#facs_314_r3l4 Krienisperg,
+#facs_314_r3l5 Zinstag den 4. Aprilis
+#facs_314_r3l6 Signauw
+#facs_314_r3l7 Bären
+#facs_314_r3l8 Arberg Mittwuchen d. 5. April.
+#facs_314_r3l9 Landtohutt
+#facs_314_r3l10 Sonstag den 6. Apr.
+#facs_314_r3l11 Fraubrunnen
+#facs_314_r3l12 Thorberg.
+#facs_314_r3l13 Freytag den 7. dito.
+#facs_314_r3l14 Laupen
+#facs_314_r3l15 Buchsee
+#facs_314_r3l16 Sambstag den 8. dito.
+#facs_314_r3l17 Nydauw
+#facs_314_r3l18 Thun. Mittwuchens d. 19. dito.
+#facs_314_r3l19 Lentzburg
+#facs_314_r3l20 Bipp Sonstag den 20. dito.
+#facs_314_r3l21 St. Johansen
+#facs_314_r3l22 Freytags den 21. dito.
+#facs_314_r3l23 Arwangen)
+#facs_314_r3l24 Schenkenberg
+#facs_314_r3l25 Sambstag den 22. dito.
+#facs_314_r3l26 Arburg
+#facs_314_r3l27 Sumißwald. Frytag den 5. May
+#facs_315_r1l1 Zweysimmen
+#facs_315_r1l2 Sambstag den 6. May
+#facs_315_r1l3 Saanen
+#facs_315_r1l4 Interlacken
+#facs_315_r1l5 Ahlen Montag den 8. dito.
+#facs_315_r1l6 Wangen
+#facs_315_r1l7 Gottstaten Zinstag den 9. dito.
+#facs_315_r1l8 Erlach
+#facs_315_r1l9 vndersten Mittwuchen den 10. dito.
+#facs_315_r1l10 rutigen,
+#facs_315_r1l11 Trachselwald.
+#facs_315_r1l12 Wimmis
+#facs_315_r1l13 Erylage den 12. dito.
+#facs_315_r1l14 Oberhooffen
+#facs_315_r1l15 1
+#facs_315_r1l16 Köngefelden
+#facs_315_r1l17 Sambstag den 13. dito.
+#facs_315_r1l18 Zoffingen
+#facs_315_r1l19 Riberstein
+#facs_315_r1l20 Montago den 15. dito.
+#facs_315_r3l1 1613.
+#facs_315_r3l2 An alle T. undt W. Ambtleüts, 4 Stätt, frey¬
+#facs_315_r3l3 weibel undt Amman.
+#facs_315_r3l4 Ein Bätteljegi. Rff den 6. Marty die andere Vff
+#facs_315_r3l5 d. 25. April: beyder nechstkünfftig auß schreiben.
+#facs_315_r3l6 Schultheiß und Rast etc.
+#facs_315_r3l7 Collatl. Bey gegenwürtigen Zeithen habend Wir höchst nöhtig funden
+#facs_315_r3l8 of
+#facs_315_r3l9 Die monatlichen bätte Geginen zu erfrischen, undt hiemit
+#facs_315_r3l10 auff den 6 Marty nechstkunfftig die Einte, undt den 25.
+#facs_315_r3l11 Aprilis darauff die andere anzusetzen, mit befelchen
+#facs_315_r3l12 zich, gleich anderen Ambtleüthen, solche in Deinem Ambts=
+#facs_315_r3l13 bezirck also anzustellen, daß nach Vnseremdutent undt
+#facs_315_r3l14 Der Ordnung Iines selbige eingerichtet seye, undt Wir so
+#facs_315_r3l15 wohl als dis gantze Land den effect in erleichterung und
+#facs_315_r3l16 entladung als vmbher streichenden Vnnützen undt gfähr=
+#facs_315_r3l17 lichen Frömbden bättelgsinde undt außgerißnen
+#facs_315_r3l18 Soldaten Vermahlen eins gespühren mögend Dat. 22. Feb. 1702.
+#facs_315_r3l19 Sollothurn, Lucern, Fryburg, Neüwenburg, Gub¬
+#facs_315_r3l20 undt Fürstl. Raht.
+#facs_315_r3l21 Wegen obgesetzter Bättelzegen
+#facs_315_r3l22 Schultheiß undt Raht
+#facs_315_r3l23 Inser
+#facs_315_r3l24 Seith einer Zeith daher habend wir beobachtet daß aller
+#facs_315_r3l25 hand unnützer bättel undt strolch gesind sich in Unser
+#facs_316_r2l1 Stätt und Landen einschleiken thüye; derohalben
+#facs_316_r2l2 Wir uns entschloßen zwey algemeine bättel jegenen
+#facs_316_r2l3 Die Einte vff d. 6. Marty, die andere aber Vff den 20 Apr.
+#facs_316_r2l4 anstellen undt außschreiben zelaßen. Eüch unseren
+#facs_316_r2l5 G. L. E. M. undt H. gleich gegen Vnseren G.L. E undt respe
+#facs_316_r2l6 Aive verbürgerten Herr Statt Lucern, Freyburg,
+#facs_316_r2l7 Neüwenburg, undt Biel auch beschicht, deßen mit dem
+#facs_316_r2l8 fründtlichen ansuchen verständigende, damit Ihr hinder
+#facs_316_r2l9 Euch zu obgedeüten tagen ein gleiches ohnbeschwärt zerr:
+#facs_316_r2l10 anstalten geruhen woltet; undt gleichwie Wir an
+#facs_316_r2l11 sothaner Willfahr keinen Zweiffel tragen, alß habens
+#facs_316_r2l12 Wir Eüch vnsere U. L. E. M. undt Brüeder sambt Uns
+#facs_316_r2l13 Göttlichem Machtschutz wohl Erlaßen wollen. Dat. &
+#facs_316_r2l14 22 februarij 1702

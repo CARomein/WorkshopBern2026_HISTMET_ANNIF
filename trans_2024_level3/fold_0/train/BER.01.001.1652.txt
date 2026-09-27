@@ -1,0 +1,162 @@
+Law ID: BER.01.001.1652
+Name: Wider frömde Werbung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 151/151
+# High similarity (>=50%): 135
+# Low similarity (<50%): 16
+# Not found: 0
+#
+#facs_360_r1l1 Vierlich 23.5.
+#facs_360_r1l2 bat.
+#facs_360_r1l3 Maß nach
+#facs_360_r1l4 15¾
+#facs_360_r3l1 so wir Stattthun sind Saltzweser.
+#facs_360_r3l2 Mr Christen Vieri.
+#facs_360_r3l3 Jacob Lohner
+#facs_360_r3l4 Janns Moser
+#facs_360_r3l5 Abraham Kurtz.
+#facs_360_r3l6 Jacob Jbachs so: Erben
+#facs_360_r3l7 Hannes Bols v. Erben
+#facs_360_r3l8 Die alte Tischmacherin
+#facs_360_r3l9 Da sol fürohin verkaufft werden den vierling
+#facs_360_r3l10 Solz vmb 23. ½. bat. vnnd das Mest vmb
+#facs_360_r3l11 15¾ 6h.
+#facs_360_r3l12 Neuwer Preis des Holtzes
+#facs_360_r3l13 Dwa
+#facs_360_r3l14 Samuel Schöpf
+#facs_360_r3l15 Jacob Ruprach
+#facs_360_r3l16 Adam Haap
+#facs_360_r3l17 Vierlig umb 22. 1/2 b.
+#facs_360_r3l18 Frl. Anna Duerthen
+#facs_360_r3l19 Mäßemb. 15. 3. 4.
+#facs_360_r3l20 Abraham Dick
+#facs_360_r3l21 Jacob Wirk
+#facs_360_r3l22 Maria Schor
+#facs_360_r3l23 Landtgericht Conolfingl
+#facs_360_r3l24 Bendicht Hiltbrandt zu Münsing
+#facs_360_r3l25 Hamp Waathardt zu dießbach
+#facs_360_r3l26 Vli Dietrich zu großen Höchstetzen
+#facs_360_r3l27 Christino Schärlig zu Wallring
+#facs_360_r3l28 Hannß Zeiler zu Storb
+#facs_360_r4l1 Landlyricht Saffingen
+#facs_360_r4l2 Vendicht Brünig zu Burgistain
+#facs_360_r4l3 Wisselin
+#facs_360_r4l4 2623 1/2 h. Lannst Ruffener zu Vlumeinsten
+#facs_360_r4l5 äß. 15.¾. b
+#facs_360_r4l6 Hannß Weniger zu Rigg: spreg.
+#facs_360_r4l7 Anthoni Zimmerman. Zu Hertzen sei
+#facs_360_r4l8 Landtgricht Sternenberg.
+#facs_360_r4l9 Anna Dietrich zu Mauß
+#facs_360_r4l10 König 21
+#facs_360_r4l11 Eerbeth Stöcklin zu Ferenbaln
+#facs_360_r4l12 daß 14 fl. Bandicht Juncker zu Nüwernegg
+#facs_360_r4l13 Landtyricht Zollig koffen
+#facs_360_r4l14 fürlig. 21. H. Ulli Esman zu Mülisi.
+#facs_360_r4l15 andten Irigen Erichtl.
+#facs_360_r4l16 a. 14. r
+#facs_360_r4l17 Fruting
+#facs_360_r4l18 vierlig 24. 7. x
+#facs_360_r4l19 mäs.
+#facs_360_r4l20 -- 16.7
+#facs_360_r4l21 Sanen
+#facs_360_r4l22 Burgdorf
+#facs_360_r4l23 Mäß. 14.
+#facs_360_r4l24 Trachstelwaldt.
+#facs_360_r4l25 Landt Mäß
+#facs_360_r4l26 hutweil
+#facs_360_r4l27 .
+#facs_360_r4l28 Languau v.
+#facs_360_r4l29 Affoltern Mäß.
+#facs_360_r4l30 14.1
+#facs_360_r4l31 Jougnon V. Mäß.
+#facs_360_r4l32 16
+#facs_360_r5l1 1707.
+#facs_360_r5l2 Thun
+#facs_360_r5l3 bl
+#facs_360_r5l4 Vierlig
+#facs_360_r5l5 - - 23.2.
+#facs_360_r5l6 Maß
+#facs_360_r5l7 --15
+#facs_360_r5l8 Winns.
+#facs_360_r5l9 vierlig
+#facs_360_r5l10 Mäß. 16.
+#facs_360_r5l11 Interlaken
+#facs_360_r5l12 Vierling
+#facs_360_r5l13 aß.
+#facs_360_r5l14 ennu
+#facs_360_r5l15 vnd ersonden auch also
+#facs_360_r5l16 Oberhafli.
+#facs_360_r5l17 Vierlig
+#facs_360_r5l18 Mäß.
+#facs_360_r5l19 - - - 10
+#facs_360_r5l20 gestehet sich nur vom Burg
+#facs_360_r5l21 Salz dis lütsch halb bleibt
+#facs_360_r5l22 es beim bisharigen preist.
+#facs_360_r5l23 Signament
+#facs_360_r5l24 1° Bowijl
+#facs_360_r5l25 Vierling.
+#facs_360_r5l26 23.2
+#facs_360_r5l27 Mäß. 15. 7/4.
+#facs_360_r5l28 Im Eggierie
+#facs_360_r5l29 Vierling - 24. bC.
+#facs_360_r5l30 Maß. 16. bl.
+#facs_360_r5l31 ist batz.
+#facs_360_r5l32 Murtin
+#facs_360_r5l33 Mäs. —
+#facs_360_r5l34 14 b
+#facs_360_r5l35 Briblispurgen mäß. - 16. R
+#facs_361_r2l1 Murten
+#facs_361_r2l2 Mäs. —
+#facs_361_r2l3 -
+#facs_361_r2l4 -14.
+#facs_361_r2l5 Wiblispurg deßen Bericht, alle das Sache an
+#facs_361_r2l6 Briblispurger Maß. 16. visitieren, vnd verzeichnuß herschickt
+#facs_361_r2l7 ut pr
+#facs_361_r2l8 Peterung. Consul daselbst all das Salz etc. Vierling vmb
+#facs_361_r2l9 und per Maß umb ein bat zwölfriier geben werden, Oeconomus
+#facs_361_r2l10 1
+#facs_361_r2l11 1/2
+#facs_361_r2l12 soll das Salz visitieren, und verzeichnust herschicken
+#facs_361_r2l13 Lauppen
+#facs_361_r2l14 Vierling 21. 6 s.
+#facs_361_r2l15 Mäs. 14. bC.
+#facs_361_r2l16 Schwertzenburg
+#facs_361_r2l17 Dierling. -- - - 22. - R
+#facs_361_r2l18 Mäs. -
+#facs_361_r2l19 15. 4.
+#facs_361_r2l20 Erlach
+#facs_361_r2l21 mäß.
+#facs_361_r2l22 14. bl.
+#facs_361_r2l23 Nydauw
+#facs_361_r2l24 Mäß. auch also
+#facs_361_r2l25 Arberg.
+#facs_361_r2l26 Mäß.
+#facs_361_r2l27 -
+#facs_361_r2l28 13.9.
+#facs_361_r2l29 schürz
+#facs_361_r2l30 Mäß. -
+#facs_361_r2l31 14.
+#facs_361_r2l32 Bipp
+#facs_361_r2l33 Weing. Mäs. Auch vmb 14 rt.
+#facs_361_r2l34 Ouvang
+#facs_361_r3l1 1703.
+#facs_361_r3l2 An die vnder Ergeüwischen Ambtleüht, vnd
+#facs_361_r3l3 Vier Stett. weider Främde Werbung
+#facs_361_r3l4 Schuld theis vnd Raht etc. Demnach bei dem verwilligeten dißmali
+#facs_361_r3l5 Volck vffbruch für die Durchleuchts: Herrschaft Venedig, die Beisor
+#facs_361_r3l6 fürgefallen, Es möchten von vnseren vnderthanen etliche sich vnder
+#facs_361_r3l7 die zürichischen Haubtleüht werde, und vffdien laßen, zur stellung
+#facs_361_r3l8 vnd nachteil hiesiger Obristen und Haubtleüt geerbung, habend
+#facs_361_r3l9 wir zu nohtwendiger verhüetung desselben, dir hiemit befeld
+#facs_361_r3l10 wollen, Inne deiner Verwaltung desto beßere fürstig vnnd
+#facs_361_r3l11 ett. sicht halten Zelagen, Als das solche bestell- vnd Theuserum
+#facs_361_r3l12 ruser vnderthanen keines wegs fütgenamen noch gestate
+#facs_361_r3l13 Sondere, die Jenig, so solcher fremden werbung sich Anmaßen
+#facs_361_r3l14 welten, vnsere, vie selbigen rßgangenen Mandaten vnd ver¬
+#facs_361_r3l15 potei gemäß abgehalte, werdind, vnd vnsere selbteigne
+#facs_361_r3l16 Haublerüht zu frey vorhabenden werbung gelang
+#facs_361_r3l17 mögend. Wie wir uns zuglir ist sehen, datum
+#facs_361_r3l18 17. Marty 1658.

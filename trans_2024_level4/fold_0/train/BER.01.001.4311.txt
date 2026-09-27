@@ -1,0 +1,102 @@
+Law ID: BER.01.001.4311
+Name: Vorsorg wegen denen auf benachbahrte eidgnössische Bergen zur Besazung treibenden hierländischen Kühen und Kalbeten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 91/91
+# High similarity (>=50%): 90
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_102_r3l20 Signalement
+#facs_102_r4l1 Muteilest
+#facs_102_r4l2 pag. 198.
+#facs_102_r4l3 Coll
+#facs_102_r5l1 193
+#facs_102_r5l2 An
+#facs_102_r5l3 die Herren Amtleuth zu Lenzburg, Arburg, Erbangen,
+#facs_102_r5l4 Wangen, Lipp, Burgdorff, Thorberg, Signau, Trapel
+#facs_102_r5l5 wald, Sumiswald, Thun, Saanen, Unterseen, Interlate
+#facs_102_r5l6 Oberhaßlee, Nydau, Erlach und Büren, Item Zofingen
+#facs_102_r5l7 und Arau Civ.
+#facs_102_r5l8 Vorsorg wegen denen auf benachbahrte Eidgnößische Bergen
+#facs_102_r5l9 zur Besatzung treibenden hierländischen Kuhen und Kalbe
+#facs_102_r5l10 Schultheiß und Raht
+#facs_102_r5l11 Indehme bey anrübender Bergfahrt, allerhand
+#facs_102_r5l12 Kühe in unseren Landen zu besazung der Benach¬
+#facs_102_r5l13 bahrten Eidgnößischen Hergen aufgesuchet werden,
+#facs_102_r5l14 und dabey zu besorgen, daß unter diserem
+#facs_102_r5l15 Vorwand der Verbodene Verkauf dergleichen
+#facs_102_r5l16 Waar Faculitiert werden könte, wo nicht wegen
+#facs_102_r5l17 wider Zurubführung dieser Kühen, nach geendeten
+#facs_102_r5l18 Bergfahrt, die erforderlichen madreglen ergriffen
+#facs_102_r5l19 werden. Wie nun Wir die Eindingung und
+#facs_102_r5l20 Ausfuhr der Kühen zum Besatz der Luiernischen
+#facs_102_r5l21 Bergen, zwar nicht hemmen wollen; So haben
+#facs_102_r5l22 Wir dabey verordnet, daß bein stuk weder
+#facs_102_r5l23 Ruhe noch kalbeten dahin abgeführt werden
+#facs_102_r5l24 möge, es seye dann sach, daß solche vor Ersten
+#facs_102_r5l25 dem bestelten Inspectoren, oder wo deren
+#facs_103_r2l1 keine wären, einem vorgesezten des Orts vor¬
+#facs_103_r2l2 gezeiget, jedes stuk dann nach ausweis deßberg.
+#facs_103_r2l3 Reglements, mit Alter, Farb und genau verzeich¬
+#facs_103_r2l4 net, so dann nach geendeter Sömmerung, in jeder
+#facs_103_r2l5 Dorfschafft, da solche gehörig, widermahlen auf
+#facs_103_r2l6 das sorgfältigste Controlliert werden sollen,
+#facs_103_r2l7 Inmaßen Unser will, daß beedes bey der
+#facs_103_r2l8 abfahrt und rukkaufft, Euch dergleichen ver¬
+#facs_103_r2l9 zeichnußen übergeben werden sollen, damit
+#facs_103_r2l10 diese unter diesem Vorwand Vych ausführet
+#facs_103_r2l11 und anderwärtig verkauffen wurden, zu gemeß
+#facs_103_r2l12 sener Bestraffung angehalten werden können.
+#facs_103_r2l13 Wie dann Ihr auch die Fehlbahren und wider¬
+#facs_103_r2l14 handlenden nach Inhalt Unser sub 22t Marty
+#facs_103_r2l15 diß Jahrs, der Ausfuhr der Kühen halb,
+#facs_103_r2l16 ausgegangenen Verordnung bestraffen werden
+#facs_103_r2l17 Wobey aber die etwann darauf gegangenen
+#facs_103_r2l18 und verrekten Stuk nicht begriffen seyn.
+#facs_103_r2l19 sollen, in so sehr nämlichen dergleichen Unglut
+#facs_103_r2l20 durch glaubwürdige Scheinen werden erprobe=
+#facs_103_r2l21 und bescheinet werden. Dat. d. 10ten May 1771.
+#facs_103_r4l1 195
+#facs_103_r4l2 An
+#facs_103_r4l3 Alle Teutsche Herren Amtleut, 4. Stäck, Freyweibel,
+#facs_103_r4l4 und Ammann, Item per Jedel an hiesige Canzel und
+#facs_103_r4l5 beym Äußeren Kranken Haus.
+#facs_103_r4l6 Ihnen die von Lobl. Stand Zürich ausgegangene prolonga¬
+#facs_103_r4l7 tion des Verborts wegen Ausfuhr des Hornvychs, wie
+#facs_103_r4l8 auch die Verordnung wegen Veräußerung der Kühen
+#facs_103_r4l9 und Kalbeten kund thun
+#facs_103_r4l10 Schultheis und Raht P.
+#facs_103_r4l11 Lobl. Stand zürich hat dero Verbot wegen ausfuhr¬
+#facs_103_r4l12 des HornVschs, frischer Dingen, und biß auf Ersten
+#facs_103_r4l13 Septl. wider bestätiget, und prolongiert, dabey dann.
+#facs_103_r4l14 auch verordnet, daß die Ausfuhr aller Kühen
+#facs_103_r4l15 und Kalbeten in desen Landen, gänzlichen
+#facs_103_r4l16 verbocken seyn solle. Damit nun Mänglich
+#facs_103_r4l17 darnach sich richten möge, haben Wir solches —
+#facs_103_r4l18 offentlich von Canzlen verlesen zu lasen gut
+#facs_103_r4l19 befunden, wie dann Ihr solches ehebaldest disem
+#facs_103_r4l20 nach zu erfüllen, bestens wüsten werdet.
+#facs_103_r4l21 Dath. den 10t. May 1771.
+#facs_104_r3l1 An
+#facs_104_r3l2 Alle Teütsch und Welsche Herren Amtleut, 4.
+#facs_104_r3l3 Stätt, dreyweibel und Ammann, denn perJedel
+#facs_104_r3l4 an hiesige Canzel
+#facs_104_r3l5 Ihnen kund thun, daß Lobl. Stand Solothurn gleich
+#facs_104_r3l6 Meghl. eine Verordnung wegen Veraüßerung des
+#facs_104_r3l7 Horn Vychs, Kühen und Kalbeten ausgehen laßen
+#facs_104_r3l8 Schultheiß und Raht
+#facs_104_r3l9 Es hat Lobl. Stand Solothurn unterm 10. d.
+#facs_104_r3l10 Uns einberichtet, welcher gestalten derselbe,
+#facs_104_r3l11 gleich unterm 1t. diß Monats von Ungstl.
+#facs_104_r3l12 und Oberen beschehen, den freyen Anbauf
+#facs_104_r3l13 alles HornVychs auf gleichem Märit, auf
+#facs_104_r3l14 Ein oder höchstens zwey Stub eingeschränket,
+#facs_104_r3l15 den Anbauf aller Kühen und Kalbeten aber
+#facs_104_r3l16 gänzlichen Verbotten. Damit nun manigl.
+#facs_104_r3l17 vor Schaden sich hueten könne, wollen Wir
+#facs_104_r3l18 Euch anbefohlen haben, solches zum Verhalt
+#facs_104_r3l19 von der Canzel verbünden zu laßen.
+#facs_104_r3l20 Dath. d. 13. May 1771

@@ -1,0 +1,58 @@
+Law ID: BER.01.001.4953
+Name: Das unschädlich Gfügel, Hoch- undt Rothgwild nit zefachen.
+
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 45/45
+# High similarity (>=80%): 39
+# Low similarity (<80%): 6
+# Not found: 0
+#
+#facs_23_r1l1 40
+#facs_207_r3l1 Colle Nn die welschen Ampt lüth
+#facs_207_r3l2 Das uns schädlich gfügel, hoch und
+#facs_207_r3l3 rottg wild nit zufachen.
+#facs_207_r3l4 Sils v. Wie machen seinen Zwijffel
+#facs_207_r3l5 Du werdest durch unser hievor vßgangen
+#facs_207_r3l6 Mandat gnugsamen Fucht habenn
+#facs_207_r3l7 welchergestalten wir zu vnder schiederlichen
+#facs_207_r3l8 malen zu schutz, undt schinn daß unschäd¬
+#facs_207_r3l9 lichen gfugels, hoch- und prott gewildts,
+#facs_207_r3l10 verpott vßghen lassen undt die unsel
+#facs_207_r3l11 tomanen, und Warnen lassen, dasselbe
+#facs_207_r3l12 mit mit söllichem schwall, wie aber
+#facs_207_r3l13 ettliche Jaar beschechen, zufachen.
+#facs_207_r3l14 sonders dem selben zu schonen, besonders
+#facs_207_r3l15 wan es Im bitt Ist, by zechen
+#facs_207_r3l16 punden bus von den übertretenen
+#facs_207_r3l17 zubezüchen; da wir die Hoffnung ge¬
+#facs_207_r3l18 wesen, man dem selben nach kommen
+#facs_207_r3l19 ver. So wie aber er habend, das abermal
+#facs_207_r3l20 der Innen weder maß noch bescheidenheit
+#facs_207_r3l21 gepucht, sonder alleley unschädlich
+#facs_207_r3l22 gfügel, hoch= undt rott gewild ohne under¬
+#facs_207_r3l23 scheid der zyth gefangen undt hiemit
+#facs_156_r3l2 303
+#facs_23_r1l1 40
+#facs_207_r4l3 das Landt des enthalben gar nösst
+#facs_207_r4l4 wiez: haben wie nit under lasten wöllen
+#facs_207_r4l5 dich und fander Unser Amptlück
+#facs_207_r4l6 vorgenden unser Mandat vidimus
+#facs_207_r4l7 Zuer Innowen, undt dabey zu bevelchen
+#facs_207_r4l8 Sie unsern durch offne Verkündung
+#facs_207_r4l9 Imanen zelassen, sich den selben gleich¬
+#facs_207_r4l10 fönnig zehalten, undt wider den Inhalt
+#facs_207_r4l11 derselben, Insonders aber zu pottien
+#facs_207_r4l12 Ichtten einich unschädlich gfügel hoch¬
+#facs_207_r4l13 noch roth gwild zu jagen, geschießen,
+#facs_207_r4l14 noch zusachen, vff was konn vndt gestelt
+#facs_207_r4l15 gattung das sijn möchte by straff
+#facs_207_r4l16 x. pfunden, die hiemit bevelisende
+#facs_207_r4l17 hienuff eingeflichen uffsechen
+#facs_207_r4l18 gehaben, undt die Übertreffenden ohne
+#facs_207_r4l19 ansechen de personen zestraffenen
+#facs_207_r4l20 daran beschicht vnser will
+#facs_207_r4l21 Dat. 1d Marty 1610

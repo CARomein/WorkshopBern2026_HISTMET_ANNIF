@@ -1,0 +1,23 @@
+Law ID: BER.01.001.4708
+Name: Verbott Schiffe oder Barques aus den Aemtern am Genfer See, an Fremde zu verkauffen.
+
+#facs_104_r3l10 Verbott
+#facs_104_r3l11 Schiffe oder Barques aus den Keitern
+#facs_104_r3l12 am Genfersee, an fremde zu verkauffen.
+#facs_104_r3l13 An
+#facs_104_r3l14 alle dem Genfersee nach gelegene Herren
+#facs_104_r3l15 Amtleute, so da sind Vivis, Lausanne
+#facs_104_r3l16 Morstee, Reuß, item Aelen¬
+#facs_104_r3l17 Schultheiß und Rath etc. Aus Vorwal¬
+#facs_104_r3l18 tenden wichtigen Setrachtungen haben Wir
+#facs_104_r3l19 nöthig befunden zu verbieten daß in den gegen¬
+#facs_104_r3l20 wartigen zeit umständen ins besonders keine
+#facs_104_r3l21 Schiffe oder Barques mehr von Unfern Unter¬
+#facs_104_r3l22 thanen anfremde längs dem Genfersee Verkauft
+#facs_104_r3l23 werden. Wir befehlen Euch diesemnach dieses Unster
+#facs_104_r3l24 Verbott seines Orts behöriger maßen bekant zu
+#facs_104_r3l25 machen, sorgfältig darauf zu achten, das selbigem
+#facs_104_r3l26 nicht zuwieder gehandlet werde, und die fehlbarer
+#facs_104_r3l27 aus zu gebührender Verantwortung anzuzeigen
+#facs_104_r3l28 Geben den 77ten Februarii 1793.
+END

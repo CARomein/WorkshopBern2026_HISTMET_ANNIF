@@ -1,0 +1,74 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 67/67
+# High similarity (>=80%): 62
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_275_r2l4 über 1000 lb.
+#facs_44_region_1628792393936_149l4 In welchem Fall der Abzug abgestellt seyn soll.
+#facs_4_region_1628102585488_60l1 2.
+#facs_44_region_1628792393936_149l2 die Städt zu Arau, Stugg, Lenzburg, Zoffingen,
+#facs_32_region_1628529690996_297l20 Burgdorff,
+#facs_44_region_1628792393936_149l4 In welchem Fall der Abzug abgestellt seyn soll.
+#facs_4_region_1628102603697_72l1 Schultheiß und Raht
+#facs_44_region_1628792401642_152l2 Es haben Ueghl. und Obern geruhet, zum besten
+#facs_44_region_1628792401642_152l3 des Landes, Ihrerseits die Beziehung des¬
+#facs_44_region_1628792401642_152l4 Abzugs abzustellen, so wohl von demjenigen
+#facs_44_region_1628792401642_152l5 gut so künftighin aus hiesiger Haubt Stadt und den
+#facs_4_region_1628102612215_78l1 3.
+#facs_44_region_1628792417850_155l1 Vier Landgrichten an einen anderen Ort in
+#facs_44_region_1628792417850_155l2 dero Gottmäßigkeit an einen Ihrer Untertha¬
+#facs_44_region_1628792417850_155l3 nen übergehen wird, als auch dem Gut, so von
+#facs_44_region_1628792417850_155l4 einem Ort, in dero Teutsch- oder Weltschen
+#facs_44_region_1628792417850_155l5 Landen, an einen anderen Ort, in dero Gebiet
+#facs_44_region_1628792417850_155l6 an einen Ihrer Bürgeren oder Unterthanen
+#facs_44_region_1628792417850_155l7 übergehet; Es seye dann daß dieses gut an
+#facs_44_region_1628792417850_155l8 einen solchen Ort gezogen werde, der selbst den
+#facs_44_region_1628792417850_155l9 Abzug von hiesigen Bürgeren oder Unterthanen
+#facs_44_region_1628792417850_155l10 forderet, und zu forderen das Recht hat; Welchen
+#facs_44_region_1628792417850_155l11 fahls dero Hohe Willen dahin gehet, daß krafft
+#facs_44_region_1628792417850_155l12 GegenRechtens, von einem solchen Ort zu Hoch¬
+#facs_44_region_1628792417850_155l13 deroselben handen der Abzug bezogen werden
+#facs_44_region_1628792417850_155l14 solle, wann einem seiner Bürgeren angleichen
+#facs_44_region_1628792417850_155l15 Ort dero Teutsch = oder Weltschen Landen, gut
+#facs_44_region_1628792417850_155l16 anfallen wird: Von diesem Hoch Entschluß nun
+#facs_44_region_1628792417850_155l17 haben Wir euch die vorläufige Nachricht
+#facs_44_region_1628792417850_155l18 ertheillen, und dabey Eüere Erklärung erwarten
+#facs_44_region_1628792417850_155l19 wollen, Ob auch Ihr Eüerseits gut finden werdet,
+#facs_44_region_1628792417850_155l20 mit unseren gnädigen Herren und Oberen in
+#facs_44_region_1628792417850_155l21 Vorfählen, da gut aus Euerer Stadt an einen
+#facs_44_region_1628792417850_155l22 Unserer Bürgeren oder Unterthanen in der in
+#facs_44_region_1628792417850_155l23 Unserer Haubt Stadt oder einen anderen Ort
+#facs_44_region_1628792417850_155l24 Unserer Teutsch oder Weltschen Landen übergehet
+#facs_44_region_1628792417850_155l25 in gleiche Abzugs Freiheit einzutrecken, oder aber
+#facs_45_region_1628792502618_166l_1 80./
+#facs_45_region_1628792519702_175l_1 Ob Ihr für beßer erachtet, Eüere Abzugs¬
+#facs_45_region_1628792519702_175l_2 Gerechtigkeit noch ferners gegen hiesige Burgere
+#facs_45_region_1628792519702_175l_3 oder Unterthanen auszuüben, und mithin
+#facs_45_region_1628792519702_175l_4 nach dem Gegenrechten Euere Burgere dem
+#facs_45_region_1628792519702_175l_5 Recht des Abzugs für das Ihnen obvermelter
+#facs_45_region_1628792519702_175l_6 maßen in hiesigen Haubt Stadt oder übrigen
+#facs_45_region_1628792519702_175l_7 Unserer Gnädigen Herren Teutsch- oder Welschen
+#facs_45_region_1628792519702_175l_8 Landen anfallende Gut zu unterwerfen, damit
+#facs_45_region_1628792519702_175l_9 wo dieses leztere wäre, die Ausnahm Eüerer
+#facs_45_region_1628792519702_175l_10 Statt von der durchgängigen Regul zum Ver¬
+#facs_45_region_1628792519702_175l_11 halt Unserer Amtleüten der dißorts zum Trub¬
+#facs_45_region_1628792519702_175l_12 zu beförderenden Hoch obrigkeitlicher Verordnun¬
+#facs_45_region_1628792519702_175l_13 eingerubt werden könne.
+#facs_45_region_1628792519702_175l_14 Worbey Wir uns nochmahls deutlich erklä¬
+#facs_45_region_1628792519702_175l_15 ren, daß diese Anfrag zu einer einzuführenden
+#facs_45_region_1628792519702_175l_16 Gegenseitigen Abzugs = Freyheit, nur das Gut
+#facs_45_region_1628792519702_175l_17 ansehen soll, welches im Land von einem Ort,
+#facs_45_region_1628792519702_175l_18 an den anderen, und an einen Bürger oder
+#facs_45_region_1628792519702_175l_19 Unterthanen deß Staats übergehen wird, und
+#facs_45_region_1628792519702_175l_20 keines wegs berühren soll das Gut, welches aus
+#facs_45_region_1628792519702_175l_21 Euerer Stadt an Außere und Benachbahrte Ort
+#facs_45_region_1628792519702_175l_22 gehen, oder ausseren und fremden welche
+#facs_45_region_1628792519702_175l_23 nicht hiesige Bürgere und Underthanen sind, im
+#facs_305_r5l20 desselben, gebührt dem Richter
+#facs_295_r7l13 get werden in Ansehen der Zügen; da
+#facs_45_region_1628792527424_178l_1 Ihr bey Eüerem völligen Rechten den Abzug,
+#facs_45_region_1628792527424_178l_2 oder die Nachsteur zu beziehen verbleiben
+#facs_45_region_1628792527424_178l_3 burdet. Dat. den 22ten April 1774.
+#facs_24_region_1628255397587_277l11 en

@@ -1,0 +1,67 @@
+Law ID: BER.01.001.4690
+Name: Getreideverkauf und Ergänzung des Vorraths im Deütschen Land.
+
+#facs_23_r4l2 1. Getreid verkauf
+#facs_23_r4l3 und Erganzung des Vorraths im deütschen Land¬
+#facs_23_r4l4 An
+#facs_23_r4l5 alle deütsche Herren Aitleüt und Schafner
+#facs_23_r4l6 da obrigkeitlich Getreid ligt.
+#facs_23_r4l7 Schultheis räth und Turger etc.
+#facs_23_r4l8 Auf angehörten Vortrag unserer für¬
+#facs_23_r4l9 geliebten Miträthen der Herren dentch
+#facs_23_r4l10 Sekelmeister und Senneren und Änferen
+#facs_23_r4l11 wohlverordneten Korn kammer, über
+#facs_23_r4l12 die nach abzug der ordinari und quase
+#facs_23_r4l13 ordinari aus gaben zum Verkauf übrig
+#facs_23_r4l14 bleibenden ersten Helfte des Getreids
+#facs_23_r4l15 haben wir zu erkennen gutbefunden
+#facs_23_r4l16 befehlen Euch hiermit: Von nun an
+#facs_23_r4l17 allen vorschießenden Kernen und Rogger,
+#facs_23_r4l18 die erste Helfte der Winterhauchten
+#facs_23_r4l19 als, diekel, Weyzen und Mischelvorn,
+#facs_23_r4l20 und die Helfte stamtlichen Sommerfauchten
+#facs_23_r4l21 zu kleinen Kauffen unter den üblichen
+#facs_23_r4l22 reservaten, jedoch also abstoßen und
+#facs_23_r4l23 verkauffen zu lasen, daß dieser
+#facs_23_r4l24 Berkauf
+#facs_24_r3l1 Verkauf sich bis 14 May erstreben
+#facs_24_r3l2 und gleich eingetheilt werden solle.
+#facs_24_r3l3 an Aelen, Königsfelden, und
+#facs_24_r3l4 wangen ins besöndere:
+#facs_24_r3l5 Und da in Euerem Amt an den
+#facs_24_r3l6 oberkeitlich bestimmten enwandel¬
+#facs_24_r3l7 baren Kriegs Vorrath sich ein deficient
+#facs_24_r3l8 /Aelen
+#facs_24_r3l9 
+#facs_24_r3l10 von 63 Mutt Weizen vorfindet,
+#facs_24_r3l11 so denen in dasigen Gegenden gestan¬
+#facs_24_r3l12 denen Truppen geliefert worden;
+#facs_24_r3l13 s:Königsfelden:
+#facs_24_r3l14 von 80 Mutt Haber vorhindet, welcher
+#facs_24_r3l15 wegen abgestoßnem Roggen in Haber
+#facs_24_r3l16 ersezt werden soll
+#facs_24_r3l17 
+#facs_24_r3l18 :Wangen:/
+#facs_24_r3l19 von 330 Mutt Haber vorfindet, welcher
+#facs_24_r3l20 wegen abgestosenem Roggen in
+#facs_24_r3l21 Haber ersezt werden soll
+#facs_24_r3l22 Soist unser Obille und Befelch, daß
+#facs_24_r3l23 von dem allda zum Verkauf befind¬
+#facs_24_r3l24 lichen Betreid.
+#facs_24_r3l25 Celen:
+#facs_24_r4l1 41
+#facs_24_r4l2 s Aelen:/
+#facs_24_r4l3 der im Vorrath manglende Weÿzen
+#facs_24_r4l4 ganz aufgeschüttet werde
+#facs_24_r4l5 
+#facs_24_r4l6 /Königsfelden und Wangen:/
+#facs_24_r4l7 so viel aufgeschüttet und zu soviel möge
+#facs_24_r4l8 licher Ergänzung der Helfte des manglende
+#facs_24_r4l9 Borraths verwendet werde
+#facs_24_r4l10 als nöthig seÿe wird
+#facs_24_r4l11 deßen Ihr zum
+#facs_24_r4l12 verhalt berichtet werdet
+#facs_24_r4l13 
+#facs_24_r4l14 Datum den
+#facs_24_r4l15 I Aprilis 1792.
+END

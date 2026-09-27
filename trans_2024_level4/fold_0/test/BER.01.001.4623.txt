@@ -1,0 +1,128 @@
+Law ID: BER.01.001.4623
+Name: Den Getreidverkauf anbefohlen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 117/117
+# High similarity (>=50%): 109
+# Low similarity (<50%): 8
+# Not found: 0
+#
+#facs_193_r2l11 Loos Ordnung
+#facs_193_r2l12 der abzuhaltenden Prob=Predigten
+#facs_193_r2l13 für die verledigte französische Helferstelle
+#facs_193_r2l14 in hiesiger Hauptstadt.
+#facs_193_r2l15 O den 1ten Brachmonat 1788.
+#facs_193_r2l16 Herr
+#facs_193_r2l17 Joam: J. Gabriel Pichard, Impositionaire
+#facs_193_r2l18 Nachm. L. Aug. Curtat, Juffragant à Bern,
+#facs_193_r2l19 0 den 8ten Brachmonat
+#facs_193_r2l20 Vormitt. J. Maurice Frossard, Diacere a Oron
+#facs_193_r2l21 Nachm. C. Morin, Principal et son diacre a Veite
+#facs_193_r2l22 C:
+#facs_193_r2l23 den
+#facs_193_r2l24 Den 15ten Brachmonat.
+#facs_193_r2l25 Vorm. Louis R. G. Piccard, Parteur à Deuxpr
+#facs_193_r2l26 Nachm. J. Dan. Benj. Gindroz, Regent a
+#facs_193_r2l27 Den 22ten - Brachmonat
+#facs_193_r2l28 Vorm.
+#facs_193_r2l29 Le Nos Impositionaire,
+#facs_193_r2l30 Nachm. J. P. L. Ricou, Impositionaire.
+#facs_193_r4l1 381
+#facs_193_r4l2 Den 29.ten Brachmonat.
+#facs_193_r4l3 Jean David Secretan, Impositionaire
+#facs_193_r4l4 Vorm.
+#facs_193_r4l5 Jean George Taylor, Pasteur à Roche,
+#facs_193_r4l6 Nachm.
+#facs_193_r4l7 Au
+#facs_193_r4l8 alle deutsche und belsche Herren
+#facs_193_r4l9 Amtleut und Schaffner da Obrig¬
+#facs_193_r4l10 keitliches Betrein liegt
+#facs_193_r4l11 Den Betreidverkauf anbefohlen,
+#facs_193_r4l12 Schultheis Räth und Bürger c.
+#facs_193_r4l13 Da Wir unterm 14ten Merz lezthin
+#facs_193_r4l14 Euch Unseren Willen und Befehl dahin
+#facs_193_r4l15 wöffnet.
+#facs_193_r4l16 für das deutsche Land
+#facs_193_r4l17 Das nach Abzug des Vorraths und der
+#facs_193_r4l18 Ordinari und Quasi - Ordinari Ausgaben
+#facs_193_r4l19 aller vorschießende Kernen und Roggen
+#facs_193_r4l20 die Helfte des Dimbels, Wäyzen und Mischel¬
+#facs_193_r4l21 Korn, und die helfte der Sommer Päuchten
+#facs_193_r4l22 zu kleinen Käufen verstilberet werden
+#facs_193_r4l23 für das helsche Land:
+#facs_193_r4l24 tollen-
+#facs_193_r4l25 daß aller Roggen, und die Helfte der, über
+#facs_193_r4l26 den Vorrath aus, und die ordinari und quasi
+#facs_193_r4l27 ordinari vorschießenden, sobohl Sommer als Winter
+#facs_193_r4l28 Früchten abgestoßen werden sollen.
+#facs_193_r4l29 An
+#facs_194_r3l1 An sämtliche Herren Amtleut.
+#facs_194_r3l2 Also haben wir permalen nötig erachtet,
+#facs_194_r3l3 Euch andurch anzubefehlen, die zweyte
+#facs_194_r3l4 Helfte gleichfalls zu kleinen Käufen
+#facs_194_r3l5 hinzugeben, diesen Verkauf aber auf
+#facs_194_r3l6 die zwey bis zur Ernd vorstehenden
+#facs_194_r3l7 Monate gleich einzutheilen
+#facs_194_r3l8 Zesen ihr zum Verhalt berichtet
+#facs_194_r3l9 Datum den 28.
+#facs_194_r3l10 berdet
+#facs_194_r3l11 May 1788.
+#facs_194_r3l12 Degen N. N. Kocher des
+#facs_194_r3l13 Großbeibels Sohn zu Rüren
+#facs_194_r3l14 so in der Aar ertrunken.
+#facs_194_r3l15 A
+#facs_194_r3l16 die Herren Amtleute zu Wangen
+#facs_194_r3l17 Aarhangen, Sipp, Aarburg, Dibersten
+#facs_194_r3l18 Lenzburg, Wildenstein, und Brugg
+#facs_194_r3l19 Schultheis und Rath etc.
+#facs_194_r3l20 Der Sohn Unsers Angehörigen
+#facs_194_r3l21 des Großbeibel Kochers von deren
+#facs_194_r3l22 ist vor ein paar Tagen unglüklicher
+#facs_194_r3l23 Weise in der Aar ertrunken, er bar
+#facs_194_r3l24 19
+#facs_194_r4l1 183.
+#facs_194_r4l2 19. Jahr alt, bey 5. Schuh 6. Zoll hoch
+#facs_194_r4l3 nlich besezter Statur, heitere Kopfhaar,
+#facs_194_r4l4 so er in einem Cadogan getragen, und
+#facs_194_r4l5 wäre ganz nakend als er ertrank
+#facs_194_r4l6 Sollte nun der Todten Cörper in
+#facs_194_r4l7 füerem Amt /: Bezirk :/ gefunden werden,
+#facs_194_r4l8 so tragen wir Euch befelchlich auf, solchen
+#facs_194_r4l9 auf dem nächsten gelegenen Kirchhof ehr¬
+#facs_194_r4l10 lich beerdigen zu laßen; dessen dann
+#facs_194_r4l11 Unseren Amtsmann zu Büren, zu handen
+#facs_194_r4l12 der betrübten Elteren alsbald zu berichten,
+#facs_194_r4l13 da dann selbiger die ergangene Kösten
+#facs_194_r4l14 abführen borden.
+#facs_194_r4l15 Datum den 28ten May 1788.
+#facs_194_r4l16 An
+#facs_194_r4l17 alle an das Bucheggberg und Solothurn
+#facs_194_r4l18 grenzende Herren Amtleute, als
+#facs_194_r4l19 Büren, Fraubrunnen, Landshut,
+#facs_194_r4l20 Wangen, Aarhangen, Ripp, Aärberg,
+#facs_194_r4l21 Aarburg, Burgdorf, Thorberg und
+#facs_194_r4l22 Riberstein; denne die Freybeibel¬
+#facs_194_r4l23 zu Hindelbank und Seedorf.
+#facs_194_r4l24 Verbachtung der Verordnung bege¬
+#facs_194_r4l25 Ehetagen, Henräth und Mittelverabfolgung
+#facs_194_r4l26 Schultheis und Rath c.
+#facs_194_r4l27 Da Wir schon öfters Anlaß gehabt
+#facs_195_r3l1 zu bemerken, daß Unsere Verordnungen
+#facs_195_r3l2 begen Ehetagen, Heurath, und Mitte
+#facs_195_r3l3 Verabfolgung von hiesigen Angehörigen
+#facs_195_r3l4 an solothurnische Angehörige, besonde¬
+#facs_195_r3l5 der Euch auch zugesendte Vertrag vom
+#facs_195_r3l6 7. - Juny 1753. mehr oder einiger
+#facs_195_r3l7 aus der Licht gelaßen worden;
+#facs_195_r3l8 so haben Wir nöthig befunden, Euch
+#facs_195_r3l9 zu sicherer Verbachtung derselben
+#facs_195_r3l10 aufzutragen, in Zukunft in derley
+#facs_195_r3l11 einschlagenden Fällen, in Eüerein
+#facs_195_r3l12 beyfügenden Amtlichen Bericht allzeit
+#facs_195_r3l13 derselben Erwähnung zu thun.
+#facs_195_r3l14 Welches Ihr seines Orts nachrichtlich
+#facs_195_r3l15 einzuschreiben befelchnet berdet.
+#facs_195_r3l16 dei
+#facs_195_r3l17 Datum den 19. - May 1788.

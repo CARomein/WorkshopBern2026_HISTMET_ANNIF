@@ -1,0 +1,868 @@
+Law ID: BER.01.001.4100
+Name: Sie zu Besorg der Feürsprizen an mahnen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 857/857
+# High similarity (>=50%): 753
+# Low similarity (<50%): 104
+# Not found: 0
+#
+#facs_150_r3l15 Signalement
+#facs_150_r3l16 Rudolf Kupfer von hier, ist mittelmasi¬
+#facs_150_r3l17 Collats.
+#facs_150_r3l18 il
+#facs_150_r3l19 ger Wohl in der setzter Statur, starken
+#facs_150_r3l20 Bey 40 Jahren
+#facs_150_r3l21 seinen Schlärzlechten kurhen Haaren
+#facs_150_r3l22 alt.
+#facs_150_r3l23 Klaßen Gesicht Graulechten Augen
+#facs_150_r3l24 tragt ein grauen Pellachigen Rok, blauen
+#facs_150_r3l25 wülligen Veste und Höosen
+#facs_150_r3l26 Sigmund Bruner auch von hier,
+#facs_150_r3l27 2
+#facs_150_r3l28 Gegen 30 Jahr mittelmäßiger Statur, Schwarzen
+#facs_150_r3l29 Haaren, Augen uns Augs brauben
+#facs_150_r3l30 Alt.
+#facs_150_r3l31 mit einem schlechten Grün wälligen
+#facs_150_r3l32 Rittel
+#facs_150_r5l1 pr 8 x
+#facs_151_r1l1 282
+#facs_151_r1l2 Rittel, graue Cameloten Hoofen
+#facs_151_r1l3 hat eine ungleichhaftige beste Physio
+#facs_151_r1l4 nomie
+#facs_151_r1l5 Somall Wagner auch von hier, ist
+#facs_151_r1l6 Auch bey 30 bücher Statur mit beyden starken krum¬
+#facs_151_r1l7 Beinen, Schlächen Augen und
+#facs_151_r1l8 an
+#facs_151_r1l9 daß
+#facs_151_r1l10 Haaren, auch bester Unglüblichen Pro¬
+#facs_151_r1l11 de
+#facs_151_r1l12 nonve, tragt ein schwarz leiniger
+#facs_151_r1l13 Rittel und als für bewilligen Veste
+#facs_151_r1l14 uns Schwach leinigen Hoosen und
+#facs_151_r1l15 Grauen guetres
+#facs_151_r1l16 4. Abraham Veer Ein Tischmacher
+#facs_151_r1l17 cette
+#facs_151_r1l18 Auch bey
+#facs_151_r1l19 von Profession, langlechter statue
+#facs_151_r1l20 30. Jahren
+#facs_151_r1l21 zahl gemacht, schwarzen Haaren
+#facs_151_r1l22 alt
+#facs_151_r1l23 tragt ein Wysgrauen abgetragenen
+#facs_151_r1l24 willigen Rob; uns schlach leinig
+#facs_151_r1l25 foostan
+#facs_151_r1l26 Samuel Rohr von hier ein Mehger
+#facs_151_r1l27 von Procession, mittelmäßiger Sta¬
+#facs_151_r1l28 40 Jahre
+#facs_151_r1l29 tur, tragt eine Perruque, Schwag
+#facs_151_r1l30 frau wollenen Rok, Schlanz wullige
+#facs_151_r1l31 Veste uns schlent Läder Kosten
+#facs_151_r1l32 Anthoni König von hier, auch ein
+#facs_151_r1l33 allih9 50 Jahr. Mesgarten Professor buch von Statuen
+#facs_151_r1l34 Tit
+#facs_151_r1l35 e großen Leibes Schaden
+#facs_151_r1l36 stehbarher
+#facs_151_r2l1 a
+#facs_151_r2l2 bey 30. Jahr
+#facs_151_r2l3 ret
+#facs_151_r2l4 bey 50 Jahr.
+#facs_151_r2l5 act
+#facs_151_r2l6 kere
+#facs_151_r4l1 283
+#facs_151_r4l2 ist schwarzen Augen und Haaren, tragt
+#facs_151_r4l3 Schaaf farbene vuilligen Rob, Veste
+#facs_151_r4l4 uns Höösen, mit zimlich unverständiger
+#facs_151_r4l5 Das
+#facs_151_r4l6 Johannes Küpfer mittelmäßiger
+#facs_151_r4l7 im Wohl undersezter Statur, Schwartz
+#facs_151_r4l8 brauen Haaren, tragt ein halb leiniger
+#facs_151_r4l9 Rob. gestruhletes Brusttuch und Rlau
+#facs_151_r4l10 hrosen
+#facs_151_r4l11 Foelix Zulauff von Langenthal von
+#facs_151_r4l12 ein einer Maus Größe, rohtlechtem
+#facs_151_r4l13 Angesicht, bestenen farben haaren
+#facs_151_r4l14 tragt einen gelbstrichleten baum
+#facs_151_r4l15 wollenen Rittel, wulliges Graulachtes
+#facs_151_r4l16 Comisol uns Hoofen
+#facs_151_r4l17 Mandat
+#facs_151_r4l18 An Alle 7 und W. Amtleuth, 4 Statt Freyler
+#facs_151_r4l19 an
+#facs_151_r4l20 Ansehend die Einführung der blauben Uniform
+#facs_151_r4l21 Schultheiß und Raht P und 8ten April 1724.
+#facs_151_r4l22 Underem 10t Decemb. 1712 habend der aus
+#facs_151_r4l23 gleiten zum heilten und beschich¬
+#facs_151_r4l24 Unsers geliebten Vatterlands abgebende
+#facs_151_r4l25 Ursachen; erkent, uns ohnetlich von Canzle
+#facs_151_r4l26 in Unser
+#facs_151_r4l27 verbunden laßen, daß Niener
+#facs_151_r4l28 und Ob Landen gllich eingesegnet wird,
+#facs_151_r4l29 solle, Er kenne dann einen glaubbürdigen
+#facs_151_r4l30 Schein, von seinem Amtsmann, als vorgen
+#facs_151_r4l31 sehten, wo keine Amtsleuth vorhanden
+#facs_151_r4l32 Beschlag
+#facs_151_r5l1 of the
+#facs_151_r5l2 3s
+#facs_152_r2l1 aufbeisen, daß Er nach der Ordnung, mit
+#facs_152_r2l2 einer guten z bey löstigen flinte, Bajonet
+#facs_152_r2l3 wo man anders Rohrstoßet, Patron Vaschen,
+#facs_152_r2l4 uns dägen verstehen seyen, wie nun Wir
+#facs_152_r2l5 es nochmalen dabey beloenden laßen
+#facs_152_r2l6 6.
+#facs_152_r2l7 uns diesem anoch beyzufuegen gut be¬
+#facs_152_r2l8 funden, daß ein solcher, so sich zuverheu¬
+#facs_152_r2l9 rahten begehret, neben obbemelter Mon
+#facs_152_r2l10 tur, um Debaßnung, mit einer Montag
+#facs_152_r2l11 aler Uneforme, wie in beylagenthalten
+#facs_152_r2l12 ist, anschaffen solle, damit Unsere Man
+#facs_152_r2l13 schafft, auf allen fahl sich wohl befrehrt
+#facs_152_r2l14 uns gleichferung geblindet finden möge,
+#facs_152_r2l15 Maßen dann alle Ehergricht, zu Statt und
+#facs_152_r2l16 Haus, hier durch befelchnet sind, beim
+#facs_152_r2l17 Ehegricht zedel, oder Bewilligungen
+#facs_152_r2l18 lich zu heurechten anders als auf vor,
+#facs_152_r2l19 Beisung dergl. Attestationen, daß Sie ob
+#facs_152_r2l20 erläutermaßen, bebafnet, und geblen
+#facs_152_r2l21 det zu ertheilen, da sonsten unbri¬
+#facs_152_r2l22 gen Fahl Sie sich zu verantworten habe,
+#facs_152_r2l23 würden, Wann man aber Einte und andere
+#facs_152_r2l24 wegen Schlangerschafft, ohngeacht Sie nicht
+#facs_152_r2l25 mit Gebehren und Kleidungen aber länter
+#facs_152_r2l26 vermaßen, versehen Barenchenrahten
+#facs_152_r2l27 laßen müßte, soll ein solcher, so lang
+#facs_152_r2l28 nicht belehrt, und gebleidet ist, von
+#facs_152_r2l29 der Nuzung im Holz und Feld ausgeschlos¬
+#facs_152_r2l30 und dabey nicht befüegt seyn, den ge¬
+#facs_152_r2l31 menden bey zu lohnen, noch zu einem
+#facs_152_r2l32 Amberen
+#facs_152_r3l1 285
+#facs_152_r3l2 Amteren, und Diensten zu gelangen
+#facs_152_r3l3 Also daß Er mir hier zu nicht mag vorgeschla¬
+#facs_152_r3l4 gen werden. Als haben Wir diese Unter¬
+#facs_152_r3l5 Zum besten Unseres geliebten Vatterlands
+#facs_152_r3l6 angesehene Ordnung zu mönigliches verhalt
+#facs_152_r3l7 dißmalen alle Jahr von Nänn jahrs Tag
+#facs_152_r3l8 dahin kund thun laßen, da
+#facs_152_r3l9 mit die jenigen Unser Lieben getreuen
+#facs_152_r3l10 angehörigen, so sich nach obiger Unserer
+#facs_152_r3l11 Verordnung mit uniformes zu versehen,
+#facs_152_r3l12 haben solche Raub unnd nach der verschrift¬
+#facs_152_r3l13 so hiemit gegeben wird geschaffen, denen
+#facs_152_r3l14 lerdet Ihr für bas dieses Mandat alle Jahr
+#facs_152_r3l15 am Neuen Jahrs Tag verbunden laßen,
+#facs_152_r3l16 und den Churrichteren Eüers Amts ernst
+#facs_152_r3l17 gemeint einschärpfen, darob geflißen
+#facs_152_r3l18 zu halten, und solches dann auch seines
+#facs_152_r3l19 Orts einschreiben zu laßen Datum d.
+#facs_152_r3l20 22t. April 1738
+#facs_152_r3l21 Uneforme
+#facs_152_r3l22 der Infanterie deütsicher Landen
+#facs_152_r3l23 1. Der Rob soll seyn von Nordertuch denkel¬
+#facs_152_r3l24 blau, genant bleu de Roy, mit doppelten
+#facs_152_r3l25 weisen, glatten Knopfen, bis an die Cain¬
+#facs_152_r3l26 ture, die Knopfläherblau, das Futer des
+#facs_152_r3l27 Robs, roht, der Kragen deßgleichen,
+#facs_152_r3l28 auch an dem Rob dem Hals nach genahet,
+#facs_152_r3l29 die Auffahläg Raht, beschloßen, gleich lang
+#facs_152_r3l30 als breit, der form, wie an einem reglierten
+#facs_152_r3l31 Kleid, mit drey Knöpfen auswärts, um
+#facs_152_r3l32 Einen bleinen in Berts zu Seiten gegen
+#facs_152_r3l33 den Leib. Die Knopflöcher ohne, damit der Auf
+#facs_152_r3l34 schlag
+#facs_152_r5l1 3
+#facs_152_r6l1 0 f 86 x
+#facs_152_r6l2 a
+#facs_152_r6l3 5f
+#facs_153_r2l1 Aufschlag über den Arm hinwundergelasten
+#facs_153_r2l2 werden kann, der Rob soll wohl hin den ein ander
+#facs_153_r2l3 gehen alles nach dem Modell, so denen Hl.
+#facs_153_r2l4 land Majoren zugestellt worden
+#facs_153_r2l5 a
+#facs_153_r2l6 2o die Veste uns hosen werden vom rohten
+#facs_153_r2l7 Tuch seyn, mit weisen glatten Knöpfen
+#facs_153_r2l8 und rohten Knopflocheren
+#facs_153_r2l9 3° die Hütte mit einem wißen glatten
+#facs_153_r2l10 Bordt-bordiert
+#facs_153_r2l11 4 die Übersprümpft oder Güetres schlartz
+#facs_153_r2l12 L'uniforme
+#facs_153_r2l13 De l'infanterie du Pays de Vaud
+#facs_153_r2l14 L'une forme doil être d'un drap bleude rou
+#facs_153_r2l15 il
+#facs_153_r2l16 2° L'habil sera garni des deux côtes jusqu'a la
+#facs_153_r2l17 seinture avec des boutons blancs et unis, les
+#facs_153_r2l18 boutonieres bleves
+#facs_153_r2l19 3 Les parmens de l'habit de drap rouge, la
+#facs_153_r2l20 façon comme dun habit regle, fermes, dito,
+#facs_153_r2l21 manches en bottes, egalement longes que larges
+#facs_153_r2l22 garnis de quatre boutons, deux en deux, les bois
+#facs_153_r2l23 tonieres ouvertes, afin que le parement puisse
+#facs_153_r2l24 jouvrir, munis pour cela aussi d'un petit bon
+#facs_153_r2l25 ton du Côte du Corps avec la boutoniere ouvert
+#facs_153_r2l26 4 La doublure de lhabit rouge
+#facs_153_r2l27 6 La veste et les culottes bleues come l'habit
+#facs_153_r2l28 de même aussi les boutons et les boutonieres
+#facs_153_r2l29 comme ceux de lhabit.
+#facs_153_r2l30 Ce Chapeau garne d'un terre d'argent
+#facs_153_r2l31 Les guêtres blanches comme du passé.
+#facs_153_r2l32 Am Alle unnd W. Amtleuth
+#facs_153_r2l33 Uns Häuser da Oberleitl. Getreis ligt
+#facs_153_r2l34 Die Helffte daß Überen Vorrecht restiren
+#facs_153_r2l35 der unter Gebüchs, zu verbaufen, ihnen
+#facs_153_r2l36 befehlen.
+#facs_153_r2l37 Schultheiß.
+#facs_153_r6l1 287.
+#facs_153_r6l2 Schultheiß und Räht Uns Burgers
+#facs_153_r6l3 Nachdeme Wir auf widermals Angehörten Vor¬
+#facs_153_r6l4 trag Unserer Furgeliebtl. Miträhten, der
+#facs_153_r6l5 Herren u. und W. bekelmeister und venieren,
+#facs_153_r6l6 der Nohtlendigkeit, und angemeßen zu seyn
+#facs_153_r6l7 befunden, den halben Theil, des über den
+#facs_153_r6l8 vorraht aus noch restierenden, uns vorhandenen
+#facs_153_r6l9 Winter-Getreidts verstilbaren zu laßen: als be¬
+#facs_153_r6l10 fehlen Wir Euch hiemit /: gleich übrigen Unser
+#facs_153_r6l11 Amtleuthen) by Euerer aufhabender pflicht
+#facs_153_r6l12 nach Abzug der gebohnlichen fron fasten Lie¬
+#facs_153_r6l13 auch der Ordinargen und Quasi = Ordinarien¬
+#facs_153_r6l14 tothane Helffte zu verbaufen, und zu steiner
+#facs_153_r6l15 seit, darin Rechnung zu tragen, Mithin hier¬
+#facs_153_r6l16 maler diejenige Praecautionen in Ansehen
+#facs_153_r6l17 der Kleine Käufen, wie auch der Müllere
+#facs_153_r6l18 und Hodleren, zu nemmen, auf dem Fuß, so
+#facs_153_r6l19 Unser Ehevorigezufehle daß mehreren mit
+#facs_153_r6l20 sich bringen: Maßen geschehen werde, wie
+#facs_153_r6l21 Uns zu Euch bestens versehend. Datum
+#facs_153_r6l22 den 24ten febr. 1758
+#facs_153_r6l23 An die gegen Volothärs
+#facs_153_r6l24 benachbahrte Amtlüthe
+#facs_153_r6l25 Die von hier entwichene Spinnstuben-Gäste
+#facs_153_r6l26 Betreffend
+#facs_153_r6l27 Es sind kurz ver¬
+#facs_153_r6l28 Schultheis und Rath etc.
+#facs_153_r6l29 unter Tagen, aus der Spinnstuben allhier entwichen,
+#facs_153_r6l30 Redolf und Johan Küpfer, Anthoni könig und Signi
+#facs_153_r6l31 Enaauel Grüner, befinden sich auch dermahlen alle fier
+#facs_153_r11l1 Aol. 89
+#facs_153_r11l2 a
+#facs_153_r11l3 No
+#facs_154_r1l1 Nota
+#facs_154_r1l2 Coll
+#facs_154_r3l1 In Solothurn; solte nun der eint, so andere
+#facs_154_r3l2 sich in Eüwerem Amt stehen und beleredten
+#facs_154_r3l3 laßen, befehlen Wir Euch nach Anleitung.
+#facs_154_r3l4 eingeschloßenen Signalements die behörige
+#facs_154_r3l5 Achtung zu bestellen, auf endteten die Pursche
+#facs_154_r3l6 anzuhalten, und in Verhafft zu stezen, so dann
+#facs_154_r3l7 Uns deßen, zu genugsammer weiterer Ver¬
+#facs_154_r3l8 ordnung zu berichten. Dat. d. 3. May
+#facs_154_r3l9 1758
+#facs_154_r3l10 Das signalement der Evadierten ist zu
+#facs_154_r3l11 stehen im T. Spruch-Buch sub. Lit. N.N.N
+#facs_154_r3l12 und hievor in diesem Buch pay. 281. et seq:  pag 614.
+#facs_154_r3l13 Mürten und Escherlitz. Sepp.
+#facs_154_r3l14 Ihnen die getrubte Chörgr: Sazung für
+#facs_154_r3l15 -
+#facs_154_r3l16 gemeine Ämter, und das Reglement der Kirchen
+#facs_154_r3l17 Zucht allda, zur Publ. senden
+#facs_154_r3l18 Schultheis und Rath der Stadt Bern etc.
+#facs_154_r3l19 Da in folge Verglichs zwischen Lobl. Stand
+#facs_154_r3l20 Fryburg und Uns de Mayo 1756. die Thorgrich
+#facs_154_r3l21 Sazungen für die gemeinen Ämter Mürten,
+#facs_154_r3l22 Grandson, und die Reformierten daß Amts
+#facs_154_r3l23 Escherlicz in Trub gbracht worden; als wird Euch
+#facs_154_r3l24 hiermit eine güngsamme Anzahl übersendt,
+#facs_154_r3l25 um solche denen Chorgrichten Eübers Amts zur
+#facs_154_r3l26 observanz
+#facs_154_r6l1 Nto
+#facs_154_r6l2 Nota
+#facs_154_r7l1 Observanz zu zustellen, und zu dero beobachung
+#facs_154_r7l2 Hand abzuhalten, deme dann auch beygefüegt wird,
+#facs_154_r7l3 die Verordnung über die Kirchen = Disciplin, deren
+#facs_154_r7l4 so Reformierte Religion, welche Ihr denen geistl.
+#facs_154_r7l5 und Chorgrichten, zu Ihrer Vorschrift in Obrigstl. Nam
+#facs_154_r7l6 ebenfahls einhändigen, und welche auch zur genanwe
+#facs_154_r7l7 Befolgung und Manutention derstelbigen fürohin
+#facs_154_r7l8 allbegen, sonderbar und Eydtlich darzu sollen, vere¬
+#facs_154_r7l9 pflichtet werden: Dat. d. 6. May 1758.
+#facs_154_r7l10 Grandson obidem
+#facs_154_r7l11 Bleichwie mit Nächstem Er der Amtsmann von
+#facs_154_r7l12 Lobl. Stand Fryburg, die neube Chorgricht, Säzung
+#facs_154_r7l13 für die gemeine Ämter erhalten werde; also über
+#facs_154_r7l14 senden Mughhl. Ihme dero Verordnung, über die
+#facs_154_r7l15 Kirchen Disciplin der Reformierten Gemeinden
+#facs_154_r7l16 mit dem Befelch, solche denen geistlichen und Chor¬
+#facs_154_r7l17 gerichten zur Vorschrift in Obrigk. Namen zu zustellen,
+#facs_154_r7l18 Als die den auch Eydtlichen, und sonderbahr, für das
+#facs_154_r7l19 häufftige sollen verpflichtet werden, solche zu observiere
+#facs_154_r7l20 und zu manutenieren. Wie dann auch seines Theils
+#facs_154_r7l21 Er Hand abzuhalten büßen werde p. Datz ut supra.
+#facs_154_r7l22 Was unter gleichem Dato an Löbl. Stand Fryburg
+#facs_154_r7l23 Im T. Miss. B.
+#facs_154_r7l24 begeben worden ist zu sehen.
+#facs_154_r7l25 Die Chorge: Satzung E und W. im Truk aber, wie am
+#facs_154_r7l26 die Ordnungen der Kirchen Zucht in Catenso sind zu
+#facs_154_r7l27 sub finahujus Libri
+#facs_154_r7l28 belesen Sohn Pag:
+#facs_154_r7l29 gedrukt.
+#facs_154_r8l1 and
+#facs_154_r8l2 zu
+#facs_154_r11l1 Fol. 80
+#facs_154_r11l2 _
+#facs_155_r1l1 290
+#facs_155_r1l2 Coll
+#facs_155_r2l1 Reglement
+#facs_155_r2l2 Die Accademie in Lausanne anstehend
+#facs_155_r2l3 Demnach allbereit in Anno 1757 Mgtschl nöthig
+#facs_155_r2l4 erachtet, die näheren Berichten wegen der Lau¬
+#facs_155_r2l5 sannischen accademie einzuziechen zu laßen.
+#facs_155_r2l6 uns zu solchem End zwey Ehren Glieder des hochen
+#facs_155_r2l7 Stands dahin abgeordnet; Haben Hochgedacht Ihr
+#facs_155_r2l8 Endl. über daherige Ihnen erstadtete Relation
+#facs_155_r2l9 und angehörtes Gutachten Metzh: der Curatoren der
+#facs_155_r2l10 Accademie in lausanne de 6e July 1757. in anstehe
+#facs_155_r2l11 Eint- und anderer Punkten, so theils die Accademie
+#facs_155_r2l12 mit einbegriff der underen Schulen, theils aber
+#facs_155_r2l13 das gesamte Ministerium Ihr gudl. Weltscher
+#facs_155_r2l14 Landen anstiecht, und betreffen thut, nach stehendes
+#facs_155_r2l15 annoch, über dasjenige aus, so allbereith von Mhh.
+#facs_155_r2l16 den Curatoren anbefohlen worden, zu verordnen
+#facs_155_r2l17 gut befunden, benantlichen
+#facs_155_r2l18 9. Daß weilen dem Bericht nach, dem Professoren
+#facs_155_r2l19 der Philosophie ohnmöglich fallet, alles dasjenige
+#facs_155_r2l20 zu docieren, so dieser Wüßenschafft anhängig
+#facs_155_r2l21 von nun an, und auf eine probzeit von etwelchen
+#facs_155_r2l22 Jahren ein Professor honorarius in der Mothe¬
+#facs_155_r2l23 Mathic und experimental Physic, zwar ohne einig.
+#facs_155_r2l24 Pension verordnet uns bestellet, der aber in Rath
+#facs_155_r2l25 Sitz, und Stimm, in der Lausanischen Accademie, der
+#facs_155_r2l26 übrigen
+#facs_155_r5l1 Übrigen gleich gehalten werden solle; Nach ver¬
+#facs_155_r5l2 fließung etwelcher Jahren aber, erwarten Ihr gndl.
+#facs_155_r5l3 den ferneren Bericht, von dißöhrtig verhoffenden
+#facs_155_r5l4 Nuzen zu erhalten, um sich deß ferneren entschließen
+#facs_155_r5l5 zu können; Und weilen H. de Traytoreno so in Ano 1757.
+#facs_155_r5l6 allbereith die Imposition erhalten, und mit vielen
+#facs_155_r5l7 zu dieser Wüßenschafft benöthigten Instrumenten
+#facs_155_r5l8 verstehen sich befindet, billig ist, auf obigem Fuß in
+#facs_155_r5l9 der Mathematie und Experimental Pysii, ofentliche
+#facs_155_r5l10 Lectionem zu geben etc. So haben Ihr gudl. denselben
+#facs_155_r5l11 mit zu einem Professoren honorario creiiret, und wollen
+#facs_155_r5l12 daß derselbe alle dieser Stell zu kommenden praroga¬
+#facs_155_r5l13 tiven genoßen, Ihme dan auch in dem Collegio ein Zimmer
+#facs_155_r5l14 Zu Haltung der öffentlichen Lectionen, und Einschließung
+#facs_155_r5l15 so thaner Instrumenten, von nun an angewiesen werde,
+#facs_155_r5l16 solle.
+#facs_155_r5l17 Damit auch das Studium Juris nicht verabsammet,
+#facs_155_r5l18 und hindangesezt werde /: Wie Ihr gud. ein solches der¬
+#facs_155_r5l19 mahlen mißfällig vernemmen müßen /: haben Hoch
+#facs_155_r5l20 ,, dieselben nöthig erachtet, anmit zu Statuieren, daß
+#facs_155_r5l21 in Zukunft alle diejenige, so sich der Advocatur zu
+#facs_155_r5l22 Bidmen gestimmet, ehe und bevor stelbe darzu gelangen,
+#facs_155_r5l23 mögen, seines Ohrts die gebührende Hochoberbeitl.
+#facs_155_r5l24 Freyheit, und patent auswürken, und um solche zu er¬
+#facs_155_r5l25 langen, erweißliche und durch fromliche attestata er¬
+#facs_155_r5l26 zeigen sollen, daß Sie in Lausanne bey all dästige
+#facs_155_r5l27 Professoren
+#facs_155_r7l1 re,
+#facs_155_r7l2 zu
+#facs_155_r7l3 Monsieur le président du présentant du Sr.
+#facs_155_r7l4 tere
+#facs_155_r8l1 they
+#facs_155_r8l2 oum
+#facs_155_r10l1 Fol. 80.
+#facs_155_r10l2 a 3 p.
+#facs_156_r3l1 Professoren Juris einen Cursum Juris natura
+#facs_156_r3l2 et livilis an gehört, uns deßhalben die erforderl.
+#facs_156_r3l3 Examina ausgestanden; sach ware dann, daß stelbe
+#facs_156_r3l4 auf ausseren accademien ein solches praestiret hätte,
+#facs_156_r3l5 und deßen mit oder andere authentische Zeug¬
+#facs_156_r3l6 same vorlegen könten, alles nach mehrerem
+#facs_156_r3l7 Inhalt desjenigen Circular Befelchs, so Ihr gudl.
+#facs_156_r3l8 deßhalb an die H. Amtleuth Weltscher landen, und
+#facs_156_r3l9 dauen, unter heütigem Dato, abgehen laßen.
+#facs_156_r3l10 Damit auch dem Intent Mrgtzhl: gegen fleißiger
+#facs_156_r3l11 Underweisung der Jugend, beßer als bißhiehin;
+#facs_156_r3l12 entsprochen werde, mögen Ihr Gul. wohl zugeben
+#facs_156_r3l13 daß durch Mehhl. W. 2 et T. denen fleißigen Schull
+#facs_156_r3l14 Meisteren, auf gebührendes anmelden, in Lausanne
+#facs_156_r3l15 nachstehende zu gaben jährlichen vergonnt und er¬
+#facs_156_r3l16 theilt werden; als
+#facs_156_r3l17 Dem Bachelier oder ersten Regent 5½ pistoles
+#facs_156_r3l18 dem 2 Regent.
+#facs_156_r3l19 8
+#facs_156_r3l20 Dem 3 Regent
+#facs_156_r3l21 4.
+#facs_156_r3l22 dem 4 Regent
+#facs_156_r3l23 4.
+#facs_156_r3l24 dem 5. Regent.
+#facs_156_r3l25 4/2
+#facs_156_r3l26 und dem 6 Regent.
+#facs_156_r3l27 2
+#facs_156_r3l28 i
+#facs_156_r3l29 22 pistoles
+#facs_156_r3l30 Also in allem Zwey und zwanzig pistole, oder acht.
+#facs_156_r3l31 und achtzig Kronen, termittlest welcher Zugabe
+#facs_156_r3l32 deß Bacheliers Jährl. Pension auf vierzig, der
+#facs_156_r3l33 übrigen 5. Regent aber, jede auf dreyßig pistoll
+#facs_156_r3l34 zu
+#facs_156_r6l1 Zu stehen komen werden. Alles aber in dem heiteren
+#facs_156_r6l2 Verstand, daß Sie die Schulmeistern alljährlichen, mittest
+#facs_156_r6l3 Supplicationen, stich darfür bey Mützhl. W. 2 et T an¬
+#facs_156_r6l4 geben, und solche mit behörigen Attestationen von Mhh.
+#facs_156_r6l5 den Curatoren der Accademie begleiten; damit aber
+#facs_156_r6l6 diesere Metzschl. büßen mögen, ob die Schulmeistern
+#facs_156_r6l7 Ihren pflichten ein genüegen leisten; So soll der Academie
+#facs_156_r6l8 in Lausamme obligen, von Zeit zu Zeit Muhhl den Cu¬
+#facs_156_r6l9 ratoren die behörigen Berichten einzustanden
+#facs_156_r6l10 Damit auch die Jugend drinen mehrers occupiert berdi¬
+#facs_156_r6l11 und mehrere instruction, als bißhin, erhalte, überlaßen
+#facs_156_r6l12 Ihr gud. Muthhl. Curatoren das fernere seines Ehrts
+#facs_156_r6l13 anzubefehlen
+#facs_156_r6l14 Wegen Hohen Alters wollen Mngtz. den H. Meiller,
+#facs_156_r6l15 Regent in der anderen Class, und wegen leibs Schwachheiten
+#facs_156_r6l16 den H. Correvon, Regent in der Sechtsten Clap, dieser
+#facs_156_r6l17 Ihrer Diensten, in Ehren wieder erlaßen uns Ihnen aus
+#facs_156_r6l18 Gud: lebenslangl. den Benoß der Ihren gehabten
+#facs_156_r6l19 Stellen annexierter pensionen vergönne, Muthl. den En¬
+#facs_156_r6l20 ratoren aber überlaßen diejenige zwey subjecta, welche
+#facs_156_r6l21 sie in Absicht haben, und tüächtig erfinden, diese Zwey
+#facs_156_r6l22 Schudiensten zu verstehen, darzu zu bestellen, und zwar
+#facs_156_r6l23 also, daß selbe von nun an daherige Diensten verstehen, ech¬
+#facs_156_r6l24 und aller denselben zu komenden prangativen, äußert in
+#facs_156_r6l25 6
+#facs_156_r7l1 wären
+#facs_156_r7l2 zu
+#facs_156_r7l3 Cet
+#facs_156_r7l4 der
+#facs_156_r7l5 1
+#facs_156_r7l6 3
+#facs_156_r7l7 et de
+#facs_156_r7l8 sey?
+#facs_156_r7l9 sum
+#facs_156_r7l10 e
+#facs_156_r7l11 10
+#facs_156_r8l1 Aolg 80
+#facs_156_r8l2 15
+#facs_157_r3l1 der Pension genooß werden sollen? In
+#facs_157_r3l2 dem Verstand anbey, daß inzwischen uns bis
+#facs_157_r3l3 nach dem Hinscheid dieser erlaßenen Schul¬
+#facs_157_r3l4 dieneren, denen Succedierenden Regent und
+#facs_157_r3l5 war jeglichen alljährlichen aus dem Schloß
+#facs_157_r3l6 Lausane, die Sum von Zwanzig pistoles, oder
+#facs_157_r3l7 80 T. für alles und alles ertheilt werden, nach
+#facs_157_r3l8 H. Meiller und Correvon Hinscheid aber, stadt
+#facs_157_r3l9 dieser 20. pistoles, denselben die gewöhnl. Schulmstr.
+#facs_157_r3l10 Pensionen, zu komen sollen, in Zukunfft aber,
+#facs_157_r3l11 soll die Accademie nach Ihren Pflichten, einen
+#facs_157_r3l12 doppleten Vorschlag von den tüechtigsten subjectio
+#facs_157_r3l13 bey sich ergebenden Vacanzen von dergleichen
+#facs_157_r3l14 Schul, diensten, dem Herrn Amtsman zu Lausanne
+#facs_157_r3l15 eingeben, damit alten Gebrauch nach, derselbe
+#facs_157_r3l16 Eines davon zum Schuldienst beförderen möge
+#facs_157_r3l17 Wann sich auch ergeben, daß die etablierten
+#facs_157_r3l18 so genanten Trimestres, in Lausanne nicht den
+#facs_157_r3l19 verhofften Vortheil geschaffet, allermaßen die
+#facs_157_r3l20 krank gewordene Hh. Pfahr Herren durch solche
+#facs_157_r3l21 mit allezeit wegen der Entfernuß und sonsten
+#facs_157_r3l22 haben können subleviert werden; Einerseaths,
+#facs_157_r3l23 andersteiths dann Ihr gürdl. sich auch erinnert, daß
+#facs_157_r3l24 bals an allen Orthen dero Waltscher landen, die
+#facs_157_r3l25 secondo Pastewio der Ursachen wegen verordnet
+#facs_157_r3l26 borden
+#facs_157_r5l1 worden um denen Pfarrherren Ihrer Classen in
+#facs_157_r5l2 Krankheits, und anderen dergleichen Fählen, die be¬
+#facs_157_r5l3 nöthigte Hülfe zu leisten, solches aber wegen Ihnen
+#facs_157_r5l4 den Seconds Pastuiro aufgebürdeten fixierten Pastoral
+#facs_157_r5l5 Pflichten, wo nicht gänzlich ohnmögl. dennoch schwehr falle.
+#facs_157_r5l6 So haben Ihr Gndl. um ein dißöhrtiges Einstechen zu
+#facs_157_r5l7 Thun, und den eingeschlichenen abusen vorzubiegen, nöthig
+#facs_157_r5l8 erachtet, sich eine Verzeichnuß, aller derjenigen Seconds¬
+#facs_157_r5l9 Pasteurs, eingeben zu laßen, deren etablissement ur¬
+#facs_157_r5l10 sprungl: die Sublevation Ihrer Capitels-brüederen
+#facs_157_r5l11 in Absicht gehabt, um in Vorfallenheiten, und bey sich
+#facs_157_r5l12 Ergebenden Vacanzen, die behörige Remedur verschaffen¬
+#facs_157_r5l13 zu können. In Zwischen aber und bis Mgrgl. intent¬
+#facs_157_r5l14 erfüllt werden kann; wollen Hochgedacht Ihr gudl. daß
+#facs_157_r5l15 in blatz des sogenanten Frimertae, an nachstehenden Ohrten
+#facs_157_r5l16 dero beltschen Landen, tüechtige subjecta, aus der Zahl da
+#facs_157_r5l17 vorhandenen Impositionaires, bestellt werden, um in sie
+#facs_157_r5l18 ergebenden fählen fällen, denen Pfahrherren an Hand gehen
+#facs_157_r5l19 zu können, alß
+#facs_157_r5l20 Sage Plier
+#facs_157_r5l21 4
+#facs_157_r5l22 du Lausanne
+#facs_157_r5l23 vige Ein
+#facs_157_r5l24 in Ahlen
+#facs_157_r5l25 Tage Ein
+#facs_157_r5l26 in Orbe oder Echalens.
+#facs_157_r5l27 sage En
+#facs_157_r5l28 de la guerre,
+#facs_157_r5l29 in Pedtelingen
+#facs_157_r5l30 sage Ein
+#facs_157_r5l31 En
+#facs_157_r5l32 legt
+#facs_157_r5l33 in Milden
+#facs_157_r5l34 1.
+#facs_157_r5l35 2n
+#facs_157_r5l36 in Romainmotier
+#facs_157_r5l37 sag
+#facs_157_r5l38 1.
+#facs_157_r5l39 und in aubone.
+#facs_157_r6l1 s
+#facs_157_r7l1 r,
+#facs_157_r7l2 zu
+#facs_157_r7l3 A
+#facs_157_r7l4 hier
+#facs_157_r7l5 wth
+#facs_157_r7l6 r
+#facs_157_r7l7 sey?
+#facs_157_r7l8 sum
+#facs_157_r8l1 Aolg. 89
+#facs_157_r8l2 L s
+#facs_158_r2l1 Der Meinung und in dem Verstand, daß
+#facs_158_r2l2 4. Von nun an, solche angehalten berden, sich an
+#facs_158_r2l3 die ihnen anbeistende Ohrt zu begeben, und
+#facs_158_r2l4 den Pähe Herren dieser Classen auf erfordere
+#facs_158_r2l5 an die Hand zu gehen
+#facs_158_r2l6 B. Solche bis auf anderwertige Ihr gndl. ver¬
+#facs_158_r2l7 ordnung, oder erhaltende Beförderungen
+#facs_158_r2l8 der Enden, dahin sie verordnet werden ver¬
+#facs_158_r2l9 bleiben um Ihren diß Ohrtigen Pflichten
+#facs_158_r2l10 ein Genuegen leisten zu können, und
+#facs_158_r2l11 6
+#facs_158_r2l12 Sie Sich auch mit der Ihnen von Ihr gndl.
+#facs_158_r2l13 Gommanden jährl. pension benuegen, und weiters
+#facs_158_r2l14 um keine Gratification sich anmelden.
+#facs_158_r2l15 Betreffend aber das jährliche Gehalt, oder Einkommen,
+#facs_158_r2l16 dieser Impositionaireo, haben Ihr gud. ein jeder
+#facs_158_r2l17 derselben auf die Sum der zweyhundert Franken,
+#facs_158_r2l18 oder achtig Bern Cronen gestezet, welches der H.
+#facs_158_r2l19 Amtsman zu Lausanne denenselben entrichten
+#facs_158_r2l20 bird; Mitlest diesen Verordnungen, wollen Ihr
+#facs_158_r2l21 Gel. von nun das sogenante Frimestre in Lausanne
+#facs_158_r2l22 aufgehebt, und darbey verordnet haben, daß der
+#facs_158_r2l23 Hl. Amtsman zu Lausanne für ein solches nicht
+#facs_158_r2l24 mehr entrichte, noch gestatte, daß von den Hoch¬
+#facs_158_r2l25 Oberkeitl. etablierten Studenten=gages etwas das
+#facs_158_r2l26 zu verbendet werde; Bleichwohlen aber ist
+#facs_158_r2l27 Ihr.
+#facs_158_r5l1 Ihr Gudl. fernerer Still, daß von denenjenigen
+#facs_158_r5l2 24 gages, so daß Trimestre biß anhin genoßen, und
+#facs_158_r5l3 welche eine Summe von L.2880. alljährlichen abtragen
+#facs_158_r5l4 die Sum von L. 2000 erhoben, und jedem obiger maßen
+#facs_158_r5l5 bestellten Impositionaires, davon L 200 für seine jährl.
+#facs_158_r5l6 Pension, durch den H. Landvogt von Lausanne zugestellt
+#facs_158_r5l7 werde; Betreffend aber die von diesen 24. Gages übrig.
+#facs_158_r5l8 gebleibenden L. 880. Wollen Meglghl: daß solche Ihrer
+#facs_158_r5l9 Instutition nach an Studierende Vergeben, und diesere
+#facs_158_r5l10 Gages mitleit deßen, und zu könfftiger Einrichtung ob.
+#facs_158_r5l11 vermelter Seconds pasteurs etc. bieder reintegriert werden
+#facs_158_r5l12 Wan nun durch obige Einrichtung die PahrHerren
+#facs_158_r5l13 Weltscher landen nahmhafft subleviert sich befinden; also
+#facs_158_r5l14 wollen Ihr Bndl. daß denenselben nicht so liechter Dinge
+#facs_158_r5l15 suffraganten zu gestanden, und ertheilt werden, aller
+#facs_158_r5l16 maßen Hoch dieselben, dero Stillendhin zu äußeren
+#facs_158_r5l17 gueth Erachtet, daß
+#facs_158_r5l18 A. Die darzu erforderlichen Actes de necessité mit meh¬
+#facs_158_r5l19 von den Colloques, sonder allein von den Classen de
+#facs_158_r5l20 Censeurs, so sich alljährlichen halten, und in gegen
+#facs_158_r5l21 bahrt der Hh. Amtleüthen, anbegehrt und ertheilt
+#facs_158_r5l22 werden
+#facs_158_r5l23 B. Daß in Ertheilung dergleichen actes mann sorgfältig
+#facs_158_r5l24 stich erkundige, ob der Pfahrrer nur zum Theil
+#facs_158_r5l25 Et der
+#facs_158_r6l1 wäre
+#facs_158_r6l2 zu
+#facs_158_r6l3 A
+#facs_158_r6l4 der
+#facs_158_r6l5 Et vraieurs
+#facs_158_r7l1 deux heures
+#facs_158_r7l2 noum
+#facs_158_r7l3 -
+#facs_158_r7l4 we
+#facs_158_r7l5 9.
+#facs_158_r7l6 be=
+#facs_158_r7l7 for
+#facs_158_r7l8 ein
+#facs_158_r7l9 6
+#facs_158_r8l1 Lohln 80
+#facs_158_r8l2 Ce
+#facs_158_r8l3 15
+#facs_159_r2l1 D
+#facs_159_r2l2 C:
+#facs_159_r3l1 Oder gänzl. äußert Stand sich befinden Seine
+#facs_159_r3l2 Pastoral Pflichten zu besorgen, damit man
+#facs_159_r3l3 demnach sich determinieren könne Einen Vicarius ad
+#facs_159_r3l4 Tempus oder ad vitam zu begeben ertheilen.
+#facs_159_r3l5 C. Soll auch alljährlichen in denen Class Ver¬
+#facs_159_r3l6 samlungen, in Gegenbahrt der Hh. Amtläutsen
+#facs_159_r3l7 auf ein frisches diese actes de necessité unter¬
+#facs_159_r3l8 sucht, und wo die Umstände deß Pfahrherre
+#facs_159_r3l9 sich gebeßeret, der Vicarius oder suffragant
+#facs_159_r3l10 wieder zuruck berufen werde.
+#facs_159_r3l11 daß in gleichen Class-Versamlungen die
+#facs_159_r3l12 Viccary oder suffragants Zeugsamme ihrer Ver¬
+#facs_159_r3l13 richtungen, und verhaltend aufweisen
+#facs_159_r3l14 Und daß zu beständigen Vicariaten der
+#facs_159_r3l15 Suffraganto à Vie, von der Accademie insbeilt
+#facs_159_r3l16 eine dopplete wahl gemacht, und Neghl. zur
+#facs_159_r3l17 Besazung, ohne jehdoch die vorgeschlagene
+#facs_159_r3l18 subjecta, damit nach Bern zu weisten, ein¬
+#facs_159_r3l19 gestandt werde, Anlangend aber die Juffra
+#facs_159_r3l20 Ein gances forceés, überlaßen Meghhl. noch
+#facs_159_r3l21 Berners der Academie solche auch daherigen
+#facs_159_r3l22 Reglement de 1741. zu bestellen
+#facs_159_r3l23 Hierbey dan wollen Ihr dInd. auch noch gehabt.
+#facs_159_r3l24 uns aus trübenl. vorbehalten haben, daß alle
+#facs_159_r3l25 Uud
+#facs_159_r7l1 Und Jede Impositionaires stich verpflichten, nach
+#facs_159_r7l2 empfangener Hand auflegung nicht allein, zu obigen
+#facs_159_r7l3 zehen Impositionaires oder Helfer stellen, sondern auch
+#facs_159_r7l4 auf Zwey Jahr, als suffraganto oder subsidiaires sich
+#facs_159_r7l5 gebrauchen zu laßen;
+#facs_159_r7l6 Und gleichwie allbereits schon verschiedene Mahl, sonderlich
+#facs_159_r7l7 in anno 1710. und 1722 Meghh. dero Will dahin ge¬
+#facs_159_r7l8 aüßeret, daß in den Kinderlehren der Heidelbergischen
+#facs_159_r7l9 Cathechismus allein gebraucht, und keine andere
+#facs_159_r7l10 eingeführt werden; alß haben Ihr Bnd. nochmahlen
+#facs_159_r7l11 diesere Ordnung zu erfrischen, und mithin anzu¬
+#facs_159_r7l12 befehlen gut befunden, daß in Zukunfft die Pahr Herr
+#facs_159_r7l13 in haltung der Kinderlehren bemelten Heidelbergischen
+#facs_159_r7l14 Catechismi, allein, und sonst keines anderen sich be¬
+#facs_159_r7l15 dienen, maßen die wiederhandlende Mughsh. zur
+#facs_159_r7l16 gemeßenen Bestraffung verleidet werden sollen.
+#facs_159_r7l17 Act. d. 6. May. 1758.
+#facs_159_r7l18 Sig. Canzley Bern.
+#facs_159_r7l19 Zedel an Mughhl. die Curatoren der Accademie
+#facs_159_r7l20 in Lausane. Ihnen von diesem Reglement Copiam
+#facs_159_r7l21 Zustanden, mit freündlichem Gesinnen, solches seines
+#facs_159_r7l22 Ohrts in hier einschreiben zu laßen, und Hand obzu¬
+#facs_159_r7l23 halten
+#facs_159_r8l1 Hierg
+#facs_159_r8l2 zu
+#facs_159_r8l3 ont
+#facs_159_r8l4 der
+#facs_159_r8l5 cun
+#facs_159_r8l6 r
+#facs_159_r8l7 sey
+#facs_159_r8l8 Ab¬
+#facs_159_r8l9 décroume
+#facs_159_r8l10 a
+#facs_159_r8l11 ige
+#facs_159_r8l12 2n
+#facs_159_r8l13 bei
+#facs_159_r8l14 to
+#facs_159_r8l15 Nach-
+#facs_159_r8l16 r
+#facs_159_r8l17 7 f 6 x
+#facs_159_r9l1 5
+#facs_160_r2l1 Obzuhalten, daß dem nachgelebt werde Einne¬
+#facs_160_r2l2 steiths
+#facs_160_r2l3 Andersteiths dann uns beiden die Schulmstr. Meiller
+#facs_160_r2l4 und Correvon dieser Ihrer Diensten in Ehren
+#facs_160_r2l5 erlaßen worden, wie der 2te articul deß Reglmt
+#facs_160_r2l6 ein solches weistet p. Als werden sie Metzhl anmit.
+#facs_160_r2l7 freündtlichen erstucht, diejenigen Ihnen bekante,
+#facs_160_r2l8 darzu tüechtige subjecta zu ernamsten, und die
+#facs_160_r2l9 gebohn. daharigen befehlchen deßhalb von Ihnen
+#facs_160_r2l10 aus abzugeben.
+#facs_160_r2l11 So viel aber die seconds pacteurs stellen, welche
+#facs_160_r2l12 eigentl. als landshelfer bey der ersten Fundation
+#facs_160_r2l13 angesehen worden anbetrifft werden Sie Metztl.
+#facs_160_r2l14 Ihr Bekl. seiner Zeith, das fernere Vortragen,
+#facs_160_r2l15 damit die verlangende diß öhrige Remedur
+#facs_160_r2l16 beschehen könne.
+#facs_160_r2l17 In fernerem dann und beilen Besag 8 ar¬
+#facs_160_r2l18 ticuls Ihres Mrischl. Gutachtens de 6 July
+#facs_160_r2l19 1757. keine Exemplaria von der Helvetischen
+#facs_160_r2l20 Confession mehr vorhanden, die alte traduction
+#facs_160_r2l21 derselben auch schlecht seyn soll. Werden Sie
+#facs_160_r2l22 Michhl. freundl. erstucht, so thane Translation ver¬
+#facs_160_r2l23 fertigen zu laßen, nachwehrts solche zu re¬
+#facs_160_r2l24 vidieren, be nöthig zu corrigieren; und dan solche
+#facs_160_r2l25 in Truk beförderen zu laßen; als vorzu Ihr geben
+#facs_160_r2l26 Sie
+#facs_160_r3l1 301
+#facs_160_r3l2 obid.
+#facs_160_r3l3 obid
+#facs_160_r6l1 Sie Muthl. anmit beglältigen u.
+#facs_160_r6l2 Lausanne an die Accademie. Ihnen solches Reglmte
+#facs_160_r6l3 auch Copialiter zu senden, und deßen Einschreibung und
+#facs_160_r6l4 Befolgung anbefehlen
+#facs_160_r6l5 Causanne praef: Ihme davon auch Copeiliche Nach¬
+#facs_160_r6l6 Richt gegeben, mit Befehl solches seines Ohrts in die
+#facs_160_r6l7 Schloß-Bücher einzuschreiben, und hand obzuhalten, daß
+#facs_160_r6l8 demne nachgelebt werde.
+#facs_160_r6l9 So denn werde Er befeichnet
+#facs_160_r6l10 Hl. de Traytorens, welcher Befrags ersten art. zum
+#facs_160_r6l11 professoren honorario ciciert worden, der accademie
+#facs_160_r6l12 vorzustellen, und gewohnter maßen einzupraesentiren,
+#facs_160_r6l13 demselben auch das behörige Zimmer im Collegio zu
+#facs_160_r6l14 berzeigen, und zu recht machen zu laßen.
+#facs_160_r6l15 Nach dem 4 artl. deßelben den In Ehren entlaßene
+#facs_160_r6l16 Schulmeistern Meiller und Correvon, den genooß
+#facs_160_r6l17 ihrer Schuldiensten Pension, lebens länglichen gefolgen
+#facs_160_r6l18 t
+#facs_160_r6l19 zu laßen. Denen Äußeren Verordneten Herren
+#facs_160_r6l20 Curatoren aber bestellenden neuben Schulmeisteren,
+#facs_160_r6l21 Jeglichen, und biß daß Sie durch der Schuldiensten Pension
+#facs_160_r6l22 genooß berden können, jährlichen Zwanzig pistoles in
+#facs_160_r6l23 Gelt zu entrichten, und den betrag Unß zu verrechnen
+#facs_160_r6l24 3rd
+#facs_160_r7l1 ia
+#facs_160_r7l2 be-
+#facs_160_r7l3 hier
+#facs_160_r7l4 gag.
+#facs_160_r7l5 2.
+#facs_160_r8l1 6.
+#facs_160_r8l2 noume
+#facs_160_r8l3 l
+#facs_160_r8l4 3
+#facs_160_r9l1 deren.
+#facs_160_r9l2 zu
+#facs_160_r9l3 A
+#facs_160_r9l4 ..
+#facs_160_r9l5 de mesme
+#facs_160_r9l6 7
+#facs_160_r10l1 Lohlen 80
+#facs_161_r1l1 Coll
+#facs_161_r1l2 0
+#facs_161_r2l1 sein, und endtlichen auch nach dem 5ten Oct.
+#facs_161_r2l2 des Riglements denen Zähen im Land ver¬
+#facs_161_r2l3 theilten impositionaires die jährl. pension
+#facs_161_r2l4 von 200 L. nach vorhandenen Ordnungen zu
+#facs_161_r2l5 komen zu laßen, und die restierende 880 L.
+#facs_161_r2l6 nach vorhandenen Ordnungen und darüber ha¬
+#facs_161_r2l7 habenden Pflichten, an bedürffige Studiosos zu
+#facs_161_r2l8 ergeben, mithin der Accademie zum Unterhalt
+#facs_161_r2l9 der abgestellten Trimetrens nichts mehr zu kommen
+#facs_161_r2l10 zu laßen, wie in allem Zuthun Ihr bestens büst¬
+#facs_161_r2l11 berdet; Godt mit Euch Dat. d. 6. May. 1758.
+#facs_161_r2l12 An alle Classen W. lands
+#facs_161_r2l13 Schultheiß und Rath. etc.
+#facs_161_r2l14 Als dan Wir nöthig erachtet, in anstehen suble¬
+#facs_161_r2l15 vation, der mit Krankheiten überfallen werdens,
+#facs_161_r2l16 Pfahr Herren W. Landen, eine Abänderung vor
+#facs_161_r2l17 reits
+#facs_161_r2l18 zu nemmen, und das schon vor vielen Jahren
+#facs_161_r2l19 zu dem End in Lauwanne errichtete, so benente
+#facs_161_r2l20 Frimestre wieder abzustellen, an deßen plaz¬
+#facs_161_r2l21 aber Impositionaires zu bestellenen bestellen,
+#facs_161_r2l22 welche in den Classen selbsten residieren, und
+#facs_161_r2l23 in Vorkommenheiten die Pfahrherrn sublevieren.
+#facs_161_r2l24 sollen u. so haben mitlest angeschloßen
+#facs_161_r2l25 des 5. artl. dasa
+#facs_161_r2l26 ad der Accade
+#facs_161_r4l1 Benachrichtigen wollen, um einer steiths davon büßen¬
+#facs_161_r4l2 schaft zu haben, andersteiths dan Eüch anmit anbefehlen
+#facs_161_r4l3 wollen, Uns den genießenen Bericht in ansehen der
+#facs_161_r4l4 Seconds pasteurs, so ursprüngl. der Ursachen Rabliest
+#facs_161_r4l5 worden, um den benachbahrten Pfahrheeren in Vor¬
+#facs_161_r4l6 fallenheiten behülffl. zu seyn, ehestens einzustanden, dan
+#facs_161_r4l7 die weitere Befüegnuß Wir anordnen können.
+#facs_161_r4l8 Aus Copeyl. hierbey komenden Sechsten art. gemelte
+#facs_161_r4l9 Reglements werdet Ihr dann zu erstehen haben, wie im
+#facs_161_r4l10 auf was weise hinkönfftig die Auffragano anbegehrt und
+#facs_161_r4l11 erhalten werden sollen, und die alljährl. in den Classen
+#facs_161_r4l12 de Censeurs, die daherigen Testimonia auf ein frisches
+#facs_161_r4l13 wieder zu unterstuchen seye.
+#facs_161_r4l14 Endtlich dann so leistet der hier Copey beyliegende T-ar.
+#facs_161_r4l15 erwehnten Reglements, was Unser Will steye, in anstehen
+#facs_161_r4l16 gebrauchung des Heidelbergischen Cotechismi in haltung
+#facs_161_r4l17 der Kinderlehren.
+#facs_161_r4l18 Bleichbie nun Wir Euch auch von diesem nachricht
+#facs_161_r4l19 ertheilen. Also herstehen Wir Uns auch zu Euch, Ihr
+#facs_161_r4l20 berdet Eüch auch angelegen seyn laßen, dieseren
+#facs_161_r4l21 Unsteren Willen ein völliges Genüegen zu leisten, und
+#facs_161_r4l22 Diesere 3. artl. mit gegenwärtigen Unserem Schreib
+#facs_161_r4l23 zu könfftiger Nachricht, seines Ohrts einschreiben zu
+#facs_161_r4l24 laßen, damit Jederzeit deßen Inhalt, bey vorkomende
+#facs_161_r4l25 Anlaßen befollget werde, Bodt mit Euch Datsd. 6. Mai
+#facs_161_r4l26 An
+#facs_161_r5l1 pr
+#facs_161_r5l2 1/6
+#facs_161_r5l3 by
+#facs_161_r6l1 w)
+#facs_161_r6l2 zu
+#facs_161_r6l3 1.
+#facs_161_r6l4 der
+#facs_161_r6l5 o
+#facs_161_r6l6 they
+#facs_161_r6l7 roum
+#facs_161_r7l1 Hohla. 86
+#facs_162_r2l1 304
+#facs_162_r2l2 Coll.
+#facs_162_r3l1 An Alle W. Amtleuth. Item Saanen, so viel
+#facs_162_r3l2 das beltsche Amt betrifft
+#facs_162_r3l3 Schultheis und Rath so etc.
+#facs_162_r3l4 Mitleß Copeylr. Beylag übersenden Wir Euch
+#facs_162_r3l5 den 5. 6. und 7. articul, daß der accademie in
+#facs_162_r3l6 Causanen und den Classen W. lands vorgeschrieben,
+#facs_162_r3l7 Reglemento, samt Einer Abschrift, daß an die be¬
+#facs_162_r3l8 melten Classen, aberlaßenen Befelchs, alles
+#facs_162_r3l9 anstehend 1o die Stablierung etwelcher Imposi¬
+#facs_162_r3l10 tionaires, zum trost derjenigen Pfarrherrn, so
+#facs_162_r3l11 erkranken möchten, 2; die weis und Manier
+#facs_162_r3l12 sie die suffraganto anzubegehren und zu er¬
+#facs_162_r3l13 halten seyn wollen; uns 3°. den Gebrauch deß
+#facs_162_r3l14 Heidelbergischen Cathechismi in den Kinderlehren
+#facs_162_r3l15 Mit angehenktem Befelch solches zu behöriger
+#facs_162_r3l16 Nachricht seines Ohrts einschreiben zu laßen, und
+#facs_162_r3l17 darbey zu invigilieren, daß Unser Befelch in
+#facs_162_r3l18 behörige execution gesezt werde, wie zuthun
+#facs_162_r3l19 Bott mit Eüch. Dat. d. 6. May. 1758.
+#facs_162_r3l20 An alle Wi Amtleuth, Item Saanen so viel
+#facs_162_r3l21 das W. amt ansehen thut
+#facs_162_r3l22 Schultheis und Rath etc.
+#facs_162_r3l23 Indeme Wir aus gehabtem Anlaas, mit vliebig
+#facs_162_r3l24 Bahrnemmen müeßen, daß obgleich zum Trost
+#facs_162_r3l25 Unserer lieben und getreuben Unterthanen,
+#facs_162_r3l26 Beltscher
+#facs_162_r5l1 Weltscher landen Wir einen Professorem Juris in
+#facs_162_r5l2 Unsterer accademie in Lausane bestellt, dennoch das
+#facs_162_r5l3 Studium Juris, mit mehr fortgestezt werde, so finden
+#facs_162_r5l4 Wir Unß gemüßiget, dem dißöhrtigen übel zu steuren
+#facs_162_r5l5 Unsteren Willen in gegenwärtigem Circulare, dahin zu
+#facs_162_r5l6 äußeren daß in Zu kunfft niemand vor Unsteren Amt¬
+#facs_162_r5l7 leuthen, da gewohnl. Fränzl. Sprach plediert wird, dero
+#facs_162_r5l8 Cours Balivales und feudales, l. ausger aber in hier vor
+#facs_162_r5l9 uns, oder Unsteren bestellten Tribunalien, Cämmen
+#facs_162_r5l10 und Comissionen Sich als Advocat stellen noch die Vor¬
+#facs_162_r5l11 fallende Proceß betreiben, und verfechten möge, Er seyn
+#facs_162_r5l12 dann von Uns, als ein solcher recipiert, angenommen und
+#facs_162_r5l13 nit gebührender patent verstehen; keinen aber
+#facs_162_r5l14 werden wir darzu admittieren, der nicht durch glaub¬
+#facs_162_r5l15 bürdige attestata erzeigen wird, als Er einen Cursum
+#facs_162_r5l16 Juris naturae et civilis, entweders in Lausane auf
+#facs_162_r5l17 Unserer alldastigen Academie, oder aber einer anderen
+#facs_162_r5l18 Universitat oder Accademie angehört, und die behörigen
+#facs_162_r5l19 examina dis ohrts ausgestanden.
+#facs_162_r5l20 Damit nun manigl. davon wüßenschaft haben könne,
+#facs_162_r5l21 und nach diesem Unsteren willen, sich richten möge, be¬
+#facs_162_r5l22 fehlen Wir Eüch, diese Unsere Verordnung öffentl. von
+#facs_162_r5l23 reichten verlesen ums zu rüberem und Eüberer Nach¬
+#facs_162_r5l24 fahren, könfftigem verhalt, und allstäte befolgung, seine
+#facs_162_r5l25 Thets einschreiben zu laßen; Doct mit Euch, Dath, d. 6
+#facs_162_r5l26 May 1758
+#facs_162_r7l1 Lohln. 80
+#facs_163_r4l1 Revel an MetzbHhl. der W. appellation
+#facs_163_r4l2 Kammer. MehbbHn. deß Oberen Chorgrichts,
+#facs_163_r4l3 MetzluHhl. die Comercien Räth, Mehlöthl der
+#facs_163_r4l4 Burger-Cammer Sepr. Ihnen sowohl von dem
+#facs_163_r4l5 2) articuls deß Reglemento, als daß letsteren Exi-
+#facs_163_r4l6 cular Schreibens, betreffend die advocaten, nach
+#facs_163_r4l7 richt geben, um in Vorfallenheiten sich deß zu¬
+#facs_163_r4l8 bedienen,
+#facs_163_r4l9 des
+#facs_163_r4l10 Gedel an Metzhl. 4. 2. et T. und Melzbthl. der
+#facs_163_r4l11 I. appellations kammer Sepp. Ihnen dieser 2
+#facs_163_r4l12 artl. daß Reglements, samt gedachtem leisten
+#facs_163_r4l13 Mandat auch Copeyl. zu standen, um wegen den
+#facs_163_r4l14 Amteren Pedlelingen uns Ählen, dato Nach¬
+#facs_163_r4l15 ist zu haben etc.
+#facs_163_r4l16 Zedel an Metzh: W: L: et T. Ihnen sowohl den
+#facs_163_r4l17 2en artl. deß Regl. samt darzu gehörigem mandat
+#facs_163_r4l18 als den 3. 4. und 5. art. des Reglements Copeyl.
+#facs_163_r4l19 zu stenden, um davon die genießene Nachricht zu
+#facs_163_r4l20 haben, und darnach sich richten zu können p. act. d.
+#facs_163_r4l21 6th May 1758.

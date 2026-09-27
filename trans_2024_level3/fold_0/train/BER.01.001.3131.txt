@@ -1,0 +1,40 @@
+Law ID: BER.01.001.3131
+Name: Den Notarys zuverpiethen, dass sie in den Gültbrieffen, nit andere Gläubiger einsetzind [...]
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 29/29
+# High similarity (>=50%): 28
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_351_r2l1 An Alle Oberlandipese
+#facs_351_r2l2 Ambt Leüts
+#facs_351_r2l3 Den Notarii Zuversiethen, daß sie Gnaden
+#facs_351_r2l4 gültbrieffen, nit andere gläubiger
+#facs_351_r2l5 Einsehind, als die so das gelt
+#facs_351_r2l6 dorschießen
+#facs_351_r2l7 Mit unlieb habend wir Ensehen müeßen, daß unsere
+#facs_351_r2l8 in Ansehen der Gültbrieffen außgeschriben
+#facs_351_r2l9 ordnungen von etwelchen schreiberen nicht nach¬
+#facs_351_r2l10 lebt, sondern selbe darin übersehen werden,
+#facs_351_r2l11 daß sie andere gläubiger oder Zinßkäuffen
+#facs_351_r2l12 so in der That kein gellt darschießen
+#facs_351_r2l13 allein zu dem Endt Einschreiben Thüyundt
+#facs_351_r2l14 Damit nachwerts die brieffen desto Ehender
+#facs_351_r2l15 verkaufft werden mögendt. Derowegen
+#facs_351_r2l16 wir zu abhebung dergleichen Mißbräuchen
+#facs_351_r2l17 solches hiemit Oberkeitl. Verpiethen und
+#facs_351_r2l18 -
+#facs_351_r2l19 allen Unseren Notarii und geschwornen
+#facs_351_r2l20 schreiberen Bey verlierung der fügeren
+#facs_351_r2l21 befelchen wollen, sich disersachen, intipulie
+#facs_351_r2l22 rung der gültbrieffen zu mueßen
+#facs_351_r2l23 anbey auch die nullitet und nichtigkeit
+#facs_351_r2l24 des Intruments hierauf sehen wollen;
+#facs_351_r2l25 Helch Unser Einsehen hiemit zu jeder¬
+#facs_351_r2l26 mäncklichs Nachricht von Canzler verkünden,
+#facs_351_r2l27 seines ohrts Einschreiben und sonsten daroben
+#facs_351_r2l28 Handtzehaltten wüßen wirst. Dat. 28.
+#facs_351_r2l29 Marty 1713:

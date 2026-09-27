@@ -1,0 +1,76 @@
+Law ID: BER.01.001.1530
+Name: Wegen Haltung der Capitlen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 65/65
+# High similarity (>=50%): 62
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_246_r3l26 thun
+#facs_246_r3l27 J’ai puisqu’il
+#facs_246_r3l28 Krachselwald
+#facs_246_r3l29 Burgdorff c. Montag 11 July
+#facs_246_r3l30 Brandis
+#facs_246_r3l31 Feytag 15. Julii
+#facs_246_r3l32 Bürer
+#facs_246_r3l33 Signorum
+#facs_246_r3l34 Vnderset Zustag 12. Julii
+#facs_246_r3l35 vangen
+#facs_246_r3l36 zweisinnen
+#facs_246_r3l37 Armangen / Sambstag 16. Julÿ
+#facs_246_r3l38 winns
+#facs_246_r3l39 Sipp
+#facs_246_r3l40 Oberhoffen Mittwocher 17. Jul.
+#facs_246_r3l41 fraubung
+#facs_246_r3l42 brutigen
+#facs_246_r3l43 Landtsful
+#facs_246_r3l44 Montag 18. Julij
+#facs_246_r3l45 Jany
+#facs_246_r3l46 Abm dorstag 14. Juli.
+#facs_246_r3l47 Arburg
+#facs_246_r3l48 Interlacken
+#facs_246_r3l49 hastli Genstag 14. Julij
+#facs_247_r2l1 Schenckenberg.
+#facs_247_r2l2 Aeberg.
+#facs_247_r2l3 Hoffingen
+#facs_247_r2l4 Erlach
+#facs_247_r2l5 Zinsag 19. Julij
+#facs_247_r2l6 Bibersten
+#facs_247_r2l7 Frytag 21. Julii
+#facs_247_r2l8 Rijdouw
+#facs_247_r2l9 Gottstatt.
+#facs_247_r2l10 Lentzburg.
+#facs_247_r2l11 Buchse
+#facs_247_r2l12 Königsfelden Mitwuchen 20. Julii Sr. Johansen
+#facs_247_r2l13 Sambstag 22. Juli
+#facs_247_r2l14 Gölligen. Stettlen. Vechingen. Murj. Signorum
+#facs_247_r2l15 Münsingen - Wantzenried. Thurnen- Burtzelen
+#facs_247_r2l16 Waberen. Stifftschaffner Louppen. Buchsee
+#facs_247_r2l17 Thorberg. Graffenriedt. Schwartzenburg. Siglen
+#facs_247_r2l18 Trachselwald. Wangen. Arwangen. Gipp.
+#facs_247_r2l19 Arburg. Zoffingen Wit:
+#facs_247_r2l20 Wegen haltung der Capitlen
+#facs_247_r2l21 Schuldtheiß vnnd Rhat der Statt Bern.
+#facs_247_r2l22 Dieweil leider das bißharige vnwesen, die haltung des
+#facs_247_r2l23 ordinari vnnd gewohnten Capituls, neben anderem bedaurlich
+#facs_247_r2l24 verhinderet. Nun aber die Sachen durch die gnad Gottes —
+#facs_247_r2l25 nun mehr so weit gestillet, daß nun den gewohnten vund
+#facs_247_r2l26 hergebrachten guten handlungen kan wird soll fortgeschritte,
+#facs_247_r2l27 werden: Als habend wir, vß erinnerung vnserer
+#facs_247_r2l28 Belehrten vnnd Geistlichen alhier, gut vnnt nohtwendig
+#facs_247_r2l29 funden die gewohnten Capitul allhie auch zu Langenthal
+#facs_247_r2l30 diß Jars, nach alter gewohnheit anstellen vnnd halten Zelaßen
+#facs_247_r2l31 Darzu dann wir tag bestimbt vnnd ernamset, Benantlicher
+#facs_247_r2l32 vff nechstkunfftigen Montag über acht tag, wirt sein der
+#facs_247_r2l33 25. diß Monats Julij, deßen wir dich zu dem end Versten,
+#facs_247_r2l34 digen wellen, damit solches auch Jedem Kilchendiener vnnd
+#facs_247_r2l35 Predicanten so dem Capitul alhir (sine Langenthal) zugethan
+#facs_247_r2l36 pflichtig vnnd zugeben, Inn deiner Verwaltung kundt von
+#facs_247_r2l37 nachrichtlich zu wüßen gemacht werde, daßelbige nach alten
+#facs_247_r2l38 gewachten Brauch ohnaußbleiblich vff bestimbtem Tag zubesuchen
+#facs_247_r2l39 Maßen wir dir hiemit für dich selbst vnnd von Ambtswege
+#facs_247_r2l40 Zethun bevelchend, wie geschechen werde wir vns versechend
+#facs_247_r2l41 Datum 13. Julij 1653

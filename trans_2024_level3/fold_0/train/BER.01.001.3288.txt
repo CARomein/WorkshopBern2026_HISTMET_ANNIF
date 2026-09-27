@@ -1,0 +1,156 @@
+Law ID: BER.01.001.3288
+Name: Verbott das Getreyd zu veräusseren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 145/145
+# High similarity (>=50%): 141
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_254_r3l24 Es von nach du eine Zethun büßen wirst.
+#facs_255_r1l1 1478
+#facs_255_r1l2 Collath.
+#facs_255_r2l1 An Alle T. und W. Ambtleuth
+#facs_255_r2l2 4. Städtl, Frey Weibel und Anna,
+#facs_255_r2l3 item Allhies in 4. Cantzel
+#facs_255_r2l4 Verboz das Getreyd zu
+#facs_255_r2l5 veräußeren
+#facs_255_r2l6 3.
+#facs_255_r2l7 Ichs Rath und Bürger
+#facs_255_r2l8 Heilen durch die Trotne Witte,
+#facs_255_r2l9 rung das getreys auf dem Feld
+#facs_255_r2l10 und andere Nahrungs Michel einen
+#facs_255_r2l11 merklichen Abgang gelitten, und allso
+#facs_255_r2l12 nicht ohnzeitig zubeförchten, daß den
+#facs_255_r2l13 annoch in unseren Landen durch Garten
+#facs_255_r2l14 gnad sich befindtlichen Getreyd durch
+#facs_255_r2l15 Allerley weiß und bey zugesetzet und
+#facs_255_r2l16 selbiges darauß, verlobet werden möchte,
+#facs_255_r2l17 Als hat solcher Unß veranlaßet, zu
+#facs_255_r2l18 Guten Unserer getrauwen neben ange¬
+#facs_255_r2l19 hörigen zu Stadt und Landt, damit
+#facs_255_r3l1 üx.
+#facs_255_r3l2 welcher nit veraüßeret werde, nach
+#facs_255_r3l3 folgende Verordnung zethin.
+#facs_255_r3l4 Erstlich soll bey Confiscation, und nach
+#facs_255_r3l5 Bevandt findenden dingen bey einer Leibs¬
+#facs_255_r3l6 Straff verbocken seyn, einich getreyd
+#facs_255_r3l7 mider Was Vorbandts er immer seye
+#facs_255_r3l8 ohne Bewilligung aus dem Landt zuführen,
+#facs_255_r3l9 oder zu verkauffen, jedoch bleibt darbey
+#facs_255_r3l10 den underthanen der benachbahrten Eydt Ge¬
+#facs_255_r3l11 nößischen Ständen oder ohrten bewilliget
+#facs_255_r3l12 für Ihren wuchentlichen Haußbrauch, wie
+#facs_255_r3l13 vorhin einiche Maß auf den hiesigen
+#facs_255_r3l14 Mariten zu kaufen.
+#facs_255_r3l15 Damit Aber Unser so heilsame
+#facs_255_r3l16 Wet desto Eher erreichet werde,
+#facs_255_r3l17 wollendt wir allen unseren Ambtleu¬
+#facs_255_r3l18 the bey vermeydung Oberbeitlicher
+#facs_255_r3l19 mignai befohlen haben, nicht allein
+#facs_255_r3l20 für Ihre Persohnen Alle mügliche
+#facs_255_r3l21 sorgfalt vorzubehren, sonderen
+#facs_256_r2l1 Annoch Parwieder Geheime und
+#facs_256_r2l2 beydigte aufseher zubestellen, die
+#facs_256_r2l3 da so wohl den gräntzen nach alß auf
+#facs_256_r2l4 den benachbahrten Äußeren Mariten die
+#facs_256_r2l5 fehlbahren in Erfahrung zubringen trach,
+#facs_256_r2l6 ten, und selbige entweders Unserer
+#facs_256_r2l7 Ambtleuthen oder unseren Verordneten
+#facs_256_r2l8 forn Direction Getreüblich offenbahre
+#facs_256_r2l9 sollend; da dann neben versprechendes
+#facs_256_r2l10 Geheim haltung seiner Persohn, den
+#facs_256_r2l11 Verleider neben dem drutzel der
+#facs_256_r2l12 Confiscation annoch jedes Mahl
+#facs_256_r2l13 Er Jehmand im fehles angeben thätt,
+#facs_256_r2l14 fünf und zwänzig Thaler, ja auch
+#facs_256_r2l15 nach vorfallendes Gestaltsammen
+#facs_256_r2l16 mehrers ausrichten laßen werdend,
+#facs_256_r2l17 Und damit über dißhin unsere Angl
+#facs_256_r2l18 hörige zu Stadt um Land mit Getregen
+#facs_256_r2l19 versorget werden mögend, wollend wir
+#facs_256_r2l20 männiglich was Standts und wurde
+#facs_256_r2l21 Er imer ist, freundternstlich ermahnt
+#facs_256_r2l22 haben, sein über den Haußgebrauch
+#facs_256_r3l1 481
+#facs_256_r3l2 Innoch übrig habendes getreydt, auß
+#facs_256_r3l3 Liebe gegen seinem Nächsten Also willig¬
+#facs_256_r3l4 lich und in Billichen Preiß zuver¬
+#facs_256_r3l5 kauften, und zu marit führen zulaßen
+#facs_256_r3l6 daß andere dürfftige seines Midt,
+#facs_256_r3l7 leidens theilhaftig werden mögen.
+#facs_256_r3l8 His vollendt aber darbey alle
+#facs_256_r3l9 bauff und verkauff en gros
+#facs_256_r3l10 oder zu großen käuffen, äußert dene
+#facs_256_r3l11 so durch patenten darzu befuegt,
+#facs_256_r3l12 gemacht sein werden höchstens verbot¬
+#facs_256_r3l13 haben.
+#facs_256_r3l14 Der Hädleren Halb
+#facs_256_r3l15 &
+#facs_256_r3l16 Ob Gleich noch für bas männiglich
+#facs_256_r3l17 zugelaßen verbleibet, sein Eigen Ge¬
+#facs_256_r3l18 freyd auf die ihme beliebige Märtte
+#facs_256_r3l19 hiesiges Packmäßigkeit zuführen,
+#facs_256_r3l20 so können Wir dennoch außge¬
+#facs_256_r3l21 nugsammen Gründen nit zugeben, daß
+#facs_266_r1l1 500.
+#facs_266_r1l2 Collat
+#facs_266_r2l1 an alle T. und W. Ambt Luth
+#facs_266_r2l2 4. Städt Freyweibel und Amau¬
+#facs_266_r2l3 Wegen deß Rudolffischen oder fischer gründts
+#facs_266_r2l4 Sch. und Rath der Stock bärn etc.
+#facs_266_r2l5 Dieweilen die heimethlose Rudolffischen
+#facs_266_r2l6 Keßler samille sich täglich vermehrt
+#facs_266_r2l7 und mit Ihrem im Landt herum streichen,
+#facs_266_r2l8 dem Baures Mann sehr beschwehrlich ge¬
+#facs_266_r2l9 sollen und hadtendt wir bereits vor et¬
+#facs_266_r2l10 welchen Jahren zwey derselben als Hauß
+#facs_266_r2l11 und Michel Rudolff von unseren Stadt
+#facs_266_r2l12 und Landen weisen laßen, weilen aber die¬
+#facs_266_r2l13 sere Zwey sich wiederumb deren gelaßen
+#facs_266_r2l14 als habendt wir selbe wegen Ihres frechen
+#facs_266_r2l15 Eintricks mit dem Halß Eigen abgestrafft
+#facs_266_r2l16 und zusambt Rodolff dem Alten, Frei¬
+#facs_266_r2l17 denrich und Peter Rudolff obigen
+#facs_266_r2l18 alten Söhnen: Item Christen und Damiel
+#facs_266_r2l19 und die Ihrigen von unseren Landen mit
+#facs_266_r4l1 501.
+#facs_266_r4l2 dem Betreüwen Vorweisen laßen, daß
+#facs_266_r4l3 Wann Sy sich im landt Fehrner sehen ließen,
+#facs_266_r4l4 Wir selbe am Leib empfindtlicher
+#facs_266_r4l5 abstraffen laßen wurden; derowegen
+#facs_266_r4l6 Wir dir gebefehlen Gutfunden,
+#facs_266_r4l7 demien Ambt auf dieser Keßler die
+#facs_266_r4l8 Rodolffen auffsicht zebestellen, wann
+#facs_266_r4l9 Sÿ sich fehrners im Landt bliken ließen;
+#facs_266_r4l10 Sie behendigen zelaßen, und muß deß
+#facs_266_r4l11 der haffts zeter ständigen über ver¬
+#facs_266_r4l12 namsete allhier banisierte sindt noch
+#facs_266_r4l13 zwey andere, so sich beyd Haus
+#facs_266_r4l14 Rudolff nam sey, deren der finfe
+#facs_266_r4l15 deß alten Peter Rudolffs Bruder
+#facs_266_r4l16 und mit seinem Weib 3 Jungen Söhne
+#facs_266_r4l17 und einer Tochter im Weltsch land
+#facs_266_r4l18 herumb dem Keßlen nachzieht, der
+#facs_266_r4l19 andere Hans Rudolff aber, daß
+#facs_266_r4l20 Christens und damals Bruder
+#facs_266_r4l21 so noch ledig ist, und mit obigen
+#facs_266_r4l22 hernen vagieret.
+#facs_267_r1l1 02
+#facs_267_r1l2 Denen und dortens Daniel Rudolff
+#facs_267_r1l3 Ein anderes als der Obrichar er¬
+#facs_267_r1l4 mehrte, welcher auch mit seiner
+#facs_267_r1l5 Weib einen sohn und 3. Töchteren
+#facs_267_r1l6 dem Land mit herum schweiffen,
+#facs_267_r1l7 Beschwehrlich fallen. Derentwegen
+#facs_267_r1l8 Auch unser Befelch hiemit an die
+#facs_267_r1l9 langet, auch auff obvermehlte Per
+#facs_267_r1l10 sämtliche persohnen sämbtlichen Achten, selbe auff
+#facs_267_r1l11 betrecken einsetzen zelaßen, und
+#facs_267_r1l12 Unß deß verhaffts Zeterständigen
+#facs_267_r1l13 damut wir das Landt auch von
+#facs_267_r1l14 diesem ihme beschwehrlichen Last be¬
+#facs_267_r1l15 freyen Vomundt Wie Zethuen wüßen.
+#facs_267_r1l16 verst. dat. 27. July 1719

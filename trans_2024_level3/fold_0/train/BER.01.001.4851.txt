@@ -1,0 +1,39 @@
+Law ID: BER.01.001.4851
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_480
+# Matched: 27/28
+# High similarity (>=80%): 26
+# Low similarity (<80%): 1
+# Not found: 1
+#
+#facs_243_r3l16 Ober
+#facs_292_r3l2 Ann die Amptzuth zu Urberg
+#facs_3_r1l20 . 523
+#facs_292_r3l4 Erlach ny doner Buren vnnd
+#facs_187_r1l39 Burgdorff
+# NOT FOUND: .
+#facs_292_r3l7 Schultheis u Als wir nun etzliche Jahr dahar mit höchsten
+#facs_292_r3l8 beduren unnd missvollen geschechenn Wann Gott der Almechtig¬
+#facs_292_r3l9 vss Sijnem gnadenn vnnd gütigkeit etwas Acherumbt hatt
+#facs_292_r3l10 werdenn vnnd wachsenn Lassenn. Das die Jhrenng, o sienon
+#facs_292_r3l11 allwägen gewont gewäsenn, Dasselbigen zubesichtigenn vnnd ihr befinde
+#facs_292_r3l12 widerhebring) ein sölchenn mergklichenn Unmäßig unnd vberflüssige
+#facs_292_r3l13 costenn In Wirts zu sere Ufttrybenn. Das hernach In anlag vnnd
+#facs_292_r3l14 Wordnung der Sey oder acherumb gellts vnsere armenn vnderthaus
+#facs_292_r3l15 gestelbenn zum nechstenn habenn engegeltenn mussenn.
+#facs_292_r3l16 Wir auch wegenn vnsers buwherren Seckells, dass mit ein kleini
+#facs_292_r3l17 nachzug erlittenn. O a so stundt wir endtlich entschlossenn, vnnd mit
+#facs_292_r3l18 gesinnert, sollchs allso mehr fürganzelassen, noch zugestattenn
+#facs_292_r3l19 Sonder wollen die Ihrenig beschouwer des acherumbs hiemit mitt
+#facs_292_r3l20 allem ernst vermant vnnd gewahrnet habenn, Furwerthin
+#facs_292_r3l21 Klein solchenn costenn meer vff zetrybenn, sonder sich desselben
+#facs_292_r3l22 Zeuberhebenn vnnd vnsers willens hierin geflyssenn by
+#facs_292_r3l23 Verlierung vnnser gnadt vnnd huldt, auch erwarttung der Straff
+#facs_292_r3l24 so wir Innenn Im Ehaal der Übertreitung vffleggenn warden
+#facs_292_r3l25 Er und damitt mengklich dis unsers Insächen vnnd procts berichtet
+#facs_292_r3l27 werde Ist vnser will vnnd meinung das solchs vonn denn
+#facs_292_r3l28 Antzlen verkündt würde, damitt ein Jeder sich darnach wüsse
+#facs_292_r3l29 Zehaltenn. Datum P. Septembris 1 5 9 5

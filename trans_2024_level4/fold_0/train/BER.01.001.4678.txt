@@ -1,0 +1,104 @@
+Law ID: BER.01.001.4678
+Name: Publication.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 93/93
+# High similarity (>=50%): 92
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_190_r3l7 Publication
+#facs_190_r3l8 Wir Schultheisz klein und
+#facs_190_r3l9 Grosse Räthe der Stadt und Republik gern¬
+#facs_190_r3l10 entbieten allen und jeden Unferen
+#facs_190_r3l11 lieben und getreuen Surgern, ange¬
+#facs_190_r3l12 hörigen und Unterthanen samtlicher
+#facs_190_r3l13 Städte und Landschaften Unters deutschen
+#facs_190_r3l14 gebiets, Unsern gnädigen und geneigten
+#facs_190_r3l15 Willen, und geben ihnen dabey zu
+#facs_190_r3l16 vernehmen:
+#facs_190_r3l17 Das gleichbie Wir zu allen Zeiten
+#facs_190_r3l18 die untauglichsten Proben ihrer un¬
+#facs_190_r3l19 verbrüchlichsten Treue und Ergebenheit
+#facs_190_r3l20 erhalten, und auch in die stäte
+#facs_190_r3l21 fortdauer derselben das vollkommenste
+#facs_191_r2l1 und gegründeteste Zutrauen sezen
+#facs_191_r2l2 und stäts sehen werden, Wir um
+#facs_191_r2l3 "
+#facs_191_r2l4 so viel mehr Uns verpflichtet geglaubt,
+#facs_191_r2l5 für das wohl dieser Unserer getreuen
+#facs_191_r2l6 Städte und Landschaften sorgfältigst
+#facs_191_r2l7 zu wachen, und von ihnen alles das¬
+#facs_191_r2l8 jenige zu entfernen, wodurch der
+#facs_191_r2l9 selben gesegnete Wohlstand, und die
+#facs_191_r2l10 Ruhe Unsers Berthen Unterlandes
+#facs_191_r2l11 auf irgend einige Weise gestört
+#facs_191_r2l12 und unterbrochen werden könte.
+#facs_191_r2l13 zu dem Ende, und da Wir den
+#facs_191_r2l14 sichern Gericht erhalten, daß einige
+#facs_191_r2l15 übelgestimmte, in fremder Godtmäßig¬
+#facs_191_r2l16 beit sich aufhaltende Personen sich
+#facs_191_r2l17 bestreben, durch allerhand Mittel
+#facs_191_r2l18 und Wege, verschiedene aufrührerische
+#facs_191_r2l19 gedrukte und andere Schriften in
+#facs_191_r2l20 Unsern Landen auszustreuen, solche
+#facs_191_r2l21 auch durch falsche und verführerische
+#facs_191_r2l22 vorgebungen zu unterstüzen und
+#facs_191_r2l23 zu besordern suchen; so haben Wir
+#facs_191_r3l1 375
+#facs_191_r3l2 Unserer Obrigkeitlichen Vorsorge
+#facs_191_r3l3 angemeßen erachtet, Unsere liebe
+#facs_191_r3l4 und getreue Angehörige und Unter¬
+#facs_191_r3l5 thanen vor dergleichen feindseligen
+#facs_191_r3l6 und ihrem eigenen Resten so nachthei¬
+#facs_191_r3l7 ligen Absichten und verbegeuen Ver¬
+#facs_191_r3l8 suchen hiemit Landes väderlich zu
+#facs_191_r3l9 renbarnen.
+#facs_191_r3l10 Wie Wir dann einen jeden der
+#facs_191_r3l11 selben ermahnen, auffordern, und
+#facs_191_r3l12 ihnen auch alles Ernsts anbefehlen
+#facs_191_r3l13 die ihnen allenfalls zuvormende
+#facs_191_r3l14 aufruhrerische und andere gefähr¬
+#facs_191_r3l15 liche Schriften Unsteren Ober Amt¬
+#facs_191_r3l16 leuten und gestezten Stadt Magistraten
+#facs_191_r3l17 bey Obrigkeitlicher Ungnad, allso
+#facs_191_r3l18 gleich einzuhändigen, um sich dardurch
+#facs_191_r3l19 aller Verantbortung zu entziehen,
+#facs_191_r3l20 deren sie sich, im entgegengesetzten
+#facs_191_r3l21 Fall, ohnfehlbar aus sezen Bürden.
+#facs_191_r3l22 Unseren Ober und Unterbeamteten,
+#facs_191_r3l23 bie auch denen Vorstehern und
+#facs_192_r2l1 vorgesezten, bemelt Unserer Städte
+#facs_192_r2l2 und Landschaften, gebieten Wir,
+#facs_192_r2l3 auf dergleichen ungebührliche Schriften
+#facs_192_r2l4 und Libelle, ihren allfälligen Ab¬
+#facs_192_r2l5 druk, verkauf oder andere
+#facs_192_r2l6 netantmachungsarten, so bin auch
+#facs_192_r2l7 auf diejenigen so sich mit ihrer
+#facs_192_r2l8 Ausstreuung und Verbreitung
+#facs_192_r2l9 abgeben möchten, und namentlich
+#facs_192_r2l10 auf alle fremde Colporteurs, oder
+#facs_192_r2l11 im Land herum gehende fremde
+#facs_192_r2l12 Kränner, ein bachsames Aug zu
+#facs_192_r2l13 halten, und beim sie je etwas
+#facs_192_r2l14 von dieser Art entdeben Bürden,
+#facs_192_r2l15 es mit allen seinen bahren Umständen
+#facs_192_r2l16 entbeder Unsterm Geheimen Rath
+#facs_192_r2l17 oder aber dem jebestenden Richter
+#facs_192_r2l18 des Orts, zu desselben Handen,
+#facs_192_r2l19 anzuzeigen.
+#facs_192_r2l20 von sämtlichen Unseren lieben,
+#facs_192_r2l21 und getreuen Angehörigen und
+#facs_192_r4l1 377.
+#facs_192_r4l2 Unterthanen, sind wir zuversichtlich,
+#facs_192_r4l3 erbarten, daß sie diese Unsere
+#facs_192_r4l4 bohlgemeinte Warnung sorgfältigst
+#facs_192_r4l5 in Obacht nennen, diese Unsere Ver¬
+#facs_192_r4l6 ordnung genau befolgen, und sich durch
+#facs_192_r4l7 ihr ferneres Betragen Unserer Un¬
+#facs_192_r4l8 ausgesezten Landes vätterlichen
+#facs_192_r4l9 Huld und Obrigkeitlichen Wohlwollens
+#facs_192_r4l10 noch ferners hin würdig erzeigen werden.
+#facs_192_r4l11 Geben den 23ten Weinmonats 1790.

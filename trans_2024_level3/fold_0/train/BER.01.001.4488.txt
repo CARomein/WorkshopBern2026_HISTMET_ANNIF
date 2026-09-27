@@ -1,0 +1,42 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 34/35
+# High similarity (>=80%): 27
+# Low similarity (<80%): 7
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4488
+#facs_211_r1l16 einschreiben zu lasen, Bestimmung des Taggelts für diejenigen Pers
+#facs_191_r2l2 Alle Teutsch und Welsche Herren Amtleüth, 4
+#facs_211_r1l14 berg ohnt in den 4. Stadt, freyweibel und Ammann
+#facs_211_r1l15 Ehegerichts Manuele X
+#facs_211_r1l16 einschreiben zu lasen, Bestimmung des Taggelts für diejenigen Pers
+#facs_211_r1l17 welche zu allhar bringung der Criminalen bestellt
+#facs_211_r1l18 in demenach sampt
+#facs_44_r4l6 werden
+#facs_211_r1l20 ihre habendeshor.
+#facs_211_r1l21 richtern zu beagden
+#facs_211_r1l22 dieser Befolgenden Stadthalter und Raht
+#facs_14_region_1629823093350_239l_3 Freybeibel und Amann
+#facs_38_r2l5 anbefohlen.
+#facs_211_r1l25 Aus gehabtem Anlaß haben Wir zu erkennen,
+#facs_211_r1l27 1780. pag. 175. nöchtig erachtet, daß denenjengen Personen
+#facs_211_r1l28 welche zu allhar bringung der Criminalen aus
+#facs_211_r1l29 Unseren Landen bestellt werden in Rück sich
+#facs_211_r1l30 auf die darmit verknüpfte Beschwehrlichkeiten
+#facs_211_r1l31 für die zukonft ein bestimtes Taggelt von
+#facs_211_r1l32 Einer Cronen für Speis und Lohn, durch Unsi¬
+#facs_211_r1l33 Großweibel entrichtet, und für die Unterhaltung
+#facs_211_r1l34 des Criminalen fünfzehen Bazen per Tag,
+#facs_211_r1l35 vergüetet werden solle; deßen Ihr bericht¬
+#facs_211_r1l36 erdet mit Befehl diese Unsern Verordnung zu
+#facs_9_region_1629822406380_88l_2 Coll
+#facs_27_r5l1 51.
+#facs_211_r3l2 Eüerem und Eüerer Nachfahren verhalt, in
+#facs_211_r3l3 dem Schloß=Mandaten Buch nachrichtlich ein¬
+#facs_211_r3l4 schreiben zu laßen, und demenach denen Führeren
+#facs_211_r3l5 so Criminalen in die Haubtstadt zu führen befelch¬
+#facs_106_r11l9 des
+#facs_211_r3l7 net werden, darfür Euerseits nichts mehr zu bezahlen.
+#facs_211_r3l8 Patl. den 25ten Septl. 1780
+#facs_178_r8l1 en

@@ -1,0 +1,32 @@
+BER.01.001.2648
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 23/23
+# High similarity (>=50%): 21
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_155_r1l1 300.
+#facs_155_r1l2 Coll
+#facs_155_r2l1 An alle T. und W. Ambtleüt
+#facs_155_r2l2 4. Stätt, FreyWeibel und Anwen¬
+#facs_155_r2l3 Item 4. Cöntzel allhier.
+#facs_155_r2l4 Einen Bättag ausschreiben
+#facs_155_r2l5 pr
+#facs_155_r2l6 Schultheiß und Raht der Statt Bern,
+#facs_155_r2l7 In Betrachtung der Vill- und manigfaltigen
+#facs_155_r2l8 Beist- und leiblichen guethaten, die der All¬
+#facs_155_r2l9 güetige Gott eine Währte Eydt groschafft
+#facs_155_r2l10 geniessen lasset; habend die Lobl. Evangel.
+#facs_155_r2l11 Ort der Eydtgnoschafft auf letztgehaltener
+#facs_155_r2l12 datischen Tagsatzung einen abermahligen
+#facs_155_r2l13 bastigen Dank¬ Bues und Báttag auf Sonnstag
+#facs_155_r2l14 Den 19ten Augusti nechstkünfftig feirlich
+#facs_155_r2l15 zubegehen abgeredt und verglichen: Dassen
+#facs_155_r2l16 Wir dich hiemit benachrichten, und anbey
+#facs_155_r2l17 befohlen wollen, dessen königlich zu erfor¬
+#facs_155_r2l18 derlicher vorbereitung und schuldigen Damb¬
+#facs_155_r2l19 Bezügung bey Zeiten errenneren Zalassen:
+#facs_155_r2l20 Nassen geschehen werde, Wir vor zu dir versehens
+#facs_155_r2l21 Bott mit dir Bateau 21 Julij 1697

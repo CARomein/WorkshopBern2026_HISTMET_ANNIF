@@ -1,0 +1,927 @@
+Law nr: BER.01.001.4759,
+Title: Wegen Ausfuhr des Getreid= Brod und Mehls in die 4. mit lobl. Stand Freyburg besizende Mediat Ämter, und Transit durch das Amt Murten.                                                                           0
+
+# EXTRACTION INFO:
+# Volume: A_I_512
+# Matched: 917/917
+# High similarity (>=50%): 890
+# Low similarity (<50%): 27
+# Not found: 0
+#
+#facs_139_r3l5 des Getreids, Trod und Mehls in die
+#facs_139_r3l6 Mediat = Aemter, werdet Ihr auf Canz le
+#facs_139_r3l7 verlesen und an den gewohnten Orten
+#facs_139_r3l8 anschlagen laßen.
+#facs_139_r3l9 /: an Schwarzenburg allein :/
+#facs_139_r3l10 auch dem Inspektoren bey der Schwartz,
+#facs_139_r3l11 waßer Brut zu seinem Verhalt zu
+#facs_139_r3l12 stellen. Datum den 10. April 1795.)
+#facs_139_r3l13 ob id
+#facs_139_r3l14 Verordnung.
+#facs_139_r3l15 Wir Schultheiß und Rath der
+#facs_139_r3l16 Stadt und Republib Bern, thunkund
+#facs_139_r3l17 hiemit: daß, da uns zu verneh¬
+#facs_139_r3l18 men gekommen, daß in Absicht auf
+#facs_139_r3l19 die von uns unter verschiedenen
+#facs_139_r3l20 datis zu Behinderung der Ausfuhr
+#facs_139_r3l21 des Geteids, Brod und Mahls, aus¬
+#facs_139_r3l22 geschriebene Landes herrliche Verord¬
+#facs_139_r3l23 nungen einige Ungewisheit herrsche,
+#facs_139_r4l1 267
+#facs_139_r4l2 ob solche auch auf das Amt Schwartzenburg
+#facs_139_r4l3 angewendet werden sollen; so wird hie
+#facs_139_r4l4 mit jedermann bekannt gemacht, daß
+#facs_139_r4l5 zwar den hierseitigen Angehörigen die
+#facs_139_r4l6 Ausfuhr des Getreids, Brod und Mehls,
+#facs_139_r4l7 in alle Mediat = Ämter verbotten; daß
+#facs_139_r4l8 aber hingegen wir den Angehörigen
+#facs_139_r4l9 des Mediat - Amts Schwargenburg,
+#facs_139_r4l10 wegen ihrer besonderen Lage und zu
+#facs_139_r4l11 Beybehaltung des zwischen denselben
+#facs_139_r4l12 und hiesigen Immediat = Unterthanen
+#facs_139_r4l13 waltenden nachbahrlichen Verkehrs,
+#facs_139_r4l14 wie bisher, als auch ferners hin ver¬
+#facs_139_r4l15 gonnet haben, in hiesigen Landen, so
+#facs_139_r4l16 wohl auf den Markten als sonst, das
+#facs_139_r4l17 zu ihrem Verbrauch benöthigte Getreide
+#facs_139_r4l18 ungehindert anzukauffen und nach
+#facs_139_r4l19 Hause zu führen. Es soll aber bey
+#facs_139_r4l20 dem Eintritt in dieses Amt, als neu
+#facs_139_r4l21 lich bey der Schwarzwaßerbrüke.
+#facs_139_r4l22 ein Instpektor bestellt werden, der
+#facs_139_r4l23 gegen Bezahlung eines Kreuzers von
+#facs_139_r4l24 jedem Sat oder was darunter ist,
+#facs_139_r4l25 alles einführende Getreide aufschreibe,
+#facs_139_r4l26 damit
+#facs_140_r3l1 dann man immerhin wißen könne
+#facs_140_r3l2 wie viel Korn aus hiesigen Landen
+#facs_140_r3l3 in dortiges Amt eingeführt wird,
+#facs_140_r3l4 Welches hiermit zu Jedermanns Ver¬
+#facs_140_r3l5 halt offentlich bekannt gemacht wird,
+#facs_140_r3l6 Geben den 10ten Aprill 1794
+#facs_140_r3l7 Wegen circulierenden falschen Assignaten.
+#facs_140_r3l8 An alle Herren Amtleute Deutsch und
+#facs_140_r3l9 Welschen Lands, denne Schwarzenburg
+#facs_140_r3l10 und Grandston, 4. Städte, wie auch an
+#facs_140_r3l11 Mehl. die Venner der Landgrichten
+#facs_140_r3l12 und Zedel an Großweibel und Gerichtschreiber.
+#facs_140_r3l13 Schultheiß und Rath
+#facs_140_r3l14 da Wir aus verschiedenen einge¬
+#facs_140_r3l15 langten Berichten vernohmen haben,
+#facs_140_r3l16 wie sich eine Zeit daher unter denen
+#facs_140_r3l17 in Ansteren Landen circulirenden
+#facs_140_r3l18 französischen Assignaten viele falsche
+#facs_140_r3l19 vorfinden, durch welche Unsere An¬
+#facs_140_r3l20 gehörige in Schaden und Nachtheil
+#facs_140_r3l21 gerathen, so haben Wir zu womöglicher
+#facs_140_r3l22 Verhütung deßelben zu verordnen gut
+#facs_140_r3l23 befunden
+#facs_140_r4l1 Coll
+#facs_140_r4l2 6
+#facs_140_r5l1 269
+#facs_140_r5l2 befunden: daß, weil die Assignate nicht
+#facs_140_r5l3 als Münze sondern eheder als Handelswaare
+#facs_140_r5l4 angesehen werden müßen, so solle nur
+#facs_140_r5l5 allein im Fall vermuthender Fabrikation
+#facs_140_r5l6 derselben, oder Verhandlung und Aus¬
+#facs_140_r5l7 gab wüßentlich faltscher Assignater
+#facs_140_r5l8 trimmaliter verfahren werden.
+#facs_140_r5l9 Und weil sich in Unseren Landen
+#facs_140_r5l10 keine zu Verification der Assignaten
+#facs_140_r5l11 bestellte Bureaux vorfinden, so soll
+#facs_140_r5l12 jeder Käufer derselben gewiesen seyn
+#facs_140_r5l13 zu Vergütung seines allfällig erlittenen
+#facs_140_r5l14 Schadens, steinen Verkäufer vor dem
+#facs_140_r5l15 Civil Richter zu belangen.
+#facs_140_r5l16 lesen Ihr berichtet werdet, um Euch
+#facs_140_r5l17 in Vorfällen darnach zu verhalten. Geben
+#facs_140_r5l18 den 15ten Aprill 1794.
+#facs_140_r5l19 Wagen der Bergfahrt auf außer
+#facs_140_r5l20 dem hiesigen Canton liegende Berge
+#facs_140_r5l21 An alle Deutsche und Welsche Herren
+#facs_140_r5l22 mit Ausnahm des Untern Ausgau;
+#facs_140_r5l23 und Oberlands, denn die Freyweibel
+#facs_140_r5l24 ¬ Ancienne
+#facs_141_r2l1 Gegangen und Schwarzenburg und Grandson
+#facs_141_r2l2 Schultheiß und Rath
+#facs_141_r2l3 In Eindage ist dasjenige enthalten,
+#facs_141_r2l4 was wir über die Vergfahrt, auf die
+#facs_141_r2l5 Berge des Münsterthals, Erguel, St.
+#facs_141_r2l6 Immerthale, des Fürstenthums Neues
+#facs_141_r2l7 burg, und des anhiesige Lande angrau¬
+#facs_141_r2l8 zenden Theils von Frankreich erkennt
+#facs_141_r2l9 haben; die daherige Publikation wird
+#facs_141_r2l10 Euch zugestandt, um davon behörige
+#facs_141_r2l11 Wißenschaft zuhaben und dieselbe ge¬
+#facs_141_r2l12 wohnter maßen publiciren zu lassen;
+#facs_141_r2l13 So nun Euer Amt im Fall wäre, daß
+#facs_141_r2l14 desselben Angehörige die Sömmerung
+#facs_141_r2l15 auf bemelten Bergen benuzen woll¬
+#facs_141_r2l16 ten, so werdet Ihr ihnen die damit
+#facs_141_r2l17 verbundene Schwierrigkeiten vor-
+#facs_141_r2l18 stellen, sie mit der Strafe, im Fall
+#facs_141_r2l19 das gesömmerte Vieh veräußert
+#facs_141_r2l20 wurde, bekannt machen, und in Be¬
+#facs_141_r2l21 treff der Controlle das im Bergfahrt
+#facs_141_r2l22 Reglement vorgeschriebene den In¬
+#facs_141_r2l23 spektoren bekannt machen; endlich
+#facs_141_r2l24 denn wie gewöhnlich im Fall die
+#facs_141_r2l25 V. Trog
+#facs_141_r4l1 271.
+#facs_141_r4l2 Vergfahrt begehrt wird, Unserm veror¬
+#facs_141_r4l3 ten Sanitaet Rath davon Bericht
+#facs_141_r4l4 rtheilen, um zu vernehmen, ob der¬
+#facs_141_r4l5 selbe solche aus Gründen, die öffent¬
+#facs_141_r4l6 liche Gesundheit ansehens, zu gestatten
+#facs_141_r4l7 kein Bedenken trage.
+#facs_141_r4l8 Datum den 15ten Aprill 1794.
+#facs_141_r4l9 ob id
+#facs_141_r4l10 Verordnung
+#facs_141_r4l11 Wir Schultheif und Rath der Stadt
+#facs_141_r4l12 und Republib Bern, thun kund hiemit
+#facs_141_r4l13 Demenach wir aus über die Bergfahrt
+#facs_141_r4l14 der Viehr auf die Berge des Münstenthals,
+#facs_141_r4l15 Erguel, St. Immerthals, des Fürsten
+#facs_141_r4l16 thums Neuenburg, und der an hiesige
+#facs_141_r4l17 Lande angränzenden französischen Berge,
+#facs_141_r4l18 den Vortrag erstatten laßen, und da¬
+#facs_141_r4l19 bey in Betrachtung gezogen, daß zwar
+#facs_141_r4l20 die Ausfuhr alles Viehs durch das Mai,
+#facs_141_r4l21 hat vom 4t. Mertz lezthin, folglich auch
+#facs_141_r4l22 die Sömmerung desselben auf äußeren
+#facs_141_r4l23 Bergen verbotten seyn: daß aber
+#facs_141_r4l24 diese Sömmerung verschiedenen
+#facs_141_r4l25 -distrikten
+#facs_142_r2l1 distrirten hiesiger Landen unum¬
+#facs_142_r2l2 gänglich nöthig seye, so haben Wir
+#facs_142_r2l3 beschloßen hierinn Unsere liebe und
+#facs_142_r2l4 Getreue Angehörige, so viel möglich,
+#facs_142_r2l5 zu erleichteren, zu dem Ende für
+#facs_142_r2l6 heüriges Jahr zu verordnen gut
+#facs_142_r2l7 befunden und erkennt.
+#facs_142_r2l8 1° Er solle die Bergfahrt heuriges Jahr.
+#facs_142_r2l9 für hiesiges Vieh, auf die Berge des
+#facs_142_r2l10 Münsterthals, Erguels, St. Immer-
+#facs_142_r2l11 thals, und die Berge von Neuenburg
+#facs_142_r2l12 und dem angränzenden Frankreich ge¬
+#facs_142_r2l13 stattet seyn.
+#facs_142_r2l14 2° Sollte nun jemand im Fall seyn
+#facs_142_r2l15 zu wünschen, sein Vieh in diesen Ländern
+#facs_142_r2l16 zu sömmeren, so wird er sich bey
+#facs_142_r2l17 Unserm Amtmann deßhalb anmel¬
+#facs_142_r2l18 den, und ihm die Anzahl und Gatt¬
+#facs_142_r2l19 ung Vieh, und das Ort, wo er solches
+#facs_142_r2l20 zu sömmeren willens wäre, anzei¬
+#facs_142_r2l21 gen, damit sein begehren Unserm
+#facs_142_r2l22 verordneten Sanität-Rath über
+#facs_142_r2l23 schrieben werden könne, um zu ver¬
+#facs_142_r2l24 nehmen, ob gegen diese Bergfahrt
+#facs_142_r2l25 bemerkt.
+#facs_142_r4l1 273
+#facs_142_r4l2 keine Gedanken in Betref herrschender Deuchen
+#facs_142_r4l3 obhalten
+#facs_142_r4l4 Wird wegen Abwesenheit dieser Gedenkei¬
+#facs_142_r4l5 3°
+#facs_142_r4l6 die anbegehrte Bergfahrt verwilliget, so
+#facs_142_r4l7 sollen die durch das Bergfahrt Sieglement in
+#facs_142_r4l8 betref der Vergfahrt auf fremde Berge vor
+#facs_142_r4l9 geschriebene Vorsorgen genau befolget.
+#facs_142_r4l10 werden
+#facs_142_r4l11 Es soll daher vor der Vergfahrt alles
+#facs_142_r4l12 außer Landes stömmernde Vieh, mit Alter
+#facs_142_r4l13 Farbe und Zeichen, samt dem Namen und
+#facs_142_r4l14 Wohnorth des Eigenthümers, durch den
+#facs_142_r4l15 Vieh. Instektoren aufgeschrieben, und ein dopp
+#facs_142_r4l16 von der Verzeichniß dem Amtmann des
+#facs_142_r4l17 Orts zugestellt, ein doppel aber von dem
+#facs_142_r4l18 Inspektoren für sich behalten werden
+#facs_142_r4l19 5. Während der Aufenthalts der Viehs auf
+#facs_142_r4l20 den Bergen, soll daselbe alle 14 Tage
+#facs_142_r4l21 oder langstens alle 3. Wochen, von den
+#facs_142_r4l22 nächsten hiesigen von Unsern Amtleuten
+#facs_142_r4l23 dazu zu bestellenden Vieh Inspektoren
+#facs_142_r4l24 auf Kosten der Eigenthümer, besich¬
+#facs_142_r4l25 tiget= und
+#facs_142_r4l26 6) bey der Abfahrt alles außer damls
+#facs_142_r4l27 gekümmerte
+#facs_143_r2l1 gefömmerte Vief genau mit der bey der
+#facs_143_r2l2 Bergfahrt gezogenen Verzeichniß controlirt
+#facs_143_r2l3 werden.
+#facs_143_r2l4 7°. Für jedes Stük Vieh, welches nicht ins
+#facs_143_r2l5 Land zurük geführt, und dem Inspekto¬
+#facs_143_r2l6 ren, der solches bey der Bergfahrt aufge¬
+#facs_143_r2l7 zeichnet, vorgewiesen worden, wird der
+#facs_143_r2l8 Eigenthümer ohne Schonen mit derjenigen
+#facs_143_r2l9 Strafe belegt werden, welche im Mandat
+#facs_143_r2l10 vom 4ten Merz auf die Viehausfuhr ge¬
+#facs_143_r2l11 =sezt ist
+#facs_143_r2l12 8° Dabey ist einzig der Fall ausgenom¬
+#facs_143_r2l13 nen, da der Eigenthumer beweisen
+#facs_143_r2l14 kann, daß dasjenige Vieh, welches der¬
+#facs_143_r2l15 selbe nicht zurük gebracht hätte, durch
+#facs_143_r2l16 Zufall oder Krankheit zu Grund gegen
+#facs_143_r2l17 gen seye.
+#facs_143_r2l18 9°) In solchem Fall aber wird der Eigen¬
+#facs_143_r2l19 thümer oder besteher den hiesigen Vieh
+#facs_143_r2l20 Inspektoren, dem diese Besichtigung
+#facs_143_r2l21 aufgetragen ist, nebst zweyen Beeydig
+#facs_143_r2l22 ten dazu berufen, welche ihme denn,
+#facs_143_r2l23 nach vorgegangener Besichtigung,
+#facs_143_r2l24 deshalb ein Attestat aus fertigen
+#facs_143_r2l25 und
+#facs_143_r3l1 Coll
+#facs_143_r4l1 275
+#facs_143_r4l2 und zustellen werden.
+#facs_143_r4l3 10o Ansonsten aber werden ihne keine
+#facs_143_r4l4 Gründe vor der Strafe schüzen, das Vieh
+#facs_143_r4l5 mag mit seinem Vorwißen oder wieder
+#facs_143_r4l6 seinen Willen veraüßeret worden seyn.
+#facs_143_r4l7 In Betref der Vieh=Sömmerung auf
+#facs_143_r4l8 den eidgnösischen Vergen, so ist wegen
+#facs_143_r4l9 deren Gestattung bereits unterm 10.
+#facs_143_r4l10 dies das nöthige an Unsre Amtleute ab¬
+#facs_143_r4l11 erlaßen worden.
+#facs_143_r4l12 Welches nun zu jedermanns Wißen
+#facs_143_r4l13 schaft und verhält, und damit Unsre Ange¬
+#facs_143_r4l14 hörige mit den uns durch die Umstände
+#facs_143_r4l15 abgenöthigten Sedingen dieser Verg
+#facs_143_r4l16 fahrt ausser Lands bekannt, sich vor
+#facs_143_r4l17 Schaden und unaus bleiblicher Strafe hüten
+#facs_143_r4l18 können, publicirt werden soll.
+#facs_143_r4l19 Geben den 15ten Aprills 1794.
+#facs_143_r4l20 Traduction
+#facs_143_r4l21 de l'Ordonnance ci-dessus inscrite
+#facs_143_r4l22 Nous l'Avoyer & Conseil de la
+#facs_143_r4l23 Ville et Republique de Berne, savoir
+#facs_143_r4l24 faisons par les préventes; que d'après le rapport
+#facs_143_r4l25 qui
+#facs_144_r2l1 qui nous a été fait concernant les alpages du
+#facs_144_r2l2 l’était sur les montagnes de la vallée du
+#facs_144_r2l3 Moutier, de l'Erguel, de la Principauté
+#facs_144_r2l4 de Neuchâtel, ainsi que sur les montag-
+#facs_144_r2l5 nes de France limitrophes à Notre Can-
+#facs_144_r2l6 ton ; & considérant que la sortie de tout
+#facs_144_r2l7 betail, et par consequent tout alpagé
+#facs_144_r2l8 sur les montagnes étrangères, ont êté
+#facs_144_r2l9 défendus par le Mandat du 4me Mars
+#facs_144_r2l10 dernier, mais que cependant ces alpes
+#facs_144_r2l11 ges sont d'une nécessité absolue pour
+#facs_144_r2l12 divers district de Nos Pays, à ces
+#facs_144_r2l13 causes, et afin d'accorder à celégard
+#facs_144_r2l14 à Nos chers et fidelles Rewortissans,
+#facs_144_r2l15 toutes les facilités que permettent les
+#facs_144_r2l16 circonstances, Nous avons trouvé bon
+#facs_144_r2l17 atrésolu d'ordonner, pour le courant de
+#facs_144_r2l18 la présente année, mandons et ordonnons
+#facs_144_r2l19 ce qui suit:
+#facs_144_r2l20 1° La sortie du bétail hors de Notre
+#facs_144_r2l21 Canton, pour aller alper sur les montags
+#facs_144_r2l22 nes de la Vallée du Moutier, de l'Erguel,
+#facs_144_r2l23 de la vallée de St Imier & sur celles du
+#facs_144_r2l24 territoire de France limitrophes à
+#facs_144_r2l25 Nos
+#facs_144_r3l1 277
+#facs_144_r3l2 Nos Pays, sera permise pendant la présente
+#facs_144_r3l3 le année
+#facs_144_r3l4 2° Chacun de Nos Ressortissans, qui desirera
+#facs_144_r3l5 de faire alper son bétail sur les dites Montag
+#facs_144_r3l6 nes, sera tenu de se présenter à cet effet
+#facs_144_r3l7 au Seigneur Baillif, et de lui indiquer
+#facs_144_r3l8 le nombre et l’espece des Bestiaux, ainsi
+#facs_144_r3l9 que le lieu où il se propose de les faire alper
+#facs_144_r3l10 Ce dont ledit Seigneur Bailiffera rap.
+#facs_144_r3l11 port à Notre conseil de Santé, pour savoir
+#facs_144_r3l12 si l'alpaye ne seroit sujet a aucun inconvé
+#facs_144_r3l13 rient ou danger pour cause d'épizootie
+#facs_144_r3l14 Si ces inconvéniens n’existent pas, & que
+#facs_144_r3l15 3
+#facs_144_r3l16 Notre Conseil de Santé permette cet alpag
+#facs_144_r3l17 on suivra exactement les précautions ordon-
+#facs_144_r3l18 nées par Notre Réglement concernant les
+#facs_144_r3l19 alpages sur des montagnes étrangères.
+#facs_144_r3l20 4° En consequence, avant le départ, l'Inspecteur
+#facs_144_r3l21 dressera une liste exacte de chaque pièce du
+#facs_144_r3l22 bétail destinée à alper sur des montagnes
+#facs_144_r3l23 étrangeres, en y indiquant en même tems
+#facs_144_r3l24 l'âge, la couleur de les marques, ainsi que le
+#facs_144_r3l25 nom du propriétaire. Un double de cette liste
+#facs_144_r3l26 sera remis au Seigneur Baillif du lieu,
+#facs_144_r3l27 &
+#facs_145_r2l1 et l'Inspecteur gardera l'autre double
+#facs_145_r2l2 5° Pendant le séjour de ces bestiaux sur les
+#facs_145_r2l3 montagnes étrangeres, il en sera fait, tous
+#facs_145_r2l4 les quinze jours ou au moins de trois en
+#facs_145_r2l5 trois semaines, or aux frais du propriétaire
+#facs_145_r2l6 une visite sur les lieux, par l'Inspecteur le
+#facs_145_r2l7 plus voisin que le seigneur Baillif établira
+#facs_145_r2l8 à cet effet; &
+#facs_145_r2l9 6° au retour, tous les bestiaux qu'on aura fait
+#facs_145_r2l10 alper hors du Canton, seront exactement con-
+#facs_145_r2l11 trôlés avec les listes dressées avant le départ
+#facs_145_r2l12 2° Pour chaque piece de bétail qui n'aura pas
+#facs_145_r2l13 été ramenée dans le Pays, et montrée à l'In-
+#facs_145_r2l14 specteur qui l'aura insérité avant le départ
+#facs_145_r2l15 pour les montagnes, le propriétaire sera con-
+#facs_145_r2l16 damné, sans remission, aux mêmes peines
+#facs_145_r2l17 statuées par le Mandat du 4me Mars, con-
+#facs_145_r2l18 cernant la sortie du bétail.
+#facs_145_r2l19 8° Nous n'exceptons à cet égard que le seul cas
+#facs_145_r2l20 où le propriétaire pourroit prouver, que le
+#facs_145_r2l21 bétail qui n'a pas été ramené auroit péri par
+#facs_145_r2l22 accident ou par maladie
+#facs_145_r2l23 9° Mais dans de tel cas, le propriétaire où
+#facs_145_r2l24 le gardien sera tenu d'appeller l'Inspateur établi
+#facs_145_r2l25 par
+#facs_145_r4l1 279
+#facs_145_r4l2 par Nos ordres pour veiller sur ces objets, avec
+#facs_145_r4l3 deux jurés, lesquels, après une vision préalable
+#facs_145_r4l4 lui délivreront à cet égard une attestation
+#facs_145_r4l5 10° A l'exception de ce cas, aucune raison ni prétexte
+#facs_145_r4l6 ne garantiront le propriétaire de la peine encore
+#facs_145_r4l7 rue, quand même ce seroit contre sa volonté.
+#facs_145_r4l8 que le dit bétail auroit été aliéné
+#facs_145_r4l9 Quant aux alpayes sur les montagnes limis
+#facs_145_r4l10 trophes situées sur territoire Helvétique
+#facs_145_r4l11 Nos Baillifs ont reçu à cet égard, en date du
+#facs_145_r4l12 10me de ce mois, les ordres nécessaires
+#facs_145_r4l13 ce qui sera publié pour la connoissance
+#facs_145_r4l14 et conduite d'un chacun, afin que Nos
+#facs_145_r4l15 Ressortissans, instructs des conditions qui
+#facs_145_r4l16 les circonstance nous ont contraint d'un
+#facs_145_r4l17 poser sur les alpages en territoire Aranger
+#facs_145_r4l18 puissent se garantir de tout dommage
+#facs_145_r4l19 ainsi que de peines inévitables
+#facs_145_r4l20 Donné le 15. Avril 1794
+#facs_145_r4l21 Den Zollcommisen und Inspektoren
+#facs_145_r4l22 werden Instruktionen wegen der Speci¬
+#facs_145_r4l23 ertheilt.
+#facs_145_r4l24 An alle Deutsch und Welsche Herren
+#facs_145_r4l25 = Amth
+#facs_146_r2l1 Amtleut und 4 Städte, mit Ausnahme der
+#facs_146_r2l2 Herren Amtläuten zu Castelen, Buchsten, Thor
+#facs_146_r2l3 berg, Signau, Brandis, Frienis Berg, Stift Ber¬
+#facs_146_r2l4 Wimmis und Oberhofen
+#facs_146_r2l5 Schultheiß und Rath.
+#facs_146_r2l6 Die Erfahrung hat belehrt, wie ungleich
+#facs_146_r2l7 die verschiedene Ausfuhr Verbotte von den
+#facs_146_r2l8 Goll commisen, Inspektoren und Aufsehern,
+#facs_146_r2l9 auch so gar von Unseren Amtleuten und
+#facs_146_r2l10 deren Beamteten ausgeleget und ver¬
+#facs_146_r2l11 standen werden; wie nun dieß bey
+#facs_146_r2l12 Unseren Speer = Anstalten vielfaltig¬
+#facs_146_r2l13 Verwirrung bewürkt, besonders aber
+#facs_146_r2l14 bey den Transit Waaren, allerhand
+#facs_146_r2l15 Einangenehme Folgen sich geäußert,
+#facs_146_r2l16 so haben Wir nötig erachtet die Grundsäze
+#facs_146_r2l17 worauf diese sämtlichen Anstalten ruhe
+#facs_146_r2l18 zusammen zu faßen, und für die Zoll
+#facs_146_r2l19 Commisen und aufsehere eine gleichför¬
+#facs_146_r2l20 mige Instruktion verfertigen zulaßen,
+#facs_146_r2l21 die auf die emanirten Ausfuhr ver=
+#facs_146_r2l22 botte sich gründen,
+#facs_146_r2l23 Wir übersenden Euch eine hinreichend
+#facs_146_r2l24 Anzahl Exemplar davon, um selbige den
+#facs_146_r2l25 in
+#facs_146_r5l1 281
+#facs_146_r5l2 in Eüerm Amt bestellten Zollcommisen und
+#facs_146_r5l3 anderen Aufseheren auszutheilen, damit
+#facs_146_r5l4 selbige in Vorfallenheiten sich darnach
+#facs_146_r5l5 richten mögen; Ein doppel davon werdet
+#facs_146_r5l6 Ihr selbsten vor Augen haben. Um auch
+#facs_146_r5l7 Eüern Anstalten darnach einrichten zu können;
+#facs_146_r5l8 Datum den 16. April 1794.
+#facs_146_r5l9 ob id
+#facs_146_r5l10 Instruktion
+#facs_146_r5l11 für die Zoll = Commißen und Aufsehen,
+#facs_146_r5l12 Für alle Arten von Frächten, Lebwaare, und
+#facs_146_r5l13 und andere Lebensbedürfnisse, deren Aus¬
+#facs_146_r5l14 fuhr verbotten ist, soll jedennoch die Ein¬
+#facs_146_r5l15 fuhr stets offenbleiben, und denselben bey
+#facs_146_r5l16 ihrem Eintritt ein Constigne = Zedel für den
+#facs_146_r5l17 Oct ihrer Bestimmung im Lande zuge¬
+#facs_146_r5l18 stellt werden.
+#facs_146_r5l19 2° Für den Transit der auszuführen ver¬
+#facs_146_r5l20 bottenen Lebwaare sollen jelveilen Obrig
+#facs_146_r5l21 beitliche Transit= und Ankauf=Scheine
+#facs_146_r5l22 von dem Ort, wo sie herkommen, vor-
+#facs_146_r5l23 gewiesen werden; wovon die Eidgnösischen
+#facs_146_r5l24 =mit
+#facs_147_r2l1 mit dem xxx liegel versehen seyn solle
+#facs_147_r2l2 die Ausnahme im 3ten Artikel vorbehalten.
+#facs_147_r2l3 Für den Traustik der Metalle, Garn
+#facs_147_r2l4 Systen, Häuf, Flachs und deren Saamen
+#facs_147_r2l5 ist es hinreichend, wenn selbige bey ihrem
+#facs_147_r2l6 Eintritt in das Land authentische Transit¬
+#facs_147_r2l7 scheine Vorweisen.
+#facs_147_r2l8 3- können die erforderlichen Scheine
+#facs_147_r2l9 nicht vorgelviesten werden, so soll dem
+#facs_147_r2l10 Führer kein Transitschein- sondern nur
+#facs_147_r2l11 ein Consignzedel für denjenigen Ort in
+#facs_147_r2l12 Unsern Landen aus gefertiget werden
+#facs_147_r2l13 den er anzeigen wird
+#facs_147_r2l14 4o Erzeigt sich aus den vorgewiesenen
+#facs_147_r2l15 Scheinen, daß die Waare für die Schweiz
+#facs_147_r2l16 angebauft worden, so soll derselben von
+#facs_147_r2l17 Transtitschein für das Ausland gestattet.
+#facs_147_r2l18 und dafür nur ein Consignezedel für
+#facs_147_r2l19 irgend einen Ort in Unsern Landen
+#facs_147_r2l20 ausgefertiget werden, den der Führer
+#facs_147_r2l21 als dann bestimmen mag.
+#facs_147_r2l22 5° Für den innern Verkehr von einem
+#facs_147_r2l23 der Cantone Bern, Luzern, Fryburg,
+#facs_147_r2l24 und Solothurn, zum andern, wo die
+#facs_147_r2l25 gleichen
+#facs_147_r4l1 283
+#facs_147_r4l2 gleichen Ausfuhr, Verbotte vorhanden sind, kann
+#facs_147_r4l3 man sich, anstatt der Obrigkeitlichen Transitscheine,
+#facs_147_r4l4 mit denen, so von den Oberamtleuten oder der
+#facs_147_r4l5 Canzley ertheilt werden, begnügen
+#facs_147_r4l6 Alle Arten von Getreid und Reiß sollen nach
+#facs_147_r4l7 Unserer Verordnung vom 19ten August 1793
+#facs_147_r4l8 mit Certificaten von der hohen Obrigkeit, wo
+#facs_147_r4l9 die Waare hingehet, unter deren Standes
+#facs_147_r4l10 siegel bescheinigen.
+#facs_147_r4l11 a. werden Auftrag gegeben und gehabt,
+#facs_147_r4l12 6. wie stark das Quantum dieses Auftrage
+#facs_147_r4l13 gelesen sey,
+#facs_147_r4l14 daß dieses Getreid einzig für den
+#facs_147_r4l15 c
+#facs_147_r4l16 Stand und dessen Gottmässigkeit bestimmt
+#facs_147_r4l17 seyn, und allda verbraucht werden solle.
+#facs_147_r4l18 Was nun ohne diesen Schein durchpaßiren,
+#facs_147_r4l19 will, soll ohne Anstand angehalten
+#facs_147_r4l20 und Unseren Amtläuten angezeigt
+#facs_147_r4l21 werden, damit sie den Vorfall Uns
+#facs_147_r4l22 anzeigen können
+#facs_147_r4l23 2. Alle Consigna- und Transit. Gedlen, so der
+#facs_147_r4l24 auszuführen verbottenen Waare ertheilt
+#facs_147_r4l25 werden, sollen jelveilen die Marsch route
+#facs_147_r4l26 bis an den Ort ihrer Gestimmung verzeigen,
+#facs_148_r3l1 und alle Abweichungen, als eine Widerhand¬
+#facs_148_r3l2 lung gegen die Ausfuhr verbotte, bestraft
+#facs_148_r3l3 werden.
+#facs_148_r3l4 8° Er werden nicht nur die Zollcommissen
+#facs_148_r3l5 und Aufstehern bey dem Eintritt=sondern
+#facs_148_r3l6 auch die folgenden, und besonder die bey
+#facs_148_r3l7 dem Austritt, genau acht geben, ob alle
+#facs_148_r3l8 Scheine in der Siegel seyen; in sonderheit
+#facs_148_r3l9 sollen die Zoll=Commissen und Aufsehern
+#facs_148_r3l10 bey dem Austritt, die aus eren Scheine mit
+#facs_148_r3l11 den Transit. Scheinen des Eintritts=Fürnung
+#facs_148_r3l12 entgegenhalten, damit annoch in rechter
+#facs_148_r3l13 Zeit die Widerhandlung entdekt werden könne.
+#facs_148_r3l14 t
+#facs_148_r3l15 Traduction
+#facs_148_r3l16 Instructions
+#facs_148_r3l17 pour les
+#facs_148_r3l18 Commis des Peages & pour les Inspecteurs
+#facs_148_r3l19 1. L'importation de toute espece de fruits, de vivres
+#facs_148_r3l20 et de denrées, dont la sortie est défendue, demeurent
+#facs_148_r3l21 permise; & à leur entrée dans le Canton, il sera
+#facs_148_r3l22 remis au conducteur un billet de Consigne pour
+#facs_148_r3l23 le lieu de leur destination dans le Canton.
+#facs_148_r3l24 2: Il
+#facs_148_r4l1 183
+#facs_148_r4l2 2°. Il sera exhibé chaque fois, pour le transit des Bestiaux
+#facs_148_r4l3 dont la sortie est défendue des billets de transit &
+#facs_148_r4l4 d'achat de la part du Magistrat du lieu dont ils vien
+#facs_148_r4l5 ment. Lorsqu'ils viendront de quelque endroit de la
+#facs_148_r4l6 Suisse, ces billets devront etre munis du sceau de
+#facs_148_r4l7 l’Etat dans le territoire duquel ils auront été dé-
+#facs_148_r4l8 livrés ; à la reserve toute fois des exception
+#facs_148_r4l9 portées ci-après par l'article troisieme
+#facs_148_r4l10 Pour le transit des métaux, du fil de la rite
+#facs_148_r4l11 & des graines de chanvre et de lin, il suffira
+#facs_148_r4l12 qu’à leur entrée dans le pays, il soit exhibé
+#facs_148_r4l13 des Billets authentiques de transit
+#facs_148_r4l14 3° Si les billets & attestations nécessaires ne
+#facs_148_r4l15 peuvent être exhibés, il ne sera point délivré
+#facs_148_r4l16 au conducteur, de billet-de-transit, mais seule
+#facs_148_r4l17 ment un billet de-Consigné pour tel lieu de
+#facs_148_r4l18 Notre Pays qu'il aura indiqué
+#facs_148_r4l19 4° S'il est constaté, par les attestations exhibées
+#facs_148_r4l20 que les marchandises ont été achetées pour la
+#facs_148_r4l21 suisse, il ne leur sera point accordé de billet.
+#facs_148_r4l22 de-transit pour l'étranger; mais on leur déli
+#facs_148_r4l23 vrera seulement un billet- de-Consigne pour
+#facs_148_r4l24 tel lieu de Nos Pays que le conducteur
+#facs_148_r4l25 5°
+#facs_148_r4l26 aura déterminé.
+#facs_149_r2l1 5° Quand au commerce qui se fait entre les cantons
+#facs_149_r2l2 de Berne, de Lucerne, de Tribourg et de Soleurs
+#facs_149_r2l3 où les mêmes exportations sont prohibées, ou pour
+#facs_149_r2l4 ra, au lieu des billées de transit délivrés de la part
+#facs_149_r2l5 du Souverain, se contenter de ceux qui auront
+#facs_149_r2l6 été délivrés par les Seigneurs Baillifs ou par
+#facs_149_r2l7 la Chancellerie.
+#facs_149_r2l8 6. Toute espece de bleds & de riz sera accompagé
+#facs_149_r2l9 née, à teneur de Notre ordonnance du 19me
+#facs_149_r2l10 Aout 1793 de certificats de la part du souve
+#facs_149_r2l11 rain du lieu pour le quel la marchandise et
+#facs_149_r2l12 destinée, et munis de son sceau. Ces certifiés
+#facs_149_r2l13 cats devront constater
+#facs_149_r2l14 a-quelle personne a donné la Commission
+#facs_149_r2l15 Sr celle qui s'en est chargée,
+#facs_149_r2l16 6. à combien se monte le total de cette commission
+#facs_149_r2l17 C. que ces bleds ou riz sont uniquement destinées
+#facs_149_r2l18 pour le dit Etat, et pour être consommés dans
+#facs_149_r2l19 son territoire :
+#facs_149_r2l20 Tous les bleds ou riz, voulant passer sans
+#facs_149_r2l21 être munis de tels certificats, seront arrivés
+#facs_149_r2l22 tés sans délai, or le cas dénoncé à Notre
+#facs_149_r2l23 Baillif, qui nous en fera aussitôt le
+#facs_149_r2l24 rapport
+#facs_149_r2l25 7:
+#facs_149_r3l1 287
+#facs_149_r3l2 7°. Tous les billets de consigne & de transit, qu'on
+#facs_149_r3l3 remettra aux conducteurs de marchandises dont l'expo
+#facs_149_r3l4 tation est défendue, devront indiquer chaque fois la
+#facs_149_r3l5 route à suivre jusqu’au lieu de la destination de ces
+#facs_149_r3l6 marchandises; et si les conducteurs s'écartent
+#facs_149_r3l7 de cette route, ils seront punis comme ayant eu
+#facs_149_r3l8 freint Nos Ordonnances contre ces exportations
+#facs_149_r3l9 8o Non seulement tous nos commis & Inspec-
+#facs_149_r3l10 leurs dans Nos Bureaux d'entrée, de même que
+#facs_149_r3l11 ceux qui se trouvent sur la route, & principa-
+#facs_149_r3l12 lement ceux de Nod Bureaux de sortie, veilleront
+#facs_149_r3l13 avec soin à ce que tous les certificats et
+#facs_149_r3l14 billets soient en règle; mais sur tout les
+#facs_149_r3l15 commis et Inspecteurs dans les Bureaux
+#facs_149_r3l16 de sortie, confronteront avec attention les
+#facs_149_r3l17 certificats & billets étrangers avec les billets de
+#facs_149_r3l18 transit délivrés au bureau d'entrée, afin qu'on
+#facs_149_r3l19 puisse découvrir encore à tems les contraventions
+#facs_149_r3l20 qui auroient eu lieu à cet egard.
+#facs_149_r3l21 0
+#facs_149_r3l22 Wegen Reis Ankauf und Ausfuhr, von
+#facs_149_r3l23 Biel und Neuenburg
+#facs_149_r3l24 fleuth zu Lenzburg.
+#facs_149_r3l25 An die Herren
+#facs_150_r1l1 288
+#facs_150_r1l2 Coll.
+#facs_150_r3l1 Aarburg, Wangen, Aarwangen, Zipp,
+#facs_150_r3l2 Büren, Diärberg, Nydau, Erlach, Wiblis
+#facs_150_r3l3 burg, Petterungen cons., Aelen, Vivis,
+#facs_150_r3l4 Lausanne, Morsen, Pferten, Thun
+#facs_150_r3l5 Untersteen und Burgdorf.
+#facs_150_r3l6 Schultheiß und Rath
+#facs_150_r3l7 Und ist der zuverläßige Bericht erstatlet
+#facs_150_r3l8 worden, daß in hiesigen Landen, von
+#facs_150_r3l9 seiten Neuenburg und Viel Viel Be¬
+#facs_150_r3l10 angekauft, und in das Ausland geführt
+#facs_150_r3l11 werde, dahero Wir Euch anmit befehlen
+#facs_150_r3l12 hierauf, und daß dies Orts der Hochobers
+#facs_150_r3l13 keitlichen Verordnung nach gelebt werde
+#facs_150_r3l14 genau zu Heriliren. Datum den 23ten April 1794.
+#facs_150_r3l15 Bebantmechung des von Loblern Stand freyburg
+#facs_150_r3l16 aus gegangenen Verbotts der Ausfuhr von Hauf¬
+#facs_150_r3l17 und Flocht-Samen, Rysten, Flachs und Garn, fernet
+#facs_150_r3l18 der Häuten und des Leders, so wie auch des ge¬
+#facs_150_r3l19 meinen Metalls aller Art.
+#facs_150_r3l20 An alle d. und W: Herren Amtleut, 4 Städt
+#facs_150_r3l21 Freyweibel und Ammann.
+#facs_150_r3l22 Einligend übersenden
+#facs_150_r3l23 Schultheiß und Rath
+#facs_150_r3l24 Wir Euch eine genugsame Anzahl Exemplar
+#facs_150_r3l25 sous vous
+#facs_150_r5l1 289
+#facs_150_r5l2 von derjenigen Verordnung, welche Lobl. Stand
+#facs_150_r5l3 freyburg ausgehen laßen, wegen ausfuhr des
+#facs_150_r5l4 Hanf- und Flachbe Saamen, Rysten, Flachs, Garn,
+#facs_150_r5l5 hohen und Verarbeiteten Haüten und Metall,
+#facs_150_r5l6 nit dem befelchlichen Auftrag, solche zu mannig
+#facs_150_r5l7 licher Nachricht und Verhalt von Canzlen zu
+#facs_150_r5l8 verlesen und gewohnten Orten anschlagen zu
+#facs_150_r5l9 laßen
+#facs_150_r5l10 Dabey Wir Euch in Erläuterung unserer im
+#facs_150_r5l11 term 17ten März u. 2. April emanirten
+#facs_150_r5l12 daherigen Verordnungen hiemit zum Verhalt
+#facs_150_r5l13 anfügen, daß von diesen obbemelten Verord¬
+#facs_150_r5l14 umgen einzig und allein die Angehörige Lobl.
+#facs_150_r5l15 Standes Freyburg ausgenommen seyn sollen, welchen
+#facs_150_r5l16 wie bis dahin freystehen wird, in hiesigen Landen
+#facs_150_r5l17 diese obernäusete Waaren anzukaufen zu
+#facs_150_r5l18 nalen die hiesigen Angehörigen gleiche Freyheit
+#facs_150_r5l19 hinter bemelten Lobl.n Standes Battmässigkeit
+#facs_150_r5l20 mießen
+#facs_150_r5l21 Welches Ihr denen bestellten Aufsehern
+#facs_150_r5l22 Eüeres/ Amts/ Bezirks/ zur Befolgung eröffnen
+#facs_150_r5l23 auch in Vorfallenheiten sich darnach richten werdet.
+#facs_150_r5l24 Datum den 29ten April 1794
+#facs_150_r5l25 = obid
+#facs_151_r2l1 ob id
+#facs_151_r2l2 Publication
+#facs_151_r2l3 Wir Schultheiß und Rath der Stadt
+#facs_151_r2l4 und Republer perte, thun kund hiermit
+#facs_151_r2l5 Demnach Löbl. Stand Freyburg nöthig erachtet
+#facs_151_r2l6 in dasigen Landen hienachstehende Verordnung
+#facs_151_r2l7 ausgehen zu lassen, in Betreff der Ausfahr
+#facs_151_r2l8 des flachs, und Hanf. Saamen des Flachs Ryster
+#facs_151_r2l9 und Garns, des Leders, der rohen und verar¬
+#facs_151_r2l10 beiteten Haute, des Eisen, Blech, Sturz, Zins
+#facs_151_r2l11 Bley, Kupfer und Mesing; als wird
+#facs_151_r2l12 dieselbe Unsern lieben und getreuen Ange¬
+#facs_151_r2l13 und Verhalt
+#facs_151_r2l14 hörigen zu ihrer Wissenschaft dahin bekannt
+#facs_151_r2l15 gemacht, daß die freyburgischen Angehörige
+#facs_151_r2l16 in hiesigen Landen, in dieser Rüksicht gleich
+#facs_151_r2l17 wie die Unsrigen hinter Freyberg, werden
+#facs_151_r2l18 angesehen werden.
+#facs_151_r2l19 Geben den 27ten April 1794
+#facs_151_r2l20 Verordnung
+#facs_151_r2l21 Wir Schultheis klein und Grosse
+#facs_151_r2l22 Räthe der Stadt und Republik Freyburg
+#facs_151_r2l23 entbieten allen Unsern lieben und getreuen
+#facs_151_r2l24 Angehörigen Unsern gnädigen und geneigten
+#facs_151_r2l25 3 Willen
+#facs_151_r3l1 291
+#facs_151_r3l2 Willen, und geben anmit zu vernehmen.
+#facs_151_r3l3 daß, da die fortgesezte und immer zuneh¬
+#facs_151_r3l4 mende Entäußerung der Hauf = und Flachs =
+#facs_151_r3l5 Saamen, des Flachs, Rysten und Garns, der
+#facs_151_r3l6 nohen und verarbeiteten Heute, des Eisen-
+#facs_151_r3l7 Blechs, Sturzes, Zinnes, Bley Kupfer und
+#facs_151_r3l8 Messings, Unsere Landesväterliche Wachsam,
+#facs_151_r3l9 heit in Besorgnis sezet, einen gänzlichen Mangel
+#facs_151_r3l10 in diesen zum täglichen Gebrauch sowohl als zur
+#facs_151_r3l11 Beschäftigung der Werkstätte unentbehrlich
+#facs_151_r3l12 nöthigen Waare zu leiden; als haben Wir
+#facs_151_r3l13 Zum allgemeinen Vortheil unserer lieben und
+#facs_151_r3l14 getreuen Angehörigen, einer unnachläßigen
+#facs_151_r3l15 Nothwendigkeit erachtet, die Ausfuhr aus Unser
+#facs_151_r3l16 Mediat und Immediat Landen aller Hauf- und flachs¬
+#facs_151_r3l17 samen, wie auch aller Rysten, flachses und Gerns
+#facs_151_r3l18 alles leinigen und rystigen Tuchs und verarbei¬
+#facs_151_r3l19 teten Leinwand, alles Laders, aller rohen und
+#facs_151_r3l20 verarbeiteten Haute, alles verarheiteten so
+#facs_151_r3l21 wie auch rohen und alten Erztes, Eisen, Blech,
+#facs_151_r3l22 Sturz, zum Bley, Kupfer und Messings aller
+#facs_151_r3l23 Art, transitwaare allein ausge¬
+#facs_151_r3l24 nun an bis auf fernere Verordnung hin ernstlich
+#facs_151_r3l25 zu verbieten; und von diesem Allgemein
+#facs_151_r3l26 = aus
+#facs_152_r2l1 Ausfuhr Verbott einzig und allein die Ange¬
+#facs_152_r2l2 hörigen leblichen Standes Bern aus zunehmen, welchen
+#facs_152_r2l3 wie bis dahin frey stehen wird in hiesigen Landen
+#facs_152_r2l4 die obgezeichnete Waare einzukaufen, so lange
+#facs_152_r2l5 Unsern eigenen Angehörigen eine gleiche Frey
+#facs_152_r2l6 heit hinter besagten Loblen Standes Bern Gebieth
+#facs_152_r2l7 wird zugelaßen seyn.
+#facs_152_r2l8 Die Trausitwaaren sind, wie gesagt, allein
+#facs_152_r2l9 ausgenommen, in dem Verstande, daß bey den
+#facs_152_r2l10 ersten Zollstatt, wo die Waare ins Land tritt
+#facs_152_r2l11 daher ein Transitschein von der Obrigkeit des
+#facs_152_r2l12 Orts woher sie komt, vorgewiesen, von dem
+#facs_152_r2l13 Zoll Commis unterzeichnet, die Marsch Route
+#facs_152_r2l14 constigniert, und darum die lezte Grenz Zollt
+#facs_152_r2l15 statt der Route angewiesen werde. Bey
+#facs_152_r2l16 allen Grenz Zollstätten soll demnach aufs sorgt
+#facs_152_r2l17 fältigste geachtet werden, daß keine durch
+#facs_152_r2l18 genwärtige Verordnung verbothene Waare
+#facs_152_r2l19 aus dem Lande gelassen werde, es könne dem
+#facs_152_r2l20 dafür ein solcher unterzeichneter Transitschein
+#facs_152_r2l21 vorgezeigt und bescheiniget werden, daß sie
+#facs_152_r2l22 die vorgeschriebene Marschraute gehalten.
+#facs_152_r2l23 Wir verbieten ferners allen Unsern
+#facs_152_r2l24 Angehörigen zu Stadt und Land alles Ernsts,
+#facs_152_r2l25 = sich
+#facs_152_r3l1 293
+#facs_152_r3l2 = sich weder für eidgenössische noch andere Händler
+#facs_152_r3l3 und fremde, als Unterhändler oder Commission
+#facs_152_r3l4 närs gebrauchen zu laßen, noch deßenthalben
+#facs_152_r3l5 mit jemanden einigen Accors oder Abrede zu
+#facs_152_r3l6 treffen, der fernern Meynung, daß sowohl
+#facs_152_r3l7 die Unterhändler als ihre Auftrag geber
+#facs_152_r3l8 um und für den andern um den Frevel verant¬
+#facs_152_r3l9 wortlich und bestraft seyn sollen. Alle und
+#facs_152_r3l10 jede Verpachtungen, so wie auch alle bis auf die
+#facs_152_r3l11 Kundmachung dieser Verordnung nicht erfüllte
+#facs_152_r3l12 Käufe und widrige Bestellungen, sollen ungültig
+#facs_152_r3l13 und zernichtet und die Ausfuhr derselben bey ange¬
+#facs_152_r3l14 sezter Buße verbotten seyn.
+#facs_152_r3l15 Auf die Widerhandlung in allen diesen Fällen
+#facs_152_r3l16 haben Wir nebst der Confiscation, eine Buße
+#facs_152_r3l17 vom halbigen Wenth des Confiscirten gesezt;
+#facs_152_r3l18 in dem Verstand, daß dieselbe bey der zweyten
+#facs_152_r3l19 Widerhandlung verdoppelt werden solle; und
+#facs_152_r3l20 falls der Fehlbare nicht vermöglich wäre diese Buße
+#facs_152_r3l21 zu bezahlen, so soll derselbe eingesetzt und nach
+#facs_152_r3l22 Unsers täglichen Raths Erkenntniß abgestraft
+#facs_152_r3l23 werden
+#facs_152_r3l24 Die Zuße und Confiscation soll in drey
+#facs_152_r3l25 gleiche Theile vertheilt werden, dessen ein Drittel
+#facs_152_r3l26 Unsern fürgeliebten Vernern für die Stadt und
+#facs_152_r3l27 = alte
+#facs_153_r2l1 4. Landschaft, und den Amtsleuten auf
+#facs_153_r2l2 dem Lande, uns wie gewöhnlich zu verrecht
+#facs_153_r2l3 ein Drinel den Armen des Orts wo die Widm
+#facs_153_r2l4 handlung ist entdekt worden, und ein Drittel
+#facs_153_r2l5 bein verlener unter Geheimhaltung seiner
+#facs_153_r2l6 Namens, zukommen soll.
+#facs_153_r2l7 Weiger zu Jedermanns Verhalt durch
+#facs_153_r2l8 den Erur öffentlich kund gemacht, verlesen
+#facs_153_r2l9 und an den gewohnten Orten angeschlagen
+#facs_153_r2l10 werden soll; mit dem ernstlichen Befehl
+#facs_153_r2l11 an alle Unsere Amtsleute, Vorgesezte
+#facs_153_r2l12 Inspectoren und Zollcommissen über die
+#facs_153_r2l13 Vollziehung gegenwärtiger Verordnung sorg¬
+#facs_153_r2l14 hältigst zu wachen und die Widerhandelnden
+#facs_153_r2l15 ohne Schonung zu vorschriftmäßiger Gestrafen
+#facs_153_r2l16 fung anzuzeigen, damit die Bußer abgefor¬
+#facs_153_r2l17 dert, und die Sache, weigernden falls, vor
+#facs_153_r2l18 Unsern täglichen Rath gebracht werde.
+#facs_153_r2l19 Geben in Unserer Großen Raths Ver¬
+#facs_153_r2l20 amlung, den 8ten April 1794
+#facs_153_r2l21 gl
+#facs_153_r2l22 Canzlen Vreyburg
+#facs_153_r4l1 295
+#facs_153_r4l2 Traductions
+#facs_153_r4l3 Publication
+#facs_153_r4l4 Nous l'avoyer & Conseil de la
+#facs_153_r4l5 Ville & République de Berne, savoir faison
+#facs_153_r4l6 par les présentes, que le Louable Etat de
+#facs_153_r4l7 Tribourg, ayant jugé nécessaire d'émane
+#facs_153_r4l8 l'ordonnance ci-après, concernant l'exportation
+#facs_153_r4l9 de la graine de lin & de chanvre, du lin, de la
+#facs_153_r4l10 rite & du fil, du cuir, des peaux crues & tannées
+#facs_153_r4l11 du fer blanc de la tole & de l'étain, du plomb, dans
+#facs_153_r4l12 cuivre & du laiton, hors de son territoire ; Nous
+#facs_153_r4l13 avons fait publier la dite Ordonnance pour la con-
+#facs_153_r4l14 noissance & conduite des Vos chers & fidelles Ressor
+#facs_153_r4l15 tissans ; en statuant en outre, que les Ressortis-
+#facs_153_r4l16 sans du Canton de Fribourg seront traités à cet
+#facs_153_r4l17 égard dans nos Etats comme nos Ressortissans
+#facs_153_r4l18 le fort dans le dit canton. Donne le
+#facs_153_r4l19 27 Avril 1794
+#facs_153_r4l20 Ordonnance
+#facs_153_r4l21 Nous l'avoyer Petit & Grand
+#facs_153_r4l22 conseils de la Ville & République de
+#facs_153_r4l23 Fribourg, assusons tous nos chers & fideles
+#facs_153_r4l24 Ressorlissans de nôtre gracieuse bienveillance
+#facs_154_r2l1 & affection & leur faisons savoir. Que
+#facs_154_r2l2 l'exportation continuelle et qui va toujours en
+#facs_154_r2l3 augmentant de la graine de lin & de chanvre
+#facs_154_r2l4 du lin, de la rite et du fil, du cuir, des peaux
+#facs_154_r2l5 crus & lannées, vu fer, du fer blanc, de la tole
+#facs_154_r2l6 de l'étain, du promb, du cuivre & du laiton
+#facs_154_r2l7 ayant mis notre sollicitude & vigilance pater
+#facs_154_r2l8 nelle dans le cas de craindre un dénuement
+#facs_154_r2l9 complet de ces objets nécessaires soit pour l'usage
+#facs_154_r2l10 journalier, soit pour occuper les atteliers
+#facs_154_r2l11 Nous avons jugé d'une nécessité absolue pour
+#facs_154_r2l12 l'avantage general de nos chers & fidèles Res-
+#facs_154_r2l13 sortissans, de défendre sévèrement dès aprésent
+#facs_154_r2l14 & jusqu'à nouvel ordre, la sortie hors de nos
+#facs_154_r2l15 États tant médiats quimmediats, de toute
+#facs_154_r2l16 graine de lin & de chanvre comme aussi de
+#facs_154_r2l17 tout lin, rête & fil, de toute toile de lin & de
+#facs_154_r2l18 fête & de tout linge, De tout cuir, de toules peaux
+#facs_154_r2l19 crües ou tannées, de tous les métaux quelconques
+#facs_154_r2l20 foit travaillés, soit vieux ou brats ou matiéres
+#facs_154_r2l21 de fonte, fer, ferblanc, tole, étaim, plomb,
+#facs_154_r2l22 cuivre ou laiton de toute espèce, à l'exception
+#facs_154_r2l23 des seules marchandises de transit
+#facs_154_r2l24 De cette défense générale sont seuls exceptés
+#facs_154_r2l25 = les
+#facs_154_r3l1 '97
+#facs_154_r3l2 les Ressortissans du Louable Canton de Berne
+#facs_154_r3l3 auxquels il continue d'être libre d'acheter dans
+#facs_154_r3l4 Nos Etats comme du passé, les objets ci-haut
+#facs_154_r3l5 pécifiés, aussi longtems que nos propres Res-
+#facs_154_r3l6 sortissans jouiront de la même liberté, rien eux
+#facs_154_r3l7 À l'égard des marchandises de transit, nous
+#facs_154_r3l8 reservons expressement, qu'a leur entrée dans le
+#facs_154_r3l9 pays il soit exhibé au premier Bureau de peage
+#facs_154_r3l10 un Billet de transit de la part du magistrat du
+#facs_154_r3l11 lieu d'oû elles viennent, lequel Billet sera signé
+#facs_154_r3l12 par le commis du peage, qui y consignera la
+#facs_154_r3l13 route à suivre, de même que le Bureau de sortie
+#facs_154_r3l14 On veillera donc exactement dans tous nos
+#facs_154_r3l15 Bureaux de sortie, à ce qu'il ne sorte du pays
+#facs_154_r3l16 aucune espèce de marchandises dont l'expor
+#facs_154_r3l17 tation est prohibée par la présente Ordonnance
+#facs_154_r3l18 à moins que le conducteur ne puisse exhiber
+#facs_154_r3l19 un pareil Billet de transit & constater qu'elles
+#facs_154_r3l20 ont suivi la route préscrite
+#facs_154_r3l21 Nous defendons aussi très expressément
+#facs_154_r3l22 a tous nos Ressortissans, tant dans les villes
+#facs_154_r3l23 que dans les campagnes ; de se laisser employer
+#facs_154_r3l24 soit par des Ressortissans des Cantons Suisses,
+#facs_154_r3l25 soit par d'autres marchands étrangers, comme
+#facs_154_r3l26 entre
+#facs_155_r2l1 entremetteurs & commissionaires & de faire
+#facs_155_r2l2 aucuns accoies ou conventions quelconques
+#facs_155_r2l3 pour de les objets; & en cas de contravention
+#facs_155_r2l4 les écrirement & les commettans seront ega
+#facs_155_r2l5 lement répondables l'un pour l'autre et
+#facs_155_r2l6 punis en conséquence
+#facs_155_r2l7 Nous ancantissons & déclarons nuls et in
+#facs_155_r2l8 valides tous les convenus & marchés qui n'au-
+#facs_155_r2l9 roient pas été accomplis avant la publication
+#facs_155_r2l10 de la présente Ordonnance, ainsi que toutes les
+#facs_155_r2l11 conventions qui lui sont contraires & défendons
+#facs_155_r2l12 l'exportation de ces objets sous la peine qui sait
+#facs_155_r2l13 Nous avons statué en cas de contravention
+#facs_155_r2l14 outre la confiscation, une amende équivalente
+#facs_155_r2l15 à la moitié de l'objet ou de la marchandise
+#facs_155_r2l16 confisquée. Ces peines seront doublées en
+#facs_155_r2l17 cas de récidive ; & si le contrevenant n'est
+#facs_155_r2l18 pas a même d'acquiter l'amende encoura
+#facs_155_r2l19 il sé sa emprisonné & puni selon la connoissance
+#facs_155_r2l20 de notre Conseil privé
+#facs_155_r2l21 L’amende et confiscation seront divisées en
+#facs_155_r2l22 trois parties égales, dont un tiers appartiendra
+#facs_155_r2l23 à nos chers & bien aimés Bannerets pour les
+#facs_155_r2l24 = Contra=
+#facs_155_r3l1 99
+#facs_155_r3l2 contraventions commises rien la capitale &
+#facs_155_r3l3 les anciennes terres, ou à nos Baillifs sur le
+#facs_155_r3l4 pays, qui le porteront dans leurs comptes.
+#facs_155_r3l5 ordinaires; un tiers sera dévolu aux pauvres
+#facs_155_r3l6 du lieu ou la contravention aura été découverte
+#facs_155_r3l7 & un tiers sera remis au dénonciateur, dont
+#facs_155_r3l8 le nom demeurera secret
+#facs_155_r3l9 Ce qui pour la conduite d'un chacun devra
+#facs_155_r3l10 être imprimé, là & affiché à lieux accoutumes
+#facs_155_r3l11 Mandons en conséquence, à tous nos Baillifs,
+#facs_155_r3l12 Préposés, Inspecteurs & Commis de Péages,
+#facs_155_r3l13 de veiller soigneusement à l'exécution ponctuelle
+#facs_155_r3l14 de la présente ordonnance, & dénoncer sans
+#facs_155_r3l15 ménagement les contrevenans, afin qu'ils
+#facs_155_r3l16 soient punis comme il vient d'être préscrit
+#facs_155_r3l17 & que le fait en cas de refus, puisse être
+#facs_155_r3l18 porté par devant notre Conseil privé
+#facs_155_r3l19 Donné en notre Grand Conseil
+#facs_155_r3l20 le 8e Avril 1794
+#facs_155_r3l21 /:signé :/
+#facs_155_r3l22 Chancellerie de Fribourg
+#facs_155_r3l23 3
+#facs_156_r2l1 Lapitel baltung
+#facs_156_r2l2 Ao. 1794 anbefohlen
+#facs_156_r2l3 An alle deutsch und Welsche Herren Amtläut iten,
+#facs_156_r2l4 Zofingen und Gallstadt, exceptis Signaä laut
+#facs_156_r2l5 Köniz, Büchsen, Oberhasli und Pelleslingen
+#facs_156_r2l6 Schultheiß und Raths.
+#facs_156_r2l7 Da wiedermalen die Zeit, die gewohn¬
+#facs_156_r2l8 samlung des Capitals und den Classen zu halten
+#facs_156_r2l9 haben Wie füg befehlen wollen, mit Hinden
+#facs_156_r2l10 sezung allen andern Geschäften und bey Euer
+#facs_156_r2l11 Euch zu seiner Zeit seines Orts einzufinden
+#facs_156_r2l12 und verschaffen zu helfen, daß alles anbei
+#facs_156_r2l13 in die Abta gebracht, und solche uns ohne Ver¬
+#facs_156_r2l14 esub übersendt werden. Datum d. 3 May 1794
+#facs_156_r2l15 ob id
+#facs_156_r2l16 An alle Decanen Deutsch- und Claßen Welschen Lands
+#facs_156_r2l17 Schultheiß und Rath
+#facs_156_r2l18 Da die Zeit zu haltung der Capitlen und Claßen
+#facs_156_r2l19 hiranrubel, haben Wir Euch anmit anbefehlen
+#facs_156_r2l20 wollen, solche gewohntermaßen zu versamlen
+#facs_156_r2l21 und sodann zu veranstalten, daß alles ad
+#facs_156_r2l22 acta gebracht, solche gewohnter maßen signiret
+#facs_156_r2l23 und Uns sogleich eingesandt werden
+#facs_156_r2l24 Datum at Supra
+#facs_156_r3l1 vide six vor
+#facs_156_r3l2 p 91. & 108
+#facs_156_r4l1 101
+#facs_156_r4l2 Erläuterung des Hochoberkeitlichen
+#facs_156_r4l3 Diese und Pfarr ausführ-Verbolls vom 3ten
+#facs_156_r4l4 4ten März 1794
+#facs_156_r4l5 de Herren Amtlie
+#facs_156_r4l6 solothurn
+#facs_156_r4l7 ...
+#facs_156_r4l8 de
+#facs_156_r4l9 Schultheiß und Rath u.
+#facs_156_r4l10 Verordnung Ur Ghhl. und Obern Räth.
+#facs_156_r4l11 den 3ten und 4ten Merz lezthin in
+#facs_156_r4l12 Betraf der Pferd und Vieh ausfuhr, die Sicherheit
+#facs_156_r4l13 des nöthigen Vorraths an dieser Waar in hiesigen
+#facs_156_r4l14 den und der Eydgenosschaft auch eine gänzliche
+#facs_156_r4l15 und
+#facs_156_r4l16 nößtischen
+#facs_156_r4l17 na
+#facs_156_r4l18 best gesetzt
+#facs_156_r4l19 ou
+#facs_156_r4l20 stolla, und und
+#facs_156_r4l21 haben, die Ausfuhr erlau¬
+#facs_156_r4l22 4th Aprill
+#facs_156_r4l23 Lobl. Stand Solothuen, welche
+#facs_156_r4l24 1794 der Ausfuhr äußert die Eysgroßschaft
+#facs_156_r4l25 so wie Wir vorgebogen hat, auch den Solo¬
+#facs_156_r4l26 thurnern erlaubet hat, Ihr Vieh und Pferde
+#facs_156_r4l27 auf hiesige Märkte zu bringen; sie haben Wir
+#facs_156_r4l28 Erläuterung und zur Wegweisung Unsrer
+#facs_156_r4l29 Amtleuten, die dieses Verschieden zu verstehen
+#facs_156_r4l30 scheinen, Euch überschreiben wollen, daß in Folge
+#facs_156_r4l31 dessen auch unsern samtlen angehörigen Ein¬
+#facs_156_r4l32 Tahn, mit ihren Pferden und Horn wieh die
+#facs_156_r4l33 offent
+#facs_157_r2l1 vide sie vor
+#facs_157_r2l2 p: 269
+#facs_157_r3l1 offentlichen Märkte in dem Canton Solothuen
+#facs_157_r3l2 zu besuchen, und Ihr Euch dünahen eine völlige
+#facs_157_r3l3 Reciprocität gegen bemelte übrige Eyd ge¬
+#facs_157_r3l4 nössische Cantonen zur Richtschnur und Verhalt
+#facs_157_r3l5 dienen lassien soilet. Welches behörig bekant
+#facs_157_r3l6 zu machen Wir Euch überlassen. Datum der
+#facs_157_r3l7 6ten May 1794
+#facs_157_r3l8 Df

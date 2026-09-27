@@ -1,0 +1,57 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 50/50
+# High similarity (>=80%): 45
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_241_r2l8 wird bey 50. Thlr verbotten.
+#facs_30_r4l1 57
+#facs_9_region_1629822406380_88l_2 Coll
+#facs_41_r4l3 a-
+#facs_241_r2l2 Die Herren Amtleut zu Milden, Viris,
+#facs_241_r2l3 Perten
+#facs_241_r2l4 Lausanne, Morsee, Neüs, Grandson,
+#facs_241_r2l5 dene die 4 Ärganischen Städt
+#facs_241_r2l6 das Impressum, betrittelt: Expose Justificatie
+#facs_241_r2l7 pour le peuple du Canton de Frybourg
+#facs_241_r2l8 wird bey 50. Thlr verbotten.
+#facs_248_r2l10 Statthalter und Rath
+#facs_241_r2l10 fryburg sind Wir berichtet worden, daß
+#facs_241_r2l11 ein zu Benf gedruktes= und muth¬
+#facs_241_r2l12 mäßlich von dem entlichenen Advocaten
+#facs_241_r2l13 Castella verfaßtes Memoire, zum Vorschein
+#facs_241_r2l14 gekommen, betittelt: Exposé Justificativ
+#facs_241_r2l7 pour le peuple du Canton de Frybourg
+#facs_241_r2l16 en Suisse, au Sujet des Troubles a
+#facs_241_r2l17 en 1781., welches, wegen denen darinnen
+#facs_241_r2l18 enthaltenen gefährlichen Stellen, von weil
+#facs_241_r2l19 aussehenden Folgen seyn, und so gar
+#facs_241_r2l20 die ausgebrochenen Unruhen vermehren
+#facs_241_r2l21 könte, so daß dieser lobliche Stans beloogen
+#facs_241_r2l22 worden, bey uns dahin einzulangen,
+#facs_241_r2l23 damit die Austheilung dieser Schrifft
+#facs_241_r2l24 so viel möglich behinderet werde.
+#facs_241_r2l25 Wir tragen Euch demnach auf die
+#facs_241_r3l1 573
+#facs_241_r3l2 Ruchhändler oder andere Personen, in
+#facs_241_r3l3 Eüerein Amt, von denen zu vermuthen,
+#facs_241_r3l4 daß ihnen dieses Impressum zum
+#facs_241_r3l5 Verkauf oder Austheilung möchte
+#facs_241_r3l6 zugesendt worden seyn, in aller Stille
+#facs_241_r3l7 vor Euch zu bescheiden, und ihnen den
+#facs_241_r3l8 Verkauf oder Publication desselben,
+#facs_241_r3l9 mit allem Nachdruk zu undersagen,
+#facs_241_r3l10 falls sie auch wirklich von denenselben
+#facs_241_r3l11 Exemplaria erhalten hätten, werdet
+#facs_241_r3l12 Ihr solche zu Oberkeitlichen handen
+#facs_241_r3l13 einziehen laßen, ins besonders aber
+#facs_241_r3l14 vigilieren, daß dieses Werklein, bey
+#facs_241_r3l15 einer Ruß von 50. Thaler, nicht etwan
+#facs_241_r3l16 en den Ruchdrübereyen Euers Amts¬
+#facs_241_r3l17 nachgedrukt oder verkauft werde.
+#facs_241_r3l18 Wir versehen Uns zu Euch allerbestens
+#facs_241_r3l19 daß deme vollkommen werde nachgelebt
+#facs_241_r3l20 werden. Dat. d. 23. Julii 1781.
+#facs_178_r8l1 en

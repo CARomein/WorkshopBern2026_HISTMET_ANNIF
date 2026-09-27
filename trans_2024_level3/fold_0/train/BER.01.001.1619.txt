@@ -1,0 +1,75 @@
+Law ID: BER.01.001.1619
+Name: Beschreibung die Oberlendischen Mannlechen zeempfachen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 64/64
+# High similarity (>=50%): 62
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_274_r1l14 Oberhoffen, Thun, Wimmis, Biglen
+#facs_274_r1l15 Münsigen, Thurnen, Burtzelen, Wantzeried
+#facs_274_r1l16 Waberen,
+#facs_274_r1l17 Beschreibung die Oberhendischen Mannleihe
+#facs_274_r1l18 zeempfachen
+#facs_274_r1l19 Cott. Schuld theis vnnd Rhat der Statt Bern.
+#facs_274_r1l20 Wir habend die bereinigung vnnd gewohnte widerver-
+#facs_274_r1l21 leichung vnserer Oberlendischen Mannlechen, welche Im
+#facs_274_r1l22 den Jüngst-verfloßnen dryen Jahren, sitt der letsten
+#facs_274_r1l23 empfachung Im handenderung gefallen, heürigen Jahrs
+#facs_274_r1l24 verrichten helaßen gut befunden, vnnd darzu vnseren
+#facs_274_r1l25 fürgeliebten Mitrhat Herren Venner vnnd Baumherren
+#facs_274_r1l26 Frisching verordnet vnnd abgefertiget. Ist demnach
+#facs_274_r1l27 vnser beuelhann dich, alle die Jenigen Inndeiner Ver
+#facs_274_r1l28 waltung, welche dergleichen Lechen Inn der Castlancy
+#facs_274_r1l29 Nidersibenthal zu empfachen habend, durch offne verkündung
+#facs_274_r1l30 diß, dahin Zeweisen vnnd zuuermahnen, sich vff sonstag
+#facs_274_r2l1 la 29
+#facs_274_r2l2 Den 25. vnnd 26. diß gegenwürtigen Monats, zu Erlenbach, zue
+#facs_274_r2l3 gewohnter Morgens Zeit, gebürend einzestellen, daselbst Ihr
+#facs_274_r2l4 lechen, Inn guten treüwen anzegeben, vnnd mit gebürendem
+#facs_274_r2l5 Erschat Zeempfachen, bei Verwürck- vnnd Verlierung der
+#facs_274_r2l6 Lechen, so als dann nit angeben vnnd erkent wurde: (darbe
+#facs_274_r2l7 [duia]
+#facs_274_r2l8 Ober- und Niden¬
+#facs_274_r2l9 ich auch die Vnderambtleüth mit Ihren Sey- und Bergbüchern
+#facs_274_r2l10 Sibenthal, Funtig
+#facs_274_r2l11 gebefinden, vnnd Ihren ernorderlichen bericht zugeben haben.
+#facs_274_r2l12 and Interlack
+#facs_274_r2l13 vordend. Wie wir vnns versechend, vnnd darbei dich Gott
+#facs_274_r2l14 wol empfelchend. Datum 18 May 1654
+#facs_274_r2l15 Zweisimlen, Sanet
+#facs_274_r2l16 Die welche Lochen zu Goltigen Zeempfachen habend, sollend
+#facs_274_r2l17 daselbst erscheinen vff Sambstag den 27. May
+#facs_274_r2l18 die aber so zu zweisimmen zempfachen schuldig, sollen daselbst
+#facs_274_r2l19 sich einstellen vff Montag 29. vnnd Instag 30. May.
+#facs_274_r2l20 Frutigen
+#facs_274_r2l21 Die so hinder dem Landt Äschi, Mülinen vnnd Reichenbach zu
+#facs_274_r2l22 empfachen habend sollend vff Freitag 2. Juny zu Mulinen,
+#facs_274_r2l23 die aber so zu frutigen, Im Adelboden Landersteg vnnd
+#facs_274_r2l24 anderer Orten hinder Frutigen zuempfachen habend, sollend vff
+#facs_274_r2l25 Sambstag den 3. vnnd Montag den 5. Juny, zu Frutigen
+#facs_274_r2l26 erscheinen
+#facs_274_r2l27 Interlacken. Vnd erseren. Oberhaßle¬
+#facs_274_r2l28 Alle Empfacher Im Ambt Interlacken, sollend vff Mit wuchen
+#facs_274_r2l29 vnnd Donstag den 7. vnnd 8. Junii nechstkünfftig gan
+#facs_274_r2l30 1
+#facs_274_r2l31 Interlacken Inns Dasthaus gehalten werden.
+#facs_275_r3l1 Appendixann zweisinnen
+#facs_275_r3l2 Bei diser glegenheit wirt auch die gemachte neüwe beschrei¬
+#facs_275_r3l3 bung aller vnser Mannlechte Inn den Kilchhörme, zweisinnen
+#facs_275_r3l4 St Steffan vnnd ann der leugck, bereiniget, vnd daründer
+#facs_275_r3l5 gen verschlagnen leihen nachgeforschet werden, darzu dann
+#facs_275_r3l6 die Zusamerkunfft vnnd gegenwart aller Lechensbesitzere
+#facs_275_r3l7 Inns gemein, sie habind gleich etwas Zeempfache, oder nit,
+#facs_275_r3l8 eruorderet wirt, unnd ist deßwegen unser will vnnd
+#facs_275_r3l9 beuelch, das alle die Jenigen, so Inn berürten Klchhörinen,
+#facs_275_r3l10 von vnns Lechen besitzen, vff Mitwuchen den 31. diß
+#facs_275_r3l11 zu zweisimmen guter Früyer Morgens Zeit sich mit Ihren
+#facs_275_r3l12 Lechenbrieffen, befinden vnnd einstellen sollend, Bei meidung
+#facs_275_r3l13 ebenmeßigen verlursts der Lochen, welche den vßbleibende
+#facs_275_r3l14 genommen, vnnd nach belieben andernwertig hingeben
+#facs_275_r3l15 werden solten. Darnach wüßen solche lechen leüt Ihre
+#facs_275_r3l16 schuldigkeit zeerstatten. Datum ut supra

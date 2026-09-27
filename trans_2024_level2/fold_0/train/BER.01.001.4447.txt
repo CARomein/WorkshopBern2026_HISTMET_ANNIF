@@ -1,0 +1,42 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 34/35
+# High similarity (>=80%): 34
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4447
+#facs_336_r4l12 Lobl. Standt Fryburg angehörige so die Jäger Ordnung über
+#facs_103_r10l1 a
+#facs_318_r3l9 Die an Löbl. Stand Fryburg angrenzende Herren
+#facs_336_r4l9 Amtlent, als Saanen, Stifft, Laupenen in T: Land, den
+#facs_336_r4l10 Milden, Lausane, Oron, vitis, Ifferten, Petterlingen,
+#facs_336_r4l11 Gubernator et Cons. und Wiblispurg
+#facs_336_r4l12 Lobl. Standt Fryburg angehörige so die Jäger Ordnung über
+#facs_336_r4l13 trecken, sollen hinter Mr Ghhl. Landen gleich denen hiesigen
+#facs_336_r4l14 hinter Fryburg geschieht, bestraffet werden
+#facs_4_region_1628102603697_72l1 Schultheiß und Raht
+#facs_336_r4l16 Aus Anlaß deß von un Ghhl. und Oberen Sub 29 t
+#facs_336_r4l17 May diß Jahrs für die Zukunfft in Dero Teutschen
+#facs_336_r4l18 Landen auf den 2ten Montag Herumonats jeden Jahr
+#facs_336_r4l19 hinaus gesezten Jagd-Bahns, und der dabey in
+#facs_336_r4l20 Druck ausgegebenen Löbl. Stand Fryburg commu¬
+#facs_336_r4l21 nicierten Verordnung, haben Wir diesem Stand
+#facs_336_r4l22 überschreiben laßen, daß, da derselbe die Über¬
+#facs_336_r4l23 schreittungen des Jagdt- Mandats Höher, als nach¬
+#facs_336_r4l24 Anleitung der Jäger-Ordnung in Unseren Landen
+#facs_337_r1l1 664
+#facs_26_region_1628255640706_334l18 m
+#facs_337_r3l1 geschicht, bestraffen thüer Wir Unserseits
+#facs_337_r3l2 die Anstalt vorgekehrt, daß bey Übertrettung
+#facs_337_r3l3 Unserer der Jagdt halb vorhandenen
+#facs_337_r3l5 Verordnungen, ihre Bürgern und Angehörige
+#facs_337_r3l6 hinter Uns sollen gehalten werden, wie die
+#facs_337_r3l7 Unserigen hinter ihnen in Ähnlichen Fählen
+#facs_337_r3l8 gehalten werden. Hiervon nun ertheilen
+#facs_337_r3l9 Wir Euch die behörige Nachricht mit befelch,
+#facs_337_r3l10 Euch demenach zu verhalten und solches¬
+#facs_337_r3l11 seines Orts in dem Mandaten Buch zu Euerer
+#facs_337_r3l12 Amts-Nachfahren Bekantschafft ein schreiben zu
+#facs_337_r3l13 laßen. Dat. d. 3ten Juny 1776
+#facs_24_region_1628255397587_277l11 en

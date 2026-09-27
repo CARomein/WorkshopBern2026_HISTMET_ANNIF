@@ -1,0 +1,76 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 68/69
+# High similarity (>=80%): 64
+# Low similarity (<80%): 4
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4819
+#facs_12_r3l28 =et
+#facs_242_r3l15 der französischen 5 und 10. bahen Stuken
+#facs_213_r3l15 An alle deutsche und Welsche Herren Amtlent,
+#facs_242_r3l17 4. Städte Frey Weibel und Ammann, wie auch
+#facs_242_r3l18 an Herrn Landvogt zu Baden Nom. der Canzley
+#facs_211_r3l9 Schultheiß Rath und Burger der Stadt Bern
+#facs_242_r3l20 Wir haben nötig gefunden die in Folg Anserer
+#facs_32_r1l3 Verordnung vom
+#facs_242_r3l22 Landen versirenden französischen Zehen um
+#facs_294_r3l24 suit
+#facs_138_r1l2 Collast
+#facs_7_r1l1 6
+#facs_242_r5l1 47
+#facs_242_r5l2 Fünf Bazen Stübe, von nächst künftigem 1. Heumonat
+#facs_242_r5l3 hin Weg, gänzlich zu verbieten, und übersenden Euchg.
+#facs_242_r5l4 nugsame Exemplare Unserer daherigen Verordnung,
+#facs_242_r5l5 mit dem Befehl, solche in Eüerm Amt gewohntermaßen
+#facs_242_r5l6 publiciren, von Kanzeln verlesen, und auch behörigen Orts
+#facs_242_r5l7 in den Schloßbüchern einschreiben zu laßen,
+#facs_242_r5l8 Datum den 13ten Februar 1797.
+#facs_67_r3l14 Publication
+#facs_242_r5l10 Wir Schultheiß, Klein und Große Räthe der Stadt und Siepul
+#facs_242_r5l11 lik Bern, thun kund hiemit
+#facs_242_r5l12 daß Uns von Unsterer verordneten Münz = Camme
+#facs_242_r5l13 der Vortrag erstatet worden, wie daß die Französischen
+#facs_242_r5l14 Dreyßig- und Fünfzehen Sols-Stübe, welche wir, laut
+#facs_242_r5l15 Verordnung vom 6ten September 1793. zu zehen
+#facs_242_r5l16 Bazen und Fünf Bazen in Unserm Landen der
+#facs_242_r5l17 siren laßen, in ganz unverhältnißmäßiger Menge
+#facs_242_r5l18 in unsere Bottmäßigkeit geworffen werden, und so der
+#facs_242_r5l19 groben Sorten beynahe zu verdrängen drohen.
+#facs_242_r5l20 Um nun Unsere Liebe und Getreue Burger und
+#facs_242_r5l21 Angehörige vor dem Nachtheile zu sichern, der ihnen
+#facs_242_r5l22 von daher zufließen würde, finden wir nöthig, nachdem
+#facs_242_r5l23 Beysviele anderer Eidgnößicher Lobl. Stände, diese
+#facs_242_r5l24 genannt en französischen Geldstorten, von nun
+#facs_242_r5l25 an dahin zu verbieten, daß von dem ersten
+#facs_187_r3l23 ge¬
+#facs_7_r2l1 3
+#facs_92_r1l1 172
+#facs_243_r2l1 „ von nommt dies Jahrs an, der Curs der selben
+#facs_243_r2l2 in Anstern kamen gänzlich untersagt seyn soll,
+#facs_243_r2l3 bey Strafe der Confiscation der ausgegebenen
+#facs_243_r2l4 Stäre, und im zweyten Wiederhandlungs
+#facs_243_r2l5 fehler, bey Strafe der Confiscation und einen
+#facs_243_r2l6 1 Suhde von gleichen Werthe: da dann sowol
+#facs_243_r2l7 von der Tage als von der Confiscation, ein
+#facs_243_r2l8 Strittel aus der Obrigkeit, ein Drittel dem
+#facs_243_r2l9 lichter des Orts, und ein Drittel dem Verleider
+#facs_243_r2l10 anheim fallen soll.
+#facs_243_r2l11 Ob schon nun zwar diese bis auf nächst künfti¬
+#facs_243_r2l12 gen ersten Heumonat noch ferner im Umlauf
+#facs_243_r2l13 geduldet werden; so wollen wir doch nicht, daß
+#facs_243_r2l14 jemanden zu seinem Schaden allzu große
+#facs_243_r2l15 Summen dieses Geldes auf gedrungen wer¬
+#facs_243_r2l16 den können, und haben daher festgesezt und
+#facs_243_r2l17 geordnet: "daß von nun an Niemand ge¬
+#facs_243_r2l18 halten seyn solle, mehr als zwölf Cronen die
+#facs_243_r2l19 ses Geldes von irgend jemanden, und für
+#facs_243_r2l20 "welche Summen es auch seyn möchte, an
+#facs_243_r2l21 Bezahlung abzunehmen.
+#facs_243_r2l22 Alles jedoch nur in solange Wir nicht ver¬
+#facs_243_r2l23 sache haben werden etwas anders zu verord¬
+#facs_243_r2l24 nen; welches anmit zu jedermanns Verhalt
+#facs_243_r2l25 offentlich bekannt gemacht wird.
+#facs_243_r2l26 Geben in Unserer Großen Raths Verstammlung
+#facs_243_r2l27 den 13. Februar 1797.
+#facs_98_r5l28 en

@@ -1,0 +1,301 @@
+Law nr: BER.01.001.4606
+Name: Verordnung.
+
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 288/288
+# High similarity (>=80%): 270
+# Low similarity (<80%): 18
+# Not found: 0
+#
+#facs_14_region_1627971782200_27l1 Verordnung
+#facs_207_r4l12 Wir Schultheis klein und große
+#facs_355_r3l17 Rähte der Stadt und Republiktern
+#facs_355_r3l18 entbieten allen Unseren getreuen
+#facs_355_r3l19 lieben rurgeren und angehörigen
+#facs_355_r3l20 deutscher Landen, Unfern gnädigen
+#facs_355_r3l21 und geneigten Willen, dabey dann
+#facs_355_r3l22 zu vernehmen: daß, da Wir Bahr¬
+#facs_355_r3l23 genommen, wie aufere bis herige
+#facs_353_r1l1 690.
+#facs_356_r2l1 Zehnd Verordnungen zerstreut ligen
+#facs_356_r2l2 und daher nicht jederman genugsam
+#facs_356_r2l3 bekannt sind, über dieselben auch
+#facs_356_r2l4 eine bestimtere Vorschrifft in Ver
+#facs_356_r2l5 schiedenen Fällen erforderlich seye,
+#facs_356_r2l6 Als haben Wir, in Aufhebung aller
+#facs_356_r2l7 Unserer bisherigen Zehnd Verordnung
+#facs_356_r2l8 für samtliche Unsere deutsche Lande
+#facs_356_r2l9 gegenbärtige neue Vorschrifft zu
+#facs_356_r2l10 machen gut befunden, und zu diesem
+#facs_356_r2l11 Ende von einem Artikel zu dem
+#facs_356_r2l12 anderen erkennt und verordnet, was
+#facs_356_r2l13 hiernach folget:
+#facs_4_r8l9 a
+#facs_356_r2l15 Soll bey allen schuldigen Versehnd¬
+#facs_356_r2l16 ungen des Gebächses auf offenen
+#facs_356_r2l17 felderen und zelgen, so wie in
+#facs_356_r2l18 einschlagenden Gütern, vollkommen
+#facs_356_r2l19 gleich verfahren, und die nehmliche
+#facs_356_r2l20 hier vorgeschriebene Ordnung genau
+#facs_356_r2l21 befolgt werden.
+#facs_8_r9l1 11
+#facs_356_r2l23 Wenn das Gebächs geschnitten, genug¬
+#facs_356_r2l24 tam besorget, aufgebunden und
+#facs_7_r7l1 9
+#facs_356_r3l2 zum Einsamlen bereit liget, soll jeder
+#facs_356_r3l3 Landmann gehalten seyn, vor allen
+#facs_356_r3l4 Dingen den Zehnder zu dreyen unter
+#facs_356_r3l5 schiedlichen mahlen mit lauter Stimme
+#facs_122_r4l19 zur
+#facs_59_r3l1 111
+#facs_356_r3l8 Darauf erscheine der Zehnder oder
+#facs_356_r3l9 nicht, so mag der Landmann mit ver¬
+#facs_356_r3l10 Zehnden fortfahren.
+#facs_3_region_1627936339514_16l1 1
+#facs_356_r3l12 Er soll aber von der lezt aufge¬
+#facs_356_r3l13 bundenen Garben, oder gesammelte
+#facs_356_r3l14 Haufen hinweg zurük zahlen und ordent¬
+#facs_356_r3l15 lich aus der Linnen stellen, oder¬
+#facs_356_r3l16 bezeichen, was nach den Rechten und
+#facs_356_r3l17 der Uebung jeden Orts dem Zehnden
+#facs_356_r3l18 gebührt.
+#facs_356_r3l19 V.
+#facs_161_r3l2 betreffend
+#facs_356_r3l21 Barben oder Heufen gleicher Getrau¬
+#facs_356_r3l22 Art von einem Aker, mag man bey
+#facs_356_r3l23 einem zweyten u. s. w. in gleichem
+#facs_356_r3l24 Zehndbesirn darauf höhlen, und so in
+#facs_356_r3l25 Treuen auszehnden; wenn auch zuletzt
+#facs_8_r5l2 69
+#facs_357_r2l1 nicht so viel überbleibt, daß es
+#facs_357_r2l2 dem Zehnden eine ganze Barben
+#facs_357_r2l3 oder ein Häufen beziehen mug, soll
+#facs_357_r2l4 an allen Orten das billige, nach
+#facs_357_r2l5 Marchzahl des üblichen Zehndens,
+#facs_357_r2l6 entrichtet werden.
+#facs_9_r1l1 12.
+#facs_357_r2l8 Wann dann nach oben vorge¬
+#facs_357_r2l9 schriebener Manier und Ordnung
+#facs_357_r2l10 gezehndet worden, mag der Landman
+#facs_357_r2l11 sein verzehndetes Gewächs einführen.
+#facs_357_r2l12 Bänzlich aber ist ihme verbotten,
+#facs_357_r2l13 einiges Gelöachs von dem Aker
+#facs_357_r2l14 abzuführen, es seye denn zuvor
+#facs_357_r2l15 dasselbe gebührend verhehndet.
+#facs_90_r3l1 N°
+#facs_357_r2l17 Wer in eint oder anderem
+#facs_357_r2l18 wieder diese vorgeschriebene Ord¬
+#facs_357_r2l19 nung bey versehndung seines ge¬
+#facs_357_r2l20 Büchstes fehlet, und deßen schuldig
+#facs_357_r2l21 erkent wird, der soll für jeden
+#facs_357_r2l22 solchen Fehler mit einer Ruß von
+#facs_357_r2l23 Zehn Pfunden belegt werden.
+#facs_357_r3l1 699
+#facs_198_r3l10 n I
+#facs_357_r3l3 Würde aber dabey Beführd einfließen,
+#facs_357_r3l4 und dadurch der Zehnden benachtheiliget.
+#facs_357_r3l5 werden, so soll die Sache von dem Richter
+#facs_357_r3l6 des Orts genau untersucht, und jedeilen
+#facs_357_r3l7 sub Beneficio recursus an Unserm
+#facs_250_r2l15 stäglichen Rath verleidet werden.
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_3_region_1627936339514_16l1 1
+#facs_357_r3l11 Alle daherigen Entschädniße zu
+#facs_357_r3l12 Handen der Zehndherren oder der
+#facs_357_r3l13 Zehnd besteheren, nach allfällig vorher
+#facs_357_r3l14 gegangenen eydlichen Schätzungen
+#facs_357_r3l15 zu bestimmen, soll einem jebesenden
+#facs_357_r3l16 Richter des Orts zukommen, folglich
+#facs_357_r3l17 soll denen Zehndbesteheren unter
+#facs_357_r3l18 einer Ruß von dreyßig Pfunden
+#facs_357_r3l19 verborten seyn, wegen senach¬
+#facs_357_r3l20 theiligung ain Zehnden und daheriger
+#facs_357_r3l21 Entschädniß, ohne verbissen Unserer
+#facs_357_r3l22 Zehnd herren mit denen Fehlbaren
+#facs_357_r3l23 sich abzufinden, von welcher Ruß
+#facs_357_r3l24 dem verleider, kann er auch
+#facs_357_r3l25 selbst gethüter bäre, nebst völliger
+#facs_358_r1l1 700.
+#facs_358_r2l1 Lossprechung, noch ein Drittel von
+#facs_358_r2l2 den übrigen die gestraft werden
+#facs_358_r2l3 heimdienen soll.
+#facs_53_r8l10 e
+#facs_358_r2l5 Die Ruß, so auf jeden Zehns¬
+#facs_358_r2l6 Erevel, dabey Befehrd und Stemach¬
+#facs_358_r2l7 theiligung des Zehndens eingefloßen,
+#facs_358_r2l8 gesezt seyn soll, ist jeneilen
+#facs_358_r2l9 des dreyfache, was der Richter
+#facs_358_r2l10 dem Zehndherren oder denen Zehns¬
+#facs_358_r2l11 besteheren für ihre gebührende
+#facs_358_r2l12 Entschädniß zusprechen wird, oder
+#facs_358_r2l13 allenfalls nach Beschaffenheit
+#facs_358_r2l14 der Umständen ein- zwey- oder
+#facs_358_r2l15 dreymal 24. stündige Befangen¬
+#facs_358_r2l16 schaft.
+#facs_309_r3l16 x
+#facs_360_r2l7 auf die Obrigkeitlichen Zehnden
+#facs_358_r2l19 alle Jahr an einer öffentlichen
+#facs_358_r2l20 Steigerung in Ausruf kommen
+#facs_358_r2l21 und dabey die von Uns Festge¬
+#facs_358_r2l22 sezten Redinge, und vorbehalt¬
+#facs_358_r2l23 niße, einen jeden Zehnden
+#facs_108_r2l2 0
+#facs_358_r3l2 insbesonders betreffend, öffentlich
+#facs_358_r3l3 abgefesen werden.
+#facs_358_r3l4 Wann aber auf einen Zehnden
+#facs_358_r3l5 nicht geleiten wird, was er werth
+#facs_358_r3l6 ist, soll derselbe eingestelt werden.
+#facs_358_r3l7 XII
+#facs_358_r3l8 Die Anzahl der Personen, so die
+#facs_358_r3l9 Obrigkeitlichen Zehnden von Ver¬
+#facs_358_r3l10 schiedenem Relauf bestehen können.
+#facs_358_r3l11 ist bestimt wie folget:
+#facs_358_r3l12 Ein Zehnden von 50. dern Münten
+#facs_358_r3l13 und beiniger, je 5. Mus bluttes¬
+#facs_358_r3l14 Belächs zu einem Mütt Rickel
+#facs_358_r3l15 gerechnet, mag bestanden werden
+#facs_358_r3l16 von 3. Personen und nicht mehr.
+#facs_358_r3l17 Ein Zehnden von 50. bis 100
+#facs_358_r3l19 Mütten von mehr nicht als vier¬
+#facs_358_r3l20 Ein Zehnden von 100. bis 200.
+#facs_358_r3l21 Mütten von mehr nicht als fünf
+#facs_358_r3l22 Ein Zehnden von 200. bis 300.
+#facs_358_r3l23 Mütten, von mehr nicht als sechs
+#facs_358_r3l24 Ein Zehnden, so über 300. Mütt
+#facs_358_r3l25 ansteigen bürde, von mehr nicht
+#facs_358_r3l26 als acht Persohnen, als in welcher
+#facs_39_r1l1 70.
+#facs_359_r2l1 für jeden Zehnden bestimmten Zahl
+#facs_359_r2l2 allemahl nicht allein die Zehnd¬
+#facs_359_r2l3 bestehere, sondern auch ihre Sürgl.
+#facs_359_r2l4 und Mithafte begriffen die Bestehern
+#facs_359_r2l5 und Rürgen aber bey Empfahung
+#facs_359_r2l6 des Zehndens schuldig seyn sollen,
+#facs_359_r2l7 ihre Gelübde zu erstacten, daß
+#facs_359_r2l8 nicht mehrere mit ihnen eingestanden
+#facs_359_r2l9 noch einstehen werden, als diese
+#facs_359_r2l10 Ordnung vorschreibt.
+#facs_359_r2l11 Die wiederhandlenden Zehnd be¬
+#facs_359_r2l12 stehere sollen von einem jeden,
+#facs_359_r2l13 der über die bestimte Zahl in den
+#facs_359_r2l14 Zehnden angenommen würde,
+#facs_359_r2l15 die Ruß von zbeyhundert Pfunden
+#facs_359_r2l16 bezahlen, da hingegen die, so
+#facs_359_r2l17 die Zehnden ohne Befehrd er¬
+#facs_359_r2l18 steigeren und in ihren Werth
+#facs_359_r2l19 bringen, des Hochoberkeitlichen
+#facs_359_r2l20 Schuzes allerdings versichert,
+#facs_359_r2l21 und die, so sie deshalben beleidiges
+#facs_359_r2l22 oder benachtheiligen bürden, ha¬
+#facs_359_r2l23 geniesener Strafe gezogen berden
+#facs_221_r2l17 stollen.
+#facs_55_r5l1 103
+#facs_359_r3l2 XIII.
+#facs_359_r3l3 Damit auch niemand vor Hinleihung
+#facs_359_r3l4 der Zehnden sich in einiges dem Zehm¬
+#facs_359_r3l5 herrn nachtheiliges Verständniß ein¬
+#facs_359_r3l6 laße, in der Absicht, die Ansteigung
+#facs_359_r3l7 derselben in ihrem Jahren Werth
+#facs_359_r3l8 zu hintertreiben, und andere auf
+#facs_359_r3l9 die Zehnden zu bieten, abzuschreben
+#facs_359_r3l10 werden alle Unterredungen und
+#facs_359_r3l11 Verständniße von der Art, mit
+#facs_359_r3l12 Geheimhaltung der allfälligen
+#facs_359_r3l13 Verleider, bey einer Buß von
+#facs_359_r3l14 eren zig Pfunden für jeden Fehl¬
+#facs_359_r3l15 baren verbotten.
+#facs_90_r3l1 N°
+#facs_359_r3l17 Auf die Hochoberbeitlichen Zehnden
+#facs_359_r3l18 zu Stadt ein Land zu bieten, dieselbe
+#facs_359_r3l19 zu bestehen, oder durch jemand
+#facs_359_r3l20 anders zu ihren Handen bestehen
+#facs_359_r3l21 zu laßen, und daran directe noch
+#facs_359_r3l22 indirecta einigen Antheil zu nehmen,
+#facs_359_r3l23 ist bey Eiden verbotten:
+#facs_359_r3l24 1o Den Ehrengliederen Unster¬
+#facs_359_r3l25 täglichen Raths.
+#facs_39_r1l1 70.
+#facs_360_r2l1 2° Unsern Amtleuten und Schaffern
+#facs_360_r2l2 während der Zeit ihrer Amtsver¬
+#facs_360_r2l3 Bultung.
+#facs_360_r2l4 3. Denen Landschreiberen.
+#facs_360_r2l5 Denne ist bey einer Ruß von
+#facs_360_r2l6 zweyhundert Pfunden verborten.
+#facs_360_r2l7 auf die Obrigkeitlichen Zehnden
+#facs_360_r2l8 zu bieten,
+#facs_360_r2l9 4° Denen Pfarrherren
+#facs_360_r2l10 5° Allen denjenigen, welche solche
+#facs_360_r2l11 Hochobrigkeitliche Zehnden hinzu¬
+#facs_360_r2l12 leihen haben.
+#facs_360_r2l13 6° Allen denen, die zu Besichtigung
+#facs_360_r2l14 und eydlicher Schazung solcher Zehnden
+#facs_360_r2l15 berufen und gebraucht worden.
+#facs_90_r3l1 N°
+#facs_360_r2l17 Sollten die Obrigkeitlichen Zehnden
+#facs_360_r2l18 nach der Zehndverleihung vom
+#facs_360_r2l19 hochgebitter Schaden leiden, so
+#facs_360_r2l20 mag als dann denen Resteheren
+#facs_360_r2l21 derselben, für die Sitte um Nach¬
+#facs_360_r2l22 laßung, der zutrift gestattet.
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_54_r7l8 105
+#facs_360_r3l2 XVI.
+#facs_360_r3l3 Alles aber in dem Verstand, daß
+#facs_360_r3l4 die Zehndbestehern ohne einigen An¬
+#facs_360_r3l5 stand, den Vorfall dem Zehndherrn
+#facs_360_r3l6 anzeigen sollen, sodann durch deßelben
+#facs_360_r3l7 Verfuegung, die beschädigten Zehnden,
+#facs_360_r3l8 durch die ordentlichen Zehndschätere
+#facs_360_r3l9 besichtiget, der Schaden eydlich ge¬
+#facs_360_r3l10 würdiget und die daher gemachten
+#facs_360_r3l11 Zehndabschazungen geweilen dem
+#facs_360_r3l12 Höchsten Bebalt vorgetragen,
+#facs_360_r3l13 und die des nahen entstehenden
+#facs_360_r3l14 Kösten von den Zehnd besteheren,
+#facs_360_r3l15 übernommen werden sollen.
+#facs_358_r3l7 XII
+#facs_360_r3l17 Es soll kein Vieh, weder groß
+#facs_360_r3l18 noch klein, auch keine Bäuß noch
+#facs_360_r3l19 Enten auf den Zelgen nicht gebeidet,
+#facs_360_r3l20 bis sie vom Betrayd gänzlich geräumt
+#facs_360_r3l21 und geleert seyn werden, bey
+#facs_360_r3l22 Straf von drey Pfund Pfeningen
+#facs_360_r3l23 von jedem großen Haupt- und
+#facs_360_r3l24 Stük Vieh, von dem kleinen aber
+#facs_360_r3l25 ein Pfund und zehn Schilling, je
+#facs_39_r1l1 70.
+#facs_361_r2l1 nach Verhältniß von dem Geflügel
+#facs_361_r2l2 so angetroffen würde.
+#facs_359_r3l2 XIII.
+#facs_361_r2l4 Stiemand soll auf den Akeren
+#facs_361_r2l5 Aehren auflessen, so lang noch
+#facs_361_r2l6 einiges Bebuchs darauf stehen,
+#facs_361_r2l7 oder liegen bleibt, bey Straf
+#facs_361_r2l8 der Gefangenschaft.
+#facs_309_r3l16 x
+#facs_361_r2l10 Von allen in gegenbärtiger
+#facs_361_r2l11 Verordnung ausgeschriebenen und
+#facs_361_r2l12 bestimten Geldbußen, soll allbege¬
+#facs_361_r2l13 ein Drittel Uns, ein Trittel den
+#facs_361_r2l14 Amtsmann des Orts, und ein Drittel
+#facs_361_r2l15 dem Verleider anheimfallen.
+#facs_238_r2l20 Wir befehlen demnach allen
+#facs_361_r2l17 unseren Ober-Unter Amtleüten
+#facs_361_r2l18 und Zehndherren, auf die Exebution
+#facs_361_r2l19 dieser Zehnd-Ordnung geflißen
+#facs_361_r2l20 zu achten, und selbige zu bringen
+#facs_361_r2l21 Wir verstehen uns dabey zu
+#facs_361_r2l22 allen und jeden Unseren lieben
+#facs_361_r2l23 nur gegen und angehörigen, daß
+#facs_54_r10l1 101
+#facs_361_r3l2 sie dieselbe gehorstamlich befolgen
+#facs_361_r3l3 und sich vor Unglük und Schaden
+#facs_361_r3l4 hüten werden, deßen jedermann
+#facs_361_r3l5 durch gegenbärtigen Druk und Publi¬
+#facs_361_r3l6 cation verständiget wird.
+#facs_361_r3l7 Beben in Unserer Großen
+#facs_361_r3l8 Rahtsverammlung den 18ten May 1787.

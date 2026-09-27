@@ -1,0 +1,142 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 135/135
+# High similarity (>=80%): 132
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_145_r5l12 Zu Abhaltung und Fortschaffung des Strolchen
+#facs_145_r5l13 Gesindels, werden (so wie für das Welsche Land¬
+#facs_145_r5l14 pag 272. geschehen :/ nun auch für das Deutsche Land
+#facs_145_r5l15 verschiedene Polizey Anstalten angeordnet
+#facs_145_r5l16 An alle deutsche Herren Amtläut, 4 Städte
+#facs_43_r2l19 Freyweibel und Ammann.
+#facs_259_r2l4 Schultheis und Rath! etc.
+#facs_145_r5l19 Die Uns von verschiedenen Orten eingekommenen
+#facs_145_r5l20 Anzeigen einer in der Waadt sich befinden
+#facs_145_r5l21 sollenden zahlreichen diebs und Rauberbande
+#facs_145_r5l22 und der von ihr verübenden Diebstähle und
+#facs_145_r5l23 Einbrüche Verbunden mit dem Bericht, daß in
+#facs_117_r3l32 Das
+#facs_5_r1l1 2.
+#facs_145_r7l1 bres
+#facs_4_r3l4 item
+#facs_146_r1l1 280
+#facs_146_r2l1 Das Land mit einer Menge verdächtigen
+#facs_146_r2l2 ohne Jaß und gute Papiere Herumschwei¬
+#facs_146_r2l3 lenden Abesindes, Hausierer und Kräzen
+#facs_146_r2l4 trager, vorgeblicher Krämer, ohne Waare
+#facs_146_r2l5 Muswanten in angefüllt sey, haben
+#facs_146_r2l6 Unsiere Landes väterliche Aufmerksamkeit
+#facs_142_r5l11 um so mehr auf sich gezogen, da das Wohl
+#facs_142_r5l12 und die Sicherheit der Person und des Eigen¬
+#facs_146_r2l9 thums unserer Lieben und getreuen Ange¬
+#facs_146_r2l10 hörigen, stets Unsere erste Sorge seyn wird
+#facs_146_r2l11 Aus den die Sorts eingezogenen Berichten
+#facs_146_r2l12 nun, haben Wir zwar mit Vergnügen er¬
+#facs_146_r2l13 sehen, daß die Anzahl der im Land befind¬
+#facs_146_r2l14 lichen Landstreicher und Strolchen nicht be¬
+#facs_146_r2l15 trächtlich genug ist, um noch gegen wärtig
+#facs_146_r2l16 strengere Maßregeln zu erheischen und
+#facs_146_r2l17 Uns überzeugen müßen, daß dem besor¬
+#facs_146_r2l18 genden Übel ganz oder großentheils gesteinet
+#facs_146_r2l19 wäre, wenn der Eifer in Hand habung und
+#facs_146_r2l20 Befolgung vormaliger diesförtiger Ver
+#facs_146_r2l21 ordnungen, der Absicht in welcher sie gegeben
+#facs_146_r2l22 sind, getreu entspräche
+#facs_146_r2l23 Um aber auch dießmal Unsern Ange¬
+#facs_146_r2l24 hörigen zu zeigen, wie bereit Wir immer
+#facs_146_r2l25 sind Befahr und Schaden von ihrer Person
+#facs_146_r3l1 281
+#facs_146_r3l2 und ihrem Eigenthum zu entfernen, so haben
+#facs_146_r3l3 Wir zu desto gewisserer Abhaltung alles un¬
+#facs_146_r3l4 einzen Gesindels von Unsern Grenzen und fort¬
+#facs_146_r3l5 schaffung des wirklich darinn befindlichen, wie
+#facs_146_r3l6 bereits für die Waadt geschehen, nun auch für
+#facs_146_r3l7 Unsere deutschen Lande folgende Verfügungen
+#facs_146_r3l8 anzuordnen gutgefunden, auf deren Ausübung
+#facs_146_r3l9 Ihr Eüre ganze Sorgfalt wenden werdet,
+#facs_146_r3l10 1°) Was die Auffuchung, Fortschaffung und bestra¬
+#facs_146_r3l11 fung des ohne Paß gefundenen Resindels betrift¬
+#facs_146_r3l12 so werdet Ihr die in den ältern Verordnungen
+#facs_146_r3l13 vom 15ten Juny 1707. 12ten August 1717. mit
+#facs_146_r3l14 Unterlaßung des 1ten Artikels die Betteljag
+#facs_146_r3l15 ansehend, 9ten July 1725. 30ten Juny 1727
+#facs_146_r3l16 der 5te. 6. und 7te Artikel bereits enthaltenen
+#facs_146_r3l17 Vorschriften, pünktlich befolgen
+#facs_146_r3l18 2.) Auf den Brenzpäßen soll von den In¬
+#facs_146_r3l19 Pektoren und Wachen auf alle Eintrettenden
+#facs_146_r3l20 genau geachtet, dieselben examinirt, und
+#facs_146_r3l21 ihnen Päße mit signalement und Marschroati
+#facs_146_r3l22 ertheilt werden, mit der Drohung als Ver¬
+#facs_146_r3l23 dächtige Personen behandelt zu werden, wein
+#facs_146_r3l24 sie dieselbe nicht genau befolgen, angestehenen
+#facs_143_r4l3 Fremden, die mit guten Papieren an die Grenze
+#facs_146_r3l26 gekommen sind, mag ein beßerer Paß ohne Marsch
+#facs_7_r2l1 3
+#facs_146_r3l28 houte ertheilt werden.
+#facs_11_r4l1 e
+#facs_146_r6l1 nt
+#facs_145_r7l1 bres
+#facs_174_r1l1 rese
+#facs_248_r4l2 te
+#facs_68_r2l21 Iam
+#facs_5_r1l1 2.
+#facs_147_r1l1 282
+#facs_147_r2l1 3:) Infolge dessen soll jeder Verdäch¬
+#facs_147_r2l2 tige Fremde, der ohne Pas gefunden wird,
+#facs_147_r2l3 angehalten, und zu Erhaltung eines Passes
+#facs_147_r2l4 dem Amtsmann des Orts zugeführt werden
+#facs_147_r2l5 wenn denn ein solcher von demselben einen
+#facs_147_r2l6 Pas mit Marschroute erhalten haben.
+#facs_147_r2l7 und demselben zuwider auf einem Abwege
+#facs_147_r2l8 angetroffen werden wird, so soll derselbe
+#facs_147_r2l9 Puch sogleich zugeführt, und je nach den Um¬
+#facs_147_r2l10 ständen bestraft werden.
+#facs_147_r2l11 betreffend
+#facs_147_r2l12 dann die Fremden von einigem Ansehen
+#facs_147_r2l13 so sollen selbige angewiesen werden sich
+#facs_147_r2l14 beym ersten Amtsmann bey welchem Sie
+#facs_147_r2l15 auf ihrer koute passieren werden um
+#facs_147_r2l16 einen Pas anzumelden
+#facs_147_r2l17 4.) Den Wirthen soll durchaus und bey
+#facs_147_r2l18 der im 5ten Artikel des Mandats vom
+#facs_147_r2l19 30ten Juny 1727 bestimmten Straffe, das
+#facs_147_r2l20 erste mal von 5 lb das andere mal von 10 lb
+#facs_147_r2l21 und das dritte mal von 15 lb unablässiger
+#facs_147_r2l22 Auß zu Handen der Gemeind oder des Dorfs
+#facs_147_r2l23 wosie wohnhaft sind, untersagt seyn, irgend
+#facs_144_r2l17 einen fremden der keinen Pas hat, wer
+#facs_147_r2l25 er auch sey, länger als 24 Stunden zu be¬
+#facs_147_r2l26 herbergen, sondern dieselben sollen einen
+#facs_147_r2l27 = solchen
+#facs_147_r3l1 283
+#facs_147_r3l2 solchen Fremden ohne weiters an Eüch weisen
+#facs_147_r3l3 da ihr denn zu nach den Umständen mit dem
+#facs_147_r3l4 selben verfahren werdet.
+#facs_147_r3l5 die Päse sollen einzig und allein von
+#facs_6_r5l1 5
+#facs_147_r3l7 Euch oder demjenigen den Ihr dazu bestellen
+#facs_147_r3l8 werdet, und zwar mit Segualement und Mausch
+#facs_147_r3l9 toute versehen, ertheilt werden, und alle Päße
+#facs_147_r3l10 die nicht von solchen Beamteten, von den drenz¬
+#facs_147_r3l11 Inspektoren und hiesiger Kanzley oder von
+#facs_147_r3l12 der Policeykammer ausgefertiget sind,
+#facs_147_r3l13 ungültig seyn.
+#facs_144_r4l7 Wir versehen uns bestens zu Euch, Ihr
+#facs_144_r4l8 werdet mit allem Eifer und Nachdruk die Be¬
+#facs_102_r2l24 I.
+#facs_147_r3l17 folgung Unserer Landes väterlichen Verfügung
+#facs_147_r3l18 handhaben, so wie Wir auch von Unsern lieben
+#facs_147_r3l19 uns getreuen Angehörigen erwarten sind.
+#facs_147_r3l20 sie werden nach bestem Vermögen, zu ihrem
+#facs_147_r3l21 eigenen Vortheil und Sicherheit, das ihrige Willi¬
+#facs_147_r3l22 Zugleich tragen Wir Euch
+#facs_147_r3l23 beytrage,
+#facs_147_r3l24 auf, obigen 4ten Artibel die Wirthe betreffen
+#facs_147_r3l25 zu ihrem und ihrer Bäste verhalt in allen
+#facs_147_r3l26 Wirthshäusern Eüeres Amts anschlagen zu
+#facs_39_r2l23 Last
+#facs_147_r3l28 Datum den 10ten März 1796.
+#facs_98_r5l28 en

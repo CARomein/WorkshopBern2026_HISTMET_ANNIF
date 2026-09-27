@@ -1,0 +1,87 @@
+Law ID: BER.01.001.4961
+Name: Von deren wegen, die ins Welschland zogen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 76/76
+# High similarity (>=80%): 58
+# Low similarity (<80%): 18
+# Not found: 0
+#
+#facs_46_r1l1 84
+#facs_27_r7l2 47
+#facs_212_r3l13 An Tütsch undt Welschampflütt
+#facs_244_r3l4 4. Stett undt In d'Landt gerichte
+#facs_244_r3l5 von dem wegen, die Ins Welschland
+#facs_244_r3l6 Bogl.
+#facs_201_r2l22 Zethun, erwegen die undt andern unsern
+#facs_244_r3l8 Amptlütten genugsam bewust, was maßen
+#facs_244_r3l9 Wir durch die kriegliche emponung so sich an
+#facs_244_r3l10 Vnsern grentzen erzeigt, bewegt worden in E.
+#facs_244_r3l11 allein die Vnsern zu Stett, Vndt Landt
+#facs_244_r3l12 die Im u Brug der 1200 Mannen sindt
+#facs_244_r3l13 V Ehemanen, vndt In Vnser Landtschafften
+#facs_244_r3l14 Wadt zur bewanng derselben geschieten,
+#facs_244_r3l15 sonder euch neben Ihnen noch 4 fige von phlück
+#facs_244_r3l16 gebondnen, vndt vnß dem Vnsern zu verfülden,
+#facs_244_r3l17 Vndt dieselbe nich den Knechten, so s. 6 ß.
+#facs_244_r3l18 Unsern Prywilligl. undt schönen eige¬
+#facs_244_r3l19 nomen, gleichfhals vff obstandt und
+#facs_244_r3l20 hin hin zu geschicken: So nun Vns von etlich
+#facs_244_r3l21 vnsern Rucp Blutt fürkompt, wie das etlicher
+#facs_244_r3l22 vmb schuldt undt besprechen, so sij eine
+#facs_245_r1l1 480
+#facs_245_r2l1 etbliche un hingezognen Fabl. Leidenfie,
+#facs_245_r2l2 selben gücht und Recht, undt P. Eü¬
+#facs_245_r2l3 nung desselben begeren, undt uns vmb
+#facs_245_r2l4 bucht und hatt ersuchend E, wie sie
+#facs_245_r2l5 sich zu dem Thal gehalten wyl an etlichen
+#facs_245_r2l6 Orts gucht undt recht zugesteltt
+#facs_245_r2l7 worden; haben wir uns hierüber daß
+#facs_245_r2l8 entschlossen, sittenmaln nit billich
+#facs_245_r2l9 wäre, das die einigen Unser Ander¬
+#facs_245_r2l10 thanen, die diesmal so wol Im¬
+#facs_245_r2l11 Zug der 1200 Mannen, als auch
+#facs_245_r2l12 die sonder den 4 fijfendlinen In¬
+#facs_245_r2l13 Unserem Dienst sind, und zu schuk¬
+#facs_245_r2l14 thinn, undt gutten dem Rathlandt
+#facs_245_r2l15 von Iren Leyb, Kinden, vndt gutt V. Zegen
+#facs_245_r2l16 entzwüschenn an dem fern mit recht¬
+#facs_245_r2l17 fertigung gefechdet, vndt angefochten
+#facs_245_r2l18 weduit, das du den Zeugen, welche de¬
+#facs_245_r2l19 glijchen rechtf. und rechtsübung oder
+#facs_39_r3l1 E
+#facs_176_r1l1 342
+#facs_245_r4l2 4818
+#facs_245_r4l3 pfandung, wider sij, die Zien, oder er gutt
+#facs_245_r4l4 Büenemen wolten, solches nit zulaßen
+#facs_245_r4l5 noch gestatten, sonder solche ansprechen
+#facs_245_r4l6 Vff: vndt stillhalten fällest, die zytt
+#facs_245_r4l7 lang sey zu vnserem dienst sijn werden
+#facs_245_r4l9 den Übrig. aber, so im landt tbliben
+#facs_245_r4l10 sol vidt lärt umb sach und aufprach der
+#facs_245_r4l11 die sij on ein anderen getrucken, gutt
+#facs_245_r4l12 gicht, undt recht gehalten vndt von ihre
+#facs_245_r4l14 dorffl. Wege int abgeschlage werden
+#facs_245_r4l15 Ein Übrigen so wir wol erachten können,
+#facs_245_r4l16 das ettliche vnser Vnderthanen, die In den
+#facs_245_r4l17 anderen zweyen großen 6ßzügen sind
+#facs_245_r4l18 vnder Vnser ordnete füge houptslutt
+#facs_245_r4l19 möchten gedinget haben, undt also die
+#facs_245_r4l20 Zwen v. Züg deselben halb vntwelkommet
+#facs_245_r4l21 syn; Als langhen Dich vnser gefinnen
+#facs_13_r6l11 s
+#facs_2_r3l2 1
+#facs_246_r2l1 4828
+#facs_2_r3l2 1
+#facs_246_r4l1 Vndt bevelden, solche Zwen vorzüg für
+#facs_246_r4l2 Die Zemmen, zesechen, welche mange
+#facs_246_r4l3 vndt hinzogl sie möchte, undt an
+#facs_246_r4l4 halber deselben angewißen andere Ißgezüchen
+#facs_246_r4l5 vndt Pommen, damit beid groß
+#facs_246_r4l6 v Lüg eigen Etzt werdut vnnd
+#facs_246_r4l7 Vf Lufallende noll gerust seyen,
+#facs_246_r4l8 als wie Uns zu Dinem Flys und
+#facs_246_r4l9 yffer wol t sechendl, Patl. 18
+#facs_246_r4l10 Febr. 1611.

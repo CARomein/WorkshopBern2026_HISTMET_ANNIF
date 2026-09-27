@@ -1,0 +1,80 @@
+Law ID: BER.01.001.1997
+Name: Passes halb in Burgund.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 69/69
+# High similarity (>=50%): 62
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_4_r4l10 x
+#facs_4_r4l11 Lenzburg.
+#facs_4_r4l12 Montag den 4. Maii.
+#facs_4_r4l13 Königsfreden
+#facs_4_r4l14 Schreckenberg
+#facs_4_r4l15 Dinstag den 5. May.
+#facs_4_r4l16 Biberstein.
+#facs_4_r4l17 Arburg. Mitwochen den 6. do.
+#facs_4_r4l18 Zodingen.
+#facs_4_r4l19 kangen
+#facs_4_r4l20 Hipp. Constag den 7. d.
+#facs_4_r4l21 Freitag den 8. do.
+#facs_4_r4l22 Anwangen
+#facs_4_r4l23 Landtshut.
+#facs_4_r4l24 Frau Abrunnen: Sambstag den 9. do
+#facs_4_r4l25 1
+#facs_4_r4l26 Burgdorf.
+#facs_4_r4l27 Hgeburg.  Montag den 11. De
+#facs_4_r4l28 ydon wt.
+#facs_5_r1l1 Beüren.
+#facs_5_r1l2 Hochstatt Dinstagen 12. d.
+#facs_5_r1l3 4 Johansen. Mit Wochen den 13. d
+#facs_5_r1l4 Erlaen
+#facs_5_r1l5 Arberg
+#facs_5_r1l6 Loupen. Constagden 14. de
+#facs_5_r1l7 Freitag den 15. d.
+#facs_5_r1l8 Frienisperg.
+#facs_5_r1l9 Bnissee
+#facs_5_r1l10 Prandis.
+#facs_5_r1l11 Vignorii w. 1 Sambstag den 16. Dec
+#facs_5_r1l12 Montag den 18. Dec
+#facs_5_r1l13 Hrachseewaldt
+#facs_5_r1l14 lhen
+#facs_5_r1l15 Dinstag den 19. de
+#facs_5_r1l16 verhoffen.
+#facs_5_r1l17 Vnderseen.
+#facs_5_r1l18 Mitwochen den 20. der
+#facs_5_r1l19 Interlacken
+#facs_5_r1l20 .
+#facs_5_r1l21 ngen
+#facs_5_r1l22 heut
+#facs_5_r1l23 Sonstag den 21. d.
+#facs_5_r1l24 Wimis
+#facs_5_r1l25 Zweysimmen
+#facs_5_r1l26 Sanen: Freitag den 22. d.
+#facs_5_r1l27 1ten
+#facs_5_r3l1 7.
+#facs_5_r3l2 Ain wangen erwangen, Arburg, Schmikenberg,
+#facs_5_r3l3 Königsfeldes, Lenzburg, Hiberstein, Erachstwaldt.
+#facs_5_r3l4 Brugg, Aran w., Chillion, Lausanna allen, Nydow
+#facs_5_r3l5 Büren, Arberg, und Burgdorff
+#facs_5_r3l6 Paßes halb In Burgund
+#facs_5_r3l7 Schuldtheiß und Raht der Stadt Bern.
+#facs_5_r3l8 Wie hatten bereits vndtrem 30. Nov. und 15. Decemb. 1677.
+#facs_5_r3l9 Der Jenigen Frömbden und Teütschen Völckeren halb, Welche
+#facs_5_r3l10 hieübe über Vnsere Landt in Burgund marchiert auß gnug
+#facs_5_r3l11 ammen Vrsachen Versachen, vnd darumb die bemelchen an etlichen
+#facs_5_r3l12 Unserer Ambtleüthen abgelaßen, daß dieselbigen nit mehr
+#facs_5_r3l13 Durchgelaßen, sondern Zweck gehalten werden solten; Wan¬
+#facs_5_r3l14 nun süthero solche Paßes Sperung von vns nit widerruefft,
+#facs_5_r3l15 worden, vnd aber dergleichen Frömbde und Leütsche Völcker
+#facs_5_r3l16 In einen als anderen Weg, trouppes Weiß durchkomen
+#facs_5_r3l17 ein sollen, Alß haben Wir von gegen Wertigen Con¬
+#facs_5_r3l18 luncturen Wegen, solche Paßes beschließung gegen obigen
+#facs_5_r3l19 Völckern hiemit Zuerfrischen nochtwendig funden; die
+#facs_5_r3l20 solchem nach beurechende, darob gefaißenlich zuhalten vnd
+#facs_5_r3l21 Die nint vnd anderen diser Leüthen zrückzuweisen,
+#facs_5_r3l22 Wie du Zethun wüßen wirst. Hoch mit dir
+#facs_5_r3l23 Datum 15. ten April, 1674.

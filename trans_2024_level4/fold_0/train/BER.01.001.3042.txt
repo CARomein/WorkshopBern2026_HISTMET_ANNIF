@@ -1,0 +1,32 @@
+Law ID: BER.01.001.3042
+Name: Wegen Abruffung der Reichsgroschen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 21/21
+# High similarity (>=50%): 20
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_205_r3l19 An alle Unterargönglicher
+#facs_205_r3l20 Stett und Ambt Leüth.
+#facs_205_r3l21 Wegen Abruffung der Reichs groschen
+#facs_205_r3l22 Schultheiß und Rath der Statt Berns
+#facs_205_r3l23 Wir vernemmend daß die Groschen aus dem Reich
+#facs_205_r3l24 in zimlicher quantitet, sonderlich in das argu¬
+#facs_205_r3l25 geborffen werdind; Und obgleich unter denen
+#facs_205_r3l26 selben Einiche guten Hallts sind, seist daneh
+#facs_205_r3l27 der mehrere Theill so beschaffen, daß darthig
+#facs_205_r5l1 id.
+#facs_205_r5l2 Ein großer Landtschaden zubefürchten maßen allso
+#facs_205_r5l3 teilen der mehrhältige von denen Minderen von
+#facs_205_r5l4 dem gemeinen Mann nicht wohl Unterscheiden
+#facs_205_r5l5 werden könnend, wir Uns benöthiget gesehen,
+#facs_205_r5l6 diesere groschen sämbtlich das stuth auf Einen
+#facs_205_r5l7 halben batzen Unserer währung abzuruffen, also
+#facs_205_r5l8 lang ex Uns gefellt und Wir zu anderwer¬
+#facs_205_r5l9 Stiger abenderung nicht Ursach finden werdend,
+#facs_205_r5l10 deßen du hiemit nachrichtlich verstendiget und
+#facs_205_r5l11 von Cantzle publicieren gefaßen befelchnet wirst
+#facs_205_r5l12 Bocd mit dir. Dat. d. 6. Febr. 1711.

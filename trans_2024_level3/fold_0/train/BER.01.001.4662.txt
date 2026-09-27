@@ -1,0 +1,98 @@
+Law ID: BER.01.001.4662
+Name: Ihnen den Tarif für die Schiffer auf dem Thuner und Brienzer See zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 87/87
+# High similarity (>=50%): 85
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_109_r4l10 An
+#facs_109_r4l11 die Herren Amtleute zu Interlaben,
+#facs_109_r4l12 und Untersteen. Sep.
+#facs_109_r4l13 Ihnen den Tarif für die Schiffer
+#facs_109_r4l14 auf dem Thumer und Krienzer See
+#facs_109_r4l15 Zusenden.
+#facs_109_r4l16 Schultheiß und Rath etc. Wir haben
+#facs_109_r4l17 auf das Ehrerbietige Regehren unserer
+#facs_109_r4l18 lieben und getreuen Angehörigen
+#facs_109_r4l19 der Landschaft Interlaken, und
+#facs_109_r4l20 Stadt Untersteen, daß Wir belieben
+#facs_110_r2l1 möchten, in Rufsicht der veränderten
+#facs_110_r2l2 Zeiten, den Schiferen auf dem
+#facs_110_r2l3 Thümer und Rrienzer See, den
+#facs_110_r2l4 Schiflohn in etbas zu verbesseren.
+#facs_110_r2l5 und zugleich die bisherigen lästigen
+#facs_110_r2l6 Mahlheiten auf Kosten der Gemeinde,
+#facs_110_r2l7 gäntlich abzustellen, dagegen aber
+#facs_110_r2l8 die vorgeschlagenen billichen Emolu¬
+#facs_110_r2l9 ment einzufuhren; das eint um
+#facs_110_r2l10 andere durch unsere furgeliebten
+#facs_110_r2l11 Miträthe die Herren deutsch Sebel,
+#facs_110_r2l12 meister und Vennere des näheren
+#facs_110_r2l13 untersuchen laßen, und nach dem
+#facs_110_r2l14 darüber uns erstadteten Vortrag
+#facs_110_r2l15 in einiger Abänderung des Schiff
+#facs_110_r2l16 Reglements von A. 1757. anstadt
+#facs_110_r2l17 dem, was solches in pag: 15. et 16.
+#facs_110_r2l18 enthaltet, für die Zukunft mit¬
+#facs_110_r2l19 kommenden gedrukten Tarif offent¬
+#facs_110_r2l20 lich publicieren und an den gebohnten
+#facs_110_r2l21 Orthen zu jedermanns Wissenschaft
+#facs_110_r2l22 und geflißener Befolgung anschlagen
+#facs_110_r3l1 215
+#facs_110_r3l2 zu laßen, nöthig erachtet, für das
+#facs_110_r3l3 einte: für das andere dan ist unser
+#facs_110_r3l4 Willen und Befehl; daß in Zukunft
+#facs_110_r3l5 alle bey denen Schif- und Fuhrleuten
+#facs_110_r3l6 Besetzungen, bis dahin üblich gewesen
+#facs_110_r3l7 Mahlzeiten auf Kosten der Gemeinden
+#facs_110_r3l8 gänzlich abgestellt, dagegen dann
+#facs_110_r3l9 die Schiff und Fuhrleute schuldig
+#facs_110_r3l10 seyn sollen, bey einer jeden Schifs
+#facs_110_r3l11 Befahung, welche gewöhnlich von 6.
+#facs_110_r3l12 zu 6. Jahren von sich gehet, folgende
+#facs_110_r3l13 Emolument zu bezahlen:
+#facs_110_r3l14 1° So wohl der untere als obere
+#facs_110_r3l15 Schiffmann ein jeder d 12. 20. baßen
+#facs_110_r3l16 8s„ 25s 15s.
+#facs_110_r3l17 allso beyde zusammen
+#facs_110_r3l18 2° ein jeder Karrer 2. neue
+#facs_110_r3l19 Thaler thut für 6. Karrer - 19, 5
+#facs_110_r3l20 sa.44.20.
+#facs_110_r3l21 Davon soll jedeilen ausgerichtet
+#facs_110_r3l22 werden:
+#facs_110_r3l23 1° beyden Herren Ober Amtleuten
+#facs_110_r3l24 zu Interlaben und Untersteen
+#facs_111_r2l1 ein Disveld von 60. basen, so thut
+#facs_111_r2l2 d. 4.20. ltz.
+#facs_111_r2l3 für beyde
+#facs_111_r2l4 2. den übrigen 20. Assessores
+#facs_111_r2l5 und ausgeschossenen v. Interlaben
+#facs_111_r2l6 Unterstern und Oberhaßlen
+#facs_111_r2l7 dem Landschreiber v. Interlaken
+#facs_111_r2l8 dem Stadtschreiber zu Untersey
+#facs_111_r2l9 bie auch denen 4. Weiblen
+#facs_111_r2l10 von Interlahen und Unterseen
+#facs_111_r2l11 jedem 30. bz. für 26. Persohny & 31. 5.
+#facs_111_r2l12 3. Wird denen Schiflenten und
+#facs_111_r2l13 Karreren überlaßen, unter sich
+#facs_111_r2l14 nach belieben zu theilen, oder
+#facs_111_r2l15 8,20
+#facs_111_r2l16 zu verzehren, die übrigen
+#facs_111_r2l17 C:
+#facs_111_r2l18 Sa 8 f 40 x 20
+#facs_111_r2l19 Wir befehlen Euch diese unseres
+#facs_111_r2l20 Verordnung behörig einschreiben.
+#facs_111_r2l21 zu laßen, und auf deren Befolgung
+#facs_111_r2l22 da wir übrigens
+#facs_111_r2l23 zu Bachen.
+#facs_111_r2l24 mit Ausnahm desjenigen Theils
+#facs_111_r2l25 des Schiff Reglements von 1757.
+#facs_111_r2l26 so diesen neuen Tarif anbetrift
+#facs_111_r4l1 217
+#facs_111_r4l2 es bey allen übrigen Artiklen des
+#facs_111_r4l3 selben noch ferners gänzlich bebenden
+#facs_111_r4l4 laßen. Dat. den 13ten Hornung 1790.

@@ -1,0 +1,686 @@
+Law ID: BER.01.001.3950
+Name: Ordnung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 675/675
+# High similarity (>=50%): 669
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_173_r3l1 3353
+#facs_173_r3l2 Ordnung
+#facs_173_r3l3 die Kleiderundandere Sachen
+#facs_173_r3l4 betreffend, zusamt einem einsehen
+#facs_173_r3l5 der Knecht- und Mägden halber
+#facs_173_r3l6 begen deren Dienst und Lidlohn
+#facs_173_r3l7 Wir Schultheiß Rästund Gürger
+#facs_173_r3l8 der Stalt gern, thun Bund hiemith.
+#facs_173_r3l9 demnach bey gegenbärtigen Zeiten
+#facs_173_r3l10 Wir veranlaset worden, Unsere der
+#facs_173_r3l11 Kleidungen und anderer Sachen
+#facs_173_r3l12 halber zum öffteren, und noch let¬
+#facs_173_r3l13 mahlen in Ao. 1728. in Trubaud¬
+#facs_173_r3l14 gebene Ordnungen frischer Dingen
+#facs_173_r3l15 durch gehen und abenderen zu
+#facs_173_r3l16 lasen, daß darauffhin Wir
+#facs_173_r3l17 denen vielfaltig einschleichenden
+#facs_173_r3l18 misbräuchen den erforderlichen
+#facs_173_r3l19 einhalt zu thun, und Landt Wulter
+#facs_173_r3l20 Vorsorg hiemit gutfunden, so wohl
+#facs_173_r3l21 für Unsere Haubtstalt, als gesamt
+#facs_173_r3l22 übrige Unsere Teitsch, und Weltsche,
+#facs_173_r3l23 Stultund Land dieser Sachen
+#facs_173_r3l24 halber gegenwärtiges einsehen zu
+#facs_173_r3l25 thun
+#facs_174_r2l1 thun, und demenach an zuordnen
+#facs_174_r2l2 bei von punkten zu prünkten folget
+#facs_174_r2l3 votre
+#facs_174_r2l4 Indelen, Herlen, und Edelgesteinen
+#facs_174_r2l5 Wir bollen nun solche Bÿ seyen
+#facs_174_r2l6 sein gut oderfaltsch, zu Staltung
+#facs_174_r2l7 Landin oder außert, den Häus¬
+#facs_174_r2l8 und wo es immer seyn mag zu tragen
+#facs_174_r2l9 männiglich verbolten haben, alles
+#facs_174_r2l10 bey 15. Thl. buß, so offt darbederge,
+#facs_174_r2l11 handlet werden wird.
+#facs_174_r2l12 darunter aber sollen nicht ver¬
+#facs_174_r2l13 standen werden die faltschen
+#facs_174_r2l14 Steinen an Hemder knöpfen,
+#facs_174_r2l15 die gegrabenen Reinen für
+#facs_174_r2l16 filtschafft, auch alle Massiv goldene
+#facs_174_r2l17 und Silberne Arbeit und nipes,
+#facs_174_r2l18 Item die mit Gold und Silberein
+#facs_174_r2l19 gefasste Hals und Ohren geschener
+#facs_174_r2l20 von ferlen Muter, schbarzeplag
+#facs_174_r2l21 Jajets Branäkli, als welcher aller
+#facs_174_r2l22 fürbas bebilliget bleibet.
+#facs_174_r2l23 Von
+#facs_174_r3l1 337
+#facs_174_r3l2 Von Gold und Silbernen Stoffen
+#facs_174_r3l3 Balonen und Diebwerb¬
+#facs_174_r3l4 Alle solche Goldene und Silberne
+#facs_174_r3l5 Stoffen, gestikte, brodierte, oder sonst von
+#facs_174_r3l6 Gold und Silber faden gemachte Arbeit,
+#facs_174_r3l7 als Franges, Schlingen Spitzen, points —
+#facs_174_r3l8 d'Espagne Balonen, Schnür Rubands, und
+#facs_174_r3l9 was dergleichen seyn mag wird hiemit
+#facs_174_r3l10 nömigl. zu tragen, und deren sich zu
+#facs_174_r3l11 gebrauchen von uns verbolten bey¬
+#facs_174_r3l12 fünff gehen rthl. buß.
+#facs_174_r3l13 Ennem jeden aber bleibt erlaubt
+#facs_174_r3l14 Bold- oder Silberner Knöpffen
+#facs_174_r3l15 von Dralt oder faden, wie auch Bol¬
+#facs_174_r3l16 derner oder Silberner Balones
+#facs_174_r3l17 auf Equipages sich zu bedienen
+#facs_174_r3l18 und auch den Bachtmeisteren¬
+#facs_174_r3l19 und Corporalen so auff Werbungen
+#facs_174_r3l20 ins Landkommen Gulons auf Ihren
+#facs_174_r3l21 ordonantz bleideren zu haben;
+#facs_174_r3l22 In fernerem stehet auch mönigl.
+#facs_174_r3l23 frey, Gold oder Silberne hüt bord.
+#facs_174_r3l24 bon Galons oder pointo d'Espagnes
+#facs_174_r3l25 zu tragen.
+#facs_174_r3l26 To
+#facs_175_r2l1 Sobleiben auch die Kindskauff
+#facs_175_r2l2 Lebenen bei von Alters hero
+#facs_175_r2l3 bebilliget.
+#facs_175_r2l4 Mon Dammet
+#facs_175_r2l5 Den selben thun bis Allen Mann
+#facs_175_r2l6 und Weibd Persohnen hiemit
+#facs_175_r2l7 erlauben, ausgenomen zu
+#facs_175_r2l8 ganzen Kleideren, und fütern
+#facs_175_r2l9 bin auch Tupons; In biderhandl.
+#facs_175_r2l10 fahl bey 15. Th. buß.
+#facs_175_r2l11 von bodierter und gestilten
+#facs_175_r2l12 Arbeit.
+#facs_175_r2l13 Alle Seidene oder von faden
+#facs_175_r2l14 gemachte broderiesund Mit¬
+#facs_175_r2l15 werk, sie seyen viel oder
+#facs_175_r2l16 beinfärbig, sollen mängl. auf
+#facs_175_r2l17 kleidungen hiemit verbolten.
+#facs_175_r2l18 seyn bey 15. Thl. bus.
+#facs_175_r2l19 hingegen aber thun Wirmämmigst
+#facs_175_r2l20 alle broderey von bollener Arbeit,
+#facs_175_r2l21 und denen Weibs Persöhnen
+#facs_175_r2l22 alle brodereg auf Leinband und Schip
+#facs_175_r2l23 in sofern selbe nicht von Gold
+#facs_175_r3l1 ät* 39
+#facs_175_r3l2 oderbilber ist zu tragen hiemit
+#facs_175_r3l3 verbilligen
+#facs_175_r3l4 darmter aber nicht gemeint.
+#facs_175_r3l5 noch verstanden ist die Broderieu¬
+#facs_175_r3l6 ajour genant, welche mönniglich
+#facs_175_r3l7 bey 15. Thl. bus verbolten seyn soll
+#facs_175_r3l8 Den Mann Persohnen aber ist
+#facs_175_r3l9 auch alle broderie auf Linge gänzl.
+#facs_175_r3l10 verbolten.
+#facs_175_r3l11 von Oostbasrens felhwert
+#facs_175_r3l12 Überhaubt ist selbiges, insonderheit
+#facs_175_r3l13 aber alle Zobel, Hermelin, Moßw
+#facs_175_r3l14 bitische Marter, und dergleichen
+#facs_175_r3l15 bey einer Straaff von 15. Thl. von
+#facs_175_r3l16 und Verbolten.
+#facs_175_r3l17 Es bleibet jeh denoch aber vergun¬
+#facs_175_r3l18 stiget von dergleichen feltzberk,
+#facs_175_r3l19 Kapenschlüpf, und auch palatines
+#facs_175_r3l20 zu tragen.
+#facs_175_r3l21 von Wisen
+#facs_175_r3l22 Dergebrauch aller Demtelles und
+#facs_175_r3l23 schizen, wie auch der sogenanten¬
+#facs_175_r3l24 blondes, wird möngl. bey 15. thl. bus.
+#facs_175_r3l25 verbolten
+#facs_175_r3l26 Jehdoch
+#facs_176_r2l1 Ich doch bleibt annoch zu tragen.
+#facs_176_r2l2 verbilliget die schbarzen Sitzen
+#facs_176_r2l3 und gesamt.
+#facs_176_r2l4 Denen Mand fersöhnen aberdie
+#facs_176_r2l5 Schisen an Rabälten.
+#facs_176_r2l6 Und auch denen Weibs Persohnen
+#facs_176_r2l7 die Schitzen auf dem Kopf; jeh doch
+#facs_176_r2l8 ohne hinten herab hangende ß ge¬
+#facs_176_r2l9 mante barbes, zu mahlen solche
+#facs_176_r2l10 barbes bey 15. Thl. buß von Um¬
+#facs_176_r2l11 verbollen sind.
+#facs_176_r2l12 vom Leidtragen
+#facs_176_r2l13 Des Leidtragens halb haben Wir fürs
+#facs_176_r2l14 künftige gesetzt, und geordnet, daß in
+#facs_176_r2l15 auf und absteigender Linien sobeit
+#facs_176_r2l16 selbe langet, man Leidtragen möge.
+#facs_176_r2l17 in den seiten Linien aber nur für
+#facs_176_r2l18 brüder und Schbesteren, Schwägerung
+#facs_176_r2l19 geschbeyen, bis auch Oncles und Tritt
+#facs_176_r2l20 Neuveur und Niees, und beilen
+#facs_176_r2l21 sich offtmahls zu getragen, daß ein
+#facs_176_r2l22 Haus Walter oder Hausmuter, auch
+#facs_176_r2l23 nur wegen eines kleinen ohnündigen
+#facs_176_r2l24 Einds
+#facs_176_r3l1 341
+#facs_176_r3l2 Siben acht oder mehr fersöhnen bleiden
+#facs_176_r3l3 lasen, und allso großen Costen haben.
+#facs_176_r3l4 müßen; So ist statuiest, daß außerth den
+#facs_176_r3l5 elteren die Kinder des hauses, und
+#facs_176_r3l6 bem Beiters das leidtragen zu gelaßen
+#facs_176_r3l7 ist, solches in diesem Fahl nicht anderst
+#facs_176_r3l8 thun mögen, als durch das genante pelie
+#facs_176_r3l9 Deuil, oder kleine Leid tragen, da-
+#facs_176_r3l10 übrigend, jedermann noch fernert
+#facs_176_r3l11 bebilliget bleibet sich an den Leichten
+#facs_176_r3l12 schwatz bebleidet einzufinden.
+#facs_176_r3l13 Wir haben auch eine Zeit dahero bahr¬
+#facs_176_r3l14 nemmen müßen, was für Cösten und
+#facs_176_r3l15 Excessen darin vorgehen, daß die¬
+#facs_176_r3l16 diensten bey absterben der Haus Herrn
+#facs_176_r3l17 und Haudmülteren oder sonsten im
+#facs_176_r3l18 leid gebleidet werden, gestalten von
+#facs_176_r3l19 Und ein solches künftig in verbolten
+#facs_176_r3l20 wird, unter auf gesester straaff daß
+#facs_176_r3l21 diejenigen so Ihre Diensten schbarz bleiden
+#facs_176_r3l22 laßen solten von jedem znechtmagd,
+#facs_176_r3l23 oder ins Leid gekleideten Dienst, zwanzig
+#facs_176_r3l24 Pfund, jeder dienst aber so dergleichen
+#facs_176_r3l25 schbarhe Bleidung tragen burde sehen
+#facs_176_r3l26 büs zu bezahlen gehalten seyn soll.
+#facs_176_r3l27 Richt
+#facs_177_r2l1 Nicht minder bestbahr und überflüßig
+#facs_177_r2l2 finden wir auch, daß bey dergleichen
+#facs_177_r2l3 Relasionen, ganze Zimmer, Hem Pferdt,
+#facs_177_r2l4 ckutschen Tragsesel, und daherige
+#facs_177_r2l5 Allelages, mit schwarzem Tuchgebleidet
+#facs_177_r2l6 und überzögen werden. Derobegen
+#facs_177_r2l7 solche böstlichkeiten zu hintertreiben.
+#facs_177_r2l8 auf jedes Stub, sowohl von gemachern,
+#facs_177_r2l9 als Pferd Gutschen und tragseßel, gleich
+#facs_177_r2l10 dem Attelage wachig ltbuß bey jede
+#facs_177_r2l11 Übertreltung gesetzt wird. Mönigl.
+#facs_177_r2l12 aber bleibt hiemit erlaubt, wanner
+#facs_177_r2l13 im Leid sein Pferd mit einer schbar¬
+#facs_177_r2l14 henaltel debl. versehen zu laßen
+#facs_177_r2l15 von Bestalter gesafften.
+#facs_177_r2l16 zu erleichterung der Beschwerden
+#facs_177_r2l17 in Gewalterschafften, berdhiemith
+#facs_177_r2l18 auch Oberbeitl. angesehen und ge¬
+#facs_177_r2l19 ordnet, das hinführo die Truff¬
+#facs_177_r2l20 gezeügen für den einbund,
+#facs_177_r2l21 die Kindbelt, und Raub Jahrd¬
+#facs_177_r2l22 Verehrung zu samen, und für
+#facs_177_r2l23 alles mit einander ein alte Duplens
+#facs_177_r2l24 oder deren Behrt aufs höchste aber
+#facs_177_r2l25 und mehr nicht als zwo dicaten
+#facs_177_r2l26 bohl
+#facs_177_r3l1 343
+#facs_177_r3l2 bohl aber minder geben mögen,
+#facs_177_r3l3 Solches geschenk soll dem Pfarr Herren
+#facs_177_r3l4 so den Tauf verrichten wird in einem
+#facs_177_r3l5 Zadel, darin daß taufgezeugen, oder
+#facs_177_r3l6 gezeügin nahmen inbendig, und daß
+#facs_177_r3l7 Einds valtersnahmen, und beendig ge¬
+#facs_177_r3l8 schriben ins Hand geschikt durch selbige
+#facs_177_r3l9 geöffnet, examiniert, und wan solches
+#facs_177_r3l10 der Ordnung nicht zu wider, biderum
+#facs_177_r3l11 zu gemacht, und allbegen eines Kindt
+#facs_177_r3l12 einbund mit Ihren zedlen alledrey
+#facs_177_r3l13 zusamen in ein paquel verschloßen,
+#facs_177_r3l14 an des Kinds elteren überschriben
+#facs_177_r3l15 und durch die Hebammen, die das -
+#facs_177_r3l16 puquet bey des Pfarr Herren Haus
+#facs_177_r3l17 abholen soll, denselben überbracht
+#facs_177_r3l18 bann aber jehmand das bestimte¬
+#facs_177_r3l19 überfahren, oder den einbundnicht
+#facs_177_r3l20 verdeütetermaßen überschiten¬
+#facs_177_r3l21 burde, ein solcher soll von dem Pfarr¬
+#facs_177_r3l22 Herren bey deßen Treübundschlicht
+#facs_177_r3l23 mit übergebung des einbundt der
+#facs_177_r3l24 ExecutionsCamer eingeben, und die
+#facs_177_r3l25 Eindansetzung diesers best gemeinten
+#facs_177_r3l26 einsehend mit fünfzig lb. buß abgestrafft.
+#facs_177_r3l27 werden fürd einte
+#facs_177_r3l28 Jur¬
+#facs_178_r2l1 Für das andere dann erachten Wir
+#facs_178_r2l2 nicht weniger nöhtig auch begangen;
+#facs_178_r2l3 den Cösten so des Kinds Eltern
+#facs_178_r2l4 bey der Kindbeth mit Collation
+#facs_178_r2l5 und sonsten ertragen gebühren,
+#facs_178_r2l6 de vorsehung zu thun, und selbe
+#facs_178_r2l7 gäntzlich abzuschaffen; gestalte
+#facs_178_r2l8 Wir in diesem absehen hier durch
+#facs_178_r2l9 gehebt haben wollen, daß und künf¬
+#facs_178_r2l10 nig die zu Tauffgezeuginenden
+#facs_178_r2l11 Bolten erbältene Weibspersche
+#facs_178_r2l12 des begleits der so genanten
+#facs_178_r2l13 Ehren Frauben, so hierdurch
+#facs_178_r2l14 gänzlich abgestelt seyn sollen,
+#facs_178_r2l15 sich enthalten, weder vordem¬
+#facs_178_r2l16 Heil. Tauff das Kind bey der¬
+#facs_178_r2l17 Kindbelterin abholen, noch noch
+#facs_178_r2l18 dem selben solches nacher Haus
+#facs_178_r2l19 tragen, sonderen gleich den
+#facs_178_r2l20 Tauff Zeügen ihre Pflicht allein
+#facs_178_r2l21 in der Kirchen Verrichten, die
+#facs_178_r2l22 Hebamen aber die Kinderin
+#facs_178_r2l23 die Kirchen und Zurub tragen,
+#facs_178_r2l24 all so die Tauf zeüginnen selbigen
+#facs_178_r3l1 345.
+#facs_178_r3l2 Tagd die Kindbetherin nicht zu
+#facs_178_r3l3 besuchen haben sollen, alles bey
+#facs_178_r3l4 ob ausgesezter straaff der 50. №.
+#facs_178_r3l5 In ansehen vorangeregter Kind¬
+#facs_178_r3l6 beth Schenbungen aber, hat es -
+#facs_178_r3l7 gleichbohlen den Verstand daß
+#facs_178_r3l8 Armen und dürftigen Kind¬
+#facs_178_r3l9 betherinnen zur exquitung.
+#facs_178_r3l10 etwelche Rahrung in die Kindbeth
+#facs_178_r3l11 zu schiben, als ein verb Christlicher
+#facs_178_r3l12 Liebe, bie billich freystehen soll.
+#facs_178_r3l13 Som Rantzen
+#facs_178_r3l14 Wiebohlen wir das Tanzen
+#facs_178_r3l15 in allhiesiger Haubtstalt, und
+#facs_178_r3l16 auch Allen übrigen Stälten in
+#facs_178_r3l17 Unseren Teutsch und Weltschen
+#facs_178_r3l18 Landen anbau, und feyrtagen,
+#facs_178_r3l19 wie auch in allen öffentlichen
+#facs_178_r3l20 Besellschafft Wihrts und anderen
+#facs_178_r3l21 Häusern zu Allen Zeithen –
+#facs_178_r3l22 hiemith Männiglich alledernsts
+#facs_178_r3l23 und bey 15. Thl. Straaff verbiethen,
+#facs_178_r3l24 so wollen jehdenoch Wir andurch
+#facs_178_r3l25 die Tänz an anderen Tagen in
+#facs_178_r3l26 den
+#facs_179_r2l1 den privat Häuseren, voran¬
+#facs_179_r2l2 gezogener Stälten Vergün¬
+#facs_179_r2l3 stigen; der Meinung jeh doch
+#facs_179_r2l4 das solche Töns nur bey tag ge¬
+#facs_179_r2l5 halten, und länger nicht
+#facs_179_r2l6 zu dauren sollen, dan bis
+#facs_179_r2l7 abends um 9. Uhr; Wider¬
+#facs_179_r2l8 handlenden fahls, bey 15 th.
+#facs_179_r2l9 buß, für jedesmahl so harbider
+#facs_179_r2l10 gehandlet berden solte, nicht
+#facs_179_r2l11 nur von dem soden platz darzu
+#facs_179_r2l12 gegeben, und auch der persohn
+#facs_179_r2l13 so den Tanz angestelt zu bezeichen,
+#facs_179_r2l14 sonderen auch von jeder Persohn
+#facs_179_r2l15 welche allda getanzet haben wird.
+#facs_179_r2l16 In ansehen aber des Tanzens außer¬
+#facs_179_r2l17 den Stälten und auff dem Land,
+#facs_179_r2l18 lasen wir es ohn abgeenderet.
+#facs_179_r2l19 bey deme bewenden und Unsere
+#facs_179_r2l20 letste Chorgricht Satzung hierinfahls
+#facs_179_r2l21 vorschreiben thut.
+#facs_179_r2l22 An Hochzeiten und anderen festwoi¬
+#facs_179_r2l23 teten aber bollen das Tansen zu¬
+#facs_179_r2l24 Stalt und Land, in bescheidenheit
+#facs_179_r2l25 fürbas Mänigl. Wir hiemit erlauben.
+#facs_179_r3l1 S47
+#facs_179_r3l2 Herr Masquera den und Münse reger
+#facs_179_r3l3 Wir verbiethen hiemit noch ferners
+#facs_179_r3l4 alle Masquevudes und Mümereyen
+#facs_179_r3l5 und zwar bey allen anläßen ohne aus¬
+#facs_179_r3l6 nahm, all so das auf jegliche über¬
+#facs_179_r3l7 treltung nicht nur die Vermuhmete
+#facs_179_r3l8 Persohn selbst sonderen auch der¬
+#facs_179_r3l9 Flatz geben es seye an Hochzeiten
+#facs_179_r3l10 oder sonst 15. Rhl. bus ohne Nachlas¬
+#facs_179_r3l11 soll zu erlegen haben; Und da
+#facs_179_r3l12 die Masquierte Persohn nicht ange¬
+#facs_179_r3l13 ben burde, soll der Hauswalter
+#facs_179_r3l14 oder Hochzeiter für jede Vermuhme
+#facs_179_r3l15 te Persohn obige Straofferlegen,
+#facs_179_r3l16 nicht vermögenden fahls aber der
+#facs_179_r3l17 sehlbahre auff Gnad hin vor das
+#facs_179_r3l18 schurgeren Zihl hin verbisen werden
+#facs_179_r3l19 vom Soosen Wielen.
+#facs_179_r3l20 Alles hoche spielen bollen wir über¬
+#facs_179_r3l21 haubt, in sonderheit aber alle reue
+#facs_179_r3l22 d'Hazard, als Pharon, Bassette, Lands,
+#facs_179_r3l23 „knecht, Berlin, Quinze und dergleichen
+#facs_179_r3l24 gleichwie im vergangenen, allso¬
+#facs_179_r3l25 auch für das bünfftige zu Stalt und
+#facs_180_r2l1 Land, so bohl in privat als öffentl.
+#facs_180_r2l2 Häuseren hiemith Verbolten haben
+#facs_180_r2l3 und zu ahr neben Confiscation aller
+#facs_180_r2l4 gebonnenen Gelts bey 100 Thl: buß
+#facs_180_r2l5 von jeder fühlbahren, und rüch von
+#facs_180_r2l6 derjenigen Persohn zu beziehen,
+#facs_180_r2l7 so den flaz darzu gegeben, und in
+#facs_180_r2l8 seinem Haus solches geduldes haben
+#facs_180_r2l9 bird.
+#facs_180_r2l10 Damit nun der gleichen Excessen
+#facs_180_r2l11 desto ehender entdekt, soll dem
+#facs_180_r2l12 verleider, wann er auch schon unter
+#facs_180_r2l13 den Bielenden mitbegriffen
+#facs_180_r2l14 oder den flaz darzugegeben hätte,
+#facs_180_r2l15 nicht nur neben geheimhaltung
+#facs_180_r2l16 seiner Persohn die disfahls schul¬
+#facs_180_r2l17 dige buß völlig nachgelaßen,
+#facs_180_r2l18 sonderen noch darzu die restitutio
+#facs_180_r2l19 seines verlohrnen gelts, und der
+#facs_180_r2l20 halbige Theil der von den übrigen
+#facs_180_r2l21 Schilenden zu beziehenden Buß¬
+#facs_180_r2l22 kommen, und heimdienen
+#facs_180_r2l23 Theilung der Oupen und Confiscation
+#facs_180_r2l24 bie nun auf einer jederen der Bor¬
+#facs_180_r2l25 stehenden Übertrettungen auch
+#facs_180_r3l1 749
+#facs_180_r3l2 verschiedene hußen, und daß Vielens
+#facs_180_r3l3 halber eine Confiscution gesetzt worden,
+#facs_180_r3l4 So haben auch zu mehrerer entde¬
+#facs_180_r3l5 bung der fehlbahren und gnugsam
+#facs_180_r3l6 habenden Gründen wir hiemit¬
+#facs_180_r3l7 erkent, daß alle dieserd Mandato
+#facs_180_r3l8 halber fallende bußen nur in zwey
+#facs_180_r3l9 gleiche Theil getheilt, deren der einte¬
+#facs_180_r3l10 henndienen und überlaßen seyn solle.
+#facs_180_r3l11 in allen unseren Teütsche und
+#facs_180_r3l12 stält und
+#facs_180_r3l13 Weltschen Landen demjenigen Unserer
+#facs_180_r3l14 Amtl. oder Richteren jeden Ohrts so
+#facs_180_r3l15 bis anhero in übung gehabt in diesen
+#facs_180_r3l16 Sachen zu uhrteilen, der andere
+#facs_180_r3l17 halbe Theil aber von diesenbußen,
+#facs_180_r3l18 soll jesweilen dem Verleider zu
+#facs_180_r3l19 gestelt werden.
+#facs_180_r3l20 Execution dieser Ordnung
+#facs_180_r3l21 damit auch die Execution vorstehender
+#facs_180_r3l22 Unserer Hoch=Oberteitl. Ordnung desto
+#facs_180_r3l23 beser erreicht berden möge, haben
+#facs_180_r3l24 Zu derselben mehrerer und ernsthafften
+#facs_180_r3l25 gererer Beobachtung, wir nicht nur
+#facs_180_r3l26 uns andurch verbunden, noch obhabenden
+#facs_181_r2l1 Unseren Standspflichten, selbsten
+#facs_181_r2l2 auch aufseher und angebere zu seyn,
+#facs_181_r2l3 deren, so dis unser ernstl. einsehen
+#facs_181_r2l4 und Mandat übertretten würden,
+#facs_181_r2l5 sonderen bollen in hiesiger Haubt¬
+#facs_181_r2l6 Stalt Unserer Reformations Cammer
+#facs_181_r2l7 in übrigen Stälten, und auch in
+#facs_181_r2l8 gesamt Unseren Teutschund Weltschen
+#facs_181_r2l9 Landen aber unsere Amt. oder
+#facs_181_r2l10 jenige Richter, so jeden Ohrtdeiß
+#facs_181_r2l11 anhero in übung gehabt, in diesen
+#facs_181_r2l12 sachen zu uhrteilen, hiemit be¬
+#facs_181_r2l13 gönltiget haben, vertraubte Ehrl.
+#facs_181_r2l14 geheime und beeydigte aufseher
+#facs_181_r2l15 nach billbuhr zu bestellen, und
+#facs_181_r2l16 Vermittlest derselben diebider¬
+#facs_181_r2l17 handlenden desto liechter in
+#facs_181_r2l18 erfahrung bringen, und ent¬
+#facs_181_r2l19 deben zu können.
+#facs_181_r2l20 Hier in Unser Haubt Stalt aber
+#facs_181_r2l21 sollen in d besonderd, alle Unsere
+#facs_181_r2l22 stands farb tragende bediente¬
+#facs_181_r2l23 äußerth derselben und auff dem¬
+#facs_181_r2l24 Land aber alle Unsere Landschreiber
+#facs_181_r2l25 Originalen, Chorrichter Rechtßen
+#facs_181_r3l1 et
+#facs_181_r3l2 2°
+#facs_181_r3l3 3
+#facs_181_r4l1 751
+#facs_181_r4l2 Weibelund dergleichen bey Ihren
+#facs_181_r4l3 Eyden auf die übertrettenden
+#facs_181_r4l4 zu invigitieren, und solche gebühren¬
+#facs_181_r4l5 den Ohrts zu verleiden gehalten,
+#facs_181_r4l6 seyn, Ihnen aber soll vie obgemeldt
+#facs_181_r4l7 gleich anderen unbelydigten ver¬
+#facs_181_r4l8 leideren die bestimte portion der
+#facs_181_r4l9 buß für Ihre diß öhrige mühebalt
+#facs_181_r4l10 auch heimdienen.
+#facs_181_r4l11 des angebens halber alles Dec-
+#facs_181_r4l12 heiteren Meinung daß
+#facs_181_r4l13 jenige fersöhnen so der Verband¬
+#facs_181_r4l14 schafft halber in gradu deßabtretten
+#facs_181_r4l15 einander zu gethan sind nicht schul¬
+#facs_181_r4l16 dig seyn sollen einander anzugeben
+#facs_181_r4l17 desgleichen soll in demjenigen
+#facs_181_r4l18 Haus, da man bohnhafftig, niemand
+#facs_181_r4l19 der Kleidungen halber verleideten
+#facs_181_r4l20 werden können;
+#facs_181_r4l21 In fernerem sollen die Knächtend
+#facs_181_r4l22 Mägd nicht befügt seyn Ihre Herrn
+#facs_181_r4l23 und Meister, Frauben, noch dero
+#facs_181_r4l24 binder zu verleiden. Worbey
+#facs_181_r4l25 dan auch
+#facs_181_r4l26 Ein
+#facs_182_r2l1 4. Ein Verleider gehalten seyn soll, was er
+#facs_182_r2l2 hählbahres entdebet, allbegen unerth
+#facs_182_r2l3 dreymahl 2 r Stunden, es seye zu Statt
+#facs_182_r2l4 oder Land, dem behörigen Richter zu
+#facs_182_r2l5 hinterbringen, auch seine Delation mit
+#facs_182_r2l6 allen umständen der Zeit, des Ohrts
+#facs_182_r2l7 Beschreibung und nahmen der Beklagten
+#facs_182_r2l8 fersohn, und deren Bleidung zu begleiten
+#facs_182_r2l9 und zu erbahren,
+#facs_182_r2l10 Gestalten auff dis hin alle diejenige
+#facs_182_r2l11 Richter denen die Hand hab, und voll¬
+#facs_182_r2l12 strebung dieser Unsers, zu gemeinen
+#facs_182_r2l13 Unserer Stält und Landen bohlfart
+#facs_182_r2l14 ausgebenden Mandats jeden ohrts
+#facs_182_r2l15 obliget, und dar zu verordnet sind, hie¬
+#facs_182_r2l16 führo alles angeben deren sofählbahr
+#facs_182_r2l17 seyn möchten, von jederman Sie seyen
+#facs_182_r2l18 beydiget oder nicht treulichen ver¬
+#facs_182_r2l19 nemmen und anhören. Demenach denn
+#facs_182_r2l20 neben geheimhaltung des Angebers
+#facs_182_r2l21 die verleidete Persohnen ehestens
+#facs_182_r2l22 nach form Rechtens vor sich cetieren,
+#facs_182_r2l23 zu persöhnl. erscheinung anhalten, in
+#facs_182_r2l24 Ihren gründ und Vorstellungen weg
+#facs_182_r2l25 anhören, und darauf hingefalten
+#facs_182_r2l26 Sachen nach Ihre Urthel ausfallen sollen,
+#facs_182_r3l1 353.
+#facs_182_r3l2 burde aber eine angebene Persohn aus¬
+#facs_182_r3l3 bleiben, und über dreymahlige Citation
+#facs_182_r3l4 denoch nicht erscheinen, so solleine solche
+#facs_182_r3l5 per contumaciam verfelt, und zu abführung
+#facs_182_r3l6 der geordneten straff angehalten werden
+#facs_182_r3l7 Alles in dem Verstand, und mit der
+#facs_182_r3l8 erläuterung, daß von jenigen Ortlen¬
+#facs_182_r3l9 die in Unseren Teutsch und Weltschen
+#facs_182_r3l10 Stält und Landen, von demjenigen Amts¬
+#facs_182_r3l11 mann oder Richter, so jeden Ohrtel Zuten¬
+#facs_182_r3l12 tencieren hat, die beschwerende Parthey
+#facs_182_r3l13 allhavo vor unsere Reformationo Cammer
+#facs_182_r3l14 zu recurrieren befügt, von dannen aber
+#facs_182_r3l15 weiters zu appettieren niemand ver¬
+#facs_182_r3l16 billiget seyn solle. Zumahlen dieser
+#facs_182_r3l17 Camer der Gebalt von und Zugelegt ist,
+#facs_182_r3l18 nicht nur über alle aus unseren Teutsch¬
+#facs_182_r3l19 und Weltschen Stältundlanden, allhärt
+#facs_182_r3l20 bommende recussus, sonderen auch über
+#facs_182_r3l21 alle in Unserer Haubt Stalt, in gegen
+#facs_182_r3l22 bärtige Ordnung einfließende Sache
+#facs_182_r3l23 und Geschäfft, ohne jehmand einichen
+#facs_182_r3l24 beiteren Recurs zu gestalten absolute
+#facs_182_r3l25 abzusprechen.
+#facs_182_r3l26 Wir versehen Und demnach gegen allen
+#facs_183_r2l1 Unseren Bürgeren, angehörigen
+#facs_183_r2l2 Unterthanen, und übrigen Einbohnern,
+#facs_183_r2l3 vorermeldt unserer Stältund Landen
+#facs_183_r2l4 dieselben beiden nicht nur gegenbärtigen
+#facs_183_r2l5 Unserer Verordnung gehorsamlichen
+#facs_183_r2l6 sich unterbarffen. Sonderen gebiethen
+#facs_183_r2l7 zumahlen auch alles ernsts beydes
+#facs_183_r2l8 Unserer verordneten reformations
+#facs_183_r2l9 Cammer, und allübrigen Unseren
+#facs_183_r2l10 Amtl. und Richteren, so zu vollstrebung
+#facs_183_r2l11 derselben in unseren Landen bestelt
+#facs_183_r2l12 sind, dero getreube Beobachtung und
+#facs_183_r2l13 fleißige Execution, beyohabenden
+#facs_183_r2l14 ihren Pflichten Ihnen angelegen¬
+#facs_183_r2l15 seyn zu läsen. Geben in Unserer
+#facs_183_r2l16 großen Rahts Versamlung den 6ten
+#facs_183_r2l17 Septemb. 1747.
+#facs_183_r2l18 Ordnung und Einschen-
+#facs_183_r2l19 der Knechten und Mägden halber
+#facs_183_r2l20 begen deren Dienst und Lidlohn
+#facs_183_r2l21 Demmnach Muyhl. und Oberen¬
+#facs_183_r2l22 vielmohls klägden vorbommen,
+#facs_183_r2l23 und selbsten auch vielfaltig befr¬
+#facs_183_r2l24 enemmen müßen, daß der Knechten
+#facs_183_r4l1 955.
+#facs_183_r4l2 und Mägden halber, es seye in ansehung
+#facs_183_r4l3 Ihrer auffdingung, belohnung oder
+#facs_183_r4l4 auch Ihres abscheids und anderer
+#facs_183_r4l5 Dingen wegen vielerley ohnleiden last
+#facs_183_r4l6 mißbräuch eingerißen und über¬
+#facs_183_r4l7 hand genommen; als haben hochgedacht
+#facs_183_r4l8 Ihr Anl. zu abstellung derselben
+#facs_183_r4l9 und beobachtung der anständig¬
+#facs_183_r4l10 heit, gebühr und billichkeit, hierleidet
+#facs_183_r4l11 nachfolgende Ordnung angesehen
+#facs_183_r4l12 und erkent wie folget:
+#facs_183_r4l13 Wann ein Dienst, Knecht, oder Magdt
+#facs_183_r4l14 mit annemung eines Haft Pfenniges
+#facs_183_r4l15 sich verdinget, soll der oder dieselbe
+#facs_183_r4l16 an dem Ohrt allbo Sie das erste Haft¬
+#facs_183_r4l17 Gelt empfangen, ohne einich hinter
+#facs_183_r4l18 sich sehen zu bestimter Zeit den
+#facs_183_r4l19 dienst antrelten, und gethaner zu¬
+#facs_183_r4l20 sag gemäd die versprochene Zeit ge¬
+#facs_183_r4l21 traublich ausdienen
+#facs_183_r4l22 Dafern aber ein solcher Dienst¬
+#facs_183_r4l23 Knächt oder Magdt ohngeacht seines
+#facs_184_r2l1 Versprechens den Dienst nicht andrelten,
+#facs_184_r2l2 sondern das Hafftgelt wider seines
+#facs_184_r2l3 Herren Meisters oder Frauben
+#facs_184_r2l4 billen, biderbringen, und bin etbau
+#facs_184_r2l5 geschehen solches thätlich ins Haus¬
+#facs_184_r2l6 barffen, oder aber nur auf etliche
+#facs_184_r2l7 Tag oder Bochen, den dienst versehen,
+#facs_184_r2l8 bald aber darauff, oder doch vor
+#facs_184_r2l9 verfließung der versprochenen
+#facs_184_r2l10 Zeit, ohne genugsamme erhebliche.
+#facs_184_r2l11 Ursachen, aus dem Dienst trälten,
+#facs_184_r2l12 oder aber mehr als an einem Ohrt
+#facs_184_r2l13 Hafft Gelt nemmen Burde, soll nicht
+#facs_184_r2l14 allein einem solchen Dienst sein
+#facs_184_r2l15 letst ausstehender halbe Jahrlohn.
+#facs_184_r2l16 als verbürkt, gänzlichen Herub¬
+#facs_184_r2l17 behalten, sonderen derselbe noch
+#facs_184_r2l18 zu wohl verdienter Straaff in
+#facs_184_r2l19 gefangen schafft gesetzt, und darauf
+#facs_184_r2l20 baues keine Burgers, sonderent¬
+#facs_184_r2l21 beders Land oder gar frömder
+#facs_184_r2l22 Leüthen Binder, und, von dannen
+#facs_184_r2l23 offentl. zur Stalt hinaus geführt,
+#facs_184_r2l24 und vor zweyen gansen Jahren
+#facs_184_r4l1 els
+#facs_184_r4l2 in der Stalt weder dienst noch ein¬
+#facs_184_r4l3 bohners Beid, ja auch nicht auf dem
+#facs_184_r4l4 Land bey keinem Amtsmann, fredig¬
+#facs_184_r4l5 banten, noch anderen außerthalb¬
+#facs_184_r4l6 der Stalt wohnenden Gurgersleüthen,
+#facs_184_r4l7 in Dienst genommen, noch geduldet;
+#facs_184_r4l8 gurgers binderen aber die Allsobider
+#facs_184_r4l9 handlen Burden mit der Banisation
+#facs_184_r4l10 terschonet, dargegen jch doch die selbe
+#facs_184_r4l11 mit Ibeymahl 24. Stündiger ge¬
+#facs_184_r4l12 fangen schafft abgestrafft berden:
+#facs_184_r4l13 Fahls dann solche Liechtfärtigkeit zum
+#facs_184_r4l14 anderen oder öfftermahl von einer
+#facs_184_r4l15 Persohn verübt, oder jehnand¬
+#facs_184_r4l16 obgesester straaff sich nicht gebühren
+#facs_184_r4l17 unterberffen, sonderen darbider
+#facs_184_r4l18 handlenburde, soll der oder dieselbe
+#facs_184_r4l19 obige, auf eint und anderen Fahl
+#facs_184_r4l20 gesetzte straffen doppelt auch zu
+#facs_184_r4l21 stehen, und zu leidenschuldig.
+#facs_184_r4l22 seyn.
+#facs_184_r4l23 Es soll aber beim Herr Meister oder
+#facs_184_r4l24 kraub, beniger einiche unterhänd¬
+#facs_184_r4l25 lerin, einen aus der Stalt verbisenen
+#facs_185_r3l1 Dienst, Knecht oder Magdt, vorster¬
+#facs_185_r3l2 fließung der zweyen Jahren bide,
+#facs_185_r3l3 rum Dingen, noch in dienstbringen
+#facs_185_r3l4 helften, bidrigen fahls, sollen solcher
+#facs_185_r3l5 Herr, meister oder Fraub auch die
+#facs_185_r3l6 unterhändlerin mit zehen, und
+#facs_185_r3l7 die Magd neben obbestimter bani¬
+#facs_185_r3l8 sierung mit fünst Pfunden gebüßt
+#facs_185_r3l9 werden.
+#facs_185_r3l10 Soll ein jeder dienst Enechto der Magt
+#facs_185_r3l11 auf das benigste ein Jahr langer
+#facs_185_r3l12 einem Ohrt zu dienen schuldig seyn,
+#facs_185_r3l13 es bäre dan Sach daß der selbigenen
+#facs_185_r3l14 verordneten Executoren dieser
+#facs_185_r3l15 Ordnung, solche erhebliche Ursachen
+#facs_185_r3l16 an zeigen könte, derenthalb Siebillich
+#facs_185_r3l17 funden Ihme aus dem Dienst zu halten,
+#facs_185_r3l18 ein Herr Meister oder Frau aber
+#facs_185_r3l19 kan und soll bohl befügt seyn Ihre
+#facs_185_r3l20 diensten alle halb Jahr zu beurlauben
+#facs_185_r3l21 jehdoch daß solches einem Dienst May
+#facs_185_r3l22 Mohnat vor ausgang deshalben Jahrs
+#facs_185_r3l23 angekündet werde.
+#facs_185_r3l24 4° Es soll aber bein Dienst knecht oder Magd.
+#facs_185_r3l25 er seye zu bas Zeit des Jahrs es wollen
+#facs_185_r5l1 359
+#facs_185_r5l2 sich anderbärtig zu verdingen suchen,
+#facs_185_r5l3 er habe dann solches seinem H. Meister
+#facs_185_r5l4 oder Frauben Zbey Mohnat zu vor
+#facs_185_r5l5 geoffenbahret, bidrigen fahls soll ein
+#facs_185_r5l6 solcher Knecht oder Magdt ohnalle.
+#facs_185_r5l7 Quad mit 24. Stündiger gefangenschafft
+#facs_185_r5l8 abgestrafft werden
+#facs_185_r5l9 und bann eines Dienstd Knecht oder
+#facs_185_r5l10 Mägdt Zeit, bis an drey Monat her
+#facs_185_r5l11 zu, ausgangen und verfloßen, soll
+#facs_185_r5l12 ein Knecht oder Magdt nicht warten
+#facs_185_r5l13 biß der Herr Meister oder Erb¬ sie
+#facs_185_r5l14 fragen, sonderen die Knecht oder Magdt
+#facs_185_r5l15 sollen Ihre Herren Meister oder Fbn¬
+#facs_185_r5l16 selbst deßt wegen begrüßen, und
+#facs_185_r5l17 Ihnen an Zeigen, ob Sie länger im
+#facs_185_r5l18 dienst zu bleiben begehren oder
+#facs_185_r5l19 nicht? Damit ein Herr Meister-
+#facs_185_r5l20 oder Frb. sich auch weiterd zu entschließen
+#facs_185_r5l21 und zu versehenbüße; dann belcher
+#facs_185_r5l22 rnecht oder Magdt solches nicht thäte,
+#facs_185_r5l23 der oder dieselbe soll zu rechter straff
+#facs_185_r5l24 den ausstehenden letsten halben Jahrs¬
+#facs_185_r5l25 lohn verbürkt und verlohren haben.
+#facs_185_r5l26 und solcher Ihme inbehalten werden.
+#facs_186_r3l1 Solte aber ein Herr Meister oder
+#facs_186_r3l2 Arb. Ihren Knecht oder Magdt beym
+#facs_186_r3l3 habenden Klägdten vor beendigung
+#facs_186_r3l4 der Zeit des Diensts erlaßen wollen,
+#facs_186_r3l5 so soll auff den fahl unter Ihnen
+#facs_186_r3l6 dahero Mishellentstehen Thäte,
+#facs_186_r3l7 solche streitigkeit Müffl. der Reforma
+#facs_186_r3l8 sations Cammer als Exemtoren dieser
+#facs_186_r3l9 Ordnung vorgetragen, und daselbst
+#facs_186_r3l10 beuhrteillet werden, bie viel Lohn
+#facs_186_r3l11 einem solch beuhrlauben den Dienst
+#facs_186_r3l12 pro rata der Zeit gebühren, und der
+#facs_186_r3l13 Herr Meister oder frb Ihme zu be¬
+#facs_186_r3l14 zahlen pflichtig seyn solle,
+#facs_186_r3l15 Es soll aber bein Knecht oder Magdt
+#facs_186_r3l16 hinführo von einem anderen
+#facs_186_r3l17 Hl. Meister oder Frb. neüber¬
+#facs_186_r3l18 dingen in Dienst aufgenommen werden,
+#facs_186_r3l19 der Knecht oder Mägdt köne dann
+#facs_186_r3l20 betorderst einen Schriftl. abscheidung
+#facs_186_r3l21 beisen, daß er oder Sie von seinen
+#facs_186_r3l22 vorgehenden H. Mstr. oder Erb. sei¬
+#facs_186_r3l23 nes Diensts erlaßen worden, bey
+#facs_186_r3l24 gönsig Thl. buß, von dem oder der¬
+#facs_186_r3l25 jenigen Zu beziehen, soeinen
+#facs_186_r3l26 Knecht oder Magdt ohne vorbeisenden
+#facs_186_r5l1 36s.
+#facs_186_r5l2 abscheid auffdingen wurden
+#facs_186_r5l3 Was die Besoldung der Diensten betrifft;
+#facs_186_r5l4 Im fahl jehmand desselben mit seinem
+#facs_186_r5l5 dienst in Streit kommen wurde. So soll
+#facs_186_r5l6 dan zu mahlen beder vorernante
+#facs_186_r5l7 Executions Cammer noch sonsten einlicher
+#facs_186_r5l8 anderer Richter berer immeristen
+#facs_186_r5l9 befügt seyn, einem Hand oder Meister
+#facs_186_r5l10 Knecht für seinen jährl. Sold oder
+#facs_186_r5l11 Lidlohn in Allem und Allem ein¬
+#facs_186_r5l12 mehrerd nicht dann für wünzig vom
+#facs_186_r5l13 und einer Köchin für zwölff vonen
+#facs_186_r5l14 Recht halten und angedeyen zu laßen
+#facs_186_r5l15 Mornach sich nun jedermännigst zu
+#facs_186_r5l16 verhalten büsen wird; actum coram
+#facs_186_r5l17 200. den 6. Septembr. 1747.

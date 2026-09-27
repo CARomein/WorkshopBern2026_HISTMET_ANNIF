@@ -1,0 +1,211 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 204/204
+# High similarity (>=80%): 201
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_231_r2l2 Pro 1796
+#facs_4_r3l2 Verordnung.
+#facs_103_r4l7 ansehend den Viehhandel und innern Verkehr
+#facs_103_r4l8 Wir Schultheis und Rath der Stadt
+#facs_117_r3l31 und Republik Bern, thun kund hiermit
+#facs_103_r4l10 Alsdann Wir von Un Ghhl. und Oberen den
+#facs_103_r4l11 Auftrag und Begwältigung erhalten haben.
+#facs_103_r4l12 diejenigen Maßreglen zu treffen und vor-
+#facs_103_r4l13 zuschreiben, welche nach dem von Hochgedacht
+#facs_103_r4l14 An Ghhl. und Obern gemilderten Ausfuhr verboll¬
+#facs_103_r4l15 der Viehwaare von 7ten September dieses Jahrs
+#facs_103_r4l16 einerseits den innern Verkehr so viel immer
+#facs_103_r4l17 möglich erleichtern, anderseits aber doch zu
+#facs_103_r4l18 Behinderung der annoch zum Theil verbottenen
+#facs_103_r4l19 Ausfuhr unumgänglich nöthig sind; so haben
+#facs_103_r4l20 Wir zu diesem Ende für einmal und in solange
+#facs_103_r4l21 die Zeit Umstände solches erfordern werden,
+#facs_103_r4l22 verordnet was hienach folget.
+#facs_103_r4l23 1.) Wann in Unsern Landen Horn Vieh an¬
+#facs_103_r4l24 gebauft, verkauft oder vertauschet wird,
+#facs_1_r2l2 1.
+#facs_104_r2l1 196
+#facs_104_r3l1 In soll der Verkäufer verbunden seyn, dem
+#facs_104_r3l2 Käufer oder Täuscher einen Gesundheits
+#facs_104_r3l3 sein zuzustellen, und leztere verpflichtet,
+#facs_104_r3l4 bleiben, selbigen von dem Verbäufer zu for¬
+#facs_104_r3l5 dern, bey einer Buße von fünf Pfunden von
+#facs_104_r3l6 den Fehlbaren zu erheben, und einer mehrern
+#facs_104_r3l7 Bestrafung von Seiten Unseres Sanitaet:
+#facs_104_r3l8 raths, wenn das Vieh mit einer anstelenden
+#facs_104_r3l9 Krankheit behaftet wäre; ferners soll bey
+#facs_104_r3l10 einer Füße von ebenfalls fünf Pfunden, ein
+#facs_104_r3l11 jeder der einen Befundheitschein von seinem
+#facs_104_r3l12 Inspektoren erhalten, verbunden seyn,
+#facs_104_r3l13 muert acht Tagen Zeit, dem Bezirks-In¬
+#facs_104_r3l14 spektoren anzuzeigen, was er für Waare
+#facs_104_r3l15 angekauft, und an wen er die seinige Ver¬
+#facs_104_r3l16 kauft habe. Da es übrigens in Betreff
+#facs_104_r3l17 der Gesundheitscheine bey der Vorschrift des
+#facs_104_r3l18 Bergfahrt Reglements sein Verbleiben hat.
+#facs_104_r3l19 2.) Zu Erleichterung Unserer Angehörigen
+#facs_104_r3l20 vollen Wir ferner die Rükscheine samt ihren
+#facs_104_r3l21 folgen und Sporteln, so wie alles dasjenige
+#facs_104_r3l22 was wegen derselben in vorgehenden Verord¬
+#facs_104_r3l23 nungen, so viel nemlich die Viehwaare betrift
+#facs_104_r3l24 vorgeschrieben worden ist, aufgehoben haben,
+#facs_104_r3l25 so daß diese Verordnungen nur noch wegen
+#facs_104_r3l26 den
+#facs_104_r4l1 197
+#facs_104_r4l2 den Pferden und Füllen, bis auffernere
+#facs_104_r4l3 Verfügung, gültig seyn und statt finden sollen,
+#facs_7_r2l1 3
+#facs_104_r4l5 Die äußern und fremden welche
+#facs_104_r4l6 Viehwaare in hiesigen Landen ankaufen, sind
+#facs_104_r4l7 demnach eben so wie die Einheimischen von der
+#facs_104_r4l8 Ertheilung der Rübscheine, ihren Folgen und
+#facs_104_r4l9 Sporteln enthoben; sie sind auch von allen
+#facs_104_r4l10 Ankaufscheinen befreyet für das junge Vieh
+#facs_104_r4l11 unter zwey Jahren, deßen Ausfuhr laut
+#facs_104_r4l12 Hochobrigkeitlicher Verordnung vom 7ten dies
+#facs_104_r4l13 für jedermann erlaubt ist; sie sollen hin
+#facs_104_r4l14 gegen aber nicht befügt seyn, einige Waare
+#facs_104_r4l15 is sey mit Patenten oder sonst, anders als
+#facs_104_r4l16 auf den Jahr oder Wochenmärkten Unserer
+#facs_104_r4l17 Lande anzukaufen, wie ihnen denn auch aller
+#facs_104_r4l18 Ankauf bey den Häusern und Ställen verbotten
+#facs_104_r4l19 bleiben soll. Den Aussern und Fremden ist
+#facs_104_r4l20 ebenfalls verbotten irgend einige Art Vieh
+#facs_104_r4l21 waare anzukaufen, deren Ausfuhr nicht ge¬
+#facs_104_r4l22 tallet ist, auch eine mehrere Anzahl Zug¬
+#facs_104_r4l23 und MastVieh, oder eine andere Art von
+#facs_104_r4l24 Viehwaare zu erhandeln, als ihnen in den
+#facs_104_r4l25 ertheilten Patenten wird bewilliget werden
+#facs_104_r4l26 Sie sollen ferner verpflichtet seyn, alle Vieh
+#facs_104_r4l27 waare so sie mit Patenten auf den Jahr¬
+#facs_37_r3l22 der
+#facs_12_r1l1 16
+#facs_105_r2l1 198.
+#facs_105_r3l1 oder Wochenmärkten ankaufen werden
+#facs_105_r3l2 dem Markt Inspektor anzugeben und vor¬
+#facs_105_r3l3 zuweisen, bey Strafe der Confiscation
+#facs_105_r3l4 und einer Buse von gleichem Werth
+#facs_105_r3l5 4: Unter Strafe der Confiscation
+#facs_105_r3l6 der Waare und einer Busse von gleichem
+#facs_105_r3l7 Werth, ist auch jedermann verbotten
+#facs_105_r3l8 die auszuführende Viehwaare nächtlicher
+#facs_105_r3l9 Weile aus dem Lande zu führen, das ist
+#facs_105_r3l10 vom 1ten Weinmonat bis 1ten Aprill des Mon
+#facs_105_r3l11 gens vor 6 Uhr und Abends nach 8 Uhr,
+#facs_105_r3l12 vom 1ten Aprill bis 1ten Weinmonat dann
+#facs_105_r3l13 des Morgens vor 4 Uhr und Abends nach
+#facs_105_r3l14 9 Uhr.
+#facs_105_r3l15 5.) Ein jeder der Viehwaare aus dem
+#facs_105_r3l16 Landeführt, soll verbunden seyn, die
+#facs_105_r3l17 selbe bey dem Austritts Bureau oder dem
+#facs_105_r3l18 bestellten Zoll inspektoren vorzuweisen,
+#facs_105_r3l19 und die, welche Patenten haben, sollen selbige
+#facs_105_r3l20 daselbst abgeben; zu welchem Ende alle die
+#facs_105_r3l21 jenigen, so ihre Waare an irgend einen an¬
+#facs_105_r3l22 dern Ort aus dem Lande Führen oder hievor,
+#facs_105_r3l23 stehende Vorschrift nicht befolgen würden,
+#facs_105_r3l24 nach Innhalt des Ausfuhr Verbotts vom 3ten
+#facs_105_r3l25 December
+#facs_105_r4l1 199
+#facs_105_r4l2 December 1794 mit der Confiscation der Waare
+#facs_105_r4l3 in einer Buße von gleichem Werthe bestraft
+#facs_105_r4l4 werden sollen.
+#facs_7_r1l1 6
+#facs_105_r4l6 Um aber dem Fürkauf möglichst zu
+#facs_105_r4l7 steüren, sollen alle Käufer verpflichtet seyn
+#facs_105_r4l8 die angekaufte große und kleine Viehwaare
+#facs_105_r4l9 alsobald an die Hand und an ihr Futter zu nehmen
+#facs_105_r4l10 Hievon sind aber die einheimischen Mezgermei¬
+#facs_105_r4l11 stere ausgenommen, welche die erkaufte
+#facs_105_r4l12 Waare in Handen des Verkaufers lasen mögen,
+#facs_105_r4l13 bis sie Gelegenheit finden selbige abzuschlachten.
+#facs_105_r4l14 doch dürfen sie die angekaufte Waare nicht weiter
+#facs_105_r4l15 verkaufen. Ein jeder Käufer ist auch ver¬
+#facs_105_r4l16 bunden, die angekaufte Viehwaare drey Wochen
+#facs_105_r4l17 lang in seinem eigenen in seiner Scheuer ligendi
+#facs_105_r4l18 hutter zu behalten ehe er selbige wieder ver¬
+#facs_105_r4l19 kaufen darf
+#facs_105_r4l20 Wer wider die Vorschriften dieses artibels
+#facs_105_r4l21 handeln würde, soll mit einer Busse von achtzig
+#facs_105_r4l22 Pfunden von jedem Stük großer Viehwaare
+#facs_105_r4l23 und zehen Pfunden von jedem Kalb oder Schaaf
+#facs_105_r4l24 belegt werden.
+#facs_105_r4l25 7°. Wenn über die Anwendung oder
+#facs_105_r4l26 Nicht befolgung dieser Verordnung sich Streitig¬
+#facs_301_r3l2 Heren
+#facs_106_r1l1 200
+#facs_106_r2l1 keiten erheben sollten, so gehören solche
+#facs_106_r2l2 in erster Instanz in der Stadt, deren
+#facs_106_r2l3 Bezirr und dem Theil der Landgerichte wie¬
+#facs_106_r2l4 beine Amtleute sind, vor die verordnete
+#facs_106_r2l5 Polizeykammer; in den Aemtern aber
+#facs_106_r2l6 von Unsere Amtleute, als welchen die Voll¬
+#facs_106_r2l7 ziehung derselben obliegt
+#facs_106_r2l8 In allen Fällen da Viehwaare arrestirt
+#facs_106_r2l9 wird, soll jeweilen ein Verbal errichtet,
+#facs_106_r2l10 und uns vorläufig eingesendet werden.
+#facs_106_r2l11 damit Wir entscheiden können, ob die Waare
+#facs_106_r2l12 loszulaßen seye oder nicht.
+#facs_106_r2l13 Es wäre dann
+#facs_106_r2l14 Sache daß es nur geringfügige Gegenstände
+#facs_106_r2l15 betreffen würde, als in welchen Fällen die
+#facs_106_r2l16 dießörtigen Verfügungen Unsern Amtleute
+#facs_106_r2l17 überlaßen bleiben
+#facs_106_r2l18 Sollte aber auch in Folge dieser Verordnung
+#facs_106_r2l19 einige Viehwaare arretirt werden, so mag
+#facs_106_r2l20 solche im Fall der Eigenthümer im Lande
+#facs_106_r2l21 angeseßen ist, ihme allemal gegen Ver¬
+#facs_106_r2l22 Bürgung des Werths derselben und der
+#facs_106_r2l23 folgen des Proceses verabfolget werden
+#facs_106_r2l24 Die Urtheile doch sollen Uns immer ein-
+#facs_106_r2l25 resendet werden, die Partheyen mögen
+#facs_106_r2l26 recurrieren oder nicht, damit Wir selbige
+#facs_106_r2l27 einsehen
+#facs_106_r3l1 201
+#facs_106_r3l2 Es einsehen, und je nach den Umständen das
+#facs_106_r3l3 Gütfindende verordnen können.
+#facs_106_r3l4 von den aufzulegenden Confiscationen
+#facs_106_r3l5 und bußen, sollen zwey dritel dem Verleiden
+#facs_106_r3l6 nit Geheimhaltung seines Namens, zu komen
+#facs_106_r3l7 und ein Drittel den Armen des Orts woder¬
+#facs_106_r3l8 fehler begangen worden, es wäre dann Sache
+#facs_106_r3l9 daß Wir bey vorkommenden mildernden Um¬
+#facs_106_r3l10 Ständen etwas anders hierüber verordnen
+#facs_106_r3l11 wurden.
+#facs_106_r3l12 8.) die Verordnung vom 13ten Jänner 1795
+#facs_106_r3l13 wegen des innern Viehverkehrs und die vom 22.
+#facs_106_r3l14 jenner 1795. wegen des Verkehrs mit Außern
+#facs_106_r3l15 sind nunmehr soviel selbige die groß und kleine
+#facs_106_r3l16 Viehwaare betreffen, völlig ungültig
+#facs_106_r3l17 Hingegen verbleibt die Ordnung von 1768
+#facs_106_r3l18 und das fürkauf Mandat von 1786, in so weit
+#facs_106_r3l19 in dieser gegenwärtigen Verordnung nicht
+#facs_106_r3l20 etwas anders demselben widersprechendes
+#facs_106_r3l21 festgesezt wird, so wie die Transit Ordnung
+#facs_106_r3l22 vom 13ten Januar 1795. auch in Rüksicht
+#facs_106_r3l23 auf die Viehwaare in voller Kraft
+#facs_106_r3l24 Die Verordnungen vom 28ten Jenner 1795.
+#facs_106_r3l25 betreffend den Verkehr mit den Angehörigen
+#facs_106_r3l26 der Lobl. Stände Freyburg und Solothurn
+#facs_107_r1l1 202
+#facs_70_r3l1 Collati
+#facs_107_r3l1 und den Mediat Landen verbleiben eben¬
+#facs_107_r3l2 falls gültig, bis Wir hierüber das Ange¬
+#facs_107_r3l3 meißene mit diesen beyden Loblen Ständen
+#facs_107_r3l4 werden verabredet und Unsern angehö¬
+#facs_107_r3l5 rigen zum Verhalt bekannt gemacht haben
+#facs_107_r3l6 jedoch werden die Solothurnischen Angehörige
+#facs_107_r3l7 welche Kälber, Zug- oder Mast Vieh in hiesi¬
+#facs_107_r3l8 gen Landen anzukaufen gedenken, sich um
+#facs_107_r3l9 Patenten bey Unserer verordneten Sperr¬
+#facs_107_r3l10 und Fleischtax Commission bewerben
+#facs_107_r3l11 Alle Unsere Ober- und Unter Beamtete
+#facs_107_r3l12 Zoll Commissen und Inspektoren sollen auf
+#facs_107_r3l13 die Beobachtung der gegenwärtigen Verord¬
+#facs_107_r3l14 einig genaue acht bestellen, und die fehlbaren
+#facs_107_r3l15 ohne Schonen dem gebührenden Richter
+#facs_107_r3l16 zur Bestrafung anzeigen
+#facs_107_r3l17 Beben den 15ten September 1795.
+#facs_98_r5l28 en

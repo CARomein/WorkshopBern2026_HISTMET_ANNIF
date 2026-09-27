@@ -1,0 +1,189 @@
+Law ID: BER.01.001.4118
+Name: Mandat dess zu publicierenden fremden Wein Verbotts den dreyen Ämteren, Murten, Grandson und Tscherliz.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 178/178
+# High similarity (>=50%): 151
+# Low similarity (<50%): 27
+# Not found: 0
+#
+#facs_3_r2l17 Mandat
+#facs_3_r2l18 daß zu publicierenden fremden Wein verbotte
+#facs_3_r2l19 den dreyen Ämteren, Murten Grandson und Tscherlich
+#facs_3_r2l20 Wir
+#facs_4_r1l1 2
+#facs_4_r1l2 Coll.
+#facs_4_r2l1 Wir Schultheiss und Rath der Statt und
+#facs_4_r2l2 public denn, und Wir Schultheiss und Rath
+#facs_4_r2l3 Statt und Respublic Fryburg, thun kund zu
+#facs_4_r2l4 hiermit, daß aus allerhand Betrachtungen, und
+#facs_4_r2l5 in besondere zum besten Unserer Unterth
+#facs_4_r2l6 in Unseren Gemeinen Ämteren, Mür¬
+#facs_4_r2l7 Grandson und Tfherliz, mit zimlichem Wein
+#facs_4_r2l8 versehen, Wir nöthig und Gut funden, ge¬
+#facs_4_r2l9 samlich nachstehender einsehen, und werde
+#facs_4_r2l10 fremden Weins in diesen drey Bemei
+#facs_4_r2l11 Amteren zu thun, und zu Mäniglich verg.
+#facs_4_r2l12 publicieren zu laßen,
+#facs_4_r2l13 21° Soll in denen Gemeinen Amteren Murti
+#facs_4_r2l14 Grand von und Tscherliz, die Einfuhr alles frei=
+#facs_4_r2l15 und Außeren Weins, so nicht in Unseren
+#facs_4_r2l16 Ständen Imediat, oder Mediat, Landen gelesen
+#facs_4_r2l17 bey Straaß der Confiscation, gänzlich verbotten
+#facs_4_r2l18 anders als mit Stewilligung, der eint- und a
+#facs_4_r2l19 Allernativ, Oberkeit, welche selbige in fehljahr
+#facs_4_r2l20 nach
+#facs_4_r5l1 3
+#facs_4_r5l2 Nach der Zeit Umständen, und der Bedürffnus
+#facs_4_r5l3 Der Persohnen, spahrsam ertheillen und einrichten
+#facs_4_r5l4 wird, das eigene Gewächs hinter Neuwenburg
+#facs_4_r5l5 hierinn ohnvergriffen.
+#facs_4_r5l6 Niemand sich bey der Atternativ-Oberkeit um solche Be¬
+#facs_4_r5l7 willigung anmelden, Er habe dann dem Amtsmann
+#facs_4_r5l8 Zuvor, sein Begehren, und deßen Nothwendigkeit
+#facs_4_r5l9 erzeigt, welcher sein Befinden der Schrifft beyseze, soll
+#facs_4_r5l10 3. Soll In diesen Gemeinen Amteren Magazins von
+#facs_4_r5l11 fremdem Wein, anzulegen bey Straaff der Confiscation
+#facs_4_r5l12 Mäniglich verbotten seyn
+#facs_4_r5l13 4°. daß neben dem, in dem Amt Mürten, dem Amt
+#facs_4_r5l14 Grandson, und in der Herrschafft Orbe vom Monat
+#facs_4_r5l15 Merzen, biß auf Jacob im Heumonat nicht zuge¬
+#facs_4_r5l16 laßen, sondern bey Confiscation verbotten seyn.
+#facs_4_r5l17 solle, allen fremden, und anderen Wein zu ver¬
+#facs_4_r5l18 brauchen, und zu verschercken, als welcher in
+#facs_4_r5l19 demselben Amt und der Herrschafft gewachsen,
+#facs_4_r5l20 Jehdennoch
+#facs_5_r1l1 4.
+#facs_5_r1l2 NB:
+#facs_5_r1l3 für Tschärlitz allein
+#facs_5_r1l4 Coll
+#facs_5_r2l1 Jahdennoch aus genommen Tavernen - Wirthen, den
+#facs_5_r2l2 für Ihre Bäst, Ihren Wirthschafft mit La Côte oder
+#facs_5_r2l3 Reiffe Wein, und rothen Neuenburger, Wein es
+#facs_5_r2l4 Nothdurfft zu versehen zugelaßen bleibet.
+#facs_5_r2l5 In der Castellaney Echallens aber nach der Zeit¬
+#facs_5_r2l6 ständen, den Wirthen und Pintenscheinken, mit
+#facs_5_r2l7 Moderation, und ein mehrers nicht an ausern
+#facs_5_r2l8 Wein bewilliget werden soll, als auf das Höchst
+#facs_5_r2l9 dritte Theil, des vertriebs Ihrer Wirth schafften.
+#facs_5_r2l10 Welchem Unserem Regenwärtigem einstehen im
+#facs_5_r2l11 verbott nach, maniglich sich zu verhalten, und
+#facs_5_r2l12 schaden und Straaff zu hüten wüßen wird. Do
+#facs_5_r2l13 d. 28ten Augl. 1759
+#facs_5_r2l14 Ordonnance
+#facs_5_r2l15 A publiér dans les Baillages de Morat, de Grandson, et d'hors
+#facs_5_r2l16 Nous ladvoyer et Conseil de la Ville et Republique de la
+#facs_5_r2l17 et Republique de Berne Nous l'advoyer, et Conseil de la
+#facs_5_r2l18 Ville
+#facs_5_r4l1 5
+#facs_5_r4l2 Ville et Republique de Fryburg savoir faisons; Que par plus
+#facs_5_r4l3 sieurs Considerations, et surtout pour l'avantage de Nos sujets
+#facs_5_r4l4 des Baillages Communs, de Morat, de Grandson, et d'Echallens,
+#facs_5_r4l5 lesquels se trouvent considerablement pouroûs de vins, de
+#facs_5_r4l6 cussais
+#facs_5_r4l7 leur propre Crû; nous aions jugé de regler et deffens
+#facs_5_r4l8 "dre conjointement les Vins Etrangers dans ces dts Baillis
+#facs_5_r4l9 ges. Et de publier à ce sujet l'Ordonance qui suit
+#facs_5_r4l10 L'Entrée de tout vins Etrangers, ou autres, qui ne provie
+#facs_5_r4l11 droient pas de nos Pays Imediats ou Mediats, est Dof
+#facs_5_r4l12 fenduë sous peine de confiscation, dans les Baillages Communs
+#facs_5_r4l13 de Morat, de Grandson, et d'Echallens, autrement, que par
+#facs_5_r4l14 la permission du Souverain d'Alternative; Lequel dans les
+#facs_5_r4l15 années de disette pourra l'accorder; mais avec Moderation
+#facs_5_r4l16 et ouivant le Besoin des Cas et des Personnes. Non compris
+#facs_5_r4l17 néanmoins dans cette Deffense, le vin provenant des Vignob:
+#facs_5_r4l18 les, que les Particuliers possederoient eux mêmes, riere
+#facs_5_r4l19 Neuf Chatel
+#facs_5_r4l20 2o Persone ne doit se presentez devant le Souverain dal¬
+#facs_5_r4l21 ternative pour demander cette permission sans ai
+#facs_5_r4l22 auparavant
+#facs_6_r2l1 Auparavant instruit Nôtre Baillif des finset matin
+#facs_6_r2l2 requête; Et doit ledt Baillif chaque fois y ajouter, ce p
+#facs_6_r2l3 pourroit être convenable
+#facs_6_r2l4 3°. Il est deffendu à un chacun souspeine de confiscation
+#facs_6_r2l5 des Magazins ou Depots de Vinsétrangers dans lesdts.
+#facs_6_r2l6 Clages Comuns
+#facs_6_r2l7 4° Deplus Nous deffendons dans le Baillage de Mon
+#facs_6_r2l8 dans celui de Grandson, et dans la Seigneurie d'Ou
+#facs_6_r2l9 sous peine de Confiscation, de vendre et debiter au
+#facs_6_r2l10 Vins Etranger ou autres, qui ne seroit pas du propre
+#facs_6_r2l11 du Baillages ou de la Seigneurie, à compter chacun
+#facs_6_r2l12 année depuis le mois de Mars jusqu'a la St Jaq
+#facs_6_r2l13 en Juillet: Reserve Seulement les Hôtes ou Cabaretie
+#facs_6_r2l14 auxquels il sera permis de se pourvoir pour l'usage
+#facs_6_r2l15 leur Cabaret de Vins de La Cote et de la Vaux; Comme au
+#facs_6_r2l16 de Vins rouges de Neufchatel. Et quant à la Chatella Coll
+#facs_6_r2l17 dEchallens en Particulier, il ne doit être accordé aussi
+#facs_6_r2l18 ou Cabaretiers de se pourvoir de Vinsétrangers qu'avec
+#facs_6_r2l19 la Moderation possible, selonque les circonstances
+#facs_6_r2l20 tous les
+#facs_6_r3l1 1
+#facs_6_r3l2 Tems pourront l'exiger, et jamais au delà du Piers de la
+#facs_6_r3l3 quantité, qu'ils employeront pour l'usage de leur Cabaret
+#facs_6_r3l4 Cest ce que nous avons trouvé bon de faire publier; Afin
+#facs_6_r3l5 qu'un chacun se conduise en Consequence; Et ne s'expose
+#facs_6_r3l6 pas, en y Contrevenant, à Chatiment et Domage. Donne
+#facs_6_r3l7 ce 28 aout 1759
+#facs_6_r3l8 Signé
+#facs_6_r3l9 Chancellerie de Berne
+#facs_6_r3l10 Mürten und Pcherliz Seppe
+#facs_6_r3l11 Ihnen das Mandat die Notarien betreffende zur
+#facs_6_r3l12 Publication senden
+#facs_6_r3l13 Dchultheiß und Rathy
+#facs_6_r3l14 In folg 511 Artl. abscheide von Letster Murtin. Rech¬
+#facs_6_r3l15 nungs Conferenz ist beykommendes Mandat, die Re¬
+#facs_6_r3l16 meine Schreiber und deren Stipulationen betreffende
+#facs_6_r3l17 errichtet, zumahlen von beyden Lobl. Ständen den 5ten
+#facs_6_r3l18 Janl. und 13ten July diß Jahres gutgehrisen und ratificiert
+#facs_6_r3l19 worden.
+#facs_7_r3l1 worden, die fage deßen Allen Notarii aus denen
+#facs_7_r3l2 mediat,, Landen fürs künfftige alles Stipuliere
+#facs_7_r3l3 Bemeinen drey Ämteren Murten, Tscherliz und
+#facs_7_r3l4 son, under darinn aufgesezter Straaff gänzlichen
+#facs_7_r3l5 worden. Dis Mandat nun über senden Wir Euch
+#facs_7_r3l6 dem Befehl, solches zu Männigl. Verhalt in Euerem
+#facs_7_r3l7 publicieren, seines Orths einschreiben zu laßen,
+#facs_7_r3l8 Pflichtmäßige Hans obzuhalten, daß deme durch
+#facs_7_r3l9 nachgelebt werde etc. Dat. d. 28ten Augusti 1759.
+#facs_7_r3l10 Mandat
+#facs_7_r3l11 Wir Schultheiß und Rath der Statt Und H.
+#facs_7_r3l12 public Bern, und Wir Schultheiss und Rath
+#facs_7_r3l13 Statt und Respublie Fryburg, thund Huns hier
+#facs_7_r3l14 n-
+#facs_7_r3l15 daß in Ersehung der vielfaltigen Convenienzion
+#facs_7_r3l16 sich einfinden, zuzugeben, daß in Unseren etc.
+#facs_7_r3l17 Landen Notarialische Instrument, durch Notarien,
+#facs_7_r3l18 Unser der Ständen Imediat, Landen Stipuliret
+#facs_7_r3l19 ausgefertig
+#facs_7_r4l1 c
+#facs_7_r4l2 Ausgefertiget werden? Wir guth und nöthigfunden,
+#facs_7_r4l3 durch xyz gegenwärtiges Einsehen zu ordnen, im
+#facs_7_r4l4 zu befehlen, daß in Unseren Bemeinen Amter¬
+#facs_7_r4l5 Mürten, Tscherliz und Grandson Alle und Jede No¬
+#facs_7_r4l6 tariaen Instrument und Actesfürohin, durch keine
+#facs_7_r4l7 Andere als durch die Mediaten Notarien, so von Unß
+#facs_7_r4l8 den beyden Ständen, für Jedes dieser Ämtern
+#facs_7_r4l9 bestellt worden, Stipuliert und aufgerichtet werden
+#facs_7_r4l10 werden sollen, und allen uns Jeden Unseren
+#facs_7_r4l11 Angehörigen und Underthanen in diesen Be¬
+#facs_7_r4l12 meinen Ämteren fürohin, und Allezeit verbot¬
+#facs_7_r4l13 ten uns abgestreckt seyn soll, zu Ausfertigung
+#facs_7_r4l14 n
+#facs_7_r4l15 namention
+#facs_7_r4l16 Ihrer Actes und Besprägung hinter diesen
+#facs_7_r4l17 Gemeinen Amteren Notarien aus Unster oder
+#facs_7_r4l18 Ständen Imediat=Landen, zu gebrauchen:-
+#facs_7_r4l19 Wie dann Wir geordnet und gehabt haben wollen, daß
+#facs_7_r4l20 von Zeit dieser Publication an alle Notaria (Actes
+#facs_7_r4l21 und Instrument, in diesen Unferen Gemeinen
+#facs_8_r3l1 worden, die fage deßen Allen Notarii aus denen
+#facs_8_r3l2 mediat,, Landen fürs künfftige alles Stiputieren
+#facs_8_r3l3 Bemeinen drey Ämteren Mürten, Tscherliz und Gr.
+#facs_8_r3l4 son, under darin aufgesezter Straaff gänzl. verbl.
+#facs_8_r3l5 worden. Dis Mandat nun über senden Wir Eüch¬
+#facs_8_r3l6 dem Befehl, solches zu Männigl. Verhalt in Euereins
+#facs_8_r3l7 publicieren, seines Orths einschreiben zu laßen.
+#facs_8_r3l8 Pflichtmäßige Hans obzuhalten, daß deme durchaus
+#facs_8_r3l9 nachgelebt werde etc. Dat. d. 28ten Augusti 1759.

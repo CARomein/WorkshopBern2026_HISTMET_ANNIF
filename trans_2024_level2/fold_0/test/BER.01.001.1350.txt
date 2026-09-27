@@ -1,0 +1,36 @@
+Law ID: BER.01.001.1350
+Name: Wegen Verüsserung der Schiffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 25/25
+# High similarity (>=50%): 25
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_73_r1l1 wangen, erwangen, Arburg Aronir.
+#facs_73_r1l2 wegen Füßerung der Schiffen etc.
+#facs_73_r1l3 Schuld theiss und Raht
+#facs_73_r1l4 Vns wirt durch die hiesigen Schiff lüth geclagt das der Im-
+#facs_73_r1l5 Dinnen 1642 Jars, durch vns ertheilten Fürsechung zu
+#facs_73_r1l6 wider, etliche In deiner Erwaltung vnd anderer Orte
+#facs_73_r1l7 dem Waßer noch, das unerlobte Sich ist machen und ob¬
+#facs_73_r1l8 führen, für nemind, und bruch in dardurch nit nur
+#facs_73_r1l9 den hiesigen, o der Schiffen halb, der ordenlichen bewilligen
+#facs_73_r1l10 Erlangung, und anderer pflicht darmit vnderworffen,
+#facs_73_r1l11 übrigt widerfahre, vnndern auch vnsere weld vnd
+#facs_73_r1l12 höltzer angegriffen und Pderbt, die Schiff auch rßen
+#facs_73_r1l13 landt Püßeret wordint, Wit pitt, Inen hiermit
+#facs_73_r1l14 mit einer früschen fürsech und vnd nothwendigen für sich
+#facs_73_r1l15 Ynsechen zubegegnen. Wann nun wir Ir anclage
+#facs_73_r1l16 Rechtmeßig findent, Als bevelch und wir dir hiemit
+#facs_73_r1l17 Die Jenigen In deiner Erwaltung, so sich dess Schiff machen
+#facs_73_r1l18 und abführens vndernommend, solliches hand ter erck aber
+#facs_73_r1l19 mit, brüchlicher maßen gelehrnet, durch ordenliche
+#facs_73_r1l20 Hiernen abzuhalten, und solches Inen keines
+#facs_73_r1l21 wegs zegestatten; die Jungen auch, so darüber hin
+#facs_73_r1l22 hierwider weit ershandlen und thun wurden, mit
+#facs_73_r1l23 oder löisch woe der Schiffen abzestraffen. Moße
+#facs_73_r1l24 der gehabt, und uns zu der psechen haben wollend
+#facs_73_r1l25 Latus 30 May 1646

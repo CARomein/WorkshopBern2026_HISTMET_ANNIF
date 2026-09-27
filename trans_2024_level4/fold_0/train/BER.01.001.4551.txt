@@ -1,0 +1,363 @@
+Law nr: BER.01.001.4551
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 351/351
+# High similarity (>=80%): 342
+# Low similarity (<80%): 9
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_70_r2l22 alle T: und W. Herren Amtleut, 4
+#facs_109_r6l21 Städt Freyweibel und Anna
+#facs_109_r6l22 Ziegelwaar
+#facs_109_r6l23 Da aus verschiedenen Absichten angemess¬
+#facs_109_r6l24 ist, daß die in hiesigem Land zu ver¬
+#facs_109_r6l25 fertigende Ziegelwaar, es seye nun an
+#facs_4_r4l1 3.
+#facs_109_r6l27 Dachzieglen oder Oschbladten, Maur- und
+#facs_109_r6l28 Caminsteinen einformig eingerichtet
+#facs_109_r6l29 und ein Mutermas bestimmt werde,
+#facs_109_r6l30 nach¬
+#facs_9_r1l1 12.
+#facs_148_r2l21 Sollf.
+#facs_8_r9l4 60.
+#facs_110_r3l1 nach welchem sich die verschiedenen Ziegel,
+#facs_110_r3l2 hüdten in Zukunft richten können; so
+#facs_110_r3l3 befehlen Wir Euch, denen in Eueren
+#facs_110_r3l4 Amt /: Bezirt:/ allfählig sich befindlichen
+#facs_110_r3l5 Ziegleren, die genaue Beschreibung
+#facs_110_r3l6 ler länge, dien und breite, der von ihnen
+#facs_110_r3l7 in ihren Ziegelhüdten verfertigender
+#facs_110_r3l8 Ziegelwaar an Dachzieglen, d. schblatt
+#facs_110_r3l9 Naur, und Caminsteinen abzufor¬
+#facs_110_r3l10 deren und Euch zu übergeben, die Ihr
+#facs_110_r3l11 sodann an Unser verordnetes Bau
+#facs_110_r3l12 Amt einsenden werdet, damit nachher
+#facs_110_r3l13 das geniesene hierüber veranstal¬
+#facs_110_r3l14 tet, und zu künftigem Verhalt bekannt
+#facs_110_r3l15 gemacht werden könne. Datum den
+#facs_110_r3l16 2t Julius 1784
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_110_r3l18 Alle Deutschund welsche Herren Amtleute, Vier
+#facs_110_r3l19 Städt, Freyweibel und Amann, denne an
+#facs_110_r3l20 die Herren Amtleute zu Murten und Tscher¬
+#facs_110_r3l21 liz, Stadthalter zu Brandson, Landschrei¬
+#facs_110_r3l22 ber zu Schwarzinburg, wie auch Herrn Land
+#facs_110_r3l23 vogt zu Baaden
+#facs_110_r3l24 Sädtag auf den 9ten 7bre
+#facs_110_r3l25 angesezt.
+#facs_110_r3l26 Zu schuldiger Danksagung aller von dem
+#facs_110_r3l27 Allerhöchsten, Unserem werthen Ratter
+#facs_110_r3l28 =lande
+#facs_23_region_1633454616028_2913l1 An
+#facs_23_region_1633454616028_2913l1 An
+#facs_23_region_1633454616028_2913l1 An
+#facs_110_r6l1 213
+#facs_110_r6l2 bißher geschenkten Butthaten, hat Lobl. Etan
+#facs_110_r6l3 gelische Eisgnosschafft, den allgemeinen Fast¬
+#facs_110_r6l4 Ruß- und Rästag auf nächstkünftig¬
+#facs_110_r6l5 9ten Septembris angesetzt
+#facs_110_r6l6 damit nun dieser Tag auf eine ge¬
+#facs_110_r6l7 ziemende Weise gefeyret werde, übersen
+#facs_110_r6l8 den Wir Euch die hinlängliche Anzal gedruckt,
+#facs_110_r6l9 ter Publicationen, um jedem Pfarrer Einer
+#facs_110_r6l10 Amts ein Exemplar mit dem Befehl zuzustel¬
+#facs_110_r6l11 ren, diese Publication uneingestelt Sonn
+#facs_110_r6l12 tags morgens den 22ten Augusti vor der
+#facs_110_r6l13 Predigt von der Kanzel zu verlesen. Wie
+#facs_110_r6l14 zu thun ihr bestens wissen werdet. Gott
+#facs_110_r6l15 mit Eüch. Datum den 12ten July 1784.
+#facs_110_r6l16 Rydau. Wabey Ihr die gewohnten An¬
+#facs_110_r6l17 stalten vorbehren werdet, daß dieser
+#facs_110_r6l18 Räctag auch im Münsterthal verkündet,
+#facs_110_r6l19 und gefeyret werde.
+#facs_53_r8l16 Fraubrunnen
+#facs_110_r6l21 ein gleiches
+#facs_110_r6l22 Ihnen wegen dem Bucheggberg
+#facs_110_r6l23 an befehlen
+#facs_110_r6l24 Königsfelden. Ihme Wegen Gebistorf
+#facs_110_r6l25 und Birmistorf ein gleiches anbefehlen
+#facs_110_r6l26 Datl 12 July 1784
+#facs_31_r5l15 Publication
+#facs_20_region_1633454448771_2843l1 Dor Schultheiß und Rath der
+#facs_110_r6l29 Stadt
+#facs_111_r1l1 Stadt um Revublik Bern, entbetr.
+#facs_111_r1l2 Unseren lieben und getreuen Burgeren
+#facs_111_r1l3 und Angehörigen zu Stadt und Lande, Um
+#facs_111_r1l4 teren gnädigen und geneigten Willen und
+#facs_75_r3l18 dabey zu vernehmen.
+#facs_111_r1l6 Daß Wirmit und neben den Hochlöb¬
+#facs_111_r1l7 lichen Ständen der Evangelischen Eisgnes,
+#facs_111_r1l8 schaft, einen allgemeinen Fast, dit,
+#facs_111_r1l9 Auß- und Dankagungs-Tag angere¬
+#facs_111_r1l10 mit auf sonstag den 9ten Herbstmond
+#facs_111_r1l11 nächstkünftig, deßen geziemendereyer
+#facs_111_r1l12 Uns heilig angelegen ist.
+#facs_111_r1l13 Wir haben dabey zwo große Ab¬
+#facs_111_r1l14 sichten am Herzen, die eine, daß Gott
+#facs_69_r4l5 G: Pfritsal
+#facs_111_r1l16 dem Allerhöchsten für seine
+#facs_111_r1l17 tigen, leiblichen und geistlichen Gut im
+#facs_111_r1l18 Wohlthaten, womit Er seit langer Zeit,
+#facs_111_r1l19 und auch im Laufe dieses Jahrs, Und und
+#facs_111_r1l20 Unser werthes Vatterland, so unver¬
+#facs_111_r1l21 Rient als reichlich gesegnet hat, von Stadt
+#facs_111_r1l22 und Land im gemeinschaftliches Lob, und
+#facs_21_region_1633454506260_2871l1 Un
+#facs_111_r1l24 Dankopfer gebracht, und seine an
+#facs_111_r1l25 bewiesene Gnad und Büte mit Mund
+#facs_111_r1l26 und Herzen öffentlich und feyerlich verecht
+#facs_111_r1l27 net und gepriesen werde
+#facs_111_r1l28 die andere, daß in aller Auf¬
+#facs_111_r1l29 richtigkeit der Seele, die Versündigung
+#facs_1_r1l2 des
+#facs_111_r2l1 215
+#facs_111_r2l2 des Landes Bodt demühtigst abgebetet,
+#facs_111_r2l3 feine gnädige Verschonungen erflehet,
+#facs_111_r2l4 und sein göttlicher Segen über Uns
+#facs_111_r2l5 und Unsere Regierung, über Kirchen
+#facs_111_r2l6 im Schulen, und über alles, was An
+#facs_192_r5l33 Weysenhaus
+#facs_111_r2l8 gelegenheiten des gemeinen
+#facs_111_r2l9 sind, mit innigsten Einbaunst ange¬
+#facs_111_r2l10 aufen, vornemlich aber, daß den, lei¬
+#facs_111_r2l11 ber! immer mehr und mehr einreissen.
+#facs_111_r2l12 den Sünden und Castern, die allen
+#facs_111_r2l13 guten Sicten; und der mit ihnen vor
+#facs_111_r2l14 und besonderen
+#facs_111_r2l15 bundenen
+#facs_111_r2l16 Wohlfarth, einen gänzlichen Umsturz
+#facs_111_r2l17 frohen, und früher oder später die
+#facs_111_r2l18 traurigsten Folgen haben müßen.
+#facs_111_r2l19 Einhalt gethan, und eine wahre Rei¬
+#facs_111_r2l20 und Rüsse, und mit ihr eine rechtschaf¬
+#facs_111_r2l21 fene Beßerung des Herzens und des
+#facs_111_r2l22 Lebens unter Gottes Gnade erhin
+#facs_111_r2l23 let werden möchte, davon sich das
+#facs_111_r2l24 Seste hoffen ließe in Zeit und Ewig
+#facs_111_r2l25 beit.
+#facs_111_r2l26 Zu Riasem Ende wollen Wie jerer¬
+#facs_111_r2l27 mann, samt und sonders ernstmey
+#facs_111_r2l28 nem vor allem gewahrnet haben,
+#facs_111_r2l29 das Butgestimmte in ihrer Ansacht
+#facs_88_r3l6 Hren
+#facs_112_r1l1 stöhren, und den äussern Wohlstand
+#facs_112_r1l2 an diesem feyerlichen Tag verlesen könte
+#facs_112_r1l3 um so viel desto mehr, da Wir mit be¬
+#facs_254_r2l5 I. S.
+#facs_112_r1l6 sonderen Unlieb vernahm.
+#facs_112_r1l7 was für ungeziemende Unordnungen
+#facs_112_r1l8 und Ärgerniße andere mahl hier in
+#facs_112_r1l9 lort und erlauffen sind, die Wir höch¬
+#facs_112_r1l10 stens mißbilligen, mit Befehl an alle
+#facs_350_r3l8 unsere Ober und Unterbeamtete
+#facs_112_r1l12 und Chorgrichte mit verdoppelter Sorg
+#facs_112_r1l13 falt dawider zu wachen, und die Fehl
+#facs_112_r1l14 baren ohne Schonen zu bestraßen, oder
+#facs_112_r1l15 Und zu hoheren Ahndung zu verleiden
+#facs_112_r1l16 daher auch Unger Wille, daß so wohl
+#facs_112_r1l17 an dem Heil. Tättage selber, als Tage
+#facs_112_r1l18 vorher alle Währlshäuser und Schenben,
+#facs_112_r1l19 für jedermann, äußert Reistende ver¬
+#facs_112_r1l20 schloßen seyn
+#facs_112_r1l21 demnach ermahnen Wir auch ein
+#facs_112_r1l22 ein väterlich und kräftigst, du¬
+#facs_112_r1l23 Bebätt und durch einen heilsamen Genuß
+#facs_112_r1l24 des heiligen Abendmahls, auf diesen groß
+#facs_112_r1l25 ten Tag sich geziemend vorzubereiten,
+#facs_112_r1l26 durch das Heil. Abendmahl im Herzen
+#facs_112_r1l27 erweichet, zu fromen Entschlüssen erlo¬
+#facs_112_r1l28 bet, so viel an ihnen ligt, in Unsere
+#facs_112_r1l29 Hort
+#facs_173_r5l1 Als
+#facs_112_r3l1 217
+#facs_112_r3l2 Bartseligen Absichten zu tretten, an
+#facs_112_r3l3 fem von Uns angeordneten Pusserung
+#facs_112_r3l4 Rattage sich aufrichtigst vor Gott zu
+#facs_112_r3l5 demühtigen, die Ern¬
+#facs_112_r3l6 Sastrafungen Trauer Lehrer und Seel¬
+#facs_112_r3l7 forgea mit dank um Folgsamkeit
+#facs_112_r3l8 e, und unter Anrufung
+#facs_112_r3l9 der Göttlichen Gnade Fruchte zu beim
+#facs_112_r3l10 gen, die sich einer wahren Bewehrung
+#facs_112_r3l11 wohn Wie allen und
+#facs_112_r3l13 jeden Gottes Gnadund Segen anwun¬
+#facs_107_r6l31 =schenk.
+#facs_112_r3l15 Gott gebe, daß alles gereiche zu
+#facs_112_r3l16 der Ehre seines Hochgelobten Nahmens,
+#facs_112_r3l17 und Unserm allseitigen Heil und
+#facs_112_r3l18 Vesten im Leben und im Sterben.
+#facs_177_region_1633454910390_2979l20 Geben den 14ten Heimonats 1785.
+#facs_297_r5l17 Kansley Bern
+#facs_47_r3l6 Traduction.
+#facs_146_r4l24 Nous l'Advoyer et Conseil
+#facs_112_r3l23 de la Ville et Republique de Berne,
+#facs_112_r3l24 assurons tous nos chers et feaux citoyens
+#facs_112_r3l25 et Sujets, de Notre gracieuse Bienveil
+#facs_112_r3l26 lance, et par les Présentes Savoir faisons.
+#facs_113_r1l1 Qu'ayant de concert avec les Louables
+#facs_113_r1l2 Etats Evangeliques de la Suisse, fixé
+#facs_113_r1l3 un Jour solemnel de jeûne de Prieres,
+#facs_113_r1l4 de Repentance, & D 'Actions de graces
+#facs_113_r1l5 au Jeudi 9. de Septembre prochain
+#facs_113_r1l6 Nous prenons un Interêt sacre à ce
+#facs_113_r1l7 que ce jour soit celébré d'une manière
+#facs_113_r1l8 convenable, & qui reponde à l'Impor
+#facs_113_r1l9 tance des objets que nous avons à Coeur
+#facs_113_r1l10 Considérant d'un côte, les bien faits
+#facs_113_r1l11 aussi nombreux que peu merites, les graces
+#facs_113_r1l12 de toute espece, temporelles et spirituelles
+#facs_113_r1l13 que le Tres-Haut repand depuis
+#facs_113_r1l14 long tems sur Nous et sur Notre chere
+#facs_113_r1l15 Patrie, et qu’il a daigné nous continuer
+#facs_113_r1l16 encore dans le cours de cette annee, Nôtre
+#facs_113_r1l17 Intention est, que tant dans Nôtre Ca
+#facs_113_r1l18 pilale, que dans toute l'etendue de Nôtre
+#facs_113_r1l19 Domination, on presente d'un comun
+#facs_113_r1l20 accord, à ce Dienfaiteur suprême.
+#facs_113_r1l21 un homage public et solemnel de recon
+#facs_113_r1l22 noissance, de benedictions & de Louanges,
+#facs_113_r1l23 et que ses grativités envers nous, soient
+#facs_113_r1l24 reconnues, celebrées & magnifiées du coeur
+#facs_113_r1l25 et de la Voix.
+#facs_113_r1l26 Nepouvant d'un autre coté dis
+#facs_113_r1l27 simuler les pechés sans nombre qui
+#facs_113_r2l1 219
+#facs_113_r2l2 souillent ce Pays, les maximes relachées
+#facs_113_r2l3 les principes pernicieux et destructeurs,
+#facs_113_r2l4 qui s'y etablissent & s'ij étendent de plus
+#facs_113_r2l5 en plus, & qui menaçant d'un ren¬
+#facs_113_r2l6 versement funeste tout le systême des
+#facs_113_r2l7 bonnes moeurs, ne peuvent que mine
+#facs_113_r2l8 en meme Tems la case de la prospe
+#facs_113_r2l9 rite publique et particuliere, et atti
+#facs_113_r2l10 rer tôt ou tard les suites les plus
+#facs_113_r2l11 desolantes; Nous attendons de tous
+#facs_113_r2l12 Nos bons Citoyens & fideles Sujets
+#facs_113_r2l13 qu'ils se réuniront dans un même
+#facs_113_r2l14 Esprit, pour déplorer avec Nous des
+#facs_113_r2l15 egaremens si dangereux, pour con¬
+#facs_113_r2l16 jurer le Dieu des Misericordes d'en
+#facs_113_r2l17 arrêter le cours et les progrès; pour
+#facs_113_r2l18 le supplier avec toute l'humilité & l'ar¬
+#facs_113_r2l19 deur possible, de pardonner les iniqui
+#facs_113_r2l20 tés & les transgressions de ce Pays
+#facs_113_r2l21 d'en detourner ses jugements, et d'user
+#facs_113_r2l22 encore de Compasion envers ce peuple,
+#facs_113_r2l23 pour implorer enfin avec toute la ferveur
+#facs_113_r2l24 d'une vraie dévotion, les bénédictions
+#facs_113_r2l25 divines, sur Nôtre chère Patrie, sur
+#facs_113_r2l26 Nous et sur nôtre gouvernement
+#facs_113_r2l27 sur l'Etat & sur l'Église, sur le S.
+#facs_7_r5l1 20
+#facs_114_r2l1 Etablissements pour l'Instruction et l'Éduca-
+#facs_114_r2l2 tion pieuse de la Jeunesse, et en general
+#facs_114_r2l3 sur tout ce qui se rapporte & qui se dirige
+#facs_114_r2l4 au bien publie; & que chacun en particu
+#facs_114_r2l5 lier reconnoitra qu'il est autant de son
+#facs_114_r2l6 Devoir que de son Interêt de contribuer de
+#facs_114_r2l7 son côte au succès desirable de cette solem
+#facs_114_r2l8 nité sainte, par un serieux retour sur lui
+#facs_114_r2l9 même, une sincere repentance de ses
+#facs_114_r2l10 fautes, un vrai amendement & un attache
+#facs_114_r2l11 ment inviolable à tout devoir, qui produire
+#facs_114_r2l12 sant, avec le secours de la grace, un
+#facs_114_r2l13 changement avantageux dans les moeurs
+#facs_114_r2l14 publiques & particulieres: puisse aussi
+#facs_114_r2l15 permettre de meilleures Eperances.
+#facs_114_r2l16 pour le tems et pour l'Eternité
+#facs_114_r2l17 A ces causes, nous a vertissons
+#facs_114_r2l18 et ordonnons de la maniere la plus serieuse,
+#facs_114_r2l19 qu'on ait à s'abstenir de tout ce qui pour
+#facs_114_r2l20 roit troubler la Dévotion des personnes
+#facs_114_r2l21 bien intentionées, ainsi que de tout ce
+#facs_114_r2l22 qui blesseroit la decense exterieure & la
+#facs_114_r2l23 sainteté de ce jour; & cela d'autant plus
+#facs_114_r2l24 que Nous avons appris, avec le plus vif
+#facs_114_r2l25 de plaisir les Desordres scandaleux & les
+#facs_114_r2l26 licenses impies qu'on à osé se permettre
+#facs_53_r8l10 e
+#facs_8_r7l2 29.
+#facs_114_r4l2 ci devant en quelques lieux, ce que Nous
+#facs_114_r4l3 désapprouvons hautement, en joignan
+#facs_114_r4l4 à tous Nos officiers Hauts & subalter
+#facs_114_r4l5 nes & à Nos consistoires, de veiller à
+#facs_114_r4l6 cela avec un redoublement d'Attention
+#facs_114_r4l7 de punir sans support ni remission les
+#facs_114_r4l8 contrevenants, ou de Nous les denoncer
+#facs_114_r4l9 pour leur infliger une peine plus rigou
+#facs_114_r4l10 reuse; voulant aussi que dans ce jour
+#facs_114_r4l11 de jeune que le Jour précédent, tous
+#facs_114_r4l12 les Cabarets et autres Lieux ou l'on
+#facs_114_r4l13 vend un soient fermés pour tout le
+#facs_114_r4l14 Monde, à l'exception des Voyageurs
+#facs_114_r4l15 Enfin Nous exhortons tous et un
+#facs_114_r4l16 chacun, de la maniere la plus pater.
+#facs_114_r4l17 nelle & la plus pressante, à se mettre
+#facs_114_r4l18 en Etat de célébrer dignement ce grand
+#facs_114_r4l19 jour, en s'y preparant par des Prieres
+#facs_114_r4l20 & par une Graticipation religieuse au
+#facs_114_r4l21 St Sacrement de la Cene, qui reveillant
+#facs_114_r4l22 la sensiblité de leurs Coeurs, les animé
+#facs_114_r4l23 a de saintes résolutions; de correspondre
+#facs_114_r4l24 de tout leur pouvoir à Nos Intentions
+#facs_114_r4l25 pieuses, en offrant alors au Grand-Etre
+#facs_114_r4l26 l'humiliation la plus profonde & la
+#facs_114_r4l27 plus sincere, en recevant avec reconoissance
+#facs_54_r7l4 l'
+#facs_100_r2l1 soll.
+#facs_115_r2l1 & avec docilité les Exportations et les
+#facs_115_r2l2 Censures desösteurs fidels qui veillent
+#facs_115_r2l3 pour nos ames, en implorant avec ardeur
+#facs_115_r2l4 l'assistance de la grace, afin que par
+#facs_115_r2l5 elle ils portent les fruits d'une véritable
+#facs_115_r2l6 repentance sur quoi Nous souhaitons
+#facs_115_r2l7 à tous en general & à chacun en par,
+#facs_115_r2l8 ticulier, cette grace et toutes les béne
+#facs_115_r2l9 dictions divines.
+#facs_115_r2l10 Dieuveuille diriger le tout à la
+#facs_115_r2l11 Gloire de son grand et Saint Nom à
+#facs_115_r2l12 l'avancement de Nôtre Salut, & de nos
+#facs_115_r2l13 plus chers Interets, dans la Vie et dans
+#facs_115_r2l14 à Mort.
+#facs_115_r2l16 Donne le 12 Juillet 1784
+#facs_48_r3l25 Chancellerie de Berne
+#facs_23_region_1633454616028_2913l1 An
+#facs_309_r3l19 alle deutsche Herren Amtleut, 4. Städt
+#facs_115_r2l20 FreyWeibel und Amann
+#facs_115_r2l21 Die Jagd Hunde gegen schrißtlich ausstol¬
+#facs_115_r2l22 lende Attestata an die Kost geben zu dörf,
+#facs_115_r2l23 Stadthalter und Raths Aufgenugsam
+#facs_115_r2l24 erheblichen Bründen haben Wir der Noth¬
+#facs_115_r2l25 Bendigkeit erachtet, den pag. 13. ent¬
+#facs_115_r2l26 = haltenen
+#facs_28_r4l1 Coll
+#facs_115_r4l1 223.
+#facs_115_r4l2 haltenen Artikel in Unserer untern
+#facs_115_r4l3 4 february 1784. ausgegebenen Jäger
+#facs_115_r4l4 Ordnung (dadurch unseren Undertha¬
+#facs_115_r4l5 verbotten ist, weder für sich noch
+#facs_115_r4l6 und anders Jagdhunde zu halten)
+#facs_115_r4l7 dahin abzuänderen und zu milderen
+#facs_115_r4l8 daß denenselben andurch gestattet
+#facs_115_r4l9 teyn soll, von Unseren lieben und
+#facs_115_r4l10 getreuen Kürgeren und Angehörigen,
+#facs_115_r4l11 welchen das Recht zu jagen zu kommt,
+#facs_115_r4l12 eigen schriftliche Attestata Jagd Hundt
+#facs_115_r4l13 an die Kost zu nehmen; Es ist aber
+#facs_115_r4l14 habey Unser Wille und Befehl, daß die
+#facs_115_r4l15 denen Hauersleuten an die Kost ge
+#facs_115_r4l16 bende Jagd Hunde, von denenselben zur
+#facs_115_r4l17 Jagd nicht gebraucht worden sollen.
+#facs_115_r4l18 Zumahlen die Wiederhandlende ohne
+#facs_115_r4l19 schönen mit angemessener Buße
+#facs_115_r4l20 wurden belegt werden. Welches
+#facs_115_r4l21 Ihr zu jedermann Nachricht und Ver¬
+#facs_115_r4l22 halt öffentlich von Canzlen verlesen
+#facs_115_r4l23 und behörigen Orts ein schreiben laßen
+#facs_115_r4l24 Verdet. G. m. C. Datum 12 Julius 1784

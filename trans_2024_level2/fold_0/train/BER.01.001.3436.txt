@@ -1,0 +1,93 @@
+Law ID: BER.01.001.3436
+Name: Ob den Befelchen, wegen den durchreysenden Handwerksgesellen, Meermannen, und Steüwrauffnemmeren, zehalten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 82/82
+# High similarity (>=50%): 81
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_92_r3l12 An Alle T' und W: Ambtleüth,
+#facs_92_r3l13 4. Stält, Freyleiebel und Amont
+#facs_92_r3l14 Ob den befelchen, wegen den Durchteysenden
+#facs_92_r3l15 Landwärts bevohren gesellen, MeerMang
+#facs_92_r3l16 und Steüler Aufnemmeren etc. zehalten
+#facs_92_r3l17 Schultheiß und Raht etc.
+#facs_92_r3l18 sind einichen Unseren Ambtleüthen Langet
+#facs_92_r3l19 schonst die Nachricht ein, das eine Zeith dahero
+#facs_92_r4l1 175
+#facs_92_r4l2 in Unseren Landen die sogenannten Meer¬
+#facs_92_r4l3 Manner, oder von den Turten gefangen,
+#facs_92_r4l4 geweßten Sclaven, dennen viele durchreysende
+#facs_92_r4l5 so sich für handtwerks, gesellen außgeben,
+#facs_92_r4l6 und es Aber nicht sind; wie nit weniger
+#facs_92_r4l7 solche Persohnen, so mit Steüler büechlenen
+#facs_92_r4l8 sich in Zimmblicher Anzahl Anmelden, den
+#facs_92_r4l9 Gantzen Land beschwährlich seyen; Wie
+#facs_92_r4l10 um solches Unßergeben diser Sachen halber
+#facs_92_r4l11 Ausgeschribenen befelich, und Ordnungen
+#facs_92_r4l12 zu wider Gesucht; als habend wir dich,
+#facs_92_r4l13 gleich alle Unsere Ambtleuth Teütsch- undt
+#facs_92_r4l14 Weltschen Lands, derselben hiemit errinnert
+#facs_92_r4l15 benebens Aber Befehlen wollen, in dergleiche
+#facs_92_r4l16 begebenheiten dich darnach zu richten, und die
+#facs_92_r4l17 Anstalt hinder Deinem Ambt Ernstmeinend
+#facs_92_r4l18 dahin zu verfüegen, daß demselben nach¬
+#facs_92_r4l19 gelebt, und folglich disen frischer Dingen
+#facs_92_r4l20 einreyßenden Landtbeschwehrlen vorgebogen
+#facs_92_r4l21 werden möge etc. Dat. 7. Febr: 1724
+#facs_93_r1l1 176
+#facs_93_r1l2 Collat
+#facs_93_r3l1 An Alle T. und W. Ambtleüth,
+#facs_93_r3l2 4. Stett, Freyleibel, und Annau¬
+#facs_93_r3l3 It. p placcard an hiesige pfeyler.
+#facs_93_r3l4 Wegen geringhältigen umbgeprägeten Herrn
+#facs_93_r3l5 thaleren, und neülden Zehenbätzleren, oder Franten.
+#facs_93_r3l6 Schultheis und Raht etc.
+#facs_93_r3l7 Aus bey verwahrten Placcarden wirst du
+#facs_93_r3l8 ersehen, was wir wegen der Neuld umb,
+#facs_93_r3l9 Geprägete Französischen Thaleren, und zehen
+#facs_93_r3l10 Bätzleren, oder Franten, wegen Ihrer
+#facs_93_r3l11 Geringhältigkeit zu verordnen Gutfunden.
+#facs_93_r3l12 Welche Wir dir hiemit zusenden, und
+#facs_93_r3l13 Anbey befehlen wollen, solche zu Meniglichs
+#facs_93_r3l14 Verhalt und Nachricht an gewohnten
+#facs_93_r3l15 Orthen Anschlagen zu Laßen; Wie Zethun büse
+#facs_93_r3l16 Wirst p. Dat. 8. Febr. 1724
+#facs_93_r3l17 Placcard.
+#facs_93_r3l18 Weilen Meghl. und Oberen Wahrgenommen,
+#facs_93_r3l19 das die in Erantreich Neulofabricierte
+#facs_93_r3l20 Thaler, und Neulde Zehenbätzler, oder Frantenstück
+#facs_93_r4l1 177.
+#facs_93_r4l2 deren Abtruk hierunden zu sehen, zu gering¬
+#facs_93_r4l3 hältig seyen, habend Ihrgl. für guet erachtet,
+#facs_93_r4l4 sich der eint- und anderen eygentlichen Halts
+#facs_93_r4l5 und Barths erkundigen zu laßen, und durch
+#facs_93_r4l6 gezogene Proben in Erfahrung gebracht, daß
+#facs_93_r4l7 der Thaler nicht mehr dann siben, und zwantzig
+#facs_93_r4l8 Bahen, das Franten-stükli oder Zehenbätzler dann
+#facs_93_r4l9 mehr nicht alß Neimbatzen werth seye;
+#facs_93_r4l10 Welches Ihr Gl. durch gegenledertiges plauart
+#facs_93_r4l11 und Abtrut hiemit meniglich zu seinem
+#facs_93_r4l12 Verhalt, und Vorkommung Schävens, und mach¬
+#facs_93_r4l13 bollen, umb sich darnach richten Zekönen
+#facs_93_r4l14 Actum den 8. Februarii 1724
+#facs_93_r4l15 Cantzler Bern.
+#facs_93_r4l16 Translation.
+#facs_93_r4l17 Leurs Excellences, nos souverains seigneurs, s'estant
+#facs_93_r4l18 aperçus, que les Ecus, nouvellement fabriques
+#facs_93_r4l19 en France, dememe que Les francs, ou plus les
+#facs_94_r3l1 de Dix baches, dont les empreintes sont ces
+#facs_94_r3l2 pas, etoient de troppetite valeur, ont jugé
+#facs_94_r3l3 le propos de sinformer de la juste valeur de
+#facs_94_r3l4 une et de l'autre de les especes, et la preuve
+#facs_94_r3l5 Ayantete faite, il s'est trouve, queles les
+#facs_94_r3l6 Ecus ne valent que vingt et sept vaches
+#facs_94_r3l7 et Les francs ne valent que Neuf baches
+#facs_94_r3l8 Cest ce que L: EE: ont trouvé bon defaire
+#facs_94_r3l9 Cunschauen
+#facs_94_r3l10 scavoir par les presentes pour la Conduite
+#facs_94_r3l11 d'un chacun, afin de se garantir deperte.
+#facs_94_r3l12 Donnés le 8e fevrier 1724

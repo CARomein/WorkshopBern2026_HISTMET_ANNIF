@@ -1,0 +1,58 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 50/51
+# High similarity (>=80%): 47
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4813
+#facs_202_r5l15 Trüllmusterungen
+#facs_128_r2l2 Welschen Landes
+#facs_202_r5l17 Zeit zu beendigen; Wirthshäuser und Pinten
+#facs_202_r5l18 schenken bis nach beendigtem Gottes Dienst
+#facs_202_r5l19 jedermann die Reistenden ausgenommen
+#facs_202_r5l20 zu beschließen.
+#facs_202_r5l21 Ordel an Meckgastl. die Kriegs Räthe
+#facs_202_r5l22 Nach deme Megth: die von der Claß Morsten
+#facs_202_r5l23 gethane Vorstellung, daß die Trüllmuster
+#facs_202_r5l24 ungen des Sonntags nicht vor dem Gottes-
+#facs_202_r5l25 dienst sonderen nachhergehalten werden
+#facs_202_r5l26 möchten
+#facs_23_r3l1 39
+#facs_203_r2l1 möchte durch Mehl. Welsch Sekelmeister
+#facs_203_r2l2 und weniger haben untersuchen, und die
+#facs_203_r2l3 nötigen Berichte darüber einziehen laßen,
+#facs_203_r2l4 so haben hoch dieselben, auf das darüber
+#facs_203_r2l5 angehörte Gutachten hin, nicht gut befun¬
+#facs_203_r2l6 den, an der Abhaltung dieser Trüllung
+#facs_203_r2l7 sterungen etwas abzuänderen, sonderen
+#facs_203_r2l8 wollen es dinahen lediglich beym alten be¬
+#facs_89_r2l5 worden, daß um 7ten dieß ein Wirtember
+#facs_203_r2l10 richtet werdet, mit dem freundlichen Ad¬
+#facs_203_r2l11 kommen, die behörigen Vorkehren zutreffen
+#facs_203_r2l12 daß an denenjenigen Orten, wo die Trüll
+#facs_203_r2l13 unsterungen des Morgens gehalten
+#facs_203_r2l14 werden, solche damit sie dem Gottesdienst
+#facs_203_r2l15 so wenig als möglich zum Nachtheil ge-
+#facs_203_r2l16 reichen, wenigstens eine Viertelstund vor
+#facs_203_r2l17 Anfang desselben beendiget werden, und
+#facs_203_r2l18 zugleich denen Trüllmeistern anzubefehlen,
+#facs_203_r2l19 sich jeder mal nach Beendigung derselben
+#facs_203_r2l20 so gleich in den Gottes Dienst zu begeben,
+#facs_203_r2l21 und seine Leute zu dem gleichen Entschluß
+#facs_203_r2l22 zu bewegen zutrachten.
+#facs_203_r2l23 Wobey Ihnen Mühggfl. zum Bericht
+#facs_203_r2l24 dienet, daß Mechen an alle Amtleute Wel¬
+#facs_203_r2l25 chen Lands die Befehle haben abgehen lassen
+#facs_203_r2l26 in Ihren Ämteren zu veranstalten, daß
+#facs_45_r3l3 An
+#facs_83_r5l31 D
+#facs_79_r5l1 Collate
+#facs_203_r4l1 395
+#facs_203_r4l2 an den Sonntagen, alle Wirthshäuser und
+#facs_203_r4l3 Pritenschenke ausser für Reisende bis nach be¬
+#facs_203_r4l4 endigtem Gottes dienst verschloßen bleiben
+#facs_203_r4l5 Actum den 18t. August 1796
+#facs_73_r2l25 Lanölen Pern
+#facs_4_r2l1 ob id
+#facs_98_r5l28 en

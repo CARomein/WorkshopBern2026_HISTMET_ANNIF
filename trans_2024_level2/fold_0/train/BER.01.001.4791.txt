@@ -1,0 +1,39 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 32/32
+# High similarity (>=80%): 31
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_193_r3l8 1149.1.
+#facs_67_r3l4 Ausmunzung
+#facs_67_r3l5 von Großen Bernthalern bekannt gemacht.
+#facs_77_r4l4 An alle deutsch und Welsche Herren Amtleute
+#facs_123_r5l22 Städt, Freyweibel und Ammann.
+#facs_84_r2l10 Schultheis und Rath
+#facs_67_r3l9 Beyliegende Publikation der hiesigen Ausmunzung
+#facs_67_r3l10 von Großen Thalern, werdet Ihr gewohnter maßen
+#facs_67_r3l11 von Canzeln verlesen und anschlagen, auch zu
+#facs_53_r2l9 kunftiger Nachricht in die Schloß Bücher ein
+#facs_67_r3l13 schreibenlaßen. Geben den 21ten Aprill 1795
+#facs_67_r3l14 Publication
+#facs_46_r2l24 Wir Schultheiß, Klein und Große Räthe
+#facs_67_r3l16 Stadt und Stepublik dern, thun kund hier mit:
+#facs_67_r3l17 Daß Wir vor gut erachtet haben, grobe
+#facs_67_r3l18 Silberstorten, unter Unserm eignen Stenipfel
+#facs_67_r3l19 ausprägen zu laßen. Es ist demnach Unster
+#facs_67_r3l20 Wille, daß diese neu ausgenutzten großen
+#facs_222_r1l1 erno
+#facs_10_r1l1 12
+#facs_68_r1l1 126
+#facs_68_r2l1 Bern thale (deren Geprag hienach abgedrukt)
+#facs_68_r2l2 ist.) so wohl in allen Unsern Obrigkeitliche
+#facs_68_r2l3 Caßen, als aber von Jedermann in Unser¬
+#facs_68_r2l4 kanden, um den Weis von Vierzig Bazen Herrn
+#facs_68_r2l5 währung angenommen werden sollen; in so
+#facs_68_r2l6 lange Wir solcher dem Lande nützlich finden
+#facs_68_r2l8 und nicht Anlaß haben werden darüber
+#facs_68_r2l9 etwas anders zuverordnen.
+#facs_68_r2l10 Geben den 21t Aprill 1795
+#facs_27_r3l20 Lansley Bern.
+#facs_98_r5l28 en

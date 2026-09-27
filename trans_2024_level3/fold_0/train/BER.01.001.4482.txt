@@ -1,0 +1,79 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 72/72
+# High similarity (>=80%): 68
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_179_r5l10 Wegen aufforderung der Gläubigeren sub Paena
+#facs_22_r4l47 45
+#facs_179_r5l3 Alle Teütsche Herren Amtleut und Ahlen, deme an
+#facs_179_r5l4 die 4. Hhl. Landgerichts Venner, 4. Städt, alle Grichte
+#facs_179_r5l5 und Herrschafft herren Teutschen Lands, freyweibel
+#facs_179_r5l6 und Aman, denn auch per Zedel an Metzoffl.
+#facs_179_r5l7 der Teutschen Appellation Camer, Stadt Gruht,
+#facs_179_r5l8 Waysen-Gricht und an alle Cänzel hiesiger
+#facs_30_r2l10 Haubtstadt zu besorgen
+#facs_179_r5l13 Wegen Aufforderung der Glaubigeren Sub¬
+#facs_179_r5l11 praeclusibey Gelts Rechnungen und sonsten
+#facs_70_r4l17 Schultheiß Räht und Burger
+#facs_179_r5l13 Wegen Aufforderung der Glaubigeren Sub¬
+#facs_179_r5l11 praeclusibey Gelts Rechnungen und sonsten
+#facs_179_r5l15 haben Wir gut befunden, Unseren Hochobrigkeit
+#facs_179_r5l16 lichen Willen in Trub ausgehen zu laßen.
+#facs_179_r5l17 wie Beylag in mehrerem ausweiset. Mit Zusen¬
+#facs_179_r5l18 dung nun einiger Exemplarien dieses Trubs,
+#facs_179_r5l19 haben, Wir euch deßen zu Euererstaten
+#facs_179_r5l20 Erinnerung berichten wollen, mit Befehl, solche
+#facs_179_r5l21 zu Jedermans Nachricht und Verhalt von der Canzel
+#facs_179_r5l22 verlesen, offentlich anschlagen, und in das Schloß
+#facs_179_r5l23 Mandaten Buch einschreiben zu laßen
+#facs_179_r5l24 Datl. den 15t Marty 1780
+#facs_60_r2l5 Wir Schultheiß, Klein und Broße, Rähle,
+#facs_60_r2l6 der Stadt und Respublic Bern entbieten
+#facs_27_r1l54 1.
+#facs_73_r8l11 r
+#facs_180_r1l1 452.
+#facs_180_r2l1 allen Unseren lieben und getreuen Bürger
+#facs_180_r2l2 und Angehörigen zu Stadt und Land, Un¬
+#facs_180_r2l3 ren Gnädigen und geneigten Willen
+#facs_180_r2l4 und geben ihnen dabeÿ zu vernehmen
+#facs_180_r2l5 daß wir sonderheitlich seit einiger Zeit
+#facs_180_r2l6 gewahret haben, daß die Gelts-Rechnungen
+#facs_180_r2l7 und andere Aufforderungen der Gläubige
+#facs_180_r2l8 mehrmahl sub poena praeclusi, das ist im
+#facs_180_r2l9 der Bedrohung publiciert werden, daß die
+#facs_180_r2l10 Glaübiger welche ihre Ansprachen innert
+#facs_180_r2l11 der gesezten Zeit nicht eingeben wurden,
+#facs_180_r2l12 selbige zu rechter Straffe verlieren sollen,
+#facs_180_r2l13 Da nun die von Uns im Jahr 1761. ern
+#facs_180_r2l14 erte Gerichts Sazung diese Bedrohung allein
+#facs_180_r2l15 für die Geltstage und für die Beneficia
+#facs_180_r2l16 Inventarii oder Bedentzeit in zweifelhafft
+#facs_180_r2l17 Erbschafften gestattet: So finden Wir nöhtig
+#facs_180_r2l18 Unseren Hoch Obrigkeitlichen Willen
+#facs_180_r2l19 dahin zu aüßeren, daß bemelte Bedroh¬
+#facs_180_r2l20 der poena praeclusi auf keine andere als
+#facs_180_r2l21 obvermelte und in der Gerichts-Sazung
+#facs_180_r2l22 vorgeschriebene Fälle sich beziehen, in aller
+#facs_180_r2l23 anderen Fällen aber, im Rechten von
+#facs_180_r2l24 keiner Würbung seyn solle. Wir befehlt
+#facs_22_r4l47 45
+#facs_180_r3l2 folglich allen und jeden Richteren sich deme
+#facs_180_r3l3 nach zu verhalten, und den Zusaz obbemelter
+#facs_180_r3l4 Bedrohung in denen ihnenzu erhaltender
+#facs_180_r3l5 Bewilligung vorlegenden Publicationen
+#facs_180_r3l6 anders nicht, als für die in den gesazen vernan¬
+#facs_180_r3l7 sete oben ausgesezte zwey Fälle zu gestatten
+#facs_180_r3l8 wie auch, falls deßen ohngeacht, dergleichen
+#facs_180_r3l9 ohnerlaubte Bedrohungen zum Vorschein
+#facs_180_r3l10 kommen solten, dafür kein Recht zu halten
+#facs_180_r3l11 Welch Unsern Hoch Obrigkeitlichen Willen¬
+#facs_180_r3l12 Wir hiemit zu Jedermans Nachricht und
+#facs_180_r3l13 verhalt offentlich kund thun, uns in Drus
+#facs_180_r3l14 Geben in Unserer
+#facs_180_r3l15 ausgehen laßen.
+#facs_180_r3l16 Großen Rahts Versamlung d. 15ten Merz 1780
+#facs_53_r2l27 Conzley Bern
+#facs_178_r8l1 en

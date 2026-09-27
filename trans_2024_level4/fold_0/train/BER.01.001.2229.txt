@@ -1,0 +1,77 @@
+Law ID: BER.01.001.2229
+Name: Den Bättag auff den dritten Marty ausschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 66/66
+# High similarity (>=50%): 65
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_291_r4l21 An alle E. vnd W. ambileut,
+#facs_291_r4l22 Vier Statt, Freyreibel vnd am an, auch Märten
+#facs_291_r4l23 Grandson an Lieutenant, Tscherli, undt Schlärzenburg
+#facs_291_r4l24 an Statthalter undt Münsterthaal; den battag auff den
+#facs_291_r4l25 dritten Marty ausschreiben
+#facs_291_r4l26 Schuldtheiß und Rast der Statt Bern,
+#facs_291_r4l27 Ausanlas der nun eine Zeit daher am Zirmament des Himmelß
+#facs_291_r4l28 bestandenen erschrökenlichen Cometen- undt Jungst verspuhrter
+#facs_291_r4l29 bebung der Erden, neben denen sonst anmerkenden sorglichen
+#facs_292_r3l1 Conjuncturen, als vorbotten vndt zeichen trauriger andere
+#facs_292_r3l2 habendt wir vns mit übrigen Evangelischen lobl. ohrten der¬
+#facs_292_r3l3 Eydtgroschafft, abermahlen eines allgemeine Fast, bus vndt
+#facs_292_r3l4 bathags, auff Dienstag den Dritten des nechst antrettenden
+#facs_292_r3l5 Monat Martzens verglichen: Vmb dardurch denen vor
+#facs_292_r3l6 angensehenden schwähren undt Wohlverdienten straffen
+#facs_292_r3l7 Gottes, mittlest eines demütigen Fußfahls vorzubiegen.
+#facs_292_r3l8 undt sich zu einem rechten Wahren midt angegleißneten
+#facs_292_r3l9 bußlösen zu schiken, nit zweifflende, es wenn daßelbe
+#facs_292_r3l10 dem allerhöchsten angenem, undt vns allerseitzs nützlich undt -
+#facs_292_r3l11 Heilsam sein, Deßen wolten wir nun menigflich durch gegen¬
+#facs_292_r3l12 wärtige Publication von Cantzlen benachrichtigen, undt
+#facs_292_r3l13 zu gleich einen Jeden ins besonder hierdurch Vätterlich vermahnen,
+#facs_292_r3l14 solchen angestelten, batt undt bußtrag, mit fleißiger Besuchung der
+#facs_292_r3l15 Predigen undt zugehörigen Pflichten in rechter andacht undt
+#facs_292_r3l16 Gottseligkeit zu zu bringen ihme recht angelegen sein zu laßen
+#facs_292_r3l17 Wolle aber der liebe Gott selbsten durch seinen
+#facs_292_r3l18 sagen undt guten Zeit, bey jedem Christgläubigen
+#facs_292_r3l19 Zu den so viel würken, damit er dardurch geschret,
+#facs_292_r3l20 und daran ein gnediges Wohlgfallen haben, Wir auch
+#facs_292_r3l21 einer Freund Undt güethe, um gesegnetem frieden fürboß
+#facs_292_r3l22 genießen mogindt. Dat. 7. February 1681.
+#facs_292_r3l23 Nudaulo allein. Undt wie in dergleichen fählen unser
+#facs_292_r3l24 erburgerte im Münsterthal in allen glaubens Sachen mit unß
+#facs_292_r3l25 gehalten, alß wirste die anstalt und verfüegung zethun wüsten.
+#facs_292_r3l26 daß in dieser Thalschafft ob dem Felsen, da der Religionhalb wie
+#facs_292_r3l27 zu gepieten haben, Item auch auffem Toßenberg dieser tag mit celebrir¬
+#facs_292_r3l28 End herlich begangen werde.
+#facs_292_r4l1 1
+#facs_292_r4l2 all
+#facs_292_r7l1 31
+#facs_292_r7l2 Bedul an drey Cantzel allhier ob idem
+#facs_292_r7l3 Durch aus wie Im Mandat, biß nutzlich vndt heilsam sein
+#facs_292_r7l4 Dasen Wirt nun diese gantze Christenliche Gemeindt hiemit undt durch diese
+#facs_292_r7l5 verkündung, zu dem Endt, undt mit der Ernst Wohlmeindtlichen Ermahnung
+#facs_292_r7l6 berichtet, daß ein Jedes glied derselben sich deme gemäß zuverhalten
+#facs_292_r7l7 wüße mit fleißiger besuchung der Predigen und anhangenden Werken der
+#facs_292_r7l8 Bottseligkeit, auch Solchem darzu gehörigen eiffer und andacht undt rechter
+#facs_292_r7l9 demütigung vor Gott, daß derselbe solches bußwerk ihme gefallen zu laßen
+#facs_292_r7l10 auch fürbaß mit seinem Vatterlichen Huldt und Inwad, Überbust sambtlichen
+#facs_292_r7l11 nanden Zelve un, geruhen wolle, Actum 7 Februarii 1681.
+#facs_292_r7l12 antzley Bern
+#facs_292_r7l13 Genst Neuwenburg, gub- und FüntzRaht
+#facs_292_r7l14 Die Herren Ministral, Viel, Neuwenstubt. ob Idem
+#facs_292_r7l15 ser Eingang auch wie im Mandat, usque heilsam undt Nutzlich sein
+#facs_292_r7l16 Vndt gleich wie zu Jeden Zeiten Ihr vnser G. H. E. undt p. Einhin
+#facs_292_r7l17 solchen angestelten bußlaerken gantz eifferig erzeigt, also habendt auch
+#facs_292_r7l18 fürdismahlen Wir nit vmbgehen können, Euch wie hiemit beschicht
+#facs_292_r7l19 den bestimbten Tag kundt zu machen, undt Zu gleich wohlmeintlichen
+#facs_292_r7l20 zu ersuchen, ihr geruhet denselbigen Eülberseits zu beliebigen
+#facs_292_r7l21 und in solchem fahl, die erforderliche Verordnung so xyz daß er auch
+#facs_292_r7l22 hinder auch gefyret worde. Der Liebe Gott aber wolle
+#facs_292_r7l23 Durchseinen heegligen undt guten Geist eines Jeden hertz, selbste
+#facs_292_r7l24 also zubereiten, damit er daran ein gnediges wohlgefallen
+#facs_292_r7l25 haben, und wir sambtlich seiner gnad undt güette,
+#facs_292_r7l26 in gesegnetem Frieden Fürbaß genießen magindt.
+#facs_292_r7l27 Datus 7 Februarii 1681.

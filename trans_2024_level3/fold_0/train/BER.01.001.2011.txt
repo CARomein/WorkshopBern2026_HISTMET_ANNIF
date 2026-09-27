@@ -1,0 +1,77 @@
+Law ID: BER.01.001.2011
+Name: Haltung halb eines Fasttags.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 66/66
+# High similarity (>=50%): 66
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_15_r3l12 An Alle E. vnd W. Ambtscüth
+#facs_15_r3l13 vier Stett, Freyweibel und Luma¬
+#facs_15_r3l14 Aaltung halb eines Fasttags
+#facs_15_r3l15 Gesundtheis und Raht der Stadt Bern etc.
+#facs_15_r3l16 Coll.
+#facs_15_r3l17 Es hat der dißmalige Zustand des Kriegswesens vnd seines
+#facs_15_r3l18 Landt und Leut verderblichen Louffs, so sich den Eidtgnößischen
+#facs_15_r3l19 Grenzen die Zeit daher vnderschiedenlich eben noch genug erzeigt,
+#facs_15_r3l20 bei den gesambten Lobl. Duangl. orten der Eidtgnoschafft
+#facs_15_r3l21 Die mit vnzeitige fünperth vnd den nochseligen Eifer erwecket
+#facs_15_r3l22 Gott dem Allerhöchsten entgegen zu gehen, mit recht
+#facs_15_r3l23 Christenlicher Danckbarkeit kindtlicher für die bißharig
+#facs_15_r3l24 Mätterliche Beschützung unsers Lieben Nacherlandts
+#facs_15_r3l25 vnd nit minder angelegenlichen anflechen, daß Er solche
+#facs_15_r3l26 bißhar verlicher gnad und güthat über uns beharren
+#facs_15_r3l27 und alles widrige durch seinen starcken Arm abwenden
+#facs_15_r3l28 Welle: darzu dan ein Allgemeiner Extraordinari Bät, Buß
+#facs_15_r3l29 worden,
+#facs_15_r3l30 und fasttag angestelt und zuhalten angesezt vnd bestimt
+#facs_16_r2l1 Auff donstag den 19. Novembris mehstkünfftig. Deßen
+#facs_16_r2l2 berichten Wir nun dich hirmit zu dem endt, und mit
+#facs_16_r2l3 dem beunth, daß durch publication disis non Canzley
+#facs_16_r2l4 nennigklich deßen benachrichtiget werde, und ein
+#facs_16_r2l5 oder Ine besonder solchen angestelten Bäck- undt
+#facs_16_r2l6 Bußtag, mit fleißiger Besuchung der hierzu anstellend
+#facs_16_r2l7 vnd von und nach midtag haltenden Predigen und zu¬
+#facs_16_r2l8 gehörigen Wercken rechter andacht vnd noch selbst
+#facs_16_r2l9 keit zugebringen ihme recht angelegen sein Zulaßen
+#facs_16_r2l10 wüße. Gott den Herren pietende, daß Er
+#facs_16_r2l11 es ihme gefellig und angenommen sein laßen, undt
+#facs_16_r2l12 mit seiner Vadtershand fürbas vber vns waeten
+#facs_16_r2l13 Alle. Datum 21. Octobris 1674.
+#facs_16_r2l14 Sedel, an Lanzel alhier.
+#facs_16_r2l15 Ob idem
+#facs_16_r2l16 Zustand des Kriegswesens
+#facs_16_r2l17 Dißmalig,
+#facs_16_r2l18 Es hat der
+#facs_16_r2l19 und seines Landt und Leut verderblichen Louffs
+#facs_16_r2l20 so sich den Eidtgnößischen Grunzen die Zeit daha¬
+#facs_16_r2l21 vnderschiedenlich eben noch genug erzeigt, bei den
+#facs_16_r2l22 gesambten Lobl. Enängl. Orten der Eidtgenschafft,
+#facs_16_r2l23 Die nit vnseitige Iürstig und den wocseligen
+#facs_16_r2l24 eifer erwecket, och dem Allerhöchsten entgegen
+#facs_16_r2l25 Zu gechen, mit recht christenlicher Kindtlicher Danck-
+#facs_16_r2l26 barkeit für die bißharige vätterliche Beschützung
+#facs_16_r2l27 Vnsers Lieben vatterlandts, und mit minder
+#facs_16_r2l28 angelegenlichem anflechen, daß Er solche bißhar
+#facs_16_r2l29 Verlicher gnad und guthat über uns beharren
+#facs_16_r2l30 vnd alles widrige durch seinen starcken Arm
+#facs_16_r4l1 29
+#facs_16_r4l2 abmenden Welle: darzu dan ein Allgemeiner Extra¬
+#facs_16_r4l3 ordinari Bäck-Buß- und Fasttag angestelt vnd zu
+#facs_16_r4l4 solten angesetzt und bestimt worden: vff donstag der
+#facs_16_r4l5 19. Novembris nechstkünfftig: Deßen Wiel nun dise
+#facs_16_r4l6 ganze Christenliche Gemeind hiemit vnd durch disen
+#facs_16_r4l7 Verkündung, zu dem endt, und mit der ernst wohl
+#facs_16_r4l8 meintlichen ermahnung berichtet, daß ein Jedes
+#facs_16_r4l9 gli derselben sich deme gemeß zu erhalten wüße,
+#facs_16_r4l10 Mit fleißiger Besuchung der solchen Tags haltende
+#facs_16_r4l11 Predigen vnd anhangenden Wercken der Godtseligkeit
+#facs_16_r4l12 vnd solchem darzu gehörigem eifer andacht vnd rechter
+#facs_16_r4l13 Demütigung vor Godt, daß derselbe solches Bußwerck
+#facs_16_r4l14 Ihme gefallen laße, fürbas mit seiner rächerlichen
+#facs_16_r4l15 huld und gnad über vns sein Volck, In gnaden zum alten
+#facs_16_r4l16 Darzu derselbe selbst von obenherab ein Jeden
+#facs_16_r4l17 thugenlich machen Welle. Actum 21. Octob. 1674

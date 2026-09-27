@@ -1,0 +1,132 @@
+BER.01.001.2703
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 123/123
+# High similarity (>=50%): 111
+# Low similarity (<50%): 12
+# Not found: 0
+#
+#facs_216_r2l23 Sir,
+#facs_216_r2l24 Wiblisch
+#facs_216_r2l25 Zer
+#facs_216_r2l26 Laux.
+#facs_216_r2l27 Der Ewerten Lucens
+#facs_216_r2l28 her Nib lissur.
+#facs_216_r2l29 Nacher Gemein
+#facs_216_r2l30 Allscro
+#facs_216_r4l1 in.
+#facs_216_r4l2 Milden nacher Lausane
+#facs_216_r4l3 Lausane nacher Morser
+#facs_216_r4l4 Morsil, nacher Neulos
+#facs_216_r4l5 Neüles, nacher Genft
+#facs_216_r4l6 Burgdorff nacher langenthal.
+#facs_216_r4l7 Hangen.
+#facs_216_r4l8 zu Langenthal nacher Arbur¬
+#facs_216_r4l9 zu Wongen auf die baslischen
+#facs_216_r4l10 greutze.
+#facs_216_r4l11 Arburg nacher Aroule oder
+#facs_216_r4l12 entzburg
+#facs_216_r4l13 Araulo. nacher Lentzburg
+#facs_216_r4l14 oder Brugg, noch inhalt
+#facs_216_r4l15 der überschrift.
+#facs_216_r4l16 Brugg nacher Raden, oder
+#facs_216_r4l17 nach inhalt der überschrifft
+#facs_216_r4l18 Centzburg praes. auf die
+#facs_216_r4l19 Zürichisch gewohnten grentzen
+#facs_216_r4l20 oder nach inhalt der über¬
+#facs_216_r4l21 schrifft nach Baten oder der
+#facs_216_r4l22 Indem
+#facs_216_r4l23 *
+#facs_216_r4l24 Fraubrunnen nacher Solo
+#facs_216_r4l25 thuen oder Wangen.
+#facs_216_r4l26 Arberg nacher Neülemb
+#facs_216_r4l27 und Nydane.
+#facs_216_r4l28 Thunweiters ins Oberland
+#facs_216_r4l29 3. od. 4. 1.
+#facs_216_r4l30 Campon
+#facs_216_r4l31 zu Gemmen nacher H.
+#facs_216_r4l32 Ifferten nacher Roman
+#facs_216_r4l33 mostier.
+#facs_216_r5l1 Bär.
+#facs_216_r5l2 Nacher Wiblisturg
+#facs_216_r5l3 Mocher Euceans
+#facs_216_r5l4 Macher Lausane.
+#facs_216_r5l5 Nacher Morser.
+#facs_216_r5l6 Allhero.
+#facs_216_r5l7 Nacher Burgdorff.
+#facs_216_r5l8 Nacher Fraubrunnen
+#facs_216_r5l9 Nacher Langenthal.
+#facs_216_r5l10 Mocher Arberg.
+#facs_216_r5l11 Nacher Arauwoder Hertzburg
+#facs_216_r5l12 Nacher kraul oder Arburg.
+#facs_216_r5l13 Allhero
+#facs_216_r5l14 Allscro.
+#facs_216_r5l15 Allhero.
+#facs_216_r5l16 Nacher Wiblisturg.
+#facs_217_r1l1 124
+#facs_217_r1l2 th
+#facs_217_r1l3 Collath
+#facs_217_r2l1 An Cron, Milien, Pätter,
+#facs_217_r2l2 lirger Oecons et Civ. Wiblisturg
+#facs_217_r2l3 undt Chillion
+#facs_217_r2l4 2 e
+#facs_217_r2l5 Der Statt-Fryburg zu Durchführ
+#facs_217_r2l6 Ihrer Waffen und Kriegsmunition
+#facs_217_r2l7 den Pas Ingestatten
+#facs_217_r2l8 x
+#facs_217_r2l9 Schultheiß Undt Raht der Statt Pern.
+#facs_217_r2l10 Wir habent kein bedembens getragen
+#facs_217_r2l11 Lobl. Statt-Freyburg auf dero ansuchen
+#facs_217_r2l12 und bey bezügender guter Wohlwollenheit
+#facs_217_r2l13 und Intention die durchfuhr Ihrer Waffen
+#facs_217_r2l14 und Kriegsmunition zu versehung etwelcher
+#facs_217_r2l15 Ihrer Schlösseren und vesten heusern
+#facs_217_r2l16 hiemit zugestatten; Massen du hiemit
+#facs_217_r2l17 Ihnen den Pas, in so weit lang die Sachen
+#facs_217_r2l18 sich nit etwan enderen, in so weit es
+#facs_217_r2l19 Dem Ambt ansicht, ohngehinderet offen
+#facs_217_r2l20 Gelassen wussen wirst. Datum 4.
+#facs_217_r2l21 februarij 1699
+#facs_217_r3l1 An alle T: und W: Ambtleut.
+#facs_217_r3l2 das getreidt ist, Item an die Cle¬
+#facs_217_r3l3 Ihnen befehlen das vernderigen Jahrs
+#facs_217_r3l4 gewachsene Sommergewächs anzuschlagen.
+#facs_217_r3l5 sonsten zuversilberen
+#facs_217_r3l6 Schultheiß Räht und Bürger der Statt Pern,
+#facs_217_r3l7 Bey anachendem Sommersäyet und bekanten
+#facs_217_r3l8 Gewechsmangel, habend Wir über gebührendt
+#facs_217_r3l9 beschehene Berahtschlagung und Vortrag den
+#facs_217_r3l10 entschluß gefasset, daß in unseren Teutschen
+#facs_217_r3l11 ins Weltschen Landen aller im vernderigen
+#facs_217_r3l12 1698 6 Jahr gewachsene Sommergewechs abgestossen
+#facs_217_r3l13 und nach dem gemachten Tax verselberet
+#facs_217_r3l14 werden solle; Jedoch also, daß beforderst undt
+#facs_217_r3l15 vor einiger anderer verbauffung dasselbe dene¬
+#facs_217_r3l16 nderthanen voraus in gesagtem preis
+#facs_217_r3l17 verabfolget werden solle, die dessen zum
+#facs_217_r3l18 an seyen von nöhten haben mochten, Selbiges
+#facs_217_r3l19 biß nechstbenfftigen Martini in bahrem gelt
+#facs_218_r2l1 Zubezahlen, ohne daß von solchen ausstandts
+#facs_218_r2l2 deßgelts wegen Ihnen einicher Zins
+#facs_218_r2l3 oder anderwärtigen genoos des sonst ge=
+#facs_218_r2l4 wohnten übermäser angerechnet werden
+#facs_218_r2l5 sondern Unsere Ambtleut sich deß im
+#facs_218_r2l6 Meiner Reglement vom verkaufften Ge=
+#facs_218_r2l7 treidt Ihnen bestimbten pfenning
+#facs_218_r2l8 sich gentzlichen Zuverungen haben sollindt.
+#facs_218_r2l9 Welchem nach du deines Theils dich
+#facs_218_r2l10 zu verhalten, und anbey zubeobachten
+#facs_218_r2l11 wüssen wirst, daß fahls über der verschliß
+#facs_218_r2l12 zum ansägen dir einig gelecht zu ver,
+#facs_218_r2l13 kaufen übrig bleiben solte, du solcher
+#facs_218_r2l14 mit samenthaft sondern ümiglichest
+#facs_218_r2l15 Theilsam und zu Spisung der Mariten
+#facs_218_r2l16 umgeben Thügest; zu welchem ende
+#facs_218_r2l17 und damit wüssen mögend ob
+#facs_218_r2l18 Vnserem Willen genug beschehe du einen
+#facs_218_r2l19 specificierlichen Rotel, Wenn und wie vill
+#facs_218_r2l20 nun ansäyen, und demnach sonsten
+#facs_218_r2l21 verkaufft worden, verfertigen, undt
+#facs_218_r2l22 aus überschicken solst. Gott mit dir.
+#facs_218_r2l23 Datum 18 Februarij 1699

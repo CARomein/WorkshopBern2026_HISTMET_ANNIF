@@ -1,0 +1,47 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 40/40
+# High similarity (>=80%): 39
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_300_r2l8 pro 1798.
+#facs_131_r5l1 251.
+#facs_131_r5l2 Salz Ausfuhr Verbott
+#facs_123_r5l21 An alle deutsch und Welsche Herren Amtleut, vier
+#facs_76_r4l10 Städte, Freyweibel und Ammann
+#facs_131_r5l5 Schultheiß und Rath u Mit Zusendung des
+#facs_131_r5l6 heute erbennten Salzansfuhr Verbotts befehlen Wir¬
+#facs_131_r5l7 Euch diese Verordnung üblichermaßen bekannt machen,
+#facs_131_r5l8 an gewohnten Orten, und insbesondere bey den Salzaus¬
+#facs_131_r5l9 neßern anschlagen, auch in den Mandaten Büchern
+#facs_130_r5l6 deßen ihr anmit zum
+#facs_131_r5l11 einschreiben zu laßen
+#facs_131_r5l12 Eüerem Verhalt berichtet werdet. B. m. C.
+#facs_129_r6l8 Beben den 1ten December 1795.
+#facs_91_r3l14 ob idem
+#facs_67_r3l14 Publication
+#facs_120_r6l20 Wir Schultheiß und Rath der Stadt und
+#facs_120_r6l21 Republik Bern, thun bünd hiermit:
+#facs_131_r5l18 Daß auf den von Unserer verordneten Salz
+#facs_131_r5l19 Direktion Uns erstateten Vortrag, Wir nöthig er¬
+#facs_131_r5l20 achtet, den Verkauf des Salzes und desen Veraüße
+#facs_131_r5l21 rung äußert Lands einstweilen und für die nächsten
+#facs_131_r5l22 drey Jahre von dato an gänzlich zu verbieten
+#facs_131_r5l23 und zwar bey Strafe der Confiscation des verauf
+#facs_131_r5l24 sernden Salzes oder des Werths davon, falls es
+#facs_131_r5l25 würlelich ausgeführt worden wäre, und bey einer
+#facs_131_r5l26 Buße von vier Tagen von jedem äußert Lands Ver¬
+#facs_131_r5l27 äußerten Pfund Salz, von demjenigen zu beziehen
+#facs_131_r5l28 so wider diese Unsere Verordnung handlen wird
+#facs_18_r4l24 da
+#facs_132_r1l1 252
+#facs_73_r3l2 Collat
+#facs_132_r3l1 da dan die eine Hälfte sowohl von der Confis¬
+#facs_132_r3l2 cation als der Buße, dem Verleiden, die andere
+#facs_132_r3l3 Hälfte aber den Armen des Orts zufallen soll.
+#facs_132_r3l4 zu welchem Ende dieses Salzausfuhr Verbott
+#facs_132_r3l5 zu jedermanns verhalt öffentlich und auch durch
+#facs_132_r3l6 den Druk bekannt gemacht wird.
+#facs_130_r2l14 Beben den 12ten December 1795
+#facs_98_r5l28 en

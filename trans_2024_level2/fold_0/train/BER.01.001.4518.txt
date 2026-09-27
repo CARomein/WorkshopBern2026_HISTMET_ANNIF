@@ -1,0 +1,30 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 22/23
+# High similarity (>=80%): 22
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4518
+#facs_289_r2l2 wegen den Prieres Kominales.
+#facs_286_r1l1 660
+#facs_36_r1l2 Colle
+#facs_289_r2l1 An alle Classen weltschen Lands.
+#facs_289_r2l2 wegen den Prieres Kominales.
+#facs_289_r2l3 Schultheit und Rath und Damit in den
+#facs_289_r2l4 Kirchspielen weltschen Landes, die unter
+#facs_289_r2l5 einem Herrschaftsherrn stehen, die so
+#facs_289_r2l6 genanten prieres Nominales, auf eine
+#facs_289_r2l7 gewise anständige Bleichförmigkeit
+#facs_289_r2l8 eingerichtet werden, so befehlen Wir
+#facs_289_r2l9 Euch, in jenigen Orten, wo nur ein
+#facs_289_r2l10 Herrschaftsherr ist, euch der Formul, pour
+#facs_289_r2l11 le noble Seigneur du Lieu, wo aber mehrere
+#facs_289_r2l12 time, pour les Nobles Seigneurs du lieu
+#facs_289_r2l13 ohne mehrere und besondere nähere.
+#facs_289_r2l14 specificationen, zu bedienen.
+#facs_289_r2l15 Wie zu thun und diesem Unserm
+#facs_289_r2l16 Befehl ein Genügen zu leisten Ihr wißen
+#facs_237_r3l15 werdet.
+#facs_289_r2l18 Dat. d. 27ten Juny 1782
+#facs_178_r8l1 en

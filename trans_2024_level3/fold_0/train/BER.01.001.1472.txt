@@ -1,0 +1,32 @@
+Law ID: BER.01.001.1472
+Name: Verbott die Underthanen uffzedingen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 21/21
+# High similarity (>=50%): 20
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_191_r4l1 An Alle die W. A.
+#facs_191_r4l2 Verbott die Vnderthanen Vttzedingen
+#facs_191_r4l3 Schultheis und Rahth
+#facs_191_r4l4 Wir werdenb vernemmend zu Unseremnißfallen, daß am
+#facs_191_r4l5 etlichen Orthen unsers woltschen Landts, Vnserer Vnder¬
+#facs_191_r4l6 thanen heimlich von etlichen auff gewigglet, vnd Im Frömbde
+#facs_191_r4l7 Kriegs dienst zogen werdind, wann aber wir by disen
+#facs_191_r4l8 bekanten sorgsamen leuffen, vff den fahl der noht Vnserer
+#facs_191_r4l9 vnder thanen zu Ihrer dem Vatterlandt schuldigen pflicht
+#facs_191_r4l10 leistung selbst von nöhten sindt, zu dem solche selbs ann
+#facs_191_r4l11 gemäßte Wärbung vnnd sträffliche vßerung der Vnseren
+#facs_191_r4l12 allbereit hievor by auff gesetzter leis und Läbens
+#facs_191_r4l13 straff verboeten, als Ist Unser gantz ernstliches gesinnen
+#facs_191_r4l14 hiemit an dich, off dergleichen Werbungen allen ernsts
+#facs_191_r4l15 geachten, unnd selbige Inn Deiner Verwaltung unnd
+#facs_191_r4l16 selbige Inn Deiner Verwaltung bey höchster Unser Ungnad
+#facs_191_r4l17 verlurst des Vatterlandts auch in nachgestalt der sach
+#facs_191_r4l18 by Verwürckung leibs und Läbens, so wol die auff
+#facs_191_r4l19 Dingeren, alls der auff gedingten halb, gäntlich zuuerpieten,
+#facs_191_r4l20 Beyest darmit Gott wohl benölchen. Datum 29. Aug.
+#facs_191_r4l21 96

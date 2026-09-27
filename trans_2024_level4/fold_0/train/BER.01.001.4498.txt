@@ -1,0 +1,75 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 67/68
+# High similarity (>=80%): 65
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4498
+#facs_222_r2l4 Getreis Vorrath zu verkauffen.
+#facs_222_r1l1 534
+#facs_9_region_1629822406380_88l_2 Coll
+#facs_73_r8l5 In
+#facs_222_r2l2 alle W. Herren Amtleut, wo Obrigkeitl.
+#facs_222_r2l3 Betrein ligt. Sepp.
+#facs_223_r5l16 Betreis Vorrath zu verkauffen.
+#facs_220_r3l6 Schultheis Räth und Burger
+#facs_318_r2l17 aber
+#facs_220_r5l24 den von Unseren fürgeliebten Mit Rathen
+#facs_222_r2l9 E. Ehl. weltsch Sekelmeister und Venneren
+#facs_222_r2l10 und Unserer verordneten Kornhammer
+#facs_222_r2l11 Uns gemachten Vortrag, betreffend das
+#facs_222_r2l12 auf Martini 1780. eingegangene
+#facs_222_r2l13 Obrigkeitliche Betreio, haben Wir
+#facs_222_r2l14 gut befunden und erkent: Es solle
+#facs_222_r2l15 von dem daherigen über den bestimten
+#facs_222_r2l16 vorrath aus, und nach Abzug der
+#facs_243_r2l16 ordinari und quasi ordinari Ausgaben
+#facs_222_r2l18 vorschießenden Obrigkeitlichen Getreis,
+#facs_222_r2l19 von dem Waizen, Roggen und Michelkorn
+#facs_222_r2l20 für einmahl uns bis auf Unseren
+#facs_222_r2l21 bestimten weiteren Befehl nur die
+#facs_222_r2l22 Helfte- von dem Haber dann nur der
+#facs_222_r2l23 dritte Theil, nach und nach abgestoßen¬
+#facs_222_r2l24 hingegen aber die Gersten und Paschj.
+#facs_222_r2l25 völlig versilberet werden; Wobey Unser
+#facs_222_r2l26 Will und Befehl in fernerem dahin
+#facs_222_r3l1 ### 535
+#facs_222_r3l2 gehet: daß in ansehen dieser verkauffenden
+#facs_222_r3l3 Früchten, die Verzeigung der Schüdtenen
+#facs_222_r3l4 von seiten Unserer fürgeliebten
+#facs_222_r3l5 Mit Räthen der Herren weltsch Sekel¬
+#facs_222_r3l6 Meister und Venneren erwartet - dabey
+#facs_222_r3l7 die geloohnlichen Praecantionen genommen¬
+#facs_222_r3l8 mithin das zu verkaufende Getreis
+#facs_222_r3l9 nicht denen Händteren en 610 versprochen¬
+#facs_222_r3l10 sondern nur zu kleinen Käuffen
+#facs_222_r3l11 in laufendem Preis verkauft- und von
+#facs_222_r3l12 denen angelwiesenen Schückenen vor¬
+#facs_222_r3l13 allein aus das mindest behaltliche
+#facs_263_r3l20 Betreid abgestoßen = ins besonders dan
+#facs_222_r3l15 dann die Sommerfrücht, und namentlich¬
+#facs_222_r3l16 der zu verbauffen bewilligte Dritte Theil
+#facs_222_r3l17 des Habers, vorzüglich zu Anblümung,
+#facs_222_r3l18 der Felderen, hingegeben werden solle.
+#facs_222_r3l19 Welchemnach Ihr Euch zu verhalten wißen¬
+#facs_264_r2l20 und über das erlosende uns gebührende
+#facs_222_r3l21 Rechnung tragen werdet.
+#facs_222_r3l22 Solte aber der Euch zu verkauffen
+#facs_222_r3l23 verwilligte dritte Theil des Habers, zu
+#facs_222_r3l26 Anblümung der Felder
+#facs_222_r3l27 Ant, und in denen Gegenden von
+#facs_223_r1l1 536/
+#facs_82_r4l10 e
+#facs_223_r3l1 welchen der Saamen darzu in demselben
+#facs_223_r3l2 angekauft wird, nicht hinlänglich seyn; so
+#facs_223_r3l3 werdet Ihr solches bey Zeiten an Unsere-
+#facs_223_r3l4 fürgeliebte Mit Räth die Herren weltsch
+#facs_282_r3l3 Sekelmeister und Venneren erwarten
+#facs_223_r3l6 inmaßen wir solche (doch auf diesen
+#facs_223_r3l7 fall allein :/ begwältiget haben, das
+#facs_223_r3l8 weiters ermanglende an Haber, biß auf
+#facs_223_r3l9 Die Helfte des ganzen verkauffen laßen
+#facs_179_r5l24 Datl. den 15t Marty 1780
+#facs_8_region_1629822220639_60l_4 zu können.
+#facs_178_r8l1 en

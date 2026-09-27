@@ -1,0 +1,103 @@
+Law ID: BER.01.001.4322
+Name: Ihnen den getrukten Avis wegen Ausstreüung faltscher Silber- und Münz- Sorten, zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 92/92
+# High similarity (>=50%): 82
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_186_r4l23 Cancellerie de Berne
+#facs_186_r7l1 1
+#facs_187_r1l1 358
+#facs_187_r1l2 Coll.
+#facs_187_r3l1 An,
+#facs_187_r3l2 Alle Teütsch und Weltsche Herren Amtleüth
+#facs_187_r3l3 4. Städt. Freyweibel und Ammann
+#facs_187_r3l4 dene Schbärzenburg und Grandson
+#facs_187_r3l5 Ihnen den getrubten avis wegen Ausstreüung
+#facs_187_r3l6 faltscher Silber- und Münz- Sorten, zusenden
+#facs_187_r3l7 Stadthalter und Raht etc.
+#facs_187_r3l8 von Mitkommendem getrübten Avis, ansehend die
+#facs_187_r3l9 ausstreuung Falscher Silber- und Münz
+#facs_187_r3l10 sorten, übersenden Wir Euch eine gnugsame
+#facs_187_r3l11 Anzahl Exemplarien, mit befelch, solchen zu
+#facs_187_r3l12 mäniglichs Nachricht öffentlich von Canzlen
+#facs_187_r3l13 publicieren, und gewohnter Orten anschlag
+#facs_187_r3l14 zu laßen. Dat. d. 24ten Octobl. 1771.
+#facs_187_r3l15 Avis
+#facs_187_r3l16 Da un Ghl der standhaffte Bericht einge¬
+#facs_187_r3l17 loffen, daß an eint- und anderen Orten
+#facs_187_r3l18 in dero Landen, nicht allein falsche ganze
+#facs_187_r3l19 und halbe Französische Kron- oder Feder Thalt
+#facs_187_r3l20 sondern auch falsche Hern-zehen Bäzler, in
+#facs_187_r3l21 ganze dern Bazen, in das Publicum ausge¬
+#facs_187_r3l22 streuet werden, als wird solches zum besten
+#facs_187_r3l23 Urgichhl. angehörigen zu Stadt und Land
+#facs_187_r3l24 hiemit öffentlich bekant gemacht, damit
+#facs_187_r5l1 359.
+#facs_187_r5l2 3
+#facs_187_r5l3 Mäniglich sich vor Schaden hüeten könne.
+#facs_187_r5l4 et de
+#facs_187_r5l5 geben den 24ten Octobris 1771.
+#facs_187_r5l6 Ce
+#facs_187_r5l7 Canzley Bern
+#facs_187_r5l8 Traduction
+#facs_187_r5l9 Leurs Excellences Nos Souverains Seigneurs
+#facs_187_r5l10 ayant eu des avis surs et certains, qu'en plusieurs lieux
+#facs_187_r5l11 1.
+#facs_187_r5l12 ferres & Païs de leur Domination, il se repandoit
+#facs_187_r5l13 de
+#facs_187_r5l14 non seulement de faux Ecus & Demi Ecus neufs de france,
+#facs_187_r5l15 foit au trois Couronnes ou à l'Eau de France; mais encore,
+#facs_187_r5l16 de fausses pièces de dix baches au coin de Berne, ainsi
+#facs_187_r5l17 que de celles d'un bache ou de quatre Creutzers au meme
+#facs_187_r5l18 loin; Leurs Excellences ont jugé apropos d'en avertir
+#facs_187_r5l19 of
+#facs_187_r5l20 généralement tous leurs chers et feaux sujets &
+#facs_187_r5l21 Ressortissants par la présente affiche; affin que
+#facs_187_r5l22 chacun, se donnant de garde, puisse eviter son propre
+#facs_187_r5l23 damn & perte. Ainsi fait et arrêté le 24 d'Octobre 1771
+#facs_187_r5l24 Chancellerie de Berne
+#facs_188_r3l1 An
+#facs_188_r3l2 Alle Teütsch und Weltsche Herren Amtleuth, 4. Städt,
+#facs_188_r3l3 Freyweibel und Ammann; Item Schbarzenburg und
+#facs_188_r3l4 Grandson; denen Jed. an Mehb. der Marechaussa¬
+#facs_188_r3l5 Cammer, und H. Großweibel et H. Gerichtschreiber
+#facs_188_r3l6 Auf den Pferdt dieben Philipp Senn, von Selp, gewe¬
+#facs_188_r3l7 senen Pintenschenb wihrten zu Kerzerz, achten auf
+#facs_188_r3l8 Betreffen solchen einsteken zu laßen.
+#facs_188_r3l9 Stadthalter und Rahts
+#facs_188_r3l10 Es hat der von uns unterm 4. Decembl. lezt ver¬
+#facs_188_r3l11 floßenen Jahrs, wegen unter dem Falschen nahm,
+#facs_188_r3l12 eines Oberkeitl. bestelten Thurnweibels, verües
+#facs_188_r3l13 ten Gelt=Erpreßungen, zum Strupbästen, und
+#facs_188_r3l14 einer zehenjährigen Bannisation verfällte Philipp
+#facs_188_r3l15 senn, von Belp, der gewesene Pintenschenb zu
+#facs_188_r3l16 Kerzerz, sich laut Schreibens von Lobl. Standfrybung
+#facs_188_r3l17 eines Pferd- Diebstahls zu Burmen schuldig ge¬
+#facs_188_r3l18 macht; Da nun gemeiner Sicherheit daran
+#facs_188_r3l19 gelegen, daß dieser Bößlicht zu gebührender
+#facs_188_r3l20 Straff gezogen werde, so tragen Wir Euch hiemit
+#facs_188_r3l21 auf, die behörigen Befehle zu ertheillen, daß
+#facs_188_r3l22 auf diesen Pferdt dieben Senn, aller Orten in Einren
+#facs_188_r3l23 Amt fleißig geachtet, und betreckendenfahls¬
+#facs_188_r3l24 derselbe in gefängl. verhafft gesezt, Wir aber des All¬
+#facs_188_r3l25 fähligen Verhafft allsobald berichtet werden. Dat. d. 31. 8br. 17.
+#facs_188_r5l1 361
+#facs_188_r5l2 Signalement
+#facs_188_r5l3 Philipp Senn, gebührtig von Belp, 30. Jahren Alters,
+#facs_188_r5l4 10
+#facs_188_r5l5 gewesener Pintenschenblichet zu Kerzerz, wohl gewach¬
+#facs_188_r5l6 sen, bleichen Angesichts, lange falblechte Haar, die
+#facs_188_r5l7 er gemeiniglich gebunden hat, tragt einen weißen
+#facs_188_r5l8 aber nicht gar langen Überrok schwarze Hosen
+#facs_188_r5l9 und weiße Strümpf, einen Hut mit einer Schnur
+#facs_188_r5l10 und gelben knopf
+#facs_188_r5l11 Obstehender Senn so albereit fernhigen Jahrs
+#facs_188_r5l12 mit Ruthen ausgestrichen und bannisiert worden,
+#facs_188_r5l13 hat neuerlich hinter Lobl. Stands Fryburg Landen
+#facs_188_r5l14 Pferdt diebstähl begangen, und soll aus befelch¬
+#facs_188_r5l15 Mr Ghl. gefängl. angehalten werden. Act. d. 31. 8bris 1771

@@ -1,0 +1,63 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 55/56
+# High similarity (>=80%): 52
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4473
+#facs_271_r4l11 freywilligen Collect auf
+#facs_3_region_1629374296225_399l1 An
+#facs_59_r4l7 Alle Teütsche Herren Amtleint, 4. Städt, Freybeibel
+#facs_101_r2l3 Freyseibel und Ammann, wie auch per Zedel an
+#facs_101_r2l4 hiesige Cänzel, Proß Spithal und Ansere
+#facs_101_r2l5 Krankenhaus.
+#facs_101_r2l6 freybillige Collect erhebung auf nächst künf¬
+#facs_101_r2l7 tigen Bättag, zu gönsten der in denen Ämtern
+#facs_101_r2l8 Saänen und Zweysinen im Weinmonat fern drigen
+#facs_101_r2l9 Jahrs sehr beschadigten hiesigen Angehörigen
+#facs_12_region_1629822809073_173l5 Schultheis Rähtund Burger
+#facs_101_r2l11 Der im Weinmonat ferndrigen Jahrs¬
+#facs_101_r2l12 durch die Ausbrüche der Landwaßer in
+#facs_101_r2l13 denen Ämtern Saanen und Zweysimmen,
+#facs_101_r2l14 Unseren dortigen Angehörigen zugestoßen
+#facs_101_r2l15 an ihren Häusern, Scheüren auch anderen
+#facs_101_r2l16 gebäuden, Bruggen, Schwellen und Straßen
+#facs_101_r2l17 erlittene nahmhafte Schaden, so laut ein
+#facs_101_r2l18 gesendter Eidlichen Schätzung, sich über zwey
+#facs_101_r2l19 mahl hundert Tausend Pfund ansteiget,
+#facs_101_r2l20 und wordurch viele derselben theils bey nicht
+#facs_101_r2l21 zu Grund gerichtet, theils aber in die äußerste
+#facs_101_r2l22 Armuht versezt worden, hat uns bewogen
+#facs_101_r2l23 aus Landes vätterlicher Vorsorg allervor,
+#facs_101_r2l24 derst zu verordnen, daß zum Trost und
+#facs_101_r2l25 zur Beyhilffe dieserer Unserer so hart Heim¬
+#facs_320_r15l2 Schll.
+#facs_101_r3l1 197.
+#facs_101_r3l2 gesuchten Angehörigen, so wohl in Unserer
+#facs_101_r3l3 Haubtstadt als in übrigen Unseren Teutschen
+#facs_101_r3l4 Stadt und Landen, eine freywillige Collect
+#facs_101_r3l5 und Liebessteür erhoben werden soll, welche
+#facs_101_r3l6 collect in Unserer Haubtstadt und übrigen
+#facs_101_r3l7 Städten Unserer Teutschen Landen, auf kün¬
+#facs_101_r3l8 figen Bättag in der Kirchen, auf dem Lau¬
+#facs_101_r3l9 aber von Haus zu Haus, eingesammlet werden
+#facs_101_r3l10 Damit nun jedermann von diesen
+#facs_101_r3l11 soll.
+#facs_101_r3l12 freywilligen Steuer=Einsamlung die vor
+#facs_101_r3l13 läuffige Bebantschaft habe, und zu Ausübung
+#facs_101_r3l14 dieser christlichen Mildthätigkeit, bereit
+#facs_101_r3l15 erscheinen könne; So soll diese Unsere
+#facs_101_r3l16 Verordnung auf den ersten Sontag vor dem
+#facs_101_r3l17 bevorstehenden Bättag in der Morgen¬
+#facs_101_r3l19 Predig ohnfehlbarlich auf allen Cänzlen
+#facs_101_r3l20 Heres Amts verlesen, und die Zuhörer
+#facs_101_r3l21 in derselben von dem Pfarrer ins beson¬
+#facs_101_r3l22 ders dazu vorbereitet und ermahnt werden
+#facs_204_region_1633453563441_2593l1 deßen Ihr berichtet werdet mit befelch, diese
+#facs_101_r3l24 senmach diese Steuer Aufnahme obvermelter
+#facs_101_r3l25 maßen zu veranstalten, und deren Betrag
+#facs_101_r3l26 in Unsere Teutsche Sebelschreiberey zu über¬
+#facs_101_r3l27 machen. Dat. d. 18ten Aug. 1779.
+#facs_132_r2l1 V.
+#facs_178_r8l1 en

@@ -1,0 +1,143 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 135/136
+# High similarity (>=80%): 133
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4461
+#facs_49_r4l17 Dem überhand nemnenden Nachtschwermann und einzu¬
+#facs_73_r8l11 r
+#facs_49_r4l15 die Herren Amtleüt und Decanen der beyden
+#facs_49_r4l16 Capitlen Burgdorff und Langenthal
+#facs_49_r4l17 Dem überhand nemnenden Nachtschwermann und einzu¬
+#facs_49_r4l18 wißen beginnenden Nächtlichen Versammlungen an Ab¬
+#facs_49_r4l19 Orten etc. Einhalt zu thun
+#facs_7_region_1629821295051_30l1 Schultheiß und Rahts
+#facs_49_r4l21 Mit denen heürigen Capitels Verhandlungen
+#facs_49_r4l22 ist Uns auch jenige Vorstellung hinterbracht
+#facs_49_r4l23 worden, welche die Claß Burgdorff (Langenthal)
+#facs_49_r4l24 in betreff des überhand nemmenden Nachtschwer
+#facs_305_r5l9 en S
+#facs_50_r1l1 96
+#facs_50_r2l1 "mens wie auch denen einzureißen beginnen
+#facs_50_r2l2 den Nächtlichen Versammlungen von beyder
+#facs_51_r2l10 ley Geschlechts an Aborten, uns denen da¬
+#facs_50_r2l4 vorgehenden sündlichen excessen, an uns geli¬
+#facs_50_r2l5 gen laßen; Gleichwie Wir nun den Eifer
+#facs_50_r2l6 der Claß zu beybehaltung guter Zucht und
+#facs_50_r2l7 Ehrbarkeit, und Verhüetung des Lasters der
+#facs_50_r2l8 Unreinigkeit beloben, auch Unseren samtl.
+#facs_50_r2l9 Angehörigen zu Stadt und Land Unser Ernstli¬
+#facs_50_r2l10 ches Obrigkeitliches Mißfallen über alle
+#facs_50_r2l11 dergleichen sündliche Excessen albereits in
+#facs_50_r2l12 denen dahin einschlagenden Verordnungen
+#facs_50_r2l13 der Chorgrichts Sazung, Predigbanten Ord
+#facs_50_r2l14 nung, dem so genanten Meyen, oder Sitten
+#facs_50_r2l15 Mandat, und bey anderen Anläßen mehr
+#facs_50_r2l16 zum öffteren kräfftig zu vernemmen gegeben
+#facs_50_r2l17 und darbey verordnet, wie die hierin
+#facs_50_r2l18 fehlbahren zu recht gewiesen, und bestra¬
+#facs_50_r2l19 werden sollen, so ist uns darbey weiters.
+#facs_50_r2l20 nichts übrig geblieben,
+#facs_50_r2l21 An die Herren Amtleut
+#facs_50_r3l3 An die H. Decanen
+#facs_50_r2l23 Als die Vollziehung dieser Ver- Als dieVollziehnung dieser V
+#facs_50_r2l24 schiedener Landesvätterlicher Verord¬
+#facs_50_r2l25 nungen schiedenen Heilsamen Land
+#facs_50_r2l26 Vätterlich
+#facs_47_r2l1 91
+#facs_50_r2l21 An die Herren Amtleut
+#facs_50_r3l3 An die H. Decanen
+#facs_51_r2l5 nungen zu wiederholen, und Un¬
+#facs_50_r3l5 Vätterlichen Verordnungen
+#facs_50_r3l6 seren Amtleüten und Vorgesetz
+#facs_50_r3l7 Unseren Amtleüten und vorge¬
+#facs_50_r3l8 Den Befelchlich aufzutragen,
+#facs_51_r2l12 sezten zu wiederholen, und denen
+#facs_51_r2l14 denen dißfahls einreisenden
+#facs_50_r3l11 selben wie albereits geschehen:
+#facs_50_r3l12 Excessen nach mas gab derselben
+#facs_50_r3l13 aufzutragen, denen disfalls
+#facs_50_r3l14 kräfftigen Einhalt zu thun, und
+#facs_50_r3l15 einreißenden Excessen nach mas¬
+#facs_50_r3l16 die Fehlbahren nach Vorschrifft¬
+#facs_50_r3l17 gab derselben kräfftigen Einhalt
+#facs_51_r2l24 dieser Verordnungen zu bestraf- zu thun, und die Fehlbahren
+#facs_50_r3l19 ten, die Pfarrer dann durch den nach Vorschrift dieser Verordnun¬
+#facs_50_r3l20 Decanen der Claß ermahnen gen zu bestraffen, Euch dann zu
+#facs_50_r3l21 zu laßen, durch unverdroßem
+#facs_50_r3l22 gleichem End hin aufzutragen
+#facs_50_r3l30 Bemühung und erfüllung aller
+#facs_51_r2l31 sämtliche Eüere Capitularen
+#facs_50_r3l25 ihrer Pflichten, sich bestens an
+#facs_51_r2l33 dahin zu ermahnen, daß sie
+#facs_50_r3l27 gelegen seyn zu laßen, hierzu
+#facs_50_r3l28 ebenfalls durch unverdroßene
+#facs_50_r3l29 uch das ihrige beyzutragen;
+#facs_50_r3l30 Bemühung und erfüllung aller
+#facs_50_r3l31 ihrer Pflichten, sich bestens ange¬
+#facs_27_r5l4 deßen Ihr berichtet werdet mit
+#facs_50_r3l33 legen seyn laßen, hierzu das
+#facs_50_r3l34 Befelch, demenach Euch zu ver¬
+#facs_50_r3l35 ihrige beyzutragen. Datl. den
+#facs_50_r3l36 halten, und dieses Schreiben
+#facs_50_r3l37 21.5 Aug 1778
+#facs_50_r3l38 zu künftiger Nachricht in den
+#facs_50_r3l39 Schloßbinheren einschreiben zu
+#facs_50_r3l40 ßen. Datl. den 21ten Aug.1778
+#facs_50_r1l1 96
+#facs_47_r2l1 91
+#facs_50_r2l21 An die Herren Amtleut
+#facs_50_r3l3 An die H. Decanen
+#facs_51_r2l4 "mens wie auch denen einzureißen Begi¬
+#facs_51_r2l5 nungen zu wiederholen, und Un¬
+#facs_50_r3l5 Vätterlichen Verordnungen
+#facs_50_r2l2 den Nächtlichen Versammlungen von beyder
+#facs_50_r3l6 seren Amtleüten und Vorgesetz
+#facs_50_r3l7 Unseren Amtleüten und vorge¬
+#facs_51_r2l10 ley Geschlechts an Aborten, uns denen da¬
+#facs_50_r3l8 Den Befelchlich aufzutragen,
+#facs_51_r2l12 sezten zu wiederholen, und denen
+#facs_51_r2l13 vorgehenden sündlichen excessen, an Uns ge¬
+#facs_51_r2l14 denen dißfahls einreisenden
+#facs_50_r3l11 selben wie albereits geschehen:
+#facs_50_r2l5 gen laßen; Gleichwie Wir nun den Eifer
+#facs_50_r3l12 Excessen nach mas gab derselben
+#facs_50_r3l13 aufzutragen, denen disfalls
+#facs_50_r2l6 der Claß zu beybehaltung guter Zucht und
+#facs_51_r2l20 kräfftigen Einhalt zu thun, und einreißenden Excessen nach mas¬
+#facs_51_r2l21 Ehrbarkeit, und Verhüetung des Lasters.
+#facs_51_r2l22 die Fehlbahren nach Vorschrifft gab derselben kräfftigen Einhalt
+#facs_50_r2l8 Unreinigkeit beloben, auch Unseren samtl.
+#facs_51_r2l24 dieser Verordnungen zu bestraf- zu thun, und die Fehlbahren
+#facs_51_r2l25 angehörigen zu Stadt und Land Unser Ernst
+#facs_50_r3l19 ten, die Pfarrer dann durch den nach Vorschrift dieser Verordnun¬
+#facs_50_r2l10 ches Obrigkeitliches Mißfallen über alle
+#facs_50_r3l20 Decanen der Claß ermahnen gen zu bestraffen, Euch dann zu
+#facs_51_r2l29 dergleichen sündliche Excessen albereits in zu laßen, durch unverdroßene
+#facs_50_r3l22 gleichem End hin aufzutragen
+#facs_50_r3l24 amtliche Eüere Capitularen
+#facs_51_r2l32 denen dahin einschlagenden Verordnungen Bemühung und erfüllung alle
+#facs_51_r2l33 dahin zu ermahnen, daß sie
+#facs_51_r2l34 der Chorgrichts Sazung, Predigbantens ihrer Pflichten sich bestens an¬
+#facs_50_r3l28 ebenfalls durch unverdroßene
+#facs_51_r2l36 nung, dem so genanten Meyen, oder Sicke gelegen seyn zu laßen, hiezu
+#facs_50_r3l30 Bemühung und erfüllung aller
+#facs_51_r2l38 Mandat, und bey anderen Anläßen mehr auch das ihrige beyzutragen
+#facs_50_r3l31 ihrer Pflichten, sich bestens ange¬
+#facs_51_r2l40 zum öffteren kräfftig zu vernemmen gegen deßen Ihr berichtet werdet mit
+#facs_50_r3l33 legen seyn laßen, hierzu das
+#facs_50_r3l34 Befelch, demenach Euch zu ver¬
+#facs_50_r2l17 und darbey verordnet, wie die hierin
+#facs_50_r3l35 ihrige beyzutragen. Datl. den
+#facs_50_r3l36 halten, und dieses Schreiben
+#facs_51_r2l46 fehlbahren zu recht gewiesen, und best
+#facs_50_r3l37 21.5 Aug 1778
+#facs_50_r3l38 zu künftiger Nachricht in den
+#facs_51_r2l49 werden sollen, so ist uns darbey weiter
+#facs_50_r3l39 Schloßbinheren einschreiben zu
+#facs_50_r2l20 nichts übrig geblieben,
+#facs_50_r2l21 An die Herren Amtleut
+#facs_51_r2l53 laßen. Dat. den 21ten Aug. 1778.
+#facs_178_r8l1 en

@@ -1,0 +1,507 @@
+BER.01.001.2737
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 498/498
+# High similarity (>=50%): 445
+# Low similarity (<50%): 53
+# Not found: 0
+#
+#facs_261_r5l10 Qu'alle T: und W: Ambtleut
+#facs_261_r5l11 4. Stätt, Freyweibel und Anna
+#facs_261_r5l12 r
+#facs_261_r5l13 Item Tscherlitz und Mürten
+#facs_261_r5l14 1:
+#facs_261_r5l15 Die trinkende bättolordnung Ihnen
+#facs_261_r5l16 zu fürderlicher publication zuschicken.
+#facs_261_r5l17 2. Die bätteljegi auf gesetzten Tag unfähl,
+#facs_261_r5l18 bahrlich und in geheimbt zuveranstalten.
+#facs_261_r5l19 &c
+#facs_261_r5l20 Schultheiß und Raht der Statt Bern
+#facs_261_r5l21 Der überhand genommene Schwal allerhandt
+#facs_261_r5l22 dencken battelysindts, so zu Mäniglichs grosser
+#facs_261_r5l23 Beschwärdt eine Zeit dafür unsere und benachbahr
+#facs_261_r5l24 ter Eydtgnössischer Ohrten Land bezogen, hat zu
+#facs_261_r5l25 einer allgemeinen Conferentz, unter denselben
+#facs_261_r5l26 enlaas gegeben, auf welcheren sambtlich für
+#facs_262_r2l1 nohtwendig angesehen und verglichen
+#facs_262_r2l2 worden, durch ein durchgehendes getrucktes
+#facs_262_r2l3 Mandat, und darauf sich bezeuchende ge¬
+#facs_262_r2l4 trückte Pahr=Zetell, darvon du beyligende
+#facs_262_r2l5 Doppel gecmpfahen hast, die Forleider er=
+#facs_262_r2l6 forderliche mittel und straffen anzuwenden.
+#facs_262_r2l7 langet demmenach unser ernstlicher befelich
+#facs_262_r2l8 an Dich, disers mandat auf allen Cantzlen
+#facs_262_r2l9 Deiner Ambtrbezircks fürderlich ver¬
+#facs_262_r2l10 läsen, an den gewohnten Ohrten anschlagen
+#facs_262_r2l11 gelassen, und die erforderlichen anstalten
+#facs_262_r2l12 zubestellen, daß in den einten undt
+#facs_262_r2l13 anderen fahlen dem inhalt desselben
+#facs_262_r2l14 durch beflissene Beobachtung nachge¬
+#facs_262_r2l15 gangen werde.
+#facs_262_r2l16 Vnd die beilen dergleichen gesund denn
+#facs_262_r2l17 Abzug termin bestimbt ist bis den 11/24. sornung,
+#facs_262_r2l18 als ist verners verglichen worden, daß den
+#facs_262_r2l19 darauf folgenden Donstag als den 25. worinnen
+#facs_262_r2l20 im allgemeine battelpgi angestelt, und
+#facs_262_r2l21 gegen denen beträttenden nach inhalt
+#facs_262_r2l22 Nandats verfahren werde, die du hiemit
+#facs_262_r2l23 binder deinem Ambt auf selbigen Tag
+#facs_262_r2l24 ohn fählbahrlich verrichten gelassen, und
+#facs_262_r2l25 zu vor in geheimbt dukeranstalten haben
+#facs_262_r2l26 Wirst.
+#facs_262_r3l1 amell.
+#facs_262_r3l2 Weilen auch wohl zuerachten, daß ohne vortsa¬
+#facs_262_r3l3 tzenden ernst dar übell bald widerumb zunemmen
+#facs_262_r3l4 wurde, als ist besaag gemeiner abres Unser
+#facs_262_r3l5 vernerer Will und befolch, daß in einer jeden
+#facs_262_r3l6 9.
+#facs_262_r3l7 in Profos bestelt werde, demne
+#facs_262_r3l8 Täglich ein pahr belehrte Männer auß der
+#facs_262_r3l9 gemeint der Kehr nach dagegeben, und durch
+#facs_262_r3l10 welche Ihre bezircken fleissig patrouillert,
+#facs_262_r3l11 a
+#facs_262_r3l12 sonderlich die abgelagenen Höaff und Waldungen
+#facs_262_r3l13 durchstreichen, also diß gesind aufgefischen
+#facs_262_r3l14 getrachtet, auch darmit bis auf Unseren weite,
+#facs_262_r3l15 ren befelch continuiert werden soll, da zu desto
+#facs_262_r3l16 besseres entdeckung desselben, sonderlich die
+#facs_262_r3l17 persohnen so böswichtereyen halb verdächtig,
+#facs_262_r3l18 wan sie an einem Ohrt eingezogen, mit ihrer
+#facs_262_r3l19 statur umbständtlich beschriben werden sollen.
+#facs_262_r3l20 Wie nun disere vorsehung zu allgemeinen
+#facs_262_r3l21 besten abgesehen, also versehend wir vns daß so
+#facs_262_r3l22 wohl du als deine underbeamtete, und alle
+#facs_262_r3l23 Einwohner derselben die Execution gegeben
+#facs_262_r3l24 sich werdind getreuwlich angelagen sein
+#facs_262_r3l25 lassen: Dat. 22. Januarij 1700.
+#facs_262_r3l26 C:
+#facs_262_r3l27 C:
+#facs_262_r3l28 (5
+#facs_263_r1l1 den 12.
+#facs_263_r1l2 Collat
+#facs_263_r2l1 Sedell an alle gesellschaften
+#facs_263_r2l2 de
+#facs_263_r2l3 Ob Idem
+#facs_263_r2l4 Der Schwahl allerhandt unnützen
+#facs_263_r2l5 Bättelgsindts, so eine Zeit daher zu
+#facs_263_r2l6 wänglichs beschwärdt, sich in Statt und
+#facs_263_r2l7 Land geworffen, hatt Mweghl. und Aberen
+#facs_263_r2l8 beranlasset, auf hierumb gehaltener
+#facs_263_r2l9 Conferentz mit etlichen benachbahrten
+#facs_263_r2l10 Ohrten, sich gegenwärtiger Ordnung, so
+#facs_263_r2l11 beygeschlossen, zu vergleichen: und wie
+#facs_263_r2l12 nun under anderem auch versehen,
+#facs_263_r2l13 daß die Handtwercke gsellen fürehen
+#facs_263_r2l14 Ihre Attestaten von den Furgesetzten
+#facs_263_r2l15 der Meisterschafft, da sie Güter gedienet
+#facs_263_r2l16 Ihrer ehrlichen begangenschafft halber
+#facs_263_r2l17 aufgeleisen haben sollend; Als habend
+#facs_263_r2l18 Meyhl und Oberin Lüch Mochwhl
+#facs_263_r2l19 sicher zu wüssen Thun wollen, mit
+#facs_263_r2l20 fründtlichem ansinnen, der Nouster¬
+#facs_263_r2l21 schafft Eülver Ehrengesellschafft solches
+#facs_263_r2l22 zueröffnen, und zu bestellen, daß
+#facs_263_r2l23 fürohin jedem so wohl heimbschen
+#facs_263_r2l24 als Frömbden handtwerckr geselle
+#facs_263_r4l1 suis
+#facs_263_r4l2 1
+#facs_263_r4l3 strais.
+#facs_263_r4l4 dergleichen Attestata bey der abreiß ertheilt
+#facs_263_r4l5 werdindt, umb sich selbsten vor unglück zu sein.
+#facs_263_r4l6 Actg. 22 January 1700.
+#facs_263_r4l7 Il ne s'est en a quelqu'il en aucune
+#facs_263_r4l8 Cantzler Bern
+#facs_263_r4l9 Zedell an die Allemßner im
+#facs_263_r4l10 6
+#facs_263_r4l11 Oberen Spittahl
+#facs_263_r4l12 Ob Idem
+#facs_263_r4l13 Der Eingang wie vorstaht; dort befelch
+#facs_263_r4l14 auf die Execution dieser Ordnung allhier in
+#facs_263_r4l15 der Haubt Statt zu Invigilieren, die durch passie¬
+#facs_263_r4l16 renden zu Examinieren, ihre Passzedlen
+#facs_263_r4l17 Et
+#facs_263_r4l18 Geerschauwen, wo von nohten die vernere
+#facs_263_r4l19 route zu verzeichnen, oder nach Beschaffenheit
+#facs_263_r4l20 andere Passzedlen Ihnen zuzestellen, In dem
+#facs_263_r4l21 und Ihnen auch der einten und der anderen
+#facs_263_r4l22 Exemplaren passzetoll zugeschickt werdendt.
+#facs_263_r4l23 Datx. ut Supra.
+#facs_263_r4l24 Cantzlerz Pern
+#facs_264_r1l1 � 1514
+#facs_264_r1l2 C
+#facs_264_r1l3 Collath.
+#facs_264_r2l1 Maccard
+#facs_264_r2l2 Demnach Meine Gnädige
+#facs_264_r2l3 Herren und Oberen Lobl. Statt Bern
+#facs_264_r2l4 mit sonderbahrem bedauren wahrnemmen
+#facs_264_r2l5 wissen, was gestalten eine Zeit daher
+#facs_264_r2l6 allerhand vnnützer gesind sich in dero
+#facs_264_r2l7 Land zu überaus grosser Beschwärs der
+#facs_264_r2l8 Einwohneren eingeschleichet, inmassen
+#facs_264_r2l9 Solbige aus Landtwätterlicher Vorsorg,
+#facs_264_r2l10 solcher mit allem ernst abgehelfen, sich
+#facs_264_r2l11 benöhtiget befunden, und zu dem endt
+#facs_264_r2l12 mit einichen Ihrer Benachbahrten, deren
+#facs_264_r2l13 landen mit gleichem last betroffen sind,
+#facs_264_r2l14 gemeine vnderred verpflegen lassen, wie
+#facs_264_r2l15 dem übel zubegegnen; Als habend hie¬
+#facs_264_r2l16 rüber hochgedachte Merghl. zu folg abge
+#facs_264_r2l17 faßten gemeinen Schlusser, dero Willen
+#facs_264_r2l18 neinung und befelch jedermäniglich
+#facs_264_r2l19 den er einiger gestalten ansehen mag,
+#facs_264_r2l20 zu Seinem verhalt, und deren darin
+#facs_264_r2l21 bernambseten straffen zuentgehen, durch
+#facs_264_r2l22 Eise öffentliche Vorbündigung kund
+#facs_264_r2l23 machen lassen wollen, wie in folgenden
+#facs_264_r2l24 Zuvernemmen.
+#facs_264_r2l25 Erstlich weilen ohngeachtet mehrmahliger
+#facs_264_r2l26 auf allgemeinen bodischen Tagleistungen
+#facs_264_r3l1 Ergangener Schlüssen, daß nämblich, das lose
+#facs_264_r3l2 -
+#facs_264_r3l3 Heidengsind, sonst Ziginer, in dero Landen zu
+#facs_264_r3l4 beinen Zeiten nicht solle geduldet werden, nun
+#facs_264_r3l5 und dan derselbigen sich in hiesigen Landen
+#facs_264_r3l6 blicken lassen; so ist derenthalben Meyhl. und
+#facs_264_r3l7 oberen Vester Schluß, daß auf betretten, solche ohne
+#facs_264_r3l8 einiche gnad auf die Galeeren übergeben werden
+#facs_264_r3l9 solliret; Derowegen alle und jede beambtete
+#facs_264_r3l10 üfs frische hardurch ernstlich befeichert werden
+#facs_264_r3l11 denen betrettenden Ihre Wehr abgenommen, sie
+#facs_264_r3l12 in hafft setzen gelassen, und dessen zu weiterer
+#facs_264_r3l13 verordnung die Hoche Oberbeit Geberechten.
+#facs_264_r3l14 Belangend Gloeitens, andere im Land umher¬
+#facs_264_r3l15 streichende bättelgsindt, als alle außländische
+#facs_264_r3l16 Körbmacher, Reßler, Spengler, gewürtz - Pulter¬
+#facs_264_r3l17 Krätzentreyer, Savoische Schleiffer, Bürstenbinder,
+#facs_264_r3l18 Schaub hüetler und dergleichen, wie auch deren
+#facs_264_r3l19 Weiber und Kinder, werdendt dieselben ernstlich
+#facs_264_r3l20 vermähnt Mrghl. Potmässigkeit ohne einliches
+#facs_264_r3l21 hinder sich sehen, längstens bis auf den II. Sormung
+#facs_264_r3l22 nächstkünfftig, als den Juni abzug Ihnen ge¬
+#facs_264_r3l23 setzten Termin abzutretten, und sollen zu dem
+#facs_264_r3l24 und auf den Gräntzen Ohrten fleissige anstalten
+#facs_264_r3l25 bestellet werden, daß dergleichen außländischer Weib
+#facs_264_r3l26 oder Kinder mit sich schlependes gesind werück ge¬
+#facs_264_r3l27 falten werde, den widrigen fahls, da jemandt
+#facs_265_r2l1 von solchem gesindlin nach Diserem
+#facs_265_r2l2 Ichl und Zeit in dero Landen betretten
+#facs_265_r2l3 wurde, sie seyen gleich zuvor drinnen
+#facs_265_r2l4 isin, oder erst seither eingeschlichen, die
+#facs_265_r2l5 Wannspersohnen ohne gnad fürs erste
+#facs_265_r2l6 mahl mit Ruhten gestrichen, wäre es
+#facs_265_r2l7 aber sach, daß man bey ihrer Behändigung
+#facs_265_r2l8 verborgene Gewehr auf Ihnen finden
+#facs_265_r2l9 wurde, neben der ausschneitzung gebrand,
+#facs_265_r2l10 deichnet, und nach Ihrer zweyten behän¬
+#facs_265_r2l11 tigung auf die Galeeren verschickt, die
+#facs_265_r2l12 Weibopersohnen dan, je nach beschaffenheit,
+#facs_265_r2l13 mit der Trüllen, haer Eisen oder auß¬
+#facs_265_r2l14 schmeitzung abgestrafft werden sollend;
+#facs_265_r2l15 Jedoch hieründer ausbedinget solche fahl
+#facs_265_r2l16 da von Treulungen oder anderer vnthaten
+#facs_265_r2l17 wegen, sie mehrere sie gar Leibs=undt
+#facs_265_r2l18 Lebensstraff verdienen würden.
+#facs_265_r2l19 Was drittens dergleichen battelysindt
+#facs_265_r2l20 berührt, so unter dar einte oder andere
+#facs_265_r2l21 benachbahrt Eydtgnössisch Ohrt gehörig, sollend
+#facs_265_r2l22 alle und jede derselbigen hardurch ernstlich
+#facs_265_r2l23 vermahnt sein, daß ümbharschmeistens
+#facs_265_r2l24 in allhiesiger Votmässigkeit sich zu emssigen,
+#facs_265_r2l25 dan auf betretten sie ohne schönen werden
+#facs_265_r3l1 517.
+#facs_265_r3l2 behändiget, und ihre Landtroberkeit zur abstraffung
+#facs_265_r3l3 fürs erste mahl berichtet, auf nachwärtiger
+#facs_265_r3l4 widerbetretten aber gleich dem äusseren bättel,
+#facs_265_r3l5 g sind mit der außschmeitzung und Stalleeren
+#facs_265_r3l6 gesehen werden.
+#facs_265_r3l7 Die abgedanckten Soldaten, deren es eine
+#facs_265_r3l8 Zeit daher sehr will gibt sollen, wann Frömbde
+#facs_265_r3l9 und nicht landtsbinder sind, die nicht noht
+#facs_265_r3l10 wendig durch die Eydtgroschafft zu passieren
+#facs_265_r3l11 habend, auf den grantzen gleich ander
+#facs_265_r3l12 .
+#facs_265_r3l13 Ansterem bättelgsind zurückgewisen, die sich
+#facs_265_r3l14 aber durch umbwegen drüberhin ins Land
+#facs_265_r3l15 schleibeten, behändiget, und auch auf die
+#facs_265_r3l16 Raleeren verschickt werden: Die National töleber
+#facs_265_r3l17 aber oder Landtsbinder, und andere, so noht
+#facs_265_r3l18 endig über den Eydtgnossischen boden passieren
+#facs_265_r3l19 müssend, sollen bey ihrem Eintritt ins Landt
+#facs_265_r3l20 aller öffentlich und verborgenen geschos und
+#facs_265_r3l21 Geloehren, äussert dem dagen allein, sich
+#facs_265_r3l22 abgethun haben, und soll Jedem auf den
+#facs_265_r3l23 grantzen ein PaßJedel, darinnen die gantze
+#facs_265_r3l24 Comte in sein Heimat verzeiget, zugestelt
+#facs_265_r3l25 werden, selbige auch schuldig sein ohne abweg,
+#facs_265_r3l26 noch verübende üppigkeiten
+#facs_265_r3l27 sommul.
+#facs_265_r4l1 de ce qui n'est pas de ce qu'il ne s'il en a cois, et de
+#facs_265_r4l2 2
+#facs_265_r4l3 7
+#facs_265_r4l4 i
+#facs_265_r6l1 ?
+#facs_265_r6l2 to
+#facs_265_r6l3 to
+#facs_265_r6l4 12
+#facs_266_r2l1 Sich dahin zuverfüegen, bey Sachen
+#facs_266_r2l2 straff gegen denen vorsetzlich wider¬
+#facs_266_r2l3 handlenden, nach Wichtigkeit der
+#facs_266_r2l4 fühlenen auswenden.
+#facs_266_r2l5 samit auch die willfaltig unterlauffende
+#facs_266_r2l6 Excessen der Handtwerckebürschen und
+#facs_266_r2l7 Neun
+#facs_266_r2l8 anderer Persohnen die lediger weis
+#facs_266_r2l9 Ihren begangen schafften nachzeichen
+#facs_266_r2l10 gehemmet werden mögend, habend Meghl.
+#facs_266_r2l11 angesehen und verordnet, daß hinfuro
+#facs_266_r2l12 keine in dero Potmässigkeit gelassen
+#facs_266_r2l13 werdind, er habe dan der einte oder
+#facs_266_r2l14 andere einen beglaubten schein von
+#facs_266_r2l15 den vorgesetzten der Meisterschafft, da
+#facs_266_r2l16 er jüngst duvor gedienet, seiner ehrliche
+#facs_266_r2l17 begangen schafft halber auf zuweisen, welchen
+#facs_266_r2l18 fahls ihnen der eintritt ins Landt
+#facs_266_r2l19 Zwar gestattet, darbey aber auch, neben
+#facs_266_r2l20 verbott alles verborgenen und offent¬
+#facs_266_r2l21 lichen geschos und gelechrtragens,
+#facs_266_r2l22 aussert dem Dägen allein, selbige mit
+#facs_266_r2l23 PaßGodlen, und darinnen vernomseter
+#facs_266_r2l24 geraden route an das ohrt, dahin Sie
+#facs_266_r2l25 bleiben, versehen werden sollendt,
+#facs_266_r4l1 519
+#facs_266_r4l2 unter gleicher Bedreülung als obstaht, ohne abwey=
+#facs_266_r4l3 sammis noch üppigkeiten, sich dahin zubegeben
+#facs_266_r4l4 auch in specie deß fechtens, sonderlich in denen
+#facs_266_r4l5 Stätten, da ihnen die Passade entrichtet wird.
+#facs_266_r4l6 sich zuenthalten, bey paen dero ausmusterung,
+#facs_266_r4l7 bannisation, auch herterer straffen nach Wichtig¬
+#facs_266_r4l8 weit der Fählern.
+#facs_266_r4l9 Was aber andere betrifft, die sich nur den schein
+#facs_266_r4l10 Der Handtwerckergsellen andichtend, und aber
+#facs_266_r4l11 dem battel nachzeuchend, werdend selbige, da
+#facs_266_r4l12 Sie über die Zurückweisung an den grantzen
+#facs_266_r4l13 sich durch vmbwegen ins Land zubegeben
+#facs_266_r4l14 gelusten liessen, als auch die, so mit den
+#facs_266_r4l15 Attestaten der Meisterschafften und Passhedlen
+#facs_266_r4l16 list und geford brauchen solten, wans bebant
+#facs_266_r4l17 gleich obvermelten Landleüfferen mit auß¬
+#facs_266_r4l18 schneitzung, Brandgühnung und denen
+#facs_266_r4l19 Haleeren abgestrafft werden
+#facs_266_r4l20 Dieweilen aber bekant, daß es auch solcher
+#facs_266_r4l21 Persohnen gibt, die umb deß glaubens und
+#facs_266_r4l22 anderes erheblichen Ursachen willen, Ihre Wohn¬
+#facs_266_r4l23 statte verlassend, und durch hiesige Potmässig¬
+#facs_266_r4l24 keiten öfftere Ihre Durchreiß nemens, so hats
+#facs_266_r4l25 rung nicht, daß dergleichen Persohnen
+#facs_266_r4l26 den
+#facs_266_r5l1 c
+#facs_266_r5l2 5
+#facs_266_r5l3 27.
+#facs_266_r6l1 1
+#facs_266_r6l2 2
+#facs_266_r6l3 to
+#facs_266_r6l4 to
+#facs_266_r6l5 4.
+#facs_267_r2l1 Der Durchpaß versagt, noch gegen Sie
+#facs_267_r2l2 miche der obbestimbten straffen ange¬
+#facs_267_r2l3 wendet: je dennoch aber selbige, umb
+#facs_267_r2l4 ihrer sicherheit willen, auf den gräntzen
+#facs_267_r2l5 auch mit getruckten Paho zedlen, undt
+#facs_267_r2l6 darinen vernambseter route versehen,
+#facs_267_r2l7 und darbey auch vermahnt werden sollind,
+#facs_267_r2l8 ohne umbschweiff noch sambnuß Ihr Reis
+#facs_267_r2l9 fort zu setzen.
+#facs_267_r2l10 Vnd damit der harunder suchende gute Zweck
+#facs_267_r2l11 der Oberkeit gebührend ins werck gerechter
+#facs_267_r2l12 werde, soll gegenwärtige Ordnung an ge-
+#facs_267_r2l13 wohnten Ohrten öffentlich verbundet, und
+#facs_267_r2l14 angeschlagen werden, auch alle, denen es
+#facs_267_r2l15 Ambtr halben zustehet, oberkeitlich erreden
+#facs_267_r2l16 neret sein, darüber fleissig zu invigilieren
+#facs_267_r2l17 und die Execution nach Ihrem Inhalt ihnen
+#facs_267_r2l18 entreulich obgelegen sein gelassen. Wie
+#facs_267_r2l19 geschehen werde, sich Mweghl. gegen jeden
+#facs_267_r2l20 ersehen. Geschehen d. 22. January 1700
+#facs_267_r2l21 Cantzley Gern
+#facs_267_r3l1 Pass zedell.
+#facs_267_r3l2 Ob idem
+#facs_267_r3l3 Vorweiser die Sich nambsendt
+#facs_267_r3l4 ein Handtwercke gesell von
+#facs_267_r3l5 ist heut dato an dem Pas zu
+#facs_267_r3l6 Lobl. Statt Jern Gotmässigkeit ankommen
+#facs_267_r3l7 vorhabens nach.
+#facs_267_r3l8 Zureisen; Der soll alle Tag fünf oder
+#facs_267_r3l9 mehr stund machen, den Wegnemmen durch¬
+#facs_267_r3l10 sich nicht im
+#facs_267_r3l11 Land aufhalten, und keine üppigkeiten ver¬
+#facs_267_r3l12 neben, aller bey der Galeeren oder anderen
+#facs_267_r3l13 Leibs straffen; und soll daß Ihme auch an statt
+#facs_267_r3l14 einer Passes dienen: Geben zu?
+#facs_267_r3l15 Anno
+#facs_268_r1l1 622
+#facs_268_r1l2 Collath
+#facs_268_r3l1 An alle W. Ambtlent.
+#facs_268_r3l2 Zu Ihrer AmbtsRechnung
+#facs_268_r3l3 Ihnen Tagansetzen.
+#facs_268_r3l4 Schultheiß und Raht der Statt Pern
+#facs_268_r3l5 Wir habend zu ablaag deiner heürigen
+#facs_268_r3l6 Jahre verfallenen AmbtsRechnung
+#facs_268_r3l7 die Tag bestimbt und angesetzet den
+#facs_268_r3l8 Martij mit befelch an dich
+#facs_268_r3l9 Deine Rechnung bis dahin sambt den
+#facs_268_r3l10 Bues- und Zehndrodlen also fertig
+#facs_268_r3l11 gehalten, daß auf obbestimbten Tag
+#facs_268_r3l12 dich darmit einfinden, und selbige
+#facs_268_r3l13 ohne Fähler ablegen könnest; Da dir
+#facs_268_r3l14 anbey eingeschärpft sein soll, deine
+#facs_268_r3l15 Rechnung sambt gedeüten Zuessen und
+#facs_268_r3l16 ZendRödlen an gebührenden Ohrten
+#facs_268_r3l17 bey Zeiten zu communicieren, sonsten
+#facs_268_r3l18 Du darmit zurück geloisen werden
+#facs_268_r3l19 .
+#facs_268_r3l20 cirst. Dat: 27 Januarij 1700
+#facs_268_r3l21 1. Wiblisturg
+#facs_268_r3l22 R. 4. Marty
+#facs_268_r3l23 Pätterlingen
+#facs_268_r3l24 Schardersr.
+#facs_268_r3l25 Sisneth) 6. dto.
+#facs_268_r5l1 Milder
+#facs_268_r5l2 523.
+#facs_268_r5l3 Oron
+#facs_268_r5l4 & 7. Martij
+#facs_268_r5l5 Chillon
+#facs_268_r5l6 r 9 dto
+#facs_268_r5l7 Denkenstatt
+#facs_268_r5l8 11. dto.
+#facs_268_r5l9 Ioderten
+#facs_268_r5l10 14
+#facs_268_r5l11 Romainmostier
+#facs_268_r5l12 6
+#facs_268_r5l13 Neules.
+#facs_268_r5l14 Korsel.
+#facs_268_r5l15 19.
+#facs_268_r5l16 Beaumont.
+#facs_268_r5l17 21
+#facs_268_r5l18 22
+#facs_268_r5l19 Lausanne
+#facs_268_r5l20 23. do
+#facs_268_r5l21 An alle T: Ambtleüt.
+#facs_268_r5l22 Zu ablang Ihrer AncltsRechnung
+#facs_268_r5l23 Tagansitzen
+#facs_268_r5l24 Schultheiß und Raht der Statt Pern
+#facs_268_r5l25 Der heüriger Jahr ist die Zu ablaag Deiner
+#facs_268_r5l26 AmbtsRechnung Tag angesetzt der P
+#facs_268_r5l27 Welchen du fleissig besuchen, zu dem ent¬
+#facs_268_r5l28 Deine Rechnung fertig, dieselben sambt
+#facs_269_r2l1 Im Bues, und Zehns Rötlen in erforder¬
+#facs_269_r2l2 licher beschreibung, wie auch den Auszügen
+#facs_269_r2l3 der handtwerderleüten zuvor ange¬
+#facs_269_r2l4 buhrenden Ohrten bey den heüseren
+#facs_269_r2l5 und in der Seckelschreiberey Comunicieren,
+#facs_269_r2l6 in der Rechnung dann zu end auf einem
+#facs_269_r2l7 besonderen blat der abgelösten pfennigdins
+#facs_269_r2l8 Kosten, auch aller Veränderungen, so in
+#facs_269_r2l9 vermehr, oder verminderung der Oberkl.
+#facs_269_r2l10 Einkünfften in der Jahr Zeit beschehen
+#facs_269_r2l11 sein möchten, gedencken solst, dHassen
+#facs_269_r2l12 zuthun wüssten wirst. Dat. 27. february 1700
+#facs_269_r2l13 Arbanges
+#facs_269_r2l14 Mitwochen den 3. Aprilis
+#facs_269_r2l15 Bipo
+#facs_269_r2l16 Danein
+#facs_269_r2l17 d. 4. dto.
+#facs_269_r2l18 Thun
+#facs_269_r2l19 d. 8. dto.
+#facs_269_r2l20 Onderpeer.
+#facs_269_r2l21 Fratingen
+#facs_269_r2l22 d. 9. dto
+#facs_269_r2l23 Wimmis.
+#facs_269_r2l24 Oberhoffen
+#facs_269_r2l25 d: 10. dto.
+#facs_269_r2l26 zweijsimer.
+#facs_269_r2l27 Arberg
+#facs_269_r3l1 Arberg
+#facs_269_r3l2 Donstags
+#facs_269_r3l3 Buchpe:
+#facs_269_r3l4 pr
+#facs_269_r3l5 Laupen
+#facs_269_r3l6 Tandtshuet.
+#facs_269_r3l7 Brandis
+#facs_269_r3l8 6
+#facs_269_r3l9 C
+#facs_269_r3l10 Cranbrummen
+#facs_269_r3l11 Brieinsberg
+#facs_269_r3l12 C
+#facs_269_r3l13 5
+#facs_269_r3l14 Zwein
+#facs_269_r3l15 Signaul,
+#facs_269_r3l16 Burgdorff
+#facs_269_r3l17 Thorberg.
+#facs_269_r3l18 dire
+#facs_269_r3l19 Trachselwaldt.
+#facs_269_r3l20 Nijdanlo
+#facs_269_r3l21 Rotstatt,
+#facs_269_r3l22 Arberg
+#facs_269_r3l23 Biberstein
+#facs_269_r3l24 Zöfingen
+#facs_269_r3l25 Moitwochen
+#facs_269_r3l26 Scheinkenberg
+#facs_269_r3l27 St. Johansen
+#facs_269_r3l28 erlach.
+#facs_269_r4l1 d. 11. Aprilis.
+#facs_269_r4l2 d. 12. dto.
+#facs_269_r4l3 d. 13. x
+#facs_269_r4l4 d. 15. No
+#facs_269_r4l5 d. 16. dto.
+#facs_269_r4l6 l. 17. dto.
+#facs_269_r4l7 d. 18. dto.
+#facs_269_r4l8 d. 30 dto
+#facs_269_r4l9 d. 1. Maii.
+#facs_269_r4l10 d. 3. Ao
+#facs_269_r4l11 Interlaiben
+#facs_269_r6l1 2.
+#facs_269_r6l2 1 f 10 x
+#facs_269_r6l3 lag.
+#facs_270_r3l1 Interlacken, Sambstags den 4. May.
+#facs_270_r3l2 C:
+#facs_270_r3l3 Bangen
+#facs_270_r3l4 6 x
+#facs_270_r3l5 Öhlen.
+#facs_270_r3l6 Königfelden.
+#facs_270_r3l7 d. 7. dto.
+#facs_270_r3l8 Lentzburg.
+#facs_270_r3l9 c.
+#facs_270_r3l10 An alle Capitul: landts
+#facs_270_r3l11 aüßert hiesiger Haubtstatt.
+#facs_270_r3l12 Sollen was Ihnen von Explication
+#facs_270_r3l13 D. P. Associations Eydi bekant bey
+#facs_270_r3l14 Ihrem Eydt schrifftlich von sich geben.
+#facs_270_r3l15 und allhorschicken.
+#facs_270_r3l16 Schultheiß und Raht der Statt Bern
+#facs_270_r3l17 Vor vernemend daß in letztgehaltener
+#facs_270_r3l18 zusammenkunfft Eülvers Capituls, da es
+#facs_270_r3l19 umb Erschaulung und praestation des
+#facs_270_r3l20 bekanten Associations Lydt Zethun
+#facs_270_r4l1 527
+#facs_270_r4l2 gewesen, einiche Explication und außlegung
+#facs_270_r4l3 über den Eydt, davon auch Copeyen gezeiget
+#facs_270_r4l4 werden, unter einigen Capitals brüderen
+#facs_270_r4l5 umbgeloffen, oder gar in der Versamblung
+#facs_270_r4l6 gezeiget worden, und zwar annoch mit den
+#facs_270_r4l7 vorgeben, daß selbe von Bern harkomme,
+#facs_270_r4l8 und mit Oberbeitl. vorlauffen oder guetheissen
+#facs_270_r4l9 beschehe; Wan nun wir hierüber den
+#facs_270_r4l10 grund der Wahrheit wüsten wollen, als
+#facs_270_r4l11 befehlichen Wir Eüch hiemit, daß ein Jeder
+#facs_270_r4l12 inder Süch, was Ihme hiervon bekant
+#facs_270_r4l13 sein möchte bey seinem Teüren Lydt
+#facs_270_r4l14 röffnen und schrifftlich von sich geben solle.
+#facs_270_r4l15 was er gehört oder gesehen, von weme es
+#facs_270_r4l16 herkommen oder gezeiget worden, und aller
+#facs_270_r4l17 was Ihme deswegen bekant sein möchte,
+#facs_270_r4l18 vmb folgendts dasselbe Unß mit müglichster
+#facs_270_r4l19 Beförderung Zeuberschieben. Wie zu Eülrer
+#facs_270_r4l20 aufhabenden Treüle und Eydt wir uns
+#facs_270_r4l21 versehendt, und demnach Eüch Gottes
+#facs_270_r4l22 gnaden befehlend. Dat. 28. Februarij 1700.

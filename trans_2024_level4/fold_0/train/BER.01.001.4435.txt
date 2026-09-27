@@ -1,0 +1,198 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 190/191
+# High similarity (>=80%): 187
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4435
+#facs_245_r4l15 Ihnen das getrubte Plauard wegen Verbotenen
+#facs_3_region_1628102450149_34l_1 An
+#facs_257_r2l9 Alle Teütsch und Weltsche Herren Amtleut, 4. Städt.
+#facs_257_r2l10 freybeibel und Amann
+#facs_245_r4l15 Ihnen das getrubte Plauard wegen Verbotenen
+#facs_245_r4l16 Fürbauff und Ausfuhr der im Fand fallenden rohen
+#facs_245_r4l17 hauten und GerlverLohns zusenden.
+#facs_148_r3l7 Schultheiß Räht und Burger.
+#facs_245_r4l19 Aus mit kommenden gedrubten Exemplarien werdet
+#facs_245_r4l20 Ihr ersehen, auf was für eine weise Wir die in
+#facs_245_r4l21 betref so wohl des Fürbaufs, als der Ausfuhr der
+#facs_245_r4l22 im Land fallen den rohen Haüten, wie auch der Ausfuhr
+#facs_245_r4l23 des Gerber Lohes ehemahlen ausgegangenen
+#facs_245_r4l24 Verordnungen zu erneüeren, und in eine zusamen
+#facs_155_r4l1 Sollat
+#facs_29_region_1628529185029_183l_1 48.
+#facs_246_r3l1 Ziehen zu laßen, gut befunden; von solcher
+#facs_246_r3l2 um übersenden Wir Euch eine gnugsamme Anzahl
+#facs_246_r3l3 mit Befehl, selbige von Canzeln verlesen.
+#facs_246_r3l4 gewohnter maßen anschlagen, und behörigen
+#facs_246_r3l5 Orts einschreiben zu laßen. Datl. d. 3ten Marty 1775
+#facs_159_r4l11 perdus.
+#facs_323_r2l5 Wir Schultheiß Klein und Broße Rähte der
+#facs_246_r3l8 Stadt und Respublie Bern, entbieten Unseren
+#facs_246_r3l9 Lieben und getreuen Bürgeren und Angehö¬
+#facs_246_r3l10 rigen zu Stadt und Land, Unseren Gnädigen
+#facs_246_r3l11 und geneigten Willen, und geben ihnen dabey
+#facs_246_r3l12 zu vernemen:
+#facs_246_r3l13 Da Wir bereits unterm 13ten May 1739.
+#facs_246_r3l14 und 23 t Christmonat 1767. dem gemeinen
+#facs_246_r3l15 besten angemeßen, und zu aufnung der
+#facs_246_r3l16 Gerbereyen in Unseren Landen, nohtwendig
+#facs_246_r3l17 erachtet, so wohl den Fürbauff, als die Aus¬
+#facs_246_r3l18 fuhr der im Land fallenden rohen Haüten
+#facs_246_r3l19 und Fellen, so wie auch die Ausfuhr des¬
+#facs_246_r3l20 Gerber Lohes, mäniglich zu verbieten; So
+#facs_246_r3l21 haben Wir aus hegenden genugsammen Ursach
+#facs_246_r3l22 auch dermahlen gut befunden, diese den
+#facs_246_r3l23 Laus so heilsamme Verbotte beyzubehalten,
+#facs_4_region_1628102612215_78l1 3.
+#facs_4_region_1628102585488_60l1 2.
+#facs_224_r1l1 4838
+#facs_246_r6l2 Zumahlen in Aufhebung und gänzlicher
+#facs_246_r6l3 Abschaffung aller Unser deßthalben hiebevor
+#facs_246_r6l4 ausgegebenen Mandaten und Verordnungen,
+#facs_246_r6l5 solche nach Masgab der jezigen Zeit - Umständen
+#facs_246_r6l6 zu erfrischen, und in Gegenwärtige Verordnung
+#facs_246_r6l7 zusamen zu ziehen
+#facs_246_r6l8 Wir verbieten allso jedermann, wer es immer
+#facs_246_r6l9 seyn mag, einiche Achsen- und Rinderhaute
+#facs_246_r6l10 von was Größe und Schwäre sie immer seyen; daß
+#facs_246_r6l11 gleichen die Kalb Bob- Schaaf- Gem. Geis¬
+#facs_246_r6l12 Bizi, und andere Felle, rohe und unverarbeites
+#facs_246_r6l13 aus Unseren Landen zu führen, bey ohnnachläs¬
+#facs_246_r6l14 siger straff der Confiscation der Waar oder
+#facs_246_r6l15 deren Wehrt
+#facs_246_r6l16 Falls aber sich zutragen solte, daß die in all¬
+#facs_246_r6l17 hiesiger Haubtstadt, oder in anderen Unseren
+#facs_246_r6l18 Städten angeseßene Meistere Mezger Hand¬
+#facs_246_r6l19 werbs, eine Parthey rohe haute und Felle, von
+#facs_246_r6l20 selbst geschlachteter Waar, zum Verkauff ligen
+#facs_246_r6l21 hätten, uns kein Käufer sich darfür angeben
+#facs_246_r6l22 wurde, so mögen dieselben Ihre Waar zwey
+#facs_246_r6l24 verschiedene mahl, als von 14. zu 14. Tagen
+#facs_246_r6l25 Zeit, nebst Beysezung eines billigen Preises, durch
+#facs_29_region_1628529185029_183l_1 48.
+#facs_247_r2l1 das hiesige öffentliche Wochen bladt,
+#facs_247_r2l2 zum Verkauf feil bieten, und unerhebli¬
+#facs_247_r2l3 chen falls, als dann bey unserem Verordnete
+#facs_247_r2l4 Commercien Raht, um eine Ausfuhr-Patent
+#facs_247_r2l5 sich bewerben, welcher, im Fall keine Oppe¬
+#facs_247_r2l6 sitionen wider die Ausfuhr in Vorschein
+#facs_247_r2l7 kommen wird, die abgeforderte Patent Vier
+#facs_247_r2l8 zehen Tag nach der lezten Publication und
+#facs_247_r2l9 Vorbehalt des Zug Rechtens zu gönsten
+#facs_247_r2l10 der inländischen Gerveren, ertheilen mög¬
+#facs_247_r2l11 falls aber einiche Opposition wieder die
+#facs_247_r2l12 legehrte Ausfuhr sich hervor thun wird,
+#facs_247_r2l13 soll derselbe deren Begründniß wohl
+#facs_247_r2l14 erdauren, und ohne Entgelt entscheiden, ob
+#facs_247_r2l15 Die anverlangte Patent zu ertheilen seye
+#facs_247_r2l16 oder nicht?
+#facs_247_r2l17 3. Allen und jeden Meisteren Berwer, Hand¬
+#facs_247_r2l18 werts, die in unseren Landen angeseßen
+#facs_247_r2l19 sind, ist Persönlich erlaubt, die rohen haut
+#facs_247_r2l20 und Felle, in Unserer Haubtstadt, wie in
+#facs_247_r2l21 samtlichen Unseren Landen aufzukauffen
+#facs_247_r2l22 Denen in Unseren Städten geseßener
+#facs_247_r2l23 Meisteren Bewer Handwerks aber, wollen
+#facs_5_region_1628102678358_91l1 4.
+#facs_247_r4l1 485
+#facs_247_r4l2 Wir annoch fernerthin bewilligen, durch bestelte
+#facs_247_r4l3 vertraute Personen, den Anbauf der rohen
+#facs_247_r4l4 häuten und fellen, verrichten zu laßen, sie solle
+#facs_247_r4l5 aber schuldig seyn, die erforderliche Patent für
+#facs_247_r4l6 diese ihre Bestellte vertraute Personen,
+#facs_247_r4l7 vorerst bey Unserm Commerien Raht auszu¬
+#facs_247_r4l8 rücken, sonsten selbige als Fürbaüster angesehen.
+#facs_247_r4l9 und bestraft werden sollen.
+#facs_247_r4l10 Es wird auch jedermann erlaubt, für seinen Haus¬
+#facs_247_r4l11 Gebrauch rohe haute und Felle persönlich zu
+#facs_247_r4l12 baufen, und dieselben nachwärts Gerwen zu
+#facs_189_r8l20 laßen
+#facs_247_r4l14 5° Zu behinderung des Fürbaufs aber wird denn
+#facs_247_r4l15 Meisteren Herwer- Mezger- und Schuster¬
+#facs_247_r4l16 Handwerbs, wie nicht weniger auch allen Wirten
+#facs_247_r4l17 so auf dem Land das SchralRecht ausüben
+#facs_247_r4l18 und überhaubt allen andern Personen, wer¬
+#facs_247_r4l19 es immer seyn mag, verbotten, mit rohen
+#facs_247_r4l20 ungearbeiteten Häuten und fellen, einichen
+#facs_247_r4l21 Gewerb und Handlung zu treiben, wie dann
+#facs_247_r4l22 alle diejenigen so dergleichen Waar eintauffen
+#facs_247_r4l23 und wider verkaufen wurden, als Fürkäufler angehen
+#facs_247_r4l24 hen, und die Waar Confisciert werden soll
+#facs_29_region_1628529185029_183l_1 48.
+#facs_50_region_1628873467160_144l28 1.—.
+#facs_248_r3l1 6o die Einfuhr der rohen Haüten und Sellen
+#facs_248_r3l2 in Unsere Lande, ist jedermann erlaubt,
+#facs_248_r3l3 in so ferne zu der Zeit, da solche in das
+#facs_248_r3l4 Kans gebracht werden wollen, kein Verbod¬
+#facs_248_r3l5 darwider von Unserm verordneten Sanitet
+#facs_248_r3l6 Raht vorwalten wird; hingegen aber ist die
+#facs_248_r3l7 Einfuhr des fremden verarbeiteten roht, und
+#facs_248_r3l8 weis Leders mänglich bey straff der Confiscation
+#facs_248_r3l9 Der Waar, oder deren Wehrt, gänzlich ter
+#facs_248_r3l10 botten:
+#facs_248_r3l11 Jedennoch mögen diejenigen Handwerts,
+#facs_248_r3l12 Meistere, welche Prüsch-Leder oder Saffien
+#facs_248_r3l13 terarbeiten, für ihren Gebrauch Einführt
+#facs_248_r3l14 Patenten, von Unserm Commercien Raht erhal¬
+#facs_248_r3l15 ten, welcher aber dieselben mit aller Modera
+#facs_248_r3l16 tion, und ohne Entgeld ertheillen wird,
+#facs_248_r3l17 Die schädliche Ausfuhr des Gewer Lohes aus¬
+#facs_248_r3l18 Unseren Landen, soll fernerhin jederman¬
+#facs_248_r3l19 untersagt, und verboten seyn, bey Straff
+#facs_248_r3l20 der Confiscation des auszuführenden Lohes
+#facs_248_r3l21 und noch darüber mit einer Gelt Bus von
+#facs_248_r3l22 Jehen Pfunden vom Fuder ungestampften
+#facs_248_r3l23 und zwey Pfunden vom Salzgestampften Lohns.
+#facs_8_region_1628103580860_6l1 10
+#facs_7_region_1628103297306_189l1 8
+#facs_29_region_1628529185029_183l_1 48.
+#facs_248_r6l2 Die hievor bestimten Bußen und Confiscationen
+#facs_248_r6l3 sollen in drey gleiche theile vertheilt werden.
+#facs_248_r6l4 und ein Drittheil davon Uns, ein Drittheil dem
+#facs_248_r6l5 Richter des Orts, und ein Drittheil dem Verleider
+#facs_9_region_1628103827742_39l17 zukommen.
+#facs_248_r6l7 9. In der Haubtstadt und deren Bezirk, wie auch in
+#facs_248_r6l8 den Landgrichten, soll Unser verordnete Commercien
+#facs_248_r6l9 Raht, auf dem Land und in dem Städten aber
+#facs_248_r6l10 der Amtsmann des Orts, in erster Instanz urtheilen,
+#facs_248_r6l11 und der beschwärenden Parthey den Recurs tor¬
+#facs_248_r6l12 Unseren täglichen Raht gestacken; die Ober¬
+#facs_248_r6l13 Aufsicht über diese Ordnung dann, soll ferners hin
+#facs_248_r6l14 in samtlichen Unseren Städten und Landen,
+#facs_248_r6l15 gemelt Unserm Commercien Raht obligen
+#facs_248_r6l16 Diejenigen Einheimschen und Fremden, welche rohe,
+#facs_248_r6l17 ungearbeitete Häute und Felle, wie auch verar¬
+#facs_248_r6l18 beitetes roht, und weis, Leder durch Unsere
+#facs_248_r6l20 Lande führen wollen, sollen die Vorschrifft der
+#facs_248_r6l21 in Ao 1768. ausgegebenen Transit-Ordnung
+#facs_248_r6l22 pünktlich befolgen, und im Fall sie in eint- oder
+#facs_248_r6l23 andern Punbten wider dieselbe fehlen wurden
+#facs_248_r6l24 sollen die Fehlbaren von dem im 9ten Artibel
+#facs_248_r6l25 verzeigten Richter, als Widerhandlire dieser Unserer
+#facs_249_r1l1 488:
+#facs_249_r2l1 Leder-Ordnung angesehen, und von
+#facs_249_r2l2 demselben mit der hievor bestimten
+#facs_249_r2l3 straffe, belegt werden
+#facs_249_r2l4 11o Alle Unsere bestellten ZollCommiren und Auf¬
+#facs_249_r2l5 here sollen bey ihren Pflichten schuldig seyn,
+#facs_249_r2l6 auf die in dieser Verordnung verbottene
+#facs_249_r2l7 Aus- und Einfuhr der angezeigten Waaren,
+#facs_249_r2l8 genaue Acht zu haben, und falls sie einiche
+#facs_249_r2l9 Gefehrs bemerken wurden, solches allsobald den
+#facs_249_r2l10 in 9ten Artibel bestimten Richter anzuzeigen
+#facs_249_r2l11 Wir befehlen dahero allen unsern Ober¬
+#facs_249_r2l12 und Unter, Beamteten, diese Unsere Ver-
+#facs_249_r2l13 ordnung gegen jederman ohne Ansehen der
+#facs_249_r2l14 Person, ernstlich zu handhaben, und versehen
+#facs_249_r2l15 Und zu unsern lieben und getreuen Bürgeren
+#facs_249_r2l16 und Unterthanen, daß sie dieselbe gehorsamst
+#facs_249_r2l17 befolgen, und sich dadurch aller straffe und ver¬
+#facs_249_r2l18 entwortung entladen werden; zu welchem End
+#facs_249_r2l19 Wir solche in Druk verfaßen, von Canzeln
+#facs_249_r2l20 verlesen, und gewohnter maßen bekant machen.
+#facs_249_r2l21 laßen. Geben in Unserer Großen Rahts¬
+#facs_249_r2l22 Versamlung den 3ten Marty 1775
+#facs_150_r3l11 Canzley Hern.
+#facs_24_region_1628255397587_277l11 en

@@ -1,0 +1,346 @@
+Law ID: BER.01.001.4689
+Name: Verordnung, betreffend den Getreid-Handel und dessen Policey.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 335/335
+# High similarity (>=50%): 329
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_3_r3l1 An
+#facs_3_r3l2 alle Deutsch und Welsche Herren
+#facs_3_r3l3 Amtleute, item an die vier
+#facs_3_r3l4 Muvicipal Städte, Freyweibel
+#facs_3_r3l5 und Ammann.
+#facs_3_r3l6 Publikation der neuen Verord¬
+#facs_3_r3l7 nung, betreffend den Getreid Handel
+#facs_3_r3l8 und deßen Policey
+#facs_3_r3l9 l'autre et de la guerre d'Etat d'aprité
+#facs_3_r3l10 Schultheis Räth und Burger
+#facs_3_r3l11 Da Wir in der Absicht in dem
+#facs_3_r3l12 Preise des Getreides so viel mög¬
+#facs_3_r3l13 lich einen gehörigen Mittelpreis
+#facs_3_r3l14 zu erzielen und Unsere Lande
+#facs_3_r3l15 vor dem Mangel und Thäurung
+#facs_3_r3l16 dieses so nöthigen Lebens mittels
+#facs_3_r3l17 zu verwahren, auf den Rapport
+#facs_3_r3l18 Unserer vereinigten Venner, und
+#facs_3_r3l19 Kornkammer hin, diejenigen
+#facs_3_r3l20 Maßreglen und Vorforgen an
+#facs_3_r3l21 genommen und festgesetzt haben,
+#facs_3_r3l22 welche in beyliegender Publication
+#facs_3_r3l23 enthalten und mitelst welcher
+#facs_4_r2l1 von nun an alle vorherigen
+#facs_4_r2l2 den Getreid Handel betreffenden
+#facs_4_r2l3 Landesherrlichen Verordnungen,
+#facs_4_r2l4 mit Ausnahme der besondern
+#facs_4_r2l5 Marktreglemente jeden Orts,
+#facs_4_r2l6 aufgehoben, die mit Unsern
+#facs_4_r2l7 benachbarten Eid großen und
+#facs_4_r2l8 verbündeten Subfistirende
+#facs_4_r2l9 Traktaten aber vorbehalten
+#facs_4_r2l10 sind; so befehlen Wir Euch
+#facs_4_r2l11 Hiermit unter Zusendung der
+#facs_4_r2l12 gehörigen Anzahl Exemplare
+#facs_4_r2l13 solche nicht nur von den Kanzeln
+#facs_4_r2l14 verlesen, sondern auch an ge¬
+#facs_4_r2l15 wohnten Orten anschlagen, und
+#facs_4_r2l16 besonders auf den Kornmärkten
+#facs_4_r2l17 bekannt machen zu laßen.
+#facs_4_r2l18 Desen Ihr hiemit berichtet
+#facs_4_r2l19 werdet, um Euch in Vorfallenheite
+#facs_4_r2l20 nach dieser Vorschrift zu verhalten
+#facs_4_r2l21 und übrigens sowohl die gedrukte
+#facs_4_r2l22 Publication, als aber dieses
+#facs_4_r2l23 Begleite.
+#facs_4_r6l1 3.
+#facs_4_r6l2 Begleitschreiben zu Eüerem und
+#facs_4_r6l3 fuerer Nachfahren Wissenschaft
+#facs_4_r6l4 und Verhalt in die Mandatenbücher
+#facs_4_r6l5 Eüres Schloßes /: Eurer Stadt :/ ein
+#facs_4_r6l6 schreiben zu laßen. Datum den
+#facs_4_r6l7 4ten February 1792.
+#facs_4_r6l8 obid:
+#facs_4_r6l9 Verordnung,
+#facs_4_r6l10 betreffend
+#facs_4_r6l11 Den Getreid=Handel und
+#facs_4_r6l12 dessen Policey.
+#facs_4_r6l13 Wir Schultheiß Klein
+#facs_4_r6l14 und Grosse Räthe der Stadt
+#facs_4_r6l15 und Republick Bern, entbieten
+#facs_4_r6l16 allen Unseren Lieben und Getreuen
+#facs_4_r6l17 Angehörigen, zu Stadt und Land
+#facs_4_r6l18 Unseren geneigten Willen, und
+#facs_4_r6l19 geben ihnen dabey zu vernehmen;
+#facs_4_r6l20 Das nachdem Wir während der
+#facs_4_r6l21 vorleztjährigen ungewöhnlichen
+#facs_4_r6l22 Getreid-Theürung, die Last des
+#facs_4_r6l23 Übels
+#facs_5_r2l1 Gele, welches damals Unsere
+#facs_5_r2l2 Lande drükte, so viel an uns
+#facs_5_r2l3 lag, ohne Rüksicht auf die
+#facs_5_r2l4 damit verbundenen Aufopferungen
+#facs_5_r2l5 zu erleichtern gesucht haben.
+#facs_5_r2l6 ,
+#facs_5_r2l7 Wir dermalen in Betrachtung
+#facs_5_r2l8 der Wichtigkeit und der Noth¬
+#facs_5_r2l9 wendigkeit dieses so nöthige
+#facs_5_r2l10 Lebens mittel beständig in hin¬
+#facs_5_r2l11 länglicher Menge und billigem
+#facs_5_r2l12 Preise beyzubehalten
+#facs_5_r2l13 Uns
+#facs_5_r2l14 ,
+#facs_5_r2l15 mit den Mitteln beschäftiget
+#facs_5_r2l16 haben, dergleichen beschwerlichen
+#facs_5_r2l17 Vorfällen für die Zukunft zuvor
+#facs_5_r2l18 zukommen, Mangel und Theurung,
+#facs_5_r2l19 so viel möglich von Unsern Landen
+#facs_5_r2l20 zu entfernen und hingegen die
+#facs_5_r2l21 Beybehaltung eines der Getreide
+#facs_5_r2l22 pflanzenden sowohl als der Consu¬
+#facs_5_r2l23 mirnenden Klasse den Landes¬
+#facs_5_r2l24 bewohner gleich vortheilhaften
+#facs_5_r2l25 Preises zu erzielen.
+#facs_5_r2l26 = Obwohlen
+#facs_5_r3l1 5
+#facs_5_r3l2 Obwohlen Wir nun in Betrachtung
+#facs_5_r3l3 gezogen, daß, überhaupt genom¬
+#facs_5_r3l4 men, der freye innere und außere
+#facs_5_r3l5 Getreid Handel das beste Mittel
+#facs_5_r3l6 ist, nicht nur den Akerban zu
+#facs_5_r3l7 beginstigen, die Getreid produkte
+#facs_5_r3l8 des Landes auf alle Distrikte des¬
+#facs_5_r3l9 selben Verhältnißmäßig zu ver¬
+#facs_5_r3l10 theilen, und mithin die Bedürfniße
+#facs_5_r3l11 besonderen Gegenden zu befriedigen
+#facs_5_r3l12 sondern auch in gewöhnlichen Zeiten
+#facs_5_r3l13 das Land mit ausländischem Getreide
+#facs_5_r3l14 zu verstorgen, oder in Zeiten des
+#facs_5_r3l15 allzugroßen Überflußes das
+#facs_5_r3l16 Bleich gewicht des Preises durch mäß¬
+#facs_5_r3l17 sige Ausfuhr oder innländische
+#facs_5_r3l18 Aufschüttung beyzubehalten, so legen
+#facs_5_r3l19 Uns dennoch die für die Bedürfniße
+#facs_5_r3l20 der Einwohner nicht zureichende
+#facs_5_r3l21 Getreidpflanzung in Unserm Lande
+#facs_5_r3l22 deßelben besondere Lage, welche die
+#facs_5_r3l23 zufuhr von außen oft beschwerlich
+#facs_6_r2l1 und unsicher macht, und endlich
+#facs_6_r2l2 die bis hiehin von Unsern Nach¬
+#facs_6_r2l3 baren noch hie und da angelegten
+#facs_6_r2l4 Getreid, Ausfuhr, Verbotte, solche
+#facs_6_r2l5 hindernisse in den Weg, daß
+#facs_6_r2l6 Wir jene Grundsäze nicht von
+#facs_6_r2l7 nun an und ohne alle Einschränkung
+#facs_6_r2l8 auf Unser Land anwenden können
+#facs_6_r2l9 Wie aber dem ungeachtet
+#facs_6_r2l10 Unsere Absicht dahin gehet,
+#facs_6_r2l11 den Averbau durch die Freyheit
+#facs_6_r2l12 des Verkehrs und die Sicherheit
+#facs_6_r2l13 des Absezes aufzumuntern, so
+#facs_6_r2l14 haben Wir zu diesem End, und
+#facs_6_r2l15 zwar in Aufhebung aller bisher
+#facs_6_r2l16 über diesen Gegenstand ausge¬
+#facs_6_r2l17 gangenen Landes herrlichen Verord¬
+#facs_6_r2l18 nungen, jedoch mit Vorbehalt der
+#facs_6_r2l19 zwischen uns und Unfern benach¬
+#facs_6_r2l20 banten Eid großen und Verbündeten
+#facs_6_r2l21 subsistirenden Traktaten für die
+#facs_6_r2l22 Zukunft festgesezt und verordnet,
+#facs_6_r2l23 was
+#facs_6_r3l1 7.
+#facs_6_r3l2 was hiemit von einem zum anderen
+#facs_6_r3l3 folget.
+#facs_6_r3l4 1
+#facs_6_r3l5 Was den Handel und Verkehr mit
+#facs_6_r3l6 Getreide aller Art im Inneren
+#facs_6_r3l7 des Landes betrift, so soll derselbige
+#facs_6_r3l8 hiemit vollkommen und ungehindert
+#facs_6_r3l9 freygestellt seyn; wie Wir dann
+#facs_6_r3l10 auch alle dagegen in Absicht auf
+#facs_6_r3l11 die Quantitaet, die Zeit oder den
+#facs_6_r3l12 Ort des Getreid Verkaufs existirenden
+#facs_6_r3l13 Verordnungen oder Verbotte, jedoch
+#facs_6_r3l14 mit ausnahm der besondern autho¬
+#facs_6_r3l15 risirten Policey Reglementen, die
+#facs_6_r3l16 Wochenmärkte betreffend, hiemit
+#facs_6_r3l17 aufgehoben haben.
+#facs_6_r3l18 2.
+#facs_6_r3l19 Da die Einfuhr des fremden Getreides
+#facs_6_r3l20 zu Speisung Unserer Landen wesent¬
+#facs_6_r3l21 lich nöthig ist, so soll auch dieselbe
+#facs_6_r3l22 Deutschen Land immerhin erlaubt
+#facs_6_r3l23 seyn,
+#facs_7_r2l1 seyn, bis der Preis des Bern.
+#facs_7_r2l2 mäs Kernens auf dem Kornmarkt
+#facs_7_r2l3 hiesiger Hauptstadt auf vierzehn,
+#facs_7_r2l4 und in der Waadt, bis das
+#facs_7_r2l5 Bernmäs Weizen auf dem
+#facs_7_r2l6 Kornmarkt zu Lanfanne auf
+#facs_7_r2l7 fünfzehen bazen heruntergefalle,
+#facs_7_r2l8 seyn wird.
+#facs_7_r2l9 3.
+#facs_7_r2l10 Nichtsdestoweniger soll aber selbst
+#facs_7_r2l11 in diesem Falle, das Einfuhr¬
+#facs_7_r2l12 Verbott nicht eher angelegt oder
+#facs_7_r2l13 publicirt werden, als bis das
+#facs_7_r2l14 Getreid wenigstens drey Monat
+#facs_7_r2l15 ununterbrochen in vorgedachtem
+#facs_7_r2l16 niedrigen, oder noch minderm
+#facs_7_r2l17 Preise auf bemeldten Markt
+#facs_7_r2l18 pläzen verkauft worden ist, der
+#facs_7_r2l19 über dann die Berichte eingezogen
+#facs_7_r2l20 und Uns von Unserer Korn Kammer
+#facs_7_r2l21 der Rapport erstatlet seyn wird.
+#facs_7_r2l22 A:
+#facs_7_r3l1 9
+#facs_7_r3l2 4.
+#facs_7_r3l3 Sobald aber das Bernmäs kernen
+#facs_7_r3l4 auf dem Wochenmarkt zu Bern auf
+#facs_7_r3l5 sechs Zehn, und das Bernmas Weizen
+#facs_7_r3l6 auf dem Wochenmarkt zu Lausanne
+#facs_7_r3l7 auf fiebenzehn Baßen zu steigen könnt;
+#facs_7_r3l8 und drey Monat lang in gleichem
+#facs_7_r3l9 oder in höherm Preise wird verkauft
+#facs_7_r3l10 worden seyn, so soll auch die Einfuhr
+#facs_7_r3l11 des fremden Getreides wider geöfnet
+#facs_7_r3l12 werden, und wie vorhin jedermann
+#facs_7_r3l13 freygestellt verbleiben.
+#facs_7_r3l14 5
+#facs_7_r3l15 Da es Unsere Absicht ist, den Aber¬
+#facs_7_r3l16 Bau so viel immer möglich durch
+#facs_7_r3l17 die Freyheit des Handels und die Sicher¬
+#facs_7_r3l18 heit des Absatzes zu begünstigen, und
+#facs_7_r3l19 Wir dabey auch wünschen, daß der
+#facs_7_r3l20 wechselseitige Verkehr zwischen Unser
+#facs_7_r3l21 Angehörigen und Unsern Benachbarten
+#facs_7_r3l22 so wenig als möglich gehindert oder
+#facs_7_r3l23 ge-
+#facs_8_r2l1 geschwächet werde, so soll auch
+#facs_8_r2l2 die Ausfuhr des innländischen Ge¬
+#facs_8_r2l3 treides und Mehls aller Art
+#facs_8_r2l4 immerhin gestattet bleiben, in
+#facs_8_r2l5 Deutschen Land bis der Preis des
+#facs_8_r2l6 Bernmäs Kernens auf dem Wochen¬
+#facs_8_r2l7 markt zu Bern auf zwanzig¬
+#facs_8_r2l8 und in der Waadt bis der Preis
+#facs_8_r2l9 des Bernmas Weizens auf dem
+#facs_8_r2l10 Wochenmarkt zu Lausanne auf
+#facs_8_r2l11 ein und zwanzig Bazen gestiegen
+#facs_8_r2l12 seyen wird.
+#facs_8_r2l13 6
+#facs_8_r2l14 Gleich wie bey dem Einfuhr verbor
+#facs_8_r2l15 vorgeschrieben worden, so soll
+#facs_8_r2l16 aber auch das Ausfuhr Verbon
+#facs_8_r2l17 nicht eher angelegt und publiciert
+#facs_8_r2l18 werden können, als bis diese oder
+#facs_8_r2l19 noch höhere Preife wenigstens
+#facs_8_r2l20 drey Monate ununterbrochen fort.
+#facs_8_r2l21 gedauret haben, darüber dann die
+#facs_8_r2l22 Berichte
+#facs_8_r3l1 11.
+#facs_8_r3l2 Berichte eingezogen, und Uns der
+#facs_8_r3l3 Rapport erstattet seyn wird.
+#facs_8_r3l4 7
+#facs_8_r3l5 Sobald aber das Bernmäs kernent¬
+#facs_8_r3l6 auf dem Wochenmarkt zu Bern wieder
+#facs_8_r3l7 auf achtzehn und das Bernmas Wei¬
+#facs_8_r3l8 zen auf dem Wochenmarkt zu Lausamer
+#facs_8_r3l9 auf neunzehn Bazen herunterfällt, und
+#facs_8_r3l10 drey Monate sich in diesem oder auch
+#facs_8_r3l11 in niedrigerm Preise erhalten haben;
+#facs_8_r3l12 wird, so soll auch das Land der Getreid¬
+#facs_8_r3l13 Ausfuhr wieder geöfnet werden, und
+#facs_8_r3l14 dieselbe jedermann gestattet seyn.
+#facs_8_r3l15 8
+#facs_8_r3l16 de
+#facs_8_r3l17 Es hat aber bey dem hievor im 2ten
+#facs_8_r3l18 4.) 5ten, 6ten, und 7ten Artibel zu
+#facs_8_r3l19 Anwendung oder Aufhebung der Ge¬
+#facs_8_r3l20 treid, Ein- und Ausfuhr verbotten an¬
+#facs_8_r3l21 genommenen Maasstabe, den Ver¬
+#facs_8_r3l22 stand, daß zu Bestimmung deselben
+#facs_9_r3l1 im Deutschen Land, der Korn-
+#facs_9_r3l2 markt hiesiger Hauptstadt, und
+#facs_9_r3l3 in der Waadt der Kornmarkt zu
+#facs_9_r3l4 Tausanne, zur Richtschnur dienen
+#facs_9_r3l5 wird, übrigens aber niemand
+#facs_9_r3l6 weder an der Einfuhr noch an
+#facs_9_r3l7 der Ausfuhr des Getreides ge¬
+#facs_9_r3l8 hindert werden soll, als in so
+#facs_9_r3l9 fern von Uns, in vorkommenden
+#facs_9_r3l10 fällen, ein daheriges Verbott er¬
+#facs_9_r3l11 bennt und publicirt seyn wird
+#facs_9_r3l12 9
+#facs_9_r3l13 damit auch die Particularen in
+#facs_9_r3l14 dem Absaz ihres Getreides zu allen
+#facs_9_r3l15 Zeiten gesichert seyen, und mithin
+#facs_9_r3l16 das Interesse zu Betreibung des
+#facs_9_r3l17 Betreidbaues nicht geschwächet
+#facs_9_r3l18 werde, so wollen Wir hiermit
+#facs_9_r3l19 verordnet haben, daß der Obrig¬
+#facs_9_r3l20 keitliche Getreid Verkauf von dem
+#facs_9_r3l21 unter der Korn Kammer stehenden
+#facs_9_r3l22 = wandelbaren
+#facs_9_r4l1 13
+#facs_9_r4l2 wandelbaren Vorrahte nicht eher Plaz
+#facs_9_r4l3 finden solle, als bis der Preis eines
+#facs_9_r4l4 Bernmäs Kernens auf dem Wochen¬
+#facs_9_r4l5 markt zu Bern auf zwanzig, und
+#facs_9_r4l6 des Bernmäs Weitzens auf dem Wochen
+#facs_9_r4l7 markt zu Lausanne auf ein und
+#facs_9_r4l8 zwanzig Bazen gestiegen ist, und
+#facs_9_r4l9 infolge deßen die Getreid ausfuhr¬
+#facs_9_r4l10 verbotten seyn wird; und daß auch
+#facs_9_r4l11 nachher der Preis des zu verkaufenden
+#facs_9_r4l12 wandelbaren Vorraths, je nach den
+#facs_9_r4l13 qualitaet des Getreides immerhin
+#facs_9_r4l14 in einer bestimmten Proportion
+#facs_9_r4l15 dem untersten gewöhnlichen Markt
+#facs_9_r4l16 preise nachfolgen solle. Alles
+#facs_9_r4l17 jedoch mit der Ausnahme, daß
+#facs_9_r4l18 Unserer Korn Kammer unbenommen
+#facs_9_r4l19 seyn soll, allfällig unbehältliche
+#facs_9_r4l20 Schüttenen, zu Stellung des Getreides,
+#facs_9_r4l21 jederzeit zu versilbern
+#facs_9_r4l22 10.
+#facs_9_r4l23 Wir hoffen, daß durch diese hiermit
+#facs_10_r2l1 von uns angenommenen Grund¬
+#facs_10_r2l2 säze und festgesezte Maß¬
+#facs_10_r2l3 regeln, die Pflanzung des
+#facs_10_r2l4 Getreides hinlängliche Aufmun¬
+#facs_10_r2l5 terung, der Absaz deselben
+#facs_10_r2l6 die nöthige Sicherheit erhalten,
+#facs_10_r2l7 Mangel und Theurung, so viel
+#facs_10_r2l8 möglich, von Unsern Landen
+#facs_10_r2l9 entfernet, und hiemit derjenige
+#facs_10_r2l10 heilsame Zwek, den Wir Uns
+#facs_10_r2l11 bey dieser Unserer Verordnung
+#facs_10_r2l12 vorgesezt haben, erreicht werden
+#facs_10_r2l13 möge; da aber der Preis des
+#facs_10_r2l14 Getreides veränderlich ist, und
+#facs_10_r2l15 mit dem Lauffe der Zeit erhöhet,
+#facs_10_r2l16 oder verringert werden kann,
+#facs_10_r2l17 so soll auch derjenige Maasstab,
+#facs_10_r2l18 welcher in gegenwärtiger Ver¬
+#facs_10_r2l19 ordnung zur Anwendung der Ein¬
+#facs_10_r2l20 und Ausfuhr verbotten, und zum
+#facs_10_r2l21 Verkauf des Obrigkeitlichen Vor¬
+#facs_10_r2l22 ist, und alle
+#facs_10_r2l23 raths angenommen.
+#facs_10_r2l24 übrige
+#facs_10_r3l1 15
+#facs_10_r3l2 übrige Maaßregeln nur für so
+#facs_10_r3l3 lange festgesetzt seyn, als Wir sie
+#facs_10_r3l4 zum besten Unserer Landen ange¬
+#facs_10_r3l5 maßen erachten, und Wir von der
+#facs_10_r3l6 guten Wirkung dieses Getreid System
+#facs_10_r3l7 durch die Uns daher von Unserer
+#facs_10_r3l8 Kornkammer zu erstattende Rapporte
+#facs_10_r3l9 überzeuget seyn werden
+#facs_10_r3l10 Beben in Unserer Großen
+#facs_10_r3l11 RathsVeramlung den 23ten 28ten
+#facs_10_r3l12 und 29ten Decembris 1791. und 4ten
+#facs_10_r3l13 January 1792.

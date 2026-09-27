@@ -1,0 +1,66 @@
+Law ID: BER.01.001.4117
+Name: Wägen mit 40 Ohmen Wein beladen nach dem 1.Sept. nicht mehr durchfahren zulassen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_499
+# Matched: 55/55
+# High similarity (>=80%): 51
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_6_r2l1 An
+#facs_278_r2l9 Aarauf Av: Aarburg Profto. Lenzburg Civ. et Prof.
+#facs_278_r2l10 Goffingen Civ. Trachfelleald Prafto
+#facs_87_r2l6 ein,
+#facs_278_r2l12 Wägen mit 40 Ohmens beladen nach dem
+#facs_278_r2l13 1sten Septl. nicht mehr durchfahren zu laßen.
+#facs_161_r2l13 Schultheiß und Rath. etc.
+#facs_278_r2l15 Obloohlen Wir auf widerholtes Anstuchen Löbl. Stanks¬
+#facs_278_r2l16 Lucern, Unßunterem 20ten Juny 1744 gegen denselb
+#facs_278_r2l17 dahin erläuteret, dasmann zugeben solle, bis und so lang
+#facs_278_r2l18 die Straaßen der Enden, wie an Anderen Orthen
+#facs_278_r2l19 bereits
+#facs_30_r2l1 53
+#facs_278_r3l2 Vereits beschehen, auch werden vorbesamt seyn, die
+#facs_278_r3l3 Weinwägen mit vierzig Ohmen Wein geladen, durch Un¬
+#facs_278_r3l4 sere Land gelaßen werden sollen, So haben Wir Jehden
+#facs_278_r3l5 noch dermahlen auf Unß beschehenen Vorstellung, und ü¬
+#facs_278_r3l6 die Straaßen Aarbeit gegen das Ärgäub dermahlen
+#facs_278_r3l7 starck betrieben wird, uns schon zimlich weith damit
+#facs_278_r3l8 fortgeruchet worden, Folglich in kurzem der Um¬
+#facs_278_r3l9 stand sich zeigen wirs, dar zum Zihl, der von Unß -
+#facs_278_r3l10 rtheilten Concession, bestimmt waren Löbln. Stand¬
+#facs_278_r3l11 Lucern die eröffnung gethan, daß diese Vergünsti¬
+#facs_278_r3l12 gung von dem R nächstleunsitigen Monats Sept.
+#facs_278_r3l13 zu rechnen, nit mehr Subsistieren werde, und haben
+#facs_278_r3l14 anbey diesem Löbl. Stand Buch nach Comunication
+#facs_278_r3l15 Übriger, wegen conservation der Straaßen, Und
+#facs_278_r3l16 Auch verbotts der Gabel-Fuhren, außgegangen
+#facs_278_r3l17 Mandaten, ertheillt, damit derselbe, durch kund¬
+#facs_278_r3l18 machung dieser Verordnungen, die Fuhrleüth¬
+#facs_278_r3l19 seines Lobl. Cantons, in Zeiten avisiren. Und in
+#facs_278_r3l20 Specie die Wein Fuhrleuthe wüßen machen könne.
+#facs_77_r4l29 Das =
+#facs_4_r3l1 3
+#facs_394_r2l37 ma
+#facs_18_r6l31 ohne
+#facs_30_r2l1 53
+#facs_279_r2l1 Daß nach einmahl angetrettenem Termin daß a
+#facs_279_r2l2 Septembris dis Jahrs sie mit keiner stärkoren, als
+#facs_279_r2l3 in dem Mandat bestimten Last. von 40 Centneren
+#facs_279_r2l4 werden durch gelaßen werden, sich auch die einten=
+#facs_279_r2l5 und die Anderen, denen liegen denen Gabel-Fuhr
+#facs_279_r2l6 und sonsten ausgegangenen Mandaten, confor¬
+#facs_279_r2l7 miren, damit Sie nicht an die dictierte Zusund¬
+#facs_279_r2l8 Straaß fallen. Hiervon nun haben Wir Eüch
+#facs_279_r2l9 hiemit die Nachricht ertheillen wollen, damit Ihr
+#facs_279_r2l10 Hierauf fleißige Achthaltet, und von dem
+#facs_279_r2l11 Besezten Dato J Sept. an, keine dergleichen Wein
+#facs_279_r2l12 Wägen, die mehr als die Bestimte 40. Centl. Casti¬
+#facs_279_r2l13 Fuhren, oder Gabel - Fuhren durchfahren lasset, sondern
+#facs_279_r2l14 nach deren vorhandenen Ordnungen exacte verfahret,
+#facs_279_r2l15 Dieses auch zu künftiger Befolgung seiner Ohrte
+#facs_279_r2l16 im schreibet laset. Wie geschehen werde, Wird Unß
+#facs_279_r2l17 zu Eüch bestens verstehen. Gott mit Eüche Datum
+#facs_172_r2l24 den 22. Juny. 1758

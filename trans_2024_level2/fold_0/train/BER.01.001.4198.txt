@@ -1,0 +1,58 @@
+Law ID: BER.01.001.4198
+Name: Ihnen den Getreyd-Verkauf anzubefehlen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 47/47
+# High similarity (>=50%): 44
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_148_r2l10 Signalement
+#facs_148_r2l11 Agé d'environ 40. ans, hauteur 5. pieds et 2. pouces, chez
+#facs_148_r2l12 Coll
+#facs_148_r2l13 veux abatus tirants sur le Rouge, les yeux Rous, le
+#facs_148_r2l14 Néz long, une grande Bouché, la Barbe rouge, Visage
+#facs_148_r2l15 tenu, la taille bien faite, Maçon de sa profession.
+#facs_148_r2l16 gehört ad pag. 266.
+#facs_148_r2l17 An
+#facs_148_r2l18 alle Amtleuth, wo Obrigkeitl. getreys ligt, item p. jede
+#facs_148_r2l19 an hiesige Schaffner.
+#facs_148_r2l20 Ihnen den Betreys, Verkauf anzubefehlen etc.
+#facs_148_r2l21 Schultheis Räth und Burger
+#facs_148_r2l22 Coll
+#facs_148_r2l23 Es ist von seiten Unserer verordneten Teutschen und Weltschen
+#facs_148_r4l1 287.
+#facs_148_r4l2 Veltschen Venner - Cammer der Vortrag über den dermahligen
+#facs_148_r4l3 de
+#facs_148_r4l4 Zustand der Oberkeitl. Kornhäüseren gethan worden, deßen
+#facs_148_r4l5 3.
+#facs_148_r4l6 chen Wir gutbefunden, und erkennt, von dem was über
+#facs_148_r4l7 die Ordinaria uns quasi Ordonaria, und die nächstbevorstehende
+#facs_148_r4l8 Pronfasten überschießen wird, aller SommerGewächs, und den
+#facs_148_r4l9 halben Theil der Winterfrucht zu versilberen, und zu verkaufen,
+#facs_148_r4l10 Wir befehlen also Euch mit Verkauffung der schlechtesten, und
+#facs_148_r4l11 mindst behältlichsten den anfang zu machen, und über das
+#facs_148_r4l12 erlösende seiner Zeit Rechnung abzustatten. Wie zu thun
+#facs_148_r4l13 Dath. d. 20th Janl. 1764
+#facs_148_r4l14 An
+#facs_148_r4l15 alle Teütsche Amtleüth, bis auch die Weltschen Amtläuth, Vier
+#facs_148_r4l16 Städt, Freyweibel und Amman; dann per Jadel an Mohlohl. der
+#facs_148_r4l17 Marechaussée, Cammer, und Zedel an Herren Großbeibel u
+#facs_148_r4l18 Herren Gerichtschreiber
+#facs_148_r4l19 Ihnen anbefehlen, auf den Ferdinans Anton Hafner, von
+#facs_148_r4l20 Meran, zu achten
+#facs_148_r4l21 Schultheis und Raht etc.
+#facs_148_r4l22 Wir sind von dem Römisch-kayserlich, königlichen Residenten
+#facs_148_r4l23 Herren von Marschall ersucht worden, auf den in Brau, zum
+#facs_148_r4l24 ten und dem Verhaft entwichenen, und in der Einlag be¬
+#facs_148_r4l25 schriebenen Ferdinand Anton Hafner, welcher Einer der Vier
+#facs_148_r4l26 Rädelsführen, das im Jahr 1762 erregten gefährlichen auflauft
+#facs_149_r3l1 auflauft zu Meran ist, in Unseren Landen achten¬
+#facs_149_r3l2 und auf betrecten solchen vestsezen zu laßen; Westbegen
+#facs_149_r3l3 Wir Eüch befehlen, hinter Eüerem Amt (oder bezirte) die
+#facs_149_r3l4 geflißene Anstalt zu dem End zu thun, und wo Er ent¬
+#facs_149_r3l5 deket, solchen in sicheren Verhaft gesetzet, und deme
+#facs_149_r3l6 nach Wie davon fürderlich berichtet werden. Dat. d. 22.
+#facs_149_r3l7 Marty 1764

@@ -1,0 +1,386 @@
+Law ID: BER.01.001.3547
+Name: Ihnen Recept wider die grassierende Rohte Ruhr zuschiken.
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 374/374
+# High similarity (>=50%): 363
+# Low similarity (<50%): 11
+# Not found: 0
+#
+#facs_343_r2l1 Vorschung.
+#facs_343_r2l2 Wider die dißmahls grassierende Rohte Ruhr.
+#facs_343_r2l3 Nachdehme Weghl. und Obern Auß tragens
+#facs_343_r2l4 Vätterlicher Vorsorg für Ihre Liebe untergeben
+#facs_343_r2l5 dißmahls an verschiedenen Ohrten außgebrochen
+#facs_343_r2l6 Röhte Ruhr von denen bestelten Stadt Arzten rei¬
+#facs_343_r2l7 lichen erkundigen, und was für Mittel das
+#facs_343_r2l8 wider zu gebrauchen, berahtschlagen laßen; habens
+#facs_343_r2l9 dieselben befunden, daß Sie von der groß¬
+#facs_343_r2l10 sitz, übermäßigem trinken, so wohl an be¬
+#facs_343_r2l11 tem daß er als schlechtem Bein, und raus
+#facs_343_r2l12 cher undäubiger Nahrung harfließen, der
+#facs_343_r2l13 durch dan der magen geschwächt und verderb¬
+#facs_343_r2l14 folglich dieses ein verdorbenen, und Scharff
+#facs_343_r2l15 Chylum verursachet, der Aller ganz re¬
+#facs_343_r2l16 und grimmen zu wagen bringt, da dan das
+#facs_343_r2l17 durch die große Hitz entzündete Geblüht.
+#facs_343_r3l1 68 3.
+#facs_343_r3l2 Seine Scharffe und feindliche Theile durch die
+#facs_343_r3l3 gedärm zu Dechargieren Sollicitiert, das Reißen
+#facs_343_r3l4 und grimmen verdoplet, und die Gedärm zu be¬
+#facs_343_r3l5 ständiger Entladung der feindliche, theilen gerei¬
+#facs_343_r3l6 get werden.
+#facs_343_r3l7 Daher folgende Michel darwider solle, gebrauchen
+#facs_343_r3l8 werden.
+#facs_343_r3l9 Num 1.
+#facs_343_r3l10 Ein purgier schulter Num 1. deßen und übriger
+#facs_343_r3l11 Mittle, Recept drunten zu finden, darvon Eine
+#facs_343_r3l12 20. Jährige Versohn und darüber ein quintljoder
+#facs_343_r3l13 aufs höchste anderthalb quintli, für ein zehen
+#facs_343_r3l14 jährige ein halb quinckl, und ein fünf jähriger
+#facs_343_r3l15 ein Viertel etc.
+#facs_343_r3l16 Num2.
+#facs_343_r3l17 Ist ein Electuarium, darzu Einer 20 jährigen ofersohn
+#facs_343_r3l18 und drüber sol geben werden anderthalb quintli, aufs
+#facs_343_r3l19 höchste zwey quintli, für eine zehen jährige der
+#facs_343_r3l20 halbig Theil deßen, für ein fünf Jährige Einviertel¬
+#facs_344_r2l1 Num 3.
+#facs_344_r2l2 Laudanum Liquidum, für Ein erwachtene
+#facs_344_r2l3 Obersohn 12 biß 15. Tropfen in Ein wenig zuerthen
+#facs_344_r2l4 oder anderem Baßer, bey alten Persohnen und
+#facs_344_r2l5 einigen Kindern aber in ein wenig brafft waßer
+#facs_344_r2l6 für eine Obersohn von 10. Jahren 6. Tropfen, für
+#facs_344_r2l7 Ein kind von anderthalb Jahren 1 Tropfen.
+#facs_344_r2l8 Num 4
+#facs_344_r2l9 Alpia Cordialis temperata, oder brafft laßer zu
+#facs_344_r2l10 gebrangen wie vom 3. staht und sonsten in
+#facs_344_r2l11 Schwachheiten.
+#facs_344_r2l12 Num 5.
+#facs_344_r2l13 Theriaca Andromachi, oder Diascordium fra=
+#facs_344_r2l14 castory, davon mit jeder Dosin der Latwerg
+#facs_344_r2l15 wan die Ruhr schon 5 oder mehr Tag gewähre
+#facs_344_r2l16 oder der Brankne sonsten schwach ist, für eine
+#facs_344_r2l17 Erwachsene Pfersohn 15. Gran, für Ein Zecht
+#facs_344_r2l18 Jährige 7oser 8. grau.
+#facs_344_r2l19 1. Betreffend nun den Gebrauch dieser Mietlen
+#facs_344_r2l20 muß nohtwendig observiert werden, daß
+#facs_344_r2l21 bey Anfang der Krankheit sonderlich van vor
+#facs_344_r3l1 685.
+#facs_344_r3l2 hiebei dabey, dem patienten soll oder gelaßen werden,
+#facs_344_r3l3 gar Junge und alte außgenommen
+#facs_344_r3l4 2. daß Abends nach der Aderläße soll dem Franbenen
+#facs_344_r3l5 eine Dosin von dem Laudana Liquido No. 3. It nach
+#facs_344_r3l6 beschaffenheit deß Alters beygebracht werden.
+#facs_344_r3l7 3 Deß Tagt hernach soll am morgen Ein prisen von
+#facs_344_r3l8 dem purgier selber No 1 Ich nach beschaffenheit
+#facs_344_r3l9 des Alters in Ein sfaar löstel prühen geben werden,
+#facs_344_r3l10 gleich abends darauf umb 5 Uhr bider eine Dosis
+#facs_344_r3l11 von dem Laudano Liquido N03.
+#facs_344_r3l12 4o folgenden Tags soll Er morgends und Abends
+#facs_344_r3l13 von dem Electuario No 2 ohne zuthun daß Theriacae
+#facs_344_r3l14 Andromachi nemen, wie auch Jedes mahls eine
+#facs_344_r3l15 Dosin tes demi laudano Liquido N° 3
+#facs_344_r3l16 5. Deß Tags hernach am Morgen wider Eine Dom¬
+#facs_344_r3l17 von dem a/urgiersfülber N° 1. und gleichen abends
+#facs_344_r3l18 darauf umb 5. Uhr wider eine Dosin von dem land¬
+#facs_344_r3l19 no Liquido. No. 3
+#facs_344_r3l20 6. daß Tags hernach wierumb Morgends uns Abends
+#facs_345_r2l1 Eine Dosin von dem Electuario No 2. mit
+#facs_345_r2l2 Zuthun der Theriacae Andromachi No. 5. vol.
+#facs_345_r2l3 ches so es von nöhten noch ein paar tag kan
+#facs_345_r2l4 continuiert werden.
+#facs_345_r2l5 Wann aber die Brankheit schon etliche Tag gewähret,
+#facs_345_r2l6 und der patient annoch bey etwelchen Kräfften,
+#facs_345_r2l7 so muß mann die Aderläße unterlaßen,
+#facs_345_r2l8 und mit dem purgier pulver anfangen.
+#facs_345_r2l9 im übrigen wie droben gemelt mit den
+#facs_345_r2l10 mittlen fortfahren, außgenommen daß man
+#facs_345_r2l11 nur Einmahl purgieren muß, und das
+#facs_345_r2l12 Electuarium mit der Theriaca Andromach
+#facs_345_r2l13 gebrauchen, uns so Es von nochten auch dar¬
+#facs_345_r2l14 Laudanum Liquidum geben.
+#facs_345_r2l15 Bey kleinen kinderen soll man sich bloßer
+#facs_345_r2l16 Dingen deß laudani Liquidi bedienen mir
+#facs_345_r2l17 gens und Abends.
+#facs_345_r2l18 Deßgleichen bey den Kindbeckerinnen und groß¬
+#facs_345_r3l1 1687.
+#facs_345_r3l2 Schwangeren, welchen letztern dann nachwehrts von dem
+#facs_345_r3l3 Electuario beyzubringen.
+#facs_345_r3l4 Übrigens ist zu Austheilung dieser Mietlen die
+#facs_345_r3l5 Prudentia Medica höchstens von nöhten
+#facs_345_r3l6 13. und insonderheit wohl achtung zu geben, daß nit
+#facs_345_r3l7 so sehr die mittel als die Ordnung wie elbe gebrauch
+#facs_345_r3l8 werden die Curaußmachen
+#facs_345_r3l9 Waßent wegen, weilen besonderlich durch unrechte,
+#facs_345_r3l10 Gebrauch deß Landani Liquidi, Es seye v bohl in
+#facs_345_r3l11 Ansehen der zeithen alß der quantitet Imglicher
+#facs_345_r3l12 Dosis allerhand mehrere ohngemach, ja gar der
+#facs_345_r3l13 Tod selbsten eben so leicht alß durch deßen Recht¬
+#facs_345_r3l14 mäßigen Gebrauch die gesundheit Jedem Patien¬
+#facs_345_r3l15 ten kan zu wegen gebracht werden, alß wird Er
+#facs_345_r3l16 zu Vermeidung aller daher beförchtenden Able¬
+#facs_345_r3l17 Wohl gethan seyn, wann man das Landarium liqui¬
+#facs_345_r3l18 dem in gebührender Dosi mit dem Electuario
+#facs_346_r2l1 darunter die Theriaca Andromacti wie
+#facs_346_r2l2 Obgemelt komme, vermischen wird. Zu welchem
+#facs_346_r2l3 Ens jeglichem gämtli des Electuarii 5. Trozte¬
+#facs_346_r2l4 von dem Laudano liquido bönn in corporin
+#facs_346_r2l5 werden. Diehören folglich zu einem Medicina¬
+#facs_346_r2l6 lichen Pfund vom 12. Untzen 480. Tropfen
+#facs_346_r2l7 von dem Laudano Liquido. Von also das Elleen
+#facs_346_r2l8 tuarium auf obgemelte weiß bereitet, soll
+#facs_346_r2l9 Mann sich des Übrigen gebrauchs des Laudanii
+#facs_346_r2l10 quidi völlig müßigen.
+#facs_346_r2l11 Verzeichnus Obvermelter Mittler
+#facs_346_r2l12 No 1°
+#facs_346_r2l13 R Rhabarb. pulver.
+#facs_346_r2l14 Agaric. Prochisc. Ana. q v.
+#facs_346_r2l15 No 2
+#facs_346_r2l16 h
+#facs_346_r2l17 Terr Sigill R
+#facs_346_r2l18 Rad. Terment, p. Ana. tbi
+#facs_346_r2l19 Corall Rubr. ppt. 31V.
+#facs_346_r2l20 Rasur. Priap. (A. 311)
+#facs_346_r2l21 Crystal pp 31
+#facs_346_r2l22 Trochisc. de Carab 3 is
+#facs_346_r2l23 Conserv. Ros. Sicc. 3V
+#facs_346_r3l1 1689.
+#facs_346_r3l2 Syrup. d. Symph.
+#facs_346_r3l3 Myrtill Anatly B
+#facs_346_r3l4 M.F. Electuar
+#facs_346_r3l5 No 3
+#facs_346_r3l6 laudani Liquidi q. v.
+#facs_346_r3l7 No 4.
+#facs_346_r3l8 Ag: Cordial Temper. q.v.
+#facs_346_r3l9 No 5
+#facs_346_r3l10 Theriac. Andromachj
+#facs_346_r3l11 l'
+#facs_346_r3l12 vel
+#facs_346_r3l13 Diascord. Fracastory 9.11.
+#facs_346_r3l14 Weilen aber obvernamsete Michel nicht aller
+#facs_346_r3l15 Ohrten auf dem Land gefunden werden, oder auch
+#facs_346_r3l16 eint oder anderem alzu kostbahr zu seyn scheinen.
+#facs_346_r3l17 möchten, als thut man nachfolgende beysehen
+#facs_346_r3l18 Anfänglich thut ein gläßlin frich Mandel Öhl
+#facs_346_r3l19 oder kaum ohl gemeinlich sehr guten Effect,
+#facs_346_r3l20 Andere mischen Es mit Eben so viel Nidlen
+#facs_346_r3l21 und nommen Es waren, sonsten kan mann etwas
+#facs_347_r2l1 Zu purgieren nommen, was Es immer ist, sofern
+#facs_347_r2l2 Es nur nit abzustärk ist, und solches nach
+#facs_347_r2l3 bendigkeit noch Ein oder gar zweymahlig
+#facs_347_r2l4 Alhren, hernach kan man sich der Tormente
+#facs_347_r2l5 Würtzel zu schulver gestoßen bedienen, Ich
+#facs_347_r2l6 morgends und Abends Ein quintli für
+#facs_347_r2l7 eine erwachsene Persohn, oder mann von
+#facs_347_r2l8 Zu diesem End gebrauchen das Braut
+#facs_347_r2l9 Schaaffgarb, sonderlich das so genante ruhr¬
+#facs_347_r2l10 braut, oder Mausohrlin in Milch gebocht,
+#facs_347_r2l11 oder den Bägerich Saamen, und auch das
+#facs_347_r2l12 waßer davon, oder die Akten Börner, und
+#facs_347_r2l13 Eichelen gestoßen im Teig vermischt, und
+#facs_347_r2l14 Büchlin daraus gemacht, oder auch die viele
+#facs_347_r2l15 den vom Eichbaum zu ofulber gestoßen, ita
+#facs_347_r2l16 die Glädter selbsten, und auch das waßer
+#facs_347_r2l17 Dabon
+#facs_347_r3l1 691
+#facs_347_r3l2 Ansehens die Diat so soll mann für die Spriß
+#facs_347_r3l3 Herstennuß oder Haberkernen muß der Ryß¬
+#facs_347_r3l4 Item Nydelbreyen gebrauchen. Das getränt soll
+#facs_347_r3l5 alles Barm, oder wenigstens Barmlecht seyn
+#facs_347_r3l6 Alß Herstenbrühen oder Haberbernen brühen, bühr
+#facs_347_r3l7 barme Milch, Milch oder Waßer mit Stachel
+#facs_347_r3l8 abgelöscht.
+#facs_347_r3l9 Aller Wein soll verbocken seyn.
+#facs_347_r3l10 Welches alles Meyhl. zum besten Ihrer Lieben angehöri¬
+#facs_347_r3l11 gen in öffentlichem Trut außgeben wollen.
+#facs_347_r3l12 sich deren nach belieben zu bedienen, darzu
+#facs_347_r3l13 der Allerhöchste seinen Segen verleichen
+#facs_347_r3l14 wolle. Actum den 2 6ten Augusti 1727.
+#facs_348_r2l1 Traduction
+#facs_348_r2l2 En Virait à la precoution Paternelle que [2]
+#facs_348_r2l3 Nos souverains seigneurs prenent pour le Bien
+#facs_348_r2l4 et Toutagement de Srs. fidelles et chers sujets
+#facs_348_r2l5 ils ont ordoné au Collége des Medecins à l'occasion
+#facs_348_r2l6 de La Tysenterie regnante en Divers Endroits,
+#facs_348_r2l7 vouloir bien attentivement examiner et con¬
+#facs_348_r2l8 sulter Son Principe et dequels Remedes l'on
+#facs_348_r2l9 pourroit se servir pour icelle, Il fut recom¬
+#facs_348_r2l10 que lad. Maladie provient de La grande Chaleur
+#facs_348_r2l11 Superfluite des Boissons tant par Eaux froide
+#facs_348_r2l12 que petits Vins, et Nourritures crües et indiges
+#facs_348_r2l13 tes, qui affoiblissent et gatent l'Estomac, ce
+#facs_348_r2l14 qui cause en suite un Chyle acte et corrampu,
+#facs_348_r2l15 d'ou naissent diverses fortes de tranchées et
+#facs_348_r2l16 soliques, de maniere que le sang qui par la
+#facs_348_r2l17 Chaleur excessive est enflamé, cherche à de
+#facs_348_r2l18 charger par les boyaux les particulrsaires et peu
+#facs_348_r2l19 cantes, redoubte les tranchées et coliques, de forte que les
+#facs_348_r2l20 boyaux étants continuellement imites, se dechar
+#facs_348_r3l1 6931
+#facs_348_r3l2 gent à tout moment de les particules et matiere.
+#facs_348_r3l3 peccantes
+#facs_348_r3l4 Pour cet Effet on employera les Remedes
+#facs_348_r3l5 suivants
+#facs_348_r3l6 No 1.
+#facs_348_r3l7 Une poudre à purger, dont la Recepte et celle des aut
+#facs_348_r3l8 res Remedes sont prescrittes cy apres, de quoy une
+#facs_348_r3l9 Persone de L'Age de 20. ans et au dessus, prendre
+#facs_348_r3l10 une Drachme ou pour le plus une drachine et demie
+#facs_348_r3l11 pour une persone de 10 ans demie Drachme, et une
+#facs_348_r3l12 de l'age de 5 ans, 15 grains.
+#facs_348_r3l13 No 2
+#facs_348_r3l14 Est un Electuarium de quoy l'on doit doner à Une Per¬
+#facs_348_r3l15 sone de l'Age de 20. ans et au dessus une Drachme
+#facs_348_r3l16 et demie, ou au plus deux drachmes, A l'age de 10
+#facs_348_r3l17 Ans la moitie, et à l'age de 5 ans le quart
+#facs_348_r3l18 No. 3
+#facs_348_r3l19 Laudanum Liquidum, pour une Persone de 20. ans
+#facs_348_r3l20 et au dessus, 12 ans jusques à 15 goutes dans un
+#facs_348_r3l21 peu d'Eau de Bourrache ou autre, mais au personnes
+#facs_348_r3l22 agées et aux jeunes enfants, dans un peu d'Eau Cordi,
+#facs_348_r3l23 le, pour Une persone de 10. ans 6. goutes, et
+#facs_349_r2l1 et pour un Enfant d'un Ance et demie 1 goute
+#facs_349_r2l2 No 4.
+#facs_349_r2l3 Aqua Corblans temperata, ou Eau cordiale, l'on
+#facs_349_r2l4 doit s'en seroir come cy dessus marqué à Ne.
+#facs_349_r2l5 de même en foiblesse
+#facs_349_r2l6 No. 5
+#facs_349_r2l7 Theriaca Andromache ou Diascordium Fracastory
+#facs_349_r2l8 pour en prendre chaque fois 15. grains, pour une
+#facs_349_r2l9 persone de 20 ans et au dessus avec l'Electreamie
+#facs_349_r2l10 quant la Lysenterie auroit deja dure et fours
+#facs_349_r2l11 ou plus, Rique le Malade se trouverat sans
+#facs_349_r2l12 cela foible et accable, et pour l’age de 10. An
+#facs_349_r2l13 7. ou 8 grains
+#facs_349_r2l14 N. Quant à la maniere de ce servir de ces Remes
+#facs_349_r2l15 des il est necessairement à observer qu'au
+#facs_349_r2l16 Comencement de la Maladie, sur tout si Elle est
+#facs_349_r2l17 accompagnée d'une forte fievre, l'on doit faire
+#facs_349_r2l18 Saigner le Malade, excepté les Persones agée
+#facs_349_r2l19 ou fort feunes.
+#facs_349_r2l20 2. Le soir apres la saignée, l'on donnera au Malade
+#facs_349_r3l1 695
+#facs_349_r3l2 une Dose du Laudanumliquidum, N° 3. à proporti
+#facs_349_r3l3 on de son age
+#facs_349_r3l4 3. Le four suivant, l'on doit doner au matin une
+#facs_349_r3l5 prise de la poudre à purger, No. 1 a proportion de
+#facs_349_r3l6 son Age, dans un Couple de Cuillerées de bouillons
+#facs_349_r3l7 et le même soir à 5 heures drechef une close de
+#facs_349_r3l8 Laudanum Liquicum. No. 3
+#facs_349_r3l9 4. Le jour apres il se servira matin et soir de l'eleche,
+#facs_349_r3l10 grium N°2. Sans ajouter du Theriaque Andromacht
+#facs_349_r3l11 come de même aussi chaque fois une close de Lauda¬
+#facs_349_r3l12 num Liquidum. No. 3
+#facs_349_r3l13 3. Le lendemain matin, derechef une Dose de poud,
+#facs_349_r3l14 re à purger N°1. et le même loir à 5. heures
+#facs_349_r3l15 encore une Dose de ce Laudanum Liquidum No. 3
+#facs_349_r3l16 6. Le jour suivant l'on aura encore soin de lui faire
+#facs_349_r3l17 prendre matin et soir une close de cet Electuarium
+#facs_349_r3l18 No 2 avec le Theriaque Andromachj. N° 5. ce qu'il
+#facs_349_r3l19 continuera encore un couple de jours s'il est Ne-
+#facs_349_r3l20 cessaire
+#facs_350_r2l1 Mais si la Maladie auroit deja durée plusieurs
+#facs_350_r2l2 jours, et que le malade eut encore quelques for¬
+#facs_350_r2l3 ces, alors on se passera de le saigner, et on con
+#facs_350_r2l4 mencera avec la poudre à purger; au reste les
+#facs_350_r2l5 continuera avec les Remedes come cy dessus mes
+#facs_350_r2l6 tioné, excepté qu'on ne purgera qu'une fois
+#facs_350_r2l7 et que cet Electuarium doit être Melé avec
+#facs_350_r2l8 le theriaque Androm Knty
+#facs_350_r2l9 Par contre, si la matadie auroit duré une
+#facs_350_r2l10 Semaine ou plus long tems, ou que le malade
+#facs_350_r2l11 fut fort foible, et accablé, en ce cas l'on doit
+#facs_350_r2l12 ny le saigner, ny purger, mais seulement
+#facs_350_r2l13 Le Servir de l'Electuarium avec le Theriaque
+#facs_350_r2l14 Andromachj, et si de besoin est, lui doneraussé
+#facs_350_r2l15 le laudanum Liquidum
+#facs_350_r2l16 Pour les Enfans on le servira uniquement matin
+#facs_350_r2l17 et soir du Laudanum Liquidum
+#facs_350_r2l18 L'on observera aussi les mêmes Regles pour les
+#facs_350_r2l19 femmes en couche, de meme que pour celles
+#facs_350_r3l1 ie
+#facs_350_r3l2 qui sont pretes d'accoucher, auquelles dernieres on don-
+#facs_350_r3l3 Prae en suite de l'Electuarium
+#facs_350_r3l4 Il est au reste tres necessaire de distribuer ces Reme-
+#facs_350_r3l5 des avec beaucoup de prudence.
+#facs_350_r3l6 13. Sur tout l'on doit observer que la maniere et
+#facs_350_r3l7 l'ordre de ce servir de ces Remedes en fort tout le me
+#facs_350_r3l8 rite
+#facs_350_r3l9 Et come le mauvais usage que l'on pourroit faire par
+#facs_350_r3l10 ticulierement du landanum Liquidum, soit en le
+#facs_350_r3l11 donant hors des tems marqués cy dessus, soit en ob,
+#facs_350_r3l12 servant pas la quantité de la Dose prescritte, pour
+#facs_350_r3l13 roit causer divers inconveniens même la mort
+#facs_350_r3l14 aussi facilement que le bon usage peut procurer
+#facs_350_r3l15 la santé, c'est pour que l'on faira bien de méler la
+#facs_350_r3l16 dose convenable de Laud: Liquid: avec l'Elecluarium
+#facs_350_r3l17 dans lequel le Theriaque est déja entre, pour cet
+#facs_350_r3l18 Effet on pourra meler à chaque drachme de l'Elec¬
+#facs_350_r3l19 tuaire St. Goutes de Laud: Liquid: par Consequent Il
+#facs_351_r1l1 doit en voir à chaque livre medicinate du
+#facs_351_r1l2 12. Onces
+#facs_351_r1l3 480. gouttes de Laud: lig:
+#facs_351_r1l4 Si donc cet Electuaire est prepare de telle Marie
+#facs_351_r1l5 re, l'on doit entierement au reste le passer du
+#facs_351_r1l6 l'usage de Land: Liquid: Seul
+#facs_351_r1l7 Liste des Remedes cy dessus mentiones.
+#facs_351_r1l8 No. 1
+#facs_351_r1l9 Rec. Rhabarb. pulv.
+#facs_351_r1l10 Agaric. Trochisc.ana. q. v.
+#facs_351_r1l11 No2
+#facs_351_r1l12 Rec. Terr. Sigillat
+#facs_351_r1l13 Rad vorment p. ann tb
+#facs_351_r1l14 Corall. Rubr. ppt. 311
+#facs_351_r1l15 Rasur. Priap. Cet 3111.
+#facs_351_r1l16 Crystall ppt. 31/
+#facs_351_r1l17 Prochise. de Carab. 3 1/5.
+#facs_351_r1l18 Conserv. Rosar. sive 3. VI.
+#facs_351_r1l19 Syrupp de Symph.
+#facs_351_r1l20 Myrkill. Ana. Wiss.
+#facs_351_r1l21 M.F. Electuar
+#facs_351_r1l22 No 3
+#facs_351_r1l23 Rec landarij Liquid. q. v.
+#facs_351_r1l24 No 4
+#facs_351_r1l25 Rec. a q. Cordial. Temper. q. v.
+#facs_351_r2l1 699
+#facs_351_r2l2 No 5
+#facs_351_r2l3 Req. Theriac. Andromachi
+#facs_351_r2l4 vel
+#facs_351_r2l5 Diascord. Fracastory q. v.
+#facs_351_r2l6 Et come les Remedes cy dessus prescrits ne peuvent
+#facs_351_r2l7 etre trouves dans tous les Endroits de la Campagne
+#facs_351_r2l8 ou qu'ils paroitront à quelques Uns trop chers, pour
+#facs_351_r2l9 cette Raison on à bien voulu joindre encore les sui-
+#facs_351_r2l10 vants, Un petit verre d'huile d'Amandre oud Olive frai,
+#facs_351_r2l11 che fait ordinairement un tres bon Effet, d'autres
+#facs_351_r2l12 le mêlent avec autant de Cême, et s'en servent
+#facs_351_r2l13 chaudi autrement l'on peut du Commencement prêve
+#facs_351_r2l14 re quelque Medecine pour purger, n'importe de quoi
+#facs_351_r2l15 pourvu qu'elle ne soit seulement trop forte, et la reite-
+#facs_351_r2l16 rer encore une fois ou deux, suivant le besoin, Ensuite
+#facs_351_r2l17 l'on peut se servir de la Racine de Formen tille pilée,
+#facs_351_r2l18 en poudre, matin et soir une Drachme pour Une
+#facs_351_r2l19 Persone de 20. ans et au dessus, ou l'on peut aussi
+#facs_351_r2l20 pour cette occasion se servir de l'herbe Millefeuille,
+#facs_351_r2l21 principalement de l'oreille de Lourir ou pilozelle
+#facs_352_r2l1 faure civile dans du lait, ou de la semence de
+#facs_352_r2l2 mainrain, de même que de son eau, ou les grau
+#facs_352_r2l3 ries de jureau et des glands pilés, petris dans de
+#facs_352_r2l4 la pate et en faire des Buignets, Item l'Ecou
+#facs_352_r2l5 de Même pilée en poudre, même aussi les feu-
+#facs_352_r2l6 les et lon eaux
+#facs_352_r2l7 Quant au Regime de Vie, l'on Usera pour sa
+#facs_352_r2l8 Nourriture de Loupes à l'orge, au Grü d'Avoine
+#facs_352_r2l9 du lait chaud, sortant de la Vache, du lait
+#facs_352_r2l10 ou Eau de trampé avec de l'acier chaud.
+#facs_352_r2l11 l
+#facs_352_r2l12 Tout le Vin doit Etre deffendu
+#facs_352_r2l13 5
+#facs_352_r2l14 leurs Ei. ont bien voulu faire imprimer ces presens
+#facs_352_r2l15 les pour le bien de leurs bien aimes sujets, pour
+#facs_352_r2l16 pouvoir s'en servir a Volonté dans l'occasion
+#facs_352_r2l17 à quoy le seigr. veuille accorder sa sainte
+#facs_352_r2l18 Benediction. Donc le 26me aoust. 1727.

@@ -1,0 +1,576 @@
+Law nr: BER.01.001.4589
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 565/565
+# High similarity (>=80%): 545
+# Low similarity (<80%): 20
+# Not found: 0
+#
+#facs_28_r4l1 Coll
+#facs_126_r1l1 244
+#facs_230_r5l2 jedermäniglich verhalt bekant machen
+#facs_230_r5l3 zu laßen, und in denen Schloß
+#facs_230_r5l4 Kücheren zu könfftiger Nachricht
+#facs_230_r5l5 in Zufehreiben) an die Herrschafts¬
+#facs_230_r5l6 Herren:/ befehlen Wir Euch, Hand
+#facs_230_r5l7 obzuhalten, daß deme nachgelebt
+#facs_281_r1l16 werde.
+#facs_230_r5l9 Dat. den 29ten Juny 1786.
+#facs_230_r5l10 Wir Schullheisz klein und
+#facs_341_r2l15 Große Räthe der Stadt und Re¬
+#facs_230_r5l12 Bern, thun kund hiemit; demnach
+#facs_230_r5l13 Uns bekant worden, daß einige Unserer
+#facs_230_r5l14 lieben und getreuen Angehörigen
+#facs_230_r5l15 in den irrigen Regriffen stehen
+#facs_230_r5l16 daß ihnen erlaubt und zugelassen
+#facs_230_r5l17 sey, denenjenigen Unserer Ober im
+#facs_230_r5l18 Unter Amtleuten, von welchen
+#facs_230_r5l19 sie Ämter, Stellen oder Dienste
+#facs_230_r5l20 erhalten haben, nachberts einige
+#facs_230_r5l21 discration oder Geschenk zu Rezeug¬
+#facs_230_r5l22 ung ihrer Dankbarkeit zu geben;
+#facs_230_r5l23 Unser Will aber ist, daß alle Ämter,
+#facs_230_r5l24 Stellen oder Dienste, die Unferen¬
+#facs_231_r1l1 445.
+#facs_231_r2l1 Amtleuten oder andern Dicasteriz
+#facs_231_r2l2 anvertraut werden, denen selben
+#facs_231_r2l3 unentgeltlich zukommen sollen; als
+#facs_231_r2l4 haben Wir zu mehrerer vollständig¬
+#facs_231_r2l5 beit und genauer Verbachtung des
+#facs_231_r2l6 Mieth und Gaben Mandats vom 31ten
+#facs_231_r2l7 Merz 1727. gegen die Annehmung
+#facs_231_r2l8 der Geschenke angemessen und
+#facs_231_r2l9 nöthig erachtet, fest zu sehen, und
+#facs_231_r2l10 zu verordnen.
+#facs_231_r2l11 Daß gleichbie in folg obigen
+#facs_231_r2l12 Mandats unter dem Namen Honge
+#facs_231_r2l13 enzen, weder vorher noch nachher,
+#facs_231_r2l14 hieine geschenke sollen angenommen
+#facs_231_r2l15 berden, allso auch in Zuhauft
+#facs_231_r2l16 allen Unferen lieben und getreuch
+#facs_231_r2l17 angehörigen, was Standssie immer
+#facs_231_r2l18 seyn mögen, welche in gesamten
+#facs_231_r2l19 Unseren Städten und Landen
+#facs_231_r2l20 anneter, Stellen, Dienste oder
+#facs_231_r2l21 Beförderungen im Geistlichen
+#facs_231_r2l22 Politischen = oder Militärstand
+#facs_231_r2l23 erhalten, wie auch allen denenjenigen
+#facs_231_r2l24 welche sich um Freyheiten-Privilegium
+#facs_12_r6l1 44
+#facs_231_r3l2 und aller Arten von Gnaden beberben,
+#facs_231_r3l3 alles Ernsts, und bey nachgesehter
+#facs_231_r3l4 Straf verbotten sey, in Absicht und
+#facs_231_r3l5 Rüksicht deren Erlangung, an jemand
+#facs_231_r3l6 ber er immer seyn mag, ohne
+#facs_231_r3l7 einige Ausnahm, weder Geld noch
+#facs_231_r3l8 Gelds Werth, weder vor noch nach Er¬
+#facs_231_r3l9 faltung der Beförderung oder Gnad
+#facs_231_r3l10 Beder durch sich selbst noch jemand
+#facs_231_r3l11 anders anzubieten, zu geben oder
+#facs_231_r3l12 zu versprechen, wenn auch schon
+#facs_231_r3l13 forher deshalb nichts wäre verheißen
+#facs_231_r3l14 Auch
+#facs_231_r3l15 oder verabredet worden.
+#facs_231_r3l16 falls ihnen unbüßend etbas gegeben
+#facs_231_r3l17 oder versprochen worden, nicht nur
+#facs_231_r3l18 nichts dafür gut zu machen, sondern
+#facs_231_r3l19 Bann es ihnen bekant bürde, solches
+#facs_231_r3l20 dem Richter getreulich anzuzeigen,
+#facs_231_r3l21 Mithin sollen in allen diesen Fällen,
+#facs_231_r3l22 gleichbie in Rechtshändeln, anders
+#facs_231_r3l23 nichts, als die von uns in den
+#facs_231_r3l24 Reglementen, Gerichts Ordnungen
+#facs_231_r3l25 und Tarifen bestimte Emolument.
+#facs_231_r3l26 und Siegelgeld behalt werden.
+#facs_11_r2l1 41
+#facs_232_r2l1 Nemit auch dieser Unserer Landes¬
+#facs_232_r2l2 bäckerlichen Verordnung bestens
+#facs_232_r2l3 nachgelebt werde, soll selbige aller
+#facs_232_r2l4 Orten von Kanseln publisiert
+#facs_232_r2l5 und in die Mandaten = und Gericht¬
+#facs_232_r2l6 bücher eingeschrieben werden.
+#facs_232_r2l7 Alles gegen die Wiederhandelnde
+#facs_232_r2l8 unter der unausbleiblichen Straf
+#facs_232_r2l9 der Entstehung von allen Ämtern
+#facs_232_r2l10 und Diensten, so einer haben möchte,
+#facs_232_r2l11 und einer Ruß in Geld von vier,
+#facs_232_r2l12 fachem Werth des angebodtenen
+#facs_232_r2l13 gegebenen oder versprochenen
+#facs_232_r2l14 Und die, so keine Äamter oder
+#facs_232_r2l15 Dienste hädten, sollen, nebst Er
+#facs_232_r2l16 legung gemeldter Ruß, je nach
+#facs_232_r2l17 den Umständen, noch mit Leibes
+#facs_232_r2l18 straf belegt werden.
+#facs_232_r2l19 Die Anzeige der Übertreffung
+#facs_232_r2l20 dieser Ordnung, kann mündlich
+#facs_232_r2l21 überschrifftlich, leztern falls jedoch
+#facs_232_r2l22 mit Reysetzung des Verleiders
+#facs_232_r2l23 Namen, an Unsern Geheimden
+#facs_232_r2l24 Rath oder eines seiner Ehrengliedern
+#facs_104_r1l2 Col
+#facs_6_region_1633454281779_2775l1 d
+#facs_12_r6l1 44
+#facs_232_r5l2 geschehen des Angebers Namen aber
+#facs_232_r5l3 soll unter Eidespflicht verschwiegen
+#facs_232_r5l4 bleiben; beim ersteine Anzeige
+#facs_232_r5l5 erweiset, soll ihme auch obige Ruß,
+#facs_232_r5l6 wenn er schon der Geber gebesen
+#facs_232_r5l7 nach Vorschrifft vorangezogenen
+#facs_232_r5l8 Mieth und Gaben Verbatts zukommen,
+#facs_232_r5l9 und seine Fehler ihme vergeben
+#facs_80_r2l15 seyn.
+#facs_14_region_1627971801863_33l7 Geben in Unserer großen Raths¬
+#facs_232_r5l12 Bersamlung den 29ten Strachmonats
+#facs_214_r2l7 1786.
+#facs_21_region_1633454498812_2865l23 Canzleyvern.
+#facs_83_r3l6 en
+#facs_47_r3l6 Traduction.
+#facs_232_r5l16 ous L'advoyer, petit et
+#facs_232_r5l17 grand Conseil de la Ville et Repul¬
+#facs_232_r5l18 lique de Berne, savoir faisons par
+#facs_232_r5l19 les présentes: Informés, que plusieurs
+#facs_232_r5l20 de nos chers et fideles Ressortissans
+#facs_232_r5l21 croyent mal a-propos, qu'il leur
+#facs_232_r5l22 est libre & permis, apres avoir obtenu
+#facs_233_r1l1 149
+#facs_233_r2l1 quelque Emplie Office, ou Charge,
+#facs_233_r2l2 d'offrir un Don ou Present à nos
+#facs_233_r2l3 Ballifs & Subdélegués, a qui ils en
+#facs_233_r2l4 ont l'obligation; notre intention
+#facs_233_r2l5 au contraire étant, que tous les
+#facs_233_r2l6 Emplois, offices ou charges quelconque
+#facs_233_r2l7 conféres à nos ressortissants, soit
+#facs_233_r2l8 par nous, soit par nos Baillifs
+#facs_233_r2l9 & autres Tribunaux quelcon ques
+#facs_233_r2l10 directement ou à leur recommandation
+#facs_233_r2l11 le soient gratuitement; nous avons
+#facs_233_r2l12 au plus ample & afin que notre
+#facs_233_r2l13 Décret du 31 mars 1727 portant
+#facs_233_r2l14 défense d'acceptation de quel Don
+#facs_143_r4l22 que ce puisse être, à toutes les Postes et
+#facs_233_r2l16 ment observé, trouvé convenable &
+#facs_233_r2l17 nécessaire de statuer et d'ordonner
+#facs_233_r2l18 Que, tout comme par le sus dit
+#facs_233_r2l19 mandat il est défendu d'accepter
+#facs_233_r2l20 sous le nom d'honnoraires ou epices
+#facs_233_r2l21 aucun Don quelconque, soit avant
+#facs_233_r2l22 soit après avoir conféré quelque
+#facs_233_r2l23 Emploi ou grace, ainsi à l'avenir
+#facs_233_r2l24 il soit interdit très sévérement
+#facs_15_region_1633454385876_2820l23 = 150
+#facs_233_r3l2 & sous les peines ci-après énoncées,
+#facs_233_r3l3 a tous ceux de nos chers & fidelles
+#facs_233_r3l4 ressortissants, de quelque qualité
+#facs_233_r3l5 ou condition qu'ils soient, qui ob¬
+#facs_233_r3l6 tiendront en nos Villes & Pays de
+#facs_233_r3l7 emplois, offices & charges, ou qui
+#facs_233_r3l8 seront promus a quelque dignité
+#facs_233_r3l9 ecclésiastique, civile ou militaire, ainsi
+#facs_233_r3l10 qu'à ceux qui solliciteront pour des
+#facs_233_r3l11 immunités privilèges, ou autres graces
+#facs_233_r3l12 quelconques, d'offrir, dans la vue &
+#facs_233_r3l13 aux fins de les obtenir ou faire
+#facs_233_r3l14 offrir, donner ou promettre, a qui &
+#facs_233_r3l15 par qui que ce soit, directement ou
+#facs_233_r3l16 indirectement, soit avant soit aprés
+#facs_233_r3l17 leur promotion, ou la grace obtenue
+#facs_233_r3l18 ni de l'argent comptant, ni aucun
+#facs_95_r2l1 für einmahl und bis auf Unseren
+#facs_233_r3l20 n'eut rien promis, ou que l'on n'en
+#facs_233_r3l21 fut point convenu ensemble aupa=
+#facs_233_r3l22 ravant. Voulant qu'au cas qu'a
+#facs_233_r3l23 leur insçu il se fut donné au pro-
+#facs_233_r3l24 mis quoique ce soit, non-seulement
+#facs_233_r3l25 ils n'en restituent rien, mais qu'au
+#facs_13_r5l1 45.
+#facs_234_r2l1 contraire la chose venant à leur
+#facs_234_r2l2 connoissance ils denoncent les contres
+#facs_234_r2l3 mants sans remission au Juge
+#facs_234_r2l4 du lieu, & qu'en tous ces cas, ainsi
+#facs_234_r2l5 que pour affaires de procedure
+#facs_234_r2l6 l'on ne paye que les Emolumens
+#facs_234_r2l7 ordinaires, pour l'expedition & les
+#facs_234_r2l8 sceaux, fixés par nos Réglemens
+#facs_234_r2l9 Ordonnances judiciaires & Tarifs.
+#facs_234_r2l10 Et pour que la présente ordon
+#facs_234_r2l11 nance Souveraine soit strictement
+#facs_234_r2l12 observée, nous voulons, quelle soit
+#facs_234_r2l13 lue & publiée en Chaire, & inscrite
+#facs_234_r2l14 aux Protocolles des Mandats, ainsi
+#facs_234_r2l15 qu'aux Greffes respectifs, en toutes
+#facs_234_r2l16 les Villes & Pays de notre Domination
+#facs_234_r2l17 Le tout, pour les contre crévants
+#facs_234_r2l18 sous la peine irrémissive de cassa
+#facs_234_r2l19 tion de tout emploi & office qu'ils
+#facs_234_r2l20 pourroient occuper, & d’une amende
+#facs_234_r2l21 préuniaire, quadruple en valeur
+#facs_234_r2l22 du Don offert, livre ou promis.
+#facs_234_r2l23 Et quant à ceux qui ne seront point
+#facs_234_r2l24 pourvus d'emplois, nous les condamnons
+#facs_13_r5l1 45.
+#facs_234_r3l2 non-seulement à l’amende susdite
+#facs_234_r3l3 mais en outre à une punition cor-
+#facs_234_r3l4 porelle, proportionnée aux circons-
+#facs_234_r3l5 tances & à la gravité du cas
+#facs_234_r3l6 La dénonce des contrevenants au
+#facs_234_r3l7 présent Decret pourra se faire, soit
+#facs_234_r3l8 à notre Conseil Secret, soit a un
+#facs_234_r3l9 seul membre d'icelui, verbalement
+#facs_234_r3l10 où par écrit, mais en ce dernier
+#facs_234_r3l11 cas le Dénonciateur la Signera de
+#facs_234_r3l12 son nom, qui sera tenu secret sou-
+#facs_234_r3l13 serment, voulant qu'au cas qu'il
+#facs_234_r3l14 prouve duement sonktusation,
+#facs_234_r3l15 l'amende susdite lui soit delivrée
+#facs_234_r3l16 en entier & sa faute pardonnée, s'il
+#facs_234_r3l17 avoit été le Donneur même; & ce
+#facs_234_r3l18 à teneur de l’ordonnance susmentionée
+#facs_234_r3l19 du 31e mars 1727. portant défense
+#facs_234_r3l20 d'acceptation de Dons quelconques.
+#facs_67_r4l16 Schaden erlieten, alt
+#facs_234_r3l22 le 29e juin 1786.
+#facs_304_r2l21 Car telle et notre volonte
+#facs_13_r5l1 45.
+#facs_28_r4l1 Coll
+#facs_23_region_1633454616028_2913l1 An
+#facs_221_r1l2 alle deutsch und welsche Herren
+#facs_229_r5l13 Amtleut, vier Städt-Freyweibel
+#facs_117_r5l16 und Amann
+#facs_235_r3l5 Schbarzenburg Prof. Murten und
+#facs_235_r3l6 Tcherlich Stadthalter, item Baden
+#facs_235_r3l7 Amtstadthalter
+#facs_235_r3l8 Gadtag auf den 7ten Septemb. angesetzt.
+#facs_235_r3l9 Schultheiß und Rath etc. Es hat
+#facs_235_r3l10 eine lobl. Evangelische Eidgnoschaft
+#facs_235_r3l11 wiedermahlen einen allgemeinen
+#facs_235_r3l12 fast = Ruß = Stadt und Danksagungs
+#facs_235_r3l13 Tag, auf Donstab den 7ten Herbst¬
+#facs_235_r3l14 monat nächstkäuftig bestimt, da
+#facs_235_r3l15 mit nun dieser feyrliche Tag
+#facs_235_r3l16 auf eine angemessene Weise in
+#facs_235_r3l17 Unseren Landen öffentlich verkündet
+#facs_235_r3l18 werde; befehlen Wir Euch, von bey¬
+#facs_235_r3l19 gehender Publication jedem Pfarrer
+#facs_235_r3l20 in Eüerem Amt fördersamst ein
+#facs_235_r3l21 doppel mit dem Befehl zu über¬
+#facs_235_r3l22 senden, solche Publication ohnfehl
+#facs_235_r3l23 bahrlich Bontag Morgens den 20ten
+#facs_235_r3l24 Augstmonat vor der Predig von
+#facs_28_r4l1 Coll
+#facs_23_region_1633454616028_2913l1 An
+#facs_23_region_1633454616028_2913l1 An
+#facs_23_region_1633454616028_2913l1 An
+#facs_13_r5l1 45.
+#facs_235_r7l2 der Cansel zu verlesen, zu welchen
+#facs_235_r7l3 End eine genügteme Anzahl Exemplar
+#facs_235_r7l4 beygefügt werden.
+#facs_235_r7l5 Dat. den 10ten July 1786.
+#facs_235_r7l6 Nidau. Ihr berdet die Anstalten
+#facs_175_r4l17 gewohnter maßen Thun, daß dieser däten
+#facs_235_r7l8 Räckag in dem Münsterthal ver¬
+#facs_235_r7l9 kundet und gefeyret werde.
+#facs_53_r8l16 Fraubrunnen
+#facs_235_r7l11 Ihnen wegen des Bucheggbergs ein¬
+#facs_235_r7l12 gleichen befehlen.
+#facs_45_r3l15 Königsfelden. Dabey Ihr auch wegen
+#facs_340_r3l17 leisten, und darinne mit Eüren
+#facs_235_r7l15 das nötige zu Feyrung dieses
+#facs_235_r7l16 tags anordnen berdet.
+#facs_31_r5l15 Publication
+#facs_297_r5l2 Wir Schultheiß und
+#facs_235_r7l19 der Stadt und Republil Bern,
+#facs_235_r7l20 entbieten unseren lieben und
+#facs_236_r1l1 456.
+#facs_236_r2l1 getreuen Burgern und Angehörigen
+#facs_236_r2l2 zu Stadt und Lande unseren gnä¬
+#facs_236_r2l3 ligen und geneigten Willen, und
+#facs_236_r2l4 geben dabey zu vernemmen.
+#facs_236_r2l5 daß Wir mit und neben den
+#facs_236_r2l6 Hochlöblichen Ständen der Evangelischen
+#facs_236_r2l7 Eid-gnoßschaft einen allgemeinen
+#facs_236_r2l8 fast = Redt= Ruß= und Danksagungs
+#facs_236_r2l9 tag angeordnet, auf sonstag des
+#facs_236_r2l10 7ten Herbstmonat nächstkönftig, den
+#facs_236_r2l11 Wir mit aller Feyerlichkeit wollen,
+#facs_236_r2l12 begangen wißen.
+#facs_236_r2l13 zuerst wird es darum Futhun
+#facs_236_r2l14 seyn, daß man die heiligen Tage
+#facs_236_r2l15 hinüber in stiller Eingezogenheit,
+#facs_236_r2l16 mit godtseliger Andacht, durch eine
+#facs_236_r2l17 sorgfältige Selbstprüfung, durch
+#facs_236_r2l18 bestmögliche Erstadtung des allen¬
+#facs_236_r2l19 falls seinem Nächsten angethanen
+#facs_236_r2l20 Unrechts durch Verzeihung der
+#facs_236_r2l21 empfangenen Beleidigung, durch
+#facs_236_r2l22 fromme Entschlüße zu einem bes-
+#facs_236_r2l23 seren Leben, und durch einen bürdigen
+#facs_236_r2l24 Genuß des heiligen Abendmahls
+#facs_13_r5l1 45.
+#facs_236_r3l2 unter Gebett und Flehen zu Goct
+#facs_236_r3l3 sich gebührend darauf vorbereite.
+#facs_236_r3l4 In Ansehen dann des von Uns an¬
+#facs_236_r3l5 geordneten Tages selbst, so ist unser
+#facs_236_r3l6 ernstlicher Wille, daß man ihn zu
+#facs_236_r3l7 einem wahren Ruß- und Rectage
+#facs_236_r3l8 mache, wo man sich vor Godt demüthige;
+#facs_236_r3l9 Ihn um Gnade und Verzeihung für
+#facs_236_r3l10 Stadt und Land bete, und reuend-
+#facs_236_r3l11 über die Sünden seine ferneren
+#facs_236_r3l12 Verschonungen erflehe, auch aus
+#facs_236_r3l13 vielen mächtigen Gründen, die uns
+#facs_236_r3l14 fahr auffodern; einerseits die in
+#facs_236_r3l15 Schlang gehenden Sünden; der Herr
+#facs_236_r3l16 schende Fleischesstinn, die Unbeusch¬
+#facs_236_r3l17 heit, die Hoffart und Ueppihbeit,
+#facs_236_r3l18 der Geschmak an schlechten Rüchern
+#facs_236_r3l19 die nicht nur Zeit verderbend,
+#facs_236_r3l20 sondern ein Ghift für den ver¬
+#facs_236_r3l21 stand und das Herzsind, die
+#facs_236_r3l22 Gleichgültigkeit gegen Religion
+#facs_236_r3l23 und Gottesdienst, der Leichtstinn im
+#facs_236_r3l24 danken und Reden, der Beist der
+#facs_236_r3l25 Unabhängigkeit, der keinen Gesähen
+#facs_13_r5l1 45.
+#facs_237_r2l1 und Ordnungen sich mehr unter
+#facs_237_r2l2 berfen will, und andere solche
+#facs_237_r2l3 kunden und Laster noch mehr, an
+#facs_237_r2l4 denen Wir Unser größtes Miß¬
+#facs_237_r2l5 fallen haben, und von denen Wir
+#facs_237_r2l6 befürchten müßen, daß sie die
+#facs_237_r2l7 Gerichte Godtes reisen, und die
+#facs_237_r2l8 allergrößten Uebel nach sich ziehen
+#facs_237_r2l9 könten, wenn ihnen nicht beyzeiten
+#facs_237_r2l10 Inhalt gethan würde; ander
+#facs_237_r2l11 seits sinds mancherley bedenkliche
+#facs_237_r2l12 Warnungen, die Godt noch dieses¬
+#facs_237_r2l13 Jahr an unser Land ergehen
+#facs_237_r2l14 laßen. Hier schrekliche ungebieter,
+#facs_237_r2l15 die Saat und Aerndte und Weinlese
+#facs_237_r2l16 zu Grunde gerichtet; dorten Furcht
+#facs_237_r2l17 bare Ueberschwennungen, die
+#facs_237_r2l18 ganze große Rezirke in die aüs¬
+#facs_237_r2l19 Verste Noth versehet.
+#facs_237_r2l20 Alles
+#facs_237_r2l21 mächtige Stimmen, die uns zur
+#facs_237_r2l22 ruße ruffen, ehe dann es zu
+#facs_237_r2l23 späte und keine Redtung mehr
+#facs_130_r3l27 sey.
+#facs_237_r2l25 Noch liegt uns eine andere
+#facs_237_r3l1 459.
+#facs_237_r3l2 große Pflicht dieses Tages am Herrn
+#facs_237_r3l3 die Pflicht der Danksagung gegen
+#facs_237_r3l4 Godt für alle seine Uns und dem
+#facs_237_r3l5 ganzen Land bewiesenen Gut- und
+#facs_237_r3l6 Wohlthaten, zumalen für den Seegen
+#facs_237_r3l7 womit Er Uns und Unsere Regier¬
+#facs_237_r3l8 ung beglükt, für den fortdaurend¬
+#facs_237_r3l9 lieben Frieden, für die gehabten
+#facs_237_r3l10 gefunden Zeiten, für die, des von
+#facs_237_r3l11 den Hochgebichern hin und bieder
+#facs_237_r3l12 erlickenen Schadens ohngeacht, reich¬
+#facs_237_r3l13 lich ausgefallene große und vor¬
+#facs_237_r3l14 reffliche Aerndte, die nicht nur
+#facs_237_r3l15 den Mißbachs des ferndrigen
+#facs_237_r3l16 Jahres ersezet, sondern noch Über¬
+#facs_237_r3l17 fluß für die künftigen Zeiten
+#facs_237_r3l18 Hoffen läßt, neben so vielen theuren
+#facs_237_r3l19 geistlichen Gnaden und Heilsgütern,
+#facs_237_r3l20 für die Unser Wille ist, daß
+#facs_237_r3l21 dem Allerhöchsten ein gemeinsam
+#facs_237_r3l22 liches Lob= und Dankopfer gebracht
+#facs_237_r3l23 und seine Güte mit Mund und
+#facs_237_r3l24 Herzen dafür gepriesen beides
+#facs_237_r3l25 Damit aber, soviel an Uno
+#facs_84_r1l1 160
+#facs_238_r2l1 liegt, dieser wichtige Tag alle aus¬
+#facs_238_r2l2 sere Anständigkeit erlange, so befehlen
+#facs_238_r2l3 Wir, daß im ganzen Lande, so
+#facs_238_r2l4 wohl an dem Heil. Rectage selber,
+#facs_238_r2l5 als Tags vorher, alle Pintenschenben
+#facs_238_r2l6 und Währtshäuser für jedermann,
+#facs_238_r2l7 äußert für Reisende, verschloßen.
+#facs_238_r2l8 seyen. Daß auch so bohl in
+#facs_238_r2l9 der Hauptstadt als äußert dero
+#facs_238_r2l10 selbigen aller Orten, an dem Abend
+#facs_238_r2l11 vor dem Rettag von drey Uhr
+#facs_238_r2l12 hinbey, und dann auch bährend
+#facs_238_r2l13 dem ganzen folgenden Rettag
+#facs_238_r2l14 selbst, alle Häuser, Räder, Keller
+#facs_238_r2l15 und Orte wo Wein, Zier und
+#facs_238_r2l16 gebrannte Waßer verkaufts
+#facs_238_r2l17 berden, für jedermann ohne
+#facs_238_r2l18 Ausnahm beschloßen seyn und
+#facs_238_r2l19 bleiben sollen.
+#facs_238_r2l20 Wir befehlen demnach allen
+#facs_238_r2l21 Chorrichtern, wie auch denen Aufr
+#facs_238_r2l22 wehern über die Polizey, hierauf
+#facs_238_r2l23 sonderbar zu achten, und die bieder¬
+#facs_238_r2l24 handelnde ohne Schonen, uns oder
+#facs_104_r1l2 Col
+#facs_84_r4l1 161
+#facs_82_r2l22 Unseren Amtleüten angehalten werden sollen,
+#facs_238_r4l3 Restrafung zu verleiden.
+#facs_238_r4l4 Schließlich wünschen Wir allen
+#facs_238_r4l5 Unseren Predigern zu ihren groß¬
+#facs_238_r4l6 Arbeiten den Geist Gottes und seine
+#facs_195_r5l28 gnädigen
+#facs_238_r4l8 mit Salbung und Kraft, wie mit
+#facs_238_r4l9 Ernst und Liebe Jedermann aus
+#facs_238_r4l10 Gewißen reden; dabey aber
+#facs_238_r4l11 aufmerkstance und folgsame Herzen
+#facs_238_r4l12 bey ihren Zuhörern finden, an
+#facs_238_r4l13 denen ihre guten Zuspruche ge¬
+#facs_238_r4l14 Godd mit Uns!
+#facs_238_r4l15 segnet seyen,
+#facs_238_r4l16 Geben den 10ten Juli 1786.
+#facs_65_r3l5 Canzley Bern.
+#facs_47_r3l6 Traduction.
+#facs_146_r4l24 Nous l'Advoyer et Conseil
+#facs_238_r4l20 de la Ville & Republique de Berne
+#facs_238_r4l21 mandons à tous nos chers & féaux
+#facs_238_r4l22 siloyens & sujets notre gracieuse.
+#facs_238_r4l23 bienveillance, & faisons savoir pr les présentes
+#facs_15_region_1633454385876_2820l8 46
+#facs_239_r2l1 Qu'ayant, de concert avec les lou-
+#facs_239_r2l2 ables Etats Evangeliques de la Suisse
+#facs_239_r2l3 ordonner un jour de jeûne & de Péni
+#facs_239_r2l4 tence, de Prieres & d'actions de graces,
+#facs_239_r2l5 pour le Jeudi 7e Septembre prochain
+#facs_239_r2l6 Nous voulons qu'il soit célébre tant
+#facs_239_r2l7 dans Notre Capitale, que dans les
+#facs_239_r2l8 autres villes & pays de notre Domi
+#facs_239_r2l9 nation avec toute la solemuite
+#facs_239_r2l10 possible
+#facs_239_r2l11 Pleinement persuadés que la
+#facs_239_r2l12 prospérité d'un peuple dépend de
+#facs_239_r2l13 la protection du trés-haut, & que
+#facs_239_r2l14 les moyens de se l'assurer ne se trou
+#facs_239_r2l15 rent que dans un attachement sin
+#facs_239_r2l16 cere a la Religion & aux Connes
+#facs_239_r2l17 moeurs; nous attendons de chacun
+#facs_239_r2l18 de nos Citoyens & Sujets, que, péné
+#facs_239_r2l19 tres des mêmes principes, ils se-
+#facs_239_r2l20 feront un devoir sacré de rechercher
+#facs_239_r2l21 avec nous cette protection divine, en
+#facs_239_r2l22 sanctifiant ce jour Solemnel de la
+#facs_239_r2l23 maniere la plus religieuse.
+#facs_239_r2l24 Les circonstances des Communions
+#facs_15_region_1633454385876_2820l8 46
+#facs_239_r3l2 qui doivent le précéder, seront une
+#facs_239_r3l3 occasion présieuse de s'y preparer
+#facs_239_r3l4 salutairement, & dont toute persone
+#facs_239_r3l5 bien intentionnee Sauva profiter
+#facs_239_r3l6 soit pour s'affermir dans le bien,
+#facs_239_r3l7 soit pour s'en rapprocher, en exami
+#facs_239_r3l8 nant sérieusement sa conduite, en
+#facs_239_r3l9 reparant ses propres torts, en par¬
+#facs_239_r3l10 donnant ceux des autres, & en revétant
+#facs_239_r3l11 toutes les dispositions d’un sincère
+#facs_239_r3l12 amendement; de maniere que ce Jour
+#facs_239_r3l13 par nous fixé, soit effectivement
+#facs_239_r3l14 de la part de la Nation un Jour
+#facs_239_r3l15 saint à l'Eternel, un vrai Jour de
+#facs_239_r3l16 Jeune & de Prieres, d'humiliation &
+#facs_239_r3l17 de retour à Dieu, ou en confessant
+#facs_239_r3l18 ses péche's, on y renonce; ou en
+#facs_239_r3l19 inplorant le pardon, on l'obtienne
+#facs_239_r3l20 ou en reconnoissant qu'on a me
+#facs_239_r3l21 rité les châtimens du Ciel, on les
+#facs_239_r3l22 détourne, & ou enfin en rendant
+#facs_239_r3l23 graces au tres-haut pour ses fa-
+#facs_239_r3l24 veurs multipliées, on s'en assure.
+#facs_239_r3l25 la continuation.
+#facs_15_region_1633454385876_2820l8 46
+#facs_240_r2l1 Il n'est personne, pour peu que
+#facs_240_r2l2 la patrie lui soit chere, qui ne doive
+#facs_240_r2l3 gémir sur les vices qui semblent
+#facs_240_r2l4 y devenir dominans, une vanité
+#facs_240_r2l5 révolante, une luxe dévorant, une
+#facs_240_r2l6 impedicite' effreiree, un gout funeste
+#facs_240_r2l7 pour des lectures dangereuses ou
+#facs_240_r2l8 frivoles, une indifference allarmente
+#facs_240_r2l9 a l'égard de la religion & du sulté,
+#facs_240_r2l10 un ton de légéreté & d'indépendance
+#facs_240_r2l11 qui ne respecte plus rien; ce sont
+#facs_240_r2l12 là des désordres qui, avec nombre
+#facs_240_r2l13 d'autres plus ou moins grossier,
+#facs_240_r2l14 donnent lieu de craindre, que les
+#facs_240_r2l15 jugemens de Dieu ne soyent prêts
+#facs_240_r2l16 a fondre sur Nous.
+#facs_240_r2l17 Déja la main du tout-Puis
+#facs_240_r2l18 sant s'est appesantie sur plusieurs
+#facs_240_r2l19 quartiers de notre pays, & il nest
+#facs_240_r2l20 personne qui ne doive en recevoir.
+#facs_240_r2l21 instruction; les orages, les grêles
+#facs_240_r2l22 les inondations qui ont ravagé des
+#facs_240_r2l23 campagnes fertiles & détruit dans
+#facs_240_r2l24 un instant l'esperance des cultivateurs,
+#facs_15_region_1633454385876_2820l8 46
+#facs_240_r3l2 en nous rappellant par combien.
+#facs_240_r3l3 de moyens Dieu peut affliger un
+#facs_240_r3l4 peuple, nous sollicitent pressam
+#facs_240_r3l5 ment à prevenir de plus grands
+#facs_240_r3l6 maux par une prompte & sincère
+#facs_240_r3l7 répentance
+#facs_240_r3l8 Il n'est personne enfin qui, en
+#facs_240_r3l9 considérant que ces calamités pou
+#facs_240_r3l10 voient être plus étendues, ne doive
+#facs_240_r3l11 le sentir pénétré de reconnoissance
+#facs_240_r3l12 envers ce Dieu miséricordieux & lui
+#facs_240_r3l13 rendre de vives actions de graces.
+#facs_240_r3l14 pour la compasion & le support
+#facs_240_r3l15 dont il a usé envers nous, en épargt
+#facs_240_r3l16 nant la plus grande partie du
+#facs_240_r3l17 pays, en y maintenant encore
+#facs_240_r3l18 l’abondance, & la salubrité de l'air
+#facs_240_r3l19 en conservant a notre chere Patrie
+#facs_240_r3l20 les douceurs de la paix, de la liberté
+#facs_240_r3l21 & la jouissance tranquille de tant
+#facs_240_r3l22 d'autres bénédictions temporelles
+#facs_240_r3l23 & spirituelles dont il nous favorise,
+#facs_240_r3l24 aussi voulont Nous que pour
+#facs_240_r3l25 toutes choses, le nom de ce grand
+#facs_15_region_1633454385876_2820l8 46
+#facs_241_r2l1 Dieu soit craint & respecté, que ces
+#facs_241_r2l2 jugemens foyent redoutes & révérés,
+#facs_241_r2l3 & que sa bonte soit célébrée &
+#facs_241_r2l4 exaltée du coeur & de la voix.
+#facs_241_r2l5 Et afin que la Sainteté de ce
+#facs_241_r2l6 jour & la décence publique qui
+#facs_241_r2l7 doit y régner soit d'autant mieux
+#facs_241_r2l8 observée, Nous ordonnons: que
+#facs_241_r2l9 dans toutes nos villes & pays, soit
+#facs_241_r2l10 au Jour même de Jeûne, soit en
+#facs_241_r2l11 celui qui le précéde, les hôtelleries
+#facs_241_r2l12 & cabarets foyent fermes pour tout
+#facs_241_r2l13 le monde excepté pour les voyageurs
+#facs_241_r2l14 & que tant en la Capitale que
+#facs_241_r2l15 par tout ailleurs, les maisons
+#facs_241_r2l16 bains, caves, & autres lieux ou l'on
+#facs_241_r2l17 vend & debite du Vin, de la Bierre
+#facs_241_r2l18 & des Liqueurs fortes, soyent de
+#facs_241_r2l19 même fermés a chacun sans
+#facs_241_r2l20 exception, non seulement durant
+#facs_241_r2l21 le jour de Jeune, mais aussi la
+#facs_241_r2l22 veille dès les trois heures apres
+#facs_241_r2l23 midi. En consequence nous enjoiez
+#facs_241_r2l24 nons à tous assesseurs Consistoriaux
+#facs_11_r2l1 41
+#facs_241_r3l2 & Inspecteurs de Police, d’y veiller
+#facs_241_r3l3 avec soin, & de denoncer sans sup-
+#facs_241_r3l4 port les contrevenants à Nos Baies.
+#facs_241_r3l5 lifs, pour etre punis selon lexigence
+#facs_241_r3l6 du cas.
+#facs_241_r3l7 Veuille cet Etre Suprême, dont
+#facs_241_r3l8 nous implorons la faveur sur nous
+#facs_241_r3l9 Il sur notre peuple, avoir pour agré
+#facs_241_r3l10 ables nos intentions, assister d'une
+#facs_241_r3l11 grace particuliere les ministres
+#facs_241_r3l12 de sa Parole, benir leur prédication
+#facs_241_r3l13 & la couronner du plus heureux
+#facs_241_r3l14 succes.
+#facs_241_r3l15 Donné ce 10e Juillet 1786 @
+#facs_48_r3l25 Chancellerie de Berne

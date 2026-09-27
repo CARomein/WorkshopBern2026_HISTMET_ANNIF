@@ -1,0 +1,63 @@
+Law nr: BER.01.001.3402
+Name: Ihnen die Ordnung wieder das Pfrundgleüff von Ao. 1704 zuschicken.
+
+# EXTRACTION INFO:
+# Matched: 53/54
+# High similarity (>=50%): 51
+# Low similarity (<50%): 2
+# Not found: 1
+#
+#facs_476_r3l1 Gollath
+#facs_477_r3l2 Im Teutschlandt
+#facs_477_r3l3 Sie der Ordnung wieder das pfeumgleüft Ver¬
+#facs_477_r3l4 ao. 1704 zu schiken.
+#facs_477_r3l5 Schultheiß und Rast etc.
+#facs_477_r3l6 Wir haben Mit Vnlieb Verspühr
+#facs_477_r3l7 müßen, daß, OhngeAcht Unserer
+#facs_477_r3l8 vorgekehrten Vorsorg zu
+#facs_477_r3l9 deß Pfeuendt geleüffs, selbiges
+#facs_477_r3l10 mehr In die Erforderliche Achtung
+#facs_477_r3l11 gezogen, sondern dem Reglement
+#facs_477_r3l12 vom 30. April 1704. zu wieder
+#facs_477_r3l13 gehandlet werde; Derowegen
+#facs_477_r3l14 Wir zu Abhelfung dieser so ohntlich
+#facs_477_r3l15 ständigen Geleuss, guetz
+#facs_477_r3l16 Reglement wieder zu erfenen.
+#facs_477_r3l17 demendt Euch beyngendt
+#facs_477_r3l18 darvon zuzustellen, mit beyleüfig
+#facs_477_r3l19 solches Enleeren Capituls=Erneberen
+#facs_475_r5l1 903
+#facs_477_r5l2 gemachen, und Einzuschärpfen, demselbigen
+#facs_477_r5l3 ich zu verhalten; Wie dann Eülder
+#facs_477_r5l4 Ihr zethuen auch wüßen lerdet. Gott
+#facs_477_r5l5 Dath. 2. Febr. 1723
+#facs_477_r5l6 An Alle Graut Ambtleuth
+#facs_477_r5l7 Gegen Burgund, It. p. Zedel an
+#facs_477_r5l8 Hrn. Großlenibel
+#facs_477_r5l9 die Beschreybung daß die bey Duval Ihnen zuschicken
+#facs_477_r5l10 und zu deßen behandigung geflißer aufsicht anbefohlen,
+#facs_477_r5l11 Schultheiß und Raht etc.
+#facs_477_r5l12 Lacquay, Nahmens Duval, so sich
+# NOT FOUND: facs_476_r5l13 (2020: in)
+#facs_477_r5l14 Aus Rennes, In Bretagne, Gebürtig saget,
+#facs_477_r5l15 hat zu Dijon bey Hn. De Bretagne, Che¬
+#facs_477_r5l16 vallier d'honneur à la chambre des comptes
+#facs_477_r5l17 Nahmhafften diebstahl begangen,
+#facs_477_r5l18 sich darmit fortgemacht: Wie
+#facs_477_r5l19 Wir nun ersucht worden, daß wann selbiger
+#facs_477_r5l20 Unsere Land betrelten würde, er möchte
+#facs_477_r2l1 8
+#facs_478_r2l2 so sie entdeket werden könte, den
+#facs_478_r2l3 Eygenthumbcherren wieder zugestellt,
+#facs_478_r2l4 werden; alß habend wie mit
+#facs_478_r2l5 Zuschikung, solvohl des Duvals
+#facs_478_r2l6 persönlichen Bespreibung, als der
+#facs_478_r2l7 specification daß Vernebten diebstahls
+#facs_478_r2l8 Dir hiemit befehlen wollen, auff
+#facs_478_r2l9 eint und anders In deinem Ambth
+#facs_478_r2l10 eine geflißene Aufsicht zu bestellen
+#facs_478_r2l11 und entdetenden fahls den dieben
+#facs_478_r2l12 Gefänglichen einzusetzen, die Effecten
+#facs_478_r2l13 zu denen Handen zu nemen, undt
+#facs_478_r2l14 dessen uns Ohngehaimbt zu berichten.
+#facs_478_r2l15 Datt 2. Febrl. 1723

@@ -1,0 +1,17 @@
+Law ID: BER.01.001.4741
+Name: Verbott der Brodausfuhr aus dem W. Land.
+
+#facs_250_r4l9 Verbott der Srd Ausfuhr aus dem S: Land
+#facs_250_r4l10 ch
+#facs_250_r4l11 An alle Welsche Herren Amtleüt¬
+#facs_250_r4l12 Schultheis Räth und Burger etc
+#facs_250_r4l13 Wegen Ausführ des Orods und deßen Entaus¬
+#facs_250_r4l14 lerung in Ansteren Welschen Landen find Wir
+#facs_250_r4l15 veranlaßet worden, die in Einlage enthaltene
+#facs_250_r4l16 Verordnung ergehen zu laßen, darvon Wie
+#facs_250_r4l17 Euch unmit eine genugstame Anzahl gedrukten
+#facs_250_r4l18 Exempler zustenden, mit Gefahl, solche behörigen
+#facs_250_r4l19 maßen einzuschreiben, bekannt zu machen, von
+#facs_250_r4l20 Canzlen verlesen, und gewohnter Orten anschlagen
+#facs_250_r4l21 zu laßen. Datum den 25t November 1792
+END

@@ -1,0 +1,37 @@
+Law ID: BER.01.001.3435
+Name: Alles Jagen [...] verbieten.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_493
+# Matched: 26/26
+# High similarity (>=80%): 21
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_90_tr_1l_10 An alle L. und W. Ambtleuth,
+#facs_90_tr_1l_11 4. Stält, Hreyweibel und Amman¬
+#facs_90_tr_1l_12 It. Schwartzenburg, Grandson, und
+#facs_90_tr_1l_13 P zedel an hiesige Cäntzell.
+#facs_90_tr_1l_14 Alles Jagen bis auff Bartholomey 1724.
+#facs_90_tr_1l_15 verbieten.
+#facs_38_r4l15 Schultheiß und Raht etc.
+#facs_90_tr_1l_17 bey Wider angerukter Brunst, und Bruth, Zeith
+#facs_3_r1l1 Collat.
+#facs_90_tr_1l_19 des Gewildts, wollend Wir, in Erfünschung
+#facs_90_tr_1l_20 Vnserer Ordnung, hiemit meniglich ver¬
+#facs_90_tr_1l_21 bahrnet haben, von Jetz an, bis auf Nechst¬
+#facs_90_tr_1l_22 tünfftigen Bartholomey, Tag alles Hertzens,
+#facs_92_r1l1 174
+#facs_216_r3l1 Collet
+#facs_92_r3l1 Jagens, und Schießens des gewildts wie¬
+#facs_92_r3l2 solches Immer Nahmen haben mag, sich gantz
+#facs_92_r3l3 zu müsßigen, anbey auch den zum Jage,
+#facs_92_r3l4 abgerichteten und verderblichen Hunden
+#facs_92_r3l5 Die Gewohntenschwähten prügell Anzehenter
+#facs_92_r3l6 Aller bey der in der Ordnung auffge¬
+#facs_92_r3l7 setzter Bus und straf, darmit die fehlbahre
+#facs_92_r3l8 ohne Schonen belegt werden sollen; welcher
+#facs_92_r3l9 von Cantzlen Verlesen zu Laßen, und steyft
+#facs_92_r3l10 darob zu halten befelchnet wirst etc. Datl.
+#facs_92_r3l11 13 febr: 1724.

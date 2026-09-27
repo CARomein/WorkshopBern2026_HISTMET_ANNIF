@@ -1,0 +1,683 @@
+Law nr: BER.01.001.4558
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 671/671
+# High similarity (>=80%): 642
+# Low similarity (<80%): 29
+# Not found: 0
+#
+#facs_231_r3l14 Auch
+#facs_69_r5l19 kind.
+#facs_58_r5l1 109
+#facs_125_r2l24 24.7.
+#facs_127_r4l2 daß bey vorfallenden Beneficien Ju¬
+#facs_127_r4l3 ventarii und Beltstagen, Mr Ghthl.
+#facs_127_r4l4 Wille nachgelebt werde
+#facs_127_r4l5 generaliter¬
+#facs_3_region_1627936339514_16l1 1
+#facs_127_r4l7 Denne haben Wir auch erkennet, und
+#facs_127_r4l8 deßen zum Vorhalt Euch berichten
+#facs_127_r4l9 wollen, daß für die Publicationen
+#facs_127_r4l10 in dem Avisblatt, sowohl der
+#facs_127_r4l11 Bereficien Inventarii als der
+#facs_127_r4l12 Geltstagen nicht mehr, wie bis
+#facs_127_r4l13 hiehin geschehen, im Pfund oder
+#facs_127_r4l14 7½ Päzen, sondern nur die
+#facs_127_r4l15 Helfte davon, nemlich zehen Schilling
+#facs_127_r4l16 solle bezalt werden, wornach
+#facs_127_r4l17 man sich auch in Zukauft zu ver¬
+#facs_127_r4l18 halten haben wird. Datum den
+#facs_127_r4l19 26. Novembris 1784
+#facs_212_r2l17 Wir Schultheiß klein und
+#facs_127_r4l21 große Räthe der Stadt und Republik
+#facs_127_r4l22 Bern, entbieten allen Unseren lieben
+#facs_127_r4l23 und getreuen Fürgeren und Angehö¬
+#facs_127_r4l24 eigen zu Stadtund Land Unseren
+#facs_127_r4l25 gnädigen Willen, und thun maniglichen
+#facs_127_r4l26 kund und zu wißen; daß in
+#facs_127_r4l27 genauer und sorgfältiger Erdaurung
+#facs_128_r1l1 248
+#facs_128_r2l1 Unserer im Jahr 1761. durch den drub¬
+#facs_128_r2l2 aßentlich bekant gemachten Brichts,
+#facs_128_r2l3 Satzung, wir den Umständen an.
+#facs_128_r2l4 gemeßen und zur Sicherheit der
+#facs_128_r2l5 Erben solvohl als der Bläubiger noth
+#facs_128_r2l6 wendig befunden, die in ansehen
+#facs_128_r2l7 fer Bedenkzeit bey zweifelhafften
+#facs_128_r2l8 Erbschaften und der Heltstagen
+#facs_128_r2l9 halb emanierte Besähe, dahin abzu
+#facs_128_r2l10 anderen, wie von einem Punkt
+#facs_128_r2l11 zum anderen folget.
+#facs_128_r2l12 Statt Sazung Pag. 275
+#facs_128_r2l13 zweyter Theil
+#facs_360_r3l2 XVI.
+#facs_128_r2l15 von der Bedenkheit der Erbschaft
+#facs_80_r3l6 haben.
+#facs_128_r2l17 1. Sazung /: 1. der altem Sezung :/
+#facs_128_r2l18 Wie den Erben in Zweifelhafften
+#facs_128_r2l19 Pallen Redentzeit vergout werden
+#facs_128_r2l20 solle.
+#facs_128_r2l21 Wann die Erben von dem Zustand der Her¬
+#facs_128_r2l22 laßenschaft nicht solche Bekantschafft
+#facs_4_r7l1 4
+#facs_128_r2l24 hatten, daß sie sogleich nach des Erblas,
+#facs_128_r2l25 sers Begräbniß sich entschließen von
+#facs_128_r2l26 ten, dieselbe entweder anzutreiten
+#facs_128_r2l27 oder auszuschlagen, so soll ihnen
+#facs_113_r2l1 219
+#facs_128_r3l2 in dergleichen Zweifelhaften Fällen
+#facs_128_r3l3 auf ihr gebührendes Anmelden hin¬
+#facs_128_r3l4 Zween Monate Zeit vergönnt werden.
+#facs_128_r3l5 um sich der Erbschaft halb bedenken,
+#facs_128_r3l6 zu können; und zwar sollen diese
+#facs_128_r3l7 2ween Monate, von dem Datum
+#facs_128_r3l8 les Wochenblattso an gerechnet wer¬
+#facs_128_r3l9 den, in welchem das Benefizium In¬
+#facs_128_r3l10 ventary zum erstenmahl unnd ge¬
+#facs_128_r3l11 than worden ist.
+#facs_128_r3l12 2te Sazung (9. der alten Sähung.)
+#facs_128_r3l13 Bey wem die Erben so Bedenkheit be=
+#facs_128_r3l14 gehren, sich anmelden sollen.
+#facs_128_r3l15 Wenn die Erben wie oben gemeldet worden
+#facs_128_r3l16 gesinnet sind, der Erbschaft halb Bedenk¬
+#facs_128_r3l17 Zeit zu begehren, so sollen sie sich darum
+#facs_128_r3l18 anmelden, in dem Stadt und dem
+#facs_128_r3l19 Stadtgricht, bey Unserer verordneten
+#facs_133_r3l13 leutschen Appellations Cammer, auf
+#facs_128_r3l21 dem Land aber bey dem Richter des
+#facs_128_r3l22 Ortt, als denen es darüber zu erken¬
+#facs_128_r3l23 nen gebühret
+#facs_128_r3l24 3. Sazung (2te der alten Sähung)
+#facs_128_r3l25 Wiebey waltendem Zweifel. die
+#facs_128_r3l26 Verlassenschafft under das Sigel
+#facs_15_region_1633454385876_2820l23 = 150
+#facs_129_r2l1 gebracht werden solle.
+#facs_129_r2l2 Sobald als bey einem oder mehreren der
+#facs_129_r2l3 Erben, wegen Antrettung der Erbschaft
+#facs_129_r2l4 wie gemeldet, ein Zweifel waltet, so sol
+#facs_129_r2l5 len dieselben in der Stadt und dem
+#facs_129_r2l6 Stadtgricht sowohl als auf dem Land, auch
+#facs_129_r2l7 in den Fällen, da sonst die Resiglung
+#facs_129_r2l8 nicht nöhtig wäre, die gesamte Verlat¬
+#facs_129_r2l9 sen schafft strabs nach der abgestorbe
+#facs_129_r2l10 nen Hinscheid, und vor allem andern
+#facs_129_r2l11 aus richterlich und er das Sigel bringen
+#facs_129_r2l12 laßen, und nichts davon veräußeren,
+#facs_129_r2l13 bey Strafe des Verlustt der gesich¬
+#facs_129_r2l14 lichen Wohlthat der Redenkzeit, zu
+#facs_129_r2l15 nahlen wann solches unverlasen
+#facs_129_r2l16 wurde, sothane Erben für alle dahe
+#facs_129_r2l17 rige Drigen verantwortlich gemacht
+#facs_129_r2l18 werden können.
+#facs_132_r3l20 14te Sagung (7te. der alten Sähung)
+#facs_129_r2l20 Wie die Erben sich während der
+#facs_129_r2l21 Gedentzeit des Zustands der Verlas
+#facs_129_r2l22 senschafft ertundigen mogen.
+#facs_129_r2l23 Es mögen dann die Erben, während der ihnen
+#facs_129_r2l24 Bermog voriger
+#facs_129_r2l25 Satzung vergönter Ge¬
+#facs_129_r2l26 denkzeit, sich des Zustands der Verlas¬
+#facs_129_r2l27 fenschaft erkundigen; und soll zu
+#facs_129_r2l28 = solchem
+#facs_129_r3l1 251
+#facs_129_r3l2 solchem Ende, unter behöriger Aufsicht
+#facs_129_r3l3 ein genannt verzeichni, u. so wohl der
+#facs_129_r3l4 Mittel als der Schulden, die der ver¬
+#facs_129_r3l5 Torbene hinderlaßen, und der all¬
+#facs_129_r3l6 fählig von ihm eingegangenen Jürg
+#facs_129_r3l7 schafften, wie auch der allfähligen
+#facs_129_r3l8 Kosten des Benefihium Inventarii
+#facs_129_r3l9 gezogen und sodann den Erben
+#facs_129_r3l10 zu ihrer Nachricht mitgetheilt wer¬
+#facs_53_r3l16 den
+#facs_136_r3l8 54 Sazung (10t. der alten Sätzung)
+#facs_129_r3l13 Wie das Verzeichniß der Mittel und
+#facs_129_r3l14 Schulden verfertiget werden solle.
+#facs_129_r3l15 Es soll das Verzeichniß der Mittel, Schulden
+#facs_129_r3l16 und Sürgschaften, deßen die vorige
+#facs_129_r3l17 Satzung Meldung thut, verfertiget
+#facs_129_r3l18 werden, in der Stadt und dem Stad¬
+#facs_129_r3l19 gricht durch den gewohnten Wäysen
+#facs_129_r3l20 Schreiber, in Beyseyn eines abson¬
+#facs_129_r3l21 derlich dazu verordneten Wäysen.
+#facs_129_r3l22 richters, auf dem Land aber durch
+#facs_129_r3l23 den Amtschreiber des Orts, mit zuthun
+#facs_129_r3l24 dazu bestelten Vorgesetzten
+#facs_129_r3l26 Alles in dem Verstande, daß die
+#facs_129_r3l27 Erben wann sie es begehren, solcher Ver¬
+#facs_129_r3l28 Zeichnung, wie billig, wohl bey wohnen
+#facs_129_r3l29 mögen
+#facs_7_r7l1 9
+#facs_130_r2l1 mögen. Es soll aber das Siegel, als
+#facs_130_r2l2 welches zu diesem Ende nothwendig
+#facs_130_r2l3 erbrochen werden muß, jedesmahl
+#facs_130_r2l4 sorgfältig wieder aufgedrübt wer¬
+#facs_53_r3l16 den
+#facs_130_r2l6 C. Sazung (5te der alten Sähung)
+#facs_131_r3l27 Wie die Bläubiger, so ungeacht
+#facs_130_r2l8 fordert werden sollen, ihre Ansprä=
+#facs_130_r2l9 chen einzugeben.
+#facs_130_r2l10 Es sollen dann auch in obigem Falle, sowohl in
+#facs_130_r2l11 der Stadt und dem Stadtgricht, als auf
+#facs_130_r2l12 dem Lande, alle Bläubiger die an
+#facs_130_r2l13 der Erbschaft etwat zu fodern hät¬
+#facs_130_r2l14 ten, in den nächsten Vierzehen Tagen
+#facs_130_r2l15 nach Erhaltung des Benefizium In¬
+#facs_130_r2l16 Rentarn nach Vorschrift der Gesa¬
+#facs_130_r2l17 zen öffentlich aufgeforderet wer
+#facs_130_r2l18 den, ihre Anstrachen, in der Stadt
+#facs_130_r2l19 und dem Stadtgericht bey dem
+#facs_130_r2l20 Wäysenschreiber, auf dem Land
+#facs_130_r2l21 aber bey dem Amtschreiber, inuert¬
+#facs_130_r2l22 halb der dazu bestimmten Zeit, ein¬
+#facs_130_r2l23 zugeben.
+#facs_130_r2l24 7te
+#facs_130_r3l1 253
+#facs_130_r3l2 7te Sazung /: Neu¬
+#facs_130_r3l3 Wie die öffentliche Aufforderung
+#facs_130_r3l4 durch Verlesung von Kanzlen ge
+#facs_130_r3l5 Schehen solle
+#facs_130_r3l6 In der Hauptstadt ist solche nicht üblich¬
+#facs_130_r3l7 Auf dem Land abte soll Sie an
+#facs_130_r3l8 dem Wohn Ort des verstorbenen inn
+#facs_130_r3l9 in den sechs nächst gelegenen Kirchhoren
+#facs_134_r3l20 wie auch in der Kirchhöre feines Hey
+#facs_130_r3l11 drey Sontage nach im ander geschehen
+#facs_130_r3l12 solten aber die Umstände es erheische
+#facs_130_r3l13 daß diese Verlesung an mehreren Or
+#facs_130_r3l14 ten vonnähten wäre, so wird es dem
+#facs_130_r3l15 Richter überlaßen, solches zu bestim¬
+#facs_130_r3l16 men. Die Pfarrer sollen indeßen
+#facs_130_r3l17 geweilen in den Leszedel ein schrei¬
+#facs_130_r3l18 ben, an welchen Tagen die Verlesung
+#facs_130_r3l19 geschehen sey, und solchen nachher dem
+#facs_130_r3l20 Schreiber, der die Verschreibung zu
+#facs_130_r3l21 besorgen hat, zu stellen, welcher
+#facs_130_r3l22 Dann im Verzeichniß specificiert
+#facs_130_r3l23 aussezen soll, an welchen Orten die
+#facs_130_r3l24 Verlesung geschehen, wie viel Publi¬
+#facs_130_r3l25 vationen gemacht, und wie viel für
+#facs_130_r3l26 de Publication bezalt worden
+#facs_130_r3l27 sey.
+#facs_130_r3l2 7te Sazung /: Neu¬
+#facs_130_r3l29 Wie die öffentliche Anschlagung
+#facs_130_r3l30 an den pfeileren geschesen solle
+#facs_130_r3l31 Alle
+#facs_131_r1l1 254.
+#facs_131_r2l1 Alle zu Stadt und Landertheilten Berue
+#facs_131_r2l2 ficia Inventarii sollen an den drey
+#facs_131_r2l3 gewohnten Pfeileren der Hauptstadt
+#facs_131_r2l4 angeschlagen werden; so sollen auch
+#facs_131_r2l5 diejenigen Beneficia Inventarii so
+#facs_131_r2l6 von den Kanzlen sind verlesen worden
+#facs_131_r2l7 an dem Wohn Ort und Heymath der
+#facs_131_r2l8 verstorbenen angeschlagen werden
+#facs_130_r3l28 8te Sazung /: Reu:/
+#facs_131_r2l10 Wie die Publication durch das Sie
+#facs_131_r2l11 sige Wochenblatt geschehen solle.
+#facs_131_r2l12 In fernerem sollen alle zu Stadt und
+#facs_131_r2l13 Land ertheilten Beneficia Inventario in
+#facs_131_r2l14 dem hiesigen Wochenblatt drey mahlen
+#facs_131_r2l15 nach einander, und er den hierzu eigens
+#facs_131_r2l16 gewidmeten Titel eingerübt im
+#facs_131_r2l17 durch daßelbe bekant gemacht werden
+#facs_131_r2l18 10: Sazung /: Neu :/
+#facs_131_r2l19 Was fur mehrere Vorsorgen in an,
+#facs_131_r2l20 sehn der dißortigen Publication
+#facs_131_r2l21 zu gebrauchen seyen.
+#facs_131_r2l22 Wann der Schreiber in den Hausbücheren
+#facs_131_r2l23 oder anderen Schriften des verstorbe
+#facs_131_r2l24 Sturen finden würde, oder ihm
+#facs_131_r3l1 255
+#facs_131_r3l2 sonst bekant wäre, daß jemand an den
+#facs_131_r3l3 Erblaßer eine Ansprache zu formie,
+#facs_131_r3l4 ren habe, so soll er gehalten seyn, dem
+#facs_131_r3l5 Bläubiger durch einen Brief, das
+#facs_131_r3l6 Beneficium Inventarii und zu
+#facs_131_r3l7 thun, damit derselbe sein Recht be¬
+#facs_131_r3l8 hörig besorgen könne. Dem Ver¬
+#facs_131_r3l9 zeichniße dann soll eingerückt wer¬
+#facs_131_r3l10 len, an wen und welchen Tagt solche
+#facs_131_r3l11 A visbriefe abgegangen seyen. Fals
+#facs_131_r3l12 auch die Umstände es erforderten
+#facs_131_r3l13 daß das Beneficium Inventarii
+#facs_131_r3l14 Furch eine oder mehrere Zeitungen be¬
+#facs_131_r3l15 kant gemacht werden solte, so soll
+#facs_131_r3l16 der Richter des Orts, solches gewohn¬
+#facs_131_r3l17 vermaßen vor sich gehen laßen.
+#facs_131_r3l18 Auch soll, wan der, über deßen
+#facs_131_r3l19 Vermögen das Beneficium Inven¬
+#facs_131_r3l20 tarii gehalten wird, seine ligenden
+#facs_131_r3l21 Büter nicht zehen Jahr lang befeßen
+#facs_131_r3l22 hat, der Nahme des Vorbeschers
+#facs_131_r3l23 derselben, in der disortigen Aus¬
+#facs_131_r3l24 Schreibung vermeldet und bekant
+#facs_18_r9l15 gemacht werden.
+#facs_131_r3l26 ss. Sazung /: Ausdehnung der 6ten der alten Sachung :/
+#facs_131_r3l27 Wie die Bläubiger, so ungeacht
+#facs_131_r3l28 aller dieser Vorsorgen sich nicht
+#facs_131_r3l29 gemeldet
+#facs_132_r1l1 256.
+#facs_132_r2l1 gemeldet hatten, anzusehen.
+#facs_132_r2l2 seyen.
+#facs_132_r2l3 Wann ein Bläubiger vorgibt, das ihme
+#facs_132_r2l4 die Aufforderung zu Angabe seiner
+#facs_132_r2l5 Anstrachen nicht bekant geworden,
+#facs_132_r2l6 so soll derselbe auf Begehren der Erben
+#facs_132_r2l7 solch sein Vorgeben mit dem Eid be¬
+#facs_132_r2l8 tähtigen, in dem Verstande jedoch,
+#facs_132_r2l9 daß der Bläubiger längstens
+#facs_132_r2l10 Jahre von Antrettung
+#facs_132_r2l11 fer Erbschafft hinloegg, sich dafür ge¬
+#facs_132_r2l12 bührend anmelde, maßen derselbe
+#facs_132_r2l13 nachwärts sein Recht ohne anders
+#facs_132_r2l14 verlohren haben soll.
+#facs_132_r2l15 12: Sazung /: gleiches :/
+#facs_137_r2l8 Erläuterung obiger Sazung
+#facs_132_r2l17 Es soll aber ein Bläubiger, der ob ver¬
+#facs_132_r2l18 melter maßen, in sein Recht ein
+#facs_132_r2l19 gesezt worden, nicht befügt seyn
+#facs_132_r2l20 von den Erben ein mehrers zu fodern
+#facs_132_r2l21 als was ihnen aus der Verlaßen
+#facs_132_r2l22 schafft fruchtbarlich übrig geblie¬
+#facs_132_r2l23 ben seyn möchte, in so weit solches
+#facs_132_r2l24 seine Ansprache nicht übersteigt,
+#facs_132_r2l25 asen keiner, so ein Erb sub Bene¬
+#facs_13_r4l9 finden.
+#facs_10_r2l1 35
+#facs_132_r3l2 ficio Inventarii angetretten, schul¬
+#facs_132_r3l3 dig seyn soll, aus seinem eigenen
+#facs_132_r3l4 Ruth, einen solchen nicht zu rechter
+#facs_132_r3l5 Zeit eingekommenen Ansprecher zu
+#facs_19_r3l10 bezahlen.
+#facs_132_r3l7 13te Satzung /: gleiches
+#facs_132_r3l8 Strafe der Bläubiger so ihre An¬
+#facs_132_r3l9 strachen vorsezlicher weise
+#facs_132_r3l10 nicht eingeben
+#facs_136_r3l21 Wann aber ein Gläubiger vorgibt, das ihm
+#facs_132_r3l12 genüglich erwiesen hat, daß er die
+#facs_132_r3l13 Aufforderung zur Eingabe der An¬
+#facs_132_r3l14 prachen zu rechter Zeit gewußt, seine
+#facs_132_r3l15 Anstrach hinderhalten und nicht ein¬
+#facs_132_r3l16 geben würde, so soll derselbe zu
+#facs_132_r3l17 rechter Strafe seine Ansprache verlie¬
+#facs_132_r3l18 men und ihm darum kein Recht ge¬
+#facs_12_r8l9 halten werden.
+#facs_128_r3l12 2te Sazung (9. der alten Sähung.)
+#facs_132_r3l21 Wie es während der Reventheit des
+#facs_132_r3l22 Buth8 halb, solle gehalten werden
+#facs_132_r3l23 Es hat allerdings des Rueths halb den Ver¬
+#facs_132_r3l24 Tand, daß dasselbe während der den
+#facs_132_r3l25 Erben vergänten Bedenkheit unberührt
+#facs_132_r3l26 inder dem Sigel verbleiben solle.
+#facs_132_r3l27 Jedoch
+#facs_133_r1l1 258
+#facs_133_r2l1 Jedoch soll der Richter des verstorbenen
+#facs_133_r2l2 Weib und Kinderen, inmittelst die
+#facs_133_r2l3 nöhtigen Nahrungs=Mittel und Klei¬
+#facs_133_r2l4 der zu kommen laßen. Die liegenden
+#facs_133_r2l5 Büter dann sollen Wahrend der Un¬
+#facs_133_r2l6 tersuchungs-Zeit, durch richterliche Ver¬
+#facs_133_r2l7 fügung besorgt, und solvohl nach Noth¬
+#facs_133_r2l8 fürft angebauet, als auch, wann es
+#facs_133_r2l9 sich ergibt, der Raub davon ein¬
+#facs_133_r2l10 gestainlet werden; alles zu Hansen
+#facs_133_r2l11 ber Verlaßenschaft.
+#facs_133_r2l12 15te Sazung /: 8te der alten Sitzung :/
+#facs_133_r2l13 Wie die den Erben vergonte Redenb.
+#facs_133_r2l14 Zeit verlängeret werden möge
+#facs_133_r2l15 Wann auch die den Erben gedachter maßen
+#facs_133_r2l16 vergönnte Bedenkzeit von zween Mona¬
+#facs_133_r2l17 ten, wegen Entlegenheit der Büter, oder
+#facs_133_r2l18 anderer erheblicher Bründen halb,
+#facs_133_r2l19 nicht genügsam wäre, um sich des Zu¬
+#facs_133_r2l20 stands der Verlaßenschafft zu er¬
+#facs_133_r2l21 kundigen; so mag der Richter je nach
+#facs_133_r2l22 den Umständen, sothane Ordrük,
+#facs_133_r2l23 Zeit verlängern, und soll als dann
+#facs_133_r2l24 diese Verlängerung, zu weilen frischer
+#facs_133_r2l25 lings ab den Kanzlin, an den Pfri¬
+#facs_133_r2l26 Leren, durch das Wochenbladt, und
+#facs_133_r3l1 259
+#facs_133_r3l2 allenfals auch durch die Zeitungen, jedoch
+#facs_133_r3l3 wie einmal bekant gemacht werden
+#facs_133_r3l4 16te Sazung /: 50r der alten Satzung :/
+#facs_133_r3l5 Wie nach verflossener Redentheit der
+#facs_133_r3l6 Heltstag erfolgen möge
+#facs_133_r3l7 Von nach geschehener Untersuchung die
+#facs_133_r3l8 Erben nicht rathsam finden, sich der Ver¬
+#facs_133_r3l9 laßenschaft zu beladen, so sollen sie
+#facs_133_r3l10 sich innerthalb vierzehen Tagen, nach
+#facs_133_r3l11 Auslauff der vergönnten Zeit, in der
+#facs_14_region_1627971782200_27l3 Stadt und Stadtgriest.
+#facs_133_r3l13 leutschen Appellations Cammer, auf
+#facs_133_r3l14 Dem Land aber vor dem Richter des
+#facs_133_r3l15 Ortt, deßen förmlich entlären, da¬
+#facs_133_r3l16 mit den zu mahl der Beltstag, nach
+#facs_133_r3l17 gewohnten Form erfolgen möge.
+#facs_133_r3l18 Anderlaßenden falls sie angesehen
+#facs_133_r3l19 werden sollen, als wann sie die Erb
+#facs_133_r3l20 schafft angetretten hätten.
+#facs_133_r3l21 17te Satzung /: 11t. der alten Sitzung :/
+#facs_133_r3l22 Wen von verschiedenen Erben, die
+#facs_133_r3l23 einten die Erbschafft antretten, die
+#facs_133_r3l24 anderen aber die Erbschafft aus,
+#facs_133_r3l25 schlagen
+#facs_133_r3l26 Wann verschiedene Erben vorhanden sind,
+#facs_133_r3l27 davon
+#facs_134_r1l1 260.
+#facs_134_r2l1 davon die einten die Erbschaft antresten.
+#facs_134_r2l2 die anderen aber dieselbe ausschlagen,
+#facs_134_r2l3 würden; so sollen die leztern von aller
+#facs_134_r2l4 Beschwerde und Verantwortung, so
+#facs_134_r2l5 vieles die Schulden dieser Erbschaft
+#facs_134_r2l6 halb betrift, entladen, hingegen aber
+#facs_134_r2l7 auch von allem disörtigen Bewinn
+#facs_134_r2l8 und Ruzen ausgeschloßen seyn. In
+#facs_134_r2l9 lem Verstande jedoch, daß wen je
+#facs_134_r2l10 mand, der die Erbschaft aufgeschla¬
+#facs_134_r2l11 gen, selbst eigene Anstrachen an
+#facs_134_r2l12 den Erblasser gehabt hätte, er dafür
+#facs_134_r2l13 so solle gehalten werden, wie er
+#facs_134_r2l14 däre volloziert worden, wann der
+#facs_134_r2l15 Beltstag erfolget wäre.
+#facs_134_r2l16 Stadt Sazung Pag. 284
+#facs_128_r2l13 zweyter Theil
+#facs_361_r2l3 XVIII.
+#facs_134_r2l19 Von Verführung des Beltstags
+#facs_134_r2l20 8te Sazung / 8. der alten Sezung :/
+#facs_134_r2l21 Wie die Beltsverordneten die drei
+#facs_134_r2l22 Heltstagen ordentlich ausschreiben
+#facs_134_r2l23 und tund machen sollen.
+#facs_136_r2l22 Die Gelts verordneten sollen schuldig seyn
+#facs_134_r3l1 261
+#facs_134_r3l2 gleichen so fort nach ihrer Bestellung
+#facs_134_r3l3 die drey Belts tagen, die ordent¬
+#facs_134_r3l4 licher weise zu Abnahm und Un¬
+#facs_134_r3l5 Versuchung der Bläubigeren An¬
+#facs_134_r3l6 prachen gehalten werden, nach
+#facs_134_r3l7 mes jeden Orts Belegenheit, behö¬
+#facs_134_r3l8 rigermaßen öffentlich ausschrei¬
+#facs_134_r3l9 ben und Bundmachen, und zwar
+#facs_134_r3l10 in Weise und gestalt wie hienach
+#facs_134_r3l11 folget.
+#facs_130_r3l28 8te Sazung /: Reu:/
+#facs_130_r3l3 Wie die öffentliche Aufforderung
+#facs_134_r3l14 der Bläubiger durch Verlesung
+#facs_134_r3l15 von Kanzlen geschehen solle
+#facs_130_r3l6 In der Hauptstadt ist solche nicht üblich¬
+#facs_134_r3l17 Auf dem Land aber soll sie an dem
+#facs_134_r3l18 Wohn Ort des Beltstagers in den
+#facs_134_r3l19 Recht nächst gelegenen Kirchhören
+#facs_134_r3l20 wie auch in der Kirchhöre feines Hey
+#facs_134_r3l21 naths drey Sontage nach einander
+#facs_134_r3l22 geschehen. Diejenigen Geltstagen
+#facs_134_r3l23 aber, die auf erhaltene und behöriger
+#facs_134_r3l24 maßen publicierte Beneficia Inven¬
+#facs_134_r3l25 Carij erfolgen, sollen nur einmal
+#facs_134_r3l26 publicirt werden. Solten aber
+#facs_136_r2l28 die
+#facs_135_r1l1 262.
+#facs_135_r2l1 die Umstände es erheischen, daß
+#facs_135_r2l2 diese Verlesung an mehreren Orten
+#facs_135_r2l3 konnöthen wäre, so wird es dem
+#facs_135_r2l4 Richter überlaßen solche zu bestim¬
+#facs_130_r3l16 men. Die Pfarrer sollen indeßen
+#facs_135_r2l6 geweilen in den Leszedlen einschreiben
+#facs_135_r2l7 an welchen Tagen die Verlesung
+#facs_135_r2l8 geschehen sey, und solche nachher dem
+#facs_130_r3l20 Schreiber, der die Verschreibung zu
+#facs_130_r3l21 besorgen hat, zu stellen, welcher
+#facs_135_r2l11 Wann im Heltstagrodel specificirt
+#facs_135_r2l12 aussezen soll, an welchen Orten
+#facs_135_r2l13 die Verlesung geschehen, wie viel
+#facs_135_r2l14 Publikationen gemacht, und Wie
+#facs_135_r2l15 viel für jede Publikation bezalt
+#facs_135_r2l16 worden sey
+#facs_130_r3l28 8te Sazung /: Reu:/
+#facs_130_r3l29 Wie die öffentliche Anschlagung
+#facs_135_r2l19 den Pfeileren geschehen solle.
+#facs_135_r2l20 Alle zu Stadt und Land erkenten Belts¬
+#facs_135_r2l21 Tage, sollen an den drey gewohnten Pfei¬
+#facs_135_r2l22 Leren der Hauptstadt angeschlagen
+#facs_135_r2l23 werden. So sollen auch die jenigen
+#facs_135_r2l24 Beltstage, so von der Kanzel sind ver¬
+#facs_4_r10l4 les
+#facs_135_r3l1 263
+#facs_135_r3l2 lesen worden, an dem Wohn Ort und
+#facs_135_r3l3 Heymath des Aeltstagers angeschla¬
+#facs_116_r1l21 gen werden
+#facs_130_r3l2 7te Sazung /: Neu¬
+#facs_131_r2l10 Wie die Publication durch das Sie
+#facs_131_r2l11 sige Wochenblatt geschehen solle.
+#facs_131_r2l12 In fernerem sollen alle zu Stadt und
+#facs_135_r3l9 kam erkennnten Beltstagen in dem
+#facs_135_r3l10 hiesigen Wochenbladt dreymahl nach
+#facs_135_r3l11 einander, unter den hierzu eigens
+#facs_131_r2l16 gewidmeten Titel eingerübt im
+#facs_131_r2l17 durch daßelbe bekant gemacht werden
+#facs_135_r3l14 12te Sazung /: Nach
+#facs_135_r3l15 Was fur mehrere vorsorgen in anse-
+#facs_135_r3l16 sen der dißortigen Publication
+#facs_131_r2l21 zu gebrauchen seyen.
+#facs_131_r2l22 Wann der Schreiber in den Hausbücheren
+#facs_135_r3l19 anderen Schriften des Geltstägers Spuren
+#facs_135_r3l20 finden würde, oder ihm sonst bekant
+#facs_4_r8l3 I
+#facs_135_r3l22 mand an den selben
+#facs_135_r3l23 wäre, daß je
+#facs_135_r3l24 Ansprache zu formieren habe, so soll
+#facs_135_r3l25 er gehalten seyn, dem Bläubiger
+#facs_135_r3l26 surcheinen Brief, den Beltstag kund
+#facs_135_r3l27 zu thun, damit derselbe sein Recht
+#facs_135_r3l28 behörig besorgen könne. Ein glei¬
+#facs_135_r3l29 ches
+#facs_134_r3l1 261
+#facs_136_r2l1 ches soll, er auch zu thun gehalten seyn.
+#facs_136_r2l2 gegen diejenigen Bläubiger, die
+#facs_136_r2l3 bey dem ersten Heltstag ihre An¬
+#facs_136_r2l4 strachen nicht würden eingegeben
+#facs_136_r2l5 haben, für welche Remühung dann
+#facs_136_r2l6 Tariffenmäßig bezalt werden,
+#facs_136_r2l7 wird. dem Beltstag Rodel soll auch
+#facs_136_r2l8 eingerückt werden, an wen und wel¬
+#facs_136_r2l9 chen Tags solche Arisbriefe abge¬
+#facs_136_r2l10 gangen seyen. Fals auch die
+#facs_136_r2l11 Umstände es erforderten, daß
+#facs_136_r2l12 der Beltstag durch eine oder
+#facs_136_r2l13 meh,
+#facs_136_r2l14 re Zeitungen bekannt gemacht
+#facs_136_r2l15 werden solte, so soll der Richter des
+#facs_136_r2l16 Orts solches gewohnter maßen vor
+#facs_136_r2l17 sich gehen laßen.
+#facs_128_r3l12 2te Sazung (9. der alten Sähung.)
+#facs_136_r2l19 Dass der Beltstag in einer Zeit von
+#facs_136_r2l20 drey Monaten verführt werden.
+#facs_136_r2l21 sollte.
+#facs_136_r2l22 Die Gelts verordneten sollen schuldig seyn
+#facs_136_r2l23 hen Aeltstag in einer Zeit von drey
+#facs_136_r2l24 Manaten zu verführen, und sollen
+#facs_136_r2l25 zu solchem Ende die drey Geltstage alle
+#facs_136_r2l26 Mahl von Zwanzig zu zwanzig Ta¬
+#facs_136_r2l27 gen gehalten werden. Von jedoch
+#facs_136_r2l28 die
+#facs_135_r3l1 263
+#facs_17_r10l10 die gelts verordnete Schreiber und Weibel
+#facs_136_r3l3 und zweyten Geltstag zusammen neh¬
+#facs_136_r3l4 men und den dritten Beltstag
+#facs_136_r3l5 von da wegg über zwey Monat
+#facs_136_r3l6 halten wolten, so mögen sie es wohl
+#facs_92_r9l31 Thun
+#facs_136_r3l8 54 Sazung (10t. der alten Sätzung)
+#facs_136_r3l9 Wen der Beltstag in der Zeit von drey
+#facs_136_r3l10 Monaten nicht zu Ehe gebracht
+#facs_136_r3l11 werden mag.
+#facs_136_r3l12 Wann aber solche Hinderniße vorhanden
+#facs_136_r3l13 waren, daß der Geltstag nicht in
+#facs_136_r3l14 ler Zeit von drey Monaten, wie ge
+#facs_136_r3l15 sezt, zu End gebracht werden möchte,
+#facs_136_r3l16 so sollen die Beltsverordneten sotha¬
+#facs_136_r3l17 ne Hinderniße an dem Ort, da sie da
+#facs_136_r3l18 zu bestelt worden, gebührlich anzeigen.
+#facs_136_r3l19 18te Sazung /: Neu :/ folgt der 13ten Söhung
+#facs_335_r3l17 Erläuterung
+#facs_136_r3l21 Wann aber ein Gläubiger vorgibt, das ihm
+#facs_136_r3l22 der Beltstag und deßen Publication nicht
+#facs_136_r3l23 bekannt geworden sey; so soll derselbe
+#facs_136_r3l24 schuldig seyn, auf Begehren der
+#facs_68_r4l37 16,6
+#facs_137_r2l1 übrigen Bläubiger solches eydlich zu
+#facs_137_r2l2 behaupten
+#facs_137_r2l3 Stadt Sazung Pag: 318.
+#facs_128_r2l13 zweyter Theil
+#facs_137_r2l5 XXIII. Titul
+#facs_137_r2l6 Von Revision des Beltstages.
+#facs_137_r2l7 10te Satzung /: Neu :/ folgt der 9ten allen Rechnung
+#facs_335_r3l17 Erläuterung
+#facs_137_r2l9 Es sollen jedennoch bey voriger Sähung vor¬
+#facs_137_r2l10 behalten seyn, wie Bläubiger, die ihre
+#facs_137_r2l11 Anstrache an dem Adeltstag aus Un¬
+#facs_137_r2l12 Wissenheit nicht eingegeben, und solches
+#facs_137_r2l13 auf Begehren der übrigen Bläubi
+#facs_137_r2l14 ger eydlich behauptet hätten, was
+#facs_137_r2l15 sen dieselben innerthalb einem Jahr
+#facs_137_r2l16 von der Pasation des Heltstag
+#facs_137_r2l17 rodels anzurechnen, sich um die
+#facs_137_r2l18 Revision des Aeltstags noch sollen
+#facs_137_r2l19 anmelden können.
+#facs_137_r2l20 Dieses
+#facs_128_r2l20 solle.
+#facs_37_r1l1 66
+#facs_135_r1l1 262.
+#facs_137_r4l2 Dieses ist nun Unser Hochobrigkeit,
+#facs_137_r4l3 liche Wille und Verordnung, den
+#facs_137_r4l4 Wir zu jedermanns Nachricht und
+#facs_137_r4l5 verhalt, anmit öffentlich kund thun
+#facs_137_r4l6 und in Druk ausgehen lasen
+#facs_259_r3l11 Geben in Unferer großen
+#facs_209_r2l24 Raths=Versamlung, den 24. Hornung 1786.
+#facs_137_r4l9 26 Tag Wintermonats 1784
+#facs_47_r3l5 Lanzley Bern.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_137_r4l12 Alle deutsche und weltsche Herren
+#facs_137_r4l13 Amtleute, Vier Städte, drey Weibel
+#facs_137_r4l14 und Amann; denne p. Zedel an
+#facs_137_r4l15 die hiesigen Känzel, und Placcardo
+#facs_137_r4l16 an die Pfeiler
+#facs_70_r2l26 Jage Verbott
+#facs_137_r4l18 Schultheis und Raths sey wider her¬
+#facs_137_r4l19 anrükender Zeit, da dem Bewild
+#facs_137_r4l20 verschont werden soll, wollen Wir
+#facs_317_r2l6 Unseren
+#facs_137_r4l22 an das deutsche Land
+#facs_137_r4l23 Von nächstkünftigem 1. Jänner
+#facs_6_region_1627936574015_66l1 6
+#facs_138_r2l1 an, bis auf den zweyten Montag
+#facs_70_r2l38 im Herbstmonat /: jedoch mit
+#facs_138_r2l3 Vogelschießens halb in der neuen
+#facs_274_r4l19 Jüger Ordnung vom 20t. Heimnonat
+#facs_138_r2l5 hinwegg enthaltenen Antnahme¬
+#facs_138_r2l6 an das welsche Land¬
+#facs_138_r2l7 son nächst bünstiger Liechtmess an
+#facs_138_r2l8 biß Bartolomei -
+#facs_138_r2l9 Unseren Angehörigen aber das
+#facs_138_r2l10 ganze Jahr hindurch, alles Heyrnschiet¬
+#facs_70_r5l4 Jagen und Fahen des Gewilds und
+#facs_138_r2l12 und der Vögel, es seye mit Lätschen
+#facs_138_r2l13 oder Barnen, flinten oder auf an¬
+#facs_138_r2l14 fere Weise, allerdings und bey der
+#facs_138_r2l15 in der neuen (weltsche Land, daheri
+#facs_138_r2l16 ger) Jäger Ordnung ausgedruk¬
+#facs_138_r2l17 ten Buß verbodten haben. Jeder
+#facs_138_r2l18 mäniglich ernstmeinem Befehlende
+#facs_138_r2l19 der Vorschrift gemelter Ordnung nach¬
+#facs_138_r2l20 zu kommen, und solche in alle Wege
+#facs_138_r2l21 zu beobachten; welches zu eines je¬
+#facs_138_r2l22 den verhalt, öffentlich von Kanzeln
+#facs_138_r2l23 verlesen werden soll. Datum
+#facs_138_r2l24 den 14 Decembris 1784.
+#facs_100_r2l1 soll.
+#facs_138_r4l1 269
+#facs_23_region_1633454616028_2913l1 An
+#facs_167_r5l18 alle deutsch und Weltsche Herren Andeleute
+#facs_138_r4l4 vier Städte, Freyweibel und Amann, denen
+#facs_138_r4l5 Zedel an die Cänsel hiesiger Hauptstadt
+#facs_125_r4l6 Meßerzuben
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_138_r4l8 Damit dem seit einiger Zeit in Unseren
+#facs_138_r4l9 Landen je mehr und mehr einreißenden so
+#facs_138_r4l10 träflich als gefährlichen Meser zu den
+#facs_138_r4l11 auf alle mögliche Weise vorgebogen
+#facs_52_r4l15 werden könne.
+#facs_138_r4l13 Tärkung daß Euch bereits sub dato
+#facs_138_r4l14 19 gbris verflosenen Jahrs über¬
+#facs_138_r4l15 rendten Befehls annoch gutbefunden
+#facs_138_r4l16 und erkent, mitgehende Verordnung
+#facs_138_r4l17 hierüber zu nohtwendiger Erinnerung
+#facs_138_r4l18 an das Landsolb, dem alljärlich von
+#facs_138_r4l19 Canzlen zu verlesenden Stäyen Man¬
+#facs_138_r4l20 dat, zu Ende des VI. Artibuls dessel¬
+#facs_138_r4l21 ben beifügen zu lasen, und be¬
+#facs_138_r4l22 Enerin
+#facs_138_r4l23 fehlen Euch solches denen in
+#facs_138_r4l24 Amt bestelten Pfarrherrn zu
+#facs_138_r4l25 ihrem Verhalt und genauer Befolg¬
+#facs_138_r4l26 ung kund zu thun. Datum die
+#facs_138_r4l27 22t Novembris 1784
+#facs_100_r2l1 soll.
+#facs_7_r7l1 9
+#facs_83_r3l17 Anhang
+#facs_139_r2l2 zu dem 6ten Artikel des Mäyen Mandati
+#facs_139_r2l3 Nicht minder verwarnen Wir alles Ernst
+#facs_139_r2l4 alle und jede Unsere Angehörige Vor¬
+#facs_139_r2l5 dem in unseren Landen bey sich eräuß¬
+#facs_139_r2l6 nenden Schlägereyen je mehr und mehr
+#facs_139_r2l7 einreißenden so gefährlich als sträfliche
+#facs_139_r2l8 Vergehen des Meßerzukent, und ist
+#facs_139_r2l9 Unser ernstliche Wille und Befehl, daß
+#facs_139_r2l10 wer sich deßen schuldig macht, wann
+#facs_139_r2l11 auch schon kein Schaden daraus erfolg
+#facs_139_r2l12 te, ohne schonen nach der hierüber
+#facs_139_r2l13 in unseren Sazungen bestimmten
+#facs_139_r2l14 Straf solle angesehen werden; und
+#facs_139_r2l15 um so danehr wen jemand da durch
+#facs_139_r2l16 beschädigt wurde, da sodann Wir in
+#facs_139_r2l17 Diesem Fall Uns die Bestrafung des
+#facs_139_r2l18 Verbrechens selbsten vorbthalten, und
+#facs_139_r2l19 volches je nach Bewandniß der Um¬
+#facs_139_r2l20 Ständen mit aller Schürfe besten¬
+#facs_139_r2l21 fen werden. Geben den 22ten Winter
+#facs_139_r2l22 monats 1784.
+#facs_21_region_1633454498812_2865l23 Canzleyvern.
+#facs_100_r2l1 soll.
+#facs_139_r4l1 271
+#facs_139_r4l2 Adjonction
+#facs_139_r4l3 a l'Ordonnance sur
+#facs_139_r4l4 à l'Article VI
+#facs_4_r10l4 les
+#facs_139_r4l6 Nous ne défendons non moins sévere.
+#facs_139_r4l7 ment à tous Nos sujets et Ressortis
+#facs_139_r4l8 sants, l'Attentat aussi dangereux que
+#facs_139_r4l9 punissable de se servir, attaquer ou dé
+#facs_139_r4l10 fendre à coups de couteaux dans les dis
+#facs_139_r4l11 putes et querelles qui surviennent; at
+#facs_139_r4l12 tentat qui malheureusement devient
+#facs_139_r4l13 plus frequent de jour en jour, Nous
+#facs_139_r4l14 declarons donc très serieusement que celui
+#facs_139_r4l15 ou ceux qui s'en seront rendus coupab
+#facs_139_r4l16 les, seront punis d'après la teneur
+#facs_139_r4l17 de Nos Ordonnances à ce sujet, lors
+#facs_139_r4l18 même qu'il ne s'en ensuivroit aucun
+#facs_139_r4l19 domage, à plus forte raison, et Nous-
+#facs_139_r4l20 reservons nous de juger nous
+#facs_139_r4l21 mêmes severement suivant l'Exi-
+#facs_139_r4l22 geance du cas celui ou ceux qui par
+#facs_139_r4l23 ce moyen auront eudomagé ou blesse
+#facs_139_r4l24 quelqu'un
+#facs_139_r4l25 Donné le 22. Novembre 1784
+#facs_42_r3l9 Chancellerie de Derne

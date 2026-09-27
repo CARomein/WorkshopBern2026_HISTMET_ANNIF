@@ -1,0 +1,301 @@
+Law ID: BER.01.001.4122
+Name: Sollen auf die Pfründ-Güter und Gebeüw geflissnere Achtung geben.
+
+#facs_23_r4l21 1. Ver denen Ordinari Amts Rechnungen
+#facs_23_r4l22 1760
+#facs_23_r4l23 montags den Je
+#facs_23_r4l24 Große Salz Rechnung
+#facs_23_r4l25 ten
+#facs_23_r4l26 Jaa Galter
+#facs_23_r4l27 9
+#facs_23_r4l28 Mitbocht
+#facs_23_r4l29 Schallenhaus
+#facs_23_r4l30 silber verhalter
+#facs_23_r4l31 Denstags 10
+#facs_23_r4l32 Caulanten Camer
+#facs_23_r4l33 schul seibel
+#facs_23_r4l34 en
+#facs_23_r4l35 almosen Directe
+#facs_23_r4l36 Montagd 14
+#facs_23_r4l37 Buchsen, almosen
+#facs_23_r4l38 almosen Cammer
+#facs_23_r4l39 secretarius
+#facs_24_r2l1 2. Crdinari Ants, Rechnunger
+#facs_24_r2l2 1760
+#facs_24_r2l3 Januarii
+#facs_24_r2l4 den 16
+#facs_24_r2l5 Mitlocht
+#facs_24_r2l6 3 Kornberr
+#facs_24_r2l7 2 Muthafen
+#facs_24_r2l8 siechenhaus
+#facs_24_r2l9 Donstagd
+#facs_24_r2l10 17.
+#facs_24_r2l11 Interlaberhaus)
+#facs_24_r2l12 b konit
+#facs_24_r2l13 21
+#facs_24_r2l14 Montags
+#facs_24_r2l15 ignau
+#facs_24_r2l16 Gotstatt
+#facs_24_r2l17 23
+#facs_24_r2l18 Mitwochs
+#facs_24_r2l19 2 Ny dau
+#facs_24_r2l20 6. Arberg
+#facs_24_r2l21 242
+#facs_24_r2l22 Donstags.
+#facs_24_r2l23 2helach
+#facs_24_r2l24 
+#facs_24_r2l25 Eoß Weinschenke
+#facs_24_r2l26 25
+#facs_24_r2l27 Freÿtags
+#facs_24_r2l28 10
+#facs_24_r2l29 3. St. Johansen
+#facs_24_r2l30 28.
+#facs_24_r2l31 Montags
+#facs_24_r2l32 2N. Johanser Haus
+#facs_24_r2l33 2 Smmisald.
+#facs_24_r2l34 30
+#facs_24_r2l35 Mitlecht.
+#facs_24_r2l36 1. Hettisbyl
+#facs_24_r2l37 1 Frienisberg ab
+#facs_24_r2l38 70
+#facs_24_r2l39 31
+#facs_24_r2l40 donstags.
+#facs_24_r2l41 ohrienisb Haus
+#facs_24_r3l1 Ordinari Amts, Rechnungen.
+#facs_24_r3l2 3. 4 Prandson.
+#facs_24_r3l3 Samstags den
+#facs_24_r3l4 3. h scherlitz
+#facs_24_r3l5 Montags
+#facs_24_r3l6 Shorberg
+#facs_24_r3l7 Mitwochs
+#facs_24_r3l8 gkandthet.
+#facs_24_r3l9 3 Fraubenme
+#facs_24_r3l10 Donstags
+#facs_24_r3l11 1
+#facs_24_r3l12 3 Laupen.
+#facs_24_r3l13 3 Buren.
+#facs_24_r3l14 Freytags
+#facs_24_r3l15 3. Pätterlingen
+#facs_24_r3l16 samstagt
+#facs_24_r3l17 2e Wiblidburg
+#facs_24_r3l18 i
+#facs_24_r3l19 Montags
+#facs_24_r3l20 1.
+#facs_24_r3l21 oberhofen,
+#facs_24_r3l22 Bachster.
+#facs_24_r3l23 Mittbocht
+#facs_24_r3l24 
+#facs_24_r3l25 3. Winnis.
+#facs_24_r3l26 Donstags
+#facs_24_r3l27 angen
+#facs_24_r3l28 Arbangen
+#facs_24_r3l29 heiglags
+#facs_24_r3l30 8 Merten
+#facs_24_r3l31 montags
+#facs_24_r3l32 Stiffl darw
+#facs_24_r3l33 18 2
+#facs_24_r4l1 39
+#facs_24_r4l2 1760
+#facs_24_r4l3 Februarius
+#facs_24_r4l4 en
+#facs_24_r4l5 2.
+#facs_24_r4l6 
+#facs_24_r4l7 ten
+#facs_24_r4l8 6.
+#facs_24_r4l9 pten
+#facs_24_r4l10 gten
+#facs_24_r4l11 ten
+#facs_24_r4l12 
+#facs_24_r4l13 gsten
+#facs_24_r4l14 en
+#facs_24_r4l15 13.
+#facs_24_r4l16 14 l
+#facs_24_r4l17 sslen
+#facs_24_r4l18 san
+#facs_25_r2l1 Ordinari Amts-Rechnungen
+#facs_25_r2l2 Februas
+#facs_25_r2l3 um schloß
+#facs_25_r2l4 Mottlochs
+#facs_25_r2l5 den
+#facs_25_r2l6 e
+#facs_25_r2l7 Jatterlac shaflig
+#facs_25_r2l8 Burgebe
+#facs_25_r2l9 Donstags
+#facs_25_r2l10 21
+#facs_25_r2l11 
+#facs_25_r2l12 andis
+#facs_25_r2l13 Freÿtags
+#facs_25_r2l14 22
+#facs_25_r2l15 5 Lausanre
+#facs_25_r2l16 Kaūfhaūß und
+#facs_25_r2l17 25
+#facs_25_r2l18 
+#facs_25_r2l19 Montags
+#facs_25_r2l20 2b9
+#facs_25_r2l21 2 heuligen
+#facs_25_r2l22 2
+#facs_25_r2l23 Mitrocht
+#facs_25_r2l24 soes imen
+#facs_25_r2l25 102
+#facs_25_r2l26 4. Interlaben
+#facs_25_r2l27 282
+#facs_25_r2l28 Vonstags
+#facs_25_r2l29 5
+#facs_25_r2l30 4 Unterseen
+#facs_25_r2l31 292
+#facs_25_r2l32 saubonne
+#facs_25_r2l33 Freytags
+#facs_25_r2l34 Martu
+#facs_25_r2l35 1le
+#facs_25_r2l36 1 Morsee
+#facs_25_r2l37 Samstags den
+#facs_25_r2l38 12. Jusul
+#facs_25_r2l39 34
+#facs_25_r2l40 Montags
+#facs_25_r2l41 8wrachselwald
+#facs_25_r2l42 zeüghauß.
+#facs_25_r2l43 
+#facs_25_r2l44 Mittwocht
+#facs_25_r2l45 2 PulterHandlung
+#facs_25_r2l46 5 Urburg schloß.
+#facs_25_r2l47 66
+#facs_25_r2l48 donstags
+#facs_25_r2l49 5 Garnison
+#facs_25_r2l50 4. Romainmotier
+#facs_25_r2l51 pt
+#facs_25_r2l52 freytags
+#facs_25_r2l53 Biberstein schles.
+#facs_25_r2l54 2 Felispach schafner
+#facs_25_r2l55 Montags
+#facs_25_r2l56 107
+#facs_25_r3l1 41.
+#facs_25_r3l2 Ordinari Rints-Rechnungen
+#facs_25_r3l3 1760
+#facs_25_r3l4 Martius
+#facs_25_r3l5 
+#facs_25_r3l6 12
+#facs_25_r3l7 den
+#facs_25_r3l8 
+#facs_25_r3l9 Schenbenberg  Mittlocht
+#facs_25_r3l10 4. Castelen
+#facs_25_r3l11 ten
+#facs_25_r3l12 13.
+#facs_25_r3l13 Donstags
+#facs_25_r3l14 3. Jofingen
+#facs_25_r3l15 1l
+#facs_25_r3l16 frentags
+#facs_25_r3l17 ten
+#facs_25_r3l18 Reūbs
+#facs_25_r3l19 samstags
+#facs_25_r3l20 
+#facs_25_r3l21 15
+#facs_25_r3l22 5. Bonmont
+#facs_25_r3l23 plen
+#facs_25_r3l24 
+#facs_25_r3l25 Montags
+#facs_25_r3l26 21 Groß spittahl
+#facs_25_r3l27 ten
+#facs_25_r3l28 19
+#facs_25_r3l29 M Aworhs
+#facs_25_r3l30 2 Königsfelden.
+#facs_25_r3l31 ase
+#facs_25_r3l32 Donstags
+#facs_25_r3l33 sahlen
+#facs_25_r3l34 5 snen
+#facs_25_r3l35 l
+#facs_25_r3l36 Freytags
+#facs_25_r3l37 2 Plibis
+#facs_25_r3l38 2
+#facs_25_r3l39 samstagt
+#facs_25_r3l40 Cron
+#facs_25_r3l41 Neüenstatt
+#facs_25_r3l42 
+#facs_25_r3l43 Montags
+#facs_25_r3l44 4 Paulo Amt
+#facs_25_r3l45 6
+#facs_25_r3l46 1. Roche.
+#facs_25_r3l47 Groß Korn Magar. Mitlochs.
+#facs_25_r3l48 alhier.
+#facs_25_r3l49 ten
+#facs_25_r3l50 27.
+#facs_25_r3l51 Donstags
+#facs_25_r3l52 Kenzburg
+#facs_25_r3l53 28
+#facs_25_r3l54 der ilden. Freytags
+#facs_26_r2l1 Archnungen nach Ostern
+#facs_26_r2l2 und im Lauß des Jahrs 1760
+#facs_26_r2l3 Straßen rechnung
+#facs_26_r2l4 Montags den 26tn
+#facs_26_r2l5 stattwacht.
+#facs_26_r2l6 Hundeli pfleger
+#facs_26_r2l7 Umgelt auf ) iner Bezirb
+#facs_26_r2l8 Montagd dend Je
+#facs_26_r2l9 dem land) außer Behirt
+#facs_26_r2l10 Umgelt in der Statt
+#facs_26_r2l11 Montagd den 25
+#facs_26_r2l12 sotpfennung.
+#facs_26_r2l13 Kirchmeyer vom Raht.
+#facs_26_r2l14 von Burgeren  donstags den 28ten
+#facs_26_r2l15 Oberhadle land Amman.
+#facs_26_r2l16 thun, korn schaffner montags den 1ten sep
+#facs_26_r2l17 D. Weinlenk
+#facs_26_r2l18 Groß Almodner montags den 8ten e
+#facs_26_r2l19 E
+#facs_26_r2l20 
+#facs_26_r2l21 Ea
+#facs_26_r3l1 oll.
+#facs_26_r3l2 tindtad bage
+#facs_26_r3l3 36
+#facs_26_r4l1 43
+#facs_26_r4l2 An
+#facs_26_r4l3 Alle teutsche AmtLeut, item an Hr Stifft Schafnera
+#facs_26_r4l4 hihzottstatt, Schwarzenburg, könits und zofingenlcon
+#facs_26_r4l5 denne die schaffnere der oberkeiten häuseren
+
+#facs_26_r4l6 Sollen auf die Pfeund, Guter und Gebeülo ge¬
+#facs_26_r4l7 flißnere Achtung geben
+#facs_26_r4l8 chultbeiß und Galt etc.
+#facs_26_r4l9 Indeme die nahmhafften Umbösteneso
+#facs_26_r4l10 seit gerammer zeit uns wegen Erbederung
+#facs_26_r4l11 der pfrund, Gütenen, darzu gehörigen Ge¬
+#facs_26_r4l12 bäuden brinnen und dergleichen aufge-
+#facs_26_r4l13 fallen, mehrentheils wegen deren schlechten
+#facs_26_r4l14 besorgung harfließen etc. ein solches dann
+#facs_26_r4l15 nicht allein denen pfarrherren, so daharige
+#facs_26_r4l16 Einkommens dermahlen genos sind, sondern auch
+#facs_26_r4l17 Theild Unsteren AmtLeuten, welchen die
+#facs_26_r4l18 aufsicht oblieget und denen bestalten
+#facs_26_r4l19 Juraten, so nach Unserer in A. 1746. und
+#facs_26_r4l20 1748. in Truk andgegebener Predickanten
+#facs_26_r4l21 Ordnung, bey denen Visitationen alled ge¬
+#facs_26_r4l22 naul undersuchen, und an den alle
+#facs_26_r4l23 schähel. Capitlen, den Gericht erstatten
+#facs_26_r4l24 sollen, bey zu mehlen ist, So haben
+#facs_26_r4l25 Wir und bemüßiget geseten, Euch¬
+#facs_26_r4l26 anmit befelchlichen aufzutragen, nicht
+#facs_26_r4l27 allein denen pfarher, so unter Ench
+#facs_26_r4l28 stehen, ihrer pflichten deshalben
+#facs_27_r2l1 auf ein frisches zu errinneren, sein
+#facs_27_r2l2 dern auch nach denen obligenheit
+#facs_27_r2l3 welche in dem Euerer Amtd, Pter¬
+#facs_27_r2l4 beygelegten Eyd und Ordnung
+#facs_27_r2l5 mehrerem beschriben sind, Euch zu
+#facs_27_r2l6 verhalten, und mithin von Zeit zu
+#facs_27_r2l7 Zeit, alles gebührend zu visitiren
+#facs_27_r2l8 demnach dann zu invigiliren
+#facs_27_r2l9 daß die verordneten Juraten
+#facs_27_r2l10 gehweilen auch nach Vorschrifft angezo¬
+#facs_27_r2l11 gener Predikanten ordnung sich
+#facs_27_r2l12 verhalten und in denen alljährlich
+#facs_27_r2l13 obhaltenden capitlen, dahero den pflich
+#facs_27_r2l14 müßigen bericht erstatten, damit
+#facs_27_r2l15 wo Ieh einiche Erbeßerung, daran
+#facs_27_r2l16 von nölten wäre, solches furderlich
+#facs_27_r2l17 einberichtet und demnach die
+#facs_27_r2l18 gemeßdenen Anstalten vorgebehret
+#facs_27_r2l19 werden können.
+#facs_27_r2l20 Min in alle
+#facs_27_r2l21 zuthun, auch solches seine Ort
+#facs_27_r2l22 nachrichtlichen einschreiben zu
+#facs_27_r2l23 laßen, ihr bestend wüßen
+#facs_27_r2l24 werdet. Datum  12 decembr 11.

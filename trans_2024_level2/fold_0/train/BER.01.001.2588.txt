@@ -1,0 +1,25 @@
+BER.01.001.2588
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 16/16
+# High similarity (>=50%): 14
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_86_r5l1 1621
+#facs_86_r5l2 An alle H. und W. Ambtleicht,
+#facs_86_r5l3 4. Stätt, Freyekl. und Ammann
+#facs_86_r5l4 Item allhier p placcards an alle Uffeiler und
+#facs_86_r5l5 Die Collinsche Künffpündler von Ao. 1667
+#facs_86_r5l6 verruffen
+#facs_86_r5l7 Statthalter, Räht vnd Burger der Statt Bern,
+#facs_86_r5l8 Die Collnischen Fünffpfündler im Jahr 1661 gepräget
+#facs_86_r5l9 habend wir von Ihrer Vngleichen und Theils geringen Halts wegen
+#facs_86_r5l10 vmb mehrer sicherheit willen ohne Vnderscheid abzuruffen
+#facs_86_r5l11 gutfunden; Maßen wir demnach von den getrukten Ver¬
+#facs_86_r5l12 Auffungs placcards die hiemit beyligende Exemplaria
+#facs_86_r5l13 zu schiken und darbey zu befehlen wollen, dieselben zu
+#facs_86_r5l14 Männiglichs nachricht alsobald aller öffentlichen ohrten
+#facs_86_r5l15 abschl anschlagen zu lassen. Gott mit dir. Datum 28. Martii
+#facs_86_r5l16 1667 1695

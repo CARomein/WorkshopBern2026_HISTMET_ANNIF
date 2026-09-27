@@ -1,0 +1,91 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 82/84
+# High similarity (>=80%): 77
+# Low similarity (<80%): 5
+# Not found: 2
+#
+# NOT FOUND: BER.01.001.4817
+#facs_72_r3l18 verboll
+#facs_232_r5l16 der kleinen Genfer Thaler, und Würdigung der
+#facs_232_r5l17 Luzerner, Solothurner und Neuenburger Kleinen
+#facs_232_r5l18 wie auch der Luzerner Großen thaler bekannt gemacht.
+#facs_260_r3l23 An alle deutsch und welche Herren Amtleüte u. Schaßner,
+#facs_21_r3l24 Freyweibel
+#facs_211_r3l9 Schultheiß Rath und Burger der Stadt Bern
+#facs_232_r5l22 Von beyliegender Bekanntmachung durch
+#facs_52_r3l26 = welche
+#facs_126_r2l51 45
+#facs_83_r2l1 Collats
+#facs_8_r6l1 9
+#facs_233_r3l1 welche wir die kleinen Thaler der Löbl. Stande
+#facs_233_r3l2 und Orte, Luzern Solothurn und Neuenburg
+#facs_233_r3l3 auf Wezen 19f und den großen Thaler von
+#facs_233_r3l4 Luzern auf àigen 38. herunter gewirdiget.
+#facs_233_r3l5 die kleinen Genfer Thaler gänzlich verbotten
+#facs_233_r3l6 haben, übersenden Wir Euch eine hinlängliche
+#facs_233_r3l7 Anzahl Exemplarien, mit dem Befehl, solche
+#facs_233_r3l8 sowohl von Canzeln verlesen als ange¬
+#facs_233_r3l9 wohnten Orten anschlagen zulaßen; so dann
+#facs_308_r3l4 Hand obzuhalten, daß diesem Mrghhl
+#facs_233_r3l11 Einem Amte nachgekommen werde. Da
+#facs_233_r3l12 Ihr sie dann auch in Euer Mandaten Brich
+#facs_233_r3l13 ein schreiben lassen werdet. Geben den
+#facs_233_r3l14 14t Christmonat 1796.
+#facs_233_r3l15 detanntmachung
+#facs_160_r4l5 Mir Schultheiß Klein und Große Räthe der Stadt
+#facs_233_r3l17 und Republik Bern thun kund hiemit: daß Un¬
+#facs_233_r3l18 von Unsterer verordneten Münzkammer
+#facs_233_r3l19 der Raport erstattet worden, daß die kleinen
+#facs_233_r3l20 Thaler, welche die Löb. Stände und Orte Luzern
+#facs_233_r3l21 Solothurn und Neuenburg ganz neulich
+#facs_233_r3l22 haben schlagen laßen, so wie die großen Thaler
+#facs_233_r3l23 des Löbl. Standes Luzern von geringerin
+#facs_233_r3l24 Gehalte
+#facs_275_r1l1 1536
+#facs_233_r4l2 Gehalte seyen, als diejenigen Thaler welche wir unter
+#facs_233_r4l3 Unserem eigenen Stempel ausprägen, und so viel
+#facs_233_r4l4 die großen Thaler betrift um vierzig Ratzen, so viel
+#facs_233_r4l5 aber die kleinen Thaler betrift um zwanzig Jazen
+#facs_233_r4l6 haben ruffen lassen. Obschon nun zwar gedachte eidge¬
+#facs_233_r4l7 nößische Thaler von geringerm Gehalte sind als Unser¬
+#facs_233_r4l8 eigenen; so haben Wir sie dennoch nicht gänzlich ver-
+#facs_233_r4l9 bieten wollen; sondern wollen ihnen den Curs in
+#facs_233_r4l10 Unsern Landen noch ferner gestatten. Damit aber
+#facs_233_r4l11 durch deren Annahm Niemand zu Spaden kommen
+#facs_233_r4l12 so haben wir diese große und kleine Thaler von
+#facs_233_r4l13 Luzern, Solothurn und Neuenburg /: deren Geprag
+#facs_233_r4l14 hier unter abgedrubt ist :/ auf ihren Verhältnißmäß
+#facs_233_r4l15 zen Werth herunter gestezt, und demnach gewürdiget
+#facs_233_r4l16 wie folget: als nämlich die großen Thaler von Luzern
+#facs_233_r4l17 auf Acht und dreißig Ratzen, und die kleinen Thaler
+#facs_233_r4l18 von Luzern, Solothurn und Neuenburg auf Neunzehen
+#facs_233_r4l19 Bazen Bernbährung, so daß diese verschiedenen Münch¬
+#facs_233_r4l20 sorten allein um diesen werthin Unsern Landen
+#facs_233_r4l21 Curs haben und abgenommen werden sollen.
+#facs_233_r4l22 Was hingegen aber die kleinen Thaler an¬
+#facs_233_r4l23 betrift, welche die Stadt Genf auspragen läßt,
+#facs_233_r4l24 so wollen Wir dieselben unter das nämliche
+#facs_233_r4l25 Verbott gestezt haben, welches Wir laut Verord¬
+#facs_233_r4l26 nung vom 14ten September 1795, gegen die
+#facs_7_r2l1 3
+#facs_233_r4l28 dortigen großen Thaler haben ausgehen
+#facs_126_r2l51 45
+#facs_234_r1l2 und zwar bey Strafe der Confiscation der aus¬
+#facs_234_r1l3 zugeleuen Stüke, für den ersten Fehler, und
+#facs_234_r1l4 4 von welcher confi¬
+#facs_234_r1l5 cation und Busse eine
+#facs_234_r1l6 beygleicher Strafe, nebst noch einer Busse von
+#facs_234_r1l7 Brittel aus der Obrigkeit
+#facs_234_r1l8 eindrittel dem Richterd.
+#facs_234_r1l9 gleichem Werthe für den zweyten Fehler. 4
+#facs_234_r1l10 Orts, und ein Drittel,
+#facs_234_r1l11 dem Verleider an sein
+#facs_234_r1l12 Alles jedoch nur in solange Wir nicht Anlaß
+#facs_43_r2l6 hin bezahlen sollen
+#facs_234_r1l14 haben werden etwas anders zuverordnen.
+#facs_234_r1l15 Welches hiermit zu Jedermans Nachricht be¬
+#facs_234_r1l16 kannt gemacht wird
+#facs_234_r1l17 Geben den 14. Christmonat 1796
+# NOT FOUND: .
+#facs_98_r5l28 en

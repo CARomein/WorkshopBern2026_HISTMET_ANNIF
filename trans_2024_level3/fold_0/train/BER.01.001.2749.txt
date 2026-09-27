@@ -1,0 +1,48 @@
+BER.01.001.2749
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 39/39
+# High similarity (>=50%): 26
+# Low similarity (<50%): 13
+# Not found: 0
+#
+#facs_279_r4l1 se
+#facs_279_r4l2 den
+#facs_279_r4l3 4
+#facs_279_r4l4 1:
+#facs_279_r4l5 r
+#facs_279_r4l6 7
+#facs_279_r4l7 sionn
+#facs_279_r4l8 nag f
+#facs_279_r5l1 9
+#facs_279_r5l2 2
+#facs_279_r6l1 5
+#facs_279_r6l2 4.
+#facs_279_r6l3 -
+#facs_280_r1l1 : 46
+#facs_280_r1l2 Collat
+#facs_280_r2l1 An alle T: Ambtleüt
+#facs_280_r2l2 4. Stött, Freyweibel und Amman
+#facs_280_r2l3 Hem Ählen und Schwartzenburg.
+#facs_280_r2l4 5. in Erlenbach Märit auf den
+#facs_280_r2l5 3t 7bris für heürigen Jahrs
+#facs_280_r2l6 aüßschreiben.
+#facs_280_r2l7 schultheiß uns Raht der Statt Pern
+#facs_280_r2l8 r
+#facs_280_r2l9 Weilen wir errinnert worden daß der
+#facs_280_r2l10 biß har auf den 5ten Herbstmonat ge¬
+#facs_280_r2l11 haltene Jahrmärckt zu Erlenbach, hen¬
+#facs_280_r2l12 eigen Jahrs mit dem ausgekündeten
+#facs_280_r2l13 allgemeinen bättag auf gleichen Tag
+#facs_280_r2l14 fallen Thür; Als habend Wir güetfun¬
+#facs_280_r2l15 ten und erbent, daß gesachter Jahr
+#facs_280_r2l16 märckt zu Erlenbach für heurigen
+#facs_280_r2l17 Jahrs abgeenderet, und auf den 3ten Herbst¬
+#facs_280_r2l18 enat hiemit zwey Tag zuvor gehalten
+#facs_280_r2l19 werden solle. Die solchem nach befel¬
+#facs_280_r2l20 chente, solche abenterung zu Mänig
+#facs_280_r2l21 lichs nachricht verbunden gelassen.
+#facs_280_r2l22 Wie zethun wüssen wirst. Bath.
+#facs_280_r2l23 12 Augusti 1700
+#facs_280_r3l1 C:

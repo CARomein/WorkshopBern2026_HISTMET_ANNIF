@@ -1,0 +1,47 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 39/40
+# High similarity (>=80%): 36
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4822
+#facs_63_r3l1 117
+#facs_4_r3l2 Verordnung.
+#facs_78_r3l3 Franz Eingrite wegen den französischen Eingrieben, keine neue anzuremen
+#facs_78_r3l4 Papport v. Ertheilung sie von Grenzen zuentfernen, Vorsicht in Erteilung der
+#facs_78_r3l5 Päßen zu halte
+#facs_78_r3l6 An alle deutsche und Weltsche Herren Amtleut, item IV. Städte
+#facs_84_r2l10 Schultheis und Rath
+#facs_95_r3l1 Collato
+#facs_78_r3l9 Wir finden nöthig Euch /: so wie es auch gegen Unser
+#facs_78_r3l10 über die Fremden niedergesetzte Commission beschehen :/
+#facs_78_r3l11 eine genaue Aufsicht über die Französische Emigrirte
+#facs_78_r3l12 einzuschärfen und Euch anzubefehlen Unsere die¬
+#facs_78_r3l13 tige so positive vorschriften, daß keine neue ange¬
+#facs_78_r3l14 nommen alle und jede von den Grenzen entfernt
+#facs_78_r3l15 und nur solche geduldet werden sollen, die sich eingezogen
+#facs_78_r3l16 Till und ruhig verhalten, auf das strengste zubefolge
+#facs_78_r3l17 Und da der Bericht gefallen, daß hin und wieder
+#facs_78_r3l18 Fremde sich für hiesige Angehörige ausgeben, und demnach
+#facs_78_r3l19 unter erdichteten Namen als Schweizer Paßports
+#facs_78_r3l20 erhalten; so befehlen wir Euch alles Ernst hierüber
+#facs_78_r3l21 die genaueste Aufsicht zu halten und die Anstalten
+#facs_78_r3l22 zutreffen, daß Niemanden Päße ausgefertiget
+#facs_78_r3l23 werden, als solchen die sich über ihre vorgeblichen
+#facs_78_r3l24 Eigenschaften als Angehörige oder Eidgenoßen
+#facs_78_r3l25 förmlich legitimiren könne, daß ferner keinem
+#facs_78_r3l26 Fremden
+#facs_79_r1l1 148
+#facs_93_r2l1 ob
+#facs_92_r2l27 oder
+#facs_79_r4l1 Fremd, dem der Aufenthalt in hiesigen Landen
+#facs_79_r4l2 nicht gestattet ist, ein Paß um bloß in dem
+#facs_79_r4l3 und herum zureisen ertheilt, sondern denselben
+#facs_79_r4l4 in den ihnen zu ertheilenden Passports die Mann
+#facs_79_r4l5 route bis auf die Grenzen verzeigt, und der
+#facs_79_r4l6 Ort äußert Lands wohin sie zureisten angeben
+#facs_79_r4l7 darinn namentlich ausgesetzt werde. Wie zu
+#facs_79_r4l8 thun Wir Aus zu Euch bestens versehen.
+#facs_79_r4l9 Datum den 25t Junii 1795.
+#facs_98_r5l28 en

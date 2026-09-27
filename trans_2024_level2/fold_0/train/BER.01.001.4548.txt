@@ -1,0 +1,163 @@
+Law nr: BER.01.001.4548
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 151/151
+# High similarity (>=80%): 144
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_42_r3l10 An alle
+#facs_42_r3l11 7. und W. Herren Amtleut, 4. Städt
+#facs_101_r5l18 Freyweibel und Ammen, denn pr. Zedel
+#facs_101_r5l19 an hiesige Cäusel, seq
+#facs_101_r5l20 Ballons terbo ten
+#facs_101_r5l21 Schultheis Räth und Burger und In
+#facs_101_r5l22 Betrachtung der Gefahr, welche bey
+#facs_101_r5l23 denen eine Zeit daher, zum öfteren
+#facs_101_r5l24 zu Stadt und Land in die Luft fliegen
+#facs_101_r5l25 lassenden so genanten Ballous, sich er¬
+#facs_101_r5l26 zeigen kan, indeme jederzeit ungewiß
+#facs_102_r1l1 96
+#facs_102_r2l1 ist, wo dieselbe sich niederlaßen, und
+#facs_102_r2l2 solche Lenz auf furfaßende Gegenstand
+#facs_102_r2l3 fallen können; So haben Wir aus
+#facs_102_r2l4 landes rückreicher Wachsamkeit, für die
+#facs_102_r2l5 Sicherheit Unserer lieben uns getreuen
+#facs_146_r2l4 Burgeren und Angehörigen zu Stadt
+#facs_102_r2l7 Angehörigen, gut gefunden, alle diejenigen
+#facs_102_r2l8 Ballons, so mit einem Rost versehen.
+#facs_102_r2l9 sind, und durch das Feüer unterhalten
+#facs_102_r2l10 werden, zu Stadt uns Land unter einer
+#facs_102_r2l11 Buß von 50. & 3 zu verbieten, und
+#facs_102_r2l12 dabey verordnet, daß der oder diejenigen
+#facs_102_r2l13 für alle Feuers Gefahn, und den darau
+#facs_102_r2l14 entstehenden Schaden verantwortlich seyn
+#facs_102_r2l15 solle, durch deren Ballon solcher ver¬
+#facs_102_r2l16 versachet worden ist.
+#facs_102_r2l17 Betreffend aber diejenigen Ballon, welche
+#facs_102_r2l18 nur mit brenbahrer Luft angefüllt, und
+#facs_102_r2l19 einsig dem Spiel der Winden überlaßen,
+#facs_102_r2l20 werden, so sollen diese unter obvermeltem
+#facs_102_r2l21 Verbock nicht begeisten, sondern davon
+#facs_102_r2l22 ausgenommen seyn
+#facs_69_r3l19 deßen Ihr berichtet werdet, mit Befolg
+#facs_102_r2l24 solches zu Jedermanns Nachricht und
+#facs_102_r2l25 verhalt, öfentlich von der Kansel ver¬
+#facs_12_r8l1 19
+#facs_102_r3l2 verlesen und seiner behörigen Orte
+#facs_102_r3l3 in den Schloßbücheren, nachrichtlich ein¬
+#facs_102_r3l4 schreiben zu laßen. Wie sie thun
+#facs_102_r3l5 Datl. d. 22. März. 1784.
+#facs_83_r3l6 en
+#facs_102_r3l6 Erläuterung der Vermitlung
+#facs_102_r3l7 vom 22ten Xbris 1777. plöschen dem loben.
+#facs_102_r3l8 Tau Amt und verschiedenen Gemeinden,
+#facs_102_r3l9 wegen dem Acherum.
+#facs_353_r2l16 /welsch/ Sekelmeister und Venners
+#facs_4_r8l9 a
+#facs_100_r2l1 soll.
+#facs_102_r3l13 MeGhl. und Oberen vernommen aus Euerem
+#facs_102_r3l14 Mehl. Vortrag, was Ihr Hochdenselben
+#facs_102_r3l15 anrathet, ansehend die von lobl. Bau¬
+#facs_102_r3l16 amt anbegehrte Erläuterung uns gethane
+#facs_102_r3l17 Einfrag, über die so betitelte hoch Ober¬
+#facs_102_r3l18 beitliche Vermittlung vom 22ten Xbr 1777.
+#facs_102_r3l19 wegen Benuzung des Ocherums, von
+#facs_102_r3l20 verschiedenen Gemeinden der Ämteren
+#facs_102_r3l21 Laupen, Frieder und Aarberg, und daher
+#facs_102_r3l22 an lobl. Bau Amt abzurichtende Gefällung
+#facs_102_r3l23 Nachdeme nun McGhh. und Oberr,
+#facs_102_r3l24 darüber Ihre Reflektionen Calten laßen
+#facs_102_r3l25 haben Ihro hohen Gnaden in Erlankerung
+#facs_102_r3l26 hievor angezogener Erkäntniß befinden uns errent:
+#facs_103_r1l1 198
+#facs_103_r2l1 1° daß der so genante Holz und Wie
+#facs_103_r2l2 Haber so der ohne allen Zweifel eben
+#facs_103_r2l3 derjenige ist, den der Urbar sub Titulo
+#facs_103_r2l4 Eheschat, von eben diesen Waldungen
+#facs_103_r2l5 uns zwar in gleicher Abtheillung, doch
+#facs_103_r2l6 nur in denen Jahren, da Acherum sollt,
+#facs_103_r2l7 fordert :/ als eine anerbente und nicht
+#facs_103_r2l8 streitige Abgabe, auf bisher gewohnten
+#facs_103_r2l9 fuß, lobl. Conamt, noch ferners all¬
+#facs_103_r2l10 järlich mit 99 1/3. Mutt Haber, und 48. lts.
+#facs_103_r2l11 in Geld, entrichtet werden solle.
+#facs_103_r2l12 2° In denen Jahren da Acherinn
+#facs_103_r2l13 falt, sollen die bemelten Gemeinden
+#facs_103_r2l14 anders nichts zu bezahlen haben,
+#facs_103_r2l15 als zwey kleine Mas Haber für jeder
+#facs_103_r2l16 Schwein Recht, für das ihre Waldung,
+#facs_103_r2l17 nach Abzug der einigen Schlüßeren
+#facs_103_r2l18 und Pfarreyen gebührenden FreySchleine
+#facs_103_r2l19 die von ihme directé benuzt oder
+#facs_103_r2l20 terlichen werden, geseyet worden.
+#facs_103_r2l21 3° Endlich aus der Lastung des samtlichen
+#facs_103_r2l22 Acherums jeden Jahrs, und Paar nur
+#facs_103_r2l23 in soweit selbiges zureicht, lobl.
+#facs_103_r2l24 Bau Amt zu erheben, und zu migen
+#facs_103_r1l1 198
+#facs_103_r3l2 haben solle, sein so genantes
+#facs_103_r3l3 Contingent worunter verstanden wird,
+#facs_103_r3l4 diejenigen 36. Schwein und 36. Merhlin
+#facs_103_r3l5 welche die Verordnung vom 18ten Aug.
+#facs_103_r3l6 1666. demselben auf diesen sämtlichen
+#facs_103_r3l7 Waldungen zutheilt, und das Herr
+#facs_103_r3l8 nach derjenigen Apraeciation, dieseit
+#facs_103_r3l9 vielen Jahren in Übung ist
+#facs_103_r3l10 Deßen Ihr Mehl berichtet werdet,
+#facs_103_r3l11 mit dem Erdl. Ansinnen, diese Wolghl.
+#facs_103_r3l12 und Oberen Erkäntniß, als eine Erläuterung
+#facs_103_r3l13 der unterem 22. Xbris 1777. einamerten
+#facs_103_r3l14 Vermittlung, behörigen müßen in denen
+#facs_103_r3l15 Schloß und Pfrund Urbarien der be¬
+#facs_103_r3l16 trestenden Ämteren und Pfründen, zu
+#facs_103_r3l17 könfftiger Nachricht einschreiben zu las¬
+#facs_103_r3l18 Actu cor: 200 de 24th Marty 1784
+#facs_103_r3l19 Laugere, Frieseister und Aarberg
+#facs_103_r3l20 Prof. Sep. Sie deßen berichten mit
+#facs_103_r3l21 Befehl, solches denen eiteressierten zu
+#facs_103_r3l22 eröfnen, und seines behörigen Orts, so wohl in
+#facs_103_r3l23 den Schloß als Pfrund Urbarien so es berühren
+#facs_103_r3l24 nag, nachrichtl. einschreiben zu laßen.
+#facs_104_r1l1 200
+#facs_37_r1l1 66
+#facs_104_r2l1 Zedel an Mehlöhl. des Canamts. Sie
+#facs_104_r2l2 deßen auch berichten und anstinen solches
+#facs_104_r2l3 seines Orts in den Bau Amts Urbarn
+#facs_104_r2l4 nachrichtl. einschreiben zu laßen. Actl.
+#facs_104_r2l5 ut supra
+#facs_23_region_1633454616028_2913l1 An
+#facs_104_r2l7 alle T. und W. Herren Amtleut
+#facs_31_r3l7 Wegen Haltung der Capitlen
+#facs_104_r2l9 Schultheiß und Raths damit
+#facs_104_r2l10 gewohnter maßen die Capitel und
+#facs_104_r2l11 Claßen gehalten werden, haben
+#facs_104_r2l12 Wir Euch anbefehlen wollen, auf
+#facs_104_r2l13 gebohnte Zeit in den daherigen Ver¬
+#facs_104_r2l14 samlungen, bey Euerem Eid, und mit
+#facs_345_r3l5 Hindansezung aller anderer Beschäf¬
+#facs_104_r2l16 einzufinden, und zu verschaffen, daß
+#facs_104_r2l17 aller getreulich in die von Euch gleich
+#facs_104_r2l18 signierende Acta Classica eingebracht
+#facs_104_r2l19 solche auch Uns Forderstamst eingesendt
+#facs_104_r2l20 werden. Dat. d. 18 May 1784
+#facs_6_region_1627936574015_66l1 6
+#facs_100_r2l1 soll.
+#facs_6_region_1627936574015_66l1 6
+#facs_23_region_1633454616028_2913l1 An
+#facs_156_r6l3 die Herren Decanen Teufschen Lands und
+#facs_104_r5l3 Claßen W: Landt
+#facs_27_r3l12 Obid
+#facs_43_r4l23 Schultheis und Rath St.
+#facs_156_r6l7 zu Abhaltung der gewohnten Capit,
+#facs_104_r5l7 und Klaßen heran rüket, haben Wir
+#facs_104_r5l8 Euch nimmt anbefehlen wollen, solche
+#facs_104_r5l9 gewohnter maßen zu versamlen, und
+#facs_104_r5l10 so dann zu veranstalten, daß alles
+#facs_104_r5l11 ad Acta gebracht, solche gewohnter
+#facs_104_r5l12 maßen signiert, und uns sogleich ein¬
+#facs_104_r5l13 gesendt werden. Dat. d. 18. May 1784.

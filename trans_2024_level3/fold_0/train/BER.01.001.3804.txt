@@ -1,0 +1,267 @@
+Law ID: BER.01.001.3804
+Name: Getreydts Veräusserung ernsthaft verbiethen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 256/256
+# High similarity (>=50%): 245
+# Low similarity (<50%): 11
+# Not found: 0
+#
+#facs_89_r5l22 Beschreibung
+#facs_89_r5l23 Ist kurzlechter diser Statur, ohngefehr 35 Jahr
+#facs_89_r5l24 alt, hat kurze denn Castanien braune Haar,
+#facs_89_r5l25 eine
+#facs_90_r2l1 eine breite Stirnen, grauwe Augen eine
+#facs_90_r2l2 etwas aufgeworffene Nasen ein rundes
+#facs_90_r2l3 nicht magers angesicht, breits Paul,
+#facs_90_r2l4 zertheiltes Kin, lieber seiten neben der
+#facs_90_r2l5 Nasten eine Marque von einer Wartzen
+#facs_90_r2l6 ohne Bahrt laßt sich vafieren, tragt
+#facs_90_r2l7 diesmahlen ein braunes halb Leinernes
+#facs_90_r2l8 kleid, mit weisen breiten Glacken zichter
+#facs_90_r2l9 knöpffen, blaub grauwe Strümpf Herren¬
+#facs_90_r2l10 e
+#facs_90_r2l11 Sohne und Hueth.
+#facs_90_r2l12 Projectierte Rechnungs Tagen
+#facs_90_r2l13 der Teütschon Hh. Amtleüthen
+#facs_90_r2l14 pro Ano 1741
+#facs_90_r2l15 Januarius
+#facs_90_r2l16 Jurqdorf
+#facs_90_r2l17 Landtshuet auf sonstag den 19 Jael.
+#facs_90_r2l18 Kornherr
+#facs_90_r2l19 Montags denu 23 dto
+#facs_90_r2l20 St. Johanser Hauß.
+#facs_90_r2l21 Reußahden
+#facs_90_r2l22 Mit Wochen den 25. dto.
+#facs_90_r2l23 Interlaberhauß
+#facs_90_r2l24 Plac.
+#facs_90_r2l25 Donstags Den 26t.
+#facs_90_r2l26 Buchsee
+#facs_90_r3l1 167.
+#facs_90_r3l2 Janu8 1741
+#facs_90_r3l3 Brierrisperg
+#facs_90_r3l4 Montags den 30ten  dto
+#facs_90_r3l5 Frieuischerger Hauß.
+#facs_90_r3l6 Februarius
+#facs_90_r3l7 Mitwochen d. 1. der
+#facs_90_r3l8 Quarberg.
+#facs_90_r3l9 Dignaub,
+#facs_90_r3l10 Sonstags den 2ten dto
+#facs_90_r3l11 Drarbangon.
+#facs_90_r3l12 Montags den 6t dto
+#facs_90_r3l13 Lauppen
+#facs_90_r3l14 Diechenhauß
+#facs_90_r3l15 Mitwochen den 8ten dto
+#facs_90_r3l16 Trachselbald
+#facs_90_r3l17 Nyhaul
+#facs_90_r3l18 Vonstags den 9ten x
+#facs_90_r3l19 Weysimen
+#facs_90_r3l20 Könitz
+#facs_90_r3l21 Montags den 13t. dto.
+#facs_90_r3l22 Brandiß
+#facs_90_r3l23 Frausbronen
+#facs_90_r3l24 Mitwochen d. 15. dto.
+#facs_90_r3l25 Thorberg“
+#facs_90_r3l26 Donsags d. 16. dto.
+#facs_90_r3l27 Bollstall
+#facs_90_r3l28 Hollis 696
+#facs_90_r3l29 Zaubherr von Bürgeren Montags d. 20t. dto.
+#facs_90_r3l30 Mit Bochen d. 22t. dto.
+#facs_90_r3l31 In sull.
+#facs_90_r3l32 Eenstags d. 23t dto
+#facs_90_r3l33 huit.
+#facs_91_r1l1 168
+#facs_91_r1l2 Biberstein
+#facs_91_r1l3 Büren.
+#facs_91_r1l4 R. Johansen
+#facs_91_r1l5 Verburg
+#facs_91_r1l6 Interlaken
+#facs_91_r1l7 Fruligen
+#facs_91_r1l8 Jumissbald
+#facs_91_r1l9 Oberhofen
+#facs_91_r1l10 Unterseen
+#facs_91_r1l11 Paanen
+#facs_91_r1l12 Ochenkenberg.
+#facs_91_r1l13 Castelen
+#facs_91_r1l14 Bangen
+#facs_91_r1l15 Sipp
+#facs_91_r1l16 Ahlen
+#facs_91_r1l17 Stifft.
+#facs_91_r1l18 Wimiß.
+#facs_91_r1l19 Bordingen
+#facs_91_r1l20 th
+#facs_91_r1l21 Lentzburg
+#facs_91_r1l22 Konigsfelden
+#facs_91_r1l23 Broß Spithal
+#facs_91_r2l1 Februae: 1741.
+#facs_91_r2l2 Montags d. 27. dto
+#facs_91_r2l3 Martius
+#facs_91_r2l4 Mitbochenden.
+#facs_91_r2l5 Donstags d. 2ten de
+#facs_91_r2l6 Montags d. 6ten.
+#facs_91_r2l7 Mi Abochen d. 8. dt.
+#facs_91_r2l8 Sonstags d. 9ten
+#facs_91_r2l9 Montag d. 13t. d.
+#facs_91_r2l10 auf Mitbochen d. 15ten.
+#facs_91_r2l11 Vonstags den 16t.
+#facs_91_r2l12 Montag d. 20ten
+#facs_91_r2l13 Miklachen d. 22ten
+#facs_91_r2l14 = Donstags d. 23t. dto.
+#facs_91_r3l1 169
+#facs_91_r3l2 Brojectierte
+#facs_91_r3l3 Rechnungs Zagen der Weltschen
+#facs_91_r3l4 Herren Amtleüthen pro Ano 1741.
+#facs_91_r3l5 Biblisfurg ab-
+#facs_91_r3l6 Hrylags den 3ten Februarii
+#facs_91_r3l7 Rechnung und Veste
+#facs_91_r3l8 Rechnung
+#facs_91_r3l9 Sambstags den 4ten dito
+#facs_91_r3l10 fellerlingen.
+#facs_91_r3l11 Frytags den 17t dito.
+#facs_91_r3l12 Silden
+#facs_91_r3l13 Oron Abrechnung
+#facs_91_r3l14 Sambstags den 18ten dito.
+#facs_91_r3l15 und 1ste Rechnung
+#facs_91_r3l16 Crylags den 24ten dito.
+#facs_91_r3l17 Neubenstall
+#facs_91_r3l18 Sambstags den 29ten dito
+#facs_91_r3l19 Lausanne
+#facs_91_r3l20 Hrylags den 3ten Marty.
+#facs_91_r3l21 Pivis Abrechnung
+#facs_91_r3l22 und 1 f Rechnung
+#facs_91_r3l23 Sambstags den 4ten dito.
+#facs_91_r3l24 Pf: Weinschent.
+#facs_91_r3l25 Fristags den 10t dito
+#facs_91_r3l26 Aubonne
+#facs_91_r3l27 Sambstagsdam 12t dito
+#facs_91_r3l28 Worsee
+#facs_91_r3l29 Theytags den 12t dito
+#facs_91_r3l30 Herthen
+#facs_91_r3l31 Tambstags den 18ten dito
+#facs_91_r3l32 Romainmostier
+#facs_91_r3l33 Chrytags den 24ten dito
+#facs_91_r3l34 r
+#facs_91_r3l35 Neüve
+#facs_91_r3l36 Dambstays den 25t. dito.
+#facs_91_r3l37 Bonmont
+#facs_92_r2l1 An
+#facs_92_r2l2 Alle T: und W: Amtleüth.
+#facs_92_r2l3 4. Ställ Freybeibel und Amman
+#facs_92_r2l4 Schultheiß Raht und Burger s.
+#facs_92_r2l5 Betraydts veräußerung Emschaffen verbinden.
+#facs_92_r2l6 Auf welchem fueß wir Unsere Verbodt der
+#facs_92_r2l7 Getrach dts Veräußerung zu schärpffen Guhtf und
+#facs_92_r2l8 wirst du aus beyligendem Truß Ersechen,
+#facs_92_r2l9 daton Wir dir hiemit gnugsamme exemplario
+#facs_92_r2l10 zusenden wollen, mit beselch solche fürderlich
+#facs_92_r2l11 ton Canzlen. publicieren, und anschlagen
+#facs_92_r2l12 zulaßen, auch den vorgesezten jeden Ohrte
+#facs_92_r2l13 doppel zu zustellen. Worbey Wir Unß versehend
+#facs_92_r2l14 und dich bey deinem Eydt Ermahnend, mitens
+#facs_92_r2l15 deinerseits deßen Inhalt getreüblich zu observiren
+#facs_92_r2l16 sonderen auch das Dehnen von Mäniglich nach
+#facs_92_r2l17 gelebt werde, gefließene Hand obzuhalten,
+#facs_92_r2l18 und in zutragenden fählen ohne schonen zu¬
+#facs_92_r2l19 Damit auch die 2ubertenster
+#facs_92_r2l20 Exequieren,
+#facs_92_r2l21 desto bester entdeket Bewind, wollst du die behör
+#facs_92_r2l22 auffseher gebohnter Ohrten bestellen, und
+#facs_92_r2l23 beEÿdigen, den Verleÿ der auch geheimbt halten
+#facs_92_r2l24 Übrigens aber die hiesige Korn Direction trei¬
+#facs_92_r3l1 171.
+#facs_92_r3l2 Zeit, wie es sich mit der frucht anlaßen! Verständigen
+#facs_92_r3l3 und deren befelchen gleich den Unserigen zu respectiven
+#facs_92_r3l4 und in Effect zu setzen. Datum d. 28t Novz. 1740.
+#facs_92_r3l5 Placcard
+#facs_92_r3l6 Wir Schultheiß Räht und Burger der Statt Bern
+#facs_92_r3l7 thun kundt hiemit, wiewohlen durch die in Vese¬
+#facs_92_r3l8 ihrem Nahmen gepflogene Visitation Vnserer Korn
+#facs_92_r3l9 häuseren als sonsten auß unseren Landen eingezo¬
+#facs_92_r3l10 gene Nachrichten sich ereignet, daß durch deß Al¬
+#facs_92_r3l11 lerhöchsten Segen gnugsammes Betreydt in denen
+#facs_92_r3l12 selben vorhanden; So Ich dennoch, und in beher¬
+#facs_92_r3l13 zigung dermahliger bekanter auch mißlich Anschei¬
+#facs_92_r3l14 onender Zeitläuffen und vmbständen, und da die
+#facs_92_r3l15 Reucht Ausfuhr von bald Allen an Unseren Grän¬
+#facs_92_r3l16 zen ligend benachbahrten gehemmet worden, haben
+#facs_92_r3l17 auß Landts vätterlicher Vorsorg verleitet Wir zum
+#facs_92_r3l18 besten Unser Lieben und getreüben angehörigen ins Ge¬
+#facs_92_r3l19 mein, der Nohtwendigkeit zu sein erachtet, mänglich der
+#facs_92_r3l20 Unseren, so mehrers getreyd haben möchte, dan zu seinem
+#facs_92_r3l21 Hausbruch erforderlich sein mag, ernstlich anzumahnen,
+#facs_92_r3l22 auß Christlichem Mitleiden und tragender liebe gegen sei¬
+#facs_92_r3l23 Denen Mitburger und Einwohner Vnserer Landen in billichem
+#facs_92_r3l24 Preiß von diesem seinem Vorraht zu kommen zu laßen,
+#facs_93_r2l1 von Ihnen aus zu verfüegen, so weit sy solche zu Erreichung Unser
+#facs_93_r2l2 sonsten und da in alzu hochem Preis Sie fortsezen,
+#facs_93_r2l3 heilsamen Absehens nohtwendig, und denen umständen der
+#facs_93_r2l4 Wir nicht ermanglen werden, mit Verordnung einen
+#facs_93_r2l5 Zeit angemeßen befinden, zu welchem End Unsere Ambt¬
+#facs_93_r2l6 Getrayd Taxes die nöhtige Vorsehung zu thun, und
+#facs_93_r2l7 leüthe und Stätte, jetz gedachter Cammer befelchen gehorsam,
+#facs_93_r2l8 aber Vnsere Ehevorige mandata dahin zu erfrischen
+#facs_93_r2l9 lich nachleben sollen, eben als wan solche von Uns selbsten
+#facs_93_r2l10 zu schärpffen, wir gutfunden, wie folget
+#facs_93_r2l11 darbämen, maßen Ihre der Cammer die Execution Unser
+#facs_93_r2l12 Willers zu Statt und Land obliget, deßen mänglich durch
+#facs_93_r2l13 Daß Jederman ohne Aufnahm solle verbotten sein
+#facs_93_r2l14 gegenwehrtigen Truk und Publication verständiget wird,
+#facs_93_r2l15 Treidt, was gattung sollches immer seye, wie auch Mähl¬
+#facs_93_r2l16 umb sich demmenach gebührend zu verhalten und vor Un¬
+#facs_93_r2l17 Brodt auß unseren Landen zu veräußeren und abzu¬
+#facs_93_r2l18 glük und schaden zu sein. Geben in Unser großen Rahts
+#facs_93_r2l19 ren, oder abführen zu laßen, by straff der Confisca
+#facs_93_r2l20 der frucht, wie auch des fuhrberks, als Pferd und
+#facs_93_r2l21 Versamblung den 28. Novemb: 1740.
+#facs_93_r2l22 Nous ladboyer Petit et Grand Conseil de la Ville et Republique de Berne Savoir faison par les presentes, Qu
+#facs_93_r2l23 gen Schiff und Geschies, denne noch einer büß von Er
+#facs_93_r2l24 mon obstant la quantité suffisante de Grains, qui, par la Benodiction Divine, se trove dans nosterres et
+#facs_93_r2l25 hundert Thaleren, so der Übertretter darüber auch
+#facs_93_r2l26 Pais selon qu'il appert tant par la visite expresse qu'en avons fait faire dans Nos propres Greniers, qu
+#facs_93_r2l27 tout le Rapport qui Nous sont fait d'ailleurs, cependant vu la crise et les circumstances du tems ou
+#facs_93_r2l28 zahlen soll, von Welcher Confiscation und Bueß Wir
+#facs_93_r2l29 l'anse trove en ce que presque tout le Voisins de nos frontieres, ont defendu la sortie de Pleu
+#facs_93_r2l30 Verleider, zu mehrerer Anfrischung den halben Theilen
+#facs_93_r2l31 Nous avons, par une pourvoiance Paternelle, et pour le bien et avantage de nos chers et
+#facs_93_r2l32 beaux sujets, juge necessaire, d'exhorter toutes personnes qui auront des grains au
+#facs_93_r2l33 und die andere helffte dem Ober Ambtsman daß Ohrt
+#facs_93_r2l34 dela de leurs besoins, de ne point, les supprimer, mais, conformément à la Charité
+#facs_93_r2l35 hiemit zu gesprochen haben wollen, wir behaltend Um
+#facs_93_r2l36 Chretiene, d'en departir et laisser parvenir leur superflu à leurs Combourgois et Coha
+#facs_93_r2l37 Aber hierbey heiter vor, je nach beschaffenheit der Perso¬
+#facs_93_r2l38 tants de nos Pais, à un Prax modique et resonable, faute de quoi, nous ne pourrions nos
+#facs_93_r2l39 und größe des Kählers, den fählbahren noch an Ehr, lie¬
+#facs_93_r2l40 dispenser dy apporter le remede convenable par une taxe generale de touts les grain
+#facs_93_r2l41 en attendant, nous avons trouvé à propos de rafraicher et renforcer nos mandats ci-dess
+#facs_93_r2l42 oder leben zu bestraffen, unseren Mit Eydt großen und
+#facs_93_r2l43 cant emanés à ce sujet, de la maniere qui suit
+#facs_93_r2l44 nachbahrten dan soll noch ferners bewilliget sein, auf offi¬
+#facs_93_r2l45 Il sera defendu a un chaque sans exception, d'alliener, sortin, ou faire sortir, aucuns Grains, de que
+#facs_93_r2l46 Märitten von Weichen zu Wuchen, das, für Ihren Haußbe¬
+#facs_93_r2l47 le qualite quils soient, ni farine ou painss hors de nos Pais, sous peine de Confiscation de la Dente
+#facs_93_r2l48 ce même que de la voiture, par laquelle on entend les chevaux, chars et attelages, battaux. pout
+#facs_93_r2l49 benöhtigte Gewächs in Bescheidenheit zu erhandlen, jeh
+#facs_93_r2l50 une amende de cent Ecus blancs, pacables par les transgresseurs. Desquelles Confiscations et Amandes nous
+#facs_93_r2l51 nur so lange, und in so weit, als die Unserigen hinder
+#facs_93_r2l52 d'jugeons la moitié au Delateur, pour le tant plus encourager, et l'autre moitiée au Baillis du lieu, nos
+#facs_93_r2l53 exervants en outre expressement de punir les Delinquants en corps, honneur, et biens et meme de mort,
+#facs_93_r2l54 gleiche freiheit genießen. Wie hoch aber dises Wochentli¬
+#facs_93_r2l55 Delon le ces et le circonstances, Quant oux suisses nos confederes et voisins, nous leur permettons
+#facs_93_r2l56 plus outre de se pourvoir avec moderation de Grains pour le besoinde leurs menages, d'une semaine
+#facs_93_r2l57 Quantum zu bestimmen. Überlaßend Wir Unserstellung des temarches ordinaires, entendu que cela ne durera qu'eut que les hôtres pajront
+#facs_93_r2l58 neten Korn Direction, und begwältigend selbig
+#facs_93_r2l59 hier für 1 x
+#facs_93_r2l60 la meme liberte chez eux; Donnants par les presentes Plein, pouvoir et authorité à Notre Direction du
+#facs_93_r2l61 nicht nur in Ansehen der Müllernn, Hodlenen und Fürkt
+#facs_93_r2l62 tide fixer la quantite, qui pourra leur etre accordée par semaine, de même que defaire des Reglements et
+#facs_93_r2l63 leren ins gemein die erforderliche Verordnung und
+#facs_93_r2l64 commances necessaires, non seulement par raport aux meuniers, Blattiers ou Monopoliers, mais aussi en general d
+#facs_93_r2l65 er touts les ordres convenables pour attendre le but salutaire que nous nous proposons; et que les circonstances du
+#facs_93_r2l66 sehen zu thun, sondern auch alle übrige Anstalten
+#facs_93_r2l67 geront, tous cet effet nos Bailliss aussi bien que nos Villes & se conformement aux ordres de notre dite Chambre
+#facs_93_r2l68 respectant, tout comme s'ils étoient immediatement émanés de notre part, autant que nous lui avons remis l'Ex-
+#facs_93_r2l69 tre volonté tant dans notre Capitale que dans tous nos autres Pais a cet égard, cet dont le public sera as
+#facs_93_r2l70 and ils
+#facs_93_r2l71 pour ces effet devra être lû en chaire et affide aux lieux accoutumes pour la conde

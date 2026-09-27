@@ -1,0 +1,97 @@
+Law ID: BER.01.001.4745
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 86/86
+# High similarity (>=50%): 86
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_276_r2l22 ob id:
+#facs_276_r2l23 Verordnung
+#facs_276_r2l24 Wir Schultheis Klein und Grosse
+#facs_276_r2l25 Räthe,
+#facs_276_r4l1 545
+#facs_276_r4l2 Räthe der Stadt und Republik Bern, thun
+#facs_276_r4l3 und hiermit: Demnach Wir aus eingezo¬
+#facs_276_r4l4 genen Berichten haben ersehen müßen, daß
+#facs_276_r4l5 das unterm 4ten Oktober lezthin ausgegangen
+#facs_276_r4l6 Pferd ausfuhr Verbott nicht die erwünschte Win¬
+#facs_276_r4l7 leung gehabt, in dem die Ausfuhr noch immer
+#facs_276_r4l8 durch den Schleichhandel fortgesetzt werde.
+#facs_276_r4l9 und Unser Land fast von brauchbaren Pferden
+#facs_276_r4l10 entblößt seye; so haben Wir, aus landes¬
+#facs_276_r4l11 väterlicher Vorsorge und dem gänzlichen
+#facs_276_r4l12 Mangel von Pferden, sowohl zum Akerbau
+#facs_276_r4l13 als führungen und andern unvorgesehenen
+#facs_276_r4l14 Vorfallenheiten zu steüren, nöthig erachtet,
+#facs_276_r4l15 zu verordnen.
+#facs_276_r4l16 1o. Daß den Pferdhändlern aller Pferd¬
+#facs_276_r4l17 handel bey den Häusern und Ställen verbotten.
+#facs_276_r4l18 und nur auf den Märkten erlaubt seyn solle.
+#facs_276_r4l19 2° Daß keine von denen in obvermeldtem
+#facs_276_r4l20 Ausfuhr Verbott begriffenen Stutten und
+#facs_276_r4l21 Pferden, ohne oberamtlichen Schein, wo es
+#facs_276_r4l22 gestanden, zum Verkauf auf den Markt
+#facs_276_r4l23 geführt, und bey jedem Pferd Verkauf ein¬
+#facs_276_r4l24 solcher Schein dem Käufer zugestellt werden
+#facs_276_r4l25 der Käufer aber gehalten seyn solle, dem
+#facs_276_r4l26 — Ober
+#facs_276_r5l1 Amtes
+#facs_276_r5l2 d17
+#facs_276_r5l3 232
+#facs_276_r5l4 nenkünft
+#facs_276_r5l5 Amts
+#facs_276_r5l6 Feier
+#facs_276_r5l7 50
+#facs_276_r5l8 ster
+#facs_276_r5l9 281.
+#facs_276_r5l10 94
+#facs_276_r5l11 4930
+#facs_276_r5l12 den 12.
+#facs_276_r5l13 9°
+#facs_276_r5l14 anden
+#facs_276_r5l15 91
+#facs_276_r5l16 F. 251.
+#facs_276_r5l17 533.
+#facs_276_r5l18 271.
+#facs_276_r5l19 ÿpfal
+#facs_276_r5l20 �52
+#facs_277_r2l1 Das Amtsmann oder den darzu bestellten
+#facs_277_r2l2 Vorgesezten einen schriftlichen Schein ein¬
+#facs_277_r2l3 zugeben: wie er heiße, wohin er dies
+#facs_277_r2l4 Effend führe, wo es verbleiben solle, und
+#facs_277_r2l5 von welcher Art und Alter es seye
+#facs_277_r2l6 Auf die Wiederhandlung dieser Fälle
+#facs_277_r2l7 dann, haben Wir eine Busse von zwey¬
+#facs_277_r2l8 hundert Pfunden von jedem Stük gesezt,
+#facs_277_r2l9 wovon ein drittel Uns, ein Drittel dem
+#facs_277_r2l10 Amtsmann des Orts und ein Drittel dem
+#facs_277_r2l11 Verleider unter Geheimhaltung seines
+#facs_277_r2l12 Namens, zukommen soll.
+#facs_277_r2l13 In der Hauptstadt und deren Bezirk
+#facs_277_r2l14 wie auch in denen Landgerichten, wo keine
+#facs_277_r2l15 Amtleute sind, soll die Execution dieses
+#facs_277_r2l16 Mandats Unserer verordneten Polizey
+#facs_277_r2l17 Kammer, in denen Städten und Aemtern
+#facs_277_r2l18 aber Unseren Amtleuten in erster
+#facs_277_r2l19 Instanz obligen, und der beschwerenden
+#facs_277_r2l20 Partey den Recurs vor Unsern täg¬
+#facs_277_r2l21 lichen Rath gestatten.
+#facs_277_r2l22 Welches zu Jedermanns Verhalt
+#facs_277_r2l23 durch den Drule öffentlich bekannt gemacht
+#facs_277_r2l24 und von Kanzler verlesen, auch an
+#facs_277_r2l25 = den
+#facs_277_r4l1 547
+#facs_277_r4l2 den gewohnten Orten angeschlagen werden
+#facs_277_r4l3 Mit dem Befehl an alle Ober- und
+#facs_277_r4l4 toll.
+#facs_277_r4l5 Unter,, Beamtete über die Execution dieser
+#facs_277_r4l6 Verordnung zu wachen, und durch die bestellten
+#facs_277_r4l7 Inspectoren und Zollcommissen geflissen
+#facs_277_r4l8 Acht bestellen und die Fehlbaren nach Vorschrift
+#facs_277_r4l9 dieser Verordnung zu bestrafen.
+#facs_277_r4l10 Beben in Unserer Grossen Raths Ver¬
+#facs_277_r4l11 samlung den 17ten Januarii 1794.

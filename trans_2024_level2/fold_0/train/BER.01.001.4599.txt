@@ -1,0 +1,70 @@
+Law nr: BER.01.001.4599
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 59/59
+# High similarity (>=80%): 55
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_333_r1l1 650.
+#facs_23_region_1633454616028_2913l1 An
+#facs_221_r1l2 alle deutsch und welsche Herren
+#facs_333_r2l3 Amtleut und Schafner, wo
+#facs_333_r2l4 Obrigkeitl. Getreid ligt.
+#facs_333_r2l5 Getreid zu sterben anbefohlen.
+#facs_273_r3l15 Schultheis Räth und Burger
+#facs_333_r2l7 Auf den von Unseren fürge¬
+#facs_333_r2l8 liebten Miträhten der Herren
+#facs_333_r2l9 deutsch) Bevelmeister und Venueren
+#facs_234_r1l1 wel
+#facs_333_r2l11 und Unserer verordneten Korn
+#facs_333_r2l12 kammer, uns erstatteten Bericht
+#facs_333_r2l13 über das nach Abzug des Vorraht
+#facs_333_r2l14 und der ordinari und quasi ordinare
+#facs_333_r2l15 Ausgaben, zum Verkauf übrig
+#facs_333_r2l16 bleibende Getreid; haben Wirth
+#facs_333_r2l17 erkennen gutbefunden.
+#facs_333_r2l18 (für das deutsche Land)
+#facs_333_r3l11 daß von nun an aller Roggen
+#facs_333_r2l20 1o. Aller über den Vorrath und die
+#facs_149_r2l19 fer ordinari und Quasi Ordinari Aus¬
+#facs_333_r2l22 vorschießender Kernen und Rogg
+#facs_333_r2l23 2o die Helffte des Kinkels, weihen
+#facs_333_r2l24 und Mischelkorns.
+#facs_333_r3l1 651
+#facs_333_r3l2 3o. Die Helfte der Sommerfrüchten
+#facs_333_r3l3 und diese insonderheit zu Anblüh¬
+#facs_333_r3l4 mung der Felder, jedoch alles nur
+#facs_333_r3l5 zu kleinen Kaufen verstilberet¬
+#facs_333_r3l6 und hiemit die zweyte Helfte
+#facs_333_r3l7 von dem Kinckel, Weisen und
+#facs_124_r5l25 Mischelkorn
+#facs_333_r3l9 Verfügung beybehalten werde.
+#facs_333_r3l10 (für das welsche Land)
+#facs_333_r3l11 daß von nun an aller Roggen
+#facs_333_r3l12 und die Helfte der über den
+#facs_333_r3l13 Vorrath aus, und die ordinari
+#facs_333_r3l14 und quasi ordinari Ausgaben vor
+#facs_333_r3l15 schießenden so wohl bömer als
+#facs_333_r3l16 Winterfruchten abgestoßen und
+#facs_333_r3l17 versilbert werden; dennoch so
+#facs_333_r3l18 das in getreff der Sommerfruchte
+#facs_333_r3l19 selbige sonderheitlich zu Anblühnung
+#facs_333_r3l20 der Felder auch eint und andere
+#facs_333_r3l21 dieser Früchte nur zu kleinen
+#facs_333_r3l22 Käuffen hingegeben werden.
+#facs_333_r3l23 Wobey Unser fernern Will
+#facs_333_r3l24 und Refehl ist, das von allem
+#facs_36_r5l1 65
+#facs_334_r2l1 Betreid das schlechteste und ein¬
+#facs_334_r2l2 dest behältlichste abgestoßen bey
+#facs_128_r2l20 solle.
+#facs_334_r2l4 Welchem nach Ihr Euch zu ver¬
+#facs_334_r2l5 halten, und über das erlösende
+#facs_334_r2l6 Uns Rechnung zu tragen bestens
+#facs_334_r2l7 bißen berdet. Dat. den 28ten
+#facs_319_r2l18 Merz 1787.
+#facs_83_r3l6 en

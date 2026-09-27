@@ -1,0 +1,29 @@
+Law ID: BER.01.001.4315
+Name: Ihnen befehlen nichts anders, als was von Oberkeits wegen anbefohlen wird, von Canzlen verlesen zu lassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 18/18
+# High similarity (>=50%): 17
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_133_r3l1 An
+#facs_133_r3l2 Alle Freyweibel und Ammann.
+#facs_133_r3l3 Ihnen befehlen nichts anders, als was von Oberbeits
+#facs_133_r3l4 wegen anbefohlen wird, von Canzlen verlesen zu laßen,
+#facs_133_r3l5 Schultheis und Rahts
+#facs_133_r3l6 Mißfällig haben Wir zu vernemmen gehabt,
+#facs_133_r3l7 wie daß einicher Orten in den Kirchspihlen
+#facs_133_r3l8 und Landgrichten, nicht allein bloße Avis¬
+#facs_133_r3l9 Schreiben, wie das Ferien-Mandat, sondern auch
+#facs_133_r3l10 so gar die signalements und andere dergleichen
+#facs_133_r3l11 Sachen von Canzlen publiciert werden; damit
+#facs_133_r3l12 um dieses in Zukunfft nicht mehr beschehe,
+#facs_133_r3l13 so befehlen Wir dir, fürohin in deinem Bezirb
+#facs_133_r3l14 keine andere Mandat und befelche von Canzlen
+#facs_133_r3l15 publicieren zu laßen, als solche, in denen
+#facs_133_r3l16 es mit ausgedrubten Worten befohlen wird
+#facs_133_r3l17 Welchemnach du dich zu verhalten wüßen.
+#facs_133_r3l18 birst. Dat. den 25ten Juny 1771.

@@ -1,0 +1,51 @@
+Law ID: BER.01.001.2086
+Name: Die Underthanen sollen mit dem frömbden Wein nichts zuthun haben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 40/40
+# High similarity (>=50%): 40
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_140_r2l1 227
+#facs_140_r2l2 Un die Oberlendischen
+#facs_140_r2l3 Ambtläuth
+#facs_140_r2l4 Die Undurthanen sollen mit dem Prömbden
+#facs_140_r2l5 Wein nichts Zuthun haben
+#facs_140_r2l6 Fuldtheiß und Raht der Stadt Ver¬
+#facs_140_r2l7 Wie wie vnseren Oberlendischen Vnderthanen den gebrauch¬
+#facs_140_r2l8 des weins, so gefnet ihrem bezieck, anderer Orten Unser
+#facs_140_r2l9 Landen, gewachsen, Vnderm 28. Nov: 1675. Widtrumb zu
+#facs_140_r2l10 anlaßen, bep hat es darbej den Verstand, daß man sich
+#facs_140_r2l11 Der mßlendischen, Sanoyischen und dergleichen frömbde
+#facs_140_r2l12 teins, diser orten, wie anderstwo unser Landen, genzlie¬
+#facs_140_r2l13 enthalten vnd müeßigen solle: Und damit das
+#facs_140_r2l14 gemeine Verpoth desselben desto minder vbertrecken,
+#facs_140_r2l15 werde, wellend wir beilenstig auch dises heiter ver¬
+#facs_140_r2l16 handen und gemeint haben, daß vnsere vnder-
+#facs_140_r2l17 thanen sich auch nur nit zur Fertigung solchen
+#facs_140_r2l18 römbden Weins, so durchs Landt an andere Ort
+#facs_140_r2l19 erfüehet wirt, gebrauchen laßen, noch darmit
+#facs_140_r2l20 dessen be
+#facs_140_r2l21 etwas Zethun haben sollind.
+#facs_140_r2l22 richtend wie dich vns anlas deßen, daß Peter
+#facs_140_r2l23 Christeler desen Ambt Interlacken, verstandner
+#facs_140_r2l24 maßen, mit solcher Sauoyischen Weinfuhr vmbzwahn
+#facs_141_r1l1 228
+#facs_141_r1l2 Collat.
+#facs_141_r3l1 ich vndernommen, der meinung, daß daßelbe nit
+#facs_141_r3l2 allein ihme Vndersagt und abgestrickt sein, sondern
+#facs_141_r3l3 auch anderen selbiger nit zugelaßen, noch in einlicher
+#facs_141_r3l4 Weg mit solchem Versöchnen Wein Umbzegahn,
+#facs_141_r3l5 Vnd der fuhr halb oder sonsten etwas darmit zu
+#facs_141_r3l6 thun zu haben, gestattet werden solle. Das
+#facs_141_r3l7 weisig nun gegen deinen Ambtsangehörigen
+#facs_141_r3l8 Zübeobachten, und dieselben so weit es die noht
+#facs_141_r3l9 Vruorderet daruor Zeuer wahrnen, sonderlich
+#facs_141_r3l10 Die Seümer und währten, auch die, so deßen
+#facs_141_r3l11 ohngracht darwider theten, vns zur abstraffung
+#facs_141_r3l12 Zeuerleiden, Alß den wir deßen hiemit zu
+#facs_141_r3l13 solchem undt verstendigen Wellen. Datum 12
+#facs_141_r3l14 Julii 1676

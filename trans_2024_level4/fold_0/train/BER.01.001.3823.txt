@@ -1,0 +1,29 @@
+Law ID: BER.01.001.3823
+Name: Ihnen anbefehlen, [...] nechstkünfftig Betteljägenen halten zu lassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 18/18
+# High similarity (>=50%): 16
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_143_r1l1 air
+#facs_143_r1l2 274
+#facs_143_r1l3 Alle T. und W. Ambthleüth 4. Stättl
+#facs_143_r1l4 Freyweibel und Amann; Ihnen
+#facs_143_r1l5 Bätteljey
+#facs_143_r1l6 anbefehlen, auff den 21. July. 3. 18. und
+#facs_143_r1l7 30. Augl. nechskünftig Gatteljagenen
+#facs_143_r1l8 halten zu laßen.
+#facs_143_r1l9 Liuiern, Basel, Freyburg, Solothurn,
+#facs_143_r1l10 Biel, Neülenburg, und Hh. Bischoffen von
+#facs_143_r1l11 Basell, Seppl. Sie zu Mitthaltung
+#facs_143_r1l12 invitieren vide missiven „ Puf de 7. July
+#facs_143_r1l13 Zedel an Mehlschl. der
+#facs_143_r1l14 1741.
+#facs_143_r1l15 Ausbürger, Camer und Allmusen; Sie
+#facs_143_r1l16 deßen über Ihren Vortrag Nachritl. verständig
+#facs_143_r1l17 B. Vide Gottr. jeg. Mandat Fol. 136.
+#facs_143_r1l18 Artl. den 14 July 1741.

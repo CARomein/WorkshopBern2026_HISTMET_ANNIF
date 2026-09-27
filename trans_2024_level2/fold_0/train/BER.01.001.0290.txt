@@ -1,0 +1,41 @@
+Law nr: BER.01.001.0290
+Name: Wegen dess Meyengedings.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_480
+# Matched: 29/29
+# High similarity (>=80%): 27
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_297_r2l1 In Teütsch Stadt vnnd Lannd
+#facs_299_r3l3 weg des meyengedings
+#facs_299_r3l4 541.
+#facs_299_r3l6 Schultheiss vnnd Rhatt den Stadt Berner d. Es wirdt die
+#facs_299_r3l7 machenn wir kein zwyffell Inwessenn synn, was vordnung
+#facs_299_r3l8 sonst das meyengeding genaupt, wir nebenn vnserenn 28 L. 2
+#facs_299_r3l9 M. vnd Bruder der stadtenn Frybourg vnnd Sollothurnen
+#facs_299_r3l10 der tischenn halb, wie vnnd Inn was zythenn die sollend vnd möge
+#facs_299_r3l11 genangenn oder Fry gelassenn werden, vor etliche Jarenn
+#facs_300_r4l12 Hemaest, Wann aber wir nun ein zyth dafar gefrurtt vnnd
+#facs_299_r3l13 Erfharenn, dass vonn wegenn ob ermeltenn ordnungenn
+#facs_300_r4l14 nich gehaltenn, vnnd die visch ohne vnder scheydt der zydt
+#facs_299_r3l15 In Iren Leychen genangenn dardurch aber der samen verderbt
+#facs_299_r3l16 die wasser dermassenn erödet das zubesorg, wo dem mit fürkomen
+#facs_300_r4l17 Inn das kunfftig grosser mangell an wischenn gesrüret werden
+#facs_300_r4l18 Dabenn wir dir als auch ettlichenn annderenn Empthüthu
+#facs_300_r4l19 Zebeuelche angesechenn menngeklich dyner verwalltung
+#facs_299_r3l20 da es von nögtenn von den Cantzlenn vermanenn von
+#facs_300_r4l21 warnenn Zelassenn, ob angeregtem Meyengeding zehallten
+#facs_299_r3l22 die visch, wan die Inn Irem Leych, oder durch verportne
+#facs_299_r3l23 mittell, by vffgesetzter straff mit Henagenn, sonders
+#facs_300_r4l24 Rüwig zelassenn, vnnd hieneben auch anordnung zſebe
+#facs_299_r3l25 damitt vff die Jhenig, so darwider thun eingeflyssenn
+#facs_300_r4l26 vff sechenn gehaltenn vnnd der gerne nach ohn alle
+#facs_300_r4l27 gnad gestrafft werdindt dann solches vnser will, die
+#facs_300_r4l28 wüß zuerstattennen Noueer, du aber deß Meyengedinge
+#facs_299_r3l29 Klein Xhgschrifft hette st magst du bericht Inn vnsere
+#facs_31_r3l10 Septembris. 1566.
+#facs_299_r3l31 Cantzley geben. Datum

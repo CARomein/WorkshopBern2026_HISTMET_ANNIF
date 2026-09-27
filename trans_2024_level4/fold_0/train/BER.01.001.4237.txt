@@ -1,0 +1,60 @@
+Law ID: BER.01.001.4237
+Name: Wegen den Wihrten und Weinschenken in den Ämteren [...]
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 48/49
+# High similarity (>=80%): 4
+# Low similarity (<80%): 44
+# Not found: 1
+#
+#facs_205_r3l10 Reglements.
+#facs_127_r2l25 Wegen denen Französischen Invalides
+#facs_73_r3l5 berstein, Schenkenberg, Castelen, Könghfelden.
+#facs_126_r14l1 Königsfelden
+#facs_209_r3l7 bollen, auf dieseren mehrbemelten Anthoine behörig
+#facs_3_r1l1 Coll
+#facs_240_r4l8 der Gemeind der andere halbe zu dienen
+#facs_67_r2l17 Eisen- Straffe, und Beynebens auch zu einer
+#facs_28_r2l12 seyen oder Richt? Alles bey drey Pfunden Ruß
+#facs_120_r3l15 auf denselben genaue acht zu bestellen, betrecten
+#facs_31_r2l11 Wir die Meßere begwaltigen, auf habenden
+#facs_28_r2l21 erhandlen, bey drey Pfunden Ruß von jeden
+#facs_170_r4l31 sollen, denn auch alle diejenigen, welche Bodenzinsen,
+#facs_161_r2l21 haben soll  etc. Wollen Ihr Gn. denselben, beilen
+#facs_76_r4l12 orts einschreiben zu laßen; und beilen N:
+#facs_90_r3l2 tionen, assistenzen, oder gnaden-sachen, vor¬
+#facs_29_r2l17 Sibendens, sollen diese Mäßere nach habender
+#facs_28_r2l12 seyen oder Richt? Alles bey drey Pfunden Ruß
+#facs_97_r3l1 5° Sollten auch noch fernere Berichten von
+#facs_85_r2l9 Ernster anbefohlen wird, sondern auch Ihnen
+#facs_242_r3l18 guths, seine Schwellenen oder andere Werk
+#facs_70_r3l18 selbstigen Dorfgenoßen gehbeilen auf dem Re¬
+#facs_18_r2l3 To
+#facs_42_r3l19 sich zu bringen suchet etc. und die solches immer
+#facs_43_r3l4 gegen Ihren Nächsten, und das demselben zuge¬
+#facs_29_r3l14 bezeichnet worden, bey Sechs Pfunden dus von jedem
+#facs_56_r3l11 Wir benachrichtet worden, welcher gestalte
+#facs_58_r5l12 der, oder Küh, auf den Alpen, Weyden, bey der
+#facs_222_r2l21 und bebührten zu laßen, sondern auch Ihnen allen müglich
+#facs_242_r3l21 zu geben, daß solches, jedoch nicht anderst,
+#facs_35_r2l1 Fünfzig Maaßen verkaufen. Inmaßen da
+#facs_204_r8l2 nierung des
+#facs_30_r2l8 sollen verkaufft werden, bey Sechs Pfunden auß von
+#facs_6_r3l14 Andertens: denen Mr. Mehger-Handwerbs, den
+#facs_179_r6l9 gesinnen, solchen auch Ihrer Seits zu feyren¬
+#facs_30_r2l8 sollen verkaufft werden, bey Sechs Pfunden auß von
+#facs_243_r3l17 Wurden aber die Eint oder andere, den
+#facs_117_r5l11 nigen Eüers Amts, welche unter der Zahl sich befinden,
+#facs_254_r5l11 eines fetten bleichen Angesichts, mit grauen Augen
+#facs_237_r4l17 soll ein solcher ohne Schönen Unsterem Ober Amtsmann
+#facs_28_r3l21 den von jedem halben Stub zu beziehen; Was
+#facs_155_r3l19 verleidet werden.
+#facs_69_r4l14 Ordnungen anzusehen, und in vorfallenden
+#facs_240_r4l7 dieser Ruß soll ihme der halbe Theil, und
+#facs_151_r2l21 Verleider, und der andere halbe Theil dem Richter der
+#facs_157_r1l14 die Hand zu gehen, Uns sogleich entschloßen, zumahlen
+#facs_140_r3l2 Welche Verordnung Lobl. Standt Luzern Wir hiemit offentlich von
+#facs_174_r5l15 schaft und befolgung, daselbe nachricht. in den
+# NOT FOUND: publicirt wird. Also erkent von Mugs. d. 28. Juny 1765.

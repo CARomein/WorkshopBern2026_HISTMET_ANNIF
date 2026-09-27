@@ -1,0 +1,33 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 25/26
+# High similarity (>=80%): 24
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4812
+#facs_68_r4l12 Visitation
+#facs_202_r3l16 der Pfarrgebäude nach Vorschrift der Predikan von
+#facs_202_r3l17 Ordnung zu vollziehen.
+#facs_202_r3l18 An alle Herren dekanen Deutschen Camls, und
+#facs_202_r3l19 per Zedel an den allhiesigen
+#facs_4_r3l9 Schultheiß und Rath
+#facs_202_r3l21 Bey Anlas des schlechten Zustandes der Pfarr¬
+#facs_202_r3l22 gebäude zu Ferenbalin ist vor Un Qttl. und
+#facs_202_r3l23 Oberen grahndet worden, daß die Besichtigung
+#facs_37_r3l22 der
+#facs_73_r3l2 Collat
+#facs_203_r4l1 395
+#facs_202_r5l2 der Pfarrgebäude nicht mit derjenigen Sorg
+#facs_202_r5l3 falt verrichtet werde, welche in der Predikan
+#facs_202_r5l4 ten Ordnung vorgeschrieben, und die zu ihrer
+#facs_202_r5l5 zwekmäßigen Erhaltung so nötig ist. Wir
+#facs_202_r5l6 befehlen Euch daher, die Juraten und Visiti¬
+#facs_202_r5l7 toren Eurer Claß, bey ersterer deren Ver¬
+#facs_202_r5l8 sammlung zu beßerer Erfüllung der ihnen
+#facs_202_r5l9 dies Orts obliegenden Pflichten anzuhalten,
+#facs_202_r5l10 und sie alles Ernstes zu ermahnen, diese Pfund
+#facs_202_r5l11 Gebäu Besichtigung für das künftige fleißiger
+#facs_202_r5l12 und mit mehrerer Sorgfalt zu verrichten.
+#facs_202_r5l13 Datum den 15. August 1796.
+#facs_98_r5l28 en

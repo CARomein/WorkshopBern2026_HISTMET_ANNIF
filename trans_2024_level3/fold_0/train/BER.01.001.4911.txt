@@ -1,0 +1,133 @@
+Law ID: BER.01.001.4911
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_480
+# Matched: 122/122
+# High similarity (>=80%): 113
+# Low similarity (<80%): 9
+# Not found: 0
+#
+#facs_317_r2l1 Ahn alle Amptleütt
+#facs_317_r2l2 des Welschen Land
+#facs_317_r2l3 Schuldttheis und C. M. die Vihle des
+#facs_317_r2l4 Frömdenn und Vns Abgönstigen Kriegs Volckh
+#facs_317_r2l5 so sich Vnseren Grenzen deß Welschen Land
+#facs_317_r2l6 nehertt, das mahn sich daher einen schadliche
+#facs_317_r2l7 hyendttlichen Einbruch befahren müße, Ver-
+#facs_317_r2l8 prsachett Vnß mitt Allem Ernst, Vns ihn
+#facs_317_r2l9 die gegen Wehr, vnd zum Widerstand Ze¬
+#facs_317_r2l10 rüsten, und dieweil wir auß Relation
+#facs_317_r2l11 Vnsern Fürgeliebtten Tzith Rhattz, Herren
+#facs_317_r2l12 Hansz Jacob Vohn diese bach. Vnd Sr. Ruo¬
+#facs_317_r2l13 dolff vohn Ehrlach vnsern grossen Rhattz
+#facs_317_r2l14 vnsere gewessene Gesandtten ihn das Welsch¬
+#facs_317_r2l15 Land, vorstanden wie mangel ahn Gesque¬
+#facs_317_r2l16 tierern sie ihn ledst gehalttner Amste.
+#facs_317_r2l17 runge befunden, vnd wie schlecht ettlich
+#facs_317_r2l18 bewehret gsein, das Auch khem A) mutio
+#facs_317_r2l19 Weder ahn Pley, Pulvor, noch Zundtt¬
+#facs_317_r2l20 strickhen Zefinden, den ihn Vnseren Hense
+#facs_317_r2l21 renn: Diesen vnd Anderen menglen Ze¬
+#facs_317_r2l22 begegnen, haben wir ahngesehen, Vnd dir
+#facs_317_r2l23 befelhen wollen: Erstlich belangendtt die
+#facs_317_r2l24 Vormehrung der Ajusquetierern, Welche
+#facs_317_r2l25 wir insonderheijtt vohn wegen mitt
+#facs_317_r2l26 derselben Vihl Vohrtheilliger, dan mitt Had
+#facs_317_r2l27 roren, gegen dem feind mag gehandlett
+#facs_317_r2l28 worden zopflatzen begerendtt, zu domnen
+#facs_317_r2l29 Vnder deinen Amptz ahngehörigen sein sollet,
+#facs_317_r2l30 so sich lieber der Ajusqueten, dan der
+#facs_317_r2l31 Handroren gebrauchinett, den Ahngentz
+#facs_317_r2l32 Vnd ohne Verzug bey den Comminen dei¬
+#facs_317_r2l33 ner Verwalttung, dich erkundigest, wel¬
+#facs_317_r2l34 che vermöglich seynd ajusqueten zekauffen.
+#facs_317_r2l35 und dan auch war tegenlich vnd lustig
+#facs_317_r2l36 sie, sich derselben zugebrauchen, vnd vns
+#facs_317_r2l37 deren Ahnzael für derlich zuberichtenn
+#facs_317_r2l38 worden, wir dir dieselbige Ahnzahl
+#facs_139_r2l19 mit
+#facs_317_r3l1 mitt Aller rüstungo zueschaffen: Damit V. A. bei
+#facs_317_r3l2 wir derselben nicht zu vorlerst stehenn
+#facs_317_r3l3 mussindtt, soltte hieneb. Jeder Comm
+#facs_317_r3l4 ahnzeigen. Wie vnser Will und Gesegung
+#facs_317_r3l5 sey, das sich dieselben darumb verschreibung
+#facs_317_r3l6 auff zill vnd tag den haltt, vmb das wie
+#facs_317_r3l7 sie Ahnschlachen worden, zuobezahlen
+#facs_317_r3l8 Vnd dieweil ein Buchssen ohn krautt von
+#facs_317_r3l9 Lodtt nicht nülzet, hiemitt aber vnsere
+#facs_317_r3l10 Heusser dasselb nicht allein anstragen
+#facs_317_r3l11 mussindtt, So haben wir hieneben ahn¬
+#facs_317_r3l12 gesehen, das die Jeder Communn vnd Kilch¬
+#facs_317_r3l13 Höry Deiner Verwalttung zueverstehen
+#facs_317_r3l14 geby, sie auch dahin haltten söllest, das
+#facs_317_r3l15 ihro Jede ein Ommia Goltz zusam schiesst
+#facs_317_r3l16 daß sie darauf zu gutter Fürsehunge
+#facs_317_r3l17 Für ein Einfahl, vnd auch das sie durch
+#facs_317_r3l18 Zahr vff den Zihlstetten zueschiessen habindtt
+#facs_317_r3l19 Krantt und Loett einkauffmet, den wöl¬
+#facs_317_r3l20 len wihr ihnen vmb einen lyden lichen
+#facs_317_r3l21 Pfenning, Namlich ein Centtner Pulvor
+#facs_317_r3l22 umb xvi kronnen, Ein Landttner Zündt¬
+#facs_317_r3l23 stricklich vmb zu kennen, vnd ein Cent
+#facs_317_r3l24 ner Pley vmb 5 Kronnen fur 25 balzet
+#facs_317_r3l25 ohnzeytt gehn Geratten vorschaffen, Auff
+#facs_317_r3l26 den Tag den Ajahn dazu Vermambs
+#facs_317_r3l27 wirtt, Alls dan worden vnsere vorer¬
+#facs_317_r3l28 dertten den Saltt vohn ihnen empfachten
+#facs_317_r3l29 Damitt Vnsere Ajumition ihn Vnsern Haus¬
+#facs_317_r3l30 seren desto ligor were, v guspaartt
+#facs_317_r3l31 werden möge vnd nicht allein vber die¬
+#facs_317_r3l32 selb auszuge
+#facs_317_r3l33 Dannenthin worden wir auch berichtet
+#facs_317_r3l34 wie nicht zu Peder anzusqueten, so ihn Vn¬
+#facs_317_r3l35 serem Haus bey dir funden wirtt, ein Bande
+#facs_317_r3l36 hier vorhanden, vnd das auch die besondere Per¬
+#facs_317_r3l37 sonnen so ahn den gehalttenen ajnstörungen
+#facs_317_r3l39 mitt Ajusqueten erscheinen die mitt Bande
+#facs_317_r3l40 lierenn
+#facs_29_r1l1 6
+#facs_215_r3l3 3.73
+#facs_317_r5l3 Tall
+#facs_55_r5l1 57
+#facs_318_r2l1 mitt Bandelierein nicht versehen seynd, haben
+#facs_318_r2l2 wir dir befelhen wollen, das so viel vnsere
+#facs_318_r2l3 Ajusqueten ihn unseren Henseren belangtt.
+#facs_318_r2l4 du zu jeder die mitt ein Bandclier hatt
+#facs_318_r2l5 ein eigene dazu machen lassest, damit die
+#facs_318_r2l6 jenigen so sich deren gebrauchen mussind,
+#facs_318_r2l7 nach nodtturfft Vorsehen seynd. Den under¬
+#facs_318_r2l8 thonnen auch, allen obstahet, so nicht mitt
+#facs_318_r2l9 Bandelieren zu ihren ajusqueten versehen
+#facs_318_r2l10 werendtt, vff bindest, Jeder sein eigene
+#facs_318_r2l11 machen losse. Die soltt auch Indem Be
+#facs_318_r2l12 felchs habr vohn der Commennen deiner
+#facs_318_r2l13 Verwalttunge daß renden hans, wie es vie
+#facs_318_r2l14 Vnseren Gesandtten bestimmet wordenn
+#facs_318_r2l15 ihn Johann kundtt thun, damit ihm fahl
+#facs_318_r2l16 der Nodtt Jeder desto fürer sich mitt
+#facs_318_r2l17 den seinnen Auff dem Larmen Platz fin
+#facs_318_r2l18 den möge. Gleichs-sahln solten auch ver-
+#facs_318_r2l19 schaffen, das ihn Jeder Communn vohn enn
+#facs_318_r2l20 zum anderen gangen vnd die Wehr Visi¬
+#facs_318_r2l21 tiertt werdind, damit ein Jeder mitt
+#facs_318_r2l22 dem Wehr so er ihn der Amsterung
+#facs_318_r2l23 tragen. oder ihm auffgelegtt worden, vor
+#facs_318_r2l24 sehen sie, vnd vff das Inn kunfftig yedr.
+#facs_318_r2l25 sam Wehr behaltte. Auff zez ihn guetten
+#facs_318_r2l26 wesen verbleibe. Habend wir ahnge¬
+#facs_318_r2l27 schap en die Schulzen vermandtt werden
+#facs_318_r2l28 Alle Contag zum Schiessend zu gehen, vnd
+#facs_318_r2l29 die so vff den Zihll stetten ohne wichtige
+#facs_318_r2l30 Vrsachen erscheinnen wurdindtt, vmb 1 fl.
+#facs_318_r2l31 ihn die Haaben gebusset worde.
+#facs_318_r2l32 Vnnd Alles wir noch erachten können, das
+#facs_318_r2l33 deß Reyßgaltt noch mihr Vollkommen lich¬
+#facs_318_r2l34 für drey Ajouet lang zu som gelegtt wor¬
+#facs_318_r2l35 den sie solttu ahnhaltt dasselbig erstattet
+#facs_318_r2l36 werde, und mithin zur gutter provision
+#facs_318_r2l37 Vnden Jahr ein Ahnzahl Zunettstricken mache
+#facs_318_r2l38 lassen vnd vnß dieselben verrechnen, damit ihm
+#facs_318_r2l39 fahl dar Noett mahn sie zufinden wussen
+#facs_318_r2l40 Datum 14 July 98

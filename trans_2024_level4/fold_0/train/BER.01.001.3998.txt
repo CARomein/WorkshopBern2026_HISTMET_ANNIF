@@ -1,0 +1,35 @@
+Law ID: BER.01.001.3998
+Name: Getreyd - Versilberung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 24/24
+# High similarity (>=50%): 23
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_84_r3l14 2.
+#facs_84_r3l15 Alle T. und W. Amtleuth, und Oberkeitl:
+#facs_84_r3l16 Haüser, da Betreyd, Vorrath ist.
+#facs_84_r3l17 Getreyds- Versilberung.
+#facs_84_r3l18 Schultheiß, Rath und Burger
+#facs_84_r3l19 Da Wir abermahlen Uns entschloßen,
+#facs_84_r3l20 Theil unsers über den Vorrath aus vorhandenen
+#facs_84_r3l21 Getreyes versitbaren zu laßen, als befehlen
+#facs_84_r3l22 Wir Eüch das halbige Winterbebächs, und den
+#facs_84_r3l23 noch restierenden halbigen Theil Sommer Gebächs,
+#facs_84_r4l1 157.
+#facs_84_r4l2 so über den Vorrath aus vorhanden seyn wird,
+#facs_84_r4l3 abzustoßen und in billichen Preis zum Kauf
+#facs_84_r4l4 auszustellen, in dem Verstand, daß die
+#facs_84_r4l5 ordinari und quari Ordinari Ausgaben zuvor
+#facs_84_r4l6 abgezogen, das verkaufennte Gebächs dann nicht
+#facs_84_r4l7 zu großen Kaüfen, sondern höchstens zü
+#facs_84_r4l8 tuderen weis hingeben werde; Übrigens —
+#facs_84_r4l9 aber berdet ihr der abzustoßenden Schüttman
+#facs_84_r4l10 halb, und allfählig auch wegen des fremde
+#facs_84_r4l11 Betreyds, so deßen in Eüeren Kornhaüseren
+#facs_84_r4l12 sich befindet, die nähere Instruction von
+#facs_84_r4l13 Unser Vener Kammer empfahen. Datum
+#facs_84_r4l14 den 26en Junii 1751

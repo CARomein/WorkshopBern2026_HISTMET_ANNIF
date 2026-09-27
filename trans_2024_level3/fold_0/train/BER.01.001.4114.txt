@@ -1,0 +1,634 @@
+Law ID: BER.01.001.4114
+Name: Reglement für die Erhaltung der Strassen in denen Gemeinen Ämteren beyder Lobl. Ständen Bern und Fryburg.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 623/623
+# High similarity (>=50%): 556
+# Low similarity (<50%): 67
+# Not found: 0
+#
+#facs_264_r2l13 Reglement
+#facs_264_r2l14 Für die Erhaltung der Straaßen in denen
+#facs_264_r2l15 Bemeinen Ämteren beyder lobl. Ständen
+#facs_264_r2l16 Bern und Fryburg
+#facs_264_r2l17 Collg. Sir Schultheis und Rath der
+#facs_264_r2l18 Natt
+#facs_264_r3l1 vos.
+#facs_264_r3l2 Statt Bern, uns Wir Schulthers und Rath der
+#facs_264_r3l3 Statt Fryburg, thuns kuns hiemit; demnach Wir in
+#facs_264_r3l4 Getrachtung gezogen, wie nothwendig es seyn wolle
+#facs_264_r3l5 daß zu gebührender Anverhaltung der Straaßen
+#facs_264_r3l6 in Unseren Mediat= oder Gemeinen Landen über¬
+#facs_264_r3l7 haubt, Inw besonders aber der erst vor weniger Zeit
+#facs_264_r3l8 zum besten deß gemeinen Wesen mit großen Kösten
+#facs_264_r3l9 errichteten neuen Haubt-Land-Straas in Unserer
+#facs_264_r3l10 Herrschafft Murten die behörige Vorsorg gethan werde;
+#facs_264_r3l11 Damit Selbige nicht in verfall gerathen, sonderen vor
+#facs_264_r3l12 den Gemeinden jederweilen geflißentlich unterhalt¬
+#facs_264_r3l13 und vor allem Schaden und Verküstung bestmüglichst ver¬
+#facs_264_r3l14 hütentwerdend; das darauf hinwir in ansehen der
+#facs_264_r3l15 würcklich gemachten neuen Meurten, Straat, Convohl
+#facs_264_r3l16 als der amann noch in Sulunff construierenden neüen
+#facs_264_r3l17 Straassen, folgende Verordnung und Reglement der
+#facs_264_r3l18 Unterhaltung und Sästigung halber, zu errichten gut,
+#facs_264_r3l19 funden; Mithin in HochOberkeitlich reguliert, gesezt,
+#facs_264_r3l20 anderen vor-
+#facs_264_r3l21 und Statuirt haben wollen, wie vor
+#facs_264_r3l22 folget.
+#facs_264_r3l23 a° Damit jede Gemeins den Ihr zu erhalten sey
+#facs_264_r3l24 obligenden
+#facs_264_r5l1 Fohlen 86
+#facs_265_r2l1 bligenden Bezirk desto fleißiger besorge, und den
+#facs_265_r2l2 sich erzeigenden Mänglen, in rechter Zeit begegne,
+#facs_265_r2l3 so soll über einen Jeden Bezirck ein Dorff v Weg
+#facs_265_r2l4 meister bestellet, und darzu Ehrliche, verständig¬
+#facs_265_r2l5 der Sachen kündige Männer erwählt, und selbige
+#facs_265_r2l6 Unserer Amtleüthen vernamstet werden; Welcher
+#facs_265_r2l7 Wegmeisteren dann obligen soll, mit besonderem Fleiß
+#facs_265_r2l8 darauf zu achten, daß alle die in diesem Reglement
+#facs_265_r2l9 vorgeschriebene, hienach enthaltene Puncten
+#facs_265_r2l10 in
+#facs_265_r2l11 ne Erfüllung gesezt werdend; zu dem Einsollen
+#facs_265_r2l12 dieselben verbunden seyn, fleißig, ja wo möglich
+#facs_265_r2l13 alle Wochen einmahl, den Kehr den Straaßen
+#facs_265_r2l14 nach zu machen, um zu sehen, ob selbige keiner
+#facs_265_r2l15 Schaden empfangen haben, uns, wo sie etwas
+#facs_265_r2l16 bemercken, solches der Bemeind, welcher die
+#facs_265_r2l17 Reparation obliget, alsobals anzuzeigen, und dieselbe
+#facs_265_r2l18 Zur Verbeßerung inert einer Ihre zu bestimmenden
+#facs_265_r2l19 angemeßenen Zeit, zu ermahnen; daß ich aber
+#facs_265_r2l20 Die Bemeis hierinn samstelig erzeigen wurde.
+#facs_265_r2l21 solche Unserem Amtrmann, zu gebührender
+#facs_265_r2l22 Bestraffung
+#facs_265_r3l1 halO
+#facs_265_r3l2 Bestraffung uns weiteren Verfügung zu verleiden
+#facs_265_r3l3 In starcken Regentagen und WaßerGüßen dann
+#facs_265_r3l4 sollen die bestellten Wegmeistere, nach Erfordere
+#facs_265_r3l5 nit einem oder zwey Männeren aus der Be¬
+#facs_265_r3l6 mein der Straaß nachgehen, um den Schaden so
+#facs_265_r3l7 derselben könte zugefügt werden, durch Räumung
+#facs_265_r3l8 und Öfnung der Dräben, sogleich vorzukommen, oder
+#facs_265_r3l9 bey Überhand nemendem Übel, demselben durch
+#facs_265_r3l10 Abholung mehrerer Mannschafft zu Behren; In allen
+#facs_265_r3l11 bichtigen fählen dann, sollen sich bemeldte Dorf Weg¬
+#facs_265_r3l12 meistere bey Unseren Umsteleuthen anmelden,
+#facs_265_r3l13 und Ihres Befehls gewärtig seyn.
+#facs_265_r3l14 In sonderheit werden die Wegmeistere auf die¬
+#facs_265_r3l15 drücken geflißene Aufsicht halten, damit die sich
+#facs_265_r3l16 aüßerenden Mängel durch die, welchen es zu kommen
+#facs_265_r3l17 zugesäumt verbeßeret werden.
+#facs_265_r3l18 Überhaupt aber aller was Ihnen der Straaßen hal¬
+#facs_265_r3l19 ber anbefohlen werden wird, gehorsamlich ausrichten
+#facs_265_r3l20 und vollziehen
+#facs_265_r3l21 Dahingegen Ihnen denen Wegmeisteren, zu
+#facs_265_r3l22 Ihre
+#facs_265_r5l1 Fohlen 80
+#facs_265_r5l2 r
+#facs_265_r5l3 à 5 x
+#facs_266_r2l1 Ihrer Anfrischung von allen, auf Ihre Verleidung
+#facs_266_r2l2 der Straaßen halber fallenden Geltbußen, allliege
+#facs_266_r2l3 der Vierte Theil zu kommen uns heimdienen soll.
+#facs_266_r2l4 2° Damit die Straßen von der Sonnen, und den
+#facs_266_r2l5 Winden wohl getröcenet werden, mithin in Be¬
+#facs_266_r2l6 höriger Härte verbleiben können; wollen Wir,
+#facs_266_r2l7 daß in jenigen Straaßen, so durch Wälder gehen
+#facs_266_r2l8 in den Wälderen, von Jeder Seiten der Straß
+#facs_266_r2l9 an zu rechnen, 14 Schue breit kein Aufwachs von
+#facs_266_r2l10 Bäumen noch Geständen geduldet, auf den
+#facs_266_r2l11 Gütern dann, wie auch in den Einhägen und
+#facs_266_r2l12 Saumgärten, so an die Straß stoßen, keine Obs¬
+#facs_266_r2l13 Bäum näher als 4 Schue; Rußbäum und Eichen
+#facs_266_r2l14 aber nicht näher als 12 Schue zum Zaun gesezt werden;
+#facs_266_r2l15 Bey Straaff deren Wideraurreisung, und
+#facs_266_r2l16 noch über diß einer Zus von sehen Pfunden
+#facs_266_r2l17 für jeden Baum, der zu wider dieser Verordnung
+#facs_266_r2l18 angepflanzet wurde; der Meinung, daß die
+#facs_266_r2l19 würcklich stehenden noch jungen Bäume biß auf
+#facs_266_r2l20 obbestimmte Entfernung vom Zaun ohne anders
+#facs_266_r2l21 Zurückgesezt
+#facs_266_r3l1 den 12
+#facs_266_r3l2 Zurückgesezt werden sollen, die alten Bänn aber
+#facs_266_r3l3 so nicht mehr verfezt werden können, biß zu Ihren
+#facs_266_r3l4 Abgang wohl beybehalten werden mögen, doch aber
+#facs_266_r3l5 deren über die Straaßen hangende Kiste abge¬
+#facs_266_r3l6 haufen werden sollins.
+#facs_266_r3l7 3. Sollen alle Jahr im Frühling die Stauden der Leb¬
+#facs_266_r3l8 hägen, sowohl als die Äst der Bäumen, der Straaß
+#facs_266_r3l9 nach, fleißig abgehauten werden.
+#facs_266_r3l10 4° Die Bandleuthe sollen die Steinen, so Sie auf
+#facs_266_r3l11 den Acht eren santeren, nicht in die Straaß vorle¬
+#facs_266_r3l12 sonderen Häusfleinsweise neben dieselbige, oder an
+#facs_266_r3l13 Solche Orth, die ihnen vom Wegmeister verzeigt wer¬
+#facs_266_r3l14 den, legen, oder darzu führen, damit selbige st¬
+#facs_266_r3l15 dann zu Ausfüllung der Karrdfleißen, nach er¬
+#facs_266_r3l16 heischender Nothdurfft, gebraucht werden können,
+#facs_266_r3l17 denn sollen Sie weder Holz, noch abgehauene äste
+#facs_266_r3l18 und Reständ; Insonderheit auch keine Bauhäußen
+#facs_266_r3l19 noch Schorgnuben, oder einigen Unrath, wordung
+#facs_266_r3l20 die Straas verlöestet werden kan, in selbige
+#facs_266_r3l21 nicht hinein werfen, oder hin einlegen
+#facs_266_r3l22 5° damit die Straaßen von den Wößerungen
+#facs_266_r5l1 als
+#facs_266_r6l1 fehlen. 86
+#facs_266_r6l2 2.
+#facs_266_r6l3 à 5 x
+#facs_267_r2l1 Ferners nicht beschädiget werden, so sollen die Anstößere
+#facs_267_r2l2 oder Particularen Ihre Waßerleitungen nicht mehr
+#facs_267_r2l3 in die Straaß, sondern äußert derselben in
+#facs_267_r2l4 den Güteren, machen und durch führen, und wo
+#facs_267_r2l5 die Waßerleitung güer über die Straaßgehet
+#facs_267_r2l6 sollen Sie solche entweden durch wohlbeschoßene
+#facs_267_r2l7 flache Schaalen, oder durch verdeckte Acten, also
+#facs_267_r2l8 einfaßen, und fleißig erhalten, daß dardurch
+#facs_267_r2l9 der Straaß kein Schaden widerfahre; bey Zehen
+#facs_267_r2l10 Pfunden auß für das Erstemahl, und genießener
+#facs_267_r2l11 Vermehrung derselben, so oft darwider gehandlet wird.
+#facs_267_r2l12 CDie Gemeinden, jede in den Ihnen verzeigten
+#facs_267_r2l13 Straaßen- Bezircken, sollen wenigstens alle Jahr
+#facs_267_r2l14 Zwey mahl im Frühling und im Herbst, die Waßer¬
+#facs_267_r2l15 und Abzuge Bräben, in uns der Straas nach, öffnen
+#facs_267_r2l16 und säuberen; denn von Zeit zu Zeit, und nach Er¬
+#facs_267_r2l17 fordern, die Karreßleisen einziehen uns ver¬
+#facs_267_r2l18 ebnen, auch so oft vonnöthen, die Straas mit
+#facs_267_r2l19 Krien frisch überführen; In außerordentlichen
+#facs_267_r2l20 zufahlen dann, als bey großen Wasergüßen,
+#facs_267_r2l21 Überschleiben
+#facs_267_r3l1 azi 3
+#facs_267_r3l2 Überschwemmungen, Herd brüchen, und dergleichen so¬
+#facs_267_r3l3 sollen die Gemeinden unversäumt, und in gnugsam
+#facs_267_r3l4 mer Anzahl der Straaß zu Hülff kommen, dem Übelre
+#facs_267_r3l5 steüren, und den entstandenen Schaden fleißig
+#facs_267_r3l6 aus besseren
+#facs_267_r3l7 Wollen die Bemeinden alle Jahr in der Ihnen be¬
+#facs_267_r3l8 quemsten Zeit, Steinen und Grien zu der Straaß
+#facs_267_r3l9 führen, und Hauffenweise bey 50 Schritt weit von
+#facs_267_r3l10 ander, oder an denen Orten die Ihnen vom
+#facs_267_r3l11 Wegmeister werden verzeigt worden, hinlegen,
+#facs_267_r3l12 damit, sobald dich Mängel in der Straaßereignen
+#facs_267_r3l13 die Materi an der Hand seye selbigen zu begegnen.
+#facs_267_r3l14 8° Er sollen über dis alle und Jede Gemeinden
+#facs_267_r3l15 die mit Erhaltung der Straasen beladen, schul¬
+#facs_267_r3l16 dig und verpflichtet seyn, überhaubt aller dar¬
+#facs_267_r3l17 jenige geflißene uns ohne Widerred zu thun
+#facs_267_r3l18 und zu erstatten, was ihnen von dem bestellten
+#facs_267_r3l19 Wegmeister zu nöthiger Verbeßerung und Con¬
+#facs_267_r3l20 servation der Straaß angelöne sein werden wird,
+#facs_267_r3l21 und zwar allliegen in der von demselben hierzu
+#facs_267_r3l22 bestimmenden Zeit, sey unnachläßlicher Ruß
+#facs_267_r3l23 von
+#facs_267_r6l1 s
+#facs_267_r6l2 B
+#facs_267_r7l1 fehlen 86
+#facs_267_r7l2 r
+#facs_267_r7l3 à St
+#facs_268_r2l1 von jehen Pfunden, welche Unser Amts Mann
+#facs_268_r2l2 ohne Schönen beziehen, und über das das Man
+#facs_268_r2l3 gelbahre, auf Kosten der Saumseligen Gemein
+#facs_268_r2l4 alsobald in Stand sezen laßen wird.
+#facs_268_r2l5 9. Wann sich jehmand erfrechen wurde, die Straas¬
+#facs_268_r2l6 Marchen zu verrücken oder wegzuthun, seine
+#facs_268_r2l7 Zaun oder seine Mauren in die Straaß zu sehr,
+#facs_268_r2l8 oder die Waßer, dräben zu verstopfen und zu
+#facs_268_r2l9 verderben, oder auf einige andere Weiß die
+#facs_268_r2l10 Straaßen zu beschädigen; der soll eines solch¬
+#facs_268_r2l11 muthwilligen Frevels wegen mit einer Buß von
+#facs_268_r2l12 50. Pfunden von Unserem Amtrmann belegt;
+#facs_268_r2l13 und, nach Anstaltsame des Frevels, annahmt Be¬
+#facs_268_r2l14 fangenschafft gestraafft werden
+#facs_268_r2l15 ad das Spanmen der Räderen an denseinen,
+#facs_268_r2l16 soll allen und jeden Fuhrleuten anderst nicht
+#facs_268_r2l17 als mit Anderlegung eines Schleiffstrags,
+#facs_268_r2l18 zugelaßen, sonsten aber ernstlich verbotten
+#facs_268_r2l19 nicht minder das Schleipfen der Tannbuschlene
+#facs_268_r2l20 und dergleichen Dingen, wordurch das Brien
+#facs_268_r2l21 von
+#facs_268_r4l1 816.
+#facs_268_r4l2 von der Straaß weggeschleppet wird, hiemit
+#facs_268_r4l3 es
+#facs_268_r4l4 gänzlich abgestellt seyn: ausgenommen Wintern¬
+#facs_268_r4l5 Zeit, wann die Straas mit Eis oder Schneebedeckt
+#facs_268_r4l6 bres
+#facs_268_r4l7 seyn wird
+#facs_268_r4l8 r
+#facs_268_r4l9 11° Weilen durch unmäßige Laste die Straaßen
+#facs_268_r4l10 gewaltig verderbt werden; so soll hinkünfftig mehr
+#facs_268_r4l11 nicht als höchstens 40. Centner auf einen Wagen zu
+#facs_268_r4l12 quoy je n'ai pas dans le
+#facs_268_r4l13 laden, und abzuführen, gestattet, die Ladung der
+#facs_268_r4l14 i
+#facs_268_r4l15 Weine Wägen auf ein einzelnes Paß, von mehr
+#facs_268_r4l16 on the
+#facs_268_r4l17 nicht als oder höchstens 6 Sännen halte, eine
+#facs_268_r4l18 geschränckt seyn.
+#facs_268_r4l19 Und weilen die Erfahrung belehret, daß die Puh¬
+#facs_268_r4l20 rungen, so mit Habel - Wägen verrichtet werden
+#facs_268_r4l21 den Straaßen in sonderheit Schädlich, so wollen Wir
+#facs_268_r4l22 sothane Babelo Wögen hiemit verbotten, und in
+#facs_268_r4l23 deren Statt, den Gebrauch der Deichsel, Wäg¬
+#facs_268_r4l24 Da die Pferd neben einander gesponnet, ent=
+#facs_268_r4l25 fohlen haben, die kleinen Führungen, so mit
+#facs_268_r4l26 mehr nicht als nur 2 Pferden beschehen, aus¬
+#facs_268_r4l27 genommen, für welche die Babelo Wägen hiemit
+#facs_268_r4l28 13° Endlichen
+#facs_268_r4l29 zugelaßen bleiben
+#facs_268_r5l1 M.
+#facs_268_r5l2 Herrn
+#facs_268_r6l1 Bohlen 86
+#facs_269_r2l1 13° Endlichen, und da aufleißiger Execution die¬
+#facs_269_r2l2 fer Unserer Verordnung alles gelegen, sowolle
+#facs_269_r2l3 Wir hiemit Unseren Amtkeüthen ernstmeinend
+#facs_269_r2l4 und bey aufhabender Eyds-Pflicht, anbefohlen
+#facs_269_r2l5 haben, Ober=Amtliche Haus obzuhalten, daß
+#facs_269_r2l6 allen hievor enthaltenen Articklen gebührend
+#facs_269_r2l7 Folg geleistet und nachgelebt werde; zu den
+#facs_269_r2l8 Es die Straasen von Zeit zu Zeit, zu besichti¬
+#facs_269_r2l9 gen, und Beflißen zu achten, ob solvohl die bestelten
+#facs_269_r2l10 Wegmeistere, als auch die Bemeinden, jede¬
+#facs_269_r2l11 in Ihrem Bezirck, ihre hierinn vorgeschriebend
+#facs_269_r2l12 Pflichten gehorsamlich erstatten, und so ge¬
+#facs_269_r2l13 meldt Unsere Amtkänth, hierin einige
+#facs_269_r2l14 Saumseligkeit, mithin wahrnemmen wurden
+#facs_269_r2l15 daß entwedere aus Hinläßigkeit der Weg,
+#facs_269_r2l16 meisteren die Straaßen nicht geziemend —
+#facs_269_r2l17 unterhalten, oder, daß die Gemeinden,
+#facs_269_r2l18 denen die Underhaltung obliget, obwahlen
+#facs_269_r2l19 von dem Wegmeister behörig ermahnt, Ihre
+#facs_269_r2l20 Schuldigkeit nicht leisten würden; so sollen die
+#facs_269_r2l21 Wegmeistere
+#facs_269_r3l1 : 518
+#facs_269_r3l2 Wegmeistere oder die Gemeinden nicht nur
+#facs_269_r3l3 zu Gebührender Straaff gezogen, sonderen, wann
+#facs_269_r3l4 Ihre Vorglosigkeit so groß feyn sollte, daß
+#facs_269_r3l5 darüber gar nöthige Verbeßerungen unter¬
+#facs_269_r3l6 blieben wären, in diesem Fahl Mangelbahre
+#facs_269_r3l7 alsobald auf der Fehlbahren Kösten gemacht,
+#facs_269_r3l8 und zu Stans gebracht werden
+#facs_269_r3l9 So viel, was die neub construierten Haubt¬
+#facs_269_r3l10 Land Straaßen berührt.
+#facs_269_r3l11 Getreffend aber die Alten, solvohl Haubt als Nebens
+#facs_269_r3l12 Straaßen in Unseren Gemeinen Ämteren, sowolle
+#facs_269_r3l13 Wir, daß derenthalben folgende Punkten beobachtet
+#facs_269_r3l14 werden
+#facs_269_r3l15 5. Oblochten Wir die eigentliche Breite dieser Straasen
+#facs_269_r3l16 zu bestimmen dermahlen nicht gemeint, so sollen den
+#facs_269_r3l17 noch dieselben in solchen Stans und dreite gesezt
+#facs_269_r3l18 werden, daß Zwey Wägen neben einander Jahre
+#facs_269_r3l19 können; An den Ehrten aber, wo das Erdreich
+#facs_269_r3l20 und Situation es unmöglich zu lasset, sollen wenig¬
+#facs_269_r3l21 stens von Distanz zu Distanz, solche Öffnungen ge¬
+#facs_269_r3l22 verstoßenen
+#facs_269_r3l23 macht worden, daß Zwey auf ein
+#facs_269_r3l24 Ruhrbarck
+#facs_269_r4l1 res
+#facs_269_r4l2 sus
+#facs_269_r4l3 ons
+#facs_269_r5l1 jay
+#facs_269_r5l2 d' her
+#facs_269_r5l3 r
+#facs_269_r5l4 the
+#facs_269_r6l1 bres
+#facs_269_r6l2 ble
+#facs_269_r6l3 tres
+#facs_269_r8l1 s
+#facs_269_r9l1 Fol. 86.
+#facs_270_r2l1 Fuhrwerde einander aus weichen mögen, mit
+#facs_270_r2l2 Der ferneren Erläuterung dennoch; daß wo die
+#facs_270_r2l3 Straaßen durch Waldungen gehen, der ganze
+#facs_270_r2l4 durch schnitt für die Straas 24. Schuh in der
+#facs_270_r2l5 Breite haben, und hiemit in solcher weite
+#facs_270_r2l6 kein junger Auflwachs, gedultet werden solle
+#facs_270_r2l7 2° Die dermahlen denen Straaßen nach nachste,
+#facs_270_r2l8 hende Sämne mögen zwar unveränderet
+#facs_270_r2l9 verbleiben, daferne selbige, solwohl als auch die
+#facs_270_r2l10 Lebhäg, alle Jahr genügsam aufgeschneitet werden
+#facs_270_r2l11 Inrkünftige aber sollen keine Eichbäum oder
+#facs_270_r2l12 Auß bäum, näher als 12 Schuhe vom Zaun, und
+#facs_270_r2l13 andere Obsedäum näher nicht als 4 Schuh von
+#facs_270_r2l14 Zaun gesezet werden, Bey Straaff deren Aus¬
+#facs_270_r2l15 reisung und einer Zuß von 10 Pfunden von
+#facs_270_r2l16 Jedem Baum
+#facs_270_r2l17 3 Er sollen auch in den Straaßen keine Bauländer¬
+#facs_270_r2l18 Schorr. Bruben gemacht noch gedultet worden,
+#facs_270_r2l19 auch die Straas weder mit Holz, Steinen, noch andere
+#facs_270_r2l20 Sachen verlegt, oder gesperrt werden.
+#facs_270_r2l21 Auf
+#facs_270_r3l1 & 20
+#facs_270_r3l2 4° Auf Bäyden Seiten der Straas sollen so viel,
+#facs_270_r3l3 möglich, und das Erdreich er zulaßt, Abzug, Bröben ge¬
+#facs_270_r3l4 macht, und das Waßer am bürzesten und füglichsten
+#facs_270_r3l5 Ort ab der Straaß geführt werden.
+#facs_270_r3l6 Diejenigen, so sich daß Waßers zu Ihren Wäßerung
+#facs_270_r3l7 bedienen, sollen daßelbe aus eicher der Straaßleiten
+#facs_270_r3l8 Wo es aber nicht anders als der Straas nach geführt
+#facs_270_r3l9 werden kan, soll solches durch gute Bräben und Waßer¬
+#facs_270_r3l10 leitungen beschehen, und güer über die Straaß
+#facs_270_r3l11 anderst nicht als durch beschoßene Schaale, oder
+#facs_270_r3l12 verdeckte Acten.
+#facs_270_r3l13 6. Sollen hinkünftig die Straaßen nicht mehr mit Holz
+#facs_270_r3l14 anderen mit Steinen und Brien verbeßeret, um
+#facs_270_r3l15 the
+#facs_270_r3l16 erhalten werden.
+#facs_270_r3l17 7o Soll, gleichwie bey denen neuen Straaßen einen, aus
+#facs_270_r3l18 our
+#facs_270_r3l19 Jede Gemeind einen tüchtigen Wegmeister bestell¬
+#facs_270_r3l20 und dem Amts Mann daß Orts vernamsten;
+#facs_270_r3l21 welchene Wegmeister obligen soll, die Straaßen von
+#facs_270_r3l22 Zeit zu Zeit, sonderlich bey einfallendem starcken
+#facs_270_r3l23 Regenlootter und Waßergüßen zu besichtigen,
+#facs_270_r4l1 des
+#facs_270_r4l2 be
+#facs_270_r4l3 tres
+#facs_270_r4l4 r
+#facs_270_r4l5 départ.
+#facs_270_r4l6 tisser
+#facs_270_r4l7 1
+#facs_270_r7l1 fohlen 80 x
+#facs_271_r3l1 und die befundenen Mängel, durch die Bemeins¬
+#facs_271_r3l2 so es berührt, ohne Anstand Auf beßeren zulaßen;
+#facs_271_r3l3 Worauf dann Unsere Amtkeüth ebenfahls geflisent,
+#facs_271_r3l4 lich invigilieren, und die Gemeinden und Wegmei¬
+#facs_271_r3l5 stere zu Ihren vorgeschriebenen Pflichten ernstlich
+#facs_271_r3l6 anhalten sollen, damit die Straaßen jederweilen
+#facs_271_r3l7 in gutem Brauch bahren Zustand unterhalten werden.
+#facs_271_r3l8 Wir verstehen Uns zu Unseren getreüen und
+#facs_271_r3l9 Lieben Unferthenen in besagt Unferen Mediat
+#facs_271_r3l10 Landen, dieselben werden diesem Unseren zum
+#facs_271_r3l11 besten daß gemeinen Wesens abzweckenden Einsicht
+#facs_271_r3l12 und Reglement willig und gehorstam sich unterziehen
+#facs_271_r3l13 und nachzukommen wüßen: Welcher zu Mänigliche
+#facs_271_r3l14 Nachricht und verhalt Wir hiemit in offenen drücken
+#facs_271_r3l15 laßen. Geben den 1 Septembris und 22 Decemb. 1738
+#facs_271_r3l16 Reglement
+#facs_271_r3l17 Pour L'Entretient et la conservation des chemins
+#facs_271_r3l18 dans les Baillages Mediats de Berne et de Trybouy
+#facs_271_r3l19 Nous L'advoyer et Conseil de la Ville et Republique a
+#facs_271_r3l20 Berne,
+#facs_271_r4l1 622
+#facs_271_r4l2 Berne, et Nous l'Adroyer et Conseil de la Ville et Repub.
+#facs_271_r4l3 lique de Tryburg, savoir faisons; Qu'ayant considere,
+#facs_271_r4l4 ble
+#facs_271_r4l5 combien, il importe au Public, quil soit pour vû a
+#facs_271_r4l6 2.° 3
+#facs_271_r4l7 l'Entretien, et à la conservation des chemins dans nos
+#facs_271_r4l8 Baillages Mediats; Et particulierement de celui que
+#facs_271_r4l9 venons
+#facs_271_r4l10 Nous d'etablir à grands frais depuis peû dans Notre
+#facs_271_r4l11 Baillage de Morat. Nous avons crû necessaire de
+#facs_271_r4l12 publier une ordonnance et Reglement, tant à l'Egar
+#facs_271_r4l13 dudit Nouveau Chemin de Morat, que de tous ceux
+#facs_271_r4l14 que nous pourrions encore établie dans la suite
+#facs_271_r4l15 À ces causes et surtout, afin que chaque Comune
+#facs_271_r4l16 Sache ce qu'il lui appartiendra de faire, pour empêcher
+#facs_271_r4l17 le dépérissement de ces chemins, Nous avons ordonné
+#facs_271_r4l18 et reglé, d'article en article, come suit
+#facs_271_r4l19 me
+#facs_271_r4l20 1° Pour que chaque Comune prenne soin du District
+#facs_271_r4l21 qui lui est assigné, et quelle remédie à tems aux Domsceux
+#facs_271_r4l22 nous
+#facs_271_r4l23 mages qui pourroient y survenir; il sera établi
+#facs_271_r4l24 dans chaque District, un Inspecteur, pris dans cette
+#facs_271_r4l25 Comune, et on choisira pour remplir cette Place
+#facs_271_r4l26 des Gens entendus et capables, lesquels seront presentés
+#facs_271_r4l27 à Nos Baillifs, pour avoir leur Agrement.
+#facs_271_r4l28 La
+#facs_271_r5l1 dégagé
+#facs_271_r5l2 isser
+#facs_271_r5l3 dans
+#facs_271_r5l4 et
+#facs_271_r5l5 r
+#facs_272_r2l1 La Fonction de cet Inspecteur sera de veiller exactement
+#facs_272_r2l2 à l'Execution de la Presente Ordonnance et Reglement
+#facs_272_r2l3 A cet Effet, il fera en tous tems, et s'il est possible, chaque
+#facs_272_r2l4 Semaine une cois la tournée des chemins de son Distrie
+#facs_272_r2l5 et s'il remarque, qu'ils ayent soufferts quelque Domage
+#facs_272_r2l6 il en avertira incessament la Comune, à laquelle il
+#facs_272_r2l7 appartiendra de les reparer. Il devra en même tems
+#facs_272_r2l8 somer ladite Comune, de remettre ce chemin en Etat,
+#facs_272_r2l9 dans un tems convenable, quil lui prescrira, et si
+#facs_272_r2l10 elle négligeoit de s'en acquitter, il en fera le rapport à
+#facs_272_r2l11 Notre Beuillis, affin que celui ci puisse ordonner du
+#facs_272_r2l12 Châtiment de la Comune, et de ce qu'il y aura de plus à faire
+#facs_272_r2l13 Dans les tems de fortes pluies et de Debordement d'Eaux
+#facs_272_r2l14 L'Inspecteur, accompagné de deux ou trois Sommes de la Comme
+#facs_272_r2l15 Comune, suivra le long des chemins de son District, pour notre
+#facs_272_r2l16 estoier et ouvrir tout de suite, les Coulisses ont ou fosses d'Ecous
+#facs_272_r2l17 lement, et prevenir par la Dommage qui pourroient arrivé
+#facs_272_r2l18 Que si le Mal est tel, quil ne puisse pas y suffire sans
+#facs_272_r2l19 secours, il fera venir le Nombre d'homes nécessaires pour
+#facs_272_r2l20 lui aider. Mais surtout il ne doit point manquer, dans
+#facs_272_r2l21 tous les cas qui pourroient mériter de l'attention d'en
+#facs_272_r2l22 informer
+#facs_272_r3l1 624
+#facs_272_r3l2 Informer Notre Baillif, pour recevoir Ses Ordres.
+#facs_272_r3l3 L'Inspecteur aura particulierement l'Oeil aux Ponts établis
+#facs_272_r3l4 sur la route, afin que sil s'y manifeste quelque Defaut
+#facs_272_r3l5 il soit incontinent réparé par ceux, à qui il appartiendra
+#facs_272_r3l6 le faire
+#facs_272_r3l7 En Genéral, L'Inspecteur sera tenû de s'acquitter poncivelle
+#facs_272_r3l8 lement, de tout ce qui pourra lui être enjoint par rapport
+#facs_272_r3l9 aux chemins
+#facs_272_r3l10 Et pour l'encourager à remplir d'autant mieux la fonction
+#facs_272_r3l11 ont il est chargé, on lui laissera parvenir en propre le
+#facs_272_r3l12 quart de tous les amendes, qui écherront en vertu de cette
+#facs_272_r3l13 Ordonnance et Reglement
+#facs_272_r3l14 2°. Afin de laisser un libre passage à l'air et au Soleil, et de
+#facs_272_r3l15 conserver par ce moyen les chemins ses, il est defendu
+#facs_272_r3l16 par tout, ou le Chemin passe à travers un forêt, dit
+#facs_272_r3l17 l'aisser croître ny arbre ni buisson, à une distance
+#facs_272_r3l18 de quatorze pieds des deux Côtés du Chemin. Quant
+#facs_272_r3l19 aux Endroits, ou le Chemin touche aux Possessions des
+#facs_272_r3l20 Particuliers, soit enclos, ou Vergers, il ne sera point per¬
+#facs_272_r3l21 mis de planter d'Arbres fruits, qu'a la Distance de vous
+#facs_272_r3l22 quatre, et de noir ou de chêne, qu'a la Distance de
+#facs_272_r3l23 douze
+#facs_272_r5l1 hagens
+#facs_272_r5l2 Wisser
+#facs_272_r5l3 an
+#facs_272_r5l4 et à
+#facs_272_r5l5 of
+#facs_272_r5l6 né
+#facs_272_r8l1 Cohlen 86
+#facs_273_r2l1 Douze Pieds de la Haïe. Le tout sous peine d'une amende
+#facs_273_r2l2 de dix Livres pour chaque Arbre, qui sera planté contre
+#facs_273_r2l3 la teneur de la présente Ordonnance; devant au
+#facs_273_r2l4 surplus l'arbre être abattû et deraciné. Bien entendu,
+#facs_273_r2l5 que les jeunes Arbres, qui peuvent actuellement se
+#facs_273_r2l6 trouver placés trop proche du Chemin, suivant ce
+#facs_273_r2l7 qui vient d'être reglée seront transplantés sans
+#facs_273_r2l8 Délai à la Distance cy- dessus marquée: Mais
+#facs_273_r2l9 quant aux Vieux Arbres, qui ne peuvent pas soufin
+#facs_273_r2l10 frir d'êtres transplantes, il sera permis de les laisser
+#facs_273_r2l11 sur pied la, ou ils sont, aussi longtems quils pourront
+#facs_273_r2l12 naturellement durer, mais avec la Précaution néanmoins,
+#facs_273_r2l13 de les ébrancher du Cote du Chemin.
+#facs_273_r2l14 3° On ébranchera de même régulierement, chaque Année au
+#facs_273_r2l15 Printems, les Haies vives, et les arbres, le long du Chemin.
+#facs_273_r2l16 4° Les Gens de la Campagne ne doivent point jetter
+#facs_273_r2l17 dans le Chemin les Pierres, qu'il ramasseront sur
+#facs_273_r2l18 leurs Champs; mais ils doivent les rassembler par
+#facs_273_r2l19 Monceaux à Cote du Chemin, ou aux Endroits,
+#facs_273_r2l20 que L'Inspecteur leur marquera, afin qu'on puisse
+#facs_273_r2l21 s'en
+#facs_273_r3l1 ennerende
+#facs_273_r3l2 s'en servir en cas de besoin, pour combler et aplanir les ornieres
+#facs_273_r3l3 Il doivent de plus prendre Garde, de ne point Salir ni gâter les
+#facs_273_r3l4 Chemin, soit en y posant de piéces de bois, des branches d'Arbres
+#facs_273_r3l5 des Brossailles, soit en y faisant des creux pour amasser
+#facs_273_r3l6 la bouë et le fumier, soit en y jettant d'autres Immondices.
+#facs_273_r3l7 5°. Afin aussi que les chemins ne soient plus endommagés
+#facs_273_r3l8 par les conduits d'Eaux, qu'on pratique pour arroser et égage
+#facs_273_r3l9 Les Proprietaires des fonds versins auront soin de ne plus laisser
+#facs_273_r3l10 couler les eaux, dont ils se servent pour cet usage par
+#facs_273_r3l11 le Chemin; mais de les Conduire au dehors du Chemin, sur et
+#facs_273_r3l12 travers leur propre terrain; Et là, où ces eaux traversent né
+#facs_273_r3l13 1
+#facs_273_r3l14 cessairement le Chemin dans sa Largeur, ils auront à les
+#facs_273_r3l15 conduire ou par des rigoles presque plattes et pien pavées, ou
+#facs_273_r3l16 par des Coulisses fermées et Couvertes, quils doivent,
+#facs_273_r3l17 entretenir Soigneusement, de maniére, que le Chemin nez
+#facs_273_r3l18 Souffre pas, Sous une reine de dix Livres d'Amende, pour ceux
+#facs_273_r3l19 qui y contreviendront une premiere fois. Laquelle Nous nous
+#facs_273_r3l20 eservons d'augmenter, Selon que Nous en annoitrons, en
+#facs_273_r3l21 cas de recidive
+#facs_273_r3l22 6° Les Comunes seront tenuës de nettoir et d'ouvoir chacune
+#facs_273_r3l23 dans
+#facs_273_r3l24 17
+#facs_273_r4l1 fohlen 86
+#facs_273_r4l2 as
+#facs_274_r2l1 Dans un Dutret, les Coulisses ou fossés d'écoulement
+#facs_274_r2l2 bordent ou arpent le Chemin, au moins deux fois par An.
+#facs_274_r2l3 favoir au trintems et en Automne: Elles seront attention
+#facs_274_r2l4 comoter et applanir les Orniéres de tems en tems, et à ce
+#facs_274_r2l5 voir le Chemin avec du Gravier, aussi souvent que besoin
+#facs_274_r2l6 fera. Dans les cas extraordinaires, comes for tes pluies De
+#facs_274_r2l7 dorvements d'Ecaux, éboulements de terres et autres, les ld.
+#facs_274_r2l8 mânes devront ne point perdre de tems pour accours
+#facs_274_r2l9 en nombre suffisant, au Secours du Chemin, et prévenir
+#facs_274_r2l10 eu réparer le Domage, qui peut y survenir
+#facs_274_r2l11 7° Les Comunes doivent chaque Année dans la saison la plus
+#facs_274_r2l12 Convenable, charier pour L'usage du Chemin, des Pierre et
+#facs_274_r2l13 du Gravier, qu'on deposera par Monceaux, de cinquante et
+#facs_274_r2l14 cinquante pas, ou bien aux Endroits, que L'Inspecteur
+#facs_274_r2l15 marquera: Afin qu’en Cas de domage arrive, on ait tour
+#facs_274_r2l16 jours sous la main les Materiaux necessaires
+#facs_274_r2l17 8. Mais de plus toutes les Comunes, auxquelles il appartit
+#facs_274_r2l18 dra de contribuer à l'Entretien, et à la conservation des
+#facs_274_r2l19 chemins, devront s'empresser d'exécuter, sans Eppesiter
+#facs_274_r2l20 an
+#facs_274_r3l1 ! 28
+#facs_274_r3l2 Dans le terme present ce qui leur sera enjoiné dans
+#facs_274_r3l3 cette vuë par l'Inspecteur Sous peine pour les Contre-
+#facs_274_r3l4 vénants d'une amende de dix Livres, de laquelle Nôtre Posten 80
+#facs_274_r3l5 Baillif ne pourra point faire grace, devant au surplus
+#facs_274_r3l6 l'Ouvrage, dont il pourra être question, se faire aux
+#facs_274_r3l7 à 35
+#facs_274_r3l8 frais de la Comune, qui auroit negligé de sen acquitter
+#facs_274_r3l9 2° Que si quelqu'un témérairement d'arracher ou de déplacer
+#facs_274_r3l10 sa haie
+#facs_274_r3l11 les bornes du Chemin d'avancer, cloison ou Muraille sur les
+#facs_274_r3l12 Chemin, de détruire ou de boucher les coulisses ou fossés d'Ecou¬
+#facs_274_r3l13 "lement, ou d'endomager le chemin, de quelque autre Mais
+#facs_274_r3l14 niere, il sera puni, non seulement par une amende de cinq
+#facs_274_r3l15 quante Livres, à percevoir par Nôtre Baillif, mais encore par
+#facs_274_r3l16 la prison, selon l'Exigence du Cas
+#facs_274_r3l17 10 Il ne sera point aux Voituriers d'enraijer à la descende autrement
+#facs_274_r3l18 qu'avec la Precaution d'une luge oû traineau de bois, quils mettrons
+#facs_274_r3l19 sous la voie. Defendant aussi de trainer par le Chemin de
+#facs_274_r3l20 petits Sapins, ou d'autres branchages, qui balaient et emportent
+#facs_274_r3l21 le Gravier: Excepté Lhiver, lorsque les chemins Seront
+#facs_274_r3l22 couverts de glace et de Neige.
+#facs_274_r3l23 Vie.
+#facs_275_r2l1 11° Jû que nul Chemin, ne peut resister à des chargestrop per
+#facs_275_r2l2 osantes, Nousentendons, qu'aucun Voiturier dor en avant
+#facs_275_r2l3 ne charge son chariot, au delà du poids de quarante Quin
+#facs_275_r2l4 trouvé, un puis; et quant à la voiture des Vins, la Char
+#facs_275_r2l5 d'un Chacun, est règlée à un seul Jonneau, de la Conte
+#facs_275_r2l6 nance de cinq, a six cent pots, au plus.
+#facs_275_r2l7 12° Vû de même, que les Charrois, qui se font avec des Choses
+#facs_275_r2l8 niots à limon, sont très nuisible aux Chemins, Nous
+#facs_275_r2l9 interdisons L'usage de cette Espèce de Voiture, Et voulons
+#facs_275_r2l10 qu'on se serve généralement de Chariots à timons, ou les
+#facs_275_r2l11 Mevaux sont attelés deux à deux: Reserve Seulement les
+#facs_275_r2l12 petites Voitures, qui n'exigent que deux Chevaux, pour
+#facs_275_r2l13 lesquelles il sera permis d'employer le Chariot à Limon.
+#facs_275_r2l14 13° finalement et parce que tout depent de l'Exactitude
+#facs_275_r2l15 qu'on apportera à maintenir la Presente Ordonance à
+#facs_275_r2l16 Reglement, Nous mandons et Comandons à Nos Baillifs
+#facs_275_r2l17 par l'Obligation de leur serment de tenir la main à ce qu'un
+#facs_275_r2l18 chacun des articles ci-dessus énoncés, soit dûment observé et exécuté
+#facs_275_r2l19 est pourquoi ils devront faire eux mêmes de tems en tems
+#facs_275_r2l20 Visite
+#facs_275_r3l1 530
+#facs_275_r3l2 Visite des chemins, et voir, si les Inspecteurs et les commencés,
+#facs_275_r3l3 chacune dans son district, stacquittent pour l'allemand de
+#facs_275_r3l4 leurs devoirs à cet Egard; et si nos dits Baillys remarquent
+#facs_275_r3l5 de la négligence en ce fait, soit de la part des impruriers
+#facs_275_r3l6 oit de la part des Communes, qui ne suivront pas, le donc
+#facs_275_r3l7 elles auront été somées par l'Inspecteurs ils les matteront
+#facs_275_r3l8 et feront de plus, si le Cas lexige, faire toutes les reparations
+#facs_275_r3l9 nécessaires, aux frais de ceux qui auront été sur qu'on faute
+#facs_275_r3l10 Mais come ce que dessus regarde particulièrement les grands
+#facs_275_r3l11 chemins nouvellement construits: Nous avons jugé à propos,
+#facs_275_r3l12 d'ajouter, à l'Egard des vieux Chemins, soit grandtoute, doit tra
+#facs_275_r3l13 verse de Na Baillages Mediats les Articles Suivants.
+#facs_275_r3l14 1° Jans vouloir déterminer d'une manière précis la largeur que ces
+#facs_275_r3l15 l'hemins doivent avoir, Nous entendons neanmoins, quils soient gene
+#facs_275_r3l16 ralement libres et assés larges, pour que deux chariots y puissent,
+#facs_275_r3l17 messer, l'un à coté de lautre, et là, ou la nature du lieu et
+#facs_275_r3l18 du terrein ne le permettent pas on devra pratiquez de dis,
+#facs_275_r3l19 tance une ouverture au Chemin suffisante, pour que deux
+#facs_275_r3l20 Chariots puissent féviter à la rencontre. Il est de plus
+#facs_275_r3l21 apressement reservé, que partout, ou le Chemin passe au
+#facs_275_r3l22 des
+#facs_275_r3l23 travers une forêt de lui sera assigné une Capace de vingt
+#facs_275_r3l24 quatre
+#facs_275_r4l1 lohlen. 80
+#facs_275_r4l2 -3
+#facs_276_r2l1 Quatre pieds en largeur, et ou par consequent on ne laissera
+#facs_276_r2l2 cvoitre ny  arbre ny Buisson.
+#facs_276_r2l3 2. Il sera permis de laisser sur pied les arbres qui actuellement
+#facs_276_r2l4 trouvent places le long des chemins: mais avec la Precaution neant
+#facs_276_r2l5 moins, de les ébrancher chaque Année aussi bien que les haïes
+#facs_276_r2l6 vives, autant que besoin sera Quant aux arbres, qu'on pourroit plus
+#facs_276_r2l7 à l'aveniron aura soin de neplacer le Noier ou le Chêne, qu'a la
+#facs_276_r2l8 Sistance de douze, et d'autres arbres fructiers, qu'a la distance de quatre
+#facs_276_r2l9 Pieds de la haïe, le tout sous peine d'une amende de dix livres
+#facs_276_r2l10 pour chaque Arbre, lequel au surplus devra être abattû et deraciné.
+#facs_276_r2l11 3° On ne doit point faire dans le Chemin des creux pour amasser la
+#facs_276_r2l12 fouë et le fumier, et ne point y jetter de pieces de bois, ou autres
+#facs_276_r2l13 Choses, qui puissent en rendre l'usage difficile
+#facs_276_r2l14 4. Il doit être établi des deux Côtes du Chemin, autant que le lieu
+#facs_276_r2l15 le permettra, des Coulisses ou fossés d'écoulement, et on prendra
+#facs_276_r2l16 gorde, de faire écouler beau du Chemin par l'Endroit, ou
+#facs_276_r2l17 elle causera le le moins de Dommage
+#facs_276_r2l18 5. Les Particuliers, qui font usage de cette cau, pour arroser et
+#facs_276_r2l19 gaïer, seront de la Conduire au dehors du Chemin; Et cela par des
+#facs_276_r2l20 Coulisses ou fossés, qu'ils auront soin d'entretenir en bon Etat
+#facs_276_r2l21 la
+#facs_276_r2l22 partout ou le Conduit D'avoisine le Chemin. Quant avec
+#facs_276_r2l23 Endrott
+#facs_276_r4l1 532
+#facs_276_r4l2 Endroits, où l'eau traverse nécessairement le Chemin dans sa lar¬
+#facs_276_r4l3 geur, on ne doit pas la conduire autrement, que par des rigoles
+#facs_276_r4l4 parées, ou par des coulisses couvertes.
+#facs_276_r4l5 6° On ne doit plus à l'avenir employer le bois pour l'etablissement
+#facs_276_r4l6 et la réparation des Chemins, mais oeulement des pierres et du gravier.
+#facs_276_r4l7 7me et dernier lieu, chaque Comune, comme il a déja été règlé ci-dessus
+#facs_276_r4l8 l'égard des nouveaux chemins, aura son Inspecteur, nomme par Elle
+#facs_276_r4l9 et confirmé par Nôtre Baillof. La Fonction de cet Inspecteur sera;
+#facs_276_r4l10 de faire la tournée des chemins de tems en tems, surtout lorsquil y
+#facs_276_r4l11 aura de fortes fortes pluies, et des Debordements d'eaux, et s'il
+#facs_276_r4l12 remarque, quil y soit arrivé quelque domage, de le faire incessan
+#facs_276_r4l13 "ment réparer par la Comune, à qui il appartiendra de le faire.
+#facs_276_r4l14 Ce à quoi Nous Baillifs auront de même l'oeil, ainsi qu'afaire
+#facs_276_r4l15 brever aux Comunes et aux Inspecteurs tout ce qui vient de
+#facs_276_r4l16 leur être préscrit, afin que les chemins soient maintenus en
+#facs_276_r4l17 bon Etat
+#facs_276_r4l18 Nous ne mettons point en doute, que Nos chers et ficèles sujets de Na
+#facs_276_r4l19 Baillages Médiats ne se prêtent avec docilité et Obécissance à l'Exécution
+#facs_276_r4l20 du présent Reglement, qui n'a d'autre vûe que leur avantage
+#facs_276_r4l21 propre, et celui du Public. Cest pourquoi nous lavons fait publier
+#facs_276_r4l22 par la Voie de l'impression pour servir de règle de conduite à un chacun
+#facs_276_r4l23 Dont ce 1 Septembre et 22 Decembre 1758

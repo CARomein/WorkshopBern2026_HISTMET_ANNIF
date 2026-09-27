@@ -1,0 +1,69 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 61/62
+# High similarity (>=80%): 61
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4815
+#facs_233_r3l15 detanntmachung
+#facs_222_r5l22 eines Truppen aufgebotts zu Behauptung der
+#facs_222_r5l23 eidgenösischen Neutralitaet.
+#facs_222_r5l24 An alle deutsch und Welsche Herren Amtleute IV. Nädle
+#facs_43_r2l19 Freyweibel und Ammann.
+#facs_77_r2l12 Schultheis Räth und Burger
+#facs_222_r5l27 Einliegende Publikation der militarischen Aufgelöster
+#facs_72_r2l1 134
+#facs_116_r3l1 Collete
+#facs_223_r3l1 Besinnung der Erdgenoßschaft, wird Euch zu
+#facs_223_r3l2 gesendt, und solche von Canzeln verlesen, und an
+#facs_223_r4l22 den gewohnten Orten angeschlagen zu werden.
+#facs_223_r3l4 Datum den 7ten October 1796.
+#facs_75_r1l2 obed
+#facs_67_r3l14 Publication
+#facs_242_r5l10 Wir Schultheiß, Klein und Große Räthe der Stadt und Siepul
+#facs_223_r3l8 lich Bern, entbieten allen Unsern Lieben und ge¬
+#facs_223_r3l9 treuen Bürgern und Unterthanen Unseren
+#facs_223_r3l10 gnädigen und geneigten Willen, und geben
+#facs_223_r3l11 ihnen anmit zu vernehmen.
+#facs_8_r6l14 gangen.
+#facs_223_r3l13 Es ist dem Land bekannt, daß es der Eid
+#facs_223_r3l14 genoßenschaft, unter dem besondern Spuz des
+#facs_223_r3l15 Allerhöchsten, durch Erklärung und gewissenhaften
+#facs_223_r3l16 Beobachtung der Neutralitaet, bis jezt gelungen
+#facs_223_r3l17 ist, das Unglük des dieselbe von allen Seiten im
+#facs_223_r3l18 gebenden Krieges von ihren Grenzen abzuhalten
+#facs_223_r3l19 Wir sins dem zufolge überzeugt, daß, so wie Wir
+#facs_223_r3l20 selbst, auch alle unsere Bürger und Unterthanen
+#facs_223_r3l21 best entschloßen sind, diese wolthätige Neutralität
+#facs_223_r3l22 noch ferners und mit Anstrengung aller Kräfte
+#facs_223_r3l23 zu behaupten
+#facs_223_r3l24 Wenn nun bey der diesmaligen Lage der Dinge
+#facs_223_r3l25 da große Armeen der Krieg führenden Hohen
+#facs_223_r3l26 Mächte aufs neue Unsern Grenzen sich nähern, der
+#facs_223_r3l27 zeit
+#facs_70_r4l1 131
+#facs_223_r4l2 Zeitpunkt gekommen ist, durch ernsthafte militarische
+#facs_223_r4l3 Anstalten an den nördlichen Grenzen der Schweiz
+#facs_223_r4l4 langs den Ufern des Rheinstrohms, gemeinsam
+#facs_223_r4l5 mit Unsern vertrauten, lieben alten Miteid¬
+#facs_223_r4l6 genoßen, Unser theures Vaterland von der ob¬
+#facs_223_r4l7 schwebenden Gefahr sicher zu stellen; so haben Wir
+#facs_223_r4l8 Euch hierdurch davon die Anzeige thun wollen, in der
+#facs_223_r4l9 festen zuversicht, das alle und jede unserer lieben
+#facs_223_r4l10 und Getreuen Bürgern und Angehörigen, dem Ruf
+#facs_223_r4l11 des Vaterlandes willig folgen, und bereit seyn we¬
+#facs_223_r4l12 den, mit Muth und Entschlossenheit für Unsere
+#facs_223_r4l13 Sicherheit zustehen, und mit ächtem Schweizerfinn
+#facs_223_r4l14 den Frieden und die Ruhe der Eidgenoßschaft zu behaup¬
+#facs_223_r4l15 ten
+#facs_223_r4l16 Mitdiesen Anstalten hoffen wir, unter dem
+#facs_223_r4l17 fernern Spuz der Allmacht, die drohende Gefahr
+#facs_223_r4l18 abzuwenden, den Frieden ferners erhalten, und
+#facs_223_r4l19 den Wolstand des Landes, wie bisher, beschüzen zu
+#facs_150_r3l15 können
+#facs_223_r4l21 Geben, um von Canzeln verlesen- und an
+#facs_223_r4l22 den gewohnten Orten angeschlagen zu werden.
+#facs_223_r4l23 in Unserer Großen Raths-Verstammlung,
+#facs_223_r4l24 den 7ten October 1796.
+#facs_98_r5l28 en

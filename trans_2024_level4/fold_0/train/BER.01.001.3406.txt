@@ -1,0 +1,35 @@
+Law ID: BER.01.001.3399
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_493
+# Matched: 24/24
+# High similarity (>=80%): 18
+# Low similarity (<80%): 6
+# Not found: 0
+#
+#facs_31_r4l2 Obidem
+#facs_38_r4l15 Schultheiß und Raht etc.
+#facs_33_r2l5 Colletz Weilen wir verspühret, daß, Ohnge¬
+#facs_33_r2l6 Acht Unserer Anstalten sich immer
+#facs_33_r2l7 Von dem Beffel, und Strolchen, Gesin¬
+#facs_33_r2l8 in Vnsere Land begibt, und Staltt
+#facs_33_r2l9 und Landt beschwährlich fallet
+#facs_33_r2l10 Also habene wir hierwieder das Kosten
+#facs_33_r2l11 einsehen Zethuen, und demnach Aus¬
+#facs_33_r2l12 den 7ten und 8ten Nechstkünfftigen
+#facs_33_r2l13 Monaths Aprilis eine Allgemeine
+#facs_33_r2l14 Geltelfegen mit Weseren benachbahrte
+#facs_33_r2l15 Eydtgnosen Anstellen Zelaßen, Guetfunden
+#facs_33_r2l16 und hiemit dir befehlen wollen,
+#facs_33_r2l17 In demein Ambt solche Guete, und
+#facs_33_r2l18 Ernstgemeinte Anstallten zu ver¬
+#facs_33_r2l19 Jurgen, daß sothane Beltel¬
+#facs_52_r3l1 ollat
+#facs_23_r1l30 6: 1
+#facs_33_r4l2 Ihren fortgang Also gebene, daß Sie
+#facs_33_r4l3 behöriger Maßen auf Obbestimbte Zeith
+#facs_33_r4l4 verrichtet, und das Landt von sothanem
+#facs_33_r4l5 überlästigen und Kösen Gesind geseüberet,
+#facs_33_r4l6 werden möge. Dat. 11. Marty 1723.

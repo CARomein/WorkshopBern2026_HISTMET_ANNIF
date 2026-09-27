@@ -1,0 +1,312 @@
+Law nr: BER.01.001.4541
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 300/301
+# High similarity (>=80%): 285
+# Low similarity (<80%): 15
+# Not found: 1
+#
+#facs_100_r2l1 soll.
+#facs_57_r5l1 107
+#facs_57_r5l2 Buch mit gegenwärtigem Schreiben
+#facs_57_r5l3 einschreiben zu laßen, und in folg
+#facs_57_r5l4 derselben uns keine dergleichen
+#facs_57_r5l5 begehren mehr zuzuliesen. Wie zu thut
+#facs_57_r5l6 Dath. den 3. Septbris 1783.
+#facs_14_region_1627971782200_27l1 Verordnung
+#facs_20_region_1633454448771_2843l1 Dor Schultheiß und Rath der
+#facs_57_r5l9 Stadt und Republik Bern, thun kum
+#facs_57_r5l10 hiemit, da Wir mit Anlieb wahrge¬
+#facs_57_r5l11 nommen, daß Unsere Verordnung vom 9.
+#facs_57_r5l12 Herbstmonat 1769. welche in Ansehung der
+#facs_57_r5l13 Aufnahm der Tollen, in Unserer obrig¬
+#facs_57_r5l14 beitlichen Tollhäuser, wie auch in Absicht
+#facs_57_r5l15 auf die Probburen, so wohl in hiesigen
+#facs_57_r5l16 großen Spidthal, als auch im Tollhaus
+#facs_57_r5l17 auf dem Breitfeld, die gebürende Ein¬
+#facs_57_r5l18 hielung und Schrauben enthält, einiger
+#facs_57_r5l19 Orten in Vergeß zu gerathen ange¬
+#facs_57_r5l20 fangen, so haben Wir gut befunden,
+#facs_57_r5l21 diese Verordnung zum Druk zu be¬
+#facs_57_r5l22 förderen, und derselben von neuem das
+#facs_57_r5l23 leben dahin zu geben.
+#facs_8_r1l1 10
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r1l1 2
+#facs_58_r4l1 daß aller Heureren aus Städten
+#facs_58_r4l2 Unserer deutsch und belichen Landen,
+#facs_58_r4l3 lor eigene Spithäler und, die Aufnahme
+#facs_58_r4l4 in obige Tollhäuser abgeschlagen, und
+#facs_58_r4l5 diesen Inblick anbefohlen seyn solle,
+#facs_58_r4l6 nach Maasgab Herr Einkünften und
+#facs_58_r4l7 der Anzahl ihrer Bürgeren, eins zwey
+#facs_58_r4l8 oder mehrere Gemächer für unsinnige
+#facs_58_r4l9 Persohnen zubereiten zu laßen.
+#facs_58_r4l10 daß keine andere als wirklich wü¬
+#facs_58_r4l11 thende Tolle und mit Raserey überfallene
+#facs_58_r4l12 Leuthe in die obrigkeitlichen Tollhäuser
+#facs_58_r4l13 aufgenommen, denen aber welche blose
+#facs_58_r4l14 Melancholici, Dementes jene, oder nur
+#facs_58_r4l15 contulstrische und hysterische Zufälle haben,
+#facs_58_r4l16 die nöthige Verpflegung, auf allfällig
+#facs_58_r4l17 hienach beschriebene versuchte Probburen,
+#facs_58_r4l18 in ihren Heymathen gegeben, auch und
+#facs_58_r4l19 Erlangung dieses Zleebs, durch Unsere
+#facs_58_r4l20 Amtlent folgende Vorscheifft publiziert.
+#facs_27_r3l2 werden solle.
+#facs_58_r4l22 a. daß ein erfahrner Chirurgus oder
+#facs_58_r4l23 Medicus, Unserem Amtsmann des Ontv.
+#facs_58_r4l24 ein Testimonium überreiche, darin der
+#facs_14_region_1627971805407_36l1 23
+#facs_58_r5l2 Zustand uns die Symtomata des
+#facs_58_r5l3 Patienten Krankheit, samt deren Dauer
+#facs_58_r5l4 umständlich beschrieben sey, Unser
+#facs_58_r5l5 Amtsmann aber solche Unserem Collegio
+#facs_58_r5l6 Insulano samt dem Bericht einsende.
+#facs_58_r5l7 ob die Persohn oder die Gemeinde der
+#facs_58_r5l8 sie angehört, bemitelt sey oder nicht.
+#facs_58_r5l9 auch selbige nicht allher gesendt, bis
+#facs_58_r5l10 und in so lang die verordnete Außer¬
+#facs_58_r5l11 Krankenhaus Direktion, über deren
+#facs_58_r5l12 Aufnahm erkent, und Nachricht er¬
+#facs_58_r5l13 theilt haben wird; Wiedrigenfalls
+#facs_58_r5l14 die Gemeinde gehalten seyn soll,
+#facs_58_r5l15 selbige wieder abzuholen, oder solche
+#facs_58_r5l16 ihre auf ihre Unkosten wieder zu¬
+#facs_58_r5l17 egestandet werden soll.
+#facs_58_r5l18 6. daß hierorts von dem Instul Collegio
+#facs_58_r5l19 des patienten Leibs und Gemüthsum¬
+#facs_58_r5l20 stände mit den eingesandten Nach¬
+#facs_58_r5l21 richten und Beschreibungen entgegen,
+#facs_58_r5l22 gehalten, uns der Casus genau geprüft,
+#facs_58_r5l23 das Befinden aber von demselben
+#facs_58_r5l24 obbemelter Unserer ausseren Krankenhaus
+#facs_58_r5l25 Direktion schriftlich vorgetragen werden.
+#facs_59_r1l1 110
+#facs_59_r2l1 solle, welcher dann wie bis dahin
+#facs_59_r2l2 die Gewalt überlaßen bleibt, nach
+#facs_59_r2l3 denen Gesundheits und Glüksumständen
+#facs_59_r2l4 der patienten, deßen Einquartierung
+#facs_59_r2l5 und Kostgeld auf dem Breitfeld oder
+#facs_59_r2l6 zu Königsfelden zu bestimmen, je¬
+#facs_59_r2l7 dennoch daß in Unberamung der
+#facs_59_r2l8 Pläze nicht auf das Datum des
+#facs_59_r2l9 Antragt, sondern auf die mehr oder
+#facs_59_r2l10 weniger dringende und gefährliche Um¬
+#facs_59_r2l11 stände gesehen werde.
+#facs_161_r3l2 betreffend
+#facs_59_r2l13 die sonsten im Spithal vorgenommenen
+#facs_59_r2l14 Probluren der Tollen uns Wahnsinnigen
+#facs_59_r2l15 mit glüblicherem Erfolg könstighin ge¬
+#facs_59_r2l16 macht, und im Fall eines fruchtlosen
+#facs_59_r2l17 Versuchs denen mitleidenswürdigen Persohnen
+#facs_59_r2l18 dennoch Besorg und Erleichterung verschaffet
+#facs_59_r2l19 werden könte: so haben Wir gut be¬
+#facs_59_r2l20 funden zu verordnen, daß der so be¬
+#facs_59_r2l21 titelten Probburen zweyerley seyn.
+#facs_59_r2l22 sollen.
+#facs_59_r2l23 die einte: nemlich die, so mit Thoren
+#facs_59_r2l24 und Leuten, welche mit bloßer Melancholie
+#facs_59_r3l1 111
+#facs_59_r3l2 und hysterischen oder convulsivischen
+#facs_59_r3l3 Affekten behaffet sind, sollen im
+#facs_59_r3l4 Spithal unternommen werden, und zwar
+#facs_59_r3l5 wie bis dahin unter Besorgung deßelben
+#facs_59_r3l6 und Aufsicht der alda funbtionierenden
+#facs_59_r3l7 Pakultät, und mit dem Geding, daß
+#facs_59_r3l8 die Probburen von Sechs bis höchstens
+#facs_59_r3l9 12. Wochen, und die Patenten nicht wie¬
+#facs_59_r3l10 vorhin dem Spithal so lang aufgeladen
+#facs_59_r3l11 bleiben sollen; auch daß nicht den
+#facs_59_r3l12 Hochobrigkeitlichen Reglementen, von A.
+#facs_59_r3l13 1730 und 1739. zuwieder, solche
+#facs_59_r3l14 büthende, böse und schreiende Leute dem
+#facs_59_r3l15 Spithal aufgebürdet werden, die das
+#facs_59_r3l16 Haus beunruhigen, und sonderlich dem
+#facs_59_r3l17 Quartier welches sie einhaben zur Be¬
+#facs_59_r3l18 schwers und Aergerniß fallen, mithin
+#facs_59_r3l19 auch denen Bürgeren für welche der
+#facs_59_r3l20 Wirkhal vorzüglich offen stehen soll, der
+#facs_59_r3l21 plaz nicht auf solche Weise verschlagen
+#facs_281_r1l16 werde.
+#facs_59_r3l23 Die anderen Probburen im Tollhaus
+#facs_59_r3l24 ber lediglich mit solchen Kranken, an
+#facs_59_r3l25 denen eine Maria, Tollheit und Raserey
+#facs_63_r4l1 119
+#facs_136_r2l21 sollte.
+#facs_60_r4l1 würblich mit seiget, unternommen, und
+#facs_60_r4l2 von den dortigen Zellen wenigstens
+#facs_60_r4l3 eine bis zwey zu Probkuren offen
+#facs_60_r4l4 behalten werden.
+#facs_60_r4l5 Wir befehlen demnach allen Unseren
+#facs_60_r4l6 Amtleuten, diese Unsere erfrischte Ver¬
+#facs_60_r4l7 vordnung, zu jedermans Bekantschafft und
+#facs_60_r4l8 zum Verhalt deren die es allenfalls
+#facs_60_r4l9 berühren mag, öffentlich von der Kanzel
+#facs_60_r4l10 verlesen, gewohnter Orten anschlagen zu
+#facs_60_r4l11 laßen, und sich selbs durchaus darnach
+#facs_60_r4l12 zu richten. Beben den 3. Herbstmonat 178
+#facs_65_r3l5 Canzley Bern.
+#facs_47_r3l6 Traduction.
+#facs_301_r3l15 ous l'Avoyer et Conseil de
+#facs_65_r3l9 la Ville et Republique de Berne
+#facs_60_r4l17 favoir faisons par les présentes.
+#facs_60_r4l18 Qu'ayant apris avec déplaisir que Notre
+#facs_60_r4l19 Ordonnance du 9e septembre 1769, concernant
+#facs_60_r4l20 la réception des Maniaques et Tous dans
+#facs_60_r4l21 nos Hopitaux publics, est mal observé
+#facs_60_r4l22 en quelques lieux, tant en ce qui regarde
+#facs_4_r1l1 2
+#facs_3_region_1627936339514_16l1 1
+#facs_10_r1l1 14
+#facs_60_r7l2 les eures d'épreuve à tenter sur eux.
+#facs_60_r7l3 foit ici au grand hôpital, soit à la
+#facs_60_r7l4 maison des Fous, située près de l'Hôpital
+#facs_60_r7l5 des malades, établi sur le Breitfeld,
+#facs_60_r7l6 Nous avons trouvé bon de la faire réimpu¬
+#facs_60_r7l7 mer, pour lui rendre sa premiere force
+#facs_60_r7l8 Nous voulons en consequence
+#facs_60_r7l9 Que l'entrée aux maisons susdites, destinées
+#facs_60_r7l10 pour sejour aux maniaques et aux
+#facs_60_r7l11 fous, soit refusée aux Bourgeois de
+#facs_60_r7l12 toutes les Villes, tant allemandes que
+#facs_60_r7l13 romandes, des Pays de Notre Domination
+#facs_60_r7l14 oû sont établis des hôpitaux, & quil
+#facs_60_r7l15 soit recommandé à ces publics, de faire
+#facs_60_r7l16 préparer, proportionnellement à leurs
+#facs_60_r7l17 revenus et au nombre de leurs Bourgeois,
+#facs_60_r7l18 une, deux ou plusieurs chambres sûres
+#facs_60_r7l19 uniquement destinées pour des personnes
+#facs_60_r7l20 troublées
+#facs_60_r7l21 que dans nos hôpitaux on ne reçoive
+#facs_60_r7l22 à l'avenir que des personnes réelment
+#facs_60_r7l23 maniaques ou atteintes de ce mal, et quant
+#facs_60_r7l24 à ceux qui sont prierement mélancoliques
+#facs_60_r7l25 qui en démence, ou bien simplement sujette
+#facs_8_r9l1 11
+#facs_61_r2l1 a des accidens convulsivs et hysteriques
+#facs_61_r2l2 lors & après que l'on aura fait sur
+#facs_61_r2l3 elles aux lieux de leur naissance le
+#facs_61_r2l4 cures d'épreuves ci-aprés désignées, Nos
+#facs_61_r2l5 Baillis respectivs fassent à ces finis publier
+#facs_61_r2l6 le Réglement ci - aprés
+#facs_61_r2l7 A. Qu'un medecin ou Chirurgien expérimenté
+#facs_61_r2l8 remette au Baillif du lieu un Certificat
+#facs_61_r2l9 contenant un Détail circonstancié de
+#facs_61_r2l10 l'état et des symptomes du malade et
+#facs_61_r2l11 de la durée de sa maladie, et qu'en suite
+#facs_61_r2l12 Le Certificat soit adressé à Notre
+#facs_61_r2l13 College de l'Isle, accompagné d'un
+#facs_61_r2l14 éclaircissement touchant les facultés
+#facs_61_r2l15 du malade, s'il a du bien ou non
+#facs_61_r2l16 et au cas qu'il n'en ait point si sa
+#facs_61_r2l17 commune et en état de l'assister
+#facs_61_r2l18 Que le malade ne soit conduit en
+#facs_61_r2l19 cette Capitale, qu'après que la Direction
+#facs_61_r2l20 de l'hôpital des malades et abli sur
+#facs_61_r2l21 Le Breitfeld ait approuvé sa réception
+#facs_61_r2l22 et donné a cet égard l'avis necessaire;
+#facs_61_r2l23 car autrement ce malade seroit renvoyé
+#facs_61_r2l24 aux fraix de sa commune ou de ses parens.
+#facs_61_r3l1 115
+#facs_61_r3l2 B: Qu'ici le Collége de l'Isle compare
+#facs_61_r3l3 l'état moral & physique du malade
+#facs_61_r3l4 avec les renseignemens reçus à ce
+#facs_61_r3l5 sujet; que le cas soit mûrement
+#facs_61_r3l6 examine par cette faculté, & quelle
+#facs_61_r3l7 en fasse remettre par écrit un rapport
+#facs_61_r3l8 circonstancie à la Direction du susdit
+#facs_61_r3l9 hôpital; laquelle Direction restera
+#facs_61_r3l10 autorisée, comme ci-devant d'assigner
+#facs_61_r3l11 le quartier, et de regler la pension
+#facs_61_r3l12 du malade proportionnellement à ses
+#facs_61_r3l13 facultés et conformément a son etat
+#facs_61_r3l14 soit à l'Hôpital etabli a cet effet,
+#facs_61_r3l15 sur le Breitfeld soit à Kœnigsfelde
+#facs_61_r3l16 Bien entendu, que dans la repartition
+#facs_61_r3l17 des places, on aura plus d'égard à
+#facs_61_r3l18 l'état plus ou moins critique du malad
+#facs_61_r3l19 et aux circonstances plus ou moins
+#facs_61_r3l20 dangereuses, qu'à la date des demandes
+#facs_61_r3l21 faites à ce sujet
+#facs_61_r3l22 Quand au second article, qui comprend
+#facs_69_r10l42 l'autre pieds dans les
+#facs_61_r3l24 que du passé les curés d'épreuve au
+# NOT FOUND: puad hridel d. dn Ceplaeb so be
+#facs_62_r1l1 116
+#facs_62_r2l1 Personnes troublées et comment après de
+#facs_62_r2l2 vaines tentatives, ces infortunes, vraiment
+#facs_62_r2l3 dignes de compession, pourront être
+#facs_62_r2l4 soignés et soulages, nous avons trouvé
+#facs_62_r2l5 bon d'ordonner.
+#facs_62_r2l6 Que ces épreuves se feront de deux
+#facs_62_r2l7 manieres, savoir: les unes, comme du
+#facs_62_r2l8 passée, au grand hôpital sur les gens
+#facs_62_r2l9 en simple démence, tels que sont ceux
+#facs_62_r2l10 affectés de melancolie noire ou sujets simpl
+#facs_62_r2l11 lement à des accidens hysteriques et
+#facs_62_r2l12 Convulsifs, sous l'inspection et direction
+#facs_62_r2l13 de la faculté qui y fonctionne; bien
+#facs_62_r2l14 entendu que ces épreuves ne doivent durer
+#facs_1_r1l2 des
+#facs_62_r2l16 à douze semaines au plus;
+#facs_62_r2l17 afin qu'en premier lieu les malades ne
+#facs_62_r2l18 demeurent plus, comme du passé, à la
+#facs_62_r2l19 charge a cet hôpital; qu'en second
+#facs_62_r2l20 lieu, l'on n'y garde plus à l'avenir
+#facs_62_r2l21 de ces maniaques qui inquietent toute
+#facs_62_r2l22 la maison, et surtout le quartier
+#facs_62_r2l23 où ils sont logés à la charge et au
+#facs_62_r2l24 grand scandale d'icelui, et au prejudice
+#facs_62_r2l25 du contenut des Ordonnances Souveraines
+#facs_62_r3l2 des années 1730. et 1739. Enfin, qu'en
+#facs_62_r3l3 troisieme lieu les places au grand hôpital
+#facs_62_r3l4 ne soient plus occupés au détriment de
+#facs_62_r3l5 Nos Bourgeois, en faveur desquels cette
+#facs_62_r3l6 maison doit rester préférablement ouverte
+#facs_62_r3l7 touchant la seconde espece de ces épreuves,
+#facs_62_r3l8 elles se feront à l'hôpital etabli au
+#facs_62_r3l9 Breitfeld, et destinée particuliérement pour
+#facs_62_r3l10 les fous et les maniaques; mais cela
+#facs_62_r3l11 seulement avec les malades chez lesquels
+#facs_62_r3l12 on remarquera une manie décidée, à
+#facs_62_r3l13 ces finis il y aura toujours une ou
+#facs_62_r3l14 deux allutes pour le moins, de vuides,
+#facs_62_r3l15 pour pouvoir y entreprendre ces sortes
+#facs_62_r3l16 dépreuves.
+#facs_62_r3l17 Nous ordonnans en consequence à tous
+#facs_62_r3l18 nos Baillis, de faire publier en chaire
+#facs_62_r3l19 et afficher aux endroits accoutumés la
+#facs_62_r3l20 présente ordonnance pour l'instruction
+#facs_62_r3l21 de tous et un chacun à qui il appartiendra
+#facs_62_r3l22 Donné le 3e Septembre 1783
+#facs_48_r3l25 Chancellerie de Berne
+#facs_63_r1l1 118
+#facs_128_r2l20 solle.
+#facs_63_r2l1 Denen Begehren zu Aufnahm Toller
+#facs_63_r2l2 und wahnsinniger keinen Acass vor
+#facs_63_r2l3 Meghhl. die Räth zu ertheillen.
+#facs_106_r5l6 Jedel an Mehloffl. die Schulrath, Sie deßen
+#facs_63_r2l5 Sepp: In Erfrischung der unterm
+#facs_63_r2l6 9ten Septembris 1769. gemachten Ver¬
+#facs_63_r2l7 ordnung, wegen Einsissung den Petitionen
+#facs_63_r2l8 abzielend auf die Aufnahm Toller
+#facs_63_r2l2 und wahnsinniger keinen Acass vor
+#facs_63_r2l10 die Oberkeitlichen Tollhausen als zu
+#facs_63_r2l11 Probleuren, haben Meghhl erkent, daß
+#facs_63_r2l12 dergleichen Begehren einzig an Mehlich.
+#facs_63_r2l13 der besschen Kirchenhaus Direktion
+#facs_63_r2l14 gerichtet werden sollen.
+#facs_37_r2l18 Deßen
+#facs_63_r2l16 Sie Mesgoffl. berichtet werden, mit
+#facs_63_r2l17 dem freündlichen Ansinnen, für alle
+#facs_63_r2l18 dergleichen Petita den Access vor
+#facs_63_r2l19 Meghhl. abzuschlagen, und die Supli¬
+#facs_63_r2l20 canten zu Befolgung der daherigen
+#facs_63_r2l21 Verordnung an die Herren Amtleute
+#facs_63_r2l22 zurük zu beisen. Actum den
+#facs_63_r2l23 3.rd Septembris 1783
+#facs_83_r3l6 en

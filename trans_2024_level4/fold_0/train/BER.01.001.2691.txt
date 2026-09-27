@@ -1,0 +1,60 @@
+BER.01.001.2691
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 51/51
+# High similarity (>=50%): 49
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_205_r1l1 400
+#facs_205_r1l2 Collath,
+#facs_205_r2l1 Getrucktes Mandat.
+#facs_205_r2l2 ansehendt den preis des mahls.
+#facs_205_r2l3 1
+#facs_205_r2l4 Wir Disultheiß und Raht der Statt
+#facs_205_r2l5 Bern Thund vnnd hiemit: Demnach
+#facs_205_r2l6 verschinnener Tagen zu gutem Unser
+#facs_205_r2l7 angehörigen und vnderthanen zu verhütung
+#facs_205_r2l8 durchgehender Landtsthüre ein allgemeiner
+#facs_205_r2l9 9 streidt Tax vermitlest in Truck auß¬
+#facs_205_r2l10 gebenen öffentlichen Mandato außgebündet
+#facs_205_r2l11 worden, Wir aber seithar in erfahrung
+#facs_205_r2l12 bringen mögen, daß offters den Müller,
+#facs_205_r2l13 so denen Armen Leuten mahl in
+#facs_205_r2l14 den Mühlenen verkauffen, dasselbe
+#facs_205_r2l15 ihnen in allzuhochem preiß undt
+#facs_205_r2l16 Thürer als nach gemachtem tax es auß=
+#facs_205_r2l17 tragen mag, anschlagen thüyend etc. Daß
+#facs_205_r2l18 darauf Wir obgedachtem mandat, bey
+#facs_205_r2l19 Darinn vernambseter Straff der Con¬
+#facs_205_r2l20 fislation und ein Pfund Rues von
+#facs_205_r2l21 jedem zu Theur verkauffenden war.
+#facs_205_r2l22 Mahl beyzufügen, und zu verpieten
+#facs_205_r2l23 nohtwendig befunden, daß die Müller
+#facs_205_r2l24 das in der Mühli verkauffende mahl
+#facs_205_r2l25 nt hocher im preis, als was es nach
+#facs_205_r3l1 401
+#facs_205_r3l2 dem getreidt Tax bringen mag, verkauffe
+#facs_205_r3l3 sollendt; übrigens auch den Getreidt Tax, in
+#facs_205_r3l4 ersehen der Erbe und Wichenen dahin erleüte,
+#facs_205_r3l5 I) daß allein die Weissen Erbs und Wickl,
+#facs_205_r3l6 so schon und unvermischet, in dem preis der
+#facs_205_r3l7 kärnens verkauft werden sollindt. Geben
+#facs_205_r3l8 den 27. Novembris 1698.
+#facs_205_r3l9 Cantzley Bern.
+#facs_205_r3l10 Aussu der Korn Direction.
+#facs_205_r3l11 An alle T: Ambtleüt, 4. Statt,
+#facs_205_r3l12 Freyloribel und Amman¬
+#facs_205_r3l13 Ihnen obiger Placcard zuschiffen.
+#facs_205_r3l14 Echnet heiß undt Raht der Statt Pern
+#facs_205_r3l15 Dem letzt in Truck außgebenen getreidt mandat
+#facs_205_r3l16 Colle habend Wir wegen Verkauffung des mahls
+#facs_205_r3l17 "
+#facs_205_r3l18 den Mühlenen, und deß taxes halber der Weisen
+#facs_205_r3l19 Weibenen beyzufügen nohtwendig erachtet
+#facs_205_r3l20 was mit bommende placcard inhaltendt, so du gleich¬
+#facs_205_r3l21 dem vorigen von Cantzlen verbünden, und under
+#facs_205_r3l22 dasselbe an den offnen plätzen und Kornmarckten
+#facs_205_r3l23 anschlagen lassen solst. Gott mit dir. Bath
+#facs_205_r3l24 27 9bris 1698

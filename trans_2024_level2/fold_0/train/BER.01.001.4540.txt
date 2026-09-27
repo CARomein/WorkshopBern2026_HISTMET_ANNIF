@@ -1,0 +1,65 @@
+Law nr: BER.01.001.4540
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 53/53
+# High similarity (>=80%): 49
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_12_r8l14 B
+#facs_56_r3l6 die Herren Amtleut des unteren Aergaus,
+#facs_56_r3l7 item an die 4. Uerganischen Stadt, denn
+#facs_56_r3l8 pr. Zedel an Mehloffl. der Marechaussee
+#facs_56_r3l9 und Policey Camar, Separ.
+#facs_56_r3l10 denen Oesterreichischen Unterthanen das
+#facs_56_r3l11 Susieren mit Näglen außer den Jahr Märke
+#facs_56_r3l12 in dem unteren Aargau verbocken; denn
+#facs_56_r3l13 dertigen Hufschneiden der Verfertigung anderer
+#facs_56_r3l14 als zu ihrem Handwerk nötigen Näglen
+#facs_56_r3l15 Schultheis und Rath etc. Auf die
+#facs_56_r3l16 von der Meisterschaft Nagelahmiden,
+#facs_56_r3l17 Handberks von Aarau, Brugg, und aus
+#facs_56_r3l18 dem Amt Lenzburg, Uns gethane ehrer
+#facs_56_r3l19 bietige Vorstellungen, wie daß vermitelst
+#facs_56_r3l20 des Husierens, ab Seiten der Oesterreichisch
+#facs_56_r3l21 Unterthanen ab dem Schwarzbald, in dem
+#facs_56_r3l22 unteren Aargau, zu bieder der zu
+#facs_56_r3l23 gonsten bemelter Nagelahmiden den 18.
+#facs_56_r3l24 Aprill 1709. aufgegangenen Verordnung
+#facs_54_r7l8 105
+#facs_56_r4l2 ihnen nahmhafter Eintrag beschehe.
+#facs_56_r4l3 Haben wie anmit zu verordnen.
+#facs_56_r4l4 gut befunden, daß noch dem Tenor
+#facs_56_r4l5 der in Ao. 1709. deren Nagelcheiden
+#facs_56_r4l6 ertheilten Concession, gedachten Österreichischen
+#facs_56_r4l7 Unterthanen der Verkauf und des Husieres
+#facs_56_r4l8 mit dergleichen Nägelwaaren, äußert
+#facs_56_r4l9 denen Jahrwärbten verbotten, den Nagel¬
+#facs_56_r4l10 schmiden aber gestadtet seyn solle, auf
+#facs_56_r4l11 alle dergleichen Waaren, so äußert
+#facs_56_r4l12 diesen gewohnten Inhemärkten ins Land
+#facs_56_r4l13 nommen werden, zu greiffen, und dieselbe
+#facs_56_r4l14 zu confiscieren; daß gleichen sollen
+#facs_56_r4l15 auch die Hufschneiden der Enden hiemit
+#facs_56_r4l16 angewiesen seyn. Laut hievon bemelter
+#facs_56_r4l17 Verordnung von Ao 1709. bey Straf der
+#facs_56_r4l18 Confisbation, sich lediglich mit Verar¬
+#facs_56_r4l19 beitung der zu ihrer Begangenschaft
+#facs_56_r4l20 nötigen Nägelbaar zu bemigen, um
+#facs_56_r4l21 denen Nagelschmiden hierin keinen weiter,
+#facs_56_r4l22 Eingriff zu thun. Alles jedoch nur in
+#facs_56_r4l23 so lang sie sich durch Lieferung guter
+#facs_56_r4l24 Wane so wohl als in ansehen des
+#facs_56_r4l25 Preises unklagbar verhalten werden
+#facs_57_r1l1 106.
+#facs_28_r4l1 Coll
+#facs_57_r3l1 Deßen Ihr zum Verhalt und mit dem
+#facs_57_r3l2 befelchlichen Auftrag berichtet werdet,
+#facs_102_r2l24 solches zu Jedermanns Nachricht und
+#facs_57_r3l4 Euerem Amt von Kanzeln publicieren zu
+#facs_57_r3l5 laßen. Dat. d. 2. 7bris. 1783.
+#facs_83_r3l6 en

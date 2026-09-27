@@ -1,0 +1,33 @@
+Law ID: BER.01.001.1100
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 22/22
+# High similarity (>=50%): 21
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_224_r1l1 Neuis, Morser, Lausanna,
+#facs_224_r1l2 Juridten, 1 Romam
+#facs_224_r1l3 Sjo. vnndt kjhat
+#facs_224_r1l4 ff In Extz des Frantzösischen zu Solothurn
+#facs_224_r1l5 Foll. residierenden Herrn Ambassatoren, Innamen¬
+#facs_224_r1l6 Der Kö. Mt. In Frankreich schrifftlicher
+#facs_224_r1l7 -
+#facs_224_r1l8 ansuchen vnnd begeren, habend wir den
+#facs_224_r1l9 paß durch diesen Landt für 5 bis In 600
+#facs_224_r1l10 Frentzösischen Soldaten Vndenen Commendo
+#facs_224_r1l11 Hl. Obristen Schmidbergs nochen Müngelegard
+#facs_224_r1l12 Zu verstreckung selbigen quarnisonen, bewilliget
+#facs_224_r1l13 Doch das vff einmahl nicht mit Damen
+#facs_224_r1l14 200 Mann mit ein anderen Dürpzüchindt,
+#facs_224_r1l15 die Demnach bevelhende, die ohnyngestelt
+#facs_224_r1l16 Verordnung zethun, daß sie mit syfis und
+#facs_224_r1l17 tranck umb gebürende bare Bezahlung
+#facs_224_r1l18 Versechen werdint, vndt zum selben endt
+#facs_224_r1l19 Ihres ankunfft den nechstgesetzenen Amptmann
+#facs_224_r1l20 Bey dem sie ankommen werdendt, nachrichtlich
+#facs_224_r1l21 verstendigen. Soct mit den. Datum 12 Aug.
+#facs_224_r1l22 1679

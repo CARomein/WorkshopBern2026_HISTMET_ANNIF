@@ -1,0 +1,128 @@
+Law ID: BER.01.001.1246
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 117/117
+# High similarity (>=50%): 109
+# Low similarity (<50%): 8
+# Not found: 0
+#
+#facs_65_r2l9 Der Teütschen Ambtleuten
+#facs_65_r2l10 Rechnung
+#facs_65_r2l11 1661
+#facs_65_r2l12 Thun
+#facs_65_r2l13 Dansag 2
+#facs_65_r2l14 Frittingin
+#facs_65_r2l15 Maij
+#facs_65_r2l16 Interlacken
+#facs_65_r2l17 Vnderhewen
+#facs_65_r2l18 Freitag 3 May
+#facs_65_r2l19 Hasse
+#facs_65_r2l20 Winnus
+#facs_65_r2l21 Zweysimen
+#facs_65_r2l22 Sambstag 4 dito.
+#facs_65_r2l23 sahnet
+#facs_65_r2l24 Küngsfelden
+#facs_65_r2l25 Montag 6 dito.
+#facs_65_r2l26 Biberstein
+#facs_66_r1l1 Lentzhurg.
+#facs_66_r1l2 Schenckenberg zustag 7 dito
+#facs_66_r1l3 Arburg
+#facs_66_r1l4 Mitwuchens 8 dito
+#facs_66_r1l5 offing
+#facs_66_r1l6 Ählen
+#facs_66_r1l7 Oberhoffen
+#facs_66_r1l8 Donstag 9 Maii
+#facs_66_r1l9 St Johans Insul
+#facs_66_r1l10 Erlach P.
+#facs_66_r1l11 Freitag 10 May
+#facs_66_r1l12 Aberg
+#facs_66_r1l13 Nydauw,
+#facs_66_r1l14 Büren
+#facs_66_r1l15 Gottstatt
+#facs_66_r1l16 Sambstag 11 Maii
+#facs_66_r1l17 Friensperg
+#facs_66_r1l18 Wangen
+#facs_66_r1l19 Arwans
+#facs_66_r1l20 Montag 13 May
+#facs_66_r1l21 Bipp
+#facs_66_r1l22 Burgdorff
+#facs_66_r1l23 Brandis
+#facs_66_r1l24 Zirstag 14. May
+#facs_66_r1l25 Signour
+#facs_66_r2l1 Frauwbrunnen
+#facs_66_r2l2 Landtshütt-
+#facs_66_r2l3 Mitwochen 15. May.
+#facs_66_r2l4 Buchse
+#facs_66_r2l5 Trachselwald
+#facs_66_r2l6 Khorberg
+#facs_66_r2l7 Dienstag 16. May
+#facs_66_r2l8 6.
+#facs_66_r2l9 Kauppen
+#facs_66_r2l10 Mürten
+#facs_66_r2l11 Freytag 17. May.
+#facs_66_r2l12 Tscherl
+#facs_66_r2l13 Beschreibung der W. Ambt¬
+#facs_66_r2l14 leuten uff Ihre Rechnung
+#facs_66_r2l15 Hs und R. Demnach die Zeit der anhörung
+#facs_66_r2l16 unser weltschen Umbtleüthen Rechimagen
+#facs_66_r2l17 ut in precedenti. Mit zusatz zu end daß worts
+#facs_66_r2l18 Cähres Faßis Act. 4 Marty 1661
+#facs_66_r2l19 Wiblispurg: Montag i April: nechst kl.
+#facs_66_r2l20 Pätterlingen cons. e oce einstags 2 April
+#facs_66_r2l21 Milden Mitwuchen 3 April
+#facs_66_r2l22 Oron Dienstag 4 C.
+#facs_66_r2l23 Chillion und Neuwenst, Freyt 5 do
+#facs_67_r2l1 Lausanna Sambstag 6. d.
+#facs_67_r2l2 Ifferten Montags 8 d.
+#facs_67_r2l3 Romanmostier hinstags 9 do
+#facs_67_r2l4 Morser Mitwuchen 10 S.
+#facs_67_r2l5 Newis Donstags 11 do
+#facs_67_r2l6 Bonmont. 12 do.
+#facs_67_r2l7 In alle Teütsche Ambtleuth
+#facs_67_r2l8 Freyweibel und Cammas, auch
+#facs_67_r2l9 vier Stett, daß hievor so genante
+#facs_67_r2l10 Meyen Mandat überschicken, auch Schwartzen
+#facs_67_r2l11 burg
+#facs_67_r2l12 Ehr Räht und Burgers
+#facs_67_r2l13 3)leich wie uns tragenden Oberkeitlichen
+#facs_67_r2l14 Ambts halber, mehrers nit angelegen, als
+#facs_67_r2l15 In der vns von dem allerhöchsten anderbruweten
+#facs_67_r2l16 Verwaltung, umb wellcher wir demselben auch
+#facs_67_r2l17 Nechenschafft schuldig sind, nebend ihem reinen
+#facs_67_r2l18 richten Gottes, dienst auch einen Gott wol ge¬
+#facs_67_r2l19 felligen wandel und deswesen in Christenlichen
+#facs_67_r2l20 nicht und erbahrkeit, durch gute Ordnungen
+#facs_67_r2l21 und oberkeitliche Handobhaltung zu der vnder¬
+#facs_67_r2l22 gebnen zeitlich- und ewigem Heil zupflantze
+#facs_67_r3l1 und zuerhalten, und dargegen allen widrigen
+#facs_67_r3l2 Sünden vnd verderblichen Kasteren, krefftig
+#facs_67_r3l3 zusteüwren und abgehelffen, also haben
+#facs_67_r3l4 wir auch, sonderlich bey diesen verkhirten Zeiten
+#facs_67_r3l5 In deren der Gottlose Weltlauff leider gar
+#facs_67_r3l6 Vberhand nemen will, nit ermanglen wollen,
+#facs_67_r3l7 das nothwendige einsechen Zethun: und zu
+#facs_67_r3l8 soll phemend, das ein Zeit daher gar Vß der
+#facs_67_r3l9 acht gelaßne so genante große Meyen Mandat
+#facs_67_r3l10 zu erfrischen, und nach erheischter notthurfft zu
+#facs_67_r3l11 er leuteren und zuvermehren, gutfunden, daßelbe
+#facs_67_r3l12 auch hiemit die, wie durch beykommende Exem¬
+#facs_67_r3l13 Maria beschicht, getruckt zuschicken wollen,
+#facs_67_r3l14 Mit dem ernstlichen gesinnen und benelch,
+#facs_67_r3l15 inem Jeden Predicanten hinder die, derselbe
+#facs_67_r3l16 eins zu dem end zu übergeben, daß selbiges
+#facs_67_r3l17 jehrlich zu der Zeit, wie zu und darin ver¬
+#facs_67_r3l18 veldet stehet, vom Cantzel verkündet.
+#facs_67_r3l19 Heürigen Jahrs aber, weilen dieselbe Zeit
+#facs_67_r3l20 schon fürüber, sollche Verlesung alsbald, und
+#facs_67_r3l21 noch vor Meyen, verrichtet werde, und dan dir
+#facs_67_r3l22 Die gebührende Beobachtung sollchen Mandats
+#facs_67_r3l23 gantzen Inhalts deiner Persohn und Ambts¬
+#facs_67_r3l24 halber wie auch so vil die Predicanten Thorrichter
+#facs_67_r3l25 Und gemeine vndergebne betrifft, recht vnd mit
+#facs_67_r3l26 gutem eiffer und ernst angelegen sein zu laßen
+#facs_67_r3l27 als wir uns versuch wollend Datis Martii
+#facs_67_r3l28 das Mandat selbst volget nach 2. bleiferen
+#facs_67_r3l29 1661

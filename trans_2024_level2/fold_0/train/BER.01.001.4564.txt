@@ -1,0 +1,91 @@
+Law nr: BER.01.001.4564
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 79/79
+# High similarity (>=80%): 76
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_266_r3l22 Mitbahn
+#facs_21_region_1633454506260_2871l1 Un
+#facs_148_r4l18 alle deutsche Herren Amtleute und Schafner
+#facs_148_r4l19 nä Obrigkeitlich Betreidligt.
+#facs_148_r4l20 Betreid Verkauf.
+#facs_354_r2l10 Schultheiß Stäth und Burger etc.
+#facs_148_r4l22 Auf den von Unseren Fürgeliebten
+#facs_148_r4l23 Miträhten den Herren deutsch Sevelmei¬
+#facs_148_r4l24 ter und Venneren, und Unserer verord¬
+#facs_148_r4l25 neten Kornkammer Uns gemachten Vor¬
+#facs_148_r4l26 trag, betreffend das auf Martin 1784
+#facs_148_r4l27 eingegangene Obrigkeitliche Betreid,
+#facs_80_r3l6 haben.
+#facs_98_r3l1 189
+#facs_149_r2l1 haben Wir, in Betrachtung der außer
+#facs_149_r2l2 ordentlich langen dauer des Winters,
+#facs_149_r2l3 und zu Steurung des besorgenden
+#facs_149_r2l4 Mangels gut befunden und erbaut
+#facs_149_r2l5 Es solle von Dato an, von denen über
+#facs_149_r2l6 den bestimmten Vorrath aus, und nach
+#facs_149_r2l7 Abzug der Ordinari und Quasi ordi¬
+#facs_149_r2l8 nari Ausgaben vorschießenden Obrig¬
+#facs_149_r2l9 heitlichen Getrei, für einmahl und
+#facs_149_r2l10 biß auf weiteren Unseren Befehl
+#facs_149_r2l11 NB. Statt des ob eingeklamerten ist.
+#facs_149_r2l12 an die Ämter Königsfelden, Wan
+#facs_149_r2l13 gen, Aarlgangen, Diberstein
+#facs_149_r2l14 Suchsen, und Aarberg, hinzu zu sezen,
+#facs_149_r2l15 Es solle von dem nach Ergänzung des
+#facs_149_r2l16 auf eüerem Amt bestimten Vorrath
+#facs_149_r2l17 nach Masgab Unsers Befchls tom¬
+#facs_149_r2l18 3ten Marty 1783. und nach Abzug
+#facs_149_r2l19 fer ordinari und Quasi Ordinari Aus¬
+#facs_149_r2l20 gaben, allfällig noch vorschießende
+#facs_149_r2l21 Obrigkeitliche Betreid, für einmal und
+#facs_149_r2l22 biß auf weitere Verordnung
+#facs_149_r2l23 1o Aller Kernen und Roggen.
+#facs_149_r2l24 2° die helfte des Diebels, Wochens und
+#facs_149_r2l25 Mischelborns, und —
+#facs_4_r4l1 3.
+#facs_149_r3l1 nötigen fahls.
+#facs_4_r4l1 3.
+#facs_149_r5l1 290
+#facs_149_r5l2 die Helfte der Sommerfrüchten, doch alles zu
+#facs_149_r5l3 bleinen Portionen und under den üb¬
+#facs_149_r5l4 lichen Praecautionen im lauffenden
+#facs_149_r5l5 Preis versilberet werden.
+#facs_149_r5l6 Wobey Unser Wille ist; das in
+#facs_149_r5l7 Ansehen der nur zum Theil zu verbau¬
+#facs_149_r5l8 fenden Früchten, die Verzeigung der
+#facs_149_r5l9 Schüdtenen von Unseren fürgelieb¬
+#facs_149_r5l10 ten Miträhten den Herren Deutschen
+#facs_119_r2l29 Sekelmeister und Denneren haben Wir
+#facs_149_r5l12 tet und befolget worden solle. Von
+#facs_149_r5l13 len angewiesenen Schüdtenen dan
+#facs_149_r5l14 coloohl als in Absicht auf den Ker¬
+#facs_149_r5l15 nen und Roggen, werdet ihr das
+#facs_149_r5l16 mindest behaltliche zuerst und vor¬
+#facs_149_r5l17 allem aus abstoßen
+#facs_149_r5l18 Die zweite helfte vom Dickel, Wei¬
+#facs_149_r5l19 zen und Mischelborn, werdet ihr
+#facs_149_r5l20 biß auf weitere Unsere Verfügung
+#facs_149_r5l21 umbehalten
+#facs_149_r5l22 Belangend aber die zweite helfte
+#facs_149_r5l23 der Sommerfrüchten, so wollen Wir
+#facs_149_r5l24 Euch derselben halb beywältigen
+#facs_149_r5l25 Eüeren bedürßtigen Angehörigen davon
+#facs_149_r5l26 inder Sürgschafft ihrer Deineinden zu
+#facs_149_r5l27 Anblümung ihrer Felder, auf Restitution
+#facs_150_r1l1 291
+#facs_100_r2l1 soll.
+#facs_6_region_1627936574015_66l1 6
+#facs_150_r3l1 hin, nach Martinz, den benöhtigten
+#facs_150_r3l2 Saamen vorstreken zu dörfen.
+#facs_105_r2l25 Welchem nach Ihr Euch zu verhalten
+#facs_171_r3l15 und über das erlösende Uns Rechnung
+#facs_150_r3l5 zu tragen wißen werdet. Datum
+#facs_150_r3l6 den 8 Aprilis 1785.
+#facs_83_r3l6 en

@@ -1,0 +1,51 @@
+Law ID: BER.01.001.2316
+Name: Sie verwahrnen dass ihre Kauffleüth, so über den vorderösterreichischen Booden handlen, sich mit specificirten Fuhr oder Frachtzedlen versähind.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 40/40
+# High similarity (>=50%): 40
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_365_r2l1 disis öfferten Rydouw,
+#facs_365_r2l2 Thun, Burgdorff Arouw, Brugg
+#facs_365_r2l3 Centzburg
+#facs_365_r2l4 Sie Verwahrnen daß Ihre Kauffleüth, so über
+#facs_365_r2l5 Den Vorder Osten Beichischen Booden Handlen, sich mit
+#facs_365_r2l6 specificirten Suhe, oder Fracht zu le, versahm¬
+#facs_365_r2l7 Statthalter undt Raht der Statt Bern,
+#facs_365_r2l8 Auch ein an gesambte Löbl. ohrt der Eydt groß schaf
+#facs_365_r2l9 gigirtes Schreiben hat die vor der östenreichische Regium
+#facs_365_r2l10 Verklagt, Wie daß in denen Wegen der an den Verder
+#facs_365_r2l11 Osten Trichischen Zollstetten passirenden Wahren Vorweisend
+#facs_365_r2l12 Fuhr oder bracht zeitig mit aller das gewicht mit specis
+#facs_365_r2l13 cirt werde, sondern auch wegen den sydt großischen gütern
+#facs_365_r2l14 keine meldung geschehe, ob selbige in der Eydtgroßschaf
+#facs_365_r2l15 verschlichen Würden oder nit, Ja so gar in den Kaufheuser
+#facs_365_r2l16 Vider der Tauffleütht Eigenes gelöußen offtmahls Attestation
+#facs_365_r2l17 erpracticirt werden als wan Sie undt andere Prömsd.
+#facs_365_r2l18 Wahr Sydtgnoßisch guth were, da doch selbige als fremb¬
+#facs_365_r2l19 Hüter durch geführt undt verschlißen werden: Das beygefug¬
+#facs_365_r2l20 ersuchens, die Vorsehung zethun, daß bey den Vorder ostenreichische
+#facs_365_r2l21 hollstetten, die durchführende Wahren ordenlich angeben, und
+#facs_365_r2l22 Waß Eydtgnosisch oder Trambd guth mit beglaubten Hauptmann
+#facs_365_r2l23 attestatis vndt specificationen, sambt beyfügung der quasthen
+#facs_365_r2l24 undt quantitet denotiren thuhin: Widrigen fahls die Wahen
+#facs_365_r2l25 Wurden arrestirt undt apprehendirt werden. Nie
+#facs_365_r2l26 nögend Wir nit wüßen, ob von denen Ambts angehörigen
+#facs_365_r2l27 von den verälochen etwan Vber Schaffausen Vndt allso vber die
+#facs_365_r2l28 vorder ostenreichischen booden handlen Thühind: Damit aber, Imfahl
+#facs_365_r2l29 etwelcheren weren, Sie vor Schaaden gefristet sein mögend, als haben
+#facs_365_r2l30 wie nach Verlegung diser Sachen hiemit zu befehlen
+#facs_365_r2l31 Alle die Ienigen, so es ansehen mag, dahin zu verbahrung
+#facs_365_r2l32 die Wahren, so Sie vber den Vorder oßenreichischen Boden freggen
+#facs_365_r2l33 gepührenden fehret mit beglaubten von den Kauffhaus verbalteren Vnderschrei
+#facs_365_r2l34 undt besigleten Scheinen oder Fracht zeden sich zu versehen haben.
+#facs_365_r4l1 einen die qualitet Undt quantitet so wohl Ihrer eigenthumblichen
+#facs_365_r4l2 Wahren als deren so Sie Commissions weise für frembde die nit
+#facs_365_r4l3 Eydtgroßen sindt, führen, fleißig specificirt vndt darin Vermeldet
+#facs_365_r4l4 seye, daß Sie darzu Jahre gelubt an Eydtsstatt gethan habe
+#facs_365_r4l5 Allso die Widrigen fahls besorgende ohngelägenheit auch Verwandung
+#facs_365_r4l6 undt schaaden zu verhüten: Datum c. Marty 1684

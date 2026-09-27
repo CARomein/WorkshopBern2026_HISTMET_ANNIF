@@ -1,0 +1,261 @@
+Law ID: BER.01.001.1455
+Name: Ynsechen dess hiessigen Kornmärits Verbesserung halb.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 250/250
+# High similarity (>=50%): 212
+# Low similarity (<50%): 38
+# Not found: 0
+#
+#facs_171_r4l1 Verzeichnus.
+#facs_171_r4l2 Der Fuhr pflichtigen Kilchörinen zu
+#facs_171_r4l3 Ir und Stadt Bebeüwen.
+#facs_171_r4l4 Onder dem freyweybel zu Waberen
+#facs_171_r4l5 —
+#facs_171_r4l6 Mülliberg soll
+#facs_171_r4l7 —
+#facs_171_r4l8 Nüwenegg soll.
+#facs_171_r4l9 -
+#facs_171_r4l10 Oberbalin
+#facs_171_r4l11 frauiren. Cappellen
+#facs_171_r4l12 Künitz
+#facs_171_r4l13 -
+#facs_171_r4l14 Bümplitz
+#facs_171_r4l15 Vnder der Vogley Loupen
+#facs_171_r4l16 Bibere
+#facs_171_r4l17 Ritzenbar
+#facs_171_r4l18 völlend.
+#facs_171_r4l19 klein Dinnenen
+#facs_171_r4l20 Vnder dem Freyweybel Laderach.
+#facs_171_r4l21 Zur Munsingen
+#facs_171_r4l22 Wichtrach soll
+#facs_171_r4l23 Dirßbach
+#facs_171_r4l24 Ist gemoderiret vff
+#facs_171_r4l25 Munsigen
+#facs_171_r5l1 45 Züg
+#facs_171_r5l2 7
+#facs_171_r5l3 24
+#facs_171_r5l4 9
+#facs_171_r5l5 57
+#facs_171_r5l6 44
+#facs_171_r5l7 1658
+#facs_171_r5l8 8. Züg.
+#facs_171_r5l9 60
+#facs_171_r5l10 44
+#facs_171_r5l11 59
+#facs_172_r3l1 Vnder dem Frey Weybel Moßer
+#facs_172_r3l2 Zu Biglen.
+#facs_172_r3l3 Hochstetten soll -
+#facs_172_r3l4 Biglen
+#facs_172_r3l5 Worb -
+#facs_172_r3l6 Wyl
+#facs_172_r3l7 Walkringen
+#facs_172_r3l8 2
+#facs_172_r3l9 Vnder der Vogbey Frienisperg.
+#facs_172_r3l10 Sundorff soll
+#facs_172_r3l11 Schüpfen
+#facs_172_r3l12 Mekilchen
+#facs_172_r3l13 Raperßwÿl
+#facs_172_r3l14 Vnder dem Freyweybel Peter
+#facs_172_r3l15 zur Rottelfingen
+#facs_172_r3l16 Affoltern Soll
+#facs_172_r3l17 Rorstelfinge
+#facs_172_r3l18 Wohlen
+#facs_172_r3l19 Kilchlindach
+#facs_172_r3l20 Vreinharten
+#facs_172_r3l21 Verenbaln
+#facs_172_r3l22 Colleten
+#facs_172_r4l1 50 z.
+#facs_172_r4l2 s.
+#facs_172_r4l3 st.
+#facs_172_r4l4 10.
+#facs_172_r4l5 4r züg
+#facs_172_r4l6 70
+#facs_172_r4l7 18.
+#facs_172_r4l8 38
+#facs_172_r4l9 31. züg
+#facs_172_r4l10 4.
+#facs_172_r4l11 50
+#facs_172_r4l12 18
+#facs_172_r4l13 is
+#facs_172_r4l14 19
+#facs_172_r4l15 6
+#facs_172_r6l1 Vnder dem Freyweybel zu
+#facs_172_r6l2 Praßenwied.
+#facs_172_r6l3 Hendelbanck Soll.
+#facs_172_r6l4 dans le mois dʼEtaté,
+#facs_172_r6l5 Ingisorff
+#facs_172_r6l6 wengen
+#facs_172_r6l7 Meßen
+#facs_172_r6l8 Vnder Frauwbrunnen
+#facs_172_r6l9 Brafenrich Soll
+#facs_172_r6l10 Lampay
+#facs_172_r6l11 -
+#facs_172_r6l12 Buder Thonberg
+#facs_172_r6l13 Krauchtal Soll
+#facs_172_r6l14 2
+#facs_172_r6l15 Buder Buchsel.
+#facs_172_r6l16 München Puchsen
+#facs_172_r6l17 Bechingen
+#facs_172_r6l18 Bolligen
+#facs_172_r6l19 u
+#facs_172_r6l20 Nuhr
+#facs_172_r6l21 Steihlen
+#facs_172_r6l22 .
+#facs_172_r6l23 Im Mitleren theil des Landgerichts sefftige
+#facs_172_r6l24 hurnen
+#facs_172_r6l25 Ruggisperg
+#facs_172_r7l1 3
+#facs_172_r7l2 59
+#facs_172_r7l3 60
+#facs_172_r7l4 18
+#facs_172_r7l5 11.
+#facs_172_r7l6 33 züg
+#facs_172_r8l1 18. zuig.
+#facs_172_r8l2 59
+#facs_172_r8l3 19.
+#facs_172_r8l4 19.
+#facs_172_r8l5 13. Züg
+#facs_172_r8l6 7
+#facs_172_r8l7 8. Züg.
+#facs_173_r2l1 Im Oberen theil.
+#facs_173_r2l2 Kilchdorff
+#facs_173_r2l3 Bertzenser
+#facs_173_r2l4 Dierachern
+#facs_173_r2l5 Ansoldingen
+#facs_173_r2l6 Röutigen
+#facs_173_r2l7 -
+#facs_173_r2l8 Blumenstein
+#facs_173_r2l9 Gurtzelen
+#facs_173_r2l10 -
+#facs_173_r2l11 In andern Theil
+#facs_173_r2l12 Bepp
+#facs_173_r2l13 Verzeichnuß der Holtz Fuhrpflichtigen
+#facs_173_r2l14 Zu den Herrn Bijgen
+#facs_173_r2l15 Zux oberen
+#facs_173_r2l16 Im Landgricht Herranberg
+#facs_173_r2l17 Kundz
+#facs_173_r2l18 Bümplitz
+#facs_173_r2l19 Tappelles
+#facs_173_r2l20 Neuereuegg
+#facs_173_r2l21 Freyweybel cheter
+#facs_173_r2l22 Kilchlindach
+#facs_173_r2l23 Wolten
+#facs_173_r2l24 Vreingarten
+#facs_173_r3l1 1
+#facs_173_r3l2 30.
+#facs_173_r4l1 23.
+#facs_173_r4l2 5.
+#facs_173_r4l3 11.
+#facs_173_r4l4 3
+#facs_173_r6l1 Zur Vnderen.
+#facs_173_r6l2 Murz
+#facs_173_r6l3 Münsigen
+#facs_173_r6l4 Weib
+#facs_173_r6l5 Nun die Landtgricht vnd nechstgeseßne
+#facs_173_r6l6 Ambtleicht, häusechen des hießigen
+#facs_173_r6l7 Fornemarits verbeßerung halb.
+#facs_173_r6l8 0
+#facs_173_r6l9 Schuldtheis und Raht der Statt Bern.
+#facs_173_r6l10 Wir mußend zu unserem bedawlichen mißfallen
+#facs_173_r6l11 vernemen auch theils selbst sehen vnnd erfahren,
+#facs_173_r6l12 .
+#facs_173_r6l13 Was für vortheilige gschwindigkeit vnd unß¬
+#facs_173_r6l14 brüch, mitt hindersich halttung vnnd eigennützige
+#facs_173_r6l15 Vff louff: Vnnd Verkauffung des getreidts hin: Und
+#facs_173_r6l16 Wider unnd sonderlich In Versuch- vnnd bestellung
+#facs_173_r6l17 deß gewohnten unnd Ordinari-Korn-marcken alhier
+#facs_173_r6l18 In Unser Haubt-Statt, verübt werdint, damit
+#facs_173_r6l19 nun dergleichen gfehrliche Verübungen Würcklich
+#facs_173_r6l20 Vnnd krefftig hinderhalten Werd mit, der gemeine
+#facs_173_r6l21 man sonderlich aber vnsere Liebe Burgere vnnd
+#facs_173_r6l22 angehörigen vnderthanen, zu Irem nottwendigen
+#facs_173_r6l23 Hausbruch desto beser vnd In rechtem Lyden
+#facs_173_r6l24 lichem preis sich versehen können. Habend Wir
+#facs_173_r6l25 vß Oberkeitlicher angelegner fürsorg nochmalen
+#facs_173_r6l26 Angesehen vnnd geordnet daß ob Vnser des Orts
+#facs_173_r6l27 gemachter Ordnung durch Vnser darzu verordnete
+#facs_173_r6l28 Kornhüter vnnd bestellte Vffsecher geflißenlich
+#facs_173_r6l29 und alles ernsts gehalten vnnd die vbertretter
+#facs_174_r2l1 Im Obereur theil.
+#facs_174_r2l2 Kilchdorff
+#facs_174_r2l3 Bertzenser.
+#facs_174_r2l4 Die rachern
+#facs_174_r2l5 Ansoldingen
+#facs_174_r2l6 Röutigen
+#facs_174_r2l7 Blumenstein
+#facs_174_r2l8 Burtzelen
+#facs_174_r2l9 2
+#facs_174_r2l10 In anderen Theil
+#facs_174_r2l11 Besop
+#facs_174_r2l12 Verzeichnuß der Holtz Fuhrpflichtigen
+#facs_174_r2l13 Zu den Herren bygen
+#facs_174_r2l14 Zur Oberen¬
+#facs_174_r2l15 Im Landgricht Herrenberg
+#facs_174_r2l16 Küntz
+#facs_174_r2l17 Dümplitz
+#facs_174_r2l18 Tappelles
+#facs_174_r2l19 Neuereuegg
+#facs_174_r2l20 Freyweybel cheter
+#facs_174_r2l21 Rilchlindach
+#facs_174_r2l22 Wolen
+#facs_174_r2l23 Bremgarten
+#facs_174_r4l1 23
+#facs_174_r4l2 5
+#facs_174_r4l3 11.
+#facs_174_r4l4 23.
+#facs_174_r6l1 Zur Vnderen.
+#facs_174_r6l2 Muei
+#facs_174_r6l3 Münsegen
+#facs_174_r6l4 Yorli
+#facs_174_r6l5 Nun die Landtgricht Vnd nechstgeseßne
+#facs_174_r6l6 Ambtleüht, zynsechen des hießigen
+#facs_174_r6l7 Kornemarits verbesserung halb.
+#facs_174_r6l8 C:
+#facs_174_r6l9 Schuldtheis Vnd Rast der Statt Bern.
+#facs_174_r6l10 Wir mußend zu Vnserem bedarrlichen mißfallen
+#facs_174_r6l11 .
+#facs_174_r6l12 vernemen auch theils selbst sehen vnnd erfahren
+#facs_174_r6l13 Was für vortheilige gschwindigkeit und miß=
+#facs_174_r6l14 1
+#facs_174_r6l15 Bruch, mitt hindersich halttung unnd eigennützig
+#facs_174_r6l16 vff kauff: Vnnd Verkauffung des getreidts hin¬
+#facs_174_r6l17 Wider unnd sonderlich In Versuch- vnnd bestellung
+#facs_174_r6l18 -
+#facs_174_r6l19 des gewohnten vnnd Ordinari-Korn-marken alhier
+#facs_174_r6l20 In Unser Haubt-Steff, verübt werdint, damit
+#facs_174_r6l21 nun dergleichen gfehrliche Verübungen würcklich
+#facs_174_r6l22 vnnd krefftig hinderhalten Werd mit, der gemeine
+#facs_174_r6l23 man sonderlich aber vnsere Liebe Burgere vnnd
+#facs_174_r6l24 Angehörigen Vnderthanen, zu Irem nothwendigen
+#facs_174_r6l25 Hausbruch desto beser und In rechtem Lyden
+#facs_174_r6l26 lichem preis sich versechen kömmd. Habend Wir
+#facs_174_r6l27 Eiß Oberkeitlicher angelegner für sorg nochmalen
+#facs_174_r6l28 Angesehen vnnd geordnet daß ob Vnser des Orts
+#facs_174_r6l29 gemachter Ordnung durch Unser darzu verordnete
+#facs_174_r6l30 Kornhüter vnnd bestellte vrsecher geflißenlich
+#facs_174_r6l31 und alles ernsts gehalten, vnnd die vbertretter¬
+#facs_175_r2l1 In die bestimbte straff gezogen werden.
+#facs_175_r2l2 Hirmitt auch menigklich verwahrnet vnndt
+#facs_175_r2l3 erinneret sein solle darob mit mehrerem
+#facs_175_r2l4 geflisenheit zuhalten, und inne selbsten vor¬
+#facs_175_r2l5 schaden Zu sein, Mitt diser angehefften erlüte=
+#facs_175_r2l6 rung, unnd ernstmeinlichen Verwahrnung, das
+#facs_175_r2l7 im Jeder sein habendes gerächs, Wie das ge
+#facs_175_r2l8 samset werden mag, allwegen Ordenlich
+#facs_175_r2l9 unnd vollendts Vff den Märit führen daßel¬
+#facs_175_r2l10 bige nach angedeuter Unser Ordnung für
+#facs_175_r2l11 stellen, in rechtem lydenlichem peys ver-
+#facs_175_r2l12 kauffen, und darmit keines wegs hinder sich
+#facs_175_r2l13 Zeüchen, noch etwan sonsten anderstwohin In¬
+#facs_175_r2l14 großer Anzahl verüßeren, oder auch vnder¬
+#facs_175_r2l15 Kregen und vff der straß hingaben solle, dann
+#facs_175_r2l16 Welcher Hierwider Handler Wurde Wirt
+#facs_175_r2l17 vnnd soll so wol der Keüffer als Verkeüffen
+#facs_175_r2l18 In bestimbte Verdiente straff (nach der durch¬
+#facs_175_r2l19 dich bestellenden öffentlich Verkundung von
+#facs_175_r2l20 Cantzlen) gezogen werden, darnach Wüße
+#facs_175_r2l21 sich ein Jeder den es berühren mag ze¬
+#facs_175_r2l22 richts. Datum 22. Novembris 1650.

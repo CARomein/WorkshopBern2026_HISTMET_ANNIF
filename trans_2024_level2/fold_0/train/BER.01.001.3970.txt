@@ -1,0 +1,133 @@
+Law ID: BER.01.001.3970
+Name: Wegen den allzuleichten Ducaten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 122/122
+# High similarity (>=50%): 96
+# Low similarity (<50%): 26
+# Not found: 0
+#
+#facs_4_r3l20 1749
+#facs_4_r3l21 Etat
+#facs_5_r2l1 Cotat
+#facs_5_r2l2 Des Soldats Involides du Loüable Canton de Barne,
+#facs_5_r2l3 qui peuvent se présenter à L'Ambassade du Roy à
+#facs_5_r2l4 heure pour y recevoir leurs pensions pour l'Anse A 74
+#facs_5_r2l5 Abraham de Salles de Lausane
+#facs_5_r2l6 Jacob Jong d'Emeriette Baille de Lauppe
+#facs_5_r2l7 Hans Muller de Schangnau
+#facs_5_r2l8 Hans Burgimaw de Monitz
+#facs_5_r2l9 Abraham Moginier de Mezieres
+#facs_5_r2l10 Jacob Hire d'Araw
+#facs_5_r2l11 Samuel Meyer
+#facs_5_r2l12 Jean Pierre Bisat de Berges
+#facs_5_r2l13 Pierre Paccoton de Mezeray
+#facs_5_r2l14 Henry Anselme de Lille.
+#facs_5_r2l15 Samuel Roublé de Mourten
+#facs_5_r2l16 Daniel Schneider de Thoun
+#facs_5_r2l17 Charles Beaud de Rame
+#facs_5_r2l18 Benedict Rohser d'urterien
+#facs_5_r2l19 Benedict Schwal de Dotzingue
+#facs_5_r2l20 Daniel Arpace de Bursin
+#facs_5_r2l21 Benediet
+#facs_5_r3l1 B. underem 8
+#facs_5_r3l2 Juny Berichlet H
+#facs_5_r3l3 Ldt. von Tscherlich daß
+#facs_5_r3l4 Kinder Villarsle Fers
+#facs_5_r3l5 keiner Disnahmen
+#facs_5_r3l6 Noch geschlechts seye
+#facs_5_r3l7 Nach dem Bericht
+#facs_5_r3l8 H. Landtr. von Milder
+#facs_5_r3l9 von 9. Junij. 1750
+#facs_5_r3l10 ist dieser Ducloz
+#facs_5_r3l11 von Villars le Comte
+#facs_5_r4l1 Benedict Spring de Kiesen.
+#facs_5_r4l2 Pierre Goy de Vaulion
+#facs_5_r4l3 Pierre Adam farre d'yverrän
+#facs_5_r4l4 Jean Krundenbach de Soumiswald
+#facs_5_r4l5 Jean Jaque de Lorme de Wallemand,
+#facs_5_r4l6 Mathis Scheller de Wildemteni
+#facs_5_r4l7 Pierre Phillipse Besow de Beroll
+#facs_5_r4l8 Redolf Hofmawde Kulin
+#facs_5_r4l9 Johanes Marty de Lupfingen
+#facs_5_r4l10 Jonas Menende Jegensdorff
+#facs_5_r4l11 Pierre Dunand de Lausane
+#facs_5_r4l12 jeorges Memmier de Seeberg.
+#facs_5_r4l13 Daniel du Clos de Villars le Comte.
+#facs_5_r4l14 Johanes Ohher d'Eriswill
+#facs_5_r4l15 acob Ambseler de Dentzenbach
+#facs_5_r4l16 Abraham Kummer d'Itis dorff
+#facs_5_r4l17 Excob Hirsching d'Amselding
+#facs_5_r4l18 Jean Baptiste de Bôneville de Glinel
+#facs_5_r4l19 Philippe
+#facs_6_r1l1 St. /
+#facs_6_r1l2 A
+#facs_6_r1l3 49
+#facs_6_r2l1 Collat.
+#facs_6_r2l2 vto
+#facs_6_r2l3 Einschen
+#facs_6_r3l1 Philippe de la jour de Meubly
+#facs_6_r3l2 Jaques Propre de Copet
+#facs_6_r3l3 Jacob Zimmerman d'Unterseven.
+#facs_6_r3l4 Abraham Cugny de Lassaras
+#facs_6_r3l5 Abraham de Martrey de Montreux
+#facs_6_r3l6 Jonas Ramseyer
+#facs_6_r3l7 Abraham Le Noir de Chatteau d'Aix.
+#facs_6_r3l8 Christian Kertz de Grindelwald.
+#facs_6_r3l9 An Alle zu und W. Amtleut, 4. Städt, Freyweiter,
+#facs_6_r3l10 und Amen, item per Zedel an hiesige Cänzel
+#facs_6_r3l11 und per placard. p wegen den Allzuleichsten Dünden
+#facs_6_r3l12 wider die Liechte Ducaten
+#facs_6_r3l13 Schultheiß und Raht etc. Deinenach Wir
+#facs_6_r3l14 unsfällig wahr nemmen müßen das eine
+#facs_6_r3l15 Menge allzuleichter Ducaten eine Zeit daher
+#facs_6_r3l16 ins Land geworffen werden; Haben Wir aus
+#facs_6_r3l17 Landes-Väfferlicher Vorsorge, und damit Niemann
+#facs_6_r3l18 durch dero Abnahm zu Schaden komme, hiermit
+#facs_6_r3l19 Männiglich verwahrnen wollen, keine von
+#facs_6_r3l20 dergleich
+#facs_6_r4l1 7.
+#facs_6_r4l2 dergleichen allzuleichten Ducaten abzu¬
+#facs_6_r4l3 nemmen, als welche Wir von nun an gänze
+#facs_6_r4l4 lichen verbotten und verruffen haben wollen;
+#facs_6_r4l5 bey Straff der Confiscation, wann selbe zur
+#facs_6_r4l6 Bezahlung an erbotten werden, davon dann
+#facs_6_r4l7 der drite Theil Uns der andere dem AmtsMann¬
+#facs_6_r4l8 und der drüete dem Verleyder heimdienen
+#facs_6_r4l9 soll; Gelangend aber die grobhältigen Ducaten
+#facs_6_r4l10 sins wir deren Lauff zu hemmen nicht
+#facs_6_r4l11 gemeint, in so fern sie die Gewicht des
+#facs_6_r4l12 alten Ducaten, Steins oder die sogenante
+#facs_6_r4l13 Lopf, Gleichthalten. Damit aber die würcklich
+#facs_6_r4l14 im Land sich befindliche Leichte Ducaten,
+#facs_6_r4l15 nicht ferners ins Commercium geworffen
+#facs_6_r4l16 werden, Ist Unser fernerer Will, daß
+#facs_6_r4l17 solche gegen Bezahlung Ihres Valors dein
+#facs_7_r1l1 Ober Amtse Mann des Orts zugebracht werden
+#facs_7_r1l2 Maßen Eüch hiemit aufgetragen wird, solche
+#facs_7_r1l3 abzunemen, und per grav fünf Creuze
+#facs_7_r1l4 abzuziehen: So werdet Ihr auch gegenwär¬
+#facs_7_r1l5 tiges Verbott zu jedermans Wahrnung
+#facs_7_r1l6 und Verhalt fürderlich von Canzlen publi¬
+#facs_7_r1l7 Altenlaßen. Dat. d. 3t. May 1749.
+#facs_7_r1l8 Schwarzenburg xxx scherliz und Mürten¬
+#facs_7_r1l9 Praes. Ihnen ein gleiches an Befehlen
+#facs_7_r1l10 wegen Abnahm der Leichten Ducaten,
+#facs_7_r1l11 mit dieser Erläuterung daß mann solche
+#facs_7_r1l12 Allhero in die Müntz zur Auswechslung
+#facs_7_r1l13 tragen solle.
+#facs_7_r1l14 Wangen per P. S. Uns weilen Zu
+#facs_7_r1l15 Langenthal der Marckt vor vielen so¬
+#facs_7_r1l16 wohl einheimischen als Benachbarten und
+#facs_7_r1l17 fremden besucht wird, sollet ihr ohne¬
+#facs_7_r2l1 9
+#facs_7_r2l2 Verzug dis Orts genugsame Inspector
+#facs_7_r2l3 bestellen, und zu dem End jemand auf
+#facs_7_r2l4 dem dortigen Märnt bestellen, der da invi¬
+#facs_7_r2l5 giliere und verhindere, daß mit diesen —
+#facs_7_r2l6 leichten Ducaten die erhandlende Wahren
+#facs_7_r2l7 nicht bezahlt werden, und dieser Vorsorgl.
+#facs_7_r2l8 publication dan auch soviel immer möglich
+#facs_7_r2l9 befürderen Dat. ut supra.

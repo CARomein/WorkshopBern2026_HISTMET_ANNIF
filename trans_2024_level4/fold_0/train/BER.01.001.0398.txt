@@ -1,0 +1,87 @@
+Law nr: BER.01.001.0398
+Name: Ihnen das getrukte Placcard wegen in das Commercium geworffenen faltscher ganze und halbe Federthaler, auch ganze und halbe Bernbazen, zusenden.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 76/76
+# High similarity (>=80%): 74
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_22_r4l8 d
+#facs_95_r2l2 Alle Teütsch und Welsche Herren Amtleut, 4. Städt
+#facs_95_r2l3 Freybeibel und Amann, denn an die Herren Amt
+#facs_18_region_1629824037683_344l4 und in aüßeren Kranken hauß.
+#facs_18_region_1629824037683_344l5 Ihnen das getrubte Plauard wegen in das Commerium
+#facs_18_region_1629824037683_344l6 geworffenen haltscher Ganze und Halle, Federthaler, auch
+#facs_18_region_1629824037683_344l7 ganze und halbe dern Bahen, zusenden
+#facs_18_region_1629824017481_338l1 33.
+#facs_18_region_1629824045446_347l1 Stadthalter und Raht¬
+#facs_18_region_1629824045446_347l2 Es ist uns zuverläßig hinterbracht worden,
+#facs_18_region_1629824045446_347l3 daß seit etwas zeits faltsche Ganze und halbe
+#facs_18_region_1629824045446_347l4 Feder Thaler, wie auch Falsche ganze und Halbe
+#facs_18_region_1629824045446_347l5 Dahen von hiesigem Stempfel, in das Commerium ge¬
+#facs_18_region_1629824045446_347l6 worffen worden, und in Unseren Landen coursiren,
+#facs_18_region_1629824045446_347l7 Wir haben daher zu jedermans Wissenschafft
+#facs_18_region_1629824045446_347l8 und Verhalt, mitbommendes Placcard in drüb
+#facs_18_region_1629824045446_347l9 ausgehen, und zugleich auf die Ausführliche
+#facs_18_region_1629824045446_347l10 Anzeig, und den Bewirbenden verhafft eines dieser
+#facs_18_region_1629824045446_347l11 falsch Münzeren, von Obrigkeits wegen die Summe
+#facs_18_region_1629824045446_347l12 von Ein hundert Thaleren bieten laßen.
+#facs_18_region_1629824045446_347l13 Hiervon nun ertheillen Wir Euch, mit Zusen¬
+#facs_18_region_1629824045446_347l14 dung einer hinlänglichen Anzahl Exemplarien,
+#facs_18_region_1629824045446_347l15 den behörigen Avio, mit befelch, dieses Placard
+#facs_18_region_1629824045446_347l16 aller Orten in Eüerem Amt offentlich verlesen.
+#facs_18_region_1629824045446_347l17 und gewohnter maßen anschlagen zu laßen,
+#facs_18_region_1629824045446_347l18 für das einte, und für des andern Dannsamtlichen
+#facs_19_region_1629824098864_357l1 34
+#facs_19_region_1629824123383_366l1 Eüere Officialen vor Euch zu bescheiden, und selbi¬
+#facs_19_region_1629824123383_366l2 gen ernstgemeint und bey ihren Eiden (dabey
+#facs_19_region_1629824123383_366l3 aber jedennoch unter Versprechung gleicher Recom¬
+#facs_19_region_1629824123383_366l4 penz :/ zu injungiren, ihrerseits auf diese Falsch
+#facs_19_region_1629824123383_366l5 Münzere ein scharfes Aug zu halten, und so gar
+#facs_19_region_1629824123383_366l6 bey Entdebung verdächtiger solcher Personen oder
+#facs_19_region_1629824123383_366l7 Beschbehrender Umständen, solches Euch so gleich
+#facs_19_region_1629824123383_366l8 anzuzeigen. Da Ihr dann in diesem wie jenem
+#facs_19_region_1629824123383_366l9 Fall, allsobald die Verklagten Personen einziehen,
+#facs_19_region_1629824123383_366l10 examinieren, derselben Häuser durchsuchen, und
+#facs_19_region_1629824123383_366l11 von allem heraus gekommenen Uns zu weiterer
+#facs_19_region_1629824123383_366l12 verfügung und Recompenz der Verleideren, den
+#facs_19_region_1629824123383_366l13 Bericht mit theilen werdet. Dat. den 28ten July 1777.
+#facs_76_r4l5 gnaden
+#facs_178_r8l1 en
+#facs_16_region_1629823813704_301l1 Wir Schultheiß und Raht der Stadt und
+#facs_47_r1l4 Respublic Bern entbieten Unseren Lieben und
+#facs_19_region_1629824129022_369l3 getreuen Bürgeren und Angehörigen zu Stadt
+#facs_19_region_1629824129022_369l4 und Land, Unseren gnädigen und geneigten
+#facs_47_r1l7 Willen, und geben Ihnen dabeÿ zu vernemen
+#facs_19_region_1629824129022_369l6 Demnach uns von seiten Unserer Verordne¬
+#facs_19_region_1629824129022_369l7 ten Müns Commission hinterbracht worden, was
+#facs_19_region_1629824129022_369l8 maßen eine Zeit daher so wohl Falsche ganst
+#facs_19_region_1629824129022_369l9 und Falle Französische Feder Thaler, als auch
+#facs_19_region_1629824103197_360l1 35
+#facs_19_region_1629824109407_363l1 Falsche ganze und halbe dern Bazen, in das Com¬
+#facs_19_region_1629824109407_363l2 mercium geworffen worden, und in dem Land¬
+#facs_19_region_1629824109407_363l3 coursiren; so haben Wir aus Landes vätterlicher
+#facs_19_region_1629824109407_363l4 Vorsorge nöhtig erachtet, solches durch gegenbär¬
+#facs_19_region_1629824109407_363l5 tigen öffentlichen Druk bekant zu machen, und
+#facs_19_region_1629824109407_363l6 dabey anzufügen: daß dieses Geld zum Theil
+#facs_19_region_1629824109407_363l7 gegoßen, zum Theil geprägt, immerhin aber zim¬
+#facs_19_region_1629824109407_363l8 lich schlecht fabricirt, und daher leicht kennbar ist,
+#facs_19_region_1629824109407_363l9 damit mäniglich vor der Einnahme solchen falschen
+#facs_19_region_1629824109407_363l10 gelts, und daher ihme zu bachsenden Schaden sich
+#facs_19_region_1629824109407_363l11 hüten könne.
+#facs_19_region_1629824109407_363l12 Und gleichwie der allgemeinen Sicherheit alles
+#facs_19_region_1629824109407_363l13 daran gelegen, daß diejenigen, so dieses falsche
+#facs_19_region_1629824109407_363l14 Geld Fabriciert haben, entdebt, und anderen zum
+#facs_19_region_1629824109407_363l15 Exempel und Schreben, nach verdienen abgestrafft
+#facs_19_region_1629824109407_363l16 werden; so wollen Wir anmit dem- oder denen
+#facs_19_region_1629824109407_363l17 jenigen, welche von einem dieser Falschmünzern
+#facs_19_region_1629824109407_363l18 so viel Anzeig zu geben im stande sich befänden,
+#facs_19_region_1629824109407_363l19 daß derselbe darauf hin angehalten, und dieses
+#facs_19_region_1629824109407_363l20 eines Verbrechens bekantlich gemacht, oder über¬
+#facs_19_region_1629824109407_363l21 viesen werden könte, von Obrigkeits wegen eine
+#facs_19_region_1629824109407_363l22 Belohnung von einhundert Thaleren, und zugleich
+#facs_19_region_1629824109407_363l23 die Geheimhaltung seines Namens versprochen
+#facs_19_region_1629824109407_363l24 haben.

@@ -1,0 +1,163 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 156/156
+# High similarity (>=80%): 130
+# Low similarity (<80%): 26
+# Not found: 0
+#
+#facs_126_r2l25 118.8
+#facs_311_r2l23 an alle deutsch und belsche Herren Amtleute
+#facs_261_r2l21 sien Städt, freybeibel und Amen, Pesterlingen
+#facs_261_r2l22 cons; und an Land Amau zu Oberhäßli
+#facs_261_r2l23 Ihnen die Publikation über die ausgesprochene
+#facs_261_r2l24 Amnistie und Generalpardon, zu Gunsten aller der¬
+#facs_261_r2l25 jenigen welche in denen in den Jahren 1791. und 1792.
+#facs_261_r2l26 erführten Proceduren verflochten gelesen, zustanden.
+#facs_261_r2l27 Schultheiß Räth und Bürger etc. Einligende
+#facs_30_r1l1 50.
+#facs_261_r3l2 Publikation über die von uns ausgesprochene
+#facs_261_r3l3 Amnistie zu günsten aller derjenigen
+#facs_261_r3l4 welche in denen in den Jahren 1791. und
+#facs_261_r3l5 1792. verführten Proceduren verflochten
+#facs_261_r3l6 gebesten übersenden Wir Euch mit dem
+#facs_261_r3l7 Befehl solche auf gebohnte Weise publiciren
+#facs_261_r3l8 und affichiren zu laßen.
+#facs_257_r3l4 Geben den
+#facs_67_r3l14 Publication
+#facs_259_r3l15 Wir Schultheis klein und große
+#facs_259_r3l16 Räthe der Stadt und Republik dern¬
+#facs_261_r3l13 entbieten allen Unsteren lieben und
+#facs_195_r4l24 Getreuen Bürgeren und Angehörigen zu
+#facs_261_r3l15 Unseren gnädigen und geneigten Willen
+#facs_249_r2l21 und geben ihnen andurch zu vernehmen:
+#facs_261_r3l17 Daß die Unterzeichnung der Prälimi¬
+#facs_261_r3l18 narien, die den Frieden auf dem festen
+#facs_261_r3l19 Lande herbeyführen sollen, durch Sr.
+#facs_261_r3l20 Excellenz den Herrn Barthelemy Ambaßudon
+#facs_261_r3l21 der französischen Republik bey der lobl.
+#facs_261_r3l22 Eidgenoßenschaft, derselben officialiter
+#facs_261_r3l23 angezeigt worden; als in welcher glük¬
+#facs_261_r3l24 lichen Ereigniß Wir das Ende der Gefahr
+#facs_261_r3l25 sehen, die Uns während des Laufs des
+#facs_20_r4l1 33
+#facs_30_r4l1 51.
+#facs_262_r2l1 Krieges bedrohet, und von welchen unsere
+#facs_262_r2l2 erklärte seutralität Uns so glüklich
+#facs_262_r2l3 gesichert hat.
+#facs_262_r2l4 Dieser glückliche Übergang eines gefähr
+#facs_262_r2l5 lichen Zeitpruets, während welchem die
+#facs_262_r2l6 Vorstehung den äußern und innern
+#facs_262_r2l7 Ruhestand unsers Vaderlands auf eine
+#facs_262_r2l8 so ausgeheuhnete Weise in ihren besondern
+#facs_262_r2l9 Schuz genommen hat, erbekt billig in Uns
+#facs_262_r2l10 die Gefühle der lebhaftesten Sankbarkeit
+#facs_262_r2l11 und Wir zweifeln nicht, alle Unsere liebe
+#facs_262_r2l12 und getreue Bürger und Angehörige
+#facs_262_r2l13 werden von den nemlichen fremden vollen
+#facs_262_r2l14 Empfindungen durchdrungen seyn, die die
+#facs_262_r2l15 Annahrung des glücklichen Zeitpunkts
+#facs_262_r2l16 in Uns erbekt, da ein allgemeiner Friede
+#facs_262_r2l17 die Ruhe der mächtigen Nationen die
+#facs_262_r2l18 Uns umgeben, sichern, und das Glük und
+#facs_262_r2l19 die Wohlfahrt Unseres vatterlands
+#facs_262_r2l20 befestigen wird.
+#facs_262_r2l21 Während dieses ganzen schwierigen
+#facs_262_r2l22 Zeitpunkts haben Unsere liebe und
+#facs_262_r2l23 getreue Bürger und Angehörige Uns
+#facs_262_r2l24 ohne Unterlas so viele thätige Reise
+#facs_262_r2l25 von Treue, Zuneigung und Eifer für
+#facs_262_r2l26 die Aufrechthaltung Unserer Religion,
+#facs_271_r3l1 .5.29
+#facs_262_r3l2 Unserer Verfaßung für die Erhaltung
+#facs_262_r3l3 des Friedens und der öffentlichen Ordnung
+#facs_262_r3l4 gegeben, daß Wir mit fremden diesen
+#facs_262_r3l5 Anlaß ergreiffen, ihnen öffentlich einen
+#facs_262_r3l6 Rebeis Unserer Zufriedenheit zu geben
+#facs_262_r3l7 und ihnen im Namen Unsers gemeinsamen
+#facs_262_r3l8 Vatterlands den Dank zu sagen, der ihnen
+#facs_262_r3l9 für die Anstrengung ihrer Kräfte gebührt.
+#facs_262_r3l10 Wir sind überzeugt, dieselben werden in
+#facs_262_r3l11 allen Angelegenheiten zu Erreichung
+#facs_262_r3l12 Unserer landes vätterlichen Absichten
+#facs_262_r3l13 stets mitwürken, und Wir immer diejenige
+#facs_262_r3l14 Denbungsart bey ihnen finden, die ihren die
+#facs_262_r3l15 Liebe und den Denk ihrer Landesobrigkeit,
+#facs_262_r3l16 die Freundschaft ihrer Nachbaren und die
+#facs_262_r3l17 allgemeine Achtung erworben hat.
+#facs_262_r3l18 In Betrachtung nun, daß der britische
+#facs_262_r3l19 Zeitpunkt glüklich vorüber gegangen,
+#facs_262_r3l20 da Unsere Pflicht Uns zu standhäfften
+#facs_262_r3l21 und strengen Maaßreglen verband,
+#facs_262_r3l22 durch welche der Friede und die innere
+#facs_262_r3l23 Ruhe, deren hohen Werth nun jeder
+#facs_262_r3l24 mann beut, allein erhalten werden konte,
+#facs_262_r3l25 überlaßen wir Uns mit vollem Zutrauen
+#facs_262_r3l26 Unsteren gewöhnlichen Grundsägen von
+#facs_262_r3l27 Güte und Gnade.
+#facs_20_r4l1 33
+#facs_30_r4l1 51.
+#facs_263_r2l1 Dem Zufage machen Wir die gegen¬
+#facs_263_r2l2 bärtige Erklärung einer Amnistie und
+#facs_263_r2l3 Generalpardon zu Gunsten allen derjenigen
+#facs_263_r2l4 lebant, welche in denen in den Jahren
+#facs_263_r2l5 1791. und 1792. verführten Proceduren
+#facs_263_r2l6 verflochten gewesen, und die dafür ent¬
+#facs_263_r2l7 weder Büreich von Uns bestraft worden
+#facs_263_r2l8 oder sich ihrer Urtheil durch die Flucht
+#facs_263_r2l9 entzogen haben. Allen diesen ist
+#facs_263_r2l10 von nun an freygestellt, in ihr vatter¬
+#facs_263_r2l11 fand zurückzutehren, unter dem aus-
+#facs_263_r2l12 drücklichen Vorbehalt jedoch, daß ein
+#facs_263_r2l13 jeder innerthalb den ersten Vierzehn
+#facs_263_r2l14 Tagen nach seiner Rükkehr in dasselbe
+#facs_263_r2l15 sich bey dem Präsidenten Unsers wohl¬
+#facs_263_r2l16 Verordneten geheimen Raths anmelde
+#facs_263_r2l17 um vor diesem Diensterio aufs neue
+#facs_263_r2l18 den Eid der Treue zu schbören, den
+#facs_263_r2l19 jeder gutgestimmte Unterthan seiner Obrig
+#facs_263_r2l20 beit zu leisten schuldig ist
+#facs_263_r2l21 Eben diese Gestimmungen vermögen
+#facs_263_r2l22 uns, auch das Andenken der damals
+#facs_263_r2l23 beurtheilten und seither verstorbenen Person,
+#facs_121_r3l2 wieder herzustellen, auch in Rüksicht des
+#facs_263_r2l25 die ausgefüllten Urtheile anmit bieder
+#facs_263_r2l26 aufheben. Unter diesen bollen Wir
+#facs_13_r1l1 18
+#facs_263_r3l2 insbesondere den General Amadé de la
+#facs_263_r3l3 Harpe begriffen haben, der bey der
+#facs_263_r3l4 französischen Armee in Italien sein
+#facs_263_r3l5 Leben verlohren, als welchem Wir anmit
+#facs_263_r3l6 das öffentliche Zeugniß geben, daß er
+#facs_263_r3l7 sich im Ausland weder gegen Unsere
+#facs_263_r3l8 Lexublike, noch gegen sein Vadterland
+#facs_263_r3l9 die Schwech, nichts hat zu Schulden
+#facs_223_r4l20 kommen
+#facs_263_r3l11 Von dieser General Amnistie sind jedoch
+#facs_263_r3l12 ausdrüklich ausgenommen diejenigen, welche
+#facs_263_r3l13 anstadt ihre Vergehungen einzustehen.
+#facs_263_r3l14 und zu bereuen, steither durch Rebenntmachung
+#facs_263_r3l15 anfrührischer Schrifften, Unsere Landesherrliche
+#facs_263_r3l16 Gewalt anzugreiffen, und dadurch die Ruhe
+#facs_263_r3l17 des hiesigen oder verbündeten Staaten und
+#facs_263_r3l18 die öffentliche Sicherheit in Gefahr zu sehen
+#facs_263_r3l19 gebagt haben, als welche bey den Grenzen
+#facs_263_r3l20 consignirt bleiben, auf Betredten ange¬
+#facs_263_r3l21 halten- und nachbärts auf eine ihrem Ver¬
+#facs_263_r3l22 gehen angemeßene Weise bestraft werden
+#facs_143_r4l21 oll
+#facs_263_r3l24 Von dem Allerhöchsten flehen Wir,
+#facs_263_r3l25 daß Ersteinen göttlichen Reegen, der schon
+#facs_263_r3l26 lange Zeit daher Unser Vadtraland
+#facs_263_r3l27 beglübet, und alle Unsere Herzen mit
+#facs_20_r4l1 33
+#facs_30_r4l1 51.
+#facs_264_r2l1 Söchning und Dank erfüllen soll, demselben
+#facs_264_r2l2 auch noch in Zukunfft scheuten, und solche
+#facs_264_r2l3 ferner in seinem besonderen Schuz behalten
+#facs_264_r2l4 wolle.
+#facs_294_r2l22 Beben in Unserer großen Raths
+#facs_264_r2l6 versinnung, um auf gewohnte Weise
+#facs_281_r2l11 bekant gemacht.
+#facs_264_r2l8 zu werden, den 14ten Junii 1797.
+#facs_160_r4l4 Canzley Bern.
+#facs_98_r5l28 en

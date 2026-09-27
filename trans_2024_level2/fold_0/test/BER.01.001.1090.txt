@@ -1,0 +1,109 @@
+Law ID: BER.01.001.1090
+Name: Abruffung der neüwen Lucerner Batzen, [...] und der Schillingen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 98/98
+# High similarity (>=50%): 90
+# Low similarity (<50%): 8
+# Not found: 0
+#
+#facs_211_r4l1 Beschriben sind Vff
+#facs_211_r4l2 Montag den 8 julij
+#facs_211_r4l3 Thun Interlack Vndersewen
+#facs_211_r4l4 hinfeg. 9 do
+#facs_211_r4l5 h
+#facs_211_r4l6 Fruing, Ober: Und wider Sibrothal
+#facs_211_r4l7 Richambt 20. d.
+#facs_211_r4l8 Trachswaldt, Brandiß signauen
+#facs_211_r4l9 Donstag II do.
+#facs_211_r4l10 Burgdorff, Lantshut, Bürn
+#facs_211_r4l11 Fürstag a. do
+#facs_211_r4l12 Vidauw, Gottstadt, contra Johanse¬
+#facs_211_r4l13 Sambstag 23. do
+#facs_211_r4l14 Erlan, Arberg, Louppen
+#facs_211_r5l1 rot
+#facs_211_r5l2 Dontag 25 Julij
+#facs_211_r5l3 Eviensperg Frauwenbrunnen
+#facs_211_r5l4 Buchsen
+#facs_211_r5l5 Hinstag, 26 do
+#facs_211_r5l6 langen, Tohrberg
+#facs_211_r5l7 which which in do
+#facs_211_r5l8 Arwang, Bipp, Arburg
+#facs_211_r5l9 Dorstag 18 do
+#facs_211_r5l10 Zoffingen, Leutzburg,
+#facs_211_r5l11 Freytag 19 do.
+#facs_211_r5l12 Königsfelden, Biberstein
+#facs_211_r5l13 Schonckenberg,
+#facs_211_r5l14 Sambstag 20 do
+#facs_211_r5l15 Alen, samen
+#facs_212_r2l1 Ann alle F. vndt W. Amptleütschreyw
+#facs_212_r2l2 vnd Amen, Abruffung der neuwen
+#facs_212_r2l3 Lucerner botzen, Vnd Essert dem
+#facs_212_r2l4 Vndern Ergenüe) der Schilling.
+#facs_212_r2l5 schuldtheiß etc.
+#facs_212_r2l6 Nach dem Vns Vor etwas Zeits, die neüw geprägten
+#facs_212_r2l7 Vnd schilling
+#facs_212_r2l8 Lucerner batzen, furkommen Vnd Imn dhandt gefohllen,
+#facs_212_r2l9 Vnd wir dieselben schlechten halts Vnd geringen werdts
+#facs_212_r2l10 befunden, Kättend wir damahlen angesechen, auch durch
+#facs_212_r2l11 unser algemein Vß schreiben, von 15. Decembr 1638 ge¬
+#facs_212_r2l12 porten, das dieselben Im Vnseren ohne das mit Wilen
+#facs_212_r2l13 schlechten handtmuntzen verfülten vnd Überladnen
+#facs_212_r2l14 landt, keines wegs empfangen werden, sonderen gente¬
+#facs_212_r2l15 lich verpotten sein sollind. Wan wir aber sidephor
+#facs_212_r2l16 sehen vnd erfahren müßend, das Vngeacht desselben
+#facs_212_r2l17 Vnsers Verports, dieselbigen von menigklichen der
+#facs_212_r2l18 Vnseren Vngeschrächt empfangen vnd ausgeben werden
+#facs_212_r2l19 wollicht, Und dan dieselben Jharen wirdt noch
+#facs_212_r2l20 leüffig verblijben mögend, Alß habend wir Iw
+#facs_212_r2l21 änderung obigen Vnsers Vns schreibens vnd Verports,
+#facs_212_r2l22 hiemit ansehen und zulassen wollen, das obbemelte
+#facs_212_r2l23 neuw geprägte Lucerner batzen vnd schilling, In¬
+#facs_212_r4l1 Vnseren Landt wahr wohln aber höcher vnd theürer
+#facs_212_r4l2 nit, dann die batzen für halb, die schilling für
+#facs_212_r4l3 kreützer gegenommen werden, genug vnd geb sei¬
+#facs_212_r4l4 söllind vnd magniet, by pern der Confiscation
+#facs_212_r4l5 so von den Verbrechenen ohne schonen bezogen werden
+#facs_212_r4l6 sol. Vnd damit wenigklich dessen bericht werden
+#facs_212_r4l7 soltu dis offentlich von Lantzlen Verkhünden lassen,
+#facs_212_r4l8 Und darob fleisig halten. Datum 18. May
+#facs_212_r4l9 1639.
+#facs_212_r4l10 Aspendix. Allin den 18. undt
+#facs_212_r4l11 etlichen 5. Amptleück
+#facs_212_r4l12 geüberscheyben
+#facs_212_r4l13 Vnd die wyl wir Vernemend, wie mit allem Vnserer
+#facs_212_r4l14 E. zu Frybourg, Statt vnd Landtschafft mit grosser
+#facs_212_r4l15 Jaht Burgundisch-Vertribnen Volcks, fast heüffig
+#facs_212_r4l16 besetzt, sonders dessen auch, In Vnserem Landt
+#facs_212_r4l17 mit schwalgefunden vnd ohngescheucht geduldet,
+#facs_212_r4l18 vnd durchgelassen werde, also das derselben
+#facs_212_r4l19 Vil, mit Ihren seiner mehren, vnd kleinen geschor
+#facs_212_r4l20 hin vnd wider, Inn Vnseren Landen vmbher streich
+#facs_212_r4l21 int: Sachen, so by gegenwürtigen Schwierig leuff¬
+#facs_212_r4l22 gantz Verdechtig, vnd Vnleidenlich, dardurch vns Vnd
+#facs_212_r4l23 Unseren Lieben angehörigen, zu Stadt vndt Landt
+#facs_213_r1l1 leichtlich nit geringe gefahrn vnd Vnglägenheit zu
+#facs_213_r1l2 gezogen werden möchte: Alß habend wir Vns Ober¬
+#facs_213_r1l3 keitlicher Fürsorg, nit Vmbgang nemen mögen,
+#facs_213_r1l4 dir hiemit gebeuelchen nothwendige wachten by der
+#facs_213_r1l5 Pässen deiner Amptsuerwaltung vffgestellet
+#facs_213_r1l6 vnd dieselben von dato an Vntzit zu fortzug deß
+#facs_213_r1l7 Burgundischen Föffels, zu behalten; Insonderheit
+#facs_213_r1l8 wo dergleichen bewehnte personnen, die mit feüer¬
+#facs_213_r1l9 oder anderen kleinen oder grossen rohren, es seye
+#facs_213_r1l10 daß sy dieselben Im geheimb oder öffentlich bej
+#facs_213_r1l11 sich freggen wurdirt, angetroffen, solche Ihnen aber
+#facs_213_r1l12 nemen vnd mit angehenckter Verzeichnuß, wenn
+#facs_213_r1l13 Dein oder ander abgenomen worden, wie derselb
+#facs_213_r1l14 mit namen vnd zunamen heise, vnd von wannen
+#facs_213_r1l15 der zeye, zukunfftigen Bericht, In Vnser die
+#facs_213_r1l16 Bannertfrauwtes Haus, zu Vbriger Kriegs armetur
+#facs_213_r1l17 leg; Volgendts die ein vnd anderen, wo sij nit
+#facs_213_r1l18 mit gnugsamen Paszedlen von vns Versochen werend
+#facs_213_r1l19 widerumb geruck, vnd Vnß Vnseren Landen weisen
+#facs_213_r1l20 gelassen, oder Jederwijliger beschaffenheit
+#facs_213_r1l21 der sachen, vns geberichten, massen geschehen werde,
+#facs_213_r1l22 wir vns zu dijnen fleiß vnd eiffer versehendt
+#facs_213_r1l23 Datum 20. May 1639.

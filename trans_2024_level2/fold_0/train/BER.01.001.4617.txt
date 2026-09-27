@@ -1,0 +1,38 @@
+Law ID: BER.01.001.4617
+Name: Kirchen Visitationen. An die samtlichen Herren Decanen deütschen Lands.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 27/27
+# High similarity (>=50%): 27
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_163_r3l12 Kirchen Visitationen
+#facs_163_r3l13 An
+#facs_163_r3l14 die samtlichen Herren Decanen
+#facs_163_r3l15 deutschen Lands,
+#facs_163_r3l16 Schultheiß und Rath c.
+#facs_163_r3l17 Bey gehabtem Anlas ist von Uns die
+#facs_163_r3l18 Bemerkung gemacht worden: daß bey denen
+#facs_163_r3l19 Kirchen Visitationen zuweilen Klägden wider
+#facs_163_r3l20 Pfarrherren angebracht werden, die Ihre
+#facs_163_r3l21 in besten Absichten, jedoch Unserer gege¬
+#facs_163_r3l22 elassicis
+#facs_163_r3l23 benen Vorstchrift zuwider, denen Actis
+#facs_164_r2l1 Classicis nicht einverleibet werden
+#facs_164_r2l2 Wann nun der fürnemste
+#facs_164_r2l3 Zwel der Capiteln hiedurch verfehlt.
+#facs_164_r2l4 wird, so tragen Wir Euch auf, von der
+#facs_164_r2l5 verdammelten Class alle Juraten
+#facs_164_r2l6 derselben, nachdruksamst zu erinnern
+#facs_164_r2l7 bey denen Kirchen Disitationen sich
+#facs_164_r2l8 durchaus nach der Ihnen in der Predig¬
+#facs_164_r2l9 kanten Ordnung gegebenen Vorschrift
+#facs_164_r2l10 zu verhalten, selbige pünktlich zu
+#facs_164_r2l11 befolgen, und sorgfältig zu erfüllen
+#facs_164_r2l12 naßen geschehen werde, Wir Un¬
+#facs_164_r2l13 zu Eüch und zu ihnen bestens versehen
+#facs_164_r2l14 Datum den 18den Decembris
+#facs_164_r2l15 1787

@@ -1,0 +1,181 @@
+Law ID: BER.01.001.0590
+Name: Der Züginer, und Heydenvolcks halb.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 170/170
+# High similarity (>=50%): 159
+# Low similarity (<50%): 11
+# Not found: 0
+#
+#facs_222_r1l2 17
+#facs_222_r1l3 F.F.S.
+#facs_222_r1l4 E. et. Reip:
+#facs_222_r2l1 140
+#facs_222_r2l2 Bipf, Wangen, Erwangen, Arburg,
+#facs_222_r2l3 Zoffingen Consuli, Areuw, Biberstein,
+#facs_222_r2l4 Lentzburg L. und Stadt, Schenckenberg,
+#facs_222_r2l5 kungsfelden, Brugg, der Zugier, und
+#facs_222_r2l6 Heydendrolcks Spall
+#facs_222_r2l7 Schuld theis etc. Nach dem wir von Unseren, d. L. E. M.
+#facs_222_r2l8 und B. der Staet Solothus durch schrieben bericht worden,
+#facs_222_r2l9 das zu vff empfangnen bericht von Irem Amptman zu
+#facs_222_r2l10 kößgen, was gestalt das Zigmer und heidenmölk sich
+#facs_222_r2l11 nur schwaal an den geringen unser beider sechs Landsche
+#facs_222_r2l12 erzeignd, vnd den Vnderthans mittraube vnd Stälz¬
+#facs_222_r2l13 großen schade, zu fugindt, und sonst gar überlegen
+#facs_222_r2l14 und zu derenhalb mit ohne Pörg und gescher sind,
+#facs_222_r2l15 nodtwendig befunden, das durch die benachtarwe
+#facs_222_r2l16 Amptlich beider Stecken, wie auch so wie zuth andern.
+#facs_222_r2l17 tum gethan, Godtwendig zu werde, vnd etc. zurückkund¬
+#facs_222_r2l18 mögend, wo es mit bescherlich der Stadt Lueren, zu
+#facs_222_r2l19 esmusterung solliehen schädlichen volcks, ein gemeine
+#facs_222_r2l20 Landesjegen, als Zijtt end tag, form vnd maß, wie sich
+#facs_222_r2l21 die Amptlich zu ghembd fürderlichen Egliehen mögend
+#facs_222_r2l22 angestellt, fürgenomen, und verrichtet werde, habend
+#facs_222_r2l23 wir sollich vorhaben gern angehört, vnd zu versicherung
+#facs_222_r2l24 der Vnsern, gantz nodtwendig befunden, ferowen
+#facs_222_r2l25 uns gegen zuen erclärt, das wir bij vnsern ampt
+#facs_222_r2l26 liichen und angehorigen, an ernorderlichen Orthen
+#facs_222_r2l27 die Verordnung thun, wellind, das ein solliche gemeine
+#facs_222_r2l28 seyn solliehen schädlichen volckshalb, angestelle, fürge¬
+#facs_222_r2l29 nommen vnd verrichlet werde, wie wir dan die en¬
+#facs_222_r2l30 annderen Unseren amptlüthen (und zugethanen) an de¬
+#facs_222_r2l31 paßen vnd grentzen beuolchen vnd vfferlege haben wollen.
+#facs_222_r2l32 Nach undt beider Stadten Luzern von Solothurn vnser
+#facs_222_r2l33 Landtschafft zu nachbarten empfliehen, da derglijehen heiden¬
+#facs_222_r2l34 uolck sich erzeigen und in möchte, einer solchen gemeinen
+#facs_222_r2l35 Landtzegen, vnd darzu Zyn vnd Tags, auch form vnd mas¬
+#facs_222_r2l36 In aller geheimbend und stille ehest zuuerglijchen, und dan
+#facs_222_r2l37 dieselb durch ernstige lüch fürnemen und erstatten lassen,
+#facs_222_r2l38 Die Jenigen so ghandthafftet werdend, uns zwursammen
+#facs_222_r2l39 Zeuberschicken gegen Inen nach gebür pro adieren
+#facs_223_r2l1 Zelaßen, und wyl vermög vßgangner Badischer
+#facs_223_r2l2 abscheiden, vff darglyehen heidenualck Jederzytt
+#facs_223_r2l3 ein mercklich vrsachen, von jeder Oberkeit
+#facs_223_r2l4 Amptluchen sollen gehalten, so meinen geduldet
+#facs_223_r2l5 Sonders zuzogen vnd abgeschaffet werden sollen.
+#facs_223_r2l6 So ist unter will, das auch nach Errichtung dieser
+#facs_223_r2l7 Landtjegen vff dergliehen heideunelck stäts ge¬
+#facs_223_r2l8 achtet, Sy meinen geduldet, Sonnders gehandt
+#facs_223_r2l9 hafftet, und wir deßelben berichtet werden
+#facs_223_r2l10 sollend, der Hoffnung wann von jeder Oberkeit
+#facs_223_r2l11 midt solchem ernst vff zu gesetzt werde, dasselb
+#facs_223_r2l12 vnd dem Land gemusteret, vnd die vnseren großen
+#facs_223_r2l13 yfhar und schadens entlediget werden mögne.
+#facs_223_r2l14 Datum 3d Januarij 1617
+#facs_223_r2l15 Onderricht wie es hievor ao 1613,
+#facs_223_r2l16 beeidung halb der Underthanen
+#facs_223_r2l17 In Ir gl. vogtyen geubt worden
+#facs_223_r2l18 In hienachuolgenden Aempteren sind
+#facs_223_r2l19 In Besatzung der Drichten, Jerlich auch
+#facs_223_r2l20 die gantze Gemeind oder Volck, was
+#facs_223_r2l21 männlichs geschlechts und bei 14 Jaren
+#facs_223_r2l22 alters, in Eid vff genommen worden,
+#facs_223_r2l23 Vnderseewe
+#facs_223_r2l24 Brandil
+#facs_223_r2l25 Ripen
+#facs_223_r2l26 Burgdorff
+#facs_223_r2l27 12
+#facs_223_r2l28 Auren
+#facs_223_r2l29 Arburg
+#facs_223_r2l30 Krachselwald
+#facs_223_r2l31 särlich die
+#facs_223_r2l32 Arwangen
+#facs_223_r2l33 Schenckenberg
+#facs_223_r2l34 Gantze Demein Wangen,
+#facs_223_r2l35 Lentzburg.
+#facs_223_r2l36 Biberstein
+#facs_223_r2l37 In der Landtsch. Sanen Hand Jerlich allein die
+#facs_223_r2l38 Reichtslüch geschworen, und die gmeine un¬
+#facs_223_r2l39 Allein zu sechs
+#facs_223_r2l40 derthanen Ja zu 6 Jaren, wann ein einer
+#facs_223_r2l41 Jahres die ganze
+#facs_223_r2l42 Dawind
+#facs_223_r2l43 Landmogt presentiert worden.
+#facs_223_r2l44 Sanen.
+#facs_223_r2l45 Sans ass.
+#facs_223_r3l1 An die a.
+#facs_223_r3l2 ort
+#facs_223_r4l1 allain zu
+#facs_223_r4l2 1 Jaren
+#facs_223_r4l3 1
+#facs_223_r4l4 mzt
+#facs_223_r4l5 dit de pied
+#facs_223_r5l1 44 x
+#facs_223_r5l2 Item an volgenden Orthen
+#facs_223_r5l3 Frünigen
+#facs_223_r5l4 Signorw.
+#facs_223_r5l5 Ober
+#facs_223_r5l6 1
+#facs_223_r5l7 Nider, Sibenthal
+#facs_223_r5l8 Louppen
+#facs_223_r5l9 Thun
+#facs_223_r5l10 Inderlackes
+#facs_223_r5l11 Kaple
+#facs_223_r5l12 Erlach
+#facs_223_r5l13 Frienisperg
+#facs_223_r5l14 Ruchsen
+#facs_223_r5l15 Thorberg
+#facs_223_r5l16 Eydouw
+#facs_223_r5l17 Arberg,
+#facs_223_r5l18 Landtshut
+#facs_223_r5l19 Schwartzenburg
+#facs_223_r5l20 kungsfeldes
+#facs_223_r5l21 W verschrieben an obbemelte Orth, Ihem
+#facs_223_r5l22 Trouwenbrunnen, Sandt Johansch
+#facs_223_r5l23 Schuldtheis etc. Demnach wir eß bedencklichen vnd
+#facs_223_r5l24 beweglichen Vrsachen Ao. 1613, nodtwendig und ernc¬
+#facs_223_r5l25 derlich befunden, das der Eid und huldpflicht halbe, vnser
+#facs_223_r5l26 Vnderthanen Im gantzen Land ein glichheit gehalten,
+#facs_223_r5l27 und dieselben, es sind die hußuäter, Ire Schön und
+#facs_223_r5l28 hußgnoßen, was von Mannlichen geschlecht 14 Jahren
+#facs_223_r5l29 alters, alle mir zu besatzung der geistlichen und welt¬
+#facs_223_r5l30 lichen grichten, vff einem predigstag (wo es je an ge¬
+#facs_223_r5l31 legenen orthen ihn mag, versamlet, damit das volck vß
+#facs_223_r5l32 dem wort Gottes Irer schuldigen pflicht gegen Gott
+#facs_223_r5l33 vnd Irer Oberkeit, auch der Erichtigkeit des Eidtschwürs
+#facs_223_r5l34 was derselb vff Im trage, gründtlich erinneret vnd
+#facs_223_r5l35 Onderrichtet, und nach vorläsung der Eidtaffele, nach
+#facs_223_r5l36 der form des Eids domalen allen Vnseren amptlüschen
+#facs_223_r5l37 oberschickt worden, In Eid vnd huldigung vffgenommen,
+#facs_223_r5l38 werdend, wie wir dan hievor berichtet, das es von
+#facs_223_r5l39 alter har In Diner amptspfleg also geubt vnd brucht
+#facs_223_r5l40 worden ge, habend wir zwar die Hoffnung und das
+#facs_223_r5l41 Verthruwen zu dinem und ander vnser amptlüchen
+#facs_223_r5l42 ¬¿ffer, flyß und ernst, das Jerlichen Bölcher Ordnung
+#facs_223_r5l43 gemäß, die Eides huldigung von den Unseren werde
+#facs_223_r5l44 aufgenommen ist, habend wir uns zwar keines
+#facs_223_r5l45 annderen zuerinneren, dann das Vnsere L. g. vnderthanen
+#facs_223_r5l46 Ob wol an eirlichen Orchen Im Bruch g'sin das die ganze
+#facs_223_r5l47 Binrind oder volck allein von 6 zu sechs Jahren,
+#facs_224_r2l1 wan ein nüwer Amptsman presentirt worden,
+#facs_224_r2l2 den Eid der huldigung geschworen, sich vnseren
+#facs_224_r2l3 willen und ansechen undt williger gehorsam
+#facs_224_r2l4 undergeben, ob glichwol nun wir die un¬
+#facs_224_r2l5 annderer unser amptluchen yffers, flyses¬
+#facs_224_r2l6 und ernsts halben kein annder verthruwe
+#facs_224_r2l7 habend, dan das ob sölchem Anstrem ansechen
+#facs_224_r2l8 und Ordnung, bißhar syst gehalten, und dero nach¬
+#facs_224_r2l9 gelebe in werde, Jedoch so in Verenderung der
+#facs_224_r2l10 Amptluchen, solliche Ordnung der beeidigung an
+#facs_224_r2l11 eitlichen Orthen daß Umrückenheit und mangel
+#facs_224_r2l12 berichts Zecontinnien vnderlaßen worden ge=
+#facs_224_r2l13 möchte, wie rt dem abzunemen, das als ein
+#facs_224_r2l14 längest an gewißen vorhen die Beeidung solle
+#facs_224_r2l15 verricht werden, fürgewendt worden, das es an
+#facs_224_r2l16 annderen Orthen und aempteren Vnglych gebracht,
+#facs_224_r2l17 werde, welches vns zwar Frömbd fürkomen,
+#facs_224_r2l18 Und verursachet by dir vnd annderen vnseren
+#facs_224_r2l19 Amptlichen nachfrag zu halten, und Zuerfharen,
+#facs_224_r2l20 wie und was maßen die Beeidung bißhär Järlich
+#facs_224_r2l21 In diener Amptspfleg fürgenommen und erstadtet
+#facs_224_r2l22 worden ge, ob In besatzung der griehter, neben
+#facs_224_r2l23 beeidung der gerichtlüchen und Beampteten, auch
+#facs_224_r2l24 die husquatter Ire Shön und hußgnoßen, vermög
+#facs_224_r2l25 angeregter Unser Ordnung beeidet, oder vß
+#facs_224_r2l26 pr
+#facs_224_r2l27 was Vrsachen solches vnderlaßen worden,
+#facs_224_r2l28 Derwegen solt du uns darumb fürderlichen
+#facs_224_r2l29 satten bescheid geben, Datum 3a Januarij 1617

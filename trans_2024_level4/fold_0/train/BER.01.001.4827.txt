@@ -1,0 +1,38 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 30/31
+# High similarity (>=80%): 24
+# Low similarity (<80%): 6
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4827
+#facs_260_r3l21 Dwenter Getreid Verlauf.
+#facs_260_r3l22 de 1797.
+#facs_260_r3l23 An alle deutsch und welche Herren Amtleüte u. Schaßner,
+#facs_260_r3l24 bo oberbeitlich getreye ligt.
+#facs_260_r3l25 Schultheiß Rath und Burger v. Nachdeme
+#facs_260_r3l26 Aus durch Unsere furgeliebte Miträthe
+#facs_13_r3l1 19
+#facs_189_r3l2 u
+#facs_20_r4l1 33
+#facs_30_r1l1 50.
+#facs_114_r5l17 Schulsekel
+#facs_280_r3l13 der Herren Belsch Bebelmeister u. Venner
+#facs_261_r2l3 über den zu unseren Disposition noch übrig
+#facs_261_r2l4 bleibenden halbigen Theils des Winterge¬
+#facs_261_r2l5 wächstes so den Vorrath die ordinari und
+#facs_261_r2l6 quasi ordinarii ausgaben übersteigt, der
+#facs_261_r2l7 gebohnte Vortrag abgestadlet worden,
+#facs_261_r2l8 der dermalige Zustand der Saaten dann
+#facs_261_r2l9 nach allen eingekommenen Berichten, eine
+#facs_261_r2l10 gesegnete Ernde verhoffen läßt, so haben
+#facs_261_r2l11 Wie erbeutund verordnet: daß auch
+#facs_261_r2l12 dieser noch vorige zweite halbe Theil des
+#facs_261_r2l13 Oberbeitlichen Getreydes von nun an
+#facs_261_r2l14 bis andere Herbstmonats zu kleinen
+#facs_261_r2l15 Kaufen verstilbert werden sollen.
+#facs_261_r2l16 Welchenenach Ihr Euch zu verhalten.
+#facs_261_r2l17 und über das erlöstende Uns gebührende
+#facs_261_r2l18 Rechnung zu tragen Ihr bestens wißen¬
+#facs_261_r2l19 berdet. Datum den 23. Srachmonat 1797.
+#facs_98_r5l28 en

@@ -1,0 +1,37 @@
+Law ID: BER.01.001.4616
+Name: Zehnd Abschatzungen d. Lands.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 26/26
+# High similarity (>=50%): 25
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_157_r2l18 Ain
+#facs_157_r2l19 die Herren Amtleut zu Königsfelden
+#facs_157_r2l20 Zofingen, Aarburg, thun Schaffnerey, Gott
+#facs_157_r2l21 tait, Nydau Stift, denne so jedel an die
+#facs_157_r2l22 Schaffnerey des großen Spithals
+#facs_157_r2l23 Zehm Abschatzungen d. Lands¬
+#facs_157_r2l24 Schultheiß Räth und Bürger c.
+#facs_157_r2l25 Auf angehörten Vortrag Unserer Fürgeliebten
+#facs_157_r2l26 Miträther
+#facs_157_r3l1 Amt
+#facs_157_r3l2 Königsfelden
+#facs_157_r4l1 309
+#facs_157_r4l2 Miträthen der Herren deutsch Sebelmeister
+#facs_157_r4l3 und Venneren über die heürigen Jahrs durch
+#facs_157_r4l4 Hochgebitter und Überschwemmungen beschä¬
+#facs_157_r4l5 digten Hochoberkeitlichen Betreis Zehnden
+#facs_157_r4l6 und da sich aus denen eingelegten eydlichen
+#facs_157_r4l7 Schatzungen ergeben, daß in Eünrem Amt
+#facs_157_r4l8 2.
+#facs_157_r4l9 die Testehere des Zehndens zu ich
+#facs_157_r4l10 Schaden erlitten, so haben Wir ihnen solchen
+#facs_157_r4l11 gnädigst nachzulaßen geruhet. Deßen
+#facs_157_r4l12 Ihr berichtet werdet, mit Befelch solches
+#facs_157_r4l13 den Zehnd besteheren zu eröffnen, und ihnen
+#facs_157_r4l14 obbemelten Betrag an der Bestands Summ
+#facs_157_r4l15 Datum den 19. den Novemb.

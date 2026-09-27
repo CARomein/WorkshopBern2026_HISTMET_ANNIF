@@ -1,0 +1,24 @@
+BER.01.001.2615
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 15/15
+# High similarity (>=50%): 15
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_114_r2l1 215.
+#facs_114_r2l2 An alle T. Ambtleut
+#facs_114_r2l3 Item Zoffingen und Gotstatt
+#facs_114_r2l4 obsdem
+#facs_114_r2l5 Statthalter undt Raht der Statt Pern. etc.
+#facs_114_r2l6 Auff die gewohnte Zeit habendt Wir die haltung
+#facs_114_r2l7 Dict.
+#facs_114_r2l8 der Capitlen anbefohlen, dich aber bij deiner
+#facs_114_r2l9 pflicht hiemit vermahnen wollen, deines Theils
+#facs_114_r2l10 mit hindensetzung aller anderen Geschäfften
+#facs_114_r2l11 demselben bey zu wohnen, undt ungeschehene
+#facs_114_r2l12 Dapfern handt obzuhalten, daß niemandem
+#facs_114_r2l13 nichts nachgesehen, vndt alles so der Wichtigkeit
+#facs_114_r2l14 den Actis eingebracht werde, Massen gethun¬
+#facs_114_r2l15 wüssen wirst. Bat. 23. Martii 1696.

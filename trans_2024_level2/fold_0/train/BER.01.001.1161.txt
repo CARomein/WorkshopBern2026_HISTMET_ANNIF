@@ -1,0 +1,168 @@
+Law ID: BER.01.001.1161
+Name: Über frywillige Erklärung wegen Zuzugs.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 157/157
+# High similarity (>=50%): 155
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_292_r5l13 Wifflispurg
+#facs_292_r5l14 40
+#facs_292_r5l15 Pettlerlingl Oec. undt Consul
+#facs_292_r5l16 amenthafft
+#facs_292_r5l17 30
+#facs_292_r5l18 affendten
+#facs_292_r5l19 .
+#facs_292_r5l20 60
+#facs_292_r5l21 Romano Hier
+#facs_292_r5l22 40
+#facs_292_r5l23 Milder
+#facs_292_r5l24 40
+#facs_292_r5l25 Vinis
+#facs_292_r5l26 4:
+#facs_292_r5l27 Alen
+#facs_292_r5l28 50
+#facs_292_r5l29 An etliche T. Amplütt zu endt
+#facs_292_r5l30 vernamselt, überfry shillige
+#facs_292_r5l31 erklärung wegen Zuzugs
+#facs_292_r5l32 Schuldtheis etc.
+#facs_292_r5l33 zu mit geringem gnedigem Willen undt gefallen
+#facs_292_r5l34 habendt wir vß unserer Gesandten Widerbringl
+#facs_292_r5l35 angehört, aufgenommen undt verstanden vwere
+#facs_292_r5l36 isine Dyner Ambtsangehörigen In gemein, oder
+#facs_292_r5l37 zu p.Strunde, gutwillige erklär: vndt anerbietung
+#facs_292_r5l38 Zu, undt unserem Standt mit mir Wider vßere
+#facs_292_r5l39 vndt Frömbe, Sonders auch wider Jenige
+#facs_293_r1l1 Unsere Unterthanen, die sich mit ungehorsamme
+#facs_293_r1l2 ungebürlicher Waffens-ergyffung, vnndt
+#facs_293_r1l3 An ander weg gantz vngerijmbt, fräffen vndt
+#facs_293_r1l4 vermaßen, ha vfrürisch erzeigt, vndt sich wider
+#facs_293_r1l5 vns Wider alle gebür vndt Irr schuldige na¬
+#facs_293_r1l6 türliche pflicht vertiefft, lÿb, ehr, gutt vnndt
+#facs_293_r1l7 blutt (da es die noht erfordern wurde)
+#facs_293_r1l8 standtheff, dapffer vndt manhafft zusetzen
+#facs_293_r1l9 Wellend sölliche gutmütige erklärun¬
+#facs_293_r1l10 In zu tragender glegenheitt In gnaden
+#facs_293_r1l11 vndt mit guthertzigem Willen zuerkennen
+#facs_293_r1l12 Syngedenck sein, das wirst dynen Ampts¬
+#facs_293_r1l13 angehörigen, neben anmahnung zur erforder¬
+#facs_293_r1l14 lichen Gerüsthaltung, anberühmen undt
+#facs_293_r1l15 zeuermelden Wüßen, Dich darmit Gott
+#facs_293_r1l16 Wol bevollen datum 29. Maii 1641
+#facs_293_r1l17 Verzeichnus
+#facs_293_r1l18 Der Orten undt Gemeinden Ir als
+#facs_293_r1l19 T. undt W. Landts, welche sich über
+#facs_293_r1l20 Der hern Erengesandten anbringl.
+#facs_293_r1l21 Zue Hilff, Dienstsleistung vnndt
+#facs_293_r1l22 bijserung mitt lijb undt gutt
+#facs_293_r1l23 Wider die bewüßten vffruhrischen
+#facs_293_r1l24 Rebellen ohne anderen Vorbehalten,
+#facs_293_r1l25 willig erklärtt
+#facs_293_r1l26 Thun die Statt
+#facs_293_r1l27 Burgdorff d'Statt
+#facs_293_r1l28 Niversibenthal
+#facs_293_r1l29 Nachts hernach.
+#facs_293_r1l30 Baren die Castlauri
+#facs_293_r1l31 Viederseers
+#facs_293_r1l32 arbirg
+#facs_293_r1l33 Arauw.
+#facs_293_r2l1 Baffingen
+#facs_293_r2l2 Lentzburg d'Statt
+#facs_293_r2l3 Brugo
+#facs_293_r2l4 Biberstein
+#facs_293_r2l5 Schenckenberg das gantze Ampt hatt sich
+#facs_293_r2l6 endtlich Läw ergeben ist aber ungewuß.
+#facs_293_r2l7 Kungsfelden
+#facs_293_r2l8 Im Compt Lentzburg, Sur vndt ander
+#facs_293_r2l9 Gemeinden, vßgenommen, die hernach
+#facs_293_r2l10 vnder dem anderen titul stahndt,
+#facs_293_r2l11 Lauppen
+#facs_293_r2l12 Arberg
+#facs_293_r2l13 Erlach,
+#facs_293_r2l14 Nydauw, Statt vndt die Landtlüht biß an
+#facs_293_r2l15 Die 3. Bmeinden, Worben, Brugg undt
+#facs_293_r2l16 Schwadernauw
+#facs_293_r2l17 Bürer die Stattin allein
+#facs_293_r2l18 Pätterlingen statt undt Ambt
+#facs_293_r2l19 Milen. Statt vndt Ampt
+#facs_293_r2l20 dron
+#facs_293_r2l21 Vieus Statt vndt Landt
+#facs_293_r2l22 Uleu
+#facs_293_r2l23 Lausanna
+#facs_293_r2l24 Morsee.
+#facs_293_r2l25 Neüis
+#facs_293_r2l26 Dferten. N. vide Fol: 281b das oppositum einmahl die Statt
+#facs_293_r2l27 Romanostier
+#facs_293_r2l28 Wiblispurg.
+#facs_294_r1l1 Die aber so sich zwar Zu hilft
+#facs_294_r1l2 Wider vßere findt Willig-Wider
+#facs_294_r1l3 Die Puren ihre mit Vnverthanen
+#facs_294_r1l4 aber nit Willig erklärt sindt
+#facs_294_r1l5 dise.
+#facs_294_r1l6 Ober
+#facs_294_r1l7 Niser S. Sibenthal
+#facs_294_r1l8 Sanen, Rötschmundt, Ösch vnd Rossigniere
+#facs_294_r1l9 Krutingen, Läschi undt Adelboden
+#facs_294_r1l10 Hasle An Seißlandt.
+#facs_294_r1l11 Interlacken
+#facs_294_r1l12 Beide Landtgricht, Sefftigen vnndt
+#facs_294_r1l13 Steruenberg.
+#facs_294_r1l14 Krauwbrunnen.
+#facs_294_r1l15 Landtshutt
+#facs_294_r1l16 Wangen
+#facs_294_r1l17 Bipp
+#facs_294_r1l18 Bewangen darunter Madißwyl mit
+#facs_294_r1l19 Den Herren Wider die Oberkeitt Ziechl
+#facs_294_r1l20 Will, es sye Recht oder mit
+#facs_294_r1l21 Ambt Leutzburg, Grenichen, Panenwyl,
+#facs_294_r1l22 kölligcken.
+#facs_294_r1l23 Ampt Burgdorff Wynigen, Kilchberg
+#facs_294_r1l24 Ersingen
+#facs_294_r1l25 prienispera
+#facs_294_r1l26 Die Landtlicht hinder Büren, undt
+#facs_294_r1l27 etlichen Kinder Nydauw
+#facs_294_r1l28 Schenckenberg Ambt.
+#facs_294_r2l1 An Wiblispurg, Lausanna
+#facs_294_r2l2 Morseé, Neins, Iffendten
+#facs_294_r2l3 Romanostier.
+#facs_294_r2l4 Veräum¬
+#facs_294_r2l5 vndt genemhaltung
+#facs_294_r2l6 Ihrer Willfehrigen erklärung deß
+#facs_294_r2l7 Zuzugs
+#facs_294_r2l8 Schuldtheiß vndt Rhatten etc.
+#facs_294_r2l9 Demnach wir von unserm geliebten Mitrahtn hern
+#facs_294_r2l10 Burckhartt Fischer, vnlengst by die gewesnen Ge-
+#facs_294_r2l11 soff sandten, In güttiger vnserer versammlung ge¬
+#facs_294_r2l12 thanen Relation, angehörtn vndt verstanden, das
+#facs_294_r2l13 Die Vnseren der Statt vndt Landtschafft by die
+#facs_294_r2l14 vff die In unserem Namen von bewüßten
+#facs_294_r2l15 etlicher Vnserer vnderthanen Vnsers Teütschen,
+#facs_294_r2l16 Landts, erzeigten Ungehorsamme vndt daruff
+#facs_294_r2l17 erfolgtens vnwesens, geschechene proposition sich
+#facs_294_r2l18 gutzwillig ohne einiche Exception, zu allein
+#facs_294_r2l19 occasionen sonderlich auch wider die beharliche
+#facs_294_r2l20 .
+#facs_294_r2l21 Rebellen die Gott bekehren, vndt das
+#facs_294_r2l22 Widrigen fahls besorgendes übelli, gnedig
+#facs_294_r2l23 Wenden Welle) erklärt, Wie sichs pfrichtiger
+#facs_294_r2l24 vnderthanen Treuw vndt gehorsam, auch
+#facs_294_r2l25 schuldige pflicht gegen Irer von Gott
+#facs_294_r2l26 gegebnen hohen Oberkeitt, gebüett, dapffer
+#facs_294_r2l27 mit lijb, gutt vndt blutt zu zestahn, & habendt
+#facs_294_r2l28 Wie söliches, zu angenommen, gnedigen wol-
+#facs_294_r2l29 gefallen ufgenommen, undt hiemit mit
+#facs_294_r2l30 Vnderlaßen Wellen, dir zu beuelich, dis vnser
+#facs_294_r2l31 quediges vermögen den ein undt anderen
+#facs_294_r2l32 Döner Erwaltung fürnemlichl aber vnsern lieben
+#facs_294_r2l33 angehörigl der Stets Losanna, anherümmen, undt
+#facs_294_r2l34 dals allersehs Zeuersicheren, daß wir deßen
+#facs_294_r2l35 Jederwyln, neben unserem (gliebts Gott)
+#facs_295_r2l1 Continuierlichem schutz vndt Schirm gegen Inen
+#facs_295_r2l2 auch In Gnaden yngedenck syn Wellindt Gott
+#facs_295_r2l3 mit Inenpittzende, er disere sach ohne andere
+#facs_295_r2l4 Weitherung, stillen, vndt zu verhoffenden
+#facs_295_r2l5 gutten Kindt verleiten wolle. Datum 31. Maß
+#facs_295_r2l6 1640

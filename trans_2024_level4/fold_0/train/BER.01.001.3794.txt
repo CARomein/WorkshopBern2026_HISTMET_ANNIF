@@ -1,0 +1,57 @@
+Law ID: BER.01.001.3794
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 46/46
+# High similarity (>=50%): 45
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_63_r3l18 Ain
+#facs_63_r3l19 Eerlen, Morsee, Neubs, Vivis. 4.
+#facs_63_r3l20 Ergaüber Ställ, Thun und Burgdorf
+#facs_63_r3l21 Sie haben mißfällig vernemmen müssen,
+#facs_63_r3l22 daß ein Gebüses Buch, so zum Titul führet
+#facs_63_r3l23 Les Lettres sur la Religion Essentielle à Chom
+#facs_63_r3l24 dissingue
+#facs_63_r4l1 113
+#facs_63_r4l2 distingue de ce qui n'en est qu'accussoire, hui un
+#facs_63_r4l3 wieder zu Stadt und Land ausgestreutet und debitu¬
+#facs_63_r4l4 werde. Wann nun nach Vorgangener prüstung
+#facs_63_r4l5 es sich erfunden, daß dieses Buch mit Irrigen
+#facs_63_r4l6 und der Gesunden lehr wiederstreittenden -
+#facs_63_r4l7 Meinungen angefüllt ist, als haben Wir aus
+#facs_63_r4l8 Hoche Oberseit c. C. vorsorg, damit niemand dardurch
+#facs_63_r4l9 in Irrthum verleitet werde, solches in Unseren
+#facs_63_r4l10 Städt und Landen alles Ernsts Verbieten wollen,
+#facs_63_r4l11 Belanget demnach Unser Befelch an dich, die
+#facs_63_r4l12 Buchführer und Buchbindere deines Ohrts.fahls
+#facs_63_r4l13 deren wären :/ zu bescheiden und gegenwärtiges
+#facs_63_r4l14 Verbock Ihnen dahin Einzuschärpfen, daß Sie
+#facs_63_r4l15 besagtes Buch, weder heimlich noch offtentlich
+#facs_63_r4l16 beschiben, verbauffen noch beiden sollen, bey
+#facs_63_r4l17 Straft der Confiscation, und 25.50. und 100 Th.
+#facs_63_r4l18 Bueß, auf Erstes, Weyter und Dritzes Übertreiben
+#facs_63_r4l19 ohne schönen von Ihnen zu bezeichen, wovon
+#facs_63_r4l20 dem Verleider der halbe Theil, der andere halbe
+#facs_63_r4l21 Theil aber den Armen Schulbinderen des Ohrts
+#facs_63_r4l22 Zu anschaffung nutzt er Schule Bücheren heimfallen
+#facs_63_r4l23 soll. Damit aber dergl. Schädliche Bücher auch
+#facs_63_r4l24 für das müssige hintertrieben werden mögen
+#facs_63_r4l25 Wirst dir
+#facs_64_r3l1 Wirst du denen Pfarrren deiner Ohrts befehle
+#facs_64_r3l2 von zu Zeit die Buchführer und Buchbinder¬
+#facs_64_r3l3 Däden zu visitieren, Ihre Catalogos und Bürger
+#facs_64_r3l4 Zu durchscheuben, und fahls etwas verdächtiges
+#facs_64_r3l5 entdebet wurde, den verbauff derselben bey¬
+#facs_64_r3l6 Hoch Oberbeitl. Straff und Ungnad zu¬
+#facs_64_r3l7 Interdicieren, und die dem Anckenen dat an
+#facs_64_r3l8 eingesäumte nachricht zugeben, damit solche
+#facs_64_r3l9 Unserem bestellten Schuleraht Communiciert, und
+#facs_64_r3l10 dem Uebel bey Zeiten gesteuret werden kömm
+#facs_64_r3l11 Belch Unsere Verordnung du zur Execution
+#facs_64_r3l12 zu bringen und seines Ohrts Einschreiben
+#facs_64_r3l13 Zu lasen wüsen wirst. Godt mit dir. Datum d.
+#facs_64_r3l14 17th May 1740

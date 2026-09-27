@@ -1,0 +1,89 @@
+Law ID: BER.01.001.3338
+Name: Wegen in Bahnlegung der Provinzen Lionnois, La Bresse und Burgund.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 78/78
+# High similarity (>=50%): 78
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_351_r3l13 An Alle d. und W. Amtsleuth,
+#facs_351_r3l14 4. Stätt, Frey Weibel und Amen
+#facs_351_r3l15 Item per placeard allhier
+#facs_351_r3l16 der Statt
+#facs_351_r3l17 en
+#facs_351_r3l18 Wegen in Bahnlegung der provinzen
+#facs_351_r3l19 Lionnois, Labresse, und Burg
+#facs_351_r3l20 Statthalter Räht und Bürger etc.
+#facs_351_r3l21 In Vnserer der Contagion halb auß¬
+#facs_351_r3l22 gebens getruckten Ordnung vom 2
+#facs_351_r3l23 und 3. Septemb. Lettschen ist in dem
+#facs_351_r4l1 1649
+#facs_351_r4l2 Ersten Articul enthalten, daß wegen
+#facs_351_r4l3 zu Marseilles Gräßierendes Pestilentzischen
+#facs_351_r4l4 Seuchen Aller Handel und Wandel
+#facs_351_r4l5 selbiger Statt und den Vmbliegenden
+#facs_351_r4l6 Provintzen, alß Provence, Languedow
+#facs_351_r4l7 Hauphine und Savoye versagt sein
+#facs_351_r4l8 so daß künftig hin, und biß solches
+#facs_351_r4l9 verbott auffzuheben Unß belieben wird.
+#facs_351_r4l10 alle auß Obspecificierte Orth in
+#facs_351_r4l11 andern hartannende Persohnen, Viech
+#facs_351_r4l12 und waaren keines weges ein, noch
+#facs_351_r4l13 durch gelaßen werden sollen, wann sie
+#facs_351_r4l14 gleich mit Päßen versehen wären
+#facs_351_r4l15 Wann nun die Leydige Nachrichts ein¬
+#facs_351_r4l16 langen, daß dieses verderbliche übel¬
+#facs_351_r4l17 Immer Zuinnet, und sich weitres Auß¬
+#facs_351_r4l18 reitet, alß habend wir auß Landts¬
+#facs_351_r4l19 vätterl. Vorsorg Unß noht getrungen
+#facs_351_r4l20 gesehen, mit ausch mehreren Landshafften
+#facs_351_r4l21 in Frankreich Unßgäntzlichen abzusonderen
+#facs_351_r4l22 Allermaßen, gleich gegen obvergnauiseten
+#facs_351_r4l23 Provintzen vor etwas Zeits beschehen
+#facs_351_r4l24 Also habend wir gegenwärtig Zu
+#facs_351_r4l25 Vnserer allseitigen Sicherheit Unß
+#facs_352_r2l1 entschlossen und Erkennt das aller
+#facs_352_r2l2 handel und Bändel für Menschen
+#facs_352_r2l3 Viech und waaren zwischen Unser
+#facs_352_r2l4 Landes, und der Statt Lyon und
+#facs_352_r2l5 dem Honnesischen Hem zwischen
+#facs_352_r2l6 der Provintz Bresse, wie auch zur
+#facs_352_r2l7 gund biß auff andere Verordnungen
+#facs_352_r2l8 auffgehebt und verbotten sein
+#facs_352_r2l9 solle: Alles Undter den Straffe
+#facs_352_r2l10 und fernerem Inhalt benant un¬
+#facs_352_r2l11 serer in Trunk gegebenen Ordnung
+#facs_352_r2l12 deßen wir dich, gleich gegen allen
+#facs_352_r2l13 anderen Unseren Amtlenthen am
+#facs_352_r2l14 beschicht) benachtichten und zuglen
+#facs_352_r2l15 befehlen wollen, sothane unsere Ver¬
+#facs_352_r2l16 Ordnung zu Mänigl. Nachricht von
+#facs_352_r2l17 Cantzls verkünden, und auch per affictu
+#facs_352_r2l18 an den gewohnten Orthen und sonderl.
+#facs_352_r2l19 auf den Gräntzen anschlagen, auch
+#facs_352_r2l20 deines Theils die Angelegen sein zu
+#facs_352_r2l21 laßen, daß wir nachgemeinen Ob dann
+#facs_352_r2l22 Gantzen Juhalt der Ordnung, also auch
+#facs_352_r2l23 ins besonders ob gegenwärtigen Un¬
+#facs_352_r2l24 serm Einsehen gehalten werde. Wie wir
+#facs_352_r2l25 Unß versehen p. Datum d. 21. Oct. 1720.
+#facs_352_r4l1 1651.
+#facs_352_r4l2 An Alle W. Amthleuth,
+#facs_352_r4l3 Item Grandson. Sepp
+#facs_352_r4l4 Wegen denen Todtschlägeren Beugger und Stahl
+#facs_352_r4l5 Pultheis und Raht etc.
+#facs_352_r4l6 Peter Brügger und Ull. Stähl, deren be¬
+#facs_352_r4l7 schreibung beyliegt, habend in dem Anth
+#facs_352_r4l8 Schwartzenburg an Ull. Stöckli einen
+#facs_352_r4l9 Todtschlag begangen, und sindt Unß, alß
+#facs_352_r4l10 denen das Malefitz der ende zuständig,
+#facs_352_r4l11 mit Leib und Guet zu Erfent worden.
+#facs_352_r4l12 Indenen aber dieselbigen der bestraffung
+#facs_352_r4l13 entlichen und den weithen genommen, Als
+#facs_352_r4l14 berdind Sie die Amtlenth, befelichtet, auf
+#facs_352_r4l15 selbige zu achten, auf betretten einsetzen
+#facs_352_r4l16 und deren Verhafftes Unß verständigen Zu
+#facs_352_r4l17 aßen. Wie zu thu. Dat. d. 17. Decemb. 1720.

@@ -1,0 +1,48 @@
+Law ID: BER.01.001.4325
+Name: Ihnen anbefehlen, die ihnen zukommende getrukte oberkeitl. Mandat nicht einhefften, sondern wörtlich in die Mandatenbücher einschreiben zu lassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 37/37
+# High similarity (>=50%): 36
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_204_r4l9 Shancellerie de Berne
+#facs_204_r4l10 In
+#facs_204_r4l11 Alle Teutsch und Weltsche Herren Amtleuth, Deme
+#facs_204_r4l12 Stifft allhier
+#facs_204_r4l13 Ihnen anbefehlen, die Ihnen zukommende getrubte Oberbeitzen
+#facs_204_r4l14 Mandat nicht einhefften, sondern wörtlich in die Mandaten
+#facs_204_r4l15 Bücher einschreiben zu laßen
+#facs_204_r4l16 Schultheiß und Raht P.
+#facs_204_r4l17 Demnach Uns gebührend vorgestellet worden, wel¬
+#facs_204_r4l18 cher gestalten zuwieder des 2ten artl. jeniger
+#facs_204_r4l19 Ordnung, so wir unseren Amtleuten Teütsche und
+#facs_204_r4l20 Weltcher Landen nach derselben BeEidigung vorle¬
+#facs_204_r4l21 en„ und zugleich Copeylich mittheilen lassen.
+#facs_204_r4l22 Die Mandaten Bücher nicht nach der dardurch¬
+#facs_204_r4l23 vorgeschriebenen Manier, noch nach dem Befelch¬
+#facs_204_r4l24 Unserer Gnädigen Herren und Oberen, von
+#facs_205_r2l1 dem 16ten Juny 1752. continuirt werden; Aller¬
+#facs_205_r2l2 maßen diejenigen Mandat und Befelchen
+#facs_205_r2l3 v durch getrukte Mandat ausgehen, lediger
+#facs_205_r2l4 dingen in die Mandaten Bücher eingeheffnet
+#facs_205_r2l5 werden, daierentgegen solche wörtlichen
+#facs_205_r2l6 darein abgeschrieben werden sollen.
+#facs_205_r2l7 Wie nun Wir nöhtig erachtet, diesem von
+#facs_205_r2l8 nun an ein Einhalt zu thun, als haben Wir
+#facs_205_r2l9 Euch anmit befehlen wollen, gedeutes Man
+#facs_205_r2l10 datene Buch in guter Ordnung, und nach
+#facs_205_r2l11 vorbemelter Vorschrift vom 16ten Juny 1752. zu
+#facs_205_r2l12 halten, und mit einem Register zu versehen
+#facs_205_r2l13 die einkommenden Mandat, so viel nämlichen
+#facs_205_r2l14 solche die Zukunfft betreffen, geflißenlich
+#facs_205_r2l15 einzuschreiben, und keine getrükte Mandat
+#facs_205_r2l16 mehr in sothane Mandaten Bücher einzuheften,
+#facs_205_r2l17 Wie demmnach zu thun, und solches in dem
+#facs_205_r2l18 Mandaten=Buch, zu Eüerein und Eüerer Amts
+#facs_205_r2l19 Nachfahrer verhalt, einschreiben zu laßen,
+#facs_205_r2l20 Ihr bestens wissen werdet. Datum den
+#facs_205_r2l21 20th Novembl. 1771

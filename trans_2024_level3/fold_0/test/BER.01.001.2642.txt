@@ -1,0 +1,33 @@
+BER.01.001.2642
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 24/24
+# High similarity (>=50%): 22
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_138_r2l22 reg.
+#facs_138_r4l1 An die Oberländischen Ambtleut
+#facs_138_r4l2 Amann und Frey Weibel in den
+#facs_138_r4l3 Landtgrichten Sefftigen und Konol
+#facs_138_r4l4 fingen, wie auch Signaulo
+#facs_138_r4l5 Van die Oberländisch, und Oberhoffischen
+#facs_138_r4l6 Mannlächen sollins hingelichen
+#facs_138_r4l7 werden.
+#facs_138_r4l8 Schultheiß und Raht der Statt Bern,
+#facs_138_r4l9 So ist abermahlen die Zeit verflossen, nach welchern
+#facs_138_r4l10 Die Oberläns- und Oberhoffischen Mannlächen pflegendt
+#facs_138_r4l11 hingelichen Zalwerden; Dahero wir Jedermaniglich den
+#facs_138_r4l12 es berühren will, verwahrnen zelassen guetfunden, daß
+#facs_138_r4l13 Sie auf nachgesetzten Tagen an Lint oder anderem Ohrt,
+#facs_138_r4l14 da sie von Handenderung wegen Lächen zuempfahen
+#facs_138_r4l15 hätten, zu Erkandtnus derselben, und abstattung der
+#facs_138_r4l16 schuldigen gebuhr mit den Lächenbrieffen der letzten
+#facs_138_r4l17 empfaheren verfasst sich ohnfahlbahrlich in guter morgen
+#facs_138_r4l18 Zeit einsindnis, bey vermeidung Oberkeitlicher Straff
+#facs_138_r4l19 uns Verwürckung der Lochen, dir hiemit gleich anderen
+#facs_138_r4l20 Ambtleuten befehlende, solches zur nachricht hinder
+#facs_138_r4l21 Deinem Ambt von Cantzlen verbunden zelassen
+#facs_138_r4l22 l
+#facs_138_r4l23 Dat 15 Aprilis 1697.

@@ -1,0 +1,81 @@
+Law ID: BER.01.001.2393
+Name: Sollind Gewehr visitiren undt musteren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 70/70
+# High similarity (>=50%): 69
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_432_r4l35 Chancillerie Berne
+#facs_433_r2l1 Collaten
+#facs_433_r2l2 7
+#facs_433_r2l3 Tvüllmeister
+#facs_433_r2l4 mit zu gantzen
+#facs_433_r2l5 ompagnoy.
+#facs_433_r2l6 sondern den vier
+#facs_433_r2l7 auch
+#facs_433_r3l1 An Alle T. vndt W. Ambtläuth
+#facs_433_r3l2 4. Stätt Freybeibel Vndt Ammann
+#facs_433_r3l3 Sollim gelochr visitiren undt unster¬
+#facs_433_r3l4 Schuldtheis undt Raht der Statt Bern,
+#facs_433_r3l5 Wir mögend nit wüßen, ob daß Exercitium
+#facs_433_r3l6 den gewehren fleißig wie sein soll, verrichtet
+#facs_433_r3l7 Werde, Vndt obwohlen wir von keinem findlichen Formis
+#facs_433_r3l8 vorhaben wüßen, so haben wir dennoch in Behertzigung
+#facs_433_r3l9 dß mahliger geschitt in der gefährlichen Leüffen höchst
+#facs_433_r3l10 ohtwendig sein erachtet, der Kriegs Ybungen mit
+#facs_433_r3l11 zuvergeßen: Derwegen Wie dir gleich gegen anderen
+#facs_433_r3l12 Vnseren Ambtleüthen hiemit anbefohlen haben, wolle
+#facs_433_r3l13 mit allem Eifer Vndt Ernst vndt ohne Zeit Verluest,
+#facs_433_r3l14 Daran zu sein vndt zu verschaffen, daß die auszüger
+#facs_433_r3l15 Rödel ergäntzet, Undt das Exerciren der Mann:
+#facs_433_r3l16 schafft so wohl als der auszügeren ins gemein
+#facs_433_r3l17 fleißig undt Eiferig getrieben Vndt Verrichtet
+#facs_433_r3l18 vorde, aber ohne Trommen undt pfeiffen.
+#facs_433_r3l19 aller Stille nämlich durch die Commiss der Communes
+#facs_433_r3l20 auff die Weiß vndt Form Wie solches durch
+#facs_433_r3l21 Vnseren Kriegsraht hievor ist außgeschriben
+#facs_433_r3l22 undt anbefohlen worden: zu welchem Ende
+#facs_433_r3l23 Dan du die ohne Verzug angelegen sein laßen solten
+#facs_433_r3l24 Teulmeisteren Statt die etwas
+#facs_433_r3l25 von der Jenigen Commisses
+#facs_433_r3l26 abgestorben weren, oder sonsten ermanglen möchten
+#facs_433_r3l27 andere zu bestellen Vndt zu verordnen: Es sollen auch
+#facs_433_r3l28 die gebuhr vndt munition ins gemein¬
+#facs_433_r3l29 bey deinen Teuwren Ampto Pflichten
+#facs_433_r4l1 811.
+#facs_433_r4l2 Vndt füenemlich auch der auszügeren Vndt des genfischen
+#facs_433_r4l3 succurses II Exacte visitirt, die befindliche mängel nach er¬
+#facs_433_r4l4 forderen ohne Verzug verbeßeret, vndt mit Vndt andere solches
+#facs_433_r4l5 Jethun ernstlich angehalten, zu dem End die Jenigen, so mit gewehren
+#facs_433_r4l6 mit Versehen, von denen so du noch von Zeüghauß har hinder dir haben,
+#facs_433_r4l7 magst, bewehrt gemacht, darvon das gelt bezogen Vndt Vnseren
+#facs_433_r4l8 Zeügherren Vberschikt Vndt zugleich die Manschafft ins gemein
+#facs_433_r4l9 Und darunder fürnemblich auch die Außzüger Vndt summes Völker
+#facs_433_r4l10 nemblich dahin erneüweret und vermahnt werden, daß Sie auff
+#facs_433_r4l11 allen zutragenden fahl zu marchiren, stündtlich gernst und parat
+#facs_433_r4l12 seyen, Waß du nun Wirst Verrichtet haben, Wie die visitation
+#facs_433_r4l13 abgeloffen, Wie mit vndt andere im exerciren sich erzeigt Was
+#facs_433_r4l14 Vor Mängel befunden, Vndt ob vndt Wie Weit solche Verbeßert
+#facs_433_r4l15 worden, deßen solte Vns auff Christ specificirlich vnd vmbständlich
+#facs_433_r4l16 berichten: als wir vns ernstlich versehen haben, wollend
+#facs_433_r4l17 Datum 18. Febr. 1688.
+#facs_433_r4l18 [die Parenthesin Wirt ins Tentschland außgelaßen]
+#facs_433_r4l19 An die Ammann und Freywegbel
+#facs_433_r4l20 des Abzugs so in Ihren Bezirken falt das Kauffhaus
+#facs_433_r4l21 zu verständigen.
+#facs_433_r4l22 Schuldtheis vndt Raht etc.
+#facs_433_r4l23 Nots Nachdeme wie Wegen der Abzugs, so von denen auß Vnseren Lande
+#facs_433_r4l24 zenhenden Mittlen Vns gebührt, die nohtdurfft vberlegen, vndt befindnuß
+#facs_433_r4l25 und widerbringen laßen, habend wie von mehrer richtigkeit wegen
+#facs_433_r4l26 befonden, daß derselbe auß des Vier Landtgrichten Vndt Kilch Spählen
+#facs_433_r4l27 führohin in Vnserem Kauffhanß abgestattet werden solle, welcher Wir
+#facs_433_r4l28 auch erkent Undt die hiemit befohlen haben wollend, wan sich der fahl
+#facs_433_r4l29 zutragt, daß in deinem Bezirk von Jemandem Mittel weggezogen
+#facs_433_r4l30 werden wollen, deßen Vnsere Kauffhaus Verlösere bey demem Eydt
+#facs_433_r4l31 zu verständigen, undt das keines Wegs zu übergehen, damit der
+#facs_433_r4l32 schuldige abzug fleißig bezogen vnd zu unseren Handen verrechnet worden
+#facs_433_r4l33 Patl. 4. Febr: 1688.

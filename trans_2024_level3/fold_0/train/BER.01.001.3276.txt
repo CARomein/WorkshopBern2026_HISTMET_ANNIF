@@ -1,0 +1,138 @@
+Law ID: BER.01.001.3276
+Name: Wegen Verenderung der Transit Patenten in Consignes.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 127/127
+# High similarity (>=50%): 126
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_216_r3l14 An alle Teütsche und Woltsche
+#facs_216_r3l15 Cambtleuth, so die Zoll Commission
+#facs_216_r3l16 Verzeigen werden, wegen
+#facs_216_r3l17 VerEnderung der Fransit
+#facs_216_r3l18 Patenten in Consignes
+#facs_216_r3l19 Schultheiß Räth und Bürger der Stadt Börn
+#facs_216_r3l20 Hir habendt zwar durch unsere ha¬
+#facs_216_r4l1 40.
+#facs_216_r4l2 vorige Mandat verordnet, daß alles
+#facs_216_r4l3 äußere Gedreidt und Wein, so per Transit:
+#facs_216_r4l4 durch unser Landt für andere Ohrth ge¬
+#facs_216_r4l5 führet wirdt, anderß nicht durchgelaßen,
+#facs_216_r4l6 berden solle, als Verwickelst einer
+#facs_216_r4l7 Transit Patent von unserem täglichen Rath,
+#facs_216_r4l8 Weilen sich aber destwegen viel schwärigkeiten
+#facs_216_r4l9 Ereügen und wie auch sonderlich gewähret,
+#facs_216_r4l10 daß diesere ich ihren ein andere und außer¬
+#facs_216_r4l11 Route genommen, und hiemit umb so viel
+#facs_216_r4l12 Unseren Zollstäcken abgangen. Als habendt
+#facs_216_r4l13 Wir zu erleichterung der sach Unsere
+#facs_216_r4l14 hievorige Verordnung dahin gemilteret,
+#facs_216_r4l15 Daß die Transit Patenten in Consignet bey
+#facs_216_r4l16 den Zollstädten abgeenderet werden sollen;
+#facs_216_r4l17 Jehdoch in der nachfolgenden Procautionen
+#facs_216_r4l18 Erstlich soll auf den Gräntzen deß Landts
+#facs_216_r4l19 durch Affiches publiciert und kund ge¬
+#facs_216_r4l20 machet werden, daß was an fremden
+#facs_216_r4l21 Gedreidt und wein durchgeführet wer¬
+#facs_216_r4l22 den bill, getreüblich Consigniert werde,
+#facs_216_r4l23 und zwar bey straff der Confiscation
+#facs_217_r3l1 Vnsere Gemachte Ordnung wieder die jänige
+#facs_217_r3l2 Studiosos, so ohne Handt aufflegung und behörigen
+#facs_217_r3l3 Gevalt die offentlichen Cantzlen besteigen, überschreibe,
+#facs_217_r3l4 Welchen aber wir seithero auch verstanden, daß
+#facs_217_r3l5 Unseren hietorigen Ordnungen Zwieder die Saffra¬
+#facs_217_r3l6 ganten von den Classen selbsten Erwöhlet, oder recto
+#facs_217_r3l7 Von Unß gefordert werdend, Anstadt selbe
+#facs_217_r3l8 zugeben Euch zu stehen thuze; Als habendt wir
+#facs_217_r3l9 an alle unsere Classen W. Landts destwegen
+#facs_217_r3l10 ablauffen laßen, was Copeyliche Einlaag an
+#facs_217_r3l11 sehend diesen Puncten, und mehreren mit
+#facs_217_r3l12 führet, welches wir Euch hiemit gleichmeßig
+#facs_217_r3l13 communicieren. dat. 28. febr 1719.
+#facs_217_r3l14 an alle Teütsche und woltsche
+#facs_217_r3l15 Ambtleuth, so die Zoll Commission
+#facs_217_r3l16 verzeigen werden wegen
+#facs_217_r3l17 VerEnderung der Fransit
+#facs_217_r3l18 Patenten in Consignes
+#facs_217_r3l19 Schultheiß Räth und Bürger der Stadt Börn
+#facs_217_r3l20 Hir habendt zwar durch unsere hie¬
+#facs_217_r4l1 40.
+#facs_217_r4l2 vorige Mandat verordnet, daß alles
+#facs_217_r4l3 Rein, oo per Transit,
+#facs_217_r4l4 äußere Gedreidt.
+#facs_217_r4l5 durch unser Landt für andere Ohrth ge¬
+#facs_217_r4l6 führet wirdt, anderß nicht durchgelaßen,
+#facs_217_r4l7 berden solle, als vermittelst einer
+#facs_217_r4l8 Transit Patent von unserem täglichen Rath;
+#facs_217_r4l9 Weilen sich aber deßwegen viel schwärigkeiten
+#facs_217_r4l10 Erengen und wie auch sonderlich gewähret,
+#facs_217_r4l11 daß diesere einfahren ein andere und außere
+#facs_217_r4l12 Route genommen, und hiemit umb so viel
+#facs_217_r4l13 Unseren Zollstädten abgangen, Als habendt
+#facs_217_r4l14 Wir zu erleichterung der sach Unsere
+#facs_217_r4l15 hievorige Verordnung dahin gemilteret,
+#facs_217_r4l16 daß die Transit Patenten in Consignes bey
+#facs_217_r4l17 den Zollstädten abgeenderet werden sollen,
+#facs_217_r4l18 Jehdoch in der nachfolgenden Praecactionen
+#facs_217_r4l19 Erstlich soll auff den Gräntzen deß Landts
+#facs_217_r4l20 durch Affiches publiciert und kund ge
+#facs_217_r4l21 machet werden, daß was an fremden
+#facs_217_r4l22 Gedreidt, und wein durchgeführet ver¬
+#facs_217_r4l23 In bill, getreüblich Consigniert werde
+#facs_217_r4l24 und zwar bey straff des Confiscation
+#facs_218_r2l1 mit nur deß durch führenden Korns
+#facs_218_r2l2 oder winns selbsten, sondern der Pferdt
+#facs_218_r2l3 und wagen, wie auch besser Leibes straff.
+#facs_218_r2l4 Zum Anderen. Bey jeder begebenheit, da
+#facs_218_r2l5 man dergleichen Frändt Getreidt oder neu
+#facs_218_r2l6 Bey dem Eingang Consigniert, soll der Zoll Commis¬
+#facs_218_r2l7 deß Ersten Bureau Nicht allein den Zoll¬
+#facs_218_r2l8 Comissen beym Außgang des Landts vor¬
+#facs_218_r2l9 läufig advisieren, sondern auch den fuhr¬
+#facs_218_r2l10 Mann ein Accestatum deß Getreidts oder
+#facs_218_r2l11 weins, auch deß Ohrts, wo es wiederumb an
+#facs_218_r2l12 dem Landt gehen soll, zu geben schuldig seyn,
+#facs_218_r2l13 /: so fürglich durch Gedrubt Zedul. Geschehe
+#facs_218_r2l14 kan) welche nachberts bey der Außfuhr
+#facs_218_r2l15 zurukbehalten, und zur Verification und
+#facs_218_r2l16 Controlle dem Ersten Holl=Comiss wieder zurub=
+#facs_218_r2l17 gesenden sein werden, umb zusehen, ob mehr
+#facs_218_r2l18 ins Landt, als daraus geführet werden
+#facs_218_r2l19 sey? Worneben dann auch den Fuhr¬
+#facs_218_r2l20 man selbsten bey der Ausfuhr des
+#facs_218_r2l21 Landts von den Comiss Ein attestatum
+#facs_218_r3l1 405.
+#facs_218_r3l2 zuertheilen sein wirdt, damit bey seines
+#facs_218_r3l3 Auskunfft, Er solche dem Zoll Comiss.
+#facs_218_r3l4 beym Eingang verweisen könne.
+#facs_218_r3l5 all
+#facs_218_r3l6 Und damit dißfahls mögliche Vorsehung
+#facs_218_r3l7 genommen werde, daß kein der gleichen
+#facs_218_r3l8 fraundes getreidt oder Wein, und er dem
+#facs_218_r3l9 Vorwandt deß Transits in dem Landt Ver¬
+#facs_218_r3l10 bleibe, so habendt wir in sehrneren
+#facs_218_r3l11 Beyzufüegen gutfunden, daß die ZollComi¬
+#facs_218_r3l12 ssen unsern Ambtleüthen, finder welchen
+#facs_218_r3l13 Sy sich befinden, Alle Moneth; Unser Zoll¬
+#facs_218_r3l14 aller aber, so oft sy es verlangen wirdt,
+#facs_218_r3l15 schuldig seyn sollen, den Bericht abzustatten.
+#facs_218_r3l16 Was an frändem Wein und Getreidt
+#facs_218_r3l17 eine
+#facs_218_r3l18 für den Transit consigniert worden.
+#facs_218_r3l19 Endtlichen dann soll den Kuhrleüthen auch
+#facs_218_r3l20 verbotten seyn, dergleichen waaren in
+#facs_218_r3l21 Ihrem Transit an keinem Ohrt abze¬
+#facs_218_r3l22 laden Es seye dann etwan in den Hales oder
+#facs_218_r3l23 verte
+#facs_218_r3l24 Bureaux
+#facs_219_r2l1 Undt gleich wie Ansere bestellte Teutsch
+#facs_219_r2l2 und Beltsche ZollCammer die Leobachtung
+#facs_219_r2l3 dieser neuben Verordnung Ihren
+#facs_219_r2l4 bestellten Zoll=Comissen anbefohlen wirdt,
+#facs_219_r2l5 Als habendt wie Nothwendig erachtet,
+#facs_219_r2l6 /: gleich Gegen anderen Ambtleüthen :/ daß
+#facs_219_r2l7 hebenachrichtigen umb dich darnach Ein¬
+#facs_219_r2l8 zerichten wüßen. datum 10. febr. 1719.

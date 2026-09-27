@@ -1,0 +1,47 @@
+BER.01.001.2734
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 38/38
+# High similarity (>=50%): 37
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_259_r4l1 zo 505
+#facs_259_r4l2 In die 4. argölo: Stätt, Item aöngefelten
+#facs_259_r4l3 Scheinkenberg, Wangen, Arlangen, Ripp, Röydaulo,
+#facs_259_r4l4 Düren, Erlach, Viblispurg, Petterlingen, Ifferten
+#facs_259_r4l5 Romainmostier, Worsen, Neübes, Ahlen,
+#facs_259_r4l6 Chillion, Lausanne, Trachselwaldt und
+#facs_259_r4l7 ontzburg
+#facs_259_r4l8 Wegen Hindertribung daß frömbden
+#facs_259_r4l9 Bättelgsindts und Soldaten
+#facs_259_r4l10 &c
+#facs_259_r4l11 Schultheiß und Raht der Statt Bern.
+#facs_259_r4l12 Hir habens zwar schon zum öffteren, sonderlich
+#facs_259_r4l13 ber noch underem 5. Julij jüngsthin Unser wider
+#facs_259_r4l14 das Statt und Landtbeschwährliche vmbherschweiffen
+#facs_259_r4l15 deß tmützen bättelysindts, wie auch der hin und
+#facs_259_r4l16 wiederzeüchenden Handtwerckegsellen und Soldaten
+#facs_259_r4l17 halb außgeschribenes einsehen zu ernsthaffter hande
+#facs_259_r4l18 obhaltung widerholet und erfrischet; müssend aber
+#facs_259_r4l19 dennoch verspühren, daß solch heilsammer vorschung
+#facs_259_r4l20 eint und anderer Ohrten nicht mit genugsammen
+#facs_259_r4l21 eyffer nachgelebt, sondern solche beschwärliche
+#facs_259_r4l22 schwärmer und bätler an den grantzen ins
+#facs_259_r4l23 Landt gelassen wertindt; Wann nun verlauten
+#facs_259_r4l24 ser Abdankung der Soldaten wir die Unserigen
+#facs_259_r4l25 von solch empfindt- und gefährlichen last gebe;
+#facs_259_r4l26 freyen, und das Landt darvon geseüberin vest
+#facs_260_r3l1 gemeint, als wollendt wir dir, gleich
+#facs_260_r3l2 anderen Unseren granten Ambtleüten
+#facs_260_r3l3 nochmahlen alles ernsts befohlen
+#facs_260_r3l4 haben, die underem 5ten Julii. letsthin
+#facs_260_r3l5 bemelt Umnützen bättely sindts undt
+#facs_260_r3l6 Arbeit scheüchenen handtwerckerg sollen auch
+#facs_260_r3l7 Soldaten halb anbefohlene wegweisung
+#facs_260_r3l8 und anstalten fleissig beobachte
+#facs_260_r3l9 delassen, und daß selbigen unablässig
+#facs_260_r3l10 nachgelebt werde, steiffe Handt obgehalten:
+#facs_260_r3l11 Alassen geschehen werde, Wir Unß versehen
+#facs_260_r3l12 haben wollendt. Dat. 8. January 1700.

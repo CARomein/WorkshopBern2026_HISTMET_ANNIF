@@ -1,0 +1,45 @@
+Law ID: BER.01.001.4239
+Name: Wegen Publication der Geltstagen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 34/34
+# High similarity (>=80%): 4
+# Low similarity (<80%): 30
+# Not found: 0
+#
+#facs_5_r2l1 An
+#facs_219_r5l3 alle Teütsche H. Amtleüth, 4. Städt, Freyweibel und Ammann
+#facs_99_r3l11 Beibel und Ammann, item Schbarzenburg, Granson
+#facs_247_r1l6 Collat. Schultheiß und Raht
+#facs_141_r6l16 Secification der Entwendten Effecten
+#facs_181_r3l11 Stadthalter und Rath etc.
+#facs_176_r2l14 zung, Unser deutschen Appellation, Cammer die Be¬
+#facs_33_r4l11 Rahts der Vortrag beschehen, was gestalten durch¬
+#facs_167_r4l23 seyn solle, Einichen Teütsch und oder beltschen Landbein¬
+#facs_167_r4l24 so und erhero dem Amt Thun gebachsen, beder in Unse
+#facs_166_r5l25 berichten, um davon die gemessene Wüßenschaft zu
+#facs_131_r3l5 ein Doppel zu seinem Verhalt zuzustellen; Maßen die
+#facs_107_r4l12 Nachricht ertheilet. Damit nun Niemand Unserer
+#facs_110_r2l19 rigen zu Stadt uns Land erforderlichen Nachen,
+#facs_130_r2l8 Haben Hochdieselben den besagten über das Breithfeld,
+#facs_62_r5l9 Ahrenmacher de Caen, welche Sich allhier im
+#facs_168_r4l4 die widerhandlende behöriger maßen Unserem Amte
+#facs_66_r3l6 ein dergleichen Doppel wird gefunden werden.
+#facs_251_r5l23 lichst zu verordnen, daß dieses letzt ausgegang¬
+#facs_41_r2l10 auf allbereit in unseren Landen beschehen
+#facs_170_r4l29 laßen werden solle, alle diejenigen Instrument, so an
+#facs_8_r3l7 durch öffentliche Publication und Verbündung von
+#facs_5_r5l1 5.
+#facs_181_r5l7 Pfeiler und Cänzel hiesiger Haubtstadt
+#facs_33_r4l21 Lieben angehörigen hierdurch verhoffentlich erschießenden
+#facs_239_r2l10 Nöhtige Arbeit gemacht werden solle; auch
+#facs_161_r4l12 Dessen Er H. Amtsmann berichtet werde, mit befelch
+#facs_149_r3l3 Wir Eüch befehlen, hinter Eüerem Amt (oder bezirte) die
+#facs_41_r3l14 Menschen von den Lästern der Anreinigkeit
+#facs_188_r10l21 Predigten darnach einzurichten, hernach aber die Steür¬
+#facs_175_r3l21 Jedermanns Nachricht von Canzlen verlesen zu laßen
+#facs_95_r5l14 Die Freybeibel und Ammau. sepp.
+#facs_177_r3l22 nigliche Nachricht öffentl. von Canzlen verlesen zu las¬
+#facs_107_r4l20 chen zu laßen. Dat. d. 20ten Aug. 1763.

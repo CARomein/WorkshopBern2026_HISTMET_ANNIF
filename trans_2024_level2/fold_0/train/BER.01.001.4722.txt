@@ -1,0 +1,33 @@
+Law ID: BER.01.001.4722
+Name: Getreid Verkauf, und Ergänzung des Kriegs Vorraths, im Deütschen Land.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 22/22
+# High similarity (>=50%): 22
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_161_r3l1 Getreid Verkauf,
+#facs_161_r3l2 und Ergänzung des Kriegs Vorraths im
+#facs_161_r3l3 Deutschen Land.
+#facs_161_r3l4 an
+#facs_161_r3l5 alle deutsche Herren Amtleut und Schafnare
+#facs_161_r3l6 da Obrigkeitl. Getreid ligt.
+#facs_161_r3l7 Schultheis Räth und Burger,
+#facs_161_r3l8 Auf den Uns von Unserer verordneten
+#facs_161_r3l9 lentschen Venner Kammer und Korn kammer
+#facs_161_r3l10 erstalten Vortrag, haben Wir erkennt:
+#facs_161_r3l11 daß vor allem aus der Kriegs Vorrath
+#facs_161_r3l12 Vermitelst Aufschüttung des behaltlichsten
+#facs_161_r3l13 Getreides ergänzt werden solle.
+#facs_161_r3l14 sodann auch die zweyte Hälfte der Sommer¬
+#facs_161_r3l15 und samtlichen Winterfrüchten unter den
+#facs_161_r3l16 gewohnten Vorstorgen und zu kleine
+#facs_161_r3l17 Kaufen bis den 15ten Herbstmonat nächst¬
+#facs_161_r3l18 künftig nach und nach im lauffenden Preis
+#facs_161_r3l19 abgestoßen, und darfür gebührende Recht
+#facs_161_r3l20 nung getragen werden solle; Wie zu
+#facs_161_r3l21 thun und zu verenstalten Ihr bestens wißen
+#facs_161_r3l22 werdet. Datum den 29ten May 1793.

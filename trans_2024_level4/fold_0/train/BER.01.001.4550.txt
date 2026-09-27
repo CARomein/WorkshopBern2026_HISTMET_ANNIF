@@ -1,0 +1,135 @@
+Law nr: BER.01.001.4550
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 123/123
+# High similarity (>=80%): 119
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_107_r6l20 Alle 7. Amtleute, 4. Städt. Freyweibel und
+#facs_23_region_1633454616028_2913l1 An
+#facs_107_r6l22 Befolgung der Ordnungen zu Abhaltung des
+#facs_107_r6l23 schwelgens an den heil. Comuniant. Tagen
+#facs_107_r6l24 auf dem Land.
+#facs_107_r6l25 Schultheiß und Rath 5 da Wir mit Anlieb
+#facs_107_r6l26 vernehmen müßen, daß besonders seit
+#facs_107_r6l27 einiger Zeit in unseren Landen sich zu
+#facs_107_r6l28 träge, daß vornehmlich an dem Heil. Com¬
+#facs_107_r6l29 munions=Tagen, das Landvolle sich
+#facs_107_r6l30 häufig in die Währts und Pinten.
+#facs_107_r6l31 =schenk.
+#facs_104_r1l1 200
+#facs_128_r2l20 solle.
+#facs_196_r2l3 o
+#facs_108_r3l1 schenkhäuser begebe, unmäßig schwelge und
+#facs_108_r3l2 strinke, die Festtage auf übertriebene
+#facs_108_r3l3 Art entheilige und allgemeines Ärger¬
+#facs_108_r3l4 niß erweke, so befehlen Wir Euch,
+#facs_108_r3l5 auf diese unzuläßlichen Anordnung,
+#facs_108_r3l6 in Euerem Amt fleißig zu achten und
+#facs_108_r3l7 denen Wirthen und Pintenschenken alles
+#facs_108_r3l8 Ernsts die genaue Gefolgung der dis¬
+#facs_108_r3l9 orts vorhandenen Satz und Ordnung
+#facs_108_r3l10 anzubefehlen. Dat. den 11. Juny 1784
+#facs_83_r3l6 en
+#facs_21_region_1633454506260_2871l1 Un
+#facs_108_r3l12 Laupen, Oberhofen, Aarberg, Wangen
+#facs_108_r3l13 Aarldangen Sep
+#facs_108_r3l14 Erinnerung, die pflichtmäßige Berichte
+#facs_108_r3l15 über die Beschaffenheit der Landstraße
+#facs_108_r3l16 fer T. Zollkamer jährlich einzusenden
+#facs_108_r3l17 Schultheiß und Rath 3 Unseren Amt.
+#facs_108_r3l18 leuten ist bey ihren Eyden eingebun¬
+#facs_108_r3l19 den, Alljährlich die Pflichtmäßige B
+#facs_108_r3l20 richte einzusenden über die Beschaf¬
+#facs_108_r3l21 fenheit der Landstraßen P da nur
+#facs_108_r3l22 solches für diß Jahr von Euch noch nicht
+#facs_108_r3l23 beschehen, so tragen Wir Euch befelch¬
+#facs_108_r3l24 lich auf, den Bericht der Land Straße
+#facs_108_r3l25 Euers Amts Unserer verordneten
+#facs_108_r3l26 Teutschen Zollkammer mit aller Befür¬
+#facs_108_r3l27 derung
+#facs_128_r2l20 solle.
+#facs_108_r6l1 209
+#facs_108_r6l2 derung einzusenden, und in Zukunft Eüe¬
+#facs_108_r6l3 er disorts aufhabenden Pflicht ein¬
+#facs_108_r6l4 gedenk zu seyn. Dat. 14. Juny 1784.
+#facs_23_region_1633454616028_2913l1 An
+#facs_108_r6l6 alle Claßen Welschen Landet, denne a
+#facs_108_r6l7 die Accademie zu Lausanne
+#facs_108_r6l8 Einem äussert dem Land sich befin¬
+#facs_108_r6l9 denden Impositionaire so eine ver¬
+#facs_108_r6l10 ledigte Pfarrey anvertraut wird,
+#facs_108_r6l11 befohlen, in Zeit 6. Monat bey der
+#facs_108_r6l12 selben sich einzufinden
+#facs_111_r1l23 Uns
+#facs_36_r3l7 Schultheiß und Rath
+#facs_108_r6l15 Unserer Claß Lausanne und Ritis
+#facs_108_r6l16 in Ehrerbietung vorgestelt worden
+#facs_108_r6l17 Das massen zum öfftern sich ereign
+#facs_108_r6l18 daß für verledigte Pfarreyen solche
+#facs_108_r6l19 Impositionnaires vorgeschlagen, und da
+#facs_108_r6l20 aufhin erwehlt werden, welche äußert
+#facs_108_r6l21 Lands sich befinden; vermitlest deßen
+#facs_108_r6l22 aber solche Pfarreyen, da dergleichen
+#facs_108_r6l23 neüser bl. Pfarrer nicht halten noch lange
+#facs_108_r6l24 Zeit abloesend verbleiben, während
+#facs_108_r6l25 liefer Zeit ohne Pfarrer sein, und
+#facs_108_r6l26 durch gemeine Impositionaires vor¬
+#facs_108_r6l27 stehen werden müßen, die aber ge¬
+#facs_108_r6l28 iglich nicht, oder wenigstens nur
+#facs_87_r3l17 Auf
+#facs_63_r4l1 119
+#facs_109_r2l1 aufeine sehr kurze Zeit auf dem Oct
+#facs_109_r2l2 wohnen.
+#facs_109_r2l3 Wann Wir nun diese Uns gethane
+#facs_109_r2l4 ehrerbietige Vorstellungen von aller Er¬
+#facs_109_r2l5 heblichkeit = mithin der Nothwendigkeit
+#facs_109_r2l6 zu seyn befunden, daß diesem Miß
+#facs_109_r2l7 brauch Inhalt gethan, und diesem nach
+#facs_109_r2l8 vorgebogen werde, das dergleichen
+#facs_109_r2l9 an Lands abwesende Impositionaires
+#facs_109_r2l10 vergebende Pösten nicht wie biß hin
+#facs_109_r2l11 Ein geschehen, allzu lang ohn besetzt
+#facs_109_r2l12 verbleiben, so haben Wir zu diesem
+#facs_109_r2l13 End für das künftige festgesetzt
+#facs_109_r2l14 und verordnet, daß in hinkönftigen
+#facs_109_r2l15 dergleichen Fällen, da einem äußert
+#facs_109_r2l16 Lands sich befindlichen Impositionaire
+#facs_109_r2l17 eine verledigte Pfarrey untertrunter
+#facs_109_r2l18 wird, eine Zeit von 6. Monaten be¬
+#facs_109_r2l19 stimmt seyn soll, binnen welcher er
+#facs_109_r2l20 sich auf seiner Pfarrey einfinden
+#facs_109_r2l21 und daselbst seine Pastoral fonctio
+#facs_109_r2l22 nen selbsten versehen, hiebey aber
+#facs_109_r2l23 während dieser seiner Abwesenheit
+#facs_109_r2l24 der Posten auf seine eigene Umbösten
+#facs_109_r2l25 versehen werden soll? Dessen Ihr
+#facs_109_r2l26 berichtet werdet, mit dem Befehl, die
+#facs_109_r2l27 se Unsere Verordnung zu hinkäuf
+#facs_109_r2l28 -tiger
+#facs_128_r2l20 solle.
+#facs_100_r2l1 soll.
+#facs_7_r4l1 21
+#facs_109_r6l2 tiger genauer Befolgung der selben
+#facs_109_r6l3 seines Orts kund zu thun, auch sol¬
+#facs_109_r6l4 bige behörigen Orts nachrichtlich
+#facs_339_r3l15 Schreiben
+#facs_53_r3l4 1784.
+#facs_23_region_1633454616028_2913l1 An
+#facs_70_r2l22 alle T: und W. Herren Amtleut, 4
+#facs_115_r2l20 FreyWeibel und Amann
+#facs_109_r6l10 Ernd Ferien
+#facs_242_r6l7 Wir haben die heurigen Herbst
+#facs_4_r8l9 a
+#facs_109_r6l13 10. July biß 10. July nächst könftig be¬
+#facs_109_r6l14 stimmt, und befehlen Euch, während dieser
+#facs_109_r6l15 Zeit keine andere dann nothdringende
+#facs_109_r6l16 Geschäfte, vor uns und Unsere verord¬
+#facs_109_r6l17 nete Cameren und Tribunalien gelau¬
+#facs_109_r6l18 gen zu laßen. Dat. den 18ten Juny 1784

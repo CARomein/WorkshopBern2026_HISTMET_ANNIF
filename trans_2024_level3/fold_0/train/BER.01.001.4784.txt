@@ -1,0 +1,178 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 171/171
+# High similarity (>=80%): 164
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_246_r1l1 1478.
+#facs_4_r3l2 Verordnung.
+#facs_15_r2l9 betreffend das durch hiesige Lande gehende Transitgut
+#facs_164_r3l12 Wir Schultheiß und Rath der Stadt und Republik
+#facs_15_r2l11 Inru, entbieten allen Untern lieben und Ge¬
+#facs_15_r2l12 treuen Angehörigen, zu Stadt und Land
+#facs_5_r3l1 Unsere gnädigen und geneigten Willen, und geben
+#facs_15_r2l14 und wollen ihnen hiedurch bekannt machen;
+#facs_15_r2l15 daß wir Uns genöthiget stehen den vielen
+#facs_15_r2l16 Unordnungen vorzubeugen, welche mit dem
+#facs_15_r2l17 durch Unser Land gehenden Transitgut
+#facs_15_r2l18 vorgehen. Damit nun darjenige fremde
+#facs_15_r2l19 Gut, so sein Transit Recht verlohren hat,
+#facs_15_r2l20 und im Lande verbleiben soll, nicht wieder
+#facs_15_r2l21 ausgeführt, auch die einheimischen Lebens
+#facs_128_r4l11 Premier
+#facs_16_r5l1 25
+#facs_10_r3l1 13
+#facs_15_r4l2 Bedürfniße aus diesem Vorwande aus dem Lande
+#facs_15_r4l3 geführt werden, haben die verordnet, was sie nach
+#facs_15_r4l4 folget
+#facs_15_r4l5 Von den Transit = Scheinen.
+#facs_13_r3l1 19
+#facs_15_r4l7 Alles transitirende Getreide, Mehl oder
+#facs_15_r4l8 Beis, so wie alles was aus Getreide, Mahl oder
+#facs_15_r4l9 Reis verfertiget worden, soll mit Scheinen
+#facs_15_r4l10 von der hohen Obrigkeit des Orts, wo die
+#facs_15_r4l11 Waare hingeht, versehen seyn
+#facs_15_r4l12 Die Pferde Vinslaare und andere Leben¬
+#facs_15_r4l13 bedürfniße, deren Ausfahr verbotten ist,
+#facs_15_r4l14 tollen mit einem Transit schein von derjenigen
+#facs_15_r4l15 Obrigkeit verstehen seyn, von Wannen die Waaren
+#facs_15_r4l16 herkommt; den Pferden und großen über
+#facs_15_r4l17 jährigen Viehwaare dann annoch eine Beschreibung
+#facs_15_r4l18 ung, wesen Alter und Farbe, und wie viel in
+#facs_15_r4l19 der Zahl sie sich befinden, beygefügt werden
+#facs_15_r4l20 Es sollen aber die in der Eilgenoßenschaft
+#facs_15_r4l21 ertheilten Transit. Scheine stets mit den
+#facs_15_r4l22 Stands- Siegel verwahret seyn
+#facs_15_r4l23 Consigné-Zedel.
+#facs_15_r4l24 Ist die Waare mit den behörigen transit.
+#facs_15_r4l25 in
+#facs_15_r4l26 Scheinen verstehen, und bey dem Eintritt
+#facs_237_r3l27 Lande
+#facs_11_r1l1 14.
+#facs_7_r2l1 3
+#facs_16_r3l1 Land als Transit angegeben worden; so soll
+#facs_16_r3l2 der Zoll-Commis der Eintritts = Zollstatt selbiger
+#facs_16_r3l3 einen Constigne = Zedel für das Austritts,, Büriän
+#facs_16_r3l4 ertheilen
+#facs_16_r3l5 Obliegenheit auf der Ronte im Land.
+#facs_16_r3l6 Unterwegs soll der Führer und der Fuhr
+#facs_16_r3l7 mann von der im Consigne-Zedel verzeigten
+#facs_16_r3l8 Marschraute nicht abweichen, sein Wahr
+#facs_16_r3l9 ohne Aufenthalt fortführen, und der
+#facs_16_r3l10 Fuhrmann dieselbe nirgends als in den
+#facs_16_r3l11 öffentlichen Ablaghäusern abladen,
+#facs_16_r3l12 ansonsten seine fortführende Waaren¬
+#facs_16_r3l13 nach Vorschrift der Strausit Ordnung
+#facs_16_r3l14 von 1768 mit der Confiscation zu be¬
+#facs_16_r3l15 lagen ist
+#facs_16_r3l16 1.) Transitirende Lebwaare soll ebenfalls
+#facs_16_r3l17 ohne Aufenthalt durch das Land geführt
+#facs_16_r3l18 werden, ansonsten sie gleichmäßig unter
+#facs_16_r3l19 der Vorschrift des 5ten und 6ten Artikals li
+#facs_16_r3l20 gen soll; es wäre denn Sach, daß selbige
+#facs_16_r3l21 im Lande erkranken würde, welches aber
+#facs_16_r3l22 durch authentische Zeugniß der vorgesetzten
+#facs_16_r3l23 des Orts, woste liegen verblieben, be¬
+#facs_16_r3l24 Jeiniget
+#facs_16_r4l1 scheinget werden solle.
+#facs_30_r1l1 50.
+#facs_16_r4l3 Wann die transitirende Waare bey ihrem
+#facs_16_r4l4 hintritt ins Land mit keinem oder mit einem
+#facs_16_r4l5 ungültigen Transit-Schein versehen ist; wann
+#facs_16_r4l6 selbige nicht als Transit Waare bey ihren
+#facs_16_r4l7 Eintritt in das Land angegeben wird; wann selbige
+#facs_16_r4l8 ferner mit keinem Constigne-Zedel von dem Ein¬
+#facs_16_r4l9 tritts Büreau verstehen worden, wann endlich
+#facs_16_r4l10 Transit-Waare, während ihrem Transit oder
+#facs_16_r4l11 Aufenthalt in den Kaufhäusern der Landes
+#facs_16_r4l12 den Eigenthümer ändert; so soll diese Waaren
+#facs_16_r4l13 nicht mehr als Transit gut angesehen werden.
+#facs_16_r4l14 sondern im Lande verbleiben, und darinn
+#facs_16_r4l15 verkauft und nicht mehr ausgeführt werden
+#facs_16_r4l16 obwohlen bewiesen werden kann, daß diese
+#facs_16_r4l17 waare von außen ins Land gekommen.
+#facs_16_r4l18 6.) Wann also dergleichen Waare, die ihr
+#facs_16_r4l19 Transit. Recht verlohren hat, und nicht mehr
+#facs_16_r4l20 aus dem Lande gelaßen werden soll, in
+#facs_16_r4l21 dem Lande an einen Äußeren verkauft
+#facs_16_r4l22 würde; wann selbige ausgeführt, oder aus¬
+#facs_16_r4l23 zuführen versucht wird, so soll die Waaren
+#facs_16_r4l24 confiscirt = und der Fehlbare annoch mit einer
+#facs_16_r4l25 Buße von dem Werth der Waare belegt werden
+#facs_84_r4l27 =Wie
+#facs_16_r5l1 25
+#facs_17_r1l1 26
+#facs_40_r1l1 70
+#facs_17_r3l1 wie Wir Uns denn vorbehalten, bey standiren
+#facs_17_r3l2 oder andern beschwerenden Umständen den Fehl
+#facs_17_r3l3 baren körperlich zubestraffen
+#facs_17_r3l4 ) die Schiffahrt = Ordnungen für den Genfer¬
+#facs_17_r3l5 und Bieler, den vom 12t Novemb: und 11t. Decemb.
+#facs_17_r3l6 1793. eben wie die Getreid-Transit. Ord.
+#facs_17_r3l7 nung vom 3ten Hennonat 1794 verbleiben
+#facs_17_r3l8 in voller Kraft, und sollen sich auch auf die
+#facs_17_r3l9 jenigen Waaren ausdehnen, welche aus
+#facs_17_r3l10 Getreide, Mühl, oder Beis verfertiget
+#facs_5_r5l11 werden
+#facs_17_r3l12 Hingegen sind die darin enthaltene
+#facs_17_r3l13 strafen durch die General = Ausfuhr = Ver¬
+#facs_17_r3l14 ordnungen abgeändert worden, so daß in
+#facs_17_r3l15 allen Fällen, wo vorbemeldte Schissahrt¬
+#facs_17_r3l16 und Tran sit = Ordnungen die Ausfuhr = Strafe
+#facs_17_r3l17 anordnen, selbige nach der Vorschrift der
+#facs_17_r3l18 leztern Verordnung vom 3ten Decemb. 1794.
+#facs_17_r3l19 bestimmt und vertheilt werden sollen.
+#facs_17_r3l20 die Vollziehung und das Richter
+#facs_17_r3l21 Amt in erster Instanz dieser Unserer
+#facs_17_r3l22 Verordnung wird Unserer Wohlverord¬
+#facs_17_r3l23 neten Polizey-Kammer für die Stadt
+#facs_17_r3l24 und deren Bezirk, auch die Landgrichte
+#facs_17_r4l26 die
+#facs_98_r5l28 en
+#facs_17_r4l1 27.
+#facs_17_r4l2 die unter keinem Amtsmann stehen; in den
+#facs_17_r4l3 Aemtern aber unsern Amtleuten aufge¬
+#facs_17_r4l4 tragen
+#facs_17_r4l5 In allen Fällen aber, da Waaren arrestirt
+#facs_9_r7l15 werden, soll immer ein Verbal errichtet:
+#facs_17_r4l7 und Uns eingestendet werden, damit Wir entsche-
+#facs_17_r4l8 den mögen, ob die Waare los gelassen werden
+#facs_17_r4l9 solle oder nicht; es wäre denn Dach, daß solcher
+#facs_17_r4l10 nur Kleinigkeiten betreffen würde
+#facs_17_r4l11 Ist die arrestirte Waare von solcher Natur,
+#facs_17_r4l12 daß selbige bis zu Beendigung des Prozesses
+#facs_17_r4l13 sich aufzehren oder sonsten Schaden leiden
+#facs_17_r4l14 brünte, wird dem Richter überlaßen, nach
+#facs_17_r4l15 den Umständen selbige öffentlich versteigern
+#facs_17_r4l16 zulaßen, und das erlößte Geld in Verwahr¬
+#facs_17_r4l17 ung zu behalten.
+#facs_17_r4l18 Ist der Eigenthümer im Lande angeseßen,
+#facs_17_r4l19 so kann die dem Schaden ausgestezte Waare
+#facs_17_r4l20 gegen hinreichende Bürgschaft für den ganze
+#facs_17_r4l21 Werth, verabfolget werden.
+#facs_17_r4l22 die Urtheile sie mögen removirt werden.
+#facs_17_r4l23 oder nicht, sollen immerdar uns zugestandet
+#facs_17_r4l24 werden, damit Wir selbige nach den Umständen
+#facs_17_r4l25 bestätigen oder abändern können.
+#facs_139_r3l26 lieu
+#facs_18_r1l1 28
+#facs_18_r2l1 Die Confiscationen und dessen sollen in
+#facs_18_r2l2 frey gleiche Theile getheilt werden, wovon
+#facs_18_r2l3 zwey drittel dem Verleider, unter Ge
+#facs_18_r2l4 Heimhaltung seines Namens, und ein
+#facs_18_r2l5 drittel den Armen des Orts, wo der
+#facs_18_r2l6 Fehler begangen worden, zukommen
+#facs_18_r2l7 sollen
+#facs_18_r2l8 Welcher zu Jedermanns Verhalt be¬
+#facs_18_r2l9 kannt gemacht wird, mit dem Befehle
+#facs_18_r2l10 an alle Ober- und Unter-Beamtete
+#facs_18_r2l11 Zoll = Commissen und Inspektoren
+#facs_18_r2l12 auf Handhabung gegenwärtiger
+#facs_18_r2l13 Verordnung genau zu wachen, und
+#facs_18_r2l14 die Fehlbaren ohne Ansehen der
+#facs_18_r2l15 Person und ohne Schonen dem gebühren¬
+#facs_18_r2l16 den Richter anzuzeigen.
+#facs_257_r3l4 Geben den
+#facs_229_r4l4 Landeron
+#facs_98_r5l28 en

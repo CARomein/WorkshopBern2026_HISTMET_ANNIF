@@ -1,0 +1,363 @@
+Law nr: BER.01.001.0044
+Name: Wietrunng unnd christennliche Verbessrung in Sachenn der ungepürlichenn Zinnsenn, Khöuffenn, unnd Verkhöuffenn, von Schultheissen Kleinenn unnd Grossenn Rättenn der loblichen Stat Bern in Üchtlannd irenn Unnderthanenn zu Gutem unnd Lyterunng unzimlicher Beschwärdenn angesächenn.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_479
+# Matched: 352/352
+# High similarity (>=50%): 350
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_115_r1l1 Miltrunng vnnd Christennliche verbesserung
+#facs_115_r1l2 In sachenn der Vngepurlichenn zinnsenn
+#facs_115_r1l3 khönffenn, vnnd verkhöuffenn, von
+#facs_115_r1l4 Schultheissen kleinenn vnnd grossenn
+#facs_115_r1l5 Ost im Druck
+#facs_115_r1l6 Lattenn der loblichen Stat Veru In
+#facs_115_r1l7 Aufgänglichen
+#facs_115_r1l8 Löchtlanne, Irenn vnnderthanenn
+#facs_115_r1l9 zu gutten vnnd bybermug, vnzim¬
+#facs_115_r1l10 licher befthwardenn an¬
+#facs_115_r1l11 gesachenn
+#facs_115_r1l12 In der Schultcheis klein vnnd groß Rat,
+#facs_115_r1l13 So mannempt die zwoyhunndert der Stat
+#facs_115_r1l14 bern, Thund khuund allermennigklich hie¬
+#facs_115_r1l15 mit Demnach wir vf sondern vnuerdien¬
+#facs_115_r1l16 tenn pruadenn, Gottes, vnnd bericht suis heil¬
+#facs_115_r1l17 samenn worts zu Etwas Erckhamitnuß vnn¬
+#facs_115_r1l18 ser selbst khomenn vnnd daruff Ettlich
+#facs_115_r1l19 misbruch, vnnd vngegrunnt vergäblich gots
+#facs_115_r1l20 dienst (wie man die genempt hat, Ouch
+#facs_115_r1l21 zu pflanntzunng Christennlicher bruder¬
+#facs_115_r1l22 liche liebi, vnnd Ersannkeit, vil vnmuthor,
+#facs_115_r1l23 besthwärlicher vnordnungenn abgestellt.
+#facs_115_r1l24 vnnd verbessert, lut vnnser vfganngner
+#facs_115_r1l25 Manudatenny vnnd reformation dabey vnus
+#facs_115_r2l1 187
+#facs_115_r2l2 Erpottenn nach vnnd nach alles hindan zetund,
+#facs_115_r2l3 So gott vnnd Christeunlicher liebi widrig, ende
+#facs_115_r2l4 Wir nu betrachtet, wie dann biß har grosser be¬
+#facs_115_r2l5 trug, vnnd bestchwarlickeit den armenn In Stat
+#facs_115_r2l6 Unne Lanne mit schouffenn verkhauffenn
+#facs_115_r2l7 marcktenn, vnnd unzimlichenn zinnsenn begeg¬
+#facs_115_r2l8 wt, dadurch Gij vnndertruckt, vnnd zu ver¬
+#facs_115_r2l9 derbenn gericht, habenn wir als Ein Christen¬
+#facs_115_r2l10 liche vnnd ordennliche Oberckert zu abstellung
+#facs_115_r2l11 sollicher vngepurlicher sachenn Ein Insächen
+#facs_115_r2l12 gethan, vnnd darinne etwas bijdenmlicher mi¬
+#facs_115_r2l13 tell gesucht, vnnd int vntraglich masscgunng
+#facs_115_r2l14 befunndern In form wysz vnnd gestabletenn,
+#facs_115_r2l15 als hernach vollget.
+#facs_115_r2l16 Annd namlich des erstenen wiewol tuangplische
+#facs_115_r2l17 volckommennheit, wo wir mit got labenn woll¬
+#facs_115_r2l18 tennt, von vnns vruordert wirt, die wir aber
+#facs_115_r2l19 zue soundre gnad gottes nit mogen Erlangenn
+#facs_115_r2l20 vnnd allso vß Christennlicher liebi Je Einer dem
+#facs_115_r2l21 annderum putts, triuw, vnnd fruuntlickent, am
+#facs_115_r2l22 hoffnunng der widergeletuung, bewysenn sollt,
+#facs_115_r2l23 die wyl aber (pot Erbarme) vnnser blödickeit so
+#facs_115_r2l24 grossz, vnnd der Kipenn nutz, ouch ettlicher lute
+#facs_115_r2l25 Dontruw souil vberhannd genomenn, das aus zer
+#facs_116_r1l1 trennung Christennlicher Einigkeit sollich be¬
+#facs_116_r1l2 schwardenn nit wol mogennt alleincklich vff
+#facs_116_r1l3 gehept wordenn harumb so lassenn wirs bo¬
+#facs_116_r1l4 sers furzeckhomenn, beschachenn, das man ab¬
+#facs_116_r1l5 lösig pfennig zinns moye khouffenn, wie das
+#facs_116_r1l6 bischar gebrucht ist, nämlich das einer mit
+#facs_116_r1l7 zweunthig pfunnerenn houptgute tius, vnnd
+#facs_116_r1l8 mit hunndert pfunndenn funffe Järlicher ab¬
+#facs_116_r1l9 lösiger zinnß, vnnd nit mer, wol mocht machenn,
+#facs_116_r1l10 Doch mit geitterm vorbehalt, das In sollichem
+#facs_116_r1l11 kein genare, betrug, noch arglistigkeit ge¬
+#facs_116_r1l12 brucht würde,
+#facs_116_r1l13 dit namenn, das die, so sollich ablösig Järlich
+#facs_116_r1l14 zinns schouffenn wollennt, sollichs mit barem
+#facs_116_r1l15 gelet thuemit, Aleso, das Sy nit pfrunwert
+#facs_116_r1l16 noch schulldenn, oder vervallenn vß stoúnd, Zinß
+#facs_116_r1l17 gult zu zinnß schlachinnt, daruon kein stehen¬
+#facs_116_r1l18 cki, mixt noch gab namunt, Sonnders sich allein
+#facs_116_r1l19 des gepurlichenn gruns benuginnt
+#facs_116_r1l20 Zum anndernn, das sich Ein Jeder mit dem pfen¬
+#facs_116_r1l21 nig zinns Erfettigenn lasse vnnd gauntje
+#facs_116_r1l22 vnnd gar niemants vff lixemde stuck, so
+#facs_116_r1l23 Jarlich frucht bringenn, als acker mattenn,
+#facs_116_r2l1 188
+#facs_116_r2l2 räbenn rtt vthit vmb zinnen, oder sunst lyche, fur
+#facs_116_r2l3 setze, noch gäbe, vnnd allso den Järlichenn mith
+#facs_116_r2l4 daruon name, Ob glyck wol söllichs fruchtbaren¬
+#facs_116_r2l5 de stuck zu vunderpfannd Ingesetht, vnd vmb
+#facs_116_r2l6 zinns vnnd houptgut hafft waermit sol doch
+#facs_116_r2l7 der Vßlychennd, oder zinnß Khöuffer sich des pe¬
+#facs_116_r2l8 Puerlichenn pfennig zinnß benugenn vnnd der Jär¬
+#facs_116_r2l9 lichenn mithnung der vnnderpfaimderum ganntz¬
+#facs_116_r2l10 vnnd gar müssigem
+#facs_116_r2l11 Sum drittenn, Sol der zinns schöuffer dem verkou¬
+#facs_116_r2l12 Offer kern zil steckenn die losumig zethund, noch
+#facs_116_r2l13 Inn zu der ablosnung zwningenn, sonder das houpt¬
+#facs_116_r2l14 gut vßligenn lassenn als lannig der zinnßgabe
+#facs_116_r2l15 den zinnen Järlichenn nach vermogen der verstehry¬
+#facs_116_r2l16 bunng vßrichtet, Es ware dann sach das der
+#facs_116_r2l17 verkouffer die Ingesetztenn vnn der pfännder ver¬
+#facs_116_r2l18 khouffenn oder sumst vertrybenn wollte, Oder der
+#facs_116_r2l19 maß hußhielte, das zebesorgenn das der khouffer¬
+#facs_116_r2l20 hienach sins houptguts vnnd zinnsse int sichec
+#facs_116_r2l21 wäre, Elleann mag Er die vnndertfännder an¬
+#facs_116_r2l22 gryffenn, die vergauntenn vnnd verckhouffenn
+#facs_116_r2l23 mit oder ane racht, wie dann die versthrybunng dat
+#facs_116_r2l24 zupibt, was Er aber vf sollichenn vnnderspfäundern
+#facs_116_r2l25 wber sin houptput zinns vnnd zimlichenn costenn
+#facs_116_r2l26 lofte, sol Er dem, des die vnnderpfaunder gewäsen,
+#facs_116_r2l27 Hinuß gäbenn
+#facs_117_r1l1 Is Ist ouch lutter beredet, unnd beschlossenn, das
+#facs_117_r1l2 die, so pelet vins zinnß vffbrechennt Denen
+#facs_117_r1l3 die Inenn sollichs leihennt gut sicher gnugsam
+#facs_117_r1l4 fry ledig vnntrik humbert vnnderpfaimder die
+#facs_117_r1l5 tochin niemants hafft Syennt Insethennt is
+#facs_117_r1l6 beschäche dann mit wiessenn gunst, vnnd ver¬
+#facs_117_r1l7 williguung des lechenndenn, doch sol der ver¬
+#facs_117_r1l8 thöuffer dem Schöuffer sollichs Eigemitlich
+#facs_117_r1l9 anvigenn was vnnd wienit vff sollichenn
+#facs_117_r1l10 vnndersfaimdernn vorhin stannden Alles nach
+#facs_117_r1l11 besag vnnser Staten sathunng, die allso lutet
+#facs_117_r1l12 Ist prordnet verkommen, vnnd angesachenn,
+#facs_117_r1l13 das nun hinfur niemannt/ Ein gut mer dann
+#facs_117_r1l14 Einem fur fry ledig Eigenn solle versethenn
+#facs_117_r1l15 verpfänndenn, oder versthrybenn, Es besthäche
+#facs_117_r1l16 dann mit des Erstenn Erloubenn gunst
+#facs_117_r1l17 Wussenn vnnd willenn, Unne wöllicher dat
+#facs_117_r1l18 wider thun, vnnd sich das vff Inn wurde
+#facs_117_r1l19 erfinndenn, derselb sol vmb sin betrugenheit
+#facs_117_r1l20 von der Etat Ein lannetman vom lanne faxen
+#facs_117_r1l21 vnnd ein ganntn Jac vsserthals sin vnnd bey
+#facs_117_r1l22 stenn, ouch vnnß zu vnnser Stat hanndenn
+#facs_117_r1l23 zu straff zächenn gulden gäbenn, Vnnd darzu
+#facs_117_r1l24 nach vfganng des Jare nit mer In die Stat,
+#facs_117_r1l25 oder lanne khomenn, Er habe dann vorhin den
+#facs_117_r1l26 so Er geschädiget, vnnd betropenn hat, unclag¬
+#facs_117_r1l27 hafft gemacht, Im dae verseth't verthoufft
+#facs_117_r1l28 oder verpfennet gut gefryet vnnd gelediget
+#facs_117_r2l1 189
+#facs_117_r2l2 Ouch vnns die geordnet straff behallet, vnnd vergoeten,
+#facs_117_r2l3 Ob onch Iemant den anndernn
+#facs_117_r2l4 In
+#facs_117_r2l5 sollichom so hoch
+#facs_117_r2l6 Unnd schwarlich betriegenn
+#facs_117_r2l7 hädigenn, vnnd wec¬
+#facs_117_r2l8 furenu, Das vnnß anndrer straff not sijn bedunn¬
+#facs_117_r2l9 kenn wurde, alldann wöllemit wir vnnß vorbe¬
+#facs_117_r2l10 haltenn habenn, dieselbenn straff zeuereunsu¬
+#facs_117_r2l11 ordnenn vnnd zuhanndlenn, allzyt nach vnnserm
+#facs_117_r2l12 gefallenn.
+#facs_117_r2l13 Auver belann gennd die ablößgenn Ehernenn, Wey¬
+#facs_117_r2l14 henn, Roggenn, Dinnckell, Haber, winxullt
+#facs_117_r2l15 vnnd zinns, vnnd annder derplychenn, des der
+#facs_117_r2l16 nounsth gelabenn mag, so mit gellt Erckaufft,
+#facs_117_r2l17 Da aber Je nach fruchtbarckert, vnnd mißgewächs
+#facs_117_r2l18 Jedes Jars, am petreyt vff vnnd ab padt vnd aber
+#facs_117_r2l19 die, so söllich gullet vnnd zinns. Erckaufft, lut
+#facs_117_r2l20 Ir brieff vnnd sigell zu allenn zyttenn glycken
+#facs_117_r2l21 bezallt wollemit sin, das getreydt sie thur oder
+#facs_117_r2l22 Wollfoyl, Das doch vnns vnbillich bedunckt, als
+#facs_117_r2l23 Es ouch Ist, Harmus wir mit diser vnnser Er¬
+#facs_117_r2l24 thanntnuß, solliches wölle mit abgestellt, vnnd
+#facs_117_r2l25 versächenn habenn, gepiettennt vnnd verpiettent
+#facs_117_r2l26 hieruff, Das niemants der vnnstoun vberall, wie
+#facs_117_r2l27 die namenn hannd hinfur gar kein khoon, win¬
+#facs_117_r2l28 noch annder derplijckenn ablöstig zullt vnnd zinnss,
+#facs_117_r2l29 uit machtenn, khouffenn, noch anlexhenn söllennt
+#facs_118_r1l1 noch mogennt wer derohalb so hivuor-pema:
+#facs_118_r1l2 het, vnnd trothoufft sinne wollount unnd oc¬
+#facs_118_r1l3 duenn wir, dae furwerthin sollich frucht, Es
+#facs_118_r1l4 sie thorn haber wyn mollchenn annckenn vnd
+#facs_118_r1l5 dergelijchenn des der mönnsch geläbenn muß,
+#facs_118_r1l6 int mer, sounders allein pfennix zimuß nach
+#facs_118_r1l7 march zal vnnd xviir des houptguts wie
+#facs_118_r1l8 lb hir wenn geluttert, vnnd bestcheijdenn Ist
+#facs_118_r1l9 gäbenn, vnnd vsgericht sollennt wordenn
+#facs_118_r1l10 biß vff gepurliche losnung
+#facs_118_r1l11 Inne damit frömbdenn vnnd heimsthenn gleichs
+#facs_118_r1l12 vnnd billichs In disem val begegne So habent
+#facs_118_r1l13 wie angesuchenn, Das sich mennigklich der mit
+#facs_118_r1l14 den vnnsernn, oder die vnnserm mit den frömb-
+#facs_118_r1l15 denn zehanndlenn habennt gepechlich dise
+#facs_118_r1l16 ordnung haltrunt, vnnd dero gestragks nach:
+#facs_118_r1l17 gannginnt, damit die heimsthenn vnnd
+#facs_118_r1l18 frombdenn glijch gelete vnnd racht syn
+#facs_118_r1l19 Damit aber der alltenn versthoybungenn
+#facs_118_r1l20 vnnd brieffennhalb darinne obernempt
+#facs_118_r1l21 ablösig zinns vnnd zullt vergriffenn kern
+#facs_118_r1l22 soan, Jerunng vnnd missuerstanne Erwachst,
+#facs_118_r1l23 So lassennt wir geschächenn, Das zu merck
+#facs_118_r1l24 sicherheit, vmb so blich ablösig pfenning zinnß,
+#facs_118_r1l25 miw zinnßbrieff, In des zinns göuffere
+#facs_118_r1l26 costenn vffgericht, damit die zinnß der
+#facs_118_r1l27 fruchtenn gaunth abpethan wardinnt Doch
+#facs_118_r2l1 190
+#facs_118_r2l2 soe der zinnß sthulediger vmb das sigele bittenn,
+#facs_118_r2l3 Ob aber der zumß Empfacher, vnnd gäber, die
+#facs_118_r2l4 alltenn brieff blybenn lassenn wöllennt wir das
+#facs_118_r2l5 uit abschlachenn, Souere vff sollich brieff ge¬
+#facs_118_r2l6 schribenn würde, das hinfur der Jarlich pfen¬
+#facs_118_r2l7 nig zinnß nach gepur des houptguts namlich
+#facs_118_r2l8 tonne göblich sijn
+#facs_118_r2l9 Ober der vervallnenn vß staundenn, vnbezaletem
+#facs_118_r2l10 ablösiger Korn, wyn, vnnd anndrer Fruchtenn zin¬
+#facs_118_r2l11 senn halb, wolleunt wir, das bestheydennheit da
+#facs_118_r2l12 rinne, die Zubezalenn, gehalltenn warde, Namlich
+#facs_118_r2l13 nach dem pmeinenn louff der Jarenn, darinn
+#facs_118_r2l14 die vervallenn sinnen
+#facs_118_r2l15 Is Ist aber hieby zeuerstan, das wir gierum
+#facs_118_r2l16 uit wölleunt vergriffenn, sonders lutter vor¬
+#facs_118_r2l17 behalltenn habenn, die Ewigenn vnablösigenn
+#facs_118_r2l18 herrnn, primum vnnd bodenn zinns, die von den
+#facs_118_r2l19 Erb lacham, hanne lächenn, vnnd tignenn zu¬
+#facs_118_r2l20 tterni haeruremt, vnnd gabenn Wardemit also
+#facs_118_r2l21 Das dieselbigenn aus Intrag, widerred vnnd sum¬
+#facs_118_r2l22 nus hinfur, wie von albter har v s. gericht, vnnd
+#facs_118_r2l23 gabenn sollennt wärdenn, vnnd niemants die ablö¬
+#facs_118_r2l24 Inn, oder abkhouffenn mogen an gehal, verwilli¬
+#facs_118_r2l25 gung vnnd somnders pfallenn, des lächenn, vnne
+#facs_118_r2l26 zinnen herrnn
+#facs_119_r1l1 und damit die zinnßherrnn sollicher Irer
+#facs_119_r1l2 vnablösiger zinnsenn vnnd gulletruu dest si
+#facs_119_r1l3 hier kennt, Wo sy sich der alletenn brieffen,
+#facs_119_r1l4 siglenn vrbernn rodlenn, gwarsame, vnnd ge
+#facs_119_r1l5 werdenn, die doch In Irenn Ehrefftenn be¬
+#facs_119_r1l6 stan sollennt, uit wölltennt benüggenn vnnd
+#facs_119_r1l7 behelffenn, So Ist vnnser Exckhanntnuss,
+#facs_119_r1l8 das die lechenn vnnd zinnßgerenn, Ire
+#facs_119_r1l9 lächenn vnnd zinnslut anhalltenn mogennt
+#facs_119_r1l10 das sy by Irenn tijdenn, vnnd verlierunng
+#facs_119_r1l11 Leens gewerd die stuck vnnd putter, daras
+#facs_119_r1l12 sollicher bodennzinns godt, an gäbenn sollent
+#facs_119_r1l13 unnd mijssennt, vnnd darumb mir brieff
+#facs_119_r1l14 Erber vnnd rödell, In des zinns herrnn costen
+#facs_119_r1l15 Doffgericht mogennt wordenn.
+#facs_119_r1l16 Vnnd als dann vil vnnd manncherley geuär¬
+#facs_119_r1l17 denn betrux, vortheijl, vnnd ungepurlich ver¬
+#facs_119_r1l18 khommussenn, die wider gottlich vnnd natu¬
+#facs_119_r1l19 lich racht sind, In khouffenn, verkhouffen,
+#facs_119_r1l20 vnnd marcktenn besthrichennt, damit der ge-
+#facs_119_r1l21 mein man zu verderplichem schadenn gerichtet
+#facs_119_r1l22 wirt, Es sije das Einer dem anndern vff
+#facs_119_r1l23 beyt borg, zie vnnd tag etwas zekhouffenn
+#facs_119_r1l24 gipt, lycht, fursetht, oder sunst mercktet vnd
+#facs_119_r1l25 abte uursthath daruff, schlicht, Also, Das
+#facs_119_r1l26 der verkauffer oder lycher vorbehaltett, Das
+#facs_119_r1l27 der Khouffer, oder Runtlecheunder Im souil
+#facs_119_r2l1 191
+#facs_119_r2l2 als Es In aller thurunng vff disum oder auem tag
+#facs_119_r2l3 giletet, gäbenn mus, wollennt wir schlechtlich ge¬
+#facs_119_r2l4 hept han, Das sollichs hinfice nit mec gebrucht war:
+#facs_119_r2l5 de sounders das alles, das einer dem aundern ver
+#facs_119_r2l6 khoufft, lycht oder fursocht bezallt vnnd wider
+#facs_119_r2l7 golltenn Wardenn In dem werdt, als Es was, Es
+#facs_119_r2l8 Is verckhoufft, oder furgesetht ward, vnnd allß
+#facs_119_r2l9 In dem marckt die summa des schouffs angennds,
+#facs_119_r2l10 benampset, dadurch wijttrer wucher vnnderlassen
+#facs_119_r2l11 waren
+#facs_119_r2l12 Wir wollenn vnnd ordnenn auch hiemit, das die
+#facs_119_r2l13 ordnungenn So wir des schädlichenn fürkouffs
+#facs_119_r2l14 halb hievor vfgan lassenn, In Irenn Ehrefften
+#facs_119_r2l15 bestaundrunt, vnnd denenn gestragks pelapt, vnd
+#facs_119_r2l16 nach khomenn werde,
+#facs_119_r2l17 So denne des Rynisthenn golds vnnd Khronennhalb
+#facs_119_r2l18 dwyl denselbenn stets vffgat, vnnd gesteygert wirt
+#facs_119_r2l19 zu grossvin nachteyl dero, so söblichs vffbrechenn
+#facs_119_r2l20 Ist hieruff vnnser will vnnd meinung, das die
+#facs_119_r2l21 vunsern hinfur fur Einenn Rynisthenn pulldin
+#facs_119_r2l22 an gold, den Zezumsenn, oder abzelösenu, nit mer¬
+#facs_119_r2l23 gäbenn noch namenn, dann Sächszächenn, vnnd
+#facs_119_r2l24 Ein schwyth hallbrnn sth wyt zerbathenn, fur Ein
+#facs_120_r1l1 Ehrenenn zwenntzig zwen vnnd Ein halben betzen.
+#facs_120_r1l2 der souil vnnser munth vnnd warumigen Doch
+#facs_120_r1l3 die Frömbdenn die nit in vnnsern laundenn
+#facs_120_r1l4 Dennu gesiettenn gesässenn sinnd hierum un
+#facs_120_r1l5 uergriffenn, Sonnders Ire versthrybungen,
+#facs_120_r1l6 brieff unnd sigell des pynisthenn golds vnd
+#facs_120_r1l7 thronenn hals vorbehalltenn, vnnd denselben
+#facs_120_r1l8 ane abbruch, Allso das ein jeder dem ann
+#facs_120_r1l9 dernn die zinnuß des rynisthenn solds, vnnd france
+#facs_120_r1l10 rechischer fhrouenn, vor dato dis brieffs vff¬
+#facs_120_r1l11 gelouffenn, nach besag brieff vnnd sich lenn
+#facs_120_r1l12 Vfrichte aber hienach sollich vnnd dec¬
+#facs_120_r1l13 gleichenn verkhommussenn, vnnd verscheybun¬
+#facs_120_r1l14 genn nit mer besthachenn
+#facs_120_r1l15 und damit In uffrichtning vnnd besig¬
+#facs_120_r1l16 Alunng der ablösigenn zinns brieffenn dest
+#facs_120_r1l17 Besiglen Mö.
+#facs_120_r1l18 minnere vallsth vnnd betrug geboucht würde,
+#facs_120_r1l19 allein die, so des
+#facs_120_r1l20 kleinen undt
+#facs_120_r1l21 So wollenn wir, Das furohin niemannts sol:
+#facs_120_r1l22 großen Rahts
+#facs_120_r1l23 lich In vnnser Staten deru versiglenn solle,
+#facs_120_r1l24 sind
+#facs_120_r1l25 Dann vnnser Schultheis, die Rat vnnd bur¬
+#facs_120_r1l26 ger, wie von allter har vnnd vff vnnser land¬
+#facs_120_r1l27 schafft, die amptlut, so wir hinuß setzenn,
+#facs_120_r1l28 dieselbenn alle sampt vnnd sonnders sollennt
+#facs_120_r1l29 durch gar khein brieff besiglenn vnerbittenn,
+#facs_120_r1l30 Deß glychenn das Sy by dee vslychunng des
+#facs_120_r3l1 192
+#facs_120_r3l2 gelts vnnd berednuß der verkommissen persörlich
+#facs_120_r3l3 in soemit Darzu ouch berufft sollennt wardenn
+#facs_120_r3l4 zum minsten zwen Vnuersprochenn man, die als zugen
+#facs_120_r3l5 In vffricht vndem brieffenn sollennt benampsel
+#facs_120_r3l6 Wärdenn, Auch die sthryber sich mit Irem namem
+#facs_120_r3l7 vnnd hanndreychenn vnndersthrybenn vnnd die
+#facs_120_r3l8 brieff ordrunlich In Ir register stellenn,
+#facs_120_r3l9 Is Ist aber hieby Zeuermerckenn, Das wir nit wöllent
+#facs_120_r3l10 den twinn gherrnn abgestohlagenn habenn die vrkund¬
+#facs_120_r3l11 So an Irenn gerichtenn falle mit, Ouch annder ver
+#facs_120_r3l12 thommuss, so Ir gerichtsassenn beziechenn zede¬
+#facs_120_r3l13 siglenn
+#facs_120_r3l14 Vnnd ob In vffrichtunng so blicher brieffenn, Etc:
+#facs_120_r3l15 was betrug oder vortheijl wider dese ordnung fur¬
+#facs_120_r3l16 gan wollte, Söllennt die besigler by Joenn Eyden
+#facs_120_r3l17 vnnd verliegrunng Irer siglenn vnns sollichs
+#facs_120_r3l18 anzöigenn
+#facs_120_r3l19 Uytter der schrybe cnn halb habenn wie besthlossenn
+#facs_120_r3l20 Das hinfur keiner, Er sije In Stat oder lanne kei¬
+#facs_120_r3l21 nenn zinnsbrieff, Contract, Instrument verkom¬
+#facs_120_r3l22 nus, vnnd annder brieff Empfachenn, noch schryven
+#facs_120_r3l23 solle, Er sije dann vorhin von vnnß bewärt, das Er
+#facs_120_r3l24 der Dimpenn Khönnerg vnnd bericht sije, darzu
+#facs_121_r1l1 diser ordnung zegeläbenn geschworenn habe.
+#facs_121_r1l2 vnnd demnach Im von vnnß Erloupt, vnnd zu
+#facs_121_r1l3 gelassenn sich der schrybern zu vundernamenn,
+#facs_121_r1l4 Wie wollennt aber hiemit den predicantenn
+#facs_121_r1l5 gar abgestrickt habenn sich des schrybenus zu
+#facs_121_r1l6 gebruchtenn, Dann allein wo man In Ettlichen
+#facs_121_r1l7 gerichtenn nit mochts geschworenn sthryber
+#facs_121_r1l8 habenn, Das Sy alldann v/ angäbenn der racht:
+#facs_121_r1l9 spracherum, Die rachtshaündell vffzeichnenn
+#facs_121_r1l10 vnnd demnach fertigenn moprunt Doch keine
+#facs_121_r1l11 Wags am prricht sitzenn
+#facs_121_r1l12 Damit aber die zinnof schryber von ablößigen
+#facs_121_r1l13 zinnßbrieffenn, Auch die soglec, zimlichenn lon
+#facs_121_r1l14 quamunt So habeunt wir pesecht, Das der schry¬
+#facs_121_r1l15 ber von Einem zinnßbrieff zweuntzig pfunnd
+#facs_121_r1l16 houptguts vnnd von zweuntzig pfunndam biß
+#facs_121_r1l17 vff hundert pfunnd nit mer höisthenn noch
+#facs_121_r1l18 namenn solle, dann zächen schillinng pfennigen
+#facs_121_r1l19 van huundert pfunndenn houptguts vnnd bis
+#facs_121_r1l20 aff funffhuundert bin pfunnen vnnd von
+#facs_121_r1l21 Enunffhuundertenn bis vff thusennt zwöy,
+#facs_121_r1l22 pfunne, vnnd darfur vff nit mer, dann viec
+#facs_121_r1l23 refunnd, wer vmb das Sigell soe der halb
+#facs_121_r1l24 trie munder dann des sthrybers lon Ist, gäben
+#facs_121_r2l1 1926
+#facs_121_r2l2 wärdenn Des twigenn konffbrieffenn vnd
+#facs_121_r2l3 Verckhommussenn halb bewelchennt wirs der be¬
+#facs_121_r2l4 scheidennheit des sthrybers vnnd siglecke
+#facs_121_r2l5 Zu bestchluss, So gepiettennt Wir allenn vnnd Jeden,
+#facs_121_r2l6 (
+#facs_121_r2l7 den vnnsernn, das sy dis ordnung stättigklich
+#facs_121_r2l8 halltinnt, Dann wo Jemants In Einem oder mei
+#facs_121_r2l9 stuckenn die vertrattenn wurdemit wir sy her¬
+#facs_121_r2l10 tenncklich anlyb, Er vnnd gut, nach ver¬
+#facs_121_r2l11 schuld vnnd gestallt der sach straffenn, Darnach
+#facs_121_r2l12 Wuss sich jederman gerichtenn, datum xxiii
+#facs_121_r2l13 hormungs Anno etc. etc.

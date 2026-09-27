@@ -1,0 +1,39 @@
+Law ID: BER.01.001.3984
+Name: Ihnen befehlen Getreid zu verkauffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 28/28
+# High similarity (>=50%): 27
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_36_r4l5 Namen
+#facs_36_r4l6 Der in die Wahl geschlagenen Predigkanten
+#facs_36_r4l7 und Candidaten
+#facs_36_r4l8 al
+#facs_36_r4l9 Albrecht Golz, Cand:
+#facs_36_r4l10 2. Samuel unter, Pfarrer zu zumplich.
+#facs_36_r4l11 3. Abraham Desgoutes, Pfarrer zu Rötenbach
+#facs_36_r4l12 4. Prisderich Gart, Prediger in B. Spithafl
+#facs_36_r4l13 5 Jacob Jäggi, Cano
+#facs_36_r4l14 6 Johan Anthoni Weiß, Helfer zu diesbach
+#facs_36_r4l15 Rudolf Walther, Pfarrer zu Spiez
+#facs_36_r4l16 8. Samuel Lapichi, Pfarrer zu Sumißwald
+#facs_36_r4l17 9. Jacob Mathys, Pfarrer zu Watloth (im Tagg:
+#facs_36_r4l18 10 Gabriel Wagner, Feld Prediger.
+#facs_36_r4l19 11 Daniel Sprüngh, Cand:
+#facs_36_r4l20 12 Abraham vonn Greierz, Pfar: zu Nidau
+#facs_37_r3l1 13. Heinrich Dyßli, Helfer auf der Nydag
+#facs_37_r3l2 14. Abraham Suter, Helfer zum Heil. Geist,
+#facs_37_r3l3 15. Abraham Sprungli Pfarrer zu Dir zweil
+#facs_37_r3l4 6 Johannes Ruenz Pfarrer zu Soltigen
+#facs_37_r3l5 17. Daniel Hortin, Pfarrer zu Rychenbach
+#facs_37_r3l6 18 Samuel Hug, Vicarius zu Herzogenbuchsen
+#facs_37_r3l7 19 Daniel Hemman Candidatus
+#facs_37_r3l8 20. Daniel Hahn, Pfarrer zu Aschi
+#facs_37_r3l9 Den
+#facs_37_r3l10 Alle, T und W. Amtleüth, Stem¬
+#facs_37_r3l11 Oberheitl. Häüser, da Getreid
+#facs_37_r3l12 Vorrath sich befindt.

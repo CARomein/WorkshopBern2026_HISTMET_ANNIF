@@ -1,0 +1,120 @@
+Law ID: BER.01.001.4149
+Name: Waagen, Gewicht und Mässhebung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 109/109
+# High similarity (>=50%): 108
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_119_r4l20 An die Hl. Decanen T. Lands, und Classen W. Lands¬
+#facs_119_r4l21 Item pr. Zedel an hiesigen Hl. Decanen; Ihnen
+#facs_119_r4l22 gleiches anbefehlen.
+#facs_119_r6l1 227.
+#facs_119_r6l2 An
+#facs_119_r6l3 Das Stadt, die vier Landgericht, und die
+#facs_119_r6l4 Vogtey Schwarzenburg
+#facs_119_r6l5 Waagen, Gewicht und Maßhebung,
+#facs_119_r6l6 Vor Schultheiß und Rast der Statt und
+#facs_119_r6l7 Respublie Bern Thun kund hiermit, daß zu
+#facs_119_r6l8 Sicherheit und Aufrechthaltung der öffentlichen
+#facs_119_r6l9 Treu im Handel und Wandel. Wir den Herren
+#facs_119_r6l10 Jeler anbefohlen und Aufgetragen, in dem
+#facs_119_r6l11 Stacte den vier Land = Grichten, und in der
+#facs_119_r6l12 Vogtey Schwarzenburg, daß Jahrs einmahl,
+#facs_119_r6l13 auf beliebige, von Ihnen zu bestimmende,
+#facs_119_r6l14 und auszuschreibende Zeith und Ohrt, alle
+#facs_119_r6l15 Wangen, Gebicht steinen, Maß, Korn bestrei¬
+#facs_119_r6l16 chen, Ellsteben, Pinten, Gelten, Bränten
+#facs_119_r6l17 und Milchbacher, durch den beEydigten Mäß¬
+#facs_119_r6l18 und gebichte Feber, in Ihrer Gegenbahrt feben
+#facs_119_r6l19 zu laßen, alle und jede so nicht behörend¬
+#facs_119_r6l20 Obrigkeitlich bezeichnete oder faltsche unrichtige
+#facs_119_r6l21 Waagen, Gebichtsteinen, Mäß, Korn Bestrei¬
+#facs_119_r6l22 chen, Ellstecken, Vinten, Gelten, Brändten,
+#facs_119_r6l23 und Milch becher haben, selbe nicht in vorgeschrie¬
+#facs_120_r2l1 bener Zeit und an bestimtem Ohrt zur
+#facs_120_r2l2 hebung vorlegen, davon etwas hinter¬
+#facs_120_r2l3 halten, auch gar ausbleiben, mit einer
+#facs_120_r2l4 Buß von den Pfunden ohne Schonen,
+#facs_120_r2l5 zu belegen; diejenigen aber die in
+#facs_120_r2l6 viel faltigem, nicht billig widerhohltem
+#facs_120_r2l7 Fehler, oder offenbahrem vorsetzlichem
+#facs_120_r2l8 Betrug erfunden werden, uns anzuzeigen
+#facs_120_r2l9 damit sie nach Bebanden Umbständen
+#facs_120_r2l10 und Verdienen, stärker, ja selbst an Leib¬
+#facs_120_r2l11 und Ehr bestrafft werden mögen.
+#facs_120_r2l12 Wornach sich jedermann der einigen Geberb
+#facs_120_r2l13 treibet, Wein und Bier, oder andere Getränt¬
+#facs_120_r2l14 aus schenken laßt, und sich obiger Pinten
+#facs_120_r2l15 Maaßen, Gebichten pp bedient, zu richten,
+#facs_120_r2l16 und durch schuldige Folgleistung vor Bestraf
+#facs_120_r2l17 fung und Schaden zu verbahren, und zu
+#facs_120_r2l18 hüeten bestens wüßen wird; zu welchem Em¬
+#facs_120_r2l19 diß Unser Ausschreiben öffentl. von Canzlen
+#facs_120_r2l20 verlesen werden, mit Erstem nachstbünfftigen
+#facs_120_r2l21 Juny den Anfang nemmen, und würbsamme Krafft habe,
+#facs_120_r2l22 soll. Geben in Unserer Rahts Versammlung d. 22ten April 1761.
+#facs_120_r4l1 229
+#facs_120_r4l2 An
+#facs_120_r4l3 Alle Teutsch und Weltsche Amtleüth, 4. Stadt.
+#facs_120_r4l4 Freyweibel und Ammann, denn Jedel an Mehbhl.
+#facs_120_r4l5 der Marechaussée und Policey Cammer, Item
+#facs_120_r4l6 Hl. Großweibel und Hl. Brichtschreiber.
+#facs_120_r4l7 Auf den Dieben Hans Swältz von Biglen, zu
+#facs_120_r4l8 Achten.
+#facs_120_r4l9 Schultheiß und Raht.
+#facs_120_r4l10 Es ist der zu erlach in starben Banden gelegene
+#facs_120_r4l11 und verschiedener Diebstählen und anderer Verbrechen
+#facs_120_r4l12 ich schuldig gemachte Hans Swältz, von Biglen
+#facs_120_r4l13 aus dasiger Gefängnuß entrennen. Da nun
+#facs_120_r4l14 der gemeinen Sicherheit daran gelegen, daß
+#facs_120_r4l15 ch
+#facs_120_r4l16 dieser Bößwicht von der in gefänglichen Verhafft
+#facs_120_r4l17 gebracht werde, So haben Wir nebst Zusendung
+#facs_120_r4l18 seines signalements Euch befohlen wollen, auf ihm
+#facs_120_r4l19 geflißene Acht zu bestellen, betreckenden fahls
+#facs_120_r4l20 denselben fest sezen zu laßen, und Uns daß
+#facs_120_r4l21 Verhaffts zu berichten. Dat. d. 11ten May 1761.
+#facs_120_r4l22 Signalement
+#facs_120_r4l23 Hans Swältz von Biglen, so sich auch für
+#facs_120_r4l24 Hans Moser von Münsigen bißweilen außgibten
+#facs_121_r2l1 Ist etwann 5. Schu hoch, Diklechter Statur
+#facs_121_r2l2 hat rürzu dike Braune Haar, graue Angen
+#facs_121_r2l3 trägt jezo einen braunen Tüchernen Rob,
+#facs_121_r2l4 Rohtes Camisol, so noch fast Neuw, blaue
+#facs_121_r2l5 abgetragene hohen, graue Gewalkete strümpf
+#facs_121_r2l6 zimlich leichte Schu, mit gevierten Gelben
+#facs_121_r2l7 Schu Schnallen, ist dermahlen mit einer
+#facs_121_r2l8 S. H. Rauden behafftet, soll angehalten, und
+#facs_121_r2l9 fest verbahret werden.
+#facs_121_r4l1 231.
+#facs_121_r4l2 An
+#facs_121_r4l3 Alle Teutsch und Weltsche Amtleuth, 4. Stäck, frey¬
+#facs_121_r4l4 weibel und Ammann, denne Jedel an Mehbh. der Marech¬
+#facs_121_r4l5 Cammer, und H. Großweibel und Hl. Gerichtschreiber.
+#facs_121_r4l6 Auf die Faltsch Münzens Verdächtige Elie Farnet
+#facs_121_r4l7 und Jonas Peter Bon, von Corcelles Grafschaft
+#facs_121_r4l8 Neuenburg, zu achten
+#facs_121_r4l9 Schultheiß und Reht P.
+#facs_121_r4l10 Wie sind von dem Fürstl. Staats Raht zu Neuen
+#facs_121_r4l11 burg benachrichtet worden, daß eine Zeit hero
+#facs_121_r4l12 sich sehr viele faltsche Wallis Bazen de Ao. 1722.
+#facs_121_r4l13 in daselbstige Land geworffen worden, deß nahr
+#facs_121_r4l14 Sie allen Wallis bazen von diesem Jahr, den
+#facs_121_r4l15 Lauff hinter Ihnen verbocken, und ein nicht
+#facs_121_r4l16 ohnbegründt zu seyn scheinender Verdacht auf
+#facs_121_r4l17 die benanten Elie Farnet und Jonas Pierre Bon,
+#facs_121_r4l18 bohnhafft hinter Neuenburg gefallen, daß Wir
+#facs_121_r4l19 auf diese Leuth achten, auf betrecken selbe
+#facs_121_r4l20 anhalten laßen, und deßen Sie berichten
+#facs_121_r4l21 wolten; Wie nun Wie der Fürstl.e Regierung
+#facs_121_r4l22 diesem Begehren entsprochen, als haben Wir
+#facs_121_r4l23 mit Zustandung beyder signalements Euch befehlung
+#facs_122_r4l1 Wollen, auf diesen Tarnet und Bon in Eüeren
+#facs_122_r4l2 Amts Bezirk fleißige Achtung zu bestellen
+#facs_122_r4l3 auf betrecken sie fest sezen zu laßen, und
+#facs_122_r4l4 Aus deß verhaffts ohnverzüglich zu berichten
+#facs_122_r4l5 Dath. den 11t. May 1761.

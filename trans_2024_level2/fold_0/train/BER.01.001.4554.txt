@@ -1,0 +1,293 @@
+Law nr: BER.01.001.4554
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 281/281
+# High similarity (>=80%): 267
+# Low similarity (<80%): 14
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_118_r7l23 Alle welsche Herren Amtleute, denne
+#facs_118_r7l24 item per Zndal mul mut. an die
+#facs_118_r7l25 Petterlingen
+#facs_118_r7l26 Käntzel den Haubtstadt vide
+#facs_118_r7l27 Aelen im
+#facs_118_r7l28 Essertine Steuer sub pag. 237.
+#facs_118_r7l29 zum Trost und Unterstützung Unserer
+#facs_118_r7l30 lieben und getreuen Angehörigen der
+#facs_118_r7l31 drumstbeschädigten in dem Dorf Esser
+#facs_118_r7l32 tine Amts Morsen, denen durch die den
+#facs_118_r7l33 11e dis entstandene Feuersbrunst
+#facs_118_r7l34 19. Stable
+#facs_118_r7l35 22. Häuser, 17. angefülte Scheünen
+#facs_118_r7l36 eine
+#facs_136_r2l21 sollte.
+#facs_196_r2l3 o
+#facs_119_r2l1 eine Schmitten und Batofen, nebst allen
+#facs_119_r2l2 darin sich befundenen Gerahten und Victus
+#facs_119_r2l3 lien in die Asche gelegete und dadurch da
+#facs_119_r2l4 sige Einwohner in den allerelendesten
+#facs_119_r2l5 und bedaurens würdigsten Zustand
+#facs_119_r2l6 mit einem Verlust von mehr als L. 43000
+#facs_119_r2l7 versezet worden, haben wir bewilliget,
+#facs_119_r2l8 laß aufbevorstehenden heil. Dactag
+#facs_119_r2l9 in dem ganzen Weltschland, so wie es
+#facs_119_r2l10 an dem Heil. Wienachtfest in Unserer
+#facs_119_r2l11 Hauptstadt auch geschehen wird, gewohnter
+#facs_119_r2l12 weise durch beeydigte eine Steuer
+#facs_119_r2l13 aufgenommen rund unter die Brunstbe
+#facs_119_r2l14 schädigten vertheilet werde. Ihr werdet
+#facs_119_r2l15 also diese Collect in Euerem Amt auf
+#facs_119_r2l16 den bestimmten Tag aufnehmen lasen
+#facs_119_r2l17 und Unserem Amtman zu Morser
+#facs_119_r2l18 einsenden, Uns aber berichten, wie hoch
+#facs_119_r2l19 sich selbige beloffen. Datum den 23.
+#facs_118_r1l14 Augustus 1784.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_154_r4l16 alle deutsch und weltsche Herren Amtleut,
+#facs_119_r2l23 Schafnere und Cameren
+#facs_119_r2l24 Rechnungs-Ablagen
+#facs_52_r2l21 Schultheiß und Raths — zu Ablag ewerer
+#facs_119_r2l26 rer heurigen Amtsrechnung vor Unseren
+#facs_229_r3l17 /deutsch /
+#facs_119_r2l28 fürgeliebten Miträthen den Herren welt. h
+#facs_119_r2l29 Sekelmeister und Denneren haben Wir
+#facs_119_r3l1 231
+#facs_119_r3l2 Tag bestimmt, auf
+#facs_119_r3l3 nächst künftigen
+#facs_119_r3l4 1785 Jahrs / Ihr werdet keinenach solche
+#facs_119_r3l5 auf diesen Tag in Berritschaft halten =
+#facs_127_r2l3 /: An die Herren Amtleute :/
+#facs_119_r3l7 so daß selbige 14. Tag vorderen Ablag
+#facs_119_r3l9 mit den nöhtigen Beylagen versehen,
+#facs_266_r3l1 Unserem Buchhalter in den deutschen
+#facs_52_r4l13 Sekelschreiberey zur Erdaurung eingehändigt
+#facs_119_r3l12 gehändiget, und solche dann auch
+#facs_119_r3l13 weiters communicirt werden könne.
+#facs_119_r3l14 an die W. Herren Amtleute
+#facs_119_r3l15 so daß Ihr solche gebührenden Orts
+#facs_119_r3l16 14. Tag vor deren Ablag communiciren
+#facs_119_r3l17 und das einte doppel davon samt
+#facs_119_r3l18 allen Beylagen zur Rechtfertigung
+#facs_119_r3l19 in die welsche Sebelschreiberey über
+#facs_119_r3l20 geben könnet. Datum den 24ten Aug.
+#facs_53_r3l4 1784.
+#facs_53_r3l1 Rechnungs Tagen
+#facs_119_r3l23 pro 1785
+#facs_90_r3l1 N°
+#facs_119_r3l25 3. Interlabenhaus
+#facs_119_r3l26 3 Januar
+#facs_119_r3l27 5. St. Joh. Hans
+#facs_53_r3l21 Montag
+#facs_119_r3l29 6. prienisbergerhaus
+#facs_119_r3l30 15. Silberhandlung
+#facs_119_r3l31 7. Kornherr
+#facs_4_r6l1 5
+#facs_68_r8l11 zu
+#facs_53_r3l8 Mitwochen
+#facs_3_region_1627936339514_16l1 1
+#facs_190_r7l20 Buren
+#facs_119_r3l37 1 Dt.
+#facs_4_r13l2 7
+#facs_119_r3l39 3. Wiflisturg. Freytag
+#facs_4_r1l1 2
+#facs_120_r2l1 1. Außere Krankenhaus
+#facs_120_r2l2 3 Rignau
+#facs_120_r2l3 6 Januar
+#facs_53_r9l3 Donstag
+#facs_120_r2l5 3. Rydau
+#facs_120_r2l6 4. Wimmis
+#facs_53_r3l25 Allmosten Secret.
+#facs_8_r1l1 10
+#facs_53_r3l21 Montag
+#facs_120_r2l10 Büchsen Allmose
+#facs_120_r2l11 3. Sumis wald
+#facs_9_r1l1 12.
+#facs_120_r4l2 Mitwoch
+#facs_91_r4l8 Laupen
+#facs_10_r1l1 14
+#facs_120_r2l17 4. Petterlingen
+#facs_53_r9l9 Freytag
+#facs_191_r2l4 5. Zwey stimmen
+#facs_11_r6l1 17
+#facs_53_r3l21 Montag
+#facs_120_r2l22 3. Oberhofen
+#facs_120_r2l23 4. Aarberg
+#facs_171_r3l24 = mit
+#facs_12_r8l1 19
+#facs_53_r3l12 6. Kornherr
+#facs_120_r2l27 2. Interlaten
+#facs_7_r5l1 20
+#facs_53_r9l3 Donstag
+#facs_120_r2l30 2. Unterseen
+#facs_120_r2l31 4. Milden
+#facs_7_r4l1 21
+#facs_53_r9l9 Freytag
+#facs_120_r2l35 3 Oron
+#facs_120_r2l36 4. Trachsellwald
+#facs_53_r3l21 Montag
+#facs_8_r2l2 24
+#facs_53_r8l5 Buchsee
+#facs_120_r2l40 5. Bortstadt
+#facs_120_r2l41 6. Burgdorf
+#facs_53_r3l8 Mitwochen
+#facs_8_r3l1 26
+#facs_120_r2l44 2. Lands Hut
+#facs_120_r2l45 3. Brandis.
+#facs_53_r8l15 Mushaffen
+#facs_53_r9l3 Donstag
+#facs_16_r11l1 27
+#facs_120_r2l49 4. Fraubrunen
+#facs_197_r4l23 Tit
+#facs_120_r2l51 20. Neuenstadt
+#facs_120_r2l52 Freytag, 28.
+#facs_120_r3l1 4. Thun Schloß
+#facs_120_r3l2 Dto Schaffnerey
+#facs_4_r7l1 4
+#facs_53_r8l17 Thorberg
+#facs_4_r6l1 5
+#facs_10_r1l1 14
+#facs_120_r3l8 2 Roche
+#facs_120_r3l9 6. Aarburg Schloss.
+#facs_120_r3l10 Garnison
+#facs_6_region_1633454281779_2775l1 d
+#facs_4_r6l1 5
+#facs_90_r11l14 pferten
+#facs_120_r3l14 2. W. Weinschen
+#facs_120_r3l15 4. Zofingen
+#facs_4_r1l1 2
+#facs_120_r3l17 Stift
+#facs_4_r4l1 3.
+#facs_54_r5l8 Frutigen
+#facs_54_r5l5 St. Johansen
+#facs_4_r6l1 5
+#facs_120_r3l22 Aarwangen
+#facs_4_r6l1 5
+#facs_120_r3l24 4 Allmosen Directo¬
+#facs_120_r3l25 Exulanten Cammer
+#facs_8_r9l1 11
+#facs_4_r1l1 2
+#facs_90_r11l2 Zipp
+#facs_4_r6l1 5
+#facs_68_r8l35 Romainmotier
+#facs_120_r3l31 Wangen
+#facs_4_r6l1 5
+#facs_90_r3l1 N°
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r1l1 2
+#facs_200_r3l24 Frienisberg. In Abänderung Unserer Er¬
+#facs_4_r4l1 3.
+#facs_120_r3l38 Erlach
+#facs_120_r3l39 9. Schallenhaus Aufsch.
+#facs_120_r3l40 4 Lausanne
+#facs_120_r3l41 amt
+#facs_120_r3l42 2. Bau
+#facs_120_r3l43 5. Holzlieferung
+#facs_120_r3l44 14. Ziegelverwalter
+#facs_120_r3l45 119. Zeughaus
+#facs_120_r3l46 13. Pulferhandlung.
+#facs_53_r3l21 Montag
+#facs_120_r4l2 Mitwoch
+#facs_53_r9l3 Donstag
+#facs_53_r9l9 Freytag
+#facs_53_r3l21 Montag
+#facs_171_r3l24 = mit
+#facs_53_r9l3 Donstag
+#facs_53_r9l9 Freytag
+#facs_53_r3l21 Montag
+#facs_120_r4l2 Mitwoch
+#facs_120_r4l11 Conston
+#facs_53_r9l9 Freytag
+#facs_53_r3l21 Montag
+#facs_171_r3l24 = mit
+#facs_7_r7l1 9
+#facs_8_r1l1 10
+#facs_8_r9l1 11
+#facs_10_r1l1 14
+#facs_11_r1l1 16
+#facs_11_r6l1 17
+#facs_63_r1l1 118
+#facs_7_r4l1 21
+#facs_14_region_1627971805407_36l1 23
+#facs_120_r6l1 233
+#facs_120_r6l2 31 Januar
+#facs_120_r6l3 2 Februar.
+#facs_4_r4l1 3.
+#facs_4_r7l1 4
+#facs_6_region_1633454281779_2775l1 d
+#facs_54_r8l5 Biberstein Schloß
+#facs_120_r3l2 Dto Schaffnerey
+#facs_6_region_1627936574015_66l1 6
+#facs_121_r2l4 5. Mörser.
+#facs_54_r8l9 Kaufhaus
+#facs_54_r8l10 Abzug
+#facs_121_r2l7 29 Hertis wyl
+#facs_121_r2l8 6. Saanen
+#facs_121_r2l9 4 Ahlen
+#facs_54_r8l14 Aubonne
+#facs_121_r2l11 3. Castelen
+#facs_267_r5l18 Schenkenberg
+#facs_121_r2l13 4 Königsfelden
+#facs_121_r2l14 2 Lenhburg
+#facs_121_r2l15 6. Bonmont
+#facs_121_r2l16 7. Neu
+#facs_14_region_1633454353484_2800l1 de
+#facs_54_r8l31 Rechnungen nach
+#facs_121_r2l20 20 Groß Pithal
+#facs_121_r2l21 9. Insel
+#facs_121_r2l22 49. Große Salzrechnung
+#facs_121_r2l23 24. Korn Kammer
+#facs_121_r2l24 22. Schulsabel
+#facs_121_r2l25 6. Taxgelder
+#facs_121_r2l26 22. Straßenrechnung
+#facs_121_r2l27 5. Landsaßin Cammer
+#facs_121_r2l28 9. Ohmgeld ausserbezirr
+#facs_121_r2l29 2. Innerbezirk
+#facs_121_r2l30 5. Stadtwacht
+#facs_196_r2l3 o
+#facs_190_r7l32 denstag
+#facs_121_r4l2 24 Febr
+#facs_8_r2l3 25
+#facs_53_r9l9 Freytag
+#facs_8_r7l1 28
+#facs_53_r3l21 Montag
+#facs_121_r4l7 2. Marly
+#facs_267_r3l24 Mitwachen
+#facs_4_r7l1 4
+#facs_53_r9l9 Freytag
+#facs_4_r13l2 7
+#facs_53_r3l21 Montag
+#facs_120_r4l2 Mitwoch
+#facs_7_r7l1 9
+#facs_8_r1l1 10
+#facs_53_r9l3 Donstag
+#facs_8_r9l1 11
+#facs_53_r9l9 Freytag
+#facs_68_r8l22 Jferten
+#facs_69_r7l4 m
+#facs_4_r1l1 2
+#facs_53_r3l21 Montag
+#facs_53_r3l21 Montag
+#facs_7_r7l1 9
+#facs_267_r3l24 Mitwachen
+#facs_8_r9l1 11
+#facs_121_r4l27 Montag. 23
+#facs_120_r4l2 Mitwoch
+#facs_28_r4l1 Coll
+#facs_117_r5l1 227
+#facs_55_r4l27 Waysenhaus
+#facs_121_r6l3 Stadt Ohmgelt.
+#facs_121_r6l4 Montag.15. Augustl.
+#facs_4_r1l1 2
+#facs_55_r4l32 2 Dömpfennung
+#facs_4_r4l1 3.
+#facs_121_r6l8 Montag 22.
+#facs_121_r6l9 Kirchmeyer von Surgere
+#facs_4_r7l1 4
+#facs_121_r6l11 5. d. Weinschenk
+#facs_121_r6l12 Montag 21. Novembris

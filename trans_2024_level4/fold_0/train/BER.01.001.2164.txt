@@ -1,0 +1,22 @@
+﻿Law nr: BER.01.001.2164
+Name: Enderung der Langnauweren vier Jahrmärithen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 11/11
+# High similarity (>=50%): 8
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_216_r1l1 378
+#facs_216_r1l2 Coll
+#facs_216_r2l1 Trachsellwald Branditz Signament
+#facs_216_r2l2 Langnamerts
+#facs_216_r2l3 Vier Jahr Märithe.
+#facs_216_r2l4 Waldtheiss Ano Raht der Stadt Bernse
+#facs_216_r2l5 hier habend daß der Vnsere
+#facs_216_r2l6 er anhalten, aus endtschloßen, daß
+#facs_216_r2l7 Herr Märiten von meh¬
+#facs_216_r2l8 serat And abyeth
+#facs_216_r2l9 nua

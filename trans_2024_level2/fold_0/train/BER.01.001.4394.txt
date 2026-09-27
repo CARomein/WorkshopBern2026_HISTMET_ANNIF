@@ -1,0 +1,97 @@
+Law ID: BER.01.001.4394
+Name: Der Getreid Vorraht soll auf dem bestimten Fuss verbleiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_505
+# Matched: 86/86
+# High similarity (>=50%): 84
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_30_r5l6 An
+#facs_30_r5l7 Die Herren Amtleut zu Schenbenberg, Biberstein,
+#facs_30_r5l8 Königsfelden, Lenzburg, Wangen, Arwangen
+#facs_30_r5l9 Burgdorff, Thorberg, St. Johansen, Erlach, Nydau,
+#facs_30_r5l10 Eriemsperg, Arberg, Buchsen, denne per Jedel an
+#facs_30_r5l11 die H. Schaffnere im Friedischerger und St. Johannser
+#facs_30_r5l12 Hauß
+#facs_30_r5l13 Der Getreid vorraht soll auf dem bestimten
+#facs_30_r5l14 Fuß verbleiben.
+#facs_30_r5l15 Schultheis Räht und Bürger
+#facs_30_r5l16 Nachdeme uns das Gutachten vorgetragen
+#facs_30_r5l17 worden, welches unsere Fürgeliebte MitRäht
+#facs_30_r5l18 die Herren Teutsch Sebelmeister und vennere,
+#facs_30_r5l19 in folg des von uns erhaltenen Auftrags,
+#facs_30_r5l20 über den vor uns gefallenen Anzug ob nicht
+#facs_30_r5l21 der Obrigbeitliche Vorraht an Roggen und
+#facs_30_r5l22 Mischelborn, in andere Getreis-arten zu
+#facs_30_r5l23 verwandlen. abgefaßet, und Wir hierüber
+#facs_30_r5l24 die erforderlichen Betrachtungen gemacht
+#facs_31_r2l1 haben Wir die wider diese Verwandlung
+#facs_31_r2l2 angebrachte Gründe von solcher erheblichkeit
+#facs_31_r2l3 gefunden, daß Wir von dem daherigen
+#facs_31_r2l4 Anzug lediglich abstrahiert, und den Obrige
+#facs_31_r2l5 beitlichen Lands-Vorraht so wie derselbe Ao¬
+#facs_31_r2l6 1714 angeordnet worden, fernershin verbleiben
+#facs_31_r2l7 laßen. Deßen Ihr berichtet werdet, mit
+#facs_31_r2l8 Befelch, in folg deßen nach dem mehreren Inhalt
+#facs_31_r2l9 Unsers Schreibens vom 15ten Juny diß Jahrs, alles
+#facs_31_r2l10 dasjenige was an Roggen /: Mischelkorn :/ von
+#facs_31_r2l11 der ferndrigen Ernd, nach Abzug der Ordinari¬
+#facs_31_r2l12 und Quasi-Ordinay ausgaben, wie auch deßen
+#facs_31_r2l13 bas Euer Contingent auf dem Vorschießenden
+#facs_31_r2l14 Roggen, /: Mischelborn :/ betragen mag, übrig
+#facs_31_r2l15 bleiben wird, zu wider anlegung des von uns
+#facs_31_r2l16 auf Eüerem Amt bestimten disfähligen
+#facs_31_r2l17 Obrigkeitlichen Vorrahts aufschütten zu laßen
+#facs_31_r2l18 Dath. den 28ten Aug. 1772
+#facs_31_r4l1 55.
+#facs_31_r4l2 An
+#facs_31_r4l3 Die Herren Amtleut zu Wiblispurgen, Pecterlingen,
+#facs_31_r4l4 ifferten, Lausanne, Morsen, Anbonne, Neus, Vibis¬
+#facs_31_r4l5 Milden, Ahlen und Grandson
+#facs_31_r4l6 Auf H. General Lieutenant Darancy achten zu laßen
+#facs_31_r4l7 Schultheiß und Raht
+#facs_31_r4l8 Von H. Baron d'Auligny Preteur Royal zu Straß.
+#facs_31_r4l9 burg, haben Wir die Nachricht erhalten, daß
+#facs_31_r4l10 H. Darancy Lieutenant General ein Herr von
+#facs_31_r4l11 85. Jahren Alters, sich ohnlängstens mit einer
+#facs_31_r4l12 tortun von 300,000 Französische Livres so wohl in
+#facs_31_r4l13 baarem Gelt als Wechselbriefen absentirt, und
+#facs_31_r4l14 dardurch seinen H. Sohn gewesenen Conseiller
+#facs_31_r4l15 an Parlement de Metz, in große Bekümmernuß
+#facs_31_r4l16 gesezet, mit dem beyläufigen gezimmenden
+#facs_31_r4l17 suchen, Wir belieben möchten, dem Hl.
+#facs_31_r4l18 Conseiller Darancy wider zu seinem Vatter und
+#facs_31_r4l19 Der bey sich habenden nahmhafften Baarschafft
+#facs_31_r4l20 und übrigen Effecten verhelffen möchten. Wie
+#facs_31_r4l21 nun Wir hierunter zu entsprechen gut gefunden.
+#facs_31_r4l22 So befehlen Wir Euch, fahls Herr Lieutl. General
+#facs_31_r4l23 Darancy, deßen Beschreibung hiermit komt,
+#facs_31_r4l24 in einem Amt sich befinden, oder noch darein
+#facs_31_r4l25 begeben solte, mit dem bey sich habenden
+#facs_32_r3l1 Gelt und Effecten auf eine anständige weise
+#facs_32_r3l2 anhalten, und in seinem Zimmer bewachen
+#facs_32_r3l3 zu laßen, und deßen Uns sogleich zu berichten
+#facs_32_r3l4 Datl. den 4ten Septembl. 1772.
+#facs_32_r3l5 An
+#facs_32_r3l6 Alle Teutsch und Weltsche Herren Amtleuth, Schaffner
+#facs_32_r3l7 und Cameren, die Rechnungen abzulegen haben
+#facs_32_r3l8 Schultheis und Rahts
+#facs_32_r3l9 Zu Ablag Eüerer heürigen Amts Rechnung vor Unserer
+#facs_32_r3l10 Teütschau
+#facs_32_r3l11 Venner Cammer, haben Wir bestimt N. N. nächst
+#facs_32_r3l12 Weltschen
+#facs_32_r3l13 künftigen Jahrs, und deßen Euch berichten wollen
+#facs_32_r3l14 mit befehl, auf obbestimten Tag, solche allso fertig
+#facs_32_r3l15 zu halten, (an die Teutsche Herren Amtleuth) daß
+#facs_32_r3l16 14. Tag vor dero Ablag solche mit denen nohtwendigen
+#facs_32_r3l17 beylagen versehen, Unserem Buchhalter in der Teinschen
+#facs_32_r3l18 Sebelschreiberey zur Erdauerung eingehändiget, und¬
+#facs_32_r3l19 solche dann auch weiters communicirt werden könne, (an
+#facs_32_r3l20 die Weltsche Herren Amtleuth :/ daß Ihr solche
+#facs_32_r3l21 gebührenden Orts 14. Tag vor der Ablag communicieren
+#facs_32_r3l22 und das einte Doppel davon samt allen Beylagen
+#facs_32_r3l23 zur Justification in die Weltsche Sebelschreiberey
+#facs_32_r3l24 übergeben könnet. Dat. den 25ten Aug. 1772.)

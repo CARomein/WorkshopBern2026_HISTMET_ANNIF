@@ -1,0 +1,41 @@
+Law ID: BER.01.001.3374
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_492
+# Matched: 29/30
+# High similarity (>=80%): 29
+# Low similarity (<80%): 0
+# Not found: 1
+#
+#facs_414_r3l12 An Alle weltsche Ambtleuth
+#facs_414_r3l13 Weilen die Zeith harbey nachet, in welcher
+#facs_414_r3l14 die Classen Vnsers weltschen Landts sich
+#facs_414_r3l15 Ordinarie verfamblen, habend wir die
+#facs_414_r3l16 hiemit vermahnen wollen,
+#facs_414_r3l17 An der Decanus auf
+# NOT FOUND: .
+#facs_414_r3l19 dem Landt
+#facs_414_r3l20 Die Weilen es an der Zeith, die Jährlichen Capitul
+#facs_184_r1l4 1780
+#facs_415_r2l1 und Examina über eint und andere
+#facs_415_r2l2 Kirchendiener Anzustellen, undt
+#facs_415_r2l3 darbey zu verhandlen, was bey
+#facs_415_r2l4 denselben tractiert werden soll.
+#facs_415_r2l5 Als werdet Ihr hiemit vermahnt
+#facs_415_r2l6 Die Anstalten in Eülerem bezirk
+#facs_415_r2l7 zu thuen, daß selbige zu Recht ge¬
+#facs_415_r2l8 wohnter Zeit berueffen, diejenigen,
+#facs_415_r2l9 so darzu gehören, eingeladen, und
+#facs_415_r2l10 Alles ordenlich, wie sichs gebührt,
+#facs_415_r2l11 verhandlet, auch alles daran etwas
+#facs_415_r2l12 gelegen, oder sonsten zu erruiete
+#facs_415_r2l13 seyn wirdt, in die Acta gebracht,
+#facs_415_r2l14 und allhar an Uns verschiet werden etc.
+#facs_415_r2l15 Datq ut supra
+#facs_415_r2l16 An die Oberlandische Ambtluth,
+#facs_415_r2l17 Außert Zweyfung und Sana,
+#facs_415_r2l18 It: thun: dahin undter heütigen
+#facs_415_r2l19 Dato ein schreiben, gleiche Materii ansehen
+#facs_415_r2l20 Abgebry Leover

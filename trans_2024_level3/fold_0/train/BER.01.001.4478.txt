@@ -1,0 +1,619 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 611/612
+# High similarity (>=80%): 575
+# Low similarity (<80%): 36
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4478
+#facs_128_r2l12 incorporierten Landsassen
+#facs_28_r1l2 Verordnung.
+#facs_177_r7l1 res
+#facs_128_r2l12 incorporierten Landsassen
+#facs_128_r2l13 betreffend.
+#facs_272_r3l16 Wir Schulthes Elein und große
+#facs_128_r2l15 Räthe der Stadt und Respublic Tern,
+#facs_128_r2l16 entbieten allen Unsern lieben und ge¬
+#facs_128_r2l17 streuen Bürgern uns Angehörigen zu
+#facs_128_r2l18 Stadt und Land, Unsern gnädigen
+#facs_128_r2l19 geneigten Willen, und geben ihnen
+#facs_128_r2l20 dabey zu vernehmen:
+#facs_128_r2l21 Als dann Wir den unbestimten
+#facs_128_r2l22 Eingang
+#facs_128_r2l23 ins bedaurens würdigen Zustans der
+#facs_128_r2l24 in Unsern deutsch und weltschen Landen,
+#facs_19_region_1629824103197_360l1 35
+#facs_128_r3l2 befindlichen so genanten Heimatlosen
+#facs_238_r2l9 landes vätterlichem Herzen, daß sie bey
+#facs_128_r3l4 Daraufhin durch eine aus Unserm
+#facs_128_r3l5 Ehrenmittel eigens nieder gesezte¬
+#facs_128_r3l6 Commission, über die Mittel, wie der
+#facs_128_r3l7 Zustans dieser Heimatlosen verbeßert,
+#facs_128_r3l8 werden könte, uns den Rapport erstatten
+#facs_128_r3l9 laßen; So haben Wir, in dieser
+#facs_102_r2l11 Landes vätterlichen Gesinnungen wünschten
+#facs_128_r3l11 wie nicht weniger auch zu Erleichterung
+#facs_128_r3l12 des Landes, und zu Beybehaltung guter
+#facs_128_r3l13 Ordnung, sämtliche in Unsern deutsch¬
+#facs_128_r3l14 und weltschen Landen zerstreute Heimat¬
+#facs_128_r3l15 lose, zu dem End in eine Corporation
+#facs_128_r3l16 bringen laßen, damit selbige, bis sich
+#facs_128_r3l17 der eint oder andere von ihnen
+#facs_128_r3l18 würkliches Burgerrecht mit allen damit
+#facs_128_r3l19 verknüpften Vortheilen wird angeschafft
+#facs_128_r3l20 haben, aus dem dazu gewidmeten Fundi=
+#facs_128_r3l21 besorget, und nach Erforderniß besteuret
+#facs_128_r3l22 werden; vermittelst deßen dan den
+#facs_128_r3l23 Städten uns Bemeinden nicht mehr
+#facs_128_r3l24 zur Beschwerde noch Last anstallen
+#facs_307_r2l15 können.
+#facs_128_r3l26 Und da Wir die also incorporierten
+#facs_129_r1l1 352./
+#facs_129_r2l1 als naturalisierte Unterthanen zu erklär¬
+#facs_129_r2l2 geruhet; so stehen Wir in der billichen
+#facs_129_r2l3 Erwartung, daß sie die Bröse der¬
+#facs_129_r2l4 ihnen dadurch bezeigenden Gnade,
+#facs_129_r2l5 erkennen- und als getreue Underthan¬
+#facs_129_r2l6 Uns, als ihrer Landes Obrigkeit, alle
+#facs_129_r2l7 schuldige Treu, Behorsam und andere
+#facs_129_r2l8 Pflichten, unverbruchlich leisten
+#facs_44_r4l6 werden
+#facs_129_r2l10 Wir tragen demnach zu Unsern
+#facs_129_r2l11 lieben und getreuen Angehörigen der
+#facs_129_r2l12 sämtlichen Städten und Gemeinden
+#facs_129_r2l13 Unserer deutsch uns weltschen Landen
+#facs_129_r2l14 denen diese neue Einrichtung durch¬
+#facs_129_r2l15 gegenwärtiges kund gemacht wird, da
+#facs_129_r2l16 gnädige Zutrauen, daß selbige diese
+#facs_129_r2l17 incorporierten Underthanen, wo nicht
+#facs_129_r2l18 besondere dringende Bründe und
+#facs_129_r2l19 Umstände darbieder vorwalten würden,
+#facs_129_r2l20 gegen Hinderlegung ihres Corporations¬
+#facs_129_r2l21 Scheins (so ihnen stadt eines Heimatschein
+#facs_129_r2l22 dienen soll) und gegen Erstattung der
+#facs_129_r2l23 jeden Orts schuldigen Abgaben uns Pflichten
+#facs_129_r2l24 als Hindersaßen aufnehmen, und sie,
+#facs_129_r3l1 Wer unter die
+#facs_9_region_1629822417101_91l_4 Lands.
+#facs_83_r4l19 Gerveren
+#facs_14_region_1629823063779_230l_1 25.
+#facs_129_r4l2 so lange sie sich unklagbar und wohl aufführen,
+#facs_129_r4l3 als solche hinter ihnen willig dulden
+#facs_44_r4l6 werden
+#facs_129_r4l5 Worbey Wir Unsern lieben imo
+#facs_129_r4l6 getreuen Ungehörigen samtlicher
+#facs_129_r4l7 Städten und Bemeinden, die gnädige
+#facs_129_r4l8 Versicherung ertheilen, daß durch
+#facs_129_r4l9 gegenwärtige neue Einrichtung, ihren
+#facs_129_r4l10 wohlhergebrachten Rechten und Freyheiten
+#facs_129_r4l11 und dem so die Geseze und Ordnungen
+#facs_129_r4l12 ihnen zutheilen, nicht der wenigste Abbruch
+#facs_129_r4l13 beschehen, sondern sie noch ferners hin¬
+#facs_129_r4l14 wie im vergangenen, dabey von Uns¬
+#facs_129_r4l15 geschüzt und gehandhabet werden sollen.
+#facs_27_r1l54 1.
+#facs_129_r4l17 Alle unter dem Namen der Heimatlosen
+#facs_129_r4l18 biß dahin bekanten, und in Zeit von Jahr
+#facs_129_r4l19 uns Tag noch, nach Unser Verordnung von
+#facs_129_r4l20 31t. Jenner 1776. von Unserer verordneten
+#facs_129_r4l21 Landsaßen Cammer annehmen da Einbohner
+#facs_129_r4l22 hiesiger Bockmäßigkeit, es seyen Haus¬
+#facs_129_r4l23 Wädter und Wittloen mit ihren Familien,
+#facs_129_r4l24 oder einzeln Personen, als Dienstborden
+#facs_129_r4l25 Waisen und Fundelbinder, sollen mit allen
+#facs_130_r1l1 354.
+#facs_130_r1l2 Eintheilung
+#facs_5_region_1629374675417_465l16 eine seine
+#facs_130_r2l1 Umständen, betreffend die Herkunft, ihren
+#facs_130_r2l2 Anfenthalt, vermögen, Gesundheit, und so
+#facs_130_r2l3 weiters, in das Corporations Ruch ihres
+#facs_130_r2l4 Rezirks eingeschrieben, und kraft deßen,
+#facs_130_r2l5 wie obgemelt, als Unsere Naturalisierte
+#facs_130_r2l6 underthanen angesehen seyn.
+#facs_7_region_1629821109368_9l1 11.
+#facs_130_r2l8 Die verschiedene Bezirke der Corporation
+#facs_130_r2l9 sind folgende:
+#facs_130_r2l10 Der erste Bezirk begreift die in der
+#facs_130_r2l11 Hauptstadt und dem Stadtbezirk sich
+#facs_130_r2l12 aufhaltenden Heimatlosen.
+#facs_130_r2l13 Der zweyte Bezirk erstrekt sich auf die
+#facs_130_r2l14 Zwey Landgerichte ob der Aare, Seftigen
+#facs_130_r2l15 und Sternenberg, samt dem Stifft Amt,
+#facs_130_r2l16 und den Ämteren König, Laupen, Arberg,
+#facs_130_r2l17 Erlach, St. Johansen, Bodtstact
+#facs_22_r4l43 Büren
+#facs_130_r2l19 Der dridte Regier enthalt die zwey
+#facs_130_r2l20 Landgerichte unter der Are, Konolfingen
+#facs_130_r2l21 und Zollikofen, samt den Amteren Buchser
+#facs_130_r2l22 uns Frienisperg, und den vier Gemeinden
+#facs_130_r2l23 im Stadtgericht solligen, Mury, Stecklen¬
+#facs_105_r5l36 Pederlingen
+#facs_23_r2l5 Der
+#facs_130_r3l1 355.
+#facs_130_r3l2 Der Vierte Bezirk bestehet aus denen
+#facs_130_r3l3 Ämteren Thun, Oberhofen, und erseen,
+#facs_130_r3l4 Interlaten, Oberhaßle, Frutigen, Wimmis,
+#facs_130_r3l5 zweysimmen und Saanen.
+#facs_130_r3l6 Der Fünfte Bezirk wird formiert aus
+#facs_130_r3l7 den Amteren Signau, Trachselbals,
+#facs_130_r3l8 Sumiswald, Brandiß, Thorberg, Burgdorf,
+#facs_130_r3l9 Landshuth, Fraubrummen, Wangen, Arlangen
+#facs_185_r6l2 und
+#facs_130_r3l11 Der Sechste Bezirk wird gezogen, aus
+#facs_130_r3l12 den Ämteren Urburg, Lenzburg
+#facs_130_r3l13 Riberstein, Schenkenberg, Kastelen und
+#facs_130_r3l14 Königsfelden, und aus den vier Städten
+#facs_130_r3l15 Frau, Zofingen, Brugg und Lenzburg
+#facs_130_r3l16 Der Diebende Bezirr enthält die
+#facs_130_r3l17 Heimatlesen in den Undteren Älen
+#facs_185_r6l2 und
+#facs_130_r3l19 Der Achtl Bezirk besteht aus den
+#facs_130_r3l20 Amteren Lausanne und Oron, dazu
+#facs_130_r3l21 auch die Stadt Lausanne gerechnet
+#facs_42_r3l21 Obied
+#facs_130_r2l10 Der erste Bezirk begreift die in der
+#facs_130_r3l24 Morsen und Aubonne
+#facs_130_r3l25 Der Zehende Bezirk wird formiert aus
+#facs_119_r3l4 Aubonne, Neus und Bonmont
+#facs_131_r1l1 356.
+#facs_270_r3l16 gege
+#facs_131_r2l2 Pflichten
+#facs_131_r2l3 überhaupt
+#facs_131_r3l1 Der Eilfte Bezirk besteht allein aus
+#facs_131_r3l2 der Stadt Reus und ihrem Rezirk.
+#facs_131_r3l3 Der zwölfte Bezirk enthältet die
+#facs_131_r3l5 Amter Wiflispurg, Pekerlingen,
+#facs_131_r3l7 Milden, iferten und Romainmôtier,
+#facs_131_r3l8 samt dem Bezirk der Stadt Petterlingen
+#facs_131_r3l9 Diese sämtliche Bezirke sollen alle
+#facs_131_r3l10 zusamen, zu je und allen Zeiten, nur
+#facs_131_r3l11 eine und die gleiche Corporation
+#facs_131_r3l12 ausmachen, und immerhin von der
+#facs_131_r3l13 Direction der von uns bestelten Land¬
+#facs_131_r3l14 saßen Cammer abhangen, welche diese¬
+#facs_131_r3l15 Rezirken je nach den Umständen abändern
+#facs_3_region_1629374296225_399l1 An
+#facs_58_r5l1 111
+#facs_131_r3l18 Da nun diese Corporation in sämtliche
+#facs_131_r3l19 Ere Bezirken eingetheilt, als eine Gemein¬
+#facs_131_r3l20 anzusehen seyn soll, so machet sich dieselbe
+#facs_131_r3l21 auch, gleich allen anderen Bemeinden,
+#facs_131_r3l22 verbindlich, ihre angehörige Mitglieder
+#facs_131_r3l23 in Nothfällen zu versorgen, und überhaupt
+#facs_131_r3l24 alles das gegen sie zu thun, was ein jeder
+#facs_131_r3l25 Bürger und Gemeinds Genoß von seiner
+#facs_131_r3l26 Stadt und Bemeinde, nach den darüber
+#facs_131_r4l1 Corporations
+#facs_271_r2l3 Sein nach Genll
+#facs_131_r5l1 357
+#facs_131_r5l2 vorhandenen Reglementen und Ordnungen
+#facs_131_r5l3 fordern kan; wie dann hingegen dieselben
+#facs_131_r5l4 als Mitglieder dieser Corporation
+#facs_131_r5l5 auch alle dißörtige Beschwerden ertragen
+#facs_131_r5l6 sollen.
+#facs_7_region_1629821109368_9l1 11.
+#facs_131_r5l8 In dieser Absicht wirs auch einem jeden
+#facs_131_r5l9 Mitglied, nemlich einem Haus vadter
+#facs_131_r5l11 oder einer Widtwe mit ihren ledigen
+#facs_131_r5l12 Kindern unter 20 Jahren, ihren Kindern
+#facs_131_r5l13 über 20. Jahre, sie mögen sich bey den
+#facs_131_r5l14 Elltern aufhalten oder nicht, allen
+#facs_131_r5l15 einzelen Personen, Dienstbodten, Hand¬
+#facs_131_r5l16 werkern und Waisen, von der Landsaßen
+#facs_131_r5l17 Cammer ein förmlicher gedrukter
+#facs_131_r5l18 Corporations=Schein, unter ihrem Cammer
+#facs_131_r5l19 Insiegel und der Underschrift ihres
+#facs_131_r5l20 Secretarii, unentgeltlich zugestelt werden
+#facs_131_r5l21 strafft deßen die LandhasenCämmer, die
+#facs_131_r5l22 angenommene Person als ein Mitglied
+#facs_131_r5l23 der Corporation erkent, und zugleich
+#facs_131_r5l24 die Versicherung giebt, daß dieselbe im
+#facs_131_r5l25 fall der Noth von der Corporation besteuert
+#facs_131_r5l26 werden solle
+#facs_132_r1l1 358
+#facs_132_r1l2 Jährliche
+#facs_132_r1l3 anlagen
+#facs_132_r2l2 Damit aber zu Gesteurung der Armen
+#facs_132_r2l3 und Nothdürftigen dieser Corporation
+#facs_132_r2l4 oder Besellschaftlichen Verbindung, die
+#facs_132_r2l5 nöthigen Hilfsmittel sich jederzeit vor
+#facs_132_r2l6 finden, haben Wir /: neben deme, was des
+#facs_132_r2l7 mehreren in nachstehendem Artikel folgen
+#facs_132_r2l8 wird) fest zu sezen gut befunden. Daß
+#facs_132_r2l9 alle mit einem Corporations Schein versehen
+#facs_132_r2l10 Personen, je nach ihren Vermögens=Umstän¬
+#facs_132_r2l11 nach einem billigen Maasstab, mit einer
+#facs_132_r2l12 jährlichen Anlag oder Steuer belegt werden,
+#facs_132_r2l13 Die ganz Armen aber und die Waisen
+#facs_132_r2l14 unter 20. Jahren Alters davon ausgenommen
+#facs_132_r2l15 seyn sollen.
+#facs_132_r2l16 Diese Steuer wird von der Landhaßen¬
+#facs_132_r2l17 Cammer alle Jahre fricher dings regliert
+#facs_132_r2l18 und bestimt; so dann von dem in jedem
+#facs_132_r2l19 District gesezten Einzieher järlich auf
+#facs_132_r2l20 Michaelstag bezogen, und von ihnen
+#facs_132_r2l21 nachher der Landsaßen Cammer verrechnet.
+#facs_44_r4l6 werden
+#facs_132_r2l23 Ein jedes Mitglied von dieser
+#facs_132_r2l24 Corporation, so diese Steuer aus Saumseligkeit
+#facs_132_r3l1 HochObrigkeitl.
+#facs_107_r3l2 seine
+#facs_132_r4l1 359
+#facs_132_r4l2 und ohne erhebliche Gründe, bis zu Ende
+#facs_132_r4l3 des Jahrs nicht entrichten würde, soll
+#facs_132_r4l4 solche Dopelt bezalen, wo aber jemand so
+#facs_132_r4l5 gar bis auf den nächst darauf folgenden
+#facs_132_r4l6 Michaelstag mit der Bezahlung sammen
+#facs_132_r4l7 wäre, so soll er Richterlich gewahrnet werde,
+#facs_132_r4l8 daß wenn er solche noch bis zum Neujahr
+#facs_132_r4l9 darauf anstehen ließe, ihme der
+#facs_132_r4l10 Corporations-Schein ohne anders gezukt,
+#facs_132_r4l11 und er in Unserer Godtmäßigkeit nicht
+#facs_132_r4l12 mehr würde geduldet werden.
+#facs_7_region_1629821109368_9l1 11.
+#facs_132_r4l14 dan aber diese jährliche Anlag oder
+#facs_132_r4l15 Steuer, zu Erzielung Unserer Landes¬
+#facs_132_r4l16 vätterlichen Absicht nicht hinreichen kan
+#facs_132_r4l17 so haben Wir uns gnädigst entschloßen, mit
+#facs_132_r4l18 den bis hiehin für die Heimatlosen und
+#facs_132_r4l19 fündelbinder alljährlich angewandten
+#facs_132_r4l20 beträchtlichen Besteürungen, so lange
+#facs_132_r4l21 Wir es gut finden werden, weiters
+#facs_132_r4l22 fortzufahren.
+#facs_132_r4l23 Damit aber diese Corporation nach
+#facs_132_r4l24 ins nach zu einem Capital Fond gelange,
+#facs_132_r4l25 so ist Unser Will, daß die Land saßen
+#facs_133_r1l1 360
+#facs_305_r4l24 3. LandsaßenCamer
+#facs_283_r4l3 Ihr
+#facs_133_r1l4 Obliegenheiten
+#facs_133_r2l1 Camer aus dieser Unserer jährlichen gnädigen
+#facs_27_r1l54 1.
+#facs_133_r2l3 Beysteuer, alle Jahr eine bestimte Summ
+#facs_133_r2l4 erheben, uns mit denen durch Restitution
+#facs_133_r2l5 der genoßenen Steuren oder anderbärts
+#facs_133_r2l6 zum besten dieses Fundi eingehenden
+#facs_133_r2l7 Belderen, nach denen der Verwaltung
+#facs_133_r2l8 Ausleihung und Verwahrung Oberkeitliche
+#facs_133_r2l9 Capitalien halb, vorhandenen disörtigen
+#facs_133_r2l10 Ordnungen uns Reglementen, anwenden.
+#facs_133_r2l11 uns an Zinslegen, auch die davon fallende
+#facs_133_r2l12 Zinsen ebenfalls, bis auf Unsere weitere
+#facs_133_r2l13 Verordnung, zum Capital schlagen solle.
+#facs_54_r2l4 N.
+#facs_133_r2l15 Zur Ober Aufsicht über diese neue
+#facs_133_r2l16 inrichtung, haben Wir aus Unserem
+#facs_133_r2l17 Ehrenmittel eine Direction unter dem
+#facs_133_r2l18 Namen Landsaßen Cammer nieder gesetzt,
+#facs_133_r2l19 deren Obliegenheit einzig und allein darin
+#facs_133_r2l20 bestehen soll, ein wachsames Aug über die
+#facs_133_r2l21 Corporation genoßen zu halten, und die
+#facs_133_r2l22 Armen und Nothdürfftigen aus der
+#facs_133_r2l23 daherigen Cassa zu besteuren. Inmaßen
+#facs_133_r2l24 in allem anderen die Corporations=
+#facs_133_r2l25 genoßen, wie biß hiehin, allso noch
+#facs_133_r3l1 Directoren
+#facs_133_r3l2 in den
+#facs_63_r2l16 treiben
+#facs_133_r3l4 Einzieher.
+#facs_133_r1l1 360
+#facs_133_r4l2 ferners, lediglich von ihrem natürlichen
+#facs_133_r4l3 und gesäzlich bestimten Richter abhangen
+#facs_131_r5l6 sollen.
+#facs_148_r1l2 III
+#facs_133_r4l6 Unserer verordneten Landsaßen
+#facs_133_r4l7 sammer überlaßen Wir, zu desto beßerer
+#facs_133_r4l8 Ausführung Unserer Landes vätterlichen
+#facs_133_r4l9 Verordnung, nöthig finden den falls, in
+#facs_133_r4l10 jedem District einen eigenen Vorsteher,
+#facs_133_r4l11 oder Director zu bestellen, und mit der
+#facs_133_r4l12 dahin zielenden Instruction zu versehen.
+#facs_133_r4l13 Alles jedenoch der Meinung und in
+#facs_133_r4l14 dem Verstand, daß die daherige Arbeit
+#facs_133_r4l15 pro Deo übernommen, und nithin wegen
+#facs_133_r4l16 diesen Directoren, weder uns noch der
+#facs_133_r4l17 Corporations Cassa das wenigste, es seye an
+#facs_133_r4l18 Besoldungen, Gratificationen noch sonsten
+#facs_133_r4l19 auffallen solle, die Directoren aber, so
+#facs_133_r4l20 weit möglich, aus dem einem jeden ange¬
+#facs_133_r4l21 wiesenen Bezirk genommen werden
+#facs_11_region_1629822680921_142l1 18
+#facs_133_r4l23 In jedem Bezirk sollen zwey oder mehr
+#facs_133_r4l24 Einzieher, nach dem Umfang des Bezirks,
+#facs_133_r4l25 aus den Corporations genoßen selbst, von
+#facs_134_r1l1 362.
+#facs_106_r11l9 des
+#facs_134_r2l2 Competenz Ier
+#facs_103_r3l18 Cammer
+#facs_134_r3l1 der Cammer aus, bestelt, und mit einer
+#facs_134_r3l2 dentlichen Instruction in Pflicht aufgenomen
+#facs_134_r3l3 werden, um die aufgelegten Steuren
+#facs_134_r3l4 nach dem ihnen alljährlich zuzustellenden
+#facs_134_r3l5 Verzeichnis von allen in ihrem Bezirk
+#facs_134_r3l6 sich aufhaltenden Corporations Genoßen
+#facs_134_r3l7 fleißig zu beziehen und zu verrechnen
+#facs_134_r3l8 und überhaupt alles das zu verrichten,
+#facs_134_r3l9 was sonst die vorgesezten in den
+#facs_134_r3l10 Gemeinden in betref ihrer Angehörigen,
+#facs_134_r3l11 und deren Resteurung und Verpflegung,
+#facs_134_r3l12 zu verrichten haben.
+#facs_134_r3l13 Diese Einzieher
+#facs_134_r3l15 sollen aber für alle ihre Verhandlungen
+#facs_134_r3l16 genugsame Sicherheit und Rürgschaft geben.
+#facs_73_r8l11 r
+#facs_134_r3l18 Da Unsere zu dieser Corporation
+#facs_134_r3l19 ehörige Underthanen, in zubonft mit
+#facs_134_r3l20 übrigen unsern Angehörigen, unter
+#facs_134_r3l21 den gleichen Besäzen stehen, so soll die¬
+#facs_134_r3l22 land saßen Cammer, als Oblenuten und
+#facs_134_r3l23 Directoren dieser Corporation, ihrenthal¬
+#facs_134_r3l24 so wohl in ansehen der Aufsicht, der¬
+#facs_134_r3l25 Resteurung der Nothdürftigen, und
+#facs_134_r3l26 was dahin einschlagt, der Verogtung der
+#facs_134_r4l1 Verregtung der
+#facs_141_r3l16 Mit
+#facs_26_r7l3 mi
+#facs_137_r1l1 368.
+#facs_134_r5l2 Wittben und Waisen und Verwaltung
+#facs_134_r5l3 derselben Mitlen, als besonders in
+#facs_134_r5l4 Heyraths Fällen, das gleiche Recht haben.
+#facs_134_r5l5 als die Besäze allen übrigen Comunitaten
+#facs_134_r5l6 des Lands geben, danethin in ansehen
+#facs_134_r5l7 dieser in Corporierten Underthanen,
+#facs_134_r5l8 alles nach Maßgab Unserer Gesäzen
+#facs_134_r5l9 und Ordnungen, der Chorgrichts = Sazung,
+#facs_134_r5l10 und überhaupt allen von uns deßhalb¬
+#facs_134_r5l11 und besonders auch wegen Wiederersezung
+#facs_134_r5l12 der genoßenen Steüren von seiten der
+#facs_134_r5l13 Resteürten oder ihren Erben, emanierten
+#facs_134_r5l14 Ordnungen und vorschriften gehalten seyn.
+#facs_134_r5l15 Der diszörtigen Controlle halb, überlaßen
+#facs_134_r5l16 Wir der Cammer, die gutfindenden Vorkehren
+#facs_134_r5l17 zu treffen.
+#facs_134_r3l17 X
+#facs_134_r5l19 Wir überlaßen in fernerem ermelter
+#facs_134_r5l20 Landsaßen Cammer, und ihrer Vorsicht, so wohl
+#facs_134_r5l21 wegen Verögtung der Wittben und Weisen,
+#facs_134_r5l22 eins Verwaltung derselben Mitten, solche
+#facs_134_r5l23 Anstalten vorzukehren, und dahinführende
+#facs_134_r5l24 Instructionen zu ertheilen, daß auf der
+#facs_134_r5l25 von ihre bestellenden Einzieheren Vorschlag hin
+#facs_152_r5l2 2e
+#facs_20_region_1629824185887_382l_1 36.
+#facs_135_r1l2 Bestäurung
+#facs_135_r1l3 der Armen.
+#facs_135_r2l1 durch den Amtsmann des Orts, oder wenn
+#facs_135_r2l2 es zukomt, die Witben uns Waisen nach
+#facs_135_r2l3 Anleitung der Besetzen jeden Orts, mit
+#facs_135_r2l4 stüchtigen vögten versehen, und diese so
+#facs_135_r2l5 weit möglich aus der Corporation und
+#facs_135_r2l6 dem daherigen Bezirk genommen, zumahl
+#facs_135_r2l7 derselben Michel und Vermögen zu
+#facs_135_r2l8 ihrem Ruzen bestens besorget und
+#facs_135_r2l9 verwaltet werden.
+#facs_134_r3l17 X
+#facs_135_r2l11 Mit Sesteurung der Armen, soll es
+#facs_135_r2l12 hinfüro vollkommen gleich gehalten werden
+#facs_135_r2l13 wie mit den übrigen Bemeinden des-
+#facs_135_r2l14 Lands. Es soll nemlich in jedem Amt,
+#facs_135_r2l15 durch die Landschreiberey, eine besonders
+#facs_135_r2l16 Armenliste, über die in denselben sich
+#facs_135_r2l17 aufhaltenden nothdürftigen Corporations=
+#facs_135_r2l18 Benoßen verfaßt, und auf gleichem Fuße,
+#facs_135_r2l19 wie die anderen Armenlisten eingerichtet,
+#facs_135_r2l20 mithin auch mit Beysezung der ange¬
+#facs_135_r2l21 rathenen Steuer, alljärlich einmal der
+#facs_135_r2l22 lemmer zugesandt werden. Auf welche
+#facs_135_r2l23 Armenlisten niemand gesezt werden
+#facs_135_r2l24 soll, als der wegen hohem Alter, Krankheit
+#facs_73_r8l5 In
+#facs_135_r3l2 Kinder.
+#facs_85_r3l1 165
+#facs_135_r4l2 elender Leibsbeschaffenheit, oder Unmündig¬
+#facs_135_r4l3 beit nicht im Stande ist, seinen Underhalt
+#facs_135_r4l4 selbst zu verdienen.
+#facs_135_r4l5 Da denn nachher¬
+#facs_135_r4l6 die erkenten Steuren an den Amtsmann
+#facs_135_r4l7 übermacht, und von demselben an den
+#facs_135_r4l8 Einzieher, zu handen ihrer Angehörigen
+#facs_135_r4l9 Armen, gegen die nöthigen Quittungen,
+#facs_135_r4l10 ausgerichtet werden sollen.
+#facs_135_r4l11 Wann dann eine frische Person auf diesen
+#facs_135_r4l12 Armen Etat gesezt zu werden verlangt, so
+#facs_135_r4l13 soll der Einzieher des Bezirks, samt dem
+#facs_135_r4l14 Pfarrer des Orts, die dißörtige Sichtschrifft
+#facs_135_r4l15 underschreiben, die dann nachher durch den
+#facs_135_r4l16 Amtsmann an die Kammer gelangen
+#facs_9_region_1629822406380_88l_2 Coll
+#facs_135_r4l18 Außert dringenden Nothfällen, wo
+#facs_135_r4l19 indeßen kein Allmosen in der Zwischenzeit
+#facs_135_r4l20 und anders als auf dieser jährlichen
+#facs_135_r4l21 Armenlisten ertheilt werden.
+#facs_135_r4l22 XIII.
+#facs_135_r4l23 Rein Corporations Proceß, von denen
+#facs_135_r4l24 so einige Steuren genießen, soll befugt
+#facs_135_r4l25 seyn, als vadder, verwandter, oder
+#facs_135_r4l26 vogt, einen Knaben zu einem Handwerk
+#facs_152_r5l2 2e
+#facs_136_r1l1 366.
+#facs_136_r1l2 Wegen Anderung
+#facs_136_r1l3 des Wohnsizes und
+#facs_136_r1l4 der Diensten.
+#facs_136_r2l1 Zu widmen, er habe dann solchen zu erst
+#facs_136_r2l2 dem Amtsmann des Orts vorgestelt,
+#facs_136_r2l3 und nachher von der Cammer, auf das
+#facs_136_r2l4 Amtliche Schreiben hin, die Tewilligung
+#facs_136_r2l5 dazu erhalten, indem Unser ausdrückl.
+#facs_136_r2l6 Wille dahin geht, daß dergleichen Kinder
+#facs_136_r2l7 vorzüglich zu dem Dienst bey den Jauren
+#facs_136_r2l8 und zum Landbau überhaupt gezogen
+#facs_136_r2l9 werden; Diejenigen dann, so keine
+#facs_136_r2l10 Steuer erhalten, sollen die Restimmung
+#facs_136_r2l11 ihrer Kinder, jebeilen dem Einzieher
+#facs_136_r2l12 des Bezirks anzeigen, damit darüber
+#facs_136_r2l13 allezeit eine richtige Controlle geführt
+#facs_136_r2l14 werden könne.
+#facs_136_r2l15 XIV.
+#facs_136_r2l16 Rein Corporations Genoß soll seinen
+#facs_136_r2l17 wohnsitz veränderen, er habe dan solches
+#facs_136_r2l18 dem Einzieher seines Bezirks angezeigt,
+#facs_136_r2l19 uns seinen neu gewählten Siz gemeldet.
+#facs_136_r2l20 Auch soll kein Dienstbodt seinen Diensten
+#facs_136_r2l21 veränderen, ohne es vorhero de
+#facs_136_r2l24 hieher anzugeben. Zu welchem Ende
+#facs_136_r2l25 die denselben zugestelten Corporations=
+#facs_136_r2l26 Scheine ihren Meisterleuten hinderlegt werden,
+#facs_26_r7l2 Argener
+#facs_136_r3l2 Hindersäßen
+#facs_136_r3l3 ausgemein
+#facs_20_region_1629824185887_382l_1 36.
+#facs_136_r4l2 sollen; wie dann auch ein jeder Meister
+#facs_136_r4l3 die, seinem Dienstbock auferlegte Steuer
+#facs_136_r4l4 aus deßen Lohn, an den Einzieher
+#facs_136_r4l5 bezahlen wird.
+#facs_136_r4l7 Wann dann Unser deutliche Wille ist,
+#facs_136_r4l8 daß fürohin alle in unseren Landen
+#facs_136_r4l9 als Hindersäßen, es seye mit Weib und
+#facs_136_r4l10 Kindern, oder sonst, haus häblich sitzende
+#facs_136_r4l11 Einwohner, so wie auch die darm vertisch¬
+#facs_136_r4l12 geltende Kinder, mit einem erforderlichen
+#facs_136_r4l13 Burger Heimat- oder Corporations-Schein
+#facs_136_r4l14 versehen seyn sollen, in welchem das habende
+#facs_136_r4l15 Jürger-Heimat- oder Corporations-Recht
+#facs_136_r4l16 deutlich vorbehalten wird; und zwar, wenn
+#facs_136_r4l17 es verheirathete Personen ansieht, nicht
+#facs_136_r4l18 nur dem Mann, sondern namentlich auch
+#facs_136_r4l19 seiner Frau und Kindern; So befehlen
+#facs_136_r4l20 Wir mänglich, sich demenach zu verhalten
+#facs_136_r4l21 In dem Verstand und under der ausdrub¬
+#facs_136_r4l22 lichen Vorschrift, daß wann die Städte nur
+#facs_136_r4l23 Gemeinden (ausgenommen in den Fallen,
+#facs_136_r4l24 da die Person, auf vor Unserer verordneten
+#facs_136_r4l25 Landsaßen Cammer vorgegangene Undersuchung
+#facs_3_region_1629374275635_390l1 3.
+#facs_137_r1l1 368.
+#facs_137_r1l2 Erneuerung
+#facs_23_r2l5 Der
+#facs_140_r3l11 HeimatScheinen sie von vier- zu vier
+#facs_137_r2l1 Ein, einen Tobranz=Jedal von Unserem
+#facs_137_r2l2 täglichen Rath aufzubeisen haben wird) oh¬
+#facs_137_r2l3 die Hinderlegung solcher Scheinen hinden
+#facs_137_r2l4 sich dulden würden, sie für alle = aus¬
+#facs_137_r2l5 einer solchen Nachläßigkeit entstehende
+#facs_137_r2l6 folgen, verantwortlich, und dieselben in
+#facs_137_r2l7 sich ereignendem Fall, als die Ihrige
+#facs_137_r2l8 zu behalten und zu verpflegen schuldig,
+#facs_132_r2l15 seyn sollen.
+#facs_137_r2l10 Worbey Wir auch die Städte und
+#facs_137_r2l11 Gemeinden noch in fernerem zu
+#facs_137_r2l12 errinneren nöthig erachten, daß nach¬
+#facs_137_r2l13 Unserer Verordnung vom 18. Marty 1763.
+#facs_137_r2l14 die Heimatscheinen der Eidgnoßen und
+#facs_137_r2l15 Landsfremden, je von vier zu vier Jahren
+#facs_137_r2l16 erneneret werden müßen, sonsten aber
+#facs_137_r2l17 die Saumseligen ohne anders fortgewiesen
+#facs_137_r2l18 werden sollen. Die Heimatscheine
+#facs_137_r2l19 der Landshindern aber, in so ferne-
+#facs_137_r2l20 selbige nach der Vorschrift vom 14ten Augl.
+#facs_137_r2l21 1770. eingerichtet sind, haben keiner
+#facs_137_r2l22 Erneuerung nöthig.
+#facs_136_r4l6 XV
+#facs_137_r2l24 Und da die Ausachtlaßung deßen,
+#facs_131_r2l1 Begenseitige
+#facs_165_r2l7 Weibs Persohnen
+#facs_137_r3l3 mit Eis großen odt
+#facs_137_r3l4 landsfremden.
+#facs_137_r4l1 369
+#facs_137_r4l2 das Unsere Predigkanten Ordnung deutig
+#facs_137_r4l3 und weltschen Lands, wegen Einsegnung
+#facs_137_r4l4 der Eidgnoßen und Landsfremden mit
+#facs_137_r4l5 hiesigen Weibspersonen verschreibet, im
+#facs_137_r4l6 vergangenen nicht wenig, zu Vermehrung
+#facs_137_r4l7 der Heimatlosen, beygetragen; So ist Unser
+#facs_137_r4l8 Hoch Obrigkeitlicher ernstlicher Wille, daß
+#facs_137_r4l9 diese Obrigkeitliche Ordnung in Zukonft,
+#facs_137_r4l10 so, wie überhaupt in allen Theilen, also
+#facs_137_r4l11 auch besonders in diesem Fall, genau
+#facs_137_r4l12 befolget werde, mithin allen Pfarreren
+#facs_137_r4l13 Unserer Deutsch und weltschen Landen,
+#facs_137_r4l14 ausdruklich undersagt und verbotten.
+#facs_137_r4l15 seyn solle, hiesige Weibspersonen mit Ein¬
+#facs_137_r4l16 gnoßen oder Landsfremden einzusegnen
+#facs_137_r4l17 wenn nicht von den Eisgeoßen einförmlicher
+#facs_137_r4l18 Verkündigungs- und zugleich darauf
+#facs_137_r4l19 gerichteter Heimat-Schein, nach der
+#facs_137_r4l20 vorschrifft des XV. Art. dieser Verordnung,
+#facs_137_r4l21 von den Landsfremden dann, die vorher von
+#facs_137_r4l22 Unserm täglichen Rath vorgeschriebener
+#facs_137_r4l23 maßen, erhaltene Gebilligung, vorgeliehen
+#facs_137_r4l24 worden wäre; und daß überhaupt hiesige
+#facs_137_r4l25 Weibspersonen sich nicht, ohne die auf¬
+#facs_137_r4l26 vorgemelte Weis eingerichteten Scheinen
+#facs_54_r2l4 N.
+#facs_138_r1l1 370.
+#facs_83_r3l9 wegen
+#facs_138_r1l3 Der Lands=
+#facs_138_r1l4 fremden
+#facs_138_r2l1 oder Bewilligungen, an äußeren Orten
+#facs_138_r2l2 mit Eidgnoßen oder Lands fremden
+#facs_138_r2l3 verehelichen sollen, maßen sie sonst hier
+#facs_138_r2l4 nicht mehr geduldet, und ohne anders,
+#facs_138_r2l5 samt ihrem Mann und allfälligen
+#facs_138_r2l6 Kindern, fort= und aus dem Land sollen
+#facs_138_r2l7 gewiesen werden.
+#facs_138_r2l8 XVII
+#facs_138_r2l9 Damit endlich auch durch allzuleichte
+#facs_138_r2l10 Aufnahme der Lands fremden, es sey
+#facs_138_r2l11 mit Bewilligungen zum Heyrathen, oder
+#facs_138_r2l12 sonst auf andere Weise, nicht wieder¬
+#facs_138_r2l13 eine neue Last von Heymatlosen dem
+#facs_138_r2l14 Land auffalle, und fürohin keine Unord¬
+#facs_138_r2l15 mung mehr hierin entstehen könne.
+#facs_138_r2l16 So haben Wir zu verordnen gut gefunden,
+#facs_138_r2l17 daß alle Fremden, auch die Proselyten
+#facs_138_r2l18 die sich um Ankauffung eines Burgerreich
+#facs_138_r2l19 es sey bey Bewilligung zum Heyrathen
+#facs_138_r2l20 oder sonst anmelden würden, so wohl als die
+#facs_138_r2l21 allenfalls mit ihnen verlobten Weibspersoner
+#facs_138_r2l22 vor allem aus durch unsere Amtleut mit
+#facs_138_r2l23 einem Schreiben an Unsere verordnete
+#facs_138_r3l1 3710
+#facs_138_r3l2 Lanssaßen Cammer gewiesen werden sollen,
+#facs_138_r3l3 damit daselbst ihr Begehren erdauret
+#facs_138_r3l4 ihre Umstände, so wohl in ansehen des
+#facs_138_r3l5 Vermögens und der Regangenschaft,
+#facs_138_r3l6 als der Aufführung, und ob sie
+#facs_138_r3l7 mithin dem Land nuzlich seyen oder
+#facs_138_r3l8 nicht? Nach Anleitung Unserer Verordnung
+#facs_138_r3l9 vom 26ten Decembl. 1759. genau undersucht,
+#facs_138_r3l10 und ihre allfällige Briefschaften sorgfältig
+#facs_138_r3l11 geprüft werden; da dann die Supplicanten
+#facs_138_r3l12 entweder gänzlich werden abgewiesen, oder
+#facs_138_r3l13 das heraus kommende, es sey daß die
+#facs_138_r3l14 Ankauffung eines Burgerrechtens, oder
+#facs_138_r3l15 die Annahme in die Corporation ange¬
+#facs_138_r3l16 meßener erfunden werde, Unserem
+#facs_138_r3l17 täglichen Rath, zur allfälligen Genehmigung
+#facs_138_r3l18 oder Verwerfung wird vorgelegt werden.
+#facs_138_r3l19 Schließlich versehen Wir uns zu unsern
+#facs_138_r3l20 allseitigen lieben uns getreuen Angehörigen
+#facs_138_r3l21 daß gegenbärtige Unsere zum Resten dis
+#facs_138_r3l22 Vackerlands abzwekende Verordnung, in
+#facs_138_r3l23 ihrem ganzen Innhalt getreulich werde¬
+#facs_138_r3l24 befolget und darmit unsere dabey
+#facs_75_r4l4 Un
+#facs_139_r1l1 372.
+#facs_139_r2l1 gehabte heilsame Absicht erzielet werden
+#facs_139_r2l2 zu welchem Eno dann solche nicht allein zu
+#facs_139_r2l3 eines jeden Nachricht öffentlich verländet,
+#facs_139_r2l4 sondern auch in deutschen und französischen
+#facs_139_r2l5 Sprach zum Druk beförderet= in
+#facs_139_r2l6 davon, zu weiterer Bekantmachung,
+#facs_139_r2l7 genugsame Exemplar auf Unsere Schlöße
+#facs_139_r2l8 versandt werden sollen.
+#facs_139_r2l9 Beben in Unseren großen Raths¬
+#facs_139_r2l10 Versamlungen vom Angstmonat und
+#facs_139_r2l11 Herbstmonat 1779., wie auch vom 25. und
+#facs_139_r2l12 28th Hornung 1780.
+#facs_6_region_1629374919258_502l6 Canzley Bern
+#facs_178_r8l1 en

@@ -1,0 +1,372 @@
+Law nr: BER.01.001.4596
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 361/361
+# High similarity (>=80%): 347
+# Low similarity (<80%): 14
+# Not found: 0
+#
+#facs_110_r6l29 Stadt
+#facs_16_r11l2 bl. x
+#facs_30_r2l1 54
+#facs_14_region_1627971782200_27l1 Verordnung
+#facs_282_r5l3 Wir Schultheisz clern und
+#facs_282_r5l4 große Rähte dergund Republit Bern¬
+#facs_282_r5l5 entbieten hiemit allen und jeden Unserer
+#facs_176_region_1633454865069_2955l4 Angehörigen zu Stadt und Land Unsern
+#facs_282_r5l7 gnädigen und hohlgeneigten Willen,
+#facs_282_r5l8 und geben ihnen dabey zu vernemmen.
+#facs_282_r5l9 daß wir in fortbährend Landes¬
+#facs_282_r5l10 Väckerlicher Seherzigung des Bahres
+#facs_282_r5l11 Wohlsteyns Unserer getreuen lieben
+#facs_282_r5l12 Angehörigen, wiedermahlen über die
+#facs_282_r5l13 Beschaffenheit und den gegenbärtigen
+#facs_282_r5l14 Zustand der Viehzucht in Unferen
+#facs_282_r5l15 anden, die nähern Bericht einziehen,
+#facs_282_r5l16 und Uns solche vorlegen laßen, Wir
+#facs_282_r5l17 daraus mit Vergnügen ersehen,
+#facs_282_r5l18 das Unsere Lande mit Leb Waar
+#facs_282_r5l19 hinlänglich verstehen sich befinden.
+#facs_282_r5l20 folgsam auch die freye Handlung
+#facs_282_r5l21 gegen außern und fremde offen
+#facs_282_r5l22 bleiben kann
+#facs_282_r5l23 Wie dann unser Wille ist, daß
+#facs_282_r5l24 bey solchen Umständen auch durch
+#facs_283_r1l1 550.
+#facs_283_r2l1 gegenwärtige Verordnung die freye¬
+#facs_283_r2l2 Handlung und Ausfuhr alles Viehs¬
+#facs_283_r2l3 ihren Fortgang haben solle, allso daß
+#facs_283_r2l4 die Unserigen ihr abzustoßen.
+#facs_283_r2l5 habendes Vieh, so wohl meals ausser
+#facs_283_r2l6 Lands, an einheimsche, Ansere
+#facs_283_r2l7 und fremde verkaufen, auch hin
+#facs_283_r2l8 biederum alle Äußern und Fremde
+#facs_283_r2l9 das benöhtigte kleine und große
+#facs_283_r2l10 fecte und magern Vieh, bie auch
+#facs_283_r2l11 Kälber und Schaafe etc. in Unseren
+#facs_283_r2l12 Landen ankaufen und daraus ab¬
+#facs_283_r2l13 führen können.
+#facs_283_r2l14 Nur die besonderen Falle vorbe¬
+#facs_283_r2l15 halten, wo wir, aus Anlas der
+#facs_283_r2l16 von Unseren benachbarten aus¬
+#facs_283_r2l17 gegebenen und noch auszugebene
+#facs_283_r2l18 verstärkten Verordnungen gegen
+#facs_283_r2l19 Unsere Lande, die allfällige Ausübung
+#facs_283_r2l20 des Gegenrechts zu verhängen für
+#facs_283_r2l21 nöhtig erachten werden.
+#facs_283_r2l22 Damit dabeÿ aller Fürkauf (als welchen
+#facs_283_r2l23 Wir mennüglich so bohl einheimischen
+#facs_283_r2l24 als Fremden fernerhin und bey¬
+#facs_283_r3l1 5514
+#facs_283_r3l2 nachgesezter Ruße verbotten haben
+#facs_283_r3l3 bollen) vermieden bleibe: So haben
+#facs_283_r3l4 Wir nöhtig erachtet, disorts Unsere
+#facs_283_r3l5 ehevorige Verordnung vom 21. und
+#facs_283_r3l6 24ten May 1773 und 30. April 1783
+#facs_283_r3l7 um etwas zu verstärken; demenach
+#facs_283_r3l8 ist unser Wille
+#facs_283_r3l9 Taß die einheimischen Händler
+#facs_283_r3l10 gehalten seyn sollen, alles Vieh, so
+#facs_283_r3l11 sie in Unsteren Landen bauten,
+#facs_283_r3l12 drey Wochen, ehe sie solches wieder
+#facs_283_r3l13 verkaufen können, ob ihrem eigenen
+#facs_283_r3l14 Fuder zu halten
+#facs_283_r3l15 Den Bauern und Händleren
+#facs_283_r3l16 euch insbesondere verbotten seye,
+#facs_283_r3l17 die von ihnen zum Wiederverkauf
+#facs_283_r3l18 erhandleten Kälber weiters zu
+#facs_284_r2l6 verkaufen.
+#facs_187_r3l10 sie solche zu beßerer Mastung drey
+#facs_283_r3l21 Wochen lang, an ihrer Milch
+#facs_283_r3l22 gehalten haben.
+#facs_283_r3l23 Außere und fremde sollen
+#facs_283_r3l24 verbunden seyn, alles in Unseren Landen
+#facs_283_r3l25 erkaufte vieh, ohne Unterscheid
+#facs_284_r1l1 552
+#facs_284_r2l1 allfobald an die Hand zu nemen,
+#facs_284_r2l2 und abzuführen, zumal ihnen aller
+#facs_284_r2l3 dings verbotten bleibt, solches in
+#facs_284_r2l4 Unseren Landen ob dem Futter
+#facs_284_r2l5 zu halten, oder darin wieder zu
+#facs_284_r2l6 verkaufen.
+#facs_284_r2l7 Hierunter aber wollen Wir
+#facs_284_r2l8 nicht begriffen, habe die eydgenösischen
+#facs_284_r2l9 Mehger Meistere und deren durch
+#facs_284_r2l10 glaubwürdige Scheine anerbennte
+#facs_284_r2l11 geduchte-Knechte, als welchen Wir auf
+#facs_284_r2l12 allen Fall hin, anmit erlauben,
+#facs_284_r2l13 das zu Beforgung ihrer Fleisch
+#facs_284_r2l14 bauren in Unseren Landen ein
+#facs_284_r2l15 zukaufende große Mastvieh, so
+#facs_284_r2l16 funf Hentner und mehr an Gebicht
+#facs_284_r2l17 faltet, noch vierzehen Tage, aber
+#facs_284_r2l18 länger nicht, ob des Verkauffers
+#facs_284_r2l19 Fuder zu laßen; alles mindere
+#facs_284_r2l20 Vieh aber, bie auch die Kälber und
+#facs_284_r2l21 Schaafe, sollen sie gleich den Anßerg
+#facs_284_r2l22 und Fremden, allsobald an die Hand
+#facs_284_r2l23 zu nehmen und abzuführen verbunden,
+#facs_80_r2l15 seyn.
+#facs_284_r3l1 553
+#facs_284_r3l2 Alles bey einer Ruß von Achthig
+#facs_284_r3l3 Pfunden, von jedem großen Stuk
+#facs_284_r3l4 vieh, und jehen Pfund von jedem
+#facs_284_r3l5 kalb oder Schaaf, von dem in ein¬
+#facs_284_r3l6 oder anderen der obvermelten
+#facs_284_r3l7 fällen wiederhandlenden Käufer
+#facs_284_r3l8 zu beziehen, davon ein drictel
+#facs_284_r3l9 Uns, der andere dem Amtsmann
+#facs_284_r3l10 des Orts, und der dricte dem Ver¬
+#facs_284_r3l11 leider, nebst Geheimfaltung seines
+#facs_284_r3l12 Namens, heimdienen soll.
+#facs_284_r3l13 Das Zugrecht betreffend: so bleibt
+#facs_284_r3l14 solches zu günsten der Metzger¬
+#facs_284_r3l15 Meisteren unserer Hauptstadt
+#facs_284_r3l16 fernerhin vorbehalten, allso daß
+#facs_284_r3l17 sie selbiges wieder alle fremde Metzger,
+#facs_284_r3l18 so nicht Eidgenoßen sind, wie auch auf
+#facs_284_r3l19 alle Wiederverkauf handlende Fremde
+#facs_284_r3l20 und einheimische ausüben mögen;
+#facs_284_r3l21 jedoch mit der Einschränkung: daß
+#facs_284_r3l22 ob vermeltes Zugrecht gegen äußere
+#facs_284_r3l23 und fremde an Jahrmarkten, nicht
+#facs_284_r3l24 Plaz haben= und in allen Fällen,
+#facs_284_r3l25 er so ziehen bill, den ganzen Kaufs
+#facs_30_r5l1 55
+#facs_28_r4l1 Coll
+#facs_285_r3l1 wie solcher ergangen, annehmen und
+#facs_285_r3l2 nicht nur etwa ein Stük, so ihme
+#facs_285_r3l3 beliebig, auslesen, auch gleich dem
+#facs_285_r3l4 ersten Käufer baar bezahlen solle.
+#facs_285_r3l5 Welches hirmit in Aufhebung aller
+#facs_285_r3l6 Unserer ehevorigen disförtigen Ver
+#facs_285_r3l7 ordnungen, und damit Jedermann
+#facs_285_r3l8 sich vorlichaden hüten könne, ouentlich
+#facs_285_r3l9 von Kanzeln verlesen, und an den
+#facs_285_r3l10 gebohnten Orten, angeschlagen werden
+#facs_285_r3l11 soll, mit dem ferneren ernstlichen
+#facs_285_r3l12 Befehl an alle Unsere Ober- und
+#facs_285_r3l13 Unter Beamtete, ob dieser Verordnung
+#facs_285_r3l14 geflißen Hand zu halten, damit
+#facs_285_r3l15 derselben bestens nachgelebt werde.
+#facs_285_r3l16 geben in Unferer großen Raths-
+#facs_285_r3l17 Verhandlung den 20. Christmonat 1786.
+#facs_65_r3l5 Canzley Bern.
+#facs_83_r3l6 en
+#facs_47_r3l6 Traduction.
+#facs_285_r3l20 Nous l'Avoyer petit et grand
+#facs_285_r3l21 Conseil de la Ville d Repullique de
+#facs_285_r3l22 Berne, mandons notre gracieuse Bien-
+#facs_285_r3l23 veillance, a tous nos chers et fide les Citoyens
+#facs_30_r5l1 55
+#facs_285_r4l2 sujets et ressortissants, et leurs faison
+#facs_285_r4l3 savoir par les presentes
+#facs_285_r4l4 Que constamment animés du désir
+#facs_285_r4l5 de contribuer a leur bien-être, Nous
+#facs_285_r4l6 Nous sommes fait rendre Compte
+#facs_285_r4l7 dernierement de l'Etat du Bétail.
+#facs_285_r4l8 existant dans les Pays de Notre Do=
+#facs_285_r4l9 „mination, & avons après des recherches
+#facs_285_r4l10 xactes, remarqué a Notre Satisfaction
+#facs_285_r4l11 quils en sont suffissament pourvus,
+#facs_285_r4l12 qu'en consequence la liberté du Com-
+#facs_285_r4l13 merce, a cet égard, pourroit continuer
+#facs_285_r4l14 comme du passé
+#facs_285_r4l15 Voulant donc, eu égard aux circonstances
+#facs_285_r4l16 continuer à permettre la sortie et le libre
+#facs_285_r4l17 commerce de toute espece de Betail.
+#facs_285_r4l18 Nos ressortissants auront pleine liberté
+#facs_285_r4l19 de se défaire de leur bétail superfic¬
+#facs_285_r4l20 de la maniere qui leur conviendra
+#facs_285_r4l21 le mieux, soit dant le pays même
+#facs_285_r4l22 en faveur des habitans du Canton
+#facs_285_r4l23 & des marchands étrangers industinte
+#facs_285_r4l24 ment, soit en le faisant passer au
+#facs_285_r4l25 dehors; tout comme nous permettons
+#facs_30_r5l1 55
+#facs_286_r2l1 aux marchands étrangers, de se pour
+#facs_286_r2l2 voir dans nos pays du bétail neces
+#facs_286_r2l3 saire, gros & menu, gras ou moigre
+#facs_286_r2l4 Il de le faire passer dans l'étrange
+#facs_286_r2l5 y compris même les veaux & les
+#facs_286_r2l6 moutons
+#facs_286_r2l7 Nous reservant toutefois les cas
+#facs_286_r2l8 particuliers, ou des Ordonnances
+#facs_286_r2l9 plus ou moins rigoureuses de nos
+#facs_286_r2l10 voisins, publiées ou à publier, au
+#facs_286_r2l11 désavantage du commerce de nos
+#facs_286_r2l12 sujets, pourroient nous engagerons
+#facs_286_r2l13 a ordonner la réciprocité à leur
+#facs_286_r2l14 egard
+#facs_286_r2l15 mais enfin que les revendeurs
+#facs_286_r2l16 n'abusent pas de cette liberté d’une
+#facs_286_r2l17 maniere contraire a nos intensions,
+#facs_286_r2l18 & en défense recterée de tout comerie
+#facs_286_r2l19 d’accaparemment, sous peine de
+#facs_286_r2l20 l'amende ci-après en oncée, nous
+#facs_286_r2l21 avons cru devoir renforcez, en vertu.
+#facs_286_r2l22 des Presentes, nos ordonnances anle¬
+#facs_286_r2l23 rieures du 21. & 24. Mai 1773. & celle
+#facs_286_r2l24 du 30 Avril 1783. Ordonons en consequence.
+#facs_283_r3l1 5514
+#facs_286_r3l2 Que tous nos ressortissants sans
+#facs_286_r3l3 exception, exercant ce genre de comerce
+#facs_286_r3l4 seront tenus de garder dans leurs étables
+#facs_286_r3l5 pendant l'espace de trois semaines.
+#facs_286_r3l6 tout le Bétail qu'ils acheteront dans
+#facs_286_r3l7 nos pays.
+#facs_286_r3l8 Defendant specialement aux mar¬
+#facs_286_r3l9 chands de bestiaux, et aux habitants
+#facs_286_r3l10 de la campagne, de se défaire des
+#facs_286_r3l11 veaux quils acheteront pour revendre
+#facs_286_r3l12 ensuite, à moins de les avoir gardés
+#facs_286_r3l13 & nourir, avec du lait a leurs
+#facs_286_r3l14 fraix, pendant le terme de trois
+#facs_286_r3l15 semaines.
+#facs_286_r3l16 Et quant aux marchands etrangers
+#facs_286_r3l17 en général, nous voulons, qu'ils emenent
+#facs_286_r3l18 fout de suite & sans délai hors du
+#facs_286_r3l19 Pays tout le Bétail sans exception
+#facs_286_r3l20 dont ils auront fait emplette, leur de
+#facs_286_r3l21 fendant très expressément de l'y garder,
+#facs_286_r3l22 ou de l'y revendre
+#facs_286_r3l23 Nous reservons cependant en faveur
+#facs_286_r3l24 des maitres bouchers Suisses, soit leurs
+#facs_286_r3l25 valets agages, qui pourront se légitimer,
+#facs_30_r5l1 55
+#facs_287_r2l1 par des certificats authentiques, de
+#facs_287_r2l2 pouvoir laisser le Betail gras, du
+#facs_287_r2l3 poir de cinq quintaux, et en dessus,
+#facs_287_r2l4 qu'ils auront acheté pour l'usage
+#facs_287_r2l5 de leurs boucheries, pendant quinze
+#facs_287_r2l6 jours au plus dans l'établa du vendeur
+#facs_287_r2l7 bien entendu; que cette permission ne
+#facs_287_r2l8 pourra s'étendre aux bestiaux des
+#facs_287_r2l9 moindre poids, ni par consequent.
+#facs_287_r2l10 aux veaux & aux moutons, puisqu'il
+#facs_287_r2l11 cet egard les bouchers Suisses seront
+#facs_287_r2l12 censes astreints a la meme regle
+#facs_287_r2l13 que tout autre acheteur étranger
+#facs_287_r2l14 Le tout sous peine de 150. flormes
+#facs_287_r2l15 d'amende pour chaque piece de gros
+#facs_287_r2l16 Bètail, & de dix-huit florins, neuf
+#facs_287_r2l17 sols pour chaque veau ou mouton
+#facs_287_r2l18 a percevoir en l'un ou l'autre
+#facs_287_r2l19 cas de lacheteur qui osera y contre
+#facs_287_r2l20 venir, dont un tiers a nous, un
+#facs_287_r2l21 tiers au Juge du lieu & un tiers
+#facs_287_r2l22 au Dénonciateur, le nom duquel
+#facs_287_r2l23 sera tenu secret.
+#facs_111_r2l25 beit.
+#facs_287_r2l25 Quant au droit de retrait dont
+#facs_287_r2l26 let
+#facs_287_r3l1 559.
+#facs_287_r3l2 les maîtres bouchers de la capital
+#facs_287_r3l3 ont joui jusqu'ici, ils pourront con¬
+#facs_287_r3l4 tinuer à l'excercer contre les bouchers
+#facs_287_r3l5 étrangers, qui ne seront pas suisses,
+#facs_287_r3l6 ainsi que généralement contre tous ceux
+#facs_287_r3l7 qui font commerce de Bétail, Citoyens
+#facs_287_r3l8 ou étrangers; bien entendu néanmoins
+#facs_287_r3l9 que ce droit n'aura point lieu à l'egard
+#facs_287_r3l10 des bouchers étrangers aux grandes
+#facs_287_r3l11 foires, et que celui de nos bouchers
+#facs_287_r3l12 qui voudra en faire usage, ne pourra
+#facs_287_r3l14 retractionner le Bétail acheté en
+#facs_287_r3l15 partie seulement, mais sera tenu
+#facs_287_r3l16 de prendre le tout et de payer compi
+#facs_287_r3l17 tant, si l'achat s'est fait sur ce
+#facs_287_r3l18 pied la
+#facs_287_r3l19 Derogemt enfin a nos ordonnances
+#facs_287_r3l20 an terieures a cet égard, nous voulons
+#facs_287_r3l21 que les présentes soyent liées et publiées
+#facs_332_r3l23 en chaire & affichée aux lieux
+#facs_287_r3l23 accoutumes, pour que chacun puisse
+#facs_287_r3l24 se preserver de dommage. Enjoig-
+#facs_287_r3l25 nant a cet effet a nos Ballifs &
+#facs_287_r3l26 leurs subdélégués de veiller scrupuleusement
+#facs_288_r1l1 560.
+#facs_279_r3l14 à l'exacte observation de la présente
+#facs_288_r2l2 Ordonnance.
+#facs_288_r2l3 Donne en Conseil Souverain
+#facs_288_r2l4 le 20e Decembre 1786
+#facs_71_r5l17 Shancellerie de Berne
+#facs_23_region_1633454616028_2913l1 An
+#facs_219_r4l10 alle deuttoch und welche Herren
+#facs_229_r5l13 Amtleut, vier Städt-Freyweibel
+#facs_117_r5l16 und Amann
+#facs_335_r3l17 Erläuterung
+#facs_288_r2l11 22. Novembris 1786 von lobl. Stand¬
+#facs_288_r2l12 Luzern, ausgegangenen Vieh Mandatt.
+#facs_235_r3l9 Schultheiß und Rath etc. Es hat
+#facs_288_r2l14 Stand Luzern sich gegen uns erklär¬
+#facs_288_r2l15 daß in dem von ihnen unterend
+#facs_288_r2l16 22. leht verfloßenen Monat ausge¬
+#facs_288_r2l17 gangenen Mandat, wegen dem
+#facs_288_r2l19 für- und Aufkauff auch Ausfuhr
+#facs_288_r2l20 des Viehs, der Kauf der Kälber
+#facs_288_r2l21 beÿ den Stallen nicht gemeint
+#facs_288_r2l22 nithin nicht unter dem Verbott
+#facs_288_r2l23 begriffen seyn sollen, um so da
+#facs_288_r2l24 mehr als die Kälber niemahls
+#facs_290_r1l1 5611
+#facs_288_r3l2 In Markt geführt werden, dahero
+#facs_288_r3l3 Unseren Bürgeren und Angehörigen
+#facs_288_r3l4 Mezger Meisteren gegen vor¬
+#facs_288_r3l5 beisung authentischer Scheinen
+#facs_288_r3l6 zu verstehung ihrer Fleischbänken
+#facs_288_r3l7 nicht aber zum Wiederverkauf
+#facs_288_r3l8 den Ankauf der Kälber und Zwar
+#facs_288_r3l9 ohne zugrecht gestattet wird.
+#facs_288_r3l10 Gleichbin wir nun denen Luzer¬
+#facs_288_r3l11 nischen Furgeren und Angehörigen
+#facs_288_r3l12 Mehgermeisteren, gegen gleich¬
+#facs_288_r3l13 mäßige Bescheinigung die gleiche
+#facs_288_r3l14 Freiheit gestadten, allso haben
+#facs_288_r3l15 Wir euch deßen berichten Bollen
+#facs_288_r3l16 mit dem befelchlichen Auftrag
+#facs_288_r3l17 solches Euch in Vorfallenheiten
+#facs_288_r3l18 zur Wegbeisung dienen, und dieses
+#facs_288_r3l19 gebohnter maßen publicieren zu
+#facs_288_r3l20 laßen. Dat. den 29ten Decembris
+#facs_214_r2l7 1786.
+#facs_289_r1l1 : 562
+#facs_28_r4l1 Coll
+#facs_23_region_1633454616028_2913l1 An
+#facs_289_r3l2 alle Herren Amtleut deutschen
+#facs_289_r3l3 Lands, ausgenommen Aelen und Saangen
+#facs_289_r3l4 das ein jedeiliger Ober Commissarius
+#facs_289_r3l5 Deutscher Landen, die Rechnung.
+#facs_289_r3l6 Emolumente, ins künftig von dem
+#facs_289_r3l7 J. Herren Amtleute beziehen solle.
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_289_r3l9 Aus Anlas der ohnlängst ver¬
+#facs_289_r3l10 ordneten Ctablierung eines deutschen
+#facs_289_r3l11 Commissariats für die Besorgung der
+#facs_289_r3l12 Oberbeitlichen Lehens gerechtigkeiten
+#facs_289_r3l13 in Unseren Landen ist von Unsers
+#facs_289_r3l14 Ght und Oberen zugleich gutbefunden,
+#facs_289_r3l15 und erkent worden, daß einem
+#facs_289_r3l16 jebeiligen OberCommissarii deutschen
+#facs_289_r3l17 lands, in betref der Rechnung
+#facs_289_r3l18 Emolumente unserem Teutstehen
+#facs_289_r3l19 Sevelschreiber, gleich gehalten
+#facs_289_r3l20 und mithin ihme gleich jenem
+#facs_289_r3l21 sothane Emolumente, hinfüro zu
+#facs_289_r3l22 erkant seyn, und von Unseren
+#facs_289_r3l23 Amtleuten T. Lands jebeilen ent¬
+#facs_289_r3l24 richtet werden sollen.
+#facs_28_r4l1 Coll
+#facs_31_r2l1 56.
+#facs_289_r5l2 Damit ihr Euch nun diesem nach
+#facs_289_r5l3 in Zukauft verhalten könnet
+#facs_289_r5l4 so haben Wir Euch hievon die nöhtige
+#facs_289_r5l5 Bekantschaft hiemit geben zugleich
+#facs_289_r5l6 dann auftragen wollen, solches zu
+#facs_289_r5l7 fueren und Eüerer Amtsnachfahren
+#facs_289_r5l8 Wißenschaft und Verhalt seines Orts
+#facs_289_r5l9 behörig einschreiben zu laßen.
+#facs_261_r2l4 Datl. den 6ten

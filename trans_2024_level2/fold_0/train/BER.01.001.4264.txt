@@ -1,0 +1,36 @@
+Law ID: BER.01.001.4264
+Name: Ihnen anbefehlen, ein gewisses Quantum vom Getreid zu versilberen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_502
+# Matched: 25/25
+# High similarity (>=50%): 24
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_62_r1l1 111.
+#facs_62_r1l2 Collath.
+#facs_62_r2l1 An
+#facs_62_r2l2 Alle Teutsch und Weltsche H. Amtleut, und Häus¬
+#facs_62_r2l3 da Oberkeitl. Getreid vorraht ist.
+#facs_62_r2l4 Ihnen anbefehlen, ein gewißes quantum vom
+#facs_62_r2l5 Getreid zu versilberen
+#facs_62_r2l6 Schultheis Räht und Bürgers
+#facs_62_r2l7 Über den von Unseren Fürgeliebten Mit Räht
+#facs_62_r2l8 Teütsch und Weltsch Sebelmeister und vonneren
+#facs_62_r2l9 gethanen Vortrag, betreffend den verbauf de¬
+#facs_62_r2l10 über den geordneten Vorraht aus vorschießenden
+#facs_62_r2l11 Oberkeitlichen Getreids, haben Wir euch hiermit
+#facs_62_r2l12 Befehlen wollen, nach Abzug der Ordinarien
+#facs_62_r2l13 und Quasi Ordinarien, das über den Vorraht
+#facs_62_r2l14 aus vorschießende Getreid, und zwar die Sommer
+#facs_62_r2l15 Früchte in toto, die Winterhruchte aber für
+#facs_62_r2l16 dißmahl nur zum halbigen Theil zu versiltern
+#facs_62_r2l17 Allso daß mit dem mingst behaltlichsten nach
+#facs_62_r2l18 Anweisung Unser Venner Hammer der Anfang
+#facs_62_r2l19 gemacht, und solches nicht durch allzu große
+#facs_62_r2l20 Käufe, sondern aufs höchste nur per Ein Fuder
+#facs_62_r2l21 hingegeben werde, 4 Über das verbauffende
+#facs_62_r2l22 dann werdet Ihr getreue Rechnung abzulegen
+#facs_62_r2l23 festens wißen. Datl. d. 16. Febr. 1767.

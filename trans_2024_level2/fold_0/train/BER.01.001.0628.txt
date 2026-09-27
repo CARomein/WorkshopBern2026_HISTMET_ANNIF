@@ -1,0 +1,63 @@
+Law ID: BER.01.001.0628
+Name: Manung uff Ir Gn. Hüser und Schlösser wohl zuachten und die Underthanen uffmuntern.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 52/52
+# High similarity (>=80%): 36
+# Low similarity (<80%): 16
+# Not found: 0
+#
+#facs_124_r3l14 Die wohnung
+#facs_211_r4l24 Crassier
+#facs_148_r3l6 ganz
+#facs_43_r2l50 gethaner.
+#facs_291_r4l1 [5]78
+#facs_291_r4l2 Cücteren abzuvorderen und alles an
+#facs_291_r4l3 gebürende ort zuschaffen, damit die künfftigen
+#facs_291_r4l4 Besteher der Zenden und wyn gerads deu
+#facs_291_r4l5 wyn fassen mogind, und an dend einer
+#facs_291_r4l6 vnd anderen mit versumt werde, datum 28
+#facs_291_r4l7 Maij 1619
+#facs_289_r2l3 An Tütsch und W. amplütt.
+#facs_291_r4l9 Schlosser Woll
+#facs_101_r2l3 4 Stett In Argouw Fryweibel
+#facs_270_r3l5 das
+#facs_291_r4l12 unnd Amen,
+#facs_65_r1l20 nt
+#facs_291_r4l14 ichs etc. wir dnemmen mit befrömbden, das
+#facs_291_r4l15 vnsere E. M. vnd B. der Statt Fryburg
+#facs_291_r4l16 auch Solothurn vnd vbrige Papistische Ortt sich seltzner
+#facs_291_r4l17 achen verlutten lassendt, und zu sonderheit, die
+#facs_291_r4l18 zwo Stett, sarche wachten, thags vnd nachts angestelt
+#facs_291_r4l19 vnd dan Ire und Thannen, gantz Ernstlich zu vffrüst¬
+#facs_291_r4l20 ung gehalten haben sollendt, vnnd will nun
+#facs_291_r4l21 der Sach mit zuthruwen, vnd ob woll ande ortt eben
+#facs_291_r4l22 mitt so vill derglijchen thund, aber doch ohne Zwyffell
+#facs_291_r4l23 an Einem Seyll zu den werdendt und unrhofft
+#facs_291_r4l24 etwas vnderstan möchtend, haben wir dich der¬
+#facs_291_r4l25 vermannen, vnd dir hiemit hochstes Ernstes natalen
+#facs_291_r4l26 befelchen wöllen desto wachtbarer vnd umbsichtiger
+#facs_291_r4l27 Zesindt, vff vnser Schlag und Hug ein dest geflignet
+#facs_291_r4l28 vff sechen und Sorg zehaben, und damit wir
+#facs_194_r2l21 Vnseren vnderthanen habend, das Er von der Ehren Gottes,
+#facs_30_r2l6 wie die unsere bewehrt sey entwachten wie gegen
+#facs_291_r4l31 ohne gros wesen, und In geheim so vil muglich,
+#facs_291_r4l32 In Diner verwaltung, von Hug zu Hug, zega¬
+#facs_291_r4l33 vnnd lugen ob nitt allein die vryzüges, sonders
+#facs_291_r4l34 gantze
+#facs_292_r1l1 579
+#facs_31_r2l19 Gesschende xxx
+#facs_140_r3l3 Roma
+#facs_292_r3l1 Santze Manschafft, mitt Ihren Kriegs¬
+#facs_292_r3l2 wehren, Munition und zugeschordt, ach
+#facs_292_r3l3 noch urfft und gepür verfaßt synd, wo
+#facs_292_r3l4 mangel syn wird, ernstig zugepietten, das sich
+#facs_292_r3l5 ein Jeder ohne verzug, mit dem, eine vnd
+#facs_292_r3l6 anderen berein und verfast mache und ge¬
+#facs_292_r3l7 rüst halte, Im fall der nöck dem Vatterlam
+#facs_292_r3l8 syn schuldigkeit wüsse zuleisten, deg alles
+#facs_292_r3l9 wöllen, wir vns zu dir vnd zuen versehen
+#facs_292_r3l10 vnd wirst dich darnach halten und richten
+#facs_329_r4l21 Datum IIa Septembris 1620

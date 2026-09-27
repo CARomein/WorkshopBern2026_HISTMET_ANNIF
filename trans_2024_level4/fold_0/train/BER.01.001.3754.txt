@@ -1,0 +1,134 @@
+Law ID: BER.01.001.3754
+Name: Wegen dem Strolchen und Bettelgesind.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 123/123
+# High similarity (>=50%): 119
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_172_r2l13 An
+#facs_172_r2l14 Lauven, Mürten, Wihlisfurg, Peterling,
+#facs_172_r2l15 Oeconomo et Liv. Milden, Oron
+#facs_172_r2l16 Chillon wegen dem Strolchen
+#facs_172_r2l17 und Faltel Gesind.
+#facs_172_r2l18 Schultheiß und Raht etc.
+#facs_172_r2l19 Es ist Löbhr Standt Fryburg zu Säuberung
+#facs_172_r2l20 seiner Landen von allerhand Sterlichen
+#facs_172_r2l21 n
+#facs_172_r3l1 335
+#facs_172_r3l2 Und Stadtel Besind entschloßen, nicht
+#facs_172_r3l3 eine Beiteljagd anstellen zelaßen, und
+#facs_172_r3l4 will die anhaltende Rodeurs mit Route
+#facs_172_r3l5 Zedlen gebahrsamlich bis auff Grentzen
+#facs_172_r3l6 unserer Landen ferggen laßen etc.
+#facs_172_r3l7 Wann nun in deinem Ambt solche Lauth
+#facs_172_r3l8 Ich ankommen solten, und deßen von
+#facs_172_r3l9 Löbl. Standt Fryburg du benachrichtet seyn
+#facs_172_r3l10 wirst, wollend Wir die befohlen haben
+#facs_172_r3l11 silbige gebahr samlich annemen und nach
+#facs_172_r3l12 außweiß aufhabender route zedlen,
+#facs_172_r3l13 jahbeilen den kürzesten Weg, den großen
+#facs_172_r3l14 Routes nach dieselben aus dem Land
+#facs_172_r3l15 beschaffen, die dahero erforderliche fusilieren
+#facs_172_r3l16 Biest aber bezahlen nach Auß weiß jenigen
+#facs_172_r3l17 deselchen, so von Unser Allmosen Hammer¬
+#facs_172_r3l18 der dahero zukommen wird Wiezethun¬
+#facs_172_r3l19 wüßen wirst Dort mit die Dat. d. 19. Xbris 1738.
+#facs_172_r3l20 P. S. An Paupen Albein. Und beilen
+#facs_172_r3l21 von Lothin Stand Fryburg geklagt werden
+#facs_172_r3l22 Daß ohnlängst gebüße Rodeurs, so auß
+#facs_172_r3l23 Dem Fryburgischen beydebenachen
+#facs_172_r3l24 Brugg
+#facs_173_r2l1 Brugg in Unser Land gefenget worden,
+#facs_173_r2l2 sollen, du nicht einlaßen wollen, sondern
+#facs_173_r2l3 Zuruck ins Freyburgische gesandt xf
+#facs_173_r2l4 habend Wir die verdenten wollen,
+#facs_173_r2l5 wan Ich etwan die solches befehlen laß¬
+#facs_173_r2l6 wegen von Unserem verordneten Sanitet
+#facs_173_r2l7 Raht in Handenhabenden Gefelchen
+#facs_173_r2l8 harmufahls die Betalordnungen, deßen
+#facs_173_r2l9 ohngeacht, observierte, volgsam die
+#facs_173_r2l10 Butler nach außweiß obig unserer
+#facs_173_r2l11 Waschrifft wohl angenommen, aber
+#facs_173_r2l12 auß dem Land den großen Straßen
+#facs_173_r2l13 nach gebisen werden sollen. Datum
+#facs_173_r2l14 ut supra.
+#facs_173_r2l15 Zwel an Mehloffen der Außburgerhamme
+#facs_173_r2l16 Nabstst Einschluß Schreibens von Freyburg
+#facs_173_r2l17 von dem allem Ihnen Copey senden mit
+#facs_173_r2l18 freundtlichen Gesinnen, nun mehro von Ihrer
+#facs_173_r2l19 Cammer aus das fernere dem H. Ambtsmann anzube¬
+#facs_173_r2l20 fehlen und zu bedeuten, wie lang die Ihnen
+#facs_173_r2l21 fusilieres Sr. behalten und wie hoch Sy¬
+#facs_173_r2l22 Selbe bezahlen sollen.
+#facs_173_r3l1 337
+#facs_173_r3l2 5
+#facs_173_r3l3 An
+#facs_173_r3l4 Thoulouse, Chillon, Lausanne, au bonne
+#facs_173_r3l5 Räubs, Bonmont-Milden
+#facs_173_r3l6 und Ist arten wegen Visita
+#facs_173_r3l7 tion der Pfachung.
+#facs_173_r3l8 Schultheiß und Raht etc.
+#facs_173_r3l9 In Gedanken der Nothbendigkeit daß
+#facs_173_r3l10 Teutschen Pfarrherren Welschent Lands
+#facs_173_r3l11 Siemtlichen, oder nicht sehren, so sie
+#facs_173_r3l12 Cobat
+#facs_173_r3l13 eben fals auch wie Übrige Verrheren
+#facs_173_r3l14 t
+#facs_173_r3l15 Unserer Landen, Ihres Lohr und Lebwesens
+#facs_173_r3l16 halber Visitierte etc. Wollend Wir dir
+#facs_173_r3l17 hiemit anbefohlen haben, alljährlich
+#facs_173_r3l18 eine Zeith vor haltung der Capitler neblicher
+#facs_173_r3l19 Form nach dieseren Pfarrherren halber dich
+#facs_173_r3l20 zu erkundigen, und den Eingeholten
+#facs_173_r3l21 Bericht hirüber jehbeilen bey Haltung
+#facs_173_r3l22 der Capitlen abzulegen, damit über Ihre
+#facs_173_r3l23 Aufführung auch das Erforderliche den
+#facs_173_r3l24 actis Classius einterleibet werden könne.
+#facs_173_r3l25 Welche
+#facs_174_r2l1 Welche Unsere Verordnung du zu
+#facs_174_r2l2 künfftiger Nachricht und Verhalt dem
+#facs_174_r2l3 mandaten durch diß Schloßes einschreiben
+#facs_174_r2l4 zelaßen müßen wirste, Gott mit dir
+#facs_174_r2l5 Datum den 22ten Septembris 1738
+#facs_174_r2l6 An
+#facs_174_r2l7 Vibid.
+#facs_174_r2l8 Die Welsche Ambtleuth als Milde
+#facs_174_r2l9 Bohlen, Lausanne, aubonne
+#facs_174_r2l10 Bonmont, Ifferten. Wegen
+#facs_174_r2l11 admittierung Junger
+#facs_174_r2l12 Leuthen zum Heiligen
+#facs_174_r2l13 Abendmahl
+#facs_174_r2l14 Schultheiß und Raht etc
+#facs_174_r2l15 Es hatt sich öffters zugetragen, daß von den
+#facs_174_r2l16 Teutschen Pfarrherren in dem Weschland
+#facs_174_r2l17 Collats
+#facs_174_r2l18 Solche JungeLeuth zum Heiligen
+#facs_174_r2l19 Abendmahl admittiert werdend, die
+#facs_174_r2l20 Etben wegen ohngegründeten Klägden
+#facs_174_r2l21 bider
+#facs_174_r3l1 339
+#facs_174_r3l2 wider die Schulmeister auß Ihren
+#facs_174_r3l3 Bemunden Teutschen Lands sich
+#facs_174_r3l4 leggligeben, und offt nicht gnugsamen
+#facs_174_r3l5 Unterricht empfangen haben, derowegen
+#facs_174_r3l6 Wir die Remedur vorzukehren nöthig
+#facs_174_r3l7 finden, daß wo solche aus mit und
+#facs_174_r3l8 anderen Bemeinden Teütschen Lands¬
+#facs_174_r3l9 zu Ihnen kommende sich anmeldeten,
+#facs_174_r3l10 zu dem Heiligen Abendmahl admittiert
+#facs_174_r3l11 zu berden, Sie vor Ertheilung einiger
+#facs_174_r3l12 Permission an die Pfarrheeren Ihres Heymaths
+#facs_174_r3l13 Schreiben und von denselbigen vernemmen
+#facs_174_r3l14 sollind, was Leumbden und Wendels die sich
+#facs_174_r3l15 anmeldenden zu Hause gewesen auch
+#facs_174_r3l16 wieleit sie unterlöisen, und in der Erbantnuß
+#facs_174_r3l17 kommen seyen, wie auch ob sy nicht Ab an auß
+#facs_174_r3l18 bösen absichten oder Unbillen Ihr Heymath
+#facs_174_r3l19 verlaßen, gestalten du solches dem Teutschen
+#facs_174_r3l20 Vercherren deines Ambts zur Verbachtung
+#facs_174_r3l21 Insinuierenbirst BoA mit Dir
+#facs_174_r3l22 Datum den 23 Septembris 1738.

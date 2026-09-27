@@ -1,0 +1,137 @@
+Law ID: BER.01.001.4203
+Name: Mandat.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 126/126
+# High similarity (>=50%): 125
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_153_r4l10 Sign:
+#facs_153_r4l11 Mandat
+#facs_153_r4l12 obid:
+#facs_153_r4l13 Wir Schultheist Klein und Grosse Räthe der
+#facs_153_r4l14 Stadt und Respublie Bern thun kund hiemit; Alsdann
+#facs_153_r4l15 Unsere hiebevor ausgegangene Ordnungen nicht vermögen
+#facs_153_r4l16 gebesen, den verderblichen Mirbrauch des Spiehls zu ver¬
+#facs_153_r4l17 hüeten, hat der Eifer für das beste Unser werthen An¬
+#facs_153_r4l18 gehörigen uns bebogen, unsere ehemalige Verorsnun¬
+#facs_153_r4l19 gen abzuenderen, und aus Landesvächerlicher Pflicht
+#facs_153_r4l20 zu verschärffen, und haben demmenach erkannt und geordnet
+#facs_153_r4l21 was von einem Punct zum anderen folget
+#facs_154_r2l1 Don den sogenanten Jeux d'hasard.
+#facs_154_r2l2 Alle Jeuxd'harard, ohne Unterscheid noch Ausnahm;
+#facs_154_r2l3 alles Spiehlen bey verschloßener Thur; Oder nach Neun
+#facs_154_r2l4 Uhren der Abends; auch aller Weiten, er seye bey
+#facs_154_r2l5 oder außer dem Spihlen; Soll männiglich in Unseren
+#facs_154_r2l6 Stäcten und Landen gänzlich auf das ernstlichste ver¬
+#facs_154_r2l7 borten seyn.
+#facs_154_r2l8 Wer aber wieder den eint oder anderen obiger Artic
+#facs_154_r2l9 len zu handlen, oder dazu wissentlich den Plaz zu geben
+#facs_154_r2l10 und solche in seinem Haus zu dulden sich erfrechen wurde
+#facs_154_r2l11 der soll nach beschehener Verleidung sich persöhnlich von
+#facs_154_r2l12 dem Richter zur Verantwortung stellen; eine Geldbuß
+#facs_154_r2l13 von 100 Thaleren bezahlen; alles gebonnene Spiehl, oder
+#facs_154_r2l14 Bebent, Bald aber, mit Confiscation beleget, und dem
+#facs_154_r2l15 Schuldigen aller Spiehlen, ohne Unterschied auf Ein Jahr
+#facs_154_r2l16 lang untersagt werden.
+#facs_154_r2l17 Ton den sogenannten Jeux de Commerce,
+#facs_154_r2l18 d'Exercice et d'Adresse.
+#facs_154_r2l19 Obbohlen Wir zwar die sogenannten Jeux de Commerce, da¬
+#facs_154_r2l20 runter alle Spiehl, bat nahmens, Art und Gattung Sie
+#facs_154_r2l21 immer seyn können /: die obberuammente Jeuæ d’harard aus,
+#facs_154_r2l22 genommen) begriffen seyn sollen, nicht verboten haben, so
+#facs_154_r3l1 299.
+#facs_154_r3l2 so jedennoch hat auch der dabey eingerißene höchste Mitbrauch
+#facs_154_r3l3 Und bebogen, auch dieser Bartung Spiehl Zahl und Schran¬
+#facs_154_r3l4 ben zu setzen; und zwar dahin, daß von einer Persohn
+#facs_154_r3l5 so dergleichen nur zu einem unschuldigen Zeitvertreib zu
+#facs_154_r3l6 gelaßene Spiehl, spiehlen wurde, des Tages nicht mehr als
+#facs_154_r3l7 4. T. verlohren werden können.
+#facs_154_r3l8 Wer aber in einem Tag mehr als 4. T. verliehren, und
+#facs_154_r3l9 Darum verleidet wurde, der soll Sich persöhnlich vor dem
+#facs_154_r3l10 Richter stellen, und 15. F. Fuß bezahlen, und widerholet
+#facs_154_r3l11 Er die Übertrectung, soll Ihme das erste mahl nebst der
+#facs_154_r3l12 Auflag obiger Buß, auf ein Jahr lang alles Spiehlen ver¬
+#facs_154_r3l13 borten werden; Solte Er aber vor Auslauff dieser Zeith
+#facs_154_r3l14 Colosz
+#facs_154_r3l15 einlicher Spiehl siehlen, soll ein Jedermahl aufs frische mit
+#facs_154_r3l16 einer Ruß von 15. T. belegt werden
+#facs_154_r3l17 Wurde aber Jemand die Übertrectung so weit treiben,
+#facs_154_r3l18 daß sein Verlust die Summ der 14. B. übersteigen würde
+#facs_154_r3l19 soll ein solcher, als wann Er Jeux d’harard gespiehlet hät¬
+#facs_154_r3l20 angesehen, und mit der darauf gesetzten Guß von 100
+#facs_154_r3l21 Thaleren, und das verlohrne Bald mit Confiscation
+#facs_154_r3l22 belegt werden.
+#facs_154_r3l23 Execution dieser Ordnung, und Entdebung
+#facs_154_r3l24 der Fehlbahrer
+#facs_154_r3l25 Damit auch gegenbärtige Ordnung sorgfältig beobachtet werde,
+#facs_154_r3l26 haben Wir nicht nur Und fest entschloßen, und mit einander
+#facs_154_r3l27 verbunden, bey aufhabendem Eid selbst Aufseher und Angeben
+#facs_155_r2l1 Angeber zu seyn, es seye nun, daß Wir selbst gesehen,
+#facs_155_r2l2 der glaubbürdig vernommen haben, daß Jena d'hasard,
+#facs_155_r2l3 Gespiehlt, Babect gemachet, bey verschloßener Thür oder
+#facs_155_r2l4 nächtlicher Beil gestiehlt, oder in den Jeux de Commerie
+#facs_155_r2l5 über 14. T. verlohren worden.
+#facs_155_r2l6 Wir befehlen demmenach auch allen Unseren Beamteten
+#facs_155_r2l7 Magistrats¬ Persohnen, und Officialen in Unseren
+#facs_155_r2l8 Städt und Landen, daß Sie bey Ihren geschbornen Eisen
+#facs_155_r2l9 auf alle dergleichen Übertreitungen ein Bachsammer
+#facs_155_r2l10 Auge zu halten, und die Fehlbahren an gebührendem
+#facs_155_r2l11 Ort verleiden
+#facs_155_r2l12 Und gleichbie Wir Uns auch entschlossen, und einander
+#facs_155_r2l13 heyrlich versprochen haben, selbst die geringeren Fähl, da
+#facs_155_r2l14 nicht über 14. T. verspiehlet worden, behörigen orts an
+#facs_155_r2l15 zuzeigen, und zu verleiden, so vermahnen Wir auch
+#facs_155_r2l16 alles Ernstes alle Beamtete, Magistrats, persohnen, u
+#facs_155_r2l17 Officialen in Unseren Städten und Landen, auch auf dis¬
+#facs_155_r2l18 Übertreiter geflißentlich zu achten, und Selbige zu
+#facs_155_r2l19 verleiden
+#facs_155_r2l20 Die bestraffung der Fehlbahren aber soll in der Haubt
+#facs_155_r2l21 Stadt Unser Verordneten Reformation, Cammer, in den
+#facs_155_r2l22 übrigen Städten und auf dem Land aber dem Amtman
+#facs_155_r2l23 oder der Magistratur Jeden Orts, wo es Ihnen zukommt
+#facs_155_r2l24 obligen; selbige aber an die pünbtliche Vorschrift, der Ihm
+#facs_155_r2l25 ertheilenden Instruction bey Fertigung und Restraffungen
+#facs_155_r2l26 der verleideten Persohnen gebunden seyn.
+#facs_155_r3l1 Theilung der Busen
+#facs_155_r3l2 u. Confiscationen
+#facs_155_r3l3 Die Bußen und Confiscationen sollen in drey Theile ge¬
+#facs_155_r3l4 theilet werden; der eine Und, der Zweyte dem Richter
+#facs_155_r3l5 und der dricte dem Verleiden heimfallen
+#facs_155_r3l6 Anhang die Knechte
+#facs_155_r3l7 u. Magde betreffend
+#facs_155_r3l8 Denen Knechten, Mägden und Taglöhneren bollen Wir
+#facs_155_r3l9 aller Spihlen mit harten und Würflen ohne Unterschied
+#facs_155_r3l10 verbotten, und auf die Übertrectung eine Buß von 9tt.
+#facs_155_r3l11 gesezet haben; Und soll diese Geld, Straff bey der ersten
+#facs_155_r3l12 Wiederhohlung verdoppelt, und nach Bebandtnuß der
+#facs_155_r3l13 Umständen mit der Gefangenschaft verschärft werden
+#facs_155_r3l14 Dabey der Plazgeber mit 10 m auß ohne Schonen beleg¬
+#facs_155_r3l15 werden soll.
+#facs_155_r3l16 Zu dem End sollen die Wirthshäuser, Keller- und Schlupf
+#facs_155_r3l17 binkel, durch die Farbtragende Bedienten und Feürschau
+#facs_155_r3l18 sere fleißig besichtiget, und die Übertrectere seines Orts
+#facs_155_r3l19 verleidet werden.
+#facs_155_r3l20 Baus, veüte
+#facs_155_r3l21 Den Baur, Leüthen soll ebenfahls aller Spielen mit varten
+#facs_155_r3l22 und Würflau gäntzlich abgestrebt und verbodten, alle Beam¬
+#facs_155_r3l23 tete und Vorsteher Geist, und Weltlichen Gerichts zur auf¬
+#facs_156_r3l1 aufsicht bestellet, und auf die Übertrectung sobohl in
+#facs_156_r3l2 ansehen der Biderhandlenden als der Platzgeberen die
+#facs_156_r3l3 jenige Straffe gesetzt seyn, die in dem vorhergehenden
+#facs_156_r3l4 Artichel beym den Knechten und Mägden bestimmt
+#facs_156_r3l5 worden. Die hierbey fallende Rußen, sollen denen Verleideren ganz zukommen
+#facs_156_r3l6 Da Wir gegenbärtige auf die Wohlfahrt der Unseren
+#facs_156_r3l7 abzuhebende Verordnung pünktlich und unabläslich
+#facs_156_r3l8 befolget leisten wollen, so ist Unser Will, daß selbige
+#facs_156_r3l9 jez und fürohin alljährlich auf den Tag, da das ver=
+#facs_156_r3l10 bürzte Sicten-Mandat verlesen wird, öffentlich von
+#facs_156_r3l11 Canzlen kund gethan werden damit Unsere Liebe und
+#facs_156_r3l12 getreüe Angehörige zu Stadt und Land Sich selbst von
+#facs_156_r3l13 Schaden und Straff hüeten, und verbahren können.
+#facs_156_r3l14 Beben in Unser großen Raths, Versammlung d. 22ten
+#facs_156_r3l15 Marty 1764. Nca. die Instruction deß Richten hierüber ist fo. 295 enthalten
+#facs_156_r3l16 Hieher gehöret die Franz: übersetzung pag. 314.

@@ -1,0 +1,239 @@
+Law ID: BER.01.001.3773
+Name: Placcard.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 228/228
+# High similarity (>=50%): 224
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_257_r3l2 Plavard
+#facs_257_r3l3 Wit Schultheiss Räst und
+#facs_257_r3l4 Collott
+#facs_257_r3l5 Bürger der Statt Bern, Thund kund hiermith
+#facs_257_r3l6 Demenach Wir von denen Meisterschäfften
+#facs_257_r3l7 deß Roht und Wyßgerber handbericht unseres
+#facs_257_r3l8 Teütsch- und welschen Landen, zu mehrmahlen
+#facs_257_r3l9 bedaurlichen vernommen müßen, daß ohngeacht
+#facs_257_r3l10 der öffers gethanen Einsehen und Ergangene
+#facs_257_r3l11 verbotten, der für Hauff mit Rohan hauten
+#facs_257_r3l12 und zählen sowohl von Einheimschen Als
+#facs_257_r3l13 fünden zu höchstem Nachtheil Ihres kostbahr,
+#facs_257_r3l14 Handbercks, ohnge schmucht getrieben, und
+#facs_257_r3l15 Ihnen diese Waar mit veräußerung derselben
+#facs_257_r3l16 Entzogen werde; Uns dahero umb dißohrtige
+#facs_257_r3l17 gnädige Remedur, alblie auch zum behelft
+#facs_257_r3l18 Ihers Handlercks, umb eint- und andere
+#facs_257_r3l19 nöthige Kunstbezeigungen angelegenlichst
+#facs_257_r3l20 Ersuchende. Wan wir, nun nicht nur nach
+#facs_257_r3l21 dem Exempel Unsere Löble Regiments
+#facs_258_r1l1 zur 505
+#facs_258_r1l2 Vorfahren Eßmahlen in Betrachtung gezogen, das für
+#facs_258_r1l3 nahmhafften Schaden beydes den vorgesagten
+#facs_258_r1l4 Meister schafften, als dem ganzen Publico
+#facs_258_r1l5 durch Veräußerung der im land fallend,
+#facs_258_r1l6 Röhm häuten und Kählen zu lachset, sondern
+#facs_258_r1l7 deshalb bereits Ao 1731. das Erforderliche
+#facs_258_r1l8 darwider abgerathen worden, als haben Wir
+#facs_258_r1l9 in Widerholung deßen und nachdem von Unser
+#facs_258_r1l10 bestelten Comeriren, Raht Unß hin der brechten
+#facs_258_r1l11 befinden solches nunmehro durch gegenlärtiger
+#facs_258_r1l12 dict zu Einer jeden Verhalt offentlich und machen
+#facs_258_r1l13 Wie bis dan hierdurch Ernst meinen?
+#facs_258_r1l14 gehabt und Erkent haben xxx
+#facs_258_r1l15 Daß alle in unsere Gottmäßigkeit fallend
+#facs_258_r1l16 oysen- und Kinder haut, was größe und
+#facs_258_r1l17 ichbäre Sie immer seyen, daß gleichen die Palbs¬
+#facs_258_r1l18 Roch- Schaaffe Gemß, Geiß, Bizl,
+#facs_258_r1l19 und andere Casl, Rohe und ohnverarbeitet
+#facs_258_r1l20 aus dem Land zu führen, bey unanachlaßlichen
+#facs_258_r1l21 Straaff der Confiscation oder jehnach
+#facs_258_r1l22 gelandten Dingen bey angemeßenti=
+#facs_258_r1l23 Habtbuß erbotten seyn und bleiben solle.
+#facs_258_r2l1 506.
+#facs_258_r2l2 a. So bestäthigend Wir auch in ansehen daß
+#facs_258_r2l3 Für kaufft den in Ao 1666. der Meisterschafft
+#facs_258_r2l4 Herber, Händlercks Ertheilten Freyheits¬
+#facs_258_r2l5 Drieff enthalt men Articul dahin, daß
+#facs_258_r2l6 Ibar äußere und Einheimische Meister
+#facs_258_r2l7 Herberhandbares das Rohe Läder in der
+#facs_258_r2l8 Stalt und auff dem Land auschauffen
+#facs_258_r2l9 aber weder in der Statt noch auf dem
+#facs_258_r2l10 Land ohn gearbeitet nicht wider verkauffen.
+#facs_258_r2l11 mögend; bey 3 lb Ruß von jeder Kindt¬
+#facs_258_r2l12 haut, aber von einem dozet Schaffe Fähl
+#facs_258_r2l13 oder einem halben dozet halbsfähl, bey
+#facs_258_r2l14 welcher daß auch den Meisteren Mozges¬
+#facs_258_r2l15 handbercks und sonst jedermänglich,
+#facs_258_r2l16 Bürgeren und unterthanen der Furs auff
+#facs_258_r2l17 der Rohen Hauten und Pähler gänzlichen
+#facs_258_r2l18 abgestreckt und verboten seyn soll;
+#facs_258_r2l19 vorbehalten, was einer zu sein Eigen
+#facs_258_r2l20 Haußbruch Einkauffer, und bereiten
+#facs_258_r2l21 laßen wolte.
+#facs_259_r2l1 3 Und beilen durch sei deserbachtung
+#facs_259_r2l2 obigen Verbotts unsere Land mit überflüßigen
+#facs_259_r2l3 Verarbeiteter Waar ter sehen werden könne,
+#facs_259_r2l4 als hollend Wir auch die Einführ deß freund¬
+#facs_259_r2l5 verarbeiteten Koht und weisen Läders
+#facs_259_r2l6 bey Straaff der Confiscation gänzliche,
+#facs_259_r2l7 verbotten haben; daß Prüsch Laders halber
+#facs_259_r2l8 in dem Verstand daß solches zwar fürtershin
+#facs_259_r2l9 in't Land gelaßen, von den Impetrante
+#facs_259_r2l10 aber bey unserem Comercien Raht bevorderste
+#facs_259_r2l11 Eine Patent darfür, dennoch Gratis
+#facs_259_r2l12 außgebünkt lerden solle,
+#facs_259_r2l13 Endtlichen ist in ses Will damit kein Mangel
+#facs_259_r2l14 an brüsthigten Lohn oder Paul sich Erzeige
+#facs_259_r2l15 daß nach dem Innhalt unsere Mandaten
+#facs_259_r2l16 ton. 1 Aprilis 1693. 28 aprl. 1707.
+#facs_259_r2l17 27 Januarij 1724. 17 & 78 Februar 1725
+#facs_259_r2l18 Am darüber gegebenen Erlauterungen 6. Jan.
+#facs_259_r2l19 1727. das Eyschige und Rohttannge Holz zum
+#facs_259_r2l20 bönnen so viel möglich solle im Meyn gehanden,
+#facs_259_r2l21 und desthalb die Anstalt von den Ambtleüthen
+#facs_259_r2l22 und auffsehern gemachet werden alles Paul aber den
+#facs_259_r2l23 Herberberg in unserer Stalt und Land allein zu können,
+#facs_259_r3l1 vos
+#facs_259_r3l2 Anlangen dann die Anfangs gesetzte Confiscation
+#facs_259_r3l3 habend Wir, Cas die Stalt und das Stalt-gericht
+#facs_259_r3l4 betrifft, in Theil uns Ein Theil dem Hausthauß
+#facs_259_r3l5 und Ein Theil dem Verleiden zu Erkent; auff
+#facs_259_r3l6 dem Land aber soll Ein theils Unß Ein Theil
+#facs_259_r3l7 dem Ambtsmann und Ein Theil dem Verleider
+#facs_259_r3l8 heimsdienen; und gleichbir gegenbärtige
+#facs_259_r3l9 Unsere Ernstliche Verordnung allein das
+#facs_259_r3l10 gemeine beste zur absichthalt, also versehens
+#facs_259_r3l11 Wie Uns auch in sonderheit zu unseren Lieben
+#facs_259_r3l12 und getreüben dürgeren und angehörigen
+#facs_259_r3l13 Sie sich derselben gehorsamlich unterwerffen,
+#facs_259_r3l14 selbsten nicht in Fehler Verantlgetung
+#facs_259_r3l15 und obgesezte Straaff verfallen noch
+#facs_259_r3l16 aüßeren zu Einlicher Widerhandlung.
+#facs_259_r3l17 Vorschub thun berdind.
+#facs_259_r3l18 Alle Unsere ober- und unter daambtete, Commirn
+#facs_259_r3l19 und ausscher demmenach befelchende
+#facs_259_r3l20 sarauff geflißene Acht zehalten, und in
+#facs_259_r3l21 vorfallenden Pählen nach dieser Anbeysung
+#facs_259_r3l22 ohne Schönen zu verfahren. Actum d. 15 May
+#facs_259_r3l23 1739
+#facs_260_r1l1 509
+#facs_260_r1l2 6
+#facs_260_r2l1 Translation
+#facs_260_r2l2 obigen Plauards.
+#facs_260_r2l3 de la
+#facs_260_r2l4 Pous l'Avoyer Delit & Grand
+#facs_260_r2l5 Conseil de la Ville & Republique de Berne
+#facs_260_r2l6 Ceavoir faisons par les Presentes; Que
+#facs_260_r2l7 nous ayant été souventes fois rapporté à
+#facs_260_r2l8 nostre Grand de plaisir, de la part des
+#facs_260_r2l9 maltreses des janeurs & Chamviseurs
+#facs_260_r2l10 tant de nostre Pais allemand que Romans
+#facs_260_r2l11 que non obstant toutes nos ordonances
+#facs_260_r2l12 & deffences nitevées, il s'exercoct cependant
+#facs_260_r2l13 un Trasie & monopole public de toutte
+#facs_260_r2l14 sortes de peaux crües tant par nos
+#facs_260_r2l15 sujets que par des Etrangers, au
+#facs_260_r2l16 grand prejudice & des Avantages de leur
+#facs_260_r2l17 dispendieuses Professions & que par la
+#facs_260_r2l18 Artie de cette marchandises Elles sen-
+#facs_260_r2l19 voient privées & Crustrées; Nous
+#facs_260_r2l20 supliants pour ce sujet tres instament
+#facs_260_r2l21 de vouloir leur tendre main favorable
+#facs_260_r2l22 & par nôtre authorité souveraine
+#facs_260_r4l1 510.
+#facs_260_r4l2 remediér à ces abus pour le soulagement.
+#facs_260_r4l3 & maintient de leurs dittes processions,
+#facs_260_r4l4 ayant donc consideré & Reflechi sur le
+#facs_260_r4l5 tort considerable, qui arrive par la, non
+#facs_260_r4l6 seulement aux dittes Professions, mais aussi
+#facs_260_r4l7 à tout le public en General par la sortie
+#facs_260_r4l8 des Peaux irûes, grandes & petites, qui
+#facs_260_r4l9 tombent dans le Pais, & que d'ailleurs
+#facs_260_r4l10 nous aurions actuellement connu & decreté
+#facs_260_r4l11 un arrêt sur le meme sujet en 1731.
+#facs_260_r4l12 a ces causes & en reïteration d'icelui & vû
+#facs_260_r4l13 le Rapport, qui nous a été presenté sur
+#facs_260_r4l14 cette Matiere par nostre Conseil de Comerce
+#facs_260_r4l15 nous avons trouvé à propos de faire publier
+#facs_260_r4l16 pour la Conduitte d'un Chacun, le present
+#facs_260_r4l17 dit, par lequel nous voulons & ordonnons
+#facs_260_r4l18 tres serieusement
+#facs_260_r4l19 il sera & restera plus outre entierement
+#facs_260_r4l20 deffendu de sortir de nos pais aucunes peaux
+#facs_260_r4l21 crûës soit de boeufs, ou de Vaches de quelles
+#facs_260_r4l22 pesanteurs, qu'ils soyent, pareillement
+#facs_260_r4l23 aucunes peaux de veaux, de Boues, de
+#facs_260_r4l24 moutons, de Chamois, de Chevres, de Cabris
+#facs_261_r2l1 Ou autres crûes & non travaillées sous peine
+#facs_261_r2l2 de confiscation du d'une Amande
+#facs_261_r2l3 pecuncaire, selon l'Exigence du fait
+#facs_261_r2l4 2. Vous confirmons aussi par rapart au
+#facs_261_r2l5 monopole l'Arttile contenu dans la Lettre
+#facs_261_r2l6 de Privilage, accordé à la maitrise
+#facs_261_r2l7 des Janneurs en 1666, servoir que les taneurs
+#facs_261_r2l8 tant sujets qu'Avangers seront en
+#facs_261_r2l9 liberté d'acheter les Deaux crûes soit dans
+#facs_261_r2l10 nos Villes soit dans le païes, mais ils ne
+#facs_261_r2l11 pourront les y revendre, ni débiter sans
+#facs_261_r2l12 estre travaillées sous peine de 3 lb d'amande
+#facs_261_r2l13 de chaque cuir de Bouif ou de Vache et
+#facs_261_r2l14 autant pour chaque douzaine de Peaux
+#facs_261_r2l15 de Mouton & pour chaque demi douzaine
+#facs_261_r2l16 de Peaux de Veau, en outre il est
+#facs_261_r2l17 aussi deffendu & Interdit sous la même
+#facs_261_r2l18 amande aux maistres Bouchers,
+#facs_261_r2l19 chacun dant Bourgeois que Sujets.
+#facs_261_r2l20 de faire aucun trafic de cuivou de peaux
+#facs_261_r2l21 ques à la reserve toutte fois de ce qu'un
+#facs_261_r2l22 chacun peut avoir besoin d'achéter & fait
+#facs_261_r2l23 preparer pour l'usage de sa maison
+#facs_261_r3l1 112
+#facs_261_r3l2 Et come par l'observation exacte de Nostre
+#facs_261_r3l3 sus ditte ordonnance nos païs se trouveront.
+#facs_261_r3l4 estre suffisement Journi de cette Espece de
+#facs_261_r3l5 marchandises Travaillées, de l'un et l'autre
+#facs_261_r3l6 Profession Nous deffendons totalement
+#facs_261_r3l7 l'entrée des Etrangers sous peine de
+#facs_261_r3l8 confiscation; Quant au Cordoüan ou
+#facs_261_r3l9 marroquin, l'entrée en sera plus outre
+#facs_261_r3l10 permise, noienant que les requerants
+#facs_261_r3l11 s'adressent premierement à nostre Conseil
+#facs_261_r3l12 de Comerce, pour en obtenir une Patente
+#facs_261_r3l13 laquelle lui sera a pendant accordée
+#facs_261_r3l14 grates.
+#facs_261_r3l15 Erfin pour obviér au manque de Jan
+#facs_261_r3l16 soit d'Eurrce Nostre volonté est, que
+#facs_261_r3l17 suivant nos Mandats du 1e avril 1693.
+#facs_261_r3l18 28e avril 1707. 27 Janvier 1724
+#facs_261_r3l19 17 & 18e Fevrier 1725 & l'Explication
+#facs_261_r3l20 donné la dessus, le 6 Janvier 1727.
+#facs_261_r3l21 Les Bois de Chêne & de sapin rouge
+#facs_261_r3l22 soient coupés autant que possible dans
+#facs_261_r3l23 le Cours du mois de May & que nos Bailliss
+#facs_261_r3l24 & Inspecteurs donnent les ordres
+#facs_262_r2l1 neussaires pour ce sujet affin que tout le
+#facs_262_r2l2 Jan soit Cuorce par vivre aux Janneurs
+#facs_262_r2l3 de nostre Ville & du Païs
+#facs_262_r2l4 Pour ce qui Concerne la confiscation cy dessus marque
+#facs_262_r2l5 nous en ajageons dans la Ville & son Ressort une
+#facs_262_r2l6 portion a nous une autre Portion à la Douan
+#facs_262_r2l7 & la 3e portion au Delateur & dans le païs
+#facs_262_r2l8 un tiers à nous, l'autre au Baillif & le 3e au
+#facs_262_r2l9 delateur. Et come la presente nostre
+#facs_262_r2l10 serieuse ordonnance n'a pour but que le bien
+#facs_262_r2l11 publié ainsi nous nous Confions principalement
+#facs_262_r2l12 envers nos chers & seaux Bourgeois et sujets
+#facs_262_r2l13 qu'ils sy conformeront avec obeissance pour
+#facs_262_r2l14 ne pas tombér en fautte & en Amande
+#facs_262_r2l15 ni donner occasions aux Etrangers d'y
+#facs_262_r2l16 contrevenir.
+#facs_262_r2l17 Ordonnons pour ce sujet à tous nos officiers Houtes
+#facs_262_r2l18 8 subalternes de même qu'aux Inspecteurs
+#facs_262_r2l19 et Commis de vuller soigneusement à
+#facs_262_r2l20 l'Execution du present Mandat et
+#facs_262_r2l21 d'agir Conformement a iceluy dans tous
+#facs_262_r2l22 les Cas qui sur viendront sans égard pour
+#facs_262_r2l23 personne. Donné à 13e May 1739.

@@ -1,0 +1,76 @@
+Law ID: BER.01.001.4938
+Name: Der Musterungen halb.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 65/65
+# High similarity (>=80%): 60
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_6_r3l14 7
+#facs_192_r3l2 Arouw, Lenzburg, Zoffungen, Biberstein, Arbur
+#facs_192_r3l3 Wangen, Bipp, Verwangen, Burgdorff, Landkhüt¬
+#facs_192_r3l4 Drachselwald, Brandis, Sumißwald, Signorum
+#facs_192_r3l5 der Musterungen halb
+#facs_192_r3l6 Ichs. Diewyl es einer jeden Christenlichen und Für¬
+#facs_192_r3l8 sichtigen Oberkeit ampt ist, sonderlich in diesen seltz eine
+#facs_192_r3l9 Leuffen und schwierigen Zeiten, ein offen ausgast zur Stadt
+#facs_192_r3l10 Länder und Underschanen, zu erhaltung Geistlicher vn¬
+#facs_192_r3l11 zeitlicher Freiheit zu heben, und sich dero von Gott dem All¬
+#facs_192_r3l12 mechtigen zugelaßnen mütlen vorzuzugebrauchen. Als
+#facs_192_r3l13 haben wir so wol zu fortpflanzung enfers wolangestelten,
+#facs_192_r3l14 und bißhar beharrlich geübten Kriegswesens, wie auch zu
+#facs_192_r3l15 WolEhart und aufmunterung aller einer Underthanen
+#facs_192_r3l16 mit nichten erwunden wollen, bey diser bequerem Zeit
+#facs_192_r3l17 die Musterungen der Döyen eßzügen und gutwilligen, wider¬
+#facs_192_r3l18 rumb mit ernst für die handtzunemen, zu dero voll¬
+#facs_192_r3l20 Strackung wie das abermalen vnder vorergangnem
+#facs_192_r3l21 beueleh und gwalt, Unseren geliebten Minckhat St. Rielau
+#facs_192_r3l22 von Mülinen verordnet.
+#facs_192_r3l23 Die hieruff alles ernsts bewelchend, dyne Amptsangehörigen
+#facs_192_r3l25 vff gewonten Musterplatt, vff Zinstag den 9 Apprellens
+#facs_192_r3l26 Umb 8 Uhren vor mittag zu halten, und keinen, und er
+#facs_192_r3l27 denselben bey hocher Straff zugestatten, das er weder
+#facs_192_r3l28 knecht noch Sohn an seine Stadt stellen, oder Jemandts vßblijben
+#facs_192_r3l29 möge, Es were dan Sonnen Harlich am tag das einer oder
+#facs_192_r3l30 der annder Kranckheit oder Leibbübelmogenheit halben
+#facs_192_r3l31 ir erschynen möchte
+#facs_192_r3l32 Vnd wo es sich befunde, das einer oder mehr vnser halß star¬
+#facs_192_r3l33 rigkeit vnghorsame mit erschynen wolte, Ermaner
+#facs_192_r3l34 wir dich höchstes ernsts, den oder dieselben, ann deren Zu
+#facs_192_r3l35 einem Exempell mit 24 stündiger gefangenscht abzu¬
+#facs_192_r3l36 strafften
+#facs_192_r3l37 Demnach wirstu mit ermanglen, solche Anordnung zu geben
+#facs_192_r3l38 das ein Jeder Musquetierer angeonter vß Zügen sich mit
+#facs_192_r3l39 Puluer solcher gestalten gefasst halte, das er zum wenigsten
+#facs_192_r3l40 aff Sechs guege Schütz verseehen seye, sich desto beßer zu disen
+#facs_192_r3l41 loblichen Kriegswesen zu eben, so wollen wir auch
+#facs_192_r3l42 Vermögenserer Zusag nechster Tagen die vnd allen Vnsere
+#facs_192_r3l43 Ampttüchen die Vermehrung der Schießgaaben zu vberschick¬
+#facs_192_r3l44 nig ermanglen, Unsere Unterthanen Insonderheit die
+#facs_192_r3l45 vßzuger) hierdurch desto begwiger vnd schmitziger zu
+#facs_192_r3l46 diser Maus Abung zumachen.
+#facs_192_r4l1 378
+#facs_193_r3l1 Dieneben wollen wir die mit bergen, das vns glaubwürdig
+#facs_193_r3l2 fürkommen, das In entlichen Aempteren vnd Gemeinden
+#facs_193_r3l3 Unserer Landen und gebietten, unangsechen vnser erst¬
+#facs_193_r3l4 hafften Vermanungen, das Reißgelt des ersten und anderen
+#facs_193_r3l5 daß zu noch mit zusammen gelegt, und eitliche Gemeinden
+#facs_193_r3l6 ich gwaltt anmaßen in dieser Kriegs Contributionen
+#facs_193_r3l7 wider vnser ernstig ansachen, zegryffen, dieselbige zuuer¬
+#facs_193_r3l8 Zehren und In annoch weg annodtwendiger wys¬
+#facs_193_r3l9 Zuverschwenden, Gestalten wir darab ein billich bedur¬
+#facs_193_r3l10 und hoch mißfallen haben, und vns zu söllichen mehrer
+#facs_193_r3l11 gehorsame vnd triuw gegen uns, vnd dem Vatterlandt
+#facs_193_r3l12 versachen hetten
+#facs_193_r3l13 Derwegen wir angeregtem Unser
+#facs_193_r3l14 Abgeordneten Mutterhat, auch disen bewelch vffgetragen
+#facs_193_r3l15 das er mitt d’ynem bystandt einen grundtlichen bericht
+#facs_193_r3l16 deßhalben ynnemen, und vns zu befinden widerbeim¬
+#facs_193_r3l17 solle, dan wie hij höchter Straff weder die eine noch
+#facs_193_r3l18 andere Vergehorsame gestatten können noch welles
+#facs_193_r3l19 Das alles wirstu dich so lieb die vnser gnad ist, und wie
+#facs_193_r3l20 die wol zuteuwen, deiner Amptspflicht nach zuver¬
+#facs_193_r3l21 halten wüßen, Datum 5a aprilis 1616

@@ -1,0 +1,36 @@
+Law nr: BER.01.001.0438
+Name:
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_481
+# Matched: 24/24
+# High similarity (>=50%): 20
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_101_r1l1 9 x
+#facs_101_r1l2 Jollatum
+#facs_101_r1l3 .
+#facs_101_r1l4 M
+#facs_101_r1l5 Jollatum
+#facs_101_r1l6 Ist
+#facs_101_r2l1 Nun alle Fürsche unnd Wälsche¬
+#facs_101_r2l2 Amptlück
+#facs_101_r2l3 Schultheis: Die wyl wie vß gewußenn Vrsa¬
+#facs_101_r2l4 x
+#facs_101_r2l5 ehenn für gutt angsehenn die gselschafft zum Schü¬
+#facs_101_r2l6 tenn alhie widerumb vff zerichtenn, Vnnd nun
+#facs_101_r2l7 die uns fürtragenn lassenn, wie derselbenn hievor
+#facs_101_r2l8 hie guttenn Jaar, gleich wie anderenn gselschafft
+#facs_101_r2l9 spändt vffgericht, nun als sindt etwas Jaarenn
+#facs_101_r2l10 Endlassenn worden, mitt Vnderthänig pitt
+#facs_101_r2l11 hierin gnädige Fürsehung zethun. Als be¬
+#facs_101_r2l12 felchenn wir dir in hergemelter es selschafft
+#facs_101_r2l13 die gutten Jaar hinfür widerumb vff ze¬
+#facs_101_r2l14 richtenn, wie hievor gewontt gsin, vnd zu
+#facs_101_r2l15 anderen gselschafftenn zugeben schuldig bist
+#facs_101_r2l16 Daren beschiehet vnser will denn wüs¬
+#facs_101_r2l17 seerstattenn. Datum 7a Novemb:
+#facs_101_r2l18 1606

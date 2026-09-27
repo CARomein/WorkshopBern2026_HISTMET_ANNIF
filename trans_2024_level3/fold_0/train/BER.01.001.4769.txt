@@ -1,0 +1,169 @@
+Law nr: BER.01.001.4769,
+Title: Verbott der Ausfuhr aller Erdfrüchten für ein Jahr lang erneüert.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_512
+# Matched: 157/157
+# High similarity (>=80%): 157
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_254_r4l16 Verbott der Ausfuhr aller Ersprüchte
+#facs_254_r4l17 jert.
+#facs_254_r4l18 für ein Jahr lang u.
+#facs_5_r3l4 An alle deutsch und Welsche Herren Amtleut
+#facs_164_r4l4 vier Städt, freyweibel und Anno
+#facs_196_r3l18 Schultheiß Räth und Burger u.
+#facs_254_r4l22 sans
+#facs_254_r4l23 Milkommend übersenden Wir Euch
+#facs_103_r1l1 194
+#facs_3_r1l1 Coll
+#facs_255_r3l1 same Anzahl von derjenigen Verordnung
+#facs_255_r3l2 wodurch Wie die Ausfuhr der Erdapfel
+#facs_255_r3l3 Rüben und Rübli, doch mit den in dem Man
+#facs_255_r3l4 anmit wider
+#facs_255_r3l5 dal ausgesezten Verhältnißen
+#facs_255_r3l6 mahlen für ein Jahr verbieten. Wir
+#facs_255_r3l7 befehlen Einz demnach über die Execution
+#facs_255_r3l8 dieser Verordnung genaue Acht zu bestellen
+#facs_255_r3l9 und Hand abzuhalten, daß deine nachgelebt
+#facs_255_r3l10 werde, auch diese aller Orten bekannt machen
+#facs_255_r3l11 von Kanzler verlesen, und behörigen Orts
+#facs_255_r3l12 in schreiben zu laßen.
+#facs_255_r3l13 Datum den 25ten Augusti 1794
+#facs_34_r5l2 Verordnung
+#facs_13_r2l5 Wir Schultheiß, Klein und
+#facs_255_r3l16 Große Räthe der Stadt und Republik
+#facs_255_r3l17 Bern, entbieten allen unsern lieben und
+#facs_255_r3l18 getreuen Bürgern und angehörigen Unser
+#facs_255_r3l19 Deutschen und welschen Städte und Lande Unsern
+#facs_255_r3l20 en und geneigten Willen, und gaben
+#facs_255_r3l21 ihnen hiermit zu vernehmen.
+#facs_255_r3l22 Daß die in Unsern gesamten Landen
+#facs_255_r3l23 dies Jahr mittelmäßig ausgefallene Korn
+#facs_255_r3l24 Cundt
+#facs_255_r4l1 495
+#facs_255_r4l2 Edte, sowohl als auch überhaupt
+#facs_255_r4l3 wärtigen klammen Zeiten bey Uns die Besorgung
+#facs_255_r4l4 erwebt, es möchte, wenn nicht zu rechter Zeit
+#facs_255_r4l5 würden, Uns
+#facs_255_r4l6 die nöthigen Vorkehren getroffen
+#facs_255_r4l7 tern lieben und getreuen Bürgern und angehörige
+#facs_255_r4l8 von dieser Verabsäumung großer Schaden
+#facs_255_r4l9 Nachtheil erwachsen; so haben Wir, besonders
+#facs_255_r4l10 aus diesen Betrachtungen und Landes väterlichen
+#facs_255_r4l11 Vorsorge nöthig erachtet, zum gemeinen Besten
+#facs_255_r4l12 alle Ausfuhr der Erdäpfel, Rüben und Rüblich
+#facs_255_r4l13 von Bekanntmachung dieser Verordnung an
+#facs_255_r4l14 jedermal für ein Jahr zu verbieten und zu
+#facs_255_r4l15 unter folgender darauf gesazter Strafe, als
+#facs_255_r4l16 Bey der ersten Übertrettung, der Confiscation
+#facs_255_r4l17 der ausgeführten Endspeise, oder wenn solche
+#facs_255_r4l18 nicht behändiget werden kann, einer dem Werth
+#facs_255_r4l19 derselben gleichkommenden Busse an Geld
+#facs_255_r4l20 Bey der zweyten Übertrettung, nebst den
+#facs_255_r4l21 Confiscation des ganzen Betrags des ausgeführten
+#facs_255_r4l22 noch einer Buße vom ganzen Werth des aus¬
+#facs_255_r4l23 geführten; also im Fall die Confiscation in
+#facs_255_r4l24 natura nicht vor sich gehen könnte, eine Busse von dem
+#facs_255_r4l25 doppelten Werth der ausgeführten Erd Reise.
+#facs_255_r4l26 a Reij
+#facs_256_r1l1 496
+#facs_256_r2l1 Bey der dritten Übertrellung oder
+#facs_256_r2l2 zweyten Wiederholung aber soll der Wider¬
+#facs_256_r2l3 handelnde, nebst obiger doppelten Buße
+#facs_256_r2l4 Nach Erkenntniß Unseres täglichen Raths
+#facs_256_r2l5 körperlich abgestraft werden.
+#facs_256_r2l6 Von allen diesen Confiscationen und Bußen
+#facs_256_r2l7 sollen zwey Drittel dem Verleider, und ein
+#facs_256_r2l8 drittel den Armen des Orts, wo die Ueber¬
+#facs_256_r2l9 trettung geschehen, zufließen
+#facs_256_r2l10 Wir geben jedennoch anbey diese Erläu-
+#facs_256_r2l11 terung, daß den angehörigen Unserer wer¬
+#facs_256_r2l12 then MitEydgroßen und derjenigen Stände,
+#facs_256_r2l13 die das Recht genießen auf Unsern Märkte
+#facs_256_r2l14 Getreid anzukaufen, bewilliget seyn soll.
+#facs_256_r2l15 auf eben diesen Märkten für ihnen Haus ge¬
+#facs_256_r2l16 brauch und unter denen zu Anbauf des Getreide:
+#facs_256_r2l17 vorgeschriebenen und allfällig noch künftig vor
+#facs_256_r2l18 schreibenden Vorsorgen, für jede Haushaltung
+#facs_256_r2l19 vier Mas Erdäpfel und andere Erdfrüchte auf
+#facs_256_r2l20 ankaufen zu können, in sofern Unsere Burger
+#facs_256_r2l21 und angehörige in derselben sollmäßigkeiten
+#facs_256_r2l22 die gleiche Freyheit genießen.
+#facs_99_r3l25 welcher
+#facs_256_r3l1 Colles
+#facs_39_r5l1 67.
+#facs_6_r1l1 1
+#facs_256_r5l1 49 7
+#facs_256_r5l2 Welches Wir zu jedermanns Nachricht u
+#facs_256_r5l3 Verhalt in Druk verfaßen, von Canzle
+#facs_256_r5l4 lesen, und gewohnter Orten anschlagen laßen.
+#facs_84_r3l6 Beben in unserer Großen Raths-Ver¬
+#facs_256_r5l6 amlung den 25ten August 1794
+#facs_9_r3l7 Traduction
+#facs_256_r5l8 de l'ordonnance ci-dessus contenue
+#facs_256_r5l9 Nous l'Avoyer Petit & Grand Conseil
+#facs_256_r5l10 de la Ville & République de Berne à tous
+#facs_256_r5l11 nos chers & féaux citoyens & sujets, par le
+#facs_256_r5l12 presentes savoir faisons
+#facs_256_r5l13 Que la médiocrité de la récolte en toute espèce
+#facs_256_r5l14 de grains, et la cherté des vivres en général
+#facs_256_r5l15 fait naitre chez nous la juste sollicitude, que
+#facs_256_r5l16 si nous ne prenions pas à tems les précautions
+#facs_256_r5l17 nécessaires, pour empecher aussi la sortie des
+#facs_256_r5l18 pommes de terre & autres légumes, il pourroit
+#facs_256_r5l19 en résulter un grand rencheressement & peut être
+#facs_256_r5l20 le manque de ces denrées de première nécessité ;
+#facs_256_r5l21 quidés par ces pressans motifs & par nos soins
+#facs_256_r5l22 paternels pour le bien & le bonheur de tous et
+#facs_8_r3l1 9
+#facs_257_r2l1 un chacun de nos citoyens & sujets nous
+#facs_257_r2l2 avons statué et ordonné Statuons & ordon nous,
+#facs_257_r2l3 que dès la Publication de la présente ordonance
+#facs_257_r2l4 la sortie des pommes de terre, Raves &ca
+#facs_257_r2l5 rottes hors des élats de nôtre domination sera
+#facs_257_r2l6 defenduë de réchif pour le tems & tenme
+#facs_257_r2l7 d'une année & ce sous les peines suivantes
+#facs_97_r4l8 savoir.
+#facs_257_r2l9 Pour la première contravention, la confis
+#facs_257_r2l10 cation des pommes de terre, raves ou carottes
+#facs_257_r2l11 exportées, ou si ces objets n’avoient pû être
+#facs_257_r2l12 saisis une amende égale à la valeur de tout ce
+#facs_257_r2l13 qui aura êté exporté
+#facs_257_r2l14 Pour la première recidive, outre la confis
+#facs_257_r2l15 cation de tout ce qui aura été exporté, encore
+#facs_257_r2l16 une amende égale à la valeur de ce qui aura êté
+#facs_257_r2l17 exporté ; par consequent au cas ou la con¬
+#facs_257_r2l18 fiscation n'auroit pu se faire en nature il sera
+#facs_257_r2l19 payé par le contrevenant une amende égale
+#facs_257_r2l20 au double de la valeur des pommes de terre
+#facs_257_r2l21 raves ou carottes exportées.
+#facs_257_r2l22 Pour la seconde récidive, le contrevenant
+#facs_257_r2l23 outre la double amende ci-dessus énoncée,
+#facs_257_r2l24 -dera
+#facs_257_r3l1 999.
+#facs_257_r3l2 devra être puni corporellement à la connoissance
+#facs_257_r3l3 de notre Sénat.
+#facs_257_r3l4 Des dites confiscations & amendes les deux tiers
+#facs_257_r3l5 seront remis au dénonciateur & le reste appar
+#facs_257_r3l6 tiendra aux pauvres du lieu ou le délit aura êté
+#facs_257_r3l7 commer
+#facs_257_r3l8 Le tout cependant sous l'explication & la reserve
+#facs_257_r3l9 qu'il sera permis & loisible aux Ressortessans de
+#facs_257_r3l10 nos chers & bien-armes confédérés, les Cantons Suisse
+#facs_257_r3l11 & des États auxquels est concedé d'acheter des Grains
+#facs_257_r3l12 sur nos marchés publics, d'empléter sur ces dits
+#facs_257_r3l13 marches par ménage quatre mesures de pomme
+#facs_257_r3l14 de terre, raves & carottes, pour leur usage seulement
+#facs_257_r3l15 sous les attestations & précautions préscrites & à
+#facs_257_r3l16 préscrire dans nos kèglemens pour l'achat des
+#facs_257_r3l17 grains & ce pour aussi longtems seulement que
+#facs_257_r3l18 nos citoyens & sujets jouiront de la même liberte
+#facs_257_r3l19 dans ces Etats respectifs
+#facs_257_r3l20 L'a présente ordonnance sera pour la conoissance
+#facs_257_r3l21 & conduite d'un chacun, imprimée, publiée en chaire
+#facs_257_r3l22 & affichée oû de besoin.
+#facs_257_r3l23 Donné en Notre Grand Conseil le 25 Août 1794

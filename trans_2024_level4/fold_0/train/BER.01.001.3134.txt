@@ -1,0 +1,103 @@
+Law ID: BER.01.001.3134
+Name: Sie berichten, dass MgH. die Räth von Civil- und Allmusen Sachen entladen seye, hingegen aber deren Iudicatur der T. und W. Appellation Camer und Burger Cammer zustehe.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 92/92
+# High similarity (>=50%): 88
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_352_r4l1 685.
+#facs_352_r4l2 An Alle L. und W. Ambt Lüth
+#facs_352_r4l3 4. Stäct, Preyweibell
+#facs_352_r4l4 Sie berichte, daß Maghl. die Räthe von Civil¬
+#facs_352_r4l5 und allmusn sachen Entladen seye, hingegen —
+#facs_352_r4l6 aber deren Judicotur der k. und W. appella¬
+#facs_352_r4l7 tion Camer und Bürger Cammer zustehe.
+#facs_352_r4l8 Schultheiß Rath und Burger etc.
+#facs_352_r4l9 Es sindt die dißmahligen Zeithen und Läuß diser ver¬
+#facs_352_r4l10 Birten Welt so beschaffen, daß ein jeder Standt,
+#facs_352_r4l11 Der Voig Gott dem Herren mit dem Reichsägen
+#facs_352_r4l12 deß süsten Fridens begnadet ist, wohl ursach
+#facs_352_r4l13 hat auff seiner Huth zu sein, und Jenerdar
+#facs_352_r4l14 nach zedenken, was zu beybehaltung disers
+#facs_352_r4l15 Sagens gedeylich und befürderlich sein mag,
+#facs_352_r4l16 Wen nun Wir in Beherigung disersachen
+#facs_352_r4l17 under anderem auch befunden, daß Unser
+#facs_352_r4l18 mein geschaffte
+#facs_352_r4l19 Tägliche Rath durch vielfältige ge¬
+#facs_352_r4l20 allß sonderlich mit Austheilung der allmosen
+#facs_352_r4l21 auff dem Landt, gellts Tagsachen und Tröhlhändlen
+#facs_352_r4l22 so vielfaltig überhäufet ist, daß Ihme dardurch
+#facs_352_r4l23 Zur Abhandlung der nöthigen Standtsgeschäfften
+#facs_352_r4l24 die Meiste zeith benommen wirdt. Wils habendt
+#facs_352_r4l25 wir in disem absehen zum Heil und Wohlfarth
+#facs_352_r4l26 deß vaterlandts rathsamb und nothwendig befunden
+#facs_353_r2l1 sothanen Unseren täglichen Rath mit ange¬
+#facs_353_r2l2 seüten geschäfften zu entfangen, damit derselbe
+#facs_353_r2l3 alls mit Weisen und WohlErfahrne,
+#facs_353_r2l4 glidern bestellt, mehrere Zeith undt
+#facs_353_r2l5 Raum haben könte, den Standtssachen
+#facs_353_r2l6 nachzedenken, und dieselben mit aller
+#facs_353_r2l7 Erforderlichen application zu behandten;
+#facs_353_r2l8 allermaßen wir dich hiemit deßen benach¬
+#facs_353_r2l9 richten wollen, mit dem Befelch, die Jenige
+#facs_353_r2l10 Partheyen, so bis hieher in gelltstag, und
+#facs_353_r2l11 andern Tröhlsachen vor Unsern täglichen
+#facs_353_r2l12 -
+#facs_353_r2l13 Rath gewisen worden, künfftiglich vor
+#facs_353_r2l14 ansere Krütsche / sive weltsche :/ Appella¬
+#facs_353_r2l15 tion Cammer zuweisen, allß welche in
+#facs_353_r2l16 disen sachen, so mit dem Lauff deß
+#facs_353_r2l17 Rechtens anhängig, von Uns mit Ebenden
+#facs_353_r2l18 -
+#facs_353_r2l19 Gwalli versehen worden, so vor disem
+#facs_353_r2l20 Der tägliche Rath gehabt.
+#facs_353_r2l21 und gleichwie Wir Unsere Burger Cammer
+#facs_353_r2l22 bestellet, Eint und andere nöthige Allmose
+#facs_353_r2l23 auf dem Landt zu verordnen; allso haben
+#facs_353_r2l24 low zugleich auch diser Cammer anbefohlen,
+#facs_353_r2l25 niehmenden Einich Allmosen zu bestimmen,
+#facs_353_r2l26 ohne Verweisung einer Zeügsamme von
+#facs_353_r2l27 seinem Ambtsmann, so vermach aller¬
+#facs_353_r2l28 dings ohne Emolument, Es seye auf seithen
+#facs_353_r4l1 ius.
+#facs_353_r4l2 Deß Ambtsmanns oder Landtschreibert Ertheil,
+#facs_353_r4l3 Deßen wir Dich hiemit
+#facs_353_r4l4 werden solle.
+#facs_353_r4l5 berichten und zugleich befelchnen wollen, wann auch
+#facs_353_r4l6 sondern Considerationen dergleichen Arme
+#facs_353_r4l7 Persohnen zu etwelcher Handtreichung
+#facs_353_r4l8 allhero gelaßen werden müesten, selbige mir
+#facs_353_r4l9 Einer Zeugsame zu begleithen, und vor den
+#facs_353_r4l10 Obman Unser BurgerCammer zelveisen
+#facs_353_r4l11 Maßen demenach zu verfahren wüsten wirst.
+#facs_353_r4l12 Datl. 10 May 1713
+#facs_353_r4l13 An Alle W: Ambt Leütsallein.
+#facs_353_r4l14 P. S.
+#facs_353_r4l15 Weilen biß hieher Unsere AmbtLeüth Weltsch
+#facs_353_r4l16 Landts mit den gellts Tagsachen nichts zuthu
+#facs_353_r4l17 gehabt, sondern die Partheyen von Jedt wederen
+#facs_353_r4l18 auch der geringsten Incidentzien wegen allhero
+#facs_353_r4l19 kommen, und dardurch viel Cösten Verlängerung
+#facs_353_r4l20 der Liquidation, und schaden den Creditoren Erfolgten
+#facs_353_r4l21 allß habendt wir zu Ersparung vieler
+#facs_353_r4l22 Reis Kösten und Beförderung dersachen Thünsams
+#facs_353_r4l23 Erachtet, die Partheyen Ihrer difficulteten wegen
+#facs_353_r4l24 geforderst vor Unsere Ambt Leuth reine
+#facs_353_r4l25 rendo zelveisen, umb darüber gegen Einen
+#facs_353_r4l26 Leidenlichen, gewüßenhafften, inden gesatz undt
+#facs_353_r4l27 ordnungen bestimmen, Eherminderen allß höchere
+#facs_353_r4l28 Emolument zuerkennen; Zehooch allso, daß
+#facs_354_r3l1 die beschwärende Parthey, wan Es über
+#facs_354_r3l2 zweyhundert Florins antriffet (alle bis dehnen
+#facs_354_r3l3 Wir Unsere Welltsche Ambt Leüth
+#facs_354_r3l4 begweltiget, Herrschafft und in den gesetzen
+#facs_354_r3l5 vorbehaltene Rechten veruert außbedingt)
+#facs_354_r3l6 allhero vor Unsere Weltsche appella¬
+#facs_354_r3l7 tion Cammer ansteit des täglichen Raths
+#facs_354_r3l8 recurrieren mag; welches du denen
+#facs_354_r3l9 Chefs de Justice mundtlich zu notificiren,
+#facs_354_r3l10 wüsten wirst. Datl. ut supra.

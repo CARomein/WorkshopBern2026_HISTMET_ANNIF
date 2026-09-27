@@ -1,0 +1,30 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 22/23
+# High similarity (>=80%): 22
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4467
+#facs_84_r4l4 Die Juraten sollen ihre Pflichten in Besichtigung der
+#facs_23_r4l20 163
+#facs_84_r4l3 Alle Hl. Decanen Teutschen Lands
+#facs_84_r4l4 Die Juraten sollen ihre Pflichten in Besichtigung der
+#facs_84_r4l5 Zustands der Pfrund Gebrüden und Pfarr Gühteren
+#facs_84_r4l6 beßer Erfüllen
+#facs_8_region_1629822291040_72l_1 Schultheis und Raht s
+#facs_84_r4l8 Aus gehabtem Anlaß ist vor uns die Ahndung
+#facs_84_r4l9 gethan worden, daß die Juraten sich die Beobachtung
+#facs_84_r4l10 der ihnen durch die Predigbanten Ordnung
+#facs_84_r4l11 vorgeschriebenen Pflichten in Besichtigung des
+#facs_84_r4l12 Zustands der Pfrud Gebäuden und Pfarr Güh¬
+#facs_84_r4l13 teren, nicht angelegen seyn laßen: Derohalben
+#facs_84_r4l14 Ihr dem Juraten Eüers Capituls alles Ernsts
+#facs_84_r4l15 einschärffen werdet, die daherige Visitationen
+#facs_84_r4l16 fleißiger, als im Vergangenen beschehen.
+#facs_84_r4l17 vorzunemen, und die ihnen daher vorgeschrie¬
+#facs_84_r4l18 tene Pflichten zu erfüllen, auch allenfalls
+#facs_84_r4l19 Aus mangelbahres sich erfinden solte, solches
+#facs_84_r4l20 Alsbald behörigen Orts anzuzeigen, Dat.
+#facs_84_r4l21 den 1ten May 1779.
+#facs_178_r8l1 en

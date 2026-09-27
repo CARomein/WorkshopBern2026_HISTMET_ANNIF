@@ -1,0 +1,793 @@
+Law nr: BER.01.001.4592
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 781/781
+# High similarity (>=80%): 753
+# Low similarity (<80%): 28
+# Not found: 0
+#
+#facs_245_r1l1 Forst=Ordnung
+#facs_218_r4l16 für
+#facs_244_r4l9 der Stadt Bern deutsche Lande.
+#facs_244_r4l10 Herrn Schultheiß kleine
+#facs_244_r4l11 und grosse Räthe der Stadt und
+#facs_244_r4l12 Republik Bern, thun kund hiemit
+#facs_244_r4l13 daß Wir aus Landesvädterliche Liebe
+#facs_244_r4l14 und vorstorge bebogen, die von Uns
+#facs_244_r4l15 bis dahin unseren Unterthanen deut¬
+#facs_244_r4l16 scher Landen gegebene Holz Ordnungen
+#facs_244_r4l17 aufs neue nachstehen laßen; und nach
+#facs_244_r4l18 reifer Erdaurung, damit einerseits,
+#facs_244_r4l19 dem so mehr und mehr sich außernden
+#facs_244_r4l20 Holzmangel, anderseits dem Verfall
+#facs_26_r4l1 47
+#facs_244_r5l2 der Waldungen, durch eine beßere
+#facs_244_r5l3 Beforgung und Bemühung derselben
+#facs_244_r5l4 könne gesteuret werden, uns entschloßen
+#facs_244_r5l5 haben, gegenwärtige Forst Ordnung.
+#facs_244_r5l6 in Aufhebung aller vorhergehenden
+#facs_244_r5l7 denenselben zur Vorschrifft zu geben
+#facs_244_r5l8 nach welcher Wir wollen und gebieten:
+#facs_244_r5l9 daß Unsere Ober- und Unterbeamtete
+#facs_244_r5l10 ns künftig Unsere eigenen Wälder
+#facs_244_r5l11 und Bahne, wie auch die Landschaften
+#facs_244_r5l12 ihre gemeinen Waldungen so besorgen
+#facs_244_r5l13 sollen, damit solche durch eine tüchtige
+#facs_244_r5l14 forst-Oekonomie in Aufnahme ge¬
+#facs_244_r5l15 bracht, im Stande erhalten, und vor
+#facs_244_r5l16 Misbrauch und Frefel gesichert werden
+#facs_244_r5l17 In dem festen Zutrauen zu unseren
+#facs_244_r5l18 Beamteten und den vorgeseten
+#facs_244_r5l19 sie werden dieser Ordnung treue Folge
+#facs_244_r5l20 leisten; zu unseren Unterthanen
+#facs_244_r5l21 aber, sie werden solche als ein Zeichen
+#facs_244_r5l22 Unser immer für sie bachenden Sorge
+#facs_244_r5l23 aufnemmen, und derselben billig und
+#facs_244_r5l24 gehorstam nachleben.
+#facs_245_r1l1 Forst=Ordnung
+#facs_245_r1l2 erster Theil.
+#facs_245_r1l3 von der Einfristung und Benusung
+#facs_245_r1l4 der Walder.
+#facs_4_r8l3 I
+#facs_245_r1l7 Abschnitt.
+#facs_245_r1l8 von der Einfristung und Anpflandung
+#facs_245_r1l9 der Wälder.
+#facs_3_region_1627936339514_16l1 1
+#facs_245_r1l11 von den Märchen und Daunen
+#facs_245_r1l12 Die Wälder sollen, so viel möglich, mit
+#facs_245_r1l13 Steinen, und nicht mit Bäumen oder
+#facs_245_r1l14 Nachtennen, ordentlich ausgemarchet
+#facs_238_r4l15 segnet seyen,
+#facs_245_r1l16 Die Obrigkeitlichen und gemeinen
+#facs_245_r1l17 Waldungen, zu Erfparung des Holze
+#facs_245_r1l18 mit Gräben und mit jungen Tannen
+#facs_245_r1l19 oder dornen befehten Dämmen, äußert
+#facs_245_r1l20 in Brüchen und auf Felsen eingefristet
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_245_r1l22 Die Wälder sollen die Anstößere
+#facs_245_r1l23 vor dem Weidgang schiamen und einfristig
+#facs_245_r2l1 475
+#facs_245_r2l2 die Besitere aber an einander stos-
+#facs_245_r2l3 sender Waldungen, wo keine Verkomm¬
+#facs_245_r2l4 niß es anders bestimt, zu gleichen
+#facs_245_r2l5 Theilen.
+#facs_4_r1l1 2
+#facs_245_r2l7 von den Einschlägen.
+#facs_245_r2l8 So bald ein Stük Wald ausgehauen,
+#facs_245_r2l9 oder geschbändet ist, soll der Hau¬
+#facs_245_r2l10 oder Schband sogleich geräumt, wieder
+#facs_245_r2l11 eingeschlagen und eingefristet
+#facs_245_r2l12 werden, und vor dem Weidgang
+#facs_245_r2l13 befreyt bleiben.
+#facs_245_r2l14 Daher befehlen Wir allen Unseren
+#facs_245_r2l15 Ober- und Unterbeamten, alle Ge¬
+#facs_245_r2l16 meinden so sich aus den obrigkeitlichen
+#facs_245_r2l17 Waldungen beholten, dahin zu halten
+#facs_245_r2l18 daß die in diesen Waldungen gleich
+#facs_245_r2l19 wie auch auf den grienen und Aneu¬
+#facs_245_r2l20 so viele Einschläge zum Holz Aufbachs¬
+#facs_245_r2l21 machen, als die Beschaffenheit der¬
+#facs_245_r2l22 selben zugeben kann.
+#facs_245_r2l23 In den Wälderen, wo einer das
+#facs_245_r2l24 Holtzrecht, der andere das Weidrecht
+#facs_16_r11l1 27
+#facs_246_r2l1 hat, seil ersterer auf einmal nicht
+#facs_246_r2l2 mehr als der dricte Theil einzuschlagen,
+#facs_246_r2l3 fer leztere aber sich dem zu wieder¬
+#facs_246_r2l4 sehen keineswegs befügt seyn.
+#facs_4_r4l1 3.
+#facs_246_r2l6 Von Anpflasung der Wälder
+#facs_246_r2l7 Alle großen öden Stellen, trobene
+#facs_246_r2l8 oder naße, sollen nach der Art des
+#facs_246_r2l9 Todens, nachdem solche erste geschält,
+#facs_246_r2l10 lehte ausgetrobnet, hernach aufge¬
+#facs_246_r2l11 brochen worden, mit Ruchmüßen,
+#facs_246_r2l12 Tannen, Eicheln, Erlen = oder Birben¬
+#facs_246_r2l13 staunen wieder angesaet, kleinere
+#facs_246_r2l14 aber in eingehenden dem gewordenen
+#facs_246_r2l15 Waldungen, mit jungen Bezlingen
+#facs_246_r2l16 von Eichen, Tannen, Erlen Birben,
+#facs_246_r2l17 oder nach der Lage des Orts, mit
+#facs_246_r2l18 wilden Fruchtbaümen bepflanzet werden.
+#facs_4_r7l1 4
+#facs_246_r2l20 Von Sümpfen und Schächen
+#facs_246_r2l21 Da sich in den Oberkeitlichen und ge¬
+#facs_246_r2l22 neinen Waldungen viel Sumpflaus
+#facs_243_r4l1 4712
+#facs_246_r3l2 findet, das an sich selbst zum Forstbau
+#facs_246_r3l3 nicht taugt, ausgetroknet aber zum
+#facs_246_r3l4 Holzbuchs tüchtig wäre, so ist Unser
+#facs_246_r3l5 Wille, daß solches aller Orten, wo
+#facs_246_r3l6 möglich, von Unstern Beamten und
+#facs_246_r3l7 den Gemeinden abgegraben, und an
+#facs_246_r3l8 gepflacht oder angestäet werde. Die
+#facs_246_r3l9 an den Ufern der Flüßen liegende
+#facs_246_r3l10 schächen, sollen gleich anderen Waldung
+#facs_246_r3l11 gehalten, und besorgt seyn.
+#facs_245_r1l7 Abschnitt.
+#facs_40_r2l22 II.
+#facs_246_r3l14 Von der Besorgung und Erhaltung
+#facs_245_r1l4 der Walder.
+#facs_3_region_1627936339514_16l1 1
+#facs_246_r3l17 Von dem Weidgange.
+#facs_246_r3l18 In allen Waldungen, wo kein Weidgangs
+#facs_246_r3l19 ercht sich findt, soll aller Weidgang
+#facs_246_r3l20 verbotten seyn.
+#facs_246_r3l21 In denen aber, wo ein solches Recht
+#facs_246_r3l22 noch haftet, so wohl als in den gemeinen
+#facs_246_r3l23 Waldungen, soll jedoch den Weidgang
+#facs_26_r4l1 47
+#facs_247_r2l1 in allen Einschlägen verbotten seyn,
+#facs_247_r2l2 bis und so lang, nach Unserer Beamteter
+#facs_247_r2l3 befinden, das Holz dem Vieh zu hoch
+#facs_247_r2l4 und zu stark gewachsen, den Weid¬
+#facs_247_r2l5 gang demselben, als unschädlich wieder
+#facs_247_r2l6 geotnet werden kann.
+#facs_247_r2l7 Aller Weidgang der geisten
+#facs_247_r2l8 und Schaafen ist in den Straßen im
+#facs_247_r2l9 Wälderen verbotten, ausgenommen
+#facs_247_r2l10 in erbachtenen Stammhölteren, Unseren
+#facs_247_r2l11 Amtleuten vorbehalten, in den Gebürgen
+#facs_247_r2l12 den Armen allein, an abgelegenen
+#facs_247_r2l13 und unschädlichen Orten für ihre Geiß-
+#facs_247_r2l14 Weidgang zu verzeigen, doch anders
+#facs_247_r2l15 nicht, als unter sicherer Hut. Wer
+#facs_247_r2l16 eine Kuh im Sommer zu Haus hält,
+#facs_247_r2l17 soll keine Geiß, und keiner mehr
+#facs_247_r2l18 als die für seine Haushaltung nöhtigen
+#facs_247_r2l19 treiben. Wer aber, und wie viel
+#facs_247_r2l20 jeden treiben möge, überlaßen Wir
+#facs_247_r2l21 Unseren Amtleiten, mit Zuziehung der
+#facs_247_r2l22 vorgesezten, zu bestimmen.
+#facs_247_r2l23 Auf den Herzen und Weiden
+#facs_247_r2l24 kann der so das Weidrecht hat, ohne
+#facs_26_r4l1 47
+#facs_247_r3l2 zum Nachtheil deßen so das Holzrecht
+#facs_247_r3l3 hat, ohne deßen Bewilligung nicht
+#facs_247_r3l4 reuten und Ausstoben, ausgenommen
+#facs_247_r3l5 das dem Holzbachssokohl als dem
+#facs_247_r3l6 Weidgange schädliche Gestrauche.
+#facs_4_r1l1 2
+#facs_247_r3l8 Vom Grafen und Laubrechen.
+#facs_247_r3l9 Das Grafen, Mahen, und Laubrechen
+#facs_247_r3l10 verbieten Wir in allen Einschlägen
+#facs_247_r3l11 erlauben das Laubrechen allein in
+#facs_247_r3l12 Erwachsenen Wäldern, mit Vorwißen
+#facs_247_r3l13 Unserer Beamten und vorgefehten,
+#facs_247_r3l14 in der ihnen bestimten Zeit, und
+#facs_247_r3l15 unter Aufsicht der von ihnen gestehten
+#facs_247_r3l16 sahnwarten. Miesch und Laub im
+#facs_247_r3l17 Wald zu häufen und zu verbrennen,
+#facs_247_r3l18 ist unter nachgefehter Straf verboten,
+#facs_4_r4l1 3.
+#facs_69_r5l23 Borrisviell
+#facs_247_r3l21 In das Hoch einerseits dem Land noth¬
+#facs_247_r3l22 wendig, andersteits das Harzreißen
+#facs_247_r3l23 dem Holzsehr nachtheilig ist, so
+#facs_248_r1l1 480.
+#facs_248_r2l1 In kissen Wir solches jedermann
+#facs_248_r2l2 äußert denen von Unsern Amtleuten
+#facs_248_r2l4 bestelten, beeydigten, und mit
+#facs_248_r2l5 Patenten verstehenen Harzeren, auch
+#facs_248_r2l6 diesen in allen anderen, als den
+#facs_248_r2l7 ihnen verzeigten Försten
+#facs_248_r2l8 zu herheren sollen Unsere Amtleute
+#facs_248_r2l9 je nach der Größe und der Lage ihrer
+#facs_248_r2l10 Aemter ehrliche Leute bähle, solche
+#facs_248_r2l11 beeydigen, ihnen unschädliche Orte
+#facs_248_r2l12 verzeigen, und ihnen Patenten unent¬
+#facs_248_r2l13 geltlich ertheilen.
+#facs_248_r2l14 Wer anders in Oberkeitlichen
+#facs_248_r2l15 oder gemeinen Waldungen harzet,
+#facs_248_r2l16 der ist ein Frekler, und soll auf
+#facs_248_r2l17 Retrecken als ein solcher angesehen,
+#facs_248_r2l18 und bestraft werden: So auch die¬
+#facs_248_r2l19 bestellten Härzer die außer ihrem
+#facs_248_r2l20 Bezirke Herzen.
+#facs_248_r2l21 fremden und Einheimischen
+#facs_248_r2l22 verbieten Wir, bey Straf der Ge¬
+#facs_248_r2l23 fangenschaft, alle Veräußerung
+#facs_248_r2l24 des Harzes, erlauben hingegen,
+#facs_248_r2l26 Harz von außen ins Land zu
+#facs_27_r2l1 48
+#facs_248_r3l2 bringen, und auf den Wochen = und
+#facs_248_r3l3 Jahr märkten zu verkaufen.
+#facs_4_r8l9 a
+#facs_248_r3l5 Vom Krieshauen und Ringemachen.
+#facs_248_r3l6 Alles Krieshauen und Ringemachen
+#facs_248_r3l7 ohne Rebelligung des Amtsmanns ist
+#facs_248_r3l8 verbotten, kein Ringemacher soll die
+#facs_248_r3l9 Baüme über die halbe Höhe aufschneitlich
+#facs_248_r3l10 sonsten ist er ein Frefler.
+#facs_4_r6l1 5
+#facs_248_r3l12 vom Wohlbrennen
+#facs_248_r3l13 Wir verbieten brauchbares Holz, das¬
+#facs_248_r3l14 man beßer mögen, und abführen beim
+#facs_248_r3l15 zu verkohlen; auch Kohlhaüfen in oder
+#facs_248_r3l16 an den Wäldern zu errichten.
+#facs_248_r3l17 Wir erlauben hingegen, ungelegenes,
+#facs_248_r3l18 unbrauchbares Holz, Stöbe und Wurzeld
+#facs_248_r3l19 auf abgehauenen Böden und offenen
+#facs_248_r3l20 Stellen, doch nicht ohne Bebilligung de¬
+#facs_248_r3l21 Amtsmanns zu verwohlen.
+#facs_31_r2l1 56.
+#facs_27_r2l1 48
+#facs_6_region_1627936574015_66l1 6
+#facs_249_r3l2 vom Ausrenten.
+#facs_249_r3l3 Ohne hochobrigkeitliche Rebelligung ist
+#facs_249_r3l4 verbotten, Waldungen zu renten, und
+#facs_249_r3l5 in ander Land zu verbandlen.
+#facs_249_r3l6 Die von Unsern Amtleuten hin und
+#facs_249_r3l7 wieder den Armen verzeigte, und zum
+#facs_249_r3l8 Anbau auf eine Zeit von höchstens
+#facs_249_r3l9 sechs Jahr überlaßene Rieder sollen
+#facs_249_r3l10 so bald diese verfloßen, wieder zurük¬
+#facs_249_r3l11 gezogen und zu dem Wald geschlagen
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_4_r13l2 7
+#facs_249_r3l14 Von der Veräußerung des Holz ex.
+#facs_249_r3l15 Wir verbieten die Veräußerung des Bau¬
+#facs_249_r3l16 holzes, verarbeitetes oder unverarleiteten
+#facs_249_r3l17 aller Art, aus Unferen Landen. Bey
+#facs_249_r3l18 Strafe der Confisbation des Holzes,
+#facs_249_r3l19 und des dreyfachen Werths deselben
+#facs_249_r3l20 Unter gleicher Strafe des Kuefers
+#facs_249_r3l21 und Wagnerholzes bin nicht weniger
+#facs_249_r3l22 des Trennholzes, des Torfes und der
+#facs_249_r3l23 Steinbohlen. Unserem täglichen
+#facs_27_r2l1 48
+#facs_249_r4l2 Rath allein die Bewilligung dafür
+#facs_249_r4l3 nach den Umständen, vorbehalten.
+#facs_43_r2l7 8
+#facs_249_r4l5 Von Räumung der Wälder
+#facs_249_r4l6 Auf den ersten May sollen alle Wälder.
+#facs_249_r4l7 geräumt, und bis auf den 1. Weinmonats
+#facs_249_r4l8 beschloßen seyn, Nothfälle vorbehalten.
+#facs_7_r7l1 9
+#facs_249_r4l10 Von dem Brande in den Mäldern.
+#facs_249_r4l11 fener in den Wäldern verbieten Wir
+#facs_249_r4l12 bey Leibesstrafe, und wo Brand dadurch
+#facs_249_r4l13 entstunde, soll der Urheber eingezogen
+#facs_249_r4l14 unserm täglichen Raht zur Restraffung
+#facs_249_r4l15 überlaßen seyn.
+#facs_249_r4l16 So bald in einem Wald ein Brand
+#facs_249_r4l17 aus bricht, soll in den nächstgelegeng
+#facs_249_r4l18 dorfschaften solcher durch die ordent¬
+#facs_249_r4l19 lichen Sturmzeichen angezeigt werden
+#facs_249_r4l20 Unser Amtmann sich mit den Forst¬
+#facs_249_r4l21 bedienten auf den Ort begeben, und
+#facs_249_r4l22 die nöhtigen Anstalten vorbehren,
+#facs_249_r4l23 auch die bestelten Feuerläuffer sich
+#facs_27_r2l1 48
+#facs_250_r1l2 9 Ein jeder getrau¬
+#facs_250_r1l3 Unterthan, sich ab,
+#facs_250_r1l4 willig vorsichtig und
+#facs_250_r1l5 gehorstem dabey ein¬
+#facs_250_r1l6 finden und erzeigen
+#facs_250_r2l1 alsbald mit Ribel, Hauen, Schaufeln,
+#facs_250_r2l2 Apten, und anderem nöhtigen Werk
+#facs_250_r2l3 Zeuge dahin eilen; 2 Ist der Grand zu
+#facs_250_r2l4 Tark, oder aber an einem Ort,
+#facs_250_r2l5 daß solcher mit Waßer nicht zu
+#facs_250_r2l6 Löschen ist, so muß demselben durch
+#facs_250_r2l7 Hane, Aufwerfung von Gräben und
+#facs_250_r2l8 dämmen gegen das Feuer hinter¬
+#facs_250_r2l9 dem Wind gesteurt werden.
+#facs_250_r2l10 Dem Frefel so wohl als der Feuers
+#facs_250_r2l11 gefahr zu steuren, verbieten Wir
+#facs_250_r2l12 neue Häuser zu nahe an die
+#facs_250_r2l13 Wälder zu sezen, und soll der
+#facs_250_r2l14 fehlbare zur Restraffung unserm
+#facs_250_r2l15 stäglichen Rath verleidet werden.
+#facs_245_r1l7 Abschnitt.
+#facs_250_r2l17 von der Benusung der Wälder
+#facs_3_region_1627936339514_16l1 1
+#facs_250_r2l19 Von der Fallung des Holzes.
+#facs_250_r2l20 Alles von Ansteren Amtleuten bewil¬
+#facs_250_r2l21 ligte, oder von den vorgesezten
+#facs_27_r2l1 48
+#facs_250_r3l2 verzeigte Rauholz, soll sogleich von den
+#facs_250_r3l3 Bahnbarten mit dem Forstzeichen
+#facs_250_r3l4 angeschlagen, und in rechter Zeit
+#facs_250_r3l5 gefällt werden
+#facs_250_r3l6 Alles bewilligte oder verzeigte
+#facs_250_r3l7 Brennholz, es sey Pension- oder Burger¬
+#facs_250_r3l8 holz, soll zu rechten Zeit und sorgfältig
+#facs_250_r3l9 geschlagen werden.
+#facs_4_r1l1 2
+#facs_250_r3l11 Von dem Hau des Holzes.
+#facs_250_r3l12 So soll alles Brennholz zu rechter
+#facs_250_r3l13 Zeit nach der Vorschrift gehauen
+#facs_250_r3l14 und gebeiget werden. Das Klafter
+#facs_250_r3l15 im Wald sollseyn, sechs und ein
+#facs_250_r3l16 halber Schuh hoch, sechs Schuh breit,
+#facs_250_r3l17 und das Scheid, drey und ein halber
+#facs_250_r3l18 Schuh lang, und mehr nicht als Zbeyman¬
+#facs_250_r3l19 unterlegt.
+#facs_250_r3l20 Wir gebieten bey Fällung und
+#facs_250_r3l21 Zertheilung des Stammholzes die Wald¬
+#facs_250_r3l22 säge zu gebrauchen, mit welcher der
+#facs_250_r3l23 Saum in Trämel von drey und ein
+#facs_250_r3l24 falben Schuh lang gefäget, und erst
+#facs_27_r2l1 48
+#facs_251_r2l1 hernach mit der Axt gespalten
+#facs_51_r2l12 Wird
+#facs_251_r2l3 Die Haue können nach ihrem Wuchse,
+#facs_251_r2l4 alle 10. oder 12. Jahre, zuerst vom
+#facs_251_r2l5 Gestrauche, hernach vom Holz anderer
+#facs_251_r2l6 Art, zuleht vom abstehenden und todten
+#facs_251_r2l7 Holz ausgeleüchtet und gefauberet werden.
+#facs_251_r2l8 Die Schlände sollen wo es die
+#facs_251_r2l9 Lage des Orts zugiebt, von Mieter¬
+#facs_251_r2l10 nacht oder Morgen, gegen Mittag
+#facs_251_r2l11 oder Abend, so schmal möglich, gehau¬
+#facs_251_r2l12 werden, zu beßeren Redekung und
+#facs_251_r2l13 leichterer Resäung des Rodens.
+#facs_251_r2l14 Auf dergen sollen die Sändel
+#facs_251_r2l15 oder der Saum nie abgeholzet, und
+#facs_251_r2l16 in Thälern gegen den stärksten
+#facs_251_r2l17 Wind stehen bleiben.
+#facs_4_r4l1 3.
+#facs_251_r2l19 von dem Ausstoken.
+#facs_251_r2l20 das Ausstoken belangend, sehen Wir
+#facs_251_r2l21 solches überhaupt, als eine den Wald
+#facs_251_r2l22 migen sehr nützliche Sache an dem
+#facs_251_r2l23 selbiges mit der behörigen Vorsicht
+#facs_27_r2l1 48
+#facs_251_r3l2 vorgenommen wird; es ist aber zu
+#facs_251_r3l3 bemerken 1.) daß das Ausstoven
+#facs_251_r3l4 in den Tannbälderen alleine gemein¬
+#facs_251_r3l5 nüzig und vorträglich ist, in den Ruch¬
+#facs_251_r3l6 Bäldern aber 2.) nur die Stöbe von
+#facs_251_r3l7 alten Stämmen, welche nicht mehr aus¬
+#facs_251_r3l8 schießen, ausgegraben werden müße,
+#facs_251_r3l9 in beyden aber 3.) nur da bo kein
+#facs_251_r3l10 schöner Anflug vorhanden, vorzunehmen
+#facs_251_r3l11 ist, überhaupt aber, das solches niemals
+#facs_251_r3l12 an Reinen und steilen Orten geschehe,
+#facs_251_r3l13 und daß die Löcher der gegrabener
+#facs_251_r3l14 Stöken und Wurzen allsobald zuge¬
+#facs_251_r3l15 macht, verebnet, wie auch auf der
+#facs_251_r3l16 Stelle mit jungen zu dem Roden
+#facs_251_r3l17 sich schibenden Pflanzen, bestezt
+#facs_251_r3l18 werden, und zwar innert der Zeit
+#facs_251_r3l19 Da die Wälder zum Holzhan offen
+#facs_251_r3l20 stehen, vom 1ten Weinmonat zum
+#facs_92_r9l36 Thomas
+#facs_4_r7l1 4
+#facs_68_r8l29 Ain Geesten
+#facs_337_r3l3 alle oben und unter Aergänischen
+#facs_11_r2l1 41
+#facs_252_r2l1 so bis auf den ersten May nicht
+#facs_252_r2l2 aus dem Wald geführt seyn wird,
+#facs_252_r2l3 ist dem Wald verfallen; Nothfälle
+#facs_252_r2l4 allein vorbehalten. Die Fuhrleute
+#facs_252_r2l5 sollen die gebohnten Straßen fahren,
+#facs_252_r2l6 und ihr Vieh nicht ausspannen.
+#facs_4_r6l1 5
+#facs_252_r2l8 Bon den Bindfällen.
+#facs_252_r2l9 Durch Schnee oder Wind gebrochene
+#facs_252_r2l10 der gefällte Räume, sollen von den
+#facs_252_r2l11 Rahnbarten angezeigt, das Stammholz
+#facs_252_r2l12 für den Nothfall aufbehalten, das
+#facs_252_r2l13 Kreinholz in Klofter aufgehauen
+#facs_252_r2l14 und wie das dem Wald verfallene
+#facs_252_r2l15 in den künftigen Holztheilen ausge¬
+#facs_252_r2l16 geben, und niemal veräußert werden
+#facs_6_region_1627936574015_66l1 6
+#facs_252_r2l18 von dem Solshandel.
+#facs_252_r2l19 Der Holzhandel, es seye mit Sau
+#facs_252_r2l20 Trenn oder Geschirrholz, von einem
+#facs_252_r2l21 Ort an das andere, soll wie bis hin,
+#facs_252_r2l22 in unseren Landen frey und offen
+#facs_252_r3l1 ... 489.
+#facs_252_r3l2 bleiben; das Pension und Burgerholz¬
+#facs_252_r3l3 allein vorbehalten. Mißbrauch und
+#facs_252_r3l4 Frefel zu verhüeten, verbieten Wir
+#facs_252_r3l5 dieses, ohne Rebelligung an äußere
+#facs_252_r3l6 zu vertauschen, oder zu verkaufen.
+#facs_4_r13l2 7
+#facs_252_r3l8 Vom dem Mißbrauche des Gottes:
+#facs_252_r3l9 So verbieten Wir alles von Unseren
+#facs_252_r3l10 Anctleüten oder den Gemeinden be¬
+#facs_252_r3l11 willigte Rauholz, zu einer anderen
+#facs_252_r3l12 als seiner Bestimmung zu gebrauchen.
+#facs_252_r3l6 zu vertauschen, oder zu verkaufen.
+#facs_43_r2l7 8
+#facs_220_r4l12 von den
+#facs_252_r3l16 Es ist unser Wille, daß zu Erferner
+#facs_252_r3l17 des Holzes, und zur Sicherheit der¬
+#facs_252_r3l18 Wohnungen, diese so viel es die Lage
+#facs_252_r3l19 des Orts und das Vermögen dessen
+#facs_252_r3l20 fer bauet, zugiebt, von Mauerberle
+#facs_252_r3l21 aufgeführt, und mit Ziegeln gedekt
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_149_r5l1 290
+#facs_7_r7l1 9
+#facs_253_r2l2 Von den grünen Zaunen oder
+#facs_253_r2l3 Lebhägen.
+#facs_253_r2l4 deßgleichen ist Unser ausdruklicher
+#facs_253_r2l5 Wille und Befehl, daß zu Erspärung
+#facs_253_r2l6 des Holzes und mehrerer Aufnung
+#facs_253_r2l7 der Waldungen, anstadt der Dürren
+#facs_253_r2l8 Zaunen, aller Orten, wo es sich thun
+#facs_253_r2l9 läßt, sonderlich den Straßen nach,
+#facs_253_r2l10 Lebhäge von Tornen, oder Standen
+#facs_253_r2l11 gepflachet werden. Im Fall aber
+#facs_253_r2l12 Jemand deßen sich beigeren oder
+#facs_253_r2l13 Biederspenstig erzeigen solte, soll
+#facs_253_r2l14 demselben keine Bewilligung für
+#facs_253_r2l15 Zänneholz aus den obrigkeitlichen
+#facs_253_r2l16 Waldungen ertheilt werden.
+#facs_8_r1l1 10
+#facs_253_r2l18 von Straßen und Schwellen.
+#facs_253_r2l19 Wir verbieten, Straßen mit Holz zu bauen
+#facs_253_r2l20 wo Steine und Kies sich vorfinden auch
+#facs_253_r2l21 Schwellen von Stammholz zu bauen, wo solche
+#facs_253_r2l22 von Steinen oder Rämmen, mit Lebendigen
+#facs_253_r2l23 Holz unterseht, können gemacht werden.
+#facs_360_r2l8 zu bieten,
+#facs_128_r2l13 zweyter Theil
+#facs_253_r3l2 Von den Freveln und Strafen
+#facs_253_r3l3 der selben.
+#facs_3_region_1627936339514_16l1 1
+#facs_253_r3l5 Wer eine Waldmarch verändert,
+#facs_253_r3l6 oder versezt, soll nach Unsers täglichen
+#facs_253_r3l7 Raths Erkäntnis gestraft berden.
+#facs_4_r1l1 2
+#facs_253_r3l9 Wer über die Waldmarch Jaunet soll
+#facs_253_r3l10 von jedem paar Staken 3. Pfund Ruß
+#facs_253_r3l11 zahlen, und den Zaun bieder in die
+#facs_253_r3l12 March stellen.
+#facs_4_r4l1 3.
+#facs_253_r3l14 Alles Vieh so in Einschlägen oder
+#facs_337_r2l6 /: gleich wie von den Gemeinden
+#facs_253_r3l16 gefunden wird, soll gepfändet, und nebst
+#facs_253_r3l17 der Erfahung mit 3 Pfund jedes großen
+#facs_253_r3l18 und 30. Schilling jedes kleine Stük gelöset
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_4_r8l9 a
+#facs_27_r5l1 49
+#facs_254_r1l1 492.
+#facs_4_r7l1 4
+#facs_254_r2l2 Wer in verbotene Waldung zu Weid
+#facs_254_r2l3 fahrt, soll mit der Gefangenschaft
+#facs_254_r2l4 gestraft werden.
+#facs_4_r6l1 5
+#facs_254_r2l6 Wer boshafter Weise die Zänne
+#facs_254_r2l7 oder Einfristungen der Waldungen be¬
+#facs_254_r2l8 schädiget, soll 10. Pfund Ruß zahlen.
+#facs_6_region_1627936574015_66l1 6
+#facs_254_r2l10 Wer ohne Rebelligung in eingeschlagenen
+#facs_254_r2l11 Wald graset, oder Laubsamelt, soll
+#facs_254_r2l12 3. Pfund Ruß Zahlen, unvermögenden
+#facs_254_r2l13 falls mit der Gefangenschaft gestraft werden,
+#facs_4_r13l2 7
+#facs_254_r2l15 Wer ohne Erlaubniß harzet, der soll,
+#facs_254_r2l16 es sey ein Einheimischen oder Fremder,
+#facs_254_r2l17 30. Pfund Ruß zahlen, und die Waare
+#facs_254_r2l18 zu Handen der Verleideren von
+#facs_254_r2l19 fiscirt seyn.
+#facs_43_r2l7 8
+#facs_254_r2l21 Wer ohne Vorbissen des Amtmanns
+#facs_254_r2l22 briefet, oder Ringe macht, soll nebst
+#facs_27_r5l1 49
+#facs_254_r3l2 iller Schadensersatzung 5 Pfund Ruß
+#facs_19_r3l10 bezahlen.
+#facs_7_r7l1 9
+#facs_254_r3l5 Wer ohne Bebilligung in Wäldern
+#facs_254_r3l6 Kohlhäufen macht; zahlt nebst der
+#facs_254_r3l7 Confisation des Holzes oder Kohls
+#facs_254_r3l8 10. Pfund Tuß.
+#facs_8_r1l1 10
+#facs_254_r3l10 Wer in obrigkeitlicher oder gemeine
+#facs_254_r3l11 Waldung reutet, ohne Rebelligung, soll
+#facs_254_r3l12 nach Verhältniß des Schadens, an
+#facs_254_r3l13 Leib oder Gut gestraft berden.
+#facs_8_r9l1 11
+#facs_254_r3l15 Wer zu nahe oder in dem Wald
+#facs_254_r3l16 feuer macht, soll am Leib gestraft
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_9_r1l1 12.
+#facs_254_r3l19 Wer ohne Bebilligung, in obrig
+#facs_254_r3l20 beitlichen oder gemeinen Waldungen
+#facs_254_r3l21 Holz fällt, und frekelt, soll von jedem
+#facs_254_r3l22 Baum nebst Erstatzung des Schadens
+#facs_254_r3l23 10. Pfund Rueß Zahlen
+#facs_4_r10l1 13
+#facs_254_r3l25 Wer muthbillig Stambäume durch
+#facs_101_r1l1 194
+#facs_255_r2l1 schälen vergehabt, soll gleich einem ander
+#facs_255_r2l2 frekler gehalten werden, und nebst
+#facs_255_r2l3 Ersatzung des Schadens 10 Pfund aus
+#facs_255_r2l4 Zahlen.
+#facs_10_r1l1 14
+#facs_255_r2l6 Wer bey erlaubtem Holzhan, unvor
+#facs_255_r2l7 sichtig frevelt, der soll nebst Ersatzung
+#facs_255_r2l8 des Schadens 5 Pfund auß bezahlen.
+#facs_4_r4l2 15
+#facs_255_r2l10 Wer in gepflachten Wäldern einen
+#facs_255_r2l11 Baum frekelt, soll über die Ruße
+#facs_255_r2l12 zwey andere gleicher Art sehen.
+#facs_11_r1l1 16
+#facs_255_r2l14 Wer in Einschlägen ohne Erlaubniß
+#facs_255_r2l15 junge Sehlinge gräbt, und frewelt,
+#facs_255_r2l16 der soll von jedem Stük 3. Pfund
+#facs_255_r2l17 Aus zahlen.
+#facs_11_r6l1 17
+#facs_255_r2l19 Wer anstadt einen ihm bebilligten
+#facs_255_r2l20 Baum einen andern vorstezlich hauet,
+#facs_255_r2l21 der Frewelt, und soll 10 Pfund Ruß
+#facs_255_r2l22 Zahlen, und so bohl der gehauene,
+#facs_255_r2l23 als der bewilligte Raum dem Wald
+#facs_255_r2l24 wieder heimgefallen seyn.
+#facs_12_r8l1 19
+#facs_7_r2l12 18
+#facs_255_r3l3 Wer sich erfrechet, in einem Wald
+#facs_255_r3l4 gefälltes, liegendes, oder gebeigtes,
+#facs_255_r3l5 grün oder dürres Holz zu entwenden,
+#facs_255_r3l6 soll nebst der Erfahung mit einer
+#facs_255_r3l7 den Umständen und dem Entbendten
+#facs_255_r3l8 angemeßenen Befangenschaft¬
+#facs_255_r3l9 Straf belegt, und je nach Beschaffen¬
+#facs_255_r3l10 Zeit der Dach so gar Unserm Täg¬
+#facs_255_r3l11 lichen Rath zu fernerer Bestrafung
+#facs_255_r3l12 verleidet, und angezeigt werden.
+#facs_32_r5l1 59
+#facs_255_r3l14 Wer bewilligtes Holz, es seye Rauholtz
+#facs_255_r3l15 oder Rreinholtz, entaüßeret, und
+#facs_255_r3l16 mißbrauchte der soll sein Holz ver¬
+#facs_255_r3l17 lohren haben, und 10. Pfund Ruß bezahlen
+#facs_255_r3l18 son jedem Stamm oder Klafter.
+#facs_7_r5l1 20
+#facs_255_r3l20 Alle Holzfretel bey Nacht geschehen,
+#facs_255_r3l21 als von Eingang der Dame, bis zu
+#facs_255_r3l22 der konne aufgang, sollen dreyfach
+#facs_254_r2l4 gestraft werden.
+#facs_7_r4l1 21
+#facs_69_r5l25 Schneitershauer
+#facs_12_r8l1 19
+#facs_256_r2l1 hat sie auch auch nahmster soll die Ruß für sich
+#facs_256_r2l2 ganz bezahlen.
+#facs_7_r3l1 22
+#facs_256_r2l4 W. verschiedene Antheilhabere.
+#facs_256_r2l5 an einem Wald sich finden, soll
+#facs_256_r2l6 keiner ohne des anderen Vorbißen
+#facs_256_r2l7 Holtz darinn hauen, unter der Strafe
+#facs_256_r2l8 des Frefels.
+#facs_14_region_1627971805407_36l1 23
+#facs_256_r2l10 Wer in obrigkeitlichen oder gemeinen
+#facs_256_r2l11 Waldungen andere als die gebahnten
+#facs_256_r2l12 Straßen fahrt, oder braucht, und Schaden
+#facs_256_r2l13 thut, soll solchen ersezen, und 10. Pfund
+#facs_255_r2l4 Zahlen.
+#facs_8_r2l2 24
+#facs_256_r2l16 Wer sich erfrechen würde, das
+#facs_256_r2l17 wald zeichen des Rahnbarten zu
+#facs_256_r2l18 mißbrauchen, oder nachzumachen,
+#facs_256_r2l19 der soll nach Unsers täglichen Raths
+#facs_256_r2l20 Erkäntnis gestraft werden.
+#facs_256_r2l21 Dritter
+#facs_27_r5l1 49
+#facs_256_r3l2 Dritter Theil.
+#facs_256_r3l3 von den Pflichten Unserer Beamteten
+#facs_256_r3l4 Porstbedienten und Untergebenen
+#facs_256_r3l5 in Absicht auf diese Ordnung.
+#facs_4_r8l9 a
+#facs_256_r3l7 Von den Pflichten der Oberamtleüter
+#facs_256_r3l8 Unsere Amtleute sollen sich dieser
+#facs_256_r3l9 Unserer Verordnung nachzuleben ver¬
+#facs_256_r3l10 pflichtet bißen, ein jeder soll in der
+#facs_256_r3l11 Zeit seiner Amtsverwaltung, so viel
+#facs_256_r3l12 ihme Leibs und Gesundheits halb mog
+#facs_256_r3l13 lich, doch wenigstens einmal, die unter
+#facs_256_r3l14 seiner Aufsicht stehenden Waldungen
+#facs_256_r3l15 untergehen, und in Augenschein
+#facs_256_r3l16 nehmen, und von dem Zustand
+#facs_256_r3l17 derselben Unserer Holzkammer
+#facs_256_r3l18 Nachricht geben. Denselben licht
+#facs_256_r3l19 ob, verständige und redliche Förster
+#facs_256_r3l20 Zu bählen, zu sehen, Zu beeydigen
+#facs_256_r3l21 und solche zu ihrer Pflicht zu halten,
+#facs_256_r3l22 das Angeben der Verleider zu unter¬
+#facs_256_r3l23 stuchen, die Frekler ohne Ansehen
+#facs_256_r3l24 der Person, nach Vorschrift der
+#facs_8_r7l2 29.
+#facs_257_r2l1 Ordnung zu strafen, keine Bischriften
+#facs_257_r2l2 ohne sichere Zeugsame der Armuth
+#facs_257_r2l3 und Nothdurfft zu besiegeln.
+#facs_4_r1l1 2
+#facs_257_r2l5 von den Pflichten der Berichtsherren.
+#facs_257_r2l6 Den Twingherren in Unseren Landen
+#facs_257_r2l7 welche Waldungen, und in denselben
+#facs_257_r2l8 das Recht zu büßen haben, soll diese
+#facs_257_r2l9 Ordnung, die Wir ihnen zu dem Ende
+#facs_257_r2l10 mittheilen, in Restraffung der Frekler
+#facs_257_r2l11 zur Vorschrift, und ihren Rahnbartz,
+#facs_257_r2l12 die sie sehen und beeydigen, in ihren
+#facs_257_r2l13 Pflichten zur Regel dienen.
+#facs_4_r4l1 3.
+#facs_257_r2l15 Von den Pflichten der Gemeinden.
+#facs_257_r2l16 Die Gemeinden, so eigene Waldungen
+#facs_257_r2l17 haben, können eigene Rahnbarten
+#facs_257_r2l18 sehen, und solche durch die Amtleute
+#facs_257_r2l19 beeydigen laßen; dazu aber sollen
+#facs_257_r2l20 sie ehrliche Leute Bählen, und solche
+#facs_257_r2l21 genügstem belohnen; diejenigen aber
+#facs_257_r2l22 so keine eigene haben, und die Wir
+#facs_154_r1l1 299
+#facs_257_r3l2 aus den Unseren verstorgen, sollen
+#facs_257_r3l3 sich bey dem Genuß dieser Wohlthat
+#facs_257_r3l4 so betragen, daß keine Klagen über
+#facs_257_r3l5 Mißbrauche gegen sie einlangen,
+#facs_257_r3l6 damit sie sich ferner derselben zu
+#facs_257_r3l7 getrösten haben.
+#facs_4_r7l1 4
+#facs_257_r3l9 Von den Pflichten der Försteren
+#facs_257_r3l10 und Bahnwärten
+#facs_257_r3l11 Diese von Unseren Amtleüten Herr¬
+#facs_257_r3l12 schaftsherren, oder den Gemeinden
+#facs_257_r3l13 gefeht, sollen auf die ihrer Hut an,
+#facs_257_r3l14 vertraute Waldungen fleisige und
+#facs_257_r3l15 treue Acht haben, solche öfters durch
+#facs_257_r3l16 gehen, die mangelnden Marihen
+#facs_257_r3l17 und Einfristungen sogleich anzeigen;
+#facs_257_r3l18 ob dieser Ordnung in Anpflanzung
+#facs_244_r5l3 Beforgung und Bemühung derselben
+#facs_257_r3l20 redlich halten, die Frekler ohne
+#facs_257_r3l21 Ansehen der Person dem Richter
+#facs_257_r3l22 verleiden, und wo sie solche verheelen
+#facs_257_r3l23 bürden, an derselben Stock
+#facs_257_r3l24 leiden.
+#facs_258_r1l1 500.
+#facs_43_r2l7 8
+#facs_258_r2l2 Dieselben sollen ein Verzeichniß
+#facs_258_r2l3 haben, vom dem Halte und der Art,
+#facs_258_r2l4 der ihnen vertrauten Waldungen
+#facs_258_r2l5 und der daran Rechthebenden; alle
+#facs_258_r2l6 Jahre dem Amtmann Herrschaftsherr
+#facs_258_r2l7 oder der Gemeinde, so sie gesezt
+#facs_258_r2l8 hat, davon Rechnung tragen, solcher
+#facs_258_r2l9 Befehlen gewarten, und geflißen
+#facs_258_r2l10 folg leisten.
+#facs_258_r2l11 Der Bahnbart soll das von dem
+#facs_258_r2l12 Amtmann oder der Gemeinde erhaltene
+#facs_258_r2l13 forstzeichen, oder den Waldhänner sorg
+#facs_258_r2l14 fältig führen; das bewilligte oder ver¬
+#facs_258_r2l15 zeigte Holzstogleich anzeichnen, unter
+#facs_258_r2l16 seiner Aufsicht füllen, und abführen
+#facs_258_r2l17 laßen, sich an seinem bestimmten
+#facs_258_r2l18 kohn begnügen; von Fiefel sich bey
+#facs_258_r2l19 Verlust seines Diensts und Rappelter
+#facs_258_r2l20 Strafe hüeten; zu folg des auf sich
+#facs_258_r2l21 habenden Eides, kraft welches seine
+#facs_258_r2l22 Anzeige und Aussage als ein vollgült
+#facs_258_r2l23 tiges Beleiethum angenommen wird
+#facs_258_r2l24 die Fehlbaren dem Richter anzeigen.
+#facs_79_r1l1 50
+#facs_4_r6l1 5
+#facs_258_r3l3 Von den Verleideren.
+#facs_258_r3l4 Verleider sollen ihre Anzeige, wo der
+#facs_258_r3l5 frefel gelangnet wird, zu erbahren
+#facs_258_r3l6 schuldig seyn; wo aber solcher eingestanden
+#facs_258_r3l7 ist, soll derselben Nahmen geheim gehalten
+#facs_258_r3l8 werden; solchen komt der dritten
+#facs_258_r3l9 Theil der Fußen zu. Wer an¬
+#facs_258_r3l10 demselben sich rächet, der soll je nach
+#facs_258_r3l11 den Umständen gestraft werden.
+#facs_6_region_1627936574015_66l1 6
+#facs_220_r4l12 von den
+#facs_258_r3l14 Alle in dieser Ordnung bestimte und
+#facs_258_r3l15 von dem Richter erhobene Zußen
+#facs_258_r3l16 sollen in drey Theille getheilt beade¬
+#facs_258_r3l17 davon ein Theil Uns der Obrigkeiten
+#facs_258_r3l18 des Landes, ein Theil dem Richter
+#facs_258_r3l19 des Orts, einer dem Verleider
+#facs_258_r3l20 zukommen.
+#facs_258_r3l21 Diese Verordnung soll von jedem
+#facs_258_r3l22 Unserer Amtleuten, bey Anfang
+#facs_258_r3l23 seiner Verwaltung in seinem Amt
+#facs_79_r1l1 50
+#facs_28_r4l1 Coll
+#facs_259_r3l1 aufs neue bekant gemacht von nun an
+#facs_259_r3l2 allen Unseren Amtleuten, Gerichtsherren
+#facs_259_r3l3 Gerichtskögten, Gemeind vorsteheren
+#facs_259_r3l4 forsteren und Forstbedienten zu
+#facs_259_r3l5 ihrem Verhalt mitgetheilt werden.
+#facs_259_r3l6 Tabey Wir uns vorbehalten, in
+#facs_259_r3l7 Zukunft solche zu vermehren oder
+#facs_259_r3l8 zu verminderen etc. je nachdem Wir
+#facs_259_r3l9 es, in Absicht auf das Reste Unsers
+#facs_259_r3l10 Landes, nöhtig und gut finden werden.
+#facs_14_region_1627971801863_33l7 Geben in Unserer großen Raths¬
+#facs_259_r3l12 Rathsvorfamlung den 16ten und 23ten Junius
+#facs_259_r3l13 und 7ten Julius 1786.
+#facs_53_r9l13 dans
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_329_r3l20 alle Herren Amtleut belschen Lands.
+#facs_259_r3l17 ählen, Tscherliz und Grandson
+#facs_259_r3l18 über die Verwandschafft Grade in
+#facs_259_r3l19 welchem die Gerichtsessen als die Curiaux
+#facs_259_r3l20 abtrecken sollen, berichte einziehen.
+#facs_36_r3l7 Schultheiß und Rath
+#facs_259_r3l22 Da über die in dem Contumier bestimten
+#facs_79_r1l1 50
+#facs_259_r4l2 Verwandschafts Grade in welchem so¬
+#facs_259_r4l3 wohl die Gerichtseßen als die Curiaux
+#facs_259_r3l20 abtrecken sollen, berichte einziehen.
+#facs_259_r4l5 halten, auch dem Gericht nach deshalb
+#facs_259_r4l6 fast in jedem Amt eine besondere
+#facs_259_r4l7 Übung waltet; so tragen wir Euch
+#facs_259_r4l8 befelchlich auf Unseren fürgeliebten
+#facs_259_r4l9 Mit Räften den Herren besch Sekel¬
+#facs_259_r4l10 meister und Venneren den Bericht
+#facs_259_r4l11 einzusenden was hinter Eüerem Amt
+#facs_259_r4l12 des Abtridts halb in denen Tribunalien
+#facs_259_r4l13 eingeführt und üblich seye, damit
+#facs_259_r4l14 darüber eine General Regel und
+#facs_259_r4l15 gleichförmigkeit eingeführt werden.
+#facs_259_r4l16 könne.
+#facs_259_r4l17 An Vrois allein) bis diese Regel
+#facs_259_r4l18 gemacht seyn wird, soll es bey der
+#facs_259_r4l19 lezten Verfügung wegen dem Chatelain
+#facs_259_r4l20 Dufour einstweilen verbleiben.
+#facs_259_r4l22 Datl. den 6t. Septembris 1786.
+#facs_23_region_1633454616028_2913l1 An
+#facs_79_r1l1 50
+#facs_334_r2l3 kolle.
+#facs_218_r4l15 Privilegium
+#facs_260_r3l2 zu gönsten des Medicii Verdeil von
+#facs_260_r3l3 Lausanne zu fabrication des Cremor
+#facs_260_r3l4 Tartary
+#facs_260_r3l5 An alle deutsch und welsche Herren
+#facs_260_r3l6 Amtleut; item die vier Städt¬
+#facs_36_r3l7 Schultheiß und Rath
+#facs_260_r3l8 Dem Medico Verdeit von Lausanne
+#facs_260_r3l9 haben Wir auf 15. Jahre lang ein
+#facs_218_r4l15 Privilegium
+#facs_260_r3l11 des Cremor Tartary ertheilt, und für
+#facs_260_r3l12 die nehmliche Zeit die Ausfuhr des
+#facs_260_r3l13 ischen Weinsteins verbotten. Da
+#facs_260_r3l14 soll die Einfuhr des Cremor Tartary nicht
+#facs_260_r3l15 verbotten und den Apothekern nicht
+#facs_260_r3l16 untersagt seyn denselben für ihren
+#facs_260_r3l17 gebrauch selbst zu verfertigen
+#facs_260_r3l18 So wie jedermann frey stehen soll.
+#facs_260_r3l19 den Weinstein zu verkaufen an
+#facs_260_r3l20 ben er will, in so fern er nicht
+#facs_260_r3l21 außer Lands geführt wird. Ihr
+#facs_260_r3l22 werdet allso dieser Unserer Erbant¬
+#facs_260_r3l23 nuß nachkommen, und nöhtigen falls
+#facs_260_r3l24 dem Medico Verdeil handbieten, daß
+#facs_28_r4l1 Coll
+#facs_260_r5l1 506
+#facs_260_r5l2 bein Eingriff in das ihm ertheilte,
+#facs_260_r5l3 Privilegium gemacht werde, gegenwärtiges
+#facs_260_r5l4 aber seines Orts nachrichtlich ein¬
+#facs_260_r5l5 schreiben zu laßen.
+#facs_260_r5l6 Dath den 12ten Septembris 1786

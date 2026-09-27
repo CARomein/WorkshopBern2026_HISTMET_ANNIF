@@ -1,0 +1,58 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 50/51
+# High similarity (>=80%): 48
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4434
+#facs_48_region_1628873139811_91l1 Obid:
+#facs_28_region_1628256027653_407l1 47
+#facs_103_r10l1 a
+#facs_244_r3l2 An alle Herren Amtleut Weltschen Lands, wo
+#facs_244_r3l3 Obrigkeitl. Getreid ligt
+#facs_90_r2l5 Schultheiß Räht und Burgers.
+#facs_244_r3l5 Und ist von Unseren Fürgeliebten Mit Rähten
+#facs_244_r3l6 denen Herren Weltsch Sekelmeister und Veneren
+#facs_244_r3l7 und Unserer verordneten KornCammer, über die
+#facs_243_r3l10 Disposition des auf Martini 1774 eingegangenen
+#facs_244_r3l9 brigkeitlichen Getreyds, der Vortrag gemacht worden
+#facs_244_r3l10 Worüber Wir erkent: Daß allervorderst alles¬
+#facs_244_r3l11 dasjenige, was nach Abzug der Ordinari= und Extra¬
+#facs_244_r3l12 ordinari = Ausgaben, wie auch deßen, was Eüer
+#facs_244_r3l13 Contingent auf dem Restierenden Betragen mag,
+#facs_244_r3l14 so wohl an Winter= als Sommerfrüchten von dem
+#facs_244_r3l15 auf Martin 1774. eingegangenen Obrigkeitlichen
+#facs_244_r3l16 Getreid vorschießen mag, so weit es nöhtig seyn wir
+#facs_244_r3l17 zu fernerer wider ergänzung daß von uns auf
+#facs_244_r3l18 Eüerem Amt so wohl an Sommer- als Winter Früch
+#facs_244_r3l19 ten, bestimten Obrigkeitl. Getreid=Vorrahts
+#facs_244_r3l20 angewandt und aufgeschüttet werden solle
+#facs_244_r3l21 Was dann dasjenige Obrigkeitl. Getreis be¬
+#facs_244_r3l22 trifft, welches diesenmach noch zum Verkauf von
+#facs_244_r3l23 eint- und anderer Gattung übrig bleiben wird
+#facs_244_r3l24 So ist deßthalb Unser Wille und Befelch. Daß
+#facs_28_region_1628256027653_407l1 47
+#facs_244_r4l2 Für einmahl, und bis auf Unseren weiteren bestim¬
+#facs_244_r4l3 ten Befelch, kein Weizen verbaufft, das Mischelkorn
+#facs_244_r4l4 und der Stoggen aber nur zur Helffte, hingegen dann
+#facs_244_r4l5 die Sommerfrüchte in pleno versilberet werden. Alles
+#facs_244_r4l6 jeden noch in dem Verstand, daß in ansehen des zu
+#facs_26_region_1628255630581_331l2 verkauffenden Getreids, die gewohnlichen Prae¬
+#facs_244_r4l8 genommen, Mithin solches nur zu kleinen Kaufen
+#facs_244_r4l9 erlaßen, die Sommerfrucht dann in Specie vorzüglich¬
+#facs_244_r4l10 zu Anblühmung der Feldern hingegeben, auch erst
+#facs_244_r4l11 denzumahlen völlig abgestoßen werden sollen, wann
+#facs_244_r4l12 die SommerSaat in Euerem Amt, und in denen
+#facs_244_r4l13 Gegenden von welchen der Saamen darzu in dem
+#facs_244_r4l14 selben angebaufft wird, vollkommen besorget seyn wird
+#facs_26_region_1628255630581_331l11 Damit aber bey diesem Verkauf das mindest
+#facs_244_r4l16 liche Getreid abgestoßen werde; So haben Wir
+#facs_244_r4l17 Eingangs vermelt Unseren Fürgeliebten MitRähten
+#facs_244_r3l6 denen Herren Weltsch Sekelmeister und Veneren
+#facs_243_r4l22 aufgetragen, Euch zu dem End die Schüttenen zu
+#facs_244_r4l20 enamsten, welche Verbaufft werden sollen.
+#facs_244_r4l22 Welchemnach Ihr Euch zu verhalten, und über das
+#facs_244_r4l23 erlösende Uns Rechnung zu tragen wißen werdet.
+#facs_244_r4l24 Datl. d. 15ten febr. 1775.
+#facs_24_region_1628255397587_277l11 en

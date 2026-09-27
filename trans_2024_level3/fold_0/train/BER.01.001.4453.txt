@@ -1,0 +1,57 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 49/50
+# High similarity (>=80%): 49
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4453
+#facs_14_region_1629823093350_239l_4 Das Verbot vom 4ten Marty Achthin, wordurch den fremden
+#facs_3_region_1629374296225_399l1 An
+#facs_11_region_1629822696056_148l2 Alle Teutsch und Weltsche Herren Amtleut, 4. Städt¬
+#facs_14_region_1629823093350_239l_3 Freybeibel und Amann
+#facs_14_region_1629823093350_239l_4 Das Verbot vom 4ten Marty Achthin, wordurch den fremden
+#facs_14_region_1629823093350_239l_5 aller Handel mit Sägeßen, Sichlen und Wezsteinen mit
+#facs_14_region_1629823093350_239l_6 sagt worden, wird Bider aufgehebt.
+#facs_14_region_1629823081814_236l_1 Schultheis und Raht P
+#facs_14_region_1629823100196_242l_2 Nachdeme Wir in Erfahrung gebracht, daß das¬
+#facs_14_region_1629823100196_242l_3 von Unserer verordneten Marechaussée Cammer
+#facs_14_region_1629823100196_242l_4 unterm 4ten Merzen lezthin gemachte Verboit,
+#facs_14_region_1629823063779_230l_1 25.
+#facs_14_region_1629823109777_245l_1 Krafft deßen auf eine Probheit von zweyen Jahren
+#facs_14_region_1629823109777_245l_2 allen und jeden Fremden, aller Handel mit
+#facs_14_region_1629823109777_245l_3 Sägißen, sichlen und Wezsteinen abgestrebt wor¬
+#facs_14_region_1629823109777_245l_4 den, die darbey gehabte Absicht zum besten daß
+#facs_14_region_1629823109777_245l_5 Lands nicht erzielet; So haben Wir gut befunden,
+#facs_14_region_1629823109777_245l_6 sothanes Verbot (wie anmit geschieht) auf zu haben
+#facs_14_region_1629823109777_245l_7 Zumahlen die Sachen dißorts wieder auf den ehe¬
+#facs_14_region_1629823109777_245l_8 vorigen Fuß zu sezen, allso daß an den Jahr Märb¬
+#facs_14_region_1629823109777_245l_9 ten in samtlichen Städt und Landen hiesiger Zeit¬
+#facs_14_region_1629823109777_245l_10 mäßigkeit, maniglich, den Fremden wie den
+#facs_14_region_1629823109777_245l_11 Einheimschen erlaubt seyn solle, mit Sägeßen, Sich¬
+#facs_14_region_1629823109777_245l_12 len und Wegsteinen zu handlen, selbige seyen
+#facs_14_region_1629823109777_245l_13 nun in- oder äußert Lands fabriiert worden.
+#facs_14_region_1629823109777_245l_14 diejenigen aber so mit dieser Waar im Land zu
+#facs_14_region_1629823109777_245l_15 susieren verlangen, sollen solches anders nicht
+#facs_14_region_1629823109777_245l_16 zu thun befügt seyn, als auf zuvor erhaltene
+#facs_14_region_1629823109777_245l_17 Bewilligung und Patent von Eingangs angezoge¬
+#facs_14_region_1629823109777_245l_18 ner Unserer verordneten Marechausste Cammer¬
+#facs_14_region_1629823109777_245l_19 bey der in dem Husier Mandat wieder die
+#facs_14_region_1629823109777_245l_20 Wiederhandlende ausgesezten Bus und Straff.
+#facs_14_region_1629823109777_245l_21 Deßen Ihr berichtet werdet mit Befehl, die
+#facs_14_region_1629823109777_245l_22 Aufhebung des dißortigen Verbats vom
+#facs_14_region_1629823109777_245l_23 4ten mech 1777 denen, in folg deßelben
+#facs_14_region_1629823109777_245l_24 bestellten Aufseheren und übrigen darinn
+#facs_15_region_1629823169686_256l_1 26.
+#facs_15_region_1629823185098_265l_1 vernamfeten Personen, bekant zu machen
+#facs_15_region_1629823185098_265l_2 und zu künftiger Nachricht in dem Man¬
+#facs_15_region_1629823185098_265l_3 daten Buch einschreiben zu laßen.
+#facs_15_region_1629823185098_265l_4 An Aarberg allein. Wormit dann auch der
+#facs_15_region_1629823185098_265l_5 von Eüch unteren 7t dieß Uns einberichtete Fall,
+#facs_15_region_1629823185098_265l_6 den Peter Gambone einen Iteliäner ansehend,
+#facs_15_region_1629823185098_265l_7 mit einbegriffen seyn, zu mahlen ihme so wohl
+#facs_15_region_1629823185098_265l_8 die Confiscator Sechs Sägeßen und siben Wez¬
+#facs_15_region_1629823185098_265l_9 steinen, als auch die auferlegte Buß von Sechs
+#facs_15_region_1629823185098_265l_10 Pfunden, ohnentgeltlich wieder zugestellt werden
+#facs_15_region_1629823185098_265l_11 sollen. Maßen zu veranstalten Ihr schon wißen
+#facs_15_region_1629823185098_265l_12 werdet. Dat. d. 27ten Juny 1777.

@@ -1,0 +1,387 @@
+Law ID: BER.01.001.4654
+Name: Verordnung ansehend die Ausfuhr des Getreyds, Brods- und Mehls.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 376/376
+# High similarity (>=50%): 353
+# Low similarity (<50%): 23
+# Not found: 0
+#
+#facs_46_r3l17 Verordnung
+#facs_46_r3l18 ansehend
+#facs_46_r3l19 die Ausfuhr des Getreyds, Prods¬
+#facs_46_r3l20 und Mehls.
+#facs_46_r3l21 Wir Schultheiß und Raht der Stadt
+#facs_46_r3l22 und Republik Sern, thun kund hiermit:
+#facs_46_r4l1 37
+#facs_46_r4l2 daß die gegenbärtige theure des
+#facs_46_r4l3 Getreydes uns genöthiget hat, die schon
+#facs_46_r4l4 vor diesem genommenen Fürforger
+#facs_46_r4l5 und Maasreglen gegen die Ausfuhr
+#facs_46_r4l6 dieses Lebens Mittels zu erneueren;
+#facs_46_r4l7 zu diesem Ende haben Wir, ge¬
+#facs_46_r4l8 meinschaftlich mit dem löbl. Stand¬
+#facs_46_r4l9 fryburg, für unsere beydeseitige
+#facs_46_r4l10 Sodtmässigkeiten, die nöthigenschon
+#facs_46_r4l11 vormahls unter uns abgeredte,
+#facs_46_r4l12 Maaßreglen fest gesezt, um alle
+#facs_46_r4l13 fernere Ausfuhr aus Unseren -
+#facs_46_r4l14 beyderseitigen Gebieten zu hemen:
+#facs_46_r4l15 in Folge deßen haben wir für so
+#facs_46_r4l16 lange als die Umstände solches
+#facs_46_r4l17 erforderen, und wir es nöhtig
+#facs_46_r4l18 erachten werden, folgende gemein¬
+#facs_46_r4l19 samme Verordnung statuiert: in
+#facs_46_r4l20 dem Verstand, daß alle übrige
+#facs_46_r4l21 deßhalb bereits ausgegangene
+#facs_46_r4l22 Mandate und Verordnungen dabey
+#facs_46_r4l23 in Kraßt verbleiben und befolget werden
+#facs_47_r2l1 Von Publication gegenbärtiger Ver¬
+#facs_47_r2l2 ordnung an, soll so wohl in unseren
+#facs_47_r2l3 der beyden Standen Sern und Fryburg,
+#facs_47_r2l4 Angehörigen beydseitigen Immediat
+#facs_47_r2l5 als Mediat Rodtmäßigkeiten, längs
+#facs_47_r2l6 dem Neuenburger Seed, äußert an
+#facs_47_r2l7 nachbenanten Orten niemand kein
+#facs_47_r2l8 lich ist auch führzeug von welcher Art es
+#facs_47_r2l9 seyn möge, halten; nemlich bey der
+#facs_47_r2l10 Zihlbrügge, bey St. Johansen bey
+#facs_47_r2l11 dem Vanel Amts Erlach, bey dem
+#facs_47_r2l12 Fehlbaum, zu Cudresin, Portalbanc¬
+#facs_47_r2l13 Stäfis, Cheyre, Ivonand, Ifferten,
+#facs_47_r2l14 Grandson, und Concise; auch soll allen
+#facs_47_r2l15 fremden und anderen, Schiffen
+#facs_47_r2l16 und Fahrzeugen, sie seyen klein
+#facs_47_r2l17 oder groß, oder wie sie beschaffen
+#facs_47_r2l18 seyn mögen, von nun an verbodten,
+#facs_47_r2l19 seyn, aus welcher Urfach oder unter
+#facs_47_r2l20 welchem Vorband es seye, in diesem
+#facs_47_r2l21 ganzen behirk an andern als den
+#facs_47_r2l22 obbestimten Orten, anzulanden, oder
+#facs_47_r3l1 89
+#facs_47_r3l2 abzufahren. Von diesen bestimten
+#facs_47_r3l3 Orten dann soll auch kein Schiff
+#facs_47_r3l4 abfahren, ohne daß solches zuvor
+#facs_47_r3l5 den bestellten Aufsehern angezeigt
+#facs_47_r3l6 worden sey, damit dieselben anbe¬
+#facs_47_r3l7 fohlener maßen visitiert beyden
+#facs_47_r3l8 können, ob sich kein Getreide —
+#facs_47_r3l9 darinnen befinde; alles bey Straffe
+#facs_47_r3l10 der Confiscation des Fahrzeugs und
+#facs_47_r3l11 alles in demselben allenfalls befind¬
+#facs_47_r3l12 lichen Getreids, Mehls oder Brods
+#facs_47_r3l13 nebst einer Ruße von sbanzig
+#facs_47_r3l14 Thaler, welche durch die Wiederhand¬
+#facs_47_r3l15 fenden behalt werden soll. Sollten
+#facs_47_r3l16 aber eingeschiffe und Fahrzeug durch
+#facs_47_r3l17 Sturm oder heftigem Winde, genöhtiget
+#facs_47_r3l18 berden an einem anderen Ort
+#facs_47_r3l19 anzulenden, sollen dieselben Ibar
+#facs_47_r3l20 nicht unter der Strafe gegenbür¬
+#facs_47_r3l21 tigen Verborts begriffen seyn;
+#facs_47_r3l22 doch aber sollen selbige gehalten
+#facs_47_r3l23 seyn, so bald sie an einem Ver¬
+#facs_48_r3l1 boßenen Ort angelandet sind, solches
+#facs_48_r3l2 unverhüglich einem Vorgesezten des
+#facs_48_r3l3 nächsten Orts anzuzeigen, und die
+#facs_48_r3l4 Nothwendigkeit, ihrer Anlandung zu
+#facs_48_r3l5 bescheinigen, sich auch nicht ohne dazu
+#facs_48_r3l6 erhaltener Erlaubnis allda begg begeben,
+#facs_48_r3l7 biedrigen falls sie mit der nemlichen
+#facs_48_r3l8 festgesezten Straffen angesehen
+#facs_48_r3l9 werden sollen.
+#facs_48_r3l10 Um desto beßer allem Retrum
+#facs_48_r3l11 und Gefehrde vorzubommen, soll
+#facs_48_r3l12 ferners keinem Fahrzeugen, welcher
+#facs_48_r3l13 Gütung es seye, erlaubt seyn, von
+#facs_48_r3l14 stieben Uhr des Morgens und nach
+#facs_48_r3l15 fünf Uhr des Abends, und ohne
+#facs_48_r3l16 behörig visitiert zu seyn, von
+#facs_48_r3l17 einem der hier bestimten Orten
+#facs_48_r3l18 sich begg zu begeben, oder davon
+#facs_48_r3l19 abzufahren, alles unter der gleichen
+#facs_48_r3l20 Straffe der Confiscation und einer
+#facs_48_r3l21 Tuße von sännig Thaler, wovon
+#facs_48_r3l22 ein Driddel dem Verleider anheim
+#facs_48_r5l1 91
+#facs_48_r5l2 fallen soll. Im Fall aber das
+#facs_48_r5l3 ein Fahrzeug vor der hier bestimte
+#facs_48_r5l4 Zeit vor 7. Uhr des Morgens
+#facs_48_r5l5 abzugehen genohtiget bäre, so soll
+#facs_48_r5l6 der Schiffer gehalten seyn, solches
+#facs_48_r5l7 vorher dem bestelten Aufseher
+#facs_48_r5l8 anzuzeigen, damit derselbe die
+#facs_48_r5l9 befohlene Visitation verrichten könne,
+#facs_48_r5l10 bey Straffe einer dreymahl vier¬
+#facs_48_r5l11 und zwanzigstündigen Gefangen¬
+#facs_48_r5l12 schafft bey Waßer und Prod, nebst
+#facs_48_r5l13 der gesetzten Ruße und Confiscation.
+#facs_48_r5l14 Soll beim Transport von Getrein
+#facs_48_r5l15 es seye auf Wägen Pferdten¬
+#facs_48_r5l16 oder auf andere Weise, an den
+#facs_48_r5l17 in den Nachbarschaft des Sees
+#facs_48_r5l18 gelegenen Orten, während der hievor
+#facs_48_r5l19 verbordenen Zeit nemlich von fünf
+#facs_48_r5l20 Uhr des Abends an, bis um sieben
+#facs_48_r5l21 Uhr des Morgens geschehen, und
+#facs_48_r5l22 vorgenommen werden, bey Straffe
+#facs_48_r5l23 der Confiscation des Getreids u. einer
+#facs_49_r2l1 Theil von Ibenzig Thaler, wovon
+#facs_49_r2l2 ebenfalls ein Krickel dem Verleider
+#facs_49_r2l3 anheim fallen soll.
+#facs_49_r2l4 4° Ziesenigen so gegenbärtiger Ver¬
+#facs_49_r2l5 ordnung wiederhandlen bürden, sollen
+#facs_49_r2l6 durch denjenigen unseren Amtlente
+#facs_49_r2l7 oder denjenigen Amtmann des löbl.
+#facs_49_r2l8 Standes Fryburg beurtheilet und
+#facs_49_r2l9 zur Straffe gezogen werden, in
+#facs_49_r2l10 deßen Amt dieselben entdebet und
+#facs_49_r2l11 angehalten beyden; worbey es den
+#facs_49_r2l12 noch bey den in unseren vorherigen
+#facs_49_r2l13 Verordnungen angesehenen Straffe,
+#facs_49_r2l14 sein verbleiben haben soll.
+#facs_49_r2l15 5. Um desto Birbsamer die Aus¬
+#facs_49_r2l16 fuhr des Getreides aus Unseren
+#facs_49_r2l17 beyseitigen Landen zu behindern
+#facs_49_r2l18 so sollen an den hier vorbestimte¬
+#facs_49_r2l19 Orten eine genügfame Anzahle
+#facs_49_r2l20 Wächter bestellt werden, welche
+#facs_49_r2l21 beständig um vornemlich bey Nacht
+#facs_49_r2l22 zu allen Stunden hinter beyderseitigen
+#facs_49_r4l1 93
+#facs_49_r4l2 Sockmäßigkeiten ohne Unterscheid
+#facs_49_r4l3 patrouillieren sollen, zufolg der Be¬
+#facs_49_r4l4 fehlen, welche sie von der beydseitigen
+#facs_49_r4l5 Amtleuten zu St. Johann und Erlach,
+#facs_49_r4l6 Wiblisburg, Stafis, St. Albin, Cheyre,
+#facs_49_r4l7 ifferten und Grandson, empfangen
+#facs_49_r4l8 werden, als welchen wir zu diesem
+#facs_49_r4l9 Ende, Vollmacht ertheilt haben, be¬
+#facs_49_r4l10 stanten Wächteren die nöhtigen
+#facs_49_r4l11 Instructionen und Refehle zu geben,
+#facs_49_r4l12 an welchen sie sich gänzlich und günkt¬
+#facs_49_r4l13 lich halten, und denselben bey der¬
+#facs_49_r4l14 seits und ohne Unterscheid, allen
+#facs_49_r4l15 schuldigen Gehorsam leisten sollen.
+#facs_49_r4l16 In dem falle wo diese bestellte
+#facs_49_r4l17 Wächter während ihren patrouillen
+#facs_49_r4l18 einge Fahrzeuge oder einige
+#facs_49_r4l19 Unsterer gegenbärtigen Verori¬
+#facs_49_r4l20 nung wiederhandelnde Persohnen
+#facs_49_r4l21 entdeken, solche dann denselben
+#facs_49_r4l22 nicht folgen, sondern sich ihnen bieder¬
+#facs_49_r4l23 sehen, oder gar sie anfallen Bürden
+#facs_50_r2l1 so sollen sie solchenfalls Gewalt
+#facs_50_r2l2 brauchen, ich ihres Gelehrs bedienen
+#facs_50_r2l3 und bei es die Nothbendigkeit
+#facs_50_r2l4 erfordern bürde, auf die Wieder¬
+#facs_50_r2l5 spenstigen Feuen geben können,
+#facs_50_r2l6 Anbey ist Unser Wille und Befehl
+#facs_50_r2l7 daß im Falle gedachte Catrouiller
+#facs_50_r2l8 Hülfe nöhtig häten, ihnen auf
+#facs_50_r2l9 erste Anforderung oder bey dem
+#facs_50_r2l10 ersten durch einen flintenschus
+#facs_50_r2l11 gegebenes Zeichen, durch die Ein¬
+#facs_50_r2l12 Bohner des nächsten Ortes, unter
+#facs_50_r2l13 welcher Landes Hoheit solcher stehen
+#facs_50_r2l14 möge, allsobald Hülf und Beystam
+#facs_50_r2l15 mit bebehrter Hand geleistet werden
+#facs_50_r2l16 solle.
+#facs_50_r2l17 7° Soll besagten Wächteren oder
+#facs_50_r2l18 Patrouillen von allem, durch sie
+#facs_50_r2l19 angehaltenem Getreid und übrigen
+#facs_50_r2l20 Sachen, so sich im Falle der Con¬
+#facs_50_r2l21 fiscation befinden werden, ein Dristel
+#facs_50_r2l22 zukommen und anheim dienen.
+#facs_50_r3l1 95
+#facs_50_r3l2 Welch gegenbärtige Verordnung,
+#facs_50_r3l3 zu jedermans Wißenschaft und Be¬
+#facs_50_r3l4 folgung von Kanzeln verlesen,
+#facs_50_r3l5 auch an den gewohnten Orten
+#facs_50_r3l6 angeschlagen berden soll.
+#facs_50_r3l7 Geben den 24ten Decembris 1789.
+#facs_50_r3l8 Traduction.
+#facs_50_r3l9 Nous L'advoyer et Conseil de la
+#facs_50_r3l10 Ville & République de Berne, savoir,
+#facs_50_r3l11 faisons: que la Cherté actuelle des
+#facs_50_r3l12 Graines nous à obligé de renouveller
+#facs_50_r3l13 les précautions que nous avions
+#facs_50_r3l14 deja cy devant prises contre l'ex
+#facs_50_r3l15 portation de cette denrée, et a
+#facs_50_r3l16 cette fin nous avons pris conjoint
+#facs_50_r3l17 tement avec le louable Etat de
+#facs_50_r3l18 Frybourg riere nos deux Souverain¬
+#facs_50_r3l19 etés les mesures nécessaires, déjà
+#facs_50_r3l20 précédement entre nous convenus
+#facs_50_r3l21 pour empecher toute ultérieure
+#facs_51_r2l1 éxégation hors de nos pays
+#facs_51_r2l2 receptoques: et en consequence nous
+#facs_51_r2l3 ai ons trouvé bon sans déroger en
+#facs_51_r2l4 lun à Nos ordonnances, precedentes
+#facs_51_r2l5 à ce sujet qui devront subsister
+#facs_51_r2l6 dans toute leur force, de regler
+#facs_51_r2l7 & statuer pour aussi longtems
+#facs_51_r2l8 que les circonstances des tems
+#facs_51_r2l9 l'exigeront, et que Nous le trouver
+#facs_51_r2l10 rons à propos par les présentes
+#facs_51_r2l11 come suit:
+#facs_51_r2l12 1° Que tout le long de la Côte du
+#facs_51_r2l13 Lac de Neufchatel, riere les terres
+#facs_51_r2l14 Médiates et Immediates des deux
+#facs_51_r2l15 Etats de Berne et de Frybourg
+#facs_51_r2l16 dès la publication des présentes
+#facs_51_r2l17 il ne se devra tenir ni retirer
+#facs_51_r2l18 aucun batteau, de quelle espece
+#facs_51_r2l19 que ce soit, excepté riere les
+#facs_51_r2l20 Au Pont
+#facs_51_r2l21 ports suivants:
+#facs_51_r2l22 de Thiele prés de St Jean, a
+#facs_51_r2l23 la Poissine du Vanel a la Sauge,
+#facs_51_r3l1 97
+#facs_51_r3l2 Cudrefin, Portalban, Estavayer
+#facs_51_r3l3 Cheyre, Ivonand, Iverdun, Grand,
+#facs_51_r3l4 son et Concise, et deffendons à
+#facs_51_r3l5 tous Batteaux étrangers ou autres
+#facs_51_r3l6 grands ou petits, comme qu’ils
+#facs_51_r3l7 soyent et pour quelle cause que
+#facs_51_r3l8 ce puisse être, de nʼaborder dʼoré,
+#facs_51_r3l9 navant a aucun autre endroit.
+#facs_51_r3l10 de tout ce district, qu'aux lieux
+#facs_51_r3l11 y déterminés, de même aussi de
+#facs_51_r3l12 ne démarrer ni partir sous
+#facs_51_r3l13 au un pretexte quelconque, d'au¬
+#facs_51_r3l14 cun endroit que des dits ports
+#facs_51_r3l15 sans en avoir avisé les gardes
+#facs_51_r3l16 établis a cet effet pour être visités
+#facs_51_r3l17 et voir, s'il ne s'y trouve aucune
+#facs_51_r3l18 gram, le tout sous peine de la
+#facs_51_r3l19 Confiscation du Bateau, ainsi
+#facs_51_r3l20 que les grains farines ou paines,
+#facs_51_r3l21 qui pourront s'y trouver & d'une
+#facs_52_r2l1 amende de 8,20 blancs, payable
+#facs_52_r2l2 par les Contrevenants. Sous la
+#facs_52_r2l3 reserve cependant que s'il se
+#facs_52_r2l4 trouvoit des batteaux, sur le Lac
+#facs_52_r2l5 qui par une tempête ou des
+#facs_52_r2l6 ouragans fussent nécessités d'a¬
+#facs_52_r2l7 border à quelqu’autre port, ils ne
+#facs_52_r2l8 seront point compris sous la
+#facs_52_r2l9 peine de cette défense, moyenant
+#facs_52_r2l10 que d'abord après avoir abordé
+#facs_52_r2l11 dans un endroit deffendu ils
+#facs_52_r2l12 en avisent incontinent un prepose
+#facs_52_r2l13 du lieu le plus voisin et en fassent
+#facs_52_r2l14 constater la nécessité & sous la
+#facs_52_r2l15 condition expresse de ne point
+#facs_52_r2l16 partir sans due permission,
+#facs_52_r2l17 a deffaut de quoi ils devront
+#facs_52_r2l18 être soumis aux mêmes peines que
+#facs_52_r2l19 dessus
+#facs_52_r2l20 2° Pour eviter d'autant plus toute
+#facs_52_r3l1 99
+#facs_52_r3l2 espèce de fraude, il est ordonné
+#facs_52_r3l3 qu'aucun Batteau quelqu'il soit
+#facs_52_r3l4 ne devra partir ou démarrer
+#facs_52_r3l5 d'aucun des dits ports cy de sig-
+#facs_52_r3l6 nés avant les 7. heures du
+#facs_52_r3l7 matin, et après les 5 heures
+#facs_52_r3l8 du soir, et sans avoir ité visité
+#facs_52_r3l9 sous la même peine de confisca¬
+#facs_52_r3l10 tion & d’une amende de 20 & blancs
+#facs_52_r3l11 dont le tiers de chacune devra
+#facs_52_r3l12 appartenir au Délateur, et au
+#facs_52_r3l13 cas, qu'un batteau fut obligé –
+#facs_52_r3l14 de partir avant les 7 heures
+#facs_52_r3l15 du matin ici determinés, le
+#facs_52_r3l16 battelier sera obligé de l'indiquer
+#facs_52_r3l17 d'avance à l'inspecteur établi
+#facs_52_r3l18 afin qu'il puisse faire la visite
+#facs_52_r3l19 ordonnée, sous peine de trois fois
+#facs_52_r3l20 24 heures de prison, au pain et à
+#facs_52_r3l21 l'eau outre l'amende et confiscation.
+#facs_53_r4l1 Qu'aucune espece de transport
+#facs_53_r4l2 ce grain sur terre soit par Chars,
+#facs_53_r4l3 Chevaux, ou de quelqu’autre ma
+#facs_53_r4l4 niere que ce soit, ne se fasse riere
+#facs_53_r4l5 tous les lieux dans le voisinage
+#facs_53_r4l6 du dit Lac pendant le tems cy
+#facs_53_r4l7 devant marque, savoir depuis
+#facs_53_r4l8 le 5. heures du soir, jusqu'a 7
+#facs_53_r4l9 heures du matin, sous peine
+#facs_53_r4l10 de confiscation des dits grains,
+#facs_53_r4l11 et de l'amen de de  & 20 blancs
+#facs_53_r4l12 dont un tiers appartiendra de
+#facs_53_r4l13 même au délateur.
+#facs_53_r4l14 Les Contrevenant à cette présente
+#facs_53_r4l15 ordonnance devront être jugés
+#facs_53_r4l16 et prines par celui de Nos Baillifs,
+#facs_53_r4l17 ou ceux du louable Etat de
+#facs_53_r4l18 Berne
+#facs_53_r4l19 frybourg) riere le district duquel
+#facs_53_r4l20 ils auront été découverts et saisis
+#facs_53_r4l21 & cela sans déroger aux peines
+#facs_53_r6l1 101
+#facs_53_r6l2 portées dans nos précedentes.
+#facs_53_r6l3 Ordonnances.
+#facs_53_r6l4 Pour empecher d'autant mieux
+#facs_53_r6l5 la sortie des grains hors de nos
+#facs_53_r6l6 Lays respectifs, nous voulons
+#facs_53_r6l7 qu'il soit établi et reparti, riere
+#facs_53_r6l8 les ports cy dessus authorisés, un
+#facs_53_r6l9 nombre suffisant de gardes, les
+#facs_53_r6l10 quels devront continuellement
+#facs_53_r6l11 patrouiller, et surtout la nuit
+#facs_53_r6l12 a toute heure riere nos terres
+#facs_53_r6l13 respectives sans distinction sui
+#facs_53_r6l14 vant les ordres qu'ils recevront
+#facs_53_r6l15 de Nos Baillifs reciproques de
+#facs_53_r6l16 St Jean, de cerlier, d’avenches
+#facs_53_r6l17 de Stavayer, de St aubin, de
+#facs_53_r6l18 Cheyre, d'Iverdun et de Grandson
+#facs_53_r6l19 aux quels nous avons accordé.
+#facs_53_r6l20 pour cet effet plein pouvoir de
+#facs_53_r6l21 donner les consignes et instructions
+#facs_54_r2l1 necessaires aux dites gardes, sui
+#facs_54_r2l2 vant lesquelles ils devront entiére
+#facs_54_r2l3 ment et ponctuellement se confor-
+#facs_54_r2l4 mer, et leur prêter reciproquement
+#facs_54_r2l5 et indiffément en toutes occasions
+#facs_54_r2l6 toute dué obeissance.
+#facs_54_r2l7 6° Au cas que les dittes Gardes
+#facs_54_r2l8 vinsent à decouvrir en faisant
+#facs_54_r2l9 leurs patrouilles, quelques batteaux
+#facs_54_r2l10 ou autres personnes qui contre-
+#facs_54_r2l11 viendroient a nôtre presente
+#facs_54_r2l12 ordonnance et que les dits con¬
+#facs_54_r2l13 trevenants au lieu de se rendre
+#facs_54_r2l14 se deffendroient ou attaqueroient
+#facs_54_r2l15 en ce cas nous leur permettons
+#facs_54_r2l16 d'user de force, & de se servir
+#facs_54_r2l17 de leurs armes et même si la
+#facs_54_r2l18 nécessité l'exige, de faire feu.
+#facs_54_r2l19 Voullons et ordonnons au sur
+#facs_54_r2l20 plus, que s'il se trouvoit dans
+#facs_54_r4l1 103
+#facs_54_r4l2 le cas d’avoir besoin de secours
+#facs_54_r4l3 qu'à la premiere Requisition
+#facs_54_r4l4 ou signal donné par un coup
+#facs_54_r4l5 de fusil de leur part, il soit
+#facs_54_r4l6 prêté aidé et main forte par
+#facs_54_r4l7 les habitants de l'endroit le
+#facs_54_r4l8 plus voisins, dans quelle domi¬
+#facs_54_r4l9 nation que ce soit
+#facs_54_r4l10 Et enfin il devra appartenir
+#facs_54_r4l11 aux dits gardes soit patrouilles,
+#facs_54_r4l12 le tiers de toute les captures et
+#facs_54_r4l13 prises, qu'ils auront faites
+#facs_54_r4l14 et qui seront dans le cas de la
+#facs_54_r4l15 Confiscation
+#facs_54_r4l16 La quelle présente Ordonnance
+#facs_54_r4l17 de vra être lüe en chaire, pour la
+#facs_54_r4l18 conduitte d’un chacun, et affiché.
+#facs_54_r4l19 publiquement par tout ou de
+#facs_54_r4l20 me
+#facs_54_r4l21 bésoin. Donné ce 24
+#facs_54_r4l22 Decembre 1789

@@ -1,0 +1,95 @@
+Law ID: BER.01.001.4704
+Name: Getreid Ausfuhr Verbott.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 84/84
+# High similarity (>=50%): 84
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_94_r3l8 Getreid Ausfuhr Verbott
+#facs_94_r3l9 Ain
+#facs_94_r3l10 alle deutsch und Welsche Herren Amt¬
+#facs_94_r3l11 leüt, 4 Stadt, Freyweibel und Amann
+#facs_94_r3l12 Schultheiß Räth und Burger u
+#facs_94_r3l13 Zu Behinderung der Ausfuhr des
+#facs_94_r3l14 Getreides aller Art, haben Wir
+#facs_94_r3l15 die hier beyligende Verordnung aus
+#facs_94_r3l16 gehen laßen, von welcher Wir Euch
+#facs_94_r3l17 eine genugsame Anzahl Exemplar
+#facs_94_r3l18 zusenden, mit dem Auftrag, selbige
+#facs_94_r3l19 zu jedermanns Wissenschaft von den
+#facs_94_r3l20 Canzlen Verlesen und an den be¬
+#facs_94_r3l21 hörigen Orten anschlagen zu laßen;
+#facs_94_r3l22 = auch
+#facs_94_r5l1 181.
+#facs_94_r5l2 /: an die Hh. Amtleut besonders :/
+#facs_94_r5l3 = auch zu veranstalten, daß selbige in die
+#facs_94_r5l4 Mandatenbücher eingeschrieben werde.
+#facs_94_r5l5 Datum den 26t Decembris 1792.
+#facs_94_r5l6 ob id
+#facs_94_r5l7 Verordnung
+#facs_94_r5l8 Wir Schultheiß, Klein und
+#facs_94_r5l9 Große Räthe der Stadt und Republik
+#facs_94_r5l10 Bern, entbieten allen Unsern getreuen
+#facs_94_r5l11 lieben Bürgern und Angehörigen, unserm
+#facs_94_r5l12 mit
+#facs_94_r5l13 geneigten Willen und geben ihnen
+#facs_94_r5l14 zu vernehmen:
+#facs_94_r5l15 Daß Wir bereits unterm 14ten May dies
+#facs_94_r5l16 Jahrs, die Ausfuhr des Getreides aller
+#facs_94_r5l17 Art, und des Mahls, aus Unfern Landen
+#facs_94_r5l18 verbotten haben.
+#facs_94_r5l19 Wann aber seither unzweifelbare
+#facs_94_r5l20 nachrichten eingeloffen, daß ungeacht
+#facs_94_r5l21 dieser Unserer Landes väterlichen Ver¬
+#facs_94_r5l22 ordnung, dennoch Getreid aus Unfern
+#facs_94_r5l23 Landen ausgeführt worden, und Wir
+#facs_94_r5l24 Uns zur Pflicht machen, diesen dem Wohle
+#facs_94_r5l25 stand Unserer lieben angehörigen Zuwider¬
+#facs_94_r5l26 = laufenden
+#facs_95_r2l1 lauf, den Übertrettungen, so viel
+#facs_95_r2l2 möglich, vorzubengen; so wollen Wir
+#facs_95_r2l3 zu Verhütung des Mangels und einer
+#facs_95_r2l4 zu beforchtenden Theurung des noth¬
+#facs_95_r2l5 wendigsten aller Lebensmitteln ob¬
+#facs_95_r2l6 angezogenes Getreid Ausfuhr Verbott
+#facs_95_r2l7 hierdurch nicht nur erneuert und be¬
+#facs_95_r2l8 kräftiget, sondern auch nachstehende
+#facs_95_r2l9 Strafe auf die Widerhandlung des¬
+#facs_95_r2l10 selben gesezt haben; als
+#facs_95_r2l11 Auf die erste Übertrettung die
+#facs_95_r2l12 Confiskation der Hälfte des ausge¬
+#facs_95_r2l13 führten Getreides oder Mehls, oder
+#facs_95_r2l14 wenn solches nicht behändiget werden
+#facs_95_r2l15 kann, eine dem Werth deselben
+#facs_95_r2l16 gleich kommende Bus an Geld.
+#facs_95_r2l17 für die erste Widerholung die
+#facs_95_r2l18 Confisation des ganzen Betrags der
+#facs_95_r2l19 ausgeführten, oder eine demselben
+#facs_95_r2l20 gleichkommende Buß
+#facs_95_r2l21 Für die zweyte Widerholung, nebst
+#facs_95_r2l22 dieser Confiskation, annoch eine Bus¬
+#facs_95_r2l23 vom ganzen Werth des ausgeführten
+#facs_95_r2l24 also im Fall die Confiscation in natura
+#facs_95_r2l25 nicht
+#facs_95_r5l1 183.
+#facs_95_r5l2 nicht vor sich gehen könnte, eine Buß von
+#facs_95_r5l3 dem doppelten Werth des ausgeführten
+#facs_95_r5l4 Getreides oder Mehls
+#facs_95_r5l5 von den Confiskationen und Busen¬
+#facs_95_r5l6 sollen zwey Drittel dem Verleiden, und ein
+#facs_95_r5l7 Drittel den Armen des Orts, wo die Über¬
+#facs_95_r5l8 trettung geschehen zufließen.
+#facs_95_r5l9 Wir tragen demnach Unsern Ober¬
+#facs_95_r5l10 und Unter-Beamteten auf, auf die
+#facs_95_r5l11 strenge Befolgung vorstehender Verord¬
+#facs_95_r5l12 nung, und auf die Übertretter derselben
+#facs_95_r5l13 mit Wachsamkeit zu achten, und solche
+#facs_95_r5l14 entdekenden falls, nach obiger Anleitung
+#facs_95_r5l15 zur gebührenden Strafe zu ziehen
+#facs_95_r5l16 Beben in Unserer Grosten Raths¬
+#facs_95_r5l17 Versamlung, den 26ten Christmonat
+#facs_95_r5l18 1792

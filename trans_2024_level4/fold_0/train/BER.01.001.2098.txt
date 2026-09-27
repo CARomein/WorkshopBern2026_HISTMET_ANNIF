@@ -1,0 +1,64 @@
+Law ID: BER.01.001.2098
+Name: 1. Einer General-Musterung halb. 2. Die Underthanen zur Dapferkeit vom Cantzel mahnen zelassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 53/53
+# High similarity (>=50%): 52
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_149_r1l1 243
+#facs_149_r1l2 Collat
+#facs_149_r2l1 An Alle Teütsche Ambtleut
+#facs_149_r2l2 4. Stett. Freÿweibel und Umar
+#facs_149_r2l3 1. Einer General-Musterung halb. 2. die Vnder¬
+#facs_149_r2l4 Thanen Zur dapfeckis vom Cantzel, mähne
+#facs_149_r2l5 zelaßen
+#facs_149_r2l6 Demnach
+#facs_149_r2l7 Statthalter und Raht der Stadt Herrn
+#facs_149_r2l8 Wir bej bekandten dißmaligen Kriegsleüffen Vndt
+#facs_149_r2l9 Coniuncturen, da beide kriegende Armeen allernechs
+#facs_149_r2l10 an der Eidtgnoschafft, vnd sonderlich vnsern Lande
+#facs_149_r2l11 ich auffhaltend, vnd dafar nit wenig gefahr vndt
+#facs_149_r2l12 Anruh dem Lieben Nacherlandt angetrönckt wist
+#facs_149_r2l13 Darwidne auff guter Hut vnd zugehöriger Wohl
+#facs_149_r2l14 Verfaßung zestehen, eine durchgehende Musterung
+#facs_149_r2l15 allen Unseren Teütschen Landen anzustellen vndt
+#facs_149_r2l16 verrichten Zelaßen gutfunden, habend wie deßen
+#facs_149_r2l17 sich noch zuuor, Wie hiemit, und gegen Übrigen
+#facs_149_r2l18 Vnseren Ambtleüten auch beschicht, benachrichtigen
+#facs_149_r2l19 laßen wollen, zu dem undt vnd mit dem benach¬
+#facs_149_r2l20 daß durch die anstalt, die du gegen deinen Ambts=
+#facs_149_r2l21 angehörigen Zethun haben Wirst, dieselben ermahnt
+#facs_149_r2l22 und angehalten Werdint, sich hierzu mit Ihrem
+#facs_149_r2l23 aufferlegten Wehr, vnd zugehörigem Kraut undt
+#facs_149_r2l24 Lodt, der gebühr vnd nothurfft nach Zeuersechen
+#facs_149_r2l25 und verfaßt zuhalten: Darzu du dan auch
+#facs_149_r2l26 die bestimte Anzahl der Außzügeren so einlicher
+#facs_149_r3l1 244.
+#facs_149_r3l2 mangel daran vorhanden, von nun an zuegenben: Der
+#facs_149_r3l3 Zeit undt orts halb der Musterung aber der anstalt der
+#facs_149_r3l4 Obersten vnd Haubtleüten, zuerwarten wüßen wirst,
+#facs_149_r3l5 derselben alsdan In Vernerem nachgekommen
+#facs_149_r3l6 Undt weilen nebend der guten gerusthaltung der
+#facs_149_r3l7 Kriegswahren, auch der gute willen und rechte eifer
+#facs_149_r3l8 der Vnderthanen ernorderet wirt, Zur beschirm- vndt
+#facs_149_r3l9 Erhaltung des Lieben Vacherlandes, sich frey- vndt gut
+#facs_149_r3l10 müetig, auch mit zugehorigen hertzhafftigkeit vnndt
+#facs_149_r3l11 Dapferkeit gebrauchen Zelaßen, Alß habend wir
+#facs_149_r3l12 .
+#facs_149_r3l13 Die hiemit, auch disen angehenckten benelden zuertheilen
+#facs_149_r3l14 gutfunden, daß du die Kirchendiener in Deiner Ver¬
+#facs_149_r3l15 Waetung dahin Weisen sollest, In Ihren Predigen
+#facs_149_r3l16 ihre Zuhörne anzemahnen, vnd bereitwillig zumachen,
+#facs_149_r3l17 zu obbedeutem undt mit ergreiffung der Waffen
+#facs_149_r3l18 undt erweisung schuldigen dienste vndt gehorsambs
+#facs_149_r3l19 Ihre pflicht willig vnd dapfer zernißen: Jedoch mit
+#facs_149_r3l20 rechter manier, anstendigkeit undt Maß, die Sie
+#facs_149_r3l21 die Kirchendiener hierin Zebrobagten undt Ze
+#facs_149_r3l22 Wie wir mes
+#facs_149_r3l23 brauchen wüßen sollend
+#facs_149_r3l24 dan auch zu den einten vndt anderen Versechen
+#facs_149_r3l25 Datum 7. Octobris 1676

@@ -1,0 +1,188 @@
+Law ID: BER.01.001.3009
+Name: Die Werbungen der Frömbden im Landt verbieten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 177/177
+# High similarity (>=50%): 155
+# Low similarity (<50%): 22
+# Not found: 0
+#
+#facs_179_r3l30 Was Häuschen obigen beyden Kammeren Enthalten,
+#facs_179_r3l31 soll nur an die Jenigen H. Ambtläuth undt
+#facs_179_r3l32 Oberktl. Heüser geschriben werden, welche vorrähtlich
+#facs_179_r3l33 getradt haben
+#facs_179_r4l1 Beschreibung der Teütsche
+#facs_179_r4l2 Auf der Lehnungs Ablaag
+#facs_179_r4l3 Thun
+#facs_179_r4l4 Burgdorf Sambstag den
+#facs_179_r4l5 Brandis
+#facs_179_r4l6 Montag d
+#facs_179_r4l7 Trachselbaldt
+#facs_179_r4l8 Dinstag d.
+#facs_179_r4l9 Buchsel
+#facs_179_r4l10 Bauwser
+#facs_179_r4l11 Frauwbrumen
+#facs_179_r4l12 Mittwesen d.
+#facs_179_r4l13 Thorberg
+#facs_179_r4l14 Sonstag d.
+#facs_179_r4l15 Lauppen
+#facs_179_r4l16 und Spital,
+#facs_179_r4l17 Freytag d.
+#facs_179_r4l18 Sarberg
+#facs_179_r4l19 Pyrenisser9
+#facs_179_r4l20 fclach
+#facs_179_r4l21 Montag d.
+#facs_179_r4l22 St Johansen
+#facs_179_r4l23 büren
+#facs_179_r4l24 WBangen
+#facs_179_r4l25 Dinstag d.
+#facs_179_r4l26 Biss.
+#facs_179_r4l27 dignants
+#facs_179_r4l28 Mittwochen
+#facs_179_r4l29 Summs Waldt
+#facs_179_r4l30 Oberhooffen
+#facs_179_r4l31 Dorstag den
+#facs_179_r4l32 Winnis
+#facs_179_r4l33 1
+#facs_179_r4l34 Jettis Weil
+#facs_179_r4l35 preÿtag d.
+#facs_179_r4l36 Insul
+#facs_179_r4l37 Interlaherseuss
+#facs_179_r5l1 34
+#facs_179_r5l2 H. Ambtleiethe
+#facs_179_r5l3 Martius
+#facs_179_r5l4 1
+#facs_179_r5l5 3.
+#facs_179_r5l6 4
+#facs_179_r5l7 5
+#facs_179_r5l8 6.
+#facs_179_r5l9 7
+#facs_179_r5l10 10.
+#facs_179_r5l11 11
+#facs_179_r5l12 12.
+#facs_179_r5l13 NB
+#facs_179_r5l14 14.
+#facs_180_r2l1 Primißfergerhaus=Sambstag. d.
+#facs_180_r2l2 Ober Spitahl
+#facs_180_r2l3 2
+#facs_180_r2l4 D Montagu
+#facs_180_r2l5 d
+#facs_180_r2l6 Stifft
+#facs_180_r2l7 Kornhero
+#facs_180_r2l8 Dienstag
+#facs_180_r2l9 St. Johannes Haus
+#facs_180_r2l10 Mußheffen
+#facs_180_r2l11 Mitt wasen den
+#facs_180_r2l12 Siechenhauß.
+#facs_180_r2l13 Ny dauto
+#facs_180_r2l14 Montag den
+#facs_180_r2l15 Gottstatt
+#facs_180_r2l16 Prütingen
+#facs_180_r2l17 Königsfelden
+#facs_180_r2l18 dienstag d.
+#facs_180_r2l19 Biberstein
+#facs_180_r2l20 Disenkenberg
+#facs_180_r2l21 Mittwesen d
+#facs_180_r2l22 Zoffingen
+#facs_180_r2l23 Lentzburg
+#facs_180_r2l24 Donstag d.
+#facs_180_r2l25 Aarburg.
+#facs_180_r2l26 Zbeysimmen
+#facs_180_r2l27 Montag den
+#facs_180_r2l28 Aaobangen
+#facs_180_r2l29 äslin
+#facs_180_r2l30 Dienstag d.
+#facs_180_r2l31 daanen.
+#facs_180_r2l32 Landtehut
+#facs_180_r2l33 Mittwochen d
+#facs_180_r2l34 Interloben
+#facs_180_r3l1 Martius.
+#facs_180_r3l2 15
+#facs_180_r3l3 and
+#facs_180_r3l4 17. -
+#facs_180_r3l5 18
+#facs_180_r3l6 19
+#facs_180_r3l7 Aprilis
+#facs_180_r3l8 7. —
+#facs_180_r3l9 8
+#facs_180_r3l10 9
+#facs_180_r3l11 24
+#facs_180_r3l12 Majus
+#facs_180_r3l13 5
+#facs_180_r3l14 6.
+#facs_180_r3l15 17.
+#facs_180_r6l1 S47.
+#facs_180_r6l2 Fagansetzung zu ablaag der Weltsche
+#facs_180_r6l3 H. Ambtleäthen Rechnung
+#facs_180_r6l4 Masty
+#facs_180_r6l5 Kreÿtag. d.
+#facs_180_r6l6 Wiblisfurg
+#facs_180_r6l7 zt
+#facs_180_r6l8 .
+#facs_180_r6l9 Sambstag
+#facs_180_r6l10 22
+#facs_180_r6l11 fätterlingen.
+#facs_180_r6l12 6
+#facs_180_r6l13 a
+#facs_180_r6l14 Montags
+#facs_180_r6l15 24
+#facs_180_r6l16 .
+#facs_180_r6l17 de
+#facs_180_r6l18 Morfer
+#facs_180_r6l19 Dienstag
+#facs_180_r6l20 2.
+#facs_180_r6l21 à
+#facs_180_r6l22 de
+#facs_180_r6l23 Pferten
+#facs_180_r6l24 -
+#facs_180_r6l25 Mittwochen
+#facs_180_r6l26 26
+#facs_180_r6l27 3.
+#facs_180_r6l28 Milden
+#facs_180_r6l29 27.
+#facs_180_r6l30 Chillon
+#facs_180_r6l31 Dasstags- das
+#facs_180_r6l32 Neühenstatt
+#facs_180_r6l33 Aprilis
+#facs_180_r6l34 Mt.
+#facs_180_r6l35 de
+#facs_180_r6l36 Preijtag
+#facs_180_r6l37 Oron
+#facs_180_r6l38 26
+#facs_180_r6l39 dernierung eine schuldigung
+#facs_180_r6l40 Sambstags d.
+#facs_180_r6l41 Lausanne
+#facs_180_r6l42 Beaumont
+#facs_180_r6l43 28
+#facs_180_r6l44 Montags d.
+#facs_180_r6l45 G. P.
+#facs_180_r6l46 Neüber
+#facs_180_r6l47 dienstags d.
+#facs_180_r6l48 29
+#facs_180_r6l49 Romainm
+#facs_180_r6l50 30
+#facs_180_r6l51 Mittwahr d.
+#facs_180_r6l52 Aubonne
+#facs_180_r6l53 An alle v. Ambtleüts
+#facs_180_r6l54 Die Verbungen der Frömbden
+#facs_180_r6l55 Et
+#facs_180_r6l56 Landt Verbieten
+#facs_180_r6l57 Schuldtheis undt Rast der Statt Bern
+#facs_180_r6l58 Wir inneßendt mißfellig vernommen, daß
+#facs_180_r6l59 Einiche Unserer Beambtete im Weltschen
+#facs_180_r6l60 landt in dem Ireigen wahr stehen, alß wan
+#facs_180_r6l61 under dem Vorbott der Wärbungen allein
+#facs_180_r6l62 die Landts=leinder, nicht aber auch die landts¬
+#facs_180_r6l63 frömbden begriffen wären; Wan aber
+#facs_180_r6l64 solches niemahl Unser verstandt gelesen
+#facs_181_r3l1 Und Es Jederzeith die meinung gehabt,
+#facs_181_r3l2 und noch hat, daß ohne underscheid alle
+#facs_181_r3l3 wärbungen, Es seye Einheimbsche oder
+#facs_181_r3l4 Erömbde maniglichen bey darauffge¬
+#facs_181_r3l5 defter straff verbotten sein sollend; Alß
+#facs_181_r3l6 habend? Wir dich gleich gegen anderen Ambt¬
+#facs_181_r3l7 leüten weltschen landes auch beschicht, hiemit
+#facs_181_r3l8 deßen berichten wollen, ümb dich danach
+#facs_181_r3l9 Einzurichten Datum 4. febr. 1709.

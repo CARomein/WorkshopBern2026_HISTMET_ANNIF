@@ -1,0 +1,33 @@
+Law ID: BER.01.001.3291
+Name: Die Erndferien aussschreiben.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_492
+# Matched: 22/22
+# High similarity (>=80%): 22
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_181_r2l18 An Alle T. und W. Ambtleuth
+#facs_262_tr_1l_3 Vor Stäck, Freybeibel
+#facs_262_tr_1l_4 und Amen.
+#facs_262_tr_1l_5 die Erndforiew außschreiben
+#facs_262_tr_1l_6 Sch. und Rath der Stadt Bärn etc.
+#facs_262_tr_1l_7 Weilen die Erndheürigen Jahrs wiedermah¬
+#facs_262_tr_1l_8 Collant
+#facs_262_tr_1l_9 len früher als andere Jahr aneübet, und
+#facs_262_tr_1l_10 unsere Raths wie auch andere Cammeren
+#facs_262_tr_1l_11 wehrend solcher Zeith verschloßen seyn werden,
+#facs_262_tr_1l_12 Als wollendt wir die /: gleich allen
+#facs_262_tr_1l_13 anderen Ambtleuthen / hiemit befohlen
+#facs_262_tr_1l_14 haben, vom 4. Januar 10. July nechst¬
+#facs_262_tr_1l_15 künftig deines Theils keine Partheyen
+#facs_262_tr_1l_16 allhäro zusenden, noch unß umb einiche
+#facs_262_tr_1l_17 äußert ohnvermeidenlicher Nothdringender
+#facs_262_tr_1l_18 Standtsgeschäfften beym Zubehäligen, wie zu
+#facs_262_tr_1l_19 beobachten und gefließenlich darob zu
+#facs_262_tr_1l_20 halten, auch solches eheß müglich von Cantz¬
+#facs_262_tr_1l_21 len verlesen zu laßen, wie muß zu der
+#facs_262_tr_1l_22 Versehen haben wollenden dat. 17.
+#facs_262_tr_1l_23 Jurg. Aug.

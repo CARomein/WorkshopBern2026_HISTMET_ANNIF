@@ -1,0 +1,26 @@
+Law nr: BER.01.001.4534
+Name: Erfrischung der Werbungsverbotten in fremde ohnavouierte Dienste.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 15/15
+# High similarity (>=80%): 15
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_104_r2l7 alle T. und W. Herren Amtleut
+#facs_218_r4l14 Städt, freyweibel und Ammann. Sep.
+#facs_29_r6l4 Erfrischung der Werbungsverbotten in
+#facs_29_r6l5 fremde ohnavomerte Dienste.
+#facs_310_r4l8 Schultheis Räth und Burger etc.
+#facs_29_r6l7 der Auswanderung unserer Unterthanen
+#facs_29_r6l8 und der verderblichen Entvolkerung Unserer
+#facs_29_r6l9 Lande vorzubeugen, befehlen Wir Euch,
+#facs_29_r6l10 auf die Beobachtung Unserer Hiebevor
+#facs_29_r6l11 aufgegangenen Ordnungen, die da alle
+#facs_29_r6l12 Verbungen in fremde ohnavonierte Dienste
+#facs_29_r6l13 verbieten, Euere Wachsamkeit zu verschärfen
+#facs_29_r6l14 und Hand obzuhalten, daß denselben nach¬
+#facs_29_r6l15 gelebt werde. Dat. d. 7ten April 1783.

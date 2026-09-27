@@ -1,0 +1,108 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 101/101
+# High similarity (>=80%): 96
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_246_r1l1 1478.
+#facs_4_r3l2 Verordnung.
+#facs_37_r3l19 den Verkehr mit Loblichem Stand
+#facs_37_r3l20 Solothurn betreffend.
+#facs_96_r5l12 Wir Schultheis Klein und Große Räthe
+#facs_37_r3l22 der
+#facs_38_r1l1 66
+#facs_46_r3l2 der Stadt und Republik Bern, entbieten allen
+#facs_38_r2l2 neben und Getreuen Angehörigen zu Stadt und Sam¬
+#facs_261_r3l15 Unseren gnädigen und geneigten Willen
+#facs_5_r3l2 ihnen hier durch zuvernehmen.
+#facs_32_r2l10 demenach Wir in Betrachtung der
+#facs_38_r2l6 lichen Verhältnisse, die zwischen den Unsrigen
+#facs_38_r2l7 und den Angehörigen des Löbl. Stander Sold
+#facs_38_r2l8 thurn Statt haben, mit Unsern lieben und Ge¬
+#facs_38_r2l9 streuen Eidsgenossen ermeldt Lobl. Stande
+#facs_38_r2l10 Solothurn über eingekommen sein, die ver¬
+#facs_38_r2l11 hängte Sparr zwischen beiden Cantonen auch¬
+#facs_38_r2l12 zu heben, und unternothwendigen Einschränkung
+#facs_38_r2l13 gen den freyen Verkehr mit allen Arten
+#facs_38_r2l14 von Lebensmitteln wiederher zustellen.
+#facs_38_r2l15 als verordnen und statuiren wir war von
+#facs_38_r2l16 einem zum andern folgt.
+#facs_38_r2l17 Von dem Verkehr mit Lebwaar.
+#facs_38_r2l18 1. Jedem hiesigen Angehörigen und jedem
+#facs_38_r2l19 angehörigen Loth. Standes Solothurn ist
+#facs_38_r2l20 verstattet, in den beiden Comfonen Pferde
+#facs_38_r2l21 grosses und kleines Vieh, und Schweine für
+#facs_34_r2l14 ihren Hausgebrauch anzukaufen, und dahin
+#facs_38_r2l23 aber der gleichen Lebwaare von einem
+#facs_27_r2l25 gesendet
+#facs_38_r3l1 67.
+#facs_38_r3l2 ins andere zum Verkauf abzuführen. Jenes jedoch
+#facs_38_r3l3 auch nur unter folgenden Einschränkungen
+#facs_38_r3l4 Eplich: daß der Ankauf nicht bey den Häusern, sondern
+#facs_38_r3l5 einzig und allein an den öffentlichen Jahrmarkten
+#facs_38_r3l6 geschehe doch ist verstattet, Schweine auch an Wohne
+#facs_38_r3l7 märkten anzukaufen; hiebey genießen die
+#facs_228_r3l7 Mezger meistere der Städten sich vermigen
+#facs_38_r3l9 tonen die besonderen auch an den Wochenmärkten,
+#facs_38_r3l10 und Kälber so nicht zu Markt gebracht werden, bey
+#facs_38_r3l11 den Häusern ankaufen zu dürfen, nicht aber von
+#facs_32_r3l20 aber zu bestellen.
+#facs_38_r3l13 weytens. Daß keinem Solothurnischen Ang
+#facs_38_r3l14 hörigen der Ankauf von Lebwaare in Unser
+#facs_38_r3l15 Landen gestannet seyn solle, er könne denn
+#facs_38_r3l16 einen, nach allen in Unserer unterm 22ten
+#facs_38_r3l17 Januar 1795. einanirten General=Verordnung
+#facs_38_r3l18 über den Verkehr mit aussern bestimmten Er¬
+#facs_38_r3l19 fordernißen eingerichteten Anbauf-Schan
+#facs_38_r3l20 vorweisen
+#facs_38_r3l21 Drittens. daß amgleichen Marbttage ein
+#facs_38_r3l22 Solothurnischer Angehöriger nicht mehr ankaufen
+#facs_38_r3l23 dörfe, denn zwey Stüt Pferde oder große über
+#facs_38_r3l24 jährige Viehwaare, oder drey aus kleine Vieh¬
+#facs_38_r3l25 waare, oder ein fettes- oder zwey daselschweine
+#facs_15_r4l25 in
+#facs_39_r1l1 68
+#facs_39_r2l1 In dem Verstand, daß keiner befügt seyn solle.
+#facs_39_r2l2 Commissionsweise oder unter irgend einen
+#facs_39_r2l3 andern Vorwand die verwilligte Anzahl zu
+#facs_39_r2l4 überschreiten.
+#facs_39_r2l5 Von dem Verkehr mit Getreide.
+#facs_39_r2l6 II. Erbleibt Unsern Angehörigen, wie vor
+#facs_39_r2l7 hin, unbedingt verbotten, Getreid, von
+#facs_39_r2l8 welcher Art an seyn mag, Mehl, Reiß,
+#facs_39_r2l9 Boodt, und alles was hieraus verfertigen
+#facs_39_r2l10 ist, aus dem Lande zu verkauffen, oder
+#facs_8_r6l21 führen.
+#facs_39_r2l12 von dem Verkehr mit übrigen
+#facs_34_r2l6 Lebens mitteln.
+#facs_39_r2l14 III. Was die Daum- und Erdfrüchte,
+#facs_39_r2l15 Gartengewächse, Eyer und übrige Lebens
+#facs_39_r2l16 Sedürfniße betrifft, so soll es mit Aus¬
+#facs_39_r2l17 nahme jedoch des Butters, (deßen Ausfuhr¬
+#facs_39_r2l18 verbotten bleibt), hiesigen und den Sold¬
+#facs_39_r2l19 thurnischen Angehörigen erlaubt seyn, solche
+#facs_39_r2l20 auf den beydseitigen Jahr= und Wochen märt¬
+#facs_39_r2l21 ten anzukaufen, auch dahin zum Verkauf
+#facs_39_r2l22 zutragen, nicht aber auf Wägen und
+#facs_39_r2l23 Last
+#facs_39_r3l1 69
+#facs_39_r3l2 Last thieren von einem Gebiete ins andere zu führen
+#facs_39_r3l3 Hievon ist jedoch eine Ausnahme zumachen, zu
+#facs_39_r3l4 Gunsten des Handels mit Flachs, Hanf, Rysen
+#facs_39_r3l5 und die Sörtigem Saamen, welcher gäntzlich her¬
+#facs_39_r3l6 gestellt und frey wie zu vor erklärt seyn soll
+#facs_39_r3l7 Auf die Wiederhandlung in allen diesen
+#facs_39_r3l8 Fällen, ist entweder die Ausfuhrstrafe
+#facs_39_r3l9 oder geringere Zußen gesezt, wie solche
+#facs_39_r3l10 Unsere, unterm 22ten Januar lezthin einem
+#facs_39_r3l11 te General-Verordnung, über den Verkehr
+#facs_39_r3l12 mit Außern, das ausführlichen bestimmt
+#facs_39_r3l13 die Exekution dieser Verordnung soll auch
+#facs_39_r3l14 auf gleiche Weise vorsich gehen, wie im
+#facs_39_r3l15 Mandat vom 3. December 1794. und
+#facs_39_r3l16 13. Januar 1795. vorgeschrieben ist.
+#facs_34_r3l22 Geben in Unsrer Großen Raths - Ver¬
+#facs_39_r3l18 samlung, den 28ten Januar 1795
+#facs_203_r4l6 Cansley Cern
+#facs_98_r5l28 en

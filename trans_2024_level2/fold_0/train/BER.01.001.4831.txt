@@ -1,0 +1,173 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 165/166
+# High similarity (>=80%): 152
+# Low similarity (<80%): 13
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4831
+#facs_291_r3l1 569
+#facs_291_r3l2 Die Verordnung wodurch die Einfuhr des
+#facs_291_r3l3 fremden Weins erlaubt- und hingegen
+#facs_291_r3l4 die Ausfuhr des inländischen Weins
+#facs_291_r3l5 verbotten wird, bekant gemacht.
+#facs_45_r3l3 An
+#facs_287_r4l12 An alle deutsch und belsche Herren Amtleut
+#facs_259_r2l19 vier Städt, Freybeibel und Ammann
+#facs_45_r3l10 Schultheiß Räthund Burger
+#facs_291_r3l10 Sie seit einlicher Zeit stäts zunem
+#facs_291_r3l11 mende Theürung des Weins, und der
+#facs_291_r3l12 zu beförchtende Mangel an diesem
+#facs_291_r3l13 so nöthigen Lebensmittel, haben
+#facs_291_r3l14 uns veranlaßet, die hier beygehende
+#facs_291_r3l15 Verordnung für Unstere deutsch¬
+#facs_291_r3l16 und welschen Lande ergehen zu laßen,
+#facs_291_r3l17 wovon Wir Euch eine genügstäme
+#facs_291_r3l18 Anzahl zustanden, um solche von Ernst
+#facs_291_r3l19 offentlich verlesen, und auch an den
+#facs_291_r3l20 gebohnten Orten anschlagen zu laßen,
+#facs_291_r3l21 dabey aber Hand obzuhalten daß der¬
+#facs_291_r3l22 selben genau nachgelebt werde.
+#facs_291_r3l23 Geben den 21ten Augstmonat 1797.
+#facs_6_r5l1 5
+#facs_292_r1l1 570.
+#facs_4_r3l2 Verordnung.
+#facs_261_r3l11 Mir Schulthers Klein und Große
+#facs_292_r2l3 große Rathe der Stadt und Republick
+#facs_261_r3l13 entbieten allen Unsteren lieben und
+#facs_292_r2l5 getreuen Kürgeren, Angehörigen und
+#facs_292_r2l6 Unterthanen zu Stadt und Land, Unseren
+#facs_223_r3l10 gnädigen und geneigten Willen, und geben
+#facs_91_r3l21 Ihnen dabey zu vernehmen:
+#facs_292_r2l9 Das, da die seit einiger Zeit vorgehende
+#facs_292_r2l10 tarbe ausfuhr des hielandischen Weins in
+#facs_292_r2l11 fremde Lande, und die in dieser Absicht
+#facs_292_r2l12 häufig geschehende große Ankäufe des¬
+#facs_292_r2l13 selben, eine außerordentliche Theurung
+#facs_292_r2l14 des Weins verursachet haben, und nebst
+#facs_292_r2l15 der Ungebißheit einer künftigen genugsam
+#facs_292_r2l16 ergiebigen Weinlese, eine noch größere
+#facs_292_r2l17 Theurung und so gar einen nicht bald zu
+#facs_292_r2l18 erstehenden Mangel an diesem so nöthigen
+#facs_292_r2l19 Lebensmittel für das künftige befürchten
+#facs_292_r2l20 faßen, wir dadurch, und um diesem
+#facs_9_r7l25 nach
+#facs_292_r2l22 besorgenden Übel zu steuren vorzubiegen.
+#facs_292_r2l23 veranlaßet worden sind, die hienach folgende
+#facs_292_r2l24 Verordnung zu machen.
+#facs_292_r2l25 1° Soll von nun an, und bis auf
+#facs_292_r2l26 15. Heimonat des nächstbäuftigen Jahrs
+#facs_292_r3l1 571.
+#facs_292_r3l2 1798. Jedermann ohne Unterschied, die Ein
+#facs_292_r3l3 fuhr des fremden Weins ohne Patent, im
+#facs_292_r3l4 ohne die bis dahin übliche Obrigkeitliche Auf
+#facs_292_r3l5 lage zu bezahlen, gestachtet seyn
+#facs_292_r3l6 2° Soll hingegen die Ausfuhr des Weins
+#facs_305_r3l12 aus der Schwech von jetzt an biß 1ten Heu¬
+#facs_292_r3l8 monat 1798. Jedermanniglich verbotten seyn.
+#facs_292_r3l9 für die Eydgenößischen Cantons und Mit¬
+#facs_292_r3l10 verbündete aber gestadten Wir dieselbe
+#facs_292_r3l11 unter dem Reding daß diejenigen Personen
+#facs_292_r3l12 welche Wein aus hiesigen Landen dahin
+#facs_292_r3l13 führen wollen, gehalten seyn, sich dafür bey
+#facs_292_r3l14 Unserer Ohmgeld Cammer um die erforderlichen
+#facs_292_r3l15 Patenten anzumelden, und durch Vorbeistung
+#facs_292_r3l16 glaubwurdiger Adtestationen von der be¬
+#facs_292_r3l17 treffenden Obrigkeit zu bescheinigen, daß
+#facs_292_r3l18 dieser auszuführende Wein nur für den
+#facs_292_r3l19 Hausgebrauch bestimmt seye.
+#facs_292_r3l20 3° Damit aber vermittelst des fremden,
+#facs_292_r3l21 durch Unsere Lande transitirenden Weins
+#facs_292_r3l22 eine Unstern Landes vätterlichen Absichten
+#facs_292_r3l23 zubiden laufende Mißbrauche vorgehen
+#facs_292_r3l24 können, so verordnen wir hiemit, daß
+#facs_292_r3l25 solcher Wein immerhin bey dem Entricht
+#facs_292_r3l26 in Unsere Lande an der ersten Zollstadt
+#facs_292_r3l27 int Anzeige der Quantität, Qualitäet und
+#facs_6_r5l1 5
+#facs_6_r5l1 5
+#facs_15_r2l22 c:
+#facs_293_r3l1 des Orts der Restimmung getreulich
+#facs_293_r3l2 angegeben, in eine Particular Keller
+#facs_293_r3l3 oder Magazin, sondern nur allein in die
+#facs_293_r3l4 öffentlichen Kaufhäuser und Halles gelegt¬
+#facs_293_r3l5 und dabey so wohl Unsere Transit Ordnung
+#facs_293_r3l6 vom Jahr 1768. als die Verordnung
+#facs_293_r3l7 vom Jahr 1774. nach ihren deutlichen
+#facs_293_r3l8 iften genau befolget werde.
+#facs_113_r3l2 No
+#facs_293_r3l10 Unter
+#facs_293_r3l11 laßenden falls soll solcher transi¬
+#facs_293_r3l12 tirende Wein als Contrebande angesehen
+#facs_293_r3l13 und demnach mit der in obigen Ver¬
+#facs_293_r3l14 ordnungen bestimten Straffe belegt
+#facs_293_r3l15 berden.
+#facs_293_r3l16 4. Würde Jemand, dieser Unserer
+#facs_293_r3l17 Verordnung zubider, inländischen Wein
+#facs_293_r3l18 ohne Patent von bemelt Unserer Ohmgeld
+#facs_293_r3l19 Cammer, in die anderen Cantons oder
+#facs_293_r3l20 mitverbündeten Orte oder gar heimlicher
+#facs_293_r3l21 weise aus der Schleg fuhren, so soll
+#facs_293_r3l22 In desen Restraffung der entderte
+#facs_293_r3l23 und arrestirte Wein confiscirt und
+#facs_293_r3l24 anbey der Fehlbare mit einer Suße
+#facs_293_r3l25 von dem Werth der Confiscation belegt
+#facs_293_r3l26 berden; jedoch daß die Küse die linne
+#facs_293_r3l27 der fünffig Thaler nicht übersteige
+#facs_30_r4l1 51.
+#facs_293_r4l2 bau schon der Werth der Confiscation
+#facs_293_r4l3 sich höher belauffen würde.
+#facs_293_r4l4 Die aufgelegten Susen und Confiscation
+#facs_177_r5l28 Fourehe
+#facs_293_r4l6 dann sollen in drey gleiche vertheilt werden
+#facs_293_r4l7 und ein Drittheil dem Fisco, ein Dristheil
+#facs_293_r4l8 dem Verleider, und ein Drittheil dem
+#facs_293_r4l9 Richter des Orts zukommen.
+#facs_293_r4l10 In der Hauptstadt und deren Regierle¬
+#facs_293_r4l11 bin auch in denen Landgrichten, wo keine
+#facs_293_r4l12 Amtleute stehen, soll Unsere verordnete
+#facs_293_r4l13 Ohmgeld Cammer sub beneficio recursus
+#facs_293_r4l14 darüber urtheilen.
+#facs_293_r4l15 Da bey dieser Verordnung Unserer
+#facs_293_r4l16 Absicht ist, der Theürung des Weins
+#facs_293_r4l17 hauptsächlich für diejenigen Gegenden
+#facs_293_r4l18 Unsres Gebiets vorzubiegen, wo keinen
+#facs_293_r4l19 Reben sind, so bollen wir hingegen die
+#facs_293_r4l20 meren Polizey Anstalten und besondere
+#facs_293_r4l21 Reglemente welche zu Aufnung der Reb¬
+#facs_293_r4l22 cultur in den verschiedenen Nebgelanden
+#facs_293_r4l23 in Unsern deutsch- und welschen Landen
+#facs_293_r4l24 gegen jeden äußern Wein angeordnet sein,
+#facs_293_r4l25 unterändert bestehen laßen, allso daß in
+#facs_293_r4l26 allen diesen Raebgelanden, in welchem ver¬
+#facs_293_r4l27 möge solcher besondern Ordnungen und
+#facs_293_r4l28 Übungen bein fremder, außer denselben
+#facs_6_r5l1 5
+#facs_6_r5l1 5
+#facs_294_r2l1 gebachsener Wein, eingebellert werden
+#facs_294_r2l2 soll, auch noch ferners kein ausländischer
+#facs_294_r2l3 fremder denn in solche zur Einkellern
+#facs_294_r2l4 voll eingeführt werden können, und zwar
+#facs_294_r2l5 so viel den außer diesen Rebgeländ¬
+#facs_306_r2l20 gebachsenen Wein anbetrift bey der in
+#facs_294_r2l7 in den disorts vorhandenen besondere
+#facs_294_r2l8 Verordnungen festgesehten Straffe,
+#facs_294_r2l9 und wegen dem fremden ausländischen
+#facs_111_r6l25 Einf
+#facs_294_r2l11 bey der gleichen Confiscation
+#facs_82_r3l24 — und
+#facs_294_r2l13 lise, welche auf die Ausfuhr des
+#facs_294_r2l14 inländischen Weins in gegenwärtiger
+#facs_294_r2l15 Unserer Verordnung bereits ausgesezt
+#facs_294_r2l16 ist.
+#facs_294_r2l17 Welch Unsere Verordnung zu jeder
+#facs_294_r2l18 manns Nachricht und verhalt öffentlich
+#facs_294_r2l19 von Canzlen kund gemacht, und an den
+#facs_294_r2l20 gewohnten Orten angeschlagen werden
+#facs_27_r3l8 soll.
+#facs_34_r3l22 Geben in Unsrer Großen Raths - Ver¬
+#facs_294_r2l23 Verfammlung den 21ten August, und
+#facs_294_r2l24 11ten Herbstmonat 1797.
+#facs_71_r2l19 Ce
+#facs_73_r2l25 Lanölen Pern
+#facs_98_r5l28 en

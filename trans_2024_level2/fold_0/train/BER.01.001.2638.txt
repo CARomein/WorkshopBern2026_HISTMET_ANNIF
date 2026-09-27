@@ -1,0 +1,125 @@
+BER.01.001.2638
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 116/116
+# High similarity (>=50%): 102
+# Low similarity (<50%): 14
+# Not found: 0
+#
+#facs_135_r2l17 An alle T. Ambtlent.
+#facs_135_r2l18 Sie auf die Rechnungen berufen
+#facs_135_r2l19 Schintheiß und Raht der Statt Bern etc.
+#facs_135_r2l20 Wir habendt die hiemit zu ablaagendt Examinierung
+#facs_135_r2l21 auf den?
+#facs_135_r2l22 deiner dis Jahre abzulegen schuldigen Ambtsrechnung
+#facs_135_r2l23 Tag ansetzen, uns anbey
+#facs_135_r3l1 258
+#facs_135_r3l2 Befehlen wollen, die specificierlichen Bünschen- und ptenig-
+#facs_135_r3l3 Zinsen Rösel, vnd die auszug der gemachten Reparationa¬
+#facs_135_r3l4 zusambt einer Specification des dißmahls vorhandenen
+#facs_135_r3l5 Oberkeitlichen getreits vnd Zahnrodel (An die neuwauf¬
+#facs_135_r3l6 gezogenen :/ wie auch den Haus rosel, der Rechnung bey¬
+#facs_135_r3l7 zufungen, selbige aber etliche Tag zuvor unseren Fürge
+#facs_135_r3l8 liebten Miträhten Teüt, der Seibelmeister und veueren
+#facs_135_r3l9 zu Communicieren, und in der Seckelschreiberey zur
+#facs_135_r3l10 Examination einzugeben, dann wisrigen fahls, und so
+#facs_135_r3l11 Eint oder anderes ermanglen Thäte, du damit zuruck¬
+#facs_135_r3l12 gewisen, und selbige dir nit abgenommen werden wirdt:
+#facs_135_r3l13 Wann aber diser dir angesetzte Tag auf den Capituls Tag
+#facs_135_r3l14 fallen solte, wirstu uns dessen zu anderwärtiger Ver¬
+#facs_135_r3l15 ordnung bey Zeiten zuberichten wüssen. Bat. 6. Martii
+#facs_135_r3l16 1697
+#facs_135_r3l17 9
+#facs_135_r3l18 Ohun, Montags den
+#facs_135_r3l19 19. Aprilis 1697.
+#facs_135_r3l20 Arberg.
+#facs_135_r3l21 Zinstag den 20. dto
+#facs_135_r3l22 Briemsperg
+#facs_135_r3l23 krauldbrunnen
+#facs_135_r3l24 Burgdorff Mitwochens d. 21. dto.
+#facs_135_r3l25 Tsorberg. Donstags d... 22. dto
+#facs_135_r3l26 Brandis.
+#facs_135_r3l27 Trachselwalt Freitags d. 23. dto
+#facs_136_r1l1 59
+#facs_136_r2l1 Buchsee.
+#facs_136_r2l2 Sambstags d
+#facs_136_r2l3 Landtshnet
+#facs_136_r2l4 24. dto
+#facs_136_r2l5 Lauxin
+#facs_136_r2l6 Montags de
+#facs_136_r2l7 Wimmis
+#facs_136_r2l8 26. dto
+#facs_136_r2l9 Nysaul
+#facs_136_r2l10 Zinstags, d.
+#facs_136_r2l11 Ølach
+#facs_136_r2l12 27. dto
+#facs_136_r2l13 Potstatt. Mitwochens d.  28. dto.
+#facs_136_r2l14 Buren
+#facs_136_r2l15 Signauli vonfags den
+#facs_136_r2l16 Bipp.
+#facs_136_r2l17 29. dto
+#facs_136_r2l18 Nangin
+#facs_136_r2l19 Ortrangen etc. Freytages den
+#facs_136_r2l20 30. Jto
+#facs_136_r2l21 Oberhoffen Sambstags d.
+#facs_136_r2l22 Vntersam
+#facs_136_r2l23 A. Maij
+#facs_136_r2l24 Hoffingen
+#facs_136_r2l25 Arburg. Montags d
+#facs_136_r2l26 3. do
+#facs_136_r2l27 Interlacken. Dinstags d.
+#facs_136_r2l28 4. dto.
+#facs_136_r2l29 prutingen. Mit wochens den
+#facs_136_r2l30 zweysinnen.
+#facs_136_r2l31 5. dto
+#facs_136_r2l32 Köngefalsen. Freytags d.
+#facs_136_r2l33 Lentzburg
+#facs_136_r2l34 7. dto
+#facs_136_r2l35 Siberstein, Sambstags den
+#facs_136_r2l36 8. to
+#facs_136_r2l37 Schreibenberg. Montags d
+#facs_136_r2l38 10. dto.
+#facs_136_r2l39 Saarin zinstags den
+#facs_136_r2l40 Ahlen Mitwuchens den
+#facs_136_r2l41 II. Ito.
+#facs_136_r2l42 St. Johansen, Hrytagr. d.
+#facs_136_r2l43 dto
+#facs_136_r2l44 17
+#facs_136_r2l45 Capli Im Weißland.
+#facs_136_r2l46 to
+#facs_136_r2l47 is
+#facs_136_r2l48 9. do
+#facs_136_r4l1 An alle Weltse Ambtleät.
+#facs_136_r4l2 Item Saanen und Zweysinn
+#facs_136_r4l3 Bultheiß uns Raht der Statt Bern
+#facs_136_r4l4 Wir verneinendt, daß eine Zeit daher viel von unser
+#facs_136_r4l5 angehörigen Waltschen Landts und anderer Vhrten sich
+#facs_136_r4l6 cher Genff verlauffen, willens daselbsten unter Vnser
+#facs_136_r4l7 dort habenden zusatz volck dienst à
+#facs_136_r4l8 2
+#facs_136_r4l9 Sie
+#facs_136_r4l10 aber nicht darzu gelangen könnendt, alsdann sich offenahlen
+#facs_136_r4l11 Zu annennung Äusseren Wiegedienst verleiten lasse
+#facs_136_r4l12 r
+#facs_136_r4l13 Zuwider denen so oft Sierwider publicierten Sach Oberbeit
+#facs_136_r4l14 lichen Verbott- vns Ordnungen; Dahero Wir die Verordnung
+#facs_136_r4l15 Zathun guetfunden, daß fürohin hierauf geachtet, die
+#facs_136_r4l16 hiesigen vnderthanen, Welche nicht in Vnserem Dienst¬
+#facs_136_r4l17 Et
+#facs_136_r4l18 sondern müssig und ohne arbeit in bemelter Stall-Seiff
+#facs_136_r4l19 sich aufhalten, alsobald mit Ihrem
+#facs_136_r4l20 nommen vnd Heimaht
+#facs_136_r4l21 ordenlicher massen verzeichnet, vnd solchen
+#facs_136_r4l22 nach zurück
+#facs_136_r4l23 nacher Haus gewisen, zugleich auch der Ambtrin
+#facs_136_r4l24 binder Stalchen solche gesassen, dessen quisiert werden soll,
+#facs_136_r4l25 amung, daß wann über sothane hinntweisung der
+#facs_136_r4l26 Dint oder andere Brussen bleiben würde, ein solches als sau
+#facs_136_r4l27 berechtiget, und nach den Ordnungen gegen Ihnen verfahren
+#facs_136_r4l28 werden solle; Mit befelch hiemit an Dich disetrere
+#facs_136_r4l29 Verorsnung mit allein zu jedermäniglichs nachricht
+#facs_137_r3l1 Öffentlich von Lantzlen verbunden gelassen
+#facs_137_r3l2 sondern auch deines Theils, so viel es dich berührt,
+#facs_137_r3l3 geflissenlich darob zuhalten. Wie Wir Unß
+#facs_137_r3l4 tersthendt. Dat. 15. Marty 1697.

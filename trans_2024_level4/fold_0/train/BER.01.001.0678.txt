@@ -1,0 +1,74 @@
+Law ID: BER.01.001.0678
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 63/63
+# High similarity (>=80%): 43
+# Low similarity (<80%): 20
+# Not found: 0
+#
+#facs_127_r4l2 245
+#facs_20_r4l1 35.
+#facs_109_r3l29 Münsingen, und Neuen zu
+#facs_199_r5l4 bichtrach.
+#facs_199_r5l5 Schs. etc. Wie wol wir durch die allge¬
+#facs_199_r5l6 meine Ordnung, welche wir die Fischetzl
+#facs_199_r5l7 halb zu Steen, undt Fischrychen Bachenn
+#facs_199_r5l8 gemacht, so das Meyengeding genemlich
+#facs_199_r5l9 gnonisett wirdt, gesetzt, undt erlutter
+#facs_199_r5l10 zu welchen zu den man sich deß Ei thans
+#facs_199_r5l11 müssigen, undt überhoben solle, alles
+#facs_199_r5l12 sonderlich der schornen halb, das man den selben
+#facs_199_r5l13 von 87. Michels-Zegen biß vff St. Marsus
+#facs_199_r5l14 tag ein ihr gestalt uit nachsehen, noch
+#facs_199_r5l15 kochen solle, mit was gattung Instru¬
+#facs_199_r5l16 ment, joch das sijn möge by 10 th.
+#facs_199_r5l17 bus von den übertrettern ohne gnadt
+#facs_199_r5l18 undt tischonen zubezuchen, undt in diesen
+#facs_199_r5l19 Ordnung auch glütter dH W3 für gattung
+#facs_199_r5l20 Instrument durch das gantze Jar daß
+#facs_199_r5l21 Damit zofischen, stöllendt spotten sijn,
+#facs_199_r5l22 als Namlich bären, rüschen, setziger
+#facs_199_r5l23 vndt anderen zug, undt rüstungen, dardurch
+#facs_199_r5l24 man die bächeödett, undt das es allein
+#facs_199_r5l25 mit der schuur oder angel sülle zu glassen seyn.
+#facs_200_r1l1 390
+#facs_200_r2l1 Jedoch so gepüren, und gefharen wie¬
+#facs_200_r2l2 die vnsehen leider solche besompte an¬
+#facs_200_r2l3 ig und fregel sich anmachendt, mit allein,
+#facs_200_r2l4 zu allen, undt jeden zytten, vndt ohn vn¬
+#facs_200_r2l5 Dascheidt, es syndt die Fisch Im Reich, oder
+#facs_200_r2l6 mit durch das gantze Jaar ich mit allen
+#facs_200_r2l7 handfüffungen undt zustremdung zu¬
+#facs_200_r2l8 Fischen, dordurch dan die Fischrychen bäch¬
+#facs_200_r2l9 Zegangz, undt erödett werden m, also das
+#facs_200_r2l10 wie nothwendig befunden, hier wider etwas
+#facs_200_r2l11 Zugrihens zu thun, dergstalt, das wie die be¬
+#facs_200_r2l12 Hilchendt von deß Eisenbachs Wesen, da auch
+#facs_200_r2l13 also von den Unsern mißbuecht, undt zer¬
+#facs_200_r2l14 geicht mit offentlichen Cantzlin verkund¬
+#facs_200_r2l15 auf desarthen zu lassen, das mencklich sich
+#facs_200_r2l16 erst pischens Im Eisenbach mit den Spottien
+#facs_200_r2l17 instaugen, bören, nischen, ganzen, undt
+#facs_200_r2l18 anderen Instrumenten müssige undt überheben
+#facs_200_r2l19 stille, sonderlich auch den Ehemen von 84.
+#facs_200_r2l20 Michels Jegen bis vff 87. Marzins
+#facs_200_r2l21 big, In was gestalt es seye, nicht nachsetzlich
+#facs_200_r2l22 noch fachen, alles by poen undt straaffe
+#facs_200_r2l23 10. rp. d. undt wirst du unser Hauptman zu
+#facs_218_r4l13 Mamans
+#facs_200_r2l25 = Thun by denen zu Stävißburg, Undt an dem orten, so¬
+#facs_200_r2l26 + Wichtrach, In derselbenn Kilchori, unndt umb
+#facs_200_r2l27 frytte der Eisenbach In diener Erwaltung ghatt) solches
+#facs_200_r2l28 + keiß
+#facs_59_r3l1 M
+#facs_17_r6l1 29
+#facs_200_r4l2 : 391
+#facs_200_r4l3 p künden, undt vorpiethen lassen, vndt
+#facs_200_r4l4 gwüsse uffsache vordnen, welche vff die
+#facs_200_r4l5 Über sie Uhr achtindt, undt dieselbe die
+#facs_200_r4l6 Pleydint, damit sij knog unser Ordnung
+#facs_200_r4l7 ge krapft landirt, Dat 25 Decemb.
+#facs_159_r3l11 1609

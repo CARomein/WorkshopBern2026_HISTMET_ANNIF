@@ -1,0 +1,79 @@
+Law ID: BER.01.001.1613
+Name: Wegen Bezalung der Ambtsrestanzen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 68/68
+# High similarity (>=50%): 65
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_329_r2l16 -
+#facs_329_r2l17 An alle Teutses vndt Weltsche
+#facs_329_r2l18 Amptlüht, wie auch Oec. Loffing
+#facs_329_r2l19 Gottstatt St. Johansen Undt
+#facs_329_r2l20 Neüwenstatt
+#facs_329_r2l21 Wegen Bezalung der Ambtrestantze
+#facs_329_r2l22 Schuldtseisz undt Räst undt Burger
+#facs_329_r2l23 Wir habend nur Unterschiedenlieben manu-
+#facs_329_r2l24 gewüse gsatz vndt orsnungen gemacht, wie was
+#facs_329_r2l25 gestalten undt zu was Zeiten, die ambtsrestantzen Bezahl
+#facs_329_r2l26 werden sollind, vndt damit der noch eins etwas bestendig
+#facs_329_r3l1 639
+#facs_329_r3l2 gesetz werde: Habend wir Vnser letster ordnung von Januarii
+#facs_329_r3l3 1652 Vff volgende weiß mittigiert hiemit angesehen Vndt
+#facs_329_r3l4 geordnet, das darob ohne einiche endung noch ansechen der
+#facs_329_r3l5 persohn steiff vndt Vest gehalten, Vndt darzu Jahrlich
+#facs_329_r3l6 geschworen werden solle: Namlichen beuorderst die
+#facs_329_r3l7 Jewesenden Regierenden Ambtluth betreffend, sollend
+#facs_329_r3l8 dieselbigen Jederweilen zu Rechter Zeit beschriben vndt
+#facs_329_r3l9 Vnfelbarlich zu ablegung ihrer Rechnungen, Vff bestimbte
+#facs_329_r3l10 tag, gehalten werden, dadan ein Jeder seine Im erste
+#facs_329_r3l11 Jahr schuldig verblibene Restantz, gleich darnach Im
+#facs_329_r3l12 anderen Jahr Vndt also vortan von einen Jahr zum
+#facs_329_r3l13 anderen In gutem paarem gelt by ablegung seiner
+#facs_329_r3l14 Rechnung zubezahlen pflichtig sein soll, Mit disem Vf¬
+#facs_329_r3l15 -
+#facs_329_r3l16 trukenlichen anhang, daß im fahl mangel hieran
+#facs_329_r3l17 erscheinen wurde Vnsere Sekelmeister Teütschen Vnd
+#facs_329_r3l18 weltschen Landts solche fumliche Amptsluth mit Ihre
+#facs_329_r3l19 Rechnungen zuruk vndt dahin weisen sollind, Ire¬
+#facs_329_r3l20 Restantz noch vor nechst daruff volgender Besatzung
+#facs_329_r3l21 der Inneren Vndt Vseren Ämpteren realiter Deliffere
+#facs_329_r3l22 Vndt würklich zuerstatten: da fehr aber solcher nit
+#facs_329_r3l23 ervolgte, sollend Vnsere Sebelmeister Teütschen
+#facs_329_r3l24 Weltschen Landts by Ihrem eydt, solche zumseligkeit
+#facs_329_r3l25 grad Vor der Besatzung anzuchen, undt ein solcher
+#facs_330_r2l1 Fumseliger Amptsman seines ampts eingestelt Vndt
+#facs_330_r2l2 andere Ihme In der betatzung angehende werden: Es were
+#facs_330_r2l3 dan fach, daß derselbige durch besondere schwöre briege
+#facs_330_r2l4 oder sterben-Läuff, Undt Zeit in bezeuchung seiner
+#facs_330_r2l5 Extantzen phinderet worden zetem, dergstalten bybringen
+#facs_330_r2l6 Vndt durch glaubwürdige schrifft dorher könte, das
+#facs_330_r2l7 wir daran kommen möchten, dessen Zegenussen
+#facs_330_r2l8 Nach dem aber ein ampkeman von dem Ihme anver¬
+#facs_330_r2l9 trauwten ambt abgezogen sein wirt: soll er Innern dreye
+#facs_330_r2l10 Monaten sein abrechnung geben vndt Jnnert zweyen Jahren
+#facs_330_r2l11 sein Restantz volkommenlich abrichten Vndt bezahlen, womit
+#facs_330_r2l12 Vndt im fahl verueren Sumiuß, habend wir angesechen
+#facs_330_r2l13 gesetzt vndt geordnet, daß einem solchen die Anstellung
+#facs_330_r2l14 seines Burgerlichens Ehrengesitzes, auch der Stahtstell selbsten
+#facs_330_r2l15 Vndt aller daher habend nutzung vndt Bestallung druff
+#facs_330_r2l16 sehen, hiemit selbige gegen den einen Vndt andern sumselig
+#facs_330_r2l17 ohne ansechen der Persohn, vndt Vnuerschonet angelegt werden,
+#facs_330_r2l18 vndt bleiben so lang vndt Vil biß ersein schuld volkommen,
+#facs_330_r2l19 Wirs abgericht vndt bezahlet haben: Undt so er in der dryttl.
+#facs_330_r2l20 Jahrs frist die Bezahlung nit gestattet denselb entset
+#facs_330_r2l21 sein Vndt sein stell mit einem andern Verleihen werden solle,
+#facs_330_r2l22 Alls gleichwohl In dem Verstandt, daß Inzwischen Stadt
+#facs_330_r4l1 1641
+#facs_330_r4l2 also bald nach dem abzug Vnser Sekelmeistern Inen —
+#facs_330_r4l3 angelegen sein lassend Immerdar die Restantzen resollicitie
+#facs_330_r4l4 mit gwalz vndt ernstlichen Bevelch, solliche zurwürkliche
+#facs_330_r4l5 einbringung güet: vndt ernstlich betreiben, wie geschene
+#facs_330_r4l6 werde wir Vns Versechend: Welcher Vnterer Amung vnd
+#facs_330_r4l7 Vmb etwas Moderierten Satzung wir dich hiemit nachrichtlich
+#facs_330_r4l8 verstendigen wollen. Dich demnach Wüssest Zeuerhalte
+#facs_330_r4l9 solliches auch gehörigen orts einzuschreiben, dich darmit
+#facs_330_r4l10 Gott Wohl empfelchendt. Dat: 23 Junÿ 1656

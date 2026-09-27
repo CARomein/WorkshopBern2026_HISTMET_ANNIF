@@ -1,0 +1,61 @@
+Law ID: BER.01.001.4671
+Name: Getreid zu verkaufen anbefohlen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 50/50
+# High similarity (>=50%): 49
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_147_r1l1 286.
+#facs_147_r1l2 Collay
+#facs_147_r2l1 Un
+#facs_147_r2l2 alle Deutsch und Belschen Herren
+#facs_147_r2l3 Kundtleide und Schafner, wo oberbeitl.
+#facs_147_r2l4 Getreü befindl. ist.
+#facs_147_r2l5 Getreid zu verkaufen anbefohlen.
+#facs_147_r2l6 Schultheiß Stath und Burger etc.
+#facs_147_r2l7 Nach angehörtem Bericht Unr.
+#facs_147_r2l8 derer fürgeliebten Mitrathen
+#facs_147_r2l9 deut p
+#facs_147_r2l10 der Herren (belsch) Sebelmeister
+#facs_147_r2l11 und Venner, und Unserer Ver¬
+#facs_147_r2l12 ordneten Kornkammer, über
+#facs_147_r2l13 das nach Abzug des Vorraths,
+#facs_147_r2l14 wie auch der ordinari und qua
+#facs_147_r2l15 Cordinari Ausgaben zum Ver¬
+#facs_147_r2l16 Bauf übrig bleibende Getreü
+#facs_147_r2l17 haben Wir zu erkennen gut
+#facs_147_r2l18 befunden
+#facs_147_r2l19 /: deutsche Ämter :/
+#facs_147_r2l20 daß von nun an so bohl, aller
+#facs_147_r2l21 vorschießende Kernen und
+#facs_147_r2l22 Roggen, als aber die noch
+#facs_147_r3l1 287.
+#facs_147_r3l2 übrige zweyte Helfte der Winter¬
+#facs_147_r3l3 fruchte, bei Tinbel, Waisen
+#facs_147_r3l4 Mischelborn, und auch die
+#facs_147_r3l5 Helfte der Sommerfrüchte, zu
+#facs_147_r3l6 kleinen Käufen, und unter
+#facs_147_r3l7 den üblichen Restervaten ver¬
+#facs_147_r3l8 silbert und abgestoßen werden,
+#facs_147_r3l9 jedoch so, das dieser Verkauf
+#facs_147_r3l10 auf die drey bevorstehende
+#facs_147_r3l11 Monate gleich eingetheilt.
+#facs_147_r3l12 berde, um sich bis auf die
+#facs_147_r3l13 Mitte Herbstmonate erstrebe.
+#facs_147_r3l14 /: Belsche Ämter :/
+#facs_147_r3l15 Das von nun an auch die
+#facs_147_r3l16 sbeyte Helfte so wohl der Vor¬
+#facs_147_r3l17 schießenden Sommer- als Winter
+#facs_147_r3l18 Früchte zu kleinen Kaufen
+#facs_147_r3l19 verstilbert werde, jedoch so,
+#facs_147_r3l20 das dieser Verkauf auf die
+#facs_147_r3l21 drey betorstehende Monate
+#facs_147_r3l22 gleich eingetheilt werde.
+#facs_148_r3l1 Welchemnach ihr Euch verhalte
+#facs_148_r3l2 und über das erlofende seiner
+#facs_148_r3l3 Zeit Rechnung tragen berdet.
+#facs_148_r3l4 Dath. den 11ten Juny 1790.

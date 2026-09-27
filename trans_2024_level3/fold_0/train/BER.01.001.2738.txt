@@ -1,0 +1,71 @@
+BER.01.001.2738
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 62/62
+# High similarity (>=50%): 55
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_270_r5l1 4
+#facs_270_r5l2 1
+#facs_270_r5l3 2. 7.
+#facs_270_r7l1 7
+#facs_270_r7l2 ?
+#facs_270_r7l3 1
+#facs_270_r7l4 h.
+#facs_270_r7l5 1
+#facs_271_r1l1 1528
+#facs_271_r1l2 Collat
+#facs_271_r3l1 In alle T- und W: Ambtleüt
+#facs_271_r3l2 4. Stätt, Freyweibel und Amman.
+#facs_271_r3l3 1
+#facs_271_r3l4 Wegen verübten Betrug des
+#facs_271_r3l5 Weins
+#facs_271_r3l6 2o vmb Schulten, so von them har¬
+#facs_271_r3l7 rührend, und über 100. Cronen
+#facs_271_r3l8 belauffend, kein recht gehalten.
+#facs_271_r3l9 No
+#facs_271_r3l10 Schultheiß Raht und Bürger der Statt. Pern.
+#facs_271_r3l11 Es ist zwar die Veranhandlung jehweilen
+#facs_271_r3l12 von unß gerne gestattet worden, Wir
+#facs_271_r3l13 unßend aber mit vnlieb vernommen
+#facs_271_r3l14 daß hierinnen nit in gelassenhaffter
+#facs_271_r3l15 Bescheidenheit verfahren, sonderen
+#facs_271_r3l16 allerhand übernutzigen Wüecher
+#facs_271_r3l17 batriegereyen und übervortheilen
+#facs_271_r3l18 zu höchster Beschwärt unser Lieben
+#facs_271_r3l19 angehörigen zu Statt und Lande ver¬
+#facs_271_r3l20 kandt werde; und sind dahero veranlasset
+#facs_271_r3l21 worden, umb sothanen überfahrnussen
+#facs_271_r3l22 die gebührende Schramben deselzen,
+#facs_271_r3l23 nachfolgende Ordnung anzusehen
+#facs_271_r3l24 und außgeschreiben: Nämblichen
+#facs_271_r3l25 und für das Erste, wan Jemandt
+#facs_271_r4l1 & 29
+#facs_271_r4l2 von Eint und anderem Weinhändler durch
+#facs_271_r4l3 übermässigen preis, als einen unerlaubten
+#facs_271_r4l4 tuecher, durch verkauftung einer gattung
+#facs_271_r4l5 teins für die andere, oder dessen ver¬
+#facs_271_r4l6 schung, oder aber durch allzuvile Trusen
+#facs_271_r4l7 und sonsten mit anderen Geforden über¬
+#facs_271_r4l8 kommen und übertroffen würde, demselben
+#facs_271_r4l9 auf sein Beklagen und anmelden billiche
+#facs_271_r4l10 restitution und Satisfaction, ich nach beschaffen
+#facs_271_r4l11 heit der sach verschaffet, und der fräffel abge¬
+#facs_271_r4l12 strafft werden soll. Für das andere dann,
+#facs_271_r4l13 damit hinfüro von den Steinhandleren
+#facs_271_r4l14 und anderen daß sonst eingerissenen
+#facs_271_r4l15 antragens und auftringens allzu viele.
+#facs_271_r4l16 Heins, als dardurch eint und andere zum
+#facs_271_r4l17 ruin gebracht worden, überhebt bleibend,
+#facs_271_r4l18 So habend wir hiemit auch erkent, daß hinfür
+#facs_271_r4l19 umb ansprachen und Schulden, so von dem
+#facs_271_r4l20 auf Credit ober borg gegebenen vom här¬
+#facs_271_r4l21 bührend, und über ein hundert Cronen
+#facs_271_r4l22 teigend, niemandem vor der auch seye
+#facs_271_r4l23 bem Recht gehalten werden soll. Welcher
+#facs_271_r4l24 Vnser Einsehen zu Mäniglichs nachricht
+#facs_271_r4l25 von Cantzlen zu verbünden, und deiner
+#facs_271_r4l26 Theils darob hantgehalten wüssen wirst.
+#facs_271_r4l27 Dat 28 February 1700

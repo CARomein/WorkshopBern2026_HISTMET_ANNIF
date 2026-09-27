@@ -1,0 +1,102 @@
+Law ID: BER.01.001.4297
+Name: Vorsorge für die Armen, Presthafften, Weysen und junge Kinder bey gegenwärtigen theüren Zeiten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 91/91
+# High similarity (>=50%): 89
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_41_r5l10 An
+#facs_41_r5l11 Alle Teutsch, und Weltsche Herren Amtleuth
+#facs_41_r5l12 Denne per Jedel an die vier Hhl. Vennere
+#facs_41_r5l13 Vorsorge für die Armen, Presthafften, Waysen und jung
+#facs_41_r5l14 Kinder bey gegenwärtigen Theuren Zeiten.
+#facs_41_r5l15 Stackhalter und Raht
+#facs_41_r5l16 Die Landes väckerliche Obsorge, welche bey uns
+#facs_41_r5l17 jederweilen vorwaltet, und zum besten Unserer
+#facs_41_r5l18 Angehörigen zu Stadt und Land abzweket,
+#facs_41_r5l19 veranlaßet uns bey gegenwärtigen Beschwär¬
+#facs_41_r5l20 lichen Zeiten ins besondere, dahin bedacht zu
+#facs_41_r5l21 seyn, daß denen Armen überhaubt, denen
+#facs_41_r5l22 Presthafften Leüthen und kleinen Kinderen und
+#facs_41_r5l23 Waysen aber ins besonders, auch das erforderliche
+#facs_41_r5l24 zu ihrem nöhtigen Unterhalt gereichet werde.
+#facs_42_r2l1 So hat ein solches Uns bewogen, Euch, (gleich
+#facs_42_r2l2 gegen allen übrigen Amtleuten auch beschie¬
+#facs_42_r2l3 het) anmit anzubefehlen, daß gleich nach
+#facs_42_r2l4 empfang diß Schreibens, Ihr die vorgesetzte
+#facs_42_r2l5 aller in Euerem Amt befindlichen Gemeinde
+#facs_42_r2l6 vor Euch bescheidet, denenselben Ihr pflicht¬
+#facs_42_r2l7 mäßige Aufsicht auf alle dergleichen Arm¬
+#facs_42_r2l8 die völlig Außert stande sich ihren nöhtigen
+#facs_42_r2l9 Unterhalt zu verschaffen, in Unserem
+#facs_42_r2l10 Nahmen auf das kräfftigste einschärffet, und
+#facs_42_r2l11 dabey ermahnet, dieser Armen und Elenden
+#facs_42_r2l12 angehörigen bestens möglichst an die Hand
+#facs_42_r2l13 zu gehen, zu diesem Ende nicht nur die zu
+#facs_42_r2l14 dergleichen Allmosen und Besorgung gebied¬
+#facs_42_r2l15 mete Güther, und daraus fließenden Assid
+#facs_42_r2l16 tenzen bestens zu verwenden, sondern sich
+#facs_42_r2l17 selbsten nach erforderen anzugreiffen, vorzüg¬
+#facs_42_r2l18 lichen aber dahin bedacht zu seyn, daß
+#facs_42_r2l19 solche dieseren Leüten, so weit es sich immer
+#facs_42_r2l20 thun laßet, in Getreid und anderen Lebens,
+#facs_42_r2l21 Mittlen, entrichtet werden; da Euch zu
+#facs_42_r2l22 Eüerein besonderen, denen Gemeinden
+#facs_42_r2l23 und vorgesezten aber nicht zu eröffnenden
+#facs_42_r2l24 Bericht beygefüget wird, daß je nach Vor¬
+#facs_42_r2l25 waltenden außerordentlichen Umständen,
+#facs_42_r3l1 77
+#facs_42_r3l2 Und wann die Gemeinden und derselben ange¬
+#facs_42_r3l3 hörige sich nach ihren Kräfften werden ange¬
+#facs_42_r3l4 griffen, und das Ihrige zum Unterhalt Ihrer
+#facs_42_r3l5 bedürfftigen Gemeinds, genoßen, werden
+#facs_42_r3l6 beygetragen haben, unsere Verordnete
+#facs_42_r3l7 Land-Allmosen Cammer auf Eüer einsendende
+#facs_42_r3l8 gewöhnliche Armen-Verzeichnuße, sich nicht
+#facs_42_r3l9 entgegen seyn laßen werden, in so lange
+#facs_42_r3l10 gegenwärtige Klammen und Theüren Zeiten
+#facs_42_r3l11 dauren werden, auch etwas mehrers, als in
+#facs_42_r3l12 ehevorigen Zeiten, zum Trost der Nohtlei¬
+#facs_42_r3l13 denden zu verordnen. Ihr werdet aber
+#facs_42_r3l14 jeweilen nach dem bereits den 2ten Octobris
+#facs_42_r3l15 1769. von Unser Land = Allmosen-Cammer
+#facs_42_r3l16 erhaltenen Befelch beyzufügen die Rahme
+#facs_42_r3l17 Umstände, Alter, begangenschafften u der
+#facs_42_r3l18 recommendierten, wie auch, mit wie Viel, solcher¬
+#facs_42_r3l19 von ihren Gemeinden besteuret worden, oder
+#facs_42_r3l20 was sie sonsten erhalten haben möchten.
+#facs_42_r3l21 Wann dann dabey Wir auch erlegen,
+#facs_42_r3l22 daß die Pfarrer, welche die Umstände
+#facs_42_r3l23 deß gemeinen Guths der Gemeinden¬
+#facs_42_r3l24 die Faculteten der besonderen Particularen-
+#facs_42_r3l25 ja selbsten auch die Noht und den Mangel
+#facs_42_r3l26 dergleichen Armen Personen, bestens kennen
+#facs_43_r2l1 Sollen, zugleich auch wüßen mögen, wie
+#facs_43_r2l2 die mehrers begüerteten etwann bewogen
+#facs_43_r2l3 werden könten, Ihre armselige Angehörige
+#facs_43_r2l4 zu assistieren.
+#facs_43_r2l5 So werdet ihr auch selbigen deshalben
+#facs_43_r2l6 die erforderlichen Vorstellungen thun, solch
+#facs_43_r2l7 auch anmahnen, in vorfallenden Anläßen
+#facs_43_r2l8 die Noht und die Anligenheit dergleichen
+#facs_43_r2l9 Armen Elenden Leüthen, und mithin deren
+#facs_43_r2l10 Besteürung zu empfehlen, und zwar so wohl
+#facs_43_r2l11 öffentlich von Canzlen, als ins besondere
+#facs_43_r2l12 in Ihren Haus Besuchungen, alles aber mit
+#facs_43_r2l13 behöriger Vorsicht, und nach anlaßenden Um¬
+#facs_43_r2l14 ständen, wo dann sonderheitlich- und Vorzüg¬
+#facs_43_r2l15 lichen solche auch dahin zweben sollen, daß
+#facs_43_r2l16 die erhaltende Beysteüren nicht nach Gunst¬
+#facs_43_r2l17 wie solches bißweilen geschehen, sondern nach
+#facs_43_r2l18 Masgab der Umständen und Bedürfftnuß
+#facs_43_r2l19 vertheillet werden sollen.
+#facs_43_r2l20 Wir versehen uns dabey, so wohl gegen Euch
+#facs_43_r2l21 denen Pfarreren und denen vorgesezten, daß
+#facs_43_r2l22 in allen Stuben Unser zwek werde erfüllet.
+#facs_43_r2l23 und mithin jeder ins besondere dasjenige hierbei
+#facs_43_r2l24 gestatten, was disorts von Ihnen abhangen
+#facs_43_r2l25 mag. Dat. d. 22. Xbris 1770

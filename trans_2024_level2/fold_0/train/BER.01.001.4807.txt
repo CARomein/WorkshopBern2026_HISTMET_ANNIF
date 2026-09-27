@@ -1,0 +1,542 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 533/535
+# High similarity (>=80%): 491
+# Low similarity (<80%): 42
+# Not found: 2
+#
+#facs_190_r2l36 1000
+#facs_164_r3l10 Reglement
+#facs_164_r3l11 des Zolls zu Murten
+#facs_236_r5l13 Wir Schultheiß und Rath der Stadt und Seepublik der¬
+#facs_164_r3l13 Bern, und Wir Schultheiß und Rath der Stadt
+#facs_164_r3l14 und Republik Freyburg, thun kund hiemit
+#facs_164_r3l15 Demnach wir für gut erachtet, in Ansehen
+#facs_164_r3l16 Ansers Zolls zu Murten, die im Jahr 1788,
+#facs_164_r3l17 auf eine Probezeit von Sechs Jahren ge¬
+#facs_164_r3l18 troffene Einrichtung zu erneuern, und für solans
+#facs_164_r3l19 als es uns gefällt, selbige bey zu behalten; so haben Wir
+#facs_164_r3l20 nötig befunden, zu richtiger Abstattung der Zollgebühr
+#facs_164_r3l21 der vorgeschriebne Reglement, und den Zoll-Tarif in
+#facs_164_r3l22 etwas abzuändern und solches biß auf fernere Verord¬
+#facs_164_r3l23 nung, samt dem Zoll-Tarif, zu jedermans Nachricht
+#facs_164_r3l24 und Verhalt in öffentlichen Druk geben zu lassen,
+#facs_164_r3l25 zu welchem Ende wir hiemit noch obrigkeitlich verordn¬
+#facs_48_r3l19 haben
+#facs_18_r2l7 sollen
+#facs_19_r5l1 31
+#facs_164_r4l2 1°) Sollen hinfüro alle zu Murten vorbeygehende Waaren
+#facs_164_r4l3 und Kaufmannsgüter, oder andere Zollspflichtige Sache.
+#facs_164_r4l4 Unserm bestellten Zollcommis alldorten getreulich
+#facs_164_r4l5 angegeben und verzollet werden; zu dem Ende
+#facs_164_r4l6 2.) Sollen die Güter = Fuhrleute jeweilen bey ihrer
+#facs_164_r4l7 durchfahrt sich bey der Zollstatt anmelden, den
+#facs_164_r4l8 Commiß ihre Facturen, Frachtbriefe, und die bey den
+#facs_164_r4l9 Zollstätten, wo sie herkommen, ihnen ertheilte Ta¬
+#facs_164_r4l10 rents oder acquiten vorweisen, und die schuldige Zollg
+#facs_164_r4l11 bühr gegen Empfang eines Aequits zur Aufweis
+#facs_164_r4l12 ung bey andern Zollstätten, also bald abrich¬
+#facs_164_r4l13 ten, bey 100. Pfund unabläßlicher Büse, wann
+#facs_164_r4l14 ein Fuhrmann, dem zu wider, unangemeldet,
+#facs_164_r4l15 und ohne Bezahlung des Zolls zu Murten vor
+#facs_164_r4l16 bey fahren würde, oder auch mehrere Waaren
+#facs_164_r4l17 auf geladen hätte, als er angegeben; gestalten
+#facs_164_r4l18 bey Entdebung eines dergleichen Frefels, der
+#facs_164_r4l19 Zollcommis den Fuhrmann Anserm Schult¬
+#facs_164_r4l20 heißen zu gebührender Bestrafung also
+#facs_164_r4l21 bald verleiden, und inzwischen die Waaren u.
+#facs_164_r4l22 Arrest behalten soll; unter dem Vorbehalt ja
+#facs_164_r4l23 dennoch: daß sebige gegen annehmliche Bürgs¬
+#facs_164_r4l24 schaft für die Büße und allfällige Kösten dem
+#facs_164_r4l25 Beklagten weggegeben werden mögen
+#facs_164_r4l26 3°) Betreffend die jenigen Waaren und Kauf¬
+#facs_164_r4l27 manne Güter, welche zu Murten abgela¬
+#facs_164_r4l28 en, und hernach durch dortige Handelsleute
+#facs_11_r4l1 e
+#facs_19_r5l1 31
+#facs_165_r2l1 und Spedito das iters verstandet werden, sollen
+#facs_165_r2l2 selbige, ne mögen nun über Land oder üben
+#facs_165_r2l3 den See kommen, zuweilen so gleich bey ihr
+#facs_165_r2l4 Ankunft dem Zoll Commiß mit Vorweisung
+#facs_165_r2l5 ihrer Facturen und Frachtbriefe angegeben
+#facs_165_r2l6 und von ihm vorzeichnet werden, und zwar
+#facs_165_r2l7 soll diese Indication beschehen, noch ehe der
+#facs_165_r2l8 Wagen oder das Schiff ab- oder aufgeladen
+#facs_165_r2l9 worden, damit der Zollcommiß, im Fall er
+#facs_165_r2l10 es nöthig findet, bey der Abladung zugegen
+#facs_165_r2l11 seyn, und die Indication verificiren könne.
+#facs_165_r2l12 wann dann besagte Waaren von Mürten
+#facs_165_r2l13 hinweg, es seye aber Land oder über den
+#facs_165_r2l14 sen, weiters spedirt werden, sollen die dortigen
+#facs_165_r2l15 Commissionaires und Speditoren gehalten
+#facs_165_r2l16 teyn, dieselben vor der Verständung dem
+#facs_165_r2l17 Zollcommis in Gewicht und Qualitaat, nebst
+#facs_165_r2l18 Verzeigung der Restination getreulich zu
+#facs_165_r2l19 consigniren, und die Zollgebühr davon zu
+#facs_165_r2l20 entrichten, bey Strafe der Confiscation aller
+#facs_165_r2l21 derjenigen Waaren, welche ohne vorherge¬
+#facs_165_r2l22 gangene Constignation geladen und versondet
+#facs_165_r2l23 würden; er sollen auch besagte Stedito
+#facs_165_r2l24 ren den Fahr- oder Schifleuten jelweilen eine
+#facs_165_r2l25 exacte und specificirliche Factur von der
+#facs_165_r2l26 Ladung eines jeden Wagens oder Schifs mit
+#facs_165_r2l27 geben, um solche bey andern Zollstätten vorzu weisen.
+#facs_18_r2l19 P
+#facs_115_r6l1 219
+#facs_165_r3l2 4°) diejenigen ankommenden Waaren, welche
+#facs_165_r3l3 zu mürten selbsten, oder in umliegenden Gegen¬
+#facs_165_r3l4 den verbleiben sollen, um alldorten verbraucht
+#facs_165_r3l5 zu werden, sollen so gleich bey ihrer Ankunft ver¬
+#facs_165_r3l6 zollet werden
+#facs_165_r3l7 5°) der Zollcommis soll befugt seyn, woft
+#facs_165_r3l8 er es wegen der Controllen, oder zu Aufheiter
+#facs_165_r3l9 ung dieses oder jenen Zweifels nötig findet
+#facs_165_r3l10 die Magazine der Speditoren oder Com¬
+#facs_165_r3l11 impionairen zu besuchen, und von denen
+#facs_165_r3l12 darum liegenden Stecken Bekanntschaft zu
+#facs_165_r3l13 nehmen; zu welchem Ende ihm der freye zu
+#facs_165_r3l14 tritt von den Speditoren gestattet werden
+#facs_165_r3l15 soll, sonderheitlich auch zu denen Zeiten, wenn
+#facs_165_r3l16 sie mit Abwägung der Waaren beschäftigen
+#facs_140_r6l19 sind
+#facs_165_r3l18 6.) Bey allfälliger Vermuthung, daß einige
+#facs_165_r3l19 Transitwaaren, die als Mercerie und Quin
+#facs_165_r3l20 allerie angegeben werden, andere Waaren
+#facs_165_r3l21 enthalten möchten, soll der Zollcommiss
+#facs_165_r3l22 über diese Art von Waarenfleißig ach¬
+#facs_165_r3l23 ten, dieselben mit den Fuhrbriefen und Lad¬
+#facs_165_r3l24 barten entgegen halten, und bey einigem
+#facs_165_r3l25 verdacht die Kisten und Ballen öfnen
+#facs_165_r3l26 7°) Soll in Verzollung der Waaren die
+#facs_165_r3l27 Marktgeleicht von 16. Onus das Thund zur
+#facs_165_r3l28 Stegel genommen, und der Zoll auf diesem
+#facs_21_r3l22 du
+#facs_166_r1l1 320
+#facs_166_r2l1 Luszugrecht ist auch für die Sara oder Emballager
+#facs_166_r2l2 gar nichts abgezogen werden.
+#facs_166_r2l3 8.) In allen vorfallenheiten, wo zur Aufrecht¬
+#facs_166_r2l4 haltung unserer Zollgerechtigkeit die richter
+#facs_166_r2l5 liche Authorient erforderlich wäre, wird Unser
+#facs_166_r2l6 gemeinstame Amtsmann zu Murten auf
+#facs_166_r2l7 Anmelden des Zollcommissen, ihm seine
+#facs_166_r2l8 ämtliche Handbietung angedeihen laßen.
+#facs_166_r2l9 mithin die Steintirenden zur Gebühr zu halten
+#facs_166_r2l10 wißen; wie wir dann auch besagt und
+#facs_166_r2l11 rerm Amtsmann andurch aufgetragen
+#facs_166_r2l12 haben wollen, über die Bestrafung der etwa
+#facs_166_r2l13 sich ergebenden Zollverschlagnißen und
+#facs_166_r2l14 Freveln, nach Untersuchung der Sache, je¬
+#facs_166_r2l15 weilen seine Urtheile, dennoch unter Vor¬
+#facs_166_r2l16 behalt des allfälligen Concurses vor die
+#facs_166_r2l17 alternatif=Obrigkeit, auszufällen,
+#facs_166_r2l18 der Meynung, daß von denen daher
+#facs_166_r2l19 fallenden Bußen und Confiscationen ent¬
+#facs_166_r2l20 Drittel Uns den beyden Hohen Ständen ver¬
+#facs_166_r2l21 rechnet werden, ein Drittel Unserm Amt
+#facs_166_r2l22 mann, und ein Drittel dem Zollcommiß
+#facs_166_r2l23 oder dem Verleider heim fallen solle.
+#facs_166_r2l24 9:) Sollen alle und jede Handlung- und Gewert¬
+#facs_166_r2l25 treibende Personen, woher sie auch immer
+#facs_166_r2l26 seyen, dem Zoll unter Worfen- und solchen
+#facs_166_r2l27 ohne Widerrede von ihren Waaren zu
+#facs_166_r2l28 bezahlen
+#facs_126_r3l45 32.1
+#facs_166_r3l2 zubezahlen schuldig seyn, wenn schon der Ort, dasie ver¬
+#facs_166_r3l3 bürgernt, oder wohnhaft, eine Zollbehreyung hätte
+#facs_166_r3l4 maßen der gleichen Zollbefreyungen, sich nur
+#facs_166_r3l5 allein auf den Haus brauch, und nicht weiters er¬
+#facs_166_r3l6 treken sollen.
+#facs_166_r3l7 10°) Sollen die auf dem See von Murten ab¬
+#facs_166_r3l8 gehende, oder daselbst auf dem See ankommenden
+#facs_166_r3l9 waaren, nirgens 100 auf- oder abgeladen werde
+#facs_166_r3l10 als auf der Ländi, welche auf dem Plaz an der Styrf
+#facs_166_r3l11 innert den Ringmauern der Stadt befindlich ist,
+#facs_166_r3l12 bey Strafe der Confiscation der Waaren, die
+#facs_166_r3l13 anders wo auf- oder abgeladen würden; es seye
+#facs_166_r3l14 dann Sach, daß wegenstürmischem Wetter, oder
+#facs_166_r3l15 wegen allzu kleinen Wasser die Schiffe ge¬
+#facs_166_r3l16 nöthiget wären, anders wo anzuländen, in wel¬
+#facs_166_r3l17 chem Fall solches in Gegenwart des Zollcommißen
+#facs_166_r3l18 geschehen soll.
+#facs_166_r3l19 11°) Es soll jedermann verbotten seyn, von
+#facs_166_r3l20 einem Fuhrmann einige Waaren in Ablage
+#facs_166_r3l21 zu nehmen, die nicht mit dem behörigen acquit
+#facs_166_r3l22 Zedel begleitet sind
+#facs_166_r3l23 12°) Alle ausführende Pferde, mit Inbegrif
+#facs_166_r3l24 deßen, auf welchem der Führer reitet, sollen
+#facs_166_r3l25 verzollet werden, wenn nicht bescheiniget,
+#facs_166_r3l26 werden kann, daß derjenige, so sie ausführt.
+#facs_166_r3l27 eines oder mehrere ins Land gebracht hat.
+#facs_166_r3l28 13) da Unsern Zoll gerechtigkeit von
+#facs_166_r3l29 Mürten
+#facs_20_r1l1 32
+#facs_167_r2l1 Mürten sich auf diese ganze Herrschaft er
+#facs_167_r2l2 trekt, und auch vormals in Kerzerz und bei
+#facs_167_r2l3 der Frügg zu Tugg ausgeübt worden; so ist
+#facs_167_r2l4 Außer Winde und Befehl, daß alle Zollpflich
+#facs_167_r2l5 tigen Waaren und Artikel, die nicht von
+#facs_167_r2l6 Mürken kommen, und mit keinen Zoll
+#facs_167_r2l7 acquits von daselbst versehen sind, oder
+#facs_167_r2l8 die nicht dahin geführt werden, bey den be¬
+#facs_167_r2l9 stellten Aufstehern zu Kerzerz oder bey
+#facs_167_r2l10 der Supp-Brugg, nach dem Tarif von
+#facs_167_r2l11 Mürten, verzollet werden sollen.
+#facs_167_r2l12 14o) In Beziehung und Abrichtung des
+#facs_127_r4l59 t
+#facs_1_r2l2 1.
+#facs_167_r2l15 Zolls, soll nachfolgender Vorschrift genom¬
+#facs_167_r2l16 men werden, welcher hiemit, so lange Wie
+#facs_167_r2l17 denselben nicht abzuändern gut finden
+#facs_167_r2l18 werden, zur künftigen Siegel dienen soll.
+#facs_167_r2l19 Tarif
+#facs_167_r2l20 Son allen Waaren und Kaufmansgütern,
+#facs_167_r2l21 was Namen sie immer haben mögen,
+#facs_167_r2l22 welche Centner Weis in Ballen, Kisten,
+#facs_167_r2l23 Fässern, oder sonsten zu Murten vorbey
+#facs_167_r2l24 fahren, und hienach nicht besonders vernam¬
+#facs_167_r2l25 tet sind, es seye dann das sie über Land
+#facs_167_r2l26 oder über den den gefürgget werden,
+#facs_167_r2l27 soll ohne Unterschied ihrer Qualitaet be¬
+#facs_167_r2l28 zahlt werden, von jedem Centner ein Kreuzer
+#facs_15_r4l25 in
+#facs_167_r3l1 Nachgenamsele Sachen aber sollen bekahlen,
+#facs_15_r4l4 folget
+#facs_167_r3l3 Spimpf- und Stauch Tabak, der Centner
+#facs_167_r3l4 Härnige und allerley gestatzene Fische der Cte
+#facs_167_r3l5 Stahl, Ehern, oder Glokenpeis
+#facs_167_r3l6 der Centner.
+#facs_167_r3l7 Meßing, Kupfer, zum, Blech,
+#facs_167_r3l8 Bley, der Centner
+#facs_167_r3l9 gearbeitetes Eisen, der Centner
+#facs_167_r3l10 Ungearbeitetes Eisen, der Centner
+#facs_167_r3l11 die Quincallerie - platte und Mercerie
+#facs_167_r3l6 der Centner.
+#facs_167_r3l13 Bücher, eingebundene, und uneingebundern
+#facs_1_r2l2 1.
+#facs_167_r3l15 wie auch gedrukte Schriften, der Centner
+#facs_167_r3l16 Allerley Kriegs geräthschaften sollen ohne
+#facs_167_r3l17 Obrigkeitliche Bewilligung nicht
+#facs_167_r3l18 durch gelaßen werden; würden aber
+#facs_167_r3l19 einige mit gebührendem Zulaf
+#facs_167_r3l20 durch geführt, sollen dieselben
+#facs_167_r3l21 bezahlen, wie folget
+#facs_167_r3l22 Bleyerne Kugeln, der Centner
+#facs_167_r3l23 Pulver, der Centner
+#facs_167_r3l24 Lunden, der Centner
+#facs_167_r3l25 Stuck ungeln, der Centner
+#facs_167_r3l26 Gewehre, das Hundert
+#facs_167_r3l27 Gewehrläuffe das Hundert.
+#facs_167_r3l28 Säbel, Sajonette und Ladstök das Hundert
+#facs_167_r3l29 Patrontache, Gewehr und Sabel gehänge
+#facs_167_r3l30 les Hundert
+#facs_167_r3l31 Vom
+#facs_7_r1l1 6
+#facs_1_r2l2 1.
+#facs_8_r3l26 de.
+#facs_217_r4l1 123
+#facs_17_r4l1 27.
+#facs_1_r2l2 1.
+#facs_5_r1l1 2.
+#facs_11_r4l1 e
+#facs_5_r1l1 2.
+#facs_1_r2l2 1.
+#facs_5_r1l1 2.
+#facs_5_r1l1 2.
+#facs_20_r1l1 32
+#facs_188_r4l1 do
+#facs_168_r2l2 Ein daß von 400. Bern. Maas
+#facs_168_r2l3 Einhalb Fas.
+#facs_168_r2l4 Für 1 bis til Maas wird nichts be¬
+#facs_168_r2l5 zahlt; hingegen sollen 101. bis
+#facs_168_r2l6 200. Maas für ein halbes Faß
+#facs_168_r2l7 gerechnet werden.
+#facs_168_r2l8 der Wein von eigenem Gewächs,
+#facs_168_r2l9 so vom Wistelach nach Murten
+#facs_168_r2l10 geführt wird, soll, bis auf wei¬
+#facs_168_r2l11 tere Verfügung, Zollfrey seye
+#facs_168_r2l12 unter dem Beding, daß die
+#facs_168_r2l13 Eigenthümer von Mürten
+#facs_168_r2l14 bescheinigen, daß er eigenen
+#facs_168_r2l15 Gewächstes, und nicht angekauft
+#facs_168_r2l16 ist um Handel damit zu
+#facs_168_r2l17 treiben.
+#facs_17_r4l26 die
+#facs_168_r2l19 1. Fäßlein von 1. bis 100. Maas.
+#facs_168_r2l20 von 101. bis 200. Maas, um
+#facs_168_r2l21 to fort
+#facs_168_r2l22 Esig, ein Sester
+#facs_168_r2l23 der transitirende, der Centner
+#facs_168_r2l24 Brandteloein, wie auch andere
+#facs_168_r2l25 gebrannte Waßer und Ligeurs,
+#facs_168_r2l26 vom Centner.
+#facs_168_r2l27 drem der Wein, als Burgundin,
+#facs_168_r2l28 cher, Spanischer, italienischer,
+#facs_82_r3l24 — und
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+#facs_168_r7l1 und der gleichen der Centner,
+#facs_168_r7l2 der Neuenburger-Wein soll nicht unter
+#facs_168_r7l3 dem fremden Wein begriffen seyn,
+#facs_168_r7l4 sondern auf dem gleichen Fuß, wie
+#facs_168_r7l5 der Wein so in Unsternder beiden
+#facs_168_r7l6 Stande Bern und Freyburg zuge¬
+#facs_168_r7l7 hörenden Landenwächst, verzollet
+#facs_5_r5l11 werden
+#facs_168_r7l9 Vom Getreide.
+#facs_168_r7l10 Kernen und Weizen, Roggen, wie auch
+#facs_168_r7l11 aller Gattung Mehl, der Centner¬
+#facs_168_r7l12 Dinkel, Gersten, Mischelkorn, Erbs, Bohne
+#facs_168_r7l13 Wicken, Linsen, der Sack von 10.
+#facs_37_r3l22 der
+#facs_168_r7l15 Hirs, Hanf- und Flachssaamen, wie
+#facs_168_r7l16 auch Kastanien, der Centner
+#facs_168_r7l17 Haber, der Sack.
+#facs_168_r7l18 Vom Tich und Pferden
+#facs_168_r7l19 Ein jedes Haupt Kindvieh, war Gattung
+#facs_168_r7l20 es seye, wie auch ein jedes fettes Schwein,
+#facs_168_r7l21 Ein Züchtschwein, samt seinen Jungen
+#facs_168_r7l22 Ein mangeres Schwein
+#facs_168_r7l23 Schaafe, Cämmer, Geisen, Faßel
+#facs_168_r7l24 schweine, das Dutzend
+#facs_168_r7l25 Ein Pferd so in den Bernerischen oder
+#facs_168_r7l26 = Freybl.
+#facs_168_r8l1 325
+#facs_7_r2l1 3
+#facs_37_r2l23 =ie
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+#facs_5_r1l1 2.
+#facs_5_r1l1 2.
+#facs_5_r1l1 2.
+#facs_68_r1l1 126
+#facs_169_r2l1 = dreyburgischen Landen erkauft wo¬
+#facs_169_r2l2 den, und daraus geführt wird
+#facs_169_r2l3 Ein Pferd, so im Lande bleibt
+#facs_169_r2l4 Ein sullen, so aus dem Lande geführt wird,
+#facs_169_r2l5 komd Lande bleibt.
+#facs_62_r2l22 Solisen
+#facs_169_r2l7 Ein jedes Faßlein Salz
+#facs_169_r2l8 Salzin Lauben, von 100. Stecken.
+#facs_169_r2l9 oder Salignons
+#facs_169_r2l10 Meersalz, vom Minot
+#facs_169_r2l11 Von Mcolchen
+#facs_169_r2l12 Käs, der Centner
+#facs_169_r2l13 Zutter, der Centner
+#facs_169_r2l14 Zieger, der Centner
+#facs_169_r2l15 Von andern Lebens mittlen
+#facs_169_r2l16 Peck, Schmeer, Unschlitt, gedörrtes
+#facs_169_r2l17 Schweinenfleisch, uns Kerzen,
+#facs_167_r3l6 der Centner.
+#facs_169_r2l19 Reis, der Centner
+#facs_169_r2l20 Obst, es seyen Aepfel oder Birnen,
+#facs_169_r2l21 ein ganzes Faß voll.
+#facs_169_r2l22 ein halbes Faß, oder Salz
+#facs_169_r2l23 Fäßlein.
+#facs_5_r4l1 4
+#facs_169_r2l25 eine Hutte, nach Proportion
+#facs_19_r4l25 la
+#facs_248_r4l2 te
+#facs_1_r2l2 1.
+#facs_10_r1l1 12
+#facs_5_r1l1 2.
+#facs_1_r2l2 1.
+#facs_7_r2l1 3
+#facs_1_r2l2 1.
+#facs_5_r4l1 4
+#facs_1_r2l2 1.
+#facs_169_r7l1 Kabis, ein geladener Wagen
+#facs_169_r7l2 von dem Obst. Kabis. Erdspeisen und
+#facs_169_r7l3 dergleichen Lebens Mitteln, sollen
+#facs_169_r7l4 Unsere Zollbeamtete von Mur¬
+#facs_169_r7l5 ten, nur von Wagen, Fäpern
+#facs_169_r7l6 und Hutten voll, den Zoll beziehen
+#facs_169_r7l7 geringere Theile aber freylassen,
+#facs_169_r7l8 von den Früchten oder Lebens,
+#facs_169_r7l9 mitteln, die ein jeder als ein
+#facs_169_r7l10 Abtrag von seinem Gut in die
+#facs_169_r7l11 Stadt Marten bringet, ist kein
+#facs_169_r7l12 Zoll zu entrichten
+#facs_169_r7l13 Welche Hahnen, Hüner, Capannen,
+#facs_169_r7l14 Fasanen, Stebhüner, das Dutzend.
+#facs_169_r7l15 Gemeine Hüner, Hahnen, Gänse, Enten
+#facs_169_r7l16 Schnepfen, Wasserhüner, das Dätzend¬
+#facs_169_r7l17 Tauben, wachteln, Lerchen, Steckholder¬
+#facs_169_r7l18 vögel, Amseln, das Duzend
+#facs_169_r7l19 Von volg und Solswert.
+#facs_169_r7l20 Läden von hartem Holz, das Dutzend
+#facs_169_r7l21 dito von tanigem Holz, das Dutzem¬
+#facs_169_r7l22 Bodenstücke zu Fäßern, das Hundert.
+#facs_169_r7l23 Tangen, zu Fäpern, das Hundert
+#facs_169_r7l24 Neue Fäßer, es seyen Land- oder Reif¬
+#facs_169_r7l25 fässer, das Stük.
+#facs_169_r7l26 Bütten, eine große oder zwey kleine
+#facs_7_r1l1 6
+#facs_169_r8l1 327
+# NOT FOUND:  
+#facs_1_r2l2 1.
+#facs_32_r3l15 s
+#facs_1_r2l2 1.
+#facs_8_r3l26 de.
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+#facs_83_r5l31 D
+#facs_5_r1l1 2.
+#facs_5_r1l1 2.
+#facs_11_r4l1 e
+#facs_1_r2l2 1.
+#facs_7_r2l1 3
+#facs_20_r1l1 32
+#facs_170_r2l1 ein neue Hagen oder Karren zum
+#facs_170_r2l2 Verkauf
+#facs_170_r2l3 Gelten, die Burde
+#facs_170_r2l4 Hölzernes Geschirr: als kleine Fäßlein
+#facs_170_r2l5 Brannten, Zuber, Kübli, Cägel,
+#facs_170_r2l6 Käpf, Schüßeln, Göhn und derglei¬
+#facs_170_r2l7 =chen das Dutzend
+#facs_170_r2l8 Hölzerner kleiner Werkzeug, aller
+#facs_170_r2l9 Gattung, eine Bürde
+#facs_170_r2l10 Heugabeln und Stechen, das duzem
+#facs_170_r2l11 Mäscher, ungesagt, das Fuder
+#facs_170_r2l12 gesagt in Blätter, der Centner
+#facs_170_r2l13 Feine und kostbare Ebenisten-Arbeit
+#facs_170_r2l14 von Mäscher oder anderm harten
+#facs_170_r2l15 holz: als Schreibtische, Schäfte und
+#facs_170_r2l16 dergleichen große Sachen, das
+#facs_281_r3l1 sta
+#facs_170_r2l18 Kleinere Arbeit: als Tischlein, Sessel-
+#facs_170_r2l19 gestell und dergleichen, das Stük
+#facs_170_r2l20 Nebstecken, das Tausend.
+#facs_170_r2l21 Reiffe, ungesvaltene, die Burde
+#facs_170_r2l22 gerüstete, der Vierling
+#facs_170_r2l23 Stinden, eichene oder Tanige, für
+#facs_170_r2l24 die Herber, der Sack
+#facs_170_r2l25 Schindeln, das Tausend
+#facs_170_r2l26 Schindeltruken, die Burde
+#facs_170_r2l27 Besen, das Dutzend
+#facs_111_r6l25 Einf
+#facs_73_r1l1 136
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+#facs_22_r3l25 bey
+#facs_32_r3l15 s
+#facs_8_r3l26 de.
+#facs_88_r1l2 Hes
+#facs_5_r1l1 2.
+#facs_5_r1l1 2.
+#facs_5_r1l1 2.
+#facs_10_r1l1 12
+#facs_1_r2l2 1.
+#facs_102_r2l24 I.
+#facs_5_r1l1 2.
+#facs_170_r9l1 Ein großes neues Schiff, zum Verkauf
+#facs_170_r9l2 Ein kleines, oder Weidling
+#facs_170_r9l3 Wannen, das Duzen¬
+#facs_170_r9l4 Von vermischten Sachen
+#facs_170_r9l5 Ein großer Güterwagen, so leer durch fährt
+#facs_170_r9l6 Ein kleiner, dito
+#facs_170_r9l7 die Leeren Weinwagen sind Zollfrey
+#facs_170_r9l8 lin Lastpferd, Esel, oder Maulestel, so leer
+#facs_170_r9l9 durch gehet.
+#facs_170_r9l10 Ein Krämer, der allerhand waaren auf den
+#facs_170_r9l11 Stücken trägt
+#facs_170_r9l12 Ein Krämer oder Krätzen träger, der und
+#facs_170_r9l13 geringe Waaren trägt, wie zum Exempe
+#facs_170_r9l14 hölzerne Arbeit von St. Claude und der
+#facs_170_r9l15 gleichen
+#facs_170_r9l16 Ein Wagen oder Wagelen mit Glaswaaren
+#facs_170_r9l17 beladen, so zu Mürten nur durchpassirt, von
+#facs_170_r9l18 Centner
+#facs_170_r9l19 Wann aber alldort ausgelegt und verkauft,
+#facs_170_r9l20 wird, vom Wagen
+#facs_170_r9l21 Ein Krätzen trager mit Gläßer und Flaschen
+#facs_170_r9l22 so nur durch passirt
+#facs_170_r9l23 wann er aber aus packt und verkauft,
+#facs_170_r9l24 einer der Citronen und Pommeranzen käch¬
+#facs_170_r9l25 Rohn Ochten- Kinds- und Pferdhaute, das Stük¬
+#facs_170_r9l26 Röhe Haute von Kalbern, Schaafen, Böcken
+#facs_187_r3l23 ge¬
+#facs_20_r1l1 32
+#facs_11_r4l1 e
+#facs_1_r2l2 1.
+#facs_113_r4l4 21
+#facs_5_r1l1 2.
+#facs_32_r3l15 s
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+#facs_5_r1l1 2.
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+#facs_11_r4l1 e
+#facs_1_r2l2 1.
+#facs_5_r1l1 2.
+#facs_70_r1l1 130
+#facs_169_r2l14 Zieger, der Centner
+#facs_171_r2l2 Rohn Gizi häute, der Centner
+#facs_171_r2l3 gegerbte Bissen = Rinds = und Pferdhauten
+#facs_117_r3l32 Das
+#facs_171_r2l5 Juchtenleder, das Stück
+#facs_171_r2l6 Maroquinhaute, das Dutzend
+#facs_171_r2l7 Bazanes haute, das Dutzem¬
+#facs_171_r2l8 Ein das oder habust, und andere fremde
+#facs_171_r2l9 achtbare Vögel, wie Papageyen, das
+#facs_128_r2l19 Sth me
+#facs_171_r2l11 Eine Krätze Canarien Vögel
+#facs_171_r2l12 Fodern und Federbetten, der Cantner
+#facs_171_r2l13 Alte Cumpen, für die Papiermacher, der
+#facs_45_r3l3 An
+#facs_171_r2l15 Sicheln und Sensten, der Centner
+#facs_171_r2l16 Steinerne Tische, Schreibtafeln, Wetz
+#facs_171_r2l17 steine, was ein Mann tragt
+#facs_171_r2l18 Ein Mühlstein, der Laufer genannt
+#facs_171_r2l19 Ein Mühlstein, der Boden genannt.
+#facs_171_r2l20 Ein großer Schleifstein
+#facs_171_r2l21 Ein Tragschleifstem
+#facs_171_r2l22 Ein Fäßlein Kalch oder Gips.
+#facs_171_r2l23 Weißherd oder Hupert- Erde, das
+#facs_115_r5l1 Callati
+#facs_171_r2l25 Ziegel, Testetzblatten, Kamin¬
+#facs_171_r2l26 und Mauersteine dar
+#facs_171_r2l27 Hundert
+#facs_128_r2l13 Von
+#facs_1_r2l2 1.
+#facs_1_r2l2 1.
+# NOT FOUND:  
+#facs_22_r3l25 bey
+#facs_1_r2l2 1.
+#facs_10_r1l1 12
+#facs_98_r5l28 en
+#facs_1_r2l2 1.
+#facs_10_r1l1 12
+#facs_41_r3l1 73
+#facs_171_r7l2 Von der Ziegelwaare, die im Amt Murten
+#facs_171_r7l3 verfertiget, und zu eigenem Gebrauch hin¬
+#facs_171_r7l4 und her geführt wird, soll kein Zoll erhoben,
+#facs_5_r5l11 werden
+#facs_171_r7l6 Uebrige zolls pflichtige Sachen, so etwa hier nicht
+#facs_171_r7l7 vernamstet wären, und dennoch nicht in der Classe
+#facs_171_r7l8 der Waaren- uns Kaufmanns gütern, die ohne
+#facs_171_r7l9 Unterschied à 1 Kr. per Centner taxirt sind, ge¬
+#facs_171_r7l10 sezt werden könnten, sollen auf dem Fuß wie¬
+#facs_171_r7l11 andere Artikel von gleichem Werth verzollet
+#facs_5_r5l11 werden
+#facs_171_r7l13 Wobey es die Meinung hat, daß die Herren
+#facs_171_r7l14 Amtleute beyder hohen Stände, bey ihrem An¬
+#facs_171_r7l15 tritt oder Abzug, so wohl als beydseitige Bürger
+#facs_171_r7l16 und geistliche, welche ihren Wohnsiz ändern, von
+#facs_171_r7l17 allein ihrem durch führenden Haus rath, Le¬
+#facs_171_r7l18 bensmitteln und andere Sachen für ihren
+#facs_171_r7l19 eigenen Hausbrauch, der Zollabgaben zu
+#facs_171_r7l20 Mürten befreyt, und enthoben seyn sollen.
+#facs_171_r7l21 des gleichen soll auch Zollfrey seyn das
+#facs_171_r7l22 baare Geld so durch geführt wird, wie auch die
+#facs_171_r7l23 Nardes, so der Eigenthümer für seine Versohn
+#facs_171_r7l24 bey sich hat; die jenigen Hardes aber, welche
+#facs_171_r7l25 Landsfremden zugehören, und die auf Güter wegen
+#facs_171_r7l26 geführt werden sollen, bezahlen vom Centner 1. Fr
+#facs_171_r7l27 Also von uns den beyden Randen, beschloßen und
+#facs_171_r7l28 gutgeheißen; in Bern den 30ten Januar, und in
+#facs_171_r7l29 Freyburg den 16. Februar 1796
+#facs_98_r5l28 en

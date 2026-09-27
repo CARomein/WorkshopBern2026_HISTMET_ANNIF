@@ -1,0 +1,89 @@
+Law ID: BER.01.001.0947
+Name: Wegen Getreidts.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_484
+# Matched: 78/78
+# High similarity (>=80%): 78
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_67_r3l1 Ann die Theüstsehen Ambtleut zue Erndt Duamset wegen
+#facs_67_r3l2 getreidts etc. Wie auch die W.
+#facs_67_r3l3 Ed. etc. Wie zue allen vndt yeden gewen ein guette Fürstin an¬
+#facs_67_r3l4 Zaußhaltung des Kerne vnd Getreidts halben vomnöten, allso
+#facs_67_r3l5 will dieselbig fürnemlich, vnd vmb so vill meer jetziger zei¬
+#facs_67_r3l6 Ich erforderlich sein, die weill die Erfannung Leiden bezüge,
+#facs_67_r3l7 wie ist allein am benachbarten Ortten, vnß den Landtsverders
+#facs_67_r3l8 ichen Kriegs beschwer lichkeiten Mangell vnd theuwre endt¬
+#facs_67_r3l9 andh, sondern auch gnad Inn vnßer Landtschafft, das Oeten
+#facs_67_r3l10 Den kuntzen Zeit durch der Vsseren vndt benachbarsten vf¬
+#facs_67_r3l11 khauff Inn Vffschlag vndt Verleuerung gerahten, vnd
+#facs_67_r3l12 Sie weill wie nun garüber alle Nachtwendigkeit Inn ge¬
+#facs_67_r3l13 bürendts nachdenen gezogen, beuelchend wie die beuordnen
+#facs_67_r3l14 Ob vnßenen wider den Schedlichen Vff: vndt Fürkhauff
+#facs_67_r3l15 Jüngst erfrischten Mandaten, geflißen vndt vnärerlich
+#facs_67_r3l16 sollten. Demnach den Vorraht so vber die Ordinarii
+#facs_67_r3l17 Puth dem es Jüngst vberschickten berichts) vorhanden
+#facs_67_r3l18 vnandtgentzt vnd vnangriffen verblyben zulaßen, vnd
+#facs_67_r3l19 Innsonderheit innig lichsten fleiß vnd ernst annze wenden
+#facs_67_r3l20 das der Tßstand auch Zinß vnndt Zehndt vonn verschinen
+#facs_67_r3l21 Jahr, ohne venzug Inn geb nacht, vnd zur den vorraht ge¬
+#facs_67_r3l22 legt werde, gestallten bis Inn nechst künfftig en Mensch
+#facs_67_r3l23 alles bey einanderen verhandl vndt gefinden seye, daß
+#facs_67_r3l24 erwendt schlossen, vnßere Körnheußer hin vnd wid¬
+#facs_67_r3l25 vff dem Landt Inn allen Ambtenen durch gewüst
+#facs_67_r3l26 ordnete Vß vnserem Mittell, visitieren vnd erkund¬
+#facs_67_r3l27 laßen, was eigendtlich vnndt Immerck auf den ein¬
+#facs_67_r3l28 und anderen orth ann getreicht schanden, wie dasßes
+#facs_67_r3l29 erahtsamet und beschaffet, wie vns was dem nach
+#facs_67_r3l30 Dryter Wüssend zerichten.
+#facs_67_r3l31 undt die weill letztlichen die erfahrung bezüget,
+#facs_67_r3l32 in guette Zeitt und flossen, ob die berichten beuolchen
+#facs_67_r3l33 nassen von allen orten zusammen gebracht per dl möge:
+#facs_67_r3l34 habend wir vnns alles für ein bestand ehe Ordnung nach
+#facs_67_r3l35 sechen
+#facs_67_r4l1 67.
+#facs_67_r4l2 Das hinfür vnd Inns künfftig alle vnd yede vnß eine Ambt leüth In
+#facs_67_r4l3 Theütschem Landt ebenmessig wie biß gar vonn den Welltschen Ambt
+#facs_67_r4l4 leuten geschechen, schuldig vnd verbundt sein sollend, noch hinleichung
+#facs_67_r4l5 Zehnden allsbaldt vnd vnuenzogen derselben, durch vberschickung
+#facs_67_r4l6 eines Rodells, vnserem Yn moßenden Seebellmeister Theütschen Landts
+#facs_67_r4l7 oberichten, mann sich desselben Inn fürfallenden geschefften wünff
+#facs_67_r4l8 zugebruchen, dann das ist vnß en will, Vnd sollt diese Ordnung
+#facs_67_r4l9 zue deiner vnd dyuer Ambts nach faren bestendigen Nachrichtung den
+#facs_67_r4l10 Mandat Vnd Vnderricht buch ynuerlyben lassen, vff das Jenlich
+#facs_67_r4l11 derob gehalten werde. Datum 7. Januar 1675
+#facs_67_r4l12 PENDIX anno die Teürsch Ambtsch:
+#facs_67_r4l13 Hir neben gesinnend wie ann alle vnsere Teütsche Ambtleut,
+#facs_67_r4l14 ein Verzeichnus zumachen, aller der Jenig en vnd en Ambtleüten, es
+#facs_65_r3l1 b
+#facs_67_r4l16 yen Am an, Meyer, vndervögt vnd Dreybell, hind Jederß in
+#facs_67_r4l17 Ambts verwaltung, denen vonn Ambtswegen, vnßer ihrer
+#facs_17_r1l1 cottl
+#facs_67_r4l19 farb zetragen zusteht vndt gebürt, Vollgendts sollen bericht
+#facs_67_r4l20 Vnserem Teütschen Seekellmeister, schrifftlich vffs fürd er¬
+#facs_67_r4l21 lichst Zeuberschicken, damit die einen vnd anderen ordenlich Inn¬
+#facs_67_r4l22 geschriben werden nie gind. wirst desßhalben ein gleicher, so will
+#facs_67_r4l23 Ambts beeirtt betrifft, wiesßen zeuerrichten datt vt:
+#facs_14_r2l1 E.
+#facs_67_r4l25 Die Teutschen Ambleut ann die Obige Puncten
+#facs_67_r4l26 geschriben worden sindt. etc.
+#facs_67_r4l27 Brandes
+#facs_67_r4l28 Trachsellinalldt
+#facs_67_r4l29 Im
+#facs_67_r4l30 Bungdorff Mangen, Anwangen, Bix etc. Landtshueth,
+#facs_67_r4l31 ouwbrunnen Tonberg. Anburg. Zoffingen Oeconomi
+#facs_67_r4l32 Cantzburg etc. Scheinkenberg. Biberst. Küngsfellden.
+#facs_67_r4l33 Büren. Nidauer
+#facs_67_r4l34 Frienisperg, Arberg
+#facs_67_r4l35 Borthstorff St. Johans Buch sey
+#facs_67_r4l36 Ann die Welltsch. Ambtl. des 2. Punctens halb
+#facs_67_r4l37 Pulach.
+#facs_67_r4l38 Und die weil vnsere Ordnung, werschickung halb der Zehen rödlen vmag, das so liche als bal
+#facs_67_r4l39 Lauppen
+#facs_67_r4l40 nach der hinlychung vnd weill geschechen solle, hat doch die erfaring bezüget, das bald an darin, bald an der
+#facs_67_r4l41 handen das hier in sichetern zweylung vnd vfzugs zugetragen, well vnd derwegen angesezten vnd be¬
+#facs_67_r4l42 wohl haben, das so liches sub künfftig gebossenet, vnd die Zehndrödell fürderlichst müglich nach ver¬
+#facs_67_r4l43 richter hinlychung, hav geschickt pr eind. Datum 7. Janu: 1635

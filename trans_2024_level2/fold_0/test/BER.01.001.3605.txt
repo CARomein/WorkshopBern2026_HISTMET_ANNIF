@@ -1,0 +1,164 @@
+Law ID: BER.01.001.3605
+Name: Sie verwahrnen, keine Kinder, deren Elteren unbewusst aufzunemmen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_494
+# Matched: 153/153
+# High similarity (>=50%): 144
+# Low similarity (<50%): 9
+# Not found: 0
+#
+#facs_15_r2l1 An Alle T. und W. Ambtleuth
+#facs_15_r2l2 4. Stück, Freybeibel und
+#facs_15_r2l3 Amman.
+#facs_15_r2l4 Die Werbahnen, keine Kinder,
+#facs_15_r2l5 deren Eltern Unbelbußt
+#facs_15_r2l6 aufzimmerungen.
+#facs_15_r2l7 Schultheiß und Raht
+#facs_15_r2l8 Was für ein Einsehen Wir Bider die eine
+#facs_15_r2l9 Zeith daher beobachtete betriegerey vor¬
+#facs_15_r2l10 zu kehren bemüßiget gebesen, da lieblose
+#facs_15_r2l11 Eltern oder andere Kinder hin und
+#facs_15_r2l12 Ewr zu deren Erhaltung verdingen,
+#facs_15_r2l13 nachbehrts sich äußeren, und also die Unstern
+#facs_15_r2l14 gen in Verlugt sezen; das dießdu auß
+#facs_15_r2l15 mitkommens getrübter Ordnung in
+#facs_15_r2l16 mehrerem zu ersehen haben, wovon
+#facs_15_r2l17 Wir dir hiemit gungsame exemplar
+#facs_15_r2l18 zusenden, und befehlen sollen, unsere
+#facs_15_r2l19 tillen zu mäniglichs verhalt von Canzle¬
+#facs_15_r2l20 verbünden, und den genennen zustellen,
+#facs_15_r2l21 zu laßen. Dat. d. 9ten Dec: 1729.
+#facs_15_r3l1 Placcard.
+#facs_15_r3l2 W.a (Schullheiß und Rast der Stall Derre)
+#facs_15_r3l3 Thund kund hiemith: Dehnmach Wir Jahr¬
+#facs_15_r3l4 nemen müßen, daß von Zeith zu zeit, und
+#facs_15_r3l5 3bar ich länger jeh öffer sich in Unseren Lan¬
+#facs_15_r3l6 den Zutragt, daß Junge Kinder von dersel¬
+#facs_15_r3l7 chen ofersohnen zu Zehmanden verdingt.
+#facs_15_r3l8 werden, und Lieblosen deren Elteren
+#facs_15_r3l9 falsche nahmen zulegen, so dan sich fortmachen
+#facs_15_r3l10 und solche Kinder denen, So die bey Ihnen
+#facs_15_r3l11 verdinget, auf dem halß laßen, Alß habend
+#facs_15_r3l12 Wir nöhtig funden, hiemit alle unsere Ange¬
+#facs_15_r3l13 sorige zu Statt und Land zu verbahrnen,
+#facs_15_r3l14 ich hinführo keiner dergl. Finderen zu beladen
+#facs_15_r3l15 Die haben dan Ihre nöhtige Sicherheit gegen
+#facs_15_r3l16 denen, so Sie Ihnen übergeben, also ge¬
+#facs_15_r3l17 nommen, daß nit zu befahren, das Ihnen
+#facs_15_r3l18 das Tischgelt zurut, oder die Kinder auf
+#facs_15_r3l19 dem Halß bleiben, wirrigen fahls sie solche
+#facs_15_r3l20 selbsten, oder im Fahl nit vermögens die
+#facs_15_r3l21 gemeinen, alwo diesere Kinder Verdin¬
+#facs_16_r3l1 get worden, zur Besorgung auffallen der¬
+#facs_16_r3l2 den: Bestalten auch den Gemeinde
+#facs_16_r3l3 obligen soll, die fleisige Aufsicht zu haben,
+#facs_16_r3l4 und zu bestellen, daß keine dergleichen
+#facs_16_r3l5 Wieder zue genugsame Sicherheit bey
+#facs_16_r3l6 geduldet verdind; daßen
+#facs_16_r3l7 _
+#facs_16_r3l8 Wir hiemit jedermänniglich, umb
+#facs_16_r3l9 Geschichte vor schaden zu seyn, zum
+#facs_16_r3l10 verhalt verständigen Vollen
+#facs_16_r3l11 An Alle T. Ambtleuth.
+#facs_16_r3l12 Ihnen zu Ablag Ihrer
+#facs_16_r3l13 Ambts Rechnungen
+#facs_16_r3l14 Tag ansezen
+#facs_16_r3l15 Buchsee Süren
+#facs_16_r3l16 Erlach
+#facs_16_r3l17 Landshuet Vidaus
+#facs_16_r3l18 6
+#facs_16_r3l19 tserberg
+#facs_16_r3l20 Burgdorff Laupen Wangen
+#facs_16_r3l21 Aarberg St. Johansen Ripp
+#facs_16_r5l1 27
+#facs_16_r5l2 Aarbangen, Thun
+#facs_16_r5l3 Lentburg
+#facs_16_r5l4 Brandis
+#facs_16_r5l5 .
+#facs_16_r5l6 Trachselwald
+#facs_16_r5l7 hlen.
+#facs_16_r5l8 Fraubbronnen Arburg
+#facs_16_r5l9 Kongsfelden
+#facs_16_r5l10 Dumißbald Schenbenberg
+#facs_16_r5l11 Kriensberg
+#facs_16_r5l12 Stiffalhier Hiberstein
+#facs_16_r5l13 Schultheis und Raht
+#facs_16_r5l14 Wir haben zu Ablag Deiner heurigen Amts¬
+#facs_16_r5l15 Rechnung der Tag bestimt
+#facs_16_r5l16 Rechtkünfftig, mit befelch, Deine Rechnung
+#facs_16_r5l17 biß dahin samt dem queßen Rodel Johl
+#facs_16_r5l18 specificiert, bohar jede Zueß fließe, item
+#facs_16_r5l19 die Zehnde Zinsen Haus Raht, und munition
+#facs_16_r5l20 Ködel, die auch eine Verzeichnuß, das
+#facs_16_r5l21 für, die viel, die theur, ausen, zu das
+#facs_16_r5l22 Zeiten und auf welchen Märiten? Du getreid
+#facs_16_r5l23 habest verbauffen lasen, also fertig zu halten
+#facs_16_r5l24 daß auf obbestimte Tag du Kelbe ablegen,
+#facs_16_r5l25 Zuvor aber unsere Jürgel. mit Raffen Teulschen
+#facs_16_r5l26 2. et 1. eingaben, und der Belehreiberey.
+#facs_16_r5l27 Communiciere gewest. Dat. d. 9ten Dec. 1729.
+#facs_17_r1l1 28
+#facs_17_r1l2 ob id
+#facs_17_r1l3 Collath
+#facs_17_r2l1 Dienaus Underseen
+#facs_17_r2l2 Zweysimmer
+#facs_17_r2l3 oberhoffen Wimiß
+#facs_17_r2l4 Deuen
+#facs_17_r2l5 reitigen Interlaben.
+#facs_17_r2l6 Schultheis und Raht
+#facs_17_r2l7 Vor jeden zu Ablag Deiner Heürigen Amts¬
+#facs_17_r2l8 Rechnung Dir tag bestimmt
+#facs_17_r2l9 nechstünffig, mit befelch, deine Rechnung
+#facs_17_r2l10 biß dahin samt dem Qußen Rodel Wohl Speci¬
+#facs_17_r2l11 ficiert, whar jede gueß fließe, also fer¬
+#facs_17_r2l12 tig zu halten, daß auf obbestimten Tag
+#facs_17_r2l13 du selbige ablegen, zuvor aber unsere
+#facs_17_r2l14 Pürgel. Witt Rähten Teütsch debelmeister
+#facs_17_r2l15 und Venner mit den Haus Raht
+#facs_17_r2l16 und munition Rödlen Eingeben
+#facs_17_r2l17 und der Seleltehreiberey Comunicieren
+#facs_17_r2l18 könnte. Datz ut supra
+#facs_17_r3l1 = ob id
+#facs_17_r3l2 Collary
+#facs_17_r5l1 29
+#facs_17_r5l2 Johanß Hauß
+#facs_17_r5l3 Kornherr
+#facs_17_r5l4 Interlaberhaus
+#facs_17_r5l5 Rodtstatt
+#facs_17_r5l6 Krienspferg Hauß
+#facs_17_r5l7 Zödingen
+#facs_17_r5l8 Hausherr von Hürgeren
+#facs_17_r5l9 Schultheiß und Raht
+#facs_17_r5l10 Wir haben zu Ablag deiner heurigen Amtskochen
+#facs_17_r5l11 nung dir hiemit tag bestimt
+#facs_17_r5l12 nechstbünfftig, mit befelch, Deine Rechnung
+#facs_17_r5l13 Amt dem HausRaht Rodel, die auch eine ver¬
+#facs_17_r5l14 Grichnuß, das für, die viel, die theur, an
+#facs_17_r5l15 ten, zu bas Zeiten, und auf welchen Mariten
+#facs_17_r5l16 du getreid habeß verbauffen laßen, also fer¬
+#facs_17_r5l17 tig zu halten, daß auf bestimten tag du
+#facs_17_r5l18 Edelbe ablegen, bevordert aber Unseren fürge.
+#facs_17_r5l19 WietRähten T. R. A. S. ringeben, und
+#facs_17_r5l20 der Teütschen Debelschreiberey communicie¬
+#facs_17_r5l21 ren könnte. Dat. d. 9ten Dec. 1729.
+#facs_18_r1l1 30.
+#facs_18_r1l2 obid
+#facs_18_r1l3 Collat
+#facs_18_r2l1 Heckisdeil
+#facs_18_r2l2 Wußhafen
+#facs_18_r2l3 Siechenhauß
+#facs_18_r2l4 Jasull
+#facs_18_r2l5 Krost Spithal.
+#facs_18_r2l6 Schultheiß und Raht
+#facs_18_r2l7 Wir jeden zu Ablag Deiner Heürigen
+#facs_18_r2l8 Ambts Rechnung die Tag bestimmt.
+#facs_18_r2l9 nechstkünfftig, mit befelch, deine
+#facs_18_r2l10 Rechnung also fertig zu halten, daß
+#facs_18_r2l11 In Selbige auf obbestimten Tag ab¬
+#facs_18_r2l12 legen, bevorderst aber Unseren
+#facs_18_r2l13 fürgel. Wirt Rähten Teutsch debel¬
+#facs_18_r2l14 Weister und venieren eingeben, und
+#facs_18_r2l15 der Teütschen Nebel Schreiberey comu¬
+#facs_18_r2l16 nicieren Pörngs. Dat. d. 9ten Dec. 1729.

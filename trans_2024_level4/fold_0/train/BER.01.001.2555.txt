@@ -1,0 +1,22 @@
+BER.01.001.2555
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 13/13
+# High similarity (>=50%): 12
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_47_r2l1 An alle K. Ambtleicht und 4. Stätt.
+#facs_47_r2l2 Item per placcard allhier in der Statt.
+#facs_47_r2l3 Die zinleihung der Zöllen auf den 5ten
+#facs_47_r2l4 Junii publiciren.
+#facs_47_r2l5 Statthalter und Kast der Statt Bärre
+#facs_47_r2l6 Vor unseren fürgeliebten Mitkähten 21. Q. et T. werden auf
+#facs_47_r2l7 flünffligen 5ten Tag Juny nachfolgende Zöll und gleit Vnsers Teütß
+#facs_47_r2l8 Lands verlichen und dem höchst pietenden hingegeben werden; deßen
+#facs_47_r2l9 Nach gleich gegen übrigen Vnseren Ambtheichten auch beschicht, hiemit
+#facs_47_r2l10 nachrichtlich verstendigen wollen, mit Befelch, disere Einleihung
+#facs_47_r2l11 Von Canzlen publiciren zelaßen, damit sich jedermänglich, so lust
+#facs_47_r2l12 sich önten hätte, darnach zurichten Wüße. Gott mit dir. Datum
+#facs_47_r2l13 23. May 1694.

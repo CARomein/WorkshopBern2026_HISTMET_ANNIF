@@ -1,0 +1,192 @@
+Law ID: BER.01.001.4700
+Name: Verordnung wegen den Markt Patenten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 181/181
+# High similarity (>=50%): 181
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_57_r4l1 107
+#facs_57_r4l2 Verordnung wegen den Markt Patenten
+#facs_57_r4l3 An
+#facs_57_r4l4 alle deutsche Herren Amtleute 4 Städt,
+#facs_57_r4l5 Freyweibel und Ammann
+#facs_57_r4l6 Schultheis Räth und Burger etc.
+#facs_57_r4l7 Wir befehlen Euch die von uns unter
+#facs_57_r4l8 heutigem Dato ausgegebene Verordnung
+#facs_57_r4l9 wegen den Marletpatenten für fremde,
+#facs_57_r4l10 Eydgnoßen und Einheimische, behöriger
+#facs_57_r4l11 maßen bekanntmachen zu laßen, und
+#facs_57_r4l12 Hand abzuhalten daß deme nachgelebt
+#facs_57_r4l13 werde. p Datum den 6ten Juny 1792.
+#facs_57_r4l14 Verordnung
+#facs_57_r4l15 Werk Schultheiss Klein und
+#facs_57_r4l16 Große Räthe der Stadt und Republik
+#facs_57_r4l17 Bern, thun kund hiermit: daß Wir
+#facs_57_r4l18 aus landes väterlichen Absichten, für das
+#facs_57_r4l19 allgemeine Beste, aus Liebe zu öffent¬
+#facs_57_r4l20 licher Ordnung und Sicherheit, und zu
+#facs_57_r4l21 mehrerer
+#facs_58_r2l1 mehrerer Begünstigung der um¬
+#facs_58_r2l2 laudischen Handlung gutbefunden
+#facs_58_r2l3 für die Zurunft zu verordnen.
+#facs_58_r2l4 1
+#facs_58_r2l5 Gleichwie Wir allen rechtschaffenen
+#facs_58_r2l6 einheimischen, eyd gnösischen und
+#facs_58_r2l7 fremden Kaufleuten und Kramern
+#facs_58_r2l8 die ihre Waaren mit gewohnten öf¬
+#facs_58_r2l9 fentlichen Fuhrwerken durch die
+#facs_58_r2l10 Landstraßen und Kaufhaüser gehen
+#facs_58_r2l11 laßen, ferners bewilligen, nemlich
+#facs_58_r2l12 den erstern die Jahrmärkte in
+#facs_58_r2l13 Städten und Dörfern, leztern aber
+#facs_58_r2l14 nur die Jahrmärkte der Städte zu
+#facs_58_r2l15 besuchen; als haben Wir hingegen
+#facs_58_r2l16 allen kleinen Standkrämern ohne
+#facs_58_r2l17 ausnahme, welche ihre Waare
+#facs_58_r2l18 nur mit eigenen kleinen Fuhrwerben,
+#facs_58_r2l19 oder auf dem Rücken ins Land bringen
+#facs_58_r2l20 und mit keinen Patenten von Unfern
+#facs_58_r2l21 Commercien Rath versehen sind,
+#facs_58_r2l22 = dem
+#facs_58_r3l1 109
+#facs_58_r3l2 = dem die Ertheilung derselben einzig
+#facs_58_r3l3 und allein zuvormut, allen Aufent¬
+#facs_58_r3l4 halt und Verkauf ihrer Waaren, an¬
+#facs_58_r3l5 und ausser denen Jahrmärkten der
+#facs_58_r3l6 Städte und Dörfer, unter hienach be¬
+#facs_58_r3l7 stimter Strafe untersagt:
+#facs_58_r3l8 2.) Es werden daher alle einheimische
+#facs_58_r3l9 Landkramer, so nicht in die Categorie
+#facs_58_r3l10 der großen obbestimmten Kaufleute
+#facs_58_r3l11 gehören, unter lebenslängliche Patenten
+#facs_58_r3l12 gesezt und dazu angehalten werden,
+#facs_58_r3l13 ihre Waaren bey den Bürgern und
+#facs_58_r3l14 Handelsleuten der Städte des Landes
+#facs_58_r3l15 doch soll ihnen auch
+#facs_58_r3l16 anzuleaufen.
+#facs_58_r3l17 bewilliget seyn, dieselben auf den
+#facs_58_r3l18 Jahrmärkten bemeldter Städte bey den
+#facs_58_r3l19 fremden Krämern sich anzuschaffen
+#facs_58_r3l20 3°) daß nur diejenigen eydgnößische
+#facs_58_r3l21 kleine Standkramer mit solchen Patenten
+#facs_58_r3l22 Verstehen werden sollen, in deren Löbl.
+#facs_58_r3l23 Ständen man auch dergleichen Patenten
+#facs_58_r3l24 ertheilt. Welche Ertheilung aber nur
+#facs_58_r3l25 = so
+#facs_59_r2l1 so lange dauren wird, als Patenten
+#facs_59_r2l2 in diesen Lobl.en Ständen auch an
+#facs_59_r2l3 Unsere angehörige werden abge¬
+#facs_59_r2l4 geben werden.
+#facs_59_r2l5 Was aber
+#facs_59_r2l6 diejenigen Eydgnoßen anbetrift¬
+#facs_59_r2l7 in deren Canton keine Markt Pa=
+#facs_59_r2l8 tenten werden ertheilt werde.
+#facs_59_r2l9 als sollen dieselben Unsere öffent¬
+#facs_59_r2l10 lichen Jahrmärkte in den Städten
+#facs_59_r2l11 frey, ungehindert und impatentirt
+#facs_59_r2l12 besuchen dörfen.
+#facs_59_r2l13 Es soll ihnen
+#facs_59_r2l14 aber gänzlich untersagt seyn, den
+#facs_59_r2l15 Wochen= Vieh= und Dorfmärkten
+#facs_59_r2l16 mit ihren Waaren nachzugehen.
+#facs_59_r2l17 Sie sollen auch nicht hausiren, und
+#facs_59_r2l18 ihre Herberge nur in öffentlichen
+#facs_59_r2l19 Wirthshäusern nehmen. Feruert
+#facs_59_r2l20 ihre Waaren durch gewohnte Fuhren
+#facs_59_r2l21 offene Landstraßen und Kaufhaüfer
+#facs_59_r2l22 gehen laßen; solche behörig an:
+#facs_59_r2l23 zeigen und verzollen. Auf denen
+#facs_59_r2l24 Messen und Märkten der Städte
+#facs_59_r2l25 = dann
+#facs_59_r3l1 111.
+#facs_59_r3l2 dann, solche an denen ihnen angewiesen
+#facs_59_r3l3 senen Orten feil halten, keineswegs
+#facs_59_r3l4 aber den Häusern nach herumtragen,
+#facs_59_r3l5 auch zu Ende derselben sofort wieder
+#facs_59_r3l6 empaken und abführen laßen; nur
+#facs_59_r3l7 solche Waaren führen, die zu verkaufen
+#facs_59_r3l8 erlaubt sind, und keine deren Ausfuhr
+#facs_59_r3l9 Verbotten ist, im Lande aufkaufen
+#facs_59_r3l10 und heimlich oder öffentlich daraus führen
+#facs_59_r3l11 oder versenden, und sich an Sonn- und
+#facs_59_r3l12 festtagen alles Gewerbs müßigen
+#facs_59_r3l13 4°) Alle fremde kleine Standkrämer,
+#facs_59_r3l14 die nicht unter die obbestimmten großen
+#facs_59_r3l15 Kaufleute gehören, sollen mit lebens
+#facs_59_r3l16 länglichen Patenten für die Besuchung
+#facs_59_r3l17 der öffentlichen Jahrmärkte in den
+#facs_59_r3l18 Städten versehen werden, unter aus¬
+#facs_59_r3l19 drüklichem Verbott, mit ihren Waaren
+#facs_59_r3l20 die Wochen- Vieh- und Dorfmärkte zu
+#facs_59_r3l21 besuchen
+#facs_59_r3l22 5) Soll Unsern Bürgern und Unter¬
+#facs_59_r3l23 thanen aller Verkauff und Commissionen
+#facs_59_r3l24 = handel
+#facs_60_r2l1 handel für Rechnung von fremden
+#facs_60_r2l2 Kaufleuten, es sey daß sie ihnen
+#facs_60_r2l3 Waaren zusenden, oder solche zu
+#facs_60_r2l4 Ende der Messen und Märkten
+#facs_60_r2l5 der Städte zurüklassen würden
+#facs_60_r2l6 bey Straffe der Confiscation ver
+#facs_60_r2l7 botten bleiben, und die Kaufleute,
+#facs_60_r2l8 welche von einer Messe oder Jahr-
+#facs_60_r2l9 markt zum andern, irgendwo in
+#facs_60_r2l10 den Stadten Unserer Landen Waaren
+#facs_60_r2l11 hinterlaßen würden, angehalten
+#facs_60_r2l12 werden, solche anzuzeigen und in
+#facs_60_r2l13 die Kaufhaüser zu legen, oder in
+#facs_60_r2l14 verschloßenen Magazinen zu laßen,
+#facs_60_r2l15 und die Schlüssel denen Kaufhaus.
+#facs_60_r2l16 Verwaltern oder Zoll Commissen
+#facs_60_r2l17 zuzustellen.
+#facs_60_r2l18 Für die Erhaltung den nöthigen
+#facs_60_r2l19 Patenten dann, werden die zu
+#facs_60_r2l20 patentirenden Fremden, Eydgnoßen
+#facs_60_r2l21 und Landkrämer, ehe und bevor
+#facs_60_r2l22 sie die Märkte besuchen, sich bey
+#facs_60_r2l23 = Unserm
+#facs_60_r4l1 113
+#facs_60_r4l2 Unserm Commercien-Rath anmelden,
+#facs_60_r4l3 dem die Ertheilung derselben allein
+#facs_60_r4l4 obliegt. Alles bey Strafe von 20.
+#facs_60_r4l5 Pfunden für das erste, 40 Pfunden
+#facs_60_r4l6 für das zweyte, und noch schärferer
+#facs_60_r4l7 Ahndung oder wohl gar Confiscation
+#facs_60_r4l8 der Waare für das dritte und übrige
+#facs_60_r4l9 male; davon ein Drittel uns ver¬
+#facs_60_r4l10 rechnet werden, der zweyte Drittel
+#facs_60_r4l11 dem Richter des Orts, und der dritte
+#facs_60_r4l12 dem Verleider heimdienen soll.
+#facs_60_r4l13 Wir tragen Unserm Commercien.
+#facs_60_r4l14 Rath hiemit auf, die Ober Aufsicht zu
+#facs_60_r4l15 Ausübung dieser Verordnung in sämt¬
+#facs_60_r4l16 lichen Unsern deutschen Städten und
+#facs_60_r4l17 Landen überhaupt zu besorgen, und
+#facs_60_r4l18 alles das zu veranstalten, was zu
+#facs_60_r4l19 Erfüllung derselben gereichen kan.
+#facs_60_r4l20 Derselbe soll in der Hauptstadt und
+#facs_60_r4l21 deren Bezirk, wie auch in denen Land¬
+#facs_60_r4l22 grichten, so nicht unter Obrigkeitlichen
+#facs_60_r4l23 Oberamtleuten stehen, in denen übrigen
+#facs_60_r4l24 = Städten
+#facs_61_r2l1 Wittm und Aemtern aber Unsere
+#facs_61_r2l2 amtleute, denen Wir die Execution
+#facs_61_r2l3 auftragen, in erster Instanz
+#facs_61_r2l4 zurtheilen, und der beschwerenden
+#facs_61_r2l5 Partey den Recurs vor Unseren
+#facs_61_r2l6 täglichen Rath gestatten,
+#facs_61_r2l7 Welche Unsere Verordnung,
+#facs_61_r2l8 in Aufhebung des Manufaktur.
+#facs_61_r2l9 Mandats von 1719 und der
+#facs_61_r2l10 Hausier Ordnungen von 1785
+#facs_61_r2l11 und 1789, zu jedermanns Nach¬
+#facs_61_r2l12 richt von Kanzlen verlesen und
+#facs_61_r2l13 gewohnter Orten angeschlagen werden
+#facs_61_r2l14 toll.
+#facs_61_r2l15 Beben in Unserer Großen
+#facs_61_r2l16 Raths Versamlung den 6ten
+#facs_61_r2l17 Crachmonat 1792.

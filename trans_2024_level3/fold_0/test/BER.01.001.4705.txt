@@ -1,0 +1,37 @@
+Law ID: BER.01.001.4705
+Name: Verordnung wegen den kaiserlichen und französischen Deserteürs.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 26/26
+# High similarity (>=50%): 25
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_101_r3l12 An alle d. u. W. Herren Amtleut, 4 Städt
+#facs_101_r3l13 Freylreibel und Ammann
+#facs_101_r3l14 Verordnung
+#facs_101_r3l15 wegen den Kaiserlichen und französischen
+#facs_101_r3l16 deserteurs
+#facs_101_r3l17 Schultheis und Rath und
+#facs_101_r3l18 Es ist uns einberichtet worden,
+#facs_101_r3l19 daß sehr viele fremde Deferteurs
+#facs_101_r3l20 sowohl Kaiserliche als französische
+#facs_101_r3l21 sich gegenwärtig in die Schweiz be¬
+#facs_101_r3l22 geben. Damit nun dieses auf die
+#facs_101_r3l23 offentliche Sicherheit keinen nachthei¬
+#facs_101_r3l24 ligen Einfluß habe, so werdet Ihr
+#facs_101_r3l25 deßen andurch berichtet um genau
+#facs_101_r3l26 = acht
+#facs_101_r4l1 Coll
+#facs_101_r6l1 195
+#facs_101_r6l2 2) Acht auf diese Deserteurs halten zu laßen,
+#facs_101_r6l3 und die Anstalten zu treffen, daß sie sich
+#facs_101_r6l4 in Unsern Landen gar nicht verweilen
+#facs_101_r6l5 sondern sogleich weiter gewiesen, oder je
+#facs_101_r6l6 nach den Umständen, im Fall sie nicht
+#facs_101_r6l7 eydgenößische Angehörige waren selbst
+#facs_101_r6l8 weiter- oder nach Bewandtnis der Sachen
+#facs_101_r6l9 gar wieder zurükgeführt werden.
+#facs_101_r6l10 Datum den 7ten Januar 1793.

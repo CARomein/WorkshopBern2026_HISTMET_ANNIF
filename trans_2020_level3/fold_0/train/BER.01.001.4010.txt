@@ -1,0 +1,155 @@
+Law ID: BER.01.001.4010
+Name: Münz Mandat.
+
+#facs_121_r3l24 Ctat.
+#facs_122_r1l1 204
+#facs_122_r1l2 sollet.
+#facs_122_r2l1 Ans.
+#facs_122_r2l2 Des Soldats Invalides du Louable canton
+#facs_122_r2l3 de Berne, qui peuvent se presenter a
+#facs_122_r2l4 Lambassade du Joy, en Caifse à Soleure
+#facs_122_r2l5 pour q. recevoir leurs pensions nour àtince
+#facs_122_r2l6 175d. seux de ces Invalides qui ne pourront
+#facs_122_r2l7 se rendre a Soleure pourrent faire recevos
+#facs_122_r2l8 pour eus moyenant un acte dexistance
+#facs_122_r2l9 dans les formes.
+#facs_122_r2l10 Lausane.
+#facs_122_r2l11 Abraham de Palles de Pausane
+#facs_122_r2l12 Lauisse Canton
+#facs_122_r2l13 Jacob Joney d'emriette Paillage de
+#facs_122_r2l14 e Berne
+#facs_122_r2l15 Hlans Muller de Canen. idem
+#facs_122_r2l16 trach lelwald
+#facs_122_r2l17 Flans Schild de Schangneut isem
+#facs_122_r2l18 ilden
+#facs_122_r2l19 Abraham Mogenier de Mezierez idem
+#facs_122_r2l20 arrauls
+#facs_122_r2l21 Jacob hirt Dannaui idem
+#facs_122_r2l22 aß r.
+#facs_122_r2l23 famuel meyer de Borne I. au h
+#facs_122_r2l24 eeten
+#facs_122_r2l25 daen Bierre Bioat de Gerget idem
+#facs_122_r2l26 Morser
+#facs_122_r2l27 Plense anselme de lille jdem.
+#facs_122_r2l28 Magten
+#facs_122_r2l29 Samuel Fouble de mounte, jidem
+#facs_122_r2l30 tseue.
+#facs_122_r2l31 Daniel Schneider de Thoun. jdem
+#facs_122_r2l32 Perter
+#facs_122_r2l33 harles Beand de Rence. jdem
+#facs_122_r2l34 iendelban
+#facs_122_r2l35 Denediet Rohrer durtenris
+#facs_122_r3l1 2331
+#facs_122_r3l2 Caulel Arpeau de Cursin, dem
+#facs_122_r3l3 omeunmotier
+#facs_122_r3l4 denedict spring de feisen, idem
+#facs_122_r3l5 Diesbache
+#facs_122_r3l6 bieire Goc. de Vaulion idem.
+#facs_122_r3l7 Homainmotier.
+#facs_122_r3l8 biere adam faire di porau idend
+#facs_122_r3l9 Grandson.
+#facs_122_r3l10 derre frandenbach de Souoniswald gdem
+#facs_122_r3l11 dimisal
+#facs_122_r3l12 qathus Scheller de Wildensttin idem
+#facs_122_r3l13 Wildenstein.
+#facs_122_r3l14 Rodolpt Hoffman de Rellen idem.
+#facs_122_r3l15 Lenzburg
+#facs_122_r3l16 Johianes gnanti de Lupfing idem
+#facs_122_r3l17 löngsfelden.
+#facs_122_r3l18 Georg Meusnier de Feberg. Idem
+#facs_122_r3l19 Wangen.
+#facs_122_r3l20 Daniel Du Clos de Villars, idem.
+#facs_122_r3l21 Morster.
+#facs_122_r3l22 abratiam Cumer dutisdonff idem
+#facs_122_r3l23 thun.
+#facs_122_r3l24 Jacob Hirsehig de Amseldingen. Idem.
+#facs_122_r3l25 un
+#facs_122_r3l26 lan Baptisse de Boneville de Gimel, dem
+#facs_122_r3l27 Morser.
+#facs_122_r3l28 Philipe de la jous de Cullu. idem
+#facs_122_r3l29 Lausane
+#facs_122_r3l30 aques propre de Copet, idem.
+#facs_122_r3l31 Nenbos.
+#facs_122_r3l32 Romainmotier
+#facs_122_r3l33 rbrahiam sugnys de Larzarat, idem
+#facs_122_r3l34 
+#facs_122_r3l35 Signaulo
+#facs_122_r3l36 Jonas Ramseyer de Gross hochotette idem
+#facs_122_r3l37 danen
+#facs_122_r3l38 cibraham le noit de Chatiau dais, jdem
+#facs_122_r3l39 Interlaken.
+#facs_122_r3l40 Cristien fentz de Grindelwald jdem
+#facs_122_r3l41 pangen
+#facs_122_r3l42 Nclaus Giolocher de Hertogbouchoy idem.
+#facs_122_r3l43 Elau.
+#facs_122_r3l44 Jacharie Ruentz de Cerlier jdem.
+#facs_122_r3l45 burgwete
+#facs_122_r3l46 Gaspard Grueb de Lottweil, jdem
+#facs_122_r3l47 trachfelbald
+#facs_122_r3l48 Gaspard Waller d'hub. jdem
+#facs_123_r3l1 andre Cles de Fance idem. Gfterten.
+#facs_123_r3l2 habriel Truuyan de Vaterbes. jdem. Romaenmolum
+#facs_123_r3l3 Danud Recolas dacard Su froga idem Ifferten,
+#facs_123_r3l4 David Nicolas Vautraver de Champagne, idem
+#facs_123_r3l5 Grandson.
+#facs_123_r3l6 27. N.
+#facs_123_r3l7 Ans
+#facs_123_r3l8 Alle J. ambtbeath 4. statt Freyle.
+#facs_123_r3l9 und Aucan, teslent Aarbinge
+
+#facs_123_r3l10 Muntz mandat
+#facs_123_r3l11 Beltis und Rachte
+#facs_123_r3l12 E.Dachdemme uuß der sichere bericht
+#facs_123_r3l13 engekommen was maßen die
+#facs_123_r3l14 Schlechte Reichs, und andere geringe
+#facs_123_r3l15 hältige Munhee jeh mehr und nehr
+#facs_123_r3l16 in unsere land geworfen, mitlß
+#facs_123_r3l17 dleßen aber zu steigerung der sille
+#facs_123_r3l18 und gold vorten nit wenig anlaßen
+#facs_123_r3l19 gegeben werde und hierinn vielers
+#facs_123_r3l20 Mißbrauch also eingerißen, daße
+#facs_123_r4l1 235
+#facs_123_r4l2 Wir Auß nunngänglich bemüßiget
+#facs_123_r4l3 sehen das fernere einstehen darwieder
+#facs_123_r4l4 zu thun, Als wollend wir zu dem end,
+#facs_123_r4l5 nach dem exempel benachbahrter Eydt¬
+#facs_123_r4l6 gnoßischen loben ohrten nicht mir aller
+#facs_123_r4l7 reichsmunz, sonderen auch benanten
+#facs_123_r4l8 die Wurtemberg Badendurlach und
+#facs_123_r4l9 Schwabische künfzehen Erruher, stuck und
+#facs_123_r4l10 groschen der in unseren teütschen banden
+#facs_123_r4l11 und herrschafften, ein vor alle mahl ver
+#facs_123_r4l12 rußen und deren furs wie hiemit
+#facs_123_r4l13 beschicht, verbotten haben bey ohnableßiger
+#facs_123_r4l14 Straff der Consiseaiion und 24 lb Buß
+#facs_123_r4l15 wofern aber der fehlbahre im unver¬
+#facs_123_r4l16 machen die buß zubefahlen, soll Er
+#facs_123_r4l17 darfür mit gefangenschafft a 4 lb
+#facs_123_r4l18 per 24. Stand gerechnet, angestehen
+#facs_123_r4l19 werden Weilen auch aus diesem
+#facs_123_r4l20 anlaß wir unß erinneren der wiederhalten
+#facs_123_r4l21 Verordnung s wegen denen gering-
+#facs_123_r4l22 heltigen und verrußenen Erdtgnoßischen
+#facs_123_r4l23 Dchryd, Munzen ausgangen als Qucerner,
+#facs_124_r2l1 Arner-Unterwaldner-Ergburger
+#facs_124_r2l2 und Wallister munz etc thund uier
+#facs_124_r2l3 Unseren angehörigen durchgehendts
+#facs_124_r2l4 hiemit alles ernsts verwahrnen
+#facs_124_r2l5 und Ihnen einfcharpfen sich solchern
+#facs_124_r2l6 bestmöglich und zbar biß ersten
+#facs_124_r2l7 Julu. nechstkünfftig abzuthune
+#facs_124_r2l8 als bis dahin wir darzu dermin
+#facs_124_r2l9 vergont haben wollend nach der Zeit
+#facs_124_r2l10 aber soll mit execution der Mandate
+#facs_124_r2l11 ohne Schonen fortgefahren werden
+#facs_124_r2l12 Wir befehlend Euch (:gleich all übrigen
+#facs_124_r2l13 unseren ambtruthen und statten
+#facs_124_r2l14 j. Landen) Bothanes Schreiben
+#facs_124_r2l15 fürderlich zu manign nachricht
+#facs_124_r2l16 und verhalt von Crehlen verleßen,
+#facs_124_r2l17 und gewohnter ohrten anschlagen
+#facs_124_r2l18 zn lasen mithin Eübers Theils,
+#facs_124_r2l19 daß demme nachgelebt werde, pflichte
+#facs_124_r2l20 mäsige hand abzuhalten. Maßen
+#facs_124_r2l21 geschehen werde wir Auß verstehens
+#facs_124_r2l22 Datu d. 20. May. 1752

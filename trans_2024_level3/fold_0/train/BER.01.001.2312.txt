@@ -1,0 +1,159 @@
+Law ID: BER.01.001.2312
+Name: Dass der Märit so sonst auff die h. Wiehnacht fallen würde auf Donstag hernach gesetzt worden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 148/148
+# High similarity (>=50%): 128
+# Low similarity (<50%): 20
+# Not found: 0
+#
+#facs_362_r3l1 zu
+#facs_362_r3l2 Im anderen Thäl Hüg
+#facs_362_r3l3 Die 4. Kilchspähl
+#facs_362_r3l4 des Landgrichts Konolfinus
+#facs_362_r3l5 29
+#facs_362_r3l6 künsigen
+#facs_362_r3l7 55
+#facs_362_r3l8 Bollingen
+#facs_362_r3l9 36
+#facs_362_r3l10 déßbai
+#facs_362_r3l11 11
+#facs_362_r3l12 7
+#facs_362_r3l13 Stettlan
+#facs_362_r3l14 Viehtrag
+#facs_362_r3l15 Im oberen Theil des Land
+#facs_362_r3l16 1
+#facs_362_r3l17 versigen.
+#facs_362_r3l18 richts Zolligkoffen
+#facs_362_r3l19 18
+#facs_362_r3l20 März
+#facs_362_r3l21 17
+#facs_362_r3l22 remgarten
+#facs_362_r3l23 Im Landgricht Sepfftige
+#facs_362_r3l24 -
+#facs_362_r3l25 18½
+#facs_362_r3l26 K reekilisen
+#facs_362_r3l27 48
+#facs_362_r3l28 -
+#facs_362_r3l29 Belx
+#facs_362_r3l30 Kilislindach
+#facs_362_r3l31 15 x
+#facs_362_r3l32 Wattenwyll
+#facs_362_r3l33 7
+#facs_362_r3l34 wohlen
+#facs_362_r3l35 40
+#facs_362_r3l36 schupfen
+#facs_362_r3l37 Thurnen
+#facs_362_r3l38 38
+#facs_362_r3l39 c.
+#facs_362_r3l40 eedorff.
+#facs_362_r3l41 Puegisser
+#facs_362_r3l42 25
+#facs_362_r3l43 1s
+#facs_362_r3l44 Serenbalm
+#facs_362_r3l45 Kilchdorff
+#facs_362_r3l46 -4
+#facs_362_r3l47 -
+#facs_362_r3l48 Cottelsingen
+#facs_362_r3l49 gerzensee
+#facs_362_r3l50 9
+#facs_362_r3l51 ffoltenen
+#facs_362_r3l52 X
+#facs_362_r3l53 Gürtzelen
+#facs_362_r3l54 Im Vnderen Theil der
+#facs_362_r3l55 3
+#facs_362_r3l56 ansoltinges
+#facs_362_r3l57 Landtgrichts Zolligkoffer
+#facs_362_r3l58 Blumenstein
+#facs_362_r3l59 4
+#facs_362_r3l60 8
+#facs_362_r3l61 Jegenstorff
+#facs_362_r3l62 Reutinges
+#facs_362_r3l63 Eindelbank.
+#facs_362_r3l64 tierachern.
+#facs_362_r3l65 1
+#facs_362_r3l66 Im Landgricht Sternenberg
+#facs_362_r3l67 Graffenviel
+#facs_362_r3l68 10
+#facs_362_r3l69 56
+#facs_362_r3l70 limpars
+#facs_362_r3l71 könnts
+#facs_362_r3l72 12
+#facs_362_r3l73 dreßen
+#facs_362_r3l74 26
+#facs_362_r3l75 Bömplitz
+#facs_362_r3l76 Wend.
+#facs_362_r3l77 brauwenkappelen
+#facs_362_r3l78 Raperswyll
+#facs_362_r3l79 36
+#facs_362_r3l80 Mühlenberg
+#facs_362_r3l81 20 dMünchen Burffel
+#facs_362_r3l82 29
+#facs_362_r3l83 NewenEgg
+#facs_362_r3l84 -
+#facs_362_r3l85 Krauchtahl
+#facs_362_r3l86 4
+#facs_362_r3l87 8
+#facs_362_r3l88 Oberbalin
+#facs_362_r3l89 lann
+#facs_362_r3l90 Im ersten Theil des
+#facs_362_r3l91 Grichts Konolfing
+#facs_362_r3l92 24
+#facs_362_r3l93 Worb.
+#facs_362_r3l94 0
+#facs_362_r3l95 Valkringen
+#facs_362_r3l96 24
+#facs_362_r3l97 vigle
+#facs_362_r3l98 Vyll
+#facs_362_r3l99 0
+#facs_362_r3l100 hochstetten
+#facs_363_r3l1 Thun, Burgdorff, Louppen
+#facs_363_r3l2 Frienifferg ärberg
+#facs_363_r3l3 Daß der daräuft so sonst auff die H. Wichnacht
+#facs_363_r3l4 fallen wurde auf Dienstag hernach gesetzt
+#facs_363_r3l5 vond
+#facs_363_r3l6 Echts undt Rast der Statt Bern
+#facs_363_r3l7 ber beschehene mit ohnzeitige erinnerung daß
+#facs_363_r3l8 6
+#facs_363_r3l9 das H. Wichnacht Fest heüloriges Jahrs auf
+#facs_363_r3l10 einen Zins Taag fallen werde, haben wie das
+#facs_363_r3l11 kärit, so sonsten auff selbigen Tag gehalten Wird
+#facs_363_r3l12 für Heübriges Jahr verlegt auff den nechst darauff
+#facs_363_r3l13 folgenden Donnerstag, so da sein Wir der 27. ders
+#facs_363_r3l14 lauffenden Christmonats: drit befelich hiemit an die
+#facs_363_r3l15 deßen durch nostwendige publication, mönigklich finde
+#facs_363_r3l16 deinem Ambts bezirk zu benachrichtigen Dat.
+#facs_363_r3l17 laccard
+#facs_363_r3l18 An die 4 Thor und Pfeiler anzuschlagen
+#facs_363_r3l19 Über u. wie hieoben bis zu dem Wort Christ
+#facs_363_r3l20 monats inclusive: mit diesem anhenkes
+#facs_363_r3l21 deßen hiemit Münigklich zur Nachricht erinnert
+#facs_363_r3l22 vies Actam ut supra
+#facs_363_r3l23 Nracselwald Thun heutigen
+#facs_363_r3l24 Interlaken und Saanen
+#facs_363_r3l25 Ob Haußhaltungen der Viechzucht vorstanden
+#facs_363_r3l26 Colonies Weiß in die March Brandenburg
+#facs_363_r3l27 sich wagen wollind
+#facs_363_r3l28 Schls. vndt Raht der Stalt bern.
+#facs_363_r3l29 Waß von Ihr Durfestl. Dachlt in Brandenburg
+#facs_363_r3l30 Vorhabender einführung halb der Viechzucht u.
+#facs_363_r5l1 An Uns gelangen laßen, das habend wie die Wie anderen
+#facs_363_r5l2 Vnseren Ambtleüthen, hinder denen Viechsverständige Leuthe
+#facs_363_r5l3 anzutreffen sein mögend, hiermit abschrifftlich zu communiciren guth,
+#facs_363_r5l4 funden; Wann nun Ihr Uhrfrl. Drchlt. Wie dißfahls zu völlig
+#facs_363_r5l5 fahren kein Bedenkens tragend umb so viel weniger, Weilen Son
+#facs_363_r5l6 in dem Schreiben stehet, daß Amt Undt andere Leidenlich und
+#facs_363_r5l7 vohl gehalten werden sollen, als will es dißmahlen nur vmb
+#facs_363_r5l8 dieses zu thun sein, ob hinder Deiner Verwaltung, Eheliche
+#facs_363_r5l9 Vndt der Viechzucht erfahren leuth seyend, die auff ehrlich
+#facs_363_r5l10 geding, die Reis undt abfahrt an die handt zunemen gemein¬
+#facs_363_r5l11 keren. In meinung daß auff einlangende Bericht vor Ihren
+#facs_363_r5l12 Abreis mit denen die von Ihr drühlt' gewalt undt befelich
+#facs_363_r5l13 haben möchten Weitere gepühr abgeret Vndt verhandlet
+#facs_363_r5l14 werden könne, die solchem nach befelchende es deinen Ambts
+#facs_363_r5l15 ungehörigen kund zu machen, auch ob Vndt Wer von denselben
+#facs_363_r5l16 hervor Thun werde, sambt der Beschreibung selbiger persohn
+#facs_363_r5l17 undt Haußhaltung beschaffenheit Uns förder) ambst zu berichten
+#facs_363_r5l18 Gott mit Dir. Datum 4. Jan. 1684

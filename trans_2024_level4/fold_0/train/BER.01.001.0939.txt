@@ -1,0 +1,34 @@
+Law ID: BER.01.001.0939
+Name: Wegen Anstellung der Capittlen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 23/23
+# High similarity (>=50%): 22
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_60_r2l22 1631
+#facs_60_r2l23 An die Tütschen Amptlüht und
+#facs_60_r2l24 Decanen, wegl. anstellung der
+#facs_60_r2l25 apittlen.
+#facs_60_r2l26 schuldthl. Nach dem vnsere vorstehnder, vnd
+#facs_60_r2l27 gelehrten allhie, uns abermahlen der Zijck,
+#facs_60_r2l28 ein welchern man pflegt die Capittel vnnd
+#facs_60_r4l1 60
+#facs_60_r4l2 Censuren Zehalten, erinneret, und uns heimbgesetzt,
+#facs_60_r4l3 eindtweder die Generat, oder besonderbahre gewohnte
+#facs_60_r4l4 Ensuren anzestellen, habend wir diser Zeit ein
+#facs_60_r4l5 nöthig geachtet, daß die General: Sonders allein, da
+#facs_60_r4l6 Amat und bißhar gewohnte Capitel angestelt werd int.
+#facs_60_r4l7 an hieruff ich ernstflüßig zu befelchen angesehn, daß
+#facs_60_r4l8 Je mit hilff und bystandt unserer Amptlühte
+#facs_60_r4l9 In vieren Capittel, die Censuren, ohne ansechen der
+#facs_60_r4l10 person, und In der Form als ich mehrmahlen, und
+#facs_60_r4l11 anderlich verschinnen Jars befohlen, vnd zuogeschriben,
+#facs_60_r4l12 worden, und wie vns zu üch zwischend teüwlich ist
+#facs_60_r4l13 richt im, daß es gereiche, und ablauffen möge zu
+#facs_60_r4l14 Gottes deß Herren Ehe, zu befürderung seiner Christen
+#facs_60_r4l15 lichen Kirchen, und erhaltung gueter disciptin. Datum
+#facs_60_r4l16 den 6. Aprilis 1635

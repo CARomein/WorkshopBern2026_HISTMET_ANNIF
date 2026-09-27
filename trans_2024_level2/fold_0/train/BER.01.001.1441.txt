@@ -1,0 +1,23 @@
+Law ID: BER.01.001.1441
+Name: Das sy in Lärmens Zeiten zu den Usszügeren Führer verordnet.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 12/12
+# High similarity (>=50%): 12
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_154_r5l11 An die Vier Amman der Rildspälen etc.
+#facs_154_r5l12 das sy In Cärmens Zeiten zu den Vßzügeren
+#facs_154_r5l13 führer Verordnet.
+#facs_154_r5l14 Schuldtheiss etc.
+#facs_154_r5l15 Aber die dir Vnlangst Überschickte Termens Zeichen, habend wir
+#facs_154_r5l16 die zu einem führer, der In dynem anuertruwten bezirck¬
+#facs_154_r5l17 sitzenden vßzugeren, So In Cärmens Zeiten, Vff Vernemmende
+#facs_154_r5l18 wortzeichen, Vnserer Statt zu helff lauffen söllend Verordnet,
+#facs_154_r5l19 deßen wir dich hiemit verstendigen Wellen, damit du selbige
+#facs_154_r5l20 mit Iren Uferlegten Wehren, In guter Ordnung Ihm fahl der
+#facs_154_r5l21 noht, Vnserer Statt zu zuführen Vüße A. Datum 14 Marty
+#facs_154_r5l22 1650

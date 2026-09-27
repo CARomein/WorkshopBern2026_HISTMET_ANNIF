@@ -1,0 +1,145 @@
+Law ID: BER.01.001.4948
+Name: Dess frömbden ins Lanndt kommenden Bättelvolcks halben.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 134/134
+# High similarity (>=80%): 98
+# Low similarity (<80%): 36
+# Not found: 0
+#
+#facs_200_r4l9 Dn Eütsch, undt Welsch Ampt¬
+#facs_200_r4l10 ludt des heimbden Inslandt
+#facs_200_r4l11 kommendenen Bätzelvolcks halber.
+#facs_207_r3l8 malen zu schutz, undt schinn daß unschäd¬
+#facs_200_r4l13 nun ein Zytt daher von unsern Inderthanen vnder
+#facs_200_r4l14 schidenliche Orten vilfaltige Regten hinkomen,
+#facs_200_r4l15 was gestalt sij durch den grossen, vndt huffechtigen
+#facs_200_r4l16 Schwaal deß Grömbden, Oserm Laadtt ischend
+#facs_200_r4l17 tättelvolcks treffenlich beschwärt vndt über¬
+#facs_200_r4l18 leden weduis, als das dieselben sich nit einfaltig
+#facs_200_r4l19 deß geweinen allmüsens, undt gaaben, euch
+#facs_200_r4l20 der Huberg, so Ihnen ich Christenlichem mitt lyden
+#facs_200_r4l21 geben wird, dringindt, sonder Ihnen also über¬
+#facs_200_r4l22 legen syndt, das sey Ihnen allerley spysen ab¬
+#facs_200_r4l23 Orderendt, undt lang vff dem halß ligendt, vndt
+#facs_200_r4l24 so so vil, als gebwungen werdirt, solchen bätzel¬
+#facs_31_r4l28 4.
+#facs_201_r1l1 392.
+#facs_201_r2l1 volck offtermalen das jenig darzu wichen
+#facs_105_r5l21 hindersich haltung halben
+#facs_201_r2l3 vndt empären mügendt wenß Her mit
+#facs_201_r2l4 etwas böses von gedachtem bärthelvolck
+#facs_201_r2l5 erwarten wöllendt undt wyl söllich
+#facs_201_r2l6 Römbdt bäthelvolck Ihnen zu diesen Thüwer
+#facs_201_r2l7 ### zu vil beschwärlich ufffallen wolle, vndt
+#facs_201_r2l8 unmüglich seyn, solche grosse beschwärdt linger,
+#facs_201_r2l9 undt in die hare zuertragen, habendt sey uns
+#facs_201_r2l10 umb nothwendig gnädig zusuchen gepetten,
+#facs_201_r2l11 Wan nun wie uns Oberkeit halb schuldig und
+#facs_201_r2l12 können, die unsern von derglijchen Tiengnuß
+#facs_201_r2l13 vndt vberlast zu schinnen, undt vnser Inheim
+#facs_201_r2l14 chen eignen einen ein billiche rechnung, und
+#facs_201_r2l15 vermeldt zu haben, damit dieselbe bevorab¬
+#facs_201_r2l16 gehalten, undt ein jede Spath oder Gemeindt
+#facs_201_r2l17 Ihren eignen armen desto besserhandtlichung
+#facs_201_r2l18 und mögendt, undt vor Anglijchen fömbden
+#facs_201_r2l19 ambschweiffen den büthelvelck gehisteten
+#facs_201_r2l20 Weder +: Habl. wie nothwendig, und für fordern
+#facs_201_r2l21 lich finden desselben halb etwas Insechens
+#facs_201_r2l22 Zethun, erwegen die undt andern unsern
+#facs_201_r2l23 Oberlandt Anderam pflichen gantz einstig
+#facs_201_r2l24 zu bevelchen angehen, von den Cantzlen
+#facs_153_r3l2 294
+#facs_157_r3l1 305
+#facs_162_r2l19 Diner Amptspfläg mencklichem Zungen
+#facs_201_r4l4 Zelassen, das alle Könckde, Escher, ein-b¬
+#facs_201_r4l5 esurigende bächlin, müssigendes volck
+#facs_201_r4l6 d. Verthalb uns in Landen eboren, undt
+#facs_201_r4l7 sich in vnser landt hatInn gelassenn
+#facs_201_r4l8 undt In dem selben dem Bätsel nachzuchen
+#facs_201_r4l9 Innerthalb den nechsten 14 tagen
+#facs_201_r4l10 nach diser v kündigung sich vß unserem
+#facs_201_r4l11 landt machen, vndt dasselbigen neuen
+#facs_201_r4l12 höllendt, Dan welche nach verschynung der
+#facs_201_r4l13 selben zy dt nit vortzüchen, vndt sich biß dem
+#facs_201_r4l14 landt machen, sonder darin verblyben, undt
+#facs_201_r4l15 funden wurden werde man zu denselben gijffen
+#facs_201_r4l16 sij In gefangen schafft legen, mit der tortur
+#facs_201_r4l17 undt werden Ires sackourens umbschweiffens,
+#facs_201_r4l18 undt müssigendes läben mit einst ersuchen
+#facs_201_r4l19 undt erforschen, als wir die hiemit bewelche
+#facs_201_r4l20 vndt gwalt gebondt, solchen einst, undt
+#facs_201_r4l21 mittel gegen den Jengen frembden
+#facs_201_r4l22 lendischen, starcken, argwönigen umbschweigen
+#facs_201_r4l23 fenden, mussigesenden bätzel volck, welche
+#facs_201_r4l24 über dis vnser spott vndt verhinkung
+#facs_201_r4l25 Im landt verblijven, sondt funden wurdent
+#facs_201_r4l26 fürzeuemen, undt gebruchen, vndt, wo
+#facs_202_r1l1 wie die Pdechli
+#facs_202_r1l2 und Ewysenden
+#facs_202_r1l3 zu zeichnen.
+#facs_202_r2l1 394.
+#facs_202_r3l1 etwas straffwürdigs by Ihnen freunden wird
+#facs_202_r3l2 vns Irer Lgichten zu verstendigen, Ie vn¬
+#facs_202_r3l3 diente straaff zu erkennen; Wie wollen
+#facs_202_r3l4 hirmit auch, allen, undt Jeden unsern Under¬
+#facs_202_r3l5 thonen, die von derglijchen Pomb den
+#facs_202_r3l6 Umbstrychenden bäche wolck getrengt.
+#facs_202_r3l7 vndt überladen wadmt, sey, undt zu
+#facs_202_r3l8 glassen habenn, den sy sölche überlegne
+#facs_202_r3l9 kömbde bättler, es syendt mans, oder
+#facs_202_r3l10 wybspersonen handthafften, vndt vnsern
+#facs_202_r3l11 Amptlutten zu Euren mögendt welche
+#facs_202_r3l12 gegen denselben procedieren sollendt,
+#facs_202_r3l13 wie obstadt
+#facs_202_r3l14 By welchem aber du nützit
+#facs_202_r3l15 staffwürdigs fundest wirst dieselben
+#facs_202_r3l16 nüttest minder als fämbden vndt vesser
+#facs_202_r3l17 von Ires umbstrychens, undt müssigungs
+#facs_202_r3l18 wegen, undt das sij vnsern Inheimschen annen
+#facs_202_r3l19 Inneming entzuckendt, vndt den unsern
+#facs_202_r3l20 beschwürlich, undt vberlastig sindt, an
+#facs_202_r3l21 haupt oberthalb den Ehe mit abschäning
+#facs_202_r3l22 daß es eines batzens beiden Zeichnen¬
+#facs_202_r3l23 undt mit rus bestrychen vndt ryben lassen,
+#facs_17_r6l1 29
+#facs_202_r4l2 95
+#facs_202_r4l3 Undt dan mit dem eydf sehr unsere land
+#facs_202_r4l4 Reysenn, damit von sij sich widerum her In¬
+#facs_202_r4l5 lassendt, sie bey solchem Zeichen mögendt eiferen
+#facs_202_r4l6 undt Ihnen Ir vdiente straaff geben werden.
+#facs_202_r4l7 Undt die wyl sölden frembdt op brudisch
+#facs_202_r4l8 bätzelvolck nienen basch das an den päste
+#facs_202_r4l9 seren sein undt fahren könnendt, undt
+#facs_202_r4l10 mögenden vffgehalten, undt zu ruck
+#facs_202_r4l11 ewisen werden: Bevelchendt wie die, an
+#facs_202_r4l12 solchen Ortten diene Zwaltung gepmende
+#facs_202_r4l13 einschaffte anordnung, vidt betalich
+#facs_202_r4l14 zeigeben, das deglijchen Hämbdes ößlendischen
+#facs_202_r4l15 bötselkerlk mit übergefürt noch In das
+#facs_202_r4l16 Landt gelassen, sonder widerum zu eigk
+#facs_202_r4l17 In Ir heymat gewisen verdint, Campt
+#facs_202_r4l18 unser undethanen zu Statt, und f landt¬
+#facs_202_r4l19 tie eignen armen desse van erhalten mö
+#facs_202_r4l20 gunt, Die wie hiemit umhauen, das Jede
+#facs_202_r4l21 statt, vndt gulden, Je annen selbst
+#facs_202_r4l22 so wytt müglich, erhalten, vndt by Ihnen
+#facs_202_r4l23 behalten, vndt int vff andere wysen sollen,
+#facs_202_r4l24 die so stark, vndt gesunden lybs sindts¬
+#facs_202_r4l25 vom bätzlen abhalten, undt zu ehrlicher
+#facs_2_r3l2 1
+#facs_174_r5l1 39
+#facs_203_r3l1 arbeit, dienen undt ander begangenschafft
+#facs_203_r3l2 zu vernehmen. HierInn wirst du, vndt
+#facs_203_r3l3 die unseren sölchen flyß vndt enst mit
+#facs_203_r3l4 abhaltung des frombden bathelbolcks
+#facs_203_r3l5 sonderlich an den pässen, anwenden, inher¬
+#facs_203_r3l6 den bisher beschechen, das wir gespürenn
+#facs_203_r3l7 mögendt, das die unser bewelchen Furstatt
+#facs_203_r3l8 wol angelegen seye, undt die unsaren
+#facs_203_r3l9 hiedurch daß geclagten macklichen Vom¬
+#facs_203_r3l10 Cords, vndt trengnuß entleden, oder
+#facs_203_r3l11 die Beschwärdt Ihnen gelycktrett werden
+#facs_203_r3l12 möye. Dat. 30th Decemb. 1609

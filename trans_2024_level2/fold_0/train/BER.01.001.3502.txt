@@ -1,0 +1,28 @@
+Law ID: BER.01.001.3502
+Name: Wegen den allzugeringhaltigen und hierdurch völlig abgeruffnen Savoyschen Thalern.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 17/17
+# High similarity (>=50%): 16
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_249_r4l11 Placcard
+#facs_249_r4l12 Wegen den alzugering seltigen und
+#facs_249_r4l13 hierdurch völlig abgeruffen Savoyschen Thalern
+#facs_249_r4l14 Demnach Meghl. und Oberen durch gezogene
+#facs_249_r4l15 Prob in Erfahrung gebracht, daß die so genante
+#facs_249_r4l16 Savoyische Thaler, deren abbauch und eichar Zesehen
+#facs_249_r4l17 nicht gnugsammen Währts und allzugeringhältig
+#facs_249_r4l18 seyn; So habend selbe uß Landtsvätterlicher Vorsorg,
+#facs_249_r4l19 und Ihren angehörigen zu Statt und Landt vor
+#facs_249_r4l20 schaden Zeseyn, gutfunden, diseren Savoyischen
+#facs_249_r4l21 Thaleren den Lauff und Gang in dero Landen
+#facs_249_r4l22 by Straff der Confiscation völlig zu undersagen,
+#facs_249_r4l23 und selbe gäntzlichen, wie hierdurch beschieht,
+#facs_249_r4l24 daraufte p
+#facs_250_r2l1 zu verruden; welchem nach nun Sich Mänigklich
+#facs_250_r2l2 zu halten wüßen wirt. Actum d. 24ten April
+#facs_250_r2l3 1726

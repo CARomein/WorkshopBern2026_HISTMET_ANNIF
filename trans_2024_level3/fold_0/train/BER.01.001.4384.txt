@@ -1,0 +1,39 @@
+Law ID: BER.01.001.4384
+Name: Denen ausgeschriebenen Verordnungen wegen verbottener Ausfuhr dess Holzes, das Leben zu geben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 28/28
+# High similarity (>=50%): 28
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_257_r3l1 an
+#facs_257_r3l2 Die Herren Amtleut zu Morsen, Romainmötier
+#facs_257_r3l3 Pferten, Milden, Pecterlingen Ambo, Wiblispurg
+#facs_257_r3l4 Laupen, Arberg, Nydau, Erlach, St. Johannisen
+#facs_257_r3l5 und Beüren
+#facs_257_r3l6 denen ausgeschriebenen Verordnungen wegen
+#facs_257_r3l7 verbottener ausfuhr des Holzes, das Leben
+#facs_257_r3l8 zu geben.
+#facs_257_r3l9 Stadthalter und Raht
+#facs_257_r3l10 Die vielfaltigen Berichten, welche uns einge¬
+#facs_257_r3l11 kommen, daß unsere Ausgeschriebene Verord¬
+#facs_257_r3l12 nungen, wegen der Ausfuhr des Holzes aus¬
+#facs_257_r3l13 Unseren Landen nicht befolget werden, ver¬
+#facs_257_r3l14 anlaßen uns billichst, dieseren sich erzeigen
+#facs_257_r3l15 den abusen die abhelfliche mas zu geben
+#facs_257_r3l16 In dieser Absicht nun, haben Wir Euch
+#facs_257_r3l17 anbefehlen wollen, dieseren Unseren
+#facs_257_r3l18 Holz = Ordnungen bestens das Leben zu geben,
+#facs_257_r3l19 und fleißigst dabey zu invigilieren, daß
+#facs_257_r3l20 solche durchaus befolget, und mithin kein Holz
+#facs_257_r3l21 worunder auch alle Läden- und hartes Holz
+#facs_257_r3l22 Obs=Bäumen verstanden, ohne Unsere Bewilligung
+#facs_257_r3l23 aus dem Land=ja selbsten auch nicht in die
+#facs_257_r3l24 Mediat- Ämter geführet werden, wie dem
+#facs_257_r3l25 zu thun, das erforderliche deshalben zu
+#facs_257_r3l26 weniglichs Nachricht publicieren, und seines Orts als
+#facs_257_r3l27 gebührend einschreiben zu laßen. Dat. d. 21. Aug. 1775
+#facs_257_r5l1 485.

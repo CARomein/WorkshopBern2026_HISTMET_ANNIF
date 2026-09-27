@@ -1,0 +1,34 @@
+Law ID: BER.01.001.2302
+Name: Sollind der Unterthanen Gwehr visitieren [ [...]
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 23/23
+# High similarity (>=50%): 21
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_355_r1l1 Ses
+#facs_355_r1l2 soll
+#facs_355_r3l1 Wangen Arwangen Lipp
+#facs_355_r3l2 Arburg, Centzburg, Schenkenberg
+#facs_355_r3l3 Trachselwald
+#facs_355_r3l4 gleiche visitirende
+#facs_355_r3l5 Sollin der Vnter¬
+#facs_355_r3l6 kandtlicherna¬
+#facs_355_r3l7 fertig zu hält anmahlte
+#facs_355_r3l8 Stalthalter vndt Raht der Stall Bern,
+#facs_355_r3l9 Ob wohlen wir nit in denen gedanken verstanden, sonder
+#facs_355_r3l10 besßers verhoffen, als daß einig krieglich vorhaben Wider
+#facs_355_r3l11 Uns angesehen; So haben wir dennoch, in Ansehen auch zu Friden¬
+#facs_355_r3l12 Zeiten seiner Schanken wahrzunemen rahtsam ist. Undt weil
+#facs_355_r3l13 benachbahrter ihrten gleiche Anstalten vorgenommen werden, die
+#facs_355_r3l14 wie gegen etwelchen anderen Ambtleüthen auch beschicht, hinin¬
+#facs_355_r3l15 zu befelchen guth funden, die Verordnung hinder Deinem Ander
+#facs_355_r3l16 suthen, daß die Gebohr besichtiget, vnd die Vnderthanen,
+#facs_355_r3l17 mit Brauth undt Lood sich gerust zuhalten ernstlich
+#facs_355_r3l18 vermahnt werden, Jedoch allso das solches Vnder der
+#facs_355_r3l19 handt undt mit solcher stiller manir geschehe, daß davon
+#facs_355_r3l20 par kein geschrey oder viel redens gemacht werde, als
+#facs_355_r3l21 Wir vns versehend. Datum 21. Aug. 1627.

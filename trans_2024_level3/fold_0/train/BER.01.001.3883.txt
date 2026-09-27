@@ -1,0 +1,244 @@
+Law ID: BER.01.001.3883
+Name: Wie die Strassen in den bernischen Landen von den Gemeinden erhalten und vor dem Verderb der Anstösseren und Particularen erhalten und bewahret werden sollen. Getrukt Placcard.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 233/233
+# High similarity (>=50%): 232
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_377_r4l19 Beschreibung.
+#facs_377_r4l20 Jacob N. Beisten Metzger genannt, dem Ver¬
+#facs_377_r4l21 nommen nach
+#facs_378_r2l1 Collat.
+#facs_378_r2l2 Collate
+#facs_378_r3l1 An alle T: und W. Amt Leuth,
+#facs_378_r3l2 4. Statt, brey Weibel und Ammann,
+#facs_378_r3l3 Item p: jedre an Cantzae hiesiger
+#facs_378_r3l4 Haubt Stall.
+#facs_378_r3l5 Wie die Straßen in den Bernischen
+#facs_378_r3l6 Landen von den Gemeinden er¬
+#facs_378_r3l7 halten und vor dem Verderb
+#facs_378_r3l8 der Anstößeren und Parti¬
+#facs_378_r3l9 cularen erhalten und be¬
+#facs_378_r3l10 bohret werden sollen
+#facs_378_r3l11 Schultheis, Röhf und Burger
+#facs_378_r3l12 Wir haben dir angeschloßenes
+#facs_378_r3l13 reglement, wie die Straaßen in
+#facs_378_r3l14 Unseren Landen in Gutem Wesen zu
+#facs_378_r3l15 erhalten seyen, zusenden und be¬
+#facs_378_r3l16 fehlen wollen, zu menniglichs Nach¬
+#facs_378_r3l17 richt solches öffentlich von Canzlen ver¬
+#facs_378_r3l18 künden und behörigen Ohrts einschreiben
+#facs_378_r3l19 zu Laßen. Datum den 29. Aprilis 1774.
+#facs_378_r3l20 Betrücht Reglement.
+#facs_378_r3l21 Dir Schultheis, Räst und Burger
+#facs_378_r3l22 der Statt Bern, thundt Kundt hiemith
+#facs_378_r3l23 Demnach wir auf vielfälltig eingeloffene
+#facs_378_r3l24 Klägchen etc.
+#facs_378_r4l1 731.
+#facs_378_r4l2 Klägden ab dem Schlechten Zustandt
+#facs_378_r4l3 der meisten Haubtstraaßen in Un¬
+#facs_378_r4l4 seren Landen seith etlichen Jahren
+#facs_378_r4l5 ler, Uns genöhtiget gesehen, solche
+#facs_378_r4l6 mit großen Kösten Theils wieder
+#facs_378_r4l7 zu reparieren, theils Neuw Construiren,
+#facs_378_r4l8 und in einen solchen Standt setzen zu¬
+#facs_378_r4l9 Lasen, daß so wohl die Reisenden, als
+#facs_378_r4l10 die Fuhr, leutte solche zu allen Zeilden
+#facs_378_r4l11 sicher und ohngehinderet brauchen
+#facs_378_r4l12 können, und nun Uns daran ge¬
+#facs_378_r4l13 legen, daß diese verbesserte Strafen,
+#facs_378_r4l14 nicht wie es im vergangenen Beschehen,
+#facs_378_r4l15 Theils aus Nachläßigkeit der gemein¬
+#facs_378_r4l16 den, solche gebührendt zu erhalten,
+#facs_378_r4l17 Theils durch Anticipationen und Ver¬
+#facs_378_r4l18 wüstungen von dritten der Anstößern
+#facs_378_r4l19 und anderen Particularen wieder nach
+#facs_378_r4l20 und nach verschmäleret und verderbet
+#facs_378_r4l21 werden, und folglich die darauff ge¬
+#facs_378_r4l22 wendten Kösten verlohren gehen,
+#facs_378_r4l23 Als haben wir aus Landts välderlicher
+#facs_378_r4l24 Vorsorg vor die allgemeine, gute und
+#facs_378_r4l25 Nutzliche Erhaltung der Haubt Straaßen
+#facs_379_r2l1 in unseren Landen nöhtig erachtet.
+#facs_379_r2l2 derenthalb volgende Verordnung ergehen.
+#facs_379_r2l3 zu Laßen. Undt Zbar
+#facs_379_r2l4 1o Damit die Straßen von der Sonnen und den
+#facs_379_r2l5 Winden wohlgetröbnet werden, mithin in
+#facs_379_r2l6 behöriger harte verbleiben können, wollen wir
+#facs_379_r2l7 daß in Jringen Straaßen, so durch Wälden
+#facs_379_r2l8 gehen, in den Wälderen, von jeder seitigen
+#facs_379_r2l9 der Straasan zurechnen, fünst und¬
+#facs_379_r2l10 zwanzig Schuh breitt, kein aufwachs von
+#facs_379_r2l11 Baummen noch Beständen geduldet
+#facs_379_r2l12 auf den Gulderen dann, so an die
+#facs_379_r2l13 Straos stoßen, keine Bäum, nächer
+#facs_379_r2l14 als Hölff Schuh an Zaun gesetzt werden,
+#facs_379_r2l15 bey Straaff deren Ausreisung und
+#facs_379_r2l16 fünft Pfundt Busch, In den Einhang
+#facs_379_r2l17 und Samm Bärtden, in = und bey dem
+#facs_379_r2l18 Dörffern aber mag man solche wohl etwas
+#facs_379_r2l19 nächer an Zaun sehen, doch so, daß dar¬
+#facs_379_r2l20 von die Straasen nicht überhangen und
+#facs_379_r2l21 zu fast Belaubet werden
+#facs_379_r2l22 2° Soll aller Jahr das Gestände in den
+#facs_379_r2l23 Lebhäägen und die Äste an den Bäumen
+#facs_379_r2l24 is p
+#facs_379_r4l1 733.
+#facs_379_r4l2 so in die Straaßreben, fleißig abge¬
+#facs_379_r4l3 hauben werden.
+#facs_379_r4l4 3. Sollen die Landtleutte die Steinen, so sie
+#facs_379_r4l5 sie von Aberen Ablesen, nicht in die Straaß
+#facs_379_r4l6 werfen, sonderen Häuflings weise neben
+#facs_379_r4l7 dieselbige, oder ansolche Orth, die Ihnen vom
+#facs_379_r4l8 Weeg Meister verzeigt werden, legen, oder
+#facs_379_r4l9 darzu fuhren, mit welchen dann nach Noht
+#facs_379_r4l10 durfft die Karrckläuse ausgefüllet werden
+#facs_379_r4l11 Denne sollen sie weder Holtz.
+#facs_379_r4l12 können;
+#facs_379_r4l13 noch abgehäubene öste und Reständt, auch
+#facs_379_r4l14 seine Baubhäufen, nach Schorekenben,
+#facs_379_r4l15 noch immer einlichen Unrath, wordurch die
+#facs_379_r4l16 Straas verwüstet werden kann, in selbige
+#facs_379_r4l17 nicht hinein werfen, noch hinem Legen.
+#facs_379_r4l18 Auf daß auch die Straaßen von den Wäse¬
+#facs_379_r4l19 rungen ferners nicht beschädiget werden, so
+#facs_379_r4l20 sollen die aufsehere oder Particularen Ihre
+#facs_379_r4l21 Waßer Leittungen nicht mehr in die
+#facs_379_r4l22 Straaß, sonnderen äußert derselben in
+#facs_379_r4l23 den Gulderen machen, und durchführen,
+#facs_379_r4l24 Undt wo die Waßerleittung Quer über die
+#facs_379_r4l25 Straas gehet, sollen sie solche entweders
+#facs_379_r4l26 durch wohlbeschlesene Flachtschaalen, oder
+#facs_379_r4l27 durch verdebte Akten, also einfaßen, und
+#facs_379_r4l28 fleißig erhalten, daß dardurch der Straaß
+#facs_379_r4l29 Bein etc.
+#facs_380_r2l1 kein Schaaden zugefügt werde, bey
+#facs_380_r2l2 Poen 5. Pfunden Buß, das Erste
+#facs_380_r2l3 mahl, und proportionirter Ver¬
+#facs_380_r2l4 mehrung derselben, so oft darwieder
+#facs_380_r2l5 gehandlet wirdt.
+#facs_380_r2l6 5. Wann sich jehmandt erfrechen würde.
+#facs_380_r2l7 die Straaßen Marchen zu verrüben oder
+#facs_380_r2l8 weggzuthun, oder seinen Zaun, ober
+#facs_380_r2l9 seine Mauren in die Straaß zu setzen
+#facs_380_r2l10 oder die WaserdFräben zu verstopffen,
+#facs_380_r2l11 und zu verderben, oder auf andere
+#facs_380_r2l12 Weis die Straoß zu beschäädigen, der
+#facs_380_r2l13 soll um 50. Pfundt Zus, und nach
+#facs_380_r2l14 Gestaeetsame noch mit der Gefan¬
+#facs_380_r2l15 genschafft gestrafft werden.
+#facs_380_r2l16 6° die Gemeinden Jede in den Ihnen
+#facs_380_r2l17 verzeigten Straösen bezirten, sollen
+#facs_380_r2l18 Bengstens alle Jahr zweymahl, im
+#facs_380_r2l19 Frühling und Im Herbst, die Waßer¬
+#facs_380_r2l20 und Abzug, Graben öffnen und säu¬
+#facs_380_r2l21 beren; denne von Zeith zu Zeith
+#facs_380_r2l22 und nach Erforderen, die Karr¬
+#facs_380_r2l23 Gläusse
+#facs_380_r5l1 735
+#facs_380_r5l2 Bläuß einziehen und verebnen, auch
+#facs_380_r5l3 wo vonnöhten, die Straas mitgern
+#facs_380_r5l4 überführen; In auserdenlichen
+#facs_380_r5l5 zu fällen dan, als bey Großen Waßer
+#facs_380_r5l6 düßen, Überschwemmungen, Herdbrüchen
+#facs_380_r5l7 und dergleichen, sollen die gemeinden
+#facs_380_r5l8 ohntersaumt und Ingungsämmer
+#facs_380_r5l9 Anzahl der Straaß zu hülff kommen,
+#facs_380_r5l10 dem Übel wehren und den Zugefügten
+#facs_380_r5l11 Schaeden reparieren.
+#facs_380_r5l12 Sollen die Bewinden alle Jahr in der
+#facs_380_r5l13 Ihnen bequemsten Zeith Steinen und
+#facs_380_r5l14 Grien zu der Straaß fuhren, und selbige
+#facs_380_r5l15 Haufen Weise bey 50. scheitt weit von
+#facs_380_r5l16 emander, oder an den Ahrten, so Ihnen
+#facs_380_r5l17 vom Weeg Meister werden verzeigt
+#facs_380_r5l18 werden, hinthun, damith sobald sich
+#facs_380_r5l19 Mängel in der Straaßereignen, die
+#facs_380_r5l20 Materie an der Handt seye, selbigen zu¬
+#facs_380_r5l21 begegnen
+#facs_380_r5l22 Damit aber Jede Gemeindt den Ihr zu erhalten
+#facs_380_r5l23 obligenden Bezirbh destofleißiger besterge, und
+#facs_380_r5l24 den sich ereignenden Mänglen In rechter
+#facs_380_r5l25 Zeith begegne, so sollen über Jeden Bezirbel
+#facs_380_r5l26 Dorffen Weeg Meister bestellet werden und
+#facs_380_r5l27 selbige
+#facs_381_r2l1 Selbige verbunden seyn, fleißig den Lehr
+#facs_381_r2l2 den Straoßen nach zu machen, um zu¬
+#facs_381_r2l3 sehen, ob sie keinen Schaaden ein
+#facs_381_r2l4 pfangen haben, und wo sie etwas
+#facs_381_r2l5 bemerken, soll solches der Bemeind¬
+#facs_381_r2l6 alßbald anzeigete, damit bey Zeiten
+#facs_381_r2l7 geholfen werde. In starben Regen¬
+#facs_381_r2l8 Tagen dann, sollen sie nach erforderen,
+#facs_381_r2l9 mit einem oder zwey Manneren
+#facs_381_r2l10 auß der Gemeindt der Stralsuch¬
+#facs_381_r2l11 gehen, um den Schaaden, so derselben
+#facs_381_r2l12 könnte Zugefügt werden, durch Rau¬
+#facs_381_r2l13 mung, öffnung der Kräben, so gleich
+#facs_381_r2l14 vorzubommen, oder bey über Handt¬
+#facs_381_r2l15 nemnendem Übel, demselben durch
+#facs_381_r2l16 Abholung Mehrerer Mannschaft zu wehren.
+#facs_381_r2l17 In allen wichtigen, fählen dann,
+#facs_381_r2l18 sollen sich bemeldte dorff Weeg Meister
+#facs_381_r2l19 bey unsern Amtleuten anmelden und
+#facs_381_r2l20 Ihres Befelchs gewärtig sey.
+#facs_381_r2l21 9. Wollendt Wir einseren Amtleutten
+#facs_381_r2l22 hiemith ernstlich befohlen haben, achtung
+#facs_381_r2l23 Zugeben, ob die Straaßen wohl erhalten
+#facs_381_r2l24 werden, wie auch sich fleißig zu
+#facs_381_r2l25 Erkundigen
+#facs_381_r5l1 737
+#facs_381_r5l2 Erkundigen, ob die bestellten Weeg, Mei¬
+#facs_381_r5l3 stere Ihre aufhabende Pflichten wohl
+#facs_381_r5l4 beobachten und ob die Gemeinden Ihnen
+#facs_381_r5l5 gebührendt an die Handt gehen.
+#facs_381_r5l6 In saumseeligem Fahl den Dorff
+#facs_381_r5l7 Meister, oder die Gemeindt, wann der
+#facs_381_r5l8 Fehler auff Ihre Ligt, noch Bestalt,
+#facs_381_r5l9 samme deß Fehlers zu straaffen, undt
+#facs_381_r5l10 sie um Ersatzung deß durch Ihre Saum¬
+#facs_381_r5l11 seeligkeit beschehenen Schadens anzu¬
+#facs_381_r5l12 langen.
+#facs_381_r5l13 So wirdt auch hiedurch den Postillionen
+#facs_381_r5l14 und LandrKutschen injungiret und an¬
+#facs_381_r5l15 befohlen, alle Mängel und Fehlet, die
+#facs_381_r5l16 Die In Ihrer Fahrt in den Haubt Strasen
+#facs_381_r5l17 gebahren, allhier Unserer bestellten
+#facs_381_r5l18 ZollCämmer und auf dem Landt Unseren
+#facs_381_r5l19 Amt Leüten sogleich anzuzeigen.
+#facs_381_r5l20 Damit aber obiges Straoßen reglement
+#facs_381_r5l21 desto geflißener exequiert, und was weiters
+#facs_381_r5l22 zu Erhaltung unserer Haubt-Straßen
+#facs_381_r5l23 vonnöhten seyn mag, angeordnet werde;
+#facs_381_r5l24 Als wirdt Unserer bestellten ZollCammer
+#facs_381_r5l25 nicht nur andurch hiemith überlaßen
+#facs_381_r5l26 Die
+#facs_382_r2l1 die Fehlbahren nach aus weiß die¬
+#facs_382_r2l2 sers Reglements in erforderliche Be¬
+#facs_382_r2l3 Straaffung zu ziehen, von welchen
+#facs_382_r2l4 Straaffen Unß allbegen ein
+#facs_382_r2l5 drittel, der andere dem Amtz¬
+#facs_382_r2l6 mann deß Ohrte, allwo die Übertret¬
+#facs_382_r2l7 tung geschehen, und der Letzte drittel
+#facs_382_r2l8 dem Verleyder heimdienen soll, sonn
+#facs_382_r2l9 deren annoch nach Ausleiß des von
+#facs_382_r2l10 Auß der Zoll Cammer würblich ertheill¬
+#facs_382_r2l11 ten Gebalts hiemith ferners auf¬
+#facs_382_r2l12 getragen und anheimgestellt, wegen
+#facs_382_r2l13 Ausmarchung der Straaßen und der
+#facs_382_r2l14 Brien Gruben, eintheillung der
+#facs_382_r2l15 gezirben, bestellung der Dorff und
+#facs_382_r2l16 anderer Weeg Meisteren, Visitatione
+#facs_382_r2l17 der Straaßen, und übrigen Dingen
+#facs_382_r2l18 so hierten Abhangen mögen, das nöhti¬
+#facs_382_r2l19 findende zu veranstallten, und käuf¬
+#facs_382_r2l20 tig hinzu besorgen; welches hiemit
+#facs_382_r2l21 zu Männiglichesen Nachricht und Ver¬
+#facs_382_r2l22 halt, durch diesen Teuth bekannt gemacht,
+#facs_382_r2l23 und öffenthlich von Cantzlen sublinirt
+#facs_382_r2l24 werden soll. Actum In Unser Großen
+#facs_382_r2l25 Rahts=Versammlung d. 29ten Aprilis 1744.

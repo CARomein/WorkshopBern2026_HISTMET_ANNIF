@@ -1,0 +1,35 @@
+Law ID: BER.01.001.0842
+Name: Vorraht Getreydts wegen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_483
+# Matched: 24/24
+# High similarity (>=50%): 20
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_188_r3l16 A
+#facs_188_r3l17 x
+#facs_188_r3l18 Ihn alle T: kundt
+#facs_188_r3l19 Amptlüff
+#facs_188_r3l20 vorraht getreydts wegen
+#facs_188_r3l21 Schuldenheiß etc.
+#facs_188_r3l22 Siewijll uns bey disem
+#facs_188_r3l23 geschrlichen Zeiten vnd Kriegß Cöuffen hochlich soll ob: vnndt
+#facs_188_r3l24 röhten
+#facs_188_r3l25 angelegen sijn vnsere Kornhüßeren vnnd vorhalben
+#facs_188_r3l26 ein gute rechnung zetragen, vnd wir deßwegen vns entschlossen
+#facs_188_r3l27 selbige obermahlen, biß künfftig österen lisitieren
+#facs_188_r3l28 dans
+#facs_188_r3l29 vnd besichtigen Zelassen, So habendt wir dich dessen
+#facs_188_r3l30 Zur Nachrichtung verstendigen und dir darby befelchen
+#facs_189_r1l1 374 +
+#facs_189_r1l2 Collatum
+#facs_189_r2l1 Weilen, das du bis dahin alles das seine Getreitt,
+#facs_189_r2l2 so man vns zu handen vnsers Huses by dir Zethun
+#facs_189_r2l3 und schuldig sijn möchte, zuziechen sollest, vff das
+#facs_189_r2l4 Jantzmahlen Unsere Vorschät Unangriffen vollkommen
+#facs_189_r2l5 gefunden, vnd wihr derselben Im fhall der noch besser
+#facs_189_r2l6 werden mösnet, dan das Ist Unser wyll darnach
+#facs_189_r2l7 Wirst dich zu wüssen zuhalten etc. Datum g. Jan: 1630

@@ -1,0 +1,86 @@
+Law ID: BER.01.001.3820
+Name: Das Fürkauff Mandat von Ao. 1735 erfrischen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 75/75
+# High similarity (>=50%): 74
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_130_r1l1 246
+#facs_130_r1l2 Ain alle Teutsche Ambtleuth, 4 Stätt.
+#facs_130_r1l3 Freybeibel und Amman
+#facs_130_r1l4 Das Bürhauß mandat von a.o 1735
+#facs_130_r1l5 c:
+#facs_130_r1l6 Erfrischen
+#facs_130_r1l7 Schultheiß und Raht etc.
+#facs_130_r1l8 Unß ist abermahlen beschwärend vorge¬
+#facs_130_r1l9 tragen worden, wie ohngeacht aller Unser
+#facs_130_r1l10 wider den so schädlichen Fürkauff, so wohl
+#facs_130_r1l11 in ansehen des großen gemästeten, als
+#facs_130_r1l12 des kleinen Reichs außgangenen Ordnung
+#facs_130_r1l13 gen, dennoch by gegenwehrtigen Clam¬
+#facs_130_r1l14 und bösen Zeiten vilfaltige Mißbräuch
+#facs_130_r1l15 in erhandlung deß eint- und anderen
+#facs_130_r1l16 vorgehind, so daß selliges nit nur käum,
+#facs_130_r1l17 innerlich in hochem preiß, sondern gleich¬
+#facs_130_r1l18 sam kein gemäßetes Reich mehr zu be¬
+#facs_130_r1l19 kommen, es seye dan durch die dritte¬
+#facs_130_r2l1 247. 16
+#facs_130_r2l2 oder Vierte Hand bereits geloffen, dahero
+#facs_130_r2l3 nöhtig seyn will, das, von dem höchsten
+#facs_130_r2l4 gewalt aus sub 7ten und 16ten Febr. 1735
+#facs_130_r2l5 darbider beschehenes ernstliche Verbott zu
+#facs_130_r2l6 erfrüschen: Zu diesem und nun, und
+#facs_130_r2l7 weilen aus Landtsvätterlicher Vorsorge
+#facs_130_r2l8 Uns angelegen, der Noht unserer Statt und
+#facs_130_r2l9 Landen in allen Sachen, sonderlich aber
+#facs_130_r2l10 in dergleichen begebenheiten, da es umb
+#facs_130_r2l11 die Nar- und Erhaltung derselben zuthun
+#facs_130_r2l12 seyn will, in Zeithen zu steüloren; Als
+#facs_130_r2l13 Habend in ernstlicher Ernenlerung obiger
+#facs_130_r2l14 Ordnung, und damit einerseits die Mei¬
+#facs_130_r2l15 stere Mezger=Handberks sich das gemä¬
+#facs_130_r2l16 stete Reich liechter anschaffen, anderseits
+#facs_130_r2l17 Bürgern und Vnderthanen mit beßeren und
+#facs_130_r2l18 Wohlfeileren fleisch versehen werden kön¬
+#facs_130_r2l19 mied, der hiemit ernstmeinend befehlen
+#facs_130_r2l20 wollen, geflißen darob zu halten und
+#facs_131_r2l1 derselben das Leben zu geben, die Fähl¬
+#facs_131_r2l2 bahren dan nach Inhalt derselben zu¬
+#facs_131_r2l3 straffen, damit diesem Übel die abhelff¬
+#facs_131_r2l4 liche Maas gegeben werde.
+#facs_131_r2l5 Doch bleibet denen außeren annoch ohn¬
+#facs_131_r2l6 Verbotten Reich in Vnseren Landen nach
+#facs_131_r2l7 Alter Kreyheit zu erhandlen und Außert
+#facs_131_r2l8 Land zu ferggen, wofern Sie selbiges
+#facs_131_r2l9 Alsobald abführend item auch Vnseren
+#facs_131_r2l10 Underthanen und Viech=Händleren
+#facs_131_r2l11 das erhandlete Mast Viech, so sie selbiges
+#facs_131_r2l12 weder den gleichen Tag noch auf gleichem
+#facs_131_r2l13 Märit wider verkauft auch an Ihr Ein¬
+#facs_131_r2l14 gages füeter gestelt, und nit an deß Ver¬
+#facs_131_r2l15 Mänfferen über Acht Tag gelaßen, Ihres
+#facs_131_r2l16 beliebens an Außern Ohrt zu führen, und
+#facs_131_r2l17 Außer th Unser Gottmäßigkeit verkauffen
+#facs_131_r2l18 Zu Dörfen
+#facs_131_r2l19 Solten aber Unsere Nederthanen und
+#facs_131_r3l1 249. 148
+#facs_131_r3l2 Weichhändler gesinnet sein, das Erhandlete
+#facs_131_r3l3 Mast, oder noch ausmästende Reich alhier
+#facs_131_r3l4 im Land, es seyn an Außere oder einheimb¬
+#facs_131_r3l5 sche wider zu verkauffen, als Wordurch
+#facs_131_r3l6 der meiste Bürkauff beschichet, So ist Vnser
+#facs_131_r3l7 Will und ernstliche Meinung, daß ein sol¬
+#facs_131_r3l8 acher Reichhändler das erhandlete Viech hier
+#facs_131_r3l9 im Land nit ehender wieder verkaufen.
+#facs_131_r3l10 möge, Er habe dan selbiges nach Inhalt hie¬
+#facs_131_r3l11 vor außgangener Ordnung de A. 1691.
+#facs_131_r3l12 Sechs Wuchen und drey Tag an seinem
+#facs_131_r3l13 selbst eigenen funter gehabt.
+#facs_131_r3l14 Welches nun zu behöriger Observation
+#facs_131_r3l15 hiemit von Cantzlen verlesen zu laßen.
+#facs_131_r3l16 befelchnet Wirst. Bott mit dir. Dat.
+#facs_131_r3l17 den 20th may 1741.

@@ -1,0 +1,87 @@
+Law ID: BER.01.001.4194
+Name: Ihnen von der bevorstehenden Betteljagd in dem Frikthale Nachricht zu geben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 76/76
+# High similarity (>=50%): 73
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_142_r4l1 275.
+#facs_142_r4l2 An
+#facs_142_r4l3 Die H. Amtleuth zu Zipp, Aarburg, Schenkenberg, Castelen
+#facs_142_r4l4 Königsfelden, Büren, Nydaub, St. Johannsen, Erlach, Fraubrunnen
+#facs_142_r4l5 und Baaden. Södenne an die Städt Aarau uns Brugg
+#facs_142_r4l6 Ihnen von der bevorstehenden BartelJagdt in dem Frikthale
+#facs_142_r4l7 Nachricht zu geben
+#facs_142_r4l8 Schultheiss und Rath
+#facs_142_r4l9 Von Unserem Amtsmann zu Riberstein ist Uns die nachricht
+#facs_142_r4l10 eingeloffen, belehergestallten auf bevorstehenden künftigen
+#facs_142_r4l11 Montag als den 20ten diß in dem ganzen Fritthal eine Rectel
+#facs_142_r4l12 Jägi abgehalten, uns aller Herrenloose herumziehende bectes
+#facs_142_r4l13 und Strolchen=Besinde daraus geschaffet werden solle. Wie nun
+#facs_142_r4l14 Wir dergleichen Besindel in Unseren Landen keineswegs zu
+#facs_142_r4l15 Gulden gesinnet sind; Als haben Wir Euch befahlen wollen, und
+#facs_142_r4l16 eingestellt die gebohnliche befelchen in Eügrem Amt, doch in
+#facs_142_r4l17 aller Stille ergehen zu laßen, damit auf obigen Tag gleichfals
+#facs_142_r4l18 die Mannschaft auf den Bränzen wohl bewafnet sich einfinden
+#facs_142_r4l19 dergleichen herrenloses Gesindel von dem eintritt in Unserer
+#facs_142_r4l20 Lande, wo jeh immer nöthig wäre, auch mit Gewalt abzu¬
+#facs_142_r4l21 halten. Wie zuthun etc. Dat. d. 14ten Feb. 1764.
+#facs_143_r1l1 276./
+#facs_143_r1l2 Coll
+#facs_143_r2l1 gehört ad pag. 266.
+#facs_143_r2l2 An
+#facs_143_r2l3 Die H. Amtleüth zu Lausanne, Neübr, Milden, Herthen
+#facs_143_r2l4 Wiblisburg, Lenzburg und Königsfelden.
+#facs_143_r2l5 Wegen denen in Obigen Amteren zu findenden Medailles etc.
+#facs_143_r2l6 Schultheiß und Raht,
+#facs_143_r2l7 Indemme zu weilen sich ergiebet, daß in Eüerem Amt allerhand
+#facs_143_r2l8 Medailles, Statues- und andere Antiquitäten gefunden,
+#facs_143_r2l9 von verschiedenen particularen aber sogleich angekauffet,
+#facs_143_r2l10 und entbeders aus dem Land, oder sonsten verhandlet,
+#facs_143_r2l11 berden. Wann aber dergleichen Sachen vorerst Uns al¬
+#facs_143_r2l12 dem Landesherren angebodten werden sollen. Als werdet
+#facs_143_r2l13 Ihr durch öffentl. kundmachung von Canzlen in Eüherem
+#facs_143_r2l14 Amt Jedermann verbahrnen, davon Sich zu müßigen
+#facs_143_r2l15 und denen so dergleichen entdeken wurden, dabey anbefa¬
+#facs_143_r2l16 zu laßen, daß ohne anders Sie dergleichen findende Sachen
+#facs_143_r2l17 alsogleich Unseren Amtleüthen überbringen, die dann sol¬
+#facs_143_r2l18 alsogleich Uns übersenden sollen, damit die weitere ver¬
+#facs_143_r2l19 füegung, und sonderheitl. wegen der belohnung dergleich
+#facs_143_r2l20 leüthen von uns abgegeben werden können; Wie demnach
+#facs_143_r2l21 zu thun, und gegenbärtigen Unseren Befelch Seines dethr
+#facs_143_r2l22 einschreiben zu laßen, Ihr bestens wüßen werdet. Dat. d. 14.
+#facs_143_r2l23 Janl 1764
+#facs_143_r4l1 271.
+#facs_143_r4l2 An
+#facs_143_r4l3 Die Hl. Amtleüth im Unter-Ergäub, und 4. Aug. Städt; denen
+#facs_143_r4l4 an H. Großbeibel und Beichtschreiber, item Mehlöhl. der
+#facs_143_r4l5 Maréchaussée und Policey, Cammer Sepr.
+#facs_143_r4l6 Ausschreibung der Diebinn Maria Anna Bschbensin.
+#facs_143_r4l7 Schultheiss und Rath
+#facs_143_r4l8 Es ist die Maria Anna Bschleendinn eine berüchtigte Diebinn
+#facs_143_r4l9 Coll
+#facs_143_r4l10 von Titl. H. Abten zu St. Ballen auf Ewig aus gesammt Lobl.
+#facs_143_r4l11 Eysgnosschaft verwiesen worden. Wir befehlen Euch derowegen
+#facs_143_r4l12 nebst Zusendung deren Signalement auf Selbige achten, und
+#facs_143_r4l13 auf betreiten Sie fortbeisen zu laßen. Wie zu thun etc. Datt
+#facs_143_r4l14 den 24ten Jan. 1764
+#facs_143_r4l15 biger gehört ad pag: 266. allwo das signalemt. schon eingeschrieben sich befindet.
+#facs_143_r4l16 An
+#facs_143_r4l17 Die H. Amtläuth im Weltschland, und Seeland; deme an Grandson
+#facs_143_r4l18 Ihnen mit Zusendung der signalements der Benjamin Blanege
+#facs_143_r4l19 befehlen, auf denselben zu achten
+#facs_143_r4l20 Schultheiß und Raht etc.
+#facs_143_r4l21 Benjamin Blanche von Grandcour, Amts Wiflisburg, ein Böd¬
+#facs_143_r4l22 bicht, deßen signalement hier mitkommt, hat mitlast beyhülf seine
+#facs_144_r3l1 seiner Vartere aus der Befangenschaft sich loswürken können,
+#facs_144_r3l2 Da nun gemeiner Sicherheit daran gelegen, daß Sobohl dar
+#facs_144_r3l3 Signalisierte Benjamin Blanche, als dessen Vatter
+#facs_144_r3l4 gefängl. angehalten werden; als befehlen Wir Euch auf die
+#facs_144_r3l5 selben gebohnten maßen achten zu laßen, auf betreuten
+#facs_144_r3l6 solche gefänglich anzunemmen, und Uns deßen ungesaum
+#facs_144_r3l7 zu weiterer Verordnung zu benachrichten. Wie zu thun p. Datl.
+#facs_144_r3l8 den 18ten Feb. 1764.

@@ -1,0 +1,98 @@
+Law nr: BER.01.001.4567
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 86/86
+# High similarity (>=80%): 83
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_155_r3l8 alle Teutsche Herren Amtleute vier
+#facs_155_r3l9 Stadt, Freyweibel und Amann
+#facs_83_r3l19 Berbott
+#facs_155_r3l11 in Veräußerung der Cumpen und Lein¬
+#facs_155_r3l12 zum Papyrmachen
+#facs_36_r3l7 Schultheiß und Rath
+#facs_155_r3l14 Auf beschehenes ehrerbietige Nach¬
+#facs_155_r3l15 werben des Tit. Unsers lieben und
+#facs_155_r3l16 getreuen Proßen Rathsverwandten
+#facs_155_r3l17 Samuel Bruner, alt Stifftschadner
+#facs_155_r3l18 ten zofingen, haben Wir geruhet, die
+#facs_155_r3l19 demselben den 21ten Xbris 1757. er¬
+#facs_155_r3l20 theilte Concession der ihme zu Mann
+#facs_155_r3l21 lehen gegebenen Papier Wihle im Thal
+#facs_155_r3l22 amt der Taldernen Wirthschafft alda
+#facs_154_r1l1 299
+#facs_155_r4l2 und zugehörd 5 seinem Sohn dem Edelgebor
+#facs_155_r4l3 nen Anserem lieben und getreuen Burger
+#facs_155_r4l4 Samuel Emanuel Grüner anzuvertrauen.
+#facs_155_r4l5 damit Er nun dieses von Uns erhal¬
+#facs_155_r4l6 tenen Privilegii genos seyn möge, so wol¬
+#facs_155_r4l7 len Wir Unsere Angehörige insgesamt
+#facs_155_r4l8 und jeden in't besonders verwahrnet
+#facs_155_r4l9 Haben, sich alles Cumpen und Krimsam
+#facs_155_r4l10 lens so zum Dienst der Papeireren ge¬
+#facs_155_r4l11 reichen mag, gänzlich zu müßigen,
+#facs_155_r4l12 und die Einsamlung dergleichen Cum
+#facs_155_r4l13 en und keines allem den enjenigen
+#facs_155_r4l14 Personen so von hievorbemeltem Be¬
+#facs_155_r4l15 licher der Tapyrmühle im Thal hierzu
+#facs_155_r4l16 werden bestelt und begwaltiget
+#facs_219_r2l15 seyn, in Unseren teutschen Landen
+#facs_155_r4l18 sollkommen zu überlasen; alles bey
+#facs_155_r4l19 Straf der Confiscation wiederhand,
+#facs_155_r4l20 einen falls, nach Ausweise seiner
+#facs_268_r5l9 nomen, daß bey vacanten Notariat
+#facs_155_r4l22 der Meinung und in dem Verstand
+#facs_155_r4l23 edoch, daß denenjenigen so dergleichen
+#facs_155_r4l24 Patenten in Händen haben möchten,
+#facs_219_r2l23 in ihren daherigen Rechten nichts
+#facs_155_r4l26 nommen, sondern solche dardurch heiter
+#facs_156_r1l1 303
+#facs_100_r2l1 soll.
+#facs_6_region_1627936574015_66l1 6
+#facs_156_r3l1 vorbehalten seyn sollen. Welches zu
+#facs_156_r3l2 männiglichs Nachricht öffentlich von Kanz
+#facs_156_r3l3 len publicieren, und seines Orts in denen
+#facs_156_r3l4 Schloß Urbarien einschreiben zu laßen
+#facs_156_r3l5 Wir euch anmit befelchlichen auften
+#facs_156_r3l6 gen. Dat. den 28ten Aprilis 1785.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_156_r3l8 alle Teutsch und Weltsche Herren Amtleute
+#facs_156_r3l9 Haltung der Capitlen.
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_156_r3l11 Damit
+#facs_156_r3l12 gewohnter maßen die Capitul und Clas¬
+#facs_156_r3l13 fen gehalten werden, haben Wir Euch
+#facs_156_r3l14 anbefehlen wollen, auf gewohnte Zeit
+#facs_156_r3l15 in den daherigen Versamlungen bey.
+#facs_156_r3l16 füerein Ein- und mit Hindansehung aller
+#facs_156_r3l17 übrigen Beschäfsten, einzufinden, und
+#facs_156_r3l18 zu verschaffen, daß alles getreulich
+#facs_156_r3l19 in die von Euch gleich signierende Acta
+#facs_156_r3l20 Classica eingebracht, solche auch Uns
+#facs_156_r3l21 fürdersamst eingesendt werden
+#facs_156_r3l22 Datum den 9. May 1785
+#facs_28_r4l1 Coll
+#facs_100_r2l1 soll.
+#facs_6_region_1627936574015_66l1 6
+#facs_156_r6l1 304
+#facs_23_region_1633454616028_2913l1 An
+#facs_156_r6l3 die Herren Decanen Teufschen Lands und
+#facs_223_r4l11 Claßen welschen Lands.
+#facs_27_r3l12 Obid
+#facs_156_r6l6 Schultheiß und Raths da die Zeit
+#facs_156_r6l7 zu Abhaltung der gewohnten Capit,
+#facs_156_r6l8 len und Claßen heranruket, haben
+#facs_156_r6l9 Wir Euch anmit anbefehlen wollen
+#facs_156_r6l10 solche gewöhnter maßen zu ver
+#facs_156_r6l11 samlen, und sodann zu veranstal¬
+#facs_156_r6l12 ten, daß alles ad Acta gebracht, solche
+#facs_31_r5l12 gewohnter maßen signiert und Uns so
+#facs_31_r5l13 gleich eingesandt werden. Datl. den
+#facs_104_r2l5 ut supra

@@ -1,0 +1,35 @@
+Law ID: BER.01.001.1645
+Name: Die Underthanen zur Versechung mit Munition zehalten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 24/24
+# High similarity (>=50%): 24
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_355_r3l1 91
+#facs_355_r3l2 Burgdorff, Thorberg, Wange, Grenangl.
+#facs_355_r3l3 Gipp Landts sub frauwbr. Arburg, Lentburg
+#facs_355_r3l4 Königs Felden, Schenckenberg, Wiberstein
+#facs_355_r3l5 und 4. Stett. Die vnderthanen Zur per sechung
+#facs_355_r3l6 mit weition zehalten
+#facs_355_r3l7 Schuldtheis und Raht der Stath Reuz etc.
+#facs_355_r3l8 Wir vernemmend, das vnsere vnderthanen etlicher Orte, ohn
+#facs_355_r3l9 geacht vorgangner Ermahnung, mit mention schlecht nun
+#facs_355_r3l10 übell versichert: Weilen aber die sorgsammen vnd mit ungürtigen
+#facs_355_r3l11 f. kegen erfülten leüff erforderen, das man vff stündtlich guten
+#facs_355_r3l12 lut seye. Als habend wie eine hoche Kohldurfft sein befunden, die hiemit
+#facs_355_r3l13 Erbevelch, Deine Umbtsangehörige von Hauß zu Hauß alles ernsts
+#facs_355_r3l14 ermahmen zelassen, das ein Jeder, dass zu seinem nott erlegte, wehr
+#facs_355_r3l15 erheuschte krut vnd Todt, wo daran etwas ermanglet, Innert 14
+#facs_355_r3l16 Tagen ohn selbarlich ergenten und sich darmit volkomen gerüst
+#facs_355_r3l17 machen solle; Auch noch solcher verfloßnen Zeith, widerumb seine
+#facs_355_r3l18 Visitaben von Hauß zu Haus, aber alles mit fürsichtigkeit und
+#facs_355_r3l19 Inn höchster geheimb verrichten Zelasen, wie der einternd der
+#facs_355_r3l20 ander solcher verwahrung nachkommen, und deßen hernach, wie
+#facs_355_r3l21 es beschaffen befunden worden vns Zubericht, die Jenigl.
+#facs_355_r3l22 aber, da nochst zwar mangels sich wunden nochmals
+#facs_355_r3l23 zur E. besterung deselben zuweisen. Dat.
+#facs_355_r3l24 13 Neaenb. 1657

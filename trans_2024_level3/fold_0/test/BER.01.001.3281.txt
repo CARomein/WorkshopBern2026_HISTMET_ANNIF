@@ -1,0 +1,428 @@
+Law ID: BER.01.001.3281
+Name: Wegen den in dem Ministerio im W. Land verspürten Mänglen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 417/417
+# High similarity (>=50%): 410
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_236_r3l11 An alle Classen Weltschen Landts und
+#facs_236_r3l12 Auch mutatis mutandis an dasige
+#facs_236_r3l13 Ambtleüth
+#facs_236_r3l14 Wegen den in dem ministerio im W. Land Ver¬
+#facs_236_r3l15 Gudtheis und Rath der Stadt Bärn
+#facs_236_r3l16 spürter Märzler.
+#facs_236_r3l17 Demnach unsere Claßen weltschen Landts
+#facs_236_r3l18 eine Zeith dahero wahe und zu hertze
+#facs_236_r3l19 genommen, daß unterschiedliche Mangel in
+#facs_236_r3l20 PredigAmbt desen Bedienung und deren
+#facs_236_r3l21 anhängigen Kirchen zucht sich befindind,
+#facs_237_r2l1 Diegers aber nit die minste Ursach der hin¬
+#facs_237_r2l2 und wieder sich eräugenden ruchlosigkeit und
+#facs_237_r2l3 Unerkandtnuß Gottes und seines Hhigen wohrts
+#facs_237_r2l4 seye, habenden Sy unß solches durch den wohl
+#facs_237_r2l5 Ehrwürdigen und Gelehrten unseren Lieben und
+#facs_237_r2l6 getraüwen H. Decanum Berger von Lau¬
+#facs_237_r2l7 sanne mit Gebührenden Respect vorstell
+#facs_237_r2l8 und umb gnädiges Einsehen und Gut für
+#facs_237_r2l9 dende remedur ersuchen laßen; worüber
+#facs_237_r2l10 hin wir, als denen Gottes Ehr die Erbauwung
+#facs_237_r2l11 seiner Kirchen und auch das Zeitliche und
+#facs_237_r2l12 Ewige Heil unserer Angehörigen und Under¬
+#facs_237_r2l13 thanen höchstens ob, und angelegen, Ihme
+#facs_237_r2l14 hierüber in mehreren Anhören dieser
+#facs_237_r2l15 sachen reifflich überlegen und bewandtnuß
+#facs_237_r2l16 hinderbringen laßen; über die Unß vorgetra¬
+#facs_237_r2l17 gene Puncten erkent,
+#facs_237_r2l18 Erstlichen weilen das Bischoff Ambt ein hochwich¬
+#facs_237_r2l19 tiges Ambt hiemit die Eltisten, so der Kirchen
+#facs_237_r2l20 goches vorstehen, sonderlich aber die, welche
+#facs_237_r2l21 Am worth und in der Lehr Arbeiten nach der
+#facs_237_r2l22 Zeugnuß des apostels zweyfacher Ehr wohl
+#facs_237_r2l23 währt sindt; So sindet bis auch entschloßen
+#facs_237_r2l24 nach aus beschechenen Ansuchen dem Predig¬
+#facs_237_r3l1 443.
+#facs_237_r3l2 un
+#facs_237_r3l3 Ambt, alle mügliche dignitet Ansehe
+#facs_237_r3l4 Hochachtung beyzelegen, umb hierdurch die
+#facs_237_r3l5 Predigeren bey Ihren Zuhöreren desto achtbaren
+#facs_237_r3l6 zumachen; und folglich dero Verrichtunge
+#facs_237_r3l7 nnder dem sagen deß Allerhöchsten desto meh¬
+#facs_237_r3l8 reren Nutzen anzeschaffen; Gestalten wir zu
+#facs_237_r3l9 solchem Ende gehabt haben wollendt, weile
+#facs_237_r3l10 im Vergangenen Gespürth worden, daß die
+#facs_237_r3l11 helffes so gleich den Predikanten das wort gewes¬
+#facs_237_r3l12 predigen, eben Ihres tragenden Nahmens
+#facs_237_r3l13 willen nit gleiche authoritet und Ansehe
+#facs_237_r3l14 Bey den Zuhöreren haben, daß nun mehro und
+#facs_237_r3l15 rünfftighin dieser underscheid des Nahme¬
+#facs_237_r3l16 aufgehabt, die Einten und anderen Predikante
+#facs_237_r3l17 sein und genauget, und Ihren Gemeinden
+#facs_237_r3l18 Vorgestellet, selbe auch an denen Ohrten, da
+#facs_237_r3l19 Sy bis hiehär am Chorgricht geseßen, fehrners
+#facs_237_r3l20 vorblieben, an denen Ohrten aber, da es
+#facs_237_r3l21 nicht üeblich gewiesen, den Sitz als dann
+#facs_237_r3l22 daran nemen sollindt, wan der Erste
+#facs_237_r3l23 Predikant leibs indisposition oder anderer
+#facs_237_r3l24 ursachen wegen nicht im standt seyn wirdt,
+#facs_237_r3l25 solches zebesuchen.
+#facs_238_r2l1 Damit aber die Ein praesentation der
+#facs_238_r2l2 Predikanten desto Sollenischer Hargehe, So
+#facs_238_r2l3 habendt wir zugleich geordnet, daß selben
+#facs_238_r2l4 von unseren Ambts Leuthen, oder denen so
+#facs_238_r2l5 das Jus Patronatus haben, Ihrer Kirchen die
+#facs_238_r2l6 sten in gegenwahrt eines Suraten eingesetzet
+#facs_238_r2l7 werden, dieser als dann, so wohl den hirte
+#facs_238_r2l8 ald die Härd zu Ihren Pflichten vöfftig annoch
+#facs_238_r2l9 nen, solches aber aller Ohrten in des Kirchen
+#facs_238_r2l10 Vor allen Zuhöreren und nicht etwan vor
+#facs_238_r2l11 den vorgesezten allen (wie zu Packerlingen
+#facs_238_r2l12 geschechen ist, :/ und hier durch reformieret
+#facs_238_r2l13 wirdt, geschechen solle
+#facs_238_r2l14 Wie nun eine Zeit dahero alle politi
+#facs_238_r2l15 sche und Civil oder sonst andere geringe
+#facs_238_r2l16 Ansehende Geboet undt Verbat von
+#facs_238_r2l17 Dem Cantzel herab gelesen werden, und
+#facs_238_r2l18 diesers auch etwelcher Maßen zum despect
+#facs_238_r2l19 Dieser H. stell und darab gepredigten
+#facs_238_r2l20 Worts gereichet, Anbey die An Dacht
+#facs_238_r2l21 der zuhöreren mächtig schwächet. Als habend
+#facs_238_r3l1 4415
+#facs_238_r3l2 Wie solches dahin abgeEnderet, daß Es
+#facs_238_r3l3 künfftighin underlaßen, hingegen nach vollendeter
+#facs_238_r3l4 Predig äußert der Kirchen verläset, nachbeits
+#facs_238_r3l5 an gewohnten Ohrten angeschlagen, also äußert
+#facs_238_r3l6 Oberkeitlichen Obten Mandaten nichts ab¬
+#facs_238_r3l7 Cantzley verkündet worden solle.
+#facs_238_r3l8 Vber das Begehren dan, daß zu facilitierung
+#facs_238_r3l9 der Classen nöthig findender vorbringe
+#facs_238_r3l10 einiche Curatores verordnet werden möchten.
+#facs_238_r3l11 habendt wir zu bezeugen, Wir sehr Unß die
+#facs_238_r3l12 Wohlfahrt der Kirchen Angelegen, Unß diesei
+#facs_238_r3l13 sachen selbsten anzunemen Gutfunden und
+#facs_238_r3l14 der Classen obliegenheiten mit erforderlicher
+#facs_238_r3l15 Beförderung in geseßenen Rath absehandliche
+#facs_238_r3l16 entschloßen, damit das Gute absehen in
+#facs_238_r3l17 alle bey zum standt gebracht werden möge;
+#facs_238_r3l18 Gleich wie wir nun Unserseiths alles
+#facs_238_r3l19 äüßerste Beyzetragen entschloßen, was
+#facs_238_r3l20 zu hochachtung und mehreren aufnommen
+#facs_238_r3l21 des H. Predigambts dienen mag; Also
+#facs_238_r3l22 wollendt wir Unß auch im Gegentheil
+#facs_239_r2l1 Gegen unseren Kirchen dieneren ins gesambt
+#facs_239_r2l2 und jedem ins besonders versehen und Sy¬
+#facs_239_r2l3 ernsthafft vermahnt haben, daß Sy sich
+#facs_239_r2l4 nicht nur mit Ihrem Beruff gezimmen
+#facs_239_r2l5 den Tugenden auszieren, sondern auch selbigen
+#facs_239_r2l6 gemäß wandlen, Ihren Gemeinden und
+#facs_239_r2l7 Männiglich ein lebendiges Vorbild seyen,
+#facs_239_r2l8 in guten werben mit Ehrbarkeit, ohnver
+#facs_239_r2l9 faltschter Lehr und ohn sträfflichen Wandel
+#facs_239_r2l10 damit Er alles zum Lob Godtes anrichten
+#facs_239_r2l11 und Ihr hard träüwlich weiden könnindt
+#facs_239_r2l12 und wie Uns nicht gezwungen sehen,
+#facs_239_r2l13 aüßigid
+#facs_239_r2l14 auch würden, der gleichen Predikanten,
+#facs_239_r2l15 deme zewiederhandlen, und Unß von
+#facs_239_r2l16 den Classen oder sonsten vorleidet werden
+#facs_239_r2l17 nach destwegen gefasten steiffen entschluß
+#facs_239_r2l18 nach verdiensten und beschaffenheit deß
+#facs_239_r2l19 fählers mit angemeßener Straff, ja
+#facs_239_r2l20 mit entsatzung Ihrer Kieben diensten
+#facs_239_r2l21 Angesehen
+#facs_239_r2l22 Diesemnach habendt wir auch ver
+#facs_239_r2l23 standen, welcher gestalten etliche Predi¬
+#facs_239_r2l24 kanten mit alzu vielen Gemeinden dorst
+#facs_239_r3l1 447.
+#facs_239_r3l2 Schaffen und filialen also beschwährt und
+#facs_239_r3l3 überladen, daß Sy auf einen Tag drey, vier,
+#facs_239_r3l4 a gar fünf actionen halten müeßen, wor¬
+#facs_239_r3l5 durch nit nur die Predikanten an Geist¬
+#facs_239_r3l6 und leib vor der Zeit erschöpfet, sonderen
+#facs_239_r3l7 auch der Gockesdienst von seithen der
+#facs_239_r3l8 zuhöreren nicht nach erforderen Verrichtet.
+#facs_239_r3l9 werden kan; Hierüber nun habendt
+#facs_239_r3l10 Wie in Erwartung besserer und bequemen
+#facs_239_r3l11 Zeithen für einmahlen die Verfüegung
+#facs_239_r3l12 zu thun Uns entschloßen, daß einerseaths
+#facs_239_r3l13 diejenigen Dorfschafften, welche von den
+#facs_239_r3l14 Praedimenten Parbirchen nicht weiters als
+#facs_239_r3l15 drey viertel stund entlegen, dahin zu
+#facs_239_r3l16 predig gehen; anderseiths aber wo
+#facs_239_r3l17 filial Kirchen sindt alternatim z bey
+#facs_239_r3l18 oder drey derselben ein Sonntag der
+#facs_239_r3l19 Pfarrbirchen, und dan den andere
+#facs_239_r3l20 Sontag die Muter Kirch den Filiaten
+#facs_239_r3l21 nachgehen sollendt, Als bordurch diesen
+#facs_239_r3l22 Übel auch begegnet und die Predi¬
+#facs_239_r3l23 kanten merklich erleichteret werden.
+#facs_240_r2l1 In Vernerm ist Unß auch vorgestellet
+#facs_240_r2l2 worden. No. wie höchst nöthig es sein wolle
+#facs_240_r2l3 daß an eint und anderen Ohrten
+#facs_240_r2l4 Unsers weltschen Landts mehrere Schulmeister
+#facs_240_r2l5 zu underweisung der Jugend und ver¬
+#facs_240_r2l6 mehrung der Erkandtnuß Gottes un
+#facs_240_r2l7 seines vorths bestellet; 2. Spitähl oder
+#facs_240_r2l8 Zuchthäuser zu Hinderhaltung des Seel.
+#facs_240_r2l9 und Leib verderblichen Müßigungs und
+#facs_240_r2l10 halb Wasser und Muterwesen und auch
+#facs_240_r2l11 anderer Persohnen Jungen und Alten hin
+#facs_240_r2l12 und wieder erbauwet, selbe alda neben
+#facs_240_r2l13 underweisung in Ihrem Christenthums,
+#facs_240_r2l14 zu einicher Handt Arbeith Gehalte,
+#facs_240_r2l15 t
+#facs_240_r2l16 Bey Zeiten Gebehnt, und angemahnt
+#facs_240_r2l17 borden kömmndt, wie aber diesere
+#facs_240_r2l18 sachen, so neben erforderten nahmhaffte
+#facs_240_r2l19 außgaben annoch zimlicher Nachdenken
+#facs_240_r2l20 erfordern; Als habendt wir eint und
+#facs_240_r2l21 anders an behöriges Ohrt zu überlegen,
+#facs_240_r2l22 zurükgesandt, wie alles einzurichten
+#facs_240_r2l23 und wannensas der behörige Fonds
+#facs_240_r3l1 49
+#facs_240_r3l2 hierzu zu erheben, die gedanken walten
+#facs_240_r3l3 zu laßen, und Unß zu hinderbringen,
+#facs_240_r3l4 Welchemnach dann wir auch das Gut¬
+#facs_240_r3l5 fünende zum Trost des unserigen Verordn¬
+#facs_240_r3l6 werden.
+#facs_240_r3l7 Undt weilen wir auch mit Lieb zu Ver¬
+#facs_240_r3l8 nemen gehabt, daß die Classes Unsers
+#facs_240_r3l9 Weltschen Landts von uns die Bewilligung
+#facs_240_r3l10 Verlangen thügindt, zu einführung einer
+#facs_240_r3l11 Nutzlichen uniformitet in der Kirche
+#facs_240_r3l12 ein Systema oder Corpus Disciplinae
+#facs_240_r3l13 Ecclesiasticae zu pappr zu bringen
+#facs_240_r3l14 und Unß zu Gut findender Verbeßer¬
+#facs_240_r3l15 ung oder Bestäthigung vorzutragen,
+#facs_240_r3l16 Allein aber zu diesem End verlange
+#facs_240_r3l17 Thüyind, daß Ihnen so bohl das in ao
+#facs_240_r3l18 1702. für die Class Morser, gemachte
+#facs_240_r3l19 Reformations Reglement, alß andere
+#facs_240_r3l20 unsere Vor, und seitharo gemachte Ge¬
+#facs_240_r3l21 schriebene und gedrubte Kirchen Ordnung
+#facs_240_r3l22 communiciert verdient. Alß habindt wir
+#facs_240_r3l23 diesem zu guten der Kirchen abzuebenden
+#facs_240_r3l24 Vorschlag gar gern Beyfahl gegeben,
+#facs_241_r2l1 und bereits den befelch behörigen Gott¬
+#facs_241_r2l2 ergehen laßen, daß das Verlangende Euch
+#facs_241_r2l3 zu obigem End hin zu gesendet werde.
+#facs_241_r2l4 Anlangendt dann den dricken Articul einge¬
+#facs_241_r2l5 benen Memorialis, daß zu hinder haltung
+#facs_241_r2l6 und Abstraffung allerhand einweisenden
+#facs_241_r2l7 und Leyder uns zu viel eingebürzlete
+#facs_241_r2l8 laßeren, die Chorgricht setzung in welche
+#facs_241_r2l9 Punkten Beßer erleutheret, in andere
+#facs_241_r2l10 in mehrerem außgetrübt, und auch
+#facs_241_r2l11 Bey gesetzet werden möchten was durch um
+#facs_241_r2l12 und dan außgängerne und dismahls
+#facs_241_r2l13 meistens unbekandte Mandat abgeEnderet
+#facs_241_r2l14 werden seyn möchte: Indehmme nun sothaner
+#facs_241_r2l15 mit unseren Gleicher Materi halb
+#facs_241_r2l16 ageh¬
+#facs_241_r2l17 hievor abgebenen Bevelchen eingetroffe
+#facs_241_r2l18 Als habendt wir kein Bedenbens getragen,
+#facs_241_r2l19 Die hinterigen Anstalten zu erfrischen, dieser
+#facs_241_r2l20 Arbeith und Revision der Chorgericht¬
+#facs_241_r2l21 Satzung fortzusetzen und Uns Vor¬
+#facs_241_r2l22 zutragen.
+#facs_241_r3l1 461.
+#facs_241_r3l2 Von nun an aber habendt wir einwillige
+#facs_241_r3l3 und den Chorgerichten unsern weltschen Landts¬
+#facs_241_r3l4 den Gewalt hierdurch ertheilen wollen, so wohl
+#facs_241_r3l5 öffentliche als geheimde aufseher zu be¬
+#facs_241_r3l6 stellen, welche bey nichts verfangenden
+#facs_241_r3l7 abmahnungen die Flucher und andere der¬
+#facs_241_r3l8 gleichen Godtlose Persohnen dem Chor Gericht
+#facs_241_r3l9 Gebührender maßen verleiden sollindt, da
+#facs_241_r3l10 mit solche bestraffet, zu beßeren vermahnet,
+#facs_241_r3l11 und abo Gotteszorn und straff in so beith
+#facs_241_r3l12 müglich abgewendet werden könne.
+#facs_241_r3l13 Über die an Unß gelangte Prag aber, wie
+#facs_241_r3l14 Vnsere Chorgricht des Enden sich in Aufnahm
+#facs_241_r3l15 der informationen Verhalten sollindt, damit
+#facs_241_r3l16 selbige nicht des Nahmen eines verhaßten
+#facs_241_r3l17 inquisition angedichtet werde; und dann
+#facs_241_r3l18 das in Ansehen der Civil Bußen jehmanden
+#facs_241_r3l19 etwas benommen seyn solte, bey legen zu
+#facs_241_r3l20 können, habendt wir über diesere Zwey
+#facs_241_r3l21 Pumten bereits durch den 13. undt 14. articul.
+#facs_241_r3l22 Unsers in ao. 1655. diß Ohrts gemachten
+#facs_242_r3l1 Reglements hierüber gnugsa
+#facs_242_r3l2 Vorsehung und Anordnung gethan
+#facs_242_r3l3 wir es auch bewenden und zur obser¬
+#facs_242_r3l4 Vorgeschrieben haben wollendt.
+#facs_242_r3l5 Und sindt auch vorgestellet worden,
+#facs_242_r3l6 eingebenes Memoriale zuverneme¬
+#facs_242_r3l7 geben worden, diejenigen Grund, so da somme
+#facs_242_r3l8 bahr dahin abzuebend, daß die offentliche
+#facs_242_r3l9 ergerlichen und ohnbußfertigen Sünder,
+#facs_242_r3l10 gewüßer Beservation und Modification
+#facs_242_r3l11 von des Communion und Tisch deß
+#facs_242_r3l12 abgehalten, und bis zu erzeigender
+#facs_242_r3l13 wahre, beßerung eingestellt werden
+#facs_242_r3l14 solten; derobegen wir freylich gefund
+#facs_242_r3l15 daß dis Ohrts zu Pflanzung einer Guten
+#facs_242_r3l16 und Godt wohlgefelligen Kirchen discipi
+#facs_242_r3l17 eine nützliche remdur vorzubehren höchst
+#facs_242_r3l18 nöthig. Indehme aber sothane remedium
+#facs_242_r3l19 das Teutsche als Weltsche Landt ansehen
+#facs_242_r3l20 als wirt auch solche mit nechsten dem hoch¬
+#facs_242_r4l1 153.
+#facs_242_r4l2 Gebalt vorzetragen und der Schluß von
+#facs_242_r4l3 dannen außüberschrieben werden.
+#facs_242_r4l4 Dieweilen das meiste objectum der Chor¬
+#facs_242_r4l5 grichten. Auff das innerliche Gehen, und
+#facs_242_r4l6 die Bahre reut des begangenen Föhlers, die
+#facs_242_r4l7 Beßerung des wandels zum Haubt zwek
+#facs_242_r4l8 haben soll, hierzu aber die allzugroßen Gelt¬
+#facs_242_r4l9 Bußen nicht zulänglich, in deme sie der
+#facs_242_r4l10 institution der Ersten Kirchen wie auch der
+#facs_242_r4l11 Natur der Evangel. Kirchen Zucht zu wieder,
+#facs_242_r4l12 sinthemahlen bekant, daß dardurch der gleichen
+#facs_242_r4l13 Wählbahre Persohnen gar offt ärger werden
+#facs_242_r4l14 und sonderlich der geistlichen Spocken
+#facs_242_r4l15 und sagen, es seyen Ihnen mehrentheils
+#facs_242_r4l16 umbs Gelt. Derobeggen wir, damit einer
+#facs_242_r4l17 seaths die jenigen, bey denen die börtliche
+#facs_242_r4l18 Bestraffungen nichts Verfangen, auch mit
+#facs_242_r4l19 Gelt und Leibsstraffungen in der Gebühr
+#facs_242_r4l20 gehalten werden mögend, zwar es bey deme
+#facs_242_r4l21 so dis Ohrts die Chorgerichtsatzung vorschreibt,
+#facs_242_r4l22 Bevenden, gleich wohlen aber ohnbedeuthet,
+#facs_242_r4l23 nicht laßen wollen, daß Wir gern sehen
+#facs_242_r4l24 thäte.
+#facs_243_r3l1 Thäten, wan insonderheit Unsere Geistlichen
+#facs_243_r3l2 so an den Chor grichten sitzen, zu außbeisu¬
+#facs_243_r3l3 dergleichen nachreden desto mehrer Erbaubung
+#facs_243_r3l4 und gutem Exempel, auch Eyffer zu der
+#facs_243_r3l5 Eher gockes Ihren Antheil von dergleichen
+#facs_243_r3l6 Hochricht Bußen falle, und den Spithählen zu
+#facs_243_r3l7 kommen laßen wurden, auß welchem Anlaß
+#facs_243_r3l8 dann wir auch unseren Ambt Leuthen weltsch
+#facs_243_r3l9 Landts anbefehlen zelaßen gutfunden denen
+#facs_243_r3l10 Ihnen undergebenen Chorgrichten ernstwähntig
+#facs_243_r3l11 zu insinuieren und unseren Willen dahin zu
+#facs_243_r3l12 eröffnen die in den Chor gerichtsratzen ein¬
+#facs_243_r3l13 haltene Leibs keines wegs in Geltstraffe
+#facs_243_r3l14 zu verwandlen, sondern es disfahls bey
+#facs_243_r3l15 dem Inhalt gsatzes lediglich bewenden zelassen
+#facs_243_r3l16 Demnach habenden wir über Beschechen
+#facs_243_r3l17 vorstellen auch zu hertzen gefaßet, wie
+#facs_243_r3l18 die öffentlichen Gebadt und gsang nicht die
+#facs_243_r3l19 minsten stut deß Gottesdiensts seyen, mit
+#facs_243_r3l20 an nachdrüblichen und kräfftigen Gebädt
+#facs_243_r3l21 formlen, auch deren Gescheidung einrichtung auß
+#facs_243_r3l22 alle Angelegenheit des Kirchen etc. viel
+#facs_243_r5l1 455.
+#facs_243_r5l2 Gelegen, und daß sonderlich das tägliche Gebädt
+#facs_243_r5l3 also beschaffen, daß selbiges anderwehrtig, brefftiger
+#facs_243_r5l4 Furtzer, methodischer und nach diß Mahligen
+#facs_243_r5l5 Zeithläuffen zu mehrerer der Kirchen Erbau¬
+#facs_243_r5l6 bung eingerichtet werden könte, derwegen
+#facs_243_r5l7 Wir Euch hierdurch aufzutragen gutfunden,
+#facs_243_r5l8 anderwährige wohl eingerichteten tägliche
+#facs_243_r5l9 Gebäitsformul zu projectieren und daß
+#facs_243_r5l10 allhäro zesenden.
+#facs_243_r5l11 Ansehendt dann das Gesang, welches zu erst
+#facs_243_r5l12 müffnung des Kirchen Goctes contribuieret,
+#facs_243_r5l13 habendt wir für nöthig angesehen, daß an beye¬
+#facs_243_r5l14 und Communions Tagen anstadt der Palmen
+#facs_243_r5l15 krefftige Kirchen Gsäng eingeführet, und hierdurch
+#facs_243_r5l16 die Andacht besser erwekt werden möchte; und
+#facs_243_r5l17 wollendt demmenach Euch hierdurch überlaßten
+#facs_243_r5l18 haben, dergleichen Cantica oder Kirchen Gesang
+#facs_243_r5l19 in unseren Kirchen welschen Landts einführen zu
+#facs_243_r5l20 können, jedoch daß sie auf solche melodey
+#facs_243_r5l21 gestellet werdent, die diesen oder anderen
+#facs_243_r5l22 Es almen der Melodey halben ähnlich sindt,
+#facs_244_r1l1 & 56
+#facs_244_r1l2 a volet.
+#facs_244_r3l1 So habendt wir auch in Betrachtung gezogen
+#facs_244_r3l2 wie die von Marot und Beza gemachte
+#facs_244_r3l3 und bißhieher in unseren Kirchen neblich
+#facs_244_r3l4 gewesene Pension der Palmen in einer
+#facs_244_r3l5 alten ohnterständtlichen Sprach verfaßet thäge,
+#facs_244_r3l6 seye, ja an etlichen Ohrten gar ohnen stän¬
+#facs_244_r3l7 dige expressiones enthalte, hingegen aber
+#facs_244_r3l8 die Neute von Conrado gemachte und zu
+#facs_244_r3l9 Genff gebraüchliche übersetzung wohl eingerich¬
+#facs_244_r3l10 tet; derowegen wir auch zugeben wollen, daß
+#facs_244_r3l11 diese neuve version daß Conrad in
+#facs_244_r3l12 unseren Kirchen gebraucht werden möge.
+#facs_244_r3l13 Und endtlichen dann findendt wir gleich
+#facs_244_r3l14 Euch, daß bey administration deß h.
+#facs_244_r3l15 Dauffs, der erbättenen Tauffbacten obl
+#facs_244_r3l16 gation alljetreit extendieret, und neben
+#facs_244_r3l17 dem Geistlichen auch auf das Zeitliche durch
+#facs_244_r3l18 bißhärige lythurgeii verbunden, da man
+#facs_244_r3l19 meistens wohl versehen kan, daß sie solches
+#facs_244_r3l20 zu prestiern nicht im Standtseyn, oder
+#facs_244_r3l21 aber baldest vergeßen werden, anbey
+#facs_244_r3l22 dann dergleichen Tauffbachten in der Ersten
+#facs_244_r3l23 Kirchen nur als gezeugen dem H. Tauff
+#facs_244_r4l1 457.
+#facs_244_r4l2 Beybohnen sollen, welches unß dann auch
+#facs_244_r4l3 Veranlaßet, die pflichten in gedeuter Lythur¬
+#facs_244_r4l4 gegen denen Tauffbacten dahin zu
+#facs_244_r4l5 nilteren, daß selbe allein auf das Geistliche,
+#facs_244_r4l6 biß nämlich Ihre zum H. Tauff habende
+#facs_244_r4l7 Kinder zum Nachtmahl deß Herren
+#facs_244_r4l8 zugelaßen, gemeint übrigens aber ohne
+#facs_244_r4l9 dergleichen Eydtspflicht einem jeden frey¬
+#facs_244_r4l10 gelaßen seyn solle, seine freygebigheit.
+#facs_244_r4l11 und Christliche Vorsorg von sich selbsten auß¬
+#facs_244_r4l12 zeuben.
+#facs_244_r4l13 Welchen unseren Entschluß wie über mehr¬
+#facs_244_r4l14 gesagtes Memorial Euch hiemit zu behör¬
+#facs_244_r4l15 ger observation überschreiben, deßen eine
+#facs_244_r4l16 traduction gleich in anderen an Euch
+#facs_244_r4l17 funfftighin abgebenden Schreiben auch
+#facs_244_r4l18 beschechen wirt, beylegen und Euch solchem nach
+#facs_244_r4l19 Gockes Obsorg wohl erlaßen wollen. Datum
+#facs_244_r4l20 den 25. July Vn3. 22 Aug. 1713. 8. 28 Aug 1713
+#facs_244_r4l21 und 13 Marty 1719
+#facs_244_r4l22 3 julij 1717 expediret 14 7. 1717
+#facs_245_r1l1 enerstrakt.
+#facs_245_r1l2 Wegen des
+#facs_245_r1l3 Collakt
+#facs_245_r2l1 An Murten, Tscherlitz, Wiblispür¬
+#facs_245_r2l2 Milden, Sausanne, Mörper, Neulen,
+#facs_245_r2l3 Aubonne, Chillon, Ählen, thun
+#facs_245_r2l4 Burgdorff und 4
+#facs_245_r2l5 Aargauwische Städt
+#facs_245_r2l6 an der Stall Pötterlingen verübten
+#facs_245_r2l7 Schultheiß und Rath etc. Diebstahle
+#facs_245_r2l8 Vnseren angehörigen der Stadt Peterlu
+#facs_245_r2l9 ist seith einem Moneth dasar Ihr glölb
+#facs_245_r2l10 forcieret, und die in Mitkommender Liste
+#facs_245_r2l11 bemerkte 58 Silberr Geschirr sambt
+#facs_245_r2l12 100 weltscher Cronen in Goldt und Silber
+#facs_245_r2l13 sorten darauß entweder worden, ohne
+#facs_245_r2l14 daß eigentlich die Täther bekant;
+#facs_245_r2l15 nun Einer seiths der Stadt Packerlingen,
+#facs_245_r2l16 daran gelegen, daß Sie des Ihrigen wieder
+#facs_245_r2l17 umb haabhafft vor den mögen; ande
+#facs_245_r2l18 seiths dann auch die frucht des exempels
+#facs_245_r2l19 erforderet, dergleichen Dieben nach ver¬
+#facs_245_r2l20 dienen anzesehen; Als habendt wir
+#facs_245_r4l1 der Röhne, so wie sie
+#facs_245_r4l2 Dir (Euch) hierdurch befehlen wollen, die an¬
+#facs_245_r4l3 stalt an allen Ohrten deines Ambts, sondern
+#facs_245_r4l4 lich aber bey den Goldt Schmieden dahin zuver¬
+#facs_245_r4l5 füegen, daß wann Ihnen dergleichen Silberin
+#facs_245_r4l6 Geschir entweders Geschmoltzen oder ohngeschmol¬
+#facs_245_r4l7 tzen Feilgeboten oder auch verdächtige Persohnen
+#facs_245_r4l8 mit Gelt Antonnen Bürden, selbige anzehalten,
+#facs_245_r4l9 deß Verhaffts Unß zeterständigen, dasselbe
+#facs_245_r4l10 geschir oder Gelt aber in sicherheit zulegen,
+#facs_245_r4l11 Wie dann solches mit Beförderung in
+#facs_245_r4l12 effect zu stellen du hiemit begehnet wirst.
+#facs_245_r4l13 datt. 27. Aprl. 1719
+#facs_245_r4l14 Zedull an H. Großw. und H. Gerichtschreiber, Ihnen mit zu¬
+#facs_245_r4l15 an dung einer Liste im Gleiches befehlen, benebens
+#facs_245_r4l16 vom Insinnieren auch bey H. Silber Verwalter
+#facs_245_r4l17 und anderen Gutfindenden ohrten mehr, die
+#facs_245_r4l18 anstallt zu verfuegen. Datl ut supra

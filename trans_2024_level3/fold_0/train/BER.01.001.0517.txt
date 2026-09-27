@@ -1,0 +1,57 @@
+Law nr: BER.01.001.0517
+Name: Wegen dess Intrags so ettliche Commissary und Inzücher, den Besteheren an den vergönten Löberen zufügen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 46/46
+# High similarity (>=80%): 33
+# Low similarity (<80%): 13
+# Not found: 0
+#
+#facs_2_r1l5 4.
+#facs_346_r2l17 sen, (die wir von Deren wegen Invert
+#facs_171_r2l2 so etliche Commissarii ein Inziehen, den Bestehern
+#facs_171_r2l3 in den vorgönten Löbaren zufügen.
+#facs_171_r2l4 Schuldtzeit etc. Als dann unsere l. g. vassallen, dijener und
+#facs_171_r2l5 und vnderthanen, die Bestehen des Informeurs vnserer
+#facs_171_r2l6 weltschen Landts abermalen wärens erschinen vnd sie
+#facs_171_r2l7 anclagt daß Intragk, so etliche Comissarii vnd Inzucher¬
+#facs_171_r2l8 es groß Krafft zuen hinderrucks erlangte, Prouchio¬
+#facs_171_r2l9 ,, oder sont eigens gwalts an Inen vergöntes
+#facs_171_r2l10 Löberen alberur zugefügt, oder noch zethun und wo
+#facs_171_r2l11 ten möchten, wider den Innhalt Ires admodiation
+#facs_171_r2l12 Brieffs, und bey Underschidenliche Prouisionen
+#facs_171_r2l13 so wir Inen hievor ertheillt, und daruf von
+#facs_171_r2l14 demnung gebetten, und darbey zeschirmen und hand¬
+#facs_171_r2l15 haben, und nun wie uns zuvor maßen erin erer
+#facs_171_r2l16 was hievor solcher Löberei halb Unser Intention
+#facs_171_r2l17 und verstand gsen, als nämlich das sy die Besche¬
+#facs_171_r2l18 allen den Löberen, welche Vor Octo 28 Nouemb:
+#facs_171_r2l19 Jungt Vorschmes 1614 Jars, nos composiert
+#facs_171_r2l20 oder verlobet, sich befinden, deßélychen den Jenig
+#facs_171_r2l21 Löbaren, so von Jetzo eineltem dato ausbiß vff den
+#facs_171_r2l22 eten Tag approbens verfallen werden, nachsetzen
+#facs_171_r2l23 dieselben In Beysyn der Amptlüchen (denen Her¬
+#facs_171_r2l24 portion davon gelesen wirt) componieren¬
+#facs_171_r2l25 Und vmb den halben theil Uns Rechnung halten
+#facs_206_r3l5 sollenden Theilen
+#facs_171_r2l27 Als habend wie billich befunden, daß
+#facs_171_r2l29 nochmalen darbei gelaßen, und die Prouisionen so der
+#facs_171_r2l30 ein oder minder entzwischen Zuen hinderrück
+#facs_171_r2l31 erlanget, uffgehebt, und die Jenig Löber, so durch
+#facs_171_r2l32 y wider den Inhalt ihrer admodiare, und anzognet,
+#facs_171_r2l33 provisionen bezogen worden seyn möchten, anjentlich
+#facs_171_r2l34 stitmer werden sollen, und im übrigen allen Comissarie
+#facs_171_r2l35 u Inzucheren, by Unser Stratt und Ungnad
+#facs_171_r2l36 syn, gedachten Beseheren an obvermelden zuen
+#facs_171_r2l37 gegenen Löberen, einich Intrag Jethun, sonder¬
+#facs_171_r2l38 sich mit ersuchung und Composition derselben
+#facs_171_r2l39 gang ungehinderet, fürfharen zelaßen, da zu die
+#facs_171_r2l40 und anndere Unsere Amptluch, zuen bythäng, und
+#facs_171_r2l41 verhilftlich zu, und diejenig so sich bemelter
+#facs_171_r2l42 unter admodiäre Widersetzen, und Inen daran
+#facs_171_r2l43 In trag thun würden, zu verhafftung namen
+#facs_171_r2l44 und uns solcher, widersezligkeit bewirchten sollte.
+#facs_171_r2l45 Sij darumb nach verdienen Zestraffen, davon beschieht
+#facs_171_r2l46 Syne will, Datum 28th July 1611

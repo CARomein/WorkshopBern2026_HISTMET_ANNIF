@@ -1,0 +1,180 @@
+Law ID: BER.01.001.2929
+Name: 
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 168/168
+# High similarity (>=50%): 147
+# Low similarity (<50%): 21
+# Not found: 0
+#
+#facs_89_r5l11 An alle T. und W. Ambtleüts.
+#facs_89_r5l12 Ihnen zu ablag Ihrer Rechnungen Tagansetzen.
+#facs_89_r5l13 Schultheiß und Raht der Statt Herr
+#facs_89_r5l14 #
+#facs_89_r5l15 Wir habend zu ablag seiner heüweigen Jahrs
+#facs_89_r5l16 verfallenen AmbtsRechnung dir Tag bestimbt
+#facs_89_r5l17 den pp. mit befelch, deine Rechnung bis dahin
+#facs_89_r5l18 sambt dem Bußenkahl wohl specificiert,
+#facs_89_r5l19 wohar Jede Rußfließe (T. Ambtleüth da
+#facs_89_r5l20 etreidt ist allein) Item die Zehnd= Zins=Hauß
+#facs_89_r5l21 er-
+#facs_89_r5l22 rast= und Munition Rödel, wie auch eine
+#facs_89_r5l23 zeichnuß wasfür. Wie siel? Wie theüwr! An Wen
+#facs_89_r5l24 zu was zeith! Undt auf welchen Märkten! Du
+#facs_89_r5l25 gebreidt habest verkauffen laßen, also fertig zu halten,
+#facs_89_r5l26 daß auff obbestimbten tag dich darmit Einfinden
+#facs_89_r5l27 und selbige ohne fählen ablegen könnest;
+#facs_89_r5l28 da anbey der Eingeschrepft sein soll, selbige
+#facs_90_r1l1 168
+#facs_90_r1l2 Collaten
+#facs_90_r3l1 zuvor Unseren W. Sivl. St. Sekelmeistern und
+#facs_90_r3l2 Penneren, wie auch der Sekel Schreiberey zu Com¬
+#facs_90_r3l3 Müniciren wie zuthun wüßen wirse. 7. fl. 1705
+#facs_90_r3l4 Tag ansetzung zu ablaag der Rechnungen der
+#facs_90_r3l5 Weltschen H. Ambtlouten.
+#facs_90_r3l6 Lausarne. Iste Rechnung. Schreitags d. 9 Marty
+#facs_90_r3l7 ce
+#facs_90_r3l8 Morsee. 3te Rehnung. Sambstags d. 10
+#facs_90_r3l9 10
+#facs_90_r3l10 Bornont. Abrechnung. Montag d. 12
+#facs_90_r3l11 No
+#facs_90_r3l12 dto Erste Lehnung aufgleichen tag,
+#facs_90_r3l13 No
+#facs_90_r3l14 Romainm. Abrehnung dienstag den 13.
+#facs_90_r3l15 Dito 3ten Rechnung, auf gleichen tag. dto
+#facs_90_r3l16 Ifferten. 6s Rechnung. Mittwiche 14 dto.
+#facs_90_r3l17 Wibliffurg. 6ten Rechnung. Donnerstag 15. dto.
+#facs_90_r3l18 Efätterling, 6te Rechnung. Prechtags. 16. dto.
+#facs_90_r3l19 Oron. 3ten Lehnung. Sambstags 17. dto.
+#facs_90_r3l20 Chillion 3th
+#facs_90_r3l21 Montag d. 19 Marty
+#facs_90_r3l22 de
+#facs_90_r3l23 Neüwenstatt 19te
+#facs_90_r3l24 Auponne. Abrehnung.
+#facs_90_r3l25 20 dto
+#facs_90_r3l26 7°
+#facs_90_r3l27 dto. Nt. resnung
+#facs_90_r3l28 Noûles 3te
+#facs_90_r3l29 21 dto
+#facs_90_r3l30 Milden 2r. Rechnung
+#facs_90_r3l31 22. dto.
+#facs_90_r3l32 Beschreibung
+#facs_90_r3l33 der Teutschen Herrn Unbtleiten auf
+#facs_90_r3l34 Ihre Lehnungen: pro Ao 1708
+#facs_90_r3l35 Thun
+#facs_90_r3l36 interlahren
+#facs_90_r3l37 d. 26 Marty
+#facs_90_r3l38 büren
+#facs_90_r3l39 Krienißberg
+#facs_90_r3l40 d. 27 dt.
+#facs_90_r4l1 Jsorberg
+#facs_90_r4l2 Burgdorff
+#facs_90_r4l3 busie.
+#facs_90_r4l4 Vorantobrunn
+#facs_90_r4l5 Lanppen
+#facs_90_r4l6 Arberg
+#facs_90_r4l7 Landtship
+#facs_90_r4l8 Gottstatt
+#facs_90_r4l9 Nidauw
+#facs_90_r4l10 dignaut
+#facs_90_r4l11 brandis
+#facs_90_r4l12 Arbung
+#facs_90_r4l13 Erlach
+#facs_90_r4l14 St. Johansen
+#facs_90_r4l15 biss
+#facs_90_r4l16 Wangen
+#facs_90_r4l17 Arfangen
+#facs_90_r4l18 Dumisbald)
+#facs_90_r4l19 Oberseten
+#facs_90_r4l20 Kretingen
+#facs_90_r4l21 underfeer
+#facs_90_r4l22 zbeifimmen
+#facs_90_r4l23 V Bimnis.
+#facs_90_r4l24 Lentzburg
+#facs_90_r4l25 Zoffingen
+#facs_90_r5l1 169
+#facs_90_r5l2 Marty
+#facs_90_r5l3 d 28 x
+#facs_90_r5l4 den 29 dto
+#facs_90_r5l5 30. Jto
+#facs_90_r5l6 31 dto
+#facs_90_r5l7 id
+#facs_90_r5l8 den 3. Aprilis
+#facs_90_r5l9 d. 4. do.
+#facs_90_r5l10 d. 11. dto
+#facs_90_r5l11 d. 12. dto.
+#facs_90_r5l12 3.13. N0.
+#facs_90_r5l13 den 14 dto.
+#facs_90_r5l14 den 16 dto
+#facs_91_r2l1 Desenkenberg
+#facs_91_r2l2 a
+#facs_91_r2l3 Biberstein
+#facs_91_r2l4 Aslin
+#facs_91_r2l5 Danen
+#facs_91_r2l6 Königsfelden
+#facs_91_r2l7 Trachselbald
+#facs_91_r2l8 In der Statt
+#facs_91_r2l9 Ander Spital
+#facs_91_r2l10 St. Johanser Haus
+#facs_91_r2l11 Ober Effitahl
+#facs_91_r2l12 Stifft
+#facs_91_r2l13 Banteserr
+#facs_91_r2l14 Lettitlveil
+#facs_91_r2l15 Insul
+#facs_91_r2l16 Krienißfergerhaus
+#facs_91_r2l17 Mußhaften
+#facs_91_r2l18 Siehinsaus
+#facs_91_r2l19 Rornherr
+#facs_91_r2l20 Interlabersaus
+#facs_91_r2l21 Einunger
+#facs_91_r2l22 Thissen Allmosen
+#facs_91_r2l23 boß Pfenning
+#facs_91_r2l24 umbgelt
+#facs_91_r2l25 Kilismeyer
+#facs_91_r3l1 d.o 17 tn
+#facs_91_r3l2 19 f
+#facs_91_r3l3 d. 20 do
+#facs_91_r3l4 d. Z. May
+#facs_91_r3l5 d. 23. April
+#facs_91_r3l6 70
+#facs_91_r3l7 den 24.
+#facs_91_r3l8 den 25 3to
+#facs_91_r3l9 ets
+#facs_91_r3l10 den 26
+#facs_91_r3l11 d. 27ten
+#facs_91_r3l12 d. 28 to
+#facs_91_r3l13 d. 30 x
+#facs_91_r3l14 d. 1. Mey.
+#facs_91_r5l1 An alle W. Ambtleüt.
+#facs_91_r5l2 1719
+#facs_91_r5l3 Schuldthlis undt kast etc.
+#facs_91_r5l4 Mit sonderem mißfallen ist Uns gutternemme
+#facs_91_r5l5 kommen, daß theils Orten in den Oberbeitlichen
+#facs_91_r5l6 Heüseren und Schlößeren Weltschen landts¬
+#facs_91_r5l7 die Obersten Gemacher insonderheit aber
+#facs_91_r5l8 die Estergen mit allerhand sachen undt
+#facs_91_r5l9 Grümpel beschwärt und Unrein gehalten
+#facs_91_r5l10 werdind, dahero dan geschicht daß, weilen
+#facs_91_r5l11 -
+#facs_91_r5l12 man offtmahlen denen Goutieres der
+#facs_91_r5l13 Jachungen nit beibommen kan, nicht
+#facs_91_r5l14 allein die boden, sondern gar die Tachstühle
+#facs_91_r5l15 Gefält, und deßetlegen in kurzer Zeit
+#facs_91_r5l16 widerumb reparirt werden müeßind, wo
+#facs_91_r5l17 durch Wir in nicht geringe umblöste.
+#facs_91_r5l18 c/
+#facs_91_r5l19 sonsten wohl versüetet werden könten
+#facs_91_r5l20 gesetzet verdinde, damit nun künftighin
+#facs_91_r5l21 Diesem übel vorgebogen werde, habend wir
+#facs_91_r5l22 Dir hiemit ernstlichen befehlen wollen, allen
+#facs_91_r5l23 fleiß anzukehren, daß die Esterich und
+#facs_91_r5l24 andere Oberste gemacher der Oberkeitl.
+#facs_91_r5l25 Schlößeren und gebeüren kein gehalten
+#facs_91_r5l26 werdend; Imgleichen auch die Pferdicanten
+#facs_91_r5l27 und andere bediente darzu allesfristi
+#facs_91_r5l28 anzumahnen, wie geschehen werde Wir
+#facs_91_r5l29 Uns hirmit versehen? Gott mit dir
+#facs_91_r5l30 Datt 18 feb 1708

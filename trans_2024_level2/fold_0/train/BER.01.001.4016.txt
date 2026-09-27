@@ -1,0 +1,230 @@
+Law ID: BER.01.001.4016
+Name: Einfuhr ausländischer Schweinen erlaubt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 219/219
+# High similarity (>=50%): 184
+# Low similarity (<50%): 35
+# Not found: 0
+#
+#facs_187_r1l1 No 6
+#facs_187_r1l2 it
+#facs_187_r1l3 Collath
+#facs_187_r1l4 2
+#facs_187_r1l5 of
+#facs_187_r2l1 Rechnungs Tagen
+#facs_187_r2l2 der Teutsch, und Weltschen Herren
+#facs_187_r2l3 Ambtleüthen Pm Osteren 1753.
+#facs_187_r2l4 Siechenhaus auf sonstag d. 1. Feb. 1753.
+#facs_187_r2l5 Wittlisfurgen Frytags 2: do
+#facs_187_r2l6 Abrechnung
+#facs_187_r2l7 Peterlingen Samstags 3. do
+#facs_187_r2l8 Interlaber Haus
+#facs_187_r2l9 Montag 85 do
+#facs_187_r2l10 Abrechnung
+#facs_187_r2l11 6 Kornherr
+#facs_187_r2l12 3. St. Pohannster Haus, Mitwochen 7. do
+#facs_187_r2l13 Muschafen
+#facs_187_r2l14 1
+#facs_187_r2l15 Donstag 8: do
+#facs_187_r2l16 Abrechnung
+#facs_187_r2l17 Frytags 9f do
+#facs_187_r2l18 Milden
+#facs_187_r2l19 2
+#facs_187_r2l20 Samstag 10' do
+#facs_187_r2l21 Verwenstat
+#facs_187_r2l22 23
+#facs_187_r2l23 3
+#facs_187_r2l24 Eriemsperg
+#facs_187_r2l25 Montag 82' ds
+#facs_187_r2l26 Arberg
+#facs_187_r2l27 5
+#facs_187_r2l28 konnte
+#facs_187_r2l29 3
+#facs_187_r2l30 Mitwochen 14 do.
+#facs_187_r2l31 Bruren
+#facs_187_r2l32 2.
+#facs_187_r2l33 Signan
+#facs_187_r2l34 C:
+#facs_187_r2l35 Donstag 15 do
+#facs_187_r2l36 Abrechnung
+#facs_187_r2l37 Oron Abrechnung Frgtags 16. do
+#facs_187_r4l1 Oron
+#facs_187_r4l2 1.
+#facs_187_r4l3 St. Johanufen
+#facs_187_r4l4 6
+#facs_187_r4l5 hrlach.
+#facs_187_r4l6 id
+#facs_187_r4l7 Abrechnung
+#facs_187_r4l8 Laupen
+#facs_187_r4l9 2
+#facs_187_r4l10 Hetliswijl
+#facs_187_r4l11 3
+#facs_187_r4l12 Oberhofen
+#facs_187_r4l13 4
+#facs_187_r4l14 3
+#facs_187_r4l15 Eriem sterger Haus
+#facs_187_r4l16 Lausane
+#facs_187_r4l17 4
+#facs_187_r4l18 2
+#facs_187_r4l19 Frautobruner
+#facs_187_r4l20 Bottstatt
+#facs_187_r4l21 3
+#facs_187_r4l22 Landshut
+#facs_187_r4l23 4
+#facs_187_r4l24 Nydauli
+#facs_187_r4l25 of
+#facs_187_r4l26 Abrechnung
+#facs_187_r4l27 Torberg.
+#facs_187_r4l28 2
+#facs_187_r4l29 Buchfer
+#facs_187_r4l30 5.
+#facs_187_r4l31 Aubone
+#facs_187_r4l32 2
+#facs_187_r4l33 V. Weinschen¬
+#facs_187_r4l34 toutes les
+#facs_187_r4l35 Summifwald
+#facs_187_r4l36 To,
+#facs_187_r4l37 Abrechung
+#facs_187_r4l38 bipp
+#facs_187_r4l39 6
+#facs_187_r4l40 1. Surgelorff
+#facs_187_r4l41 Abrechnung
+#facs_187_r5l1 363
+#facs_187_r5l2 Samstag d. 17. Februarij 1753.
+#facs_187_r5l3 Montags 19, do
+#facs_187_r5l4 Mitwochen 21' dto
+#facs_187_r5l5 Donstag 22f do
+#facs_187_r5l6 Samstag 24' do
+#facs_187_r5l7 Montags 26f do
+#facs_187_r5l8 Mitwochen 28 ; do
+#facs_187_r5l9 onstag 1. Marty.
+#facs_187_r5l10 Frytags 2i do
+#facs_187_r5l11 Samstag 3. do
+#facs_187_r5l12 Mantag 5. do
+#facs_187_r5l13 Mitwochen 7. do
+#facs_188_r2l1 Brandiß
+#facs_188_r2l2 2.
+#facs_188_r2l3 Abrechnung
+#facs_188_r2l4 Wangen
+#facs_188_r2l5 3
+#facs_188_r2l6 fivis Abrechnung
+#facs_188_r2l7 d°
+#facs_188_r2l8 1
+#facs_188_r2l9 5. Jun.
+#facs_188_r2l10 5. Insel
+#facs_188_r2l11 Arburch
+#facs_188_r2l12 4
+#facs_188_r2l13 Frachstolwald
+#facs_188_r2l14 2
+#facs_188_r2l15 Verlangen
+#facs_188_r2l16 3
+#facs_188_r2l17 brutigen
+#facs_188_r2l18 il
+#facs_188_r2l19 Abrechung
+#facs_188_r2l20 Morser
+#facs_188_r2l21 3
+#facs_188_r2l22 Romainmotier
+#facs_188_r2l23 3
+#facs_188_r2l24 6. Weysimen
+#facs_188_r2l25 2e Daulo Ambt
+#facs_188_r2l26 6. Wimmiß
+#facs_188_r2l27 6. Stifft.
+#facs_188_r2l28 3. Untersein
+#facs_188_r2l29 3 Interlaken
+#facs_188_r2l30 3. Isterten
+#facs_188_r3l1 1753
+#facs_188_r3l2 Malenstag den 8e. Marty
+#facs_188_r3l3 Freytags 9: do
+#facs_188_r3l4 Damstags 10f do
+#facs_188_r3l5 Montags 12' do
+#facs_188_r3l6 Mitwochen 14f. Du
+#facs_188_r3l7 alenstag 15' der
+#facs_188_r3l8 Erystags 16e do.
+#facs_188_r3l9 Dammstag 17. d.
+#facs_188_r3l10 Montags 19f. do
+#facs_188_r3l11 Mitwochen 21' d.
+#facs_188_r3l12 alonstag 22: do
+#facs_188_r3l13 Samstag 24' do
+#facs_188_r5l1 8
+#facs_188_r5l2 4
+#facs_188_r5l3 2
+#facs_188_r5l4 3
+#facs_188_r5l5 2.
+#facs_188_r5l6 1
+#facs_188_r5l7 4.
+#facs_188_r5l8 5
+#facs_188_r5l9 4
+#facs_188_r5l10 14
+#facs_188_r5l11 it
+#facs_188_r7l1 365
+#facs_188_r7l2 dauon
+#facs_188_r7l3 Montags den 26. Marty 1753.
+#facs_188_r7l4 Castelen
+#facs_188_r7l5 schenkenberg
+#facs_188_r7l6 28 do
+#facs_188_r7l7 Mitwochen
+#facs_188_r7l8 zößingen
+#facs_188_r7l9 Biberstein
+#facs_188_r7l10 29th do
+#facs_188_r7l11 Clonstag
+#facs_188_r7l12 Abrechnung
+#facs_188_r7l13 30 do.
+#facs_188_r7l14 Ponmont
+#facs_188_r7l15 Frytags
+#facs_188_r7l16 3 qr. d
+#facs_188_r7l17 Daußay
+#facs_188_r7l18 Neules
+#facs_188_r7l19 2: April
+#facs_188_r7l20 Montag
+#facs_188_r7l21 Ählen
+#facs_188_r7l22 4. do.
+#facs_188_r7l23 Mitwochen
+#facs_188_r7l24 Groß Spithal
+#facs_188_r7l25 Königsfels en
+#facs_188_r7l26 5. fr.
+#facs_188_r7l27 Lonstag
+#facs_188_r7l28 Abrechnung
+#facs_188_r7l29 12 do
+#facs_188_r7l30 Clonstag
+#facs_188_r7l31 Lenzburg.
+#facs_188_r7l32 76. St.
+#facs_188_r7l33 An
+#facs_188_r7l34 alle Teütsche und Weltsche Ambtleuth 4. Statt
+#facs_188_r7l35 freyweibel und Äman, Item per Placeard an
+#facs_188_r7l36 Die Pfeiler hiesiger Statt.
+#facs_188_r7l37 Einfuhr auslansischer Schweinen erlaubt
+#facs_188_r7l38 Schultheiß Räht aus Burger etc.
+#facs_188_r7l39 Wiewohlen aus Landts=vätterlicher vorsorge¬
+#facs_189_r1l1 Wir der Fränden Schweinen einbringung
+#facs_189_r1l2 Unsere Teutsch und Weltfihr Lande
+#facs_189_r1l3 et de
+#facs_189_r1l4 bey Confiscation zu verbieten, unterem
+#facs_189_r1l5 28: Decembl. 1718. bewogen worden.
+#facs_189_r1l6 und Solches in Truk publicieren
+#facs_189_r1l7 laßen, so haben Uns nichts desto weniger
+#facs_189_r1l8 die Umstände der Zeit und der
+#facs_189_r1l9 eingerißene Mißbrauch zur dispen¬
+#facs_189_r1l10 sation ein und anderer mahlen anlaß
+#facs_189_r1l11 gegeben; Eben aus der Ursache nun
+#facs_189_r1l12 und da Unß über die Ferner weite
+#facs_189_r1l13 wohtwendigkeit Vorstellungen geschehen,
+#facs_189_r1l14 crachtend Wir gut, und zum Vortheil
+#facs_189_r1l15 der Lieben unsrigen, dienlich, so thanes
+#facs_189_r1l16 verbott völlig aufzuheben, und daß
+#facs_189_r1l17 man so wohl feise als mager Schweine
+#facs_189_r1l18 von Eydt großl. Benachbahrten und
+#facs_189_r1l19 äusseren Fremden ohrten Har in
+#facs_189_r1l20 Unsere Lande führen und einbringen
+#facs_189_r1l21 möge, maniglich hiemit zu vergünstigen,
+#facs_189_r1l22 jedoch nur für so lange als Neiß
+#facs_189_r3l1 urtheil.
+#facs_189_r3l2 gefällig, und Wir nit angemesen finden
+#facs_189_r3l3 werden, ein anders zu verordnen; Wir befehlen
+#facs_189_r3l4 demmnach Euch, gleich übrigen Ambtleüthen,
+#facs_189_r3l5 Solches von Canzlen fürdersammst zum
+#facs_189_r3l6 verhalt verkünden, und gewohnter ohrten
+#facs_189_r3l7 anschlagen zu lasen. Gott mit Euch. Datl.
+#facs_189_r3l8 d. 13. Decemb. 1752.

@@ -1,0 +1,22 @@
+BER.01.001.2526
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 13/13
+# High similarity (>=50%): 13
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_16_r3l18 Ifferten, Nydauw, Arberg, Büren, Waagen,
+#facs_16_r3l19 Arwangen, Aarburg, Arauw, Brugg,
+#facs_16_r3l20 ob Idem
+#facs_16_r3l21 Schultheiß und Raht der Statt Zarn
+#facs_16_r3l22 Collath.
+#facs_16_r3l23 Weilen Vnserer Ernstgemeinten Erinnerung vom 15. daß wider die vorgehenden
+#facs_16_r3l24 Wärbungen beßer, als bißhero beschehen, zulifferen ein zweiffelhaffter Verstand
+#facs_16_r3l25 gegeben werden will, wie die abführenden geworbenen Ufersowen angehal¬
+#facs_16_r3l26 ten werden sollind; als habend wir vns hiemit dahin erleuteren wollen, daß alle
+#facs_16_r3l27 dergleichen Leicht, sie kommend zu Waßer oder Land an, aufgehalten, eingestellt
+#facs_16_r3l28 vnd wir dero verhafft sambt aller Vmbständen vnd Inhalt des examinis berichtet
+#facs_16_r3l29 werden sollind. Maßen demnach du deines theils bey Deinem Eid Und daheri¬
+#facs_16_r3l30 ger Verantwortung zu erstatten wüßen wirst. Dat. 21. July 1693.

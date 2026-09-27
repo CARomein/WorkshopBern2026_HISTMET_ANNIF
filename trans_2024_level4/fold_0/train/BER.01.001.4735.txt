@@ -1,0 +1,69 @@
+Law ID: BER.01.001.4735
+Name: Die Ausfuhr der jungen Pferden und aller Stuten, wird für ein Jahr lang verbotten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 58/58
+# High similarity (>=50%): 54
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_222_r3l10 Die Ausfülung zu jungen Pferden und aller
+#facs_222_r3l11 Noten, wird für ein Jahr lang verbotten,
+#facs_222_r3l12 An alle Herren Amtleut Deutsch und Welschen
+#facs_222_r3l13 Landes, 4 Städt, Freyweibel und Ammann
+#facs_222_r3l14 Schultheis Räth und Bürger
+#facs_222_r3l15 Wegen einem beförchtenden Pferdmangel in
+#facs_222_r3l16 hiesigen Landen haben Wir nöthig erachtet,
+#facs_222_r3l17 einligendes Ausfuhr Verbott ergehen zu lassen
+#facs_222_r3l18 wovon Wir Euch genug seine Exemplar zu senden
+#facs_222_r3l19 mit dem Befelch, solches zu männiglicher
+#facs_222_r3l20 Nachricht und Verhalt gewohntermassen publi¬
+#facs_222_r3l21 vieren und behorig einschreiben zu laßen. Datum
+#facs_222_r3l22 den 4ten 8ber 1793.
+#facs_222_r3l23 = ob id:
+#facs_222_r4l1 ob id:
+#facs_222_r4l2 Coll
+#facs_222_r4l3 lauteret hienö-
+#facs_222_r4l4 1458 p: 498 item
+#facs_222_r4l5 p. 518 543.
+#facs_222_r5l1 -37
+#facs_222_r5l2 Verordnung
+#facs_222_r5l3 Wir Schultheiß Klein und Grosse Räthe
+#facs_222_r5l4 der Stadt und Republik Bern, thun vnnd hiermit;
+#facs_222_r5l5 Nachdem Wir in sorgfältige Überlegung genom¬
+#facs_222_r5l6 en, wie durch die eine Zeit daher so außeror
+#facs_222_r5l7 dentliche und allzustarbe Ausfuhr aller Arten
+#facs_222_r5l8 von Pferden, ja sogar der tragenden Stuten
+#facs_222_r5l9 aus dem Lande ein ausserordentlicher Pferdmangel
+#facs_222_r5l10 für das Land zu besorgen stehet, vermitelst
+#facs_222_r5l11 dessen für die Zukunft, sowohl für den so nöthigen
+#facs_222_r5l12 Aberbau und sonstige Fuhrungen, als auch in Ab¬
+#facs_222_r5l13 richt der Pferd zucht selbst, für den Landman¬
+#facs_222_r5l14 ein unersezlicher Schaden erwachsen wurde.
+#facs_222_r5l15 Als haben Wir aus Landesväterlicher Vorforg¬
+#facs_222_r5l16 und auf den von Unserer verordneten Pferdzucht
+#facs_222_r5l17 Commission erstalleten Vortrag nöthig erachtet
+#facs_222_r5l18 die Ausfuhr aller Stuten überhaupt, auch allen
+#facs_222_r5l19 Pferde überhaupt so nicht das achte Jahr zurückge¬
+#facs_222_r5l20 legt haben und noch zeichnen, während der Zeit vor
+#facs_222_r5l21 einem Jahr von dato an gerechnet, zu verbieten,
+#facs_222_r5l22 alles bey einer Busse von zweyhundert Pfunden
+#facs_222_r5l23 von jedem Haupt, wovon ein Drittel Uns, ein dritel
+#facs_222_r5l24 dem Amtsmann des Orts, und ein Drittel dem Ver¬
+#facs_222_r5l25 beider nebst Geheimhaltung seines Namens zu bommen soll;
+#facs_222_r5l26 = Welches
+#facs_223_r3l1 Welcher zu jedermanns Verhalt öffente
+#facs_223_r3l2 décidée dans le conseil de la derniere
+#facs_223_r3l3 lich durch den Drule bekannt gemacht, und
+#facs_223_r3l4 an gewohnten Orten angeschlagen werden
+#facs_223_r3l5 soll. Mit dem ernstlichen Befehl an Un
+#facs_223_r3l6 sere Ober- und Unter Beamtete, durch die
+#facs_223_r3l7 bestellten Vieh inspektoren und Zollcomissen
+#facs_223_r3l8 leztere bey Beziehung des Trattengelds
+#facs_223_r3l9 geflißene Acht zu bestellen, und die wieder
+#facs_223_r3l10 diese Unsere Ordnung handlende nach auf¬
+#facs_223_r3l11 habender Pflicht zu bestraffen.
+#facs_223_r3l12 Geben in Unserer Großen Raths Ver-
+#facs_223_r3l13 samlung den 4ten Oktober 1793.

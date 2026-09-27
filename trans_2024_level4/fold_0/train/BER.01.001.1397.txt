@@ -1,0 +1,41 @@
+Law ID: BER.01.001.1397
+Name: Wegen der Genfer Barque Geverd.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 30/30
+# High similarity (>=50%): 29
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_124_r4l1 Wegen der Genser
+#facs_124_r4l2 barque Gerard
+#facs_124_r4l3 Lausanna Morgen, Neuis, Chillion.
+#facs_124_r4l4 C
+#facs_124_r4l5 Schultlheis und Rhal
+#facs_124_r4l6 Wie vernemend glaubhafft, daß mit der Euhr vnd durchfuhr den
+#facs_124_r4l7 jenigen Sachen, so wichendtlich in die Genffer, Bacque
+#facs_124_r4l8 eingeladen vnd nacher Genff conduciret werdend, mit Wein
+#facs_124_r4l9 geferdt könne verubt werden, beides mit Durchführung ver¬
+#facs_124_r4l10 votaner Wahren, wie auch mit Verschlechung des Zells
+#facs_124_r4l11 Alles durch das mittel, daß dies Schifflent vnd conductoro
+#facs_124_r4l12 ich der eigendtlichen angebung aller eingeladnen Wahren
+#facs_124_r4l13 bißhar exempt gemacht. Solchem nun gebürend Vor¬
+#facs_124_r4l14 zukommen, Habend Wir, auß gnugsamer Vrsach,
+#facs_124_r4l15 angesehen, und wollend hiemit fürs künfftig geordnet
+#facs_124_r4l16 haben, daß die Barquemeister und Fuhrlüth, sich
+#facs_124_r4l17 Jedes mals, gegen unseren Zolls bestellten vnd vffsecherei
+#facs_124_r4l18 zuerleuteren und in Truiren anzuzeigen schuldig sein
+#facs_124_r4l19 sollind, was, vnd wie viel der untern und anderen
+#facs_124_r4l20 gierung wahres. Sie eingeladen und zu Ire conduit
+#facs_124_r4l21 genommen. Vnndt sollindt nit allein dieselben, zu solcher
+#facs_124_r4l22 freüeren angebung: sondern auch die fadoren vnd kauffhuß
+#facs_124_r4l23 diener, zu fleißiger aufsicht durch Vnsern gehöresende
+#facs_124_r4l24 Ambtlich beeidiget werden, darmit dardurch alle
+#facs_124_r4l25 vernern gewerd, der Zollsverschlachung und Verpochner
+#facs_124_r4l26 Wahren durchfuhr halb, verhütet werde. disen
+#facs_124_r4l27 nach wirstuff denen Zolls bestellten Hinder die, noht¬
+#facs_124_r4l28 crendige erbgereisung zugeben, und daß diesem Vnseren
+#facs_124_r4l29 willen nachgelebt werde, handt abzuhallten müßen.
+#facs_124_r4l30 valum 11. Aug. 1648.

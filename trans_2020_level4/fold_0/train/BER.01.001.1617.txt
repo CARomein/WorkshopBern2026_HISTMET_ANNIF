@@ -1,0 +1,31 @@
+Law ID: BER.01.001.1617
+Name: Den österreichischen Zolsvergleich schicken.
+
+#facs_333_r1l14 Thun Burgdorff Gottingen, draur
+#facs_333_r1l15 Brugg Lentzburg, Arberg Nydauw vndt
+#facs_333_r1l16 Buren den Ostereichischen Tols Vergleich
+#facs_333_r1l17 schiken
+#facs_333_r1l18 Schuldtheiß vnd Staht etc.
+#facs_333_r1l19 Dusta diebi der Edegusis so
+#facs_333_r1l20 kauff vndt handelsleuthen, der Sollen halben den Oser
+#facs_333_r1l21 geuchischen landen, sich ertzeigete beschwerligkeiten Ist
+#facs_333_r1l22 Verschonen 614 Jahrs zwuschen Ihr Ertzfürstlich dish
+#facs_333_r1l23 Von Ostereih, vndt gemeinen dreyzechen beweise
+#facs_333_r3l1 697.
+#facs_333_r3l2 Loblicher Eidtgnofschafft, In erleuberung alber vndt
+#facs_333_r3l3 vorgehender Verbrägen, ein frisher Vergleich wie leurtheil
+#facs_333_r3l4 der Sollen halber gegen einanderen stehen sollindt, verhandlet
+#facs_333_r3l5 Vndt Eiderhar auff teiben Ihr Erthel desu ratificart worden
+#facs_333_r3l6 daruon Wir der Core Euch beiligenden Iusstantzlichen Vfzu¬
+#facs_333_r3l7 zu dem endt zeuberschiken, Nehtwendig Vndt guttefunden
+#facs_333_r3l8 daß so wohl Vntere angehörige Kauff vndt handelflichr,
+#facs_333_r3l9 sich dessen vff Osterreichem boden Vndt denselben oll¬
+#facs_333_r3l10 stetten Wider alle höchere Vndt weitere Zohls abforderung
+#facs_333_r3l11 zubehelffen, als auch Vntere Colner, gegen den Ostereichischen
+#facs_333_r3l12 Wahren, solchem sich gemes Zeuerhalten, vndt disem also
+#facs_333_r3l13 die einten vndt anderen nachzekommen wüssind, Masen
+#facs_333_r3l14 wir es gehabt vndt bevolchen haben Wellendt, darzu
+#facs_333_r3l15 zu Cine Ir) den ete Vergleiche ordnung zukünfftigen
+#facs_333_r3l16 Jeder weiligr nachricht gehorigen orts einschreiben zelasen
+#facs_333_r3l17 wüssen wiest datum 13 Octobris 1616.
+END

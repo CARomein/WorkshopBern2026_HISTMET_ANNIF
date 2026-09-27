@@ -1,0 +1,39 @@
+Law ID: BER.01.001.4229
+Name: Wegen Versendung der Kinderen in äussere Schulen.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 27/27
+# High similarity (>=80%): 3
+# Low similarity (<80%): 24
+# Not found: 0
+#
+#facs_5_r2l1 An
+#facs_226_r5l3 die H. Amtleüth zu Wangen, Arlangen, Sipp, Brandiß,
+#facs_231_r2l4 Summe wald, Arburg, Zoffingen, Stadt, Arau Statt
+#facs_251_r5l21 wegen Verzehndung der herd Apflen ausgegangenen
+#facs_52_r4l10 Schultheiß und Rath etc.
+#facs_83_r2l8 ner ausmache:/ Wir auf den ersten Tag
+#facs_3_r1l1 Coll
+#facs_64_r3l10 Butachten mit mehrerem vernommen, welcher
+#facs_206_r3l20 unerachtet Unserer allbereits ausgegangener Verordnung
+#facs_235_r2l2 Die verschiedenen Herren Beistlichen, so zu denen
+#facs_236_r4l20 rem Untersuchen zu laßen, ob nicht etwann die
+#facs_43_r3l3 sere Angehörige Ihre Herzen von bösen Küsten
+#facs_188_r10l20 den Pfarrherren büßend gemacht werde, Ihre Bäctags
+#facs_68_r4l16 der in Eüberem Amt, Bezirk sich befindlichen
+#facs_104_r3l5 aber anders nicht könne beschehen, als mit Vor¬
+#facs_231_r6l26 daß ein jelweiliges Chef de Regiment, den Tod oder sonstigen
+#facs_214_r2l12 und sich darnach zu richten wißen, so haben Wir Eüch
+#facs_58_r4l5 placcard enthaltene Verordnung zu errichten
+#facs_205_r3l19 maßen publicieren zu laßen, und Amtliche Hand
+#facs_227_r2l15 den Gangsten, zum beschällen geführt werden, bey straf
+#facs_168_r2l10 3. Wann aber aus erheblichen Uns belegenden Grün¬
+#facs_232_r3l17 entfernet ist, so soll Unser Will und befelch an aller
+#facs_117_r5l8 standenen, und als Invalides seines orts einregistrierten
+#facs_30_r3l11 ihrer Weber führen sollen :/ mit guter Farb, die auf¬
+#facs_182_r2l14 belegt; derjenige dann, welcher solche einzubringen
+#facs_81_r4l5 darnach richten, und vor Straff und Schaden
+#facs_224_r5l26 Wie zu thun etc. Dat. d. 25ten febr. 1765.

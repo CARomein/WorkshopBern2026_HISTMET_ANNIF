@@ -1,0 +1,93 @@
+Law ID: BER.01.001.1937
+Name: Wie selbige Underthanen mit Wein handlen mögind.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 82/82
+# High similarity (>=50%): 77
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_319_r2l1 An alle W: Ambtleüth: Wie
+#facs_319_r2l2 selbige Underthanen mit wei-
+#facs_319_r2l3 handlen mögend.
+#facs_319_r2l4 schuld theis und Rast etc
+#facs_319_r2l5 ( wurde)
+#facs_319_r2l6 Es hat der mißbrauch, so in Verführung des wein¬
+#facs_319_r2l7 Verkauffs alhie in vnser Stadt, durch vnsere Vnder-
+#facs_319_r2l8 thanen, bißhar in den einten und anderen Weg, verubt-
+#facs_319_r2l9 worden, —ans vrsach gegeben und verleitet, diser
+#facs_319_r2l10 Wein gwerbs halb dis einzihlung zumachen und ange
+#facs_319_r2l11 7
+#facs_319_r2l12 sechen, Maßen durch ein deswegen gemachte Ordnung
+#facs_319_r2l13 beschechen, daß derselbe Weingwerb alhier in vnser
+#facs_319_r2l14 Haubtstad, gleich wie bej der Pinten, Also auch zu
+#facs_319_r2l15 gantzen Vaßen, niemandts anderem alß vnseren
+#facs_319_r2l16 bürgeren zugelaßen: und hiemit anderen, es seye
+#facs_319_r2l17 Vnderthanen oder frömbde, deßen nit befuegt sein.
+#facs_319_r2l18 höllin. Doch wollend wir solches allein von dem
+#facs_319_r2l19 pff gwin und gwerb hin erkaufften Wein ver¬
+#facs_319_r2l20 Standen, vnd hiemit zugelaßen haben, daß ein
+#facs_319_r2l21 Jeder sein eigen Weingewechß mit einer Attestäen
+#facs_319_r2l22 vom Gericht daß er sein eigen gewechß seyt,
+#facs_319_r2l23 alhar bringen, und zu maßen verkauffen möge.
+#facs_319_r4l1 1627.3
+#facs_319_r4l2 Wir habend auch zu solchem zugelaßnen Wein ver¬
+#facs_319_r4l3 kauff, dise abtheilung gemacht und bestimt, daß der Coste
+#facs_319_r4l4 Wein, vff dem vorderen platz, vor der geselschafft zum
+#facs_319_r4l5 Pfistern: der Thalwein aber vff dem Anderen platz
+#facs_319_r4l6 gegen Graben; Aller übrige Wein aber, vnder dem titu
+#facs_319_r4l7 Landtweins vffem platz vorem Zeüghauß beim Reich.
+#facs_319_r4l8 Marckt, abgelegt und verkaufft werden solle, damit
+#facs_319_r4l9 desto weniger ein gewecht fürs ander, und vnder
+#facs_319_r4l10 anderem nahmen verkaufft werde.
+#facs_319_r4l11 Mit weniger habend wir auch angesehen, daß der
+#facs_319_r4l12 Koste Wein, mit dem Wort Costo: Und der Reiff wein¬
+#facs_319_r4l13 mit dem Wort Lavaud, an beiden böden angebront ge¬
+#facs_319_r4l14 Zeichnet: und der Wein, so zwischen Anbonne vndt
+#facs_319_r4l15 Bignin Wachst, beide ort eingeschloßen, für Coste wein¬
+#facs_319_r4l16 Der aber so zwischen Lustry und Corsier Wachßt, beide
+#facs_319_r4l17 ort auch eingeschloßen, für Reiffwein gehalten. All
+#facs_319_r4l18 ander gewechß aber, zum Landtwein gerechnet
+#facs_319_r4l19 Werden solle
+#facs_319_r4l20 +
+#facs_319_r4l21 Darbej verstehend wir daß zwar der Wein, den
+#facs_319_r4l22 der einte und andere burger unser Stadt, von seine
+#facs_319_r4l23 in La Coste oder im Thal habenden Reben, In seinen
+#facs_319_r4l24 Keller alhier in der Stadt, einzelegen begehrt, der
+#facs_319_r4l25 anbrönnung ietzgedachten Zeichens Exempt und über-
+#facs_319_r4l26 hebt.
+#facs_319_r4l27 t.a.d.
+#facs_320_r1l1 1628
+#facs_320_r1l2 Der Jenige aber derselben vnderworffen sein solle, den
+#facs_320_r1l3 ein solcher burger, oder auch ein anderer, so kein Wein¬
+#facs_320_r1l4 gewechß hat, Drinnen von anderen Erkaufft, und vff
+#facs_320_r1l5 Wider verkauff und gierb hin, es seye in der Stadt, oder
+#facs_320_r1l6 offen Landt, dort abfüehren laßt: Dan es den Verstand
+#facs_320_r1l7 hat, daß auch der Coste- vnd Reifferin so in vnsere
+#facs_320_r1l8 Teütsche Landtschafft verfüehet wirt, es seye durch
+#facs_320_r1l9 Vnsere Burger oder Unterthanen gedeüter maßen ge=
+#facs_320_r1l10 zeichnet sein pölle
+#facs_320_r1l11 Damit nun mennigklich, so weit es ein Jeden ansicht,
+#facs_320_r1l12 4
+#facs_320_r1l13 sich darnach zuhalten, Und die darauff gesetzte Con¬
+#facs_320_r1l14 fiscation-straff zemeiden wüße, habend wie dis
+#facs_320_r1l15 Unser einsechen die, Wie anderen vnseren Ambtleüthen
+#facs_320_r1l16 hiemit überschreiben wollen, mit befeich, daßelbe
+#facs_320_r1l17 von Canzlen publicieren zulaßen: Alß du dan zu
+#facs_320_r1l18 thun wüßen wirst. Datum 5. Febr: 1672
+#facs_320_r1l19 Lausanna, Morsae, Hewis undt
+#facs_320_r1l20 Romammostier p appendicem.
+#facs_320_r1l21 Sie angeregte Zeichnung dan des verkauffen
+#facs_320_r1l22 Doder vff den verkauff abfüehrenden Meins, wiesen
+#facs_320_r1l23 gebührend zebestellen, den Gerichten oder
+#facs_320_r1l24 Kirchhörinen nach abzutheilen, und hierzu
+#facs_320_r2l1 oude a fois, et de ces
+#facs_320_r2l2 thu gendtlich. Persohnen Zebestellen, und dieselben zu
+#facs_320_r2l3 treuwer Verrichtung solchen Befelchs, in Eidts glübd,
+#facs_320_r2l4 auffenemen: ihnen auch das brönzeichen, mit einem
+#facs_320_r2l5 Baren ob der schrifft zuzestellen haben: Denen für
+#facs_320_r2l6 her Müy von iedem daß ein halben balzen, vom pro¬
+#facs_320_r2l7 prietario des weins zu empfachen, geordnet sein.
+#facs_320_r2l8 soll. Datum ut supra

@@ -1,0 +1,23 @@
+Law ID: BER.01.001.4068
+Name: Wahrnung wider die Spanische Dublonen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 12/12
+# High similarity (>=50%): 12
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_8_r2l6 An
+#facs_8_r2l7 Die Oberländischen Ambtleuth, item Ahlen und Vivis.
+#facs_8_r2l8 Wahrnung bider die Stammischen Dublinen.
+#facs_8_r2l9 Schultheis und Raht.
+#facs_8_r2l10 Uns ist in Vorschein bommen, wie daß falsche dopelte
+#facs_8_r2l11 und einfache Stanische dublonen ins Land geborffen.
+#facs_8_r2l12 berden; damit nun niemand durch deren Abnahm
+#facs_8_r2l13 zu Schaden komme, wollen wir Euch hiemit befohlen haben,
+#facs_8_r2l14 durch Publication von Canzlen, mennig. verlohrnen
+#facs_8_r2l15 zu laßen, sich wohl in acht # auch andere allhählig in
+#facs_8_r2l16 vorstehende kommende verdächtige, oder gar helfche Serten
+#facs_8_r2l17 nicht anzunemmen. Wie zu thun etc. Datum d. 14ten Jany. 1756.

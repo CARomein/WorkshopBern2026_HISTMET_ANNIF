@@ -1,0 +1,190 @@
+Law ID: BER.01.001.3245
+Name: Verbott wegen Jagens und Hetzens.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 179/179
+# High similarity (>=50%): 164
+# Low similarity (<50%): 15
+# Not found: 0
+#
+#facs_153_r3l1 Beschreibung
+#facs_153_r3l2 Der Teütsch und Weltsch Herre
+#facs_153_r3l3 propr.
+#facs_153_r3l4 auf Ihre Rechnung
+#facs_153_r3l5 Burgdorff
+#facs_153_r3l6 Fraubbrunnen
+#facs_153_r3l7 Ruchsee, Dinstags dem
+#facs_153_r3l8 Erberg Mittwochen den
+#facs_153_r3l9 Ruppen
+#facs_153_r3l10 Nidaul Donstag, den
+#facs_153_r3l11 büren
+#facs_153_r3l12 Erlach.
+#facs_153_r3l13 Freytags den
+#facs_153_r3l14 St Johansen
+#facs_153_r3l15 Thorberg. Montags den
+#facs_153_r3l16 Settis of
+#facs_153_r3l17 Wangen dinstags den
+#facs_153_r3l18 bixx
+#facs_153_r3l19 8
+#facs_153_r3l20 chtvangen Mivevoisen
+#facs_153_r3l21 Brandiß
+#facs_153_r3l22 Thun Domstags den
+#facs_153_r3l23 Oberhoffen
+#facs_153_r4l1 Aintleuthen
+#facs_153_r4l2 1718.
+#facs_153_r4l3 februarius.
+#facs_153_r4l4 28
+#facs_153_r4l5 Martius.
+#facs_153_r4l6 1to
+#facs_153_r4l7 2. do.
+#facs_153_r4l8 3 do
+#facs_153_r4l9 4 do
+#facs_153_r4l10 7
+#facs_153_r4l11 8.
+#facs_153_r4l12 9 do
+#facs_153_r4l13 10. do.
+#facs_154_r2l1 Frünisberg. Freytags den
+#facs_154_r2l2 Sumißbald Inontags den
+#facs_154_r2l3 Dignaul
+#facs_154_r2l4 Interlochen Hauß, darstag
+#facs_154_r2l5 Frienisbergor
+#facs_154_r2l6 Diechenhauß
+#facs_154_r2l7 Mittbochens den
+#facs_154_r2l8 Musshaffen
+#facs_154_r2l9 Weltsche Rechnungen
+#facs_154_r2l10 Wiblisburg, dienstags dem
+#facs_154_r2l11 Patterlingen, Freytags den
+#facs_154_r2l12 Milden = jambstags en
+#facs_154_r2l13 Oron. Montags een
+#facs_154_r2l14 Chillon mitevoisen, den
+#facs_154_r2l15 Theulenstatt
+#facs_154_r2l16 Beaumont, donstags den
+#facs_154_r2l17 Weltsch weinschenk, Sambstags der
+#facs_154_r2l18 Morsel, montags den
+#facs_154_r2l19 Romainmotier, mich wochen den
+#facs_154_r2l20 verstorben, darstags dem
+#facs_154_r2l21 Lausanne, Exeijtags den
+#facs_154_r5l1 Martius
+#facs_154_r5l2 11.
+#facs_154_r5l3 14. do
+#facs_154_r5l4 15.9
+#facs_154_r5l5 16e
+#facs_154_r5l6 17. do.
+#facs_154_r5l7 18. J
+#facs_154_r5l8 19. d
+#facs_154_r5l9 21. Id.
+#facs_154_r5l10 23.5
+#facs_154_r5l11 20 do
+#facs_154_r5l12 26. J
+#facs_154_r5l13 28.5
+#facs_154_r5l14 30. do.
+#facs_154_r5l15 31d
+#facs_154_r5l16 M. Aprilis
+#facs_154_r6l1 Vider veutscher
+#facs_154_r6l2 Baubherr
+#facs_154_r6l3 Montags den
+#facs_154_r6l4 St. Johannesen, Haus
+#facs_154_r6l5 Fructigen
+#facs_154_r6l6 Wimis. Dinstags den
+#facs_154_r6l7 Landshuct
+#facs_154_r6l8 Kornherr Middbochen
+#facs_154_r6l9 Bottstatt
+#facs_154_r6l10 Aubonne
+#facs_154_r6l11 Donstags den
+#facs_154_r6l12 Neules
+#facs_154_r6l13 Trachselwaldt Freytags den
+#facs_154_r6l14 Biberstein Montags¬
+#facs_154_r6l15 daanen
+#facs_154_r6l16 Arburg dinstags den
+#facs_154_r6l17 zofdingen,
+#facs_154_r6l18 Schenckenberg  Mittwochens den
+#facs_154_r6l19 Weyinnen
+#facs_154_r6l20 Interlachen Freytags den
+#facs_154_r6l21 underseen
+#facs_154_r6l22 ählen Sambstags den
+#facs_154_r6l23 Kongsfelden
+#facs_154_r6l24 Lentzburg. Mietwosen den
+#facs_154_r6l25 Stifft allhier
+#facs_154_r6l26 außgeschriben den 22. Jan: 1718
+#facs_154_r7l1 289
+#facs_154_r7l2 J. Aprilis
+#facs_154_r7l3 9. do.
+#facs_154_r7l4 6.9
+#facs_154_r7l5 7. do
+#facs_154_r7l6 3
+#facs_154_r7l7 11 de
+#facs_154_r7l8 12. do.
+#facs_154_r7l9 13.5
+#facs_154_r7l10 19 do
+#facs_154_r7l11 16 do
+#facs_154_r7l12 20. d.
+#facs_155_r3l1 Verbott
+#facs_155_r3l2 Wegen Jagens und hetzens.
+#facs_155_r3l3 An die Teütsche H. Amtleuth 4. Stätt
+#facs_155_r3l4 e
+#facs_155_r3l5 Freyweibel und Anna
+#facs_155_r3l6 Schuldtheis und Rath der Stadt Bernst
+#facs_155_r3l7 Bÿ biser anrunkender Brunst= und beutschen
+#facs_155_r3l8 deß gewilds wollend wie in erfrüschung
+#facs_155_r3l9 deß vermörigen Jahrs von dem höchsten
+#facs_155_r3l10 gevallt aus gegebener getrückten Jeger¬
+#facs_155_r3l11 Ordnung die hiemit befohlen haben nit nur
+#facs_155_r3l12 das Verbott sich von Liechtmäß anbiß auff
+#facs_155_r3l13 Bartholomees der fallung alleß gewildt sich
+#facs_155_r3l14 gäntzlich zu enthalten, zu dem End auch allen
+#facs_155_r3l15 hunden die gewohnten schwaren prügel und
+#facs_155_r3l16 bangell anzuhäncken, sonderen annoch gedeut
+#facs_155_r3l17 getruckte Jegenordnung in Ihrem gantzen
+#facs_155_r3l18 innhalt offentlich von Cantzlen verlesen zulaßen,
+#facs_155_r3l19 allß wornach sich jedermänniglich zu
+#facs_155_r3l20 kommung darinnen enthaltener Straaff zu
+#facs_155_r3l21 richten wüßen wird. Gott mit dir. Dat. 26. Jan.
+#facs_155_r3l22 17B
+#facs_155_r5l1 287.
+#facs_155_r5l2 Beschreibung
+#facs_155_r5l3 Alles T. und IV. Amtleuthen Item Grandson
+#facs_155_r5l4 und Schwartzenburg wegen
+#facs_155_r5l5 Bestätigung der Loostordnung.
+#facs_155_r5l6 Schuldtheiß Räth und Bürger der Statt Hern
+#facs_155_r5l7 Wir habend bereidts im Vergangenen Frühejahr
+#facs_155_r5l8 das Looß zu Verjechung unßer Ämteren mit
+#facs_155_r5l9 fast einhellen mehr bestätiget, und zuberathen
+#facs_155_r5l10 anbefohlen, mit waß für einer ordnung selbiges
+#facs_155_r5l11 begleitet werden solle; Wie nun sothane Looß¬
+#facs_155_r5l12 ordnung diesem zufolg zu papeir gebracht worden
+#facs_155_r5l13 und auff Mitwohans den 16. febr. nechstkünftig mit
+#facs_155_r5l14 abhandlung derselben der anfang gemacht werden
+#facs_155_r5l15 wird; Allß habend wir dich deßen /: gleich gegen
+#facs_155_r5l16 allen unseren Amtleüthen auch beschieht :/ hiemit
+#facs_155_r5l17 nachrichtlich verständigen und überlaßen wollenn
+#facs_155_r5l18 dich by tractation dieses geschäfts einzufinden.
+#facs_155_r5l19 Bood mit dis! Datx. 28. Janx. 1718.
+#facs_156_r2l1 An alle Teütsche Amtluth 4. Statt, Frey¬
+#facs_156_r2l2 weibel und Amann stein etc. zedell an
+#facs_156_r2l3 H. Großweibel und H. Gerichtschreiberen
+#facs_156_r2l4 wegen bannisation
+#facs_156_r2l5 deß faltschmüntzers Bonaventura Landes
+#facs_156_r2l6 deß Spihlmanns von Staffels.
+#facs_156_r2l7 Schuldtheiß und Rath der Stato Bern etc.
+#facs_156_r2l8 Collaten von seithen Lobl. Orths Blarus sind wir be¬
+#facs_156_r2l9 verrichtet worden, welcher gestalten Bonaventur
+#facs_156_r2l10 feül den Spihlmann von Stäffels, deßen
+#facs_156_r2l11 Beschreibung hierbey liget, verschiedener miße
+#facs_156_r2l12 Thaten, absonderlich aber deß faltschmutzen
+#facs_156_r2l13 wegen, Labenslang deß Lands, und von
+#facs_156_r2l14 gesamter Eydtgnosschaft in die Verweisung
+#facs_156_r2l15 kannt worden, mit Freündt Eydtgn. ersuchen,
+#facs_156_r2l16 Uns belieben möchte hinder unßer bottmäßig
+#facs_156_r2l17 keit ein gleiches zu erstatten; Wan
+#facs_156_r2l18 Wie von gemeiner sicherheit wegg, und in
+#facs_156_r2l19 besag zusammenhabender Vertragen sothan
+#facs_156_r2l20 ansuchen nicht entgegen seyn können; allß
+#facs_156_r3l1 289.
+#facs_156_r3l2 wollend Wir die /: gleich übrigen äußeren Amtleuthen
+#facs_156_r3l3 auch beschieht: hiemit befohlen haben, in dem
+#facs_156_r3l4 Amt auff diesen Leute zu achten, auff betretten ein¬
+#facs_156_r3l5 setzen zelaßen, und Lebenslang Eydtlich von Unßeren
+#facs_156_r3l6 Statt und Landen Zu verweisen! Dat. 31. Janl. und
+#facs_156_r3l7 wegen eingeholten Portreits den 14. Marty 1718.

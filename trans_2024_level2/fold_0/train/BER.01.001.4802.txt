@@ -1,0 +1,128 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 121/121
+# High similarity (>=80%): 117
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_140_r4l9 Erneüerte Verordnung zu Aeufnung
+#facs_140_r4l10 der Pferd Zucht in Mr Ghl. Deutschen Landen¬
+#facs_140_r4l11 An die Herren Amtsleute zu Wangen
+#facs_140_r4l12 Aarwangen, Bipp, Brandis, Sumiswald,
+#facs_140_r4l13 Trachselwald, Burgdorf, Thorberg, Landthut,
+#facs_140_r4l14 Fraubrumen, Signau, Thun und Wimmis,
+#facs_140_r4l15 demie an die Freyweiblen in denen Land
+#facs_140_r4l16 grichten Seftigen, Konolfingen und Untern
+#facs_140_r4l17 Theil von Zollikofen
+#facs_259_r2l4 Schultheis und Rath! etc.
+#facs_140_r4l19 Was Wir auf den Vortrag Unserer Pferd¬
+#facs_140_r4l20 zucht Commission, wegen Beshellung der
+#facs_140_r4l21 Stuten von schlechten Hengsten publiciren
+#facs_140_r4l22 laßen, ist in mitkommendem Placcard
+#facs_140_r4l23 enthalte
+#facs_70_r3l1 Collati
+#facs_140_r6l1 269
+#facs_140_r6l2 enthalten, welches Ihr in Eüerem Amt
+#facs_140_r6l3 jedennoch nicht von Canzlen sondern den
+#facs_140_r6l4 Reichtsstellen nach, und durch öffentliche Un¬
+#facs_140_r6l5 schlagung an den gewohnten Orten publiciren
+#facs_140_r6l6 zu laßen, und euch darnach zu verhalten
+#facs_140_r6l7 Datum den 9ten
+#facs_140_r6l8 befelchnet werdet
+#facs_140_r6l9 Hornung 1796
+#facs_140_r6l10 ob id: Publication.
+#facs_140_r6l11 Demnach Meyschen in Erwägung ge¬
+#facs_140_r6l12 zogen, daß die beyden unterm 25ten Jenner,
+#facs_140_r6l13 1762. und 6ten Merz 1765. zu Aeufnung
+#facs_140_r6l14 der Pferdzucht emanirten Verordnungen
+#facs_140_r6l15 gröstentheils nicht mehr auf die gegenwärtigen
+#facs_140_r6l16 Einrichtung passen, und daher beynahe gänzlich
+#facs_140_r6l17 besonders die erstere in Vergessenheit gerath¬
+#facs_140_r6l18 Als haben Hochdieselben zu einer
+#facs_140_r6l19 sind
+#facs_140_r6l21 Zeit wo die Pferdzucht einen ganz besondern
+#facs_140_r6l22 Aufmerksamkeit gewürdigt zu werden verdient
+#facs_140_r6l23 nothwendig erachtet, jene vorherigen Verord¬
+#facs_140_r6l24 nungen in eine neue einzügießen, um dadurch
+#facs_140_r6l25 alles was sich in erstern auf die innländische
+#facs_140_r6l26 Pfers Zucht beziehet, zu vereinigen zu vervoll¬
+#facs_140_r6l27 ständigen und in ein Kanzes zu bringen
+#facs_140_r6l28 In Aufhebung ermelter Verordnungen
+#facs_71_r3l2 n
+#facs_141_r1l1 270.
+#facs_141_r2l1 von 1762 und 1765 statuiren M.
+#facs_229_r2l26 als
+#facs_141_r2l3 demnach was hier von einem zum andern
+#facs_15_r4l4 folget
+#facs_141_r2l5 In den Bezirken in welchen die
+#facs_141_r2l6 gewohnten jährlichen Pferdzeichnungen
+#facs_141_r2l7 gehalten werden, so wohl deutschen als
+#facs_141_r2l8 welschen Landes, sollen keine andere als
+#facs_141_r2l9 gezeichnete Hengste zum Beschellen gebrauchs
+#facs_141_r2l10 werden; unter einer Busse von fünf
+#facs_141_r2l11 Thalern, welche sowohl von dem bestehen
+#facs_141_r2l12 des Hengsts, als dem Eigenthümer der Stute,
+#facs_141_r2l13 bezogen werden sollen.
+#facs_141_r2l14 2.) Da sich auch dermalen eine genugsame
+#facs_141_r2l15 Anzahl dienlicher ZuchtHengste in Unsern
+#facs_141_r2l16 Landen vorfindet: Als soll keine Stute
+#facs_141_r2l17 unter was für Vorwand es immer auch seyn
+#facs_141_r2l18 mag, zu einem auser hiesiger Vollmäßig.
+#facs_141_r2l19 keit stehenden Hengste zum Beschallen ge-
+#facs_141_r2l20 führt werden; bey einer Strafe von
+#facs_141_r2l21 Zehen Thalern, die von dem Besizer der
+#facs_141_r2l22 Stute zu beziehen seyn wird.
+#facs_141_r2l23 3) Soll kein gezeichneter Hengst während
+#facs_141_r2l24 der Springzeit ohne Bewilligung Mehwhl
+#facs_141_r2l25 der Pferdzucht Commission, bey Strafe
+#facs_141_r2l26 der Confiscation des Preises, ausser seinem
+#facs_141_r2l27 Bezirk verkauft oder vertauschet werden
+#facs_7_r1l1 6
+#facs_141_r3l1 271
+#facs_141_r3l2 4°) die Anzahl der Stutten so bey den ge¬
+#facs_141_r3l3 zeichneten Zucht Hengsten zugelaßen werden
+#facs_141_r3l4 können, wollen Medehl. auf sechszig und nicht
+#facs_141_r3l5 höher gesezt, doch aber der Pferdzucht Comission
+#facs_141_r3l6 bey der jährlichen Zeichnung und Visitation
+#facs_141_r3l7 diese Anzahl nach Maßgab der Umstände
+#facs_141_r3l8 des nähern zu bestimmen überlassen haben
+#facs_141_r3l9 5.) Alle gezeichnete Hengste sollen dreyjährig
+#facs_141_r3l10 seyn ehe sie zum Springen gebraucht werden
+#facs_141_r3l11 mithin kein Hengstfüllen vor dem Dritten
+#facs_141_r3l12 Jahr zugelaßen werden, bey einer Busse
+#facs_141_r3l13 von funfzig Pfunden
+#facs_141_r3l14 6.) Kein Besizer eines gezeichneten Hengsts
+#facs_141_r3l15 soll einige Stuten ausser seinem Bezirk
+#facs_141_r3l16 zulaßen, es sey denn, daß der Eigen-
+#facs_141_r3l17 thümer derselben die Erlaubnis darzu auf¬
+#facs_141_r3l18 weisen könne; widrigenfalls der Eigen¬
+#facs_141_r3l19 thümer des Hengsts mit fünf Thalern Buß
+#facs_141_r3l20 gelegt werden soll.
+#facs_141_r3l21 7o) Damit aber der Landmann aufgenuntert
+#facs_141_r3l22 werde, schöne und tüchtige Pferde zu erziehen
+#facs_141_r3l23 und anzukaufen, so werden an den gewohnten
+#facs_141_r3l24 Pferd Zeichnungen von Mühewh. der Pfarrzucht
+#facs_141_r3l25 Commission, den schönsten Hengsten, Mutten.
+#facs_141_r3l26 Stuten und Füllen, Preise von zwey bis zehen
+#facs_141_r3l27 = Bern’
+#facs_142_r1l1 272.
+#facs_142_r2l1 Na Gleiche Anstalten
+#facs_142_r2l2 für das Deutscham
+#facs_142_r2l3 vide: p: 279
+#facs_73_r3l2 Collat
+#facs_142_r4l1 Bere Duhaten gesprochen, und selbige
+#facs_142_r4l2 zugleich gezeichnet werden; in dem Ver¬
+#facs_142_r4l3 stand jedoch, daß solche gezeichnete Pferde
+#facs_142_r4l4 die einen Preis erhalten haben, in Jahres
+#facs_142_r4l5 frist nicht sollen Verkauft sondern an der
+#facs_142_r4l6 künftigen Pferd Zeichnung von ihrem Eigen¬
+#facs_142_r4l7 thümer wider vorgestellt werden.
+#facs_142_r4l8 Von oberwähnten Busen soll jedes
+#facs_142_r4l9 mahl ein Drittel dem Fisco, ein drittel
+#facs_142_r4l10 dem Herrn Amtsmann des Orts und
+#facs_142_r4l11 ein Drittel dem Verleider anheimfallen
+#facs_142_r4l12 Welches hiermit zu männiglichs Nach¬
+#facs_142_r4l13 nicht und Verhalt bekannt gemacht wird,
+#facs_142_r4l14 Beben den 9ten Februar 1796
+#facs_98_r5l28 en

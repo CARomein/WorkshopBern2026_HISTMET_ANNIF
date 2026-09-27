@@ -1,0 +1,187 @@
+Law ID: BER.01.001.4642
+Name: Verordnung die Husier- und Land- Krämer betreffend.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 176/176
+# High similarity (>=50%): 169
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_257_r6l12 Verordnung
+#facs_257_r6l13 die Hustier und Land¬ Krämer
+#facs_257_r6l14 betreffend
+#facs_257_r6l15 Wir Schultheis und Rath der
+#facs_257_r6l16 Stadt und Republik Bern thun kund
+#facs_257_r6l17 hiermit: Demnach Wir mit vielem
+#facs_257_r6l18 Mißfallen bahrnehmen müßen: Daß
+#facs_257_r6l19 ungeachtet der von Uns aus Lan¬
+#facs_257_r6l20 des väterlicher Vorforge, unterm 3t.
+#facs_258_r1l1 Il 10 x
+#facs_258_r1l2 Coll
+#facs_258_r2l1 Juny 1785. errichteten Hausir-Ord-
+#facs_258_r2l2 nung, dennoch von vielen Orten
+#facs_258_r2l3 her häufige und gegründte Klagen
+#facs_258_r2l4 gegen verschiedene von Unserm
+#facs_258_r2l5 Commerzien Rath patentirte und und und
+#facs_258_r2l6 patentirte Krämer und Fuhrleute
+#facs_258_r2l7 einlangen: Als haben Wir zu
+#facs_258_r2l8 Unterstützung hieländischer Industrie
+#facs_258_r2l9 und aufnung der Handlung, festge¬
+#facs_258_r2l10 sezt und verordnet.
+#facs_258_r2l11 na
+#facs_258_r2l12 1. Daß alle mit Tuch Handelnde
+#facs_258_r2l13 Daroyer, laut Vorschrift ihrer Mann
+#facs_258_r2l14 patenten, nur die öffentlichen Jahr
+#facs_258_r2l15 märkte der Städte besuchen, und
+#facs_258_r2l16 unter bedrohender Zukung der
+#facs_258_r2l17 selben, solche weder denen Häusern
+#facs_258_r2l18 nachtragen, noch denen Landleuten
+#facs_258_r2l19 zum Verkauf antrag in sollen.
+#facs_258_r2l20 2° Verbieten Wir allen unpaten¬
+#facs_258_r2l21 tirten Landschneidern, ihre Kund
+#facs_258_r2l22 samme Beder mit Montur noch an¬
+#facs_258_r4l1 511
+#facs_258_r4l2 dern Tüchern zu versehen
+#facs_258_r4l3 3° Werden alle Dorfkrämer beym Ein¬
+#facs_258_r4l4 bauf ihrer Waaren, aufs ernstlichste
+#facs_258_r4l5 verlarnet, von allen fremden her¬
+#facs_258_r4l6 einreitenden Händlern oder von
+#facs_258_r4l7 ihren Bedienten, keine Waaren an¬
+#facs_258_r4l8 zukaufen, noch sich solche zu keinen
+#facs_258_r4l9 Zeiten herstenden zu laßen, sondern
+#facs_258_r4l10 ihre Kramläden laut 4. Artibels
+#facs_258_r4l11 ihrer Patenten aus denen Städten
+#facs_258_r4l12 des Landes zu versehen
+#facs_258_r4l13 4° Unterstagen Wir allen Fuhr.
+#facs_258_r4l14 leuten die Einbringung fremder, auf
+#facs_258_r4l15 eigene Rechnung eingekaufter Waar,
+#facs_258_r4l16 in der Absicht, solche unterbegens
+#facs_258_r4l17 an patentirte oder unpatentirte
+#facs_258_r4l18 Landleute abzugeben, und verbieten
+#facs_258_r4l19 ihnen insonderheit, solche weder
+#facs_258_r4l20 an Orten, wo keine Zollstäcke sich vor
+#facs_258_r4l21 finden, noch da, wo keine Aufsicht
+#facs_258_r4l22 gehalten wird, abzulegen
+#facs_258_r4l23 5: Sollen alle diejenigen, so ohne
+#facs_259_r1l1 cl2.
+#facs_259_r1l2 Coll.
+#facs_259_r2l1 besonders dazu erhaltene Patenten
+#facs_259_r2l2 Oel und Spetereybaaren aus der
+#facs_259_r2l3 Fremde Ziehen, und selbige bey ihren
+#facs_259_r2l4 Kunden absehen oder Stukbeise ver¬
+#facs_259_r2l5 kaufen, sich dieser Handlung ganz
+#facs_259_r2l6 lich enthalten.
+#facs_259_r2l7 6° Endlich dann haben Wir gutbe
+#facs_259_r2l8 funden zu verordnen, daß auch füro
+#facs_259_r2l9 hin alle engemische Marktbräume
+#facs_259_r2l10 ohne Ausnahm, ihre Waaren nicht
+#facs_259_r2l11 aus der Fremde beschiben, son¬
+#facs_259_r2l12 dern selbige nur allein bey denen
+#facs_259_r2l13 Burgern der Städten des Landes
+#facs_259_r2l14 ankaufen sollen.
+#facs_259_r2l15 Alles bey Straf von zwanzig Pfun¬
+#facs_259_r2l16 Auß für das erste mal, und Confis
+#facs_259_r2l17 Lation der Ordnung bidrig einge¬
+#facs_259_r2l18 kauften Waar für das zweite
+#facs_259_r2l19 mal.
+#facs_259_r2l20 Von diesen hier bestimmen Gußen
+#facs_259_r2l21 und Confikationen, soll ein Drittel
+#facs_259_r4l1 = 513
+#facs_259_r4l2 Uns verrechnet werden, der zweite Dritel
+#facs_259_r4l3 dem Richter, und der dricte dem
+#facs_259_r4l4 Verleiden heimdienen. Beben den 2ten
+#facs_259_r4l5 January 1789
+#facs_259_r4l6 Publication
+#facs_259_r4l7 Nous l'Avoyer et Conseil de la Ville et
+#facs_259_r4l8 Republique de Berne savoir faisons par
+#facs_259_r4l9 les présentes; quayant été dans le cas d'ap¬
+#facs_259_r4l10 prendre, à Nôtre extrême mécontentement
+#facs_259_r4l11 comme quoi, malgré Notre Ordonance
+#facs_259_r4l12 concernant les Marchands ambulans,
+#facs_259_r4l13 la quelle nôtre sollicitude paternelle pour
+#facs_259_r4l14 le bien-être de tous nos ressortissans
+#facs_259_r4l15 Nous avoit engagés à publier sous la date
+#facs_259_r4l16 du 3e Juin 1785, il Nous parvint ce
+#facs_259_r4l17 pendant, de plusieurs endroits, des plaintes
+#facs_259_r4l18 Préquentes et bien fondées, a la charge de
+#facs_259_r4l19 divers Marchands boutiquiers, pourvus
+#facs_260_r1l1 1514.
+#facs_260_r1l2 Coll.
+#facs_260_r2l1 ou non pourons de patentes de la part de
+#facs_260_r2l2 nôtre conseil de commerce, ainsi que sur
+#facs_260_r2l3 divers voituriers et charretiers, à ces causes
+#facs_260_r2l4 et a l'effet de s'avoriser l'industrie des
+#facs_260_r2l5 habitans de cet Etat, ainsi que pour le
+#facs_260_r2l6 plus grand avantage de leur commerce en
+#facs_260_r2l7 général, avons ordonné et statue, or
+#facs_260_r2l8 donons et statuons ce qui suit
+#facs_260_r2l9 1 que tous les Savoyards qui comercent en
+#facs_260_r2l10 Draperies, selon le prescript et la teneur
+#facs_260_r2l11 des patentes dont ils sont munis, ne fere
+#facs_260_r2l12 quentent que les foires ordinaires des Villes
+#facs_260_r2l13 soumises a Notre Obéissance: bien entendu
+#facs_260_r2l14 quils ne transporteront leurs dittes Marchans
+#facs_260_r2l15 dises dans aucune maison de particuliers
+#facs_260_r2l16 pour les y offrir en vente, et qu'ils s'ab-
+#facs_260_r2l17 stiendront également de faire de pareil
+#facs_260_r2l18 les offres aux habitans des campagnes.
+#facs_260_r2l19 2° Déffendons à tous les tailleurs établis dans les
+#facs_260_r2l20 campagnes, et non munis de patentes de
+#facs_260_r4l1 ouin
+#facs_260_r4l2 pourvoir leurs pratiques de Draps pour des habits
+#facs_260_r4l3 uniformes, ou de quels autres draps qui ce puissent
+#facs_260_r4l4 être.
+#facs_260_r4l5 3. Enjoignons de la maniére la plus sérieuse
+#facs_260_r4l6 a tous Marchands-boutiquiers établies dans
+#facs_260_r4l7 des Villages, de nachetter aucune espèce de
+#facs_260_r4l8 marchandises d'aucun marchand étranger
+#facs_260_r4l9 ambulant quelconque, soit de leurs Commis
+#facs_260_r4l10 sionaires ou employés ni de s'en faire jamais
+#facs_260_r4l11 envoyer par eux en aucun temps: entendons que
+#facs_260_r4l12 les dits marchands boutiquiers soient astreints
+#facs_260_r4l13 felon la teneur du quatrieme article de leurs
+#facs_260_r4l14 patentes, à se pourvoir dans les Villes du pays
+#facs_260_r4l15 de toutes les marchandises dont ils seront com-
+#facs_260_r4l16 Texerce
+#facs_260_r4l17 4° Defendons a tous voituriers et charetiers
+#facs_260_r4l18 d'importer dans le pays aucune marchandise
+#facs_260_r4l19 achetée pour leur propre Compte, dans le
+#facs_260_r4l20 dessein de la céder ou la remettre a des parti
+#facs_260_r4l21 culiers du pays qui seroient pourvus ou non
+#facs_260_r4l22 pourvus de patentes, leur interdisons en outre
+#facs_260_r4l23 expressément, de déposer de telles mar=
+#facs_261_r1l1 i 516
+#facs_261_r1l2 Coll.
+#facs_261_r2l1 chandisses en des lieux où il n'y auroit
+#facs_261_r2l2 point de douanes établies, soit dans ceux
+#facs_261_r2l3 ou il n'y auroit d'inspecteurs pour veiller
+#facs_261_r2l4 sur ces sortes d'objets.
+#facs_261_r2l5 5. Voulons que tous ceux qui, sans des
+#facs_261_r2l6 patentes particulières obtenues preablement,
+#facs_261_r2l7 a cet effet, tireroient de pays étrangers des
+#facs_261_r2l8 huiles soit des épiceries, et les débiteroient
+#facs_261_r2l9 chés leurs chalands, ou les vendroient en
+#facs_261_r2l10 Detail, s'abstiennent entiérement de ce
+#facs_261_r2l11 guerre de commerce
+#facs_261_r2l12 6. Enfin, Nous avons jugé a propos de
+#facs_261_r2l13 statuer et d'ordonner, que des a present et
+#facs_261_r2l14 a l'avenir, tous les marchands-boutiquiers
+#facs_261_r2l15 du pays qui fréquentent les foires, sans en
+#facs_261_r2l16 excepter aucun, ne fassent plus venir
+#facs_261_r2l17 leurs marchandises de pays étrangers mais
+#facs_261_r2l18 quils soyent tenus à s'en pourvoir chéz
+#facs_261_r2l19 les Citoyens des villes soumises à nôtre obeis
+#facs_261_r2l20 sance
+#facs_261_r2l21 Le tout sous peine de vingt livres d'amende
+#facs_261_r2l22 pour la premiere fois, et la seconde fois
+#facs_261_r5l1 kp 17.
+#facs_261_r5l2 sous peine de la confiscation de toutes les
+#facs_261_r5l3 marchandises achetées en contravention a nôtre
+#facs_261_r5l4 présente Ordonnance
+#facs_261_r5l5 De toutes les amendes et confiscations présent
+#facs_261_r5l6 tes, un tiers Vous sera porté en compte, le second
+#facs_261_r5l7 tiers appartiendra au juge, et le reste sera
+#facs_261_r5l8 remis au denonciateur. Donné le 2e Janvier
+#facs_261_r5l9 1789

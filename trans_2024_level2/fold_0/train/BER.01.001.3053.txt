@@ -1,0 +1,164 @@
+Law ID: BER.01.001.3053
+Name: Wegen Emigration der Täufferen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 153/153
+# High similarity (>=50%): 143
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_221_r2l1 Thun, Oberhoffen, Interlaken, Unser
+#facs_221_r2l2 geen, prutingen, winnis Signau
+#facs_221_r2l3 Brändiß, Trachselwald, Sumißwald
+#facs_221_r2l4 Bürg, Burgdorff, Wangen, Lenzburch
+#facs_221_r2l5 Landtshuth Item Biglen, Wichtrach
+#facs_221_r2l6 und Stettlen
+#facs_221_r2l7 Wegen Emigration der Häuferen
+#facs_221_r2l8 Schultheis und Rath der Statt Bern
+#facs_221_r2l9 Weilen von den weggzeüchenden Leüsten
+#facs_221_r2l10 Collab
+#facs_221_r2l11 wie auch den mitgehenden Ihren Refor
+#facs_221_r2l12 mierten anverwandten der 6te Articul
+#facs_221_r2l13 von 11. Febru. Letsthin gegebenen Käufer¬
+#facs_221_r2l14 Mandats wegen vorthzeuchung des Landt- und
+#facs_221_r2l15 Mann Rechtens Zimblich Mißhellig verstanden,
+#facs_221_r2l16 und zu Ihrem Vortheill Erkläret, wie auch
+#facs_221_r2l17 von Einichen Unseren Lieben gewinden, da¬
+#facs_221_r2l18 so thane Täufer und auch mit sich vorth¬
+#facs_221_r2l19 zeüchende Reformierte Leüth anheimbsch
+#facs_221_r2l20 gewesen, zu Ihrer Künfftigen Versicherung
+#facs_221_r2l21 Eine mehrere Erläuterung Zehaben ver¬
+#facs_221_r2l22 langet wird; Alls wir denenselben
+#facs_221_r2l23 hiemit auch geneigt Entsprechen, und
+#facs_221_r2l24 dich gleich etwelche andere Unser
+#facs_221_r3l1 429.
+#facs_221_r3l2 AmbtLeüth benachrichten wollen, daß gleich
+#facs_221_r3l3 Die Unsere Ernstliche Meinung und wille
+#facs_221_r3l4 sey, daß alle Teuffer sich von himmen
+#facs_221_r3l5 mit -
+#facs_221_r3l6 aufgebung deß Landt und Mannrechtens
+#facs_221_r3l7 mit Ihnen gehende
+#facs_221_r3l8 Begebindt, allsräuch alle
+#facs_221_r3l9 Reformierte Persohnen, sie seyndt Ihnen gleich
+#facs_221_r3l10 mit Bluthfründtschafft zugethan oder nicht,
+#facs_221_r3l11 gleich den Bäuferen Ihr Landt und
+#facs_221_r3l12 Mann Recht für sich und Ihre nachkommen
+#facs_221_r3l13 für Immer und Ewig verlohren haben, und
+#facs_221_r3l14 bey dero Vnverschafften wiederkunfft alles
+#facs_221_r3l15 gantz frömbde gehalten auch von den
+#facs_221_r3l16 Bemeinden (die alle weggzeüchende mit
+#facs_221_r3l17 Nahmen und Zunahmen auffzeichnen, und zu
+#facs_221_r3l18 Ihrer Sicherheit auff behalten werdendt :/
+#facs_221_r3l19 keines wegs angenommen noch Jehmahls
+#facs_221_r3l20 mit diesen Erwehnten Leuthen beladen werde.
+#facs_221_r3l21 sollinds welche gegenwertige Erleüterung
+#facs_221_r3l22 um du zu Mäniklichs Nachricht fürderlichst
+#facs_221_r3l23 von Canzler verlesen, und den gemeind
+#facs_221_r3l24 zu Ihrer könfftigen Behelft solches zu Comunicis
+#facs_221_r3l25 ren und zu eröffnen hiemit befelchnet wirst.
+#facs_221_r3l26 Gott mit dir. Dat. d. 22. Juny. 1711.
+#facs_222_r1l1 430.
+#facs_222_r1l2 the
+#facs_222_r1l3 Collat
+#facs_222_r2l1 Thun Oberhoffen, Interlaken, und er¬
+#facs_222_r2l2 sern, prutigen, winniß, Signaun,
+#facs_222_r2l3 Brandiß, Crapelwald, Sinnis wald,
+#facs_222_r2l4 Büren, Burgdorff, Wangen, Lentzburg,
+#facs_222_r2l5 Landtshuth. Item Biglen, Wichtrech und Stetten
+#facs_222_r2l6 Das Mandat vom 11. Febr. letzthin wegen
+#facs_222_r2l7 der Abzugs Freyheit der Leufferischen
+#facs_222_r2l8 Ehegatten und Kinden Erleüteren.
+#facs_222_r2l9 Schultheis Räth und Burger der Statt Berg,
+#facs_222_r2l10 Weilen in etlichen Ambteren die frag¬
+#facs_222_r2l11 Entstanden, wie es in ansehen deß Abzugs
+#facs_222_r2l12 gehellten werden solle, wan bey auß Tritt
+#facs_222_r2l13 der Teüfferen auch Reformierte Ehe
+#facs_222_r2l14 gatten oder Kinder Ihren Teüsterischen
+#facs_222_r2l15 Ehegatten oder Elteren nachziehen woltgen
+#facs_222_r2l16 Alls habend Wir das getrükte Mari
+#facs_222_r2l17 dat vom 11. Februar. letsthin in dem
+#facs_222_r2l18 5. Puncten Nunmehro aus guten Conside¬
+#facs_222_r2l19 rationen dahin Erweiteret und noch zu
+#facs_222_r2l20 gegeben, daß dieselbigen Ehegatten und
+#facs_222_r2l21 Kinder, wan gleich diese letstere
+#facs_222_r3l1 „ 31
+#facs_222_r3l2 Von Ihren Elteren mit Feüer und Liecht
+#facs_222_r3l3 und sonsten gescheiden, auch nicht der
+#facs_222_r3l4 -
+#facs_222_r3l5 Täuferischen Sect zugethan wären, gleicher
+#facs_222_r3l6 abzugs Freyheit, wie die Läufer selbsten Zu¬
+#facs_222_r3l7 genießen haben sollindt; Worbey Es den bey¬
+#facs_222_r3l8 -
+#facs_222_r3l9 heüffigen Verstand hat, daß diesere allso
+#facs_222_r3l10 äbreisende Reformierte Persohnen, mit weg¬
+#facs_222_r3l11 ziehung Ihrer Mitlen, zugleich auch Ihr Männ¬
+#facs_222_r3l12 und Landtrecht verlohren haben, und
+#facs_222_r3l13 gegen denselben gleicher gestallten verfahren
+#facs_222_r3l14 werden soll, wie das Mandat, so Anderen
+#facs_222_r3l15 22. diß Monaths von Unserem Tägliche
+#facs_222_r3l16 Rath auß in ansehen der Mannrechten der
+#facs_222_r3l17 in mehre¬
+#facs_222_r3l18 Teüfferen außgeschrieben worden
+#facs_222_r3l19 rem Enthalltet; die Jenige reformierte
+#facs_222_r3l20 Versohnen aber, so nicht in obiger Cathego
+#facs_222_r3l21 sey sind, und auch sambt Ihren mitlen
+#facs_222_r3l22 weggziehen würden sollen zu abstattung
+#facs_222_r3l23 ales Abzugs namblich Zechen von Hundert
+#facs_222_r3l24 gehalten, und zu erhälltung Ihres Mann¬
+#facs_222_r3l25 Rechtens allhero vor Unseren täglichen
+#facs_222_r3l26 Rath gewiesen werden: Wornach du dich
+#facs_222_r3l27 um zu verhallten und gegenwertiges
+#facs_222_r3l28 Mandat offentlich von Cantzlen verkunden
+#facs_222_r3l29 Zelaßen, wie Zethin wüßen wirst, Gott
+#facs_222_r3l30 mit Dir. Datl d. 24. Juny 1711.
+#facs_223_r2l1 Betreydt Verzeigung dem
+#facs_223_r2l2 Oberen Spittahl.
+#facs_223_r2l3 Vinkel. Roggen. Haben.
+#facs_223_r2l4 Mütt. Mütt. M.
+#facs_223_r2l5 Wangen
+#facs_223_r2l6 40
+#facs_223_r2l7 Arwangen
+#facs_223_r2l8 40 x
+#facs_223_r2l9 1
+#facs_223_r2l10 Bipp.
+#facs_223_r2l11 60
+#facs_223_r2l12 -
+#facs_223_r2l13 Burgdorff
+#facs_223_r2l14 40. 20.
+#facs_223_r2l15 Gorbera
+#facs_223_r2l16 40
+#facs_223_r2l17 10
+#facs_223_r2l18 Prauwbrung
+#facs_223_r2l19 24
+#facs_223_r2l20 30
+#facs_223_r2l21 Brandiß
+#facs_223_r2l22 10
+#facs_223_r2l23 36
+#facs_223_r2l24 10
+#facs_223_r2l25 Sinniswalli.
+#facs_223_r2l26 "
+#facs_223_r2l27 36
+#facs_223_r2l28 "
+#facs_223_r2l29 Buchsee
+#facs_223_r2l30 2
+#facs_223_r2l31 30
+#facs_223_r2l32 Arberg
+#facs_223_r2l33 26
+#facs_223_r2l34 Krienisberg
+#facs_223_r2l35 "
+#facs_223_r2l36 24.
+#facs_223_r2l37 Gottstat
+#facs_223_r2l38 24. „
+#facs_223_r2l39 Buren
+#facs_223_r2l40 20
+#facs_223_r2l41 Nydau
+#facs_223_r2l42 40
+#facs_223_r2l43 Underspitahl
+#facs_223_r2l44 20
+#facs_223_r2l45 Bauoherr
+#facs_223_r2l46 10.
+#facs_223_r2l47 Interlaker Hauß
+#facs_223_r2l48 500.
+#facs_223_r2l49 Actum den 2. July 1711.

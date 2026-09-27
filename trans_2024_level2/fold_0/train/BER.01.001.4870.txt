@@ -1,0 +1,37 @@
+Law ID: BER.01.001.4870
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 26/26
+# High similarity (>=80%): 24
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_266_r2l1 + 522
+#facs_266_r3l1 Ann die Waltschen, Amptluth
+#facs_266_r3l2 Schuldtheyss die vernemend das etliche
+#facs_266_r3l3 Unserer Commissarien sich bischäro underweylen an-
+#facs_266_r3l4 gemäßet nicht allein die Löb von Edellächen so sich über¬
+#facs_266_r3l5 100 m angeloffen, wider Unser ansechen vnnd vnns
+#facs_266_r3l6 allbs vorbehaltnen Swaltt, zeromponieren, Sonders
+#facs_266_r3l7 gauch vnruchige persohnen der Edelbächen zu Capacitieren
+#facs_266_r3l8 vnnd die zubesitzen Veihig zusprachen, vnder gewußer
+#facs_266_r3l9 Summen geltts etc. So vns aber solliches ein Wnlijden
+#facs_266_r3l10 liche Sache vnnd ann unserem oberkeittlichem gwaltt
+#facs_266_r3l11 im Abbruch unnd wir derwegen solliches nitt lyden
+#facs_266_r3l12 noch gestatten khönnen, Als haben wir dich vnnd
+#facs_266_r3l13 Vnsere Commissarien hiemitt vermanen wöllen, Vns
+#facs_266_r3l14 Composition der loben von Bedellächen so über 100 V an¬
+#facs_266_r3l15 lauffend Zeuberheben, vnnd der löben von Edellächen etc.
+#facs_266_r3l16 wunder oder Ich die 100 rt. sindt allein zu vermügen
+#facs_266_r3l17 und was für löber darüber sich anlauffend die lob¬
+#facs_266_r3l18 pflichtigen sothar zewysen. Vnnd dann einiger gestalten
+#facs_266_r3l19 auch nitt zevnderschon diejenigen so Edellächen Gebe¬
+#facs_266_r3l20 sitzen nitt verhig zu Capacitienen oder von der Capa¬
+#facs_266_r3l21 ciret wegen mit denselben zu uberkhomen, Sondern
+#facs_266_r3l22 nich Iessen auch gentzlich gemüssigen vnnd sölliche
+#facs_266_r3l23 versohnen auch alhar für vnns Rechnissen, das ist
+#facs_266_r3l24 Vnser Will den Wüßend gehaltten, Datum
+#facs_266_r3l25 8 Augusti 1611

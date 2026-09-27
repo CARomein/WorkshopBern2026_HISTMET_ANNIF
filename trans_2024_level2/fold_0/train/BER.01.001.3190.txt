@@ -1,0 +1,194 @@
+Law ID: BER.01.001.3189
+Name: Die Erndferien aussschreiben.
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 182/182
+# High similarity (>=50%): 177
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_20_r4l18 Portrait
+#facs_20_r4l19 Leodigari Penninger sonst Kohler genannt, ohngefahr
+#facs_20_r4l20 43. Jahr allters, mittelmäßiger diker Statur gelben
+#facs_20_r4l21 laaren, So Ihme biß auf die Achsell hinablangen,
+#facs_20_r4l22 Rohtlechtfeißtem angesicht, Einem braunen Rok
+#facs_20_r4l23 mit geben Knöpfen.
+#facs_21_r1l1 36
+#facs_21_r1l2 Collatl.
+#facs_21_r2l1 An alle 4. Cäntzell diser
+#facs_21_r2l2 Statt
+#facs_21_r2l3 Item auch an den IV. Cantzell
+#facs_21_r2l4 Wegen der Brunstbeschädigten Statt
+#facs_21_r2l5 Burgdorff
+#facs_21_r2l6 Mitruchens den 14ten. diß Monats Augusti zwischen
+#facs_21_r2l7 und 12. Uhren in der Nacht, ist abermalen in Unser
+#facs_21_r2l8 Statt Burgdorff Unversehens eine solche schrökliche
+#facs_21_r2l9 feürsbrunst Entstanden, die nicht gnugsam
+#facs_21_r2l10 außgetrucket noch begriffen werden kan, Indemne
+#facs_21_r2l11 Leider Gott Erbarum es, das feur anfänglich in
+#facs_21_r2l12 der vnderen Statt in eines Hafners Hauß außgebro¬
+#facs_21_r2l13 chen, ohne daß Mann die Art und weis seiner Ur¬
+#facs_21_r2l14 Sprungs erfahren können, wellches feur allsoballi=
+#facs_21_r2l15 an denen Nächst gelegenen Häusern gehafftet und
+#facs_21_r2l16 auß gerechtem Gericht Gottes dergestallten Uhr
+#facs_21_r2l17 plötzlich getrieben worden, daß ohngeacht der
+#facs_21_r2l18 verstauneten Einwohneren und zugeloffener benach¬
+#facs_21_r2l19 barten angewendten Mühe deßelben grimmigen
+#facs_21_r2l20 Wüten nit abgebrochen werden Mögen, So daß
+#facs_21_r2l21 Dardurch, zwey und fünffzig Häuser so von 74
+#facs_21_r2l22 Haußhaltungen bewohnet wären, nebst der under¬
+#facs_21_r2l23 Müli, drey Statt, Thürn samt allen Litzenen Zwuschen
+#facs_21_r2l24 beyden underen Statt Thoren, und biß an das
+#facs_21_r2l25 Closter hinauf, auch neüntzehen Scheüwren
+#facs_21_r3l1 37.
+#facs_21_r3l2 gäntzlich eingräscheret, wormit dann eine große
+#facs_21_r3l3 Mänge an aller gattung haußthat, KaufMans Waare
+#facs_21_r3l4 Vorräthlichen lebens Mittlen, Futer und Pfannwerthen
+#facs_21_r3l5 zugleich verzehret, und allso dise gute Leüth
+#facs_21_r3l6 Und Samtliche burgerschafft in Erbärmliche Angst, kummer
+#facs_21_r3l7 und traurigkeit gesetzet worden, zumalen eine große
+#facs_21_r3l8 Anzahl diser Einwohneren von allergattung Condition
+#facs_21_r3l9 Geschlecht und allter theils in höchst und gleichsam
+#facs_21_r3l10 Vnwiderbringlichem schaden schweben, theils dann ohne
+#facs_21_r3l11 brodt, Kleider und Vnderschlauf Umbher lauffen
+#facs_21_r3l12 Müßen etc. Wie Nun dise begegnüß desto traurig
+#facs_21_r3l13 und Jämmerlicher, Weilen ohne das dise gute Statt
+#facs_21_r3l14 Einiche Jahr daher mit so vilem anderem Unglük
+#facs_21_r3l15 dergestalten betroffen worden, daß geschienen, Es
+#facs_21_r3l16 habe ein Vnfahl dem anderen geruffen, alls ist Ihr
+#facs_21_r3l17 Zustand desto mehr Mitleidens würdig, und allseitige
+#facs_21_r3l18 Trostlichen bysprungs Nöthig, die derowegen Weghl.
+#facs_21_r3l19 und oberen Rhat und Bürger in einem solchen
+#facs_21_r3l20 leidigen Extraordinari Casu neben anderen getha¬
+#facs_21_r3l21 nen vorsorgungen anderst nit können, dann in allhies¬
+#facs_21_r3l22 ger Hauptstatt eine allgemeine Steür aufkünfftige
+#facs_21_r3l23 Hättag, bym Außgang der Frühe. Und Morgenpre¬
+#facs_21_r3l24 digen einstamlen zu laßen, und demnach hiemit
+#facs_21_r3l25 Maniglich vermahnen wollen, sein herz und Hans
+#facs_21_r3l26 von disem Liebeswerk nit abzuhallten, sonderen
+#facs_21_r3l27 diseren Jammer- und Elendts übervollen Leüthen
+#facs_22_r2l1 Christ Mitleidenlich beyzuspringen, und hierinn
+#facs_22_r2l2 Anverdroßen zu thun, was die Wahre Christe
+#facs_22_r2l3 pflicht, von Jedem erfordernt, Maaßen beschei=
+#facs_22_r2l4 werde xyz keinen Zweifell tragen. Acta vor
+#facs_22_r2l5 Rhät vnd Burger d. 23 Aug. 1716 1715.
+#facs_22_r2l6 Cantzley Zärn
+#facs_22_r2l7 2
+#facs_22_r2l8 Zürich, Lucern, Basell, Sollothurn
+#facs_22_r2l9 Chur, Genff, Neuwenburg Cio¬
+#facs_22_r2l10 Liell
+#facs_22_r2l11 2
+#facs_22_r2l12 Die Brunstbeschädigte Statt Burgdorff vmb
+#facs_22_r2l13 ein Steur Recomendieren
+#facs_22_r2l14 Unser etc.
+#facs_22_r2l15 NB. Der Anfang Wie die Jedell
+#facs_22_r2l16 an die Häntzell bis zu dem Buch¬
+#facs_22_r2l17 staben A
+#facs_22_r2l18 Derowegen wir in einem solchen leidigen Extrao¬
+#facs_22_r2l19 dinari Casu auf der Vnseren von Burgdorff außgesch
+#facs_22_r2l20 nen so trüngeliches anhalten, Neben anderen Vieh
+#facs_22_r2l21 gethanen Vorsorgungen Wir anderst mit können
+#facs_22_r2l22 dan vor dieselben auch Mit gegenwärtiger Unsere
+#facs_22_r2l23 Vorschrifft by Eüch Vnsern (Tit) dahin einzukommen¬
+#facs_22_r2l24 daß Ihr auf Gutfindende Weis und weg disen
+#facs_22_r3l1 39
+#facs_22_r3l2 Jammers und Elendtsvollen Leüblichen Mitleidenlich
+#facs_22_r3l3 Byzuspringen, und Ihrer zu Euch tragender Hofnung
+#facs_22_r3l4 trostlichen zu Entsprechen das belieben tragen wollet,
+#facs_22_r3l5 disere Ihnen widerfahrende Gunst, Verlangend Wir
+#facs_22_r3l6 in beliebigeren Zutragenheiten gegen Eüch Vnseren
+#facs_22_r3l7 Tit: zu beschulden, nicht minder allß Wir Gott
+#facs_22_r3l8 bitten, daß Er Euch und die Eüweren ins gestandt
+#facs_22_r3l9 von dergleichen nölen gnädiglich bewahren wolle.
+#facs_22_r3l10 Dat 23. aug: 1715.
+#facs_22_r3l11 Schuldtheiß und Rhat
+#facs_22_r3l12 B. Vngeacht die Schreiben an
+#facs_22_r3l13 der Statt Herrn
+#facs_22_r3l14 Pere Stand von R. und B. auß
+#facs_22_r3l15 erkent worden, So ist dennoch befun¬
+#facs_22_r3l16 den worden, selbe allein andre dem
+#facs_22_r3l17 nehmen deß Rhat abgehen zu
+#facs_22_r3l18 laßen.
+#facs_22_r3l19 An alle E. vnd W. Amtl. 4. Statt, Frey.
+#facs_22_r3l20 weibell und Amau.
+#facs_22_r3l21 Obidem
+#facs_22_r3l22 Schuldtheiß Rhat und Bürger
+#facs_22_r3l23 NB. Der Anfang Wie die Jedell an
+#facs_22_r3l24 die Cäntzell biß zum Buchstaben A.
+#facs_22_r3l25 Derowegen wir in einem solchen leidigen Casu
+#facs_22_r3l26 neben anderen gethanen Vorstorgungen anderst nit
+#facs_22_r3l27 können, dann eine durchgehende Steür zu Statt und
+#facs_22_r3l28 Land erheben zu laßen, gestellten Wir dir befohlen
+#facs_22_r3l29 haben wollens, Nach der weis und Form, Wie
+#facs_23_r2l1 Christ Mitleidenlich beyzuspringen, und hierinnen
+#facs_23_r2l2 Unverdroßen zu thun, was die Wahre Christen
+#facs_23_r2l3 Pflicht, von Jedem erfordernt, Maaßen beschehen
+#facs_23_r2l4 werde Magts keinen Zweifell tragen. Acta vor
+#facs_23_r2l5 schat vnd Burger d. 23 Aug: 1716 1715.
+#facs_23_r2l6 Cantzley Särn
+#facs_23_r2l7 Et
+#facs_23_r2l8 Zürich, Lucern, Basell, Sollothurn
+#facs_23_r2l9 Chur, Genff, Neuwenburg Cio:
+#facs_23_r2l10 Biell
+#facs_23_r2l11 Die Brunstbeschädigte Statt Burgdorff vmb
+#facs_23_r2l12 ein Steur Recomendieren.
+#facs_23_r2l13 Unser etc.
+#facs_23_r2l14 NB. Der Anfang Wie die Jedell
+#facs_23_r2l15 an die Häntzell bis zu dem Buch¬
+#facs_23_r2l16 staben A
+#facs_23_r2l17 Verowegen wir in einem solchen leidigen Extrao¬
+#facs_23_r2l18 dinarii Casu auf der Vnseren von Burgdorff außgeschich¬
+#facs_23_r2l19 nen so trungeliches anhallten, Neben anderen Vnser
+#facs_23_r2l20 gethanen Vorsorgungen Wir anderst nit können.
+#facs_23_r2l21 Dau vor dieselben auch Mit gegenwärtiger Unserer
+#facs_23_r2l22 Vorschrifft by Eüch Vnsern/ Tit: / dahin einzukommen
+#facs_23_r2l23 daß Ihr auf Gutfindende Weis und weg disen
+#facs_23_r3l1 39
+#facs_23_r3l2 James und Elendts vollen Leuthen Mitleidenlich
+#facs_23_r3l3 byzuspringen, und Ihrer zu Euch tragender Hofnung
+#facs_23_r3l4 trostlichen zu Entsprechen das belieben tragen wollet,
+#facs_23_r3l5 disere Ihnen widerfahrende Gunst, Verlangend Wir
+#facs_23_r3l6 in beliebigeren Zutragenheiten gegen Eüch Vnseren
+#facs_23_r3l7 Tit: zu beschulden, nicht Minder allß Wir Gott
+#facs_23_r3l8 bitten, daß Er Euch und die Eüweren ins gestandt
+#facs_23_r3l9 von dergleichen uolen gnädiglich bewahren wolle.
+#facs_23_r3l10 Dat 23. aug: 1715.
+#facs_23_r3l11 Schuldtheiß und Rhat
+#facs_23_r3l12 B.
+#facs_23_r3l13 Vngeacht die Schreiben an
+#facs_23_r3l14 der Statt Herrn
+#facs_23_r3l15 Pere Stand von R. und B. auß
+#facs_23_r3l16 erkent worden, So ist dennoch befun¬
+#facs_23_r3l17 den worden, selbe allein andre dem
+#facs_23_r3l18 deß Rhats abgehen Zu
+#facs_23_r3l19 Jahren
+#facs_23_r3l20 laßen.
+#facs_23_r3l21 An alle E. und W. Amtl. 4. Statt, Frey.
+#facs_23_r3l22 weibell und Amau
+#facs_23_r3l23 Obidem
+#facs_23_r3l24 Schuldtheiß Rhat und Bürger
+#facs_23_r3l25 NB. Der Anfang Wie die Pedell an
+#facs_23_r3l26 Die Cäntzell Biß zum Buchstaben A.
+#facs_23_r3l27 Derowegen wir in einem solchen leidigen Casu
+#facs_23_r3l28 neben anderen gethanen Vorstorgungen anderst mit
+#facs_23_r3l29 können, dann eine durchgehende Steür zu Statt und
+#facs_23_r3l30 Land erheben zu laßen, gestellten wir die befohlen
+#facs_23_r3l31 haben wollens, nach der weis und Form, der
+#facs_24_r2l1 du am gedeylichsten erachteß, in deinem
+#facs_24_r2l2 gantzen Amt eine solche steür so fürderlich Müglich
+#facs_24_r2l3 einzusamlen, und zwar allso daß für dise sein
+#facs_24_r2l4 nit allein baares gellt, sonderen auch victualia
+#facs_24_r2l5 Vnd Mobilia das ist Esige Speisen und Haußräthl
+#facs_24_r2l6 sachen abgenommen werdindt; wellchem Nach die
+#facs_24_r2l7 du den Belauf an Gelt vnserer allhiesigen Teüth
+#facs_24_r2l8 Sekelschreiberey übersenden, und zugleich eine Ver¬
+#facs_24_r2l9 zeichnuß beyfügen sollst, was an Victualien oder
+#facs_24_r2l10 Mobilien hinder dir für diese Brunstbeschädigte
+#facs_24_r2l11 lige, vmb solches proportionaliter vnder selbige
+#facs_24_r2l12 außzutheilen: Maaßen solchemnach zu verfahren,
+#facs_24_r2l13 Und dise Vnsere Vermahnung etwan 8 tag
+#facs_24_r2l14 voraufnahm der Steur von Cantzlen verlesen
+#facs_24_r2l15 zu lesen wüßen wirst datum 23 Aug: 1715.

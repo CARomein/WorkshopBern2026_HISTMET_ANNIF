@@ -1,0 +1,1238 @@
+Law ID: BER.01.001.2030
+Name: Ordnung der Hochwälden in Bahnhöltzeren halb.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 1227/1227
+# High similarity (>=50%): 1191
+# Low similarity (<50%): 36
+# Not found: 0
+#
+#facs_32_r2l1 An Bomont und Fleüwiss.
+#facs_32_r2l2 separatim. Durch auß gleich
+#facs_32_r2l3 An Morsee, Lausanna, Romainmostier,
+#facs_32_r2l4 und Chillion aber nur die zwen ersten
+#facs_32_r2l5 Puncti
+#facs_32_r2l6 Ordnung der Hochwälden und Bahnhöltzern halb,
+#facs_32_r2l7 Schuldtheiß und Raht der Stadt Bern
+#facs_32_r2l8 Der Hochwälden und Bahnhöltzeren halb in unserem
+#facs_32_r2l9 veltschen Landt haben wie mitkomendes Reiglement
+#facs_32_r2l10 und Ordnung auffsezen, in offnen Truck außgeben, vndt
+#facs_32_r2l11 Zu handen deren Jonigen Denen es von nöthen ist, der
+#facs_32_r2l12 ine anzahl derselben hiermit übermachen, darbei aber
+#facs_32_r2l13 auch benelchen wollen, daßelbe zu mennigklichs
+#facs_32_r2l14 nachricht in Deiner Verwaltung publicieren, und dem
+#facs_32_r2l15 Nach dem Schloßbuch einverleiben zulaßen, auch deinen
+#facs_32_r2l16 theils da rob als steiff zuhaeten, daß sie mit Deine
+#facs_32_r2l17 Verwaltung betrifft, in derselben darwider nichts
+#facs_32_r2l18 gehandlet werde;
+#facs_32_r2l19 Und weilen durch dises Reiglement die Zöll vmb ein¬
+#facs_32_r2l20 nahmhafftes vermehret werden, als laßen Wir
+#facs_32_r2l21 Zwar geschechen, daß die Bestechere deßelben oder dero
+#facs_32_r2l22 Zolsbestelte, plang ihre dißmalige Ferme bestehet,
+#facs_32_r2l23 oder wie deßhalb nichts anderen werden, das Jenige
+#facs_32_r2l24 Was für die sortie des Holljes und dergleichen bestimmet,
+#facs_32_r2l25 ist, zu unseren handen bezeichen, dargegen aber vmb
+#facs_32_r2l26 Daßelbe die Inhelichen eine besondere Rechnung ablegen
+#facs_32_r2l27 völlind.
+#facs_32_r3l1 60
+#facs_32_r3l2 Was dan antrifft die Aduenües und delimitation der Bahn¬
+#facs_32_r3l3 höltzern, hinder Deiner verwaltung, und dem Ambt Bonont
+#facs_32_r3l4 haben wir derselben halb ein sonderbahres Establissement
+#facs_32_r3l5 und Reiglement fimacht, Wiecher die hiemit auch zu demen und
+#facs_32_r3l6 Den Deinigen nachricht, die es ansichet, vnd denen du es per¬
+#facs_32_r3l7 attracta umb die gebühr zu notificieren hast, zugeschickt
+#facs_32_r3l8 Wirt.
+#facs_32_r3l9 Nicht weniger hastu auch das Jenige beiligend zuempfachen
+#facs_32_r3l10 Was wir des Waedts dovion vnd der Fiay, auch der
+#facs_32_r3l11 -
+#facs_32_r3l12 charge und pension halb des Capitaine zu St. Cergue und
+#facs_32_r3l13 Der Forsteren oder Bauwarten erkendt Umb, daßelbe
+#facs_32_r3l14 Wie übriges alles behöriger orten einschreiben zu laßen;
+#facs_32_r3l15 .
+#facs_32_r3l16 Und demnach Dich dis orts zurichten
+#facs_32_r3l17 Undt gleich wie das Ambt Neüwis zu seinem Reich keine
+#facs_32_r3l18 eigene Bergsame hat, Als haben wie über den angehört
+#facs_32_r3l19 bericht, Wie der Ienige Theil des Bononter Bergs gegen
+#facs_32_r3l20 a Rippe, la Gertaz genant, beschaffen seye? gutfunden wndt
+#facs_32_r3l21 arbeut; daß selbiger dem Schloß Neuwis oder deßelben
+#facs_32_r3l22 Coninio annexiert, und auß dem jenigen Kauffschilling,
+#facs_32_r3l23 auß der Hrn. Jean Anthoine Lullin verkaufften
+#facs_32_r3l24 Alpp auff dem Vergla Baronne erlößt worden,
+#facs_32_r3l25 Und darumb uns Rechnung gehalten werden soll,
+#facs_32_r3l26 an die Außrückung, und andere mit disem neuwen Berg
+#facs_33_r2l1 auffgehende Kösten, nach gebühr und billigkeit geordnet,
+#facs_33_r2l2 Zuuor aber derselbige durch vnseren furgeliebten Mit-
+#facs_33_r2l3 Raht Hrn. Weets Suckelmeister Wurstenberger, bei
+#facs_33_r2l4 glegenheit somer eristen der enden vorhabenden Reuß
+#facs_33_r2l5 außgemarchet, und mit seinen limitten ordenlich betheilen,
+#facs_33_r2l6 und interim von nun ein Staffel darauff erbauert,
+#facs_33_r2l7 werden jolle: deßen wolten wir dich hiemit dahin
+#facs_33_r2l8 benachrichtigen, damitt du solcher Ausamarchung erwart
+#facs_33_r2l9 Vnd deme, was dis orts geordnet vnd erkandt ist,
+#facs_33_r2l10 r
+#facs_33_r2l11 plaz zugeben Wüßest, Ersoch mit die Datum
+#facs_33_r2l12 Martii 1675
+#facs_33_r2l13 Leiglement des ports
+#facs_33_r2l14 C et Joux
+#facs_33_r2l15 Au l'Aduoyer Et conseil de la ville
+#facs_33_r2l16 de Berne, scavoir faisons par les presentes
+#facs_33_r2l17 Qu'apres de meures deliberations et reflexions sur
+#facs_33_r2l18 les rapports à nous faicts, par les Seigneurs Commis
+#facs_33_r2l19 de nostre Corps, pour la vision des Joux, vois et
+#facs_33_r2l20 orests, pour en reprimer les abus, et en establir
+#facs_33_r2l21 ne convenable oeconomie, pour l'utilité generale,
+#facs_33_r2l22 de nostre Estat, et particuliere de nos bien ayme
+#facs_33_r4l1 6r
+#facs_33_r4l2 subjects de nostre pays de Vauld, et sur tout de nos Balliages
+#facs_33_r4l3 aboutissants au lac Leman et de celuy de Romainmostier, Nous
+#facs_33_r4l4 jurions trouvé bon de la reduire au Reiglement suivant, que
+#facs_33_r4l5 nous voulons estre cy apres inviolablement observe, autant
+#facs_33_r4l6 quil nous plaira d'en estendre la durée, soubs peine des
+#facs_33_r4l7 Amendes en Julii specisillis.
+#facs_33_r4l8 Nous voulons donc et entendons, que quant aux Advenües
+#facs_33_r4l9 establices et delimiteés et qui cy après séstabliront et deli=
+#facs_33_r4l10 miteront mut n'y puisse toucher soubs quel pretexte que ce
+#facs_33_r4l11 soit, soubs peine de cinquante florins par plante, qui se
+#facs_33_r4l12 partageront en la manierei quil est porté par l'establissement
+#facs_33_r4l13 particulier de dites Advenues.
+#facs_33_r4l14 Quant aux bois de Bamp qui sont sur les frontieres, con
+#facs_33_r4l15 formement au convenu avec la Bourgogne en l'an 1648
+#facs_33_r4l16 viconque a qu'ils n'appartiendront pas en propre ou en
+#facs_33_r4l17 communion, y couppera payera cinquante florins d'amende
+#facs_33_r4l18 par plante et es autres bois de bamp vingt cinq florins.
+#facs_33_r4l19 Et quant à ceux a qui lesdicts bois de bamp appartiendront
+#facs_33_r4l20 en propre ou en Comunion quand ils coupperont en ceux
+#facs_33_r4l21 qui sont sur les frontieres sous pour leur propre usage.
+#facs_33_r4l22 qui leur est permis, et non pour le trafic, ils payeront
+#facs_33_r4l23 dix florins damende par plante, et cinq es autres
+#facs_33_r4l24 bois de bamp qui sont pas sur les frontieres. Le
+#facs_33_r4l25 totage de quoy se partagera en la maniere portée dan
+#facs_33_r4l26 l'establissement particulier desdits bois de Camp
+#facs_34_r3l1 Pour ce qui regarde l'œconomie du reste des jour, vois
+#facs_34_r3l2 et forests, Nous voulons et entendons que sans aucune
+#facs_34_r3l3 dispense, soubs quel pretexte que ce soit elle soit administre
+#facs_34_r3l4 la teneur des Articles suivants
+#facs_34_r3l5 la referue des éctirpations et esserts pour la semature
+#facs_34_r3l6 qui seront permis en tout temps, il ne sera desormais permis
+#facs_34_r3l7 soubs quel pretexte que ce soit de travailler, n'y faire travaillé
+#facs_34_r3l8 les Joux, vois et forests, durant le mois d'Apuril et de
+#facs_34_r3l9 Septembre destines aux semailles, soubs peine de cinq
+#facs_34_r3l10 florins d'amende par plante, à chasque fois qu'on y sera
+#facs_34_r3l11 surpris
+#facs_34_r3l12 Eluy qui ne possedera pas seul en son propre les jour
+#facs_34_r3l13 bois et forests, mais dans l'indivision n'y pourra vendre
+#facs_34_r3l14 aucunes Marchandises, mais tant seulement, sur les ports
+#facs_34_r3l15 Marchés et lieux licites par le present Reiglement,
+#facs_34_r3l16 soubs peine de confiscation en faveur de ses indivis, et
+#facs_34_r3l17 de Cinq florins d'amende par plante, en faveur du
+#facs_34_r3l18 Seigneur de Juridiction
+#facs_34_r3l19 Les indivis mesmes nonobstant leur mutuel consentement,
+#facs_34_r3l20 ne pourront accorder aux Estrangers aucunes permission
+#facs_34_r3l21 de courir indifferemment par tout esdites Joux, vois et
+#facs_34_r3l22 forests: Mais les restreindront tousjours en un coir,
+#facs_34_r3l23 imite, et feront sceller telles permission a nos Ballifs
+#facs_34_r3l24 pour en tirer nos droicts de sortie, et autres qui nous pourroyons
+#facs_34_r3l25 appartenir, soubs peine de Cinq florins d'amende par plante
+#facs_34_r4l1 64
+#facs_34_r4l2 sage des paisseaux soit eschatats de rondons de chefne et de
+#facs_34_r4l3 Capin (a la reserue de ceux de Vranches) est absolument interdict.
+#facs_34_r4l4 oubs peine don florin, par plante, et soubs la mesme peine l'entamuri
+#facs_34_r4l5 les arbres propres à bastir faute par les Bergers et autres pour
+#facs_34_r4l6 entirer l'année suivante de la poix.
+#facs_34_r4l7 Nul, (fors pour son seul usage Ine pourra coupper paissats)
+#facs_34_r4l8 attes et tugans sur les vois communs et indiuis sans permission
+#facs_34_r4l9 expresse de ses comportionniers, qui n'en pourront pourtant
+#facs_34_r4l10 accorder aucunes dispenses generales soubs mesme peine que
+#facs_34_r4l11 lessus.
+#facs_34_r4l12 Nulne pourra non plus (fors pour son seul usage) peller
+#facs_34_r4l13 aucun sapin, propre a bastir sur les bois communs et indivis soubs
+#facs_34_r4l14 peine de cinq florins par plante, sans permission de ses com¬
+#facs_34_r4l15 portionniers, qui n'en accorderont aucune de peller les chesnes
+#facs_34_r4l16 ui seront soigneusement preserues pour l'usage de la comunion
+#facs_34_r4l17 soubs peine de vingt florins damende par plante, et autant
+#facs_34_r4l18 a quiconque en couppera pour le trafic
+#facs_34_r4l19 Les droicts de Boucherage et pasque rege ayants riere les montagne
+#facs_34_r4l20 autruy demeureront veritable ment fouxte leurs Concessions
+#facs_34_r4l21 et reglements particuliers: mais cependant pour eviter abus
+#facs_34_r4l22 y abatront darbres que ce quils en pourront sortir dans l'année
+#facs_34_r4l23 soubs peine de confiscation en faveur des indiuis, Et de sinq flocins
+#facs_34_r4l24 d'amende par plante en faveur du Seigneur de Jurisdiction
+#facs_34_r4l25 Et au reciproque les proprietaires des fonds ou d'autres de tels droict
+#facs_34_r4l26 paront, ny pourront cernir sur les rochers et es endroicts pierreux
+#facs_34_r4l27 sans te consentenent de ceux cy soubs mesme peine que dessus ontre
+#facs_34_r4l28 l'amende du degast.
+#facs_35_r2l1 oute personne travaillant esdits bois, Joup et forents par
+#facs_35_r2l2 vera sa marchandise de sa marque ordinaire sous peine de
+#facs_35_r2l3 confiscation ou que ce soit qu'elle se rencontre comme repute,
+#facs_35_r2l4 les robée, et de vingt cinq florins damende en cas de conviction
+#facs_35_r2l5 A du double contre quiconque sera convaincu d'avoir effacé
+#facs_35_r2l6 ou contrefaut la marque d'autruy, et en cas de recidiue
+#facs_35_r2l7 d'estre chastié selon l'exigence du faut
+#facs_35_r2l8 ous faiseurs de douues fonds, travaillons et autres marchandises
+#facs_35_r2l9 de fente, prendront soigneusement garde d'en abbattre dans le
+#facs_35_r2l10 vois, communs et indivis que des arbres propres à cest effect, et
+#facs_35_r2l11 de reduire en Villons, pieces de Marin et autres Marchandises,
+#facs_35_r2l12 ceux qui apres estre abbatus ne pourront servir a cest usage,
+#facs_35_r2l13 foubs peine un florm par plante, outre lemende du degast
+#facs_35_r2l14 un faveur de la comunion
+#facs_35_r2l15 Aulffsoubs peine de dix florins en faveur de la Comunio
+#facs_35_r2l16 ne pourra plus tenir de chevaux sur les pasquiers comuns
+#facs_35_r2l17 En esté, qu'il nen pourra hyverner du fourrage, croissant
+#facs_35_r2l18 ans le lieu, et qu'il oneillira en son propre ou par ad
+#facs_35_r2l19 nodiation.
+#facs_35_r2l20 Et parce qu'a lesgard desdits pasturages et bois comuns
+#facs_35_r2l21 naissent souvent des difficultés parmi les Comunes, au subieu
+#facs_35_r2l22 des Collisations necessaires, pour la maintenance d'iceux
+#facs_35_r2l23 Nous voulons et entendons quelles se fassent desormais
+#facs_35_r2l24 Vou les rentes Comunes qui y seront premierement destineés
+#facs_35_r2l25 ne suffiront pas pour cest effect.) à proportion du
+#facs_35_r3l1 66
+#facs_35_r3l2 nefice qu'un chascun en tirera, tant à lesgard du pasturage
+#facs_35_r3l3 ne du boucherage; Et ainsy pour parfaire la some necessaire
+#facs_35_r3l4 In fera payer a tout homme trauaillant sur les bois communs, tant
+#facs_35_r3l5 pour soy, que pour autruy six sols, pour chasque cheval travaillant
+#facs_35_r3l6 autant, pour chasque poulain, vacte et boëf trois sols, pour chaque
+#facs_35_r3l7 Veau d'un an Jusques a trois, deux sols, et au dessours d’un an, un sol
+#facs_35_r3l8 autant pour chasque cheure, et un crûtzer pour chacque porc
+#facs_35_r3l9 il brebis, et que suivant ce taux dicte cottisation se double
+#facs_35_r3l10 ou triple Jusques à la perfection de la somme requise
+#facs_35_r3l11 + parce encor qu'a l'esgard des clostures des montagnes, arrivent
+#facs_35_r3l12 souvent des difficultés, toutstes aboutissants, soit particuliers
+#facs_35_r3l13 poet Comunes qui en possederont à clos et record, seront obligés
+#facs_35_r3l14 -
+#facs_35_r3l15 de les fermer un chascun en son endroict a Comun frais, par
+#facs_35_r3l16 sgale portion, si non que par droicts authentiques ils en ayent
+#facs_35_r3l17 de formelles exemptions, et ce toutes fois et quantes que l'une
+#facs_35_r3l18 ou l'autre des parties le requerra, pour séviter tant plus
+#facs_35_r3l19 facilement de reciproques domages et degasts.
+#facs_35_r3l20 Et d'autant que nostre grand et principal but en tout ce que
+#facs_35_r3l21 dessus est que toutes choses se facent avec ordre, et en leur
+#facs_35_r3l22 laison, et de remedier au deffaut de la culture de la terre
+#facs_35_r3l23 a la reserve des jours de foire, et des trois qui les precedent
+#facs_35_r3l24 une sera toisible soubs quel pretexte que ce soit de con¬
+#facs_35_r3l25 faire aucunes marchandises de vois travaillé et non
+#facs_35_r3l26 travaillé, sur les ports n'y ailleurs, durant le mois
+#facs_35_r3l27 Apurit et de Septembre, fort durant ce dernier les seules
+#facs_35_r3l28 Marchandises necessaires pour les vendenges.
+#facs_36_r2l1 Mais affin que lesdites foires et Marchez ordinaires se forment
+#facs_36_r2l2 dans un ordre convenable, nul ne pourra achepter aucune
+#facs_36_r2l3 Marchandises de bois de trafic par les villages et sur les
+#facs_36_r2l4 chemins: mais tant seulement sur les ports establis et
+#facs_36_r2l5 ieux accoustumés soubs peine de confiscation.
+#facs_36_r2l6 Afin aussy que tout demeure en asseurance sur les dits
+#facs_36_r2l7 ports, qui conque sera convaincu dy avoir enlevé de
+#facs_36_r2l8 jour quelque Marchandise, outre la restitution et emende
+#facs_36_r2l9 ficelle, escherra à l'amende de cinquante florins, et de
+#facs_36_r2l10 nuict sera exposé au Collier public, et en cas de recidive
+#facs_36_r2l11 Les uns et les autres punis plus outre selon lérigence du
+#facs_36_r2l12 faict, à quel effect il y aura divers Inspecteurs secrets
+#facs_36_r2l13 et en nombre suffisant
+#facs_36_r2l14 Et pour eviter desormais perte aux simples qui ignorent
+#facs_36_r2l15 le diuers Cours des especes et monnoges estrangères
+#facs_36_r2l16 tout se marchandera par bats, florins et Escus
+#facs_36_r2l17 et payera tant en monnoye qu'en especes, selon le
+#facs_36_r2l18 D'aux et libre cours du pays, soubs peine de Con
+#facs_36_r2l19 iscation contre qui les voudra employer plus haut
+#facs_36_r2l20 Et parce que Jusques icy on sest plainct qu'on empeschoit
+#facs_36_r2l21 le trafic des Marchandises de bois licites, par le-
+#facs_36_r2l22 present Reiglement, Nous voulons qu'il soit libre.
+#facs_36_r2l23 a tous sur les ports establis (soubs le droict de
+#facs_36_r2l24 preference de nos subiects pour leur usage.
+#facs_36_r3l1 6
+#facs_36_r3l2 En payant trois sols de peage par char de bois à brusler:
+#facs_36_r3l3 teneur du convenu du 25. May 1661 avec nos tres Chers
+#facs_36_r3l4 Alliez et confederés de la ville de Geneve.
+#facs_36_r3l5 Mais quant aux Marchandises travaillées au subiect desquelle
+#facs_36_r3l6 le perd une notable quantité de bois, pour la conservation
+#facs_36_r3l7 et Oeconomie duquel tant par le redoublement de forestiers,
+#facs_36_r3l8 Qu'autres soins, Nous sommes constitués en une notable despense
+#facs_36_r3l9 tout ce qui sortira desormais de nos terres et pays, nous
+#facs_36_r3l10 payera soit à nos fermiers et peageurs en la maniere
+#facs_36_r3l11 duguante; Assavoir la douzaine des Ais et des fueilles
+#facs_36_r3l12 deux sols, celle des tuyaux de fontaine de neuf pieds, et des
+#facs_36_r3l13 lannes de Closture de pareille longueur six sols, et celle des
+#facs_36_r3l14 aissats tant de closture que d'utins et des lattes et litteaux
+#facs_36_r3l15 un sol, le Millier de Cordons de Closture quatre solssis deniers,
+#facs_36_r3l16 Le sent de paux de closturu un sol six deniers, le pannier de
+#facs_36_r3l17 charbon de douze vanneés six sols, et celuy de six vannees trois
+#facs_36_r3l18 sols, le cent de douues de Char six sols, et demychar un sol six
+#facs_36_r3l19 deniers, et des la embas, comme aussy de tines, cuveaux et autres
+#facs_36_r3l20 aisseaux, tant construits que non construicts a proportion
+#facs_36_r3l21 de leur grosseur et valeur, le Cent des fonds de Char un
+#facs_36_r3l22 lorin et de demy char six sols, et de tous autres vaisse aux
+#facs_36_r3l23 tant en haut qu'embas en proportion; Le grand sommer
+#facs_36_r3l24 neuf sols, Et le mediore quatre et six deniers, la quarentaine
+#facs_36_r3l25 et le tras de mesme valeur un sol sy deniers, la trentaine
+#facs_36_r3l26 et le tras marchand un sot, le cheuron Comun six deniers,
+#facs_36_r3l27 le millier des paisseaux soit eschallat quatre sols six deniers,
+#facs_37_r2l1 Et celuy de gros Encelle un florin, et de tauaillon un sol fix.
+#facs_37_r2l2 deniers, toute fonde de gros chefne s'un sols, et de petit trois
+#facs_37_r2l3 L'ainsy toutes autres Marchandises travaillées à proportion
+#facs_37_r2l4 de leur prix et valeur à prendre le cinq par Cent.
+#facs_37_r2l5 D'autant que pour frauder nos droits les Estrangers employent
+#facs_37_r2l6 de nos subiects pour faire leurs emploictes, et les font feindre
+#facs_37_r2l7 ue cest pour leur vsage, et que soubs ce mesme pretepte de nos
+#facs_37_r2l8 subiects font trafic de telles Marchandises hors du pays et
+#facs_37_r2l9 particulierement de douues et de fonds, Nous voulons et
+#facs_37_r2l10 entendons pour obuier à tel abus, que nos subiects mesme
+#facs_37_r2l11 tors de pouvoir prouver ou jurer que cest pour leur propre
+#facs_37_r2l12 sage, et poinct pour sortir hors du pays telles marchandise
+#facs_37_r2l13 si mediatement ni imediatement, payent les sus dits droict
+#facs_37_r2l14 tablis, au mesme port soit au mes me lieu où ils les chargez
+#facs_37_r2l15 ront premierement, soubs peine de confiscation. Ce qu
+#facs_37_r2l16 bentendra aussy de tout autre bois et Marchandise de
+#facs_37_r2l17 dois, qui sortira tant par batleau que par Chariat,
+#facs_37_r2l18 sans exception quelconques, de mesme que de la traverser
+#facs_37_r2l19 de tout vin estranger à son entreé dans le pays.
+#facs_37_r2l20 Et affin que ce que dessus soit tant plus regulierenen
+#facs_37_r2l21 et exactement obserué, le quart, tant des amendes
+#facs_37_r2l22 que des marchandises confisquées, dont cy dessus n'est
+#facs_37_r2l23 autrement disposé, appartiendra au Revelateur
+#facs_37_r2l24 ant Secret que manifeste. Donné le 4me de
+#facs_37_r2l25 Mars 1675
+#facs_37_r2l26 20
+#facs_37_r4l1 70
+#facs_37_r4l2 Veneur des Arrests qui doivent estre inscripts
+#facs_37_r4l3 sur le liure de Bomont.
+#facs_37_r4l4 Arrest doe conomie des bois et Montagnes de
+#facs_37_r4l5 Tomont pour demeurer a perpetuité inscript
+#facs_37_r4l6 sur le liure dudt. lieu, et s'y conformer, passé en
+#facs_37_r4l7 Conseil le 4me Mars 1675.
+#facs_37_r4l8 Duis que L.rs Exces. n'ont autre bois de Chefne dans le Balliage
+#facs_37_r4l9 de Nyon que celuy dudt Bomont il sera desormais tout entier
+#facs_37_r4l10 en bamp Cfors pour le seul usage dedte. Maison et des Bastiments
+#facs_37_r4l11 celle entretient) soubs peine de cinquante florins d'amende
+#facs_37_r4l12 par plante. sans que les Seigneurs Gouverneurs en puissent
+#facs_37_r4l13 disposer et conceder a dautres sans permission expresse
+#facs_37_r4l14 de la chambre oeconomique des Illustres Seigneurs Theesorien
+#facs_37_r4l15 et Banderets.
+#facs_37_r4l16 Quand aux Montagnes dedte. Maison qui pour le frequent
+#facs_37_r4l17 hangement des Seigneurs Gouverneurs et Admodieurs ne
+#facs_37_r4l18 sont pas melliorces au poinct qu'il faudroit. Il a este arresté
+#facs_37_r4l19 que desormais a chaques admodiateurs lesd. Seigneurs Gouverneur
+#facs_37_r4l20 asserueront aurdit. Admodiateurs d'y cernir, ou de nettoyer
+#facs_37_r4l21 ant de pierres que de bois et buissons annuellement
+#facs_37_r4l22 entre poses, et de fournir aussy et employer à leurs frais
+#facs_37_r4l23 et despends un Millier et demy d'Encelle sur les Maisons
+#facs_37_r4l24 et (huletz desdtes. Montagnes et de rendre les Srs. Bastiments en
+#facs_37_r4l25 mesme estat quils leur seront remis à la seule referue de lo
+#facs_37_r4l26 aduite et cas douaille non arrivez par leur deffaut.
+#facs_38_r2l1 Et celuy de gros Encelles un florin, et de taveillon un sol fix.
+#facs_38_r2l2 deniers, toute fonde de gros chesne s'est sols, et de petit trois
+#facs_38_r2l3 et ainsy toutes autres Marchandises travaillées à proportion
+#facs_38_r2l4 de leur prix et valeur à prendre le cinq par Cent
+#facs_38_r2l5 D'autant que pour frauder nos droits les Estrangers employent
+#facs_38_r2l6 de nos subjects pour faire leurs emploutes, et les font feindre
+#facs_38_r2l7 ue cest pour leur usage, et que soubs ce mesme pretepte de nos
+#facs_38_r2l8 subiects font trafic de telles Marchandises hors du pays ex
+#facs_38_r2l9 particulierement de douues et de fonds, Nous voulons et
+#facs_38_r2l10 entendons pour obuier à tel abus, que nos subjects mesme
+#facs_38_r2l11 tors de pouvoir prouver ou jurer que cest pour leur propr
+#facs_38_r2l12 usage, et poinct pour sortir hors du pays telles marchandises,
+#facs_38_r2l13 si mediatement ni imediatement, payent les sus dits droict
+#facs_38_r2l14 establis, au mesme port soit an mesme lieu où ils les chargez
+#facs_38_r2l15 ront premierement, soubs peine de confiscation. Ce qui
+#facs_38_r2l16 bentendra aussy de tout autre bois et Marchandise de
+#facs_38_r2l17 bois, qui sortira tant par vableau que par Chariat
+#facs_38_r2l18 sans exception quelconques, de mesme que de la traverser
+#facs_38_r2l19 de tout vin estranger à son entreé dans le pays
+#facs_38_r2l20 Et affin que ce que dessus soit tant plus regulierement
+#facs_38_r2l21 et exactement obserué, le quart, tant des amendes
+#facs_38_r2l22 que des marchandises confisquées, dont cy dessus n'est
+#facs_38_r2l23 intrement dispose, appartiendra au Revelateur
+#facs_38_r2l24 tant secret que manifeste. Donné le 4. me de
+#facs_38_r2l25 Mars 1675
+#facs_38_r2l26 20
+#facs_38_r5l1 Veneur des Arrests qui doivent estre inscripts
+#facs_38_r5l2 sur le liure de Bomont
+#facs_38_r5l3 Arrest doe conomie des bois et Montagnes de
+#facs_38_r5l4 Tomont pour demeurer a perpetuite inscript
+#facs_38_r5l5 sur le liure dudt. lieu, et sy conformer, passé en
+#facs_38_r5l6 Conseil le 4me mars 1675
+#facs_38_r5l7 Quis que L.rs Exces. n'ont autre bois de chesne dans le Balliage
+#facs_38_r5l8 de Nyon que celuy dudit Tomont il sera desormais tout entier
+#facs_38_r5l9 en bamp (fors pour le seul usage dedte. Maison et des Bastiments
+#facs_38_r5l10 Quelle entretient) soubs peine de einquante florins d'amende
+#facs_38_r5l11 par plante. Sans que les Seigneurs Gouverneurs en puissent
+#facs_38_r5l12 disposer et conceder à d'autres sans permission expresse.
+#facs_38_r5l13 de la chambre oeconomique des Illustres Seigneurs Theesorien
+#facs_38_r5l14 et Banderets
+#facs_38_r5l15 Quand aux Montagnes dedte. Maison qui pour le frequent
+#facs_38_r5l16 changement des Seigneurs Gouverneurs et Admodieurs ne
+#facs_38_r5l17 nt pas melliorées au poinct qu'il faudroit. Il a esté arresté
+#facs_38_r5l18 (ue desormais à chaques admodiateurs lesq. Seigneurs Gouverneur)
+#facs_38_r5l19 deserueront auxdits. Admodiateurs d'y cernir, ou de nettoyer
+#facs_38_r5l20 tant de pierres que de bois et buissons annuellement.
+#facs_38_r5l21 Quatre poses, et de fournir aussy et employer à leurs frais
+#facs_38_r5l22 et despends un Millier et demy d'Encelle sur les Maisons
+#facs_38_r5l23 et Chulets desdtes. Montagnes et de rendre lesdes. Bastiments en
+#facs_38_r5l24 nesme estat qu'ils leur seront remis à la seule referue de la
+#facs_38_r5l25 cadvité et cas douaille non arrivez par leur deffaut
+#facs_39_r1l1 Ot parce que dicte vaste estendüe estant melliorée est
+#facs_39_r1l2 tus que suffisante pour le Bestait ded. Maison de
+#facs_39_r1l3 somont, et que le chasteau de Nyon n'en a aucune pour
+#facs_39_r1l4 tenir le sien en Este. Ql a esté arresté de referuer
+#facs_39_r1l5 et destiner en faveur dudt chasteau de Nyon ce com
+#facs_39_r1l6 Oriental et Meridional appellé la Gerlas ioignant la
+#facs_39_r1l7 Montagne de la Rippe qui sera detimité et separé d'avec
+#facs_39_r1l8 le reste par Monsieur le Boursier Wurstenberguer
+#facs_39_r1l9 au premier voyage qu'il fera au pays de vaud, pour
+#facs_39_r1l10 apres deues extirpations et melliorations en pouvoir
+#facs_39_r1l11 faire une montagne de la portée d'une trentaine
+#facs_39_r1l12 de vaches ou environ. A quel effect le moderne
+#facs_39_r1l13 Seigneur Ballis de Nyon pourra retirer le Capital
+#facs_39_r1l14 de l'al page deut sur la montagne appellée la Baronne
+#facs_39_r1l15 posseder par N. Jean Anthoine Lullin pour y construir
+#facs_39_r1l16 un Challet et employer le reste en melliorations ; Le
+#facs_39_r1l17 toutage dequoy sera des lors entretenu aux propres
+#facs_39_r1l18 frais desdts. Seigneurs Hallifs presents et aduenir.
+#facs_39_r1l19 Arrest de la charge particuliere et
+#facs_39_r1l20 pension du Capitaine de St. Cerque, passé
+#facs_39_r1l21 en Conseil le 4me de Mars 1675.
+#facs_39_r1l22 Celle
+#facs_39_r1l23 Le Capitaine de la garde de St. Cergue outre son
+#facs_39_r1l24 debuoir general, d'apporter touts les soings et toute
+#facs_39_r1l25 a fidelite possibles a la garde de ce passage, sera
+#facs_39_r1l26 tous les Ans dans le Mois de Juin auecles forestiers
+#facs_39_r2l1 r
+#facs_39_r2l2 ision locale des Aduenües et Bornes de l'Estat du Balliage, et
+#facs_39_r2l3 fera rapport a son retour au Seigneur Ballif de leur Estat,
+#facs_39_r2l4 pour apporter les remedes convenables par tout ou il se
+#facs_39_r2l5 trouvers du desordre
+#facs_39_r2l6 Item sera tenu de visiter tous les ans deux fois le Corps
+#facs_39_r2l7 de garde, pour en remarquer les deffauts et deperissements
+#facs_39_r2l8 et en faire rapport au Seigneur Ballif, affin qu'il soit
+#facs_39_r2l9 tousjours en Estat pour le logement du monde necessaire
+#facs_39_r2l10 Item aura le soing de faire couper de temps a autre par
+#facs_39_r2l11 des forestiers le vois croissant au tour dudt Corps de garde
+#facs_39_r2l12 pour le tenir tousjours descouvert es endroicts marques et
+#facs_39_r2l13 necessaires.
+#facs_39_r2l14 La pension tant en temps de guerre que de paix, commencera
+#facs_39_r2l15 au premier de Mars, Mille six Cents septante quattre
+#facs_39_r2l16 et sera annuellement de six sacs de froment a Bomont
+#facs_39_r2l17 Et de Cents florins à Nyon, le tout payable par quartiers
+#facs_39_r2l18 outre sa portion aux amendes telle quelle est specifice en-
+#facs_39_r2l19 l'establissement des aduenües, et le bois mort dicelles
+#facs_40_r2l1 Arrest du nombre, charge et pension
+#facs_40_r2l2 des forestiers des Joux et Montagnes du
+#facs_40_r2l3 Balliage de Nyon, et Gouvernement de
+#facs_40_r2l4 Bomont passé en Conseil le 4me de Mar.
+#facs_40_r2l5 1675
+#facs_40_r2l6 Nul ne pourra estre forestier des hautes Joux qui possede
+#facs_40_r2l7 charge qui le diuertisso de l'inspection requise, mais s'occuper
+#facs_40_r2l8 diligemment a dicte Inspection, au moyen de laquelle il
+#facs_40_r2l9 lera exempt des charges de Comune, Assavoir des gardes
+#facs_40_r2l10 Journeés et Corueés, qui se font à tour ou en Comun
+#facs_40_r2l11 Tous tels forestiers presteront serment de fidelités entre les
+#facs_40_r2l12 mains des Chastellains, de la charge desquels despendront le
+#facs_40_r2l13 montagnes qu'ils auront à garder, et leur feront un
+#facs_40_r2l14 fidele rapport et sans dilay de tous les damnifiants sans
+#facs_40_r2l15 exception quelconque
+#facs_40_r2l16 Et parce qu'en des lieux escartéz, comme les montagnes, il
+#facs_40_r2l17 ne peuvent pas gager, par force manque de secours, quand
+#facs_40_r2l18 Les damni fiants ne leur voudront pas volontairement.
+#facs_40_r2l19 bailler de gages, il leur suffira plustost que de s'expose
+#facs_40_r2l20 de leur parler, et d'en faire le rapport avec toutes se
+#facs_40_r2l21 circonstances et detascher de recognoistre au vray
+#facs_40_r2l22 Quelcun des damnifiants qui se trouvent par troupes
+#facs_40_r2l23 pour t'accuser au Chastellain, qui obligera l'accuse
+#facs_40_r3l1 74
+#facs_40_r3l2 se declarer tous ses complices, et à deffaut de le vouloir faire
+#facs_40_r3l3 luy fera porter la peine de tout ledesgast, et des amendes des
+#facs_40_r3l4 autres
+#facs_40_r3l5 Vous lesdts forestiers seront aussy Messelliers, et ainsy gageront aussi
+#facs_40_r3l6 bien à lesgard du pastarage que du voucherage, et autre les Chastellams
+#facs_40_r3l7 rapporteront fidelement aux proprietaires, soit aux leurs, et à leurs
+#facs_40_r3l8 Admodieurs les damnifiants.
+#facs_40_r3l9 Les forestiers de Joux du Balliage de Nyon et Gouvernement
+#facs_40_r3l10 de Bomont seront ordinairement cinq en nombre, qui seront
+#facs_40_r3l11 choisis a la Rippe, Gingius, St. Cerque, Armet Bass in
+#facs_40_r3l12 Luy de la Rippe aura soubs Inspection la montagne de la
+#facs_40_r3l13 Commune dudt. lieu, appelleé Combez du faouq la Baudi chonnaz
+#facs_40_r3l14 les potraux, la paulaz, les pilliodes, les Sonnalliays, les Gaudardes
+#facs_40_r3l15 le planay, les vullietes, la petoudaz et petit Reculet, et en somme
+#facs_40_r3l16 toutée qui est renfermé dans les pieces susmentionnées, sans
+#facs_40_r3l17 exception quelconque.
+#facs_40_r3l18 Les forestiers de Gingins aura Inspection particuliere sur
+#facs_40_r3l19 les bois de chesre et Montagnes de Bomont, préparadis
+#facs_40_r3l20 le grand Reculet la Barrillietias, le Gist, le grand et petit
+#facs_40_r3l21 Vuardtz, Cunaloup et les Maillettes
+#facs_40_r3l22 ..
+#facs_40_r3l23 Le forestier de St. Cerque veillera sur la montagne dudict
+#facs_40_r3l24 ieu, Monteret, et Rosset, la prangine, la Borsattoz, la montagne.
+#facs_41_r2l1 de Nyon, la Geurine, la Trelasse, la pilas, les pappes, la-
+#facs_41_r2l2 combaz des Tuffes tant de Lonchau mois que des particuliers,
+#facs_41_r2l3 la Bouriaz, la Baronne, et les deux Coppettes y contiguës
+#facs_41_r2l4 jusqu'a la fruictiere neufue et en fin la favière
+#facs_41_r2l5 Le forestier d'Arsier gardera les Orgieres et les bois contigé
+#facs_41_r2l6 de la Comune d'Arzier, la freterettas et la Cheurery; la Con-
+#facs_41_r2l7 Vierie, et les prez sur le Mollard d'Arzier, les Monstroux et
+#facs_41_r2l8 la Ragiaz, les Bioles, Molliesulas, le petit et grand Vermeilly
+#facs_41_r2l9 la grande et petite aynaz, s'Hautmont, la Geneolliere la
+#facs_41_r2l10 fructuire neufue, l'arziere praz Noué et la Baragne
+#facs_41_r2l11 les Loges, les plats et les Begnines.
+#facs_41_r2l12 Le forestier de Bassin aura soubs sa garde les prés et
+#facs_41_r2l13 fois de Jour de Bassin, la choumettas et le planay,
+#facs_41_r2l14 les Chenevieres, les frasses, mont guyon, la Bamaz, les
+#facs_41_r2l15 Valauses, les platests et les Bassines
+#facs_41_r2l16 este Inspection particuliere commise auxdicts forestier
+#facs_41_r2l17 nempeschera pas qu'ils ne puissent tous gager dan
+#facs_41_r2l18 toute lestendue des susdites montagnes, et se tendre
+#facs_41_r2l19 reciproquement la main au besoing, pour se soulager
+#facs_41_r2l20 les uns les autres: Mais un chascun deux sera obligé
+#facs_41_r2l21 de respondre en son propre des desgasts es montagnes
+#facs_41_r2l22 qui luy seront particulierement commises.
+#facs_41_r4l1 16
+#facs_41_r4l2 Par le present Reglement n'est empesché ny aux communes
+#facs_41_r4l3 ij aux particuliers de s'establie si bon leur semble, des
+#facs_41_r4l4 focestiers particuliers, Mais sans prejudice pourtant de
+#facs_41_r4l5 eseinq generaux ny diminution de leur salavie
+#facs_41_r4l6 salaire de chasque forestier considera en deux coupes
+#facs_41_r4l7 de froment annuellement, dix florins d'argent que les deux
+#facs_41_r4l8 de la Rippe et de bingins retireront en Bomont, et les trois
+#facs_41_r4l9 autres au Chasteau de Nyon, et auront en outre leur portion
+#facs_41_r4l10 aux amendes telle quelle est reiglæ dans le Reiglement des
+#facs_41_r4l11 orts et Joup, et outre ce leur sera annuellement paye par
+#facs_41_r4l12 hasques Admodiateurs des Montagnes, sans exception
+#facs_41_r4l13 quelconque demy bats par vaches genus, chevaux et poulains
+#facs_41_r4l14 qui y pastureront listé, payable la moitié à la S t Jean
+#facs_41_r4l15 et l'autre moitié le vingliesme de septembre, à deffaut
+#facs_41_r4l16 requoy leur pourront faire vendre fruict ou bestait pour
+#facs_41_r4l17 ledict salaire, moyennant quoy feront une fidelle ex
+#facs_41_r4l18 Vigneuse garde desdites Montagnes, tant au regard
+#facs_41_r4l19 du pasturage que du boucherage
+#facs_42_r2l1 Teneur des Arrests, qui doivent estre inscripts
+#facs_42_r2l2 sur le liure du chasteau de Nyon.
+#facs_42_r2l3 Copie de la lettre escripte au Seigneur Ballif de
+#facs_42_r2l4 Nvon, pour ta Cassation de tous Actes de venter
+#facs_42_r2l5 de main privée et receus par des Notaires Estranger,
+#facs_42_r2l6 au moyen de quoy sont reculéz tes tauds et droict
+#facs_42_r2l7 de traitte foraine par arrest du Conseil du 4me
+#facs_42_r2l8 de Mars 1675
+#facs_42_r2l9 Sur les Informations receües que dans vostre Balliage
+#facs_42_r2l10 ffrontant a tant de Souverainetes se font diverses ventes
+#facs_42_r2l11 dont les actes se passent ou de main privée signez par les
+#facs_42_r2l12 parties ou par des tesmoings, ou entre les mains de Notaires
+#facs_42_r2l13 Etrangers et hors de nos terres en Contravention a la la
+#facs_42_r2l14 et à nos Mandats publiés et rectezes pour obuier à un tems
+#facs_42_r2l15 abus. Nous vous comandons de mettre touts les ordre
+#facs_42_r2l16 requis pour descouvrir tous tels infracteurs de nos Edict
+#facs_42_r2l17 Et apres conviction casser d'annuller sans autres
+#facs_42_r2l18 formalitez touts tels actes faict et qui se feront
+#facs_42_r2l19 Y apres nonobstant toutes laudations de vass auj.
+#facs_42_r2l20 et seigneurs directs pour iceux n'avoir pu rien faire
+#facs_42_r2l21 au preiudue de la loy et de nosdicts Mandats ex
+#facs_42_r2l22 faire porter ensuitte sans support n'y dispense
+#facs_42_r2l23 les peines et amendes decerneés par dicté loix et
+#facs_42_r2l24 Mandats subsecutifs, Selon quoy vous aurez à vou
+#facs_42_r2l25 conduire. donné le 4me de Mars 1675.
+#facs_42_r4l1 178
+#facs_42_r4l2 Arrest d'œconomie du bois de fiay et d'ouyon pour
+#facs_42_r4l3 lemeurer a perpetuité inscript sur le liure du
+#facs_42_r4l4 hasteau de Nyon, pour s'y reiglez, passé en Conseil
+#facs_42_r4l5 le 4me de Mars 1675
+#facs_42_r4l6 Lois dufiay sittué entre Arsier et Bassin, exclusivement
+#facs_42_r4l7 a toutes communes et particuliers sans exception quelconque de
+#facs_42_r4l8 nh
+#facs_42_r4l9 leurera affecté a l'affoïage du Chasteau de Nyon, soubs peine
+#facs_42_r4l10 de Cinq florins damende par plante, sans que les Seigneurs Balliz
+#facs_42_r4l11 se puissent adioindre audt. affouäge ny a temps n’y a per petuité
+#facs_42_r4l12 qui que ce soit sans permission expresse de Lrs. Et ces
+#facs_42_r4l13 Monsieur le Ballis de Nyon taschera d'achepter ce que les particulier
+#facs_42_r4l14 est dans le dit bois, et à deffaut dén pouvoir convenir les logera
+#facs_42_r4l15 ainsy que cy devant a esté ordonné en l'extremité du couchant.
+#facs_42_r4l16 ten fera la separation par vornes suffisamment
+#facs_42_r4l17 Quand au bois d'ouion en toute son Estendüe, Il demeurera
+#facs_42_r4l18 esormais à perpetuité en bamp à lésgard du sapin, soubs
+#facs_42_r4l19 eine de vingtemus florins d'amende par plaute, sans que les
+#facs_42_r4l20 Seigneurs Ballifs C: fors pour le seul usage du Chasteau et
+#facs_42_r4l21 des Cures et bastiments quil doit entretenir. J'en puissent
+#facs_42_r4l22 disposer en faveur de qui que ce soit sans la permission
+#facs_42_r4l23 expresse de la Chambre oeconomique des Illustres seigneur
+#facs_42_r4l24 Tresorier et Banderets.
+#facs_43_r2l1 En apres pour ne laisser croistre audt. bois que des Arbres propre
+#facs_43_r2l2 pour les Bastiments. Le forestier aura un soing tout parti
+#facs_43_r2l3 ulier d'y couper de temps à autre toutes ieusnes plantes de
+#facs_43_r2l4 bapin tortües, courbes et viciees pour faciliter l'accroissement
+#facs_43_r2l5 des autres, et pour celuy de faouz en sera usé come du passé
+#facs_43_r2l6 Et d'autant que les arbres d'excessive grosseur et viellesse de
+#facs_43_r2l7 viennent invtiles et ne servent que d'empeschement aux autres
+#facs_43_r2l8 le six en six ans a commencer en presente année 1675. le Chastellain
+#facs_43_r2l9 d'Arzier soit son Lieutenant avec le forestier dudt. bois le vi
+#facs_43_r2l10 literont en toute son estendüe, au commancement de May
+#facs_43_r2l11 de chasque sixiesme anneé, et marqueront touts les Arbres
+#facs_43_r2l12 qui excederont en Espaisseur trois pieds de Roy, dont ils
+#facs_43_r2l13 auront un Eschantillion, en marqueront par leur serment
+#facs_43_r2l14 le nombre dans un Rolle qu'ils deliureront la mesme
+#facs_43_r2l15 Sept maine au Seigneur Ballif qui les fera publier,
+#facs_43_r2l16 vendables les trois: jeudis subsecutifs au port et sus le
+#facs_43_r2l17 narché de Nyon, Et le troiziesme à midy au lieu accoustum
+#facs_43_r2l18 des Expeditions publiques Sérpedieront au plus offrant
+#facs_43_r2l19 pour le Conte de Lrs. Exces.
+#facs_43_r2l20 Et pour tant plus soigneuse conservation dudt. bois
+#facs_43_r2l21 les douze Arbres que le forestier y percevoit annuellemt
+#facs_43_r2l22 Pour partie de son salaire seront convertis en deux
+#facs_43_r2l23 coupes de froment. En sorte que desormais il n'y aura
+#facs_43_r2l24 aucun bois verd de sapin pour luy, mais tant seulement
+#facs_43_r2l25 le mort et abatu pas les vents.
+#facs_43_r4l1 80
+#facs_43_r4l2 Teneur des Arrests qui doibuent estre inscripts
+#facs_43_r4l3 sur le liure de Domont, et à Cause du dernier
+#facs_43_r4l4 article sur celuy de Nyon.
+#facs_43_r4l5 Arrest d'oeconomie des bois et montagnes de
+#facs_43_r4l6 somont pour demeurer à perpetuité inscripts.
+#facs_43_r4l7 sur le livre dudt lieu et sy conformeri passé en
+#facs_43_r4l8 Conseil le qme de Mars 1675
+#facs_43_r4l9 Quis que Lts Exces n'ont autre bois de Chefne dans le Balliage
+#facs_43_r4l10 de Nyon, que celuy dudt Bomont, Il sera desormais tout
+#facs_43_r4l11 entier en bamp, (hors pour le seul usage dedi maison et des
+#facs_43_r4l12 asitiments quelle entretient) soubs peine de (inquante
+#facs_43_r4l13 lorins damende par plante sans que les seigneurs Gouverneur
+#facs_43_r4l14 en puissent disposer et conceder à dautres sans permission
+#facs_43_r4l15 expresse de la Chambre oeconomique des Illustres Seigneurs
+#facs_43_r4l16 Tresaurier et Banderets
+#facs_43_r4l17 Quand aux Montagnes dedté. Maison qui pour le frequent changement
+#facs_43_r4l18 des Seigneurs Gouverneurs et Admodieurs ne sont pas molliores
+#facs_43_r4l19 au point qu'il faudroit. Il a esté arresté que desormais à chasque
+#facs_43_r4l20 admodiation lesdts. Seigneurs Gouverneurs referueront auxdt.
+#facs_43_r4l21 Admodieurs d'y cernir ou de nettoyer tant de pierres que de vois
+#facs_43_r4l22 et buissons annuellement quatre poses et de fournir aussy
+#facs_43_r4l23 et employer a leurs despends un millier et demy d'encelle sur
+#facs_43_r4l24 les maisons et chalets dedte. Montagnes et de rendre les dts.
+#facs_43_r4l25 Bastiments au mesme Estat qu'ils leur seront remis à la
+#facs_43_r4l26 seule reserue de la caducité et cas d'ouaille non arrivée
+#facs_43_r4l27 par leur deffaut.
+#facs_44_r3l1 Et parce que dicte vaste estendue estant melliorce est plu
+#facs_44_r3l2 ue suffisante pour le bestait dedte. maison de Bomont
+#facs_44_r3l3 Et que le chasteau de Nyon n'en a aucune pour tenir le sier
+#facs_44_r3l4 in Esté. Il a esté arresté de reseruer et destiner en
+#facs_44_r3l5 faveur dudit chasteau de Nyon ce loin oriental et me
+#facs_44_r3l6 adional appellé la Gerlaz ioingnante la Montagne de
+#facs_44_r3l7 la Rippe, qui sera delimité et separé d'avec le reste
+#facs_44_r3l8 par Monsieur le Boursier Wustenberguer au premier
+#facs_44_r3l9 voyage qu'il fera au pays de Vaul, pour apres deüe
+#facs_44_r3l10 extirpations et milliorations en pouvoir faire une
+#facs_44_r3l11 montagne de la portée d'une trentaine de vaches ou
+#facs_44_r3l12 environ. A quel effect le moderne Seigneur Ballif,
+#facs_44_r3l13 de Nyon pourra retirer le Capital de l'Alpage deul
+#facs_44_r3l14 sur la montagne appelleé la Baronne possedée par
+#facs_44_r3l15 .V. Jean Anthoine Lullin pour y constuire un Chalet
+#facs_44_r3l16 Et employer le reste en meliorations, le toutage de quoy
+#facs_44_r3l17 sera des lors entretenu aux propres frais desdts. seigneur
+#facs_44_r3l18 Ballifs presents et aduenirs
+#facs_44_r3l19 Arrest de la charge particuliere et
+#facs_44_r3l20 pension du Capitaine de St Cerque,
+#facs_44_r3l21 passe en Conseil le 4me de Mars 1675.
+#facs_44_r3l22 Le Capitaine de la garde de St. Cerque, outre son
+#facs_44_r3l23 debuoir generat d'apporter touts les soings et
+#facs_44_r3l24 toute la fidelité possible à la garde de ce passage,
+#facs_44_r3l25 fera touts les ans dans le Mois de Juin avec les
+#facs_44_r3l26 forestiers vision locale des aduenües et bornes
+#facs_44_r3l27 de l'Estat du Ballivage et fera rapport a son retour
+#facs_44_r4l1 82
+#facs_44_r4l2 au Seigneur Ballif de leur estat pour apporter les
+#facs_44_r4l3 remedes convenables par tout ou il se trouvera du
+#facs_44_r4l4 desordre.
+#facs_44_r4l5 fem sera tenu de visiter tous les ans deux fois le Corps de
+#facs_44_r4l6 garde pour en remarquer les deffauts et perissements, et
+#facs_44_r4l7 faire rapport au Seigneur Ballis, affin qu'il soit tousjours
+#facs_44_r4l8 En Estat pour le logement du monde nécessaires.
+#facs_44_r4l9 Item aura le soing de faire coupper de temps à autres
+#facs_44_r4l10 par les forestiers le bois croissant au tour dudict Corps
+#facs_44_r4l11 de garde pour le tenir tousjours descouvert és endroicts
+#facs_44_r4l12 marqués et necessaires.
+#facs_44_r4l13 la pension tant en temps de guerre que de paix comancera
+#facs_44_r4l14 au premier de Mars 1674 et sera annuellement de six sacs
+#facs_44_r4l15 defroment à Bomont et deux Cents florins à Nyon; Le
+#facs_44_r4l16 out payable par quartiers, outre sa portion aux amendes
+#facs_44_r4l17 elle quelle est speciffieé en l'establissement des aduenües et
+#facs_44_r4l18 le bois mort de celles.
+#facs_44_r4l19 Arrest du nombre, de la charge et
+#facs_44_r4l20 1
+#facs_44_r4l21 lension des forestiers des Joux A Montagnes
+#facs_44_r4l22 du Balliage de Nyon, et Gouvernement de
+#facs_44_r4l23 Bomont, passé en Conseil le 4me de Mars
+#facs_44_r4l24 1675
+#facs_45_r2l1 Nul ne pourra estre forestier des hautes Joux qui pofrede
+#facs_45_r2l2 charge qui le divertisse de l'inspection requise, mais s'occu-
+#facs_45_r2l3 pera diligemment a dicte inspection au moyen de laquelle
+#facs_45_r2l4 A sera exempt des charges de commune, Assauvie des
+#facs_45_r2l5 gardes, Journeés et Coruees qui se font à tour ou et
+#facs_45_r2l6 Commun
+#facs_45_r2l7 ous tels forestiers presteront serment de fidelité entre
+#facs_45_r2l8 les mains des Chastellains de la change desquels deppendront
+#facs_45_r2l9 les montagnes qu'ils auront à garder, et leur feront
+#facs_45_r2l10 un fidele rapport et sans dilay de touts les damnifiant
+#facs_45_r2l11 sans exception quelconques
+#facs_45_r2l12 Et parce qu'en des lieux escartés comme les montagne
+#facs_45_r2l13 fils ne peuvent pas gager par force manque de
+#facs_45_r2l14 secours quand les damnifiants ne leur voudront pas
+#facs_45_r2l15 volontairement bailler des gages. Il leur suffira plusto
+#facs_45_r2l16 que de s'exposer de leur parler et den faire le rapport
+#facs_45_r2l17 avec toutes ses circonstances et de tascher de re
+#facs_45_r2l18 ognoistre au vray quelquun des damnifiants
+#facs_45_r2l19 qui se trouvent par trouppe pour t'accuser au
+#facs_45_r2l20 Kastellam qui obligera l'accuse de declarer tout
+#facs_45_r2l21 Les comptices et à deffaut de le vouloir faire
+#facs_45_r2l22 uy fera porter la peine de tout le desgast et
+#facs_45_r2l23 des amendes des autres.
+#facs_45_r3l1 84
+#facs_45_r3l2 Sous lesdts. forestiers seront aussy mestelliers et ainsy gageront
+#facs_45_r3l3 aussy bien à lesgard du pasturage que du boscherage et
+#facs_45_r3l4 tre les Chassellains rapporteront fidelement aux proprietaires
+#facs_45_r3l5 dit aux leurs et à leurs Admodieurs les damnifiants.
+#facs_45_r3l6 Les forestiers de Joup du Balliage de Nyon et Gouvernement
+#facs_45_r3l7 de Domont seront ordinairement cinq en nombre, qui seront
+#facs_45_r3l8 Choisis a la Rippe, Gingins, St. Cerque, Arsier et Bassin
+#facs_45_r3l9 celuy de la Rippe aura soubs inspection la montagne de
+#facs_45_r3l10 la Comune dudt. lieu appelleé Comtres du faoug, la haudi
+#facs_45_r3l11 thonnaz, les potraup, la paulas, les pilliodes, les sonnalliay,
+#facs_45_r3l12 les Gaudardes, le piarez, les vullietes, la petraudas et petit
+#facs_45_r3l13 Veculet. Et en somme tout ce qui est renfermé dans les
+#facs_45_r3l14 cces sus mentionnes sans exception quelconque
+#facs_45_r3l15 de forestier de Tingins aura inspection particuliere
+#facs_45_r3l16 que les bois deselve et Montagnes de Bomont
+#facs_45_r3l17 Dres paradis, le Grand Recutet, la Barillettaz, le gist,
+#facs_45_r3l18 le grand et petit vuarnoz Cuualoup et les maillettes.
+#facs_46_r2l1 Le forestier de St. Cergue, veillera sur la montagne dudt. lieu
+#facs_46_r2l2 Monteret le Rosset, la prangine, la Borssattaz, la montagne
+#facs_46_r2l3 de Nyon, la Givrine, la Trelasse, la pilaz, les dappes, la-
+#facs_46_r2l4 ambaz des tuffes, tant de lont chaumois que des particulae-
+#facs_46_r2l5 La Bourias, la Baronne, et les deux coppettes y contiguë
+#facs_46_r2l6 Jusqu'a la fruictuire neuve. Et enfin la faviere
+#facs_46_r2l7 Le forestier d'Arsier gardera les Orgieres et les bois con-
+#facs_46_r2l8 tigus de la Commune d'Arsier; la fieterettaz, et la cheurer
+#facs_46_r2l9 la Conrierie et les pres sus le Mollard d'Arsier; Les
+#facs_46_r2l10 Montroux et la Ragraz, les Biolles, Molliesulaz, le petit
+#facs_46_r2l11 et grand vermeilley, la grande et petite Aynaz L'heantmont
+#facs_46_r2l12 la genolliere, la fruictiere neuve, Laisiere, pra noué, et
+#facs_46_r2l13 la Baragne, les loges, les plats et les segnignes
+#facs_46_r2l14 Le forestier de Bassin aura soubs sa garde les prés et
+#facs_46_r2l15 bois de Joux de Bassins, la Choumettaz, et le planey, les
+#facs_46_r2l16 Kenevieres, les frasses mont guyon, la Hamar, les
+#facs_46_r2l17 vallauses, les pralets, et les Passines
+#facs_46_r2l18 Ceste inspection particuliere comise auxdicto forestien
+#facs_46_r2l19 n'empeschera pas qu'ils ne puissent tous gager dans
+#facs_46_r2l20 toute lestendue des susdictes montagnes, et se tendre
+#facs_46_r2l21 reciproquement la main au besoing pour se soulager
+#facs_46_r3l1 36
+#facs_46_r3l2 les uns les autres. Mais un chascun d'eux sera obligé de re:
+#facs_46_r3l3 pondre en son propre des desgats es montagnes qui luy
+#facs_46_r3l4 seront particulierement commises
+#facs_46_r3l5 er le present Reiglement n'est empeshé n'y aux Communes ny aux
+#facs_46_r3l6 particuliers de sestablir si bon leur semble des forestiers particuliers
+#facs_46_r3l7 Mais sans prejudice pourtant de ces cinq generaux ny diminution
+#facs_46_r3l8 de leurs salaires.
+#facs_46_r3l9 salaire de chasque forestier considera en deux coupes.
+#facs_46_r3l10 2
+#facs_46_r3l11 de froment annuellement, dix florins d'argent que les deux
+#facs_46_r3l12 de la Rippe et de Gingins retireront à Pomont, et les
+#facs_46_r3l13 rois autres au Chasteau de Nyon; Et auront en outre
+#facs_46_r3l14 eur portion aux amendes telle quelle est reigleé dans le
+#facs_46_r3l15 Reiglement des ports à Joux, et outre ce leur sera annuellement
+#facs_46_r3l16 payé par chasques admodieurs des montagnes sans exception.
+#facs_46_r3l17 uetconque demy batz par vasche genue, Chevaux et poullains
+#facs_46_r3l18 qui y pasturcront l'Esté payable la moitié à la St. Jean et
+#facs_46_r3l19 autre moitié le vingtiesme de septembre à deffaut de quoy
+#facs_46_r3l20 leur pourront faire vendre fruict ou vestait pour ledict
+#facs_46_r3l21 salaire. Moyennant quoy feront une fidele et soigneuse
+#facs_46_r3l22 garde desdictes Montagnes tant au regard du pasturage
+#facs_46_r3l23 que du boscherage
+#facs_47_r1l1 Delimitation des bois de Vambo ay
+#facs_47_r1l2 Ein
+#facs_47_r1l3 gillage de Nion
+#facs_47_r1l4 Collle A duoyer Et conseil de la ville de Berne
+#facs_47_r1l5 cavoir faisons par les presentes qu'apres de meures
+#facs_47_r1l6 consultes et deues reflexions, sur le rapport à nous
+#facs_47_r1l7 faict par les Seigneurs commis de nostre Corps, qui ont
+#facs_47_r1l8 faict par nos ordres la vision locale de l'estat desto
+#facs_47_r1l9 Et vois de nostre Balliage de Nyon, pour en reprime
+#facs_47_r1l10 les abus et pareillement des ports, Nous aurions
+#facs_47_r1l11 trouvé de l'utilité de nostre Estat et de nos bien
+#facs_47_r1l12 aymez subiects, d'y establie par tout selon la si
+#facs_47_r1l13 tuation et necessité des lieux, les aduenües et vois
+#facs_47_r1l14 de vamp cy apres specifiés pour estre stables et
+#facs_47_r1l15 imouables à perpetuitei.
+#facs_47_r1l16 sur ce fondement donc, dans la montagne des pappes
+#facs_47_r1l17 Bois
+#facs_47_r1l18 d'avenus
+#facs_47_r1l19 sera tenue pour aduenüe la partie occidentale
+#facs_47_r1l20 alle, tirant de vent à bize, tout du long, de la
+#facs_47_r1l21 les Dappes
+#facs_47_r1l22 largeur de deux cents pas, separée du couchant
+#facs_47_r1l23 la Partie Oui,
+#facs_47_r1l24 dentale
+#facs_47_r1l25 Par la montagne de Lonchaumois, et d'Orient
+#facs_47_r1l26 par des Calles des s'extremité de vent à celle
+#facs_47_r1l27 de Bize, pour la rendre de gale largeur en tous
+#facs_47_r1l28 les endroits, a quel effect servira la Borne
+#facs_47_r1l29 qui est au Coin Orientat et Septentrional dont
+#facs_47_r1l30 l'un des garends tend à vent, et l'autre au couchant
+#facs_47_r2l1 88
+#facs_47_r2l2 Mris d'avenir
+#facs_47_r2l3 A la quelle advenue sera ioincte une de mesme longeur
+#facs_47_r2l4 et largeur sur la montagne de Lonchaumois dicte de Tusses
+#facs_47_r2l5 y separeé d'Orient par dicte montagne des Dappes, et dôcident.
+#facs_47_r2l6 ar quattre bornes, dont la premiere est une pierre croisseé
+#facs_47_r2l7 a l'extremité du vent pour tendre du costé de Bize à une
+#facs_47_r2l8 autre pierre naturelle croisse, et des la d'une autre pierre
+#facs_47_r2l9 aturelle croiseé pour viser à un rocher croisé qui est
+#facs_47_r2l10 à l'extremité de Bize
+#facs_47_r2l11 Item dans la susdicte montagne des Pappes sera tenüe
+#facs_47_r2l12 our adueniic ceste partie Orientale qui est a lextremite.
+#facs_47_r2l13 decidentale de Reculet et Cuualoup, pour tendre dés la tout
+#facs_47_r2l14 des istepos du long du rocher dorient en occident, pour se joindre à
+#facs_47_r2l15 dore ni laduenüe marquée sur les Cressionnieres d'icelle demeurant
+#facs_47_r2l16 separée du Coste du vent par ledict Rocher, Et par une
+#facs_47_r2l17 et al
+#facs_47_r2l18 forme plantée a lextremité, distante de deux Cents pas
+#facs_47_r2l19 dedicte montagne des Tusses, et du Costé de Bixe par
+#facs_47_r2l20 rois bornes dont la premiere est une pierre naturelle
+#facs_47_r2l21 Croiseé et garentisee a l'extremité vrientale, visant du
+#facs_47_r2l22 couchant a une pierre naturelle croisee en deux
+#facs_47_r2l23 endroicts pour tendre du mesme costé à une autre
+#facs_47_r2l24 pierre naturelle, crörsee et garentiseé de Brigues pour
+#facs_47_r2l25 Viser à vent et à vixes.
+#facs_48_r1l1 Bois d'Avenue
+#facs_48_r1l2 les mailectes
+#facs_48_r1l3 le Petit
+#facs_48_r1l4 Reuset
+#facs_48_r1l5 la Petroudaz
+#facs_48_r1l6 de grande
+#facs_48_r1l7 Remlet
+#facs_48_r2l1 Dans la montagne dicte les Maillettes sera tenüe pour
+#facs_48_r2l2 aduenüe la partie Septentrionale dicelle, pour tendre
+#facs_48_r2l3 occident en Orient, et se joindre a celle, du petit et du grand
+#facs_48_r2l4 Reculet et de la petoudas, et du costé occidental à celle
+#facs_48_r2l5 des Dappes, separée du Costé de Bize par une Borne plantée
+#facs_48_r2l6 sur le grand chemin tendant à la verriere du planey
+#facs_48_r2l7 croisée et garentiseé, pour viser à l'Orient, et de l'autre
+#facs_48_r2l8 costé à l'occident à une autre borne plantée, croiseé-
+#facs_48_r2l9 et garentisee a l'extremité des Pappes, et du Coster
+#facs_48_r2l10 du vent par une pierre naturelle croiseé distante
+#facs_48_r2l11 de la susnarrée de trois Cents et cinquante pas, qui
+#facs_48_r2l12 font la largeur dedte aduenüe
+#facs_48_r2l13 Vans le petit Reculet sera tenüe pour aduenüe la
+#facs_48_r2l14 partie Septentrionale tirant de l'occident à l'orien
+#facs_48_r2l15 separée de vent par vne pierre naturelle croisée
+#facs_48_r2l16 pour tendre d'orient et d'occident et du Costé de Bize
+#facs_48_r2l17 par le grand Reculet.
+#facs_48_r2l18 Dans la petroudas sera tenüe pour aduenüe la partie
+#facs_48_r2l19 Septentrionale pour tendre d'occident en oient Jusque
+#facs_48_r2l20 eux valliettes de la mesme largeur que celle du petit
+#facs_48_r2l21 Reculet, et separée de mesme
+#facs_48_r2l22 Dans le grand Reculet sera tenue pour advenus
+#facs_48_r2l23 le Coin meridional Joiniant le petit Reculet et la
+#facs_48_r2l24 retroudas qui en font la separation du coste du
+#facs_48_r2l25 vent, et une pierre Croisæ du costé de Hize
+#facs_48_r6l1 90
+#facs_48_r6l2 Item dans la mesme montagne sera tenüe pour aduenüe le soin
+#facs_48_r6l3 obtentrional et d'occidentat ioignant Cuualoup, la pitaz et les
+#facs_48_r6l4 Dappes, separée du costé de lize par Cavaloup, et par les pré-
+#facs_48_r6l5 a costé de vent
+#facs_48_r6l6 Dans suvaloup sera tenu pour advenüe le com meridional et
+#facs_48_r6l7 occidentat ioignant audit grand Retulet, et les Capres, separée
+#facs_48_r6l8 ar ledict grand Reculet, de vent et de Bize par une Borne
+#facs_48_r6l9 anteé visant d'orient en occident a celle qui est plantée sur
+#facs_48_r6l10 Lesdites vappes.
+#facs_48_r6l11 Dans la pilas sera tenu pour advenüe le com meridional
+#facs_48_r6l12 t Orientaliorgnant au grand Reculet et aux d'appes
+#facs_48_r6l13 éparé de ces deux costés par icelles montagnes, et de Bize
+#facs_48_r6l14 ar les Hornes de Cunaloup, et de l'extremité septentrionale
+#facs_48_r6l15 et orientale desdites & appe
+#facs_48_r6l16 Item dans la mesme montagne sera tenüe pour adueniie,
+#facs_48_r6l17 la partie occidentale d'icelle, sur les Cressonieres en lendroit
+#facs_48_r6l18 dict la Combas à Gerlin, de la largeur de quatre cents pas
+#facs_48_r6l19 commençant du midy à la montagne des dappes, et sestendant
+#facs_48_r6l20 dés là à vise jusques au grand chemin qui tend de St.
+#facs_48_r6l21 Rerque à St. Claude, separée du couchant par une vorne
+#facs_48_r6l22 lanteé, croiseé et garentiseé pour viser de vent à bise
+#facs_48_r6l23 une pierre naturelle croiseé et des la a une troisiesme
+#facs_48_r6l24 lantée croiseé et garentiseé de briques proche le grand
+#facs_49_r1l1 bris drecem¬
+#facs_49_r1l2 la Givrine
+#facs_49_r3l1 hemin de St. Claude, et du levant par trois autres borres
+#facs_49_r3l2 La premiere plantée croiseé et garentiseé visant du
+#facs_49_r3l3 mesme costé à une pierre naturelle, croiseé et garantise
+#facs_49_r3l4 de briques.
+#facs_49_r3l5 Dans la Guirrine sera tenüe pour aduenüe ceste partie
+#facs_49_r3l6 occidentale qui s'estend dés la pilaz jusques à la Geneolliere
+#facs_49_r3l7 de la largeur de quattre Cents pas, jusqu'au milieu du-
+#facs_49_r3l8 osté du vent, et le reste en tirant du costé de mise de
+#facs_49_r3l9 la largeur de deux cents pas, separée du costé d'orient
+#facs_49_r3l10 ar trois bornes, dont la premiere est une pierre plantée
+#facs_49_r3l11 roiseé et garentiseé de briques visant à vent et à Bije.
+#facs_49_r3l12 pour tendre de ce dernier costé à une pierre naturelle
+#facs_49_r3l13 croiseé et garentisee de mesme que la precedente du
+#facs_49_r3l14 costé du vent du chemin du Soliez, pour viser tousjous.
+#facs_49_r3l15 du costé de Bize à la troisiesme, qui est une pierre
+#facs_49_r3l16 raturelle croisee a l'extremité deducte livrine; Et du
+#facs_49_r3l17 costé du couchant par trois autres bornes, dont la premier
+#facs_49_r3l18 est une pierre naturelle, croisee et garentisee de mesme
+#facs_49_r3l19 que dessus a costé de pise du chemin, pour tendre dudit
+#facs_49_r3l20 costé a une autre pierre naturelle croiseé et garentisse
+#facs_49_r3l21 de mesme à costé du vent du chemin dud. Soliez, pour
+#facs_49_r3l22 tendre a la troisiesme plantée croisée et garentisee
+#facs_49_r3l23 ainsy que dessus a lextremité dedicte Giurine
+#facs_49_r3l24 Dans la Gercolliere sera tenüe pour aduenüe la
+#facs_49_r3l25 partie Occidentale d'icelle des la Giurine Jusqu'a.
+#facs_49_r3l26 L"Arsiere, separeé d'occident par la partie de
+#facs_49_r4l1 Bois d'avenu
+#facs_49_r4l2 Mais il y a bien
+#facs_49_r5l1 19r
+#facs_49_r5l2 fisiere appelleé le prez du four, et d'orient par une
+#facs_49_r5l3 pierre naturelle croiseé visant de vent à Bize, aux ad
+#facs_49_r5l4 enües dedites Geneolliere ad Arsicres
+#facs_49_r5l5 Dans l'Arsiere sera tenu pour advenüe le comte oriental ioignant
+#facs_49_r5l6 du midy la Geneolliere et d'Orient le Hautmont de la longueur
+#facs_49_r5l7 de soixante pas, et de mesme largeur que celle de la Gencolliere
+#facs_49_r5l8 separée d'occident par une pierre naturelle croiseé visant
+#facs_49_r5l9 le vent à Bize et d’orient par une pareille borée visant
+#facs_49_r5l10 aussy de vent à Bije
+#facs_49_r5l11 Dans les Begnignes sera tenüe pour advenüe la partie
+#facs_49_r5l12 les geeignes meridionale de la largeur de deux cents pas, comencant
+#facs_49_r5l13 du Montsalaz, pour tendre d'Orient en Occident, Jusques à la
+#facs_49_r5l14 fonction de l'autre aduenüe separée du Midy par l'Arsiere,
+#facs_49_r5l15 d'Orient par ledt. Montsalas et de Hize par une borne naturelle
+#facs_49_r5l16 croisee visant d'Orient en Occident,
+#facs_49_r5l17 Item en la melme montagne sera tenüe pour aduenüe
+#facs_49_r5l18 a partie occidentale dicelle en toute sa longueur tirant
+#facs_49_r5l19 de vent à Bije des l'Arsiere Jusques aux Amburnés, de la
+#facs_49_r5l20 largeur de trois cents pas, separée d'occident par les
+#facs_49_r5l21 loges et les plats, et d'Orient par trois bornes, assavoir a
+#facs_49_r5l22 l'extremité de Bixe, par un rocher feudu, entre lequel
+#facs_49_r5l23 est un chemin, dont la partie septentrionale a este croisee
+#facs_49_r5l24 pour viter du costé de vent jusques au grand chemin
+#facs_50_r1l1 93
+#facs_50_r1l2 Bois d'avenus
+#facs_50_r1l3 Les Logis
+#facs_50_r1l4 des Plats
+#facs_50_r2l1 si va aux Landes à une pierre naturelle croiseé distant.
+#facs_50_r2l2 de quatre cents pas du rocher du paissot, qui demeure
+#facs_50_r2l3 l'ceste distance docident pour viser tousjours des lad.
+#facs_50_r2l4 oste du vent à une autre pierre naturelle croisee,
+#facs_50_r2l5 oste du vent du cholet au loup, distante en cest endière
+#facs_50_r2l6 des loges de quattre cents pas, et visant des ladte. bornes
+#facs_50_r2l7 en orient pour separer la premiere aduenüe du
+#facs_50_r2l8 costé de Bize avec la Borne naturelle croiseé
+#facs_50_r2l9 énoncées
+#facs_50_r2l10 Dans les Loges sera tenüe pour advenüe la partie
+#facs_50_r2l11 Orientale dicelles tirant de vent à Bize large
+#facs_50_r2l12 du premier costé de deux cents pas jusques au milieu
+#facs_50_r2l13 et des la de trois cents, separée dorrent par les dts.
+#facs_50_r2l14 segnines et du couchant par une pierre naturelle
+#facs_50_r2l15 soit rocher croisé situe droict soubs le chalet
+#facs_50_r2l16 au toup qui demeure du costé d'orient.
+#facs_50_r2l17 Dans la montagne des plats sera tenüe pour
+#facs_50_r2l18 aduenië la partie Orientale dicelle, tirant
+#facs_50_r2l19 se vent à Bize des les Loges Jusques aux Amburnes
+#facs_50_r2l20 de la l'argeur de trois cents pas, separée dorient
+#facs_50_r2l21 par lesd. Begnines et d'occident par deux bornes
+#facs_50_r2l22 assavoir a l'extremité par un rocher croisé
+#facs_50_r2l23 a vent, duquel est un chemin pour tendre.
+#facs_50_r5l1 94
+#facs_50_r5l2 costé de vent à vue grosse pierre soit roc croise et
+#facs_50_r5l3 situé du costé du vent, sur le chemin tendant aux Landes,
+#facs_50_r5l4 Avisant dès la à la bornes des Loges
+#facs_50_r5l5 Dans la montagne de St Cerques sera tenüe pour aduenüe
+#facs_50_r5l6 iste partie occidentate appelée le Collet de pras ii illard, separée
+#facs_50_r5l7 du couchant par une pierre nouvellement a oiseoet garentisee
+#facs_50_r5l8 de deux charbons, l'un visant à vent et l'autre à Hize pour
+#facs_50_r5l9 rendre ce dernier jusques à une pierre naturelle de sçay cy
+#facs_50_r5l10 quant croisée en deux endroicts a costé de Pise du chemin
+#facs_50_r5l11 issant tousjours contre Dize à une pierre naturelle
+#facs_50_r5l12 roisée, Et dorient par trois autres dornes, assavoir par
+#facs_50_r5l13 ne pierre naturelle croiseé a costé du vent du chemin
+#facs_50_r5l14 par tendre à Bije à une pierre nouvellement croiseé tirant
+#facs_50_r5l15 a sixe, ioignant le chemin du coste du vent pour tendre de
+#facs_50_r5l16 Bize à un rocher croisé.
+#facs_50_r5l17 tem dans la mesme montagne sera tenüe pour aduenüe
+#facs_50_r5l18 esté partie Orientale appelée le rocher dessus, tirant
+#facs_50_r5l19 e vent à Pize de la largeur de deux cents pas, separée
+#facs_50_r5l20 du couchant par une pierre naturelle croiseé du costé
+#facs_50_r5l21 u vent et par un rocher croisé du costé de Bize
+#facs_50_r5l22 dudit chemin.
+#facs_50_r5l23 Dans les costes par ou on descend des St. Cerques a Nyon
+#facs_50_r5l24 tra tenue pour aduenüe l'endroit le plus estroit sur le
+#facs_50_r5l25 rand chemin soubs sault Bernard de la longueur et
+#facs_50_r5l26 argeur de vingt pas, distinguée par cernissements
+#facs_51_r1l1 95
+#facs_51_r1l2 Boij d'Avenue
+#facs_51_r1l3 amendés à
+#facs_51_r1l4 partager.
+#facs_51_r2l1 Tout autour, laquelle aduenüe sera secondée par l'inter
+#facs_51_r2l2 diction pleiniere et perpetuelle, du chemin qui passe.
+#facs_51_r2l3 a vent des masures du chasteau dudit St. Cergue, qui sera
+#facs_51_r2l4 douché par abbattements d'arbres ou autres empeschement
+#facs_51_r2l5 qui se trouveront les plus comodes
+#facs_51_r2l6 Pour la conservation desquelles aduenües nous avons
+#facs_51_r2l7 trouvé qu'il n'y pourra estre touché, ny par Comune
+#facs_51_r2l8 les par particuliers soubs quel pretexte que ce soit,
+#facs_51_r2l9 A que partant quiconque contreviendra à ceste
+#facs_51_r2l10 nostre ordonnance payera d'amende pour chasque
+#facs_51_r2l11 arbre cinquante florins, dont les tiers appartiende
+#facs_51_r2l12 au Capitaine de la garde, de st Cerques et Inspecteur
+#facs_51_r2l13 General des susdtes advenües, et des deux autres tiers
+#facs_51_r2l14 dix florins au Chastellain dudt. lieu, et cinq au
+#facs_51_r2l15 forestier ou Revelateur, et du reste la portion de nos-
+#facs_51_r2l16 Ballifs prevéleueé nous en sera tenu compte.
+#facs_51_r2l17 Nous avons en outre ordonné pour tant plus
+#facs_51_r2l18 visible distinction desdts. aduenües, que pour eviter
+#facs_51_r2l19 surprise à ceux qui en seroyent ignorants, les
+#facs_51_r2l20 forestiers seront obligés de les monstrer aux
+#facs_51_r2l21 proprietaires des Montagnes, et de cernir en
+#facs_51_r2l22 eur presence aux extremites dicelles, (sans alteration
+#facs_51_r2l23 pourtant aucune du susdit bornage) des Arbres
+#facs_51_r2l24 de trentes à trente pas ou environ, selon la
+#facs_51_r2l25 comodité des lieux, et de renouveller de dix en dix au
+#facs_51_r3l1 96
+#facs_51_r3l2 a mesure que lesd. Arbres cernis tomberont, ledit aernissement,
+#facs_51_r3l3 i en touts changements d'Admodieurs leur sera monstre par
+#facs_51_r3l4 les proprietaires, affin que par ce moyen dictes aduenües demeu-
+#facs_51_r3l5 ants a perpetuité si visiblement distinctes aucun n'en puisse
+#facs_51_r3l6 xtexter Ignorance.
+#facs_51_r3l7 Quant aux bois de Bamp, nous avons establi les suivants
+#facs_51_r3l8 qui ne pourront estres changés n'y diminués par qui que ce soit
+#facs_51_r3l9 ans nos ordres imediate, formels et expres
+#facs_51_r3l10 1.° quoy
+#facs_51_r3l11 Vera donc en Bamp dans la montagne des Tujses, qui
+#facs_51_r3l12 duhter appartient a la Comune de Lonchaumois ceste partie ori
+#facs_51_r3l13 de
+#facs_51_r3l14 entale ioignant laduenüe y mise des l'extremité du vent
+#facs_51_r3l15 à celle de bise de la largeur de deux cents pas, separée
+#facs_51_r3l16 dorent, par dicte advenüe, et d'occident par des Calles, tout
+#facs_51_r3l17 du long de l'extremité meridionale à la septentrionale
+#facs_51_r3l18 Dans le petit Reculet, divisé en quatre parcelles sera en
+#facs_51_r3l19 n
+#facs_51_r3l20 Petit le
+#facs_51_r3l21 damp ceste joux qui est entre les prés du levant et du
+#facs_51_r3l22 all
+#facs_51_r3l23 ouchant, des l'extremité meridionale jusques à l'aduenüe
+#facs_51_r3l24 mise à l'autre, extremité Septentrionale
+#facs_51_r3l25 Dans les Vulliettes soit Lesency sera en bamp la partie:
+#facs_51_r3l26 Raille. Septentrionale des l'extremité occidentale, a forientale
+#facs_51_r3l27 separée par les prés dedicte Montagne de vent.
+#facs_51_r3l28 et de Bize par le grand Reculet et pre paradis.
+#facs_52_r1l1 Dans le grand Reculet Sera en Vamp la partie meridiona
+#facs_52_r1l2 Bois de Bamp
+#facs_52_r1l3 commencant à l'extremité orientale de Laduenüe y mis
+#facs_52_r1l4 de grand Re¬
+#facs_52_r1l5 pour tendre de longueur du couchant au levant, separée
+#facs_52_r1l6 Coutes
+#facs_52_r1l7 de bize par ses prez et de vent par les valliettes
+#facs_52_r1l8 En la Combas du faoug, montagne de la Rippe, sera en
+#facs_52_r1l9 damp la Joux situer entre les deux pres d'une extre-
+#facs_52_r1l10 la Combe
+#facs_52_r1l11 nite a l'autre de vent à Bize, separée d'orient et
+#facs_52_r1l12 du faoum
+#facs_52_r1l13 D'occident par des Calles
+#facs_52_r1l14 Dans Chualoup tant du Seigneur que de la Commune
+#facs_52_r1l15 de Crans sera en bamp la partie de la Joux du
+#facs_52_r1l16 milieu ded. montagnes de l'extremité septentrionale
+#facs_52_r1l17 su va loup
+#facs_52_r1l18 a la meridionale, de la largeur de quattre cents pas
+#facs_52_r1l19 separée par quattre bornes qui sont aux quattres com¬
+#facs_52_r1l20 pour tendre de l'vne à l'autre.
+#facs_52_r1l21 Dans la Trelasse sera en bamp ce com, qui ioinct du
+#facs_52_r1l22 midy Quualoup, et dorient la montagne de st. Cergue
+#facs_52_r1l23 separé du reste par trois bornes, assavoir deux du
+#facs_52_r1l24 La Trelasse
+#facs_52_r1l25 costé de Joux, dont l'une est naturelle croiseé du costé
+#facs_52_r1l26 de Bize pour tendre à l'autre plantée et garentises
+#facs_52_r1l27 pour viser à Bize et à vent, et le troisiesme, qui est
+#facs_52_r1l28 une pierre naturelle croiseé en deux endroiets, separant
+#facs_52_r1l29 du costé de Dize a l'extremité occidentale dedte. montagne
+#facs_52_r1l30 de St Cerque, et au dessous du costé de Bize du Creux a
+#facs_52_r1l31 la biche.
+#facs_52_r2l1 98
+#facs_52_r2l2 Dans le grand Warnoz, sera en Vamp la partie orientale
+#facs_52_r2l3 Bourde Bamp
+#facs_52_r2l4 per de la Joux, situee sur des Rochers contigus, de Hize a vent, separeé
+#facs_52_r2l5 d'occident par les préz de dte. Montagne
+#facs_52_r2l6 Vans le petit Warnoz sera en bamp la partie orientale de la
+#facs_52_r2l7 ux située sur des Rochers contigus, separré d'occident par les
+#facs_52_r2l8 départ.nt d
+#facs_52_r2l9 frez de te. montagne
+#facs_52_r2l10 1
+#facs_52_r2l11 Dans la Burrilliettas sera en vamp la partie et rientale
+#facs_52_r2l12 fesenterez visant de vent à Hizelde la largeur de deux cents pas, separé
+#facs_52_r2l13 occident par une grosse pierre naturellement plantée, croiseé
+#facs_52_r2l14 en trois endroiets, vihant contre Bize à un rocher croisé à la
+#facs_52_r2l15 bistance de cinquante pas, et ce rocher visant du costé de Bize
+#facs_52_r2l16 je un autre rocher croise, de la mesme distance, et dés la par
+#facs_52_r2l17 des Calles, Jusques au milieu de la montagne, ou a esté plantée
+#facs_52_r2l18 à textremité dudt pré une borne croiseé et garentiseé visant
+#facs_52_r2l19 du costé dorient à une autre vorne naturelle croiseé, pour
+#facs_52_r2l20 parquer la largeur dudit bois de bamp (duquel à cause de sa
+#facs_52_r2l21 grande estendüe sont exceptés les endroits qui se peuvent
+#facs_52_r2l22 reduire en prés et pasturages) et du costé de Bize visant à
+#facs_52_r2l23 un rocher croisé, et dés la par des Calles, Jusques à l'extremité
+#facs_52_r2l24 dedicte montagne du costé de Pize.
+#facs_52_r2l25 Dans la montagne de st. Cergue sera en vamp lendroit ioignant
+#facs_52_r2l26 fergue le petit Warnoz et le Gist passant par dessus la vorne des fiauges
+#facs_52_r2l27 le chemin tirant du petit Warnoz a la bornes du Lanicoret, de
+#facs_52_r2l28 meurant du costé de Bize.
+#facs_53_r1l1 3.
+#facs_53_r1l2 Dans le gist sera en vamp la partie septentrionale
+#facs_53_r1l3 Bois de Bamp
+#facs_53_r1l4 d'icelle, separée par le chemin du Lanicoret du costé.
+#facs_53_r1l5 du vent et des trois autres par les montagnes abboutissante
+#facs_53_r1l6 le Gist
+#facs_53_r1l7 Dans la Boriaz, Baronne, Coppettes, Arriere, Kuragh,
+#facs_53_r1l8 Les loges et les plats, sera en bamp textremité occidentale
+#facs_53_r1l9 la Boriaz
+#facs_53_r1l10 icelles, de la largeur de vingt pas, pour servir de visible,
+#facs_53_r1l11 separation entre les deux Estats, a commencer du coste
+#facs_53_r1l12 du vent au grand chemin de St. Claude, et tendre à Bize
+#facs_53_r1l13 Jusques a l'extremité des plats, separé ledit bois de
+#facs_53_r1l14 bamp d'occident, par la Bourgogne, et d'orient
+#facs_53_r1l15 par les Calles,
+#facs_53_r1l16 Dans la Baronne sera en vamp ce com meridiona
+#facs_53_r1l17 A Oriental, qui de ces deux costez abboutit au
+#facs_53_r1l18 La Baronne
+#facs_53_r1l19 grand chemin des Rousses, et à la faviere separé
+#facs_53_r1l20 d'occident et de bize par des Calles
+#facs_53_r1l21 Dans la faviere sera en bamp le com meridiona
+#facs_53_r1l22 Et Oriental, aboutissant de ce costé là à la Giurme
+#facs_53_r1l23 la faviere
+#facs_53_r1l24 et de l'autre au chemin des Rousses, separé de bije
+#facs_53_r1l25 et d'occident par des Calles
+#facs_53_r1l26 Dans le Rosset sera en vamp la partie de Joux qui est
+#facs_53_r1l27 au dessus du pre du costé d'occident, et ioignant à la montagne
+#facs_53_r1l28 le roffet
+#facs_53_r1l29 de Nyon, distingué d'avec le reste par deux grosses pierres
+#facs_53_r1l30 croiseés, et par calles faictes entre icelles et aux extremité
+#facs_53_r3l1 100
+#facs_53_r3l2 Vois de Bamp
+#facs_53_r3l3 Vous la Gencolliere sera en bamp la partie orientale dicelle,
+#facs_53_r3l4 qui ioinct la montagne de Nyon pour tirer en longueur de vent
+#facs_53_r3l5 a tisez separé d'orient par dicte montagne de Nyon, et d'occident
+#facs_53_r3l6 sans les
+#facs_53_r3l7 par trois bornes, assauoir par une pierre naturelle croisee
+#facs_53_r3l8 pour tendre de vent à bize, a une autre pierre de surpention
+#facs_53_r3l9 troiseé, pour tendre de vise a une autre pierre aussy de serpention
+#facs_53_r3l10 roisee, pour tendre par des Calles, Jusques à l'extremité
+#facs_53_r3l11 dedicte montagne.
+#facs_53_r3l12 Dans la montagne de Nyon sera en bamp la partie occidentale
+#facs_53_r3l13 dicelle, qui touche la Gencolliere qui la separe de ce costé la
+#facs_53_r3l14 s'estendant ledt bois de bamp dés le chemin de S'Haumont de
+#facs_53_r3l15 dize à vent Jusques a celuy qui va dedicte montagne à la
+#facs_53_r3l16 seneolliere, proche lesquels deux chemins ont esté croisés
+#facs_53_r3l17 deux rochers pour en faire les extremités septentrionale et
+#facs_53_r3l18 méridionale, L'orientale distinguée par les préz de dicte
+#facs_53_r3l19 nontagne
+#facs_53_r3l20 Dans l’Haumont sera en vamp ceste partie septentrionq
+#facs_53_r3l21 comme le de Bize qui ioines le grand vermeilley, separée du
+#facs_53_r3l22 oste de vent par un petit roc crossei, est ant cenct
+#facs_53_r3l23 ledt bois de bamp de prex d'occident, midy et orient
+#facs_53_r3l24 Dans l'Arsiere sera en bamp ceste partie orientale qui
+#facs_53_r3l25 piere
+#facs_53_r3l26 passe par dessus le roc de vent à vise, des l'advenüe qui
+#facs_54_r1l1 tot
+#facs_54_r1l2 Bois de Bam
+#facs_54_r1l3 Le grand Venier
+#facs_54_r1l4 Et la grande
+#facs_54_r1l5 Agnaz
+#facs_54_r1l6 les Pralets
+#facs_54_r1l7 les généques
+#facs_54_r2l1 Est marquée à son com meridional et septentrional Oriente
+#facs_54_r2l2 Jusques au Begnines de la largeur de deux cents pas, qui
+#facs_54_r2l3 s'estendant en longueur d'environ une lieüe un seront en
+#facs_54_r2l4 ceptés les endroicts propres à pres et pasturages, separé
+#facs_54_r2l5 edict bois de bamp, par quattre bornes aux quattres
+#facs_54_r2l6 coins d'iceluy, pour en marquer la largeur dont il y en
+#facs_54_r2l7 le trois plantées, et l'autre naturelle, visants toutes
+#facs_54_r2l8 de l'une à l'autre, separé d'orient et d'occident par des
+#facs_54_r2l9 Calles, pour a cause des rochers ny pouvoir estre
+#facs_54_r2l10 comodement plantées des bornes
+#facs_54_r2l11 Dans le grand Vermeilley et grande Aynas, montagne
+#facs_54_r2l12 Contigües seront en bamp les parties septentrionale;
+#facs_54_r2l13 sedictes montagnes, tirant d'occident en Orient se
+#facs_54_r2l14 parées de bise par les montagres de Bassin, et du
+#facs_54_r2l15 midy par des Calles
+#facs_54_r2l16 Dans les pralets dés le Montsalaz Jusques à la
+#facs_54_r2l17 Balme sera en bamp ceste partie meridionale qui
+#facs_54_r2l18 touche le grand Vermeilley, grande et petite
+#facs_54_r2l19 Aynaz, qui en font la separation de ce costé la
+#facs_54_r2l20 et de bizes par des Calles tout du long
+#facs_54_r2l21 Dans les Begnines sera en bampla partie orientale,
+#facs_54_r2l22 sur le Montsalaz, tirant de vent à bise en toute
+#facs_54_r2l23 sa longueur, separée dorcent par la Bassine et
+#facs_54_r2l24 doccident par quattre bornes naturellement plantées
+#facs_54_r2l25 dont la premiere est croiseé au bout du pré de la
+#facs_54_r4l1 vz
+#facs_54_r4l2 tite Chaux à L'Orient d'iceluy, visant de bize a vent à une
+#facs_54_r4l3 entre pierre croiseé et garentiseé sur le chemin qui vient
+#facs_54_r4l4 des Bassines, pour viser tousjours de vise à vent à une autre
+#facs_54_r4l5 terre naturelle iroiseé du costé du vent, dudit chemin, pour
+#facs_54_r4l6 .
+#facs_54_r4l7 endre tousiours de mesme à une autre grosse pierre de
+#facs_54_r4l8 foche, croisée et située du costé de vixe du chemin, qui monte
+#facs_54_r4l9 dés les pralets auxdites Begnines
+#facs_54_r4l10 Dans les Bassines sera en bamp reste partie de Joux renfermeu
+#facs_54_r4l11 dans les quattre Linites suyvantes, Assavoir le montsalaz du
+#facs_54_r4l12 buchant, le pré Willemor dorient, la joux des Ambarnets, de vises
+#facs_54_r4l13 1
+#facs_54_r4l14 et le chemin du Lespey de vent.
+#facs_54_r4l15 Dans les Biolles soit en Moüillesulas, territoire d'Arsier
+#facs_54_r4l16 6
+#facs_54_r4l17 sera en bamp ceste partie qui est au dessus du rocher du
+#facs_54_r4l18 hallet sur le rocher des grandes Biolles, separée du vent
+#facs_54_r4l19 n de
+#facs_54_r4l20 ar le chemin tendant à l'Arsiere d'occident, et de bise et par
+#facs_54_r4l21 es prez, et d'orient par trois pierres croisees, dont deux
+#facs_54_r4l22 sont aux extremités, et l'autre au milieu.
+#facs_54_r4l23 Il d'autant que cest Establissement a pour but la conse-
+#facs_54_r4l24 vation des Joux suffisamment pour les vastiments du
+#facs_54_r4l25 says, Nous avons ordonné que quiconque y touchera
+#facs_54_r4l26 sauf soubs les reserues suivantes escherra, assavoir
+#facs_54_r4l27 celuy qui n'y aura aucune portion a l'amende, de cinquante
+#facs_54_r4l28 florins sur les frontieres par plante, et de vingt cinq ailleurs
+#facs_54_r4l29 et celuy à qui ils appartiendront en son propre ou en
+#facs_54_r4l30 communion de cinq florins en ce dernier endroict et de dix
+#facs_54_r4l31 n'autre par plantes
+#facs_55_r2l1 Comme sapres ceste restitution generale qu'il ne
+#facs_55_r2l2 r
+#facs_55_r2l3 en fera laucun traffit a la referue des grands
+#facs_55_r2l4 Pommiers dont la plante excedera trois pieds despaisseur
+#facs_55_r2l5 il y a à faire distinction entre lvnique proprietaire
+#facs_55_r2l6 et ceux qui le sont en communion, aussy voulons nous
+#facs_55_r2l7 u'a l'esgard du premier, quand il en aura besoin
+#facs_55_r2l8 pour son usage il en face sçavoir la quantité au
+#facs_55_r2l9 forestier, pour prendre garde s'il n'en employe rien
+#facs_55_r2l10 au traffic, et qu'a les gard des indiuis ils en impetrent
+#facs_55_r2l11 de leurs comportionniers la licence, qui sera exhibée
+#facs_55_r2l12 au forestier a mesme fin, et soubs mesme peine que
+#facs_55_r2l13 dessus. permettants au surplus aux uns et
+#facs_55_r2l14 eux autres den pouvoir conceder. Den mutuel consen¬
+#facs_55_r2l15 tement en des occasions de necessité et de charité
+#facs_55_r2l16 en asserant de bonne foy ceste concession ne se faire
+#facs_55_r2l17 y par vante ny par troc, mais par pur don gratui
+#facs_55_r2l18 et en faisant la declaration entre les mains du
+#facs_55_r2l19 Rastellain du lieu avant que d'y toucher
+#facs_55_r2l20 + come nous n'entendons aucunement que ledit
+#facs_55_r2l21 Establissement soit en lacque à qui que ce soit
+#facs_55_r2l22 Nous voulons que lesdicts bois de bamp soyent
+#facs_55_r2l23 distinguéz en la mesme maniere que les advenues
+#facs_55_r2l24 pour estre cognens à un chascun, et que ceux
+#facs_55_r2l25 qui en establiront desormais (ce que nous leur
+#facs_55_r3l1 104
+#facs_55_r3l2 ermettons selon qu'ils en verront la necessité il soit par
+#facs_55_r3l3 culier soit indivis, en usent de mesme. Mais qu'au surplus
+#facs_55_r3l4 soit rien alteré au cy dessus par nous establis
+#facs_55_r3l5 Quant aux Amendes cy dessus enoncées es lieux dependants
+#facs_55_r3l6 de nostre jurisdiction, Nous voulons que le tire en appar-
+#facs_55_r3l7 ienne à nos Chastellains, le sexte au forestier ou Reuelateur
+#facs_55_r3l8 et que du reste nous en soit tenu conte par nos Ballifs, leur
+#facs_55_r3l9 portion ordinaire prelevée, et qu'a les gard des bamps, qui par
+#facs_55_r3l10 a loy et autres de nos Arrests ne deburont erceder cinq
+#facs_55_r3l11 Morins pour le tout, les Chastellains Residents dans le lieu
+#facs_55_r3l12 en tiennent conte come des autres a nos Ballis: Mais
+#facs_55_r3l13 La lesgard de ceux qui en sortent pour tenir Justice, ils
+#facs_55_r3l14 En foy de tout
+#facs_55_r3l15 leur tiennent lieu d'Emoluments
+#facs_55_r3l16 ce que dessus, avons faict munir les presentes du sceau
+#facs_55_r3l17 recoustume de nostre ville. faict et passé en nostre
+#facs_55_r3l18 Conseil ce 4me de Mars 1675.

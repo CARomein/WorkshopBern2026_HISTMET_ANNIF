@@ -1,0 +1,83 @@
+Law ID: BER.01.001.2895
+Name: Die Erndferien aussschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 72/72
+# High similarity (>=50%): 41
+# Low similarity (<50%): 31
+# Not found: 0
+#
+#facs_44_r4l14 antzley zern.
+#facs_44_r4l15 An alle T- undt W. Ambt: 4. Stett,
+#facs_44_r4l16 Freyweibel undt Ammann
+#facs_44_r4l17 Die Erndferien ausschreiben,
+#facs_44_r4l18 17
+#facs_44_r4l19 Statthalter undt Raht der Statt Herrn. etc.
+#facs_44_r4l20 Beweilen die Erndtzeith abermahlen herbeyrücket, alß
+#facs_44_r4l21 habendt Wir Dir, gleich allen Unseren Ambtleüthen auch
+#facs_44_r4l22 beschicht hiemit befehlen wollen, von nechstkommendem 20.
+#facs_44_r4l23 tag Heuwmonats an bis zum 20. tag Bugstmonats keine
+#facs_44_r4l24 Parthey anderst, alß vmb unvermeidenlich und nohtdringenden
+#facs_45_r1l1 d
+#facs_45_r1l2 Hedel
+#facs_45_r1l3 zu Ruchsee, Kilchlindach undt Bremgarten von Canzler
+#facs_45_r1l4 zuverlesen.
+#facs_45_r1l5 Ein Holz Verpott verkünden
+#facs_45_r1l6 Collath Heinnach Mughl. grundtliche klagden vorkommen, wie
+#facs_45_r1l7 daß hinder Büchsee, MooßSeedorff, Weil, Diemerowen
+#facs_45_r1l8 Lindach undt anderen Gemeinden mehr in Ihren
+#facs_45_r1l9 der Enden habenden Wälderen sehr übel gehauset, undt
+#facs_45_r1l10 auch denen Oberkeitlichen daherumb ligenden hältzern
+#facs_45_r1l11 nicht verschonet, sondern Ihren mit stästigem Hollrauben
+#facs_45_r1l12 großer Schaden immerhin zugefüeget werde, ohngeacht
+#facs_45_r1l13 vielerhand wider dergleichen höltzfräflen vorgekehrter
+#facs_45_r1l14 mitlen so bis dahin umbsonst gewesen; Habend hochge¬
+#facs_45_r1l15 dacht Meghr: zu begehrter Oberkeitlicher Handtpiethung
+#facs_45_r1l16 Damit solchem übel gesteüret undt dem besorgenden
+#facs_45_r1l17 fölligen Ruin undt verderben gedeüter Waldungen
+#facs_45_r1l18 vorgebogen werde, gegenwertiges Einsehen zu thun
+#facs_45_r1l19 nostwendig erachtet, dahin, daß denen benachbahrte,
+#facs_45_r1l20 in der Herrschafft Reichenbach geseßenen Pauren
+#facs_45_r1l21 Tauwneren undt anderen darinnen wohnenden
+#facs_45_r1l22 Leuthen verbotten sein solle einiches Holts weder dürfte.
+#facs_45_r1l23 noch grüenes, großes noch kleines, auch Stauden
+#facs_45_r1l24 auf noch kriß zu keiner Zeith in oberdeüten Wälden
+#facs_45_r1l25 nicht zu hauwen noch abzuholen, bey meidung der
+#facs_45_r1l26 darauf gesetzt im gsatz vßgebrutten ohnnachläßigen Bes
+#facs_45_r1l27 vermaßen, daß auch die Eltern für Ihre Kinder
+#facs_45_r1l28 dergleichen fräfel zu antworben und abzubüesten sich
+#facs_45_r1l29 undt fahls mit Mittel vorhanden, den fräfel und
+#facs_45_r3l1 81
+#facs_45_r3l2 am Leib nach Beschaffenheit undt größe des fählers abge¬
+#facs_45_r3l3 strafft werden sollen; der Meinung, daß wan etwas
+#facs_45_r3l4 verdächtiger auff Eint oder anderen, daß Er nächtlicher
+#facs_45_r3l5 weile gefräflet hette, hervorläme, man sich vor dem behöri=
+#facs_45_r3l6 gen Richter deßen erklagen, der Richter dan schuldig und
+#facs_45_r3l7 verbunden sein solle, dem Klagenden alle mügliche Handtpie=
+#facs_45_r3l8 thung zu entdekung der derdechtigen Fräfels zu thun, Welches
+#facs_45_r3l9 Mrgh. und Oberen Verpott und Einsehen nicht allein Jetz=
+#facs_45_r3l10 mahlen, sondern fürohin alle Jahr zu Mäniglichs Nachricht
+#facs_45_r3l11 undt verhalt zu Buchsee, Kilchlindach undt Bremgarten
+#facs_45_r3l12 von Cantzlen öffentlich verbündet werden soll. Actl. 12. Jun.
+#facs_45_r3l13 1706
+#facs_45_r3l14 angleÿ zern
+#facs_45_r3l15 An alle T. undt W. Ambtl. 4. Stett¬
+#facs_45_r3l16 Freyweibel undt Ammann
+#facs_45_r3l17 Die Erndferien ausschreiben.
+#facs_45_r3l18 Statthalter undt Kast der Statt Hern. etc.
+#facs_45_r3l19 Dieweilen die Erndtzeith abermahlen herbeyruket, alß
+#facs_45_r3l20 habendt Wir Dir, gleich allen Vnseren Ambtleüthen auch
+#facs_45_r3l21 beschicht hiemit befehlen wollen, von nechstkommendem 20.
+#facs_45_r3l22 tag Heuwmonats an bis zum 20. tag Augustmonats keine
+#facs_45_r3l23 Parthey anderst, alß umb unvermeidenlich und nostdringender
+#facs_46_r2l1 sachen wegen vor uns alhier zu weisen, sondern dieselben
+#facs_46_r2l2 Davon abzuhalten undt also bis dahin keine tagebesti¬
+#facs_46_r2l3 nungen vor vns zugestatten; Maßen Vnsere Rahtstück
+#facs_46_r2l4 Innert solcher Zeith für keine andere alß solche tringende
+#facs_46_r2l5 undt Standtsachen offen stehen, undt die, so deßen ohn=
+#facs_46_r2l6 geachtet alhier erscheinen thäten, nit angehört, sondern
+#facs_46_r2l7 Zuruk gewisen werden sollen: Welchemnach dich nun
+#facs_46_r2l8 zu richten wüßen wirst: Gott mit dir! Dat. 24. Juni
+#facs_46_r2l9 1706

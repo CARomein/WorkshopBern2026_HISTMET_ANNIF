@@ -1,0 +1,331 @@
+Law nr: BER.01.001.4575
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 320/320
+# High similarity (>=80%): 287
+# Low similarity (<80%): 33
+# Not found: 0
+#
+#facs_180_region_1633455018782_3038l1 In alle deutsche und Weltsehr.
+#facs_175_r3l13 Herren Amtleute, vier Stäult¬
+#facs_327_r5l14 Beibel und Amann.
+#facs_180_region_1633455018782_3038l4 die fremden Hüthe betreffend.
+#facs_180_region_1633455024118_3041l1 Holl. Schultheiß und Rath w. a. zum besten¬
+#facs_6_region_1627936574015_66l1 6
+#facs_180_region_1633455024118_3041l3 Unserer Landen und zum Aufnahm
+#facs_180_region_1633455024118_3041l4 der Ehrenden Meisterschaft Hutmacher
+#facs_180_region_1633455024118_3041l5 Handwerbs, haben Wir, nach Grund¬
+#facs_180_region_1633455024118_3041l6 licher Erdauerung der Verordnung von
+#facs_180_region_1633455024118_3041l7 1765. die Einbringung und den Ver¬
+#facs_180_region_1633455024118_3041l8 bauf der fremden Hürthen in An¬
+#facs_180_region_1633455024118_3041l9 vom Gottmäßigkeit beobotten, lder aus
+#facs_180_region_1633455024118_3041l10 geschloßenes Mandat ausweiset.
+#facs_171_r3l24 = mit
+#facs_180_region_1633455027422_3044l1 350.
+#facs_180_region_1633455032191_3047l1 Mit deßen Zusendung befehlen Wir
+#facs_180_region_1633455032191_3047l2 Euch, solches von Canzeln verlesen, an
+#facs_180_region_1633455032191_3047l3 gelohnten Orten anschlagen – um seines
+#facs_180_region_1633455032191_3047l4 Oats stand gegenwärtigem einschreiben
+#facs_180_region_1633455032191_3047l5 zu laßen. – Wie auch in Vorfallenheit
+#facs_180_region_1633455032191_3047l6 ten solches zu handhaben und in Execu¬
+#facs_180_region_1633455032191_3047l7 tion zu setzen.
+#facs_180_region_1633455032191_3047l8 NB: denen Freyweibel und Ammann statt des
+#facs_180_region_1633455032191_3047l9 lezteren, wurde überschrieben:
+#facs_180_region_1633455032191_3047l10 Wie auch bey entdekenden Über¬
+#facs_180_region_1633455032191_3047l11 trettungen Künsterem Verordneten
+#facs_180_region_1633455032191_3047l12 Commercien Rath, zu Execution der
+#facs_180_region_1633455032191_3047l13 Ordnung, sogleich die Anzeige zu
+#facs_180_region_1633455032191_3047l14 thun. Datum den 29. Aug. 1785
+#facs_83_r3l6 en
+#facs_36_r3l7 Schultheiß und Rath
+#facs_146_r2l2 der Stadt und Republik Bern, ent¬
+#facs_180_region_1633455066846_3059l2 bieten allen Unseren lieben und ge¬
+#facs_180_region_1633455066846_3059l3 treuen Bürgeren und Unterthanen, Uns
+#facs_180_region_1633455066846_3059l4 fever Deutschen und welschen Städte
+#facs_145_r3l11 von Unseren Gnädigen Herren und
+#facs_186_r4l25 gewichet
+#facs_10_r2l1 35
+#facs_181_r2l1 geneigten Willen, und geben ihnen
+#facs_161_r3l12 mit zu vernehmen.
+#facs_181_r2l3 Als dann wir durch Erfahrung
+#facs_181_r2l4 überzeuget worden, daß das unterm
+#facs_181_r2l5 24. Aprill 1765. von uns ausgegangenen
+#facs_181_r2l6 Verbott, wider die Einbringung und
+#facs_181_r2l7 Verbauf der fremden Hüte Unserm
+#facs_181_r2l8 dabey gehabten Landes butterlich in Ab¬
+#facs_181_r2l9 sichten, weder zum Nuzen um
+#facs_181_r2l10 Verbeßerung der Hutmacher = Profeßion
+#facs_231_r2l19 Unseren Städten und Landen
+#facs_181_r2l12 zu Vermeidung einer nahmhaften
+#facs_181_r2l13 Geld Veräußerung keinesweges ent¬
+#facs_181_r2l14 sprochen, sondern vielmehr mit
+#facs_181_r2l15 und andere Hutmacher belorgen wor¬
+#facs_181_r2l16 den, ihre Profession zu verlaßen
+#facs_181_r2l17 und blos mit fremden Hüten zu
+#facs_181_r2l18 handlen. Als sind Wir daher und
+#facs_181_r2l19 durch vielfältige Vorstellungen
+#facs_34_r4l4 Vormit
+#facs_181_r2l21 stellungen veranlaßet worden, er,
+#facs_181_r2l22 lahnt. Unsere Verordnung aufs
+#facs_181_r2l23 in Untersuchung zu nehmen.
+#facs_181_r2l24 und
+#facs_284_r1l1 552
+#facs_181_r3l2 und solche denen gegenwärtigen
+#facs_181_r3l3 Heiten und Umständen gemäs
+#facs_181_r3l4 einzurichten
+#facs_181_r3l5 Wir haben dahero, in Aufhebung
+#facs_181_r3l6 aller älteren hier einschlagenden Ver¬
+#facs_181_r3l7 fürgungen, hirmit gesezt und ver¬
+#facs_161_r4l10 net.
+#facs_181_r3l9 Erstlich, daß die Einbringung
+#facs_181_r3l10 Land, Gewerb und Verbauf aller
+#facs_181_r3l11 ausländischen Hüte, ohne Aus¬
+#facs_181_r3l12 ahm, von nun an Jedermänniglich
+#facs_181_r3l13 towohl von der Meisterschaft Hut,
+#facs_181_r3l14 nacher Profeßion, als aber denen
+#facs_7_r7l1 9
+#facs_181_r3l16 Handelsleuten und Köämeren,
+#facs_181_r3l17 Stadt und Land, sowohl an Jahr aber
+#facs_181_r3l18 und Wochen Märbten Unsteuer Stadt
+#facs_181_r3l19 und Dörferen, als äußert denen
+#facs_181_r3l20 selben als obentlich als heimlich,
+#facs_181_r3l21 hiemit abgestellt und beobotten seyn
+#facs_128_r2l20 solle.
+#facs_324_r2l14 erachtende zu veranstalten sei;
+#facs_181_r3l24 zig Pfunden auß, gegen die Wider¬
+#facs_115_r2l26 = haltenen
+#facs_182_r1l1 353
+#facs_182_r2l1 handlenden, dabon am mittheil
+#facs_182_r2l2 uns verrechnet werden, ein drittheil
+#facs_182_r2l3 dem Richter= und ein mittheil dem
+#facs_182_r2l4 Verleiher similieren soll
+#facs_182_r2l5 Von diesem Verbott aben werden.
+#facs_182_r2l6 aus genommen, die in Unserer Haupt¬
+#facs_182_r2l7 und übrigen Städten angeseßene
+#facs_182_r2l8 Burger und Partibular Persohnen,
+#facs_182_r2l9 welche für ihren eigenen Gebrauch
+#facs_182_r2l10 und ohne für sich selbst, oder in Com¬
+#facs_182_r2l11 mißion damit Handlung zu treiben.
+#facs_182_r2l12 von denen Landen irgend einen
+#facs_182_r2l13 Hut verschriben wollten, und sich
+#facs_182_r2l14 zu dem End bey Unserm Com¬
+#facs_182_r2l15 zum Rath um unentgeldtlich dafür
+#facs_182_r2l16 zu ertheillende Einfuhrpatenten, annoch
+#facs_53_r3l16 den
+#facs_182_r2l18 Zweyters, bewilligen Wir denen
+#facs_182_r2l19 Zusammenherrn der mit Und beobürgerken
+#facs_182_r2l20 töblichen Stänken Freyburg und Solothurn
+#facs_182_r2l21 nach Masgab verbergischen Abscheids von
+#facs_182_r2l22 1720. wie auch denn der Stadt Biel,
+#facs_182_r2l23 unter Vorbehalt des Gegenrichtens, noch für
+#facs_307_r3l2 urts
+#facs_10_r2l1 35
+#facs_182_r3l2 ners die offenen Jahrmärkte der
+#facs_182_r3l3 Städte Unserer Lande /: nicht
+#facs_182_r3l4 aber die Dorfmärbte :/ mit ihren
+#facs_182_r3l5 Hutbahren besuchen zu dörfen,
+#facs_182_r3l6 wofern sie mit glaubbürdigen
+#facs_182_r3l7 Zeugnißen Beleis bisten können,
+#facs_182_r3l8 daß sie solche selbst fabriuet haben
+#facs_182_r3l9 und darunter nicht fremde Hüte
+#facs_182_r3l10 zum Vorstehem beim
+#facs_182_r3l11 Dritters. Damit aber Unser¬
+#facs_182_r3l12 Zutmacher Meisterstehaft, welche mit
+#facs_182_r3l13 fremden Huten versehen seyn mähr¬
+#facs_182_r3l14 ten, Zeit haben, sich deren Zu
+#facs_182_r3l15 entladen; als soll Ihnen bis zu
+#facs_182_r3l16 End 1786. zu dieser Absicht der
+#facs_182_r3l17 eine bergönnt seyn, nach deßen
+#facs_182_r3l18 Verflißung gegen Sie dieser Ord¬
+#facs_182_r3l19 nung gemäs verfahren und inzleich
+#facs_182_r3l20 sehen keine fremden Güte mehr
+#facs_182_r3l21 von Ihnen eingebracht werden.
+#facs_181_r3l22 tolle.
+#facs_182_r3l23 Tietens. Was den schädlichen
+#facs_182_r3l24 = Fürbauf
+#facs_183_r1l1 355
+#facs_183_r2l1 Fürbauf und Ausfuhr der von denen
+#facs_183_r2l2 Hutmacheren gebrauchenden Hasen¬
+#facs_183_r2l3 balgen betrift, solaßen Wir es bey
+#facs_183_r2l4 Unserem den 2ten Formung dieses
+#facs_183_r2l5 Jahrs ertheilten daherigen Verbott le
+#facs_183_r2l6 Diglich bewenden
+#facs_183_r2l7 Unseren Zoll Commissen und Auf¬
+#facs_183_r2l8 teheren befehlen Wir, auf die Eins¬
+#facs_183_r2l9 fuhr dieser von Uns verbottenen
+#facs_183_r2l10 Waar genau zu achten, und alle Frau
+#facs_183_r2l11 den Hüte, die ohne Einfuhr Patent ins
+#facs_183_r2l12 Land gebracht werden sollten, als
+#facs_183_r2l13 Kontrebande anzuhalten, welche und
+#facs_183_r2l14 so fort dem Richter anzuzeigen.
+#facs_183_r2l15 Mir tragen Unserm Commerzien
+#facs_163_r4l8 Rath hiemit auf, die Oberaufsicht
+#facs_163_r4l9 zu Ausübung dieser Verordnung
+#facs_183_r2l18 sämtlichen Unseren Städten im
+#facs_183_r2l19 Landen zu befragen, und denen
+#facs_183_r2l20 sich anmeldenden Partibular Personen
+#facs_183_r2l21 für ihnen alleinigen Gebrauch nach Gut
+#facs_183_r2l22 befinden Einfuhr Patenten für fremde
+#facs_183_r2l23 Huthe
+#facs_183_r3l1 356
+#facs_183_r3l2 Hüte zu ertheillen; derselbe soll
+#facs_183_r3l3 in der Haubtstadt, deren Schirb und
+#facs_183_r3l4 in denen Landgerichten, in denen an¬
+#facs_183_r3l5 deren Städten und Aemteren aber
+#facs_183_r3l6 der Competioliche Richter des Orts
+#facs_183_r3l7 denen Wir die Handhabung auf
+#facs_183_r3l8 fragen, in erster Instanz urtheilen
+#facs_183_r3l9 und der beschwehrenden Parthey
+#facs_183_r3l10 der Reburs vor Uns gestatten
+#facs_183_r3l11 Wir behalten Uns vor, die
+#facs_183_r3l12 te Unsere Verordnung (welche
+#facs_183_r3l13 für eine Probzeit von acht Jahren¬
+#facs_183_r3l14 innest oder nach
+#facs_183_r3l15 gültig seyn soll:
+#facs_183_r3l16 dieser Zeit zu mehren, zu minderen
+#facs_183_r3l17 aber gar aufzuheben, jeh nach dem
+#facs_183_r3l18 es das gemeine Reste, und der Nutzen
+#facs_183_r3l19 der Hutmacher-Profession erheischen
+#facs_183_r3l20 wird; welche Wir zu Jedermanns Nach¬
+#facs_183_r3l21 nicht und Verhalt in Druck verfaßen, von
+#facs_183_r3l22 Kaufeln verlaßen, und gebohnter Orten an¬
+#facs_183_r3l23 schlagen laßen. Geben den 29ten Aug. 1785.
+#facs_266_r4l14 Arberg
+#facs_83_r3l6 en
+#facs_3_region_1627936339514_16l1 1
+#facs_7_r7l1 9
+#facs_184_r2l1 357
+#facs_177_region_1633454910390_2979l23 = Translation.
+#facs_184_r3l2 Nous l'Avoyer et Conseil
+#facs_112_r3l23 de la Ville et Republique de Berne,
+#facs_184_r3l4 tous Nos chers et fideles Citoyens, Sujets
+#facs_184_r3l5 A Ressortissants; leur mandons Notre
+#facs_184_r3l6 gracieuse Bienveillance, et par les presentes
+#facs_47_r3l12 savoir faisons.
+#facs_184_r3l8 Que l'expérience Nous ayant convaincu
+#facs_184_r3l9 cus, que Notre ordonnance du 24e. Avril
+#facs_184_r3l10 1765. portant défense d'entree, vente &
+#facs_184_r3l11 debite des Chapeaux fabriques dans
+#facs_184_r3l12 l'étranger, bien loin de remplir Nos vues
+#facs_184_r3l13 paternelles, qui tendoïent au profit et a
+#facs_184_r3l14 l'amelioration de la profession des Chas-
+#facs_184_r3l15 peliers de Nos villes et Pays, et à empecher
+#facs_184_r3l16 La sortie considerable des especes, avoit en
+#facs_184_r3l17 gagé au contraire divers Chapeliers à quitter
+#facs_184_r3l18 leur profession, pour soccevez uniquement
+#facs_184_r3l19 Lun simple trafic avec ces mêmes Cha¬
+#facs_184_r3l20 peaux, fabriques dans l'étranger. Nous
+#facs_184_r3l21 vons par ces raisons, et ensuite de nombre
+#facs_184_r3l22 de respectueuses représentations, à Nous
+#facs_68_r8l48 Hinter
+#facs_184_r5l1 358
+#facs_184_r5l2 faites à ce sujet, voulu examiner de nous
+#facs_184_r5l3 veau la susdite Ordonnance, afin de l'a-
+#facs_184_r5l4 dapter au tems, et aux circonstances pré¬
+#facs_184_r5l5 sentes
+#facs_184_r5l6 En consequence, dérogeant à cet égard à
+#facs_184_r5l7 toutes les dispositions anterieures, Nous
+#facs_184_r5l8 ordonnons et statuons
+#facs_184_r5l9 Premierement: Que l'importa-
+#facs_184_r5l10 tion, vente et debite de tous Chapeaux
+#facs_184_r5l11 fabriqués dans létranger soit, sans au
+#facs_184_r5l12 cune exception quelconque, defendue des
+#facs_184_r5l13 a present à tous et un chacun, tant aux
+#facs_184_r5l14 maitres Chapeliers, qu'aux Negociants
+#facs_184_r5l15 & merciers de Nos villes et Païs, lesquels
+#facs_184_r5l16 ne pourront en vendre, ni debiter, voit aux
+#facs_184_r5l17 foires annuelles, soit aux marchés hebben
+#facs_184_r5l18 domadaires de Nos Villes et Villages, non
+#facs_184_r5l19 plus que hors delà, ni publiquement ni
+#facs_184_r5l20 secretement ; sous peine de confiscation de
+#facs_184_r5l21 la marchandise et d'une amende de quarante
+#facs_184_r5l22 Livres bernoises; dont un tiers à Nous, un au Juge
+#facs_238_r4l9 Ernst und Liebe Jedermann aus
+#facs_14_region_1633454353484_2800l1 de
+#facs_133_r3l1 259
+#facs_185_r2l1 De cette défense Nous exceptons ce
+#facs_185_r2l2 pendant les citoyens, bourgeois et particuliers,
+#facs_185_r2l3 habitants tant en Nôtre Capitale que dans
+#facs_185_r2l4 les autres Villes de Notre Domination, les
+#facs_185_r2l5 quels, pour leur usage propre et sans en
+#facs_185_r2l6 faire trafic, ni pour leur compte, ni par
+#facs_185_r2l7 commission, pourront faire venir des cha-
+#facs_185_r2l8 veaux de létranger, et s'adresseront à cet effet
+#facs_185_r2l9 à Notre Conseil de Commerce, qui leur
+#facs_185_r2l10 fera délivrerd gratis les patentes d'entrées ne
+#facs_185_r2l11 éssaires.
+#facs_185_r2l12 secondement: Nous accordons
+#facs_185_r2l13 aux Chapeliers de Nos deux Cantons Com
+#facs_185_r2l14 bourgeois, Frybourget Soleure, en vertu de
+#facs_185_r2l15 la convention d'Aarberg de 1720. de même qui
+#facs_185_r2l16 ceux de la Ville de Bienne, sous la réserve du
+#facs_185_r2l17 reciproque, la Liberté de fréquenter, come
+#facs_185_r2l18 du passé, les foires annuelles publiques de
+#facs_185_r2l19 Nos Villes (mais non pas celles des Villages)
+#facs_185_r2l20 avec les marchandises qui sont de leurs pro-
+#facs_185_r2l21 cession ; pour vû quils puissent prouver par
+#facs_185_r2l22 des Certificats authentiques, quils les ont
+#facs_185_r2l23 fabriquées eux-mêmes, & qu'il ne se trouve pas
+#facs_185_r2l24 barmi
+#facs_154_r5l1 300
+#facs_185_r3l2 parmi des Chapeaux étrangers
+#facs_185_r3l3 Troisiement: mais pour que Nos
+#facs_185_r3l4 Maitres Chapeliers, qui se trouveront pour
+#facs_185_r3l5 sus de Chapeaux de fabriques étrangères
+#facs_185_r3l6 ayent le tems de sen défaire, Nous leur
+#facs_185_r3l7 accordons à cet effet terme jusqu'a la fin de l'an¬
+#facs_185_r3l8 née 1786. lequel écouté, on procédera à légaré
+#facs_185_r3l9 des Contrevenants à teneur de la présente Or.
+#facs_185_r3l10 donnance, en vertu de laquelle il leur est enjoint
+#facs_185_r3l11 en attendant, de ne plus importer des Cha-
+#facs_185_r3l12 peaux étrangers
+#facs_185_r3l13 Quatriemement: Pour ce qui re-
+#facs_185_r3l14 garde le pernicieux menopole des peaux de lievres
+#facs_185_r3l15 dont les Chapeliers se servent, Nous Nous
+#facs_185_r3l16 referons à Notre Ordonnance du 2e. fevrier
+#facs_185_r3l17 de l'année Courante
+#facs_185_r3l18 Enjoignant à Nos commis de Péages
+#facs_185_r3l19 et Inspecteurs de veiller se repuleusement sur l'éms
+#facs_185_r3l20 portation de laditte marchandise par Nous pro-
+#facs_185_r3l21 hibées, et d'arrêter comme contrebande tous les
+#facs_185_r3l22 Chapeaux fabriqués dans tétranger, que l'on
+#facs_237_r3l10 gefunden Zeiten, für die, des von
+#facs_211_r5l1 A08
+#facs_155_r1l1 301
+#facs_186_r2l1 de paſente dentrée, en les denonçant au
+#facs_186_r2l3 Juge du Lieu
+#facs_186_r2l4 Nous chargeons Notre Conseil de
+#facs_186_r2l5 Commerce de surveiller à l'execution de la
+#facs_186_r2l6 présente ordonnance, et de delivrer selon quil
+#facs_186_r2l7 le jugera convenable aux particuliers, qui
+#facs_186_r2l8 lui demanderont la permission de faire venir
+#facs_186_r2l9 des Chapeaux de fabrique étrangère, pour
+#facs_186_r2l10 leur seul usage les patentes d'entrées ne
+#facs_186_r2l11 assaires. Le Constituant pour Jugdeny
+#facs_186_r2l12 premier ressort pour ce qui regarde la Ca-
+#facs_186_r2l13 pitale et sa Canlieue, ainsi que les quatre
+#facs_186_r2l14 Jurisdictons, soit Landgericht, et dans Nos
+#facs_186_r2l15 autres Villes et Bailliages le Juge competent
+#facs_186_r2l16 du lieu, accordant à la partie condamnée le
+#facs_166_r4l26 bénéfice d'Appel par devant Nous.
+#facs_186_r2l18 Nous reservant détendre, rédiger, ou
+#facs_234_r2l10 Et pour que la présente ordon
+#facs_186_r2l20 Nous statuons pour une Epreuve de huit ans
+#facs_186_r2l21 pendant cet intervalle ou après, selon que le
+#facs_186_r2l22 bien public et celui de la profession des chas
+#facs_186_r2l23 peliers nous parroitra l'exiger; voulant qu'elle
+#facs_34_r4l4 Vormit
+#facs_92_r9l28 Widman
+#facs_186_r3l2 pag: 375
+#facs_120_r3l38 Erlach
+#facs_4_r3l1 62
+#facs_53_r8l10 e
+#facs_186_r4l3 soit imprimée, luë & publiée en chaire
+#facs_53_r8l10 e
+#facs_186_r4l5 affichée aux endroits accoutumés, pour l'avis
+#facs_186_r4l6 l'instruction de tous & un chacun
+#facs_186_r4l7 Donné le 29. Août 1785
+#facs_179_region_1633454973166_3014l13 Chancelerie de Berne

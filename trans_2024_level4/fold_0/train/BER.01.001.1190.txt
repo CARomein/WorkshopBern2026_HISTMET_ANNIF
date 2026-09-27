@@ -1,0 +1,121 @@
+Law ID: BER.01.001.1190
+Name: Beschrybung der Weltschen Capitlen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 110/110
+# High similarity (>=50%): 108
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_322_r1l8 Zur Gesandtschafft vff die General
+#facs_322_r1l9 Capitel Im Tütsch. Landt
+#facs_322_r1l10 von den Herren Geistlichen
+#facs_322_r1l11 Sr. Jörg. Langhauß, perdicant.
+#facs_322_r1l12 Vom kleinen Rhatt:
+#facs_322_r1l13 Hr. Schuldtheis Dachselhoffer
+#facs_322_r1l14 Hr. Venner Wilasing.
+#facs_322_r1l15 Vom Großen
+#facs_322_r1l16 Hr. Hans Anthoni Tillier, Alt
+#facs_322_r1l17 Schuldtheis zu Burgdorff.
+#facs_322_r3l1 Mat
+#facs_322_r3l2 da eia valent
+#facs_322_r3l3 deßgleichen
+#facs_322_r3l4 aller Weinig vnd
+#facs_322_r3l5 vernehmen, und
+#facs_322_r3l6 lichen Amptleüter
+#facs_322_r4l1 Beschrybung der Weltschen Capitlen.
+#facs_322_r4l2 Schls. Dieweil die haltung der General Capitlen
+#facs_322_r4l3 nun ein lange Zeitt daher übergangen vndt
+#facs_322_r4l4 vnderlaßen: sind wir vß hoch erheüschen er noturfft
+#facs_322_r4l5 bewegt worden, dieselben heutigen Jahrs, so wol
+#facs_322_r4l6 In vnserm Weltschen, als Tütschen Landt ange¬
+#facs_322_r4l7 tellen und halten Zelaßen. Und zu sölichem
+#facs_322_r4l8 End haben wir vnser Ehesam Rhats Potschafft
+#facs_322_r4l9 von Rhöten und Burgeren, sambt einem unser
+#facs_322_r4l10 vorstenderen der Kilchen alhir vordnet, die
+#facs_322_r4l11 werdend (gliebts Gott) vff Montag den 13. Juny
+#facs_322_r4l12 nechstkünfftig der Claß hiierdem Capitul morgenden
+#facs_322_r4l13 unter Feüyer Tags Zeitt, an dem ohne da es gewohnt
+#facs_322_r4l14 Ist, halten vnd Ihrem beuelch gemäß errichten.
+#facs_322_r4l15 Langt derhalben unser ernstlicher beuelch an Dich
+#facs_322_r4l16 söliche Esamlung mit mir selbst persöhnlich zu¬
+#facs_322_r4l17 besuchen, sonders auch ein gleiches Zethun vnnd
+#facs_322_r4l18 zu erstathen, dem Decan vnd allen persianten vnd helfferer
+#facs_322_r4l19 gemeinlich die vf diner Abwaltung In bemelte
+#facs_322_r4l20 Clas gehörend, alß auch eynen Castlanen vnd
+#facs_322_r4l21 anderen Oblüthen der Chorgerichten Pals deren
+#facs_322_r4l22 (werend) sampt anderen Vnder Amptlüthen,
+#facs_322_r4l23 ernst: vnd fürderlich Zeuerkünden vnndt
+#facs_322_r4l24 zugepieten, dann söliches gentzlich vnser will
+#facs_322_r4l25 ist, darnach wüßine ich allerseits Gerichten.
+#facs_322_r4l26 Datum 12. Maii 1642.
+#facs_322_r4l27 In die Claß Petterlingl gehörene, vff Freytag
+#facs_322_r4l28 dem 3. Juny
+#facs_322_r4l29 Merten der Schuldtheis, mit den weltschen persianten
+#facs_322_r4l30 vnd W. Unterkomptlichen
+#facs_322_r4l31 Wiblisouxg.
+#facs_322_r4l32 Peterlingh, Oeconomus Et Consul
+#facs_322_r4l33 Mildere.
+#facs_323_r1l1 In die Qlap ou Capitul Lausanna
+#facs_323_r1l2 gehörend
+#facs_323_r1l3 Lausanna, das Ampt und die Statt
+#facs_323_r1l4 Ouron
+#facs_323_r1l5 Vinis und Million
+#facs_323_r1l6 vff hinstag
+#facs_323_r1l7 Neuwenstatt, allein selbst.
+#facs_323_r1l8 De
+#facs_323_r1l9 7. Junij
+#facs_323_r1l10 delen
+#facs_323_r1l11 Sauen
+#facs_323_r1l12 In die Claß Morgex gehörend.
+#facs_323_r1l13 Morgex.
+#facs_323_r1l14 Nevis
+#facs_323_r1l15 vff Donstag den 9. Juny
+#facs_323_r1l16 Bomont alleinselbs
+#facs_323_r1l17 In die Claß zuerdten gehörende
+#facs_323_r1l18 Juerdten
+#facs_323_r1l19 Loff Montag den 23 Junij
+#facs_323_r1l20 Romamostier.
+#facs_323_r1l21 Memento. Ischärli und Grandson
+#facs_323_r1l22 Wirt nach hievor geübtem bruch, vff der
+#facs_323_r1l23 Clas uerdten gutachten angestelt
+#facs_323_r1l24 Sind dißmahlen in das Capitul gen Zuerdt per berüfft
+#facs_323_r1l25 vorden
+#facs_323_r2l1 In den Weltschen Capitlen
+#facs_323_r2l2 sind verordnet.
+#facs_323_r2l3 _
+#facs_323_r2l4 Vanden Herren Geistliche
+#facs_323_r2l5 Sr. Marcus Rütinreyer, Doctor Theol.
+#facs_323_r2l6 predicant alhie
+#facs_323_r2l7 Vom kleinen Rhatt.
+#facs_323_r2l8 Hr. vonner Bücher
+#facs_323_r2l9 Hr. Niclauß Kilchberger
+#facs_323_r2l10 Vom Großen:
+#facs_323_r2l11 Gr. Daniel Morloth
+#facs_323_r2l12 An Alle T. und N. O.
+#facs_323_r2l13 wegen einstellung
+#facs_323_r2l14 Witsen
+#facs_323_r2l15 Der guts steühr
+#facs_323_r2l16 Schuldtheis vndt Rhat etc.
+#facs_323_r2l17 Es weer zwar die Zeit abermalen verhanden, das vermog vnsers vpge¬
+#facs_323_r2l18 Haflen
+#facs_323_r2l19 scheibnen mandats vnd der daruff ervolgten angenommen Eidtgl.
+#facs_323_r2l20 vnderhandlung, die vnseren L. g. zu Statt vnd Landt die
+#facs_323_r2l21 Anlag des tausendesten pfenigs, nunmehr gebürend maßen
+#facs_323_r2l22 abstatten vnd erlegen, vnd die einen vndt anderen durch
+#facs_323_r2l23 Vnsere Amptluth darzu angehalten vnd gegen werden
+#facs_323_r2l24 soltten: Wann wir aber, neben anderm auch die Jetzige
+#facs_323_r2l25 schwärz
+#facs_323_r2l26 thüre vndt herbezeitten zu genüet genomen, Alß
+#facs_323_r2l27 habendt wie vß Oberkeitlich mitleidenlicher behertzigung
+#facs_323_r2l28 deßen, die bezüchung vnd einforderung diser gutstühr
+#facs_323_r2l29 einmal vnd biß etwann auff beßere vnd bequemlichere
+#facs_323_r2l30 heitt vndt gelegenheitt einstellen, vnd deßen dich
+#facs_323_r2l31 (wie gegen Übrigen vnsern Amptlüthen auch beschicht)
+#facs_323_r2l32 zu deinem nachrichtlichen Ehalt, sölichen vnsere
+#facs_323_r2l33 gnedigen Willen auch deinen vndergebnen Ampts:
+#facs_323_r2l34 lüthen gebührend angefüegen vndt Heuermelden
+#facs_323_r2l35 wüßist, hiemit verstendigen, vnd darbey Gott wol
+#facs_323_r2l36 empfelchen wollen. Datum 22. Aprilis 1642

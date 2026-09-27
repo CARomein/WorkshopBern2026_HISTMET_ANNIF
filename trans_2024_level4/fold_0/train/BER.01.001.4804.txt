@@ -1,0 +1,47 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 40/40
+# High similarity (>=80%): 38
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_145_r3l1 Milderung des Metall ausfuhr verbotts
+#facs_145_r3l2 An alle Deutsch und Welsche Herren Amt¬
+#facs_145_r3l3 leüt, vier Stadt Freyweibel und Amann,
+#facs_145_r3l4 Schultheiß und Rath der Stadt Bernen
+#facs_145_r3l5 Nachdem Wir aus verschiedenen Berichte
+#facs_145_r3l6 und aus dem Uns von Unserm Verord¬
+#facs_145_r3l7 neten Commerzien Rath erstateten
+#facs_145_r3l8 Vortrag vernömmen, daß sich gegen
+#facs_145_r3l9 wärtig ein genugsammer Vorrath von
+#facs_145_r3l10 Quinquallerie Waaren in hiesigen Landen
+#facs_145_r3l11 erzeigt, und in Landes väterlicher Rüksicht
+#facs_145_r3l12 daß durch das daherige Ausfuhr verbott¬
+#facs_145_r3l13 viele Unserer Lieben und getreuen Ange¬
+#facs_145_r3l14 hörigen in ihrer Handlung mit diesen Waare
+#facs_145_r3l15 nicht nur sehr eingeschränkt, sondern in
+#facs_145_r3l16 großen Schaden versezt worden, haben
+#facs_145_r3l17 Wir die Ausfuhr derselben von nun an
+#facs_145_r3l18 wieder zu gestatten gutbefunden, und
+#facs_145_r3l19 Demnach für die Zukunft, und bis die Zeit
+#facs_145_r3l20 Umstände nicht andere Verfügungen nöthig
+#facs_145_r3l21 machen werden, festgesezt und verordnet
+#facs_145_r3l22 daß die Ausfuhr den quinquallerie Waar
+#facs_145_r3l23 wie auch alles verarbeiteten Eisens, Erzts¬
+#facs_145_r3l24 Kupfer Messings und dergleichen frey
+#facs_82_r3l24 — und
+#facs_238_r3l1 Sollate
+#facs_168_r2l18 Bier
+#facs_115_r6l1 219
+#facs_145_r5l2 =und offen bleiben, hingegen die Ausfuhr
+#facs_145_r5l3 aller zum Feldgeräth und Fuhrwesen gehörend,
+#facs_145_r5l4 Eisenwaaren noch ferners verbotten seyn
+#facs_145_r5l5 solle.
+#facs_145_r5l6 dessen Ihr berichtet werdet um es den
+#facs_145_r5l7 betreffenden Handelsleuten und auch den Zoll
+#facs_145_r5l8 Commissen Fueres Amts Bezirks auf gut
+#facs_145_r5l9 findende Weise zu ihrem künftigen Verhalt
+#facs_145_r5l10 bekannt machen zu laßen
+#facs_149_r3l20 Datum den 15ten Merz 1796.
+#facs_98_r5l28 en

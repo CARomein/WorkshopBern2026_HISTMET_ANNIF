@@ -1,0 +1,304 @@
+Law nr: BER.01.001.4538
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 293/293
+# High similarity (>=80%): 277
+# Low similarity (<80%): 16
+# Not found: 0
+#
+#facs_37_r1l1 66
+#facs_56_r2l1 Colle
+#facs_37_r1l3 Mta. das untersteichen
+#facs_37_r1l4 geht nur das W. Lu¬
+#facs_23_region_1633454616028_2913l1 An
+#facs_109_r6l20 Alle 7. und W. Herren Amtleute 4.
+#facs_37_r2l3 Städt, und hiesige Ede Gesellschaften
+#facs_37_r2l4 das Alter zum Notariat zu gelangen,
+#facs_37_r2l5 wird von 25. auf 23. Jahr gesezt
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_37_r2l7 Verschiedene
+#facs_37_r2l8 Betrachtungen haben uns bewogen, das
+#facs_37_r2l9 bis dahin zu Erlangung einer Notariat
+#facs_37_r2l10 Stelle, so wohl in Unseren Töntsch als
+#facs_37_r2l11 selichen Landen erforderliche Alter von 25.
+#facs_37_r2l12 Jahren hinunter zu sezen, mithin andurch
+#facs_37_r2l13 zu bestimmen, das alle diejenige so das
+#facs_37_r2l14 23te Jahr erfüllet und zurük gelegt
+#facs_37_r2l15 haben werden, hinfürd in Zubonfft zu dem
+#facs_37_r2l16 saccant werdenden Notariat Stellen aspiriere,
+#facs_37_r2l17 und vorgeschlagen werden können,
+#facs_37_r2l18 Deßen
+#facs_37_r2l20 ihr berichtet werdet, um solches gewohnter
+#facs_37_r2l21 maßen seines Orts publicieren, und zugleich
+#facs_37_r2l22 Erkant machen zu lassen, damit die so
+#facs_37_r2l23 ich bey Uns anmelden wollen, zugleich auch
+#facs_37_r2l24 ich mit dem behörigen Taufeheim versehen
+#facs_37_r2l25 Wie zu thun et Datl. d. 27 May 1783.
+#facs_83_r3l6 en
+#facs_157_r4l1 oll.
+#facs_6_region_1627936574015_66l1 6
+#facs_37_r4l2 Un alle
+#facs_37_r4l3 W: Herren Amtlänt, Item Uelen Sepr¬
+#facs_37_r4l4 Für Ordnung für das Belsch Land.
+#facs_37_r4l5 Schulthes und Rath auf die einge¬
+#facs_37_r4l6 holte Berichte, über die in Unferen
+#facs_37_r4l7 welschen Landen vorhandene feur Anstalten
+#facs_37_r4l8 haben Wir nötig erachtet, ohne Abbruch
+#facs_37_r4l9 der jeden Orts dießorts allfällig sich
+#facs_37_r4l10 vorfindenden besonderen Reglementen, über
+#facs_37_r4l11 die dießorts unentbärlichst nöthigen Vorkehren
+#facs_37_r4l12 welche sowohl zu Verhürtung der feuers
+#facs_37_r4l13 brünsten, als auch bürklich in solchen
+#facs_37_r4l14 Unglükfällen vorzubehren und, mitkommende
+#facs_37_r4l15 Verordnung in Druk ausgehen zu laßen
+#facs_198_r3l2 Mit Zusendung
+#facs_37_r4l17 Anzahl doplen von sothaner Verordnung,
+#facs_200_r3l7 tragen Wir Eüch anmit befelchlich auf,
+#facs_37_r4l19 solche öfentlich von der Canzel verlesen,
+#facs_37_r4l20 aller Orten, wo es nötig, und in so
+#facs_37_r4l21 großer Anzahl als es erforderlich seyn
+#facs_37_r4l22 mag, austheillen- und selbige seines be¬
+#facs_37_r4l23 hörigen Orts nachrichtlich einschreiben
+#facs_37_r4l24 zu laßen, dabey dann Oberamtlich
+#facs_38_r1l1 68
+#facs_28_r4l1 Coll
+#facs_38_r2l1 zu wachen, daß solcher in allen
+#facs_38_r2l2 Theilen prüktlich nachgelebt werde. Datl.
+#facs_38_r2l3 d. 28. May 1783
+#facs_14_region_1627971782200_27l1 Verordnung
+#facs_27_r3l12 Obid
+#facs_38_r2l6 Nous L'Avoyer et conseil de la
+#facs_38_r2l7 Ville & République de Berne, Savoir
+#facs_38_r2l8 faisons par les presentes; qu'ayant été
+#facs_38_r2l9 instruits, qu'il n'existoit point de Reglement
+#facs_38_r2l10 général dans les Villes et Communautés du
+#facs_38_r2l11 Pays de Vaud pour les cas de feu & d'in-
+#facs_38_r2l12 cendies, avons trouvé, qu'il étoit necessaire
+#facs_38_r2l13 et de Notre bonté paternelle, de statuer
+#facs_38_r2l14 à cet égard par la présente Ordonnances
+#facs_38_r2l15 les précautions indispensables pour chaque
+#facs_38_r2l16 lieu, n'entendant point toucher ni préjudicier
+#facs_38_r2l17 aux dispositions plus etendus de plusieurs
+#facs_38_r2l18 publics, que nous approuvons & ratifions
+#facs_38_r2l19 en tout ce qu'elles contiennent de plus
+#facs_38_r2l20 que ce qui est statué ci-après
+#facs_29_r7l1 53
+#facs_38_r3l2 Precautions pour prevenir
+#facs_38_r3l3 les Incendies
+#facs_3_region_1627936339514_16l1 1
+#facs_38_r3l5 Il sera fait chaque année dans toutes
+#facs_38_r3l6 les Villes & Villages deux visites de
+#facs_38_r3l7 cheminées dans les maisons publiques et
+#facs_38_r3l8 particulieres, & ce chaque premier lundi
+#facs_38_r3l9 du mois de Mai & le premier Lundi du mois
+#facs_38_r3l10 de Novembre.
+#facs_38_r3l11 Il sera établi à cet effet par les Conseils
+#facs_38_r3l12 dans les Villes pour chaque quatier dans les
+#facs_38_r3l13 Villages pour le lieu un inspecteur, pour
+#facs_38_r3l14 remplir cet office, qui sera assermente
+#facs_38_r3l15 Il verra et s'assurera que les cheminées
+#facs_38_r3l16 soient à l'abri de tout accident de feu
+#facs_38_r3l17 et qu'elles aient été ramonées dans les
+#facs_38_r3l18 huit jours qui précéderont sa visite
+#facs_38_r3l19 Il fera le rapport de la visite en
+#facs_38_r3l20 Conseil de lendemain du jour quelle aura
+#facs_38_r3l21 été faite, il dénoncera sans support tous
+#facs_38_r3l22 ceux qu'il aura trouvé en faute, Surquoi le
+#facs_38_r3l23 Conseil leur ferra ordonner de faire dans
+#facs_38_r3l24 le terme de huit jours les réparations
+#facs_38_r3l25 nécessaires, et si d'après la nouvelle visite
+#facs_7_r7l1 9
+#facs_39_r2l1 qui en sera faite par ledit Inspecteur
+#facs_39_r2l2 après le terme ci-dessus, il se trouve
+#facs_39_r2l3 que ce qui a été ordonné, n'aie pas eté
+#facs_39_r2l4 exécate, les contrevenans payeront une
+#facs_39_r2l5 amende de cinq florins; & le conseil
+#facs_39_r2l6 fera faire aussi – tôt et sans délai.
+#facs_39_r2l8 aux fraix des torts ayants, les réparations
+#facs_39_r2l9 jugées nécessaires
+#facs_3_region_1627936339514_16l1 1
+#facs_39_r2l11 Il est défendu à tous & un chacun, de
+#facs_39_r2l12 fécher leur chanvre & lin sur leurs
+#facs_39_r2l13 foyers, fours ou poëles, sous l'amende
+#facs_39_r2l14 de dix florins
+#facs_39_r2l15 III.
+#facs_39_r2l16 Nous entendons de plus que Notre Ordon,
+#facs_39_r2l17 nance du 2e janvier 1760, qui défense
+#facs_39_r2l18 de battres les graines de nuit, soit ponctuellement
+#facs_39_r2l19 suivie, sous les peines y énoncées
+#facs_39_r2l20 IV.
+#facs_39_r2l21 Il est ordonné à chaque Bourgeois et
+#facs_39_r2l22 habitant des Villes et Villages, où il
+#facs_272_r3l6 7 1.
+#facs_39_r3l2 ne se trouve pas des eaux permanentes,
+#facs_39_r3l3 de poser dans les tems de sécheresse une
+#facs_39_r3l4 tine ou tineau remplis d'eau devant sa
+#facs_39_r3l5 maison, les Conseils ordonneront testems
+#facs_39_r3l6 et jours où cette précaution devra être
+#facs_39_r3l7 mise en execution, ainsi que le tems de
+#facs_39_r3l8 sa durée, sous l'amende pour les contre
+#facs_39_r3l9 venants de deux florins. Et les publics
+#facs_39_r3l10 devront établir des réservoirs d'eau, dans
+#facs_39_r3l11 tous les lieux où la chose sera faisable
+#facs_39_r3l12 Secours provisionels contre
+#facs_39_r3l13 les cas de feu
+#facs_39_r3l14 Les Seringues, soit pompes à feu, sont d'une
+#facs_39_r3l15 utilité si reconnue, que nous exhortans
+#facs_39_r3l16 tous les publics & les particuliers qui
+#facs_39_r3l17 en auront les facultés, & qui habitent des
+#facs_39_r3l18 lieux suffisament pourvus d'eau, de s'en
+#facs_39_r3l19 procurer
+#facs_39_r3l20 Ces pompes à feu, par tout où il y en
+#facs_39_r3l21 aura, seront deposées dans des lieux sûrs
+#facs_39_r3l22 airés & fermes à clef. Là où il y en aura
+#facs_39_r3l23 plusieurs, elles seront reparties dans les
+#facs_39_r3l24 différens quartiers de la Ville ou du Bourg
+#facs_3_region_1627936339514_16l1 1
+#facs_40_r2l1 Pour chaque place ou ces pompes seront
+#facs_40_r2l2 deposées, il sera fait plusieurs clefs
+#facs_40_r2l3 qui seront reparties estre ceux que leur
+#facs_40_r2l4 office attache auxdites pompes, afin que l'on
+#facs_40_r2l5 foit sûr, d'en trouver une ou plusieurs
+#facs_40_r2l6 au besoin.
+#facs_40_r2l7 Il sera attaché à chaque pompe un
+#facs_40_r2l8 maitre & proportionnellement à sa grandeur
+#facs_40_r2l9 de huit à douze ouvriers, pour la servir
+#facs_40_r2l10 le premier sera choisi intelligent et de
+#facs_40_r2l11 quel qu'autorité dans son lieu, les autres
+#facs_40_r2l12 entre les gens de mêtier & de préférence
+#facs_40_r2l13 du nombre des serruriers, maréchaux &
+#facs_40_r2l14 charrons.
+#facs_40_r2l15 Ces pompes seront visitées et manœuvrées
+#facs_40_r2l16 chaque année une fois sous l'inspection
+#facs_40_r2l17 des conseils, et ce chaque premier lundi
+#facs_40_r2l18 du mois de Mai, le rapport en sera fait
+#facs_40_r2l19 le Lendemain en Conseil assemblé, qui
+#facs_40_r2l20 ordonnera tout de suite les reparations
+#facs_40_r2l21 dont elles pourront avoir besoin.
+#facs_40_r2l22 II.
+#facs_118_r1l31 lesen
+#facs_12_r2l1 43
+#facs_40_r3l2 des pompes, les assortiront chacune de
+#facs_40_r3l3 vingt brochets soit sceaux de cuir, marqués
+#facs_40_r3l4 de ses armes ou de son chiffre, lesquels
+#facs_40_r3l5 seront deposés dans un lieu connu & public
+#facs_40_r3l6 Les publics qui n'ont point de pompes
+#facs_40_r3l7 ne se pourvoiront pas moins des dits brochets,
+#facs_40_r3l8 & cela au moins au nombre de vingt
+#facs_40_r3l9 pour les communautés qui auront moins
+#facs_40_r3l10 de quarante ménages, de trente pour celles
+#facs_40_r3l11 qui avont quarante menages, et de
+#facs_40_r3l12 quarante pour ceux qui en auront au
+#facs_40_r3l13 de là. Bien entendu, que dans ce nombre
+#facs_40_r3l14 ne feront point compris les brochets que
+#facs_40_r3l15 les particuliers peuvent être astreints
+#facs_40_r3l16 d’avoir chez eux par des reglemens par
+#facs_40_r3l17 ticuliers, ils seront marqués et deposés
+#facs_40_r3l18 comme ci-dessus.
+#facs_40_r3l19 Les publics qui n'auront qu'une pompe
+#facs_40_r3l20 et plus de quarante menages, auront en sus
+#facs_40_r3l21 des Crochets attachés à leur pompe, le
+#facs_40_r3l22 nombre présorit par l'article précédent à
+#facs_40_r3l23 chaque lieu, à raison de ses habitans
+#facs_40_r3l24 Il y aura dans chaque village deux
+#facs_40_r3l25 grandes ébelles à bras, de quarante pieds
+#facs_51_r1l1 94.
+#facs_41_r2l1 de haut, deux moyennes, deux grands
+#facs_41_r2l2 crois soit crochets de fer avec leurs perches,
+#facs_41_r2l3 quatre petits dits avec des perches de six
+#facs_41_r2l4 pieds de long, une lanterne, le tout appar
+#facs_41_r2l5 tenant au public & deposé en lieu sur
+#facs_41_r2l6 & connu sans faire entrer en ligne de compte
+#facs_41_r2l7 ce que les particuliers possèdent ou sont
+#facs_41_r2l8 tenus d'avoir en effets de ce genre
+#facs_41_r2l9 Les jeunes gens non-mariés ainsi que
+#facs_41_r2l10 les Couvreurs, Charpentiers & Maçons de
+#facs_41_r2l11 chaque lieu, seront tenus de courir au
+#facs_41_r2l12 fui toutes fois que l'incendie sera assez
+#facs_41_r2l13 à portée d'eux, pour pouvoir y portez du
+#facs_52_r2l16 Strafe der Confiscation und einer
+#facs_41_r2l15 un homme sage & d'autorité pour les y
+#facs_41_r2l16 conduire, et pour les y diriger.
+#facs_41_r2l17 Les Villes & Bourgs considérables
+#facs_41_r2l18 regleront ces secours à proportion du
+#facs_41_r2l19 nombre de leurs habitans.
+#facs_41_r2l20 Ordre à observer en cas
+#facs_41_r2l21 d'Incendie
+#facs_361_r3l4 hüten werden, deßen jedermann
+#facs_41_r2l23 des indicates certains de feu, dans le lieu
+#facs_323_r1l1 herr  630
+#facs_41_r3l2 qu'il habite, criera au feu, tâchera d'eveiller
+#facs_41_r3l3 le monde, & sonnera le tocsin
+#facs_41_r3l4 le chef du lieu, ou personne ne sera
+#facs_41_r3l5 préposé particuliérement pour ce fait, posera
+#facs_41_r3l6 quatre hommes armes, désignés d'avance pour
+#facs_41_r3l7 cela, à une distance convenable du feu, afin
+#facs_41_r3l8 que chacun puisse y deposer ses effets en
+#facs_41_r3l9 fûrete
+#facs_41_r3l10 NB. Dans les Villes & Bourgs considérables,
+#facs_41_r3l11 cette garde fera plus forte.
+#facs_41_r3l12 Il disposera le monde de la façon la plus
+#facs_41_r3l13 convenable, pour porter le meilleur secours
+#facs_41_r3l14 possible à l'endroit incendié, il dirrigera &
+#facs_41_r3l15 placera les voisins qui accourent au secours
+#facs_41_r3l16 il fera le meilleur usage qui dépendra de lui,
+#facs_41_r3l17 des pompes, échilles & astensiles qui seront à
+#facs_41_r3l18 disposition, & usera de tous les moyens, que
+#facs_41_r3l19 lui suggéreront sa prudence & son zéle pour
+#facs_41_r3l20 le bien public & particulier
+#facs_41_r3l21 Si l’incendie est hors du lieu, on se conten¬
+#facs_41_r3l22 tera, dès qu’elle sera apperçue de sonner,
+#facs_41_r3l23 le toesin, & de reveiller le monde, sans crier
+#facs_22_region_1633454541156_2886l1 Au
+#facs_41_r3l25 A cette allarme, la jeunesse destinée à
+#facs_15_region_1633454385876_2820l8 46
+#facs_42_r2l1 courir au feu, s'assemblera tout de suite au
+#facs_42_r2l2 lieu ou sera deposé la pompe, ou les
+#facs_42_r2l3 ustensiles preparés pour les cas d'incendie.
+#facs_42_r2l4 & des qu'ils seront en nombre, ils s'empresseront
+#facs_42_r2l5 de courir, sous la conduite de leur chef, au
+#facs_42_r2l6 secours des malheureux; ils prendront avec
+#facs_42_r2l7 eux la lanterne, les petits crocs, et les
+#facs_42_r2l8 brochets, dans les lieux ou il y a des
+#facs_42_r2l9 pompes, elles seront aussi conduites aux
+#facs_42_r2l10 secours des incendiés, & l'a où il n'y aura
+#facs_42_r2l11 point de cheval qui y soit attaché, le premier
+#facs_42_r2l12 a qui on en demandera un sera obligé de
+#facs_42_r2l13 le donner
+#facs_42_r2l14 Dans les tems d'orages on ne fortira
+#facs_42_r2l15 point les pompes des lieux où il y en a,
+#facs_42_r2l16 et on ne donnera les autres secours qu’avec
+#facs_42_r2l17 la réserve et la prudence nécessaire, pour
+#facs_42_r2l18 ne pas s'en trouver destitué Soi même, en
+#facs_42_r2l19 cas de malheur
+#facs_42_r2l20 Les amendes ci-devant fixées seront données
+#facs_42_r2l21 entieres à ceux qui indiqueront les contre-
+#facs_42_r2l22 venant au present reglement.
+#facs_42_r2l23 Nous Nous promettons de l'esprit
+#facs_42_r2l24 d'humanité que Nous savons animés Noire
+#facs_8_r2l3 25
+#facs_42_r3l2 sujets les uns envers les autres, qu'ils obser¬
+#facs_42_r3l3 veront la présente Ordonnance, qui a si
+#facs_330_r3l14 particulierement dans les mou-
+#facs_42_r3l5 et dans laquelle ils ne sauroient méconnoitre
+#facs_42_r3l6 Notre vigilence & Notre attention particuliere
+#facs_42_r3l7 pour tout ce qui peut assurer leur bonheur
+#facs_42_r3l8 Donne ce 28 Mai 1783
+#facs_48_r3l25 Chancellerie de Berne
+#facs_42_r3l10 An alle
+#facs_42_r3l11 7. und W. Herren Amtleut, 4. Städt
+#facs_115_r2l20 FreyWeibel und Amann
+#facs_42_r3l13 Erin Ferien
+#facs_42_r3l14 Den Anfang
+#facs_198_r3l20 Schultheis und Raths.
+#facs_42_r3l17 der heurigen Ern. Ferien, haben Wir
+#facs_42_r3l18 auf den 10ten July und deren Ende bis
+#facs_42_r3l19 auf den 10ten Augl. nächstkäuftig bestimmt,
+#facs_42_r3l20 ins dessen Euch berichten wollen, mit Befelg
+#facs_42_r3l21 während dieser Zeit keine andere dann
+#facs_42_r3l22 nothdringende Geschäfte, vor uns und
+#facs_42_r3l23 Unsere verordnete Cammeren und Tribunalia
+#facs_228_r3l16 gelangen zu laßen.

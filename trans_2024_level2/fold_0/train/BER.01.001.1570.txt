@@ -1,0 +1,45 @@
+Law ID: BER.01.001.1570
+Name: Umb ihr ussgesecklet Reissgelt vertrösten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 34/34
+# High similarity (>=50%): 34
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_299_r3l13 Biblisburg, Patterlingen, Milden,
+#facs_299_r3l14 Oron, Romainmostier, Iffer den
+#facs_299_r3l15 Sifürderlichster befindigung vmb Ihr Vß gesecklet,
+#facs_299_r3l16 Reißgell Vertrösten
+#facs_299_r3l17 Schuldtheiß vndt Raht der Statt Bern
+#facs_299_r3l18 Vnsere gnedige Intention vnd bestendige geneigt
+#facs_299_r3l19 Willigkeit gegen Vnseren Lieben getreuwen angehörigen Vnder¬
+#facs_299_r3l20 thanen Weltschen Landts, so in Jungst vorgangnem rebellion Wesen
+#facs_299_r3l21 aus gehorsamlich zugezogen, zebtzungen, habend wir die be¬
+#facs_299_r3l22 tellung vndt verordnung gethan, daß den einen Vnd anderen
+#facs_299_r3l23 Ihres Vßgeseckleten reißgelts halb, die weitere gebür vndt
+#facs_299_r5l1 gnedig versprochene wider einsecklung, ehist wider fahren solle
+#facs_299_r5l2 -79
+#facs_299_r5l3 maßen wir im werk, durch Vnseren fürgeliebten Mitraht, Hern Bauw
+#facs_299_r5l4 Vndt Zalherren von Graffenried, dem See nach hinder selbigen
+#facs_299_r5l5 Ämbteren den anfang thun laßend, Vndt darby gutfunden dich abße
+#facs_299_r5l6 Leuerständigen, damit zu deme Ambtsangehorigen deßen advisieren
+#facs_299_r5l7 Vndt deß baldesten müglichen ernolgs in gleichem Vndt hiemit Vnsern
+#facs_299_r5l8 benmeßigen guten gnedigen Vndt geneigten willens vertrösten söllest,
+#facs_299_r5l9 deß Versichens sie hierwiderumb In continuarion aller gebürenden
+#facs_299_r5l10 schuldigen gehorsame fortsetzen, Vndt sie also mit fürteren gnaden an¬
+#facs_299_r5l11 gesehen, vns Jederweiligen anlaß zugeben, sich befleißen werdind: dich
+#facs_299_r5l12 Darmit Gott wol empfelchende. Datt. 17. May 1655
+#facs_299_r5l13 An Lille Teütsche Amtleüt
+#facs_299_r5l14 Beschreibung vff Ihre Rechnungen
+#facs_299_r5l15 Schuldtheiß vndt Raht der Statt Bern.
+#facs_299_r5l16 Wir habend dir zwar zur Ablegung deiner Ambts¬
+#facs_299_r5l17 Rechnung vor Vnseren Furgeliebten Miträhten Teutsch Sekelmeister
+#facs_299_r5l18 vndt Venneren tag bestimbt Vndt ernamset den o. Julii, Weilen aber
+#facs_299_r5l19 dieselben mit anderwertig Vnuermeidenlichen gescheffen occupiert, Alß
+#facs_299_r5l20 habendt wir solche Rechnungs-ablegung, in enderung obigen Tags, vff
+#facs_299_r5l21 Acht tag lang prolongiert, Mit befelch hiemit an dich, solchen tag denzu-
+#facs_299_r5l22 malen ohnfelbarlich nach fernerem Inhalt vnsers vorgehnden zobesuchen
+#facs_299_r5l23 deßen wir dich zur wahricht verstendigen wollen. Datum 18 Junii 1655.

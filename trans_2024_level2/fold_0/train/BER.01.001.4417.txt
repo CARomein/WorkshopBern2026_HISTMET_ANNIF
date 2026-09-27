@@ -1,0 +1,77 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 69/70
+# High similarity (>=80%): 67
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4417
+#facs_25_region_1628255495413_296l_5 Wegen aufzuschicken und zu verbaufenden Getreids¬
+#facs_3_region_1628102450149_34l_1 An
+#facs_256_r2l2 Alle Teütsche Herren Amtleut und Schaffner¬
+#facs_25_region_1628255495413_296l_3 Oberkeitliches Getreid ligt, denn alle Weltsche
+#facs_25_region_1628255495413_296l_4 Herren Amtleut mit Ausnahm Viris
+#facs_25_region_1628255495413_296l_5 Wegen aufzuschicken und zu verbaufenden Getreids¬
+#facs_90_r2l5 Schultheiß Räht und Burgers.
+#facs_25_region_1628255517333_308l_2 Nachdeme uns von Unseren Fürgeliebten Mit Räh¬
+#facs_25_region_1628255517333_308l_3 ten denen Herren Teutsch Sebelmeister und Venieren
+#facs_25_region_1628255517333_308l_4 Weltsch
+#facs_243_r3l9 und Unser verordneten KornCämmer, über die
+#facs_25_region_1628255517333_308l_6 nation des auf Martini 1773. eingegangenen
+#facs_25_region_1628255517333_308l_7 Obrigkeitlichen Getreids, der Vortrag geschehen,
+#facs_25_region_1628255517333_308l_8 haben Wir erbent: Daß alles dasjenige was nach
+#facs_25_region_1628255517333_308l_9 Abzug der Ordinari- und Extra-Ordinarij-Ausgaben,
+#facs_25_region_1628255517333_308l_10 wie auch deßen was Eüer Contingent auf dem
+#facs_25_region_1628255517333_308l_11 restierenden Betragen mag, so wohl an Winter¬
+#facs_25_region_1628255517333_308l_12 als Sommerfrüchten von dem auf Martini 1773
+#facs_25_region_1628255517333_308l_13 eingegangenen Obrigkeitlichen Getreid noch
+#facs_25_region_1628255517333_308l_14 übrig, und dabey zum Aufschütten von erfor¬
+#facs_25_region_1628255517333_308l_15 derlicher Qualitet seyn wird, zu ferner weiten
+#facs_25_region_1628255517333_308l_16 wider Ergänzung daß von uns jeden Orts¬
+#facs_26_region_1628255617061_325l1 42.
+#facs_26_region_1628255640706_334l1 bestimten Oberbeitlichen Getreid=Vorrahts ange¬
+#facs_26_region_1628255640706_334l2 bendet und aufgeschüttet werden solle
+#facs_26_region_1628255640706_334l3 Was dann dasjenige Obrigkeitl. Getreid betrifft,
+#facs_26_region_1628255640706_334l4 so nach wider Ergänzung des unter Eüerer Direc¬
+#facs_26_region_1628255640706_334l5 tion stehenden Getreid=Vorrahts, und nach Bestreib¬
+#facs_26_region_1628255640706_334l6 tung der Ordinarii- und Extra=Ordinay ausgaben
+#facs_26_region_1628255640706_334l7 allfählig von eint- oder anderer Gattung annoch¬
+#facs_26_region_1628255640706_334l8 übrig bleiben wird: So ist deßthalb Unser Wille und Behr
+#facs_26_region_1628255640706_334l9 Da Euer Amt nicht unter dem Reglement stehet.
+#facs_26_region_1628255640706_334l10 daß ohne Obrigkeitl. Bewilligung Ihr von dem Vor¬
+#facs_26_region_1628255640706_334l11 o
+#facs_26_region_1628255640706_334l12 schießenden Getreid nichts verbauffen dörffet; So
+#facs_26_region_1628255640706_334l13 überlaßen Wir Euch, das allenfahls noch vorschies¬
+#facs_26_region_1628255640706_334l14 sende Getreid nach gutfinden zu versilberen, und Uns
+#facs_26_region_1628255640706_334l15 darfür Rechnung zu tragen:
+#facs_26_region_1628255640706_334l16 Daß für einmahl, und biß auf Unseren weiteren
+#facs_26_region_1628255640706_334l17 bestimten Befehl, kein Weyzen verbaufft, das
+#facs_26_region_1628255640706_334l19 von Mischelkorn aber nur zur Helffte, hingegen dann
+#facs_26_region_1628255640706_334l20 Die Sommer Früchte in pleno versilberet werden.
+#facs_26_region_1628255640706_334l21 Daß von denen Winter Früchten für einmahl
+#facs_26_region_1628255640706_334l22 und biß auf Unseren weiteren bestimten Befehl
+#facs_26_region_1628255640706_334l23 /: ausgenommen auf denen Amteren da Mischel
+#facs_26_region_1628255640706_334l24 sorn sich befindt) nichts verbaufft, das Mischel vom
+#facs_26_region_1628255640706_334l25 aber nur zur Helffte, hingegen dann die Sommer
+#facs_26_region_1628255640706_334l26 Früchte in pleno versilberet werden; alles jedennoch
+#facs_26_region_1628255621593_328l1 43.
+#facs_26_region_1628255630581_331l1 in dem Verstand, daß in ansehen deß zu
+#facs_26_region_1628255630581_331l2 verkauffenden Getreids, die gewohnlichen Prae¬
+#facs_26_region_1628255630581_331l3 cautionen genommen, zumahlen solches Getreis¬
+#facs_255_r2l20 nur zu kleinen kaufen hinzugeben; Maßen
+#facs_26_region_1628255630581_331l5 frücht dann in Specie vorzüglich zu Anblichenung.
+#facs_26_region_1628255630581_331l6 der Felderen hingegeben, und erst danzumalen
+#facs_26_region_1628255630581_331l7 völlig abgestoßen werden sollen, wann die Sommer
+#facs_26_region_1628255630581_331l8 Saat in Euerem Amt, und in denen Gegenden
+#facs_26_region_1628255630581_331l9 von welchen der Saamen darzu in demselben
+#facs_26_region_1628255630581_331l10 angekauft wird, vollbommen besorget seyn wird;
+#facs_26_region_1628255630581_331l11 Damit aber bey diesem Verkauf das mindest
+#facs_26_region_1628255630581_331l12 behältliche Getreid abgestoßen werde; So haben
+#facs_26_region_1628255630581_331l13 Wir Eingangs vermelt Unseren Fürgeliebten
+#facs_26_region_1628255630581_331l14 Mit Rähten denen Herren Teutsch Sebelmeister
+#facs_26_region_1628255630581_331l15 Sseltsch
+#facs_26_region_1628255630581_331l16 und Venneren aufgetragen, Euch zu dem Ende
+#facs_26_region_1628255630581_331l17 die Schückenen zu benamsten, welche verbaufft
+#facs_26_region_1628255630581_331l18 werden sollen. Welchemnach Ihr Euch zu ver¬
+#facs_26_region_1628255630581_331l19 halten wüßen werdet. Dat. d. 9ten Febr. 1774.
+#facs_24_region_1628255397587_277l11 en

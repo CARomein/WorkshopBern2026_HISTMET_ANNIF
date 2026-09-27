@@ -1,0 +1,49 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 41/42
+# High similarity (>=80%): 40
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4481
+#facs_164_r2l12 Getreid zu verkauffen Ihnen anbefohlen,
+#facs_3_region_1629374296225_399l1 An
+#facs_164_r2l10 Alle Teütsche Herren Amtleieth und Schaffnern
+#facs_164_r2l11 wo Obrigkeitl. Getreid ist
+#facs_164_r2l12 Getreid zu verkauffen Ihnen anbefohlen,
+#facs_70_r4l17 Schultheiß Räht und Burger
+#facs_164_r2l14 auf den uns wiedermahl von seiten Unserer
+#facs_164_r2l15 fürgeliebten Mit Rähten der Herren
+#facs_164_r2l16 Deutsch Sekelmeister und Venneren, un¬
+#facs_164_r2l17 Unserer verordneten Korn Cammer, über die
+#facs_164_r2l18 fernere Bestimmung des auf Martini 1779
+#facs_164_r2l19 eingangenen Origkeitlichen Getreids beschehen
+#facs_164_r2l20 nen Vortrags, haben wir erkent: daß vo¬
+#facs_164_r2l21 nun an die noch übrig bleibende helfte ver¬
+#facs_164_r3l1 NB: das minderstriche
+#facs_164_r3l2 er Wort die sel bleibt
+#facs_164_r3l3 im W. Landans
+#facs_164_r1l5 Welsch
+#facs_23_r1l1 42.
+#facs_164_r4l2 allem Roggen und Mischeborn, denne alles
+#facs_164_r4l3 Dinbels und Weizen, so nach Abzug der Ordinarii,
+#facs_125_r2l21 und quasi ordinari Ausgaben, von sothanem
+#facs_164_r4l5 Obrigkeitlichen Getreis vorschießen wird, ver¬
+#facs_164_r4l6 silberet werden solle. Alles jedenoch in dem
+#facs_164_r4l7 verstand, daß in Ansehen dieser Verkauffen¬
+#facs_164_r4l8 den Früchten, die Verzeigung der Schüttenen
+#facs_164_r4l9 von seiten Unserer für geliebten Mit Rähten
+#facs_164_r4l10 der Herren Teutsch sekelmeister und Venner
+#facs_164_r4l11 erwartet, dabey dann die gewöhnlichen præca¬
+#facs_164_r4l12 tionen genommen, mithin das versilberende
+#facs_164_r4l13 Getreid nur nach und Nach und zu kleinen
+#facs_164_r4l14 Kaufen verbaufft, zumahl an denen Orten
+#facs_164_r4l15 da Märiten sich befinden, vorzüglich zu der
+#facs_164_r4l16 selben speisung verwendte und von denen
+#facs_164_r4l17 angewiesenen Schottenen vor allem aus¬
+#facs_164_r4l18 das mindest behaltliche Getreid abgestoßen
+#facs_164_r4l19 werde. Welchemnach Ihr Euch zu verhalten
+#facs_164_r4l20 und über das erlösende uns Rechnung¬
+#facs_116_r3l10 zu tragen.
+#facs_164_r4l22 den 5ten Juny 1780.
+#facs_178_r8l1 en

@@ -1,0 +1,67 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 59/60
+# High similarity (>=80%): 52
+# Low similarity (<80%): 7
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4445
+#facs_48_region_1628873139811_91l1 Obid:
+#facs_103_r10l1 a
+#facs_324_r4l10 Alle Weltsche Herren Amtleit mit Ausnahm Lausanne,
+#facs_324_r4l11 Bonmont, Chillon, Ahlen, Aubonne, und Schaffner zu
+#facs_13_region_1628104135649_107l1 Neüenstatter Wein.
+#facs_48_region_1628873139811_91l1 Obid:
+#facs_148_r3l7 Schultheiß Räht und Burger.
+#facs_324_r4l15 Unsere Fürgeliebte Mit Rähte die Herren Weltsch
+#facs_320_r2l6 Sekelmeister und Venneren, und Unserer
+#facs_324_r4l17 KornCammer haben und über die ferner weite Dispo¬
+#facs_324_r4l18 sition des auf Martini 1775. eingegangenen
+#facs_324_r4l19 Obrigkeitlichen Getreids den Vortrag erstachet.
+#facs_324_r4l20 Woraufhin Wir erbent: daß alles dasjenige
+#facs_324_r4l21 so nach Abzug der Ordinaris, und extra Ordinarii Aus¬
+#facs_324_r4l22 gaben, wie auch deßen was Eüer Contingent auf
+#facs_324_r4l23 dem Restierenden betragen mag, von denen im
+#facs_324_r4l24 ferndrigen Jahr auf Martinj eingegangen seyn
+#facs_325_r1l1 640.
+#facs_325_r1l2 2 und mithin mit der
+#facs_325_r1l3 restieranden Roggen
+#facs_325_r1l4 bestmöglich wennig
+#facs_325_r1l5 an müßen abgestost
+#facs_325_r1l6 werden alles jedoch
+#facs_325_r1l7 an verstand, daß dabei
+#facs_325_r2l1 sollenden Obrigkeitlichen Winter-Früchten
+#facs_325_r2l2 darüber wir nichts bereits sub 4ten Marty
+#facs_325_r2l3 lezthin disponiert, sich noch vorfinden wird,
+#facs_325_r2l4 /: an Romainmötier und Wiblispurg allein.
+#facs_244_r3l17 zu fernerer wider ergänzung daß von uns auf
+#facs_325_r2l6 Eünrem Amt an Waizen bestimten Obrigkeitl.
+#facs_325_r2l7 Getreid-Vorrahts angewandt werden solle)
+#facs_325_r2l8 /: An Romainmotier allein, mit Ausnahm
+#facs_325_r2l9 jeden noch jeniger 40. Säben Waizen so von
+#facs_325_r2l10 dem Zehnden zu Orbe eingegangen, und
+#facs_325_r2l11 ausgewachsten sind) abgestoßen und besittlöglich
+#facs_325_r2l12 dersilberet werden sollen; In dem Verstand
+#facs_325_r2l13 jedenoch daß
+#facs_325_r2l14 1o Der noch vorhandene Roggen so wohl als die
+#facs_325_r2l15 gersten unter nach vermelten Praecactionen von
+#facs_325_r2l16 nun an völlig, von dem Waizen aber biß zu
+#facs_325_r2l17 der Ernd-Zeit, jeden Orts, nur die Helffte, und
+#facs_325_r2l18 nachbehrts erst die andere Helffte Verkaufft
+#facs_127_r5l15 werde.
+#facs_324_r2l16 2o Bey Abstoßung des samtlichen Winter¬
+#facs_325_r2l21 gewächses, die gewöhnlichen Vorsorgen genommen,
+#facs_325_r2l22 mithin das Versilberende nur zu bleinen
+#facs_325_r2l23 Kaufen hingegeben- und vorzüglich nur die
+#facs_325_r2l24 mindest behältlichste Frucht abgestoßen werde,
+#facs_55_region_1629372503563_176l1 gl
+#facs_325_r4l1 641
+#facs_325_r4l2 zu welchem End Wir Eingangs vermelt Unseren
+#facs_257_r2l2 fürgeliebten Mit Rähten denen Herren Teütsch
+#facs_320_r2l6 Sekelmeister und Venneren, und Unserer
+#facs_325_r4l6 überlaßen, Euch die Schüdtenen zu benamfen;
+#facs_325_r4l7 deßen Ihr berichtet werdet mit befelch, Euch
+#facs_325_r4l8 demenach zu verhalten, da übrigens Ihr Uns¬
+#facs_324_r4l7 über das erlösende seines Orts Rechnung tragen
+#facs_325_r4l10 berdet. Dat. den 31ten May 1776.
+#facs_24_region_1628255397587_277l11 en

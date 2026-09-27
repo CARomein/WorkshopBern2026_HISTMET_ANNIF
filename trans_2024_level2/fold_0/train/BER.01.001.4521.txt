@@ -1,0 +1,81 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 74/74
+# High similarity (>=80%): 66
+# Low similarity (<80%): 8
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_301_r4l8 Die Drukung und Debitierung der Brochures,
+#facs_46_r3l21 c
+#facs_3_region_1629374296225_399l1 An
+#facs_301_r4l3 Die 7 und W. H. Amtleut, wo Städte
+#facs_301_r4l4 Sich befinden, Item an die 4 Ärganischen
+#facs_301_r4l5 Stadt Sepp: Dennen P. Gedel an
+#facs_301_r4l6 Mehlohlen. die Schul Räth, und Herrn
+#facs_301_r4l7 Broßbeibel
+#facs_301_r4l8 Die Drukung und Debitierung der Brochures,
+#facs_301_r4l9 ansehend die Genferischen Mißhelligkeiten
+#facs_301_r4l10 wie auch die wegen den Fryburgischen Unruhen
+#facs_301_r4l11 unter einer Straff von 50. Thaleren
+#facs_65_r2l3 verbotten seyn.
+#facs_260_r3l7 Es hat der
+#facs_140_r2l24 Schultheis
+#facs_301_r4l15 Rath zu Benf, nach wieder erhaltener
+#facs_301_r4l16 authoritaet, als eine der nöthigen Maas¬
+#facs_301_r4l17 reglen, weiteren Verbitterungen vor¬
+#facs_301_r4l18 zukommen, gut gefunden, den Druk
+#facs_301_r4l19 so wie auch den Verkauf oder die
+#facs_301_r4l20 Austheilung aller Brochures, die
+#facs_301_r4l21 Mißhelligkeiten von Genf betreffens, zu
+#facs_301_r4l22 verbieten.
+#facs_301_r4l23 Damit aber diese gemachte Verfügung
+#facs_301_r4l24 von desto größener Wirksamkeit seye,
+#facs_301_r4l25 hat derselbe, durch Unsere auf dem allda
+#facs_301_r4l26 sich haltenden Friedens Congress sich befindliche
+#facs_41_r4l3 a-
+#facs_27_r1l54 1.
+#facs_36_r3l1 69
+#facs_302_r2l1 fürgeliebte Mit Rath und Bevollmächtigte
+#facs_302_r2l2 Uns freundnachbarlich ersuchen laßen,
+#facs_302_r2l3 daß Wir unter gut findender Straffe
+#facs_302_r2l4 nicht allein die gleiche Verfügung in
+#facs_302_r2l5 Unseren Landen treffen - sondern
+#facs_302_r2l6 auch Uns, in eben dieser Absicht, bey
+#facs_302_r2l7 Unsern Benachbarten verwenden
+#facs_196_r6l3 noch
+#facs_302_r2l9 Wann nun Wir, durch das Vergangen
+#facs_302_r2l10 von den schadlichen und gefährlichen
+#facs_302_r2l11 Folgen dergleichen Schriften, und von
+#facs_302_r2l12 der Nothwendigkeit, solchen für die Zubonft
+#facs_302_r2l13 kräftigen Inhalt zu thun, überzeuget
+#facs_302_r2l14 sind; So haben wir dem lobln. Rath zu
+#facs_302_r2l15 Bens hierunter Freundnachbarlich zu
+#facs_302_r2l16 entsprechen keinen Anstand genommen
+#facs_302_r2l17 und befehlen demnach Erch /: gleich anders
+#facs_302_r2l18 Unseren Amtleuten die es berühren
+#facs_302_r2l19 mag) aller Orten wo es nöthig seyn
+#facs_302_r2l20 wird, bekant machen zu laßen, daß Wir
+#facs_302_r2l21 nicht allein den Druk, so wie auch den
+#facs_302_r2l22 Verkauf oder die Austheillung aller
+#facs_165_r3l1 oll.
+#facs_257_r3l1 603
+#facs_302_r4l2 Brochures. Die Benferischen Mißhelligkeiten
+#facs_302_r4l3 betreffend, bey einer aufgesetzten Straf
+#facs_302_r4l4 von Funfzig Thaleren von jedem, der
+#facs_302_r4l5 dergleichen Brochures zum Druk befördern
+#facs_302_r4l6 oder Debitieren wurde, verbocken
+#facs_302_r4l7 haben; Sondern daß Wir aus hin¬
+#facs_302_r4l8 länglichen Gründen zugleich auch gut
+#facs_302_r4l9 gefunden, dieses Verbort, unter dem
+#facs_302_r4l10 nemlichen Poenale, auf alle die Brochures
+#facs_302_r4l11 auszudehnen, welche wegen denen in lobl.
+#facs_302_r4l13 Canton Fryburg vorgewalteten Unruhen
+#facs_302_r4l14 zum Vorschein kommen möchten.
+#facs_124_r2l23 Wie zuthun
+#facs_302_r4l16 Aus gemachten Verbodt genau gehalten
+#facs_302_r4l17 werde, Wir Uns zu Euch versehen
+#facs_302_r4l18 zu welchem End Ihr solches nachrichtlich
+#facs_302_r4l19 einschreiben laßen werdet. Datl. den 9.
+#facs_24_r6l9 Sept
+#facs_178_r8l1 en

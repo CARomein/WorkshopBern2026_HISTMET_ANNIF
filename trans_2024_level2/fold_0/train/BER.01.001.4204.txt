@@ -1,0 +1,44 @@
+Law ID: BER.01.001.4204
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 33/33
+# High similarity (>=80%): 28
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_156_r5l23 An die H. Amtleut im Emmenthal und Argäub sep. Solte
+#facs_156_r5l24 dann Eüch in fernerem etwas hierüber zu vernemmen
+#facs_156_r5l25 kommen, als darauf Ihr genau Acht haben berdet
+#facs_156_r5l26 berdet Ihr deßen Unseren geheimen Raht alsogleich
+#facs_156_r5l27 berichten
+#facs_157_r1l1 304.
+#facs_5_r2l1 An
+#facs_157_r1l3 Die H. Amtleüth zu Burgdorf, Wangen, Aarhangen,
+#facs_157_r1l4 Königsfelden, Ripp, Zoffingen Stift und Lenzburg Prof.
+#facs_4_r2l2 Obid
+#facs_57_r4l20 Schultheiß
+#facs_157_r1l7 Indemme Wie von seiten das Löbl. Standes Luiern benach¬
+#facs_178_r4l1 olle
+#facs_157_r1l9 richtet worden, daß alldaselbst eine innerliche Unruh
+#facs_157_r1l10 ausgebrochen, davon zwar die vornemmsten Rädels,
+#facs_157_r1l11 Führer allbereits eingezogen werden, haben Wir
+#facs_157_r1l12 aus Eid, und Bundesgnößischer Pflicht bebogen, diesem
+#facs_157_r1l13 Lobl. Stand mit verbthätiger und schleuniger Hülf an
+#facs_157_r1l14 die Hand zu gehen, Uns sogleich entschloßen, zumahlen
+#facs_157_r1l15 Wir für den ersten Zuzug siben bis acht Tausend Mann
+#facs_157_r1l16 Infanterie und Cavallerie mit der behörigen Artillerie
+#facs_157_r1l17 und aller Zugehörs beordret, deme erforderlichen Fall
+#facs_157_r1l18 ine gleiche anzahl Manschaft folgen soll. Da aber
+#facs_157_r1l19 zu erhaltung dieser Trouppes nöthig seyn bill, die
+#facs_157_r1l20 Unterd. Proviat
+#facs_157_r1l21 vorräthlichen KornMagaerin Euers Amts zu eröfnen;
+#facs_157_r1l22 Herrn der Wasser als werdet Ihr hiemit befelchnet, auf Veranstaltung
+#facs_157_r1l23 et bohrnen Unders großes
+#facs_157_r1l24 Rechts Verbandten
+#facs_22_r6l18 Riglen
+#facs_157_r1l26 Unsers Kriegs-Raths das erforderliche Getreid aus
+#facs_157_r1l27 diesen Magazinen darzugeben, und desthalb eine
+#facs_157_r1l28 exacte Rechnung zu halten. Dat. d. 4. May 1764.

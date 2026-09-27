@@ -1,0 +1,53 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 45/46
+# High similarity (>=80%): 45
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4508
+#facs_222_r2l4 Getreis Vorrath zu verkauffen.
+#facs_3_region_1629374296225_399l1 An
+#facs_263_r5l6 alle weltsche Herren Amtleut, wo Oberkl.
+#facs_263_r5l7 Getreid ligt. Sepp.
+#facs_281_r3l19 Betreid Vorrath zu verkauffen.
+#facs_289_r4l10 Schultheis Rath und Bürger etc.
+#facs_222_r2l8 den von Unseren fürgeliebten Mit Räthen
+#facs_263_r5l11 den Herren weltisch Seketmeister und
+#facs_263_r5l12 Veneren, und Unserer verordneten
+#facs_125_r2l10 KornCammer uns gemachten Vortrag,
+#facs_263_r5l14 betreffend das auf Martini 1781. eingegangen
+#facs_263_r5l15 Obrigkeitliche Betrein, haben Wir gut
+#facs_263_r5l16 befunden und erkent: Es solle von
+#facs_263_r5l17 dem daherigen über den bestimten
+#facs_125_r2l20 vorrath aus, und nach Abzug der ordinari¬
+#facs_263_r5l19 und quasi ordinari Ausgaben, vorschießenden
+#facs_263_r5l20 Obrigkeitlichen Getreid, von den
+#facs_263_r5l21 Winterfrüchten, als Waizen, Roggen
+#facs_263_r5l22 und Mischelborn, für einmal und biß auf
+#facs_263_r5l23 Unseren bestimten weiteren Befehl, nur
+#facs_263_r5l24 die Helfte abgestoßen, hingegen aber
+#facs_32_r5l1 61.
+#facs_264_r2l1 die Sommerfrüchte, als Haber, Bersten und
+#facs_264_r2l2 Paschi, völlig versilberet werden; Wobey
+#facs_264_r2l3 Unser Will uns Befehl in fernerem
+#facs_264_r2l4 dahin gehet: daß in ansehen dieser
+#facs_264_r2l5 verkauffenden Früchten, die Verzeigung
+#facs_125_r3l7 der Schüttenen, von seiten Unserer Fürgel.
+#facs_222_r3l5 Mit Räthen der Herren weltsch Sekel¬
+#facs_264_r2l8 und venmeren erwartet, dabey die
+#facs_264_r2l9 gebohnlichen Praecautionen genommen=
+#facs_264_r2l10 mithin das zu verkaufende Betreid nicht
+#facs_264_r2l11 denen Händleren en bloc versprochen=
+#facs_264_r2l12 sondern nur zu kleinen Kaufen, in
+#facs_264_r2l13 lauffendem Preis verkauft= und von
+#facs_264_r2l14 denen angel diesenen Schuldenen vor allem
+#facs_264_r2l15 aus das mindest behältliche Betreid abge¬
+#facs_264_r2l16 stoßen- ins besonders dan die Sommer=
+#facs_264_r2l17 Früchte vorzüglich zu Anblümung der
+#facs_264_r2l18 Felderen hingegeben werden sollen.
+#facs_222_r3l19 Welchemnach Ihr Euch zu verhalten wißen¬
+#facs_264_r2l20 und über das erlosende uns gebührende
+#facs_264_r2l21 Rechnung tragen werdet. Datum
+#facs_264_r2l22 den 15den Jlarty 1782.
+#facs_178_r8l1 en

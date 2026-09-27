@@ -1,0 +1,36 @@
+Law ID: BER.01.001.3633
+Name: Wegen denen Täufferen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_494
+# Matched: 25/25
+# High similarity (>=80%): 25
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_123_r2l6 An alle ober Ergenwische Ementhe,
+#facs_123_r2l7 lige und Oberländische Amt
+#facs_123_r2l8 Leitich. Item Ifferten, Romain
+#facs_123_r2l9 nistier und Neub¬
+#facs_123_r2l10 wiegen denen Täufferen
+#facs_4_r4l1 Schultheiß und Raht
+#facs_123_r2l12 Wir haben die Nachricht erhalten, daß
+#facs_123_r2l13 Ehe in Ihr Hochfestl. H. Herrn Hochoff ten Collaten
+#facs_123_r2l14 Gesell Landen und in der Graff haft
+#facs_123_r2l15 Neübenburg sich aufhaltende täußt
+#facs_123_r2l16 von der sollen außgemustert und
+#facs_123_r2l17 Vertriben werden, derobegen Wid
+#facs_123_r2l18 Nohtbendig erachtet, deßthalben solche
+#facs_123_r2l19 Vorsorgen vorzubehren, daß selbige
+#facs_123_r2l20 sich nit wider in Unsere Land begebene
+#facs_123_r2l21 und Unsere getreüe Unterthauen bey
+#facs_4_r1l1 2
+#facs_123_r3l2 führend; maßen Wir zu dem End die
+#facs_123_r3l3 hierdurch befehlen wollen, auf die Täußer
+#facs_123_r3l4 genaue Aufsicht zu bestellen, und verfüh¬
+#facs_123_r3l5 renden fehls auf betredten Selbige einigen
+#facs_123_r3l6 zolaßen, deß verhafft Unsere Zäufer mit
+#facs_123_r3l7 er zuberichten, und unser oder deren be¬
+#facs_123_r3l8 felch darüber zu erbarten. Darauf
+#facs_123_r3l9 Juny 1731.

@@ -1,0 +1,34 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 26/27
+# High similarity (>=80%): 25
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4436
+#facs_255_r2l4 Getreid verbauff Ihnen anbefehlen,
+#facs_62_r7l7 de
+#facs_255_r2l2 Die Herren Amtleut zu Königsfelden, Schenbenberg
+#facs_255_r2l3 Biberstein, Boitstadt und Lenzburg
+#facs_255_r2l4 Getreid verbauff Ihnen anbefehlen,
+#facs_90_r2l5 Schultheiß Räht und Burgers.
+#facs_255_r2l6 In Betrachtung der vielen Inconvenienzen, welche
+#facs_255_r2l7 sich bey fernerem Verzug der Abstoßung des
+#facs_255_r2l8 vorschießenden Obrigkeitl. Kernens vorfinden
+#facs_255_r2l9 können; haben wir auf den Uns desthalb von
+#facs_255_r2l10 Unseren fürgeliebten Mit Rähten den Herren
+#facs_255_r2l11 Teutsch Sekelmeister und Venneren gemachten
+#facs_255_r2l12 Vortrag, Euch, (gleich wie gegen andere Unsere
+#facs_255_r2l13 in gleichem fall sich befindtliche Amtleüthe geschehen)
+#facs_255_r2l14 mit befehlen wollen, allen den Kernen
+#facs_255_r2l15 so unter Eüerer Direction stehen, und über die
+#facs_319_r2l23 der Ordinari, und Quasi=Ordinari=Ausgaben
+#facs_255_r2l17 schießen mag, ehest möglich abzustoßen, und zu
+#facs_255_r2l18 versilberen, darbey aber jedennoch die gewöhnliche
+#facs_255_r2l19 praecautionen zu beobachten, und mithin solchen
+#facs_255_r2l20 nur zu kleinen kaufen hinzugeben; Maßen
+#facs_255_r2l21 geschehen, und daß für das daraus erlösende
+#facs_255_r2l22 Uns gebührende Rechenschaft getragen werde,
+#facs_255_r2l23 Wir uns bestens zu Euch versehen. Datl. den
+#facs_255_r2l24 5th May 1775
+#facs_24_region_1628255397587_277l11 en

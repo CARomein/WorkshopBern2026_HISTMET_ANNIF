@@ -1,0 +1,142 @@
+Law ID: BER.01.001.3049
+Name: Die Capitulhaltung aussschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 131/131
+# High similarity (>=50%): 129
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_213_r4l16 An Thun, Oberhoffen, Interlaken,
+#facs_213_r4l17 Undersern, Frutingen, Wimmiß, Signauw,
+#facs_213_r4l18 Brandiß, Trachellwald, Sinnswald,
+#facs_213_r4l19 Büres, Burgdorf, Wngen, Pentzburg,
+#facs_213_r4l20 Lauchtshuth f Hem Stglen, Wichtrach,
+#facs_213_r4l21 und Stettlen.
+#facs_213_r4l22 Sohne
+#facs_213_r4l23 An alle K. Ambtleüth: Item Zoffingen
+#facs_213_r4l24 und Gottstatt.
+#facs_213_r4l25 Die Capitul Haltung ausschreiben
+#facs_213_r4l26 Schultheiß und Rath der Statt Bern
+#facs_213_r4l27 Auf die gewohnte Zeith habendt wir die
+#facs_213_r4l28 haltung der Capitlen anbefohlen, dich aber bey
+#facs_213_r4l29 deiner pflicht ernstmeinend hiemit vermah
+#facs_213_r4l30 Eindangesung
+#facs_213_r4l31 nen wollen, deines Theils.
+#facs_214_r1l1 1414
+#facs_214_r1l2 Collatl.
+#facs_214_r2l1 aller anderen geschafften demselben ohn-
+#facs_214_r2l2 fehlbahrlich beyzuwohnen, und ohngeschochen Tap¬
+#facs_214_r2l3 fere Handt obzuhallten, daß niehmand
+#facs_214_r2l4 nichts nachgeschen, und alles so der wichtig¬
+#facs_214_r2l5 keit den Actis Eingebracht werde. Dach
+#facs_214_r2l6 d. 24 Marty 1711
+#facs_214_r2l7 Obidem
+#facs_214_r2l8 An die Hl. Decanus auffem Landt¬
+#facs_214_r2l9 Schultheiß und Rath der Statt Ver
+#facs_214_r2l10 Dieweilen Er an der Zeith die Jährlichen
+#facs_214_r2l11 Capitul und Examina über Eint und
+#facs_214_r2l12 Andere Kirchen Diener Anzustellen
+#facs_214_r2l13 und darbey zu verhandlen, was bey den¬
+#facs_214_r2l14 selbigen tractiert werden solle; Alls
+#facs_214_r2l15 werdet ihr hiemit ermahnt die
+#facs_214_r2l16 Anstalltin Eüwerem Bezirkh zuthun
+#facs_214_r2l17 dasselbige gewohnter Zeith zu recht
+#facs_214_r2l18 beruffen, die Jenigen sodarzu gehören
+#facs_214_r2l19 lingladen, und alles ordentlich, wie sich
+#facs_214_r2l20 gebührt, verhandllet, auch alles
+#facs_214_r2l21 daran etwas gelegen oder sonsten
+#facs_214_r2l22 zu erinneren sein wirdt, in die Acte
+#facs_214_r2l23 gebracht were, seyind hiemit göttli¬
+#facs_214_r2l24 cher Obhuth wohl erlaßen. Datum
+#facs_214_r2l25 den 24 Marty 1711
+#facs_214_r4l1 415
+#facs_214_r4l2 Thun, Wimiß. Prütingen, Oberso¬
+#facs_214_r4l3 Den, Signauw, Trochselwald, Gran¬
+#facs_214_r4l4 Diß, Sunnstwald, Rüren, Burgdorff,
+#facs_214_r4l5 Landts Huth, Zuchsee, Arburg, Leich,
+#facs_214_r4l6 burg. Item Stattgricht, Freywei¬
+#facs_214_r4l7 bell und Amman
+#facs_214_r4l8 Wegen vorstehender Emigration der
+#facs_214_r4l9 käuferen Bericht Einhohlen
+#facs_214_r4l10 Schultheis und Rath der Statt Bern,
+#facs_214_r4l11 Weilen die zur Emignation der Täußeren
+#facs_214_r4l12 Alls will
+#facs_214_r4l13 u
+#facs_214_r4l14 bestimbte Zeith Herzu nachet;
+#facs_214_r4l15 Und zu wußen höchst nöthig seyn, wie weith
+#facs_214_r4l16 das bekante Tauffergschäfft auff dem Land
+#facs_214_r4l17 würklich vorthgeruket; Und wollend
+#facs_214_r4l18 Demenach Dir s: gleich Etwelchen andere
+#facs_214_r4l19 Unseren Ambt Leüthen) Befohlen haben,
+#facs_214_r4l20 Unserer verordneten Leüffer Cammeren -
+#facs_214_r4l21 denen daher habenden Bericht fürder¬
+#facs_214_r4l22 lichst Zeüberschreiben, und dieselbe zu be¬
+#facs_214_r4l23 nachrichten ob, und was für Töuffer sich
+#facs_214_r4l24 Bey dir seith Jüngst Publiciertem Mandat
+#facs_214_r4l25 zu wieder Bezeüchung Ihrer Mitlen, und richtig
+#facs_214_r4l26 machung Ihrer sachen würklich angemeldet
+#facs_214_r4l27 und sonsten In deinem Ambt befinden
+#facs_214_r4l28 und sich zur abreiß rüsten möchtend, Dennen
+#facs_214_r4l29 so sich dieser Leüthen halb etwelche Casus
+#facs_215_r2l1 zu tragen thäten, so in obgemelten
+#facs_215_r2l2 Jüngst publicierten Mandat nicht hei¬
+#facs_215_r2l3 Der Erleuteret und allso Etwelche an¬
+#facs_215_r2l4 stöß mitführen möchtend; Alls wirst¬
+#facs_215_r2l5 du gleichmäßig hiemit befelchnet
+#facs_215_r2l6 jöthans Casus vier verordneten
+#facs_215_r2l7 Teuffer Cammer allsobald Zeüberschreiben
+#facs_215_r2l8 Dieselbige von Zeith zu zeith allerzutra¬
+#facs_215_r2l9 genheiten und deß gäntzlichen Verlauffs¬
+#facs_215_r2l10 zu verständigen, und sonsten alles das¬
+#facs_215_r2l11 jenige beyzutragen, was deines Theils
+#facs_215_r2l12 Zu Facultierung dieser Teüster Leüthe
+#facs_215_r2l13 Abreiß helffen und Contribuieren mag, wie
+#facs_215_r2l14 Zethun wohl wußen wirst, Gott mit
+#facs_215_r2l15 dir. Dat. d. 17. aprilis rill.
+#facs_215_r2l16 Wimis, prutigen, Interlaten
+#facs_215_r2l17 Oberhoffen, Thun, Signau, Brandiß
+#facs_215_r2l18 Trachselwald, Sinnswald, Burg¬
+#facs_215_r2l19 dorff, Landtshuth, Lentzburg,
+#facs_215_r2l20 An Preyweibell zu Biglen, Amen
+#facs_215_r2l21 zu Stettlen und Freyweibell im¬
+#facs_215_r2l22 Landtgricht Konollfingem.
+#facs_215_r2l23 Sich umb Persohnen zu Ersehen, so dem
+#facs_215_r2l24 H. Runkell wegen auffüchung der
+#facs_215_r2l25 Stäufteren und dero Mitlen an-
+#facs_215_r2l26 die Hand gehen könnin, umb
+#facs_215_r2l27 selbe Musiess. der Cammer
+#facs_215_r2l28 Zeuberschiken.
+#facs_215_r4l1 117.
+#facs_215_r4l2 Schultheis und Rath der Statt, Her¬
+#facs_215_r4l3 Weilen zu Außführung deß bekanten Teuffen
+#facs_215_r4l4 geschäfft H. Secretario Runckel solche Leüth zu¬
+#facs_215_r4l5 haben von nöthen seyn wollen, denen so bohl
+#facs_215_r4l6 die Täuffer als auch dero Mittell
+#facs_215_r4l7 in den
+#facs_215_r4l8 nem Ambt umb etvas bekant, und zu
+#facs_215_r4l9 denen die Täuffer Einiches Zutrauwen tragen,
+#facs_215_r4l10 auch Uns und gedachtem H. Runckel¬
+#facs_215_r4l11 Freüerlich an die handt gehen werdind
+#facs_215_r4l12 Alls wirst du hiemit befelchert, dich in
+#facs_215_r4l13 deinem Ambt zu erkundigen, was für
+#facs_215_r4l14 dergleichen Leüth /: sie seyindt Reformiers
+#facs_215_r4l15 oder dennoch nicht von den Proseribierten
+#facs_215_r4l16 Steüfferen) Etwan zu diesem geschäfft
+#facs_215_r4l17 und Unternahm deselben Tugendlich, der
+#facs_215_r4l18 Täufferen Mittell und Nahmen Nahmhafft
+#facs_215_r4l19 machen, und Perners zu richtigmachung Ihrer
+#facs_215_r4l20 sachen sich gebrauchen und für dieselben
+#facs_215_r4l21 treüblich arbeiten werdind: Auff dero
+#facs_215_r4l22 befinden nun, soll duderen Einen oder
+#facs_215_r4l23 zween allhor sambt demein Bericht vor
+#facs_215_r4l24 Unsere TaufferCammeren hällten, damit
+#facs_215_r4l25 dieselben In demem Ambt mit Oberleith:
+#facs_215_r4l26 Bewilligung Hancken, denenselben Einglübt
+#facs_215_r4l27 abgenommen und ferners mit Einer In¬
+#facs_215_r4l28 Struction und öffnen Patenten versehen-
+#facs_215_r4l29 werden können: Wie geschehen werde wir
+#facs_215_r4l30 Uns versehend, Gott mit dir. Dat. d. 29.
+#facs_215_r4l31 April 1711.

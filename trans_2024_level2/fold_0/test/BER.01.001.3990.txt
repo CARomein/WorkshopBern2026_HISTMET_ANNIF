@@ -1,0 +1,131 @@
+Law ID: BER.01.001.3990
+Name: Frömbde Steürsambler abzuweisen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 120/120
+# High similarity (>=50%): 84
+# Low similarity (<50%): 36
+# Not found: 0
+#
+#facs_61_r5l9 Conseil ce 30 Decembre 1750.
+#facs_61_r5l10 25
+#facs_61_r5l11 Chancellerie de Berne
+#facs_61_r5l12 An
+#facs_61_r5l13 Die Herren Amtleüth zu Prutigen
+#facs_61_r5l14 Wimis, Trachselbald, Wangen, Erlach,
+#facs_61_r5l15 Nidau, Ahlen, Ifferten, Milden Grandson
+#facs_61_r5l16 Dibultheiß und Rath. etc.
+#facs_61_r5l17 Invalides Pensionen
+#facs_61_r5l18 Weilen abermahlen die Zeit herbey gerubet,
+#facs_61_r5l19 da die Königl. Sardinische, auf 1. Jan. 1751.
+#facs_62_r2l1 werden sollen, als haben auf von
+#facs_62_r2l2 Unserer Recrouten Cammer Uns
+#facs_62_r2l3 gethanen Vortrag Wir Eüch hiemit
+#facs_62_r2l4 befehlen wollen, die zu end verzeichnete
+#facs_62_r2l5 Invalides Eüers Amts vor Euch zu beschei¬
+#facs_62_r2l6 den, von denenselben die benöhtigte
+#facs_62_r2l7 Certificats de Vie under Eüerem Regale
+#facs_62_r2l8 und des Land Schreibers Signatur, auß
+#facs_62_r2l9 zufertigen, und Selbige mit möglichster
+#facs_62_r2l10 Geförderung ermelt Unserer Recrousen
+#facs_62_r2l11 samer zu übermachen, um sie an Ihre
+#facs_62_r2l12 Behörde absenden zu können; Solte aber
+#facs_62_r2l13 seit lezterem Jahr dieserer Invalides der
+#facs_62_r2l14 eint oder andere verstorben seyn, werdet
+#facs_62_r2l15 Ihr denen hinderlaßenen Erben einen
+#facs_62_r2l16 Todten Schein under Eüerem Siegel
+#facs_62_r2l17 und des Pfarrherren Signatur ausfer¬
+#facs_62_r2l18 tigen laßen, darin der Tag des Hinscheids
+#facs_62_r2l19 ausgesezt, und selbigen gleichfahls
+#facs_62_r2l20 Unserer Recronten Cammer übersenden
+#facs_62_r2l21 Endlichen dann sollen diesere Invalices
+#facs_62_r4l1 3
+#facs_62_r4l2 nicht mehr wie vorhin beschehen, Ihre Pensio¬
+#facs_62_r4l3 nen hier abhohlen, sondern von Euch Ihrem
+#facs_62_r4l4 Amts Mann zu empfahren haben, als um
+#facs_62_r4l5 welche als dan Ihr die Quittanzen mehrgemelt¬
+#facs_62_r4l6 Unserer Recrouten Cammer zu Handen
+#facs_62_r4l7 derselben Secretarii Dath den 12 Jan 1751.
+#facs_62_r4l8 laßen, und übersenden Crediten
+#facs_62_r4l9 Liste
+#facs_62_r4l10 derjenigen, so von Ihro Königl. Mayl. von
+#facs_62_r4l11 Sardinien die Invalides Pensionen genießen
+#facs_62_r4l12 und deren Actes de Vie diß Jahrs noch nicht
+#facs_62_r4l13 eingekommen
+#facs_62_r4l14 Bebühr
+#facs_62_r4l15 ämter
+#facs_62_r4l16 Piemontefisch Gall Libre
+#facs_62_r4l17 50
+#facs_62_r4l18 Krutigen Abraham Seiner von Adelboden
+#facs_62_r4l19 Stimis Johannes Mening, von Oberleyl Amt
+#facs_62_r4l20 Nidauln Wimit, aber auf dem Teßenber wohnhaft
+#facs_62_r4l21 50
+#facs_62_r4l22 50
+#facs_62_r4l23 Traisselbald, Peter Eschliman von Langnau,
+#facs_62_r4l24 50.
+#facs_62_r4l25 Wangen, March Herzog von Lozweil
+#facs_62_r4l26 50
+#facs_62_r4l27 Erlach, Jacob Ahnemacher von dritten
+#facs_62_r4l28 50
+#facs_62_r4l29 Ablen, Jaques Perreal d'Ivorne
+#facs_62_r4l30 50.
+#facs_62_r4l31 Jean francois Poutta, d'Ollon
+#facs_62_r4l32 50
+#facs_62_r4l33 iderten David Place de Ste Cierge
+#facs_62_r4l34 50
+#facs_62_r4l35 Henry Junod de St Croix
+#facs_62_r4l36 50
+#facs_62_r4l37 Piere David Creval de Montcheran
+#facs_63_r1l1 114
+#facs_63_r1l2 Collat.
+#facs_63_r2l1 livre
+#facs_63_r2l2 50
+#facs_63_r2l3 Samuel Ettopey, de Grange
+#facs_63_r2l4 Mildan
+#facs_63_r2l5 Daniel Gillard de fiez
+#facs_63_r2l6 50
+#facs_63_r2l7 Daniel Cury de Conzise
+#facs_63_r2l8 Graudson
+#facs_63_r2l9 an
+#facs_63_r2l10 Alle T. und W. Amtleüth, 4. Stadt Prey¬
+#facs_63_r2l11 weibel und Äman
+#facs_63_r2l12 Fräubde Steür Vambler abzuweisen
+#facs_63_r2l13 Schultheiß und Rath etc. Nachdeme
+#facs_63_r2l14 Wir seit geraumer Zeit daher wahrnemmen
+#facs_63_r2l15 nüßen, was großer Misbrauch und Gefahr¬
+#facs_63_r2l16 de einreisen, durch die viele sich anmeldende
+#facs_63_r2l17 frembde Steürstamler, ein solches auch
+#facs_63_r2l18 zu Unsers Standt, und mannglichs, bey
+#facs_63_r2l19 deme sie sich angeben, beschwörde gereichet,
+#facs_63_r2l20 haben Wir deme länger nicht zusehen
+#facs_63_r2l21 können, sondern ohnmgänglich und
+#facs_63_r2l22 nöhtig befunden, fürs künfftig darwie¬
+#facs_63_r2l23 der Vorstorge zu thun, zu welchem und
+#facs_63_r2l24 Euch (gleich übrigen Amtleüthen) hiemit
+#facs_63_r2l25 befohlen wird, wan fürohin dergleichen
+#facs_63_r3l1 Jener
+#facs_63_r3l2 = Neür von dieser oder xyz Gegebenheit
+#facs_63_r3l3 wegen, von Eüch oder anderer Orten Euers Amts
+#facs_63_r3l4 begehren, Ihnen das Steür-Büechlin und Patenten
+#facs_63_r3l5 abzunemmen, und mit Beyfüegung eines Berichts
+#facs_63_r3l6 über die Bewandtnuß der Sache an Unß zu
+#facs_63_r3l7 senden, den, oder die Einsamler aber anzulreisen
+#facs_63_r3l8 entweder auch allharo zu kommen, oder wieder
+#facs_63_r3l9 fort aus dem Land zu begeben, und anderswo
+#facs_63_r3l10 sich um assistenz zu umstehen, als welches
+#facs_63_r3l11 Ihnen freygestelt seyn solle; Ersteren fahls
+#facs_63_r3l12 aber auf Empfang des Steur, Küechlins
+#facs_63_r3l13 von Eüch dem AmtsMann, werden Wir jah
+#facs_63_r3l14 ach befindenden Umständen das weitere
+#facs_63_r3l15 u
+#facs_63_r3l16 erkennen verordnen; damit auch Eüer
+#facs_63_r3l17 Ünderbeamtete, und die Vorgesezten jeden
+#facs_63_r3l18 Orts sich hiernach zu verhalten wüßen; sollet
+#facs_63_r3l19 Ihr diesen Unseren Willen, behörigen Orten
+#facs_63_r3l20 kundmachen, nebst dem Beyfüegen, daß loet
+#facs_63_r3l21 ferne zu wieder handlen, und in Namen der
+#facs_63_r3l22 Bemeind Steür geben, der Betrag demselben
+#facs_63_r3l23 in der Rechnung nicht mehr werde, admittiert werden,
+#facs_63_r3l24 Datl. den 31ten Dec. 1750.

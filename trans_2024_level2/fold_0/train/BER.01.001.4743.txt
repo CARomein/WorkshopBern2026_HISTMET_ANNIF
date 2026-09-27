@@ -1,0 +1,241 @@
+Law ID: BER.01.001.4743
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 230/230
+# High similarity (>=50%): 201
+# Low similarity (<50%): 29
+# Not found: 0
+#
+#facs_264_r5l1 a
+#facs_264_r5l2 17
+#facs_264_r5l3 32
+#facs_264_r5l4 bünfte
+#facs_264_r5l5 As¬
+#facs_264_r5l6 bei
+#facs_264_r5l7 2
+#facs_264_r5l8 81
+#facs_265_r3l1 Verzärktes Verbell der Ausfuhr¬
+#facs_265_r3l2 aller nothwendigen Lebensmitteln
+#facs_265_r3l3 An alle Deutsch und Welsche Herren
+#facs_265_r3l4 limient, 4 Städte, Frey Weibel und
+#facs_265_r3l5 Amman
+#facs_265_r3l6 Schultzeis Räth und Bürger etc.
+#facs_265_r3l7 Unkommende Verordnung zu Verschär¬
+#facs_265_r3l8 sung der ungeacht Unserer wider den
+#facs_265_r3l9 Schleich Händel der nöthigsten Lebens¬
+#facs_265_r3l10 mitteln aus Unserem Gebiet, gemachten
+#facs_265_r3l11 heilsamen Verordnungen geschehender
+#facs_265_r3l12 beträchtlichen Ausfuhr, genommenen
+#facs_265_r3l13 landes väterlichen Masreglen über
+#facs_265_r3l14 senden Wir Euch mit dem Befelch, solche
+#facs_265_r3l15 gewohntermaßen publizieren und an
+#facs_265_r3l16 schlagen zu laßen und auf die Beob¬
+#facs_265_r3l17 achtung derselben ein wachsames Aug.
+#facs_265_r3l18 zu halten.
+#facs_265_r3l19 (an Morsee Lausanne Pferten und
+#facs_265_r3l20 Vivis besonders :/
+#facs_265_r3l21 Auch werdet Ihr nach Mausgab mit
+#facs_265_r3l22 mitkommenden Mandats Unseres Amt¬
+#facs_265_r3l23 es zu Neus in Eüerein Amt eine
+#facs_265_r3l24 ähnliche
+#facs_265_r5l1 523
+#facs_265_r5l2 ähnliche Verordnung mit der Einschränkung,
+#facs_265_r5l3 von zweyen Maßen per Haushaltung aus
+#facs_265_r5l4 Unsern Kornhäusern, ergehen laßen
+#facs_265_r5l5 Datum den 3ten Januar 1794.
+#facs_265_r5l6 ob id
+#facs_265_r5l7 Verordnung
+#facs_265_r5l8 Wir Schultheis Klein und Grosse
+#facs_265_r5l9 Räthe der Stadt und Republik Bern entbieten
+#facs_265_r5l10 allen Unsern lieben und getreuen Bürgern
+#facs_265_r5l11 und angehörigen Unsern gnädigen und ge¬
+#facs_265_r5l12 neigten Willen und geben Ihnen anbey
+#facs_265_r5l13 zu vernehmen.
+#facs_265_r5l14 Daß obwohlen Wir gehoffet, die Ver¬
+#facs_265_r5l15 schiedenen Verordnungen, welche Wir zu Ver¬
+#facs_265_r5l16 hinderung der Getreid Ausfuhr und des Schleich¬
+#facs_265_r5l17 handels haben ergehen laßen, sollten die
+#facs_265_r5l18 Nothwendigkeit derselben genugsam an Tag
+#facs_265_r5l19 legen, und Unsere Landes väterliche Sorgfalt
+#facs_265_r5l20 glich unterstüzt worden
+#facs_265_r5l21 darbey von jederm
+#facs_265_r5l22 so beweisen Uns doch leider die vielfältig
+#facs_265_r5l23 einlangende Klägden, sowohl als der äußer¬
+#facs_265_r5l24 ordentlichen mit den Bedürfnißen dieser
+#facs_265_r5l25 Jahreszeit in keinem Verhältniß stehende
+#facs_265_r5l26 Getreide Verlauf in den mehresten Unserer
+#facs_265_r5l27 kanns
+#facs_265_r6l1 at
+#facs_265_r6l2 17
+#facs_265_r6l3 232
+#facs_265_r6l4 bünfte
+#facs_265_r6l5 As¬
+#facs_265_r6l6 I
+#facs_265_r6l7 0
+#facs_265_r8l1 51
+#facs_265_r8l2 3
+#facs_265_r8l3 1
+#facs_266_r2l1 Kornmaaazinen, daß Unsere Ab¬
+#facs_266_r2l2 sichten keines wegs befolget werden.
+#facs_266_r2l3 Wieses alles machet es uns demnach
+#facs_266_r2l4 zur Pflicht, auf noch schärfere Mas¬
+#facs_266_r2l5 regeln bedacht zu seyn, Unsere Lande
+#facs_266_r2l6 von den unglüklichen Folgen, welche der¬
+#facs_266_r2l7 gleichen Schlenshandel unausbleiblich nach
+#facs_266_r2l8 sich ziehen würden zu bewahren: Und
+#facs_266_r2l9 so viel mehr, da, wenn Wir schon durch
+#facs_266_r2l10 Unsere Vorsicht, Unsere Sorgfalt und
+#facs_266_r2l11 Unsere Aufopferungen uns in den Stam¬
+#facs_266_r2l12 gesezt sehen, den eigentlichen Bedurf¬
+#facs_266_r2l13 nißen Unseres Landes zu Hülfe zu kommen,
+#facs_266_r2l14 die schädlichen Folgen des Schleichhandels doch
+#facs_266_r2l15 unübersehbar seyn, und Uns diejenigen
+#facs_266_r2l16 Quellen verschließen dörften, aus
+#facs_266_r2l17 welchen Wir die Ernährung Unseres
+#facs_266_r2l18 Landes Schöpfen
+#facs_266_r2l19 Alle diese gegründete Betrachtungen
+#facs_266_r2l20 lasen uns derowegen nicht zweifele,
+#facs_266_r2l21 jeder Unserer werthen Bürger und
+#facs_266_r2l22 Angehörigen werde sich nicht nur mit
+#facs_266_r2l23 Uns vereinigen selbst auf der genauesten
+#facs_266_r2l24 Verbachtung dieser Verordnung zu halten,
+#facs_266_r2l25 sondern
+#facs_266_r4l1 2525
+#facs_266_r4l2 sondern dieselben werden noch (geleitet,
+#facs_266_r4l3 durch iHre Pflicht, ihre Vaterlandsliebe und
+#facs_266_r4l4 Einsehung ihres eigenen Vortheils :/ Uns
+#facs_266_r4l5 bestens Wachen helfen, daß dieser heilsamen
+#facs_266_r4l6 Verordnung auch von anderen nachgelebt,
+#facs_266_r4l7 Solchemnach
+#facs_266_r4l8 werde
+#facs_266_r4l9 Bestätigen Wir jene Verordnungen aufs
+#facs_266_r4l10 1.°
+#facs_266_r4l11 neue, wodurch die Ausfuhr jeder Gattung
+#facs_266_r4l12 Getreids, wie auch des Mehls und Reis
+#facs_266_r4l13 verbotten ist.
+#facs_266_r4l14 Wir verbieten ferner alle und jede
+#facs_266_r4l15 Ausfuhr oder Exportation des Brods, der
+#facs_266_r4l16 Erdäpfel, Küben, Rübli und übriger Erd¬
+#facs_266_r4l17 speisen, wie auch aller grün- und gedönnten
+#facs_266_r4l18 Baumfrüchten
+#facs_266_r4l19 3.) Sollen in Unserem Gebiet am Genfer¬
+#facs_266_r4l20 see, keine der obvernamseten Lebensmittel
+#facs_266_r4l21 anders wo eingeschiffet werden dörfen, als
+#facs_266_r4l22 in den Seeporten zu Neuenstadt, Vivis,
+#facs_266_r4l23 Cully, Ouchy, Morsen Roll und Neus,
+#facs_266_r4l24 und das niemals anders als bey Tag und
+#facs_266_r4l25 mit den vorgeschriebenen Praecautionen
+#facs_266_r4l26 uns Consigni Zedeln, welche als denn
+#facs_266_r4l27 vor dem Zollcommis oder darzu bestellten
+#facs_266_r4l28 = Auf =
+#facs_266_r5l1 les
+#facs_266_r5l2 17
+#facs_266_r5l3 232
+#facs_266_r5l4 leuchte
+#facs_266_r5l5 mts
+#facs_266_r5l6 ibi¬
+#facs_266_r5l7 7.
+#facs_266_r5l8 of
+#facs_266_r5l9 281
+#facs_266_r6l1 A
+#facs_266_r6l2 3.
+#facs_266_r7l1 251.
+#facs_266_r7l2 13
+#facs_266_r7l3 1.
+#facs_266_r7l4 fol
+#facs_266_r7l5 2
+#facs_267_r2l1 Zustel dwienigen Pörts Unserer
+#facs_267_r2l2 Bollmässigkeit wo dergleichen Schiffe
+#facs_267_r2l3 oder Fahrzeuge wieder einlaufen werden
+#facs_267_r2l4 alsogieng sollen verificiert, und dem
+#facs_267_r2l5 Hollkommus desjenigen Seeports wodie
+#facs_267_r2l6 Schiffe ausgelauffen, zurubgesendet
+#facs_267_r2l7 werden
+#facs_267_r2l8 Ihr Herr Ladung der obvernamsteten Lebens
+#facs_267_r2l9 mittein, einige anderswo in Unserer Bott
+#facs_267_r2l10 mäßigreit am Genfensee, als in obbe¬
+#facs_267_r2l11 stimmten sieben Seeporten eingeschiffet
+#facs_267_r2l12 worden wäre, wird als Contrebande
+#facs_267_r2l13 angesehen, und der Eigenthümer darvon
+#facs_267_r2l14 nach Innhalt nachstehenden achten Ar¬
+#facs_267_r2l15 tikels bestraft werden.
+#facs_267_r2l16 5.) Wir begwältigen anbey auch die Zoll
+#facs_267_r2l17 Commißen oder bestellten Aufseher
+#facs_267_r2l18 in obvernamseten Seeporten, jedes mal¬
+#facs_267_r2l19 so sie es nöthig glauben werden, alle
+#facs_267_r2l20 daselbst ein oder auslaufenden Schiffe
+#facs_267_r2l21 oder Barques durchsuchen zu dörfen;
+#facs_267_r2l22 und befehlen ihnen anbey, jede Über¬
+#facs_267_r2l23 trettung dieser Verordnung, so sie ent-
+#facs_267_r2l24 deken würden, alsogleich Unserem
+#facs_267_r2l25 amts
+#facs_267_r3l1 527.
+#facs_267_r3l2 Amtsmann des Orts anzuzeigen
+#facs_267_r3l3 Betreffend das transitierende Getreu¬
+#facs_267_r3l4 6.
+#facs_267_r3l5 der Früchte, so bestätigen Wir Unsere
+#facs_267_r3l6 die Sorts ergangene Verordnung vom
+#facs_267_r3l7 12ten November 1793. anmit aufs neue
+#facs_267_r3l8 ihrem ganzen Inhalt
+#facs_267_r3l9 de la guerre et leur suivre
+#facs_267_r3l10 7.) den Angehörigen der Loblen. Cantonen
+#facs_267_r3l11 und anderer Unserer Verbündeten, welche
+#facs_267_r3l12 die Freyheit genießen, auf Unseren Märkten
+#facs_267_r3l13 Frucht anzukaufen, soll es noch in so lang
+#facs_267_r3l14 vergönnt seyn, unter den vorgeschriebenen
+#facs_267_r3l15 Stegeln und Vorbehälten sich darauf zu
+#facs_267_r3l16 versehen, als die Umstände uns nicht zur
+#facs_267_r3l17 Nothwendigkeit machen werden, dieß
+#facs_267_r3l18 orts auch etwas anders zu verfügen.
+#facs_267_r3l19 8°) Alle diejenigen schlechtdenkenden Leute
+#facs_267_r3l20 welche die eint oder andern vorenthaltenen
+#facs_267_r3l21 Vorschriften übertretten würden, sollen
+#facs_267_r3l22 nicht nur mit der Confiscation der arreterte
+#facs_267_r3l23 Lebens = Mitte
+#facs_267_r3l24 oder ausgeführten, und mit einer Buße
+#facs_267_r3l25 des ganzen Werths derselben bestraft
+#facs_267_r3l26 werden, sondern Wir behalten Uns aus
+#facs_267_r3l27 bey vor, dieselben, je nach Bewandtniß
+#facs_267_r3l28 der Sache darüber aus noch an Ehe, Leib
+#facs_267_r3l29 oder
+#facs_267_r4l1 les
+#facs_267_r4l2 17.
+#facs_267_r4l3 232
+#facs_267_r4l4 leuchte
+#facs_267_r4l5 nts
+#facs_267_r4l6 sibi¬
+#facs_267_r4l7 7.
+#facs_267_r4l8 of
+#facs_267_r4l9 281
+#facs_267_r4l10 14
+#facs_267_r4l11 3.
+#facs_267_r5l1 251.
+#facs_267_r5l2 33.
+#facs_267_r5l3 71.
+#facs_267_r5l4 lal
+#facs_268_r2l1 Erdi Gut bestrafen zu können.
+#facs_268_r2l2 9) Vorbestimmte Confiscationen und
+#facs_268_r2l3 Außen sollen den Verleidern unter
+#facs_268_r2l4 Geheimhaltung ihres Namens nicht nur
+#facs_268_r2l5 gantz zukommen und anheimfallen, son¬
+#facs_268_r2l6 dern Wir werden dieselben je nach
+#facs_268_r2l7 Nassgabe und Beschaffenheit der Dienste
+#facs_268_r2l8 (welche sie bey dergleichen Vorfällen, die
+#facs_268_r2l9 so sehr das Wohl Unseres Landes angehen
+#facs_268_r2l10 werden geleistet haben) noch insbe¬
+#facs_268_r2l11 sondere belohnen.
+#facs_268_r2l12 Wir befehlen allen Unseren Ober¬
+#facs_268_r2l13 und Unterbeamteten bey ihren auf sich
+#facs_268_r2l14 habenden Pflichten auf die genaue
+#facs_268_r2l15 Befolgung dieser Verordnung das
+#facs_268_r2l16 wachsamste Auge zu halten, und er
+#facs_268_r2l17 mahnen anbey jeden redlichen Ange¬
+#facs_268_r2l18 hörigen, sich mit uns zu Erreichung
+#facs_268_r2l19 jenes Heilsamen Endzweks, den
+#facs_268_r2l20 Wir uns vorgesezt, zu vereinigen.
+#facs_268_r2l21 Geben in Unserer Großen¬
+#facs_268_r2l22 Raths Versamlung den 3ten Jenner
+#facs_268_r2l23 1794

@@ -1,0 +1,91 @@
+BER.01.001.2587
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 82/82
+# High similarity (>=50%): 73
+# Low similarity (<50%): 9
+# Not found: 0
+#
+#facs_84_r2l14 Chüre
+#facs_84_r2l15 Donnerstags den 25. Aprilis
+#facs_84_r2l16 Uarberg
+#facs_84_r2l17 Kreytags den 26. April
+#facs_84_r2l18 Frimnißberg
+#facs_84_r2l19 Frauwbrunnen
+#facs_84_r2l20 Burgdorff
+#facs_84_r2l21 Sambstags den 27. April
+#facs_84_r2l22 Lt sorberg
+#facs_84_r2l23 Wunig.
+#facs_84_r2l24 Montags den 29. April.
+#facs_85_r2l1 Brandis.
+#facs_85_r2l2 Dienstags den 30. Aprilis.
+#facs_85_r2l3 Etrachselwald
+#facs_85_r2l4 Lands but
+#facs_85_r2l5 duchsen.
+#facs_85_r2l6 Mitwochens den 1. May
+#facs_85_r2l7 Rauppouu
+#facs_85_r2l8 St. Johansen
+#facs_85_r2l9 Erlach
+#facs_85_r2l10 Kreytags den 3. May
+#facs_85_r2l11 Büren
+#facs_85_r2l12 Gorstatt
+#facs_85_r2l13 Sambstags den 4. Maii
+#facs_85_r2l14 Nydaun
+#facs_85_r2l15 Dignauw
+#facs_85_r2l16 Montags den 6. do
+#facs_85_r2l17 Bipp
+#facs_85_r2l18 Aarburg
+#facs_85_r2l19 Dienstags den 7. do
+#facs_85_r2l20 Wangere
+#facs_85_r2l21 Aarndaugen
+#facs_85_r2l22 Mitwochens den 8. do.
+#facs_85_r2l23 Zoffingen
+#facs_85_r2l24 Saanen
+#facs_85_r2l25 Kreytags den 10. May
+#facs_85_r2l26 Älen...
+#facs_85_r2l27 zweysimmen.
+#facs_85_r2l28 Sambstags den 11. do.
+#facs_85_r2l29 Frutigen.
+#facs_85_r2l30 Interlaken
+#facs_85_r2l31 Contags den 13. do.
+#facs_85_r3l1 Schenkenberg
+#facs_85_r3l2 Vnterseen. Dienstags den 14. May
+#facs_85_r3l3 Köngefelden
+#facs_85_r3l4 Zeutzburg
+#facs_85_r3l5 Mitwochens den 15. do.
+#facs_85_r3l6 Ziberstein
+#facs_85_r3l7 Oberhoffen
+#facs_85_r3l8 Donnerstags den 16. De
+#facs_85_r3l9 C
+#facs_85_r3l10 Die Beschreibung der W. Ambtbrüchten auf ihre Rache
+#facs_85_r3l11 An alle Zt. Ambtleüht; 4 Stätt,
+#facs_85_r3l12 Freyw. und Ammann. Item zu hiesiger
+#facs_85_r3l13 Statt p placcard, und ab allen Cantzlen.
+#facs_85_r3l14 Sie In Truk verfertigte vom höchsten Gwalt Ao 1691
+#facs_85_r3l15 statuirte Ordnung der Testamenten halb publiciren.
+#facs_85_r3l16 Stathalter vnd Rast der Statt Herre,
+#facs_85_r3l17 Mit von vilfaltig Entstandenen Umützen getrölen und darab gefaßtem
+#facs_85_r3l18 Mißfallen wegen ist bereits vnderem 30. Decemb. 1691. der auff
+#facs_85_r3l19 richtung der Testamenten halben vor Vnserem großen Raht ein Ein¬
+#facs_85_r3l20 sehen beschehen, und Eine Ordnung gemacht worden, wie mittkom¬
+#facs_85_r3l21 mende beylagen mittgeben; wann aber umb Eingefallenen
+#facs_85_r3l22 hindernißen wegen sothane Ordnung bishero nit öffentlich
+#facs_86_r3l1 kund gemacht worden, als habend wir solches Zethun
+#facs_86_r3l2 für dißmahlen nohtelendig erachtet, und demnach die hiemit
+#facs_86_r3l3 befehlen wollen, mitkommende Doppel nicht allein of aller ohrte
+#facs_86_r3l4 seiner Verwaltung von Cantzlen verkünden, sonder auch an
+#facs_86_r3l5 gewohnten öffentlichen Ohrten anschlagen zulaßen. Datum
+#facs_86_r3l6 11. Martii 1695.
+#facs_86_r3l7 gemelte Ordnung der Testamenten halb¬
+#facs_86_r3l8 vide iu polieny buis
+#facs_86_r3l9 An alle Freyweibel und Amann.
+#facs_86_r3l10 Ihnen das Mandat vom 22. Aug. 94. wegen
+#facs_86_r3l11 bezeichen des ausgl. getreits zuschiken; und
+#facs_86_r3l12 Statthalter und Kast der Statt Bern,
+#facs_86_r3l13 zeyligende Copey daß von Vnserem Höchsten Gwalt underem 22
+#facs_86_r3l14 Augusti letzthin an Vnsere Umbtricht abgelaßenen Mandato ex vid. seyn
+#facs_86_r3l15 verschikend wir dir zu dem End, damit du selbige zur nachricht
+#facs_86_r3l16 und verhalt der Zeugen, denen auß Oberkeitlichen Häußeren
+#facs_86_r3l17 getreit vorgestrekt worden, von Cantzlen verlesen zulaßen
+#facs_86_r3l18 Wüßest. Datt 14 Martij 1695

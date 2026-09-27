@@ -1,0 +1,22 @@
+BER.01.001.2771
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 13/13
+# High similarity (>=50%): 13
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_307_r2l9 An alle Teütsche Ambtleuts,
+#facs_307_r2l10 4. Stätt, Freyweibel und Amman Item pro placca
+#facs_307_r2l11 an Statt Thoren undt Pfeiler
+#facs_307_r2l12 Langnauer Marckt fixiert vf d. 27. 7bris.
+#facs_307_r2l13 Schultheiß undt Rast der Statt Bern etc.
+#facs_307_r2l14 Weilen wegen angenommenen Neüwen Calenders, undt dahin
+#facs_307_r2l15 letsthin gemachten abenderung etlicher Märiten, et
+#facs_307_r2l16 sich nun befindt, daß der Langnauwer Marckt mit
+#facs_307_r2l17 einem anderen auff ein gleichen tag fallet; Alß haben
+#facs_307_r2l18 Wir selbigen für heürigen Jahrs auff Zinstag den 27. Herbst
+#facs_307_r2l19 monat gesetzt und angestelt: Welcher Du hiemit in
+#facs_307_r2l20 seinem Ambt kund zu machen wüßen wirst. Dath d.
+#facs_307_r2l21 26 Augusti 1701.

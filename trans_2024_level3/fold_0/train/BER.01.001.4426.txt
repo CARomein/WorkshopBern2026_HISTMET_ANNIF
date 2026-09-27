@@ -1,0 +1,325 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 317/318
+# High similarity (>=80%): 314
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4426
+#facs_79_r3l10 Wegen den Geltstagkösten.
+#facs_78_r4l8 Verordnung
+#facs_129_r3l11 Wegen den Geltstagstösten
+#facs_129_r3l12 Wir Schultheiß und Raht der Stadt Bern, thun
+#facs_129_r3l13 kund hiemit; daß Wir mit bedauren verneh¬
+#facs_129_r3l14 men müßen, wie viel Mißbraüche in Verführung
+#facs_129_r3l15 der Geltstagen eingerißen, wodurch die Kösten
+#facs_129_r3l16 innöhtiger beise vermehret werden, solchem um
+#facs_129_r3l17 abzuhelfen, haben Wir hienachstehende Ordnung
+#facs_129_r3l18 errichtet, welche nicht nur die benöhtigten
+#facs_129_r3l19 Emolument fest sezet, sondern auch mehrere
+#facs_129_r3l20 Vorkehr enthaltet, wie von Punkten zu Punkten
+#facs_129_r3l21 folget:
+#facs_129_r3l22 Für die Bewilligung eines Beneficii Inventarii einer
+#facs_130_r1l1 250.
+#facs_130_r2l1 einer Gelds-Rechnung, einer Geltstags=
+#facs_79_r3l24 Revision, oder Aufhebung deßelben, gebührt
+#facs_59_region_1629373677642_263l_17 dem Richter
+#facs_130_r2l4 2. Von einem jeden Geltstag mag der Richter
+#facs_80_r4l2 erheben:
+#facs_130_r2l6 a. Wann das vorhandene Vermögen des Ver¬
+#facs_130_r2l7 geltstagers 2000 m und darunter ist
+#facs_193_r2l22 6. Wann es aber 2000. lb übersteigt.
+#facs_130_r2l9 3. Für die Emolument soll der Richter auch schul¬
+#facs_130_r2l10 dig seyn, bey der Passation des Geltstags,
+#facs_130_r2l11 die Kösten zu examinieren, erdauern, und
+#facs_130_r2l12 allenfahls zu ermäßigen.
+#facs_234_r2l24 4. Diß Emolument soll dem Richter für alle seine
+#facs_130_r2l14 Bemühungen, die Er mit dem Geltstag
+#facs_80_r4l12 haben wird, bezahlt werden, mithin dem¬
+#facs_130_r2l16 selben weder für die Bewilligung des Gelds¬
+#facs_130_r2l17 tags, der Steigerungen, der Publicationen,
+#facs_130_r2l18 der Schätzeren, der Gelds-Verordneten,
+#facs_80_r4l16 Passation des Geldstags, noch irgend andere
+#facs_130_r2l20 dergleichen Bemühungen mehr, weder Emotu
+#facs_130_r2l21 ment noch Sigelgeld bezahlt werden.
+#facs_234_r7l8 5. Für einen jeden Tag den die Geldsverordneten
+#facs_130_r2l23 und der Schreiber, mit Untersuchung des
+#facs_130_r2l24 Vergeltstagers Haußbücher und Schrifften
+#facs_56_region_1629372576458_194l1 H.
+#facs_10_region_1628103950979_63l1 15
+#facs_15_region_1628104529212_166l1 21.
+#facs_130_r4l1 Verzeichnuß des Vermögens und der Schulden
+#facs_130_r4l2 Schazung und Steigerung der Fahrhab und
+#facs_130_r4l3 Ligenden Gütern, wie auch mit Anweisung
+#facs_130_r4l4 der Gläubigern zubringen werden, gebührt
+#facs_130_r4l5 ihnen, mit Begriff der Zehrung
+#facs_80_r10l4 Wann sie aber wegen dem Geltstag reisen
+#facs_130_r4l7 müßen, so gebührt ihnen für jeden Tag
+#facs_130_r4l8 den sie in diesen Verrichtungen zubringen.
+#facs_130_r4l9 mit begriff ihrer Verböstigung
+#facs_80_r10l8 Den Geltsverordneten
+#facs_61_r2l25 dem Schreiber
+#facs_130_r4l12 7. hierunter soll ihr Tag- und Reitlohn, mit
+#facs_130_r4l13 Pferdtelohn, wie auch der ganze Unterhalt
+#facs_80_r10l12 dergestalten begriffen seyn, daß nicht
+#facs_235_r2l1 wenigste mehr für die Reis bösten admittirt
+#facs_130_r4l16 werden soll.
+#facs_130_r4l17 8. Den Weibeln und Gerichts Bedienten, so bey
+#facs_80_r10l16 den Geltstagen gebraucht werden, soll
+#facs_80_r10l17 der gleiche Taglohn wie den Geldsverord¬
+#facs_80_r10l18 neten entrichtet werden.
+#facs_80_r10l19 Es sollen aber diese Tag, und Reitlöhn nicht
+#facs_130_r4l22 en bloc in den Geldstag-stödel getragen
+#facs_130_r4l23 sondern hinfüro jederzeit Specificiert ausge¬
+#facs_130_r4l24 seht werden, was für Tagen und in welchen
+#facs_145_r4l1 281
+#facs_56_region_1629372576458_194l1 H.
+#facs_10_region_1628103950979_63l1 15
+#facs_62_r6l1 115
+#facs_8_region_1628103580860_6l1 10
+#facs_131_r1l1 252.
+#facs_8_region_1628103586001_9l1 11.
+#facs_8_region_1628103580860_6l1 10
+#facs_9_region_1628103835119_42l1 12.
+#facs_4_region_1628102612215_78l1 3.
+#facs_131_r6l1 Verrichtungen ein jeder selbige angewandt
+#facs_70_r3l22 habe.
+#facs_131_r6l3 Den Geltstags Rodel aufzusezen, einzurichten,
+#facs_131_r6l4 und in zweyen Doppeln auszufertigen, ma¬
+#facs_81_r4l3 der Schreiber für seine disörtige Bemühung
+#facs_81_r4l4 erheben, von jedem Bogen der beyden
+#facs_81_r4l5 ausgefertigten Doppeln
+#facs_131_r6l8 Es sollen aber die in dem Geltstag Rodel
+#facs_131_r6l9 etwann lär gelaßenen Seiten jedennoch
+#facs_131_r6l10 nicht gerechnet, und der Geltstag Rodel
+#facs_131_r6l11 allezeit paginirt werden.
+#facs_131_r6l12 die anweisungen zur Geduld, sollen nicht auf
+#facs_131_r6l13 besondere Seiten, sondern unter die Ansprach
+#facs_131_r6l14 auf die gleiche Seite, so weit möglich gesezt
+#facs_52_region_1629371727639_50l_4 werden.
+#facs_131_r6l16 Auch sollen die Schuld Titel nicht in extenso,
+#facs_81_r4l15 sondern nur der Haubt Inhalt auszugs¬
+#facs_131_r6l18 Beise, mit Benainsung des Unterpfandts,
+#facs_81_r4l17 oder der habenden Sicherheit, jeder Anspruch
+#facs_81_r4l18 bey gesezt werden.
+#facs_131_r6l21 14. Deßgleichen sollen alle Eingänge und der¬
+#facs_131_r6l22 gleichen unnöhtige Sachen, hinfüro aus¬
+#facs_131_r6l23 bleiben
+#facs_131_r6l24 15. Hingegen soll auf dem Titel Blatt der
+#facs_56_region_1629372576458_194l1 H.
+#facs_188_r14l2 712
+#facs_13_region_1628104078411_92l1 17.
+#facs_13_region_1628104074409_89l1 16
+#facs_131_r10l1 Name der Geltsverordneten stehen, und
+#facs_131_r10l2 geweilen die publication und Befehlzedel¬
+#facs_131_r10l3 auf der 1t. Seite in extenso eingeschrieben
+#facs_52_region_1629371727639_50l_4 werden.
+#facs_81_r10l1 Der Beldstag Rodel soll in sich halten ein=
+#facs_131_r10l6 Inventarium des Vermögens und der Schul¬
+#facs_131_r10l7 den, nebst beygefügtem Tax, oder Kauff¬
+#facs_131_r10l8 Summ der Chsacten und ligenden Gütern,
+#facs_131_r10l9 denne die eingegebenen Ansprachen und
+#facs_131_r10l10 Anweisungen derselben, die ligenden Güter
+#facs_131_r10l11 sollen mit ihren Anstößern beschrieben, und
+#facs_131_r10l12 auf diese Weise in den herausgegebenen
+#facs_131_r10l13 Collocationen eingebracht werden. Die Gelts
+#facs_131_r10l14 tags Kosten sollen insgesamt beysamen,
+#facs_131_r10l15 und alle Kösten und ausgegebenes Geld¬
+#facs_131_r10l16 wohl specificirt, und nicht en bloc eingebracht
+#facs_131_r10l17 werden, damit der Richter bey der Passation
+#facs_131_r10l18 alles wohl examiniren und erdauern könne
+#facs_131_r10l19 zu End soll eine Bilanz über das Vermögen
+#facs_131_r10l20 und Schulden, auch eine Tabelle beygefügt
+#facs_131_r10l21 werden, um wie viel und worauf ein jede
+#facs_131_r10l22 Collocirt worden, und was Verlust seyn
+#facs_131_r10l23 Von einer jeden Publication soll bezalt werden
+#facs_56_region_1629372576458_194l18 Dem Schreiber für die Ausfertigung
+#facs_51_region_1629371512846_19l1 93
+#facs_131_r12l1 253.
+#facs_103_r10l1 a
+#facs_132_r1l1 254.
+#facs_14_region_1628104354945_127l1 18.
+#facs_81_r10l21 dem Pfarrherrn für die Verlesung
+#facs_132_r3l2 dem Weibel für die anschlagung eines jeden
+#facs_132_r3l3 doppels
+#facs_132_r3l4 Es soll auch ein jeder Geltstag durch das Avis¬
+#facs_132_r3l5 Blat der Haubtstadt publicirt, und dafür
+#facs_132_r3l6 bezahlt werden, ins gemein¬
+#facs_132_r3l7 Im Fall einer sehr weitläuffigen Publication
+#facs_195_r8l3 aber, biß auf das höchste
+#facs_132_r3l9 19. In dem Geltstag Rodel soll besonders -
+#facs_132_r3l10 specificirt und ausgesezt werden, an welchen
+#facs_132_r3l11 Orten der Geltstag publicirt, wie viel
+#facs_132_r3l12 Publicationen für jedes Ort gemacht, und
+#facs_132_r3l13 wie viel für jede publication bezahlt worden
+#facs_15_region_1628104524929_163l1 20
+#facs_132_r3l15 Von einer jeden Collocation, darinn der
+#facs_132_r3l16 Vorgang und Nachgang stehen soll, gebührt
+#facs_61_r2l25 dem Schreiber
+#facs_132_r3l18 Wann aber selbige mehr als zwey Seiten hat
+#facs_63_r9l5 von jeder Seite
+#facs_132_r3l20 21. Von einer jeden Anweisung zur Geduld, ge¬
+#facs_82_r3l16 gebührt dem Schreiber für die Ausfertigung¬
+#facs_16_region_1628252376038_31l1 23
+#facs_132_r3l23 für das Inventarium soll nichts besonders
+#facs_132_r3l24 angesezt, sondern selbiges bey der Invento¬
+#facs_82_r3l19 torisation, für welche der Schreiber seinen
+#facs_132_r3l26 Taglohn erhebt, allsobald gezogen, und
+#facs_16_region_1628252376038_31l1 23
+#facs_4_region_1628102585488_60l1 2.
+#facs_21_region_1628253286932_186l1 33
+#facs_56_region_1629372576458_194l1 H.
+#facs_4_region_1628102585488_60l1 2.
+#facs_71_r12l1 133.
+#facs_53_region_1629371975984_90l_26 17.2.
+#facs_10_region_1628103950979_63l1 15
+#facs_15_region_1628104529212_166l1 21.
+#facs_17_region_1628252506883_50l1 24.
+#facs_132_r8l1 Die Ausfertigung in dem Geltstag Rodel
+#facs_82_r3l22 bezahlt werden.
+#facs_132_r8l3 Hingegen mag der Schreiber für die Errich¬
+#facs_132_r8l4 tung des Steigerungs- Rodels, so weit er
+#facs_132_r8l5 ligende Güter ansiehet, von jedem Bogen
+#facs_132_r8l6 ansezen.
+#facs_132_r8l7 Wann der Schreiber den Schuldneren in die
+#facs_132_r8l8 Geltstags Maßa auszüge aus den Haus¬
+#facs_132_r8l9 Bücheren zu schiken muß, ein zu erfahren
+#facs_132_r8l10 ob die Schuld real sey, oder nicht oder um
+#facs_132_r8l11 die Bezahlung zu erhalten, mag er für jeden
+#facs_82_r11l8 Seite des Auszugs ansehen
+#facs_132_r8l13 Für einen jeden Avis, oder andere Briefe, die
+#facs_17_region_1628252511852_53l1 25
+#facs_132_r8l15 ein Schreiber wegen dem Geltstag ablaßen
+#facs_132_r8l16 muß, kan er ansezen
+#facs_132_r8l17 26. Der Inventorisation, so wie bey Steigerungen
+#facs_132_r8l18 und Geltstagen, sollen nur die Gelts¬
+#facs_82_r11l14 verordneten beywohnen; alle andere Vor
+#facs_82_r11l15 gesezte sind unnöhtig, und sollen ausbleiben
+#facs_82_r11l16 auch keine Bezahlung erheben
+#facs_82_r11l17 der Weibel soll bey der Inventorisation
+#facs_18_region_1628252674447_73l1 27.
+#facs_132_r8l24 und Steigerungen für die Abwahrt und
+#facs_132_r8l25 Aus ausruf zugegen seyn
+#facs_132_r8l26 28. die Beeydigten Schäzer, welche zu Errichtung
+#facs_132_r8l27 der Schätzung über das Geltstags, vermögen
+#facs_4_region_1628102612215_78l1 3.
+#facs_32_region_1628529672178_291l1 55.
+#facs_59_region_1629373677642_263l_1 H.H.
+#facs_41_region_1628789133760_27l_1 -72.
+#facs_133_r1l1 256.
+#facs_20_region_1628253044505_147l1 30
+#facs_20_region_1628253049459_150l1 31
+#facs_133_r3l1 gebraucht werden, sollen einen Taglohn
+#facs_133_r3l2 eben wie die Gelts verordnete, erhalten
+#facs_133_r3l3 und darfür verbunden seyn, ihre Würdi¬
+#facs_133_r3l4 gung über die ligenden Güter nebst deren
+#facs_133_r3l5 halt, Anstößern und Beschwehrden schrifft
+#facs_133_r3l6 lich einzugeben
+#facs_133_r3l7 29. Alle Geldstagen zu Abnahm der Ansprachen
+#facs_196_r4l2 sollen in den Schlößeren oder Landschrei¬
+#facs_133_r3l9 bereyen verführt werden, ausgenommen
+#facs_133_r3l10 In Fällen, daselbige auf den Tag der
+#facs_196_r4l5 Steigerung gesezt werden
+#facs_83_r5l9 Bey keinem Anlaß oder Gelegenheit soll
+#facs_133_r3l13 auf Unbösten der GeltstagsMaße Speis
+#facs_133_r3l14 und Trank aufgestellt, noch jemand Verbo¬
+#facs_133_r3l15 stiget werden.
+#facs_133_r3l16 Wohl aber mag bey Steigerungen der ligen
+#facs_133_r3l17 den Gütern, ein mäßiger Trumb aufge¬
+#facs_133_r3l18 stellt werden, und darfür ein halber Kreu¬
+#facs_133_r3l19 zer von jeder Crone, als ein Geding, bey dem
+#facs_133_r3l20 Kauf vorbehalten werden, welche der
+#facs_309_r12l17 Kaüffer über die gebodtene Kauf¬
+#facs_133_r3l22 entrichten soll, und daraus die Kösten
+#facs_133_r3l23 der Steigerung bestreitten zu kön¬
+#facs_133_r3l25 32. Allen Personen so für den Geltstag gebraucht
+#facs_4_region_1628102612215_78l1 3.
+#facs_133_r5l1 werden müßen, soll mann jederzeit einen
+#facs_83_r5l23 billigen Taglohn zu kommen laßen, daß
+#facs_133_r5l3 sie daraus ihre eigene Verböstigung selb¬
+#facs_133_r5l4 sten verlegen können, und selbige nicht
+#facs_133_r5l5 auf die Geltstags Masafalle
+#facs_133_r5l6 Alle unmöhtige Vacationen sollen mit Sorg¬
+#facs_133_r5l7 falt vermitten, und Niemand Taglöhne -
+#facs_133_r5l8 für solche Verrichtungen bezahlt werden,
+#facs_133_r5l9 die mit Gelegenheit, oder durch Briefe,
+#facs_133_r5l10 oder durch absendung eines expressen, hätten
+#facs_133_r5l11 können gemacht werden.
+#facs_133_r5l12 34. Will jemand sich gebrauchen laßen, zu gun¬
+#facs_133_r5l13 sten eines Schuldners, mit den Gläubigeren
+#facs_133_r5l14 zu accordiren, so soll dafür so wenig, als
+#facs_133_r5l15 für andere Verrichtungen in Freundlich¬
+#facs_133_r5l16 keit, einiger Taglohn, oder sonst etwas
+#facs_133_r5l17 auf Rechnung der GeltstagsMaße be¬
+#facs_133_r5l18 zahlt werden.
+#facs_133_r5l19 35. die Ansprechere so auf ligende Güter Collocire
+#facs_133_r5l20 werden, oder durch Nachschlagung darzu
+#facs_133_r5l21 gelangen, sollen nicht angehalten wer¬
+#facs_133_r5l22 den, ein Kauffe Instrument ausfertigen Zu¬
+#facs_133_r5l23 laßen, sondern ihre in handen habende
+#facs_133_r5l24 CollorationsZedel sind genugsamme Titel zu
+#facs_133_r6l1 257
+#facs_132_r11l1 25/8
+#facs_23_region_1628255245696_244l1 37.
+#facs_134_r3l1 einer rechtmäßigen Besitzung; diejenigen
+#facs_134_r3l2 aber, so ligende Güter an der Geltstags,
+#facs_134_r3l3 Steigerung erhandeln, sollen darfür Kauf
+#facs_134_r3l4 Briefe zum Beleis des Eigenthums aus fer¬
+#facs_134_r3l5 tigen laßen, und dafür das bestimte
+#facs_107_r4l7 Schreib, und Sigelgeld bezahlen.
+#facs_134_r3l7 36. Die Geltstags-Rödel sollen jederzeit innert
+#facs_134_r3l8 Monatsfrist nach dem lezten Geldstag, den
+#facs_134_r3l9 Richter zur Passation vorgelegt werden,
+#facs_134_r3l10 welcher diesen Termin auf eine bestimte
+#facs_134_r3l11 Zeit verlängern kan, wann der Schreiber
+#facs_134_r3l12 begen wichtigen Gründen, Verlängerung
+#facs_134_r3l13 begehren wird,
+#facs_134_r3l14 Da der Geltstags Rodel, nach Vorschrifft der
+#facs_84_r3l10 Gerichtssatzung, dem Richter zur Erdaurung
+#facs_84_r3l11 und Ermäßigung der Kösten, vorgelegt
+#facs_134_r3l17 werden soll; so soll, im Fall der Richter
+#facs_84_r3l13 eint oder andere Artikel der Geldstags,
+#facs_84_r3l14 Kösten herunter sezen oder durchstreichen
+#facs_84_r3l15 wurde, es dabey sein verbleiben haben,
+#facs_134_r3l21 38. Wurde sich aber jemand über eine solche
+#facs_311_r2l4 Ermäßigung zu beklagen haben, so kan
+#facs_134_r3l23 sich derselbe bey unserer Verordneten
+#facs_134_r3l24 Appellaz Cammer anmelden, welche
+#facs_24_region_1628255342791_262l1 39.
+#facs_25_region_1628255465230_287l_1 40.
+#facs_5_region_1628102678358_91l1 4.
+#facs_134_r7l1 alsdann das gewißene Verfügen wird
+#facs_134_r7l2 für die Einschreibung der Passation in
+#facs_134_r7l3 beyde Doppel des Geltstags, gebührt
+#facs_134_r7l4 dem Schreiber in allem 1. lb. oder
+#facs_134_r7l5 Wann in Geltstagssachen Streit entstehet
+#facs_134_r7l6 und die Geldsverordneten, als Richter
+#facs_84_r7l2 erster Instanz eine Procedur verführen,
+#facs_84_r7l3 und Urtheillen müßen, sollen sie sich
+#facs_134_r7l9 mit dem Schreiber jeweilen in der Landt
+#facs_134_r7l10 schreiber versammeln, und je nach der
+#facs_134_r7l11 entfernung von ihrem Wohnsiz, den im
+#facs_134_r7l12 5t oder 6ten Artibel bestimten Tage oder
+#facs_134_r7l13 Reitlohn erheben
+#facs_84_r7l9 Hingegen sollen alle Emolument dahin fallen
+#facs_134_r7l15 und deren keine, von welcher Natur
+#facs_134_r7l16 sie immer wären, bezogen werden, ausge¬
+#facs_134_r7l17 nommen die Ausfertigung und Sigelgeld
+#facs_134_r7l18 der Urbunden und Weibel Verrichtun¬
+#facs_134_r7l19 gen, welche auf dem bestimten Fuß
+#facs_134_r7l20 bezahlt werden müßen.
+#facs_134_r7l21 Allen Unsern Ober- und Unter Beam
+#facs_134_r7l22 teten, wird demnach Ernst gemeint auf¬
+#facs_134_r7l23 getragen, genau zu invigiliren, daß
+#facs_134_r7l24 dieser unserer Vorschrifft ein vollbommenes
+#facs_134_r8l1 259
+#facs_56_region_1629372576458_194l1 H.
+#facs_4_region_1628102585488_60l1 2.
+#facs_135_r1l1 260.
+#facs_135_r2l1 Genügen geleistet werde, maßen selbige
+#facs_135_r2l2 unter den gleichen Executionsregeln wie der
+#facs_181_r4l9 Emolumenten
+#facs_135_r2l4 Unserer Rahts Versamlung den 18ten february
+#facs_311_r5l16 und 13t. Marty 1772.
+#facs_94_r5l22 Canzley gern.
+#facs_24_region_1628255397587_277l11 en

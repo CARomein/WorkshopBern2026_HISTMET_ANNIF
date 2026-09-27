@@ -1,0 +1,51 @@
+Law ID: BER.01.001.4244
+Name: Wegen dem vielfaltig im Land sich befindlichen Strolchen-Gesind.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 38/39
+# High similarity (>=80%): 10
+# Low similarity (<80%): 28
+# Not found: 1
+#
+#facs_101_r3l2 alle Ober- und UnterErgänwische Amtleüth, Vier
+#facs_151_r4l12 Mehlch. der Maréchaussée, Cammer
+#facs_257_r2l11 denen in Eüerem Amt sich befindlichen Buch
+#facs_52_r4l10 Schultheiß und Rath etc.
+#facs_203_r5l11 liche Ansuchen beschehen, daß in Unseren Landen, /: gleich
+#facs_38_r2l16 und Aberglauben, sich solcher Sünden theil,
+#facs_3_r1l1 Coll
+#facs_74_r3l14 len Wir Eüch, gleich übrigen Unseren.
+#facs_67_r2l1 von Tranquini ausgeben dörfen; Haben Meghti
+#facs_215_r4l20 gen, durch die Marechaussée auf diesen Karl zu achten
+#facs_155_r3l18 sere fleißig besichtiget, und die Übertrectere seines Orts
+#facs_27_r2l12 bünfftighin sich verhalten sollen; diejenigen
+#facs_155_r2l10 Auge zu halten, und die Fehlbahren an gebührendem
+#facs_77_r3l14 berber sollen angesehen, und nach beschaf¬
+#facs_230_r3l23 eine Mandat und getrübte Verordnung aufzuheben, als haben Sie
+#facs_246_r4l24 Eüers Amts bewahren, das sich vorfindende Gesins
+#facs_169_r5l22 Rechnung tragen beredet. Dat. d. 11ten Juny 1764.
+# NOT FOUND: N=to Hichar gehört bar Pag. 577. 578. und auch Zuend Pagl. 579. beym der
+#facs_7_r2l2 aber, wie auch die Händler, sollen gehalten seyn, die
+#facs_247_r1l20 den
+#facs_225_r5l15 alle Teütsch- und Weltsche H. Amtleüth, Vier Städt, freybei¬
+#facs_107_r4l4 Beibel und Amman; item per Zedel an hiesige Cänzel
+#facs_171_r2l4 und ausbahl der Contrahierenden Partheyen ausfer¬
+#facs_120_r5l17 Schultheiß Räth und Burger etc.
+#facs_25_r2l16 worden; haben Wir aus gnugsammen Uns darzu
+#facs_226_r5l12 cieren laßen, ist in mitkommendem placcard enthalten,
+#facs_125_r1l24 6. Vivir
+#facs_30_r1l1 54.
+#facs_42_r3l15 re Mandat und Verordnungen, den Wucher
+#facs_166_r3l3 mit hindansezung aller anderen Beschäften, und bey¬
+#facs_81_r2l11 Babelfuhren in Druk ausgehen zu laßen.
+#facs_14_r6l11 haben Wir mit Zusendung gnugsamer Exemplarien davon
+#facs_20_r3l4 Bolligen
+#facs_91_r2l3 Euch hiemit befehlen wollen, die zu end dieser
+#facs_44_r2l16 nung alljährlich an dem ersten Sontag nach
+#facs_107_r4l19 von Canzlen verlesen, und gewohnter Orten anschla¬
+#facs_104_r5l9 ten Orten anschlagen zu laßen, damit ein Jeden
+#facs_177_r5l9 gen von uns beschehen mögen. Wie zu thun p. Datl.
+#facs_214_r2l16 6th Dec: 1764

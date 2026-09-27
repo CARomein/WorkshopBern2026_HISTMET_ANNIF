@@ -1,0 +1,88 @@
+Law nr: BER.01.001.4577
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 77/77
+# High similarity (>=80%): 73
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_10_r7l1 37
+#facs_23_region_1633454616028_2913l1 An
+#facs_193_r5l3 alle Hhl. Amtleuthe des Oberen und Untern
+#facs_193_r5l4 Aergans, denne Vier Städte.
+#facs_96_r1l3 ansehend
+#facs_193_r5l6 die Zurukhaltung des fremden Strolchen Be¬
+#facs_193_r5l7 sinds in dem Obern und Untern Aergan
+#facs_153_r4l6 Schulths und Raths
+#facs_193_r5l9 Uns ist zuverläßig angezeigt worden, daß
+#facs_193_r5l10 wirklich viele fremde Strolchen in dem Aerga¬
+#facs_193_r5l11 sich vorfinden, und da zu beförchten ist, daß noch
+#facs_193_r5l12 mie weit grösere Anzahl derselben Eingangs
+#facs_193_r5l13 des Winters in diese Begenden sich eindringen,
+#facs_193_r5l14 möchte, welche dem Landmann durch unbeschei¬
+#facs_193_r5l15 denes bätten und Herberg fordern zur höchsten
+#facs_193_r5l16 Beschwerd gereichen
+#facs_193_r5l17 Als haben Wir aus Landes Väterlicher
+#facs_193_r5l18 Vorsorge gegen Unsere Angehörige Euch hier
+#facs_193_r5l19 Durch den Befehl ertheilen wollen, nach Empfang
+#facs_193_r5l20 dieser Zuschrift, den Bemeinden Eueres
+#facs_193_r5l21 nachdruksamst anzubefehlen.
+#facs_193_r5l22 Amts
+#facs_193_r5l23 bezirks
+#facs_193_r5l24 das dieselben ungesäumt, und zwar in ihren
+#facs_193_r5l25 eigenen Kösten solche Dorfbachten bestellen
+#facs_193_r5l26 die im Stand seyn können, die in ihre Dorf=
+#facs_193_r5l27 schaften ankommende Strolchen abzuhalten, und
+#facs_193_r5l28 solche von denselben zu entfernen
+#facs_193_r5l29 Denne tragen Wir Euch ins besonders auf, u.
+#facs_193_r5l30 Fällen, da die Zunahme von fremdem Besindel
+#facs_193_r5l31 sich in Eüerem Amt verspören wurde, jeder
+#facs_193_r5l32 Bemein den Befehl dahin zu ertheilen, daß
+#facs_193_r5l33 wochentlich
+#facs_194_r1l1 377.
+#facs_194_r2l1 wochentlich, ein oder Zbeymal, je nach den
+#facs_194_r2l2 Umständen, 4 bis 5. Mann aus einer
+#facs_194_r2l3 Bemeind bestellt werden, die dem Kehr nach
+#facs_194_r2l4 zu unbestimmten Zeiten patrouillieren, und
+#facs_194_r2l5 das vorfindende Besindel Eüch, zur Restrah¬
+#facs_194_r2l6 fung und Fortbeisung auf die Bränzen zu
+#facs_194_r2l7 führen sollen; ihr aber berdet dann un¬
+#facs_194_r2l8 diesem Fällen die, von Uns aus ergangene
+#facs_194_r2l9 Bättelordnungen von Anno 1742. und 1754
+#facs_194_r2l10 pünktlich befolgen, und nach Anleitung der
+#facs_194_r2l11 selben gegen diese Strolchen verfahren
+#facs_194_r2l12 Den Bememden dann berdet ihr über-
+#facs_194_r2l13 haupt= und jedem Unserer Angehörigen ins
+#facs_194_r2l14 besonders, bey Unserer Angnas und Ver¬
+#facs_194_r2l15 antwortung verbieten, den fremden Strolchen
+#facs_194_r2l16 weder Herberg, noch vielweniger Unterschla¬
+#facs_194_r2l17 zu gestacten; Und sollte sich zutragen,
+#facs_194_r2l18 daß dieselben durch Drohungen von seiten
+#facs_194_r2l19 der Strolchen genöthiget bürden, ihnen das
+#facs_194_r2l20 Nachtlager zu geben, so berdet ihr dieses
+#facs_194_r2l21 Besind ohne anders zu gewesener Straff
+#facs_194_r2l22 ziehen.
+#facs_194_r2l23 Belangens dann die birklich bestellten
+#facs_194_r2l24 Inspectoren und die Marechaussée in Ein=
+#facs_194_r2l25 Amt werdet ihr dieselben zu Verbachtung
+#facs_193_r5l23 bezirks
+#facs_194_r2l27 ihrer Spflichten anmahnen, und ihnen auf¬
+#facs_194_r2l28 tragen, jenige Späse, die verdächtigem Re¬
+#facs_194_r2l29 findel zugestellt worden sind, nicht zu
+#facs_194_r2l30 respectierung
+#facs_157_r4l1 oll.
+#facs_196_r2l3 o
+#facs_194_r4l1 378.
+#facs_194_r4l2 espectieren, und denenselben ohne anders
+#facs_194_r4l3 den Eintritt in das Land nicht zu gestatten
+#facs_194_r4l4 es seye dann Sach, daß die eint oder anderen
+#facs_194_r4l5 Päß von ihrem Geburts Ort vorzubeisen ha¬
+#facs_194_r4l6 ben, so wie auch bann Handberks Pursche gül¬
+#facs_194_r4l7 dige Kundschaften aufbeisen wurden F.
+#facs_194_r4l8 Deßen Ihr berichtet werdet, mit dem Befehl,
+#facs_194_r4l9 diesem Unserem Willen ein Genügen zu leisten.
+#facs_261_r2l4 Datl. den 6ten
+#facs_83_r3l6 en

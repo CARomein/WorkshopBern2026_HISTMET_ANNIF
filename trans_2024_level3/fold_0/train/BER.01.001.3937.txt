@@ -1,0 +1,37 @@
+Law ID: BER.01.001.3937
+Name: Wegen Lifferung dess Schultheissen Holzes.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_497
+# Matched: 26/26
+# High similarity (>=80%): 26
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_132_r5l9 Gemeinden könnt. Muh. verhirren,
+#facs_132_r5l10 Steltlen und Scholligen
+#facs_132_r5l11 stegen Listerung des Schultheißen holles
+#facs_132_r5l12 Bey angerickter Zeit da Mingsl. Amts¬
+#facs_132_r5l13 Schultheißen Steiger das bestimte¬
+#facs_132_r5l14 schult seißen holthen aus der particularen
+#facs_132_r5l15 eigenen Waldungen für dieses 1747.
+#facs_132_r5l16 Jahr angeschaffet berden soll; So ist zu
+#facs_132_r5l17 dessen abnahm Tag bestimt der Gemein
+#facs_132_r5l18 Könitz auf Montag den 6ten 7ten und 8ten
+#facs_132_r5l19 Marly, denen Gemeinden kurj
+#facs_132_r5l20 völligen sechigen und Steltlen auf
+#facs_132_r5l21 Dönstag den 9ten 10ten und Ao Martii
+#facs_132_r5l22 nechst künfftige Deßen hiemit Münigl
+#facs_133_r1l1 258
+#facs_10_r3l1 Collat
+#facs_133_r3l1 von Canzlenberichtet, und ernstlich
+#facs_133_r3l2 ermieret wird sothanes Holzauf¬
+#facs_133_r3l3 stundte Tächen handt dem noch rükster
+#facs_133_r3l4 schen dem Holz, ohne sehler und zu
+#facs_133_r3l5 anders nicht als in bührschafften¬
+#facs_133_r3l6 In Beren in H. Werbmeister Zehender
+#facs_133_r3l7 werryöl. abzulegen, da sonsten
+#facs_133_r3l8 wan die findet nicht währ schafft-
+#facs_133_r3l9 Gewige nicht burden abgenommen
+#facs_133_r3l10 berdem Actum den 28ten Feb. 1747

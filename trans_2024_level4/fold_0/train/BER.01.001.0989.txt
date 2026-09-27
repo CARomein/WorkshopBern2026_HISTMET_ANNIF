@@ -1,0 +1,102 @@
+Law ID: BER.01.001.0989
+Name: Die gewondten Capitel zehalten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 90/91
+# High similarity (>=50%): 87
+# Low similarity (<50%): 3
+# Not found: 1
+#
+#facs_102_r1l16 die vol. Ptrauirend. Datam 25. Nouemb. 1635.
+#facs_102_r3l1 100
+#facs_102_r3l2 Uns die Hrn. Decanen der Capitlen
+#facs_102_r3l3 Im Teütschen vnd, die gewandten Capitel
+#facs_102_r3l4 gehalten. etc
+#facs_102_r3l5 Schulscheiß und Raht etc.
+#facs_102_r3l6 abermahlen der Zeit Inn welchern man pflegt
+#facs_102_r3l7 die gewandten Capitel vnd Consuren zuhalten, erinnert was
+#facs_102_r3l8 hiemit bevelchen wellen, mit Hilff unndt
+#facs_102_r3l9 a
+#facs_102_r3l10 wein Capitels
+#facs_102_r3l11 bystand unserer Ambtleüten Im eü¬
+#facs_102_r3l12 newecken, die besonderbaren vnd privat sensuren dann wir
+#facs_102_r3l13 Jetzig Zeit die General Capitel angestellen, int nohtig geachtet,
+#facs_102_r3l14 als altenn bruch vnd gewonheit, getreüwlich vnd mit ernst¬
+#facs_102_r3l15 unerrichten, die mengel so sich auch dem ein oder andere
+#facs_102_r3l16 funden, ohne Ansechen der Person zestraffen, vnd abgeleinen
+#facs_102_r3l17 ein besten Vermögen
+#facs_102_r3l18 in h
+#facs_102_r3l19 und sonsten Juni ge¬
+#facs_102_r3l20 Zerhandlen, was zu befürderung der Ehren Gottes, erbu¬
+#facs_102_r3l21 Wohlfahrt
+#facs_102_r3l22 ung der Kilchen Christi, vnd Zuge¬
+#facs_102_r3l23 reichen Vnd dienen mag, alls wie euch wohl strauwend.
+#facs_102_r3l24 oder zu gebürend abstraffung zeuerzeichnen v. 45.
+#facs_102_r3l25 und dieweil wie hierinben gespüreh vnd stuemen müßen,
+#facs_102_r3l26 Das maßen wir mit erhaltung abgestorbner Kirchen
+#facs_102_r3l27 euren hinderlaßner Wittiben vnd Kinden, gelengen
+#facs_102_r3l28 Je mehr beschwert, auch wol etwan von Personen, der
+#facs_102_r3l29 Ehemänner gute Pfrunden gehabt vnd genoßen, vmb lyb
+#facs_102_r3l30 Es eindt woders von Vermeßner
+#facs_102_r3l31 ding ersucht und
+#facs_102_r3l32 Ermuegsame, oder vß zue seer großer Liederligkeit
+#facs_102_r3l33 harfließen muß; Als sind wie beweht worden, auch vnd
+#facs_102_r3l34 anderen Vnseren Decanen, feünd, ernstlich gebruelchen
+#facs_102_r3l35 by glegenheit vorstehnden Capitels, vff mittel bedacht,
+#facs_102_r3l36 zusein, vnd die fürsechung zethin, daß solches verbeßer
+#facs_103_r2l1 Vnd die Jenigen, so Irer Haußhaltung vnd Zeitlichen mitt
+#facs_103_r2l2 mit gebürenden maßen Wahrnemen, vnd ein Rechnung trag¬
+#facs_103_r2l3 Wollend, by guter Zeit daruon ab: vnd zu ordentlichen
+#facs_103_r2l4 Parsamkeit gehalten, Vnd vns die Villfaltigen beschwerden,
+#facs_103_r2l5 temb so Viel smindert vnd verhuetet werd auch
+#facs_103_r2l6 Datum 25 Aprilis 1636
+#facs_103_r2l7 Cosscriptum
+#facs_103_r2l8 By disem beuelchend wir euch auch insonderheit
+#facs_103_r2l9 Jetz vnd In binfftigeszeiten mit Zeunden lassen, flyß¬
+#facs_103_r2l10 herige vnd grundtliche Nachforschung gehalten, wie
+#facs_103_r2l11 es d Teuff Ehe vnd Chorgrichts Rödlen halb beschafft
+#facs_103_r2l12 Vnd was fleiß oder mangel, bij dem ein Vnd andern
+#facs_103_r2l13 Predicandten Inn der visitaon deren solche
+#facs_103_r2l14 erforschung vnd der Juraten knog der ordnung
+#facs_103_r2l15 anhanget) gefunden worden seye. Actum ha.
+#facs_103_r2l16 Nun alle T. Ambtleüt
+#facs_103_r2l17 Der Capitlen Haltung wegen
+#facs_103_r2l18 Schullsthcis. etc. Die wyl wie abermahlen von den
+#facs_103_r2l19 gnaden Gottes die Zÿt erreicht, darinn wir pflegend die
+#facs_103_r2l20 gewandten Capitel und Censuren vnserer Kirchendien
+#facs_103_r2l21 halten, vnd durch vnsere Ambtleüth, mit Hilff vnd Zuthu¬
+#facs_103_r2l22 der Herrn Decanen vnd Capitelsbrüdern Reichten zelbsten;
+#facs_103_r2l23 welchend wie die, den Jenigen, dahin nach alten gewanth
+#facs_103_r2l24 bruch, dem pflichts ich Vberdt, geflißenlich by zu wohnen, viel
+#facs_103_r2l25 soliche action getreüerlich und mit gutem ernst Prichts
+#facs_103_r2l26 Zegelffen, auch war genommen, daß die Mangel, so sich an den ein
+#facs_103_r2l27 ren befinden möchten, In guten treüwen, ohne sie
+#facs_103_r2l28 vnd ansechl. der Pers., entdeckt, vnd alles dergestalten Verhandlet.
+#facs_103_r2l29 werde, daß es gereiche Vnd diene zu Gottes Eren befürden
+#facs_103_r2l30 mölfart
+#facs_103_r2l31 Kilen Christi erbauwung, und
+#facs_103_r2l32 offrung. Doctum 15. Aprilis 1636
+#facs_103_r3l1 101
+#facs_103_r3l2 Beschrijbung nachuslgender Teütsch
+#facs_103_r3l3 Ambtleuten vff Ire Jarrechnunge
+#facs_103_r3l4 Chim Interlaehen Untersewen Vff 4. Julij
+#facs_103_r3l5 Fzutingen Ober und Niversinventhal¬
+#facs_103_r3l6 5. eiusd
+#facs_103_r3l7 vnd Hasßli
+#facs_103_r3l8 Exachte wald. Brandis Signauw
+#facs_103_r3l9 Buxgdorff Landtshútt, Buxen
+# NOT FOUND: facs_102_line_1596823509300_67
+#facs_103_r3l12 Ehrlach Asberg Louppen.
+#facs_103_r3l13 Exienisverg. Exaubrunen und
+#facs_103_r3l14 München Buchsee
+#facs_103_r3l15 Wangen Thorberg
+#facs_103_r3l16 Artvangen Bipp. Arburg.
+#facs_103_r3l17 14
+#facs_103_r3l18 Eenhburg
+#facs_103_r3l19 Hoffingen
+#facs_103_r3l20 Künigsfelven, Biberstein, Schenckenb. 13
+#facs_103_r3l21 Elten Janen
+#facs_103_r3l22 Hünwyl. Heys¬
+#facs_103_r3l23 Actum

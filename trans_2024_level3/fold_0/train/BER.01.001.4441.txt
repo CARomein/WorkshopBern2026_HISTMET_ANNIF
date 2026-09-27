@@ -1,0 +1,55 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 47/48
+# High similarity (>=80%): 46
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4441
+#facs_319_r2l4 Sommer Frucht zu verkauffen anbefohlen
+#facs_319_r1l1 628.
+#facs_93_r1l2 Collat.
+#facs_86_r10l3 b
+#facs_256_r2l2 Alle Teütsche Herren Amtleut und Schaffner¬
+#facs_243_r3l3 da Obrigkeitlich Getreid ligt
+#facs_319_r2l4 Sommer Frucht zu verkauffen anbefohlen
+#facs_90_r2l5 Schultheiß Räht und Burgers.
+#facs_319_r2l6 Da abermahlen die zeit eingetroffen, da
+#facs_319_r2l7 Wir über die Disposition des auf Martinj
+#facs_319_r2l8 1775. eingegangenen Obrigkeitlichen
+#facs_319_r2l9 Getreids, befragt werden sollen; So haben
+#facs_319_r2l10 Wir auf anhörung des darüber Uns von
+#facs_319_r2l11 eiten Unserer fürgeliebten Mit Rähten
+#facs_319_r2l12 der Herren Teutsch Sekelmeister und
+#facs_319_r2l13 Venneren, und Unserer verordneten Korn,
+#facs_319_r2l14 Cammer gemachten Vortrags erkennt: daß
+#facs_319_r2l15 /: an Schenkenberg, Ziberstem, Königsfelden
+#facs_319_r2l16 und Lenzburg, mit Ausnahm des Kernens,
+#facs_319_r2l17 Deßen Verselberung Wir anmit unter nach
+#facs_319_r2l18 vermelten Gedingen, verwilligen) von denen
+#facs_319_r2l19 Winterfrüchten für einmahl, und biß auf
+#facs_319_r2l20 Unseren weiteren bestimten Befehl, nicht
+#facs_319_r2l21 das geringste Verbaufft, hingegen aber
+#facs_319_r2l22 sämtliche Sommerfrüchte, welche nach Abzug
+#facs_319_r2l23 der Ordinari, und Quasi=Ordinari=Ausgaben
+#facs_25_region_1628255517333_308l_10 wie auch deßen was Eüer Contingent auf dem
+#facs_320_r3l1 Collatl.
+#facs_36_region_1628530079871_375l_1 62.
+#facs_319_r4l2 restierenden Betragen mag, von sothanem
+#facs_319_r4l3 Obrigkeitlichen Getreid vorschießen werden.
+#facs_319_r4l4 gänzlich Versilberet werden sollen; Alles jeden
+#facs_319_r4l5 noch in dem Verstand, daß in ansehen dieser
+#facs_319_r4l6 verbauffenden Sommerfrüchten, die üblichen
+#facs_319_r4l7 Vorsorgen genommen, mithin die mindest Behält¬
+#facs_319_r4l8 lichen vor erst abgestoßen, solche nur zu klei¬
+#facs_319_r4l9 nen Käuffen überlaßen, und vorzüglich zu
+#facs_320_r4l3 zu Anblühnung der Felderen hingegeben, auch
+#facs_320_r4l4 erst denzumahlen völlig abgestoßen werden
+#facs_319_r4l12 sollen, wenn die Sommer Saat in Euerem Amt
+#facs_319_r4l13 und in denen Gegenden von welchen der
+#facs_319_r4l14 Saamen darzu in demselben angekaufft wird,
+#facs_319_r4l15 vollkommen besorget seyn wird; Welchennach
+#facs_319_r4l16 Ihr Euch zu verhalten, und über das erlösende
+#facs_319_r4l17 uns Rechnung zu tragen wüßen werdet.
+#facs_319_r4l18 Datl. den 4ten Marty 1776. g die Sommer Frücht¬
+#facs_24_region_1628255397587_277l11 en

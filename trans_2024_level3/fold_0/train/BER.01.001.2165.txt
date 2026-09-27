@@ -1,0 +1,37 @@
+Law ID: BER.01.001.2165
+Name: Die Wacht zu Morsee und Chillon solle bestendig sein.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 26/26
+# High similarity (>=50%): 25
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_216_r4l1 cher
+#facs_216_r4l2 An alle W. Ambtleüt
+#facs_216_r4l3 Die Wacht zu Morser und Killion solle
+#facs_216_r4l4 bestendig sein
+#facs_216_r4l5 Buedtheiß und Raht der Stadt Bern etc. Zinnach vns
+#facs_216_r4l6 vorkommen, daß vnsere, wiederem 12. Septl. 1677. außgeschriben
+#facs_216_r4l7 Wachtordnung zu Morse vnd Chillion dahin verstanden
+#facs_216_r4l8 und außgelegt werden wolle, als ob sie nur auff ein
+#facs_216_r4l9 Jahr lang were gemacht vnd angesehen, da doch der
+#facs_216_r4l10 anderwertige beßere verstand, den einten vnd anderen
+#facs_216_r4l11 Durch vnseren fürgeliebten Mitraht und OberCommendant
+#facs_216_r4l12 Hrn. Obristen weißen, gnugsamb eröffnet worden,
+#facs_216_r4l13 habend wir zu der einten vnd anderen mehrer nachricht,
+#facs_216_r4l14 und beßerer Beobachtung ihrer pflicht, vise nochmalig
+#facs_216_r4l15 Erleüterung vnseren Ambtleüten überschreiben wollen.
+#facs_216_r4l16 Naßen hirmit gegen Dir, und so viel deine Ambts-
+#facs_216_r4l17 Angehörige betrifft, beschicht, daß obgedeüte ordnun
+#facs_216_r4l18 bestendig sein, und von Jahr zu Jahr verbleiben
+#facs_216_r4l19 und gehalten Werden solle, so lang dieselbe, Mon
+#facs_216_r4l20 änderung der Zeit und Vrsach wegen, derenhalb sie
+#facs_216_r4l21 angesuchen, mit von vns sonderbahr wirt auffgehebt,
+#facs_216_r4l22 werden. Die hiemit zugleich befrechende, disen¬
+#facs_216_r4l23 der Sachen Verstand deinen Ambts angehörige
+#facs_216_r4l24 schmals zueröffnen, solchem nach sich Herren halten Wie¬
+#facs_216_r4l25 zu deiner theils, auch zethun wüßen Wirst
+#facs_216_r4l26 Datum den 15 Januarij 1679

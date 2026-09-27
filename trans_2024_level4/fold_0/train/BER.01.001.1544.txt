@@ -1,0 +1,33 @@
+Law ID: BER.01.001.1544
+Name: Wegen Einbringung liechter Goldtsorten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 22/22
+# High similarity (>=50%): 22
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_270_r2l1 men 520
+#facs_270_r2l2 ott
+#facs_270_r3l1 Ann die Weltschen Ambtleüth
+#facs_270_r3l2 Wegen einbringung Liechter Goldtsorten
+#facs_270_r3l3 Schuldtheis vnnd Rhat der Statt Bern
+#facs_270_r3l4 Demnach die einbring- vnnd einschleickung liechter goldtsorte
+#facs_270_r3l5 Inn weser Landt vnnd gepiet ein Zeit dafar empfindtlich
+#facs_270_r3l6 gespürt rund wargenommen worden, vnnd sonderlich daß
+#facs_270_r3l7 die neüwlich vnnd seit kürtzer Zeit daher Inns Landt
+#facs_270_r3l8 geschlichen neüwe Italienische, dublonen nach dem bei=
+#facs_270_r3l9 ligende, abtruck nit nur vngleichen halts und schlags
+#facs_270_r3l10 vnnd mehrentheils zu Liecht vnnd Vnwärschaft, sondern
+#facs_270_r3l11 auch vil darunder gar faltsch funden werdend, darumb
+#facs_270_r3l12 Sy auch Inn Frankreich vnnd Italien allen Klich verrufft
+#facs_270_r3l13 sind. Als habend wir die vnseren Lieben getreüwen
+#facs_270_r3l14 zu Statt vnnd Landt vß angelegner Oberkeitlicher
+#facs_270_r3l15 für sorg Inn gnaden verwarnen wollen, damit ein Jeder
+#facs_270_r3l16 sich vor schaden vnnd hiemit vor abnemmung derselben
+#facs_270_r3l17 zehüten wüße, welche vnsere wolmeinliche vätterliche
+#facs_270_r3l18 Verwarnung also ein Jeder Imme zu nutz gemachen vnnd
+#facs_270_r3l19 Imme selbst vor verlurst zesem wüßen wirt. Datum
+#facs_270_r3l20 21 Novemb: 1653

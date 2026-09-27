@@ -1,0 +1,44 @@
+Law nr: BER.01.001.0530
+Name: 
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 32/32
+# High similarity (>=80%): 25
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_22_r2l5 8
+#facs_2_r2l1 N
+#facs_267_r1l2 Sterneber
+#facs_267_r1l3 konolfingen
+#facs_267_r1l4 olligkommen.
+#facs_30_r2l1 5.2
+#facs_2_r3l2 1
+#facs_267_r4l1 Centzburg Vangen Verwangen Bipp Landshust
+#facs_267_r4l2 Burgdorff Teachselwaldt Loupen Brandit
+#facs_267_r4l3 Signornte Büren Aelen, Item an die Fryweybel
+#facs_267_r4l4 Stettlen, Bölligen, Mürz.
+#facs_267_r4l5 schudtl. Wir haben Jüngst verschynnen Iars den wir
+#facs_267_r4l6 Christinouats die Vnseren dieses Rüchts durch ein gest¬
+#facs_267_r4l7 hafft schrijben ermant vnnd vermant Vnser anseelen
+#facs_267_r4l8 vnnd ordnung  wie der Jüngst angestelten reiffsschür¬
+#facs_267_r4l9 zu vercöstigung des dritten Vnszugs gemacht, vnnd In Stadt
+#facs_267_r4l10 und Landt vfgenemen bewolchen gehorsamlich anzunemen,
+#facs_267_r4l11 vnnd das sy uns Ich antwort vnnd entschluß, vff liegt
+#facs_267_r4l12 verschynnen liechtmäß geben solten, wie das dann von
+#facs_267_r4l13 dem mehrern theyl schrifftlich vnnd Willfherige bscheidt
+#facs_267_r4l14 geben worden. So aber wie In abwäsen Vnssers
+#facs_267_r4l15 furgeliebten Schuldtheyssen Herren Joh: Rondolff, Sagers
+#facs_267_r4l16 mit Wüssen mögen, ob die In einem ampt (oder In
+#facs_267_r4l17 dem Landtgricht söfftigen) geseßen, schrifftlichen oder
+#facs_267_r4l18 Mundtlichen bescheid, das sy ich unserem billichen ansuchen
+#facs_267_r4l19 underwerffen Wellindt geben habindt oder nit: Als
+#facs_267_r4l20 begärendt wie von dir desselben schrifftlich ohn allen
+#facs_267_r4l21 Verzug Inuert acht tagen verstendiger zu werden,
+#facs_267_r4l22 Da gut wir die Willigen zu erstattung Unsers
+#facs_267_r4l23 Insechens vnnd die Unwilligen zu annemung desselben,
+#facs_267_r4l24 durch unser berhatschlaget schrieben vnnd gepürliche Mitel
+#facs_267_r4l25 halten comindt. Doch 7 Augusti 1611

@@ -1,0 +1,163 @@
+Law ID: BER.01.001.3825
+Name: Verbott wegen Aussfuhr der Anken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 152/152
+# High similarity (>=50%): 148
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_146_r3l22 An alle L. und W. Ambthkuth Hem. p. Zedel
+#facs_146_r3l23 an H. Droßweibel und Frichtscheben
+#facs_146_r3l24 Schultheiß und Rast. rt. p.
+#facs_146_r3l25 Unsern g. L. a. e. Landes Schwertz sind mir
+#facs_146_r3l26 benachrichtiget worden, belehtermaßen eine Diebs¬
+#facs_146_r3l27 Bande in Löbl. Eydtgnosschafft heraumb schleiffen
+#facs_146_r3l28 sirton dann eine Beschreibung zugesant,
+#facs_147_r2l1 Verbott
+#facs_147_r2l2 Cotgen aus
+#facs_147_r2l3 fuhr der
+#facs_147_r2l4 Auben
+#facs_147_r3l1 das Land von diesem Gesinde nit beunsch¬
+#facs_147_r3l2 get werdt, haben wir die etwelche Exemplaria
+#facs_147_r3l3 Ain sothaner Beschreibung hiermith über senden
+#facs_147_r3l4 wollen, mit befelch darauff übersenden wollen,
+#facs_147_r3l5 genaul achten zu laßen, und wo derend
+#facs_147_r3l6 behändiget werden mögen gefängl.
+#facs_147_r3l7 einzuzeugen, deßen uns alsobald zu¬
+#facs_147_r3l8 terständigen, Gott mit der Datl. d. 3. Aug. 1741.
+#facs_147_r3l9 An alle Oberländischen und Erenthalts¬
+#facs_147_r3l10 Ambthleüth, item Burgdorff, Landtshurtt,
+#facs_147_r3l11 Wangen, Erlangen, und Arburg,
+#facs_147_r3l12 Die eine geraume Zeith daher verspührende
+#facs_147_r3l13 Theürung und Mangel des anbens, hat
+#facs_147_r3l14 Uns ohnlängsten bewogen, verschiedene
+#facs_147_r3l15 Unseren am bthleüthen anzubefehlen.
+#facs_147_r3l16 uns zu berichten, wie thembr der anten
+#facs_147_r3l17 in Ihren Ämbteren verkaufft, und
+#facs_147_r3l18 wordurch die theürung deßelben causier
+#facs_147_r3l19 werde. Da nun in folg deßen der Bericht
+#facs_147_r3l20 dahin gefallen, ob solte die eine zeith daher
+#facs_147_r3l21 Überhandnemmende Entäußerung und
+#facs_147_r3l22 außf juhr deßelben daran nicht die nicht
+#facs_147_r3l23 Ursach seyr, so haben wir auß vatter Cr. vor.
+#facs_147_r3l24 sorg und zum besten unserer Fürge
+#facs_147_r4l1 259.
+#facs_147_r4l2 schafft und übrigen Angehörigen gutfunden
+#facs_147_r4l3 dir /: gleich übrigen unseren ambthleuthen
+#facs_147_r4l4 ernstmeinend anzubefehlen, deine ambts¬
+#facs_147_r4l5 angehörige bey oberkeitl. Ungnad zu ver¬
+#facs_147_r4l6 bahnen, den anben fürohin keineswegs äußers
+#facs_147_r4l7 Laudts und auß unserer Gottmäßigkeit sondern
+#facs_147_r4l8 an die durch unsere deßankens halb gemachte
+#facs_147_r4l9 Reglement, bestimte Orth und auff dasige
+#facs_147_r4l10 Mahriten zu führen, sonsten in wieder¬
+#facs_147_r4l11 handlenden fahl ihnen derselbe, nach inhalt
+#facs_147_r4l12 Unsers Bürkaufft, Mandats, de Ao 1735. ohne
+#facs_147_r4l13 gnad confisciert, und die fehlbahren annehmen
+#facs_147_r4l14 Zehen Pfundt Bueß, und nach bebauten dinge,
+#facs_147_r4l15 Noch mit härterer straff belegt würden, zu
+#facs_147_r4l16 welchem End dan du gewohnter Orten
+#facs_147_r4l17 Deines Betzirbs und auch auff denen Klagen
+#facs_147_r4l18 und aborten Inspectoren bestellen wirst, die
+#facs_147_r4l19 darauf geflißen achten, und gegenwärtigen
+#facs_147_r4l20 unseren Billen ohnt schonen, unter gebührende
+#facs_147_r4l21 belohnung bewerkstelligen sollend. Und beilen
+#facs_147_r4l22 Übrigens Unsern geliebten Mittrahten, den
+#facs_147_r4l23 beyden Herren Heimblicheren, dißöhrtige Ober¬
+#facs_147_r4l24 auffsicht und Execution überlaßen, so kann
+#facs_147_r4l25 du bey zu tragenden fählen denselben zuschreiben
+#facs_147_r4l26 Ihrt Begleichung darüber einholen, und dan
+#facs_147_r4l27 dero befelchen Gebührend nachkommen
+#facs_148_r3l1 Endtlichen aber wirst du diesen unseren
+#facs_148_r3l2 ernstlichen Billen zu manniglich nachricht
+#facs_148_r3l3 und verhalt öffentlich von Cantzlm ver¬
+#facs_148_r3l4 "
+#facs_148_r3l5 kunden, und zu künfftiger Nachricht
+#facs_148_r3l6 und begleysung seines orths in den Schloß¬
+#facs_148_r3l7 büecheren einschreiben laßen, Datl.
+#facs_148_r3l8 d. 17. Aug. 1741.
+#facs_148_r3l9 Ain alle L. und W. Ambthruth 4 Natt.
+#facs_148_r3l10 Preÿweibel und amann; Item Sachen
+#facs_148_r3l11 und Dreyambt,
+#facs_148_r3l12 Schultheiß und Raht etc.
+#facs_148_r3l13 Verbrechenen Montag den 7. diß ist Joseph
+#facs_148_r3l14 Korn, gebührtig aus Pest, einer Statt in
+#facs_148_r3l15 ungarn, ein mann von 37. Jahren alter¬
+#facs_148_r3l16 und seiner Handtberth ein Metzger Mor¬
+#facs_148_r3l17 gens zwischen S. und 10. Uhren auff
+#facs_148_r3l18 allhiesigem Breitfeld elendiglich mißhandlich
+#facs_148_r3l19 und seines ausshabenden Gelts beraubet
+#facs_148_r3l20 worden, wie nun über die gethätene Mit¬
+#facs_148_r3l21 komend getrübtes Signalement außge-
+#facs_148_r3l22 fertiget worden, als habend mit deßen
+#facs_148_r3l23 Zusendung wir dir hiemith befehlen wollen,
+#facs_148_r3l24 auff die in dem
+#facs_148_r3l25 Signalement en thal
+#facs_148_r4l1 281.
+#facs_148_r4l2 tene Persohnen gefließene achtung hinter
+#facs_148_r4l3 deinem Ambt halten, und auf betretten selbe
+#facs_148_r4l4 fest setzen zu laßen, und deren Verhaffts Unß
+#facs_148_r4l5 zu berichten, mit dem beyfüegen, daß der
+#facs_148_r4l6 immer meiner der gethäteren dieser Umßhandlung
+#facs_148_r4l7 so an zeigen und eintlichen Bürd daß demnän¬
+#facs_148_r4l8 Ein solcher behandiget, und vest gesezt werden
+#facs_148_r4l9 Mag, von jeder Persohn bis 200 Thlr re¬
+#facs_148_r4l10 compentz entrichten laßen, und Pahlß der
+#facs_148_r4l11 gethäter selbsten solches anzeigen thäte,
+#facs_148_r4l12 mit der verdienten straff Ihme anoch ver¬
+#facs_148_r4l13 schonen werden; Gott mit die Datt, den
+#facs_148_r4l14 14 Aug. 1741
+#facs_148_r4l15 Das Plavard ist pag: 300. einge¬
+#facs_148_r4l16 schrieben.
+#facs_149_r1l1 An die Decanes der Capitten
+#facs_149_r1l2 compts
+#facs_149_r1l3 Schultheiß und Raht der Statt Bern.
+#facs_149_r1l4 Jaxgelter
+#facs_149_r1l5 Unterm 29. Juny. 1739. habend wir Euch
+#facs_149_r1l6 zu bezahlen
+#facs_149_r1l7 aufgetragen Eüre in Einligender Ver
+#facs_149_r1l8 Zeichnuß Enthaltene Capitulo Brüedere, so
+#facs_149_r1l9 Coll
+#facs_149_r1l10 Ihre schuldige Taagelter noch nit bezahlt in
+#facs_149_r1l11 Unserm nahmen gantz Ernstlich zu er¬
+#facs_149_r1l12 mahnen und anzubefehlen, daß Sie bei
+#facs_149_r1l13 Obigem dato. an biß Wienacht gleichen
+#facs_149_r1l14 Jahrs dieser Taxgelter völlig und gantz
+#facs_149_r1l15 abführend, sonsten underlaßenden Fahlß,
+#facs_149_r1l16 wie nach verfloßner dieser Zeith die Pfändl.
+#facs_149_r1l17 anderwertig besetzen, und denenselben
+#facs_149_r1l18 einen anderen Pfarhl. anordnen wurde
+#facs_149_r1l19 Blenzler nun deßen Ohngracht diesem
+#facs_149_r1l20 unseren Willen und ernstgemeinten befelg
+#facs_149_r1l21 biß anhero noch kein genüegen geleistet worden
+#facs_149_r1l22 wir aber solchen ungehorsamb länger nicht
+#facs_149_r1l23 zu sehen wollen; Als Habend wir Euch
+#facs_149_r1l24 hiemit wiedermahlen aufzutragen gutfunden
+#facs_149_r1l25 Jenige Euber Capituls, wundern die
+#facs_149_r1l26 es angehet nochmahlen und zwar gänzt
+#facs_149_r1l27 ernst
+#facs_149_r2l1 83
+#facs_149_r2l2 ernst meinend zu verbahrnen, so thane
+#facs_149_r2l3 Ihr schuldige Saagelter biß künfftigen
+#facs_149_r2l4 xxsten Tag mahrithe abzubezahlen, sonste
+#facs_149_r2l5 unterlaßenden Fahlß zu Wiederbesatzung,
+#facs_149_r2l6 Ihrer Pfründen würde geschritten werde,
+#facs_149_r2l7 Allermaßen dan wir allfählig bey denen
+#facs_149_r2l8 Pfrunden der Ersten Claß den an¬
+#facs_149_r2l9 fang zu machen gesinnet, und zu den
+#facs_149_r2l10 End denen Electoren allerith die gemeßen¬
+#facs_149_r2l11 Befelch zu kommen laßen, bey nicht er¬
+#facs_149_r2l12 Folgender Bezahlung sich demnach zu
+#facs_149_r2l13 verhalten, und Unß zu denen Pfrüngen
+#facs_149_r2l14 Walpersbeyll, Obte Beyll, Einstlösyll und
+#facs_149_r2l15 Herzense auffgemelten XXte Tag
+#facs_149_r2l16 Mahrith eine Wahl zu ander bestigen
+#facs_149_r2l17 verblicher Besatzung derselben Unß
+#facs_149_r2l18 vorzutragen, welchemnag nun Ihr
+#facs_149_r2l19 Zuthun, und diß, alleß Eüeren Obver¬
+#facs_149_r2l20 melten Capitels Brüederen zu ihrt
+#facs_149_r2l21 terhalt zu eröffnen büßen verdet, Gott
+#facs_149_r2l22 mit Eilch, Dat. d. 7br 1741.

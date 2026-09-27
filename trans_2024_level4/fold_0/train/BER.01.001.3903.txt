@@ -1,0 +1,129 @@
+Law ID: BER.01.001.3903
+Name: Ordnung 1. Wegen Einbringung allerhand frömden Weins und Brantenwein ins Hassler land und 2. Bestellung eines Inspectoren [...] und Eyd desselben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 118/118
+# High similarity (>=50%): 85
+# Low similarity (<50%): 33
+# Not found: 0
+#
+#facs_39_r4l11 Ordnung.
+#facs_39_r4l12 Wegen einbringung allerhand frömden
+#facs_39_r4l13 Wein und Szrantenbein in
+#facs_39_r4l14 Hasler Land
+#facs_39_r4l15 eine
+#facs_39_r4l16 Bestellung eines Inspectoren auff Grünsel
+#facs_39_r4l17 zu Bult dauen und im Wöler
+#facs_39_r4l18 auf dem Rrünig, und Eyd
+#facs_39_r4l19 desselben
+#facs_39_r4l20 .
+#facs_39_r4l21 Schultheis und Raht
+#facs_39_r4l22 Interlaken. Sein Schreiben vom 13ten Sept.
+#facs_39_r4l23 wegen einbringung allerhand frömden
+#facs_39_r4l24 Wein im Hasler Land, seye Ihr Bekl.
+#facs_39_r4l25 wohl behändiget, und er forderlicher ohrte,
+#facs_39_r4l26 zur Consultation gesandt worden, und nach
+#facs_39_r4l27 anhörung der Relation und gemachten
+#facs_39_r4l28 Reflectionen
+#facs_39_r6l1 4*
+#facs_39_r6l2 Reflectionen, haben dem Ihr Anl. gutfunden
+#facs_39_r6l3 7
+#facs_39_r6l4 Ihme wider Antwortlich hiemithan zu befehlen
+#facs_39_r6l5 1° Allen denenjenigen Landt einwohneten
+#facs_39_r6l6 bey welchen frömder wein, oder frönder
+#facs_39_r6l7 schrantenwein der Enden wird gefunden
+#facs_39_r6l8 werden, und dergleichen ausgeschentet
+#facs_39_r6l9 nach unseren vielfaltigen Ordnungen
+#facs_39_r6l10 von Ao. 1628.57.85.87.89. und 1718.
+#facs_39_r6l11 solchen zu Confiscieren, doch aber, weilen
+#facs_39_r6l12 deinem eingesandten Bericht nach dieser
+#facs_39_r6l13 Arme leüth sind, wirst für dismahlen, Ihnen
+#facs_39_r6l14 die Darauf gesetzte straaff der 50 thl. nicht
+#facs_39_r6l15 forderen, sonder solche Ihnen nachlaßen
+#facs_39_r6l16 jenigen frömden aber, so Ihren wein, oder
+#facs_39_r6l17 auch andere Contrebande waaren, die von
+#facs_39_r6l18 Und verpolten sind, durch Unsere Land
+#facs_39_r6l19 an andere auserth Unser Poltmäßigkeit
+#facs_39_r6l20 gelegene Ohrt führen wollen, sollen zu
+#facs_39_r6l21 solchem End hie mit Transit patenten, er¬
+#facs_39_r6l22 forderlicher maßen versehen seyn, gestal¬
+#facs_39_r6l23 ten allen denenjenigen, so vorernante
+#facs_39_r6l24 Transit Scheinen oder Patenten, nicht vor¬
+#facs_39_r6l25 zu weisen haben, und dergleichen Contre¬
+#facs_39_r6l26 bande waaren allsobald durch Land¬
+#facs_39_r6l27 führen, oder darin bey particularen ablegen
+#facs_39_r8l1 9
+#facs_39_r8l2 tat
+#facs_40_r1l1 74.
+#facs_40_r1l2 wahr nur für
+#facs_40_r1l3 dißmahlen
+#facs_40_r4l1 und ligen Casen, weilen solches anzusch¬
+#facs_40_r4l2 aldt hälten Sy dieselben unerlaubt ins
+#facs_40_r4l3 Land geworffen, wirst du nach vorhero
+#facs_40_r4l4 get haner publication, auch gegen dieser
+#facs_40_r4l5 Die Confiscation ausüben.
+#facs_40_r4l6 Und betreffend die Visitation der voller
+#facs_40_r4l7 können Wir auch genüg sein ob waltenden
+#facs_40_r4l8 gründen # selbe nicht gestalten, wies
+#facs_40_r4l9 allso solches unterlaßen; Schlißlichen
+#facs_40_r4l10 und damit
+#facs_40_r4l11 und gesamt alles frömden wein und
+#facs_40_r4l12 Grantenbeind, und anderer verpoltene
+#facs_40_r4l13 sachen Sachen einbringung ins Land,
+#facs_40_r4l14 hingegen auch die veräußerung
+#facs_40_r4l15 aller Hand roher häulten, Salpeter,
+#facs_40_r4l16 und anderer Sachen so von und verbolten
+#facs_40_r4l17 und alle Contrebande, müglichster müßt,
+#facs_40_r4l18 behinderet werde; wollen wir nicht nur
+#facs_40_r4l19 daß ein beständiger Inspector auf¬
+#facs_40_r4l20 dem Grimsel, sonder auch einer Zu
+#facs_40_r4l21 Bult dannen, und einer im Wölet
+#facs_40_r4l22 auf dem schrünig Rarg, unter dem hie¬
+#facs_40_r4l23 vorinnen Ihnen gegonten Salario
+#facs_40_r4l24 petmanierend
+#facs_40_r5l1 75.
+#facs_40_r5l2 permanierend gehalten, die auf alle¬
+#facs_40_r5l3 obige Sachen und Contrebande, auch andere
+#facs_40_r5l4 befehl, so von der Marechaussée Comission
+#facs_40_r5l5 Sanitel Raht, und anderen von Uns verord¬
+#facs_40_r5l6 neten Tribunalien Ihnen zu kommen, zu
+#facs_40_r5l7 achten, auch solches zu Exequieren, haben
+#facs_40_r5l8 werden, mit hin gehalten seyn sollen,
+#facs_40_r5l9 über die ein= und ausführende waaren
+#facs_40_r5l10 die erforderlichen Endlen ein zu händigen
+#facs_40_r5l11 damit selbige bey der ein und ausfuhr
+#facs_40_r5l12 und auch in dem Sust=haus zu Hasler
+#facs_40_r5l13 gebührend Controllierl werden können
+#facs_40_r5l14 sonderen das selbiger zu beobachtung
+#facs_40_r5l15 dieser pflichten Eydlich angehalten
+#facs_40_r5l16 werden sollen, desen Alleßen du nicht
+#facs_40_r5l17 nur zu gebührender Execution, und er¬
+#facs_40_r5l18 forderlicher publication, in ansehen
+#facs_40_r5l19 denen Transit patenten benachrichtiget,
+#facs_40_r5l20 sonderen auch befelchnet wirst, nach aus¬
+#facs_40_r5l21 weis angeschloßener Eydt formul, dieser
+#facs_40_r5l22 of
+#facs_40_r5l23 drey Inspectoren, harüber in formbliche
+#facs_40_r5l24 Eydt Pflicht auff zu nommen, und die Sachen
+#facs_40_r5l25 allso ein zu richten, daß über die ein und
+#facs_40_r5l26 undführt
+#facs_40_r6l1 zu
+#facs_40_r6l2 Tot
+#facs_41_r3l1 ausfuhr dieserer Sachen allso ein zurichten
+#facs_41_r3l2 und waaren, gute Ordnung in obacht
+#facs_41_r3l3 gezogen, eine Exacte controlle von einem
+#facs_41_r3l4 Inspectoren gegen dem anderen, son-
+#facs_41_r3l5 deren auch an der Sust gehalten, und
+#facs_41_r3l6 deßen Du benachrichtet, auch von dir von
+#facs_41_r3l7 Zeit zu Zeit jeh und allwegen jenige
+#facs_41_r3l8 Dicasteria, dahin die vorfallende Sachen
+#facs_41_r3l9 einfliesen thun, über die vorfallendt
+#facs_41_r3l10 sachen verständiget werden. Welchem
+#facs_41_r3l11 nach du dich zu verhalten haben, was
+#facs_41_r3l12 von den Confiscationen und zu fließen
+#facs_41_r3l13 soll gebührenden Ohrte verrechnen,
+#facs_41_r3l14 dis aller auch droben einschreiben zu¬
+#facs_41_r3l15 lasen wüsen wirst. Datum den 23ten
+#facs_41_r3l16 Augl: 1745

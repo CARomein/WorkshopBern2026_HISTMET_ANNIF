@@ -1,0 +1,23 @@
+BER.01.001.2821
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 14/14
+# High similarity (>=50%): 14
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_349_r5l15 An alle T. und W. Ambtlrüth da Stätt
+#facs_349_r5l16 sind, 4. Statt im Ergrüw p. item per placcard
+#facs_349_r5l17 alhier in der Statt.
+#facs_349_r5l18 Sie berichten das der Herbst zur Zach Marckt
+#facs_349_r5l19 auff den 2. 7bris. gesetzt.
+#facs_349_r5l20 Schultheis vndt Raht etc.
+#facs_349_r5l21 Ander den Lobl. Regierenden Ohrten der Graff
+#facs_349_r5l22 schafft Baden, ist auff lebster Badischer tagleistung
+#facs_350_r2l1 derglichen worden, daß für diß Jahr der zurzacher
+#facs_350_r2l2 Herbst Marckt auf den anderen Septembris gehalten
+#facs_350_r2l3 werden solle; deßen Wir dich zu dem End bericht
+#facs_350_r2l4 tend, umb solches den Kauffleüthen deines Bezirks
+#facs_350_r2l5 kund zumachen, damit sie sich darnach zurichten
+#facs_350_r2l6 wüßen. Gott mit Dir. Datt. 27. Juny 1703.

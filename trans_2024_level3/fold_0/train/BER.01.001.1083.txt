@@ -1,0 +1,39 @@
+Law ID: BER.01.001.1083
+Name: Zu Gestattung dess Pässes der [...] Soldaten.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_484
+# Matched: 28/28
+# High similarity (>=80%): 28
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_197_region_1711372795354_552line_1711372900819_710 Zu gestatung dess Pässes der 6000.
+#facs_197_region_1711372795354_552line_1711372922302_715 geworbnen zu dienst Ir. Ko¬
+#facs_197_region_1711372795354_552line_1711372925017_720 u. In Franckseggen Soldath
+#facs_197_region_1711372795354_552line_1711372929442_725 Schuld theis zu Demnach wir von den zu Solo thuen
+#facs_197_region_1711372795354_552line_1711372933274_730 residierenden Frantzösischen Hr. Ambassadoren Ver¬
+#facs_197_region_1711372795354_552line_1711372936220_735 stendiget worden, das die bewilligte Umpanrye
+#facs_197_region_1711372795354_552line_1711372939280_740 von dem aufbruch der 6000 Mannen, zu dienst Ir ko¬
+#facs_197_region_1711372795354_552line_1711372943180_745 Wt. Im Franckeneyen schon zum theil vff fürsse
+#facs_197_region_1711372795354_552line_1711372946714_750 und zum anzug bereit mit fründtlichen begeren den
+#facs_197_region_1711372795354_552line_1711372952460_755 selben, nit allein gleich wie hievor, ziheren Pasß vber
+#facs_197_region_1711372795354_552line_1711372955702_760 Vnseren grund und boden den zu betretten werden
+#facs_197_region_1711372795354_552line_1711372958469_765 zu bewilligen; Sondern auch in Vbrigen die noturfft
+#facs_197_region_1711372795354_552line_1711372962490_770 zeuerschaffen etc. kabend wir Grafft der Pundten
+#facs_197_region_1711372795354_552line_1711372965691_775 Pliches nit abschlagen können; Zeuelchend derhalben
+#facs_198_region_1711374107299_826line_1711374113646_829 Dir die Verordnung gethuen das sij geburender
+#facs_198_region_1711374107299_826line_1711374119046_834 messen, gegen richtiger bezahlung, mit speis
+#facs_198_region_1711374107299_826line_1711374121704_839 vnd trank Vrsachen, vnd dan Im allweg gebun¬
+#facs_198_region_1711374107299_826line_1711374124311_844 undt vnd vngemacht gelten werde, vn¬
+#facs_198_region_1711374107299_826line_1711374126948_849 ordnung nicht gehalten. Damit
+#facs_198_region_1711374107299_826line_1711374130671_854 aber du vnd Vbrige Vnsere Amptluth Vth desto
+#facs_198_region_1711374107299_826line_1711374133907_859 besser wissend zeuerhalten Ist vnser will¬
+#facs_198_region_1711374107299_826line_1711374136581_864 Und beneuch das allwegen der Amptsmann
+#facs_198_region_1711374107299_826line_1711374139438_869 Im dessen Amptsuerwaltung zu zum ersten
+#facs_198_region_1711374107299_826line_1711374142211_874 anlangend, den anderen so Ihme zunächsten
+#facs_198_region_1711374107299_826line_1711374145313_879 gesessen, vnd da sij durch rassieren werdendt
+#facs_198_region_1711374107299_826line_1711374148087_884 Jaer ankunfft vnd daß tag derselben, wie auch
+#facs_198_region_1711374107299_826line_1711374150975_889 der angel Verständigen solle. Datum 7. Marty
+#facs_193_r2l8 1639

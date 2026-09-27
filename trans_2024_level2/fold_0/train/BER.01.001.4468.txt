@@ -1,0 +1,103 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 95/96
+# High similarity (>=80%): 90
+# Low similarity (<80%): 5
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4468
+#facs_164_r2l12 Getreid zu verkauffen Ihnen anbefohlen,
+#facs_38_r2l2 Alle Teütsche Herren Amtleut und Schaffnern
+#facs_86_r4l7 wo Obrigkeitl. Getreid ligt
+#facs_164_r2l12 Getreid zu verkauffen Ihnen anbefohlen,
+#facs_38_r2l6 Schultheiß Räht und Burger etc.
+#facs_91_r5l16 Und ist von Unseren Fürgeliebten Miträhten
+#facs_86_r4l11 denen Herren Teutsch sekelmeister und
+#facs_86_r4l12 Venneren, und Unserer verordneten Korn,
+#facs_86_r4l13 Cammer der Vortrag gemacht worden, über
+#facs_86_r4l14 das auf Martini 1778 eingegangene
+#facs_86_r4l15 Obrigkeitliche Getreid, darüber wir noch
+#facs_86_r4l16 nicht durch Unser Befehl Schreiben vom 22
+#facs_86_r4l17 sebrl. diß Jahrs bereits disponiert haben
+#facs_86_r4l18 Woraufhin Wie erbent: Es solle nach
+#facs_281_r4l8 Abzug der ordinari und quasi ordinario
+#facs_281_r4l9 Ausgaben, alles, aussent dem hoch¬
+#facs_86_r4l21 Obrigkeitl bestimten Vorraht, jeden Orts
+#facs_86_r4l22 vorschießenden Obrigkeitl. Getreid, unter
+#facs_86_r4l23 den gewöhnlichen vorsorglichen Gedingen
+#facs_87_r1l1 168
+#facs_87_r2l1 zu kleinen Kaüsten, und in dem lauf¬
+#facs_87_r2l2 den Preis verbaufft werde, und zwar ist
+#facs_87_r2l3 dabey noch in fernerein
+#facs_87_r2l4 Unser Will und Befelch, daß
+#facs_87_r2l5 1° der noch zu verbauffen stehende
+#facs_87_r2l6 Roggen und das Mischel vorn in folgender
+#facs_281_r4l19 Zeit verkauft werde, als
+#facs_87_r2l8 von dem Empfang dis Schreibens an,
+#facs_87_r2l9 tiß zu End brachmonats, die andere
+#facs_92_r2l11 Helfte aber im lauf Heimonats
+#facs_89_r4l3 2° der Dinkel und Waizen dann in
+#facs_87_r2l12 in dreyen Zeitpunkten, als
+#facs_87_r2l13 Der Erste Drittel, von Empfang diß
+#facs_87_r2l14 Schreibens an, bis Endes Brachmonats,
+#facs_87_r2l15 der zweite Drittel, während und imlauf
+#facs_87_r2l16 des Heimonats, und
+#facs_87_r2l17 der Dritte und lezte Drickel, während
+#facs_87_r2l18 und im Lauf des Augstmonats; und
+#facs_87_r2l19 /: an die Ämter wo keine Wochen
+#facs_87_r2l20 Märkt sind, und nicht den Befelch
+#facs_87_r2l21 erhalten werden, das zu verkauffen
+#facs_87_r2l22 habende Getreid zu speisung des hiesigen
+#facs_87_r2l23 Korn Markts zu lieferen :/
+#facs_87_r3l1 169
+#facs_89_r4l16 3o In ansehen dieser zu verkaufenden
+#facs_87_r3l3 Obrigkeitlichen Früchten, mit denen
+#facs_87_r3l4 Händleren vorläufig, und eher sie das¬
+#facs_87_r3l5 Gewächs würblich abholen, kein kauff¬
+#facs_87_r3l6 geschloßen, noch ihnen solches zu bestellen
+#facs_87_r3l7 erlaubt werde, sondern ihnen jedes mahl
+#facs_87_r3l8 zu kleinen Kaufen nur so viel Verkauf¬
+#facs_87_r3l9 werden solle, als sie alsobald mit sich
+#facs_87_r3l10 weg führen werden.
+#facs_89_r6l2 /: an die Amtleut zu Thun, Burgdorff,
+#facs_87_r3l12 Nydau, Erlach und St. Johansen
+#facs_87_r3l13 Begen speisung der Märbten der 4.
+#facs_87_r3l14 ersteren Orten
+#facs_178_r8l1 en
+#facs_87_r3l16 Wegen Speisung des Kornmarbts in
+#facs_87_r3l17 der Haubtstadt, an die Ämter Thorberg
+#facs_87_r3l18 Buchsee und Frienisperg, denn das
+#facs_87_r3l19 Stifft, Korn, Bauherrn und Muß¬
+#facs_87_r3l20 Hafen Amt von hier, Item Friem
+#facs_87_r3l21 Aperberger Haus, St. Johanfer Haus¬
+#facs_87_r3l22 und Interlaten Haus)
+#facs_92_r3l14 3° Ihr das obiger maßen zu verkaufen habende
+#facs_89_r6l13 habende Getreid auf dem Markt
+#facs_87_r3l25 im lauffenden Preis en detail verbauffet
+#facs_88_r1l1 170.
+#facs_221_r1l34 an die Amt¬
+#facs_71_r1l10 Thorberg
+#facs_218_r4l30 und Eintrag geschehe.
+#facs_88_r2l1 auch dabey euch angelegen seyn
+#facs_88_r2l2 laßet, das zu versilberen habende
+#facs_88_r2l3 Getreis, den Marbts tagen nach so
+#facs_92_r3l20 anzutheilen, daß nach obiger Anweisung jede
+#facs_88_r2l5 sung, jede Gatung frucht, in der zu
+#facs_88_r2l6 derselben Abstoßung angewiesenen zu
+#facs_88_r2l7 und nicht ehender zu Markt gestelt, und
+#facs_88_r2l8 verkauft werde.
+#facs_88_r2l9 Welchem nach Ihr Euch zu verhalten
+#facs_88_r2l10 wißen, und über das erlösende Uns
+#facs_88_r2l11 gebührende Rechnung tragen, übrigens
+#facs_88_r2l12 dann wegen denen bey diesem Verkauf
+#facs_88_r2l13 abzustoßenden Getreide schützenen, die
+#facs_88_r2l14 Anleitung Unserer Fürgeliebten Miträhten
+#facs_88_r2l15 der Herren Teutsch Sebelmeister und Ven¬
+#facs_88_r2l16 neren erwarten und befolgen werdet
+#facs_88_r2l17 Wobey euch zum Bericht dienet, daß
+#facs_88_r2l18 wegen denen daherigen Führungs böste
+#facs_88_r2l19 Wir Unseren Fürgeliebten Mit Rähten
+#facs_86_r4l11 denen Herren Teutsch sekelmeister und
+#facs_88_r2l21 Venneren überlaßen, das angemeßene Ver¬
+#facs_88_r2l22 verordnen. Dat. den 21ten May 1779.
+#facs_178_r8l1 en

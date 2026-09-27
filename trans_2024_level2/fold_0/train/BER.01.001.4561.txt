@@ -1,0 +1,35 @@
+Law nr: BER.01.001.4561
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 24/24
+# High similarity (>=80%): 24
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_218_r4l13 alle deutsche Herren Amtleut, vier
+#facs_109_r6l21 Städt Freyweibel und Anna
+#facs_145_r3l4 Vieh Verkauf
+#facs_36_r3l7 Schultheiß und Rath
+#facs_145_r3l6 da Uns die Anzeige gethan wor,
+#facs_145_r3l7 den, daß in verschiedenen Begenden
+#facs_145_r3l8 um die Haupt Stadt herum von Aus¬
+#facs_145_r3l9 teren Mezgerin nahmhafte Vieh¬
+#facs_145_r3l10 käuft gemacht, und selbe zu wieder der
+#facs_145_r3l11 von Unseren Gnädigen Herren und
+#facs_145_r3l12 Oberen den 30. April 1783. ausge¬
+#facs_145_r3l13 gangenen Verordnung, ihre ange¬
+#facs_145_r3l14 tausste Waar¬
+#facs_145_r3l15 haben understehen lasen; So tragen
+#facs_145_r3l16 Wir Euch, mit Zusendung genugsamer
+#facs_145_r3l17 Exrinplarien dieser hievorbemelten
+#facs_145_r3l18 Verordnung, befelchlich auf, dieses
+#facs_145_r3l19 under obigem Dato emanierte Mandat
+#facs_145_r3l20 frischerdingen von Kanzler publicieren
+#facs_145_r3l21 zu laßen, und Hand abzuhalten, das
+#facs_145_r3l22 deme pünktlich folg geleistet werde. Dat.
+#facs_145_r3l23 den 1. Febr. 1785
+#facs_83_r3l6 en

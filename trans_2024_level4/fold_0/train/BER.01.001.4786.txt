@@ -1,0 +1,157 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 150/150
+# High similarity (>=80%): 141
+# Low similarity (<80%): 9
+# Not found: 0
+#
+#facs_246_r1l1 1478.
+#facs_4_r3l2 Verordnung.
+#facs_106_r3l25 betreffend den Verkehr mit den Angehörigen
+#facs_32_r2l3 Stand Freyburg
+#facs_259_r3l15 Wir Schultheis klein und große
+#facs_32_r2l5 Räthe der Stadt und Republik Bern, mit
+#facs_4_r3l22 entbieten allen Unsern lieben und getreuen
+#facs_32_r2l7 angehörigen zu Stadt und Land Unsern
+#facs_32_r2l8 gnädigen und geneigten Willen und
+#facs_32_r2l9 geben ihnen hierdurch zuvernehmen:
+#facs_32_r2l10 demenach Wir in Betrachtung der
+#facs_32_r2l11 nachbarlichen Verhältniße, die zwischen
+#facs_32_r2l12 den Unsrigen und den Angehörige
+#facs_32_r2l13 des Löbl. Standes Freyburg Statt haben
+#facs_32_r2l14 mit Unsern lieben und getreuen Eids¬
+#facs_32_r2l15 genoßen ermeldt Löbl. Standes Frey
+#facs_32_r2l16 burg übereingekommen sind, den Ver¬
+#facs_32_r2l17 kehr mit allen Arten von Lebens mit der
+#facs_32_r2l18 zwischen beyden Cantonen, unter nothwen¬
+#facs_32_r2l19 digen Einschränkungen, zu erleichtern,
+#facs_32_r2l20 als verordnen und statuiren Wir, was
+#facs_32_r2l21 von einem zum andern folgt:
+#facs_32_r2l22 von dem Verkehr mit Leblare.
+#facs_38_r2l18 1. Jedem hiesigen Angehörigen und jedem
+#facs_45_r3l3 An
+#facs_105_r4l5 6e
+#facs_244_r3l22 Angehörigen der L. Ständen Tern und Freyburg.
+#facs_32_r3l3 der gemeinsam besitzenden Mediat - Aemter
+#facs_32_r3l4 Schwarzenburg, Mürten, Grandson und Tschertig
+#facs_32_r3l5 ist verstattet, in beyden Cantonen Pferde
+#facs_32_r3l6 große und kleine Viehlaare, und Schweine zu
+#facs_32_r3l7 seinem Haus gebrauch anzukaufen, und auch der
+#facs_32_r3l8 gleichen zum Verkauf ins andere Gebiet
+#facs_32_r3l9 abzuführen. Alles jedoch unter folgenden
+#facs_32_r3l10 Einschränkungen
+#facs_32_r3l11 Erstlich. Daß dieser Verkehr nicht bey
+#facs_32_r3l12 den Häusern, sondern einzig um allein
+#facs_32_r3l13 an den öffentenlichen Jahr und Wochen
+#facs_32_r3l14 markten geschehe, in dem ausschliesslich nur
+#facs_32_r3l16 den Mezgermeistern der Städlen¬
+#facs_32_r3l17 Canton Freyburg verwilliget seyn soll, die
+#facs_32_r3l18 benöthigten Kälber, so nicht zu Markte geführt
+#facs_32_r3l19 werden, bey den Häusern anzukauffen, nicht
+#facs_32_r3l20 aber zu bestellen.
+#facs_32_r3l21 Zweytens. Daß beinem Freyburgischen Immediat
+#facs_32_r3l22 oder Mediat - Angehörigen der Ankauf von Leb¬
+#facs_32_r3l23 waare in Unsere Landen gestattet seyn solle.
+#facs_32_r3l24 er könne denn einen, nach allen in Unserer
+#facs_32_r3l25 Verordnung über den Verkehr mit Äußern
+#facs_32_r3l26 bestimmten Erfordernißen eingerichteten
+#facs_45_r3l3 An
+#facs_38_r1l1 66
+#facs_269_r2l24 der linken Seite an dasigem Rumen,
+#facs_33_r2l2 seits unsern angehörigen untersagt ist
+#facs_33_r2l3 ohne den behörigen vom Inspektor der Orts
+#facs_33_r2l4 zu erhaltenden Ausfuhr-Schein, Pferde und
+#facs_33_r2l5 andere Vieh Baare auf Jahr oder Wochen
+#facs_33_r2l6 marrte im Canton Freyburg und der
+#facs_120_r6l19 Mediat Aemtern.
+#facs_8_r6l21 führen.
+#facs_33_r2l9 Drillens. daß am gleichen Markt tag:
+#facs_33_r2l10 ein Freyburgischer Immediat und Media¬
+#facs_33_r2l11 Angehöriger nicht mehr ankaufen und ab¬
+#facs_33_r2l12 führen dörfe, denn die benöthigte
+#facs_33_r2l13 kleine Viehwaare, oder zwey Stük es
+#facs_33_r2l14 seyen nun Pferde oder große über¬
+#facs_33_r2l15 jährige Viehwaare, oder Schweine. Den
+#facs_33_r2l16 Mezgern der Städten wird jedoch be¬
+#facs_33_r2l17 williget, zum Behelf ihrer Bänke, sechs
+#facs_33_r2l18 Stut große überjährige Viehwaare an
+#facs_33_r2l19 zu kaufen: anderseite soll auch jedem
+#facs_33_r2l20 Unser Angehörigen nicht vergönnt seyn,
+#facs_33_r2l21 auf einen Markttag ins Freyburgische
+#facs_33_r2l22 und das Mediat Land ein mehrers
+#facs_33_r2l23 zum Verkauf zuführen, als das hievor
+#facs_33_r2l24 gemeldte. In dem Verstand, daß keiner
+#facs_33_r2l25 befugt
+#facs_33_r3l1 befügt seyn solle, Commissionsweise oder unter
+#facs_33_r3l2 gend einem andern Vorwand die in beyden
+#facs_33_r3l3 Fällen verwilligte Anzahl im Ankauf zu über¬
+#facs_33_r3l4 schreiter.
+#facs_39_r2l5 Von dem Verkehr mit Getreide.
+#facs_9_r7l1 11
+#facs_33_r3l7 Erbleibt unsern Immediat-Ange¬
+#facs_33_r3l8 hörigen unbedingt verbotten, Getreid aller
+#facs_33_r3l9 Art. Mehl, Brodt, Steiß, und alles was hier aus
+#facs_33_r3l10 verfertiget ist, aus dem Lande zu verkau¬
+#facs_33_r3l11 chen oder zuführen,
+#facs_33_r3l12 III. Den Freyburgischen Immediat
+#facs_33_r3l13 Angehörigen ist aber gestattet, auf den hie¬
+#facs_33_r3l14 tigen Märkten zu ihrem Haus gebrauch, und
+#facs_33_r3l15 mit den eingeführten Ankauf-Zedeln der
+#facs_33_r3l16 Vorgesezten ihrer Oats, vier Mär Getreide
+#facs_33_r3l17 auf einmal wochentlich anzukaufen. Es
+#facs_33_r3l18 soll aber dieser Ankauf persönlich geschehen.
+#facs_33_r3l19 und verbotten seyn, sich mit Ankauf-Zedeln
+#facs_33_r3l20 von andern Partikularen zu beladen;
+#facs_33_r3l21 IV. Ein Angehöriger der Mediat. Armter
+#facs_33_r3l22 Murten, Grandson und Tscherliz, soll an hiesigen
+#facs_33_r3l23 Märkten wochentlich für seine Haushaltung
+#facs_33_r3l24 mehr nicht als zwey Mar, dagegen
+#facs_33_r3l25 aber
+#facs_13_r1l1 18
+#facs_34_r2l1 aber Commissionsweise für drey andere, von
+#facs_34_r2l2 mittelst Vorweisung der erforderlichen Zedel
+#facs_34_r2l3 zu thin in allem wochentlich acht Mas an
+#facs_34_r2l4 kaufen können.
+#facs_39_r2l12 von dem Verkehr mit übrigen
+#facs_34_r2l6 Lebens mitteln.
+#facs_34_r2l7 V. was dieömmung und Erdfrüchte, Ga¬
+#facs_34_r2l8 Tengewachse, Eyer, Putter und übrige
+#facs_34_r2l9 Lebensbedürfniße betrift, so soll es hie
+#facs_34_r2l10 sigen und den Freyburgischen Immediat,
+#facs_34_r2l11 und Mediat, angehörigen erlaubt seyn.
+#facs_34_r2l12 solche auf den Märkten in beyden
+#facs_34_r2l13 Cantonen und den Mediater Aemtern und
+#facs_34_r2l14 ihren Hausgebrauch anzukaufen, und dahin
+#facs_34_r2l15 jedoch mit Maaß, zum Verkauf abzu¬
+#facs_8_r6l21 führen.
+#facs_34_r2l17 Aller Handel bey den Häusern bleibt
+#facs_34_r2l18 aber aufs schärfste untersagt, auch soll
+#facs_34_r2l19 der Futter aus hiesigen Immediat Lande
+#facs_34_r2l20 nicht auf Wägen oder Lastthieren ins
+#facs_34_r2l21 andere Gebiet zu führen erlaubt seyn.
+#facs_34_r2l22 Die Verordnungen für die Vier Mediat
+#facs_34_r2l23 Aemter
+#facs_39_r3l1 69
+#facs_34_r3l2 Aemter, vom 10ten Aprill 1794. verbleiben
+#facs_34_r3l4 voller Kraft. Jedoch soll die hievorstehende
+#facs_34_r3l5 Einschränkung der Ankauf Zedeln auch gegen die
+#facs_34_r3l6 Aemter Murten, Grandson und Tscherlitz Plag
+#facs_34_r3l7 finden; diejenigen aber so gegen ermeldte
+#facs_34_r3l8 Verordnung vom 10ten Aprill fehlen würden
+#facs_34_r3l9 sollen mit der im Ausfuhr Verbott vom 3.
+#facs_34_r3l10 december 1794. bestimmten Strafe be¬
+#facs_34_r3l11 legt werden.
+#facs_34_r3l12 Auf die Widerhandlung in allen diesen
+#facs_34_r3l13 Fällen, istentweder die Ausführstrafe
+#facs_34_r3l14 oder geringere Bußen gesezt, wie solches
+#facs_34_r3l15 Unsere unterm 22ten Januar lezthin emanirte
+#facs_34_r3l16 General=Verordnung, über den Verkehr mit
+#facs_34_r3l17 Äußern, des ausführlichen bestimmt.
+#facs_34_r3l18 Die Exekution dieser Verordnung soll auch auf
+#facs_34_r3l19 gleiche Weise vor sich gehen, wie im Mandat
+#facs_34_r3l20 vom 3ten dezember 1794 und 13ten Januar
+#facs_34_r3l21 1795. vorgeschrieben ist.
+#facs_34_r3l22 Geben in Unsrer Großen Raths - Ver¬
+#facs_34_r3l23 sammlung, den 28ten Januar 1795
+#facs_27_r3l20 Lansley Bern.
+#facs_98_r5l28 en

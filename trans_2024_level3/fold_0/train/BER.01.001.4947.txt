@@ -1,0 +1,126 @@
+Law ID: BER.01.001.4947
+Name: Von der Lehengüteren wegen die uff Gelttagen kommen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 115/115
+# High similarity (>=80%): 80
+# Low similarity (<80%): 35
+# Not found: 0
+#
+#facs_102_r1l1 189
+#facs_382_r2l5 sollen, die Ambtleuth im Weltschland anstellen
+#facs_148_r2l2 ammen von der Lehenauteren Wegen
+#facs_148_r2l3 die vff gelttagen kommen
+#facs_148_r2l4 Schultheiss, Rhärt vnnd Burger u. Was Ordnung
+#facs_148_r2l5 wenn sie achtens, wie wieder die schweckung zertrennung, vnd
+#facs_148_r2l6 führung zu stücklung vnnserer Lechtiguteren, durch vnnser
+#facs_148_r2l7 allgemein zu schlagen. Den zu Wintemonats Jünst verschinnen
+#facs_148_r2l8 gethan, vnnd was wie für ein paen vnd straff darauff gesetzet
+#facs_148_r2l9 Das wirt die Zweiffels ohn in früscher gedecht nicht syn, vnnd
+#facs_148_r2l10 Vnnsere vnnderthanen. sich vß beschachner öffentlicher verkund¬
+#facs_148_r2l11 desehen wol zuerinneren haben. Zy wellicher vnnser Ordnung
+#facs_148_r2l12 als noch man durch vns verbliben lassendt, Vnnd ist vnnser
+#facs_148_r2l13 will vnnd welch an Dich. Das die selbige iärlichen zu gewissen
+#facs_148_r2l14 wünnlicher Gött, dan vnnseren zu treten nachrichtung
+#facs_148_r2l15 von den kauzten öffentlich verkant, vnnd du, zyne Vnmer¬
+#facs_148_r2l16 annotschuth, vnnd wordnete vffsacher, ein geflissne vff achtung
+#facs_148_r2l17 habindt, daß darob stifft halten, vnnd die vber worter in be¬
+#facs_148_r2l18 stimmte Straff gezogen werden.
+#facs_148_r2l19 Sowie aber durch die träglichen berichten, sindt anzogner vnnse¬
+#facs_148_r2l20 ordnung, erfharen, Vnns auch die villfaltigen geltstagen, Die
+#facs_148_r2l21 beyder hin vnnd wider, in vünserem landt gehalten werdend, bezügenden
+#facs_148_r2l22 das von Übersachung wegen vnser alten lechens ordnungen
+#facs_148_r2l23 weill vnnser Vnnderthanen, durch Ihre schlatten Aushaltungen, bischa¬
+#facs_148_r2l24 rünsere lehengüter mit schulden dergestalt beschwert vnnd beladen
+#facs_148_r2l25 Dessen zu bezalung derselben kein ander mittel wüssend, dann
+#facs_148_r2l26 ein glombigeren solche Lechengute vff geltstagen fur zuschlachen
+#facs_148_r2l27 daß also vßtruckentich wider vnser Lösewacht vnnd Ordnung
+#facs_148_r2l28 ist. Vns erafft wellicher wie gevöllig vnnd befugt warum die aber
+#facs_148_r2l29 zu vnnseren Handen zwischen
+#facs_148_r2l30 So aber hierdurch den vnnseren die
+#facs_148_r2l31 mittel wie Narung, vnnd daß sie Ihr schulden nicht lezalen mochten
+#facs_148_r2l32 entzoget wurden, wolend wir vns schonnderen gnaden, liebe, gute vnnd
+#facs_148_r2l33 müthten, doch ohne nachtheyl vnnser Lehnurechten, vnnd alle
+#facs_148_r2l34 melter vnnser Jungst angesachnen adnung ohne abbruch, vnnd
+#facs_148_r2l35 ohne mehr Nachvolg. Jegen denselben nicht nach gefügten Rechten
+#facs_148_r2l36 Jharen, Sonnabes damit man zu solchen Ihren Nöthen möge,
+#facs_148_r2l37 geholffen vnnd Ihre gläubiger bezalt werden. Der schulden hab
+#facs_148_r2l38 williche bis dato derselben Ordnung vff vnnseren Dechengutere
+#facs_148_r2l39 machten gemacht worden sein, Vnnd derohalb Eitliche vnnserer
+#facs_148_r2l40 Vunderthanen genötiget vnnd gezwungen würden geltstag
+#facs_148_r2l41 gehalten, hienach beschriben mittel zu kund nachlassen
+#facs_148_r3l1 29°
+#facs_148_r3l2 Daß wan vmb derglichen oberlutherte schulden vnnser lehengutern
+#facs_148_r3l3 Eins, usserster Noth halb, vff am geltstag kommen vnnd den glaubigern
+#facs_148_r3l4 zugeschlagen wurde, derselben aber keiner noch andere Kauffer das
+#facs_148_r3l5 Lechenquet, nach ihnem belichen Wärt, besten wettend noch näch¬
+#facs_1_r1l7 N°.
+#facs_148_r3l7 tend, also das es daruff tünde das das lehenguet vmb die
+#facs_148_r3l8 nur oder andere aussprach, denen o dagelbigen onderbar vertheilen
+#facs_148_r3l9 nere, vmb ein geringen pfenung, zu nachtheyl vnnd verlursten
+#facs_148_r3l10 er vbrigen glaubigeren, vnnd des Schuldners werden, verblijben
+#facs_148_r3l11 wurde, die aber sonnsten wol bezalt werden möchten, Wann man
+#facs_148_r3l12 das lächen guet Stucks wyß, vnnd entlicher massen zertheylt hingeben,
+#facs_148_r3l13 wörffte, das in sollichen begabenden that, vnnser Leisengnet derg statt,
+#facs_148_r3l14 zertheylt vnnd stuckswijfs möge hingeben werden, das vnnser
+#facs_148_r3l15 Amtluth vnnd die verordneten vff solchen geltstagen dahin
+#facs_148_r3l16 eschen, vnnd handlen sollend, das einem gläubiger oder könffer
+#facs_148_r3l17 von dem lechengnet sondl stuck Zeunen muglich vmb yn
+#facs_148_r3l18 insprach, oder vff enthebung gegen annderen des Guldens glaubge¬
+#facs_148_r3l19 mit sollicher furichtigkeyct zugetheylt, das achter, maatlandt
+#facs_148_r3l20 holtz vnnd feldt, oder Recht ammer vff weyden vnd Limmer etc.
+#facs_148_r3l21 mit gesundert, minders so leget müglich, also geordnet vnnd
+#facs_148_r3l22 zu einen gegeben werdindt, das olliche hingegebne stuck, mit
+#facs_148_r3l23 desto besserer kommlichkeytt vnnd glegenheget, in ehr vnd er¬
+#facs_148_r3l24 beneigem wasen erhaltend werden mögendt
+#facs_148_r3l25 et glycher fürsichtigkeyet, werdend gedachte vnnsere
+#facs_148_r3l26 Amptluth, vnnd verordneten zu den geltstagen, die vbrigen
+#facs_148_r3l27 Lechensstuck anderen gläubigeren vnnd könfferen zu thäylen,
+#facs_148_r3l28 verordnen vnnd hingaben
+#facs_148_r3l29 Siely aber wollend wir den einen vnnd annderen vstructen¬
+#facs_148_r3l30 lich abgestrickt vnnd verboten haben, solliche Inen zugetheylte
+#facs_148_r3l31 echensstuck einiger gestalt, weder mitt geltchulden noch¬
+#facs_148_r3l32 minder weg, ohne vnnseren gunt, wussen vnnd bewilligen
+#facs_148_r3l33 zubeladen noch zubeschwären, by straff der vorwürckung vnnd
+#facs_148_r3l34 verlurst der übben
+#facs_148_r3l36 damit aber von sollicher in geltstagen zerthäylten vnnd
+#facs_148_r3l37 hingegabnen lächensstucken wegen, vnnser vff dem gantze
+#facs_148_r3l38 achen truk tehender bodenzins nicht zertheylt noch verstinklet
+#facs_148_r3l39 werde, It vnnser gäntzlicher will vor tand vnnd meynung,
+#facs_149_r2l1 Dass der Jenig wellichem der mehrertheil des leihens zugetheilt
+#facs_149_r2l2 vnnd an sich bringen wirt zum tragen vnnd vffrichter das gantzen
+#facs_149_r2l3 Erdenzinsen, benampt, geordnet vnnd gestelt werde, vnad derselben
+#facs_149_r2l4 thuldig vnnd verbunden sie hätte den volkommen bedenzins, zerlichen
+#facs_149_r2l5 In vnnser Schloß oder Huf, wohin man denselben schuldig ist,
+#facs_149_r2l6 eträwlich zuwaren vnnd vffgerichten, und die anderen miet¬
+#facs_149_r2l7 kouffer vnnd letzere der vbrigen Stucken des lechens, gleichwerk ver¬
+#facs_149_r2l8 bunden zu Imme wegen Ihren schuldigen Teyl, auch ohne wider¬
+#facs_149_r2l9 vnd zulezalen, vnnd abgerichten
+#facs_149_r2l10 und dannet die lechensstück, welche dergestalt vff geltstagen
+#facs_149_r2l11 rückswiss hingeben werden, so wirt müglich widerumb zu anneh¬
+#facs_149_r2l12 gebracht vnnd das lachen eigentzt werden möge, Als der besitzer
+#facs_149_r2l13 des mehrentheils des Cachens, als treger vmb den gantzen bedenzen
+#facs_149_r2l14 gewalt, fug vnnd recht haben, vor allen Fründen verwanten
+#facs_149_r2l15 vnnd annderen vff solliche zertzeylten Lachen tuck vmb den pfang
+#facs_149_r2l16 wie dieselben vff den geltstagen hingeben worden, an sich zuzuchen
+#facs_149_r2l17 vnnd hiemit das lachenguet widerumb herrgentzen, vnnd
+#facs_149_r2l18 sollendt vnnsere Amptlich dem wegen zu sollich ein billichen leichen
+#facs_149_r2l19 zug vnnd ergänkung, o offt es sich zutregt, gebürlich wird
+#facs_149_r2l20 rechtlich verholffen yn
+#facs_149_r2l21 alliche vnnsere gnädige bewilligung vnnd zulassung, der
+#facs_149_r2l22 Zutheyung des lechens, allein der schulden halb, so vor Dato obbe¬
+#facs_149_r2l23 melter vnnser den 24 9bris Jungstverschmän 1614 was
+#facs_149_r2l24 Gesegner Ordnung, vnsere leihengut komen vnd gewach en zyn
+#facs_149_r2l25 richten vnnd darumb geltstegen vfft hochtringender Noth gehalten
+#facs_149_r2l26 werden müstend, ums keins Wege der Fenigen schulden halb
+#facs_149_r2l27 o von dato in allen Ordnung, darauff gemacht worden worauf
+#facs_149_r2l28 oder fürthin vffgetriben wurdend, soll verstanden vnnd
+#facs_149_r2l29 es gelegt werden. Dann wir solliches durch anzogne¬
+#facs_149_r2l30 vnsere Ordnung, wie auch diß vnnser ansechen, vfftrucken
+#facs_149_r2l31 liche by consication vnnd verlurst der alben erpotten könne,
+#facs_149_r2l32 nochmalen by glycher pern wellend abgestrikt vnnd ver¬
+#facs_149_r2l33 luten haben. Darnach sollendt sich wünsere Amptluth
+#facs_149_r2l34 vnnd vnnderthanen Wüssen zurichten vnnd halten
+#facs_149_r2l35 Actum 14 Marty 1615

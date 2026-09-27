@@ -1,0 +1,34 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 26/27
+# High similarity (>=80%): 25
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4495
+#facs_219_r4l6 Post-Lauffer bestelt
+#facs_270_r3l1 „ 629:
+#facs_219_r4l2 An die Herren Amtleute auf der Route
+#facs_219_r4l3 von hier nach Beuf, als Lauzen,
+#facs_219_r4l4 Wiblisfurg, Petterlingen Cons. Lucens
+#facs_219_r4l5 Lausanne, Morsee und Neüv. Sepp.
+#facs_219_r4l6 Post-Lauffer bestelt
+#facs_126_r2l12 Schultheis und Raths-
+#facs_219_r4l8 Da, bey denen
+#facs_219_r4l9 gegenwärtig imßlichen Umständen
+#facs_219_r4l10 in denen sich die Respablic Benf befindet,
+#facs_219_r4l11 es öfters wiederfahren wird, daß in aller
+#facs_219_r4l12 fil Depeches von daher an hiesigen, wie
+#facs_219_r4l13 lob. in Stand Zürich = und hinwiederum
+#facs_219_r4l14 von eint- oder anderem Stand dahin —
+#facs_219_r4l15 spediert werden müßen, so finden Wir
+#facs_219_r4l16 nöthig Euch anmit den befelchlichen Auftrag
+#facs_219_r4l17 zu ertheilen, alsobald nach Empfang dieses
+#facs_219_r4l18 Schreibens, die Anstalt vorzubehren, daß
+#facs_219_r4l20 jeweilen auf jeder Station zwey
+#facs_219_r4l21 Postläuffer in Bereitschaft sich befinden
+#facs_219_r4l22 um die disortigen Schreiben und
+#facs_219_r4l23 Depeches in aller Ed an ihre Behör de
+#facs_219_r4l24 von Station zu Station zu übergeben.
+#facs_220_r3l14 Dath. den 12ten Februarii 1781.
+#facs_178_r8l1 en

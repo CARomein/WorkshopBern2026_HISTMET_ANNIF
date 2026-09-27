@@ -1,0 +1,74 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 66/67
+# High similarity (>=80%): 65
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4486
+#facs_208_region_1633453739425_2688l4 Ihnen anbefehlen den in Ao. 1776. in Druk aus¬
+#facs_22_r4l8 d
+#facs_176_r4l6 Alle Teütsch und Welsche Herren Amtleüt
+#facs_259_r4l4 4. Stadt, Freyweibel und Amman
+#facs_208_region_1633453739425_2688l4 Ihnen anbefehlen den in Ao. 1776. in Druk aus¬
+#facs_208_region_1633453739425_2688l5 gegebenen Bericht, wie die aus dem Waßer gezogenen
+#facs_208_region_1633453739425_2688l6 Menschen wieder zu sich selbst gebracht, und ihr Leben
+#facs_208_region_1633453739425_2688l7 erhalten werden könne, befolgen zu laßen
+#facs_8_region_1629822291040_72l_1 Schultheis und Raht s
+#facs_208_region_1633453743281_2691l3 Bereits unterm 9ten July 1765, haben Wir
+#facs_208_region_1633453743281_2691l4 von Uns aus, und noch seithero unterm 26ten
+#facs_208_region_1633453743281_2691l5 Bruchmonat 1776. durch Unseren Verordneten
+#facs_208_region_1633453743281_2691l6 Sanitaet-Raht mit mehrerer Ausdehnung,
+#facs_208_region_1633453743281_2691l7 den Bericht in Druk ausgehen laßen, Wie
+#facs_208_region_1633453743281_2691l8 die aus dem Waßer gezogene Menschen wieder
+#facs_208_region_1633453743281_2691l9 zu sich selbst gebracht, und ihr lebenerhalten
+#facs_136_r2l14 werden könne.
+#facs_208_region_1633453743281_2691l11 Wann Wir aber bey verschiedenen daherigen
+#facs_191_r7l8 som
+#facs_27_r1l1 50
+#facs_209_region_1633453775178_2706l1 leidigen vorfällen, mißbeliebig wahr¬
+#facs_209_region_1633453775178_2706l2 nemen müßen, daß Unfern hiebey geaus¬
+#facs_209_region_1633453775178_2706l3 serte Landesvätterliche Vorsorgen von den
+#facs_209_region_1633453775178_2706l4 Unsrigen öfters aus der acht gelaßen,
+#facs_209_region_1633453775178_2706l5 wird, und die Leüte noch stäts in den
+#facs_209_region_1633453775178_2706l6 Irrigen begriffen uns dem Stahn stehen,
+#facs_209_region_1633453775178_2706l7 das die aus dem Waßer gezogene Personen
+#facs_209_region_1633453775178_2706l8 allsobald auf den Kopf gestellt, oder
+#facs_209_region_1633453775178_2706l9 doch so gelegt werden sollen, daß der
+#facs_209_region_1633453775178_2706l10 Kopf viel niedrigen, als alle übrige
+#facs_209_region_1633453775178_2706l11 Theile des Leibs sich befinden, damit
+#facs_209_region_1633453775178_2706l12 das vermeint eingezogene viele Waßer,
+#facs_209_region_1633453775178_2706l13 wieder zum Mund hinaus fließen könne,
+#facs_209_region_1633453775178_2706l14 hiedurch dann eben die mehesten dieser
+#facs_209_region_1633453775178_2706l15 Leuten ersteket werden, weilen vermittelst
+#facs_209_region_1633453775178_2706l16 deßen der Zufluß des Gebluets gegenden
+#facs_209_region_1633453775178_2706l17 Kopf allzugroß wird, So veranlaßet
+#facs_209_region_1633453775178_2706l18 Uns ein solches, euch anzubefehlen, durch
+#facs_209_region_1633453775178_2706l19 die Publication dieses Schreibens den
+#facs_209_region_1633453775178_2706l20 wegen Besorgung der aus dem Waßer
+#facs_209_region_1633453775178_2706l21 gezogenen und erstikten Personen in Ao
+#facs_209_region_1633453775178_2706l22 1776. in Deut ausgegebenen ausführlichen
+#facs_209_region_1633453775178_2706l23 4 maniglich die gefährlichen Folgen dieses irrigen
+#facs_209_region_1633453775178_2706l24 Wehns vorzustellen, zugleich dann auch
+#facs_209_region_1633453770401_2703l1 509
+#facs_209_region_1633453778114_2709l1 Unterrichts wieder erinnerlich, und dabey
+#facs_209_region_1633453778114_2709l2 bekant zu machen, daß zu desto wirksammerer
+#facs_209_region_1633453778114_2709l3 Execution deselben, Wir ammit zu verordnen,
+#facs_209_region_1633453778114_2709l4 gut gefunden, daß in der Entfernung von
+#facs_209_region_1633453778114_2709l5 einer guten Stund um die Haubtstadt herum,
+#facs_209_region_1633453778114_2709l6 in allen denen in offt berührtem Unterricht
+#facs_209_region_1633453778114_2709l7 vernaufeten Fällen, die Verunglübten
+#facs_209_region_1633453778114_2709l8 allsobald wohl eingewillet in die Insul gebracht¬
+#facs_209_region_1633453778114_2709l9 in Unseren übrigen Städteund Landenaber,
+#facs_209_region_1633453778114_2709l10 selbige fördersamst an solche Ort transportirt
+#facs_209_region_1633453778114_2709l11 werden, allwo die angezeigte Versuch-Mittel
+#facs_209_region_1633453778114_2709l12 am schleunigsten und besten, könen ange¬
+#facs_209_region_1633453778114_2709l13 wendet werden. Wie zuthun und Hand
+#facs_209_region_1633453778114_2709l14 obzuhalten, daß hierunter Unserer Landes¬
+#facs_209_region_1633453778114_2709l15 vätterlichen Vorsorg entsprochen werde, Ihr
+#facs_209_region_1633453778114_2709l16 bestens wissen, und anbey dieses Schreiben
+#facs_209_region_1633453778114_2709l17 auch zu euerer Amts Nachfahren bekant¬
+#facs_209_region_1633453778114_2709l18 schafft, in dem Schloß Mandaten Buch nach¬
+#facs_209_region_1633453778114_2709l19 richtlich einschreiben laßen werdet.
+#facs_209_region_1633453778114_2709l20 Datl. den 11ten Septembl. 1780
+#facs_178_r8l1 en

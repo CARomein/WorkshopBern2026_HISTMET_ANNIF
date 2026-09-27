@@ -1,0 +1,120 @@
+Law nr: BER.01.001.4584
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 108/108
+# High similarity (>=80%): 98
+# Low similarity (<80%): 10
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_222_r5l11 alle deutschen Herren Amtleut,
+#facs_222_r5l12 denne an Wiblispurg, Milden,
+#facs_227_r2l15 Isterten, Lausanne, Viris, Oron,
+#facs_118_r7l25 Petterlingen
+#facs_222_r5l15 Die Einfuhr fremden Getreids wird
+#facs_225_r4l21 verbotten.
+#facs_87_r3l18 Schultheit Rath und Burger.
+#facs_222_r5l18 Auf angehörten Vortrag Unserer
+#facs_222_r5l19 wohl verordneten Korn Cammer, und da
+#facs_222_r5l20 bey geliebt es Godt, fort daurend gün¬
+#facs_222_r5l21 stiger Witterung eine gesegnete Ernd
+#facs_222_r5l22 zu verhoffen ist, auch eine zimliche
+#facs_222_r5l23 quantitet Getreid so bohl in deutsch
+#facs_9_r3l1 31
+#facs_223_r2l1 als welschen Landen sich vorfindet,
+#facs_223_r2l2 haben Wir nothwendig erachtet, die
+#facs_223_r2l3 Einfuhr des Fremden Getreyds mit
+#facs_223_r2l4 dem 1ten Juny nächstkönfftig zu verbieten,
+#facs_223_r2l5 und Ibar unter der Straff der Confis¬
+#facs_223_r2l6 cation gegen die wiederhandlende;
+#facs_223_r2l7 Ihr werdet demnach solches zu jeder
+#facs_223_r2l8 mäniglichen Nachricht und Verhalt
+#facs_223_r2l9 gebohnter maßen publizieren laßen,
+#facs_223_r2l10 und Hand obhalten, daß deme nachge¬
+#facs_224_r2l11 lebt werde. Dat. den 5ten May 1786.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_223_r2l13 alle Teutsch und welsche Herren
+#facs_223_r2l14 Amtleut, item Zofingen und Gatstadt
+#facs_31_r3l7 Wegen Haltung der Capitlen
+#facs_223_r2l16 Collati Schultheiß und Rath etc.
+#facs_223_r2l17 Da wiedermahlen die Zeit an¬
+#facs_223_r2l18 rubet, die geböhnliche Ver¬
+#facs_53_r8l10 e
+#facs_223_r2l20 des Capitals und der Cla¬
+#facs_223_r2l21 haben Wir eingefehlen wolle.
+#facs_223_r2l22 ansehung aller anderer Ge¬
+#facs_224_r2l22 und bey Eüerem Eid Euch zu seiner
+#facs_222_r4l1 Collat
+#facs_12_r2l1 43
+#facs_223_r4l2 Zeit und seines Orts einzufinden, und
+#facs_223_r4l3 verschaffen zu helfen, daß alles an
+#facs_223_r4l4 bringende in die acta gebracht, und
+#facs_223_r4l5 solche Uns ohne Verschub übersendt,
+#facs_223_r4l6 werden. Dat. den 10. May 1786.
+#facs_23_region_1633454616028_2913l1 An
+#facs_223_r4l9 Decan
+#facs_223_r4l10 die Herren deutschen Lands, und
+#facs_223_r4l11 Claßen welschen Lands.
+#facs_224_r4l13 Obed
+#facs_31_r5l5 Schultheiß und Rath etc da die
+#facs_223_r4l14 Zeit zu Abhaltung der Kapitlen
+#facs_223_r4l15 und Klaßen heran rubet, haben
+#facs_156_r6l9 Wir Euch anmit anbefehlen wollen
+#facs_354_r3l17 solcher geschäzet worden, die Schätere
+#facs_223_r4l18 samlen, und so dan zu veranstalt¬
+#facs_31_r5l11 daß alles ad acta gebracht, solche
+#facs_223_r4l20 gebohnter maßen signiert, und
+#facs_37_r2l7 Verschiedene
+#facs_223_r4l22 Dath den 10ten May 1786.
+#facs_4_r10l1 13
+#facs_223_r2l1 als welschen Landen sich vorfindet,
+#facs_223_r2l2 haben Wir nothwendig erachtet, die
+#facs_223_r2l3 Einfuhr des Fremden Getreyds mit
+#facs_223_r2l4 dem 1ten Juny nächstkönfftig zu verbieten,
+#facs_223_r2l5 und Ibar unter der Straff der Confis¬
+#facs_223_r2l6 cation gegen die wiederhandlende;
+#facs_205_r3l17 Ihr berdet demnach der Stadt Lausac
+#facs_223_r2l8 mäniglichen Nachricht und Verhalt
+#facs_223_r2l9 gebohnter maßen publizieren laßen,
+#facs_223_r2l10 und Hand obhalten, daß deme nachge¬
+#facs_224_r2l11 lebt werde. Dat. den 5ten May 1786.
+#facs_23_region_1633454616028_2913l1 An
+#facs_223_r2l13 alle Teutsch und welsche Herren
+#facs_223_r2l14 Amtleut, item Zofingen und Gatstadt
+#facs_31_r3l7 Wegen Haltung der Capitlen
+#facs_221_r1l7 Collat. Schulthei und Rath etc.
+#facs_223_r2l17 Da wiedermahlen die Zeit an¬
+#facs_224_r2l18 rubet, die gebohnliche Versamlung
+#facs_224_r2l19 des Capituls und der Claßen zu halten,
+#facs_224_r2l20 haben Wir von befehlen wollen, mit hint¬
+#facs_224_r2l21 ansehung aller anderer Geschäfften,
+#facs_224_r2l22 und bey Eüerem Eid Euch zu seiner
+#facs_123_r2l1 Collate
+#facs_13_r5l1 45.
+#facs_223_r4l2 Zeit und seines Orts einzufinden, und
+#facs_223_r4l3 verschaffen zu helfen, daß alles an
+#facs_223_r4l4 bringende in die acta gebracht, und
+#facs_223_r4l5 solche Uns ohne Verschub übersendt,
+#facs_223_r4l22 Dath den 10ten May 1786.
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_23_region_1633454616028_2913l1 An
+#facs_223_r4l9 Decan
+#facs_223_r4l10 die Herren deutschen Lands, und
+#facs_223_r4l11 Claßen welschen Lands.
+#facs_224_r4l13 Obed
+#facs_224_r4l14 Da die
+#facs_36_r3l7 Schultheiß und Rath
+#facs_223_r4l14 Zeit zu Abhaltung der Kapitlen
+#facs_223_r4l15 und Klaßen heran rubet, haben
+#facs_156_r6l9 Wir Euch anmit anbefehlen wollen
+#facs_224_r4l19 solche gebohnten maßen zu ver¬
+#facs_223_r4l18 samlen, und so dan zu veranstalt¬
+#facs_31_r5l11 daß alles ad acta gebracht, solche
+#facs_223_r4l20 gebohnter maßen signiert, und
+#facs_59_r2l11 stände gesehen werde.
+#facs_223_r4l22 Dath den 10ten May 1786.

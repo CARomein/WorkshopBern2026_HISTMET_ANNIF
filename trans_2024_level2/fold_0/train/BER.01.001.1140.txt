@@ -1,0 +1,77 @@
+Law ID: BER.01.001.1140
+Name: Freiburgischer Salzfuhr halb.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 66/66
+# High similarity (>=50%): 64
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_267_r3l13 Voniamostier, Ifferten, Milden, Pötterling
+#facs_267_r3l14 Wiblisfurg, St: Johansen
+#facs_267_r3l15 Freiburgischer Salm fuhr halb.
+#facs_267_r3l16 Schuldtheisz eines Raht etc.
+#facs_267_r3l17 Alles uff hürt vor was erschinnen Jaquer Petollaz Queger zu
+#facs_267_r3l18 Freyburg, uns alls ein bestelvor vielmechtiger anwalt von unseren
+#facs_267_r3l19 follat
+#facs_267_r3l20 g. u. E. M. mind B. daselbsten, Ire Nott und Landtschafft, mit
+#facs_267_r3l21 angenen 1200 nach erforderender nothurfft mit Bürgundischem
+#facs_267_r3l22 soll, so wol durch faßen als Salzleiben zu versechen, In wafft
+#facs_267_r3l23 und nach reysung der Ime harumb von syner Verkeitt zugestelten.
+#facs_267_r3l24 Patent u pixlich ersuchende, Ime durch gehendigung glycher
+#facs_267_r3l25 Patenten, die conclut vermit vff vngehnderten Passen bemalts
+#facs_267_r3l26 Faltzes desto schleuniger münd sicherer zubefürderen, mit angehendeter
+#facs_267_r3l27 verlärung, das zu vermydung betrugs die faßlin, mit disen Zeicht
+#facs_267_r3l28 Stct. P.
+#facs_267_r3l29 und contiemarque bezeichnet werden sollen u. haben wir zwar
+#facs_267_r3l30 nemwegen der pünden unseren Eidt: den Paß vmbsachen die Zur nothurfft
+#facs_268_r2l1 und gutten Irer Statt und Landtschafft dienen nit weigeren Bän¬
+#facs_268_r2l2 In betrachtung aber der In disen vnnd anderen fälen hievor, mehr
+#facs_268_r2l3 geüblen ich windigkeiten beschiedungs, Ime petacten
+#facs_268_r2l4 Innamen obstahl, nit mehr als einen eintzigen als den nechsten
+#facs_268_r2l5 vnd sichersten zu obbemelten Sallzes durchfertigung gezeichnet
+#facs_268_r2l6 wie obsocht reß Burgund vff Ballzul, von damnen vff Isterff
+#facs_268_r2l7 und Würgen volgends gehn feyburg gebewilligen wollen
+#facs_268_r2l8 Vnnd dich dabÿ berichten sollen + vff das du Inne oder syne
+#facs_268_r2l9 anwöld, In disem fahl ohngehinderert verfahren, jedoch thätiges
+#facs_268_r2l10 Euffsechen haltten sollest, das nit mir allein daß sonders auch kein
+#facs_268_r2l11 anders fremdes selbes weder In faßlin noch solten leiben.
+#facs_268_r2l12 ander gelegt, yngeschleickt, vß geben, vnd hindurch gefertigert
+#facs_268_r2l13 werde, wiedrigen fahls die Arresten vermögen hiende vnserer
+#facs_268_r2l14 außgangnen Mannaten, anzulegen, vnnd keines ohne verneren
+#facs_268_r2l15 anderen vnseren bescheid, oder die haetenten von vnsern Saltz
+#facs_268_r2l16 directoren ertheilen, vnd vffgewisen wurdend verfahren zelaßen.
+#facs_268_r2l17 Datum 20 9bres 1640
+#facs_268_r2l18 WiblisPurg
+#facs_268_r2l19 + vff das du seyßigerpachtung haben mnnd seligen laßen solle.
+#facs_268_r2l20 Des bin faull da angelentet wirtt, kein and saltz obgelegt
+#facs_268_r2l21 noch distubniert, seuwers stracks was dese contremarque fort
+#facs_268_r2l22 fortgefertiget werde, In ubrigen wirst dich vorgehenden vnseren
+#facs_268_r2l23 halben Mandaten gemäs zesphaltten müßen.
+#facs_268_r2l24 An die vlugen Amptluth
+#facs_268_r2l25 Mittbauelich weder das mit angedäthen zeichen vnd Contremargul, noch
+#facs_268_r2l26 auch anders genoch hienweigen vnserer Mandatten, paßionen zulaßen,
+#facs_268_r2l27 sonders In arrest Zeuemen, und was Jedwyln zuberichten.
+#facs_268_r5l1 216.
+#facs_268_r5l2 An alle Weltsche Amptlüth vB genomen.
+#facs_268_r5l3 Srauen unnd Arlen.
+#facs_268_r5l4 Wegen vß stehender gewarsamen
+#facs_268_r5l5 Hir Schuldtheit vnnd Rast der Statt Bern¬
+#facs_268_r5l6 Die habend zwar biß dahero verhofft, es wurde und vff vnser
+#facs_268_r5l7 und erschu anlich vß gangne bevelchen die Jenigen so hienen unser
+#facs_268_r5l8 gekomen also E. ad modiationes was empfangen, oder derselben
+#facs_268_r5l9 Erben, die Penugen vbergebet zworsamen vnd documenta neu umb
+#facs_268_r5l10 estituiert vnnd on Je arth gelegt haben: Wann wir aber mit
+#facs_268_r5l11 unserem nit wenigen insofollen zuemen maßen, vnd verspüren
+#facs_268_r5l12 mußen, daß vns dergleichen brieffliche originalia noch vnd schuenlich
+#facs_268_r5l13 an dem ein und anderen ertheilenden, Als holend wir lenger
+#facs_268_r5l14 nit zu sechen, sonders dir hiemit ernstlich anbenelehne wollen, ermelte
+#facs_268_r5l15 admodiatarien die noch Inläben, oder der abgestorben leben, dihnen
+#facs_268_r5l16 Zwalttung, für dich zu forderen, und by Iren geschwornen liven, zu
+#facs_268_r5l17 befragen, ob, und was für documenta und gewesame, sovns zestendich
+#facs_268_r5l18 Ein mählend, annoch hinder den ein vnd anderen ligend, damit selbige
+#facs_268_r5l19 die immerzogenlich überamttwortel, vnd ein Jedes an seyn art
+#facs_268_r5l20 gelegt wie, daß ist vnser will
+#facs_268_r5l21 Datum 3 Decemb 1640

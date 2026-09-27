@@ -1,0 +1,109 @@
+Law ID: BER.01.001.3423
+Name: Die Ordnung von Ao. 1718 wegen den frembden Schweynen erfrischen und erleütheren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 98/98
+# High similarity (>=50%): 97
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_66_r4l5 An Alle E. und W. Ambtleüth,
+#facs_66_r4l6 4. Stätt, Kreyleibel und Ammann
+#facs_66_r4l7 It. p. peaccard An hiesigen Stattpfyler
+#facs_66_r4l8 Die Ordnung von Ao 1718. wegen den frembden
+#facs_66_r4l9 Schweynen etc. erfrischen und erleütheren,
+#facs_66_r4l10 Schultheiß und Raht der Stalt Bernen
+#facs_66_r4l11 ereits undterm 28 Dec. 1718. Ist das
+#facs_66_r4l12 HochOberkeitl. Einsehen, damit einerseits
+#facs_66_r4l13 das Gelt im Land behalten; anderseiths
+#facs_66_r4l14 dann die frembden, sowohl gemäßete als
+#facs_66_r4l15 Ohngemästete Schweyn, gleich dem Spek,
+#facs_66_r4l16 und Schweynenfleisch, drausen behalten werden.
+#facs_66_r4l17 mögend, Zu Jedermäniglichs Verhalt
+#facs_66_r4l18 getrüket, behöriger Orthen publiciret, eint¬
+#facs_66_r4l19 und anders aber by völliger Confiscation
+#facs_67_r2l1 Verbotten worden; Also habend Wir
+#facs_67_r2l2 sothanes Verbolthierdurch erfrüssen,
+#facs_67_r2l3 und by gleicher straff gantz Ernst meinen
+#facs_67_r2l4 verbiethen wollen, daß weder feiste,
+#facs_67_r2l5 noch mager frembde Schweyn, wie
+#facs_67_r2l6 mit weniger frembder Spek und Schweynen
+#facs_67_r2l7 fleisch, nit mehr in Unsere Lande
+#facs_67_r2l8 Gelaßen, sondern zuruck gelasen, wieder¬
+#facs_67_r2l9 handtenden fahls aber die Jenigen, denen
+#facs_67_r2l10 Sie zustehen, mit deren Confiscation An¬
+#facs_67_r2l11 gesehen werden sollen.
+#facs_67_r2l12 Gleichwie wir aber den freyen Kauff
+#facs_67_r2l13 mit den benachbahrten Eydtgnösischen
+#facs_67_r2l14 Orthen, so weith es deren eigene Wahr¬
+#facs_67_r2l15 Ansihet, dißorths halber ungehemmet
+#facs_67_r2l16 Verbleiben Casen; also hat es hinwiderumb
+#facs_67_r2l17 angehorigen der
+#facs_67_r2l18 Auch die Meinung, daß denen Be-
+#facs_67_r2l19 nachbahrten Eydtgnösischen Orthen, auch
+#facs_67_r2l20 Vndter obenhär aufgesetzter Confiscationsstraff
+#facs_67_r2l21 Wie aber solchem an etwelchen Ohrten Unserer
+#facs_67_r2l22 sollmäßigkeit nicht in allem nachgelebt worden
+#facs_67_r3l1 129
+#facs_67_r3l2 Abgesteckt und Verbotten seyn solle,
+#facs_67_r3l3 solch Landtsfrembde und Äußern Schweyn
+#facs_67_r3l4 Auch Spek, und Schweynenfleisch, undter dem
+#facs_67_r3l5 Titul Eydtgnößischen Guets, auf was weiß
+#facs_67_r3l6 es Immer seyn mag, zum Verkauff in
+#facs_67_r3l7 Vnsere Land zu führen, und auch den Vnßeren
+#facs_67_r3l8 undter Gleicherstraff, deßen An benachbahrte
+#facs_67_r3l9 Eydtgnösischen Orthen Anzekauffen, und nach¬
+#facs_67_r3l10 Berts in Unseren Landen zu debitieren.
+#facs_67_r3l11 Vorgegen wir auch in der Vngezweyfflete
+#facs_67_r3l12 Hoffnung stehen, es werdend Gesammbte
+#facs_67_r3l13 Vnsere Liebe und Getreülde Angehörige
+#facs_67_r3l14 die bereits vorgekehrte, und dis mahlen
+#facs_67_r3l15 beiderhohlende Landtsvälterliche Vorsorg¬
+#facs_67_r3l16 Mannen
+#facs_67_r3l17 mit gebührender Dankbahrkeit Anneren
+#facs_67_r3l18 Auch von selbsten wohl begreiffen, daß
+#facs_67_r3l19 gegenwertiges einsehen Allein den Allge¬
+#facs_67_r3l20 meinen Landtsnutzen zum Absehen habe, mithin
+#facs_67_r3l21 Instünfftig, wegen dannenher Natürlicher
+#facs_68_r2l1 Beis vorstehender mehrerer Losung,
+#facs_68_r2l2 die Schweyn zucht und Mastung derselben
+#facs_68_r2l3 bestermaßen fortsetzen, hierdurch dan
+#facs_68_r2l4 trachten, den Nahmhafften proffit, so bis
+#facs_68_r2l5 dahin den frembden zum Theil woren
+#facs_68_r2l6 by sich selbsten, und im Land Zubehalten;
+#facs_68_r2l7 Wie Wir Unß dann deßen hiemit Versehen
+#facs_68_r2l8 haben wollend.
+#facs_68_r2l9 Welchen Unseren widerhohlten Willen undt
+#facs_68_r2l10 Vorzorg du zu Menigliches Nachricht offentlich
+#facs_68_r2l11 von Cantzlen verbunden, behörigen Orths An¬
+#facs_68_r2l12 schlagen zelassen, und solang darob gehalten
+#facs_68_r2l13 befelchnet wirst, bis wir ein Andern
+#facs_68_r2l14 gutfinden, und gegenwertiges Verbott
+#facs_68_r2l15 nicht wideruffen werden; Wie Zethu,
+#facs_68_r2l16 Auch dese Ordnung seines Orths ein¬
+#facs_68_r2l17 Schreiben zelaßen, und geflisenlich darob
+#facs_68_r2l18 gehalten lästen Wirst etc. Dat. den
+#facs_68_r2l19 20. Septembris 1723
+#facs_68_r4l1 131.
+#facs_68_r4l2 Auß befelcke Mrholl. des Meck¬
+#facs_68_r4l3 GeltsverAüßerungs Commission,
+#facs_68_r4l4 Lentzburg Praefo Königsfelden, Zoffingen Oec¬
+#facs_68_r4l5 Paysinnen, Märÿ, Sumißwald, Wiblisburg,
+#facs_68_r4l6 Nilden, Chillon, Romainmotier, Anbone, golt
+#facs_68_r4l7 stalt, allenleyl
+#facs_68_r4l8 Ihnen per Recharge befehlen, die sub 22. Jul.
+#facs_68_r4l9 Letzthin anbefohlene Verzeichniße der Schaffen
+#facs_68_r4l10 Ihrer Ambteren einzusenden.
+#facs_68_r4l11 Stalthalter und Raht etc.
+#facs_68_r4l12 Vndterm 22. Juli Letzthin hattend Wir
+#facs_68_r4l13 dir 1 gleich allen anderen Ambtleüthen :/ befohlen,
+#facs_68_r4l14 eine Exacte Verzeichnuß der Schaaffen deines
+#facs_68_r4l15 Ambts, und bis viel deren Gewintert werden
+#facs_68_r4l16 bömmenden Uns eintzeigenden; wie es aber biß
+#facs_68_r4l17 dahin noch nit geschehen; als habend Wir
+#facs_68_r4l18 die per Recharge befehlen wollen, fol¬
+#facs_68_r4l19 ches fürderlich zu erstatten; wie Zethung
+#facs_68_r4l20 läußen Wirst etc. Datum den 23ten
+#facs_68_r4l21 Septembris 1723

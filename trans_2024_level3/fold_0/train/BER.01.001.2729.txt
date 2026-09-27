@@ -1,0 +1,165 @@
+Law ID: BER.01.001.2729
+Name: Ihnen das getruckte Mandat in Ansehen des Vieh-Handels zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 154/154
+# High similarity (>=50%): 152
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_57_r4l2 Signalement.
+#facs_57_r4l3 Ein Kerl ohngefehr 30. Jahr alt, 5. Schuh, 5 biß
+#facs_57_r4l4 6. Zoll hoch, spizig, gladt, rahnen und bleichen
+#facs_57_r4l5 angesichts, spizige kleine Nasen, hat halb einge¬
+#facs_57_r4l6 zupfte Haar, tragt einen braunen abgeschliße¬
+#facs_57_r4l7 nen Rock und Knöpf von gleichem Tuch, eine
+#facs_57_r4l8 blaue abgeschlißene roth gefüeterte Veste, mit
+#facs_57_r4l9 gladt zimmernen knöpfen, braune abgeschlißene
+#facs_57_r4l10 S. V. Hoosen, Schbarzen Halsfloor und Strümpf,
+#facs_57_r4l11 einen Hut mit weißen zatlen, und einen schbar¬
+#facs_57_r4l12 zen dörnernen Stock, Redet gut Teutsch.
+#facs_57_r4l13 Aus
+#facs_57_r4l14 alle Teutsche und Weltsche Amtleuth, Vier Städt,
+#facs_57_r4l15 Freybeibel und Amen, item, Grandson und
+#facs_57_r4l16 Schbarzenburg; item per Placcard in hiesiger
+#facs_57_r4l17 Hauptstadt anzuschlagen.
+#facs_57_r4l18 Ihnen das getruckte Mandat in ansehen der
+#facs_57_r4l19 Vieh = Handels zusenden;
+#facs_57_r4l20 Schultheiß
+#facs_58_r4l1 Schultheiß und Rath etc.
+#facs_58_r4l2 Da Wir bey abgeänderten Zeit = Umständen
+#facs_58_r4l3 nöthig befunden, in ansehen des kauff- und
+#facs_58_r4l4 Handels des Vieht, die, in mitkommendem
+#facs_58_r4l5 placcard enthaltene Verordnung zu errichten
+#facs_58_r4l6 und Selbe öffentl. publicieren zu laßen; als
+#facs_58_r4l7 befehlen Wir Euch solche in Einberein Amt al¬
+#facs_58_r4l8 lenthalben von Canzlen verlesen, und offentl.
+#facs_58_r4l9 anschlagen, auch daß darob gehalten werde,
+#facs_58_r4l10 fleißig zu attendieren, auch dieses Mandat
+#facs_58_r4l11 seiner Orts einschreiben zu laßen. Kost mit
+#facs_58_r4l12 Einh. Dat. d. 9t. Marty 1763
+#facs_58_r4l13 Mandat
+#facs_58_r4l14 obid:
+#facs_58_r4l15 Mir Schultheisz und Rath der Statt Ho:
+#facs_58_r4l16 thun kuns hiemit; demnach Wir unterem 11. May
+#facs_58_r4l17 ferndrigen Jahre, bey Sich damahls geäußerten
+#facs_58_r4l18 Umständen den starck überhand genommenen
+#facs_58_r5l1 109
+#facs_58_r5l2 genommenen Fürkauff des festen Hornviehs ver¬
+#facs_58_r5l3 borten; so haben Wir bey dermahligen geänder¬
+#facs_58_r5l4 ten zeitläuffen, Unser angeregtes fürkauf¬
+#facs_58_r5l5 Verbot anders einzurichten gut befunden, und
+#facs_58_r5l6 hiemit vor einmahl erkennt
+#facs_58_r5l7 Erstens; Daß wir allen einheimischen und Eidge¬
+#facs_58_r5l8 nößischen Mezgeren, also auch allen Eidgenößisch¬
+#facs_58_r5l9 und fremden Händleren gestattet seyn solle, nicht
+#facs_58_r5l10 nur das magere, sondern auch das feste und zum
+#facs_58_r5l11 Mezgen taugliche Hornbich, es seyen Ochsen, Kin¬
+#facs_58_r5l12 der, oder Küh, auf den Alpen, Weyden, bey der
+#facs_58_r5l13 Häuseren, Ställen, und auf den Straßen, oder
+#facs_58_r5l14 wo es Ihnen beliebt in Unseren Landen, sobohl
+#facs_58_r5l15 zwischen den öffentlichen Jahr- und Wochen-Märk,
+#facs_58_r5l16 ten, alt auf denenselben anzukauffen; dabey
+#facs_58_r5l17 aber sollen Sie die Metzger und Händlere ge¬
+#facs_58_r5l18 halten seyn, solch Ihr erkauftes Vieh mit Sich aus
+#facs_58_r5l19 dem Land zu führen, und keines in Unseren
+#facs_58_r5l20 wieder
+#facs_58_r5l21 Landen zu verkauffen, da sonsten Sie mit der
+#facs_58_r5l22 nachgesezten Strafe, so auf den Fürkauff im
+#facs_59_r2l1 im Land gesezet ist, wurden angesehen werden.
+#facs_59_r2l2 Zbeytens; Bleichbie nun hiedurch den freyen
+#facs_59_r2l3 kauf alles Viehs, so äußert Landes geht, wieder
+#facs_59_r2l4 geöfnet, so soll hingegen der Fürkauff alles
+#facs_59_r2l5 fecten und ausgemasteten Hornviehs in dem
+#facs_59_r2l6 Land, noch ferners verboten, und die Händler
+#facs_59_r2l7 dahin gewiesen seyn, fahls Sie Solches nicht al¬
+#facs_59_r2l8 sobald von den Ställen oder Weyden beg, aus¬
+#facs_59_r2l9 dem Land führen Burden, daßelbe anderst
+#facs_59_r2l10 nicht als auf denen öffentlichen Jahr, und
+#facs_59_r2l11 Wochen, Märckten anzukauffen, und 4. Wochen
+#facs_59_r2l12 lang, ob Ihrem eigenen Fueter zu halten, ehe
+#facs_59_r2l13 sie solches wieder verkaufen mögen.
+#facs_59_r2l14 Den Meisteren Mezger Handwerks hiesiger
+#facs_59_r2l15 Haupt-Stadt dann soll noch ferners, die bis
+#facs_59_r2l16 dahin geschehen, das Zug-Recht gegen die ein¬
+#facs_59_r2l17 heimischen Händlere, auf baare Bezahlung.
+#facs_59_r2l18 ohne anders vorbehalten seyn. Alles bey
+#facs_59_r2l19 Straf der Confiscation und zwanzig Pfund
+#facs_59_r3l1 welche der Widerhandlende zu bezahlen haben,
+#facs_59_r3l2 und davon ein Dristel Uns, der andere dem
+#facs_59_r3l3 Amtsmann des Orts, und der dreite dem
+#facs_59_r3l4 Verleider, der über das aus sich der Geheim
+#facs_59_r3l5 haltung seines Namens zu getrösten hat, heim
+#facs_59_r3l6 dienen soll.
+#facs_59_r3l7 Welch Unsere Verordnung zu männigliche Nach¬
+#facs_59_r3l8 richt und verhalt öffentl. kund gethan wird,
+#facs_59_r3l9 die Wir aber, nach Bekantnuß der umstän¬
+#facs_59_r3l10 den, abzuänderen Uns vorbehalten. Beben
+#facs_59_r3l11 d. 9: Marty 1763
+#facs_59_r3l12 Sign: Canzley Bern
+#facs_59_r3l13 Fraduction
+#facs_60_r1l1 112./
+#facs_60_r1l2 Coll
+#facs_60_r2l1 Traduction
+#facs_60_r2l2 obid
+#facs_60_r2l3 Nous L'Avoyer et Conseil de la Ville
+#facs_60_r2l4 et Republique de Berne, savoir faisons: qu'ay
+#facs_60_r2l5 ant deffendu l’année passé par Nôtre Mandat du
+#facs_60_r2l6 11e May le trafic ou Comerce du Betail engraisse
+#facs_60_r2l7 suivant que les circonstances du tems sembloient
+#facs_60_r2l8 l'exiger: Nous aurions, vu que l'état des choses
+#facs_60_r2l9 a change depuis lors, jugé necessaire d'apporter
+#facs_60_r2l10 aussi quelques changements à la ditte Deffense.
+#facs_60_r2l11 Et sur ce nous avons ordonné, Comme suit.
+#facs_60_r2l12 Premierement. Il sera permis à tous les Boucher,
+#facs_60_r2l13 soit de nôtre Pays ou de la Suisse en general,
+#facs_60_r2l14 ainsi qu'a tous les commerçants en Bêtail
+#facs_60_r2l15 soit suisses, ou Etrangers, d'acheter librement
+#facs_60_r2l16 dans toute l'Etendüe de nos Etats toute sorte de
+#facs_60_r2l17 bêtes à Corne, Boeuf, Vache ou Genisse, maigre
+#facs_60_r2l18 où engraissés, soit sur la montagne; soit avec
+#facs_60_r2l19 paturages, soit dans l'Etable ou partout au
+#facs_60_r3l1 113
+#facs_60_r3l2 ailleurs ou Ils voudront, et cela en tout tems,
+#facs_60_r3l3 sans être assujettés pour leurs emplettes aux
+#facs_60_r3l4 jours de foire et marchés ordinaires: Bien en-
+#facs_60_r3l5 -tendu néanmoins et sous la reserve expresse
+#facs_60_r3l6 que lesdits Bouchers ou comercants ne pourre
+#facs_60_r3l7 point revendre dans nos Etats les Bestiaux,
+#facs_60_r3l8 qu'ils auroient achetés, mais qu'ils les em-
+#facs_60_r3l9 meneront tout-de-suite hors du Paÿs: Faute
+#facs_60_r3l10 de quoy ils ne pourroient qu'encourir la peine
+#facs_60_r3l11 prononcée ci apres contre Ceux, qui font le mono
+#facs_60_r3l12 pôle ou trafic du betail dans le Pays.
+#facs_60_r3l13 En second lieu: ainsi que la liberté du Comerce
+#facs_60_r3l14 du bêtail, qu'on voudra faire sortir du Paÿs,
+#facs_60_r3l15 est pleinement retablie par l'article precedent,
+#facs_60_r3l16 le trafic ou commerce des bestiaux engraissés
+#facs_60_r3l17 et propres à la boucherie, dans le Pays même
+#facs_60_r3l18 n'en sera pas moins deffendu comme du passé
+#facs_60_r3l19 voulant et ordonnant a cet effet, que les Com¬
+#facs_60_r3l20 mercants, qui ne voudroient pas emener
+#facs_60_r3l21 tout de suite hors du Pays le bêtail, qu'ils aché
+#facs_61_r2l1 achetent, ne puissent faire leurs Empletes qu'au
+#facs_61_r2l2 jours de foire et marchés ordinaires, et qu'ils
+#facs_61_r2l3 soyent de plus tenus de garder et nourrir le bétaire
+#facs_61_r2l4 pendant quatre semaines à leurs fraix, avant
+#facs_61_r2l5 que de pouvoir le revendre
+#facs_61_r2l6 Reservant du reste aux maitres Bouchers de
+#facs_61_r2l7 nôtre Capitale, comme du passé le droit de re-
+#facs_61_r2l8 traction ou preférence sur les Commerçants
+#facs_61_r2l9 en betail du Paÿs, pourvû qu'ils payent compte
+#facs_61_r2l10 Le tout sous peine de confiscation et de Vingt Le
+#facs_61_r2l11 vres d'amende, en Cas de Contravention: Donne
+#facs_61_r2l12 un Tiers nous reviendra, un autre Tiers à
+#facs_61_r2l13 Nôtre Ballif du lieu, et le tiers restant ech.
+#facs_61_r2l14 ra au Delateur: auquel de plus on prome
+#facs_61_r2l15 le secret.
+#facs_61_r2l16 Cest pourquoy nous avons fait publier la
+#facs_61_r2l17 Presente, afin qu'Elle serve de regle à un
+#facs_61_r2l18 Chacun pour aussi longtems, qu'il ne nous
+#facs_61_r2l19 paroitra pas necessaire d'en ordonner autres
+#facs_61_r2l20 Donne ce 9e Mars. 1763.
+#facs_61_r2l21 Signé Chancéterie de Bern

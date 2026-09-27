@@ -1,0 +1,262 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 255/255
+# High similarity (>=80%): 242
+# Low similarity (<80%): 13
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_207_r4l1 Milderung der Ausfuhr verbotte vom
+#facs_207_r4l2 4. Janl. 1792, inu 3t Decemb. 1794
+#facs_77_r4l4 An alle deutsch und Welsche Herren Amtleute
+#facs_116_r7l13 Ereyweibel und Ammann
+#facs_211_r3l9 Schultheiß Rath und Burger der Stadt Bern
+#facs_207_r4l6 da wir bey den gegenwärtig abgeänderten
+#facs_207_r4l7 Zeit umständen nötig befunden haben, an Un¬
+#facs_207_r4l8 teren unterm 4ten Januar 1792, und unterm
+#facs_207_r4l9 3t Christmonat 1794, publizirten Ausfuhr
+#facs_207_r4l10 verbotten einiche Abänderung zumachen
+#facs_207_r4l11 und verschiedene derselben wieder aufzu¬
+#facs_259_r3l2 leben, so überstenden Wir durch eine genugsam
+#facs_207_r4l13 anne Anzahl Exemplar, von der daherigen
+#facs_207_r4l14 Publikation, mit dem Befehl dieselbe zu jede¬
+#facs_207_r4l15 manns Nachricht und Verhalt öffentlich von
+#facs_207_r4l16 Canzeln verlesten, an den gewohnten Orten
+#facs_207_r4l17 anschlagen, und auch seines behörigen Orts nach
+#facs_207_r4l18 richtlich einschreiben zu laßen.
+#facs_257_r3l4 Geben den
+#facs_4_r2l1 ob id
+#facs_67_r3l14 Publication
+#facs_193_r6l23 Wir Schultheiß Klein und Große Räthe der Stadt
+#facs_207_r4l23 Republik Bern, entbieten allen Unsern lieben mit
+#facs_64_r3l26 Getreid
+#facs_57_r3l1 103
+#facs_207_r5l2 getreuen Bürgern und Angehörigen Unsern
+#facs_207_r5l3 gnädigen und geneigten Willen, und geben ihnen
+#facs_207_r5l4 hiedurch zu vernehmen: daß da Wir in denen
+#facs_207_r5l5 sorgsamen und bedenklichen Zeiten, in denen sich
+#facs_207_r5l6 Unsere Lande einige Jahre hindurch befunden, ge¬
+#facs_207_r5l7 nöthiget worden, der Entäußerung der vornehmsten
+#facs_207_r5l8 Lebens Bedürfnisse durch verschiedene Ausfuhr = Verbotte¬
+#facs_207_r5l9 so viel möglich, vorzubiegen. und da wir insbesondere
+#facs_207_r5l10 diese Verbotte unterm 3ten December 1794 zu
+#facs_207_r5l11 sammenziehen, und zu jedermanns Nachricht in
+#facs_207_r5l12 einer einzigen Verordnung publiciren laßen; so
+#facs_207_r5l13 haben Wir auch nun bey gegenwärtigen, Gott so
+#facs_207_r5l14 dank, viel besser anscheinenden Zeiten, uns über
+#facs_207_r5l15 erwähnte Verordnung erläutern, und hiemit
+#facs_207_r5l16 zu jedermanns Nachricht bekannt machen wollen.
+#facs_207_r5l17 welches diejenigen Artikel seyen, deren Aussuhr
+#facs_207_r5l18 Wir noch ferners zum ganzen oder zum Theil
+#facs_207_r5l19 zu verbieten nöthig finden, und worinn auch diejenigen
+#facs_207_r5l20 bestehen, gegen welche wir Unsere Verbotte¬
+#facs_207_r5l21 aufheben, und jedermann damit frey zu handeln
+#facs_207_r5l22 erlauben
+#facs_207_r5l23 Vor allem aus bleibt die Ausfuhr aller Arten
+#facs_5_r4l1 4
+#facs_207_r5l25 Getreides und Mehls, nach der von uns unterm
+#facs_207_r5l26 4ten Jenner 1792, und 3ten December 1794.
+#facs_207_r5l27 publicirten Verordnung, einstweilen verbotten
+#facs_207_r5l28 und soll ferners hin verbotten bleiben, biß
+#facs_18_r4l24 da
+#facs_24_r2l1 40
+#facs_1_r2l2 1.
+#facs_208_r3l1 daß der darinn bestimmte wohlfeile Preis
+#facs_208_r3l2 Uns zu Aufhebung des Ausfuhr-Verbotte
+#facs_208_r3l3 veranlaßen wird
+#facs_208_r3l4 Verbleiben Wir in Anstehung der Pferde
+#facs_5_r1l1 2.
+#facs_208_r3l6 bey der Verordnung vom 15ten October 1795,
+#facs_208_r3l7 Braft deren nur die erst jährigen Füllen
+#facs_208_r3l8 und die mehr als achtjährigen Pferde aus
+#facs_208_r3l9 zuführen erlaubt sein; und das unter denen
+#facs_208_r3l10 in ermelter Ernung enthaltenen Bedu¬
+#facs_208_r3l11 gen, bey denen Wir es dermalen ganz
+#facs_208_r3l12 lich bewenden laßen. In dem Versam¬
+#facs_208_r3l13 jedoch, daß was übrigens den innern Handel
+#facs_208_r3l14 In Betref der Pferde anstehet, derselbe
+#facs_208_r3l15 von nun an wieder frey gelaßen, und
+#facs_208_r3l16 alle die dienstigen Maßregeln, so wie das
+#facs_208_r3l17 Gebott, die gekauften Pferde einen Mona.
+#facs_208_r3l18 lang am Futter zubehalten, wieder aufge¬
+#facs_208_r3l19 hoben seyn sollen.
+#facs_7_r2l1 3
+#facs_208_r3l21 In Ansehen des Hornviehs soll der freye
+#facs_208_r3l22 Handel, nach unserer Verordnung vom
+#facs_208_r3l23 28ten December 1795, fernerhin gestattet
+#facs_208_r3l24 weyn; doch mit Ausnahme der Spaafe,
+#facs_208_r3l25 Schweine und auch der Saugkalber
+#facs_208_r3l26 Bleibt die Ausfuhr des Butters, so wie
+#facs_208_r3l27 alles Unschlitts, Speck und Schmeers ferner¬
+#facs_208_r3l28 hin verbotten.
+#facs_117_r3l32 Das
+#facs_8_r1l1 8
+#facs_127_r2l44 105.
+#facs_208_r5l2 5° Desgleichen auch bleibt die Ausfuhr aller Kriege
+#facs_208_r3l28 hin verbotten.
+#facs_208_r5l4 6° Hingegen ist die Ausfuhr alles rohen unverarbeiten
+#facs_208_r5l5 ten Metalls, worunter auch das Eisen begriffen ist
+#facs_208_r5l6 von nun an wieder erlaubt
+#facs_208_r5l7 auf die Widerhandlung aller obiger noch auszuführen
+#facs_208_r5l8 verbottener Artikel soll hiemit die Confiscation der
+#facs_208_r5l9 Waare oder deren Werth, nebst einer Fuße von
+#facs_208_r5l10 gleichem Betrag, gesezt seyn, wo von dann in Abändern
+#facs_208_r5l11 ung gedacht Unsterer Verordnung vom 3ten December
+#facs_208_r5l12 1794; ein Drittel dem Amtsmann des Orts, ein drittel
+#facs_208_r5l13 dem Verleider und ein Drittel dem Fixio zukommen soll.
+#facs_208_r5l14 7o Betreffend alle übrige im 2ten, 3ten, 4ten, 5ten
+#facs_208_r5l15 11ten, 12ten und 14ten Parograph der Verordnung
+#facs_208_r5l16 vom 3ten December 1794, enthaltene Artikel, an
+#facs_208_r5l17 sehens allerhand Erdgewächste, Früchte, Geflügel,
+#facs_208_r5l18 Eyer und andere Exwaaren; so haben wir das daherig,
+#facs_208_r5l19 ausfuhr=verbott auf, und erlauben nun mehro mit
+#facs_208_r5l20 denselben, wie vor dem Verbott, frey und ungehindert
+#facs_208_r5l21 zu handeln
+#facs_208_r5l22 In fernerm wird auch die Verordnung vom
+#facs_208_r5l23 2ten Aprill 1794, wegen verbottener Ausluhr von
+#facs_208_r5l24 Garn und Rysten, und die vom 13ten Januar 1794)
+#facs_208_r5l25 wegen verbottener Ausfuhr des verarbeiteten
+#facs_208_r5l26 Leders, aufgehoben, und soll dieser Sachenhalb die
+#facs_208_r5l27 vorige Freyheit wiederhergestellt und in folg
+#facs_117_r3l32 Das
+#facs_58_r1l1 106
+#facs_79_r5l1 Collate
+#facs_7_r1l1 6
+#facs_209_r3l1 deßen, auch die Ausfahr aller ausgegebten
+#facs_209_r3l2 Häute und Felle, wie auch aller verarbeiteten
+#facs_209_r3l3 Lederwaaren, fürohin erlaubt seyn.
+#facs_209_r3l4 9. Endlich auch das Ausfuhr = Verbott der ge¬
+#facs_209_r3l5 wandten Waßer aufgehoben, und soll es deren
+#facs_209_r3l6 als bey demjenigen verbleiben, was Wir den
+#facs_209_r3l7 18ten Julii Lezthin durch öffentlichen Druckhaben
+#facs_209_r3l8 bekannt machen lassen.
+#facs_98_r4l12 Geben in unserer Großen Raths Versam¬
+#facs_209_r3l10 lung, den 12ten Herbstmonat 1796
+#facs_10_r3l5 Traduction
+#facs_74_r5l16 de la Publication ci dessus inscrite.
+#facs_183_r4l8 Nous, l'Avoyer et Conseil Souverain
+#facs_18_r4l4 de la Ville et République de Berne, assurons
+#facs_209_r3l15 tous nos chers et feaux Bourgeois et Ressortissan
+#facs_209_r3l16 de notre gracieuse bienveillance, et leur faisons
+#facs_209_r3l17 savoir: qu'ayant êté obligés, dans les circon-
+#facs_209_r3l18 stances inquiétantes ou Notre chere Patrie
+#facs_209_r3l19 s'est trouvée pendant quelques années, du
+#facs_209_r3l20 prévenir autant que possible, par diverses
+#facs_209_r3l21 défenses, l'exportation à l'étranger des
+#facs_209_r3l22 principaux objets nécessaires à la Vie; et
+#facs_209_r3l23 ayant ensuite fait résumer ces differentes
+#facs_209_r3l24 prohibitions en une seule ordonnance sous
+#facs_49_r3l5 L
+#facs_1_r2l2 1.
+#facs_11_r4l1 e
+#facs_9_r1l1 10
+#facs_209_r6l2 la date du 3. Decembre 1794., maintenant que, graces
+#facs_209_r6l3 à Dieu, les tems offrent une respective plus favorab=
+#facs_209_r6l4 le, Nous avons voulu nous expliquer plus ample
+#facs_209_r6l5 ment sur la dite Ordonnance, et faire connoitre
+#facs_209_r6l6 quels sont les articles dont Nous jugeons murraire
+#facs_209_r6l7 de défendre encore l'exportation, soit en tout, soit
+#facs_209_r6l8 en partie, et quels sont ceux à l'egard desquels
+#facs_209_r6l9 Nous revoquons nos précédentes défenses. À ces
+#facs_209_r6l10 causes, Nous ordonnons et statuons ce qui suit:
+#facs_209_r6l11 L'exportation de toute espece de bleds & de farine
+#facs_209_r6l12 est et demeurera spécialement défendue, à teneur
+#facs_209_r6l13 de nos Ordonnances du 4 Janvier 1792, et 3
+#facs_209_r6l14 Decembre 1794, jusqu'à ce que le bas prix de
+#facs_209_r6l15 ces denrées, déterminé dans les dites ondonnances,
+#facs_209_r6l16 puisse Nous engager à léver entiérement cette
+#facs_31_r2l6 des
+#facs_209_r6l18 Pour ce qui regarde les chevaux, Nous laissoit
+#facs_209_r6l19 subsister Notre Mandat du 15 Octobre 1795, en
+#facs_209_r6l20 vertu duquel il n'est permis d'exporter à l'étran
+#facs_209_r6l21 ger que les poulains de l'âge d'un an et les chevaux
+#facs_209_r6l22 au-dessus de huit ans, et cela sous les classes
+#facs_209_r6l23 contenues dans le dit Mandat, lesquelles con-
+#facs_209_r6l24 tinueront de subsister en leur entier: quant
+#facs_209_r6l25 au commerce des chevaux dans l'intérieur du
+#facs_209_r6l26 pays nous voulons néanmoins que la liborte
+#facs_209_r6l27 de ce commerce intérieur soit entiérement.
+#facs_209_r6l28 retablie
+#facs_59_r1l1 108
+#facs_210_r2l1 rétablie dès à présent, de sorte que tous les
+#facs_210_r2l2 mesures prises antérieurement à cet égard
+#facs_210_r2l3 sont révoqués par Notre présente Ordonnance
+#facs_210_r2l4 et conséquemment l'acheteur ne sera plus
+#facs_210_r2l5 obligé de tenir les chevaux achetes pendant un
+#facs_210_r2l6 mois dans ses granges et à son propre fouragé,
+#facs_210_r2l7 3° A l'égard du détail à cornes, le libre commerce
+#facs_210_r2l8 contenduera d'en être permis, à térieur de
+#facs_210_r2l9 notre Mandat du 28 Décembre 1795.
+#facs_210_r2l10 l'exception cependant des moutons et brebes
+#facs_210_r2l11 ainsi que des pores et des veaux non encore
+#facs_210_r2l12 sevres
+#facs_210_r2l13 4°. l'exportation du beure, celle du lard de
+#facs_210_r2l14 toute espece de suifs & de graisses, continue
+#facs_210_r2l15 d'être défendue
+#facs_210_r2l16 5° L'exportation de toute espece de minitions
+#facs_210_r2l17 de guerre, demeure de même entiérement
+#facs_210_r2l18 prohibée
+#facs_210_r2l19 6° D'autre part, l'exportation de tous mes
+#facs_210_r2l20 taux bruts et non travaillés, y compris
+#facs_210_r2l21 le fer, est permise des-à-présent.
+#facs_210_r2l22 Toute contravention à l'égard des
+#facs_210_r2l23 articles ci-dessus spécifiés, dont l'exportation
+#facs_210_r2l24 à l'étranger continue d'être défendue,
+#facs_210_r2l25 sera prince par la confiscation de la mar¬
+#facs_210_r2l26 chandise ou de sa valeur, outre une amende
+#facs_210_r2l27 égale
+#facs_8_r6l1 9
+#facs_59_r3l1 109.
+#facs_210_r4l2 égale à la valeur de cette même marchandise : desquelles
+#facs_210_r4l3 amendes et confiscations, en dérogation à notre susdite
+#facs_210_r4l4 Ordonnance du 3° Décembre 1794, un tiers appar
+#facs_210_r4l5 tiendra à Notre Ballif du lieu, le second tiers au
+#facs_210_r4l6 dénonciateur, et le reste sera dévolu à Notre fise
+#facs_210_r4l7 Quant à tous les autres articles, mentionnés dans les
+#facs_210_r4l8 para graphes 2, 3, 4, 5, 11, 12, et 14, de Notre Ordonnance
+#facs_210_r4l9 du 3 Décembre 1794, concernant toute espece de
+#facs_210_r4l10 légumes, fruits, volailles, œufs, et autres coméstibles,
+#facs_210_r4l11 Nous révoquons nos défenses d'exporter de telles denrées
+#facs_210_r4l12 ou permettons le libre commerce tel qu'il existoit au
+#facs_210_r4l13 paravant.
+#facs_210_r4l14 Nous revoquons aussi et annullons notre ordon¬
+#facs_210_r4l15 nance du 2 Avril 1794, portant défenses d'exporter
+#facs_210_r4l16 du fil et de la rite; de même que celle du 13 Janvier
+#facs_210_r4l17 1794, en vertu de laquelle il êtoit défendu d'exporter des
+#facs_210_r4l18 curs travaillés, laquelle branche de commerce nous
+#facs_210_r4l19 rétablissons dans son ancienne biberté, en conséquence
+#facs_210_r4l20 de quoi, l'exportation à l'étranger de cuir et de peaux
+#facs_210_r4l21 tannées, ainsi que de toutes marchandises faites de mes
+#facs_210_r4l22 et de peau, est permise dés-à-present
+#facs_210_r4l23 Enfin, nous révoquons de même nos défenses d'expo-
+#facs_210_r4l24 ter des eaux de vie et autres liqueurs distillées; et
+#facs_210_r4l25 ce dernier égard, Nous remettons les choses sur le pied
+#facs_210_r4l26 où elles êtoient par la teneur de Notre mandat
+#facs_210_r4l27 publié sous la date du 18 Juillet dernier
+#facs_5_r4l1 4
+#facs_60_r1l1 110
+#facs_222_r2l1 Collet
+#facs_8_r6l1 9
+#facs_211_r3l1 qui continuera d'être observé
+#facs_211_r3l2 Donne dans l’assemblée de notre Grand
+#facs_211_r3l3 Conseil, le 12 septembre 1796
+#facs_211_r3l4 Freystellung des innere Getreidhandels, und
+#facs_211_r3l5 Aufhebung der Verordnungen vom
+#facs_211_r3l6 21st Novemb: 1794 und 14 Aug. 1795
+#facs_70_r2l14 An alle deutsch und Welsche Herren Amtleut
+#facs_123_r5l22 Städt, Freyweibel und Ammann.
+#facs_211_r3l9 Schultheiß Rath und Burger der Stadt Bern
+#facs_211_r3l10 Die gegenwärtig abgeänderten Zeit Umstände
+#facs_211_r3l11 haben aus bewogen Unserm unterm 21ten Nov.
+#facs_211_r3l12 1794. und 14. August 1795. ausgegangene Ver¬
+#facs_211_r3l13 ordnungen, betreffend den innern Getreu
+#facs_211_r3l14 handel wieder aufzuheben, und diesen inneren
+#facs_211_r3l15 Getreidhandel von nun an wieder frey zustellen
+#facs_211_r3l16 Mit Zusendung einer genugsamen Anzahl
+#facs_211_r3l17 der daherigen gedrukten Publication, be-
+#facs_211_r3l18 fehlen wir Euch diesemnach, sothane Publication
+#facs_211_r3l19 behöriger Orten anschlagen von Canzeln offent
+#facs_211_r3l20 lich verlesen, und selbige auch in den Blossbücherin
+#facs_211_r3l21 nachrichtlich einschreiben zu lassen
+#facs_257_r3l4 Geben den
+#facs_98_r5l28 en

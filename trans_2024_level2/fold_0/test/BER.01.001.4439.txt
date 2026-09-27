@@ -1,0 +1,45 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 37/38
+# High similarity (>=80%): 36
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4439
+#facs_259_r5l16 Ihnen die Versilberung vom Dickel anbefehlen
+#facs_103_r10l1 a
+#facs_256_r2l2 Alle Teütsche Herren Amtleut und Schaffner¬
+#facs_259_r5l15 Obrigkeitliches Getreyd ligt
+#facs_259_r5l16 Ihnen die Versilberung vom Dickel anbefehlen
+#facs_159_r4l13 Schultheis Räht und Burgers
+#facs_259_r5l18 Wir haben Euch bereits unterm 2ten Juny diß Jahrs
+#facs_259_r5l19 Unseren Willen eröfnet, über die Versilberung
+#facs_259_r5l20 der sämtl. Winter Früchten (mit Ausnahm
+#facs_259_r5l21 jeden noch der Helffte des Dinkels :/ welche von
+#facs_259_r5l22 dem auf Martini ferndrigen Jahrs eingegangen
+#facs_259_r5l23 obrigkeitlichen Getreide nach Abzug der Ordinari
+#facs_152_r6l12 5.10
+#facs_260_r2l1 und Quasi-Ordinarii ausgaben, wie auch deßen
+#facs_260_r2l2 was Euer Contingent auf dem übrig bleibenden
+#facs_260_r2l3 betragen mag, vorschießen werde; dermahl
+#facs_260_r2l4 len nun, da Uns von seiten Unserer Fürgen
+#facs_260_r2l5 liebten Mit Rähten der Herren Teutsch Sebel
+#facs_260_r2l6 meister und Venneren und Unserer Verord¬
+#facs_260_r2l7 neten Kornkammer, über die noch restierende
+#facs_260_r2l8 helffte das dinbels, der Vortrag gemacht
+#facs_260_r2l9 worden, befehlen Wir Eüch, auch diesen Theil
+#facs_260_r2l10 des Obvermelter maßen vorschießenden
+#facs_319_r4l3 Obrigkeitlichen Getreid vorschießen werden.
+#facs_260_r2l12 obangeregt Unserem Schreiben enthaltenen
+#facs_260_r2l13 und vorgeschriebenen Praecautionen, nach und nach¬
+#facs_260_r2l14 in laufendem Preis, abzustoßen und zu
+#facs_260_r2l15 versilberen, und darbey über die abzustoßen
+#facs_260_r2l16 den Schützenen, Euch dasjenige zur Vor¬
+#facs_260_r2l17 schrift dienen zu laßen, was von seiten
+#facs_260_r2l18 vorgedacht unserer Fürgeliebten Mit Rähte
+#facs_260_r2l19 der Herren T. Sekelmeister und Venneren
+#facs_260_r2l20 anfangs Juny lezthin, euch überschrieben
+#facs_260_r2l21 worden. Wie zuthun, und für das Erlösen
+#facs_260_r2l22 Uns getreüe Rechnung zu tragen, Ihr beßer
+#facs_260_r2l23 müßen werdet. Dat. den 7ten July 1775.
+#facs_24_region_1628255397587_277l11 en

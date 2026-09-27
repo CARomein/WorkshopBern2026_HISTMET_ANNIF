@@ -1,0 +1,98 @@
+Law ID: BER.01.001.1373
+Name: Wegen einer abermahligen Landjegi.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 87/87
+# High similarity (>=50%): 87
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_96_r3l1 An alle Teütsche Amptleüth, freiweibel
+#facs_96_r3l2 und Amam: Item Mürten, Schwartzenburg
+#facs_96_r3l3 Wiblisburg, vnnd Paterlingen,
+#facs_96_r3l4 wegen einer obermahligen Land Jegen
+#facs_96_r3l5 Schuldtheiss und Raht der Statt Bern.
+#facs_96_r3l6 In letzt gehaltner Radischen Tag leistung, Ist Im
+#facs_96_r3l7 gantzer 13. Ortischen Session geschloßen vnd verabscheidet,
+#facs_96_r3l8 worden, daß zu deß nur zu Nil bekanter maßen
+#facs_96_r3l9 dem gantzen Landt Werst vberlegnen vnd höchst schadliche
+#facs_96_r3l10 vilen dieben: vnd Heidengsindts, müglichster ab¬
+#facs_96_r3l11 schaffung, ein allgemeine Landt Jegen aller Eidtgnuschen
+#facs_96_r3l12 Orten vnnd Landen, drey tag einanderen nach, Vff
+#facs_96_r3l13 nechst künfftigen Montag den 2. Augusti anzufacheren
+#facs_96_r3l14 gehaltten, Vnnd das Vff fahrende musiggehende gesund
+#facs_96_r3l15 was vnder denselben für forcierte vnd gezwungne
+#facs_96_r3l16 Soldaten kan gebrucht worden, dem Venetianisch
+#facs_96_r3l17 Hrn Residenten nacher Hürich, In Kriegs dienst
+#facs_96_r3l18 Uberschicket werden sollen,
+#facs_96_r3l19 Söllichein nun zu volg¬
+#facs_96_r3l20 bemlich und wie dir, die erforderliche anordnung
+#facs_96_r3l21 Vnnd bestellung der Pro uosen vnnd nothwendigen Persohnen
+#facs_96_r3l22 Vnuerzogenlich Zethun, das am obbemeltten Tagen solches
+#facs_96_r3l23 Jegi, nach wegweisung mehrmals vBgeschribner
+#facs_96_r3l24 Ordnungen, hinder deiner Verwolttung, mit
+#facs_96_r3l25 ernst unnd fleis vorrichtet, vnnd so und erlich aller
+#facs_96_r3l26 vff fachende vmbstreichende mußig gehende Volck¬
+#facs_96_r3l27 dir zugebracht worde
+#facs_96_r3l28 Da du volgends die
+#facs_96_r3l29 einten Vnnd anderen ernstwörtig zu examinieren
+#facs_96_r3l30 vnnd die Jonigen, so nit dergestaltten arg wönig fallend
+#facs_96_r3l31 daß mit mehreren, ernst und anderer gestaltt wider
+#facs_97_r2l1 Sie reprocedieren were, gleichwol Im müßigang ergriffen,
+#facs_97_r2l2 und zu den Waffen Lybshalb tugendtlich A: Vnseren
+#facs_97_r2l3 Ambtsman zu Nüren, zu Weiterer Fortschaffung B.
+#facs_97_r2l4 mit nothwendigem schrifftlichen bericht, zuzeschicken
+#facs_97_r2l5 Vnuermügliche und Vnuerdechtige Persohnen aber
+#facs_97_r2l6 mit nothwendiger Wahrung ledig zelaßen, und Im¬
+#facs_97_r2l7 Ihr Heimat zur arbeit zuweisen haben: Maßen du
+#facs_97_r2l8 hierinn den rechten Vnd erscheid zumachen, Und daß
+#facs_97_r2l9 diser Vnser beuelich, der Sach eruord erung nach
+#facs_97_r2l10 Verrichtet werde, die anstellung zethun wüßen wirst
+#facs_97_r2l11 und solt, und wir dir vertrumend. Datum 27 Julÿ
+#facs_97_r2l12 Mürten, Schwartzenburg, Wiblisburg, Peterlin,
+#facs_97_r2l13 Freiwerbel vnnd Amen, Oberland, Einenthal,
+#facs_97_r2l14 Kauppen, Thorberg und Busset. hoc modo
+#facs_97_r2l15 A. alhier In Vnsere Statt, zu Vnerer Irer erbütlung und
+#facs_97_r2l16 weitere hinabschaffung sequen a lit. B
+#facs_97_r2l17 Burgdorff, wangen, Arwangen und Ripp, Item
+#facs_97_r2l18 Zoffingen Vnd Arburg, Araur, Grugg, Lontzb. C.
+#facs_97_r2l19 Scheintenberg vnd Niberstein. Sic
+#facs_97_r2l20 A: zu Waßer oder Landt Vnserem Ambtsman zu Lentzbuch
+#facs_97_r2l21 zu fernerer Irer beschaffenheit erweg, und fürer
+#facs_97_r2l22 weiterer Fortschaffung, sequent à lit. B
+#facs_97_r2l23 Büren A: Mit anderem gleichen Landt Jegen Volck
+#facs_97_r2l24 So durch etliche Unsere Ambbleüth, Vnserem beuelig
+#facs_97_r2l25 nach, dir zur weiteren Vorsendung können
+#facs_97_r2l26 unnd werdent zugeschibt worden, zu waser Vnseren
+#facs_97_r2l27 Ambtsman zu Lentzburg (alda söllich gesind weiter
+#facs_97_r2l28 sol erbeütlet, unnd volgends an gehöriges Ort ge¬
+#facs_97_r2l29 liferet werden :/ caetera a lit. B
+#facs_97_r4l1 Lentzburg und Köngstfelden sic
+#facs_97_r4l2 A: Mit noch vermelttem anderem volck, zu handen des
+#facs_97_r4l3 zu Zürich Residierenden Hrn. Venetianischen Agenten, alß
+#facs_97_r4l4 das Ort weiters zeliferen, da er daßelbige Ich abnemen
+#facs_97_r4l5 sich gegen euch (die Ihr Ime deßwegen zu vor hierumben
+#facs_97_r4l6 mit Beschreibung der anzahl, zu schreiben öllend: erlüther
+#facs_97_r4l7 rirt
+#facs_97_r4l8 Vnd diewyl das Ubrige vnderthalb vnser
+#facs_97_r4l9 haubt Statt vff fachende LandtJegen gsind, so theils von
+#facs_97_r4l10 Büren (doch in etliche Ort die Jrigen liferend) theils
+#facs_97_r4l11 auch von vbrigen Ergewischen Orten selbst, dir Vnserem
+#facs_97_r4l12 Ambtsman zu Centzburg überschickt werden sol, vnd du
+#facs_97_r4l13 zu Waßer und Landzuempfachen haben wirst, einer
+#facs_97_r4l14 noch weiteren erbeütlung, ob und wie ein jeder, ohne
+#facs_97_r4l15 weitere erfectung, In disen gezwungnen Kriegsdienst
+#facs_97_r4l16 zeschicken seye oder nit, darin vff die erscheinung der
+#facs_97_r4l17 verschuld, oder nit Verschuldung zesechen, Alls be¬
+#facs_97_r4l18 felchend wir die hiemit, mit zuthun vnsers Ambts,
+#facs_97_r4l19 mans zu Kongßfelden (Lentzburg:) vnd Hl. Schlsten
+#facs_97_r4l20 freyen, ein olche weitere examination vnd Wusterung
+#facs_97_r4l21 gehaltten, Und was Ihr volgends Vnder gedeüte Waffen
+#facs_97_r4l22 Testiniert verbleiben laßend, obgehörter maßen for¬
+#facs_97_r4l23 beschicken. Alls welliches wir einiger gesambten
+#facs_97_r4l24 ursicht igkeit, welcheren noch Ir den rechten Unter¬
+#facs_97_r4l25 scheid zemachen wol wüßen werdent, Vertruerck
+#facs_97_r4l26 und vberlaßen haben wollen. Dich darmit Gott
+#facs_97_r4l27 wol empfelchend datum 27 Julii 1647

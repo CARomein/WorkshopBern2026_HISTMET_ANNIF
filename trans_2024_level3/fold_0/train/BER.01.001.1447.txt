@@ -1,0 +1,102 @@
+Law ID: BER.01.001.1447
+Name: Wider das Verfahren mit Gastgrichten gegen den Underthanen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 91/91
+# High similarity (>=50%): 80
+# Low similarity (<50%): 11
+# Not found: 0
+#
+#facs_158_r4l24 An Alle: Ambtleüht wegen beschreibung Ihrer Rechnung
+#facs_158_r4l25 Schuldtheiß und Rhatt pr.
+#facs_158_r4l26 Dieweilen die Zeit abermahlen herzuruckt, In deren Vnsere
+#facs_158_r5l1 B01
+#facs_158_r5l2 geliebte Mitträht, Teütsch Tekelmeister Vnnd Venuene pflegenen
+#facs_158_r5l3 Vnserer Teütschen Ambtleichten Rechnungen anzehören, habend¬
+#facs_158_r5l4 Wir dich deßwegen beuelchlich erinneren Wellen, Vff den
+#facs_158_r5l5 durch Sie dir angesetztentag, benambtlich vff Montag¬
+#facs_158_r5l6 prause mit deiner Rechnung ohne fühlen vor Ihnen zu
+#facs_158_r5l7 erscheinen, unnd dich Inzwischen mit barenn gelt also
+#facs_158_r5l8 verfaßt zumachen, daß du dem Restantz volgemeltenn
+#facs_158_r5l9 11
+#facs_158_r5l10 Vnserem Seckelmeister abrichten vnnd bezahlen thuyest,
+#facs_158_r5l11 auch ein Oedenliche Zeichnus, Wie Vil Jeder getzung
+#facs_158_r5l12 Getreidts du von Zinß Vnnd Zehnden einzogen, Wie vil
+#facs_158_r5l13 noch einzezeichen Vßstande, Vnnd wie wil du allerley
+#facs_158_r5l14 -
+#facs_158_r5l15 Hetreidts noch im Vorraht habist, deßgleichen auch die
+#facs_158_r5l16 Zehnd-Rödel, Sonderlich von der heürigen hinleichung
+#facs_158_r5l17 mit die Zebeingen, vnnd Vff jelegen
+#facs_158_r5l18 and
+#facs_158_r5l19 Benebens findend Wir v. gewüßen betrachtungen, thunlich
+#facs_158_r5l20 und nohtwendig, daß die Empfachung der ablösungen der
+#facs_158_r5l21 haubtguteren nit Wybers In den Henden der Ambt
+#facs_158_r5l22 luhten gelaßen, Sonderen In dem gwalt der Venner
+#facs_158_r5l23 Cameren stehn solle, deßwegen du die Jederweilen
+#facs_158_r5l24 -
+#facs_158_r5l25 anpiettenden für obwohlgedachte Vnsere geliebte Mitt
+#facs_158_r5l26 stöht zuweisen wüßen solt vnnd Winst. Datum 9. Mai
+#facs_158_r5l27 1650
+#facs_158_r5l28 Thun Burgdorff, Vnderseiren, Interlacken, Montags 8. Julii
+#facs_158_r5l29 heutigen Wunis zweysinnen Zinßta¬
+#facs_158_r5l30 Trachselwald, sich wyl. Schaffner zu Geis¬
+#facs_158_r5l31 9 dito
+#facs_158_r5l32 Bühren, Signorier, Brandis
+#facs_158_r5l33 Mitwuchen 10 dito
+#facs_158_r5l34 Aeberg, Erlach, S. Johansen
+#facs_158_r5l35 Donstags 11. dito
+#facs_158_r5l36 Uydoure Landtsburg
+#facs_158_r5l37 Frylags 12 dito
+#facs_158_r5l38 Wangen Arwangen Bipp
+#facs_158_r5l39 Sambtags 13. dito
+#facs_158_r5l40 Arbung Lenzburg Biberstein
+#facs_158_r5l41 Montags 15. dito
+#facs_158_r5l42 Zinsag 16 dito
+#facs_159_r3l1 Schanckenberg, Zoffingen, Knugsfelden - Mittwuchen 17. dito
+#facs_159_r3l2 Sauen Alen
+#facs_159_r3l3 -
+#facs_159_r3l4 Louppen, Frienisperg, Hochstat,
+#facs_159_r3l5 Donstage
+#facs_159_r3l6 18. Dito.
+#facs_159_r3l7 Thorburg, Frau erbrunnen, Buchse
+#facs_159_r3l8 Frytags
+#facs_159_r3l9 19. dito
+#facs_159_r3l10 Sambstags re dito
+#facs_159_r3l11 An A. E. vnnd W. A. Wider das Pfahren
+#facs_159_r3l12 mit Gastgrichten gegen den Vnderthanen
+#facs_159_r3l13 Schuldtheiß vnnd Schatt etc.
+#facs_159_r3l14 Alß der erfahrung habend wir zue Vnserem bedaurlichen
+#facs_159_r3l15 außfahlen so vil zuvermercken, daß etliche Vnserer
+#facs_159_r3l16 Ambtlächten hin vnnd wider Ire gefelle an Bußen
+#facs_159_r3l17 vnnd anderen nit, wie aber Unser hievorig ynsechen
+#facs_159_r3l18 Vermag, mit Ordenlichem Wuchengricht, Vnnd also mit minste
+#facs_159_r3l19 Kosten, Sonders mehrenteils mit Last gerichten und vner
+#facs_159_r3l20 träglichem großen kosten bezeüch und, dardurch Vnsere
+#facs_159_r3l21 Armen wund ohne das Vast aller Onten diser schweren
+#facs_159_r3l22 Zeit Inn nott vnnd mangel steckenden Vnderthanen mit
+#facs_159_r3l23 wenig geplaget vnnd belestiget werden, maßen wir
+#facs_159_r3l24 einem sölichen Übel, vnnd vnlydenlichen verfahren, vns an¬
+#facs_159_r3l25 gelegner Oberkeitlicher fürsorg lenger zuzesechen
+#facs_159_r3l26 mit Unbillich scheüchens tragend
+#facs_159_r3l27 nochmalen alles ernsts angesehen vnnd geordnet haben,
+#facs_159_r3l28 Wellend derowegen
+#facs_159_r3l29 daß umb dergleichen zeitliche Ansprachen, Wie der
+#facs_159_r3l30 Imer sein mag, mit sölichen Gastgerichtlichen Kostbaren
+#facs_159_r3l31 proceduren den Underthanen gentzlich verschonet, vnnd vor
+#facs_159_r3l32 erhüschende noch, mit dem Ordenlichen Wuchengricht und
+#facs_159_r5l1 303
+#facs_159_r5l2 Zwar alzeit mit minsten Kosten, wider Sie procediert werden,
+#facs_159_r5l3 hölle, dan wo der ein oder anderl. Wider phoffen) hier¬
+#facs_159_r5l4 wider handlen vnnd es zur Clag für Uns komen solte
+#facs_159_r5l5 (
+#facs_159_r5l6 Wurdent Wir solche vnnd dergleichen Verfahrungen,
+#facs_159_r5l7 -
+#facs_159_r5l8 so vber disere vnnd vorgehndt vnsere Wahrungen
+#facs_159_r5l9 beschechen soltend, an den sählhafften Zestraffen lenger
+#facs_159_r5l10 mit vmbgehn mögen: So wir die hiemit auch Nach¬
+#facs_159_r5l11 richtlich anfügen Wellen, mit gesinnen hierob nit allein
+#facs_159_r5l12 für dich selbsten zuhalten: Sonders auch dis gehörigen
+#facs_159_r5l13 Oets zu künfftiger nachricht ordenlich verschryben zer-
+#facs_159_r5l14 laßen. Datum 16. Maii 1650.

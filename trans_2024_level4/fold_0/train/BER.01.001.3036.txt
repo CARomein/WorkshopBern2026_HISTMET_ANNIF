@@ -1,0 +1,32 @@
+Law ID: BER.01.001.3036
+Name: Die Herbstferien aussschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 21/21
+# High similarity (>=50%): 20
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_199_r4l28 22.7
+#facs_200_r1l1 386
+#facs_200_r1l2 Collath
+#facs_200_r3l1 An alle 8. und v. Ambtleübl. 4. Stött,
+#facs_200_r3l2 Freyweibell und Amman
+#facs_200_r3l3 Die Herbstferin außschreiben.
+#facs_200_r3l4 Schultheis und Raths
+#facs_200_r3l5 Obwohlen so wohl Unseren Ambtleüthen allß
+#facs_200_r3l6 sonst Mäncklichen ohne anderes Erinnere
+#facs_200_r3l7 bekant sein soll, daß wehrend denen Herbst¬
+#facs_200_r3l8 beschäftigung die Oberkeitl. Cammeren und
+#facs_200_r3l9 hiemit auch die Rathstuben verschloßen
+#facs_200_r3l10 i
+#facs_200_r3l11 gehalten werden, so habend dennoch zum
+#facs_200_r3l12 überflüß Unsere Ambtleüth vermahl
+#facs_200_r3l13 nen wollen, von nun an bis gegen Mar
+#facs_200_r3l14 tini Vortheyen noch andere alles gantz
+#facs_200_r3l15 ohnvermeidenliche Sachen vor Uns gelangen
+#facs_200_r3l16 Zelaßen, dan sonsten selbigen aller accsi¬
+#facs_200_r3l17 abgeschlagen werden wird. Act. d. 27. 7brig
+#facs_200_r3l18 1710

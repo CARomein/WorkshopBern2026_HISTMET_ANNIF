@@ -1,0 +1,26 @@
+BER.01.001.2826
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 17/17
+# High similarity (>=50%): 17
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_354_r4l5 An alle Decanen auff dem Landt
+#facs_354_r4l6 Srind W. Landts
+#facs_354_r4l7 Sie sollend das groß Meyen Mandat verlesen.
+#facs_354_r4l8 Schultheiß und Raht etc.
+#facs_354_r4l9 Wir vernemend, daß das so genandte große Meyen- oder
+#facs_354_r4l10 Reformation Mandat einicher Ohrten nicht nach dem
+#facs_354_r4l11 Revision oder Erneüwerung von Ao. 1695. der appendix Jan
+#facs_354_r4l12 vom 30. May 1672 gar nicht verläsen werde; dahero wir Eüy
+#facs_354_r4l13 hiemit befehlen wollen, tenen Predicanten in Eüwere
+#facs_354_r4l14 lass von Oberkeits wegen zu befehlen, daß Sie gedachtes
+#facs_354_r4l15 Mandat Jährlichen wie es Ao. 1695. früscher Dingen erneüwere
+#facs_354_r4l16 und getrükt worden, und zugleich auch angedenten appendicem
+#facs_354_r4l17 verläsen sollind, So Ihr Eüwers theils auch erstatten; fasle aber
+#facs_354_r4l18 Eint oder anderer Oheten die Predicanten solcher mit bey
+#facs_354_r4l19 der stell hätten, sie anzahl der manglenden Exemplarien
+#facs_354_r4l20 Unserem geliebten Stattschreiber zu verdeüten, welcher selbige
+#facs_354_r4l21 Eüch übersenden wirt. Gott mit Eüs. Dattl. 28 Aug 1703.

@@ -1,0 +1,31 @@
+Law ID: BER.01.001.0647
+Name: Arrestierung wegen Pündtnerischer Bandyten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 20/20
+# High similarity (>=50%): 19
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_309_r1l1 Februarius
+#facs_309_r1l2 An alle Tutsche und Weltsche Ampl¬
+#facs_309_r1l3 li
+#facs_309_r1l4 1620
+#facs_309_r1l5 lüth 4 Stadt im Ergeme, Arrestierung
+#facs_309_r1l6 wegen Bündtnerischer Bandÿten
+#facs_309_r1l7 Schuldtheis etc. Uns habend Unsere getruwe Liebe
+#facs_309_r1l8 Eidt und Bundtsgnossen zu Bundten vff Taffel bey
+#facs_309_r1l9 mmanderen Versamt, hienachgemelte acht Hauptbandyten
+#facs_309_r1l10 namhafft gemacht, so verschinnen Jers wegen gübten
+#facs_309_r1l11 Landtsverröterey, Mördery und Derglyehen, sandiet worin
+#facs_309_r1l12 Als mit Namen Hauptman Rudolff, Pompeins, Daniel
+#facs_309_r1l13 die Planten, Lutzin von Munt, gewesner Landtrichter,
+#facs_309_r1l14 deß oberen Fundts, Johans Antoni Giolier, Dollmetsch
+#facs_309_r1l15 Anthonij Motyna, Hans Curai und Sabi Proceßt, Benelch
+#facs_309_r1l16 deßwegen dir vff obbeschribnen bandirten persohnen, merck¬
+#facs_309_r1l17 lichen flyßes achten und stellen gelaßen, da sy hinder diner
+#facs_309_r1l18 ewaltung zebetreiten, zu arrest und sichere Verwharung
+#facs_309_r1l19 anzunemen, und uns zuberichten, die gebür zeuerschaffen
+#facs_309_r1l20 Datum 1a February 1620

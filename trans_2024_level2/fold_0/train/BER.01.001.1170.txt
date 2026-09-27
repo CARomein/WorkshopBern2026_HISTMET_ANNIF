@@ -1,0 +1,32 @@
+Law ID: BER.01.001.1170
+Name: Wider [...] Soldaten Uffdingung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 21/21
+# High similarity (>=50%): 20
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_302_r2l38 Die
+#facs_302_r5l1 Morsen, Lausanna, Neuis
+#facs_302_r5l2 Romanostier, Isberdten, Vinus
+#facs_302_r5l3 Biblispurgen Blen
+#facs_302_r5l4 Wider deß Barons von Arnens soldaten verbringung
+#facs_302_r5l5 Schuldtheiß etc.
+#facs_302_r5l6 Es hatt zwar ein Frantzösscher Officier, so sich Baron von
+#facs_302_r5l7 Arnens namset, sich vmb vergunstigung ein anzahl
+#facs_302_r5l8 kriegsknechten hinter vnseren Landen vffzweig
+#facs_302_r5l9 anmelden wollen: Wann aber die gestattung sölicher
+#facs_302_r5l10 werbung diser Zeiten mit allem gefährlichen Vfschlags:
+#facs_302_r5l11 sonders auch stracks wider vnser hierwider vßgangues
+#facs_302_r5l12 verpott strytet: Alß habendt wir Inne deßen gentzlich
+#facs_302_r5l13 abgewisen, vndt der hiemit ernstlich anbeneichen
+#facs_302_r5l14 wollen, hieruff ein geflißen vnd sechen, zehaben
+#facs_302_r5l15 vndt den vnsern by höchster straff vndt vnguad, sich
+#facs_302_r5l16 mit zu sijn von Arnens noch andere frömbde Kriegs
+#facs_302_r5l17 dienst zelaßen, ernstlich zegepieten, vnd die Jungk
+#facs_302_r5l18 so hierwider handlen wurden, stracks Im Arrest
+#facs_302_r5l19 zunemen vns Zuberichten, verneren beuechs
+#facs_302_r5l20 zu erwarten, Datum 4 7bris 1641

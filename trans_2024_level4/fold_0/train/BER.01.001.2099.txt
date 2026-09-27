@@ -1,0 +1,36 @@
+Law ID: BER.01.001.2099
+Name: Umb Verbesserung der Strassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 25/25
+# High similarity (>=50%): 25
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_150_r3l1 Bollingen Thorberg wangen
+#facs_150_r3l2 Erburg, Lenthburg, Schenckenberg. König.
+#facs_150_r3l3 Felden, Biberstein undt 4. Stett
+#facs_150_r3l4 Umb Verbeßerung der Straßen.
+#facs_150_r3l5 Stalthalter und Raht der Stadt Bern, damit die
+#facs_150_r3l6 Munition vndt dergleichen Fuhrwegen, so bei jetzigem
+#facs_150_r3l7 Außzug vnser Kriegs Vöckeren, zu deren Verpflegung
+#facs_150_r3l8 fes segün gehen müeßend, durch böse weg vndt
+#facs_150_r3l9 Straßen nicht auffgehalten Wendirt, sondern sicher
+#facs_150_r3l10 vnd vngehinderet durchkommen mögend, bewegend
+#facs_150_r3l11 Wie hirmit die, Wie anderen Ambtleüten auch, so
+#facs_150_r3l12 Weit diese Straß vnd wegsame dein Ambtsbezirn
+#facs_150_r3l13 berüert, dieselbe Durch neuerweilte ernstlich
+#facs_150_r3l14 anstalt aller nohtwendigen Orten Verbeßer
+#facs_150_r3l15 Verebnen, und die tieffnen mit steinen oder
+#facs_150_r3l16 anderen mitten, so an der hand sind, verfülle,
+#facs_150_r3l17 zelaßen: Als daß plche Lastwegen, Wie die
+#facs_150_r3l18 zu obbedeüter Fuhr sein werden, richtig vndt
+#facs_150_r3l19 Wegesaumt vortkommen mögend. Rit weniger
+#facs_150_r3l20 auch, solt und wirstu verschaffen, daß an solchen
+#facs_150_r3l21 Straßen die Beum vnd Lebhey, so weit du E.
+#facs_150_r3l22 Darnon in den Wegrecken, wol auffgeschneitet
+#facs_150_r3l23 werdert, daß uit nur die wegen, sondern auch Ros¬
+#facs_150_r3l24 vnd man davon nit incomodiert werdint. Das ist
+#facs_150_r3l25 Vnser Will. Datum 9. Octobris 1676

@@ -1,0 +1,125 @@
+Law nr: BER.01.001.4782
+Title: Erhöhung des Salzpreises [...]
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_512
+# Matched: 114/114
+# High similarity (>=80%): 114
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_317_r3l10 Erhöhung des Salz Preises, um einen halben
+#facs_317_r3l11 Kreuzer per Pfund
+#facs_5_r3l4 An alle deutsch und Welsche Herren Amtleut
+#facs_265_r7l4 vier Städt, freyweibel und Ammann, denn
+#facs_317_r3l14 an die Mediat Aemter
+#facs_43_r5l20 Schultheis Räth und Burger
+#facs_317_r3l16 Da die Umstände Unserer Salzhandlung Unter
+#facs_317_r3l17 femüßigen, den Preis des Salzes in hiesigen
+#facs_317_r3l14 an die Mediat Aemter
+#facs_317_r3l19 Landen
+#facs_317_r3l20 und also auch in unseren Salzbütten, Eueres
+#facs_291_r3l18 Amts
+#facs_317_r3l22 von 3 1/2 Xr das Pfund auf einen Bazen zu sezen
+#facs_317_r3l23 mithin um einen Vierer per Pfund zu erhöhen,
+#facs_50_r3l14 als
+#facs_265_r7l1 515.
+#facs_317_r4l2 als werdet ihr nebst Zusendung daher ge¬
+#facs_317_r4l3 machter Verordnung benachrichtiget; mit den
+#facs_317_r4l4 Auftrag, solches denen Vorgesezten und ange¬
+#facs_317_r4l5 sehenen Eüeres Amts, jedoch ohne weitere
+#facs_317_r4l6 Publication noch Verlesung und ohne einiges
+#facs_317_r4l7 Aufsehen zu eröfnen: Welchem Ihr annoch
+#facs_317_r4l8 von Euch aus beyfügen werdet, daß, da der
+#facs_317_r4l9 Preis des Ankaufs fremden Salzes aller
+#facs_317_r4l10 Orten täglich höher ansteige, so wie die
+#facs_317_r4l11 Umkösten des Fuhr- und Spaditions Wesens,
+#facs_317_r4l12 welches sich beynahe verdopplet hat; Wir
+#facs_317_r4l13 bey denen für sich so drükenden Zeiten, und
+#facs_317_r4l14 bey fortdaurenden so großen Aufopferungen
+#facs_317_r4l15 in Ankauf und Einbringung fremden Getreide
+#facs_317_r4l16 einen so großen Verlust, ohne den größten
+#facs_317_r4l17 Nachtheil für den Staat und desen Angehö¬
+#facs_317_r4l18 rigen länger zu ertragen ausser Stand
+#facs_317_r4l19 tins; und der wohldenkende leicht einsehen
+#facs_317_r4l20 werde, daß dieser geringe Aufschlag von
+#facs_317_r4l21 einem Vierer per Pfund zu Erleichterung
+#facs_317_r4l22 der Stands ausgaben nothwendig fällt, auch
+#facs_317_r4l23 es sich zur Pflicht machen werde, solche Ver¬
+#facs_317_r4l24 höhung des Salzpreises willig anzunehmen
+#facs_317_r4l25 Unserer verordneten Salz Direction ist
+#facs_317_r4l26 dann der Auftrag ertheilt, zu veranstaltig
+#facs_5_r5l25 = daß
+#facs_318_r1l1 1616.
+#facs_3_r1l1 Coll
+#facs_318_r3l1 daß von dieser Verordnung der Salzpreis¬
+#facs_318_r3l2 Erhöhung eine genugsame Anzahl an die
+#facs_318_r3l3 Faktoren abgegeben, und von diesen an die
+#facs_318_r3l4 bestellten ausmeßere zur Anschlagung
+#facs_318_r3l5 bey ihren Salzbütten ausgetheilt werde
+#facs_318_r3l6 Datum den 10ten Xbris 1794
+#facs_10_r4l1 =c
+#facs_34_r5l2 Verordnung
+#facs_318_r3l9 Wir Schultheis Klein und Große
+#facs_312_r2l3 Räthe der Stadt und Republik Bern
+#facs_318_r3l11 thun kund hiermit
+#facs_318_r3l12 Demnach uns geziemend vorgestellt.
+#facs_318_r3l13 worden, wie daß bey der wirklich nahmhaften
+#facs_318_r3l14 und noch stets zunehmenden Erhöhung des Ankaufs
+#facs_318_r3l15 fremden Salzes, desen täglich steigenden
+#facs_318_r3l16 frachtpreises und aller Arten in diese Handlung
+#facs_318_r3l17 einschlagende bald unerträglich Ausgaben um
+#facs_318_r3l18 und ausser Lands, das Salz nicht ohne den
+#facs_318_r3l19 grösten Verlust für die hohe Obrigkeit
+#facs_318_r3l20 länger um den bisherigen niedrigen Preis
+#facs_318_r3l21 der drey und ein halben Kreuzer das Pfund
+#facs_318_r3l22 bönne erlassen und verkauft werden. Wie
+#facs_318_r3l23 daraufhin uns genöthiget gesehen, diesen Preis
+#facs_318_r3l24 des Salzes um einen halben Kreuzer zu erhöhen,
+#facs_318_r3l25 ik hin
+#facs_3_r1l1 Coll
+#facs_165_r3l1 D1 7
+#facs_318_r5l2 mithin den Salz Verkauf auf ein Sazen das
+#facs_318_r5l3 Pfund Markgewicht zu 16 Unzen, vom 1sten
+#facs_318_r5l4 Januar 1795. hinweg, zu bestimmen und
+#facs_318_r5l5 festzusezen
+#facs_318_r5l6 Welches durch Unsere verordnete Saltz
+#facs_318_r5l7 Direktion zu jedermanns Wissenschaft, und
+#facs_318_r5l8 Verhalt der bestellten Ausmeßern bekannt
+#facs_318_r5l9 gemacht, und überall wo das Salz verkauft
+#facs_318_r5l10 wird angeschlagen werden soll;
+#facs_318_r5l11 Geben den 10ten December 1794
+#facs_9_r3l7 Traduction
+#facs_66_r3l19 de la susdite Ordonnance.
+#facs_9_r3l10 Nous l'Avoyer Petit & Grand Conseils
+#facs_318_r5l15 de la Ville & République de Berne, savoir faisons
+#facs_137_r2l17 par les présentes.
+#facs_318_r5l17 Que sur les Representations qui nous ont êté
+#facs_318_r5l18 faites, comme quoi, attendu le rencherissement
+#facs_318_r5l19 considérable & toujours progressif des Sels étrans
+#facs_318_r5l20 gers, ainsi que les fraix de leur transport que
+#facs_318_r5l21 augmentent sousnellement ; & toutes sortes de
+#facs_318_r5l22 dépenses devenües presqu'insurmontables qui
+#facs_318_r5l23 ce genre de commerce exige tant dans le pays
+#facs_318_r5l24 qu'au dehors, il n'est plus possible, à moins
+#facs_6_r5l8 de
+#facs_319_r1l1 61.8.
+#facs_10_r4l1 =c
+#facs_21_r4l1 2
+#facs_319_r4l1 de causes au Souverain les plus grandes
+#facs_319_r4l2 partes, de continuer le débit & la vente
+#facs_319_r4l3 du Sel au bas prix de trois croutiers & demi
+#facs_319_r4l4 établi jusqu'aprésent; à ces causes Nous
+#facs_319_r4l5 Nous sommes trouvés dans la nécessité de
+#facs_319_r4l6 hausser ce prix d'un demi Prentzer par
+#facs_319_r4l7 livre & par conséquent d'établir & fixer la
+#facs_319_r4l8 vente du Sel, à compter du 1er Janvier
+#facs_319_r4l9 prochain, en raison d'un Batz la livre
+#facs_319_r4l10 présant, pord de marc de 16. onces
+#facs_319_r4l11 Ce que Notre chambre de la Direction
+#facs_319_r4l12 des Sels fera publier pour la connoissance
+#facs_319_r4l13 & la conduite d'un chacun, & afficher dans
+#facs_319_r4l14 tous les endroits établis pour la vente des Sels
+#facs_87_r3l14 Donné dans l'assemblée de notre Grand
+#facs_319_r4l16 Conseil le 10e Décembre 1794

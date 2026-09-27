@@ -1,0 +1,85 @@
+BER.01.001.2611
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 76/76
+# High similarity (>=50%): 72
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_111_r2l12 Königsfelden
+#facs_111_r2l13 Lentzburg
+#facs_111_r2l14 Graf Freytag den 17. Aprilis 1696.
+#facs_111_r2l15 Scheinbenberg sambstag d. 18. dito
+#facs_111_r2l16 Siberstein
+#facs_111_r2l17 Sancen
+#facs_111_r2l18 DÄse
+#facs_111_r2l19 Montage d. 20 do
+#facs_111_r2l20 1
+#facs_111_r2l21 Thun. Dinstags d. 21. do
+#facs_111_r2l22 Darberg.
+#facs_111_r2l23 Brieinstergl. Mitwuchen d. 22. d.
+#facs_111_r2l24 Frauen Brunnen
+#facs_111_r2l25 Jurgdorff. Donstags d. 23. do
+#facs_111_r2l26 Thorberg
+#facs_111_r2l27 Winnisch Freytage den 24. do
+#facs_111_r3l1 Brandiß
+#facs_111_r3l2 Trachselwald etc. Sambstags d. 25. do.
+#facs_111_r3l3 Buchson
+#facs_111_r3l4 Landtshutt. Montag d. 27. do
+#facs_111_r3l5 Lauxor
+#facs_111_r3l6 St. Johansen) Dinstags d. 28. d.
+#facs_111_r3l7 Nydaul
+#facs_111_r3l8 Erlach. Mitwuchens d. 29. do.
+#facs_111_r3l9 Bür-
+#facs_111_r3l10 à Gotstatt. Questags d. 30. do.
+#facs_111_r3l11 55
+#facs_111_r3l12 Freitag d. v. May. 1696.
+#facs_111_r3l13 Signorle,
+#facs_111_r3l14 Vangen
+#facs_111_r3l15 Sambstags d. 2. do.
+#facs_111_r3l16 Aarhang.
+#facs_111_r3l17 Oberhoffe
+#facs_111_r3l18 Montags d. 4. do.
+#facs_111_r3l19 Hoffinge
+#facs_111_r3l20 Goutingen
+#facs_111_r3l21 Quistags d. 5. do.
+#facs_111_r3l22 Zwey seinen
+#facs_111_r3l23 Vnderseen
+#facs_111_r3l24 Mitwuchens d. 6. d.
+#facs_111_r3l25 Interlacken
+#facs_111_r3l26 Aarburg
+#facs_111_r3l27 Donstags den 18. Junii
+#facs_112_r1l1 211.
+#facs_112_r1l2 An alle Tund WeAmbtleut,
+#facs_112_r1l3 4. Statt, Freyweibel undt
+#facs_112_r1l4 Reuen. Item Schwartzenburg
+#facs_112_r1l5 Tscherlitz und Murten.
+#facs_112_r1l6 Verbott wegen des Steinverfaltschens
+#facs_112_r1l7 Statthalter Undt Raht der Statt Bern
+#facs_112_r1l8 Collat. Als bekanten massen der vermägige Stein
+#facs_112_r1l9 saur gewachsen, ist durch boßhaffte leut ver¬
+#facs_112_r1l10 schitener Ohrten derselbe Zuverfalt sch
+#facs_112_r1l11 und
+#facs_112_r1l12 Vermitlast Silberglatta und mehreren der¬
+#facs_112_r1l13 gleichen schäslichen Dingen sünß uns milte
+#facs_112_r1l14 Gemachen understanden worden, dardurch
+#facs_112_r1l15 Dann viel Persohnen an Vngenommen
+#facs_112_r1l16 Bauch¬
+#facs_112_r1l17 geinnen erbrencket, theils auch gestorben;
+#facs_112_r1l18 Welcher Unß auß vätterlicher Vorsorg vor vnsere
+#facs_112_r1l19 liebe angehörigen veranlasset, hiemit Mänig¬
+#facs_112_r1l20 lichen Zuverwahrnen, daß nicht allein bey
+#facs_112_r1l21 Verbürckung aller Weins und noch vernerer
+#facs_112_r1l22 Unserer Oberbeitlichen harten Straff und Ungnad
+#facs_112_r1l23 sich dergleichen leutverderblichen Weinverfaltschens
+#facs_112_r3l1 212
+#facs_112_r3l2 gäntzlich müssigen, sondern Unsere Ambtsleüt auch
+#facs_112_r3l3 Wochendes auch darob halten, auf vorfallenden
+#facs_112_r3l4 Verdacht den Wein probieren und auf Vermehrung
+#facs_112_r3l5 desselben den Koller beschliessen und der Beschaffenheit
+#facs_112_r3l6 zu vernerer Unser Erkandtnuß Unßschlung berichten
+#facs_112_r3l7 sollindt, die demnach befolchende, deines Theils
+#facs_112_r3l8 dir solches ernstlich angelegen sein, und solche Vnsere
+#facs_112_r3l9 Verwahrnung zu Münigliche Nachricht von Cantzlen
+#facs_112_r3l10 verbunden zulassen. Gott mit dir. Datum. Martij. 1696.

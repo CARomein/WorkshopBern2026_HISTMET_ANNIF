@@ -1,0 +1,350 @@
+Law ID: BER.01.001.1739
+Name: Weitere Fürsechung der Kinderlehren halb.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 339/339
+# High similarity (>=50%): 283
+# Low similarity (<50%): 56
+# Not found: 0
+#
+#facs_129_r8l28 Extangen an verfaluen kriegs eosten
+#facs_129_r8l29 und Straffgelteren.
+#facs_129_r8l30 Wilhelm Nyffenegger von Hntweil auff Mayen 63. 10. T.
+#facs_129_r8l31 Danes Käser auch daselbst auf Meyen
+#facs_129_r8l32 20. J.
+#facs_129_r8l33 Christen Niderheüster auß der Kilchhöri Friserin
+#facs_129_r8l34 auf meyen 1663.
+#facs_129_r8l35 15. v.
+#facs_129_r8l36 „
+#facs_130_r1l1 246.
+#facs_130_r1l2 Christen Farin W der Kilchheri Schangmann
+#facs_130_r1l3 1
+#facs_130_r1l4 auff Meyen, obbe
+#facs_130_r1l5 — „ —
+#facs_130_r1l6 6. J.
+#facs_130_r1l7 - " - " -
+#facs_130_r1l8 Peter ugenberger auch daselbst
+#facs_130_r1l9 6. b
+#facs_130_r1l10 Nidaus Nöthifferger aus der Kilchhöri Trub
+#facs_130_r1l11 a
+#facs_130_r1l12 auf Mayen 1663. - " - " -- " -" - 20 F.
+#facs_130_r1l13 a
+#facs_130_r1l14 Hanns Bloser auch daselbst.
+#facs_130_r1l15 a
+#facs_130_r1l16 näch Pföffl. von Langnau auffmeyen 20 x
+#facs_130_r1l17 b
+#facs_130_r1l18 Michel Grab er von vberburg. auff Micheli: 63. 45t.
+#facs_130_r1l19 c
+#facs_130_r1l20 Caspar Aschliman zue Blasen Ambtsignau
+#facs_130_r1l21 auf Jacobi -
+#facs_130_r1l22 —„
+#facs_130_r1l23 10
+#facs_130_r1l24 "
+#facs_130_r1l25 50. T.
+#facs_130_r1l26 c.
+#facs_130_r1l27 Niclaus Neuwenschwander Ambts Signan, auff
+#facs_130_r1l28 Jacobi
+#facs_130_r1l29 —11
+#facs_130_r1l30 11
+#facs_130_r1l31 d
+#facs_130_r1l32 15 x
+#facs_130_r1l33 Kilchhori Wichterff auff Michelii 1663
+#facs_130_r1l34 Trachselwald a.
+#facs_130_r1l35 138.
+#facs_130_r1l36 Burgdorff v.
+#facs_130_r1l37 Signauw. c.
+#facs_130_r1l38 Mensingen, d.
+#facs_130_r1l39 Hendicht Brönniman Wichet zu kisen
+#facs_130_r1l40 25
+#facs_130_r1l41 Hanns Bürtner Stothalter zue Kite auff Mich: 63. 55. v.
+#facs_130_r1l42 1
+#facs_130_r1l43 Haues Anthone von Harblingen auff do " 15br
+#facs_130_r1l44 .
+#facs_130_r1l45 Hanns Stückj von Münsingen auff do - " - " 7 2/4
+#facs_130_r1l46 d.
+#facs_130_r1l47 Niclaus Rüffenmacht auch daselbst
+#facs_130_r1l48 d
+#facs_130_r1l49 Niclaus Weiler auch daselbst. - 20 f.
+#facs_130_r1l50 1.
+#facs_130_r1l51 Niclaus Stuckj auch daselbst  " - " - 10 r
+#facs_130_r1l52 d
+#facs_130_r1l53 Peter Kiner von Wichtorff. - " - " 72 x
+#facs_130_r1l54 Seinem Täpp auch daselbst " " - " - 30. T.
+#facs_130_r3l1 8
+#facs_130_r3l2 g.
+#facs_130_r5l1 Niclaus Roht von Worb auff Mich
+#facs_130_r5l2 147
+#facs_130_r5l3 -„ - „ - 15. d.
+#facs_130_r5l4 Bendicht Stuckl auch daselbst
+#facs_130_r5l5 — 10
+#facs_130_r5l6 11
+#facs_130_r5l7 -15. b.
+#facs_130_r5l8 e
+#facs_130_r5l9 Bendicht St. ucken Alt seckellmeister zue höchstetzen. — 30. s.
+#facs_130_r5l10 Niclaus Roht Amann daselbst.
+#facs_130_r5l11 30 x
+#facs_130_r5l12 Bendicht Affolter von vschfort
+#facs_130_r5l13 A
+#facs_130_r5l14 1 - " - " 72.
+#facs_130_r5l15 Grörg Wäber auff Mich: 63.
+#facs_130_r5l16 f
+#facs_130_r5l17 1/2 f 0/2 x
+#facs_130_r5l18 Durs Dünkelman
+#facs_130_r5l19 — 1
+#facs_130_r5l20 f
+#facs_130_r5l21 —„ — „ —„ - 50. v.
+#facs_130_r5l22 Hanns Äffolter  " - " -"- " -- " - 20. rd.
+#facs_130_r5l23 4
+#facs_130_r5l24 Josl Wallacher.
+#facs_130_r5l25 f
+#facs_130_r5l26 — „ —
+#facs_130_r5l27 " - " - 15. J.
+#facs_130_r5l28 f
+#facs_130_r5l29 Michel Zumberger    "  - " - " 15. x
+#facs_130_r5l30 höchstett.
+#facs_130_r5l31 c.
+#facs_130_r5l32 Ehörberg etc.
+#facs_130_r5l33 Kilch Höri Sedorff auff Mich. 1663.
+#facs_130_r5l34 -10
+#facs_130_r5l35 9
+#facs_130_r5l36 „-
+#facs_130_r5l37 150 f.
+#facs_130_r5l38 Kilchhöri Affolteren
+#facs_130_r5l39 h
+#facs_130_r5l40 -11
+#facs_130_r5l41 1
+#facs_130_r5l42 1 - "
+#facs_130_r5l43 100 rt.
+#facs_130_r5l44 Kilchhöri Kilchlindach
+#facs_130_r5l45 —
+#facs_130_r5l46 "
+#facs_130_r5l47 "
+#facs_130_r5l48 —
+#facs_130_r5l49 — 11
+#facs_130_r5l50 "
+#facs_130_r5l51 35. r.
+#facs_130_r5l52 11
+#facs_130_r5l53 Kilchhori Breingarten
+#facs_130_r5l54 " -
+#facs_130_r5l55 :
+#facs_130_r5l56 30 x
+#facs_130_r5l57 Hans Spring von Schüpfen auf Mich.
+#facs_130_r5l58 " - " - 30f
+#facs_130_r5l59 Bendicht Spring sel. Erben
+#facs_130_r5l60 n'est
+#facs_130_r5l61 11
+#facs_130_r5l62 2
+#facs_130_r5l63 30.F
+#facs_130_r5l64 Degenstorff Kilchhöri ist per rest.
+#facs_130_r5l65 -11-
+#facs_130_r5l66 58 r.
+#facs_130_r5l67 Kilchhöri Limpach auff Micheli. 1663.
+#facs_130_r5l68 - „ - „
+#facs_130_r5l69 -11-
+#facs_130_r5l70 50. r
+#facs_130_r5l71 Kilchhöri Graffener
+#facs_130_r5l72 -
+#facs_130_r5l73 1
+#facs_130_r5l74 -
+#facs_130_r5l75 11
+#facs_130_r5l76 1
+#facs_130_r5l77 -11-
+#facs_130_r5l78 50 rt.
+#facs_130_r5l79 Kilchhöri Messen
+#facs_130_r5l80 — „ - „
+#facs_130_r5l81 11
+#facs_130_r5l82 7
+#facs_130_r5l83 —1
+#facs_130_r5l84 50. r
+#facs_130_r5l85 Durs. Marti
+#facs_130_r5l86 —
+#facs_130_r5l87 —10
+#facs_130_r5l88 —„
+#facs_130_r5l89 wchs.
+#facs_130_r5l90 r
+#facs_130_r5l91 Hanus Hubacher - " - "
+#facs_130_r5l92 —:
+#facs_130_r5l93 - „ -
+#facs_130_r5l94 15 x
+#facs_130_r5l95 Niclaus Hubacher
+#facs_130_r5l96 — 1
+#facs_130_r5l97 -10
+#facs_130_r5l98 —
+#facs_130_r5l99 40. b
+#facs_130_r5l100 Nidous von Äsch
+#facs_130_r5l101 — „ —
+#facs_130_r5l102 " - " - "
+#facs_130_r5l103 wch
+#facs_130_r5l104 Christen Waßer - " - " -- " -"
+#facs_130_r5l105 30 x
+#facs_131_r4l1 Janns Luder    " - "  "
+#facs_131_r4l2 —„ — „ —„
+#facs_131_r4l3 Jacob Luder.
+#facs_131_r4l4 J. Hanns Tüscher - " - " —" - "
+#facs_131_r4l5 Eriemifferg, g.
+#facs_131_r4l6 verberg. H
+#facs_131_r4l7 Notelfungen. 1.
+#facs_131_r4l8 Graffenried. Kl
+#facs_131_r4l9 Frauwbrung
+#facs_131_r4l10 An alle Teütsche Ambtleuth 4. Stett
+#facs_131_r4l11 Freyweibel und Amann, Item Mürten
+#facs_131_r4l12 vnnd Schwartzenburg, weitere Fürsechung
+#facs_131_r4l13 Der Kinderlehren halb.
+#facs_131_r4l14 Buldtheis vnnd Raht der Statt Bern
+#facs_131_r4l15 ..
+#facs_131_r4l16 Bleichwie uns oberkeitlichen Ambts und pflicht
+#facs_131_r4l17 halb obgelegen, für die zeitliche vndt lange wolfahrt
+#facs_131_r4l18 rundheil, Unser Lieben Angehörigen zue Statt vnd Land
+#facs_131_r4l19 Als die eines auch zu solchem und von dem Allerhöchsten
+#facs_131_r4l20 andergeben, sorgfellig zesem Vnnd nohtwendige Fürsechung
+#facs_131_r4l21 Zethun, also ist In solcher vorsorg fürnemblich begriffen,
+#facs_131_r4l22 und voraus zu beobachten, die ergreiffung der
+#facs_131_r4l23 mitlen, die zu Rechter Erkanntnuß Gottes, Alß darinn
+#facs_131_r4l24 das Ewige Leben bestehet, unndt der vermehrung derselben:
+#facs_131_r4l25 Welche Erkaufnuß herkommt, von der fleißigen Vnnd
+#facs_131_r4l26 Recht eiferigen Vnderweisung der Jugend In den Schulen
+#facs_131_r4l27 vnnd Kinderlehren. Undt dieweilen derselben besseren
+#facs_131_r4l28 de la guerre et de la voire
+#facs_131_r4l29 anstellung halb, gute, unnd nit vnuchtwendige Erinnerung
+#facs_131_r4l30 bei Unns vorgefallen, W. deren wir befunden Innwal¬
+#facs_131_r4l31 Stuckhen solcher Nederweisung dieser Zeith Bester-
+#facs_131_r4l32 aufzehelften sein wolle, alßhobend wie der Sach nach-
+#facs_131_r4l33 dermögen genug zethun, So vil die Kinderlehren Vff ein
+#facs_131_r4l34 Land betrifft, der Zeith halber angesehen, daß es zwar
+#facs_131_r4l35 bei außgangner Ordnung, die Kinderlehren zur Mitte
+#facs_131_r5l1 10. v.
+#facs_131_r5l2 25.
+#facs_131_r5l3 30. r
+#facs_131_r6l1 Meren anzufachen, vnnd zu außgehindem weinmonat
+#facs_131_r6l2 Zeenden, verbleiben. Darbei aber auch dieser Nuderschen
+#facs_131_r6l3 beobachtet und gehalten werden solle, daß an ohrte
+#facs_131_r6l4 vnsers Lanndts, da desselben gelegenheit nach, der Sommer
+#facs_131_r6l5 etwas Zeitlicher anfacht, vnd sich weiter hinaus erstrecken als,
+#facs_131_r6l6 an anderen Vnd, onderlich den Birgigen Ohrten, die Kinder Lehr
+#facs_131_r6l7 altung auch (wol etwas zeitlicher fürgenommen, vnd vmb
+#facs_131_r6l8 etwas lenger In den Herbst gebraucht werde.
+#facs_131_r6l9 enne wellend wir alle Predianten vnd Kilchen diener
+#facs_131_r6l10 Ins gemein vnd Jeden Ins besonder seiner pflicht besser
+#facs_131_r6l11 Kohin erinneret haben, daß In solcher ernumbstete, Zeith
+#facs_131_r6l12 keiner Vnderlaße, alle Sontag Fuderlehr zehalten, vnd
+#facs_131_r6l13 solches nit etwan nur zu vierzechen Tagen thüre, alß welches
+#facs_131_r6l14 Ihme für ein hinlesige versaumnuß seiner beruffs
+#facs_131_r6l15 verrichtung, wurde gerechnet, vnnd an Ihme gestrafft
+#facs_131_r6l16 werden. Inn dem Verstand, daß die so an mehr als
+#facs_131_r6l17 einem Ohrt Kinderlehr zehalten habendt, solches wol ein
+#facs_131_r6l18 dire
+#facs_131_r6l19 Sontag umb den anderen, der Kehr nach thun mögend
+#facs_131_r6l20 zu solcher Vnderweisung sollend die Kinder Knecht undt
+#facs_131_r6l21 Wegh Junge vnd erwachßene, sämbtlich alle Kinderlehr
+#facs_131_r6l22 Tagen sich einzestellen ermannt vnd schuldig sein, Vnnd
+#facs_131_r6l23 mit nur schwan ein Teil eins: Und andere eines anders,
+#facs_131_r6l24 stags bescheiden werden. Dann obgleichwol Sie mit
+#facs_131_r6l25 alle eines Tags gefragt werden könnend, so sol doch
+#facs_131_r6l26 ein jedes desen gewertig, vnd darauf bedacht sein
+#facs_131_r6l27 hiemit auch allen versamblungen desto fleißiger Bewohne
+#facs_131_r6l28 Dandann die Kirche, diener hierinnen mit Bescheidenheit
+#facs_131_r6l29 und gedult Zehandlen wüßen sollend, Ahr daß die Vi¬
+#facs_131_r6l30 könnenden mit mit offentlichen außfolgen, zuschanden gemacht,
+#facs_131_r6l31 Sonder mit Saufft muth zur verbeßerung des mangels
+#facs_131_r6l32 an ihnen gearbeitet werde.
+#facs_131_r6l33 Es ist auch Vnser verstand, vnd wollend hiemit ermmanlich
+#facs_131_r6l34 genemt haben, daß In solchem Vnderricht auch die Alten
+#facs_131_r6l35 als Hauß Mäger- vnnd Haußmütere, weilen es denselben
+#facs_131_r6l36 Meisten tods leider auch vil daran ermanglet sich einfinden
+#facs_132_r2l1 Vnnd den selben mit den Ihrigen Zebesuchen angehalten
+#facs_132_r2l2 waren ollium
+#facs_132_r2l3 Es sollend auch die Kinderlehren nit zu gestand nach
+#facs_132_r2l4 Der Predig wie etwan von anderen suchenden kumlichkeiten
+#facs_132_r2l5 wegen beschicht, sonder zu rechter Zeith, vnd einer gewüßen
+#facs_132_r2l6 Stund, deren das volckh, ohne langes druf warten, ver¬
+#facs_132_r2l7 sicheret seye, gehalten werden, damit nit dieselbe
+#facs_132_r2l8 schon außseye, wan sie an einem andern ohrt erst¬
+#facs_132_r2l9 angefangen, vnd daher anlas geben werde, den
+#facs_132_r2l10 Meisten Teil des Sontags, mit leichtfertigkeiten Zu¬
+#facs_132_r2l11 hebringen, oder andere Vernachbarten an Ihrem Gotts
+#facs_132_r2l12 dienst hinderlich und ergerlich zu sein. Doch mag der¬
+#facs_132_r2l13 Vnder scheid der Vhrten vnnd deß landts, da das volkh
+#facs_132_r2l14 vernehalb deßwegs, die Predig vnndt Kinderlehr
+#facs_132_r2l15 In einem gang zebesuchen pflegt, wol gehalten, undt
+#facs_132_r2l16 In solchen fählen die Kind erlehr, damit das volckh-
+#facs_132_r2l17 Der nach hauß könne, befürderet werden.
+#facs_132_r2l18 Die Kirchen diener dann, sollend nit nur die gebet
+#facs_132_r2l19 vnnd fragbücher (wie durch etliche beschichtt) anhören
+#facs_132_r2l20 Sonder auch die fundament und für neinsten
+#facs_132_r2l21 faubtstuckh christenlicher religion, einfaltig vndt
+#facs_132_r2l22 deütlich erclaren, unnd kurz zum Nug undt
+#facs_132_r2l23 gebrauch an vorenden, damit neben der Erkantnuß
+#facs_132_r2l24 auch die Gottseligkeit deßlebens, bei Volckh Ich
+#facs_132_r2l25 lenger Ich mehr, wachse vnnd zunemmen
+#facs_132_r2l26 Damit aber die Jugend zur vnderweisung Ihrer
+#facs_132_r2l27 heils bei zeithen angeführt und Tugentlich gemacht
+#facs_132_r2l28 werde, wollend wir hiemit auch der Schulen hall
+#facs_132_r2l29 Vffem Lanndt, die GemeindenUnndt zu ergesegten
+#facs_132_r2l30 ermannt vndt wol ernineret habej zu Schul¬
+#facs_132_r2l31 Meisteren Tugentliche Und könnende Männer an-
+#facs_132_r2l32 zestellen, die sonderlich auch des Singens berichtet
+#facs_132_r2l33 seyen, die Kinder zum selben anzuführen, ihr
+#facs_132_r3l1 Daß das gesang Jedes Ohrts, wo müglich In der
+#facs_132_r3l2 Kirchen auch gebraucht werde, könne: Vnndt Zu
+#facs_132_r3l3 Solchem nun sollen die Schulmeister anderst in
+#facs_132_r3l4 angenomen werden, dann mit Raht und gutfinden
+#facs_132_r3l5 beides vnser Über Ambtleüthen vnndt der Predianten
+#facs_132_r3l6 Inns gesambt. Als welche mit gemein ein Raht
+#facs_132_r3l7 hierinn Vff Tugentliche personen zesechen wüßen.
+#facs_132_r3l8 werdent.
+#facs_132_r3l9 -
+#facs_132_r3l10 ne solcher vorbereitung der Jugendt, wirt
+#facs_132_r3l11 -
+#facs_132_r3l12 onderlich dienstlich vnnd wol er prießlich sein,
+#facs_132_r3l13 Das Winterszeiths an Sontagen nach dem gemeine
+#facs_132_r3l14 Gebett, die Jugendt vnd andere auch Ins Schulhauß-
+#facs_132_r3l15 an Uhrle, da deren Kindt, zusamen gehalten
+#facs_132_r3l16 Alda zum Anfang das geben und gesang zur
+#facs_132_r3l17 1
+#facs_132_r3l18 hand genommen. Nach dem selben mit Fragen, vnd
+#facs_132_r3l19 Onderweißen, Vnd den Fragbücheren vnd Im Betten
+#facs_132_r3l20 mit der Jugendt gehandlet, vnd volgents solche
+#facs_132_r3l21 versamblung widrum mit gebett und gestanng-
+#facs_132_r3l22 geendet werde: Zue welcher Nugliche, handlung
+#facs_132_r3l23 wir die Gemeinden, So mit Schulmeistern Vnnd
+#facs_132_r3l24 Schulheüßeren, die hierzue bequem sind, versehen,
+#facs_132_r3l25 hiemit gewisen: Vnndt darbei gemeint haben,
+#facs_132_r3l26 wollend daß die Kirchendiener so weit es ihnen
+#facs_132_r3l27 berufs geschefften holl, müglich, selbs beiwohnen
+#facs_132_r3l28 Vnn hierum den Schulmeistern alle Nohtwendige
+#facs_132_r3l29 anleitung geben sollnendt.
+#facs_132_r3l30 Vnndt dieweilen diese Unsere mehrere Anstalt
+#facs_132_r3l31 allein Vß liebe vnnd gutem eifer für die ehr
+#facs_132_r3l32 Gottes, vnnd vnser Lieben Underthanen Wundt
+#facs_132_r3l33 angehörigen Zeitlichem neuen ewigem heil har fließt
+#facs_132_r3l34 Als wollend wir hiemit schließlich auch nit minder
+#facs_132_r3l35 ernstbeuelchlich gemeint haben, daß durch unsere
+#facs_132_r3l36 Über Ambtleüth die erforderliche Nohtwendige Hand
+#facs_133_r3l1 Jacob gehalten. In den Visitationen der
+#facs_133_r3l2 Wreduanten, vnnd In den Capitenn, wie solchem
+#facs_133_r3l3 Collen Nach gelebt werde nnnd gnug beschehen
+#facs_133_r3l4 durch die Decanen vnnd Juraten, gebührenn
+#facs_133_r3l5 Nachgeforschet, vnndt wo daran etwas mangels
+#facs_133_r3l6 vnnd Vnderlaßung, oder auch Indem einten und
+#facs_133_r3l7 anderen Stuckh seines vort gangs halb, etwas
+#facs_133_r3l8 Vnmüglichkeit oder anderen Bedenckens funden würde
+#facs_133_r3l9 wir deßen durch die Ambtleüth mit zu thun der¬
+#facs_133_r3l10 Decanen mit eröffnung Ihres gutachtens
+#facs_133_r3l11 darüber, berichtet werdind, Unser weiteren
+#facs_133_r3l12 fürstehung darüber zue erwarten. Da dann
+#facs_133_r3l13 billich die fleißigen Vnnd eifrigen Nebend den
+#facs_133_r3l14 ung auch den Ruhm: Die vnfleisigen vnndt
+#facs_133_r3l15 Tragen aber, zu ihrer ermunter-Unnd
+#facs_133_r3l16 Aufweckung, die Beschältung zuerwarten
+#facs_133_r3l17 haben werdendt. Vnndt hastudemes Teils
+#facs_133_r3l18 Annd Inns besonder hiemit beuelch, dis alles
+#facs_133_r3l19 Unseren Kirchendieneren, damit deme nachkomen
+#facs_133_r3l20 der anfang bei zeithen gemacht, unndt die
+#facs_133_r3l21 Ondergebnen deßen so weit von nöthen zur
+#facs_133_r3l22 Nachricht ernieret werd int, zu insinuiren Undt
+#facs_133_r3l23 das demige, zu einem fruchtbarlichen Vort gang
+#facs_133_r3l24 beizetragen, alß wir vnns zue dem einen
+#facs_133_r3l25 und anderen In Gnaden Verstechen haben, wollend,
+#facs_133_r3l26 Doh. 15. Maii 1664.

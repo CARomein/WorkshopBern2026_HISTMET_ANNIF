@@ -1,0 +1,98 @@
+Law nr: BER.01.001.4545
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 87/87
+# High similarity (>=80%): 70
+# Low similarity (<80%): 17
+# Not found: 0
+#
+#facs_42_r3l10 An alle
+#facs_93_r6l2 T: Herren Amtleut und Schaffner
+#facs_93_r6l3 da Obrigkeitl. Getrein ligt. Sep
+#facs_148_r4l20 Betreid Verkauf.
+#facs_93_r6l5 Schultheis Räth und Bürger
+#facs_93_r6l6 Über den von Unseren fürgeliebten
+#facs_93_r6l7 Miträthen den Herren Teutsch Sebelmeister
+#facs_94_r3l15 und nenneren, und Unserer verordneten
+#facs_93_r6l9 Korn Cammer, Aus gemachten Vortrag
+#facs_93_r6l10 betrefens das auf Martini 1783. ein
+#facs_93_r6l11 gegangene Obrigkeitliche Getreis, haben
+#facs_93_r6l12 Wir gut gefunden und erkent:
+#facs_93_r6l13 Es solle von dem
+#facs_93_r6l14 In den Schreiben
+#facs_4_r8l9 a
+#facs_93_r6l16 an die Unter Königsfelden, daherigen über den
+#facs_93_r6l17 Lenzburg, Wangen, Aarbergen, bestimten Vorrath
+#facs_93_r6l18 aus, und nach Absag
+#facs_93_r6l19 Diesenbenberg, Ziberstein, Cusse,
+#facs_93_r6l20 den Ordinärs und
+#facs_93_r6l21 und Aarberg, bier an Platz
+#facs_93_r6l22 quasi Ordinari Aus¬
+#facs_93_r6l23 der unterstrichenen Worten
+#facs_229_r3l13 gaben vorschießenden Winter
+#facs_93_r6l25 dasezigen über den bestimtigen
+#facs_93_r6l26 oberbeitlichen Getreu¬
+#facs_93_r6l27 Vonrath aus, gesetzt, dis
+#facs_93_r6l28 für einmahl und bis
+#facs_93_r6l29 nach Ergänzung der
+#facs_93_r6l30 auf Anseren weiteren
+#facs_22_region_1633454541156_2886l1 Au
+#facs_149_r2l16 auf eüerem Amt bestimten Vorrath
+#facs_93_r6l33 bestimten Befehl,
+#facs_93_r6l34 von dem Winter,
+#facs_93_r6l35 6 an Gleuse Amter beysch
+#facs_93_r6l36 Gelrächs das ist
+#facs_93_r6l37 allfallig noch
+#facs_93_r6l38 Dinbel und Waysen /: Jtem Mischilvorn
+#facs_90_r1l1 172.
+#facs_94_r1l1 180
+#facs_94_r1l2 ein Seeland) nur die Helffe abge¬
+#facs_141_r2l10 handlen. Da nun dieses Betragen
+#facs_94_r1l4 Item, an Tiberstein, Lenzburg
+#facs_94_r1l5 Toßen hingegen C. das Sommer
+#facs_94_r1l6 und Desenbenberg allein, beysehen
+#facs_94_r1l7 den Kernen, so wie auch
+#facs_94_r1l8 Gewächs, in allen verschiedenen
+#facs_26_r4l5 Getreid Arten, gänzlich versilbernt werde,
+#facs_94_r1l10 der Meinung jedoch daß von dato
+#facs_94_r1l11 an, bis auf den 1. May nächstbäußigen
+#facs_94_r1l12 von ermelten Sommerfrüchten, nur die
+#facs_94_r1l13 d. An die Ämter des ganzes
+#facs_94_r1l14 stehelffte, und so dann erst mit
+#facs_167_r5l23 Auf beschehenes
+#facs_94_r1l16 Sibersain und Leugburg, Anfang des Maymonats die andere
+#facs_94_r1l17 allein Beyseten
+#facs_94_r1l18 der Karnen aber von
+#facs_94_r1l19 Zelffte-abgestoßen- und verbaufft
+#facs_109_r6l30 nach¬
+#facs_94_r1l21 werden solle; Wobey Unser Will
+#facs_94_r1l22 und Befehl in fernerm dahin gehet
+#facs_94_r1l23 daß in ansehen dieser verbauffenden
+#facs_94_r1l24 früchten, die Verzeigung der Schütteren
+#facs_94_r1l25 von Unserenfürgeliebten Miträthen des
+#facs_94_r1l26 Herren T. lebelmeister und Renneren
+#facs_94_r1l27 erbartet=dabey die gebohlichen Praecontionen
+#facs_94_r1l28 genommen, mithin das zu verkauffende
+#facs_150_r5l11 Getreid nicht den Händleren en bloc
+#facs_94_r1l30 und zum voraus versprochen - sondern
+#facs_94_r1l31 nur zu kleinen Kaufen, in lauffendem
+#facs_94_r1l32 Preis verkauft, aus von denen ange¬
+#facs_94_r1l33 wiesenen Schüttenen vor allem aus
+#facs_94_r1l34 das mindest behaltliche Getreid abgestoßen
+#facs_100_r2l1 soll.
+#facs_68_r8l59 Romainmotie
+#facs_94_r2l3 daß der Worten aller
+#facs_94_r2l4 bestimten Vorrathe
+#facs_4_r1l1 2
+#facs_94_r3l1 181.
+#facs_27_r5l23 ins besonders dann die Sommerfruchte vor¬
+#facs_94_r3l3 und namentlich der Haber, vorzüglich
+#facs_27_r3l1 zu Anblühmung der Felderen hingegeben
+#facs_293_r4l18 werden soll.
+#facs_94_r3l6 zu verhalten, und über das erlosende
+#facs_94_r3l7 Uns Rechnung zu tragen wißen werdet.
+#facs_94_r3l8 Dat. d. 10. Merz 1784.
+#facs_83_r3l6 en

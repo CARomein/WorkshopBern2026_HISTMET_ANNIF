@@ -1,0 +1,174 @@
+Law ID: BER.01.001.3756
+Name: Die frömden fetten Schwein [...] ins Land zelassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 163/163
+# High similarity (>=50%): 147
+# Low similarity (<50%): 16
+# Not found: 0
+#
+#facs_179_r1l1 348
+#facs_179_r1l2 Proiectierte Rechnungs
+#facs_179_r1l3 Tagen der Teütschen Herren Ambtlütze
+#facs_179_r1l4 Pro anno 1739
+#facs_179_r1l5 Burgdorff
+#facs_179_r1l6 auf Mitbochen den 14 Jan. 17
+#facs_179_r1l7 Landshut
+#facs_179_r1l8 Eydaun
+#facs_179_r1l9 auff donstagden. 15 do
+#facs_179_r1l10 Karberg.
+#facs_179_r1l11 Erlach
+#facs_179_r1l12 Montags den 19t do¬
+#facs_179_r1l13 Buchsee
+#facs_179_r1l14 Prienisperg
+#facs_179_r1l15 Mitbahn den 21 d
+#facs_179_r1l16 Orienisperger
+#facs_179_r1l17 Baus
+#facs_179_r1l18 Kornhert
+#facs_179_r1l19 Dienstag den 22t x
+#facs_179_r1l20 N. Johanfer, Hau¬
+#facs_179_r1l21 .
+#facs_179_r1l22 Prachselwald
+#facs_179_r1l23 Bipp.
+#facs_179_r1l24 Montags den 26t do
+#facs_179_r1l25 Tumismald
+#facs_179_r1l26 Mitbachen den 28t do
+#facs_179_r1l27 Darwangeri
+#facs_179_r1l28 Mushaffen
+#facs_179_r1l29 Anstagt den 29t do
+#facs_179_r1l30 Interlaker Haus
+#facs_179_r2l1 349
+#facs_179_r2l2 Brandis
+#facs_179_r2l3 Montags den 2ten Februarii
+#facs_179_r2l4 Bottstatt
+#facs_179_r2l5 Gelliswyl
+#facs_179_r2l6 Laupen
+#facs_179_r2l7 Mitbchen den 4b do.
+#facs_179_r2l8 Diechenhaus
+#facs_179_r2l9 zweilimmen.
+#facs_179_r2l10 Anstags den 5t do-
+#facs_179_r2l11 Könth.
+#facs_179_r2l12 Burgeren Mittey 9f do
+#facs_179_r2l13 Baul-Herr Von
+#facs_179_r2l14 N. Johansen
+#facs_179_r2l15 Mitbochen den 11 do
+#facs_179_r2l16 Wimitz.
+#facs_179_r2l17 Doztags den 12 do
+#facs_179_r2l18 Nisff.
+#facs_179_r2l19 Montags den 16 do
+#facs_179_r2l20 Biberstein
+#facs_179_r2l21 Aarburg
+#facs_179_r2l22 Mitbochen den 18ten do
+#facs_179_r2l23 Prutigen
+#facs_179_r2l24 Prautronnen.
+#facs_179_r2l25 Donstags den 19ten do
+#facs_179_r2l26 Interlaken.
+#facs_179_r2l27 Mordags den 23t do
+#facs_179_r2l28 Thun
+#facs_179_r2l29 Mit Sachen den 25
+#facs_179_r2l30 Jusul.
+#facs_180_r2l1 Unter geen
+#facs_180_r2l2 Dönstags 26t do
+#facs_180_r2l3 Saanen
+#facs_180_r2l4 Pchenkenberg
+#facs_180_r2l5 Montags & 2th marty
+#facs_180_r2l6 Casteler
+#facs_180_r2l7 Düren
+#facs_180_r2l8 d.
+#facs_180_r2l9 Mitbochen den 4.
+#facs_180_r2l10 Oberhoffen
+#facs_180_r2l11 Signaux
+#facs_180_r2l12 I
+#facs_180_r2l13 Dorstags den 5.
+#facs_180_r2l14 Nangen
+#facs_180_r2l15 Montags den 9ten Januar
+#facs_180_r2l16 Thorberg
+#facs_180_r2l17 Ahlen
+#facs_180_r2l18 Mitbochen den 11 do
+#facs_180_r2l19 Zofingen
+#facs_180_r2l20 dienstags den 12 x
+#facs_180_r2l21 Lanzburg
+#facs_180_r2l22 KönigsFelder (Matags den 16t) do
+#facs_180_r2l23 Grosz Wittahl. Dienstags d. 19. d.
+#facs_180_r3l1 ed.
+#facs_180_r3l2 Taganse Lung
+#facs_180_r3l3 Der Herren Ambtleuthen Welschen Lands
+#facs_180_r3l4 zu Ablag dero Rechnungen auff Ostern
+#facs_180_r3l5 1739
+#facs_180_r3l6 Februar
+#facs_180_r3l7 5te Rechnung pristags den 6
+#facs_180_r3l8 WiblisPurg
+#facs_180_r3l9 Vellerlingen "1er Rechnung.] Samstags den 7ten
+#facs_180_r3l10 5t Rechnung Freystags den 18ten
+#facs_180_r3l11 Cron
+#facs_180_r3l12 1)
+#facs_180_r3l13 l'autre dernier avec la viele,
+#facs_180_r3l14 9 Rechnung Samstag den 14
+#facs_180_r3l15 Reübenstatt
+#facs_180_r3l16 "
+#facs_180_r3l17 4ten Rechnung fürstags den 20
+#facs_180_r3l18 W. Weinscheit
+#facs_180_r3l19 5 Rechnung Samptags den 21
+#facs_180_r3l20 Prildent
+#facs_180_r3l21 abrechnung
+#facs_180_r3l22 Fügtags den 27
+#facs_180_r3l23 1er Rechnung,
+#facs_180_r3l24 afferten
+#facs_180_r3l25 5 Rechnung Sonstagt d. 28.
+#facs_180_r3l26 Vinis-
+#facs_180_r3l27 Martius
+#facs_180_r3l28 Cte Rechnung frütge den 6ten
+#facs_180_r3l29 aubonne
+#facs_180_r3l30 2 Rechnung Samstag den 7ten
+#facs_180_r3l31 Pausanne
+#facs_180_r3l32 3te Rachnung Freitags d. 13ten
+#facs_180_r3l33 Revie
+#facs_181_r1l1 352
+#facs_181_r1l2 martius
+#facs_181_r1l3 3te Rechnung Thumbstag den 14
+#facs_181_r1l4 Bonmont
+#facs_181_r1l5 4t Rechnung frigtags d. 20
+#facs_181_r1l6 Morlee:
+#facs_181_r1l7 abrechnung
+#facs_181_r1l8 Romainmostier
+#facs_181_r1l9 Sambstegs den 21
+#facs_181_r1l10 1t Rechnung
+#facs_181_r1l11 an
+#facs_181_r1l12 Alle Teütze und Welsche Ambtleüth Vier Städt
+#facs_181_r1l13 Freyleibel und gegen Item per Zedel
+#facs_181_r1l14 an Cäntzel wie auch per Placart an
+#facs_181_r1l15 die gebohnte Ohrt die Kranden
+#facs_181_r1l16 Oedten Schbein von Dato an
+#facs_181_r1l17 biß Spach vorstehendem
+#facs_181_r1l18 Ostermanckt 1739 ins
+#facs_181_r1l19 Landzelaßen.
+#facs_181_r1l20 Schultheiß Rätt und Burger etc.
+#facs_181_r1l21 Die bohlen durch Unser sub 4e et 13
+#facs_181_r1l22 Juli 1718. in offenem Runde außgegebenes
+#facs_181_r1l23 Mandat, wie die Einfuhr frönder Schweinen
+#facs_181_r2l1 353
+#facs_181_r2l2 in Unser Land bey Consiscation und
+#facs_181_r2l3 annoch auffgesetzter Bestraffung verziethen.
+#facs_181_r2l4 laßen; So findend jedennoch, in Bedencken
+#facs_181_r2l5 hörigen Jahrs die Raüm und andere Hächte
+#facs_181_r2l6 wie nicht beniger das Acherumb fehlgeschlagen,
+#facs_181_r2l7 zu Abhebung besorgender allzu starcken Theürun¬
+#facs_181_r2l8 im Verkauff der Schweinen und damit selbige
+#facs_181_r2l9 vonjenigen Persohnen, so deren nöthig haben
+#facs_181_r2l10 möchten, in billigem Preiß erhandlet werden
+#facs_181_r2l11 mögen Uns bemüßiget von minen biß nach
+#facs_181_r2l12 tostehendem Ostermarckt deß 1739 Jahr, den
+#facs_181_r2l13 heiten fremden Scheinenen die Einbringung
+#facs_181_r2l14 in Unsere Land hiemit zu verlälligen, und
+#facs_181_r2l15 wollend jenigen Persohnen, so von außenher¬
+#facs_181_r2l16 selbige in Unsere Land zum Verkauff
+#facs_181_r2l17 anhero ferggenbunden, andurch vergünstiget
+#facs_181_r2l18 haben, wehrend obbenanter Zeit selbe darinn
+#facs_181_r2l19 offentlich feilhalten und verkauffen zu könne
+#facs_181_r2l20 deßen du berichtet und befelchnet wirst, solch
+#facs_181_r2l21 Unser Einsehen zu maniglicher Nachricht
+#facs_181_r2l22 Ostentlich von Cantzlen vorkünden zulaßen
+#facs_181_r2l23 Wie zuthun büßenbirst Gott mit Dir.
+#facs_181_r2l24 Datum den 22ten novembris 1738.

@@ -1,0 +1,32 @@
+Law ID: BER.01.001.3359
+Name: Wegen Verbesserung der Landstrassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 21/21
+# High similarity (>=50%): 21
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_383_r3l8 An Alle T. und V. Anthlguth
+#facs_383_r3l9 4. Stätt, Freyweibel
+#facs_383_r3l10 und Amen.
+#facs_383_r3l11 Wegen Verbeßerung der Landstraßen
+#facs_383_r3l12 Schultheis und Raht etc.
+#facs_383_r3l13 Wir vernemend, daß fast allerOrthe,
+#facs_383_r3l14 Vnserer Landes die Landstraßen
+#facs_383_r3l15 in schlechtem zustand sich befinden
+#facs_383_r3l16 wie
+#facs_383_r3l17 Derowegen dir 1. gleich gegen allen
+#facs_383_r3l18 anderen Amtsleüthen auch beschuht :/
+#facs_383_r3l19 auffgetragen haben wollend, denen
+#facs_383_r3l20 Gemenden deines Amths Alles Ernsts
+#facs_383_r3l21 zu befehlen, daß sie die Landstraße
+#facs_383_r3l22 fürderlich, und annoch vor dem Winter
+#facs_383_r5l1 721
+#facs_383_r5l2 In Gueten Zustandsetzen thügend, wiedrigen
+#facs_383_r5l3 fahls sie solches zu verantworthen haben
+#facs_383_r5l4 Berden; Welches zu VerAnstalten, und
+#facs_383_r5l5 Auffsicht zu haben, bestens leußen wirst etc.
+#facs_383_r5l6 Datum den 12. Septembris 1721

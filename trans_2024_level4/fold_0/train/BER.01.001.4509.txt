@@ -1,0 +1,111 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 103/104
+# High similarity (>=80%): 97
+# Low similarity (<80%): 6
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4509
+#facs_264_r4l5 Verbott und Verordnung, wegen Anschaffung
+#facs_32_r5l1 61.
+#facs_89_r3l1 i
+#facs_252_r4l3 alle deutsch und weltschen Herren Amtleut, 4. Städt
+#facs_264_r4l4 freyweibel und Amman, Sepp.
+#facs_264_r4l5 Verbott und Verordnung, wegen Anschaffung
+#facs_264_r4l6 doppelter Burgerrechten.
+#facs_310_r3l10 Schultheis Rath und Burger u Mitkommene
+#facs_264_r4l8 bersenden Wir Euch eine hinlängliche.
+#facs_264_r4l9 Anzahl Doppel von der Verordnung und dem
+#facs_264_r4l10 Verbodt, so Wir für die Zukonft, wieder die
+#facs_264_r4l11 Anschaffung doppelter Burgerrechten, in
+#facs_264_r4l12 druk auszugeben nöthig erachtet, mit dem
+#facs_264_r4l13 befelchlichen Auftrag, solche öffentlich von der
+#facs_264_r4l14 Canzel verlesen-gewohnter Orten
+#facs_264_r4l15 anschlagen, und seines behörigen Orts in
+#facs_264_r4l16 den Schloßbücheren nachrichtlich einschreiben
+#facs_253_r3l20 zu laßen
+#facs_264_r4l18 An die Herren Amtleut und 4. Städt
+#facs_254_r1l30 allein
+#facs_264_r4l20 Und da Uns daran gelegen seyn will.
+#facs_264_r4l21 ausführlich zu wißen, welche von Unseren
+#facs_265_r4l7 Burgeren und angehörigen, an äußeren
+#facs_264_r4l23 vergangenen neben ihrem in Unserer
+#facs_264_r4l24 ittmäßigkeit besitzenden Burger= und
+#facs_264_r4l25 Landrechten, sich annoch an unseren Orten
+#facs_9_region_1629822406380_88l_2 Coll
+#facs_32_r5l1 61.
+#facs_265_r3l1 Verburgeret haben möchten; So befehlen
+#facs_265_r3l2 Wir euch, hierüber in Euerem Amt
+#facs_265_r3l3 /: Bezirk :/ die genauste Information
+#facs_265_r3l4 aufnemmen zu laßen, und, zu Unseren
+#facs_265_r3l5 Handen, in Zeit von drey Monaten, Unserer
+#facs_265_r3l6 bestelten Canzley eine vollständige Ver¬
+#facs_265_r3l7 zeichnuß von allen Unseren Bürgeren und
+#facs_265_r3l8 Angehörigen einzusenden, die sich in
+#facs_265_r3l9 diesem Fall befinden werden, mit vermelden.
+#facs_265_r3l10 Wo ein jeder von ihnen äußert Lands
+#facs_265_r3l11 verbürgeret seyn?
+#facs_265_r3l12 Seit welcher Zeit?
+#facs_265_r3l13 Ob er in = oder äußert dem Land säshaft
+#facs_270_r3l16 gege
+#facs_265_r3l15 Ob und allenfalls was für Stellen er
+#facs_265_r3l16 bekleide? es seye im Geistlichen Bürgerlichen=
+#facs_265_r3l17 oder Militar = Stans.
+#facs_265_r3l18 Maßen geschehen werde, Wir uns zu
+#facs_265_r3l19 Euch versehen. Dat. d. 28ten Hornung 1782.
+#facs_28_r1l2 Verordnung.
+#facs_265_r3l21 Wir Schultheit klein uns große Räthe der
+#facs_265_r3l22 Stadt uns Respublic Beru, entbieten allen
+#facs_227_r3l9 Unseren lieben und getreuen Bürgeren¬
+#facs_265_r4l1 und angehörigen Unserer Deutschen und
+#facs_227_r3l11 weltschen Städten und Landen, Unseren
+#facs_227_r3l12 gnädigen und wohlgeneigten Willen
+#facs_16_region_1629823813704_301l5 und geben ihnen dabey zu vernehmen.
+#facs_265_r4l5 das, da Wir wahrnemmen mußen, daß sei¬
+#facs_265_r4l6 einiger Zeit viele Unserer getreuen
+#facs_265_r4l7 Burgeren und angehörigen, an äußeren
+#facs_265_r4l8 Orten Land-Burger- und elrige Einlochner¬
+#facs_265_r4l9 Rechte angenommen, und sich dadurch gegen
+#facs_265_r4l10 andere fremde Landesherren und
+#facs_265_r4l11 Obrigkeiten, dieser Burger- und Landrechten
+#facs_265_r4l12 halb, eidlich verpflichtet haben; solche
+#facs_265_r4l13 Verpflichtungen aber demjenigen, was
+#facs_265_r4l14 jeder Bürger und Underthan seinem
+#facs_265_r4l15 Vatterland in Vorfällen zu leisten schuldig
+#facs_265_r4l16 ist, allerdings zu wieder laufen; als hat
+#facs_3_region_1629374317285_405l9 Uns solches bewogen, unseren Amtleuten anzu¬
+#facs_265_r4l18 dieser dopelten Burger = elbiger Einwohner
+#facs_265_r4l19 und Landrechten, anni zu Statuiren und
+#facs_265_r4l20 zu verordnen, daß fürohin jedem Unserer
+#facs_266_r2l11 Burgern und Underthanen, die vor dieser
+#facs_265_r4l22 seines in Unserer Vollmäßigkeit besitzenden
+#facs_266_r2l13 Burger- und Landrechte angenommen,
+#facs_265_r4l24 soll, ohne Unfrau als des Landes Herrn
+#facs_62_r3l1 119
+#facs_266_r1l1 620
+#facs_266_r2l1 ausdrüklich dazu erhaltene Gewilligung
+#facs_266_r2l2 sich an aussern Orten zu verbürgern,
+#facs_266_r2l3 und allda solche Burger eloige Einwohner
+#facs_266_r2l4 und Land=Rechte anzunemmen, vermög
+#facs_266_r2l5 welcheren er gegen einen äußeren
+#facs_266_r2l6 Landesherrn, oder eine fremde Regierung
+#facs_266_r2l7 zu einiger Eidspflicht, oder anderen dergleichen
+#facs_266_r2l8 engen Verbindungen gehalten werden
+#facs_266_r2l9 möchte
+#facs_266_r2l10 betreffend aber diejenigen Unserer
+#facs_266_r2l11 Burgern und Underthanen, die vor dieser
+#facs_266_r2l12 Unserer Verordnung an außern Orten
+#facs_266_r2l13 Burger- und Landrechte angenommen,
+#facs_266_r2l14 wie auch äußere Angehörige, die mit Unserer
+#facs_266_r2l15 Einwilligung in Unserer Sottmäßigkeit
+#facs_169_r3l18 Land= und Burgerrechtens hoch Obrigkeitlich
+#facs_266_r2l17 ist Unser Wille: daß denselben in Zukonft,
+#facs_266_r2l18 6 lange sie an aüßeren Orten Militar
+#facs_266_r2l19 oder Civil=Stellen bekleiden, in Unsern
+#facs_266_r2l20 Landen keine dergleichen anvertraut werden
+#facs_131_r5l6 sollen.
+#facs_266_r2l22 Welches hiemit zu jedermans Verhalt, öffentlich
+#facs_266_r2l23 von Canzeln kund gethan wird. Baben in Unser
+#facs_266_r2l24 großen Raths Versamlung d. 28ten Hornung 1782.
+#facs_30_r2l23 Canzley gern.
+#facs_178_r8l1 en

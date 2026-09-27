@@ -1,0 +1,85 @@
+Law ID: BER.01.001.2101
+Name: Das Verpott anderen Weins erfrischen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 74/74
+# High similarity (>=50%): 71
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_151_r3l6 la Tijdouw,
+#facs_151_r3l7 Undt deßen Unsere Verburgerte Im Münsterthal¬
+#facs_151_r3l8 zu gerecht gehöriger mithaltung auch zubreichten
+#facs_151_r3l9 An Alle Oberlendtsche
+#facs_151_r3l10 Ambtleüt
+#facs_151_r3l11 Das Verpott anderen Weins erfrischen,
+#facs_151_r3l12 Staefhalter und Raht der Stadt Bern und Wie¬
+#facs_151_r3l13 habend zwar das anderem 23. Februarii 1675
+#facs_151_r3l14 An vnsere Oberlendtsche Ambter außgeschriben
+#facs_151_r3l15 erpott des Äschenthalers als Landtsfrombers.
+#facs_151_r3l16 Weins vnd die einzihlung dessen Im Thal undt
+#facs_151_r3l17 Cöste, Wie auch Vivis, Monstreux, Jälen, Vnderend
+#facs_151_r3l18 _o
+#facs_151_r3l19 18. Novembris gleichen Jahrs dahin auffgehebt, daß
+#facs_151_r3l20 von Domaligen FählJahrs Wegen, an Wein, Unser
+#facs_151_r3l21 gelendts am Thunersen, die erhandlung Reiff von
+#facs_151_r3l22 La Coste Weins, und dergleichen Landtgewechsen,
+#facs_151_r3l23 mit beharlicher außschließung des Landtsfrömbden
+#facs_151_r3l24 Vnseren Oberlendischen Vnderthanen, anersuchter
+#facs_151_r4l1 248
+#facs_151_r4l2 naßen, widerumb zugelaßen sein solle, aber für daßelbe Jahr
+#facs_151_r4l3 Dennay
+#facs_151_r4l4 allein, vnd hiemit so lang es vns gefalt.
+#facs_151_r4l5 ber der heürige Herbst, vnd Gottes gnadreichem Sägen
+#facs_151_r4l6 dahin außgefallen, daß der Weine zu Oberhofen, Spielen,
+#facs_151_r4l7 Thun und daherumb, so wil eingesamlet worden, daß
+#facs_151_r4l8 die weobligend, Landtschafft darmit der nothurfft nach
+#facs_151_r4l9 -
+#facs_151_r4l10 versechen werden kan, Alß habend wir daher
+#facs_151_r4l11 Vrsach funden, anfangs gedachter Verpatt widerumb
+#facs_151_r4l12 Zuerfrischen, Maßen Wie hiemit angesechen vndt gemeint
+#facs_151_r4l13 haben wellend, daß beuorderst der Aschenthaler undt
+#facs_151_r4l14 Dergleichen Landtsfrömbde Wein bej straff der Confiscation
+#facs_151_r4l15 Vnseren Vnderthanen In gemein beharlich interdiciert.
+#facs_151_r4l16 vndt abgestrickt: Denen Im Ober sibenthal undt
+#facs_151_r4l17 .
+#facs_151_r4l18 Ambt Sanen dan der Monstreup-viuis vndt Älen
+#facs_151_r4l19 Wein zwar, Weilen Sie demselben neger, alß
+#facs_151_r4l20 anderem geseßen, in dem preis wie der Landt wein
+#facs_151_r4l21 ist, Zuerhandten und vnder sich gebrauchen, fürter
+#facs_151_r4l22 in selben aber
+#facs_151_r4l23 Wie hievor, zugelaßen
+#facs_151_r4l24 allen andere, und mit ihnen auch unseren Ober
+#facs_151_r4l25 Landtschen Vnderthanen Ins gemein, aller Im
+#facs_151_r4l26 Weltschen Landt gewachsene Wein, so wohl als der
+#facs_151_r4l27 Frömbde, gentzlich und allerdings verpotten sein undt
+#facs_151_r4l28 leiben solle: Vßert deme, daß wir den Wiheten
+#facs_151_r4l29 zu thun zugelaßen haben willend, Ihre Wirtschafften
+#facs_151_r4l30 mit Reiff- und La Coste wein Zeuersachen, undt
+#facs_151_r4l31 hiemit denselben in solcher Maß zuerhandlen vndt
+#facs_152_r2l1 In Ihre Wirtschafften Zebringen, der heiteren meinung
+#facs_152_r2l2 daß Sie davon oder vnderim Schein solchen zuge¬
+#facs_152_r2l3 lasßnen kaufft, keinen desselben, anderst wohr
+#facs_152_r2l4 Verkauffen sollen, bei gleicher straff der Confiscation
+#facs_152_r2l5 Alles zu dem undt, daß das gute Landt gewechß
+#facs_152_r2l6 mit verachtet, unzeitige Verköstigung mit anderen
+#facs_152_r2l7 Thürem schleckwein verhüetet, Und der gemein
+#facs_152_r2l8 Der
+#facs_152_r2l9 Landtung dardurch befürderet werde.
+#facs_152_r2l10 heiteren bedlönffigen meinung, daß die so ob
+#facs_152_r2l11 gedachter Orten Unsers Oberlandts Wein Zuer¬
+#facs_152_r2l12 kauffen habend, Dahar nit anlaß nemen sollies
+#facs_152_r2l13 Denselben desto höcher Zeschelzen, undt eigen nötzig
+#facs_152_r2l14 Vertherung einzufüehren, oder eine Vortheil
+#facs_152_r2l15 hafftige Vermischung des Verordrigen schlechten
+#facs_152_r2l16 Weins, weder den heürigen guten fürzenenden
+#facs_152_r2l17 Welche wir dan, so deßen zur klagen kommen sollte,
+#facs_152_r2l18 mit verdienter Straff zu empfinden gemeint,
+#facs_152_r2l19 Das hastu nun Deinen
+#facs_152_r2l20 sein wurden
+#facs_152_r2l21 Ambts angehörigen Zueröffnen, daßelbe so
+#facs_152_r2l22 Weit es sie ansicht, Zubrobachten, auch für
+#facs_152_r2l23 Dich selbst hand darob zuhalten. Wie wir
+#facs_152_r2l24 uns vorsechend. Datum 16. Octobris 1676.

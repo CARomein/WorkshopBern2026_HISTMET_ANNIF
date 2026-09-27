@@ -1,0 +1,91 @@
+Law ID: BER.01.001.1881
+Name: Den Vorraht an Holtz verbieten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 80/80
+# High similarity (>=50%): 78
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_265_r2l1 Brandisz, Burgdorff, Chorberg,
+#facs_265_r2l2 Frauwenbrunnen, Couppen, Zussee,
+#facs_265_r2l3 Arberg, Frienisferg, Ober-Undt
+#facs_265_r2l4 Vnder Spithal, Siachenhaus vndt
+#facs_265_r2l5 Insul
+#facs_265_r2l6 Coll. Den vorraht an Zollz verbieten
+#facs_265_r2l7 Schuldtheiß und Rast der Statt Bern.
+#facs_265_r2l8 Vnsere Hölcher hin vnd wider sind durch letsten Vmbill
+#facs_265_r2l9 in sehr schlechtem Zustand gefunden worden, also daß
+#facs_265_r2l10 Zu Verkommung gentzlicher ruin Vnd erödung derselben
+#facs_265_r2l11 Wir vns benötiget befunden, hierumb ein nohtwendige
+#facs_265_r2l12 Reglement und Ordnung zumachen, Vmb dardurch allen
+#facs_265_r2l13 Excessen gebührend abzuhelfen, hingegen aber die
+#facs_265_r2l14 gebührende Sparsamkeit einzufüehren, Wan dan eine
+#facs_265_r2l15 Zeit hero Wargenomen, Ja theils Erß Langer ge-
+#facs_265_r2l16 Wohnheit herkomen ist, daß etliche Vnserer negst
+#facs_265_r2l17 Vmb und in der Statt geseßenen Ambtleüthen sich
+#facs_265_r2l18 so mit licentiert, daß bei V Bgang Ihrer Jahre
+#facs_265_r2l19 sich sich mit großer quantitet Zoltzes versechen, selbige
+#facs_265_r2l20 In Ihre privat-heüser füehren laßen, vnd also vff
+#facs_265_r2l21 Viel Jahr lang vorrast gemacht, oder auch offtmalen
+#facs_265_r3l1 Nur an die
+#facs_265_r3l2 eßeren Ambt
+#facs_265_r3l3 lieth
+#facs_265_r4l1 „ 517.
+#facs_265_r4l2 namhaffte gebeüw vergenommen, vnd zum eint- vndt
+#facs_265_r4l3 anderen und, das schönste Bauw- vnd brönholtz in
+#facs_265_r4l4 Vnseren Welden Ihrer Verwaltung fellen laßen, dardurch
+#facs_265_r4l5 dieselligen nit wenigerödet worden, Alß habend wir
+#facs_265_r4l6 zu Vorkommung besorgender völliger ruin, daß einte und
+#facs_265_r4l7 andere alß ein schädlichen mißbrauch abgestricke, gutfunden,
+#facs_265_r4l8 Wir dan gegen dir, gleich wie gepen anderen Vnseren
+#facs_265_r4l9 Ambtlaüthen, der ernstlichen meinung beschieht, daß du¬
+#facs_265_r4l10 so wohl deß vorrähtlichen beholtzens, alß der fellung des
+#facs_265_r4l11 Bauwholtzes zu deinen privat gebeüwen, dich gentzlichen
+#facs_265_r4l12 Und allerdings bey deinem geschwornen Eydt müeßigen,
+#facs_265_r4l13 Dich der sechs Jehrigen nichtung begnüegen, vnd Im übrigen
+#facs_265_r4l14 Unseren Wälden mit der gleichen Verschonen, auch zu demen
+#facs_265_r4l15 Im gebrauch des Brunholtzes in Wehrender deiner Ver-
+#facs_265_r4l16 Waltung sparsam vmbgehen sollest, Im Fahl aber dir
+#facs_265_r4l17 etwan ein nohtwendiger Bauw vfffallen Wurde
+#facs_265_r4l18 Wirstu vns des Holtzes halb Zubegrüeßen wol wüßen
+#facs_265_r4l19 Hierin aber wellend wir die gebeuw so zu unseren
+#facs_265_r4l20 handen, und in Vnserem nahmen beschechend heiter Vorbe¬
+#facs_265_r4l21 halten haben.
+#facs_265_r4l22 Bleich wie aber vorerleüteter maßen Du deiner
+#facs_265_r4l23 riuats gebeüwen halb Vnseren Wiederen gentzlichen
+#facs_265_r4l24 zu erschonen gewisen Wirst, Also pectu auch nit mindar¬
+#facs_266_r3l1 Dich des bißhero nit wenig zum schaden vnd nachthei¬
+#facs_266_r3l2 angemasnten gewalts und weiteren Verwilligens
+#facs_266_r3l3 gegen Deinen Ambts angehörigen allerdings entladen
+#facs_266_r3l4 vnd mueßigen, Und den einten und anderen seines den
+#facs_266_r3l5 irtigen anligens halb für Uns Weisen Unser Verodnung
+#facs_266_r3l6 znerwarten. Wie nun die pfeantzung vnser Wäldt¬
+#facs_266_r3l7 Du die von selbsten angelegen sein laßen solt, Als
+#facs_266_r3l8 Wirstu diese vnsere zu dem end angesechene einzilun¬
+#facs_266_r3l9 mit minder steiff zu observieren wüßen, Wie Wir Ver-
+#facs_266_r3l10 dersechend, vnd dich darmit etsch befelchend, dathen
+#facs_266_r3l11 Sept. 1668
+#facs_266_r3l12 Dieweilen dan nit Unzeitig beobachtet worden
+#facs_266_r3l13 daß die post schöne Wälder der Faffer vndt
+#facs_266_r3l14 Raupperwald, auch anfachind in abgang zugerahten
+#facs_266_r3l15 Welches daher entspringt, daß die Amptleüts zu
+#facs_266_r3l16 Louppen sich des gewalts darüber angemaßget,
+#facs_266_r3l17 Vnd den Bauren darin nach ihrem gefallen Ze=
+#facs_266_r3l18 Hauwen bewilliget, Wie aber die uffsicht über disen
+#facs_266_r3l19 beide Zölcher Inderweilen einem jehwesenden Herr
+#facs_266_r3l20 Bawherren obgelegen, also laßend wir es darbe
+#facs_266_r3l21 verbleiben, habend auch zu dem end vnserem
+#facs_266_r6l1 Dißmaligen Bauwherren den nohtwendigen Befelch¬
+#facs_266_r6l2 ertheitt, vnd wellend darbei ernstmeinend gehabt vnd
+#facs_266_r6l3 Dir befolchen haben, daß du vnd alle deine künfftige
+#facs_266_r6l4 Ambtsnachfahren sich diser höltzeren gentzlichen Vnd
+#facs_266_r6l5 allerdings entziechen, vnd des holtz mßtheilens darin -
+#facs_266_r6l6 "
+#facs_266_r6l7 müßigen, hiemit die inspection, ohne eingriff einfaltigen
+#facs_266_r6l8 einem bauwherren Überlaßen söllend, Wie du für
+#facs_266_r6l9 Dich Zethun, vnd diß zu kunfftiger nachricht dem Schlaff
+#facs_266_r6l10 Büch ein zu verleiben wol leußen Wirst. Seyest darmit
+#facs_266_r6l11 Boël mohl befoisen. Datum 1. Sept. 1668.

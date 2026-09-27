@@ -1,0 +1,106 @@
+Law ID: BER.01.001.4633
+Name: Wegen ansuchender Loslassung der Gefangenen aus dem Schallen- und Arbeitshaus.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 95/95
+# High similarity (>=50%): 92
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_215_r2l20 Dn
+#facs_215_r2l21 alle Deutsche und Welsche Herren Amtleut
+#facs_215_r2l22 demie Oberhasli und Petterlingen Cono
+#facs_215_r2l23 Wegen ansuchender Lotlasung der Befangen
+#facs_215_r2l24 aus dem Schallen- und Arbeitshaus
+#facs_215_r6l1 t 25
+#facs_215_r6l2 Schultheiß und Rath der Stadt Bernb.
+#facs_215_r6l3 In Betreff der Art und Weise, wie bey
+#facs_215_r6l4 ansuchender Looslasung der Gefangenen
+#facs_215_r6l5 aus dem Schallen, und Arbeitshaus hinfüro
+#facs_215_r6l6 verfahren werden soll, haben Wir nebst an¬
+#facs_215_r6l7 derm zu verordnen gut befunden
+#facs_215_r6l8 Daß wann sich jemand um die Loslaßung
+#facs_215_r6l9 eines Gefangenen aus allhiesigem Schallen
+#facs_215_r6l10 werk oder Arbeitshaus bey Uns bewerben
+#facs_215_r6l11 will, solchenfalls die Supplic dem Amtsmann
+#facs_215_r6l12 des Ohrts woher der Befangene gebürtig ist,
+#facs_215_r6l13 vor allem aus vorgewiesen werden soll.
+#facs_215_r6l14 Dieser Amtsmann denn soll nach vorerst
+#facs_215_r6l15 eingezogenen erforderlichen näheren Berichten,
+#facs_215_r6l16 id
+#facs_215_r6l17 die ihme vorgelegte Bittschrift entweders zur
+#facs_215_r6l18 Zeügsamme der Wahrheit des darin ange¬
+#facs_215_r6l19 brachten besiglen, oder aber seine wider die
+#facs_215_r6l20 Looslaßung habende Bedenken abschlags¬
+#facs_215_r6l21 weise in die Supplik schreiben.
+#facs_215_r6l22 Desen ihr berichtet werdet, um Euch
+#facs_215_r6l23 diesemnach in Vorfallenheiten zu verhalten,
+#facs_215_r6l24 und diese Unsere gegenwärtige Verordnung
+#facs_215_r6l25 seines Ohrts nachrichtlich einschreiben zu lasen
+#facs_215_r6l26 Datum den 19. Augusti 1788.
+#facs_215_r7l1 227.
+#facs_215_r7l2 ngs
+#facs_216_r4l1 Au
+#facs_216_r4l2 alle deutsche und Welsche Herren Amtleut
+#facs_216_r4l3 vier Städt, Freyweibel und Ammann¬
+#facs_216_r4l4 Herbstferien ausgeschrieben.
+#facs_216_r4l5 Schultheis und Rath
+#facs_216_r4l6 Wir haben die heurigen Herbst¬
+#facs_216_r4l7 ferien vom 10den- Herbstmonat bis
+#facs_216_r4l8 Martini nächstleünftig bestimmt, und befeh¬
+#facs_216_r4l9 len Eüch, währens dieser Zeit keine andere
+#facs_216_r4l10 dann nothdringende Beschäfte an Uns
+#facs_216_r4l11 und Unsere verordnete Dicasteria im
+#facs_216_r4l12 Tribunalien gelangen zu laßen.
+#facs_216_r4l13 Datum den 25ten Augusti 1788.
+#facs_216_r4l14 An
+#facs_216_r4l15 die Emmenthalischen, Ober- und Unter¬
+#facs_216_r4l16 Arganischen Herren Amtleut, und
+#facs_216_r4l17 vier Städt
+#facs_216_r4l18 Wegen der im Schwang gehenden
+#facs_216_r4l19 Embaucherie, und allfälligen Behändigung
+#facs_216_r4l20 Samuel Studers von Languan.
+#facs_216_r4l21 Schultheis und Rath
+#facs_216_r4l22 Auf gefallenen Bericht, das der zu Turin
+#facs_216_r4l23 angeseßene Samuel Studer von Langnau
+#facs_216_r4l24 vorhabens
+#facs_216_r6l1 '427
+#facs_216_r6l2 vorhabens seye ins Land zu kommen, um
+#facs_216_r6l3 für die alldorten auf Rechnung des Königs
+#facs_216_r6l4 in Sardinien angelegte Tuchbleiche, Zimmern
+#facs_216_r6l5 heute und Drexler, welche Werkzeuge zu
+#facs_216_r6l6 Gleiche und Mänge, auch Städer und Häspel
+#facs_216_r6l7 verfertigen, und vielleicht auch Wäber und
+#facs_216_r6l8 sleicher anzuwerben, haben Wir, da sol¬
+#facs_216_r6l9 ches dem von Uns unterm 4ten Decembr
+#facs_216_r6l10 1781. sanctionirten Embaucheur Mandat
+#facs_216_r6l11 schnurstrakt entgegen lauft, und bey dem
+#facs_216_r6l12 immermehr zunemmenden Verfall der
+#facs_216_r6l13 Fabriken, die Arbeiter am schiklichsten
+#facs_216_r6l14 können aus dem Land gelokt werden,
+#facs_216_r6l15 hüch anmit auftragen wollen, zum besten
+#facs_216_r6l16 der Handlung, genaue Acht, jedoch ins geheim
+#facs_216_r6l17 und mit aller Sorgfalt, auf denselben bestellen
+#facs_216_r6l18 hne betrettenden falls einziehen zu laßen,
+#facs_216_r6l19 und Uns deßen zu berichten, damit Wir
+#facs_216_r6l20 ihne nach Ausweis ersten Artikels obangen
+#facs_216_r6l21 zogenen Mandats, als Falschwerber, nach
+#facs_216_r6l22 Geschaffenheit des Fehlers, zur gebührenden
+#facs_216_r6l23 Straffe ziehen können. Auf die Aufnung
+#facs_216_r6l24 der Manufakturen und Fabriken Unserer
+#facs_216_r6l25 Landen, gleichwie auf die Vernichtung solcher
+#facs_216_r6l26 der Handlung den gänzlichen Verfall dröhenden
+#facs_216_r6l27 Anordnungen
+#facs_217_r1l1 28
+#facs_217_r1l2 Col.
+#facs_217_r3l1 r
+#facs_217_r3l2 Unordnungen und verführerischen Anlobung
+#facs_217_r3l3 gen immerhin sorgfältig bedacht, haben
+#facs_217_r3l4 Wir euch die schärfste Aufmerksamkeit
+#facs_217_r3l5 und Wachsamkeit zu wo möglicher Habhaft¬
+#facs_217_r3l6 machung dieses Embaucheurs anmit an
+#facs_217_r3l7 Datum
+#facs_217_r3l8 empfehlen wollen.
+#facs_217_r3l9 den 11ten - Septembris 1788

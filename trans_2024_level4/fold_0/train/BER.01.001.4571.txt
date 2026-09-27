@@ -1,0 +1,95 @@
+Law nr: BER.01.001.4571
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 84/84
+# High similarity (>=80%): 76
+# Low similarity (<80%): 8
+# Not found: 0
+#
+#facs_100_r2l1 soll.
+#facs_165_r4l1 320
+#facs_23_region_1633454616028_2913l1 An
+#facs_117_r3l2 Alle deutsch und Weltsche Herren Amtleute
+#facs_170_r4l4 und Schaffnern die Obrigkeitlich Getreid
+#facs_170_r4l5 ligt
+#facs_170_r4l6 Getreid Verkauf
+#facs_205_r5l10 Schultheiß Räth und Bürger
+#facs_170_r4l8 Auf den widermahlen an Und ge¬
+#facs_170_r4l9 langten Vortrag von seiten Unser
+#facs_170_r4l10 fürgeliebten Miträhten der Herren
+#facs_229_r3l17 /deutsch /
+#facs_170_r4l12 welksch. Sekelmeister und Venneren
+#facs_170_r4l13 und Unter verordneten Korn Cammer
+#facs_170_r4l14 haben Wir erkennet, das von nun an¬
+#facs_170_r4l15 lie noch übrig bleibende helfte von
+#facs_170_r4l16 allem dinkel, Wächen und Mischel¬
+#facs_170_r4l17 vorn, denne die Helfte der restieren.
+#facs_170_r4l18 den Sommerfruchten, so nach Abzug des
+#facs_170_r4l19 Vorraths und der Ordinari und Quasi
+#facs_170_r4l20 Ordinari Ausgaben von sothanein
+#facs_105_r2l10 Obrigkeitlichen Betren vorschießen
+#facs_170_r4l22 Wird, nach und Nach und also verfil¬
+#facs_170_r4l23 beret werden sollen, das davon noch
+#facs_170_r4l24 biß nach vollendeter Ernd etwas
+#facs_170_r4l25 zu verbaußen übrig bleibe
+#facs_293_r4l16 Alles in dem
+#facs_9_r3l1 31
+#facs_8_r9l1 11
+#facs_171_r3l1 diese zweyte helfte gedeüter Fruchten nach
+#facs_171_r3l2 fer von wohlbemelt unseren fürgelieb¬
+#facs_54_r6l13 dem
+#facs_171_r3l4 ten Mitrahten der Herren weltsch. Sekel¬
+#facs_171_r3l5 meister und Venerein bereits unterm
+#facs_171_r3l6 8ten Aprilis lezthin ertheilten Anwei¬
+#facs_171_r3l7 sung der Schüdten verkaufft, dabey
+#facs_27_r5l16 die gewöhnlichen Präbautionen genommen,
+#facs_171_r3l9 werden, daß solches Betreid nur zu blei¬
+#facs_171_r3l10 nen Käufen versilbert, und da wo Mäckte
+#facs_171_r3l11 und, solche damit vorzüglich gespiesen,
+#facs_171_r3l12 vor allen aus aber das mindest behalt¬
+#facs_171_r3l13 liche Getreid abgestoßen werde.
+#facs_105_r2l25 Welchem nach Ihr Euch zu verhalten
+#facs_171_r3l15 und über das erlösende Uns Rechnung
+#facs_105_r2l27 zu tragen wißen werdet. Datl. den
+#facs_171_r3l17 22th Junius 1785.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_211_r5l12 alle teutsch und welsche Herren Amtleute
+#facs_145_r3l3 Städt, drey Weibel und Amann
+#facs_171_r3l21 Sierbrauercyen
+#facs_194_r4l17 Schultheiss und Rath s.
+#facs_171_r3l23 In Unsere Lande
+#facs_171_r4l1 auch darauf achten
+#facs_171_r5l1 332
+#facs_171_r5l2 mit genugsammen Weinwachs gesegnet sind,
+#facs_171_r5l3 So haben Wir auf vorhergegangenen Un¬
+#facs_171_r5l4 dersuchung hin, nöhtig gefunden, der
+#facs_171_r5l5 einer mehr zunehmenden eigenmach¬
+#facs_171_r5l6 tigen Errichtung von Bierbrauereien
+#facs_171_r5l7 Schrauben zu sehen; in dieser Absicht
+#facs_171_r5l8 dan verordnen Wir, das für dar¬
+#facs_171_r5l9 könfftige keine Bierbrauereyen er¬
+#facs_171_r5l10 richtet, noch gedultet werden sollen,
+#facs_171_r5l11 für die von Uns die Selwilligung
+#facs_171_r5l12 nicht förmlich erhalten worden. Welcher
+#facs_171_r5l13 ihr von der Kanzel verlesen, und
+#facs_171_r5l14 zur Nachricht einschreiben lasen.
+#facs_168_r5l3 werdet.
+#facs_171_r5l16 damit dann hierüber eine Controlle
+#facs_171_r5l17 geführt werden könne, so werdet Ihr
+#facs_171_r5l18 die Nachricht einziehen und an Uns eingen¬
+#facs_171_r5l19 den, ob sich würklich in Eüerem Amt¬
+#facs_140_r3l8 ten
+#facs_171_r5l21 /: Stadt oder Schirk :/ Siebrauereyer
+#facs_171_r5l22 befinden? und allenfahls von
+#facs_171_r5l23 dem solche ereichet, und ob dafür
+#facs_171_r5l24 Contessionen von Uns erhalten worden?
+#facs_171_r5l25 auch wer die iesige Eigenthümer und Be¬
+#facs_171_r5l26 sicher seyen. Datum den 25. Juny 1785.
+#facs_9_r6l1 33
+#facs_187_r2l23 s
+#facs_37_r1l1 66
+#facs_4_r1l1 2

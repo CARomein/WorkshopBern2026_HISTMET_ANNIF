@@ -1,0 +1,42 @@
+Law ID: BER.01.001.4381
+Name: Ihnen anbefehlen auf ein Libell unter dem Titul [...] so wohl als auf den Authoren desselben achten zu lassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 31/31
+# High similarity (>=50%): 30
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_216_r4l1 ̃
+#facs_216_r4l2 An
+#facs_216_r4l3 Die Herren Amtleut zu Lausanne, Vibis, Ifferten,
+#facs_216_r4l4 denne per Jedel an Herren Großweibel
+#facs_216_r4l5 Ihnen anbefehlen auf ein Libell unter dem
+#facs_216_r4l6 Titul Edit de la Republique de Genève du 22. fevrier
+#facs_216_r4l7 1770. avec des Nottes pour servir d'Eclaircissement
+#facs_216_r4l8 an present Edit 1770. so wohl als auf den Anthoren
+#facs_216_r4l9 deßelben achten zu laßen.
+#facs_216_r4l10 Stadthalter und Rahts
+#facs_216_r4l11 Wir sind von der Löbl. Respubli Beruf berich¬
+#facs_216_r4l12 tet worden, was maßen ein Libell ausge¬
+#facs_216_r4l13 breitet worden, unter dem Titel: Edit de la
+#facs_216_r4l14 Republique de Geneve du 22. fevrier 1770. avec des
+#facs_216_r4l15 Nottes, pour servir d'Eclaircissement au présent
+#facs_216_r4l16 edit 1770., deßnahen wegen seines bedenklichen
+#facs_216_r4l17 Inhalts, dise Löbln. Republi bey uns das
+#facs_216_r4l18 Ansuchen gethan, hierüber die nöhtige Nach¬
+#facs_216_r4l19 forschung zu halten; Wir wollen Euch befohlen
+#facs_216_r4l20 haben, in denen /: hiesiger Stadt :/ in Eüerein
+#facs_216_r4l21 Amt :/ sich befindlichen Druckereyen, die genau
+#facs_216_r4l22 ste Nachstuhr zu thun, und trachten zu ver¬
+#facs_216_r4l23 nemmen, wer der Author diestes Libells seye
+#facs_216_r4l24 denne werdet Ihr die allenfahls sich vorfin
+#facs_216_r4l25 dende Exemplaria zu handen ziehen, und
+#facs_216_r4l26 aller disförtigen ferneren Druckung Einhalt
+#facs_217_r3l1 Thun, und nicht zugeben, daß von den
+#facs_217_r3l2 daherigen Exemplarien etwas debitiert oder
+#facs_217_r3l3 distrahiert werde, von dem herauskommenden
+#facs_217_r3l4 dann, werdet Ihr uns den Bericht einsenden
+#facs_217_r3l5 Dath. den 11ten Juny 1770.

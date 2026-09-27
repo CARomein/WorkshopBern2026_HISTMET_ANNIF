@@ -1,0 +1,45 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 37/38
+# High similarity (>=80%): 34
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4449
+#facs_344_r2l4 Auf welche Sontagen die H. Herbst- Communion
+#facs_38_region_1628676039677_26l1 67
+#facs_70_r3l22 habe.
+#facs_3_region_1628102450149_34l_1 An
+#facs_259_r3l2 Alle Teütsche Herren Amtleut und Ählen
+#facs_8_region_1628103600787_12l3 Freyweibel und Amann.
+#facs_344_r2l4 Auf welche Sontagen die H. Herbst- Communion
+#facs_344_r2l5 gehalten werden solle.
+#facs_344_r4l17 Stadthalter und Raht P
+#facs_344_r2l7 von Unserem verordneten Exe Kirchen
+#facs_344_r2l8 Convent ist uns vorgestellt worden, was maß
+#facs_344_r2l9 sich zu getragen, daß in Zeiten da verenen
+#facs_344_r2l10 Tag (wie heurigen Jahrs geschehen wird) auf¬
+#facs_344_r2l11 einen Sontag gefallen, aus ungleichem Begrif¬
+#facs_344_r2l18 der Predigkanten Ordnung, Unseren Willen
+#facs_344_r2l13 Herbst- Communion in einigen Gemeinden Unse¬
+#facs_344_r2l14 rer Teutschen Landen, nicht zu gehöriger Zeit
+#facs_344_r2l15 seye gehalten worden. Damit nun diß
+#facs_344_r2l16 orts aller ungleichheit für das künftige
+#facs_344_r2l17 gesteint werde: So thun wir in Erläuterung
+#facs_344_r2l18 der Predigkanten Ordnung, Unseren Willen
+#facs_344_r2l19 und befelch dahin eröfnen. Daß die Herbst
+#facs_344_r2l20 Communion in samtlichen Unseren Landen
+#facs_344_r2l21 jeden Jahrs unveränderlich auf den lezten
+#facs_344_r2l22 Sontag im Augstmonat, und den Ersten
+#facs_344_r2l23 Sontag im Herbstmonat fest gesezt, und für
+#facs_344_r2l24 lich begangen werden solle; welches ohne
+#facs_344_r2l25 gestellt denen Pfarreren Euers Amts Zuch
+#facs_337_r4l1 Colle.
+#facs_56_region_1629372576458_194l11 digung
+#facs_38_region_1628676039677_26l1 67
+#facs_344_r4l2 gebührender Befolgung und einschreibung kund zu
+#facs_344_r4l3 machen, und auch Euerseits in dem Schloß Manda
+#facs_344_r4l4 ten durch nachrichtlich einschreiben zu laßen ihr
+#facs_344_r4l5 zu veranstalten bestens wüßen, und anmit
+#facs_344_r4l6 befelchnet werdet. Dat. den 22ten July 1776.
+#facs_24_region_1628255397587_277l11 en

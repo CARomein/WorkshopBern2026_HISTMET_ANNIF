@@ -1,0 +1,33 @@
+BER.01.001.2564
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 24/24
+# High similarity (>=50%): 22
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_55_r4l13 Anzley Bärn
+#facs_55_r4l14 An alle St. vnd W. Ambtl. 4. Stätt.
+#facs_55_r4l15 Freyweibel und Ammann
+#facs_55_r4l16 Das Verboef deßen Waßerbrönnens erfrischen.
+#facs_55_r4l17 Statthalter und Raht der Statt Härn
+#facs_55_r4l18 In Erfrischung unsers vor Ettlichen Jahren wider das Landschädliche Und
+#facs_55_r4l19 Verderbliche Waßerbrännen außgangenen Verpotts, wollend wir allen
+#facs_55_r4l20 und jeden unseren Vnderthanen hiemit Oberkeitlich gebotten haben,
+#facs_55_r4l21 alles apfel, und biren schnitz, sonderlich auch des Kirschen Waßerbrön¬
+#facs_55_r4l22 nens und Verkauffens sich gäntzlich zumüßigen, als dardurch nit nur
+#facs_55_r4l23 Die Frücht vertheüret, sondern die Leicht angestekt vnd verderbt
+#facs_55_r4l24 werden
+#facs_56_r2l1 werden; damit mann aber gleichwolen andere Waßer als artzneyen
+#facs_56_r2l2 zufinden wüsse, wollend wir das Schwartz Kirchenwaßer allein zu
+#facs_56_r2l3 gelaßen und verwilliget haben, mit der mäßigung jedoch, daß außer
+#facs_56_r2l4 den Jahrmärkten solches auf kästen oder Ständen weder zu Statt
+#facs_56_r2l5 noch Land offentlich feil gehalten, und dardurch die Lüuht zum
+#facs_56_r2l6 kauffen angereitzet, sondern allein in der Brönneren Häüßeren
+#facs_56_r2l7 verkaufft vnd abgeholt werde; alles bey Verwürkung der Waßeren
+#facs_56_r2l8 vnd anderer Oberkeitlichen Straaff, von den Übertretteren
+#facs_56_r2l9 ohne nachsehen zu beziehen. Deßen berichtend wir dich mit dem
+#facs_56_r2l10 Befelch, solches seines ohrts von Canzlen verkunden, und dir samt
+#facs_56_r2l11 Seinen vnder Ambthüchten deßen Beobachtung bey Eiden an¬
+#facs_56_r2l12 gelegen sein Zelaßen. Dat. 18 Junii 1694.

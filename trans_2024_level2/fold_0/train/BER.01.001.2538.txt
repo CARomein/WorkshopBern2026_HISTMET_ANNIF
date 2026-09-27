@@ -1,0 +1,195 @@
+BER.01.001.2538
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 186/186
+# High similarity (>=50%): 162
+# Low similarity (<50%): 24
+# Not found: 0
+#
+#facs_26_r4l16 Neüwer getreit Tax Im
+#facs_26_r4l17 ollate
+#facs_26_r4l18 Deutschen Land
+#facs_26_r4l19 Kernen oder Weilzen das Mo¬
+#facs_26_r4l20 Bärn Mäs
+#facs_26_r4l21 Burgdorffmal
+#facs_26_r4l22 22 x 2 x
+#facs_26_r4l23 21 b
+#facs_26_r4l24 Erlacher Mäs
+#facs_26_r4l25 22 x
+#facs_26_r4l26 Hoffinger Mäs
+#facs_26_r4l27 20. bj. 2. X
+#facs_26_r4l28 Solothurner Mäs
+#facs_26_r4l29 20. th. 3. Xr.
+#facs_26_r4l30 Chimmäs.
+#facs_26_r4l31 24. b.
+#facs_27_r1l1 44
+#facs_27_r1l2 Kernen
+#facs_27_r1l3 ar
+#facs_27_r1l4 Weilzen
+#facs_27_r1l5 Roggen
+#facs_27_r1l6 Gärsten
+#facs_27_r1l7 In Fäsen
+#facs_27_r3l1 Langnauw und Huttwylmäs
+#facs_27_r3l2 Arauwer Vierthel
+#facs_27_r3l3 Lentzburger Vierthel
+#facs_27_r3l4 Brugger Vierthel
+#facs_27_r3l5 Bärn Mäs.
+#facs_27_r3l6 Burgdorffmäs
+#facs_27_r3l7 Erlacher Mäs
+#facs_27_r3l8 Hoffinger Mäs.
+#facs_27_r3l9 Solothurner Mäs
+#facs_27_r3l10 Thun Mäs
+#facs_27_r3l11 Langnauw und Huttwyl Mäs
+#facs_27_r3l12 Arauwer Vierthel
+#facs_27_r3l13 Lentzburger Vierthel
+#facs_27_r3l14 Brugger Vierthel
+#facs_27_r3l15 Bärn Mär
+#facs_27_r3l16 Burgdorffmas
+#facs_27_r3l17 Erlach Mas
+#facs_27_r3l18 Hoffinger Mas
+#facs_27_r3l19 Solothurner Mäs
+#facs_27_r3l20 thunmäs.
+#facs_27_r3l21 Langnauw und Guttwylmäs
+#facs_27_r3l22 Arauwer Vierthel
+#facs_27_r3l23 Lentzburger Vierthel
+#facs_27_r3l24 Brugger Vierthel
+#facs_27_r4l1 23
+#facs_27_r4l2 Fol. 2. X
+#facs_27_r4l3 36. b. 2 x
+#facs_27_r4l4 35. à 1.
+#facs_27_r4l5 X
+#facs_27_r4l6 34. b. 1. X
+#facs_27_r4l7 17 bj.
+#facs_27_r4l8 16
+#facs_27_r4l9 x
+#facs_27_r4l10 1. X
+#facs_27_r4l11 16
+#facs_27_r4l12 bij
+#facs_27_r4l13 2f
+#facs_27_r4l14 15.
+#facs_27_r4l15 x
+#facs_27_r4l16 15
+#facs_27_r4l17 bl. 1. x
+#facs_27_r4l18 18
+#facs_27_r4l19 b. 2. x.
+#facs_27_r4l20 e
+#facs_27_r4l21 18
+#facs_27_r4l22 26
+#facs_27_r4l23 x
+#facs_27_r4l24 25
+#facs_27_r4l25 b
+#facs_27_r4l26 24.1
+#facs_27_r4l27 14. b
+#facs_27_r4l28 13. bj
+#facs_27_r4l29 c
+#facs_27_r4l30 13. b. 3 x
+#facs_27_r4l31 13
+#facs_27_r4l32 br
+#facs_27_r4l33 13 x
+#facs_27_r4l34 1 X
+#facs_27_r4l35 15
+#facs_27_r4l36 x
+#facs_27_r4l37 14
+#facs_27_r4l38 Fol. 2. x
+#facs_27_r4l39 22
+#facs_27_r4l40 21
+#facs_27_r4l41 b. 2. x.
+#facs_27_r4l42 21 x
+#facs_27_r6l1 45
+#facs_27_r6l2 Sie besten Weißen Wili puren Wiki, und schöne saubere Koch-Arbs
+#facs_27_r6l3 aller ohrten wie der Kernen.
+#facs_27_r6l4 Die Minderen und Schlechteren Witi und Ärbs aber das
+#facs_27_r6l5 Bärnmäs von - 18. biß in 20. bj
+#facs_27_r6l6 Burgdorffmäs von 17. biß in 19. k.
+#facs_27_r6l7 Erlagmäs von 18. biß in 20. bz.
+#facs_27_r6l8 Zoffingen und Solothurner Mas von 16 1/2 biß in 18½ b.
+#facs_27_r6l9 Thunmäs von 20. biß in 22. b.
+#facs_27_r6l10 Langnauw und Guttwyl Mas — von 19. biß in 21. b.
+#facs_27_r6l11 Arauwer Vierthel von 29 bis in 32. x
+#facs_27_r6l12 Lentzburger Vierthel von 28. biß in 31. b.
+#facs_27_r6l13 Brugg Vierthel - von 27. biß in 30. xxx
+#facs_27_r6l14 Im Fahl aber eine zimbliche quantitet Haber unter den Schlechteren
+#facs_27_r6l15 Wiki und Ärbs wären, sollen sie nach dem Wehrt der Waar geschetzt werden.
+#facs_27_r6l16 Das Habermähl soll auffem Märit durchwegs verkaufft werden, wie
+#facs_27_r6l17 Der Roggen, jedoch anderst nicht als zu finelen weiß.
+#facs_27_r6l18 Das Mühligut aber vnd Michelkorn, so vermischt gewachsen, soll weder
+#facs_27_r6l19 Verkaufft noch außgebüchen werden, es seye dann geschetzt worden nach
+#facs_27_r6l20 Dem Wehrt deß darinn sich befindenden Getreits; Im übrigen soll
+#facs_27_r6l21 alle Vermischung des Getreits zum Verkauff verbotten sein,
+#facs_27_r6l22 bey von der Confiscation
+#facs_27_r6l23 Bärmäß.
+#facs_27_r6l24 bt
+#facs_27_r6l25 7
+#facs_27_r6l26 Burgdorffmäß
+#facs_27_r6l27 6
+#facs_27_r6l28 bls 3. x
+#facs_27_r6l29 Erlacher Mäß
+#facs_27_r6l30 ble
+#facs_27_r6l31 6
+#facs_27_r6l32 Hoffinger Mäs¬
+#facs_27_r6l33 ble
+#facs_27_r6l34 2.x
+#facs_27_r6l35 Solothurner Mäß
+#facs_27_r6l36 ble
+#facs_27_r6l37 6.
+#facs_27_r6l38 3.x
+#facs_27_r6l39 Chim Mäß
+#facs_27_r6l40 7
+#facs_27_r6l41 bl
+#facs_27_r6l42 2.x
+#facs_27_r6l43 Langnam vnd Hutweyl Mäß¬
+#facs_27_r6l44 7. bl.
+#facs_27_r6l45 l.x.
+#facs_27_r6l46 Brammer Viertel
+#facs_27_r6l47 -
+#facs_27_r6l48 10.
+#facs_27_r6l49 bl
+#facs_27_r6l50 2.0
+#facs_27_r6l51 Heutn burger viertel
+#facs_27_r6l52 11.
+#facs_27_r6l53 be
+#facs_27_r6l54 Brugger vierte
+#facs_27_r6l55 10 th
+#facs_28_r3l1 Van Alle T. und W. Ambtleüt
+#facs_28_r3l2 da Räben sindt Item An 4. Cantzel alhier
+#facs_28_r3l3 1. Die Verüßerung deßeüwen Weins Vorbieten
+#facs_28_r3l4 2. Vndt den Tax auff Martin, Vertrösten
+#facs_28_r3l5 3. Die Vermischung deß Neüwen Weins mit dem Alten verpieten¬
+#facs_28_r3l6 Schultheiß Räst und Burger etc.
+#facs_28_r3l7 Gleichwie ein weisen Hauß vatter für sich vndt die seinigen
+#facs_28_r3l8 Immerdar die Erstere Vorsorg Obliget die nohtwendigkeit
+#facs_28_r3l9 beizuschaffen; Also findend wir bey gegenwertigen Extra
+#facs_28_r3l10 ordinarii Zeiten gleichwie des getreits halben bereits auch
+#facs_28_r3l11 beschehen, von Vnsers oberkeitlich tragenden Ambts wegen
+#facs_28_r3l12 Daß auch verpflichtet für Unß undt die Vnseren ein
+#facs_28_r3l13 gleiches Zetzun; gestalten bey schlechtem Wein wimmet,
+#facs_28_r3l14 Da sonsten der mangel zu befahren, Wir Unß benöh¬
+#facs_28_r3l15 Eiget befunden die Vereußerung des neülven Weins
+#facs_28_r3l16 Wert Vnsere vollmäßigkeit zu verhinderen: Maßen
+#facs_28_r3l17 Demnach bey confiscation deselben mänigklichen Bürgeren
+#facs_28_r3l18 und Vnterthanen von dißhin Hiß auff nächst künfftigen Herbst
+#facs_28_r3l19 gentzlich abgestrekt vndt verbollen sein soll einichen neuen
+#facs_28_r3l20 Mein vßert vnsere vollmäßigkeit weder Zeterkauffe
+#facs_28_r3l21 noch zu verführen, denselben auch nit mit dem alten
+#facs_28_r4l1 47
+#facs_28_r4l2 Zuvermischen, da daß schlage oder taxes halben deß neulot
+#facs_28_r4l3 Weins wir denselben Zemachen biß nächstkünffigen Marti¬
+#facs_28_r4l4 1, da man die ertragenheit deß herbsts loußen mag ver¬
+#facs_28_r4l5 hoben, dir aber gleich übrigen Vnseren Ambtleüten da¬
+#facs_28_r4l6 Raben sind, hiemit befohlen haben wollend, alsobald nach
+#facs_28_r4l7 Verrichtem Herbst mit Zuzühung deiner Vnder Ambtleuten
+#facs_28_r4l8 Zuübersitzen, wie vill wein es außgeben, Undt wie hoch der
+#facs_28_r4l9 Verkauff deselben in Billigkeit gegründet zesam Vermeint
+#facs_28_r4l10 werde, das befinden vor Martini vnß schrifftlich Zuüber¬
+#facs_28_r4l11 schiten, umb den zumahlen den tax zubestimmen, biß dahin
+#facs_28_r4l12 aber es bey dem alten Tax ein gentzliches Verbleiben
+#facs_28_r4l13 haben soll. Doch wollen wir Vnder diem Verbott den
+#facs_28_r4l14 Wien so ißere undt benachbahrte auff ihren Räben einge¬
+#facs_28_r4l15 Lerbstet haben werden, mit der standen, Sondern so sehr
+#facs_28_r4l16 ein mehrers nit hinzugetaufft wirdt, deßen abfuhr
+#facs_28_r4l17 in Begleit eines Schims zugelaßen haben. Welches
+#facs_28_r4l18 Verbott sindt ordnung nun die alsobald zu mänigklichs
+#facs_28_r4l19 nachricht von Cantzlen verbunden laßen, Undt deines Theils
+#facs_28_r4l20 geflißenlich darob halten solst. Gott mit Dir! Datum
+#facs_28_r4l21 28 Septembris 1693

@@ -1,0 +1,35 @@
+Law nr: BER.01.001.0064
+Name: Straff der einspennigen Knechten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_479
+# Matched: 24/24
+# High similarity (>=50%): 24
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_192_r1l1 Straff x lb
+#facs_192_r1l2 vnd 5 tap a
+#facs_192_r1l3 seyung infra
+#facs_192_r1l4 2619
+#facs_192_r2l1 Straff der einspening knecht
+#facs_192_r2l2 Schulthes Rhät und burger zu Bern &
+#facs_192_r2l3 Alls dan etlich der unsern sich Ingelaßen freunden
+#facs_192_r2l4 frömbden fürsten vnd herren vnsern Vßgangne
+#facs_192_r2l5 mandaten der Reisglöuffen halb, kriegischen
+#facs_192_r2l6 wys vmb sold zedienen, zewider, zaben
+#facs_192_r2l7 wir angestächen, damit söliche gespüre mögnen
+#facs_192_r2l8 Das vnns Ir ungehorsame miszuellig
+#facs_192_r2l9 Derohalb einen genemen durchgang Zethund
+#facs_192_r2l10 vnd dero Jeden In was zug er Joch gwäsen
+#facs_192_r2l11 Zachen pfund pfeingen darzu fünff tag
+#facs_192_r2l12 vnd sonn nächt In gfengcknus zuenthalten
+#facs_192_r2l13 zu straff vffgelegt, welliche du an Jeden
+#facs_192_r2l14 Vberträttenden Diner Amptsuer waltung
+#facs_192_r2l15 erstatten solt Allso das welliche Das
+#facs_192_r2l16 gelt vermögend du stöllichs von Inen
+#facs_192_r2l17 bezuchest vnd die Ihringen so dem int stathafft
+#facs_192_r2l18 mit gfangenschafft Jedes Tags vnnd nacht
+#facs_192_r2l19 ein pfum abverdienen lassest, dat 29ten
+#facs_192_r2l20 Gemmers 1554

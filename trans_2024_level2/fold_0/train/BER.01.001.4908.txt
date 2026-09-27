@@ -1,0 +1,104 @@
+Law ID: BER.01.001.4908
+Name: Frömbder und heimscher Landtstrycheren und Bättleren wegen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 93/93
+# High similarity (>=50%): 84
+# Low similarity (<50%): 9
+# Not found: 0
+#
+#facs_344_r2l17 Thun Burgdorff, vnderseeiren,
+#facs_344_r2l18 den 10en
+#facs_344_r2l19 Interlack. Fruttingl. Ober- vnd Nidsibenthal
+#facs_344_r2l20 den 11
+#facs_344_r2l21 Trachselwald, Signorin, Brandes
+#facs_344_r2l22 den 12
+#facs_344_r2l23 Büren, Arberg, Erlag,
+#facs_344_r2l24 Den 13
+#facs_344_r2l25 St. Johannes, Nijdour, Landtshutt
+#facs_344_r2l26 den 14
+#facs_344_r2l27 Wangl. Arwangl. Wipp
+#facs_344_r2l28 Den 16
+#facs_344_r2l29 Arburg Leutzburg, Viberstein
+#facs_344_r2l30 den 17 x
+#facs_344_r2l31 Schenckenberg, Kungsfeld
+#facs_344_r2l32 Den 28
+#facs_344_r2l33 Hoffingl. Ulren. Saanen
+#facs_344_r2l34 den 9
+#facs_344_r2l35 Louppl. Freundsperg, Gottstatt
+#facs_344_r2l36 Den 20.
+#facs_344_r2l37 Thorberg Frauenbrunnen Buchser,
+#facs_344_r4l1 cunst
+#facs_344_r4l2 Ao. T. vier W. A. t. Spnt Frijw:
+#facs_344_r4l3 Oud annäs Serenwald Schwartzenburg
+#facs_344_r4l4 Frömbder und heunsch fandesterich
+#facs_344_r4l5 am Battlern ihrig
+#facs_344_r4l6 -
+#facs_344_r4l7 Ses. Vns kompt verclagendt nur und tragende och mit
+#facs_344_r4l8 klein bekennen, das sindt der zydt wir das gemeine Schallener
+#facs_344_r4l9 ob den ersachen zugestelt, das frembde vnd heimbs
+#facs_344_r4l10 antstrychene Salzwerk mit schwaal ihr Land¬
+#facs_344_r4l11 lagh, und Umbemanden, geregstt sollende und
+#facs_344_r4l12 den Buchen zu Salz vnd Landt gantz Überla, tis
+#facs_344_r4l13 vnd beschärlich sindt, Demmin by zyttenn
+#facs_344_r4l14 Zulegenen und sollich münsiggängig, gerk undt
+#facs_344_r4l15 utwillig Bössel Volck verzennußen an die
+#facs_344_r4l16 licombd diensttigh In vr hiemett geschaffen,
+#facs_344_r4l17 Haben wir nochwendig angesetzen, das ist Montag
+#facs_344_r4l18 den x. Thaas Bruchmonats. Ein algemeine Landt
+#facs_344_r4l19 Jeg zu Tats vnd Landt gehalten werden solle,
+#facs_344_r4l20 und befelchs das hiemitt, wie allen andern Unser
+#facs_344_r4l21 Amptent etc. bey und mit denen amptsangehörigen
+#facs_344_r4l22 ffs geheimst müglich die für echung und anord¬
+#facs_344_r4l23 nung zuthun vnd geben, das vff anzognen thag
+#facs_344_r4l24 solche angesiehne giene Landtjegl. sie hievon
+#facs_344_r4l25 nur beschehl. durch darzuordnete Augenliche
+#facs_344_r4l26 Ernstige personen, der gepurnach hochstellt vndt
+#facs_344_r4l27 den eilen mit anderen Yffer vnd Ernst vfferlegt
+#facs_344_r4l28 werden da die starck etc. rombden vnd hernachhärger
+#facs_344_r4l29 nigh landt4 rijchenten Bocherr hridt higners
+#facs_344_r4l30 and ander gesindt lang und alt man und seybs¬
+#facs_344_r4l31 personen zu stellen dieselben handthafftl. Undt
+#facs_344_r4l32 die offencklich zuzubringen damit hy vmb ir
+#facs_344_r4l33 raen handel und Handell auch härkommen mit
+#facs_344_r4l34 vorl. und, wyns euch nott. huijs beduncktje
+#facs_344_r4l35 mit Wartt befragtt und gerechtfertigelt
+#facs_344_r4l36 (wir Irer Egistl. (wo es zy werdt) verstendiget
+#facs_344_r4l37 Mudetas
+#facs_345_r3l1 sind ein ratis Vereindt, y zwem Tagen nam zu stra¬
+#facs_345_r3l2 mit dem Eydt, uit s betrönkung leibs vnd labenb. hat sich
+#facs_345_r3l3 hij ich wenn aus Landt lag wurdeindt zu Xiechst
+#facs_345_r3l4 was ab vnurgereing and arm prasthafft fromb’s and
+#facs_345_r3l5 Heinrich Bât Gerolck.
+#facs_345_r3l6 in  to semble
+#facs_345_r3l7 wirth sollendt dary dich oe
+#facs_345_r3l8 die hordneth von dem Landt die heimischen zu erkennen
+#facs_345_r3l9 vnd bilden päle daselbst zu verblijben, bey lieb straff, gewe¬
+#facs_345_r3l10 werdendt wie vormalige unsere Ordnung
+#facs_345_r3l11 a
+#facs_345_r3l12 anders umögendt. Denen auch mit Vost
+#facs_345_r3l13 1.
+#facs_345_r3l14 undt
+#facs_345_r3l15 recht gehorsame nachglübt, werden soll
+#facs_345_r3l16 Daniel ab sollen krank landt vergisend Volsch.
+#facs_345_r3l17 därgen behalt, ein wey gewustett werde Befelch
+#facs_345_r3l18 wir dir bey den paest Brugghen scharen, auch
+#facs_345_r3l19 nies Onderamp flut, ved angehörig, um
+#facs_345_r3l20 solliches ernstiges insehen ein die Sordnung,
+#facs_345_r3l21 zuschafft, das sy mit mehr herr gelasen
+#facs_345_r3l22 noch aber die Man gefurtz, sonders zurück¬
+#facs_345_r3l23 In Ir Heimeth gewisen und wendig gemacht
+#facs_345_r3l24 vereindt, und darüber der frömbren Landtstrych, Im¬
+#facs_345_r3l25 Landt blijbx oder sich ins Landtlassen wird da verblijten
+#facs_345_r3l26 woltendt, sollt du zu denselben gerufhen, sey öffentlich
+#facs_345_r3l27 lich inzirche, und wie obluts mit zuen handlen
+#facs_345_r3l28 last, und hierinnen den rechten Amst Erzeigen
+#facs_345_r3l29 Die LandtJegen haben wir vnsere Eydegnogl.
+#facs_345_r3l30 der 3. Stett, Eueers Fryburg von Solo, um
+#facs_345_r3l31 berichtet, ob y eilichft sind zwey ein glückes
+#facs_345_r3l32 zu ihren gesinett frey wollint, Synemundt
+#facs_345_r3l33 aber die zur od'intz werdendt, doch die Vnsern
+#facs_345_r3l34 den demselle, wenen den ist Unser willen
+#facs_345_r3l35 a tum 29 May 1621.

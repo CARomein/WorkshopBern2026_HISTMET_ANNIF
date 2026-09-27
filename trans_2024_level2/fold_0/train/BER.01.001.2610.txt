@@ -1,0 +1,136 @@
+BER.01.001.2610
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 127/127
+# High similarity (>=50%): 121
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_108_r4l14 Lausanne auf den
+#facs_108_r4l15 Auanche
+#facs_108_r4l16 30. Marty 1696.
+#facs_108_r4l17 Payerne
+#facs_108_r4l18 31. Marly.
+#facs_108_r4l19 1. Aprilis
+#facs_108_r4l20 Mendor.
+#facs_108_r4l21 2: Aprilis
+#facs_108_r4l22 Oron
+#facs_108_r4l23 3. Aprilis
+#facs_108_r4l24 Chillion et Ville Neufue
+#facs_108_r4l25 6. Aprilis
+#facs_108_r4l26 Morges
+#facs_108_r4l27 7. Aprilis
+#facs_108_r4l28 Nyon
+#facs_108_r4l29 .
+#facs_108_r4l30 8. Aprilis
+#facs_108_r4l31 Bomont.
+#facs_108_r4l32 10 Aprilis
+#facs_108_r4l33 Romainmostier
+#facs_108_r4l34 11. Aprilis
+#facs_108_r4l35 Yverdun
+#facs_108_r4l36 16. Aprilis
+#facs_109_r2l1 An alle L. und k. v. Ambtleut
+#facs_109_r2l2 da getreidt ist. Item an alle
+#facs_109_r2l3 Kornhäuser diser Statt.
+#facs_109_r2l4 Die Sommerfruchte über den Vorrahte
+#facs_109_r2l5 aus zu verkaufen, oder der¬
+#facs_109_r2l6 en
+#facs_109_r2l7 auf Option außzalichen
+#facs_109_r2l8 .
+#facs_109_r2l9 h
+#facs_109_r2l10 Schultheiß Räht und Burger der Statt Bern¬
+#facs_109_r2l11 Bey Gott sey dank, abermahls angewunkter
+#facs_109_r2l12 Grühlins Zeit, da der Ackersman zu veld
+#facs_109_r2l13 gehen wirt, habendt über vorgefallene Errinne¬
+#facs_109_r2l14 rungen Wir vns entschlossen, unseren und erthanen
+#facs_109_r2l15 mit Sauer Saam, Früchten verholfen zu sein;
+#facs_109_r2l16 Vndt zu solchem undt all Unser Sommerfrücht, so
+#facs_109_r2l17 über den bebandten Jedem Ambt auferlegten
+#facs_109_r2l18 vorrecht aus würcklich vorhanden sein mochten,
+#facs_109_r2l19 abstossen und versilberen Zulassen An denen
+#facs_109_r2l20 geten aber, da der vorricht an diesen Fruchten
+#facs_109_r2l21 mit beysamen wäre, dennoch den begehrenden
+#facs_109_r2l22 an die Handt zugehen, undt zwar auf Unsere
+#facs_109_r2l23 Wohl, dasselbe noch der Erndt entweder in natura,
+#facs_109_r2l24 oder in gelt zu ersetzen: Welchen Unseren endtschluß
+#facs_109_r2l25 Wir dir, gleich allen übrigen Unseren Teütschen und be¬
+#facs_109_r2l26 staltschen Ambtleüten, überschriben wollen, mit
+#facs_109_r2l27 den befelch deiner Theils dich darnach zurichten
+#facs_109_r5l1 206.
+#facs_109_r5l2 Undt diesem Vnserem Willen nach Zuhandlen Gott mit der
+#facs_109_r5l3 Bate 19. Febr. 1696.
+#facs_109_r5l4 An alle T: Ambtleüt, 4. Stätt.
+#facs_109_r5l5 Greiffteibel und Ammin.
+#facs_109_r5l6 Ob Teüffer sich hinder Ihnen aufhaltindt.
+#facs_109_r5l7 Es ist, oder Unser Teuffer Cammer, ist noch kein Bericht
+#facs_109_r5l8 von Vnseren Amtleüten einkommen, wie er daß
+#facs_109_r5l9 Teüffarthumbs halb in jedem Ambt bewandt seye! Da
+#facs_109_r5l10 doch vermuhtet wirt, daß Viler ohrten deren anzutreffen
+#facs_109_r5l11 seyen: Derowegen wir dir hiemit befelehendt, dessen
+#facs_109_r5l12 hinder dir dich exacté zu erbundigen, undt der Cammer
+#facs_109_r5l13 den Bericht Zaüberschriben #
+#facs_109_r5l14 An die Ambtleut da die Huldigung auf¬
+#facs_109_r5l15 genommen worden allein. Als Verte
+#facs_109_r5l16 Wie jeglichem auch, ob noch einiche seren, welche in
+#facs_109_r5l17 Jüngster Huldigung, es seyen wegen Ihrer Abwesenheiten
+#facs_109_r5l18 oder kranckheit mit gehuldiget habindt; damit selbige
+#facs_109_r5l19 innoch zu Ihrer pflicht gehalten werden könndt.
+#facs_109_r5l20 Dessen wir von Dir Vnföhlbahr gewärtig sein wollen,
+#facs_109_r5l21 Gott mit Dir. Dat. 19. febr. 1696
+#facs_110_r4l1 Housstatte
+#facs_110_r4l2 Münsigen
+#facs_110_r4l3 Brandis.
+#facs_110_r4l4 Signault.
+#facs_110_r4l5 Thun
+#facs_110_r4l6 Oberhoffen
+#facs_110_r4l7 Erochselwalt.
+#facs_110_r4l8 Thorberg.
+#facs_110_r4l9 Burgdorf.
+#facs_110_r4l10 Landtshuet.
+#facs_110_r4l11 Arburg.
+#facs_110_r4l12 Arans
+#facs_110_r4l13 Lantzburg undt
+#facs_110_r4l14 Schwartzenburg.
+#facs_110_r4l15 An alle W. Ambtleut Item
+#facs_110_r4l16 Echerlitz, Murten, Grandsen, Bomont,
+#facs_110_r4l17 Arralo undt Thun
+#facs_110_r4l18 Die eine Refugierte sich noch hinter Ihnen
+#facs_110_r4l19 aufhalten.
+#facs_110_r4l20 Chrittheiß undt Raht der Statt Bern,
+#facs_110_r4l21 Auß will zubrüssen von nöhten sein, wie viel
+#facs_110_r4l22 das daß für französische Flüchtling sich noch in
+#facs_110_r6l1 Vnseren Landen aufhaltindt; Gestalten Wir dir (gleich
+#facs_110_r6l2 208
+#facs_110_r6l3 gegen vnderschidenlichen anderen Ambtleuten auch
+#facs_110_r6l4 -
+#facs_110_r6l5 beschicht) hiemit befohlen haben wollendt, fürderlichst
+#facs_110_r6l6 undt ungesäumt Unß eine Specification zu über schicken
+#facs_110_r6l7 wie viel von disen Refugierten sich noch in die
+#facs_110_r6l8 Ambt aufhaltindt, mit beysetzung einer Indessen
+#facs_110_r6l9 Namen
+#facs_110_r6l10 alter undt geburtsstatt; Item welche
+#facs_110_r6l11 vnder Ihnen von sich selbsten Subsistierindt, oder aber
+#facs_110_r6l12 von der Oberbeitlichen Assistanz lebindt. Wie zu thun
+#facs_110_r6l13 wüssen wirst, undt Wir Unß versehen haben wollendt.
+#facs_110_r6l14 Patr 24 Februarij 1696.
+#facs_110_r6l15 Un alle T. Ambtleut
+#facs_110_r6l16 und Schaffner.
+#facs_110_r6l17 Gesansetzung zu ablaag Ihren
+#facs_110_r6l18 Ambts Rechnungen.
+#facs_110_r6l19 Statthalter und Raht der Statt Bern
+#facs_110_r6l20 Wir habens zu ablag deiner heürigen Jahre vorfol¬
+#facs_110_r6l21 men Ambtsrechnung Tag bestimbt etc. etc. mit dem
+#facs_110_r6l22 Befalch deine Rechnung bis dahin also fertig zuhalten,
+#facs_110_r6l23 daß auf obbestimbten Tag selbige ohne fahlen ablegen
+#facs_111_r2l1 bemest, derselben aber auch die Gußen Zinß und
+#facs_111_r2l2 Zehntrödel alles noch Oberkeitlicher Ordnung
+#facs_111_r2l3 wohl specificiert, sambt einer Verzeichnuß daß
+#facs_111_r2l4 verhandenen Oberweitlichen Getreidts, mit
+#facs_111_r2l5 beygesetzter Beschaffenheit desselben beyfüngest,
+#facs_111_r2l6 und solche Rechnung wenigstens zwey Tag zuvor
+#facs_111_r2l7 Vnseren Fürgeliebten Miträhten Teutsch
+#facs_111_r2l8 und veueren, wie auch in der Seobelschreiberey
+#facs_111_r2l9 Communicie Rest, wan aber der angeregte Tag
+#facs_111_r2l10 auf den Capituls Tag fallen wurde, Unß dessen
+#facs_111_r2l11 bey Zeiten Berichtest. Bekl. 29 Februarii 1696

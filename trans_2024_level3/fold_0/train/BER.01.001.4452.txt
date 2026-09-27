@@ -1,0 +1,30 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 23/23
+# High similarity (>=80%): 22
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_13_region_1629822975545_206l_5 Wegen einem wieder das Franz. Ministerium uns die
+#facs_3_region_1629374296225_399l1 An
+#facs_13_region_1629822975545_206l_2 Die Herren Amtleut im Weltschen Land, wo druber
+#facs_9_region_1629822406380_88l_2 Coll
+#facs_13_region_1629822975545_206l_4 reyen sich befinden.
+#facs_13_region_1629822975545_206l_5 Wegen einem wieder das Franz. Ministerium uns die
+#facs_13_region_1629822975545_206l_6 Franzl. Academie in Druk ausgebenden Impress:
+#facs_13_region_1629822937500_191l_1 23.
+#facs_3_region_1629374317285_405l3 Schultheiß und Raht etc.
+#facs_13_region_1629822982485_209l_2 Unter dem Titul Lettre de Mons Linguet a Monsr. le
+#facs_13_region_1629822982485_209l_3 Comte de Vergennes, ist ein Impressum in Druk ausge¬
+#facs_13_region_1629822982485_209l_4 gangen, darinnen sowohl wieder das französische
+#facs_13_region_1629822982485_209l_5 Ministerium als die Französische Academie und auch
+#facs_13_region_1629822982485_209l_6 das Parlement die gröbsten Schmähungen ent¬
+#facs_13_region_1629822982485_209l_7 halten sind; derohalben befehlen Wir Eüch, in
+#facs_13_region_1629822982485_209l_8 Euerem Amt darwieder das behörige Einsehen
+#facs_13_region_1629822982485_209l_9 zu thun, und zu dem End denen Buchdruheren
+#facs_13_region_1629822982485_209l_10 Buchhändleren, und allen denen die es betreffen¬
+#facs_13_region_1629822982485_209l_11 mag, den Verbrauch und Verkauff dieses Impressi¬
+#facs_13_region_1629822982485_209l_12 bey Unserer Ungnad alles Ernsts zu verbieten.
+#facs_13_region_1629822982485_209l_13 Wie demenach geschehen werde a Datl. den
+#facs_13_region_1629822982485_209l_14 19th Juny 1777

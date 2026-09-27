@@ -1,0 +1,50 @@
+Law ID: BER.01.001.1207
+Name: Wegen fryburgischen Soldaten Durchzug.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 39/39
+# High similarity (>=50%): 38
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_338_r3l27 5
+#facs_338_r3l28 Burgdorff, Siquouw Trachselwaldt
+#facs_338_r3l29 Wegl. Fryburgischl. Soldath Durchchug.
+#facs_338_r3l30 Schuldtheiß und Rhatt etc.
+#facs_338_r3l31 6/6. Von vnseren G. L. Z. der Statt Freyburg, werden
+#facs_338_r3l32 wir berichtet, wie daß sy vff anhalten vnd begeren
+#facs_338_r3l33 In Kön: Met In Hispania zu dero Diensten
+#facs_339_r1l1 ein gewüße Anhal volcks bewilliget, welches
+#facs_339_r1l2 vff nechst künfftigen Montag v lb brechen
+#facs_339_r1l3 vnd sich zu gedachter Ir kön: No. bewahrung
+#facs_339_r1l4 In das Hertzoathumb Meylandt begeben solle
+#facs_339_r1l5 Sind derhalben von ihnen durch schryben
+#facs_339_r1l6 ersucht worden, demselben Irem durchzeuchen
+#facs_339_r1l7 Volck nit allein den feyen Paß zugestatten
+#facs_339_r1l8 sondern auch gegen den Vnsern anordnung
+#facs_339_r1l9 Zethun, das dieselben gegen billicher bezalu
+#facs_339_r1l10 mit nottwendiger Joris vndt nahrung
+#facs_339_r1l11 Ihm durchzug sehen werdint, daß Ver¬
+#facs_339_r1l12 sicherens, Die Haupt- vndt brüelichs leuth Ir
+#facs_339_r1l13 vndergebne soldaten dergstalten In guter
+#facs_339_r1l14 disciplin halten, das den Vnseren von Inen¬
+#facs_339_r1l15 kein beschwernuß vndt vnfugwiderfaren
+#facs_339_r1l16 werde. In ansechen dorlicheß in Wirtzen
+#facs_339_r1l17 Je begeren gewillfahret, Vnndt Abend die
+#facs_339_r1l18 wyln sij den durchzug bij die nacher Quem
+#facs_339_r1l19 nemen werden, zu dem endt berichten wollen,
+#facs_339_r1l20 Es du angezogenes volck ohnuffgehalten das
+#facs_339_r1l21 passieren vnd mit notwendiger Freiß vnd travel
+#facs_339_r1l22 of gebürende bezalung versechen laßest, zu
+#facs_339_r1l23 Welchem endt dann du die eruorderliche an¬
+#facs_339_r1l24 Fellung wirst Heuerichten Wüßen: Wurde
+#facs_339_r1l25 sich aber vnder diserem Volck dem Gmuten
+#facs_339_r1l26 nachtliche vnserer vnderthanen auch finden
+#facs_339_r1l27 lapen, daruff du dann ein sonderlich
+#facs_339_r1l28 fleißige acht: vnd nachforschung haben solten. So
+#facs_339_r1l29 Wiesen alßdann den oder dieselben by
+#facs_339_r1l30 Demein Eidt vfgehalten, gefencklichen an¬
+#facs_339_r1l31 zunemmen, undt der Verhafftung vns Zuberichts
+#facs_339_r1l32 Außen. Datum 19. Novemb. 1642

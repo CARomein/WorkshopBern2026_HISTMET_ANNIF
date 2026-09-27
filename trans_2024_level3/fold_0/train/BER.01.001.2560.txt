@@ -1,0 +1,36 @@
+BER.01.001.2560
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 27/27
+# High similarity (>=50%): 26
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_51_r3l1 Lausanne, Petterlingen Cons; Milden, Chillion, Morsee, Neüas
+#facs_51_r3l2 8
+#facs_51_r3l3 Jferten, Erlach, Nydauco, Arberg, Burgdorff, Zofingen, Grauw, Brug
+#facs_51_r3l4 Rentzburg (w. er Esun)
+#facs_51_r3l5 Wegen Attestationen für Waaren
+#facs_51_r3l6 Statthalter und Raht der Stall Bern etc.
+#facs_51_r3l7 wegen Besorglich vorgehenden Fräfflen und gefährden Wirt
+#facs_51_r3l8 Einkommenem sichtrem Bericht nach Weder auß der Schweitz
+#facs_51_r3l9 in das Reych nach Hinwiderumb von dannen in die Schweitz
+#facs_51_r3l10 fürters hin einiche Kauffmanns Waahr, was natur sie immer
+#facs_51_r3l11 sey, an den Reychr= und Schwäbischen Crayß Päßen nicht passiert
+#facs_51_r3l12 Werden, es seyen dann die Attestationen oder Certificaten
+#facs_51_r3l13 nach denen Vnnserer Cantzley übermachten formularien einge¬
+#facs_51_r3l14 richtet, darzu auch von denen Handelsleuthen der Cörperliche
+#facs_51_r3l15 Eydt in Umser Cantzley abgelegt, und dieselben durch Vnnseren
+#facs_51_r3l16 geliebten Ball Schreiber eigenhändig Signiert: Damit nun die
+#facs_51_r3l17 Inn Vnnseren Statt und Landen Wohnende HandelsLeicht in Ihrer
+#facs_51_r3l18 Handlung fortkommen kommend, und auß Mangel sothaner ein¬
+#facs_51_r3l19 richtung und beylauffiger erforderlichkeiten denenselben nicht
+#facs_51_r3l20 Wie bereits etlichen beschehen, Ihre Waaren Verarrest war¬
+#facs_51_r3l21 und, habend Wir die Hiemit zubefohlen gantz nöthig erachtet,
+#facs_51_r3l22 Wann sich deren inn Deinem Ambts Bezirck befunden, die Waaren
+#facs_51_r3l23 Auß= oder einfüehren Wolten, dieselben zu verwahrnen, daß
+#facs_52_r2l1 Ihnen selbst vor Unglück hüseyn, sie sich inn Vnnserer Cantzley
+#facs_52_r2l2 umb die erforderlichen Attestationen oder Certificaten Auf
+#facs_52_r2l3 geben, und nach dem genauwen Verlangen einrichten laßen
+#facs_52_r2l4 sollind. Gott mit dir! Datum 18. Augusti 1694.

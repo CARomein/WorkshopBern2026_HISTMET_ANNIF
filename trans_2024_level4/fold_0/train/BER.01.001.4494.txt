@@ -1,0 +1,59 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 51/52
+# High similarity (>=80%): 48
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4494
+#facs_218_r4l12 Kirchen- und Schulbücher so äußert
+#facs_73_r8l5 In
+#facs_314_r2l17 alle deutsch und weltschen Herren Amtleit,
+#facs_218_r4l7 und Stadt, allwo Buchdruber,
+#facs_135_r3l2 Kinder.
+#facs_218_r4l10 Ruchführer und Ruchtpahrer sich
+#facs_218_r4l11 befinden
+#facs_218_r4l12 Kirchen- und Schulbücher so äußert
+#facs_218_r4l13 Lands gedrukt worden, deren Verkauf
+#facs_218_r4l14 in hiesigen Landen verbodten
+#facs_218_r4l15 von dem
+#facs_126_r2l12 Schultheis und Raths-
+#facs_218_r4l17 Edelgebohrnen Unserem lieben uns
+#facs_218_r4l18 getreuen Burger und bestelten Ober¬
+#facs_218_r4l19 keitlichen Buchdruber, Fridrich Fischer, ist
+#facs_218_r4l20 Uns die ehrerbietige Vorstellung gethan
+#facs_218_r4l21 worden, daß eine Zeit daher eine große
+#facs_218_r4l22 Anzahl Kirchen= und Schulbücher von denen
+#facs_218_r4l23 Euchhändlern und Buchbinderen, in
+#facs_218_r4l24 Unsern deutsch und welschen Landen, von
+#facs_218_r4l25 aüßeren Orten her beschikt, und öffentlich
+#facs_218_r4l27 verkauft, dardurch dann dem ihme
+#facs_218_r4l28 ertheilten Privilegio großen Schaden
+#facs_218_r4l29 Wir haben
+#facs_218_r4l30 und Eintrag geschehe.
+#facs_28_r1l1 52
+#facs_219_r2l1 dahero bemelt Unserm Burger ein
+#facs_219_r2l2 Privilegium dahin ertheilt, daß denen
+#facs_219_r2l3 auchdrukeren, Buchführern und
+#facs_219_r2l4 auchbinderen, und allen denen so
+#facs_219_r2l5 Dieses Commercium führen möchten,
+#facs_128_r2l24 in Unsern deutsch und weltschen Landen,
+#facs_219_r2l7 der Verbrauch und öffentliche Verkauf
+#facs_219_r2l8 aller Arten äußert Lands gedrukter
+#facs_219_r2l9 Kirchen und Schulbücheren undersagt¬
+#facs_219_r2l10 und mithin auch der Nachdruk derselben,
+#facs_219_r2l11 in unsern Landen verbotten seyn
+#facs_219_r2l12 solle, bey Straf der Confiscation gegen
+#facs_219_r2l13 die Wiederhandlende
+#facs_219_r2l14 Dabey aber gestatten Wir denen
+#facs_219_r2l15 Buchdrukeren, auchhändteren und
+#facs_219_r2l16 Ruchbinderen, welche dergleichen
+#facs_219_r2l17 Kirchen- und Schulbücher haben mochten,
+#facs_219_r2l18 einen Termin von Sechs Monaten, von dato
+#facs_219_r2l19 an gerechnet, innert welchem sie solche
+#facs_219_r2l20 abstoßen uns verkauffen sollen.
+#facs_219_r2l21 Deßen Ihr berichtet werdet, mit dem
+#facs_219_r2l22 befelchlichen Auftrag, dieses behöriger
+#facs_219_r2l23 maßen in Eüerem Amt bekant zu
+#facs_219_r2l24 machen. Dat. d. 23. Jan. 1781.
+#facs_178_r8l1 en

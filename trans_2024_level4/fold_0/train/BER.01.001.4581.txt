@@ -1,0 +1,176 @@
+Law nr: BER.01.001.4581
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 164/164
+# High similarity (>=80%): 157
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_124_r5l41 r
+#facs_23_region_1633454616028_2913l1 An
+#facs_204_r3l20 alle Weltsche Herren Amtleuth, auch
+#facs_204_r3l21 Petterlingen Consuli S.
+#facs_204_r3l22 wie die Folter anzubenden
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_205_r5l11 Aus wichtigen Betrachtungen und nach
+#facs_10_r5l1 39
+#facs_204_r4l2 reiffer Überlegung, haben Wir Uns
+#facs_205_r3l7 entschloßen, in unseren Landen, sowohl
+#facs_204_r4l4 die Real Terretion, wo durch den Scharfrich¬
+#facs_204_r4l5 ter Hand an den Befangenen gelegt wird
+#facs_204_r4l6 als aber die Folter selbsten, nicht anders
+#facs_204_r4l7 als mit der äußersten Behutsamkeit,
+#facs_204_r4l8 und nicht ohne die dringendeste Noth¬
+#facs_204_r4l9 Bendigkeit, auch nur bey hinreichenden
+#facs_204_r4l10 Indicien, in Fällen wo das Verbrechen
+#facs_204_r4l11 die Todesstraf nach sich ziehen könnte
+#facs_204_r4l12 anbenden zu laßen.
+#facs_204_r4l13 Ihr berdet demenach an das Weltsche
+#facs_204_r4l14 Land (allen Brichten Eüers Amts, welche
+#facs_204_r4l15 die Criminal Berichtsbarkeit ausüben
+#facs_204_r4l16 an Peterlingen /: dem Bericht zu Petter
+#facs_204_r4l17 lingen) anbefehlen, keinen Delinquentni
+#facs_204_r4l18 mit der Marter zu bedrohen, vielbenige
+#facs_204_r4l19 an dieselbe zu schlagen, sondern in solchen
+#facs_204_r4l20 Fällen die Procedur Unserem Täglichen
+#facs_204_r4l21 Rath einzusenden, und desselben Befehl
+#facs_204_r4l22 und Wegweisung gebärtig zu seyn, auch
+#facs_204_r4l23 werdet ihr diese Unsere Verordnung
+#facs_204_r4l24 zu künftigem Verhalt behörigen Orts
+#facs_204_r4l25 einschreiben laßen.
+#facs_204_r4l26 Datum den 23. Decembris 1785.
+#facs_83_r3l6 en
+#facs_49_r1l1 90
+#facs_100_r2l1 soll.
+#facs_37_r1l1 66
+#facs_205_r3l1 Lausanne Praefecto
+#facs_205_r3l2 über obiges Schreiben aus noch eins
+#facs_205_r3l3 begen der Stadt
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_205_r5l11 Aus wichtigen Betrachtungen und nach
+#facs_204_r4l2 reiffer Überlegung, haben Wir Uns
+#facs_205_r3l7 entschloßen, in unseren Landen, sowohl
+#facs_205_r3l8 die Real Territion, wo durch den Scharf=
+#facs_205_r3l9 Richter Hand an den Gefangenen geleg¬
+#facs_205_r3l10 wird, als aber die Folter selbst, nicht
+#facs_205_r3l11 anders als mit der äussersten Rehut¬
+#facs_205_r3l12 samkeit, und nicht ohne die dringendes
+#facs_206_r3l6 Nothwendigkeit, auch nur bey hinreichenden
+#facs_205_r3l14 den Indicien, in Fällen wo das Verbrechen
+#facs_204_r4l11 die Todesstraf nach sich ziehen könnte
+#facs_204_r4l12 anbenden zu laßen.
+#facs_223_r2l7 Ihr werdet demnach solches zu jeder
+#facs_205_r3l18 diese Unsere Landes vätterliche Vorsorg
+#facs_205_r3l19 und Willens Meinung dahin eröffnen,
+#facs_205_r3l20 daß sie auch Ihrerseits derselben nachlebe
+#facs_205_r3l21 da Wir übrigens dieselbe bey ihren bohl
+#facs_205_r3l22 hergebrachten Rechten und Freyheiten
+#facs_205_r3l23 in Ausübung der Criminal Berichtsbarkeit,
+#facs_23_region_1633454785261_2928l2 Wid
+#facs_128_r2l20 solle.
+#facs_108_r6l1 209
+#facs_205_r5l2 wie von Alters her verbleiben laßen
+#facs_205_r5l3 und darinnen nicht zu schmähleren ge¬
+#facs_205_r5l4 Auch werdet ihr diese
+#facs_205_r5l5 denken.
+#facs_205_r5l6 Unsere Verordnung behörigen Orts ein¬
+#facs_205_r5l7 schreiben laßen. Dat. at supra.
+#facs_23_region_1633454616028_2913l1 An
+#facs_205_r5l9 die vier Aergänische Städte.
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_205_r5l11 Aus wichtigen Betrachtungen und nach
+#facs_204_r4l2 reiffer Überlegung, haben Wir Uns
+#facs_205_r3l7 entschloßen, in unseren Landen, sowohl
+#facs_205_r5l14 die Real Territion, da durch den Schar¬
+#facs_205_r5l15 Richter Hand an den Befangenen gelegt
+#facs_205_r3l10 wird, als aber die Folter selbst, nicht
+#facs_205_r5l17 anders als mit der grösten Behutsam¬
+#facs_205_r5l18 beit, und nicht ohne die dringendeste Noth¬
+#facs_204_r4l9 Bendigkeit, auch nur bey hinreichenden
+#facs_204_r4l10 Indicien, in Fällen wo das Verbrechen
+#facs_204_r4l11 die Todesstraf nach sich ziehen könnte
+#facs_204_r4l12 anbenden zu laßen.
+#facs_205_r5l23 Wir erbarten demenach von Euch, daß
+#facs_205_r5l24 Ihr so viel Euer Berichts Bezirk betrift,
+#facs_205_r5l25 auch Eüerseits dieser Unserer Landes¬
+#facs_205_r5l26 väterlichen
+#facs_206_r1l1 wädterlichen Vorstorge und Willens
+#facs_206_r1l2 Meinung nachleben berdet. Da Wir
+#facs_206_r1l3 übrigens Eüch bey Eüerem von uns Euch
+#facs_206_r1l4 verliehenen Blutbann verbleiben laßen
+#facs_206_r1l5 und in Ausübung desselben Euch nicht
+#facs_206_r1l6 zu schmähleren gedenken.
+#facs_206_r1l7 Datl ut supra.
+#facs_206_r1l8 Denen Hhl. Schultheißen von Thun und
+#facs_206_r1l9 Burgdorf zuhanden ihrer Städten, wie
+#facs_206_r1l10 der Stadt Lausanne, mutatis mutandis.
+#facs_206_r1l11 Erlach Vogt zu Handen der Stadt, die
+#facs_206_r1l12 den Weltschen Amtleüthen
+#facs_206_r1l13 Vanen Praefecto
+#facs_206_r1l14 für sein Teutsch und Weltsches Amt,
+#facs_206_r1l15 wie den Weltschen Berichten
+#facs_206_r1l16 Denen vier Herrschafts Herren, Spies¬
+#facs_206_r1l17 Riggisberg, Diesbach und Belz.
+#facs_204_r3l24 Aus bichtigen Betrachtungen, und nach
+#facs_204_r4l2 reiffer Überlegung, haben Wir Uns
+#facs_206_r1l20 entschloßen, sobohl die Real Serrition
+#facs_206_r1l21 da durch den Scharfrichter Hand an den
+#facs_206_r1l22 Befangenen
+#facs_100_r2l1 soll.
+#facs_10_r5l2 40
+#facs_206_r3l2 Befangenen gelegt wird, als aber die
+#facs_206_r3l3 Polter selbsten, in unseren Landen
+#facs_206_r3l4 nicht anders als mit der äußersten Be¬
+#facs_206_r3l5 hutsamkeit und nicht ohne die dringendeste
+#facs_206_r3l6 Nothwendigkeit, auch nur bey hinreichenden
+#facs_206_r3l7 Indicien, in Fällen wo das Verbrechen die
+#facs_206_r3l8 Todesstraf nach sich ziehen könnte, anben¬
+#facs_206_r3l9 den zu laßen.
+#facs_206_r3l10 Wir erwarten demenach von Euch, daß
+#facs_206_r3l11 Ihr Euch, so viel Eüere Berichtsbarkeit
+#facs_206_r3l12 betrift, dieser Unserer Landes väterlichen
+#facs_206_r3l13 Vorstorg unterziehen und derselben nachle¬
+#facs_206_r3l14 ben, (auch in solchen Fällen, Euch bey
+#facs_206_r3l15 Unserem täglichen Rath, Raths erhohlen
+#facs_206_r3l16 und desselben Wegleistung gebärtig seyn
+#facs_206_r3l17 berdet :/ da Wir Euch übrigens bey Eürei
+#facs_206_r3l18 habenden Rechten verbleiben laßen, und
+#facs_206_r3l19 hierdurch nicht zu schmäleren gedenken
+#facs_206_r3l20 Lensburg Praefecto
+#facs_206_r3l21 wegen Fahrbaugen und Dennbyl
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_204_r3l24 Aus bichtigen Betrachtungen, und nach
+#facs_206_r3l24 fen Überlegung haben Wir uns entschloßen,
+#facs_206_r3l25 Wbohl
+#facs_55_r5l1 103
+#facs_207_r2l1 sobohl die Real Territion, da durch den
+#facs_207_r2l2 Scharf Richter Hand an den Befangenen
+#facs_207_r2l3 gelegt wird, als aber die Folter selbst, in
+#facs_207_r2l4 Unseren Landen, nicht anders als mit
+#facs_207_r2l5 der äußersten Behutsamkeit, und nicht
+#facs_207_r2l6 ohne die dringendeste Nothbendigkeit,
+#facs_207_r2l7 auch nur bey hinreichenden Indicien in
+#facs_208_r3l8 Fällen bo das Verbrechen die Todes¬
+#facs_207_r2l9 straf nach sich ziehen könnte, anben
+#facs_206_r3l9 den zu laßen.
+#facs_207_r2l11 Ihr berdet demmenach, der Herrschaft
+#facs_208_r3l12 Hallbyl diese Unsere Landes vätterlich
+#facs_207_r2l13 Vorsorge, und Willens Meinung dahin
+#facs_207_r2l14 wöffnen. daß Wir erbarten seyen
+#facs_207_r2l15 daß sie sich, so viel ihre Berichtsbar
+#facs_207_r2l16 heit von Fehrbergen und Dennbyl
+#facs_207_r2l17 betrift, derselben unterziehe und nach
+#facs_207_r2l18 lebe (und in solchen Fällen sich bey
+#facs_207_r2l19 Unserem täglichen Rath, Raths erhole
+#facs_207_r2l20 und deßen Wegbeisung gebärtig seye
+#facs_207_r2l21 Da Wir übrigens sie bey ihren habend
+#facs_207_r2l22 Rechten verbleiben laßen, und hiendurch
+#facs_207_r2l23 nicht zu schmäleren gedenben.
+#facs_207_r2l24 Auch berdet ihr diese Unsere Verordnung
+#facs_208_r3l25 behörigen Orts einschreiben laßen
+#facs_207_r2l26 actl. Aorstath
+#facs_218_r3l1 Collati

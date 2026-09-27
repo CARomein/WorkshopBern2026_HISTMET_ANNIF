@@ -1,0 +1,41 @@
+Law ID: BER.01.001.4001
+Name: Getreyd Ausfuhr verbotten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 30/30
+# High similarity (>=50%): 29
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_99_r4l17 Dem
+#facs_99_r4l18 Alle T. und W. Ambtleuth 4. Städt.
+#facs_99_r4l19 Freyweibel und Amman
+#facs_99_r4l20 Betreyd ausfuhr verboten
+#facs_99_r4l21 Schultheiß Raht und Bürger¬
+#facs_99_r4l22 Indemme Wir aus denen Unß heute
+#facs_99_r5l1 187
+#facs_99_r5l2 vorgelegten Etats der Getreys Zehnden
+#facs_99_r5l3 7. und W. Lands Wir so viel ersehen
+#facs_99_r5l4 daß dermahlen noch kein Überfluße
+#facs_99_r5l5 an Gewuchs vorhanden, also nöhtige
+#facs_99_r5l6 seyn will, daß derjenige, so in
+#facs_99_r5l7 Unseren Landen sich befindt zum
+#facs_99_r5l8 besten Küsterer Angehörigen Teutsch¬
+#facs_99_r5l9 und Weltscher Landen darinnen behalten
+#facs_99_r5l10 und deßelben Ausfuhr ferners hin
+#facs_99_r5l11 bestmöglich behinderet werde; Als
+#facs_99_r5l12 habend Wir aus diesen und anderen
+#facs_99_r5l13 erheblichen Ursachen Euch /: gleich gege,
+#facs_99_r5l14 übrige Unsere T. und W. Ambtleuthe
+#facs_99_r5l15 auch beschicht) hiemit befehlen wollen,
+#facs_99_r5l16 hierüber Euwern Vigilanz zu versoplen¬
+#facs_99_r5l17 und nach Inhalt Unserer Verbotts¬
+#facs_99_r5l18 vom 3. Septembris 1745. Hand obzu¬
+#facs_99_r5l19 halten, daß keinerley Gattung getreyd,
+#facs_99_r5l20 beÿ aufgesezter Straff aus Unseren
+#facs_99_r5l21 Landen enteüßeret werde; Maßen
+#facs_99_r5l22 zu Thun und zu veranstalten Ihre
+#facs_99_r5l23 bestens wüsten werdet. Datum d. 8.
+#facs_99_r5l24 Decembris 1751.

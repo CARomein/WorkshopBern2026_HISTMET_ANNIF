@@ -1,0 +1,38 @@
+Law ID: BER.01.001.1617
+Name: Den österreichischen Zolsvergleich schicken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 27/27
+# High similarity (>=50%): 26
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_333_r1l14 Thun Burgdorff, Zoffingen, Araun,
+#facs_333_r1l15 Brugg Leutzburg, Arberg Rydauw vndt
+#facs_333_r1l16 Büren den Osterreichischen rols Vergleich
+#facs_333_r1l17 schiken
+#facs_333_r1l18 Schuldtseisz und Rast
+#facs_333_r1l19 Ober die bei den Eidtgnößischen
+#facs_333_r1l20 Kauff vndt handelsleüthen, der Röllen halben den Oster-
+#facs_333_r1l21 reichischen Landen, sich ertzeige bethuenligkeiten, Ist-
+#facs_333_r1l22 Verschinen 1654 Jahrs zwischen Ihr Ertfürstlich deh.
+#facs_333_r1l23 Von Ostereich vndt gemeinen Dreyzechen geben
+#facs_333_r3l1 647.
+#facs_333_r3l2 Loblicher Eidtgnoßschafft, In erleüterung alter Vndt
+#facs_333_r3l3 vorgehender Verträgen, ein frischer Vergleich Wie beide theil,
+#facs_333_r3l4 Der Tollen halber gegen ein anderen stehen sollindt verhandlet,
+#facs_333_r3l5 Vndt tiderhar auff seiten Ihr Erzfrn diß ratificurt werden
+#facs_333_r3l6 Daruon Wir dir (sine Eüch) beiligenden substitantzlichen Vfzug
+#facs_333_r3l7 zu dem endt Vüberschiben, Nohtwendig vndt gutbefunden
+#facs_333_r3l8 Daß so wohl Vnsere angehörige Kauff vndt handelslaht,
+#facs_333_r3l9 ich dessen vff Österreichem boden Vndt denselben Coll¬
+#facs_333_r3l10 stetten Wider alle höchere Vndt weitere Tohls abforderung
+#facs_333_r3l11 gebehelffen, als auch Vntere Rolner, gegen den Osterrichischen
+#facs_333_r3l12 Wahren, solchem sich gemeß Zeuerhalten, Vndt duem also
+#facs_333_r3l13 die einten Vndt anderen noch zekommen wüsfind, Maßen
+#facs_333_r3l14 wir es gehabt vndt beuolchen haben, Wellendt: dartzu
+#facs_333_r3l15 Iu (sine Ir) dan eine Vergleiche ordnung zu künfftigen
+#facs_333_r3l16 Ied weilig nachricht gehorigen orts einschreiben zelasen
+#facs_333_r3l17 Wüssen wirst datum 13 Octobris 1656

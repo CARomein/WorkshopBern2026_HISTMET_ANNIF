@@ -1,0 +1,97 @@
+Law ID: BER.01.001.3270
+Name: Alles Hetzen und Jagen [...] verbiethen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 86/86
+# High similarity (>=50%): 81
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_192_r3l13 An Alle T. und W. Ambtleüth 4 Städt
+#facs_192_r3l14 Freyweibel und Amman. Item an hiesige
+#facs_192_r3l15 Cantzel
+#facs_192_r3l16 Alles setzen und Jagen von Liechtmäß
+#facs_192_r3l17 folium
+#facs_192_r3l18 663
+#facs_192_r3l19 Eisauf Bartholomey tag verbiethen,
+#facs_192_r3l20 Schö. und Rath der Stock beru.
+#facs_192_r3l21 Bey wieder angerükter Brunst und Bruthzeith des
+#facs_192_r3l22 Kwildts, wollendt der hiemit weniglichen Verwahrnet
+#facs_192_r3l23 haben von nun an bis künfftigen Bartholomey tag
+#facs_192_r3l24 rich deß Jagens hatzens und schießens alles gebildt,
+#facs_192_r3l25 und köglen dieselbiges immer Nahmen haben man
+#facs_192_r3l26 gäntzlichen Zenthalten, anbey dan auch den zum Tage,
+#facs_192_r3l27 abgerichteten und verderblichen Hunden die gewohnt
+#facs_192_r3l28 lange Schbahre prügell anzehenten, alles bey der
+#facs_192_r4l1 357
+#facs_192_r4l2 in hoch Oberkeitlicher Jäger Ordnung aufgesetzten
+#facs_192_r4l3 Buß und straff, darmit die fehlbahren ohne
+#facs_192_r4l4 schönen, belegt werden sollen, & welches von Cantzler
+#facs_192_r4l5 zu verlesen X hiemit befelchnet wirst. Datum
+#facs_192_r4l6 Nigt. Ianl. 1719.
+#facs_192_r4l7 dem Weltschen Landt Allein und ob solchen
+#facs_192_r4l8 beßer, als nie verfahren an den meisten
+#facs_192_r4l9 Ohrten W. Landes beschechen, hand ob zu¬
+#facs_192_r4l10 halten.
+#facs_192_r4l11 P.S. Undt Weilen er dem Bericht nach sich zu
+#facs_192_r4l12 allein Mürte,
+#facs_192_r4l13 allen Zeiten und ohne Moderation in versoffener
+#facs_192_r4l14 und offenes Zeith ohngeacht Ihme überschikten Verbadte
+#facs_192_r4l15 Collath.
+#facs_192_r4l16 zum ruin deß Geildts auf die Jagdt begebe¬
+#facs_192_r4l17 und euch andern verderblichen Jägern ein gleiches
+#facs_192_r4l18 conceviere als werde Er für Eins und allemahl
+#facs_192_r4l19 vermahnt der hohe Ordnung und diesen special
+#facs_192_r4l20 Befelch in genuegen geleisten, und hiemit mehr
+#facs_192_r4l21 seinen Ambts Geschäfften in mehrerem abzwahrten
+#facs_192_r4l22 Für dann zu Verkennung stekerer Verantwor¬
+#facs_192_r4l23 nug zuthun wüßen werde datum 14ten ung
+#facs_192_r4l24 Schult. v. R. An die Classen Welschen Landts
+#facs_192_r4l25 Es weiset die Ordnung heiter aus, daß die Tauff Röden
+#facs_192_r4l26 Collabe
+#facs_192_r4l27 von Vnseren Predikanten in guter Ordnung gehalten,
+#facs_192_r4l28 und diejenigen Kinder, so hinder Ihnen zum heiligen
+#facs_192_r4l29 Teuff befürderet werden, mit nahmen zusambt Ihre
+#facs_192_r4l30 Elteren und Tauff Zeugen auch auf welchen tag und
+#facs_193_r4l1 Jahr es beschechen, ein anderquach, ohne in den Röden
+#facs_193_r4l2 laßende Lehre Blädter eingeschrieben, ob diesem aber
+#facs_193_r4l3 nachgelebt werde, nicht nur bey verrichtendes Kirchen
+#facs_193_r4l4 visitation der Augenschein eingenommen, sondern
+#facs_193_r4l5 auch den Rodel selbsten bey haltender jährlichen ordin
+#facs_193_r4l6 Et Class Versamlung vorgelegt werden sollen. Wenn
+#facs_193_r4l7 aber bißhero diesers von etwelchen Preditanten eben
+#facs_193_r4l8 nicht mit allem fleiß beschechen und aber daran
+#facs_193_r4l9 gelegen; daß es gebührende Beobachtet verde¬
+#facs_193_r4l10 Als habendt wir Euch deßen hierdurch früscher
+#facs_193_r4l11 Dingen Erinneren, wie Euch deßen Herr durch und
+#facs_193_r4l12 zugleich befehlen wollen, solchem ins tünfftig
+#facs_193_r4l13 in allen seinen Puncten nachgekommen, und gegen¬
+#facs_193_r4l14 behörigen Unseren Besilch bey erster haltung.
+#facs_193_r4l15 der Ploss zu aller derselben Gliedern observant
+#facs_193_r4l16 Ablesen zelaßen, auch künfftighin jährlich der
+#facs_193_r4l17 Actis einverleyben gelaßen, ob die Tauff Rödel
+#facs_193_r4l18 vorgewiesen ob selbe nach der Ordnung eingerichtet
+#facs_193_r4l19 befunden worden, wie sothun sie wüßen werden
+#facs_193_r4l20 Actum den 5ten Januari 1719
+#facs_193_r4l21 in Alle W. Ambtleuth
+#facs_193_r4l22 Schult. und Rath etc.
+#facs_193_r4l23 Weilen wir beobachtet, daß Unseren hietorig
+#facs_193_r4l24 Ordnungen in Ansehen der Tauff Rödlen nicht in
+#facs_193_r4l25 allem gebührendt nachgelebt in sonderheit aber die
+#facs_193_r6l1 359.
+#facs_193_r6l2 Zum H. Tauff befürdern kinder nicht ein andergnach
+#facs_193_r6l3 forschickt
+#facs_193_r6l4 of
+#facs_193_r6l5 eingeschrieben, sondern von etwelchen Köhne und ohngehriebene
+#facs_193_r6l6 bläster in den Rödlen allwegen gelaßen, dene auch diesere
+#facs_193_r6l7 Rödel Beyhaltung der Capitlen nicht, wie es seyn soll,
+#facs_193_r6l8 mere
+#facs_193_r6l9 vorgewiesen werden; als ab undt wir alle Classes Vnsers
+#facs_193_r6l10 Weltschen Landts, Ihrer diß Ohrtigen Plichten von
+#facs_193_r6l11 Der aber /: Gleich allen v. sey w. Ambtleuthe/ Befehlen
+#facs_193_r6l12 wollen, daran zu seyn, daß diesem ordenlicher maßen
+#facs_193_r6l13 nachgelett werde, und allwegen Zuveranstalten, ob
+#facs_193_r6l14 es geschechen oder vnderlaßen worden den Actis einterleybe.
+#facs_193_r6l15 berde. Datum 5tanz 1719.

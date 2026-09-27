@@ -1,0 +1,109 @@
+Law ID: BER.01.001.4147
+Name: Die Ausfuhr dess Gewächses an fremde und benachbahrte Ort bewilliget.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 98/98
+# High similarity (>=50%): 92
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_109_r4l19 Signalement
+#facs_109_r4l20 Sebastian Bursiger, alt 33. Jahr, seiner Statur 5. schu 5. Zoll
+#facs_109_r4l21 ang, kurze schwarz Braune rubel haar, braune Augen, wohl
+#facs_109_r4l22 gestaltet, und frech in seinen Unternemmungen, tragt ein Graf
+#facs_109_r4l23 Progetenes Camison mit gleichfärbigen Camel härmen vnöpfen
+#facs_109_r4l24 Ein roth Sarcelondenen Brustflet, ein schwarz gestribtes hältin
+#facs_109_r4l25 schwarz Leinene Haafen, weiß geiste Hinterstrümpff, in
+#facs_109_r4l26 gelbe Schu Schnallen
+#facs_109_r6l1 207
+#facs_109_r6l2 An
+#facs_109_r6l3 Alle Teutsch und Weltsche Amtleuth, 4. Städt,
+#facs_109_r6l4 Freyweibel und Amann, Item per plauard
+#facs_109_r6l5 an die Pfeiler und Jedel an alle
+#facs_109_r6l6 Canzel hiesiger Haubt Stadt
+#facs_109_r6l7 Die Ausfuhr des Gewächses an fremde
+#facs_109_r6l8 und Benachbahrte Ort bewilliget.
+#facs_109_r6l9 Schultheiß Räht und Burger
+#facs_109_r6l10 Da durch die immer genug anzupreisende
+#facs_109_r6l11 güete deß Allerhöchsten, mit mir die zwey
+#facs_109_r6l12 verbichene Jahr, hiesige Land mit einer
+#facs_109_r6l13 zimlich reichen Ernd gesegnet worden, son¬
+#facs_109_r6l14 deren annoch von der Wintersaat, und
+#facs_109_r6l15 würklicher Anblüemung der Felderen,
+#facs_109_r6l16 alle gute Hoffnung eines ferners gesegneten
+#facs_109_r6l17 Jahrs zu schöpfen, haben Wir nach vorgegan¬
+#facs_109_r6l18 gener gnugsammer Überlegung, und damit
+#facs_109_r6l19 der Landmann von seinem zu verhandlen
+#facs_109_r6l20 habenden Gebächs, auch zu einer güng¬
+#facs_109_r6l21 sammen Lofung gelangen möge, gut
+#facs_109_r6l22 befunden und Erbent, daß von nun
+#facs_110_r2l1 An und biß auf fernere Verordnung,
+#facs_110_r2l2 Ausleten Teütsche und Sveltschen
+#facs_110_r2l3 samen, die Ausfuhr aller Gäckung
+#facs_110_r2l4 Gebachs, an fremde und Benachbahrte
+#facs_110_r2l5 bewilliget und Erlaubt seyn solle,
+#facs_110_r2l6 Welches ihr zu Mänglichs verhalt
+#facs_110_r2l7 und Wüsenschafft öffentlich kund zu
+#facs_110_r2l8 thun, und von Canzlen verlesen zu
+#facs_110_r2l9 laßen, hiemit befelchnet werdet. Dat.
+#facs_110_r2l10 den 1ten April 1761.
+#facs_110_r2l11 Vide traduction sub pag: 211
+#facs_110_r5l1 209
+#facs_110_r5l2 An
+#facs_110_r5l3 Dießbach D. dießbach Freyreibel, et Thun und
+#facs_110_r5l4 Signau Praef. Dannen Jedel an Metzlöhl. der
+#facs_110_r5l5 Marechaussée und Policey Cammer und Hl. Brost.
+#facs_110_r5l6 Beibel und H. Brichtschreiber
+#facs_110_r5l7 Auf den aus dem Schallenwerb sich loß
+#facs_110_r5l8 gebürbten Hans Steiner aus dem
+#facs_110_r5l9 Kurzenberg zu achten.
+#facs_110_r5l10 Schultheiß und Raht
+#facs_110_r5l11 Indeme Hans Steiner aus dem Kuezenberg
+#facs_110_r5l12 Es in Ao 1750. von Uns aus verschiedene
+#facs_110_r5l13 Ursachen wegen, in specie dann wegen dem
+#facs_110_r5l14 Jacob Moster in dem Schlegbegwald
+#facs_110_r5l15 begangen wordenen Straßenraub, zu
+#facs_110_r5l16 er Lebenslänglichen Schellenwertsstraff
+#facs_110_r5l17 verfallt worden; dieser Tagen daraus¬
+#facs_110_r5l18 mit
+#facs_110_r5l19 ontrinnen können: Als haben Wir
+#facs_110_r5l20 Zusendung deßen Beschreibung Euch befehlen
+#facs_110_r5l21 wollen, auf denselben achten, und betreffenden
+#facs_110_r5l22 fahls denselben gebahrsammlich seines Orts im
+#facs_110_r5l23 Schallenwerk wider übergeben zu laßen.
+#facs_110_r5l24 34 Juny 1760
+#facs_110_r5l25 signE
+#facs_111_r1l1 210
+#facs_111_r1l2 Coll
+#facs_111_r2l1 Signalement
+#facs_111_r2l2 Hans Steiner, aus dem Kurzenberg,
+#facs_111_r2l3 seines Alters ohngefehrs 40. Jahr, ist
+#facs_111_r2l4 wohl 6. Schn lang, hat heiter braune
+#facs_111_r2l5 saar, vollkommenes Angesicht, am rechten
+#facs_111_r2l6 Bein unten am Knie von etwelchen alten
+#facs_111_r2l7 Schüzen blessiert, geht auch stark lahm,
+#facs_111_r2l8 tragt leinig blauder Hosen, ein rohter
+#facs_111_r2l9 Leibrok ohne Ermel, ganz verrißen, und
+#facs_111_r2l10 ein schlechten Schaubhut.
+#facs_111_r3l1 inctad payh
+#facs_111_r3l2 108
+#facs_111_r3l3 Coll.
+#facs_111_r4l1 211.
+#facs_111_r4l2 Traduction
+#facs_111_r4l3 Comme par la Conté Divine, à laquelle Nous ne
+#facs_111_r4l4 scaurions assez rendre graces, la moisson des deux
+#facs_111_r4l5 précedentes années a été très abondante, et que
+#facs_111_r4l6 toutes les apparences sont actuellement telles
+#facs_111_r4l7 qu'Elles promettent encore pour celle cy une riche
+#facs_111_r4l8 recolte. Nous avons après Mure deliberation
+#facs_111_r4l9 et afin que le Cultivateur puisse se defaire à
+#facs_111_r4l10 un juste prix de Sa Denrée, trouvé a propos de
+#facs_111_r4l11 permettre dés a présent et jusques à Nouvel ordre
+#facs_111_r4l12 dans le Paijs Allemand et dans le Paÿs de Vaus
+#facs_111_r4l13 la sortie de toute espece de Grains, de sorte qu'on
+#facs_111_r4l14 puisse les transporter et debiter librement chez
+#facs_111_r4l15 l'Etranger et dans les Lieux Voisins; C'est ce qui
+#facs_111_r4l16 doit être publié et lû en chaire, pour la Conduite
+#facs_111_r4l17 d'un Chacun. Donné ce 1er d'Avril 1761

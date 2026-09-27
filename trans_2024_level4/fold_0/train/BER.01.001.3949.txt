@@ -1,0 +1,134 @@
+Law ID: BER.01.001.3949
+Name: Die Contrebande dess Mersalzes hinterhalten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 123/123
+# High similarity (>=50%): 96
+# Low similarity (<50%): 27
+# Not found: 0
+#
+#facs_171_r2l1 An
+#facs_171_r2l2 Die Herren Ämtl. zu vivis¬
+#facs_171_r2l3 Kauhane, Morrsee, Mondon
+#facs_171_r2l4 hierthen, Romainmostier, Echaels,
+#facs_171_r2l5 Bonmont.
+#facs_171_r2l6 Die Contrebande des Mersalzer
+#facs_171_r2l7 hinterhalten
+#facs_171_r2l8 Schultheis und Roster zu
+#facs_171_r2l9 hintertreibung der Contrebande
+#facs_171_r2l10 mit dem Mensalz haben wir
+#facs_171_r2l11 gutfunden die man schlußent¬
+#facs_171_r2l12 gehaltene Verordnung und Ver-
+#facs_171_r2l13 Bolt ausgehen zu lasen, müsse
+#facs_171_r2l14 Ihr hiemit befelchnet werdet solcher
+#facs_171_r2l15 an denen ohrten hienach gemeldt
+#facs_171_r2l16 zu jedermans verhalt von Consti¬
+#facs_171_r2l17 verkünden, und exacté acht bestellt
+#facs_171_r2l18 zu lasen, daß darbider nicht
+#facs_171_r2l19 gehandlet werde, auch Allen¬
+#facs_171_r2l20 fahls die Biderhandlenden,
+#facs_171_r2l21 ohne Nachsehen mit der Darin
+#facs_171_r2l22 ausgesezten Straos zu belegen
+#facs_171_r5l1 33
+#facs_171_r5l2 specification
+#facs_171_r5l3 der Ohrten bo das Meersal
+#facs_171_r5l4 durch die bestelten Commisen im
+#facs_171_r5l5 weltschland soll verkauft werden
+#facs_171_r5l6 etisis
+#facs_171_r5l7 er Stult daselbst,
+#facs_171_r5l8 Causune
+#facs_171_r5l9 in der Stalt, zu Corsier, et saphorin,
+#facs_171_r5l10 Culy, Lutry, Domartin
+#facs_171_r5l11 Morges,
+#facs_171_r5l12 in der Stalt, Rolle, Cossonay, L'Isle
+#facs_171_r5l13 et Bierre,
+#facs_171_r5l14 aubone, in der Stalt,
+#facs_171_r5l15 Nyon, in der Stalt
+#facs_171_r5l16 Moudon, in der Stalt, Lucens
+#facs_171_r5l17 combremont, Meziere,
+#facs_171_r5l18 oron am Ohrt selbst.
+#facs_171_r5l19 Werdun
+#facs_171_r5l20 in der Stalt, Vuarrens, Baumes
+#facs_171_r5l21 Chavornay Lignerolles, (havanesel-
+#facs_171_r5l22 Bercher,
+#facs_171_r5l23 Romainmostier
+#facs_171_r5l24 in der Statt val orbes, le lieu le
+#facs_171_r5l25 pont, la Sarra,
+#facs_171_r5l26 Echallens, in der Stalt, Orbe, et Vaillens,
+#facs_171_r5l27 Bonmont
+#facs_171_r5l28 am ohrt selbst
+#facs_172_r2l1 Nous l'advoyer et conseil
+#facs_172_r2l2 de la ville et Republique de Berne
+#facs_172_r2l3 savoir faisons par la presente que nous
+#facs_172_r2l4 ayant été representé de la part de notre
+#facs_172_r2l5 Direction des Sels, come quoi elle severait
+#facs_172_r2l6 obligée de fournir notre Païs de l'autre
+#facs_172_r2l7 de sel, marin faute d'autre, des le 1er. du
+#facs_172_r2l8 mois prochain; et come le besoin du
+#facs_172_r2l9 sel nous porte de veiller soigneusement
+#facs_172_r2l10 que loutte Contrebande soit empechée
+#facs_172_r2l11 nous deffendons pour cet Effet à un
+#facs_172_r2l12 Chaqu'un de sortir directement ou
+#facs_172_r2l13 indirectement du dit sel marin, honneur
+#facs_172_r2l14 de nos Pais, soit par Trufic, echange
+#facs_172_r2l15 ou de quelle maniere que ce puisse
+#facs_172_r2l16 etre sous peine de confiscation du sol
+#facs_172_r2l17 qui pourra etre saisi dans nos païs
+#facs_172_r2l18 et de cassation, au Cas que cette contre
+#facs_172_r2l19 bundé se fit par un Comis, outre une
+#facs_172_r2l20 amende de Cent ecus blanc, et envers
+#facs_172_r2l21 un particulier, qui apres avoir achac
+#facs_172_r2l22 du sel marin, le remettra ensuite
+#facs_172_r2l23 aux Bourguignons la Confiscation
+#facs_172_r2l24 avec une amende pecuniaire de dit
+#facs_172_r3l1 333
+#facs_172_r3l2 Ecus blanc pour la premiere fois, de la
+#facs_172_r3l3 quelle amende et confiscation la moitié
+#facs_172_r3l4 appartiendra au Deluteur, et l'autre
+#facs_172_r3l5 moitié au Baillif du Lieu; et en cas
+#facs_172_r3l6 de recidive, les Contre venants seront
+#facs_172_r3l7 punis exemplairement selon les cas,
+#facs_172_r3l8 et nous Nous reservons d'en dicter les
+#facs_172_r3l9 peines, à ces fin nous ordonons et
+#facs_172_r3l10 comendons a nos Bailliss et gens
+#facs_172_r3l11 d'office de veiller soigneusement et
+#facs_172_r3l12 exiretement a l'execution du present
+#facs_172_r3l13 Mundat, qui sera publie en chaire
+#facs_172_r3l14 et affiché aux endroits accoutumes,
+#facs_172_r3l15 pour l'avis du public; Doné a Berne
+#facs_172_r3l16 ce 6eme Septembr: 1747
+#facs_172_r3l17 Kr
+#facs_172_r3l18 Alle Teutschrund M. Amtl. Vier Mutter
+#facs_172_r3l19 Sreybeibel und Amman
+#facs_172_r3l20 Reformation Mandat verlesen zu laßen.
+#facs_172_r3l21 t
+#facs_172_r3l22 Schultheis Rähtund Burger. Aus
+#facs_172_r3l23 gungsammen gründen sind wir
+#facs_172_r3l24 verleitet worden, unsere ehemahlige
+#facs_172_r3l25 Reformations Mandat revidieren
+#facs_173_r1l1 334.
+#facs_173_r1l2 P:S:
+#facs_173_r2l1 von welcher Revision Wir Euch
+#facs_173_r2l2 mit rämmende Exemplaria führen
+#facs_173_r2l3 mit befelch solche gebohrtermäßen
+#facs_173_r2l4 In jedermand nachricht von Concl.
+#facs_173_r2l5 verdünden zu lasen. Datum
+#facs_173_r2l6 den 6n. Septemb. 1747.
+#facs_173_r2l7 und wiebohlen in diesem Manda¬
+#facs_173_r2l8 enthalten, daß die Verleidete
+#facs_173_r2l9 persohnen Ehestand noch form-
+#facs_173_r2l10 Rechtens Citiert berden; So ist jeh¬
+#facs_173_r2l11 doch Unser bill und befelch, daß
+#facs_173_r2l12 solche Citationen von demjenigen
+#facs_173_r2l13 Richter, da die beklagten Persohnen
+#facs_173_r2l14 sich aufhalten, mit müglichsten
+#facs_173_r2l15 Beförderung vorgenommen.
+#facs_173_r2l16 ber den sollen, welchemnach¬
+#facs_173_r2l17 nun ihr Euch zu verhalten,
+#facs_173_r2l18 und jenigen Richteren Eübere
+#facs_173_r2l19 amts so dis Ohrts auch zu Uhrtheilen
+#facs_173_r2l20 haben, solches zu Ihrer nachricht
+#facs_173_r2l21 bund zu machen büsen werden.
+#facs_173_r2l22 Datum ut hepra

@@ -1,0 +1,98 @@
+Law ID: BER.01.001.3076
+Name: Das Mandat der Husiereren erfrüschen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 87/87
+# High similarity (>=50%): 79
+# Low similarity (<50%): 8
+# Not found: 0
+#
+#facs_259_r3l1 Clatus
+#facs_259_r3l2 1er
+#facs_259_r5l1 303.
+#facs_259_r5l2 Verzeichnuß der Jenigen Persohnen
+#facs_259_r5l3 welche zum Ausstritt sambt Ihren Ver¬
+#facs_259_r5l4 wandten, erkennt worden.
+#facs_259_r5l5 dem Frantzösischen Dienst stehende, so
+#facs_259_r5l6 1.
+#facs_259_r5l7 würklich Compagneyn haben, alles das ind¬
+#facs_259_r5l8 Von Villars Chandicu Vatter und Söhn.
+#facs_259_r5l9 Brigadier Mey von Schöff Land
+#facs_259_r5l10 Major Mey H. StifftSchaffners sel. Sohn.
+#facs_259_r5l11 Obrist von Bettens.
+#facs_259_r5l12 Major Manuel.
+#facs_259_r5l13 Commandant Mänuel. H. Schultl. von Chim sel. Sohn
+#facs_259_r5l14 Victor von Erlach
+#facs_259_r5l15 Haubtman Weys
+#facs_259_r5l16 Grivel Lieutenant Colonel
+#facs_259_r5l17 Baudard, Lieutenant Colonel
+#facs_259_r5l18 Cornellas. Haubtman Im Heßl. Regiment.
+#facs_259_r5l19 Die Interessierte in der Malaeridanschen Banquen
+#facs_259_r5l20 Namblich.
+#facs_259_r5l21 Sigmund Weys von Molens.
+#facs_259_r5l22 Friedenrich vonættenweyll Ihr von Waßen weil
+#facs_259_r5l23 gel. Sohn zwischen den Thoren
+#facs_259_r5l24 Emanuel Steiger, gewesner Schultheiß des¬
+#facs_259_r5l25 Außeren Standts
+#facs_259_r5l26 DATES DES ACTes
+#facs_259_r5l27 Gabriel Frisching, Mohhl. 2 Eltester Lehn.
+#facs_259_r5l28 Niclaus Malaerida.
+#facs_260_r1l1 estion dans 20 x
+#facs_260_r1l2 An Lausanne, Milden, Moyee,
+#facs_260_r1l3 Neüegen Ifferten, Vevey.
+#facs_260_r1l4 Das Mandat der Hußierin Erfrüschen
+#facs_260_r1l5 Schultheiß und Rath der Statt Ver¬
+#facs_260_r1l6 Von seithen den Kauff- und Hansells Leüthen
+#facs_260_r1l7 Collaten
+#facs_260_r1l8 Unsers Wolltschen Landts ist Uns in aller
+#facs_260_r1l9 Anderthänigkeit Klaghaff vorgebracht
+#facs_260_r1l10 worden daß ohngeacht Unserer öffteren
+#facs_260_r1l11 selbige Reiseten außgangenen Mandaten durch das umb¬
+#facs_260_r1l12 schweiffende Crämer gesinnell und Mercie¬
+#facs_260_r1l13 and
+#facs_260_r1l14 Zu großem schaden und Nachtheil Unserer
+#facs_260_r1l15 handells Leüthen, Immerh; Unsere Landt mit
+#facs_260_r1l16 auch bey den Häuser
+#facs_260_r1l17 Gepieth durchstreichen
+#facs_260_r1l18 und verkaufen
+#facs_260_r1l19 s
+#facs_260_r1l20 um der
+#facs_260_r1l21 Ihre Wahren Feilltragen wann
+#facs_260_r1l22 gleichen Husieren zwischenden officii Jahr
+#facs_260_r1l23 Märkte allerdings verpotten Ist, alles sind
+#facs_260_r1l24 Wir unumbgenglich veranlaßet worden, die
+#facs_260_r1l25 wie gegen andern Ambtleuthen Welltschen
+#facs_260_r1l26 Landts auch beschieht, hiemit ernstlich zu¬
+#facs_260_r1l27 befehlen, in deinem Ambt zu verschafften
+#facs_260_r1l28 daß zwischen denen offnen Jahr Märkten
+#facs_260_r1l29 auf dergleichen sowohl Einheimbsches alls¬
+#facs_260_r1l30 Frömbdes Krammer gesindt und Merciers
+#facs_260_r1l31 geachtet, und in betrettendem fahl nach
+#facs_260_r1l32 vorhergegangenem noch einmahligen
+#facs_260_r2l1 S06
+#facs_260_r2l2 505.
+#facs_260_r2l3 Wahrnen mit aufgesetzter Straff der Confisca
+#facs_260_r2l4 tion aller Ihrer Nahren ohne schonen gegen sich
+#facs_260_r2l5 verfahren werde, da der abtheilung halb der
+#facs_260_r2l6 Confiscationen wir es bey dem Inhalt dieses
+#facs_260_r2l7 wieder dergleichen Hußierer underem 13.
+#facs_260_r2l8 Julii 1698. außgangenen Mandat verbleiben,
+#facs_260_r2l9 laßend
+#facs_260_r2l10 Und damit diesere Unsere Ordnung desto
+#facs_260_r2l11 steiffer beobachtet werde, habend Wir guth be¬
+#facs_260_r2l12 funden, die Kauf manschafft selbsten zu auff¬
+#facs_260_r2l13 sehern zubestellen, welchen obligen soll, jeder
+#facs_260_r2l14 weilen die Transgressores Ihrem vorgesetzten Ambts¬
+#facs_260_r2l15 mann zu geordneter straff zu verleisen,
+#facs_260_r2l16 Die solchemnach befelchende, den Kauff Leüthen
+#facs_260_r2l17 Deines Ambts zu Insinuieren, daß sie dir auf
+#facs_260_r2l18 Ihrem Mittell Einige Vorschlagen Thüyind,
+#facs_260_r2l19 umb folglich die thüchtig findende Subiecta
+#facs_260_r2l20 zuerwehlen, und zu auffecheren zu bestellen;
+#facs_260_r2l21 3
+#facs_260_r2l22 Welch Unser Erneuwertes verpott
+#facs_260_r2l23 und Einsehen Du hiemit zu Mäniklichs Nach¬
+#facs_260_r2l24 richt von Cantzlen verkünden Zelaßen wüßen
+#facs_260_r2l25 dorf, datum d. 4 January 1712.

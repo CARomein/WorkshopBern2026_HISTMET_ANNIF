@@ -1,0 +1,112 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 104/105
+# High similarity (>=80%): 103
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4485
+#facs_204_region_1633453570896_2596l4 Ihnen die neue Verordnung wegen Ladung der
+#facs_7_region_1629821295051_30l1 Schultheiß und Rahts
+#facs_204_region_1633453575080_2599l2 Da die Führleute Unsere im Brechmonat 1773.
+#facs_204_region_1633453575080_2599l3 in Druk ausgegebene Verordnung welche die
+#facs_204_region_1633453575080_2599l4 Last bestimt, so über Unsere Straßen dürften
+#facs_204_region_1633453575080_2599l5 geführt werden, durch Abladung, und nach
+#facs_204_region_1633453575080_2599l6 vorbey gefahrner Zollstatt, wieder Aufladung.
+#facs_204_region_1633453575080_2599l7 eines Theils ihrer Waaren, auszubeichen suchen,
+#facs_205_region_1633453603065_2608l1 500
+#facs_205_region_1633453606409_2611l1 So haben Wir nöhtig erachtet, mitkommend
+#facs_205_region_1633453606409_2611l2 neue Verordnung zu machen; Welche Wir
+#facs_205_region_1633453606409_2611l3 Euch mit dem Befelch zusenden, selbige
+#facs_205_region_1633453606409_2611l4 öffentlich publicieren, an den gewohnten
+#facs_205_region_1633453606409_2611l5 Orten anschlagen und in das Mandaten durch
+#facs_205_region_1633453606409_2611l6 einschreiben zu laßen, und derselben in Vor¬
+#facs_205_region_1633453606409_2611l7 fallenheiten das Leben zu geben. Datl.
+#facs_205_region_1633453606409_2611l8 den 8ten Septembr. 1780
+#facs_28_r1l2 Verordnung.
+#facs_191_r4l11 Wir Schultheiß und Rast der Stadt
+#facs_205_region_1633453613640_2617l2 und Respubli dern, entbieten hiemit
+#facs_205_region_1633453613640_2617l3 allen und jeden Unseren Angehörigen zu
+#facs_205_region_1633453613640_2617l4 Stadt und Land Unseren gnädigen und
+#facs_205_region_1633453613640_2617l5 Wohlgeneigten Willen, und geben ihnen
+#facs_205_region_1633453613640_2617l6 dabey zu vernemen: Demnach uns ange¬
+#facs_205_region_1633453613640_2617l7 zeigt worden, daß zuwieder Unserer
+#facs_205_region_1633453613640_2617l8 Verordnung vom 24ten Brachmonat 1773.
+#facs_205_region_1633453613640_2617l9 welche die Ladung der Fuhrwecken mit Inn¬
+#facs_205_region_1633453613640_2617l10 Begriff des Wagens, auf 50 Centner bestimt,
+#facs_205_region_1633453613640_2617l11 die Fuhrleute sich erfrechen, bey Annäherung
+#facs_205_region_1633453613640_2617l12 der von uns errichteten Lastwagen oder
+#facs_205_region_1633453613640_2617l13 Romaines die Güterwagen abzuladen, und
+#facs_27_r1l1 50
+#facs_205_region_1633453617105_2620l1 die darauf geladene Waaren, auf mehrern
+#facs_205_region_1633453617105_2620l2 Wägen vertheilt, zu denen Wagen zu führen,
+#facs_205_region_1633453617105_2620l3 so dann nach der Abwägung solche von den
+#facs_205_region_1633453617105_2620l4 kleinen Fuhrwerben wieder auf die abgewoge¬
+#facs_205_region_1633453617105_2620l5 nen aufzuladen, und auf diese Weise gefähr¬
+#facs_205_region_1633453617105_2620l6 lich zum grösten Nachtheil der Straßen mit der
+#facs_205_region_1633453617105_2620l7 Fuhr der Waaren verfahren werde: So haben
+#facs_205_region_1633453617105_2620l8 Wir zu erhaltung der so bostbahren Landstraßen
+#facs_205_region_1633453617105_2620l9 und zu handhabung obbemelt Unsters fuhr¬
+#facs_205_region_1633453617105_2620l10 Mandats, diesem Verderblichen Mißbrauch¬
+#facs_205_region_1633453617105_2620l11 Einhalt zu thun, und ernstmeinend hierdurch
+#facs_205_region_1633453617105_2620l12 zu verbieten nöhtig erachtet, daß die Waaren
+#facs_205_region_1633453617105_2620l13 künftig von den Güter wägen nicht um- und
+#facs_205_region_1633453617105_2620l14 abgeladen, und bey Annäherung der Lastwagen
+#facs_205_region_1633453617105_2620l15 auf andere Fuhrwerk gelegt, und dann nochwärts
+#facs_205_region_1633453617105_2620l16 wieder auf die Güterwagen geladen werden
+#facs_131_r5l6 sollen.
+#facs_205_region_1633453617105_2620l18 Hingegen zu gebieten, daß jeder Fuhrmann,
+#facs_205_region_1633453617105_2620l19 nach Ausweis der Ladungskarten, so er
+#facs_205_region_1633453617105_2620l20 in den Kauf- und Waghaüsteren, Hattes
+#facs_205_region_1633453617105_2620l21 empfahet, ohne Vermind- oder veränderung
+#facs_205_region_1633453617105_2620l22 der aufgeladenen Waaren, nach seiner
+#facs_205_region_1633453617105_2620l23 Destination fahren, und nichts unterwegs¬
+#facs_205_region_1633453617105_2620l24 weder ablegen noch aufnehmen solle, als
+#facs_27_r1l1 50
+#facs_206_region_1633453645425_2635l1 Was er allenfalls durch die bey den
+#facs_206_region_1633453645425_2635l2 Wagen, oder Kaufhaüseren erhaltene
+#facs_206_region_1633453645425_2635l3 Ladezedel oder Fuhr Briefen wird bescheini¬
+#facs_206_region_1633453645425_2635l4 gen können, daß solches unterwegs habe
+#facs_206_region_1633453645425_2635l5 abgelegt, oder aufgenommen werden sollen,
+#facs_206_region_1633453645425_2635l6 damit alles Umladen der Waaren gänz¬
+#facs_206_region_1633453645425_2635l7 lich unterlaßen und vermitten bleibe,
+#facs_206_region_1633453645425_2635l8 daß solches nicht auf andere Wägen ver¬
+#facs_206_region_1633453645425_2635l9 theilt werden.
+#facs_206_region_1633453645425_2635l10 Wir verbieten daher auch jedermann,
+#facs_206_region_1633453645425_2635l11 zu solcher Umladung den Fuhrleuten einigen
+#facs_206_region_1633453645425_2635l12 Vorschub oder Hilf, auf was Art und Weise
+#facs_206_region_1633453645425_2635l13 es mier seye, zu thun: Alles, in Ansehen
+#facs_206_region_1633453645425_2635l14 des Fuhrmans, bey Straf von Fünf Bern
+#facs_206_region_1633453645425_2635l15 Pfund von jedem umgeladenen Centner
+#facs_206_region_1633453645425_2635l16 Waar, und in Ansehen derer, die ihm zu der
+#facs_206_region_1633453645425_2635l17 Abr oder Umladung behülflich gewesen, bey
+#facs_206_region_1633453645425_2635l18 Zwanzig Pfund per Wagen ohnnach läslicher
+#facs_206_region_1633453645425_2635l19 Ruß; darvon uns ein Drittel, dem Amts¬
+#facs_206_region_1633453645425_2635l20 mann ein Drittel, und dem Verleider nebst
+#facs_206_region_1633453645425_2635l21 geheimhaltung seiner Person, ein Drittel zu¬
+#facs_206_region_1633453645425_2635l22 kommen soll, mit befehl an Unsere Kaufhaus¬
+#facs_206_region_1633453645425_2635l23 verwalter und zollCommisen bey ihrer Pflicht
+#facs_206_region_1633453645425_2635l24 auf diese Umladung zu Sachen, und die
+#facs_27_r1l1 50
+#facs_206_region_1633453649280_2638l1 Fehlbaren ohne Schonen dem Richter des orts
+#facs_206_region_1633453649280_2638l2 zu verleiden; Insonderheit aber auf jedem
+#facs_206_region_1633453649280_2638l3 auszustellenden Aquit, oder Consignezedel
+#facs_206_region_1633453649280_2638l4 deutlich anzuzeigen, durch wie viel Wägen die
+#facs_206_region_1633453649280_2638l5 Waaren durchgeführt worden seyen. Damit
+#facs_206_region_1633453649280_2638l6 bey Abladung der Waar in den Kaufhaüsern,
+#facs_206_region_1633453649280_2638l7 Halles oder bey Absagung der Güterwagen,
+#facs_206_region_1633453649280_2638l8 die Anzahl der vorhandenen Wägen bemerbt,
+#facs_206_region_1633453649280_2638l9 und die Vermehrung derselben von den
+#facs_206_region_1633453649280_2638l10 Kaufhaus Bedienten oder Wagmeistern
+#facs_206_region_1633453649280_2638l11 angezeigt werden möge.
+#facs_206_region_1633453649280_2638l12 Endlich tragen Wir allen Unfern Amt¬
+#facs_206_region_1633453649280_2638l13 leüten und Officialen befelchlich auf, auf die
+#facs_206_region_1633453649280_2638l14 Befolgung dieser Unserer Verordnung genau
+#facs_206_region_1633453649280_2638l15 zu achten, und die Fehlbaren mit der darauf
+#facs_206_region_1633453649280_2638l16 gesezten duß zu bestraffen; zu dem Ende dann
+#facs_206_region_1633453649280_2638l17 solche zu Jedermanns Nachricht offentlich von
+#facs_206_region_1633453649280_2638l18 Canzeln verbunden, und behörigen Orts anschla¬
+#facs_206_region_1633453649280_2638l19 gen zu lesen. Geben den 8ten Herbsten: 1780.
+#facs_250_r1l72 solchen
+#facs_207_region_1633453673945_2655l1 Fraduction
+#facs_178_r8l1 en

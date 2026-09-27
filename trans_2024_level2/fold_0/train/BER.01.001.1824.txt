@@ -1,0 +1,54 @@
+Law ID: BER.01.001.1824
+Name: Ihnen das Trostbüchlein für die Kranknen überschicken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 43/43
+# High similarity (>=50%): 43
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_210_r3l11 In nach volgende Ohrt: Ihnen
+#facs_210_r3l12 das Trost Zürchlin, für die Krankern
+#facs_210_r3l13 vberschiken.
+#facs_210_r3l14 Schultheis undt Kgl.
+#facs_210_r3l15 Diewylen nun stärbend Zeiten
+#facs_210_r3l16 den Predikanten vnmuglich hält, sich bey einem Jeden krankung
+#facs_210_r3l17 vnndt sterbenden zuzubefinden, denselben zetrösten, So
+#facs_210_r3l18 Habend wie, damit es an solchem Trost, um andere Weg mit
+#facs_210_r3l19 ermangle, ein gute begrifliche form auf setzen laßen,
+#facs_210_r3l20 den kranknen von den Ihrigen selbst, drostlich zu der
+#facs_210_r3l21 seelen Heil, könne zu gesprochen werden: Undt aber
+#facs_210_r3l22 schikendt der hiemit Eykommende anzahl getrukter
+#facs_210_r3l23 Exemplaren, solche unter deme Ambts angehörige, son=
+#facs_210_r3l24 stellich da brauene sein mögen, so weit sie gelangen, auß
+#facs_210_r3l25 zutheile: Mit der Vermahnung, sich deren ge¬
+#facs_210_r3l26 bürendt Undt angelegenlich zugebrauchen, Wie wir und
+#facs_210_r3l27 versächendt. Jätz. 19. Octobr. 1667
+#facs_210_r3l28 Wangen, 50.
+#facs_210_r3l29 Arauw - 50
+#facs_210_r3l30 Arwangen 40
+#facs_210_r3l31 Brugg. 40
+#facs_210_r3l32 Vipp.. 30
+#facs_210_r3l33 Lentzburg 40
+#facs_210_r3l34 Arburg:-100
+#facs_210_r3l35 Lentzb. prof. 100
+#facs_210_r3l36 Hoffingen 50
+#facs_210_r3l37 Königsfelsen 40.
+#facs_210_r3l38 Schenkenb. 120
+#facs_210_r3l39 Viberstein. 40
+#facs_210_r4l1 An die Herren Decanen zur Statt
+#facs_210_r4l2 vnndt Landt die gebäts form, Im
+#facs_210_r4l3 Pestzeit, Überschiken.
+#facs_210_r4l4 Schultheis vnndt kl. Was für eine Clausul umb
+#facs_210_r4l5 Coll
+#facs_210_r4l6 abwendung der ynryßenden Pestilentz Straff wir
+#facs_210_r4l7 dem täglichen Kirchen- undt gemeinen geböt, Inruken
+#facs_210_r4l8 laßen, die habendt wir auch auf das Landt, undt hiemit
+#facs_210_r4l9 beykommende anzahl getrukter Exemplaren, sich zu
+#facs_210_r4l10 dem endt überschiken möllen, das ihr einem jeden Ca¬
+#facs_210_r4l11 pitularen eins daruon zu ertheilen habindt, sich
+#facs_210_r4l12 deren im gewohnten Kirchen gebätt, nach bey gesetzter
+#facs_210_r4l13 anleitung, zugebrauchen. Als wir vnnd versächendt
+#facs_210_r4l14 Dath 19. Octobr. 1667

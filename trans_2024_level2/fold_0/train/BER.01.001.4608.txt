@@ -1,0 +1,2797 @@
+Law ID: BER.01.001.4608
+Name: Eegerichts Sazungen für die Stadt Bern und dero Lande.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 2786/2786
+# High similarity (>=50%): 2662
+# Low similarity (<50%): 124
+# Not found: 0
+#
+#facs_4_r1l9 Begerichts Salungen
+#facs_4_r1l10 11
+#facs_4_r1l11 die Stadt Bern
+#facs_4_r1l12 un
+#facs_4_r1l13 Dero Lande.
+#facs_4_r1l14 Wix Schultheiß klein
+#facs_4_r1l15 und große Rähte der Stadt und
+#facs_4_r1l16 Republik Bern, entbieten allen Unseren
+#facs_4_r1l17 Kur gern und Angehörigen in Unstern
+#facs_4_r1l18 Städten und Landen, und ins besondere
+#facs_4_r1l19 Unsern Ober= und Unteramtleuten
+#facs_4_r1l20 Pferrern und Ehrnrichtern Unserm
+#facs_4_r1l21 gnädigen und geneigten Willen,
+#facs_4_r2l1 3.
+#facs_4_r2l2 und geben ihnen dabey zu ver¬
+#facs_4_r2l3 nemmen.
+#facs_4_r2l4 Daß Wir aus verschiedenen höchst¬
+#facs_4_r2l5 wichtigen Gründen nöhtig befunden,
+#facs_4_r2l6 Unsere bisherige Ehegrichts-Satzung und
+#facs_4_r2l7 dahin einschlagende Sitten = Mandate
+#facs_4_r2l8 auf ein frisches zu untersuchen,
+#facs_4_r2l9 und in eint- und andern Stücken ab
+#facs_4_r2l10 zuändern und zu verbessern, Wir
+#facs_4_r2l11 diese gegenbärtige neue Ehegerichts¬
+#facs_4_r2l12 kazung zu genauer Verbachtung für
+#facs_4_r2l13 Unsere teutsche und welsche Lande
+#facs_4_r2l14 vorgeschrieben haben, in der Absicht.
+#facs_4_r2l15 daß die sostchädlichen Folgen des
+#facs_4_r2l16 Lasters der Unreinigkeit, die
+#facs_4_r2l17 Menge der Rastarden, und die
+#facs_4_r2l18 den Gemeinden obliegend lästende
+#facs_4_r2l19 Erhaltung derselben vermindert, die
+#facs_4_r2l20 Ehen befördert, die Eltern zu storg¬
+#facs_4_r2l21 fältigerer Aufsicht über ihre Kinder,
+#facs_4_r2l22 und diese zu einem sichtlichern
+#facs_4_r2l23 Wandel erlebt, daß durch die
+#facs_4_r2l24 Unserm Obern Ehegricht und unsern
+#facs_4_r2l25 Chorgerichten in Untern Städten.
+#facs_5_r2l1 und 3 den ertheilte mehrere Ge-
+#facs_5_r2l2 erwult, ihr ansehen befestiget und
+#facs_5_r2l3 Die Regiström in ihrer Weitläufig
+#facs_5_r2l4 beit und Kostbarkeit eingezielet,
+#facs_5_r2l5 das durch die Verringerung der
+#facs_5_r2l6 Zu strengen Strafgesezen, der
+#facs_5_r2l7 Verheimlichung der Fehlbaren vor
+#facs_5_r2l8 gebogen, und durch die, nun mögliche
+#facs_5_r2l9 pünktliche Erfüllung derselben, das
+#facs_5_r2l10 Ansehen der Gesezen unverlezt,
+#facs_5_r2l11 beybehalten; daß durch die Ver¬
+#facs_5_r2l12 minderung der Eiden, dem leicht¬
+#facs_5_r2l13 finnigen Eydschlören und der Unter¬
+#facs_5_r2l14 drükung des unschuldigen gesteuert
+#facs_5_r2l15 berde.
+#facs_5_r2l16 Bey diesen Unstern besten Ab¬
+#facs_5_r2l17 sichten erflehen und erbarten Wir
+#facs_5_r2l18 zuversichtlich den göstlichen Gegen¬
+#facs_5_r2l19 und befehlen Unsern Amtleuten
+#facs_5_r2l20 Pfarrern und Chorrichtern bey¬
+#facs_5_r2l21 ihren Eyden und Pflichten, sich nach
+#facs_5_r2l22 dieser Unserer neuen Satzung,
+#facs_5_r2l23 welche auf den nachstbevorstehenden
+#facs_5_r2l24 1. Maymonats ihren Anfang
+#facs_5_r3l1 nehmen soll, zu richten, und selbige
+#facs_5_r3l2 in allen ihren Vorstchrifften getreu¬
+#facs_5_r3l3 zu erfüllen.
+#facs_5_r3l4 Allsto zum leztenmal beschloßen
+#facs_5_r3l5 und erkennet in Unserer Großen
+#facs_5_r3l6 Rahtsverfammlung den 25ten Jänner 1787.
+#facs_5_r3l7 Erster-Artel
+#facs_5_r3l8 von den Eheversprechungen.
+#facs_5_r3l9 Erste Sasung.
+#facs_5_r3l10 V.A.
+#facs_5_r3l11 Eine rechtsgültige Eheversprechung
+#facs_5_r3l12 ist ein, zwischen zweyen freyen Per¬
+#facs_5_r3l13 sonen, entweder schriftliches, oder in
+#facs_5_r3l14 Gegenbart zweyer unverberflicher
+#facs_5_r3l15 Zeugen mündlich geschehenes ver¬
+#facs_5_r3l16 Freihen einer künftigen Heyrath.
+#facs_5_r3l17 J. 2.
+#facs_5_r3l18 Wann über eine Eheversprechung
+#facs_5_r3l19 Streit entsteht, soll die klagende
+#facs_5_r3l20 Parthey ihre Ansprache entweder,
+#facs_6_r2l1 durch eine schriftliche Eheversprechung
+#facs_6_r2l2 oder durch zwey unverkaufliche
+#facs_6_r2l3 Zeugen, beweisen.
+#facs_6_r2l4 J. 3.
+#facs_6_r2l5 eine ehrliche Weibsperson über,
+#facs_6_r2l6 die nach der 8ten Salzung des 3. Titels
+#facs_6_r2l7 von guten Leumden ist, und nebst
+#facs_6_r2l8 der Eheansprache zugleich die
+#facs_6_r2l9 Schlängerung klagt: soll an obiges
+#facs_6_r2l10 vollständige Rebeisthum nicht ge¬
+#facs_6_r2l11 bunden seyn; sondern kenn die
+#facs_6_r2l12 Schlängerung von dem Beklagten
+#facs_6_r2l13 eingestanden, oder auf ihn erwiesen
+#facs_6_r2l14 ist, und die Klägerin dem Eherichter
+#facs_6_r2l15 wahrscheinlich erzeigen kann: daß
+#facs_6_r2l16 sie durch mündliche Zufage und
+#facs_6_r2l17 Versprechung einer künftigen Hey¬
+#facs_6_r2l18 rath, oder durch empfangene Ehe
+#facs_6_r2l19 pfänder, beredt; und entbeders
+#facs_6_r2l20 bey den Ihrigen, oder in einem
+#facs_6_r2l21 ehrlichen Dienst und Seruf, zum
+#facs_6_r2l22 der
+#facs_6_r2l23 fall gebracht worden sey.
+#facs_6_r2l24 Reklagte dann seines eigenen
+#facs_6_r3l1 Rechtens, und mit der Klägerin
+#facs_6_r3l2 gleichen Standes ist, so soll es an
+#facs_6_r3l3 des Oberen Ehegrichts Erkäntniß
+#facs_6_r3l4 stehen, den Beklagten entbeder¬
+#facs_6_r3l5 zur Heyrath oder zu einer ange¬
+#facs_6_r3l6 meßenen Entschädniß anzuhalten
+#facs_6_r3l7 Alles aber sub Beneficio recursus
+#facs_6_r3l8 vor Unsern täglichen Rath.
+#facs_6_r3l9 II. Dasung.
+#facs_6_r3l10 Von der Minderzährigkeit,
+#facs_6_r3l11 und dem Zugrecht
+#facs_6_r3l12 J. 1
+#facs_6_r3l13 Eine Eheversprechung ist ungültig
+#facs_6_r3l14 wenn sie ohne Vorbissen des¬
+#facs_6_r3l15 Vaters, oder deren, die en vaters
+#facs_6_r3l16 stadt sind, als der Mutter, Groß¬
+#facs_6_r3l17 vater, Großmutter, vögten
+#facs_6_r3l18 oder nächsten verbandten gemacht
+#facs_6_r3l19 bird, ehe der Knab und das Mägd¬
+#facs_6_r3l20 fein, das vier und swanzigste
+#facs_6_r3l21 Jahr ihres Alters angetreten, in
+#facs_7_r1l1 Enlischen Falle die genannten Personen
+#facs_7_r1l2 vor diesem Jahre das Recht haben
+#facs_7_r1l3 eine solche Eheversprechung zu hindern
+#facs_7_r1l4 und thu geruchten, beim selbige schon
+#facs_7_r1l5 mit der Schwängerung begleitet
+#facs_7_r1l6 bäre.
+#facs_7_r1l7 §. 2.
+#facs_7_r1l8 Neben obigen Personen gebührt
+#facs_7_r1l9 auch das zugrecht den Gesellschaften
+#facs_7_r1l10 in der Stadt, und den Ehrbarbeiten
+#facs_7_r1l11 Namens der Gemeinden auf dem
+#facs_7_r1l12 Lande, gegen diejenigen ihrer
+#facs_7_r1l13 angehörigen, die das Allmosten
+#facs_7_r1l14 von ihnen empfangen, benn sie
+#facs_7_r1l15 schon das bestimte mehrjährige
+#facs_7_r1l16 Alter erreicht haben, auch gegen
+#facs_7_r1l17 die, so zwar das Allmosen nicht
+#facs_7_r1l18 mehr genießen, die aber darum
+#facs_7_r1l19 erzogen worden, und das mehr
+#facs_7_r1l20 jährige Alter noch nicht erreicht
+#facs_7_r1l21 haben.
+#facs_7_r1l22 J. 3.
+#facs_7_r1l23 Das Zugrecht gebührt den Eltern
+#facs_7_r1l24 und GroßEltern, ohne daß Sie die
+#facs_7_r2l1 9.
+#facs_7_r2l2 Gründe des Zugs dem Obern Ehe
+#facs_7_r2l3 gericht anzugeben schuldig seyn sollen.
+#facs_7_r2l4 Vögte und nächste Verwandte über
+#facs_7_r2l5 des gleichen die Gestellschaften und
+#facs_7_r2l6 Ehrbarkeiten, sollen ihre Gründe dem
+#facs_7_r2l7 selben vorlegen, und deßen Urteil
+#facs_7_r2l8 erwarten.
+#facs_7_r2l9 §. 4.
+#facs_7_r2l10 Nach obbestintem Jahre hat das
+#facs_7_r2l11 Zugrecht nicht mehr Plaz; äußert
+#facs_7_r2l12 in dem durch den §. 2. bestimmten
+#facs_7_r2l13 falle; und falls die Eltern ihren
+#facs_7_r2l14 Kinder durch Verbeigerung einer
+#facs_7_r2l15 billigen Ehesteuer, oder aus andern
+#facs_7_r2l16 Ursachen, an einer ehelichen Heyrath
+#facs_7_r2l17 hindern wollten, soll selbige nichts
+#facs_7_r2l18 desto weniger ihren Fortgang¬
+#facs_7_r2l19 haben, und in diesem Falle Unserm
+#facs_7_r2l20 täglichen Rath die Restimmung
+#facs_7_r2l21 einer solchen billigen Ehesteur
+#facs_7_r2l22 überlaßen seyn.
+#facs_7_r2l23 §5.
+#facs_8_r2l1 I.5.
+#facs_8_r2l2 Wer jemanden zu ungültigen;
+#facs_8_r2l3 Eheversprechungen bereden, und ein¬
+#facs_8_r2l4 fuhren würde, der soll, nach Wichtig¬
+#facs_8_r2l5 beit der Lache und Unsters täglichen
+#facs_8_r2l6 Rahts Erkäntnis, gestraft werden.
+#facs_8_r2l7 §. 6.
+#facs_8_r2l8 Die Strafe derjenigen hingegen,
+#facs_8_r2l9 Die wieder ihrer Eltern Willen und
+#facs_8_r2l10 zugrecht in einer, unter obbe¬
+#facs_8_r2l11 stimtem Alter bezogenen Ehe bleiben
+#facs_8_r2l12 und hierinn vater und Mutter nicht
+#facs_8_r2l13 gehorsam seyn wollten, ist durch
+#facs_8_r2l14 die Gerichtssezung fol. 139. 1. Satzung,
+#facs_8_r2l15 und den Contumier Fol. 309. 6. Satzung
+#facs_8_r2l16 bestimt.
+#facs_8_r2l17 III. Dasung.
+#facs_8_r2l18 von dem mannbaren Alters.
+#facs_8_r2l19 id. 1.
+#facs_8_r2l20 Eine Ehe versprechung ist ungültig,
+#facs_8_r3l1 11.
+#facs_8_r3l2 benn das mannbere Alter fehlt, mit¬
+#facs_8_r3l3 hin der Knabe nicht das sechs Zehende
+#facs_8_r3l4 und das Mägdlein das vierzehende
+#facs_8_r3l5 Jahr zurückgelegt hat, beim schon
+#facs_8_r3l6 die Einbilligung derer, denen das
+#facs_8_r3l7 zugrecht zukomt, vorhanden wäre.
+#facs_8_r3l8 §. 2.
+#facs_8_r3l9 Ist die fleischliche Vermischung
+#facs_8_r3l10 dazwischen gekommen, soll selbige gesetzlich
+#facs_8_r3l11 bestraft werden. Ist aber birklich
+#facs_8_r3l12 eine Schwängerung erfolget, so stest
+#facs_8_r3l13 es an dem Obern Ehegricht, die
+#facs_8_r3l14 Vollziehung der Ehe zu bewilligen,
+#facs_8_r3l15 die Übertrecter aber deßen ohn¬
+#facs_8_r3l16 geacht, je nach Wichtigkeit des Feh¬
+#facs_8_r3l17 lers zu strafen.
+#facs_8_r3l18 IV. Dasung.
+#facs_8_r3l19 Von der geswungenen Einwilligung
+#facs_8_r3l20 J. A.
+#facs_8_r3l21 Eine Eheversprechung ist ungültig,
+#facs_9_r3l1 dann ein Theil von den Eltern
+#facs_9_r3l2 verwandten, vögten oder Früsten
+#facs_9_r3l3 durch harte Bedrohungen, Schläge
+#facs_9_r3l4 oder andere Mißhandlungen dafür
+#facs_9_r3l5 gehbungen, und solche Gebalt dem
+#facs_9_r3l6 Obern Ehegricht angezeigt und be¬
+#facs_9_r3l7 wiesen wird.
+#facs_9_r3l8 I. 2.
+#facs_9_r3l9 Wenn aber eine Schbängerung¬
+#facs_9_r3l10 fanden, und der Reyschlaf einge¬
+#facs_9_r3l11 standen, oder die Ehe wirklich vol=
+#facs_9_r3l12 zogen bäre, so kann kein Zwang
+#facs_9_r3l13 mehr geklagt werden.
+#facs_9_r3l14 Den Fall der gewaltsamen
+#facs_9_r3l15 Entführung jedoch ausgenommen
+#facs_9_r3l16 deren Restrafung, als eines¬
+#facs_9_r3l17 schweren Exminalverbrechens,
+#facs_9_r3l18 Wir uns und Unserm täglichen
+#facs_9_r3l19 Rath vorbehalten.
+#facs_9_r3l20 5. Diesung.
+#facs_9_r4l1 Dasung.
+#facs_9_r4l2 Von den verbotenen Braden
+#facs_9_r4l3 der
+#facs_9_r4l4 Verwandtschaft und andern
+#facs_9_r4l5 verbotenen Fallen.
+#facs_9_r4l6 S. A.
+#facs_9_r4l7 Eine Eheversprechung ist ungültig
+#facs_9_r4l8 benn die Personen in verbotenem
+#facs_9_r4l9 Brad der Plutsfreundschaft oder
+#facs_9_r4l10 Schlägerschaft, oder in andern
+#facs_9_r4l11 hienach verbotenen Fällen gegen
+#facs_9_r4l12 einander stehen.
+#facs_9_r4l13 Daher soll ein Knab oder Wirtber
+#facs_9_r4l14 sich in kein Eheversprechen ein¬
+#facs_9_r4l15 laßen,
+#facs_9_r4l16 wegen naber Blutsfreundschaft:
+#facs_9_r4l17 seiner Mutter, Großmutter u. s. f.
+#facs_9_r4l18 mit
+#facs_9_r4l19 Meiner Tochter, Großtochter u. s. f.
+#facs_9_r4l20 seiner Schwester von Vater u.
+#facs_9_r4l21 und Muster, oder von einem
+#facs_9_r4l22 Theil allein.
+#facs_9_r4l23 seines Vaters, Großvaters u.s.f.
+#facs_9_r4l24 Schbester.
+#facs_9_r4l25 seiner Mutter, Großmutter u. s. P. Schlester.
+#facs_10_r3l1 mit seines Bruders, Halbbanders Tochter
+#facs_10_r3l2 Gros tochter.
+#facs_10_r3l3 seiner
+#facs_10_r3l4 Schwester, halb Schwester¬
+#facs_10_r3l5 Tochter, Groß Tochter.
+#facs_10_r3l6 wegen Schwagerschaft.
+#facs_10_r3l7 nit seiner Stiefmutter, Stiefgroß
+#facs_10_r3l8 mutter, u. s. f.
+#facs_10_r3l9 seiner Stieftochter, Stiefgroß¬
+#facs_10_r3l10 Tochter u. s. f.
+#facs_10_r3l11 seiner Schwieger, Großchlinge
+#facs_10_r3l12 n. s. f.
+#facs_10_r3l13 seines Sohns, Großbohns Witbe.
+#facs_10_r3l14 seines Truders, Halbbruders¬
+#facs_10_r3l15 Wirtbe.
+#facs_10_r3l16 seines Vaters Bruders Witbe.
+#facs_10_r3l17 seiner Mutter Bruders Witbe.
+#facs_10_r3l18 seines Weibs Schwester halb
+#facs_10_r3l19 Schwester.
+#facs_10_r3l20 seines Stiefvaters Wittbe.
+#facs_10_r3l21 seines Weibs Stiefmutter.
+#facs_10_r3l22 Eus p
+#facs_10_r5l1 15
+#facs_10_r5l2 Das Magdlein oder Wittwe
+#facs_10_r5l3 wegen näher Blutvfreundschafft.
+#facs_10_r5l4 nicht mit ihrem Vatter Großvater
+#facs_10_r5l5 s. f.
+#facs_10_r5l6 mit ihrem Sohn, Großsohn
+#facs_10_r5l7 u. s. f.
+#facs_10_r5l8 ihrem Stauder von Vater und
+#facs_10_r5l9 Mutter, oder von einem
+#facs_10_r5l10 Theil allein.
+#facs_10_r5l11 ihres Vaters, Großvaters
+#facs_10_r5l12 Bruders.
+#facs_10_r5l13 ihrer Mutter, Broßmutter
+#facs_10_r5l14 Bruder.
+#facs_10_r5l15 ihres Bruders, halbbruders
+#facs_10_r5l16 Rohn, Großsohn u. s. f.
+#facs_10_r5l17 ihrer Schwester, halb Schbester
+#facs_10_r5l18 Sohn, GroßSohn u. s. f.
+#facs_10_r5l19 wegen Schwägerschafft.
+#facs_10_r5l20 mit ihrem Stiefvater, Stiefgroß¬
+#facs_10_r5l21 vater. inst. f.
+#facs_10_r5l22 ihrem Stiefkohn, Stiefgroß-
+#facs_10_r5l23 sohn u. s. f.
+#facs_10_r5l24 ihrem Schlächer, Groß-
+#facs_10_r5l25 Schbücher u. s. f.
+#facs_11_r2l1 einen Tochter, Großtochter
+#facs_11_r2l2 nicht mit
+#facs_11_r2l3 Wittler
+#facs_11_r2l4 ihrer Schwester, Hall Schwester
+#facs_11_r2l5 Wittler.
+#facs_11_r2l6 ihres Vaters Schwester Wittler.
+#facs_11_r2l7 ihrer Mutter Schwester Wittber
+#facs_11_r2l8 ihres Mannes Bruder.
+#facs_11_r2l9 ihrer Stiefmutter Witber.
+#facs_11_r2l10 ihres Manns Stiefvater.
+#facs_11_r2l11 §. 2.
+#facs_11_r2l12 In allen obigen Fällen, es sey
+#facs_11_r2l13 das die Verwandtschaft von ehe
+#facs_11_r2l14 licher Vermahlung, oder von unehe
+#facs_11_r2l15 lichem Beyschlaf, auch von einem
+#facs_11_r2l16 oder beyden Randen zugleich her¬
+#facs_11_r2l17 komme, ist das Eheverstprechen, ob-
+#facs_11_r2l18 gleich eine fleischliche Vermischung,
+#facs_11_r2l19 oder selbst die Vollziehung der Ehe
+#facs_11_r2l20 dazu gekommen wäre, nicht nur
+#facs_11_r2l21 ungültig, sondern es soll selbiges
+#facs_11_r2l22 als eine Plutschande, oder sonst
+#facs_11_r2l23 schobenes verbrechen, von uns
+#facs_11_r2l24 der Obrigkeit, an Leib, Ehr und
+#facs_11_r3l1 17
+#facs_11_r3l2 Gut, auch nach den Umständen
+#facs_11_r3l3 am Leben gestraft werden.
+#facs_11_r3l4 §.3
+#facs_11_r3l5 Neben obigen verbotenen Graden
+#facs_11_r3l6 der Bluts Freundschaft und der
+#facs_11_r3l7 Schwägerschaft, sind auch ungültig
+#facs_11_r3l8 die Eheversprechungen zbischen
+#facs_11_r3l9 Geschwisterten Kindern vom ge¬
+#facs_11_r3l10 blüte, und soll derselben Vollziehung
+#facs_11_r3l11 in Unstern Landen gäntzlich ver¬
+#facs_11_r3l12 boten seyn.
+#facs_11_r3l13 Würden aber solche Personen
+#facs_11_r3l14 äußert unstern Landen sich ehelich
+#facs_11_r3l15 einsegnen laßen, so soll ihnen vor
+#facs_11_r3l16 Auslauf vier Jahren kein Acces
+#facs_11_r3l17 zur Rückkehr gestactet, nach dieser
+#facs_11_r3l18 Zeit aber auf allfällig erhaltenden
+#facs_11_r3l19 Acces zur Begnadigung, die fernere
+#facs_11_r3l20 Bestrafung an Leib, Ehre und
+#facs_11_r3l21 Gut, je nach den Umständen
+#facs_11_r3l22 der Fehlbaren, von uns bestimt
+#facs_11_r3l23 werden.
+#facs_12_r3l1 §. 4.
+#facs_12_r3l2 Es sind auch ungültig und verboten,
+#facs_12_r3l3 die Eheversprechungen eines Wittbres
+#facs_12_r3l4 mit seines verstorbenen Eheweibs
+#facs_12_r3l5 Bruders oder Schbester Tochter,
+#facs_12_r3l6 und einer Wittbe und ihres
+#facs_12_r3l7 verstorbenen Ehemanns Bruders
+#facs_12_r3l8 oderlich bester dohn.
+#facs_12_r3l9 §. 5.
+#facs_12_r3l10 Eine Eheversprechung ist ungültig
+#facs_12_r3l11 und gänzlich verboten, in die ein¬
+#facs_12_r3l12 Ehemann oder ein Eheweib, während
+#facs_12_r3l13 der Ehe, von der Scheidigung, oder
+#facs_12_r3l14 von dem Tod seines Ehegarten, sich
+#facs_12_r3l15 mit einem andern einlässt, zu
+#facs_12_r3l16 malen die Ehe zwischen solchen
+#facs_12_r3l17 perstonen nachher niemals ge¬
+#facs_12_r3l18 tritet, und der Beyschlaf, so
+#facs_12_r3l19 einiger unterlofen wäre, nach
+#facs_12_r3l20 der bezung gestraft werden
+#facs_12_r3l21 soll.
+#facs_12_r3l22 §.6.
+#facs_12_r4l1 19
+#facs_12_r4l2 §. 6.
+#facs_12_r4l3 Eine Cheversprechung ist ungültig
+#facs_12_r4l4 und gleichfalls verbotten, in die ein¬
+#facs_12_r4l5 Wittber oder Wittbesich einlässt,
+#facs_12_r4l6 mit demjenigen, mit dem stie¬
+#facs_12_r4l7 sich vor, oder während der Ehe-
+#facs_12_r4l8 in Hurey oder Ehebruch vergangen,
+#facs_12_r4l9 /: es komme vor den Eherichter oder
+#facs_12_r4l10 nicht) oder sonst einen so verdächtigen
+#facs_12_r4l11 Umgang gepflogen hädte, daß
+#facs_12_r4l12 das einte Ehegemahl sich darüber
+#facs_12_r4l13 vor dem Richter zu beklagen.
+#facs_12_r4l14 gezwungen worden wäre; es sey
+#facs_12_r4l15 nun, daß das einte der Eheleute
+#facs_12_r4l16 absterbe, oder daß die Scheidigung
+#facs_12_r4l17 von dieses falls wegen, oder
+#facs_12_r4l18 sonst geschehe.
+#facs_12_r4l19 I. 7.
+#facs_12_r4l20 Wenn zwo Personen im ledigen
+#facs_12_r4l21 Stande uneheliche Frucht mit ein¬
+#facs_12_r4l22 ander erzeugt, und nachberts eine
+#facs_12_r4l23 jede sich anderwerts verehelichet,
+#facs_12_r4l24 und in solchem Ehestand Kinder
+#facs_13_r3l1 bekommen, so sollen diese eheliche
+#facs_13_r3l2 Kinder einander nicht heyrahten
+#facs_13_r3l3 können.
+#facs_13_r3l4 §. 8.
+#facs_13_r3l5 Eine Eheversprechung ist ungültig
+#facs_13_r3l6 in die eine Wittbe sich vor Ver¬
+#facs_13_r3l7 fließung eines Jahrs, von dem
+#facs_13_r3l8 tod ihres abgestorbenen Ehemanns
+#facs_13_r3l9 an zu rechenen, mit einem andern
+#facs_13_r3l10 einlässt.
+#facs_13_r3l11 §. 9.
+#facs_13_r3l12 Die Ehe mit römisch-katholischen
+#facs_13_r3l13 Weibspersonen bleibt in Unserg
+#facs_13_r3l14 Landen gänzlich verboten.
+#facs_13_r3l15 Sollte aber Jemand von Unsern
+#facs_13_r3l16 Rurgern oder Angehörigen sich
+#facs_13_r3l17 äußert Unsern Landen mit einer
+#facs_13_r3l18 solchen Person ehelich einsernen
+#facs_13_r3l19 laßen, so soll er sein Vaterland
+#facs_13_r3l20 samt allem daher inn- oder äußert
+#facs_13_r3l21 Lands fließenden Genuß verbirkt
+#facs_13_r3l22 haben; auch sein habendes Gut
+#facs_13_r3l23 zu Unsern obrigkeitlichen Handen
+#facs_13_r3l24 confisciert, er aber inskünftige
+#facs_13_r4l1 21.
+#facs_13_r4l2 in Unsern Landen etwas zu erben
+#facs_13_r4l3 unfähig seyn.
+#facs_13_r4l4 VI. Salung.
+#facs_13_r4l5 Von Krankheiten und Leiber
+#facs_13_r4l6 gebrechen.
+#facs_13_r4l7 S. A.
+#facs_13_r4l8 Eine Eheverstrechung ist ungültig
+#facs_13_r4l9 benn ein Theil mit einer anstekenden
+#facs_13_r4l10 unheilbaren und erblichen Krankheit,
+#facs_13_r4l11 oder mit der Fallenden Cucht, oder
+#facs_13_r4l12 mit der Unvermöglichkeit behaftet
+#facs_13_r4l13 ist.
+#facs_13_r4l14 Oder auch durch einen zufall
+#facs_13_r4l15 nach dem Ehe verstrechen, aber vor
+#facs_13_r4l16 Einsegnung der Ehe, des Verstands¬
+#facs_13_r4l17 beraubt, oder an einem Glied ge¬
+#facs_13_r4l18 stümmelt oder gelähmt wird, so daß
+#facs_13_r4l19 inert Jahr und Tag keine Hofnung
+#facs_13_r4l20 zur Genesung ist, und allso ein
+#facs_13_r4l21 Theil zur ehelichen Pflicht, oder sonst,
+#facs_13_r4l22 entüchtig wird, dem andern sein Tred zu verschaffen.
+#facs_14_r3l1 §. 2.
+#facs_14_r3l2 Der Bundes- Taub= und Stunigebohrl
+#facs_14_r3l3 halb, desgleichen derer, die mit
+#facs_14_r3l4 Glödstund behaftet sind, ist Unserm
+#facs_14_r3l5 Obern Ehegricht der Entscheid über¬
+#facs_14_r3l6 laßen, in wie weitselbige ihrer
+#facs_14_r3l7 Vernunft mächtig, oder sonsten
+#facs_14_r3l8 fähig seyen, ein gültiges Ehever
+#facs_14_r3l9 sprechen einzugehen.
+#facs_14_r3l10 VII. Dasung.
+#facs_14_r3l11 von betrüglichen Eheversprechungen.
+#facs_14_r3l12 §.1.
+#facs_14_r3l13 Eine Eheversprechung ist ungültig,
+#facs_14_r3l14 benn Betrug dabey unterlauft;
+#facs_14_r3l15 daher soll selbige nicht faften, beim
+#facs_14_r3l16 im Theil wirklich eine gültige Ehe
+#facs_14_r3l17 Versprechung mit einer andern
+#facs_14_r3l18 Persohn eingegangen wäre.
+#facs_14_r3l19 §. 2
+#facs_14_r3l20 Wenn aber oder mehrere, durch Schriften
+#facs_14_r4l1 23
+#facs_14_r4l2 oder Zeugen, nach der ersten Satzung
+#facs_14_r4l3 bewiesene Eheversprechungen, vor dem
+#facs_14_r4l4 Obern Ehegricht in Vorschein kommen
+#facs_14_r4l5 soll die erste und älteste allein
+#facs_14_r4l6 gültig seyn, kenn schon die andern
+#facs_14_r4l7 mit der Schwangerschaft begleitet,
+#facs_14_r4l8 hären. Noch soll diesen leztern
+#facs_14_r4l9 -
+#facs_14_r4l10 betrogenen Personen, beim sie
+#facs_14_r4l11 unschuldig, und von der ersten
+#facs_14_r4l12 Versprechung keine Wissenschaft
+#facs_14_r4l13 gehabt haben, billige Rechnung
+#facs_14_r4l14 getragen und der Betrüger zu
+#facs_14_r4l15 gebührender Genugthuung und
+#facs_14_r4l16 Strafe gezogen werden.
+#facs_14_r4l17 Halls aber die Erstverlobte
+#facs_14_r4l18 von ihrer Eheversprechung frey¬
+#facs_14_r4l19 willig abstünde, soll der getrüger
+#facs_14_r4l20 darum nicht frey seyn; sondern
+#facs_14_r4l21 in diesem Fall die zweyte Ehe
+#facs_14_r4l22 versprechung und so beiters kräftig
+#facs_14_r4l23 seyn, und er zu deren Vollziehung
+#facs_14_r4l24 angehalten seyn.
+#facs_14_r4l25 Die billige Genugthuung aber für
+#facs_14_r4l26 den betargenen Theil, und die Strafe
+#facs_15_r3l1 für den Betrüger, soll von dem
+#facs_15_r3l2 Obern Ehegricht Unserm täglichen
+#facs_15_r3l3 Rath vorgetragen, und von diesen
+#facs_15_r3l4 nach Wichtigreit der Sache und große
+#facs_15_r3l5 des Verbrechens, an Ehre, Leib¬
+#facs_15_r3l6 oder Gut, bestimt werden.
+#facs_15_r3l7 VIII. Dasung.
+#facs_15_r3l8 Von der Vollziehung der Ehe.
+#facs_15_r3l9 I. 1.
+#facs_15_r3l10 Die Ehe oder Heyrath, ist die Vereini¬
+#facs_15_r3l11 gung eines Manns und eines Weibes
+#facs_15_r3l12 in der Absicht, Zeit Lebens bey ein
+#facs_15_r3l13 ander zu wohnen, Glük und Un¬
+#facs_15_r3l14 glick gemeinschaftlich zu ertragen,
+#facs_15_r3l15 hauptsächlich aber, um Kinder mit
+#facs_15_r3l16 einander zu Zeugen.
+#facs_15_r3l17 I. 2.
+#facs_15_r3l18 zu Vollziehung einer rechtmäßig
+#facs_15_r3l19 Ehe, auf ein vorhergegangenes
+#facs_15_r3l20 gültiges Eheversprechen, wird demnach
+#facs_15_r4l1 25
+#facs_15_r4l2 erfordert eine dreymalige Verkün¬
+#facs_15_r4l3 digung von Kanzeln, an dreyen auf
+#facs_15_r4l4 einander folgenden Sonntagen, so
+#facs_15_r4l5 Bohl in beyder verlobten Heimat,
+#facs_15_r4l6 als an dem Ort ihres Aufenthalts.
+#facs_15_r4l7 In dringenden Vorfällen, die durch
+#facs_15_r4l8 ein Zeügsame des Pfarrers und des
+#facs_15_r4l9 Pfarrers und des Chorgerichts bescheint
+#facs_15_r4l10 werden sollen, kann das obere Ehe¬
+#facs_15_r4l11 gericht den Verlobten eine, oder auch
+#facs_15_r4l12 zwo Verkündigungen nachlaßen;
+#facs_15_r4l13 Diese Nachlaßung aber soll nur in
+#facs_15_r4l14 Rothfällen, und bei Gefahr bey
+#facs_15_r4l15 dem Verzug bäre, ertheilt werden.
+#facs_15_r4l16 §. 3.
+#facs_15_r4l17 Wegen den Ehescheinen, und deren
+#facs_15_r4l18 Ertheilung an Unsere Bürger und
+#facs_15_r4l19 Angehörigen, die geistliche und balt¬
+#facs_15_r4l20 liche Aemter bekleiden, auch deren
+#facs_15_r4l21 Einfegnung halb, lasen wir es bey der
+#facs_15_r4l22 diesmaligen Uebung, und dem Gewalt
+#facs_15_r4l23 des Obern Ehegrichts noch ferners be¬
+#facs_15_r4l24 benden.
+#facs_16_r3l1 §.4.
+#facs_16_r3l2 Auf die vorhergegangenen Ver¬
+#facs_16_r3l3 kundigungen, und falls keine Einben-
+#facs_16_r3l4 rung wieder die Ehevollziehung gemacht,
+#facs_16_r3l5 bird, soll die Einsegnung ohne lang¬
+#facs_16_r3l6 Aufschus, doch anders nicht als bey
+#facs_16_r3l7 dem öffentlichen Gottesdienst, in
+#facs_16_r3l8 den Brauari Wochenpredigten ge¬
+#facs_16_r3l9 scheihen, dabey aber der gewohnte
+#facs_16_r3l10 Kirchgang nicht über eine Stunde
+#facs_16_r3l11 lang, und zbar nach vorher ge¬
+#facs_16_r3l12 schehener Verkündigung, aufgehalten
+#facs_16_r3l13 werden. Doch die Sam=fest¬
+#facs_16_r3l14 und Communionstage, auch die
+#facs_16_r3l15 Woche vor und nach diesen leztern
+#facs_16_r3l16 ausgenommen, als an welchen keine
+#facs_16_r3l17 Hochzeit gehalten werden soll; und
+#facs_16_r3l18 dem Verstand, daß in nothdringenden
+#facs_16_r3l19 fällen das Obere Ehegricht von der
+#facs_16_r3l20 Woche vor, und nach den Festtagen
+#facs_16_r3l21 dispensieren mag.
+#facs_16_r3l22 ₶ 5.
+#facs_16_r3l23 Denjenigen verlobten, so anders wo
+#facs_16_r4l1 27.
+#facs_16_r4l2 als da wo sie geseßen, Kirchenrecht
+#facs_16_r4l3 zu halten begehren, soll von dem
+#facs_16_r4l4 Pfarren, der die Verkündigung ver¬
+#facs_16_r4l5 richtet hat, ein mit seinem Pettschaft
+#facs_16_r4l6 verstigelter Hochzeitschein eingehändi¬
+#facs_16_r4l7 get werden
+#facs_16_r4l8 Und damit der Prediger, so um
+#facs_16_r4l9 die Einsegnung der Ehe angesprochen
+#facs_16_r4l10 wird, wiße: ob die Verlobten in
+#facs_16_r4l11 ihren Gemeinden, oder außer den
+#facs_16_r4l12 selben, süßhaft gewesten seyen.
+#facs_16_r4l13 so sollen die Pfarrherren der
+#facs_16_r4l14 Heymath der Verlobten solches in
+#facs_16_r4l15 ihren Scheinen einrüben, damit
+#facs_16_r4l16 der für die Einsegnung ange¬
+#facs_16_r4l17 sprochene Prediger Anlas habe,
+#facs_16_r4l18 auch nach den übrigen Scheinen
+#facs_16_r4l19 zu fragen; zumalen ohne von¬
+#facs_16_r4l20 weisung aller erforderlichen Ver
+#facs_16_r4l21 kündigungsscheinen beyder Ver¬
+#facs_16_r4l22 lobten, oder aber der Gebilligungs
+#facs_16_r4l23 scheinen des Obern Ehegrichts,
+#facs_16_r4l24 keine Ehe eingesegnet werden
+#facs_16_r4l25 soll.
+#facs_17_r3l1 §.6.
+#facs_17_r3l2 Wenn jemand wieder eine von der
+#facs_17_r3l3 Könzel vereindigte Ehe rechtliche
+#facs_17_r3l4 Einbendung zu haben vermeint,
+#facs_17_r3l5 soll derselbe sich allsobald bey den
+#facs_17_r3l6 Chörchericht des Orts melden wo des
+#facs_17_r3l7 angeprochene Theil sich aufhält
+#facs_17_r3l8 und allda seine Gründe vorlegen
+#facs_17_r3l9 diese dann wenn der Ansprecher
+#facs_17_r3l10 auf die Vorstellungen des Ehrn,
+#facs_17_r3l11 gerichts nicht gutwillig von seiner
+#facs_17_r3l12 Ansprache abstünde, an das Obern
+#facs_17_r3l13 Ehegricht zu fernerer Verfügung,
+#facs_17_r3l14 eingestendt und inzwischen die voll¬
+#facs_17_r3l15 ziehung der Ehe verschoben werden
+#facs_17_r3l16 §. 7.
+#facs_17_r3l17 zu Vermeidung alles Aergernisses,
+#facs_17_r3l18 sollen die verlobten vor der Einsegnung
+#facs_17_r3l19 nicht mit einander in eine gemeinsame
+#facs_17_r3l20 Haushaltung tretten, falls sie aber
+#facs_17_r3l21 schon in gleichem Haufe sich befänd¬
+#facs_17_r3l22 oder auch kenn die Staant schlanger
+#facs_17_r3l23 büre, soll nach der lezten Verwürkung
+#facs_17_r4l1 29
+#facs_17_r4l2 die Einstegnung ohne eimichen Ver¬
+#facs_17_r4l3 zug vorsich gehen.
+#facs_17_r4l4 §.8.
+#facs_17_r4l5 Damit keine in gegenbärtigen
+#facs_17_r4l6 Sazungen verbotene Eheversprechung,
+#facs_17_r4l7 durch öffentliche Einsegnung vollzogen
+#facs_17_r4l8 werden, sollen die Pfarrherren, vor
+#facs_17_r4l9 der Verkündigung, der Verlobten
+#facs_17_r4l10 Umstände genau erforschen, und
+#facs_17_r4l11 beim sie in eint oder anderm gesetz¬
+#facs_17_r4l12 lich verbotenen Fallesich befanden
+#facs_17_r4l13 die Verkündigung nicht von sich gehen
+#facs_17_r4l14 laßen, sondern die Sache allsobald
+#facs_17_r4l15 dem Chorgricht des Orts, dieses dann
+#facs_17_r4l16 dieselbe dem Obern Ehegricht zu pflicht¬
+#facs_17_r4l17 mäßiger Vorkehr anjegen; maßen
+#facs_17_r4l18 ein Pfarrherr oder ein Chorgericht,
+#facs_17_r4l19 das hierinn seumselig bäre, zu ge¬
+#facs_17_r4l20 bührender Verantwortung gehogen
+#facs_17_r4l21 berden soll.
+#facs_17_r4l22 §. 9.
+#facs_17_r4l23 Den Pfarrherren so wohl als sämtlichen
+#facs_18_r3l1 Chorrichtern zu Stadt und Land¬
+#facs_18_r3l2 soll auch dliegen: fleißige Auf¬
+#facs_18_r3l3 sicht zu halten, daß gültig errichtete
+#facs_18_r3l4 Ehe versprechnigen nicht eigen¬
+#facs_18_r3l5 mächtig aufgehebt, sondern nach
+#facs_18_r3l6 den Verwundigungen ohne langen
+#facs_18_r3l7 Verzug, durch öffentlichen Kirchgang
+#facs_18_r3l8 vollzogen, oder kann aus erheblichen
+#facs_18_r3l9 Gründen ein Aufschub begehrt
+#facs_18_r3l10 bürde, die Verlobten an das
+#facs_18_r3l11 Obere Ehegricht gewiesen werden;
+#facs_18_r3l12 benn aber der eint oder andere
+#facs_18_r3l13 Theil aus strafbarem Eigensinn
+#facs_18_r3l14 oder aus bösen Absichten die Ver¬
+#facs_18_r3l15 fögerung suchte, derselbe Unsern
+#facs_18_r3l16 Oberamtleuten, unerheblichen falls
+#facs_18_r3l17 aber dem Obern Ehegricht verleidet,
+#facs_18_r3l18 und von diesem nach Vorschrift des
+#facs_18_r3l19 Gesezes zu Recht gewiesen werde.
+#facs_18_r3l20 diejenigen dann, so durch des
+#facs_18_r3l21 Obern Ehegerichts Urteil als Ehe¬
+#facs_18_r3l22 leute zustamen erkennt werden,
+#facs_18_r3l23 und dieser Urteil nicht nachleben
+#facs_18_r3l24 wollten, sollen gleichfalls von
+#facs_18_r4l1 31.
+#facs_18_r4l2 Pfarrherren und Chorgerichten den
+#facs_18_r4l3 Amtleuten, und wenn diese sie nicht
+#facs_18_r4l4 zur Gebühr bringen können, dem
+#facs_18_r4l5 Obern Ehegericht angezeigt, und von
+#facs_18_r4l6 diesem zu genießener Strafe gehog¬
+#facs_18_r4l7 borden.
+#facs_18_r4l8 §. 10.
+#facs_18_r4l9 Der übrigen Pflichten halb, die
+#facs_18_r4l10 einem Pfarrherrn bey einsteg¬
+#facs_18_r4l11 nung der Ehe obliegen, laßen
+#facs_18_r4l12 Wir es gäntlich bey dem §. 9. der
+#facs_18_r4l13 im Jahr 1748. neuverbeserten
+#facs_18_r4l14 Predigkanten Ordnung verbleiben
+#facs_18_r4l15 als welchen sie in alle Wege nach
+#facs_18_r4l16 leben sollen.
+#facs_18_r4l17 2nd Titel
+#facs_19_r3l1 Zweyter Etel
+#facs_19_r3l2 Von den Bescheidigungen
+#facs_19_r3l3 I. Zasung
+#facs_19_r3l4 von den unsulätzigen Gründen
+#facs_19_r3l5 der Scheidigung.
+#facs_19_r3l6 I. 1.
+#facs_19_r3l7 Obgleich nach görtlichen und mensch¬
+#facs_19_r3l8 lichen gesehen die Ehescheidigung
+#facs_19_r3l9 in gewißen Fällen nicht nur zu
+#facs_19_r3l10 gelaßen, sondern so gar noth¬
+#facs_19_r3l11 bendig ist, so ist jedoch Unser ernst
+#facs_19_r3l12 gemeinter Wille, daß solche nicht
+#facs_19_r3l13 ohne nothdringende Ursache, bemes¬
+#facs_19_r3l14 wegs aber aus unzuläßigen
+#facs_19_r3l15 Gründen ertheilt werde.
+#facs_19_r3l16 Im gegentheil sollen alle die
+#facs_19_r3l17 jenigen, so einmal christlicher
+#facs_19_r3l18 Ordnung nach, in den Stand der
+#facs_19_r3l19 Ehe getredten, alles Ernstes er¬
+#facs_19_r3l20 mahnt seyn, in der Furcht Gutes,
+#facs_19_r3l21 in Friede und Einigkeit, mit
+#facs_19_r3l22 ehelicher Liebe und Treue bey
+#facs_19_r4l1 33
+#facs_19_r4l2 einander zu wohnen, gemeinem
+#facs_19_r4l3 Hauswesten, nach eines jeden Beruf
+#facs_19_r4l4 getreu und fleißig vorzustehen, und
+#facs_19_r4l5 bein Ehegädte dem andern zu
+#facs_19_r4l6 einigem Verdruß, Ärgbohn, Unbille,
+#facs_19_r4l7 und daraus entstehenden Streitig
+#facs_19_r4l8 keiten, Urstache und Anlaß zu geben.
+#facs_19_r4l9 I. 2.
+#facs_19_r4l10 Gestonders sollen alle eigengewältigen
+#facs_19_r4l11 Sonderungen der Eheleuten von Tisch
+#facs_19_r4l12 und Reite; desgleichen alle unbe¬
+#facs_19_r4l13 gründete und erdichtete Klagen,
+#facs_19_r4l14 List und Gefehrde, verstellte Raserey
+#facs_19_r4l15 und Unstinnigkeit, Trohungen, die
+#facs_19_r4l16 trunkener Weise oder sonst geschehen,
+#facs_19_r4l17 mit einem Wort, alle unzuläßigen
+#facs_19_r4l18 Mittel zur Gebirkung einer Schei¬
+#facs_19_r4l19 digung beyschberer Strafe an Leib¬
+#facs_19_r4l20 Ehr oder Gut, verboiten seyn.
+#facs_19_r4l21 §.3.
+#facs_19_r4l22 bergleichen ernstlich verbotene
+#facs_19_r4l23 Strafbare Handlungen dann, sollen
+#facs_20_r3l1 von den schorgerichten Unserm
+#facs_20_r3l2 Obern Ehegricht angezeigt, und
+#facs_20_r3l3 von diesem Unserm täglichen
+#facs_20_r3l4 Rath zu ungenießenen Strafe
+#facs_20_r3l5 verleidet werden.
+#facs_20_r3l6 II. Sasung.
+#facs_20_r3l7 Sonderung von Tisch und Botte.
+#facs_20_r3l8 §. 1.
+#facs_20_r3l9 Wenn ein so heftiges Zerwürf¬
+#facs_20_r3l10 nis und Feindschaft unter den Ehe¬
+#facs_20_r3l11 leuten entsteht, daß eines vor dem
+#facs_20_r3l12 andern nicht sicher zu seyn, oder
+#facs_20_r3l13 sonst dringende Grunde zur Schei¬
+#facs_20_r3l14 digung zu haben vermeint; und
+#facs_20_r3l15 weder durch Freünde, verbandte
+#facs_20_r3l16 geistliche, oder andere ehrbare
+#facs_20_r3l17 Personen, noch durch das Chor¬
+#facs_20_r3l18 gericht des Orts, da die Eheleute
+#facs_20_r3l19 bohnen, durch freündliche und ernst
+#facs_20_r3l20 liche Vorstellungen und Vermeh¬
+#facs_20_r3l21 nungen, noch durch Restrafung
+#facs_20_r4l1 35
+#facs_20_r4l2 des fehlbaren Theils, der Ehestreit,
+#facs_20_r4l3 beygelegt, und der Friede vermittelt
+#facs_20_r4l4 werden kann; so sollen die Partheyen
+#facs_20_r4l5 von den Untern Chorgerichten an
+#facs_20_r4l6 das Obere Ehegericht gewiesen, ihre
+#facs_20_r4l7 Klägden daselbst genau untersucht
+#facs_20_r4l8 und je nach deren Wichtigkeit die
+#facs_20_r4l9 Eheleute entweder durch freundliche
+#facs_20_r4l10 Zuspruch, oder durch richterliche
+#facs_20_r4l11 Urtheil zur Reyfammenbohnung ange¬
+#facs_20_r4l12 halten, oder aber eine Sönderung
+#facs_20_r4l13 von Tisch und Recte auf ein oder
+#facs_20_r4l14 nehrere Jahre erkennt, nach deren
+#facs_20_r4l15 Auslauf auf Wiedermelden der
+#facs_20_r4l16 Partheyen die Verföhnung aufs -
+#facs_20_r4l17 frische versucht; unerheblichen
+#facs_20_r4l18 falls dann, entweder die Sonderung
+#facs_20_r4l19 verlängert werden, oder dem
+#facs_20_r4l20 Obern Ehegricht überlaßen seyn
+#facs_20_r4l21 dasjenige zu verfüegen, was
+#facs_20_r4l22 es der Ehrbarkeit, dem Rechte
+#facs_20_r4l23 und der Villigkeit das angemesenste
+#facs_20_r4l24 erachten wird.
+#facs_21_r3l1 §.2.
+#facs_21_r3l2 Bey Sonderung von Tisch und Gette
+#facs_21_r3l3 soll das übern Ehegericht, der nöhtigen
+#facs_21_r3l4 Erhaltung halb so wohl, als legen
+#facs_21_r3l5 Besorgung der Kinder, das gut
+#facs_21_r3l6 findende nach willigkeit verordnen
+#facs_21_r3l7 III. Sadung.
+#facs_21_r3l8 von deut Gebruch.
+#facs_21_r3l9 §. 1.
+#facs_21_r3l10 Wenn gesezlich erbieten ist
+#facs_21_r3l11 daß ein Ehegädte ohne des andern
+#facs_21_r3l12 Schuld, das Laster des Ehebruchs
+#facs_21_r3l13 bürklich begangen hätte, oder in
+#facs_21_r3l14 so verdächtiger Stellung und Ge¬
+#facs_21_r3l15 behrden bäre gefunden worden;
+#facs_21_r3l16 daß die That selbst mit keinem
+#facs_21_r3l17 Schein der Wahrheit geläugnet
+#facs_21_r3l18 werden könnte, so soll dem un¬
+#facs_21_r3l19 schuldigen Theil, beim die Ver¬
+#facs_21_r3l20 löhnung nicht vermittelt berden, mögen
+#facs_21_r3l21 die Beheidigung von dem obern Ehegicht ertheilt werden
+#facs_21_r4l1 37
+#facs_21_r4l2 §. 2.
+#facs_21_r4l3 Wenn aber der beleidigte Theil-
+#facs_21_r4l4 einmal verzogen und nach gehalten
+#facs_21_r4l5 Bekanntschaft des Fehlers dem schul¬
+#facs_21_r4l6 digen Theil wieder ehelich beygebohnt
+#facs_21_r4l7 hacte, und das einte oder das andere
+#facs_21_r4l8 gleichfalls gesezlich erbiesen würde,
+#facs_21_r4l9 so soll in solchen Fällen die völlige
+#facs_21_r4l10 Echeidigung nicht ertheilt, nichts¬
+#facs_21_r4l11 destoleniger aber der schuldige
+#facs_21_r4l12 Theil nach dem Gesez, so hienach folget
+#facs_21_r4l13 bestraft werden.
+#facs_21_r4l14 IV. Sasung.
+#facs_21_r4l15 von der böslichen Verlassung.
+#facs_21_r4l16 J. A.
+#facs_21_r4l17 Es mag auch die Ehescheidigung von
+#facs_21_r4l18 dem Obern Ehegricht ertheilt werden
+#facs_21_r4l19 benn ein Ehegadte den andern
+#facs_21_r4l20 böslicher und muthwilliger Weise,
+#facs_21_r4l21 ohne genügsame erhebliche Gründe
+#facs_21_r4l22 verlässt, und solches gesetzlich erwiesen wird.
+#facs_22_r3l1 §2
+#facs_22_r3l2 In diesem Julie soll der verlaßene
+#facs_22_r3l3 Theil, ehe er sich anderbärts ver-
+#facs_22_r3l4 lobt oder verehelicht, dahin gewiesen
+#facs_22_r3l5 seyn, durch fleißige Nachforschung
+#facs_22_r3l6 seinen Ehegädten zu erfragen.
+#facs_22_r3l7 I.3.
+#facs_22_r3l8 Entdekenden falls soll der Eherichter
+#facs_22_r3l9 auf des verlaßenen Begehren,
+#facs_22_r3l10 dem hingelauffenen auf einen
+#facs_22_r3l11 bestimten Tag, mit versprechung
+#facs_22_r3l12 sichern Geleits, ins Recht rufen,
+#facs_22_r3l13 mit der Warnung; er komme
+#facs_22_r3l14 oder bleibe aus, nichts destoleniger
+#facs_22_r3l15 im Rechte fortgefahren werden.
+#facs_22_r3l16 sleibt der gerufene, ungeacht der
+#facs_22_r3l17 ihme angelegten Citation aus, so
+#facs_22_r3l18 soll auf des verlaßenen Nachberben
+#facs_22_r3l19 ihm in seiner Heimat, und wo er
+#facs_22_r3l20 sich vorher aufgehalten, dreymal,
+#facs_22_r3l21 je zu dreyen Tagen und sechs¬
+#facs_22_r3l22 Wochen, von Kanzeln gerufen
+#facs_22_r3l23 werden.
+#facs_22_r4l1 9.
+#facs_22_r4l2 §. 4.
+#facs_22_r4l3 Sleibt aber des hingelaufenen Auf¬
+#facs_22_r4l4 enthalt unbekant, so soll der ver¬
+#facs_22_r4l5 laßene Theil ein Jahr lang sich ge¬
+#facs_22_r4l6 dulden, und sich bährend dieser Zeit
+#facs_22_r4l7 in keine eheliche Versprechung ein¬
+#facs_22_r4l8 laßen, nach Verfließung eines
+#facs_22_r4l9 Jahrs aber, auf deßelben Nachbarben
+#facs_22_r4l10 mit den dreyen Rufen, auf obbe¬
+#facs_22_r4l11 meltem Fuße fortgefahren werden.
+#facs_22_r4l12 §.5.
+#facs_22_r4l13 Es sey nun, daß der Gerufene im
+#facs_22_r4l14 Rechten Iber erscheine, der Urtheil
+#facs_22_r4l15 aber sich nicht unterziehe, sondern
+#facs_22_r4l16 sich bieder beybegebe, oder daß er
+#facs_22_r4l17 auf die ihm vorgeschriebene Termine
+#facs_22_r4l18 nicht erscheine, so soll dem verlaßenenen
+#facs_22_r4l19 Theil der Scheidebrief ertheilt, dem
+#facs_22_r4l20 Hingelaufenen aber der Eintritt
+#facs_22_r4l21 in Unsere Lande verboten seyn:
+#facs_22_r4l22 oder so er darinn betreten würde,
+#facs_22_r4l23 er eydlich daraus verbannet werden.
+#facs_23_r3l1 §. 6.
+#facs_23_r3l2 würde aber der Berufene vor
+#facs_23_r3l3 der Urteil sich stellen, und erheb¬
+#facs_23_r3l4 liche Ursachen seiner Abwesenheit
+#facs_23_r3l5 anbringen, so sollen diese Eheleute
+#facs_23_r3l6 in so fern keine andern Gründe
+#facs_23_r3l7 der Scheidigung vorhanden wären;
+#facs_23_r3l8 einander wieder ehelich beyzuwohnen
+#facs_23_r3l9 schuldig seyn.
+#facs_23_r3l10 § 7
+#facs_23_r3l11 Enscheine er auch erst nach der
+#facs_23_r3l12 Scheidigungs Urteil mit genugsamen
+#facs_23_r3l13 Entschuldigungsgründen seinet¬
+#facs_23_r3l14 Ausbleibens, so geben Wir Untern
+#facs_23_r3l15 nach
+#facs_23_r3l16 täglichen Rath den Gebalt,
+#facs_23_r3l17 Erdaurung der Umständen, einen
+#facs_23_r3l18 solchen zu begnadigen; und so die
+#facs_23_r3l19 verlaßene Theil nicht bieder vor
+#facs_23_r3l20 ehelicht und zur Versöhnung geneigt
+#facs_23_r3l21 bäre, solchenfalls die Scheidigungs
+#facs_23_r3l22 Urtheil aufzuheben, und die Ehe
+#facs_23_r3l23 leute zu vereinbaren.
+#facs_23_r4l1 44
+#facs_23_r4l2 9. 8.
+#facs_23_r4l3 Würde hingegen der verlaßene
+#facs_23_r4l4 Theil zu lange verbeilen, und seinen
+#facs_23_r4l5 ausgetrettenen Ehegäste nicht nach¬
+#facs_23_r4l6 fragen, so daß eine zwischen solchen
+#facs_23_r4l7 Ehelenten vorgegangene Verabredung
+#facs_23_r4l8 zu vermuthen böre, so soll zu ver¬
+#facs_23_r4l9 meidung alles Aergernisset der Ehe¬
+#facs_23_r4l10 richter dem verlaßenen Theil die
+#facs_23_r4l11 Nachforschung anbefehlen, und ihm nach
+#facs_23_r4l12 Vorschrift, obiger Rehung dazu richter
+#facs_23_r4l13 liche Hand bieten. Doch soll eine
+#facs_23_r4l14 solche verlaßene Person, so lange
+#facs_23_r4l15 sie sich ehrlich aufführt, ihrem aus¬
+#facs_23_r4l16 getrettenen Ehegarten nachzuziehen
+#facs_23_r4l17 nicht schuldig seyn.
+#facs_23_r4l18 §. 9
+#facs_23_r4l19 Unter böslicher und muthwilliger¬
+#facs_23_r4l20 Verlesung wird auch verstanden,
+#facs_23_r4l21 benn ein Ehegaete dem andern
+#facs_23_r4l22 ohne genügstame erhebliche Ursachen
+#facs_23_r4l23 die eheliche Pflicht versagt, und unge¬
+#facs_23_r4l24 achtet vorgegangener ernstlichen
+#facs_24_r3l1 Erinnerung der Eherichtern, hals¬
+#facs_24_r3l2 stärriger Weise darauf beharret.
+#facs_24_r3l3 In welchem Falle dem allso ge¬
+#facs_24_r3l4 schmäheten Theil auf sein Begehren,
+#facs_24_r3l5 die völlige Scheidigung ertheilt, der
+#facs_24_r3l6 pflichtvergesene Theil aber zu
+#facs_24_r3l7 gebührender Strafe, die Wir und
+#facs_24_r3l8 serm täglichen Rath, überlaßen
+#facs_24_r3l9 gezogen werden soll.
+#facs_24_r3l10 §.10.
+#facs_24_r3l11 Es ist aber nicht als eine muth¬
+#facs_24_r3l12 billige Verlaßung anzusehen, ben
+#facs_24_r3l13 jemand mit Wißen und Willen
+#facs_24_r3l14 der Obrigkeit, oder mit Vergünstigung
+#facs_24_r3l15 ung seines Ehegarten, oder aus
+#facs_24_r3l16 Arnuth, oder seines Verufs und
+#facs_24_r3l17 Handthierung halben, äußert Land
+#facs_24_r3l18 zieht, oder auch sich in erlaubten
+#facs_24_r3l19 Kriegsdienst begiebt.
+#facs_24_r3l20 Maßen in solchen Fällen den
+#facs_24_r3l21 zurückgebliebenen Theil keine
+#facs_24_r3l22 Scheidigung gestactet werden soll,
+#facs_24_r3l23 er könne denn nach Verlauf von
+#facs_24_r4l1 fünf Jahren durch glaubwürdige
+#facs_24_r4l2 Zeugniße bescheinigen, daß der
+#facs_24_r4l3 Ablaestende alle eheliche Liebe, und
+#facs_24_r4l4 den Willen wieder nach Hause zu
+#facs_24_r4l5 kehren, bey Seite gesezt habe.
+#facs_24_r4l6 Welchen falls gegen diesen leztern
+#facs_24_r4l7 nach obiger Vorschrifft verfahren
+#facs_24_r4l8 werden soll.
+#facs_24_r4l9 Sasung.
+#facs_24_r4l10 Von Verbrechen die in die malefis-
+#facs_24_r4l11 einschlagen.
+#facs_24_r4l12 Die Ehescheidigung wird auch gestattet
+#facs_24_r4l13 in Fällen, da ein Ehegacte, ohne
+#facs_24_r4l14 des andern Schuld noch Antheil
+#facs_24_r4l15 ein Verbrechen begeht, das in
+#facs_24_r4l16 die Malefitz einschlägt, und er dafür
+#facs_24_r4l17 mit der eligen Landesverbeisung,
+#facs_24_r4l18 oder mit einer schmächlichen -
+#facs_24_r4l19 Strafe, als Staubbesten belegt
+#facs_24_r4l20 bird.
+#facs_24_r4l21 14. lußig
+#facs_25_r3l1 VI. Savung.
+#facs_25_r3l2 Von ansterenden, unbeilbaren
+#facs_25_r3l3 und erblichen Krankherten.
+#facs_25_r3l4 §. 1.
+#facs_25_r3l5 Wenn ein Ehegädte mit einer
+#facs_25_r3l6 stehenden, unheilbaren und erblichen
+#facs_25_r3l7 Krankheit behaftet bäre, und die
+#facs_25_r3l8 andere aus diesem Grunde die
+#facs_25_r3l9 Echeidigung begehrte, soll von der
+#facs_25_r3l10 Zeit an, da solches dem obern
+#facs_25_r3l11 Ehegericht angezeigt wird, der vor
+#facs_25_r3l12 Theil sich der Hülfe um Anhuege
+#facs_25_r3l13 bebührten und erfahrner Gerste
+#facs_25_r3l14 zu bedienen, und alle in seinem
+#facs_25_r3l15 Vermögen stehende Genesungsmittel
+#facs_25_r3l16 zu gebrauchen, angelwiesen bey
+#facs_25_r3l17 Falls aber ungeachtet deren
+#facs_25_r3l18 brauch nach Jahr und Tag von solch
+#facs_25_r3l19 bewahrten und erfahrnen Aerste
+#facs_25_r3l20 bezeuget bürde, daß die Krankhür
+#facs_25_r3l21 anstekend oder erblich, und keine
+#facs_25_r3l22 Heilung zu hoffen seye, mag
+#facs_25_r3l23 dannzumal die Ehe gelöst, und
+#facs_25_r4l1 dem gesunden Theil die Scheidigung,
+#facs_25_r4l2 theilt werden.
+#facs_25_r4l3 §.2.
+#facs_25_r4l4 Nichts desto weniger soll derselbe
+#facs_25_r4l5 verbunden seyn, seinem abgeschiedenen
+#facs_25_r4l6 kranken Ehegacte, beim solcher aus
+#facs_25_r4l7 seinen eignen Mitteln sich zu ver¬
+#facs_25_r4l8 storgen nicht vermag, in einem
+#facs_25_r4l9 solchen traurigen Zustande allen
+#facs_25_r4l10 nöhtige Hülfe und Verpflegung, nach
+#facs_25_r4l11 seinen Umständen und des Richters
+#facs_25_r4l12 Ermeßen, zu leisten, und es in
+#facs_25_r4l13 diesem, wie in andern Scheidigungs¬
+#facs_25_r4l14 fällen, des Zeitlichen Guts und der
+#facs_25_r4l15 Kinder halb, nach der 9ten Bezung
+#facs_25_r4l16 dieses Titels gehalten werden.
+#facs_25_r4l17 VHte. Saasung.
+#facs_25_r4l18 von der Unvermöglichkeit.
+#facs_25_r4l19 Wenn auch eine Ehegnete aus Unber¬
+#facs_25_r4l20 möglichkeit der Natur, oder andern
+#facs_25_r4l21 Mängeln, zu ehelicher Pflicht untüchtig
+#facs_26_r2l1 bäre, und nach der Vorschrift¬
+#facs_26_r2l2 voriger Sitzung, von der Zeit an
+#facs_26_r2l3 da solches dem Obern Ehegericht an¬
+#facs_26_r2l4 gezeigt wird, durch gebrauchte Arz¬
+#facs_26_r2l5 neymittel innert Jahr und Tag
+#facs_26_r2l6 (bührend welcher Zeit die Eheleute
+#facs_26_r2l7 nichts desto minder bey einander
+#facs_26_r2l8 wohnen sollen :/ keine Reserung
+#facs_26_r2l9 sich erzeigte, und daß dazu keine
+#facs_26_r2l10 Hoffnung sey, von erfahrnen Aerzten
+#facs_26_r2l11 bezeuget würde, soll in diesem
+#facs_26_r2l12 falle dem gesunden Theil auf sein
+#facs_26_r2l13 Regehren die Scheidigung gestattet
+#facs_26_r2l14 werden.
+#facs_26_r2l15 VIII. Salung.
+#facs_26_r2l16 Von der Rasterey und Wahr
+#facs_26_r2l17 Sinnighert
+#facs_26_r2l18 Wenn ein Ehegacte mit Raserey
+#facs_26_r2l19 oder Wahnsinnigkeit behaftet würde
+#facs_26_r2l20 soll der gefunde Theil zu deßen
+#facs_26_r2l21 Wiederherstellung alle diejenigen
+#facs_26_r2l22 Mittel vorzubehren schuldig seyn,
+#facs_26_r2l23 die in der 6ten Razung vorgeschrieben sind.
+#facs_26_r3l1 47
+#facs_26_r3l2 Wenn dann deren ungeacht keine An¬
+#facs_26_r3l3 derung noch Reßerung zu hoffen häre.
+#facs_26_r3l4 und solches, wie vermeldt, bescheiniget
+#facs_26_r3l5 bürde; soll dem gesunden Theil auf
+#facs_26_r3l6 sein Regehren die Ehescheidung ertheilt,
+#facs_26_r3l7 und der Verpflegung halben es gleich
+#facs_26_r3l8 falls nach der vorigen 6. und folgenden
+#facs_26_r3l9 9. Dazung gehalten seyn.
+#facs_26_r3l10 IX Sasung.
+#facs_26_r3l11 Von Erhaltung der Kinder
+#facs_26_r3l12 und Theilung des Guts.
+#facs_26_r3l13 In allen obigen Fällen, da keine
+#facs_26_r3l14 Scheidigung erfolgt, sollen die Vor¬
+#facs_26_r3l15 handenen Kinder beyderley Geschlechts,
+#facs_26_r3l16 fem unschuldigen oder dem gesunden
+#facs_26_r3l17 Theil, wenn er es verlangt, über¬
+#facs_26_r3l18 laßen werden.
+#facs_26_r3l19 Deren Erhaltung aber zu bestimmen,
+#facs_26_r3l20 so wohl als auch die abgeschiedenen
+#facs_26_r3l21 ihres Zeitlichen Guts halben aus¬
+#facs_26_r3l22 einander Zuseten, soll dem Amts¬
+#facs_26_r3l23 mann jeden Orts, wo die Eheleute
+#facs_27_r2l1 wurde sie sommarisch und sub bene¬
+#facs_27_r2l2 ficio remuus an Unsern täglichen
+#facs_27_r2l3 Rath, in der Hauptstadt aber Unser
+#facs_27_r2l4 stüglichen Rath überlaßen seyn.
+#facs_27_r2l5 X. Sasung.
+#facs_27_r2l6 von der Versöhnung der Abge¬
+#facs_27_r2l7 Schiedenen.
+#facs_27_r2l8 1.
+#facs_27_r2l9 Wenn geschiedene Ehelente sich mit
+#facs_27_r2l10 einander wieder verstöhnen, so müßig
+#facs_27_r2l11 sie solches dem obern Ehegricht an¬
+#facs_27_r2l12 zeigen, und die Scheidigungsbriefe
+#facs_27_r2l13 zurükgeben; es soll aber in diesem
+#facs_27_r2l14 Falle keine öffentliche Einsegnung
+#facs_27_r2l15 erfolgen.
+#facs_27_r2l16 §.2
+#facs_27_r2l17 Wenn aber der einte oder andere Theil
+#facs_27_r2l18 sich nachbärts verehelicht hätte, soll eine
+#facs_27_r2l19 Verbindung zwischen den abgeschiedenz,
+#facs_27_r2l20 nach erfolgtem Tod oder Scheidung
+#facs_27_r2l21 des zweyten Ehegarten, nicht mehr
+#facs_27_r2l22 Plaz haben
+#facs_27_r2l23 ..
+#facs_27_r2l24 ppt.
+#facs_27_r3l1 49
+#facs_27_r3l2 XI Sasung.
+#facs_27_r3l3 von der Warheit der Geschiedenen
+#facs_27_r3l4 Die Wartheit der Geschiedenen soll
+#facs_27_r3l5 das Obere Ehegricht nach den Und
+#facs_27_r3l6 ständen und der Größe der Schuld
+#facs_27_r3l7 bestimmen; doch sollen dem schuldigen
+#facs_27_r3l8 Theil benigstens achtsehn Monate
+#facs_27_r3l9 falls der unschuldige Theil noch nicht
+#facs_27_r3l10 verehelicht bäre; dem unschuldigen
+#facs_27_r3l11 aber sechs Monat auferlegt, und
+#facs_27_r3l12 värend dieser Zeit beyde Theile zur
+#facs_27_r3l13 Versöhnung beredt und ermahnt werden.
+#facs_27_r3l14 Inzbischen aber ihnen alle ander¬
+#facs_27_r3l15 bärtigen ehelichen Verbindungen
+#facs_27_r3l16 ohne des obern Ehegrichts Bewilligung
+#facs_27_r3l17 verboten seyn.
+#facs_27_r3l18 Welche Gebilligung auch nicht anders
+#facs_27_r3l19 als in dringenden Fällen, und beim
+#facs_27_r3l20 mit Sicherheit gezeigt werden kann,
+#facs_27_r3l21 das von der aufgelösten Ehe Her¬
+#facs_27_r3l22 keine Schwangerschaft vorhanden,
+#facs_27_r3l23 und keine Versöhnung mehr zwischen den Abge¬
+#facs_27_r3l24 schiedenen möglich seyn, ertheilt werden soll,
+#facs_28_r2l1 Würde ihm, der eint oder andere
+#facs_28_r2l2 Theil sich während der bestimten
+#facs_28_r2l3 Wartzeit ohne eherichterliche Gebillig¬
+#facs_28_r2l4 ung ehelich versprechen, oder gar
+#facs_28_r2l5 einstegnen laßen, und eine Schwan
+#facs_28_r2l6 gerung erfolgen, so sollen Iba
+#facs_28_r2l7 die Kinder als ehelich erzeugt ange¬
+#facs_28_r2l8 sehen, beyde Eltern aber Unserm
+#facs_28_r2l9 stäglichen Rath verleidet, und von
+#facs_28_r2l10 selbigem mit angemessener Strafe
+#facs_28_r2l11 belegt werden.
+#facs_28_r2l12 XII. Sasung.
+#facs_28_r2l13 von unbestimmten Fällen.
+#facs_28_r2l14 Indem sich vielfältige Fälle errügnen,
+#facs_28_r2l15 über welche nichts gewißes bestimt und
+#facs_28_r2l16 verordnet werden kann, so soll in allen
+#facs_28_r2l17 dergleichen unbestimten Fällen die
+#facs_28_r2l18 Sache unserm Obern Ehegricht vorgetrage,
+#facs_28_r2l19 und von selbigem nach bestem Gebißen, ohne
+#facs_28_r2l20 Ansehen der Person, beurtheilt; in diesen un¬
+#facs_28_r2l21 bestimmten Fällen aber, der beschlehrenden Partho
+#facs_28_r2l22 der Rekurs vor Unsern täglichen Rath gesteitet
+#facs_28_r2l23 werden.
+#facs_28_r3l1 Dritter Tittel.
+#facs_28_r3l2 von den Strafen in Hureren
+#facs_28_r3l3 und Ehebruchs - Fällen.
+#facs_28_r3l4 Sasung.
+#facs_28_r3l5 Hurereij=Strafe.
+#facs_28_r3l6 I.S.
+#facs_28_r3l7 Piner ledigen Mannsperson oder Wittberg
+#facs_28_r3l8 Omit einer ledigen Weibsperson
+#facs_28_r3l9 oder Wittwe.
+#facs_28_r3l10 für den ersten Fehler.
+#facs_28_r3l11 eünfzig Pfund, oder fünftägige
+#facs_28_r3l12 Gefangenschaft.
+#facs_28_r3l13 für den zweyten Fehler.
+#facs_28_r3l14 Einhundert Pfund, oder Zehentägige
+#facs_28_r3l15 Gefangenschaft.
+#facs_28_r3l16 für den dritten Fehler.
+#facs_28_r3l17 zweyhundert Pfund, oder zwanzig¬
+#facs_28_r3l18 Tagige Gefangenschaft
+#facs_28_r3l19 §2.
+#facs_28_r3l20 Die Weibspersaren sollen in allen obigen Fällen
+#facs_28_r3l21 den Manspersonen gleich gehalten werden.
+#facs_29_r2l1 I.S.
+#facs_29_r2l2 Die so in Unserm Städten und
+#facs_29_r2l3 Landen in Ehrenstellen, Aemtern
+#facs_29_r2l4 oder diensten stehen, sollen in allen
+#facs_29_r2l5 obigen Fäden doppelt büßen, als
+#facs_29_r2l6 für den ersten Fehler:
+#facs_29_r2l7 Mit einhundert Pfunden, oder Zehn¬
+#facs_29_r2l8 tägiger Gefangenschaft.
+#facs_29_r2l9 Für den zbersten Fehler:
+#facs_29_r2l10 Mit zweyhundert Pfunden, oder
+#facs_29_r2l11 wanzigtägiger Gefangenschaft.
+#facs_29_r2l12 für den dritten Fesler.
+#facs_29_r2l13 Mit vierhundert Pfunden, oder
+#facs_29_r2l14 vierzigtägiger Gefangenschaft.
+#facs_29_r2l15 In allen obigen Fällen steht es
+#facs_29_r2l16 in der Willkuhr des Fehlbaren,
+#facs_29_r2l17 die Geld oder die Gefangenschaft¬
+#facs_29_r2l18 strafe zu bählen; die erstere soll
+#facs_29_r2l19 zu Handen der Armen des Orts,
+#facs_29_r2l20 da der Fehlbare daheim ist bezogen
+#facs_29_r2l21 werden.
+#facs_29_r2l22 §. 4.
+#facs_29_r2l23 sollte sich aber jemand, es sey eine
+#facs_29_r2l24 Manns oder Weibsperson, des viertigen
+#facs_29_r3l1 53.
+#facs_29_r3l2 oder noch mehrerer lediger Fehlern
+#facs_29_r3l3 schuldig machen, so solle es an der
+#facs_29_r3l4 Erkäntniß Unsers täglichen Raths
+#facs_29_r3l5 stehen, die Fehlbaren über die wirk¬
+#facs_29_r3l6 lich bestimte Strafe aus, mit noch
+#facs_29_r3l7 mehrerer angemeßener Strafe
+#facs_29_r3l8 je nach Relbandtniß der Umständen,
+#facs_29_r3l9 zu belegen.
+#facs_29_r3l10 §. 5.
+#facs_29_r3l11 Wenn aber eine Manns- oder Weibs¬
+#facs_29_r3l12 Person ihren begangnen Fehler dem
+#facs_29_r3l13 Richter freybillig eingesteht, oder
+#facs_29_r3l14 von selbsten anzeigt, so soll die Strafe
+#facs_29_r3l15 um die Hälfte vermindert seyn
+#facs_29_r3l16 II. Salzung
+#facs_29_r3l17 Ehebruchs=Strafe.
+#facs_29_r3l18 I.A.
+#facs_29_r3l19 Einer verehelichten Mannsperson
+#facs_29_r3l20 mit einer ledigen Weibsperson
+#facs_29_r3l21 oder Wittbe.
+#facs_30_r2l1 Für den ersten Fehler:
+#facs_30_r2l2 Einhundert Pfund, oder Zehentägigen
+#facs_30_r2l3 Gefangenschaft. Die doppelte Strafe
+#facs_30_r2l4 für die, so in Ehren und Aemtern
+#facs_30_r2l5 stehen.
+#facs_30_r2l6 für den zweyten Fehler.
+#facs_30_r2l7 zweyhundert Pfund, oder Zwanzigtägige
+#facs_30_r2l8 gefangen uhaft. Zweyjährige Ein
+#facs_30_r2l9 stellung für die, so Ehren und Aemter
+#facs_30_r2l10 besihen, oder Unfähigkeit zu denselben
+#facs_30_r2l11 Für den dritten Fehler.
+#facs_30_r2l12 Vierhundert Pfund, oder vierzigtägige
+#facs_30_r2l13 gefangenschaft. Vierjährige End
+#facs_30_r2l14 stellung aller Ehren und Aemtern
+#facs_30_r2l15 oder Unfähigkeit zu denselben.
+#facs_30_r2l16 Der vierte Fehler wird Unserm
+#facs_30_r2l17 täglichen Rath zur Testraffung
+#facs_30_r2l18 überlaßen.
+#facs_30_r2l19 § 2.
+#facs_30_r2l20 Strafe der ledigen Weibsperson
+#facs_30_r2l21 oder Wittbe, die sich mit einem
+#facs_30_r2l22 Ehemann vergehet.
+#facs_30_r2l23 a. Diese sollen in allen obigen
+#facs_30_r3l1 55
+#facs_30_r3l2 fällen, der Suße und Gefangenschaft
+#facs_30_r3l3 halb, den Mannspersonen gleiche
+#facs_30_r3l4 gehalten werden.
+#facs_30_r3l5 6. Sollte die ledige Weibsperson
+#facs_30_r3l6 oder Wittwe dem Richter glaubbürdig
+#facs_30_r3l7 darthun können, daß ihr der eheliche
+#facs_30_r3l8 Stand der Mannsperson unbekant,
+#facs_30_r3l9 geloesen; so wird dem Obern Ehegricht
+#facs_30_r3l10 überlaßen, die Strafe je nach den
+#facs_30_r3l11 Umständen zu mildern.
+#facs_30_r3l12 III. Sadung.
+#facs_30_r3l13 Strafe der doppelten Ehebruchs,
+#facs_30_r3l14 so durch einen Ehemann mit
+#facs_30_r3l15 einer Ehefrau begangen wird.
+#facs_30_r3l16 §.1.
+#facs_30_r3l17 Srafe des Ehemanns
+#facs_30_r3l18 Für den ersten Fehler.
+#facs_30_r3l19 Ostentliche Abbiete vor den gerrgerten
+#facs_30_r3l20 In der Stadt vor dem Oben¬
+#facs_30_r3l21 Gemeinde.
+#facs_30_r3l22 Ehegericht bey öffner Thüre, und Iwanzig
+#facs_30_r3l23 tägige Gefangenschaft, geständige
+#facs_31_r2l1 Entstehung von allen Ehren Aemters
+#facs_31_r2l2 und Diensten, und Unfähigkeit zu
+#facs_31_r2l3 denselben.
+#facs_31_r2l4 Bür den zweyten Hehler.
+#facs_31_r2l5 Oeffentliche Abbiete vor der geer¬
+#facs_31_r2l6 gerten Gemeinde. In der Stadt
+#facs_31_r2l7 vor dem Obern Ehegericht bey ohner
+#facs_31_r2l8 Thüre, und dreyjährige Landes ver¬
+#facs_31_r2l9 Beisung.
+#facs_31_r2l10 Zür den dritten Fehler.
+#facs_31_r2l11 Lebenslängliche Landesverbeisung
+#facs_31_r2l12 und im Falle des Wiedereintritts,
+#facs_31_r2l13 lebenslängliche Schallenberbstrafe,
+#facs_31_r2l14 oder anderbürtige Einstchließung
+#facs_31_r2l15 I. 2.
+#facs_31_r2l16 Strafe der Befrauen
+#facs_31_r2l17 Zür den ersten Fehler:
+#facs_31_r2l18 Oestentliche Abbiete vor der geurgerten
+#facs_31_r2l19 gemeinde. In der Stadt, vor dem
+#facs_31_r2l20 Obern Ehegericht bey offner Thür,
+#facs_31_r2l21 und vierzigtägige Gefangen
+#facs_31_r2l22 schaft.
+#facs_31_r3l1 57.
+#facs_31_r3l2 Für den zweyten Fehler
+#facs_31_r3l3 Oeffentliche Abbitte vor der gerrgerten
+#facs_31_r3l4 gemeinde.
+#facs_31_r3l5 In der Stadt, vor dem
+#facs_31_r3l6 Obern Ehegericht bey offner Thüre
+#facs_31_r3l7 vierjährige Schallenberckstrafe, oder
+#facs_31_r3l8 anderwärtige Einschließung, nach der
+#facs_31_r3l9 Erkanntnis Unsers täglichen Raths.
+#facs_31_r3l10 Für den dritten Fehler.
+#facs_31_r3l11 Lebenslängliche Schallenwerkstrafe,
+#facs_31_r3l12 oder anderbärtige Lebenslängliche
+#facs_31_r3l13 Einschließung.
+#facs_31_r3l14 V. Saasung
+#facs_31_r3l15 Ehebruchstraffe einer ledigen
+#facs_31_r3l16 Mannsperson, to sich mit einer
+#facs_31_r3l17 verehelichten Meibsperson vergehet.
+#facs_31_r3l18 J.J.
+#facs_31_r3l19 Die Ehebruchsstrafe einer ledigen Manns
+#facs_31_r3l20 person, so sich mit einer verehelichten
+#facs_31_r3l21 Weibsperson vergehet, ist die gleiche, so
+#facs_31_r3l22 bey dem doppelten Ehebruch bestimt
+#facs_31_r3l23 ist
+#facs_31_r3l24 §2.
+#facs_32_r2l1 J. 2.
+#facs_32_r2l2 die verehelichte Weibsperson, so sich
+#facs_32_r2l3 mit einer ledigen Manns person ver¬
+#facs_32_r2l4 gehet, soll ohne Schonen die auf den
+#facs_32_r2l5 doppelten Ehebruch gesetzte Strafe, in
+#facs_32_r2l6 ersten, andern und dritten Fehler
+#facs_32_r2l7 ausstehen.
+#facs_32_r2l8 V. Sasung
+#facs_32_r2l9 Oeffentliche und umschweifende
+#facs_32_r2l10 Dirnen.
+#facs_32_r2l11 dieselben sollen, durch Veranstaltung
+#facs_32_r2l12 der Chorgerichten zu Stadt und Land
+#facs_32_r2l13 beobachtet, eingezogen und nach der
+#facs_32_r2l14 Erwäntniß Unsers täglichen Raths,
+#facs_32_r2l15 den Umständen nach, entweder mit
+#facs_32_r2l16 der Arbeitshaus-Schallenberk-Lands
+#facs_32_r2l17 Verweisungs-Ruhtenstreichungen oder
+#facs_32_r2l18 mit andern dergleichen empfindlichen
+#facs_32_r2l19 Leibesstrafen ohne Schonen angesehen
+#facs_32_r2l20 werden.
+#facs_32_r2l21 VI. Sozung
+#facs_32_r3l1 59.
+#facs_32_r3l2 VI. Sasung.
+#facs_32_r3l3 Huren-Belder
+#facs_32_r3l4 J. 1.
+#facs_32_r3l5 Eine Dirne, die mit einer verehelichten
+#facs_32_r3l6 oder ledigen Mannsperfen sich ver¬
+#facs_32_r3l7 gangen hätte, und nachberts von der
+#facs_32_r3l8 selben durch allerhand Drohungen, Geld¬
+#facs_32_r3l9 oder Geldswerth zu erpresen suchte.
+#facs_32_r3l10 stoll Unserm täglichen Raht verleidet,
+#facs_32_r3l11 und durch deßen Erkäntniß, je nach
+#facs_32_r3l12 bekandten Umständen, mit der
+#facs_32_r3l13 Pranger = Arbeitshaus=Schallenkerk
+#facs_32_r3l14 oder auch so gar mit der Staubbesten
+#facs_32_r3l15 strafe angesehen werden.
+#facs_32_r3l16 J. 2.
+#facs_32_r3l17 Vermag die Dirne den empfangenen
+#facs_32_r3l18 Hurenlohn zu ersehen, so soll selbiger
+#facs_32_r3l19 ihr abgenommen werden, und es gleich
+#facs_32_r3l20 falls an Unsters täglichen Raths Erkant¬
+#facs_32_r3l21 niß stehen, wohin solcher, oder zurück¬
+#facs_32_r3l22 gegeben werden solle.
+#facs_33_r2l1 §. 3.
+#facs_33_r2l2 Wer dergleichen Hurengelder und
+#facs_33_r2l3 Erpreßung entdeht, dem sollen selbigen
+#facs_33_r2l4 bey der Zwieck zu suchen überlaßen sey,
+#facs_33_r2l5 §. 4
+#facs_33_r2l6 Würde der, so solche Erpresungen
+#facs_33_r2l7 erlieten, der Selbstangelen seyn
+#facs_33_r2l8 so soll ihm die Strafe des begangenen
+#facs_33_r2l9 Fehlers um einen Grad gemildert
+#facs_33_r2l10 werden, allsto daß ein doppelter Ehe
+#facs_33_r2l11 bruch mit der Strafe des einfachen
+#facs_33_r2l12 Ehebruchs, der zweyte ledige Fehler
+#facs_33_r2l13 mit der Strafe des ersten belegt
+#facs_33_r2l14 und so in allen übrigen fallen,
+#facs_33_r2l15 verfahren, der erste ledige Fehler
+#facs_33_r2l16 dann völlig nachgelaßen werden.
+#facs_33_r2l17 In diesem Fall dann, wie im Zwey
+#facs_33_r2l18 § enthalten, es an Unsters täglich,
+#facs_33_r2l19 Raths Erkentniß stehen, über die
+#facs_33_r2l20 Erpreßung, wohin solche verlegt, oder
+#facs_33_r2l21 zurückgegeben werden solle, je nach
+#facs_33_r2l22 den Umständen, das Gutfindende
+#facs_33_r2l23 zu verordnen.
+#facs_33_r3l1 61.
+#facs_33_r3l2 §.5.
+#facs_33_r3l3 Die so sich zum Kuppeln, oder Dirnen
+#facs_33_r3l4 zuführen, oder zu Beziehung dergleich¬
+#facs_33_r3l5 schändlichen Hurengeldern gebrauchen
+#facs_33_r3l6 laßen, sollen als höchst gefährliche
+#facs_33_r3l7 Brandschüher mit dem Staubbesen¬
+#facs_33_r3l8 und mit angemeßener Schallenberb
+#facs_33_r3l9 Strafe oder Landesverbeisung, je
+#facs_33_r3l10 nach der Größe ihres Verbrechens,
+#facs_33_r3l11 und Unsers täglichen Raths Erkannt
+#facs_33_r3l12 in B gestraft werden.
+#facs_33_r3l13 §.6.
+#facs_33_r3l14 Ein Dienst, oder bestöldeter Haus ge¬
+#facs_33_r3l15 noß, den seines Meisters Kind ver¬
+#facs_33_r3l16 kuppelt, oder selbst zum Fall bringt
+#facs_33_r3l17 soll über die bestimte Strafe, je
+#facs_33_r3l18 nach der große seines Verbrechens,
+#facs_33_r3l19 und Unsers täglichen Raths Erkant¬
+#facs_33_r3l20 niß gestraft werden.
+#facs_33_r3l21 §. 7
+#facs_33_r3l22 Ein Vacht, der seine vogtstochter ver¬
+#facs_33_r3l23 huppelt, oder selbst zum Fall bringt,
+#facs_34_r2l1 soll wegen ihr Größe seines Ver¬
+#facs_34_r2l2 breihen, über die bestimte Strafe
+#facs_34_r2l3 aus, je nach den Umständen, und
+#facs_34_r2l4 Unsers tagachen Raths Erkandtniß
+#facs_34_r2l5 an Ehr, Leib, oder Gut, gestraft werden
+#facs_34_r2l6 VII. Häsung
+#facs_34_r2l7 Des Ehebruchs verdächtigen
+#facs_34_r2l8 Personen.
+#facs_34_r2l9 I.1.
+#facs_34_r2l10 Wenn jemand des Ehebruchs verdächtig
+#facs_34_r2l11 dem Chörgericht oder auch nur et¬
+#facs_34_r2l12 welchen Chorrichtern, angezeigt wird
+#facs_34_r2l13 sollen diese ins geheim die Verdach¬
+#facs_34_r2l14 personen, durch freundliche und ernst¬
+#facs_34_r2l15 liche Vorstellungen, zu Aufhebung
+#facs_34_r2l16 alles Umgangs und dadurch verursachten
+#facs_34_r2l17 Aergerniß, ermahnen. Würden
+#facs_34_r2l18 aber solche biederholte Ermahnungen
+#facs_34_r2l19 Ernchtlos seyn, und durch fernern
+#facs_34_r2l20 Umgang der Verdacht vergrößert
+#facs_34_r2l21 berden, so sollen solche Personen
+#facs_34_r2l22 dem Obern Ehegericht verleidet
+#facs_34_r3l1 63
+#facs_34_r3l2 und von diesem nach Verdienst gestraft
+#facs_34_r3l3 werden.
+#facs_34_r3l4 3. 2.
+#facs_34_r3l5 Wer sein Eheleib an offener That
+#facs_34_r3l6 des Ehebruchs ergriffe, und solche
+#facs_34_r3l7 Untreue so bohl an demselben
+#facs_34_r3l8 als an dem Ehebrecher auf der
+#facs_34_r3l9 Stelle selbst rachete, der soll dafür
+#facs_34_r3l10 mit keiner Strafe belegt werden.
+#facs_34_r3l11 § 3
+#facs_34_r3l12 Wer sich des anderen berühmte, der
+#facs_34_r3l13 soll nach Unters täglichen Rahts
+#facs_34_r3l14 Erkänntniß gestraft beyden
+#facs_34_r3l15 §.4.
+#facs_34_r3l16 Wer nach Ehegerichtlicher Zusammen
+#facs_34_r3l17 erbennung, oder nach wirklich voll
+#facs_34_r3l18 Jogener Ehe, die Ehe brechen bürde
+#facs_34_r3l19 und allste durch das Mittel des Ehe
+#facs_34_r3l20 bruchs die Scheidigung suchte, sich deßen
+#facs_34_r3l21 berühmte, oder selbst offenbahrte;
+#facs_34_r3l22 oder eine andere Person durch geld
+#facs_34_r3l23 oder sonst bestellte und Anbiefe, seine
+#facs_35_r2l1 Ehegädtin zu beschlaßen, alles in
+#facs_35_r2l2 der Absicht, die Scheidigung dadurch
+#facs_35_r2l3 zu erhalten, und solches erbiesten,
+#facs_35_r2l4 bürde, der all, über die bestimmt¬
+#facs_35_r2l5 Ehebrüchstrafe aus, nach Beband
+#facs_35_r2l6 niß der Umstände, und Unters¬
+#facs_35_r2l7 stäglichen Säzts Erbäntniß mit mehr
+#facs_35_r2l8 erer Strafe belegt werden.
+#facs_35_r2l9 I.5.
+#facs_35_r2l10 Würde aber der unschuldige Theil
+#facs_35_r2l11 dem schuldigen verzeihen, und diese
+#facs_35_r2l12 deßen ohngeacht, ohne genügsteme
+#facs_35_r2l13 Urstache In seinem Ehegacten nicht
+#facs_35_r2l14 wiederkehren bollen, oder durch
+#facs_35_r2l15 Mißhandlungen an selbigem sich auf
+#facs_35_r2l16 neue vergefen, den soll mit Lender
+#facs_35_r2l17 verbeisung, Schallenberk = oder
+#facs_35_r2l18 anderen schleren Strafen, nach
+#facs_35_r2l19 Unsers täglichen Rahts Erbentniß
+#facs_35_r2l20 belegt werden.
+#facs_35_r2l21 § 6
+#facs_35_r2l22 Wie dann auch bey andern ver¬
+#facs_35_r2l23 vielfältigten und mit strafbaren
+#facs_35_r3l1 65
+#facs_35_r3l2 Umständen begleiteten Ehebruchsfällen
+#facs_35_r3l3 Wir unserm täglichen Raht den
+#facs_35_r3l4 Gewalt vorbehalten, über die bestimten
+#facs_35_r3l5 Strafgestehe aus, die Verbrecher
+#facs_35_r3l6 lit härtern und empfindlichern
+#facs_35_r3l7 Strafen, je nach der große ihres
+#facs_35_r3l8 Verbrechens anzustehen.
+#facs_35_r3l9 VIII. Schung
+#facs_35_r3l10 Wie in Fällen der Schwangerung
+#facs_35_r3l11 und Paternitätsansprachen.
+#facs_35_r3l12 verfahren werden solle.
+#facs_35_r3l13 Ao. eine unverehelichte Ich bangere
+#facs_35_r3l14 Weibs person, soll ihre sich Bengeschaft
+#facs_35_r3l15 so bald ihr solche bekant seyn mag,
+#facs_35_r3l16 und zwar längstens im fiebenden
+#facs_35_r3l17 Monat dem Richter, oder dem Pfarrer
+#facs_35_r3l18 oder einem Chorrichter des Orts, da
+#facs_35_r3l19 sie bohnt, mit allen Umständen der
+#facs_35_r3l20 Zeit und des Orts der Schbängerung
+#facs_35_r3l21 und zugleich den Vater des Kindes
+#facs_35_r3l22 anzeigen.
+#facs_36_r2l1 Tiese gedheige soll allsobald den
+#facs_36_r2l2 Chörgericht des Orts Hinterbracht,
+#facs_36_r2l3 von demselben der Reblagte ver
+#facs_36_r2l4 hört, und füllt er der Klage nicht
+#facs_36_r2l5 geständig, zwey wo möglich beeÿ¬
+#facs_36_r2l6 digte oder sonst ehrbare Männer
+#facs_36_r2l7 zum gedachlichen Examen bestelt
+#facs_36_r2l8 solche der Klägerin bereut gemacht,
+#facs_36_r2l9 ihre getheue Anzeige aber mit
+#facs_36_r2l10 allen Umständen, auch dem Tage
+#facs_36_r2l11 an dem für geschehen, in das Chor
+#facs_36_r2l12 gerichtsmanmal eingeschrieben
+#facs_36_r2l13 werden.
+#facs_36_r2l14 Wird die Anzeige in obbestimter
+#facs_36_r2l15 Zeit der sieben Monaten versäumt,
+#facs_36_r2l16 so ist der nachher Beklagte frey, und
+#facs_36_r2l17 hat die Klägerin gegen denselben
+#facs_36_r2l18 keine Action mehr; es sey denn, daß
+#facs_36_r2l19 sie eine gestehliche Eheversprechung,
+#facs_36_r2l20 oder eine schriftliche, oder vor zwey
+#facs_36_r2l21 unter verflichen Zeugen geschehene
+#facs_36_r2l22 Erklärung der Vaterschaft, vorbeisehen
+#facs_36_r2l23 könne, oder sonsten sich durch solche
+#facs_36_r2l24 Gründe rechtfertige, die von dem
+#facs_36_r3l1 67.
+#facs_36_r3l2 Obern Ehegricht, dem sie zum Ent¬
+#facs_36_r3l3 scheid überschrieben werden sollen.
+#facs_36_r3l4 rheblich erachtet werden.
+#facs_36_r3l5 2. sey herannehender Benisst, soll
+#facs_36_r3l6 die sich bangere Person, die Hebamme
+#facs_36_r3l7 des Orts, wo sie sich dann zumal auf
+#facs_36_r3l8 fült, oder in deren Ermanglung
+#facs_36_r3l9 jemand anders berufen; auch die
+#facs_36_r3l10 bestellten Genißtmanner deßen berichten
+#facs_36_r3l11 laßen, damit sie sich ohne Verzug
+#facs_36_r3l12 bey ihr einfinden.
+#facs_36_r3l13 Genist sie heimlich, so verliert
+#facs_36_r3l14 sie für ein und allemal die Pater
+#facs_36_r3l15 mitütsensprache, und bleibt ihr
+#facs_36_r3l16 das Kind mit allen folgen.
+#facs_36_r3l17 3. In den Beburtschmerzen sollen
+#facs_36_r3l18 die z bey bestellten Genußtmeiner
+#facs_36_r3l19 sie ernstlich vermahnen, nach ihrem
+#facs_36_r3l20 besten Wissen und Gebisen, den
+#facs_36_r3l21 bahren und einzigen Vater ihres
+#facs_36_r3l22 zu gebührenden Kindes anzuzeigen,
+#facs_36_r3l23 und diese Anzeige allsobald in Schrift
+#facs_36_r3l24 verfaßen.
+#facs_37_r2l1 4° Nach der Bemsst soll das
+#facs_37_r2l2 gericht des Orts, inneut 14. Tage
+#facs_37_r2l3 Zeit, die geinstliche Aussege
+#facs_37_r2l4 der Klägerin, dem beklagten Dat
+#facs_37_r2l5 an dem Ort seines Aufenthalt
+#facs_37_r2l6 in so fern es in Unsern Landen
+#facs_37_r2l7 ist, behörig bekant machen lassen.
+#facs_37_r2l8 Der Klägerin aber ist frey gestalt
+#facs_37_r2l9 ihr Recht gegen den Beklagten
+#facs_37_r2l10 vor dem Chörgericht, da sie die
+#facs_37_r2l11 erste Anzeige gethan, oder da be
+#facs_37_r2l12 lie Kindt genesen, anzutretten.
+#facs_37_r2l13 Sie soll ürer ihren Entschluß den
+#facs_37_r2l14 einten und andern Ehergerichts
+#facs_37_r2l15 anzeigen.
+#facs_37_r2l16 5° ist der Reklagte der Anclags
+#facs_37_r2l17 geständig, so wird die Sache an
+#facs_37_r2l18 das Overe Ehegricht einberichtet,
+#facs_37_r2l19 und ihme das Kind, Namens, Hei=
+#facs_37_r2l20 mals um Erhaltung halben, zuge¬
+#facs_37_r2l21 sprochen; doch soll die Mutter
+#facs_37_r2l22 solches sechs Monat lang erhalten
+#facs_37_r2l23 und besorgen, gegen sechs Kreuz
+#facs_37_r2l24 Anemenlohn, so der untern nebst
+#facs_37_r3l1 6
+#facs_37_r3l2 allen andern dieser Sache hatt, er-
+#facs_37_r3l3 gangenen Kösten, bezahlen wird.
+#facs_37_r3l4 gesetzliche Gestrafung der Fehl
+#facs_37_r3l5 baren dann, soll durch die gleiche
+#facs_37_r3l6 Erkäntnis bestimt werden.
+#facs_37_r3l7 Ist aber der Beklagte der A.
+#facs_37_r3l8 klage nicht geständig, sondern schlägt
+#facs_37_r3l9 das Recht dar, so soll solches von der
+#facs_37_r3l10 Klägerin innert dreyen Monaten
+#facs_37_r3l11 nach der Benist angetreten, und
+#facs_37_r3l12 der Beklagte gebohnten maßen
+#facs_37_r3l13 vorgeladen werden.
+#facs_37_r3l14 Unterlässt sie dieses neuert den
+#facs_37_r3l15 bestincten drey Monaten, so verliert
+#facs_37_r3l16 sie alle Action gegen den Beklagten
+#facs_37_r3l17 und bleibt ihres Kindes allein beladen,
+#facs_37_r3l18 es sey dann, daß sie dem Richter
+#facs_37_r3l19 erhebliche Bründe dieser Unter¬
+#facs_37_r3l20 laßung vorlege.
+#facs_37_r3l21 6e In die Aufheiterung der ver¬
+#facs_37_r3l22 schiedenen Umständen, die von
+#facs_37_r3l23 beyden Theilen angebracht werden
+#facs_37_r3l24 können, zu verstärkung oder Schläch¬
+#facs_37_r3l25 ung oder zu völligen Entkräftung
+#facs_38_r2l1 der Lebenszimmer vieles beytr
+#facs_38_r2l2 so soll bey deren Erscheinung,
+#facs_38_r2l3 erst die Klägerin alle besonders
+#facs_38_r2l4 Umstände der geklagten That
+#facs_38_r2l5 wiederhoem anbringen, und alle
+#facs_38_r2l6 tragen deutlich beantworten, die
+#facs_38_r2l7 der Küster oder die Parthey zur
+#facs_38_r2l8 faläuterung von ihr zu wißen
+#facs_38_r2l9 begehren.
+#facs_38_r2l10 Der Beylagte soll gleichfalls
+#facs_38_r2l11 die von der Klägerin angebracht
+#facs_38_r2l12 Sähe und Umstande, wie auch die
+#facs_38_r2l13 fragen, so der Richter oder die
+#facs_38_r2l14 klägerin an ihn drüben, klar
+#facs_38_r2l15 und deutlich beantworten; es sey
+#facs_38_r2l16 daß er solche verneme, oder nur
+#facs_38_r2l17 erläuteren wolle.
+#facs_38_r2l18 Stimmt die gewisstliche Aussage
+#facs_38_r2l19 mit der vor= und nachherigen nach
+#facs_38_r2l20 überein, so daß die Klägerin
+#facs_38_r2l21 vor in- und nach der Genisst¬
+#facs_38_r2l22 nicht auf dem gleichen Vater be¬
+#facs_38_r2l23 fürt, so wird ihr ferner kein
+#facs_38_r2l24 glaube beygemeßen, und sie bleiben
+#facs_38_r3l1 von allen Paternitäts Act
+#facs_38_r3l2 schalten.
+#facs_38_r3l3 Het aber die Klägerin
+#facs_38_r3l4 g.
+#facs_38_r3l5 le¬
+#facs_38_r3l6 stet, was ihr das Gesez zum
+#facs_38_r3l7 Hebeis ihrer Klage vorschreibt.
+#facs_38_r3l8 so wirkt dieses zwar eine rechtlich
+#facs_38_r3l9 Muthmaßung zu ihren Gunsten.
+#facs_38_r3l10 Leßen ungeacht bleibt dem 3.
+#facs_38_r3l11 klagten, der auf der Verneinung be¬
+#facs_38_r3l12 farret, das Recht offen: entweder
+#facs_38_r3l13 Dein Alibi auf die geklagte.
+#facs_38_r3l14 Schlängerungszeit, oder sonsten
+#facs_38_r3l15 zu beleisten:
+#facs_38_r3l16 Daß die Klägerin sich eines und
+#facs_38_r3l17 huchtigen und schandhaften Lebens¬
+#facs_38_r3l18 schuldig gemacht; oder
+#facs_38_r3l19 Das sie eines andern Lasters
+#facs_38_r3l20 wegen durch richterliche Urtheil
+#facs_38_r3l21 ehrlos erklärt worden wäre.
+#facs_38_r3l22 In allen diesen erbietenen
+#facs_38_r3l23 fällen ist er der Vaterschafts¬
+#facs_38_r3l24 klage, entladen, und bleibt das Kind
+#facs_38_r3l25 der Mutter mit allen Folgen.
+#facs_38_r3l26 Kann aber der Beklagte von
+#facs_39_r2l1 diesen Ausnahmen keine beweisen
+#facs_39_r2l2 und will deßen ungeacht die Klag
+#facs_39_r2l3 nicht eingestehen, so soll die Prozedur
+#facs_39_r2l4 an das übere Ehegricht eingesandt
+#facs_39_r2l5 die unprotegischen, von den Unter¬
+#facs_39_r2l6 Chorgerichten bey Eidespflicht verfaßig
+#facs_39_r2l7 Leumdenszeugsamen beyder Partheyen
+#facs_39_r2l8 beygefüegt, demnach diese vorge¬
+#facs_39_r2l9 laden, und darauf nach Ablesung
+#facs_39_r2l10 der Prozedur, genauen Prüfung
+#facs_39_r2l11 der Zeugtainen und allen Umständen
+#facs_39_r2l12 entschieden werden, ob der Klägerin
+#facs_39_r2l13 der Schluß ihrer Klage zuerkenn
+#facs_39_r2l14 oder sie davon verhalten werden
+#facs_39_r2l15 möge. In Bichtigen und au¬
+#facs_39_r2l16 ordentlichen Fällen aber, wird den
+#facs_39_r2l17 Obern Ehegericht überlaßen, und
+#facs_39_r2l18 gutfindendem Ermessen und vor
+#facs_39_r2l19 dem Abspruch, die eint oder andere
+#facs_39_r2l20 Fürthey zu der eydlichen Behuf
+#facs_39_r2l21 tigung ihrer ausfagen anzuhaligen
+#facs_39_r2l22 1. Gegen einen Abgestorbenen
+#facs_39_r2l23 hat keine Paternitatsaction Plast
+#facs_39_r3l1 73
+#facs_39_r3l2 werde denn durch eine, von ihm
+#facs_39_r3l3 eigenhändig geschriebene, oder in Zeit
+#facs_39_r3l4 Rechs Wochen nach seinem Hinsche
+#facs_39_r3l5 von zweyen expresse dazu berufenen
+#facs_39_r3l6 Zeugen mündliche gethane Erklärung
+#facs_39_r3l7 die Vaterschaft, und zugleich bewiesen
+#facs_39_r3l8 das der verstorbene diese Erklärung
+#facs_39_r3l9 ungezbungen gethan habe, und da¬
+#facs_39_r3l10 mals bey guten Sinnen und voll¬
+#facs_39_r3l11 kommener Vernuft gebessen sey.
+#facs_39_r3l12 Einer Dienstmagd gebührt gegen
+#facs_39_r3l13 den Sohn des Hauses, dasie gedient,
+#facs_39_r3l14 keine Paternitätsaktion; er habe
+#facs_39_r3l15 dann das 16. Jahr seines Alters zu
+#facs_39_r3l16 rükgelegt.
+#facs_39_r3l17 Eben so einig einer Weibsperson
+#facs_39_r3l18 nach angetrettenem 24. Jahr, die
+#facs_39_r3l19 einen Knaben vor Zurückgelegtem
+#facs_39_r3l20 16. Jahr, der Paternität beklagte.
+#facs_39_r3l21 5. Wird das Kind einem mittellosen
+#facs_39_r3l22 Vater zugesprochen, so hat das Obern
+#facs_39_r3l23 Ehegericht das Recht, die Mutter zu
+#facs_39_r3l24 nem billigen Antheil an deßen
+#facs_40_r2l1 Erhaltung zu verfüllen. Sind aber
+#facs_40_r2l2 beyde Theile unbermöglich, oder
+#facs_40_r2l3 bleibt das Kind einer mittellosen
+#facs_40_r2l4 Mutter, so sind die Gemeinden, wie
+#facs_40_r2l5 bisher, schuldig, für die Erhaltung
+#facs_40_r2l6 der Rastarden, ganz oder hund
+#facs_40_r2l7 Theil, je nach den Umständen, zu
+#facs_40_r2l8 sorgen; in dem Verstand, daß
+#facs_40_r2l9 nur diejenigen gemeinden, deren
+#facs_40_r2l10 angehörigen das Kind zugestrochen
+#facs_40_r2l11 worden, diese Beschwerde ertrag¬
+#facs_40_r2l12 sollen.
+#facs_40_r2l13 9. Würde aber ein beklagter Vater
+#facs_40_r2l14 auf die Vorladung des Chregerichts
+#facs_40_r2l15 nicht erscheinen, so soll der Fall
+#facs_40_r2l16 an das Obere Ehegricht einberichtet,
+#facs_40_r2l17 der Beklagte, wenn er im Lande
+#facs_40_r2l18 sich aufhüllt, zum zweyten und
+#facs_40_r2l19 dritten mal von 14. zu 14. Tagen
+#facs_40_r2l20 citiert, und wenn durch Zeugfame
+#facs_40_r2l21 erhellte, daß die Citation ihn be-
+#facs_40_r2l22 zogen, seine Nichterscheinung
+#facs_40_r2l23 als ein eingeständnis der Klage
+#facs_40_r3l1 angesehen, mithin nach Vorschrift
+#facs_40_r3l2 des 5. Artikels per contumaciam gegen
+#facs_40_r3l3 ihn verfahren werden.
+#facs_40_r3l4 10° Jst der Beklagte äußert Lands, es
+#facs_40_r3l5 seye in avouierten Kriegsdiensten,
+#facs_40_r3l6 oder an einem andern bekamten
+#facs_40_r3l7 Ort, so sollen die von der Klägerin
+#facs_40_r3l8 vor- in- und nach der Benisst gethan
+#facs_40_r3l9 Anzeigen an das Obere Ehegricht über
+#facs_40_r3l10 standt, von diesem, dem Beklagten,
+#facs_40_r3l11 mitgetheilt, und ihme zu schriftlicher
+#facs_40_r3l12 Seantwortung derselben ein genug
+#facs_40_r3l13 samer Termin anbereinnt werden.
+#facs_40_r3l14 Ist er der Klage geständig, oder
+#facs_40_r3l15 kann vermeinenden falls die Klägerin
+#facs_40_r3l16 selbige durch eine gesezliche Ehever
+#facs_40_r3l17 strechung, oder durch eine schriftliche
+#facs_40_r3l18 oder vor unverberflichen Zeugen
+#facs_40_r3l19 geschehene Erklährung der Vaterschaft
+#facs_40_r3l20 oder durch ein vollständiges Rebeis¬
+#facs_40_r3l21 thum eines mit dem Beklagten gepflogen¬
+#facs_40_r3l22 fleischlichen Umgangt, beweisen, so wird gegen
+#facs_40_r3l23 ihn nach dem 5. Artikel verfahren.
+#facs_41_r2l1 Ist er der Klage nicht geständig,
+#facs_41_r2l2 so soll nach Vorschrift des 9. Artibels
+#facs_41_r2l3 verfahren werden; falls er aber
+#facs_41_r2l4 in einem avouerten Regiment
+#facs_41_r2l5 stühnde soll seine Antwort mit allen
+#facs_41_r2l6 Umständen von dem Regiment an;
+#facs_41_r2l7 das Obere Ehegricht übersendt, und
+#facs_41_r2l8 dann nach gleicher Vorschrift proce¬
+#facs_41_r2l9 diert werden.
+#facs_41_r2l10 Würde dann von dem Obern Ehe
+#facs_41_r2l11 gericht die Übertragung des Eyds
+#facs_41_r2l12 nöhtig befunden werden, so soll
+#facs_41_r2l13 jeleilen der Beklagte zu seiner
+#facs_41_r2l14 Vertheidigung, es sey daß der
+#facs_41_r2l15 klügerin der Erfüllungseyd, oder
+#facs_41_r2l16 ihme der Reinigungen anvertraut
+#facs_41_r2l17 würde, hieher beschieden werden;
+#facs_41_r2l18 zumalen die disfälligen Eyden ur¬
+#facs_41_r2l19 gendwo, als vor dem Obern Ehege¬
+#facs_41_r2l20 richt abgeschwohren werden sollen.
+#facs_41_r2l21 Ist des Beklagten Aufenthalt un¬
+#facs_41_r2l22 bekannt, oder begibt er sich in un¬
+#facs_41_r2l23 wovirten Kriegsdienst: so soll ihm
+#facs_41_r2l24 an dem Ort seiner Heymath, und
+#facs_41_r3l1 77
+#facs_41_r3l2 bo er sich vorher aufgehalten, dreymal
+#facs_41_r3l3 je zu drey Tagen und sechs Wochen
+#facs_41_r3l4 von Kanzeln gerufen, und nicht er
+#facs_41_r3l5 cheinenden falls, das Kind mit allen
+#facs_41_r3l6 folgen aufgebürdet werden.
+#facs_41_r3l7 Ist die Klägerin oder der Beklagte
+#facs_41_r3l8 von einem löbl. Eidgenößischen oder
+#facs_41_r3l9 zugelandten oder verbündeten Ort,
+#facs_41_r3l10 so soll der Fall von den Untern
+#facs_41_r3l11 Chorgerichten allsobald an das Obere
+#facs_41_r3l12 Ehegricht einberichtet, von diesem der
+#facs_41_r3l13 jebeilen, nach den vorhandenen
+#facs_41_r3l14 vertragen, oder denen gegenseitig
+#facs_41_r3l15 angenommenen und auf geubten Recht¬
+#facs_41_r3l16 und Gebohnheiten, verfahren berden.
+#facs_41_r3l17 Ist der Beklagte ein Landsfremder
+#facs_41_r3l18 und die Klägerin eine hiesige Ange¬
+#facs_41_r3l19 förige, so soll er auf derselben
+#facs_41_r3l20 Anzeige hin, in der Haubtstadt
+#facs_41_r3l21 von dem Obern Ehegricht, auf dem
+#facs_41_r3l22 Lande aber von dem Amtmann
+#facs_41_r3l23 des Orts mit Arrest belegt, oder
+#facs_41_r3l24 auch nach den Umständen, die allso
+#facs_41_r3l25 bald an das obere Ehegerichts
+#facs_42_r2l1 N.o & 16 Janv. 1792
+#facs_42_r2l2 ist dieses abgeen
+#facs_42_r2l3 deret werden, auf
+#facs_42_r2l4 dem Auß, wie zu
+#facs_42_r2l5 Mand: 3
+#facs_42_r2l6 17
+#facs_42_r3l1 einzuberichten sind, gefänglich einig,
+#facs_42_r3l2 zogen werden; es sey denn, daß er
+#facs_42_r3l3 für die Erziehung und Erhaltung des
+#facs_42_r3l4 Kindes, falls ihm siches zugestrochen
+#facs_42_r3l5 bürde, genugsamme Sürgschaft stelle;
+#facs_42_r3l6 damgumal ihm in Verführung der
+#facs_42_r3l7 Procedur das gleiche Recht, wie dem
+#facs_42_r3l8 Einheimschen, zu stadten kommen
+#facs_42_r3l9 soll. Würde er aber eine solch
+#facs_42_r3l10 Rürgschaft nicht leisten wollen, oder
+#facs_42_r3l11 nicht können, so soll er über die
+#facs_42_r3l12 gesetzliche, annoch mit mehrerer
+#facs_42_r3l13 Strafe, je nach den Umständen,
+#facs_42_r3l14 und des Obern Ehegrichts Erkäntnis
+#facs_42_r3l15 angesehen, und auf immer der
+#facs_42_r3l16 Landes verbiesen werden.
+#facs_42_r3l17 Würde er Eingegen die gechlän¬
+#facs_42_r3l18 erte zu ehelichen sich erklären, so
+#facs_42_r3l19 oll die Ehe ohne Verzug vollzogen
+#facs_42_r3l20 dem Ehemann dann freygestellt
+#facs_42_r3l21 werden, entbeden mit seinem Theil
+#facs_42_r3l22 beyzusiehen, oder sich inentstechs¬
+#facs_42_r3l23 Monaten um ein Bürgerrecht
+#facs_42_r3l24 im Lande umzusehen, und dafür
+#facs_42_r4l1 29
+#facs_42_r4l2 indessen Rürgschaft zu stellen. Kann
+#facs_42_r4l3 er aber nach Verlauf dieser Zeit den
+#facs_42_r4l4 Sürgerbrief nicht vorweisen: so soll
+#facs_42_r4l5 , ohne Verlängerung der Toleranz¬
+#facs_42_r4l6 samt Weil und Kind fortgebieten.
+#facs_42_r4l7 berden.
+#facs_42_r4l8 So bohl in obigem Falle, da der
+#facs_42_r4l9 Landesfremde äußert Stand ist.
+#facs_42_r4l10 die gestehliche Gürgschaft zu leisten,
+#facs_42_r4l11 als auch, wenn er aus dem Rechte
+#facs_42_r4l12 beicht und nicht behändiget werden
+#facs_42_r4l13 kann, bleibt das Kind der Minister
+#facs_42_r4l14 mit allen Folgen, und soll selbige
+#facs_42_r4l15 annoch mit der gefehlichen Strafe
+#facs_42_r4l16 belegt werden.
+#facs_42_r4l17 11°. Obgleich in gegenbärtigen
+#facs_42_r4l18 Dasungen nur von unverehelichten
+#facs_42_r4l19 Weibs personen die Rede ist, so soll
+#facs_42_r4l20 dennoch hierunter auch begriffen
+#facs_42_r4l21 seyn, ein Eheleib, das Jahr und Tag
+#facs_42_r4l22 von seinem Ehemann abgestondert.
+#facs_42_r4l23 lebt; es sey daß der Ehemann sich
+#facs_42_r4l24 äußert Lands begeben, oder daß er
+#facs_43_r2l1 im Land sich aufhalte; in so fern
+#facs_43_r2l2 lechtern falls die Abstanderung nicht
+#facs_43_r2l3 eigen gebältig, zu bieder der ersten
+#facs_43_r2l4 Satzung des zweiten Titels geschehen
+#facs_43_r2l5 sey. Doch mit der Ausnahme, daß
+#facs_43_r2l6 keiner verehelichten Weibs person,
+#facs_43_r2l7 in keinen Fällen, eben so wenig
+#facs_43_r2l8 einer ledigen Weibsperson, die
+#facs_43_r2l9 einen Ehemann der Paternität be-
+#facs_43_r2l10 blegte, der Eid anvertraut, mithin
+#facs_43_r2l11 alle Ehebruchsfälle, nach Ausweis
+#facs_43_r2l12 der dritten Sichung des zweyten
+#facs_43_r2l13 Titels, gesezlich, das ist, entweder
+#facs_43_r2l14 durch ein schriftliches oder münd-
+#facs_43_r2l15 liches Eingeständniß des Beklagten
+#facs_43_r2l16 oder durch zwey unverwerfliche
+#facs_43_r2l17 Zeugen, bebiesen beyden sollen.
+#facs_43_r2l18 Mit der Erläuterung: daß, wenn
+#facs_43_r2l19 ein Eheleib bährend der Abwesenheit
+#facs_43_r2l20 tenes Ehemanns sich schbängern
+#facs_43_r2l21 ließe, dem Ehemann der Rebeis
+#facs_43_r2l22 seiner legitimen Abbestenheit auf
+#facs_43_r2l23 die Schlängerungszeit zu stadten
+#facs_43_r2l24 komme.
+#facs_43_r3l1 81
+#facs_43_r3l2 Pierter Titel
+#facs_43_r3l3 der Befesung der Bürgerichter
+#facs_43_r3l4 Bonn
+#facs_43_r3l5 zu Stadt und Land.
+#facs_43_r3l6 J.J.
+#facs_43_r3l7 Im Besehung des Obern Ehegerichts
+#facs_43_r3l8 der Stadt been, als des Haubts aller¬
+#facs_43_r3l9 Chorgerichten Unserer Städte und Landen
+#facs_43_r3l10 behalten Wir Uns allein vor, um
+#facs_43_r3l11 voll selbiges, so lange Wir es gut
+#facs_43_r3l12 finden, noch ferner bestehen:
+#facs_43_r3l13 1o. Aus einem Präsidente aus der
+#facs_43_r3l14 Zahl Unsters täglichen Raths.
+#facs_43_r3l15 aus zweyen Pfarrherren, von denen
+#facs_43_r3l16 2.
+#facs_43_r3l17 drey gestehten Obersten Pferr¬
+#facs_43_r3l18 Herren der Hrubtkirche.
+#facs_43_r3l19 3o Aus dreyen ausbedienten Amt
+#facs_43_r3l20 leuten, und
+#facs_43_r3l21 4° Aus dreyen Standsgliedern, so
+#facs_43_r3l22 noch keine Aemter bedient haben.
+#facs_43_r3l23 Nach der bisherigen Ordnung der
+#facs_43_r3l24 Abbechslung und der Zeit.
+#facs_43_r3l25 §2.
+#facs_43_r3l26 In Unsern Städten deutschen und
+#facs_44_r2l1 welschen Landes, Laßen Wir es nach
+#facs_44_r2l2 ferners bey den Herkomen ver
+#facs_44_r2l3 bleiben.
+#facs_44_r2l4 §.3.
+#facs_44_r2l5 Die Ehergerichte auf dem Lande sollen
+#facs_44_r2l6 Unsere Amtleute und Tlingherren
+#facs_44_r2l7 jedes Kirchspiels mit frommen, ehr
+#facs_44_r2l8 baren, und tängigen Personen beste
+#facs_44_r2l9 zen, und zu diesem Ende, wenn
+#facs_44_r2l10 ein Chorrichter abgeht, sich allsobald
+#facs_44_r2l11 eine Wahl der Ileen oder dreyen
+#facs_44_r2l12 stüchtigsten Männern der Gemeinde
+#facs_44_r2l13 durch den Pfarrherrn des Orts, dem
+#facs_44_r2l14 die Tüchtigkeit seiner Pfarrange,
+#facs_44_r2l15 hörigen am besten bekantseyn
+#facs_44_r2l16 soll, vorlegen laßen, und den
+#facs_44_r2l17 Erbählten in Eydespflicht aufnemm.
+#facs_44_r2l18 §. 4.
+#facs_44_r2l19 Ein niemals verehelicht gebestener
+#facs_44_r2l20 Mann soll die Stelle eines Chor¬
+#facs_44_r2l21 richters nicht bekleiden, es sey
+#facs_44_r2l22 denn, daß keine Wahl von tüchtigen
+#facs_44_r2l23 verehelichten Männern gemacht
+#facs_44_r2l24 werden könnte; die unverheyrachteten
+#facs_44_r3l1 83
+#facs_44_r3l2 Pfarrherren aber, oder ihre ordent¬
+#facs_44_r3l3 lich bestellten Vicarii, sollen gleich
+#facs_44_r3l4 den verehelichten, Reysizer der
+#facs_44_r3l5 Ehrbarkeit seyn, an dem Chorge¬
+#facs_44_r3l6 richte Siz und Stimme haben, und
+#facs_44_r3l7 von dem Amtmann oder seinem
+#facs_44_r3l8 Stadthalter, die ersten um ihre
+#facs_44_r3l9 Meinung befragt werden.
+#facs_44_r3l10 I.5.
+#facs_44_r3l11 Die Entlaßung der Chorrichteren,
+#facs_44_r3l12 auf ihr begründetes ehrerbietiges
+#facs_44_r3l13 Ansuchen, überlaßen Wir Unsern
+#facs_44_r3l14 Amtleuten und Tbingherren; doch
+#facs_44_r3l15 soll ihnen solche ohne wichtige
+#facs_44_r3l16 Ursachen nicht ertheilt werden.
+#facs_44_r3l17 § 6
+#facs_44_r3l18 Die Entstehung derer hingegen,
+#facs_44_r3l19 die durch Hintansehung ihrer Pflichten
+#facs_44_r3l20 sich dieser Ehrenstelle unbürdig
+#facs_44_r3l21 machen, bleibt Unserem täglichen
+#facs_44_r3l22 Rath vorbehalten, an welchen die
+#facs_44_r3l23 Klägden durch den Amtmann über
+#facs_44_r3l24 schrieben werden sollen.
+#facs_44_r3l25 8.7
+#facs_45_r2l1 §. 7.
+#facs_45_r2l2 Wer ohne derhebliche Bründe, die
+#facs_45_r2l3 ihm aufgetragene Würde eines
+#facs_45_r2l4 Chorrichters auszuschlagen sich ver
+#facs_45_r2l5 miszt, soll gleichfalls Unserem
+#facs_45_r2l6 täglichen Rath verleidet, und mit
+#facs_45_r2l7 der Leistung, oder einer andern
+#facs_45_r2l8 angemeßenen Strafe, belegt werden,
+#facs_45_r2l9 bis er sich eines bestern bedenkt.
+#facs_45_r2l10 Wer aber bichtige Bründe zur
+#facs_45_r2l11 Weigerung zu haben vermeint,
+#facs_45_r2l12 und bey dem Amtmann vom
+#facs_45_r2l13 Gehör findet, wann solche Unserm
+#facs_45_r2l14 täglichen Rath vorlegen, und deßen
+#facs_45_r2l15 Entscheid erbarten.
+#facs_45_r2l16 Fünfter etc.
+#facs_45_r3l1 85
+#facs_45_r3l2 Fünfter Titel.
+#facs_45_r3l3 Von dem Amt und den Pflichten.
+#facs_45_r3l4 der Börrichtern.
+#facs_45_r3l5 J. A.
+#facs_45_r3l6 allen unsern Ehorrichtern überhaubt,
+#facs_45_r3l7 und einem jeden derselben insbe¬
+#facs_45_r3l8 sonders, soll bey ihren Pflichten
+#facs_45_r3l9 obliegen, auf alle durch vorstehende
+#facs_45_r3l10 Ehegerichts Rezungen bestimmte Fälle
+#facs_45_r3l11 fleißig zu achten, die, so ihnen selbst
+#facs_45_r3l12 bekant, oder glaubbürdig angezeigt
+#facs_45_r3l13 werden, vor Chorgericht anzubringen,
+#facs_45_r3l14 die Fehlbaren zu bestcheiden, zu
+#facs_45_r3l15 verhören, und gegen dieselben nach
+#facs_45_r3l16 vorschrift der Sozungen, ohne An¬
+#facs_45_r3l17 sehen der Person, zu verfahren:
+#facs_45_r3l18 §.2
+#facs_45_r3l19 Ihnen liegt gleichfalls ob, auf
+#facs_45_r3l20 Christliche Ordnung, zucht und Ehr¬
+#facs_45_r3l21 barkeit geflißen und alles Ernsts
+#facs_45_r3l22 zu achten, alle Widerhandlende
+#facs_45_r3l23 vor sich zu bescheiden, sie ernstlich
+#facs_45_r3l24 zu ermahnen, zu lernen, auch
+#facs_46_r2l1 nach habender Behalt und vorschrift
+#facs_46_r2l2 der Rahungen, zu strafen.
+#facs_46_r2l3 Wichtigere Fälle aber an Unsere
+#facs_46_r2l4 Amtleute, auch von diesen, je nach
+#facs_46_r2l5 Gebandtniß und Große des Ver¬
+#facs_46_r2l6 gehens, an das übere Ehegericht
+#facs_46_r2l7 oder an Unsern täglichen Rath
+#facs_46_r2l8 gelangen zu laßen.
+#facs_46_r2l9 § 3.
+#facs_46_r2l10 Und damit die Chorrichter auf alle
+#facs_46_r2l11 ihre angehörige ein desto wachsamieres
+#facs_46_r2l12 Auge haben können, so sollen alle
+#facs_46_r2l13 Kirchstiele, nach bisherigem Gebrauch
+#facs_46_r2l14 in Viertel, oder den Dorfschaften
+#facs_46_r2l15 nach eingetheilt, und jedem der Ehor¬
+#facs_46_r2l16 richteren insbesondere die Aufsicht
+#facs_46_r2l17 über einen dieser Theile übergeben
+#facs_46_r2l18 werden.
+#facs_46_r2l19 §.4
+#facs_46_r2l20 Alle vierzehen Tage soll sich das
+#facs_46_r2l21 Chorgericht jeden Orts, nach ge-
+#facs_46_r2l22 endigtem Gottesdienst ordentlich
+#facs_46_r2l23 einmal verfammlen, beim schon
+#facs_46_r2l24 keine andere Geschäfte zu behandlen.
+#facs_46_r3l1 87
+#facs_46_r3l2 baren, als daß der Pfarrer, lden er
+#facs_46_r3l3 von der Kanzel steigt, von einem
+#facs_46_r3l4 jeden der Chorrichteren vernemme
+#facs_46_r3l5 ob er etwas anzubringen habe, und
+#facs_46_r3l6 ob xyz in seinem Bezirk alles ehrbar
+#facs_46_r3l7 hergehe. Wo aber jemanden daran
+#facs_46_r3l8 gelegen Bäre, daß das Chörgericht
+#facs_46_r3l9 sich außerordentlich verstammle, der
+#facs_46_r3l10 bau mit zweyen Pfunden, zu Handen
+#facs_46_r3l11 deßelben, Bastgericht erkaufen,
+#facs_46_r3l12 und soll dafür ein mehrers nicht
+#facs_46_r3l13 schuldig seyn.
+#facs_46_r3l14 §. 5.
+#facs_46_r3l15 Die Chorrichter sollen den Verstan¬
+#facs_46_r3l16 lungen des Chorgerichts fleißig
+#facs_46_r3l17 beybohnen, und ohne ehehafte Urstechen
+#facs_46_r3l18 nicht ausbleiben; unfleißigen falls
+#facs_46_r3l19 von den übrigen Chorrichteren er-
+#facs_46_r3l20 mahnt, und wenn sie der Ermahnung
+#facs_46_r3l21 nicht achten, dem Ober Amtsmann ver-
+#facs_46_r3l22 leidet, und von ihm zur Verantbortung
+#facs_46_r3l23 gezogen werden.
+#facs_46_r3l24 §. 6.
+#facs_46_r3l25 Der Verammlung des Chorgerichts
+#facs_47_r2l1 wo der Obergürtigen sich, soll der
+#facs_47_r2l2 selbe, so oft es ihm Leibe und Ge¬
+#facs_47_r2l3 schäften hald möglich ist, selbst bey¬
+#facs_47_r2l4 wohnen.
+#facs_47_r2l5 An anderen Orten, oder in seiner
+#facs_47_r2l6 Abwesenheit wird sein Staithalter
+#facs_47_r2l7 nach jeden Beits Uebung, seine Stelle
+#facs_47_r2l8 vertreten; und auch in dieser leztern
+#facs_47_r2l9 Abwesenheit soll die Versammlung
+#facs_47_r2l10 nicht unterlaßen werden, sondern
+#facs_47_r2l11 in diesem Fall der älteste Chor
+#facs_47_r2l12 richter nach dem Rang des Stadt¬
+#facs_47_r2l13 halters Pflichten erstacten
+#facs_47_r2l14 §. 7.
+#facs_47_r2l15 die Oberamtleute, und die Wingherry,
+#facs_47_r2l16 so die mirgerichte verhalten sollen
+#facs_47_r2l17 bey ihrer Eidespflicht fleisige Acht
+#facs_47_r2l18 bestellen, daß zucht= und Ehrbarkeit
+#facs_47_r2l19 aller Orten beybehalten werden,
+#facs_47_r2l20 und daß zu dem Ende der Pfarrer
+#facs_47_r2l21 und die sämtlichen Eherrichter in
+#facs_47_r2l22 Erfüllung ihrer Pflichten sich nicht
+#facs_47_r2l23 raumseelig bezeigen; als in welchem
+#facs_47_r2l24 Falle
+#facs_47_r3l1 89.
+#facs_47_r3l2 falle, und wenn ihre Vermahnungen
+#facs_47_r3l3 fruchtlos wären, sie solche dem Obern
+#facs_47_r3l4 Ehegericht zu verdienter Restrefung
+#facs_47_r3l5 verleiden sollen.
+#facs_47_r3l6 Desgleichen soll auch Unsern Pfarrern
+#facs_47_r3l7 und Chorrichtern bey ihrer Eides,
+#facs_47_r3l8 pflicht obliegen, falls die Oberamtleute
+#facs_47_r3l9 oder Tbingherren ihnen ihre Hülfe
+#facs_47_r3l10 und nöhtigen Reystand zu gemein¬
+#facs_47_r3l11 strafbarer Ausgelaßenheiten
+#facs_47_r3l12 versagen bürden, ihre Klägdten
+#facs_47_r3l13 dem Obern Ehegericht vorzutragen,
+#facs_47_r3l14 Belches dieselben zu gebührender
+#facs_47_r3l15 Verantwortung ziehen, und zu Recht
+#facs_47_r3l16 beisen- oder unerheblichen falls
+#facs_47_r3l17 bey Unserm täglichen Rath verblogen
+#facs_47_r3l18 bird.
+#facs_47_r3l19 I. S.
+#facs_47_r3l20 In allen andern Fällen soll kein
+#facs_47_r3l21 Chorgericht weder an das obere Ehe¬
+#facs_47_r3l22 gericht, noch an andere kamern
+#facs_47_r3l23 etwas schriftliches gelangen lassen,
+#facs_47_r3l24 sie haben dann solches ihren Ober
+#facs_47_r3l25 amtleuten oder Tbingherren
+#facs_48_r2l1 communiziert, und von ihnen be¬
+#facs_48_r2l2 sieglen lassen. Ebenfalls sollen
+#facs_48_r2l3 alle Schreiben, so von dem Obern
+#facs_48_r2l4 Ehegericht oder von andern Kammern
+#facs_48_r2l5 an die vorgerichte oder Ehrbar
+#facs_48_r2l6 keiten in Unsern Landen abgehen,
+#facs_48_r2l7 von den Ober Amtleuten oder Tling¬
+#facs_48_r2l8 Herren eröffnet werden, noth drin
+#facs_48_r2l9 gende Ende jedennoch, die keinen
+#facs_48_r2l10 Aufschub leiden, vorbehalten, als
+#facs_48_r2l11 bey welchen in Abwesenheit oder
+#facs_48_r2l12 Entfernung der OberAmtleuten
+#facs_48_r2l13 und Tbingherren, deren Statt¬
+#facs_48_r2l14 halter die Schreiben eröfnen.
+#facs_48_r2l15 selbige den Ehrbarkeiten vortragen,
+#facs_48_r2l16 auch die nöhtige Antwort und Be¬
+#facs_48_r2l17 richte zurück schreiben können.
+#facs_48_r2l18 §.9
+#facs_48_r2l19 Aller Orten, wo kein bestelter Schreiber
+#facs_48_r2l20 das Chorgericht bedient, soll der
+#facs_48_r2l21 Pfarrer die Feder Führen, und ein
+#facs_48_r2l22 ordentliches Mannal haben, so¬
+#facs_48_r2l23 ihm der Kirchmeyer anschaffen
+#facs_48_r3l1 91
+#facs_48_r3l2 soll. Bey einer jeden Verständung
+#facs_48_r3l3 soll der Tag dasie gehalten wird
+#facs_48_r3l4 die Anzahl der gegenbürtigen
+#facs_48_r3l5 Chorrichtern, und die Namen der
+#facs_48_r3l6 Abloesenden, des gleichen die Ab¬
+#facs_48_r3l7 änderung derselben, auch alle andere
+#facs_48_r3l8 Verhandlungen und bezogenen
+#facs_48_r3l9 Außen fleißig eingeschrieben, bey
+#facs_48_r3l10 einer jeden Verstammlung die Ver¬
+#facs_48_r3l11 fandlungen der vorhergehenden
+#facs_48_r3l12 dem verstammelten Chorgerichte wört¬
+#facs_48_r3l13 lich vorgelesten, dieses Mannal
+#facs_48_r3l14 dann, zu glaubbürdiger Zeugsame
+#facs_48_r3l15 und Erinnerung, allezeit bey dem
+#facs_48_r3l16 Kirchspiel, in eines jedeiligen
+#facs_48_r3l17 Pfarrers Handen verbahrlich auf¬
+#facs_48_r3l18 behalten werden; der bestellte
+#facs_48_r3l19 visitator aber schuldig seyn, selbiges
+#facs_48_r3l20 alljährlich, ob es ordentlich und fleißig
+#facs_48_r3l21 geführt, ob die bestimmten Verstam¬
+#facs_48_r3l22 lungen der Ehrbarkeit nicht unter¬
+#facs_48_r3l23 laßen, und von den eint- oder
+#facs_48_r3l24 andern Eherrichtern verabfäumt,
+#facs_48_r3l25 worden. einzuschauen, und deßen
+#facs_49_r2l1 behörigen Orts den gewißenhaften
+#facs_49_r2l2 Bericht zu erstatten.
+#facs_49_r2l3 S. 10.
+#facs_49_r2l4 Den Pfarrern soll endlich noch
+#facs_49_r2l5 obliegen, die vor Chorgericht Geschie¬
+#facs_49_r2l6 denen examinieren zu helfen,
+#facs_49_r2l7 sie wo es vomnöhten ist, zu vermahnen
+#facs_49_r2l8 zu bestrafen und zu vereinbaren,
+#facs_49_r2l9 fonderheitlich diejenigen, so den
+#facs_49_r2l10 Eid ablegen sollen, darum zu unter¬
+#facs_49_r2l11 weisen, und ihnen die Wichtigkeit
+#facs_49_r2l12 deßelben kräftigst zu gemichten
+#facs_49_r2l13 zu führen; mithin in diesem und
+#facs_49_r2l14 andern Fällen alles das zu er¬
+#facs_49_r2l15 steiten, was das Amt und die
+#facs_49_r2l16 Pflichten eines getreuen und eiferigen
+#facs_49_r2l17 Seelsorgers von ihm erfordern.
+#facs_49_r2l18 Rechster
+#facs_49_r3l1 Sechster Titel.
+#facs_49_r3l2 Von der Competens und der
+#facs_49_r3l3 Gewalt der Obern Ehegerichts
+#facs_49_r3l4 der Stadt Bern.
+#facs_49_r3l5 S. S.
+#facs_49_r3l6 In allen Fällen die Zweifelhaft sind,
+#facs_49_r3l7 ob sie in das Eriminale oder Malefiz
+#facs_49_r3l8 gehören, und bey denen eine oder
+#facs_49_r3l9 mehrere Personen gefänglich einge¬
+#facs_49_r3l10 sagen sind, soll das obere Ehegericht
+#facs_49_r3l11 nicht urtheilen, sondern die Sache als
+#facs_49_r3l12 sobald unserm täglichen Rath vortragen.
+#facs_49_r3l13 3.2
+#facs_49_r3l14 In denen durch gegenbärtige Sohnungen
+#facs_49_r3l15 bestimten Fällen, soll das obere Ehe¬
+#facs_49_r3l16 gericht nach Vorschrift derselben
+#facs_49_r3l17 handeln, und davon nicht abbeichen;
+#facs_49_r3l18 in unbestimmten Fällen aber nach
+#facs_49_r3l19 Eydespflicht und bestem Gewißen
+#facs_49_r3l20 ohne Ansehen der Persohn verfahren
+#facs_49_r3l21 § 3
+#facs_49_r3l22 In verführung derjenigen Praeceduren
+#facs_49_r3l23 über welche keine gesezliche Vorschrift
+#facs_50_r1l1 vorhanden ist, soll allwegen nach dem
+#facs_50_r1l2 in der neuen Gerichtstehung bestimmen
+#facs_50_r1l3 summarischen Rechte verfahren
+#facs_50_r1l4 beaden.
+#facs_50_r1l5 § 4
+#facs_50_r1l6 In Ehe Anstrach und Scheidigung
+#facs_50_r1l7 fällen, soll dem sich beschwerenden
+#facs_50_r1l8 Theil frey stehen, die Urteil des
+#facs_50_r1l9 Obern Ehegerichts vor Untern täglichen
+#facs_50_r1l10 Rath zu ziehen.
+#facs_50_r1l11 J.5.
+#facs_50_r1l12 In Hurerey= und Ehebruchsfüllen
+#facs_50_r1l13 hingegen, soll es bey des Obern Ehe
+#facs_50_r1l14 gerichts Urtheil, in so fern selbiges
+#facs_50_r1l15 auf die bestimmten Strafgesehe.
+#facs_50_r1l16 gegründet, ist, sein verbleiben
+#facs_50_r1l17 haben und selbige nicht beiters ge¬
+#facs_50_r1l18 Gegen werden können.
+#facs_50_r1l19 §.6
+#facs_50_r1l20 In denen Fällen, da durch die
+#facs_50_r1l21 Razungen auf die Fehlen beim
+#facs_50_r1l22 bestimmte Strafen gesteht sind, und
+#facs_50_r1l23 die durch die Umstände gesicherft¬
+#facs_50_r2l1 95
+#facs_50_r2l2 oder gemildert werden können, geben
+#facs_50_r2l3 Wir Unserm Ober-Ehegericht die
+#facs_50_r2l4 gebalt und die Competrich, die Fehl¬
+#facs_50_r2l5 baren bis auf zwanzigtägige Getang¬
+#facs_50_r2l6 schafft, mit dem Pranger, mit ein¬
+#facs_50_r2l7 jährigem Arrest, oder einjühriger
+#facs_50_r2l8 Zuchthaus strafe, mit Verbeistung
+#facs_50_r2l9 der Fremden aus Unseren Landen
+#facs_50_r2l10 und der Einheimischen aus der
+#facs_50_r2l11 Haubtstadt, mit einer Geldbuße
+#facs_50_r2l12 bis auf die Summe der einhundert
+#facs_50_r2l13 Pfunden zu Handen der Armen,
+#facs_50_r2l14 der Befellschaften, oder der es
+#facs_50_r2l15 Gemeinden zu belegen und zu
+#facs_50_r2l16 bestrafen.
+#facs_50_r2l17 Siebender etc
+#facs_51_r2l1 Siebenter Atel.
+#facs_51_r2l2 Von dit Competens und der
+#facs_51_r2l3 Gewalt der Borgerichten in
+#facs_51_r2l4 Küstern Städten und Landen.
+#facs_51_r2l5 § 1.
+#facs_51_r2l6 Beichbin schon in dem achten
+#facs_51_r2l7 § der neuen Säzung des ersten
+#facs_51_r2l8 Titels den Pfarrherren insbeson¬
+#facs_51_r2l9 ders die genaue Aufsicht obliegt, daß
+#facs_51_r2l10 keine durch gegenbärtige Satzung
+#facs_51_r2l11 verbotene Eheversprechungen durch
+#facs_51_r2l12 östentliche Einsegnung vollzogen
+#facs_51_r2l13 werden, und diese Aufsicht sich
+#facs_51_r2l14 auch auf alle Chorgerichte erstrekel
+#facs_51_r2l15 so daß keine Ehe gestadtet werden
+#facs_51_r2l16 soll, da die Verlobten sich in einem
+#facs_51_r2l17 allzunahen Brade der Sluts Freund
+#facs_51_r2l18 schaft oder Echwagerschaft, nach der
+#facs_51_r2l19 Vorschrift der fünften Satzung des
+#facs_51_r2l20 ersten Titels oder in einem andern
+#facs_51_r2l21 erbostenen Falle befinden, sondern
+#facs_51_r2l22 die Sache alsobald dem Oberen
+#facs_51_r2l23 Ehegericht angezeigt bey den soll,
+#facs_51_r3l1 97
+#facs_51_r3l2 allso sollen im Gegentheil alle Ehor¬
+#facs_51_r3l3 gerichte die Gewalt haben, bey Ehe¬
+#facs_51_r3l4 versprechungen, da beyde Theile
+#facs_51_r3l5 derselben bekanntlich, und ihres eigene
+#facs_51_r3l6 Rechtens sind, die Verlobten zu¬
+#facs_51_r3l7 n
+#facs_51_r3l8 schleuniger Vollziehung der Ehe durch
+#facs_51_r3l9 offenen Kirchgang anzuhalten, oder
+#facs_51_r3l10 den biederspenstigen Theil dem Ober
+#facs_51_r3l11 Amtsmann oder Tlingherrn zu
+#facs_51_r3l12 verleiden, nach Vorschrifft de nennten
+#facs_51_r3l13 § der neunten Rechnung erster Titel.
+#facs_51_r3l14 §.2.
+#facs_51_r3l15 Denenjenigen, so nach der Zweyten
+#facs_51_r3l16 Sasung des ersten Titels das zugrecht
+#facs_51_r3l17 gegen die Ehevollziehung minderjah¬
+#facs_51_r3l18 iger verlobten gebrauchen wollen,
+#facs_51_r3l19 soll zwar ihr Recht nicht abgeschlag¬
+#facs_51_r3l20 werden; doch haben die Chorgerichte
+#facs_51_r3l21 die Gewalt, durch freundliche Vor¬
+#facs_51_r3l22 stellungen und kräftige Ermahnungen
+#facs_51_r3l23 solche Personen von ihrem Vor¬
+#facs_51_r3l24 haben abwendig zu machen, und
+#facs_51_r3l25 sie zur Einbilligung zu bereden.
+#facs_52_r2l1 §.3.
+#facs_52_r2l2 Wenn über eine Eheversprechung
+#facs_52_r2l3 Streit entstehet, und durch die
+#facs_52_r2l4 kräftige Vermitlung der Ehrrächtern
+#facs_52_r2l5 die wir ihnen als eine der größ¬
+#facs_52_r2l6 Pflichten anbefehlen, der Friede¬
+#facs_52_r2l7 nicht gestiftet, und die Ehe zum
+#facs_52_r2l8 Stand gebracht berden mag, und
+#facs_52_r2l9 der blagende Theil keine gesetzliche
+#facs_52_r2l10 Verbeisthummer nach Innhalt
+#facs_52_r2l11 der ersten Rahung des ersten
+#facs_52_r2l12 Titels in Handen hat, so haben
+#facs_52_r2l13 alle Ehergerichte den Gebalt, dem
+#facs_52_r2l14 selben seinen Ungrund vorzustellen
+#facs_52_r2l15 und falls er sich begriffe, und von
+#facs_52_r2l16 seiner Ansprach abstühnde, die es
+#facs_52_r2l17 Partheyen ohne fernere Kösten,
+#facs_52_r2l18 und ohne sie an das Obere Ehepricht
+#facs_52_r2l19 zu beisten, von einander zu
+#facs_52_r2l20 sprechen, und in ihre ehevorige
+#facs_52_r2l21 freyheit zu sehen.
+#facs_52_r2l22 Falls aber der ansprechende
+#facs_52_r2l23 Theil den Reyschlaf klagte, oder
+#facs_52_r2l24 sonsten von seiner Ansprache
+#facs_52_r3l1 99
+#facs_52_r3l2 nicht abstehen wollte, sollen die
+#facs_52_r3l3 Vortheyen mit einem umständlichen
+#facs_52_r3l4 Gerichtschreiben an das obere Ehege¬
+#facs_52_r3l5 richt gewiesen werden.
+#facs_52_r3l6 §. 4.
+#facs_52_r3l7 In Ehestreitigkeiten sollen die
+#facs_52_r3l8 Chorgerichte überhaupt, und ein
+#facs_52_r3l9 jeder Chorrichter insbesondere, sonder¬
+#facs_52_r3l10 lich die Pfarrer, sich äußerst ange¬
+#facs_52_r3l11 legen seyn laßen, diestreitigen
+#facs_52_r3l12 Eheleute zu vereinbaren, den Haus
+#facs_52_r3l13 frieden zu stiften, und selbige um
+#facs_52_r3l14 geringe nichts bedeutende Sachen
+#facs_52_r3l15 nicht vor Recht kommen laßen,
+#facs_52_r3l16 es haben auch die Chorgerichte den
+#facs_52_r3l17 Gebalt, bey eigenmächtigen Sön¬
+#facs_52_r3l18 derungen, die Eheleute wieder zu
+#facs_52_r3l19 sammen zu sprechen; des gleichen
+#facs_52_r3l20 den fehlbaren Theil mit Bedrohungen
+#facs_52_r3l21 euch wo nöhtig mit wirklicher Ge¬
+#facs_52_r3l22 fangenschaftsstrafe zu Recht zu
+#facs_52_r3l23 weisen, und alle nur erstümliche
+#facs_52_r3l24 rechtmäßige Mittel zur Versohnung
+#facs_52_r3l25 enzubenden, um die Scheidigung so
+#facs_53_r2l1 lang ungegnüglich aufzuhalten.
+#facs_53_r2l2 den Ehebruch jedoch, und deßen
+#facs_53_r2l3 Strafe vorbehalten.
+#facs_53_r2l4 Wenn aber Ehebruch, oder un
+#facs_53_r2l5 anders die völlige Scheidigung be¬
+#facs_53_r2l6 bürkendes Verbrechen geklagt wird
+#facs_53_r2l7 und die Versohnung nicht vermittelt
+#facs_53_r2l8 werden kann, soll das Beschäft an
+#facs_53_r2l9 das Obern Ehegericht geliefen werden
+#facs_53_r2l10 und die Untern Ehergerichte sich dann
+#facs_53_r2l11 Ferners der Bache nicht mehr beladen
+#facs_53_r2l12 es bäre denn Dache, daß noch dann
+#facs_53_r2l13 zumal der Friede gestiftet werden
+#facs_53_r2l14 könnte.
+#facs_53_r2l15 I. S.
+#facs_53_r2l16 In Hurerey und Ehebruchsfüllen,
+#facs_53_r2l17 so wohl, als in öfters daher ent¬
+#facs_53_r2l18 stehenden Streitigkeiten liegen
+#facs_53_r2l19 Erhaltung der Kindern, gebührt die
+#facs_53_r2l20 Reurtheilung dem Oberen Ehegericht
+#facs_53_r2l21 allein, als wohin die Sache gewies¬
+#facs_53_r2l22 werden soll; maßen diejenigen
+#facs_53_r2l23 Untern Chorgerichte, die in der
+#facs_53_r2l24 gleichen Fällen etwas eigengebältig
+#facs_53_r3l1 101
+#facs_53_r3l2 verfügen bürden, zu gebührender
+#facs_53_r3l3 Verantwortung gezogen werden
+#facs_53_r3l4 sollen.
+#facs_53_r3l5 3. 6.
+#facs_53_r3l6 Die Pflichten so bohl als die Gebalt
+#facs_53_r3l7 der Klorgerichten, gegen schlangere
+#facs_53_r3l8 dirnen, verführung der daherigen
+#facs_53_r3l9 Proceduren, des gerichtlichen Examens
+#facs_53_r3l10 un
+#facs_53_r3l11 und was dahin einschlägt, ist in
+#facs_53_r3l12 dem dritten Titel weitläufig
+#facs_53_r3l13 enthalten.
+#facs_53_r3l14 57.
+#facs_53_r3l15 Zu Reybehaltung guter Ordnung,
+#facs_53_r3l16 Zucht und Ehrbarkeit, geben Wir¬
+#facs_53_r3l17 allen Ehergerichten die Bebalt die¬
+#facs_53_r3l18 jenigen, so sich gegen ihre Ermahn¬
+#facs_53_r3l19 ungen und Warnungen ungehorsam¬
+#facs_53_r3l20 oder verächtlich bezeugen, ihrer Be¬
+#facs_53_r3l21 walt und Ansehens spotten, desgleichen
+#facs_53_r3l22 diejenigen, so dem Laster der Trunbe
+#facs_53_r3l23 heit ergeben, und daher mit ihren
+#facs_53_r3l24 Ehegarten in Zank und Streit gerahten
+#facs_53_r3l25 Hie nicht beniger alle die, so sich
+#facs_53_r3l26 auf eint- oder andere Weise mit
+#facs_54_r2l1 fluchen und Schwören, nunngem
+#facs_54_r2l2 Müßiggang, nächtlichem Cärmen
+#facs_54_r2l3 lüderlichem Winkelbihrten, oder
+#facs_54_r2l4 sonst ungebührlich, unanständig¬
+#facs_54_r2l5 und ärgerlich betragen.
+#facs_54_r2l6 Mit Verbot der Wihrtshäusern
+#facs_54_r2l7 Mit z bey bis dreytägiger Gefan¬
+#facs_54_r2l8 genschaft, mit Oberämtlichem
+#facs_54_r2l9 vorwisen, oder
+#facs_54_r2l10 Mit einer Geldbuße bis auf
+#facs_54_r2l11 sehen Pfund, zu strafen; und falls
+#facs_54_r2l12 sie sich an diese Züchtigungen
+#facs_54_r2l13 nicht kehrten, sie den Ober Amt
+#facs_54_r2l14 lenten zu härterer Strafe, und
+#facs_54_r2l15 wenn auch daran nicht genug
+#facs_54_r2l16 wäre, dem Obern Ehegericht zu
+#facs_54_r2l17 verleiden, welches nach habender
+#facs_54_r2l18 Competenz gegen die Fehlbaren
+#facs_54_r2l19 verfahren, oder unserm täglichen
+#facs_54_r2l20 Rath die angemeßene schäaffere
+#facs_54_r2l21 Strafe überlaßen wird.
+#facs_54_r2l22 §. 9.
+#facs_54_r2l23 allen Unseren Chorgerichten
+#facs_54_r3l1 103.
+#facs_54_r3l2 zu Stadt und Land, geben Wir den
+#facs_54_r3l3 Befehl und die Gewalt, die verfallenen
+#facs_54_r3l4 Geldbußen, so nicht baar ausbehalt
+#facs_54_r3l5 werden, durch ihre Weibel, von den
+#facs_54_r3l6 Übertretern, mit Pfandustragen,
+#facs_54_r3l7 oder sonst, nach eines jeden Gerichts
+#facs_54_r3l8 Recht, wie andere Herrschaftsbußen
+#facs_54_r3l9 zu betreiben, und so wohl diese
+#facs_54_r3l10 Rüßen, als auch Kundschaftgelder
+#facs_54_r3l11 und alle andere Gefälle in die
+#facs_54_r3l12 Chorgerichtsbüchste zu legen, welche
+#facs_54_r3l13 von dem Pfarrer, oder dem Obman
+#facs_54_r3l14 des Ehergerichts, oder sonst in
+#facs_54_r3l15 einem Gehalt der Kirche wohl ver¬
+#facs_54_r3l16 wahrt- und verschloßen-alljährlich
+#facs_54_r3l17 in Gegenbart der Oberamtleuten
+#facs_54_r3l18 geöfnet, von den Chorgerichten die
+#facs_54_r3l19 Rechnung abgelegt, ihnen der dritte
+#facs_54_r3l20 Theil, als ihr Antheil, herausgegeben,
+#facs_54_r3l21 und zu gleichen Theilen vertheilt,
+#facs_54_r3l22 die übrigen zwey Drittel, zu ihrer
+#facs_54_r3l23 der Oberamtleuten, und unseren
+#facs_54_r3l24 Handen besagen, und Uns verrechnet
+#facs_54_r3l25 werden sollen.
+#facs_55_r2l1 §.9.
+#facs_55_r2l2 In Füllen, da ein Verleider vor
+#facs_55_r2l3 handen ist, soll demselben der
+#facs_55_r2l4 ordre Theil von der Ruße zukommen;
+#facs_55_r2l5 falls aber die Anzeige durch eine
+#facs_55_r2l6 Chorrichter pflichtmäßig gethan
+#facs_55_r2l7 bird, soll die ganze Rußein die
+#facs_55_r2l8 Rüchste gelegt, und auf obigem
+#facs_55_r2l9 fuß vertheilt werden.
+#facs_55_r2l10 Der Thwingherrenhalb.
+#facs_55_r2l11 Gegen alle Tbing- und Herrschafts¬
+#facs_55_r2l12 herren Unserer Landen, so die Oberen¬
+#facs_55_r2l13 und Niederen Gerichte bestizen,
+#facs_55_r2l14 und den Gerichtsbahn von uns
+#facs_55_r2l15 empfangen müßen, behalten Wir
+#facs_55_r2l16 Uns die Strafen in Ehesachen
+#facs_55_r2l17 allein, und feyerlichst vor, so daß
+#facs_55_r2l18 keinem von ihnen, solche Strafen
+#facs_55_r2l19 aufzulegen gebühren solle; ihren
+#facs_55_r2l20 anderen Gerechtigkeiten ohne
+#facs_55_r2l21 Schaden.
+#facs_55_r2l22 Verordnungen,
+#facs_55_r3l1 105
+#facs_55_r3l2 Verordnungen
+#facs_55_r3l3 Zu Beförderung des Religions
+#facs_55_r3l4 unterrichts der Jugend zu
+#facs_55_r3l5 fleißiger Besuchung des offent¬
+#facs_55_r3l6 lichen Botterdienstes und zu
+#facs_55_r3l7 wurdiger Seyer der Sonn- und
+#facs_55_r3l8 Hestlagen.
+#facs_55_r3l9 Da Erkenntnis und Gottseligkeit das
+#facs_55_r3l10 e
+#facs_55_r3l11 Wesen der Religion ausmachen, an
+#facs_55_r3l12 deren Ausbreitung in Unsern Landen
+#facs_55_r3l13 Uns alles gelegen ist, weil davon die
+#facs_55_r3l14 Wohlfahrt des Staats, das Glük jeder
+#facs_55_r3l15 Gestellschaft, und das Heil eines jeden
+#facs_55_r3l16 Menschen abhängt, so haben Wir
+#facs_55_r3l17 nöhtig befunden, Unsere ehemalige
+#facs_55_r3l18 Verordnungen, über die fleisige Se¬
+#facs_55_r3l19 Euchung der Schulen und des Gottesdienst
+#facs_55_r3l20 und über die Feyer der kom= und
+#facs_55_r3l21 festtagen zu erneuern, und die
+#facs_55_r3l22 Aufsicht über die Befolgung derselben,
+#facs_55_r3l23 bin auch die Bestrafung der darüber
+#facs_55_r3l24 handelnden, Unsteren Ehrrichteren, nach
+#facs_55_r3l25 ihrer habenden Kompetenz anzubefehlen.
+#facs_56_r2l1 Von Besuchung der Schulen.
+#facs_56_r2l2 amit die bühre Beites furcht, deren
+#facs_56_r2l3 Gnedle eine gründliche Religions¬
+#facs_56_r2l4 erreindtniß ist, bey Zeiten den
+#facs_56_r2l5 Herzen der Jugend eingepflanzet
+#facs_56_r2l6 werde, so ermahnen wir alle die¬
+#facs_56_r2l7 jenigen, denen die Erziehung der
+#facs_56_r2l8 Jugend obnegt, Eltern, vögte Haus
+#facs_56_r2l9 rüdter u die Ihnen anvertraut
+#facs_56_r2l10 Kinder, und noch junge Diensten
+#facs_56_r2l11 und Hausgenoßen, zu fleißiger
+#facs_56_r2l12 Besuchung der öffentlichen Schulen
+#facs_56_r2l13 und der besondern Unterweisung
+#facs_56_r2l14 zum heiligen Abendmahl anzu¬
+#facs_56_r2l15 halten; mit dem Auftrag an
+#facs_56_r2l16 Unsere Ehergerichte, diejenigen
+#facs_56_r2l17 Eltern und Kinder sesich hierun¬
+#facs_56_r2l18 nachläßig erzeigen bürden, dur¬
+#facs_56_r2l19 ernstliche Ernehnungen, auch wo
+#facs_56_r2l20 vonnöhten durch gemessene Gestraf
+#facs_56_r2l21 ungen, zu Recht zu beisten, und
+#facs_56_r2l22 vorgfältig zu bachen, daß die bestellten
+#facs_56_r2l23 Schulmeister sich in allen ihren Pflichten,
+#facs_56_r2l24 nach Unsterer Schulordnung verhalten.
+#facs_56_r3l1 107.
+#facs_56_r3l2 Von Besuchung der öffent¬
+#facs_56_r3l3 lichen Botterdienstes.
+#facs_56_r3l4 Weil die in der Jugend erlangte so
+#facs_56_r3l5 heilstame Religionserkenntniß ein¬
+#facs_56_r3l6 durch die Wiederholung des erlernten
+#facs_56_r3l7 und durch ein beständiges Wachstaun
+#facs_56_r3l8 in derselben kann erhalten und ver
+#facs_56_r3l9 mehrt werden, so ermahnen Wir Unsere
+#facs_56_r3l10 angeförige dringend und väterlich
+#facs_56_r3l11 durch andächtiges Lesen des göttlichen
+#facs_56_r3l12 Worts und andrer erbaulicher Reli¬
+#facs_56_r3l13 gionsbücher, auch durch fleißige
+#facs_56_r3l14 Besuchung des öffentlichen Gottes,
+#facs_56_r3l15 dienstes, der Predigten, der Kinder
+#facs_56_r3l16 lehren, der Examen der Alten, nach
+#facs_56_r3l17 diesem Wachsthum in der Erbentniß
+#facs_56_r3l18 zu streben.
+#facs_56_r3l19 Was die Einrichtung und die
+#facs_56_r3l20 aüßerliche Feyer des öffentlichen
+#facs_56_r3l21 Gottesdienstes an Sonn - Werk und
+#facs_56_r3l22 festtagen, die Redienung der heiligen
+#facs_56_r3l23 Tauffe, die Segehung des heiligen
+#facs_56_r3l24 Abendmahls, die Einstegnung der Ehen
+#facs_56_r3l25 die Gebrauche bey dem Regräbniß der
+#facs_57_r2l1 verstohenen anbetritt, lassen
+#facs_57_r2l2 Wir es bey der Vorschrift Unserer
+#facs_57_r2l3 strengkeiten Ordnung verbleiben
+#facs_57_r2l4 und befehlen Unsern Chorrichtern
+#facs_57_r2l5 übersendt, und jedem Pfarrerinsbeson¬
+#facs_57_r2l6 oder, oder die Ausübung derselben
+#facs_57_r2l7 zu machen, daß die Predigten und
+#facs_57_r2l8 die öffentlichen Unterbeisungen
+#facs_57_r2l9 der Erbuchsenen und der Jugend,
+#facs_57_r2l10 von allen Gemeindsangehörigen
+#facs_57_r2l11 in ihren bestimten Pfarrkirchen
+#facs_57_r2l12 fleißig besucht, die Kinder zu rechter
+#facs_57_r2l13 Zeit zur Taufe gebracht, aller Auf
+#facs_57_r2l14 vend an Einbünden, Kindberte geschenbe
+#facs_57_r2l15 und Mahlheiten untersagt, das
+#facs_57_r2l16 heilige Abendmahl zu den gesetzten
+#facs_57_r2l17 Zeiten, mit Andacht und ehrbürgend
+#facs_57_r2l18 Anstand in Kleidung und sich sammen
+#facs_57_r2l19 getragen begangen, und dem
+#facs_57_r2l20 Goctes dienst bis zu Ende abge¬
+#facs_57_r2l21 burtet; das muthwillige Zusammen
+#facs_57_r2l22 laufen der Jugend und ungeladener
+#facs_57_r2l23 Gästen, auch das Niedersingen
+#facs_57_r2l24 und alles Unbesten bey den
+#facs_57_r3l1 109.
+#facs_57_r3l2 Hochzeitfesten unterlaßen, alle
+#facs_57_r3l3 bostbare und in Aergerni aus
+#facs_57_r3l4 ertende Begräbnißmahlzeiten
+#facs_57_r3l5 vermieden, folglich alle diejenigen
+#facs_57_r3l6 die diesen Unsern Verordnungen zu
+#facs_57_r3l7 bieder handeln, von die Pfarrer oder
+#facs_57_r3l8 die Chorgerichte beschieden, ihres Fehlers
+#facs_57_r3l9 und ihrer Pflicht liebreich erinnert.
+#facs_57_r3l10 nicht bessernden falls bestraft, und
+#facs_57_r3l11 nach Beschaffenheit der Umständen
+#facs_57_r3l12 Unsern Ober Amtleuten oder Unserm
+#facs_57_r3l13 Ober-Ehegricht, oder durch daselbe
+#facs_57_r3l14 Unsterm täglichen Rath zu gemeßener
+#facs_57_r3l15 Restraffung verleidet werden
+#facs_57_r3l16 Und damit bey dem öffentlichen
+#facs_57_r3l17 Bortes dienst niemand in seiner An
+#facs_57_r3l18 dacht gestört, oder durch verführerische
+#facs_57_r3l19 Anlaße von demselben abgehalten
+#facs_57_r3l20 werde, so verbieten Wir, vor- und
+#facs_57_r3l21 bährend demselben, alles Wein aus
+#facs_57_r3l22 schenken, allen Verkauf von Brodt,
+#facs_57_r3l23 früchten etc. alle Zustamerkünffte
+#facs_57_r3l24 in Wirths= und Pintenschenkhausern
+#facs_57_r3l25 und befehlen, daß auf dem Lande,
+#facs_58_r2l1 bey vorgestehte und in den Städten
+#facs_58_r2l2 nach jeden Orts gebrauch, die dazu
+#facs_58_r2l3 verordnete, bührend dem Gottes
+#facs_58_r2l4 dienst umhergehen, und die Über-
+#facs_58_r2l5 tracten dieser Küsterer Verord¬
+#facs_58_r2l6 nungen behörigen Orts zur Be¬
+#facs_58_r2l7 strafung anzeigen sollen.
+#facs_58_r2l8 Von der äußerlichen
+#facs_58_r2l9 Feyer der Son= und Besitagen.
+#facs_58_r2l10 Da diese Tage nach der göstlichen
+#facs_58_r2l11 Anordnung, und nach dem Exempel
+#facs_58_r2l12 Christi und seiner Aposteln, zu allen
+#facs_58_r2l13 Zeiten in der christlichen Kirche,
+#facs_58_r2l14 der Andacht, der Ruhe und einer
+#facs_58_r2l15 vernünftigen Erholung gebidmet
+#facs_58_r2l16 baren, so ermahnen Wir jeder
+#facs_58_r2l17 mann, diesen so nützlichen Absichten
+#facs_58_r2l18 Unserer christlichen Dam- und fest¬
+#facs_58_r2l19 tagen durch öffentliche und Häus¬
+#facs_58_r2l20 liche Andachtsübungen, durch Ent¬
+#facs_58_r2l21 haltung von den an den Werktag¬
+#facs_58_r2l22 gewöhnlichen Arbeiten, durch eine
+#facs_58_r2l23 anständige sichtliche Aufführung.
+#facs_58_r3l1 111
+#facs_58_r3l2 zu entsprechen, und dagegen alles
+#facs_58_r3l3 das zu meiden und zu unterlaßen,
+#facs_58_r3l4 was diesen Absichten zu wider ist, und
+#facs_58_r3l5 wohl zu bedenken, das dieser Tag
+#facs_58_r3l6 bey Unsrer, an den Werktagen
+#facs_58_r3l7 unterbrochenen Geschäftigkeit, die
+#facs_58_r3l8 unsere Zeitliche Angelegenheiten
+#facs_58_r3l9 auflegen, gleichsam die einzige Zeit
+#facs_58_r3l10 sey, in der Wir Unser elbigerheil
+#facs_58_r3l11 besorgen können.
+#facs_58_r3l12 zu dem Ende verbieten Wir
+#facs_58_r3l13 an diesen Tagen alles Handlen
+#facs_58_r3l14 Tauschen etc. alle Zusammenkünfte
+#facs_58_r3l15 und Verabredungen legen vor¬
+#facs_58_r3l16 habenden Professstreitigkeiten
+#facs_58_r3l17 das Jägen und Fischen p. alles Karry
+#facs_58_r3l18 und fahren (die Güterbägen
+#facs_58_r3l19 und Reistende ausgenauen) alle an
+#facs_58_r3l20 den Werktagen geböhnliche Land
+#facs_58_r3l21 Arbeit, außer in dringenden Nöth¬
+#facs_58_r3l22 fällen, und wo zur Zeit des Heuens,
+#facs_58_r3l23 des Endens, und der Erndte, Gefahr
+#facs_58_r3l24 und großer Schade zu befürchten
+#facs_58_r3l25 büre; doch allemal mit Vorwißen
+#facs_59_r2l1 und Vermittelung des Pfarrer
+#facs_59_r2l2 und erhaltener Bewilligung des
+#facs_59_r2l3 Herrn Amtsmanns, oder bey des-
+#facs_59_r2l4 selben allzu beiter Entfernung
+#facs_59_r2l5 seines Stadthulters an selbigem
+#facs_59_r2l6 Ort, und erst nach dem Morgen¬
+#facs_59_r2l7 Gatesdienst etc.
+#facs_59_r2l8 Wir verbieten ferner an
+#facs_59_r2l9 diesen Tagen alles rohe und lerm
+#facs_59_r2l10 ende Betragen durch wildes Jauchzen,
+#facs_59_r2l11 und ärgerliches Fluchen und Schwören,
+#facs_59_r2l12 alles übermäßige Trinken, alles
+#facs_59_r2l13 Spielen mit Karten auf dem Lande
+#facs_59_r2l14 alles Tanzen, nach Unserer Erkant¬
+#facs_59_r2l15 niß vom 3ten Christmonats 1781 mit
+#facs_59_r2l16 einem Wort, alle die Arbeiten
+#facs_59_r2l17 und rauschende Freuden, wodurch
+#facs_59_r2l18 die Sonn= und feyertage entheiliget
+#facs_59_r2l19 die Jugend zur Ausschweifung
+#facs_59_r2l20 und die Stillen im Lande in ihrer
+#facs_59_r2l21 Andacht verhindert oder empfind¬
+#facs_59_r2l22 sich gewrgert werden.
+#facs_59_r2l23 Alles in dem Sinn: das nicht
+#facs_59_r2l24 nur diejenigen von Unsteren
+#facs_59_r3l1 113
+#facs_59_r3l2 Chorgerichten bestraft werden,
+#facs_59_r3l3 diesen Unsern Verordnungen in Un¬
+#facs_59_r3l4 Herrn Landen zuwiederhandeln, sondern
+#facs_59_r3l5 daß auch diejenigen von Ihnen mit
+#facs_59_r3l6 gleicher Strafe angesehen werden,
+#facs_59_r3l7 die an diesen Tagen in fremden
+#facs_59_r3l8 angrautenden Kostmäßigkeiten, sich
+#facs_59_r3l9 gleicher Fehler schuldig machen.
+#facs_59_r3l10 th
+#facs_59_r3l11 des Obern Begerichts
+#facs_59_r3l12 der Stadt Bern.
+#facs_59_r3l13 E schlören die Eherichter und Recht¬
+#facs_59_r3l14 Durch
+#facs_59_r3l15 sprecher des Obern Ehegerichts,
+#facs_59_r3l16 der Stadt Bern, Treue und Wahr¬
+#facs_59_r3l17 heit zu leisten, derselben Nusen¬
+#facs_59_r3l18 zu fördern und Schaden zu wenden
+#facs_59_r3l19 alle ihre Urtheile und Erkäntniße
+#facs_59_r3l20 nach der Vorschrifft und dem Buch¬
+#facs_59_r3l21 stüblichen Inhalt gegenbürtiger
+#facs_59_r3l22 Anzungen, in unbestimmten Fällen
+#facs_60_r2l1 der nach ihrem besten Wissen¬
+#facs_60_r2l2 und gewißen, ohne einiges Anstehen-
+#facs_60_r2l3 der Person, auszufällen, und sich
+#facs_60_r2l4 davon über durch Mieth und Gabe
+#facs_60_r2l5 das Namens nie immer haben mögen,
+#facs_60_r2l6 weder durch besorgende Feind
+#facs_60_r2l7 schaft, zu, Rachgier, noch durch
+#facs_60_r2l8 Haupt, Freundschaft, oder irgend¬
+#facs_60_r2l9 etwas, abländig machen zu laßen,
+#facs_60_r2l10 sonderzeitlich ob den Ehebruchs¬
+#facs_60_r2l11 und Hurerey trufen ungescheut
+#facs_60_r2l12 zu halten; aus einem jeden
+#facs_60_r2l13 anzubringen glaubbürdig ange¬
+#facs_60_r2l14 Zeigt wird, fördersamst dem Ehe¬
+#facs_60_r2l15 gericht vorzutragen, das alles
+#facs_60_r2l16 geheim zu halten, was geboten
+#facs_60_r2l17 wird oder sie selbst bedünkt;
+#facs_60_r2l18 in die Verhandlungen des Ehe¬
+#facs_60_r2l19 gerichts, so oft ihnen geborten
+#facs_60_r2l20 wird, fleißig und Fördersam
+#facs_60_r2l21 zu gehen, und ohne besondere
+#facs_60_r2l22 ehehafte Urstachen selbige nicht
+#facs_60_r2l23 zu verfäumen; alles ehrbar und
+#facs_60_r2l24 ohne Gefehrde.
+#facs_60_r2l25 Eids
+#facs_60_r3l1 115.
+#facs_60_r3l2 15
+#facs_60_r3l3 der Chorrichtern auf dem
+#facs_60_r3l4 Lande.
+#facs_60_r3l5 3. sich wören die Chorrichter Unserer
+#facs_60_r3l6 Städte und Landen, der Stadt Hern
+#facs_60_r3l7 Treu und Wahrheit zu leisten, der¬
+#facs_60_r3l8 selben Nuhen zu fördern, und Schaden
+#facs_60_r3l9 zu henden, den Verstammlungen
+#facs_60_r3l10 des Chorgerichts fleißig, und so of¬
+#facs_60_r3l11 es ihnen Leibshalben möglich ist,
+#facs_60_r3l12 beyzuwohnen; was ihnen selbst
+#facs_60_r3l13 bekant oder glaubwürdig ange¬
+#facs_60_r3l14 teigt wird, das den Chorgerichts- oder
+#facs_60_r3l15 Sichtengestehen Huwiederläuft, und
+#facs_60_r3l16 eine Ahndung oder Strafe verdienet,
+#facs_60_r3l17 vor dem Ehergericht anzuzeigen,
+#facs_60_r3l18 und sich weder durch Feindschaft,
+#facs_60_r3l19 Hus, Rechgier, noch durch Gunst¬
+#facs_60_r3l20 Freundschaft oder irgend etwas, davon
+#facs_60_r3l21 abbendig machen zu laßen; in
+#facs_60_r3l22 allen Fällen nach der buchstablichen
+#facs_60_r3l23 Vorstchrift der Sichungen ohn Ansehen
+#facs_60_r3l24 der Person zu handeln, ihre Gebalt
+#facs_61_r2l1 In wissbrauchen noch zu über¬
+#facs_61_r2l2 schreiten, sondern alle bichtige Sachen
+#facs_61_r2l3 den Herren Oberamtleuten anzu¬
+#facs_61_r2l4 gegen, oder dem Obern Ehegricht
+#facs_61_r2l5 zu überschreiben, geheim zu
+#facs_61_r2l6 falten, aus gebodten wird, oder
+#facs_61_r2l7 wieselbst bedenckt; alles ehrbar
+#facs_61_r2l8 und ohne Gefehrde.
+#facs_61_r2l9 C:
+#facs_61_r2l10 des Elgerichts=Schreibers.
+#facs_61_r2l11 Es schwört der Ehegerichtschreiber
+#facs_61_r2l12 ber Stadt Bern Treu und Wahrheit
+#facs_61_r2l13 zu Kisten, ihren Ruzen zu fördern
+#facs_61_r2l14 und Schaden zu binden; den Ver
+#facs_61_r2l15 sammlungen des Ehegerichts fleißig
+#facs_61_r2l16 beyzubohnen, oder einen erfahren
+#facs_61_r2l17 substituten an seinen Platz zu
+#facs_61_r2l18 stellen; alle Verhandlungen des
+#facs_61_r2l19 Ehegerichts getreulich auszufertigen
+#facs_61_r2l20 und einschreiben zu laßen; alle
+#facs_61_r2l21 eingelangten Briefe, Schriften,
+#facs_61_r2l22 Proceduren sorgfältig aufzubehalten,
+#facs_61_r3l1 117
+#facs_61_r3l2 dem Ehegerichte vorzutragen, im
+#facs_61_r3l3 nichts davon zu verheelen; ohne
+#facs_61_r3l4 des Ehegerichts Urlaub, besonders
+#facs_61_r3l5 auf die gesezten Gerichts Tage nicht
+#facs_61_r3l6 von der Stadt zu gehen; für alle
+#facs_61_r3l7 fallende Emolumente, Zusen, Con¬
+#facs_61_r3l8 fiscationen oder andere Gefälle
+#facs_61_r3l9 eine getreue Rechnung zu führen
+#facs_61_r3l10 deren Betrag halbjährlich gebührenden
+#facs_61_r3l11 Orts zu bezahlen, und davon nichts
+#facs_61_r3l12 in seinen eigenen Nuzen zu ver¬
+#facs_61_r3l13 benden; keine Briefe, Erkanntniße,
+#facs_61_r3l14 Urteile, zu verstiegeln noch heraus¬
+#facs_61_r3l15 fugeben, sieseyen dann zuvor,
+#facs_61_r3l16 bann es nöhtig, dem verfamelte
+#facs_61_r3l17 Ehegricht oder dem Präsidenten
+#facs_61_r3l18 wörtlich vorgelesen und von ihne
+#facs_61_r3l19 gutgeheisen worden; alles das,
+#facs_61_r3l20 bas angezeigt und gerahten wird,
+#facs_61_r3l21 zu verschweigen und allso geheim¬
+#facs_61_r3l22 zu halten, was geboeten wird,
+#facs_61_r3l23 oder ihn selbst bedünkt; alles ehrbar
+#facs_61_r3l24 und ohne Gefehrde.
+#facs_61_r3l25 Eid 5
+#facs_62_r2l1 C rd
+#facs_62_r2l2 desgerichts Werbels.
+#facs_62_r2l3 Es schwört der Weibel des Ehe¬
+#facs_62_r2l4 Gerichts, der Stadt Bern, Treu
+#facs_62_r2l5 und Wahrheit zu leisten, ihren
+#facs_62_r2l6 Nuschen zu fordern und Schaden zu
+#facs_62_r2l7 wenden; dem Ehegericht treulich
+#facs_62_r2l8 abzubarten, ohne Urlaub nicht von
+#facs_62_r2l9 der Stadt über Nacht zu seyn.
+#facs_62_r2l10 in das Ehegericht fleißig zu bieten,
+#facs_62_r2l11 so oft es ihm von dem Präsidenten,
+#facs_62_r2l12 oder deßen Staethalter befohlen,
+#facs_62_r2l13 bird; alle Rocte so ihm aufgetrag¬
+#facs_62_r2l14 werden, bey guter Zeit zu thun,
+#facs_62_r2l15 lons in den Versammlungen des
+#facs_62_r2l16 Ehegerichts angebracht, gerahten
+#facs_62_r2l17 und gehandelt wird, zu verschweigen,
+#facs_62_r2l18 der Gefangenen getreulich zu Barten
+#facs_62_r2l19 zu verhüeten, das denselben, son
+#facs_62_r2l20 derlich denen so legen Ehebruch
+#facs_62_r2l21 gefangen sind, keine andere
+#facs_62_r2l22 nous avons donneront venir d’autres
+#facs_62_r2l23 Peiße noch Trank zukomme, als
+#facs_62_r4l1 ssg.
+#facs_62_r4l2 bestimt; alle diese in die Ruße
+#facs_62_r4l3 ekent worden, fleißig zu fertigen
+#facs_62_r4l4 und in einen Rödel zu verzeichnen.
+#facs_62_r4l5 die Briefe und andere Schriften
+#facs_62_r4l6 des Ehegerichts, so ihm übergeben
+#facs_62_r4l7 werden, getreulich zu versenden
+#facs_62_r4l8 und an ihre Behörde zu bestellen;
+#facs_62_r4l9 in guten Treuen, alle Gefehrde
+#facs_62_r4l10 termieden. Actl. Cor. 200 d. 25b
+#facs_62_r4l11 January 1787.
+#facs_62_r4l12 Loix
+#facs_62_r4l13 Consistoriales
+#facs_62_r4l14 de
+#facs_62_r4l15 la Ville et Republique
+#facs_62_r4l16 de Berne.
+#facs_62_r4l17 id
+#facs_62_r4l18 2 f
+#facs_62_r4l19 vous L'Advoyer petit et
+#facs_62_r4l20 grand Conseil de la Ville et Répul
+#facs_62_r4l21 lique de Berne, assurons par les
+#facs_62_r4l22 Presentes tous Nos chers et feaux
+#facs_63_r2l1 Bourgeois & Ressirtifsants, & en par-
+#facs_63_r2l2 ticulier Nos Baillifs & autres Per
+#facs_63_r2l3 sonnes d'Offee, Nos Pasteurs et
+#facs_63_r2l4 Assesseurs Consistoriaux, de Notre
+#facs_63_r2l5 gracieuse affection & bienveillance
+#facs_63_r2l6 8 leur faisons savoir:
+#facs_63_r2l7 Que divers motifs tres pressans
+#facs_63_r2l8 Nous ayant fait juger necessaire
+#facs_63_r2l9 de revoir nos Loix Consistoriales,
+#facs_63_r2l10 a insi que l’ordonnance sur les
+#facs_63_r2l11 Mœurs qui y est relative, & d'y
+#facs_63_r2l12 apporter divers changemens &
+#facs_63_r2l13 corrections, nous avons émané
+#facs_63_r2l14 le présent nouveau Code Consistoria
+#facs_63_r2l15 pour être ponctuellement suivi
+#facs_63_r2l16 dans Nos Pays Allemand & romand
+#facs_63_r2l17 C'est à quoi nous nous sommes
+#facs_63_r2l18 portés dans la vue de diminuer
+#facs_63_r2l19 les suites pernicieuses de la
+#facs_63_r2l20 corruption des mœurs, le nombre
+#facs_63_r2l21 des enfans illégitimes, dont l'entre
+#facs_63_r2l22 tion pese si fort sur les Comunes
+#facs_63_r2l23 & Bourgeoisies; de faciliter les
+#facs_63_r2l24 mariages; d'exciter les parens
+#facs_63_r3l1 121
+#facs_63_r3l2 a une vigilance plus attentive sur
+#facs_63_r3l3 leurs enfans, & d'astreindre ceux-ci
+#facs_63_r3l4 a une meilleure conduite, d’affermir
+#facs_63_r3l5 par l'augmentation des pouvoirs
+#facs_63_r3l6 conférés à Notre consistoire Supremé
+#facs_63_r3l7 & aux consistoires de nos villes &
+#facs_63_r3l8 Pays, la considération qui leur
+#facs_63_r3l9 est due; de réduire les longueurs
+#facs_63_r3l10 & les fraix des procédures; de
+#facs_63_r3l11 prevenir, par l'adoucissement de
+#facs_63_r3l12 quelques loix pénales trop rigou
+#facs_63_r3l13 reuses, que les délits ne demeurent
+#facs_63_r3l14 inconnus, & que l'impossibilité de
+#facs_63_r3l15 exacte observation de ces loix
+#facs_63_r3l16 ne porte atteinte à leur autorité,
+#facs_63_r3l17 et enfin, en rendant l'usage du
+#facs_63_r3l18 serment plus rare, d'empêcher que
+#facs_63_r3l19 cet acte religieux ne se fasse trop
+#facs_63_r3l20 légérement, ou ne puisse même
+#facs_63_r3l21 servir à l'oppression de l'inocence
+#facs_63_r3l22 A ces causes & implorant &
+#facs_63_r3l23 esperant avec confiance la béné
+#facs_63_r3l24 diction divine sur des vues aussi
+#facs_63_r3l25 salutaires, nous en joignons a Nos
+#facs_64_r2l1 Baillifs, Pasteurs & Assesseurs
+#facs_64_r2l2 de consistoires, de se conformer
+#facs_64_r2l3 sous leurs sermens & sous le
+#facs_64_r2l4 devoir de leurs charges, au
+#facs_64_r2l5 a
+#facs_64_r2l6 prescrit de nos presentes nou-
+#facs_64_r2l7 velles Loix, qui doivent prendre
+#facs_64_r2l8 force des le premier May pro
+#facs_64_r2l9 chain, & de les observer fidele
+#facs_64_r2l10 ment dans tout leur contenu.
+#facs_64_r2l11 Ainsi arrêté & decreté defini
+#facs_64_r2l12 tivement, dans l'assemblée de
+#facs_64_r2l13 notre Grand Conseil, ce 25 eme
+#facs_64_r2l14 Janvier 1787.

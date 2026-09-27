@@ -1,0 +1,40 @@
+Law ID: BER.01.001.1128
+Name: Das alle lobpflichtige Kauffbrieffen besiglet werden söllindt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 29/29
+# High similarity (>=50%): 28
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_259_r2l1 Das alle Weltsche Ambtleüth, Ordnung
+#facs_259_r2l2 Das alle Lobenflichtigen
+#facs_259_r2l3 Kauffbrieffen
+#facs_259_r2l4 besiglet werden.
+#facs_259_r2l5 ettoiert
+#facs_259_r2l6 Schuldchtis vndt Schet etc.
+#facs_259_r2l7 Demnach wir die Zeit dafar erfahren, das In
+#facs_259_r2l8 Rauff: vndt verkauffung, der vns, undt
+#facs_259_r2l9 besonderen Jurisdiction Herren Lobpflichtigk
+#facs_259_r2l10 Stucken vndt gürteren, allerhandt geschwin¬
+#facs_259_r2l11 digkeit, liß, vndt unßbrauch, darnach Vn¬
+#facs_259_r2l12 vndt gemelden Jurisdictio herren dauon
+#facs_259_r2l13 Gebürende Gebrell mehrentheils verschlagen.
+#facs_259_r2l14 verübt worden, Inn dem, das die Contrahieren
+#facs_259_r2l15 partheyen sich deßen allein vermugt, das die
+#facs_259_r2l16 Schryber, so die Acta vndt Contracten
+#facs_259_r2l17 stipuliert, dieselbigen mit Ihrem Notariat
+#facs_259_r2l18 zeichl. vnderschriben, vndt nit, wie hette
+#facs_259_r2l19 sein sollen, besiglen lassen, haben wir
+#facs_259_r2l20 Den Kraff hierinn vf gangner Landtätzung
+#facs_259_r2l21 gutfunden, das alle dergleichen krüff undt
+#facs_259_r2l22 Verkauff, neben der Landierung, by vom
+#facs_259_r2l23 den nullitet undt nichtigkeit derselben,
+#facs_259_r2l24 besiglet, undt grad vnden In den Actis
+#facs_259_r2l25 vndt Contractis, durch wen sölliche besiglet
+#facs_259_r2l26 worden, yngeschriben werden solle, welches
+#facs_259_r2l27 Du zu mringkliches Nachrichtung von
+#facs_259_r2l28 Cantzles Verkhünden lassen wiesen
+#facs_259_r2l29 Datum 26. May 1640

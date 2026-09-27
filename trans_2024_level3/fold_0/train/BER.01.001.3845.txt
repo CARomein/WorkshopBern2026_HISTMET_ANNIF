@@ -1,0 +1,495 @@
+Law ID: BER.01.001.3845
+Name: Getrukte Ordnung. Ansehend allerhandt Strolchen und Bettellgesind, zu dessen Hindertreibung die Maréchaussé angeordnet worden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 484/484
+# High similarity (>=50%): 471
+# Low similarity (<50%): 13
+# Not found: 0
+#
+#facs_212_r2l4 Getrufte ordnung.
+#facs_212_r2l5 Anschendt allerhandt Strolchen und Beutilgesin¬
+#facs_212_r2l6 schudesten Hindertreibung die Marichausen
+#facs_212_r2l7 angeordnet worden.
+#facs_212_r2l8 Kir. Schultheiß Räht und Burger, der
+#facs_212_r2l9 Stall Bern, thund kund hiemit. Wiebohlen
+#facs_212_r2l10 durch verschiedene ausgegebene Ordnungen und
+#facs_212_r2l11 Mandat, sonderlich aber Zeuges vom 30. Juny
+#facs_212_r2l12 1727. Wir dahin abgezbekt, das Unsere Land
+#facs_212_r2l13 Von allerhand fremden ohnmützen Strolchen
+#facs_212_r2l14 und Stättel Gesind gesäuberet, und deren
+#facs_212_r2l15 Embohner des Lasts diser Leuthen entladen
+#facs_212_r2l16 werden mögen, So Ich dennoch haben eine geraume
+#facs_212_r2l17 Zeith dahero wir bahrnemmen müßen, daß deßen
+#facs_212_r2l18 ohngeachtet, Vilerley Lands fremdes, liederlichet,
+#facs_212_r2l19 Herrenloses Gesindel zu allgemeiner Geschlärt
+#facs_212_r2l20 zu selbige bidermahlen sich eingetrungen, und
+#facs_212_r2l21 damit so angefüllet sich befinden, daß die ohnumbgangen
+#facs_212_r2l22 liche Rohtdurfft erforderet, harinnfahls kräfftigt
+#facs_212_r2l23 Vorschung anzuordnen; Inmaßen zu möglicher
+#facs_212_r2l24 vorbiege und Abhebung allerhand ohngemacht, so
+#facs_212_r2l25 von dergleichen Rößlichten in Unseren Landen
+#facs_212_r2l26 allbereits
+#facs_212_r4l1 405.
+#facs_212_r4l2 Allbereits verübet, auch zu fürterer Tybehaltung
+#facs_212_r4l3 gemeiner Sicherheit, wir nicht nur gut erachtet, die
+#facs_212_r4l4 so genante Marechaussé zu fus, oder patrouilles
+#facs_212_r4l5 in Unseren Landen aufzustellen, und durch selbe
+#facs_212_r4l6 dieses Gesindelmöglichster maßen zu hintertreibe;
+#facs_212_r4l7 und auß dem Land zu schaffen: sondern diseren
+#facs_212_r4l8 Sachen den ferneren Inhalt zuthun, und die Abholff¬
+#facs_212_r4l9 liche Maaß zu geben, auch zu beforderung der
+#facs_212_r4l10 allgemeinen Wohlfahrt, über diß hiemit annoch gehabt
+#facs_212_r4l11 und statuirt haben wollen.
+#facs_212_r4l12 daß allem fremden außländischen Strolchen und
+#facs_212_r4l13 Sättel Besind, bis das immer Nahmen haben mag,
+#facs_212_r4l14 Item allen fremden korbmachere, keßleren,
+#facs_212_r4l15 Spengleren, Gebürz-Fulster-Kräzen-Schleiffstein
+#facs_212_r4l16 Trageren, Schlomm Krämeren, bürsten binderen
+#facs_212_r4l17 Schaubhuttleren, Stertzerem, Liederkrämmeren
+#facs_212_r4l18 Meer Mauen fremden Marktschreyeren und
+#facs_212_r4l19 Quack silberen, Musnanten, Schilläuten und
+#facs_212_r4l20 anderen dergleichen der gleichen Leuthen, zusamt
+#facs_212_r4l21 Ihren Weib und Kinderen, Unsere und zu be¬
+#facs_212_r4l22 tretten, und in selben zu verbleiben, für eins¬
+#facs_212_r4l23 und allemahl, unter bas vorband es Immer
+#facs_212_r4l24 syn mag, bey ohnauß bleiblicher hiernach geschten
+#facs_212_r4l25 Straaff. Verbollen seyn solle. Und Ibar, daß alle
+#facs_212_r4l26 die Zeuge obernanten Persohnen, so das 15. Jahr
+#facs_212_r4l27 Alters erreicht, und in unseren Landen ange¬
+#facs_212_r4l28 troffen bürden, auch unseren Antleüthenburden
+#facs_212_r4l29 zugeführt
+#facs_213_r2l1 zugeführt seyn, aus deren Gefelch, für das
+#facs_213_r2l2 Erste mahl, solchen das rechte Ohrlapplein geschliht
+#facs_213_r2l3 bey der anderen Übertrettung der Staub=bäsen
+#facs_213_r2l4 an Ihnen verbendt, und über diß mit dem
+#facs_213_r2l5 Zeichen O. S. das ist Ober Schweitz, auf dem
+#facs_213_r2l6 Ruken gebrand mahlet, auch auf Elbig von
+#facs_213_r2l7 Unseren Statt und Landen banusiert werden
+#facs_213_r2l8 sollen: fahls aber in fernerem, und zum
+#facs_213_r2l9 dritten Mahl sie sich in Unseren Landen finden
+#facs_213_r2l10 laßen bürden dannzumahlen selbe in Befangen
+#facs_213_r2l11 schafft gesetzt, deren Verhaffs Wir verständiget
+#facs_213_r2l12 damit Ich, nach gestalten dingen, von Unß die
+#facs_213_r2l13 erforderliche Urtheil bider sie angeordnet,
+#facs_213_r2l14 Ja gar mit dem Strangen vom Leben zum
+#facs_213_r2l15 -
+#facs_213_r2l16 Tod hinzurichten verfällt werden können.
+#facs_213_r2l17 Wurde sich aber ereignen, daß solche Leuth,
+#facs_213_r2l18 bey derley deschlechts mit fusils, pistoleti¬
+#facs_213_r2l19 füffert, stilets, oder anderen dergleichen
+#facs_213_r2l20 verdächtigen Belehren oder Waaffen versetzt,
+#facs_213_r2l21 in Unseren Landen sich finden laßen wurden
+#facs_213_r2l22 und nicht sich also bald gefangen dargeben,
+#facs_213_r2l23 sondern außzubeichen, und mit der flucht
+#facs_213_r2l24 sich zu halvieren unternemmen, oder auch gar
+#facs_213_r2l25 in Gegenbehr stellen, oder sonsten mit
+#facs_213_r2l26 Steken
+#facs_213_r3l1 407.
+#facs_213_r3l2 Steken. Stangen und anderem sich in bereit schafft
+#facs_213_r3l3 schen balten, solche seye, in mehrerer oder minderen
+#facs_213_r3l4 Anhahl, als die patrouilles, bey einander Ver¬
+#facs_213_r3l5 samlet; wollen Wir andurch Unsere Verordn¬
+#facs_213_r3l6 te Patrouilleurs hiemit begbältiget haben, auff
+#facs_213_r3l7 dergleichen Rößbicht feuber zu geben, mit beygefüg¬
+#facs_213_r3l8 ter fernerer Erlauthirung, bann in solcher große
+#facs_213_r3l9 Anzahl dergleichen Besindel sich versammete, daß
+#facs_213_r3l10 von der Verordneten patrouille solches nicht
+#facs_213_r3l11 gefaßt werden könnte, sollen danhumahlen die
+#facs_213_r3l12 vorgesetzte der Bemeinden denen patrouilleur,
+#facs_213_r3l13 bebehrte Hülff zu geben schuldig, und Unsere
+#facs_213_r3l14 Angehörige beybältiget seyn, die Sturm Gloken
+#facs_213_r3l15 anzuziehen, umb dergleichen Gesendels sich zu¬
+#facs_213_r3l16 bemächtigen, und Unseren Amtkeuthen zuzuführen,
+#facs_213_r3l17 damit deren Verhafft wir benachrichtet, und
+#facs_213_r3l18 nach verdienen dieselben so wohl alsjenige Land¬
+#facs_213_r3l19 Streicher, die dem gemeinen Mann mit rohten
+#facs_213_r3l20 1
+#facs_213_r3l21 Hahnen, und anderem zufügendem Übel an¬
+#facs_213_r3l22 drohen, durch Unsirt Verordnung, mit
+#facs_213_r3l23 Leib oder Lebensstraff angesehen und beleget
+#facs_213_r3l24 ber den können
+#facs_213_r3l25 2° So soll ferners hin dem losen Heyden Besind, oder
+#facs_213_r3l26 den sogenanten Zignieren der Eintritt in Unser
+#facs_213_r3l27 Land gänzlichen Verbotten seyn, bey ohnauß bleiblicher
+#facs_213_r3l28 Straß, das Erste Mahl, daß Jenige Mann, oder
+#facs_213_r3l29 Weibs
+#facs_214_r2l1 Weibs Persohnen, so über 15. Jahr Alters, darin
+#facs_214_r2l2 bürden betretten berden, das rechte Ohrläpplin
+#facs_214_r2l3 geschlicher. Ein anderen Mahl aber der Staub¬
+#facs_214_r2l4 lasen an Sie verbendet, auff Eloig banisiret
+#facs_214_r2l5 und Baues nicht schlängere Weibs Persohnen sind
+#facs_214_r2l6 Auch ein Ohr Ihnen abgeschnitten, bey der dritte
+#facs_214_r2l7 Alber trettung aber, wir deren Verhafft¬
+#facs_214_r2l8 durch Unsort Amt Leuth benachrichtet, dann
+#facs_214_r2l9 eine bohl verdiente Todes Urtheil bider Sie
+#facs_214_r2l10 außgefällt, und nachberts an Ihnen voll
+#facs_214_r2l11 streket werden kön¬
+#facs_214_r2l12 3 die Handberks-Gsellen, und andere fremde
+#facs_214_r2l13 Ehrliche Manns fersohnen, die lediger dingen
+#facs_214_r2l14 Ihren begangen schafften nachgehen, betreffen
+#facs_214_r2l15 ordnen Wir hiemit, daß hin füro deren keine
+#facs_214_r2l16 in Unsere Land eingelaßen, noch von denen
+#facs_214_r2l17 Meister schafften in Dero Dienst auff und angenommen
+#facs_214_r2l18 berden sollen, sie haben dann einen beglaubten
+#facs_214_r2l19 Schein von den Vorgeschten der Meisterschaften
+#facs_214_r2l20 da sie Jungsthin gedienet, Ihrer ehrlichen begangen
+#facs_214_r2l21 schafft halber vorzubeisen, belchen fahls Ihnen
+#facs_214_r2l22 Abar der Eintritt in Unsere Land gestattet, alles
+#facs_214_r2l23 verborgene und andere Bebehr aber, äußert
+#facs_214_r2l24 dem degen allein, soll Ihnen verbotten seyn, zu
+#facs_214_r2l25 sicherer fortsetzung aber Ihrer Reyse, sollen Ihnen
+#facs_214_r2l26 beym Eintritt ins Land, Pass oder Routen zudell
+#facs_214_r2l27 Zugestelt
+#facs_214_r3l1 zugestelt werden, darinn der kürheste Weg, dazu 9
+#facs_214_r3l2 Sie zbeken, versichert, und auch bis lang ein solcher
+#facs_214_r3l3 pass gültig, vermeldet seyn soll, mit ernsthaffter
+#facs_214_r3l4 betrohung, daß alles fechtens, sonderlich in den Ställen
+#facs_214_r3l5 da Ihnen der Zehrpfenung entrichtet wird, sie sich
+#facs_214_r3l6 müßigen, übrigens der großen Land Straßen
+#facs_214_r3l7 und Roule sich bedienen, alle Uppigkeiten unter¬
+#facs_214_r3l8 laßen, und bann sie an dem bestimmten Orth ankommen
+#facs_214_r3l9 und Arbeith gefunden oder nicht, bey Ihrer
+#facs_214_r3l10 beiterer abreyß, und vorbeisung neuber scheinen,
+#facs_214_r3l11 die alten Trieffen von den Meistern, und auch
+#facs_214_r3l12 die päss der Cantzley, oder Landschreiberey, zur
+#facs_214_r3l13 Abschaffung einlifferen, damit Ihnen zu fortsahung
+#facs_214_r3l14 Ihrer Reyse, obiger gestalten neube paß zugestelt
+#facs_214_r3l15 benden können; da in ansehen der abgedankten Soldaten,
+#facs_214_r3l16 und auch denen Deserteurs oder Außreyßern halben
+#facs_214_r3l17 durch faßes durch Unsere Land, es mit Ertheil und
+#facs_214_r3l18 Der Reute zedlen gleicher gestalten, bin mit denen
+#facs_214_r3l19 Handberts Gesellen gehalten werden solle; Der¬
+#facs_214_r3l20 ferneren Meinung, bann die Handberks Leuth oder
+#facs_214_r3l21 soldaten, auff andere Straßen, als im Pasp ver¬
+#facs_214_r3l22 meldet, also auff Nebendowegen und Straßen
+#facs_214_r3l23 oder auch solche Handberks für sich die obgenannte
+#facs_214_r3l24 kundschafften oder päh nicht auf zu beisen hätten,
+#facs_214_r3l25 eingetroffen burden, dieselben ohne schönen solchen
+#facs_214_r3l26 fahls als Landstreicher und Strolchen angesehen,
+#facs_214_r3l27 2
+#facs_214_r3l28 Und
+#facs_215_r2l1 Und für das erste mahl baker abgeprüglet,
+#facs_215_r2l2 bey der anderen Ülbertrettung aber mit
+#facs_215_r2l3 Ruthen außgestrichen berden sollen.
+#facs_215_r2l4 4. Und damit desto steiffer ob dißorthigen
+#facs_215_r2l5 Unserem Einsehen gehalten, ist Unser Willi¬
+#facs_215_r2l6 und wollen auch in fernerem allen und Jeden
+#facs_215_r2l7 Unseren angehörigen und Unterthanen aller
+#facs_215_r2l8 Ernsts hiemit verbotten haben, hinfüro der¬
+#facs_215_r2l9 gleichen fremde, und in disem Mandat In¬
+#facs_215_r2l10 Art: 1 & 2. Vermeldete Persohnen, unter
+#facs_215_r2l11 bas vorband es Immer seyn möchte, zu beher¬
+#facs_215_r2l12 bergen, bey auffgeschter Straff von Ibansig
+#facs_215_r2l13 Pfunden, ohnabläßlich von dem zubertretten
+#facs_215_r2l14 so offt zu behiehen, als darbider wird ger=
+#facs_215_r2l15 handlet berden: davon Eindrittel dem
+#facs_215_r2l16 verleij der, der andere dem Amtsmann
+#facs_215_r2l17 Armen
+#facs_215_r2l18 Der dritte aber dem xxx gemeind
+#facs_215_r2l19 bo der Übertretter Kirchspählig, heim diener
+#facs_215_r2l20 soll; der byläuffigen Meinung daß die¬
+#facs_215_r2l21 jenigen Übertrettere, so nicht Im Stand
+#facs_215_r2l22 obige Ruß zu bezahlen, mit sehen Tägigen
+#facs_215_r2l23 Befangenschafft abgestrafft verden sollen.
+#facs_215_r2l24 Im Begentheil aber, und so wil genüge
+#facs_215_r2l25 Aupländischt
+#facs_215_r4l1 41
+#facs_215_r4l2 Außländische Persohnen, die durch Unserer dem
+#facs_215_r4l3 reysen, oder auch Eydguößische und benachbahrte
+#facs_215_r4l4 kauf und Handels Leuth, die ohne Hausieren die
+#facs_215_r4l5 offenen Jahrmärkt in Unseren Landen zu besuchen
+#facs_215_r4l6 pflegen, es ansehen bill: wollen dieselben Wir
+#facs_215_r4l7 hiemit angebisen haben, in den öffentlichen Wihrts¬
+#facs_215_r4l8 äusern Ihre Einkehr und Herberg zu weinen, und
+#facs_215_r4l9 sollen demmenach die währten in Unseren Landend
+#facs_215_r4l10 pflichtig seyn, bann Ich verdächtiges wolle bey Ihnen
+#facs_215_r4l11 in quartieren bürde, solches entbeders Unseren¬
+#facs_215_r4l12 Ober Amt Leüthen, oder denen nächst gelegenen
+#facs_215_r4l13 Unterbeambteten, Ehrrichteren, Gerichtsaßen
+#facs_215_r4l14 anzuzeigen, unterlaßenden fahls, bey aufge¬
+#facs_215_r4l15 sezter Straaff von 30. Pfunden, ohnabläßlich
+#facs_215_r4l16 von dem ubertretter Ich beilen zu behiehen
+#facs_215_r4l17 davon dann Ein drittel dem Verley der, der Andere
+#facs_215_r4l18 dem Ober Amts Mann, der dritte aber den
+#facs_215_r4l19 Armen der Gemeind daselbst, heimdienen soll.
+#facs_215_r4l20 So ist il von den äußeren; was aber antreffen
+#facs_215_r4l21 bill
+#facs_215_r4l22 Die in Unseren Landen anheimbsche Arme Leuth
+#facs_215_r4l23 :
+#facs_215_r4l24 ad Gattler, so Ihre Burger Rechte im Land haben
+#facs_215_r4l25 und nicht heymathlose sind, laßends wir dermahlen
+#facs_215_r4l26 ferners bey Unserer sub 15ten Decembris und 21. Febr.
+#facs_215_r4l27 Jüngsthin außgeschribenen Ordnung dahin bebenden
+#facs_215_r4l28 das
+#facs_216_r2l1 daß selbige samt Ihren Weib und Kinden in
+#facs_216_r2l2 Ihren Heymathen bleiben, und daselbsten sich
+#facs_216_r2l3 durch zu bringen trachten sollen: Jenige aber
+#facs_216_r2l4 Unserer Unterthanen, so Burger Recht haben
+#facs_216_r2l5 und Ihrer Hand Arbeit und Regangenschaften
+#facs_216_r2l6 nachzugehen bemüßiget, soll für Ihre Persohn
+#facs_216_r2l7 allein, mit Zuziehung höchstens eines Jungen
+#facs_216_r2l8 so den Werkzeug tragen mag, in denen Ämter
+#facs_216_r2l9 darinn Jenige Gemeind, da Sie verbürgeret sind,
+#facs_216_r2l10 gelegen ist, zu Eroberung Ihres Stuk Brodts¬
+#facs_216_r2l11 leurs
+#facs_216_r2l12 herumbzugehen verbilliget seyn.
+#facs_216_r2l13 6. und beobohlen unterem 18ten. et 28ten August. 1733
+#facs_216_r2l14 auch 27. Januarii 1739. Wir das führen der
+#facs_216_r2l15 Wättlern im Land herum, und von dorff zu
+#facs_216_r2l16 dorff, also die sogenante Rättel fuhr vollends
+#facs_216_r2l17 aberkennet und verbotten, auch dabey es fürters
+#facs_216_r2l18 bebenden laßen; So Ich demnach bollen Wir
+#facs_216_r2l19 in ansehen denen Einländischen elenden Franten
+#facs_216_r2l20 Persohnen, die Unsere Angehörige sind, und von
+#facs_216_r2l21 Unseren Amt Leuthen, Predigcanten, oder auch
+#facs_216_r2l22 Unserem allhiesigen Schillahl, oder der Insul¬
+#facs_216_r2l23 gungsam authentische Zeugnußischen Scheinen verdern
+#facs_216_r2l24 vorzubeisen haben, daß selbige Krankheiten
+#facs_216_r2l25 halber, entbeders abdem Land in die Insul¬
+#facs_216_r2l26 oder Spittahl, oder auß selbigen bider zurukung
+#facs_216_r2l27 Ihr
+#facs_216_r3l1 412
+#facs_216_r3l2 Ihr Heymath, oder auch sonsten, zu wider Erhaltung
+#facs_216_r3l3 Ihrer Besundheit, in Vädergebisen worden, daß
+#facs_216_r3l4 gegen solchen, als Mitleydens bürdigen Persohnen
+#facs_216_r3l5 oder auch gegen anderen Einländischen Armen, die¬
+#facs_216_r3l6 unterbegs auf Ihren Reysen et bann erkranket.
+#facs_216_r3l7 die Tättel fuhr fürters, von dorff zu darff, bis in
+#facs_216_r3l8 Ihr Heymath, und Ibarohne einuht Bezahlung, ver¬
+#facs_216_r3l9 pflogen, und andurch trostliche Beyhülff von Unserg
+#facs_216_r3l10 Unterthanen, solchen Persohnen geleistet werde.
+#facs_216_r3l11 Sämtlichen Unseren Einbohnen Angehörige,
+#facs_216_r3l12 und Unterthanen demnach alles Ernsts befehlende,
+#facs_216_r3l13 von dem 1. Trachmonath an, als dem zu Execution
+#facs_216_r3l14 diser, zu gutem uns trost Unser lieben Angehör
+#facs_216_r3l15 gen allein abh bekenden Ordnung, gesetzten
+#facs_216_r3l16 heit und Termin solcheren getreüblich nachzugeleben
+#facs_216_r3l17 belches durch gegenbärtigen öffentlichen Truk
+#facs_216_r3l18 in Männiglichs Nachricht kund gemacht wird.
+#facs_216_r3l19 damit Ein Jeder darnach sich zu richten büße,
+#facs_216_r3l20 Beben In Vern d. 18. Decembris 1741.
+#facs_216_r3l21 und 25. Aprilis 1742.
+#facs_216_r3l22 Translation
+#facs_216_r3l23 Nous L'Advoyer, petit et Grand
+#facs_216_r3l24 5
+#facs_216_r3l25 Conseil de la Ville et Republique de Berne, scavoir
+#facs_216_r3l26 faisons
+#facs_217_r2l1 faisons par les presentes; que comme non obstant
+#facs_217_r2l2 les divers Mandats émanés de nôtre part, et en
+#facs_217_r2l3 particulier celluy du 30me. de juin 1727. par lesquels
+#facs_217_r2l4 Nous avons cherché à vuider et à purger nos pays
+#facs_217_r2l5 et à décharger ses habitants de toute sorte de
+#facs_217_r2l6 Geusaille étrangèse, Nous avons eu le Chagrin
+#facs_217_r2l7 de remarques depuis quelque tems, quantité
+#facs_217_r2l8 de Vagabonds Etrangers, et de gens sans aveu,
+#facs_217_r2l9 s'y sont glissés de nouveau, et l'ont tellement rempl
+#facs_217_r2l10 et surcharge, qu'une necessité Indispensable nôtre
+#facs_217_r2l11 oblige d'y remedier d'une maniere efficace, si bien
+#facs_217_r2l12 qu'apres avoir actuellement etablis Notre Marcek
+#facs_217_r2l13 à pied, ou Nos Patrouilles de Campagne, destinées
+#facs_217_r2l14 a detourner de tout leurs pouvoir, et à dechasser de
+#facs_217_r2l15 dessus les terres de notre Domination, ses garnes
+#facs_217_r2l16 qui, par le passé, ont causes maintes Incomodités et
+#facs_217_r2l17 Nos Sujets, et qui dans la suite pourroient encore
+#facs_217_r2l18 leurs en faire souffrir d'autres; pour parvenir
+#facs_217_r2l19 d'autant mieux à Nôtre but, qui tend à procurer
+#facs_217_r2l20 à avançer & conserver la sureté et la tranquilité
+#facs_217_r2l21 publique et le bien etre de tous ceux qui Nous
+#facs_217_r2l22 appartiennent, Nous avons encore juge à propos,
+#facs_217_r2l23 d'ordoner et de statuer ce qui suit
+#facs_217_r2l24 1er. Il est et sera déffendu à jamais à tous Gueux
+#facs_217_r2l25 mandiants et Vagabonds etrangers, de quelle Èspece
+#facs_217_r2l26 gulds
+#facs_217_r3l1 41
+#facs_217_r3l2 qu'Ils puissent être, Item â tous Colporteurs, et autres
+#facs_217_r3l3 forains, qui peuvent être designés, Sous les noms de Magnes
+#facs_217_r3l4 Chauderonniers, Epiciers, Vitriers, Emouleurs, Vendeurs
+#facs_217_r3l5 d'Amadoue, faiseurs et Radoubeurs de Chapeaux de
+#facs_217_r3l6 paille, Corbelliers, Vergetiers, Chansoniers Galeriens
+#facs_217_r3l7 Charlattans & Vendeurs d'Orvietan, Musciens, Joueux
+#facs_217_r3l8 d'Instruments, et autres Rodeurs & Etrangers de cette
+#facs_217_r3l9 trempe; de même qu'à leurs femes et à leurs Enfans,
+#facs_217_r3l10 d'entrer dans nos pays et provinces, et d'y sejourner
+#facs_217_r3l11 sous quel pretexte que ce soit, et cela sous peine
+#facs_217_r3l12 irremissible pour toutes les personnes de ce Caractére,
+#facs_217_r3l13 qui, rencontrées dans quelqu'unes de Nos dittes provises
+#facs_217_r3l14 ces, se trouvent avoir atteint l'âge de 15. ans, d'avoir
+#facs_217_r3l15 pour la premiere fois, le bout de L'oreille droite
+#facs_217_r3l16 fendre par ordre de nos Baillifs, auxquels Ils aurons
+#facs_217_r3l17 Été Amenes: d'être bannis pour la seconde fois, à per¬
+#facs_217_r3l18 petuité de Nos Villes et Pays, apres avoir été fouëtes de
+#facs_217_r3l19 Verges, et Marqué au dos d'un fer rouge, representant
+#facs_217_r3l20 par les deux lettres initiales O. & S. en langage Alle,
+#facs_217_r3l21 mand, les mots de Haute Suisse, et d'être Emprisones
+#facs_217_r3l22 pour la troisieme fois, affin que, sur les avis que
+#facs_217_r3l23 Nous aurons de leurs detention. Nous puissions
+#facs_217_r3l24 duement decrêter Contr'eux, et même les Condamner
+#facs_217_r3l25 a être misa mort et pendus suivant l'Exigeance
+#facs_217_r3l26 du Cas
+#facs_217_r3l27 Que s'il arrivoit, que de ces Genslà, de L'un & de l'autre
+#facs_217_r3l28 sexe, vinssent à être trouvés dans nos pays armés de
+#facs_217_r3l29 fusils
+#facs_218_r2l1 fusils, de Pistolets de poche, ou autres; de Stilets, du de
+#facs_218_r2l2 telles autres armes suspectes, et que refusant de se resy
+#facs_218_r2l3 Prisoniers aussy tot, Ils cherchassent â sesquiver et à
+#facs_218_r2l4 le sauver par la fuite, ou que même Ils voulussent se
+#facs_218_r2l5 mettre en Etat de deffense avec de semblables armes,
+#facs_218_r2l6 avec des pierres, des bâtons, des perches ou d'autres apres
+#facs_218_r2l7 de cette nature, soit qu'Ils se trouvassent assembles en
+#facs_218_r2l8 plus grand, ou plus petit Nombre que Nos Patrouilles
+#facs_218_r2l9 Nous donons plein pouvois par ses presentes aux
+#facs_218_r2l10 Patrouilleurs, par Nous Etables, de faire feu sur ses
+#facs_218_r2l11 malheureux; Entendants en outre très positivement
+#facs_218_r2l12 qu'au cas que cette Canaille se trouva a troupée et
+#facs_218_r2l13 si grand Nombre, qu'Elle ne put être saisie par le
+#facs_218_r2l14 Patrouille, Les Preposés des Comunes ayent à leurs
+#facs_218_r2l15 donner du secours de Gens armes; et que Nos sujets
+#facs_218_r2l16 soyent en droit de sonner le Toesin et de donner L'alla
+#facs_218_r2l17 affin que les fripons saisis et amenés à Nos Bailis
+#facs_218_r2l18 puissent en vertu de hos Decrets, être Chatez en leur
+#facs_218_r2l19 Corps et Vic: de meme que ses scelemts et Incendiaire
+#facs_218_r2l20 qui menaçent Nos sujets repandus à la Campagne
+#facs_218_r2l21 de leurs faire voir ce qu'Ils appellent des Cogs rouques
+#facs_218_r2l22 ou de les endomager d'une autre maniere
+#facs_218_r2l23 2. l'Entrée dans nos terres et Pays restera à
+#facs_218_r2l24 l'avenir, comme Elle l'a êté par le passé, Entierement
+#facs_218_r2l25 deffendüe et Interditte à cette mauvaise race de
+#facs_218_r2l26 gens, qu'on Nome Egyptiens ou Bohemiens, sous peine
+#facs_218_r2l27 pour tous ceux de L'un et de l'autre sexe, qui auront
+#facs_218_r2l28 passé
+#facs_218_r4l1 passé L'age de quinze ans, d'avoir sans Remission 41t.
+#facs_218_r4l2 le bout de L’oreille droite feudu à la premiere fois: d’être
+#facs_218_r4l3 föüettes et bannis à jamais, et d’avoir une oreille coupée,
+#facs_218_r4l4 à moins que ce ne soit une feme grosse pour la seconde
+#facs_218_r4l5 et de subir, en Cas de detention, pour une deuxième Ruidwe,
+#facs_218_r4l6 Le juste arret d'une Condamnation à Mort
+#facs_218_r4l7 Pour ce qui est des Garçons de Métier et des autres Etrangées
+#facs_218_r4l8 bonnetes Gens; qui ne se trouvent en Voyage, que pour
+#facs_218_r4l9 suivre leurs profession, Nous ordonnons en Vertu des
+#facs_218_r4l10 presentes, que dans la suitte on n'en laisse point entre
+#facs_218_r4l11 dans nos pays, et qu'aucun ny soit reçus en service
+#facs_218_r4l12 par quel maitre, et dans quelle Profession que ce soit
+#facs_218_r4l13 a moins qu'Il ne soit en Etat de produire un Certificat
+#facs_218_r4l14 authentique, de la part des Chefs de Maitrise de L'Endrois
+#facs_218_r4l15 ou Il aura servi en dernier lieu. Muni d'une telle paçe
+#facs_218_r4l16 des auront l'Entree libre, sous la Resolution Cependant,
+#facs_218_r4l17 qu'à la reserve de l'Epée, toute arme, cachée ou portee
+#facs_218_r4l18 publiquement leurs sera deffendue; et affin qu'ils puissent
+#facs_218_r4l19 Continuer Leurs route en toute sureté, à l'entrée du Pays
+#facs_218_r4l20 on leurs mettra entre les mains des Passeports ou billets
+#facs_218_r4l21 de route, qui leurs indiqueront le plus Court Chemin,
+#facs_218_r4l22 pour arriver à l'Endroit ou ils souhaittent d'aller, et dans
+#facs_218_r4l23 Lesquels sera de plus marqué le tems, pendant lequel
+#facs_218_r4l24 les Passeport, seront Valables. Mais sous peine d'un
+#facs_218_r4l25 Pratiment Rigoureux, Ils s'abstiendront de faire la quête,
+#facs_218_r4l26 et surtout dans les Villes ou Ils recoivent la passade, et
+#facs_218_r4l27 Puivront Constament les grandes Roules et Chemins usiles
+#facs_218_r4l28 sans y commettre aucun Exces, et quand Ils seront arrivés
+#facs_218_r4l29 dans les
+#facs_219_r2l1 dans le lieu qu'Ils se seront proposé, soit qu'ils y ayent
+#facs_219_r2l2 trouvé de Louvrage, ou qu'Ils n'en ayent pas trouvé, je
+#facs_219_r2l3 aurons soin à leurs ulterieur depart, de prendre de nous
+#facs_219_r2l4 Certificats, et de remettre les anciennes Lettres de leurs maitres
+#facs_219_r2l5 aussy bien que les vieux Passeports, pour être biffés à la
+#facs_219_r2l6 Chancellerie, ou à la Secretairerie du Lieu, où les derniers
+#facs_219_r2l7 leurs seront Echarges contre de Nouveaux, affin qu'ils
+#facs_219_r2l8 soy en sen Etat de Continuer Leurs Roule, de la maniere
+#facs_219_r2l9 cy dessus Enoncée. On se servira de la même Methode
+#facs_219_r2l10 pour la distribution, qui se fera de billets de route
+#facs_219_r2l11 au soldats congedies, ou aux deferteurs; bien entendu
+#facs_219_r2l12 au Reste, que si quelque soldat, ou quelques Garçons
+#facs_219_r2l13 de métier venoit à être rencontré sur desandes non
+#facs_219_r2l14 Indiquées dans son Passeport, ou sur des sentiers ou
+#facs_219_r2l15 autres Chemins Ecartés, ou bien, si un de ses derniers
+#facs_219_r2l16 se trouvoit dépourvû dien de ces Certificats susmention
+#facs_219_r2l17 Ils feroient regarde comme un Rodeur et un Vagabund
+#facs_219_r2l18 et Cometel, Il aura pour la premiere fois les
+#facs_219_r2l19 Etrivieres, et en cas de Recidive, Il sera forcetté de verg
+#facs_219_r2l20 par la main du Bourreau
+#facs_219_r2l21 4. Et affin que la presente nôtre Ordonance soit
+#facs_219_r2l22 d'autant mieux observée, nous Voulons et Entendons, qu'il
+#facs_219_r2l23 Vertu du present Plauard, Il soit et demeure deffendre très
+#facs_219_r2l24 Expressement et très ferieusement à tous nos sujets et rep
+#facs_219_r2l25 tessants, de loger, sous quelques pretexte que ce soit, de ces
+#facs_219_r2l26 fortes d'Étrangers, et de ces gens de signés dans les articles
+#facs_219_r2l27 et 2 cy dessus, sous peine d'un amande de Vingt Livre
+#facs_219_r2l28 payables par le Transgreseur â Chaque Transgression, Et
+#facs_219_r3l1 cette amande sera appliqué un tiers, à la personne 4-19
+#facs_219_r3l2 du Delateur, un autre tiers au Bailif, et le troisième aux
+#facs_219_r3l3 pauvres de la Paroisse du Delinquent; Ordonons en outre
+#facs_219_r3l4 que si un tel n'êtoit pas en Etat de payer cette amande, Il
+#facs_219_r3l5 subira une prison de dix jours. Pour ce qui est en Echange
+#facs_219_r3l6 de ces autres Etrangers et forains, qui voyagent et passent
+#facs_219_r3l7 par nos Pays, come aussy des Marchands et Negouants de
+#facs_219_r3l8 Nos confederes ou de nos voisins, qui sans courir le Pays,
+#facs_219_r3l9 avec leurs Marchandises, ont accoutumé de frequenter
+#facs_219_r3l10 Nos foires, Nous les invitons à descendre et à loger dans les
+#facs_219_r3l11 Hotelleries et Les Cabarets publics; En suille de quoy Nous
+#facs_219_r3l12 enjoignons aux Cabaretiers, Cas arrivant, que des Gens
+#facs_219_r3l13 suspects allassent prendre Logement Chez Eux, de les Indi¬
+#facs_219_r3l14 quer et de les deferer à nos Bailifs, ou aux officiers subal,
+#facs_219_r3l15 ternes, Consistoriaux, Justiciers, les plus proches, à deffaut
+#facs_219_r3l16 de quoy Ils payeront Irremissiblement, et chaque fois
+#facs_219_r3l17 qu'Ils auront contrevenu au present article, trente livres
+#facs_219_r3l18 d'amande, dont le tiers sera devolû au délateur, L'autre tiers
+#facs_219_r3l19 au Bailif, et le Reste aux pauvres du Lieu. Et telle
+#facs_219_r3l20 est nôtre Volonte par Rapport aux Etrangers.
+#facs_219_r3l21 5. Quant aux Pauvres Indigenes, et aux Mandians
+#facs_219_r3l22 qui ont des Bourgeoisies dans le Pays, Nous Nous en Tenons
+#facs_219_r3l23 à Leurs Egard à Nos Ordonances du 15 Décembre et
+#facs_219_r3l24 du 21 fevrier dernier, par lesquelles Il leurs est enjoint
+#facs_219_r3l25 de rester dans Leurs Paroisse de resterdans leurs Paroisses
+#facs_219_r3l26 et de tacher dy gagner leurs Vie: d'un autre Côté Ceux
+#facs_219_r3l27 de Nos sujets qui ont des Bourgeoisies, mais qui sont obligé
+#facs_219_r3l28 d'aller chercher de L'ouvrage, et de suivre leurs métiers,
+#facs_219_r3l29 et
+#facs_220_r2l1 Leurs Profession pour subsister, auront la permission
+#facs_220_r2l2 pour leurs personnes seulement, sous l'accompagnement
+#facs_220_r2l3 d'un jeune garçon tout au plus, ou d'un
+#facs_220_r2l4 apprentif, pour porter les outils, de rouler dans les
+#facs_220_r2l5 Baillages, dans lesquels les Communes, dont Ils sont
+#facs_220_r2l6 Bourgeois, font enclavees; et d’y chercher leur subsistan
+#facs_220_r2l7 6. Et quoyque par nos Reglements du 18. et du 28.
+#facs_220_r2l8 Aout 1738. et du 27me janvier 1739. Lesquels Nous
+#facs_220_r2l9 Laissons aussy en Vigueur, Nous ayons entièrement
+#facs_220_r2l10 deffendu le transport des pauvres, indigenes, et des
+#facs_220_r2l11 personnes malades, et affligés en leurs Corps, qui
+#facs_220_r2l12 par des temoignages authentiques et des attestations
+#facs_220_r2l13 de la part de Nos Baclifs, soit de nos Pasteurs ou
+#facs_220_r2l14 de Nôtre grand Hospital, ou de celluy de L'Isle,
+#facs_220_r2l15 pourront faire voir, que cest pour Cause de Maladie
+#facs_220_r2l16 qu'ils se trouvent en Chemin, soit qu'Ils se rendent
+#facs_220_r2l17 de la Campagne dans Le Grand Hospital, ou dans
+#facs_220_r2l18 celluy de L'Isle; ou qu'Ils soient sur leurs Retours, ou
+#facs_220_r2l19 bien en Voyage, pour aller prendre quelques bains
+#facs_220_r2l20 qu'on leurs aura Ordonnés pour le Recouvrement de
+#facs_220_r2l21 leurs santé, qu'en faveur de ces sortes de personnes
+#facs_220_r2l22 dignes de pitié et de Compasion, de même que
+#facs_220_r2l23 pour d'autres gens du pays, qui pourront être tombe
+#facs_220_r2l24 malades en route, on Contincie à pratiquer les voitures
+#facs_220_r2l25 # et les voitures des Mandiants d'un village à lautre dans nos pays, Nous
+#facs_220_r2l26 voulons néanmoins, qu'en faveur des pauvres
+#facs_220_r3l1 42
+#facs_220_r3l2 des Mandiants, et à faire ces Transports de village
+#facs_220_r3l3 en village, jusques dans le lieu de leurs domvile, et
+#facs_220_r3l4 même sans en Exiger aucun payement, et que de celle
+#facs_220_r3l5 maniere Nos sujets tendent des mains secourables â de
+#facs_220_r3l6 telles gens
+#facs_220_r3l7 Sur ce finalement Nous enjoignons, Comandons et Ordon
+#facs_220_r3l8 nous, de la maniere la plus serieuses la plus positive
+#facs_220_r3l9 et la plus solennelle a tous nos habitans, Nos Ressor
+#facs_220_r3l10 tessants et nos sujets, de se Conformer fidellement,
+#facs_220_r3l11 lincerement & Royalemt. à la presente Notre Ordonan
+#facs_220_r3l12 La quelle na pour but, que le bien public et particulier
+#facs_220_r3l13 des dits Nos Chers Sujets: Voulants que des 1er Jour
+#facs_220_r3l14 du mois de juin prochain, que est le tems et le terme,
+#facs_220_r3l15 que Nous avons trouvé à propos de fixer pour cet
+#facs_220_r3l16 Effet, Elle soit mise en Viqueur et en Execution. En foy
+#facs_220_r3l17 et en vertu de quoy le present Plavard sera rendu
+#facs_220_r3l18 public par les affiches accoutumées pour la Conduite
+#facs_220_r3l19 d'un chacun. Ainsy fait, arreté et Conclu,
+#facs_220_r3l20 a Berne le 18me Decembre 1741. et 25me Avril
+#facs_220_r3l21 1742.

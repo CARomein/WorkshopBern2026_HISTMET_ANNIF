@@ -1,0 +1,49 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 42/42
+# High similarity (>=80%): 41
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_128_r4l57 November 1795
+#facs_95_r2l5 Wegen allzufrühzeitigen Beerdigungen
+#facs_95_r2l6 der Verstorbenen, wird die Handhabung
+#facs_95_r2l7 der Erstörtigen Verordnung von 1773
+#facs_95_r2l8 neuerdings anbefohlen.
+#facs_95_r2l9 An alle deutsche Herren Amtleute, denne an
+#facs_95_r2l10 Mürten und Schwarzenburg, vier Städt, frey¬
+#facs_95_r2l11 weibel und Anmann
+#facs_154_r4l12 Schultheiß und Rath etc.
+#facs_95_r2l13 Bey dem Vortrag welcher Uns heute über die
+#facs_95_r2l14 diesjährigen Capitals Akten Deutschen Lands er¬
+#facs_95_r2l15 statlet worden, haben Wir zu vernehmen ge-
+#facs_95_r2l16 habt, daß in Betreff der Beerdigung der
+#facs_95_r2l17 Verstorbenen in verschiedenen Gemeinden sich
+#facs_95_r2l18 unerlaubte Unordnungen eingeschlichen haben,
+#facs_95_r2l19 indem nemlich den Pfarrern des Orts die Begräbs
+#facs_95_r2l20 ihrer Gemeindsgenoßen nicht immer angezeigt
+#facs_95_r2l21 und die ungetauften Kinder fast durchgehends
+#facs_95_r2l22 ohne derselben vorwisen beerdiget werden,
+#facs_95_r2l23 wodurch denn, andrer Besorgnißer nicht zu
+#facs_95_r2l24 erwähnen,
+#facs_79_r5l1 Collate
+#facs_74_r5l1 139
+#facs_95_r4l2 erwähnen, die Pfarrer außer Stande gesezt
+#facs_95_r4l3 seyen darauf zu wachen, daß Niemand der
+#facs_95_r4l4 Verordnung vom 25ten May 1773. zuwieder
+#facs_95_r4l5 von der bestimmten Zeit von 2 mal 24 Stunden
+#facs_95_r4l6 begraben werde.
+#facs_95_r4l7 Um nun diesen Unordnungen vorzukommen,
+#facs_95_r4l8 befehlen Wir Euch überhaupt Hand abzuhalten
+#facs_95_r4l9 das gedachte Verordnung gehörig befolget werde
+#facs_95_r4l10 zu dem Ende werdet ihr den Todtengräbern
+#facs_95_r4l11 Eüeres Amtes insbesondere einschärfen, gedachter
+#facs_95_r4l12 Verordnung auf das genaueste nachzukommen.
+#facs_95_r4l13 Somit keine verstorbene vor zwey mal vier
+#facs_95_r4l14 und zwanzig Stunden und nicht, auch ungetaufte
+#facs_95_r4l15 Kinder nicht, ohne Vorwißen ihres Seelsorgers
+#facs_95_r4l16 zu beerdigen.
+#facs_95_r4l17 Desen ihr anmit zu gehöriger Veranstalt¬
+#facs_95_r4l18 und eigener Handhabung berichtet werdet.
+#facs_95_r4l19 Datum den 12ten September 1795.
+#facs_98_r5l28 en

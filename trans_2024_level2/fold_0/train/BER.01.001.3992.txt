@@ -1,0 +1,209 @@
+Law ID: BER.01.001.3992
+Name: Getreid Versilberung dess halbigen Theils dess über den Vorrahts aus sich befindenden Gewächses.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_498
+# Matched: 198/198
+# High similarity (>=50%): 182
+# Low similarity (<50%): 16
+# Not found: 0
+#
+#facs_66_r1l1 120
+#facs_66_r1l2 Collat.
+#facs_66_r2l1 Verzeichnisse
+#facs_66_r2l2 aller Vulter P’misen, so von dem
+#facs_66_r2l3 Pulver Amt, In Mughl. Tund¬
+#facs_66_r2l4 Weltschen Landen sind bestelt worden
+#facs_66_r2l5 Ulrich Widlers seel. Wittib
+#facs_66_r2l6 Im Ober Hasler
+#facs_66_r2l7 Jovis Michels staal Wittib
+#facs_66_r2l8 Brienz
+#facs_66_r2l9 Jacob Michel
+#facs_66_r2l10 Inderlaken
+#facs_66_r2l11 Caspar Storchi
+#facs_66_r2l12 Anderseen
+#facs_66_r2l13 Bernhard Müller
+#facs_66_r2l14 Oberhof den
+#facs_66_r2l15 Mathias Glaser
+#facs_66_r2l16 Schwarzenegg
+#facs_66_r2l17 Haubtman Truthard
+#facs_66_r2l18 zweysinnen
+#facs_66_r2l19 Jacob Zwahlen
+#facs_66_r2l20 Soltigan
+#facs_66_r2l21 Peter Schneider
+#facs_66_r2l22 Prutigen
+#facs_66_r2l23 Anthoni Cängacher
+#facs_66_r2l24 Äschi
+#facs_66_r2l25 Michel Stegmann
+#facs_66_r2l26 Im Blvatt
+#facs_66_r2l27 Hl. Jacob Hoffers seel. Willib.
+#facs_66_r2l28 Thun
+#facs_66_r2l29 H. Johan Heinrich Koch
+#facs_66_r2l30 1
+#facs_66_r2l31 Niclaus Rohrer
+#facs_66_r2l32 Broß Höchstett,
+#facs_66_r2l33 Peter Moser
+#facs_66_r2l34 Diesbach
+#facs_66_r2l35 Johan Müller
+#facs_66_r2l36 Wichtrach
+#facs_66_r2l37 Hans Wanzenried
+#facs_66_r2l38 Worb
+#facs_66_r2l39 Christian Ludi
+#facs_66_r2l40 üzigen
+#facs_66_r3l1 Rilchdorff
+#facs_66_r3l2 Waberen
+#facs_66_r3l3 Burgdorff
+#facs_66_r3l4 Walleringen
+#facs_66_r3l5 Luzelflich
+#facs_66_r3l6 Commis Wald
+#facs_66_r3l7 Dürrenroht
+#facs_66_r3l8 Trachselwald
+#facs_66_r3l9 Langnaulo
+#facs_66_r3l10 hrueb Schachen
+#facs_66_r3l11 Ruedersweil=
+#facs_66_r3l12 Hutweil
+#facs_66_r3l13 fris lonil
+#facs_66_r3l14 Kauflüeh
+#facs_66_r3l15 Signauli
+#facs_66_r3l16 Piglen
+#facs_66_r3l17 Eggilvail
+#facs_66_r3l18 uren
+#facs_66_r3l19 Rohrbach
+#facs_66_r3l20 Langenthal
+#facs_66_r3l21 Hirzogenbucht
+#facs_66_r3l22 Ursenbach
+#facs_66_r3l23 Mortlissach
+#facs_66_r4l1 Peter Gischoff
+#facs_66_r4l2 .
+#facs_66_r4l3 Johannes Schweizer
+#facs_66_r4l4 H. Samuel Brim
+#facs_66_r4l5 H. Hans Jacob, und Hans Heinrich Schnell,
+#facs_66_r4l6 gebrüedere
+#facs_66_r4l7 Niclauß  Miescher.
+#facs_66_r4l8 Christen Löcher
+#facs_66_r4l9 Alexander Hüglin
+#facs_66_r4l10 Haus Morgenthaler
+#facs_66_r4l11 Ulrich Berig
+#facs_66_r4l12 Samuel Moriker
+#facs_66_r4l13 Peter Janni
+#facs_66_r4l14 Ulrich Kähr
+#facs_66_r4l15 Jacob Minder
+#facs_66_r4l16 Andres Heiniger
+#facs_66_r4l17 Anthoni Ulman
+#facs_66_r4l18 Ulrich Beller
+#facs_66_r4l19 Christen Liechti¬
+#facs_66_r4l20 Ahl. Stettler
+#facs_66_r4l21 H. Abraham Im Hooff
+#facs_66_r4l22 Peter Zulauf
+#facs_66_r4l23 Samuel Marti
+#facs_66_r4l24 Hans Jacob Muntzen thaler
+#facs_66_r4l25 Felix Mumenthaler
+#facs_66_r4l26 Joseph Kaufman
+#facs_66_r4l27 Haus Wirth
+#facs_66_r4l28 Alexander Tschunn
+#facs_66_r4l29 Niclaus Kenzig
+#facs_67_r2l1 Arburg
+#facs_67_r2l2 Zofingen
+#facs_67_r2l3 Lenzburg
+#facs_67_r2l4 Brugg-
+#facs_67_r2l5 Araulo-
+#facs_67_r2l6 Arberg
+#facs_67_r2l7 Twan
+#facs_67_r2l8 Eglach
+#facs_67_r2l9 Mürten
+#facs_67_r2l10 Payerne
+#facs_67_r2l11 Yverdun
+#facs_67_r2l12 Grandson
+#facs_67_r2l13 Orbe
+#facs_67_r2l14 Echalens
+#facs_67_r2l15 Au Cheuilen
+#facs_67_r2l16 la Valle du Lac de Soin
+#facs_67_r2l17 Romainmostée
+#facs_67_r2l18 La Sarraz
+#facs_67_r2l19 Cossonay
+#facs_67_r2l20 Moudon
+#facs_67_r3l1 Daniel Sonnenblunst,
+#facs_67_r3l2 Davis Priehart
+#facs_67_r3l3 Abraham Lehman
+#facs_67_r3l4 Johan Seiler Elter
+#facs_67_r3l5 h
+#facs_67_r3l6 The
+#facs_67_r3l7 Abraham Scheürman
+#facs_67_r3l8 Kl. Abraham Rüchslin
+#facs_67_r3l9 v. Johann Georg Rüetschis seel.
+#facs_67_r3l10 Witteb
+#facs_67_r3l11 Heinrich Puster
+#facs_67_r3l12 Daniel Pflegel
+#facs_67_r3l13 Johan Waßmer zum Adler
+#facs_67_r3l14 v. Samuel die
+#facs_67_r3l15 Samuel Herster
+#facs_67_r3l16 Bl. Johan Gönzli¬
+#facs_67_r3l17 die Societet der Hl. Kauffleüthen
+#facs_67_r3l18 oder ein Jahr
+#facs_67_r3l19 Mr. Daniel Marcuard
+#facs_67_r3l20 La Veuve de Mr Jean David Wild
+#facs_67_r3l21 Mr. Abraham Louis Degiez
+#facs_67_r3l22 Mr: Benjamin Combe
+#facs_67_r3l23 Mr. Samuel Denis Cresp.
+#facs_67_r3l24 Abraham Isave Reymond
+#facs_67_r3l25 Mr françois Combe
+#facs_67_r3l26 Mr Troillet Secret. Ballival
+#facs_67_r5l1 Lausane de Mr Jean Daniel le Maire
+#facs_67_r5l2 françois Louis Secretan
+#facs_67_r5l3 Morges
+#facs_67_r5l4 Me Jean Henry Sterke,
+#facs_67_r5l5 Rolle
+#facs_67_r5l6 Mr Jean Gabriel Coendoz
+#facs_67_r5l7 Aubone
+#facs_67_r5l8 Mr. Gabriel Vionet et fils
+#facs_67_r5l9 Nion
+#facs_67_r5l10 Mr Salomon Durel
+#facs_67_r5l11 Coppet
+#facs_67_r5l12 Mr. Adam Ardin
+#facs_67_r5l13 Prassier
+#facs_67_r5l14 Abraham Isaac Golay
+#facs_67_r5l15 françois Sebastian Coenoy
+#facs_67_r5l16 orsier
+#facs_67_r5l17 Me Jeane Pauline Fatio
+#facs_67_r5l18 Vevey
+#facs_67_r5l19 Mr. Diillaud
+#facs_67_r5l20 Aigle
+#facs_67_r5l21 Sr. Pre Mermie
+#facs_67_r5l22 Chateau d'Oersten
+#facs_67_r5l23 Au Rougémont Pierre Saugis
+#facs_67_r5l24 An
+#facs_67_r5l25 Alle T. und Weltsche Amtleüth und
+#facs_67_r5l26 Oberkeitl. Häuser da Oberkeitlich
+#facs_67_r5l27 Getreid ist
+#facs_67_r5l28 Betreid Versilberung über deßhalbigen Theils deß
+#facs_67_r5l29 über den vorraht aus sich befindtl. Gewächses
+#facs_67_r5l30 Schultheiß Rath und Burger
+#facs_67_r5l31 Aus erheblichen Unß darzu bewegenden Ursachen
+#facs_68_r1l1 haben Wir auf Unß beschehenen Vortrag
+#facs_68_r1l2 Unser Teütschen und Weltschen Venner Camer,
+#facs_68_r1l3 Unß entfehloßen, den halbigen Theil alles über
+#facs_68_r1l4 den bestimmen Vorraht aus, nach Abzug der
+#facs_68_r1l5 vorstehenden Fasnacht, Pfingst- und Herbst
+#facs_68_r1l6 Prohnfasten, wie auch der Ordinari¬ Aussgaben
+#facs_68_r1l7 und Quasi Ordinari Ausgaaben, sich
+#facs_68_r1l8 übrig befindenden Somer Bewächses
+#facs_68_r1l9 verstilbaren zu laßen; Bestalten Wir
+#facs_68_r1l10 Euch hiemit befehlen wollen, solchemnach das
+#facs_68_r1l11 Betreid ohne Anstand in billichem Preiß
+#facs_68_r1l12 zum Verkauff ausstellen zu laßen, und
+#facs_68_r1l13 nit etwann darmit zuruk zu halten; Es
+#facs_68_r1l14 soll auch das Betreid zu nicht allzugroßen
+#facs_68_r1l15 Käüsten verkaufft werden, und denen Hodleren
+#facs_68_r1l16 und Kornhändleren, in Bescheidenheit nicht
+#facs_68_r1l17 höher, als per Fuder hingegeben werden,
+#facs_68_r1l18 Der heiteren Meinung, daß Sie lüch jehlweillen
+#facs_68_r1l19 Attestata zuruk bringen sollen, daß Sie
+#facs_68_r1l20 das Betreid in Unseren Landen auf den
+#facs_68_r3l1 Märithen und an Unsere Burger und Under¬
+#facs_68_r3l2 thanen verlaufft; damit Wie auch läußen
+#facs_68_r3l3 mögen, wie es mit diesem Verkauff hergangen,
+#facs_68_r3l4 follet Ihr bis künfftigen Mayen Unß
+#facs_68_r3l5 einen vollständigen Etat einsenden, lärviel
+#facs_68_r3l6 Betreyd verbaufft worden und sie Dath den
+#facs_68_r3l7 10 febri 1751

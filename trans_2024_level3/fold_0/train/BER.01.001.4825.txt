@@ -1,0 +1,54 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 46/47
+# High similarity (>=80%): 43
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4825
+#facs_93_r2l1 ob
+#facs_247_r5l20 An alle Herren Amtleute Welschen Landes, wo Ober
+#facs_247_r5l21 beitlich Getreu liegt, und die unterm Reglement stehen supp.
+#facs_232_r5l21 Schultheiß Räth und Burger der Stadt Bern
+#facs_247_r5l23 Nach deme Uns von Unsern Fürgeliebten Miträthen
+#facs_247_r5l24 den Herren Welsch Sekelmeister und Vennern über
+#facs_247_r5l25 das auf Martini 1796, eingegangene und nach
+#facs_54_r3l24 =abar
+#facs_5_r1l1 2.
+#facs_26_r4l1 48
+#facs_248_r2l1 Abzug der wirklich vorhandenen Kriegs voraths
+#facs_248_r2l2 und aller ordinari und quasi ordinare ausgaben,
+#facs_248_r2l3 zu Küsterer Disposition übrig bleibende Oberkeit¬
+#facs_248_r2l4 liche Getreyd der gewohnte Bericht auf heute
+#facs_248_r2l5 abgestattet worden, so haben wir vor allem
+#facs_248_r2l6 aus zu erkennen gut befunden. Daß das ad
+#facs_248_r2l7 dem Kriegs Vorath noch man gelnde und zwar
+#facs_248_r2l8 in Miphelborn und Gersten zum Ganzen
+#facs_248_r2l9 in Warzen aber zum halben Theil wieder
+#facs_248_r2l10 gänzt und zum Vorrath aufgeschüttet werden
+#facs_145_r5l5 solle.
+#facs_248_r2l12 In Betref aber des jenigen Oberkeitlichen
+#facs_248_r2l13 Getreides, welches nach Abzug des auf zu behal¬
+#facs_248_r2l14 tenden Frucht Quantums, wie auch der Ordinari
+#facs_248_r2l15 und quasi ordinari Ausgaben übrig bleiben
+#facs_248_r2l16 wird, haben wir erkennt und verordnet, daß
+#facs_248_r2l17 der halbige Theil davon, und zwar sowohl von
+#facs_248_r2l18 den Winter = als Sommerfruchten, in den
+#facs_248_r2l19 Monaten Merz, Aprill und May verstilber.
+#facs_248_r2l20 werden könne. Alles jedoch in dem Verstand
+#facs_248_r2l21 daß bey diesem Verkauf die üblichen Vorforgen
+#facs_248_r2l22 genommen, zumalen solches Getreid nur
+#facs_248_r2l23 zu kleinen Stäuffen erlaßen, die Sommer
+#facs_248_r2l24 Früchte dann vorzüglich zu Anblümung der
+#facs_248_r2l25 Felder hingegeben, auch erst dann zumal völlig
+#facs_248_r2l26 verkauft werden sollen, wann die Sommer
+#facs_248_r2l27 =Daat
+#facs_97_r3l1 183.
+#facs_248_r3l2 Saat in Eüerm Amt, und in den Gegenden von
+#facs_248_r3l3 welchen der Saamen dazu in demselben angekauf¬
+#facs_248_r3l4 wird, vollbommen wird besorget seyn
+#facs_248_r3l5 Welchem nach Ihr Euch genau zu verhalten und
+#facs_248_r3l6 über das erlöstende Uns gebührende Rechnung zu
+#facs_248_r3l7 tragen Ihr bestens wissen werdet.
+#facs_257_r3l4 Geben den
+#facs_98_r5l28 en

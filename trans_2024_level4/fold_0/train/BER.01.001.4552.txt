@@ -1,0 +1,103 @@
+Law nr: BER.01.001.4552
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 91/91
+# High similarity (>=80%): 87
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_115_r4l25 Mandat wegen den Hunden.
+#facs_289_r5l19 Nach deme
+#facs_115_r4l27 beliebet
+#facs_116_r1l1 beliebet, Hochderoselben Saintät Rath alle
+#facs_116_r1l2 Polizey über die Hunde zu übergaben etc.
+#facs_116_r1l3 So hat Hochderselbe die von Unseren gnä¬
+#facs_116_r1l4 digen Herren unterm 21. May 1748. und
+#facs_116_r1l5 12ten Septembris 1755 aufgegangen
+#facs_116_r1l6 Verordnungen wieder von neuem zu pub¬
+#facs_116_r1l7 ficieren, und mit einigen nöthigen Beysä,
+#facs_116_r1l8 zen zu vermehren gut befunden
+#facs_116_r1l9 1o. Infolg derselben sollen alle große Hunde.
+#facs_116_r1l10 Dogues- und Mezger Hünde, von denjeni¬
+#facs_116_r1l11 gen Personen so dergleichen halten wollen,
+#facs_116_r1l12 also verwahrt und eingeschloßen werden,
+#facs_116_r1l13 daß solche wegen des Beschreys noch son¬
+#facs_116_r1l14 sten niemand beschwärlich fallen, und
+#facs_116_r1l15 auch nicht in der Stadt, weder bey Tag
+#facs_116_r1l16 noch sonderheitlich bey Nacht auf offenig
+#facs_116_r1l17 Gassen umherlauffen, zu mahlen wider
+#facs_116_r1l18 handlenden Fals, dieselben, wie auch die
+#facs_116_r1l19 läußigen Hündinnen, ohne schönen durch
+#facs_116_r1l20 den Wasenmeister werden niedergeschla¬
+#facs_116_r1l21 gen werden
+#facs_116_r1l22 Was aber die Jagd Zunde anbetrift, so sollen
+#facs_116_r1l23 dieselben durch das ganze Jahr niemalen
+#facs_116_r1l24 in der Stadt gedultet werden.
+#facs_4_r4l1 3.
+#facs_116_r1l26 Alle andere Hunde aber sollen ohne Aus¬
+#facs_116_r1l27 nahm von Abends um 10ten Uhr bis zu
+#facs_116_r1l28 Aufgehung der Stadtthore eingeschlossen:
+#facs_21_region_1633454506260_2871l1 Un
+#facs_6_region_1627936574015_66l1 6
+#facs_8_r2l3 25
+#facs_116_r3l2 und des Tagt in denen zu bestimmenden
+#facs_116_r3l3 Zeiten mit wohlverwahrten Musilieres
+#facs_116_r3l4 versehen seyn, bey fünf Pfunden Straf
+#facs_116_r3l5 von dem Eigenthümmer des Hunds zu Han
+#facs_116_r3l6 den des Verleiders zu beziehen
+#facs_116_r3l7 Sry zehen Pfunden Bus werden keine
+#facs_4_r7l1 4
+#facs_116_r3l9 Hunde in den Kirchen gelitten
+#facs_116_r3l10 und endlichen werden die Bauersleute ihre
+#facs_116_r3l12 Hunde zu Hause laßen; würden sie ihnen
+#facs_116_r3l13 aber nachlauffen, sollen sie dieselben
+#facs_2_r1l1 St.
+#facs_116_r3l15 hier in
+#facs_116_r3l16 ohne andere an dem Teil führen, bey
+#facs_116_r3l17 in Pfund Juß.
+#facs_116_r3l18 Allen Stadt Einsassen so nicht Burger
+#facs_116_r3l19 und ewige Einwohner sind, und allen
+#facs_116_r3l20 Personenplas Allmosten genießen
+#facs_116_r3l21 ist es verbotten, bey jehen Pfund Buß,
+#facs_116_r3l22 Hunde zu halten. Reisende so nur eine
+#facs_116_r3l23 bürze Zeit sich hier aufhalten, und deren
+#facs_116_r3l24 Hunde niemand beschwärlich fallen, je
+#facs_12_r8l3 in
+#facs_266_r6l25 doch
+#facs_116_r3l28 Es verheissen Hochgedacht Mehaffl.
+#facs_116_r3l29 die Sanitäträthe jedem Verleider die Geheim
+#facs_116_r3l30 haltung seines Namens, und verwarnen
+#facs_116_r3l31 näniglich sich vor Schaden zu hüten.
+#facs_116_r3l32 Geben den 15ten July 1784
+#facs_47_r3l5 Lanzley Bern.
+#facs_83_r3l6 en
+#facs_8_r3l1 26
+#facs_100_r2l1 soll.
+#facs_196_r2l3 o
+#facs_117_r2l3 auf deßen Beobachtung
+#facs_28_r4l1 Coll
+#facs_4_r8l9 a
+#facs_154_r4l16 alle deutsch und weltsche Herren Amtleut,
+#facs_117_r3l3 4. Städt, Freyweibel und Amann
+#facs_117_r3l4 Käfer-Mandat
+#facs_117_r3l5 Der durch die Inger dis Jahrs fast durchge¬
+#facs_117_r3l6 hends verursachte große Schaden, und die
+#facs_117_r3l7 eingezogene Berichte, wie sehr Unser
+#facs_117_r3l8 disorts zum besten Unserer lieben An
+#facs_117_r3l9 gehörigen Ao. 1771. emaniertes Mandat
+#facs_117_r3l10 an den meisten Orten hindan gesezt wo
+#facs_117_r3l11 de, sehen Uns in die unmigängliche
+#facs_117_r3l12 Nothwendigkeit, die Execution desselben
+#facs_117_r3l13 Hiermit ernsthaft von nun an anzube¬
+#facs_117_r3l14 fehlen.
+#facs_117_r3l15 Ihr werdet demmenach sel¬
+#facs_117_r3l16 biges gewohnten maßen publiciren las¬
+#facs_117_r3l17 bey bevorstehender Herbst- und Frühling
+#facs_117_r3l18 Zeit genaue Acht halten, und die erfa¬
+#facs_117_r3l19 derliche so nöhtige Aufsicht darüber
+#facs_117_r3l20 bestellen. Wie zu thun Ihr bestens
+#facs_117_r3l21 2 isen werdet. Dat. 26. July 1784.

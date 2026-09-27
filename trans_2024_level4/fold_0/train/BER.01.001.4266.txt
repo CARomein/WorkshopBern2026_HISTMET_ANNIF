@@ -1,0 +1,100 @@
+Law ID: BER.01.001.4266
+Name: Ihnen anzeigen, dass zu Spedierung allhiesiger Kauffmanns Güteren nach Frankreich, die Route über [...] angewiesen seye.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_502
+# Matched: 89/89
+# High similarity (>=50%): 88
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_86_r5l11 Signalement
+#facs_86_r5l12 Joseph Würsch, seiner profession ein Geiger, ge¬
+#facs_86_r5l13 fürtig von Ämmäcken aus dem Canton Under¬
+#facs_86_r5l14 balden bis dem Kernbald, 30. Jahr alt, kleine
+#facs_86_r5l15 ein Zoll nammlich weniger als 5. schue hocher Statur
+#facs_86_r5l16 fecten rohtbrächten Angesichts, Braune Augenbra¬
+#facs_86_r5l17 nen und Barts, auch braun von Natur gebraus¬
+#facs_86_r5l18 ten Haaren, graue Augen, siebt mit dem
+#facs_86_r5l19 rechten Fuß, tragt ein braun halb wollenes
+#facs_86_r5l20 Camisel, zu beiden seiten mit gelben knöpfen
+#facs_86_r5l21 ein Carmandriges Leiblin mit kleinen rohten
+#facs_86_r5l22 würflen und zinernen Knöpfen zu beiden seiten, ein
+#facs_86_r5l23 Als braun seidenes Halstuch, schwarze leder Hosen, braun
+#facs_86_r5l24 wollene strümpf, uns stachlene schuschnellen
+#facs_87_r1l1 159.
+#facs_87_r1l2 Collate
+#facs_87_r2l1 an
+#facs_87_r2l2 Alle H. Amtleut Weltschen Landes
+#facs_87_r2l3 Ihnen anzeigen, daß zu Spedierung allhiesiger Kauff¬
+#facs_87_r2l4 mans Güteren nach Fraubreich, die Route über Gex¬
+#facs_87_r2l5 und Colonge angewiesen seye.
+#facs_87_r2l6 Schultheiß Räht und Burger etc.
+#facs_87_r2l7 Wie sind von Ihro Excell: dem Herren herzogen
+#facs_87_r2l8 von Choiseul benachrichtiget worden, daß auf
+#facs_87_r2l9 Unsere Vorstellungen, von Ihro AllerChristl. Mayl.
+#facs_87_r2l10 die Verfügung gethan worden, daß die aus Unser
+#facs_87_r2l11 Landen nach Fraubreich und Vice Versa bestimte
+#facs_87_r2l12 Kaufmans Güther, anstatt der sonst gebrauchten
+#facs_87_r2l13 Route über Genff, welche bey annoch Obwaltendt
+#facs_87_r2l14 Umständen gespehrt sich befindet, dermalen
+#facs_87_r2l15 über Gex und Colonge ins Königreich Spediert
+#facs_87_r2l16 werden mögen, Jedoch unter folgenden Praecau
+#facs_87_r2l17 tionnus
+#facs_87_r2l18 1°. Daß das Commerium und die Versendung der
+#facs_87_r2l19 Waaren über Gex und Colonge, ohne einiche Betrat
+#facs_87_r2l20 tung des Benserischen Territory geschehe¬
+#facs_87_r2l21 2. Daß die Fuhrleute jeweilen mit einer Declaration
+#facs_87_r2l22 von den Eigenthümmeren der führenden Waaren
+#facs_87_r2l23 versehen seyen, dardurch diese leztere bezeüge
+#facs_87_r2l24 daß besagte Waaren ihnen zu gehören, oder für
+#facs_87_r3l1 160
+#facs_87_r3l2 Ihre Rechnung seyen, und daß selbige nicht von
+#facs_87_r3l3 Benf kommen, noch für diese Stadt bestimt seyen
+#facs_87_r3l4 Une
+#facs_87_r3l5 3. Daß sothane Declarationen mit einem Certificat
+#facs_87_r3l6 von dem Amtsmann des Orts begleitet seyn, und
+#facs_87_r3l7 auf diesem Fuß von den Fuhrleuten beym Eingang
+#facs_87_r3l8 ins Königreich, oder beym Ausgang aus demselben
+#facs_87_r3l9 auf den Grenzen vorgewiesen werden sollen.
+#facs_87_r3l10 Dieser Verfügung nun haben Wir Euch /: gleich ander,
+#facs_87_r3l11 Unseren Amtleuten Weltschen Lands) benach¬
+#facs_87_r3l12 richtigen wollen, mit befehl, solche denen in
+#facs_87_r3l13 Euerem Amt sich befindenden Handelsleuten und
+#facs_87_r3l14 Speditoren, welchen dißortige Wissenschaft nöhtig
+#facs_87_r3l15 seyn mag, zu Ihrem Verhalt bekant zu machen
+#facs_87_r3l16 Und damit Unsere Angehörige Handelsleuth desto
+#facs_87_r3l17 Minder Gefahr laufen, in einer Verdrieß.
+#facs_87_r3l18 lichkeit, ratione Ihrer versendenden oder Empfa¬
+#facs_87_r3l19 henden Waaren zu fallen, haben Wir für Gut
+#facs_87_r3l20 befunden, vier verschiedene Formular der Ver¬
+#facs_87_r3l21 langenden Declarationen und Certificaten in
+#facs_87_r3l22 drub geben zu laßen, deren das Erste dienen soll.
+#facs_87_r3l23 für die Waaren, so die Handelsleuth als Ihr Eigen
+#facs_87_r3l24 guth oder für Ihre Eigene Rechnung. Das andere
+#facs_88_r2l1 für diejenigen, so Sie als Transit und Commissions
+#facs_88_r2l2 weise nach Frankreich versenden, das dricte
+#facs_88_r2l3 und Vierte für die aus Frankreich kommende
+#facs_88_r2l4 Waaren, und zwar das einte für diejenigen
+#facs_88_r2l5 so die Handelsleut für Ihre eigene Rechnung,
+#facs_88_r2l6 und das andere so sie Commissions weis von dorten
+#facs_88_r2l7 her erhalten: Darvon Wir Euch hiermit günz¬
+#facs_88_r2l8 samme Exemplar zusenden, mit dem Ansinnen
+#facs_88_r2l9 solche denen Handelsleuten Euers Amts die dem
+#facs_88_r2l10 benöhtiget seyn mögen, zu distribuieren, um sich
+#facs_88_r2l11 derselben in Eint- Anderem, Dritt- und Vierten
+#facs_88_r2l12 fall zu bedienen; da zugleich Ihr besagten
+#facs_88_r2l13 Handelsleuten ernstlich injungieren werdet, sich
+#facs_88_r2l14 aller Collusionen mit Genft und Leihung Ihres
+#facs_88_r2l15 Rahmens an dortige Negoranten, es seye um
+#facs_88_r2l16 Waaren aus Frantreich nach Benst zu bringen,
+#facs_88_r2l17 oder derselben von dorten ins Königreich zu
+#facs_88_r2l18 freggen, bey Hoch Oberkeitlicher Straff und Ungna
+#facs_88_r2l19 sich gänzlich zu enthalten, damit nicht durch allfählich
+#facs_88_r2l20 Entdebung eines dergleichen Verständnißes, zu solchen
+#facs_88_r2l21 Verfügungen von seiten Frankreichs Anlaß gegeben und
+#facs_88_r2l22 darunter das hiesige Commerium leiden müße
+#facs_88_r2l23 Worbey auch unser Will und Meinung ist, daß die Besigling
+#facs_88_r2l24 und Extradition der Certificaten jeweilen gratis beschehen selbst
+#facs_88_r2l25 Datl. d. 20th. Marty 1767.

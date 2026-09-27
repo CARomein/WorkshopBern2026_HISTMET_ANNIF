@@ -1,0 +1,331 @@
+Law ID: BER.01.001.2927
+Name: Ihnen den gestelten Bericht, umb das Verfahren Mr.G.H. in Ansehen der obschwäbenden Neüwenburgischen Gefahr vorstellen, undt sie darbey zur Treüw und Dapferkeit anfrischen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 320/320
+# High similarity (>=50%): 311
+# Low similarity (<50%): 9
+# Not found: 0
+#
+#facs_82_r4l19 An alle T. und W. Ambtleüts, 4. Stett.
+#facs_82_r4l20 Freyweibel und Amman Hem per Hedel an alle
+#facs_82_r4l21 Besellschafften
+#facs_82_r4l22 Ihnen den gestelten Bericht, vmb das verfahren Meghl.
+#facs_82_r4l23 h
+#facs_82_r4l24 in ansehen der obschwäbenden Neüwenburgischen
+#facs_82_r4l25 gefahr vorstellen, undt Sie darbey zur treüw und
+#facs_82_r4l26 Dapferkeit aufrischen
+#facs_82_r4l27 Schultheis Räht und Burger.
+#facs_82_r4l28 keit gefahr so der Graffschafft Neüwenburg und Dardurch
+#facs_82_r4l29 Unserem selbseigenen Vatterland anscheinet, hat was
+#facs_82_r5l1 15
+#facs_83_r2l1 4 vnd Taxer
+#facs_83_r2l2 loit
+#facs_83_r3l1 Veranlaßet etwelche Völker auf die füß zu stellen
+#facs_83_r3l2 und sonsten alles in bereitschafft zu bringen, damit im fahl
+#facs_83_r3l3 der noht Wir dapferen Widerstand zu leisten verfaßet,
+#facs_83_r3l4 seyen: Es will aber darbey von nöhten sein daß Unsere Bürger
+#facs_83_r3l5 und Underthanen die Treüw und pflichten, mit denen Sie
+#facs_83_r3l6 uns zugethan, in Werk erzeigen, und sich resolvieren thüyin,
+#facs_83_r3l7 wan es zu einem Ernst kommen solte, darvor aber
+#facs_83_r3l8 Gott gnädig sein wolle, nach dem Exempel Ihrer Fromme
+#facs_83_r3l9 Vorderen sich Mannlich und Hertzhafft darzestellen.
+#facs_83_r3l10 fndt gleichwie uns daran gelegen, daß wir nicht allein
+#facs_83_r3l11 n
+#facs_83_r3l12 ihrer Treuw wohl versicheret, sondern auch Sie die
+#facs_83_r3l13 Unseren wüsten mögend, wie aufrichtig Unser Verfahren
+#facs_83_r3l14 seye, also haben Wir guttbefunden, einligenden
+#facs_83_r3l15 bericht stellen, und in Vnsere Teütsche und Weltschen
+#facs_83_r3l16 Land verschiken zu laßen, umb selbigen der
+#facs_83_r3l17 Mannschafft vorzulesen: Wie dan so viel deine
+#facs_83_r3l18 Ambtsangehörige betrifft, Wir dir hiemit befohlt,
+#facs_83_r3l19 haben wollend, in allen Kirchhörenen durch den
+#facs_83_r3l20 Predikanten des Ohrts seine Action doch ohne ver=
+#facs_83_r3l21 nambsung einiger Potentaten, darnach einrichten,
+#facs_83_r3l22 und nach geendigter Predig denselben einligenden
+#facs_83_r3l23 bericht ablesen zu laßen. # Wie beschehen werde
+#facs_83_r3l24 Wir des versehend. Datl. 12. January 1718
+#facs_83_r3l25 # An die Ambtleüth allein.
+#facs_83_r3l26 Inmitlest
+#facs_83_r3l27 aber auch deine Regierung also einzurichten, damit
+#facs_83_r3l28 das hertz der Underthanen durch widriges von Ihrer
+#facs_83_r3l29 Oberkeit mit entfahrnet werde.
+#facs_83_r5l1 157.
+#facs_83_r5l2 Red an die Underthanen.
+#facs_83_r5l3 Wir Schultheiß Räst und Bürger der Statt
+#facs_83_r5l4 Bern Entpieten Unseren Lieben und Getreüwen
+#facs_83_r5l5 Burgerem und Underthanen, auch allen Einwohneren
+#facs_83_r5l6 Vnserer Teütsch und Weltschen Stetten, Herrschafften
+#facs_83_r5l7 und Landen, Geistlichen und Weltlichen Beambteten
+#facs_83_r5l8 vorgesetzten und Undergehörigen, was Standts, Würdens
+#facs_83_r5l9 oder Wesens sie seyen, Vnseren fründtlichen grüß, gnädig
+#facs_83_r5l10 geneigten Willen, und darbey zuvernemmen
+#facs_83_r5l11 Demnach Vnsere Lobl. RegimentsVorderen vor mehr
+#facs_83_r5l12 als dreyhundert Jahren in Bebrachtung gezogen, welcher
+#facs_83_r5l13 gestalten deroselben Landt an die Graffschafft Neüwen
+#facs_83_r5l14 burg und vallendes stoßen, und daß an erhaltung
+#facs_83_r5l15 derselbigen Nachbahrschafft auch zugleich vnsere eigene
+#facs_83_r5l16 hanget; hat solches wohlbemelte Unsere Lobl. Alt¬
+#facs_83_r5l17 fordere veranlaßet, sowohl mit dem Graffen deßelbigen
+#facs_83_r5l18 Landts alß absonderlich mit der Statt Neüwenburg
+#facs_83_r5l19 und vnderschiedenlichen dortigen Gemeinden in eige
+#facs_83_r5l20 fründtschafft zu tretten, und selbige durch Ihgerichte be¬
+#facs_83_r5l21 zwige Pündt und Burgerrecht zu versicheren, deren Inhal¬
+#facs_83_r5l22 haubtsehlich darinn bestehen, daß der Graff von
+#facs_83_r5l23 Neüwenburg wie auch die Statt und versenden
+#facs_83_r5l24 gemeinden sich gegen unserem Stand pfliöstig
+#facs_83_r5l25 gemacht, unß und den vnserigen mit leib und
+#facs_84_r2l1 veranlaßet etwelche Völker auf die füß zu stellen.
+#facs_84_r2l2 und sonsten alles in bereitschafft zu bringen, damit im fahle
+#facs_84_r2l3 der noht Wir dapferen Widerstand zu leisten verfaßet,
+#facs_84_r2l4 teyen: Es will aber darbey von nöhben sein daß Unsere Bürger
+#facs_84_r2l5 und Underthanen die Treüw und pflichben, mit denen Sie
+#facs_84_r2l6 uns zugethan, in Werk erzeigen, und sich resolvieren thüyen.
+#facs_84_r2l7 wan es zu einem Ernst kommen solte, darvor aber
+#facs_84_r2l8 Gott gnädig sein wolle, nach dem Exempel Ihrer Prome
+#facs_84_r2l9 Vorderen sich Mannlich und Hertzhafft darzustellen
+#facs_84_r2l10 Undt gleichwie uns daran gelegen, daß Wir nicht alle
+#facs_84_r2l11 4 vnd Taxten
+#facs_84_r2l12 ihrer Treuw wohl versicheret, sondern auch Sie die
+#facs_84_r2l13 keit.
+#facs_84_r2l14 Unseren wüsten mögend, wie aufrichtig Unser Verfahren
+#facs_84_r2l15 seye, also habend Wir guttbefunden, einligenden
+#facs_84_r2l16 bericht stellen, und in Vnsere Teütsche und Weltschen
+#facs_84_r2l17 Land verschiken zu laßen, vmb selbigen der
+#facs_84_r2l18 Mannschafft vorzulesen: Wie dan so viel deine
+#facs_84_r2l19 Ambtsangehörige betrifft, Wir dir hiemit befoh¬
+#facs_84_r2l20 haben wollend, in allen Kirchhörenen durch den
+#facs_84_r2l21 Predikanten des Ohrts seine Action doch ohne ver=
+#facs_84_r2l22 nambsung einlicher Potentaten, darnach einrichte
+#facs_84_r2l23 und nach geendigter Predig denselben einligenden
+#facs_84_r2l24 bericht ablesen zu laßen. # Wie beschehen werde
+#facs_84_r2l25 Wir verstechen. Datl. 12. January 1708
+#facs_84_r2l26 Inmitlest
+#facs_84_r2l27 # An die Ambtlcuth allein.
+#facs_84_r2l28 aber auch deine Regierung also einzurichten, damit
+#facs_84_r2l29 das Hertz der Underthanen durch widriges von Ihren
+#facs_84_r2l30 Oberkeit nit entfchreck werde.
+#facs_84_r4l1 15
+#facs_84_r4l2 Red an die Underthanen
+#facs_84_r4l3 Wir Schultheiß Räst und Bürger der Statt
+#facs_84_r4l4 Bern Entpieten Vnseren Lieben und Getreüwen
+#facs_84_r4l5 Burgerem und Underthanen, auch allen Einwohnern
+#facs_84_r4l6 Vnserer Teütsch und Weltschen Stetten, Herrschafft
+#facs_84_r4l7 und Landen, Geistlichen und Weltlichen Beambteten
+#facs_84_r4l8 vorgesetzten und Undergehörigen, was Standts, Würdens
+#facs_84_r4l9 oder Wesens sie seyen, Vnseren fründtlichen grüß, gnädig
+#facs_84_r4l10 geneigten Willen, und darbey zu vernemmen
+#facs_84_r4l11 Demnach Vnsere Labl. RegimentsVorderen vor mehr
+#facs_84_r4l12 als dreyhundert Jahren in betrachtung gezogen, welcher
+#facs_84_r4l13 gestalten deroselben Lande an die Graffschafft Neüwen
+#facs_84_r4l14 burg und vallenckes stoßen, und daß an erhaltun
+#facs_84_r4l15 derselbigen Nachbahrschafft auch zugleich vnsere eigene
+#facs_84_r4l16 hänget; hat solches wohlbeuelte Vnsere Lobl. Alt=
+#facs_84_r4l17 fordere veranlaßet, sowohl mit dem Graffen deßelbigen
+#facs_84_r4l18 Landts als absonderlich mit der Statt Neüwenburg
+#facs_84_r4l19 und vnderschidenlichen dortigen Bemeinden in eüge
+#facs_84_r4l20 fründtschafft zu tretten, und selbige durch Vfgerichtet
+#facs_84_r4l21 ewige Pündt und Burgerrecht zu versicheren, deren Innhalten
+#facs_84_r4l22 aubtsehlich darinn bestehen, daß der Graff von
+#facs_84_r4l23 Neüwenburg wie auch die Statt und verschiedene
+#facs_84_r4l24 gemeinden sich gegen Unserem Stand pfliöstig
+#facs_84_r4l25 gemacht, unß und den inserigen mit leib und
+#facs_85_r1l1 gutt und mit ganzer Macht oder so viel wir von
+#facs_85_r1l2 Ihnen begehren werden, behülfflich zu sein, durch
+#facs_85_r1l3 sollen auch alle Neüwenburgische Stätt und
+#facs_85_r1l4 Schlößer uns offen stesen, so offt wir es noch
+#facs_85_r1l5 wendig haben werden. etc
+#facs_85_r1l6 Zargegen haben sich unsere Lobl. Regimenten
+#facs_85_r1l7 vordere auch erklährt, daß Sie den Grafe
+#facs_85_r1l8 von Neüwenburg all sein Erben und Nacktome
+#facs_85_r1l9 wie auch die Statt und underschidenlicher
+#facs_85_r1l10 gemeinden deß Landts zu dero Ewigen
+#facs_85_r1l11 Bürgeren, und in Jero Statt Schirm genom¬
+#facs_85_r1l12 haben, und darbey Eydtlich gelobet und ver¬
+#facs_85_r1l13 sprochen, dem Graffen und benandte-
+#facs_85_r1l14 Statt und Gemeinden wider alle die Jenigen
+#facs_85_r1l15 so Ihne und Sie an Ihren Freyheiten, leib
+#facs_85_r1l16 hätt oder Ehren angreiffen und wider recht
+#facs_85_r1l17 bekümeren wolten, behülfflios zu sein mit
+#facs_85_r1l18 leib und gutt und mit ganzer Maest Ihres
+#facs_85_r1l19 Schaden zu wenden, nütz und Ehr zu fürdere
+#facs_85_r1l20 Alß dict und alß viel Isnen das nostdürfftig
+#facs_85_r1l21 sein wirt, und daß darum ermasnen
+#facs_85_r1l22 ohne alles verziesen und widerred. etc.
+#facs_85_r1l23 Vor wenig Monathen aber hat sich zugebragen, daß
+#facs_85_r1l24 die Neüwenburgische Stände an Ihrer Verstorbenen
+#facs_85_r1l25 Fürstin platz, Ihr Königl. Maystl. in Preußen zu
+#facs_85_r1l26 Ihrem rechtmäßigen Landesherren benambset undt
+#facs_85_r3l1 159.
+#facs_85_r3l2 erkennet, welches den außenhar einen so großen unwillen
+#facs_85_r3l3 herrsachet, daß benandte Graffschafft eines feindtlichen
+#facs_85_r3l4 einfahls betreüwet worden, und deßwegen auch allerhand
+#facs_85_r3l5 bedenkliche Kriegsverfaßungen auf den Gräntzen vorgehen
+#facs_85_r3l6 Wan nun Wir darüberhin, sowohl von der Näwenburgischen
+#facs_85_r3l7 Regierung, alß absonderlich von der Statt und denen
+#facs_85_r3l8 Bemeinden des Lands, mit denen Wir in Pündtnus
+#facs_85_r3l9 stehen, ersuchet und ermahnet worden, Ihnen bey der
+#facs_85_r3l10 obschwäbenden gefahr behülfflich zu sein, so haben Wir
+#facs_85_r3l11 sowohl zu abmeidung der straff Gottes, alß zu Vnserer
+#facs_85_r3l12 eigenen Sicherheit nit ermanglen wollen Vnsere Eyde
+#facs_85_r3l13 und Pündt gegen disen betreüwten und betrangten
+#facs_85_r3l14 Bürgeren zu erfüllen, und in folg deßen Ihnen den
+#facs_85_r3l15 begehrten Zuzug zu leisten: Maßen auch alle diese und
+#facs_85_r3l16 künfftige Verfaßungen die Wir anstellen möchten
+#facs_85_r3l17 zu Niemandeßin beleidigung, sondern allein
+#facs_85_r3l18 wider Gewalt und überfahl vns und Unsere Ver
+#facs_85_r3l19 bürgerte zu schirmen angesehen, also auch vns deßen
+#facs_85_r3l20 wegen niemand verdenken noch vns einigen ungütte
+#facs_85_r3l21 Vorhabens wegen in Verdacht ziehen soll.
+#facs_85_r3l22 Vndt gleichwie Wir dieser dingen Eüch gütter meinung hiemit
+#facs_85_r3l23 berichtend, also Wollend Wir Eüch ins gesambt und einen
+#facs_85_r3l24 denen ins besonders gantz vätterlich ermahnet haben, Eüch aller
+#facs_85_r3l25 seits angelegen sein zu lasten bevorderst den schiden mit Gott
+#facs_85_r3l26 zu machen, und alles verbrauwen alleine zu demselben zu
+#facs_85_r3l27 richten, disenmach aber Eüwerer pflichten und Eyden mit
+#facs_85_r3l28 Denen daß Ihr Eüch zugethan befindet, wohl zu erinneren
+#facs_86_r2l1 Undt im fahl der noht Eüch gebroüw, Capfer und herlshafft
+#facs_86_r2l2 inzufinden, damit durch Gottes Güette, auch Eüwerer
+#facs_86_r2l3 trostlichen Beystand aller feindtliche Gewalt möge abgetrib¬
+#facs_86_r2l4 und Ihr allerseits bey Eüweren Geistlichen und Leiblichen
+#facs_86_r2l5 Freyheiten bey Eüweren Weib und Kinderen bey Hauß und
+#facs_86_r2l6 heimb, und bey allem dem Einwerigen unbeschädiget möge,
+#facs_86_r2l7 erhalten werden: Vndt sollen Euch alß ein freye
+#facs_86_r2l8 Vor anderen Völkeren aus gesegnetes Volk darzu anfrüschen
+#facs_86_r2l9 die Exempel Eüwer Frommen Altvorderen die in so viele
+#facs_86_r2l10 wichtigen begebenheiten Ihre Capferkeit hertzhafft erwiesen
+#facs_86_r2l11 Ihre sonst mächtige feind abgetriben, und die nun so lang
+#facs_86_r2l12 genoßene Freyheiten vns und Eüch erworben habend: Wir
+#facs_86_r2l13 Versehend Uns deßen Umb so viel desto mehr, weilen
+#facs_86_r2l14 auch Wir Unserselts an sorgfalt, großen Umblösten
+#facs_86_r2l15 mühe und arbeith nichts ermanglen laßen werden,
+#facs_86_r2l16 was zu gleichem End gereichen mag, und in Vnseren
+#facs_86_r2l17 Krefften sein wirt: Worbey dan zu hoffen ist,
+#facs_86_r2l18 der Allerhöchste Unsere in einer so gerechten sach gefaßt
+#facs_86_r2l19 Rahtschleg mit seinem heiligen sägen dergestalten
+#facs_86_r2l20 begleiten, daß Er die gefahr auß gnaden abwenden
+#facs_86_r2l21 und vns allerseits nach fürbas in süesten und säliger
+#facs_86_r2l22 Friden erhalten werde. Geben in Unser Großen Rast,
+#facs_86_r2l23 Versamblung den 12 Januarii 1708
+#facs_86_r2l24 Representation.
+#facs_86_r2l25 Collats Nous l'Advoyer Petit et Grand Conseil de la Ville
+#facs_86_r2l26 de Berne à nos chers et feaux Bourgeois et s'est
+#facs_86_r3l1 161.
+#facs_86_r3l2 et generalement a tous les Habitants de nos villes
+#facs_86_r3l3 Seigneuries et Terres des Pays Allemand et Roman, a Nos
+#facs_86_r3l4 Cens d'Office, Ecclesiastiques et Politiques, et a ceux qui sont
+#facs_86_r3l5 sous leur Conduite, de quelque Etat, Rang et condition
+#facs_86_r3l6 qu'ils soyent: Nôtre amiable salutation avec l'asseurance
+#facs_86_r3l7 de nôtre bienveillance: Faisons scavoir
+#facs_86_r3l8 Que nos Ancêtres d'heureuse Memoire ayants depuis plus
+#facs_86_r3l9 de trois cent ans fait reflexion, comme quoy nos Terres et Pays
+#facs_86_r3l10 sont frontieres des comtez de Neuchatel et de Vallangin, telle-
+#facs_86_r3l11 ment que nôtre propre secreté depend de la conservation
+#facs_86_r3l12 des dites Comtez qui sont a notre voisinage, cela auroit
+#facs_86_r3l13 donné occasion a nos dits louables Ancêtres de lier une
+#facs_86_r3l14 etroite amitié tant avec le Comte de ce pays là, comme
+#facs_86_r3l15 aussy particulierement avec la Ville de Neufchatel et
+#facs_86_r3l16 diverses Comunautez du même pays, et d'en serrer les nœuds
+#facs_86_r3l17 en contractant avec eux tous des Traittes perpetuels d'Allian
+#facs_86_r3l18 ce et de Combourgeoisie, dont les conditions se reduisent
+#facs_86_r3l19 Que le Comte de Neufcha
+#facs_86_r3l20 „a celles-cy.
+#facs_86_r3l21 tel, come aussy la Ville et diverses comu
+#facs_86_r3l22 nautez du pays se sont engagez envers nôtre
+#facs_86_r3l23 Etat, de nous assister Nous et les nôtres de
+#facs_86_r3l24 leurs Corps et Biens de toutes leurs forces ou
+#facs_86_r3l25 de celles que nous leurs demanderons: Et en outre
+#facs_86_r3l26 doivent aussy tous leurs chateaux, Villes et
+#facs_86_r3l27 Places fortes nous être ouvertes, toutes et
+#facs_86_r3l28 quantes fois que nous en aurons besoin.
+#facs_87_r5l1 Par contre nos Predecesseurs d'heureux
+#facs_87_r5l2 memoire se sont aussy declaré d'avoir recu
+#facs_87_r5l3 ledit Comte de Neuchatel et touts ses heres
+#facs_87_r5l4 tiers et Successeurs, comme aussy la Ville
+#facs_87_r5l5 de Neuchatel et plusieurs Communautez
+#facs_87_r5l6 du pays pour leurs Bourgeois perpetues
+#facs_87_r5l7 et de les avoir pris sous la protection de
+#facs_87_r5l8 1.
+#facs_87_r5l9 notre Ville et se sont engagez a eux par
+#facs_87_r5l10 "
+#facs_87_r5l11 „serment et leurs ont promis de bonne foy
+#facs_87_r5l12 et sans fraude d'assister le Comte, la
+#facs_87_r5l13 Ville et les Comunautez susmentionneé
+#facs_87_r5l14 et de les ayder fidellement de leurs corps
+#facs_87_r5l15 et biens et de toutes leurs forces contre
+#facs_87_r5l16 tous ceux qui voudroient contre droit
+#facs_87_r5l17 ,
+#facs_87_r5l18 les attaquer et molester en leurs frans
+#facs_87_r5l19 chises, Corps, biens et honneur de detour
+#facs_87_r5l20 per leur perte et d'avancer le proffre
+#facs_87_r5l21 et honneur de leurs susdits Bourgeois
+#facs_87_r5l22 toutes les fois qu'ils en auront besoin
+#facs_87_r5l23 et nous le demanderont, sans aucun
+#facs_87_r5l24 délay ni contradiction.
+#facs_87_r5l25 Or il est arrivé il y a quelques mois que les Etats
+#facs_87_r5l26 de Neuchatel, apres la mort de leur Princesse
+#facs_87_r6l1 163
+#facs_87_r6l2 ont nommé et reconnu Sa Majesté le Roy de Prusse
+#facs_87_r6l3 pour leur legitime Seigneur et Prince, ce qui leur a
+#facs_87_r6l4 attiré tant de malveuillance dans des Pays Etrangers
+#facs_87_r6l5 que ladite Comté s'est vuë menacée d'une irruption
+#facs_87_r6l6 ennemie, et qu'aussy pour cette cause on fait sur les
+#facs_87_r6l7 frontieres toute sorte de preparatifs de guerre: Nous
+#facs_87_r6l8 donc ayants eté la dessus requis et priez tant par la
+#facs_87_r6l9 Regence de Neuchatel que par la ville et les dites Commu-
+#facs_87_r6l10 nautez du Pays, auxquels nous sommes Alliez, de les assi-
+#facs_87_r6l11 ster dans ce danger dont ils se voyent menacez, n'avons
+#facs_87_r6l12 pas voulu manquer a cette occasion, tant pour detour.
+#facs_87_r6l13 ner un tel fleau de Dieu, que pour nôtre propre seure
+#facs_87_r6l14 té d'accomplir tout ce qu'exigent de nous nos sermens
+#facs_87_r6l15 et nos Alliances envers nos dits affidez et affligez
+#facs_87_r6l16 Bourgeois, et en consequence de ce, de leur accorder
+#facs_87_r6l17 pour leur Secours les Trouppes qu'ils nous ont demandées
+#facs_87_r6l18 d'autant plus que tous ces preparatifs de guerre que nous
+#facs_87_r6l19 faisons, et que nous pourrons faire encore, ne sont point
+#facs_87_r6l20 ordonnez dans le dessein de faire tort à qui que ce soit
+#facs_87_r6l21 mais uriquement pour nous garder nous et nos Bour-
+#facs_87_r6l22 geois contre la violence et l'innption d'un ennemi, et
+#facs_87_r6l23 qu’ainsy nul ne doit par consequent prendre en mauvais
+#facs_87_r6l24 part ce que nous faisons, ny nous soubçonner d'avoir aucune
+#facs_87_r6l25 mauvais dessein
+#facs_87_r6l26 Or comme nous avons bien voulu, par une suite de nôtre
+#facs_87_r6l27 bonne volonté pour vous, vous informer de ces choses par
+#facs_87_r6l28 les presentes, aussy avons nous trouvé bon de vous ex
+#facs_87_r6l29 horber paternellement tous en general et un chacun
+#facs_88_r2l1 de vous en particulier, que Vous ayez soin tous tant que
+#facs_88_r2l2 vous etez, premierement et avant toutes choses de
+#facs_88_r2l3 faire votre paix avec Dieu, et de mettre toute vôtre
+#facs_88_r2l4 confiance uniquement en luy, et ensuite de cela de
+#facs_88_r2l5 bien rappeller dans votre souvenir vos devoirs et vos
+#facs_88_r2l6 obligations a nôtre Egard, et les Sermens par lesquels
+#facs_88_r2l7 vous êtez liez a nous, et en cas de besoin de vous montrer
+#facs_88_r2l8 fideles, vaillants et courageux, affin que par la bonté
+#facs_88_r2l9 de Dieu, et par vôtre fidele Passistance on puisse
+#facs_88_r2l10 repousser touts les efforts de nos ennemis, et qu'ains
+#facs_88_r2l11 vous puissiez tous tant que vous etez, être conservez
+#facs_88_r2l12 dans vos franchises spirituelles et corporelles avec
+#facs_88_r2l13 vos femes et vos Enfans, vos Maisons et tous vos
+#facs_88_r2l14 Et come
+#facs_88_r2l15 siens sans reçevoir aucun domnage
+#facs_88_r2l16 vous etez un peuple libre et bénit par dessus plus
+#facs_88_r2l17 sieurs autres, c'est à cela que doit vous encourra
+#facs_88_r2l18 ger l'Exemple de Vos bons Ancêtres, qui ont mont
+#facs_88_r2l19 courrageusement leur bracoure en tant d'occasion
+#facs_88_r2l20 importantes, repoussé leurs Ennemis, quelques puissins
+#facs_88_r2l21 qu'ils fussent, et nous ont aquis à Nous et à vous
+#facs_88_r2l22 les Libertez dont nous avons jouy depuis si longtemps
+#facs_88_r2l23 Nous attendons cela de vous d'autant plus que Nous
+#facs_88_r2l24 de nôtre Cote nous n'epargnerons rien, ni soins
+#facs_88_r2l25 ni grosse dépense, ni peine ni travail, et generalement
+#facs_88_r2l26 rien de tout ce qui pourra contribuer à une pa
+#facs_88_r2l27 veille fin et qui sera en notre pouvoir. Aprésque
+#facs_88_r2l28 il y a lieu d'esperer que le Seigneur Toutpuissant benin
+#facs_88_r3l1 165
+#facs_88_r3l2 tellement les deliberations que nous avons prises dans
+#facs_88_r3l3 une si juste cause, qu'il nous fera la grace de detournés
+#facs_88_r3l4 touts dangers de nous, et de noue conserver touts dani
+#facs_88_r3l5 une douce et heureuse paix. Donné dans l'assembleé
+#facs_88_r3l6 de nôtre grand Conseil le 12. Janvier 1708

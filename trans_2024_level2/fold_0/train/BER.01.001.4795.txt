@@ -1,0 +1,99 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 92/92
+# High similarity (>=80%): 87
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_128_r4l57 November 1795
+#facs_4_r3l2 Verordnung.
+#facs_100_r5l24 wegen der Vieh = Ausfuhr
+#facs_46_r2l24 Wir Schultheiß, Klein und Große Räthe
+#facs_100_r5l26 der Stadt und Republik Bern, entbieten
+#facs_100_r5l27 allen
+#facs_100_r6l1 189
+#facs_100_r6l2 allen Unsern lieben und getreuen Bürgern und
+#facs_100_r6l3 angehörigen zu Stadt und Land Unsern gnä¬
+#facs_100_r6l4 digen und geneigten Willen, und geben ihnen
+#facs_100_r6l5 dabey zu vernehmen.
+#facs_100_r6l6 daß so wie ungünstige Umstände und die
+#facs_127_r2l15 Efigen
+#facs_100_r6l8 Besorgniß
+#facs_100_r6l9 es Mangels, uns ein gänzlicher
+#facs_100_r6l10 Ausfuhr Verbott aller Viehwaare abdringen
+#facs_100_r6l11 konnten, Wir Uns jezt hingegen bey der mah¬
+#facs_100_r6l12 liger minder nachtheiligen Lage und beßer
+#facs_100_r6l13 gewordenem Viehstände zur Pflicht rechnen
+#facs_100_r6l14 Unsern Angehörigen hierinn alle den Umstände
+#facs_100_r6l15 und dem Bedarf Unserer eigenen Lande ange¬
+#facs_100_r6l16 neßenen Erleichterungen zu verschaffen
+#facs_100_r6l17 Wir haben demnach in Milderung und Theil
+#facs_100_r6l18 weiser Aufhebung des gedachten Vieh ausfuhr¬
+#facs_100_r6l19 Verbolls, für die Zukunft und bis auf einen
+#facs_100_r6l20 noch günstigern Zeitpunkt festgesezt und ver¬
+#facs_100_r6l21 ordnet, was hier von einem zum andern folget
+#facs_1_r2l2 1.
+#facs_100_r6l23 Vors erste wollen Wir also, in Abänderung
+#facs_98_r5l28 en
+#facs_100_r6l25 des 8ten S: Unserer Verordnung vom 3
+#facs_100_r6l26 December 1794. bewilliget haben, von jezt
+#facs_100_r6l27 an alles junge Vieh unter zwey Jahren, frey
+#facs_100_r6l28 und ungehindert aus dem Lande zu führen;
+#facs_100_r6l29 außer diesem Punkt aber verbleibt bemelt
+#facs_100_r6l30 Unsere
+#facs_101_r1l1 190
+#facs_101_r2l1 Unsere Verordnung in ihrem ganzen übrigen
+#facs_101_r2l2 Innsait noch nemer in voller Kraft, und
+#facs_101_r2l3 sein mithin in Rübsicht auf die Viehwaare,
+#facs_101_r2l4 bis auf weitere Verfügung noch ferner als
+#facs_101_r2l5 zuführen verbotten.
+#facs_101_r2l6 1o Alle Saugvalber
+#facs_101_r2l7 2o Alle Schaafe
+#facs_101_r2l8 3o Alle Geisben und Böbe; so wie
+#facs_101_r2l9 4° Alle Schweine und Schweinferkel; des gleichen
+#facs_101_r2l10 5. Alles fleisch, Stele, Schmeer, Fett und
+#facs_124_r6l26 = ans
+#facs_9_r7l1 11
+#facs_101_r2l13 Betreffend dann die Ausfuhr des Zug- und
+#facs_101_r2l14 Mastviehes, so wie überhaupt alles Horn.
+#facs_101_r2l15 Viehes, das über zwey Jahre alt ist, so bleibt
+#facs_101_r2l16 solche annoch ferner verbotten.
+#facs_101_r2l17 Wir haben jedoch aber Unserer verordneten
+#facs_101_r2l18 Pferr, und fleischtax Commißion die Voll
+#facs_101_r2l19 macht gegeben, selbst für dergleichen Vieh¬
+#facs_101_r2l20 vaare, die trächtigen Kühe allein ausgenom¬
+#facs_101_r2l21 men, zu nach den Umständen und mit Mäs¬
+#facs_101_r2l22 sigung ausfuhr Patenten ertheilen zu dörfen
+#facs_101_r2l23 diese aber vorzüglich an solche Eyd genoßen,
+#facs_101_r2l24 welche mit den behörigen Attestaten von ihren
+#facs_101_r2l25 Obrigkeiten versehen seyn werden, wie daß
+#facs_101_r2l26 sie dergleichen Waare zu ihrem Haus gebrauch
+#facs_92_r2l27 oder
+#facs_101_r3l1 91
+#facs_101_r3l2 oder zu Beforgung ihrer Fleischbänke nöthig
+#facs_101_r3l3 haben, und denn mit der Einschränkung, daß
+#facs_101_r3l4 sie dergleichen Waare bloß an öffentlichen
+#facs_101_r3l5 Jahr- und Wochenmarkten ankaufen dörfen
+#facs_101_r3l6 Die Widerhandlungen gegen diese gegne¬
+#facs_101_r3l7 wärtige Verordnung nun sollen nach Vorschrift
+#facs_101_r3l8 bemelter Verordnung vom 3ten December 1794.
+#facs_101_r3l9 bestraft, und die Bethäter mit der darin
+#facs_101_r3l10 bestimmten Ausfuhrstrafe belegt werden
+#facs_101_r3l11 iemlich mit der Confiscation der Waare und
+#facs_101_r3l12 einer Busse von gleichem Werth
+#facs_60_r3l1 111.
+#facs_101_r3l14 Da nunmehro auch der Zeitpunkt eingetroffen
+#facs_101_r3l15 ist, daß Unsern lieben und getreuen angehörigen
+#facs_101_r3l16 in Rüksticht auf die bisherigen Sperranstalten
+#facs_101_r3l17 und den innern Vieh Verbahr, einige Erleichterung
+#facs_101_r3l18 verschaffet werden kann; so haben Wir in Völ¬
+#facs_101_r3l19 liger Aufhebung der Verordnung vom 4ten Mertz
+#facs_101_r3l20 1794 Unfern Kleinen Rath begwältiget zu
+#facs_101_r3l21 Behinderung des Schleichhandels solche Maßregler
+#facs_101_r3l22 zu nehmen und zur Befolgung vorzuschreiben,
+#facs_101_r3l23 welche derselbe den jezigen Umständen ange¬
+#facs_101_r3l24 meßen, auch jederzeit nach denselben abzu¬
+#facs_101_r3l25 andern gut und nöthig erachten wird
+#facs_93_r3l11 Beben in Unserer Großen Raths Ver¬
+#facs_101_r3l27 sung den 7ten September 1795
+#facs_98_r5l28 en

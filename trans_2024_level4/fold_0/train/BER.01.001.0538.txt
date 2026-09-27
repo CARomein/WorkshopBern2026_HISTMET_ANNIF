@@ -1,0 +1,89 @@
+Law nr: BER.01.001.0538
+Name: Wegen dess Gleitts so von dem Wyn uffem Platz verkoufft wirt durch den Verköuffer bezalt werden soll.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 77/77
+# High similarity (>=80%): 70
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_85_r2l14 An die Tuttsch Anmittlutth
+#facs_85_r2l15 Fryweibel und Amman Wegh,
+#facs_85_r2l16 desß Geitts so vnd dem wyn
+#facs_85_r2l17 vffem Clatz verkaufft wirt.
+#facs_85_r2l18 durch den verkouffer bezaltt
+#facs_85_r2l19 werden soll.
+#facs_85_r2l20 Schuldtheis und Demnach wir von Vil¬
+#facs_85_r2l21 Jaren har gespurt das weltsche vnd türsche
+#facs_7_r1l1 6
+#facs_85_r2l23 auch etlicher vnser Burgern wyn gwur vnd
+#facs_85_r2l24 quärb vfkaufft alhar Im vnser Statt gefurt
+#facs_85_r2l25 vnd widerumb Wkoufft, dauon aber weder
+#facs_85_r2l26 bös. pfenngen, vmbgälltt noch geritt bezalltt
+#facs_85_r3l1 Sonders Inen mehr Fryheit dan andere vnsere
+#facs_85_r3l2 Burg habend angemassett, da aber wir will kosten
+#facs_85_r3l3 mit erhaltung stäg, weg vnd Bruggen daran
+#facs_85_r3l4 söliche für Reüffere kein stuwe noch hilff
+#facs_85_r3l5 thund, Järlich, In vnd vssertthalb der Statt
+#facs_85_r3l6 Cossstan mussend, derwegen vnbillich funden, das
+#facs_85_r3l7 ölicher Krambler, also vogelfry In vnser Statt
+#facs_85_r3l8 handlen vnd Feryer dan andere syn sollind, habt
+#facs_85_r3l9 wir Im 1596. Jar angeseihen, das solliche Drämp¬
+#facs_85_r3l10 ler, also vogelfey vnd wijn furkouffer glijchne
+#facs_85_r3l11 vnsere burger selbst so vffemplatz oder vor denn
+#facs_85_r3l12 Kellern wyn, vss der Statt verkauffen werdendet
+#facs_85_r3l13 von einem Landttvass ein Muntzkronen vnd von
+#facs_85_r3l14 einem Ryff vass 15 6 für das gleitt vß richten
+#facs_85_r3l15 vnd bezalen söllen, welches dan etwas zytt
+#facs_85_r3l16 gehaltten worden, Diewijll aber sidt wenig
+#facs_85_r3l17 Zytten ein sollich mißbruch hieruss endstanden
+#facs_85_r3l18 das die Verkeuffer, so vnsern vnderthanen, vffem
+#facs_85_r3l19 platz oder vor den Kellern alhie wyn kaufft
+#facs_85_r3l20 welchem syden wyn verkaufft, ein ein sollich
+#facs_85_r3l21 gleitt vfgesaltze und fürgeben das sij herdurch
+#facs_85_r3l22 desß umbgeltts vffem landt gefryett vnnd
+#facs_85_r3l23 ledig sijn werdind vf ias sy verkeuffer also
+#facs_85_r3l24 ledige ostschlieffen vnd kein gleitt entricht,
+#facs_85_r3l25 mussindt vnd hiemit vnsere vnderthanen
+#facs_85_r3l26 mehr dan vffem landdt geben mussen
+#facs_85_r3l27 of dem land
+#facs_85_r3l28 ons aber den vmbgelt
+#facs_286_r3l1 1568
+#facs_86_r1l1 157
+#facs_86_r2l1 nhogen worden, das das die Zijtt ein
+#facs_86_r2l2 grosse Sinn sich anlaufft sind wir
+#facs_86_r2l3 fürkommung sollicher geforden verschmelerung
+#facs_86_r2l4 vnd abbruch vnserer geachttiknittl. ver-
+#facs_86_r2l5 ursachet worden. Anzogen unser Ansehen
+#facs_86_r2l6 von Verstand Im demselben vnsern vnderthanen
+#facs_86_r2l7 zu Irer nachrichtung offen baren vnd ver¬
+#facs_86_r2l8 kunden zulassen, nämlich das vnseren
+#facs_86_r2l9 will und verstand das die Innigen es
+#facs_86_r2l10 yend vnsere Burger, oder vsere vnderthanen
+#facs_86_r2l11 Wyn alhie vff einplatz oder vor den Kelleren
+#facs_86_r2l12 verkauffend werdend schuldig vnd verbunden,
+#facs_86_r2l13 Mijn sollend von einem Landtuaß 25 R.
+#facs_86_r2l14 vnd von einem ryffuass 15 fl. fuir das
+#facs_86_r2l15 gleidt, vnd nit das Pombgeltt, Zeendrichtlich
+#facs_184_r3l52 unsere Underthanen alles ernsts zu vernommen und Warne,
+#facs_86_r2l17 wir vom alttemhar, das vmbgelt an denen
+#facs_86_r2l18 an denen ordten, sijn den wyn, verkauffen, zalen
+#facs_86_r2l19 vnd entrichten, vnd derwegen wan sij Ins künftig
+#facs_86_r2l20 wijn alhie vfem platz oder vor den hußeren kaufft
+#facs_86_r2l21 werdent, dem Verkreüffer jölich gleitt
+#facs_86_r2l22 vorbehalten und vfdingen, oder also merckt,
+#facs_86_r2l23 sie
+#facs_86_r2l24 allend das es ohne schaden endrichten und
+#facs_86_r2l25 zalen mögend, dan sonst khein wijn ohn
+#facs_86_r2l26 andtrichtung desen glutts nit gladen
+#facs_86_r2l27 werden soll, wellich vnser erforschet,
+#facs_86_r3l1 158
+#facs_86_r3l2 Insechen du hiemit offentlich von Cantzlen
+#facs_86_r3l3 verläsen vnd mengklich zu haltung desselben
+#facs_86_r3l4 vermannen lassen soltt vnd wirst dan
+#facs_4_r1l14 a
+#facs_86_r3l6 das Ist vnser will, Datum 25
+#facs_86_r3l7 februarij 1614

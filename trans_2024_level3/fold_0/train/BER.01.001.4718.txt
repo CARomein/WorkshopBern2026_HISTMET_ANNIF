@@ -1,0 +1,40 @@
+Law ID: BER.01.001.4718
+Name: 
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 29/29
+# High similarity (>=50%): 29
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_137_r4l11 Ain
+#facs_137_r4l12 alle deutsch und Welsche Herren Amtleut
+#facs_137_r4l13 item Zofingen und Gottstadt, exceptis Signan
+#facs_137_r4l14 Laupen, Köniz, Buchfer, Oberhatte und Petter
+#facs_137_r4l15 lingen Cons
+#facs_137_r4l16 Ihnen danahm wörtlich ein gleiches auftragen
+#facs_137_r4l17 wie hievor auf Pap: 57.
+#facs_137_r4l18 ob id
+#facs_137_r4l19 An alle H. Decanen Deutschen- und Claßen
+#facs_137_r4l20 Welschen Lands. Ihnen wegen Haltung der
+#facs_137_r4l21 Capiteln und Claßen, ein gleiches anbefehlen, wie
+#facs_137_r4l22 hievor auf p: 58. Dat. den 15ten May 1793.
+#facs_138_r2l1 Sr. Getreid Anbauten auf den Märkten
+#facs_138_r2l2 zu Basel, Schaffhausen, Stein am Rhein
+#facs_138_r2l3 und Winterthur, werden Patenten
+#facs_138_r2l4 zu ertheilen verordnet
+#facs_138_r2l5 an
+#facs_138_r2l6 alle deutsch und Welsche Herren Amtleut
+#facs_138_r2l7 vier Städte, freyweibel und Ammann¬
+#facs_138_r2l8 Schultheiß und Rath,
+#facs_138_r2l9 Mitkommende Publikation, kraft deren
+#facs_138_r2l10 Unsere Angehörige zu Getreid ankaufen
+#facs_138_r2l11 auch zu Basel, Schaffhausen, Stein am
+#facs_138_r2l12 Rhein und Winterthur mit Patenten
+#facs_138_r2l13 von unserer Kornkammer versehen
+#facs_138_r2l14 seyn müßen, wird Euch hiemit zugestandt.
+#facs_138_r2l15 um solche von den Canzlen Verlesen
+#facs_138_r2l16 und behörigen Orts anschlagen zu laßen
+#facs_138_r2l17 Datum den 16ten May 1793

@@ -1,0 +1,102 @@
+Law ID: BER.01.001.0719
+Name: Schirm- und Pflantzung wegen der Höltzeren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_483
+# Matched: 91/91
+# High similarity (>=50%): 90
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_38_r3l12 An Tütsch, vnd Welltsen
+#facs_38_r3l13 Ampeluth, Schirm: und
+#facs_38_r3l14 Pflantzung wegen der
+#facs_38_r3l15 Soltzeicen,
+#facs_38_r3l16 thspe.
+#facs_38_r3l17 Dir haben zu Wilen Vnderschidenlichen malen
+#facs_38_r3l18 Ernstige Mandat, vnd gepot Vbssgahr lassen, den
+#facs_38_r3l19 man den höltzeren, sonderlich den Eijchwälden
+#facs_38_r3l20 schonen, und die nit allso mutwillig schwenden
+#facs_38_r3l21 Vnd Eröden; Sonderlich aber, dan man anstatt
+#facs_38_r3l22 Deren, die man fellt, und vmbhouwet, andere
+#facs_38_r3l23 setzen vnd allso Jung Holtz pflantzen, vnd die
+#facs_38_r3l24 Träld Erhalten solle, vernemen aber das
+#facs_38_r3l25 demselben bishero an mehrentheils Ortten
+#facs_38_r3l26 nit schat geschechen, vnd die holtzer hin, und
+#facs_38_r3l27 wider alls geschendt, vnd Eichouwen sind,
+#facs_38_r5l1 27
+#facs_38_r5l2 13
+#facs_38_r5l3 das wo dem nit begegnet, die gar vß gehouwen, vnd
+#facs_38_r5l4 an Wilen Gersten dan Holtz mangell Lusthan, vnd
+#facs_38_r5l5 das köstliche Kleinot des Ackerumbs, auch dahin
+#facs_38_r5l6 gahn wurde, deßwegen befelchen wir das, die höltz
+#facs_38_r5l7 vnd Wald, sonderlich die Rthl. und Buchhöltzer
+#facs_38_r5l8 In Dyner verälltung, mit sonderem Flyß zube¬
+#facs_38_r5l9 sichtigen, vnd durchgan vnd schouwen, oder ob die Vnsern
+#facs_38_r5l10 Inschlag In denselben machin, vnd durch mitell
+#facs_38_r5l11 derselben oder Ja ander Zug Holtz pflantzind, wie
+#facs_38_r5l12 es Ihnen Vilmalen gar krüstig befolchen worden
+#facs_38_r5l13 Ouch was für ledrige platz da man Etwas Rütiner
+#facs_38_r5l14 gemacht, vnd gsayet sijn werden, da Holtz gezuchtet
+#facs_38_r5l15 vnd pflantze werden mochte, vnd dan den genemdt
+#facs_38_r5l16 Dynes Verwaltung by hochster vnser straff, vnd
+#facs_38_r5l17 buß zugepieten, das sij verehlig, wo sij deren noch
+#facs_38_r5l18 keine hand, zu züchung, vnd pflantzung des holtzes
+#facs_38_r5l19 machen, vnd In ander wegmerp platz, und glagenheit
+#facs_38_r5l20 syn mag, und Ihnen befelchen, vnd zeigen Wirst, Jungl
+#facs_38_r5l21 samen zesetz, vnd Holtz zupflanzen, vns das
+#facs_38_r5l22 sij den Jungen saamen, auch Recht schirmme, und
+#facs_38_r5l23 damit sij demselben dest flijßiger nachgangene
+#facs_38_r5l24 vnd wir wüßen mögend, was sij pflantzind,
+#facs_38_r5l25 Ist vnser gesinnen an Dich, vnd dijne nachkommenden
+#facs_38_r5l26 Vnser Amptluth, zum Jahr hu: oder zweymal
+#facs_38_r5l27 den zugerphijn das hochlegen, vnd Orttin da Ihnen
+#facs_38_r5l28 befolchen wirt, holtz zu güchtigen, Ingenommen, vnd
+#facs_38_r5l29 houwen, ob demselben stadt gethan werde, vnd die
+#facs_38_r5l30 Ungehorsamen, vnd Sumschligen anwieden, so
+#facs_38_r5l31 Ihre guerindtsgnoßen nit dahin haeltes werden,
+#facs_39_r1l1 74
+#facs_39_r2l1 In die Buß zuziehen, Und mit desto weniger,
+#facs_39_r2l2 vf Ein murs zugepieten, das was versumpt und
+#facs_39_r2l3 Puderlaßen, zu eerstanden das Ihr vnser will,
+#facs_39_r2l4 Darnach wint dich wüsen zuhallten, Datum
+#facs_39_r2l5 3a Sept. 1622
+#facs_39_r2l6 Lp Eendix
+#facs_39_r2l7 Wir haben dir, vnd andern Vnsern Amptlüthen
+#facs_39_r2l8 hiebeuor zugeschriben, vnsere gefall an Getreydt
+#facs_39_r2l9 so disß Jahrs verfhallen, vnd noch schuldig, vnnd
+#facs_39_r2l10 nit gerardt sijnde erdens, Ernstlich zubezühl,
+#facs_39_r2l11 Vnd was den Vnsern an getreydt furgesetzt
+#facs_39_r2l12 worden, widerumb zu Getreydt, nach dem es Jetz¬
+#facs_39_r2l13 gellten wirt, Inzunemmen, vnd wol fürsechen, das
+#facs_39_r2l14 die Vnsern das getreydt uit verkauffind, vnd vns
+#facs_39_r2l15 was sy vns schuldig, harnach nit zu waren wußind,
+#facs_39_r2l16 sonders wir nachlugen mußens, Item das vnsere
+#facs_39_r2l17 Amptlich, Hinder Denen Warenksteth sind, vnd
+#facs_39_r2l18 gehaltend werdend, das getreydt, so, nach dem die
+#facs_39_r2l19 vnsern sich werdend versuchlen habe, vberblyben
+#facs_39_r2l20 wirt, mit den Frömbden zugestatten, sonders
+#facs_39_r2l21 zu vnsern landen zunemen soo. Dem allem
+#facs_39_r2l22 wirf dich nochmalen gemäß wußen zuhaltten,
+#facs_39_r2l23 vnd sonderlich vf die fürkhouffer, mit flyß achtl,
+#facs_39_r2l24 Siebey aber Ist Genses Ernstiges will, vnd befelich
+#facs_39_r2l25 an Dich, wie an andere Vnsere Amptlüsten
+#facs_39_r2l26 vns fürderlichst, zuberichten, was, vnd wie viel
+#facs_39_r2l27 getreydt, der Ein vnd anderen guttung,
+#facs_39_r5l1 38
+#facs_39_r5l2 75
+#facs_39_r5l3 Du diszmalen Imen Vorraht habist, vnd mas von vor¬
+#facs_39_r5l4 schinnen Jahres, die noch schuldig bliben sije, Item
+#facs_39_r5l5 Fras, vnd wie vil, den Vnsern furgesetze des Vnsers
+#facs_39_r5l6 fürgesetzt worden, und sij vmbas Gas sollend vnd das
+#facs_39_r5l7 ong, sich vnsere Zinß vnd Zehndes, sau getreydt, dis
+#facs_39_r5l8 Jahrs anlauffen, vnd dir gewandt werden sollendt
+#facs_39_r5l9 vnd was hingegen, sich das Ordinari vßgeles an¬
+#facs_39_r5l10 laufften mag, und das Ein vnd ander specificierlich
+#facs_39_r5l11 In schrifft verfhaßen laßen, vnd vns Christ muglich
+#facs_39_r5l12 zu überschicken, damit wir uns darübes, vnsers
+#facs_39_r5l13 Standts halben, der notturfft nach bedrucken
+#facs_39_r5l14 vnd nothwendige fürsechung, vnd anordnung
+#facs_39_r5l15 a
+#facs_39_r5l16 geben Khömind, Datum 4en Septemb: 1622

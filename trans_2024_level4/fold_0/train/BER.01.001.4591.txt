@@ -1,0 +1,69 @@
+Law nr: BER.01.001.4591
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 58/58
+# High similarity (>=80%): 55
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_212_r4l1 41.0
+#facs_75_r3l13 Räthe der Stadt und Republib Bern,
+#facs_243_r2l2 thun kund hiemit: Daß aus Mitleid
+#facs_243_r2l3 gegen Küstere liebe und getreue ange¬
+#facs_243_r2l4 hörige von Niederheimigen, freymeitigen
+#facs_243_r2l5 und der Herrschaft Riesbach, im Landgricht
+#facs_243_r2l6 Konolfingen, bie auch der Seege
+#facs_243_r2l7 Iben und Ligertz, welche durch Ibeen
+#facs_243_r2l8 unterm 17. und 18ten Juny eingebrochene
+#facs_243_r2l9 Wolkenbrüche an ihren Häusern, Aber
+#facs_243_r2l10 Weinreben und Gesitzungen einen
+#facs_243_r2l11 beträchtlichen laut eydlicher Schazung
+#facs_243_r2l12 für erstere Ort auf 81857 und für
+#facs_243_r2l13 Erstere auf die Summ der P 2098, 2. 5 sich
+#facs_243_r2l14 ansteigenden Schaden erlicken, die
+#facs_243_r2l15 Erhebung einer freywilligen Steuer
+#facs_243_r2l16 in hiesigen Hauptstadt auf könftige
+#facs_243_r2l17 Heil. Wiehnacht Wir bewilliget.
+#facs_243_r2l18 Wir hoffen daß die Pflicht der
+#facs_243_r2l19 allgemeinen Menschenliebe, und das
+#facs_243_r2l20 Gefühl des Mitleids einen jeden anfüren
+#facs_243_r2l21 werde, zu Erquikung dieser Unglük¬
+#facs_243_r2l22 lichen so viel beyzutragen als seine
+#facs_243_r2l23 Umstände erlauben, als wozu Wir
+#facs_243_r2l24 alle Unsere Liebe und getreue Burger
+#facs_28_r4l1 Coll
+#facs_243_r4l1 4712
+#facs_243_r4l2 und Einwohner Unserer Hauptstadt
+#facs_243_r4l3 ermahnen, und aufforderen. Geben
+#facs_243_r4l4 in Unserer großen Rahtsversamlung
+#facs_243_r4l5 den 1ten Septembris 1786.
+#facs_183_r3l24 Landley Bern
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_218_r4l13 alle deutsche Herren Amtleut, vier
+#facs_101_r5l18 Freyweibel und Ammen, denn pr. Zedel
+#facs_243_r4l10 Herrschaffts herren deutscher Landen
+#facs_243_r4l11 Neue Forst = Ordnung
+#facs_222_r5l17 Schultheiß Räth und Burger
+#facs_243_r4l13 zu Auffnung-Reforigung und Rennhung
+#facs_243_r4l14 der Oberweitlichen und gemeinen Wald¬
+#facs_21_region_1633454511108_2874l17 handenen uns gebräuchlichen Anstalten,
+#facs_243_r4l16 und zu Zehinderung aller eingeschlichene
+#facs_243_r4l17 Mißbrauchen auch allfähliger Bestraffung
+#facs_243_r4l18 der in selbigen vorgehenden Frefflen
+#facs_243_r4l19 haben Wir die in Einlage enthaltene
+#facs_243_r4l20 Forst Ordnung errichtet, und in Truk
+#facs_243_r4l21 ausgegeben; davon Wir Euch genug,
+#facs_282_r3l15 same Exemplaria zusenden, mit dem
+#facs_26_r4l1 47
+#facs_28_r4l1 Coll
+#facs_53_r8l10 e
+#facs_244_r4l1 Auftrag, solche denen Gerichtskögten
+#facs_244_r4l2 und gemeinde Vorsteheren Eüeres Amts
+#facs_244_r4l3 zu ihrem Verhalt zuzustellen, und
+#facs_244_r4l4 ihnen die genaue Gefolgung derselben
+#facs_244_r4l5 alles Ernsts einzufchärfen.
+#facs_244_r4l6 Dat. den 7ten July 1786.

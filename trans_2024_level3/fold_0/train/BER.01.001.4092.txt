@@ -1,0 +1,1007 @@
+Law ID: BER.01.001.4092
+Name: Erneüertes Schiff und Fuhr- Reglement von Thun biss nach Mayringen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 996/996
+# High similarity (>=50%): 862
+# Low similarity (<50%): 134
+# Not found: 0
+#
+#facs_126_r6l22 Erneuertes
+#facs_126_r6l23 Schiff und Fuhr. Reglement von Thun
+#facs_126_r6l24 biß nach Magringen
+#facs_126_r6l25 Herr Schultheiß und Raht der Batt
+#facs_126_r6l26 Auß
+#facs_126_r6l27 Herrn thund kund hiemit; Dennoch
+#facs_126_r6l28 klagend vorgestellet worden, welcher
+#facs_126_r6l29 gestalten in anstehen der äußert Landdeich
+#facs_126_r6l30 = verfor¬
+#facs_126_r8l1 of
+#facs_126_r8l2 a
+#facs_126_r14l1 0 f 80 x
+#facs_126_r14l2 3 f
+#facs_127_r2l1 Verfertigenden Käsen und anderen
+#facs_127_r2l2 Waaren der Juhrungen halb im ober¬
+#facs_127_r2l3 land, so wohl zu Waßer als zu
+#facs_127_r2l4 Land vierley mißbrauch sich einig.
+#facs_127_r2l5 schlichen Berdurch dieses Lands ersprieben
+#facs_127_r2l6 liche Kosten Comerium hinteraus und
+#facs_127_r2l7 nachtheil erlicken; daß derowegen
+#facs_127_r2l8 um dem beförchtenden gänzlichen
+#facs_127_r2l9 verfahl dieser Handlung vorzubiegen,
+#facs_127_r2l10 und selbige in mehreren flor und
+#facs_127_r2l11 sich nam zu bringen. Wir von
+#facs_127_r2l12 der Nohtbendigkeit zu seyn erachtet,
+#facs_127_r2l13 hierinnen das behörige Einsehen zu
+#facs_127_r2l14 thun, um des Fuhrbesen in mehre¬
+#facs_127_r2l15 Ordnung und Richtigkeit zu sezen,
+#facs_127_r2l16 Maßen zu dem End Wir hiemit
+#facs_127_r2l17 Stamirt, verordnet und reguliert
+#facs_127_r2l18 haben wollen, wie von eine
+#facs_127_r2l19 zum anderen folget;
+#facs_127_r2l20 fuhr zu daßer über den Thüner
+#facs_127_r2l21 und Brienzer Sec.
+#facs_127_r2l22 Pflicht der bestelten Schifteuthe
+#facs_127_r2l23 beym Neuhaus unzu Tracht
+#facs_127_r2l24 Sollen die bestelten Schiffleuth beyn
+#facs_127_r2l25 Neuloh: und zu Tracht alsobald bey
+#facs_127_r2l26 ihrer Erwehlung geloben und ver¬
+#facs_127_r2l27 sprechen, nachgesezter Ordnung
+#facs_127_r2l28 fleißig und getreulich nachzubammen,
+#facs_127_r3l1 235
+#facs_127_r3l2 Alles, was ihnen darinnen befohlen wird,
+#facs_127_r3l3 ordentl. zu verrichten, alle Waaren
+#facs_127_r3l4 und Sachen, so ihnen zukommen und
+#facs_127_r3l5 übergeben werden, an die orth wo sie
+#facs_127_r3l6 gehören, fleißig abzugeben, zu denen¬
+#facs_127_r3l7 selben alle nöhtige Sarg zu tragen,
+#facs_127_r3l8 und sie vor allem schaden bestens zu
+#facs_127_r3l9 verhüeten.
+#facs_127_r3l10 wahrschafft
+#facs_127_r3l11 2
+#facs_127_r3l12 zu welchem und jeder ein großer Marit¬
+#facs_127_r3l13 Schiff, dem ein halb=Schif, und Endlich
+#facs_127_r3l14 ein kleines Weyd=Schiff, mit aller nöhtigen
+#facs_127_r3l15 Gerichtschafft versehen, beständig zum Dienst
+#facs_127_r3l16 der Schiffahrt in bereitschafft halten soll.
+#facs_127_r3l17 3.°
+#facs_127_r3l18 9
+#facs_127_r3l19 damit auch die Waar, und sonderlich die
+#facs_127_r3l20 Rosen vor Sonnen und Regen wohl beschir¬
+#facs_127_r3l21 met seyen, so sollen sie sich mit genug
+#facs_127_r3l22 sammen Blochen und Harztücheren beyel¬
+#facs_127_r3l23 auch ihre Schiff mit einer bährschafften
+#facs_127_r3l24 Krüg versehen, anbey verpflichtet seyn
+#facs_127_r3l25 alle 3. jähr diese Schiff zu anderen
+#facs_127_r3l26 und in deren stadt neue wöhrschaffte
+#facs_127_r3l27 an
+#facs_127_r3l28 Schiff sich anzuschaffen
+#facs_127_r3l29 So ist sie die bestelten Schiffleuth, um ihrem
+#facs_127_r3l30 extrafuhr von denen Handelsleuthen
+#facs_127_r3l31 gestrochen würden, sollen sie unverweilt
+#facs_127_r3l32 entstrechen, es seye gleich Tags oder Nachts.
+#facs_127_r6l1 Lofg. 86
+#facs_127_r6l2 5
+#facs_128_r2l1 5
+#facs_128_r2l2 Bey dem ein- und ausladen der
+#facs_128_r2l3 Waaren, sonderlich der Kösen, sollen
+#facs_128_r2l4 sie alle müglichst sorgfalt gebrauchen
+#facs_128_r2l5 und selbige in die gleichfahls wohl
+#facs_128_r2l6 -
+#facs_128_r2l7 zu besorgende Süsten überlieferen
+#facs_128_r2l8 Wie die Schifflents die Waaren
+#facs_128_r2l9 pfangen sollen
+#facs_128_r2l10 1.
+#facs_128_r2l11 Alle Waaren, Güther und Effecten,
+#facs_128_r2l12 so denen Schiffleuten beim Steichaus
+#facs_128_r2l13 und zu Tracht zur Fuhr übergeben
+#facs_128_r2l14 werden, es seye von frembden
+#facs_128_r2l15 oder Einheimbschen, sollen sie Dienst¬
+#facs_128_r2l16 geflißen empfangen, und an der
+#facs_128_r2l17 orth, wohin sie bestimmt, überantwort¬
+#facs_128_r2l18 2°
+#facs_128_r2l19 Hingegen soll mänglich, und sonderl.
+#facs_128_r2l20 denen Marchands und Handelsleute
+#facs_128_r2l21 obligen, ihre Käsen und andere
+#facs_128_r2l22 Waaren und Effecten, jehbeilen mit
+#facs_128_r2l23 exactenfuhrbrieffen zu begleiten.
+#facs_128_r2l24 -
+#facs_128_r2l25 damit von einer Hand in die an
+#facs_128_r2l26 dere die Waar in ihrer quantität
+#facs_128_r2l27 und qualität überlieferet werden
+#facs_128_r2l28 bönne; Gestalten dann die Schiffleuth
+#facs_128_r2l29 beder volle noch läre Paß, Waare,
+#facs_128_r2l30 Kisten. Getreyd oder anders, ohne
+#facs_128_r3l1 237.
+#facs_128_r3l2 =Ordentliche Anzeitung nicht übernommen
+#facs_128_r3l3 noch übel conditionierte Waaren, die
+#facs_128_r3l4 die Ruhe nit erleiden möchten, fuhre,
+#facs_128_r3l5 und übernommen sollen sonsten sie die
+#facs_128_r3l6 Schöstleuth auf erblagen deß empfehend
+#facs_128_r3l7 den schaden, ohne andere Einbendung
+#facs_128_r3l8 zu ersezen haben sollen,
+#facs_128_r3l9 3°
+#facs_128_r3l10 Die bey ihrer Schiffraubt, Abfahrt ihne
+#facs_128_r3l11 zubrümende Waaren, Güther und Effecten
+#facs_128_r3l12 sollen sie sorgfältig, unbeschädiget in ihr
+#facs_128_r3l13 Schiff alsbald einlegen, diejenigen aber
+#facs_128_r3l14 so ihnen zwischen denen bestimten
+#facs_128_r3l15 Abfahrende Tagen zugeführt, oder übergeben
+#facs_128_r3l16 bürden, sollen sie in die Süsten einlege
+#facs_128_r3l17 selbige wohl verwahrlichen Dammen behalte
+#facs_128_r3l18 und, bey der Abfahrt des Schiffs, unge¬
+#facs_128_r3l19 sammt einladen und mitnemen
+#facs_128_r3l20 Zur Sicherheit der Schistohete und wegen
+#facs_128_r3l21 veränderlich- und Gefährlichkeit des Gewitter¬
+#facs_128_r3l22 sollen verermelte 5. Schiff von außen und
+#facs_128_r3l23 nen gezeichnet, und angebrannt werden
+#facs_128_r3l24 minaßen über dieser Zeichen das Schiff¬
+#facs_128_r3l25 zu beladen, den Schiffleuten ausdrub¬
+#facs_128_r3l26 lich verbocken ist.
+#facs_128_r3l27 Damit euch diese Schiffahrt genugsam
+#facs_128_r3l28 sicherlich befraget werde, so sollen mit dem
+#facs_128_r8l1 Lohln. 80
+#facs_129_r3l1 Maatschiff gehbeilen aufs benigst¬
+#facs_129_r3l2 vier bestelte Schiffleuth mitgehe¬
+#facs_129_r3l3 die von denen untreisenden etwann
+#facs_129_r3l4 habende Hilff jedoch nicht darzu gereg¬
+#facs_129_r3l5 net
+#facs_129_r3l6 6f
+#facs_129_r3l7 Sollen die Schiffleuth verbunden seyn
+#facs_129_r3l8 für alle Mißtrauungen, gefärd
+#facs_129_r3l9 Schaden und Verlurst, der ihnen
+#facs_129_r3l10 überlieferten Waaren und Güthern
+#facs_129_r3l11 item zügelen, Veränderungen der
+#facs_129_r3l12 Wein¬ Pundten, Sporungen der Salz.
+#facs_129_r3l13 Fäßlinen oder was es sonsten seyn
+#facs_129_r3l14 e-
+#facs_129_r3l15 möchten es beschehe durch sie, ihre
+#facs_129_r3l16 Dienstleüth, oder durch andere Personen,
+#facs_129_r3l17 gut zu stehen, und den Verkurst und
+#facs_129_r3l18 schaden zu erstezen dem gebührenden
+#facs_129_r3l19 Richter, die in der Landsatzung ver¬
+#facs_129_r3l20 melten Zuß zu berechtigen, vorbehaltend,
+#facs_129_r3l21 bestwegen sie die Schiffleuth bey ihrer
+#facs_129_r3l22 Erachtung, zwey habhosste Bürge
+#facs_129_r3l23 darfür stellen werden.
+#facs_129_r3l24 Es soll auch in specie der OberSchiffmann so
+#facs_129_r3l25 Tracht, unter gleicher Vorsorg und Verant¬
+#facs_129_r3l26 wortung pflichtig seyn, wann man mit
+#facs_129_r3l27 Roßen, Schlitten und Wagen über die
+#facs_129_r3l28 Rienlaubenen nicht Jahren könnte.
+#facs_129_r4l1 239
+#facs_129_r4l2 = Sie Waaren und Züg von der Sust
+#facs_129_r4l3 zu Tracht auf dem See, um den hier
+#facs_129_r4l4 bestimten preis hinüber zu führen.
+#facs_129_r4l5 2
+#facs_129_r4l6 Sollen diese Schiffleuth auch schuldig seyn,
+#facs_129_r4l7 frembde und Einheimbsche, wer solches an
+#facs_129_r4l8 sie begehren möchte, in allen Tagen der
+#facs_129_r4l9 Wochen mit dem halb Schiff und Weydschiff
+#facs_129_r4l10 um hienach gesezten Lohn, expresse zu
+#facs_129_r4l11 führen, damit niemand verstaunt werde,
+#facs_129_r4l12 doch das die Abfahrt des Marit-Schiffs
+#facs_129_r4l13 hierdurch nicht verhinderet, sonderen vor
+#facs_129_r4l14 aus befürderet werde.
+#facs_129_r4l15 9
+#facs_129_r4l16 Damit auch der Handelschafft insonderheit
+#facs_129_r4l17 aller nöhtige Vorschub verschaffet werde, so ist
+#facs_129_r4l18 Unser Will und Meinung, daß, äußerth
+#facs_129_r4l19 Leuen nohtbendigsten lebend = Mictlen, als Kön¬
+#facs_129_r4l20 Brod, Mähl, Salz, Wein derer Wirten, und
+#facs_129_r4l21 eigenes Gewächs der Particularen, dem Persohn
+#facs_129_r4l22 so von Thun hinauf in die oberen Landschafft
+#facs_129_r4l23 geführt werden sollen, denen frembden
+#facs_129_r4l24 Waaren, in Specie aber der Kärbner, die
+#facs_129_r4l25 aus dem Land gefergget werden soll, der
+#facs_129_r4l26 Vorzug gegeben werden solle, und die
+#facs_129_r4l27 Schiffleuth angehalten seyn, mit Zurücklaßung
+#facs_129_r4l28 übriger ehelten, solche zu übernimm¬
+#facs_129_r5l1 pla
+#facs_129_r8l1 sans les jours, ils sommes sont sauvées.
+#facs_129_r10l1 Fol. 86.
+#facs_130_r2l1 10
+#facs_130_r2l2 Golte den etwas Waar denen Kößheim
+#facs_130_r2l3 Bey abfahrt des Ordinarii Marit Schiffs
+#facs_130_r2l4 zurückbleiben an deren schleunigen
+#facs_130_r2l5 Spedition ihnen vieles gelegen, und
+#facs_130_r2l6 die entrauft der Schiffleuthen nicht er¬
+#facs_130_r2l7 wartet werden könte, soll in diesem
+#facs_130_r2l8 fohl ihnen denen HandelsLeüthen
+#facs_130_r2l9 gestattet werden, andere Schiffleuth
+#facs_130_r2l10 nach belieben zu bestellen jedoch, daß
+#facs_130_r2l11 die Ordinaris Süsten niemahls ausge¬
+#facs_130_r2l12 wichen, sonderen alle Waaren gebüh¬
+#facs_130_r2l13 render Orten verzollet, und nieder¬
+#facs_130_r2l14 gelegt werden.
+#facs_130_r2l15 wie die Schiflents die Waar
+#facs_130_r2l16 lieferen sollen.
+#facs_130_r2l17 Sollen noch ordentlicher anländung der
+#facs_130_r2l18 Waaren und Güther selbe gemeinsam
+#facs_130_r2l19 durch Fuhr= und Schiffleuth sorgfältig
+#facs_130_r2l20 ausgeledene entbederd alsobald denen
+#facs_130_r2l21 Eicheleuten auf die Acht übergeben.
+#facs_130_r2l22 oder aber in die Sust verbährlich ein
+#facs_130_r2l23 gelegt werden.
+#facs_130_r2l24 2.
+#facs_130_r2l25 Würde aber das Märit-Schiff mit der
+#facs_130_r2l26 Hirten anlangen, daß die fuhrleüth
+#facs_130_r2l27 die Waaren und Büther biß umb
+#facs_130_r2l28 Mitternacht an ihre behörig destinirte
+#facs_130_r2l29 Orth abführen brüten, sollen solche
+#facs_130_r3l1 2411
+#facs_130_r3l2 Alsbald durch Schiff- und Fuhrleüth
+#facs_130_r3l3 unsamlich ebenfahls in die Rust
+#facs_130_r3l4 et de
+#facs_130_r3l5 unter Verantwortung der Schiffleüthen
+#facs_130_r3l6 sicherlich geleget werden.
+#facs_130_r3l7 3
+#facs_130_r3l8 zu welchem und allen anderen nohtfählen
+#facs_130_r3l9 der Schiffmann bey dem Neuhaus, zu alle
+#facs_130_r3l10 Zeiten mit genugsammen Liecht versehen
+#facs_130_r3l11 in seinem Kosten begegnen, auch das
+#facs_130_r3l12 gebohnte Brod denen Fuhrleuten gemein¬
+#facs_130_r3l13 lich mit dem Schiffmann zu Trecht ausrich¬
+#facs_130_r3l14 ten solle
+#facs_130_r3l15 4.
+#facs_130_r3l16 Die Schiffleüth sollen auch die hergebrachte
+#facs_130_r3l17 Waaren und Güther denenführleuten
+#facs_130_r3l18 ordentlich angezedlet, die Kaufmanns
+#facs_130_r3l19 Waaren und Kästen dann, unthuhebriefe
+#facs_130_r3l20 verstehen, wohl conditioneert übergeben
+#facs_130_r3l21 und biß zu dem Wagen darfür Verant¬
+#facs_130_r3l22 wortlich seyn; Gestalten die Fuhrleuth
+#facs_130_r3l23 berechtiget seyn sollen, in Ermangliche
+#facs_130_r3l24 _
+#facs_130_r3l25 deßent- oder anderen, wieder
+#facs_130_r3l26 solche Übergab gegen die Schiffleuth zu
+#facs_130_r3l27 protestiren
+#facs_130_r3l28 Wie und an welchen Tagen der Schiffmann begin¬
+#facs_130_r3l29 Reuhaus von daselbst nach Thun, und der
+#facs_130_r3l30 Schiffmann zu tracht von dar nach
+#facs_130_r3l31 Untersien und bieder zurück
+#facs_130_r3l32 Neubhaus
+#facs_130_r3l33 fahren solle
+#facs_130_r3l34 Marit. Schiff vom
+#facs_130_r3l35 das großer
+#facs_130_r3l36 soll ordinarii jeglichen Regtage aufs längste
+#facs_130_r5l1 plaats
+#facs_130_r5l2 pr
+#facs_130_r5l3 &
+#facs_130_r12l1 6 f 36 x
+#facs_130_r12l2 h
+#facs_131_r2l1 Ziß 12. Uhr Mittags /: wann es die
+#facs_131_r2l2 Witterung zuläst :/ von dem
+#facs_131_r2l3 Neuhauß nach Thun abstoßen, also
+#facs_131_r2l4 daß es bey guter Tags Zeith daselb¬
+#facs_131_r2l5 sten anlange, so dann auch
+#facs_131_r2l6 en
+#facs_131_r2l7 der Rubtehr soll es längstens jeglichen
+#facs_131_r2l8 Samstag um 12. Uhr Mittags wieder
+#facs_131_r2l9 ren Thun abschiffen, und bey guter
+#facs_131_r2l10 Hirten an dem Neuhaus anlenden
+#facs_131_r2l11 denne jeglichen Wochen Morgen¬
+#facs_131_r2l12 früh um 4 Uhr soll der Schiffman
+#facs_131_r2l13 beim Neulhaus, jeh nach Nohtdurft
+#facs_131_r2l14 der vorhandenen Waaren und Gü¬
+#facs_131_r2l15 theren, entbeders mit dem großen
+#facs_131_r2l16 Märit. Schiff, halb=Schiff, oder
+#facs_131_r2l17 Wird. Schiff von dem Neuhaus¬
+#facs_131_r2l18 abstoßen, und gleichen Tags bey
+#facs_131_r2l19 guter Hirten wieder von Thun
+#facs_131_r2l20 beim Neichaus anlangen, also die
+#facs_131_r2l21 Waaren in der dortigen Sust, ent¬
+#facs_131_r2l22 weders eingelegt, oder an die
+#facs_131_r2l23 Fuhrleuth alsbald übergeben
+#facs_131_r2l24 werden sollen.
+#facs_131_r2l25 Das Märit¬ Schiff von Tracht nach Unter¬
+#facs_131_r2l26 =sten dann soll jeglichen Freytag Morgens
+#facs_131_r2l27 um 4 Uhr droben zu tracht von Land
+#facs_131_r2l28 stoßen, und, wenn die Witterung
+#facs_131_r2l29 zulast, selbigen Morgend ungefehr
+#facs_131_r3l1 243
+#facs_131_r3l2 = Um 9. Uhr bey der Sus zu Untersten
+#facs_131_r3l3 enlangen, und hinwiederum jeglichen
+#facs_131_r3l4 Dinstag Morgens um 9 Uhr aufs längst
+#facs_131_r3l5 von der Sust zu Untersteen abfahren
+#facs_131_r3l6 und nach Tracht zurükkehren, also daß
+#facs_131_r3l7 selbigen bey guter Tagszeith zu Tracht
+#facs_131_r3l8 wieder anlangen thäge, also die baar
+#facs_131_r3l9 dortiger Sust entleders eingelegt
+#facs_131_r3l10 et de
+#facs_131_r3l11 oder an ihre Behörd abgegeben werden
+#facs_131_r3l12 tollen
+#facs_131_r3l13 Wie die Schifffuhr zbischen dem Schiffmann
+#facs_131_r3l14 zu tracht und dem Schiffmann beym
+#facs_131_r3l15 Neusauß abgetheilt seyé
+#facs_131_r3l16 Alle Waaren und Sachen, so von Tracht
+#facs_131_r3l17 biß zu der Zollbrugg eingeladen werde,
+#facs_131_r3l18 sollen dem oberen Schiffmann zu Tracht
+#facs_131_r3l19 zu führen gebuhren, hingegen sollen die
+#facs_131_r3l20 Waaren und sachen so unter ermelter
+#facs_131_r3l21 Zollbeugg im Boden und biß nach Thun
+#facs_131_r3l22 eingeladen beiden, dem unteren Schiff
+#facs_131_r3l23 Mann bey dem Neuhaus zur Fuhr zu stehen
+#facs_131_r3l24 und bestimmet seyn.
+#facs_131_r3l25 Inmaßen gleicher gestalten bey der
+#facs_131_r3l26 Waaren
+#facs_131_r3l27 Rübbunfft von Thun, junge
+#facs_131_r3l28 und effecten, so im Boden biß zu gedachte
+#facs_131_r3l29 Tollbrügg, wie auch in die Thäler abzulegen
+#facs_131_r3l30 sind. dem Unterm Schiffmann zu Fichen gebühret
+#facs_131_r4l1 it
+#facs_131_r4l2 lt
+#facs_131_r4l3 2
+#facs_131_r4l4 Blad
+#facs_131_r4l5 0
+#facs_131_r5l1 1 f 86 x
+#facs_132_r2l1 Dem Herrn Schiffmann aber zugelaßen
+#facs_132_r2l2 feyn soll, diejenige Güther und Waaren,
+#facs_132_r2l3 so zu Thun oder unterliegt, nach dem
+#facs_132_r2l4 Reinzer=See bestimmet und abzulegen,
+#facs_132_r2l5 sind, zu führen und Anzunemen
+#facs_132_r2l6 und selbe, unter seiner Verantbar¬
+#facs_132_r2l7 tung biß an die orth, lerstie hin
+#facs_132_r2l8 bestimmt, zu überlieferen
+#facs_132_r2l9 zu welchem End der obere Schiffmann
+#facs_132_r2l10 mit dem unteren Schiffmann ein
+#facs_132_r2l11 beyden Theilen Kosten gemeinsamen
+#facs_132_r2l12 Märit Schiff halten, und die Schifflöhn
+#facs_132_r2l13 nach, und von Thun einanderen
+#facs_132_r2l14 ertragen helfen sollen
+#facs_132_r2l15 An denen vorbemelten Abfahrts¬
+#facs_132_r2l16 Tagen deß Marit-Schiffs von Tracht,
+#facs_132_r2l17 und entbünfft deßelben von der Sust
+#facs_132_r2l18 zu Unter geen, iterr an denen Tagen
+#facs_132_r2l19 der Abfahrt und Rubbehr deß Marit
+#facs_132_r2l20 Schiffs vom Neuhaus nach Thun soll.
+#facs_132_r2l21 allen anderen Schiffleuten und Männigl.
+#facs_132_r2l22 verboden seyn, vor deren Abfahrten
+#facs_132_r2l23 einiger Guth, so auf Handel, gleich
+#facs_132_r2l24 und Quaest geführt wird, zu ledi¬
+#facs_132_r2l25 der denselben abzufahren, und guth¬
+#facs_132_r2l26 der Leüth dem Märitsschiff zu ent¬
+#facs_132_r2l27 ziehen, sondern mann soll solches
+#facs_132_r2l28 in das abfahrende Märit Schiff einleden,
+#facs_132_r2l29 Inmaßen der bestelte Schiffen
+#facs_132_r3l1 245
+#facs_132_r3l2 beywaltiget seyn soll, von denen wieder
+#facs_132_r3l3 handlenden den bestimten Schifflohn,
+#facs_132_r3l4 der, wieder diese Ordnung vor dem
+#facs_132_r3l5 Märit. Schiff abfahrenden Gütheren, zu for¬
+#facs_132_r3l6 deren, eben als wann Er solche selbsten
+#facs_132_r3l7 gefuhret hätte.
+#facs_132_r3l8 Wurde aber jemand sein Märit-Guth
+#facs_132_r3l9 dem Märit Schiff anbieten, solches könte
+#facs_132_r3l10 aber deßelben Tagd nicht mitgenommen
+#facs_132_r3l11 werden, so soll dem Eigenthümmer
+#facs_132_r3l12 nochbärts erlaubt seyn, solches durch an
+#facs_132_r3l13 dere Schiffleüth, noch belieben, führen zu
+#facs_132_r3l14 laßen
+#facs_132_r3l15 Ein jeder aber mag sein eigen Guth,
+#facs_132_r3l16 so nicht auf Gebinn und Handlung, sondern
+#facs_132_r3l17 zu seinem eigenen gebrauch dienet, zu
+#facs_132_r3l18 allen Zeiten, nach belieben führen oder
+#facs_132_r3l19 führen lassen, Item reistende Persohnen
+#facs_132_r3l20 sollen an das Mariten Schiff mit gebunden
+#facs_132_r3l21 seyn, sondern mögen ihre Reis nach¬
+#facs_132_r3l22 belieben Vornemen und befürdern.
+#facs_132_r3l23 Von angebung verdächtiger Waaren
+#facs_132_r3l24 Edsollen auch die Schiffleuth pflichtig und ver¬
+#facs_132_r3l25 bunden seyn, auf die untnemmende Güthe
+#facs_132_r3l26 und Waaren geflißen zu echten,
+#facs_132_r3l27 und auf Erfinden unerlaubter und.
+#facs_132_r3l28 verdächtiger Güther, solche an gebührende
+#facs_132_r3l29 Orthen, ohne schönen noch anstehen der
+#facs_132_r5l1 it
+#facs_132_r5l2 s
+#facs_132_r5l3 3
+#facs_132_r5l4 nd
+#facs_132_r5l5 d
+#facs_132_r5l6 Blad
+#facs_132_r5l7 9
+#facs_132_r5l8 s
+#facs_132_r6l1 Hohlen. 86
+#facs_132_r6l2 3 f
+#facs_133_r2l1 Person, zu verleiden und anzu¬
+#facs_133_r2l2 zeigen
+#facs_133_r2l3 von Angebung der Zöllen und
+#facs_133_r2l4 gehalt. Gelteren.
+#facs_133_r2l5 Sie bestelte Schiffleuth sollen an
+#facs_133_r2l6 verpflichtet seÿn, von ihren ein
+#facs_133_r2l7 lodenden und durchführenden
+#facs_133_r2l8 Gütheren und Waaren die Zolls¬
+#facs_133_r2l9 Pflichten und Gehalt-Gelter zu
+#facs_133_r2l10 Sprienz, bey der Zollbrugg zu Inter¬
+#facs_133_r2l11 loppen, der Sust zu Untersern
+#facs_133_r2l12 und beim Neübhauß, nach eine
+#facs_133_r2l13 jedeßen Rechten, in guten Treiben
+#facs_133_r2l14 inzugeben.
+#facs_133_r3l1 247.
+#facs_133_r3l2 Tarif
+#facs_133_r3l3 deß geordneten Schifflohne von
+#facs_133_r3l4 der
+#facs_133_r3l5 Neichaus näher Thun, und gleicher
+#facs_133_r3l6 gestalten hinauf nach dem Neulchauß¬
+#facs_133_r3l7 r
+#facs_133_r3l8 b6
+#facs_133_r3l9 Von einem Saum Wein
+#facs_133_r3l10 Von einem lären Faß von 2. Seu
+#facs_133_r3l11 2
+#facs_133_r3l12 1
+#facs_133_r3l13 Was es mehr haltet vom Oaum
+#facs_133_r3l14 n-
+#facs_133_r3l15 2
+#facs_133_r3l16 2
+#facs_133_r3l17 von einem vollen Salzfüßl.
+#facs_133_r3l18 von Einem lären Dito
+#facs_133_r3l19 1
+#facs_133_r3l20 von einem Mürt Korn oder Roggen
+#facs_133_r3l21 1
+#facs_133_r3l22 von Einem Münt tinkel oder Haber
+#facs_133_r3l23 von Einem Centner Eisen
+#facs_133_r3l24 Von einem Hentner Waar welcher
+#facs_133_r3l25 Gattung es immer seyn mag, Reys
+#facs_133_r3l26 eine
+#facs_133_r3l27 Molchen
+#facs_133_r3l28 2.
+#facs_133_r3l29 Von Einer Ruhe
+#facs_133_r3l30 3
+#facs_133_r3l31 von mein Pferd
+#facs_133_r3l32 von einer Person so im Schiff arbeitet nichts
+#facs_133_r3l33 1
+#facs_133_r3l34 von einer Person so nicht erbeitet
+#facs_133_r3l35 Cormor der Märit=Schiff expresse
+#facs_133_r3l36 50
+#facs_133_r3l37 gebraucht
+#facs_133_r3l38 So einer deshalb. Schiff expresse ge¬
+#facs_133_r3l39 25
+#facs_133_r3l40 braucht
+#facs_133_r3l41 das Weyd. Schiff expresse
+#facs_133_r3l42 12„
+#facs_133_r3l43 So einer
+#facs_133_r3l44 gebraucht
+#facs_133_r7l1 il
+#facs_133_r7l2 r
+#facs_133_r7l3 1
+#facs_133_r7l4 d
+#facs_133_r7l5 claat
+#facs_133_r7l6 n.
+#facs_133_r7l7 sich
+#facs_133_r9l1 hohlen 86
+#facs_133_r9l2 1
+#facs_133_r9l3 1
+#facs_134_r2l1 Tarif
+#facs_134_r2l2 deß geordneten Schifflohne von
+#facs_134_r2l3 brachte
+#facs_134_r2l4 nach der Sust zu Untersten und gleichen
+#facs_134_r2l5 gestalten hinauf nach Tracht
+#facs_134_r2l6 ble
+#facs_134_r2l7 +a
+#facs_134_r2l8 1
+#facs_134_r2l9 von einem Saum Wein
+#facs_134_r2l10 fören Paß von 2. Säumig
+#facs_134_r2l11 2
+#facs_134_r2l12 von einem
+#facs_134_r2l13 1
+#facs_134_r2l14 Was es mehr haltet, vom Saum
+#facs_134_r2l15 wollen Salzfäßlin.
+#facs_134_r2l16 2. d
+#facs_134_r2l17 von einem
+#facs_134_r2l18 fären Dito.
+#facs_134_r2l19 l'autre pouvoir sommé ses ordres de ses
+#facs_134_r2l20 Von
+#facs_134_r2l21 -
+#facs_134_r2l22 Von einem Münt Korn oder Roggen
+#facs_134_r2l23 2
+#facs_134_r2l24 von einem Munt Kinkel oder Haber.
+#facs_134_r2l25 von einem Centner Eisen
+#facs_134_r2l26 3
+#facs_134_r2l27 von mein Centner Waar welcher
+#facs_134_r2l28 Gattung ed immer seyn mag, Reyd.
+#facs_134_r2l29 Mülchen P
+#facs_134_r2l30 3
+#facs_134_r2l31 von Einer
+#facs_134_r2l32 Kuhl=
+#facs_134_r2l33 2
+#facs_134_r2l34 von Einem
+#facs_134_r2l35 Pferdt
+#facs_134_r2l36 3
+#facs_134_r2l37 Von Einer Persohn die im Schiff
+#facs_134_r2l38 arbeitet, nichts
+#facs_134_r2l39 von einer Persohn so nicht arbeitet.
+#facs_134_r2l40 So einer das MerckSchiff expresse
+#facs_134_r2l41 gebraucht.
+#facs_134_r2l42 50
+#facs_134_r2l43 So eine des halb. Schiff expresse
+#facs_134_r2l44 gebraucht.
+#facs_134_r2l45 25
+#facs_134_r2l46 So einer das Weyd Schiff expresse
+#facs_134_r2l47 gebraucht
+#facs_134_r2l48 7.
+#facs_134_r2l49 Wann über die Rienlauenen
+#facs_134_r2l50 das
+#facs_134_r2l51 Märntschiff gebraucht wird.
+#facs_134_r2l52 Wann über selbe Kienlauenen das
+#facs_134_r2l53 halb Schiff gebraucht wird
+#facs_134_r2l54 5
+#facs_134_r5l1 249
+#facs_134_r5l2 Fuhs zu Land vom Neuhauß
+#facs_134_r5l3 nach Unterstern
+#facs_134_r5l4 Pflicht der bestelten Ordinay Fuhrleuten
+#facs_134_r5l5 Die bestelten Sechs Ordinari Euhrteut von
+#facs_134_r5l6 Untersten und Interleppen, sollen alsobald
+#facs_134_r5l7 bey ihrer Erachtung geleben, und verspreche
+#facs_134_r5l8 nachgesezten Fuhrordnungen getreulich -
+#facs_134_r5l9 nachzukommen, und solche in allen ihre
+#facs_134_r5l10 Arbibten fleißigst zu befolgen, innoß¬
+#facs_134_r5l11 sie darum bahrschaffte und güngsame
+#facs_134_r5l12 Zürgschaft stellen werden.
+#facs_134_r5l13 Wie Sie der Ruhr barten sollen.
+#facs_134_r5l14 Es sollen diesuhrleuth, zu allen Tagen
+#facs_134_r5l15 der Wochen, ausgenommen daß
+#facs_134_r5l16 Sontagd, jedem, Er seye frembd oder
+#facs_134_r5l17 noch, die nohtdürftigefuhr zu
+#facs_134_r5l18 in
+#facs_134_r5l19 und von denen Süsten im Boden
+#facs_134_r5l20 geflißentlich, und um nachgestezten preis¬
+#facs_134_r5l21 errichten, bestonders aber bey denen
+#facs_134_r5l22 der,
+#facs_134_r5l23 Abfahrten und Anlangungen
+#facs_134_r5l24 MaritSchiffen von Tracht und beim
+#facs_134_r5l25 Neuhaus, denenselben auf dem orth¬
+#facs_134_r5l26 fleißig barten, zu welchem End¬
+#facs_134_r5l27 sie unter ihnen alle Wochen die Abthei¬
+#facs_134_r5l28 lung machen sollen, daß die Anlangenden
+#facs_134_r6l1 l r
+#facs_134_r6l2 it
+#facs_134_r6l3 .
+#facs_134_r6l4 Ist
+#facs_134_r6l5 3
+#facs_134_r6l6 3
+#facs_134_r6l7 5
+#facs_134_r6l8 Maas
+#facs_134_r6l9 nicht seyn vielmeinung
+#facs_134_r6l10 7
+#facs_134_r8l1 Lohln. 86
+#facs_134_r8l2 15
+#facs_135_r2l1 und abgehende Waaren eylfertig¬
+#facs_135_r2l2 besorget, und diese Marit=Schiff
+#facs_135_r2l3 nicht verabsäumt werden, son¬
+#facs_135_r2l4 deren ihre Reiß fortsetzen.
+#facs_135_r2l5 können
+#facs_135_r2l6 4.
+#facs_135_r2l7 2e.
+#facs_135_r2l8 Derowegen sie bey Abfahrt und Anlan¬
+#facs_135_r2l9 nung dieser Schiffen sich bey der
+#facs_135_r2l10 Sust zu untersten, und der
+#facs_135_r2l11 sogenannten Bladten, mit gute
+#facs_135_r2l12 Zügen und Fuhrgerähtschafften
+#facs_135_r2l13 einfinden sollen, alderten dem
+#facs_135_r2l14 Schiffleüten die Waaren und Güther
+#facs_135_r2l15 rudladen, und jeh einer dem
+#facs_135_r2l16 anderen sein Guth sorgfältig
+#facs_135_r2l17 auf
+#facs_135_r2l18 die Acht bringen helfen.
+#facs_135_r2l19 3:
+#facs_135_r2l20 Wurden auch die Marit Schiff mit der
+#facs_135_r2l21 Hirten bey den Süsten anlangen
+#facs_135_r2l22 daß die Waaren und Güther gleiche,
+#facs_135_r2l23 Tags biß um Michelnacht in ihre
+#facs_135_r2l24 Gehörd abgeführt werden könnten;
+#facs_135_r2l25 so sollen die Zuhr und Schiffleüth
+#facs_135_r2l26 amanderen helfen dieselben in die
+#facs_135_r2l27 darum vorhandene Süst verbehrlich¬
+#facs_135_r2l28 zu legen, und nochbärts die Euhrleuth
+#facs_135_r2l29 verpflichtet seyn, diese Waar
+#facs_135_r3l1 251
+#facs_135_r3l2 Alsobald darauf abzuführen, damit selbe
+#facs_135_r3l3 nicht versammet werden.
+#facs_135_r3l4 4.
+#facs_135_r3l5 So oft sie die bestelten Fuhrleüth um ihre
+#facs_135_r3l6 extra¬ suhe angesprochen würden, sollen
+#facs_135_r3l7 selbige unverbeit entsprechen, es seye
+#facs_135_r3l8 gleich tage oder Nachts¬
+#facs_135_r3l9 5.°
+#facs_135_r3l10 Jedoch ist denen Fuhrleüten nit zugelaßi¬
+#facs_135_r3l11 nach Mitternacht und an denen Heil.
+#facs_135_r3l12 Sonntagen, zu Karren und Fuhrungen
+#facs_135_r3l13 zu verrichten. Bey darauf schon gestezter
+#facs_135_r3l14 Auß, würde aber sich die Höchstdringende
+#facs_135_r3l15 Nohtdurfft erzeigen Waaren und Guthen
+#facs_135_r3l16 am Sonntag selbsten abzuführen, sollen sie
+#facs_135_r3l17 liefuhrleuth gewiesen seyn, die dißortige
+#facs_135_r3l18 Erlaubnuß bey Unserem jehbesenden
+#facs_135_r3l19 Anckd. Mann zu Untersien, wie biß dahin
+#facs_135_r3l20 üeblich gebeten, zu erhalten, der das
+#facs_135_r3l21 joh nach befindenden Umständen solches zu
+#facs_135_r3l22 vergünstigen oder abzuschlagen be¬
+#facs_135_r3l23 füegt seyn soll. So
+#facs_135_r3l24 Damit auch die Waaren und Güther vor
+#facs_135_r3l25 können und Regen bohl gesichert seye.
+#facs_135_r3l26 sollen zu dem End die Fuhrleuth sich mit
+#facs_135_r3l27 gnugsammen Gleichen und Herztücheren ver¬
+#facs_135_r3l28 stehen.
+#facs_135_r4l1 il
+#facs_135_r4l2 lls
+#facs_135_r4l3 or
+#facs_135_r4l4 of
+#facs_135_r4l5 50
+#facs_135_r4l6 Blad
+#facs_135_r4l7 P.
+#facs_135_r7l1 0sly. 86
+#facs_135_r7l2 55
+#facs_136_r2l1 Wie die Jührlents die Waar empfahren
+#facs_136_r2l2 Collen
+#facs_136_r2l3 Es sollen die bestelten Enhrleuth
+#facs_136_r2l4 noch Guth, weder
+#facs_136_r2l5 eine Waar
+#facs_136_r2l6 von Barticularen noch von den
+#facs_136_r2l7 Schiffleuten, zur Fuhr nicht
+#facs_136_r2l8 übernemmen, selbe seye dan
+#facs_136_r2l9 wohl conditioniert, und mögend die
+#facs_136_r2l10 Quhe, wohin sie bestimt,
+#facs_136_r2l11 -
+#facs_136_r2l12 sicherlich tragen, seyend am
+#facs_136_r2l13 bohl angezedlet, und die Waaren
+#facs_136_r2l14 mit ordentl. Fuhr Brieffen
+#facs_136_r2l15 verstehen, inmaßen sie die
+#facs_136_r2l16 fuhrleuth darum verantwortlich.
+#facs_136_r2l17 seyn, und bey überlieferung dem
+#facs_136_r2l18 schaden gegen dem Eigenthümer
+#facs_136_r2l19 oder Schiffmann, ohne andere
+#facs_136_r2l20 Einwendung zu ersezen haben solle,
+#facs_136_r2l21 zu gutem der nützlichen
+#facs_136_r2l22 Kößhandlung wird hiemit statuiret,
+#facs_136_r2l23 deß aüßerth denen nohtwendigsten
+#facs_136_r2l24 Lebens-Mütlen, als Korn, Brod, Mühl¬
+#facs_136_r2l25 Solz, Wein der Wirthen, und
+#facs_136_r2l26 eigenes Gebächs der Particularin
+#facs_136_r2l27 denen frembden Waaren, in Specie
+#facs_136_r3l1 1258
+#facs_136_r3l2 = aber der Käs. Waar, die aus dem Lan¬
+#facs_136_r3l3 gefergget werden soll, der Vorzug gege¬
+#facs_136_r3l4 ben werde, und die Fuhrleuth allerge¬
+#facs_136_r3l5 schuldig seyn sollen, mit Zurüblaßung
+#facs_136_r3l6 übriger effecten, solche zu übernemmen
+#facs_136_r3l7 Wie sich die Waar laden und abführen
+#facs_136_r3l8 sollen.
+#facs_136_r3l9 Bey dem auf- und Abladen der Waar¬
+#facs_136_r3l10 sollen sie alle müglichste sorgfalt, nach dem
+#facs_136_r3l11 Natur und Beschaffenheit derselben
+#facs_136_r3l12 gebreuchen, solche sicherlich und best
+#facs_136_r3l13 legen, und an die ort, wohin sie bestimt
+#facs_136_r3l14 abführen, so, daß sie selbe nit beschädigen
+#facs_136_r3l15 Es sollen auch die Juhrtzuth eben so
+#facs_136_r3l16 wie die Schiffleuth, für allen schaden
+#facs_136_r3l17 und verfürst, der ihnen überlieferenden
+#facs_136_r3l18 Waaren und Güther, es seye durch
+#facs_136_r3l19 zugeten, Veränderung der Wein-Bünde
+#facs_136_r3l20 Herungen der Salzfäßlinen, oder welcher
+#facs_136_r3l21 gestalten es immer seyn möchte, es besuchte
+#facs_136_r3l22 durch sie ihre Dienstleuth oder durch ander¬
+#facs_136_r3l23 Persohnen, gut zu stehen, und den
+#facs_136_r3l24 schaden zu ersezen schuldig seyn, unter
+#facs_136_r3l25 vorbehalt der in der Land-Satzung dißfahls
+#facs_136_r3l26 ausgesezten Zus.
+#facs_136_r3l27 = Alle den
+#facs_136_r5l1 d
+#facs_136_r5l2 Maas
+#facs_136_r6l1 1725
+#facs_136_r6l2 bre
+#facs_136_r6l3 it
+#facs_137_r2l1 Alle denen juhrleuten zu Fuhr
+#facs_137_r2l2 anvertrauende Waren und Effecten
+#facs_137_r2l3 follen dieselben an End und Orte
+#facs_137_r2l4 bohin sie bestimmt, fleißig und
+#facs_137_r2l5 getreulich führen und ausrichten
+#facs_137_r2l6 selbe an keinen anderen Orth
+#facs_137_r2l7 bie in vorigen Zeiten beschehen.
+#facs_137_r2l8 ablegen, sondern es seye dem
+#facs_137_r2l9 Eigenthümmer, dem Schiffman
+#facs_137_r2l10 oder in die Süst, ordentlich und
+#facs_137_r2l11 wohl Conditioniert überantworten
+#facs_137_r2l12 ßen, ermanglenden
+#facs_137_r2l13 Fehls, sie darfür gut stehen solle,
+#facs_137_r2l14 daß denen fuhrleüten drefuhr von
+#facs_137_r2l15 und zu den Süsten, mit ausschluß
+#facs_137_r2l16 frembderfuhrleuten zu
+#facs_137_r2l17 stehen solle.
+#facs_137_r2l18 ..
+#facs_137_r2l19 Obgleich denen Eigenthümmeren und
+#facs_137_r2l20 Landtenthen zugelaßen ist, ihr eige
+#facs_137_r2l21 Guth, so zu ihrem Hausbrauch bestimmt,
+#facs_137_r2l22 nach belieben zu fuhren, oder führe
+#facs_137_r2l23 zu laßen, so soll hingegen denen
+#facs_137_r2l24 bestelten Zuhrleuten alle Waaren
+#facs_137_r2l25 Güther und Effecten, so auf Glimm und
+#facs_137_r2l26 Guest zu und von den Süsten ge¬
+#facs_137_r2l27 führt werden, einzig zur Fuhr
+#facs_137_r2l28 gebühren, und allen übrigen Fuhr¬
+#facs_137_r2l29 leuten bey drey Pfund unabläßiger
+#facs_137_r3l1 255
+#facs_137_r3l2 Zu abgestrebt und verbotten seyn
+#facs_137_r3l3 Der Mülleren halb, mit der Erläuterung
+#facs_137_r3l4 daß denenselben, wie hievor, also noch¬
+#facs_137_r3l5 ferners zugelaßen bleibt, jeglichen Märits
+#facs_137_r3l6 tag biß auf Acht Mück Bewächster selbsten
+#facs_137_r3l7 zu führen, was sie aber mehr hätten
+#facs_137_r3l8 sollen sie denen bestelten Fuhrleüter
+#facs_137_r3l9 zur Fuhr zu geben schuldig seyn.
+#facs_137_r3l10 Wobey es, in ansehen der Käßhändteren
+#facs_137_r3l11 Alors
+#facs_137_r3l12 noch den Verstand hat, daß bann
+#facs_137_r3l13 Waar, bey Abfahrt der Ordinarij fuhren
+#facs_137_r3l14 ihnen Zurückbleiben solte, an deren
+#facs_137_r3l15 schleünigen Spedition ihnen vieles gelegen,
+#facs_137_r3l16 und die rübtunfft der Fuhrleuten nicht
+#facs_137_r3l17 erwartet werden könte, soll in diesen
+#facs_137_r3l18 fahl denen Handeldleüthen gestattet seyn
+#facs_137_r3l19 durch andere von ihnen nach belieben zu
+#facs_137_r3l20 bestellende Fuhrleüth ihre Waaren abführe,
+#facs_137_r3l21 zu laßen, jedoch daß die Süsten niemahls
+#facs_137_r3l22 ausgebüchen, sonderen alle Waaren¬
+#facs_137_r3l23 gebührender Orten verzollet und nieder¬
+#facs_137_r3l24 gelegt werden.
+#facs_137_r3l25 Von angebung der verbottenen
+#facs_137_r3l26 werden
+#facs_137_r3l27 Wex
+#facs_137_r3l28 Die bestalten fuhrleüt sollen, gleich der
+#facs_137_r3l29 Schiffleüthen, verpflichtet seÿn, auf die
+#facs_137_r5l1 it
+#facs_137_r5l2 A
+#facs_137_r5l3 of
+#facs_137_r5l4 Blad
+#facs_137_r5l5 P.
+#facs_137_r5l6 5
+#facs_138_r2l1 verbotenen Waaren geflißentlich
+#facs_138_r2l2 zu achten, und so sie dergleichen
+#facs_138_r2l3 ellos entleben wurden; selbi¬
+#facs_138_r2l4 ages alsobold gebührenden Orths
+#facs_138_r2l5 anzuzeigen.
+#facs_138_r2l6 Farif
+#facs_138_r2l7 der bestelten Fürleuten, über ihren
+#facs_138_r2l8 geordneten Fuhrlohn. Von der
+#facs_138_r2l9 Auß zu Untersern nach dem
+#facs_138_r2l10 Neuhauß, und sogenanten
+#facs_138_r2l11 Glücken, und vice versa
+#facs_138_r2l12 nach der Sust zu
+#facs_138_r2l13 s
+#facs_138_r2l14 Unterfern
+#facs_138_r2l15 Ld.
+#facs_138_r2l16 Wm.
+#facs_138_r2l17 Von seinem Saum Wein
+#facs_138_r2l18 2
+#facs_138_r2l19 nebst einem Trumb, so von den Wein
+#facs_138_r2l20 faßen beyen nit als eine schuldigkeit,
+#facs_138_r2l21 sonderen auf belieben daß Eigen¬
+#facs_138_r2l22 thümmerd gestelt ist.
+#facs_138_r2l23 von Einem lären Faß vom 2. Säume
+#facs_138_r2l24 2
+#facs_138_r2l25 1
+#facs_138_r2l26 Was es mehr halten, vom Raum
+#facs_138_r2l27 von Einem vollen Salzfößl.
+#facs_138_r2l28 2
+#facs_138_r2l29 von Einem lären
+#facs_138_r2l30 1.
+#facs_138_r2l31 2
+#facs_138_r2l32 von Einem Münt Korn oder Rogge
+#facs_138_r2l33 1
+#facs_138_r2l34 von Einem Mutt dinkel oder Haber
+#facs_138_r2l35 3
+#facs_138_r2l36 von einem Centner Eisen
+#facs_138_r2l37 von einem Centner War¬
+#facs_138_r2l38 welcher Zeitung es immer seye
+#facs_138_r2l39 3
+#facs_138_r2l40 mag, Reys, Melchen
+#facs_138_r2l41 Mit welch bestimten Querlohen sich die
+#facs_138_r2l42 Fuhrleüth prüzlich benüezen,
+#facs_138_r2l43 unter seinem vorbend etwas an¬
+#facs_138_r3l1 257
+#facs_138_r3l2 Anders oder mehreres, bey schuldiger Ver¬
+#facs_138_r3l3 entwortung, weder von frembden
+#facs_138_r3l4 noy
+#facs_138_r3l5 Einheimbschen verlangen, forderen
+#facs_138_r3l6 nach bezeichen sollen
+#facs_138_r3l7 Land fuhr von tracht nach Mietringen
+#facs_138_r3l8 Ordnung und Pflichten der bestelten
+#facs_138_r3l9 Korriren
+#facs_138_r3l10 1°
+#facs_138_r3l11 Sollen führohin diejenigen, so um die
+#facs_138_r3l12 Karrerdienst anzuhalten gesinmet, sich dest
+#facs_138_r3l13 wegen bey einem gewesenden Landd vom
+#facs_138_r3l14 anmelden, welcher selbiges vor die fünfzehn¬
+#facs_138_r3l15 und dannethin vor eine ganze Landschaft
+#facs_138_r3l16 nuit
+#facs_138_r3l17 bringen soll, um von derselben
+#facs_138_r3l18 dem Mehr dazu Erbohlt und bestähtiget zu
+#facs_138_r3l19 werden.
+#facs_138_r3l20 2.
+#facs_138_r3l21 Sollen die bestelten ordinari,, korrer mit
+#facs_138_r3l22 Roßen und Wägen /: deren jeder auf das
+#facs_138_r3l23 lengste Ebern wöhrschafte haben stellt also versehen
+#facs_138_r3l24 seyn, daß sie einem jeden seine Waare
+#facs_138_r3l25 und Güther ordentlich und fürderlich an das
+#facs_138_r3l26 behörige Orth fertigen, und um diese Kerrerey
+#facs_138_r3l27 ein ganz jahr verbunden stehen können
+#facs_138_r3l28 3.
+#facs_138_r3l29 Soll sonsten äußert denen ordinari karrere
+#facs_138_r3l30 , er seye Land Mann oder nit /: ausser
+#facs_138_r3l31 nier
+#facs_138_r3l32 seiner eigenen Waar oder Fuhre Guth von
+#facs_138_r4l1 No 7
+#facs_138_r4l2 blad
+#facs_138_r4l3 pr
+#facs_139_r2l1 Meyringen näher Schwitz, noch hin
+#facs_139_r2l2 wiederum von Grienz naher Meÿringen
+#facs_139_r2l3 weder Sommer noch Winter zu führen
+#facs_139_r2l4 befüegt seyn, denn welcher darwieder
+#facs_139_r2l5 handlete, und die bestelten Körrer,
+#facs_139_r2l6 inzwischen ledig stehen mußte.
+#facs_139_r2l7 e-
+#facs_139_r2l8 soll mit denselben nach billigkeit abzu¬
+#facs_139_r2l9 schaffen verbunden seyn.
+#facs_139_r2l10 Mit der Erleüterung jedoch, daß ein
+#facs_139_r2l11 LandMann sein exen Guth bohl
+#facs_139_r2l12 selbsten Fuhren möge, und
+#facs_139_r2l13 solches ihme frey gestelt und zuge¬
+#facs_139_r2l14 laßen seyn solle.
+#facs_139_r2l15 5.
+#facs_139_r2l16 Sollen die bestelten Fuhrleuth Männigl.
+#facs_139_r2l17 den frembden wir den Einheimbschen,
+#facs_139_r2l18 ihre Güther und Waaren, welcherley
+#facs_139_r2l19 dieselben seyn möchten, in guten
+#facs_139_r2l20 treüen an bestimte Ort zu führen.
+#facs_139_r2l21 verbunden seyn, in leid Zeithen
+#facs_139_r2l22 ad immer seye, ausgenommen jedoch
+#facs_139_r2l23 solche fähle, da wegen starbein Regen¬
+#facs_139_r2l24 oder Schnewetter und Waßer=Großenen
+#facs_139_r2l25 ihnen zu fahren ganz und
+#facs_139_r2l26 möglich -
+#facs_139_r2l27 wäre, auch soll ihnen abligen, die
+#facs_139_r2l28 Büther und Waaren von Sonnen¬
+#facs_139_r2l29 und Regen, vermitlest guter
+#facs_139_r2l30 Glachen und Herztücherein, wohl zu
+#facs_139_r3l1 259
+#facs_139_r3l2 beschirmen, gleichwie sie auch bey dem
+#facs_139_r3l3 Auf- und Abladen der Waar alle müglich¬
+#facs_139_r3l4 ste sorgfall, nach der Natur und beschaffen¬
+#facs_139_r3l5 heit derselben, gebrauchen, und selbige
+#facs_139_r3l6 in die ebenfahls wohl zu beforgende Susten.
+#facs_139_r3l7 überlieferen sollen
+#facs_139_r3l8 6.°
+#facs_139_r3l9 So offt die bestelten Fuhrleuth um extrafuhr
+#facs_139_r3l10 angestrochen wurden, sollen dieselben in
+#facs_139_r3l11 verbeilt entsprechen, es seye gleich tegd
+#facs_139_r3l12 oder Nachb
+#facs_139_r3l13 Denen frembden Waaren, insonderheit
+#facs_139_r3l14 denen und dem Land fergenden Kästen
+#facs_139_r3l15 soll allegen der vorzug gegeben werden
+#facs_139_r3l16 also, daß dieselben (ausgenommen die noht¬
+#facs_139_r3l17 wendigsten Lebend = Michel, als Korn, Brod,
+#facs_139_r3l18 Möhl, Salz, Wein der Wirthen und eigenes
+#facs_139_r3l19 Gebüchs der Particularen mit Zurubleßung
+#facs_139_r3l20 übriger Effecten, zur Fuhr sollen an, und
+#facs_139_r3l21 werden
+#facs_139_r3l22 aufge¬
+#facs_139_r3l23 8
+#facs_139_r3l24 Wobey es noch den Verstand hat, das¬
+#facs_139_r3l25 Raschändteren
+#facs_139_r3l26 in dem Fahl, da denen
+#facs_139_r3l27 bey der ordinary. fuhren Abfahrt, etwas Wann
+#facs_139_r3l28 fürutbleiben solte, an deren schleunigen
+#facs_139_r3l29 verfertigung vieles gelegen, ihnen, dene
+#facs_139_r3l30 handelslanthen freystehen solle, solche durch
+#facs_139_r3l31 oder Fuhrleuth abführen zu laßen.
+#facs_139_r5l1 ahlen 86.
+#facs_140_r3l1 9
+#facs_140_r3l2 Weilen die bestelten Karrer biß
+#facs_140_r3l3 dahin im brauch gehabt, wenn sie von
+#facs_140_r3l4 Tracht nach Meyringen gefahren,
+#facs_140_r3l5 o
+#facs_140_r3l6 unterbeyd auf den sogenanten
+#facs_140_r3l7 Mäderen auf freyer Heyd, ihre
+#facs_140_r3l8 geladene Wagen über Nacht stehen,
+#facs_140_r3l9 und die Pferd auf der Weyd laufen
+#facs_140_r3l10 zu laßen, wordurch dann viel schaden
+#facs_140_r3l11 wiederfahren, als soll ihnen
+#facs_140_r3l12 dieses gäntzlich abgestrebt und verbotte
+#facs_140_r3l13 mithin künftig gleichen Tags von
+#facs_140_r3l14 Tracht bis nach Meyren
+#facs_140_r3l15 ihm zum
+#facs_140_r3l16 fahren anbefohlen seyn, und
+#facs_140_r3l17 zbar bey Straff der ersezung alles¬
+#facs_140_r3l18 schadens, und einer ohnabläßigen
+#facs_140_r3l19 Hus von Ibenzig Pfunden; In
+#facs_140_r3l20 wiederhandlendem Fohl.
+#facs_140_r3l21 10
+#facs_140_r3l22 Sollen sich die bestelten Korre.
+#facs_140_r3l23 nach vermelter Specificierter Belohnung,
+#facs_140_r3l24 von denen ausgetrichten Stuben
+#facs_140_r3l25 und Gütheren begnügen, In
+#facs_140_r3l26 ansehen derjenigen Gütheren und
+#facs_140_r3l27 Waaren aber von denen die Beloh¬
+#facs_140_r3l28 nung nit ausgesetzte und bestimmet
+#facs_140_r3l29 ist, sollen sie sich allegen der beschei¬
+#facs_140_r3l30 denheit und billichkeit, in forderung
+#facs_140_r4l1 Meld
+#facs_140_r4l2 daß Fuhrlohne, befleißen, wiedrigen fehls,
+#facs_140_r4l3 und wann sie hierinnen überfahren, oder
+#facs_140_r4l4 sonsten diese Ordnung in dem eint ode
+#facs_140_r4l5 anderen übertreiben wurden, dieselben
+#facs_140_r4l6 mit entstehung ihrer Dienste oder in ander
+#facs_140_r4l7 Weg, jeh nach denen Umständen
+#facs_140_r4l8 gebührender maßen abgestrafft werden
+#facs_140_r4l9 stellen.
+#facs_140_r4l10 c/d.
+#facs_140_r4l11 Es sollen auch zu dem End die verordneten
+#facs_140_r4l12 Farrer einem jehbesenden Land-Amann,
+#facs_140_r4l13 oder Landssteuer geloben, diesen vorge¬
+#facs_140_r4l14 schriebenen Punkten in guten Treuen
+#facs_140_r4l15 nachzukommen, und deren zu geleben
+#facs_140_r4l16 Farif
+#facs_140_r4l17 Der bestelten Fuhrleuten über ihren geredneten
+#facs_140_r4l18 Fuhrlohn, von Tracht nach Meyringen
+#facs_140_r4l19 Pflittier
+#facs_140_r4l20 -
+#facs_140_r4l21 r
+#facs_140_r4l22 bijb.3 f 0 x
+#facs_140_r4l23 4. -
+#facs_140_r4l24 Seinen Wein
+#facs_140_r4l25 von er¬
+#facs_140_r4l26 4
+#facs_140_r4l27 Mutt Doyy
+#facs_140_r4l28 s
+#facs_140_r4l29 von einem
+#facs_140_r4l30 4
+#facs_140_r4l31 oder Wernen
+#facs_140_r4l32 Mütt Gaber. 4. 2
+#facs_140_r4l33 2. 2.
+#facs_140_r4l34 Von einem
+#facs_140_r4l35 3.
+#facs_140_r4l36 imungsantner Resoder
+#facs_140_r4l37 2. 2
+#facs_140_r4l38 og Juhren Gut,
+#facs_140_r4l39 ander Gott
+#facs_140_r4l40 7. 2.
+#facs_140_r4l41 von Einem Kegel mit bei. 3.
+#facs_140_r4l42 Fäßl. mit Salz. 10.
+#facs_140_r4l43 von einem
+#facs_140_r4l44 Zu und
+#facs_140_r4l45 von eine
+#facs_140_r4l46 im halb, sein
+#facs_140_r4l47 1.
+#facs_140_r4l48 vieren Weinfüßl, von
+#facs_140_r4l49 jedem
+#facs_140_r5l1 h,86
+#facs_141_r2l1 von denen Süsten;
+#facs_141_r2l2 Zie zu einlegung der anbemenden
+#facs_141_r2l3 Büther veroronete Sust=Häuser, sollen
+#facs_141_r2l4 zu Verbehrung der Kösen und anderer
+#facs_141_r2l5 Waaren bequem und sorgfältig
+#facs_141_r2l6 eingerichtet, und sonderlich mit denen
+#facs_141_r2l7 erforderlichen Kößgestellen versehen,
+#facs_141_r2l8 werden, damit selbe mit am boden
+#facs_141_r2l9 auf ein ander ligen, und schaden
+#facs_141_r2l10 nommen müßen, anbey denen
+#facs_141_r2l11 SustMeisteren, Schiff- und Fuhrleüten
+#facs_141_r2l12 obligen, die Kösten mit Fleiß und
+#facs_141_r2l13 sorgfall dahin zu tragen, und zu
+#facs_141_r2l14 rangieren
+#facs_141_r2l15 Welch unsere Wohlmeinenden
+#facs_141_r2l16 Verordnung und einstehen nun, Wie
+#facs_141_r2l17 hiemit zu Männiglichs Nachricht, und
+#facs_141_r2l18 .
+#facs_141_r2l19 fonderlich der Schiff und Zuhrleuten
+#facs_141_r2l20 künfftigem verhalt, in öffentlicher
+#facs_141_r2l21 Deut geben, Unseren Amtleuten
+#facs_141_r2l22 der Enden Ernstlichen befehlende,
+#facs_141_r2l23 geflißene Hand abzuhalten, daß
+#facs_141_r2l24 derselben in allen und jeden artioen.
+#facs_141_r2l25 gehorsamlich strebe nachgelebt und
+#facs_141_r2l26 Folg geleistet werde; In wiederhandlenden
+#facs_141_r2l27 fahl aber die Fehlbaren zu gebührender
+#facs_141_r2l28 Straff und Verantwortung zu ziehen
+#facs_141_r2l29 Actl d. 13ten Septr. 1757

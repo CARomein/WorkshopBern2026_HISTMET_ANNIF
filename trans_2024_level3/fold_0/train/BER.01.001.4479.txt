@@ -1,0 +1,50 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 42/43
+# High similarity (>=80%): 39
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4479
+#facs_163_r4l5 Die legalisation und Besiglung äußert Landsgehen.
+#facs_22_r4l1 41
+#facs_3_region_1629374296225_399l1 An
+#facs_163_r4l3 Alle Herren Amtleut Welschen Lands, wie auch
+#facs_163_r4l4 Ählen; mit ausnahm Lausanne
+#facs_163_r4l5 Die legalisation und Besiglung äußert Landsgehen.
+#facs_163_r4l6 den Actes, als Acte de Vie und Attestationen, sollen Ihnen
+#facs_163_r4l7 allein, und nicht den Städten, vorgelegt werden
+#facs_21_r5l16 Schultheiß und Raht’
+#facs_163_r4l9 Da uns hinterbracht worden, daß in eint
+#facs_163_r4l10 und anderen Städten und Bezirken Unserer
+#facs_163_r4l11 Landen, die zu Beziehung der ausert Lands
+#facs_163_r4l12 placierten Fonds an so genanten Rentes Viageres
+#facs_163_r4l13 erforderliche Actes de vie unter dem Nahmen um
+#facs_163_r4l14 Sigel des Stadt Magistrats ausgefertiget werden,
+#facs_163_r4l15 ohne Unseren Amtleüten des Orts vorgelegt
+#facs_163_r4l16 zu werden; Als haben Wir zu Vermeidung
+#facs_163_r4l17 aller Irregulariteten, und danahen entstehen
+#facs_163_r4l18 könnenden Folgen, nicht gut befunden, solches
+#facs_163_r4l19 ferners zu zugeben, und befehlen demenach
+#facs_163_r4l20 Euch, solches den Städten und Publicis Eueres
+#facs_163_r4l21 Amts in Zukunfft zu verbieten, und anbey¬
+#facs_163_r4l22 behörigen publicieren zu laßen. Daß
+#facs_163_r4l23 hinfüro alle die aus zustellenden Actes de
+#facs_163_r4l24 Vie Certificats und Attestationen, die nicht die
+#facs_163_r4l25 Geburt, Ehrlichen Wandel und guten Leünden
+#facs_163_r4l26 und dergleichen von der Policey allein abhan¬
+#facs_108_r5l37 An den
+#facs_164_r1l1 420./
+#facs_164_r1l2 An die Welsch
+#facs_22_r2l17 Herren Amtleüt) daß Ihr solche gebührendendes
+#facs_188_r5l1 h
+#facs_151_r6l1 se
+#facs_164_r2l1 genden Sachen berühren, jeweilen den
+#facs_164_r2l2 Amtmann des Orts als Representanten
+#facs_164_r2l3 Landes Herrn, allein, die legalisation und Be¬
+#facs_164_r2l4 lung dergleichen Äußert Lands gehenden
+#facs_164_r2l5 acten vorgelegt werden sollen. Welch
+#facs_164_r2l6 Unsere Erkantnuß Ihr zum Verhalt Euerer
+#facs_164_r2l7 Amts Nachfahrer, in die Schloß Bücher einscht¬
+#facs_164_r2l8 Een laßen werdet. Dat. d. 18ten May 1780.
+#facs_178_r8l1 en

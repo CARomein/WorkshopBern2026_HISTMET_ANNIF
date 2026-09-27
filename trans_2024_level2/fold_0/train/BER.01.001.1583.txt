@@ -1,0 +1,23 @@
+Law ID: BER.01.001.1583
+Name: Wegen Verbesserung der Strassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 12/12
+# High similarity (>=50%): 11
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_306_r3l10 Wegen Verbeßerung der Straßen
+#facs_306_r3l11 Schubtheiß Vnd Raht der Statt Bern,
+#facs_306_r3l12 Wir werdend berichtet wie daß die
+#facs_306_r3l13 straßen an etlichen Orten gantz schlecht vnd übel beschaffen; Ist derowegen
+#facs_306_r3l14 Vnser gesinnen vnd befelch hiemit an dich, In deiner Amptsverwaltung die
+#facs_306_r3l15 Vneingestelte vnfelbare abestalt zethun, daß die straßen erlendte Ver¬
+#facs_306_r3l16 beßeret, die brugken Vnd fußgehende stegen wolbelegt, vnd etwan ein schuh so
+#facs_306_r3l17 grien Vnd fandt, da es von nöten, druff geschuttet, Vndt zum selbigen en
+#facs_306_r3l18 etliche Schuffelbuwen, mit Hauwen, Schufflen, Vndt bickken dahin
+#facs_306_r3l19 alsebald befelihnet vnd abgeordnet werdend, Wie wir Vns Versechen
+#facs_306_r3l20 vndt Dich darmit Gott wolempfelchend. Datum 20. Nouembri
+#facs_306_r3l21 S55.

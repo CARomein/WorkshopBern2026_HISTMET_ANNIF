@@ -1,0 +1,60 @@
+Law ID: BER.01.001.2303
+Name: Der Posten halb sichere Anstalt zuverschaffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 49/49
+# High similarity (>=50%): 49
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_355_r6l1 Thun, Burgdorff, Arberg,
+#facs_355_r6l2 Frauwbrunnen, Wangen, Arburg, Arouw, Tentsburger,
+#facs_355_r6l3 Königsfelden, Wyblisfurg, Wilden, Oron, Chillon,
+#facs_355_r6l4 Morsel, Romainmostier, und vorige Ambter
+#facs_355_r6l5 Voltschen Lands
+#facs_355_r6l6 Der Postenhals sichere Anstalt zu verschaffen
+#facs_355_r6l7 Statthalter Undt Raht der Statt Bern
+#facs_355_r6l8 Die gegenwürdigen coniuncturen in denen allerley Verfaßungen
+#facs_355_r6l9 Auf den fahl einer rupture gemacht wordend, erforderend ohnempahrlich
+#facs_355_r6l10 daß der Lauffenden Fußposten halb solche sicherheit veranstaltet werde,
+#facs_355_r6l11 nimit nicht allein, alle verschickende Brieffen durch Leüth denen es
+#facs_355_r6l12 zu vertrouwen, also baldt Verbracht, sondern auch Weder durch
+#facs_355_r6l13 List noch in andere Weg die auffhabende paquet Vnd Schreiben Ihnen
+#facs_355_r6l14 abgenommen werden konnend. In daßen Vber deß wegen beschehene
+#facs_355_r6l15 Erinnerung, so viel die Posten hinder deiner Ambtheyung betrifft
+#facs_355_r6l16 Wie der dise Vnsere anligenheit zu Insinuiren nohtwendig befunden,
+#facs_355_r6l17 mit dem befehlichlichen Anseren angesicht dis honder Deiner
+#facs_355_r6l18 verwaltung, solcher Unser intention nach es zu bestellen, oder da
+#facs_355_r6l19 Alwas mangels, undt anstoßes Abhanden were, Vnseren geliebten
+#facs_355_r6l20 stattschreiberen Ohnverbeilt zu verständigen, Vmb darüber Vornerer
+#facs_355_r6l21 verordnung zuerwarten. Gott mit dir. Dat. 12. Septembris 1683.
+#facs_355_r6l22 An Alle T. und W. Ambleuth
+#facs_355_r6l23 4 Stäck Freylreibel Undt Amman
+#facs_355_r6l24 Sollen ad Kuchhl. Zeügherrn Tillier ein specification schike
+#facs_355_r6l25 allerhandt waffen deren Ihre angehörige Mangelbahr sindt
+#facs_355_r6l26 Statthalter Pähr undt Bürger der Statt Bernd
+#facs_355_r6l27 gleich wie wir Uns versehend, daß die Visitation der gwehren auch
+#facs_355_r6l28 linder deinem Ambt, wie geschehen sollen, Vorgangen sein Wirt, allso ist Wohl
+#facs_355_r6l29 zu glauben, daß auch hinder die etwelche vnderthanen in eint undt andere
+#facs_355_r6l30 hinein mit guten Gloehren nit Vorsehen sein werdend. Dannenhar
+#facs_356_r2l1 Wie die hiemit befelchen wollen, unserem geliebten derittkast
+#facs_356_r2l2 fudt Zeugheeren Tillier eine Specification zu zusenden, Aller den
+#facs_356_r2l3 so keine Gewehr haben, oder allso Vnmütze, daß mann Sie mit un¬
+#facs_356_r2l4 mit Brauchen kan, Welcher dann befolch hat, die specificirte
+#facs_356_r2l5 quantitet Eint undt anderer Gattung umb haare bezahlung
+#facs_356_r2l6 dem preiß als wie sie vns selbsten anligen undt mit Theubald
+#facs_356_r2l7 gefolgen zu laßen, der meinung, daß wan das par gelt mit
+#facs_356_r2l8 erhanden, das mann solche auff Credit undt glaüße, termin
+#facs_356_r2l9 hingeben werde, aber allso daß die gewinden eint und
+#facs_356_r2l10 anderen Ohrts umb die Bezahlung der Glochren, so Ihren
+#facs_356_r2l11 meinds große, werden ausgetheilt, verhafft sein sollen
+#facs_356_r2l12 die solchem nach befelchend mit mir die Verordnung zethin
+#facs_356_r2l13 daß solche gloehr auff gemelte condition hin hier abgeholet
+#facs_356_r2l14 eines Ohrts verschaffet vndt den Manglenden zugestelt werden,
+#facs_356_r2l15 sonderen auch das gelt von denen, so solche zu bezahlen Vermögen
+#facs_356_r2l16 abzunemen, undt solches unserem Zeüghl. zu überschiken, vmb
+#facs_356_r2l17 Vbrige aber darum die gewinden guth sein sollen, durch
+#facs_356_r2l18 fleißige Verzeichnus gute rechnung zuhalten. Datum 12. yb.
+#facs_356_r2l19 1683

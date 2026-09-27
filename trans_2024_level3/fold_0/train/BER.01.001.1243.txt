@@ -1,0 +1,74 @@
+Law ID: BER.01.001.1243
+Name: Ussschrybung einer algemeinen Landtjegi.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 63/63
+# High similarity (>=50%): 62
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_374_r1l1 Analle C. vns W. Ambtlütz, vier
+#facs_374_r1l2 je ne suis
+#facs_374_r1l3 Stett Im Ergönne, Freyereybel, vnd Amen,
+#facs_374_r1l4 auch Schwartzenburg, und Grandson, Vß,
+#facs_374_r1l5 schrybung einer ölgemeinen Landt gegen
+#facs_374_r1l6 Schuldtheis vndt Rhatt etc.
+#facs_374_r1l7 Collatum. Diewyl vnser Landt sich abermahlen mit allerhand, sonderlich aber mit
+#facs_374_r1l8 Frömbden müßtig gehndem vberlegnem Bättl. Ja auch darunden
+#facs_374_r1l9 reichendem bösen, schädlichen Dieben gsind gantz beschwert vnnd belau¬
+#facs_374_r1l10 befindt, vor Deine dan vnseren E. g. angehörigen, den täglich ynkommen
+#facs_374_r1l11 cllegten, vnnd der erfahrung nach, mit sichers blybt Habend wie
+#facs_374_r1l12 Zu abhelffung sölichen Vberlasts vß schuldiger Oberkeitlicher Fürsor
+#facs_374_r1l13 vns entschloßen, ein Allgemeine Landtjegi vff deyen ein anderen, nach
+#facs_374_r1l14 volgenden tagen namlich am Donstag, Seytag vnnd Sambstag so sey
+#facs_374_r1l15 werdend der 22. 23. vnnd 24. Hornungs aller Detz zu Statt vnd Land
+#facs_374_r1l16 Zuglych halten vnnd Errichten zelaßen. Ist demnach vnser gantz ernstiges
+#facs_374_r1l17 gesinnen vnnd beuelch hiemit an Dich, die vnuerwylte erforderlichen
+#facs_374_r1l18 pordnung zethun, daß bedeüte Landtdeg. In deinem gantzen Ampts¬
+#facs_374_r1l19 bezieck vff bestimbten tagen, durch die bestelten provosen oder etliche
+#facs_374_r1l20 hievor gewohnten fern nach hierzu erkiesende tugentliche persohnet
+#facs_374_r1l21 alles fleißes vnnd ernsts vnder Dyner guten anstell: vnd handt
+#facs_374_r1l22 obhaltung verrichtet, Allso vnnd derstalten, daß die einen vnnen
+#facs_374_r1l23 anderen starcke vnnd vnprasthaffte, In Sättel: vnd müßigganz
+#facs_374_r1l24 vmbherstreichende synd frömbt oder ÿnheimbsche vffgetriben, Die
+#facs_374_r1l25 Frömbden vnnd vßeren zwar entweders stracks den nechsten
+#facs_374_r1l26 Weg fort: vff die grentzen vnnd vnß dem Landt geführt, Vnnd
+#facs_374_r1l27 gewisen: Oder so sie böser stucken argwönig sind, zu hölchem fahl
+#facs_374_r1l28 gefengklich angenommen, vnnd ernstwörtig examiniert: auch Verners
+#facs_374_r1l29 In nach beschaffenheit der sach mit Inen procediert: Die vnheimlich
+#facs_374_r1l30 aber so strecken müßiggehenden Lybs sind, vnnd zum theil auch Vns
+#facs_374_r1l31 den vmbstenden gedächtig fallend, stracks alhar In vnser Schallen=
+#facs_374_r1l32 huß gewarsamlich verchaffet, damit dieselben zu gebürend arbeit
+#facs_374_r2l1 36j.
+#facs_374_r2l2 arbeit angefeßlet, oder anderer Orten hingemahnt werd int, Gleichwol
+#facs_374_r2l3 aber ist hierbey In dise Verrichtung der persohnen halb In obacht
+#facs_374_r2l4 Zenemen vnnd ein ordenlicher Vnderscheid zerathen, welche vmb der
+#facs_374_r2l5 Wahren Religion willen verfolget, dem Heiligen Allmusen daß mangel
+#facs_374_r2l6 Lybs vermügligkeit ihre nachheung zugewinnen, nachgezüch getrung.
+#facs_374_r2l7 werdent, vnnd welche hingegen sich mutwilliger Wyß den bätzel vmb
+#facs_374_r2l8 müeßiggang ergebend, vnnd demselben den Vnseren zu gefahr, großer
+#facs_374_r2l9 beladnuß vnnd Betrengnuß nachstrychend, derenthalb das fürnemlich
+#facs_374_r2l10 und eigentlich disere LandtJegen angesehen vnnd nit dahin Zeuerstehen ist
+#facs_374_r2l11 das den Rechtdürffigen vnnd würdigen Armen das Allmusen darauen
+#facs_374_r2l12 entzogen, sonders denselbigen Vilmehr söliches desto Rycher Vrtheillt
+#facs_374_r2l13 vnnd den vnseren allerseits so wyt Immer müglich der Hochbeschwer
+#facs_374_r2l14 vnnd ohnerschwingliche Überlast der Rechtschuldigen ohnverschambt
+#facs_374_r2l15 vnnd gfahrtlich vberlegnen geliechteret, vnd abgenommen werdt.
+#facs_374_r2l16 mit aber diß angestellte werck mit desto mehrer frucht abgahn möge,
+#facs_374_r2l17 habend wir vnser G. L. E. der Deyen Stetten vnnd Oecken Lucern
+#facs_374_r2l18 Fryburg, vnnd Solothurn, als nechstangrentzende, diß Vnsers vorhabent
+#facs_374_r2l19 berichtet, vnnd Sie vmb gleiche Verrichtung hinder Irer Landtschafft
+#facs_374_r2l20 vnnd hiemit vmb gesambte Mittwürckung schrifftlichen ersucht: Alls
+#facs_374_r2l21 unnd dergestalten, daß Jedes Orth ohne deß anderen beschwerd, die
+#facs_374_r2l22 jenigen, sonderlich frömbte, so es vfftreiben Wirt, vmb mehrer richtigkeit
+#facs_374_r2l23 Willen den nechsten füegklichen Wegen ort zu orth volkommen fort
+#facs_374_r2l24 vß den Landt verschaffen vnnd begleiten: darzu dan Je ein Ort
+#facs_374_r2l25 und deselben Ambtleüth dem anderen Wo vonnöthen sey Wirt Will¬
+#facs_374_r2l26 ferigen Paß ertheillen vnnd gestatten hölle, Was aber daß ein
+#facs_374_r2l27 oder ander orts vftrybende vnderthanen belangt, Je eins dem anderen
+#facs_374_r2l28 dieselben mit anzeigung Jres Heimats wol zuführen vndt Vber¬
+#facs_374_r2l29 geben laßen möge. Deßen wir dich benebens zu desto beßerem
+#facs_374_r2l30 gehalt vorstendigen vnnd verwahrnen Wöllen Syest darbey Gott
+#facs_374_r2l31 Wohl brückhl. Datum Wima Januarii 1644

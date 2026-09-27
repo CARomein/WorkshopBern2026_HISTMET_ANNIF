@@ -1,0 +1,80 @@
+Law ID: BER.01.001.2051
+Name: Ihnen alles Bauwen einstellen undt abstricken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 69/69
+# High similarity (>=50%): 66
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_82_r3l18 An Alle Teutsche Ambtleüth
+#facs_82_r3l19 Ihnen alles baur von einstellen undt
+#facs_82_r3l20 abstricken
+#facs_82_r3l21 Snedt hinß und Raht der Stadt Bern
+#facs_82_r3l22 Dieweilen das bauwen auff den Ambteren, so den Ambten
+#facs_82_r3l23 Collaten
+#facs_82_r3l24 Deüthen in ihrem Eydt, biß auff fünffzig pfund zugeraßen
+#facs_82_r3l25 In ein solchen mißbrauch und Excess gestigen, daß baed=
+#facs_82_r3l26 ein Jeder nach belieben hierin verfahret, Wie daß deme
+#facs_82_r3l27 abzuenden, daß Jährlich ein groß gelt hierumb angerechnet
+#facs_83_r3l1 Wirt, zu Unsers Standts nit geringer empfindtnus, als
+#facs_83_r3l2 und wir verursachet worden, und habend wir vns
+#facs_83_r3l3 antschloßen, zur abscheid- vnd vermeidung solchen Excessar
+#facs_83_r3l4 alles bauwen, es vrnfft an vil oder wenig, es geschehen
+#facs_83_r3l5 in den Ambts- oder Pfrud-gebeüwen Vnseren Ambt¬
+#facs_83_r3l6 leüthen Zeuerpieten, also daß keiner fürbas etwas
+#facs_83_r3l7 Dergleichen fürzuemen, noch einigen Bauw-Kosten
+#facs_83_r3l8 Denenrechnen haben solle, alß welches Ihme In
+#facs_83_r3l9 Den Rechnungen nit wurde admittiert werden,
+#facs_83_r3l10 Vorbehalten allein die erhaltung in lach vndt gemacht
+#facs_83_r3l11 der Ambts- und Pfrud Heuseren, die ein Jeder Amatsm.
+#facs_83_r3l12 Ihme, vor Weiterem Kosten angelegen sein laßen, soll
+#facs_83_r3l13 Vndt dan auch plche andere ohn unermeidenlich noht¬
+#facs_83_r3l14 wendige gebenw, die einem jeden sonderbahr anbefolch
+#facs_83_r3l15 werdend. Das wirt nun die hiemit der meinung
+#facs_83_r3l16 und zu dem endt insinuirt, daß du dich Deme gemes
+#facs_83_r3l17 Zeünthalten, vnd zu solchem undt es in das Nnder¬
+#facs_83_r3l18 richt euch einzschreiben vnßest. Datum 30. Aug. 67
+#facs_83_r3l19 An die Umbtleuth zu Thun,
+#facs_83_r3l20 Wimiss zweysimen Frutingen
+#facs_83_r3l21 Interlacken, Hasse und Ober
+#facs_83_r3l22 Sie der Verordnung in
+#facs_83_r3l23 Hofden.
+#facs_83_r3l24 ler-ordnung berichten. Zu stellung
+#facs_83_r3l25 Der Spring Zeegstan und Schaff-zucht
+#facs_83_r3l26 Schuedtniss und Raht der Statt Bern,
+#facs_83_r3l27 Der in ein genzliche anderlaßung gerahtenen Vätler-ordnung
+#facs_83_r3l28 halb habend wie etliche Herren Ins Oberlandt verordnet,
+#facs_83_r3l29 X
+#facs_83_r3l30 den Gemeinden zur Wortsetzung solcher Ordnung, der
+#facs_83_r5l1 15
+#facs_83_r5l2 getzurfft fürzutragen, vnd weilen hierzu bei der Hand zu
+#facs_83_r5l3 haben von nöthen ist, ein Verzeichnus der Allmusens würdigen
+#facs_83_r5l4 in Ieder Orsmend, alß wolten wir die vorlönffig, Wie hiemit
+#facs_83_r5l5 geschicht, bemerchen, solche Verzeichnus, mit vernambsung der
+#facs_83_r5l6 lmusens würdigen Haußväckeren vnd Haußmüetern, sambt
+#facs_83_r5l7 ihrer Kinderen, vnd wen bis orts vorhanden, von Ochmeind
+#facs_83_r5l8 zu Gmeind, mit beschreibung eines Jeden Zustandts, mit solcher
+#facs_83_r5l9 befürderung zemachen, vnd parat zehalten, daß dieselbe
+#facs_83_r5l10 den Herren Verordneten bej ihrer ankunfften vorgelegt
+#facs_83_r5l11 werden könne.
+#facs_83_r5l12 Undt die weilen darfür zuhalten, daß die Schaffzucht
+#facs_83_r5l13 vnd haltung derselben ein besonderen Landt-muth bringen
+#facs_83_r5l14 Wurde, Vermitlest der Wullen vnd deren Verarbeitung,
+#facs_83_r5l15 das gelt umb Küecher Im Landt gebehalten: Item die
+#facs_83_r5l16 Roßzucht daraus auch ein schöne losung züzeüchen, ver¬
+#facs_83_r5l17 nitleist der Muter-pferden, und haltung darin gehöriger
+#facs_83_r5l18 Pring-pferden, Zubefürderen were, Als habend wir
+#facs_83_r5l19 Die Wie anderen Vnseren Ambtleüten, bei diser occasion
+#facs_83_r5l20 auch anzubrückchen gutfunden, dieß vnser gutachten Deinen
+#facs_83_r5l21 and
+#facs_83_r5l22 Ambts angehorigen fürzebringen, und wie sie selbigem
+#facs_83_r5l23 nachzekonden und beifahl zugeben gemeint sein werden,
+#facs_83_r5l24 von Ihnen zu urnenden, vmb volgendts disem gutfinden
+#facs_83_r5l25 mit Weiterem ansuchen auffzehelffen. Zu weßen dahin
+#facs_83_r5l26 undt du der Unsßgebrachten Intention genoeg, gesagten
+#facs_83_r5l27 haben Wirst. Datum 6. Septembris, so mil in deiner
+#facs_83_r5l28 möchte, die befürderliche
+#facs_83_r5l29 tüßest. Goct

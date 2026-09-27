@@ -1,0 +1,45 @@
+Law ID: BER.01.001.4698
+Name: Verkauf der zweyten Hälfte des Getreides, im Deütschen Land.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 34/34
+# High similarity (>=50%): 34
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_44_r4l8 Verkauf der zweyten Hälfte des
+#facs_44_r4l9 Getreides, im deutschen Land.
+#facs_44_r4l10 au
+#facs_44_r4l11 alle deutsche Herren Amtleut und Schaffner
+#facs_44_r4l12 da obrigkeitlich Getreid ligt
+#facs_44_r4l13 Schultheis Räth und Burger u.
+#facs_44_r4l14 auf angehörten Vortrag Unserer Fürge¬
+#facs_44_r4l15 liebten Miträthen der Herren Deutsch¬
+#facs_44_r4l16 Sekelmeister und Venneren, und Unserer
+#facs_44_r4l17 wohl verordneten Korn Kammer, über das
+#facs_44_r4l18 nach Abzug der Ordinari und Quasi ordi¬
+#facs_44_r4l19 nari Ausgaben, annoch zum Verkauf¬
+#facs_44_r4l20 übrig bleibende Getreid haben Wir zu
+#facs_45_r2l1 Verkennen zu tretunden und befehlen
+#facs_45_r2l2 Euch hiermit, von dieser zum Ver¬
+#facs_45_r2l3 kauf übrig bleibenden zweiten Helfte
+#facs_45_r2l4 an dinkel Weizen und Mischelkorn
+#facs_45_r2l5 wie auch der Sommer Früchten den
+#facs_45_r2l6 allfällig noch mangelnden Kriegs
+#facs_45_r2l7 Vorrath wieder zu ergänzen, alles
+#facs_45_r2l8 übrige aber in lauffendem Preis
+#facs_45_r2l9 zu versilbern; diesen Getreid
+#facs_45_r2l10 Verkauf dann so zu vertheilen, daß
+#facs_45_r2l11 damit zu kleinen Käuffen von nun
+#facs_45_r2l12 an der Anfang gemacht, auf gleiche
+#facs_45_r2l13 Weise nach und nach fortgefahren
+#facs_45_r2l14 und der lezte Verkauf bis ersten
+#facs_45_r2l15 Weinmonat erst erfolgen möge,
+#facs_45_r2l16 in dem Verstand und mit dem aus¬
+#facs_45_r2l17 drüklichen Befehl jedoch, daß denen
+#facs_45_r2l18 Kaufferen nichts zum Voraus zuge¬
+#facs_45_r2l19 sagt noch versprochen werden solle.
+#facs_45_r2l20 Gott mit Euch. Datum den 28ten
+#facs_45_r2l21 May 1792.

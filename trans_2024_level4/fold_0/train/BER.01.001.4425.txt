@@ -1,0 +1,32 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 24/25
+# High similarity (>=80%): 23
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4425
+#facs_95_r4l3 Ihnen die neue Formul, wie die Burgerbriefen ins¬
+#facs_95_r3l1 180.
+#facs_4_region_1628102585488_60l1 2.
+#facs_95_r4l2 Alle Herren Amtleuth des Weltschen Landes,
+#facs_95_r4l3 Ihnen die neue Formul, wie die Burgerbriefen ins¬
+#facs_95_r4l4 bünftige von den Städten ausgefertiget werden
+#facs_71_r4l12 sollen
+#facs_4_region_1628102603697_72l1 Schultheiß und Raht
+#facs_95_r4l7 Da zuweilen geschehen, daß die von verschied¬
+#facs_95_r4l8 nen Städten Weltschen Lands, uns eingesendt
+#facs_95_r4l9 Bürger Briefen, zu gonsten dererjenigen, so
+#facs_95_r4l10 Die Naturalisation begehren, mit allen Requisitio
+#facs_95_r4l11 nicht versehen sind, so haben Wir zu einführung
+#facs_95_r4l12 einer angemeßenen Uniformitat nöstig erach¬
+#facs_95_r4l13 tet, beyligendes Formular errichten zu laßen,
+#facs_95_r4l14 welches ihr samtlichen Städten Euers Amts
+#facs_95_r4l15 mit dem Befehl zu stellen werdet, nach aus
+#facs_95_r4l16 weis deßelben, ins könftig alle ihre zu gönsten
+#facs_95_r4l17 der zu Naturalisieren sich anmeldenden
+#facs_95_r4l18 fremden, uns zustellenden Bürger Briefen
+#facs_95_r4l19 einzurichten, und auch aller Orten, wo es
+#facs_95_r4l20 nöhtig seyn mag, zur genauen Befolgung ein
+#facs_95_r4l21 schreiben zu laßen. Dat. den 23ten Juny 1774
+#facs_24_region_1628255397587_277l11 en

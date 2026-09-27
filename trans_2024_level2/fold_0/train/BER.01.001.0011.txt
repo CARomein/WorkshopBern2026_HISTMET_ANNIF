@@ -1,0 +1,438 @@
+Law nr: BER.01.001.0011
+Name: Bestättigung aller des Gloubens unnd christenlicher Erberkeit halbenn vorussganngnenn Manndaten, mit etwas Anhanng unnd Lütrunng.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_479
+# Matched: 427/427
+# High similarity (>=50%): 421
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_41_r3l1 Zestättigung aller des gloubens
+#facs_41_r3l2 vnnd Christenlicher vberkeit.
+#facs_41_r3l3 halbenn vor vfgannguenn er¬
+#facs_41_r3l4 formationem vnnd manndaten etc.
+#facs_41_r3l5 Mit Etwas anhanng vnnd li¬
+#facs_41_r3l6 trüningen
+#facs_41_r3l7 Lryd, gnad, vnnd barmherthigkeit von gott dem
+#facs_41_r3l8 allmechtigenn, Durch sinenn Eingebornen Sun¬
+#facs_41_r3l9 Christum Jesum vnnseren Einigenn Heylland
+#facs_41_r3l10 Winnsthenn wir Schulltheis Rat vnnd burger
+#facs_41_r3l11 Der Stat Bern, allenn vnnd Jedenn vnnserm
+#facs_41_r3l12 Amptluttenn, vnnd vnnderthaneuen Wie die
+#facs_41_r3l13 namenn hannd die vnnß Oberkeit halb zu
+#facs_41_r3l14 versprachtenn, vnnd vorwalltynn stannen für¬
+#facs_41_r3l15 gelieptenn Im Herrnn, Wiewol wir nach
+#facs_41_r3l16 dem Christennlichenn gespräch allhie In vnser
+#facs_41_r3l17 Stat gehaltenn v/d bericht gottes wort vil
+#facs_41_r3l18 vnnd manncherley mandattenn zu pflanthung
+#facs_41_r3l19 Christennlicher zucht, vnnd Erbeeckeit, vf gan¬
+#facs_41_r3l20 lassen, wil vnnß doch bedunnckenn, Warde nu
+#facs_41_r3l21 onch des taglich bericht, Das derselbenn nit
+#facs_41_r3l22 wolle nachthomenn, noch gelept wordenn, Da
+#facs_41_r3l23 cab wir sounders hoch bedurerens, vnnd vnns
+#facs_41_r3l24 zum hochstenn behartziget, dadurch wir, als
+#facs_41_r5l1 37
+#facs_41_r5l2 Ein Christennliche Obercheit, dero nit allein zustat
+#facs_41_r5l3 Vsserlicher Diungenn, sonnders auch des glaubenus
+#facs_41_r5l4 halb, doch allein nach dem richtsthyt göttliche
+#facs_41_r5l5 Worts ordnungenn zemachtenn, verursachet In¬
+#facs_41_r5l6 sachenn zethund, damit die ter gottes vnnd stu¬
+#facs_41_r5l7 heilsam wort gefurdert Christennliche Ersam¬
+#facs_41_r5l8 keit gepflanntzet, vnnd die liebi, so Je tiner den
+#facs_41_r5l9 anndernn erzeigenn sol gemeinet wordenn, harums
+#facs_41_r5l10 vnnd von des wagenn vnnser ernstig will, mei
+#facs_41_r5l11 munng, vnnd gepiettenn Ist, das Ir all sampt vnd
+#facs_41_r5l12 sonnders, so an leerenn vnnd amptern sitzemt,
+#facs_41_r5l13 Kreptburg
+#facs_41_r5l14 vnnd dem pmeinenn volck furgscht stund, by
+#facs_41_r5l15 Uwern gesthwornenn tijdenn, vnnd verlierung
+#facs_41_r5l16 vwer amptern, terenn vnnd dienstenn darob
+#facs_41_r5l17 Unnd daran sijemit vnnd hatttyuet, Das allenn
+#facs_41_r5l18 vnnd jecklichenn vnnserm des glaubenshals vs:
+#facs_41_r5l19 gannguenn mann datenn vnnd ordnungenn, ge¬
+#facs_41_r5l20 stracks nachkhomenn, vnnd gelept warde, an alles
+#facs_41_r5l21 hinndersich sachenn, an menngklichs widerreden
+#facs_41_r5l22 Intrap vnnd gunderunng, Hinwiderums Ir die
+#facs_41_r5l23 vnderthanenn vnnß vnnd vnnsernn amptluttenn,
+#facs_41_r5l24 onnder¬
+#facs_41_r5l25 In sollichem gehorsam vnnd gewertig sijent, als
+#facs_41_r5l26 Hannen
+#facs_41_r5l27 lieb vth allenn Ist vnnser schwaze straff vnd
+#facs_41_r5l28 ungnad zeuermijdenn
+#facs_42_r1l1 Bestättiguung aller des gloubens
+#facs_42_r1l2 vnnd Christenlicher werkeit
+#facs_42_r1l3 halbenn vor vfgannguenn re¬
+#facs_42_r1l4 formationem vnnd manndaten
+#facs_42_r1l5 Reforman.
+#facs_42_r1l6 Mit Etwas anhanng vnnd lu
+#facs_42_r1l7 truningh
+#facs_42_r1l8 wijd gnad, vnnd barmhertzigkeit von gott dem
+#facs_42_r1l9 allmechtigenn, Durch sinenn Eingebornen Sun¬
+#facs_42_r1l10 Christum Jesum vnnsern Einngenn Heyllanden
+#facs_42_r1l11 Winnsthenn wir Schulltheis Rat, vnnd burger
+#facs_42_r1l12 Der Stat Bern, allenn vnnd Jedenn vnnserm
+#facs_42_r1l13 Amptluttenn, vnnd vnnderthanen Wie Die
+#facs_42_r1l14 namenn hannd die vnnß Oberkeit halb ze¬
+#facs_42_r1l15 versprachtenn, vnnd verwalltenn stannen Fur¬
+#facs_42_r1l16 gelieptenn Im Herrnn, Wiewol wir nach
+#facs_42_r1l17 dem Christennlichenn gespräch allhie In vnsec
+#facs_42_r1l18 Stat gehabltum V s bericht gottes wort vie
+#facs_42_r1l19 unnd manncherley mandattenn zu pflantzung,
+#facs_42_r1l20 Christennlicher zucht, vnnd tweeckent, vß gan¬
+#facs_42_r1l21 lassen, wil vnns doch bedunckenn, Waerden
+#facs_42_r1l22 doch des täglich bericht, Das derselbenn nit
+#facs_42_r1l23 Wolle nachthomenn, noch gelept wordenn, Ca¬
+#facs_42_r1l24 ab wir sounders hoch bedureus, vnnd vnnß
+#facs_42_r1l25 Zum hochstenn behärtziget, dadurch wir, als
+#facs_42_r3l1 Ein Christennliche Vercheit, dero nit allein zustat
+#facs_42_r3l2 Vsserlicher diungenn, sonnders auch des glaubenm
+#facs_42_r3l3 halb, doch allein nach dem richtsheyt gottliche
+#facs_42_r3l4 Worts ordnungenn zemachenn, verursachet In¬
+#facs_42_r3l5 sachenn zethund, damit die ter gottes vnnd stu¬
+#facs_42_r3l6 heilsam wort gefurdect, Christennliche Ersam.
+#facs_42_r3l7 keit gepflauntzet, vnnd die liebi, so Je Einer dem
+#facs_42_r3l8 anndernn ergoigenn sol gemeent wordenn, harums
+#facs_42_r3l9 vnnd von des wagenn vnnser Ernstig will, mei
+#facs_42_r3l10 mung, vnnd gepiettenn Ist, das Ir all sampt vnd
+#facs_42_r3l11 Imptkut
+#facs_42_r3l12 sonders, so an leerenn vnnd amptern sitzemnt,
+#facs_42_r3l13 vnnd dem puwingen volck furgstcht stund, by
+#facs_42_r3l14 Uwern geschwornenn tyden, vnnd verlierunge
+#facs_42_r3l15 vwer ämptern, terenn vnnd dienstenn darob
+#facs_42_r3l16 Unne daran sijemit vnnd halltennt, das alleine
+#facs_42_r3l17 vnnd Jecklichenn vnnserm des glaubenshalb vss:
+#facs_42_r3l18 gannguenn mann datum vnnd ordnungenn, ge:
+#facs_42_r3l19 stracks nachkhomenn, vnnd gelept warde, an alles
+#facs_42_r3l20 hinndersich sachenn, an menngklichs widerreden
+#facs_42_r3l21 Intrag vnnd gunnerunng, hinwiderums Ir die
+#facs_42_r3l22 vunder„
+#facs_42_r3l23 vnderthanenn vnnß vnnd vnnsternn amptluttenn
+#facs_42_r3l24 thanen
+#facs_42_r3l25 In sollichem gehorsam vnnd gewertig sijent Als
+#facs_42_r3l26 lieb ich allenn Ist vnnser schwaere straff vnd
+#facs_42_r3l27 ungnad zeuermijdenn,
+#facs_43_r2l1 Zestättigung aller des glaubens
+#facs_43_r2l2 vnnd Christenlicher Werkeit
+#facs_43_r2l3 halbenn vor vf gannguenn re¬
+#facs_43_r2l4 formationenn vnnd manndaten
+#facs_43_r2l5 Mit Etwas auchaning vnnd liu¬
+#facs_43_r2l6 tenning
+#facs_43_r2l7 fryd gnad, vnnd barmherthigkeit von gott dem
+#facs_43_r2l8 allmechtigenn, Durch sinenn Eingebornen Sun¬
+#facs_43_r2l9 Christum Jesum vunsern Einigenn Heyllanden
+#facs_43_r2l10 Winnsthenn wir Schulltheis Rat vnnd burger
+#facs_43_r2l11 Der Stat dern allein vnnd Jedenn vnnsernn
+#facs_43_r2l12 Omptluetenn, vnnd vnnderthanen Wie Die
+#facs_43_r2l13 namenn hannd, die vnnß Oberkeit hals ge
+#facs_43_r2l14 versprachenn, vnnd vorwalltenn stannen fur¬
+#facs_43_r2l15 gelieptenn Im hertnn, Wiewol wir nach
+#facs_43_r2l16 dem Christenmlichenn gespräch allhie In vnser
+#facs_43_r2l17 Stat gehalltenn Vss bericht gottes wort vie
+#facs_43_r2l18 vnnd manneherley mandattenn zu pflantzung
+#facs_43_r2l19 Christennlicher zucht, vnnd tweeckent, v ß gan¬
+#facs_43_r2l20 lassen, Wil vnns doch bedunnckenn, Warde nu
+#facs_43_r2l21 auch des taglich bericht, Das derselbenn nit:
+#facs_43_r2l22 wolle nachthomenn, noch gelept wardenn, Ca¬
+#facs_43_r2l23 ab wir sounders hoch bedurems, vnnd vnnst¬
+#facs_43_r2l24 Zum höchstenn behartiget, dadurch wir, als
+#facs_43_r4l1 Ein Christennliche Vercheit dero nit allein zustat
+#facs_43_r4l2 vsserlicher Dinnigenn, sonnders auch des glaubenns
+#facs_43_r4l3 halb, doch allein nach dem richtsheyt göttlichs
+#facs_43_r4l4 Worts ordnungenn zemachtenn, verursachet In¬
+#facs_43_r4l5 sachenn zethund, damit die ter gottes vnnd sti¬
+#facs_43_r4l6 heilsam wort gefurdert Christennliche Ersam
+#facs_43_r4l7 keit gepflauntzet, vnnd die liebi, so Je Einer dem
+#facs_43_r4l8 anndernn erzoigenn sol gemeet wordenn, harumb
+#facs_43_r4l9 vnnd von des wagenn vnnser trustig wiee, mei¬
+#facs_43_r4l10 mung, vnnd gepiettenn Ist, das Ir all sampt vnd
+#facs_43_r4l11 Amptkur
+#facs_43_r4l12 sounders, so an leerenn vnnd amptern sitzennt
+#facs_43_r4l13 0
+#facs_43_r4l14 Unnd dem puivinenn volck furgstcht stund, by
+#facs_43_r4l15 Uwern gesthwornenn tydenn, vnnd verlierung
+#facs_43_r4l16 vwer ämptern, terenn vnnd dienstenn darob
+#facs_43_r4l17 Unne daran sijemit vnnd halltenne, Das allenn
+#facs_43_r4l18 vnnd Jecklichenn vnnserm des glaubens halb vs:
+#facs_43_r4l19 gannguenn mann dateum vnnd ordnungenn, ge-
+#facs_43_r4l20 stracks nachkhomenn, vnnd geleijt worde, an alles
+#facs_43_r4l21 hinndersich sächenn an menngklichs widerreden
+#facs_43_r4l22 Intrag vnnd gunderrunnig, hinwiderumb Ir die
+#facs_43_r4l23 sonder¬
+#facs_43_r4l24 vnderthanen vnnß vnnd vnnstrun amptluttenn,
+#facs_43_r4l25 Hannen
+#facs_43_r4l26 In sollichem gehorsam vnnd gewertig sijent als
+#facs_43_r4l27 lies ich allenn Ist vnnser schwaere straff vnd
+#facs_43_r4l28 ungnad zeuermijdenn,
+#facs_44_r1l1 Schwerin
+#facs_44_r1l2 getoberster
+#facs_44_r1l3 spel
+#facs_44_r1l4 Kleider
+#facs_44_r1l5 Zeit straffe
+#facs_44_r1l6 tannage
+#facs_44_r1l7 Begouemt
+#facs_44_r2l1 Denamptlich Ist sich allenn wol zewissenn, was die
+#facs_44_r2l2 Brennungenn vnnd manndatenn des vnzimlichenn
+#facs_44_r2l3 Thiverens, vnnd gtslesterens, spilens, zu trinn¬
+#facs_44_r2l4 tenns, vnzimlichenn gereus, Suffens vnnd pra¬
+#facs_44_r2l5 Penns schlaffermuckenn vnnd vberassenne, ouch
+#facs_44_r2l6 vnseger vnerbernn tann zuus zerhouwnenn vp:
+#facs_44_r2l7 vigenn thleydernn zu gabennt, die aber bis¬
+#facs_44_r2l8 har gar wenig geachtet Ja verspottet sinnd
+#facs_44_r2l9 wordenn, Das vnnß nit lydemlich wie sin,
+#facs_44_r2l10 Wytter tragennnt Ir put wussenn was die
+#facs_44_r2l11 ordnung des Chorgrichts Inhalltet, dero aber
+#facs_44_r2l12 int will stat gabenn wardenn, furnämlich
+#facs_44_r2l13 das die zwen vff sächer In einer Jedenn Kilch¬
+#facs_44_r2l14 hörj, die sampt dem pfarret vff huoy vnnd
+#facs_44_r2l15 lebruch zu achtenn verordnet sind, demselbenn
+#facs_44_r2l16 bruelch nit wöllennt nachkhomenn, Ist vnser
+#facs_44_r2l17 Ernstlich will, Das In jrcklicher ChilchoxI
+#facs_44_r2l18 Zwen Erber man geordnet, Denenn In Eydepflicht
+#facs_44_r2l19 gebunndenn werde, Söllichem vffsachenn, vnd
+#facs_44_r2l20 vermanenn trinwlichenn nachgepand, vnnd Nie¬
+#facs_44_r2l21 mants darinne zeuersthonenn, Wann aber die
+#facs_44_r2l22 personenn, So sij allso von huwij, ebruch, vnd
+#facs_44_r2l23 anndernn grossem lasteren, die aber nit So gar
+#facs_44_r2l24 offenbar waremit zestan brudwlichenn ver¬
+#facs_44_r2l25 manndtsmit, darab mit wolltennt thun
+#facs_44_r2l26 Alldann so bemnt sy dieselbenn, vnnd ouch
+#facs_44_r2l27 die khuuntlichenn huver vnd gebrecher vnsernn
+#facs_44_r4l1 37
+#facs_44_r4l2 amptluittenn, oder der Herrschafft, die Sy darum
+#facs_44_r4l3 straffenn sollennt, by Irenn Tijdenn angäben
+#facs_44_r4l4 Ob aber die an der straff sinnig wolltenn sin¬
+#facs_44_r4l5 Unnß als der Werckert, oder vnnserm Chorgricht
+#facs_44_r4l6 furbrinnigenn, die nach Irem verdienen zestraffen
+#facs_44_r4l7 vnnd alsdann In Ettlich Ehilchörinenn von zwöyen,
+#facs_44_r4l8 Dryenn, oder me gerichten, khilchglossenn sind, Die
+#facs_44_r4l9 nun zu vffenthalt, vnnd schirm Irer lasterum von
+#facs_44_r4l10 Einem gericht In das annder louffenn, vnnd also
+#facs_44_r4l11 die vermanuung vnnd straff fluchennt, vnnnd
+#facs_44_r4l12 vermeinennt, die zwen vffsächer der gemeinenn
+#facs_44_r4l13 Chilchörj, habint sij int wytter te rachtfertiginn,
+#facs_44_r4l14 Söblichem alafanntz vnnd vnuweschlouff vor zesen,
+#facs_44_r4l15 Wollenn wir, das die zwen verordnettenn gemei¬
+#facs_44_r4l16 nes Khilchspels, sampt dem pfarrer macht vnd
+#facs_44_r4l17 gwalt söbleunt habenn, so blichenn personenn nach¬
+#facs_44_r4l18 zeiagenn In wöllichenn gerichtenn desselbigenn Khilch:
+#facs_44_r4l19 spels sy Joch gesässenn, oder geflochenn hyent Denen
+#facs_44_r4l20 Sy ouch gebhorsam sin sollent, ob aber söllich perso¬
+#facs_44_r4l21 nenn sich des khilchspels ganntz vsseren wurde,
+#facs_44_r4l22 sollennt mit destermiunder die verordnettenn die¬
+#facs_44_r4l23 selbenn abgetratnenn dem pfarrer vnnd verordnetten
+#facs_44_r4l24 des khilchspels, da sy sich inderlassenn wurdent
+#facs_44_r4l25 an Joigenn Damit an den ortenn glijcberwys als
+#facs_45_r1l1 ob sij nit gewichenn wider Sy nach vermog v/z
+#facs_45_r1l2 gannyner reformation gehanndlet, vnnd allen
+#facs_45_r1l3 thalbenn In vnnserm Stettenn, Lanndenn vnd
+#facs_45_r1l4 gepieternn sollich laster gestrafft wordennt.
+#facs_45_r1l5 empt lec b gerns wort hulle
+#facs_45_r1l6 Zum anndern, dwyl got der allmechtig vnnß
+#facs_45_r1l7 Vnnd vth gemeinlich mit dem liecht vnnd
+#facs_45_r1l8 glauntz sine xnadrychenn worte beschinnenn
+#facs_45_r1l9 Will die vnuermydenliche notturfft Er¬
+#facs_45_r1l10 uordernn, Das wir, ouch all annder, vnnser
+#facs_45_r1l11 vnnderthanenn, die dem xmemenn volck vorstand
+#facs_45_r1l12 an regimenn denn ampternn vnnd terenn sitzent¬
+#facs_45_r1l13 Es syrunt Schultheis, Surgenmeyster, Rat, burger
+#facs_45_r1l14 Ewinngheroum, vijt, tsthachtlan vanner Stat:
+#facs_45_r1l15 hallter Fryweibele gerichtsassenn Omman¬
+#facs_45_r1l16 vnnd annder, wie die peneinpt mogennt worden,
+#facs_45_r1l17 Mit grossem flyss vnnd ernst ob Gottes wort
+#facs_45_r1l18 haltinnt Dasselbig mit gottes hilff vnnd xnae
+#facs_45_r1l19 alles Ire vermogens mit ganntheuntruwenn
+#facs_45_r1l20 Dapfferliche gemuts aus alles mönnsthlich Ennt
+#facs_45_r1l21 setzenn vngespatts lyks vnnd guts gemeinlich vnnt
+#facs_45_r1l22 sonderlich schutzinnt schirmint, vnnd gannet
+#facs_45_r1l23 habint, Dat wider nit ratinne, thuent noch
+#facs_45_r1l24 hanneliunt, heimlich old offennlich In kein wys
+#facs_45_r1l25 noch woig.
+#facs_45_r1l26 unnd damit niemants verargwo:
+#facs_45_r2l1 net worde, demselbenn wader mit wortenn, warckenn
+#facs_45_r2l2 38
+#facs_45_r2l3 noch gemut widrig, So sollcunt all vnnd Jegklich ob:
+#facs_45_r2l4 bemellt personenn sich mit annderm gemeinem volck
+#facs_45_r2l5 Zu dem wort vnnd tisch gottes furdernn, Vnnd sich
+#facs_45_r2l6 damit Jos gloubens bezugenn, Ob aber Iemannte waere
+#facs_45_r2l7 der sollichs nit thun wolte, der vnnd dieselbigenn
+#facs_45_r2l8 sollennt zu kleinenn Verenn, als zu gericht Rat.
+#facs_45_r2l9 noch zu annuerum amptern gelassenn, noch gebracht
+#facs_45_r2l10 wardenn, deß glijchenn die bißhar noch nie waier
+#facs_45_r2l11 zue predig noch zu dem tisch gots ganngenn sunden
+#facs_45_r2l12 wann sy zu disonn Österlichenn zytenn sich nit tr
+#facs_45_r2l13 zöggenn, wie annder Christan liet, mit zugang des
+#facs_45_r2l14 herrnn nachtmals, die sollennt biß vff khuuntlich
+#facs_45_r2l15 besserung stillgestellt wordenn,
+#facs_45_r2l16 Wir wöllent
+#facs_45_r2l17 aber hieby Christennlicher meynung Jederman ge
+#facs_45_r2l18 Warnet habenn sich der glysmery zeuechüttenn
+#facs_45_r2l19 Namlich, das niemants sich fur Einen gläubigenn
+#facs_45_r2l20 vnnd liebhaber der warheit, damit Er zu Errenn
+#facs_45_r2l21 vnnd amptern gefurdert würde, mit usserlichenn
+#facs_45_r2l22 gepardenn schönge vnnd als Ein Christ Darstello
+#facs_45_r2l23 vnnd aber Im herthenn annders gesinnet sie, Wie
+#facs_45_r2l24 Dann bißhar leyder, Im Sanstumb vil besthächen
+#facs_45_r2l25 Da merthheyl luttenn zum Sacrament, von weltlicher
+#facs_45_r2l26 sthanne wagenn ganngenn sinne
+#facs_45_r2l27 vnndt der predigkein Rhat
+#facs_45_r2l28 Sodenne Ist vnnser will vnnd meynung, das vnder
+#facs_46_r1l1 der predig kein rat noch annder versamlunng ge:
+#facs_46_r1l2 halltenn, Es ware dann sach Das Etwas Jufiele,
+#facs_46_r1l3 So Stat vnnd lann d berurten vund aus geuar In
+#facs_46_r1l4 Loechug nit mochte gestellt wordenn, Es sol ouch
+#facs_46_r1l5 niemannts den aundern ab der predig fürenn
+#facs_46_r1l6 gemein volck perdig.
+#facs_46_r1l7 Als gemeinenn volcks halb die dem Regiment
+#facs_46_r1l8 nit vorstanden noch ampter verwalltenn, Ist vnser
+#facs_46_r1l9 Ernstig begar, vermanenn vnnd gepiettenn, Das
+#facs_46_r1l10 dieselbenn sich vorab am Sonnemitag zu der xxx
+#facs_46_r1l11 dig verfügimmt, damit man aber nit sagenn
+#facs_46_r1l12 mog, wie wollinnt Iemannte zum gloubenn
+#facs_46_r1l13 zwiungenn, wer nit zur predig gan wie, der
+#facs_46_r1l14 see sich In sinem huß darzwusthenn Ennt¬
+#facs_46_r1l15 haltenn, vnnd dherns wags vff den khilch¬
+#facs_46_r1l16 höffenn, In wirts huseren, vnnd gesolesthafften
+#facs_46_r1l17 gemeinenn gassenn, strassem oder an sonderim
+#facs_46_r1l18 versamluungenn finnden lassenn, Alles by
+#facs_46_r1l19 funnff stillinnng rachter bus, wöllich bussen,
+#facs_46_r1l20 die weybell vnnd Sigristenn In Stat vnnnd
+#facs_46_r1l21 lanne van den uberträtte undenn an alles
+#facs_46_r1l22 nachlassenn beziechenn vnnd glychlichenn Mit¬
+#facs_46_r1l23 Einanndernn teyllenn sollennt
+#facs_46_r1l24 Fyrtag
+#facs_46_r1l25 Zum Drittenn, Wiewol wir der fyrtagenn hals
+#facs_46_r1l26 Ein ordnung gemacht vnd aber bedacht, vnnd
+#facs_46_r3l1 37
+#facs_46_r3l2 Ougennschynlich gesächemnthannd, das der mussig
+#facs_46_r3l3 ganng zu meinung der lasteru dienet zu dem, Das
+#facs_46_r3l4 Tot int mer dann Einen versun vnnd ruwtag,
+#facs_46_r3l5 Namlich den Sonnentag geordnet, habenn wie den
+#facs_46_r3l6 selbigenn belybenn lassenn vnnd darzu den wie¬
+#facs_46_r3l7 nacht tag die beschuyduung Christi vnnsers herrn
+#facs_46_r3l8 das Ist das nuw Jar, Die verckhuundunng siner
+#facs_46_r3l9 monnstgewarduung der reynenn Junickfrouwen
+#facs_46_r3l10 Marie, Durch den Enngell gottes beschächenn, Die
+#facs_46_r3l11 Doffart desselbigenn vnnsers säligmachers, Vff
+#facs_46_r3l12 denselbenn tagenn, sol Jederman der apbeit stillstan¬
+#facs_46_r3l13 vnnd sich zum wort gottes verfügenn, darinne
+#facs_46_r3l14 dann furnemlich die furtagenn gesetzt sinnd
+#facs_46_r3l15 vnnd nit der meynung, das Ein tag heybliger,
+#facs_46_r3l16 dann der annder we, vnnd also all annder fijc:
+#facs_46_r3l17 tagenn abgestellet, Aber der Zwölff pottenn tag
+#facs_46_r3l18 söblenn die predicantenn verckhuundenn zu Mer¬
+#facs_46_r3l19 kunnen des zets vnnd abec. Zefijrenn int gepotten
+#facs_46_r3l20 warde mij
+#facs_46_r3l21 khijlwe
+#facs_46_r3l22 und alsdann die Khilwychinen vom Sapstums, Ja
+#facs_46_r3l23 vom Ceremonischenn Judemuthumb, das aber gar
+#facs_46_r3l24 vffgehept ist, harfliessennt, vff wöblichenn ouch
+#facs_46_r3l25 wil büberyen verbracht wordenn, willenn wir dieselbi¬
+#facs_46_r3l26 genu-ganntz vnnd gar abgestellt habenn, by zächsen
+#facs_46_r3l27 Pfund bus von Einem man, von trine frouwen funff
+#facs_46_r3l28 pfunden, vnd die spielent so vff sollich Chiewinen zuchent
+#facs_46_r3l29 Ihrer amptern Entsetzenn
+#facs_47_r2l1 Sild Caprellin
+#facs_47_r2l2 So dann die velld Capellen sollennt you abge-
+#facs_47_r2l3 schlissenn, damit aller argwon der abgöttery
+#facs_47_r2l4 Hingenomenn waïde.
+#facs_47_r2l5 dwelcke pfarren
+#facs_47_r2l6 Zum Vierdenn Dwyl nach vermog gottes wort
+#facs_47_r2l7 Die le Jederman Erloupt, vnnd deßhalb den
+#facs_47_r2l8 pfarrerun nit sol noch mag abgestrickt werden,
+#facs_47_r2l9 vnnd aber vornacher die stifftenn Clöster, vnd
+#facs_47_r2l10 annder lachenn herrnn die abgestorbnenn pfar¬
+#facs_47_r2l11 rer trerpt, habenn wir sollichs ganntz vnnd
+#facs_47_r2l12 gar, In ansachenn, das Sy vff keiner pfrud be-
+#facs_47_r2l13 stättiget wärdenn, vffgehept, Allso, das die
+#facs_47_r2l14 pfacier, wann sij mit tod abgand, jrs verlas¬
+#facs_47_r2l15 nenn guts halb gefryet syrunt, das sölliche Ir
+#facs_47_r2l16 gutter Irrnn thuindenn, wybern vnnd Erbenn
+#facs_47_r2l17 vnnd keins wags den lachennherrnn, nach stat
+#facs_47_r2l18 vnnd lanndtracht heimfallenn sollennt, Doch
+#facs_47_r2l19 Damit Etwas Erckhanntnuß der lächemnsthafft
+#facs_47_r2l20 vnnß vnnd anndern soundrigenn # lächen herrn
+#facs_47_r2l21 die khilchennsäth In vunsern Oberkeitten hand,
+#facs_47_r2l22 nach billicheit beschäche, So habenn wir gesetzt
+#facs_47_r2l23 das ein Jeder pfarret, der von vnnß oder
+#facs_47_r2l24 anndern sondrigenn lachens herrn belechnet
+#facs_47_r2l25 Ist, Järlichenn vfrichtenn vnnd gabenn solle,
+#facs_47_r2l26 Als lanng Er die pfrud nutzet, von hundert
+#facs_47_r2l27 pfundenn, zächen stilliung, vnnd allso nach
+#facs_47_r3l1 8
+#facs_47_r3l2 machzal des corpus mec oder minder, vnnd nit
+#facs_47_r3l3 wytter schuldig, Sonnders damit sins verlasnenn
+#facs_47_r3l4 Onts fry sim
+#facs_47_r3l5 predicanten Anderwand¬
+#facs_47_r3l6 und alsdann Ettlich mutwillig hit den predi¬
+#facs_47_r3l7 cantenn offennlich widerredennt, vnnd auch sust
+#facs_47_r3l8 heimlich Ir bere schäbltennt, by schmachennt, vnd
+#facs_47_r3l9 verachtennd wolle mit wir das soinlich sachenn,
+#facs_47_r3l10 So den gloubenn vnnd wort gottes beruceunt nach
+#facs_47_r3l11 lut vor vfgannguenn Mandats hoe fur vnnser
+#facs_47_r3l12 Chopgricht gewesenn, vnnd degeine weigs an vsser
+#facs_47_r3l13 lichenn gerichtenn gericht vertiget wardint, was
+#facs_47_r3l14 aber sachenn stund, die lijs vnnd gut vand vsserli¬
+#facs_47_r3l15 the dinng berureunt die sölleunt vor Irenn ordn¬
+#facs_47_r3l16 lichenn rächtenn Emitstheydenn wordenn,
+#facs_47_r3l17 pfarrez vogt
+#facs_47_r3l18 Damit aber die predicantenn dest ruwiger vnd ge¬
+#facs_47_r3l19 flissner den buchern vnnd heiliger gesthafftt
+#facs_47_r3l20 obligeunt mögimmt, vnnd der pfrundhufer In buw
+#facs_47_r3l21 vnnd lerenn gehaltenn wardinnt, So Ist gentzlich
+#facs_47_r3l22 vnnser will, Das Einem Jedem pfarvee Ein
+#facs_47_r3l23 Logt vnnd bystaünder In siner pfarr gäbenn, unnd
+#facs_47_r3l24 zugeordnet würde, der Ime beholeffen vnnd be¬
+#facs_47_r3l25 catenn sije, In Vsserlichenn Dinnigenn, Es sijnde des
+#facs_48_r1l1 Geist pfrau
+#facs_48_r1l2 können
+#facs_48_r2l1 pfrud wedem Inkhommenn gerächtickeit vnnd
+#facs_48_r2l2 zu gehörd gebehalltenn mit oder aus recht Inze¬
+#facs_48_r2l3 zuchern vnnd sunst alles das Zethund So Einem
+#facs_48_r2l4 cruwenn vogt zustat, des dieselbenn vögt ouch Ei¬
+#facs_48_r2l5 nenn gelertenn Eyd thun sollennt, darzu vffsä¬
+#facs_48_r2l6 chenn habenn, das der pfacrenn huiser vnnd gü¬
+#facs_48_r2l7 tter In buw vnnd treuen gehaltenn, Als
+#facs_48_r2l8 aber die pfarrpfrüundenn In vnnseren lanndenn
+#facs_48_r2l9 vnnd gepiettenn gar vnglyck kund, da Erne
+#facs_48_r2l10 zemel, die aunndre zu wenig Inkhomenns hat
+#facs_48_r2l11 Sol In sollichem glijckmässigunng durch die col¬
+#facs_48_r2l12 latores gemacht wordenn, Also, wo zu wenig Ist,
+#facs_48_r2l13 das die pfarcer Ir zimliche lybs nacumig nit ge¬
+#facs_48_r2l14 habenn mogennt, das hinzu gethan wo aber
+#facs_48_r2l15 vberfluss Ist daruon genomen würde
+#facs_48_r2l16 Kryss pfaran
+#facs_48_r2l17 suiret, wiewol die pfarren, wie annder vnnser ge¬
+#facs_48_r2l18 mein vunderthanenn, schuldig sinnd zu vnsern
+#facs_48_r2l19 reystenn zegand, lieb vnnd leyd mit vnnß ze¬
+#facs_48_r2l20 lydenn, vnnd annder gemein beladnussenn zetra¬
+#facs_48_r2l21 genn, wollennt wir doch den gefärdenn, So hievor
+#facs_48_r2l22 mit Insin gebrucht ist, furkhomenn, namlich
+#facs_48_r2l23 Wann to sich begabenn wirt, daruor got lanng
+#facs_48_r2l24 Sye, Das wir reysenn müssenn, So sollenut vn¬
+#facs_48_r3l1 39
+#facs_48_r3l2 ser amptlut acht habenn, das In dem Vlizug der pen:
+#facs_48_r3l3 secum kein genard gebrucht warde, Also das vss
+#facs_48_r3l4 widerwillenn trath vnnd schmach mer pfarrer,
+#facs_48_r3l5 vß zogenn, dann aber die anzal trinordert, sonder
+#facs_48_r3l6 Das die pfarrer nit wytter beladenn, dann annder
+#facs_48_r3l7 vnnd allso der Reyszug glijchlichenn vmbgange
+#facs_48_r3l8 wie das von alter hac gebrucht ist
+#facs_48_r3l9 Vnnd
+#facs_48_r3l10 besonnders sollennt vnnser amptlut In sollichem
+#facs_48_r3l11 versachenn, das nit Zeuil pfarren vp tiner herr:
+#facs_48_r3l12 schafft, oder laundtschafft zu veysenn vß gescho¬
+#facs_48_r3l13 senn wardinnt, damit die biderbeunlut, So an¬
+#facs_48_r3l14 Heimsth blybennt dazwusthenn int an hirtenn
+#facs_48_r3l15 syemit, darumb so sol gelagennheit der khilch¬
+#facs_48_r3l16 spellen nöche vnnd verre In söllichem angesachen
+#facs_48_r3l17 Wärdenn, dadurch die pfarrer, So anheimsth be¬
+#facs_48_r3l18 lybrunt, die So vf zuchennd In Irenn pfarrenn
+#facs_48_r3l19 is sije mit khinne thouffenn, predixenn vnnd
+#facs_48_r3l20 annderm verwasenn mogiunt, Es sol ouch dise
+#facs_48_r3l21 ordnung In allenn pfarrenn offennlich xv:
+#facs_48_r3l22 läsenn wordenn, Jeder sich dar nach wussenn
+#facs_48_r3l23 Zehaltenn
+#facs_48_r3l24 Actum per Aprilis Anno etc.
+#facs_48_r3l25 exclo

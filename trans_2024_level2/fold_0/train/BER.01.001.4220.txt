@@ -1,0 +1,98 @@
+Law ID: BER.01.001.4220
+Name: Sie der königl. französischen Verordnung in Ansehen der Landläuffer und Bettler berichten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 87/87
+# High similarity (>=50%): 85
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_191_r3l1 An
+#facs_191_r3l2 Die H. Amtleüth zu Bonmont, Neüer, Anbonne,
+#facs_191_r3l3 Morsen, Romainmotier, Ifterten, Nidau und Erlag
+#facs_191_r3l4 Sie der königl. Französischen Verordnung in ansehen de¬
+#facs_191_r3l5 Landläusser und Bestler berichten.
+#facs_191_r3l6 9
+#facs_191_r3l7 Stadthalter und Rath
+#facs_191_r3l8 Copeÿliche Einlag wird Euch zeigen, was für eine Ver¬
+#facs_191_r3l9 ordnung von seiten Ihro Allerchristl. Mayestät in
+#facs_191_r3l10 Franckreich, in betreff der Landläufer und Stettler
+#facs_191_r3l11 in ganzen Königreich ergangen, und die nach dersel¬
+#facs_191_r3l12 oben diesere Vagabonds angesehen werden sollen; so
+#facs_191_r3l13 nun zu beförchten ist, daß vermittelst derselben
+#facs_191_r3l14 eine Menge dieser Leüthen sich in Unsere Land ver
+#facs_191_r3l15 fen könten; als haben Wir, um dieserem Verfahl
+#facs_191_r3l16 zukommen, Uns bemüßiget gesehen, hierüber eine
+#facs_191_r3l17 Landtvätterliche Vorkehr zu thun. Wir bollen demnach
+#facs_191_r3l18 Euch hiedurch anbefehlen, durch die Maréchaussée
+#facs_191_r3l19 Eüers Amts auf denen Brenzen scharft patron
+#facs_191_r3l20 lieren zu laßen; solte dann Euch dergl. Leüte zugeführ¬
+#facs_191_r3l21 berden, welche ohne Pähr oder anderbärtige glaubt
+#facs_191_r3l22 dige Attestationen versehen wären, so beedet Ihr dieselben
+#facs_191_r3l23 alsobald wieder auf die Grenzen gegen Frankreich führt
+#facs_191_r3l24 uns denen Mauspersohnen etbann 20. Prügel administrieren le¬
+#facs_191_r3l25 mithin Ihnen zugleich verdeuten, daß, wann Sie sich wider blieben ließ
+#facs_191_r3l26 Sie mit härterer straff werden angesehen wenden. Dat. d. 20ten Sept.
+#facs_191_r5l1 luin.
+#facs_191_r5l2 Extrait de la Declaration du Roy de France, du 3e aoust
+#facs_191_r5l3 1764. concernant les Mendiants, Vagabonds et Gens sans
+#facs_191_r5l4 aveu.
+#facs_191_r5l5 Declaration du Roy du 3e aout 1764 composée de 8. article
+#facs_191_r5l6 par laquelle il est ordonné, que dans deux mois, à compte
+#facs_191_r5l7 du jour de la publication, les Vagabonds et Gens sans
+#facs_191_r5l8 aveu, mendiants et non mendiants, seront arretés par
+#facs_191_r5l9 tout le Royaume, et conduits dans les Prisons du lieu
+#facs_191_r5l10 où se trouvera établi le siége de la Maréchaussée, d'ou¬
+#facs_191_r5l11 dépendra la Brigade qui en aura fait la Capture:
+#facs_191_r5l12 Qu'on réputera vagabonds et Gens sans aveu, ceux
+#facs_191_r5l13 que, depuis six mois révolus, n'auront exercé ni
+#facs_191_r5l14 profession ny métier, et qui n'ayant aucun état
+#facs_191_r5l15 ny aucun bien pour subsister, ne pourront être avouer
+#facs_191_r5l16 ou faire certifier de leur vie et moeurs par personnes.
+#facs_191_r5l17 dignes de foy: que Ceux qui seront arretés aprés le dite
+#facs_191_r5l18 delai de deux mois, sans être prévenus d'aucun autre
+#facs_191_r5l19 Crime ou délit, seront condamnés, savoir les Homes
+#facs_191_r5l20 valides de 16 ans et au dessus jusqu'à 70 ans comen
+#facs_191_r5l21 ces à 3. ances de Galere, et Ceux de 70 ans et au
+#facs_191_r5l22 dessus, ainsi que les Infirmes, les femmes et les Filles
+#facs_191_r5l23 à être enfermés pendant le même tems de 3 anées
+#facs_192_r2l1 années dans l'hôpital le plus prochain; et qu'à
+#facs_192_r2l2 l'égard des enfants au dessous de 16 ans, ils seront
+#facs_192_r2l3 envoyés dans les Hôpitaux, pour y être instruits
+#facs_192_r2l4 cleves et nourris; que les dits Vagabonds et Gens:
+#facs_192_r2l5 sans aveu seront tenus à l'Expiration du termi
+#facs_192_r2l6 de leur Condamnation, de choisir un Domicile fixé
+#facs_192_r2l7 A certain, et de s'y occuper de quelque métier ou
+#facs_192_r2l8 travail, sans neanmoins qu'ils puissent s'établir
+#facs_192_r2l9 à Paris et à 10. lieues de la Cour: que s'ils sont
+#facs_192_r2l10 arretés de nouveau, et convaincus d'avoir repris
+#facs_192_r2l11 le meme genre de Vie, ils seront condamnés, savoir
+#facs_192_r2l12 les Homes valides audessous de 70 ans, à 9. années
+#facs_192_r2l13 de Galéré, et en cas de recidive, aux Galères à Per
+#facs_192_r2l14 pétuité, et les Hommes de 70 ans et au dessus
+#facs_192_r2l15 les Infirmes, les Femmes et les Filles, à être en
+#facs_192_r2l16 fermés pendant le même tems de 9. années dans
+#facs_192_r2l17 l'hôpital le plus prochain, et en cas de récidive
+#facs_192_r2l18 à perpétuité.
+#facs_192_r4l1 An
+#facs_192_r4l2 Die H. Amtleüth zu Lenzburg, Schaubenberg, Königsfal,
+#facs_192_r4l3 den, Sipp, Castelen, Riberstein, Arburg, Anhangen
+#facs_192_r4l4 Wangen, Landthut, Burgdorf, Fraubeunnen und Thor
+#facs_192_r4l5 berg; denne 4. Städt, wie auch Brandiß, Trachselwalt
+#facs_192_r4l6 Sumißwald und Signau
+#facs_192_r4l7 Sie benachrichten, daß Lobl. Stand Luern das hierseits pro¬
+#facs_192_r4l8 nulgierte Mandat wegen den Frauen Schweinen auch
+#facs_192_r4l9 adoptiert
+#facs_192_r4l10 Schultheiß und Rath
+#facs_192_r4l11 Indemne Lobl. Stans Luern, auf die von Ant beschehene
+#facs_192_r4l12 vorstellungen beliebet, das hierseits zu abhaltung der
+#facs_192_r4l13 fremden Scheinen promulgierte Mandat auch Ihrerseits
+#facs_192_r4l14 zu adoptieren, mithin das dißörtige Commercium gegen
+#facs_192_r4l15 diesen Lobl. Stand sich geöffnet befindet, und die abge¬
+#facs_192_r4l16 forderte Scheinen nit mehr nöthig seyn werden; Als¬
+#facs_192_r4l17 haben Wir Euch davon die nachricht ertheilen, und
+#facs_192_r4l18 befehlen wollen, solches behöriger Orthen in Enberem
+#facs_192_r4l19 Amt zum Verhalt kund zu thun, und an allen behö¬
+#facs_192_r4l20 rigen Orten publicieren zu laßen. Datl. d. 1ten Oct. 1764.

@@ -1,0 +1,546 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.b> a skos:Concept ;
+    skos:notation "n01.1so.1.b" ;
+    skos:prefLabel "Feiertage / Religiöse Feste"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.c> a skos:Concept ;
+    skos:notation "n01.1so.1.c" ;
+    skos:prefLabel "Geistlichkeit"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.d> a skos:Concept ;
+    skos:notation "n01.1so.1.d" ;
+    skos:prefLabel "Gotteslästerung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.e> a skos:Concept ;
+    skos:notation "n01.1so.1.e" ;
+    skos:prefLabel "Kirchenorganisation"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.f> a skos:Concept ;
+    skos:notation "n01.1so.1.f" ;
+    skos:prefLabel "Kirchenzucht"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.g> a skos:Concept ;
+    skos:notation "n01.1so.1.g" ;
+    skos:prefLabel "Klosterwesen/Orden"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.h> a skos:Concept ;
+    skos:notation "n01.1so.1.h" ;
+    skos:prefLabel "Konfession"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.i> a skos:Concept ;
+    skos:notation "n01.1so.1.i" ;
+    skos:prefLabel "Religiöse Unterweisung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.j> a skos:Concept ;
+    skos:notation "n01.1so.1.j" ;
+    skos:prefLabel "Sekten und Ketzerei"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.1.k> a skos:Concept ;
+    skos:notation "n01.1so.1.k" ;
+    skos:prefLabel "Sonntagsheiligung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.b> a skos:Concept ;
+    skos:notation "n01.1so.2.b" ;
+    skos:prefLabel "Aufenthalt"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.c> a skos:Concept ;
+    skos:notation "n01.1so.2.c" ;
+    skos:prefLabel "Auswanderung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.f> a skos:Concept ;
+    skos:notation "n01.1so.2.f" ;
+    skos:prefLabel "Bürgerrecht"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.g> a skos:Concept ;
+    skos:notation "n01.1so.2.g" ;
+    skos:prefLabel "Einwanderung/Ansiedlung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.h> a skos:Concept ;
+    skos:notation "n01.1so.2.h" ;
+    skos:prefLabel "Frondienste und Dienstpflichten"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.i> a skos:Concept ;
+    skos:notation "n01.1so.2.i" ;
+    skos:prefLabel "Gemeindeverfassung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.k> a skos:Concept ;
+    skos:notation "n01.1so.2.k" ;
+    skos:prefLabel "Huldigung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.l> a skos:Concept ;
+    skos:notation "n01.1so.2.l" ;
+    skos:prefLabel "Leibeigenschaft"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.m> a skos:Concept ;
+    skos:notation "n01.1so.2.m" ;
+    skos:prefLabel "Stadtverfassung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.2.n> a skos:Concept ;
+    skos:notation "n01.1so.2.n" ;
+    skos:prefLabel "Ständeordnung / Standeswesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.3.a> a skos:Concept ;
+    skos:notation "n01.1so.3.a" ;
+    skos:prefLabel "Fahrende Leute"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.3.b> a skos:Concept ;
+    skos:notation "n01.1so.3.b" ;
+    skos:prefLabel "Juden"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.3.c> a skos:Concept ;
+    skos:notation "n01.1so.3.c" ;
+    skos:prefLabel "Zigeuner"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.4.a> a skos:Concept ;
+    skos:notation "n01.1so.4.a" ;
+    skos:prefLabel "Aufwand / Luxus"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.4.b> a skos:Concept ;
+    skos:notation "n01.1so.4.b" ;
+    skos:prefLabel "Kleidung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5.a> a skos:Concept ;
+    skos:notation "n01.1so.5.a" ;
+    skos:prefLabel "Bigamie/Doppelehen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5.b> a skos:Concept ;
+    skos:notation "n01.1so.5.b" ;
+    skos:prefLabel "Ehebruch, Öffentlich"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5.c> a skos:Concept ;
+    skos:notation "n01.1so.5.c" ;
+    skos:prefLabel "Ehescheidung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5.d> a skos:Concept ;
+    skos:notation "n01.1so.5.d" ;
+    skos:prefLabel "Eheschließung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5.e> a skos:Concept ;
+    skos:notation "n01.1so.5.e" ;
+    skos:prefLabel "Familie / Eheführung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5.h> a skos:Concept ;
+    skos:notation "n01.1so.5.h" ;
+    skos:prefLabel "Inzest"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5.j> a skos:Concept ;
+    skos:notation "n01.1so.5.j" ;
+    skos:prefLabel "Prostitution/Kuppelei"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5.k> a skos:Concept ;
+    skos:notation "n01.1so.5.k" ;
+    skos:prefLabel "Uneheliche Schwangerschaft / Kinder"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.5.l> a skos:Concept ;
+    skos:notation "n01.1so.5.l" ;
+    skos:prefLabel "Unzucht"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.6.a> a skos:Concept ;
+    skos:notation "n01.1so.6.a" ;
+    skos:prefLabel "Vormundschaftswesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.1so.7.a> a skos:Concept ;
+    skos:notation "n01.1so.7.a" ;
+    skos:prefLabel "Erbschaftswesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.1.a> a skos:Concept ;
+    skos:notation "n01.2pso.1.a" ;
+    skos:prefLabel "Aberglaube"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.1.b> a skos:Concept ;
+    skos:notation "n01.2pso.1.b" ;
+    skos:prefLabel "Glücksspiel"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.1.c> a skos:Concept ;
+    skos:notation "n01.2pso.1.c" ;
+    skos:prefLabel "Grober Unfug"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.1.d> a skos:Concept ;
+    skos:notation "n01.2pso.1.d" ;
+    skos:prefLabel "Müßiggang/Verschwendung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.1.e> a skos:Concept ;
+    skos:notation "n01.2pso.1.e" ;
+    skos:prefLabel "Schauspiel"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.1.f> a skos:Concept ;
+    skos:notation "n01.2pso.1.f" ;
+    skos:prefLabel "Sperrstunde"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.1.i> a skos:Concept ;
+    skos:notation "n01.2pso.1.i" ;
+    skos:prefLabel "Umzüge/Feste"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.1.j> a skos:Concept ;
+    skos:notation "n01.2pso.1.j" ;
+    skos:prefLabel "Zutrinken/Trunksucht"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.b> a skos:Concept ;
+    skos:notation "n01.2pso.2.b" ;
+    skos:prefLabel "Duell"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.c> a skos:Concept ;
+    skos:notation "n01.2pso.2.c" ;
+    skos:prefLabel "Ehrverletzung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.d> a skos:Concept ;
+    skos:notation "n01.2pso.2.d" ;
+    skos:prefLabel "Eigentumsschutz"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.e> a skos:Concept ;
+    skos:notation "n01.2pso.2.e" ;
+    skos:prefLabel "Gartknechte"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.f> a skos:Concept ;
+    skos:notation "n01.2pso.2.f" ;
+    skos:prefLabel "Gesellschaften/Vereine"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.g> a skos:Concept ;
+    skos:notation "n01.2pso.2.g" ;
+    skos:prefLabel "Gewalttaten"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.h> a skos:Concept ;
+    skos:notation "n01.2pso.2.h" ;
+    skos:prefLabel "Hexerei/Zauberei"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.i> a skos:Concept ;
+    skos:notation "n01.2pso.2.i" ;
+    skos:prefLabel "Kriegslauf/Kriegsdienst"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.j> a skos:Concept ;
+    skos:notation "n01.2pso.2.j" ;
+    skos:prefLabel "Landfriedensbruch / Stadtfriede"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.k> a skos:Concept ;
+    skos:notation "n01.2pso.2.k" ;
+    skos:prefLabel "Militär/Soldaten"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.l> a skos:Concept ;
+    skos:notation "n01.2pso.2.l" ;
+    skos:prefLabel "Sicherung Stadt / Land"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.m> a skos:Concept ;
+    skos:notation "n01.2pso.2.m" ;
+    skos:prefLabel "Unruhen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.2.o> a skos:Concept ;
+    skos:notation "n01.2pso.2.o" ;
+    skos:prefLabel "Waffenführung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.3.a> a skos:Concept ;
+    skos:notation "n01.2pso.3.a" ;
+    skos:prefLabel "Zensur"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.4.a> a skos:Concept ;
+    skos:notation "n01.2pso.4.a" ;
+    skos:prefLabel "Amtsführung / Amtsmißbrauch"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.4.c> a skos:Concept ;
+    skos:notation "n01.2pso.4.c" ;
+    skos:prefLabel "Aufsichtspflicht"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.4.d> a skos:Concept ;
+    skos:notation "n01.2pso.4.d" ;
+    skos:prefLabel "Behördenzug"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.4.e> a skos:Concept ;
+    skos:notation "n01.2pso.4.e" ;
+    skos:prefLabel "Bekanntmachungswesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.4.f> a skos:Concept ;
+    skos:notation "n01.2pso.4.f" ;
+    skos:prefLabel "Forderungsvollstreckung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.4.g> a skos:Concept ;
+    skos:notation "n01.2pso.4.g" ;
+    skos:prefLabel "Gerichtsorganisation"@de .
+
+<https://w3id.org/rhonda/polmat/n01.2pso.4.k> a skos:Concept ;
+    skos:notation "n01.2pso.4.k" ;
+    skos:prefLabel "Zuständigkeiten Gerichte"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1.a> a skos:Concept ;
+    skos:notation "n01.3prh.1.a" ;
+    skos:prefLabel "Apotheker"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1.b> a skos:Concept ;
+    skos:notation "n01.3prh.1.b" ;
+    skos:prefLabel "Ärzte"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1.c> a skos:Concept ;
+    skos:notation "n01.3prh.1.c" ;
+    skos:prefLabel "Bader / Barbiere / Wundärzte"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1.d> a skos:Concept ;
+    skos:notation "n01.3prh.1.d" ;
+    skos:prefLabel "Badewesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1.e> a skos:Concept ;
+    skos:notation "n01.3prh.1.e" ;
+    skos:prefLabel "Bestattungswesen / Leichenbehandlung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1.g> a skos:Concept ;
+    skos:notation "n01.3prh.1.g" ;
+    skos:prefLabel "Heilmittelverkäufer / Quacksalber"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1.h> a skos:Concept ;
+    skos:notation "n01.3prh.1.h" ;
+    skos:prefLabel "Hygiene / Vorsorge"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1.i> a skos:Concept ;
+    skos:notation "n01.3prh.1.i" ;
+    skos:prefLabel "Kranke / Krankheiten"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.1.j> a skos:Concept ;
+    skos:notation "n01.3prh.1.j" ;
+    skos:prefLabel "Seuchen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.2.a> a skos:Concept ;
+    skos:notation "n01.3prh.2.a" ;
+    skos:prefLabel "Armenwesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.2.b> a skos:Concept ;
+    skos:notation "n01.3prh.2.b" ;
+    skos:prefLabel "Bettel"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.2.c> a skos:Concept ;
+    skos:notation "n01.3prh.2.c" ;
+    skos:prefLabel "Hospital/Siechenhaus"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.2.e> a skos:Concept ;
+    skos:notation "n01.3prh.2.e" ;
+    skos:prefLabel "Zucht- und Arbeitshäuser"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.3.b> a skos:Concept ;
+    skos:notation "n01.3prh.3.b" ;
+    skos:prefLabel "Fachschulen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.3.d> a skos:Concept ;
+    skos:notation "n01.3prh.3.d" ;
+    skos:prefLabel "Schule"@de .
+
+<https://w3id.org/rhonda/polmat/n01.3prh.3.g> a skos:Concept ;
+    skos:notation "n01.3prh.3.g" ;
+    skos:prefLabel "Zeitrechnung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.b> a skos:Concept ;
+    skos:notation "n01.4esp.1.b" ;
+    skos:prefLabel "Ernteordnung / Feudalabgaben"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.c> a skos:Concept ;
+    skos:notation "n01.4esp.1.c" ;
+    skos:prefLabel "Feld"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.d> a skos:Concept ;
+    skos:notation "n01.4esp.1.d" ;
+    skos:prefLabel "Flächenausbau/Landeskultur"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.e> a skos:Concept ;
+    skos:notation "n01.4esp.1.e" ;
+    skos:prefLabel "Frevel"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.f> a skos:Concept ;
+    skos:notation "n01.4esp.1.f" ;
+    skos:prefLabel "Güter"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.h> a skos:Concept ;
+    skos:notation "n01.4esp.1.h" ;
+    skos:prefLabel "Produktion"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.i> a skos:Concept ;
+    skos:notation "n01.4esp.1.i" ;
+    skos:prefLabel "Schädlingsbekämpfung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.j> a skos:Concept ;
+    skos:notation "n01.4esp.1.j" ;
+    skos:prefLabel "Tierhaltung/Tiernutzung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.k> a skos:Concept ;
+    skos:notation "n01.4esp.1.k" ;
+    skos:prefLabel "Tierseuchen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.1.m> a skos:Concept ;
+    skos:notation "n01.4esp.1.m" ;
+    skos:prefLabel "Weinbau"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.2.b> a skos:Concept ;
+    skos:notation "n01.4esp.2.b" ;
+    skos:prefLabel "Bodenschätze"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.2.c> a skos:Concept ;
+    skos:notation "n01.4esp.2.c" ;
+    skos:prefLabel "Fischfang"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.2.e> a skos:Concept ;
+    skos:notation "n01.4esp.2.e" ;
+    skos:prefLabel "Heide/Moor"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.2.f> a skos:Concept ;
+    skos:notation "n01.4esp.2.f" ;
+    skos:prefLabel "Jagd"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.3.a> a skos:Concept ;
+    skos:notation "n01.4esp.3.a" ;
+    skos:prefLabel "Manufakturen / Fabrik"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.3.c> a skos:Concept ;
+    skos:notation "n01.4esp.3.c" ;
+    skos:prefLabel "Verlagswesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.4.a> a skos:Concept ;
+    skos:notation "n01.4esp.4.a" ;
+    skos:prefLabel "Arbeiter/Tagelöhner"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.4.b> a skos:Concept ;
+    skos:notation "n01.4esp.4.b" ;
+    skos:prefLabel "Arbeitslenkung/Arbeitsförderung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.4.d> a skos:Concept ;
+    skos:notation "n01.4esp.4.d" ;
+    skos:prefLabel "Dienstboten/Gesinde"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.4.e> a skos:Concept ;
+    skos:notation "n01.4esp.4.e" ;
+    skos:prefLabel "Heimarbeit"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5.b> a skos:Concept ;
+    skos:notation "n01.4esp.5.b" ;
+    skos:prefLabel "Arbeitskräftebeschaffung / Arbeitsplatzvermittlung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5.c> a skos:Concept ;
+    skos:notation "n01.4esp.5.c" ;
+    skos:prefLabel "Bäcker"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5.d> a skos:Concept ;
+    skos:notation "n01.4esp.5.d" ;
+    skos:prefLabel "Dorfhandwerk/Landhandwerk"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5.f> a skos:Concept ;
+    skos:notation "n01.4esp.5.f" ;
+    skos:prefLabel "Gold- & Silberschmiede"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5.g> a skos:Concept ;
+    skos:notation "n01.4esp.5.g" ;
+    skos:prefLabel "Handwerksmißstände"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5.k> a skos:Concept ;
+    skos:notation "n01.4esp.5.k" ;
+    skos:prefLabel "Mühlen / Müller"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5.l> a skos:Concept ;
+    skos:notation "n01.4esp.5.l" ;
+    skos:prefLabel "Preis- & Qualitätskontrolle"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5.m> a skos:Concept ;
+    skos:notation "n01.4esp.5.m" ;
+    skos:prefLabel "Anzahl Meister & Betriebe"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.5.n> a skos:Concept ;
+    skos:notation "n01.4esp.5.n" ;
+    skos:prefLabel "Zunftwesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.a> a skos:Concept ;
+    skos:notation "n01.4esp.6.a" ;
+    skos:prefLabel "Bewirtung / Gaststätten"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.b> a skos:Concept ;
+    skos:notation "n01.4esp.6.b" ;
+    skos:prefLabel "Fürkauf"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.c> a skos:Concept ;
+    skos:notation "n01.4esp.6.c" ;
+    skos:prefLabel "Handelsbedingungen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.d> a skos:Concept ;
+    skos:notation "n01.4esp.6.d" ;
+    skos:prefLabel "Hausierer / Krämer"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.e> a skos:Concept ;
+    skos:notation "n01.4esp.6.e" ;
+    skos:prefLabel "Kaufleute"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.f> a skos:Concept ;
+    skos:notation "n01.4esp.6.f" ;
+    skos:prefLabel "Konsumlenkung"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.g> a skos:Concept ;
+    skos:notation "n01.4esp.6.g" ;
+    skos:prefLabel "Markt / Messe"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.i> a skos:Concept ;
+    skos:notation "n01.4esp.6.i" ;
+    skos:prefLabel "Monopole"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.k> a skos:Concept ;
+    skos:notation "n01.4esp.6.k" ;
+    skos:prefLabel "Ungeld/Akzise"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.6.o> a skos:Concept ;
+    skos:notation "n01.4esp.6.o" ;
+    skos:prefLabel "Zölle"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.7.a> a skos:Concept ;
+    skos:notation "n01.4esp.7.a" ;
+    skos:prefLabel "Judenwucher"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.7.b> a skos:Concept ;
+    skos:notation "n01.4esp.7.b" ;
+    skos:prefLabel "Konkurs/Bankbruch"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.7.c> a skos:Concept ;
+    skos:notation "n01.4esp.7.c" ;
+    skos:prefLabel "Kreditwesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.7.d> a skos:Concept ;
+    skos:notation "n01.4esp.7.d" ;
+    skos:prefLabel "Münzwesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.4esp.7.e> a skos:Concept ;
+    skos:notation "n01.4esp.7.e" ;
+    skos:prefLabel "Wucher"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.1.a> a skos:Concept ;
+    skos:notation "n01.5ldp.1.a" ;
+    skos:prefLabel "Brücken"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.1.b> a skos:Concept ;
+    skos:notation "n01.5ldp.1.b" ;
+    skos:prefLabel "Brunnen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.1.d> a skos:Concept ;
+    skos:notation "n01.5ldp.1.d" ;
+    skos:prefLabel "Flüsse"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.1.e> a skos:Concept ;
+    skos:notation "n01.5ldp.1.e" ;
+    skos:prefLabel "Gräben"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.1.f> a skos:Concept ;
+    skos:notation "n01.5ldp.1.f" ;
+    skos:prefLabel "Schiffahrt"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.1.g> a skos:Concept ;
+    skos:notation "n01.5ldp.1.g" ;
+    skos:prefLabel "Überschwemmungen und Wasserschäden"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.2.a> a skos:Concept ;
+    skos:notation "n01.5ldp.2.a" ;
+    skos:prefLabel "Post"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.2.b> a skos:Concept ;
+    skos:notation "n01.5ldp.2.b" ;
+    skos:prefLabel "Straßen und Plätze"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.2.c> a skos:Concept ;
+    skos:notation "n01.5ldp.2.c" ;
+    skos:prefLabel "Verkehr"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.4.b> a skos:Concept ;
+    skos:notation "n01.5ldp.4.b" ;
+    skos:prefLabel "Bauwesen"@de .
+
+<https://w3id.org/rhonda/polmat/n01.5ldp.4.d> a skos:Concept ;
+    skos:notation "n01.5ldp.4.d" ;
+    skos:prefLabel "Feuerpolizei"@de .
+

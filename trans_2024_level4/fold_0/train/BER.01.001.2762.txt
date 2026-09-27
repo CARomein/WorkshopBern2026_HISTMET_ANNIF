@@ -1,0 +1,144 @@
+BER.01.001.2762
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 135/135
+# High similarity (>=50%): 128
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_299_r1l16 Chun
+#facs_299_r1l17 vHoutags den 4 Aprilis.
+#facs_299_r1l18 vnd erseen
+#facs_299_r1l19 truligen
+#facs_299_r1l20 8
+#facs_299_r1l21 Zinsstags den 5. dto.
+#facs_299_r1l22 Oberhasen
+#facs_299_r1l23 Mangen
+#facs_299_r1l24 vixx
+#facs_299_r1l25 Mitwochens den 6 dto.
+#facs_299_r1l26 dans le dernier de l'Etat, il ne s'est en estant pas dans les
+#facs_299_r2l1 Wimmis.
+#facs_299_r2l2 Oberhoffen
+#facs_299_r2l3 daanen
+#facs_299_r2l4 zweisimmen
+#facs_299_r2l5 Barberg.
+#facs_299_r2l6 Bircsfer
+#facs_299_r2l7 Lauren
+#facs_299_r2l8 Landtshut
+#facs_299_r2l9 3
+#facs_299_r2l10 Frienisperg. 2
+#facs_299_r2l11 signants
+#facs_299_r2l12 Buren
+#facs_299_r2l13 Fraubrunnen
+#facs_299_r2l14 Chorberg.
+#facs_299_r2l15 Brandist.
+#facs_299_r2l16 Erlacs
+#facs_299_r2l17 Chrachselwaldt
+#facs_299_r2l18 Nydaun
+#facs_299_r2l19 gottstatt.
+#facs_299_r2l20 Hieberstein 2
+#facs_299_r2l21 zoffingen
+#facs_299_r2l22 Arburg
+#facs_299_r2l23 Sisemtenberg.
+#facs_299_r3l1 Mitwahms den 7. aprilis
+#facs_299_r3l2 Montagu
+#facs_299_r3l3 d 11. d.o
+#facs_299_r3l4 Zinschlag
+#facs_299_r3l5 den 12. d.
+#facs_299_r3l6 MitWochen
+#facs_299_r3l7 den 13. d.
+#facs_299_r3l8 dienstags
+#facs_299_r3l9 7 14. do.
+#facs_299_r3l10 Freitags
+#facs_299_r3l11 den 15. do.
+#facs_299_r3l12 Sambstags
+#facs_299_r3l13 16 do
+#facs_299_r3l14 Montags
+#facs_299_r3l15 d. 18. Dec.
+#facs_299_r3l16 Zinstag
+#facs_299_r3l17 & 19. d.o
+#facs_299_r3l18 Mitwochen
+#facs_299_r3l19 den 20e
+#facs_299_r3l20 Montags
+#facs_299_r3l21 den 2 Maii
+#facs_299_r3l22 Zinstags, den 3 do
+#facs_300_r1l1 Ist in
+#facs_300_r1l2 Mançon
+#facs_300_r1l3 selbst mit 2
+#facs_300_r1l4 halten.
+#facs_300_r1l5 3
+#facs_300_r2l1 Interlanten
+#facs_300_r2l2 alsen
+#facs_300_r2l3 Mitwochens den 4. May
+#facs_300_r2l4 2
+#facs_300_r2l5 Bürgdorff. 2. Creitags.
+#facs_300_r2l6 Lentzbourg.
+#facs_300_r2l7 6 do
+#facs_300_r2l8 Rongsfelden. Sambstags.
+#facs_300_r2l9 den 7 do.
+#facs_300_r2l10 arwangen? Montags
+#facs_300_r2l11 St. Johansen
+#facs_300_r2l12 den 9. de
+#facs_300_r2l13 Mit beygefüegter Erinnerung.
+#facs_300_r2l14 1
+#facs_300_r2l15 Die Busen zinsen undt zehndt Rödel
+#facs_300_r2l16 alles wol nach Mochl. Ordnung specificiert
+#facs_300_r2l17 mitbringen.
+#facs_300_r2l18 Ein Verzeichnus des Oberkl. vorhandenen
+#facs_300_r2l19 getreidts und deßen qualitet.
+#facs_300_r2l20 sollendt die ht. Ambtleüth der abgelösten
+#facs_300_r2l21 3 fl. Zins hoffen auch aller Veränderungen
+#facs_300_r2l22 so in vermehr oder verminderung der Oberbl.
+#facs_300_r2l23 ein künfftes in der Jahrzeit sich begebenen
+#facs_300_r2l24 zu sindt Ihrer Rechnung in einem besonderen
+#facs_300_r2l25 blatt geschrieben.
+#facs_300_r2l26 4. die Rechnungen wenigstens 2 tag vor der
+#facs_300_r2l27 ablag in hochfl. L. S. v. R. und in der Sekel¬
+#facs_300_r2l28 schreiberey zu Communicieren, widrigen fahls ihnen
+#facs_300_r2l29 die Rechnungen mit abgenommen werden sollen.
+#facs_300_r4l1 An aller 2. Undt. W. Ambtleüth.
+#facs_300_r4l2 4 Stätt. freyweibel undt Ammen. Item
+#facs_300_r4l3 placcard alhier undt am Kauffhaus,
+#facs_300_r4l4 Den Martini Marck-Tag abenderen.
+#facs_300_r4l5 Schultheis undt Rath der Stall Bary
+#facs_300_r4l6 By beschehener Annemmung des verbeßerten
+#facs_300_r4l7 sulianischen Calenders, dardurch der Zeitlauffen
+#facs_300_r4l8 umb Elff tage geruwet werden, hat die Gott¬
+#facs_300_r4l9 durfft erforderen wollen der Jahrmerckten halb¬
+#facs_300_r4l10 die vorsehung zu thun, damit dieselben nit
+#facs_300_r4l11 etwan mit anderen an benachbarten Orthen ge-
+#facs_300_r4l12 halten werden, eintreffen Thüyen, inneßen
+#facs_300_r4l13 wie Erbant und geordnet, daß der Martini
+#facs_300_r4l14 Marck in Vnser Haubt Statt Barn, da besagter
+#facs_300_r4l15 tag auf einen Mitmachen fiele, den ersten Mit¬
+#facs_300_r4l16 Wochen hernach, da er aber auf einen anderen tag
+#facs_300_r4l17 fiele, den zweiten Untwahren hernach die Jahr
+#facs_300_r4l18 und Instünfftig gehalten werden solle: die
+#facs_300_r4l19 hiemit befolchende disere unsere Ordnung durch
+#facs_300_r4l20 öffentliche Verlesung von Cantzlen Jedermä¬
+#facs_300_r4l21 niglichen Kundt zethin. Bätl. 14 Martj
+#facs_300_r4l22 1701
+#facs_301_r2l1 Ain alle W. Ambtleuth
+#facs_301_r2l2 Regen Entführung der Recerven
+#facs_301_r2l3 Schultheis und Rath der Statt Härn. etc.
+#facs_301_r2l4 Aus ist der sichern Bericht gegeben worden, daß
+#facs_301_r2l5 eine große Recerue von unsern weltschen Ver¬
+#facs_301_r2l6 Frethanen durch Neülenburg auf hollandt ge¬
+#facs_301_r2l7 reiffet seyn; darbey wir dan gnugsam ver¬
+#facs_301_r2l8 meriben können, daß Unsere wider so thane wür¬
+#facs_301_r2l9 bungen vielfaltig ausgangene Mandat schlechte
+#facs_301_r2l10 lich beobachtet werd indt. Derowegen Wie
+#facs_301_r2l11 Dir gleich gegen allen Unseren Ambtleüthen
+#facs_301_r2l12 woltschlen Landts auch beschicht, hiemit
+#facs_301_r2l13 ernstlich befohlen haben wollendt, dich fleisig
+#facs_301_r2l14 zu erkundigen, ob einiche Deiner Ambts an¬
+#facs_301_r2l15 gehörigen entführt worden! Zu dem Endt
+#facs_301_r2l16 die Dorffmeister vor dich kommen zu laßen
+#facs_301_r2l17 undt nach vorigen Mandaten zur Rechnung
+#facs_301_r2l18 anzuhalten, was vor folck von ihnen hinweg¬
+#facs_301_r2l19 kommen, und von wem es aufgedinget worden;
+#facs_301_r2l20 folglich das den Bericht zu verordnung verneres
+#facs_301_r2l21 Erbühr fürderlichst zu überschicken, maßen wir
+#facs_301_r2l22 des deßen zu die Versehindt. Datum 15 aprilii
+#facs_301_r2l23 1701.

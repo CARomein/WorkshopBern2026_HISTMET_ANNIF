@@ -1,0 +1,148 @@
+Law ID: BER.01.001.4375
+Name: Ob idem.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 137/137
+# High similarity (>=50%): 136
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_194_r3l12 In
+#facs_194_r3l13 Die Herren Amtleut da die aufgebrachten Strolchen
+#facs_194_r3l14 sollen ausgelieferet werden, als
+#facs_194_r3l15 Milden, Pätterlingen Gubern: und Stadt, Wiblisfurch
+#facs_194_r3l16 Murten, Viris und Laupen
+#facs_194_r3l17 Obio
+#facs_194_r3l18 Stadthalter und Raht etc.
+#facs_194_r3l19 Damit die von Lobl. Stand Fryburg auf den
+#facs_194_r3l20 7ten 8ten und 9ten May angeordnete Bätkelzügi¬
+#facs_194_r3l21 desto beßer bewürbet, und Unser Land nit
+#facs_194_r3l22 etwa von diesem vertriebenen Herrenlosen
+#facs_194_r3l23 Gesindel angefüllt werde, welches von dieser
+#facs_194_r3l24 Jägl. Wind bekommen, und in unserer Stadt
+#facs_194_r4l1 359.
+#facs_194_r4l2 mäßigkeit sich versteben dörffte; So haben
+#facs_194_r4l3 Wir, zur Sicherheit derselben, am angemeßen
+#facs_194_r4l4 sten zu seyn erachtet, die Vorsorg zu thun, und
+#facs_194_r4l5 Demnach Euch /: wie gegen übrige Grenze Amklein¬
+#facs_194_r4l6 auch beschicht :/ zu befehlen, daß nit nur 2. Tan¬
+#facs_194_r4l7 vor der Jägi, nemlich den 5ten und 6ten May,
+#facs_194_r4l8 sondern auch während den 3ten Tagen, da selbige
+#facs_194_r4l9 dauren wird, Ihr durch den Patronilleur Eüers¬
+#facs_194_r4l10 Amts, mit Zuthun 2 verständigen Männeren
+#facs_194_r4l11 gegen die Fryburgischen Grenzen und Päß,
+#facs_194_r4l12 mit möglichster Sorgfalt streiffen, und diesere
+#facs_194_r4l13 Patrouilles fleißigst verrichten laßet.
+#facs_194_r4l14 Da Wir uns auch mit Loblm. Stand Fryburg
+#facs_194_r4l15 dahin verglichen, daß die hinter Ihme aufge¬
+#facs_194_r4l16 brachte Strolchen, an verschiedenen Stationen
+#facs_194_r4l17 deren eine in Eüerem Amts Bezirk (Milden
+#facs_194_r4l18 zu Luiens: /: Vikis zu Chatel St. Denis :/: Laupen
+#facs_194_r4l19 bey der Sensten Brugg :/ seyn wird, von uns zu
+#facs_194_r4l20 weiterer Spedition übernommen werden sollen, so
+#facs_194_r4l21 befehlen Wir Euch die Anstalt zu verfügen,
+#facs_194_r4l22 daß den 7ten 8ten und 9ten May, gegen Mittag
+#facs_194_r4l23 alda, ein Piquet von 3. oder 4. Männerin sich
+#facs_194_r4l24 einfinde, welches die von dem Fryburgischen
+#facs_194_r4l25 Piquet überbrachte Strolchen, unter der mit zu
+#facs_194_r4l26 4 Petterlingen, Wiblisturg, Mueten,
+#facs_195_r1l1 360
+#facs_195_r1l2 Zusaz
+#facs_195_r1l3 An Milden
+#facs_195_r1l4 An Petterlingen
+#facs_195_r1l5 An Wiblisburg
+#facs_195_r1l6 An Mürten.
+#facs_195_r2l1 erhaltender Consigna übernemmen, und Euch
+#facs_195_r2l2 zuführen soll
+#facs_195_r2l3 Ihr werdet das von Fryburg har Euch zugebracht
+#facs_195_r2l4 gesindel, samt dem, so an Eüeren Grenzen
+#facs_195_r2l5 möchte aufgehoben worden seyn, unter der
+#facs_195_r2l6 Consigne nach Pesterlingen führen laßen.
+#facs_195_r2l7 Gubern: und Stadt Sep. Ihr werdet auch eben¬
+#facs_195_r2l8 fahls das von Lucens her Euch zugebrachte
+#facs_195_r2l9 Besindel übernemmen, und solches gleich dem
+#facs_195_r2l10 so Ihr von Freyburg har werdet erhalten haben
+#facs_195_r2l11 samt demjenigen so an den Grenzen möchte
+#facs_195_r2l12 aufgehoben werden, unter Consigne nach Wiblis
+#facs_195_r2l13 burg bringen laßen.
+#facs_195_r2l14 Ihr
+#facs_195_r2l15 werdet auch ebenmäßig das von Pederlingen
+#facs_195_r2l16 far euch zugebrachte Gesindel übernemmen, und
+#facs_195_r2l17 solches gleich dem, so Ihr vom Fryburg Gebiet
+#facs_195_r2l18 werdet erhalten haben, samt dem so an Einen
+#facs_195_r2l19 Greichen möchte aufgehoben worden seyn, unter
+#facs_195_r2l20 Consigne nach Mürten führen laßen.
+#facs_195_r2l21 Ihr werdet auch ebenfalls das von Wiblisfurg¬
+#facs_195_r5l1 361
+#facs_195_r5l2 har euch zugebrachte Gesindel übernemen, und
+#facs_195_r5l3 solches gleich dem, so Ihr vom Fryburg Gebiet
+#facs_195_r5l4 her, werdet erhalten haben, samt dem, so an
+#facs_195_r5l5 fueren Grenzen möchte aufgehoben worden.
+#facs_195_r5l6 seyn, nach der Güminen-Brugg bringen laßen.
+#facs_195_r5l7 Ihr werdet das von dem Fryburg Gebiet her Euch
+#facs_195_r5l8 zugebrachte Gesind, samt dem, so an Eueren
+#facs_195_r5l9 Brenzen möchte aufgehoben worden seyn, über
+#facs_195_r5l10 den See nach Savoy führen laßen; Oder wann
+#facs_195_r5l11 solches nach Stallis müßte gebracht werden, so
+#facs_195_r5l12 werdet Ihr solches unter Consigne Unserem Amts
+#facs_195_r5l13 mann zu Ählen zu weiterer Spedition zuführen.
+#facs_195_r5l14 laßen; Als an welchen, gleich auch an die Respubler
+#facs_195_r5l15 Wallis, das nöhtige von uns ist abgegeben worden
+#facs_195_r5l16 Ihr werdet das bey der Senfen-Brugg Euch von
+#facs_195_r5l17 dem Amt schwarzenburg her zugeführte Gesind¬
+#facs_195_r5l18 samt dem, so an Eueren Brenzen möchte Auf¬
+#facs_195_r5l19 gebracht worden seyn, unter Consigne nach der
+#facs_195_r5l20 Güminen Brugg bringen laßen, allwo auch von
+#facs_195_r5l21 Euch die von Murten har Spedierte übernommen
+#facs_195_r5l22 und mit den Eüerigen nach der Haubt Stadt biß
+#facs_195_r5l23 nach Capellen gebracht werden sollen; Allwo, von
+#facs_196_r1l1 : 362.
+#facs_196_r1l2 Unser Marechaussée Cammer die Anstalten zur
+#facs_196_r1l3 Übernahm und Fertigung bis hieher, gemacht
+#facs_196_r1l4 werden wird.
+#facs_196_r1l5 Continuation
+#facs_196_r1l6 an alle
+#facs_196_r1l7 Ihr werdet auch die Euch zugebrachte, oder an
+#facs_196_r1l8 Obige Amtleu
+#facs_196_r1l9 lueren Grenzen aufgebrachte Personen exame
+#facs_196_r1l10 nieren, die Deserteurs und mit guten Päßen
+#facs_196_r1l11 versehene Handwerbs=Pursch, ihre route ziehen
+#facs_196_r1l12 laßen; die etwa signalisierte aber einsteben,
+#facs_196_r1l13 und deß verhaffts Uns berichten; Übrige
+#facs_196_r1l14 Strolchen und Rodeurs aber, auf obbemelte
+#facs_196_r1l15 weise, weiters Spedieren.
+#facs_196_r1l16 Wir befehlen Euch auch, während ob aus
+#facs_196_r1l17 gesezten Tagen, Euch bey Haus, so viel immer
+#facs_196_r1l18 möglich einzufinden, damit die erforderlichen
+#facs_196_r1l19 Anstalten und Befelchen, auch die Examina
+#facs_196_r1l20 ohne Verschub gegeben und verrichtet werden
+#facs_196_r1l21 können: Haubtsächlich aber zu trachten, daß
+#facs_196_r1l22 zu formierung der Piqueten, zur Abnahm und
+#facs_196_r1l23 auch zur weiter Begleitung des Elenden
+#facs_196_r1l24 Gesindels, so wenig möglich volb aufgebodten
+#facs_196_r1l25 und gebraucht werde, um alle unnöhtige Plage
+#facs_196_r1l26 und Kösten auszuweichen.
+#facs_196_r1l27 Unser Will ist auch, daß den Armen mittelst
+#facs_196_r2l1 363.
+#facs_196_r2l2 den Spithälen und sonsten, die nöhtige Assistenz
+#facs_196_r2l3 geleistet werde,
+#facs_196_r2l4 Wir thun auch Euch vermelden, daß zwischen
+#facs_196_r2l5 Uns und Lobl.en Stand Fryburg, zu desto kommlicherer
+#facs_196_r2l6 Spedition der Strolchen, der freye Pass und Repas¬
+#facs_196_r2l7 vor die Piquets reciprocierlich auf beyden Gebieten
+#facs_196_r2l8 eingestanden worden ist
+#facs_196_r2l9 Euch wird überlaßen, nöhtig findenden falls
+#facs_196_r2l10 /: an Caupen, mit Unserem Gemeinen Amtsmann
+#facs_196_r2l11 zu Murten (an Murten, mit Unserem Amts¬
+#facs_196_r2l12 mann zu Laupen /: An Vitis, mit dem Fryburgischen
+#facs_196_r2l13 Hn Amtsmann zu Chatel St Denys :/ wegen Abnahm
+#facs_196_r2l14 des aufgebrachten und Euch zugeführten Gesindels
+#facs_196_r2l15 zu Correspondieren
+#facs_196_r2l16 Und tragen Euch auf, nach beendigter Jägi¬
+#facs_196_r2l17 eine Verzeichnuß der von Euch hierbey gebrauchte
+#facs_196_r2l18 Manschafft, und die Anzahl der Spedierten Strolchen
+#facs_196_r2l19 Unser Marechaussée-Cammer einzusenden
+#facs_196_r2l20 Welch alles sorgfältig zu veranstalten Ihr
+#facs_196_r2l21 bestens wüsen werdet. Dat. ut Supra d. 28ten Apl. 1770.

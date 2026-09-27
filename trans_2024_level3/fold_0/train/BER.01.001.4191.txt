@@ -1,0 +1,147 @@
+Law ID: BER.01.001.4191
+Name: Ihnen ein erfrischtes Mandat in Ansehen der Dirnen zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 136/136
+# High similarity (>=50%): 131
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_91_r4l7 Etat Obvermelter Invalides
+#facs_91_r4l8 N° 5. Jaques Perreaz, von Goorne, Amts Ahlen
+#facs_91_r4l9 15. Jean François Pouza, von Ollon,
+#facs_91_r4l10 Ahlen
+#facs_91_r4l11 22. Abraham Steiner, von Adelboden
+#facs_91_r4l12 29. Johanner Retscher, von Reichenbach
+#facs_91_r4l13 Prutigen
+#facs_91_r4l14 17. Daniel Gillard, von Fiez
+#facs_91_r4l15 Gran
+#facs_91_r4l16 20. Daniel Cury, von Concize,
+#facs_91_r4l17 11. Henry Junod, de Ste Croix,
+#facs_91_r4l18 1) verdun
+#facs_91_r4l19 24. Pierre David Crevot, de Montcherrand
+#facs_91_r4l20 4. Samuel Bonnet, de Rennens
+#facs_91_r4l21 Laus
+#facs_91_r4l22 13. Moyse Benjamin Barraud, de Bussigny
+#facs_91_r4l23 saues
+#facs_91_r4l24 23. Jean François Testez, de Vilette,
+#facs_91_r4l25 6. Samuel Ettopey, de Grange,
+#facs_91_r4l26 28 Joseph Richard, de Combremont,) Milder-
+#facs_92_r4l1 9
+#facs_92_r4l2 Isac Amaron, hon Denens,
+#facs_92_r4l3 Monsieur
+#facs_92_r4l4 10. Franc. Henry Berger, von Eclepens
+#facs_92_r4l5 12 Simeon Favay, von Pompaples,
+#facs_92_r4l6 Rome
+#facs_92_r4l7 18. Joseph Triian, von Agge
+#facs_92_r4l8 -mots
+#facs_92_r4l9 8. Jahob Märki, von Mönthal,
+#facs_92_r4l10 Schanken
+#facs_92_r4l11 6. Rudolf Sigerist, von Rözberg, c. berg
+#facs_92_r4l12 3.
+#facs_92_r4l13 David Guillaume Soulier, von Vihis, Witwe,
+#facs_92_r4l14 26
+#facs_92_r4l15 Johannes Menning, von Oberbyl, Amtr.
+#facs_92_r4l16 Witzis, im Amt Nidau geseßen
+#facs_92_r4l17 A
+#facs_92_r4l18 alle Teutsch und Weltsche Amtleuth, 4. Stäcken
+#facs_92_r4l19 Freybeibel und Amau. Sep: denn Godtstadt.
+#facs_92_r4l20 Ihnen ein erfrischter Mandat in ansehen der
+#facs_92_r4l21 Dirnen zusenden
+#facs_92_r4l22 Schultheiß und Rath etc.
+#facs_92_r4l23 Beyligende getrükte Ordnung, wird Euch mit
+#facs_92_r4l24 mehrerem Zeigen, was wegen Vorlesung der
+#facs_92_r5l1 177
+#facs_92_r5l2 der unterem 20t x bei
+#facs_92_r5l3 1758. in Truk ausgegeben.
+#facs_92_r5l4 nen Erfrischten Mandats, wegen den Dirnen¬
+#facs_92_r5l5 und Exposition der kinderen, Wir auf ein fri¬
+#facs_92_r5l6 sches anzubefehlen nöthig erachtet. Diesere nun
+#facs_92_r5l7 haben Wir mit dem befelch Euch communiren
+#facs_92_r5l8 Bollen, davon genugsame Doppel, denen in Eüe
+#facs_92_r5l9 rem Amt sich befindtlichen Chongrichten zu über¬
+#facs_92_r5l10 geben, demnach denselben die geflißene Be-
+#facs_92_r5l11 Folgung dieser Ordnung, und die ohnfehlbare
+#facs_92_r5l12 einschreibung anbefehlen. auch Euverseits wer¬
+#facs_92_r5l13 det Ihr solche ebenmäßig in die Schloß=Ruchen
+#facs_92_r5l14 behörig einschreiben, anbey gleichfalls invigi¬
+#facs_92_r5l15 lieren, daß demnach an den Chorgrichten
+#facs_92_r5l16 verfahren werde; die zu thun p. Dat. d. 14 ß.
+#facs_92_r5l17 Juny 1763
+#facs_92_r5l18 Mandat
+#facs_93_r1l1 178.
+#facs_93_r1l2 Coll
+#facs_93_r2l1 Mandat
+#facs_93_r2l2 obid:
+#facs_93_r2l3 Wir Schultheisz und Rath der Stadt
+#facs_93_r2l4 und Respublie Bern, thun kund hiemit; dem
+#facs_93_r2l5 nach Uns misbeliebig zu vernemmen gekommen
+#facs_93_r2l6 daß die Hoch-Obrigkeitl. unterem 20ten Decemb.
+#facs_93_r2l7 1758. in öffentl. Druk ausgegebene erfrischte
+#facs_93_r2l8 Vorsorg wider die Dirnen, und deren Kindern
+#facs_93_r2l9 Exposition, nicht allezeit befolget werde; wie
+#facs_93_r2l10 sich deßen leidige Exempell zugetragen, der¬
+#facs_93_r2l11 nahen von dem Höchsten Gebalt Uns auf¬
+#facs_93_r2l12 getragen worden, das ferner nöthige seine
+#facs_93_r2l13 Orts anzubefehlen, damit der Dissets ge¬
+#facs_93_r2l14 habte Hoch-Obrigkeitl. Willen desto besser
+#facs_93_r2l15 in Zukunft befolget und erzihlet werden mög¬
+#facs_93_r2l16 Deme zufolg nun, haben Wir Unseren Willi¬
+#facs_93_r2l17 allen Unter- Chorgrichten zu Stadt, und kann
+#facs_93_r2l18 dahin eröfnet, und befelch. zukommen laße
+#facs_93_r2l19 wollen. daß
+#facs_93_r2l20 Erstens; solche nicht allein denen Bogen
+#facs_93_r3l1 179
+#facs_93_r3l2 wegen verdächtiger Schwangerschaft vor Chor¬
+#facs_93_r3l3 Bricht citierten Weibs, persohnen, vorbemel¬
+#facs_93_r3l4 tes Hoch-Obrigkeitl. Mandat de 20. Decembris
+#facs_93_r3l5 1758. Börtl. ablesen, sondern umständlichen
+#facs_93_r3l6 auslegen, und Ihnen die traurigen Folgen
+#facs_93_r3l7 einer ablangnenden, sich aber nachberts er¬
+#facs_93_r3l8 findenden Schwangerschaft, auf das kräftigste
+#facs_93_r3l9 vorstellen sollen,
+#facs_93_r3l10 Zbeytens; Über dis hin werden auch die Chorgricht,
+#facs_93_r3l11 in dergleichen sich ergebenden Vorfällen, solche
+#facs_93_r3l12 der Schwangerschaft halb verdächtige Persohnen,
+#facs_93_r3l13 denenjenigen Weibt, persohnen, so in gleichen
+#facs_93_r3l14 Hause Bohnen, dahin alles Ernsts Consignienen
+#facs_93_r3l15 und anbefehlen, daß auf Solche Sie genaue
+#facs_93_r3l16 acht halten, damit Sie nicht heimlich vinde bet¬
+#facs_93_r3l17 ten, beynebens auch sorgfältig bemerken, ob
+#facs_93_r3l18 dieselben nicht etbann zeichen der Schwanger
+#facs_93_r3l19 schaft, oder der gegentheils aufdeken? Da dann
+#facs_93_r3l20 diesere bestellte Weibs- Persohnen, auf bemer¬
+#facs_93_r3l21 kende Zeichen der Schwangerschaft, oder aber
+#facs_94_r2l1 aber der gegentheils, sie solches alsogleich den
+#facs_94_r2l2 Chor-Richterenn des orts anzeigen werden.
+#facs_94_r2l3 dritens; Wo aber auch bey sich erzeigenden
+#facs_94_r2l4 glaubwürdigen Merbmalen, eine solche Weil
+#facs_94_r2l5 persohn Bidermahlen den Char. Gerichten die
+#facs_94_r2l6 Schbangerschaft abläugnen sollte, ist Unser
+#facs_94_r2l7 bill, daß die Unter- Chorgericht jedeilen
+#facs_94_r2l8 den Casum umständlichen an allhiesiger
+#facs_94_r2l9 Obere Chor, Gericht überschreiben, damit
+#facs_94_r2l10 selbiges die allenfalls nöthig findende Vin-
+#facs_94_r2l11 tationen gebührend anbefehlen möge.
+#facs_94_r2l12 Endlichen dann, und damit auch jehbeilen die
+#facs_94_r2l13 Chor, Bericht zu Stadt und Land, demnach von
+#facs_94_r2l14 fahren, wollen Wir, daß gegenbärtige
+#facs_94_r2l15 Verordnung, nicht allein dero obangezogen¬
+#facs_94_r2l16 und in Druk ausgegebenen de 20t Decembre
+#facs_94_r2l17 1758 angeheftet, sondern auch aller Orten
+#facs_94_r2l18 in die Chor-Berichts-Manual wörtlichen
+#facs_94_r2l19 eingeschrieben werde. Wie dann Wie uns auch
+#facs_94_r3l1 181.
+#facs_94_r3l2 auch dabey versehen, daß alle Chor- Gericht zu
+#facs_94_r3l3 Stadt und Land demnach sich verhalten, und sorg
+#facs_94_r3l4 fältig ausmeiden werden, durch unterlaßende
+#facs_94_r3l5 Beobachtung vorstehender Artiklen, der ange¬
+#facs_94_r3l6 meßenen Straffen sich blos zu stellen, und durch
+#facs_94_r3l7 Ihre nachläßigkeit dergleichen Dirnen zu ver¬
+#facs_94_r3l8 anlaßen, sich in die gefahr derjenigen Strafen
+#facs_94_r3l9 hors Obrigheitlichen
+#facs_94_r3l10 zu sezen, welche in vorangeregtem Mandat
+#facs_94_r3l11 de 20t Decembris 1758 enthalten sind. Beben
+#facs_94_r3l12 d. 14ten Juny 1763.

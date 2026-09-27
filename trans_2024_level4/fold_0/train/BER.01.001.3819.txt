@@ -1,0 +1,25 @@
+Law ID: BER.01.001.3819
+Name: Die Hunde nicht in die Statt zu bringen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 14/14
+# High similarity (>=50%): 13
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_129_r4l1 144
+#facs_129_r4l2 245.
+#facs_129_r4l3 An alle Freyweibel und Amau,
+#facs_129_r4l4 Die Hunde nicht in die Stadt zu bringen,
+#facs_129_r4l5 Schultheiß und Raht etc.
+#facs_129_r4l6 Wir habend by diesmahl anhafftender Taub¬
+#facs_129_r4l7 sucht unter den Hunden, dir zu befehlen
+#facs_129_r4l8 gutfunden, von Canzlen mänglich ver¬
+#facs_129_r4l9 wahrnen zu laßen, daß Niemand, der
+#facs_129_r4l10 in die Statt kombt, Hund mit sich hin¬
+#facs_129_r4l11 Ein führe, maßen selbige, Sie mögend
+#facs_129_r4l12 gezeichnet seyn oder nicht ohne Schonen
+#facs_129_r4l13 nidergeschlagen berdind. Wie zu thun
+#facs_129_r4l14 Datl. d. 23. May 1741.

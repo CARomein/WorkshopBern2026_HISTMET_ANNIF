@@ -1,0 +1,149 @@
+Law nr: BER.01.001.4607
+Name: Neüe Verordnung wegen Einziehung der den Landsassen aufgelegten jährlichen Anlagen.
+
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 136/136
+# High similarity (>=80%): 118
+# Low similarity (<80%): 18
+# Not found: 0
+#
+#facs_369_r4l1 723
+#facs_90_r3l1 N°
+#facs_14_region_1627971782200_27l1 Verordnung
+#facs_369_r4l4 der den Landstapen aufgelegten
+#facs_369_r4l5 jährlichen Anlagen
+#facs_369_r4l6 Wir Schultseitz und Rath der Stadt
+#facs_369_r4l7 und Republik Sern; thun kund hiermit; dem
+#facs_369_r4l8 nach Uns von Unserer verordneten Landsaßen
+#facs_369_r4l9 Einen den 28ten November 1782. vorgestellt
+#facs_369_r4l10 worden, daß ohngeachtet der abgeänderte
+#facs_369_r4l11 verfügungen, in Behiefung der den Land¬
+#facs_369_r4l12 laßen nach Maasgab ihres Vermögens und ihrer
+#facs_369_r4l14 Umstände, zufolge des Hochobrigreitlichen
+#facs_369_r4l15 Reglements vom 28ten Hornung 1780. aufgelegte
+#facs_369_r4l16 Anlagen, dennoch hauptsächlich begen den
+#facs_369_r4l17 öftern Veränderungen der Wohnstiche der
+#facs_369_r4l18 neisten Landsaßen, die Einhiefung dieser Anla¬
+#facs_369_r4l19 nach dem eingeführten Fuße höchst beschwerlich
+#facs_369_r4l20 3, und dem gefoften Endheb nicht entsprechen
+#facs_369_r4l21 und Wir darauf die zu einer bessern
+#facs_369_r4l22 Einrichtung in diesem Stube Uns vorgeschlagen
+#facs_369_r4l23 Mittel untersucht: so haben Wir darüber Ein¬
+#facs_369_r4l24 bereits unter obgedachtem Datum, auf eine
+#facs_369_r4l25 Probzeit von Zwey Jahren, in Erläuterung des
+#facs_369_r4l26 tünften Artikels der Hochobrigkeitlichen Ver
+#facs_369_r4l27 ordnung vom 28ten Hernings 1780. durch ein Re¬
+#facs_369_r4l28 tevixt an sämtliche Amtleute deutschen und belegen
+#facs_369_r4l29 andes eine einfachere Männer diese Anlagen
+#facs_369_r4l30 zu beziehen versucht, welche auch so wohl ausgefallen,
+#facs_90_r3l1 N°
+#facs_370_r2l1 daß nach dem Uns heute von der Kammer der
+#facs_370_r2l2 geben abgestatteten Rapport seither von derselben
+#facs_370_r2l3 die beste Würkung verküet worden, sowohl
+#facs_370_r2l4 in Ansehen der geschländern und richtigen
+#facs_370_r2l5 Befiehung der Anlagen, als aber in Absicht
+#facs_370_r2l6 auf die Reichte über den Aufenthalt der ver¬
+#facs_370_r2l7 schiedenen Korporationsgenoßen
+#facs_370_r2l8 Diesemnach haben Wir die nur für Zwey
+#facs_370_r2l9 Jahre lang einanderte Verordnung andurch für
+#facs_370_r2l10 beständig festzusehen und öffentlich bebaut
+#facs_370_r2l11 zu machen gut gefunden, so lange einmal ver
+#facs_370_r2l12 änderung der Zeiten und Umstände Uns zu keiner
+#facs_370_r2l13 Abänderung derselben bewegen werden.
+#facs_370_r2l14 Wir verordnen demnach und sehen feh¬
+#facs_370_r2l15 was von einem Zum andern folget:
+#facs_4_r8l9 a
+#facs_370_r2l17 Sollen alle in jedem Amt befindliche Landfaßen
+#facs_370_r2l18 es seyen Hundräcter, Weitben oder Dienstbock
+#facs_370_r2l19 und andere einzele Personen über zuächig
+#facs_370_r2l20 Jahre Alters, durch Publibationen, ob den Kanzeln
+#facs_370_r2l21 alljärlich zu gebiger Zeit von Michaelstag liebst
+#facs_370_r2l22 Martini, aufgefordert und befelchnet werden,
+#facs_370_r2l23 auf einen von dem Amtsmann zu bestimmenden
+#facs_370_r2l24 Tag, persönlich zu Bezahlung ihrer Anlagen
+#facs_370_r2l25 in dem Schloß zu erscheinen, da dann einen
+#facs_370_r2l26 jeden die Anlage nach der Beschaffenheit seine
+#facs_370_r2l27 Vermigens, seiner Tagangenschaft, keiner Gesundlichen
+#facs_370_r2l28 und seiner Umstände überheubt, von dem Amtsman
+#facs_370_r2l29 festgesetzt, und gegen eine Quittung zugleich
+#facs_370_r2l30 gezogen werden wird.
+#facs_4_r1l1 2
+#facs_370_r2l32 Diese Anlagen sollen nach folgendem Maasstab
+#facs_370_r2l33 egliert und bestimt werden.
+#facs_4_r10l3 7.2
+#facs_370_r3l2 Ein Feuernknecht oder lediger Jüngling Rauern
+#facs_370_r3l3 standes, überzünzig Jahre alt von Jahre 7 1/2 biß 22 1/3. Bz.
+#facs_370_r3l4 Ein Herrenbedienter oder lediger Jüngling von einer
+#facs_370_r3l5 tädtischen Regangenschaft in gleichem Alter
+#facs_370_r3l6 von Ratzen 15. bis 6ten. 40
+#facs_370_r3l7 eine Raurenmäge oder ledige Weibsperson
+#facs_370_r3l8 Dauernstandes über sondenzig Jahre alt, von
+#facs_193_r5l1 B76
+#facs_370_r3l10 Eine Magd bey Herrenleuten oder ledige
+#facs_370_r3l11 Weibsperston von einer städtischen Begangenschaft,
+#facs_370_r3l12 von bten 10. #. biß bz 22 1/2.
+#facs_370_r3l13 Ein Hausvatter Neuernstandes von B. 10. bis bt 40.
+#facs_370_r3l14 Ein Hauswarten von einer städtischen begangen
+#facs_370_r3l15 schaft von 6.30. bis 6f. 60.
+#facs_4_r1l1 2
+#facs_370_r3l17 Von Bezahlung dieser Anlagen soll niemand
+#facs_370_r3l18 befreyt seyn, als die Personen unter zuendig
+#facs_370_r3l19 Jahren älters, und diejenigen, so ihrer Armuth
+#facs_370_r3l20 halb von der Landseßen Cammer assistiert und
+#facs_370_r3l21 besteurt werden.
+#facs_4_r7l1 4
+#facs_370_r3l23 Über die jährliche Einnahme bey einer solchen
+#facs_370_r3l24 Zustammenberufung der Landstessen eines jeden
+#facs_370_r3l25 Amts, soll durch die Langhreiberey ohne Entgeld¬
+#facs_370_r3l26 ein doppeltes Verzeichniß ausgefertiget werden
+#facs_370_r3l27 lason das einte Söppel mit den besogenen Anlagen
+#facs_370_r3l28 iebeilen noch vor Auslauf des Jahrs an die Land¬
+#facs_370_r3l29 außenhänner überstandt werden, das andere aber zur
+#facs_370_r3l30 Nachricht fürs künftige Jahr im Schloß ligen bleiben soll.
+#facs_4_r6l1 5
+#facs_370_r3l32 Damit aber beym öfterer Veränderung des Wohn¬
+#facs_370_r3l33 vises hierin keine Gefährde unterlaufen könne, so
+#facs_370_r3l34 Verordnen Wir, daß beim Landfaß von irgend
+#facs_67_r1l1 126
+#facs_371_r2l1 einer Gemeinde als Hinterstöß aufgenommen
+#facs_371_r2l2 werden solle, er habe dan mit Vorweisung und
+#facs_371_r2l3 Hinterlegung seines förmlichen Korporationsscheins.
+#facs_371_r2l4 zugleich auch durch eine Quittung erweislich dar
+#facs_371_r2l5 than, daß er die lezt verfallene Anlage besult
+#facs_371_r2l6 habe, oder daß er, aus hievor gemelten Gründen
+#facs_371_r2l7 befreyt worden sey; auch die Dienstborten so
+#facs_371_r2l8 zu dem gleichen verbunden seyn, und von ihren
+#facs_371_r2l9 Meisterleuten so wohl als den vorgesehten
+#facs_371_r2l10 darzu angehalten werden; Überhimbt dann
+#facs_371_r2l11 werden die vorgesezten ernstlich ermahnt
+#facs_371_r2l12 Unsern Amtleuten in dieser Sache bestens an
+#facs_371_r2l13 die Hand zu gehen, und denenselben die saum
+#facs_371_r2l14 seligen und aus bleibenden Landstoßen zur
+#facs_333_r2l10 (belch)
+#facs_371_r2l16 gebührenden Restrafung zu verleiden nach
+#facs_371_r2l17 den Hochobrigkeitlichen Verordnung besteht, das ihm
+#facs_371_r2l18 noch vergeblich gestacteten Gestindungen
+#facs_371_r2l19 der Korporationsschein ohne anders gehukt, und
+#facs_371_r2l20 sie aus dem Lande geliefen werden sollen.
+#facs_6_region_1627936574015_66l1 6
+#facs_371_r2l22 Über alle andere hierbey zu beobachtenden
+#facs_371_r2l23 Maasreglen und Verfügungen wird die Landfaß¬
+#facs_371_r2l24 Cammer den nöhtigen Gericht ertheilen, bein
+#facs_371_r2l25 solcher durch Unsere Amtleute von ihr wird ent¬
+#facs_371_r2l26 gehrt werden; wie Wir dann auch denselben hier,
+#facs_371_r2l27 über die gewesene Instruktion haben zuvor
+#facs_198_r5l12 laßen
+#facs_371_r2l29 So bin Wir auch
+#facs_4_r13l2 7
+#facs_371_r2l31 Gedachter Kamer, wie bis dahin geschehen ist, noch
+#facs_371_r2l32 fernahm überlaßen, in der Hauptstadt, dem Stadt
+#facs_371_r2l33 reicht und den vier Landgerichten, die ähnliche
+#facs_371_r2l34 Verfügungen beym Beziehung der Anlagen zu treff
+#facs_371_r2l35 wie solches den Amtleuten für ihre Amtsbehirte sieb
+#facs_371_r2l36 anbefohlen borden ist.
+#facs_220_r4l26 Geben den 24. Mertz 1786.
+#facs_110_r6l29 Stadt

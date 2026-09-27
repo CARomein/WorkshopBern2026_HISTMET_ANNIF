@@ -1,0 +1,44 @@
+BER.01.001.2839
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 35/35
+# High similarity (>=50%): 34
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_374_r3l1 Lausanna. Uff den 10. Marty
+#facs_374_r3l2 Morseé. Uff d. 11. Marty
+#facs_374_r3l3 Neuws. Vff den 12. Marty.
+#facs_374_r3l4 Bomont Uff den 13. Marty.
+#facs_374_r3l5 Romainmostier, den 14. Marty
+#facs_374_r3l6 Ifferten. vff den 15. Marty.
+#facs_374_r3l7 Wiblispurg vff den 17. Marty
+#facs_374_r3l8 Milden. Vff den 18. Marty.
+#facs_374_r3l9 H Gubernator Kellenberg
+#facs_374_r3l10 Pätterlingen
+#facs_374_r3l11 H. Schultheiß Gattschett
+#facs_374_r3l12 Oron. Vff den 20. Marty.
+#facs_374_r3l13 Chillon
+#facs_374_r3l14 aff d. 21. Marty
+#facs_374_r3l15 and
+#facs_374_r3l16 Neüwenstatt
+#facs_374_r3l17 Aubonne vff den 22. Marty.
+#facs_375_r2l1 An alle T. undt W. Ambtleüth 4. Stett,
+#facs_375_r2l2 Freyweibel und Amman: Item per placcar
+#facs_375_r2l3 an hiesige Pfeiler
+#facs_375_r2l4 Sie verwahrnen, daß die Jenigen, so in die
+#facs_375_r2l5 Franzl. Provintz Languedoc Zereisen gesinnen
+#facs_375_r2l6 sich mit Passporten versehen sollind.
+#facs_375_r2l7 Schultheiß und Raht der Statt Bern etc. etc.
+#facs_375_r2l8 Wir habend nachricht erhalten, daß allen außeren
+#facs_375_r2l9 und Frömbden verpotten ist, sich in die Königl. Franz.
+#facs_375_r2l10 Provintz Lanquedor zu verfüegen ohne habener Lei=
+#facs_375_r2l11 presse Geleidtsbrieffe von Ihr König. Maystl. Minist.
+#facs_375_r2l12 Welches wir allen Vnseren Ambtleüthen und also auch
+#facs_375_r2l13 Dir kund machen wöllen, damit etwan an den Gruht
+#facs_375_r2l14 stellen, oder wo es sich schiket, zesen deine Angehörigen
+#facs_375_r2l15 verwahrnet, und dieselben sich selbst vor großer gefahr
+#facs_375_r2l16 Leib oder Läbens verhüeten thüyen. Wie zuthun
+#facs_375_r2l17 wiesen wirst! Gott mit Sic. Dat. 26. februarij
+#facs_375_r2l18 1704

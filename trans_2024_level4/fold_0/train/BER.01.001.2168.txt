@@ -1,0 +1,106 @@
+Law ID: BER.01.001.2168
+Name: Die Landtschulden verpieten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 95/95
+# High similarity (>=50%): 75
+# Low similarity (<50%): 20
+# Not found: 0
+#
+#facs_221_r2l1 Beschreibung
+#facs_221_r2l2 14
+#facs_221_r2l3 Lentzburg. Sonstag den 1. May. 1679.
+#facs_221_r2l4 Königsfelden.
+#facs_221_r2l5 Schenckenberg. Freitag den 2. Maii
+#facs_221_r2l6 Bibl.
+#facs_221_r2l7 ex. dambstag den 3. Maii
+#facs_221_r2l8 Arburg
+#facs_221_r2l9 2.
+#facs_221_r2l10 6
+#facs_221_r2l11 Bipp.
+#facs_221_r2l12 Wangen. Montag den 5. Maii
+#facs_221_r2l13 Arwangen
+#facs_221_r2l14 Landtshul. Dinstagen 6. Maii
+#facs_221_r2l15 Frauenbrennen mitwochen den 7. Maii
+#facs_221_r2l16 Burgdors
+#facs_221_r2l17 ng
+#facs_221_r2l18 Thorb,
+#facs_221_r2l19 Rijdouw. Vonstagen 8. Maii
+#facs_221_r2l20 Fruitag ey 9. Maij
+#facs_221_r2l21 Sr. Johans Insul
+#facs_221_r2l22 Staes
+#facs_221_r2l23 Sambstag den 10. Maii
+#facs_221_r2l24 Arberg
+#facs_221_r2l25 Coupen
+#facs_221_r2l26 Montag den 12 maij
+#facs_221_r2l27 Hrienisser
+#facs_221_r2l28 Buchser
+#facs_221_r3l1 accem
+#facs_221_r3l2 Eisollstatt  Vinstagen 13. Maii
+#facs_221_r3l3 Bure.
+#facs_221_r3l4 pr
+#facs_221_r3l5 Trachstwaldt. Mitreuchen den 14. Maii
+#facs_221_r3l6 Sign.
+#facs_221_r3l7 Interacten. sonstag den 15. Maii.
+#facs_221_r3l8 andersam¬
+#facs_221_r3l9 brutingen. Freitag den 16. Maii
+#facs_221_r3l10 Hoffm Sambstag den 17. Maii
+#facs_221_r3l11 Thun
+#facs_221_r3l12 be,
+#facs_221_r3l13 danen. Zonontay den 19. Maij.
+#facs_221_r3l14 Wimmis
+#facs_221_r3l15 Zweysimmen. Die stag den 20. May
+#facs_221_r3l16 Ausber in der Stadt
+#facs_221_r3l17 Zeit werden den 21. Maii
+#facs_221_r3l18 Bauschere vom Raht.
+#facs_221_r3l19 Bammh. von Burgern.
+#facs_221_r3l20 Sonstag den 22. May
+#facs_221_r3l21 Zeüghaus
+#facs_221_r3l22 Kilchmetzer.
+#facs_222_r3l1 Ober Schichal Freitag den 23. Maii.
+#facs_222_r3l2 Vnder
+#facs_222_r3l3 1
+#facs_222_r3l4 fesul
+#facs_222_r3l5 Hußhaffen. Sambstag den 24. Maii.
+#facs_222_r3l6 Interlacker
+#facs_222_r3l7 Frienisperger Hauß Montag den 26. Maii
+#facs_222_r3l8 Sr. Johanseehl
+#facs_222_r3l9 Kornmeister. Umstagend 27. Maii.
+#facs_222_r3l10 Suchenmeister, Mitwochen den 28. Maii
+#facs_222_r3l11 B
+#facs_222_r3l12 Fritagen 30 May
+#facs_222_r3l13 Steff Schaffner.
+#facs_222_r3l14 Einunger.
+#facs_222_r3l15 Haste, Interlacken, Sepr.
+#facs_222_r3l16 Die Landtschulden verpieten.
+#facs_222_r3l17 suldthtiß und Raht etc. Wer ist nicht vn¬
+#facs_222_r3l18 getragen worden, in was großen und schädlichen
+#facs_222_r3l19 nißbrauchen es mit denen so genanten Landtschweden, In
+#facs_222_r3l20 Vnser Landtschafft Oberhäßle gerahten wolle, zu
+#facs_222_r3l21 höchster beschwerdt der Armen Landtleüten,
+#facs_222_r4l1 9
+#facs_222_r4l2 durch die Reichen vmb halb gelt ganz wucherischer Vnß
+#facs_222_r4l3 gehandlet, hernach aber von denselben gegen den
+#facs_222_r4l4 schuldneren biß auff den letzten phenning zu gelten gemacht,
+#facs_222_r4l5 werden; Wie aber dardurch die einen Vbernommen, die
+#facs_222_r4l6 anderen aber vber rechtmeßige weiß bereichet werden
+#facs_222_r4l7 Alp haben wie gleich an anderen OrtenVnsers Oberlandt,
+#facs_222_r4l8 auch beschechen, die auffrichtung solcher Landtschulden hinder
+#facs_222_r4l9 Haßle, sie seyen Verschriben oder Vnuerscheiben fürs künfftige
+#facs_222_r4l10 gänzlich und allerdings verstehen, bei poenend straff der
+#facs_222_r4l11 Confiscation und Verwüritung aller dero, so hiefür
+#facs_222_r4l12 Weiters gemacht wurden: Was aber antrifft, der
+#facs_222_r4l13 jenigen, die bereits auffgericht, aber noch nicht bezalt,
+#facs_222_r4l14 oder abgelöst sind, sollen dieselben anderst nicht eingezogen
+#facs_222_r4l15 werden können, alß mit nachlaßung vnd abschlag
+#facs_222_r4l16 des Vierten pfennings, also vnd dergestalt, daß
+#facs_222_r4l17 einer der vier Cronen schuldig were, nur drei
+#facs_222_r4l18 ronen bezahlen soll, und als weiters nach proportion
+#facs_222_r4l19 welches unser Oberkeitliches einsachen zu zu
+#facs_222_r4l20 nennigklichs nachricht in demmer Verwaltung von
+#facs_222_r4l21 anzlen verkünden, vnd droben dem Mandaten
+#facs_222_r4l22 st.
+#facs_222_r4l23 Buch einschreiben zu laßen wüßen Wir
+#facs_222_r4l24 Holl mit die Datum 1. Marty 1679.

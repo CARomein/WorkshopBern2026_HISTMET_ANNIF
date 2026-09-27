@@ -1,0 +1,34 @@
+BER.01.001.2578
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 25/25
+# High similarity (>=50%): 25
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_65_r3l16 An Alle T. und W. Ambtleüst, 4. Bätt,
+#facs_65_r3l17 Breyweibel und Amman. Item per placcard
+#facs_65_r3l18 Inn hiesiger Statt.
+#facs_65_r3l19 Die Aufwechslung und Veräußerung der Goldsarten
+#facs_65_r3l20 verbieten
+#facs_65_r3l21 Stalthalter und Raht der Statt Bärn.
+#facs_65_r3l22 Wir habend zwahr bishero nachgesehen, Undt mägendt
+#facs_65_r3l23 Annoch Hinführo wohl zugeben, daß Vnnsere Bürger und
+#facs_65_r3l24 Vnderthanen, vann sie an Außere Ohrt Handlen undt
+#facs_65_r3l25 Schuldige Summen zu bezahlen habend, Ihr gelt in so Hohen
+#facs_65_r3l26 valor Anbringen kömend, als sich Immerthun laßet; Wir
+#facs_65_r3l27 vernemmend aber, daß nicht allein der Vnßeren, sondern auch
+#facs_65_r3l28 Wohl gar frömbde, Wie nicht weniger frünhösische flüchtlinge
+#facs_65_r4l1 ###22
+#facs_65_r4l2 sich Erküenend mit dem gelt gewärb zu treiben, die Dublinus
+#facs_65_r4l3 undt Annders Gold Sorten hin und Her aufzuwechsten undt
+#facs_65_r4l4 zum schaden des Landts Inn großer quantitet aus dem
+#facs_65_r4l5 Landt zuschaffen; Dahero Wir so empfindtlichem des Landes
+#facs_65_r4l6 Nachtheil Vorzu seyn nöthig erachtet, wider einen solchen
+#facs_65_r4l7 Vnzuläßlichen Gewärb das erforderliche Einsehen Zethun
+#facs_65_r4l8 Inmaßen wir solche Aufwechslung und Veräußerung der
+#facs_65_r4l9 Dublonen und Gold Sorten hiemit alles Ernsts Bey Unnserer straffen
+#facs_65_r4l10 Vndt Ungnaad Verbotten haben wollend, welchem nach zu
+#facs_65_r4l11 Mäniglichs Nachricht dem solches von Cantzlen Verkunden, helaßen
+#facs_65_r4l12 vüßen wirst. Datum 7. Januarii 1695.

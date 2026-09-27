@@ -1,0 +1,134 @@
+Law ID: BER.01.001.4209
+Name: Wegen der Einfuhr des Reif- und Côte- Weins in das Oberland.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_501
+# Matched: 123/123
+# High similarity (>=50%): 123
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_167_r2l17 An
+#facs_167_r2l18 die H. Amtleüth zu thun, Oberhoffen, Unterseen
+#facs_167_r2l19 Interleben, Frutigen und Wimmiß Sp.
+#facs_167_r2l20 Wegen der Einfuhr des Reif, und Cote, beins in das
+#facs_167_r2l21 verlangen
+#facs_167_r2l22 Schultheiß und Rath)
+#facs_167_r2l23 Diejenigen respectuosen Vorstellungen, welche Eint, und
+#facs_167_r2l24 andere Gemeinden der Oberlandt und vortragen
+#facs_167_r4l1 32a.
+#facs_167_r4l2 vortragen laßen, geben Uns mit mehrerem zu ver¬
+#facs_167_r4l3 nemmen, welchergestalten zubider Unserer hiebevor
+#facs_167_r4l4 und benantlichen unterem 8ten Decembris 1717. 10ten Mar¬
+#facs_167_r4l5 ty 1722 und 9ten Janl. 1745 wider die Einfuhr des¬
+#facs_167_r4l6 Teutsch und Weltschen Landbeins, und wegen Einschran
+#facs_167_r4l7 kung des allzu großen gebrauchs des Reis, und Cit
+#facs_167_r4l8 Weins an verschiedenen Orten ob Thun ausgegeben
+#facs_167_r4l9 verordnungen, gehandlet werde, welches Übersehen
+#facs_167_r4l10 dann vornemmlichen denenjenigen zum großen Schad¬
+#facs_167_r4l11 gereichet, welche an dem Thüner, See eigenen Rebbau
+#facs_167_r4l12 haben p. Gleichbie nun Wir dergleichen eingeschlichene
+#facs_167_r4l13 Mißbrauch, und daraus entstehenden Nachtheil ganz
+#facs_167_r4l14 lichen zu beheben gedenken. Also haben Wir auch
+#facs_167_r4l15 für nohbbendig erachtet, benebst obvermelten ord¬
+#facs_167_r4l16 nungen annoch gegenbärtiges einsehen zu mängliche
+#facs_167_r4l17 verhalt öffentlich von Canzlen publicieren, und zusta¬
+#facs_167_r4l18 ter Observanz behöriger Orten einschreiben zu laßen.
+#facs_167_r4l19 Wir ordnen Solchemnach.
+#facs_167_r4l20 q° Daß allen und jeden Wirten und Gastgeben, wie
+#facs_167_r4l21 auch Säumeren des Nideren Sibenthals, fertig, in
+#facs_167_r4l22 Oberlands, gänzlichen und bey Confiscation verboten
+#facs_167_r4l23 seyn solle, Einichen Teütsch und oder beltschen Landbein¬
+#facs_167_r4l24 so und erhero dem Amt Thun gebachsen, beder in Unse
+#facs_167_r4l25 Haubtstadt noch sonsten anzubauffen um denselben
+#facs_167_r4l26 nach Haus, zum Biederverbauf oder sonstigen Gebrauch
+#facs_167_r4l27 zu führen, oder fuhren zu laßen
+#facs_167_r4l28 2° So viel aber den Reif- oder Côte, beim anbetreffen
+#facs_167_r4l29 thut, ist Unser will, daß die Tavernen, wirthen in ob
+#facs_167_r4l30 vermeldeten bezirken, so dessen bedürften, angehalte
+#facs_167_r4l31 seyn sollen, jehbeilen vor deßen Ankauf sich vor Unser
+#facs_168_r2l1 Unser verordneten Ohmgelt Cammer gebührend anzu¬
+#facs_168_r2l2 geben, und derselben zu bescheinen, daß deßen Sie
+#facs_168_r2l3 benöhtiget, welche denn nach habender Competen¬
+#facs_168_r2l4 das gutfindende und bebannen Umständen nach die
+#facs_168_r2l5 mehr oder mindere quantität, Solchen anzukauffen
+#facs_168_r2l6 vergönnen, und daherige bebilligungs, jedel Zehbeili¬
+#facs_168_r2l7 besagten Taveruen=wirten gratis bey abhaltung Ihre
+#facs_168_r2l8 gebohnl. Versammlungen an den Sammstagen ertheilen
+#facs_168_r2l9 bird.
+#facs_168_r2l10 3. Wann aber aus erheblichen Uns belegenden Grün¬
+#facs_168_r2l11 den Wir zugleich auch anzuordnen gutbefinden,
+#facs_168_r2l12 daß dergleichen Reiz, und Cote, Wein nirgends wo
+#facs_168_r2l13 anderster als in Unserer Haubt=Stadt angekaufet
+#facs_168_r2l14 berde per Also wird auch besagte Unsere verordnete
+#facs_168_r2l15 Schmgelt Cammer Jehbeilen dieseren ertheilenden
+#facs_168_r2l16 Erbilligungen solchen Vorbehalt einruken, und fleißig
+#facs_168_r2l17 invigilieren laßen, daß deme ohne nachsicht nach¬
+#facs_168_r2l18 gelebet werde.
+#facs_168_r2l19 4. Damit auch solchemnach dieseres Unseres erfrischte
+#facs_168_r2l20 Einsehen behöriger maßen befolget berde, haben Wir
+#facs_168_r2l21 zugleich auch nöthig erachtet, anmit anzuordnen, daß
+#facs_168_r2l22 alle und Jede Fuhrleüth und Säümen schuldig seyn sollen,
+#facs_168_r2l23 sich bey ihrer Durchfarth bey denen bestellten Aufsehere
+#facs_168_r2l24 und Zollneren, es seye nun bey der Zullggbrügg bey den
+#facs_168_r2l25 Siechenhaus von Thun, oder dem Zollhaur zu End des
+#facs_168_r2l26 Thun, Allment, oder aber bey dem Weibel im Gbat ge
+#facs_168_r2l27 bührend anzugeben, welche dann durch veranstaltung
+#facs_168_r2l28 nehrerbehnter Unserer Ohmgelt, Cammer Selbige geflist,
+#facs_168_r2l29 examinieren, den durch vorbemelte Zeugsamme Unsere
+#facs_168_r2l30 Ohmgelt Cammer bescheinenden Reif, und Côte, Wein, geg,
+#facs_168_r4l1 327.
+#facs_168_r4l2 gegen Zurukbehaltung der Certificaten ohngehindere
+#facs_168_r4l3 passieren, den übrigen aber gebührend anhalten, und
+#facs_168_r4l4 die widerhandlende behöriger maßen Unserem Amte
+#facs_168_r4l5 mann zu Thun angeben und verleiden wird.
+#facs_168_r4l6 5. Endlichen und so ist auch Unser will, daß biderhandlen
+#facs_168_r4l7 den fahls die Fehlbahr sich erfindenden mit denjenigen
+#facs_168_r4l8 Bußen, Strahten- und Confiscation beleget werden, so
+#facs_168_r4l9 allbereit durch die vorangezogene Mandat vom 8ten xbr
+#facs_168_r4l10 1717. 10t Marty 1722. und 9. Janl. 1745. vorbeschriben
+#facs_168_r4l11 sind, wovon dann Jehbeilen dem Angeber Ein, der ande¬
+#facs_168_r4l12 re Und, und der dricte Drictel Jenigem Oberamte
+#facs_168_r4l13 mann heimdienen soll, in deßen bezirk die bidethan
+#facs_168_r4l14 lung entdeket, und der zu leider Unserem Einschen
+#facs_168_r4l15 abgeführte beim wird angehalten werden. Welcher
+#facs_168_r4l16 Die eingange vermeldet Ihr zu männigliche nachricht
+#facs_168_r4l17 Fentl. von Canzlen verlesen, und zu künftigem ver¬
+#facs_168_r4l18 halt behöriger ohrten einzuschreiben Ihr bestens wüsten
+#facs_168_r4l19 berdet. Dat. d. 9ten Juny 1764.
+#facs_168_r4l20 Bedel an Mehloh. der Ohmgelt, Cammer. Sie deßen
+#facs_168_r4l21 Capeyl. berichten, mit überlaßen von Ihnen aus die
+#facs_168_r4l22 übrigen anstalten wegen der Controlle in der Stadt¬
+#facs_168_r4l23 und an den übrigen benammseten Orthen vorzubehren
+#facs_168_r4l24 auch in fernerem das mehrere Hl. Cons. zu thun
+#facs_168_r4l25 aufzutragen.
+#facs_169_r1l1 328./
+#facs_169_r1l2 Coll.
+#facs_169_r2l1 An
+#facs_169_r2l2 Die H. Amtleüth zu thun, Oberhoffen, Und erseen
+#facs_169_r2l3 Interlaben, Frutigen und Winns
+#facs_169_r2l4 Ihnen Gericht beym denen Wirthshäüseren, Conces¬
+#facs_169_r2l5 sionen im Oberland abforderen
+#facs_169_r2l6 Schultheiß und Rath etc.
+#facs_169_r2l7 Wann in dem heute an Eüch aberlaßenen befelchschreiben
+#facs_169_r2l8 betreffend die Einfuhr des Reifung und Cöte, Weins zu gun¬
+#facs_169_r2l9 sten der Invernen, Wirthen der Oberlands, gemelde
+#facs_169_r2l10 ist, daß Unserer verordneten Ohmgeltlamer über
+#facs_169_r2l11 laßen worden, denenselben auf Ihr anmelden das
+#facs_169_r2l12 guthfindende Quantum zu bestimmen, und denselben
+#facs_169_r2l13 darzu die erforderlichen patenten zu ertheilen, von
+#facs_169_r2l14 deßwegen aber nöthig seyn will, die denen Tavernen¬
+#facs_169_r2l15 und Pintenschenblairthschaften ertheilte Concessionen
+#facs_169_r2l16 zu untersuchen, und sonderheitlichen daraus zu ersehen
+#facs_169_r2l17 ob nicht Selbige überhaupt, oder benigstens die Eint¬
+#facs_169_r2l18 und anderen davon zu ausschenbung der Oberländi¬
+#facs_169_r2l19 schen Landbeins alleine restringiert sich befinden
+#facs_169_r2l20 Als befehlen Wir Euch mit aller Beförderung sothan
+#facs_169_r2l21 Concessionen denenselben originaliter abzufordern,
+#facs_169_r2l22 und sodann durch Eüberen Landschreiber davon
+#facs_169_r2l23 dimierte Copeyen zu ziehen, welche sodann mit aller
+#facs_169_r2l24 befürderung Ihr bemelt Unserer verordneten Ohn
+#facs_169_r2l25 geltlammer zu gemessener Einsicht sammt Eüeren
+#facs_169_r2l26 gedanken einsenden berdet. Wie zu thun etc. Det. der
+#facs_169_r2l27 9th Juny 1764

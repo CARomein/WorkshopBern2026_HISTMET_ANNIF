@@ -1,0 +1,44 @@
+Law ID: BER.01.001.3102
+Name: Ihnen befehlen, die Gemeinden zu ermahnen, dass sie ihre Soldaten mit Kleidung versehindt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 33/33
+# High similarity (>=50%): 32
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_316_r2l13 Huc pertinet das Mandat
+#facs_316_r2l14 alle xyz ambtl. xxx
+#facs_316_r2l15 0. und UnderErgeül etc.
+#facs_316_r2l16 wegen General Intendenten,
+#facs_316_r2l17 wie zusehen Fol. 605.
+#facs_316_r2l18 An Alle T. und W. Ambtleuts
+#facs_316_r2l19 4. Stäct, Preyweibell und Amman
+#facs_316_r2l20 Ihnen befehlen, die gemeinden zu Ermahnen
+#facs_316_r2l21 daß sie Ihre Soldaten mit Kleidung ver¬
+#facs_316_r2l22 sehndt.
+#facs_316_r2l23 Schultheis Röth und Burger etc.
+#facs_316_r2l24 von Unser Generalitet länget uns den
+#facs_316_r2l25 Bericht ein, daß ein guther Theill Unser
+#facs_316_r2l26 Eine geraume Zeith daher mit nicht gering
+#facs_316_r2l27 Costen zu guthem des liebwarthen Vaterlandts¬
+#facs_316_r3l1 assem
+#facs_316_r3l2 und Erhaltung deßen geist- und Welltlichen freyheiten
+#facs_316_r3l3 habender milit an aller gaetung kleidung
+#facs_316_r3l4 sehr Entblößet seye, und deßtwegen nöthig
+#facs_316_r3l5 sein wollen, daß Eint und andere derselben.
+#facs_316_r3l6 hiermit wider versehen, und in den standt gesetzet
+#facs_316_r3l7 werden, Ihre schuldigkeit abzestacten; Verwegen
+#facs_316_r3l8 Hör dir hierdurch befehlen wollen, denen gemeinen
+#facs_316_r3l9 deines Ambts Unsere für Stadt und Landt
+#facs_316_r3l10 tragende Dorofallt, große Mueh und Costen
+#facs_316_r3l11 wohl vorzestellen, und solchemnach Ihres Theills
+#facs_316_r3l12 auch dahin anzehaltten, daß Ihrige dißfahls auch
+#facs_316_r3l13 beyzutragen, daß Ihr in dem felldt stehende
+#facs_316_r3l14 angehörige sich mit nöthigen Hembberen und Kleidern
+#facs_316_r3l15 versehen, oder dafern die angehörigen solches
+#facs_316_r3l16 nicht erstatten Thäten, die gemeinden Er in¬
+#facs_316_r3l17 Ihrem Costen fürderlich verschaffen sollind,
+#facs_316_r3l18 wie Zethuz wüsten wirst. Rathl. 25. July 1712.

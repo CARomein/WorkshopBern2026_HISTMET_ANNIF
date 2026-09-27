@@ -1,0 +1,113 @@
+Law ID: BER.01.001.4352
+Name: Betteljegi von Neuenburg ausgeschrieben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 102/102
+# High similarity (>=50%): 98
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_30_r3l8 Sir,
+#facs_30_r3l9 die Herren Amtleute, zu Romainmotier, Anbonne Neus Bommont
+#facs_30_r3l10 Nydau und Buren
+#facs_30_r3l11 Beteljegi von Neuenburg ausgeschrieben.
+#facs_30_r3l12 Schultheis und Rath
+#facs_30_r3l13 Da sowohl die fürstl. Regierung als die Stat zu Neuenburg
+#facs_30_r3l14 durch das Seyspiel Lobl. Stands Fryburg bewogen worden
+#facs_30_r3l15 auf den 28. 29. 30. die und 2. 3. und vierten könfftigen Monaten
+#facs_30_r3l16 eine General Oectaljegi hinter Ihnen anzuordnen, als werde
+#facs_30_r3l17 Ihr befelchnet, an die vier buntleute Romain notier Anbonne
+#facs_30_r3l18 neur und Bommont, in jeder der gegen Frankreich angrenzenden
+#facs_30_r3l19 dorfschafften :/ an Ny dan und Büren aber in jeder der
+#facs_30_r3l20 gegen die benachbahrten Nände Grenzender Dorfthafften,
+#facs_30_r3l21 eine vorache von vier Mann zu bestellen, und mit einem
+#facs_30_r3l22 Theil derselben mit Zuhug der Patronillen, gegen dasige
+#facs_30_r3l23 Grenzen obige Tage und entlich darauf folgende hindurch
+#facs_30_r3l24 eigentlichst streifen zu laßen, welche Patronellen das
+#facs_30_r3l25 das aufgebrachte kund sich flüchtende Resindel Euch
+#facs_30_r3l26 zu führen, Ihr dan solcher examiniren werdet, um zu sehen
+#facs_30_r3l27 ob nicht signalisirte und wirklich ausgeschriebene Übelthäter
+#facs_30_r3l28 sich darunder befinden, solten deren in der That sichdarunter
+#facs_30_r3l29 befinden, so werdet Ihr solche in gefängl. Haft setzen, um
+#facs_30_r3l30 und deßen berichten. Die Deserteurs wie auch andere
+#facs_30_r3l31 mit päßen versehenen Bauet Ihr Ihren vorhabenden
+#facs_30_r5l1 53
+#facs_30_r5l2 weg freygehend und Sie allenfahls dazu mit Kaufpäßen
+#facs_30_r5l3 versehen laßen; übrige aber werdet Ihr durch ein Piquet
+#facs_30_r5l4 durch den kürzesten Weg auf die Krentzen führen, Ihnen
+#facs_30_r5l5 aber auf der Rente das zum Unterhalt, erforderliche, jedoch mit
+#facs_30_r5l6 aller Sparsamkeit gefolgen zu laßen. Datum d. 24 ten
+#facs_30_r5l7 8 f 6 x
+#facs_30_r5l8 Am
+#facs_30_r5l9 Herren Amtsmann zu Erlach
+#facs_30_r5l10 Vndteljegl von Namenburg ausgeschrieben
+#facs_30_r5l11 Schultheis und Bath etc.
+#facs_30_r5l12 Da sobohl die fürstl. Regierung als die Rat zu Neuenburg
+#facs_30_r5l13 durch das Reyspiel Lobl. Stands Fryburg bewogen worden
+#facs_30_r5l14 auf den 28-29-30ten dis, und 2-3- und 4ten könftigen Monats
+#facs_30_r5l15 eine General Inteljegen hinter Ihnen anzuordnen, als
+#facs_30_r5l16 werdet Ihr befelchnet, in jede der an Neuenburg angränzen
+#facs_30_r5l17 den Dorfschaften, eine Wache von vier Mann zu bestellen
+#facs_30_r5l18 und mit einem Theil derselben mit Zuzug der Patronilleur
+#facs_30_r5l19 gegen dasige Krrenzen, obige Tage, und etlich darauf fol¬
+#facs_30_r5l20 gende hindurch eigentlichst streifen zu laßen, welch Sa¬
+#facs_30_r5l21 fraullen dan, das aus dem Neuenburgischen gefluchtete
+#facs_30_r5l22 der sonsten aufgebrachte Gesindel Euch zuführen, Ihr dan
+#facs_30_r5l23 solches examiniren werdet, um zu sehen, ob nicht signalisirte
+#facs_30_r5l24 und wirklich ausgeschriebene Übelthäter, sich darunter bey
+#facs_30_r5l25 hin den solten deren in der That sich darunter befinden
+#facs_30_r5l26 so werdet Ihr solche in gefänglichen Verhaft setzen, und Uns
+#facs_30_r5l27 deßen berichten, die Deserteurs wie auch andere mit päßi¬
+#facs_30_r5l28 verstehene, könnet Ihr Ihren vorhabenden Weg freygehen, und
+#facs_30_r5l29 Sie allenfahls dazu mit Kaufpäßen versehen laßen, übrige
+#facs_30_r5l30 aber werdet Ihr durch ein Piquet an die Zihlbrük führen, und danten
+#facs_30_r5l31 der Neuenburgischen Regierung, und der Consigne übergeben
+#facs_30_r5l32 laßen. Ihr berdet auch während oben ausgesetzten Tagen, der
+#facs_30_r5l33 Neuenburgischen Jagd, und etliche darauf folgende Tage
+#facs_30_r5l34 hindurch, bey der Zichtbruk eine Waache bestellen,
+#facs_31_r3l1 damit das daher sich fluchtende Gesindel, aufgehalten, und
+#facs_31_r3l2 dahin zurük spedirt werden könne. Ihr werdet auch weiters
+#facs_31_r3l3 gegen übrige Tfäße, an die Uns angränzende Stände, exacte
+#facs_31_r3l4 Patronillen bestellen, damit das aus dem Neuenburgischen
+#facs_31_r3l5 fortgeschaffte Gesindel, nicht alsobald sich in Unser im
+#facs_31_r3l6 übrige Eydegnößische Land wieder einberste. Dat. d. 24ten xbr
+#facs_31_r3l7 Am
+#facs_31_r3l8 Herren Buntmann zu Ißerten.
+#facs_31_r3l9 Bekaljegi von Neuenburg ausgeschrieben.
+#facs_31_r3l10 Schultheis und Rath
+#facs_31_r3l11 da sobohl die fürstl. Regierung, als die Stat zu Neuenburg
+#facs_31_r3l12 durch das Beyspiel Lobl. Standes Fryburg belzogen worden.
+#facs_31_r3l13 auf den 28-29-30-diß, 2-3 und 4ten könffigen Monats eine gene¬
+#facs_31_r3l14 ral Beteljegi hinter Ihnen anzuordnen, als werdet Ihr befeh¬
+#facs_31_r3l15 net, in jeder daran Neuenburg oben an dem Amt Grand an
+#facs_31_r3l16 angrenzenden Dorfschafften, eine Wache von vier Mann
+#facs_31_r3l17 zu bestellen, und mit einem Theil derselben, mit zuzug¬
+#facs_31_r3l18 der Patrouilleurs gegen dasige direnzen, obige tage und
+#facs_31_r3l19 etlich darauf folgende hindurch eigentlichst streiffen zu
+#facs_31_r3l20 laßen, welche Patronellen dan, das aus dem Neuenburgischen
+#facs_31_r3l21 gefluchtete oder sonst aufgebrachte Besindel Euch zuführen
+#facs_31_r3l22 ren, Ihr dan solcher examiniren werdet, um zu sehen ob
+#facs_31_r3l23 nicht signalierte und wirklich ausgeschriebene Übelthäter sich
+#facs_31_r3l24 darunter befinden, solten deren in der that darunter sich befindne
+#facs_31_r3l25 werdet Ihr solche in gefängl. Haft setzen, und und und deßen berichten
+#facs_31_r3l26 die Deserteurs wie auch andere mit präsen verstehene
+#facs_31_r3l27 könnet Ihr ihren vorhabenden Weg freygehen, und Sie allen
+#facs_31_r3l28 fahls dazu mit Laufpästen versehen laßen, übrige aber an
+#facs_31_r3l29 die nächsten Krenzen, des Amts gegen die Franche Comt
+#facs_31_r3l30 führen, und Ihnen den Wiedereintrit in Unser Hand unter
+#facs_31_r4l1 Collat
+#facs_31_r4l2 Collal
+#facs_31_r5l1 56
+#facs_31_r5l2 unter Bedrohung harter Straffe verbieten; Ihr werdet auch,
+#facs_31_r5l3 die übrige an die Franche Comte stoßende route, exacte Patrouillen
+#facs_31_r5l4 bestellen, damit das aus dem Neuenbürgische fortgeschaffte Gesindes
+#facs_31_r5l5 nicht alsobald sich in Unsere und übrige Eydsgrößische Landwieder
+#facs_31_r5l6 einwerfe. Wann auch Unser gemeinsame Amtsmann zu Grand¬
+#facs_31_r5l7 son, das in seinem Amt aufgebrachte Gestindel, gegen Eüns
+#facs_31_r5l8 Amt führen und Euch übergeben laßen wolte, so werdet Ihr
+#facs_31_r5l9 Solches unter Consigne übernehmen können, und dan durch den
+#facs_31_r5l10 kürJesten Weg gegen die französischen Gränzen begleiten
+#facs_31_r5l11 laßen, Ihme aber unterwegens das zum Unterhalt erforderlichen
+#facs_31_r5l12 jedoch mit behöriger Sparsamkeit reichen laßen. Dat. d. 24 xber 1768.

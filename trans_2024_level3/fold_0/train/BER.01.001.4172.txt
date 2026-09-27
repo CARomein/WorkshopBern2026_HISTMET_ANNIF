@@ -1,0 +1,122 @@
+Law ID: BER.01.001.4172
+Name: Mandat wie in Criminal Fählen gegen regimentsvehige Burger von Bern zu verfahren seyn wolle.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 111/111
+# High similarity (>=50%): 110
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_273_r1l34 Vide daheriges Decret im T. Sfr. Buch 000. pag. 464
+#facs_273_r1l35 uns Pol. Buch N. 14. pag: 265. et seqq.
+#facs_273_r3l1 52 9
+#facs_273_r3l2 Mandat
+#facs_273_r3l3 Wie in Criminal fählen gegen Regiments¬
+#facs_273_r3l4 behige Bürger von Bern zu verfahren seyn wolle,
+#facs_273_r3l5 Wir Schultheiß Klein und Broße
+#facs_273_r3l6 Rähte der Stadt und Respubli Bern, thun
+#facs_273_r3l7 kund hiermit; demenach Wie Gut und nöhtig
+#facs_273_r3l8 befunden zu verordnen, wie gegen einen
+#facs_273_r3l9 Regiments-Wehigen Burger von Bern, in
+#facs_273_r3l10 dem Fahl eines Verbrechens, daß derselbe
+#facs_273_r3l11 Criminalisiert werden müßte, verfahren
+#facs_273_r3l12 werden solle?
+#facs_273_r3l13 Als haben Wir demenach, zu genauer
+#facs_273_r3l14 Befolgung, dieser Unser Verordnung, hiemit
+#facs_273_r3l15 kund thun wollen, da ein Regiments¬
+#facs_273_r3l16 wehiger Bürger allhiesiger Haubt Stadt,
+#facs_273_r3l17 sich in unseren Teutsch- oder Welschen Landen
+#facs_273_r3l18 eines Verbrechens schuldig machen wurde,
+#facs_273_r3l19 Darauf eine Criminal Procedur erfolgen solte,
+#facs_273_r3l20 daß selbige an dem Ohrt, wo die That legen¬
+#facs_273_r3l21 gen worden, Ibar Instruiert, daselbst aber
+#facs_273_r3l22 darüber nicht abgesprochen, sonderen solche
+#facs_273_r3l23 Unserem täglichen Raht eingesendt werden
+#facs_274_r2l1 Solle; damit nach anleitung des disöhr¬
+#facs_274_r2l2 tigen Decrets, die Urtheil gefellet werde,
+#facs_274_r2l3 Worbey jedennoch diejenige besondere
+#facs_274_r2l4 Fähl, welche, beyen der Natur und Beschaf¬
+#facs_274_r2l5 fenheit deß Fehlers, Wir gut erachten
+#facs_274_r2l6 solten, ohne anders, vor uns zu ziehen,
+#facs_274_r2l7 vorbehalten seyn sollen
+#facs_274_r2l8 Wann auch in Verführung einer solchen
+#facs_274_r2l9 Procedur, die Folter angedrohen, vorgewiesen,
+#facs_274_r2l10 oder so gar, in einem mehreren, oder
+#facs_274_r2l11 minderen Grad selbsten angebendt werden,
+#facs_274_r2l12 müsste, haben Wir geordnet, daß, in
+#facs_274_r2l13 allen diesen Fählen, die Sach fürderlichs
+#facs_274_r2l14 an unseren täglichen Raht einberichtet
+#facs_274_r2l15 selbe aber jeweilen zum Entscheid und Erthei¬
+#facs_274_r2l16 lung des gutfindenden Befehls, uns von
+#facs_274_r2l17 getragen, zumahlen ohne denselben nicht
+#facs_274_r2l18 fürgefahren werden soll.
+#facs_274_r2l19 Belangend die Confiscation des Allfäh¬
+#facs_274_r2l20 ligen Vermögens eines solchen Criminalisierten
+#facs_274_r2l21 so soll auch den Fahl, daß selbe von Uns¬
+#facs_274_r2l22 zurde Erkent werden, es nach denen vorhanden,
+#facs_274_r4l1 531.
+#facs_274_r4l2 Ordnungen, gebrauchen, und jeden Orts erweis
+#facs_274_r4l3 lich habenden Rechten gehalten seyn.
+#facs_274_r4l4 Wir befehlen allso allen Unseren
+#facs_274_r4l5 Ober, und Under Amtleüthen, Stätten,
+#facs_274_r4l6 Herrschaffts, Gerichts-Herren und Vasallen
+#facs_274_r4l7 Unserer Teütsche und Welschen Landen
+#facs_274_r4l8 dieser Unser Verordnung in sich ereignen¬
+#facs_274_r4l9 den Fählen, nachzuleben, und selbige in
+#facs_274_r4l10 allen Stuben zu befolgen. Wie Wir
+#facs_274_r4l11 Uns deßen dann gegen alle ins gesamt, und
+#facs_274_r4l12 einen jeden ins besonders bestens versehen.
+#facs_274_r4l13 Geben in Unserer Großen Rahts Versammlung
+#facs_274_r4l14 den 22ten April 1762.
+#facs_274_r4l15 Translation
+#facs_274_r4l16 Pour L'Advoyer Petit et Grand
+#facs_274_r4l17 Conseil de la Ville et Republique de Berne,
+#facs_274_r4l18 savoir faisons; Qu'ayants jugé necessaire de
+#facs_274_r4l19 Statuer, comment il devra être procedé contre
+#facs_274_r4l20 an de nos Citoyens dans des Cas Criminels, & d'en
+#facs_275_r2l1 Rendre sachans par une publication formelle,
+#facs_275_r2l2 tous ceux, à qui il appartiendra: Nous
+#facs_275_r2l3 aurions statué & ordonné, Statuons & Ordonnons
+#facs_275_r2l4 comme suit
+#facs_275_r2l5 Lors qu'un Citoyen de Berne, pour crime
+#facs_275_r2l6 commis dans Nos Terres, soit du Paÿs Allemand
+#facs_275_r2l7 soit Romand, tomberoit dans le Cas d'une
+#facs_275_r2l8 Poursuite Criminelle, Nous voulons qu'une
+#facs_275_r2l9 telle procedure soit constamment instruite dans
+#facs_275_r2l10 le lieu même du Delit, sans néanmoins, que
+#facs_275_r2l11 le juge de ce lieu aye à rendre aucune sentence
+#facs_275_r2l12 sur ce fait; mais il sera tenu d'envoyer la
+#facs_275_r2l13 Procedure düement instruite à Notre Petit Conseil
+#facs_275_r2l14 & dattendre les ordres Utérieurs, en Conformité
+#facs_275_r2l15 à l'ordonnance faite par nous à ce sujet, à
+#facs_275_r2l16 la reserve des Cas qu'il pourroit Nous plaire
+#facs_275_r2l17 dévoquer directement à Nous
+#facs_275_r2l18 Que si dans le cours d'un Procés Criminel
+#facs_275_r2l19 contre un de nos citoyens, il fut trouvé
+#facs_275_r2l20 necessaire de mettre en usage la Torture, soit
+#facs_275_r2l21 seulement par Voye de Commission, soit
+#facs_275_r2l22 pour y appliquer en effet l'accusé; Le Juge
+#facs_275_r3l1 533.
+#facs_275_r3l2 chargé d'instruire la procedure, ne devra en
+#facs_275_r3l3 venir à aucun de ces actes, qu'il n'aye préala¬
+#facs_275_r3l4 blement & à tems informé du fait Nôtre
+#facs_275_r3l5 Petit Conseil, qui nous en fera le rapport,
+#facs_275_r3l6 pour en être deudé par devant Nous.
+#facs_275_r3l7 Quant à la confiscation des Biens d'un
+#facs_275_r3l8 tel Criminel, Nous voulons et entendons,
+#facs_275_r3l9 qu’aussi-tôt qu’elle sera prononcée par Nous,
+#facs_275_r3l10 On s’en tienne à cet égard à ce que portent
+#facs_275_r3l11 Nos Ordonnances emanées à ce sujet, & les
+#facs_275_r3l12 Droits & Titres de chaque lieu
+#facs_275_r3l13 Mandans et enjoignans sur ce à tous Nos
+#facs_275_r3l14 Baillifs, à toutes Nos Villes, à Nos Vassaux
+#facs_275_r3l15 & officiers dans toute l'étendüe de Nos Terres,
+#facs_275_r3l16 foit du Pays Allemand, soit du Paÿs de Vaud,
+#facs_275_r3l17 d'observer et de suivre ponctuellement le
+#facs_275_r3l18 préscrit de nôtre présente Ordonnance, ce que
+#facs_275_r3l19 Nous attendons de tous et d'un chacun deux.
+#facs_275_r3l20 Donné en Nôtre Souverain Conseil le 22e
+#facs_275_r3l21 Avril 1762
+#facs_275_r3l22 Chancellerie de Berne

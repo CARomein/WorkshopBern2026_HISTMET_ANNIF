@@ -1,0 +1,44 @@
+Law ID: BER.01.001.4200
+Name: Verbott wegen Einbringung fremder Schweinen.
+
+#facs_150_r6l1 2
+#facs_150_r6l2 en
+#facs_150_r6l3 ch
+#facs_151_r1l1 solch
+#facs_151_r1l2 Wetugh un
+#facs_151_r1l3 obeah utgesobn.
+#facs_151_r1l4 enanfe .
+#facs_151_r2l1 An
+#facs_151_r2l2 alle Leütsch, und Weltsche Amtleüth, vier Städt, Freÿweibel
+#facs_151_r2l3 und Ammann, Item Zedel an alle Cänzel hiesiger Hauptstatt
+#facs_151_r2l4 und an die Pfeilar anzuschlagen
+
+#facs_151_r2l5 verbott wegen eibringung fremder Schleinen etc.
+#facs_151_r2l6 Schultheiß Rath und Jurger t.
+#facs_151_r2l7 Es ist und der Vortrag beschehen, bie nochtlendig es seÿn wolle
+#facs_151_r2l8 dad ehemalige Verbott, wegen einbringung der fremden hetten
+#facs_151_r2l9 und mägeren Schlaeinen zu erneueren. Nachdame Wir nun
+#facs_151_r2l10 arüber die erforderliche Reflectionen gemacht, haben Wir
+#facs_151_r2l11 ut befunden und verordnet, daß von nächstkünftigem
+#facs_151_r2l12 Raujahr an die Einbringung aller fremden fetten und
+#facs_151_r2l13 mageren Schleinen in unsere Land gänzlich uns unter
+#facs_151_r2l14 der hiemit darauf gesezten straff unterstagt und verbotten
+#facs_151_r2l15 seyn solle, also daß, wann nach dieser Zeith frembde, in
+#facs_151_r2l16 unserer gottmäßigkeit e v hette oder mägere Schleine
+#facs_151_r2l17 einbringen und verkauffen wurden, selbe mit der Consio¬
+#facs_151_r2l18 cation, und fahld man selbige nicht entdeken könnte,
+#facs_151_r2l19 die einheimischen Käuffer für jeder Schlein mit zehen Tha¬
+#facs_151_r2l20 leren Buß belegt werden, davon der halbe theil dem
+#facs_151_r2l21 Verleider, und dar andere halbe Theil dem Richter der
+#facs_151_r2l22 Dats heimdienen soll,
+#facs_151_r2l23 Damit auch die Landlauth angeheischet werden, die Schn¬
+#facs_151_r2l24 hucht zu befürderen, und ins aufnemmen zu bringen, hat
+#facs_151_r2l25 Wir eine Probierheith auf sacht jahr gesaht, innert belhe
+#facs_151_r4l1 199
+#facs_151_r4l2 imert welchen diese unsere Verordnung in krahten bestehen
+#facs_151_r4l3 e
+#facs_151_r4l4 und nach aller Schärfe auf selbiger gehalten berdem Deße
+#facs_151_r4l5 Wir Euch berichten wollen, mit dem befelch hierauf geflißen
+#facs_151_r4l6 zu halten, und die fehlbahren zu bestraffen, dieses dann ab¬
+#facs_151_r4l7 ler Orthen publicieren zu laßen; Dat. d 80t Marti 1764.
+END

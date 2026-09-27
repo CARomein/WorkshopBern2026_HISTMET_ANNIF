@@ -1,0 +1,99 @@
+Law ID: BER.01.001.4245
+Name: Wegen Schulden-Contrahierung der minderjährigen Persohnen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 88/88
+# High similarity (>=80%): 18
+# Low similarity (<80%): 70
+# Not found: 0
+#
+#facs_247_r1l20 den
+#facs_225_r5l15 alle Teütsch- und Weltsche H. Amtleüth, Vier Städt, freybei¬
+#facs_107_r4l4 Beibel und Amman; item per Zedel an hiesige Cänzel
+#facs_171_r2l4 und ausbahl der Contrahierenden Partheyen ausfer¬
+#facs_120_r5l17 Schultheiß Räth und Burger etc.
+#facs_25_r2l16 worden; haben Wir aus gnugsammen Uns darzu
+#facs_226_r5l12 cieren laßen, ist in mitkommendem placcard enthalten,
+#facs_125_r1l24 6. Vivir
+#facs_30_r1l1 54.
+#facs_42_r3l15 re Mandat und Verordnungen, den Wucher
+#facs_166_r3l3 mit hindansezung aller anderen Beschäften, und bey¬
+#facs_81_r2l11 Babelfuhren in Druk ausgehen zu laßen.
+#facs_14_r6l11 haben Wir mit Zusendung gnugsamer Exemplarien davon
+#facs_20_r3l4 Bolligen
+#facs_91_r2l3 Euch hiemit befehlen wollen, die zu end dieser
+#facs_44_r2l16 nung alljährlich an dem ersten Sontag nach
+#facs_107_r4l19 von Canzlen verlesen, und gewohnter Orten anschla¬
+#facs_104_r5l9 ten Orten anschlagen zu laßen, damit ein Jeden
+#facs_177_r5l9 gen von uns beschehen mögen. Wie zu thun p. Datl.
+#facs_214_r2l16 6th Dec: 1764
+#facs_238_r3l22 Verordnung eingeben; Über diß aber
+#facs_4_r2l2 Obid
+#facs_193_r5l2 Wir Schultheiss, Klein und Grosse Räth der
+#facs_181_r5l21 Stadt und Respubli Bern, Thun kund hiemit. Da
+#facs_3_r1l1 Coll
+#facs_193_r5l4 nach Wir bahrnemmen mögen, daß seit einiger Zeit da¬
+#facs_83_r3l5 Unsere Verordnung hiemit bestätiget und
+#facs_244_r3l10 kösten anhalten, sondern noch über dis mit
+#facs_65_r3l18 funden, bekannt zu machen, daß Allerman¬
+#facs_116_r3l13 per P. S. zu melden; daß durch die Landschreiberey
+#facs_29_r2l3 ungezwirntem Garn verarbeitet werden.
+#facs_195_r3l13 trachten werde; Als haben Wir zu bevorkommung
+#facs_106_r3l2 damit aber dieser Unserer Verordnung gebührenden
+#facs_227_r2l4 zu verordnen gutbefunden, und befahlen zu diesem end¬
+#facs_172_r2l1 9. Indemne nicht allein durch die Vorstellungen der
+#facs_100_r4l14 mit gesinnen, solchen auch Ihrer Seits zu feynen
+#facs_242_r3l18 guths, seine Schwellenen oder andere Werk
+#facs_83_r2l12 Verordnung besser einrichten und erleichten,
+#facs_40_r3l19 bestraßen werden; Also verbahrnen Wir auch
+#facs_182_r5l1 355
+#facs_76_r4l11 daß darob gehalten werde, auch solches seines
+#facs_109_r3l4 bestimmt verbleibet; da dann der oder diejenige
+#facs_246_r4l22 welchem Tag diese Land Jäger angestelt worden,
+#facs_12_r2l17 sollet Ihr selbigen einen Todten, Schein under Eüeren
+#facs_245_r2l2 Duß von zwanzig Pfunden von denen
+#facs_58_r5l17 aber sollen Sie die Metzger und Händlere ge¬
+#facs_216_r4l17 nun Wir dergleichen schädliche Bücher in unseren Landen
+#facs_249_r2l22 forderen, ohnerheblich, und nicht vermögenden fahls
+#facs_245_r2l22 anzuzeigen, bey Straff der Gefangenschafft
+#facs_7_r2l16 publiciren laßen, auch die darwider handlende, mit
+#facs_156_r3l5 worden. Die hierbey fallende Rußen, sollen denen Verleideren ganz zukommen
+#facs_219_r2l11 haltung seiner Nahmens, Eine Recompene von Einhunden
+#facs_211_r4l6 treiben, sich vor der Übertreitung dieses Mandats und der
+#facs_95_r3l9 sind Wir berichtet worden, daß verleichenen
+#facs_31_r2l7 jenigen, die dieses nicht beobachten werden, der
+#facs_240_r4l11 sollen dieselben, wo imer die Lage des Landes
+#facs_155_r3l19 verleidet werden.
+#facs_101_r3l2 alle Ober- und UnterErgänwische Amtleüth, Vier
+#facs_108_r3l4 Ursachen bikken, und in Landesvächterlicher Be¬
+#facs_230_r3l3 Sollen den Bericht einsenden, wie viel das Klaffter
+#facs_115_r4l12 Herrschaft und Berichtschreibungen, ein Exacter In¬
+#facs_150_r2l7 anzahl neuer Auplanen zum Vorschein kommen, welche un¬
+#facs_180_r6l5 tet werden solle. Ihr werdet demmenach gleich auf
+#facs_154_r2l4 Uhren der Abends; auch aller Weiten, er seye bey
+#facs_80_r2l4 Land Gerichts-Wenner zu sefftigen.
+#facs_93_r3l13 denenjenigen Weibt, persohnen, so in gleichen
+#facs_27_r2l22 fertiget werden, so sollen die Fabricanten und Weber
+#facs_30_r3l1 55.
+#facs_90_r3l7 Ihnen anbefehlen, auf diejenigen Leute, welche
+#facs_7_r2l21 und gleichfahls in Unser Landschafft solle gehalten wer¬
+#facs_78_r2l5 Berden
+#facs_44_r2l12 Damit aber niemand, bat Stands Er immer
+#facs_65_r3l10 4. Ist in fernerem Mrghhl. Will, daß gegen
+#facs_106_r3l21 Übertrecker dieser Unserer Verordnung gleich
+#facs_36_r3l12 Ersten Sontag nach Osteren, auf Einmahl von der
+#facs_180_r3l1 von Canzlen verlesen, auf die Übertrectere ge¬
+#facs_34_r2l15 bein in derselben, und dem anligenden Stadtgericht
+#facs_154_r3l22 belegt werden.
+#facs_156_r3l14 Beben in Unser großen Raths, Versammlung d. 22ten
+#facs_214_r2l16 6th Dec: 1764
+#facs_44_r3l21 Sign:
+#facs_4_r3l13 Canzley Bern.
+#facs_154_r3l23 Execution dieser Ordnung, und Entdebung
+#facs_27_r3l20 oder weniger Tragen faßen würden, als diese
+#facs_243_r3l14 red zu bezahlen schuldig seyn sollen; Alles neben
+#facs_244_r3l7 Umständen, denselben nicht nur zu Wider
+#facs_83_r2l2 Fuhren, gestadet seyn, als Vier Vierling¬
+#facs_20_r4l3 In dem Statt Gericht

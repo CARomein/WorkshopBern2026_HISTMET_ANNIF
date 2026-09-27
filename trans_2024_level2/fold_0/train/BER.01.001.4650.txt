@@ -1,0 +1,260 @@
+Law ID: BER.01.001.4650
+Name: Ordnung u. Vorschrift für das Fahr bey der Stilli, im Amt Schenkenberg.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 249/249
+# High similarity (>=50%): 231
+# Low similarity (<50%): 18
+# Not found: 0
+#
+#facs_1_r1l5 1
+#facs_1_r1l6 30
+#facs_2_r1l1 St. A. B.
+#facs_2_r1l2 AI
+#facs_2_r1l3 halO
+#facs_3_r2l1 An
+#facs_3_r2l2 die Herren Amtleute zu Schenken
+#facs_3_r2l3 berg, Riberstein, Castelen und
+#facs_3_r2l4 Stadt Grügg
+#facs_3_r2l5 Ihnen die neue Ordnung und Vor¬
+#facs_3_r2l6 schrift für das Fahr bey der Stilli¬
+#facs_3_r2l7 zu senden.
+#facs_3_r2l8 Schultheis und Raht
+#facs_3_r2l9 Auf das demüchtige Nachberben
+#facs_3_r2l10 der dißmahligen Resizern, des uns
+#facs_3_r2l11 Mannlehenpflichtigen Fahrs, bey
+#facs_3_r2l12 der Stilli Amts Schenkenberg, haben
+#facs_3_r2l13 Wir für gut befunden den über¬
+#facs_3_r2l14 fahrts Tarif nach gegenbärtigen
+#facs_3_r2l15 Zeit Umständen, abzuänderen
+#facs_3_r2l16 und die neue Ordnung und Vor¬
+#facs_3_r2l17 schrift für bemeltes Fahn zum
+#facs_3_r2l18 Dank beförderen zu laßen; wor¬
+#facs_3_r2l19 von eine genügfame Anzahl
+#facs_3_r2l20 Exemplar Euch zugesandt werden.
+#facs_3_r2l21 um Sie gebohnter Orten Eüeres
+#facs_3_r2l22 Amts zu jedermanns Nachricht
+#facs_4_r1l1 2
+#facs_4_r1l2 Schreibenberg allein
+#facs_4_r1l3 Collath
+#facs_4_r2l1 öffentlich anschlagen zu laßen.
+#facs_4_r2l2 /:in die Schlafbücher einzuschreiben,
+#facs_4_r2l3 auch Hand obzuhalten, daß der
+#facs_4_r2l4 selben nachgelebt werde :/ Datum
+#facs_4_r2l5 den 26ten Aug. 1789
+#facs_4_r2l6 Ordnung u. Vorschrift
+#facs_4_r2l7 für das Jahr bey der Stilli.
+#facs_4_r2l8 rm.
+#facs_4_r2l9 Amt Schentenberg.
+#facs_4_r2l10 Wir Schultheis und Raht
+#facs_4_r2l11 der Stadt und Republik Bern, thut
+#facs_4_r2l12 bund hirmit. Das auf die an Uns
+#facs_4_r2l13 gelangten Vorstellungen der
+#facs_4_r2l14 Lehens Resizern des Fahrs bey
+#facs_4_r2l15 der Stille, im Amt Schenkenberg,
+#facs_4_r2l16 Wir uns entschloßen haben,
+#facs_4_r2l17 eine nach den gegenbärtigen
+#facs_4_r2l18 Zeitumständen eingerichtete
+#facs_4_r3l1 3.
+#facs_4_r3l2 Ordnung und Vorschrift, so wohl
+#facs_4_r3l3 für bemelte Lehensbesicher des
+#facs_4_r3l4 fahrs, als aber für diejenigen
+#facs_4_r3l5 Personen zu ertheilen, welche
+#facs_4_r3l6 bey der Stille die Uberfahrt über
+#facs_4_r3l7 die Aare gebrauchen wollen; zu
+#facs_4_r3l8 welchem End nun wir, für so lange
+#facs_4_r3l9 Zeit als es Uns gefällt, und Wir
+#facs_4_r3l10 keine Abänderung nöhtig finden.
+#facs_4_r3l11 Zu allgemeinem Verhalt vorschreiben
+#facs_4_r3l12 und verordnen, was hienach folget;
+#facs_4_r3l13 1. Sollen die jederbeilige Resitere
+#facs_4_r3l14 und Empfahre des Mannlehens des
+#facs_4_r3l15 fahrs zu Stilli, schuldig und ver¬
+#facs_4_r3l16 pflichtet seyn, sich mit guten und
+#facs_4_r3l17 Bährschaften Fahrschiffen und Weyd
+#facs_4_r3l18 lingen, Seilern, Schalten, Rudern
+#facs_4_r3l19 und aller nohtbendigen Zugehörde
+#facs_4_r3l20 zu verstehen, und allso zu bestellen,
+#facs_4_r3l21 daß denjenigen so dieses Jahr
+#facs_4_r3l22 mit Pfennberth, Last oder andern
+#facs_5_r2l1 würden, den beim Schaden
+#facs_5_r2l2 oder Nachtheil zugefüegt werde,
+#facs_5_r2l3 anfristen die Bessezere des Fahrs
+#facs_5_r2l4 alle Kosten und Schaden nach Se¬
+#facs_5_r2l5 wandtnis der Sachen bey Abtrag
+#facs_5_r2l6 ihres Haab und Guts abzutragen
+#facs_5_r2l7 verbunden seyn.
+#facs_5_r2l8 2d. Sollen sie, dies ihre bestellten
+#facs_5_r2l9 Viesem Fahr taglich geflisentlich
+#facs_5_r2l10 und treulich, von Morgens früh
+#facs_5_r2l11 bey Tages Anbruch, bis Abends
+#facs_5_r2l12 Püt abwarten, so lang als Leute
+#facs_5_r2l13 von einem Gestad zum anderen noch
+#facs_5_r2l14 zu erkennen sind; ausgenommen.
+#facs_5_r2l15 und vorbehalten, die Todten Posten
+#facs_5_r2l16 und andere Personen, so von Leibs¬
+#facs_5_r2l17 und Noth wegen berufen werden,
+#facs_5_r2l18 als welche auch in der Nacht so¬
+#facs_5_r2l19 geschbind als möglich hinüber geführt
+#facs_5_r2l20 berden sollen; jedoch leztere um
+#facs_5_r2l21 den zbeyfachen Lohn; auf alle
+#facs_5_r3l1 5.
+#facs_5_r3l2 verdächtige Personen und Landstreicher
+#facs_5_r3l3 soll genau geachtet, und solche
+#facs_5_r3l4 weder bey Tag noch bey Nacht
+#facs_5_r3l5 nicht übergeführt werden.
+#facs_5_r3l6 S. Sollen dieselben jedermann ohne
+#facs_5_r3l7 Ansehen der Person, es seyen Fuh¬
+#facs_5_r3l8 ganger, Reuter, Kutschen, oder
+#facs_5_r3l9 fuhrleut, sie werden im großen
+#facs_5_r3l10 Schiff- oder im Weydling überge¬
+#facs_5_r3l11 führt- oder abgehollt, insonderheit
+#facs_5_r3l12 an den Zurhacher- oder anderen
+#facs_5_r3l13 Jahrmarkten, mit möglichster Ge¬
+#facs_5_r3l14 schwindigkeit bedienen, und transpor¬
+#facs_5_r3l15 tieren, ihnen wird auch ernstlich
+#facs_5_r3l16 anbefohlen, die Schiff und Weydlinge
+#facs_5_r3l17 nicht zu überladen, best verlursts
+#facs_5_r3l18 ihres Lehens und Erfahung alles daher
+#facs_5_r3l19 entstehenden Schadens.
+#facs_5_r3l20 4. Wann aber die Aare anlauft,
+#facs_5_r3l21 allzu groß wird, und den biß
+#facs_6_r2l1 hieher zum Zeichen angenommen.
+#facs_6_r2l2 an dem jenseitigen Badischen
+#facs_6_r2l3 Ufer zwischen z bey kleinenen
+#facs_6_r2l4 falfensteinen befindlichen Felsen.
+#facs_6_r2l5 belcher seiner Richtung nach über
+#facs_6_r2l6 das Waßer an des Hans Lehners
+#facs_6_r2l7 Hälis Haus zu Stilli zeigt, bedeut,
+#facs_6_r2l8 und die an dem hierseitigen Ufer
+#facs_6_r2l9 angesehte Pfäle mit einem Krand¬
+#facs_6_r2l10 zeichen bestimte Höhe erreicht, als
+#facs_6_r2l11 dann sind die Fähren nicht mehr
+#facs_6_r2l12 schuldig und verbunden, als auf
+#facs_6_r2l13 der passierenden Personen aus¬
+#facs_6_r2l14 drückenliches Begehren und eigene
+#facs_6_r2l15 Gefahr hin, über das Waßer zu
+#facs_6_r2l16 sezen; in welchem Fall sie auch
+#facs_6_r2l17 das spezifizierte Fahrlohn doppelt
+#facs_6_r2l18 beziehen können, und zu erheben
+#facs_6_r2l19 haben sollen.
+#facs_6_r2l20 Alles jedoch mit Ausnahme
+#facs_6_r2l21 des Klosters Königsfelden, welches
+#facs_6_r2l22 bie biß hiehin, allso auch ferners,
+#facs_6_r4l1 zu allen Zeiten über das Jahr hin¬
+#facs_6_r4l2 her frey päsieren kann.
+#facs_6_r4l3 5° Gebührt den Fahren das aus¬
+#facs_6_r4l4 schließliche Fahrrecht von Brugg
+#facs_6_r4l5 biß an Schmidberg, wie sie es
+#facs_6_r4l6 bisher genoßen, so daß allen
+#facs_6_r4l7 Schiffern, Fischern und dergleichen.
+#facs_6_r4l8 bey angemeßener Straffe gänzlich
+#facs_6_r4l9 verbotten und untersagt seyn soll
+#facs_6_r4l10 Personen und Waaren ums Geld
+#facs_6_r4l11 und auf Gebinn und Quast innert
+#facs_6_r4l12 diesem Bezirk über den Fluß zu
+#facs_6_r4l13 sehen.
+#facs_6_r4l14 Carif
+#facs_6_r4l15 wie viel die Hähren, von allem was
+#facs_6_r4l16 hin und her gefahren wird, von
+#facs_6_r4l17 jeder Jahrt zu beziehen haben sollen.
+#facs_6_r4l18 65 x
+#facs_6_r4l19 X. Von einer jeden Person, ohne
+#facs_6_r4l20 2.
+#facs_6_r4l21 Ansehen des Standes.
+#facs_7_r1l1 3° Von der Reuter für Man
+#facs_7_r1l2 und Pferd.
+#facs_7_r1l3 3° von einem Pferd oder Eßel
+#facs_7_r1l4 sie mögen bezalt seyn, womit
+#facs_7_r1l5 sie wollen
+#facs_7_r1l6 4° von einem Kuppelroß
+#facs_7_r1l7 5° Von einem Tauniro mit einem
+#facs_7_r1l8 Sast, auch
+#facs_7_r1l9 6° von einem gehörnten Haupt
+#facs_7_r1l10 vieh, es seyen Rinder, Stieren,
+#facs_7_r1l11 Riche etc.
+#facs_7_r1l12 2° Von einem Kalb, Schbein, Schaaf,
+#facs_7_r1l13 Geis und dergleichen
+#facs_7_r1l14 8. von einem Mast Ochsten
+#facs_7_r1l15 2 von einem beladenen Malthier,
+#facs_7_r1l16 10° von einem Heeren mit dem Rast,
+#facs_7_r1l17 15 von einer Kutsche oder Chause
+#facs_7_r1l18 darinnen ein oder mehrere Per¬
+#facs_7_r1l19 sonen. Von jedem Pferd, somit
+#facs_7_r1l20 sie bespannt.
+#facs_7_r1l21 12° von einer leeren Kutsche oder
+#facs_7_r1l22 Chaise, von jedem Pferd
+#facs_7_r2l1 5
+#facs_7_r2l2 2.
+#facs_7_r2l3 2
+#facs_7_r3l1 2
+#facs_7_r4l1 6zy X.
+#facs_7_r4l2 1
+#facs_7_r4l3 2.
+#facs_7_r4l4 2
+#facs_7_r4l5 s
+#facs_7_r4l6 2
+#facs_7_r4l7 2
+#facs_7_r5l1 2.
+#facs_7_r5l2 s.
+#facs_7_r5l3 2.
+#facs_7_r7l1 9
+#facs_7_r7l2 b. 23
+#facs_7_r7l3 13° Von einer Littlern darin jemand,
+#facs_7_r7l4 von einem Pferd oder Maulthier, 2
+#facs_7_r7l5 14° von einer leeren Littiere
+#facs_7_r7l6 aber, vom Pfere oder Paul¬
+#facs_7_r7l7 thier.
+#facs_7_r7l8 1
+#facs_7_r7l9 15: von einem beladenen Güter
+#facs_7_r7l10 bogen, von jedem Pferd damit
+#facs_7_r7l11 2
+#facs_7_r7l12 er bespannt
+#facs_7_r7l13 16. Von einem leeren hingegen,
+#facs_7_r7l14 1
+#facs_7_r7l15 vom Pferd
+#facs_7_r7l16 17° von einem Fuder Wein
+#facs_7_r7l17 3
+#facs_7_r7l18 vom Pferd.
+#facs_7_r7l19 samt vier Maas Wein, oder
+#facs_7_r7l20 das Geld dafür, nach Kauf und
+#facs_7_r7l21 Lauf.
+#facs_7_r7l22 18° von einem anderen bela¬
+#facs_7_r7l23 denen Wagen, es seyen Güter
+#facs_7_r7l24 Frucht, oder anders, vom Pferd, 1. 2.
+#facs_7_r7l25 19o von einem leeren Wagen
+#facs_7_r7l26 1„2.
+#facs_7_r7l27 .
+#facs_7_r7l28 aber, vom Pferd.
+#facs_7_r7l29 20. von einem beladenen Karren,
+#facs_7_r7l30 oder Wägelein vom Pferd " 2 " 2
+#facs_8_r2l1 21° Von einem Herzen aber, vom
+#facs_8_r2l2 Pferd.
+#facs_8_r2l3 22° von einer Mühlisteinfuhr, von
+#facs_8_r2l4 jedem Pferd
+#facs_8_r2l5 samt vier Maaß kein, oder
+#facs_8_r2l6 das Geld dafür, nach dem Mittel
+#facs_8_r2l7 preis.
+#facs_8_r2l8 23. von einem Krainen, Keßler
+#facs_8_r2l9 oder Weiber, die ihren Kram¬
+#facs_8_r2l10 auf dem Ruben nachtragen.
+#facs_8_r2l11 15
+#facs_8_r2l12 "
+#facs_8_r2l13 24° von einem Glastrager oder
+#facs_8_r2l14 jedem anderen mit der Kruse
+#facs_8_r2l15 so das große Schiff gebraucht.
+#facs_8_r2l16 1
+#facs_8_r2l17 von dem Weydling aber
+#facs_8_r2l18 nur
+#facs_8_r2l19 2.
+#facs_8_r2l20 .
+#facs_8_r2l21 "
+#facs_8_r2l22 Welche unsere Verordnung u. Tarif
+#facs_8_r2l23 Wir zu jedermanns Nachricht um
+#facs_8_r2l24 verhalt, bekant zu machen, und öffent¬
+#facs_8_r2l25 lich anzuschlagen anbefohlen haben.
+#facs_8_r2l26 Geben den 25.ten Juny und 26.ten
+#facs_8_r2l27 Angstmonat 1789
+#facs_8_r2l28 Cansley Bern.

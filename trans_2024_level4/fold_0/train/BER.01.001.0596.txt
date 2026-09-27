@@ -1,0 +1,186 @@
+Law ID: BER.01.001.0596
+Name: Nüwer unwarschaffter Taleren halb.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 175/175
+# High similarity (>=50%): 148
+# Low similarity (<50%): 27
+# Not found: 0
+#
+#facs_230_r4l22 Landtgricht Zollighoffen
+#facs_230_r4l23 Dieselben gaaben sollend v. ggericht werden, durch die
+#facs_230_r4l24 vögt zu Buchsee, Frauwenbrunnen vnd Frienisierg
+#facs_230_r4l25 thund sämptlich 21 t v 21 b, ziecht sich Jeden, amplman
+#facs_230_r4l26 verzeichten 7 t 9 krs. vnd soll zu Ruchsee vnd Frouwen,
+#facs_230_r4l27 brunnen ein Schießtag umb den Kinderen geschoßen
+#facs_230_r4l28 vnd durch die amptlich selbst, die gaaben zu vermordung
+#facs_230_r4l29 aller Unordnung, eßgetheilte werden, die amptlich sollen
+#facs_230_r4l30 auch die Unbezalten gaaben endtrichten
+#facs_230_r4l31 Sternenberg
+#facs_230_r4l32 Der nogt von Louppen soll die gaaben hinck ampts,
+#facs_230_r4l33 17
+#facs_230_r4l34 und des Landtskrichten, Thund Järlich
+#facs_230_r4l35 15/3
+#facs_230_r4l36 3
+#facs_230_r4l37 19 b.; Der Zillstadt zu Louppen gehört
+#facs_230_r4l38 st
+#facs_230_r4l39 5t v., zu Biberey
+#facs_230_r4l40 Derden zu Ruweneck
+#facs_231_r2l1 Und soll auch In disen degen Orthen In der Kherze¬
+#facs_231_r2l2 thoßen, und durch den amptman die alten und
+#facs_231_r2l3 unbezallten gaaben v sigericht werden.
+#facs_231_r2l4 Das man mit Vermehrung der gaaben alhie ins
+#facs_231_r2l5 höcher gestiget, Ist, die Vrsach das Künitz Rümplich
+#facs_231_r2l6 Wangen und Cappellen gar nach Ey Gern gelegen.
+#facs_231_r2l7 und derselben gaaben mitt einer Burgerschafft
+#facs_231_r2l8 nießend.
+#facs_231_r2l9 Obersibenthal hatt Jerlich zuuerschießen.
+#facs_231_r2l10 22 V 18 1/2 bz.
+#facs_231_r2l11 25
+#facs_231_r2l12 Nider sibenthal
+#facs_231_r2l13 24
+#facs_231_r2l14 14
+#facs_231_r2l15 z.
+#facs_231_r2l16 Prutingen
+#facs_231_r2l17 0
+#facs_231_r2l18 4½
+#facs_231_r2l19 Vnderseene
+#facs_231_r2l20 t
+#facs_231_r2l21 1465
+#facs_231_r2l22 5 t
+#facs_231_r2l23 Inderlacke,
+#facs_231_r2l24 20 V
+#facs_231_r2l25 Kasale
+#facs_231_r2l26 1
+#facs_231_r2l27 4
+#facs_231_r2l28 Chun
+#facs_231_r2l29 n
+#facs_231_r2l30 20b
+#facs_231_r2l31 -3
+#facs_231_r2l32 Frachselwald und Brandis
+#facs_231_r2l33 n
+#facs_231_r2l34 8
+#facs_231_r2l35 14 x
+#facs_231_r2l36 Cignonier
+#facs_231_r2l37 15
+#facs_231_r2l38 1
+#facs_231_r2l39 2
+#facs_231_r2l40 2
+#facs_231_r2l41 Burgdorff
+#facs_231_r2l42 D
+#facs_231_r2l43 I
+#facs_231_r2l44 Landtschut
+#facs_231_r2l45 30 V
+#facs_231_r2l46 17 h.
+#facs_231_r2l47 Wangen
+#facs_231_r2l48 15
+#facs_231_r2l49 Bipp
+#facs_231_r2l50 19
+#facs_231_r2l51 Aarwangen
+#facs_231_r2l52 1.20
+#facs_231_r2l53 1
+#facs_231_r2l54 Goffingen
+#facs_231_r2l55 V
+#facs_231_r2l56 9 h.
+#facs_231_r2l57 29
+#facs_231_r2l58 Arburg.
+#facs_231_r2l59 + 14 1/2 x
+#facs_231_r2l60 Arouw endtrichtet der Kleidtsherr - 19
+#facs_231_r2l61 8 f 17 b
+#facs_231_r2l62 Biberstein
+#facs_231_r2l63 Brugg, Küngsfalden und Schenckenberg zusamen,
+#facs_231_r2l64 1b
+#facs_231_r2l65 52V
+#facs_231_r2l66 -
+#facs_231_r2l67 endtrichtet der Hoffmeister
+#facs_231_r2l68 78 f 21 x
+#facs_231_r2l69 Lentzburg
+#facs_231_r2l70 -15 +
+#facs_231_r2l71 Arberg
+#facs_231_r3l1 1-60
+#facs_231_r3l2 34f 18 b
+#facs_231_r3l3 41f j L.
+#facs_231_r3l4 Erlach
+#facs_231_r3l5 19 f 10 x
+#facs_231_r3l6 Sydouw
+#facs_231_r3l7 + V
+#facs_231_r3l8 Büren
+#facs_231_r3l9 Thorberg
+#facs_231_r3l10 40
+#facs_231_r3l11 Wiblihourg
+#facs_231_r3l12 Bätterlingen oecon: Soll nur ein Zillstadt haben
+#facs_231_r3l13 12f 15 x
+#facs_231_r3l14 80 V 20 b
+#facs_231_r3l15 Bäckerlingen d’Stadt
+#facs_231_r3l16 Soll die gaaben verminderen, und ist alhie wharzen eine
+#facs_231_r3l17 Milden
+#facs_231_r3l18 das von difer Summen, Daillens so mich hatt, verordnet
+#facs_231_r3l19 5 V 15 b
+#facs_231_r3l20 20
+#facs_231_r3l21 1
+#facs_231_r3l22 100
+#facs_231_r3l23 Duron
+#facs_231_r3l24 6.0
+#facs_231_r3l25 Chillion
+#facs_231_r3l26 Aelen
+#facs_231_r3l27 Lausanna Stadt und Land habend zusammen
+#facs_231_r3l28 V
+#facs_231_r3l29 81
+#facs_231_r3l30 it.
+#facs_231_r3l31 & J.
+#facs_231_r3l32 47
+#facs_231_r3l33 Namens
+#facs_231_r3l34 Soll auch die gaaben verminderen
+#facs_231_r3l35 +
+#facs_231_r3l36 &
+#facs_231_r3l37 10
+#facs_231_r3l38 Bomont
+#facs_231_r3l39 +
+#facs_231_r3l40 77
+#facs_231_r3l41 Romamostier
+#facs_231_r3l42 c.
+#facs_231_r3l43 125
+#facs_231_r3l44 zuerdten
+#facs_231_r3l45 Wiblisturg zu vnd Bibersten 3. Zillstett.
+#facs_231_r3l46 Aanwangen, soll zu der Khor vff zweyen Zillstetten
+#facs_231_r3l47 schießen, nämlich erwangen und matißirgt
+#facs_231_r3l48 Wangen- 2 Zillstedt, Wangen und Langenthal auch In
+#facs_231_r3l49 der Kherschießen
+#facs_231_r3l50 Erutingen und Mülinen In der Kher schießen
+#facs_231_r3l51 Nider i beiehet 3. Zillstett, Neulich Winns, Erkenbach und
+#facs_231_r3l52 Wissenburg
+#facs_232_r1l1 Martius
+#facs_232_r1l2 1617
+#facs_232_r2l1 164
+#facs_232_r2l2 An alle T vnd W. Amptlüch, 4 Stede, beyweibel,
+#facs_232_r2l3 Aman, Schwartzenburg, Sumiswald,
+#facs_232_r2l4 unrer Unwarschafft Taleren halb,
+#facs_232_r2l5 Et
+#facs_232_r2l6 Ichs. p. Ob wol wir hievor durch und erschiedenliche Beschrieben
+#facs_232_r2l7 Sonderlichen durch jüngst usgangne Müntzwürdigung,
+#facs_232_r2l8 allerhand frömbde gold und Silber sorten, welche in derselben
+#facs_232_r2l9 undt begriffen und gewürdiget sind, zuempfach vnd v/8 Ze¬
+#facs_232_r2l10 geben verpotten, So gesäurend wir doch undt sonderam
+#facs_232_r2l11 bedüren, das vngeacht deßelben und des gemeinen schadens
+#facs_232_r2l12 ädtliche undt destömünder sollich Frömbd gelt, ob es gleich inde
+#facs_232_r2l13 gewürdiget, und Irem selbst eignen schaden empfachendt.
+#facs_232_r2l14 als abermalen die erfharnuß zuget, einer gavung fromb.
+#facs_232_r2l15 der thaleren so vns Itatia jus Land bracht, vnd albereit von
+#facs_232_r2l16 edtlich orth Lob. Eidtgnischt verrückt vnd verpoderen worden
+#facs_232_r2l17 als die für ein + gleich wie die Ryehsthalre vßgeln werden
+#facs_232_r2l18 Und aber by wydtem mit scuit whärt sind, daher wir das
+#facs_232_r2l19 zu fürkennung der vnseren gemeinen und sonderbaren
+#facs_232_r2l20 schadens zu ursachet worden, sich desselben ob solche frambde
+#facs_232_r2l21 gadung thaler mitt schwaal zu Land kommend, bey zy ehen
+#facs_232_r2l22 zwarnen, vnd mit allem dise frambde gedrung thaler
+#facs_232_r2l23 neusten zelaßen, Sonnders mencklich vorgenden anse¬
+#facs_232_r2l24 chens vnd verpodts zuerinneren, vnd gantz ernstig zuuer¬
+#facs_232_r2l25 manen, einige Frömbde gold oder silber sorn, die zu
+#facs_232_r2l26 Unser Münzordnung undt begriffen noch gewurdiget.
+#facs_232_r2l27 sind, by vorgender aufgesetzter Straff der Confiscation,
+#facs_232_r2l28 weder Inzenemen noch vnß zugeben, darumb du dise ver¬
+#facs_232_r2l29 warnung an offnen Cantzlin mencklichem zue nach¬
+#facs_232_r2l30 richt 3 ohne verzug ergan laßen solt, Datum 18 Martii
+#facs_232_r2l31 1617

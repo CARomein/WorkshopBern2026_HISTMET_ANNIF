@@ -1,0 +1,62 @@
+Law ID: BER.01.001.4960
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_481
+# Matched: 51/51
+# High similarity (>=80%): 35
+# Low similarity (<80%): 16
+# Not found: 0
+#
+#facs_17_r6l15 L'
+#facs_243_r3l10 Oberlandt, Winnenthall, gönw.
+#facs_243_r3l11 Frydeybel, Amann, Losanna, Morgen,
+#facs_243_r3l12 Neüres, Offedtenn, Milden.
+#facs_243_r3l13 Ichs p. die wyl Wie v. täglicher erfernuß
+#facs_243_r3l15 sehens, das wil fümbde Roßkäuffer, es
+#facs_243_r3l16 Syendl. Burgunder, oder andere, In Vnserenn
+#facs_243_r3l17 gepietten hin vnd wieder daß Vff kauffnung.
+#facs_243_r3l18 und Vnsern widerübrigen, die sich Jetzund
+#facs_243_r3l19 weiden Uns Ufflänend zufürende, undt sey
+#facs_175_r1l1 340
+#facs_243_r4l2 4775
+#facs_243_r4l3 also strekende so haben wir voll=
+#facs_243_r4l4 wendig geacht, solchen Aftruff der
+#facs_243_r4l5 coßen den frombden abzestiecken, Vndt hiermit
+#facs_243_r4l6 die vndt anderen Unseren Verstlütten
+#facs_243_r4l7 alles einsts Zebewelchen, das du von Cantzl
+#facs_243_r4l8 Dine ampts anghörigl. Binnen, vnd Wainl
+#facs_243_r4l9 laßest, by Imijdung schwäre straffenn
+#facs_243_r4l10 lybs vndt gutts, den Kombden, es seyen
+#facs_243_r4l11 Burgander oder andere, eineche wß zu beruffen
+#facs_243_r4l12 sonders zu disen läufen zu dienst daß
+#facs_243_r4l13 Vatberlandts Vndt Inheimischen Zuschul¬
+#facs_243_r4l14 den nott zubehalten, Vndt int Vbß dem
+#facs_243_r4l15 Landt zugeb., undt die Vortretter Buns¬
+#facs_243_r4l16 Verleiden Wirst, das ist Unse Will
+#facs_243_r3l8 Dat. i. Februar. 1612.
+#facs_243_r4l18 Reberg, Nykouw, Büren, Clach,
+#facs_243_r4l19 Treten, Louppen, Fibendix
+#facs_243_r4l20 # Vndt beneben, so einiche fürköüffe mit
+#facs_243_r4l21 ceßen by die fünferen wurden, die int glaubwürdige
+#facs_244_r1l1 [4]78
+#facs_244_r2l1 schyn furzeigen könnendt, das man es
+#facs_244_r2l2 Ihnen seloupb, wirst du dieselben mit
+#facs_244_r2l3 den rosen verhalten, vndt vns deßen
+#facs_244_r2l4 brüchtenn, ut sufr.
+#facs_244_r2l5 Wigouw Wechselwaldt Signow
+#facs_244_r2l6 Lobnig, kouwbnemen, Landtshutt
+#facs_244_r2l7 Buchsee, Thun Kriesspag
+#facs_244_r2l8 Gottstall Nijdouw St. Jo¬
+#facs_244_r2l9 Hansen, Sibng, Brandiß,
+#facs_244_r2l10 Burgdorff
+#facs_244_r2l11 Schutz Vff hütt beschechnen anzuge
+#facs_244_r2l12 wie hie vor die vnd anderem Vnseren Ampt¬
+#facs_244_r2l13 lütten bewolchen worden kein haber uit zetzen.
+#facs_244_r2l14 kauffen, da aber nun Jetzmalen ein andere
+#facs_244_r2l15 zytt; So gesinnen wir an dich, So vil du
+#facs_244_r2l16 an haber entpären mögen Wirst, zu tkauffen
+#facs_244_r2l17 undt gelb danuß zumachen, das ander getheidt
+#facs_244_r2l18 aber biß vff fernern bescheidt gebehalten. Datum
+#facs_244_r2l19 15. Febr. 1611.

@@ -1,0 +1,224 @@
+Law ID: BER.01.001.4016
+Name: Einfuhr ausländischer Schweinen erlaubt.
+
+#facs_187_r1l1 41 2
+#facs_187_r1l2 1.
+#facs_187_r1l3 Collat
+#facs_187_r1l4 2
+#facs_187_r1l5 9
+#facs_187_r2l1 rechnungs tagen.
+#facs_187_r2l2 der Trütsich und Weltstihen Herren
+#facs_187_r2l3 ambtleiksen bro Osteren 1753
+#facs_187_r2l4 Vichenhaus auf donstag den 1. Feb. 9753.
+#facs_187_r2l5 Wislisfurg Frystags 2 d
+#facs_187_r2l6 abrechnung
+#facs_187_r2l7 Peterlingen samstags 3 do
+#facs_187_r2l8 Ickerlaker Hans
+#facs_187_r2l9 Montags 5. do
+#facs_187_r2l10 Abrechnung
+#facs_187_r2l11 6. Sornher
+#facs_187_r2l12 3. B Johanser Hans Mitwchen  do
+#facs_187_r2l13 Millafen
+#facs_187_r2l14 9.
+#facs_187_r2l15 alonstag 8 do
+#facs_187_r2l16 abregnung
+#facs_187_r2l17 beÿtags 9 do
+#facs_187_r2l18 ilen
+#facs_187_r2l19 2.
+#facs_187_r2l20 danstag 10 do
+#facs_187_r2l21 Venornstat
+#facs_187_r2l22 23
+#facs_187_r2l23 3.
+#facs_187_r2l24 Hienispracg
+#facs_187_r2l25 Montag M. do
+#facs_187_r2l26 Ueberch
+#facs_187_r2l27 5.
+#facs_187_r2l28 
+#facs_187_r2l29 3.
+#facs_187_r2l30 Mitwachen 14 do
+#facs_187_r2l31 zenrens
+#facs_187_r2l32 2.
+#facs_187_r2l33 gnan
+#facs_187_r2l34 1
+#facs_187_r2l35 Donstag 45 do
+#facs_187_r2l36 abrechnung
+#facs_187_r2l37 oron abgechnung frgtags 16 do
+#facs_187_r4l1 gron
+#facs_187_r4l2 9.
+#facs_187_r4l3 St. Johansen
+#facs_187_r4l4 6
+#facs_187_r4l5 belach
+#facs_187_r4l6 9.
+#facs_187_r4l7 elhnung
+#facs_187_r4l8 langen
+#facs_187_r4l9 2.
+#facs_187_r4l10 gettiswyl
+#facs_187_r4l11 3.
+#facs_187_r4l12 Verhofen
+#facs_187_r4l13 4.
+#facs_187_r4l14 3
+#facs_187_r4l15 Friemsperger Hand
+#facs_187_r4l16 Lausane
+#facs_187_r4l17 4.
+#facs_187_r4l18 2
+#facs_187_r4l19 Fraulbrunne.
+#facs_187_r4l20 Bottstatt
+#facs_187_r4l21 3.
+#facs_187_r4l22 landshat
+#facs_187_r4l23 4.
+#facs_187_r4l24 Pysauto
+#facs_187_r4l25 .
+#facs_187_r4l26 abrechnung
+#facs_187_r4l27 torberg
+#facs_187_r4l28 2
+#facs_187_r4l29 Ruchter
+#facs_187_r4l30 5.
+#facs_187_r4l31 aubone
+#facs_187_r4l32 2
+#facs_187_r4l33 W. Weinstehrnt
+#facs_187_r4l34 6.
+#facs_187_r4l35 Simni wald
+#facs_187_r4l36 9
+#facs_187_r4l37 abrechnung
+#facs_187_r4l38 biph
+#facs_187_r4l39 6.
+#facs_187_r4l40 d. Burgelort
+#facs_187_r4l41 abrechnung
+#facs_187_r5l1 363
+#facs_187_r5l2 Samstag den 17n februarii 1753.
+#facs_187_r5l3 Montags 193 do
+#facs_187_r5l4 Mitwochen 24. do
+#facs_187_r5l5 olonstag 22 do
+#facs_187_r5l6 Samstag 21 do
+#facs_187_r5l7 Montags 26 do
+#facs_187_r5l8 Mitwachen 28. do
+#facs_187_r5l9 donstag 4 martii.
+#facs_187_r5l10 Frÿtags2. do
+#facs_187_r5l11 Sichtag 3 do
+#facs_187_r5l12 Mantag5 do
+#facs_187_r5l13 Milrochen 7. d
+#facs_188_r2l1 Macuß
+#facs_188_r2l2 9.
+#facs_188_r2l3 abrechnung
+#facs_188_r2l4 Waechen
+#facs_188_r2l5 3.
+#facs_188_r2l6 sitis abrehung
+#facs_188_r2l7 Jo
+#facs_188_r2l8 1.
+#facs_188_r2l9 5. Mar
+#facs_188_r2l10 5 Prstul
+#facs_188_r2l11 rburg
+#facs_188_r2l12 4.
+#facs_188_r2l13 racstelols
+#facs_188_r2l14 3.
+#facs_188_r2l15 lagwanden
+#facs_188_r2l16 3.
+#facs_188_r2l17 hutigen
+#facs_188_r2l18 1.
+#facs_188_r2l19 Abgelchnung
+#facs_188_r2l20 Marster
+#facs_188_r2l21 3.
+#facs_188_r2l22 Domainmotur
+#facs_188_r2l23 3.
+#facs_188_r2l24 6. Poeystimmen.
+#facs_188_r2l25 R. Pauls ambt
+#facs_188_r2l26 6. menis
+#facs_188_r2l27 6. Rift
+#facs_188_r2l28 3. Untersern
+#facs_188_r2l29 3 Iuterlaken.
+#facs_188_r2l30 3 Prten
+#facs_188_r3l1 1753
+#facs_188_r3l2 alen stag de 8. Mart.
+#facs_188_r3l3 feytags 9 do
+#facs_188_r3l4 Sonstags 1 do
+#facs_188_r3l5 Montags 9. do
+#facs_188_r3l6 Mitrachen M. do
+#facs_188_r3l7 donstag 15. do
+#facs_188_r3l8 brytags 16 de
+#facs_188_r3l9 Bamstag 97 do
+#facs_188_r3l10 Montags d9 do
+#facs_188_r3l11 Mitbechen zu do
+#facs_188_r3l12 abenstag 22 do
+#facs_188_r3l13 Banstag 211 do
+#facs_188_r5l1 Af.
+#facs_188_r5l2 4.
+#facs_188_r5l3 2
+#facs_188_r5l4 3.
+#facs_188_r5l5 2.
+#facs_188_r5l6 
+#facs_188_r5l7 4.
+#facs_188_r5l8 5.
+#facs_188_r5l9 4.
+#facs_188_r5l10 11
+#facs_188_r5l11 1
+#facs_188_r7l1 305
+#facs_188_r7l2 Sanen
+#facs_188_r7l3 montags den 26. martii 1753.
+#facs_188_r7l4 Estelen
+#facs_188_r7l5 Schrickenberg
+#facs_188_r7l6 28. so
+#facs_188_r7l7 Mittwacht
+#facs_188_r7l8 gosingen
+#facs_188_r7l9 Biberstein
+#facs_188_r7l10 29 B
+#facs_188_r7l11 Zalensag
+#facs_188_r7l12 Abgechnung
+#facs_188_r7l13 30 do
+#facs_188_r7l14 Bonmont
+#facs_188_r7l15 Tegtags
+#facs_188_r7l16 39 d
+#facs_188_r7l17 Dacusrag
+#facs_188_r7l18 Senlos
+#facs_188_r7l19 2. Gmr
+#facs_188_r7l20 Montach
+#facs_188_r7l21 e
+#facs_188_r7l22 1. A
+#facs_188_r7l23 Mitwachen
+#facs_188_r7l24 Groß Spithal
+#facs_188_r7l25 sonigsfelden
+#facs_188_r7l26 5. Jo
+#facs_188_r7l27 alenstach
+#facs_188_r7l28 abrechnung
+#facs_188_r7l29 N do
+#facs_188_r7l30 olensrac
+#facs_188_r7l31 Aansburg.
+#facs_188_r7l32 76 Rt
+#facs_188_r7l33 a
+#facs_188_r7l34 alle teckfchr uns Welssche ambtleuth 4 Statt
+#facs_188_r7l35 frerweibel und aman, Item per Plavard an
+#facs_188_r7l36 die pfeiler hießiger statt
+
+#facs_188_r7l37 f fuhr aus landischer schweinen erlaubte
+#facs_188_r7l38 B uschuß Raht en Gucter
+#facs_188_r7l39 Wiebohlen aus Landts,vätterlicher vorsorgen
+#facs_189_r1l1 ir der fraunden scharinen einbringung
+#facs_189_r1l2 Al here zeutsch und veltfahr Lander
+#facs_189_r1l3 
+#facs_189_r1l4 bey confiscation zu verbieten unterem
+#facs_189_r1l5 28. decembr 1718 bewagen worden,
+#facs_189_r1l6 und solches in truk publicieren
+#facs_189_r1l7 laßen so haben auß nichts desto weiniger
+#facs_189_r1l8 die amstände der zeit und der
+#facs_189_r1l9 engerisen mißbrauch zur diopen
+#facs_189_r1l10 sation ein und anderer mahlen anlaß
+#facs_189_r1l11 gegeben, Eben aus der zurstache nun
+#facs_189_r1l12 und da au� �ber die garnerweite
+#facs_189_r1l13 rohtwendigkeit vorstellungen geschehen,
+#facs_189_r1l14 erachtend wir gut und zum vortheil
+#facs_189_r1l15 der lieben anstrigee, dienlich, so thanes
+#facs_189_r1l16 verbott vollig aufzuheben und daß
+#facs_189_r1l17 mann so wohl fei�e als magern schweine
+#facs_189_r1l18 von erdtgnoßen benachbahrten und
+#facs_189_r1l19 außeren fremden ohrten har ii
+#facs_189_r1l20 unsere lande führen und einbringen
+#facs_189_r1l21 mohe, mantlich hiemit zu vergünstigen
+#facs_189_r1l22 jedoch mir für sto lange als auß
+#facs_189_r3l1 367
+#facs_189_r3l2 gefallig und wir nit angemoßen finden
+#facs_189_r3l3 werden ein anders zu verordnen mir befehlen
+#facs_189_r3l4 demmenach ernh, gleich übrigen ambtleüthen,
+#facs_189_r3l5 solches von canzlen fürderstammst zum
+#facs_189_r3l6 verhalt verkunden und gewohnter ohrten
+#facs_189_r3l7 anschlagen zu laßen. Gott mit Einh Date
+#facs_189_r3l8 d 13. Decemb. 1752
+END

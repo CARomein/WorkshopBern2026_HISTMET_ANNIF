@@ -1,0 +1,151 @@
+Law ID: BER.01.001.3782
+Name: Die Sanitätanstalten vom 5. Februario jüngsthin erläuteren und verstärken.
+
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 138/138
+# High similarity (>=50%): 137
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_20_r2l20 Hertzley
+#facs_20_r2l21 Bern
+#facs_20_r3l1 33
+#facs_20_r3l2 Plavard
+#facs_20_r3l3 Translatiert.
+#facs_20_r3l4 Nous l'Advoyer et
+#facs_20_r3l5 Conseil de la Ville & Republique de Berne
+#facs_20_r3l6 scavoir faisons par les presentes; d'un suitte
+#facs_20_r3l7 des tristes nouvelles come quoi la Peste
+#facs_20_r3l8 qui regne deja depuis assez longtems
+#facs_20_r3l9 parmi le genre humain, dans la Hongrée
+#facs_20_r3l10 y aux environs, bien loin de diminuer
+#facs_20_r3l11 & changer en bien, comme on l'esperoit
+#facs_20_r3l12 Saugmentoit & aprochoit de plus en plus
+#facs_20_r3l13 ce qui auroit donné lieu aux Louables
+#facs_20_r3l14 cantons Helvetiques de s'appliquer à la
+#facs_20_r3l15 recherche de nouveaux moyens pour
+#facs_20_r3l16 tachér avec le secours du Ciel de detourner
+#facs_20_r3l17 ce grand fleau de dessus nostre Comune
+#facs_20_r3l18 chere Patrie; Les Magnifiques Seigneurs
+#facs_20_r3l19 Deputés, presentement assemblés à la
+#facs_20_r3l20 Diette ordinaire à Irauwenseld ayant
+#facs_20_r3l21 repris en mains L'Edif de santé, dresse
+#facs_20_r3l22 de concert pour ce même sujet à Baden
+#facs_21_r2l1 au Commencement de cette année & trouve
+#facs_21_r2l2 a propos, a cause des circonstances presentes
+#facs_21_r2l3 d'Eclaircier et rencorcer quelques articles
+#facs_21_r2l4 de son contenu; Nous aussi, pour nostre Part
+#facs_21_r2l5 avons ajouté au dit Edit dont nous ordonons
+#facs_21_r2l6 l'observation de la maniere la plus serieuse
+#facs_21_r2l7 Que come par Rapport au 3e article, les Paÿs
+#facs_21_r2l8 suivant, scavoir la basse autriche, la
+#facs_21_r2l9 Cavinthie, la Carniole, la Styrie, le friaul
+#facs_21_r2l10 la Ville de Trieste, celle de Fioume, la Sélesie
+#facs_21_r2l11 & la Moravie sont tenus pour suspect, par
+#facs_21_r2l12 les Etats & Puissances d'Italie, l'Entrée des
+#facs_21_r2l13 personnes & venant Carchandises venant
+#facs_21_r2l14 de ces pays là, ne devra estre accordée
+#facs_21_r2l15 que moienant des Certificats primordiaux
+#facs_21_r2l16 Passeport & autres Billets de santé.
+#facs_21_r2l17 authentiques par les quels ils puissent
+#facs_21_r2l18 verifier que depuis leur Depart & premier
+#facs_21_r2l19 fortie elles ont fait une Quarantaine
+#facs_21_r2l20 de trente jour de suitte dans un Endroit
+#facs_21_r2l21 non suspect & libre de toute Contagion
+#facs_21_r2l22 et de la aussi passé dans des Endroits
+#facs_21_r2l23 sains & non juffetés in cetés;
+#facs_21_r3l1 Les quels Certificats & passeports /: ou se
+#facs_21_r3l2 trouveront bien denotés l'âge, la taille
+#facs_21_r3l3 les Cheveux & la barbe des personnes :/ devront
+#facs_21_r3l4 estre Signés tous les jours ou tout au moins
+#facs_21_r3l5 tous les deux jours, toutes autres personnes
+#facs_21_r3l6 venantes des Susdits endroits tenus & censés
+#facs_21_r3l7 susperts, & qui ne seront pas munis de tels
+#facs_21_r3l8 certificats authentiques come cy dessus
+#facs_21_r3l9 devront estre renvoyées avec menaie
+#facs_21_r3l10 sous peine de lie
+#facs_21_r3l11 Qu'ant au Roiaume de Boheme, il sera
+#facs_21_r3l12 tenu sur le pied de l'article cy dessus, par
+#facs_21_r3l13 Rapport aux Gens & marchandises non
+#facs_21_r3l14 Susceptibles au Venin, mais par contre la
+#facs_21_r3l15 Laine les plumes, les Pelices & autres marchandises
+#facs_21_r3l16 suscepible au Venin venantes du dit Royaume
+#facs_21_r3l17 l'Entrée dans nostre Pays leur sera
+#facs_21_r3l18 entierement interditte.
+#facs_21_r3l19 Il sera aussi entendu par Rapport
+#facs_21_r3l20 au 4e article du dit Mandat au Sujets, des
+#facs_21_r3l21 Passeports qui y sont requis pour Gens &
+#facs_21_r3l22 marchandises venant des autres Endroits sains &
+#facs_21_r3l23 non suspects, qu'iceux de vront estre souscrits,
+#facs_21_r3l24 tous les jours, ou tout au moins tous les deux jours.
+#facs_22_r2l1 Pour ce qui regarde les Certificats & Passeport
+#facs_22_r2l2 primordiaux pour des Marchandises, qui
+#facs_22_r2l3 arrivent tantost icy tantôt la sur les
+#facs_22_r2l4 frontieres suisses, par des Entrées permise
+#facs_22_r2l5 dont une partie s'expedie dans le Paÿs
+#facs_22_r2l6 & l'autre partie de hors come dans le
+#facs_22_r2l7 partage que l'on fait des dittes marchands
+#facs_22_r2l8 pour divers Endroits, les Certificats
+#facs_22_r2l9 primordiaux ne peuvent y estre joint
+#facs_22_r2l10 Les Pouables Cantons auroient deja cy devant
+#facs_22_r2l11 convenu d'un comun accord de ce qui
+#facs_22_r2l12 sobserveroit a le sujet nous avons
+#facs_22_r2l13 cependant jugé necessaire d'ordonner
+#facs_22_r2l14 que les dittes marchandises de vront estre
+#facs_22_r2l15 accompagnées des Copies vidimes des
+#facs_22_r2l16 certificats primordiaux, faute de quoy
+#facs_22_r2l17 l'Entrée et le passage dans nos Paÿs,
+#facs_22_r2l18 ne leur sera point accordé.
+#facs_22_r2l19 Nous avons pareillement trouvé à
+#facs_22_r2l20 propos d'aggraver & augmenter l'arlide 5
+#facs_22_r2l21 de l'Édit de Baden, scavoir, que quan
+#facs_22_r2l22 des Gueux, Deserteuis Vagabonds Quissetrang
+#facs_22_r2l23 autres pareilles gens inutiles et one reux,
+#facs_22_r2l24 seroient assez Hardis pour se glisser dans
+#facs_22_r3l1 37
+#facs_22_r3l2 le pais iceux selon l'Exigence du fait seront
+#facs_22_r3l3 chatiés en Corps & vie entendu que le même
+#facs_22_r3l4 Chatiment sera inflige à ceux, qui
+#facs_22_r3l5 entreprendront de conduire de telles gens
+#facs_22_r3l6 par eau & les debarquer en des Endroits
+#facs_22_r3l7 non permis.
+#facs_22_r3l8 En fin sur l'Humble Requête des 4 quartiers
+#facs_22_r3l9 exterieurs du Thourgeu, nous avons aussi
+#facs_22_r3l10 de concert avec les autres Louables Cantons
+#facs_22_r3l11 declaré come Ports et abords des Batecaux
+#facs_22_r3l12 pour touttes sortes de Marchandises outre
+#facs_22_r3l13 les Endroits Specifiés dans le 8e article du
+#facs_22_r3l14 precedent soit les Lieux suivants, scavoir.
+#facs_22_r3l15 outwyl Bottikoffen la Ville de Constance
+#facs_22_r3l16 à l'Entrée des deux Portes Suisses Goltlieber
+#facs_22_r3l17 Comatinguen la Ville de HeKbohren
+#facs_22_r3l18 & à sa Place Berlinquen lorsque le
+#facs_22_r3l19 Lac sera gelé. Il sera de plus permis
+#facs_22_r3l20 de Conduire des Vivres & materiaux
+#facs_22_r3l21 pour Bâtir à Eschenl, Manneren
+#facs_22_r3l22 Feldbach, Berlinguen, Mannenbach
+#facs_22_r3l23 Hörndl. Munsterlinquen, Landschlacht
+#facs_23_r2l1 Attnau, Guttinguen & Luxbourg com
+#facs_23_r2l2 aussi aux Gens du Ressort des Jurisdiction
+#facs_23_r2l3 voisines & conuës de pouvoir aborder au
+#facs_23_r2l4 Ports permis. le tout cependant sous
+#facs_23_r2l5 la Reserve actuellement concertée, & qui
+#facs_23_r2l6 sera expressement inserée dans le
+#facs_23_r2l7 Decret, en particulier par Rapport aux
+#facs_23_r2l8 Commissaires leur Etablissement & leur
+#facs_23_r2l9 Appointement.
+#facs_23_r2l10 Quant au Peste on s'en tient à l'Edit
+#facs_23_r2l11 du 5e fevrier dernier dant tout son contenu
+#facs_23_r2l12 exhortants de nouveau d'une maniere très
+#facs_23_r2l13 perieuse à tous nos officiers, Hauts & subalten Collat
+#facs_23_r2l14 comme aussi les Comissaires Inspecteurs, Gardes
+#facs_23_r2l15 etablies, & nos sujets, de l'observer soigneusement
+#facs_23_r2l16 de meme que ce present Mandat, qui sera
+#facs_23_r2l17 publié & affiché aux Endroits accoutumés
+#facs_23_r2l18 dans nostre Ville & Pays
+#facs_23_r2l19 Donné le 16e Juillet 1739
+#facs_23_r2l20 Cancellerie de Bonne

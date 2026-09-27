@@ -1,0 +1,114 @@
+Law ID: BER.01.001.4112
+Name: Ihnen das Verbott dess fremden Gewächses-Einbringung, zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 103/103
+# High similarity (>=50%): 95
+# Low similarity (<50%): 8
+# Not found: 0
+#
+#facs_247_r5l9 Signalement
+#facs_247_r5l10 Joseph Schläffl. von Derrenlingen, bey 30 Jahren
+#facs_247_r5l11 Alt, middelmäßiger Statur, hat braune Augen
+#facs_247_r5l12 Deklechte Rasen, Rothmündig im Angesicht, hat
+#facs_247_r5l13 Kesten braune Haar, und Barth, tragt Einen Asch
+#facs_247_r5l14 grauben Baurene Kittel, Roth Leibl. Bäurisch
+#facs_247_r5l15 angekleidet.
+#facs_247_r5l16 An
+#facs_247_r5l17 Alle T. Amtkeüth, 4 Stäck, Freyweibel und
+#facs_247_r5l18 Dermann
+#facs_247_r5l19 Ihnen das Verbott des Fremden Gewächses
+#facs_247_r5l20 Einbringung, zustanden etc.
+#facs_247_r5l21 Schultheiß
+#facs_247_r7l1 fohlen. 86
+#facs_247_r7l2 5p
+#facs_248_r1l1 tys.
+#facs_248_r1l2 Schultheis Rath und Bürger c.
+#facs_248_r1l3 In bedenken die Zeithen seith Unserer letsten
+#facs_248_r1l4 Coll.
+#facs_248_r1l5 Verordnung vom 12 Augl. 1757. sich also gebeße,
+#facs_248_r1l6 ret, das Wir Ursach haben, die fernere Ein¬
+#facs_248_r1l7 bringung des fremden Gelächses von einem
+#facs_248_r1l8 zu verbiethen, und der Ausfuhr halberes
+#facs_248_r1l9 bey vorgemeldter Unser Verordnung beloenden
+#facs_248_r1l10 zu laßen etc. So haben Wir hiervon durchmit¬
+#facs_248_r1l11 kommenden öffentl. Trunk, allen die so es angehen¬
+#facs_248_r1l12 ben, nachricht ertheillen wollen, und daß nähen
+#facs_248_r1l13 mit Zusendung genüngsammer anzahl solcher
+#facs_248_r1l14 Mandaten Euch befehlen wollen, solche ge¬
+#facs_248_r1l15 bohnter maaßen von Canzlen
+#facs_248_r1l16 verlesen, und behöriger Orthen /: besonders
+#facs_248_r1l17 nur an die Ert, da
+#facs_248_r1l18 sich Mäiten befinden aber auf den Korn Märckten Eübersamts /
+#facs_248_r1l19 anschlagen zu laßen. Wiezu thun Ihr bestand
+#facs_248_r1l20 können berdet per Datum den 23ten April 1759
+#facs_248_r3l1 décis d'
+#facs_248_r3l2 Placard
+#facs_248_r3l3 Wir Schultheij, Plein und Erge, Räth der State
+#facs_248_r3l4 Bern thun kund hiemit; Demnach seit dem 12 Augl
+#facs_248_r3l5 1757. Da Wir zum Trost Unserer Lieben und Betreüe
+#facs_248_r3l6 Angehörigen, nicht allein die Ausfuhr Alles Gewächt
+#facs_248_r3l7 ses aus Unseren Landen, gänzlichen verbiethen
+#facs_248_r3l8 und herentgegen biß anhin die Einbringung des
+#facs_248_r3l9 Fremden Betreyds gestadten müßen u die
+#facs_248_r3l10 Zeiten dann durch die gütige und gnädige Vor¬
+#facs_248_r3l11 sehung Bodtes als sich gebeßeret, daß das
+#facs_248_r3l12 Betreyd allenthalben in Unseren Landen ge¬
+#facs_248_r3l13 nugsam, und in billichem Preis zu bekommen ist,
+#facs_248_r3l14 So thun in etwelcher Aufhebung vorbemeldt er
+#facs_248_r3l15 Unserer Verordnung vom 12 Aug 1757. Wir,
+#facs_248_r3l16 auß gleich Landwätterlicher Vorsorg, anmit
+#facs_248_r3l17 verordnen, daß von nun an die Einbringung
+#facs_248_r3l18 Alles fremden Gebächster und Betreybrin¬
+#facs_248_r3l19 Unsere Land gänzlichen, und bey Confiscation
+#facs_248_r3l20 der Frucht, verlodten seyn solle; Maßer
+#facs_248_r3l21 Unfoyen
+#facs_248_r6l1 Lohlen 86
+#facs_249_r2l1 Unserer Obers und Unter, Beamteten, wie
+#facs_249_r2l2 auch allen Auffsteheren, Zollneren, und Unter¬
+#facs_249_r2l3 thanen Wir anmit befehlen, Hand obzuhalten,
+#facs_249_r2l4 daß dieserem Unserem Willen eine Benügen¬
+#facs_249_r2l5 geleistet, und demselben ohne Schonen noch Nacht
+#facs_249_r2l6 stehen, nachgelebt werde; Wie dann in ferneren
+#facs_249_r2l7 auch Unseren Amtkeüthen Wir befelchlichen
+#facs_249_r2l8 an Pragen, dergleichen Fehlbahre, es seyen
+#facs_249_r2l9 dieselben einheimische oder fremde Käufer,
+#facs_249_r2l10 oder Verkäufer, mit obvermeldter Straaff zu
+#facs_249_r2l11 belegen, davon ein Driddel Unß, Ein Drittel dem
+#facs_249_r2l12 Amtsmann des Orts, wo die fremde einbringende
+#facs_249_r2l13 Frucht entdecket und angehalten werden wird,
+#facs_249_r2l14 und ein Drittel dem Verleider, nebst Geheim,
+#facs_249_r2l15 haltung seiner Nahmens, heimdienen soll.
+#facs_249_r2l16 Bleichwohlen aber ist Unser Will, daß diesere
+#facs_249_r2l17 Verordnung nicht befhlagen solle, diejenige
+#facs_249_r2l18 fremde Früchte, so bey Publication diesers
+#facs_249_r2l19 Unters
+#facs_249_r3l1 1478
+#facs_249_r3l2 Unsers Mandats allbereit in Unseren Landen
+#facs_249_r3l3 sich befinden möchten, maßen derselben Verkauf
+#facs_249_r3l4 Wir Mäniglich annit verbilligen bollen; Es sollen
+#facs_249_r3l5 aber diejenige, so dergleichen fremde Früchte haben
+#facs_249_r3l6 könten, angehalten seyn, solche alsogleich Unserer
+#facs_249_r3l7 Amt Leüthen anzugeben, und jehlweilen auch Schrift¬
+#facs_249_r3l8 lichen denenselben zu bescheinen, wo, wieviel,
+#facs_249_r3l9 wenn sie solche verbauffet etc.
+#facs_249_r3l10 und an
+#facs_249_r3l11 Und da diesere Unsere Verordnung allein die Einbringung
+#facs_249_r3l12 fremden Gelächstes ansiehet; so laßen wir es in Ansehen
+#facs_249_r3l13 der Ausfuhr des Betreyes aus unseren Landen
+#facs_249_r3l14 bey obangezogenem Verbott de 12 Aug 1757. lediglich
+#facs_249_r3l15 und zwar dahin bewenden, daß dieselbe unter der
+#facs_249_r3l16 darinn aufgesezten Straaffe noch ferners Mänglich
+#facs_249_r3l17 so lang verbotten seyn solle, als Unßbeliebig.
+#facs_249_r3l18 Welch gegenwärtiges Einsehen und Mandat nicht
+#facs_249_r3l19 allein allenthalben zu Mäniglichs Nachricht
+#facs_249_r3l20 öffentlich von Canzlen verlesen, sonder auch
+#facs_249_r3l21 gelrohnter Orten, und besonders aufjenigen
+#facs_249_r3l22 Pläzen
+#facs_249_r5l1 fohlen 86.
+#facs_250_r3l1 Pläzen und Ohrten, da Kornmärckte gehalten
+#facs_250_r3l2 werden, angeschlagen werden soll, damit Niemann
+#facs_250_r3l3 der Ohnläußenheit Sich bedienen könne. Beben
+#facs_250_r3l4 in Unserer Großen Rath Versammlung den 23 April 1732

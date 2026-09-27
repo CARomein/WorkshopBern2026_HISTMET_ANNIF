@@ -1,0 +1,56 @@
+Law ID: BER.01.001.4334
+Name: Ihnen die getrukte Verordnung, wegen Wiedereröfnung des freyen Vieh-Commercy zwischen den freyburgischen und hiesigen Angehörigen zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 45/45
+# High similarity (>=50%): 43
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_243_r4l20 Signalement
+#facs_243_r4l21 Michel Robert Date, Natif de Calais, Payscony
+#facs_243_r4l22 Jurisdiction dud. Lieu, agé de 32. ans, taille de 5. pieds.
+#facs_243_r6l1 867
+#facs_243_r6l2 4 pouces, Cheveux et sourcils chatain, visage rond
+#facs_243_r6l3 marqué de petite Verole, les yeux gris et Louches
+#facs_243_r6l4 habillement
+#facs_243_r6l5 Le nomé Dale est habillé Veste & Culotte Ventre de
+#facs_243_r6l6 Biche, Redingote faite à L'angloise gris à Boutons
+#facs_243_r6l7 d'or, Chapeau une garni d'un Bourda Cou en argent
+#facs_243_r6l8 Aus
+#facs_243_r6l9 Alle Weltsche Herren Amtleut, 4. Graffschafften,
+#facs_243_r6l10 Laupen, Rienisperg, und die Landgericht sefftigen
+#facs_243_r6l11 Sternenberg und Zolligbofen, Dennethun, Wimmis, Fru¬
+#facs_243_r6l12 tigen zweysamen und Sanen, Hem Schwarzenburg
+#facs_243_r6l13 und Grandson, Denn jedel an Metzlöhl. der Policey
+#facs_243_r6l14 Cammer und an die hiesige Cänzel
+#facs_243_r6l15 Ihnen die getrubte Verordnung, wegen wieder
+#facs_243_r6l16 eröfnung des freyen Vieh-Comerij zusenden.
+#facs_243_r6l17 4 zwischen den Fryburgl. und hiesigen Angehörigen,
+#facs_243_r6l18 Schultheis Räht und Burger,
+#facs_243_r6l19 Wegen wider eröfnung des freyen Vieh-Commercy
+#facs_243_r6l20 zwischen Lobl. Standes Fryburg angehörigen, und¬
+#facs_243_r6l21 denen allhiesigen Unterthanen, haben Wir mit
+#facs_243_r6l22 diesem Lobl. Stand, eine gemeinsamliche
+#facs_243_r6l23 Verordnung errichtet, auf dem Fuß wie mit
+#facs_243_r6l24 kommendes Placard mit mehrerem ausweiset.
+#facs_244_r4l1 ein neü, daß zwilchenes Camisol von weißem
+#facs_244_r4l2 Haus tuch, zwilcherne spizhosen, und Schuh mit
+#facs_244_r4l3 Ringgen
+#facs_244_r4l4 An
+#facs_244_r4l5 Alle Weltsche Herren Amtleut, denne per jedel
+#facs_244_r4l6 an Mehbhl. der Marechaussée u. Cammer und Hl.
+#facs_244_r4l7 Großweibel et H. Gerichtschreiber
+#facs_244_r4l8 Auf den dieben Michel Robert Dale, von Calais
+#facs_244_r4l9 zu achten, betreckenden fahls fest zu sezen
+#facs_244_r4l10 Schultheis und Raht
+#facs_244_r4l11 Michel Robert Dalen, gebührtig von Calais, deßen
+#facs_244_r4l12 Signalement hier mit komt, hat sich mit der in
+#facs_244_r4l13 händen habenden Cassa seines Regiments
+#facs_244_r4l14 flüchtig gemacht, und dem Vernehmen nach
+#facs_244_r4l15 in die Schweiz begeben; Ihr werdet allso an,
+#facs_244_r4l16 denselben achtene betreffenden fahls fest sehr
+#facs_244_r4l17 laßen, und des Verhoffs uns berichten
+#facs_244_r4l18 Dat. den 24. Febr. 1772.

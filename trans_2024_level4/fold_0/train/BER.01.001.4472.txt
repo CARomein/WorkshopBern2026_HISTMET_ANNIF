@@ -1,0 +1,70 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 63/63
+# High similarity (>=80%): 61
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_99_r4l6 Ihnen den neuen Amtlichen Eid und Instruction
+#facs_22_r4l16 193
+#facs_319_r13l2 b &
+#facs_191_r2l2 Alle Teutsch und Welsche Herren Amtleüth, 4
+#facs_99_r4l4 per Jedel an die 3. Hl. Schaffnere des St. Johannes
+#facs_99_r4l5 Interlaber, und Freundsperger Häuser
+#facs_99_r4l6 Ihnen den neuen Amtlichen Eid und Instruction
+#facs_99_r4l7 zu senden mit befehl, in Aufhebung des von Ihnen
+#facs_99_r4l8 vor dem Antritt ihres Amts geleisteten Eids, diesem
+#facs_99_r4l9 neuen Eid von nun an, als wann Sie denselben würkl.
+#facs_99_r4l10 Geschworen hacken, pünktlich nachzu kommen.
+#facs_12_region_1629822809073_173l5 Schultheis Rähtund Burger
+#facs_99_r4l12 In Anschluß übersenden Wir Euch, so wohl den
+#facs_99_r4l13 von Uns für Euer Amt, /: an die Schaffner, Stelle :/
+#facs_99_r4l14 Hoch Obrigkeitlich genehmigten Eid, als auch die
+#facs_99_r4l15 für dasselbe verfertigte, und von Uns ebenfall
+#facs_99_r4l16 genehmigte Instruction: Und befehlen Euch, in
+#facs_99_r4l17 Aufhebung deß von Euch vor dem Antricht Euers¬
+#facs_99_r4l18 Amts geleisteten Eids, diesem neuen Eid von nun
+#facs_99_r4l19 an, als wann Ihr denselben würklich selbst Geschworen
+#facs_99_r4l20 härtet, pünbtlich nachzukommen, und so viel an
+#facs_99_r4l21 Euch ligt, der daherigen Instruction auch nachzuleben
+#facs_99_r4l22 Nur an die H. Amtleut so Dominial
+#facs_99_r4l23 gühter haben
+#facs_99_r4l24 Solte sich aber einiche Obrigkeitliche Bewilligung,
+#facs_99_r4l25 zu gönsten Euers Amts vorfinden, die Euch ent¬
+#facs_99_r4l26 Artibels
+#facs_99_r4l28 heben würden, die Vorschrifft des
+#facs_99_r4l29 Eüers Eids, wegen Besorgung und Ruzung der
+#facs_3_region_1629374270345_387l1 2.
+#facs_49_r1l1 94
+#facs_100_r2l1 Amts - Dominial - Gühteren zu befolgen, so wird
+#facs_100_r2l2 Euch anbefohlen eine Abschrift davon Unser
+#facs_100_r2l3 fürgeliebten Mit Rahten denen Herren
+#facs_108_r3l18 Tentsch
+#facs_100_r2l5 Welsch) Sebelmeister und Venneren ohne
+#facs_100_r2l6 Anstand zu übersenden, damit dieselben solche
+#facs_100_r2l7 Vortragen können, unterlasenden falls aber
+#facs_100_r2l8 soll solche Bewilligung erloschen seyn, und der
+#facs_100_r2l9 vorschrifft des bemelten. Artibels Euers Eids
+#facs_100_r2l10 ohne anders pünktlich befolget werden
+#facs_100_r2l11 Auf daß aber in Zukunft weder dieser Ein¬
+#facs_100_r2l12 noch diese Instruction, mit unnöhtigen neuen
+#facs_100_r2l13 beysätzen, willbührlich vermehret werden;
+#facs_100_r2l14 so ist unser HochObrigkeitl. Will, daß nichts
+#facs_100_r2l15 darzu geschrieben werde, als was Wir, oder
+#facs_100_r2l16 Unser tägliche Raht expresse dahin zu verlegen
+#facs_100_r2l17 anbefehlen werden.
+#facs_3_region_1629374270345_387l1 2.
+#facs_100_r2l19 deßen Ihr hiemit be¬
+#facs_100_r2l20 richtet werdet, mit befelch, dieses Cahier, den Eis
+#facs_100_r2l21 und die Instruction für das Amt
+#facs_100_r2l22 ent¬
+#facs_100_r2l23 haltend, nicht allein auf das Inventarium deß
+#facs_100_r2l24 Archivs dieses Amts zu sezen, sondern auch mit
+#facs_100_r2l25 diesem Unserem Befelch Schreiben zu Euerer Amts
+#facs_100_r2l26 Nachfahren Nachricht und Verhalt in dem Schloß
+#facs_100_r2l27 Mandaten Buch ausführlich einschreiben zu laßen.
+#facs_100_r2l28 Datl. den 7ten July 1779.
+#facs_100_r2l29 N. die articul deß Eyds von jed. amt sind zu sehen im großen Eyde zug
+#facs_100_r2l30 Die artl. der Instruction dann, sind in einem besond. Catzier angezogen
+#facs_178_r8l1 en

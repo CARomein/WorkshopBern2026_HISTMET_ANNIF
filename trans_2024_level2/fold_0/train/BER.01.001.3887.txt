@@ -1,0 +1,93 @@
+Law ID: BER.01.001.3887
+Name: Getreydts Versilberung.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 82/82
+# High similarity (>=50%): 80
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_391_r3l8 tat
+#facs_391_r3l9 le
+#facs_391_r3l10 Des Soldats Invalides du L: Canton
+#facs_391_r3l11 de Derne, qui peuvent se presenter
+#facs_391_r3l12 à L'Ambascade du Roy à Soleurs,
+#facs_391_r3l13 pour y recevoir leur Pension.
+#facs_391_r3l14 Abraham de Palles de Lausanne.
+#facs_391_r3l15 Jacob Jony von Lauppen, am Lied¬
+#facs_391_r3l16 Haus Müller von Daanen.
+#facs_391_r3l17 Hauß Schildt von Schangnaul, Amtstrach¬
+#facs_391_r3l18 selvaldt
+#facs_391_r3l19 Haus Burgimann von Konitz.
+#facs_391_r3l20 Abraham Mogincer de Mesiere amts Mildres
+#facs_391_r3l21 Jacob Hirtz von Arrain
+#facs_391_r3l22 Pierre Monnay de Vevay
+#facs_391_r3l23 Daniel Creatura de Moudon
+#facs_391_r3l24 David de Leran de Nijon,
+#facs_391_r4l1 Bls
+#facs_391_r4l2 Johann Rudolst Friedl. von Ersingen, Amts¬
+#facs_391_r4l3 Burg dorff
+#facs_391_r4l4 Samuel Meyer von Bern
+#facs_391_r4l5 Jean Pierre Bysac de Herge amt Isterth
+#facs_391_r4l6 Pierre Daggotdon de Meserey Amts
+#facs_391_r4l7 Lausanne.
+#facs_391_r4l8 Henry Anselme de LIsle, Amtsmorfen
+#facs_391_r4l9 Damure Roublé von Murksen.
+#facs_391_r4l10 Daniel Schneider von Thun.
+#facs_391_r4l11 Charles Beaud de Rave Amt Istretha
+#facs_391_r4l12 Benedict Roßer von Urthenen, herrschaft
+#facs_391_r4l13 Hindelbankh
+#facs_391_r4l14 Bendicht Schaab von Totzigen Amtsbuen
+#facs_391_r4l15 Daniel arpau de Dursin, Romainm.
+#facs_391_r4l16 Bendicht Spring von Keisen, Zbeysimen
+#facs_391_r4l17 Pierre Goy de Vaulion, Romainin:
+#facs_391_r4l18 Pierre adam favre d'Ivoinau, Grandson,
+#facs_391_r4l19 Haus Grundbah von Vumsbald.
+#facs_391_r4l20 Jean Jaques de Lorme de Vallamaud, D: Aranche.
+#facs_391_r4l21 Bendicht Zimmermann von achtendorff, Thun.
+#facs_391_r4l22 Matthuß Scheller von Wildenstein.
+#facs_392_r2l1 Philippe Pierre Beson de Betolle, mais
+#facs_392_r2l2 Rudolst Graffmann, Lenzburg
+#facs_392_r2l3 Johannes Marti von Lupftigen, Königl.
+#facs_392_r2l4 felden.
+#facs_392_r2l5 Johannes Menner von Jegenstorf, hindelbau.
+#facs_392_r2l6 Pierre Duran de Lausanne.
+#facs_392_r2l7 Jean Jaques Leger de Prangin, Nyon
+#facs_392_r2l8 Georg Müller von Deeberg. Wang
+#facs_392_r2l9 Daniel Duclos de Villars, Morges.
+#facs_392_r2l10 Johannes Öhler, von Eheiswyl. Trachselba
+#facs_392_r2l11 Jacob amßler von Schenkenberg.
+#facs_392_r2l12 Abraham Kummer von Uzistorff, Landtshütz
+#facs_392_r2l13 Jacob Hirsching, von Amsolding, thun
+#facs_392_r2l14 Johannes Wolff von Ottmansing, Lentzbur¬
+#facs_392_r2l15 Jeene Belptiste
+#facs_392_r2l16 en
+#facs_392_r2l17 Gethreydls-Ver
+#facs_392_r2l18 alle Teütsch, und Weltsche Amt Leut¬
+#facs_392_r2l19 silberung
+#facs_392_r2l20 und Häuser da Oberreithlich
+#facs_392_r2l21 Rethraydt
+#facs_392_r2l22 Schultheis, Räht und Burger etc.
+#facs_392_r2l23 Collet
+#facs_392_r2l24 Auf uns abgestaldeten Bericht, wie es
+#facs_392_r2l25 in Ansehen des Gethreydts durchgehen
+#facs_392_r2l26 bewandt etc.
+#facs_392_r4l1 1759.
+#facs_392_r4l2 bewandt, und daß aller Anschein zu
+#facs_392_r4l3 einer reichen Erndt vorhanden seye.
+#facs_392_r4l4 haben Wir dir /: Bleich Ubrigen
+#facs_392_r4l5 AmtLeutden :/ befehlen wollen, nach
+#facs_392_r4l6 Imbehalt der Herbst- und Weyhnacht
+#facs_392_r4l7 von fasten auch der Ordinarii und
+#facs_392_r4l8 Quasi ordinari Aufgraben, alle
+#facs_392_r4l9 über den Vor Raht aus verhandene
+#facs_392_r4l10 Winterfrucht von nun an Zuver¬
+#facs_392_r4l11 sillberen und bey der mindst behalt¬
+#facs_392_r4l12 lichen deiner Eydtspflicht gemäus,
+#facs_392_r4l13 anzufangen; Maßen zu thun und
+#facs_392_r4l14 um das erlösende getreuve Rech¬
+#facs_392_r4l15 nung zu tragen bestens wüßen, wirst
+#facs_392_r4l16 Stoll mit Dir. Datum d. 19. Juny
+#facs_392_r4l17 1744

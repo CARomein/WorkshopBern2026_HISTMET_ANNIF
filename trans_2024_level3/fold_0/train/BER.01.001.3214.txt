@@ -1,0 +1,71 @@
+Law ID: BER.01.001.3214
+Name: Wegen Erlassung einer Anzahl Glaubensbekenneren von den französischen Galeeren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 60/60
+# High similarity (>=50%): 60
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_50_r1l1 90
+#facs_50_r1l2 Morsten, Ißerten Nydau, Büren, Wangen
+#facs_50_r1l3 Arburg, Königs fellden.
+#facs_50_r1l4 Wegen Erlaßung hier anzahl Glauben
+#facs_50_r1l5 Bekesteren von den Kranzößischen
+#facs_50_r1l6 Schuldtheiß und Rhat der Stall Bäre etc. Galen
+#facs_50_r1l7 Durch vermittlung Ihr Königl. Mayst. von Groß¬
+#facs_50_r1l8 Britannien ist abermalen eine anzahl glaubens
+#facs_50_r1l9 Collath
+#facs_50_r1l10 bekennere von den Französischen Galieren entlaßen,
+#facs_50_r1l11 worden, davon dann die Meisten bereits zu Genff
+#facs_50_r1l12 angelanget, Wie nun by Nächstem disere gute Leut
+#facs_50_r1l13 Vnder den Evangel. Ohrten werden In Graff
+#facs_50_r1l14 vertheilet werden, deßwegen auch ein zurichischer
+#facs_50_r1l15 Commissarius fürderlichst anlangen wirdt, alls habend
+#facs_50_r1l16 Wir Vnsers theils geschloßen, die Jenige anzahl
+#facs_50_r1l17 So nach der Repartition Vnserem Standt zu fallu
+#facs_50_r1l18 wirdt, In Vnser Verpflegung von Gruff bis
+#facs_50_r1l19 Nacher Brugg gratis abführen zulaßen, und daru¬
+#facs_50_r1l20 30
+#facs_50_r1l21 ber aus Jeda Persohn mit einem viatico von 36.
+#facs_50_r1l22 Thaleren zu beschenken, so lchem nach aber selbige
+#facs_50_r1l23 dem Begleith des allerhöchsten zu empfählen
+#facs_50_r1l24 und darmit weiters zu weisen; Wie nun die
+#facs_50_r1l25 abführung diser Leüthen von Genff biß Nach¬
+#facs_50_r3l1 91
+#facs_50_r3l2 Brugg Vnserer Exulanten Cammer anbefohlen werden
+#facs_50_r3l3 alls habendt. Wir dich gleich gegen anderen Amtleüthen
+#facs_50_r3l4 auf der Route auch beschicht, deßen hiemit verständigen
+#facs_50_r3l5 und zugleich befelchen wollen, wo Ermeldter
+#facs_50_r3l6 Exulanten Cammer mit dem Erforderlichen Proviant
+#facs_50_r3l7 für disern Laüth, Vnd was sonsten äußert dem gellt
+#facs_50_r3l8 weiters nöthig sein möchte Nach Ihr der Cammern
+#facs_50_r3l9 Anweisung fürderlich Mit aller Beflißenheit an
+#facs_50_r3l10 die Hand zugehen, wie zuthun wüßen wirst, und
+#facs_50_r3l11 Wir vns zu dir versehendt. Datum 21. Aug: 1716.
+#facs_50_r3l12 An Landtragt Fröngler In den
+#facs_50_r3l13 Nyderen Freyamteren.
+#facs_50_r3l14 Ihme wegen der bättelzügl. anduten
+#facs_50_r3l15 Schuldtheis und Rhat der Statt Gärn
+#facs_50_r3l16 Weilen Lobl. Stand Pasell der Nohtdurfft
+#facs_50_r3l17 Befindt, eine allgemeine VättellJäger zu außmuße¬
+#facs_50_r3l18 rung deß so überhäufig verführenden ohnnützen Batt all¬
+#facs_50_r3l19 glindes auff d. 31. diß Monats In deßen Bottmäßig¬
+#facs_50_r3l20 Zeit anzustellen, und uns zur Mithalltung eingelaten
+#facs_51_r1l1 92
+#facs_51_r1l2 Alls habendt Wir gleicher Nohtwendigkeit erachtet
+#facs_51_r1l3 sollche allgemeine Jäg; gewohnter Maßen
+#facs_51_r1l4 auch in unseren Eignen Landen vorgehen zu laß,
+#facs_51_r1l5 Maßen deßwegen auch Luzern, Fryburg Sollothur
+#facs_51_r1l6 Tischoff Basel, Neüwenburg vnd Biell zur Mithalltin
+#facs_51_r1l7 eingeladen worden, wann aber wohl zuermeßen,
+#facs_51_r1l8 Daß disers gesund sich in Eünverein District der
+#facs_51_r1l9 Freÿen Ämteren laßen möchte, alls habendt Wir
+#facs_51_r1l10 Euch deßen zugleich verständigen und befelihnen
+#facs_51_r1l11 wollen, die nöhtige anstellt zu verfügen, daß
+#facs_51_r1l12 Die Jenigen so erheschet werden, von einem Profos¬
+#facs_51_r1l13 dem anderen biß auff die Gräntzen der Eydtgnos¬
+#facs_51_r1l14 schafft übergeben werdindt. Gott mit Eüch. Datt
+#facs_51_r1l15 24. Aug: 1716.

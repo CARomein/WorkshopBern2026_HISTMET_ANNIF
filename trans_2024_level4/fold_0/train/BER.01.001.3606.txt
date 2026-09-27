@@ -1,0 +1,141 @@
+Law ID: BER.01.001.3606
+Name: Ihnen die Execution der Bettelordnungen, und zugleich anbefehlen, hertzhaffte Leüth zu Provosen ze bestellen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_494
+# Matched: 130/130
+# High similarity (>=50%): 128
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_18_r4l1 31.
+#facs_18_r4l2 Beschreibung.
+#facs_18_r4l3 Der Teütschen H. Ambtleüthen auf Ihre
+#facs_18_r4l4 Rechnungen p Ao. 1730.
+#facs_18_r4l5 Burgdorff]
+#facs_18_r4l6 Montags – den 23. Jan. 1720
+#facs_18_r4l7 Arberg.
+#facs_18_r4l8 Candshuet
+#facs_18_r4l9 Dinstags - 24 d.
+#facs_18_r4l10 Signaus
+#facs_18_r4l11 Vidaub
+#facs_18_r4l12 Mitdochtens - 25. d.
+#facs_18_r4l13 Buren
+#facs_18_r4l14 Aarbangen
+#facs_18_r4l15 26 do
+#facs_18_r4l16 Dorstags
+#facs_18_r4l17 Zuchsee
+#facs_18_r4l18 30. d.
+#facs_18_r4l19 Krimisferg Montag¬
+#facs_18_r4l20 Erlach
+#facs_18_r4l21 Mitbechens
+#facs_18_r4l22 —“ 15 februarij
+#facs_18_r4l23 Heckißbeil)
+#facs_18_r4l24 St. Johansen
+#facs_18_r4l25 Donstags
+#facs_18_r4l26 2. d
+#facs_18_r4l27 Korichter
+#facs_18_r4l28 Nangen
+#facs_18_r4l29 Montags - 6 do
+#facs_18_r4l30 Interlaversauß
+#facs_18_r4l31 Erieniscferg
+#facs_18_r4l32 Dinstags - 7 do
+#facs_18_r4l33 St. Johanßhauß
+#facs_19_r2l1 Boctstalt
+#facs_19_r2l2 Witbochens 8. februarij
+#facs_19_r2l3 Thorberg
+#facs_19_r2l4 - Donstags - 9 do.
+#facs_19_r2l5 Dummstald
+#facs_19_r2l6 Langen
+#facs_19_r2l7 Montags - 13. d.
+#facs_19_r2l8 Brandiß
+#facs_19_r2l9 Prauckbronen
+#facs_19_r2l10 Mitwochens - 15. do.
+#facs_19_r2l11 Oberhofen
+#facs_19_r2l12 Wimmiß
+#facs_19_r2l13 Donstags -,, 16. d.
+#facs_19_r2l14 Frutigen
+#facs_19_r2l15 Stifft alhier
+#facs_19_r2l16 Montags - 20 do
+#facs_19_r2l17 Wußhafen
+#facs_19_r2l18 Vnderseen
+#facs_19_r2l19 Mitbochens - 22. d.
+#facs_19_r2l20 Zoffingen
+#facs_19_r2l21 Jastags - 23. do
+#facs_19_r2l22 Interlaben
+#facs_19_r2l23 Montags 27. do
+#facs_19_r2l24 Thun
+#facs_19_r2l25 Siechenhauß
+#facs_19_r2l26 Mittbochens¬ 1.t Marty
+#facs_19_r2l27 Arburg
+#facs_19_r2l28 Donstags - 2 do
+#facs_19_r2l29 zweysimmen
+#facs_19_r2l30 Montags 6. do
+#facs_19_r2l31 Giberstein,
+#facs_19_r2l32 Schenbenberg
+#facs_19_r2l33 Witbochens 8. do
+#facs_19_r2l34 Trachselwald
+#facs_19_r2l35 Jocitag 9 do
+#facs_19_r5l1 33
+#facs_19_r5l2 Sauffrken Bürgeren - „ Montag¬
+#facs_19_r5l3 13 Marty
+#facs_19_r5l4 entzburg
+#facs_19_r5l5 Mitwochens
+#facs_19_r5l6 15. d.
+#facs_19_r5l7 Ahlen
+#facs_19_r5l8 Dorsteige
+#facs_19_r5l9 16 do
+#facs_19_r5l10 Insull
+#facs_19_r5l11 Montags
+#facs_19_r5l12 20. do.
+#facs_19_r5l13 Köngsfelden
+#facs_19_r5l14 Jonstags
+#facs_19_r5l15 23 do.
+#facs_19_r5l16 Daanen
+#facs_19_r5l17 Montagu
+#facs_19_r5l18 27. d
+#facs_19_r5l19 Groß Spithal
+#facs_19_r5l20 Donstags
+#facs_19_r5l21 30 do.
+#facs_19_r5l22 An alle Tuns W. Ambtleuth
+#facs_19_r5l23 4. Stäck, Freydeibel und
+#facs_19_r5l24 Amman
+#facs_19_r5l25 Ihnen die execution der HaftelOrdnungen, und
+#facs_19_r5l26 Zugleich anbefehlen, hertzhaffte leüth zu
+#facs_19_r5l27 sfrovosen zu bestellen.
+#facs_19_r5l28 Schultheiß und Raht.
+#facs_19_r5l29 Mit ohnlieb haben Wir eine Zeith daher wahrnen
+#facs_19_r5l30 nen müßen, daß Unserem Ernstgemeint,
+#facs_19_r5l31 Einsehen vom 9ten Juli 1725. und deßenen
+#facs_20_r2l1 Erfrischung vom 9ten May 1726. ansehen
+#facs_20_r2l2 das Strolchen und Geckelgesind
+#facs_20_r2l3 nicht
+#facs_20_r2l4 nachgelebt, sonder das Land mit solch in
+#facs_20_r2l5 nüzem Besindel angefült wird, dahero
+#facs_20_r2l6 dan allerhand frechheiten und dieb¬
+#facs_20_r2l7 stahl von selbigen verüebt werden, In¬
+#facs_20_r2l8 mößen Wir der Nohtwendigkeit zu seyn
+#facs_20_r2l9 befunden, solches hiemit zu erfrischen
+#facs_20_r2l10 und dir alles Ernsts zu befehlen, daß
+#facs_20_r2l11 die Vorgesezten der Gewinden um
+#facs_20_r2l12 bestelten Ofrorosen die durchreisenden
+#facs_20_r2l13 oder im Land sich befindlichen Heitler
+#facs_20_r2l14 oder Landstreicher examinieren, die
+#facs_20_r2l15 Verdächtigen und die, so mit mit gülti¬
+#facs_20_r2l16 gen oder gar keinen päßen versehen, die
+#facs_20_r2l17 zuführend, da dan nach beschehener exa¬
+#facs_20_r2l18 mination und Begleisung der Mandaten
+#facs_20_r2l19 Die fremden Rodeurs entweders in
+#facs_20_r2l20 pfithal oder Schallenbert alsaro schiken
+#facs_20_r2l21 Die Einheimschen aber Ihren gemeinsen
+#facs_20_r4l1 35.
+#facs_20_r4l2 führen laßen, Welch letzteren du den ernst¬
+#facs_20_r4l3 neinem einschärpfen wirst, daß Sie anstat¬
+#facs_20_r4l4 der veralteten und gleichsamb ohnbrauch¬
+#facs_20_r4l5 bahren ofersohnen, hertzhaffte, benebensver¬
+#facs_20_r4l6 ständige erfrowosen bestellind, sonsten bidri¬
+#facs_20_r4l7 gen fahls, und da hierin mangel verspführt
+#facs_20_r4l8 berden solte, Wir nit ermanglen Burden,
+#facs_20_r4l9 Selbige nach Gebühr anzusehen. Datl. d. 9t
+#facs_20_r4l10 Decembris 1729

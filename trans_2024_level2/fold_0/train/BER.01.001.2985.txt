@@ -1,0 +1,100 @@
+Law ID: BER.01.001.2985
+Name: Die Vereüsserung dess Getreidts nochmahlen verbiethen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 89/89
+# High similarity (>=50%): 88
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_151_r3l15 An alle T. und W. Ambtleuth 4. Stätt
+#facs_151_r3l16 Preÿrteibel undt Amman
+#facs_151_r3l17 Die Verlüßeung des Getreides noh=
+#facs_151_r3l18 mahlen verbiethen.
+#facs_151_r3l19 Schuldtheiß undt raht der Statt bein
+#facs_151_r3l20 Wiewohlen Wir zu gutem Unser angehörige
+#facs_151_r3l21 Collgzu Statt und landt die Verfüßerung des
+#facs_151_r3l22 getreidts zu verschidenen mahlen verpieten
+#facs_151_r3l23 laßen, so müeßend Wir dennoch glaubwürdig
+#facs_151_r3l24 vernemmen, daß demselben auf Einfrüschel
+#facs_151_r3l25 nachgesetzet werde etc. dahero Wir in widerholung
+#facs_151_r3l26 Vothanen Verbott. dir /: gleich allen an den
+#facs_151_r3l27 Unseren Ambtleüthen alles Ernst befohlen
+#facs_151_r3l28 haben wollend, deßen maniglich früscher dingen,
+#facs_151_r3l29 bey straff Ehr, leibs oder guts sehnach beschaffenheit
+#facs_151_r3l30 deß Verbrechens von Cantzler verlesenen zulaßen
+#facs_151_r3l31 Dat 27. Aug: 1709.
+#facs_152_r2l1 290.
+#facs_152_r2l2 Aus Weltsch allein damit aber sothaner Perle
+#facs_152_r2l3 P.S.
+#facs_152_r2l4 desto Ehender Erreichet werde, wollend Wie alle
+#facs_152_r2l5 die wenigen, so Ihr getreidt bey den heußern
+#facs_152_r2l6 verkauffendt, verbunden haben das verkauffe
+#facs_152_r2l7 " de getreidt in Ihre Haußbüecher aufzu
+#facs_152_r2l8 schreiben, damit auf Erforderen solche Erschau
+#facs_152_r2l9 6. Wet werden kömmindt. Welches du gleichfahls
+#facs_152_r2l10 von Canghlen verlesen zulaßen befelchnet.
+#facs_152_r2l11 wirst. Datum ut in Litteris
+#facs_152_r2l12 Copie
+#facs_152_r2l13 de la publication en chaire
+#facs_152_r2l14 Concernants les laods et lindiqua
+#facs_152_r2l15 tion d'Ireux.
+#facs_152_r2l16 L'Advoyer et Conseil de la Ville et
+#facs_152_r2l17 Republique de Berne nos Salutations pre-
+#facs_152_r2l18 de mises p. Comme Nous avons eté Informez,
+#facs_152_r2l19 que non obstant touts les Mandats emanéz
+#facs_152_r2l20 Et publies cy devant de nôtre part tant
+#facs_152_r2l21 a l'Egard de la Stipulation, réception et
+#facs_152_r2l22 Expedition des Actes Emportants Lands
+#facs_152_r2l23 que de la Composition et payement
+#facs_152_r2l24 desdts Lands, et de tous les Reglement
+#facs_152_r2l25 faits la dessus, contenus aux dts. Mayan
+#facs_152_r2l26 datés du 9me Juin 1626 14 Mars 1643 et
+#facs_152_r2l27 13 fevrier 1663 plusieurs que tant de
+#facs_152_r2l28 nos sujets qu'Etrangers possedants fonds,
+#facs_152_r2l29 Existants nere nos Terres et pays ne
+#facs_152_r2l30 se conforment pas a nos dits Ordonans
+#facs_152_r2l31 ces. Ce qui etant non seulement un
+#facs_152_r3l1 291
+#facs_152_r3l2 Despect a notre Authorité Souveraine
+#facs_152_r3l3 de plus un prejudice notable a nos droits et
+#facs_152_r3l4 interests. Nous avons partant derechef, et une
+#facs_152_r3l5 fois pour toutes tres serieusement ordonné, qui
+#facs_152_r3l6 tous et chacun tant nos dits sujets qu'Etrangers,
+#facs_152_r3l7 de quelle qualité et Condition quils soyent,
+#facs_152_r3l8 assent a se Conformer a L'Advenir, a l'Intier
+#facs_152_r3l9 contenu et disposition des susdits Mandats
+#facs_152_r3l10 souverains sous les peines y mentionées; D'ailleurs
+#facs_152_r3l11 Nous roulons et ordonnons, enfin que les lavds
+#facs_152_r3l12 puissent tantmieux etre mis en evidence, les
+#facs_152_r3l13 Enses payées par qui de droit, et nos droits
+#facs_152_r3l14 maintenus et conservés, sans necessité d'estre
+#facs_152_r3l15 sujets a des frequentes renovations, que toutes
+#facs_152_r3l16 persones de quelle qualité qu'elles soyent, de nos
+#facs_152_r3l17 sujets ou Etrangers, qui de rien droit possesseur.
+#facs_152_r3l18 et Tenanciers d'un fonds Existant riere les
+#facs_152_r3l19 lieux de nos Terres et pays, qui relevent de
+#facs_152_r3l20 nos fiep ou riere fiefs, soit par herilage, dona,
+#facs_152_r3l21 tion, Partage, Cession, Requisition, Exchange,
+#facs_152_r3l22 Collocation, ad Judication, Subhastation,
+#facs_152_r3l23 Revestiture ou de quelle autre maniere
+#facs_152_r3l24 que ce soit, ait a l'aller declarer au
+#facs_152_r3l25 Receveur Etabli de nôtre part, ou de nos
+#facs_152_r3l26 Ballifs, et lieux ou les dit's fonds seront situés
+#facs_152_r3l27 pour se faire mettre en Tenet sur les Rentiers
+#facs_152_r3l28 ce cause
+#facs_152_r3l29 en produisant leurs riltres ayances, et
+#facs_152_r3l30 composer les loods, qui pourroyent etre dûs
+#facs_153_r3l1 Et ce précisement dans le Terme de trois
+#facs_153_r3l2 mois pour les plus tard, apres la mise et
+#facs_153_r3l3 possession, a peine de Comission et Eschute
+#facs_153_r3l4 des dits fondsmouvant de nôtre fief, sans
+#facs_153_r3l5 pouvoir Esperer sur ce aucun recours, Et
+#facs_153_r3l6 a fin que chaqu'un puisse etre rendu
+#facs_153_r3l7 sachant de nôtre ordonance; Nous voulons
+#facs_153_r3l8 que les lusdts precedents Mandats soyent
+#facs_153_r3l9 anvellement lûs en chaire avec la pre-
+#facs_153_r3l10 sente et enregistrées suivant l'ordre.
+#facs_153_r3l11 Actg. 27. Août. 1709.

@@ -1,0 +1,109 @@
+Law ID: BER.01.001.1631
+Name: Dass man wider zur Zilstatt schiessen möge.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 98/98
+# High similarity (>=50%): 87
+# Low similarity (<50%): 11
+# Not found: 0
+#
+#facs_342_r3l13 Substantzlicher Bericht und Verzeichnuß aller
+#facs_342_r3l14 xyz die Ämbter gelegter Zinsen und welcherst die
+#facs_342_r3l15 Hl. Ambtleuth vff Jacobi 1657 für Annemen
+#facs_342_r3l16 verrechnen söllend, und sind d:o die alten Zinsen
+#facs_342_r3l17 und Kösten bis vff Jennen 1657 darumb in Ind.
+#facs_342_r3l18 10th
+#facs_342_r3l19 Umbels man ein artikel um die Rechnung sehen soll,
+#facs_342_r3l20 als hienach steht
+#facs_342_r3l21 2999. lb. 14. s. 8.
+#facs_342_r3l22 2
+#facs_342_r3l23 Cass-Lentzburg
+#facs_342_r3l24 548. lb. 5 f 4 x
+#facs_342_r3l25 Trachselwaldt
+#facs_342_r3l26 Giberstein
+#facs_342_r3l27 10. lb.
+#facs_342_r3l28 vanen.
+#facs_342_r3l29 5 8 f 6 x
+#facs_342_r3l30 Frau wenbrl.
+#facs_342_r3l31 1675. lb 7. s. 4. d.
+#facs_342_r3l32 Buchsee.
+#facs_342_r3l33 101. 1. 4. ß.
+#facs_342_r3l34 Arberg.
+#facs_342_r3l35 4 20. fl. 12 s.
+#facs_343_r2l1 Lauppe.
+#facs_343_r2l2 Büren.
+#facs_343_r2l3 Thorberg
+#facs_343_r2l4 Vader Spitahl,
+#facs_343_r2l5 .
+#facs_343_r2l6 Eplach.
+#facs_343_r2l7 Vijdauw.
+#facs_343_r2l8 Stionispertg.
+#facs_343_r2l9 Wimmis.
+#facs_343_r2l10 Zweisimlen.
+#facs_343_r2l11 Interlacken.
+#facs_343_r2l12 Burgdorff
+#facs_343_r2l13 2 sue.
+#facs_343_r2l14 Frutingl
+#facs_343_r2l15 Scheinkenberg.
+#facs_343_r2l16 Brandist.
+#facs_343_r2l17 Arwangl.
+#facs_343_r2l18 Wangl.
+#facs_343_r2l19 Signaur
+#facs_343_r2l20 Alen.
+#facs_343_r3l1 137.16.14
+#facs_343_r3l2 96„ 14.
+#facs_343_r3l3 20.1
+#facs_343_r3l4 27.11.10.11 8
+#facs_343_r3l5 364„17.11.4
+#facs_343_r3l6 490. 141 8
+#facs_343_r3l7 13. 1618
+#facs_343_r3l8 1528. 1117. 14
+#facs_343_r3l9 33.11.6.8
+#facs_343_r3l10 209 „ 12 „
+#facs_343_r3l11 200 f 18 x
+#facs_343_r3l12 4507 f 17 x 8
+#facs_343_r3l13 493.16.18
+#facs_343_r3l14 38.11
+#facs_343_r3l15 56
+#facs_343_r3l16 1682.11 2.116.
+#facs_343_r3l17 470.11 v.
+#facs_343_r3l18 ß93.
+#facs_343_r3l19 98 11 10 n 8
+#facs_343_r5l1 ur 667
+#facs_343_r5l2 Urburg. 18.1.lb. ß. d.
+#facs_343_r5l3 Sipp   15. „ 14 „
+#facs_343_r5l4 Hoffingl.
+#facs_343_r5l5 – — — — 48.11 14.11.4.
+#facs_343_r5l6 Landtshuth. 18.11.19.14
+#facs_343_r5l7 Andie 2. Umbklüth: daß man wider zur
+#facs_343_r5l8 Zilstatt schießen möge.
+#facs_343_r5l9 Schuldtheis Räht vnd Burger.
+#facs_343_r5l10 Wir habend bereits verschinnen Jare, vff demüetiges pitliches
+#facs_343_r5l11 Nachwerbei etlicher unser vnderthanen Imw ansehen und gnedigen
+#facs_343_r5l12 bedencken, Ires deno gemeinen Lieben Vatterland erwisenen
+#facs_343_r5l13 geüngsten Treuwlich und ehrlich durchgehenden waeversalten
+#facs_343_r5l14 rus belieben laßen, Inen unseren Lieben und thauen Innß gemein
+#facs_343_r5l15 den gebruch der Zilstethen und verschießen, der des einigen
+#facs_343_r5l16 vnd anderen Orsts bestimten vnd verordnete gaben wie mit
+#facs_343_r5l17 wie vor diesem Zuvergönne und Erbewillig: Mit dieser
+#facs_343_r5l18 Inen selbst vnd Inns gemeis zu guten angehenckten
+#facs_343_r5l19 wegweisung vermahnung und bevelch, daß man bei Jeder
+#facs_343_r5l20 Zilstath alwegen ein Stundt vor dem schiesen das Exercitium
+#facs_343_r5l21 der wehren zur Hand nennen, und wie es bereits vor wenig Jahren
+#facs_343_r5l22 hoblich eingefüert worden, brucken und also daselb am ganz
+#facs_343_r5l23 und guter verbung vortsetzen und erhalten solle, vnnd
+#facs_343_r5l24 Dieweil die Vpschreibung solcher Unser Bewilligung gewußer vor¬
+#facs_343_r5l25 Fallenheit halb bisher anstahren verbliben, wer woltene Wir
+#facs_344_r3l1 Derselben dich hiemit verstendig, in demandt, daß du mit al
+#facs_344_r3l2 Ambtsangehörige diß ohrte, wie von alter Herr, fürfahre,
+#facs_344_r3l3 rund des Exercitij der wehren halb, hand ob zuhalten
+#facs_344_r3l4 die verordneten schießgaben, wie sie dieselben vor dem ge
+#facs_344_r3l5 Junß künfftig: Wie auch für das letzt verschinne Jahr,
+#facs_344_r3l6 schog verschoßen worden were, Ihnen vß zerichten, vnd vns
+#facs_344_r3l7 derer nahmen müßest, der vernehren, darbei auch verstandenen Meinung
+#facs_344_r3l8 wan Ihnen der Schüten weitere gute wegweise und anleitung
+#facs_344_r3l9 Die Führung der wehren betreffend, zugeben guth finden neuen
+#facs_344_r3l10 Siederselben sich nit minder geflisser zubequemmen vnd zehe
+#facs_344_r3l11 bruch einigen das 6. feb. xxx

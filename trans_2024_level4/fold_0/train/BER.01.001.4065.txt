@@ -1,0 +1,40 @@
+Law ID: BER.01.001.4065
+Name: Wegen Vorbeügung der den Predigkanten und Chorrichteren verursachten Schadens von muthwilligen Frefleren.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_498
+# Matched: 29/29
+# High similarity (>=80%): 22
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_32_r2l1 An
+#facs_346_r_9l_18 alle Welsche Amtleuth
+#facs_346_r_9l_19 Wegen Vorbeügung des den Predigbanten und Chor
+#facs_346_r_9l_20 Richteren verursachten Schadens von muthwilligen
+#facs_346_r_9l_21 frefflaren.
+#facs_326_r2l8 Schultheis und Staht
+#facs_346_r_9l_23 Wir sind aus gehalten Anlaaß bebogen worden, das hab
+#facs_346_r_9l_24 30ten Decembris 1734 aufs frische publicianta Mandat, bemöge
+#facs_346_r_9l_25 welcheßen, die Bemeinden gehalten seyn sollen, den
+#facs_346_r_9l_26 Schaden, so durch übel gefinnete Leut an der Pfarreren
+#facs_188_r2l17 brutigen
+#facs_347_r3l3 das Fahls von dergleichen Freiteren nit nur die
+#facs_347_r3l4 Büeter der Pfarrären, sonder auch der Chorrichteren
+#facs_347_r3l5 beschädiget wurden, die Thäter dann nit entdekt werden
+#facs_347_r3l6 könnten, oder aber den Schaden abzutragen mit ver¬
+#facs_347_r3l7 mögens wären, die Bemeinden schuldig seyn sollen,
+#facs_347_r3l8 den verursachten Schaden gut zu machen und zu ersehen,
+#facs_347_r3l9 deßen Wir Euch gleichübrigen v. Amtl. hiemit berichts
+#facs_347_r3l10 mit Gefahl, die Unserer Verordnung zu mannigen und
+#facs_347_r3l11 Nachricht von Cantzle verlesen, und in den Schloßlicher
+#facs_347_r3l12 inschreiben zu lassen. Actum den 8ten Decembr. 1756.
+#facs_347_r3l13 die Arrgrübischen Amtleuth und Oberländischen  4. Städt.
+#facs_347_r3l14 Majolet banisiret.
+#facs_70_r3l6 Schultheiß und Raht
+#facs_347_r3l16 Wir wollen euch befohlen haben, die in mitkommenden
+#facs_347_r3l17 Signalement designierten, von S. Stand Blauß vanisierten
+#facs_347_r3l18 2. Dieben, hinter Euerem Amt nicht zu leiden, sondern
+#facs_347_r3l19 auf betretten fort zu reifen. Datum d. 8. Decembris 1755.
+#facs_16_r4l11 Signalement

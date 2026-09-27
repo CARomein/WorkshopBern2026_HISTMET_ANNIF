@@ -1,0 +1,61 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 53/54
+# High similarity (>=80%): 51
+# Low similarity (<80%): 2
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4433
+#facs_243_r3l4 Wegen Ergänzung, wie auch Verkauff von dem
+#facs_28_region_1628256027653_407l1 47
+#facs_86_r10l3 b
+#facs_256_r2l2 Alle Teütsche Herren Amtleut und Schaffner¬
+#facs_243_r3l3 da Obrigkeitlich Getreid ligt
+#facs_243_r3l4 Wegen Ergänzung, wie auch Verkauff von dem
+#facs_325_r2l7 Getreid-Vorrahts angewandt werden solle)
+#facs_90_r2l5 Schultheiß Räht und Burgers.
+#facs_243_r3l7 Uns ist von Unseren fürgeliebten MitRähten
+#facs_243_r4l21 denen Herren Teutsch Sekelmeister und Venneren
+#facs_243_r3l9 und Unser verordneten KornCämmer, über die
+#facs_243_r3l10 Disposition des auf Martini 1774 eingegangenen
+#facs_243_r3l11 Obrigkeitlichen Getreids, der Vortrag gemacht
+#facs_243_r3l12 worden; Worüber Wir Erbent: daß nach
+#facs_243_r3l13 Unserem sub 14ten Septl. ferndrigen Jahrs geaüs¬
+#facs_243_r3l14 serten Willen „allervorderst alles dasjenige
+#facs_243_r3l15 was nach Abzug der Ordinarii und Quasi=Ordinari¬
+#facs_321_r2l19 Ausgaben, wie auch deßen was Euer Contingen
+#facs_243_r3l17 auf dem restierenden Betragen mag, von
+#facs_243_r3l18 sothanem Obrigkeitl. Getreid vorschießen wird.
+#facs_243_r3l19 (Fahls solches nicht würklich geschehen wäre) so weit
+#facs_243_r3l20 es nöhtig seyn wird, zu fernerer wider Ergan¬
+#facs_243_r3l21 zung des von Uns auf Eüerem Amt so wohl an
+#facs_243_r3l22 Sommer, als Winter Früchten, bestimten Obrig¬
+#facs_243_r3l23 heitlichen Getreide vorraht, angewendet
+#facs_243_r3l24 werden solle.
+#facs_243_r3l25 Was dann dasjenige Obrigkeitliche Getreis¬
+#facs_28_region_1628256027653_407l1 47
+#facs_243_r4l2 Betrifft, welches diesemnach noch zum Verkauf von eint¬
+#facs_243_r4l3 und anderer Gattung übrig bleiben wird; So ist desthalb
+#facs_243_r4l4 Unser Will und befelch: Daß von denen Winter¬
+#facs_243_r4l5 Früchten für einmahl, und biß auf Unsteren weiteren
+#facs_243_r4l6 bestimten Befehl, Nicht das geringste Verkaufft, hin
+#facs_243_r4l7 gegen aber die Sommerfrüchte in pleno versilberet wer¬
+#facs_243_r4l8 den. Alles jedennoch in dem Verstand, daß in
+#facs_243_r4l9 ansehen dieser verkaufenden Sommerfrüchten, die
+#facs_243_r4l10 üblichen Vorsorgen genommen, mithin solche nur zu
+#facs_243_r4l11 bleinen Kaufen überlaßen, und vorzüglich zu an¬
+#facs_243_r4l12 Blühnung der Felderen hingegeben, auch erst denn
+#facs_243_r4l13 zumahlen völlig abgestoßen werden sollen, wann die
+#facs_243_r4l14 Sommer Saat in Euerem Amt und in denen Gegenden
+#facs_243_r4l15 von welchen der Saamen darzu in demselben an
+#facs_243_r4l16 gebaufft wird, vollkommen besorget seyn wird;
+#facs_243_r4l18 Damit aber bey diesem Verbauf das mindest behält¬
+#facs_243_r4l19 liche getreyd abgestoßen werde: so haben Wir Ein
+#facs_243_r4l20 gangs vermelt Unseren fürgeliebten MittRähten
+#facs_243_r4l21 denen Herren Teutsch Sekelmeister und Venneren
+#facs_243_r4l22 aufgetragen, Euch zu dem End die Schüttenen zu
+#facs_243_r4l23 benaufen, welche verbaufft werden sollen; Welchem¬
+#facs_243_r4l24 nach Ihr Euch zu verhalten, und über das erlösende
+#facs_243_r4l25 Uns Rechnung zu tragen wüßen werdet. Datl.
+#facs_269_r4l6 den 15.
+#facs_24_region_1628255397587_277l11 en

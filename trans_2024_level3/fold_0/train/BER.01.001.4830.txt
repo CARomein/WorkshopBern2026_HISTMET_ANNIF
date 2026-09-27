@@ -1,0 +1,121 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 114/114
+# High similarity (>=80%): 108
+# Low similarity (<80%): 6
+# Not found: 0
+#
+#facs_169_r8l2 1830.
+#facs_287_r4l10 Steur Aufnahm für die Bemenn
+#facs_287_r4l11 Schbanden.
+#facs_287_r4l12 An alle deutsch und belsche Herren Amtleut
+#facs_259_r2l19 vier Städt, Freybeibel und Ammann
+#facs_287_r4l14 Zedel an die Canzel hiesiger Hauptstadt,
+#facs_287_r4l15 wie auch an die im äußern Spitha und im
+#facs_287_r4l16 Außern Krankenhans. Sep:
+#facs_287_r4l17 Schultheiß Räth und Surger. zu Unter¬
+#facs_287_r4l18 stühung und zum Trost der durch einen außer
+#facs_287_r4l19 ordentlichen Waßer und Regengüß in die
+#facs_287_r4l20 bedaurlichsten Umstände verstehten Gemeind
+#facs_287_r4l21 Schbanden, Amts Interlaben, haben Wir die
+#facs_287_r4l22 Aufnahm einer freybilligen Collect in samt¬
+#facs_287_r4l23 lichen unsern deutsch und welschen Landen
+#facs_287_r4l24 verbilliget und verordnet, wie solches Euch
+#facs_287_r4l25 die hier mitkommende gedrukte Publikation
+#facs_287_r4l26 in mehrerem Zeigen wird.
+#facs_288_r1l1 562.
+#facs_288_r1l2 Interlaken, Ober¬
+#facs_288_r1l3 faßten Frutigen,
+#facs_288_r1l4 und Unterstern.
+#facs_288_r2l1 Mst Zusendung nun einer genugsame
+#facs_288_r2l2 Anzahl dieser Publikation befehlen Mir
+#facs_288_r2l3 Euch solche aller Orten in Eüerein Amt
+#facs_288_r2l4 acht Tag vor dem bevorstehenden
+#facs_288_r2l5 Wadrug mithin auf Sontag den 10ten Herbst
+#facs_288_r2l6 zu jedermans Nachricht öffentlich von
+#facs_288_r2l7 kauhlen verlesen und so dan diese frey¬
+#facs_288_r2l8 billige Steuer an dem Rädbag selbsten
+#facs_288_r2l9 gegen End Weinmonats
+#facs_288_r2l10 nach jeden Orts Übung und Gebrauch ent¬
+#facs_288_r2l11 weder in der Kirch oder aber anderer
+#facs_288_r2l12 gestalten durch beeydigte einstammlen zu
+#facs_288_r2l13 fasen, deren samtlicher Betrag aber, so
+#facs_288_r2l14 viel Euer Amt /: Rezirk :/ betrift, mit den
+#facs_288_r2l15 behörigen Spezifikationen begleitet unserer
+#facs_288_r2l16 deutschen Bebelschreiberey zu daheriger
+#facs_288_r2l17 verhältnißmäßiger Eintheilung ohne
+#facs_288_r2l18 Anstand einzustanden, damit Uns diesem¬
+#facs_288_r2l19 nach darüber zu allenfalls gutfindender
+#facs_288_r2l20 beiterer Verordnung der erforderliche
+#facs_288_r2l21 Gericht abgestattet werden könne.
+#facs_257_r3l4 Geben den
+#facs_67_r3l14 Publication
+#facs_259_r3l15 Wir Schultheis klein und große
+#facs_259_r3l16 Räthe der Stadt und Republik dern¬
+#facs_86_r3l1 163
+#facs_288_r3l2 entbieten allen Unseren lieben und getrein¬
+#facs_288_r3l3 surgeren, angehörigen und Unterthanen,
+#facs_288_r3l4 zu Stadt und Land, Unseren gnädigen und
+#facs_288_r3l5 geneigten Willen, und geben ihnen dabey
+#facs_288_r3l6 Zu vernehmen:
+#facs_288_r3l7 Wie daß Uns der Ämtliche Bericht
+#facs_288_r3l8 eingekommen, was maßen die in Unserm
+#facs_288_r3l9 Amt Interlaken gelegene Dorfschaft
+#facs_288_r3l10 Schbanden, in lest verbichenem Heumonat
+#facs_288_r3l11 das Unglüte betroffen, durch einen im
+#facs_288_r3l12 verstehens entstandenen, und mehrere Stunden
+#facs_288_r3l13 lang fortgedaurten außerordentlichen
+#facs_288_r3l14 Legengüß, in die bedaurensbürdigsten
+#facs_288_r3l15 Umstände versteht zu werden; da nemlich
+#facs_288_r3l16 durch das durch diesen Regengüß ver¬
+#facs_288_r3l17 unstachte Anlauffen dreyer verschiedener
+#facs_288_r3l18 Serg oder Waldwasser große Lasten
+#facs_288_r3l19 von Schutt, Steinen und Felstenstüken
+#facs_288_r3l20 auf diese unglükliche Dorfschaft in der
+#facs_288_r3l21 Nacht heruntergestürzt, ihre Häuser und
+#facs_288_r3l22 Wohnungen viele Fuß hoch verschüttet,
+#facs_288_r3l23 und dieselben samt ihren Wiesen, Allment¬
+#facs_288_r3l24 Weyden, Pflanzungen, Ärtern und Garten
+#facs_288_r3l25 fast gänzlich zu Grunde gerichtet und
+#facs_288_r3l26 Ierstört = dadurch aber 52. meistens un¬
+#facs_288_r3l27 bemittelte Haushaltungen und 222. Reelen
+#facs_33_r1l1 56
+#facs_289_r2l1 in die guss Zünfftigkeit und Armuth,
+#facs_289_r2l2 zumal in einen, laut gemachten eydlicher
+#facs_289_r2l3 Schätzung, auf 106,848. Hern Pfund sich
+#facs_289_r2l4 ansteigenden Schaden, und zugleich in die
+#facs_289_r2l5 Nothwendigkeit versezt worden sind, ihren
+#facs_289_r2l6 Wohnort zu verlaßen, und vor der ein¬
+#facs_289_r2l7 brechenden Winters Zeit an einem anderen
+#facs_289_r2l8 Ort zu verlaßen und vor der einbrechenden
+#facs_289_r2l9 Minterszeit an einem anderen Ort Nahrung
+#facs_289_r2l10 und Obdach ausfindig zu machen.
+#facs_289_r2l11 Gleichbie Wir nun dieses, die Einbohner
+#facs_289_r2l12 von Schbanden, und zum Theil auch die in
+#facs_289_r2l13 der Nähe gelegenen Dorfschaften Brien
+#facs_289_r2l14 und Hofstedten betroffene harte Schicksal
+#facs_289_r2l15 mit großem Bedauren vernommen, und
+#facs_289_r2l16 dabey nicht zweiffeln, daß sämtliche Unsere
+#facs_289_r2l17 liebe und getreue Angehörige, solches mit
+#facs_289_r2l18 Uns theilnehmend beherzigen werden; so
+#facs_289_r2l19 haben Wir auch gutbefunden, so wohl in
+#facs_289_r2l20 Unserer Hauptstadt selbsten als in allen
+#facs_289_r2l21 übrigen Unsern Städten und Gemeinden
+#facs_289_r2l22 deutsch und welschen Landes, eine Zu
+#facs_289_r2l24 gunsten diesen beduurenswürdigen Land Leute
+#facs_289_r2l25 aufzunehmende freybillige Collegte mit
+#facs_289_r2l26 Liebessteuer auf den bevorstehenden
+#facs_289_r2l27 Sattag hiemit auszuschreiben.
+#facs_289_r3l1 565.
+#facs_289_r3l2 Zu sämtlichen Unseren lieben und getreuen
+#facs_4_r3l23 Bürgern und Angehörigen, zu Stadt und Land,
+#facs_289_r3l4 Gegen wir das beste Zutrauen, daß sie
+#facs_289_r3l5 diesen ihren so hart mitgenommenen Mit¬
+#facs_289_r3l6 Landleuten, ihr thätiges Mitleidenschenken
+#facs_289_r3l7 und zu nöthiger Hülfe und Unterstützung
+#facs_289_r3l8 derselben, das ihrige milthätig beytragen
+#facs_5_r5l11 werden
+#facs_186_r4l11 Geben in Unserer Großen Raths-Ver¬
+#facs_289_r3l11 sammlung den 28ten August 1797.
+#facs_289_r3l12 Kansley Bern.
+#facs_98_r5l28 en

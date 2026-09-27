@@ -1,0 +1,106 @@
+Law nr: BER.01.001.4553
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 94/94
+# High similarity (>=80%): 91
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_42_r3l15 u.
+#facs_117_r3l23 die Herren Amtleute zu Lausanne, Ihnter,
+#facs_117_r3l24 Reulos, denne Zedel an Herrn Broselweibel
+#facs_117_r3l25 Truk Scandaloser Schrifften
+#facs_117_r3l26 Uns ist der Bericht erstadtet worden, daß
+#facs_117_r3l27 zwey Scandalose Schriften in Druk¬
+#facs_117_r3l28 schinnen seyen, die einte ma Conversion
+#facs_157_r4l1 oll.
+#facs_37_r1l1 66
+#facs_117_r5l1 227
+#facs_117_r5l2 die andere le Libertin de Qualité, ou Confi¬
+#facs_117_r5l3 dences d'un Prisonier betitlet in Octavo
+#facs_117_r5l4 mit Figuren. Wir tragen Euch demmenach¬
+#facs_117_r5l5 befelchlich auf, die Buchführer und Buch
+#facs_117_r5l6 truber Eüeres Amts vor Euch zu bescheiden
+#facs_117_r5l7 und ihnen den Truk und Debite dieser
+#facs_117_r5l8 Scandalosen Schriften alles Ernsts bey
+#facs_117_r5l9 Obrigkeitlicher Ungnad /: an Herrn Grob¬
+#facs_117_r5l10 Weibel in allhiesiger Hauptstadt, und
+#facs_117_r5l11 ler darauf gesezten Straff, zu verbietig
+#facs_117_r5l12 Datum den 29. Julius 1784.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_117_r5l14 An alle deutsch und weltsche Herren
+#facs_117_r5l15 Amtleute, 4. Städt, FreyWeibel
+#facs_117_r5l16 und Amann
+#facs_117_r5l17 Region Juch
+#facs_117_r5l18 damit einerseits dem Regiönbuch ein¬
+#facs_117_r5l19 verleibet werden könne, an welchen
+#facs_117_r5l20 Orten Eueres Amtsbezirk die Publicati¬
+#facs_117_r5l21 III der Obrigkeitlichen Verordnungen
+#facs_117_r5l22 und Befehlen vor sich gehen und ange¬
+#facs_117_r5l23 schlagen werden sollen, anderseits aber
+#facs_117_r5l24 damit Wir allezeit Wissen können
+#facs_117_r5l25 ob und was für Umkösten für jede
+#facs_117_r5l26 Publication in Unseren sämtlichen
+#facs_117_r5l27 Landen und in jedem Amt besonders
+#facs_117_r5l28 der Obrigkeit auffallen, so wollt
+#facs_117_r5l29 Wir euch auftragen, einen umständ¬
+#facs_117_r5l30 lichen mit wosespecificierten Bericht
+#facs_117_r5l31 über.
+#facs_118_r1l1 über beygefügte Fragen in Schrift ver¬
+#facs_118_r1l3 fasen zu laßen, und selbige Unsere
+#facs_118_r1l4 fürgeliebten Mitrath dem Herrn
+#facs_118_r1l5 Rathsherrn von Hingins als Præsident
+#facs_118_r1l6 Unserer verordneten Regions Comis¬
+#facs_118_r1l7 sion sobald möglich zu übersenden.
+#facs_118_r1l8 An die Herren Amt Leute allein
+#facs_118_r1l9 Solte sich über diesen Begenstand noch
+#facs_118_r1l10 et was bemerkens würdiges erzeigen, so
+#facs_118_r1l11 nicht in den Fragen enthalten wäre, so
+#facs_118_r1l12 werdet Ihr solches Eüerein amtlichen
+#facs_118_r1l13 Bericht beifügen. Datum den 23.
+#facs_118_r1l14 Augustus 1784.
+#facs_118_r1l15 Tragen
+#facs_118_r1l16 dann Publicationen in einem Amt.
+#facs_68_r4l44 61
+#facs_118_r1l18 An welchen Orten werden die Publicationen
+#facs_118_r1l19 angeschlagen?
+#facs_118_r1l20 2o An welchen Orten werden selbige verlesen
+#facs_118_r1l22 Wann nur geschriebene Befehle zu publicier¬
+#facs_118_r1l23 rim, wie viel doppel Abschriften da
+#facs_118_r1l24 von müßen für das Amt verfertiget
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_118_r1l26 4° Vermuß solche Abschrifften aus ferti¬
+#facs_118_r1l27 gen, und wird allfähliget was da
+#facs_118_r1l28 für bezalt'
+#facs_118_r1l29 5. Wer vertragt die geschriebenen oder
+#facs_118_r1l30 gedrubten Publicationen zum ver
+#facs_118_r1l31 lesen
+#facs_100_r2l1 soll.
+#facs_7_r7l1 9
+#facs_6_region_1627936574015_66l1 6
+#facs_118_r7l1 229
+#facs_118_r7l2 lesen und zum anschlagen, und was wird
+#facs_118_r7l3 allfählig für diese Vertragung von Ob,
+#facs_118_r7l4 rigkeitt wegen bezalt
+#facs_118_r7l5 durch wen werden die Publicationen an¬
+#facs_118_r7l6 geschlagen, und was wird allfählig für
+#facs_118_r7l7 jede Anschlagung von Obrigkeits Wegen
+#facs_118_r7l8 bezalt.
+#facs_118_r7l9 Wann gedrukte Publicationen übersandt
+#facs_118_r7l10 werden, wie viel Exemplar hat der
+#facs_118_r7l11 Gebrauch
+#facs_118_r7l12 Amtsmann als dann zum
+#facs_170_r4l11 löntig
+#facs_118_r7l14 Werden die Obrigkeitliche Befehlen und
+#facs_118_r7l15 Verordnungen nicht auch auf an¬
+#facs_118_r7l16 fern weise, als durch die Verlesung
+#facs_118_r7l17 von Kanzeln publiciert und bekant
+#facs_118_r7l18 gemacht?
+#facs_118_r7l19 Und solchenfals was für Verrichtungen
+#facs_118_r7l20 labey vorfallen, und wird etwas für
+#facs_118_r7l21 selbige bezalt?

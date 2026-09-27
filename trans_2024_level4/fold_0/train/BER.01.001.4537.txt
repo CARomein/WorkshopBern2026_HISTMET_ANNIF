@@ -1,0 +1,203 @@
+Law nr: BER.01.001.4537
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 191/191
+# High similarity (>=80%): 167
+# Low similarity (<80%): 24
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_37_r2l2 alle T. und W. Herren Amtleut, Vier
+#facs_33_r5l4 so Obrigkeitl. Getreid ligt.
+#facs_33_r5l5 Betreu zu verkauffen.
+#facs_126_r5l16 Schultheiß Räth und Burger 5 da
+#facs_33_r5l7 ist von Unseren fürgeliebten Miträthy
+#facs_33_r5l8 denen Herren Deutsch Debelmeister und
+#facs_33_r5l9 kenneren, und Ansterer verordneten Korn¬
+#facs_33_r5l10 sammer der Vortrag gemacht worden,
+#facs_33_r5l11 über das auf Martini 1782. eingegangene
+#facs_33_r5l12 Obrigkeitl. Getrei darüber Wir noch
+#facs_33_r5l13 nicht bereits durch Unser Befehl Schreiben
+#facs_33_r5l14 vom 19. Marty dieß Jahre disponiert
+#facs_33_r5l15 haben; woraufhin Wir erbent: Es solle,
+#facs_33_r5l16 nach Abzug der Ordinari und quasi Ordinar
+#facs_33_r5l17 Ausgaben alles, äußert dem hoch Obrig¬
+#facs_33_r5l18 keitlich besinnten Vorrath, jeden Ort
+#facs_33_r5l19 vorschießende Obrigkeiten Getrein, unter
+#facs_33_r5l20 den gewöhnlichen vorsorglichen Gedingen, nach
+#facs_33_r5l21 und nach zu kleinen Kaufen in dem lauffen¬
+#facs_33_r5l22 Preis verbucht, und dabey der Verkauf
+#facs_33_r5l23 dieses Getreids so eingerichtet werde,
+#facs_33_r5l24 daß das lezte davon erst zu Ende
+#facs_33_r5l25 Hermanats völlig abgestoßen werde.
+#facs_7_r2l12 18
+#facs_4_r3l1 62
+#facs_35_r3l1 Welchenmach Ihr Euch zu verhalten wißen¬
+#facs_28_r3l1 und über das erlösende uns gebührende
+#facs_34_r3l3 Rechnung tragen - übrigens dann wegen den
+#facs_34_r3l4 bey diesem Verkauf abzustoßenden Getri¬
+#facs_34_r3l5 Schädtenen die bereits von Unseren für
+#facs_22_region_1633454541156_2886l1 Au
+#facs_35_r3l7 Miträthen den Herren Welz) Sekelmeister
+#facs_34_r3l8 und wenneren, bey dem ersteren Verkauf
+#facs_34_r3l9 erhaltene Anweisung befolgen werdet.
+#facs_34_r3l10 Datl den 21 May 1783
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_34_r3l12 die Herren Geistlichen, so für die Pfarr Stelle
+#facs_34_r3l13 zum heil. Geist Probpredigten halten wollen.
+#facs_34_r3l14 von Mässl. E.E. Kirchen Conkents ist Müh¬
+#facs_34_r3l15 wegen Ablag der Probpredigten, für die in
+#facs_34_r3l16 hiesiger Kirch zum heil Geist verledigten
+#facs_34_r3l17 Pfarr Stelle, der Vortrag geschehen; da
+#facs_34_r3l18 zum Kfolg Eüerer M. L. Befl. gethanen Er
+#facs_34_r3l19 klärung, zu Haltung derselben Euch Tag
+#facs_34_r3l20 bestimt worden, auf:
+#facs_35_r3l21 nächstläufig
+#facs_262_r2l6 jeder Gesell auf den anderen achten,
+#facs_34_r3l23 mit dem Ansimmen, euch etwelche Tage
+#facs_35_r3l24 orhero bey Mess. Decan Wysenbach
+#facs_34_r3l25 anzumelden, damit von Wohldemselben Euch
+#facs_56_r2l1 Colle
+#facs_34_r4l4 Vormit
+#facs_109_r6l30 nach¬
+#facs_34_r4l4 Vormit
+#facs_34_r4l5 Nachmit
+#facs_34_r4l4 Vormit
+#facs_109_r6l30 nach¬
+#facs_34_r4l4 Vormit
+#facs_34_r5l1 63
+#facs_34_r5l2 der Text zu Eüerer auf obbestunten
+#facs_34_r5l3 Tag abzuhaltenden Probpendigt durch das
+#facs_35_r5l4 Loos aufgegeben werden könne. Dat.
+#facs_34_r5l5 d 26 May 1783
+#facs_65_r3l5 Canzley Bern.
+#facs_34_r5l7 Verzeichni
+#facs_34_r5l8 der Tagen, so die Probpredigten geholten
+#facs_34_r5l9 werden sollen.
+#facs_34_r5l10 den 29. Juny.
+#facs_35_r5l11 Jacob Stapfer, Provisor, der lateinischenkhal¬
+#facs_35_r5l12 H. Fr. Ludw: Stephani, Pfarrer zu Biel
+#facs_34_r5l13 Den 6' July
+#facs_35_r5l14 dh. Em: Walthard Provisor der lateinischen Schul¬
+#facs_34_r5l15 Kl. Sam: Wyttenbach, Helfer zum heil. Geist.
+#facs_34_r5l16 Den 13. July
+#facs_34_r5l17 H. Sam. Lauterburg, Pfarrer in der Lengg
+#facs_34_r5l18 H. Abrah. Rufenacht, Pfarrer zu Liechtensteig
+#facs_34_r5l19 im Toggenburg.
+#facs_34_r5l20 Den 20. July.
+#facs_360_r2l9 4° Denen Pfarrherren
+#facs_7_r2l12 18
+#facs_36_r2l1 64
+#facs_35_r3l1 Welchenmach Ihr Euch zu verhalten wißen¬
+#facs_28_r3l1 und über das erlösende uns gebührende
+#facs_35_r3l3 Rechnung tragen- übrigens den wegen dem
+#facs_34_r3l4 bey diesem Verkauf abzustoßenden Getri¬
+#facs_35_r3l5 Schädtenen die bereits von Unseren fürgeliebten
+#facs_54_r5l27 Tau Amt
+#facs_34_r3l7 Miträthen den Herren welsch) Sebelmeister
+#facs_34_r3l8 und wenneren, bey dem ersteren Verkauf
+#facs_34_r3l9 erhaltene Anweisung befolgen werdet.
+#facs_34_r3l10 Datl den 21 May 1783
+#facs_23_region_1633454616028_2913l1 An
+#facs_34_r3l12 die Herren Geistlichen, so für die Pfarr Stelle
+#facs_34_r3l13 zum heil. Geist Probpredigten halten wollen.
+#facs_34_r3l14 von Mässl. E.E. Kirchen Conkents ist Müh¬
+#facs_34_r3l15 wegen Ablag der Probpredigten, für die in
+#facs_34_r3l16 hiesiger Kirch zum heil Geist verledigten
+#facs_34_r3l17 Pfarr Stelle, der Vortrag geschehen; da
+#facs_35_r3l18 um zufolg Euerer Ms. Befehl. gethanen Er¬
+#facs_216_r3l5 tenden sollen, damit dieselben das quan¬
+#facs_34_r3l20 bestimt worden, auf:
+#facs_34_r3l21 nächstläuftig
+#facs_252_r3l10 Anctleüten oder den Gemeinden be¬
+#facs_34_r3l23 mit dem Ansimmen, euch etwelche Tage
+#facs_35_r3l24 orhero bey Mess. Decan Wysenbach
+#facs_295_r4l14 halten, damit derselben gestand
+#facs_56_r2l1 Colle
+#facs_34_r4l2 Vormittag
+#facs_34_r4l5 Nachmit
+#facs_34_r4l4 Vormit
+#facs_34_r4l5 Nachmit
+#facs_34_r4l4 Vormit
+#facs_109_r6l30 nach¬
+#facs_34_r4l4 Vormit
+#facs_34_r5l1 63
+#facs_34_r5l2 der Text zu Eüerer auf obbestunten
+#facs_34_r5l3 Tag abzuhaltenden Probpendigt durch das
+#facs_35_r5l4 Loos aufgegeben werden könne. Dat.
+#facs_34_r5l5 d 26 May 1783
+#facs_65_r3l5 Canzley Bern.
+#facs_34_r5l7 Verzeichni
+#facs_34_r5l8 der Tagen, so die Probpredigten geholten
+#facs_34_r5l9 werden sollen.
+#facs_34_r5l10 den 29. Juny.
+#facs_35_r5l11 Jacob Stapfer, Provisor, der lateinischenkhal¬
+#facs_35_r5l12 H. Fr. Ludw: Stephani, Pfarrer zu Biel
+#facs_34_r5l13 Den 6' July
+#facs_35_r5l14 dh. Em: Walthard Provisor der lateinischen Schul¬
+#facs_34_r5l15 Kl. Sam: Wyttenbach, Helfer zum heil. Geist.
+#facs_34_r5l16 Den 13. July
+#facs_34_r5l17 H. Sam. Lauterburg, Pfarrer in der Lengg
+#facs_34_r5l18 H. Abrah. Rufenacht, Pfarrer zu Liechtensteig
+#facs_34_r5l19 im Toggenburg.
+#facs_34_r5l20 Den 20. July.
+#facs_34_r5l21 H. Dangel Die Pfarrer zu Erlich.
+#facs_3_region_1627936339514_16l1 1
+#facs_36_r2l1 64
+#facs_56_r2l1 Colle
+#facs_21_region_1633454506260_2871l1 Un
+#facs_36_r3l2 nachvermelte Herren Amtleut und Freybeibel,
+#facs_36_r3l3 als Nydau, Aarberg, Friensteng, durch be¬
+#facs_36_r3l4 In anbrünen, Landt sub, Heidelbank und Deedorf.
+#facs_36_r3l5 zu Lengnau wird für eingelegt, und auf
+#facs_36_r3l6 die Entdekung 100. Thlr gebotten
+#facs_173_r3l13 Schultheiß und Rath P.S.
+#facs_36_r3l9 Da uns der
+#facs_36_r3l10 amtliche Bericht eingeloffen, daß die
+#facs_36_r3l11 zu Lengnau, in Unserem Amt Büren
+#facs_36_r3l12 den 17ten dieß, sich erfügnete Brunst, durch
+#facs_36_r3l13 wiederholtes feur einlegen bewunkt worden,
+#facs_36_r3l14 ohne daß bis hiehin der oder die ge¬
+#facs_36_r3l15 Thätere davon haben entdekt werden.
+#facs_36_r3l16 können; so haben Wir gut gefunden,
+#facs_36_r3l17 mitbommende Publikation zum Druk be¬
+#facs_36_r3l18 förderen zu laßen; und befehlen
+#facs_36_r3l19 demnach Euch, mit Zusendung hinlänglicher
+#facs_36_r3l20 Exemplarien, solche in Eüerem Amtsbesiebs
+#facs_36_r3l21 gegen das Amtbüren, öfentlich verlesen
+#facs_69_r7l7 at
+#facs_4_r1l1 2
+#facs_34_r5l5 d 26 May 1783
+#facs_56_r2l1 Colle
+#facs_36_r5l1 65
+#facs_31_r5l15 Publication
+#facs_36_r5l3 Unterm 17. dieß, sind zu Lengnau
+#facs_36_r5l4 in dem Amt Büren, durch wiederholter
+#facs_36_r5l5 feueremlegen, zbey große Baurenhäuser
+#facs_36_r5l6 in Braud gesezt, mit beynahe allen
+#facs_36_r5l7 darin gewesenen Etekten, Hausrath,
+#facs_36_r5l8 Schif und Geschirr eingeäscheret, und
+#facs_36_r5l9 die Bewohner dieser beiden Häusern in
+#facs_36_r5l10 einen Verlust versezt worden, den sich
+#facs_36_r5l11 über die 7000. Pfund ansteigt. Damit
+#facs_36_r5l12 um der Urheber oder die Urhebere
+#facs_36_r5l13 einer solch ruchlosen That entdekt- In¬
+#facs_36_r5l14 gebührender Straf gezogen, und mithin
+#facs_36_r5l15 dem Land und einem jeden für das Seinige
+#facs_36_r5l16 die nöthige Sicherheit verschafft werde;
+#facs_36_r5l17 Haben Meghhl. die Räth eine Recompens
+#facs_36_r5l18 von ein hundert Thaler darauf zu sezen.
+#facs_36_r5l19 gut befunden, welche dem oder denjenigen
+#facs_36_r5l20 mit Geheimhaltung ihres Namens, von
+#facs_36_r5l21 Obrigkeits wegen wird ausgerichtet werden
+#facs_36_r5l22 die entleders den oder die gethätere
+#facs_36_r5l23 dieses verursachten Beands werden nahmhafft
+#facs_36_r5l24 machen, oder zu deren Entderung genugsame glaubbürdige
+#facs_36_r5l25 Anzeige geben könen. Welches hiemit öfentlich bekant
+#facs_36_r5l26 gemacht wird. Actum d. 26. May 1783
+#facs_21_region_1633454498812_2865l23 Canzleyvern.

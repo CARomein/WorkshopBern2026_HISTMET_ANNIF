@@ -1,0 +1,901 @@
+Law ID: BER.01.001.1660
+Name: Der Wirts- und Weinhüseren uffem Landt, Anno 1628 angesechne, aussgeschribne undt besshar observierte undt manutenierte Inzilung unndt Mässigung. Alhie, uss einem Cahier, eingeschriben, weilen sie an ihrem gehörigen Ort eingeschriben nit zefinden.
+
+#facs_367_r1l2 De Wirts und Beinhuseren uffem
+#facs_367_r1l3 Landt, Ao 1628. angesechne, außgeschribne Vndt
+#facs_367_r1l4 bißhar obrorvierte vndt manutinierte Inzilung
+#facs_367_r1l5 vnndt maßigung.
+#facs_367_r1l6 Alhie, vß einem Catzier, eingeschriben, weiln sie an
+#facs_367_r1l7 ihrem gehörigen Ort ei geschriben nit zefinden
+#facs_367_r1l8 dn irtschafften Im Eentschland
+#facs_367_r1l9 Sigs Räht vndt Burger
+#facs_367_r1l10 
+#facs_367_r1l11 Vndt damit den Leuten zu vberflußigem eßen¬
+#facs_367_r1l12 und trinken, teglichen pußen und praßen, wie auch daraus
+#facs_367_r1l13 volgenden lostenhafftem vypigem wesen und allerhand
+#facs_367_r1l14 leichtfertigkeiten desto minder anlas vnd anreinung
+#facs_367_r1l15 geben werde, Habend wir die weinschenken unnd
+#facs_367_r1l16 Wihrtshüser in unserem teütschen land volgender gstalt
+#facs_367_r1l17 geregulirt, gemesiget, einzihlet oder abgestelt.
+#facs_367_r1l18 Und nachdem wir erstlich betrachtet, daß ein zeit daher
+#facs_367_r1l19 sich menigklich deß weinschenckens, nit allein an orten der
+#facs_367_r1l20 feßen und haubtflecken der kilchspölen, sonders gar noch
+#facs_367_r1l21 In jedem dorff und winkel anmaßgen wollen, welches
+#facs_367_r1l22 die fürnemste Vrsach der Vnseren vorderbens vnnd
+#facs_367_r1l23 earnung, So söllend in gemein hinfür alle wein unnd
+#facs_367_r1l24 Pintenschenck zn allen dorfferen und vffem Land¬
+#facs_368_r2l1 allerdings abgestelt und das wyn ußschencken ußent den
+#facs_368_r2l2 Stetten, menigklichem, eß seyen Ober oder Vnden Ambtlich¬
+#facs_368_r2l3 Predikanten, burger diser Statt, oder gemeine Vnderthanen
+#facs_368_r2l4 verpollen.
+#facs_368_r2l5 deßglachen die neuwen, ohne Vnsere bewilligung vnd
+#facs_368_r2l6 vnderbare erhönschende nothurfft, auffgerichten vnnd
+#facs_368_r2l7 entstandenen wirthschafften eingestelt und abgeschaffet
+#facs_368_r2l8 vnnd allein den ordenlichen Tavernen, das wiethen vnnd
+#facs_368_r2l9 weinschencken zugelaßen sein: Außgenommen die
+#facs_368_r2l10 jenigen ambtlict Predikonten und andere so eigen
+#facs_368_r2l11 Otein gewechs oder etwas wyns, so ihnen den Predikenten
+#facs_368_r2l12 von irer pfründen einkommen eingaht an zinß oder
+#facs_368_r2l13 Zchnden zeuerkouffen habend; Wellichen söllichen wein
+#facs_368_r2l14 einfaltig außzeschencken nit verspert sein soll, so fehr
+#facs_368_r2l15 daß weder die Ambtlük, Predikanten, noch anderen
+#facs_368_r2l16 in iren ambtspfrund- und anderen huseren einiche
+#facs_368_r2l17 junng haltind oder gestattind und zum zächer keinen
+#facs_368_r2l18 keinen platz gebind, Speiß noch tranck aufftragind
+#facs_368_r2l19 Item an ordenlichen gesetzten Meriten an wellichen man,
+#facs_368_r2l20 solang dieselben wehrend, auch ein Tag vor vnd nach¬
+#facs_368_r2l21 aben nit weiters wohl wein außschencken mog. Alles
+#facs_368_r2l22 by hieuor auffgesitzten buß der 8. lb. von den
+#facs_368_r2l23 übertretteren diß verpotts, so offt eß geschicht unnachleßig
+#facs_368_r2l24 zebereüchen.
+#facs_368_r2l25 Ers söllend aber nun auch die rechten tavernon wirth,
+#facs_368_r2l26 Johernach bestetiget sind, ernstlich vermahnt sein, sich
+#facs_368_r3l1 N5
+#facs_368_r3l2 In forderung und auffnam der Vetinen und zehrung, auch
+#facs_368_r3l3 eonst mit außgab deßweins dermaßen bescheidenlich gegen
+#facs_368_r3l4 heimschen und fräürden ze halten, daß wir nit verursachet
+#facs_368_r3l5 erdint, sie irem verdienen nach mit verpietung den stirthschafft
+#facs_368_r3l6 oder anderer gstalt ze straffen.
+#facs_368_r3l7 Sonderbare beschreibung
+#facs_368_r3l8 Wo und welliche lauernen verbleiben
+#facs_368_r3l9 oder abgestelt und entsezt sein söllind.
+#facs_368_r3l10 Allingen.
+#facs_368_r3l11 Dim neüwenhus hat eß ein wirthschafft, die ist für ein
+#facs_368_r3l12 offne Tauernen gutgeheißen
+#facs_368_r3l13 Babhuß. Der wirth alda soll zwar verbleiben, aber nit
+#facs_368_r3l14 durch das gantze jahr, sondern allein sommerszeit namlich
+#facs_368_r3l15 von dem ersten tag meyens biß uef den ersten winten-
+#facs_368_r3l16 monat, alleweil eheliche leüth daselbst baden wirthen
+#facs_368_r3l17 auch sonst niemandts alß der badluten wein außgeben.
+#facs_368_r3l18 vorlouffen. Da soll die winthschafft alß uberflüßig
+#facs_368_r3l19 abgeschaffet werden.
+#facs_368_r3l20 Bechingen
+#facs_368_r3l21 Im Boll ist ein offentliche tavernen gutgeheißen, manglet
+#facs_368_r3l22 
+#facs_368_r3l23 aber wohl reformierens.
+#facs_369_r1l1 Vnn Neuwen Bad, oden Hochen Rah¬
+#facs_369_r1l2 Zu Sinngringen, In deß Bleickens huß
+#facs_369_r1l3 
+#facs_369_r1l4 An disen beiden Goten ist das wirthen vnnd
+#facs_369_r1l5 weinschencken abgestelt.
+#facs_369_r1l6 L. Kone ingen Gertheil.
+#facs_369_r1l7 Dipter Dem Doref Biglen, vnd Im dorff Wolkeingen
+#facs_369_r1l8 Walckuingen, hab eß an getwederem ort ein wirthschafft, die
+#facs_369_r1l9 sind gutgeheißen.
+#facs_369_r1l10 Wyl
+#facs_369_r1l11 Im schwengelweg, ist ein Ladwirth, der soll
+#facs_369_r1l12 und mag allein den Badlüten von 1 maii biß
+#facs_369_r1l13 vff den 1. Nov. wein außgeben
+#facs_369_r1l14 horbstetten
+#facs_369_r1l15 zu Höchstelten Im dorff ist das wihrtshuß under
+#facs_369_r1l16 gebürender einzihlung, wegen zwiffacher Landtstraß
+#facs_369_r1l17 für nothwendig erkent.
+#facs_369_r1l18 Am furt by Zegenweil, ist das weinschencken oder
+#facs_369_r1l19 wehrtshuß alß uberflüßig und verderblich abgestelt.
+#facs_369_r1l20 Nor6.
+#facs_369_r1l21 Zu Werb im dorff ist die wihntschafft gutgeheißen.
+#facs_369_r1l22 zu Enggistein, soll der wirth sommer und winterszeit
+#facs_369_r1l23 verbleiben, aber allein den badlüten wyn geben. Ino ist
+#facs_369_r1l24 imme hernach vollkommen bewilliget worden.
+#facs_369_r2l1 120
+#facs_369_r2l2 Rüffenacht. alda soll zu zechendens lechen und zußlüten
+#facs_369_r2l3 dswein außgeben alß ein gantz unnothwendig und schedlich ding
+#facs_369_r2l4 allenklich verbotten sein.
+#facs_369_r2l5 udertzeil
+#facs_369_r2l6 zu Rubigen. ist die offne lauernen, sonderlich wegen der
+#facs_369_r2l7 aberlenderen, gutgeheißen.
+#facs_369_r2l8 Münsingen
+#facs_369_r2l9 zu Münhingen Im dorff sind zwey wirthshüser, namlich
+#facs_369_r2l10 das zum loüwen und ochsen gutgeheißen und das zum Bören
+#facs_369_r2l11 abgestelt.
+#facs_369_r2l12 Ronessingen. Alda hat eß ein wihrtshuß an der straß
+#facs_369_r2l13 so man von Burgdorff vff Thur reichet, welliches man
+#facs_369_r2l14 gleichwol Vnnothwendig befindt, Jedoch aber wyl eß ein Grichts¬
+#facs_369_r2l15 statt verbleiben laßt.
+#facs_369_r2l16 Wichtorff
+#facs_369_r2l17 Au Wichdorff im dorff were gleicher gstalt die wirthschafft
+#facs_369_r2l18 abzustellen, wie Sy dan auch Vnder zrr Nennen Vor¬
+#facs_369_r2l19 Römerstal abgestelt gewesen, mag aber von obbegührter
+#facs_369_r2l20 ursach wegen, das eß auch ein grichtsstatt ist verbleiben.
+#facs_369_r2l21 Rison. Da soll die alte lauernen und feyheit verbleiben
+#facs_369_r2l22 Gießbach
+#facs_369_r2l23 Im dorff Dießbach ist die alte tavernen und fryheit auch
+#facs_369_r2l24 für gut erkent.
+#facs_369_r2l25 Im schlegweg, soll das wynschenken hus abgethan werden.
+#facs_370_r1l1 121.
+#facs_370_r1l2 . Gollichoffen
+#facs_370_r1l3 Frausihal. Im dortf ist die ordenliche alle Cainane
+#facs_370_r1l4 gutgeheißen
+#facs_370_r1l5 Eediwil, hat ein Wihrtshuß, welches ob eß gleichwolen
+#facs_370_r1l6 Grichtstatt alda hat, nit nothwendig, und deßwegen abzestellen
+#facs_370_r1l7 Coppingen.
+#facs_370_r1l8 zu S. Riclaus ist die Lauernen für gut erkent
+#facs_370_r1l9 Irgenstorff
+#facs_370_r1l10 Im dortf daselbst ist eß mit dem Wirth zum Beren
+#facs_370_r1l11 gnugsam, vnd der ander Namlich Hans Lantz, so
+#facs_370_r1l12 ohne schëlt gewihrtet abgestelt
+#facs_370_r1l13 zu Urtenen ist die wichtschafft, so amman Rüffer
+#facs_370_r1l14 besitzt, gutgeheißen.
+#facs_370_r1l15 Hindelwanck
+#facs_370_r1l16 am dorff daselbst wirt die von alter her gebrauchte
+#facs_370_r1l17 wihrtschafft gutgeheißen.
+#facs_370_r1l18 Weng
+#facs_370_r1l19 In disem Kilchspal hat eß kein anderen wirth, dan
+#facs_370_r1l20 den Meyer Niclaus Rudi im dorff, der soll bleiben
+#facs_370_r1l21 Meßen
+#facs_370_r1l22 In der Kilchöri hat eß auch keine wichrtshüsen.
+#facs_370_r1l23 zn Mulheim soll dem Gerber das Pintenschencken
+#facs_370_r1l24 bgestrickt sein. Imo den 8. octobr 1634 gutgeheißen.
+#facs_370_r1l25 Limrach
+#facs_370_r1l26 Alda wirt dißmals weder gewihrtet noch wyn außgeben.
+#facs_370_r1l27 Graffen ha auch kein wihrtschafft
+#facs_370_r1l28 der deinschenck soll nit gestattet werden.
+#facs_370_r2l1 Franwbrunnen.
+#facs_370_r2l2 Alda ist eines guten wihrts mangelbar.
+#facs_370_r2l3 Munchenbursse
+#facs_370_r2l4 Die eintzige wihrtschafft, so durch den weibel Kröüchin
+#facs_370_r2l5 versechen wirt, laßt man verbleiben.
+#facs_370_r2l6 Georff
+#facs_370_r2l7 Der Wihrt zu Seedorff ist bestetiget.
+#facs_370_r2l8 der zu Jaggwyl soll still gestelt werden.
+#facs_370_r2l9 Molteren.
+#facs_370_r2l10 zu Ried, by Ziegeleied deßgleichen.
+#facs_370_r2l11 Mekilchen
+#facs_370_r2l12 n Diser kilchöri ist eß mit einem wihrt zu Ortschwaber
+#facs_370_r2l13 gung
+#facs_370_r2l14 zu Merkilchen gehört abzeschaffen.
+#facs_370_r2l15 Ghupffen.
+#facs_370_r2l16 zu Schupffen Im Gortt ist eß mit einem Wihrt
+#facs_370_r2l17 gung, der ander uberflüßig
+#facs_370_r2l18 Vffam Schäppberg soll das Wirthen vnd wyn außgeben
+#facs_370_r2l19 abgestelt werden.
+#facs_370_r2l20 Satpersey
+#facs_370_r2l21 In diser kilchöri mag ein wirth zugelaßen werden.
+#facs_370_r2l22 Frauswil
+#facs_370_r2l23 Erweilen daselbst Jehrlich vff Pfingsten vil Vnfugs
+#facs_370_r2l24 und uppigkeit begangen wirt, soll sölliches durch den hrren
+#facs_370_r2l25 
+#facs_370_r2l26 stifftschaffner, mit allem ernst abgeschaffet werden.
+#facs_370_r2l27 Ierenbalm
+#facs_370_r2l28 u Biberen ist man ein lauernen bedürfftig und hiemit
+#facs_370_r2l29 Zut geheißen.
+#facs_371_r1l1 223
+#facs_371_r1l2 zu Wyler bltigen soll vnnd mag ein Wihrt gestattet
+#facs_371_r1l3 werden.
+#facs_371_r1l4 Murten
+#facs_371_r1l5 zu Gampenach achtend die von Muetten tein Vberfiß
+#facs_371_r1l6 ein Weinschenck zehaben, weilen Sie das vmbgelt bezeüchend
+#facs_371_r1l7 der soll vnd mag aber von leichtfertigen wesens wegen
+#facs_371_r1l8 Vnd weilen diser Zeit Zug vnd Raht alhar gehört
+#facs_371_r1l9 abgeschaffet werden.
+#facs_371_r1l10 Louppon.
+#facs_371_r1l11 Alda soll mehr nit zugelaßen sein, dan ein deint
+#facs_371_r1l12 die Vbrigen abgeschaffet werden
+#facs_371_r1l13 Kilcbri wolen.
+#facs_371_r1l14 hab laut deß Ambtsmans zu Tauppen bericht, Zoes
+#facs_371_r1l15 Wihrtshüser, das ein
+#facs_371_r1l16 J Mantzolen In Nnlaus Tschannen (deß Meyers Huß¬
+#facs_371_r1l17 alda wit Gricht vnd Recht gehalten, Vnd ist deßwegen
+#facs_371_r1l18 gutgeheißen
+#facs_371_r1l19 Bander
+#facs_371_r1l20 Zusttingen In Christen Eynenwechters deß Weibels
+#facs_371_r1l21 Huß, welches obwolen alda by vilen Jahren gewihrtet
+#facs_371_r1l22 worden sein sölle, ist eß doch alß unnothwendig, abgestelt
+#facs_371_r1l23 worden.
+#facs_371_r1l24 L. Stantarg
+#facs_371_r1l25 Junitz
+#facs_371_r1l26 Au Niderwangen sollnit mehr alß ein wihrtshus sein.
+#facs_371_r1l27 zu Niderscherli unnd sollen die otihrt nit gestottet werden.
+#facs_371_r1l28 In der gasheit
+#facs_371_r1l29 Oberbalm
+#facs_371_r1l30 Hat sein Vnnötiges Wihrtshus.
+#facs_371_r2l1 722
+#facs_371_r2l2 Beuweneck
+#facs_371_r2l3 hat ein Wihrt, wellicher wegen Jaßes vnnd Geichts auff
+#facs_371_r2l4 gebürende einzihlung admittirt.
+#facs_371_r2l5 Wyder.
+#facs_371_r2l6 So alda neüwlich ein wihrt entstanden, were soll er gengzlich
+#facs_371_r2l7 abgeschaffet werden.
+#facs_371_r2l8 Pumplis
+#facs_371_r2l9 Alda im dorff soll ein wihrtshus verbleiben.
+#facs_371_r2l10 franweri
+#facs_371_r2l11 Cappelen.
+#facs_371_r2l12 Daselbst Im dorff ist ein wihrt gutgeheißen, soll aber durch
+#facs_371_r2l13 den stifftschaffner zu beßerem wesen und ehrbarkeit
+#facs_371_r2l14 gehalten werden, by pen der gentzlichen abstellung.
+#facs_371_r2l15 Mullenberg.
+#facs_371_r2l16 zu Gummenen soll nit mehr alß ein wihrt, namlich der
+#facs_371_r2l17 zum Wyßenseurz gestattet und das wihrtshus zum Bären
+#facs_371_r2l18 abgestelt worden.
+#facs_371_r2l19 Ist von raht widrum zugelaßen
+#facs_371_r2l20 worden.
+#facs_371_r2l21 zu Moaß ist der fintenschenck abzeschaffen.
+#facs_371_r2l22 
+#facs_371_r2l23 Landtgricht Seffingen.
+#facs_371_r2l24 Thumen
+#facs_371_r2l25 In disem gricht soll man nit mehr alß ein wihrtshus
+#facs_371_r2l26 die von altem harkomen haben.
+#facs_371_r2l27 Wartmagl. Alda ist auch mehr nit alß ein Lauernen
+#facs_371_r2l28 nothwendig.
+#facs_372_r1l1 325
+#facs_372_r1l2 An der heiteren.
+#facs_372_r1l3 Hertzensee
+#facs_372_r1l4 Jurgistemn
+#facs_372_r1l5 fumligen.
+#facs_372_r1l6 die Wihrten Vnd wÿn hencken alda
+#facs_372_r1l7 Ettigen
+#facs_372_r1l8 söllend abgeschaffet werden.
+#facs_372_r1l9 Vgentorff
+#facs_372_r1l10 zum gutenbrunnen
+#facs_372_r1l11 Uefem Lengenbros.
+#facs_372_r1l12 Ragisporg hat mit einer wihrtschafft gnug und soll
+#facs_372_r1l13 deewegen die Jungere abgestelt werden
+#facs_372_r1l14 Tuggistarg
+#facs_372_r1l15 Im dorff hat eß ein Lauernen, die ist gut
+#facs_372_r1l16 geheißen.
+#facs_372_r1l17 Detpr
+#facs_372_r1l18 chilchdorff
+#facs_372_r1l19 zu
+#facs_372_r1l20 Dierachern.
+#facs_372_r1l21 
+#facs_372_r1l22 Ist an jedem disen orten ein
+#facs_372_r1l23 Blumenstein by dem bad
+#facs_372_r1l24 Wihrts hus zugelaßen, aber nit mehr
+#facs_372_r1l25 Ansolldingen.
+#facs_372_r1l26 choffen.
+#facs_372_r1l27 u
+#facs_372_r1l28 Bintelen hat eßlaut Freyweibel Springen uberschribnen
+#facs_372_r1l29 berichts kein wihrtshus noch Wynschenk soll auch keines
+#facs_372_r1l30 gestaltet werden.
+#facs_372_r1l31 cun.
+#facs_372_r1l32 Die statt thun soll vermahnt werden ire alte bruch
+#facs_372_r1l33 unnd ordnung widrum für die hand zenemen und
+#facs_372_r1l34 ußert den lauernen wihrten, denen der ryffnyn
+#facs_372_r1l35 wegen irer gestan zugelaßen) niemandem zugestatten,
+#facs_372_r1l36 Ryff und anderen frömbden wein by der pinten zeuerscheinten
+#facs_372_r1l37 biß der thunen wyn verbrucht und vertriben ist.
+#facs_372_r3l1 Die alten wihrtschafften
+#facs_372_r3l2 Steüisfung
+#facs_372_r3l3 Sigrisweil
+#facs_372_r3l4 Merhingen
+#facs_372_r3l5 
+#facs_372_r3l6 Sind Ihnen zuglaßen.
+#facs_372_r3l7 Ansoltingen
+#facs_372_r3l8 An der Glützich
+#facs_372_r3l9 Bilterfingen,
+#facs_372_r3l10 Die wihrtschafft im Gadt, ist alß unnothwendig unnd
+#facs_372_r3l11 uberflüßig abgestelt
+#facs_372_r3l12 Ist von Raht wideum
+#facs_372_r3l13 zugelaßen, 1634.
+#facs_372_r3l14 
+#facs_372_r3l15 Deßgleichen die im flösch ist midrum zugelaßen
+#facs_372_r3l16 Den 8. octobr 1634.
+#facs_372_r3l17 Budeswaer
+#facs_372_r3l18 zu Underseiden soll weiters nit dan in wihrt
+#facs_372_r3l19 im rahthuß zugelaßen sein.
+#facs_372_r3l20 In der Herrschafft Vrspunnen ist der Wihrt
+#facs_372_r3l21 achgelaßen.
+#facs_372_r3l22 Wangen
+#facs_372_r3l23 Alda sind gub geheißen
+#facs_372_r3l24 zu Wangen an jedem ortzwen wihrten.
+#facs_372_r3l25 Hertzogenbuchter
+#facs_373_r2l1 129.
+#facs_373_r2l2 zu
+#facs_373_r3l1 Brenbars
+#facs_373_r3l2 2
+#facs_373_r3l3 Ronbach an jedem ort i wihrt.
+#facs_373_r3l4 Bolendingen
+#facs_373_r3l5 zu Langenthal 1 Wilrtshüser, Namlich zum
+#facs_373_r3l6 Landen vnd zum Weißen stutz, was darüber
+#facs_373_r3l7 ist soll abgestelt sein.
+#facs_373_r3l8 
+#facs_373_r3l9 Anwangen
+#facs_373_r3l10 Sie sollend allein zugelaßen sein.
+#facs_373_r3l11 Roggwyl
+#facs_373_r3l12 Murgenthal
+#facs_373_r3l13 Arwangen
+#facs_373_r3l14 Bützberg
+#facs_373_r3l15 an jedem ort nit
+#facs_373_r3l16 Gleichenbach
+#facs_373_r3l17 mehr alß ein Wihrt
+#facs_373_r3l18 Bendißweil
+#facs_373_r3l19 Melchnauw Im dorff
+#facs_373_r3l20 Mans weil
+#facs_373_r3l21 Vnnd sind abgestelt
+#facs_373_r3l22 Der wihrt zu Wynauw
+#facs_373_r3l23 den Wihrt zu Chumstelhen
+#facs_373_r3l24 der wihrt zu Wyßstegen.
+#facs_373_r3l25 de
+#facs_373_r3l26 Alda sind für nothwendig und gut erkent
+#facs_373_r3l27 zu Obarbipp im rahthuß an jedem ort
+#facs_373_r3l28 zu Altißweil
+#facs_373_r3l29 d allein i dihrt.
+#facs_373_r4l1 Wietlischas
+#facs_373_r4l2 
+#facs_373_r4l3 Viterbipp
+#facs_373_r4l4 an jedem ort zuen Wihrten.
+#facs_373_r4l5 unns söllend abgestelt sein.
+#facs_373_r4l6 Semmsperg, vnd andere opffen wihrten.
+#facs_373_r4l7 andtshutt
+#facs_373_r4l8 zu Wgistorff soll ein wihrt abgeschaffet, der zu
+#facs_373_r4l9 Petterkinden aber mag behalten werden.
+#facs_373_r4l10 Arburg
+#facs_373_r4l11 In disem ambt soll nit mehr verbleiben, dan
+#facs_373_r4l12 zu Arburg, die drey Wihrtschaffen vnd kein Weinschenck
+#facs_373_r4l13 zugelaßen.
+#facs_373_r4l14 zu Offtringen 9. Wihrt
+#facs_373_r4l15 zu Brittnauw alch ein wihrt
+#facs_373_r4l16 Was darüber ist soll abgeschaffet sein.
+#facs_373_r4l17 Interlacken
+#facs_373_r4l18 Im gasthus by dem Closter d wihnt
+#facs_373_r4l19 Im Gricht Ringgenberg vnd K. Goltswyl  Wihrt
+#facs_373_r4l20 sind für
+#facs_373_r4l21 In der Kilchöri und gricht Brienz in wihrt
+#facs_373_r4l22 nhuend
+#facs_373_r4l23 1. Wihrt
+#facs_373_r4l24 zu Wyler am Grünig
+#facs_373_r4l25 gechetend
+#facs_373_r4l26 In der Kilchorn Lnsingen
+#facs_373_r4l27 wihrt
+#facs_373_r4l28 geheißen.
+#facs_373_r4l29 Im Pal Grindelwald
+#facs_373_r4l30 wihrt
+#facs_373_r4l31 Im Thal Luterbrinnen
+#facs_373_r4l32 1 wihrt
+#facs_374_r1l1 Haste im Weyßland.
+#facs_374_r1l2 Meyringen
+#facs_374_r1l3 In dem Haubtdorff Meyringen söllen fürohin
+#facs_374_r1l4 nit mehr sein dan zwen Wihrt
+#facs_374_r1l5 Im Thal Badmen
+#facs_374_r1l6 unnd
+#facs_374_r1l7 ist an jetwederem ort, Wihrt
+#facs_374_r1l8 Guten Tannen Danir Sommerszeit, erforderlich
+#facs_374_r1l9 Bachsohwals
+#facs_374_r1l10 Im dorts Trachselwald hats ein Wihnt
+#facs_374_r1l11 
+#facs_374_r1l12 Im Tschangnad
+#facs_374_r1l13 Im Schachen
+#facs_374_r1l14 an jedem ort auch
+#facs_374_r1l15 sind gut gehußen.
+#facs_374_r1l16 einwihrt.
+#facs_374_r1l17 zu Trub
+#facs_374_r1l18 zu Langnam soll die alte wihrtschafft verbleiben
+#facs_374_r1l19 die andere auffgehebt sein.
+#facs_374_r1l20 Loupperswyl hat zwen Rihet, ist aber mme einß in
+#facs_374_r1l21 bedürfftig, vnd dieweil dan die Obere Wihrtschafft
+#facs_374_r1l22 von alter her Je vnd allwegen zum Attergricht
+#facs_374_r1l23 und herrschafft gehört, auch jerlich ein gwüßen
+#facs_374_r1l24 zinß entrichten muß, laut und vermag hey
+#facs_374_r1l25 Guders fürgewisnen, inhabender alter
+#facs_374_r1l26 gwarsamen, ist für gut befunden, eß sölle
+#facs_374_r1l27 dieselbe obere Tauernen verbleiben, vnd die¬
+#facs_374_r1l28 undere abgestelt werden.
+#facs_374_r1l29 Dem Jacob Blatter und Peter Steechi neüeund
+#facs_374_r1l30 alt Neuen von Unterstaan ist das Der Mezg¬
+#facs_374_r1l31 und zintenschene recht zu Tschangnau acor¬
+#facs_374_r1l32 dient worden den 5ten decembr 1765.
+#facs_374_r2l1 By dem Zollhus by Lauppersweil und zu Romat soll
+#facs_374_r2l2 keine geduldet werden.
+#facs_374_r2l3 zu Rtuders weil ist die eltere wihntschaff gutgeheißen
+#facs_374_r2l4 die juingere soll man abschaffen.
+#facs_374_r2l5 zu Rauflu hats ein wihrtshuß, deßen man wegen haßes
+#facs_374_r2l6 mangelbar
+#facs_374_r2l7 zu Affoleren ein wihrt admittirt
+#facs_374_r2l8 zu Erißweil soll eß mit einem wihrtgnug sein.
+#facs_374_r2l9 Huttweil soll beid wihrten und ein wynschenk,
+#facs_374_r2l10 weilen eß ein großer Paß behalten.
+#facs_374_r2l11 Frandis
+#facs_374_r2l12 zu Lizelflu undoll die wihrtschafft zugelaßen sein
+#facs_374_r2l13 zu Rugsam.
+#facs_374_r2l14 dan jetwederem ort eine und kein
+#facs_374_r2l15 Wynschanck gestaltet.
+#facs_374_r2l16 Dumiswals
+#facs_374_r2l17 zu Schabelehr
+#facs_374_r2l18 an der matten sind erkent abzeschaffen.
+#facs_374_r2l19 uffem wasen
+#facs_374_r2l20 Sumißwald
+#facs_374_r2l21 Zugelaßen
+#facs_374_r2l22 durenraht
+#facs_374_r2l23 Den 114. Nov. 1767. haben Sagtl. der dor d. Gmeind Duris Wald
+#facs_374_r2l24 eine conceldion fir ein schaalmht ertheilt. o zu jahen im j shr utz.
+#facs_374_r2l25 b zu denn Tatwem zum Frinz vns zum Burm verlagt worden.
+#facs_375_r1l1 735
+#facs_375_r1l2 Dignouw
+#facs_375_r1l3 Dignid Kilcher, sol sich mit den zur alten lauenn
+#facs_375_r1l4 vernügen
+#facs_375_r1l5 An Meriten laßt mans bleiben wie von
+#facs_375_r1l6 alter hor
+#facs_375_r1l7 Sant durgdor den ieben
+#facs_375_r1l8 Im Erzwyl ist den zopffen wihrt abgestelt: Sch it con. 15 Marti
+#facs_375_r1l9 wirtschafft und twernen
+#facs_375_r1l10 In der Kilchori Rötenbach ist ein Tauernen gut geheißen
+#facs_375_r1l11 1760
+#facs_375_r1l12 Nidersibenthal
+#facs_375_r1l13 hat In Jeder Gricht Statt ein Wilet, die sind gubgeheißen
+#facs_375_r1l14 und allein zu Weisenburg ein wihrt
+#facs_375_r1l15 Zu Eelenbach soll der ambtsman gewalt haben
+#facs_375_r1l16 an den Meriten etlichen gebieten zuwihrten noch
+#facs_375_r1l17 beschaffenheit der sach.
+#facs_375_r1l18 Ober Sibenthal
+#facs_375_r1l19 zu zweisimmen soll mir ein wihrt sein
+#facs_375_r1l20 Der ambtsman
+#facs_375_r1l21 An der lenck auch an jedem ort in weihrt
+#facs_375_r1l22 gwalt haben wie der
+#facs_375_r1l23 Zū S Steffan)
+#facs_375_r1l24 1
+#facs_375_r1l25 zu Ainmis
+#facs_375_r1l26 Im gricht und Kilchöri Boltingen soll es nit
+#facs_375_r1l27 Sartlane
+#facs_375_r1l28 mehr alß ein wihrt haben
+#facs_375_r1l29 Inbersta
+#facs_375_r1l30 man ir fr
+#facs_375_r1l31 von Eer
+#facs_375_r1l32 Sohlsauß hinder Bbegt vonn 3. Jangz biß
+#facs_375_r1l33 hr kein außschenken s4 Nor.
+#facs_375_r1l34 169 Frutingen
+#facs_375_r1l35 zu Frütingen ins dorff
+#facs_375_r1l36 an der anderbruge
+#facs_375_r1l37 Im Candersteg
+#facs_375_r1l38 Da ist nit mehr dan an
+#facs_375_r1l39 Im Adelboden
+#facs_375_r1l40 jedem ort i wihrt zugelaßen.
+#facs_375_r2l1 1o unnd zu Krattingen
+#facs_375_r2l2 Sherbach zu Mulmen an jedem ort ein bihet gutgeheißen.
+#facs_375_r2l3 zu Rychenbach
+#facs_375_r2l4 zu Ashi ist gehunder keiner.
+#facs_375_r2l5 anen
+#facs_375_r2l6 zu Sanen Im dorff söllen zwen Wihrt verbleiben
+#facs_375_r2l7 Am Gestad
+#facs_375_r2l8 In canomenan jedem ort ein wihrt
+#facs_375_r2l9 Im Gsteig
+#facs_375_r2l10 zu leb unnd an jedem ort ein wihrt. An meriten aber
+#facs_375_r2l11 zu Rötenberg
+#facs_375_r2l12 dem ambtsman nach beschaffenheit der sach etwan
+#facs_375_r2l13 zwen zuzeloßen freystohn
+#facs_375_r2l14 zu Rossigneres vnd
+#facs_375_r2l15 sald ein wihrt.
+#facs_375_r2l16 Dlydouw
+#facs_375_r2l17 zu Nydauww In der statt sind vor wihrtschaffen, alß zum
+#facs_375_r2l18 Läüden und rößli für gut erkent und die zur sonnen
+#facs_375_r2l19 abgestelt.
+#facs_375_r2l20 zu Wolpensweil, ist es mit einem wihrt, namlich Hans
+#facs_375_r2l21 Jacob Raile gnug und Josias Breit abgestelt.
+#facs_375_r2l22 zu Sutz ist abgestelt, allein Im Herbst zugelaßen
+#facs_375_r2l23 zu Brügg ist ein wihrt bestettiget.
+#facs_376_r3l1 De Ewan vnd zwogend anzetwederem bab
+#facs_376_r3l2 Zū Ligert
+#facs_376_r3l3 zwen Wihrt verbleiben
+#facs_376_r3l4 rlach
+#facs_376_r3l5 In disem ambt sind gut geheißen
+#facs_376_r3l6 zu Erlach ein obene Lauernen, samb 1 Wyn hanckenhus
+#facs_376_r3l7 zu inns allein zwo wihrtschaffen
+#facs_376_r3l8 zu Treitten ein Wihrt
+#facs_376_r3l9 zu Luscherts In den H. Vineltz 1. Mihrt
+#facs_376_r3l10 hingegen sind abgestelt
+#facs_376_r3l11 Die beid Wihrten zu Sampelen vnd Müntschinier
+#facs_376_r3l12 Buren
+#facs_376_r3l13 Acher vnd bestathtiges
+#facs_376_r3l14 Lengnau
+#facs_376_r3l15 Rut
+#facs_376_r3l16 oufingen
+#facs_376_r3l17 an jedem diser orten i lauernen zeihet,
+#facs_376_r3l18 Oberwyl
+#facs_376_r3l19 Die�bach
+#facs_376_r3l20 Meyenrie
+#facs_376_r3l21 zu Baren in den stall deü Wihrtshüser.
+#facs_376_r3l22 der Weinschencken halb In der Statt, daruon klagt
+#facs_376_r3l23 worden, daß dieweilen einem Jeder burger frey
+#facs_376_r3l24 gestanden, by der Pinten wein außzegeben, wan
+#facs_376_r4l1 226
+#facs_376_r4l2 und zu was zeit er wollen, im herpst offt vil wynschencken
+#facs_376_r4l3 gewesen, die etwan ein Vaß oden 1 außgeben, vnd darnach
+#facs_376_r4l4 auffgehört, auch unordenlich und über bestimbte zeit wyn
+#facs_376_r4l5 auffgetragen, soll hinfüro beßere ordnung, regel unnd
+#facs_376_r4l6 scheidenheit gehalten werden.
+#facs_376_r4l7 Couppen
+#facs_376_r4l8 Alda soll mehr nit zugelaßen sein dan 1 lihrt, das
+#facs_376_r4l9 obrig abgeschaffet werden.
+#facs_376_r4l10 Burgdorff
+#facs_376_r4l11 In disem ambt söllend verbleiben
+#facs_376_r4l12 Im Gricht vnd k. Oberburg
+#facs_376_r4l13 zu Alchenflu Im Brichs Rudlingen
+#facs_376_r4l14 Im gricht Kilchberg
+#facs_376_r4l15 zu Rietweil an der Landtstraß
+#facs_376_r4l16 In der h serberg.
+#facs_376_r4l17 An jedem diser orthen
+#facs_376_r4l18 zu Döringen
+#facs_376_r4l19 ein Tauernen Wihrt.
+#facs_376_r4l20 Zū Lotzweil
+#facs_376_r4l21 zu Heinichweil.
+#facs_376_r4l22 Zu Nider of
+#facs_376_r4l23 zu Ersingen
+#facs_376_r4l24 Wyningen
+#facs_376_r4l25 Goldnach.
+#facs_376_r4l26 unnd söllend hingegen abgeschaffet werden.
+#facs_376_r4l27 Das Wihrtshus zu Afflingen vnd Wollacheren, alß welche Vnnöthig¬
+#facs_377_r2l1 Di7.
+#facs_377_r2l2 An de chach d Wihtolus zu Schaffhich e3 snd
+#facs_377_r2l3 ist ire thunlich geachtet, daß dargegen da zu Hosle¬
+#facs_377_r2l4 wider angestelt und versechen werden sölle.
+#facs_377_r2l5 a Ist des dero von Hahle begeren gut geheißen vnd
+#facs_377_r2l6 wideum auffgestelt, 8. Octobo 1634
+#facs_377_r2l7 Lentzburg
+#facs_377_r2l8 Amahingen
+#facs_377_r2l9 Dinticken
+#facs_377_r2l10 heon
+#facs_377_r2l11 Im Gricht.
+#facs_377_r2l12 Surenasch
+#facs_377_r2l13 An Jedem diser Orben ist ein
+#facs_377_r2l14 Beinweil
+#facs_377_r2l15 Rÿnach
+#facs_377_r2l16 Lauernen Wihrt gutgeheißen.
+#facs_377_r2l17 Menziken
+#facs_377_r2l18 In Jeziotl
+#facs_377_r2l19 Ie Gricht zu Gundischweil sind biß har zuer gen¬
+#facs_377_r2l20 die jungere Cauernen soll abgestelt werde.
+#facs_377_r2l21 zu Kulmn Im Vnderen Dortf,
+#facs_377_r2l22 Kulm im Oberen Dortf an Jedem of euch
+#facs_377_r2l23 Gerniches
+#facs_377_r2l24 ein wihrt.
+#facs_377_r2l25 ai woieeenthal, soll der Wihrt abgeschaffet werden,
+#facs_377_r2l26 zu Suhn, sind zwey Lauernen Recht, das ein zum
+#facs_377_r2l27 leütz und das ander zum Bären beide bestetiget.
+#facs_377_r2l28 zu Ruh
+#facs_377_r2l29 Oberenthelden  d jedem ort ein wihrt gut geheißen.
+#facs_377_r2l30 Köllicken
+#facs_377_r2l31 der orsenbert mag das Tavemellecht, vor das
+#facs_377_r2l32 Obere Thor tranoportieren. d. 14t Janl. 1778
+
+#facs_377_r3l1 zu
+#facs_377_r3l2 Im Beicht zu
+#facs_377_r5l1 zr Hangeschwilz und die lehrt abgestelt.
+#facs_377_r5l2 zu Muchen
+#facs_377_r5l3 zu Rubenschwyl soll nun ein wihrt verbleiben.
+#facs_377_r5l4 Holzicken
+#facs_377_r5l5 Boltemotl.
+#facs_377_r5l6 Wittwÿl
+#facs_377_r5l7 soll an jedem ort nit mehr alß
+#facs_377_r5l8 Stäfelbach
+#facs_377_r5l9 selihrt sein.
+#facs_377_r5l10 Lutwyl
+#facs_377_r5l11 Nider Entfelden
+#facs_377_r5l12 zwen im hard sind abgestelt.
+#facs_377_r5l13 Vnder den Junckeen Vnd
+#facs_377_r5l14 Lieing Herren.
+#facs_377_r5l15 Andenstein
+#facs_377_r5l16 Mörickes
+#facs_377_r5l17 Verbleibt aūch an Jedem
+#facs_377_r5l18 Schaffischen
+#facs_377_r5l19 gendtschickenOrt Stihrt.
+#facs_377_r5l20 Eglischwyhl
+#facs_377_r5l21 Vnd zu Zengen zwen, vnd Lauernen recht.
+#facs_377_r5l22 fahrwangen
+#facs_377_r5l23 Bewyl
+#facs_377_r5l24 auch an Jedem ort ein
+#facs_377_r5l25 Rud
+#facs_377_r5l26 Kilchlerann
+#facs_377_r5l27 wihrt bestettiget.
+#facs_377_r5l28 Reitnau
+#facs_377_r5l29 Vrken
+#facs_378_r2l1 zu Schofftland verblibt allein ein Wihrt, die anderen
+#facs_378_r2l2 zwen sind abgestelt.
+#facs_378_r2l3 zu Sofenwyl sind beid wihrten gutgeheißen.
+#facs_378_r2l4 Hoffingen
+#facs_378_r2l5 hot der ordnen Lauernen vnd Wihrtshuseren 5.
+#facs_378_r2l6 deren man wegen stetiger fuhr der Güter vnd
+#facs_378_r2l7 Nynoegen, auch andere Paßierenden mangelben
+#facs_378_r2l8 zu sein erachtet.
+#facs_378_r2l9 den hapffen Wihrten sind Ie nach gelegenheit der
+#facs_378_r2l10 zeit und nach dem ein erbarkeit erkennen mag
+#facs_378_r2l11 n�tig sein, wo etwan ungebür oder überflußes
+#facs_378_r2l12 gespürt wirt, soll es allwegen ohne verschonen
+#facs_378_r2l13 abgeschaffet werden.
+#facs_378_r2l14 chenckenberg
+#facs_378_r2l15 Hie sind nachvolgende wihrtschafften
+#facs_378_r2l16 Approbirt alß Zu
+#facs_378_r2l17 Tholheim
+#facs_378_r2l18 Schimz nach
+#facs_378_r2l19 Veltheim
+#facs_378_r2l20 stillstand
+#facs_378_r2l21 Bötzen
+#facs_378_r2l22 An jedem ort eine.
+#facs_378_r2l23 Effingen
+#facs_378_r2l24 keinigen
+#facs_378_r2l25 mandach
+#facs_378_r2l26 Vffem Stald,
+#facs_378_r3l1 Im Ambs Eggen
+#facs_378_r3l2 Im fahr
+#facs_378_r3l3 
+#facs_378_r3l4 zu Gue
+#facs_378_r3l5 an jedem ort ein wihrt gutgeheißen.
+#facs_378_r3l6 zu lapffig
+#facs_378_r3l7 Biberstein
+#facs_378_r3l8 In diser verwaltung sind drey lauernen
+#facs_378_r3l9 und wihrtshüser für nothwendig erkent, alß
+#facs_378_r3l10 Eins zū Biberstein
+#facs_378_r3l11 Bander zu kültigen der kilchn kilchberg.
+#facs_378_r3l12 das dritt zu Ober Erlispach.
+#facs_378_r3l13 Im Ambt Arberg ist
+#facs_378_r3l14 gutgeheißen.
+#facs_378_r3l15 zu Arberg In der Stalt zwo Wihrtschafftl
+#facs_378_r3l16 und 2. Pitenschenk.
+#facs_378_r3l17 zu lyß
+#facs_378_r3l18 Kolnach. an jedem ort ein wihrtschafft uffs vlst
+#facs_378_r3l19 Afhalberen
+#facs_378_r3l20 Schwartznburg.
+#facs_378_r3l21 Disem Ambt sind admittirt und zugeloßet.
+#facs_378_r3l22 zu Schwartzenburg 2 wihrtschafften.
+#facs_378_r3l23 Im Buggesperg ein Wihrt¬
+#facs_378_r5l1 83 lb
+#facs_378_r5l2 97.
+#facs_379_r2l1 2. Wihrtshuseren Wyn vnd Pintenschencken
+#facs_379_r2l2 halb In meiner Gden Herren Weltschen Land¬
+#facs_379_r2l3 Petterlingen
+#facs_379_r2l4 in den statt and drey offne Wihrtschafften, namlich
+#facs_379_r2l5 die Im Statthi zum Baren Vnd zur Cronen gut geheißen
+#facs_379_r2l6 sambt einem Pintenschenck der so In dem berichtschreiben
+#facs_379_r2l7 einiig vernamet worden, namlich Daniel Cranthard ist
+#facs_379_r2l8 für dißmalen paßiert.
+#facs_379_r2l9 Im deren Covelles, dieweil der schultheiß berichtet das
+#facs_379_r2l10 es mit einem Wihrt Namlich Jcan Cops Jan, da gung seye
+#facs_379_r2l11 wegen verübten vnd gespüeten mißbruchs, vnd zu¬
+#facs_379_r2l12 Verhütung Vernerer liederligkeit laßendts Mahl
+#facs_379_r2l13 dorby verbleiben, vnd soll der ander abgeschaffet werden,
+#facs_379_r2l14 Wiblischurg
+#facs_379_r2l15 In disem ambt sind nachvolgende wihntschafften
+#facs_379_r2l16 für gut erkent.
+#facs_379_r2l17 zu Wiblispurg das statthus und zur cronen alß
+#facs_379_r2l18 deren beider man wegen furreisender frömbden
+#facs_379_r2l19 läthen mangelbar.
+#facs_379_r2l20 zu Cudresin, das Statthuß
+#facs_379_r2l21 zu grandionrt auch das statthus
+#facs_379_r2l22 zu Bederiue, auch hinder der herrschafft
+#facs_379_r2l23 Frandiour ein Tauernen, so von altem gewesen
+#facs_379_r2l24 sein soll
+#facs_379_r3l1 Alien
+#facs_379_r3l2 In disem ambt sind nachvolgende gutgeheißen.
+#facs_379_r3l3 zu Milden In der Statt dru Wihrtshüsen
+#facs_379_r3l4 ds Statthuß
+#facs_379_r3l5 namlich
+#facs_379_r3l6 zur Gilgen
+#facs_379_r3l7 zum Weißen Cutz
+#facs_379_r3l8 Ver Pintenschencken, neben denen so eigen gwechs
+#facs_379_r3l9 zuuerschenken habend, Namlich
+#facs_379_r3l10 Ande Vuagnieres
+#facs_379_r3l11 Jaques Gilliard
+#facs_379_r3l12 Balthasar Jagets Witwen
+#facs_379_r3l13 Jean Mellet.
+#facs_379_r3l14 Doch pfehr, daß sie kein seiß nuch hrberg geben solind.
+#facs_379_r3l15 Iu Montprevesies
+#facs_379_r3l16 Mexieres
+#facs_379_r3l17 An jedem diser orten
+#facs_379_r3l18 Thierens
+#facs_379_r3l19 ein wihrt
+#facs_379_r3l20 Saillens
+#facs_379_r3l21 für beide Combremont: Wihrt
+#facs_379_r3l22 zu Granger ein wihrt zugelaßen der ander abgestelt.
+#facs_379_r3l23 zu Liucens, ist es auch mit einem gung und der ander
+#facs_379_r3l24 abzeschaffen
+#facs_379_r3l25 Corcelleo et surati im Pieterschek
+#facs_379_r3l26 Den 5. Marti 1767 ist der Gmiid
+#facs_379_r3l27 recht corcevirt worden und wieder
+#facs_379_r3l28 aberkent den 2. merz 1769.
+#facs_379_r3l29 pron
+#facs_379_r3l30 In diser ambtsverwaltung sind zwo lauernen
+#facs_379_r3l31 die eine zu Nider oron die andere zu pollessieux
+#facs_379_r3l32 weg an beiden örten gricht gehalten wirt.
+#facs_379_r3l33 das zu Servion in a. 1720. A 1721 bewilligte Wirtshauß
+#facs_379_r3l34 em bären. ist ar die min Strraß zu sezen, be
+#facs_379_r3l35 billiget worden 6. Jan 1767
+#facs_379_r3l36 In Combremont ist das Pinterschenb in ein Taveme Wirthshaud ver¬
+#facs_379_r3l37 bandlet worden R m de 12ten spetebris 1778
+#facs_380_r2l1 Chillion.
+#facs_380_r2l2 zu Ründ und zuo wihrtschaffen, namlich die zum
+#facs_380_r2l3 Wyßen watz und zum facken, Item wegen der
+#facs_380_r2l4 
+#facs_380_r2l5 großen Wucher meriten vnd vile Volcks, Zechen¬
+#facs_380_r2l6 Pintenschank gut vnd nothwendig befunden, auch
+#facs_380_r2l7 darauff söllihe anzohl In dem Vberschikken bericht
+#facs_380_r2l8 mit Namen verzeichnet, vnd vnder gebürender
+#facs_380_r2l9 
+#facs_380_r2l10 geleisteter Versprechung, ob Ir g. ordnung zehalten
+#facs_380_r2l11 verordnet und die übrigen abgestelt worden.
+#facs_380_r2l12 Kildori Bonag.
+#facs_380_r2l13 Dieweilen diser Zeit allein zwen Pintenschenck da sind,
+#facs_380_r2l14 Vnd dieweich diser Zeit vnd mehrteils Zeit In der
+#facs_380_r2l15 gantzen kilchori mur ein wihrt offne lauenes
+#facs_380_r2l16 ehaltet, laßend mahl darby verbleiben
+#facs_380_r2l17 zu castelard und an zetwederem orti wihntshafft
+#facs_380_r2l18 zum Thurn namlich jn land und stattshuß.
+#facs_380_r2l19 In den Jurisdiction hillion, ist ein Wihntschafft
+#facs_380_r2l20 Namlich im Dorff des planckes, weil alda Geist:
+#facs_380_r2l21 vnd Weltlich Gricht gehalten wirt, gutgeheißen,
+#facs_380_r2l22 sambt dem Pintenschenck, In Jcan faurod, Huß
+#facs_380_r2l23 zu Taritel, wellicher fürpaßierenden seines eignen
+#facs_380_r2l24 gnechses verkaufft.
+#facs_380_r2l25 den neüwenstatl sind iren zwey, namlich im statthus
+#facs_380_r2l26 und a Ldactes bestettiget und gutgeheißen, alß jcan
+#facs_380_r2l27 Lederrey vnd Jcan Baccal.
+#facs_380_r4l1 Alen
+#facs_380_r4l2 In disem ambt sind nachvolgende persohnen
+#facs_380_r4l3 zu wihrten und pintenschencken verzeichnet
+#facs_380_r4l4 unnd approbirt worden.
+#facs_380_r4l5 em Oberen Ormont. 2. Jean Peract Vndsean Bollit.
+#facs_380_r4l6 Im Nideren Ormont
+#facs_380_r4l7 In den farde 1. Jagues chenaro
+#facs_380_r4l8 Sepper 1. Aauio Gurting
+#facs_380_r4l9 Vff den Möseren 1. Jaques Ogey
+#facs_380_r4l10 Alen 2. alß der zum Cronen vnd Niclaus Reßen,
+#facs_380_r4l11 Roche i. Jagues Lagnin
+#facs_380_r4l12 Nouille 1. Amy Calande.
+#facs_380_r4l13 Repsel i francois Mestion
+#facs_380_r4l14 Oulon 2. Jean Gau et Jean Moret
+#facs_380_r4l15 Bex 2. francors Villain et Icon Jauthiet.
+#facs_380_r4l16 und die pintenchenck pierre arendor
+#facs_380_r4l17 Legsin Im Torff 1. JcanParis
+#facs_380_r4l18 Vnd 9 Pintenschenk, Pcod Mermod
+#facs_380_r4l19 Lausguna
+#facs_380_r4l20 Das land oder die 4 kilchsal im thol
+#facs_380_r4l21 In Tchatlaney Lubtig, ist min 1 wihrt huß,
+#facs_380_r4l22 o das stotthuß genamset wirt, alda man zricht
+#facs_380_r4l23 vnd Raht Versicht.
+#facs_380_r4l24 In der Castlanei Colli und S. Caphorin istes ebenmeßig
+#facs_380_r4l25 beschaffen.
+#facs_381_r2l1 125
+#facs_381_r2l2 In der Castlauey sordier(da 4. groß, dörffen sind
+#facs_381_r2l3 Ist auch allein ein gmein Wifets huß, welches Sy mit dem
+#facs_381_r2l4 Namen eines Rahthuses betitlen
+#facs_381_r2l5 Also daß alhie In disem Ambt kein Vberfluß
+#facs_381_r2l6 anzeklagen
+#facs_381_r2l7 Moseo
+#facs_381_r2l8 In der statt Morsee
+#facs_381_r2l9 despartement.
+#facs_381_r2l10 vnd nachvolgende Vier offne Tauennen
+#facs_381_r2l11 namlich zum Wyßen lrütz zum Frankrycher schilt.
+#facs_381_r2l12 zur Cronen vnd la hollere, wegen deß Paßes
+#facs_381_r2l13 vnd großer Meriten, gutgeheißen, die abarets da
+#facs_381_r2l14 eßen vnd trinken auffgetragen wirt, abgestelt,
+#facs_381_r2l15 und soll allein wyn by der Pinten außzeschencken
+#facs_381_r2l16 zugelaßen sein.
+#facs_381_r2l17 Im departemons
+#facs_381_r2l18 Cossonare.
+#facs_381_r2l19 en der Statt Cossonay, ist es mit 1j guten wihnten
+#facs_381_r2l20 gung, den drith abzeschaffen.
+#facs_381_r2l21 zu Butsens söllend die wihrten alß die lib berichts
+#facs_381_r2l22 item sollein zu der landtliten undergang geeisen.
+#facs_381_r2l23 Im Departement
+#facs_381_r2l24 abgestelt werden.
+#facs_381_r2l25 s stoll sind e2 ordenliche wihrts hüser, komlich zin wr
+#facs_381_r2l26 Vnd latorto none gut geheißen, vnd die Cabarets, sofehr d
+#facs_381_r2l27 allein dyn und kein speiß noch herberg gebind zugelaßen.
+#facs_381_r3l1 departement
+#facs_381_r3l2 18
+#facs_381_r3l3 Aulbonne.
+#facs_381_r3l4 zu salbonne söllend 2 wihrten abgestelt werden und die übrigen
+#facs_381_r3l5 hwen Ire pflichs destbeßer leisten
+#facs_381_r3l6 s Gimel. Ist eines gut geheißen.
+#facs_381_r3l7 Viprre öllend ohngeacht da gricht gehalten wirt, wegen der
+#facs_381_r3l8 langen.
+#facs_381_r3l9 landtlüten da verübenden liedenligkeit, abgeschaffet
+#facs_381_r3l10 werden.
+#facs_381_r3l11 In depertenent
+#facs_381_r3l12 1. Ber
+#facs_381_r3l13 Aalda ist nur ein wihrt nomlich imm dorff di kar
+#facs_381_r3l14 und hiemit gutgeheißen.
+#facs_381_r3l15 6.
+#facs_381_r3l16 Im Despartement
+#facs_381_r3l17 Dlstog
+#facs_381_r3l18 Im dorff daselbst, ist biß har ein wihrt gsin, der soll aber
+#facs_381_r3l19 uff deß sr daselbst fürpilt und fürbildung, was armut
+#facs_381_r3l20 Vnd Vbels dem Landtuolck darauß erwahlen, und daß nun
+#facs_381_r3l21 bald vil hexenmeister von ihrer hinrichtung den verlüest
+#facs_381_r3l22 Ines leib vnd guts diser Rchtschaff zugeschriben abgehetwerden,
+#facs_381_r3l23 n departement
+#facs_381_r3l24 Alemand vnd Im Dorff Allemand Ist ein Wihet, den Caßt man
+#facs_381_r3l25 eier verbleiben, wir zugleich den zu Mortinkan.
+#facs_381_r3l26 zu Ele und
+#facs_381_r3l27 zu Bolens. söllend die beheten obgeschaffet werden als
+#facs_381_r3l28 knnötig und scedlich
+#facs_381_r3l29 D  zu Sathler in der und ald e baeeht
+#facs_381_r3l30 de y berliig und verschende
+#facs_382_r2l1 146
+#facs_382_r2l2 10 Departement
+#facs_382_r2l3 Quillerens.
+#facs_382_r2l4 zu Colenbres laßt man 4 stihrt wegen der berglihen
+#facs_382_r2l5 s gan morgen z Merdt fahrend gelden.
+#facs_382_r2l6 Seus.
+#facs_382_r2l7 Vn Neüis In der Statt sind gubgeheußen
+#facs_382_r2l8 Dien Wihrtschafften Namlich zur Croner, Wyßen wet¬
+#facs_382_r2l9 Vilgien zum Vngelbaren, vnd ds Statthuß
+#facs_382_r2l10 sambt 4 sabaret.
+#facs_382_r2l11 Die zu Erden und sand söllend abgestelt sein
+#facs_382_r2l12 Cingins
+#facs_382_r2l13 Jurque
+#facs_382_r2l14 Genellier
+#facs_382_r2l15 Apsier
+#facs_382_r2l16 
+#facs_382_r2l17 an Jedem diser Grten i
+#facs_382_r2l18 Bassins
+#facs_382_r2l19 Wihrtschafft panirt.
+#facs_382_r2l20 Degnin
+#facs_382_r2l21 Hans
+#facs_382_r2l22 Den 2. Marii 1767. 7st die tatien
+#facs_382_r2l23 zum segel er dis Geörg Buelis hauß
+#facs_382_r2l24 Coppet
+#facs_382_r2l25 zu er ansportiren concdirt worden.
+#facs_382_r2l26 or Senatu
+#facs_382_r2l27 Donart
+#facs_382_r2l28 Im Grchtla gedn an beden ort in
+#facs_382_r2l29 unnd Du Dacd
+#facs_382_r2l30 sihrtschafft.
+#facs_382_r2l31 es serten.
+#facs_382_r2l32 zu Perter In der stalt und 3 wihetschaffen nomlich de
+#facs_382_r2l33 Statthauß vnd zum Varen, gutgeheißen vnd zur Eligen.
+#facs_382_r3l1 147
+#facs_382_r3l2 Dompneloyes sind zwar e wihrten, aber nun einer hnder mahen
+#facs_382_r3l3 In der Herrschafft, Bioleg vnd Berckier keiner
+#facs_382_r3l4 zu Paillien ft ein deihrt der soll abgeschaffet werden.
+#facs_382_r3l5 zu Vnarend vnd Warenges, ist es mit einem gnug
+#facs_382_r3l6 zu Ognens ist ein wihet bestittiget.
+#facs_382_r3l7 In der herrschafft orreans, hat den verwolten daselbst
+#facs_382_r3l8 vyn im schloß außgeben, das soll imme abgestelt sam es
+#facs_382_r3l9 seye dan seines eignen gewechsts.
+#facs_382_r3l10 zu Cauornex und Corcelles ist das wihrten in der gmeindhie
+#facs_382_r3l11 nachgelaßen.
+#facs_382_r3l12 In der Herrschafft  10x sind zwen und zu Vaegtbolcf
+#facs_382_r3l13 so und der landtvogtey frandion 9 wihrt gut geheißen.
+#facs_382_r3l14 eßgleichen einen zu Baalmes vnd Bollegue
+#facs_382_r3l15 zu Volepres soubs rances und psclees an jedem ort einen.
+#facs_382_r3l16 sind campuent.
+#facs_382_r3l17 zu Mont la zillen sind 3 soll einer gutgeheißen die anderet
+#facs_382_r3l18 zwen abgeschaffet.
+#facs_382_r3l19 Romamostier
+#facs_382_r3l20 In disem Ambt sind nachvolgende Wihrtschaffen
+#facs_382_r3l21 gutgeheißen
+#facs_382_r3l22 zu Domamostier zwei
+#facs_382_r3l23 
+#facs_382_r3l24 zu Vollorbe 1 und soll der hr landtvogt den anderen seinen
+#facs_382_r3l25 discretion nach, abschaffen
+#facs_382_r4l1 33 lb
+#facs_382_r4l2 97
+#facs_383_r2l1 Carbonnieres:
+#facs_383_r2l2 Lieu.
+#facs_383_r2l3 hentt
+#facs_383_r2l4 Atples
+#facs_383_r2l5 Bursins
+#facs_383_r2l6 i Sarra ii der dritt soll abgeschaffet werden.
+#facs_383_r2l7 ornier
+#facs_383_r2l8 pompaple der ander gehört abzeschaffen
+#facs_383_r2l9 Cuatens
+#facs_383_r2l10 5.
+#facs_383_r2l11 on dliche zu Ereleppens ist alß Vnndtig Attgchlt¬
+#facs_383_r2l12 mer
+#facs_383_r2l13 Und Mihntshaud ansralden, so biß fehin
+#facs_383_r2l14 das beiße Crenz genent worden, soll hin¬
+#facs_383_r2l15 fülrn den Nahmen zum goldenen Adler
+#facs_383_r2l16 führen, laut Decrets vom 1tn Febr. 1768.
+#facs_383_r2l17 dad Ergi irthshaus aufgehoben, das mit derselben
+#facs_383_r2l18 verbeüpfte Wirth und Pietenschent recht abolierte, ned
+#facs_383_r2l19 deer Antilung in dortigen Gegenden der Ergime¬
+#facs_383_r2l20 sterend seinen Nachsahreren abgestrett, d. 4. Janl. 175
+END

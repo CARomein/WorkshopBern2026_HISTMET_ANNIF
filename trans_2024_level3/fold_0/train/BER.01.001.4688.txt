@@ -1,0 +1,45 @@
+Law ID: BER.01.001.4688
+Name: Steür=Collect=Bewilligung zu Gunsten der Gemeind Chatelard.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 34/34
+# High similarity (>=50%): 33
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_278_r3l10 An
+#facs_278_r3l11 die Herren Amtleute zu Lausanne
+#facs_278_r3l12 Aelen und Vivis
+#facs_278_r3l13 Steür, Collect, Bewilligung zu günsten
+#facs_278_r3l14 der Gemeind Chatelard
+#facs_278_r3l15 Schultheis Stäth und Burger u.
+#facs_278_r3l16 Der namhafte Schaden und Nachtheil
+#facs_278_r3l17 welchen die Gemeind Chatelard den
+#facs_278_r3l18 7ten und 10ten leztverfloßenen Angst
+#facs_278_r3l19 monaf durch den Ausbruch der Wald,
+#facs_278_r3l20 waßer und anderer Überschwemmung
+#facs_278_r3l21 gen an Reben, Straßen, Mauren
+#facs_278_r3l22 "Ouest
+#facs_278_r5l1 sta
+#facs_278_r5l2 sowohl als durch Wegführung des
+#facs_278_r5l3 Erdrichs erlitten, welcher laut eyd¬
+#facs_278_r5l4 licher Schazung sich auf 24, 456 Franken
+#facs_278_r5l5 10. Sols belauft; hat Uns aus Landes
+#facs_278_r5l6 väterlicher Vorforg gegen diese
+#facs_278_r5l7 Gemand bewögen, derselben die Auf¬
+#facs_278_r5l8 nam einer milten Steur
+#facs_278_r5l9 /: Lausanne :/ in den quatre Paroisses
+#facs_278_r5l10 de la Vaud.
+#facs_278_r5l11 /: Vibis und Aelen :/ in Eüerem Amt
+#facs_278_r5l12 zu verwilligen; welche ihr gewohnter
+#facs_278_r5l13 maßen erheben
+#facs_278_r5l14 /: Lausanne und Aelen :/ und deren Betra¬
+#facs_278_r5l15 Unserm Amtsmann zu Sibis zu
+#facs_278_r5l16 übermachen werdet.
+#facs_278_r5l17 /: an Vibis :/ und wann der samtliche
+#facs_278_r5l18 Betrag Euch wird übermacht seyn
+#facs_278_r5l19 Uns zu berichten, wie hoch sich solche
+#facs_278_r5l20 beloffen.
+#facs_278_r5l21 Datum den 9ten Decembris 1791.

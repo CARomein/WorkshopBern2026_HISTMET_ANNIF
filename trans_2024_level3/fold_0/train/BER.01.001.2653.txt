@@ -1,0 +1,33 @@
+BER.01.001.2653
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 24/24
+# High similarity (>=50%): 23
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_158_r4l1 307
+#facs_158_r4l2 An die W. Ambtleüt.
+#facs_158_r4l3 Denen benachbahrten von Neuff den
+#facs_158_r4l4 großen aufbauf daß Getreidte verbieten
+#facs_158_r4l5 li
+#facs_158_r4l6 Schultheiß und Raht der Statt Tern
+#facs_158_r4l7 Hinweilen der bericht eingelauffen, daß das getreidt
+#facs_158_r4l8 aufsteige, und solches Theils dem aufbauff der Äusseren,
+#facs_158_r4l9 und theils den zugeschriben werdt, daß das heürige
+#facs_158_r4l10 gelächs nicht wohl eingesamblet werden könne, und
+#facs_158_r4l11 icht so reichlich ausgebe als anders; habend Wir in
+#facs_158_r4l12 errüerung des mangels, welcher vor Jahren sich
+#facs_158_r4l13 rzeigt, dem besorgenden übel vorzabommen, nohtwendig
+#facs_158_r4l14 erachtet, derowegen wir auch geordnet habend, daß
+#facs_158_r4l15 denen benachbahrten von Genff der grosse aufkauff
+#facs_158_r4l16 daß Getreidts im Land bey so bewandten Sachen nicht
+#facs_158_r4l17 gestattet, sondern allein für den Hausbrauch in
+#facs_158_r4l18 bescheidenheit auf den Wochen Mariten dessen verab¬
+#facs_158_r4l19 folget werden solle, damit die Landtkinder sich auch
+#facs_158_r4l20 mit nöhtiger frucht zu Ihrer nahrung versehen
+#facs_158_r4l21 könnendt, der hiemit befehlende solchem nach die be¬
+#facs_158_r4l22 hörige anstalt zevenschaffen, und geflissen darob Inhalten
+#facs_158_r4l23 Massen Wir uns zu dir versehen haben wollendt.
+#facs_158_r4l24 Datum 14. Augusti 1697

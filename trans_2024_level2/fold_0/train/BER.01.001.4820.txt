@@ -1,0 +1,67 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 60/60
+# High similarity (>=80%): 58
+# Low similarity (<80%): 2
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_180_r3l3 Einigarten und Priester
+#facs_244_r3l21 des Verkehrs mit Lebens Milllen, zwischen den
+#facs_244_r3l22 Angehörigen der L. Ständen Tern und Freyburg.
+#facs_77_r4l4 An alle deutsch und Welsche Herren Amtleute
+#facs_244_r3l24 mit
+#facs_5_r1l1 2.
+#facs_12_r3l1 17
+#facs_244_r5l2 mit Ausnahm des Untern Aergäus, ferner an alle Frey
+#facs_244_r5l3 weibel und Ammann, deine Murten und Tscherliz, item
+#facs_244_r5l4 per Zedel an Mühewl. der Polizey Kammer und Fleisch
+#facs_244_r5l5 Lax Commission
+#facs_232_r5l21 Schultheiß Räth und Burger der Stadt Bern
+#facs_244_r5l7 da es Uns immer daran gelegen ist, Unsern Lieben
+#facs_244_r5l8 und Getreuen Angehörigen den Verkehr mit Leben
+#facs_244_r5l9 Gedürfnißen und andern Artikeln so viel möglich zu
+#facs_244_r5l10 erleichtern, und zutrachten solche in einem wohlfeilen
+#facs_244_r5l11 Preise zu erhalten. so haben wir beygegen Wärti¬
+#facs_244_r5l12 gen Umständen über den Verkehr Anserer lieber
+#facs_244_r5l13 und Getreuen Angehörigen, mit denen des Löbl. Stande
+#facs_244_r5l14 Freyburg und der Mediat Ämter, folgendes gemein
+#facs_244_r5l15 schaftlich mit Lobl. Stand Fryburg verordnet.
+#facs_244_r5l16 Soll jedem Immediat und Mediat angehörigen ge¬
+#facs_244_r5l17 stattet seyn, den Anken so von seinem eigenen
+#facs_244_r5l18 Product herrührt, in den Kanton Freyburg zum Ver¬
+#facs_244_r5l19 Bauf zutragen, so wie es auch denen angehörigen
+#facs_244_r5l20 beider Lobl. Stände gestattet ist, gegenseitig in
+#facs_244_r5l21 dem andern Canton Anken für ihren Hausbrauch
+#facs_244_r5l22 anzukauffen und mit sich heimzutragen, keineswegs
+#facs_244_r5l23 aber zu führen.
+#facs_244_r5l24 des gleichen soll ferners hin der Verbehr mit
+#facs_244_r5l25 Spab und Schmeer auf den Jahr und Wochenmärkten
+#facs_45_r3l3 An
+#facs_244_r5l27 zwischen beidsteitigen Mediat und Immediat
+#facs_94_r1l1 176
+#facs_81_r3l2 ollat
+#facs_1_r2l2 1.
+#facs_7_r2l1 3
+#facs_245_r4l1 angehörigen freystehen.
+#facs_245_r4l2 wegen des Verkehrs mit Schwein und Schaafen
+#facs_245_r4l3 ist gegenseitig einem jeden Partikular erlaubt,
+#facs_245_r4l4 Vermittelst eines Ankaufscheins, zwey Schweine
+#facs_245_r4l5 und daß auf zwanzig Schafe, auf den Jahr nu
+#facs_245_r4l6 Voyenn ärzten des andern Cantons anzu¬
+#facs_245_r4l7 kauffen.
+#facs_245_r4l8 der verrehr mit Saug Kalbern dann soll
+#facs_245_r4l9 ferners von einem Canton zum andern
+#facs_245_r4l10 gänzlich frey seyn.
+#facs_9_r1l1 10
+#facs_245_r4l12 Einding dann sollen Anstere Lieben und
+#facs_245_r4l13 getreuen Mediat Angehörige in beiden
+#facs_245_r4l14 Kantonen Hern und Freyburg, die gleiche
+#facs_245_r4l15 Freyheit zu genießen haben, wie die Imme¬
+#facs_245_r4l16 diat angehörige des einen Standes hinte¬
+#facs_245_r4l17 dem andern.
+#facs_78_r2l21 dessen Ihr berichtet werdet, um diese Ver¬
+#facs_245_r4l19 Unsere Verordnung in Eüerem Amte ge¬
+#facs_245_r4l20 wohnter mässen bekannt machen zu lassen.
+#facs_245_r4l21 Datum den 17ten Februar 1797.
+#facs_98_r5l28 en

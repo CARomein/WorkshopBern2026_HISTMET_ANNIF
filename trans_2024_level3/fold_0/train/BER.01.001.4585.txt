@@ -1,0 +1,52 @@
+Law nr: BER.01.001.4585
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 41/41
+# High similarity (>=80%): 41
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_123_r2l1 Collate
+#facs_23_region_1633454616028_2913l1 An
+#facs_355_r2l2 alle welsche Herren Amtleut.
+#facs_225_r2l3 Rogatoria oder Requisitoria
+#facs_225_r2l4 Schultheiß und Rath etc. Wir haben bey
+#facs_225_r2l5 vorgefallenen Anläßen zu entnehmen
+#facs_225_r2l6 gehabt, daß in Ansehen der Rogatorien
+#facs_225_r2l7 in denen Ämteren welchen Lands,
+#facs_225_r2l8 eine verschiedene Abung balte, da
+#facs_225_r2l9 aber hierin eine gänzliche conformitaet
+#facs_225_r2l10 seyn soll; So haben Wir nöhtig be¬
+#facs_225_r2l11 funden, euch gleichbie an Übrige
+#facs_225_r2l12 Unsere Ober Amtleute beschicht, unsere
+#facs_225_r2l13 Willens Meynung zu überschreiben,
+#facs_225_r2l14 bie es deßhalb gehalten seyn solle.
+#facs_225_r2l15 In den Fällen wo eine Persohn
+#facs_225_r2l16 tor einen einheimischen Richter vor¬
+#facs_225_r2l17 geladen wird, sollen die Rogatoria
+#facs_225_r2l18 oder Requisitoria von demjenigen
+#facs_225_r2l19 Richter erhalten und bebilliget werden,
+#facs_225_r2l20 von welchem die rogierte Persohn
+#facs_225_r2l21 in erster Instanz abhanget.
+#facs_225_r2l22 In allen Fällen aber, so jemand
+#facs_225_r2l23 vor einen Richter hinter einer fremden
+#facs_123_r2l1 Collate
+#facs_12_r2l1 43
+#facs_225_r4l2 Sodmäßigkeit citieret wird, erforderet
+#facs_225_r4l3 die Sicherheit Unserer Angehörigen,
+#facs_225_r4l4 daß die Rogatoria oder Requisitoria
+#facs_225_r4l5 bey Unseren Ober Amtleuten, als
+#facs_225_r4l6 denen oberbeitlichen Representanten
+#facs_225_r4l7 oder in ihrer Abbesenheit, bey ihren
+#facs_225_r4l8 Stadthalteren gesucht und von denen¬
+#facs_225_r4l9 selben allein bewilliget werden sollen.
+#facs_225_r4l10 Solches nun werdet ihr denen
+#facs_225_r4l11 Gerichts Stellen Eüeres Amts zur
+#facs_225_r4l12 Richtschnur anbefehlen, und auch an
+#facs_225_r4l13 behörigen Orten zu jedermans verhalt
+#facs_198_r3l9 publicieren zu laßen.
+#facs_225_r4l15 Dat. den 17.) May 1786.
+#facs_83_r3l6 en

@@ -1,0 +1,32 @@
+Law ID: BER.01.001.3516
+Name: Die Herbstferien aussschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_493
+# Matched: 21/21
+# High similarity (>=50%): 21
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_274_r4l15 Cantzley Beru
+#facs_274_r4l16 An Alle L. und av
+#facs_274_r4l17 Ambtleüth, 4. Statt Freyweibel
+#facs_274_r4l18 vnd Adrian
+#facs_274_r4l19 Die Herbst Ferien ausschreiben
+#facs_274_r4l20 Dchuetheiß und Raths etc.
+#facs_274_r4l21 Obgleich sowohl unseren Ambtleüthen,
+#facs_274_r4l22 als sonst meniglich, ohne anders erinnern
+#facs_274_r4l23 bekant seyn soll, daß während den Herbst
+#facs_274_r4l24 Beschäfftigungen die Oberkl. Cammeren, hiemit
+#facs_274_r4l25 aux
+#facs_275_r3l1 1 d: Richtiben verschloßen gehalten
+#facs_275_r3l2 werden; so habend wir dennoch zum
+#facs_275_r3l3 überfluß unsere Ambtleuth vermahne
+#facs_275_r3l4 wollen, vom 16. diß Monats, biß gegen
+#facs_275_r3l5 Martin, Partheyen umb andere, als
+#facs_275_r3l6 gantz ohnvermeidenliche Sachen nicht
+#facs_275_r3l7 vor uns kommen zu laßen; dan sonsten
+#facs_275_r3l8 selbigen Aller Access wurde abgeschlagen
+#facs_275_r3l9 werden. Gott mit dir. Datl
+#facs_275_r3l10 2: 7bris 1726.

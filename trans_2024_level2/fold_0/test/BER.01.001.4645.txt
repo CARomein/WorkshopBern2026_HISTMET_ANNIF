@@ -1,0 +1,60 @@
+Law ID: BER.01.001.4645
+Name: Getreyd=Verkauf.
+
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 48/48
+# High similarity (>=50%): 44
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_296_r3l10 Betreyd=Verkauf.
+#facs_296_r3l11 Schultheiß Räth und Burger¬
+#facs_296_r3l12 Auf den von Unsern fürgeliebten Mit-
+#facs_296_r3l13 rüfstig
+#facs_296_r3l14 Welsch) Sekelmeister
+#facs_296_r3l15 rathen den Herren
+#facs_296_r3l16 und Vennern, und Unserer verordneten
+#facs_296_r3l17 Kornkammer Uns erstatteten Gericht,
+#facs_296_r3l18 über das nach Abzug des Vorraths,
+#facs_296_r4l1 1
+#facs_296_r4l2 2.
+#facs_296_r4l3 3
+#facs_296_r5l1 ius,
+#facs_296_r5l2 bie auch der Ordinari und quasi Ordin.
+#facs_296_r5l3 Ausgaben zum Verkauf übrig bleibenden
+#facs_296_r5l4 Betreyd, haben Wir zu erkennen gut be¬
+#facs_296_r5l5 funden
+#facs_296_r5l6 Für das teutsche Land
+#facs_296_r5l7 daß von nun an
+#facs_296_r5l8 Von allem Kernen und Roggen
+#facs_296_r5l9 Von der Winterfrucht, als Dinbel, Wäche,
+#facs_296_r5l10 und Mistchelkorn, und
+#facs_296_r5l11 Von der Sommerfrucht zu Anblühung der
+#facs_296_r5l12 Feldern und sonsten.
+#facs_296_r5l13 Der halbige Theil zu kleinen Käufen, unter
+#facs_296_r5l14 den üblichen Reservaten verstilbert werde.
+#facs_296_r5l15 die zweite Helfte aber von Waizen, Kerner
+#facs_296_r5l16 Misthelkarn, dersten, Dinkel, Haber und
+#facs_296_r5l17 Paschi, bis auf weitere Verfügung beybe¬
+#facs_296_r5l18 halten werde.
+#facs_296_r5l19 Für das welsche Land.
+#facs_296_r5l20 Daß von nun an von allem Wachen, Michel
+#facs_296_r5l21 born, Roggen, Bersten, Haber und Pasch
+#facs_296_r5l22 für das Begenwärtige nicht mehr als der
+#facs_296_r5l23 halbige Theil des mindest bezaltlichsten
+#facs_297_r2l1 Nte der daherige
+#facs_297_r2l2 Jedel an Mehlesen des
+#facs_297_r2l3 Kirchen contrents ist.
+#facs_297_r2l4 unterm 4. April
+#facs_297_r2l5 imexem nie yor
+#facs_297_r2l6 R M. 101. 226
+#facs_297_r3l1 abgestoßen, und zu kleinen Käufen
+#facs_297_r3l2 unter den gebohnten Coutelen verstilbenen
+#facs_297_r3l3 mit der andern Helfte bis auf weitere
+#facs_297_r3l4 Verordnung aber in gehalten werde
+#facs_297_r3l5 Welchemnach Ihr Euch verhalten, und
+#facs_297_r3l6 über das erlösende uns Rechnung tragen
+#facs_297_r3l7 werdet. Datum d. 16t. March 1789

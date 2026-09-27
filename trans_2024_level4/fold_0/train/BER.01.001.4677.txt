@@ -1,0 +1,50 @@
+Law ID: BER.01.001.4677
+Name: Wegen dem von lobl. Stand Fryburg gethane Aufbott, einicher Mannschaft. Item wegen derselben Durchmarsch.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 39/39
+# High similarity (>=50%): 37
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_186_r1l1 hielbe
+#facs_186_r1l2 Coll
+#facs_186_r2l1 An
+#facs_186_r2l2 Wiblisburg, Pedterlingen, Gubern,
+#facs_186_r2l3 et Cons: Iferten und Milden Prof.
+#facs_186_r2l4 beym dem von lobl. Stand Fryburg
+#facs_186_r2l5 gethane Aufbott, einiger Manschaft.
+#facs_186_r2l6 item beym derselben Durchmarsch.
+#facs_186_r2l7 Schultheiß und Rath etc.
+#facs_186_r2l8 Wie sind von lobl. Stand Fryburg
+#facs_186_r2l9 freundbruderlich benachrichtet worden,
+#facs_186_r2l10 das derselbe auch seinerseits durch
+#facs_186_r2l11 die gegenbärtige Zeit Umstände
+#facs_186_r2l12 veranlaßet worden seye, einiche
+#facs_186_r2l13 Manneschaft in behöriger Gereit¬
+#facs_186_r2l14 schaft halten zu laßen.
+#facs_186_r2l15 Hievon nun haben Wir Euch
+#facs_186_r2l16 die erforderliche Rebantschaft
+#facs_186_r2l17 geben, zugleich aber anbefehlen.
+#facs_186_r2l18 Bollen, bann der Fall sich ereignen
+#facs_186_r2l19 an alle obtrenannte sollte, daß diese Manschaft
+#facs_186_r2l20 Euer Amt /: Eüere Stadt und
+#facs_186_r2l21 E. Amtlent mit
+#facs_186_r2l22 h
+#facs_186_r2l23 Ausnahm Ifertig
+#facs_186_r2l24 deren Rezirk, betreffen müsste,
+#facs_186_r3l1 an
+#facs_186_r3l2 pferten
+#facs_186_r3l3 allein
+#facs_186_r6l1 365.
+#facs_186_r6l2 das bemelt lobl. Stand einiche Man¬
+#facs_186_r6l3 schaft aus dem untersinier derma¬
+#facs_186_r6l4 ligen alternatif stehenden Amt Grandson
+#facs_186_r6l5 gebrauchen bürde, und solche Euer
+#facs_186_r6l6 Amt betreffen müßte.
+#facs_186_r6l7 dieselbe solchenfalls samt allfälliger
+#facs_186_r6l8 Munition und Zugehöre ohne einiche
+#facs_186_r6l9 Hinderniße durchpassieren zu laßen.
+#facs_186_r6l10 Dath. den 30ten Septem: 1790.

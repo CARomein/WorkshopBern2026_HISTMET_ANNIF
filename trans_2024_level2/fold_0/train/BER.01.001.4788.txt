@@ -1,0 +1,51 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 44/44
+# High similarity (>=80%): 41
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_126_r2l25 118.8
+#facs_4_r3l2 Verordnung.
+#facs_40_r3l6 das Brodt auf der Landschaft bey der Gewicht zu
+#facs_40_r3l7 verbachen und zu verkaufen
+#facs_40_r3l8 An alle deutsche Herren Amtleut, denne per
+#facs_40_r3l9 Zadel an die 4. H. Landgrichts-Vennere
+#facs_4_r3l9 Schultheiß und Rath
+#facs_40_r3l11 Auf den eingelangten Bericht, daß hin und
+#facs_40_r3l12 wieder in Unseren Landen in Verbauf der Brodte
+#facs_40_r3l13 viele Mißbräuche und Gefahrden unterlaufen
+#facs_40_r3l14 zumahlen das selbe nach eigener Willkühr
+#facs_40_r3l15 ungewogen verkauft, und dadurch die
+#facs_40_r3l16 andleute oft in Schaden und Nachtheil ver¬
+#facs_40_r3l17 sezt werden u haben Wir hiedurch anzu¬
+#facs_40_r3l18 Ordnen gut befunden;
+#facs_40_r3l19 1°) daß alle Müllern, Beken, Wirthe
+#facs_40_r3l20 und jeder andere der auf Verkauf Brod
+#facs_40_r3l21 baket, gehalten seyn solle; der selbe in
+#facs_40_r3l22 größerer
+#facs_41_r1l1 -72
+#facs_41_r2l1 größeren oder kleineren Laiben zu Pfunden weit
+#facs_41_r2l2 zu verbaken und in verhältniß mäßigen und
+#facs_41_r2l3 billigem Preis zu verkauften
+#facs_41_r2l4 2°) daß jeder auswägende und verkauffende
+#facs_41_r2l5 ffund Trod zu 17. Unzen Mark Geldicht be¬
+#facs_41_r2l6 rümmt und berechnet werden solle? um
+#facs_41_r2l7 3. daß auch auf Verkauf gebakene Pro
+#facs_41_r2l8 welcher anzuleicht, schlecht oder nicht ausge¬
+#facs_41_r2l9 baben erfunden werden wird, zu Handen
+#facs_41_r2l10 der Armen der Orts confiscirt; der fehl¬
+#facs_41_r2l11 bare Verkäufer dann für den 1ten Fehler
+#facs_41_r2l12 mit einer Bus von 5. lb, für den 2t mit
+#facs_41_r2l13 10. lb belegt, bey der 3ten Vergehung aber
+#facs_41_r2l14 Aus zu weiterer Strafe ohne Schonen
+#facs_41_r2l15 verleidet werden solle
+#facs_41_r2l16 Wir befohlen deme nach Euch diese
+#facs_41_r2l17 Unsern Ordnung denenjenigen Euerer
+#facs_41_r2l18 Amts, die es betreffen mag kund thun,
+#facs_41_r2l19 zulaßen, auf deren genaue Verbachtung
+#facs_41_r2l20 die nöthige Auf sicht zu bestellen und Euch
+#facs_41_r2l21 Die Exäbution derselben bestens angelegen
+#facs_41_r2l22 seyn zulaßen. Gewit. Ei datum den
+#facs_41_r2l23 5: Hornung 1795
+#facs_98_r5l28 en

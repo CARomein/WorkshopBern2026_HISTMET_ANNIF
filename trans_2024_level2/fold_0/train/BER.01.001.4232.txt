@@ -1,0 +1,40 @@
+Law ID: BER.01.001.4232
+Name: Wegen Versendung der Kinderen in äussere Schulen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 28/29
+# High similarity (>=80%): 4
+# Low similarity (<80%): 24
+# Not found: 1
+#
+#facs_5_r2l1 An
+#facs_101_r3l2 alle Ober- und UnterErgänwische Amtleüth, Vier
+#facs_244_r2l10 Kösten vorschießen; der Gemeind aber soll
+#facs_145_r3l14 hiesigen
+#facs_54_r4l8 Schultheis und Rath
+# NOT FOUND: Ed vermag die sub 13t May 1676 und Anni 1736. der
+#facs_3_r1l1 Coll
+#facs_169_r2l15 und Pintenschenblairthschaften ertheilte Concessionen
+#facs_59_r2l13 sie solches wieder verkaufen mögen.
+#facs_242_r3l13 vermehret werde, Soll Unser Ober Amtsmann
+#facs_54_r2l4 Bey diesem Verkauf dann jehbeilen bey den
+#facs_89_r3l8 da uns von seiten Unser fürgeliebten Mit¬
+#facs_171_r2l31 mehrerem vorgestellet worden, daß diese Landschrei¬
+#facs_91_r2l6 benöthigte Certificats de Vie, unter Eüerem
+#facs_203_r3l17 Ihr in Eüerem Amt daraufhin bestellet, und was
+#facs_172_r2l5 gebet, daß über die Einfuhr dergleichen Reif und Cöte
+#facs_245_r2l6 Noht, unter welcherley Vorwand es wäre
+#facs_105_r2l13 geholfen worden, als haben Wir nicht nur allein
+#facs_182_r2l2 Reflectionen, gutbefunden und erbennt: daß
+#facs_100_r4l4 Königsfelden. Wegen Geb„ und Birmistorff Ihm
+#facs_93_r3l6 auslegen, und Ihnen die traurigen Folgen
+#facs_207_r3l8 Laut eingelangten Berichts von Unserem Amtsmann zu
+#facs_223_r1l18 sogenannte Coulisses construiran, und nachbärts solche
+#facs_241_r3l18 ligung des Amtsmanns auf derselben Kösten
+#facs_173_r2l2 vorgetragen worden, welche Uns veranlaßen dem
+#facs_17_r3l15 den  nächstbünfftig. Deßen Ihr berichtet werden
+#facs_104_r5l22 Wir solches zu Jedermann Wissenschaft und Verhal¬
+#facs_6_r2l10 dieselben sich vor Schaden hueten können, nöhtig eracht
+#facs_75_r3l17 Dath. d. 2t May. 1763.

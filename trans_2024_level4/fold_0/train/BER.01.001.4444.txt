@@ -1,0 +1,65 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 57/58
+# High similarity (>=80%): 52
+# Low similarity (<80%): 5
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4444
+#facs_323_r4l16 von denen auf Martini lezthin eingegangen seyn sollende
+#facs_215_r12l24 Seite
+#facs_75_r6l1 l’a
+#facs_323_r4l14 Alle Teutsche Herren Amtleut und Schaffener, da Obrigkeiten
+#facs_323_r4l15 Getreid ligt
+#facs_323_r4l16 von denen auf Martini lezthin eingegangen seyn sollende
+#facs_323_r4l17 Winterfrüchten zu versilberen
+#facs_148_r3l7 Schultheiß Räht und Burger.
+#facs_323_r4l19 Unsere Fingeliebte MitRaht die Herren Teutsch
+#facs_320_r2l6 Sekelmeister und Venneren, und Unserer
+#facs_323_r4l21 Korn Cammer, haben Uns über die ferner weite Disposi
+#facs_323_r4l22 tion des auf Martini 1775. eingegangenen Obrigkeitlichen
+#facs_323_r4l23 Getreids den Vortrag erstattet; Woraufhin Wir erkent¬
+#facs_324_r1l1 638
+#facs_347_r3l5 Schenkenber
+#facs_324_r1l3 gangen, Lanzburg
+#facs_324_r1l4 Landtshut, Thorberg
+#facs_324_r1l5 Burgdorf, Aarberg
+#facs_324_r1l6 Commisferg und Durchl.
+#facs_324_r1l7 in diese Ämter allen
+#facs_324_r1l8 Aus die zwey ünde
+#facs_324_r1l9 strichenen Linien
+#facs_324_r1l10 beyzustezen.
+#facs_324_r2l1 Das alles dasjenige, so nach Abzug der Ordinarii,
+#facs_260_r2l1 und Quasi-Ordinarii ausgaben, wie auch deßen
+#facs_324_r2l3 Eüer Contingent auf dem restierenden betragenma¬
+#facs_324_r2l4 und nach vorläufiger Ergänzung des bestimten
+#facs_324_r2l5 Obrigkeitlichen Vorrahts noch vorschießen mag,
+#facs_324_r2l6 von denen in fernhigen Jahr auf Martinj ein¬
+#facs_324_r2l7 gegangen seyn sollenden Obrigbeitlichen Winter
+#facs_324_r2l8 Früchten sich vorfinden wird, abgestoßen, und best
+#facs_324_r2l9 möglich versilberet werden solle; In dem Ver¬
+#facs_324_r2l10 stand jedennoch, daß
+#facs_324_r2l11 1° Der Roggen und die Gersten unter nach ver¬
+#facs_324_r2l12 melten Praecactionen von nun an Völlig, von den
+#facs_324_r2l13 Dickel aber bis zu der Ernd-Zeit an jeden Orts
+#facs_324_r2l14 nur die Helffte, und nachbarts erst die andere
+#facs_324_r2l15 helffte Verkaufft werde, und
+#facs_324_r2l16 2o Bey Abstoßung des samtlichen Winter¬
+#facs_325_r2l21 gewächses, die gewöhnlichen Vorsorgen genommen,
+#facs_324_r2l18 mithin das Versillerende nur zu kleinen Käuße
+#facs_324_r2l19 hingegeben, und vorzüglich nur die meinst Behält¬
+#facs_324_r2l20 lichste Frucht abgestoßen werde, zu welchem Ende
+#facs_26_region_1628255630581_331l13 Wir Eingangs vermelt Unseren Fürgeliebten
+#facs_26_region_1628255630581_331l14 Mit Rähten denen Herren Teutsch Sebelmeister
+#facs_324_r2l23 und venneren überlaßen, euch nöhtig finden
+#facs_324_r2l24 falls, die Schückenen zu benaufen, welche
+#facs_71_r4l12 sollen
+#facs_324_r4l1 639.
+#facs_324_r4l2 Anweisung Ihr demenach befolgen, ausbleibenden
+#facs_324_r4l3 fahls aber, das meinst behaltlichste Getreid, so in Eüe¬
+#facs_324_r4l4 ren gesamten Kornhaüferen enthalten, verbauffen
+#facs_324_r4l5 werdet; deßen Ihr berichtet werdet mit Befelch¬
+#facs_324_r4l6 Euch demenach zu verhalten, da übrigens Ihr uns
+#facs_324_r4l7 über das erlösende seines Orts Rechnung tragen
+#facs_324_r4l8 werdet. Dat. den 31 tn May 1776.
+#facs_24_region_1628255397587_277l11 en

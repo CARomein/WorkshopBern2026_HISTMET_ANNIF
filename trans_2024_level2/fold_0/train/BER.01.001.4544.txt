@@ -1,0 +1,1198 @@
+Law nr: BER.01.001.4544
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 1186/1186
+# High similarity (>=80%): 981
+# Low similarity (<80%): 205
+# Not found: 0
+#
+#facs_74_r4l7 alle T: Herren Amtleut
+#facs_117_r3l3 4. Städt, Freyweibel und Amann
+#facs_74_r4l9 Ihnen die neue Jäger Ordnung
+#facs_74_r4l10 übersenden.
+#facs_273_r3l15 Schultheis Räth und Burger
+#facs_74_r4l12 haben gut befunden, Unsere in Ao.
+#facs_74_r4l13 1778. für Unsere deutsche Lande
+#facs_74_r4l14 gemachte Jäger Ordnung revidieren¬
+#facs_74_r4l15 und in eint- und anderen Stellen abzu¬
+#facs_74_r4l16 änderen = zumahl an derselben Platz
+#facs_74_r4l17 eine neue Jäger Ordnung zum Druck
+#facs_44_r4l21 beförderen zu laßen. Hievon über¬
+#facs_74_r4l19 Euch davon eine hinlängliche Anzahl
+#facs_74_r4l20 doppel, mit dem dazu gehörigen Anhang,
+#facs_74_r4l21 ansehens die Feld und Rebhüner, denn
+#facs_74_r4l22 die vermehrten Jagdbähne, mit dem
+#facs_74_r4l23 Befelch, solche in eines jeden Wissen¬
+#facs_75_r1l1 142
+#facs_28_r4l1 Coll
+#facs_75_r3l1 Wissenschafft und Verhalt öfentlich ver¬
+#facs_75_r3l2 lesen, und seines behörigen Orts in die
+#facs_75_r3l3 Schloß Bücheren nachrichtlich einschreiben
+#facs_75_r3l4 zu laßen, dabey dann Hans obzuhalten
+#facs_75_r3l5 daß so wohl dieser neuen Jäger
+#facs_75_r3l6 Ordnung als derselben Anhang von
+#facs_75_r3l7 mänglich durchaus nachgelebt werde,
+#facs_75_r3l8 und solche auch Euerseits sorgfältig
+#facs_75_r3l9 zu beobachten. Dat. d. 11. Hornung
+#facs_93_r1l1 178
+#facs_75_r3l11 Neue Jäger Ordnung
+#facs_212_r2l17 Wir Schultheiß klein und
+#facs_75_r3l13 Räthe der Stadt und Republib Bern,
+#facs_75_r3l14 entlieten allen Unsern lieben uns ge¬
+#facs_75_r3l15 treuen Bürgeren und Ungehörigen zu
+#facs_75_r3l16 Stadt und Land, Ansteren gnädigen und
+#facs_75_r3l17 wohlgeneigten Willen, und geben ihnen
+#facs_75_r3l18 dabey zu vernehmen.
+#facs_75_r3l19 daß Wir gut befunden, Unsere
+#facs_75_r3l20 in Ao. 1778. in Druk ausgegebene
+#facs_75_r3l21 Lager Ordnung überschauen zu laßen,
+#facs_75_r3l22 und in Aufhebung derselben, für Unser
+#facs_8_r9l1 11
+#facs_75_r4l2 deutsche Lande gegenwärtige neue Jäger
+#facs_75_r4l3 Ordnung gemacht, dadurch den ange¬
+#facs_75_r4l4 sehen und geordnet, was von einem
+#facs_75_r4l5 Punkt zu dem anderen folget
+#facs_75_r4l6 Donn und Feiertage
+#facs_75_r4l7 Allerkorderst soll mänglich verboden.
+#facs_75_r4l8 seyn, an Sonn und begertagen zu jagen,
+#facs_75_r4l9 auf was Weise es immer seyn mag,
+#facs_75_r4l10 bey Straf sehen Pfund Buß von jedem
+#facs_75_r4l11 Wiederhandlenden zu beziehen.
+#facs_75_r4l12 Beschloßene Zeit
+#facs_75_r4l13 Die beschloßene und verboßene Zeit für
+#facs_75_r4l14 jagen, und dem Beflügel und Gebils
+#facs_75_r4l15 nachzustellen, soll järlich mit dem
+#facs_75_r4l16 ersten Tag Jänners ihren Anfang nommen,
+#facs_75_r4l17 und anhaltend fortdauren bis auf den
+#facs_75_r4l18 zweyten Montag im Herbstmonat,
+#facs_75_r4l19 ne soll sich auch auf alles Gewils
+#facs_75_r4l20 gleich besehen, und die Schuepfen ins
+#facs_75_r4l21 besonders namentlich darunter mit begriffen
+#facs_75_r4l22 seyn, also daß außer den eißenden
+#facs_75_r4l23 Thieren, während dieser Zeit, alles
+#facs_10_r1l1 14
+#facs_76_r2l1 Gewild und Geflügel, wie es immer
+#facs_76_r2l2 Namen haben mag, gefristet seyn
+#facs_76_r2l3 und verschont bleiben soll, bey Strafe
+#facs_80_r3l11 der Confiskation oder dem Werth des
+#facs_76_r2l5 anderen Jägerinstrumenten, und hundert
+#facs_76_r2l6 Pfunden Ruß von jedem Hochgebild, und
+#facs_76_r2l7 sehen Pfund von jedem kleinen Stuk
+#facs_76_r2l8 bin nicht weniger auch unter gleichen
+#facs_75_r4l10 bey Straf sehen Pfund Buß von jedem
+#facs_76_r2l10 Da einer auf die Tage gienge, ob er
+#facs_76_r2l11 gleich nichts bekäme.
+#facs_76_r2l12 Ausnahm für das Logelschießen
+#facs_76_r2l13 das Vögelschießen aber unter den
+#facs_76_r2l14 Kirschbäumen uns sonsten soll /: mit
+#facs_76_r2l15 Ausnahm der Dingvögel in den Tann
+#facs_76_r2l16 um die Stadt herum und im ganzen
+#facs_76_r2l17 Stadtbezirk¬ jeder Jahr bereits vom
+#facs_76_r2l18 20: Heumonat hinbey, erlaubt seyn
+#facs_76_r2l19 doch nur in sofern, als man sich
+#facs_76_r2l20 déley (bis zu der gewohnten Jag
+#facs_76_r2l21 seit. / keines Hunds bedienen, noch der
+#facs_76_r2l22 mit sich fuhren wird.
+#facs_76_r3l1 145
+#facs_256_r3l6 J. A.
+#facs_76_r3l3 Im Verbort und Bann sind, in den
+#facs_76_r3l4 Landgrichten: der Burnigel, die ganze
+#facs_76_r3l5 Bibellegg, den Schrafhebel, das Stieren¬
+#facs_76_r3l6 hölzli und die Stienenweis, den Watten¬
+#facs_76_r3l7 Oylbald, die Blumensteinhölzer, der
+#facs_76_r3l8 Schwarzenberg und Schönenboden, denne
+#facs_76_r3l9 die Neunenen und Wirthneren, bis
+#facs_76_r3l10 an die Flühe, die sämtlichen Wettenkyl¬
+#facs_76_r3l11 hölzer und die Linegg, alles mit Im¬
+#facs_76_r3l12 begriff der darein eingeschloßenen Güter
+#facs_76_r3l13 und Weiden.
+#facs_76_r3l14 In dem Amt Schenbenberg, soll im
+#facs_76_r3l15 Verboct und Bonnseyn, der Hohn- und
+#facs_76_r3l16 Beißberg, der Büzberg und die Weiter
+#facs_76_r3l17 hälden, wie auch der Brenigarten,
+#facs_76_r3l18 /: dennoch mit Vorbehalt der dasigen Amt¬
+#facs_76_r3l19 leuten) also daß Niemand einig Geloll
+#facs_76_r3l20 darin jagen, noch demselben, wann es schon
+#facs_76_r3l21 an anderen Orten aufgetrieben, in diesen
+#facs_76_r3l22 Wälderen nachsezen, ja auch nur kein
+#facs_76_r3l23 Gewehr darin tragen solle, bey fünf und
+#facs_76_r3l24 kranzig Pfundenbuß, so oft deme Eid¬
+#facs_76_r3l25 wieder gefandlet würde, wie auch bey
+#facs_77_r1l1 146
+#facs_77_r2l1 Confitbation der Bewehren, Barnen und
+#facs_77_r2l2 anderen Jäger Instrumenten. Welcher aber
+#facs_77_r2l3 in diesen verbostenen Wälderen, wirklich ein
+#facs_77_r2l4 Hochgebild schießen oder fällen würde, der¬
+#facs_77_r2l5 selbe soll eine mehrere Straf, als nur
+#facs_77_r2l6 auf das Jagen, wie obvermelt gesezt
+#facs_77_r2l7 ist, auf sich gezogen haben, und neben
+#facs_77_r2l8 Confickation der Jäger Instrumenten um
+#facs_77_r2l9 hundert Pfund Pfennig verfallen seyn.
+#facs_77_r2l10 und welcher die Geldstraf nicht vermochte,
+#facs_77_r2l11 derselbe soll, wenn es ein Bürger, durch
+#facs_77_r2l12 Unseren Gerichtschreiber gefergget — und vor
+#facs_77_r2l13 das Bürgeren Zahl hinaus gewiesen,
+#facs_77_r2l14 oder wenn es ein Landmann, mit Leistung,
+#facs_77_r2l15 Gefangenschaft, oder in andere Wege,
+#facs_77_r2l16 nach gestalten Dingen angesehen werden.
+#facs_124_r5l41 r
+#facs_77_r2l18 Jedermäniglich, auch unseren Amtleuten und
+#facs_77_r2l19 Tlingherren, soll verbotten seyn, in
+#facs_77_r2l20 Unserem Stadtgericht uns den vier Land¬
+#facs_77_r2l21 gerichten einig Reh zu fällen, bey hundert
+#facs_77_r2l22 Pfunden Tuß, von jedem Stub.
+#facs_11_r2l1 41
+#facs_77_r3l2 Fallen, Letschen, Laüer
+#facs_77_r3l3 Auch zu denen Zeiten und an denen
+#facs_77_r3l4 Orten, da sonst dem Gewils nachzusezen,
+#facs_77_r3l5 zugelaßen ist, soll, mit Ausnahm der
+#facs_77_r3l6 Rögel, verbocken seyn, den Haafen und
+#facs_77_r3l7 anderem groß und kleinen Gebils, fallen
+#facs_77_r3l8 und Letzschen zu richten, oder auf der Lauer
+#facs_77_r3l9 nachzustellen, bey fünfzig Pfunden Buß
+#facs_77_r3l10 so oft einer dieß Verbock übertreffen
+#facs_77_r3l11 wurde, welcher aber dem Gewild mit
+#facs_77_r3l12 Genhors fallen zu richten, sich unterstehen
+#facs_77_r3l13 thäte, der soll, je nach sich erzeigenden
+#facs_77_r3l14 Umständen, mit härterer, ja gar mit
+#facs_77_r3l15 leibet strafe angesehen werden.
+#facs_77_r3l16 Wegen dem verwilligten Letschensteken,
+#facs_77_r3l17 für die Stögel, aber hat es den Ker¬
+#facs_77_r3l18 stand, daß solches nur in der ofenen Jegen¬
+#facs_77_r3l19 Zeit erlaubt, hingegen aber diejenigen so
+#facs_77_r3l20 dergleichen kögelletischen gestekt haben, dahin
+#facs_77_r3l21 gehalten seyn sollen, solche nach dem
+#facs_22_region_1633454545044_2889l8 schiedenen Städten der vereinigten Nieder¬
+#facs_77_r3l23 anrubet, wieder aufzuziehen, und abzuschaffen
+#facs_77_r3l24 bey sehen Pfundenruß von jedem
+#facs_77_r3l25 Wiederhandlenden zu erheben.
+#facs_78_r1l1 148
+#facs_78_r1l2 Haase, und fünff.
+#facs_78_r1l3 Pfund vor jeden
+#facs_125_r2l17 An dem Zehnden zu Chatel
+#facs_78_r2l2 Junge Haasten oder jungenögel aus den
+#facs_78_r2l3 Nesteren auszunehmen, soll bey unaus¬
+#facs_78_r2l4 bleiblicher Straf von zehen Pfuns von
+#facs_78_r2l5 jedem Vogelnest, verboden seyn; dennoch
+#facs_78_r2l6 bleiben von diesem Verbock fernerhin ausge¬
+#facs_78_r2l7 genommen, die Kinderstärren, dulen, Stechbögel
+#facs_78_r2l8 deme die Agersten, Krayen, Gugger, Stazen,
+#facs_86_r4l24 und dergleichen schädliche Thiere.
+#facs_78_r2l10 Achäbliche und reisende Viere.
+#facs_78_r2l11 Was dan die nhädlichen uns reißende Thiere
+#facs_78_r2l12 anbelangt, als Bären, Wölfe Luchs, Cilde¬
+#facs_78_r2l13 Schbein und Dachsen mögen dieselben zu
+#facs_78_r2l14 jeden Zeit und an allen Orten gefangen,
+#facs_78_r2l15 oder gefällt werden. Wenn aber derent¬
+#facs_78_r2l16 halben allgemeine Jagden von zunehmen nötig
+#facs_78_r2l17 wären, so soll dafür des Richters Be¬
+#facs_78_r2l18 willigung anbegehrt werden.
+#facs_78_r2l19 Weine und wie das Jagen erlaubt.
+#facs_3_region_1627936339514_16l1 1
+#facs_78_r2l21 meine solches hingegen verbotten seye.
+#facs_78_r2l22 Unseren Amtlenten gestatten Wir fernersin
+#facs_3_region_1627936339514_16l1 1
+#facs_78_r3l2 die Jagd in ihren Uemteren uns Berichts
+#facs_78_r3l3 barkeiten, jedoch daß sie solche mit der
+#facs_78_r3l4 erforderlichen Bescheidenheit gebrauchen,
+#facs_78_r3l5 und nicht auf Bekin oder Verkauf hin¬
+#facs_78_r3l6 jagen oder jagen laßen.
+#facs_78_r3l7 Ihnen aber soll die Jagd in den im
+#facs_78_r3l8 Bann liegenden Waldungen und Bezirben
+#facs_78_r3l9 wie maniglich, bey der darauf gesezten
+#facs_78_r3l10 Buß verbocken seyn. Desgleichen soll
+#facs_78_r3l11 ihnen auch in alle Weg hochobrigkeitlich ab-
+#facs_78_r3l12 gestelt und verbodten seyn, die Jags hin¬
+#facs_78_r3l13 zuleihen, oder jemanden Patenten, schrifft-
+#facs_78_r3l14 der mündliche Bewilligungen zum jagen
+#facs_78_r3l15 zu geben, viel weniger aber den Fürbäußern
+#facs_78_r3l16 des Bewilds einige Patenten oder Bewilligung
+#facs_78_r3l17 zu ertheillen, damit einzig in ihren Ämter¬
+#facs_78_r3l18 und Berichtsbarkeiten, Gewerb zu treiben.
+#facs_78_r3l19 Wobey auch die Tlingherren sich dieser
+#facs_135_r2l19 den Pfeileren geschehen solle.
+#facs_78_r3l21 sollen; jedoch ohne Nachtheil ihrer etba
+#facs_78_r3l22 habenden Berechtigkeiten
+#facs_196_r4l22 belegen berdet.
+#facs_354_r2l25 Unserer lieben und getreuen
+#facs_59_r2l23 die einte: nemlich die, so mit Thoren
+#facs_79_r1l1 50
+#facs_79_r2l1 und Feder Gebinds in das Recht in offener
+#facs_79_r2l2 Zeit zu gegen; Ihnen aber ist verbotten
+#facs_79_r2l3 weder bekehrte Landleute mit auf die Züge
+#facs_79_r2l4 zu nemen, noch ohne ihre persöhnliche Gegen¬
+#facs_79_r2l5 wart, ihre Knechte auf die Jage zu
+#facs_79_r2l6 achiken, leidet bey sehen Pfund Busch
+#facs_79_r2l7 und Confirmation der Bewehren und
+#facs_79_r2l8 anderen Jäger Instrumenten.
+#facs_79_r2l9 Am gieswie Unsere verordnete Jäg¬
+#facs_79_r2l10 kommen beydealtiget ist, jenige Burgen
+#facs_79_r2l11 welche in offener Zeit die Jags mißbrauchen
+#facs_79_r2l12 bürden einzundränken, oder so gar ihnen
+#facs_79_r2l13 das Jagen gänzlich abzustellen; also
+#facs_79_r2l14 urtheillen Wir ermelt Unserer verordneten
+#facs_79_r2l15 Jägerkammer hiemit auch die Bebalt den
+#facs_79_r2l16 jenigen Unserer Bürgeren, die sich bey
+#facs_79_r2l17 Ihra um die Bewilligung anmelden möchten,
+#facs_79_r2l18 außer den Bännern
+#facs_79_r2l19 einige Stüle Hoch-Roth- oder Feder ge¬
+#facs_79_r2l20 bildt zu jagen, solche Bewilligung
+#facs_79_r2l21 ihnen zu ertheillen.
+#facs_79_r2l22 Unterthanen
+#facs_79_r2l23 Alten Unseren Unterthanen /: ausgenommen
+#facs_79_r2l24 denenjenigen, die bis anhero einiges Jagdracht
+#facs_79_r2l25 beseßen haben möchten, und die dahero
+#facs_60_r1l1 112.
+#facs_79_r3l2 1784. c: 200.
+#facs_79_r3l3 Walderet worden,
+#facs_28_r5l1 51
+#facs_79_r4l2 bey ihren Rechten gelaßen werden:
+#facs_79_r4l3 verbiethen Wir alles Jagen und Fahen
+#facs_79_r4l4 des Gewilds und der Vögel, bey Zehen
+#facs_79_r4l5 Pfund Buß, und Confisbation der Gelehre
+#facs_79_r4l6 und Jäger Instrumenten, so oft einer
+#facs_79_r4l7 Jagens angetroffen würde, und je nach be¬
+#facs_79_r4l8 schaffenen Umständen nach der in hienach
+#facs_79_r4l9 bestimmen Fällen erhöheten Buß
+#facs_79_r4l10 Außer denen von Unseren Amtleuten
+#facs_79_r4l11 für ihren Hausgebrauch bestelten Jägern
+#facs_79_r4l12 3 Unseren Unterthanen auch verbodten,
+#facs_79_r4l13 einige Jagdhunde, weder für sich noch
+#facs_79_r4l14 andere zu halten, bey Straf jehen
+#facs_79_r4l15 Pfund Tuß
+#facs_79_r4l16 Unseren getreuen lieben Eidgnoßen, Mit-
+#facs_72_r3l2 Gemeinden befinden, die diesen Name
+#facs_79_r4l18 und Solothurn Burgeren, gebührt gleich
+#facs_182_r3l20 sehen keine fremden Güte mehr
+#facs_79_r4l20 im Tann liegenden Waldungen und Behiebs
+#facs_281_r3l4 Zugleich ersucht solches in Unseren
+#facs_32_r5l4 Geist in der Wahl eine
+#facs_79_r4l23 zu jagen, jedoch mit dem Unterscheid,
+#facs_360_r3l13 und die des nahen entstehenden
+#facs_327_r5l5 storgen berdet Ihr diese Ordnung
+#facs_80_r1l1 152
+#facs_80_r2l1 nicht nur unter denen in dieser Ordnung
+#facs_80_r2l2 bestimten Bußen liegen; sondern so wohl
+#facs_368_r3l15 Unserer verordneten Korn kammer
+#facs_80_r2l4 Unseren Amtleuten überlaßen ist, kraft
+#facs_80_r2l5 Gegenrechtent, die Fehlbaren in alle Weg
+#facs_80_r2l6 so anzusehen und zu halten, wie die
+#facs_80_r2l7 Unstrigen in gleichen Fall heiter diesen
+#facs_80_r2l8 beiden lobl. Ständen bürden angesehen und
+#facs_80_r2l9 gehalten werden.
+#facs_80_r2l10 ällen übrigen fremden sollzu allen
+#facs_80_r2l11 Zeiten uns an allen Orten bey funfzig
+#facs_80_r2l12 Pfund Buß aller Jagen, und dem Gewils
+#facs_80_r2l13 und Beflügel nachzustellen, auf was Art
+#facs_80_r2l14 und Weis, es immer geschehen mag verbotten,
+#facs_80_r2l15 seyn.
+#facs_80_r2l16 Ein jeder, deßen Haus in der verbotten
+#facs_80_r2l17 Zeit jagend angetroffen wird, soll um
+#facs_80_r2l18 Sechs Pfund Bus verfallen seyn.
+#facs_80_r2l20 Verbott der Entäußerung des Bewildt,
+#facs_80_r2l21 mit der Anversung, bo blises in der
+#facs_80_r2l22 Stadt feil gesalten werden soll.
+#facs_80_r2l23 Damit aber hiesige Burgerschaft das
+#facs_80_r2l24 Gewild mit aller Kommlichkeit, und in einem
+#facs_80_r3l2 leidentlichen Preis erhandlen könne, auch
+#facs_80_r3l3 wegen deßelben Mangel zu klagen nicht
+#facs_80_r3l4 Anlaß gegeben werde, wollen Wir nimmt
+#facs_80_r3l5 das ernstliche Einsehen dahin vorgekehrt,
+#facs_80_r3l6 haben.
+#facs_80_r3l7 A. Soll maniglich verbocken seyn, einiger
+#facs_80_r3l8 Gelbild, wie das Nahmen haben mag,
+#facs_80_r3l9 außer Unserer Bockmäßigkeit zu ver¬
+#facs_80_r3l10 handlen oder zu verkaufen, bey Straf
+#facs_80_r3l11 der Confiskation oder dem Werth des
+#facs_80_r3l12 Gebilds, und zehen Pfund Buß von jeglichen
+#facs_80_r3l13 Stük so veräußert wird. Uns vorbehaltende,
+#facs_80_r3l14 wegen Veräußerung des Hoch- und Roth¬
+#facs_80_r3l15 gebilds eine mehrere angemeßene Strafe zu
+#facs_80_r3l16 bestimmen.
+#facs_59_r2l11 stände gesehen werde.
+#facs_80_r3l18 denen Jagdzeit und nicht an verbotenen
+#facs_166_r4l5 Patentes, dont il est fait mention dans
+#facs_80_r3l20 verborgen, in hiesige Hauptstadt gebracht,
+#facs_80_r3l21 und an der Antenhagen, als dem dazu allein
+#facs_80_r3l22 bestimmen Ont, öfentlich feil gehalten, und
+#facs_80_r3l23 damit allerdings kein Fürkauf getrieben werden
+#facs_190_r4l14 halten, (an die deutschen Herren
+#facs_80_r3l25 Gastgeben, auch keineswegs erlaubt seyn soll,
+#facs_272_r3l7 15, 1,
+#facs_81_r2l1 das Geleihe heimlich zu versprechen, oder
+#facs_81_r2l2 zu bestellen, vor den Thoren oder bey
+#facs_81_r2l3 deßen Einbringung in die Stadt zu berufen
+#facs_81_r2l4 oder zu verkaufen, bey Straf der Confiscation
+#facs_81_r2l5 des Gebilds oder dem Werth deßelben,
+#facs_81_r2l6 als vorüber die genießene Aufsicht zu halten.
+#facs_81_r2l7 und die fehlbahren zu gebührender Straf
+#facs_81_r2l8 zu ziehen, kraft fürkauf Ordnung vom
+#facs_81_r2l9 4. July 1747. Ansterer verordneten Polizey
+#facs_81_r2l10 kamer obliegen thut.
+#facs_81_r2l11 Der Jägerkammer Bewalt und
+#facs_81_r2l12 Instruktion
+#facs_81_r2l13 damit aber gegenwärtige Unsere neue
+#facs_81_r2l14 Jäger Ordnung, auch in allen ihren übrigen
+#facs_81_r2l15 theilen, in sämtlichen Unsern deutschen Landen
+#facs_81_r2l16 vollzogen werde, so haben Wir Unsene
+#facs_81_r2l17 Verordnete Jägerkammer hiezu mit dem
+#facs_81_r2l18 erforderlichen Ansehen und Gebalt versehen,
+#facs_81_r2l19 in dem vollkommenen Zutrauen, daß dieselbe
+#facs_81_r2l20 zu dem End alle nöthige Veranstaltungen
+#facs_81_r2l21 wie nicht Coninger auch die Abstrefung
+#facs_81_r2l22 derfehlbahren, und was sonsten zu Aufnung
+#facs_81_r2l23 der Jags dienlich seyn wird, sich bestens
+#facs_80_r3l1 153
+#facs_81_r3l2 werde angelegen seyn lassen, vorzu¬
+#facs_81_r3l3 kehren: Wobey Wir aber sie, die
+#facs_81_r3l4 Kammer selbst, hiemit auch in besondere
+#facs_81_r3l5 dahin eingeziehlt haben wollen, daß sie in
+#facs_81_r3l6 denen izt oder in Zukonft, für je und
+#facs_81_r3l7 alle Zeit, oder nur einige bestimte Jahre
+#facs_81_r3l8 in Verbot gelegten Waldungen oder Be¬
+#facs_81_r3l9 hirken, kein Stuk Hochgebild zu füllen habe,
+#facs_81_r3l10 sollen, aders als aus Befehl Unsers täglichen
+#facs_81_r3l11 Raths oder eines jewesenden Ehrenhaupts
+#facs_81_r3l12 und regierenden Herren Schultheißen, als
+#facs_81_r3l13 henen solches mit Moderation, doch anders
+#facs_81_r3l14 nicht, als unter Veranstaltung Unserer
+#facs_81_r3l15 erordneten Jägerkammer zu bebilligen.
+#facs_81_r3l16 Aberlaßen wird.
+#facs_81_r3l17 OberAuffreht der Amtleute
+#facs_81_r3l18 Aller Orten aber in Unseren deutschen
+#facs_81_r3l19 Londen, so seit die Ämter sich instreben
+#facs_81_r3l20 vollen wir die OberAufsicht denen jedesenden
+#facs_81_r3l21 oben Amtleuten in ihren Amteren, nach
+#facs_81_r3l22 Inhalt dieser Ordnung überlaßen haben,
+#facs_335_r2l5 welcher Art und unter welchem
+#facs_81_r3l24 daß sie sich dem Inhalt derselben selbst
+#facs_82_r1l1 156.
+#facs_82_r2l1 unterziehen. Falls aber etwas beideiges
+#facs_82_r2l2 ich eräugnen solte, soll Unserer verordnete
+#facs_82_r2l3 Jägerkammer obgelegen und anmit befelchlich
+#facs_82_r2l4 eingeschärft seyn, darauf fleißige Acht zu
+#facs_82_r2l5 halten, und auf hinlänglich erhaltenen Berichts
+#facs_82_r2l6 dergleichen fehlbahren Amtleute Unserem
+#facs_82_r2l7 täglichen Rath zu verleiden.
+#facs_82_r2l8 Entdetung der Sehlbahren
+#facs_82_r2l9 Und damit die Fehlbahren desto ehender
+#facs_82_r2l10 entdebt werden, soll Unsere verordnete
+#facs_82_r2l11 Jägerkammer, so wie auch Unsere Amtleuten
+#facs_82_r2l12 jede in denen ihnen zugehörigen Distribten
+#facs_82_r2l13 beeidigte Aufsehen bestellen, die genaue
+#facs_82_r2l14 Aufsicht über die ihnen anbefohlene Bezieke
+#facs_82_r2l15 haben, und die Übertreckern bey ihren
+#facs_82_r2l16 Eiden, ohne einiges Ansehen der Persohn
+#facs_82_r2l17 verleiden; der Meinung daß denenselbe
+#facs_82_r2l18 als dann ohne fernere Beweiß thum, völligen
+#facs_82_r2l19 Glauben beygemessen, und zu dem End die
+#facs_82_r2l20 Beklagten auf der Kammer Citation hin-
+#facs_82_r2l21 allwegen zu gebührender Ernheinung, von
+#facs_82_r2l22 Unseren Amtleüten angehalten werden sollen,
+#facs_82_r2l23 falls aber der eint- oder andere durch
+#facs_82_r3l1 157
+#facs_82_r3l2 andere alt dazu bestelte beeidigte Persohn¬
+#facs_82_r3l3 der Kammer verleidet wurde, wieder diese
+#facs_82_r3l4 Ordnung gehandlet zu haben, der Be¬
+#facs_82_r3l5 „blagte aber der Klag nicht bekantlich
+#facs_82_r3l6 gemacht werden könte, so soll Ansere
+#facs_82_r3l7 bestelte Jägerkammer Gebalt und Befehl habe.
+#facs_82_r3l8 nach vorläufigen sorgfältigen Erwägung der
+#facs_82_r3l9 Persohn des Verleiders und des Beklagts
+#facs_82_r3l10 besonders aber ob dieselben gegen einander
+#facs_82_r3l11 in Feindschaff gestanden, wie auch, was für
+#facs_82_r3l12 Zeichen und Umstände der Beklagten
+#facs_82_r3l13 Überzeugung vorhanden, noch bewandt
+#facs_82_r3l14 findenden Umständen, gegen einen solchen
+#facs_82_r3l15 Beklagten zu verfahren.
+#facs_82_r3l16 Es sollen auch in denen Stadt- und Land¬
+#facs_82_r3l17 grichten, die Oberamtleute in ihren Ämtern
+#facs_82_r3l18 und die Amau und freyleibel in ihren
+#facs_82_r3l19 Kazieben, denen Tambarten zu Verrichtung
+#facs_82_r3l20 ihrer Pflicht amtliche Hand bieten, und die
+#facs_82_r3l21 Forsthüter und Baubarten eines jeden
+#facs_82_r3l22 Waldt, bey ihren geschwornen Eiden schuldig
+#facs_82_r3l23 und verbunden seyn, auf die frefler zu
+#facs_82_r3l24 achten, und dieselben ohne Dihonen dem
+#facs_82_r3l25 Richter der Orts zu verleiden.
+#facs_83_r1l1 158
+#facs_83_r2l2 Buken
+#facs_83_r2l3 Was dann die fallenden Bußen anbelangt.
+#facs_83_r2l4 wollen wir zu mehrerer Vollziehung
+#facs_83_r2l5 dieser Ordnung, daß so viel es Umstern
+#facs_83_r2l6 Jägerkammer uns Anstere Amtleute betreffen
+#facs_83_r2l7 thut, solche ihnen einzig, und ohne daß sie
+#facs_83_r2l8 Aus etwas davon zu verrechnen haben,
+#facs_83_r2l9 zukommen sollen, mit dem Vorbehalt jedemach¬
+#facs_83_r2l10 daß sie von solchen den Verleideren im
+#facs_83_r2l11 Aufseheren zu ihrer mehreren Anfrischung,
+#facs_83_r2l12 je nach den Umständen, bis auf den
+#facs_83_r2l13 halben Theil angedeyen laßen.
+#facs_83_r2l14 Das confirbierte Hoch= und Noth¬
+#facs_83_r2l15 Gewils dann, soll Unserem jeweiligen
+#facs_83_r2l16 Ehrenhaupt dem regierenden Herren Schult
+#facs_83_r2l17 heißen /: welchem auch wie von ältern
+#facs_83_r2l18 her der Hochflug verbleibt :/ gebühren,
+#facs_83_r2l19 das Kleingebils samt den Jägerinstammenten
+#facs_83_r2l20 aber Unserer verordneten Jägerkamer
+#facs_83_r2l21 heimdienen.
+#facs_83_r2l22 Unsere Hofnung gehet aber dahin,
+#facs_83_r2l23 daß maniglich durch schuldige Verbachtung
+#facs_83_r2l24 dieser Unserer Verordnung, denen darin
+#facs_83_r2l25 bestimten Straffen vorzukommen, sich
+#facs_80_r1l1 152
+#facs_83_r3l2 befleißigen werde. Beben in Unserer
+#facs_83_r3l3 großen RathsVerständung den 4. und 11.
+#facs_313_r3l9 Hornung 1787.
+#facs_47_r3l5 Lanzley Bern.
+#facs_3_region_1627936336835_13l2 der
+#facs_83_r3l7 bestelten Aufseheren Frid.
+#facs_83_r3l8 den auch die Baubarten nur forstuer
+#facs_83_r3l9 Ordnung
+#facs_83_r3l10 der in der Jäger, ausgedrukten
+#facs_83_r3l11 Hölzeren schwören sollen.
+#facs_83_r3l12 Schwören dieselben, die ihnen anbefohlene
+#facs_83_r3l13 Aufsicht besten Fleisses zu verrichten.
+#facs_83_r3l14 die Übertreckern, wo immer möglich zu
+#facs_83_r3l15 entdeben, und selbige ohne Ansehen der
+#facs_274_r2l9 ohne Schonen mit der oben bestimten
+#facs_83_r3l17 Anhang
+#facs_83_r3l18 Èu der neuen Jäger Ordnung
+#facs_83_r3l19 Berbott
+#facs_83_r3l20 die Feld- und Rebsurer ansehend
+#facs_83_r3l21 Mäniglich soll von der öfentlichen Ver¬
+#facs_132_r3l10 nicht eingeben
+#facs_84_r1l1 160
+#facs_84_r2l1 ganze Ipla lang verboten seyn, einig
+#facs_84_r2l2 Neb= oder Feldhun weder zu schießen,
+#facs_84_r2l3 noch zu fahen, auf was Art und Weise
+#facs_84_r2l4 es immer seyn möchte, bey zwanzig Pfin¬
+#facs_84_r2l5 Buß, von jedem gefangenen oder ge-
+#facs_84_r2l6 schoßenen Stub, und von jedem gestikten
+#facs_84_r2l7 Letzsch; dieses Verboet dann soll die Herren
+#facs_84_r2l8 Amtläute und Tlingherren, so wie alle übrige
+#facs_84_r2l9 einheimsche und fremde Persohnen gleich angehen,
+#facs_84_r2l10 und nach ausgelöstenem obvermeltem Termin
+#facs_84_r2l11 der Recht Jahren ohne anders in soleng
+#facs_84_r2l12 in völliger Kaast und Bestand verbleiben,
+#facs_84_r2l13 bis meine Gnädige Heeren und Obere
+#facs_84_r2l14 solches wieder aufzuheben oder deshalb
+#facs_84_r2l15 etwas ferners zu verfügen gut finden.
+#facs_84_r2l16 werden. Geben vor Räth und Bürger
+#facs_84_r2l17 den 11e. Hornung 1784.
+#facs_212_r2l16 Cansley Bern
+#facs_84_r2l19 Lernere Yagdbähte.
+#facs_84_r2l20 La. d. 13ten 7b. 1786 haben denen in der Jäger Ordnung festgesetzt
+#facs_84_r2l13 bis meine Gnädige Heeren und Obere
+#facs_84_r2l22 die Tandbauer in dem für daurenden Jagdbühnen, sollen auf Sechs Jahr
+#facs_84_r2l23 gross und kleinen Brand¬ lang auch im Verbott und Bann seyn
+#facs_84_r2l24 Garten, denn auch im
+#facs_84_r3l1 Stadtzirt oben un
+#facs_74_r4l10 übersenden.
+#facs_197_r7l30 fremder
+#facs_339_r3l15 Schreiben
+#facs_84_r4l1 161
+#facs_84_r4l2 Um die Stadt herum.
+#facs_187_r3l12 beau
+#facs_84_r4l4 der groß und kleine Bremgarten, samt
+#facs_84_r4l5 dem Engesholz, vom oberen Thor an, der
+#facs_84_r4l6 Landstraß nach, bis zu Weyermanthaut,
+#facs_84_r4l7 fernert, bis zum Räbelbach Brüklein, von
+#facs_84_r4l8 da rechts mit Einbeyrist der Eymaten,
+#facs_84_r4l9 an die Aar, und bieder Zurück bis zur
+#facs_84_r4l10 Hauptstadt.
+#facs_84_r4l11 Unter und
+#facs_84_r4l12 Vom untern Thon der Aar nach bis in
+#facs_84_r4l13 len Bodenaken, von da mit Einbegriff
+#facs_84_r4l14 deßelben, wie auch des Mannenrieds un¬
+#facs_84_r4l15 des dästigen Wäldleins, durch welches die
+#facs_84_r4l16 Straß gehet, dieser Straß noch gerade
+#facs_84_r4l17 hinauf, neben der Metlen vorbey, in die
+#facs_84_r4l18 Thunstraße; Weiters bis fast an die
+#facs_84_r4l19 Kirche zu Murx in die Bümlingenstraß,
+#facs_324_r2l14 erachtende zu veranstalten sei;
+#facs_336_r2l22 seines Orts einschreiben lassen.
+#facs_82_r2l8 Entdetung der Sehlbahren
+#facs_101_r5l8 deßen Ihr berichtet
+#facs_245_r2l5 Theilen.
+#facs_84_r4l25 und dieser nach wieder bis zur Hauptstadt.
+#facs_68_r4l39 16.2
+#facs_85_r2l1 In dem Umt Landshut.
+#facs_85_r2l2 Vom Czistorf Schachen der Einen nach
+#facs_85_r2l3 gegen Morgen, bis zur Amtsmarch und
+#facs_85_r2l4 von da gegen Mittag und Abend bis an
+#facs_85_r2l5 das ruzistorf Unterholz. Worin begriffen,
+#facs_85_r2l6 die Wyler und Zislilach Schachen, samt der
+#facs_85_r2l7 Waldung dieser beiden Dorfschaften
+#facs_68_r8l48 Hinter
+#facs_85_r2l9 der Herzogenbührer Einschlag, Pischen
+#facs_85_r2l10 len Herzogenbuchter Felderen, der neuen Land-
+#facs_85_r2l11 straß, dem Amt Anlangen und der Canz¬
+#facs_85_r2l12 Brinter dem Amt Irarwangere.
+#facs_85_r2l13 Die Schmiedtvälder
+#facs_68_r8l48 Hinter
+#facs_85_r2l15 von dem so genanten Krummet an, bis zu
+#facs_85_r2l16 der Straß bey den kleinen Beyeren
+#facs_85_r2l17 so nach Auslangen geht.
+#facs_85_r2l18 Es sollen aber sämtliche, so wohl um
+#facs_85_r2l19 Die Stadt Herum, als in den Amteren
+#facs_85_r2l20 Landthut, Wangen, Analangen und Tipz,
+#facs_85_r2l21 auf sechs Jahre eingezihlte Tänne, in
+#facs_6_region_1627936574015_66l1 6
+#facs_85_r4l2 nicht nur auf die daherige Waldungen,
+#facs_85_r4l3 sondern auch auf dies in diesen Bezirken
+#facs_85_r4l4 gelegene Felder, Weiden und eingefristete
+#facs_85_r4l5 Güter beziehen; diese Bäne sollen
+#facs_85_r4l6 auch mänglich ohne Unterscheid noch Ansehen
+#facs_85_r4l7 der Persohn, und also auch die Herren Amt¬
+#facs_85_r4l8 leute und Tlingherren gleich angehen und
+#facs_85_r4l9 beschlagen, uns übrigens durchaus unter der
+#facs_85_r4l10 gleichen Regel uns Straf liegen, wie der
+#facs_85_r4l11 Artibel des Banus pag. 6. der Jäger¬
+#facs_85_r4l12 Ordnung in mehrerem ausweist.
+#facs_85_r4l13 Nach ausgelaußenen Sechs Jahren dann, sollen
+#facs_85_r4l14 diese Bäume in so lang in völliger Kraft
+#facs_85_r4l15 und bestand bleiben, bis Meghl. und Ober¬
+#facs_85_r4l16 derenthall etwas anders zu verfügen gut
+#facs_85_r4l17 finden werden.
+#facs_85_r4l18 Dingvogel
+#facs_85_r4l19 Der Singrögel halb, erstrekt sich der Bau
+#facs_85_r4l20 auch auf diejenigen Theile des Stadtbe¬
+#facs_85_r4l21 sirbt, die in den Bäuen um die Stadt
+#facs_85_r4l22 herum nicht begriffen sind, und zwar für ein
+#facs_85_r4l23 und alle Zeit, also daß manglich verbodten
+#facs_85_r4l24 seyn soll, in diesen Bezirben Eingrogel zu
+#facs_84_r4l1 161
+#facs_56_r2l1 Colle
+#facs_86_r3l1 schießen, bey sehen Pfund Buß von jedem
+#facs_86_r3l2 vogel. Mit Ausnahm jedoch der Finken
+#facs_86_r3l3 heerden und Lerchenhürten, welche den Bürgern
+#facs_86_r3l4 von Bern Herbstzeit fernershin zu halten.
+#facs_86_r3l5 erlaubt bleiben
+#facs_86_r3l6 Der Stadt Bezirb dann erstrebt sich bis
+#facs_86_r3l7 an die äußeren Gemeinden. Beben vor
+#facs_86_r3l8 Rath und Bürger den 4ten febr. 1784.
+#facs_47_r3l5 Lanzley Bern.
+#facs_31_r5l15 Publication
+#facs_86_r3l11 der neuen Jäger Ordnung
+#facs_86_r3l12 wie solche auf den Kächlen hiesiger
+#facs_86_r3l13 Hauptstadt beschehen.
+#facs_86_r3l14 Es haben McGghhl. gut gefunden, an Platz
+#facs_86_r3l15 der Jäger Ordnung von 1778. eine
+#facs_86_r3l16 neue zu machen, davon der Haupt
+#facs_86_r3l17 Innhalt dahin gehet.
+#facs_86_r3l18 Daß an Sonn und feyertagen mängliche
+#facs_86_r3l19 alles Jagen verbodten ist.
+#facs_86_r3l20 daß die beschloßene Zeit vom ersten
+#facs_86_r3l21 Jenner bis auf den zweyten Montag im
+#facs_86_r3l22 Herbstmonat fest gesezt bleibt mit
+#facs_4_r4l1 3.
+#facs_86_r4l2 Ausnahm jedennoch des vögelschießens,
+#facs_86_r4l3 welches äußert den Bauen uns in dem
+#facs_86_r4l4 Stadt bezirk, bereits von dem 20.
+#facs_86_r4l5 Heumonat an, zu schießen erlaubt
+#facs_86_r4l6 ist, wofern man keine Hunde bey sich hat.
+#facs_86_r4l7 daß die in der alten Jäger Ordnung
+#facs_140_r5l4 in den Landgrichten lieget, auf gewohn¬
+#facs_86_r4l9 Schenkenberg enthaltene Bau bleiben,
+#facs_86_r4l10 mit dem Beysatz: daß solche sich auch
+#facs_86_r4l11 auf die darin eingeschloßene Güter
+#facs_86_r4l12 und Weiden beziehen sollen.
+#facs_86_r4l13 Daß manniglich verboeken bleibt, in den
+#facs_86_r4l14 Stadt und vier Landgerichten einiges Reh
+#facs_86_r4l15 zu Fällen.
+#facs_86_r4l16 daß /: mit Ausnahm der Vögel: 1 ver¬
+#facs_86_r4l17 bodten ist, fallen und Letzten zu stellen,
+#facs_86_r4l18 oder den Haasten und anderem groß und
+#facs_86_r4l19 kleinen Gewils auf der Lauer nachzu¬
+#facs_86_r4l20 stellen- oder Hasen und Vögel auf den
+#facs_78_r2l3 Nesteren auszunehmen, soll bey unaus¬
+#facs_86_r4l22 jedoch der Kinderstorren, Julen, Stechbogel
+#facs_86_r4l23 fene der Ägersten, Kräger, Gugger, Sain¬
+#facs_86_r4l24 und dergleichen schädliche Thiere.
+#facs_86_r4l25 daß darinn das Recht der Tungern
+#facs_68_r4l37 16,6
+#facs_87_r2l1 hiesiger Hauptstadt in der offenen
+#facs_87_r2l2 Zeit /: mit Ausnahm der im Bann
+#facs_87_r2l3 liegenden Bezirken- und alles Hoch-Rath
+#facs_87_r2l4 und Feder Geleildt :/ zu jagen deutlich aus¬
+#facs_87_r2l5 gesetzt, und gleicher Recht auch für die
+#facs_87_r2l6 Burgere, der mit hiesigem Stand verbürgerten
+#facs_87_r2l7 Städten Fryburg und Solothurn anerkent¬
+#facs_87_r2l8 huigegen den Unterthanen = /: ausgenommen
+#facs_87_r2l9 denen die bis anhero einiges Jags Recht
+#facs_87_r2l10 beseßen haben möchten :/ so wie auch allen
+#facs_87_r2l11 fremden die Jags und Hunde zu halten,
+#facs_87_r2l12 gäntlich verbotten, und mänglich abgestrekt
+#facs_87_r2l13 ist, das Gebild zu entäußeren, uns äußert
+#facs_87_r2l14 hiesiger Bokmäßigkeit zu verkauffen,
+#facs_87_r2l15 Alles bey der darinn auf die ver¬
+#facs_87_r2l16 schiedenen Fall gesezten minder- oder
+#facs_87_r2l17 nehren tuß. Actum coram 200 dt
+#facs_88_r3l21 Dath. d. 18 febr. 1784.
+#facs_186_r4l11 betref
+#facs_87_r2l20 den Anhang zu der neuen Jäger Ordnung.
+#facs_87_r2l21 Wodurch verbocken wird, einich Reb- oder
+#facs_87_r2l22 feldhun zu fahen- oder zu schiessen,
+#facs_6_region_1627936574015_66l1 6
+#facs_87_r3l2 wie auch die Singkögel im Stadt
+#facs_87_r3l3 Bezirk zu schießen.
+#facs_87_r3l4 denn noch einige mehrere Jagdbühn
+#facs_87_r3l5 um die Stadt herum, wie auch in der
+#facs_87_r3l6 Ämteren Landshut, Mangen, Aarbauer,
+#facs_87_r3l7 uns Bipp, unter ausgesezter Buß be¬
+#facs_87_r3l8 steint werden.
+#facs_87_r3l9 So ist das mehrere darüber in der
+#facs_87_r3l10 Jäger Ordnung, und den angeschlagenen
+#facs_87_r3l11 Placcarden zu vernommen. Actum obgemelt
+#facs_65_r3l5 Canzley Bern.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_87_r3l14 alle deutsche Herren Amtleute
+#facs_87_r3l15 Erläuterung der Vorschrifft wegen den
+#facs_87_r3l16 Herdeinschlägen.
+#facs_87_r3l17 Auf
+#facs_87_r3l18 Schultheit Rath und Burger.
+#facs_87_r3l19 den uns beschehenen Vortrag, was maß¬
+#facs_87_r3l20 die pag. 227. im Reuer Reglement für
+#facs_87_r3l21 Unsere fürgeliebte Miträthe die Herren
+#facs_87_r3l22 T. Sebelmeister und neunere, enthaltene Vor-
+#facs_87_r3l23 schrift vom 8. März 1780. betreffend die
+#facs_87_r3l24 Herd Einschläg, einerseits dem Landmann sehr
+#facs_88_r1l1 168
+#facs_88_r2l1 beschwerlich, und anderseits auch für den
+#facs_88_r2l2 Besundheuren mit vielen Schleierigkeiten
+#facs_88_r2l3 uns Rosken begleitet seye, da haben
+#facs_88_r2l4 Wir solche in Absicht auf den Vorbe¬
+#facs_88_r2l5 halt des Zehndens, von den Herr Ein
+#facs_88_r2l6 schlagen dahin zu erlauteren gut gefunden
+#facs_88_r2l7 „daß bey allen von uns begehrenden
+#facs_88_r2l8 HendEinschlägen, jeneilen aller der Enden
+#facs_88_r2l9 bübliche Zehnden, oder wenn es die 2ten Töne
+#facs_88_r2l10 erforderen, an deren statt, ein pieleses
+#facs_88_r2l11 nicht ehrschaspflichtiger fruchtsins in
+#facs_88_r2l12 Getreis zu handen der hohen Obrigkeit
+#facs_88_r2l13 vorbehalten werden solle.
+#facs_88_r2l14 deßen Ihr berichtet werdet, mit dem
+#facs_88_r2l15 befalch, solches bey dem berührenden
+#facs_88_r2l16 Artibel, so bohl in dem Schloß Mandati,
+#facs_88_r2l17 durch, als in der Amts Instruktion noch
+#facs_88_r2l18 richtlich anzumerten
+#facs_88_r2l19 Da übrigens Ratione der Bewordnung,
+#facs_88_r2l20 des Graf. Heu, uns Endschadens von den
+#facs_88_r2l21 Handtinschlagen und es bey demjenigen bleibt,
+#facs_88_r2l22 was pag: 228 im Steuer Reglement enthalten
+#facs_88_r2l23 und Euch sub 3ten Decbl. 1781 überschrieben
+#facs_88_r2l24 borden. Dat. den 18. febr. 1784.
+#facs_6_region_1627936574015_66l1 6
+#facs_23_region_1633454616028_2913l1 An
+#facs_88_r3l3 alle 7 und 14. Herren Amtläut um
+#facs_92_r10l14 Schamaiser
+#facs_170_r2l15 verschiedene Anweisungen nöhtig
+#facs_7_r7l1 9
+#facs_88_r3l7 dem Bauer Reglement communiciren.
+#facs_26_r2l11 Schultheit Räth und Burger etc Über¬
+#facs_88_r3l9 Wir Euch dasjenige, aus dem ernauerten
+#facs_266_r3l7 der Ablag Communicieren, und das
+#facs_88_r3l11 fou dem Betreis Reglement in Eureau
+#facs_88_r3l12 fis uns Amts Instruction gehörte, haben
+#facs_88_r3l13 Wir in diesem Reglement folgende Änderungen
+#facs_88_r3l14 und Zusatz zu machen gut gefunden;
+#facs_88_r3l15 belichen wir Euch mit dem Befehl comuni¬
+#facs_88_r3l16 waren, solche in dem beslo Mandaten
+#facs_88_r3l17 Euch = 6 loin auch in dem Cahier, ent¬
+#facs_88_r3l18 holtens den fis und die Instruction
+#facs_88_r3l19 für Euer Undt nachrichtlich einschreiben zu
+#facs_127_r2l26 zu laßen, und Hand abzuhalten.
+#facs_89_r1l1 170
+#facs_89_r2l1 pag: 58
+#facs_89_r2l1 pag: 58
+#facs_79_r1l1 50
+#facs_13_r3l1 P.
+#facs_89_r3l1 Viese Änderungen sind.
+#facs_89_r3l2 In dem Artibul so zur Rubric führt
+#facs_89_r3l3 Wie die Herren Amtlut bey dem Getrie¬
+#facs_89_r3l4 Verbauf sich verhalten sollen, und durch
+#facs_89_r3l5 hienach vermeltes Decret - daß bey dem
+#facs_170_r4l6 Getreid Verkauf
+#facs_89_r3l7 jelveilen die Getreis Schückenen verzeigt
+#facs_89_r3l8 werden sollen – folgende unterstrichene
+#facs_89_r3l9 Worte – aber alle Zeit und ohne Aus¬
+#facs_89_r3l10 nahm von demjenigen Gewicht so sich
+#facs_89_r3l11 am wenigsten wird behalten lassen,
+#facs_89_r3l12 aufgehoben worden.
+#facs_89_r3l13 Decret daß der unhandelbare Getreu
+#facs_89_r3l14 Vorrath jebeilen in 18. Jassen erneueret.
+#facs_27_r3l2 werden solle.
+#facs_89_r3l16 Decretuar bei die Befehle zu dem
+#facs_89_r3l17 Getreis Verkauf zu adressieren.
+#facs_14_region_1633454353484_2800l1 de
+#facs_127_r4l2 daß bey vorfallenden Beneficien Ju¬
+#facs_89_r3l20 H. Kuntleut die keinen Vorrath haben, den
+#facs_89_r3l21 selben unterhorfen seyn sollen.
+#facs_89_r3l22 Decret, wie die K. Amtläut den Müllern ihre
+#facs_89_r3l23 Lesen Zinsen in Geld anschlagen mögen.
+#facs_28_r4l1 Coll
+#facs_11_r6l1 17
+#facs_89_r5l2 An die Herren Umtleut
+#facs_89_r5l3 zu Aarberg, Karburg, Rankaugen,
+#facs_89_r5l4 Aelen, Lipp, Buchtee, Burgdorf, Erlach,
+#facs_89_r5l5 pferten, Güterlahen, Königsfelden, Landschut¬
+#facs_89_r5l6 Laupen, Lausanne, Lenzburg, Milden Morbe¬
+#facs_89_r5l7 Nürten, Neut, Nydau, Pesterlingen,
+#facs_89_r5l8 Romainnotier, disenbeuberg, St. Johansen,
+#facs_89_r5l9 Thorberg, Thun, Ritis, langem Wiblisturg,
+#facs_191_r2l4 5. Zwey stimmen
+#facs_89_r5l11 Denen nachfolgenden in ihren Amteren
+#facs_89_r5l12 sich aufhaltenden Landsassen, den En
+#facs_89_r5l13 zu intimieren
+#facs_89_r5l14 Schultheiß und Rath v. Wir über
+#facs_89_r5l15 senden Euch denjenigen Ew, den diejenigen
+#facs_89_r5l16 Landstoßen, so nicht als alte Heimat
+#facs_89_r5l17 lose, sondern als ohne Bürgerrecht
+#facs_89_r5l18 hier gebliebene Fremde, in die Corporation
+#facs_89_r5l19 aufgenommen worden, beschweren sollen,
+#facs_89_r5l20 mit dem Befehl, nochstehende die sich
+#facs_89_r5l21 in fürrem Amtlaufhalten, vor Euch
+#facs_89_r5l22 zu bescheiden, ihnen solchen zu intimieren
+#facs_89_r5l23 und daß es geschehen, Unsere vordnete
+#facs_89_r5l24 Landlaßen Camer deßen berichten.
+#facs_89_r5l25 Dath. den 24 febr. 1784.
+#facs_90_r1l1 172.
+#facs_157_r4l1 oll.
+#facs_43_r2l7 8
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r1l1 2
+#facs_187_r2l23 s
+#facs_4_r7l1 4
+#facs_3_region_1627936339514_16l1 1
+#facs_34_r5l7 Verzeichni
+#facs_90_r6l2 der auf den verschiedenen Amteren,
+#facs_90_r6l3 in Nachl. deutsch und welschen Landen
+#facs_90_r6l4 sich aufhaltenden Landsaßen, die im
+#facs_90_r6l5 fall sind, den Unterthanen Eis Id
+#facs_90_r6l6 schwören.
+#facs_92_r3l1 Beschlechts und Taufnahmen
+#facs_90_r6l8 Beruf.
+#facs_266_r4l14 Arberg
+#facs_53_r8l10 e
+#facs_93_r4l34 Hufschmid.
+#facs_90_r6l12 Botsfries
+#facs_90_r6l13 Bernhard
+#facs_90_r6l14 Christian
+#facs_90_r6l15 Sekler.
+#facs_256_r2l21 Dritter
+#facs_54_r5l12 Jo
+#facs_90_r6l18 Maurer
+#facs_90_r6l19 Specht
+#facs_90_r6l20 Peter
+#facs_90_r6l21 Wagner
+#facs_53_r8l21 Aarburg Schloß
+#facs_90_r6l23 dignist
+#facs_90_r6l24 Martin
+#facs_90_r6l21 Wagner
+#facs_120_r3l22 Aarwangen
+#facs_90_r6l27 Adolf
+#facs_3_region_1627936339514_16l1 1
+#facs_90_r6l29 Tischmacher.
+#facs_90_r6l30 Joh: Heinrich
+#facs_96_r1l5 bie an
+#facs_4_r1l1 2
+#facs_90_r6l33 Jacob
+#facs_90_r6l34 Schumacher
+#facs_118_r7l27 Aelen im
+#facs_90_r6l37 1 Glaisette
+#facs_90_r6l38 Arbeiter in d. Salines
+#facs_90_r6l39 Alexandre
+#facs_90_r6l40 2 Kalbfuß
+#facs_91_r4l7 Johan Philipp
+#facs_90_r6l42 Küffer.
+#facs_90_r3l1 N°
+#facs_90_r10l1 Beschlechts und
+#facs_272_r2l33 y
+#facs_90_r10l3 1. HeibenWaufen
+#facs_91_r5l6 Bauch
+#facs_3_region_1627936339514_16l1 1
+#facs_90_r10l6 2 Veit
+#facs_90_r10l7 3 Weyrauch
+#facs_90_r10l8 1 Bel
+#facs_374_r4l17 bri
+#facs_90_r10l11 bein
+#facs_122_r4l34 erlauben
+#facs_90_r10l13 1. Rentsch
+#facs_90_r10l14 Löber
+#facs_4_r1l1 2
+#facs_90_r10l16 Müller
+#facs_4_r4l1 3.
+#facs_90_r10l19 Steinegge
+#facs_90_r10l16 Müller
+#facs_177_region_1633454901558_2973l25 seine
+#facs_54_r5l17 Bourger
+#facs_87_r3l17 Auf
+#facs_169_r5l17 (bid)
+#facs_90_r6l33 Jacob
+#facs_266_r4l28 Ruchter
+#facs_91_r6l18 Johannet
+#facs_53_r8l8 Burgdorf.
+#facs_90_r11l7 Lienfard
+#facs_90_r11l8 Johannes
+#facs_90_r11l9 Georg Frieden
+#facs_120_r3l38 Erlach
+#facs_90_r11l11 Hans Georg
+#facs_90_r11l12 Philip Heinrich
+#facs_90_r11l13 Thelige Friedrich
+#facs_88_r3l6 Hren
+#facs_90_r6l24 Martin
+#facs_90_r11l16 Ludloig Kaal
+#facs_92_r3l18 Johan Michael
+#facs_266_r4l14 Arberg
+#facs_53_r8l1 Interlaben
+#facs_90_r11l20 Johan Brorq
+#facs_193_r5l33 wochentlich
+#facs_91_r6l6 Johanes
+#facs_90_r6l8 Beruf.
+#facs_90_r12l3 leistühnender
+#facs_90_r6l29 Tischmacher.
+#facs_90_r6l21 Wagner
+#facs_115_r4l27 beliebet
+#facs_90_r12l7 Bartner
+#facs_90_r12l8 Eufahme zu Brütel
+#facs_93_r4l34 Hufschmid.
+#facs_90_r6l34 Schumacher
+#facs_90_r12l11 Beker
+#facs_92_r10l4 Hufschau
+#facs_68_r8l11 zu
+#facs_90_r12l14 Anophwacher
+#facs_90_r12l15 Schneider
+#facs_90_r6l36 Velen
+#facs_124_r5l18 Haber
+#facs_91_r1l1 174
+#facs_90_r3l1 N°
+#facs_270_r4l24 gesteht werden.
+#facs_91_r3l2 1 Frölich
+#facs_91_r3l3 Wilb.
+#facs_91_r3l4 1 Glaub.
+#facs_91_r3l5 1 flav.
+#facs_91_r3l6 2 Hauggj
+#facs_90_r10l16 Müller
+#facs_91_r3l8 4 Pfisterer
+#facs_91_r3l9 5 disädlich
+#facs_90_r6l34 Schumacher
+#facs_6_region_1627936574015_66l1 6
+#facs_91_r3l12 1. Antoine
+#facs_93_r3l15 Commer
+#facs_91_r3l14 3 Dupuis
+#facs_91_r3l15 4 frey
+#facs_91_r3l16 5 Goldenschus
+#facs_91_r3l17 6 Grauster
+#facs_256_r3l1 est.
+#facs_4_r13l2 7
+#facs_91_r4l1 Taufnahmen, Beruf
+#facs_54_r8l21 Königsfelden
+#facs_91_r4l3 Johan Martin Perückenmacher
+#facs_91_r4l4 Johann Kastor Zuberbeber,
+#facs_53_r8l9 Landshut
+#facs_93_r4l34 Hufschmid.
+#facs_91_r4l7 Johan Philipp
+#facs_91_r4l8 Laupen
+#facs_90_r6l29 Tischmacher.
+#facs_90_r6l24 Martin
+#facs_91_r4l11 Täglöhner.
+#facs_374_r2l1 ar
+#facs_92_r10l4 Hufschau
+#facs_91_r4l14 Jakob
+#facs_92_r10l11 Schmacher
+#facs_92_r9l34 Johan dahir
+#facs_91_r4l17 Mezger.
+#facs_90_r11l9 Georg Frieden
+#facs_91_r5l30 1 Conrad
+#facs_90_r12l15 Schneider
+#facs_54_r5l22 Lausanne
+#facs_266_r6l11 dienste
+#facs_91_r4l23 Philippe
+#facs_92_r10l11 Schmacher
+#facs_53_r8l23 Zofrigen
+#facs_91_r4l26 Goldarbeiter
+#facs_91_r4l27 Charles Leopold
+#facs_92_r10l11 Schmacher
+#facs_91_r4l10 Mathys
+#facs_54_r7l3 Marty
+#facs_91_r4l10 Mathys
+#facs_91_r4l32 Johann Jakob
+#facs_91_r4l17 Mezger.
+#facs_91_r4l34 Bürtler.
+#facs_91_r4l35 Friedrich Christian
+#facs_93_r3l1 Geschlechts.
+#facs_91_r5l2 Mann
+#facs_91_r5l3 No 8
+#facs_91_r5l4 Prelle
+#facs_7_r7l1 9
+#facs_231_r3l14 Auch
+#facs_8_r1l1 10
+#facs_8_r9l1 11
+#facs_92_r4l19 Schmider
+#facs_90_r6l34 Schumacher
+#facs_9_r1l1 12.
+#facs_92_r4l15 Schloßer.
+#facs_4_r10l1 13
+#facs_91_r5l14 Schulp
+#facs_76_r1l1 144
+#facs_91_r5l16 Stelz
+#facs_4_r4l2 15
+#facs_84_r3l4 aufgehoben
+#facs_11_r1l1 16
+#facs_91_r5l20 Bimer
+#facs_11_r6l1 17
+#facs_91_r5l22 Zoon
+#facs_7_r2l12 18
+#facs_117_r3l14 fehlen.
+#facs_3_region_1627936339514_16l1 1
+#facs_91_r5l26 2 Guinan
+#facs_8_r5l1 30
+#facs_92_r9l4 Meyer
+#facs_91_r5l29 1 Malan
+#facs_91_r5l30 1 Conrad
+#facs_91_r4l1 Taufnahmen, Beruf
+#facs_54_r5l22 Lausanne
+#facs_91_r4l14 Jakob
+#facs_91_r6l4 Christian Ernst
+#facs_91_r6l5 Philip Stephan
+#facs_91_r6l6 Johanes
+#facs_91_r6l15 Johann
+#facs_91_r6l8 Andreas
+#facs_91_r6l6 Johanes
+#facs_129_r3l11 dan
+#facs_92_r3l33 Johann Georg
+#facs_91_r4l14 Jakob
+#facs_91_r6l13 Johann Lubat
+#facs_54_r8l25 Lenzburg
+#facs_91_r6l15 Johann
+#facs_91_r6l16 Abraham
+#facs_90_r6l14 Christian
+#facs_54_r5l12 Jo
+#facs_272_r3l25 Waisen
+#facs_91_r6l20 Bartelemey
+#facs_91_r6l21 Morsel
+#facs_91_r6l22 Theobold
+#facs_90_r6l8 Beruf.
+#facs_92_r10l11 Schmacher
+#facs_91_r7l3 Euchdruber
+#facs_90_r12l15 Schneider
+#facs_297_r3l19 zu machen.
+#facs_91_r7l6 Schweidtfeger
+#facs_91_r4l11 Täglöhner.
+#facs_90_r12l15 Schneider
+#facs_258_r3l20 zukommen.
+#facs_92_r10l11 Schmacher
+#facs_91_r7l11 Du gelbauer.
+#facs_91_r4l26 Goldarbeiter
+#facs_91_r7l13 Indienetruber
+#facs_92_r4l15 Schloßer.
+#facs_93_r4l3 zuführend
+#facs_90_r6l18 Maurer
+#facs_90_r6l18 Maurer
+#facs_90_r6l34 Schumacher
+#facs_16_r11l1 27
+#facs_92_r1l1 176
+#facs_92_r2l1 No 2.
+#facs_92_r3l1 Beschlechts und Taufnahmen
+#facs_92_r3l2 Morsee
+#facs_92_r3l3 Favide
+#facs_92_r3l4 Julien
+#facs_90_r6l33 Jacob
+#facs_92_r3l6 3 Küchlin
+#facs_92_r3l7 4 Macler
+#facs_92_r3l8 Pierre Abram
+#facs_4_r6l1 5
+#facs_93_r3l22 1. Pflüger
+#facs_92_r3l11 Franz
+#facs_53_r3l14 6. Hüren.
+#facs_3_region_1627936339514_16l1 1
+#facs_90_r6l33 Jacob
+#facs_92_r3l15 heiß
+#facs_92_r3l16 Pfefferborn
+#facs_4_r1l1 2
+#facs_92_r3l18 Johan Michael
+#facs_92_r3l19 Winkler
+#facs_91_r6l6 Johanes
+#facs_4_r4l1 3.
+#facs_92_r3l22 Gepel
+#facs_3_region_1627936339514_16l1 1
+#facs_90_r6l33 Jacob
+#facs_54_r8l29 Neüs
+#facs_92_r3l26 1. B rim
+#facs_90_r6l14 Christian
+#facs_92_r3l28 2 habermais
+#facs_92_r3l29 Johann Friedrich
+#facs_53_r3l42 3. Aarberg
+#facs_92_r3l31 Johann Christian
+#facs_92_r3l32 Hausemann
+#facs_92_r3l33 Johann Georg
+#facs_92_r3l34 Keller
+#facs_4_r6l1 5
+#facs_92_r3l36 Johann Peter
+#facs_6_region_1627936574015_66l1 6
+#facs_92_r3l38 Killing
+#facs_92_r3l11 Franz
+#facs_92_r3l40 Mevoldt
+#facs_91_r4l32 Johann Jakob
+#facs_92_r3l43 Moncenis
+#facs_92_r3l44 Justin
+#facs_43_r2l7 8
+#facs_92_r3l46 Rousset
+#facs_92_r3l47 françois
+#facs_7_r7l1 9
+#facs_272_r2l46 Causanne
+#facs_8_r1l1 10
+#facs_92_r3l51 Johate Balanti
+#facs_92_r3l52 Vaillard
+#facs_8_r9l1 11
+#facs_92_r3l54 Joseph
+#facs_90_r6l8 Beruf.
+#facs_90_r12l15 Schneider
+#facs_90_r6l29 Tischmacher.
+#facs_343_r2l3 Beben
+#facs_91_r4l17 Mezger.
+#facs_92_r4l6 Kupferschine.
+#facs_92_r4l7 Rathgerber zu Karzen)
+#facs_322_r2l16 wachs bis acht Einer seyn.
+#facs_92_r4l9 Bekerknecht.
+#facs_92_r4l13 Leinweber
+#facs_90_r6l34 Schumacher
+#facs_2_r1l1 St.
+#facs_92_r4l13 Leinweber
+#facs_266_r4l28 Ruchter
+#facs_92_r4l15 Schloßer.
+#facs_92_r10l11 Schmacher
+#facs_92_r4l17 Informator.
+#facs_92_r4l18 Schiffer.
+#facs_90_r12l15 Schneider
+#facs_90_r6l15 Sekler.
+#facs_90_r3l1 N°
+#facs_3_region_1627936339514_16l1 1
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r1l1 2
+#facs_4_r4l1 3.
+#facs_4_r1l1 2
+#facs_92_r3l1 Beschlechts und Taufnahmen
+#facs_92_r9l2 Nisau
+#facs_90_r6l24 Martin
+#facs_92_r9l4 Meyer
+#facs_92_r9l6 Hans Rasta’.
+#facs_92_r4l19 Schmider
+#facs_68_r4l31 Wetterlingen
+#facs_92_r9l9 Valentin
+#facs_92_r4l19 Schmider
+#facs_91_r4l10 Mathys
+#facs_92_r9l12 dommerer
+#facs_68_r8l59 Romainmotie
+#facs_92_r9l14 Johan Brary
+#facs_92_r9l15 1 hopsau
+#facs_92_r9l16 Ochentenberg
+#facs_91_r4l14 Jakob
+#facs_92_r9l18 1 Saral
+#facs_54_r5l5 St. Johansen
+#facs_110_r3l28 =lande
+#facs_290_r2l21 moge.
+#facs_53_r8l17 Thorberg
+#facs_92_r9l23 Johann Adam
+#facs_184_r5l5 sentes
+#facs_92_r3l18 Johan Michael
+#facs_92_r9l26 Rudigge
+#facs_93_r4l40 Johan Jacob Rothgärber
+#facs_92_r9l28 Widman
+#facs_91_r6l8 Andreas
+#facs_70_r2l14 Wald
+#facs_92_r9l31 Thun
+#facs_126_r3l14 liche
+#facs_92_r9l33 1 König
+#facs_92_r9l34 Johan dahir
+#facs_92_r9l35 2 Loneus
+#facs_92_r9l36 Thomas
+#facs_91_r5l16 Stelz
+#facs_90_r6l8 Beruf.
+#facs_92_r4l13 Leinweber
+#facs_192_r5l31 Rattwengl.
+#facs_97_r2l14 Fischen.
+#facs_90_r6l29 Tischmacher.
+#facs_90_r12l15 Schneider
+#facs_92_r10l7 Strumpfloeber
+#facs_92_r4l13 Leinweber
+#facs_90_r6l34 Schumacher
+#facs_92_r10l10 Schneider in Krauchtel
+#facs_92_r10l11 Schmacher
+#facs_216_r2l12 Casum Eüch einzuberichten.
+#facs_91_r5l20 Bimer
+#facs_92_r10l11 Schmacher
+#facs_124_r5l11 Wachen
+#facs_92_r11l1 177
+#facs_93_r1l1 178
+#facs_43_r2l7 8
+#facs_93_r3l1 Geschlechts.
+#facs_110_r6l29 Stadt
+#facs_6_region_1627936574015_66l1 6
+#facs_93_r3l5 Weber
+#facs_93_r3l6 6 Weißhaar
+#facs_93_r3l7 7 Hettinger
+#facs_90_r6l24 Martin
+#facs_119_r3l37 1 Dt.
+#facs_93_r3l10 2 Köhl
+#facs_4_r4l1 3.
+#facs_347_r4l1 le
+#facs_3_region_1627936339514_16l1 1
+#facs_93_r3l15 Commer
+#facs_3_region_1627936339514_16l1 1
+#facs_92_r9l4 Meyer
+#facs_92_r9l4 Meyer
+#facs_4_r1l1 2
+#facs_347_r4l1 le
+#facs_93_r3l22 1. Pflüger
+#facs_4_r1l1 2
+#facs_54_r8l10 Abzug
+#facs_93_r3l25 3. Schrot
+#facs_93_r3l26 4. deug toct
+#facs_93_r3l27 1. Lovens
+#facs_91_r4l1 Taufnahmen, Beruf
+#facs_92_r9l31 Thun
+#facs_93_r4l3 zuführend
+#facs_92_r3l18 Johan Michael
+#facs_90_r6l29 Tischmacher.
+#facs_92_r3l54 Joseph
+#facs_90_r12l15 Schneider
+#facs_93_r4l8 Georg Jacob
+#facs_91_r6l6 Johanes
+#facs_93_r4l10 Eigenhirath v. Blumenstein
+#facs_2_r1l2 nim
+#facs_92_r10l4 Hufschau
+#facs_93_r4l13 Jean.
+#facs_120_r3l31 Wangen
+#facs_91_r4l17 Mezger.
+#facs_92_r3l11 Franz
+#facs_90_r6l14 Christian
+#facs_93_r4l18 Steumpfloeben.
+#facs_92_r3l33 Johann Georg
+#facs_93_r4l20 Strimpfleben
+#facs_93_r4l22 friedrich
+#facs_272_r2l8 Wiblisturg
+#facs_93_r4l27 Küfer.
+#facs_91_r6l15 Johann
+#facs_93_r4l26 Johann Castar
+#facs_93_r4l27 Küfer.
+#facs_90_r6l34 Schumacher
+#facs_91_r6l6 Johanes
+#facs_190_r7l30 Mimmis
+#facs_93_r4l31 Tobias
+#facs_90_r12l15 Schneider
+#facs_93_r4l33 Joh. Mathias
+#facs_93_r4l34 Hufschmid.
+#facs_91_r6l8 Andreas
+#facs_68_r8l48 Hinter
+#facs_93_r4l37 Joh. Peter
+#facs_93_r4l38 Mezger in Glütsch.
+#facs_191_r2l4 5. Zwey stimmen
+#facs_93_r4l40 Johan Jacob Rothgärber
+#facs_100_r2l1 soll.

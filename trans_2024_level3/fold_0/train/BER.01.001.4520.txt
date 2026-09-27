@@ -1,0 +1,54 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 47/47
+# High similarity (>=80%): 42
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_300_r4l8 den Haben zu verbaufen, und das Verbod von
+#facs_36_r1l1 68
+#facs_41_r4l3 a-
+#facs_300_r4l3 die Herren Amtleut des Seelands, denne
+#facs_300_r4l4 zu Wangen und Urlangen, Item zu
+#facs_300_r4l5 Wiblisfurg, Petterlingen, Oron, Lausanne,
+#facs_300_r4l6 Iferten, Anbonne, Milden uns Romainmotier.
+#facs_300_r4l7 Sepp
+#facs_300_r4l8 den Haben zu verbaufen, und das Verbod von
+#facs_300_r4l9 15. May diß Jahrs aufgehebt.
+#facs_300_r4l10 Schultheis Stath und Bürger c. In wieder
+#facs_300_r4l11 Aufhebung des unterm 15ten May lezthin
+#facs_300_r4l12 Euch gemachten Verbodts mit dem noch
+#facs_300_r4l13 Damahls zum Verkauf vorhandenen Obrigkeitl.
+#facs_300_r4l14 Haber bis auf Unsern ferneren Gefelch
+#facs_300_r4l15 inzuhalten; Wollen Wir Euch anmit die
+#facs_300_r4l16 Abstoßung uns Versilberung des dermalen
+#facs_300_r4l17 noch vorhandenen Habers, bestehens zu
+#facs_300_r4l18 Wiblisburg in 45 Säk,
+#facs_300_r4l19 Petterlingen - 98.
+#facs_22_r4l8 d
+#facs_23_r2l12 13.
+#facs_300_r4l22 Oron
+#facs_23_r3l7 do
+#facs_300_r4l24 Lausanne 102
+#facs_23_r3l7 do
+#facs_45_r4l1 87
+#facs_241_r2l3 Perten
+#facs_24_r3l1 de,
+#facs_14_region_1629823063779_230l_1 25.
+#facs_23_r3l3 3 aubonne
+#facs_22_r4l8 d
+#facs_112_r4l1 219
+#facs_300_r4l34 Milden
+#facs_202_r3l27 Romainmotier
+#facs_300_r4l36 nach Maßgab Unsers Befelch Schreibens vom
+#facs_300_r4l37 15.° Menzen dieses Jahrs, und unter denen
+#facs_3_region_1629374270345_387l1 2.
+#facs_27_r1l54 1.
+#facs_301_r1l1 690.
+#facs_301_r2l1 Damals vorgeschriebenen Cantelen abzustoßen
+#facs_301_r2l2 und zu versilberen, wieder anbefohlen,
+#facs_301_r2l3 haben. Für die daraus ziehende Losung
+#facs_301_r2l4 dan werdet ihr uns gebührende Rechnung
+#facs_301_r2l5 tragen. Dat. d. 30ten Aug. 1782.
+#facs_178_r8l1 en

@@ -1,0 +1,151 @@
+Law ID: BER.01.001.2373
+Name: In den Stätten die Kleiderordnung publiciren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 140/140
+# High similarity (>=50%): 139
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_411_r3l30 Mit obigem außschreiben auch zugleich von Caulglen
+#facs_411_r3l31 zu verlesen.
+#facs_412_r3l1 Die Lähen Werden hingelichen Werden
+#facs_412_r3l2 zu Erlenbach Freytags Undt Sambstags
+#facs_412_r3l3 Den 13. undt 14. dreyen
+#facs_412_r3l4 zu Voltigen Montaags den 16. de
+#facs_412_r3l5 zu zweysimen Zinsays undt der Mittwochens
+#facs_412_r3l6 17. undt 18. dto.
+#facs_412_r3l7 zu Mühlinen Freytags und Sambstays
+#facs_412_r3l8 den 20. und 21 eto.
+#facs_412_r3l9 zu Prutigen Montags undt Zinstags
+#facs_412_r3l10 dto
+#facs_412_r3l11 den 23 undt 24.
+#facs_412_r3l12 zu Interlakes Donstaags den 26. d.
+#facs_412_r3l13 zu oberhoffen Sambstaags d. 28. gleichen
+#facs_412_r3l14 Monats Weyer
+#facs_412_r3l15 Wirt demnach Ein jeder die Ohrt da Er
+#facs_412_r3l16 sehen empfahren soll, auff ob angesetzten
+#facs_412_r3l17 Jaagen zu besuchen Wüßen Datum. Apr. 1607.
+#facs_412_r3l18 Arberg, Erlach, Nydouw,
+#facs_412_r3l19 r
+#facs_412_r3l20 bürf
+#facs_412_r3l21 In den Stätten die Kleiderordnung
+#facs_412_r3l22 publicir
+#facs_412_r3l23 Schtl. undt Raht der Statt Bern etc.
+#facs_412_r3l24 Es ist uns mißfällig zu vernemmen vorkommen,
+#facs_412_r3l25 daß auch in den Stätten unser vier graffschafften
+#facs_412_r4l1 769
+#facs_412_r4l2 Befart vndt ohnanständigkeiten in Kleidungen eingerißen, Undt
+#facs_412_r4l3 Ober handt nemen wollen, dahero wir nohtwendig erachtet
+#facs_412_r4l4 diesem Vbel zu begegnen, Vndt darwider mit Einer Ordnung
+#facs_412_r4l5 vndt Reformation einsehen zethun, gestalten auch geschehen wie
+#facs_412_r4l6 hienach volget
+#facs_412_r4l7 Die daraus Personen betreffen
+#facs_412_r4l8 Dieweilen anständig daß dieselben, nämlich die Ehrbarsten
+#facs_412_r4l9 Vnder Ihnen, wan Sie in die Kirchen gehen Rabät und
+#facs_412_r4l10 Mantel Tragind, sollend Sie ohne solchen habit sich darinnen
+#facs_412_r4l11 mit sehen laßen, welche aber hierwider handlen wurden,
+#facs_412_r4l12 iellend fürs Erste umb ein, fürn ander Umb zwey, Vn¬
+#facs_412_r4l13 fürs dritte Vmb drey pfund pf. zur Buß verfallen sein
+#facs_412_r4l14 Denne sollen alle Mans Persohnen Ins genen nicht
+#facs_412_r4l15 länger Haar haben, als daß Sie biß auff die Achsell
+#facs_412_r4l16 reichen mögen bey gemelter Bus¬
+#facs_412_r4l17 der Weibs Persohnen Halb
+#facs_412_r4l18 soll kleiner Weibspersohn zugelaßen sein Eine Kappen
+#facs_412_r4l19 1°
+#facs_412_r4l20 zu traagen deren Brälde obenhar an der Breite über
+#facs_412_r4l21 4. dischmacher Zöll, Vndt die fürs höchste am Preis
+#facs_412_r4l22 über 6. Cronen steigen wurde: Welche aber darleider handlete,
+#facs_412_r4l23 soll, für das Erst ander Undt dritt mahl vmb
+#facs_412_r4l24 drey sechs undt Neun pfund gestrafft werden.
+#facs_412_r4l25 Vndt damit keine größer und Telvere kappen,
+#facs_412_r4l26 Wohl aber Kleiner und minderwärtige Kaufft und
+#facs_413_r5l1 Verkaufft Werdind, soll von dem Ehegricht
+#facs_413_r5l2 jemands verordnet werden, der die kappen
+#facs_413_r5l3 näse, Undt Welchen nach, undt Vnder dem Mäs¬
+#facs_413_r5l4 sindt mit Einem sonderbahren Zeichen zechen
+#facs_413_r5l5 fenne sollend alle Spilzen ins gemein von
+#facs_413_r5l6 faaden und syden verpotten sein Welche
+#facs_413_r5l7 breiter als Ein Zoll bey 1. 2. und 3 lb. Bus
+#facs_413_r5l8 für das Erst ander und dritt mahlder
+#facs_413_r5l9 Widerhandlung
+#facs_413_r5l10 Sindt Ihnen alle verl. auffkommene Coifures
+#facs_413_r5l11 zu allen Zeiten abgestelt sein undt die Capaus
+#facs_413_r5l12 anderst nicht, als von Wolligem Zeug Crespon
+#facs_413_r5l13 oder Taffet und ohne Spilzen zugelaßen
+#facs_413_r5l14 bey nechst auffgesetzter Straaff¬
+#facs_413_r5l15 Käpplin sollend weder von Sammet
+#facs_413_r5l16 is
+#facs_413_r5l17 noch von syden, sonderen nur von Chim
+#facs_413_r5l18 Woligem Zeug oder Crespon und ohne Rybänder
+#facs_413_r5l19 gestattet werden bey 10. 20. und 30. s.
+#facs_413_r5l20 Graff vom Erst anderen und dritten mahl
+#facs_413_r5l21 Lauben bleibend erlaubt, Jedoch ohne Ryban
+#facs_413_r5l22 oder Rosen, und von Ledigen Weibs persohnen
+#facs_413_r5l23 Wegen mehrerer Anständigkeit und Underscheids
+#facs_413_r5l24 mit herabhangenden Zupfen bey nechst obgedachter Bus¬
+#facs_413_r10l1 771
+#facs_413_r10l2 alslumpen sollend von hiesig flächsigen oder aufs höchste
+#facs_413_r10l3 von Galler Thuch, auch ohne Heffterl. oder zötteln getraagt
+#facs_413_r10l4 worden. Bey 1. 2. und 3. lb straaff, Jedoch sind außgenommen
+#facs_413_r10l5 Vermögliche Weibspersohnen, denen zöttelii von geringem Wärt,
+#facs_413_r10l6 zugelaßen worden.
+#facs_413_r10l7 Mouchoirs sollend nit von Taffet oder Syden, sondern Crespon¬
+#facs_413_r10l8 wohl dem Hals nach ausgeschnitten, Undt so gemacht sein, daß
+#facs_413_r10l9 der Hals nit entbloßt gesehen werde. bey vorgemelter
+#facs_413_r10l10 Graaff: mit dem Vnderscheid daß die Vermöglichen auch Taffen
+#facs_413_r10l11 Aber ohne Spitzen Traagen mögende
+#facs_413_r10l12 Die Gasagen sindt in die Kirchen und auff der Gaßen
+#facs_413_r10l13 zu traagen verpotten, Im Haus aber zugelaßen, so sehr daß
+#facs_413_r10l14 solche nit länger seyen, als daß Sie ein halb Ell von der
+#facs_413_r10l15 Weiche hinab reichen mögen bey 1. 2. undt 3. lb. bus
+#facs_413_r10l16 Dieweil Ermel sollen allso gemacht sein, daß die
+#facs_413_r10l17 aarmen nicht zu bloß, sondern gantz bedekb seyn
+#facs_413_r10l18 Undt die Hemmels Ermel nicht Vnderbunden verbinden, bey
+#facs_413_r10l19 10. 20. und 30. s. zu bestimbter Bus¬
+#facs_413_r10l20 Sydeno, Taffebene, oder sonsten andere köstliche Für¬
+#facs_413_r10l21 Thücher, Wie auch Brüst, Camisolls undt alles Was¬
+#facs_413_r10l22 von syden ist soll bey 1. 2. und 3. lb. Verpotten sein
+#facs_413_r10l23 aüßert was außtrucklich von Taffet gestattet Wirt
+#facs_413_r10l24 vollhembd Vndt UnderRok, mögend Wohl von rohten
+#facs_413_r10l25 der anderen Sauberen, aber nit Von Kößlichem
+#facs_413_r10l26 Thuch noch von hohen farben getragen werden bey nechst,
+#facs_413_r10l27 bestimbter Straaff.
+#facs_414_r2l1 1772.
+#facs_414_r2l2 12
+#facs_414_r2l3 13
+#facs_414_r3l1 Die Schuh sollend Sie nit nach der mode sondern
+#facs_414_r3l2 nur einfältig undt von schwartzem Lader Traagen
+#facs_414_r3l3 bey 10. 20. und 30. ß. im fahl der Uberträtzung
+#facs_414_r3l4 Sydene Halßlumpen sindt nur den Hürnensten
+#facs_414_r3l5 undt Allein von schlärtzer Syden erlaubt undt
+#facs_414_r3l6 zugelaßen bey nechst obgemelter Straaff
+#facs_414_r3l7 Endlichen Weilen am Tauffzeüg auch Köstligkeiten
+#facs_414_r3l8 gesehen werden, ist deshalb geordnet daß da=
+#facs_414_r3l9 Was man schon hat, solches wohl bleiben Vndt
+#facs_414_r3l10 gebraucht, was man aber von Nelern kauff
+#facs_414_r3l11 einfaltig ohngeblühmbt, undt ohne rybänder, den
+#facs_414_r3l12 anderem pracht gemacht werden möge, undt solle
+#facs_414_r3l13 bey 1. 2. undt 3. lb. straaff
+#facs_414_r3l14 Der Unser wohlgemeinten Reformation und
+#facs_414_r3l15 Wollend wir daß von Vnseren angehörigen Nachgelebt
+#facs_414_r3l16 Werde, Vndt befehlend dir hiemit, dieselbe
+#facs_414_r3l17 zu mannigklichs Nachricht vom Cantzel Verlesen
+#facs_414_r3l18 zulaßen, Undt geflißenlich ohne schonen noch ansehen
+#facs_414_r3l19 der persohn darob zuhalten, als dan Wir Vns
+#facs_414_r3l20 zu die Versehend. Datum 2. Aprilis 168.
+#facs_414_r3l21 Undt weilen nit wenig gelegen an dem Exempel
+#facs_414_r3l22 der Ambtleüthen vndt Ihren Hausgenoßen, als
+#facs_414_r3l23 auff welche die vndergebnen am meisten sehen, so
+#facs_414_r3l24 Wirstu mit Köstligkeit undt Oberfluß der
+#facs_414_r6l1 1773
+#facs_414_r6l2 Kleideren mit Zeuberfahren, sonderem mit gutem
+#facs_414_r6l3 beyspiel vorzugehen Wüßen, damit desto beßer
+#facs_414_r6l4 Vnser gute Zwek erhalten werden möge: Wann
+#facs_414_r6l5 aber wider versehen in deinem Haus einicher
+#facs_414_r6l6 ercess sich verspüren ließe Wurdigst du darum
+#facs_414_r6l7 vor unser allhiesigen Cammer dich zu verantworten
+#facs_414_r6l8 Undt die Straaff Lauth Mandats zugewarten
+#facs_414_r6l9 habe. Datque ut supra

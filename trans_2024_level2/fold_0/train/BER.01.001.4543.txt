@@ -1,0 +1,204 @@
+Law nr: BER.01.001.4543
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 192/192
+# High similarity (>=80%): 165
+# Low similarity (<80%): 27
+# Not found: 0
+#
+#facs_31_r5l15 Publication
+#facs_12_r8l27 Stetten
+#facs_53_r8l10 e
+#facs_70_r5l20 Da in bequhiedenen Werben des H.
+#facs_70_r5l21 de Voltaire Sachen enthalten sind, Delise
+#facs_70_r5l22 te bohl wieder die Religion als die
+#facs_111_r2l8 gelegenheiten des gemeinen
+#facs_70_r5l24 den sub 25f Octobr lezthin, in der
+#facs_99_r3l1 1919
+#facs_56_r2l1 Colle
+#facs_71_r3l1 der allhiesigen fransöl. Zeitung und
+#facs_71_r3l2 dem Avisblat angebündeten Nachtrub
+#facs_71_r3l3 und die Aufnahm von Subscription zu
+#facs_71_r3l4 der in Kehl herauskommenden vollständigen
+#facs_71_r3l5 Samlung der Werben des H. de Voltaire
+#facs_71_r3l6 /: worunter auch deßen Oeuvres posthumes
+#facs_71_r3l7 begriffen sind) um so weniger billichen
+#facs_71_r3l8 und gestalen, als verschiedene diesen
+#facs_71_r3l9 Werben von Hochdenenselben wirklich ver¬
+#facs_71_r3l10 boten worden sind, und wollen andurch
+#facs_71_r3l11 so wohl den Verkauf dieses Nachtaules
+#facs_71_r3l12 als die Aufnahme von Subscription dazu
+#facs_71_r3l13 bey Strafe verbocken haben. Welche
+#facs_71_r3l14 endurch aus Mr. Ghl. Befehl zu mannglichen
+#facs_71_r3l15 Nachricht bekant gemacht wird. Aktum
+#facs_71_r3l16 d. 18 Dezember 1783.
+#facs_47_r3l5 Lanzley Bern.
+#facs_83_r3l6 en
+#facs_47_r3l6 Traduction.
+#facs_27_r3l12 Obid
+#facs_71_r3l21 Comme parmi les écrits de Mr de Voliaire
+#facs_71_r3l22 il y en plusieurs, qui heurtent la Religion
+#facs_71_r3l23 et les bonnes mœurs, l L. L. E. du Senat ne
+#facs_238_r4l6 Arbeiten den Geist Gottes und seine
+#facs_28_r4l1 Coll
+#facs_8_r2l3 25
+#facs_71_r5l2 du 25e. October dernier en la Gazette
+#facs_71_r5l3 et la feuille d'Avis de cette Capitale
+#facs_71_r5l4 au sujet de la réimpression de l'édition
+#facs_71_r5l5 de Kehl des Oeuvres complettes de cet auteur
+#facs_71_r5l6 /:parmi lesquelles sont aussi compris ses
+#facs_71_r5l7 Ouvrages posthumes et de la souscription
+#facs_71_r5l8 qui devoit souvrir ici à cette fin; d'autant
+#facs_71_r5l9 que plusieurs de ces mêmes écrits ont été
+#facs_71_r5l10 afendus précedement par leur ordre. C'est
+#facs_71_r5l11 pourquoi lh: E E, ont trouvé bon de défendre,
+#facs_71_r5l12 sous peine par les presentes, tant cette
+#facs_71_r5l13 réimpression, que cette souscription y relative
+#facs_71_r5l14 A cessins les presentes seront publiés par
+#facs_71_r5l15 de leurs ordres par la conduite d'un chacun
+#facs_71_r5l16 Donné le 18e Decembre 1782
+#facs_48_r3l25 Chancellerie de Berne
+#facs_4_r8l9 a
+#facs_23_region_1633454616028_2913l2 alle W. Herren Amtleut. Sep.
+#facs_71_r5l20 Die Herren Amtleuten sollen den SepCtion der
+#facs_71_r5l21 im die Naturalisation sich belerbend, den
+#facs_72_r3l10 Bericht über die Beschaffenheit der
+#facs_71_r5l23 Bürgerrechts, beylügen
+#facs_71_r5l24 Schultheiß und Rath v. Austere Verordnung
+#facs_72_r1l1 136
+#facs_72_r2l1 vom 23ten Janl. 1773. bringt unter anderem
+#facs_72_r2l2 ausführlich mit: daß Niemanden der
+#facs_72_r2l3 Access vor mit, jeder zu Erhaltung der
+#facs_72_r2l4 naturalisation noch zu suchender Bewilligen
+#facs_72_r2l5 ein Bürgerrecht kaufen zu rönen, er¬
+#facs_72_r2l6 theilt werden solle, es seye dann Sach
+#facs_72_r2l7 daß der Impetrant vorher eines guten
+#facs_72_r2l8 Burgerrechte in Ansteren Landen sich
+#facs_72_r2l9 versichert habe, und durch eine förmliche
+#facs_72_r2l10 ihme ohnentgeltlich auszufertigende Deklune¬
+#facs_72_r2l11 tion bescheinigen könne, daß er von einer,
+#facs_72_r2l12 ihne und die seinigen erforderlichenfalls
+#facs_72_r2l13 zu erhalten fähigen Gemein zum Burger
+#facs_72_r2l14 angenommen werden wolle.
+#facs_72_r2l15 Nun laßen Wie es Herr bey
+#facs_72_r2l16 derselben Inhalt durchaus bewenden,
+#facs_72_r2l17 damit wir aber von der Fähigkeit
+#facs_72_r2l18 der Gemeinden, und ob sie die bey
+#facs_72_r2l19 ihnen um das Bürgerrecht sich be¬
+#facs_72_r2l20 aberlande Land vfremde benöthigten
+#facs_72_r2l21 falls erforderlicher maßen zu erhalten
+#facs_72_r2l22 im Stand seyen, selbst urtheillen können,
+#facs_72_r2l23 ist Unser Will aus Tefelch, daß Unser
+#facs_72_r2l24 Amtläut W. Lands, darin sich so viele
+#facs_10_r7l1 37
+#facs_72_r3l2 Gemeinden befinden, die diesen Name
+#facs_72_r3l3 kämmerlich verdienen, und mithin die
+#facs_72_r3l4 nöthigen Hilfsmittel hiezu nicht haben,
+#facs_72_r3l5 hinfüro keine auf Erhaltung der
+#facs_72_r3l6 Nationalisation oder zu Ankauffung
+#facs_72_r3l7 eines Burgerrechtens abbloebende Supli¬
+#facs_72_r3l8 rationen mehr besiglen sollen, es seye
+#facs_72_r3l9 dann, daß Sie dabey den umständlichen
+#facs_72_r3l10 Bericht über die Beschaffenheit der
+#facs_72_r3l11 Gemeind, bey welcher die Supldkanten
+#facs_72_r3l12 sich zu Burgeren annemen laßen wollen,
+#facs_72_r3l13 so wohl in ansehen ihrer Größe, als
+#facs_72_r3l14 der Anzahl ihrer Armen ihres Gemein¬
+#facs_72_r3l15 bin auch Armen Guts, uns was andere
+#facs_72_r3l16 dahin zihlende Umständ mehr seyn möge,
+#facs_72_r3l17 beyfügen. Welchermach Ihr diese
+#facs_72_r3l18 Unsere Verordnung zu Eüerein und Euerer
+#facs_72_r3l19 Amt. Nachfahren Nachricht und Verhalt,
+#facs_72_r3l20 seines behörigen Orts in dem Schloß
+#facs_72_r3l21 Mandaten Buch nachrichtl. einschreiben
+#facs_70_r5l19 Le anbottau
+#facs_72_r3l23 1783
+#facs_73_r1l1 138
+#facs_28_r4l1 Coll
+#facs_136_r2l21 sollte.
+#facs_23_region_1633454616028_2913l1 An
+#facs_73_r3l2 die Herren Amtleut zu Nidau, Büren
+#facs_73_r3l3 Carberg and Erlay
+#facs_73_r3l4 Ihnen den in Ao. 1778 mit der Stadt
+#facs_73_r3l5 viel errichteten Absugs Traktat communiciren
+#facs_140_r5l22 Schultheist und Rath¬
+#facs_73_r3l7 In Ansehlu
+#facs_74_r4l10 übersenden.
+#facs_73_r3l9 Juny 1778. erläuterten Traktat, von
+#facs_73_r3l10 1551 wegen recipazierlicher Abzugs frey¬
+#facs_73_r3l11 heit zwischen den hiesigen und Bielerischen
+#facs_146_r2l4 Burgeren und Angehörigen zu Stadt
+#facs_73_r3l13 in den Schloß Mandaten Bücheren unschrieben
+#facs_73_r3l14 zu laßen, uns Euch in Vorfallenheiten
+#facs_73_r3l15 darnach zu verhalten. Dat. d. 31. Xbr 178.
+#facs_21_region_1633454506260_2871l1 Un
+#facs_23_region_1633454616028_2913l2 alle W. Herren Amtleut. Sep.
+#facs_73_r3l18 Wegen Hinterhaltung folscher Steinsamler,
+#facs_73_r3l19 für den Grimsel - St. Bernhard – und St.
+#facs_73_r3l20 Gottsandts Berg
+#facs_73_r3l21 Schultheit und Rath Nach Unseren
+#facs_73_r3l22 Verordnungen, soll Niemand in hestigen
+#facs_73_r3l23 Landen Steur samlen, als die von Uns
+#facs_73_r3l24 hiezu die Erbilligung erhalten, und zu
+#facs_4_r4l1 3.
+#facs_73_r4l2 dem End eine förmliche Patente auf¬
+#facs_73_r4l3 zuweisen haben. Nun pflegen Wir
+#facs_73_r4l4 diese Gnad /: außerordentliche Fall
+#facs_73_r4l5 ausgenommen :/ Niemand anders zu accordieren
+#facs_73_r4l6 als denen so für den Spitthal auf dem
+#facs_73_r4l7 Grimsel-St: Bernhardts und St: Gotthards
+#facs_73_r4l8 da Uns aber von
+#facs_73_r4l9 Berg collektieren.
+#facs_73_r4l10 dem Kollektanten des St. Bernhard Bergs,
+#facs_73_r4l11 blagens hinterbracht worden, daß andere
+#facs_73_r4l12 unter seinem Nahmen ihnen den Weg vor
+#facs_73_r4l13 geloffen- und deßwegen er anverschiedene
+#facs_73_r4l14 Orten nicht zum besten empfangen worden.
+#facs_73_r4l15 dieses dan daher kommen mag, daß ent¬
+#facs_322_r2l22 eineren versehen seyn.
+#facs_73_r4l17 der aber Steuestamler die Collektanten des
+#facs_73_r4l18 kleinen St. Bernhardbergs, welche Wir
+#facs_73_r4l19 bis weilen aber jederzeit für Stadt und
+#facs_73_r4l20 Laus zu besteuren geruhet, sich erfrechen,
+#facs_73_r4l21 Lulvieder Unserem Verbott, im Land ein
+#facs_73_r4l22 Sufinden und Steur zu samlen; So
+#facs_73_r4l23 haben Wir neben allen denen Vorsorgen
+#facs_73_r4l24 so unsere Verordnung wieder die falsche
+#facs_73_r4l25 Steursanler vom 17. Sept. 1759. enthält
+#facs_73_r4l26 nötig erachtet, zu Heiterhaltung solch
+#facs_74_r1l1 140
+#facs_74_r2l1 senerlaubten Steuestamlers, und damit die
+#facs_74_r2l2 jenigen Persohnen, so Wir mit der
+#facs_74_r2l3 Bewilligung begünstigen in hiesigen Landen
+#facs_74_r2l4 Steur zu samlen, solcher Gnäs desto
+#facs_74_r2l5 richtiger Genos werden können) Euch hie¬
+#facs_74_r2l6 mit zu überschreiben, daß Wir die
+#facs_74_r2l7 Verfügung getroffen, daß forohin die
+#facs_74_r2l8 von Uns, besonders obigen 3. Spitthalern
+#facs_74_r2l9 ertheilleine Kollekt Patenten, neben der
+#facs_74_r2l10 Standt ügel, mit der Signatur Unser
+#facs_74_r2l11 geliebten Staats Schreibers versehen werden.
+#facs_74_r2l12 und befehlen Euch hiemit, solches denen
+#facs_74_r2l13 Vorgesezten der verschiedenen Gemeinden
+#facs_74_r2l14 Euers Amts, mit dem Beyfügen bekant.
+#facs_74_r2l15 zu machen, daß sie fürohin keinen frem¬
+#facs_74_r2l16 Kollebtanten Steuer geben, sie haben
+#facs_74_r2l17 dann eine solche Patent vorzuweisen,
+#facs_74_r2l18 falls aber sich erzeigen sollte, daß
+#facs_74_r2l19 andere so frech seyn dürfen, im Land
+#facs_74_r2l20 um Steur sich zu melden, solche nach
+#facs_74_r2l21 Anleitung oberkehnt Unserer Verordnung
+#facs_74_r2l22 von Ao. 1759. Euch anzuzeigen und zu¬
+#facs_74_r2l23 zuführen, da ihr dann ebenfalls nach
+#facs_74_r2l24 deren Inhalt gegen selbige zu ver¬
+#facs_28_r4l1 Coll
+#facs_11_r2l1 41
+#facs_74_r4l2 verfahren Euch leerdet obgelegen seyn
+#facs_74_r4l3 uns solches zu könstiger Nachricht
+#facs_74_r4l4 eines behörigen Orts einschreiben zu
+#facs_74_r4l5 laßen. Wie Jndthuns Datx: den
+#facs_74_r4l6 14th Janl 1784.

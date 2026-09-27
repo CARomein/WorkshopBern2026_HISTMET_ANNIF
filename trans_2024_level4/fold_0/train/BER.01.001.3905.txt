@@ -1,0 +1,689 @@
+Law ID: BER.01.001.3905
+Name: Ordnung der Fischenzen halber im Brienzer- und Thunersee, auch in der Aaren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_497
+# Matched: 678/678
+# High similarity (>=50%): 649
+# Low similarity (<50%): 29
+# Not found: 0
+#
+#facs_42_r4l21 erden
+#facs_43_r2l1 Collat
+#facs_43_r2l2 A
+#facs_43_r2l3 Schwirren obde¬
+#facs_43_r2l4 baren im Seel.
+#facs_43_r3l1 Ordnung.
+#facs_43_r3l2 der Fischezen halber im Krienzer und
+#facs_43_r3l3 Thuver See, auch in der Bären
+#facs_43_r3l4 Thun Oberhoffen unter seer und
+#facs_43_r3l5 Interlaken
+#facs_43_r3l6 Schultheis und Rahtte
+#facs_43_r3l7 Demnach wir erfahren müßen, wie wenig
+#facs_43_r3l8 Unseren hievor ausgegebenen Ordnung
+#facs_43_r3l9 der Fischezen halb im Thun- und Krienze
+#facs_43_r3l10 See, auch in der Aaren, soweit das Amt.
+#facs_43_r3l11 Thun sich er streket, nachgelebt, hingegen
+#facs_43_r3l12 durch eingerißene viele Fischer, und
+#facs_43_r3l13 ohner laubte Ding, auch ohnmäßiges
+#facs_43_r3l14 Bisch fahen, die Fisch der Enden erödet
+#facs_43_r3l15 worden, habend wir deme nicht länger
+#facs_43_r3l16 zu sehen, sonderen in erneüberung
+#facs_43_r3l17 Unserer Ehemahligen ordnungen, sondern
+#facs_43_r3l18 lich derer de Aio 1670. 1693. Statuieren
+#facs_43_r3l19 und hier durch ernstmeinend befehlen
+#facs_43_r3l20 wollen, volgendem das leben zu geben
+#facs_43_r3l21 daß die Schwirren ob der Aaren im See
+#facs_43_r3l22 eheweit der Schadauw in aller Form, Wie
+#facs_43_r3l23 solche ao 1505 durch die verordneten gesetzt
+#facs_43_r3l24 und geschlagen worden, verbleiben, und
+#facs_43_r3l25 inerthalb.
+#facs_43_r4l1 2°
+#facs_43_r4l2 bezirk wüschen.
+#facs_43_r4l3 der Schwirren
+#facs_43_r4l4 und Brunn
+#facs_43_r4l5 neren
+#facs_43_r4l6 haubt zu
+#facs_43_r6l1 81
+#facs_43_r6l2 inert halb diesen Schwirren, weder mit Nezenen
+#facs_43_r6l3 noch anderen verboltenen Mittlen und
+#facs_43_r6l4 lügen, weder Sumer noch winterd Zeit,
+#facs_43_r6l5 weder Tages noch nachts gefischet, noch einicher
+#facs_43_r6l6 in das waßer gesetzt werden solle, bey straaff
+#facs_43_r6l7 50 lb biß nebst der Confiscation der Instrumen¬
+#facs_43_r6l8 ter und Fischen von den übertreiteren Zu¬
+#facs_43_r6l9 beziehen
+#facs_43_r6l10 Sanet hin damit den Kischen Ihr freyer Schwung,
+#facs_43_r6l11 leg, und gang nit verkehrt, verlegt, noch
+#facs_43_r6l12 er hinderet werde, ist geordnet, daß zwüschen
+#facs_43_r6l13 der Schwirren, und der grundfurren, zum
+#facs_43_r6l14 Tischgang zu keinen Zeiten, weder Barn
+#facs_43_r6l15 noch anders, wie von Alter her kommen,
+#facs_43_r6l16 und üblich gewesen, gesetzt werden solle,
+#facs_43_r6l17 bey 50tt unablößlicher Büs.
+#facs_43_r6l18 damit die somit den Garnen im thun
+#facs_43_r6l19 er fischend, in Ihren haubt zügen, durch
+#facs_43_r6l20 die so grund Nezen setzen, nit verhinderet
+#facs_43_r6l21 werden, haben wir zu vermeidung,
+#facs_43_r6l22 künftigen irtum, die Haubt zug dieser
+#facs_43_r6l23 Ordnung einverleiben lasen, wie die
+#facs_43_r6l24 hernach volgen.
+#facs_43_r6l25 Der erste Haubt zug ist bey dem Schloß Wysenaus
+#facs_43_r6l26 on
+#facs_44_r2l1 An der Schwirren im See.
+#facs_44_r2l2 Der ander am Rüdlin
+#facs_44_r2l3 der dritte am Eglen,
+#facs_44_r2l4 der 4 nennt sich der kurtz zug
+#facs_44_r2l5 der 5 das Ohrt
+#facs_44_r2l6 der 6 der Neuw Hecht Schwirr
+#facs_44_r2l7 Der 7 am Schult
+#facs_44_r2l8 der 8 an der Wg den,
+#facs_44_r2l9 der 9 ain zürner,
+#facs_44_r2l10 der 10 an der Müggen,
+#facs_44_r2l11 der 11 an der Alten
+#facs_44_r2l12 der 12 in der Zahnbrechen
+#facs_44_r2l13 der 13 der kurtz zug im Tracht
+#facs_44_r2l14 Der 14 an Stoben.
+#facs_44_r2l15 der 15 am ohrt im Tracht,
+#facs_44_r2l16 der 16 am Indrist,
+#facs_44_r2l17 der 17 in der Studien,
+#facs_44_r2l18 der 18 am schönen Brier
+#facs_44_r2l19 Der 19 an Erlen
+#facs_44_r2l20 Der 20 an Bäl weg,
+#facs_44_r2l21 Der 21 an der Wild Schwalneren
+#facs_44_r2l22 der 22 an der bisten
+#facs_44_r2l23 Der 23 an der blalten
+#facs_44_r2l24 Der 24 am Julen ohrt
+#facs_44_r3l1 der 46. an der
+#facs_44_r3l2 Kettern zu Merligen
+#facs_44_r4l1 der 25 am schwarzenbach,
+#facs_44_r4l2 der 26 am inderen Berg
+#facs_44_r4l3 der 27 im Hellbach,
+#facs_44_r4l4 Der 28 am Birdbaum
+#facs_44_r4l5 Der 29 an der Mühl.
+#facs_44_r4l6 der 30 an der Rohr Rüthen
+#facs_44_r4l7 Der 31 auf dem oberen Ohrt,
+#facs_44_r4l8 Der 32 auff dem inderen ohrt,
+#facs_44_r4l9 der 33 auf dem Cappelei
+#facs_44_r4l10 Der 34 in der Weyden
+#facs_44_r4l11 der 35 ans Haag
+#facs_44_r4l12 der 36 an der breiten,
+#facs_44_r4l13 der 37 am Stadacher
+#facs_44_r4l14 Der 38 am Seebühl,
+#facs_44_r4l15 der 39 am Bellet
+#facs_44_r4l16 der 40am Vieher
+#facs_44_r4l17 der 4d an der Stapfen bey Oberhoffen
+#facs_44_r4l18 Der 42 im Bremeler,
+#facs_44_r4l19 Der 43 im ganten winkel
+#facs_44_r4l20 Dec 44 am Stillenbach
+#facs_44_r4l21 der 45 an der bläuben zu Mecligen
+#facs_44_r4l22 Der 47 Der Bol Zug
+#facs_44_r4l23 der 48 der Zug hinter dem Redlin
+#facs_44_r4l24 dat 49 ob dem Rönnen
+#facs_44_r4l25 der 50 ans stim-
+#facs_45_r1l1 84.
+#facs_45_r1l2 4.
+#facs_45_r1l3 In den hievorgenanten Haubt Zügen,
+#facs_45_r1l4 Gehend Zug
+#facs_45_r1l5 soll der gehem Zug dem stehenden weichen,
+#facs_45_r1l6 stehend zug
+#facs_45_r1l7 und ob jesmand in bemeldte Züg Natzen
+#facs_45_r1l8 Neze, Baren
+#facs_45_r1l9 sezen wurde, und aber ein anderer mit
+#facs_45_r1l10 dem Garn daselbst zeüchen wolte,
+#facs_45_r1l11 als dann soll er dem anderen, die Netze
+#facs_45_r1l12 säüberlich und unverderbt auszeuhen
+#facs_45_r1l13 und dieselben Netzen, denen welchen
+#facs_45_r1l14 Sy gehören, samt den darinnen gefundene
+#facs_45_r1l15 Fischen, treüblich überantworten, und
+#facs_45_r1l16 geben; und welchem jehmand außer¬
+#facs_45_r1l17 halb den haubt zügen, mit dem Barn¬
+#facs_45_r1l18 sein nez zerreisen, und verderben
+#facs_45_r1l19 wurde, dem soll er es nach Ehren leüthe,
+#facs_45_r1l20 erkantnus bezahlen
+#facs_45_r1l21 5.
+#facs_45_r1l22 Der Winkeltom Öhrtl. am Hünibach bis
+#facs_45_r1l23 Minkel Zwüscher
+#facs_45_r1l24 an
+#facs_45_r1l25 das ort bey Jägers Malten, soll frey seyn,
+#facs_45_r1l26 Hünibach und
+#facs_45_r1l27 Jägers Malten allso daß niemand darin Netzen setzen
+#facs_45_r1l28 solle, bey 10 lb bus von jedem übertrelter
+#facs_45_r1l29 den mahl, von den Fehlbahren zu bezeichen
+#facs_45_r1l30 Es sollen auch alle die so zu Schwäbsetzen
+#facs_45_r1l31 Porm 20 Schwerl
+#facs_45_r1l32 Nehe zu Setzen
+#facs_45_r1l33 wollen.
+#facs_45_r2l1 Schwäberfloß
+#facs_45_r2l2 Dieseren, am
+#facs_45_r2l3 Contag zu Fischen
+#facs_45_r2l4 verbolten
+#facs_45_r2l5 2.
+#facs_45_r2l6 Wie einer den
+#facs_45_r2l7 Dat besetzen solle.
+#facs_45_r2l8 8
+#facs_45_r2l9 Möshel der
+#facs_45_r2l10 Schwäb Nezel
+#facs_45_r3l1 85.
+#facs_45_r3l2 wollen, nit zu weit in See anfahren, ehe und
+#facs_45_r3l3 bevor Sy anfahen zu setzen, und soll jeden
+#facs_45_r3l4 nit mehr, dan 16 Netzen, oder 13 Zuger¬
+#facs_45_r3l5 Nezen, ein anderen nach setzen, So er¬
+#facs_45_r3l6 aber mehr hätte, und niemand vor im
+#facs_45_r3l7 wäre, mag er Sÿ auch wohl setzen, wäre
+#facs_45_r3l8 aber ein anderer vor ihme, der auch setzen
+#facs_45_r3l9 wolte, als dann soll der erst abbinden, und
+#facs_45_r3l10 den anderen auch setzen laßen.
+#facs_45_r3l11 Darbey ist auch angesehen, daß die Schwäber
+#facs_45_r3l12 Ihre flos zeichnen sollen, und daß kein
+#facs_45_r3l13 Fischer, weder Nezen, Harn, noch bären an
+#facs_45_r3l14 Sontagen aus ziehen solle.
+#facs_45_r3l15 Wo einer ein Satz eineimt, den soll er besetzte
+#facs_45_r3l16 mit allem dem Zeug, so dar zu dienet, als
+#facs_45_r3l17 Anglen, Schnüren, und Studen, und so
+#facs_45_r3l18 einer das nit thäte, soll ein anderer Fischen
+#facs_45_r3l19 den Sazeinemmen, und dar zu setzen nach
+#facs_45_r3l20 brauch und Inhalt dieser Ordnung
+#facs_45_r3l21 Weilen durch die allzu engen Mäschel der
+#facs_45_r3l22 schwäb Netzen, den Buch fischen oder kropferen
+#facs_45_r3l23 großer Schaden zu gefugt wird, Als soll er
+#facs_45_r3l24 dieser Schwäb Netzen halb bey dem Mäschel deßen
+#facs_45_r3l25 Modell im Schloß thun ligt, sein verbleiben
+#facs_45_r3l26 haben
+#facs_46_r1l1 36
+#facs_46_r1l2 Mäschel so die
+#facs_46_r1l3 Brund, oder
+#facs_46_r1l4 Hasel Nezen oder
+#facs_46_r1l5 Wir dorneren
+#facs_46_r1l6 haben sollen
+#facs_46_r1l7 Mäschel der
+#facs_46_r1l8 zug Barinen
+#facs_46_r1l9 10
+#facs_46_r1l10 Mer die aufsicht
+#facs_46_r1l11 haben solle.
+#facs_46_r2l1 haben, und nit an derst gebraucht werden
+#facs_46_r2l2 in gleichen Mäschel wie die Schäb Netzen
+#facs_46_r2l3 sollen auch die grund, oder Hasel Netzen
+#facs_46_r2l4 oder zeit dorneren haben, in Betrachtung
+#facs_46_r2l5 daß, wann die Grund oder Hasell Netzen
+#facs_46_r2l6 den engen Mäschel behalten solten, die
+#facs_46_r2l7 bischer zu den buchfischen setzen wurden,
+#facs_46_r2l8 so ein großer Schaden verursachen thäte.
+#facs_46_r2l9 damit die buchfisch und Ritzling wegen
+#facs_46_r2l10 nüge des Mäschels, am Zopfen der
+#facs_46_r2l11 zug Barnen nit gefangen, und dar durch
+#facs_46_r2l12 die Abbök erödet werden, sollen hinführt
+#facs_46_r2l13 die Fischer im Zopfen an den Zug
+#facs_46_r2l14 Garnen, ein gleichen Mäschel, als
+#facs_46_r2l15 hie oben den Netzen bestimtistführen,
+#facs_46_r2l16 und haben.
+#facs_46_r2l17 Sonsten so viel die Hebi und die wanden
+#facs_46_r2l18 den Zug garnen betrifft, lasen Wir er
+#facs_46_r2l19 des Mäscheld halb bey dem Model wird
+#facs_46_r2l20 selbiget in dem Mayen Beding gewesen
+#facs_46_r2l21 und im Schloß thun ligt bewenden.
+#facs_46_r2l22 damit aber diejenigen so die Meschel Ihrer
+#facs_46_r2l23 nezen und Barnen enger und eingezogen
+#facs_46_r2l24 als-
+#facs_46_r3l1 Schultheiß zu
+#facs_46_r3l2 thun Landbog
+#facs_46_r3l3 zu Interlaten.
+#facs_46_r3l4 Schultheiß zu
+#facs_46_r3l5 Untersaen.
+#facs_46_r4l1 87
+#facs_46_r4l2 Als hievor erleuteret, führen wurden, ent¬
+#facs_46_r4l3 Dekt und zu gebührender straaff gezogen
+#facs_46_r4l4 werden können, wollend Wir hierdurch
+#facs_46_r4l5 ernst meinend befohlen haben, daßen
+#facs_46_r4l6 Schultheis zu thun des Jahrs zu verschi¬
+#facs_46_r4l7 denen mahlen, aller und jeder Fischeren
+#facs_46_r4l8 netze, und Barn besichtigen, die Mächelmi¬
+#facs_46_r4l9 dem obbestimten Mär oder Modell seben
+#facs_46_r4l10 ob die Nezen und Barn, nach dieser ordnung
+#facs_46_r4l11 gestrikt und gemäschlet seyen oder nicht; nicht
+#facs_46_r4l12 weniger sollen auch die Landtägt zu Inter-
+#facs_46_r4l13 laben, und Schultheis zu Untersein deß
+#facs_46_r4l14 Möscheld an Nezen und Barnen geflißen
+#facs_46_r4l15 bahrnemen, besonders die See vögt, so
+#facs_46_r4l16 offt es die Zeit erforderet, dieselben besich¬
+#facs_46_r4l17 digen, ob die Mäschel an Netzen und
+#facs_46_r4l18 Garnen, zu eng gestrikt seyen oder nicht,
+#facs_46_r4l19 und die fehlbahren ohne ansehen der persohn¬
+#facs_46_r4l20 einem Schultheis zu thun, fürderlich
+#facs_46_r4l21 verleiden, und angeben; wurde dann
+#facs_46_r4l22 eineßen neze oder Barn, enger, dan die
+#facs_46_r4l23 Modell und diesere Ordnung ausweisen
+#facs_46_r4l24 gestrikt, und gemüschlet befunden, von¬
+#facs_46_r4l25 demselben.
+#facs_47_r1l1 88
+#facs_47_r1l2 11
+#facs_47_r1l3 Traglen
+#facs_47_r1l4 12
+#facs_47_r1l5 Fischen mit
+#facs_47_r1l6 Dücheren, am
+#facs_47_r1l7 mit Feür, und
+#facs_47_r1l8 Stein und Velten
+#facs_47_r1l9 schleifen verbolte,
+#facs_47_r1l10 mit vügelin pr
+#facs_47_r1l11 kischen Verbolter
+#facs_47_r2l1 dem selben soll der Schultheis zu thun
+#facs_47_r2l2 nebst Confiscation dergleichen Barne
+#facs_47_r2l3 netzen und Mäschlen, noch 10 lbbuß von
+#facs_47_r2l4 jedem mahl so er im Fehler befunden
+#facs_47_r2l5 wurde, beziehen.
+#facs_47_r2l6 Darbey ist auch angesehen, daß man die
+#facs_47_r2l7 Traglen völlig aufheben, und bey straaff
+#facs_47_r2l8 10 lb bus nebst der Confiscation, keine
+#facs_47_r2l9 mehr gebrauchen solle.
+#facs_47_r2l10 und weilen die Fischer sich auch der Lein, und
+#facs_47_r2l11 Tischlachen auch anderer Tücheren bedienen
+#facs_47_r2l12 Die kleinen Fisch zu fachen, wordurch die
+#facs_47_r2l13 brut und Saamen der Fischen gänzlich ver¬
+#facs_47_r2l14 derbt wird, als wollend wir nit nur diß,
+#facs_47_r2l15 sonderen auch das Fischen mit feür und
+#facs_47_r2l16 Liecht, auch Stein und Beltenschleipffen
+#facs_47_r2l17 so nit weniger höchst schädlich bey 30ttbus
+#facs_47_r2l18 nebst der Confiscation der Instrumenten
+#facs_47_r2l19 und Fischen Verbolten haben.
+#facs_47_r2l20 Nicht weniger soll auch das Verderblich und
+#facs_47_r2l21 efährliche fangen der Fischen mit ein werf¬
+#facs_47_r2l22 fen zu gerüsteter Bügelenen bey 50 lb
+#facs_47_r2l23 buß-
+#facs_47_r3l1 14
+#facs_47_r3l2 mit beizenen ain¬
+#facs_47_r3l3 angel zu sischen
+#facs_47_r3l4 erbolten
+#facs_47_r3l5 et
+#facs_47_r3l6 Reichzeit der
+#facs_47_r3l7 Jornen Sparber
+#facs_47_r3l8 äsch, Alet Hechter
+#facs_47_r3l9 16
+#facs_47_r4l1 89
+#facs_47_r4l2 bußverbolten seyn.
+#facs_47_r4l3 Wie biß har das Fischen mit der Schnur frey
+#facs_47_r4l4 gewesen, als soll es auch dieser Zeit nit abge¬
+#facs_47_r4l5 strekt seyn; dennoch daß sich ein jeder hüte
+#facs_47_r4l6 die Angel mit gefehrlichen künsten, und
+#facs_47_r4l7 beizenen zu behenken, in widerhandlen
+#facs_47_r4l8 dem fahl, nit nur ihme das Fischen mit
+#facs_47_r4l9 der Schuner für eine und allemahl ver¬
+#facs_47_r4l10 bolten seyn, son deren er mit 20 lb bus¬
+#facs_47_r4l11 belegt werden soll.
+#facs_47_r4l12 So sollen die Fisch in der Leich Zeit zu fahen
+#facs_47_r4l13 und zu stechen, jeder mänglich verbotten seyn,
+#facs_47_r4l14 und zwar bey 50 rtbuß, und Confiscation
+#facs_47_r4l15 der Pischen, nämlich die Pornen von Michels
+#facs_47_r4l16 Tag biß auff den Neüwjahrs Tag, die Scharben
+#facs_47_r4l17 vom 1. Joachmonat bis den 25ten Rechnung
+#facs_47_r4l18 die ösch den ganzen Merzmonat durch die
+#facs_47_r4l19 alet den ganzen Mey monat durch, die
+#facs_47_r4l20 rechten die ganze Leich Zeit aus
+#facs_47_r4l21 die Häsel betreffen, deren sollen gleich
+#facs_47_r4l22 fahls keine, in Ihrer leichzeit als von
+#facs_47_r4l23 milten Aprilio bis milten Mayen, gefangen
+#facs_47_r4l24 werden, bey 50 lb bus, und Confiscation
+#facs_47_r4l25 der¬
+#facs_47_r5l1 il
+#facs_48_r2l1 der Fischen; derowegen an allen
+#facs_48_r2l2 ohrten und stellen da Sÿ leichend nichts
+#facs_48_r2l3 solle gefangen werden, besonderd an
+#facs_48_r2l4 diesen Ohrten, als
+#facs_48_r2l5 In der Rauwenen bey Oberhoffen
+#facs_48_r2l6 Im pfanbach,
+#facs_48_r2l7 an der Teuffen flich
+#facs_48_r2l8 im offen
+#facs_48_r2l9 am Hünibach und
+#facs_48_r2l10 an Prutigers Schleiff, also das man die
+#facs_48_r2l11 weder Zeüche noch setze, weder mit¬
+#facs_48_r2l12 Harnen, Netzen, Bären, Schnüren,
+#facs_48_r2l13 sonderen sie frey und ruhig gelaßen,
+#facs_48_r2l14 werden sollen.
+#facs_48_r2l15 17. die Stellin am Ritzberg soll auch frey sein, von
+#facs_48_r2l16 Stelli am Spitzber
+#facs_48_r2l17 Martini Tag hin bis mitten im Mertzen, da der
+#facs_48_r2l18 Schultheis zu thun daselbst die Züg hat, in
+#facs_48_r2l19 derselben Stell. vom Schwirren bis an
+#facs_48_r2l20 blatten, soll obige Zeit durch niemand
+#facs_48_r2l21 weder mit Barnen, Netzen, noch mit¬
+#facs_48_r2l22 tehenden Schnüren Fischen, bÿ 10 lb biß,
+#facs_48_r2l23 nebst Confiscation der Fischen,
+#facs_48_r2l24 18
+#facs_48_r2l25 Die Kritz Fisch sollen hinführi
+#facs_48_r2l26 keinen
+#facs_48_r2l27 zu
+#facs_48_r2l28 Kritz Fisch
+#facs_48_r2l29 zeiten
+#facs_48_r3l1 19
+#facs_48_r3l2 Wizling Juch
+#facs_48_r3l3 Tischbuchtisch¬
+#facs_48_r3l4 20
+#facs_48_r3l5 Hürlig sampt
+#facs_48_r3l6 soll von einen
+#facs_48_r3l7 H. Schultheis
+#facs_48_r3l8 then besilliget
+#facs_48_r3l9 werden
+#facs_48_r4l1 9 J.
+#facs_48_r4l2 Zeiten mehr, weder mit Barnen, noch an¬
+#facs_48_r4l3 deren Dingen, gefangen, sonder solche
+#facs_48_r4l4 den übrigen Fischen zu Ihrer nahrung
+#facs_48_r4l5 gelaßen werden.
+#facs_48_r4l6 auf daß die Albök widerum vermehrt
+#facs_48_r4l7 werden mögen, sollen alle Spitzlingen
+#facs_48_r4l8 Juch und Ruchfisch, so junge Alböksind
+#facs_48_r4l9 zu allen Zeiten, auff was weider et immer
+#facs_48_r4l10 seye, zu sahen verbotten seyn, bey 50.
+#facs_48_r4l11 tt buß nebst der Confiscation der Fischen
+#facs_48_r4l12 zu dem und die Fischer wan Sy zu Alböken
+#facs_48_r4l13 ziehen, behut sam im Ziehen darmitum gehen
+#facs_48_r4l14 sollen, auf das diese kleine Alböt durch die
+#facs_48_r4l15 Garn fallen mögen, oder wann Sie deren
+#facs_48_r4l16 zeüchen wurden, selbige allsobald in Se¬
+#facs_48_r4l17 werffen, und derer keineswegs behalten,
+#facs_48_r4l18 oder verkaufen, alles bey aufgesetzter
+#facs_48_r4l19 straaff Und Confiscation.
+#facs_48_r4l20 den heürlig fang, und Zeit deselben be¬
+#facs_48_r4l21 treffend, wollen wir, daß die Fischer¬
+#facs_48_r4l22 einem Schultheisen zu thun fürbringen;
+#facs_48_r4l23 Mau
+#facs_49_r1l1 92
+#facs_49_r1l2 21
+#facs_49_r1l3 Länge der
+#facs_49_r1l4 bornen, öschen
+#facs_49_r1l5 Scharben Hechten
+#facs_49_r1l6 22
+#facs_49_r1l7 Landvogt zu
+#facs_49_r1l8 Interlaten soll
+#facs_49_r1l9 Inspection trag¬
+#facs_49_r1l10 helfen. Der
+#facs_49_r1l11 rechten und
+#facs_49_r1l12 Rohr Fisch halb
+#facs_49_r1l13 Item fisch mi
+#facs_49_r1l14 Grientz See.
+#facs_49_r2l1 Wann dan er die hörlig wahrschaft sind
+#facs_49_r2l2 soller Ihnen derer zu fahen erlauben,
+#facs_49_r2l3 dennoch nicht anderst, dann daß Sie von der
+#facs_49_r2l4 erlaubnuß an jeder drey wochen, in¬
+#facs_49_r2l5 jeder wochen aber nur drey Tag, als
+#facs_49_r2l6 Mit wochen, Freytag, und Samstag, und
+#facs_49_r2l7 zwar in diesen Tagen, nur bis zu Mittag
+#facs_49_r2l8 lurlig fahen mögen, in widerhandlendem
+#facs_49_r2l9 fahl der übertrelter, mit 10 lb biß von
+#facs_49_r2l10 jedem mahl angesehen werden soll;
+#facs_49_r2l11 Es soll auch kein Fornen, Äsch, und scharben
+#facs_49_r2l12 gefangen werden, er habe dann zwuschen
+#facs_49_r2l13 dem Kopff und Rihl 7. Zoll die Hechten
+#facs_49_r2l14 aber 10 Zoll, und so der eint oder andere
+#facs_49_r2l15 galtung gefangen, und nit wider ins
+#facs_49_r2l16 freye waßer geworffen wurden, soll der
+#facs_49_r2l17 übertretter nebst der Confiscation mit
+#facs_49_r2l18 20tt buß belegt werden.
+#facs_49_r2l19 Es soll auch ein Landvogt zu Interlaken
+#facs_49_r2l20 im Rohr zu Wyßenauw vorsehen, daß
+#facs_49_r2l21 die Hochten oder Rohr Fisch, die dißmär
+#facs_49_r2l22 mit haben, durch niemand gefangen
+#facs_49_r2l23 werden, die Fischer im Brientz Seesich
+#facs_49_r2l24 müßigen
+#facs_49_r3l1 Scharben
+#facs_49_r3l2 24
+#facs_49_r3l3 Bürbauff Te¬
+#facs_49_r3l4 schen.
+#facs_49_r5l1 93.
+#facs_49_r5l2 müßigen die Meyen brienzlig zu fachen
+#facs_49_r5l3 und übrigens der übrigen Fischen halb dieser
+#facs_49_r5l4 ordnung nachleben.
+#facs_49_r5l5 Und weilen die Scharben den Fischen merk¬
+#facs_49_r5l6 lichen schaden zu sügen, wollen wir, daß ein
+#facs_49_r5l7 Schultheiß zu thun, einem jeden Unserer
+#facs_49_r5l8 Unterthanen, von einem Scharben zu
+#facs_49_r5l9 fahen 10 ß geben, und solches und verrechnen
+#facs_49_r5l10 solle, damit aber kein Betrug darmit unter
+#facs_49_r5l11 lauffe, soll jedem Scharben als dann der
+#facs_49_r5l12 kopff abgehöngen werden.
+#facs_49_r5l13 Auf daß dem eine Zeit dahero eingerißen
+#facs_49_r5l14 fürkauff der Pischen, widerum abgeholfen,
+#facs_49_r5l15 und Unseren Ehemaligen Ordnungen
+#facs_49_r5l16 das leben gegeben werde, wollen Wir
+#facs_49_r5l17 hier durch ernstmeinend alles aufkaufen
+#facs_49_r5l18 der Fischen Zum wider verkauff allen
+#facs_49_r5l19 und jeden Churgeren und Unterthanen
+#facs_49_r5l20 härtiglich verbolten haben, und so einer in
+#facs_49_r5l21 solchem sich vergriffe, und einichen Fischfür¬
+#facs_49_r5l22 kauftriebe, soll er nebst Confiscation der
+#facs_49_r5l23 Fischen, mit 5ottbuß gestrafft werdene
+#facs_49_r5l24 damit
+#facs_50_r1l1 94
+#facs_50_r1l2 25
+#facs_50_r1l3 thun
+#facs_50_r1l4 Schultheiß
+#facs_50_r1l5 soll jährlich zwey,
+#facs_50_r1l6 mahl die umzahlt
+#facs_50_r1l7 im den Seethung
+#facs_50_r1l8 Ober auffsehen
+#facs_50_r1l9 Schultheiß
+#facs_50_r1l10 thun
+#facs_50_r2l1 Damit hinführo die Fischer sich dieser Ordnung
+#facs_50_r2l2 emäd zu verhalten wüßen, Soll ein jeh¬
+#facs_50_r2l3 wesender Schultheis zu thun, wehrem
+#facs_50_r2l4 seiner Amtdpfleg, wenigstend zweymahl
+#facs_50_r2l5 Deß Jahrd eine um hart um den Thunerlei¬
+#facs_50_r2l6 thun, und allen, und jeden Fischeren,
+#facs_50_r2l7 soum bemeldten See geseßen, nit nun
+#facs_50_r2l8 diesere Ordnung vorlesen, und selbige
+#facs_50_r2l9 in Eydtdglübt auffnemen, derer zu-
+#facs_50_r2l10 geleben, sonderen Zugleich /: wie im 10.
+#facs_50_r2l11 art. gemeldt) ihre gern besichtigen, ob Sie
+#facs_50_r2l12 der Ordnung und dem Modell gemän¬
+#facs_50_r2l13 seyen, den fehlbahren, und die di)
+#facs_50_r2l14 nicht halten thäten, das fischen im Sei
+#facs_50_r2l15 gäntzlich verpiethen und die Barn
+#facs_50_r2l16 Confiscieren, so aber einer sich weiters
+#facs_50_r2l17 über sothanes verbolt vergriffe, anoch
+#facs_50_r2l18 nebst der confiscation der Barnen, mit
+#facs_50_r2l19 20tt buß belegen,
+#facs_50_r2l20 Die weil des Thuner See allgemeiner auff¬
+#facs_50_r2l21 seher ein Schultheiß zu thun ist, Ald ist
+#facs_50_r2l22 derhalben sein ämt und pflicht nit allein
+#facs_50_r2l23 durch
+#facs_50_r3l1 den decklagt
+#facs_50_r3l2 zu Interlaken.
+#facs_50_r3l3 und Schulthei etc.
+#facs_50_r3l4 zu Untersuch
+#facs_50_r3l5 29
+#facs_50_r3l6 dee Rögt
+#facs_50_r4l1 95.
+#facs_50_r4l2 durch die verordneten See vögt, sonder¬
+#facs_50_r4l3 auch so weit müglich durch sich selbst auf
+#facs_50_r4l4 alle Fischer geflissentlich zu achten,
+#facs_50_r4l5 die übertretter dieser Ordnung et seyn
+#facs_50_r4l6 daß Sie durch Ihne selbst entdekt oder
+#facs_50_r4l7 von den Seekögten, oder anderen
+#facs_50_r4l8 Ihme verleidet werden, gan thun
+#facs_50_r4l9 vor Gericht zu fordern, zu berechtigen,
+#facs_50_r4l10 und in die hierin bestimten straffen,
+#facs_50_r4l11 ohne schonen, und ansehen der persohn¬
+#facs_50_r4l12 zu zeüchen.
+#facs_50_r4l13 Hieneben sollen auch die Landbögt zu Interla¬
+#facs_50_r4l14 ben, und Schultheiß zu Untersern ein
+#facs_50_r4l15 eflißen auffsehen haben, ob man dieser
+#facs_50_r4l16 Ordnung gelebe und nachkomme.
+#facs_50_r4l17 Es ist auch sehr nohtwendig, daß hinführo
+#facs_50_r4l18 Vier See vögt verordnet werden näml.
+#facs_50_r4l19 Einer zu Oberhoffen oder Hilterfingen,
+#facs_50_r4l20 der ander zu Schietz,
+#facs_50_r4l21 Der 3te zu Lensigen,
+#facs_50_r4l22 Der 4te zu tädligen
+#facs_50_r4l23 deren Amt und pflicht seyn soll, mit allein¬
+#facs_50_r4l24 fleiß-
+#facs_51_r2l1 30
+#facs_51_r2l2 Der Vögt vor
+#facs_51_r2l3 Schultheisung
+#facs_51_r2l4 Raht zu thun zu
+#facs_51_r2l5 erwehlene
+#facs_51_r3l1 Fleiß Eyffer und ernst, zu trachten, daß
+#facs_51_r3l2 ob dieser Ordnung steiff und ohn zerbrüchlich
+#facs_51_r3l3 gehalten werde, und den oder denjenigen
+#facs_51_r3l4 so sie ent deken wurden, wider den ein
+#facs_51_r3l5 oder anderen articul dieser Ordnung ge¬
+#facs_51_r3l6 handlet zu haben, ohne ansehen der persohn¬
+#facs_51_r3l7 ohne schonen dem Schultheisen zu thun
+#facs_51_r3l8 an zugeben, und zu verleiden, auch alles
+#facs_51_r3l9 dat, soet wann des thuner Sees halb be-
+#facs_51_r3l10 denblich für fallen möchte, für ihne
+#facs_51_r3l11 zu bringen,
+#facs_51_r3l12 solche Sie vögt sollen jährlich zu eingehen,
+#facs_51_r3l13 Dem Früling durch den Schultheiß und
+#facs_51_r3l14 Raht zu thun gesetzt und erwehlt werden
+#facs_51_r3l15 die sollend sich jeder Zeit befleißen, feine
+#facs_51_r3l16 Ehrbare ungetreüwe, aufrechte und
+#facs_51_r3l17 geflißene Männer hat zu zu verordnen,
+#facs_51_r3l18 und welche Persohnen nun allso zu See¬
+#facs_51_r3l19 vögten erkosen, soll allwegen der Schult¬
+#facs_51_r3l20 heiß zu thun, solche verordnete Seewögt
+#facs_51_r3l21 auf das fürderlichst für sich forderen,
+#facs_51_r3l22 Ihnen diesere Ordnung nit mir für lesen
+#facs_51_r3l23 laßen
+#facs_51_r4l1 31
+#facs_51_r4l2 Der Schultheiß
+#facs_51_r4l3 zu thun sollauf
+#facs_51_r4l4 die See Nögt
+#facs_51_r4l5 achten.
+#facs_51_r4l6 32
+#facs_51_r4l7 der 8. Tisch gehört
+#facs_51_r5l1 97
+#facs_51_r5l2 laßen, sonderen einem jeden eine Copei
+#facs_51_r5l3 davon zu stellen, und Sie darauff beeydigen,
+#facs_51_r5l4 Damit aber die See Vögt Ihre pflicht ge¬
+#facs_51_r5l5 flißentlich leisten, und ob dieser Ordnung
+#facs_51_r5l6 halten, soll der Schultheiß zu thun in
+#facs_51_r5l7 scharpff aufsehen auff Sie haben, also, daß
+#facs_51_r5l8 wo sie an solchem fahrläßig sein wurden
+#facs_51_r5l9 er sie darum straffen, oder wo von nöhten
+#facs_51_r5l10 deßen und berichten.
+#facs_51_r5l11 Dieweil die tägliche erfahrung erweiset, daß
+#facs_51_r5l12 die Fischer offt fuhle, und unwerschafft. Fisch
+#facs_51_r5l13 Item auch derer die zufangen verbotten
+#facs_51_r5l14 nach thun auf den Märit bringend;
+#facs_51_r5l15 Eint und andere persohnen oder Fischer
+#facs_51_r5l16 derer ein Merbliche an zahl, heimlich
+#facs_51_r5l17 oder offentlich, auff den straßen Schiff¬
+#facs_51_r5l18 lentenen, oder anders wo aufkaufend
+#facs_51_r5l19 und heimlicher weid hinwegg fergend,
+#facs_51_r5l20 dar durch jederman anfischen mangel
+#facs_51_r5l21 leiden, oder dieselben Teürerkaufen muß,
+#facs_51_r5l22 und weilen allzeit der dritte Fisch in der
+#facs_51_r5l23 )
+#facs_51_r5l24 Walt thun zu handen der Burgerschafft
+#facs_52_r1l1 98
+#facs_52_r1l2 Fisch Abschau vor zu
+#facs_52_r1l3 thun dero
+#facs_52_r1l4 Pflichten.
+#facs_52_r2l1 und umligenden Landschaft feilge¬
+#facs_52_r2l2 halten, und verkaufft werden soll;
+#facs_52_r2l3 hingegen wann der Schultheis zu thun
+#facs_52_r2l4 um den See fahrt, und die Fischer in
+#facs_52_r2l5 glübd aufnimt, die Stalt thun dem
+#facs_52_r2l6 5en Theil deßelben Costend erleiden, und
+#facs_52_r2l7 ertragen muß; daß deme nun allem
+#facs_52_r2l8 nachgelebt werde, wollen wir daß hin¬
+#facs_52_r2l9 ichco, jährlich zu thun zwey Fisch¬
+#facs_52_r2l10 Bschauwer, namlich einer des Rahts,
+#facs_52_r2l11 und einer der Bürgerin gesetzt, und
+#facs_52_r2l12 dieselben Solleniter beeydiget werden
+#facs_52_r2l13 sollen
+#facs_52_r2l14 deropflichten seyn sollen, jedes tage,
+#facs_52_r2l15 fürnemlich aber an Pischtagen, auf
+#facs_52_r2l16 der Sinnenbrugg geflißen wahr zu nemen,
+#facs_52_r2l17 daß der drilte Fisch der Bürgerschafft zu
+#facs_52_r2l18 thun seil gehalten, und dera nit et wann
+#facs_52_r2l19 durch fürbäufer anzukt werden und
+#facs_52_r2l20 daß niemand faule unverschaffte fisch
+#facs_52_r2l21 feil habe, so sie dergleichen Eischfunden,
+#facs_52_r2l22 sollen.
+#facs_52_r3l1 99
+#facs_52_r3l2 sollen sie selbige allsobald in die Baren
+#facs_52_r3l3 werfen, die dann, so derer feilgehalten,
+#facs_52_r3l4 deßgleichen diejenigen so Stitzling um
+#facs_52_r3l5 buch fisch zu Märit bringen, oder fisch mit
+#facs_52_r3l6 Schwal aufkaufen, et seye heimlich
+#facs_52_r3l7 oder öffentlich, dieselben sie seyen
+#facs_52_r3l8 käufer oder verbäuffer, dem Schult¬
+#facs_52_r3l9 theis zu thun angeben um nach der
+#facs_52_r3l10 ordnung gestrafft zu werden. Mit
+#facs_52_r3l11 weniger sollen die Fisch schauwer heimliche
+#facs_52_r3l12 auffseher haben, die auff die jenigen Pischer
+#facs_52_r3l13 und fürkäufer, so bey der ankunft der
+#facs_52_r3l14 Fischerens: sonderlich im Albök fang) gen
+#facs_52_r3l15 Scherzlingen, und an andere Ohrt laufend,
+#facs_52_r3l16 die fisch heimlich auffkaufen, und in vör¬
+#facs_52_r3l17 ben, oder anderen gschirten, ausert halb
+#facs_52_r3l18 der Stalt, den Graben ab in Ihre Schiff oder
+#facs_52_r3l19 Weydling welche zu solchem Endhin
+#facs_52_r3l20 underthalb der Stalt anbinden, tragend,
+#facs_52_r3l21 oder anderer gestalten, dahin verschafen,
+#facs_52_r3l22 und sie darnach darwaßet abferggen,
+#facs_53_r1l1 100
+#facs_53_r1l2 Aren.
+#facs_53_r3l1 und an anderen Ohrten verkaufen,
+#facs_53_r3l2 wo sie derer entdeken, die fisch zu
+#facs_53_r3l3 Ihren handen nommen, und Confiscieren
+#facs_53_r3l4 die persohnen dann, so wohl täuffen
+#facs_53_r3l5 ald verkäufer dem Schultheißen an
+#facs_53_r3l6 zeigen, der dann sie in gebührende
+#facs_53_r3l7 straaff ziehen soll.
+#facs_53_r3l8 Damit die Aaren ob und unter Thun,
+#facs_53_r3l9 soweit sich das Amt erstrebt, mit verbolten
+#facs_53_r3l10 Garnen, fachen, Reüschens nit bestrichen,
+#facs_53_r3l11 und die Fisch in der Leich Zeit wohl ge¬
+#facs_53_r3l12 fristet bleibend, wollend wir, daß die
+#facs_53_r3l13 Pisch Kschruwer, alt auffseher, auf solches
+#facs_53_r3l14 auch eine genaube aufsicht haben;
+#facs_53_r3l15 welcher einen widerhandlenden
+#facs_53_r3l16 antreffen thäte, soll selbigen allso¬
+#facs_53_r3l17 bald einem Schultheisen, zur be¬
+#facs_53_r3l18 straffung an zeigen, da dann dem
+#facs_53_r3l19 kischg'schauwer, die halbe bußin sel¬
+#facs_53_r3l20 bigem bezirb zu fallen, dennoch daß
+#facs_53_r3l21 dar¬
+#facs_53_r4l1 3
+#facs_53_r4l2 Rischere zu
+#facs_53_r4l3 Limitieren
+#facs_53_r4l4 busen wie
+#facs_53_r4l5 zu vertheillen.
+#facs_53_r5l1 101
+#facs_53_r5l2 der bahn zu thun unter ihrer Inopection
+#facs_53_r5l3 nicht verstanden seyn soll,
+#facs_53_r5l4 Und
+#facs_53_r5l5 Endlichen wollendwir, daß die Anzahl
+#facs_53_r5l6 der Fischeren, nicht mehr un limitiert,
+#facs_53_r5l7 sonderen die allzu große an Zahl
+#facs_53_r5l8 derselben, jeden Ohrtd eingeschränkt
+#facs_53_r5l9 werden solle.
+#facs_53_r5l10 die fallenden busen dann belangend,
+#facs_53_r5l11 wollend wir das selbige allso vertheilt
+#facs_53_r5l12 Namlichen, wann ein ver¬
+#facs_53_r5l13 werden;
+#facs_53_r5l14 leider, ein der Vogt oder auf seher wäre.
+#facs_53_r5l15 soll dem Schultheisen der halbige Theil
+#facs_53_r5l16 den See vögten, und aufseheren dann
+#facs_53_r5l17 der andere halbige theil heim dienen.
+#facs_53_r5l18 So aber der Verleider kein See Vogt oder
+#facs_53_r5l19 beeydigter auff seher wäre, soll dem Schult¬
+#facs_53_r5l20 heißen ein drittel, den See vögten
+#facs_53_r5l21 und aufseheren ein drittel, und
+#facs_53_r5l22 dem Verleideren ein Drittel zu komen.
+#facs_53_r5l23 wlad
+#facs_54_r3l1 Was dann die allharschikung der fischen
+#facs_54_r3l2 in Unsere Haubtstalt anbetrifft, so
+#facs_54_r3l3 lasend wir es hierdurch lediglich bey
+#facs_54_r3l4 denen in Ao 1673 und 1693 von uns
+#facs_54_r3l5 ausgangenen Ordnungen, und defft-
+#facs_54_r3l6 halben an Unsere Amtl. zu thun,
+#facs_54_r3l7 Interlaken, und Unterseen vielfal¬
+#facs_54_r3l8 tig abgelaßenen Schreiben bewenden.
+#facs_54_r3l9 Welchemnach harinnfahld du dich zu
+#facs_54_r3l10 verhalten, gegenwärtige Ordnung
+#facs_54_r3l11 auch dem Mandatenbuch zu fünfftigen
+#facs_54_r3l12 nachricht einschreiben zu laßen.
+#facs_54_r3l13 wüßen wirst. Datum den 27 Augl.
+#facs_54_r3l14 1745

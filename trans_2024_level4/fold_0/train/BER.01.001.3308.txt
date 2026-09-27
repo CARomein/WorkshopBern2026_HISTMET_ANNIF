@@ -1,0 +1,906 @@
+Law ID: BER.01.001.3308
+Name: Erneuerte Schul-Ordnung für der Statt Bern Teitsche Landschafft./1720.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 895/895
+# High similarity (>=50%): 718
+# Low similarity (<50%): 177
+# Not found: 0
+#
+#facs_290_r3l12 An alle 3 Amthleuth, Freyweibel
+#facs_290_r3l13 und Amman
+#facs_290_r3l14 zu
+#facs_290_r3l15 Ihnen die Neuwe Schulordnung
+#facs_290_r3l16 schiken
+#facs_290_r3l17 Schultheis und Raht etc
+#facs_290_r3l18 Dieweil die nohtwendigkeit es er¬
+#facs_290_r3l19 forderet hat habend wir eine durch
+#facs_290_r3l20 gehende Ordnung der Schulen Vnsers
+#facs_290_r4l1 53
+#facs_290_r4l2 Herrn
+#facs_291_r2l1 Teütschen Landts aufsetzen.
+#facs_291_r2l2 und in Druck verfertigen laßen,
+#facs_291_r2l3 wer du auß dem Beylagen zu
+#facs_291_r2l4 ersehen hast; Welche Wir die
+#facs_291_r2l5 hiermit überschickten, mit den
+#facs_291_r2l6 befelch, fleißige Hand obzu¬
+#facs_291_r2l7 halten, und vnsere Kirchen¬
+#facs_291_r2l8 und Schulerde, diener
+#facs_291_r2l9 in deiner Amtsverwaltung
+#facs_291_r2l10 dahin anzumahren, daß sie der
+#facs_291_r2l11 selben getreüblich nach kommin
+#facs_291_r2l12 zu, welchem und nicht allein die
+#facs_291_r2l13 für doch ein Exemplar neuen
+#facs_291_r2l14 sondern auch einem Jeden
+#facs_291_r2l15 Predigtanten und Lehrmeister
+#facs_291_r2l16 eine zustellen solst, der
+#facs_291_r2l17 Meinung, daß ein jeder es seinen
+#facs_291_r2l18 successoren sindterlaßen, in
+#facs_291_r2l19 Einer daßelbe mit sich lieg
+#facs_291_r2l20 neuig solle; wie zu thun h
+#facs_291_r2l21 Dat. den 25. Janu. 1720.
+#facs_291_r5l1 553.
+#facs_291_r5l2 3
+#facs_291_r5l3 Ephreyburg.
+#facs_291_r5l4 ad Weltschen
+#facs_291_r5l5 tere
+#facs_291_r5l6 der Herren Amthleüthe
+#facs_291_r5l7 Ao. 1720
+#facs_291_r5l8 Landts, auf Ihre Rechnung
+#facs_291_r5l9 februarius
+#facs_291_r5l10 12. d.
+#facs_291_r5l11 1552.
+#facs_291_r5l12 Erneuerte
+#facs_291_r5l13 13. do.
+#facs_291_r5l14 Schul=Ordnung
+#facs_291_r5l15 in
+#facs_291_r5l16 3. 14
+#facs_291_r5l17 Der Statt Bern Teutsche
+#facs_291_r5l18 Landschafft / 1720.
+#facs_291_r5l19 15
+#facs_291_r5l20 16 do
+#facs_291_r5l21 19. d
+#facs_291_r5l22 Getruckt zu BERN /
+#facs_291_r5l23 den 20. d
+#facs_291_r5l24 In Hoch=Oberkeitlicher Truckerey / 1720.
+#facs_291_r5l25 Aen„ 21. do.
+#facs_291_r5l26 ces gens
+#facs_291_r5l27 22. do.
+#facs_291_r5l28 Arlangen
+#facs_291_r5l29 A Donstags de
+#facs_291_r5l30 Brandis
+#facs_292_r2l1 Teütschen Landts aufsetzen
+#facs_292_r2l2 und in drück verfertigen laßen.
+#facs_292_r2l3 ler Du auß den Beylagen zu
+#facs_292_r2l4 1.° 1. ; 11.
+#facs_292_r2l5 ne
+#facs_292_r2l6 re22
+#facs_292_r2l7 h
+#facs_292_r2l8 of
+#facs_292_r2l9 n
+#facs_292_r2l10 i
+#facs_292_r2l11 selbe mit sich weg¬
+#facs_292_r2l12 lar zu thuen h
+#facs_292_r2l13 Januarij 1720
+#facs_292_r3l1 555.
+#facs_292_r3l2 schreybung
+#facs_292_r3l3 3
+#facs_292_r3l4 ad Wöltschen
+#facs_292_r3l5 In
+#facs_292_r3l6 1.
+#facs_292_r3l7 muthleuthe
+#facs_292_r3l8 der Herren
+#facs_292_r3l9 A.o 1720.
+#facs_292_r3l10 Ihre Rechnung
+#facs_292_r3l11 Landts, an
+#facs_292_r3l12 Februarius
+#facs_292_r3l13 13
+#facs_292_r3l14 es a 14
+#facs_292_r3l15 Der Schultheiß und
+#facs_292_r3l16 Raht der Statt Bern
+#facs_292_r3l17 Hund kund hiemit: Demnach
+#facs_292_r3l18 Wir behertziget / was an den Schul=
+#facs_292_r3l19 de la
+#facs_292_r3l20 10.15. do.
+#facs_292_r3l21 len zur Underweisung der Jugend / auch deren
+#facs_292_r3l22 Handhabung gelegen / und deßwegen der Noth=
+#facs_292_r3l23 wendigkeit befunden / die bereits in Anno 1675
+#facs_292_r3l24 angesehene Schul=Ordnung durchgehen und
+#facs_292_r3l25 16. do.
+#facs_292_r3l26 nach dißmahliger Beschaffenheit der Zeiten in eine
+#facs_292_r3l27 is
+#facs_292_r3l28 und anderen einzurichten und um etwas zuver=
+#facs_292_r3l29 nehren. Daß daraufhin Wir gehebt und ver=
+#facs_292_r3l30 ordnet haben wollend:
+#facs_292_r3l31 I.
+#facs_292_r3l32 19. do
+#facs_292_r3l33 No 1
+#facs_292_r3l34 Erstlich / daß die Schulen auff dem Land
+#facs_292_r3l35 in allen Kirchhörinen und Gemeinden an den be=
+#facs_292_r3l36 quemsten Orten angestellt werden / damit die Kin=
+#facs_292_r3l37 der von den umligenden Orten / Dörfferen und
+#facs_292_r3l38 20
+#facs_292_r3l39 dy
+#facs_292_r3l40 Döfen selbige desto besser besuchen könnende
+#facs_292_r3l41 I. Dem=
+#facs_292_r3l42 A=
+#facs_292_r3l43 Kern 21. do.
+#facs_292_r3l44 Das zije
+#facs_292_r3l45 22. do
+#facs_292_r3l46 Arlangen
+#facs_292_r3l47 Donstags den
+#facs_292_r3l48 Brandis
+#facs_293_r2l1 Jütschen Landts aufsetze,
+#facs_293_r2l2 und in Druck verfertigen laßen,
+#facs_293_r2l3 wie du auß den beylagen zu
+#facs_293_r2l4 1 à 0 des d
+#facs_293_r2l5 8.3 ( 4) Ses
+#facs_293_r2l6 II.
+#facs_293_r2l7 Demnach die Gemeinden dahin trachten sol=
+#facs_293_r2l8 lind / daß sie / wo möglich / eigne Schul=Häus
+#facs_293_r2l9 ser haben / kauffen oder bauwen / oder wann
+#facs_293_r2l10 nicht in ihrem Vermögen / Häuser darzu und
+#facs_293_r2l11 den Zins empfangen thuyend / auf daß die Schuld
+#facs_293_r2l12 len ohne Hindernus gehalten werden könnende.
+#facs_293_r2l13 m
+#facs_293_r2l14 Welche Häuser dann zu kommlicherer Besuchung
+#facs_293_r2l15 auch wegen der umligenden Orten / wo immer
+#facs_293_r2l16 i
+#facs_293_r2l17 nöglich / in der Mitten der Dörfferen seyn sol=
+#facs_293_r2l18 ten
+#facs_293_r2l19 da
+#facs_293_r2l20 ill.
+#facs_293_r2l21 Die Schulen / was die jungen und klei=
+#facs_293_r2l22 fel
+#facs_293_r2l23 nen Kinder betrifft / auf Gallen Tag anfahen
+#facs_293_r2l24 und der Außgang auf Lätare / oder Osteren /
+#facs_293_r2l25 zu
+#facs_293_r2l26 der mitten Aprilis / je nach Umstand und Be=
+#facs_293_r2l27 schaffenheit der Gemeinden; Die anderen aber
+#facs_293_r2l28 f¼
+#facs_293_r2l29 so etwas stärcker und grösser / und zum Feldba=
+#facs_293_r2l30 und anderen Wercken nothwendig gebraucht wer=
+#facs_293_r2l31 den / den ersten Novembris den Anfang nemm=
+#facs_293_r2l32 und etwas früher als die Kleinen erlassen /
+#facs_293_r2l33 wüschen zu desto grösserem Fleiß angehalten wer=
+#facs_293_r2l34 f.
+#facs_293_r2l35 den sollind. Welche Zeit deß Anfangs und An=
+#facs_293_r2l36 gangs der Schulen wegen Ungleichheit der O=
+#facs_293_r2l37 nen durch den Amptsmann und Vorsteher des
+#facs_293_r2l38 en
+#facs_293_r2l39 Oris
+#facs_293_r2l40 M
+#facs_293_r2l41 li
+#facs_293_r2l42 daßelbe mit sich weg
+#facs_293_r2l43 olle; wie zu thuen h
+#facs_293_r2l44 25 Jany. 1720
+#facs_293_r3l1 1553.
+#facs_293_r3l2 schreibung
+#facs_293_r3l3 entsch und Weltschen
+#facs_293_r3l4 t
+#facs_293_r3l5 der Herren Amt
+#facs_293_r3l6 gen Ao 1720
+#facs_293_r3l7 1e
+#facs_293_r3l8 Er
+#facs_293_r3l9 Landts
+#facs_293_r3l10 februarius
+#facs_293_r3l11 (s)
+#facs_293_r3l12 Orts nach Beschaffenheit und Gutbefinden ein=
+#facs_293_r3l13 bezielet und außgestrecket werden mag; An de=
+#facs_293_r3l14 gen Orten aber / wo es seyn kan / und bereits
+#facs_293_r3l15 13.
+#facs_293_r3l16 eingeführt ist / sollen die Schulen das gantze Jahr
+#facs_293_r3l17 durch continuiert werden / wo es aber deß Som
+#facs_293_r3l18 ners nit seyn kan / soll doch durch den Sommer
+#facs_293_r3l19 n. 4.
+#facs_293_r3l20 alle Wochen zwey oder wenigstens ein Tag / es
+#facs_293_r3l21 scy Donnstag oder Samstag zur Schul gewidt.
+#facs_293_r3l22 met und gewendet / und die Jugend zu deren Be=
+#facs_293_r3l23 suchung gehalten werden / auf daß sie nicht deß
+#facs_293_r3l24 Sommers wieder vergesse / was sie den Winter
+#facs_293_r3l25 durch mit Mühe erlehrnet haben / sondern deren
+#facs_293_r3l26 „ 15
+#facs_293_r3l27 Erkanntnus immerhin wachse und zunemme / für
+#facs_293_r3l28 welche Mühe aber die Schulmeistere nach Bil=
+#facs_293_r3l29 lichkeit belohnet werden sollen.
+#facs_293_r3l30 16. d.
+#facs_293_r3l31 9
+#facs_293_r3l32 Die Gemeinden sollen die Schulmeister nicht
+#facs_293_r3l33 eignen Gwalts und Willens annemmen und be=
+#facs_293_r3l34 zellen / sonderen die begährenden Persohnen für
+#facs_293_r3l35 die Amptleuth und Vorsteher der Kirchen / als
+#facs_293_r3l36 19. d
+#facs_293_r3l37 ihre Fürgesetzte denen solche Annemmung zusteht /
+#facs_293_r3l38 weisen.
+#facs_293_r3l39 1
+#facs_293_r3l40 d
+#facs_293_r3l41 den 20
+#facs_293_r3l42 Und zum Schul=Dienst Gottsförchtige
+#facs_293_r3l43 und Tugend=liebende Personen / die zur Under=
+#facs_293_r3l44 wei=
+#facs_293_r3l45 nem 21. do
+#facs_293_r3l46 13 x5
+#facs_293_r3l47 22 do
+#facs_293_r3l48 Arbangen
+#facs_293_r3l49 A Donstags d
+#facs_293_r3l50 Brandis
+#facs_294_r3l1 Teütschen Landts außsetzen
+#facs_294_r3l2 und in drück verfertigen laßen,
+#facs_294_r3l3 wie du auß den beylagen zu
+#facs_294_r3l4 1 à 14 x
+#facs_294_r3l5 r
+#facs_294_r3l6 (6)8
+#facs_294_r3l7 weisung der Jugend von Natur geneigt undtüche
+#facs_294_r3l8 sie
+#facs_294_r3l9 tig / erwählt und bestätiget werden / nachdem
+#facs_294_r3l10 sie ihrer Erkanntnus / Tüchtigkeit und ohnanstöste
+#facs_294_r3l11 bey
+#facs_294_r3l12 igen Handel und Wandels halber / wie es dann
+#facs_294_r3l13 die Sach erforderet / werden durch ein vorge=
+#facs_294_r3l14 endes Examen auf die Prob gesetzt worden sey,
+#facs_294_r3l15 Deßwegen auch (obwohlen ein Einheimischer sich
+#facs_294_r3l16 ehr er die erforderliche Tüchtigkeit hat / billich ei=
+#facs_294_r3l17 my
+#facs_294_r3l18 nem Fremdem vorzuziehen) in deß Schulmeisters
+#facs_294_r3l19 Erwählung nicht bloß und allein auf das Hey=
+#facs_294_r3l20 in
+#facs_294_r3l21 maht / Herkommen und Fründschafft / sondern
+#facs_294_r3l22 vornemlich und allein auf die Tüchtigkeit zusehen,
+#facs_294_r3l23 da
+#facs_294_r3l24 und nachwärts von Zeit zu Zeit durch Unser
+#facs_294_r3l25 Pfarrherren deß mehreren underrichtet werden so
+#facs_294_r3l26 se
+#facs_294_r3l27 len
+#facs_294_r3l28 VI
+#facs_294_r3l29 h
+#facs_294_r3l30 Welche dann vor allen dingen / ihren Schutz
+#facs_294_r3l31 Kinden ein gut Exempel vortragen / die Kinde
+#facs_294_r3l32 leissig / verständlich und deutlich lehren hätten.
+#facs_294_r3l33 esen und zum Wort GOttes anhalten / rc. au
+#facs_294_r3l34 sie die Kinder außwendig lehrnen / sie selbe zu er=
+#facs_294_r3l35 wol sollind lehrnen lesen im Psalmenbuch / Te=
+#facs_294_r3l36 stament und Bibel / und darinn gegründet und
+#facs_294_r3l37 geübt / und erst hernach zu Erlehrnung deß Catts.
+#facs_294_r3l38 chismi angehalten / als durch welch Mittel sie mit
+#facs_294_r3l39 een
+#facs_294_r3l40 M
+#facs_294_r3l41 sic
+#facs_294_r3l42 lich weg,
+#facs_294_r3l43 keiner
+#facs_294_r3l44 thuy etc.
+#facs_294_r3l45 nem
+#facs_294_r3l46 0
+#facs_294_r3l47 Jan
+#facs_294_r4l1 1553.
+#facs_294_r4l2 schreibung
+#facs_294_r4l3 tisch und Weltschen
+#facs_294_r4l4 te
+#facs_294_r4l5 leuth
+#facs_294_r4l6 der Herren Amt
+#facs_294_r4l7 geen Ao. 1720
+#facs_294_r4l8 Ihre Rechte
+#facs_294_r4l9 ist
+#facs_294_r4l10 Landts, welche
+#facs_294_r4l11 februarius
+#facs_294_r4l12 12.
+#facs_294_r4l13 (7)8
+#facs_294_r4l14 nur besser im lesen geübt / sondern auch zum
+#facs_294_r4l15 Heiligen Wort GOttes mehr angewöhnt wer=
+#facs_294_r4l16 13
+#facs_294_r4l17 ben.
+#facs_294_r4l18 Die Grösseren aber soll er zum Schreiben
+#facs_294_r4l19 fleissig anhalten / und das Geschriebne lehrnen le=
+#facs_294_r4l20 den; Jm Corschismo aber also underweisen / daß
+#facs_294_r4l21 1714
+#facs_294_r4l22 ters bey dem blossen außwendig lehrnen nicht blei=
+#facs_294_r4l23 ben lasse / sondern durch Catechisieren / jedem nach
+#facs_294_r4l24 seiner Fähigkeit zum Verstand der erlehrnten Fra=
+#facs_294_r4l25 gen Anleitung gebe
+#facs_294_r4l26 15 d.
+#facs_294_r4l27 Damit aber die Lesung der Schrifft in all=
+#facs_294_r4l28 deg befördert werden. Soll bey jeder Schutz
+#facs_294_r4l29 ein Bibel und Testament als gemein Gut ligen
+#facs_294_r4l30 16 do.
+#facs_294_r4l31 und bleiben.
+#facs_294_r4l32 III.
+#facs_294_r4l33 Der Schulmeister soll auch Gewalt haben.
+#facs_294_r4l34 und von den Eltern nicht verhindert werden / die
+#facs_294_r4l35 19 do
+#facs_294_r4l36 zugend / wo vonnöhten / mit der Ruhten zu züch /
+#facs_294_r4l37 digen / und das mit Fürsichtigkeit und Bescheid
+#facs_294_r4l38 denheit. So aber einer in der Straff überfahren,
+#facs_294_r4l39 wurde / under den Fürgesetzten verleydet und nach
+#facs_294_r4l40 den 20. d.
+#facs_294_r4l41 Gebühr gestrafft werden.
+#facs_294_r4l42 IX. Es
+#facs_294_r4l43 den 21. do.
+#facs_294_r4l44 Bapp
+#facs_294_r4l45 22. do.
+#facs_294_r4l46 Arleangen
+#facs_294_r4l47 Donstags den
+#facs_294_r4l48 Brandis
+#facs_295_r2l1 Teütschen Landts aufsetzen
+#facs_295_r2l2 und in Druck verfertigen laßen,
+#facs_295_r2l3 wie du auß den beylagen zu
+#facs_295_r2l4 "    "   0.10
+#facs_295_r2l5 er
+#facs_295_r2l6 ( 8) S
+#facs_295_r2l7 IX.
+#facs_295_r2l8 sie
+#facs_295_r2l9 Es sollen auch die Lehrmeister sich bey Zu=
+#facs_295_r2l10 bey
+#facs_295_r2l11 ren in die Schul begeben / da dann die Stunde
+#facs_295_r2l12 wann sie anfangen und auffhören sollen / ein
+#facs_295_r2l13 der Vorsteher / nach Beschaffenheit deß Orts be=
+#facs_295_r2l14 stimmen soll / und die Morgenstund mit Gebä=
+#facs_295_r2l15 und Psalmen Singen / wie auch mit lesen und
+#facs_295_r2l16 i
+#facs_295_r2l17 summarischer Betrachtung eines Capituls der
+#facs_295_r2l18 Schrifft / sonderlich auß dem Neuen Testamen
+#facs_295_r2l19 i
+#facs_295_r2l20 anfangen / und sonderlich zusehen / daß das Ge=
+#facs_295_r2l21 sang in Kirchen und Schulen geäuffnet werden
+#facs_295_r2l22 Zu welchem End er alle taugliche Schul=Kinder
+#facs_295_r2l23 de
+#facs_295_r2l24 vor ihrer Erlassung auß der Schul die Psalme=
+#facs_295_r2l25 Music zu erlehrnen anhalten / und darinn sie
+#facs_295_r2l26 st
+#facs_295_r2l27 underweisen soll.
+#facs_295_r2l28 X
+#facs_295_r2l29 zu
+#facs_295_r2l30 Zu diesem End sollen die Schulmeister in
+#facs_295_r2l31 denen Zeiten und Stunden weil die Schul währt /
+#facs_295_r2l32 ch der Schul=Stuben nicht äusseren / noch an
+#facs_295_r2l33 deren Geschäfften nachgehen / wie offtmahls be=
+#facs_295_r2l34 Stätz
+#facs_295_r2l35 schicht / sondern bey den Schul=Kindern
+#facs_295_r2l36 verbleiben / und fleissige Achtung auf sie haben /
+#facs_295_r2l37 auch kein Tag ohne Erlaubnus deß Vorstehers
+#facs_295_r2l38 so er nahe bey der Stell / aussert der Schul bis
+#facs_295_r2l39 XI. Auch
+#facs_295_r2l40 den / noch sich äusseren
+#facs_295_r2l41 M
+#facs_295_r2l42 su
+#facs_295_r2l43 auch dieselbe mit sich weg¬
+#facs_295_r2l44 solle; wie zu thuen h
+#facs_295_r2l45 25 Jany. 1720
+#facs_295_r3l1 3
+#facs_295_r3l2 Ephreyburg
+#facs_295_r3l3 3
+#facs_295_r3l4 te
+#facs_295_r3l5 leuthig
+#facs_295_r3l6 der Herren Amt
+#facs_295_r3l7 Ihre Sie
+#facs_295_r3l8 Landts, aus
+#facs_295_r3l9 (9)
+#facs_295_r3l10 XI
+#facs_295_r3l11 Auch sollen sie deßwegen nicht mehr befügt,
+#facs_295_r3l12 seyn / die Schul durch ihr Weib und offt noch
+#facs_295_r3l13 kleine Kinder vorstehen zulassen / sondern der
+#facs_295_r3l14 Enderweisung / sonderlich der Grössern halb
+#facs_295_r3l15 selbst abzuwarien / und wo es ihnen selbst nicht
+#facs_295_r3l16 möglich / solche durch tüchtige Personen versehen
+#facs_295_r3l17 assen.
+#facs_295_r3l18 XII
+#facs_295_r3l19 Was dann ihre Belohnung betrifft / wer
+#facs_295_r3l20 den die Gemeinden die Anstalt verfügen / daß ih=
+#facs_295_r3l21 nen ihr bestimmter Lohn von allen ohn einiche
+#facs_295_r3l22 Außnahm eingehändigt werde; Und damit ein
+#facs_295_r3l23 Schulmeister nicht gemüssiget werde bey der Ge=
+#facs_295_r3l24 meind Haß und Ungunst einzulegen / oder sich
+#facs_295_r3l25 unwärth zu machen / noch auch an seiner Besol=
+#facs_295_r3l26 bung zu kurtz komme / soll der Schul=Lohn ohne der
+#facs_295_r3l27 Schulmeistern Müh durch Vorgesetzte der Ge
+#facs_295_r3l28 meind gleich anderen Oberkeitlichen oder gemei=
+#facs_295_r3l29 nen Gefällen eingezogen / und den Schulmeiste=
+#facs_295_r3l30 ren sicher eingehändiget werden: Jn dem Ver=
+#facs_295_r3l31 stand / daß in dessen Entrichtung jemand säu=
+#facs_295_r3l32 nig wäre / daß er oder dieselben von dem Chor
+#facs_295_r3l33 Bricht oder Fürgesetzten auch Rechtlich darzu an=
+#facs_295_r3l34 gehalten werden solle ohne deß Schulmeisters
+#facs_295_r3l35 Ent=
+#facs_295_r3l36 vos.
+#facs_295_r3l37 Arbange
+#facs_295_r3l38 A donstag
+#facs_295_r4l1 553.
+#facs_295_r4l2 tsch und Weltschen
+#facs_295_r4l3 geen Ao 1720
+#facs_295_r4l4 februarius
+#facs_295_r4l5 12
+#facs_295_r4l6 e
+#facs_295_r4l7 13
+#facs_295_r4l8 3.14.
+#facs_295_r4l9 15 do.
+#facs_295_r4l10 16 do.
+#facs_295_r4l11 19. do
+#facs_295_r4l12 20. d.
+#facs_295_r4l13 de
+#facs_295_r4l14 den 21. do.
+#facs_295_r4l15 22. do.
+#facs_295_r4l16 den
+#facs_296_r2l1 Teütschen Landts aufsetzen,
+#facs_296_r2l2 und in Druck verfertigen laßen,
+#facs_296_r2l3 wie du auß den beylagen zu
+#facs_296_r2l4 de l'a fait
+#facs_296_r2l5 er
+#facs_296_r2l6 (10)
+#facs_296_r2l7 Entgeltnus. Und als deß einten oder anderen
+#facs_296_r2l8 sie
+#facs_296_r2l9 Besoldung zu gering wäre / dieselbe ihnen verbesch
+#facs_296_r2l10 seret werden sollen
+#facs_296_r2l11 bey
+#facs_296_r2l12 XIII.
+#facs_296_r2l13 se
+#facs_296_r2l14 Wann dann auch das Holtz ein Stuck deß
+#facs_296_r2l15 Schulmeisters Belohnung ist / als soll jede Ge=
+#facs_296_r2l16 meind denselben darmit nach Nohtdurfft verschen /
+#facs_296_r2l17 -
+#facs_296_r2l18 also daß das Holtz ihme an denen Orten da ge=
+#facs_296_r2l19 meine Waldungen sind / nicht mehr durch Kin=
+#facs_296_r2l20 n
+#facs_296_r2l21 der Scheiter=weiß zugetragen / sondern ab den
+#facs_296_r2l22 Gmeind genommen / und ihme ohn sein Eingel
+#facs_296_r2l23 da
+#facs_296_r2l24 samethafft zum Hauß geführt werden.
+#facs_296_r2l25 IV.
+#facs_296_r2l26 sie
+#facs_296_r2l27 Sollend die Elteren ihre Kinder bey Zeiten
+#facs_296_r2l28 und so bald sie etwas fassen können / in die Schuld
+#facs_296_r2l29 zu
+#facs_296_r2l30 chicken / und dem Schulmeister selbs mit Be=
+#facs_296_r2l31 schreibung ihrer Natur / anbefehlen / und so
+#facs_296_r2l32 f.
+#facs_296_r2l33 hierinn saumselig erfunden werden / sollen die
+#facs_296_r2l34 Fürgesetzten Gwalt haben / sie darzu anzuhal=
+#facs_296_r2l35 te
+#facs_296_r2l36 ten / auch selbst zu Benemmung alles Vorwands
+#facs_296_r2l37 nach Beschaffenheit deß Orts und der Personen /
+#facs_296_r2l38 das Alter zubestimmen / wie bald die Kinder zur
+#facs_296_r2l39 x
+#facs_296_r2l40 Schul zeschicken.
+#facs_296_r2l41 V. E.
+#facs_296_r2l42 all
+#facs_296_r2l43 M
+#facs_296_r2l44 suis
+#facs_296_r2l45 mit sich weg¬
+#facs_296_r2l46 dat
+#facs_296_r2l47 Dem
+#facs_296_r2l48 wie zu thun
+#facs_296_r2l49 ne
+#facs_296_r2l50 Jany 1720
+#facs_296_r3l1 ius,
+#facs_296_r3l2 C
+#facs_296_r3l3 schreiburg
+#facs_296_r3l4 und Weltschen
+#facs_296_r3l5 de
+#facs_296_r3l6 leuthe,
+#facs_296_r3l7 der Herren Amt
+#facs_296_r3l8 geen Ao. 1720
+#facs_296_r3l9 Ihre Rechte
+#facs_296_r3l10 Landts, auß
+#facs_296_r3l11 februarius
+#facs_296_r3l12 12 do
+#facs_296_r3l13 (11)
+#facs_296_r3l14 XV.
+#facs_296_r3l15 Es sollen arme und nohtdürfftige Eltern / die
+#facs_296_r3l16 . d.
+#facs_296_r3l17 13
+#facs_296_r3l18 ihren Kinderen / Bücher zu kauffen / auch nicht
+#facs_296_r3l19 der Zeit / da sie in die Schul gehen / Nahrung
+#facs_296_r3l20 und Kleider zu geben / nicht vermögen / unsere
+#facs_296_r3l21 Ambtsleuth und Vorstehere um Raht und Hülf
+#facs_296_r3l22 14. d
+#facs_296_r3l23 versuchen / welche dann allen möglichen Fleiß an
+#facs_296_r3l24 gewenden immer erinneret werden / wie ihnen ent=
+#facs_296_r3l25 weders auß der Kirchen= oder gemeinen Gut / o=
+#facs_296_r3l26 der auß gemeiner Steur geholffen werden möge.
+#facs_296_r3l27 weil jeder Gemeind nach ihrem Vermögen ihre
+#facs_296_r3l28 15 do
+#facs_296_r3l29 Armen zuerhalten obligt / damit die Armen auß
+#facs_296_r3l30 Mangel der Nahrung von der Christlichen Un=
+#facs_296_r3l31 verweisung nicht hinderhalten werden / wo aber
+#facs_296_r3l32 die Gemeinden arm / oder auch kein Kirchen=o
+#facs_296_r3l33 16. do
+#facs_296_r3l34 der Gemein=Gut vorhanden wäre / gibt die Bät=
+#facs_296_r3l35 tel=Ordnung Wegweisung / wie und durch was
+#facs_296_r3l36 Weg in dieser tringenden Noth Hoch=Oberkeit
+#facs_296_r3l37 liche Gnad und Hülff gebührend anzeflehen / zu
+#facs_296_r3l38 mahlen auch durch Außtheilung Testamentern
+#facs_296_r3l39 19. do.
+#facs_296_r3l40 und anderer Geistlichen Bücheren under Heyls
+#facs_296_r3l41 Begierige Arme das Allmosen am besten ange=
+#facs_296_r3l42 wendt wird.
+#facs_296_r3l43 XVI
+#facs_296_r3l44 d. 20. d.
+#facs_296_r3l45 Die Schul=Kinder sollen GOtt von Her=
+#facs_296_r3l46 tzen
+#facs_296_r3l47 B 2
+#facs_296_r3l48 den 21. do.
+#facs_296_r3l49 (D)
+#facs_296_r3l50 35
+#facs_296_r3l51 22. do
+#facs_296_r3l52 Anlangen
+#facs_296_r3l53 dienstags den
+#facs_296_r3l54 Brandis
+#facs_297_r2l1 Teütschen Landts aufsetzen,
+#facs_297_r2l2 und in Druck verfertigen laßen,
+#facs_297_r2l3 für die auß den beylagen zu
+#facs_297_r2l4 1 1 0 a 4
+#facs_297_r2l5 er
+#facs_297_r2l6 (12)8i3
+#facs_297_r2l7 gen förchten. Jhne einbrünstig anruffen / son=
+#facs_297_r2l8 sie
+#facs_297_r2l9 derlich in Schulen GOtt um seinen Geist un=
+#facs_297_r2l10 Beystand anflehen
+#facs_297_r2l11 bey
+#facs_297_r2l12 XVII.
+#facs_297_r2l13 se
+#facs_297_r2l14 Die Erwachsenen sollen in der Kirchen fleis=
+#facs_297_r2l15 sig auf GOttes Wort Achtung geben / damit
+#facs_297_r2l16 sie hernach ihren Fürgesetzten / wo sie befragt wur=
+#facs_297_r2l17 n
+#facs_297_r2l18 den / auß der Predig / was sie behalten / sagen
+#facs_297_r2l19 können / und sich gegen denselben ehrerbietig und
+#facs_297_r2l20 m
+#facs_297_r2l21 demühtig erzeigen / sich der Lehrmeistern Lehr und
+#facs_297_r2l22 Straff mit gebührlichem Gehorsam underwerf,
+#facs_297_r2l23 da
+#facs_297_r2l24 fen / und ehrliche Leuth / weder mit Worten noch
+#facs_297_r2l25 mit Wercken beleidigen / oder antasten / und sich
+#facs_297_r2l26 ses
+#facs_297_r2l27 also verhalten / wie sichs from̄en züchtigen Schuld
+#facs_297_r2l28 Kinderen geziemt; Denne sollen sie die Schulen
+#facs_297_r2l29 Norgens und Nachmittags zur bestimmter Zeit
+#facs_297_r2l30 zu
+#facs_297_r2l31 besuchen / sich bey dem Gebätt und Gfang ein
+#facs_297_r2l32 finden / und die Zeit wol anwenden / weilen sie
+#facs_297_r2l33 frühren.
+#facs_297_r2l34 kurtz / hingegen die Elteren sie fleissig darzu an
+#facs_297_r2l35 halten / und nicht Macht haben ohne Erlaut
+#facs_297_r2l36 e
+#facs_297_r2l37 nus ihre Kinder mehrere Tag oder Wochen von
+#facs_297_r2l38 der Schul abzuhalten / under was Vorwand
+#facs_297_r2l39 ihr
+#facs_297_r2l40 des seye. Darum auch der Schulmeister selbe auf
+#facs_297_r2l41 lemahl ablesen / die Abwesenden verzeichnen / und
+#facs_297_r2l42 die Verzeichnus Wochentlich seinem Vorstehe
+#facs_297_r2l43 ende
+#facs_297_r2l44 vor=
+#facs_297_r2l45 M.
+#facs_297_r2l46 sui,
+#facs_297_r2l47 selbe mit sich weg¬
+#facs_297_r2l48 Et
+#facs_297_r2l49 lar zu thuen h
+#facs_297_r2l50 np 1720
+#facs_297_r3l1 1553
+#facs_297_r3l2 Ephreyburg.
+#facs_297_r3l3 Kentsch und Weltschen
+#facs_297_r3l4 leuth
+#facs_297_r3l5 der Herren Amt
+#facs_297_r3l6 gen Ao. 1720
+#facs_297_r3l7 Ihre Re¬
+#facs_297_r3l8 kandts, auf
+#facs_297_r3l9 februarius
+#facs_297_r3l10 12.
+#facs_297_r3l11 (13)
+#facs_297_r3l12 vorweisen soll. Und wann ein Kind außbleiben
+#facs_297_r3l13 wurde / wird der Schulmeisier alsobald / und
+#facs_297_r3l14 längstens am ersten Sonntag darnach / da die
+#facs_297_r3l15 13. do.
+#facs_297_r3l16 Kirch=Gnossen zur Anhörung der Predigen ge=
+#facs_297_r3l17 meinlich zusammen kommen / die Elteren der Ur=
+#facs_297_r3l18 sachen solchen Außbleibens befragen / und in
+#facs_297_r3l19 Fahl es sich muhtwillig geäusseret hatte / dasselbe
+#facs_297_r3l20 3. 14. d
+#facs_297_r3l21 in Gebühr züchtigen; Hätten aber die Elteren
+#facs_297_r3l22 dasselbe abgehalten / und wurden sich dieselben von
+#facs_297_r3l23 ihren Vorsteher darüber verantworten / welcher
+#facs_297_r3l24 dann gegen denenselben zu verfahren wüssen wird.
+#facs_297_r3l25 wie hernach folget / wann er an ihre Entschul=
+#facs_297_r3l26 1. 15. d.
+#facs_297_r3l27 digung nicht kommen könnte. Welche auffsetzen=
+#facs_297_r3l28 de Straff nach erforderenden Umständen gestär=
+#facs_297_r3l29 cket / und darzu wo vonnöhten von den Herren
+#facs_297_r3l30 Ambtleuthen die Hand gebotten / die Unfleissi=
+#facs_297_r3l31 7. 16. d.
+#facs_297_r3l32 gen durch die Schulmeister bey ihren Pflichten oh=
+#facs_297_r3l33 ne Schonen noch Ansehen der Persohn angezei=
+#facs_297_r3l34 get / durch unsere Ambtleut und Vorstehere ernst=
+#facs_297_r3l35 lich erinneret werden sollend.
+#facs_297_r3l36 XVIII.
+#facs_297_r3l37 19 do.
+#facs_297_r3l38 Neben den Chor=Richteren und dem Schul=
+#facs_297_r3l39 neister sollen auch etliche unter den besten Kna=
+#facs_297_r3l40 ben zu Auffsehen bestellt werden / damit fleise
+#facs_297_r3l41 den 20. d.
+#facs_297_r3l42 nig Achtung gegeben werde / welche sich in der Kir=
+#facs_297_r3l43 den und Schulen ungebührlich verhalten.
+#facs_297_r3l44 UX. Auß
+#facs_297_r3l45 B
+#facs_297_r3l46 en 21. do.
+#facs_297_r3l47 Gixx
+#facs_297_r3l48 22. do.
+#facs_297_r3l49 Anlangen
+#facs_297_r3l50 A dorstags den
+#facs_297_r3l51 Brandis
+#facs_298_r2l1 Teütschen Landts aufsetzen,
+#facs_298_r2l2 und in druck verfertigen laßen,
+#facs_298_r2l3 wie du aus den beylagen zu
+#facs_298_r2l4 0f 0:10
+#facs_298_r2l5 nous ne
+#facs_298_r2l6 x
+#facs_298_r2l7 23 ( 14)
+#facs_298_r2l8 XIX.
+#facs_298_r2l9 Auß der Schul soll kein Lehr=Kind erlede=
+#facs_298_r2l10 get oder freygelassen werden / biß es fertig lesen
+#facs_298_r2l11 be
+#facs_298_r2l12 kan / die Catechismos erlehrnet / und darauß die
+#facs_298_r2l13 fundament der wahren Religion also gefassen,
+#facs_298_r2l14 soe
+#facs_298_r2l15 und verstanden / daß es davon auch einliche Re=
+#facs_298_r2l16 henschafft geben könne / es sey dann Sach / da=
+#facs_298_r2l17 r
+#facs_298_r2l18 solches auß Mangel natürlicher Gaaben gar im
+#facs_298_r2l19 geschehen könne / welches aber ein jeder treuwe
+#facs_298_r2l20 n
+#facs_298_r2l21 Diener GOttes zu underscheiden wohl wüsse
+#facs_298_r2l22 wird; Deßwegen diese Freylassung nicht beyde
+#facs_298_r2l23 Elteren / sondern bey den Vorsteheren und Ch=
+#facs_298_r2l24 da
+#facs_298_r2l25 Richteren stehen / und man etwan beym Examen
+#facs_298_r2l26 oder in der Kirch vor der Gemeind vorgenommen.
+#facs_298_r2l27 se
+#facs_298_r2l28 werden soll.
+#facs_298_r2l29 XX.
+#facs_298_r2l30 r
+#facs_298_r2l31 Wie dann auch niemand in ausserer Ge=
+#facs_298_r2l32 f.
+#facs_298_r2l33 meinden Dienst oder sonst angenommen werde
+#facs_298_r2l34 soll / es seye dann daß er ein Zeugsame seiner Er=
+#facs_298_r2l35 kanntnus und Lebens halb von ihrem Vorstehe
+#facs_298_r2l36 vorzeweisen habe.
+#facs_298_r2l37 XXI.
+#facs_298_r2l38 gleichwol die Erwachsenen und Verstän=
+#facs_298_r2l39 t
+#facs_298_r2l40 Schutz / halb erlediget werden / so
+#facs_298_r2l41 Mr
+#facs_298_r2l42 per
+#facs_298_r2l43 zu thun
+#facs_298_r2l44 1720
+#facs_298_r3l1 schreibung
+#facs_298_r3l2 te
+#facs_298_r3l3 verleuth
+#facs_298_r3l4 der Herren Amt
+#facs_298_r3l5 Ihre Rechn
+#facs_298_r3l6 Landts, ander
+#facs_298_r3l7 ( 15
+#facs_298_r3l8 en sie dennoch verpflichtet / auf Erforderen / auch
+#facs_298_r3l9 den Catechismum nach gemachter Abtheilung in
+#facs_298_r3l10 den Kinderlehren zu recitiren und auffzusagen,
+#facs_298_r3l11 in denen gebührend zu antworten / und das Ge=
+#facs_298_r3l12 sang in der Kirchen zubesuchen. Und damit das
+#facs_298_r3l13 Gesang desto glücklicher fortgehe / sollen sie es zu
+#facs_298_r3l14 vor in den Schulen / oder in einem anderen dar
+#facs_298_r3l15 zu bequemen Ort mit einander probieren. Den=
+#facs_298_r3l16 ne biß zu ihrem völligen Alter zur Repetition deß
+#facs_298_r3l17 Catchismi / Underweisung und Canechisasition
+#facs_298_r3l18 und anderen erbaulichen Ubungen Wochentlich
+#facs_298_r3l19 ein oder zween Tag / Donnstag oder Samstag
+#facs_298_r3l20 zur Besuchung der Schul gehalten / und in Bey
+#facs_298_r3l21 seyn übriger Schuleren / im Lesen / Repetieren
+#facs_298_r3l22 und Catechisieren geübt und underwiesen werden
+#facs_298_r3l23 Deren dann auch in Ablesung deß Schul=Ro=
+#facs_298_r3l24 dels Rechnung getragen / die Saumseligen / Um
+#facs_298_r3l25 leisigen verzeichnet / und gehörigen Orten verlei=
+#facs_298_r3l26 det werden sollen
+#facs_298_r3l27 XXII.
+#facs_298_r3l28 Zu ihrer mehreren Bevestigung in der Er=
+#facs_298_r3l29 anntnus soll mit der Zulassung zum Tisch des
+#facs_298_r3l30 deren nicht geeilet / sondern darmit verzogen
+#facs_298_r3l31 werden / so lang biß sie zur rechter Erkanntnus
+#facs_298_r3l32 und Verstand der Geheimnussen ihres Heyls ge=
+#facs_298_r3l33 langet / und darneben auch die erforderliche Be=
+#facs_298_r3l34 3
+#facs_298_r3l35 schaffen
+#facs_298_r3l36 C05
+#facs_298_r3l37 55
+#facs_298_r3l38 Arbange
+#facs_298_r3l39 & dortags den
+#facs_298_r3l40 Brandis
+#facs_298_r4l1 1553.
+#facs_298_r4l2 tsch und Weltschen
+#facs_298_r4l3 gen Ao. 1720.
+#facs_298_r4l4 februarius
+#facs_298_r4l5 12.
+#facs_298_r4l6 do.
+#facs_298_r4l7 13
+#facs_298_r4l8 7.14.
+#facs_298_r4l9 15. d.
+#facs_298_r4l10 16 do.
+#facs_298_r4l11 19. d.
+#facs_298_r4l12 den 20. d.
+#facs_298_r4l13 en 21. do.
+#facs_298_r4l14 22. do.
+#facs_299_r2l1 Töntschen Landts aufsetzen
+#facs_299_r2l2 und in Druck verfertigen laßen.
+#facs_299_r2l3 wie du auß den beylagen zu
+#facs_299_r2l4 0 à 0f à 0:10
+#facs_299_r2l5 (16
+#facs_299_r2l6 is
+#facs_299_r2l7 schaffenheit und Heyls=Begierd bey ihnen ver=
+#facs_299_r2l8 pührt wird: Und die Erlaubnus mag offentlich
+#facs_299_r2l9 vor der Gemeind ertheilt werden / wie vieler Dr=
+#facs_299_r2l10 den mit grossem Nutz und Erbauung eingeführet
+#facs_299_r2l11 worden.
+#facs_299_r2l12 XXIII
+#facs_299_r2l13 m
+#facs_299_r2l14 Und wann sie schon die Erlaubnus zum
+#facs_299_r2l15 Tisch deß HErren erlanget haben / sollen sie nicht
+#facs_299_r2l16 n
+#facs_299_r2l17 besto weniger noch einiche Zeit sich zu den Repo=
+#facs_299_r2l18 nitionen und Catechisationen in den Schulen / wie
+#facs_299_r2l19 auch zur Underweisung der Catechumenorum
+#facs_299_r2l20 de
+#facs_299_r2l21 fleissig halten rc. Auch an die / so es berührt / die
+#facs_299_r2l22 nöhtige Underweisung von den Pflichten de=
+#facs_299_r2l23 se
+#facs_299_r2l24 Christenthums / sonderlich im Ehestand mehrm
+#facs_299_r2l25 den angewendet werden / biß sie zur nöhtigen Er=
+#facs_299_r2l26 kanntnus kommen.
+#facs_299_r2l27 f
+#facs_299_r2l28 Nach Vollendung der Zeit sollen auch die
+#facs_299_r2l29 Examina, mit Zuthun der Ambtleuthen / da es
+#facs_299_r2l30 seyn kan / Predicanten und Eltesten / in der Sch
+#facs_299_r2l31 gehalten (oder wann es die Gelegenheit ge=
+#facs_299_r2l32 der Kirchen vor der offentlichen Gemeind) an
+#facs_299_r2l33 stellt werden / der Meynung / daß es ohne der O=
+#facs_299_r2l34 verkeit / Gemeinden und Kirchen=Güteren Ko=
+#facs_299_r2l35 sten geschehen / und zu dem End fürgenom=
+#facs_299_r2l36 M
+#facs_299_r2l37 in
+#facs_299_r2l38 Weg
+#facs_299_r2l39 evis
+#facs_299_r2l40 zu thuen
+#facs_299_r2l41 20
+#facs_299_r3l1 schreibung
+#facs_299_r3l2 der Herrn
+#facs_299_r3l3 Landts
+#facs_299_r3l4 (1
+#facs_299_r3l5 werden solle / wann der Ambtsmann etwan an=
+#facs_299_r3l6 ihrer Geschäfften halb sich an denen Orten ein=
+#facs_299_r3l7 an den muß
+#facs_299_r3l8 Wann darzu die Gemeinden den fleissigen
+#facs_299_r3l9 Kinden ein Gaab außtheilen lassen wollen / sel
+#facs_299_r3l10 ge darmit desto mehr auffzumunteren / ist ihnen
+#facs_299_r3l11 lasselbige freygestellt / und mögen sie zu dem End
+#facs_299_r3l12 auch Mittlen trachten / gleich anderen / die sol=
+#facs_299_r3l13 des schon loblich eingeführt haben.
+#facs_299_r3l14 1U8
+#facs_299_r3l15 Damit nun diese Ordnung und Gesatz de=
+#facs_299_r3l16 d besser betrachtet werden / so sollen alle Vorste=
+#facs_299_r3l17 re ihre Pflicht fleissig in Acht nemmen / und die
+#facs_299_r3l18 Schulen alle Wochen wenigstens einmahl / so sie
+#facs_299_r3l19 in ihrem Dorff ist / im Fahl aber ausserhalb / alle
+#facs_299_r3l20 herziehen Tag / so weit möglich / und die Abge=
+#facs_299_r3l21 migenen und viele der Schulen zulaßt / visitieren
+#facs_299_r3l22 der solchen Visitationen die Jugend entweder
+#facs_299_r3l23 best befragen und Catechisieren / oder es die Schul=
+#facs_299_r3l24 eistere in ihrer Gegenwart thun lassen / die Be=
+#facs_299_r3l25 schaffenheit der Schul dardurch zu erkundigen,
+#facs_299_r3l26 und so einigen Mangel an den Elteren / so ihre
+#facs_299_r3l27 ander versaumen / und nicht fleissig in die Schutz
+#facs_299_r3l28 nen / oder an den Schul=Kindern verspühret
+#facs_299_r3l29 wur.
+#facs_299_r3l30 Coss. 55
+#facs_299_r3l31 Acte ange
+#facs_299_r3l32 Sonstags den
+#facs_299_r3l33 Brandis
+#facs_299_r4l1 53
+#facs_299_r4l2 Weltschen
+#facs_299_r4l3 Ao. 1720
+#facs_299_r4l4 februarius
+#facs_299_r4l5 13.
+#facs_299_r4l6 19.
+#facs_299_r4l7 Ich
+#facs_299_r4l8 en 21.
+#facs_299_r4l9 22. d
+#facs_300_r2l1 Teütschen Landts aufsetzen,
+#facs_300_r2l2 und in Druck verfertigen laßen,
+#facs_300_r2l3 wie du auß den beylagen zu
+#facs_300_r2l4 1.11s 4
+#facs_300_r2l5 4
+#facs_300_r2l6 (18) 87
+#facs_300_r2l7 vurde / sollen sie die einten und anderen erstlich
+#facs_300_r2l8 sie
+#facs_300_r2l9 varnen / hernach weiters nach Gestalt deß Ver=
+#facs_300_r2l10 brechens an seinem Ort / es sey an dem Chor
+#facs_300_r2l11 Gricht / oder bey dem Ambtsmann / ober auch
+#facs_300_r2l12 boy
+#facs_300_r2l13 Capitel anbringen / auff daß endlich durch Aus=
+#facs_300_r2l14 hortæt und Ansehen der Oberkeit dem Ubel ge=
+#facs_300_r2l15 sa
+#facs_300_r2l16 steuret werde.
+#facs_300_r2l17 Und damit dieserem unserem hierdurch er=
+#facs_300_r2l18 n
+#facs_300_r2l19 frischten Einsehen desto besser nachgelebet werden
+#facs_300_r2l20 möge / so habend Wir zugleich auch hierdurch
+#facs_300_r2l21 in
+#facs_300_r2l22 zu verordnen gut funden / daß auch die Chor
+#facs_300_r2l23 Richtere je nach Nohtdurfft und Beschaffenheit
+#facs_300_r2l24 da
+#facs_300_r2l25 zur Visitation der Schulen gezogen werden sollen.
+#facs_300_r2l26 Und gelanget solchemnach unser Ernst meyn
+#facs_300_r2l27 sch
+#facs_300_r2l28 te Befelch an alle Unsere Amptleuth / Vorsicher
+#facs_300_r2l29 der Gemeinden / Schulmeistere / Hauß=Vätte
+#facs_300_r2l30 h
+#facs_300_r2l31 und Ubrige so es anschet / dieser neu=verbessert
+#facs_300_r2l32 und frisch auffgelegten Schul=Ordnung durch
+#facs_300_r2l33 für
+#facs_300_r2l34 ohngeschochene Execution das Leben zu geben
+#facs_300_r2l35 hiervon in alle Pfrund= und Schul=Häuser Un=
+#facs_300_r2l36 ser Teutschen Landen zu stetem Auffbehalt ein
+#facs_300_r2l37 e
+#facs_300_r2l38 Doppel hinzulegen / selbe allwegen vor Anfan=
+#facs_300_r2l39 der Schulen offentlich von Cantzlen verlesen / und
+#facs_300_r2l40 2f
+#facs_300_r2l41 denen so es berühren mag / einscherpffen / in wt=
+#facs_300_r2l42 verhandlendem Fahl aber durch ihren habenden
+#facs_300_r2l43 o
+#facs_300_r2l44 und beygelegten mehreren Gwalt und Ansehen
+#facs_300_r2l45 M.
+#facs_300_r2l46 sui
+#facs_300_r2l47 lich Beg¬
+#facs_300_r2l48 keiner doll
+#facs_300_r2l49 u thuy etc.
+#facs_300_r2l50 meinen sollen
+#facs_300_r2l51 20.
+#facs_300_r2l52 Doth
+#facs_300_r3l1 959.
+#facs_300_r3l2 Ephreyburg
+#facs_300_r3l3 und Wöltschen
+#facs_300_r3l4 te
+#facs_300_r3l5 Clenthu
+#facs_300_r3l6 der Herren Amt
+#facs_300_r3l7 Ao. 1720
+#facs_300_r3l8 Ihre Rechn
+#facs_300_r3l9 Landts, am
+#facs_300_r3l10 februarius
+#facs_300_r3l11 12
+#facs_300_r3l12 (19)
+#facs_300_r3l13 nach deren Jnnhalt zu verfahren; Alles in der
+#facs_300_r3l14 licheren Hoffnung / wann diesem allem durchge=
+#facs_300_r3l15 do
+#facs_300_r3l16 13.
+#facs_300_r3l17 ends wird nachgelebt werden / daß hierdurch von
+#facs_300_r3l18 allen Dingen die Ehr deß Allerhöchsten / und
+#facs_300_r3l19 Jann zugleich der Jugend Heyl und Seligkeit be=
+#facs_300_r3l20 fürderet / mithin die grobe Unerkanntnus GOt=
+#facs_300_r3l21 14.
+#facs_300_r3l22 tes und seines Heiligen Worts abgeschaffet wer=
+#facs_300_r3l23 ben könne; Als worzu der Allerhöchste seinen
+#facs_300_r3l24 heiligen Segen auß Gnaden verleihen wolle.
+#facs_300_r3l25 Datum den 25. Januarii 1720.
+#facs_300_r3l26 15 do.
+#facs_300_r3l27 Cantzley Bern.
+#facs_300_r3l28 den 20.
+#facs_300_r3l29 nsern 21. do.
+#facs_300_r3l30 Rx5
+#facs_300_r3l31 22. do
+#facs_300_r3l32 Arbange
+#facs_300_r3l33 2 Donstags den
+#facs_300_r3l34 Brandis
+#facs_300_r4l1 Als
+#facs_300_r4l2 g
+#facs_301_r2l1 Teütschen Landts aufsetzen.
+#facs_301_r2l2 und in Druck verfertigen laßen.
+#facs_301_r2l3 wie du auß den beylagen zu
+#facs_301_r2l4 „ „ oock
+#facs_301_r2l5 e
+#facs_301_r2l6 M.
+#facs_301_r2l7 sui
+#facs_301_r2l8 keiner daßelbe mit sich weg¬
+#facs_301_r2l9 nemen solle; wie zu thun etc.
+#facs_301_r2l10 Dat. en 25. Janu. 1720.

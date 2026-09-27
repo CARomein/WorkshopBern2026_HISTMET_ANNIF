@@ -1,0 +1,65 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 57/58
+# High similarity (>=80%): 56
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4516
+#facs_283_r4l15 Erklärung wegen der neu eingesezten
+#facs_3_region_1629374296225_399l1 An
+#facs_120_r4l3 alle deutsch und Weltsche Herren Amtleut,
+#facs_214_r5l18 4. Städt, freyleibel und Amann
+#facs_283_r4l15 Erklärung wegen der neu eingesezten
+#facs_283_r4l16 Regierung zu Berf aus Rübberuffung
+#facs_283_r4l17 hiesiger Angehörigen aus dortiger
+#facs_283_r4l18 Garnison
+#facs_73_r8l5 In
+#facs_283_r4l20 Schultheis klein und große Räthe etc.
+#facs_283_r4l21 Einlag übersenden Wir Euch die Erklärung
+#facs_283_r4l22 welche Wir wegen der wiederrechtlichen
+#facs_283_r4l23 Regierung zu Benf an gesamt Unsere
+#facs_283_r4l24 liebe Angehörige bekant machen zu laßen.
+#facs_283_r4l25 gut befunden haben, mit Befehl solche
+#facs_283_r4l26 behöriger maßen von Canzlen
+#facs_26_r9l4 65
+#facs_289_r1l2 Col.
+#facs_284_r3l1 publicieren- und üblicher Orten
+#facs_284_r3l2 anschlagen zu laßen. Dat. d. 10ten May
+#facs_244_r3l9 1782
+#facs_284_r3l4 Erklärung.
+#facs_272_r3l16 Wir Schulthes Elein und große
+#facs_179_r5l26 der Stadt und Respubli Bern, entbieten
+#facs_284_r3l7 allen Unsern lieben uns getreuen
+#facs_265_r4l7 Burgeren und angehörigen, an äußeren
+#facs_284_r3l9 gnädigen uns wohlgeneigten Willen,
+#facs_16_region_1629823813704_301l5 und geben ihnen dabey zu vernehmen.
+#facs_284_r3l11 Daß Wir mit und nebst lobl. Stand¬
+#facs_284_r3l12 Zürich, die durch einen gewaltthätigen
+#facs_284_r3l13 Aufstand zu Benf eingesezte Regierung
+#facs_284_r3l14 als unrechtmäßig und wiederrechtlich
+#facs_284_r3l15 erklärt haben; und verbahrnen in
+#facs_284_r3l16 folge deßen maniglich, gegen dieselbe
+#facs_284_r3l17 keine Verpflichtungen, von was Art
+#facs_284_r3l18 sie immer seyn möchten, einzugehen,
+#facs_284_r3l19 Solte aber jemaus deren Bürlich ein¬
+#facs_284_r3l20 gegangen haben, so werden solche, mit
+#facs_284_r3l21 dieser gesezliedrigen Regierung geschloßen
+#facs_284_r3l22 verbindungen, als ungültig aufgehoben,
+#facs_76_r7l1 etc.
+#facs_224_r2l15 Alles
+#facs_26_r9l4 65
+#facs_284_r5l2 Wir ruffen deswegen auch alle diejenigen
+#facs_284_r5l3 Unserer lieben Angehörigen, welche in
+#facs_284_r5l4 dem Dienst der dortigen Barnison
+#facs_284_r5l5 sich befinden, zurük, und wollen sie
+#facs_284_r5l6 von allen daherigen eidlichen Ver¬
+#facs_284_r5l7 pflichtungen uns Verbindungen
+#facs_284_r5l8 hierdurch los gesprochen haben.
+#facs_284_r5l9 Welches zu maniglichs Wissenschaft und
+#facs_272_r3l1 Verhalt offentlich verlesen zu laßen,
+#facs_284_r5l11 gelohnten Orten angeschlagen werden.
+#facs_284_r5l12 Beben den 10ten May 1782.
+#facs_101_r3l11 soll.
+#facs_30_r2l23 Canzley gern.
+#facs_178_r8l1 en

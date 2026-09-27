@@ -1,0 +1,138 @@
+Law ID: BER.01.001.4744
+Name: Leder Ausfuhr Verbott.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 127/127
+# High similarity (>=50%): 116
+# Low similarity (<50%): 11
+# Not found: 0
+#
+#facs_270_r4l13 Janvier 1791
+#facs_270_r4l14 Leder Ausfuhr Verbott,
+#facs_270_r4l15 An alle deutsch und Welsche Herren Amtleut
+#facs_270_r4l16 4 Städt freyweibel und An
+#facs_270_r4l17 Schultheiß Räth und Burger c.
+#facs_270_r4l18 Wir haben nothwendig erachtet die
+#facs_270_r4l19 Ausfuhr alles verarbeiteten Leders und
+#facs_270_r4l20 aller von Leder verarbeiteten Waar
+#facs_270_r4l21 = lange
+#facs_270_r4l22 ohne Ausnahm von nun an auf ein Jahr
+#facs_270_r5l1 tes
+#facs_270_r5l2 317.
+#facs_270_r5l3 232
+#facs_270_r5l4 durch
+#facs_270_r5l5 amts
+#facs_270_r5l6 hiebei
+#facs_270_r5l7 50
+#facs_270_r5l8 281
+#facs_270_r7l1 251.
+#facs_270_r7l2 33
+#facs_270_r7l3 4
+#facs_270_r7l4 fal¬
+#facs_270_r7l5 2
+#facs_271_r3l1 lang zu verbieten, und übersenden
+#facs_271_r3l2 Euch eine genugsame Anzahl Exemplar
+#facs_271_r3l3 von dieser Verordnung, mit Befelch, solche
+#facs_271_r3l4 behöriger Orten anschlagen, und von
+#facs_271_r3l5 Tanzlen verlesen zu laßen.
+#facs_271_r3l6 /: an die Herren Amtleut u 4 Städt :/
+#facs_271_r3l7 auch Hand obzuhalten daß dieselbe
+#facs_271_r3l8 genau exequiert werde.
+#facs_271_r3l9 Datum den 13ten January 1794
+#facs_271_r3l10 ob id
+#facs_271_r3l11 Verordnung
+#facs_271_r3l12 Wir Schultheil Klein und Grosse
+#facs_271_r3l13 Räthe der Stadt und Republik Bern,
+#facs_271_r3l14 entbieten Unsern lieben und getreuen
+#facs_271_r3l15 Burgern und Angehörigen zu Stadt und
+#facs_271_r3l16 Land Unsern gnädigen und geneigten
+#facs_271_r3l17 Willen, und geben ihnen zu vernehmen:
+#facs_271_r3l18 Wie daß Uns vielfältig angezeigt
+#facs_271_r3l19 und bescheiniget worden, daß sehr viel
+#facs_271_r3l20 gegerbtes und verarbeitetes Leder
+#facs_271_r3l21 A
+#facs_271_r3l22 außer Lands gehe, wordurch ein gänz¬
+#facs_271_r3l23 licher Mangel dieser im gemeinen Leben
+#facs_271_r3l24 so nothwendigen Waare zu befürchten
+#facs_271_r3l25 stühnde.
+#facs_271_r4l1 uso
+#facs_271_r4l2 Tühnde. Wir haben daher aus landes¬
+#facs_271_r4l3 väterlicher Soegfalt für das gemeine Beste
+#facs_271_r4l4 Unserer samtlichen Angehörigen gutbefunden
+#facs_271_r4l5 zu verordnen.
+#facs_271_r4l6 Daß die Ausfuhr alles verarbeiteten Leder
+#facs_271_r4l7 und alle von Leder verarbeitete Waare, von
+#facs_271_r4l8 welcher Art es immer seyn mag, aus Unsern
+#facs_271_r4l9 Landen jedermanniglich bey Strafe der Confis¬
+#facs_271_r4l10 cation der Waare oder deren Werth, auf
+#facs_271_r4l11 ein Jahr lang von nun an gänzlich verbotten,
+#facs_271_r4l12 seyn solle, in dem Verstand daß im Fall
+#facs_271_r4l13 eines Recidiv, der Widerhandlende für
+#facs_271_r4l14 den zweyten Fehler, nebst vermeldter Straffe
+#facs_271_r4l15 noch eine Buße von dem Werth der Confis¬
+#facs_271_r4l16 cation bezahlen, und für den dritten Fehler
+#facs_271_r4l17 nach Bewandtniß der Umständen von
+#facs_271_r4l18 Unserm Täglichen Rath an Ehe Leib oder
+#facs_271_r4l19 Gut, in mehrerem abgestraft werden
+#facs_271_r4l20 solle.
+#facs_271_r4l21 Die hievorbestimmte Confiscation und
+#facs_271_r4l22 Buße aber soll in drey gleiche Theile
+#facs_271_r4l23 vertheilt werden, und ein Drittel darvon
+#facs_271_r4l24 uns, ein Drittel dem Richter des Orts und ein
+#facs_271_r4l25 In
+#facs_271_r4l26 Drittel dem Verleider zu kommen.
+#facs_271_r5l1 bee
+#facs_271_r5l2 917
+#facs_271_r5l3 232
+#facs_271_r5l4 durch¬
+#facs_271_r5l5 Amts
+#facs_271_r5l6 Bibi¬
+#facs_271_r5l7 50
+#facs_271_r5l8 8
+#facs_271_r5l9 281.
+#facs_271_r5l10 94
+#facs_271_r5l11 13
+#facs_271_r5l12 2
+#facs_271_r5l13 9
+#facs_271_r5l14 bre
+#facs_271_r5l15 1.
+#facs_271_r5l16 251.
+#facs_271_r5l17 33.
+#facs_271_r5l18 21.
+#facs_271_r5l19 Fol.
+#facs_271_r5l20 52.
+#facs_272_r2l1 In der Hauptstadt und deren Beziele
+#facs_272_r2l2 wie auch in den Landgerichten, da keine
+#facs_272_r2l3 Ober Amtleute stehen, soll Unser
+#facs_272_r2l4 Verordnete Commerzien-Rath, auf dem
+#facs_272_r2l5 Lande und in den Städten aber der
+#facs_272_r2l6 Amtsmann des Orts in erster Instanz
+#facs_272_r2l7 urtheilen, und der beschwerenden Parthey
+#facs_272_r2l8 den Recurs von Unsern Täglichen Rath
+#facs_272_r2l9 gestatten. Alle Unsere bestellten
+#facs_272_r2l10 Zollcommissen und Aufseher sollen bey
+#facs_272_r2l11 ihren Pflichten schuldig seyn, auf die in
+#facs_272_r2l12 dieser Verordnung verbottene Ausfuhr
+#facs_272_r2l13 von gegerbten und verarbeiteten Leder¬
+#facs_272_r2l14 waaren genaue Acht zu haben, und falls
+#facs_272_r2l15 sie einige Gefahrde bemerken wurden
+#facs_272_r2l16 solches alsobald dem behörigen Richter an¬
+#facs_272_r2l17 zuzeigen.
+#facs_272_r2l18 Wir befehlen daher allen Unsern
+#facs_272_r2l19 Ober- und Unter Beamteten, diese
+#facs_272_r2l20 Unsere Verordnung gegen Jedermann
+#facs_272_r2l21 ohne Ansehen der Person, ernstlich
+#facs_272_r2l22 zu handhaben, und versehen Uns zu Unfern
+#facs_272_r2l23 Lieben und Getreuen Bürgern und An
+#facs_272_r2l24 gehörigen, daß sie dieselbe gehorsamst
+#facs_272_r2l25 befolgen
+#facs_272_r2l26 9
+#facs_272_r4l1 537
+#facs_272_r4l2 befolgen werden. Zu welchem Ende Wir
+#facs_272_r4l3 solche in Druk verfassen, von Canzlen
+#facs_272_r4l4 verlesen, und gewohntermassen bekannt
+#facs_272_r4l5 chen lassen
+#facs_272_r4l6 Beben in Unserer Großen Raths
+#facs_272_r4l7 Versamlung den 13ten Januarii 1794

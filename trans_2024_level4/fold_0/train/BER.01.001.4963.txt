@@ -1,0 +1,80 @@
+Law ID: BER.01.001.4963
+Name: Wegen Widerlosung der verkoufften Güteren.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 68/68
+# High similarity (>=80%): 58
+# Low similarity (<80%): 10
+# Not found: 0
+#
+#facs_392_r1l24 49
+#facs_153_r2l1 Nun alle woltsche Vnndtlich Schultheyßen zu
+#facs_153_r2l2 Bätterlingen Stadt Losanen, wegen wieder
+#facs_153_r2l3 losung der verkaufften gutern
+#facs_153_r2l4 Wer dan sidt vnser Jüngst vßgangnen reformation ordnung
+#facs_153_r2l5 by vnseren lieben vnderthanen, daß wolstlichen Landt, deß 12 vnd
+#facs_153_r2l6 3 Wotnkels halb, durch welche von uns die Casualischen kauff
+#facs_153_r2l7 und das ützit vff den roub der guteren gelichen werden solle,
+#facs_153_r2l8 procten worden, etwas vnglychen vorstandts vnd fragenstanden
+#facs_153_r2l9 vnd an uns gelangt, alles das ertlich vermeinen wollen, das die
+#facs_153_r2l10 Engagemes, vnder ewigen widerlosungen, die bey Inen In Wum¬
+#facs_153_r2l11 ghen) durch ob anzogne 2 artickel wyl In denselben solcher kauffe
+#facs_153_r2l12 off einige widerlosung, einiche ußtruckenliche meldung beschicht
+#facs_153_r2l13 mit verrochen, Sonnders zugelassen seyen. Haben wir
+#facs_153_r2l14 nothwendig sein erachtet, hierüber vnser Intention vnd verstan¬
+#facs_153_r2l15 zuerlütheren. Erklärung aus hiemit, das gleich wie wir vff
+#facs_153_r2l16 hochbedencklichen Vrsachen, die Casualischen kauff, als vortheylige
+#facs_153_r2l17 partaugen, dardurch der schuldner mercklich betrengt worden,
+#facs_153_r2l18 Desselischen die vortheylige nutzung des Raubs ab den guteren
+#facs_153_r2l19 von gelichnen gelt har als vnzimmliche vnd den armen
+#facs_153_r2l20 thädliche sachen, vffzuheben und genappierten, nützlich vnd
+#facs_153_r2l21 erspriesslich befunden. Was haben wir nit mund thädlich
+#facs_153_r2l22 sijn erachtet, das sie ihre guter vff widerlosung
+#facs_153_r2l23 wie aber bißher beschechen hingeben mögendt, als welche
+#facs_153_r2l24 anderst nit, dann mit nachtheyl des verkauffers, vnd zumit¬
+#facs_153_r2l25 grossem vortheyl des könffers, beschechen mag, Neben
+#facs_153_r2l26 dem das hiedurch inslichen leichtsinnigen Zuschalteren, wo sach geben
+#facs_153_r2l27 wirt, daß hy ihre guter vmb ein, gar ringen aufnung
+#facs_153_r2l28 verkauffen, sich in liederlichkeit ergeben, vnd die rechnung
+#facs_153_r2l29 gemacht, die ablesung sie so lang gesetzt das sy stucfs zu
+#facs_153_r2l30 derselben gelangen mögendt. Ist derwegen beyder obgedachter
+#facs_153_r2l31 retücklen halb vnser verstandt gsin vnd noch, das von Dato
+#facs_153_r3l1 ob angedüter unser Reformation ordnung den 27. February
+#facs_153_r3l2 1613 bßgangen, solche kouff vnd verkauff vff ewig¬
+#facs_153_r3l3 widerlosung, gentzlich sellend verroffen seyn, by der peen
+#facs_153_r3l4 und straff in gemelten beyden articklen bestimmt. Doch
+#facs_153_r3l5 mit volgender Lütherung, Diewyl wie hievor, durch
+#facs_153_r3l6 das mandat vnd ordnung, so wir den 10ten mertzens¬
+#facs_153_r3l7 Anno 1591 bekan lassen, alle vnd iede ewige widerlesungen
+#facs_153_r3l8 off 30 für terminiert, das welche innert 30 Jaren mit
+#facs_153_r3l9 geschickendt, dofnehin phaibirt vnd vncrefftig seyn sollend,
+#facs_153_r3l10 Vnd dieselb Jar Zal sich noch erstreckt biß vff den 10ten mertzen
+#facs_153_r3l11 deß 1621 Jars. Halen wir denen so sidert dem 10ten
+#facs_153_r3l12 nertzen 1591 Biß vff dato vnser Jüngsten reformation
+#facs_153_r3l13 ordnung, guter vff ewige widerlosung verkaufft zu gutem
+#facs_153_r3l14 loff das se mit der vorbehaltnen Coning, desto minder
+#facs_153_r3l15 überwelt werdint, vnd dest kommlicher darzu gelangen
+#facs_153_r3l16 mögend, zugelassen, das sich gleichsfals zur losung derselben
+#facs_153_r3l17 zyet vnd zill haben sollind, biß vff den siben 10 tmertzen
+#facs_153_r3l18 deß 1621 Jars, also das ich solche Jnnert bemelter Zyct
+#facs_153_r3l19 nach Inhalt vffgerichten brieffen, wol widerlösen,
+#facs_153_r3l20 und die köuffere darzwischen in der besitzung vnd
+#facs_153_r3l21 nutzung verblijben mogend, So bald aber die obbestichte
+#facs_153_r3l22 flijf zijet verflossen, Soll darfür hin niemand zur losung
+#facs_153_r3l23 exprieren mögen, sonder dieselb phiribirt, vnd verlagen
+#facs_153_r3l24 ge und heissen
+#facs_153_r3l26 Wann aber der glöubiger dem Schuldung
+#facs_153_r3l27 die vff Widerlösung erkaufften Stuck zu ende obbestimmter
+#facs_153_r3l28 Zeit, widerumb zustellen, und anstatt der gehabten nutzung
+#facs_153_r3l29 eß Christenlichem mitlyden den ordenlichen gelt zins
+#facs_153_r3l30 vermög vnsers Reformation mandats dafurhin von Imma
+#facs_153_r3l31 nemmen, und darumb ein Zinsbrieff beffrichten will, sich
+#facs_153_r3l32 es demselben hiemit beygesetzt vnd
+#facs_153_r3l34 Welcher unser Luthprung
+#facs_153_r3l35 du die unseren durch offentliche Verkündung von den Cantzlen
+#facs_153_r3l36 vnuerzagenlich zu aller besseren nachrichtung verstendigen, vnd
+#facs_153_r3l37 dieselb In d. Mandatbuch vnser Schlosses oder Huses bey der In¬
+#facs_153_r3l38 nerlyben lassen solt. Datum 14 April 1615

@@ -1,0 +1,404 @@
+Law ID: BER.01.001.4120
+Name: Frisches Einsehen wider die Steürsamler.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_500
+# Matched: 393/393
+# High similarity (>=50%): 376
+# Low similarity (<50%): 17
+# Not found: 0
+#
+#facs_14_r3l13 kommenen Bericht, von dem Franz. Ambassad
+#facs_14_r3l14 Secretariat in Solothurn, daß denen in Königl.
+#facs_14_r3l15 Nottes des Invalides du Roy au Canton de
+#facs_14_r3l16 Diensten gestandenen, und als Invalides seine
+#facs_14_r3l17 Berne, qui ont à recevos leurs pensions pour l'année
+#facs_14_r3l18 Coll
+#facs_14_r3l19 Orts einregistrirten Unseren Unterthanen,
+#facs_14_r3l20 1758.
+#facs_14_r3l21 geloohnlichen Pensionen widermahlen werden
+#facs_14_r3l22 bezahlt werden, befehlen Wir Euch, dem oder dem
+#facs_14_r3l23 Morste
+#facs_14_r3l24 Jean Etiene Guibat de Bierre
+#facs_14_r3l25 jenigen Eüers Ihr Amts, so sich unter dieser
+#facs_14_r3l26 Bürgen
+#facs_14_r3l27 Michel Couster den Buren. Nke. selts sich verzeit muß
+#facs_14_r3l28 Zahl befinden, läßend zu machen, daß Sie
+#facs_14_r3l29 Brug
+#facs_14_r3l30 Ulrich Belart de Brugg. beziehet seine Pension
+#facs_14_r3l31 alle Jahr in Brugg selbsten
+#facs_14_r3l32 Euch den erforderlichen Certificat, in Franz. Spraag
+#facs_14_r3l33 Morsa
+#facs_14_r3l34 ist noch nit
+#facs_14_r3l35 Jean David Wittel de Rolle
+#facs_14_r3l36 gefragt worden
+#facs_14_r3l37 vermöge deßen Sie annoch im Leben, erheben, und
+#facs_14_r3l38 Romain
+#facs_14_r3l39 Samuel Gauthey d'Arnes
+#facs_14_r3l40 Milder
+#facs_14_r3l41 Abraham Moginier de Mezieres
+#facs_14_r3l42 zur legalisation hiesiger Lanzley zukommen laß,
+#facs_14_r3l43 Murthen
+#facs_14_r3l44 Samuel Roublé de Morat
+#facs_14_r3l45 Wären dann deren hinter Euch gestorben, der
+#facs_14_r3l46 gestorben nach
+#facs_14_r3l47 thun
+#facs_14_r3l48 Daniel Schneider de Thoun Ntn. ist langs vermelden.
+#facs_14_r3l49 die Erben
+#facs_14_r3l50 4. 6
+#facs_14_r3l51 noch etwas daß nahen gebührt zuforderen hätten.
+#facs_14_r3l52 ste. er wohnt
+#facs_14_r3l53 zu Pferte
+#facs_14_r3l54 Jfferthen
+#facs_14_r3l55 Charles Beaud de Rame
+#facs_14_r3l56 sollet Ihr selbigen einen Todten schein, unter Romai
+#facs_14_r3l57 Daniel Arpeau de Bursin
+#facs_14_r3l58 Eünrem Sigel ertheillen, darinn der Tag bemeldt H. Romain
+#facs_14_r3l59 Et Pierre Goy de Vaution
+#facs_14_r3l60 Königs Felde
+#facs_14_r3l61 deß Hinscheids, um solchen ebenfahls der Canzler
+#facs_14_r3l62 Johanes Marck de Lupffingen.
+#facs_14_r3l63 Daniel
+#facs_15_r1l1 22
+#facs_15_r1l2 Daniel du Clos de Villars
+#facs_15_r1l3 Tscherliz
+#facs_15_r1l4 Jacob Hirsching de D'amseldingen
+#facs_15_r1l5 thun.
+#facs_15_r1l6 et aubonne
+#facs_15_r1l7 Jean Baptiste de Beneville de Glinel
+#facs_15_r1l8 9 segnanle
+#facs_15_r1l9 Jonas Ramseyer de Gros hâchstetten
+#facs_15_r1l10 Christian Hertz de Grindelwald, &
+#facs_15_r1l11 & Interlants
+#facs_15_r1l12 Wislochen
+#facs_15_r1l13 Nicolar Wistocher d'hertzogenbuchsy
+#facs_15_r1l14 & Wangen
+#facs_15_r1l15 Racharie Kuenze de Cerlier
+#facs_15_r1l16 Erlach
+#facs_15_r1l17 Hindelbank
+#facs_15_r1l18 Gaspard Wulter d'hub,
+#facs_15_r1l19 Truijan de Waslorbes
+#facs_15_r1l20 Romain Gabri
+#facs_15_r1l21 f Romain
+#facs_15_r1l22 David Nicolas dautravers de Champagne
+#facs_15_r1l23 à Wiblispurg
+#facs_15_r1l24 Daniel Christinas de Villars Le Viell
+#facs_15_r1l25 Neulos
+#facs_15_r1l26 Moyse Roch de Nyon
+#facs_15_r1l27 Wiblisturg
+#facs_15_r1l28 Jean Jaques de Bossent d'Avanches
+#facs_15_r1l29 Christian Scherler de Rueggisilang
+#facs_15_r1l30 a Stifft
+#facs_15_r1l31 X Nédaulo
+#facs_15_r1l32 Jean Jaques Bayard de Lamboing
+#facs_15_r1l33 Ceßel
+#facs_15_r1l34 Frederich Hildhold de Schinsnach
+#facs_15_r1l35 stelen
+#facs_15_r1l36 Niclaus Wagmuller de Rugsau
+#facs_15_r1l37 Brandiß.
+#facs_15_r1l38 Ulrich Graber d'Eriswyl
+#facs_15_r1l39 X Trachselwald
+#facs_15_r1l40 Jean Pierre Born de Janne.
+#facs_15_r1l41 Plaat
+#facs_15_r1l42 & Morfer; Jean Isaac Baudas de Bierre
+#facs_15_r2l1 23
+#facs_15_r2l2 Benedict Baacher de Worb
+#facs_15_r2l3 freyte: zu Word
+#facs_15_r2l4 Johanes Langolff de Buren. Nta. &a il me will
+#facs_15_r2l5 Beuren
+#facs_15_r2l6 im und etwas wüsten
+#facs_15_r2l7 Lausane
+#facs_15_r2l8 Michel Morell de St Saphorin
+#facs_15_r2l9 Pierre Mayland du Lieu
+#facs_15_r2l10 Romain
+#facs_15_r2l11 François Jovant de Morges. est très.
+#facs_15_r2l12 Morsten
+#facs_15_r2l13 nehmens zu erfragen.
+#facs_15_r2l14 Jean Jaques Element de Grange
+#facs_15_r2l15 Morster
+#facs_15_r2l16 begrüderer zu erfragen.
+#facs_15_r2l17 auch
+#facs_15_r2l18 pierre Chevalier de Paillers
+#facs_15_r2l19 Et
+#facs_15_r2l20 D'Oron
+#facs_15_r2l21 + Interlochen Peter Katz de Grundelwald.
+#facs_15_r2l22 Nicolas Friden de Buppelried
+#facs_15_r2l23 Lauppen
+#facs_15_r2l24 Trachstellwald Melchior Jordy de Durrenroth
+#facs_15_r2l25 Christ Hoffman d'Oberbouchsel
+#facs_15_r2l26 v. Stifft.
+#facs_15_r2l27 à stele
+#facs_15_r2l28 e
+#facs_15_r2l29 Simon Muslimana de Schinsnach
+#facs_15_r2l30 Adam Anderregg d'Oderstorf
+#facs_15_r2l31 Thun
+#facs_15_r2l32 t droben mit zu Oerfragen, noch ein Dorf diß nahmens
+#facs_15_r2l33 N
+#facs_15_r2l34 s'est prisonnier de guerre, renvoyé en France.
+#facs_15_r2l35 cet
+#facs_15_r2l36 die un
+#facs_15_r2l37 An
+#facs_15_r2l38 Alle T. und W. Amtleuth, vier Stätt, Freÿleibel
+#facs_15_r2l39 und Amann. Frisches einstehen wider die Steürsamler
+#facs_15_r2l40 Schultheis und Rath etc.
+#facs_15_r2l41 Was wegen denen Collectanten und Steürsender
+#facs_15_r2l42 Coll
+#facs_15_r2l43 Wir widermahlen für eine erfrüschte Verordnung und
+#facs_15_r2l44 Einsehen
+#facs_16_r3l1 Einsehen aus zugeben, gutbefunden, ein solches ver¬
+#facs_16_r3l2 Ihr aus Beylaagen, deß mehreren vernommen; So
+#facs_16_r3l3 deren Zusendung nun wollen Wir Eüch anbefohlen
+#facs_16_r3l4 haben, solche nicht allein behöriger Orthen ansch.
+#facs_16_r3l5 und solche gewohnten maaßen von Canzten sub
+#facs_16_r3l6 cieren zu laßen, sonderen wollen anbey gehabt
+#facs_16_r3l7 haben, daß Ihr auch solche zu künfftiger Nacht
+#facs_16_r3l8 und all stäther Observanz in die Mandaten und
+#facs_16_r3l9 in schreiben läßet. Gott mit Eüch. Dat. d. 17ten 7bris,
+#facs_16_r3l10 2
+#facs_16_r3l11 Placard
+#facs_16_r3l12 Mir Schultheiß und Rath der Statt Bey.
+#facs_16_r3l13 thund kuns hiemit; demenach eine Zeit daher Wir
+#facs_16_r3l14 mißbeliebig vernemmen müßen, welcher Be=
+#facs_16_r3l15 stalten Unseren wider die Steürsammler in
+#facs_16_r3l16 collectanten, mit erem 31t Decembris 1750, 20t. Hn.
+#facs_16_r3l17 tembris 1756., 3d July 1757. und 9t July 1758. aus.
+#facs_16_r3l18 gefhriebenen Verordnungen ohngeachtet, Unser
+#facs_16_r3l19 Liebe und Betreüe Angehörige Zu Statt und Landst
+#facs_16_r3l20 dergleichen Leuten, und unter verschiedenen
+#facs_16_r3l21 Vorwenden
+#facs_16_r5l1 25
+#facs_16_r5l2 Vorbänden, nahmhafft mitgenommen, und behaliget
+#facs_16_r5l3 werden; Wie nun aus Landes-vätterlicher Vor¬
+#facs_16_r5l4 sorg Wir Unß bemüßiget gesehen, dem diß¬
+#facs_16_r5l5 ührtigen Übel zu steüren, und Unsere Unter¬
+#facs_16_r5l6 thanen vor dergleichen Leüten zu schirmen.
+#facs_16_r5l7 So haben Wir nöthig erachtet, in Widerholzung
+#facs_16_r5l8 Verstärckung Unserer dißöhrtigen Verord¬
+#facs_16_r5l9 nungen, krafft gegenwärtige Mandats zu ordnen
+#facs_16_r5l10 und zu befehlen, daß
+#facs_16_r5l11 In Bedenken Unß alleine zukommt, dergleichen
+#facs_16_r5l12 Steüren in Unseren Landen zu bewilligen, allen
+#facs_16_r5l13 Unseren Ober- und Unterßeamteten Herrschafts¬
+#facs_16_r5l14 Herren, Pfarrherren, Schreiberen, Stätten, Be¬
+#facs_16_r5l15 " in einden, und überhaubt allen und Jeden
+#facs_16_r5l16 Unseren Unterthanen vorbotten seyn solle, der¬
+#facs_16_r5l17 gleichen Steür, und Collecte drieffen, mittelst
+#facs_16_r5l18 belchen mann Steür einfamlen wollte, außfertig,
+#facs_16_r5l19 maßen loselcher beschehen sollte, wie die fehlbahre,
+#facs_16_r5l20 in Gebührende Verantwortung und Straaße ziehen
+#facs_16_r5l21 werden
+#facs_16_r5l22 2. Allermäniglich
+#facs_17_r3l1 Einsehen aus zugeben, gutbefunden, ein solches werde
+#facs_17_r3l2 Ihr aus Beylaagen, deß mehreren vernommen; So
+#facs_17_r3l3 deren Zusendung nun wollen Wir Euch anbefohlen
+#facs_17_r3l4 haben, solche nicht allein behöriger Orthen anschl
+#facs_17_r3l5 uns solche geloghter maaßen von Canzlun publi
+#facs_17_r3l6 cieren zu laßen, sonderen wollen anbey gehabt
+#facs_17_r3l7 haben, daß Ihr auch solche zu künfftiger Nachrich¬
+#facs_17_r3l8 und all stäther Observanz in die Mandaten die
+#facs_17_r3l9 in schreiben laßet. Gott mit Eüch. Dat. d. 17 t bris 11
+#facs_17_r3l10 Placard
+#facs_17_r3l11 Mir Schultheip und Rath der Statt Bern.
+#facs_17_r3l12 thund kund hiemit; demenach eine Zeit daher Wir
+#facs_17_r3l13 mißbeliebig vernemmen müßen, welcher Be¬
+#facs_17_r3l14 stalten Unseren wider die Steürstammler, in
+#facs_17_r3l15 collectanten miterem 31t Decembris 1750., 20t sept.
+#facs_17_r3l16 embris 1756., 3d July 1757. und 9t July 1758. aus¬
+#facs_17_r3l17 gefhriebenen Verordnungen ohngeachtet, Unser
+#facs_17_r3l18 Liebe und getreüe Angehörige Zu Statt und Landstr
+#facs_17_r3l19 dergleichen Leuten, und unter verschiedene
+#facs_17_r3l20 Vorwenden
+#facs_17_r5l1 25
+#facs_17_r5l2 Vorbänden, nahmhafft mitgenommen, und behaliget
+#facs_17_r5l3 werden; Wie nun aus Landes-vätterlicher Vorn¬
+#facs_17_r5l4 sorg Wir Unß bemüßiget gestehen, dem diß¬
+#facs_17_r5l5 ührtigen Übel zu steüren, und Unsere Unter¬
+#facs_17_r5l6 thanen vor dergleichen Leüten zu schirmen y
+#facs_17_r5l7 So haben Wir nöthig erachtet, in Widerholzung
+#facs_17_r5l8 Vorstärckung Unserer disöhrtigen Verord¬
+#facs_17_r5l9 „nungen, krafft gegenwärtigen Mandats zu ordn
+#facs_17_r5l10 und zu befehlen, daß
+#facs_17_r5l11 In Bedenken Unß alleine zukommt, dergleichen
+#facs_17_r5l12 Steuren in Unseren Landen zu bewilligen, allen
+#facs_17_r5l13 Unseren Ober- und Unter=Beamteten, Herrschaft
+#facs_17_r5l14 Herren, Pfarrherren, Schreiberen, Stättensse,
+#facs_17_r5l15 " meinden, und überhaubt allen und Jeden
+#facs_17_r5l16 Unseren Unterthanen Vorbotten seyn solle, der¬
+#facs_17_r5l17 gleichen Steür- und Collect = Wieffen, mittelst
+#facs_17_r5l18 welchen mann Steür einfamlen wollte, ausfertigen
+#facs_17_r5l19 naßen woselcher beschehen sollte, wie die fehlbahre
+#facs_17_r5l20 in Gebührende Verantwortung und Stragste ziehen
+#facs_17_r5l21 werden
+#facs_17_r5l22 2. Allermäniglich
+#facs_18_r3l1 Allermäniglich in Ansteren Landen, solvohl hy
+#facs_18_r3l2 heimisch und fremden gänzlichen und bey¬
+#facs_18_r3l3 aus bleiblicher Straaff verbotten seyn solle,
+#facs_18_r3l4 unter war vorwand es immer wäre, ohne Anfer¬
+#facs_18_r3l5 Bewilligung, Collecten oder Steüren einzusammlen
+#facs_18_r3l6 3° Auf den Fall aber, da Steür sammlere und Collecta
+#facs_18_r3l7 in Unsere Lande sich begeben solten, wollen Wir zu
+#facs_18_r3l8 Näniglicher Nachricht, nimmt Beyfügen, daß solche
+#facs_18_r3l9 welche von Unß keine Bewilligung, und mit 24
+#facs_18_r3l10 terem Standes Sigel versehene Permission aufzu¬
+#facs_18_r3l11 weisen haben werden, sonderen nur mit ander
+#facs_18_r3l12 wärtigen Collect=Patenten, und Steürbuchere
+#facs_18_r3l13 verstehen sind, die aufhabende, Schriften abge¬
+#facs_18_r3l14 nommen, und Unseren Ober-Amt Leüthen
+#facs_18_r3l15 übergeben, die Collectanten aber, selbigen Zugleich
+#facs_18_r3l16 zugeführet werden sollen, damit dieselben also,
+#facs_18_r3l17 gleich die Steürsamlere examinieren, die Patenten
+#facs_18_r3l18 Passeports, Steür-Rüchern und andere Schriften.
+#facs_18_r3l19 unter suchen, und auch genaus erforschen mög
+#facs_18_r3l20 ob die darinn sich befindliche Sigel, Pitt schafft und
+#facs_18_r3l21 Canzley, Signaturen ächt, und ohnverfäh that, oder aber
+#facs_18_r4l1 27
+#facs_18_r4l2 nachgemachet worden. Auf den fahl nun¬
+#facs_18_r4l3 das alles in Buter Ordnung, und kein Ver¬
+#facs_18_r4l4 " Tacht eines falsi vorhanden, sollen Unsere Ober=
+#facs_18_r4l5 Amtkeüthe dergleichen Steürbücher, samt allen
+#facs_18_r4l6 dabey sich befindlichen und zugehörigen Schriften
+#facs_18_r4l7 Unß alsbald durch die Post, zu weiterer Verordnung
+#facs_18_r4l8 einsenden, die Collectanten aber nach Ihrem Te¬
+#facs_18_r4l9 lieben entweders auch mit einem Passport
+#facs_18_r4l10 und der Anweisung inzleifen alles Steüresamm¬
+#facs_18_r4l11 lens sich zu müßigen, anhero kommen laßen
+#facs_18_r4l12 oder mithin aber dahin anweisen, daß die an
+#facs_18_r4l13 dem Ohrt, da sie sich befinden werden, auch ohne
+#facs_18_r4l14 fernerer Collectieren, verbleiben, bis ein solches
+#facs_18_r4l15 Steürbuch leider werde zugefendet werden
+#facs_18_r4l16 Sollte aber der mindeste Verdacht wider der¬
+#facs_18_r4l17 gleichen Steürstamlere sich Ergeben, er seye nun
+#facs_18_r4l18 Durch die Sigel, Signaturen, oder aber auf eine ande¬
+#facs_18_r4l19 re Weise, so sollen selbige alsogleich gefänglichen
+#facs_18_r4l20 angehalten, und durch Unsere Ober-deamtete
+#facs_18_r4l21 scharff examiniert werden, daherige Procedar kann
+#facs_18_r4l22 Auß
+#facs_19_r2l1 Unß, nebst allen auf den Collectanten ge¬
+#facs_19_r2l2 Schriften, zu weiterer Verordnung einge¬
+#facs_19_r2l3 die Steür samlere aber wohl verwahret, in der
+#facs_19_r2l4 lichen Verhafft aufbehalten werden
+#facs_19_r2l5 4° Belangend dan endlichen diejenigen Collect
+#facs_19_r2l6 und Steür famlere, welche allbereit eine guer¬
+#facs_19_r2l7 und mildreiche Steür von Unß, und benant¬
+#facs_19_r2l8 für Statt, und Land, werden Erhalten haben,
+#facs_19_r2l9 aber des Steürfammlens in Unseren Land
+#facs_19_r2l10 nicht enthalten Burden, sollen dieselben al¬
+#facs_19_r2l11 gleich Unseren Ober-Amtleüten angezeigt
+#facs_19_r2l12 und zugeführet werden, welche selbige, ohn
+#facs_19_r2l13 anders, gewohnter maßen auf die Kränzen
+#facs_19_r2l14 und Ihnen den WiderEintritt in Ansere Land
+#facs_19_r2l15 unter Redrohung härterer Bestraaffung
+#facs_19_r2l16 verbieten sollen.
+#facs_19_r2l17 Wirbefehlen demmenach allen Unseren OberCollE
+#facs_19_r2l18 Unter Amtläuthen, wie nicht weniger auch f
+#facs_19_r2l19 Unseren Lieben und Betreüen Angehörigen¬
+#facs_19_r2l20 gemein, und jedem ins besonders dieser
+#facs_19_r2l21 Unseren
+#facs_19_r3l1 29
+#facs_19_r3l2 Unserem Einstehen, und Erfrischter Verordnung¬
+#facs_19_r3l3 Durchaus nachkommen, und selbe in alle Wegzu¬
+#facs_19_r3l4 befolgen, inmaßen die Widerhandlende mitgeme¬
+#facs_19_r3l5 "ßener Straaff, entdeinenden fahls, angesehen
+#facs_19_r3l6 werden sollen.
+#facs_19_r3l7 Und damit Mäniglich den Inhalt dieser Verord¬
+#facs_19_r3l8 nung läußen, und mithin vor Schaden sich hütgekön:
+#facs_19_r3l9 aßentlichen
+#facs_19_r3l10 So ist Unser Will, daß solche nicht nur von Canzler
+#facs_19_r3l11 verlesen, sondern auch geloohnter ohrten angeschlagen
+#facs_19_r3l12 werde. Neben d. 17ten Septembris 1759.
+#facs_19_r3l13 Sign
+#facs_19_r3l14 Bern
+#facs_19_r3l15 Saupleij
+#facs_19_r3l16 1
+#facs_19_r3l17 Placard
+#facs_19_r3l18 Nous l'advoyer et conseil de la Ville et Republique
+#facs_19_r3l19 de Berne, savoir faisons; qu'il nous a été rapporté, que
+#facs_19_r3l20 non obstant nos Réglements du 30e Décembre 1750, 20 Sep
+#facs_19_r3l21 tembre 1756, 3e Juillet 1757, et 9e juillet 1758.
+#facs_19_r3l22 publiés
+#facs_20_r2l1 Publiés à l'Cecasion des soit-disant Quiteurs ou Collecteurs
+#facs_20_r2l2 Aumones, qui usent de toutes sortes de prétextes, pour
+#facs_20_r2l3 en chacun à Contribution: Cette Espèce de Gens ne le
+#facs_20_r2l4 n'est pas, que d'être toujours très à Charge a Nos Païs, et
+#facs_20_r2l5 ne peut que Nous être désagreable. Cest pour remedier
+#facs_20_r2l6 abus, et afin de soulager Nos Pays de ce fardeau, que
+#facs_20_r2l7 Nous avons par un Effet de Nôtre attention Paterna
+#facs_20_r2l8 au bien de tous Nos Bourgeois et Sujets, ou nécessaire
+#facs_20_r2l9 de rappeller, et de renforcez Nos dits Praecédents Régués
+#facs_20_r2l10 ments, en ordonant et statuant, come suit
+#facs_20_r2l11 1° come c'est à Nous seuls, qu'il appartient, de par
+#facs_20_r2l12 la Levée d'une Collecte ou quite, dans Nos Etat; il est
+#facs_20_r2l13 interdit à tous Nos Baillis et autres Officiers, j'assaux
+#facs_20_r2l14 Pasteurs, Notaires, Villes Comunes et Généralement
+#facs_20_r2l15 en chacun de Nos Bourgeois et sujets d'expedier de
+#facs_20_r2l16 pareilles Lettres ou Patentes, au moyen desquelles
+#facs_20_r2l17 que leurs voudroient faire une quête ou Collecte:
+#facs_20_r2l18 Nous reservant de châties ceux, qui pourroient est
+#facs_20_r2l19 venir, à cette Defense, ainsi qu'il conviendra
+#facs_20_r2l20 2. il est deffendu à un chacun, sujet ou Etranger
+#facs_20_r2l21 faire
+#facs_20_r3l1 31
+#facs_20_r3l2 faire, sans Nôtre Permission, une quête ou Collecte
+#facs_20_r3l3 dans Nos Pays, sous quel P retexte que ce puisse
+#facs_20_r3l4 être; et doit celui, qui sera surpris en faute à cet
+#facs_20_r3l5 égard, être chatié sans grace ni Remission
+#facs_20_r3l6 3° S'il venoit dans Nos Païs des quêteurs ou Collecteurs d'Aums
+#facs_20_r3l7 nes, qui n'en auroient point obtenû la permission de
+#facs_20_r3l8 Nous, et ne servient pas cet Effet munis de Lettres scellées
+#facs_20_r3l9 de Notre Sceau. Mais qui produiroient des Patentes ou
+#facs_20_r3l10 Livres de Collecte, qu'ils auroient apportés du dehors,
+#facs_20_r3l11 Tels Quêteurs ou Collecteurs, aprés qu'on se sera au prealable
+#facs_20_r3l12 laisé de leurs Papiers, devront être conduits devant Na
+#facs_20_r3l13 Bailliss, afin que ceux-ci puissent les interroger, examiner
+#facs_20_r3l14 leurs Patentes, Passeports, Livres et autres Papiers; Et
+#facs_20_r3l15 surtout verifier avec soin, Si les Saaux, Cachet et Seings,
+#facs_20_r3l16 qui s'y trouveront, sont véritables ou contrefaits. Et en eau
+#facs_20_r3l17 que le tout soit en bonne et duë forme, et qu'il n'y ait
+#facs_20_r3l18 nul soupçon de fraude, Nos Baillifs devront
+#facs_20_r3l19 Nous faire parvenir tout de suite par la Poste lesdits
+#facs_20_r3l20 Livres de Collecte, et autres Papiers, qui sy trouveront
+#facs_20_r3l21 J
+#facs_21_r2l1 y appartenir; Et quant à la personne des quêteurs
+#facs_21_r2l2 collecteurs, ils pourront, suivant quils le jugeront
+#facs_21_r2l3 propos, les envoyer ici, pourvûs d'un Passeport,
+#facs_21_r2l4 avec Defense, de faire aucune Quête ou Collecte ou
+#facs_21_r2l5 Coute; Ou bien leur ordonner, de Sejourner la p
+#facs_21_r2l6 ils se trouventnt, jusqu’au retour de leur livre de
+#facs_21_r2l7 lecte: Et cela sous la même l'eserve, de ne point
+#facs_21_r2l8 quêter ni collecter dans ces Entrefaites. Mais cette
+#facs_21_r2l9 Cas qu'il y ait le Moindre Soup con, contre de part
+#facs_21_r2l10 Quêteurs ou Collecteurs d'Aumone, soit par rapport
+#facs_21_r2l11 aux Sçels, Seigneurs ou autrement; Nos Bailliss deux
+#facs_21_r2l12 tout des vite les faire emprisonner et les éxanimer s'en
+#facs_21_r2l13 Procedure qui
+#facs_21_r2l14 ment: Et puis nous faire parvenir la
+#facs_21_r2l15 instruite, ainsi que tous les Papiers, que ces Quêteurs
+#facs_21_r2l16 collecteurs, auront eû sur eux, afin que Nous puission
+#facs_21_r2l17 En ordonner; Bien entendû, que jusques là, les dits
+#facs_21_r2l18 de leurs ou Collecteurs seront soigneusement gardés en
+#facs_21_r2l19 Prison
+#facs_21_r2l20 4 finalement et quant aux Quateurs ou Collecteurs.
+#facs_21_r2l21 d'Aumones
+#facs_21_r3l1 33
+#facs_21_r3l2 D'Aumones, qui après avoir reçu de nôtre liberalité
+#facs_21_r3l3 les secours, que Nous croirons devoir suffire pour na
+#facs_21_r3l4 Villes, et Paijs, ne laisseront pas que de continuer
+#facs_21_r3l5 à quêter et collecter dans nos Etats, ils devront être
+#facs_21_r3l6 incessament de nouces et conduits devant Nos Bailliss,
+#facs_21_r3l7 qui les feront mener aux frontières et leurs defendrons
+#facs_21_r3l8 de rentrer dans nos Etats, sous peine d'un chatiment
+#facs_21_r3l9 plus rigoureux
+#facs_21_r3l10 Mandons et comandons partant a Nos Bailliss et
+#facs_21_r3l11 autres Officiers, de même qu'a tous et un chacun de Il est
+#facs_21_r3l12 chérs et feaux Bourgeois et sujets en Général et en particu
+#facs_21_r3l13 liers, de se renformer exactement à Notre presente Ordonné
+#facs_21_r3l14 nance, et de la Suivre en tout Point puisque nous
+#facs_21_r3l15 ne manqueront point, d'infliger le Chatiment convena
+#facs_21_r3l16 le de ceux qui seront convaincus d'y être contrevenus.
+#facs_21_r3l17 Et afin que chacun puisse se régler en consequence, et
+#facs_21_r3l18 par la prevenir tout Domage, nous voulons que la pré
+#facs_21_r3l19 sente Ordonance soit publiquement lûe en chaire, et
+#facs_21_r3l20 de plus affiché par tout oû il conviendra Doné ce 17 7bre
+#facs_21_r3l21 Chancellerie de Berne
+#facs_21_r3l22 1759

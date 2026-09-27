@@ -1,0 +1,218 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 211/211
+# High similarity (>=80%): 193
+# Low similarity (<80%): 18
+# Not found: 0
+#
+#facs_126_r2l25 118.8
+#facs_4_r3l2 Verordnung.
+#facs_180_r3l2 in Betref der Bortweisung der Französischen
+#facs_180_r3l3 Einigarten und Priester
+#facs_70_r2l14 An alle deutsch und Welsche Herren Amtleut
+#facs_195_r2l5 IV. Städte, Frey Weibel und Amann, denn
+#facs_180_r3l6 ner Zedel an Mehloffl. der Eingranten Com-
+#facs_180_r3l7 mißion u. der Bürger, und Polizey Cammer sept
+#facs_53_r3l2 Schultheiß und Rath der Stadt Bern
+#facs_180_r3l9 aus wichtigen Betrachtungen bewogen, haben
+#facs_180_r3l10 Uegst. und übere unterm 17ten dies zu erben¬
+#facs_180_r3l11 nen gut befunden, daß alle französische Einig.
+#facs_180_r3l12 wirte, so wie sie in der hierbey liegenden
+#facs_180_r3l13 Publikation bestimmt sind, von welchem Stand
+#facs_180_r3l14 Alter und Geschlecht sie auch seyn mögen, worin
+#facs_180_r3l15 unter auch die Dienstbotten begriffen sind,
+#facs_182_r2l4 bis auf den ersten Augstmonat nächst künftig
+#facs_180_r3l17 bünftig den hiesigen Canton verlassen sollen
+#facs_180_r3l18 pla uns nun von Hochgedacht Ungst
+#facs_180_r3l19 und Obern die Execution dieser Hochoberbeit.
+#facs_180_r3l20 lichen Erkanntnuß übergeben ist, so übersen
+#facs_180_r3l21 den wir Eüch hiemit eine hinlängliche An-
+#facs_180_r3l22 zahl Exemplar der diesörtigen Verordnung
+#facs_180_r3l23 mit dem Befehl dieselbe nicht nur an
+#facs_180_r3l24 gewohnten Orten und auch in allen Wirths¬
+#facs_180_r3l25 läustern und Gasthofen anschlagen, sonders
+#facs_3_r1l2 A!
+#facs_101_r3l1 91
+#facs_180_r4l2 auch in allen Gemeinden oder Städten Eures Amts
+#facs_180_r4l3 bey erster ihrer Verstammlung öffentlich verlesen
+#facs_180_r4l4 zu laßen, zu welchem End ihr eine genügstame An¬
+#facs_180_r4l5 Zahl Exemplar von dieser Verordnung denen Vor¬
+#facs_180_r4l6 gesezten der in Eurem Amt sich befindlichen
+#facs_180_r4l7 Städten uns Gemeinden förderstamst zu schiken.
+#facs_180_r4l8 und ihnen zu dieser in erster Verstammlung zu
+#facs_180_r4l9 haltenden öffentlichen Verlesung den ausdruk
+#facs_180_r4l10 So dann werde
+#facs_180_r4l11 lichen Befehl ertheilen werdet.
+#facs_180_r4l12 Ihr auch dieselbe allen französischen Emigrirten
+#facs_180_r4l14 bezirk aufhalten mögen för¬
+#facs_180_r4l15 so sich in Euerin
+#facs_180_r4l16 dersamst bekannt machen, und sie zu befolgung
+#facs_180_r4l17 derselben anweisen, hernach dann auch Ham¬
+#facs_180_r4l18 obhalten, daß derselben von den betreffen¬
+#facs_180_r4l19 den Personen behörig Folge geleistet werde;
+#facs_180_r4l20 die Wiederhandelnden dann werdet Ihr
+#facs_180_r4l21 mit den dies orts vorgeschriebenen Strafen be¬
+#facs_180_r4l22 legen, auch zu diesem End von den Wirthen die
+#facs_180_r4l23 Stapporte jeweilen abfordern laßen, und fleißig
+#facs_180_r4l24 Wobey es auch den Verstand hat,
+#facs_180_r4l25 einschauen
+#facs_180_r4l26 daß die dermalen im Land sich befindlichen Frau
+#facs_180_r4l27 zösischen Emigrirten und Priester von der gleichen
+#facs_180_r4l28 nation, von nun an bis zu ihrer Abreise, gleich
+#facs_180_r4l29 wie diejenigen so etwann wegen besonderen drin
+#facs_180_r4l30 genden Umständen eine Ausnahme zu ihrem
+#facs_180_r4l31 Gunsten erhalten möchten, ohne eine besonder¬
+#facs_180_r4l32 Bewilligung (die jedoch nur von Unserer
+#facs_187_r3l23 ge¬
+#facs_11_r3l1 15
+#facs_181_r2l1 Zur Oberauflicht über die Fremden verordneten Commißio-
+#facs_181_r2l2 ertheilt werden kann:/ sich nicht aus der Stadt oder
+#facs_181_r2l3 aus dem Amte wo sie sind, entfernen sollen
+#facs_181_r2l4 bey Straf als herum reifende Einigerirte behandel¬
+#facs_181_r2l5 zu werden, und das Land also gleich verlaßen zu
+#facs_181_r2l6 müßen; als welches Ihr denen in Enerm Am¬
+#facs_181_r2l7 lich aufhaltenden französischen Emigrirten und
+#facs_181_r2l8 Priestern, gleich dem übrigen Innhalt bemelten
+#facs_181_r2l9 Oberreitlicher Verordnung zu ihrem Verhalt
+#facs_181_r2l10 bekannt machen werdet.
+#facs_181_r2l11 Sollten sich dann auch unter den französi¬
+#facs_181_r2l12 schen einigirten solche Personen befinden, die
+#facs_15_r4l25 in
+#facs_181_r2l14 wegen hohen Alter, Leiber Schwachheiten
+#facs_181_r2l15 gänzlicher Armuth in der Unmöglichkeit waren
+#facs_181_r2l16 die Weise anzutretten, so möget Ihr, ohne Sie jedoch
+#facs_181_r2l17 dazu auffordern, uns ihre allfälligen Gründe
+#facs_181_r2l18 mit Euerm Befinden begleitet einsenden, dann
+#facs_181_r2l19 wir dieselben untersuchen lassen, und allenfalls
+#facs_181_r2l20 das nötige verordnen können.
+#facs_181_r2l21 Würden sich aber auch sonst in der Vollziehung
+#facs_181_r2l22 dieser Hochoberkeitlichen Erkanntnus einige
+#facs_181_r2l23 unvorhergestehene Schwierrigkeiten erzeigen,
+#facs_181_r2l24 und Euch über den Sinn und die Ausdähnung
+#facs_181_r2l25 derselben einige Erläuterung nötig scheinen
+#facs_181_r2l26 so werdet ihr Euch jeweilen darüber bey
+#facs_181_r2l27 über um gehörige Wegweisung anmelden
+#facs_257_r3l4 Geben den
+#facs_11_r4l1 e
+#facs_27_r3l8 soll.
+#facs_131_r5l1 251.
+#facs_67_r3l14 Publication
+#facs_181_r4l3 betrefend die Fortweisung der französischen Emigrirten
+#facs_193_r6l23 Wir Schultheiß Klein und Große Räthe der Stadt
+#facs_181_r4l5 und Republik Vern, thun kund hiemit: daß, da Wir
+#facs_181_r4l6 mit Anlieb vernehmen müßen, daß Anstere, zu
+#facs_181_r4l7 Verminderung der französischen Emigrirten, und
+#facs_181_r4l8 zu ihrer Entfernung von den französischen Grenzen
+#facs_181_r4l9 chon ehe vor ausgegangene Verordnungen und Befehlen
+#facs_181_r4l10 den gehabten Endzwek nicht erreicht, und großen
+#facs_181_r4l11 Theils nicht in gehörige Vollziehung gesezt worden
+#facs_181_r4l12 sind, auch das gute vernehmen, so wir mit allen
+#facs_181_r4l13 benachbarten Staaten zu unterhalten wünschen.
+#facs_181_r4l14 durch das unruhige Betragen verschiedener der
+#facs_181_r4l15 selben leicht hätte gestort oder unterbrochen
+#facs_181_r4l16 werden können, und wir hiebey auch denen von
+#facs_181_r4l17 verschiedenen Städten und Gemeinden, wegen
+#facs_181_r4l18 Diesen hinter ihnen sich aufhaltenden und Ihnen
+#facs_181_r4l19 zur Last fallen könnenden vielen Fremden, ge¬
+#facs_181_r4l20 äußerten Besorgnißen billiche Stechenchaft
+#facs_181_r4l21 tragen wollen; so haben Wir aus allen diesen
+#facs_181_r4l22 Betrachtungen, in Betreff der gedachten franzö
+#facs_181_r4l23 tischen Priester und Emigrirten zu verordnen und
+#facs_181_r4l24 zu erkennen gut befunden, verordnen und erbennen
+#facs_181_r4l25 hiemit, was von einem zum anderen folget.
+#facs_181_r4l26 Art. 1
+#facs_181_r4l27 Jeder Franzos, von welchem Stand, Alter und
+#facs_97_r2l26 gedacht
+#facs_183_r1l1 354
+#facs_182_r2l1 Geschlecht er auch seyn mag, der seine Nichtaus wäre
+#facs_182_r2l2 derung nicht glaubwürdig wird bescheinigen können
+#facs_182_r2l3 soll als ein Einigierter angestehen werden und
+#facs_182_r2l4 bis auf den ersten Augstmonat nächst künftig
+#facs_182_r2l5 Unsere ganze Gottmäßigkeit verlagen
+#facs_182_r2l6 Art. 2.
+#facs_182_r2l7 zu dem Ende der den Unsere Oberamtleute
+#facs_182_r2l8 faute und andern Beamtete, gegenwärtige
+#facs_182_r2l9 verordnung in ihrem Amt oder Bezirk
+#facs_182_r2l10 befindlichen französischen Priestern und Eingrif
+#facs_182_r2l11 ten beräumt machen, wo wir dann erwarten
+#facs_182_r2l12 kund, daß der dieselben dieser Verordnung
+#facs_182_r2l13 von selbst unverziehen werden, ohne sich
+#facs_182_r2l14 strengern Maasregeln auszustezen
+#facs_182_r2l15 und sollen in stellen als dann ohne Ent¬
+#facs_182_r2l16 geld mit guten Päßen verstehen werden,
+#facs_182_r2l17 in welchen Päßen dann auch die Beschreibung
+#facs_182_r2l18 und Unterschrift der betreffenden Personen
+#facs_140_r4l23 enthalte
+#facs_182_r2l20 Art: 3
+#facs_182_r2l21 Alle Unsere Angehörige, welche einen
+#facs_182_r2l22 franzosen, von welcher Cläßer auch seyn
+#facs_182_r2l23 mag, nach dem obbestimmten Termin
+#facs_182_r2l24 noch ferners zu sich aufnehmen und beherbei¬
+#facs_182_r2l25 gen würden, ohne daß derselbe ihnen eine von
+#facs_182_r2l26 Unsterer zur Ober aufsicht über die Fremden
+#facs_182_r2l27 verordneten Commission erhaltene
+#facs_182_r2l28 Bewilligung
+#facs_83_r5l31 D
+#facs_182_r3l2 Bewilligung auf weisen könnte, sollen mit einer Eusse
+#facs_182_r3l3 von Sünfzig = und im Fall einer Stecidiv, von
+#facs_182_r3l4 Einhundert Pfunden belegt werden, welche Fuße
+#facs_182_r3l5 ganz den Armen des Orts anheim fallen soll; die
+#facs_182_r3l6 jenigen Städte und Gemeinden aber, welche
+#facs_182_r3l7 dieser Künsterer Verordnung zu wieder, solche
+#facs_182_r3l8 französische Enngrirte noch ferner dulden, oder
+#facs_182_r3l9 neue annehmen würden, sollen dafür verant¬
+#facs_182_r3l10 wortlich steyn, in dem Sinn, daß sie alle ihnen
+#facs_182_r3l11 daher entstehen könnende Lasten und 3
+#facs_182_r3l12 schwerlichkeiten, wie billig, zu ertragen
+#facs_182_r3l13 haben werden.
+#facs_181_r4l26 Art. 1
+#facs_182_r3l15 damit aber theils kein Zufluß von neuen
+#facs_182_r3l16 Emigrirten geschehen, und die fortgewiesenen
+#facs_182_r3l17 nicht allmälig wieder zurükkommen können.
+#facs_182_r3l18 vorzüglich aber deren beständiges Herumreisen
+#facs_182_r3l19 in Unserm Lande und an die Grenzen von
+#facs_182_r3l20 Frankreich verhindert werde, so wollen wir ihnen
+#facs_182_r3l21 zwar den Durchpaß, jedoch aber keines wegs den
+#facs_182_r3l22 Aufenthalt in Unsern Landen gestatten; zu
+#facs_182_r3l23 diesem Ende sollen alle Franzosen, ohne Aus¬
+#facs_182_r3l24 nahme /: sie seyen Eingrirte oder nicht:/ die von
+#facs_182_r3l25 irgend einer Seite ins Land kommen, sich so gleich
+#facs_182_r3l26 zu dem nächst gelegenen Amtsmann begeben
+#facs_182_r3l27 um /: im Fall sie nicht Emigrirte wären, :/ ihre
+#facs_182_r3l28 Päße visieren zulaßen, und die Anweisung
+#facs_80_r5l1 151.
+#facs_183_r2l1 zu erhalten, sich wo alle Fremde, im Fall sie sich
+#facs_183_r2l2 im Land aufhalten wollen, inneine Bewillig¬
+#facs_183_r2l3 auch anzumelden. Würden sie aber keine
+#facs_183_r2l4 Beweiste von ihrer nicht Auswanderung vor
+#facs_183_r2l5 weisen rönnen, mithin als Emigrirte anzu¬
+#facs_183_r2l6 stehen seyn, so soll ihnen der Amtsmann
+#facs_183_r2l7 des Orts lediglich einen in Zeit und Weg
+#facs_183_r2l8 bestimmten Paß oder Stoute, zedel mitgeben,
+#facs_183_r2l9 und in der rürzesten Zeit durch Unsere Lande
+#facs_183_r2l10 zu paßiren. In dann diejenigen Enngrit
+#facs_183_r2l11 ten, welche zue einen solchen Jaß, oder außer
+#facs_183_r2l12 der Seönte, und nach der bestimmten Zeit
+#facs_183_r2l13 angetroffen wurden, als herumreisende
+#facs_183_r2l14 Emigrirte betrachtet, und als solche ohne
+#facs_183_r2l15 anders aus dem Land gewiesen werden sollen.
+#facs_183_r2l16 Art. 5
+#facs_183_r2l17 schließlich befehlen wir allen Unsern Ober
+#facs_183_r2l18 Amtleuten, /: Stadten und andern Tramteten :/
+#facs_308_r3l4 Hand obzuhalten, daß diesem Mrghhl
+#facs_183_r2l20 in allen ihren Theilen genau nach gelebt werde.
+#facs_183_r2l21 zu welchem Ende selbige an gewohnten Orten
+#facs_183_r2l22 wie auch in allen Wirthshäusern und Gast¬
+#facs_183_r2l23 Hofen, zu Jedermanns Nachricht und Verhalt
+#facs_183_r2l24 angeschlagen werden soll. Die Wirthen und
+#facs_183_r2l25 Gestgeber werden auch angewiesen, diese
+#facs_183_r2l26 Verordnung den bey ihnen ankommenden
+#facs_183_r2l27 reistenden Franzosen bekannt zu machen,
+#facs_183_r2l28 über
+#facs_128_r2l9 pllate
+#facs_183_r4l1 355
+#facs_183_r4l2 über dieselben eine genaue Controlle und Verzeich¬
+#facs_183_r4l3 niß zu führen, und ihren Ober Amtläuten darüber
+#facs_183_r4l4 geweilen den behörigen Rapport abzustatten
+#facs_257_r3l4 Geben den
+#facs_98_r5l28 en

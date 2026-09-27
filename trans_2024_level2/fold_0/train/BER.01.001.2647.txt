@@ -1,0 +1,373 @@
+BER.01.001.2647
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 364/364
+# High similarity (>=50%): 355
+# Low similarity (<50%): 9
+# Not found: 0
+#
+#facs_146_r4l10 Erneüberte Jäger Ordtnung
+#facs_146_r4l11 Der Statt Bern.
+#facs_146_r4l12 Wiser den mißbrauch der Jagdt auf dero
+#facs_146_r4l13 Trütsche Landt, und fürermblich auf
+#facs_146_r4l14 etliche Sonderbahre Wälder gerichtet.
+#facs_146_r4l15 Wir Schultheiß Räht uns Burger der Statt
+#facs_146_r4l16 Hern vrkunden hiemit: Dieweilen Unsere hievorige
+#facs_146_r4l17 wider den mißbrauch der Jagt, als Vnsers Regal-Rechts,
+#facs_146_r4l18 außgangene Ordnungen und mandat anderst nicht
+#facs_146_r4l19 gefruchtet, als daß durch allzu ungehaltenes Hetzen
+#facs_146_r4l20 und Jagen, die Wälser in Unseren landen sehr erschöpft
+#facs_146_r4l21 und erödet sind worden; So hat die Hoche nohtsurfft
+#facs_146_r4l22 erförderen wollen, sothane Unbescheidenheit durch ein
+#facs_146_r4l23 Scherpferes einsehen, als hievor beschehen ist, einzuzihlen,
+#facs_147_r2l1 Uns zuruckgehalten, damit die Jagdt in bessers
+#facs_147_r2l2 Wasen gestehlt, und das gewildt widerumb geröffnet
+#facs_147_r2l3 und gepflanzet werden möge: Inmassen wir
+#facs_147_r2l4 zu dem endt hiemit angesehen und verordnet haben
+#facs_147_r2l5 wollen, wie von einem zum anderen folget
+#facs_147_r2l6 Vor allen Dingen sollens in den Landtgrichten nach¬
+#facs_147_r2l7 folgende Holtzer uns Wälser gäntzlich in Verbott gelegt
+#facs_147_r2l8 sein, namblich der Burnigel, Gibel Egg, Blumen¬
+#facs_147_r2l9 stein-Höltzer, der Schwartzenberg und Schönenbosen
+#facs_147_r2l10 der Forst, dar Spihl, das Thumholtz, der groß und
+#facs_147_r2l11 allein Fremgarten, die Enge, der Schüttberg, und
+#facs_147_r2l12 Porrenries, bis aus Closter Ruchsen, das Thälhöltzl.
+#facs_147_r2l13 bey der Statt, sambt dem Rein der Aaren nach,
+#facs_147_r2l14 der Grauholtz, der Säselbach, Haselberg, Reüschboden
+#facs_147_r2l15 Schneitenberg, beyde Glörien, das Pleer, Zimmerberg,
+#facs_147_r2l16 Seedorff und Urtenenberg: Aussert den Landt¬
+#facs_147_r2l17 grichten dann; Im Ambt Schenckenberg, der
+#facs_147_r2l18 Dudtsch beüren, und Aspenstreichen, der Mattenbuel
+#facs_147_r2l19 der Horn, und Heisberg: Item hinder Tiberstein
+#facs_147_r2l20 Das Walshaupt der so genante Bilger=Also undt
+#facs_147_r2l21 dergestalten, daß niemals einich gewild darinnen
+#facs_147_r2l22 gagen, noch demselben, wan es schon an anderen
+#facs_147_r2l23 Ehrten aufgetriben in disen Wälderen nachsetzen,
+#facs_147_r2l24 so auch nur kein Büchsen darin tragen solle,
+#facs_147_r3l1 285
+#facs_147_r3l2 Bey fünfzig Pfunden bües, so oft deme zuwider gehandlet
+#facs_147_r3l3 wurde, wie auch bey confiscation der Rüchsen, Garnen und
+#facs_147_r3l4 anderen Jeger Instrumenten: Welcher aber in disen ver¬
+#facs_147_r3l5 bottenen Wälderen würcklich ein hochglaubt schiessen oder
+#facs_147_r3l6 fallen wurde, derselbe soll ein mehrere Straff als nur
+#facs_147_r3l7 auf das Jagen, wie obvermelt gesetzt ist, auf sich gezogen
+#facs_147_r3l8 haben, und neben confiscation des Gewildts und der
+#facs_147_r3l9 Jeger Instrumenten vmb zweyhundert Pfund pfring¬
+#facs_147_r3l10 verfallen sein: Undt welcher diese geltstraff zuerlegen
+#facs_147_r3l11 nicht vermöchte, der soll, wann es ein Bürger, durch
+#facs_147_r3l12 Vnseren Gericht schreiber geferget, und vor das Burgerzihl.
+#facs_147_r3l13 hinauß gewisen, oder wan er ein Landmann, nach
+#facs_147_r3l14 beschaffenen Dingen, etlesers mit dem Schallenwerck
+#facs_147_r3l15 abgestrafft, oder von Statt und Land vannisiert werden
+#facs_147_r3l16 eint und andern so lang, bis Sie die Geltstraff würck¬
+#facs_147_r3l17 lich werden erstattet haben.
+#facs_147_r3l18 Gleich wie aber die obgenante Wälder, so viel das Jagen
+#facs_147_r3l19 Betrifft, gäntzlich und allerdings verbotten sind, also
+#facs_147_r3l20 soll auch noch aussert denselben in Vnseren Teütschen
+#facs_147_r3l21 Landen auf Sechs Jahr lang interdiciert und ver=
+#facs_147_r3l22 bollen sein, und zwar eben so wohl unseren Ambt¬
+#facs_147_r3l23 leüten, Twingherren und Burgeren, als übrigen
+#facs_147_r3l24 vnderthanen, einig Hoch- und Raht-Bebild, noch fasanen
+#facs_148_r2l1 Stihl, und andern Wildhüener in Vnseren Landen
+#facs_148_r2l2 zuschiensten oder zufellen, bey hundert Pfunden buer
+#facs_148_r2l3 von dem übertretter, so offt einer darwider handlete
+#facs_148_r2l4 zubezuchen, oder aber, wie oberleüteret, abzustraffen;
+#facs_148_r2l5 Die Gemschen aber betreffendt, wollend wir vnseren
+#facs_148_r2l6 Amtleüten zugelassen haben, zu etwelcher Ihrer
+#facs_148_r2l7 ergatzung dieselben zujagen. Jedoch mit dem
+#facs_148_r2l8 hüteren vorbehalt, daß den alten Geissen jederzeit
+#facs_148_r2l9 verschont, und solches beschehn in bescheidenheit zu
+#facs_148_r2l10 Ihrem Haußbrauch, und daß nicht darmit
+#facs_148_r2l11 Stelwin und Quest getriben werde.
+#facs_148_r2l12 Gleich wie aber einem Zeten das allzuhefftige
+#facs_148_r2l13 gegen mißrahten wirdt, so wollend Wir inson¬
+#facs_148_r2l14 derheit durch diese erneüwerte Jegerordnung
+#facs_148_r2l15 gehebt haben, daß die in Vnseren Landen Sich
+#facs_148_r2l16 aufhaltende Franzosen aller jagens und dem
+#facs_148_r2l17 Anwildt und geflügel nachstellens, auf was
+#facs_148_r2l18 form und weiß er immer sein mag, zu allen
+#facs_148_r2l19 Seiten und an allen Ohrten sich gäntzlichen
+#facs_148_r2l20 enthalten sollendt, als welchen nützlich und
+#facs_148_r2l21 vorträglicher sein wirdt, Ihren Handlungen
+#facs_148_r2l22 und begangenschafften abzuwarten, als aber
+#facs_148_r2l23 dem Jagen nachzulauffen: Aller bey
+#facs_148_r3l1 287.
+#facs_148_r3l2 Obbestimbter Bues und Straff. Worbey Wir Uns
+#facs_148_r3l3 vorbehaltendt, das Verbott, wo von nöhten, weiters
+#facs_148_r3l4 hinauß zu erstrecken. Zu welchemens Vnsere
+#facs_148_r3l5 Jäger Cammer vor dem end der Sechs Jahren, und das
+#facs_148_r3l6 noch beyzeiten, daß wegen sich berahten, und den
+#facs_148_r3l7 anzug vor uns Thun soll.
+#facs_148_r3l8 Vnd weilen bekant, daß dar hoch- und andere gewildt
+#facs_148_r3l9 willmahls durch der Landleüten grossa Hünd, so etwas
+#facs_148_r3l10 dum Jagen abgerichtet, versagt und verderbt wirdt,
+#facs_148_r3l11 soll hiemit Mäniglich befelchnet sein, solche entweder
+#facs_148_r3l12 abzuschaffen oder stäts angebunden zuhalten, oder
+#facs_148_r3l13 aber denselben schlären Brügel anzuhemben, widrigen
+#facs_148_r3l14 fahls soll der Jenige, dessen Hund Jagens angetroffen
+#facs_148_r3l15 wirdt sechs Pfund büer verfallen sein.
+#facs_148_r3l16 Damit aber auch die Reb- und Feldhüener in Be¬
+#facs_148_r3l17 sagten Unseren Landen desto besser gepflanzet
+#facs_148_r3l18 werden, Wollend Wir Unseren Ambtleüten, Twingherrn
+#facs_148_r3l19 Bürger und Vnderthanen verbollen inert sechs Jahren,
+#facs_148_r3l20 von dato an Zurechnen, einrich Räb- oder Feldhun¬
+#facs_148_r3l21 weder zu fangen noch zuschiessen, noch auch in
+#facs_148_r3l22 Brunschweitzenen, matten, felderen und Weiden
+#facs_149_r2l1 Einiche letzten Zustecken oder zurichten oder
+#facs_149_r2l2 selbige mit der Tonelle zu fahen, bey straff
+#facs_149_r2l3 zwänzig pfunden von jedem stuck zubezahlen.
+#facs_149_r2l4 Im übrigen aber, was hierben nicht sonderbahr
+#facs_149_r2l5 ausgedruckt, so bleibt es durchaus bey dem
+#facs_149_r2l6 alten Verbott, daß in der Brunst- und Gruet-Zeit
+#facs_149_r2l7 von Liechtmeß an bis auf Bartholomej aller
+#facs_149_r2l8 Gewils, wie es namen haben mag, außgenommen
+#facs_149_r2l9 die reissenden Thier, gefristet und verschonet
+#facs_149_r2l10 -
+#facs_149_r2l11 bleiben solle, bey straff, wie hierben erleüteret.
+#facs_149_r2l12 von jedem grossen, und zechen pfund bües von
+#facs_149_r2l13 jedem kleinen; Item von jedem mahl, da
+#facs_149_r2l14 einer auf die jagt ginge, ob er gleich nichts
+#facs_149_r2l15 bekäme, neben der confiscation des Gewildts
+#facs_149_r2l16 und aller Instrumenten, wie hievor erleüteret.
+#facs_149_r2l17 Hierbey aber lassend wir in besagter Zeit zu, die
+#facs_149_r2l18 dierholter Vögal und Wintzen mit den garnen
+#facs_149_r2l19 zu fahen; Es bleibt auch unverbotten die Schlacht,
+#facs_149_r2l20 und Wilde Tuben, Rinder starren, Zuhlen etc. Item
+#facs_149_r2l21 die stei räub- und andern Vögel aus den nesteren
+#facs_149_r2l22 zunemmen: Jedenoch der Hochflug vorbehalten,
+#facs_149_r2l23 Der von Alters har einem Ichwesenden regierenden
+#facs_149_r2l24 Herren Schuldtheissen gebühret.
+#facs_149_r3l1 289
+#facs_149_r3l2 In Welcher Brunst- und Bruet-Zeit den Währten und
+#facs_149_r3l3 Gastgeberen abgestrickt bleibet, bey gleicher straff als
+#facs_149_r3l4 Gebstatt, Ihren Gasten von solchem verbottenen gewildt
+#facs_149_r3l5 aufzustellen.
+#facs_149_r3l6 Es sollen aber auch zu denen zeiten und ohrten, dan
+#facs_149_r3l7 sonst dem gewildt nachzusetzen zugelassen, die fallen
+#facs_149_r3l8 und Latchen, dem groß und kleinen gewildt damit
+#facs_149_r3l9 Zurichten, verbotten sein, bey fünfzig pfunden bueß
+#facs_149_r3l10 von jeder fallen, und fünf und zwanzig von Jedem
+#facs_149_r3l11 letsch zubezuchen.
+#facs_149_r3l12 55
+#facs_149_r3l13 Was dann die reissende Thier belangt, als Wären, Wölff,
+#facs_149_r3l14 Lüchs etc. mögend dieselben zu jeden Zeiten, undt
+#facs_149_r3l15 an allen Ohrten durch die gewohnten Landtzegenen
+#facs_149_r3l16 gejagt und gefellet werden.
+#facs_149_r3l17 Die Wilden Schleine aber, weilen durch dieselben
+#facs_149_r3l18 den Landtleuten zum Zeiten grosser schaden zugefügt,
+#facs_149_r3l19 wirdt, als mögens Sie wohl gejagt und gefellet
+#facs_149_r3l20 werden, jedoch anderst nicht, als noch vorgehenden
+#facs_149_r3l21 klärlich erscheinendem Schaden, und darüber von
+#facs_149_r3l22 Der Jeger Camer oder Vnserer Ambtleüten ertheilter
+#facs_149_r3l23 Bewilligung.
+#facs_150_r2l1 Sr
+#facs_150_r2l2 Sonsten wollendt Wir unsern vnderthanen ins
+#facs_150_r2l3 gemein vermahnt haben, Ihrer Arbeit mehr,
+#facs_150_r2l4 als aber dem Jagen, abzuwarten, als Welches
+#facs_150_r2l5 nur deren verderben nach sich zucht: Vnsere
+#facs_150_r2l6 Bürger aber, daß Sie Sich aussert der verbottenen
+#facs_150_r2l7 Zeit im Jagen aller Bescheidenheit gebrauchend
+#facs_150_r2l8 und Ihre Zeit besser anzuwenden sich beflißindt:
+#facs_150_r2l9 Im Zahl der einte oder andere auch in den
+#facs_150_r2l10 sonst erlaubten Zeiten und Ohrten die Jagt
+#facs_150_r2l11 mißbrauchen, und derselben mehr als
+#facs_150_r2l12 stimm berust nachgehen wurde, soll Vnsere
+#facs_150_r2l13 Teger Cammer nach beschaffenen Dingen zu
+#facs_150_r2l14 limitieren oder das Jagen Ihnen gar abzustellen.
+#facs_150_r2l15 hiemit begweltiget sein.
+#facs_150_r2l16 Wer Vnsere Ambtleut betrifft, gleich wie denselben
+#facs_150_r2l17 die Jagt aussert den vorvernambseten Raht¬
+#facs_150_r2l18 und Peter, Gwils, und denen obgenanten Wälderen,
+#facs_150_r2l19 nämlich in vnverbottner Zeit, noch fürbar
+#facs_150_r2l20 unverstehrt bleiben, also soll Ihnen dieselbige
+#facs_150_r2l21 hinzulichen hiemit gäntzlichen und in allweg
+#facs_150_r2l22 verbotten und abgestrickt, und Sie im übrigen
+#facs_150_r2l23 auch erreuert sein, hiermen die erforderliche
+#facs_150_r4l1 291
+#facs_150_r4l2 Bescheidenheit zugebrauchen, und nit auf gewinn undt
+#facs_150_r4l3 Verkauf zusagen. Und sollen auch die Twingherren
+#facs_150_r4l4 sich nach diser Ordnung zurichten haben, jedoch ohne
+#facs_150_r4l5 nachtheil Ihrer dißohrts habenden Gerechtigkeiten.
+#facs_150_r4l6 5 samit aber diese Ordnung in dem gantzen landt
+#facs_150_r4l7 ihre Vollzüchung erreiche, so haben wir vnsere Jeger¬
+#facs_150_r4l8 Cammer auf ein neuwer angeordnet, bestehende
+#facs_150_r4l9 auß einem Obmann von Vnseren täglichen Rähten,
+#facs_150_r4l10 und vier Jegermeisteren daß grossen Rahte, deren
+#facs_150_r4l11 Iwen die Aufsicht vndenauß, und Ihren oben auß
+#facs_150_r4l12 haben werten: Welche Camer, das ist, obenan
+#facs_150_r4l13 und Jegermeister, gleich wie Sie die vollziehung
+#facs_150_r4l14 Oser Ordnung mit allen nohtwendigen veranstal¬
+#facs_150_r4l15 tungen, darum wir Sie dann mit allem darzu
+#facs_150_r4l16 erforderlichem Galvalt authorisiert haben wollendt
+#facs_150_r4l17 Item auch mit abstraffung der Fählbahren, undt in
+#facs_150_r4l18 andere Weg Ihnen sollens angelägen sein lassen, und
+#facs_150_r4l19 war zu eüffnung der Jagt dienstlich ist zu verschaffen:
+#facs_150_r4l20 Also wollend wir Sie hiemit selbsten auch aus Trück¬
+#facs_150_r4l21 Eich dahin eingeziehlet haben, daß Sie in denen obver¬
+#facs_150_r4l22 meldten, theils gäntzlich, Theile auf eine Zeitlang
+#facs_150_r4l23 verbottenen Wälderen, kein stuck hochgibt zu fellen
+#facs_151_r3l1 haben, anderst als auß befelch vnsers täglichen
+#facs_151_r3l2 Rahts, oder einer gewesenden Ehrenhaubts und
+#facs_151_r3l3 digierenden Herren Schultheissen Unser Statt,
+#facs_151_r3l4 als denen solcher in sonderbahren Zutragen,
+#facs_151_r3l5 seiten, jedoch mit moderation, und anderst nicht
+#facs_151_r3l6 als vnder veranstaltung der Jeger Cammer zube=
+#facs_151_r3l7 willigen hiemit überlassen wirdt.
+#facs_151_r3l8 Was dann aussert denen vier Landtgrichten
+#facs_151_r3l9 ist, wollend Wir die obsicht denen Ich wesenden
+#facs_151_r3l10 Ober Ambtleüten in Ihren Ambteren nach
+#facs_151_r3l11 Inhalt dieser Ordnung überlassen haben, jedoch
+#facs_151_r3l12 der meinung, daß Sie sich selbsten nach der
+#facs_151_r3l13 selben regulierind, fahle aber etwas widriger
+#facs_151_r3l14 sich ereügen solte, wollend wir unsern Jegar
+#facs_151_r3l15 Cammer die darauf fleissige Achtung geben
+#facs_151_r3l16 soll, befelchnet haben, auf gnugsam erhaltenen
+#facs_151_r3l17 Bericht, solche fählbahre Ambtleüt Unserem
+#facs_151_r3l18 Täglichen Raht Zuverleiden
+#facs_151_r3l19 Es damit die Fräffler desto eher entdecket
+#facs_151_r3l20 werdind, sollen die verordneten Jegermeister
+#facs_151_r3l21 Jeder aufs wenigste Zwen oder mehr unter¬
+#facs_151_r3l22 bediente oder Aufseher bestellen, ehrliche
+#facs_151_r4l1 293
+#facs_151_r4l2 Vnd unverweißliche leut, umb die geneülvere aufsicht
+#facs_151_r4l3 über die Ihnen anbefehlende bezircken zuhaben, und
+#facs_151_r4l4 die übertretter bey Ihren Eyden, damit Sie zu belegen
+#facs_151_r4l5 sind, ohne einicher ansehen der Persohn zuverleiden,
+#facs_151_r4l6 Welchen alsdann auch ohne verners beweisstumb ge¬
+#facs_151_r4l7 glaubt werden soll: Zu dem es die Ambtleut
+#facs_151_r4l8 in den Landtgrichten, die Beklagten auf der
+#facs_151_r4l9 Cammer Citation allwegen zu gebührender erscheinung
+#facs_151_r4l10 anhalten sollendt.
+#facs_151_r4l11 Wahls aber der eint oder andern durch andere, als
+#facs_151_r4l12 die darzu bestelte und beeysigte Persohnen der
+#facs_151_r4l13 Cammer verleidet wurde, im eint oder anderen wider¬
+#facs_151_r4l14 dise Ordnung gehandlet zuhaben, der beklagte aber der
+#facs_151_r4l15 klag nicht bekandtlich gemacht werden könte, so soll
+#facs_151_r4l16 Vnsern bestelte jegen Cammer macht, gewalt undt
+#facs_151_r4l17 Befalch haben, auf die Persohnen des Verleiders
+#facs_151_r4l18 und Beklagten, wohl zu reflectieren, sonderlich, wie
+#facs_151_r4l19 dieselben gegen einander gesinnet, ob Sie freundt¬
+#facs_151_r4l20 oder sind gewesen? Was für keinzeichen und
+#facs_151_r4l21 Umbständ du das beklagten Überzugung verhanden
+#facs_151_r4l22 und wann kein ander mittel, die Wahrheit an Tag
+#facs_151_r4l23 Zubringen dem Beklagten der Eydt wohl zu vertrauen,
+#facs_152_r2l1 Und so der Pähler von gnugsamer Wichtigkeit
+#facs_152_r2l2 wäre, in solchen fählen Ihrem der Cammer,
+#facs_152_r2l3 befinden nach, den Beklagten zum Eydt
+#facs_152_r2l4 gelangen zulassen, vmb damit seiner schuls
+#facs_152_r2l5 oder unschuld halb sich zu purgieren, oder aber
+#facs_152_r2l6 denselben dises Eydts zu überhoben, und sonsten
+#facs_152_r2l7 nach billigkeit in der sach zu verfahren.
+#facs_152_r2l8 Es solle auch die Amman und freykteibel
+#facs_152_r2l9 in denen Statt, und Landt Gerichten, auch die
+#facs_152_r2l10 Ober Ambtleut, so weit er deren bezirck erreichen
+#facs_152_r2l11 mag, durch die Bannwarten die pflicht verrichten,
+#facs_152_r2l12 halffen, und die Forsthüeter und Bauwarten
+#facs_152_r2l13 einigen Waldts bey Ihren geschwornen
+#facs_152_r2l14 Eyden auf die Präfler zu achten, und dieselben
+#facs_152_r2l15 ihnn schonen der Cammer zuverleyden schuldig
+#facs_152_r2l16 und verbunden seyn.
+#facs_152_r2l17 Sie fallenten buessen sollen in drey Theil abge¬
+#facs_152_r2l18 theilt werden, uns darvon ein dritt heil zu
+#facs_152_r2l19 Unseren Bänden, der ander der Jäger Camer äussert
+#facs_152_r2l20 den Landtgrichten dann denen Ambtleuten,
+#facs_152_r2l21 und der dritte Theil dem verleyder heimgefallen
+#facs_152_r2l22 sein. Das unsiocierte Hoch- und Rost Bevildt
+#facs_152_r4l1 295
+#facs_152_r4l2 dann Unserem Ehren haubt dem Regierenden Herren
+#facs_152_r4l3 Schult heissen (Welchem auch der Hochflug, wie von altem
+#facs_152_r4l4 ser verbleibet) das klein Gebildt aber sambt den Jeger,
+#facs_152_r4l5 Instrumenten der gesagten Cammer heimdienen und
+#facs_152_r4l6 gefolgen.
+#facs_152_r4l7 In ansehen der Anckenwaag dann ist der Cammer über¬
+#facs_152_r4l8 lassen, gebührende aufsicht zu bestellen, und beschaffenen
+#facs_152_r4l9 Dingen nach alles dar Jenige Zuthun, was zu rüffnung
+#facs_152_r4l10 und erhaltung der Jagt und der Bürgerschafft zur
+#facs_152_r4l11 Jagt habenden Gerechtigkeiten gereichet.
+#facs_152_r4l12 Wir wollen aber verhoffen, er werden Unsere Bürger
+#facs_152_r4l13 uns vnderthanen, und kläniglich, wenn er ansehen
+#facs_152_r4l14 mag, durch Schultigen gehorsam der straff vorzu¬
+#facs_152_r4l15 kommen wüssen. Daschehen in Vnser grossen Versam¬
+#facs_152_r4l16 lung den 2. Juli. 1697.
+#facs_152_r4l17 Eydt der Jegen Cammer.
+#facs_152_r4l18 Schwert der Obmann und die Jegermeister,
+#facs_152_r4l19 nicht allein dem inhalt der Ordnung für Sich
+#facs_152_r4l20 selbsten nachzukommen, und darwider nicht zu handlen
+#facs_153_r2l1 sondern auch, auf die übertretter fleissige
+#facs_153_r2l2 aufsicht zu haben und zubestellen, und die
+#facs_153_r2l3 Eheigen Vbertretter, so Ihnen kund werden,
+#facs_153_r2l4 ohne ansehen der Persohn in die bestimbte
+#facs_153_r2l5 Straff zuziechen, und Muthl. und Oberen¬
+#facs_153_r2l6 gebührenden dritten Theil darvon zuver¬
+#facs_153_r2l7 rechnen. Summa die vollziechung diser
+#facs_153_r2l8 drünung Ihnen in guten Treulen angelegen
+#facs_153_r2l9 tin Zalassen.
+#facs_153_r2l10 Es er bestelten Auffseheren
+#facs_153_r2l11 Eydt.
+#facs_153_r2l12 Dann sollen auch schweren die Bann¬
+#facs_153_r2l13 warten und Förster, der in der Jeger
+#facs_153_r2l14 Ordnung ausgetruckten höltzeren
+#facs_153_r2l15 Schwerend dieselbe, die Ihnen anbefohlenen
+#facs_153_r2l16 Aussicht besten fleisses Zuverrichten die
+#facs_153_r2l17 bertreller, wo müglich zu entdecken, und
+#facs_153_r2l18 Selbige ohne ansehen der Persohn der
+#facs_153_r2l19 Camer zu verleiden.
+#facs_153_r2l20 H. Schaefmann
+#facs_153_r3l1 97
+#facs_153_r3l2 In alle T: Ambtleut 4. Statt
+#facs_153_r3l3 Freyweibel und Amman.
+#facs_153_r3l4 Ihnen obiger Mandat zuschicken.
+#facs_153_r3l5 Schultheiß Räht und Burger der Statt Bern,
+#facs_153_r3l6 Coll.
+#facs_153_r3l7 C 5
+#facs_153_r3l8 Damit das gewils in Unseren Teütschen Landen wiederumb sich
+#facs_153_r3l9 geeüffnet und gepflantzet, und das vnbescheidene Jagen
+#facs_153_r3l10 m
+#facs_153_r3l11 hindertriben werden möge; habendt Wir vnsere Jegen¬
+#facs_153_r3l12 Ordnung erfrischet, auf weis und mas, wie mitban¬
+#facs_153_r3l13 mende getruckte Exemplaria außweisen, die Wir
+#facs_153_r3l14 Dir mit dem Befelch überschickend, vmb disa Ordnung
+#facs_153_r3l15 in deinem Ambt auf den Cantzlen zu jedermanig¬
+#facs_153_r3l16 lichs nachricht verläsen zulassen, und darob alles
+#facs_153_r3l17 ernsts zuhalten, auch deiner Theils derselbigen nach
+#facs_153_r3l18 Dich zu conformieren; Wie geschehen werde wir vns zu
+#facs_153_r3l19 dir versehens. Bat. 2. Julij. 1697.
+#facs_154_r2l1 publier dans l'Eglise
+#facs_154_r2l2 Françoise.
+#facs_154_r2l3 Somme leurs Excellences Nos Souverains
+#facs_154_r2l4 "
+#facs_154_r2l5 seigneurs et superieurs ont trouvé necessaire
+#facs_154_r2l6 pour conserver la chasse, qui est un droit de
+#facs_154_r2l7 Regale, de retrancher l'abus d'icelle par le refrai
+#facs_154_r2l8 chissement d'une ordonnance imprimée, ayant
+#facs_154_r2l9 en informées, que des François Refugies qui
+#facs_154_r2l10 demeurent dans cette Ville, se donnent liberté
+#facs_154_r2l11 ratter à la Chasse, Elles ont aussy voulu la leur
+#facs_154_r2l12 defendre, à ce quils ayent à s'en passer, et s'abstenir
+#facs_154_r2l13 en quelque lieu et tems, que ce soit, a peine de
+#facs_154_r2l14 lamende portée par lad: ordonnance, les
+#facs_154_r2l15 Exhortans a s'appliquer plutôt a leurs professions,
+#facs_154_r2l16 et a leur travail, qu'a cet exercice, qui ne leur
+#facs_154_r2l17 convient pas en ces laïs; Suivant quoy vu
+#facs_154_r2l18 n'aqu'un scaura se conduire. Fait en 200
+#facs_154_r2l19 le 2. de Juillet 1697.
+#facs_154_r5l1 299
+#facs_154_r5l2 An alle T und W. Ambtleut,
+#facs_154_r5l3 4. Stätt. Freyweibel und Amman
+#facs_154_r5l4 Verzeichnis etlaelcher bößwichten und
+#facs_154_r5l5 morderen Ihnen zuschicken, vmb —
+#facs_154_r5l6 Solche zu behäntigen.
+#facs_154_r5l7 Schultheiß und Raht der Statt Bern,
+#facs_154_r5l8 j
+#facs_154_r5l9 Beÿligend ist eine verzeichnuß der Jenigen Bößwichten
+#facs_154_r5l10 und Mörtern, so bald hier bald dort im Land herumb
+#facs_154_r5l11 sonderlich denen Märiten nach streichen und deren
+#facs_154_r5l12 complices zu Freyburg Theils bereits hingerichtet
+#facs_154_r5l13 worden, theils dann noch gerechtfertiget werden
+#facs_154_r5l14 sollen; Im fahl nun der eint und andere nach
+#facs_154_r5l15 disen Beschreibungen möchte behändiget werden,
+#facs_154_r5l16 wollend Wir dir hiemit befohlen haben, den oder die
+#facs_154_r5l17 selben einzusetzen, uns daß verhaffts zuverständigen,
+#facs_154_r5l18 und verneren Befelchs zuerwarten; Wie
+#facs_154_r5l19 zu thun wissen wirst, Bat. 15. Julii 1697

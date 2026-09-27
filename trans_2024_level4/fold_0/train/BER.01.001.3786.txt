@@ -1,0 +1,203 @@
+Law ID: BER.01.001.3786
+Name: Dass das Umbgelt vom Bier bezahlt werden solle.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_496
+# Matched: 192/192
+# High similarity (>=50%): 167
+# Low similarity (<50%): 25
+# Not found: 0
+#
+#facs_42_r1l1 74
+#facs_42_r1l2 Perzeichnus pertineboden
+#facs_42_r1l3 Die Pfarrherren so die Tax Gelter nicht bezahlt
+#facs_42_r1l4 Capital zu thun.
+#facs_42_r1l5 Hl. Decan zu Sigriß Leyd
+#facs_42_r1l6 & Co
+#facs_42_r1l7 im Langenthal Capital
+#facs_42_r1l8 -
+#facs_42_r1l9 Pfarrer zu Fristheil
+#facs_42_r1l10 zu Kleyenbach
+#facs_42_r1l11 zu Rosebas
+#facs_42_r1l12 in Capital zu Bern
+#facs_42_r1l13 Hl. Helffer von Werdt
+#facs_42_r1l14 H. Spittahlprediger Lüpich
+#facs_42_r1l15 H. Pfarrhl zu Walten Beyl
+#facs_42_r1l16 zu Mury
+#facs_42_r1l17 zu Münligen.
+#facs_42_r1l18 zu völligen.
+#facs_42_r1l19 1
+#facs_42_r1l20 Capitul zu Canzburg und Brugg
+#facs_42_r1l21 H. Parehl zu Amersweil
+#facs_42_r1l22 Capitul zu Araus
+#facs_42_r1l23 H. Pfarrhl zu Branischen.
+#facs_42_r2l1 75
+#facs_42_r2l2 An
+#facs_42_r2l3 Latus
+#facs_42_r2l4 Alle Teütsche Ambthaüth und übrige Oberkeitl.
+#facs_42_r2l5 gediente
+#facs_42_r2l6 d. d. l.
+#facs_42_r2l7 Ihnen zu Ablag dero Rechnungen Tag
+#facs_42_r2l8 ansezen wie hieter das Formular.
+#facs_42_r2l9 Datum d. 26. Decembris
+#facs_42_r2l10 26 nove: 1739. oris
+#facs_42_r2l11 Rechnungs Tagen
+#facs_42_r2l12 Pro Ao 1740
+#facs_42_r2l13 3f febr 1740
+#facs_42_r2l14 Durgdorff.
+#facs_42_r2l15 Waltbochen
+#facs_42_r2l16 Landshut
+#facs_42_r2l17 Séydaulo
+#facs_42_r2l18 Constage 4
+#facs_42_r2l19 König
+#facs_42_r2l20 Tobad
+#facs_42_r2l21 Montags
+#facs_42_r2l22 dingser¬
+#facs_42_r2l23 10.
+#facs_42_r2l24 Prienisperg
+#facs_42_r2l25 Matbochen
+#facs_42_r2l26 Priespergerhauß,
+#facs_43_r2l1 Kornherr
+#facs_43_r2l2 Eenstags
+#facs_43_r2l3 St Johanserhauß
+#facs_43_r2l4 Bix
+#facs_43_r2l5 Montag
+#facs_43_r2l6 Rußhaffen
+#facs_43_r2l7 Remißvald
+#facs_43_r2l8 Mitbochen
+#facs_43_r2l9 Aarbaugen
+#facs_43_r2l10 Preulbrunnen
+#facs_43_r2l11 Donstags
+#facs_43_r2l12 InterlacherHauß]
+#facs_43_r2l13 Baulohner von Bürgern Montag
+#facs_43_r2l14 Büran
+#facs_43_r2l15 Oberhoffen
+#facs_43_r2l16 Mantborchen.
+#facs_43_r2l17 Gattis Bÿl
+#facs_43_r2l18 Bvand :/
+#facs_43_r2l19 Donstags
+#facs_43_r2l20 Goltstalt
+#facs_43_r2l21 Thorberg
+#facs_43_r2l22 Montags
+#facs_43_r2l23 SiechenHauß
+#facs_43_r2l24 Mitbochen
+#facs_43_r2l25 zbeysinnen
+#facs_43_r3l1 11.
+#facs_43_r3l2 15
+#facs_43_r3l3 17.
+#facs_43_r3l4 18
+#facs_43_r3l5 22
+#facs_43_r3l6 24
+#facs_43_r3l7 25
+#facs_43_r3l8 29
+#facs_43_r3l9 2t mai
+#facs_43_r4l1 Donstags
+#facs_43_r4l2 Laupen
+#facs_43_r4l3 Arberg
+#facs_43_r4l4 à ce
+#facs_43_r4l5 Montagu
+#facs_43_r4l6 Stifft
+#facs_43_r4l7 Mitbachen
+#facs_43_r4l8 Insull V
+#facs_43_r4l9 Cechselbaldae
+#facs_43_r4l10 dienstags.
+#facs_43_r4l11 Prutigen
+#facs_43_r4l12 Montags-
+#facs_43_r4l13 Thun
+#facs_43_r4l14 Siberstein
+#facs_43_r4l15 Mitbochen.
+#facs_43_r4l16 Aarburg
+#facs_43_r4l17 St Johansen
+#facs_43_r4l18 Vonstags
+#facs_43_r4l19 Signaul
+#facs_43_r4l20 Interacten
+#facs_43_r4l21 "Montag-
+#facs_43_r4l22 Untersern
+#facs_43_r4l23 Schembenberg,
+#facs_43_r4l24 Matbochen
+#facs_43_r4l25 Castelen Abrechnung,
+#facs_43_r5l1 3
+#facs_43_r5l2 7
+#facs_43_r5l3 9
+#facs_43_r5l4 10.
+#facs_43_r5l5 14
+#facs_43_r5l6 16
+#facs_43_r5l7 17
+#facs_43_r5l8 21.
+#facs_43_r5l9 23
+#facs_44_r2l1 Daauen
+#facs_44_r2l2 Denstags
+#facs_44_r2l3 24
+#facs_44_r2l4 Lastelen
+#facs_44_r2l5 Wimmiß
+#facs_44_r2l6 28
+#facs_44_r2l7 Montags-
+#facs_44_r2l8 „ —,
+#facs_44_r2l9 Wangen
+#facs_44_r2l10 30
+#facs_44_r2l11 zöftingen — " — " Mitbuchten
+#facs_44_r2l12 31
+#facs_44_r2l13 Ahlen  —„ —  sonstags den
+#facs_44_r2l14 41
+#facs_44_r2l15 Lentzburg — " — " Montags
+#facs_44_r2l16 6
+#facs_44_r2l17 Königs Folen Willem Mitbochen
+#facs_44_r2l18 Groß Spittahl — — Donstags
+#facs_44_r2l19 7
+#facs_44_r2l20 sub 18 Decembr 1739
+#facs_44_r2l21 c:
+#facs_44_r2l22 Rechnungs Pagen
+#facs_44_r2l23 Der Welchen H. Ambttrüt gen10 Ao 174
+#facs_44_r2l24 Wiblispurg - - Freytagr -
+#facs_44_r2l25 12f februarij
+#facs_44_r2l26 Välterlingen - " - " Samstags
+#facs_44_r2l27 13
+#facs_44_r3l1 79
+#facs_44_r3l2 Milden — " — " Freytags, —„ — „ 19 febr.
+#facs_44_r3l3 Oron    damstags  20.
+#facs_44_r3l4 26
+#facs_44_r3l5 Vitiß - " - hreytags - "
+#facs_44_r3l6 27
+#facs_44_r3l7 Rübenstatt — Samstag
+#facs_44_r3l8 4 marty
+#facs_44_r3l9 Lausanne - Freytags-„-
+#facs_44_r3l10 5.
+#facs_44_r3l11 Welschen Weinschemb-Samstag.
+#facs_44_r3l12 11.
+#facs_44_r3l13 Aubonne Abrechnung Freytagt
+#facs_44_r3l14 12
+#facs_44_r3l15 1te Rechnung Samstags
+#facs_44_r3l16 18
+#facs_44_r3l17 Demainmötier, Freÿtags
+#facs_44_r3l18 19
+#facs_44_r3l19 Baumont - - Samstags
+#facs_44_r3l20 25
+#facs_44_r3l21 Reubs — „ Freytagt
+#facs_44_r3l22 26
+#facs_44_r3l23 Morseé — " - " - Damstags
+#facs_44_r3l24 1th Aprilis
+#facs_44_r3l25 J Perten - " - Freytags-
+#facs_45_r1l1 80
+#facs_45_r1l2 In
+#facs_45_r1l3 Alle Teütsche und Welche Ambtleuth 4 Stött.
+#facs_45_r1l4 Freybeibel und Amman
+#facs_45_r1l5 Euß das Umbgelt vom Bier bezahlt werden
+#facs_45_r1l6 olle.
+#facs_45_r1l7 Schultheiß und Rast,
+#facs_45_r1l8 Demnach unterem 4. Septembr. letziger wollen
+#facs_45_r1l9 Großen Raht Statuiret und geordnet worden, daß
+#facs_45_r1l10 Collat
+#facs_45_r1l11 schon Ao 1692 eingeführter Uebung ausscheinten
+#facs_45_r1l12 dier Verumbgeltet werden solle, haben Wir solches
+#facs_45_r1l13 zu Stalt und Land hierdurch kund machen wolle,
+#facs_45_r1l14 also daß von allem bey der Pinten ausschenden
+#facs_45_r1l15 wie das Umbgelt nach jedeßen ohrte Gebohrheit
+#facs_45_r1l16 bezahlt, das jenige aber so en Grosseiters verhand¬
+#facs_45_r1l17 Der praecomission gemacht vom Umbgelt beseegen
+#facs_45_r1l18 van aber daßelbe bey der Pintenlieder verkaufen
+#facs_45_r1l19 wird das umgelt davon auch Einrichtet
+#facs_45_r1l20 werden solle Maßen du diesere Ordnung in
+#facs_45_r1l21 deinem Schirck, denenjenigen so es ansicher
+#facs_45_r1l22 Eröffnen birst Dalum den 22 Decembr.
+#facs_45_r1l23 1739

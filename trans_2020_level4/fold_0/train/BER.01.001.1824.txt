@@ -1,0 +1,48 @@
+Law ID: BER.01.001.1824
+Name: Ihnen das Trostbüchlein für die Kranknen überschicken.
+
+#facs_210_r3l11 Aln Rach volgende Ehic: Ihnen
+#facs_210_r3l12 das Trost Buehzlin, fur die Kranker¬
+#facs_210_r3l13 vberschiken.
+#facs_210_r3l14 schultheiß vndt Sl.
+#facs_210_r3l15 Diewylen im starbend zeiten
+#facs_210_r3l16 Ihn Vedikanten Vnnuglich talt, sich by einem Jeden Franknnn
+#facs_210_r3l17 vndt sterbenden gezebe finden, denselben zetrösten, So
+#facs_210_r3l18 habend mit, damit es an solchem trost, im andere Wag nit
+#facs_210_r3l19 ermengte, ein gute begrifliche form auf setzen laßen wi
+#facs_210_r3l20 den krenknen von den Ihrigen selbs, Groslich zu der
+#facs_210_r3l21 Seelen heil, könne zue gesprochen werden: Vndt von
+#facs_210_r3l22 schikendt der hiemit bykommende anzahl getrukten
+#facs_210_r3l23 Exemblare, solche Vnder dem Ambts angehorige, son¬
+#facs_210_r3l24 wllch de kranken sein mögen, so weit sie gelangen, auß
+#facs_210_r3l25 zetheilen. Mitt der Vermahnung, sich deren ge¬
+#facs_210_r3l26 berendt Vndt angelegenlich zugebrauchen, Wie wir vnd
+#facs_210_r3l27 Versuchendt. Datf. 19. Octobr 1667
+
+#facs_210_r3l28 Wangen 50
+#facs_210_r3l29 Arauv.50.
+#facs_210_r3l30 arwangen 40.
+#facs_210_r3l31 Brügg40.
+#facs_210_r3l32 Bixp30
+#facs_210_r3l33 Lentzburg 40
+#facs_210_r3l34 Arburg100.
+#facs_210_r3l35 entzb. prof. 100.
+#facs_210_r3l36 Hoffingen. 50
+#facs_210_r3l37 Königsfelsen. 40.
+#facs_210_r3l38 Schenkenb. 120
+#facs_210_r3l39 Bibenstein 40.
+#facs_210_r4l1 An die Herren Decanen, zue Statts
+#facs_210_r4l2 vnndt Landt die gebäts form, Inn
+#facs_210_r4l3 Pestzeit, vberschiken.
+#facs_210_r4l4 Schultheiß vnndt St. Waß fur eine sausal vmb
+#facs_210_r4l5 Colli
+#facs_210_r4l6 abwendung der geryßenden Pestilenz Straff wir
+#facs_210_r4l7 dem täglichen kirchen- vndt gemeinen gebät Jeruken
+#facs_210_r4l8 laßen, die habendt wie auch vff das Landt, Vndt hiemit
+#facs_210_r4l9 bekommende anzahl getrukter Exemplaren, ich zu
+#facs_210_r4l10 dem endt uberschiken wollen, das ihr einem jedtn Ca¬
+#facs_210_r4l11 pitularen eins darnen zue ertheilen habends, sich
+#facs_210_r4l12 deren im gewohnten kirchen gebatt, nach beygesetzter
+#facs_210_r4l13 anleitung, zegebrauchen. Alß wir vnnd versachendt
+#facs_210_r4l14 Datu 19. Octobr 1667.
+END

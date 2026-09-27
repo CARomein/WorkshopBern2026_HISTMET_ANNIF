@@ -1,0 +1,50 @@
+Law nr: BER.01.001.0536
+Name: Wynfhur wegen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 38/39
+# High similarity (>=80%): 37
+# Low similarity (<80%): 1
+# Not found: 1
+#
+#facs_82_r2l22 Couppen Teynfhur
+#facs_82_r2l23 teegl
+#facs_82_r2l24 Schuldtheis und Wir vernemen mit höchsten beduren
+#facs_82_r2l25 das vnsere vnderthanen by die, vngeacht dijner
+# NOT FOUND: —
+#facs_82_r2l27 Wilualten, Vff Unserem ansechen, gethaner Vermanng
+#facs_82_r2l28 sich in Vergnug vnsers wenn, so zu Murten
+#facs_82_r2l29 ankompt widerspäntig, sijnnig vnd vnquor vnd
+#facs_82_r2l30 erzeigent Derwegen It nochmaln Vnser
+#facs_82_r2l31 ernstige beuelich an dich das die gedacht vnser
+#facs_83_r1l1 151
+#facs_83_r2l1 Vnderthanen, alles yfer und ernst vermanen,
+#facs_83_r2l2 sollist das sich, nach ihr schuldigen pflicht
+#facs_83_r2l3 outtwilligen vnseren willen schicken, vnd die
+#facs_83_r2l4 gedachte xyz für vfs Fürderlichist Erichten
+#facs_83_r2l5 vnd er tatten Sollindt Insonderheit aber
+#facs_83_r2l6 ich verhüttend die Fass an Villen Orten
+#facs_83_r2l7 anzutechen und widerumb an der reiff dar¬
+#facs_83_r2l8 für zuschlächen, dardurch nit allein uns,
+#facs_83_r2l9 Sonders auch denen oder Wyn zu kompt
+#facs_83_r2l10 nachtheil und schaden zu statt, by vermydung
+#facs_83_r2l11 der bestimpten Traff welche der H. Sch.
+#facs_83_r2l12 von Mürtten Imfal vbertrettens von
+#facs_83_r2l13 Ihnen bezucht wirtt, vf das wir Ins
+#facs_83_r2l14 kunfftig, solche Ehegten mit mer¬
+#facs_83_r2l15 vernemen vnd etwan verursachet werden.
+#facs_83_r2l16 Mussend trengere Mittel dan jezundt
+#facs_83_r2l17 vous bestenn wegen beschicht andhandt
+#facs_83_r2l18 Heuemen, vnd g nach verdienen straffen
+#facs_83_r2l19 Im Vbrigen solt vnd wirst du selbst pöhnlich
+#facs_83_r2l20 vnd mit den dijnen of den orten und bestimpten
+#facs_83_r2l21 Plätzen, da die Für stillhaltet ein geflissen
+#facs_83_r2l22 Vrsachen haben, das man mit vnserm Weyn
+#facs_83_r2l23 gethrundlich umbgange und denselben mitt
+#facs_83_r2l24 Verfeltsche, sonders unserm willen in allem
+#facs_83_r2l25 thruwen nachkommen werde, diso Ist vnser
+#facs_83_r2l26 will den Wuss zuertatten. Actum
+#facs_83_r2l27 26 Decem.
+#facs_41_r4l33 1613

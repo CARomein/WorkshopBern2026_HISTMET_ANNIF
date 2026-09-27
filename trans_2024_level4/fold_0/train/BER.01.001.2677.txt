@@ -1,0 +1,99 @@
+BER.01.001.2677
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 90/90
+# High similarity (>=50%): 86
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_180_r5l1 e
+#facs_180_r5l2 pr
+#facs_181_r1l1 352
+#facs_181_r1l2 Collat.
+#facs_181_r2l1 An alle T: und W: Ambtleut.
+#facs_181_r2l2 #. St. Freyle: und Amman.
+#facs_181_r2l3 Die Husierer Frischer Dinge¬
+#facs_181_r2l4 abstellen.
+#facs_181_r2l5 5
+#facs_181_r2l6 Schultheiß Und Raht der Statt Pern
+#facs_181_r2l7 Demnach Wir von vnser Commercier Commer
+#facs_181_r2l8 und sonsten bedäurlich vernemen und
+#facs_181_r2l9 erfahren müssen, daß wider Unser offtere
+#facs_181_r2l10 zu abhalt, und hindertribung der so Landt¬
+#facs_181_r2l11 schäslichen Husiereren außgangene sorgfaltige
+#facs_181_r2l12 kerbott und Mandat, dieser vonbschlweiffenden
+#facs_181_r2l13 Bramer Gesindel zu grossem schaden und
+#facs_181_r2l14 Nachteil Unserer Handelslenten und im
+#facs_181_r2l15 Land Fabricierten und noch Fabricierenden
+#facs_181_r2l16 Kränder Sachen und Waaren, dennoch
+#facs_181_r2l17 zu erhin unsern Landt und Gebiete durch
+#facs_181_r2l18 streichnis, auch bey den Heüseren feil¬
+#facs_181_r2l19 Tragind, und unter anderen insonderheit
+#facs_181_r2l20 mit dergleichen Waaren und Frömbden
+#facs_181_r2l21 Müllenen Teücheren und Zügen überführint;
+#facs_181_r3l1 353.
+#facs_181_r3l2 Sind Wir vnumbgänglich veranlasset worden,
+#facs_181_r3l3 Dir wie gegen allen anderen Unseren Ambt¬
+#facs_181_r3l4 leüten Teütsch und Weltschen Landen auch beschicht¬
+#facs_181_r3l5 hiemit ernstlich zebefehlen, deiner ohrts gleichen
+#facs_181_r3l6 denen offenen Jahrmärckten auf dergleichen,
+#facs_181_r3l7 so wohl Einheimbsches als Frömbder Krämer
+#facs_181_r3l8 Gesindel wohl zu Vigilieren, und in betrettungs¬
+#facs_181_r3l9 fahl, nach vorhergangener noch Einmahliger
+#facs_181_r3l10 ernstlicher Wahrung, mit aufgesetzter straff
+#facs_181_r3l11 der Confiscation aller Ihrer Wahren, ohne schönen
+#facs_181_r3l12 gegen Sie Zuverfahren; Da dan laut alter in
+#facs_181_r3l13 Den Freyheits Brieffen einer Ehrengesellschafft
+#facs_181_r3l14 Zum Kauflenten sich befindtlichen abtheilung,
+#facs_181_r3l15 ein Viertel von dergleichen confiscierten Waaren
+#facs_181_r3l16 Vnserem grossen Kirchenbaub allhier; Ein Viertel
+#facs_181_r3l17 erstgedachter Ehrengesellschafft wegen Ihne
+#facs_181_r3l18 zustehenden obsicht; ein Viertel so die Confiscation
+#facs_181_r3l19 in Unser Haubt statt und dero Bezirck fallet,
+#facs_181_r3l20 Unserem Ehrenhaubt und Ambts Schultheissen
+#facs_181_r3l21 auf dem Land aber dem Ambtrman; und
+#facs_181_r3l22 dan ein Viertel dem von mehrgedachter Ehren¬
+#facs_181_r3l23 gesellschafft bestelten aufseher oder Verleider zufallen
+#facs_181_r3l24 und heimbdienen sel. Dat. 13. Juli 1698.
+#facs_181_r4l1 n
+#facs_182_r1l1 Majest.
+#facs_182_r1l2 Collate
+#facs_182_r2l1 Dedull
+#facs_182_r2l2 An Mehl. die vorgesetzten Herr
+#facs_182_r2l3 Ehren Gesellschafft zu Kauflenten
+#facs_182_r2l4 Zu abstellung der Husiereren die
+#facs_182_r2l5 nichtwendigen auffseher zubestellen
+#facs_182_r2l6 und Hand obzuhalten.
+#facs_182_r2l7 Zu Eüffnung der Commercien und hinter¬
+#facs_182_r2l8 Tribung daran schädlichen Busiereren
+#facs_182_r2l9 und Krätzentregeren, habend Meghl. wider
+#facs_182_r2l10 sothane Zusierer und Krätzentreger ein
+#facs_182_r2l11 derbott außgehen lassen, wie Copeyliche beylaagt
+#facs_182_r2l12 außweisst; von nun vermög enlverer
+#facs_182_r2l13 der Hochoberkeitlich verordneten Commercien
+#facs_182_r2l14 Commer vorgewisener Freyheits Brieffen
+#facs_182_r2l15 einer Ehrengesellschafft zu Kauffleüter
+#facs_182_r2l16 derselben von denen zu Statt und Landt
+#facs_182_r2l17 sammen Confiscationen mit Zuessen,
+#facs_182_r2l18 nicht allein der vierte Theil gebühret, sondern
+#facs_182_r2l19 auch die Bestellung der auffseheren zu Statt
+#facs_182_r2l20 und Land zustehet; Als habend Meghl. Euch
+#facs_182_r2l21 Möchhl. in nahmen einer Ehrengesellschafft.
+#facs_182_r4l1 355
+#facs_182_r4l2 Ermahnen und befelchen wollen, Lübere
+#facs_182_r4l3 diß öhrtige Freyheiten zugelten gemachen,
+#facs_182_r4l4 zu dem ende aller Ohrten die nohtwendigen
+#facs_182_r4l5 aufseher zu bestellen und handobsehalten
+#facs_182_r4l6 daß das Oberheitliche Verbott in verlangende
+#facs_182_r4l7 Execution gestelt, alle Einheimbsche und Frömbde
+#facs_182_r4l8 Husierer und Krätzentreger hindertriben, und
+#facs_182_r4l9 denen so über einmahl vergeblich geschehene
+#facs_182_r4l10 Wahrnung im Fähler befunden würde.
+#facs_182_r4l11 de la
+#facs_182_r4l12 Ihre Waaren ohne schönen Confisciert, und
+#facs_182_r4l13 den antheil von den Confiscationen gebührender
+#facs_182_r4l14 Ohrten hinverschaffet werdind, wie Mrghl.
+#facs_182_r4l15 zutraulen zu Lüch gestellet ist, und Ihr dem
+#facs_182_r4l16 nach Gethun wohl wüsten werdet. Dat. 13. Julii
+#facs_182_r4l17 1698

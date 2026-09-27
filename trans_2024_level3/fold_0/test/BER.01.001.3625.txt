@@ -1,0 +1,195 @@
+Law ID: BER.01.001.3625
+Name: Den Verkauff dess Sundtgäuw und anderen fremden Getreids verbiehten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_494
+# Matched: 184/184
+# High similarity (>=50%): 165
+# Low similarity (<50%): 19
+# Not found: 0
+#
+#facs_87_r5l9 Burgdorff
+#facs_87_r5l10 Montags den
+#facs_87_r5l11 15 Januarii
+#facs_87_r5l12 2
+#facs_87_r5l13 Arberg
+#facs_87_r5l14 Landshuth
+#facs_87_r5l15 Dinstags der
+#facs_87_r5l16 16 do
+#facs_87_r5l17 Vignerung
+#facs_87_r5l18 Widau
+#facs_87_r5l19 Mickbochens
+#facs_87_r5l20 17. do
+#facs_87_r5l21 Viren.
+#facs_87_r5l22 Arbangen
+#facs_87_r5l23 18. do
+#facs_87_r5l24 dasstags d
+#facs_87_r5l25 Buchsee
+#facs_87_r5l26 dips
+#facs_87_r5l27 Montags d 22 do
+#facs_87_r5l28 Frienisferb.
+#facs_87_r5l29 Interlatenhauß
+#facs_87_r5l30 = dinstags d - 23 do
+#facs_87_r5l31 Heckisbeil
+#facs_87_r5l32 Mittbochens d - 24 do
+#facs_87_r5l33 Erlach
+#facs_87_r5l34 St. Johansten Donstags d. 25ten de
+#facs_88_r2l1 731.
+#facs_88_r2l2 Kornherr
+#facs_88_r2l3 Montags den 29ten Jan.
+#facs_88_r2l4 Frieniff erblauß
+#facs_88_r2l5 Brandiß, Michwochens den 31 do
+#facs_88_r2l6 Länge
+#facs_88_r2l7 St. Johanphauß  Donstags d - R. febr.
+#facs_88_r2l8 Rech Stadt
+#facs_88_r2l9 Molstags den 5 do
+#facs_88_r2l10 Obersoppen
+#facs_88_r2l11 Mußhafen-dinstags d - 6. do
+#facs_88_r2l12 Sumißwald. Mitbochen d. 7 do
+#facs_88_r2l13 Vndersen
+#facs_88_r2l14 Somtags den 8. do
+#facs_88_r2l15 krutigen.
+#facs_88_r2l16 Stifft.
+#facs_88_r2l17 Wimmiß Montager
+#facs_88_r2l18 d 12. do
+#facs_88_r2l19 Bosdingen, Mietbochens d. 14 do
+#facs_88_r2l20 Diechenhaus
+#facs_88_r2l21 domstags d. 15. d.
+#facs_88_r2l22 Krauwbranen
+#facs_88_r2l23 Thorberg. Montags d. 19. do.
+#facs_88_r2l24 Beysimmen Dinstags d - 20 do
+#facs_88_r2l25 Arburg. Wirkbochensd. 21 do
+#facs_88_r2l26 Wangen
+#facs_88_r2l27 Schenbenberg.
+#facs_88_r2l28 Jacotags den 22. d.
+#facs_88_r3l1 169
+#facs_88_r3l2 1731.
+#facs_88_r3l3 Sausdherr von Hürgeren. Montags d.
+#facs_88_r3l4 26 febr.
+#facs_88_r3l5 Lentzburg. Mittwochens den 28. do
+#facs_88_r3l6 Trachselwald
+#facs_88_r3l7 Hiberstein darstags d. 1. Marty
+#facs_88_r3l8 Thun
+#facs_88_r3l9 3
+#facs_88_r3l10 Interlaken Montags
+#facs_88_r3l11 5. do
+#facs_88_r3l12 Ahlen.
+#facs_88_r3l13 Mittbochens d.
+#facs_88_r3l14 7. do.
+#facs_88_r3l15 Königsfelden, dortags
+#facs_88_r3l16 ,
+#facs_88_r3l17 8. d
+#facs_88_r3l18 Insull.
+#facs_88_r3l19 Montags
+#facs_88_r3l20 ###
+#facs_88_r3l21 12. do.
+#facs_88_r3l22 saauen. - Dienstags
+#facs_88_r3l23 de
+#facs_88_r3l24 15 do
+#facs_88_r3l25 Prooß Stithal. Montagt den 19. d.
+#facs_88_r3l26 Zum Bericht dienet, daß heürigen Jahrs dieses Rech¬
+#facs_88_r3l27 nung Mandat so wohl instrütsch alß Weltschland
+#facs_88_r3l28 und p. Zedel in hiesiger HaubtStadt außgeschriben wor¬
+#facs_88_r3l29 de, præcise auf dem Fueß, wieferndrigen Jahrs,
+#facs_88_r3l30 und deß mehrere, zu sehen in diesem Manda¬
+#facs_88_r3l31 teu quod pag. 26. et leg
+#facs_88_r3l32 fürt künfftige aber soll nur denen neüe,
+#facs_88_r3l33 Hn Amtleüthen anbefohlen werden neben anderen
+#facs_88_r3l34 die Munition und Haußraht Rödel harzu.
+#facs_88_r3l35 bringen.
+#facs_89_r1l1 1710
+#facs_89_r1l2 Beschreibung
+#facs_89_r1l3 Der Herren Ambtleüthen W. Land¬
+#facs_89_r1l4 zu Ablag dero Rechnungen auf Ostern
+#facs_89_r1l5 1734
+#facs_89_r1l6 Abrechnung
+#facs_89_r1l7 Wiblissen
+#facs_89_r1l8 Rechnung der Overstags den 26ten Jan.
+#facs_89_r1l9 1.
+#facs_89_r1l10 Öfälterlinga
+#facs_89_r1l11 5. Reynung. Samstags d. 27. d.
+#facs_89_r1l12 Oron
+#facs_89_r1l13 3te Rechnung. Freytags d. 2. febr.
+#facs_89_r1l14 Chillon
+#facs_89_r1l15 3te Rechnung. Samstags d. 3ten d.
+#facs_89_r1l16 Abrechnung
+#facs_89_r1l17 Neüen Stalt
+#facs_89_r1l18 ste Rechnung) Freytags d. 9. do
+#facs_89_r1l19 W Weinschent
+#facs_89_r1l20 4te Rechnung. Samstags d. 10ten do
+#facs_89_r1l21 Abrechnung
+#facs_89_r1l22 Milder
+#facs_89_r1l23 Freytags d 16t do
+#facs_89_r1l24 1te Rechnung
+#facs_89_r1l25 Morsee
+#facs_89_r1l26 2. Rechnung Samstags d. 17. do
+#facs_89_r1l27 Boumont c. brechnung  Freytags d. 23ten do
+#facs_89_r1l28 Nto Rechnung
+#facs_89_r1l29 Romainmotier 5te Rechnung. Samstags d. - 24ten do.
+#facs_89_r2l1 1731.
+#facs_89_r2l2 Neuwiß Abrechnung
+#facs_89_r2l3 Freytags den
+#facs_89_r2l4 N Rechnung
+#facs_89_r2l5 E: Martij
+#facs_89_r2l6 Werthert
+#facs_89_r2l7 2. Rechnung. Samstags d.
+#facs_89_r2l8 3t do
+#facs_89_r2l9 Aubonne
+#facs_89_r2l10 4ten Rechnungs-Preÿtags d.
+#facs_89_r2l11 9. do
+#facs_89_r2l12 Lausanne
+#facs_89_r2l13 Rechnung Samstags d. 10.
+#facs_89_r2l14 Also von Weghl. ausgeschreiben befohlen,
+#facs_89_r2l15 den 21ten Nov. 1780. Auf dem fueß
+#facs_89_r2l16 Die fehrndrigen Jahrs fürs künfftige
+#facs_89_r2l17 aber ist zu observieren ratione der Hauß¬
+#facs_89_r2l18 Raht und Munition Rödlen, das nechst
+#facs_89_r2l19 hievor beygesezet.
+#facs_89_r2l20 An die Ambtleüth im Seelan
+#facs_89_r2l21 und Bockstatt, Fraubronen
+#facs_89_r2l22 Wie auch die Amtl. der Aad nach¬
+#facs_89_r2l23 Den verbauff deß Sundtgaäus und
+#facs_89_r2l24 anderen Freunden getreide
+#facs_89_r2l25 Collath
+#facs_89_r2l26 verbiesen.
+#facs_89_r2l27 Schultheiß und Raht
+#facs_89_r2l28 Obbohlen Wir durch verschiedene Mandat
+#facs_90_r2l1 das fremde äußert der Eydtynoßschrifft
+#facs_90_r2l2 gebachsene Getreid in das Land zu
+#facs_90_r2l3 führen und darin zu verbauffen ver¬
+#facs_90_r2l4 boeten, damit der Land Mann sein
+#facs_90_r2l5 Getreid desto tueglicher Verkauffen
+#facs_90_r2l6 könne, auch das gelt im Land behalten
+#facs_90_r2l7 werde, so müßend + wir dennoch ver¬
+#facs_90_r2l8 nemen, was gestalten dieser Biderholte
+#facs_90_r2l9 Lands vätterlichen Vorsorg zu vielen
+#facs_90_r2l10 dergleichen fremdes getreid, besonders
+#facs_90_r2l11 deß kuntgäwischen in allhiesige Gott¬
+#facs_90_r2l12 mäßigkeit geborffen werde; Allermaste
+#facs_90_r2l13 Wir neben Erfrischung der Alten Man¬
+#facs_90_r2l14 der date, daß ferneren gehabt haben wollen,
+#facs_90_r2l15 daß männiglich alles ernsts verbotten,
+#facs_90_r2l16 bleibe solle, von obigem auß dem
+#facs_90_r2l17 Suntgrüb Elsas oder anderen Ohrten
+#facs_90_r2l18 äußert der Eydtgnoßschafft kommende
+#facs_90_r2l19 gebechs beder auf den Wochen Marite
+#facs_90_r2l20 zu Kiel und dortigem bezirk noch
+#facs_90_r3l1 175
+#facs_90_r3l2 andersbo eingekauffen, und in Unser Gott¬
+#facs_90_r3l3 mäßigkeit zu bringen, bey straff der ohn¬
+#facs_90_r3l4 nachläßigen Confiscation von dergleichen
+#facs_90_r3l5 ins land bringenden verbottenen frucht,
+#facs_90_r3l6 davon dem Ambtsmann ein Drittel, und
+#facs_90_r3l7 dem Verleyder zu deselben mehreren an¬
+#facs_90_r3l8 frischung übrige zwey drittel heimdienst
+#facs_90_r3l9 sollin; welch unser widermahliges Ein¬
+#facs_90_r3l10 sehen, du nit allein bey deiner amtspflicht,
+#facs_90_r3l11 observieren, und daß dehme nachgelebt
+#facs_90_r3l12 Ierde, handeshalten, sonder auch daßelbe
+#facs_90_r3l13 aljährlichen Jan der Einburff dieses fremden
+#facs_90_r3l14 streids verführt wurde, von Canzley
+#facs_90_r3l15 verläsen, auch seines Ohrts zur allfähligen
+#facs_90_r3l16 Nachricht ein Schreiben laßen bist deßen
+#facs_90_r3l17 Wir Uns zu dir versehen. Datum d. 5t
+#facs_90_r3l18 Decembris 1730

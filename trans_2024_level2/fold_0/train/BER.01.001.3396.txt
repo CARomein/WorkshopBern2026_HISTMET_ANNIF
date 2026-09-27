@@ -1,0 +1,502 @@
+Law nr: BER.01.001.3396
+Name: Ihnen die wiedermahlige Evaluation der geringhaltigen Müntzen zuschicken.
+
+# EXTRACTION INFO:
+# Matched: 491/493
+# High similarity (>=50%): 170
+# Low similarity (<50%): 321
+# Not found: 2
+#
+#facs_453_r2l12 An alle T. und W. Ambtleuth
+#facs_453_r2l13 4 Stölt, Freybeibel und Amen.
+#facs_453_r2l14 Pf. p. Zedel, wie zu sehen In
+#facs_453_r2l15 Rast v Manual
+#facs_453_r2l16 Ihnen die wiedermahlige Evaluation
+#facs_453_r2l17 der Geringhaltigen Müntzen Zuschiken
+#facs_452_r4l1 Schultheiß Räht und Burger etc.
+#facs_452_r4l2 Demmenach wir sehen und Erfahren
+#facs_452_r4l3 müßen, wie nahmhaffter Verlust
+#facs_452_r4l4 eint und anderen Vnserer Bürgeren
+#facs_452_r4l5 und Umterthanen darinen zu gewachsen
+#facs_452_r4l6 daß in Erhaltung gerichtlicher Scheng
+#facs_452_r4l7 zu verlangendem Geltvorstand
+#facs_452_r4l8 und in Auftrichtung der Gultbrieffen
+#facs_452_r4l9 der halbige Theil der Weibergüetern,
+#facs_452_r4l10 so dem Mann zugebracht werden nicht
+#facs_452_r4l11 Wageme auf dem einsetzenden Vor
+#facs_452_r4l12 dem Mann besitzenden Umterpfand
+#facs_452_r4l13 vorgehende Schuld Angeben worden
+#facs_452_r4l14 So habend Wir, umb diesem Übell
+#facs_452_r4l15 Inskünfftig vorzubiegen und dem
+#facs_452_r4l16 Gleübigeren mehrere sicherheit Anzu¬
+#facs_452_r4l17 schaffen, nach reyffer Überlegung
+#facs_452_r4l18 hiemit geordnet und Erkennt: daß,
+#facs_453_r2l1 Einverleibet, und diesem nach auch der
+#facs_453_r2l2 Auffrichtende Gültbrieff eingerichtet
+#facs_453_r2l3 werden solle: Welche Vnser
+#facs_453_r2l4 zu Gemeiner sicherheit angesehene
+#facs_453_r2l5 Ordnung öffentlich verkünden, im
+#facs_453_r2l6 seines Orths einschreiben laßen wirst,
+#facs_453_r2l7 damit Jedermann sich Inskünffti¬
+#facs_453_r2l8 darnach zu richten läuße; also
+#facs_453_r2l9 Erkennt den 2ten Herbst Monath, und
+#facs_453_r2l10 Auszuschreiben befohlen den 9ten
+#facs_453_r2l11 Decembris 1722
+#facs_453_r2l12 An alle T. und W. Ambtleuth
+#facs_453_r2l13 4 Stölt, Freybeibel und Amen.
+#facs_453_r2l14 Pf. p. Zedel, wie zu sehen In
+#facs_453_r2l15 Rast v Manual
+#facs_453_r2l16 Ihnen die wiedermahlige Evaluation
+#facs_453_r2l17 der Geringhaltigen Müntzen Zuschiken
+#facs_453_r3l1 ollat
+#facs_454_r3l2 Paccard.
+#facs_454_r3l3 Hir Schultheiß Säh und Burger der
+#facs_454_r3l4 Statt Bern, Thuen kund hiemit, dem
+#facs_454_r3l5 menach Wir schon eine geraume Zeith
+#facs_454_r3l6 Daher mit bedaubren sehen und er¬
+#facs_454_r3l7 fahren müßen, wie geringhaltige Mintzen
+#facs_454_r3l8 An benachbahrten Eydtgnaßischen Orthen
+#facs_454_r3l9 geschlagen, und zu größten Schaden der
+#facs_454_r3l10 Vnsrigen Ins Land Geworffen, auch
+#facs_454_r3l11 darinn, ohngeAcht unseren desstwegen
+#facs_454_r3l12 gethanen besten und Ernstgemeinten
+#facs_454_r3l13 Einsehen, Ordnungen und Wahrnungen,
+#facs_454_r3l14 sonderlich vom 19den Juny 1719. und 18de
+#facs_449_r3l15 selben hoher Abgenommen
+#facs_454_r3l16 in hoherem preys, als sie gesetzt, abge¬
+#facs_454_r3l17 namen Börden; Derobegen wir auch
+#facs_454_r3l18 Lamtsvölter pr Vorborg und habender
+#facs_454_r2l1 sondern auch die in deinem Ambt¬
+#facs_454_r2l2 befindende Einzeucher der Oberkeitlichen
+#facs_454_r2l3 Gelteren und Einkünfften Vor dich
+#facs_454_r2l4 zu bescheiden, Ihnen doppel gege¬
+#facs_454_r2l5 dertigen Plauards zu Ihrem Verhal¬
+#facs_454_r2l6 zuzustellen, und zur Observation
+#facs_454_r2l7 desen bey Ihren pflichten und Ent¬
+#facs_454_r2l8 jetzung Ihrer habenden Diensten
+#facs_454_r2l9 und Beneficien Anzemahnen ein¬
+#facs_454_r2l10 Dann die Einlag nit nur zu Menge
+#facs_454_r2l11 liches verhalt von Cantzlen Vertündig
+#facs_454_r2l12 sondern auch an Gewohnten Orthen
+#facs_454_r2l13 Anschlagen zelasen, und, daß sich
+#facs_454_r2l14 bigem Geflißenlich nach gelebten
+#facs_454_r2l15 berde, handt Obzuhalten; wie
+#facs_454_r2l16 Zethuen lönsen wirst etc. Datum
+#facs_454_r3l1 359
+#facs_454_r3l2 Paccard.
+#facs_454_r3l3 Hir Schultheiß Säh und Burger der
+#facs_454_r3l4 Statt Bern, Thuen kund hiemit, dem
+#facs_454_r3l5 menach Wir schon eine geraume Zeith
+#facs_454_r3l6 Daher mit bedaubren sehen und er¬
+#facs_454_r3l7 fahren müßen, wie geringhaltige Mintzen
+#facs_454_r3l8 An benachbahrten Eydtgnaßischen Orthen
+#facs_454_r3l9 geschlagen, und zu größten Schaden der
+#facs_454_r3l10 Vnsrigen Ins Land Geworffen, auch
+#facs_454_r3l11 darinn, ohngeAcht unseren desstwegen
+#facs_454_r3l12 gethanen besten und Ernstgemeinten
+#facs_454_r3l13 Einsehen, Ordnungen und Wahrnungen,
+#facs_454_r3l14 sonderlich vom 19den Juny 1719. und 18de
+#facs_454_r3l15 Septembris Lettshin, an etwelchen Orthen
+#facs_454_r3l16 in hoherem preys, als sie gesetzt, abge¬
+#facs_454_r3l17 namen Börden; Derobegen wir auch
+#facs_454_r3l18 Lamtsvölter pr Vorborg und habender
+#facs_455_r2l1 flicht gegen Unsere Angehörige
+#facs_455_r2l2 und vndtergebene, Unß entschloßen
+#facs_455_r2l3 diesem Ohnwiederbringlichen schaden
+#facs_455_r2l4 in mehrerem zu steüldren, zugleich
+#facs_455_r2l5 Auch das fernere prägen dergleicher
+#facs_455_r2l6 alzu geringhältigen Müntzen mit
+#facs_455_r2l7 hinabsetzung deren Preys umb
+#facs_455_r2l8 etwas zu hemmen, hiemit Vnsern
+#facs_455_r2l9 Vorige Wahrungen und Einsehen
+#facs_455_r2l10 sonderlich Aber das vom 18ten Sept.
+#facs_455_r2l11 Jüngsthin dahin zu erfrüschen, und
+#facs_455_r2l12 zu Erleütheren, daß
+#facs_455_r2l13 I. Vieganze Stazen von Herrn Bischofen,
+#facs_455_r2l14 von Bafell, und Herrn Bissoffen von
+#facs_455_r2l15 Wallis, auf drey Creüter, alß Ihren
+#facs_455_r2l16 eygentlichen Salt, Gebürdiget;
+#facs_456_r2l17 noch durch die Ihrigen oder Andere
+#facs_455_r3l1 861
+#facs_455_r3l2 II. Die halbe Batzen von Beyden Loben.
+#facs_455_r3l3 Stätten Lucern und Freyburg, wie auch
+#facs_455_r3l4 Die halbe sahen von Herrn Von Wallis und
+#facs_455_r3l5 H. S. Rischoffen von Basell, das Stuk Jeder
+#facs_455_r3l6 galtung auf ein Creuter, und ein vierer
+#facs_455_r3l7 Gesetzt;
+#facs_455_r3l8 III. Die Alten bekannten gueten Schillingen
+#facs_455_r3l9 in Ihrem bißherigen Warth gelaßen, die
+#facs_455_r3l10 Neulven geringhaltigen Zuger, Freyburger
+#facs_455_r3l11 und Bischoff, Basler, Schilling aber auf ein
+#facs_455_r3l12 Creützer gefeht,
+#facs_455_r3l13 IV. Die Creutzer von Lobl. Standt Freyburg
+#facs_455_r3l14 und der Republica Walliß auff Einen Vierer
+#facs_455_r3l15 Gebürdiget seyn sollindt.
+#facs_455_r3l16 H.
+#facs_455_r3l17 Alles In dem beylenstigen Heiteren Verstand
+#facs_455_r3l18 das vorgemelte geringhaltige Müntzen
+#facs_456_r3l19 Wir, denen das Heyl Unser Angehörigen
+#facs_456_r2l1 Nicht nur von unseren Hürgeliebten
+#facs_456_r2l2 Mit Rähten, Teütsch, und Welten Seite
+#facs_456_r2l3 Meisteren, noch Ihren Sebelschreiber
+#facs_456_r2l4 bey Unseren Ambtleüthen leüten, und
+#facs_456_r2l5 Weltscher Landen, Umbgeltneren, Röst¬
+#facs_456_r2l6 pfenigeren Einzeucheren, Saltz¬
+#facs_456_r2l7 Zoll, und Poste Commissen, in der
+#facs_456_r2l8 Pulverhandlung, Item bey den
+#facs_456_r2l9 Gruhtstellen, In Suma bey Allen
+#facs_456_r2l10 Oberkeiten Einkünfften vom höchsten
+#facs_456_r2l11 biß zum Letzten, Sie seyen hier
+#facs_456_r2l12 Ausgetrukt oder nicht, anderst
+#facs_456_r2l13 nicht, als auf Obgesetzten Fues
+#facs_456_r2l14 weder für das Oberkeitl. noch
+#facs_456_r2l15 Ihre selbst eygene Privat-sachen,
+#facs_456_r2l16 Ferners, weder durch sich selbst,
+#facs_456_r2l17 noch durch die Ihrigen oder Andere
+#facs_457_r2l18 Müntzen bey Zeithen Abthuen, und
+#facs_456_r3l1 863
+#facs_456_r3l2 bey Ihren Eyden eingenommen noch
+#facs_456_r3l3 Außgegeben werden, sondern die Bieder¬
+#facs_456_r3l4 handlende Bedienten, Vnter was Vor¬
+#facs_456_r3l5 wand die Übersehung immer beschehen,
+#facs_456_r3l6 möchte, mit Entsatzung Ihrer Diensten
+#facs_456_r3l7 und daran hangenden Genoßes An¬
+#facs_456_r3l8 Gesehen werden sollind.
+#facs_456_r3l9 Wie aber wir verhoffet, daß auch
+#facs_456_r3l10 Vnsere Angehörige und Undterthanen
+#facs_456_r3l11 diesetem Exempel Nachkannen, Ihnen
+#facs_456_r3l12 Selbsten, und dem gantzen Landt Vor¬
+#facs_456_r3l13 Schaden seyn, und also obangeregte
+#facs_456_r3l14 Geringhaltige Müntz Andersi nicht,
+#facs_456_r3l15 Als auf dem Fueß, wie selbe nach ge¬
+#facs_456_r3l16 zogener prob gesezt worden, Annemen
+#facs_456_r3l17 bürden, und aber die Erfahrung das
+#facs_456_r3l18 Wiederspihl An Tag geleget: Als haben
+#facs_456_r3l19 Wir, denen das Heyl Unser Angehörigen
+# NOT FOUND: facs_456_r3l20 (2020: dersechte achten helese)
+#facs_457_r2l1 billich Angelegen seyn soll hiemit
+#facs_457_r2l2 Jeder Meniglich Alles Ernsts noch¬
+#facs_457_r2l3 mahlen verwahrnen wollen,
+#facs_457_r2l4 serem sowohl Im Septemb. zum
+#facs_457_r2l5 hin publicierten und Gegenwertigen
+#facs_457_r2l6 Einsehen, und ernstgenemten
+#facs_457_r2l7 Willen nach zeleben, und also der
+#facs_457_r2l8 of
+#facs_457_r2l9 Vorbenannten Müntzen Anderst
+#facs_457_r2l10 nicht, als sie gewürdiget worden,
+#facs_457_r2l11 weder einzuneinen, noch Auß zugeben
+#facs_457_r2l12 Zumahlen wir entschloßen, auf
+#facs_457_r2l13 künfftige Liechtmeß eine schware
+#facs_457_r2l14 straff, ohne Schönen noch nachsehen
+#facs_457_r2l15 Auf die Übertretter zu setzen,
+#facs_457_r2l16 Welchemnach nun die Vnsigen
+#facs_457_r2l17 Dich darnach richten, sich dieser
+#facs_458_r4l1 869
+#facs_458_r4l2 In Unseren Landen keinen Lauff¬
+#facs_458_r4l3 haben, hiemit deren weder Angenomen,
+#facs_458_r4l4 noch Außgeben werden sollind.
+#facs_458_r4l5 Beschehen In Vnserer großen Rahtsver¬
+#facs_458_r4l6 Fammlung den 17ten und 18en Decembris
+#facs_458_r4l7 1722
+#facs_458_r4l8 translation.
+#facs_458_r4l9 Obige Mandater
+#facs_458_r4l10 Lous L'advoyer Petit et Grand
+#facs_458_r4l11 Conseil de la Ville et Republique de
+#facs_458_r4l12 Berne havoir faisons: Quayant veu avec
+#facs_458_r4l13 douleur, que depuis quelque tems on fabriquoit
+#facs_458_r4l14 dans les Souverainetez voisines des Monnoyes
+#facs_458_r4l15 de trop petite valeur, lesquelles estant ensuite
+#facs_458_r4l16 jettées dans Nos Pays, furent revies par Nos
+#facs_458_r4l17 Sujets plus haut quelles n'ont étées evalue,
+#facs_458_r4l18 à leur grand prejudice, Non obstant les Exhortations
+#facs_458_r2l1 sollend, welcher dan hiemit den
+#facs_458_r2l2 befelch hat, das Werth für diesere
+#facs_458_r2l3 probstuk zu erlegen, und diesere
+#facs_458_r2l4 Neulen Müntzen Ohngesaumbt allherr
+#facs_458_r2l5 zu überschiben, damit wir selbe durch
+#facs_458_r2l6 Vnseren Qlardin Ihrer halte undt
+#facs_458_r2l7 Werths halber auf die prob setzen
+#facs_458_r2l8 laßen, und folglich die weitere nöhtigen
+#facs_458_r2l9 Verordnung thuen können.
+#facs_458_r2l10 Da dan, soviel die Vmterm 28.
+#facs_458_r2l11 Novemb. Güngsthin völlig Abgeruf
+#facs_458_r2l12 Mänzische sogenannte Zwölff Creutzer für
+#facs_458_r2l13 und alle andere geringhältige
+#facs_458_r2l14 Teütsche und Frantzösische Müntzen
+#facs_458_r2l15 Anziehet, wie es in Ansehen deßen
+#facs_458_r2l16 bey diesen und vorigen Mandaten
+#facs_458_r2l17 dahin beleenden laßend, daß selbe
+#facs_459_r2l18 intrinseque mis a trois Cruters
+#facs_458_r3l1 vollat
+#facs_459_r3l2 II. Les Demybaches des Louables Cantons
+#facs_459_r3l3 de laverne et de fribourg, de meme que
+#facs_459_r3l4 eux de valer et de l'Eveché de Bâle,
+#facs_459_r3l5 La piece delhaque sorte a un crutzer
+#facs_459_r3l6 et demy.
+#facs_459_r3l7 III. Les sols, dont trois font un bache
+#facs_459_r3l8 leux du vieu Coin connus a Chacun
+#facs_459_r3l9 resteront dans leur valeur Comme d'ancien
+#facs_459_r3l10 peté, mais les Nouveaux de troppetite
+#facs_459_r3l11 Valeur, Comme leux de Zoug, de Fribourg
+#facs_459_r3l12 et du Sgr. Everque de Basie ont été
+#facs_459_r3l13 mis a un crutzer
+#facs_459_r3l14 IV. Quand aux Cruhers de Fribourg, et
+#facs_459_r3l15 de la Republique devaley, ils ont été
+#facs_459_r3l16 Evalué a un Demy Cruté La piece.
+#facs_459_r3l17 Et comme notre Intention est, que les susdites
+#facs_459_r3l18 Monnoyes ne soyent reçues ny debitees plus haut
+#facs_459_r3l19 en touts les endroits, ou le font les payements-
+#facs_459_r2l1 Et Mandats Souverains Emanez a ce sujet
+#facs_459_r2l2 Le 4e. Juin 1719 et encore 18e de Septembre
+#facs_459_r2l3 dernier.
+#facs_459_r2l4 C'est pourquoy estant obligé deveiller
+#facs_459_r2l5 aux biens de Nos sujets, et voulant prevenu
+#facs_459_r2l6 Le dommage itre parable, qui en arriveront
+#facs_459_r2l7 Nous avons resolu derafraichir et celaire
+#facs_459_r2l8 Les Ordonnances que Nous avons publié
+#facs_459_r2l9 le suject, et particulierement celle d
+#facs_459_r2l10 8. de septembre, esperant, que par le
+#facs_459_r2l11 moyen, et en tabaissant Le prix de les
+#facs_459_r2l12 Monnoyes de trop petite valeur, Nous
+#facs_459_r2l13 Empecherons, qu'on ne continue d'en
+#facs_459_r2l14 fabriquer
+#facs_459_r2l15 De sorte que les Baches des
+#facs_459_r2l16 seigneurs Evêques de Bâle et de
+#facs_459_r2l17 Valey ont eté suivant leur valeur
+#facs_459_r2l18 intrinseque mis a trois Cruters
+#facs_460_r2l19 seront privez de leurs charges et des benefis
+#facs_460_r2l20 qui y sont attachez.
+#facs_459_r3l1 879
+#facs_459_r3l2 II. Les Demybaches des Louables Cantons
+#facs_459_r3l3 de laverne et de fribourg, de meme que
+#facs_459_r3l4 eux de valer et de l'Eveché de Bâle,
+#facs_459_r3l5 La piece delhaque sorte a un crutzer
+#facs_459_r3l6 et demy.
+#facs_459_r3l7 III. Les sols, dont trois font un bache
+#facs_459_r3l8 leux du vieu Coin connus a Chacun
+#facs_459_r3l9 resteront dans leur valeur Comme d'ancien
+#facs_459_r3l10 peté, mais les Nouveaux de troppetite
+#facs_459_r3l11 Valeur, Comme leux de Zoug, de Fribourg
+#facs_459_r3l12 et du Sgr. Everque de Basie ont été
+#facs_459_r3l13 mis a un crutzer
+#facs_459_r3l14 IV. Quand aux Cruhers de Fribourg, et
+#facs_459_r3l15 de la Republique devaley, ils ont été
+#facs_459_r3l16 Evalué a un Demy Cruté La piece.
+#facs_459_r3l17 Et comme notre Intention est, que les susdites
+#facs_459_r3l18 Monnoyes ne soyent reçues ny debitees plus haut
+#facs_459_r3l19 en touts les endroits, ou le font les payements-
+#facs_460_r3l20 de fractaires à cette Ordonnance; huivant quoy
+#facs_460_r3l21 Chacun scaura se Conduire, et prevenir la perte
+#facs_460_r2l1 Des Deniers Souverains Chez Nos Bourgeois
+#facs_460_r2l2 Du Pays Allemand et Romand, Nos Ballifs
+#facs_460_r2l3 Secretaires des finances, Chambre des sels
+#facs_460_r2l4 Reuveurs des Impots sur Levin, Comis
+#facs_460_r2l5 des Sels, des Peages, et des postes, Directe
+#facs_460_r2l6 Du Negoie de Poudre, Item dans les Cours
+#facs_460_r2l7 de Justice, et generalement en aucun
+#facs_460_r2l8 des recettes de l'Etat, exprimez lydessus
+#facs_460_r2l9 ou Non, Nous leur deffendons derechef
+#facs_460_r2l10 par Leur serment, de ne recevoir ny debite
+#facs_460_r2l11 de les Monnoyes sur un pied plus haut
+#facs_460_r2l12 que dessus, soit en recevant des Demers
+#facs_460_r2l13 souverains, soit en leur propre et proce
+#facs_460_r2l14 Nom, ny directement, n'y indirectement
+#facs_460_r2l15 Declarant Exprepement, que Les Commis
+#facs_460_r2l16 et autres, qui manieront Les Deniers
+#facs_460_r2l17 publics, qui sous quelque prétexte que
+#facs_460_r2l18 se soit, Contreviendront a cette Deffence
+#facs_460_r2l19 seront privez de leurs charges et des benefis
+#facs_460_r3l1 873.
+#facs_460_r3l2 Nous avions lieu désperer que Nos sujets, te¬
+#facs_460_r3l3 flechipant, que nos Ardonnances, que nous
+#facs_460_r3l4 avons publiées au sujet, tandoient uniquemt.
+#facs_460_r3l5 pour Leur bien, auroient aussy en Consequence
+#facs_460_r3l6 de lela taché de sy conformer, en ne recevant
+#facs_460_r3l7 Les Susdites Monnoyes, que sur le pied, que
+#facs_460_r3l8 Nous les avions mises selon leur valeur In-
+#facs_460_r3l9 Trinseque aprez qu'on en eut fait le preuve,
+#facs_460_r3l10 Cependant lExperience nous ayant fait voir
+#facs_460_r3l11 Le contraire, Nous avont trouvé a propos
+#facs_460_r3l12 d'avertir encore tres serieusement et un
+#facs_460_r3l13 Chacun de Nor Sujets, quils ayent à se Con-
+#facs_460_r3l14 former a la presente ordonnance, demeine
+#facs_460_r3l15 qu'a La precedente du 18e de Septembre
+#facs_460_r3l16 dernier; leurs Declarants en outre, que
+#facs_460_r3l17 nous avons resolu defixer une grosse peine
+#facs_460_r3l18 à La chandeleuse prochaine, qui sera infligée
+#facs_460_r3l19 sans remission à tous ceux qui le montretont
+#facs_460_r3l20 de fractaires à cette Ordonnance; huivant quoy
+#facs_460_r3l21 Chacun scaura se Conduire, et prevenir la perte
+#facs_461_r3l22 Ambts Rechnung die Tag bestimmt den
+#facs_461_r2l1 qui luy en pourra arriver
+#facs_461_r2l2 A cette occasion Nous nous sommes ne
+#facs_461_r2l3 souvenus, que depuis un tems en las on
+#facs_461_r2l4 avoit Gelté dans le pays quantité de
+#facs_461_r2l5 Monnoyes d'Allemagne, qu'on y debitoit
+#facs_461_r2l6 sur un pied plus haut, que ne morte
+#facs_461_r2l7 Leur valeur Intrinseque; C'est pourquoy
+#facs_461_r2l8 et en Conformité de Notre derniere
+#facs_461_r2l9 Ordonnance du 18e Septembre dernier Nous
+#facs_461_r2l10 enjoignons très serieusement à touts Nos sujets
+#facs_461_r2l11 que sil leur tomboit quelqu'une de ses
+#facs_461_r2l12 Monnoyes étrangeres entre les mains, dont
+#facs_461_r2l13 Le soin ne leur seroit connu; qu'ils
+#facs_461_r2l14 ayent a la porter a leur Ballif, qui
+#facs_461_r2l15 a Ordre par la presente de leur en
+#facs_461_r2l16 payer La valeur, et de Nous l'Envoyer,
+#facs_461_r2l17 pour que nous la fassions mettre a
+#facs_461_r2l18 l'Epreuve, et que Nous en Ordonnions,
+#facs_461_r2l19 Ce qui sera convenable.
+#facs_462_r2l20 der alienirten stuben preyser Trint¬
+#facs_462_r2l21 Gelterey belauf, und by den Teütschen
+#facs_461_r3l1 : 875
+#facs_461_r3l2 À l'Egard des pieces de douze Crûtzers de
+#facs_461_r3l3 Mayence, que Nous avons decriées par notre
+#facs_461_r3l4 Mandat du 28. septembre
+#facs_461_r3l5 novembre, et
+#facs_461_r3l6 autres Monnoyes de france ou d'Allemagne
+#facs_461_r3l7 detroppetite valeur, nous nous en rap¬
+#facs_461_r3l8 portons a ladite ordonnance, et autres emanées
+#facs_461_r3l9 cy devant à ce sujet, Cest à dire, que
+#facs_461_r3l10 Les Monnoyes Susdites ne devront avoir Cours
+#facs_461_r3l11 dans Nos pays, ny y être reçues ny debiteés
+#facs_461_r3l12 Donné dans Notre grand Conseil le 17e
+#facs_461_r3l13 et 18e De Decembre 1722.
+#facs_461_r3l14 Die pertinet manckl. betreffend den Straße v über pacquelin pag: 881.
+#facs_461_r3l15 An alle W. Ambtleuth
+#facs_461_r3l16 Ihnen zu Ablag Ihrer Ambtrechungen Tag
+#facs_461_r3l17 Ansetzen
+#facs_462_r3l1 Das Mehrwerth, auch, ob beyde Ein- und
+#facs_462_r3l2 gegengetauschte Stuk gleichen oder Vndter¬
+#facs_462_r3l3 schiedlichen Lehens? Und entlichen
+#facs_462_r3l4 den Tag der beschehenen Landation in die
+#facs_462_r3l5 Rechnungen Gebührend einzubringen, und
+#facs_462_r3l6 elbige zuvor Unseren Hürgelten MitKäster
+#facs_462_r3l7 Weltsch SebelMeister, und venieren, wie auch
+#facs_462_r3l8 der weltschen Sekelspeiberey zu Communi¬
+#facs_462_r3l9 cieren; wie zethnen büßen liest etc. Rath.
+#facs_462_r3l10 28 Decemb. 1722
+#facs_462_r3l11 Am Alle T. Ambtleuth, und Oberbeitl. Heuser¬
+#facs_462_r3l12 Ihnen auf gleichen Fuß /: Joach mit Aus¬
+#facs_462_r3l13 lasung der Loberen) ein gleiches befehlen.
+#facs_462_r3l14 An Alle aus bediente Hr. Ambtleuth
+#facs_462_r3l15 Ihnen über diß alles die Allharbringung
+#facs_462_r3l16 der Mandaten-Büeckeren, und deren Übergebung
+#facs_462_r3l17 Cantzley, Anbefehlen
+#facs_463_r3l18 Aarbangen, Mitwochener
+#facs_463_r3l19 Rornherr
+#facs_463_r3l20 Ein Dortags den
+#facs_463_r3l21 St. Johanster Hans
+# NOT FOUND: facs_462_r3l22 (2020: 30)
+#facs_463_r3l23 Inderlaken,
+#facs_463_r3l24 Hans, Heeytags
+#facs_463_r3l25 Hewinsberger)
+#facs_463_r3l26 Peterlingen, Sonnstags
+#facs_463_r6l1 723
+#facs_463_r6l2 Februar
+#facs_463_r7l1 10
+#facs_463_r7l2 11
+#facs_463_r7l3 12
+#facs_463_r7l4 13.
+#facs_463_r8l1 achtstatt
+#facs_463_r8l2 Montags,
+#facs_463_r8l3 Egnando
+#facs_463_r8l4 im Dienstags
+#facs_463_r8l5 Simißleald, Mitleoch
+#facs_463_r8l6 Brandis,
+#facs_463_r8l7 raulebronen,! Dienstag
+#facs_463_r8l8 berhoffen,
+#facs_463_r8l9 ton,
+#facs_463_r8l10 Herylag
+#facs_463_r8l11 geübdenstatt
+#facs_463_r8l12 Lausanne, Samstag
+#facs_463_r8l13 Siechenhaus Montag
+#facs_463_r8l14 Nueßhaffen,
+#facs_463_r8l15 Krimisberg, dienstags
+#facs_463_r8l16 rutigen, Mitwochen
+#facs_463_r8l17 Winnis
+#facs_463_r8l18 Bauleherr von Burgern, dienstags
+#facs_463_r8l19 Morger, Lreytags,
+#facs_463_r8l20 Milden Samstags
+#facs_463_r8l21 Indterlaken
+#facs_463_r8l22 Montags
+#facs_463_r8l23 Vndterseen,
+#facs_463_r8l24 zöffingen, dienstags
+#facs_463_r8l25 Ählen, Mitwochen
+#facs_463_r9l1 Februarii
+#facs_463_r9l2 C: 15
+#facs_463_r9l3 16
+#facs_463_r9l4 19
+#facs_463_r9l5 20
+#facs_463_r9l6 22
+#facs_463_r9l7 23
+#facs_463_r9l8 24
+#facs_463_r9l9 25
+#facs_463_r9l10 26
+#facs_463_r9l11 27
+#facs_463_r9l12 1 Marty
+#facs_463_r10l1 12
+#facs_463_r10l2 3
+#facs_463_r2l1 Cellath
+#facs_464_r2l2 fferthen, Hreytags
+#facs_464_r2l3 Aubonne, Sonnstags
+#facs_464_r2l4 Killon, Montags
+#facs_464_r2l5 Gros Spithal, zinstags
+#facs_464_r2l6 Insul, darstags
+#facs_464_r2l7 Neulos, Freytags
+#facs_464_r2l8 Romainmotier, Sonntags
+#facs_464_r2l9 Bibersteyn
+#facs_464_r2l10 Montags
+#facs_464_r2l11 Abrburg.
+#facs_464_r2l12 Saanen,
+#facs_464_r2l13 Dienstag
+#facs_464_r2l14 zweysimmen,
+#facs_464_r2l15 Schentenberg, Mitwochens
+#facs_464_r2l16 4. darstags
+#facs_464_r2l17 Etachselwald
+#facs_464_r2l18 Lentzburg, Freytags
+#facs_464_r2l19 Ponmont
+#facs_464_r2l20 Weltschweynschen, 1 Samstags
+#facs_464_r2l21 Königs felden Montags
+#facs_463_r5l1 "
+#facs_464_r5l2 13
+#facs_464_r5l3 15
+#facs_464_r5l4 16
+#facs_464_r5l5 17.
+#facs_464_r5l6 18.
+#facs_464_r5l7 20
+#facs_464_r5l8 "22.
+#facs_463_r7l1 10
+#facs_463_r7l2 11
+#facs_463_r7l3 12
+#facs_463_r7l4 13.
+#facs_464_r7l5 Betreffend den außgerisenen Straßen Reüber,
+#facs_464_r7l6 Renobest Pacquelin.
+#facs_464_r7l7 Schultheiß und Raht etc.
+#facs_464_r7l8 In der Nacht vom 9. biß 10. diß Monats
+#facs_464_r7l9 hat Renobert Pacquelin ein Straßen Renber
+#facs_464_r7l10 Auß den Banden zu Besancon, sich looß
+#facs_464_r7l11 gebürtet und vermuhtlich von denen
+#facs_464_r7l12 euch in unsere Landt begeben, derowegen
+#facs_464_r7l13 Wir dir befehlen wollen, hindter denen
+#facs_464_r7l14 Ambtsbezirk auf Ihne achten, betreffenden
+#facs_464_r7l15 fahls selbigen Rest setzen zelaßen, und daß
+#facs_464_r7l16 Verhaffter Unß zu verstendigen, Zu
+#facs_464_r7l17 Belihern und dir byligend sein Portrait
+#facs_464_r7l18 Zugesandt wirdt. Datum den 18 Dec.
+#facs_464_r7l19 1722
+#facs_464_r2l1 Stift, darstags, den
+#facs_464_r2l2 fferthen, Hreytags
+#facs_464_r2l3 Aubonne, Sonnstags
+#facs_464_r2l4 Killon, Montags
+#facs_464_r2l5 Gros Spithal, zinstags
+#facs_464_r2l6 Insul, darstags
+#facs_464_r2l7 Neulos, Freytags
+#facs_464_r2l8 Romainmotier, Sonntags
+#facs_464_r2l9 Bibersteyn
+#facs_464_r2l10 Montags
+#facs_464_r2l11 Abrburg.
+#facs_464_r2l12 Saanen,
+#facs_464_r2l13 Dienstag
+#facs_464_r2l14 zweysimmen,
+#facs_464_r2l15 Schentenberg, Mitwochens

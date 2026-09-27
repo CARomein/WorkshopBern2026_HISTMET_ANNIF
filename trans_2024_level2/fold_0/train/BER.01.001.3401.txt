@@ -1,0 +1,30 @@
+Law nr: BER.01.001.3401
+Name: Wegen Milterung der Ordnungen, in Ansehen der von Lyon, und denen Septentrionae Provintzen Frankreichs kommenden Wahren.
+
+# EXTRACTION INFO:
+# Matched: 20/21
+# High similarity (>=50%): 19
+# Low similarity (<50%): 1
+# Not found: 1
+#
+#facs_475_r4l1 Collat.
+#facs_476_r4l2 An alle Grau TAmbtleuth
+#facs_476_r4l3 Wegen Milterung der von Lyon, und denen
+#facs_476_r4l4 Septentrional Provintzen Krankreichs kommenden
+#facs_476_r4l5 wahren. # der Ordnungen, in Ansehen p
+#facs_476_r4l6 Schultheis Rähst undt Bürger etc.
+#facs_476_r4l7 eilen eine Zeith daher Uns die Erfreüwliche
+# NOT FOUND: facs_475_r4l8 (2020: )
+#facs_476_r4l9 Advisen eingelangt, daß die Leydige Pest,
+#facs_476_r4l10 euch In Frantreich, Gottseye dank, nachgelaßen
+#facs_476_r4l11 Alß habend Wir auß diesen, undt anderen
+#facs_476_r4l12 Gründen Vnsere hievor In Ansehen der Von
+#facs_476_r4l13 Lyon, Dyon, Salins, und Besancon kommenden
+#facs_476_r4l14 im Allein durch Unsere Land führende wahren
+#facs_476_r4l15 Ausgeschriebene Verordnung auch umb etwas
+#facs_476_r4l16 Milteren, hiemit nachfolgende Verordnung
+#facs_476_r4l17 thuen wollen, daß, soviel
+#facs_476_r4l18 die von Lyon bommende allda Fabri¬
+#facs_476_r4l19 ierte, und durch unsere Land Transitierende
+#facs_476_r4l20 Wahren Ansehen will, selbe zwar wohl
+#facs_476_r4l21 denoch aber unausgepakt, und veröffnet

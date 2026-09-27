@@ -1,0 +1,89 @@
+Law ID: BER.01.001.3709
+Name: Ihnen befehlen, die Mandat wegen den Deserteurs geflissen zu beobachten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 78/78
+# High similarity (>=50%): 76
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_42_r5l8 Ain
+#facs_42_r5l9 Ripp, Wangen, Oarlvangen Garburg, Cafelen
+#facs_42_r5l10 Schenkenberg, Lentzburg, Kongsfelden,
+#facs_42_r5l11 und vier Statt im Ergenlo¬
+#facs_42_r5l12 Ihnen befehlen, die Mandat wegen den Deserteur
+#facs_42_r5l13 geflißen zu beobachten.
+#facs_42_r5l14 Schultheiß und Raht etc.
+#facs_42_r5l15 Es vermag die ürbung, und auch Unsere
+#facs_42_r5l16 ehemahlige Mandat, daß, wan Außreyser
+#facs_42_r5l17 oder Deserteurs, von Frömden auseren
+#facs_42_r5l18 Kriegs, Diensten, in Unsere Land sich zu¬
+#facs_42_r5l19 begeben, danachumahlen der gleichen
+#facs_42_r5l20 persohnen, die Pferdt, gewehr und montur
+#facs_42_r5l21 abgenommen, und solches alles mit ausnahm
+#facs_43_r2l1 Aus vorbehalt Ich dennoch der Persohnen,
+#facs_43_r2l2 wider denen Jenigen Regementeren solle
+#facs_43_r2l3 zurük gesandt, und übergeben, denen,
+#facs_43_r2l4 die solches abforderen lesen werden;
+#facs_43_r2l5 Wann aber Wir vernommen müssen, daß
+#facs_43_r2l6 bey gegen wärthigen Kriegszeithen dem
+#facs_43_r2l7 zu wider von Unseren angehörigen
+#facs_43_r2l8 gehandlet werde; Als wollend Wir die
+#facs_43_r2l9 hiemit befohlen haben, ob gegen wärtigen
+#facs_43_r2l10 Unserem Einsehen geflisentlich zu halten
+#facs_43_r2l11 und frischer dings zu manniglichs
+#facs_43_r2l12 "
+#facs_43_r2l13 nachricht öffentlich von Canzlen ver¬
+#facs_43_r2l14 bünden zulassen, daß von dergleichen
+#facs_43_r2l15 Außreißeren niehmand, weder von
+#facs_43_r2l16 Ihren Pferdten, gelehr und Montur
+#facs_43_r2l17 nichts erhandle, sondern selbige lediglich
+#facs_43_r2l18 Ihnen abgenommen, und wider zu handen
+#facs_43_r2l19 der Regimenten, von dannen Sie kommen,
+#facs_43_r2l20 außgelisert werd im; alles bey den
+#facs_43_r2l21 und unaußbleiblicher straff gegen
+#facs_43_r2l22 denen Zeugen, so darbieder Handlen
+#facs_43_r4l1 81
+#facs_43_r4l2 Und dißfahls sich vergreiffen würden;
+#facs_43_r4l3 Wolehren nach du dich zu richten, und zu
+#facs_43_r4l4 könfftiger nachricht dis Unser Einsehen
+#facs_43_r4l5 behörigen wets einschreiben zu laßen.
+#facs_43_r4l6 wüßen wirst. Datum. 28.ten Marty 1735.
+#facs_43_r4l7 den
+#facs_43_r4l8 Alle E. AmbtLeüth. 4. Statt, Frey¬
+#facs_43_r4l9 weibel und Ammann.
+#facs_43_r4l10 das Mandat vom 15. Xbris letzthin, wegen
+#facs_43_r4l11 Erben der Täüsteren erläuteren.
+#facs_43_r4l12 Schultheiß Räht und Burger etc.
+#facs_43_r4l13 Demnach Unß hinterbracht worden, was
+#facs_43_r4l14 der¬
+#facs_43_r4l15 masen das unterem 15. Xbris letzt für
+#facs_43_r4l16 strühnen Jahrs, wegen Erben von den
+#facs_43_r4l17 Täufferen außgeschrieben Mandat in
+#facs_43_r4l18 ohngleichen verstand gezogen werden wolle.
+#facs_43_r4l19 habend Wir gut befunden, erst ermelter
+#facs_43_r4l20 Mandat dahin zu erläuteren; daß wann
+#facs_44_r2l1 Ein Läuffer, welcher seit der ordnung
+#facs_44_r2l2 von Ao. 1729. ohne noht Erben absturben,
+#facs_44_r2l3 und also nur Erben auf der Seiten
+#facs_44_r2l4 "Linnen hinterlaßen Thäte, eines solchen
+#facs_44_r2l5 abgestorbenen Täüsters Wittel, wan
+#facs_44_r2l6 selbige schon vor dieser ordnung von
+#facs_44_r2l7 Ao. 1729. hinter seine gemeind wäre
+#facs_44_r2l8 gelegt worden in zwey gleich Theil¬
+#facs_44_r2l9 getheillt, und also nach der letsten
+#facs_44_r2l10 ordnung vom December torfahren
+#facs_44_r2l11 werden; Ich doch in dem Verstand,
+#facs_44_r2l12 daß die Erben auf der Seiten Linien,
+#facs_44_r2l13 so von dem verstorbenen Täufer Zu
+#facs_44_r2l14 erben verlangend, durch glaubwürdige
+#facs_44_r2l15 attestata und Todten, scheinen auf¬
+#facs_44_r2l16 weisen sollend, daß derselbe seit har
+#facs_44_r2l17 und nit vor der ordnung de Ao.
+#facs_44_r2l18 1729. abgestorben seye, welche Unserer
+#facs_44_r2l19 Erläuterung nach, du nun in künfftigen
+#facs_44_r2l20 Dich
+#facs_44_r2l21 zu tragenden fahlen zu verhalten haben.
+#facs_44_r2l22 wirst. Dat. 28 t Marty 1735.

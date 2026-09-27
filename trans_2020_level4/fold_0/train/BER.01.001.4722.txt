@@ -1,0 +1,26 @@
+Law ID: BER.01.001.4722
+Name: Getreid Verkauf, und Ergänzung des Kriegs Vorraths, im Deütschen Land.
+
+#facs_161_r3l1 Getreid Verkauf,
+#facs_161_r3l2 und Ergänzung des Kriegs Vorraths im
+#facs_161_r3l3 Dentschen Land.
+#facs_161_r3l4 An
+#facs_161_r3l5 alle deütsche herren Amtleut und Schafnere
+#facs_161_r3l6 da Obrigkeitl. Getreid ligt.
+#facs_161_r3l7 Schultheis Räth und Burger etc.
+#facs_161_r3l8 Auf den Uns von Unserer verordneten
+#facs_161_r3l9 lentschen PennerKammer und Korn kamer
+#facs_161_r3l10 erstatteten Vortrag, haben Wir erkennt:
+#facs_161_r3l11 daß vor allem aus der Kriegs Vorrath
+#facs_161_r3l12 vermitelst Aufschüttung des behaltlichsten
+#facs_161_r3l13 Getreides erganzt werden solle
+#facs_161_r3l14 sodann auch die zweÿte hälfte der Somer¬
+#facs_161_r3l15 und stamtlichen Winterfrüchten unter denen
+#facs_161_r3l16 gewohnten Vorsorgen und zu kleine
+#facs_161_r3l17 kaufen bis den 15te herbstmonat nechst¬
+#facs_161_r3l18 künftig nach und nach im lauffenden Preit
+#facs_161_r3l19 abgestoßen, und darfür gebührende Rech¬
+#facs_161_r3l20 nung getragen werden solle. Wie zu
+#facs_161_r3l21 thun und zu veranstalten ihr bestend wißen
+#facs_161_r3l22 werdet. Datum den 29t Day 1793.
+END

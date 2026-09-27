@@ -1,0 +1,53 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 45/46
+# High similarity (>=80%): 42
+# Low similarity (<80%): 3
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4824
+#facs_214_r4l14 2 Interlaben
+#facs_213_r3l14 pro 1797
+#facs_70_r4l14 An alle Herren Amtleut Welschen Lands.
+#facs_247_r3l4 und Schaffnern wo oberkeitlich Getreid liegt
+#facs_211_r3l9 Schultheiß Rath und Burger der Stadt Bern
+#facs_247_r3l6 Nach deme aus von Unstern für geliebten Mit Rathen
+#facs_308_r3l17 der Herren deutsch Sebelmeister und Venneren
+#facs_247_r3l8 über das auf Martini 1796, eingegangene
+#facs_247_r3l9 und nach Abzug des wirklich vorhandenen Krieg¬
+#facs_247_r3l10 vorracht und um der Ordinari und quasi ordinar¬
+#facs_247_r3l11 Ausgaben zu Unserer Disposition übrig bleibende
+#facs_247_r3l12 Oberkeitliche Getreyd der gewohnte Gericht auf
+#facs_247_r3l13 heute abgestattet worden, so haben Wir vor
+#facs_247_r3l14 allem aus zu erkennen gut befunden, daß
+#facs_247_r3l15 das an dem Kriegs Vorrath noch mangelnde,
+#facs_247_r3l16 so viel es den Waizen, Roggen und Haber
+#facs_247_r3l17 ansiehet, zum Ganzen in Betref aber des
+#facs_247_r3l18 dinkels zum halben Theil wieder ergänzt, und
+#facs_247_r3l19 zum Vorrath aufgeschüttet werden solle.
+#facs_247_r3l20 In Betreff aber des jenigen Oberkeitlichen
+#facs_247_r3l21 Getreides, welches nach Abzug des aufzu¬
+#facs_247_r3l22 behaltenden Frucht Quantum, wie auch der
+#facs_247_r3l23 Ordinari und quasi ordinari ausgaben übrig
+#facs_247_r3l24 bleiben wird, haben wir erkennt und
+#facs_247_r3l25 Verordnet
+#facs_70_r3l1 Collati
+#facs_96_r5l1 181.
+#facs_247_r5l2 verordnet, daß der halbige Theil davon und zwar so
+#facs_247_r5l3 wohl von den Winter als Sommer Früchten, in den
+#facs_247_r5l4 Monaten Merz, Aprill und May verstilbert werden
+#facs_247_r5l5 könne. Alles jedoch in dem Verstand, daß bey diesen
+#facs_247_r5l6 Verkauf die üblichen Vorstorgen genommen-zuma¬
+#facs_247_r5l7 len solches zu verkauffende Getreyd nur zu
+#facs_247_r5l8 kleinen Kauffen erlaßen, die Sommer Früchte
+#facs_247_r5l9 dann vorzüglich zu Anblümung der Felder hinge¬
+#facs_247_r5l10 geben - auch erst dann zumal völlig verkauft
+#facs_11_r4l1 e
+#facs_105_r4l4 werden sollen.
+#facs_247_r5l13 und in den Gegenden von welchen der Saamen
+#facs_247_r5l14 dazu in demselben angekauft wird, vollkommen
+#facs_247_r5l15 wird besorget seyn. Welchem nach Ihr Euch g
+#facs_247_r5l16 nau zu verhalten, und über das erlöstende An¬
+#facs_247_r5l17 gebührende Rechnung zutragen, Ihr bestens
+#facs_247_r5l18 bißen werdet. Geben den 24ten. Hornung 1797.
+#facs_98_r5l28 en

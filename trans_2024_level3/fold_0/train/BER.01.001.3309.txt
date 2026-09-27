@@ -1,0 +1,167 @@
+Law ID: BER.01.001.3309
+Name: Ihnen undter gewüssen Bedingungen bewilligen, das verhandene Sommergwechs über den Vorrath auss zu versilbern.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 156/156
+# High similarity (>=50%): 136
+# Low similarity (<50%): 20
+# Not found: 0
+#
+#facs_301_r3l1 Ausz
+#facs_301_r3l2 der Herren
+#facs_301_r3l3 Landts, am
+#facs_301_r3l4 Fraulobrun
+#facs_301_r3l5 Landshuth
+#facs_301_r3l6 Buchsee
+#facs_301_r3l7 Burgdeth
+#facs_301_r3l8 Hetlißloyl
+#facs_301_r3l9 Aarberg
+#facs_301_r3l10 Laupen
+#facs_301_r3l11 N4daulo
+#facs_301_r3l12 Buren
+#facs_301_r3l13 Erlach
+#facs_301_r3l14 St. Johanstr.
+#facs_301_r3l15 Thorberg
+#facs_301_r3l16 Wangen
+#facs_301_r3l17 B5 x
+#facs_301_r3l18 Aclangen
+#facs_301_r4l1 55
+#facs_301_r4l2 schreyburg
+#facs_301_r4l3 ütsch und Weltschen
+#facs_301_r4l4 leuthen Ter¬
+#facs_301_r4l5 Ao. 1720
+#facs_301_r4l6 Ihre Rechn
+#facs_301_r4l7 gen
+#facs_301_r4l8 februarius
+#facs_301_r4l9 12. d.
+#facs_301_r4l10 Montags den
+#facs_301_r4l11 13. do.
+#facs_301_r4l12 Dinstags er
+#facs_301_r4l13 Mitloochens den 14. do
+#facs_301_r4l14 15 do.
+#facs_301_r4l15 Donstags den
+#facs_301_r4l16 16 do.
+#facs_301_r4l17 Freytags den
+#facs_301_r4l18 19 d
+#facs_301_r4l19 Mentags en
+#facs_301_r4l20 Dienstags den 20 x
+#facs_301_r4l21 Mitwocens den 21. do
+#facs_301_r4l22 Donstags den 22. do
+#facs_302_r2l1 Breytags den 23. d.
+#facs_302_r2l2 Thun
+#facs_302_r2l3 Oberhoffen
+#facs_302_r2l4 Montags den 26. d
+#facs_302_r2l5 Kriemghberg
+#facs_302_r2l6 Bettstatt
+#facs_302_r2l7 Dienstags den 27.
+#facs_302_r2l8 Signaulo
+#facs_302_r2l9 Indterlacken
+#facs_302_r2l10 28. do
+#facs_302_r2l11 Hause Mitbuchenns deren
+#facs_302_r2l12 Schriemißberg
+#facs_302_r2l13 29. v
+#facs_302_r2l14 Siechenhaus
+#facs_302_r2l15 Donstags er¬
+#facs_302_r2l16 Müßhaffen
+#facs_302_r2l17 Martie
+#facs_302_r2l18 Wiblischbueg
+#facs_302_r2l19 Freytags den 1. do
+#facs_302_r2l20 Vetterlingen
+#facs_302_r2l21 Somstags den 2.
+#facs_302_r2l22 Milder
+#facs_302_r2l23 Oron
+#facs_302_r2l24 Montags den 4. x
+#facs_302_r2l25 Shillon
+#facs_302_r2l26 Villeneuve
+#facs_302_r2l27 Aubonne
+#facs_302_r2l28 Mitlechaus den 6. do
+#facs_302_r2l29 Weltsch Weynchant
+#facs_302_r2l30 Dorstagsd. 7 do
+#facs_302_r2l31 Bonmont
+#facs_302_r2l32 Vetterlingen Schultheis
+#facs_302_r3l1 Kornherr
+#facs_302_r3l2 St. Johansrechau
+#facs_302_r3l3 Brutigen
+#facs_302_r3l4 Wim̄is
+#facs_302_r3l5 Sumeßwald
+#facs_302_r3l6 Bibersten
+#facs_302_r3l7 Bauherr von Burgern
+#facs_302_r3l8 Indterlaken
+#facs_302_r3l9 Vndt ersteren
+#facs_302_r3l10 Arburg
+#facs_302_r3l11 Bostingen
+#facs_302_r3l12 Saans
+#facs_302_r3l13 zweysinnen
+#facs_302_r3l14 Trachselwald
+#facs_302_r3l15 Schenbenberg,
+#facs_302_r3l16 Romainmôtier
+#facs_302_r3l17 Morcher.
+#facs_302_r3l18 Worten.
+#facs_302_r4l1 Beytages der
+#facs_302_r4l2 Montags den 11 do
+#facs_302_r4l3 12. do.
+#facs_302_r4l4 Dienstags den
+#facs_302_r4l5 Mitbochens den 13. do
+#facs_302_r4l6 Donstags den 14. d.
+#facs_302_r4l7 Treyfags den 15. do
+#facs_302_r4l8 18. do
+#facs_302_r4l9 Mentags den
+#facs_302_r4l10 Dienstags den 19. de
+#facs_302_r4l11 Mitleens den 20. do.
+#facs_302_r4l12 21 do
+#facs_302_r4l13 dienstags den
+#facs_302_r4l14 22 do
+#facs_302_r4l15 Treytags den
+#facs_303_r2l1 Neulos
+#facs_303_r2l2 Samstags den 23. d.
+#facs_303_r2l3 Lausanne
+#facs_303_r2l4 Lentzburg
+#facs_303_r2l5 Dienstags den 26 x
+#facs_303_r2l6 Königsfelden
+#facs_303_r2l7 Aelen
+#facs_303_r2l8 Mitwochens den 27. do
+#facs_303_r2l9 Stifft allhier
+#facs_303_r2l10 An alle Amth leüth und Häußer
+#facs_303_r2l11 da getreyd ist
+#facs_303_r2l12 Ihnen vndter geläußen bedingnußen
+#facs_303_r2l13 bewilligen, das vorhandene Sommer
+#facs_303_r2l14 r
+#facs_303_r2l15 gleichs über den Vorrath aus
+#facs_303_r2l16 versilberen
+#facs_303_r2l17 Schultheiß Stäth und Burger etc.
+#facs_303_r2l18 Weilen die Bruchlings Zeith heran¬
+#facs_303_r2l19 nachet, und die Felder wider ange¬
+#facs_303_r2l20 blüchmet werden müßen, als haben
+#facs_303_r2l21 Wir auß Landtsvatterl. Vorforg
+#facs_303_r3l1 15
+#facs_303_r3l2 Zum besten Vnserer Angesorigen Gut¬
+#facs_303_r3l3 befunden, das über den Vorraht auß
+#facs_303_r3l4 sich befindtliche Sommergwechs, alß haber,
+#facs_303_r3l5 Orgeon, Jaschi, Winten, Erbs. etc. Ver¬
+#facs_303_r3l6 ilbern zu laßen; Jedenoch also, daß
+#facs_303_r3l7 solches mit alles anders, alß auff
+#facs_303_r3l8 baare Bezahlung oder sichere Rueg¬
+#facs_303_r3l9 schafft hingegeben werden solle; der
+#facs_303_r3l10 beyläufigen Meinung, daß aus
+#facs_303_r3l11 obbemeltem Vorschuß alle Ordinarii
+#facs_303_r3l12 und extraordinarii außgaben bis
+#facs_303_r3l13 auf nechst vorstehende Herbst¬
+#facs_303_r3l14 Prohnfasten abgeführt, bevorderst
+#facs_303_r3l15 der mangel der Einten Gattung
+#facs_303_r3l16 Getreydts mit dem anderen am
+#facs_303_r3l17 Vorraht ergäntzet, und dan der
+#facs_303_r3l18 Überschuß, sonderheitlichen aber der
+#facs_303_r3l19 ferndrigen Jahrs eingesamlete
+#facs_303_r3l20 schlechte haber vor allem außver¬
+#facs_303_r3l21 kauft werde. Welch unsere
+#facs_303_r3l22 Willen wir dir hierdurch zu demein
+#facs_304_r2l1 verhalt überschreiben, beynebens
+#facs_304_r2l2 dich bey deinem Eydt und Amts¬
+#facs_304_r2l3 pflicht vermahnen wollen, den
+#facs_304_r2l4 Verkauff sothane Getreydts so hoch
+#facs_304_r2l5 als Imermöglich sein wirdt.
+#facs_304_r2l6 zu treiben, und dan alles geflißen
+#facs_304_r2l7 zu verrechnen. Wie zu thun etc.
+#facs_304_r2l8 Datum den 9. february 1720

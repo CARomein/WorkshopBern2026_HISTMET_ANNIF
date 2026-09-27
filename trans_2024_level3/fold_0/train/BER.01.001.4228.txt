@@ -1,0 +1,146 @@
+Law ID: BER.01.001.4228
+Name: Wegen denen Landärzten und Schärer.
+
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 132/133
+# High similarity (>=80%): 21
+# Low similarity (<80%): 111
+# Not found: 1
+#
+#facs_128_r2l1 246.
+#facs_5_r2l1 An
+#facs_152_r3l12 Alle Teutsch, und Weltsche H. Amtleüth, Vier Städt, Frey¬
+#facs_5_r5l4 Beibel und Ammann
+#facs_156_r3l19 Wagen denen Unruhen zu Luiern,
+#facs_33_r4l9 Schultheiß und Raht etc.
+#facs_172_r2l3 Lieben und Getreuen Angehörigen von Oberhoßen, Hil¬
+#facs_104_r3l8 denen Ihnen dazu anbeisenden Waldungen. Des
+#facs_3_r1l1 Coll
+#facs_159_r5l15 nommen, damit eine solche Zeit anberaumt werde, da
+#facs_121_r2l15 Verordnung zur Wüßenschaft und Verhaltnuß der Ge¬
+#facs_111_r3l2 lands in Unseren Landen von Canzlen verlesen,
+#facs_94_r3l8 anlaßen, sich in die gefahr derjenigen Strafen
+#facs_237_r4l6 Amtsmann für jeden Bezirb bestelten, und von
+#facs_240_r4l9 Relangend aber die Steinen und Grien
+#facs_107_r4l17 von genugsamme Exemplaria zusenden wollen, mit
+#facs_231_r2l10 Wir befehlen euch dem in mitbommendem Signalemt
+#facs_36_r2l7 nach Osteren von Canzlen verlesen werde, den Hn.
+#facs_111_r3l3 und geböhnter Orten angeschlagen werden soll,
+#facs_205_r4l3 Hand abzuhalten, daß daßelbe gelehrten müsten in alle
+#facs_71_r2l3 Sie darvon abbeichen Burden, gewiesen Berdi,
+#facs_42_r2l5 dergleichen ausgelassenheiten und schänd¬
+#facs_28_r2l18 fall solche Reglement mäßig sind, die Neuen
+#facs_156_r3l2 ansehen der Biderhandlenden als der Platzgeberen die
+#facs_223_r2l3 Wäßeren durch derselben Aufehbellung und Hemmung des¬
+#facs_234_r4l16 hne fest sezen zu laßen, und uns deßen allenfahls¬
+#facs_154_r3l20 angesehen, und mit der darauf gesetzten Guß von 100
+#facs_150_r2l12 und Unsere liebe Angehörige zu verbahrnen, sich vor
+#facs_122_r5l5 zu nehmen, und dessen Uns zu berichten. Datl. d. 24ten
+#facs_187_r14l2 Marty
+#facs_14_r6l15 Mandat
+#facs_4_r2l2 Obid
+#facs_108_r2l3 Wir Schultheisz und Rath der Stadt und
+#facs_11_r2l1 Colle
+#facs_104_r5l16 Respublie Bern, thun kund hiemit: Nachdeme Uns
+#facs_27_r2l8 nach deren so wohl die fremden, als einheimischen
+#facs_114_r3l2 legen, und allfählig diejenigen Persohnen, welche
+#facs_88_r4l15 die genießene wissenschaft zu haben, und auch
+#facs_231_r6l21 Besazung ein zu berichten
+#facs_172_r2l3 Lieben und Getreuen Angehörigen von Oberhoßen, Hil¬
+#facs_242_r2l11 Schaden zu besorgen. Auf welche Frefel
+#facs_27_r2l9 Kaufleute, welche mit dergleichen Tüecheren Handler
+#facs_168_r2l15 Schmgelt Cammer Jehbeilen dieseren ertheilenden
+#facs_82_r2l6 vorgebogen worden, sondern vielmehr der¬
+#facs_7_r2l18 welche dahin handlen, deßen zu ihrem Verhalt, dem
+#facs_80_r2l13 derselben geschoßen werden können; haben Wir
+#facs_223_r1l18 sogenannte Coulisses construiran, und nachbärts solche
+#facs_153_r4l17 hüeten, hat der Eifer für das beste Unser werthen An¬
+#facs_26_r1l1 46.
+#facs_5_r2l1 An
+#facs_225_r5l15 alle Teütsch- und Weltsche H. Amtleüth, Vier Städt, freybei¬
+#facs_5_r5l4 Beibel und Ammann
+#facs_156_r3l19 Wagen denen Unruhen zu Luiern,
+#facs_33_r4l9 Schultheiß und Raht etc.
+#facs_211_r4l4 damit diejenige Unseren Lieben und Betreuen Angehörige,
+#facs_104_r3l8 denen Ihnen dazu anbeisenden Waldungen. Des
+#facs_3_r1l1 Coll
+#facs_159_r5l15 nommen, damit eine solche Zeit anberaumt werde, da
+#facs_121_r2l15 Verordnung zur Wüßenschaft und Verhaltnuß der Ge¬
+#facs_111_r3l2 lands in Unseren Landen von Canzlen verlesen,
+#facs_94_r3l8 anlaßen, sich in die gefahr derjenigen Strafen
+#facs_237_r4l6 Amtsmann für jeden Bezirb bestelten, und von
+#facs_106_r3l2 damit aber dieser Unserer Verordnung gebührenden
+#facs_107_r4l17 von genugsamme Exemplaria zusenden wollen, mit
+#facs_231_r2l10 Wir befehlen euch dem in mitbommendem Signalemt
+#facs_36_r2l7 nach Osteren von Canzlen verlesen werde, den Hn.
+#facs_111_r3l3 und geböhnter Orten angeschlagen werden soll,
+#facs_205_r4l3 Hand abzuhalten, daß daßelbe gelehrten müsten in alle
+#facs_71_r2l3 Sie darvon abbeichen Burden, gewiesen Berdi,
+#facs_115_r3l16 auch vier Argeübische Städt, und Schwarzenburg.
+#facs_28_r2l18 fall solche Reglement mäßig sind, die Neuen
+#facs_25_r1l1 44.
+#facs_39_r3l6 besuchen, und ohne besondere Noth, deren sich
+#facs_223_r2l3 Wäßeren durch derselben Aufehbellung und Hemmung des¬
+#facs_234_r4l16 hne fest sezen zu laßen, und uns deßen allenfahls¬
+#facs_140_r2l3 und auf grünsliches Erfahren, selbige in der Stadt und deßen
+#facs_150_r2l12 und Unsere liebe Angehörige zu verbahrnen, sich vor
+# NOT FOUND: heylend und Arzneygebens bestens zu müssigen. Dat. d. 123.
+#facs_187_r14l2 Marty
+#facs_14_r6l15 Mandat
+#facs_4_r2l2 Obid
+#facs_108_r2l3 Wir Schultheisz und Rath der Stadt und
+#facs_3_r1l1 Coll
+#facs_104_r5l16 Respublie Bern, thun kund hiemit: Nachdeme Uns
+#facs_27_r2l8 nach deren so wohl die fremden, als einheimischen
+#facs_114_r3l2 legen, und allfählig diejenigen Persohnen, welche
+#facs_169_r2l13 darzu die erforderlichen patenten zu ertheilen, von
+#facs_231_r6l21 Besazung ein zu berichten
+#facs_172_r2l3 Lieben und Getreuen Angehörigen von Oberhoßen, Hil¬
+#facs_79_r4l14 und Unseren Willen zu befolgen, auch die
+#facs_229_r4l11 Erbantnuß der Mahlerey kunst, auf welche er sich viel
+#facs_168_r2l15 Schmgelt Cammer Jehbeilen dieseren ertheilenden
+#facs_82_r2l6 vorgebogen worden, sondern vielmehr der¬
+#facs_7_r2l18 welche dahin handlen, deßen zu ihrem Verhalt, dem
+#facs_249_r4l20 entdekt werden können.
+#facs_223_r1l18 sogenannte Coulisses construiran, und nachbärts solche
+#facs_208_r3l4 die gemeine Sicherheit beschirmt, und Unsere Berthe¬
+#facs_22_r6l22 i
+#facs_37_r3l16 Getreuen Angehörigen in Unseren Stätter
+#facs_194_r4l2 mit hinreichend seyn könten; Haben Wir aus Lander¬
+#facs_180_r3l23 hiemit geordnet, daß gleichbie in verschiedenen
+#facs_153_r2l19 anderen Geschäften sich außer Lands begeben, sollen Ihrer
+#facs_41_r2l8 seren Landen vorgehen können, sonderen
+#facs_133_r2l2 Arzneyen weder zu verschreiben noch zu geben, sondern
+#facs_8_r3l6 Vermehrung unser Verordnung vom 11t. May dis Jahrs,
+#facs_88_r4l15 die genießene wissenschaft zu haben, und auch
+#facs_52_r4l14 Landstraß begangen worden; deß nachen diese
+#facs_231_r6l9 weiland Ehrwürdigen und gelehrten, Unsers lieben
+#facs_154_r3l17 Wurde aber Jemand die Übertrectung so weit treiben,
+#facs_4_r2l5 haben Meghl. zu vernemmen gehabt, die hergangenheit der
+#facs_159_r3l11 erwekt, und mithin der Tag des Herren entheiliget
+#facs_244_r2l18 Werb zu verrichten; soll eine solche Person
+#facs_25_r2l20 Unseren Amtleüten zu kommenden Genoß, an den
+#facs_102_r2l11 verführt, Wir aber deßen berichtet werden. Die
+#facs_110_r3l7 Kornhaus, desgleichen unter den Porten, in den
+#facs_59_r3l9 die Wir aber, nach Bekantnuß der umstän¬
+#facs_106_r3l22 angesehen, und mit der nemlichen Straf beleg¬
+#facs_70_r4l6 sollen Unsere Amtleuth bey denen in Ihren Äm¬
+#facs_210_r2l13 haben, hierinnen ein Hochobbrigkeitlich ernstlicher Einsehen zu
+#facs_55_r3l9 die übertrectere dieser Verordnung dann
+#facs_30_r3l19 Tücher ohne Schönen Confisciert, ihnen aber der Regress
+#facs_204_r3l13 Der eint oder andere in Unseren Landen sich sehen
+#facs_253_r4l4 ten Hut zu tragen, welchen er ins gemein vornen har,
+#facs_245_r2l5 jeden zu beziehen, der bey ihme Bekanten
+#facs_176_r4l12 Überschhemmungen an verschiedenen Orthen in dem
+#facs_90_r5l5 solchen bekannt machen wird, eine Recompenz
+#facs_180_r3l14 eingesucht worden, daß 54. Haushaltungen mittel
+#facs_166_r3l2 (gleich anderen Unseren Amtleüthen) befehlen wolle
+#facs_22_r3l9 machen
+#facs_34_r1l5 dieses zu Jedermans wüßenschafft und Verhalt
+#facs_131_r3l1 öffentl. wörtlich von Canzlen verlesen, und daß ohne Be¬
+#facs_81_r4l2 angeschlagen werde, damit jenige Unserer
+#facs_8_r3l9 lung den 2ten Septembris 1762.

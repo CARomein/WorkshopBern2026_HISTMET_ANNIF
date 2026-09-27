@@ -1,0 +1,36 @@
+Law ID: BER.01.001.1022
+Name: Kein Salz uss dem Landt zelassen.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_484
+# Matched: 24/24
+# High similarity (>=80%): 24
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_138_region_1711367406246_235line_1711367547558_359 Annetliche H. und W. Ambtl
+#facs_138_region_1711367406246_235line_1711367553346_369 deren 30.
+#facs_138_region_1711367406246_235line_1711367556228_374 Kein Salen vß dem Landt Jelaß
+#facs_138_region_1711367406246_235line_1711367559597_379 Schuldtheiß vnnd Rast. Die weil durch das Inn¬
+#facs_138_region_1711367406246_235line_1711367563445_384 der Graffschafft Jürgund noch werende Ederbliche Kriegswesen
+#facs_138_region_1711367406246_235line_1711367568254_389 der Salzgandel dergstalt Im Abgang vnd Stillstand gerahte
+#facs_138_region_1711367406246_235line_1711367572694_394 daß schwerlich müglich die Vnseren zu Statt und Landt geschwigen
+#facs_16_r1l1 Collatum
+#facs_138_region_1711367406246_235line_1711367576692_399 noch darzu Vessere vnd frömbde darmit zeuersachen, Wie aber
+#facs_138_region_1711367406246_235line_1711367673506_476 Inemand, das dieselben ein Zeit dehre, so wohl durch sich selbst
+#facs_138_region_1711367406246_235line_1711367678831_481 als darzu Im Land bestelte Licht, bey den bestelten Vßmesseren
+#facs_138_region_1711367406246_235line_1711367648984_469 das Salz vff kaufft, Und vnß dem Land am andere ort gefertiget.
+#facs_138_region_1711367406246_235line_1711367644437_464 und dann bey gegenwürtigen Leüssen wohl zubesorgen, solches
+#facs_138_region_1711367406246_235line_1711367640281_459 Te lenger gemehr zunemen, Wo demselben mit gebürender
+#facs_138_region_1711367406246_235line_1711367635826_454 massen abgewehrt wurde: Alls sind wir vß Oberbeitl.
+#facs_138_region_1711367406246_235line_1711367632576_449 Fürsorg bewegt worden, die hiemit zubeurlehren, ein ernst.
+#facs_138_region_1711367406246_235line_1711367628805_444 fleissig vffsehen hierin zuhalten, vnnd die vßmessen Vndt
+#facs_138_region_1711367406246_235line_1711367623540_439 verkauffer, so bey Jezigen Zeit vssern vnd frömbden, die mit
+#facs_138_region_1711367406246_235line_1711367618288_434 Vnsere angehörigen sind, Salz verkauffen wurden Im gebürende
+#facs_138_region_1711367406246_235line_1711367613760_429 Straff zuziehen, Dergleichen Keüffer vnd Vnssere Salz.
+#facs_138_region_1711367406246_235line_1711367609854_424 hendber aber, so das salz hinwegfertigen, mit Confiscation
+#facs_138_region_1711367406246_235line_1711367604725_419 desselben abgehalten. Damit durch solch mittel Bueren
+#facs_138_region_1711367406246_235line_1711367599892_414 lam Vnd Mangel Vorbomen werde. Dat. p. 11. July
+#facs_43_r2l5 1637

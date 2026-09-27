@@ -1,0 +1,98 @@
+Law nr: BER.01.001.0040
+Name: Abscheid gehaltner Tagleystung halb zu Nuwemburg durch der vier Stett Bern, Fryburg, Solothurn unnd Biel anwaltenn von des Fürkouffs wägen des Khorns, uff St. Laurentzentag Anno 1529.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_479
+# Matched: 87/87
+# High similarity (>=50%): 85
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_110_r1l1 Abstheid gehaltner tagleystung
+#facs_110_r1l2 halb zu Minnenburg durch de vier
+#facs_110_r1l3 Stett, Dern, Fryburg, Solothurn
+#facs_110_r1l4 unnd Dicl. anwaltenn von des
+#facs_110_r1l5 furkhouffe wagen des khorne
+#facs_110_r1l6 vff S. Laurentzen tag anno
+#facs_110_r1l7 xcl. xxix
+#facs_110_r1l8 in the
+#facs_110_r1l9 Als dann min gnädig herrnn von Veru, Fryburg,
+#facs_110_r1l10 Solothum vnnd viel angesaichenn habemnt
+#facs_110_r1l11 Ein Ratschlag zethund, wie man den finkouff
+#facs_110_r1l12 des khorus abstellenn khunnfftige thuriumus
+#facs_110_r1l13 zeuermijdenn, vnnd vorhesindn Ouch zeuersächenn
+#facs_110_r1l14 Damit sollichs Khorn nit, wie uor zu mecmaln
+#facs_110_r1l15 beschachtenn, vss. Irenn lannden gefuert, da durch
+#facs_110_r1l16 ttlich arm lut zu verderblichem schadenn kom
+#facs_110_r1l17 menu Darume ouch Ein tag Jno. Nuwennburch
+#facs_110_r1l18 angesachtenn, Da weyft Ein Jeder bott zesa
+#facs_110_r1l19 yenn, Das die verorduettenn Samudbotten der
+#facs_110_r1l20 genantenn vier stett zusamenn sinnd thomenn
+#facs_110_r1l21 daselbe zu Ninvennburg, vnnd sich mit einann¬
+#facs_110_r1l22 Decum der sachhalb vnnderret, vnnd ver-kin
+#facs_110_r1l23 baret Ein ordnung zemachtun, wie hernach
+#facs_110_r1l24 volget damit solliche furthöuff abhestrelet wer¬
+#facs_110_r1l25 den, vnnd das korn Im land behalten Doch vff
+#facs_110_r1l26 gefallen Jedes herrn vnnd Oberm¬
+#facs_110_r2l1 182
+#facs_110_r2l2 Westlich, Das In allum Chillsparellenn vf gecufft
+#facs_110_r2l3 Vber wardenn zu Hanndenn Ir herrnn vnnd Obern
+#facs_110_r2l4 das deeiner man oder Frouw, wes stets vnnd wäsens
+#facs_110_r2l5 etc sije, In den genantenn vier stettenn laundenn
+#facs_110_r2l6 vnnd gepiettenn dhein korn solle schouffenn verthou¬
+#facs_110_r2l7 ffenn noch verthuschenn, aunders dann In die stett,
+#facs_110_r2l8 vnnd vff die fryenn mercktenn, wo die bißhar gehalten
+#facs_110_r2l9 Unne gebrucht sinne, vnnd das sollich schörff niet
+#facs_110_r2l10 vff furckduff, vnnd In frömede lanne zefuren, bestga¬
+#facs_110_r2l11 chentn dann wo sollich furkouffer betrattenn wur¬
+#facs_110_r2l12 dentz So soe Ir trithoufft schorn der herrschafft
+#facs_110_r2l13 da Sy betrattenn wardennt, verwurckt vnnd verfal¬
+#facs_110_r2l14 lenn sin, Darzu den gethatter, der sollich thorn ver¬
+#facs_110_r2l15 khoufft von sinenn herrn vnnd Obern gestrafft
+#facs_110_r2l16 vmb souil, als das khorn, so Er verthoufft wert
+#facs_110_r2l17 Ist, zebußi
+#facs_110_r2l18 vnnd ob khorn nachts oder tags ver¬
+#facs_110_r2l19 shleycht wurde, vnnd vs dem lanne gefurt Söllent
+#facs_110_r2l20 alleann die Khöuffer vnnd verthouffer, vnd die
+#facs_110_r2l21 sollichs thun wurdeunt, an Irenn Eybenn vnnd
+#facs_110_r2l22 güttern gestrafft wordenn.
+#facs_110_r2l23 Vnnd so Ettlich greinppler vnnd furckhöuffer allen¬
+#facs_110_r2l24 halbenn vff dem laund zu farenn von vunsern lant¬
+#facs_110_r2l25 luttenn thorn zethouffenn an anndre ort vff
+#facs_110_r2l26 gewin vnnd Furkhouff zu furenn, unnd vff¬
+#facs_110_r2l27 thlap zemachenn, Ist vorckhomen, Das soö
+#facs_110_r2l28 lichs hinfur abgestellt solle woirdenn, vnnd die
+#facs_111_r1l1 so sollichs mer bruchenn vmb Ir verkaufft
+#facs_111_r1l2 thorn verfallenn sin, wie obstat, damit die
+#facs_111_r1l3 lanntlut selber zu merckt furennt, vnnd fin
+#facs_111_r1l4 ymein man zimlichenn mogen gehalten werden.
+#facs_111_r1l5 Es ware dann das Ettlich pfister In die Stet
+#facs_111_r1l6 Tend sunst selber darumb Cuxenn Wölltennt
+#facs_111_r1l7 vnnd dasselbig thoou bachenn, vnnd verkon
+#facs_111_r1l8 ffenn wollten an alle genären,
+#facs_111_r1l9 Ist ouch den ymernen graffsthafft luttenn,
+#facs_111_r1l10 von Nuwenburg, so byeinanndern versampnet
+#facs_111_r1l11 gewäsenn, trunnigelich anzoit, vnnd fupge¬
+#facs_111_r1l12 haletenn Das hy plycher gestalt zu sollichen
+#facs_111_r1l13 fuckhouffern lugennt vnnd achtrent, dann
+#facs_111_r1l14 wo hy In den genantenn vier stettenn, landen
+#facs_111_r1l15 Leund gepiettenn, khoon khouffenn wurdenn
+#facs_111_r1l16 Annders dann zu Irem bruch vnnd notturfft
+#facs_111_r1l17 vnnd sollich thorn vsserthals Ire launde füren
+#facs_111_r1l18 Aldann s'ele vnnd wölle man Inen fuwer¬
+#facs_111_r1l19 thin all merckt verbottenn habenn, Darnach
+#facs_111_r1l20 sollenn Sy sich wussenn zerichtenn.
+#facs_111_r1l21 Darzu zu merer sicherheit Ist abgeret, das die
+#facs_111_r1l22 gedacht graffsthafftlut, vnnd annder vnns zu
+#facs_111_r1l23 gewanntenn, die vff vnnser merckten komnen
+#facs_111_r1l24 tin wortheichenn bringenn so'llentz von Joenn
+#facs_111_r1l25 werkheittenn, das Sy söbliche schoon zu Iren not
+#facs_111_r2l1 187
+#facs_111_r2l2 turfft Im lanne bruckten, vnnd anneert mit
+#facs_111_r2l3 Zu letst, lassenn wir zu, was thoon vssethals der
+#facs_111_r2l4 feydenosthafft Erckhoufft wirt, das die so
+#facs_111_r2l5 sollichs Erctgoufft, durchzug habenn mogent
+#facs_111_r2l6 In vnnsern lanndenn an alles hinndern Doch
+#facs_111_r2l7 mit abtrag der Zöllnenn vnnd annder gerächtig¬
+#facs_111_r2l8 keitenn der herrschafftenn

@@ -1,0 +1,39 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 31/32
+# High similarity (>=80%): 31
+# Low similarity (<80%): 0
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4833
+#facs_312_r2l1 Das Tragen der Französischen Ordens
+#facs_312_r2l2 Zeichen de St. Louis fin du merite
+#facs_312_r2l3 militaire in Möghl. Landen verbotten.
+#facs_45_r3l3 An
+#facs_312_r2l5 alle deutsch und welschen Herren Amtleut
+#facs_312_r2l6 und vier argauesche Städt
+#facs_77_r2l12 Schultheis Räth und Burger
+#facs_312_r2l8 Mir haben gutbefunden so wohl den
+#facs_312_r2l9 Einheimischen, als auch allen im Land
+#facs_312_r2l10 sich aufhaltenden und durchpassierenden
+#facs_312_r2l11 fremden, ohne Unterschen, das tragen
+#facs_312_r2l12 der französischen Ordenszeichen de
+#facs_312_r2l13 St. Louis uno du merite militaire in
+#facs_312_r2l14 Unsern Landen zu verbieten.
+#facs_312_r2l15 Wir tragen Euch daher auf, dieses
+#facs_312_r2l16 Verbodt den Persohnen in Eüerem
+#facs_312_r2l17 Amt / an die 4. Städt:/ in Euerem Stadt¬
+#facs_312_r2l18 bezirk) so es betreffen mag bekant
+#facs_312_r2l19 zu machen, auch darauf zu achten das
+#facs_312_r2l20 demselben nicht zuwieder gehand let
+#facs_312_r2l21 berde, um die hier mitkommende Publi¬
+#facs_312_r2l22 bation in beyden Sprachen
+#facs_312_r2l23 in den Wehrtshäusern die an den
+#facs_312_r2l24 hauptstraßen liegen.
+#facs_312_r2l25 in den Währtshäuseren in Enerem
+#facs_312_r2l26 Stadtbezirle.
+#facs_312_r3l1 611.
+#facs_312_r3l2 zu Jedermans Wissenschaft und Verhalt
+#facs_312_r3l3 anschlagen zu laßen. Datum den
+#facs_312_r3l4 29 Novembris 1797.
+#facs_98_r5l28 en

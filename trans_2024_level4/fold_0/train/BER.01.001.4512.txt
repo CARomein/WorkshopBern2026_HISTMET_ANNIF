@@ -1,0 +1,37 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_507
+# Matched: 30/30
+# High similarity (>=80%): 26
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_300_r4l24 Lausanne 102
+#facs_277_r3l15 Wegen den auf die Brenzen abstendenden
+#facs_94_r1l1 182.
+#facs_75_r4l4 Un
+#facs_277_r3l12 alle Herren Amtleut weltschen Lands,
+#facs_277_r3l13 Deeland, wie auch der ämteren Wangen
+#facs_277_r3l14 und Aarhangen, Sepp:
+#facs_277_r3l15 Wegen den auf die Brenzen abstendenden
+#facs_277_r3l16 Truppen, den Haber nicht zu verkauffen,
+#facs_277_r3l17 Schultheis Räth und Burger etc. Die von
+#facs_277_r3l18 Uns genomene Resolution, wegen denen
+#facs_277_r3l19 gegenwärtig zu Benf vorwaltenden Umständig
+#facs_277_r3l20 einiche Truppen auf die Bränzen abzu¬
+#facs_277_r3l21 senden, veranlaßet uns, den unterm 15.
+#facs_277_r3l22 Merz lezthin ertheilten Gefelch, zu
+#facs_277_r3l23 Verkauf des Obrigkeitlichen Betreids
+#facs_277_r3l24 in Absicht auf den noch vorhandenen
+#facs_165_r3l1 oll.
+#facs_277_r5l1 Haber allein, anmit einzustellen; ihr
+#facs_277_r5l2 werdet demenach von ermeltem Haber
+#facs_277_r5l3 ohne Unsern Specialen Befelch, nichts
+#facs_277_r5l5 weiters verkaufen, und Unserer
+#facs_55_r3l1 den
+#facs_277_r5l7 welchen) Venerlammer fördersamst ein
+#facs_277_r5l8 berichten, wie viel von dem vormahls
+#facs_277_r5l9 zu verkaufen anbefohlenen Obrig¬
+#facs_277_r5l10 keitlichen Haber noch vorhanden seye.
+#facs_277_r5l11 Wie zu thun Ihr bestens wissen werdet
+#facs_277_r5l12 Datl. den 15den May 1782.
+#facs_178_r8l1 en

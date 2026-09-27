@@ -1,0 +1,37 @@
+Law ID: BER.01.001.1054
+Name: Dess Hrn. Herzogen von Rohan durchfertigenden Lychnam zubegleiten.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_484
+# Matched: 26/26
+# High similarity (>=80%): 26
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_171_r3l1 Mürten, Wiblispurg, Patterlingen (ons.)
+#facs_171_r3l2 et Oecon. Coniunctim, Milden, Lausanna Wioisex
+#facs_171_r3l3 Newis, deß Hrn. Hertzogen von Kohan durchfertigen.
+#facs_171_r3l4 den Lychnam zu begleiten
+#facs_171_r3l5 Schuldtheib Vndt Raht, v. Oleych wie deß Hrn. Herwoyen von
+#facs_171_r3l6 Rohan, Erb. End. Lobseliger gedechtnus, bey der Lebzeiten
+#facs_171_r3l7 erzeygten gutten officien, Vndt würde wegen, by vns
+#facs_171_r3l8 im Gocher astimaon gewesen, Also mochtend wir nach dero
+#facs_171_r3l9 selbigen tödtlichem ablyben, mit vmbgahn, dero Balsamerte
+#facs_171_r3l10 nacher Franckrijch durch Vnser Hauptstatt, Vndt Landtschafft
+#facs_171_r3l11 fuhrenden Legehnam auch noch die letste Ehr zebewyfen: Do¬
+#facs_171_r3l12 wegen wir dich hiemit angesinnen wollen, gedachten Frl.
+#facs_171_r3l13 welcher vff hatt durch die hinderlaßenen
+#facs_171_r3l14 Leychmann
+#facs_171_r3l15 hofflicht alhie angebracht, vndt morgens wyters Ver¬
+#facs_171_r3l16 soll, by anfang deiner Amptsverwaltun¬
+#facs_171_r3l17 führt werden
+#facs_171_r3l18 mit etlichen persohnen, dinem guttbefinden Vndt gebührender
+#facs_171_r3l19 4 ohne Vnsere Verköstigung, besellet
+#facs_171_r3l20 so zu vßgang derselbigen Inbegleiten
+#facs_171_r3l21 anstendigk
+#facs_171_r3l22 In dich zegalten
+#facs_171_r3l23 Germpf
+#facs_171_r3l24 Verseche
+#facs_171_r3l25 Wie wir
+#facs_171_r3l26 Datum. 11. May 1638.

@@ -1,0 +1,33 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 25/26
+# High similarity (>=80%): 24
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4431
+#facs_155_r3l3 Daß zu denen unter das Oberamtliche Sigel vom
+#facs_337_r4l1 Colle.
+#facs_155_r2l1 300.
+#facs_85_r9l2 d
+#facs_155_r3l2 Alle Weltsche Herren Amtleut
+#facs_155_r3l3 Daß zu denen unter das Oberamtliche Sigel vom
+#facs_155_r3l4 mende Schrifften, mann sich der Oblacten bedienen sols
+#facs_3_region_1628102473141_41l_3 Schultheiß und Rahts
+#facs_155_r3l6 Wann Wir zu verschiedenen mahlen wahrnemmen
+#facs_155_r3l7 müßen, daß eint und anderer Orten Weltschen
+#facs_155_r3l8 Lands, die Gewohnheit eingerißen, daß auf Schrifften
+#facs_155_r3l9 so unter das Oberamtliche Sigel kommen, als Mandat
+#facs_155_r3l10 Attestationen, Supplicationen und dergleichen, das
+#facs_155_r3l11 Sigel anstatt mit Oblaten gepreßt zu seyn, ledige
+#facs_155_r3l12 Dingen auf das Papeir getrübt wird, solches dem
+#facs_155_r3l13 leicht verbleichen, und zu Irrung und Streittigkeiten
+#facs_155_r3l14 Anlaß geben kan; So tragen Wir Euch /: gleich gege¬
+#facs_155_r3l15 übrige Unsere Sveltsche Amtleut beschicht) anmit
+#facs_155_r3l16 befelchlichen auf, in Zukunfft bey Besiglung dergleichen
+#facs_155_r3l17 Schrifften, Euch der Oblacten zu bedienen, und selbige
+#facs_155_r3l18 Wohl auf zu truben, ein gleiches dann auch denen
+#facs_155_r3l19 Castlahnen Eners Amts zu künftiger Beobachtung
+#facs_155_r3l20 Befelchlich injungieren, und dieses seines Orts in
+#facs_155_r3l21 den Schloßbücheren Nachrichtlich einschreiben zu laßen,
+#facs_155_r3l22 Dath den 6t Decembl. 1774.

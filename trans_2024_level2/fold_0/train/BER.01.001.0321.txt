@@ -1,0 +1,71 @@
+Law nr: BER.01.001.0321
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_480
+# Matched: 60/60
+# High similarity (>=80%): 59
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_337_r3l1 Ordnung vnd Insechung der brunnen
+#facs_115_r3l2 halb
+#facs_57_r3l1 61
+#facs_337_r3l5 Allschdann mijn gnädig herren, Nun ein gutte zijtt dahar
+#facs_337_r3l6 mit sonderem mißfallenn, gehachenn vnd geburt was grosser
+#facs_337_r3l7 mijs ordnung, der bruunen halb allhie In der Stadt Ingerisen
+#facs_337_r3l8 In dem das Jeder mengelich, eigens gfallens, Vnangestehen
+#facs_337_r3l9 allter gemachter ordnung, nach synem Fryenn guttbeduncken
+#facs_337_r3l10 das Wasser In den bruunenträgen; mitt aller handt Vnsuberkeijt
+#facs_337_r3l11 Wästheim vnd Wösthenn, Inmassen vnnreinigett, das balldt
+#facs_337_r3l12 niemandt wieder ros noch vijch ohne Sondere besorgnus daruss
+#facs_337_r3l13 erwachsenden schadens, trincken mag. Habenndt mijn gnädig
+#facs_337_r3l14 Cöllichenn Vonn tag zu tag, zunemmenden mißbruchs zu weren
+#facs_337_r3l15 Vnnd denselben genutzlich abzustellen, die hoche noturfft sijn
+#facs_337_r3l16 eracht, vnnd deßwegen ein sadte beratsthatte ordnung, Wi¬
+#facs_337_r3l17 ich Jederman nun fürhin diß orths verhalltenn solle, stellenn
+#facs_337_r3l18 und dieselbig, noturfftiger nachrichtung wegenn, Wollennt
+#facs_337_r3l19 Wir vollgendts erlutteren, vnnd publicieren lassenn.
+#facs_337_r3l20 Namlich für das erst Wann ein erliche frauw etwas hußgeschäffte
+#facs_337_r3l21 und gewandts zu wästhenn hätt, das dieselbe zimlich vnnd
+#facs_337_r3l23 Inn aller bitteidenheytt, Wasser ab den bruurören, mitt käule
+#facs_337_r3l24 In die büttinen vff das gewandt leyttenn, vnnd kein wassen
+#facs_337_r3l25 Vff denn trögenn sthopffenn, noch nemen, auch die brunnen mitt
+#facs_337_r3l26 büttinen, nitt vmbstellen sollendt, damitt Post vnnd vijch
+#facs_337_r3l27 zu Jeder zijtt, möge vngehindert trenckt werdenn. Dann
+#facs_337_r3l29 Zur sollichem nitt geläben, sonders Wasser Vß den trögen schörffen
+#facs_337_r3l31 und den brunnen mitt buttmen vmbstellen wurde, derselbigen
+#facs_337_r3l32 Ein guldi zu vnablässiger buß entrichten soll.
+#facs_337_r3l33 Dannothin soll auch niemandts keinn Züber mellehteren oder
+#facs_337_r3l34 andere gsthir, Inn denn Vermelltenn brunnen trögen schwencken
+#facs_337_r3l35 Vnnd Vollgenndts das Wasser wider daryn schuttenn oder Wieder
+#facs_337_r3l36 Fleischkrutt, Windlen noch ander derglijchen Vnreinen zuge¬
+#facs_337_r3l37 harin Wästheim, by vffgesatzter dry schillingen busch, von
+#facs_337_r3l38 den Vberträtter, onfällbarlicher zubezüchen sonders wellcher
+#facs_337_r3l39 Brunwasser haben will oder dessen mangellbar Ist, dasselbigen ab¬
+#facs_337_r3l40 den rore In subere gsthir empfachen, oder mitt dem gützen
+#facs_337_r3l41 Vff den t worden schöpffen vnd nebet dem selben vns Iren eignen
+#facs_337_r3l42 und hiemitt widerumb zu
+#facs_337_r3l44 igsthiren gebruchen solle
+#facs_337_r3l45 Vffsächeren geordnett zu Jedem brunnen einen sampt der
+#facs_337_r3l46 Dennen Weybell In dessin Vurteill der Brunne Ist dem selbst
+#facs_337_r3l47 flijssig yngebunden Vnd beuollchen vff sollche sachen embsigetich
+#facs_337_r3l48 zuachten vnnd warzunemmen. Die Vbertratter diß ansehen
+#facs_337_r3l49 ohne alles vsthonen zu pfenden, vnnd von Jeder gepfandter
+#facs_337_r3l50 person, die vffgesetzte vnnd besthullte bus flijsig zubezuchen,
+#facs_337_r3l51 Wöllche Vffsacher die minderbusch, gar, an der mheren
+#facs_57_r3l1 61
+#facs_338_r2l1 aber denn halben theill haben vnd den anderen hulten theill
+#facs_338_r2l2 zu Iren gnaden handen, Vberantworten sollent: Ob
+#facs_338_r2l3 aber Jemandts sich vngehorsam erzeigenn, Vnnd mitt gwullt
+#facs_338_r2l4 Inen Widersetzenn wurde, Sollendt die vordneten dieselbigen
+#facs_338_r2l5 viderhoeiigen, einem herren Schulltheyssen oder synem Statt hi¬
+#facs_338_r2l6 Der dan Inen hierin noturfftigen bestaundt leysten vnnd
+#facs_338_r2l7 das der ordnung flyssig nachkommen werde, vsthaffen soll
+#facs_338_r2l8 fürbringen oder ob es vonnotten einem ersamen Rhatt
+#facs_338_r2l10 anzeigen vnd vorleiden, Vff das dieselben Wyter nach
+#facs_338_r2l11 Irem verderne, vnnd gestallt der sachen gestrafft werden,
+#facs_338_r2l12 Deß Soll mengelich hiemitt ernstlich gewarnett sijn, Sich
+#facs_338_r2l13 by Vmydung gemellter vffgesetzter busß gebuerlich zuuerho¬
+#facs_338_r2l14 Actum den 11 Julij 1599

@@ -1,0 +1,57 @@
+Law ID: BER.01.001.4680
+Name: Verfügung wegen dem überflüssigen Getreid.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_510
+# Matched: 46/46
+# High similarity (>=50%): 44
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_213_r2l1 d'En
+#facs_213_r2l2 Alle deutsche und Welsche Herren
+#facs_213_r2l3 Amtleut und Schaffnern, da
+#facs_213_r2l4 Obrigkeitlich Getreid ligt.
+#facs_213_r2l5 Verfügung wegen dem überflüßigen
+#facs_213_r2l6 Getreid.
+#facs_213_r2l7 Schultheis Räth und Bürger
+#facs_213_r2l8 Auf angehörten Vortrag Unsren
+#facs_213_r2l9 fürgeliebten Miträthen der Herrn
+#facs_213_r2l10 Deütsch’s Sebelmeister und Venneren
+#facs_213_r2l11 Walsch¬
+#facs_213_r2l12 und Unserer verordneten Kornkammer
+#facs_213_r2l13 über das nach Abzug des Vorraths,
+#facs_213_r2l14 wie auch der ordinari und quasi
+#facs_213_r2l15 ordinari Ausgaben, zum Verkauf
+#facs_213_r2l16 übrig bleibende Getreid, haben
+#facs_213_r2l17 Wir zu erkennen gut befunden,
+#facs_213_r2l18 /: deutsche Aemter. /
+#facs_213_r2l19 daß von nun an aller vorschief
+#facs_213_r2l20 sende Kernen und Roggen, abge¬
+#facs_213_r2l21 stößen werde. Desgleichen
+#facs_213_r2l22 die Hälfte der Winterfrüchte
+#facs_213_r2l23 als diebel, Waizen und Mischal¬
+#facs_213_r2l24 korn, auch allenfalls die Hälfte
+#facs_213_r2l25 = der
+#facs_213_r3l1 719
+#facs_213_r3l2 der samtlichen Sommerfrüchte zu
+#facs_213_r3l3 Anbluhmung der Feldern. In
+#facs_213_r3l4 dem Verstand jedoch, daß dieser
+#facs_213_r3l5 Verkauf unter denen üblichen Cautelen
+#facs_213_r3l6 in lauffendem Preis und zu kleinen
+#facs_213_r3l7 Käuffen geschehe, und von nun an
+#facs_213_r3l8 bis 1ten May nächstkünftig gleich
+#facs_213_r3l9 eingetheilt werde.
+#facs_213_r3l10 :/
+#facs_213_r3l11 (Welsche Aemter
+#facs_213_r3l12 daß von nun an die erste Hälfte
+#facs_213_r3l13 der überschießenden Sommer und
+#facs_213_r3l14 Winterfrüchten zu kleinen Kaufen
+#facs_213_r3l15 unter denen gewohnten Cautelen
+#facs_213_r3l16 versilbert werde
+#facs_213_r3l17 /: an alle Herren Amtleut :/
+#facs_213_r3l18 Welchemnach Ihr Euch verhalten
+#facs_213_r3l19 und über das erlöstende seiner
+#facs_213_r3l20 Zeit Rechnung tragen werdet
+#facs_213_r3l21 Datum d. 11ten März 1795.

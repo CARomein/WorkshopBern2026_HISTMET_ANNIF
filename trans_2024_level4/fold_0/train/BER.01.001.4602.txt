@@ -1,0 +1,185 @@
+Law nr: BER.01.001.4602
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 174/174
+# High similarity (>=80%): 169
+# Low similarity (<80%): 5
+# Not found: 0
+#
+#facs_36_r2l1 64
+#facs_329_r3l2 getreue liebe Eidgnoßen Mitburger
+#facs_329_r3l3 und Brüdern lobl. Stand Solothurn
+#facs_329_r3l4 sich haben gefallen laßen, an dero
+#facs_329_r3l5 Mandat vom 8ten Hornung lezthin
+#facs_329_r3l6 anzubefehlen, die in ihren Landen
+#facs_329_r3l7 ron ausbärtigen anerkaufte vieh
+#facs_329_r3l8 Waar ohne Ausnahm, auf der
+#facs_329_r3l9 Stell an die Hand zu nemen, auch
+#facs_329_r3l10 hieines in derselben Soctmäßig¬
+#facs_329_r3l11 keit an das Futer zu stellen
+#facs_329_r3l12 Als haben wir für gut befunden
+#facs_329_r3l13 Euch diese Verstärkung und ab¬
+#facs_329_r3l14 Benhung von Unserm Mandat
+#facs_329_r3l15 und zu thun, damit gegen des
+#facs_329_r3l16 lobl. Stand Solothurn Unterthane
+#facs_329_r3l17 das gegenrecht beobachtet werde.
+#facs_329_r3l18 Dat. den 9ten Marty 1787.
+#facs_83_r3l6 en
+#facs_23_region_1633454616028_2913l1 An
+#facs_329_r3l20 alle Herren Amtleut belschen Lands.
+#facs_329_r3l21 Ihnen die neue Müller Ordnung
+#facs_354_r2l9 zusenden.
+#facs_329_r3l23 Schultheis und Rath etc. zum Resten
+#facs_329_r3l24 Unserer Angehörigen belscher Land,
+#facs_68_r8l46 64 4
+#facs_330_r2l1 haben wir nohmbendig erachtet
+#facs_330_r2l2 eine Müller Dromung heraus¬
+#facs_330_r2l3 zugeben; davon Wir Euch ge¬
+#facs_327_r5l3 ungsame Exemplaria wegen
+#facs_330_r2l5 mit dem Auftrag solche zu
+#facs_330_r2l6 jedermäniglich Nachricht offentlich,
+#facs_330_r2l7 von Canzlen verlesten, und an
+#facs_330_r2l8 denen gebohnten Orten anschlag
+#facs_330_r2l9 zu laßen, auch Hand obzuhalten,
+#facs_330_r2l10 das derselben in allen ihren
+#facs_330_r2l11 theillen nachgelebt werde.
+#facs_330_r2l12 Wie zu thun, und gegenbärtige
+#facs_330_r2l13 Verordnung in den Schloßbücher
+#facs_330_r2l14 zu Eüerem auch Eüerer Nachfahren
+#facs_330_r2l15 verhalt einschreiben zu laßen
+#facs_281_r3l22 Ihr bestens wißen werdet.
+#facs_330_r2l17 bey es den Verstand und die
+#facs_330_r2l18 Meynung hat, daß diejenige
+#facs_330_r2l19 Städt und Ort welschen Lands¬
+#facs_330_r2l20 etbann besondere Rechte haben
+#facs_330_r2l21 mochten, und solches durch förmlichen
+#facs_330_r2l22 Titel erbeislich machen könten, dabey
+#facs_330_r2l23 geschizt und geschirmt seyn und blei¬
+#facs_330_r2l24 sollen, dat. den 26ten März 1787
+#facs_4_r8l9 a
+#facs_36_r2l1 64
+#facs_164_r3l11 Reglement
+#facs_330_r3l3 pour
+#facs_330_r3l4 les Meuniers
+#facs_136_r2l28 die
+#facs_330_r3l6 Pays-de-Vaud.
+#facs_146_r4l24 Nous l'Advoyer et Conseil
+#facs_330_r3l8 de la Ville & République de
+#facs_330_r3l9 Berne, sçavoir faisons:  Quétant
+#facs_330_r3l10 informés & ayant reçus des plaintes
+#facs_330_r3l11 réitérées sur les abus qui se comet
+#facs_330_r3l12 tent dans la plus grande partie
+#facs_330_r3l13 des moulins du Pays-de Vaud
+#facs_330_r3l14 particulierement dans les mou-
+#facs_330_r3l15 lins lannaux, & desirant de les
+#facs_330_r3l16 prevenir par notre attention
+#facs_330_r3l17 naternelle autant que possible
+#facs_330_r3l18 Nous avons ordonné & ordonnon
+#facs_330_r3l19 ce qui suit
+#facs_330_r3l20 1e Les Meûniers ne devront
+#facs_330_r3l21 falsifier ni changer d'aucune ma¬
+#facs_330_r3l22 niere les graines, mais les moudre
+#facs_330_r3l23 telles qu'elles leur seront remises
+#facs_331_r1l1 646.
+#facs_331_r2l1 et en rendront à chacun fidelement.
+#facs_331_r2l2 la farine qui en sera provenu
+#facs_331_r2l3 & cela sous peine d'être punis
+#facs_331_r2l4 sévérement, ou même de nous
+#facs_331_r2l5 être denoncés au cas de contra-
+#facs_331_r2l6 vention prouvée.
+#facs_331_r2l7 2° Il sera établi dans chaque
+#facs_331_r2l8 moulin par le proprietaire, à
+#facs_331_r2l9 couvert, un poids juste & exact
+#facs_331_r2l10 sous l'insaktion du metral
+#facs_331_r2l11 ou chaque particulier qui donc
+#facs_331_r2l12 nera a moudre pourra peser
+#facs_331_r2l13 les graines; le meuniers & ses
+#facs_331_r2l14 gens seront présens, aideront de leur
+#facs_331_r2l15 mieux, & moudront les grarnes d'un
+#facs_331_r2l16 chacun a son tour.
+#facs_331_r2l17 3° Quand à la paye du meunier
+#facs_331_r2l18 elle sera prélevée sur les graines
+#facs_331_r2l19 selon l'usage & les droits de
+#facs_331_r2l20 chaque lieu, en nature ou en
+#facs_331_r2l21 argent
+#facs_331_r2l22 4° A l'égard du product en farine
+#facs_331_r2l23 & son, ainsi que de la dé Comte,
+#facs_331_r2l24 la diversité des graines soit par
+#facs_331_r3l1 647
+#facs_331_r3l2 espece, soit par la nature des
+#facs_331_r3l3 lieux & des années, rendant impos-
+#facs_331_r3l4 sible, de fixer des propositions &
+#facs_331_r3l5 des regles constamment juste &
+#facs_331_r3l6 equitables, nous ordonnons à tous
+#facs_331_r3l7 les conseils des Villes & Communautés
+#facs_331_r3l8 de faire faire annuellement à
+#facs_331_r3l9 la St Martin, par un de leur
+#facs_331_r3l10 membres, dans leur district, des
+#facs_331_r3l11 épreuves de moûture sur les dif
+#facs_331_r3l12 férens genres de graines en usage.
+#facs_331_r3l13 en présence des meuniers & de deux
+#facs_331_r3l14 communiers neutres & entendus
+#facs_331_r3l15 nommes pour cet effet, & avec
+#facs_331_r3l16 toute autre précaution de sûreté
+#facs_331_r3l17 que les dits Conseils jugeront à
+#facs_331_r3l18 propos de prendre
+#facs_331_r3l19 5° Le résultat de ces épreuves,
+#facs_331_r3l20 soit a l'egard de la quantité
+#facs_331_r3l21 proportionelle de la farme & du
+#facs_331_r3l22 son, soit a légard de la décole¬
+#facs_331_r3l23 réelle, sera porté sur une tabelle
+#facs_331_r3l24 exacte, & presenté d'abord au Corps
+#facs_331_r3l25 du Conseil & ensuite au seigneur
+#facs_332_r1l1 648.
+#facs_332_r2l1 Baillif, qui la Sanctionnera de
+#facs_332_r2l2 son sceau, afin qu'elle soit affichée
+#facs_332_r2l3 dans chaque moulin du district,
+#facs_332_r2l4 ou elle aura été faite, & serve de
+#facs_332_r2l5 regle pour l'anée courante entre
+#facs_332_r2l6 les meuniers & les particuliers qui
+#facs_332_r2l7 donneront a moudre.
+#facs_332_r2l8 6° Si on remettoit au meunier
+#facs_332_r2l9 des graines d'une si mauvaise
+#facs_332_r2l10 qualité, quil en resulteroit neces
+#facs_332_r2l11 „sairement plus de décalé que les
+#facs_332_r2l12 tabelles nen admettent, il refusera
+#facs_332_r2l13 de la recevoir en cet état; ou bien
+#facs_332_r2l14 exigera du particulier d'être present
+#facs_332_r2l15 a la moûture, afin d'en voir & rece-
+#facs_332_r2l16 voir lui-même tout le produit;
+#facs_332_r2l17 aussi ne doit-il pas humecter les
+#facs_332_r2l18 grames plus que de besoin, de
+#facs_332_r2l19 maniere que la farine en provenante
+#facs_332_r2l20 soit à l'épreuve d'une baquette
+#facs_332_r2l21 d'acier poli, qui devra se trouver
+#facs_332_r2l22 a cet effet dans chaque moulin de
+#facs_332_r2l23 7° Si dans l'opération de ces épreuves
+#facs_332_r2l24 où la fixation de leur résultat, il
+#facs_4_r8l9 a
+#facs_332_r3l2 sélevoit quelque difficulté ou
+#facs_332_r3l3 dissentiment, elle sera portée d'a¬
+#facs_332_r3l4 Cord au Corps du Conseil, et en¬
+#facs_332_r3l5 suite au Seigneur Baillif, qui
+#facs_332_r3l6 en jugera & ordonnera sommairement
+#facs_332_r3l7 & sans appel
+#facs_332_r3l8 8° Quand aux difficultés qui pour
+#facs_332_r3l9 ront s'elever dans l'execution des
+#facs_332_r3l11 regles fixées et etables, comme
+#facs_332_r3l12 ci-dessus, ou autres quelconques
+#facs_332_r3l13 entre le meunier & les particuliers
+#facs_332_r3l14 qui donneront à moudre, elles
+#facs_332_r3l15 seront jugées par les Conseils
+#facs_332_r3l16 du lieu, auxquels cette police est
+#facs_332_r3l17 reservée comme ci devant, sous
+#facs_332_r3l18 l'observation precise de la présente
+#facs_332_r3l19 Ordonnance Souveraine, a l'exécu
+#facs_332_r3l20 tion de laquelle les Seigneurs
+#facs_332_r3l21 Baillifs veilleront avec soin
+#facs_332_r3l22 & qui a cet effet sera publiée
+#facs_332_r3l23 en chaire & affichée aux lieux
+#facs_332_r3l24 accoutumes. Donne ce 26 mars
+#facs_266_r6l2 1787.
+#facs_48_r3l25 Chancellerie de Berne

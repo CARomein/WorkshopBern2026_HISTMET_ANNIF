@@ -1,0 +1,101 @@
+Law ID: BER.01.001.4641
+Name: Steuraufnahm für die Brandbeschädigten zu Frauenfeld.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 90/90
+# High similarity (>=50%): 86
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_255_r4l1 505.
+#facs_255_r4l2 En
+#facs_255_r4l3 die vier ärgänischen Städte
+#facs_255_r4l4 Steuraufnahm für die Brand
+#facs_255_r4l5 beschädigten zu Frauenfeld.
+#facs_255_r4l6 06
+#facs_255_r4l7 Schultheiß Räth und Burger etc. Ihne
+#facs_255_r4l8 davon Abschrift ertheilen, und dar
+#facs_255_r4l9 bey befehlen, nicht allein gegenbär
+#facs_255_r4l10 and
+#facs_255_r4l11 tige Mrghl. Collat Verordnung
+#facs_255_r4l12 Sontags d. 29. März nächstbünftig zu
+#facs_255_r4l13 jedermans Verhalt öffentlich von Canz¬
+#facs_255_r4l14 len verlesen zu laßen, sondern
+#facs_255_r4l15 auch die Pfarrer dahin zu halten,
+#facs_255_r4l16 daß sie an dem Osterfest da
+#facs_255_r4l17 die Collect erhoben werden soll, ihre
+#facs_255_r4l18 Predigten also einrichten, damit
+#facs_255_r4l19 Die christliche Millthätigkeit mit
+#facs_255_r4l20 mehreren Spachtruk erregt wer¬
+#facs_255_r4l21 de; Den Belauf dieser aufzu¬
+#facs_256_r2l1 nemenden Liebessteür aber sei-
+#facs_256_r2l2 ner Zeit Mühl. T. Sekelmst
+#facs_256_r2l3 und Bemer einzustanden.
+#facs_256_r2l4 ob
+#facs_256_r2l5 Publication
+#facs_256_r2l6 La déplorable et malheureuse Situation
+#facs_256_r2l7 dans laquelle la Ville de Fravenfeld en
+#facs_256_r2l8 Turgovic, a été plongée de nouveau par une
+#facs_256_r2l9 incendie de plus violentes, qui y a éclaté
+#facs_256_r2l10 le 24. du Mois d'Octobre dernier, et qui
+#facs_256_r2l11 outre la Maison de Ville, y a consumé
+#facs_256_r2l12 trente quatre maisons de particuliers, et
+#facs_256_r2l13 causé des domages dont la totalité est évalué
+#facs_256_r2l14 a cent cinquante neuf mille, quatre vingt
+#facs_256_r2l15 theize goulden, ne peut qu'exiter les sentes
+#facs_256_r2l16 mens de la plus vive commission dans toutes
+#facs_256_r2l17 les personnes sensibles et charitables d'autres
+#facs_256_r2l18 tant plus que la disette, qui regne dans
+#facs_256_r2l19 ces contrées en expose les habitans à
+#facs_256_r3l1 us. 507
+#facs_256_r3l2 la derniere misere, a la quelle ils succomberoient
+#facs_256_r3l3 nécessairement, sans les secours bien faisans
+#facs_256_r3l4 de leurs semblables et se verroient reduits
+#facs_256_r3l5 dans ce pitoyable état, a une ruine en évitable
+#facs_256_r3l6 puisqu'ils se trouveroient dans l'absolue impos
+#facs_256_r3l7 sibilité de rebatir leurs demeures réduites en
+#facs_256_r3l8 cendres. Par un effet de leurs sentimens par
+#facs_256_r3l9 ternels à légard de tous leurs ressortissant
+#facs_256_r3l10 Le E: E: nos Souverains seigneurs, après
+#facs_256_r3l11 avoir considéré avec douleur toutes les circon
+#facs_256_r3l12 stances qui concourrent à aggraver les suites
+#facs_256_r3l13 de ce funeste désastre ont jugé à propos
+#facs_256_r3l14 pour la consolation de leurs sujets mediats,
+#facs_256_r3l15 de Fravenfeld, et a l'exemple des autres
+#facs_256_r3l16 Couables Cantons leurs Co-Souverains
+#facs_256_r3l17 d'ordonner tant dans cette Capitale que
+#facs_256_r3l18 dans les quatre Villes municipales de
+#facs_256_r3l19 l'argoire, une collecte volontaire en leur
+#facs_256_r3l20 faveurs, la quelle sera perçue le jour de
+#facs_257_r3l1 de la fête de pâque prochaine, dans les
+#facs_257_r3l2 peranse assurée qu'un chaqu'un s'en
+#facs_257_r3l3 pressera de Contribuer, celon ses facultés
+#facs_257_r3l4 a cet acte de charite chrétienne
+#facs_257_r3l5 Donne dans l'assemblée des Petits et
+#facs_257_r3l6 grand Conseils le 31. xbre 1788.
+#facs_257_r3l7 An
+#facs_257_r3l8 alle Teütsch und Welsche Hh.
+#facs_257_r3l9 Amtleüte, 4. Städte, freyweibel und
+#facs_257_r3l10 Ammann
+#facs_257_r3l11 Husier und Landkramer
+#facs_257_r3l12 betreffend
+#facs_257_r3l13 Schultheiß und Rath etc. Was Wir,
+#facs_257_r3l14 in Betreff der eingelangten Beschwer¬
+#facs_257_r3l15 den gegen verschiedene Savoyische
+#facs_257_r3l16 Husierer Dorfkrämer und Fuhr¬
+#facs_257_r3l17 leute wegen unbefügtem Handelny
+#facs_257_r5l1 Coll
+#facs_257_r5l2 06
+#facs_257_r6l1 509
+#facs_257_r6l2 zu verordnen nothwendig erachtet, solches
+#facs_257_r6l3 ist in Einlage enthalten davon Wir
+#facs_257_r6l4 Euch genugstamme Exemplar zusenden
+#facs_257_r6l5 mit dem befelchlichen Auftrag, solche
+#facs_257_r6l6 zu Männiglichs Nachricht von Kanzeln
+#facs_257_r6l7 verlesen zu laßen, und alles dasjenige
+#facs_257_r6l8 zu veranstalten, was zu deßen Erfüllung
+#facs_257_r6l9 gereichen kann, auch in Vorfallen¬
+#facs_257_r6l10 heiten selbige genau zu vollziehen.
+#facs_257_r6l11 Datum den 2ten Jan. 1789

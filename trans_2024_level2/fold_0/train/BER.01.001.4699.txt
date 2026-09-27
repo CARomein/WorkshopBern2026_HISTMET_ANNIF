@@ -1,0 +1,68 @@
+Law ID: BER.01.001.4699
+Name: Verkauf der zweyten Hälfte des Getreides, im Welschen Land.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 57/57
+# High similarity (>=50%): 57
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_45_r3l1 lls
+#facs_45_r3l2 06
+#facs_45_r4l1 83.
+#facs_45_r4l2 Verkauf der zweyten Hälfte des
+#facs_45_r4l3 Getreides, im Welschen Land
+#facs_45_r4l4 Ain
+#facs_45_r4l5 alle Welsche Herren Amtleute, wo
+#facs_45_r4l6 Obrigkeitlich Getreid ist
+#facs_45_r4l7 Schultheis Räth und Bürger,
+#facs_45_r4l8 auf angehörten Vortrag Unserer Fürge¬
+#facs_45_r4l9 liebten Miträthen der Herren Welsch-
+#facs_45_r4l10 Sekelmeister und Venieren, und Unserer
+#facs_45_r4l11 wohl verordneten Kornkammer über die
+#facs_45_r4l12 nach Abzug der ordinari und quasi ordi¬
+#facs_45_r4l13 nari ausgaben zum Verkauf übrig
+#facs_45_r4l14 bleibende zweyte Helfte der Sommer
+#facs_45_r4l15 und Winterfrüchten, haben Wir erkennet
+#facs_45_r4l16 und befehlen Euch hiermit, auch diese
+#facs_45_r4l17 zweyte Helfte unter den gewohnten Cau-
+#facs_45_r4l18 telen nunmehro jeweilen in laußendem
+#facs_45_r4l19 Preise zu versilberen, diesen Getreid¬
+#facs_45_r4l20 Verkauf aber so zu vertheilen, daß
+#facs_45_r4l21 darmit von nun an zu kleinen kaufen
+#facs_45_r4l22 der Anfang gemacht, auf gleiche Weise
+#facs_45_r4l23 nach und nach fortgefahren und der lezte
+#facs_45_r4l24 = Verkauff
+#facs_46_r2l1 Verkauf erst bis 1ten Weinmonat
+#facs_46_r2l2 erfolgen möge
+#facs_46_r2l3 In dem Ver¬
+#facs_46_r2l4 stand und mit dem ausdrüklichen
+#facs_46_r2l5 Gesezt jedoch, daß keinem Käufer
+#facs_46_r2l6 etwas voraus versprochen und
+#facs_46_r2l7 zugesagt werden solle
+#facs_46_r2l8 Ain die Wir unterm 4ten Aprill
+#facs_46_r2l9 lezthin erkennt, daß der sich
+#facs_46_r2l10 zu Wiblispurg vorgefundene Defi¬
+#facs_46_r2l11 cient an unwandelbarem Vorrath
+#facs_46_r2l12 von 29 Säk Weizen und 31 Säle
+#facs_46_r2l13 Haber ganz, hingegen zu Petter¬
+#facs_46_r2l14 lingen von 323 Säle 3 Mas Weizen,
+#facs_46_r2l15 zu Romainmotier von 279 Säk
+#facs_46_r2l16 6. Mäs Weizen, 145 Sal 5 Mär
+#facs_46_r2l17 Mischelkorn und Roggen, 96 Säk
+#facs_46_r2l18 1mäs Gersten, 198 Säk 3 Mäs
+#facs_46_r2l19 Haber, zur Helfte ersezt werden
+#facs_46_r2l20 solle; so haben Wir dermahlen
+#facs_46_r2l21 denen Umständen angemessen
+#facs_46_r2l22 erachtet, in Abweichung von obigem
+#facs_46_r2l23 Decret, die Ersatzung der andern
+#facs_46_r2l24 = helfte
+#facs_46_r5l1 85
+#facs_46_r5l2 Helfte des Deficients an Vorrath zu
+#facs_46_r5l3 Petterlingen und Romammotier einst
+#facs_46_r5l4 weilen zu suspendiren damit diese beyden
+#facs_46_r5l5 Aemter nicht auf einmahl allzustärk
+#facs_46_r5l6 von Getreid entblößt werden. Gott
+#facs_46_r5l7 mit Euch. Datum den 28. May 1792.

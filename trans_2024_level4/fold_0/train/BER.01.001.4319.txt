@@ -1,0 +1,36 @@
+Law ID: BER.01.001.4319
+Name: Ihnen die von loblm. Stand Solothurn [...] gesezte Jagdtermin zur Publication- und auch darbey kund thun, dass hierseits selber biss auf 3. gleichen Monats gesezt seye.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_504
+# Matched: 25/25
+# High similarity (>=50%): 24
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_156_r2l23 Vide die traduction sub pag: 303.
+#facs_156_r4l1 297
+#facs_156_r4l2 An
+#facs_156_r4l3 Alle Teutsch und Weltsche Herren Amtleuth, 4.
+#facs_156_r4l4 Stätt, Freyweibel und Ammann, Denne P. Jedel an
+#facs_156_r4l5 hiesige Cänzel, und beym Auseren Krankenhaus
+#facs_156_r4l6 Ihnen die von Loblen Stand Solothurn bis auf 1ten
+#facs_156_r4l7 Septl. hinaus gesezte Jagdt, Termin zur publication
+#facs_156_r4l8 und auch darbey kund thun, daß hierseits selber bis auf 3t.
+#facs_156_r4l9 gleichen Monats gesezt seye,
+#facs_156_r4l10 Schultheis und Raht
+#facs_156_r4l11 Indeme Lobl. Stand Solothurn heurigen Jahrs¬
+#facs_156_r4l12 den Jagd=Termin auf 1ten Herbstmonat hinaus¬
+#facs_156_r4l13 gesezt; so haben Wir ausgnugsamm uns bewe¬
+#facs_156_r4l14 genden Gründen nöhtig erachtet, auch in hiesigen
+#facs_156_r4l15 Landen für heüriges Jahr die Jagd über die
+#facs_156_r4l16 in der Jäger=Ordnung bestimte Zeit hinaus,
+#facs_156_r4l17 und mithin bis auf den 3ten Herbstmonat nächst¬
+#facs_156_r4l18 künfftig einzustellen, und zwar unter der
+#facs_156_r4l19 in der Jäger-Ordnung bestimten Buß, und
+#facs_156_r4l20 gegen Ersatzung alles an denen Feld Früchten
+#facs_156_r4l21 verursachen den Schadens von seiten der Widerhand¬
+#facs_156_r4l22 lenden; Welches Ihr zu Mäniglichs Nachricht
+#facs_156_r4l23 und Verhalt mit möglichster Beschleunigung publi¬
+#facs_156_r4l24 cieren laßen werdet. Dat. d. 15ten Aug. 1771.

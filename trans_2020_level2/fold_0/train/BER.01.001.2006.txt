@@ -1,0 +1,28 @@
+Law ID: BER.01.001.2006
+Name: Der Reichsmünzen halb, sie des Badischen Schlusses berichten.
+
+#facs_12_r2l29 2
+#facs_12_r4l1 21
+#facs_12_r4l2 Joffingen, Arauis Brugg, Lenzburg Ei
+#facs_12_r4l3 et pefecto Item Schreikenberg Königsfelden
+#facs_12_r4l4 Biberstein und arburg.
+#facs_12_r4l5 Der Reichtmenzin halb, sie des Badischen schlußes
+#facs_12_r4l6 berichten.
+#facs_12_r4l7 schuldtheiß und raht der statt Bern etc.
+#facs_12_r4l8 Hemnach auff jüngst gehaltner badischer tagleistung der müntze
+#facs_12_r4l9 halb geschloßen und verabscheidet worden, daß die reichsmünzen
+#facs_12_r4l10 Das ist, die so uß dem Römischen reich und deßen der eidtgebschafft
+#facs_12_r4l11 vernachbarten landen ins landtkommedt nit weiter hinein.
+#facs_12_r4l12 gebracht noch abgenommen, sondern uß dieselben an solche ver
+#facs_12_r4l13 nachbarte leiserische Landt grenzenden Edtgnößischen
+#facs_12_r4l14 oerten widerumb ins riich und deßen landt und gepiet
+#facs_12_r4l15 verbraucht und außgegeben werden sollind, bei poen der
+#facs_12_r4l16 consiscation, habend wir nit ermanglen wellen deßen
+#facs_12_r4l17 dich, wie übrige dort gegen den leiserischen landen geseßne
+#facs_12_r4l18 ambtleüth zeberichten. Maßen hiemit der meinung und
+#facs_12_r4l19 zu dem end beschicht, daß mennigklich in demer verwaltung
+#facs_12_r4l20 deßen durch verkündung vom canzel zur nachricht undt
+#facs_12_r4l21 deme sich gemeß zuuerhalten, verwahrnet werde. Alß
+#facs_12_r4l22 du dat zethun und volgendts darob zehalten wüßen
+#facs_12_r4l23 Wirst. Datum 17. augusti 1674
+END

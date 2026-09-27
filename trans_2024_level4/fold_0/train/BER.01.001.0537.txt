@@ -1,0 +1,106 @@
+Law nr: BER.01.001.0532
+Name: Wegen der Bouriere.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 94/94
+# High similarity (>=80%): 87
+# Low similarity (<80%): 7
+# Not found: 0
+#
+#facs_83_r3l1 An die weltischen Amptlutten
+#facs_83_r3l2 152
+#facs_83_r3l3 wegen der Bouwicke
+#facs_83_r3l4 schuldtheiyh, wir habend hievor allen Vnsern Amptlutt
+#facs_83_r3l5 vnd 1 anrichs verpotten gehept ungewonnte Intrumet
+#facs_83_r3l6 vnd gattung der Marter zebruchet, wie den domalen
+#facs_83_r3l7 etliche sonderbare vnerhörte marter und wolterung
+#facs_150_r2l4 brucht worden.
+#facs_83_r3l9 Quan gesechen unsers hievor gethanen ernstig erpotts,
+#facs_83_r3l10 etliche Jnende Ynbilden, das so wir die Bouviere
+#facs_83_r3l11 notthalblich gegen den hingerichten Villain fügenomen
+#facs_83_r3l12 es Inen auch zugelassen sijn solle, vnd dise gattun¬
+#facs_83_r3l13 Marter woll so bald vndertan werdindt zubruch
+#facs_83_r3l14 Wann aber disere gattung Marter die Bouriere Woll
+#facs_83_r3l15 zu vnzijttl. vndt ohne vnderscheidt mit gfar ange¬
+#facs_83_r3l16 wendt werden mag, vnd abermit zubruchenn
+#facs_83_r3l17 es erfordere es dan, die vssersteuort Sonderlich
+#facs_83_r3l18 gegen dennen die tarcken Eijbs, vnd vmb die ande¬
+#facs_83_r3l19 ren torturen müdt thund, haben wir fer¬
+#facs_83_r3l20 mijdenlicher nodturfft noch nit vnderlassen
+#facs_83_r3l21 können dir vnd anderen vnseren Amptlütten
+#facs_83_r3l22 zugearetten vnd bevelchen als hiemit beschichte
+#facs_83_r3l23 das diese gattung Marter vorhandene
+#facs_83_r3l24 songewante gegen den armen vnd vbelthattern
+#facs_83_r3l25 ohne unser Wussen vnd willen bij dir nit
+#facs_83_r3l26 bruch noch anwenden Sonder in by den
+#facs_83_r3l27 alten gewontl. es (blijben lassist vnd
+#facs_83_r3l28 damit die Pauwerss sich ou sine nach
+#facs_84_r1l1 153
+#facs_32_r1l27 s e
+#facs_84_r3l1 Wussind zu haltten wirt vnd soll du Inen
+#facs_84_r3l2 söliches auch In Vnsern namen verkunden
+#facs_84_r3l3 und gevietten sich derselben zemissigen Da¬
+#facs_84_r3l4 das ist vnser will
+#facs_84_r3l5 Dennethin Diewyll du Durch vorgehendlich
+#facs_84_r3l6 unser thryben vermant worden die dry
+#facs_84_r3l7 vSzug Rödell doplat mit nammen und
+#facs_84_r3l8 zunamen sampt Iren Vberwehr herrgen zu
+#facs_84_r3l9 und Uns Heuberschicken, Vns aber
+#facs_84_r3l10 allein die Vßzug Rödell der zweyen Oss
+#facs_84_r3l11 tzug, als des ersten vnd andern Vberschickt
+#facs_84_r3l12 vnd das dritt mit gedacht So sind
+#facs_84_r3l13 wir verursachet worden dir nochmaln
+#facs_84_r3l14 mit ernst gebruelichen, den Drittl
+#facs_84_r3l15 Vßzug auch zuergentzen, wo es noch nit
+#facs_84_r3l16 beschehen vnd vns augentz den zodell
+#facs_84_r3l17 dopplet mit namen vnd zunammen
+#facs_84_r3l18 sampt Iren Überwehren zu zeschicken.
+#facs_84_r3l19 In aber dem bißsaro nit statt tham
+#facs_84_r3l20 so haben wir Dir nochmaln alles ernst
+#facs_84_r3l21 Abbinden und bewelchen wellen alldey
+#facs_84_r3l22 Cösszug wors noch nit bescheilen augenz
+#facs_84_r3l23 zweifullen vnd ergentzen vnd vns
+#facs_84_r3l24 die rödel doplet aller dryen
+#facs_84_r3l25 Vßzugl. vnuerzogenlich Zeuberschickl
+#facs_84_r4l1 Endtlich Ist auch unser will vnd gesinnen an dich
+#facs_84_r4l2 das du vns ein ordenlich vfferzeichnus
+#facs_84_r4l3 aller der wehren gschutzes Munition
+#facs_84_r4l4 Schufflen hauwen pickel vnd walderglijchen
+#facs_84_r4l5 kriegs praeparation In unserm schloßen bey
+#facs_84_r4l6 dir verhanden vnuertzog vber schickest
+#facs_84_r4l7 dan wir dan wn dir begerend vf das so
+#facs_84_r4l8 etwas derselben manglete, die uorwendige
+#facs_84_r4l9 Fürsehung gethan werde datum 29 Jan 1614
+#facs_84_r4l10 W. Zug ridlen Ergentzung
+#facs_44_r2l5 halb
+#facs_84_r4l12 Schw Dir wirt noch In Wussen sijn was wie die der dryen
+#facs_84_r4l13 vßzug. Halb beuolchen nämlich das du die Vergentzest
+#facs_84_r4l14 vnd ein dopel der Uferzeichnuss mit namen und zunamen
+#facs_84_r4l15 Vnsern Musterhs zustellet, Diewijll wir aber von
+#facs_84_r4l16 Dir noch vnseren Mutterhs. die nit empfangen, deren
+#facs_84_r4l17 aber nit entmanglen mögl. So Ist meerntigen bevelgen
+#facs_84_r4l18 an doch du willit die anordnung thun, das die 36ß zuge¬
+#facs_84_r4l19 vergenzt Ire namen und zunamen sampt den
+#facs_84_r4l20 Überwehren verzeichnet vnd dieselben vns doplett
+#facs_84_r4l21 zu glych ein Kofferzechnußl aller ununition geschutzes schufften
+#facs_84_r4l22 vnd bicken vnd was derglijchen In verricht
+#facs_84_r4l23 In unseren huß seyn möchte furderlich vndertheidt
+#facs_84_r4l24 überschickt werdenden, Darnach wusz dich
+#facs_84_r4l25 zuhalten vnd Flijss zebruchen Act. 24 Januarii 1614
+#facs_8_r3l1 2
+#facs_6_r3l1 5
+#facs_85_r2l1 Schuldtheis u, Diewijl wie durchUnglijche
+#facs_85_r2l2 vfferzeichnussen des schutzes praeparation oder
+#facs_85_r2l3 Munition thuflen vnd derglijchen praeparation
+#facs_85_r2l4 In vorchat In vueren hußeren berichtett
+#facs_85_r2l5 sind, und aber nit wenig an gewissen
+#facs_85_r2l6 bricht vns wijll gelegen seyn So Ist
+#facs_85_r2l7 Vnser ernstiger beuelich an dich angesicht disen
+#facs_85_r2l8 unsers beuelchs alles deshalb ufferzeichnen.
+#facs_85_r2l9 zelassen so In vorrhat sijn möchte, vnd
+#facs_85_r2l10 das uns fürderlich ohne verzug Zeuberschickl
+#facs_85_r2l11 Darnach wollest dich alles ernsts beflyssen
+#facs_85_r2l12 Datum 24 Januarij 1614

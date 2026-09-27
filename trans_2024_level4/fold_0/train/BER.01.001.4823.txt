@@ -1,0 +1,70 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 62/63
+# High similarity (>=80%): 57
+# Low similarity (<80%): 5
+# Not found: 1
+#
+# NOT FOUND: BER.01.001.4823
+#facs_235_r1l22 ansehens die Ertheilung von Päßen, an die in
+#facs_235_r1l23 Frankreich reisende Personen
+#facs_143_r4l21 oll
+#facs_200_r4l15 An alle deutsche und Welsche Herren Amtleut,
+#facs_8_r6l1 9
+#facs_235_r1l27 IV. Städte, wie auch Murten und Tscherliz
+#facs_235_r1l28 Schultheiß und Sat der Stadt Bern
+#facs_235_r1l29 Es ist uns zuverläßig zu vernehmen gekommen,
+#facs_235_r1l30 daß in Betreff derjenigen Päße welche in
+#facs_235_r1l31 Unseren Landen denen nach Frankreich rei
+#facs_235_r1l32 enden Personen ertheilt werden, nicht alle
+#facs_235_r1l33 diejenigen Vorstorgen genommen werden,
+#facs_125_r5l26 son
+#facs_5_r1l1 2.
+#facs_7_r2l1 3
+#facs_1_r2l2 1.
+#facs_83_r5l1 157
+#facs_235_r3l2 so zu Bevorkommung daheriger Mißbranche
+#facs_235_r3l3 nöthig und erforderlich seyn mögen.
+#facs_235_r3l4 damit nun einerseits der gleichen Miß
+#facs_235_r3l5 brauchen für das künftige behöriger Maßen vor
+#facs_235_r3l6 gebogen, Unsern lieben und Getreuen Angehört
+#facs_235_r3l7 gen aber, die sich in dem Fall befinden nach Frank
+#facs_235_r3l8 reich zureisten, keine Schwierrigkeiten auf den
+#facs_235_r3l9 französischen Grenzen gemacht werden können,
+#facs_235_r3l10 so haben Wir für das künftige in Betref der nach Frans
+#facs_235_r3l11 reich zu ertheilenden Passe hiemit fast zustehen und
+#facs_235_r3l12 zu verordnen gut befunden, daß erstlich alle von
+#facs_235_r3l13 Unsern Amtleuten / von Eurer Stadtschreiberey:/
+#facs_235_r3l14 auszufertigende Päße eine genaue Beschreib
+#facs_235_r3l15 ung oder signalement der Personen auf welche solche
+#facs_235_r3l16 Paßlautet enthalten sollen
+#facs_235_r3l17 Sollen diese Paße von dem Paß Innhaber selbsten
+#facs_235_r3l18 eigenhändig signirt = oder darinn angezeigt werden,
+#facs_235_r3l19 daß derselbe nicht schreiben könne,
+#facs_235_r3l20 Soll über die zu ertheilenden Päße, eine genaue controlle,
+#facs_235_r3l21 geführt, und solche Tarde auch stets numeratur wurden.
+#facs_235_r3l22 Soll für das künftige Niemanden keine Päße mehr
+#facs_235_r3l23 ertheilt werden, es seye dann, daß die Person, die
+#facs_235_r3l24 einen solchen begehrt, sich vor Unserm OberAmt
+#facs_235_r3l25 mann /: Eüerm Stadtschreiber :/ persönlich stelle,
+#facs_235_r3l26 und sich in dessen Gegenwart darinn eigenhändig
+#facs_128_r2l37 Sa
+#facs_235_r3l28 unterschreibe.
+#facs_126_r2l51 45
+#facs_70_r3l1 Collati
+#facs_236_r3l1 Sollten dann die eint oder andern glauben
+#facs_236_r3l2 daß die gern ein Änsteren Amtlanten zu ertheilen,
+#facs_236_r3l3 be Paße zur Regellation anhero geschikt, und nach
+#facs_236_r3l4 Dem Begehren der französischen Regierung mit
+#facs_236_r3l5 ein Stands wegen versehen werden müßen, damit
+#facs_236_r3l6 Wiche auf den Grenzen desto mehr respektiert, so
+#facs_236_r3l7 bleibt denenselben überlaßen hierüber dasjenige
+#facs_236_r3l8 zuthun, was Sie zu ihrer mehrern Sicherheit nötig
+#facs_236_r3l9 finden werden.
+#facs_57_r2l15 Deßen Ihr berichtet werdet um solches
+#facs_236_r3l11 ser könen welche mich Frau kreich reisten wollen zu
+#facs_236_r3l12 eröfnen, und und Euch hinfüro nach dieser Vorschrift
+#facs_236_r3l13 zu verhalten, und solche in allen ihren Theilen je
+#facs_236_r3l14 weilen genau zu beobachten
+#facs_239_r3l7 Datum den 27t Decembris 1796.
+#facs_98_r5l28 en

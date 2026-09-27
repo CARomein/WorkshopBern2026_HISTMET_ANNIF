@@ -1,0 +1,32 @@
+Law ID: BER.01.001.2074
+Name: Ihnen die getruckte Schul-Ordnung schicken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 21/21
+# High similarity (>=50%): 20
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_109_r3l1 191
+#facs_109_r3l2 Un die W. Ambtleüt
+#facs_109_r3l3 getruckte Schul-Ordnung schicken
+#facs_109_r3l4 sme
+#facs_109_r3l5 Grundt heiß und Raht der Stadt Herren.
+#facs_109_r3l6 Auß der besonderen angelegenheit und sorgfalt, Die wir
+#facs_109_r3l7 tragend, die Schulen in Vnseren Landen Zu pflanken, undt
+#facs_109_r3l8 ten daher flinßenden nutzen zubefürderen, habend wir
+#facs_109_r3l9 eine neüwe Schulordnung auffsetzen vnd drucken laßen,
+#facs_109_r3l10 ich deren durchgehend Zebedienen, vndt wie Jungsthin
+#facs_109_r3l11 gegen Vnser Teütschen Landtschafft, vnd vnseren derselben
+#facs_109_r3l12 Vorgesezten Ambtleüten bereits beschechen, gep über
+#facs_109_r3l13 hikend wir dieselbe hiemit, vnd beiligenden Exemplaren,
+#facs_109_r3l14 auch die, mit dem benech, dieselben vnder De
+#facs_109_r3l15 Predicanten, Chorrichter und Schulmeister, so weit
+#facs_109_r3l16 Sie gelangen mögend, außzetheilen, aus Euch für die
+#facs_109_r3l17 und deine Nachfahren Zubehalten, vnd darbej die Ver¬
+#facs_109_r3l18 ordnung Zethun, vnd hand obzchaeten, daß derselben
+#facs_109_r3l19 gebührend, und mit rechter angelegenheit nachgelebt,
+#facs_109_r3l20 werde. Wie wie vns zu die versechendt
+#facs_109_r3l21 Datum 3 January 1676

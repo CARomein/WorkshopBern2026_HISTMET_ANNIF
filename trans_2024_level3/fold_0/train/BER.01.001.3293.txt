@@ -1,0 +1,42 @@
+Law ID: BER.01.001.3293
+Name: Wegen Veräusserung dess Strauws.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_492
+# Matched: 31/31
+# High similarity (>=80%): 31
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_263_tr_1l_2 Wegen Veräußerung deß Strautes
+#facs_263_tr_1l_3 Buren, Nydaut, Erlach. St. Johanzen, Milden,
+#facs_263_tr_1l_4 Päckenlingen, Kron, Wiblispurg,
+#facs_263_tr_1l_5 Laupen und Arberg.
+#facs_263_tr_1l_6 Ochs. und Rath der Stadt Bärn. etc.
+#facs_263_tr_1l_7 Weilen durch die heubrige Tröbne
+#facs_31_r1l2 Collat
+#facs_263_tr_1l_9 faß aller Ohrten genug füter
+#facs_263_tr_1l_10 gewachsen und nicht ohnbillig zu be¬
+#facs_263_tr_1l_11 bergen, daß von außenhalb werde
+#facs_263_tr_1l_12 getrachtet werden, der gleichen in hiesigen
+#facs_263_tr_1l_13 Landen zu kauffen und zu veräußeren
+#facs_263_tr_1l_14 Als hat solches Uns veranlaßet
+#facs_263_tr_1l_15 hiemit unsere hievorige Mandat
+#facs_263_tr_1l_16 dahin zu erfrischen, daß Mainglich
+#facs_263_tr_1l_17 verborten seyn solle, weder Praus¬
+#facs_263_tr_1l_18 heute, noch Baub an Frömde zuver¬
+#facs_263_tr_1l_19 kaufen, oder sonsten in andere
+#facs_53_r1l1 96
+#facs_264_tr_2l_2 bey zuveraüßeren, noch auch durch
+#facs_264_tr_2l_3 Fröndes Reich Ihr Heub und Straub vor,
+#facs_264_tr_2l_4 Etzen Zelaßen, damit selbes nit ver¬
+#facs_264_tr_2l_5 teutret werde, und man auf den
+#facs_264_tr_2l_6 Nothfahl selbsten darmit versehen seye.
+#facs_264_tr_2l_7 Alles bey denen in hievorigen Mandaten
+#facs_264_tr_2l_8 enthaltenen Straffen, damit die wieder¬
+#facs_264_tr_2l_9 handlenden angesehen werden solle;
+#facs_264_tr_2l_10 Welches du hirmit zu maniglicher Nach¬
+#facs_264_tr_2l_11 richt von Cantzlen verhanden, und
+#facs_264_tr_2l_12 sonsten Handt ob zuhalten wüßen wirst.
+#facs_264_tr_2l_13 dat. 3. July 1719.

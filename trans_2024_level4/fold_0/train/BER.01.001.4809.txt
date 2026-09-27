@@ -1,0 +1,22 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_513
+# Matched: 15/15
+# High similarity (>=80%): 12
+# Low similarity (<80%): 3
+# Not found: 0
+#
+#facs_190_r2l36 1000
+#facs_186_r3l1 Ausmundung
+#facs_186_r3l2 von 20 Tagen Stück bekannt gemacht.
+#facs_200_r4l15 An alle deutsche und Welsche Herren Amtleut,
+#facs_43_r2l19 Freyweibel und Ammann.
+#facs_186_r3l5 Schultheiß Rath und Burger
+#facs_211_r3l16 Mit Zusendung einer genugsamen Anzahl
+#facs_186_r3l7 geirter Exemplarien, von der heute er
+#facs_186_r3l8 kennten Gekanntmachung der neu ausge¬
+#facs_186_r3l9 prägten hiesigen Zwanzig Bazenstücke be¬
+#facs_186_r3l10 fehlen wir Euch solche gewohntermaßen pub
+#facs_186_r3l11 giren, und auch in der Mandaten Büchern
+#facs_246_r6l12 schreiben zulaßen.
+#facs_186_r3l13 Datum den 29ten Junii 1796
+#facs_98_r5l28 en

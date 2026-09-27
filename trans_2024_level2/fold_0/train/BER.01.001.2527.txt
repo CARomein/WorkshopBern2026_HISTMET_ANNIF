@@ -1,0 +1,66 @@
+BER.01.001.2527
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 57/57
+# High similarity (>=50%): 57
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_17_r1l1 26
+#facs_17_r1l2 Coll
+#facs_17_r2l1 An die Ambtleicht im Oberland und
+#facs_17_r2l2 Emmenthal.
+#facs_17_r2l3 Wider Veräußerung des Ankens.
+#facs_17_r2l4 Schultheiß und Raht der Statt Zarn etc.
+#facs_17_r2l5 Es ist der Anken in dem preiß also aufgeschlagen, und deßen auf dem Märit¬
+#facs_17_r2l6 so wenig zufinden, daß anderst nicht sein kan, dann daß er in großer Menge
+#facs_17_r2l7 auß dem Land weggeführt wirt; welchem den gang zuscehren wir für nöhtig
+#facs_17_r2l8 angesehen, und deßwegen vnser wider die vereüßerung des Ankens außgeschris¬
+#facs_17_r2l9 Einsehen vom 15. Marty 1675 zu erfrüschen, Maßen wir Dir hiemit be¬
+#facs_17_r2l10 hohlen haben wollend, ob demselben bey deinem En geflißenlich zehalten
+#facs_17_r2l11 und weder Einheimischen, Eidgnösischen noch frömbden zugestatten, Einichen
+#facs_17_r2l12 Anken auf den bergen zu erhandlen, sondern sie auf die offenen Jahr
+#facs_17_r2l13 und wochen, Markten zuweisen; dagegen aber den Küheren selbsten und der
+#facs_17_r2l14 nen Säumeren oder zu Einkauffung des Ankens bestellten Personen
+#facs_17_r2l15 zugehiniiren, denselben nirgends anderst als auf den offenen Märkten
+#facs_17_r2l16 feil zuhalten, auch dieselben Säumer zu solchem End zebestellen, zu beendigen
+#facs_17_r2l17 und mit erforderlichen Scheinen zuversehen, und wann, wie verlauten, wil
+#facs_17_r2l18 Der biß auf Michaeli machende Anken durch die Hürkäuffler bereits bestellt
+#facs_17_r2l19 wäre, solchen Märrit und gegebnes wort aufzuheben und nicht gelten zelaßen,
+#facs_17_r2l20 als welches wir für vngültig erkennt
+#facs_17_r2l21 Damit auch Deme
+#facs_17_r2l22 allem desto beser nachglebt werde, soltu aufseher und später verordnen
+#facs_17_r2l23 Welche auf die übertretter fleißig achtend und dir verleidend, Ihnen aber die
+#facs_17_r2l24 Versprochen recompens ohne Ihre Entdekung gefolgen laßen, gleichwie wir
+#facs_17_r2l25 auch gemeint, in begebenden fählen Vnsere Ambtleüht bey den Confiscationen
+#facs_17_r2l26 Zehandhaben, und ohne sonderbahre wichtige Ursach denen Klageren nicht leicht
+#facs_17_r2l27 gehör zugeben. Datum 20. Julij 1693.
+#facs_17_r6l1 Thun per postscriptum
+#facs_17_r6l2 ob Idem
+#facs_17_r6l3 Und weilen von dem Droben sich gesetzten N. Breton gesagt wirt, daß er
+#facs_17_r6l4 mit allerley sachen handle, und hiemit zweiffels ohn auch mit dem Anken
+#facs_17_r6l5 Umbgehe, als Wirstu dich erkundigen, was daran seye, vmb beschaffenen Dingen
+#facs_17_r6l6 nach vns Zuberichten. Datum ut supra
+#facs_17_r6l7 zedel an Mehhl. Heimblichere.
+#facs_17_r6l8 ob Idem
+#facs_17_r6l9 eben beschehener anstellt gegen denen H. Ambtleichten im Oberland und Em¬
+#facs_17_r6l10 menthal wider die Vereußerung deß Ankens manglet auch eine Auffsicht alhier
+#facs_17_r6l11 In der Haubtstatt, welche hievor Mühl. Heimblicheren obgelegen, und diesmahlen
+#facs_17_r6l12 Ihr Gul. Euch Mühl. Widerumb auftragen wollen, dahin daß Ihr durch die bestellte
+#facs_17_r6l13 Aufsehern wider den Fürkauff auf die Veräußerung fleißig achten laßet, zu dem Ende
+#facs_17_r6l14 Jemands bestellet, der am Montag an der Matten des allharbringenden Antens
+#facs_17_r6l15 Wahrnemme, und am Dienstag an der Ankenwaag, ob er in denen Kammerline
+#facs_17_r6l16 behalten, oder zur Feilhaltung hinauß gestellt werde; Denne daß Ihr dem Hn.
+#facs_17_r6l17 Waagmeistern insinuiret, das Jenige, was disfahls sein pflicht seyn, zuerstatten,
+#facs_17_r6l18 Den Zollner bey der Neüwenbrugg dann auch bestellet, achtung zugeben, ob da,
+#facs_17_r6l19 selbsten Anken eingeschifft und weggeführt werde, umb wann Etwas dergleiche
+#facs_17_r6l20 wider Ihr Gul. verbott entdekt wurde, gegen den fahlbahren zu Ihrer Abstraf
+#facs_17_r6l21 fung nach der Ordnung vom 2. Marty 1677 mit Confiscation der Wahr durch
+#facs_17_r6l22 die Aufseher verfahren zulaßen, oder wann streitigkeiten Entstunden, die fählbah¬
+#facs_17_r6l23 ren zuverhören und die sach außzemachen, oder nach dem befelch vom 27. Aug.
+#facs_17_r6l24 1690. Ihr gutfinden Ihr Gul. zuviderbringen
+#facs_17_r6l25 Und weilen Mhh. Venner Jenner heütigem Bericht nach weißt, daß an gewüßen
+#facs_17_r6l26 ohnt von Jemands Anken in Fäßer geschlagen werden sein soll, zweiffels ohn auß
+#facs_17_r6l27 sem Land zuschaffen, als wendet Ihr Messl. solches bey Ihme erfahren, und nach Be¬
+#facs_17_r6l28 schaffenen Dingen Zehandlen wüßen. Act. 20. Juli 1693.

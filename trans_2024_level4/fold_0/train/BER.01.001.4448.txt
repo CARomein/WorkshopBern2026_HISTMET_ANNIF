@@ -1,0 +1,31 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 23/24
+# High similarity (>=80%): 22
+# Low similarity (<80%): 1
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4448
+#facs_338_r2l4 Die von Lobl. Stand Fryburg von Straßburg
+#facs_38_region_1628676035969_23l1 66.
+#facs_337_r5l3 Alle
+#facs_93_r3l15 In
+#facs_338_r2l2 Die Herren Amtleut zu Ripp, Jüren, Aarberg
+#facs_338_r2l3 und Murken.
+#facs_338_r2l4 Die von Lobl. Stand Fryburg von Straßburg
+#facs_338_r2l5 erhaltende Artillerie etc. Zollfrey durch hiesige
+#facs_338_r2l6 Lande passieren zu laßen.
+#facs_4_region_1628102603697_72l1 Schultheiß und Raht
+#facs_338_r2l8 Auf das von Lobl. Stand Fryburg gethan
+#facs_338_r2l9 Freund Brüderliche Ansuchen, haben wir
+#facs_338_r2l10 demselben die Bewilligung ertheilt,
+#facs_338_r2l11 die in mitkommender Verzeichnis enthal¬
+#facs_338_r2l12 tene Artillerie und Munition, so bemelt
+#facs_338_r2l13 Lobl. Stand zu Straßburg umgießen laßen
+#facs_338_r2l14 durch Unsere Lande Zollfrey und unge¬
+#facs_338_r2l15 hindert durchführen zu können; mit deren
+#facs_338_r2l16 Zusendung nun befehlen Wir Euch, in
+#facs_338_r2l17 Eüerem Amt zu dem End hin, wo es nöhtig
+#facs_338_r2l18 seyn wird, den erforderlichen Befehl abzu¬
+#facs_338_r2l19 geben. Dat. d. 25ten Juny 1776
+#facs_24_region_1628255397587_277l11 en

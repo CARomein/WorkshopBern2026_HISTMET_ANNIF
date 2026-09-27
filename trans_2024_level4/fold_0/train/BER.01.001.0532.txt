@@ -1,0 +1,82 @@
+Law nr: BER.01.001.0532
+Name: Bipp wegen Fischung des Fulibachwyers.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_482
+# Matched: 71/71
+# High similarity (>=80%): 63
+# Low similarity (<80%): 8
+# Not found: 0
+#
+#facs_28_r4l1 13
+#facs_72_r1l1 Buch wegen Fischung des —Fulibach wyers
+#facs_72_r1l2 Von denen Ampts vorfharen wirst du sonderricht
+#facs_72_r1l3 vnd vertendiget seyn, wie zuran gewont den vns
+#facs_72_r1l4 zugehörigen Julibachwyer In Diner am ptspflägen
+#facs_72_r1l5 gelegen Je zu düyen Jahren vßlouffen vnd Fischen
+#facs_72_r1l6 Zelassen, vnd so abermaln die zytt nachet, das die
+#facs_72_r1l7 höschung desselben soll fürgenomen werden
+#facs_72_r1l9 haben wirmt vurhatsam geachtet wyll
+#facs_72_r1l10 bißhar desselben halb mehr costens dann nutz
+#facs_72_r1l11 Vfgangen, das ein nach bedenckens gehaltt
+#facs_72_r1l12 werde, ob vns nutzlicher solchen wyer nach
+#facs_72_r1l13 altter gewonheit Fischen Zelassen oder zu
+#facs_72_r1l14 verlychen, Besinden wir das von wegen deß
+#facs_72_r1l15 grossen mercklichen costens so mitt demselbe
+#facs_72_r1l16 Vfghat In dem das ein Amptman mit seiner
+#facs_72_r1l17 Hüßhalttung, dahin züchen Vrsachens vnd ein ofne
+#facs_72_r1l18 Tafelen halten muss und nit mehr thunlich noch
+#facs_72_r1l19 muthlich den wyer nach alten bruch fischen zu lassen
+#facs_72_r1l20 Sonders das der fang vnd Fijchung je zu
+#facs_72_r1l21 dryen Jaren Vssgerufft vnd denn höchst piettenden
+#facs_72_r1l22 es sye vnseren vnderthanen oder veruachparten
+#facs_72_r1l23 vmb ein bare sum gelts hinzlichen werde, vf
+#facs_72_r1l24 welchend hin dan wir dir zu beuelehren
+#facs_72_r1l25 angessechen mit wussen und ordnung vnser
+#facs_72_r1l26 Vernachparten Ampt luthen ein offne ver¬
+#facs_72_r1l27 kundung, wir und welche lust hetten, den
+#facs_72_r1l28 Eischung zu empfachen, das dieselben vf ein
+#facs_72_r1l29 gewüssen tag so tu bestimmen magst
+#facs_28_r4l1 13
+#facs_72_r2l2 Sich zu dir verfügen und Im vßruff Impott thun
+#facs_72_r2l3 sollendt, da du dan durch etliche Verruff die Fischung
+#facs_72_r2l4 vnd fang Inzudryen Jaren einet dem höcht
+#facs_72_r2l5 wirttenden, vnder gwisse geding vnd conditionem
+#facs_72_r2l6 vnd vorbehalt, wie vil groffen mutter Fischen vnd
+#facs_72_r2l7 gwonlich anzal setzling widerumb In wyer söllend
+#facs_72_r2l8 gethan vnd geworfen werden, vf gnugsame burg¬
+#facs_72_r2l9 schafft vnd vnser gevallen hin verlychen vnd
+#facs_72_r2l10 hingeben und wie hoch die Verlychung vfgetriben
+#facs_72_r2l11 vnd wen sij vertruwt vnd geben worden vns
+#facs_72_r2l12 eigentlich vor einichen beschluss berichten solt.
+#facs_72_r2l13 dieselb zu vermehren, oder zubestättigen, vnnd
+#facs_72_r2l14 wann gleich sölcher Fischfang heinschen oder vssern
+#facs_72_r2l15 hingeben wirt. Ist vnser ernstiger will, vnd
+#facs_72_r2l16 burlch andich, das du glÿ wie zuuor die Ampts¬
+#facs_72_r2l17 vorfahren, In beuelich gehelt im vnderlassest
+#facs_72_r2l18 täglich dich dahin zu begeben vnd Vrsachens
+#facs_72_r2l19 Zehaltten, das die anzal setzling vnd mutter
+#facs_72_r2l20 Fisch int hinweg geuerttiget vnd kein trug
+#facs_72_r2l21 noch geuerd In derselben gebrucht werde,
+#facs_72_r2l22 als da man fürgeben mochte, das man die
+#facs_72_r2l23 angedinckte anzal nit funden hette und mit
+#facs_72_r2l24 wahre könte Damit der Weyer vß mangel
+#facs_72_r2l25 wider besetzend vnd besamenz nit erödet, sonders
+#facs_72_r2l26 In seinem wäsen erhalten werde damit man derselb
+#facs_72_r2l28 wie bißhar zu dryer Jahren und etwas nutzen
+#facs_72_r2l29 daruon zu ihn möge, was nun für ein anzal¬
+#facs_72_r2l30 setzling vnd mutter fisch den Weyser
+#facs_72_r2l31 widerumb zu besetzen, hievor behaltten Wor¬
+#facs_94_r1l1 173
+#facs_73_r2l1 Vnd In diser hingäbung vorzubehaltten wirf
+#facs_73_r2l2 Du von Deuen t Amts verscharen oder
+#facs_73_r2l3 andern bericht Innemen vnd glüge anzal¬
+#facs_73_r2l4 wüssen vorzubehaltten, als auch die anzal fischen
+#facs_73_r2l5 soman den geschlächt von Arp als für ein
+#facs_73_r2l6 inß vff ein gewuss mäss hin Vserichten
+#facs_73_r2l7 schuldig ist vnd wirst unseren Rthruwe
+#facs_73_r2l8 nach dahin Houtlen und bringen, das wir
+#facs_73_r2l9 ein hüpsche sinnen vnd nutz von disem
+#facs_73_r2l10 fischung zu ihn zubringen mögende
+#facs_73_r2l11 Datum 6. decembris 1615

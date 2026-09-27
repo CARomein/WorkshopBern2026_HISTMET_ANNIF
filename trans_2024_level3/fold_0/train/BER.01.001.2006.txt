@@ -1,0 +1,35 @@
+Law ID: BER.01.001.2006
+Name: Der Reichsmünzen halb, sie des Badischen Schlusses berichten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 24/24
+# High similarity (>=50%): 23
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_12_r2l29 Zi
+#facs_12_r4l1 21
+#facs_12_r4l2 Hoflingen, Grauw, Brugg, Lenzburg (in
+#facs_12_r4l3 et pfecto. Item Schenckenberg, Königsfeld
+#facs_12_r4l4 Hiberstein und Arburg
+#facs_12_r4l5 Der Reichsmünzen halb, sie der Badischen Schlußer
+#facs_12_r4l6 Berichten,
+#facs_12_r4l7 Schuldtheiß und Raht der Stadt Bern¬
+#facs_12_r4l8 Demnach auff Jüngst gehaltner Badischer Regleistung, der Müntze
+#facs_12_r4l9 halb geschloßen und verabscheidet worden, daß die Reichs Münz¬
+#facs_12_r4l10 Dar ist, du, so vnß dem Römischen Reich, und deßen der Eidtgnoschafft
+#facs_12_r4l11 vernachbarten Landen, Ins Landt kommendt, mit weiter hinein
+#facs_12_r4l12 gebracht noch abgenomen, sondern erß denselben an solche Ver¬
+#facs_12_r4l13 nachbarke, Leiserische Landt grenzenden Eidtgnößischen
+#facs_12_r4l14 Onten, Widerumb Ins Rich- und deßen Landt vnd gepint¬
+#facs_12_r4l15 Verbraucht und außgegeben werden soll, bei poen dar
+#facs_12_r4l16 Confiscation, Habend wir nit ermanglen wollen, deßen
+#facs_12_r4l17 dich, wie übrige dort gegen den Keiserischen Landen geseßen
+#facs_12_r4l18 amotleüth, Zuberichten: Maßen hiemit der meinung, und
+#facs_12_r4l19 zu dem und beschicht, daß meiniglich in Deiner Verwaltung
+#facs_12_r4l20 Deßen durch Verkündung vom Canzel zur nachricht undt
+#facs_12_r4l21 deßen sich gemeß zu erhalten, der wahrmt werde, Alß
+#facs_12_r4l22 Du dan gethun, und volgendts darob zuhalten müßen
+#facs_12_r4l23 Wirst. Datum 17. Augusti 1674.

@@ -1,0 +1,127 @@
+Law ID: BER.01.001.1368
+Name: Ynsächen wider der Underrichteren Unbefugsamme, diejenigen so umb Hurey oder Ehebruch anclagt werden, zur eidtlichen Justification zehalten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 116/116
+# High similarity (>=50%): 104
+# Low similarity (<50%): 12
+# Not found: 0
+#
+#facs_91_r4l18 thuij
+#facs_91_r4l19 Wangen
+#facs_91_r4l20 Eherberg, Burgdorff, Landtshut
+#facs_91_r4l21 1
+#facs_91_r4l22 Arirangen, Wipp
+#facs_91_r4l23 Erburg
+#facs_91_r4l24 Hoffingen, Biberstein, Schenckenb. Kentzburg
+#facs_91_r4l25 Küngßfelden.
+#facs_91_r4l26 beizufügen.
+#facs_91_r4l27 Deder ym abhin Reisen mit zweyen Pferden sich befinden vnd
+#facs_91_r4l28 Ergewische Edelleüth, als Rudolff von Halwyl, Herr
+#facs_91_r4l29 zu Schöfftland, Schaffisen, Wildegg, Jeder mit
+#facs_91_r4l30 a-
+#facs_91_r4l31 zweyen Pforden, mögendurch den Herren Landtuagt
+#facs_91_r4l32 zu Leutzburg geladen worden
+#facs_92_r1l1 E die Restantz be¬
+#facs_92_r1l2 König
+#facs_92_r1l3 Thorberg
+#facs_92_r2l1 16
+#facs_92_r2l2 Beschreibung der Teutschen Amptleüthen
+#facs_92_r2l3 vffge Rechnungen.
+#facs_92_r2l4 ott
+#facs_92_r2l5 Schuldthenis Vnd Raht der Statt Bern etc.
+#facs_92_r2l6 Deweil die Zeit abermahlen herzuruckt, In deren Vnsern
+#facs_92_r2l7 geliebte Mit Raht Herr Teütsh Sekelmeister Vnndt
+#facs_92_r2l8 Vannere gewohnt sind, Vnserer Teütschen Ambtleüthen
+#facs_92_r2l9 Rechnungen abzehören, habend wir dir hiemit
+#facs_92_r2l10 beuelchen wellen, vff dem durch Sie dir angesetzt ein
+#facs_92_r2l11 lag, nämlich vff Montag den 12. Julii nechst künfftig
+#facs_92_r2l12 pracisé, mit deiner Rechnung vor Inen ohne fähle
+#facs_92_r2l13 zuerscheinen [und dich entzwischen mit baren
+#facs_92_r2l14 gältt dirgest alt verhaßt zumachen, daß du dein Restan¬
+#facs_92_r2l15 wolgemelten Vnserem Seckelmeister abrichten und
+#facs_92_r2l16 bezahlen thuyest) auch ein ordenliche Verzeichnus
+#facs_92_r2l17 wie wil jeder gattung Getreidts von Zinß vnd Heem
+#facs_92_r2l18 Vngezogen, wie vil noch einzuzuchen Vßstande, vnd
+#facs_92_r2l19 wie vil du allerley Getreidt Im Vorraht habest
+#facs_92_r2l20 deßgleichen auch die Zend Rödel, Sonnderlich vom
+#facs_92_r2l21 -
+#facs_92_r2l22 Der heürigen hinleichung, mit dir zebringen vnd
+#facs_92_r2l23 Vffzeleggen, darnach wirst dieb wüßen zerichte,
+#facs_92_r2l24 2. Junij 1647
+#facs_92_r2l25 Vnd seyest darbey Gottes schirm wol beuolchen. Datt
+#facs_92_r2l26 dhuch.
+#facs_92_r2l27 Burgdorff = Montags 12 Juli
+#facs_92_r2l28 Interlack
+#facs_92_r2l29 Frutingen
+#facs_92_r2l30 Anderseen, Zinstags 13. dit
+#facs_92_r2l31 Obersibenthal¬ mit reichl. 14. dito
+#facs_92_r2l32 uider Sibenth
+#facs_92_r2l33 trachschwaldig
+#facs_92_r2l34 Bürger
+#facs_92_r2l35 signouir
+#facs_92_r2l36 prandis
+#facs_92_r2l37 domst: 15. dito
+#facs_92_r2l38 Erland
+#facs_92_r2l39 Arberg=Freitags 16. dito
+#facs_92_r2l40 Eydauer
+#facs_92_r2l41 Nangen
+#facs_92_r2l42 7 Johan
+#facs_92_r2l43 Arirangl. Montags 19 dito
+#facs_92_r2l44 Landtshut
+#facs_92_r2l45 Vin
+#facs_92_r2l46 Sambstags 17. dito
+#facs_92_r2l47 erburch
+#facs_92_r2l48 Schamkenberg
+#facs_92_r2l49 Lentzburg¬
+#facs_92_r2l50 Köngßfelden = Mitw. 21. dito
+#facs_92_r2l51 Piberstein
+#facs_92_r2l52 Zinstags 20. dito.
+#facs_92_r2l53 kaupp.
+#facs_92_r2l54 eilen
+#facs_92_r2l55 Sanch
+#facs_92_r2l56 Gobstab
+#facs_92_r2l57 Kreiszierg I. Freitey 23. dito
+#facs_92_r2l58 zeff ingh
+#facs_92_r2l59 Donstags 22. dito
+#facs_92_r2l60 Porber
+#facs_92_r2l61 lung geschriben an OberSibenth, Dracht
+#facs_92_r2l62 frauwenb½ sambst. 24. dito.
+#facs_92_r2l63 Busser
+#facs_92_r2l64 thut, derwangen, Nieberstein, Schenckenb: Sanen, Zoff ingen. Friemit
+#facs_92_r2l65 Signauw. Büreg. Arberg.
+#facs_92_r3l1 F
+#facs_92_r3l2 olt
+#facs_92_r4l1 An die Wältschen Amptleüth.
+#facs_92_r4l2 Husächsen
+#facs_92_r4l3 Wid er der Vnderrichteren vnbefugsamen, die Jenige
+#facs_92_r4l4 so umb hurey oder Ehebruch anclagt werden.
+#facs_92_r4l5 tistlichen Justification gehaltten
+#facs_92_r4l6 zur
+#facs_92_r4l7 Ich üldtheis Vnd Raht der Statt Vorn etc.
+#facs_92_r4l8 Vnß Ist von Vnserem Oberen Chorg richt alhier zuuernemen für,
+#facs_92_r4l9 komen, was maßen hin vnd wider, vnd vnnderlichsten Vnserer
+#facs_92_r4l10 Weltschen Land, etliche deß Vnderen Chorgrichts, sich so wil gwalts
+#facs_92_r4l11 anzenemen Vnderstandind, wann ein Wibs Persohn, einen
+#facs_92_r4l12 anclagt, er seye Verehelichet oder nit, mit Ire sich in huren
+#facs_92_r4l13 oder Ehebrung zugesten zehaben, der Jenige aber deß fählert
+#facs_92_r4l14 Vber alles ernstliche zusprechen, mit bekantlich sein will
+#facs_92_r4l15 das denzumahlen bedeute Vnderrichter, dem beclagten an¬
+#facs_92_r4l16 muttend, vnd gleichsam dahin halttend, sein Vermeinte un¬
+#facs_92_r4l17 huld mit dem Eid zuerk altten etc. Sachen oder Vnder¬
+#facs_92_r4l18 Richteren keines wegß gezimend, da auch vnsere Oberen
+#facs_92_r4l19 Chorrichter deßen nit befugt, Sie sich auch des gewalts Je=
+#facs_92_r4l20 manden tis en Vff zulegen, ohne Vnsern expressen beuelich, biß
+#facs_92_r4l21 hero nit vnverfangen; daher wir nit vnzimlich bewegt,
+#facs_92_r4l22 worden, dir (wie hiemit beschicht) ein ölliches zu dem und
+#facs_92_r4l23 anzedenten, damit wan dergleichen bey dir gebruchl
+#facs_92_r4l24 werden soltte, du die vnderrichter darnez ab- undt
+#facs_92_r4l25 dahin gehaltten wüste, dergleichen fähl an Vnsere Chörricht
+#facs_92_r4l26 alhier, mit Vmbstendtlichem bericht beschaffenheit der Sach
+#facs_92_r4l27 langen zelaßen, die dann das ein Vnd ander (wo vonnöthl.
+#facs_92_r4l28 an uns zebringen wüßen werden, dann wir hiemit
+#facs_92_r4l29 solch unbefugtes Eidt anmutten der Vnderrichteren gentzlich
+#facs_92_r4l30 abgestreibt und verpotten haben wellend. Dich darmit
+#facs_92_r4l31 Gott wol empfelichende. Datum 3. Junij 1647.

@@ -1,0 +1,34 @@
+Law ID: BER.01.001.3317
+Name: An die Herren Decanos auff dem Land. Die gewohnten jährlichen Capitul zu halten.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 23/23
+# High similarity (>=50%): 22
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_314_r1l1 [5]78
+#facs_314_r1l2 Collath.
+#facs_314_r2l1 An die Herren Decanus auff dem
+#facs_314_r2l2 Land
+#facs_314_r2l3 Die gewohnten Jahrlichen Capitul
+#facs_314_r2l4 zu halten
+#facs_314_r2l5 Schultheiß und Raht etc.
+#facs_314_r2l6 weilen die zeith, die gewohnten Jahrlichen
+#facs_314_r2l7 Capitul und Examina über eint
+#facs_314_r2l8 und andere Kirchendener an¬
+#facs_314_r2l9 zustellen, wiedrumb herbey gerütt
+#facs_314_r2l10 Als habend wir Euch hiemit
+#facs_314_r2l11 abermahlen errieren wollen und er¬
+#facs_314_r2l12 mahnen wollen, die behörige An¬
+#facs_314_r2l13 stalt zu verschaffen, daß selbige
+#facs_314_r2l14 zu gewohnter Zeith in entleren
+#facs_314_r2l15 bezirck gehalten, und alles ohnge¬
+#facs_314_r2l16 schochen examinirt, und den actio
+#facs_314_r2l17 8
+#facs_314_r2l18 gebührender maßen einverleibet
+#facs_314_r2l19 berde; wie geschehen werde Wir
+#facs_314_r2l20 Unß zu Eüch versehend etc. Datum
+#facs_314_r2l21 den 27. Aprilis 1720

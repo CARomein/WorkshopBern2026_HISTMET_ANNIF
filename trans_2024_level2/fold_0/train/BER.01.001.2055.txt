@@ -1,0 +1,105 @@
+Law ID: BER.01.001.2055
+Name: Die Bätler-Ordnung bei ihnen auch einzefüehren.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 94/94
+# High similarity (>=50%): 94
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_86_r1l1 155
+#facs_86_r1l2 ollatum
+#facs_86_r2l1 Sanen, Alen Lentzburg, Schencken
+#facs_86_r2l2 berg, Königsfelden, und Biberstein
+#facs_86_r2l3 Die Bätler-ordnung bei ihnen auch eingeführe,
+#facs_86_r2l4 Schuedtheisß und Raht der Stadt Bern
+#facs_86_r2l5 Weilen die Bätler-ordnung so kurtz hievor in Unser
+#facs_86_r2l6 Landen eingefünhet werden sollen, auß mangel güter
+#facs_86_r2l7 Erinnerungen, Ins stecken gerahten, hat uns obgelegen
+#facs_86_r2l8 sein wollen, von neuwein ansezen zelaßen, die sach
+#facs_86_r2l9 Zu ihrem Vortgang Zebringen, vnd nach dem die Ver¬
+#facs_86_r2l10 richtung unser Deputierten, die wir hierumb Ins¬
+#facs_86_r2l11 Überlandt geschickt, so weit erheblich gewesen, daß
+#facs_86_r2l12 Die Gemeinden in allen Ambteren, die nuzbarkeit undt
+#facs_86_r2l13 mügligkeit diser Ordnung faßen können, Und sich zu
+#facs_86_r2l14 alben, mit von sich gegebetr Versprechung vnd Zusa
+#facs_86_r2l15 erklärt, es an der Execution da fürhin weiters mit
+#facs_86_r2l16 ermanglen zulaßen, habend wir gutfunden, mit
+#facs_86_r2l17 Diser neüwen anstalt auch an alle andere ort muser
+#facs_86_r2l18 Landen fürzefahren, vnd zu solchem undt, so wil den
+#facs_86_r2l19 Ambts-Verwaltung betrifft, die wie gegen anderen
+#facs_86_r2l20 Ambtleüthen vnderen Ergeüws auch beschicht) hiemit
+#facs_86_r2l21 Zebeuelchen, ein Kirchen Gmeind nach der anderen
+#facs_86_r2l22 Denersamlen, von Ihnen die vrsachen, Warumb diß
+#facs_86_r2l23 Ordnung biß hier nit gehalten worden, zouer nemden
+#facs_86_r2l24 und dan denselben, weilen Sie mit erheblich sein können,
+#facs_86_r2l25 mit gutem zusprechen zubegegnen, also daß die große
+#facs_86_r2l26 nuzbarkeit und entladnus der frömbden Gätleren
+#facs_86_r2l27 die dise ordnung mit sich bringt, zusammen der mügligkeit
+#facs_86_r2l28 ihrer beobachtung, Ihnen Wohl fürgebildet werde, Diese
+#facs_86_r3l1 15
+#facs_86_r3l2 Wohl zu faßen und dandurch sich zu diser Erklerung zu nehmen
+#facs_86_r3l3 gequemen, daß Sie nun mehr auch es an der Execution
+#facs_86_r3l4 bestendigen haltung weiters nit ermangten laßen Willend
+#facs_86_r3l5 darumb du als dan auch schrifftliche versprachung von Ihnen zu nemen
+#facs_86_r3l6 haben Wirst, dieselbe uns Zuüberschicken, und damit man¬
+#facs_86_r3l7 zu solcher handlung wüßt, wie die Ordnung einreichten undt
+#facs_86_r3l8 anerstellen seye, so überschicken wir die hirmit die erleüterung
+#facs_86_r3l9 derselben, Wie sich mit den oberländschen Ommeinden
+#facs_86_r3l10 selbe verglichen worden, dieselbe in diser demer Handlung
+#facs_86_r3l11 Zum wegweiser und Muster für dich zuenden, Alles
+#facs_86_r3l12 mit Zuthun, der Predicanten, der meinung, Wan solche
+#facs_86_r3l13 Erklärung erhalten sein wirt, daß derselben nach die
+#facs_86_r3l14 introduction der Ordnung zur Hand genommen, und der
+#facs_86_r3l15 anfang derselben, grad auff Sr. Gallen Tag nechstkünfftig
+#facs_86_r3l16 vnd ist darbei unser Verstandt
+#facs_86_r3l17 Gisezt werde.
+#facs_86_r3l18 daß das Jenige, Was die Ordnung an sich selbst in der
+#facs_86_r3l19 beilag, von dir dem Umbtsman, vnd den Prudicanten
+#facs_86_r3l20 erforderet, die hiemit zubeobachten und zuerstatten
+#facs_86_r3l21 Der en anen Der
+#facs_86_r3l22 eingeschröpfet sein solle
+#facs_86_r3l23 lifficultaten, so Im Werck fürfallen mochten, denen
+#facs_86_r3l24 In abzufelffen nicht vermöchtest, uns Zuberichten
+#facs_86_r3l25 Müßen Wirst, weiterer Fürsechung Zeerananten,
+#facs_86_r3l26 Datum 29. Septembris 1675.
+#facs_86_r3l27 Königsfelden hatt diesen berulch auch wegen des
+#facs_86_r3l28 Ambts Biberstein
+#facs_87_r2l1 Nuraw, Brugg, und Centzburg
+#facs_87_r2l2 Ihnen die Execution der Bätler-ordnung auch
+#facs_87_r2l3 anbruslichen
+#facs_87_r2l4 Schmiedtheiß und Raht der Stadt Bern
+#facs_87_r2l5 Es ist zwar die auff unsere gantze Landtschafft gerichtete
+#facs_87_r2l6 Bätler-ordnung, Ihrer Execution halb bißhar erlegen. Wie
+#facs_87_r2l7 aber habend von des Wercks nohtwendigkeit wegen nit in
+#facs_87_r2l8 finden können, den Vortgang deßelben wider anzitreiben
+#facs_87_r2l9 vndt nach dem ein guter Theil vnser Vnderthanen, sonderlich
+#facs_87_r2l10 Des gantzen Oberlandts vndt anderstand, die guten er
+#facs_87_r2l11 innerungen u ihnen von vns beschechen, so wohl faßen
+#facs_87_r2l12 und zu gemüet nemen können, daß Sie sich versprechli¬
+#facs_87_r2l13 erklärt; es fürohin an der Execution und steifthalt und
+#facs_87_r2l14 Diser Ordnung Weiteres nit ermanglichen Zelaßen, haben
+#facs_87_r2l15 Wir hiemit auch bei sich einkommen wollen, mit der ernst
+#facs_87_r2l16 bemelchlichen ermahnung, so hiemit an sich gelanget, daß
+#facs_87_r2l17 ihr nit minder bedacht sein sollen, in disem Werck
+#facs_87_r2l18 ein wert theils zu cooperieren und bezuhalten, also
+#facs_87_r2l19 vnd dahin, daß wie ein Jede namund Ihre Armen
+#facs_87_r2l20 selbe erhalten soll, also auch solches sonderlich bei undt
+#facs_87_r2l21 vonlich bescheche, Alß denen es an mitlen hierzu, Gott
+#facs_87_r2l22 Lob, mit ermanglet. Undt die weilen Ihr hingegen
+#facs_87_r2l23 durch die haltung diser Ordnung, anderer Frömbden
+#facs_87_r2l24 und Landts Heimschen Bätleren entladen Werdent
+#facs_87_r2l25 Alß werdend Ihr von selbsten nicht ungeneigt sein,
+#facs_87_r2l26 den Jenigen Vernachbarten Gmeinden, von denen
+#facs_87_r2l27 Ihr müd eüwere Bürgerschafft eine were jährliche
+#facs_87_r4l1 158
+#facs_87_r4l2 Einkunfften wirdt nutz ungen habens, etwas beisteür widerfahre,
+#facs_87_r4l3 zelaßen, vermit lest derselben ihre Armen, die bißhar vch
+#facs_87_r4l4 stäglich vor den Hüüseren gewesen, selbe zuerhalten:
+#facs_87_r4l5 Versechen vns als hierin keines anderen, dan daß Ihr
+#facs_87_r4l6 beckers theils das Jenige Zethun sich angelegen sein laßen,
+#facs_87_r4l7 erdirt, was disem werck zu seinem Vortgang ersprießlich
+#facs_87_r4l8 vndt befürderlich sein mag. Erst mit nich. Datum 29ten
+#facs_87_r4l9 Septembris 1675

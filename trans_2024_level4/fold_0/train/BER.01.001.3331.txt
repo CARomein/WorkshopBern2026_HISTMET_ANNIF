@@ -1,0 +1,838 @@
+Law ID: BER.01.001.3331
+Name: Getrukt Mandat. Hochoberkeitl. Ordnung und Einsehen, wie bey gegenwartigen der Contagion halb gefährlichen Läuffen sich zu verhalten, und was für Anstalten zu bestellen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 827/827
+# High similarity (>=50%): 812
+# Low similarity (<50%): 15
+# Not found: 0
+#
+#facs_329_r4l7 Betrukt Mandat.
+#facs_329_r4l8 HochOberkeitl. Ordnung und Einsesen
+#facs_329_r4l9 Wie bey gegen Bartigen der Contagion halb ge¬
+#facs_329_r4l10 jährlichen Lauffen sich zu verhalten, und was
+#facs_329_r4l11 zur Anstalten zu bestellen
+#facs_329_r4l12 Wir Schultheiss Räst und Burger der
+#facs_329_r4l13 Statt Barn Thund kund Mäniglich hiemit
+#facs_329_r4l14 Daß wir zwar bereits aus Landwätterl.
+#facs_329_r4l15 Vorsorg und term 12. Aug. Letsthin wegen der
+#facs_329_r4l16 zu Marseille grassierenden Austeilenden
+#facs_329_r4l17 Stuch durch Unsere in Trink außgangen
+#facs_329_r4l18 Placcards und Mandat Vnseren Gräntz Vndter
+#facs_329_r4l19 Thane dem Genffer See nach zum Verhalt
+#facs_329_r4l20 einte und andere Articul vorgeschreiben,
+#facs_329_r4l21 Indemne aber die Leydige Nachrichten von
+#facs_329_r4l22 verschiedenen Orthen mitbringen, daß solche
+#facs_329_r4l23 anstelende seuch jehmehr und mehr inne=
+#facs_329_r4l24 sich griffen und zu genommen, als will Unß
+#facs_329_r4l25 billich obgelegen sein, daß nächst dem Egleichen
+#facs_329_r4l26 Gebätt zu Gott, umb Ableendung solcher
+#facs_330_r2l1 Schlechten Landplagen wir alle Mein
+#facs_330_r2l2 nögliche Vorsorg anwend und, da
+#facs_330_r2l3 Vnsere Liebe Bürger und Vndterthan
+#facs_330_r2l4 undter dem Siegen deß Allerhöchsten
+#facs_330_r2l5 davor noch fürbes bewahret werden
+#facs_330_r2l6 mögend, daß darauf wir gestalten
+#facs_330_r2l7 sachen nach die mehrere und Ernst
+#facs_330_r2l8 haffter Anstalten durch gegenwärtigen
+#facs_330_r2l9 Publication Unseren Stätt und Lande
+#facs_330_r2l10 anzubefehlen gutbefunden, wie von
+#facs_330_r2l11 einem zum anderen folget.
+#facs_330_r2l12 I. Weilen laut glaubwürdigen Gerichten
+#facs_330_r2l13 die Seuch in Marseille merkliche
+#facs_330_r2l14 zunimmet, alß soll aller Handel und
+#facs_330_r2l15 handel mit selbiger Statt und de
+#facs_330_r2l16 mbliegenden Provinzen als Pro
+#facs_330_r2l17 mence, lanquedor! Dauphine
+#facs_330_r2l18 versaget sein, so daß künftigh
+#facs_330_r2l19 und biß solchens Verbott aufzuheben
+#facs_330_r2l20 Vnß belieben wirdt, alle auß ob
+#facs_330_r2l21 specificierten Orten, und Enden Hertauen
+#facs_330_r2l22 Personen, vieh und baaren keinerwegs
+#facs_330_r2l23 in, und durch gelaßen werden, wenn
+#facs_330_r2l24 sie gleich mit Päßen versehen wären,
+#facs_330_r2l25 Ja es würde auch wieder die Personen,
+#facs_330_r2l26 so sich von obigen Orthen heimlich oder
+#facs_330_r3l1 611
+#facs_330_r3l2 offentlich einschleichen thäten, mit Leibs
+#facs_330_r3l3 oder Abens Straff verfahren werden; Vom
+#facs_330_r3l4 obschen wir alle von anzogenen Orthen her¬
+#facs_330_r3l5 kommende Waaren insgemein verbiethen,
+#facs_330_r3l6 so wollen wir, daß hierunter noch In
+#facs_330_r3l7 wiederheit begriffen sey sollen alle wollen
+#facs_330_r3l8 Späderen, Bettgezeug und Gewandt, alles
+#facs_330_r3l9 Lader, Peltz, Wullen und Leuenzeng, wie
+#facs_330_r3l10 auch zuvor, faden, und Andere GifftWehiger
+#facs_330_r3l11 sachen, alß welches auf betretten, und
+#facs_330_r3l12 genuegsame Erfahrung, daß es von
+#facs_330_r3l13 solchen verbottenen Orthen herkone, ver¬
+#facs_330_r3l14 Brant berden solle.
+#facs_330_r3l15 II. Was die vbrige ohnverdächtige, und von
+#facs_330_r3l16 anderen ohnverdächtigen und nicht ver¬
+#facs_330_r3l17 bettenen Orthen herkommende Personen, Vieh
+#facs_330_r3l18 und Güeter betrift, so werden dieselbe
+#facs_330_r3l19 zwar in Unser Land eingelasten, wann sie
+#facs_330_r3l20 nit einem beglaubten Schry des Inhalts
+#facs_330_r3l21 begleitet sein werden, daß dieselbe von
+#facs_330_r3l22 und an Orthen, wo reine und gesunde
+#facs_330_r3l23 lüßt und keine seuch noch verdacht
+#facs_330_r3l24 derselben ist, harkomen, gewachsen, gesamm¬
+#facs_330_r3l25 let, verarbeitet und gepacket, und davon
+#facs_330_r3l26 garnichts vom verdächtigen Orthen herkommen.
+#facs_330_r3l27 noch durchpassiert seye: Er sollen auch
+#facs_331_r2l1 für wägen und Pferd, wie auch für
+#facs_331_r2l2 die Fuhrleüth an einem Jeden Ort
+#facs_331_r2l3 wo sie Abfahren, absonderlich attestiret
+#facs_331_r2l4 werden, daß Zuheleüth, wägen
+#facs_331_r2l5 Pferdt Junet vierzig Tagen von dato
+#facs_331_r2l6 der Attestation an keinen Verdächtigen
+#facs_331_r2l7 Orthen sich aufgehalten, noch die
+#facs_331_r2l8 Euhr leuth mit Leüthen, so von Ver¬
+#facs_331_r2l9 dächtigen Orthen hertomen, ge¬
+#facs_331_r2l10 schafft gepflogen haben, maßen, da
+#facs_331_r2l11 sich einiger Zweyffel oder Verdacht
+#facs_331_r2l12 wegen dero Gesundheitsscheinen er¬
+#facs_331_r2l13 augnen solte, die auf solchen Fuhren
+#facs_331_r2l14 befindtliche Waaren vor deren
+#facs_331_r2l15 Emlaßung auch in der Quarantain
+#facs_331_r2l16 verlassen, und weder fuhren, Pferdt.
+#facs_331_r2l17 noch leegen eingelasen werden solle
+#facs_331_r2l18 III. Es solle auch keine Brieffen, so nicht
+#facs_331_r2l19 geräucheret, auf den Gräntzen ab¬
+#facs_331_r2l20 genomen, noch auß den Post stuben
+#facs_331_r2l21 einiche Brieffen, ohne Nachmahlige be¬
+#facs_331_r2l22 Räuchetung weder verschickt, noch
+#facs_331_r2l23 gekragen werden.
+#facs_331_r2l24 Ebenmäßig wirdt sordnach allen
+#facs_331_r2l25 IV
+#facs_331_r2l26 Landstreichern, Hütten und Brätzen, Trägern
+#facs_331_r5l1 v. 613
+#facs_331_r5l2 Außreiseren, auch insgesammt allein,
+#facs_331_r5l3 beimbstreichenden Hättel Gesind gebotten
+#facs_331_r5l4 nach Verkündung dieser Mandats mert
+#facs_331_r5l5 den Nächsten 3. darauf folgenden Tage
+#facs_331_r5l6 Bey
+#facs_331_r5l7 Vnsere Gottmäßigkeit zu von
+#facs_331_r5l8 straff, wie hienach vermelt, wo sie wei¬
+#facs_331_r5l9 ters betretten würde.
+#facs_331_r5l10 Eingegen bleibt der Einhritte in Vnser
+#facs_331_r5l11 Gottmäßigkeit noch fürbas zugelaßen
+#facs_331_r5l12 und offen, denen Bürgern, Undterthane
+#facs_331_r5l13 und LandtsEinwohnern von benachbahrten
+#facs_331_r5l14 Eydtgnößl. Kobs. Orthen, welche zu hinster
+#facs_331_r5l15 treibung deß beförchtenden übers gleiche
+#facs_331_r5l16 und genugsame Anstalten verfuegen,
+#facs_331_r5l17 werden, danach sollen diejenige, so Noht¬
+#facs_331_r5l18 bendiger Geschafften halb Vnsere Land
+#facs_331_r5l19 e
+#facs_331_r5l20 betretten müsse, mit gnugsame
+#facs_331_r5l21 Gesundseits Scheinen versehen sey selbige
+#facs_331_r5l22 auff Erforderen verlesen zu können.
+#facs_331_r5l23 So ist auch der Eintritt für daß offen,
+#facs_331_r5l24 solchen anderen Reizenden Personen, wie einen
+#facs_331_r5l25 Handwerts Gesellen, so von ohnverdächtigen
+#facs_331_r5l26 Ortenerkommen, jedoch, daß alle eintreffenden
+#facs_331_r5l27 sont
+#facs_331_r5l28 mit glaublänedigen Gesundheits Sche
+#facs_331_r5l29 versehen seyen, darinnen Ihre Statur, haar
+#facs_331_r5l30 im Alter beschrieben, damit sie solche auff
+#facs_331_r5l31 abferen ausweisen können.
+#facs_332_r3l1 für wägen und Pferd, wie auch
+#facs_332_r3l2 die Zuhrleüth an einem Jeden Ort
+#facs_332_r3l3 wo sie abfahren, absonderlich attestiren,
+#facs_332_r3l4 werden, daß Fuhrleuth, wägen und
+#facs_332_r3l5 Pferdt Quert vierzig Tagen von dato
+#facs_332_r3l6 der Attestation an keinen Verdachten
+#facs_332_r3l7 bethen sich aufgehalten, noch die
+#facs_332_r3l8 führleuth mit Leüthen, so von Ver¬
+#facs_332_r3l9 dächtigen Orthen hertome, ge¬
+#facs_332_r3l10 schafft gepflogen haben, maßen, da
+#facs_332_r3l11 sich einiger Zweyffel oder Verdacht
+#facs_332_r3l12 wegen dero Gesundheitsscheinen er¬
+#facs_332_r3l13 fangnen solte, die auf solchen Fuhren
+#facs_332_r3l14 befindtliche Waaren vor deren
+#facs_332_r3l15 Emlaßung auch in die Quarantai¬
+#facs_332_r3l16 Verlesen, und weder fuhren, Pferdt
+#facs_332_r3l17 noch legen eingelasen werden solle
+#facs_332_r3l18 III. Es sollen auch keine Brieffen, so nicht
+#facs_332_r3l19 geräucheret, auf den Gräntzen ab¬
+#facs_332_r3l20 genommen, noch auß den Post stuben
+#facs_332_r3l21 muhe Versten, ohne nochmahlige be¬
+#facs_332_r3l22 räucherung weder verschickt, noch
+#facs_332_r3l23 gekragen werden.
+#facs_332_r3l24 Ebenmäßig wirdt hardnach allen
+#facs_332_r3l25 Landstreichere, Hütten und Brätzen, Träger
+#facs_332_r6l1 1613.
+#facs_332_r6l2 Außreiseren, auch zusgesammt allein
+#facs_332_r6l3 heimbstreichenden Hättel Gesind gebotten.
+#facs_332_r6l4 nach Verfündung dieser Mandatsmerk
+#facs_332_r6l5 den Nächsten 3. darauf folgenden Tage
+#facs_332_r6l6 , bey
+#facs_332_r6l7 Vnsere Gottmäßigkeit zu raü¬
+#facs_332_r6l8 straff, wie hienach vermelt, wo sie wei¬
+#facs_332_r6l9 ters betretten würden.
+#facs_332_r6l10 Eingegen bleibt der Einhritte in Vnsern
+#facs_332_r6l11 Gottmäßigkeit noch fürbas zugelaßen
+#facs_332_r6l12 und offen, denen Bürgern, Undterthane
+#facs_332_r6l13 und LandtsEinwohneren von benachbahrten
+#facs_332_r6l14 Eydtgnößl. lobl. Orthen, welche zu hindten
+#facs_332_r6l15 Freibung deß beförchtenden übels gleiche
+#facs_332_r6l16 und genugsame Anstalten verfuegen.
+#facs_332_r6l17 werden, danoch sollen diejenige, so Noht¬
+#facs_332_r6l18 bendiger Geschäfften halb Vnser Land¬
+#facs_332_r6l19 betretten mueßen, mit gnugsamen
+#facs_332_r6l20 Gesundheits Scheinen versehen sey selbige
+#facs_332_r6l21 auff Erforderen verlesen zu können
+#facs_332_r6l22 So ist auch der Eintritt fürbaß offen,
+#facs_332_r6l23 solchen aus einen Reizenden Personen, wie auch
+#facs_332_r6l24 handwerts Gesellen, so von ohnverdächtigen
+#facs_332_r6l25 erten herkannen, Jedoch, daß alle eintreffenden
+#facs_332_r6l26 mit glaublänedigen Gesundheits Schei¬
+#facs_332_r6l27 Versehen seyend, darinnen Ihre Statur, Haar
+#facs_332_r6l28 und Alter beschrieben, damit sie solche auf
+#facs_332_r6l29 abferern auszweisen können
+#facs_333_r3l1 hierbey wollend wie auch Manigl.
+#facs_333_r3l2 vorwähnet haben, beiden andere Lob
+#facs_333_r3l3 dans le
+#facs_333_r3l4 Orth der Eydtgnoßschafft auch Nie¬
+#facs_333_r3l5 ohne Gesundheits Schein passieren las¬
+#facs_333_r3l6 werden, zu Abmeidung Ohngemachs
+#facs_333_r3l7 rich allwegen bey vorhabenden Aus¬
+#facs_333_r3l8 gang auß unseren Landen mit Schein
+#facs_333_r3l9 so in Landschreibereyen und in Mange
+#facs_333_r3l10 deren von denen darzu geordneten ohn-
+#facs_333_r3l11 bezeichung einichen Pfennigs werden
+#facs_333_r3l12 ertheilt werden, zu versehen, da es die
+#facs_333_r3l13 Meinung hat, daß diesere ertheilende
+#facs_333_r3l14 Päs. 14 Tag lang gültig Erkennt leere
+#facs_333_r3l15 sollen: Umb Passpatenten aber für Per¬
+#facs_333_r3l16 sey oder Vaaren, so ausser der Eydt¬
+#facs_333_r3l17 gnoßschaftt verreisen, hat man
+#facs_333_r3l18 von deren Erforderlichen Form und
+#facs_333_r3l19 authoritet liegen, wie vorhin, in hiesigen
+#facs_333_r3l20 Cantzley anzugeben.
+#facs_333_r3l21 VIII. Der Eingangen und Päßen halb von
+#facs_333_r3l22 Außenhar in Vnsere Land wirdt hiemit
+#facs_333_r3l23 Vnsern Amthleüthen alles Ernstes auf¬
+#facs_333_r3l24 erlegt und befohlen, daß ein Jeder nach
+#facs_333_r3l25 beschaffenheit seines Amthr, nicht mehr
+#facs_333_r3l26 alß Einen, Klrey, und Wauer mein
+#facs_333_r3l27 bährlich, auf das höchste drey Paß, Eingang
+#facs_333_r5l1 und Straßen in, und durch sein Amth offen
+#facs_333_r5l2 laßen, deren sich die Reizenden zu Pferdt.
+#facs_333_r5l3 Fueß bedienen sollen; hingegen sohlen, von
+#facs_333_r5l4 gedachten Unseren Amthleüthen, alle übrige
+#facs_333_r5l5 Päs, Eingang und Nebendwegen in
+#facs_333_r5l6 & c.
+#facs_333_r5l7 Ämter verspehrt verschloßen werden.
+#facs_333_r5l8 war also, daß neben Alldortiger Aufstetung
+#facs_333_r5l9 mes Pfahls, an welchem ein blach mit folgen¬
+#facs_333_r5l10 den Worten auf Teutzen, und Frantzösisch
+#facs_333_r5l11 geschriebe
+#facs_333_r5l12 Bey hoher Straff verbottene Straß
+#facs_333_r5l13 Chemin deffendu sous Chatiment Ri
+#facs_333_r5l14 joureux,
+#facs_333_r5l15 dergleichen Päß und Eingang gespehret
+#facs_333_r5l16 werden, entweders mit zweyen, zu beyde
+#facs_333_r5l17 seithen aufgerichteten Holtzern und Pfahlen
+#facs_333_r5l18 darin ein loch gemacht, das eine Stang
+#facs_333_r5l19 wodurch köne gestecket werden. Oder mit
+#facs_333_r5l20 Ausstwerffung Graben, Verzäunung den
+#facs_333_r5l21 Straßen. Ich nach Beschaffenheit der Orten
+#facs_333_r5l22 Gleicher weiß soll durch Mittel der Flüßen
+#facs_333_r5l23 Vnsers Landes, so weith sie an benachbahrte
+#facs_333_r5l24 vngrantzend sind, alß der lange der Aaren
+#facs_333_r5l25 und der Zahl nach aller Eintritt frembder
+#facs_333_r5l26 Personen und waaren in Unser Bottmäßigkeit
+#facs_333_r5l27 ohn allein über die Bouggen, gleich den
+#facs_333_r5l28 ohnerlaubten Eingangen, allerdings verbotten
+#facs_334_r3l1 sein; zu dem und die Schiff und weid
+#facs_334_r3l2 ling auf der seithen Unser Gottmaßen
+#facs_334_r3l3 keit nicht nur angeschloßen, sondern
+#facs_334_r3l4 nach bewanten dingen, in die Nächste
+#facs_334_r3l5 dörffer oder Schloßer gefüehet werden
+#facs_334_r3l6 sollen, bey Confiscation des Schiffs
+#facs_334_r3l7 und Abstraffung sowohl der Füehre
+#facs_334_r3l8 als gefuehrten an Leib oder Guth,
+#facs_334_r3l9 Die Buehrer wohnnd gleich auf
+#facs_334_r3l10 Vnserer, oder auch seithin des flußes
+#facs_334_r3l11 4
+#facs_334_r3l12 In Ansehen den deß Bieler
+#facs_334_r3l13 Neuwenburger Ses bleibt zwar
+#facs_334_r3l14 alldortigen benachbahrten, und mit
+#facs_334_r3l15 Vauor und Liechst im Land gesessen
+#facs_334_r3l16 und bekanten Undterthans zu gelasen
+#facs_334_r3l17 sich der überfahrt Fürbas zu bedienen
+#facs_334_r3l18 jedoch, daß niemand alß bekanten
+#facs_334_r3l19 Einlohner der ende eingeschaffet
+#facs_334_r3l20 Berdin, und keine Landstreicher
+#facs_334_r3l21 vagierende Sattler Außreißer, obgleich
+#facs_334_r3l22 Die Gesundheits Scheinen hätten, mitge¬
+#facs_334_r3l23 nomen hätten; Sonsten wann bey den
+#facs_334_r3l24 Anländungen und Besichtigung der
+#facs_334_r3l25 Schiffen sie im Fehler der Wiederhandlung
+#facs_334_r3l26 freunden wurden, die Eingeschiffeten nicht
+#facs_334_r5l1 allein zuemt gewisen, sondern auch
+#facs_334_r5l2 beitere überfahrt neben obvermelter Confis¬
+#facs_334_r5l3 ation der Schiffen, und schwehrer Straß an
+#facs_334_r5l4 Leib oder Guth verbotten sein soll,
+#facs_334_r5l5 Gleichwie Obenher außgetruntt ist welche
+#facs_334_r5l6 personen und wären der Eintritt über Lan¬
+#facs_334_r5l7 in Vnser Gottmäßigkeit offen stehet, also
+#facs_334_r5l8 hat es in Ansehen der Schiffarth auf dem
+#facs_334_r5l9 Genffer See gleiche Meinung, daß mit
+#facs_334_r5l10 Vorbehrung abstehender Einschrautungen,
+#facs_334_r5l11 im Gleiches und Mehreres nicht bewilliget,
+#facs_334_r5l12 sey solle: Zu mehrerer Einherheit aber
+#facs_334_r5l13 habend wir Geleiße Porth dem Genffertzen
+#facs_334_r5l14 nach benamst, an welchen allein und
+#facs_334_r5l15 "
+#facs_334_r5l16 sonsten an keinem Orthen frembde und
+#facs_334_r5l17 außer Büth und Waaren auß, und
+#facs_334_r5l18 migeschiffet werden sollen; als nemmlich
+#facs_334_r5l19 zu Neulwenstatt, Vivis, Onchy, Morsee
+#facs_334_r5l20 Roll und Neulas
+#facs_334_r5l21 Den Saffögeren dann soll ebenfahls (wie von
+#facs_334_r5l22 XII
+#facs_334_r5l23 Ihnen gegen Unß beschehen :/ der eintritt in
+#facs_334_r5l24 wiesige Land und überfarten auf dem See
+#facs_334_r5l25 und Khodan gäntzlich verjaget sein
+#facs_334_r5l26 Zu Verwahrung der Erlaubten GräntzPäße
+#facs_334_r5l27 1
+#facs_334_r5l28 und Straßen, auch abforderung
+#facs_335_r2l1 Examination der Gesundheits Scheinen soll,
+#facs_335_r2l2 Jeden Gräntz Orts drey Männer beständig
+#facs_335_r2l3 Verordnet sein, deren der Einte ein Verstän¬
+#facs_335_r2l4 diger Mann, welcher wohl lesen und schreibe
+#facs_335_r2l5 käme, zu dem und auch derselbe mit
+#facs_335_r2l6 Eydtlicher Pflicht belegt, und auß Ober¬
+#facs_335_r2l7 leitl. Sold soll bezahlet werden, welchen
+#facs_335_r2l8 dan obliegen wirdt, die ankommende
+#facs_335_r2l9 samt Ihren Gesundheits Scheinen zu
+#facs_335_r2l10 examinieren, die übrigen zwey Männer
+#facs_335_r2l11 aber sollen von den Gemeinden der
+#facs_335_r2l12 kehr nach, oder wie sie es Gut finde
+#facs_335_r2l13 darzu verordnet werden, jedoch nicht
+#facs_335_r2l14 einfaltige noch prasthaffte Personen
+#facs_335_r2l15 sondern solche, die sich eines Mannes
+#facs_335_r2l16 erlaßen, einen übergebenden sicherlichen
+#facs_335_r2l17 führen, auch eine Bottschafft fleißig
+#facs_335_r2l18 verrichten können.
+#facs_335_r2l19 Der Aufseher nun sowohl, alß die
+#facs_335_r2l20 Zwey zugeordnete sollen alle Tag eine
+#facs_335_r2l21 Stund Lang, nachdeme die Sonen und
+#facs_335_r2l22 gangen, und also biß in die finstere
+#facs_335_r2l23 Nacht hinein auf Ihren Posten verbleiben,
+#facs_335_r2l24 und des folgenden Morgens bey Anbrechen
+#facs_335_r2l25 Im Tag sich wiedrumb allda einfinden
+#facs_335_r2l26 und den gantzen Tag daselbsten Verharren
+#facs_335_r2l27 es wäre dan sach, daß einer oder der
+#facs_335_r3l1 619
+#facs_335_r3l2 Andere eben wegen vorfallenden solchen Ge¬
+#facs_335_r3l3 schäfften, ob dem Posten zu dem H. Amtsmann
+#facs_335_r3l4 oder Anderstwohin geschickt würde: daß
+#facs_335_r3l5 Abends, wann sie ab den Posten gehen, solle
+#facs_335_r3l6 sie im Gattung Schlagkomm, Stangen, Latten
+#facs_335_r3l7 über die Straß verschieben etc. damit ein wann
+#facs_335_r3l8 verender leicht abneinen könne, daß er nit
+#facs_335_r3l9 weiters gehen solle.
+#facs_335_r3l10 Der Aufseher dann soll denen Reisenden
+#facs_335_r3l11 so von unverdächtigen Landen oder Eydt¬
+#facs_335_r3l12 größl. Orthen herkommen, wie auch den Hand¬
+#facs_335_r3l13 wercks Gesellen, wan sie, wie obenverdeutet,
+#facs_335_r3l14 mit glaubwürdigen Gesundheits Scheine
+#facs_335_r3l15 versehen sindt, beim Eintritt deß Landtr
+#facs_335_r3l16 in Ihren Schein einschreiben, wohin sie sich
+#facs_335_r3l17 zu begeben, und welchen weg sie zu
+#facs_335_r3l18 nemmen gesinnet auch, was für eine Reute
+#facs_335_r3l19 3
+#facs_335_r3l20 sie halten, und durch welche Orth sie Ihre
+#facs_335_r3l21 Reis fortsetzen Sollind, damit sie sich gnaden
+#facs_335_r3l22 wegs auß dem Landmachen kommen; dan
+#facs_335_r3l23 sonsten, wenn sie die Abstraßen brauchen
+#facs_335_r3l24 oder über die Erforderliche Zeith sich im Land
+#facs_335_r3l25 aufhalten thaten, solche gleich den Muthlälligen
+#facs_335_r3l26 Landleufferey abgestrafft werden sollen.
+#facs_335_r3l27 Im Fahl aber die in Land herumbstreichende
+#facs_335_r3l28 Wattler von benachbahrten Orthen, wie auch
+#facs_336_r2l1 die Außreißer und Andere, denen
+#facs_336_r2l2 der Eintritt ins Landverbotten
+#facs_336_r2l3 sich dardurch nicht zurück halten,
+#facs_336_r2l4 sondern durch Abwegen, oder bey
+#facs_336_r2l5 ohnerlaubten fahrten in Unser Land
+#facs_336_r2l6 sich einzugh leiden undt erstehen wöten,
+#facs_336_r2l7 sollend dieselben auff betretten
+#facs_336_r2l8 durch die Prorosen der Gemeinden
+#facs_336_r2l9 dem OberAinthmann zugeführt
+#facs_336_r2l10 umb von demselben examiniret,
+#facs_336_r2l11 zu werden, welcher dann nach gestalt
+#facs_336_r2l12 befindenden Dingen die fehlbahren
+#facs_336_r2l13 entweder Abbrugle oder auß-
+#facs_336_r2l14 schmeitzen laßen, und sofort auß
+#facs_336_r2l15 dem Landverschicken, fahls aber
+#facs_336_r2l16 sich erweisen würde, daß ein solcher
+#facs_336_r2l17 von inficierten Orthen hertahme, unse
+#facs_336_r2l18 Täglichen Raht berichten, und der fer¬
+#facs_336_r2l19 neren Vrtheilen erwarten solle: Wann
+#facs_336_r2l20 den auch die einmassen aus dem
+#facs_336_r2l21 Land geschickten daselbe wieder be-
+#facs_336_r2l22 tretten, und erhacht werden, sollen
+#facs_336_r2l23 dieselbe nach befindenden Dingen an
+#facs_336_r2l24 Leib und Leben gestrafft; und in
+#facs_336_r2l25 sonderheit bey denen Cästern und Spithälen
+#facs_336_r2l26 dahin sie gemeinlich tringen, eine scharfe
+#facs_336_r3l1 621.
+#facs_336_r3l2 auffsicht und Execution beobachtet wer¬
+#facs_336_r3l3 den
+#facs_336_r3l4 Vnd auff daß die wiederßenstige sicherlich
+#facs_336_r3l5 entdeckt und gestraft werden mö¬
+#facs_336_r3l6 h
+#facs_336_r3l7 langet Unser Ernstliche beselch an alle in
+#facs_336_r3l8 Jede Vnsere Vnterthanen, sonderlich aber
+#facs_336_r3l9 an die HaußVatter, daß, im fahl dergleichen
+#facs_336_r3l10 Gattler und Landstreicher von benachbahrte
+#facs_336_r3l11 Orten, wie auch Außreißer sich bey Ihren
+#facs_336_r3l12 Zeigere anmelden, sollen sie alsobald
+#facs_336_r3l13 oder, wann diese Leuth bey Ihnen übernachtet,
+#facs_336_r3l14 findt, am Morgen die bestellten Proceßen
+#facs_336_r3l15 oder die Nachstgelegenen Amen, weibel
+#facs_336_r3l16 oder andere Unterbeamthätete berichten,
+#facs_336_r3l17 daß solche Leüth sich bey Ihnen Einfindung
+#facs_336_r3l18 welche dan selbe abhohlen, und auf den
+#facs_336_r3l19 bestimmten Samuel Platz zur Führung auß
+#facs_336_r3l20 dem Landbegleiten werden, alles bey poen
+#facs_336_r3l21 jenigen
+#facs_336_r3l22 der Gefangenschaft gegen
+#facs_336_r3l23 zu exequieren, so solche Leuth nicht obgesetz
+#facs_336_r3l24 der maßen anzeigen werden.
+#facs_336_r3l25 Da es im übrigen die Meinung hat, daß dem
+#facs_336_r3l26 Professoren, wann daß Sattlgesinds viel ware
+#facs_336_r3l27 so er zu führen hätte, von der gemeind die
+#facs_336_r3l28 angsamme hülfft solle zugeben werden, der
+#facs_336_r3l29 beyhäufigen Hoffnung daß, sintemahlen das
+#facs_336_r3l30 gen
+#facs_336_r3l31 herumbisch beiffen der Gättlern bey diesen ge¬
+#facs_336_r3l32 fährlichen Zeiten liechtlich ein großes übel
+#facs_337_r2l1 /: dar Par Gott weiters wie biß habe
+#facs_337_r2l2 gnädig sein wolle, über das Land
+#facs_337_r2l3 bringen konte, daß eine Jede zu
+#facs_337_r2l4 in Vnserer Gottmäßigkeit sich
+#facs_337_r2l5 desto mehr werde angelegen sey,
+#facs_337_r2l6 laßen, Ihre Armen zu versorgen
+#facs_337_r2l7 und Juret der Gemeind zu versorgen,
+#facs_337_r2l8 2
+#facs_337_r2l9 behalten
+#facs_337_r2l10 Weilen nun durch deß Allerhöchsten
+#facs_337_r2l11 güete Unsere Land vor dergleichen
+#facs_337_r2l12 schwehren Plagen biß anhero ver¬
+#facs_337_r2l13 schonet verblieben sindt, und nächst
+#facs_337_r2l14 gottes hulß um beystand wie
+#facs_337_r2l15 an sorgfältigen Landts Vätterlichen
+#facs_337_r2l16 Veranstaltungen nichts werden er¬
+#facs_337_r2l17 manglen laßen, zu bedeuten, daß
+#facs_337_r2l18 Großen James, so land und leuth
+#facs_337_r2l19 ein
+#facs_337_r2l20 11
+#facs_337_r2l21 überfallet wo solche seuchen
+#facs_337_r2l22 reißend; Also wollend wir auch
+#facs_337_r2l23 deß guts Verfrauwens gegen dieser
+#facs_337_r2l24 angehörige Land
+#facs_337_r2l25 getrösten, das eingeder, so weith
+#facs_337_r2l26 gegenwärtiges Außschreiben Ihnen
+#facs_337_r2l27 beruhert, sich die fleißige beobacht?
+#facs_337_r2l28 und Vollzeuchung werde angelegen
+#facs_337_r2l29 seig laßen, und zwar nicht nur ein¬
+#facs_337_r2l30 dem Anfang, sondern so lang, bis das
+#facs_337_r3l1 „ 623
+#facs_337_r3l2 Wir bey, beßerung der Zeiten und leutten
+#facs_337_r3l3 solche aufheben oder abänderen, minderen
+#facs_337_r3l4 oder vermehren werden, damit nit durch
+#facs_337_r3l5 deß einten oder anderen hinlaßigkeit
+#facs_337_r3l6 Verwahrlichung oder Eygenutz (darauff
+#facs_337_r3l7 nach beschaffenheit deß fählers wir hohe
+#facs_337_r3l8 Ja so gar leibs und Lebensstraff
+#facs_337_r3l9 sehen :/ das gantze Land zu Ohnwieder¬
+#facs_337_r3l10 bringlichen verderben könne: Und auff
+#facs_337_r3l11 mit
+#facs_337_r3l12 daß sich niemand der Vnseren
+#facs_337_r3l13 möge
+#facs_337_r3l14 der Ohnlaußenheit entschuldig;
+#facs_337_r3l15 alß ist Unser Meinung und befelich, daß
+#facs_337_r3l16 diesers Unser Einsehen nicht allein von
+#facs_337_r3l17 Cantzel verlesen, sondern auch, daß Jede
+#facs_337_r3l18 Henrind, da dieses wirdt kund gemacht,
+#facs_337_r3l19 Berden, sich ohne Verzug versamlen, mit
+#facs_337_r3l20 einander und teworden und Abrahten solle
+#facs_337_r3l21 wie sie diesen Unseren Willen vollstreibe
+#facs_337_r3l22 solle, da dan sie die gemeinden Ihres
+#facs_337_r3l23 Entschlußes Ihre verordnete OberAmth,
+#facs_337_r3l24 Leutur berichten sollen, damit selbige ob,
+#facs_337_r3l25 und wie die Gemeinden sich und terredt
+#facs_337_r3l26 Vnsere Verordnete Sanctet Cammer ge¬
+#facs_337_r3l27 bührend verständigen können; wie
+#facs_337_r3l28 Wie Unß zu Ihrem Gehorsamb versehen
+#facs_337_r3l29 Entlichen ist auch unser Willen, daß in den
+#facs_338_r3l1 Schloßeren, Freund, und Schul¬
+#facs_338_r3l2 fänseren Deppel von dieser Ordnung
+#facs_338_r3l3 auffbehalten werdind, damit bey
+#facs_338_r3l4 vorfallenheiten ein Jeder sich worten
+#facs_338_r3l5 berichts erhohlen könne; zurbe=
+#facs_338_r3l6 sonders aber soll Jedem Aufseher
+#facs_338_r3l7 ein Exemplar für seine Instruction
+#facs_338_r3l8 zugestellet werden. Beschehen vor
+#facs_338_r3l9 Vnser großen Rahtsverpammlung
+#facs_338_r3l10 den 2. und 3. Herbstmonath 1720
+#facs_338_r3l11 Branslation
+#facs_338_r3l12 Obiger Ordnung.
+#facs_338_r3l13 Reglement Souverain, sur ce qu'on
+#facs_338_r3l14 dit observer pour eviter que le Mal Cor
+#facs_338_r3l15 tagieux ne se communique dans le
+#facs_338_r3l16 pays
+#facs_338_r3l17 Nous l'Avoyer, Petit et Grand
+#facs_338_r3l18 Conseil de la Ville de Berne scavoir saison
+#facs_338_r3l19 a touts, par les presentes: Quoyque
+#facs_338_r3l20 par Nos soins paternels nous ayons dans
+#facs_338_r3l21 les placards et Ordonnances émanées
+#facs_338_r3l22 le 12 Aout dernier deja préscrit a Nos
+#facs_338_r3l23 sujets Limitrophes quelques articles
+#facs_338_r3l24 comme ils auront a se conduire, pour
+#facs_338_r3l25 garantie Nos says des Maladies Contagieuses
+#facs_338_r4l1 625
+#facs_338_r4l2 qui regnent actuellement a Marseille.
+#facs_338_r4l3 Comme Cependant nous apprenons avec
+#facs_338_r4l4 douleur, par les avis de divers lieux, que
+#facs_338_r4l5 des maladus Contagieuses setendent et au
+#facs_338_r4l6 mentent Considerablement, Nous nous trou
+#facs_338_r4l7 vons indispensablement obligez : outre
+#facs_338_r4l8 les prieres ardantes, que Nous recommandons
+#facs_338_r4l9 Eun Racun de faire a dieu, pour qu'il lui
+#facs_338_r4l10 plaise de detourner ce terrible fleau de dessus
+#facs_338_r4l11 nous :/ de prendre toutes ces précautions hu-
+#facs_338_r4l12 mainement possibles, pour mettre avec laide
+#facs_338_r4l13 de Dieu, Nous et Nos sujets a couvert
+#facs_338_r4l14 de ce mal formidable; a cet Effet Nous
+#facs_338_r4l15 avons trouvé a propos de publier et faire
+#facs_338_r4l16 observer rigoureusement les ordonnances
+#facs_338_r4l17 suivante.
+#facs_338_r4l18 Premierement d'autant que la seste aug
+#facs_338_r4l19 mente toujours a Marseille suivant ces
+#facs_338_r4l20 avis reçus, Nous deffendons entierement
+#facs_338_r4l21 tout Commerce avec lad. Ville et les
+#facs_338_r4l22 provinces Voisines, la province, le Languedo
+#facs_338_r4l23 et le Dauphiné, de maniere, que doresera
+#facs_338_r4l24 vant et aussy longtems, que Nous ne re-
+#facs_338_r4l25 voquerons pas la présente Ordonnance
+#facs_338_r4l26 on ne doit permettre l'entree ny le passage
+#facs_338_r4l27 pas nos pays a aucunes personnes, mar,
+#facs_338_r4l28 chandises ny Bestiaux desd. Provinces
+#facs_338_r4l29 quoyque munies de passeports et billet
+#facs_338_r4l30 de santé, et cas arrivant, que quelque.
+#facs_339_r2l1 personnes venants de ses endroits se
+#facs_339_r2l2 glissassent dans Notre pays par des
+#facs_339_r2l3 Remins detournez ou publus, elle
+#facs_339_r2l4 feront chatiez rigoureusement en leur
+#facs_339_r2l5 Corps ou en leurs vies, Et non obstant
+#facs_339_r2l6 que Nous ayons deja deffendu gene
+#facs_339_r2l7 ralement l'entrée de toutes ces Mar
+#facs_339_r2l8 chandises sorties desd. Provinces, Nous
+#facs_339_r2l9 comprenons dans cette deffence plus
+#facs_339_r2l10 particulierement les laines, plumes
+#facs_339_r2l11 assortiments de lits, cuirs, pilleteries
+#facs_339_r2l12 comme aussy toutes sortes d'etoffes
+#facs_339_r2l13 les toiles, fils et autres marchandises
+#facs_339_r2l14 auxquelles le venin de la Contagion
+#facs_339_r2l15 se peut attacher, les quelles seront in-
+#facs_339_r2l16 cessament brulléz dès que lon scaura
+#facs_339_r2l17 positivement, qu'elles viennent de
+#facs_339_r2l18 es endroits infectez vu Intervits
+#facs_339_r2l19 II. En second lieu, Pour ce qui regarde
+#facs_339_r2l20 les personnes, bestiaux et marchandises
+#facs_339_r2l21 qui viendront des pays et endroits
+#facs_339_r2l22 non suspect de peste, et non Interdit
+#facs_339_r2l23 Nous voulons bien leur permettre
+#facs_339_r2l24 entrée dans Nospays, quand elles
+#facs_339_r2l25 seront munies de Certificats, qui
+#facs_339_r2l26 attestent, quelles sortent de lieux
+#facs_339_r2l27 ou l'air et pur et sain et exempts de
+#facs_339_r3l1 1627.
+#facs_339_r3l2 Contagion et de soubcon
+#facs_339_r3l3 chandises y ayent été
+#facs_339_r3l4 emballées, et qu'aucune partie d'icelle ne soit
+#facs_339_r3l5 ar des Endroits suspect
+#facs_339_r3l6 genue, et n'aye passé
+#facs_339_r3l7 voulans en outre, que les Vorturiers ou Charé
+#facs_339_r3l8 tiers soyent munis de Certificats particuliers
+#facs_339_r3l9 in attestent tant pour eux, que pour leur
+#facs_339_r3l10 Chevaux et voitures, que depuis 40. Jours
+#facs_339_r3l11 à conter des la datte du Certificat, ils ne son
+#facs_339_r3l12 arrêtés dans aucun lieu suspect, et que le
+#facs_339_r3l13 Raretier nait eu aucune Communication
+#facs_339_r3l14 avec d'autres personnes venües des Endroits
+#facs_339_r3l15 susperts. Ordonnans, qu'au cas d'un soubion
+#facs_339_r3l16 égitime contre leurs Certificats, eux, leurs
+#facs_339_r3l17 Chevaux et leurs Marchandises seront tenues
+#facs_339_r3l18 de faire la Quarantaine, avant que de pouvoir
+#facs_339_r3l19 obtenir la permission d'intrer dans ce pays
+#facs_339_r3l20 III. En troisieme lieu. De plus nous voulons
+#facs_339_r3l21 que lon ne recoive aucunes Lettres aux
+#facs_339_r3l22 frontieres, qui nayent été parfumées, et qu'elles
+#facs_339_r3l23 e sortent des Bureaux de Postes, pour être
+#facs_339_r3l24 distribuées, sans y avoir été parfismées de
+#facs_339_r3l25 De même Nous
+#facs_339_r3l26 Nouveau
+#facs_339_r3l27 V. En quatrieme lieu
+#facs_339_r3l28 Commandons au tous Les Rodeurs, Merciers
+#facs_339_r3l29 et deserteurs, et generalement à tous les
+#facs_339_r3l30 vagabonds et gueux de profession, de vuider
+#facs_339_r3l31 le pays, a moins de 3. fois 24. heures aprez
+#facs_339_r3l32 la publication des presentes, sous peine cin-
+#facs_339_r3l33 pas enonlée contre les des Obeissans
+#facs_340_r2l1 V. En Cinquieme Lieu
+#facs_340_r2l2 Damestree
+#facs_340_r2l3 Neues Commanderes et exemple, Redeurs Par
+#facs_340_r2l4 Contre Nous permettons lentrie libre
+#facs_340_r2l5 des
+#facs_340_r2l6 dans Notre pays a tous les Bourges
+#facs_340_r2l7 hujets et habitans des ll. Cantons et
+#facs_340_r2l8 Etats Ruisses Nos voisins, qui de Conuil
+#facs_340_r2l9 avec Nous prendront les mêmes ou suffis
+#facs_340_r2l10 santes précautions et mesures, pour elon
+#facs_340_r2l11 ner ce mal Contagieux bien entendu le
+#facs_340_r2l12 pendant, qu'ils se munissent chez eux de
+#facs_340_r2l13 pillets de Santé pour pouvoir les produire
+#facs_340_r2l14 avant que d'entrer dans Notre pays
+#facs_340_r2l15 VI. En sixieme lieu. Nous permettons
+#facs_340_r2l16 aussy l'entrée au pays aux Changers
+#facs_340_r2l17 voyageurs et garçons de mêtier venants
+#facs_340_r2l18 des Endroits non suspect, pourvu
+#facs_340_r2l19 qu'ils produisent à l'entree des Certes
+#facs_340_r2l20 ficats de Santé, qui denotent non seu
+#facs_340_r2l21 lement leurs noms, mais aussy leur
+#facs_340_r2l22 stature, leur Age, la Couleur de leurs
+#facs_340_r2l23 Cheveux
+#facs_340_r2l24 VII. En septieme lieu. Comme
+#facs_340_r2l25 marcillement les autres L'Cantons et
+#facs_340_r2l26 Etats huisses ne laisseront passer person
+#facs_340_r2l27 par leurs pays sans billets de santé, Nous
+#facs_340_r2l28 avertissons tous nos Bourgeois et sujet
+#facs_340_r2l29 que lorsqu'ils voudront sortir de Notre
+#facs_340_r2l30 pays ils ayent a se pourvoir de semblable
+#facs_340_r3l1 129
+#facs_340_r3l2 pillets, qui leur seront expedies gratis dans
+#facs_340_r3l3 les secrétaireries Ballivales ou a leur deffaut
+#facs_340_r3l4 par des gens Etablis pour cela, entendants
+#facs_340_r3l5 que lesd. Billets ne seront valables que pendant
+#facs_340_r3l6 le terme de 15. Jours; Pour ce qui regarde les
+#facs_340_r3l7 passeports tant pour les personnes que pour
+#facs_340_r3l8 les marchandises et autres Effets, qui voudront
+#facs_340_r3l9 portie de la Suisse, on aura a l'adresser come
+#facs_340_r3l10 de coutume a Notre Chancellerie
+#facs_340_r3l11 Il est très serieux
+#facs_340_r3l12 VIII. En huitieme Lieu
+#facs_340_r3l13 tement enjoint a Nos Ballifs, que chacun
+#facs_340_r3l14 selon la situation de son Bailliage ne laisse
+#facs_340_r3l15 ouvert qu'un, deux ou sil est absolument
+#facs_340_r3l16 Nécessaire, trois passages et chemins, des quels
+#facs_340_r3l17 les voyageurs à Cheval et à pied doivent se
+#facs_340_r3l18 servir pour lentrée et la sortie de Nos pays
+#facs_340_r3l19 mettans en meme tems bon ordre, que tous
+#facs_340_r3l20 les passages, entrées et chemins détournés de
+#facs_340_r3l21 eur Balliage soyent fermés et bouché
+#facs_340_r3l22 par des pallissades avec une Ouverture
+#facs_340_r3l23 pour y passer une perche ou par des fossés
+#facs_340_r3l24 ou par des hayes, selon la situation des
+#facs_340_r3l25 lieux, dressants à Cote de la barricade un
+#facs_340_r3l26 poteau ou il y ait un Ecriteau sur du fer
+#facs_340_r3l27 dane attache avec cette Inscription en Alle
+#facs_340_r3l28 mand et en françois
+#facs_340_r3l29 Bey hoher Straff verbottene Straß
+#facs_340_r3l30 Chemin deffendu sous châtiment Rigoureux.
+#facs_341_r2l1 IX. En Neuprème lieu De même, ou
+#facs_341_r2l2 les Rivieres de Nos pays confinés au
+#facs_341_r2l3 Nos voisins, comme le long de l'aar et
+#facs_341_r2l4 de la tiele, il sera deffendu a toute
+#facs_341_r2l5 personnes, marchandise et effets de les
+#facs_341_r2l6 passer pour entrer dans Notre Jurisdic
+#facs_341_r2l7 autrement que par les ponts, pour cette
+#facs_341_r2l8 fin nous voulons que les Bateaux et
+#facs_341_r2l9 Nasselles du Coté de Notre Jurisdictis
+#facs_341_r2l10 Soyent non seulement enchainés à des
+#facs_341_r2l11 noteaux, mais encore que suivant
+#facs_341_r2l12 l'exigence du Cas on les transporte
+#facs_341_r2l13 dans les Villages ou dans les Chateaux
+#facs_341_r2l14 voisins sous peine de confiscation
+#facs_341_r2l15 des batteaux, et punition rigoureuse
+#facs_341_r2l16 en corps ou biens, tant des Batteliers
+#facs_341_r2l17 que des personnes qu'ils auront passé
+#facs_341_r2l18 quand même les Batteliers ne servient
+#facs_341_r2l19 pas de Notre jurisdiction
+#facs_341_r2l20 Pour le lac
+#facs_341_r2l21 X. En dixieme Lieu
+#facs_341_r2l22 de Bienne et de Neuf Chatel, il sera
+#facs_341_r2l23 permis de le passer comme cy devant
+#facs_341_r2l24 pourvu que les bateliers nembarquent
+#facs_341_r2l25 que des personnes, qui leur soyent connues,
+#facs_341_r2l26 et quils sachent avoir leur demeure
+#facs_341_r2l27 dans le voizinage de ces lacs, et qu'ils
+#facs_341_r2l28 ne recoivent dans leurs batteaux, nous
+#facs_341_r3l1 31
+#facs_341_r3l2 Rodeurs, yeux, vagabonds, deserteurs, ny
+#facs_341_r3l3 vautres Etrangers, aux quels tentrée du pays
+#facs_341_r3l4 et deffendue, non obstant, qu'ils ayent des billets
+#facs_341_r3l5 de santé, derechef sous peine de confiscation
+#facs_341_r3l6 es batteaux et châtiment rigoureux en
+#facs_341_r3l7 corps ou biens contre les Contrevenants
+#facs_341_r3l8 qui se découvriront par la visite des bateaux
+#facs_341_r3l9 qui doit etre faite en abordant bien etendu
+#facs_341_r3l10 qu'en tel cas tous les Embarques seront ren-
+#facs_341_r3l11 voyés en arriere hors de Nos pays et le
+#facs_341_r3l12 trajet ulterieur entierement deffendu
+#facs_341_r3l13 XI. En onsieme lieu. Pour ce qui regarde
+#facs_341_r3l14 la Navigation du lac de Geneve tant pour
+#facs_341_r3l15 les personnes, que pour les marchandises
+#facs_341_r3l16 Nous entendons et voulons, qu'on observe les
+#facs_341_r3l17 mêmes précautions que Nous avons préscrites
+#facs_341_r3l18 cy dessus à legard de ceux qui entrent dans
+#facs_341_r3l19 le pays par terre pour plus grande seureté
+#facs_341_r3l20 Nous etablissons certains ports, le long dud.
+#facs_341_r3l21 lac, qui sont Villeneuve, Vevay, Ouchy, Morges,
+#facs_341_r3l22 Rolle et Nyon &c. hors desquels il ne sera
+#facs_341_r3l23 pas permis dembarquer ny de debarquer au
+#facs_341_r3l24 cunes personnes ny marchandises Etrangeres.
+#facs_341_r3l25 XII. En douzième lieu. Nous deffendons
+#facs_341_r3l26 acceproquement aux Savoyards toute Entrée
+#facs_341_r3l27 de Notre pays, dit le trajet du home
+#facs_342_r2l1 Les Entrées et passages ouverts des
+#facs_342_r2l2 a
+#facs_342_r2l3 seront continuellement gardés par trois personnes
+#facs_342_r2l4 dont le premier sera homme entendu, Sachan-
+#facs_342_r2l5 dire et écrire, propre a avoir l'Inspection
+#facs_342_r2l6 et capable d'examiner avec soin les billets
+#facs_342_r2l7 de santé, lequel pour cet effet sera Asserment
+#facs_342_r2l8 et gagé de Nos deniers; Les deux autres
+#facs_342_r2l9 seront fournis par les Communes tour a
+#facs_342_r2l10 tour, ou comme elles le trouveront plus
+#facs_342_r2l11 commode; toutefois quils soyent prop
+#facs_342_r2l12 a faire la garde, et qu'ils puissent se
+#facs_342_r2l13 deffendre et se rendre Maitres d'un homme
+#facs_342_r2l14 Conduire une personne, qui leur seroit
+#facs_342_r2l15 confiée, et faire exactement un Messager
+#facs_342_r2l16 Inspecteur et les deux ajoints doivent
+#facs_342_r2l17 garder leurs postes tous les Jours Jusques
+#facs_342_r2l18 a Nuit Close et s'y retrouver le Lendemain
+#facs_342_r2l19 a laube du Jour, a moins que dans le cas
+#facs_342_r2l20 qui pouront arriver, l'Inspecteur nenvoye
+#facs_342_r2l21 un deux aupres du Ballif, ou quelquautre
+#facs_342_r2l22 part; Le soir qu'ils quitteront leur poste
+#facs_342_r2l23 Ils devront mettre une espece de barriere
+#facs_342_r2l24 ou barriede de planche au travers du
+#facs_342_r2l25 Nemin pour faire comprendre au passant
+#facs_342_r2l26 ou Voyageur, quil ne doit pas passer outre
+#facs_342_r2l27 Inspecteur marquera aux voyageurs dans
+#facs_342_r2l28 leurs billets de santé, qui viennent des Cantons
+#facs_342_r3l1 Voisins ou pays Etrangers non infectés, comme
+#facs_342_r3l2 aussy ause garçons de mêtier, aprez quils
+#facs_342_r3l3 auront reçus lesd. Billets pour suffisons et
+#facs_342_r3l4 autentiques la route quils devront tenir dans
+#facs_342_r3l5 pays laquelle ils suivront, sans secarter Sous
+#facs_342_r3l6 peine de subir le même Chatiment, qui est enoncé
+#facs_342_r3l7 cy dessus contre les Rodeurs en cas de Contravention
+#facs_342_r3l8 Et s'il arrivoit, que les Mandians, les vagabonds
+#facs_342_r3l9 et deserteurs, auxquels lentrée dans Nos pays
+#facs_342_r3l10 et deffendue, sy servient glissés par des chemins
+#facs_342_r3l11 etournes et des passages non permis, Notre
+#facs_342_r3l12 olonte est, que les prevots des Communes les
+#facs_342_r3l13 meneront aussy tot, qu'ils seront attrapé.
+#facs_342_r3l14 par devant le Ballin pour y etre examines, qui
+#facs_342_r3l15 elon l'exigence du fait les fera ou batonner ou
+#facs_342_r3l16 sustiquez et puis après conduire hors du pays
+#facs_342_r3l17 t'il arrivoit, que lon attrapat que leun, qui
+#facs_342_r3l18 seroit venu des endroits Infectés, le Ballif
+#facs_342_r3l19 en informera aussy tôt Notre Petit Conseil
+#facs_342_r3l20 pour recevoir larret de punition; Ordonnons
+#facs_342_r3l21 de plus à l'égard de ceux, qui auront deja et
+#facs_342_r3l22 hassés du pays, et y seront rentrés, qu'ils seront
+#facs_342_r3l23 punis selon l'exigence du fait, ou en leurs corps
+#facs_342_r3l24 ou en leur vie, et comme ces sortes de gens
+#facs_342_r3l25 s'adressent ordinairement aux Hopitaux et
+#facs_342_r3l26 autres Maisons, ou Nous faisons distribuer
+#facs_342_r3l27 au mone, aussy entindons nous, qu'au xd. Endroits
+#facs_342_r3l28 l'on se donne un soin tout particulier, pour l'obser¬
+#facs_342_r3l29 cation et execution de cet article
+#facs_343_r2l1 Nous ordonnons d'ailleurs aussy trés
+#facs_343_r2l2 serieusement a un Chacun de Nos sujet
+#facs_343_r2l3 particulierement aux peres de famille
+#facs_343_r2l4 que lorsque ces sortes de Vagabonds
+#facs_343_r2l5 des pays voisins, deserteurs et autres, aux
+#facs_343_r2l6 quels l'entrée du pays est deffendue, se
+#facs_343_r2l7 rencontreront auprès de leurs Maisons
+#facs_343_r2l8 ou qu'ils y auront passé la nuit, d'en
+#facs_343_r2l9 donner avis incessament ou dez le matin
+#facs_343_r2l10 suivant au prevot etabli, ou au plus
+#facs_343_r2l11 prochain gouverneur de Commune ou
+#facs_343_r2l12 autres gens d'office du voisinage, afin
+#facs_343_r2l13 quils les fassent prendre, et les mener
+#facs_343_r2l14 au rendes vous ordonne, qui sera orde
+#facs_343_r2l15 nairement auprez de l'eglise, ou du labaret,
+#facs_343_r2l16 Afin que de la on les mene incessament
+#facs_343_r2l17 hors du pays, le tout sous peine de prison
+#facs_343_r2l18 contre ceux, qui auront manqué d'in
+#facs_343_r2l19 diquer de telles personnes, bien entendu
+#facs_343_r2l20 qu'au cas, que le prevot eut beaucoup
+#facs_343_r2l21 de ces gens a amener la commune luy
+#facs_343_r2l22 Le prête toute assistance et le monde
+#facs_343_r2l23 Et dautant, que dans
+#facs_343_r2l24 nécessaire.
+#facs_343_r2l25 ces tems dangereux ces sortes de Rodeur
+#facs_343_r2l26 pourroient facilement repandre dans
+#facs_343_r2l27 Tous le pays, le mal, dont Dieu Nous
+#facs_343_r2l28 veuille préserver par sa grace, Nous
+#facs_343_r2l29 esperons, que chaque commune de Notre
+#facs_343_r3l1 um 635
+#facs_343_r3l2 Jurisdiction eu egard à sa propre conservation
+#facs_343_r3l3 apportera dautant plus de soin pour lentretien
+#facs_343_r3l4 des pauvres de leur commune, afin quils ne
+#facs_343_r3l5 s'en ecartent pas
+#facs_343_r3l6 Nous Nous assurons aussy, que chacun de
+#facs_343_r3l7 Nos Bourgeois et Sujets Pappliquera Loigneu
+#facs_343_r3l8 tement à l'observation de cette nôtre ordonnance
+#facs_343_r3l9 autant, quelle poura regarder un Chacun
+#facs_343_r3l10 et cela non seulement dans son Commencement
+#facs_343_r3l11 mais aussy longtems, que nous ne trouverons
+#facs_343_r3l12 pas apropos de la revoquer en tout, ou en
+#facs_343_r3l13 partie, reservant de langmenter ou changer
+#facs_343_r3l14 suivant lexigence des tems, àfin que par l'in-
+#facs_343_r3l15 advertance, negligence ou linteret parti
+#facs_343_r3l16 quilier des uns ou des autres, tout le reste
+#facs_343_r3l17 du pays ne soit pas plonge dans des meaux
+#facs_343_r3l18 erreparables: Voulans et ordonnons pour
+#facs_343_r3l19 plus grande précaution, et àsin que personne
+#facs_343_r3l20 ne puisse preterter lause dignorance, puisque
+#facs_343_r3l21 les contrevenants seront punis rigoureusement
+#facs_343_r3l22 et même selon l'exigence du cas, en leur
+#facs_343_r3l23 orps ou vies, que non seulement la presente
+#facs_343_r3l24 Ordonnance soit publiée incessament en chacun
+#facs_343_r3l25 mais aussy que des les présentes reçues chaque
+#facs_343_r3l26 Commune sassemble pour deliberer sur les moyens
+#facs_343_r3l27 de metre in execution toutes cette ordonnance
+#facs_343_r3l28 nptement et les plus efficacemens
+#facs_343_r3l29 le plus quil sera possible, et d'en
+#facs_343_r3l30 communiquer le Resultat à Nos Ballifs
+#facs_344_r3l1 ou leurs Lieutenants, afin quils puissent
+#facs_344_r3l2 enformer Notre Chambre de Santé
+#facs_344_r3l3 mesures, que chaque Commune aura
+#facs_344_r3l4 C'est ce que nous nous promettons
+#facs_344_r3l5 .
+#facs_344_r3l6 prises
+#facs_344_r3l7 de leur obeissance: Au reste lon gardera
+#facs_344_r3l8 dans tous les Chateaux, Maisons des
+#facs_344_r3l9 Ministres et dans toutes les Ecoles des
+#facs_344_r3l10 Exemplaires de cette Notre Ordonnana
+#facs_344_r3l11 pour que chacun y puisse avoir lui
+#facs_344_r3l12 formation Necessaire dans le cas de
+#facs_344_r3l13 besoin, et lon donnera aussy un Exemplaire
+#facs_344_r3l14 a chaque Inspecteur, qui luy tiendra la
+#facs_344_r3l15 Instruction. Donne dans Notre grand
+#facs_344_r3l16 Conseil ce 2. et 3. Septembre 1720

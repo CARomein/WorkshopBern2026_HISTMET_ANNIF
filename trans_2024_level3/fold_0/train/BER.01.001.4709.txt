@@ -1,0 +1,105 @@
+Law ID: BER.01.001.4709
+Name: Verordnung, zu Vorbeügung der Missbräuchen bey den Getreidankäufen ausser Landes.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_511
+# Matched: 94/94
+# High similarity (>=50%): 94
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_106_r3l1 Coll
+#facs_106_r3l2 holl
+#facs_106_r4l1 205
+#facs_106_r4l2 Verordnung
+#facs_106_r4l3 zu Vorbeugung der Mißbräuchen bey den
+#facs_106_r4l4 Getreidankaufen auser Landes
+#facs_106_r4l5 Ain
+#facs_106_r4l6 alle deutsch und Welsche Herren Amtleut,
+#facs_106_r4l7 vier Städte, Freyweibel und An
+#facs_106_r4l8 Schultheiß und Rath u.
+#facs_106_r4l9 Wegen den Getreide Ankaufen außer
+#facs_106_r4l10 Lands haben Wir., um Mißbrauchen vorzu¬
+#facs_106_r4l11 kommen, nöthig gefunden eine eigene Ver¬
+#facs_106_r4l12 ordnung durch den Druk ausgehen zu laßen
+#facs_106_r4l13 Mit Zustendung nun einer hinreichenden Zahl
+#facs_106_r4l14 Exemplare befehlen Wir Euch zu veranstalten
+#facs_106_r4l15 daß solche auf gewohntem Fuße in Füeren
+#facs_106_r4l16 Amte zu jedermanns Nachricht und Verhalt
+#facs_106_r4l17 bekannt gemacht werde. Geben am
+#facs_106_r4l18 20ten Februar 1793.
+#facs_106_r4l19 Publication
+#facs_106_r4l20 Wir Schultheiss und Rath den Stadt
+#facs_106_r4l21 und Republik Bern, thun kund hiermit.
+#facs_106_r4l22 daß Wir benachrichtiget worden, wie daß
+#facs_106_r4l23 die seit einiger Zeit geschehene sehr starke
+#facs_106_r4l24 Frucht.
+#facs_107_r2l1 FruchtAnkaufe in verschiedenen Augren¬
+#facs_107_r2l2 Zenden Gegenden von Deutschland den
+#facs_107_r2l3 Verdacht erregt haben, als würde vieles
+#facs_107_r2l4 von diesem in Deutschland angekauften
+#facs_107_r2l5 Getreide, wieder aus hiesiger und
+#facs_107_r2l6 andern Eydgnösischen Bottmäßigkeiten
+#facs_107_r2l7 in fremde Lande ausgeführt
+#facs_107_r2l8 Auf daherige aus Deutschland ein
+#facs_107_r2l9 gekommene Aeußerungen sind Wir
+#facs_107_r2l10 bewogen worden, zu Widerlegung
+#facs_107_r2l11 eines solchen Verdachts, und insbesonders
+#facs_107_r2l12 zu Verhinderung einer angedrohten Frucht¬
+#facs_107_r2l13 perre, und zu bestmöglicher Verhütung
+#facs_107_r2l14 des dem Vaterlande daraus erwachsen
+#facs_107_r2l15 könnenden Nachtheils, einige Maas¬
+#facs_107_r2l16 regeln festzusezen, und die gegenwär¬
+#facs_107_r2l17 tige Bekantmachung durch den Druk
+#facs_107_r2l18 ffentlich ausgehen zu laßen.
+#facs_107_r2l19 Wir haben demnach erkennt: daß
+#facs_107_r2l20 von nun an bis auf weitere Verfügung,
+#facs_107_r2l21 so wohl die Obrigkeitlich angestellten
+#facs_107_r2l22 Commissionärs, als besonders auch
+#facs_107_r2l23 alle Partikularen aus Unsern Landen
+#facs_107_r2l24 welche in Deutschland und außer Unfrer
+#facs_107_r2l25 Cott
+#facs_107_r3l1 207.
+#facs_107_r3l2 Gottmäßigkeit Getreid ankaufen wollen,
+#facs_107_r3l3 zu diesem Endzwek mit Patenten versehen
+#facs_107_r3l4 seyn sollen um sich vermittelst solcher gehörig
+#facs_107_r3l5 legitimiren zu können.
+#facs_107_r3l6 Wer nun dero
+#facs_107_r3l7 gleichen Patenten erhalten will, der soll
+#facs_107_r3l8 sich bey der verordneten Kornkammer an
+#facs_107_r3l9 melden, und daselbst anzeigen, wie viel
+#facs_107_r3l10 Getreide und an welchem Ort er selbiges
+#facs_107_r3l11 anzukaufen gedenke, anbey dafür an Eydes¬
+#facs_107_r3l12 statt angeloben.
+#facs_107_r3l13 in
+#facs_107_r3l14 1°) daß das Getreyd, welches er
+#facs_107_r3l15 Deutschland und außer Unfrer Bott¬
+#facs_107_r3l16 mäßigkeit anzukaufen begehret, blos
+#facs_107_r3l17 allein für Unsere Lande bestimt sey, und
+#facs_107_r3l18 er solches allein in seinen eigenen und
+#facs_107_r3l19 hiesiger angehörigen Gebrauch verwende
+#facs_107_r3l20 wolle;
+#facs_107_r3l21 2°) daß er also, infolg Hochobrigkeitlicher
+#facs_107_r3l22 Verordnung vom 14ten May und 26t
+#facs_107_r3l23 December 1792, nichts, weder von
+#facs_107_r3l24 diesem noch sonst von irgend einigem
+#facs_107_r3l25 andern Getreid, von welcher Art es
+#facs_107_r3l26 immer seyn möge, in andere Lande und
+#facs_107_r3l27 Lottmäßigkeiten Verkaufen und ausführen; und
+#facs_107_r3l28 3.
+#facs_108_r3l1 3°) daß er auch, so lange er im
+#facs_108_r3l2 Gemiß der ihm ertheilten Patente
+#facs_108_r3l3 seyn werde, kein ausländisches
+#facs_108_r3l4 Getreide für auswärtige Regie¬
+#facs_108_r3l5 rungen, Oerter oder Partieularen
+#facs_108_r3l6 ankaufen und an dieselben versenden
+#facs_108_r3l7 wolle.
+#facs_108_r3l8 Erst auf diese Angelobung hin,
+#facs_108_r3l9 werden den sich anmeldenden Personen
+#facs_108_r3l10 die erforderlichen Patenten, unter Un-
+#facs_108_r3l11 serm Namen und Unserm gewohnten
+#facs_108_r3l12 Standsfiegel ausgefertiget, von der
+#facs_108_r3l13 Verordneten Kornkammer unent¬
+#facs_108_r3l14 geltlich zugestellt werden.
+#facs_108_r3l15 Geben den 20ten Hornung 1793.

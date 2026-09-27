@@ -1,0 +1,448 @@
+Law ID: BER.01.001.4105
+Name: Vorsorg zu Gutem derjenigen Fabricanten, so Seiden, Wollen, Leinwand etc. diesen oder jenen Persohnen zu verarbeiten übergeben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_499
+# Matched: 437/437
+# High similarity (>=50%): 412
+# Low similarity (<50%): 25
+# Not found: 0
+#
+#facs_201_r3l1 An
+#facs_201_r3l2 Alle Teätsch und Weltsche Rmleüth,
+#facs_201_r3l3 Vier Städt, Freybeibel und
+#facs_201_r3l4 Amann
+#facs_201_r3l5 Corsorg.
+#facs_201_r3l6 Zu gatein derjenigen Fabricanten,
+#facs_201_r3l7 so Seiden, Wollen, Leinband etc.
+#facs_201_r3l8 diesen oder Jenen Per¬
+#facs_201_r3l9 sohmen zu ver¬
+#facs_201_r3l10 arbeiten über¬
+#facs_201_r3l11 geben
+#facs_201_r3l12 Schultheiß und Raht
+#facs_201_r3l13 Wir haben zur Sicherheit, und zu Gutem der¬
+#facs_201_r3l14 jenigen Fabricanten, so Seiden, Wollen, leinbau,
+#facs_201_r3l15 diesen oder Jenen Persohnen, zu verarbeiten über¬
+#facs_201_r3l16 geben und anvertrauben, die in Beylagen ent¬
+#facs_201_r3l17 haltene Vorsorg zu thun, und in Druck zu
+#facs_201_r3l18 Stadt und Land zu publicieren nöthig befunden
+#facs_201_r3l19 Derotegen Wir dieselbe Eüch /: Gleich allen Un¬
+#facs_201_r3l20 seren Teutsch und Weltschen Amtleüthen (in ge¬
+#facs_201_r3l21 nugsamen Exemplarien, und mit dem Befelch
+#facs_201_r3l22 übermachen, solche von Canzlen verlaßen, und auch
+#facs_201_r3l23 schlagen zu laßen; Gott mit Euch, Dat. d. 20.
+#facs_201_r3l24 Decembl 1758
+#facs_201_r5l1 382.
+#facs_201_r5l2 Plavard.
+#facs_201_r5l3 Wien Schultheiß und Rath der Stadt
+#facs_201_r5l4 Bern Thun kund hiemit; Demnach Wie von
+#facs_201_r5l5 Zeit zu Zeit mißfällig vernemmen müaßen, bis
+#facs_201_r5l6 maßen Unsere Fiebe und Getreibe Angehörigen
+#facs_201_r5l7 Allerhand Seiden, Leinband, Wollen- und
+#facs_201_r5l8 Baumbollen-Fabricanten hiesiger Haubt¬
+#facs_201_r5l9 uns übrigen Städten uns landen, durch die
+#facs_201_r5l10 Antreu eint- und anderer Persohnen, denen
+#facs_201_r5l11 sie Ihre Waren zu verarbeiten anvertrauben
+#facs_201_r5l12 Es seye durch Ausübung allerhand Betrügen,
+#facs_201_r5l13 oder durch heimliche Entäußerung und Ent¬
+#facs_201_r5l14 bendung derselben, öfters zu merklichen
+#facs_201_r5l15 Schaden gebracht werden: Daß derowegen Wie¬
+#facs_201_r5l16 um diesem Übel vorzubiegen, und denen
+#facs_201_r5l17 Fabricanten für Ihre verarbeitenden Waaren¬
+#facs_201_r5l18 mehrere Sicherheit zu verschaften, der unumgängl.
+#facs_201_r5l19 Rothwendigkeit zu seyn erachtet. Unserm
+#facs_201_r5l20 diß öhrtigen Willen öffentlich kund zu machen;
+#facs_201_r5l21 und alle Arbeiter der Verschiedenen Staaren
+#facs_201_r5l22 alles Ernsts zu verwahrnen, die Ihnen von
+#facs_201_r5l23 den
+#facs_201_r6l1 hohlen 86
+#facs_201_r6l2 à St
+#facs_202_r2l1 Denen Fabricanten zum Stimmen oder Leben
+#facs_202_r2l2 oder sonsten zu verarbeiten Anvertrauten;
+#facs_202_r2l3 Waaren, was Gachtung dieselben Immerstüger
+#facs_202_r2l4 mögen, nach vollendeter Arbeit, unverfälscht
+#facs_202_r2l5 und treulich denen Eigenthümmeren wieder ein¬
+#facs_202_r2l6 zu händigen: Und zwar
+#facs_202_r2l7 Erstlich die verschiedenen Seiden-Waaren
+#facs_202_r2l8 betreffend, sollen alle Seiden Arbeitere
+#facs_202_r2l9 es seyen Spinnerinnen, Winderinen, Lämmler,
+#facs_202_r2l10 welche die Ihnen anvertraubte Seiden ver¬
+#facs_202_r2l11 tauschen, verwachstlen, dämpfen schmieren,
+#facs_202_r2l12 betrüglich zurüsten, oder gar entwenden und
+#facs_202_r2l13 verkaufen wurden, betredtenden fahls, zur
+#facs_202_r2l14 Wieder-Ersatzung, und, wo sie das Vermögen
+#facs_202_r2l15 hädten, zu einer Gelt Ruß von Zwanzig
+#facs_202_r2l16 Chaleren angehalten, nicht vermögenden
+#facs_202_r2l17 fahld aber mit angemeßener Leibs-Straff
+#facs_202_r2l18 oder Lands-Verbeisung, ohne Schonen an¬
+#facs_202_r2l19 gestehen werden.
+#facs_202_r2l20 Zbeytes sollen alle Wollen- oder
+#facs_202_r2l21 Baumbolland
+#facs_202_r2l22 Arbeiter
+#facs_202_r3l1 384
+#facs_202_r3l2 Arbeiter, es seyen Kämler, Doppler, Winder,
+#facs_202_r3l3 inen, Zbirnerinnen u. dieselbe weder vertauschen,
+#facs_202_r3l4 verfälschen noch entwenden, und hernach ver¬
+#facs_202_r3l5 kaufen; Und zwar nebst Ersatzung deß Schaden
+#facs_202_r3l6 bey unnachläßlicher Buß von Zechen Thaleren
+#facs_202_r3l7 oder gemeßener Leibes- Straff, im fahl die
+#facs_202_r3l8 Übertreckern nicht das Vermögen häcken.
+#facs_202_r3l9 Drittens, da Uns auch die Beschwehrden derjenigen
+#facs_202_r3l10 Wäberen des Oberen Ergäubs und Einenthalt
+#facs_202_r3l11 vorgetragen worden, welche das Garn, so Sie
+#facs_202_r3l12 Ein und bieder auf den Märkten anhauffen,
+#facs_202_r3l13 anderen zu verbeben übergeben; Daß das ge¬
+#facs_202_r3l14 bauchte, sogenante Weiße Garn, ihnen öffters
+#facs_202_r3l15 von denen lezteren entäußeret, vertauschet oder
+#facs_202_r3l16 verbechtlet werde etc. Als haben Wir, zu hinder¬
+#facs_202_r3l17 treibung dergleichen Betrügen und Diebstählen,
+#facs_202_r3l18 verordnen bollen; daß diejenigen Wäber,
+#facs_202_r3l19 Spinneren u So mit dem ihnen anvertrauten
+#facs_202_r3l20 Garn untreu umgehen, oder davon entwenden
+#facs_202_r3l21 burden, betretenden fahls, nebst der Ersetzung,
+#facs_202_r3l22 n
+#facs_203_r2l1 Mit einer Ruß von zechen Thaleren, oder
+#facs_203_r2l2 nach Befinden, mit angemeßener Leibes.
+#facs_203_r2l3 straffe, belegt werden sollen.
+#facs_203_r2l4 Viertens, sollen alle diejenigen Unterhändl¬
+#facs_203_r2l5 welche die von denen Arbeiteren entäußerti¬
+#facs_203_r2l6 Waaren, annemmen, oder verhälen Burden
+#facs_203_r2l7 denen Dieben selbst gleich gehalten, und sowohl
+#facs_203_r2l8 in Ansehen der Seiden, als anderen Waaren,
+#facs_203_r2l9 mit gleichen Straffen, nach Beschaffenheit der
+#facs_203_r2l10 Umständen, ohne Schonen angesehen beiden.
+#facs_203_r2l11 Endlich soll von denen vernamsteten Rußen
+#facs_203_r2l12 ein Drickel Uns der Oberkeit, dem Amts¬
+#facs_203_r2l13 mann deß Ohrts ein Dridtel, und ein¬
+#facs_203_r2l14 Drittel dem Verleyder, nebst Geheimhaltung
+#facs_203_r2l15 seines Nahmens, und Befreyung von der
+#facs_203_r2l16 Straffe, fahls derselbe selbst, Mithäter wäre
+#facs_203_r2l17 heimdienen und Zugehören
+#facs_203_r2l18 Wir befehlen allen Unsteren Ober- und
+#facs_203_r2l19 Unter = Beamteten, einem jeden seines
+#facs_203_r2l20 Ohrts, fleißige Hand obzuhalten
+#facs_203_r2l21 hep Iinra
+#facs_203_r2l22 Unserer
+#facs_203_r4l1 386
+#facs_203_r4l2 Unserer Verordnung nach gelebt werde, auch
+#facs_203_r4l3 die Fehlbahren zu gebührender Straff zu Ziechen¬
+#facs_203_r4l4 Welch Unsteren Willen und Verordnung Wir in
+#facs_203_r4l5 Druck verfaßen, zu jedermans Nachricht und
+#facs_203_r4l6 Gehorsamer Befolgung, in Teutsch- und Weltschen
+#facs_203_r4l7 landen öffentlich bekant machen, an gewohnten
+#facs_203_r4l8 Orten anschlagen, und von Bäuzlen verlesen
+#facs_203_r4l9 laßen. Geben d. 20. Decembris. 1758.
+#facs_203_r4l10 Translation obigen Plavardt.
+#facs_203_r4l11 Nous L'Advoÿer et Conseil de la Ville et
+#facs_203_r4l12 Republique de Berne savoir faisons; Comme
+#facs_203_r4l13 Nous avons été informé de tems en tems, à Notre
+#facs_203_r4l14 grand de plaises, que plusieurs de Nos chers et feaux
+#facs_203_r4l15 Bourgeois et Rujets, Fabricants en soye, fil, laines
+#facs_203_r4l16 et Cottons, tant dans cette Capitale, que dans d'autres
+#facs_203_r4l17 Villes et lieux du Paÿs, font souvent des pertes
+#facs_203_r4l18 considerables par la mauvaise foy, de quelques uns
+#facs_203_r4l19 des Ouvriers, auquels ils sont obligés de confiér les
+#facs_203_r4l20 matieres pour les preparés, soit qu'ils mettent en
+#facs_203_r4l21 Oeuvre toute forte de fraude, ou même en distrainte
+#facs_203_r4l22 furtioemant
+#facs_203_r5l1 Rohlen 86
+#facs_204_r2l1 furtivement une partie: Nous aurions jugé
+#facs_204_r2l2 d'une necessité indispensable, pour mettre fin à
+#facs_204_r2l3 ces desordres, et pour procurer à Nos dits
+#facs_204_r2l4 Bourgeois, et Sujets plus de sureté pour le
+#facs_204_r2l5 maintien de leurs Fabriques, de publier Notre
+#facs_204_r2l6 présente Ordonance, et d'avertir très serieusement
+#facs_204_r2l7 tous les Ouvriers, quils ayent a rendre en
+#facs_204_r2l8 toute fidelité à leurs Proprietaires, après
+#facs_204_r2l9 l'ouvrage fait, les diverses Etoffes, qui leurs
+#facs_204_r2l10 seront confies par les Fabricans pour filer, fa-
+#facs_204_r2l11 briquer, ou preparez autrement, de quelles
+#facs_204_r2l12 espèces qu'elles puissent être, et cela de la maniere
+#facs_204_r2l13 suivante
+#facs_204_r2l14 En premier Lieu, et pour ce qui regarde les
+#facs_204_r2l15 Soÿes de differentes especes, tous les Ouvriers en
+#facs_204_r2l16 soie, fileurs, Devideurs, Cardeurs ou autres,
+#facs_204_r2l17 l’autre pieds ses ordres de ses autres sovres.
+#facs_204_r2l18 qui seront convainces d'avoir substitué frauds
+#facs_204_r2l19 leusement d'autres matieres à celle, qui leur a
+#facs_204_r2l20 été remise, ou d'avoir emploie à la preparation.
+#facs_204_r2l21 des moiens illicités pour la falsifier et en
+#facs_204_r2l22 augmenter le poids et le volume, ou d'en avoir
+#facs_204_r2l23 furtivement distrait et detourné une partie a
+#facs_204_r2l24 leur
+#facs_204_r3l1 388
+#facs_204_r3l2 Leur profit, doivent etre non seulement tenus
+#facs_204_r3l3 a restitution, mais de plus, s'ils en ont les facullés
+#facs_204_r3l4 condamnés a une amende de vingt Ecus blancs; Quand
+#facs_204_r3l5 s'ils navoient pas les moiens de la paier, ils feront
+#facs_204_r3l6 chatiés suivant la grandeur de la faute, ou par
+#facs_204_r3l7 une peine corporelle, ou par le banissement, sans
+#facs_204_r3l8 aucune grace.
+#facs_204_r3l9 En second Lieu, et quant aux Ouvriers en laine
+#facs_204_r3l10 et en lottons, qui sont emploies à carder, filer,
+#facs_204_r3l11 devider, tordre et preparer les matieres, ils devront
+#facs_204_r3l12 de même s'abstenir de les echanger, falsifier ou
+#facs_204_r3l13 distraire frauduleusement, de quelle maniere que ce
+#facs_204_r3l14 soit, le tout sous peine de restitution, et d'une
+#facs_204_r3l15 amende irremissible de dix Ecus blancs, laquelle
+#facs_204_r3l16 Amende sera pareillement convertie en un Chatiment
+#facs_204_r3l17 corporel proportioné, à la faute, si le coupable
+#facs_204_r3l18 na pas de quoi la paier.
+#facs_204_r3l19 En troisieme Lieu, Nous ayant été raportez que
+#facs_204_r3l20 plusieurs de Nos sujets, qui achetent du fil, pour
+#facs_204_r3l21 an faire faire de la foile, se plaignent, que les
+#facs_204_r3l22 Tisserands
+#facs_204_r4l1 Pohlen 80
+#facs_204_r4l2 or
+#facs_204_r4l3 à 5 x
+#facs_205_r2l1 Tiserands, auquels il remettent ce Fil lessivé
+#facs_205_r2l2 et blanchi, pour le travailler au metier, le
+#facs_205_r2l3 gardent frauduleusement, en ij substituant
+#facs_205_r2l4 d'autre fil de moindre quatité; Nous avons
+#facs_205_r2l5 jugé a propos de statuer a cet égard, que
+#facs_205_r2l6 tous le Tisserands, fileurs ou fileuses, qui
+#facs_205_r2l7 seront surpris à comettre de pareilles frauds
+#facs_205_r2l8 en substituant une espece de fil à l'autre, ou
+#facs_205_r2l9 de quelle maniere que ce puissent être, doivent
+#facs_205_r2l10 outre la restitution, être condamnés a une Amande
+#facs_205_r2l11 de dix Evis blancs, ou a une peine Corporelle,
+#facs_205_r2l12 suivant que le Juge en conoitra
+#facs_205_r2l13 En quatrieme lieu, Nous ordonons, que les
+#facs_205_r2l14 intermetteurs, qui recevront et céleront de
+#facs_205_r2l15 ces matieres distraites frauduleusements par les
+#facs_205_r2l16 Ouvriers, soient reputés comme s'ils les avoient
+#facs_205_r2l17 distrait eux meme, et par consequent condamnées
+#facs_205_r2l18 sans grace aux peines ci dessus enonces, suivant
+#facs_205_r2l19 la qualité de la matiere et les circonstances du
+#facs_205_r2l20 fait.
+#facs_205_r2l21 Finalement, à l'egard du partage des amendes
+#facs_205_r2l22 que
+#facs_205_r3l1 390
+#facs_205_r3l2 Resulteront des Deffenses cy-dessus faites, elles
+#facs_205_r3l3 appartiendront un tiers à Nous, un tiers à Notre
+#facs_205_r3l4 Baillif du Lieu, et un tiers au Delateur, pro-
+#facs_205_r3l5 mettant de plus à ce dernier, non seulement de
+#facs_205_r3l6 tenir son Nom secret, mais même de l'absondre
+#facs_205_r3l7 de tout chatiment, en cas quil ce trouve luimème
+#facs_205_r3l8 implique dans la faute.
+#facs_205_r3l9 Nous mandons et comandons à tous Nos hauts
+#facs_205_r3l10 et Pas, Officiers, de tenir la main chaque dans
+#facs_205_r3l11 sont Departements a l'execution de Notre
+#facs_205_r3l12 presente Ordonance, et à la punition de Ceux
+#facs_205_r3l13 qui pourroient y contenvenir: Et doit à cet effet
+#facs_205_r3l14 Notre dite Ordonance être public par la voie
+#facs_205_r3l15 de L'Impression, affiché par tous ou il conviendra,
+#facs_205_r3l16 et lue publiquement en Chaine, tant dans le Pays
+#facs_205_r3l17 Allemand, que dans le Pays de Vaud; Donné ci
+#facs_205_r3l18 20me Decembre 1758.
+#facs_205_r3l19 Signé
+#facs_205_r3l20 Cjancellerie de Berne
+#facs_205_r5l1 Hohlg. 80
+#facs_205_r5l2 r
+#facs_205_r5l3 à 5 p
+#facs_206_r3l1 Sire
+#facs_206_r3l2 alle H. Amtleirth Meltschen Lands
+#facs_206_r3l3 Als
+#facs_206_r3l4 Wiblispurg. Pedterlingen Oecon. et Cons.s.
+#facs_206_r3l5 Milden, Lausanne, Oron, Wikis, Morfer,
+#facs_206_r3l6 Aubone, Neüls, Bonmonto
+#facs_206_r3l7 Ifferten und Romainmotier.
+#facs_206_r3l8 Mandat
+#facs_206_r3l9 Wie auf Jedem Amt die Schreiber
+#facs_206_r3l10 redimiert werden sollen.
+#facs_206_r3l11 Schultheiß und Rath etc.
+#facs_206_r3l12 Es ist Uns zu verschiedenen Zeithen,
+#facs_206_r3l13 und bey vielen Anläßen angezeigt worden,
+#facs_206_r3l14 wie daß die würklich noch sich befindliche
+#facs_206_r3l15 Große Anzahl der Notarien im Weltschen
+#facs_206_r3l16 Land, so wohl dem Publico als ihnen selbst
+#facs_206_r3l17 nachtheylig, und Gut seyn wurde, zu Einer
+#facs_206_r3l18 nochmahligen Reduction derselben zu schreiten.
+#facs_206_r3l19 Und als darüber hin die Sach deß genäum¬
+#facs_206_r3l20 untersuchet, die Etats der Schreiberein jeden
+#facs_206_r3l21 Amts zur Hand gebracht, und darüber des
+#facs_206_r3l22 Vortrag
+#facs_206_r4l1 un allo Amt
+#facs_206_r4l2 leuth
+#facs_206_r4l3 Wiblisburg
+#facs_206_r5l1 392.
+#facs_206_r5l2 Vortrag Uns gethan worden, So haben Wir in
+#facs_206_r5l3 Ansehen dero Reduction, und bey diesem An¬
+#facs_206_r5l4 laß auch ratione dero pflicht, mitkomende
+#facs_206_r5l5 Verordung und Getruktes Mandat, theils in
+#facs_206_r5l6 Erfrüchung, theils in Erläuterung der Allbereits
+#facs_206_r5l7 vorhandenen Schreiber-Reglementen, ausgegeben
+#facs_206_r5l8 und zu künftigem Verhalt, hiemit publicieren
+#facs_206_r5l9 laßen wollen.
+#facs_206_r5l10 Weilen Wir auch aus denen eingeschibten Statt
+#facs_206_r5l11 erstehen, daß an etwelchen Orthen, Schreiber die
+#facs_206_r5l12 nicht von dem Amt sind, jedennoch mit Be¬
+#facs_206_r5l13 billigung der Amtleuthen des Ohrts für
+#facs_206_r5l14 daselbe Amt Hipulieren. Welches den
+#facs_206_r5l15 vorhandenen Schreiber = Reglementen ganz zu
+#facs_206_r5l16 Binder, und nicht in der Competentz Unserer¬
+#facs_206_r5l17 Amtleuthen ist, so wollen Wir solches, von nun
+#facs_206_r5l18 an, und für alle zutünfftige Zeiten, gäntzlich
+#facs_206_r5l19 abgesträkt, und ernstlich verbocken haben
+#facs_206_r5l20 Belangend die Weit und Gestalt wie diese Il¬
+#facs_206_r5l21 duction vor sich gehen soll? Haben Wir gut¬
+#facs_206_r5l22 funden
+#facs_206_r7l1 Lohlen 86
+#facs_206_r7l2 a
+#facs_206_r7l3 a st
+#facs_207_r2l1 Pätterlinges
+#facs_207_r2l2 Milder
+#facs_207_r3l1 funden in Anstehen des Amts Wiblispurgen
+#facs_207_r3l2 zu verordnen, daß da in der Stadt Wibli¬
+#facs_207_r3l3 spurg ein Schreiber reduciert wird, wann
+#facs_207_r3l4 zwey abgestorben seyn werden, Einer wieder¬
+#facs_207_r3l5 bestezt werden solle; auf dem Land oder
+#facs_207_r3l6 in dem Übrigen Amt dann da z bey Schreiben
+#facs_207_r3l7 reduciert werden, auch wann zwey abgestorben
+#facs_207_r3l8 einer bieder bestezt werden, und darmit so
+#facs_207_r3l9 lang für gefahren werden soll, biß nicht
+#facs_207_r3l10 mehr als die jez bestimte Zahl vorhanden
+#facs_207_r3l11 seyn wird.
+#facs_207_r3l12 In der Stadt Päckerlingen vier Schreiber
+#facs_207_r3l13 reduciert, welche alle Vier, über die in A.
+#facs_207_r3l14 1718. gesezte Zahl sich befinden, und soll
+#facs_207_r3l15 wo drey abgestorben, allwegen Einer bieder¬
+#facs_207_r3l16 bestezt werden; In dem übrigen Amt dann
+#facs_207_r3l17 da bürklich eine Stell ledig ist, soll selbige
+#facs_207_r3l18 nicht wieder bestezt werden.
+#facs_207_r3l19 In der Stadt Milden ein Schreiber Re¬
+#facs_207_r3l20 duviert, allso daß, wo zwey Abgestorben
+#facs_207_r3l21 Einer wieder bestezt werden kan; Auf dem
+#facs_207_r3l22 Land
+#facs_207_r4l1 an Milder
+#facs_207_r4l2 besonders
+#facs_207_r4l3 Lausane
+#facs_207_r4l4 sehr hierüber
+#facs_207_r4l5 Die N: Marneil
+#facs_207_r4l6 from 16th yong 1759
+#facs_207_r4l7 und durch in Dinsten
+#facs_207_r4l8 buch untergleichen
+#facs_207_r4l9 befo;
+#facs_207_r5l1 394
+#facs_207_r5l2 Laus dann, oder in dem übrigen Amt, sollen
+#facs_207_r5l3 Vier Schreiber reduciert seyn, also daß, wo¬
+#facs_207_r5l4 drey abgestorben, allwegen Einer wieder be¬
+#facs_207_r5l5 sezt werden soll.
+#facs_207_r5l6 Und da die Herschafft Bettens sich biß hieher
+#facs_207_r5l7 eines Schreibers aus dem Amt Scherliz bedienet,
+#facs_207_r5l8 so wollen Wir Euch hiemit anbefohlen haben
+#facs_207_r5l9 dieser Herrschaft zu verdeüten und zu in¬
+#facs_207_r5l10 jungieren, daß Sie diesen Curial also bald
+#facs_207_r5l11 dimittieren, und einen anderen, aus einem
+#facs_207_r5l12 von denen benachbahrten Amteren Morfer
+#facs_207_r5l13 oder Romainmotier, bestellen und gebrauchen
+#facs_207_r5l14 solle.
+#facs_207_r5l15 Da in Anstehen der Anzahl der Schreiberin
+#facs_207_r5l16 aus der Stadt Lausanne, so wohl in Ansehen
+#facs_207_r5l17 deren so von Uns¬ als deren, so von der Stadt
+#facs_207_r5l18 exciant worden, es fürbas bey den dißmahligen
+#facs_207_r5l19 bleiben, und lediglich auf dem Land, oder in
+#facs_207_r5l20 dem übrigen Amt, acht Schreiber reduciret -
+#facs_207_r5l21 werden sollen; So soll wo drey Schreiben -
+#facs_207_r5l22 auf
+#facs_207_r7l1 hohlen 86
+#facs_208_r1l1 395
+#facs_208_r1l2 Oron
+#facs_208_r1l3 Pivis
+#facs_208_r1l4 Morsed
+#facs_208_r2l1 Auf dem Land abgestorben seyn werden,
+#facs_208_r2l2 allbegen Einer wieder bestezt werden.
+#facs_208_r2l3 Wird in dem Amt Oron ein Schreiber
+#facs_208_r2l4 reduciert, allso daß, wo zwey abgestorben,
+#facs_208_r2l5 Einer wieder besezt werden soll
+#facs_208_r2l6 Wird in der Stadt Viris ein Schreiber
+#facs_208_r2l7 reduciert, allso daß, wo zwey Abgestorben
+#facs_208_r2l8 Einer wieder bestezt werden soll; Auf dem
+#facs_208_r2l9 Land oder in dem übrigen Amt aber, wird
+#facs_208_r2l10 Ein Schreiber reduciret, und wo zwey ab¬
+#facs_208_r2l11 gestorben, soll einer wieder bestezt werden
+#facs_208_r2l12 Werden in der Stadt Morster Drey
+#facs_208_r2l13 Schreiber reduciert, darvon Zwey über die
+#facs_208_r2l14 in Ao 1718. gestezte Zahl sich befinden, und
+#facs_208_r2l15 soll wo drey abgestorben allorgen Ein¬
+#facs_208_r2l16 bieder bestezt werden. In dem übrigen
+#facs_208_r2l17 Amt dann, da würblich fünff Stellen ledig,
+#facs_208_r2l18 sollen selbige nicht wieder bestezt werden
+#facs_208_r2l19 und über das aus, werden annoch drey
+#facs_208_r2l20 Schreiber redimirt, also daß wo drey ab¬
+#facs_208_r2l21 gestorben
+#facs_208_r3l1 Aubone
+#facs_208_r3l2 Neüws
+#facs_208_r4l1 B96
+#facs_208_r4l2 Abgestorben, allbegen Einer wieder bestezt werden.
+#facs_208_r4l3 soll.
+#facs_208_r4l4 Wird in der Stadt Aubone Ein Schreiber re¬
+#facs_208_r4l5 duciert, der über die in Ao. 1718. gestezte
+#facs_208_r4l6 Zahl sich befindet, und soll allso, wo zwey ab¬
+#facs_208_r4l7 gestorben, Einer wieder bestezt werden; In
+#facs_208_r4l8 dem übrigen Amt dann, da bürblich eine Stelle
+#facs_208_r4l9 ledig, soll selbige nicht wieder bestezt werden,
+#facs_208_r4l10 und über das aus, wird noch ein Schreiber redu¬
+#facs_208_r4l11 ciert, Es soll also wo zwey abgestorben, Einer
+#facs_208_r4l12 Bieder bestezt werden.
+#facs_208_r4l13 Werden in der Stadt Neubs drey Schreiber
+#facs_208_r4l14 reduciert, davon Ibey über die in Ao 1718
+#facs_208_r4l15 gesezte Zahl sich befinden, und soll, wo drey¬
+#facs_208_r4l16 abgestorben, Einer wieder bestezt werden, auf
+#facs_208_r4l17 dem Land, oder in dem übrigen Amt aber,
+#facs_208_r4l18 berden drey Schreiber reduciert, weilen sich
+#facs_208_r4l19 aber würklich funff stellen sich ledig befinden,
+#facs_208_r4l20 so könten Zwey wieder bestezt werden, so bald
+#facs_208_r4l21 sich tüechtige Persohnen darfür anmelden
+#facs_208_r4l22 Wird
+#facs_208_r4l23 bürden
+#facs_208_r6l1 Fol. 8.
+#facs_208_r6l2 à 5 p
+#facs_209_r1l1 [3]
+#facs_209_r1l2 Wird in dem Amt Bonmont Ein Schreiber
+#facs_209_r1l3 Bonmont
+#facs_209_r1l4 reduciert, deßen Stell bürblich ledig ist.
+#facs_209_r1l5 allso daß selbige nicht wieder bestezt werden.
+#facs_209_r1l6 All
+#facs_209_r1l7 ifferten
+#facs_209_r1l8 Wird in der Stadt Isterter Ein Schreiber
+#facs_209_r1l9 rediciret, und soll, wo zwey abgestorben
+#facs_209_r1l10 Einer bieder bestezt werden; auf dem Land¬
+#facs_209_r1l11 oder in dem übrigen Amt dann, da bürtlich
+#facs_209_r1l12 Zbey Stellen ledig sind, sollen selbige nicht
+#facs_209_r1l13 wieder bestezt werden; Über das aus werde
+#facs_209_r1l14 noch siben Schreiber reduciert, und soll also
+#facs_209_r1l15 bo drey abgestorben, allbegen Einer bieder¬
+#facs_209_r1l16 bestezt werden.
+#facs_209_r1l17 Romaimotierd
+#facs_209_r1l18 Werden in dem Amt Romainmotier zwey
+#facs_209_r1l19 Schreiber reduciret, deren Stelle bürklich ledig
+#facs_209_r1l20 sind, sollen allso selbige nicht bieder besetzt.
+#facs_209_r1l21 werden
+#facs_209_r1l22 An Alle Amtleich Und befehlen Euch hiermit dieses Mandae¬
+#facs_209_r1l23 zu Mänigliches hinkünfftem Verhalt und
+#facs_209_r1l24 Wüßenschaft, nicht nur öffentlich von Cantzlen
+#facs_209_r1l25 verbunden
+#facs_209_r2l1 398.
+#facs_209_r2l2 Verkünden, behörigen Ohrts affichieren, und an
+#facs_209_r2l3 alle Gerichts-Stellen Eüers Amts, die nöthigen
+#facs_209_r2l4 Doppell übergeben zu laßen, sondern auch Euer¬
+#facs_209_r2l5 steaths genaube Acht zu halten, daß dem selbigen
+#facs_209_r2l6 in allen Stuben nachgelebt werde, selbiges
+#facs_209_r2l7 auch in die Schloß-Büecher seines Ohrts zur Be¬
+#facs_209_r2l8 folgung eingetragen werde. Wie zuthun Ihr.
+#facs_209_r2l9 bestens büßen berdet; Dat. d. 21. Decembr. 1758
+#facs_209_r2l10 Zedel an Metzh. Weltch Sebelmeister und
+#facs_209_r2l11 Wenner. Sie daß obigen über ihren Vortrag per¬
+#facs_209_r2l12 Copiam berichten, und auch Exemplaria von dem
+#facs_209_r2l13 getrubten Mandat zu senden, mit gesinnen
+#facs_209_r2l14 daß, das eint, und andere seines behörigen¬
+#facs_209_r2l15 Chrts eingetragen werde, den Befelch zu ertheilen
+#facs_209_r2l16 Redel an H. Canzley Registratoran, Ihme ein
+#facs_209_r2l17 gleiches zu senden, mit dem Befelch, daß
+#facs_209_r2l18 mit, und andern, in dem Canzley Archiv, so bohl
+#facs_209_r2l19 bey dem Schreiber Reglement so in einem be¬
+#facs_209_r2l20 sonderen Tuch ist, als in dem W. Spruch Buch¬
+#facs_209_r2l21 exacté und sauber einschreiben und unter seinen
+#facs_209_r2l22 Dalo annotieren zu laßen; Acta ut supra.

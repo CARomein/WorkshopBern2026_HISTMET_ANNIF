@@ -1,0 +1,28 @@
+Law ID: BER.01.001.3262
+Name: Sie erinnern denen Haltungen der Capitlen fleissig beyzewohnen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 17/17
+# High similarity (>=50%): 17
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_180_r3l9 An Alle W. AmbtLeuth sie erweren
+#facs_180_r3l10 denen Haltungen der Capitlen fleißig
+#facs_180_r3l11 beyzewohnen.
+#facs_180_r3l12 Schultheiß und Rath der Stadt Bern
+#facs_180_r3l13 Wir habend gewahret daß verschiedene Vnsere Amts
+#facs_180_r3l14 Leüth weltschen Landts denen Versamlung und
+#facs_180_r3l15 Wollttungen der Capitlen nicht erfor derlicher
+#facs_180_r3l16 maßen bey wohnend, sondern selbe außert der acht
+#facs_180_r3l17 Gnnd, wie nun daran viel gelegen und sich gar
+#facs_180_r3l18 offt saisen ten importantz alda getragen, als wollen
+#facs_180_r3l19 Wir Dir /: gleich übrigen W. Ambtleüthen auch
+#facs_180_r3l20 beschicht /: hiemit alleß Ernsts und bey Deinem
+#facs_180_r3l21 Eydt befohlen haben, denen selben mit hindansetzung aller
+#facs_180_r3l22 übriger geschäffen geflißen beyzuwohnen und
+#facs_180_r5l1 zu verschaffen, daß aller Berichtvürdige den actis einterleibet,
+#facs_180_r5l2 und alle Partheyligkeit abgemieten werde. Wie wir Vnß zu
+#facs_180_r5l3 die Versehen habe Vollend. Soet mit der Dath. 15. Augusti vns

@@ -1,0 +1,141 @@
+Law ID: BER.01.001.3150
+Name: Zu verhinderen, dass die Underthanen die Gwehr nicht verkaufen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 130/130
+# High similarity (>=50%): 117
+# Low similarity (<50%): 13
+# Not found: 0
+#
+#facs_372_r3l19 Taglenschung
+#facs_372_r3l20 zu Ablaag der Teutschen Rechnungen
+#facs_372_r3l21 pro ao 1714; den 10 Jan 1714
+#facs_372_r3l22 Februarius
+#facs_372_r3l23 19
+#facs_372_r3l24 Thorberg
+#facs_372_r3l25 Montags den
+#facs_372_r3l26 Burgdorf
+#facs_372_r3l27 20 cts
+#facs_372_r3l28 Thun Dinstag den
+#facs_372_r3l29 21 dto
+#facs_372_r3l30 Frauwbrunen
+#facs_372_r3l31 Mitwochens den
+#facs_372_r3l32 dans la
+#facs_372_r3l33 Bussée
+#facs_372_r3l34 Buren
+#facs_372_r5l1 Grienisturg
+#facs_372_r5l2 dorstags
+#facs_372_r5l3 Landschut
+#facs_372_r5l4 Gottstatt
+#facs_372_r5l5 Hauppen Freytags den
+#facs_372_r5l6 Erlach
+#facs_372_r5l7 St. Johansen Wannstag den
+#facs_372_r5l8 Ober Spitta Sl.
+#facs_372_r5l9 Wangen
+#facs_372_r5l10 Montagé d
+#facs_372_r5l11 Bipp-
+#facs_372_r5l12 Arwangen
+#facs_372_r5l13 Sümip wale Vinstay
+#facs_372_r5l14 Arberg.
+#facs_372_r5l15 Mittwochens d.
+#facs_372_r5l16 Baucoherr
+#facs_372_r5l17 St Johansor Hauß
+#facs_372_r5l18 Brienisperger Hauß
+#facs_372_r5l19 Sonstag
+#facs_372_r5l20 Signaux
+#facs_372_r5l21 Oberso Den
+#facs_372_r5l22 Brandist
+#facs_372_r5l23 Wimmiß
+#facs_372_r5l24 Srutingen Freitags
+#facs_372_r5l25 Zweysimen
+#facs_372_r5l26 Unserfewen
+#facs_372_r5l27 Insul
+#facs_372_r5l28 unterlachen Hauß Samstag d.
+#facs_372_r5l29 Gettisweyl
+#facs_372_r6l1 22. 7to.
+#facs_372_r6l2 23. Sta.
+#facs_372_r6l3 24 dto
+#facs_372_r6l4 26th No
+#facs_372_r6l5 27. dto
+#facs_372_r6l6 28 do
+#facs_372_r6l7 Marlius
+#facs_372_r6l8 5
+#facs_372_r6l9 2 dito
+#facs_372_r6l10 3. dto.
+#facs_373_r2l1 Siechenhau
+#facs_373_r2l2 Montags' y
+#facs_373_r2l3 5. dto
+#facs_373_r2l4 Mußhaßen.
+#facs_373_r2l5 Rornherr
+#facs_373_r2l6 6 3to.
+#facs_373_r2l7 dienstags den
+#facs_373_r2l8 Nisauw
+#facs_373_r2l9 7. do:
+#facs_373_r2l10 Trachselwald Mittwochens
+#facs_373_r2l11 Lenszburg
+#facs_373_r2l12 26 dto
+#facs_373_r2l13 Biberstein Montags etc
+#facs_373_r2l14 Saanen
+#facs_373_r2l15 27 do
+#facs_373_r2l16 Aslen
+#facs_373_r2l17 Einstags den
+#facs_373_r2l18 Arburg
+#facs_373_r2l19 28 Jo
+#facs_373_r2l20 Hödingen
+#facs_373_r2l21 den
+#facs_373_r2l22 Sisentenberg
+#facs_373_r2l23 30 dto
+#facs_373_r2l24 Röngsfelden
+#facs_373_r2l25 Interlaufen
+#facs_373_r2l26 Morte
+#facs_373_r2l27 5 Aprilis
+#facs_373_r2l28 Stifft
+#facs_373_r2l29 den
+#facs_373_r2l30 Unterspittahlen
+#facs_373_r2l31 An Alle T und W. Ambtleüth
+#facs_373_r2l32 4 Stäld, Freyweibel und Amman
+#facs_373_r2l33 Zu verhinderen, daß die anderthenen die
+#facs_373_r2l34 zwehr nicht verkaufen.
+#facs_373_r3l1 1725
+#facs_373_r3l2 Sch. R. und B.
+#facs_373_r3l3 Weilen Unsere und erthanen aller ohrten in den
+#facs_373_r3l4 Land dießmahlen sich wohl bewehrt befinden; Als
+#facs_373_r3l5 ist daran gelegen, daß selbige solche gewehr zu¬
+#facs_373_r3l6 allfähliger Beschützung deß Vatterlands auch wegbe¬
+#facs_373_r3l7 haltnis und nicht etwan anderwärtig, Es seye;
+#facs_373_r3l8 oder äußert Lands verhandlen oder versetzen
+#facs_373_r3l9 thüyind; Derowegen wie jedermänglich dersor
+#facs_373_r3l10 verwahrnen zu laßen nöthig befunden, vnd die
+#facs_373_r3l11 zugleich auftragen wollen, so wohl für dich selbsten
+#facs_373_r3l12 als durch seine andere Beamtete und bestellte
+#facs_373_r3l13 darauf geflißenlich zu achten verachten zu
+#facs_373_r3l14 laßen, alles und es der Nomination und ohnauß¬
+#facs_373_r3l15 bleiblicher straaß, nämlich wan Ein unterthän¬
+#facs_373_r3l16 sein Gewähr in dem Laus verkauften würde, daß
+#facs_373_r3l17 ein solcher Einander gewehr für sich selbsten und
+#facs_373_r3l18 eines annoch für einen Armen selbiger Gemein¬
+#facs_373_r3l19 Zue straaff kaufen solle, welches Letstere
+#facs_373_r3l20 Gewähr dem Verleider, wan Er Arm mit ohnbe¬
+#facs_373_r3l21 wehrt vor anderen aus soll zu gestellet werden.
+#facs_373_r3l22 Da aber das gewehr äußert Landts verkauft
+#facs_373_r3l23 würde, soll der verkäufer Zue straff drey
+#facs_373_r3l24 Gewehr, als Eines für sich selbsten und Zwey
+#facs_373_r3l25 für Arme der Gemein kaufen, da den alle¬
+#facs_373_r3l26 weil der Verleider, so Er arm und ohnbe¬
+#facs_373_r3l27 wehrt den vorzug haben wird; Zu beiden
+#facs_374_r1l1 726
+#facs_374_r1l2 Beloehr
+#facs_374_r2l1 fählen aber, wan der Verkäufer nicht bey
+#facs_374_r2l2 Mittlen, soll derselbe, biß Er der Straaff
+#facs_374_r2l3 gung gethan haben wird, son Statt vnd
+#facs_374_r2l4 Lauw rannisiert werden; Entlicher die
+#facs_374_r2l5 spruch vnser will und meinung, daß
+#facs_374_r2l6 die Gewehr nit in die Geltstagen können,
+#facs_374_r2l7 sondern denen, so sie gehören verbleiben
+#facs_374_r2l8 sollen; Die demnach sogleich gegen allen
+#facs_374_r2l9 anderen Ambtleüthen beschicht) befalig
+#facs_374_r2l10 nende, diß dieser Einsehen zu maniglichen
+#facs_374_r2l11 nachricht und verhalt von Cantzlen pub¬
+#facs_374_r2l12 licieren zu laßen. Datum 2 febr. 1714

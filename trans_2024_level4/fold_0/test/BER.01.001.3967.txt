@@ -1,0 +1,38 @@
+Law ID: BER.01.001.3967
+Name: Wegen Führung dess Schultheissen Holzes.
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_497
+# Matched: 26/26
+# High similarity (>=80%): 26
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_26_r3l13 An
+#facs_301_r4l13 König. Scholigen, Stettler, Muri und Verhigen.
+#facs_301_r4l14 Wegen führung deß Schultheißen Holzes.
+#facs_301_r4l15 Dey angeruchter Zeit, da Nachgfl. Amts Scheill,
+#facs_301_r4l16 heiß Steiger des bestimte Schultheißen
+#facs_301_r4l17 Holz aus den Particularen Eigenen Wal¬
+#facs_301_r4l18 dungen angeschaffet werden soll; So ist
+#facs_301_r4l19 zu deßen Abnahm Tag bestimt, der 24ten 25ten
+#facs_301_r4l20 und 26te Tag dieses Monaths, deßen hiemit
+#facs_301_r4l21 maniglich von Canzten berichtet, und ernst¬
+#facs_301_r4l22 lich errinnert wird, sothanes Holz auf obbe¬
+#facs_301_r4l23 stünde Tagen ohne Pastor, und Iber anders
+#facs_32_r3l1 59.
+#facs_13_r3l1 21.
+#facs_206_r4l11 En
+#facs_302_r3l1 Ntt. Am König.
+#facs_302_r3l2 mit Auslaßung des
+#facs_302_r4l1 Richt, als in Bährschaften Puderen
+#facs_302_r4l2 unterthoß an der Oberen Schauplaz, gaßen
+#facs_302_r4l3 abzulegen, diejenigen aber so buchigt
+#facs_302_r4l4 Holz geben, sollen es wiedermahlen thun,
+#facs_302_r4l5 und in das Schloß Attmendingen hieherz;
+#facs_302_r4l6 Ottes aber mit dem heiteren vorbehalt,
+#facs_302_r4l7 daß die Puder Bahrschaft seyn, da sonsten
+#facs_302_r4l8 selbige mit Bürden abgenommen werden
+#facs_302_r4l9 Actum d. 18. Febr. 1749.

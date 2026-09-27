@@ -1,0 +1,35 @@
+BER.01.001.2650
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 26/26
+# High similarity (>=50%): 23
+# Low similarity (<50%): 3
+# Not found: 0
+#
+#facs_156_r3l1 An die under Ergenwischen
+#facs_156_r3l2 Ambtleut.
+#facs_156_r3l3 Die Neülo Jahre geschenk den Gottinn
+#facs_156_r3l4 und Gotten abzestellen.
+#facs_156_r3l5 pr
+#facs_156_r3l6 Schultheiß und Raht der Statt Bern,
+#facs_156_r3l7 4
+#facs_156_r3l8 Wir vernemens daß in Deinem Ambt
+#facs_156_r3l9 diser gebrauch seye, daß die g'vätterte Ihren
+#facs_156_r3l10 Gottin und Gotten über den Einbuns bin=
+#facs_156_r3l11 H. Tauff noch geschick für das guetjahr aus¬
+#facs_156_r3l12 richtend, so lang bis Sie in die Ehe vom Ende,
+#facs_156_r3l13 und zwar gegen den Götlin mit Kuchen
+#facs_156_r3l14 und Ribanden, gegen den Gotten aber, mit
+#facs_156_r3l15 Auchen und einflechten; Wie nun dergleichen
+#facs_156_r3l16 nußbreuch dardurch die Grätterte zu vösten
+#facs_156_r3l17 kommend, in unser Haubtstatt nicht mehr zuge¬
+#facs_156_r3l18 lassen werdend, sondern verbotten worden, als
+#facs_156_r3l19 haben Wir solcher auf dem Land, da solche geschenck
+#facs_156_r3l20 gebreuchlich gewesen, auch abstellen wollen
+#facs_156_r3l21 dir hiemit befelchende, solche ordnung undt
+#facs_156_r5l1 303.
+#facs_156_r5l2 Oberkeitlichen Willen deinen Ambtsangehörigen
+#facs_156_r5l3 von Cantzlen vnnd gemachen, damit sich ein Jegli¬
+#facs_156_r5l4 cher dergleichen geschencken fürbas zuhüeten undt
+#facs_156_r5l5 vor straff zu sein wüsse. Dat. 10. Augusti 1697.

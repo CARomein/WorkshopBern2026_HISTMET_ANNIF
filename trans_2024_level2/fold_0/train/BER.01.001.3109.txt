@@ -1,0 +1,131 @@
+Law ID: BER.01.001.3109
+Name: Wegen Viech Prästens.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_491
+# Matched: 120/120
+# High similarity (>=50%): 113
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_322_r2l1 An alle Emmenthall, und Ober
+#facs_322_r2l2 ländische AmbtLeuth.
+#facs_322_r2l3 wegen Viech Prästens.
+#facs_322_r2l4 Schultheis und Rath der Stadt Bern
+#facs_322_r2l5 Damit der anderem Viech graßierende
+#facs_322_r2l6 Prästen nicht ein mehrers überhand nenen
+#facs_322_r2l7 und das angestekte Erhalten werden möge,
+#facs_322_r2l8 habendt wir zu guthem deß gemeine
+#facs_322_r2l9 Landts nothwendig Erachtet, hier Einge¬
+#facs_322_r2l10 schlossert recept-Truken, und die mit dem
+#facs_322_r2l11 befelch zu schiken zelasen, daß du Es undt¬
+#facs_322_r2l12 dem Landtvollk zu Ihrem Behelf
+#facs_322_r2l13 austheilen und kundt machen selbst.
+#facs_322_r2l14 Dothl. 20. Aug. 1712
+#facs_322_r3l1 527
+#facs_322_r3l2 An Alle T. und W. Ambtleüts
+#facs_322_r3l3 4. Stäck, Freyweibell und Amman.
+#facs_322_r3l4 wegen den Officieren in Lebstem Krieg, so
+#facs_322_r3l5 den Soldaten Ihr gegl. nit recht bezahlt,
+#facs_322_r3l6 und Hinderhalben.
+#facs_322_r3l7 Schultheiß und Rath der Stadt Bernpp
+#facs_322_r3l8 Gleichwie Unser befelch und willen jederzeith gewesen,
+#facs_322_r3l9 daß unsere Underthang denn im letsten Krieg¬
+#facs_322_r3l10 bestandene Soldaten nicht allein der bestimbte
+#facs_322_r3l11 Sold gebührend entrichtet, sondern auch, woder
+#facs_322_r3l12 Eint oder andere auß gnugsamen dursachen nach
+#facs_322_r3l13 Hausehen erlaubtnuß erhalten, denselben deßent¬
+#facs_322_r3l14 wegen nichts zugemuthet werden solle, allsowäre
+#facs_322_r3l15 Auß nicht lieb, wan disem Unserem Willen Etwas
+#facs_322_r3l16 zu widergehandlet worden; Es will aber ver¬
+#facs_322_r3l17 i
+#facs_322_r3l18 rauthen, ob sollten Eint und andere Hauptleüth
+#facs_322_r3l19 vnd
+#facs_322_r3l20 und andere officieren denen In Unserem
+#facs_322_r3l21 Kriegsath gestandenen Soldaten, für die ney und
+#facs_322_r3l22 dan nach Haußzegehen Erlangte Erlaubtnuß
+#facs_322_r3l23 etwas in gelltzugemuthet, abgeforderet oder
+#facs_322_r3l24 zurück behallten haben; Derowegen dan wie dir
+#facs_322_r3l25 gleich allen anderen Unsery Ambtleüthen
+#facs_322_r3l26 hiemit zu befehlen guthfunden, von Cantlen ver¬
+#facs_322_r3l27 dahin, daß wan deren wären
+#facs_322_r3l28 kunden Zelaßen,
+#facs_323_r2l1 Un alle Emmenthall, und Ober¬
+#facs_323_r2l2 Cändische Ambt Leuth.
+#facs_323_r2l3 wegen Viech Prästens.
+#facs_323_r2l4 Schultheis und Rath der Stadt Bern,
+#facs_323_r2l5 Damit der anderem Viech geäßierende
+#facs_323_r2l6 Trästen nicht Ein mehrers überhand nem-
+#facs_323_r2l7 und das angestelte Erhalten werden möge,
+#facs_323_r2l8 habendt wir zu guthem deß gemein
+#facs_323_r2l9 Landts nothwendig Erachtet, hier Einge
+#facs_323_r2l10 schloßeret recept Truken, und dir mit dem
+#facs_323_r2l11 Befelch zu schiken gelasen, daß du Es undi¬
+#facs_323_r2l12 dem Landtvollk zu Ihrem Behelf
+#facs_323_r2l13 austheilen und kundt machen selbst.
+#facs_323_r2l14 Dotl. 20. Augl. 1712
+#facs_323_r3l1 527
+#facs_323_r3l2 An Alle T. und W. Ambtleüts
+#facs_323_r3l3 4. Stäck, Freyweibell und Amman!
+#facs_323_r3l4 wegen den Officieren in Lebstem Krieg, so
+#facs_323_r3l5 den Soldaten Ihr gage nit recht bezahlt,
+#facs_323_r3l6 und Hinderhalben.
+#facs_323_r3l7 Schultheiß und Rath der Staet Bernpp
+#facs_323_r3l8 Gleichwie Unser befelch und willen Gederzeith gewesen
+#facs_323_r3l9 daß unseren Underthang davon im letsten Krieg¬
+#facs_323_r3l10 gestandenen Soldaten nicht allein der bestimbte
+#facs_323_r3l11 Sold gebührend entrichtet, sondern auch, woder
+#facs_323_r3l12 Eint oder andere auf gnugsamen dursachen nach
+#facs_323_r3l13 Haus zugehen erlaubtnuß Erhällte, denselben deßent¬
+#facs_323_r3l14 wegen nichts zu gemuthet werden solle, allsowird
+#facs_323_r3l15 Aus nicht lieb, wan disem Unserem willen Eben
+#facs_323_r3l16 zu widergehandlet worden; Es will aber ver¬
+#facs_323_r3l17 hier
+#facs_323_r3l18 andere Hauptleüth
+#facs_323_r3l19 4
+#facs_323_r3l20 lauthen, ob sollten Eint und
+#facs_323_r3l21 und andere officieren denen zu Unserem
+#facs_323_r3l22 Kriegsath gestandenen Soldaten, für die im
+#facs_323_r3l23 dan nach Haußzugehen erlangte Erlaubtnuß
+#facs_323_r3l24 etwas in gelltzugemuthet, abgeforderet oder
+#facs_323_r3l25 zuruk behallten haben; Derowegen dan wie dir
+#facs_323_r3l26 gleich allen anderen Unsery Ambtleüthen
+#facs_323_r3l27 hiemit zu befehlen guthfunden, von Canblen ver-
+#facs_323_r3l28 kunden zelasten, dahin daß wan dern wegen
+#facs_324_r2l1 welche für dergleichen Bewilligung bürkliche
+#facs_324_r2l2 Etwas Bezahlt oder mit derzeith zu bezahlen
+#facs_324_r2l3 versprochen hätten, selbige Ernstlichen Er¬
+#facs_324_r2l4 mahnet sein sollind, dir solches ohne ver¬
+#facs_324_r2l5 zug anzuzeigen, du aber befelchnet sein,
+#facs_324_r2l6 sollst, die daherige Beschwerden an unseren
+#facs_324_r2l7 KriegsRath langen zelaßen, da dann in
+#facs_324_r2l8 solcheinfehl Ihnen das würklich bezahlte
+#facs_324_r2l9 oder Inbehalltene, Es seye zu erhaltung
+#facs_324_r2l10 Einiger Verwilligung nach Haus zelehren, oder
+#facs_324_r2l11 da sie mit rechtmäßiger Erlaubtnuß,
+#facs_324_r2l12 nach Hauß gangen, und wider zu den
+#facs_324_r2l13 Compagnus kommen, Ihnen aber Indeßen
+#facs_324_r2l14 der Sold Wäre Hinderhallten worden
+#facs_324_r2l15 gebührender maßen restituiert undt
+#facs_324_r2l16 guthgemacht, oder das versprochene
+#facs_324_r2l17 genzlich nachgelaßen werden soll. Wo
+#facs_324_r2l18 ;
+#facs_324_r2l19 aber Eint und andere auff solche publication
+#facs_324_r2l20 Sie die sach dir nicht anzeigen und an Tag¬
+#facs_324_r2l21 bringen würden, so soll nachwerts Ihnen.
+#facs_324_r2l22 das bezahlte ferners nicht restituiert
+#facs_324_r2l23 werden, sondern sie das versprochenen
+#facs_324_r2l24 zu bezahlen schuldig sein. Gleiche Meinung hat(h)
+#facs_324_r2l25 auch der Zeugen halber, welche dazu
+#facs_324_r3l1 9
+#facs_324_r3l2 Beuthe sich gebrauchen laßen, und aber dahero
+#facs_324_r3l3 nicht Ihre gebühr empfangen, sondern sich
+#facs_324_r3l4 diffahls zu beschwähren Ursach hätten, gestalten
+#facs_324_r3l5 du hiemit befelchnet wirst, diseren Unseren
+#facs_324_r3l6 willen bey Cantzlen verkunden, alle dafärige
+#facs_324_r3l7 beschweren vernennen zelaßen, und Unserem
+#facs_324_r3l8 Kriegs Rath ihn verweillt solche Zeuberschite,
+#facs_324_r3l9 Alamit die gebühr der Eint und anderen halb
+#facs_324_r3l10 verordnet werden könne, Maßen Zethun wüsten
+#facs_324_r3l11 wirst. Datl. 23. Aug: N12

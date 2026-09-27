@@ -1,0 +1,53 @@
+Law ID: BER.01.001.3632
+Name: Auffrichtung einer Weynstell zu Ablag dess von insführenden Weyns.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_494
+# Matched: 42/42
+# High similarity (>=80%): 8
+# Low similarity (<80%): 34
+# Not found: 0
+#
+#facs_121_r1l1 234
+#facs_7_r3l1 Collat
+#facs_267_r3l1 Ain
+#facs_270_r2l2 Alle Weltsche Ambtleuth
+#facs_301_r3l20 Zusenden, nebens befehlen
+#facs_316_r2l12 Land gebracht werden, habend
+#facs_309_r4l18 Vorrath angelegt.
+#facs_10_r2l6 Schultheis und Raht
+#facs_242_r2l17 wollen, Euch Unseren P. hier von mit
+#facs_172_r4l8 Betreffend die Materi und fern
+#facs_141_r2l14 Enden außgeschiken, Ihnen die
+#facs_120_r3l2 und der Kehr in Ertheilung deren Bre¬
+#facs_92_r5l9 dem Saltz Mann unter augen zu erhalten
+#facs_256_r4l7 haben Frantz Schlecht und Jacob
+#facs_188_r2l15 anderst nicht zugelaßen seyn,
+#facs_330_r2l13 solcher Gast eingezogen, und
+#facs_98_r2l12 gen, und deinen Gericht einze¬
+#facs_124_r3l6 sonder allerd ihrten, da Er sich angelen
+#facs_309_r2l28 Die anstalten also zu verschaffen
+#facs_195_r2l2 dem beschwerlichen Beffel und
+#facs_119_r2l7 Lands nützlichen Leidenfabrique
+#facs_70_r3l10 richt zu eröfnen müßen wirst.
+#facs_263_r3l3 Demnach mit ohnlieb vernommen, daß
+#facs_14_r4l1 23.
+#facs_55_r4l7 Wir müßend gebahren, daß ohngeacht
+#facs_260_r2l2 daß sy sich äußerstens ange¬
+#facs_262_r2l15 den Gemeinden bestelten Persohnen,
+#facs_196_r2l15 Derowegen wir dir /: gleich ge¬
+#facs_182_r3l3 übrigen Classen Weltschen Lands auch
+#facs_263_r3l9 beschicht) hiemit befahlen wollen, die
+#facs_318_r3l17 Handat zu künftiger nach¬
+#facs_125_r1l20 gen oder Fehlbahren gemeinden
+#facs_182_r3l5 es denenselben einzeschärpfen, daß
+#facs_201_r2l7 daß selbige hier im Land noch,
+#facs_188_r2l14 worden, unseren Underthanen
+#facs_247_r3l11 Es du die erforderlichen Anstalten
+#facs_232_r3l9 Unsere Canzley zu weysen, wann
+#facs_110_r2l6 Verhandlung eines ligenden guth
+#facs_54_r3l17 somen büsen wird. Die dehmenach¬
+#facs_87_r3l17 Wie dan zethun und zu veranstalten Ihr
+#facs_140_r4l6 zu leisten büsen virst. Dat. d. 21ten
+#facs_192_r2l5 Decembr: 1732

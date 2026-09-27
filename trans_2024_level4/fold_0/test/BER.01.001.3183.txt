@@ -1,0 +1,30 @@
+Law ID: BER.01.001.3183
+Name: Die Capitulhaltung aussschreiben.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 19/19
+# High similarity (>=50%): 19
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_14_r2l1 23
+#facs_14_r2l2 An alle Tütsche Amtlütl: Item
+#facs_14_r2l3 Zoffingen und Gottstadt.
+#facs_14_r2l4 Die Capitulhaldtung ausschreiben.
+#facs_14_r2l5 Schuldtheiß und Rhat der Statt Bärn.
+#facs_14_r2l6 Weilen die Gewohnte Zeit der Halltung der Capitler
+#facs_14_r2l7 abermalen herbjrukt, alls habend wie dich alles Ernsts
+#facs_14_r2l8 Und by deiner Theüwen Pflicht bezeichnen wollen,
+#facs_14_r2l9 mit Hindansetzung aller anderen Geschäfften, demselben
+#facs_14_r2l10 Deines theils ohnfehlbarlich beyzuwohnen, und ohne
+#facs_14_r2l11 Schonen hand abzuhallten, daß niemanden durch die
+#facs_14_r2l12 Finger gesehen, Sondern alles, So von etwellcher
+#facs_14_r2l13 wichtigkeit den actis Eingebracht werde; in dem
+#facs_14_r2l14 verstand, daß selbige Nachwärts fürderlich müglich
+#facs_14_r2l15 Recta an Unser Fürgeliebtis Ehrenhaupt den
+#facs_14_r2l16 Regierenden H. Schuldtheißen übersendt werden
+#facs_14_r2l17 sollind, wie alles in bester vorm geschehen werde,
+#facs_14_r2l18 Wir Uns zu dir versehendt. Gott mit dir. Datum 10 ten
+#facs_14_r2l19 aprilis 1715

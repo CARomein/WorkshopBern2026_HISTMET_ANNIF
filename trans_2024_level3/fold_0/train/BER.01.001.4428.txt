@@ -1,0 +1,70 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 62/63
+# High similarity (>=80%): 58
+# Low similarity (<80%): 4
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4428
+#facs_148_r3l5 Wegen Ankauftung getreydts, zu Ergänzung des Getreys
+#facs_93_r1l2 Collat.
+#facs_148_r2l1 286.
+#facs_72_r3l13 zu Arburg
+#facs_148_r3l2 Die Herren Amtleut zu Schenbenberg, Lenzburg, Aar
+#facs_148_r3l3 brangen, Landtshut, Burgdorff, Thorberg, Aarberg,
+#facs_148_r3l4 Erienisberg, Zuchten, St. Johansen und Rydau¬
+#facs_148_r3l5 Wegen Ankauftung getreydts, zu Ergänzung des Getreys
+#facs_223_r7l1 Vor
+#facs_90_r2l5 Schultheiß Räht und Burgers.
+#facs_148_r3l8 Da uns dermahlen in verschiedenen Betrachtungen
+#facs_148_r3l9 der bequeme Zeit Umstand zu seyn scheinet, den auch
+#facs_148_r3l10 einichen Ämtern Teutschen Landt noch unergänzten
+#facs_148_r3l11 Getreis-Vorraht vermitlest baarer Bezahlung deß
+#facs_148_r3l12 zu dem End benöhtigten Getreids, aller Orten erge¬
+#facs_148_r3l13 den zu laßen, so tragen Wir Euch desthalb, gleich
+#facs_148_r3l14 übrigen Unferen in Casu sich befindtlichen Amtleuten
+#facs_148_r3l15 folgendes pro Instructione befehlichen auf¬
+#facs_148_r3l16 Allervorderst alles dasjenige was nach Abzug¬
+#facs_319_r2l23 der Ordinari, und Quasi=Ordinari=Ausgaben
+#facs_256_r3l2 auch deßen, was Euer Contingent auf dem restie
+#facs_148_r3l19 Betragen mag, so wohl an Winter, als Sommer
+#facs_148_r3l20 Früchten, von dem auf Martinj diß Jahrs eingehen
+#facs_148_r3l21 den Obrigkeitlichen Getreid vorschießen wird, so weit
+#facs_148_r3l22 es nöhtig seyn mag, zu ferner wider Ergänzung
+#facs_148_r3l23 des von Uns auf Eüerein Amt bestimten Obrig
+#facs_148_r3l24 beitlichen Getreys=Vorrahts anzuwenden, und
+#facs_148_r3l25 aufschicken zu laßen.
+#facs_148_r4l1 287.
+#facs_148_r4l2 Solchemnach dasjenige, was nach Eüerer eigenen
+#facs_148_r4l3 genauen Berechnung, an dem unter Euerer Direction
+#facs_148_r4l4 stehenden Amts-Vorraht, nachdem der Eingang von
+#facs_148_r4l5 diesem Jahr, so beit möglich, obtermelter maßen, wird
+#facs_148_r4l6 dazu geschlagen worden seyn, anoch fehlen wird, mit
+#facs_148_r4l7 mindest möglichem Aufsehen in innligenden Bezirben
+#facs_148_r4l8 nach und nach anzukaufen
+#facs_148_r4l9 Kein Getreid als von guter qualitat- und zwar der
+#facs_148_r4l10 Herrn Müdt Dinkel nicht unter der Gewicht von
+#facs_148_r4l11 130. lb. zu erhandlen.
+#facs_148_r4l12 den besten Dinkel nicht höher dann sibenzig Bahen
+#facs_148_r4l13 der Bern Müdt, und den Vollbansten Roggen
+#facs_148_r4l14 nicht Theurer als um Neinzig Bahen der Bern Mutt
+#facs_148_r4l15 /: für St. Johansen und Rydau, den Weizen und
+#facs_148_r4l16 Mischel Korn aber in laufendem Preiß) zu bezahlen.
+#facs_148_r4l17 alles ohne Entgeld in die Kornhäuser gelieferet,
+#facs_148_r4l18 in deme Wir dißfahls weiters nichts als den Preiß
+#facs_148_r4l19 deß Ankauffs admittieren werden.
+#facs_148_r4l20 Da dann je nach deme der Ankauf des, nach obiger
+#facs_148_r4l21 Vorschrift und Rechnung zu ergänzung des unter
+#facs_148_r4l22 Eüerer Direction stehenden Obrigkeitlichen Vorrahts¬
+#facs_148_r4l23 benöhtigten Getreids seinen Fortgang gewinnen
+#facs_148_r4l24 wird, Ihr Euch um des darzu nöhtige Geld, bey
+#facs_148_r4l25 Unserem Fürgeliebten MitRaht Herren Teutsch
+#facs_150_r4l24 solle;
+#facs_149_r2l1 288
+#facs_149_r3l1 Sebelmeister von Waffenwyl anmelden könnt.
+#facs_149_r3l2 Wir versehen uns zu Euch, daß Ihr diesen
+#facs_149_r3l3 Unseren Befehl nach Mas gab der Dabey gegebene
+#facs_149_r3l4 Instruction mit Vorsicht= und so weit möglich ohne
+#facs_149_r3l5 Erhebung einigen Aufsehens, in erfüllung zu sezen
+#facs_149_r3l6 Euch werdet bestens angelegen seyn laßen. Datl.
+#facs_269_r4l4 den 14t.

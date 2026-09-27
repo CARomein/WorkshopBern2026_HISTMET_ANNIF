@@ -1,0 +1,451 @@
+Law ID: BER.01.001.4621
+Name: Ordnung den Brandtenwein und andere gebrandte Wasser ansehend.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 440/440
+# High similarity (>=50%): 426
+# Low similarity (<50%): 14
+# Not found: 0
+#
+#facs_174_r3l23 Ordnung
+#facs_175_r2l1 Ordnung
+#facs_175_r2l2 den Brandtenbein und andere
+#facs_175_r2l3 gebrandte Waßer ansehend.
+#facs_175_r2l4 Wir Schultheitz und Rath
+#facs_175_r2l5 der Stadt und Republit Bern, thun
+#facs_175_r2l6 bund hiermit: Auf die Uns viel
+#facs_175_r2l7 fältig gethanen Anzeigen, daß der
+#facs_175_r2l8 Bebrauch des Brandtenbeins, Kirschen
+#facs_175_r2l9 und anderer gebrandten Waßeren
+#facs_175_r2l10 in vielen Begenden Unserer Doct.
+#facs_175_r2l11 mäßigkeit zum Misbrauch aus gear¬
+#facs_175_r2l12 tet, auch verschiedene Unserer
+#facs_175_r2l13 Amtleute und Landschaften Uns
+#facs_175_r2l14 die Nothwendigkeit vorgestellt, das
+#facs_175_r2l15 diesem eingerißenen Uebel die
+#facs_175_r2l16 behörigen Schranken gesezt werden.
+#facs_175_r2l17 so haben Wir nach vorhergegangenes
+#facs_175_r2l18 reiflicher Untersuchung aus Landes
+#facs_175_r2l19 väterlicher Vorstorge, diese Unsere
+#facs_175_r2l20 Verordnung in Druk ausgehen
+#facs_175_r2l21 laßen, mit der beygefügten wohl¬
+#facs_175_r2l22 meinenden Warnung, den überflüßige
+#facs_175_r2l23 Bebrauch
+#facs_175_r3l1 den 11t Januarij
+#facs_175_r3l2 /90 haben
+#facs_175_r3l3 Meghl. diesen
+#facs_175_r3l4 artl: wiecker
+#facs_175_r3l5 aufgehoben, und
+#facs_175_r3l6 das Mandat
+#facs_175_r3l7 Erisch aufzultzen
+#facs_175_r3l8 Erkennt.
+#facs_175_r4l1 ß45.
+#facs_175_r4l2 Bebrauch dergleichen gebrandten Waßer,
+#facs_175_r4l3 als nach Aussag unserer Aerzte, der
+#facs_175_r4l4 Besundheit, wie auch den Sitten höchst¬
+#facs_175_r4l5 schädlich zu unterlaßen.
+#facs_175_r4l6 Demnach ist in Aufhebung aller vor¬
+#facs_175_r4l7 hergehenden, den Brandtenbein
+#facs_175_r4l8 Verkauf ansehenden Ordnungen
+#facs_175_r4l9 gegenwärtiges Mandat behöriger
+#facs_175_r4l10 Orten anzuschlagen, und von Kan,
+#facs_175_r4l11 zeln zu verlesen, wornach sich jeder¬
+#facs_175_r4l12 männiglich zu Ausweichung der darauf
+#facs_175_r4l13 gesezten Füße und Straffe zu ver¬
+#facs_175_r4l14 halten wissen wird.
+#facs_175_r4l15 Da nach dem Befinden und vorge¬
+#facs_175_r4l16 gangener Untersuchung Unseres
+#facs_175_r4l17 Collegii Insulanii der Bebrauch des
+#facs_175_r4l18 treber Brandtenbeins, als der
+#facs_175_r4l19 Besundheit, wegen seinen Herben
+#facs_175_r4l20 Lauren und scharfen Bestandtheilen
+#facs_175_r4l21 höchst schädlich erfunden worden, so
+#facs_175_r4l22 haben Wir in Aufhebung Unseres
+#facs_175_r4l23 Mandats vom 10den. Novembris 1770.
+#facs_175_r4l24 das
+#facs_176_r2l1 das Brandtaubeinbrennen aus¬
+#facs_176_r2l2 Treberen, sowohl als den Verkauf
+#facs_176_r2l3 des Treber Brandtenbeins selbst
+#facs_176_r2l4 mais
+#facs_176_r2l5 bey confiscation der Waar¬
+#facs_176_r2l6 l'autre dernier avec le coté d'Eté
+#facs_176_r2l7 40 tb. duß gänzlich verbotten
+#facs_176_r2l8 zumalen solches dem Nebbau er¬
+#facs_176_r2l9 spriesding und nüzlich ist, da aus
+#facs_176_r2l10 den Treberen ein guter Dinger
+#facs_176_r2l11 gezogen wird.
+#facs_176_r2l12 2° Aller Verkauf en Detail, so¬
+#facs_176_r2l13 wohl als das Ausschenken aller
+#facs_176_r2l14 gebrandten Waßeren zum Trinken
+#facs_176_r2l15 ist sowohl in den Städten als auf
+#facs_176_r2l16 dem Land, sowohl öffentlich als
+#facs_176_r2l17 heimlich, einheimschen und fremden
+#facs_176_r2l18 gänzlichen verbosten, ausgenommen
+#facs_176_r2l19 diejenigen gebrandten Waßer, so
+#facs_176_r2l20 1 e
+#facs_176_r2l21 denen in dem 3ten und 4ten Artibel
+#facs_176_r2l22 vermeldeten Personen mit Geding¬
+#facs_176_r2l23 zu verkaufen erlaubt sind, bey
+#facs_176_r2l24 Straff der Confiscation und 10. bis
+#facs_176_r2l25 40. 16. Zus, oder auch Befangenschaft
+#facs_176_r2l26 Straffe
+#facs_176_r3l1 3«7
+#facs_176_r3l2 Straffe, alles je nach den Umstanden.
+#facs_176_r3l3 3. Denen Wirthen und Pinten
+#facs_176_r3l4 schenken ist ferners hin gestactet,
+#facs_176_r3l5 achten, in Unseren Immediat Landen
+#facs_176_r3l6 nur
+#facs_176_r3l7 verfertigten Brandtenbe¬
+#facs_176_r3l8 Kirschenbaßer auszuschenken und
+#facs_176_r3l9 zu verbirthen, sie sollen aber
+#facs_176_r3l10 solches mit billicher Mäßigung
+#facs_176_r3l11 und Bescheidenheit thun, auch unter
+#facs_176_r3l12 keinem Vorband damit handeln
+#facs_176_r3l13 und
+#facs_176_r3l14 noch aussert ihrem Wirths
+#facs_176_r3l15 Pintenschenkhäuseren zum Trinken
+#facs_176_r3l16 verkaufen bey obiger Zuß und
+#facs_176_r3l17 Zukung dieser Erlaubniß, aller
+#facs_176_r3l18 Verkauf anderer gebrandten Waßern
+#facs_176_r3l19 als obbemelten, ist ihnen bey 40 lb
+#facs_176_r3l20 verboßen.
+#facs_176_r3l21 4° Den Land, und Wund=Arzten,
+#facs_176_r3l22 auch Apotheberen, die zum Behelf
+#facs_176_r3l23 ihres Berufs und Officiren von
+#facs_176_r3l24 Uns öfters Patenten zu Einbringung
+#facs_176_r3l25 fremden Brandtenbeins erhalten
+#facs_176_r3l26 bollen
+#facs_177_r2l1 wollen Wie bey obiger Zuß und je
+#facs_177_r2l2 nach Bewandtniß der Umständen bey
+#facs_177_r2l3 noch grösserer Straffe, alles Aus
+#facs_177_r2l4 schenken und Verkauf aller Arte
+#facs_177_r2l5 gebrandter Waßer zum Trinken
+#facs_177_r2l6 verbotten haben; der Verkauf
+#facs_177_r2l7 aber zu dem was ihr Beruf mit
+#facs_177_r2l8 giebt, als zum baschen aüßerer
+#facs_177_r2l9 Schäden und Mitgebrauch zu den
+#facs_177_r2l10 sehr einigen Arztney Mitteln
+#facs_177_r2l11 deren er nothwendig ist, bleibt
+#facs_177_r2l12 ihnen erlaubt und zugelaßen
+#facs_177_r2l13 5. Denen Waß erbrenneren
+#facs_177_r2l14 ist ferners zugelaßen, die im
+#facs_177_r2l15 3ten Artikel vermelten gute
+#facs_177_r2l16 Waßer zum Trinken zu brennen,
+#facs_177_r2l17 das ausschenken bey den Häuferen
+#facs_177_r2l18 und Detail Handlung aber ist ihnen
+#facs_177_r2l19 bey der im ersten Artikel be-
+#facs_177_r2l20 stimmten Zus ganz abgestellt
+#facs_177_r2l21 und verbotten. Sie dahin Beisein,
+#facs_177_r2l22 ihre gebrandten Waßer en gros, in
+#facs_177_r2l23 den Stadten und äußert Lands zu debitori
+#facs_177_r2l24 6
+#facs_177_r3l1 349
+#facs_177_r3l2 6. Ansehend die Einfuhr des fremden
+#facs_177_r3l3 Brandtenbeins, Esiges. verbleibt
+#facs_177_r3l4 es gänzlich bey dem Mandat vom
+#facs_177_r3l5 Jänner 1774.
+#facs_177_r3l6 14
+#facs_177_r3l7 7° Befehlen Wir ernstmeinend
+#facs_177_r3l8 allen unseren Oberbeamteten,
+#facs_177_r3l9 diese Ordnung zu handhaben.
+#facs_177_r3l10 und die Fehlbaren ohne Ansehen
+#facs_177_r3l11 der Person zu bestraffen
+#facs_177_r3l12 dessgleichen sollen die Herren
+#facs_177_r3l13 Amtleute, auf diejenigen, so
+#facs_177_r3l14 gebrandte Waßer durch Contrebande
+#facs_177_r3l15 ins Land bringen, wie auch auf
+#facs_177_r3l16 die Hähler und verdächtige Häuser,
+#facs_177_r3l17 begbältiget seyn, auf glaubwürdig
+#facs_177_r3l18 beschehene Anzeige hin, durch
+#facs_177_r3l19 beeydigte Männer, selbige visitiren
+#facs_177_r3l20 zu laßen, da ihnen zu Entdebung
+#facs_177_r3l21 der Fehlbaren erlaubt ist, geheime
+#facs_177_r3l22 Aufseher zu bestellen, von der
+#facs_177_r3l23 Confiscation sobohl als der Auß
+#facs_177_r3l24 soll ein Drittel Uns verrechnet
+#facs_177_r3l25 werden, der andere dem Amtsmann
+#facs_177_r3l26 to
+#facs_178_r2l1 so die Straffe dictirt, und der
+#facs_178_r2l2 dritte dem Verleider zufallen
+#facs_178_r2l3 7o. Die einjemischen zu brennen
+#facs_178_r2l4 erlaubten Trusen, Brandtenbein
+#facs_178_r2l5 und Kirschen Waßer, anbetreffen
+#facs_178_r2l6 so von einem Ort an das andere
+#facs_178_r2l7 im Canton verführt und verkauft
+#facs_178_r2l8 werden, befehren Wir daß nach
+#facs_178_r2l9 bisheriger Gebung und Gebrauch
+#facs_178_r2l10 selbige allemal mit einem, von
+#facs_178_r2l11 denen Vorgesezten des Orts
+#facs_178_r2l12 ausgestellten, von dem Amtsman
+#facs_178_r2l13 besiegelten Certificat begleitet
+#facs_178_r2l14 seyen, welches bescheinige, daß
+#facs_178_r2l15 diese Brandtenbeine und gebrandt
+#facs_178_r2l16 Waßer, an dem Ort wo sie herr
+#facs_178_r2l17 kommen, aus Lands Producten
+#facs_178_r2l18 seye verfertiget und gebrandt
+#facs_178_r2l19 worden, nebst Beyfügung der
+#facs_178_r2l20 Quantitat, und an welches Ort
+#facs_178_r2l21 solcher geführt werden solle, auch
+#facs_178_r2l22 en wen er verkauft worden seye.
+#facs_178_r2l23 Bng
+#facs_178_r3l1 ! 3s1
+#facs_178_r3l2 Bey Straff der Confiscation, und
+#facs_178_r3l3 einer Zuß von dem Werth der
+#facs_178_r3l4 confiscirten Waar, in so fern selbige
+#facs_178_r3l5 die Summ der 20. lb. nicht überschreitet.
+#facs_178_r3l6 8. Wir befehlen zugleich aller
+#facs_178_r3l7 Unseren Zollbeamteten alles Ernsts,
+#facs_178_r3l8 und insbesonders denen an den
+#facs_178_r3l9 Brenzen, auf die Ein- und Ausfuhr¬
+#facs_178_r3l10 des transitirenden fremden Branten
+#facs_178_r3l11 weins fleißig zu achten, und nach
+#facs_178_r3l12 Innhalt der Transit Ordnung von
+#facs_178_r3l13 Anno 1768. zu machen, daß dieser
+#facs_178_r3l14 Brandtenbein aus dem Land
+#facs_178_r3l15 geführt, bidrigenfalls aber, nach
+#facs_178_r3l16 der Vorschrift der Ordnung ver-
+#facs_178_r3l17 fahren Berde.
+#facs_178_r3l18 9. Endlich sollen Ansere Am
+#facs_178_r3l19 beilere, Unterbeamtete, und
+#facs_178_r3l20 Officialen bey ihren Eyden ver¬
+#facs_178_r3l21 bunden seyn, diejenigen so wider
+#facs_178_r3l22 diese Ordnung handeln, und ihnen
+#facs_178_r3l23 bekannt würden, ohne einiche
+#facs_178_r3l24 Nachsicht
+#facs_179_r1l1 Nachsicht behörigen Orts anzu¬
+#facs_179_r1l2 zeigen und zu verleiden
+#facs_179_r1l3 Wir erwarten von ihnen, und
+#facs_179_r1l4 ermahnen sie so wohl als die
+#facs_179_r1l5 de ces
+#facs_179_r1l6 Vorgesezten der Bemeinden
+#facs_179_r1l7 durch ihr Beyspiel und Wachsam
+#facs_179_r1l8 beit die Gefolgung dieser zum Testa¬
+#facs_179_r1l9 Unserer geliebten Unterthanen
+#facs_179_r1l10 und ihrer Bemeinds Angehörigen
+#facs_179_r1l11 abzwekende Heilsamme Ordnung
+#facs_179_r1l12 pflichtmäßig zu beförderen und
+#facs_179_r1l13 zu Handhaben.
+#facs_179_r1l14 in
+#facs_179_r1l15 Beben den 14ten Hornung 1788.
+#facs_179_r1l16 Ordonance
+#facs_179_r1l17 concernant les Eaux-de-vie
+#facs_179_r1l18 et autres Liqueurs fortes.
+#facs_179_r1l19 Nous l'Avoyer et Conseil
+#facs_179_r1l20 de la Ville et Republique de Bernay
+#facs_179_r1l21 savoir faisons par les présentes
+#facs_179_r1l22 qu'ayant appris, par des 18dices multiplies
+#facs_179_r1l23 que dans plusieurs des contrées soumises
+#facs_179_r1l24 à
+#facs_179_r2l1 Majestät 3.
+#facs_179_r2l2 à Notre Domination, l'usage des eaux
+#facs_179_r2l3 de-vies, eaux-de-cerises et autres liqueurs
+#facs_179_r2l4 fortes a degenere en véritable abus; et
+#facs_179_r2l5 plusieurs de nos Baillifs et païs, Nous
+#facs_179_r2l6 ayant represente la nécessité de mettre
+#facs_179_r2l7 un frein convenable aux progres de ce mal
+#facs_179_r2l8 en consequence après un mir examen
+#facs_179_r2l9 et par un effet de Notre sollicitude pater¬
+#facs_179_r2l10 nelle pour le bien-être de tous nos ressortissants
+#facs_179_r2l11 Nous avons donné et fait publier par la
+#facs_179_r2l12 voir de l'impression, la presente Ordonance,
+#facs_179_r2l13 exortant cordialement un chacun d'iceux
+#facs_179_r2l14 a s'abstenir de l'usage immodéré de telles
+#facs_179_r2l15 liqueurs fortes, comme étant d'après l'avis
+#facs_179_r2l16 de Nos médecins, aussi nuisible a la santé,
+#facs_179_r2l17 que préjudiciable aux bonnes moeurs, et
+#facs_179_r2l18 ces causes, et en révoquant et annullant
+#facs_179_r2l19 tous nos précédents Réglements et
+#facs_179_r2l20 Ordonnances concernant la vente et le débit
+#facs_179_r2l21 des eaux-de-vie et liqueurs fortes, voulons
+#facs_179_r2l22 que la présente soit lue dans les chaires
+#facs_179_r2l23 de toutes les Eglises de Nos Villes et
+#facs_179_r2l24 Pais, et affichée aux endroits accoutumées,
+#facs_179_r2l25 afin qu’un chacun puisse y conformer sa
+#facs_179_r2l26 conduite pour éviter les peines et amendes
+#facs_179_r2l27 1.°
+#facs_179_r2l28 y stipullés.
+#facs_180_r2l1 1°. L'usage des eaux de vie distillées.
+#facs_180_r2l2 du marc de raisins, apres un examen
+#facs_180_r2l3 préalable de nôtre College de Medecine
+#facs_180_r2l4 ayant été trouvé très préjudiciable à la
+#facs_180_r2l5 santé, à cause des particules apres
+#facs_180_r2l6 ameres et aiguës dont cette espece d'eau
+#facs_180_r2l7 de vie est composée; en revoquant Nobre
+#facs_180_r2l8 Mandat du 10e Septembre 1770. Nous
+#facs_180_r2l9 avons defendu et defendons absolument
+#facs_180_r2l10 par la présente, tant toute distillion
+#facs_180_r2l11 d'eaux-de-vie de marc de raisins, que
+#facs_180_r2l12 tout débit et vente de telles eaux de vie
+#facs_180_r2l13 fous peine, pour les contrevenants
+#facs_180_r2l14 de confiscation de la marchandise, et
+#facs_180_r2l15 d'une amende de quarante livres
+#facs_180_r2l16 Cette mesure sera en outre salutaire
+#facs_180_r2l17 et avantageuse à la culture des vignes
+#facs_180_r2l18 puisque le marc de raisins peut fournir
+#facs_180_r2l19 un fort-bon engrais.
+#facs_180_r2l20 2° Toute vente en détail de meme que
+#facs_180_r2l21 tout débit d'eaux-de-vies et liqueurs
+#facs_180_r2l22 forte qui seroient de boissons, sont et
+#facs_180_r2l23 seront dès maintenant prohibées tant
+#facs_180_r2l24 dans les villes que dans les campagnes
+#facs_180_r3l1 3563
+#facs_180_r3l2 de Notre Domination, tant publiquement
+#facs_180_r3l3 quen Secret et tant aux Etrangers qu'a
+#facs_180_r3l4 Exceptons toutefois
+#facs_180_r3l5 .
+#facs_180_r3l6 Nos Ressortissants
+#facs_180_r3l7 de cette prohebetion telles eaux - de vie,
+#facs_180_r3l8 et liqueurs fortes dont la vente et le
+#facs_180_r3l9 débit sont permis sous des conditions et
+#facs_180_r3l10 réserves spéciales, aux personnes mentio
+#facs_180_r3l11 nées dans les troisieme et quatrieme articles
+#facs_180_r3l12 de la présente ordonnance: sous peine aux
+#facs_180_r3l13 contrevenants de confiscation, et de dix
+#facs_180_r3l14 jusqu'a quarante livres d'amende, et même
+#facs_180_r3l15 de prison selon la nature et l'exigence
+#facs_180_r3l16 du cas
+#facs_180_r3l17 3° Il continuera d'être permis aux
+#facs_180_r3l18 cabaritiers et tenneurs de pentes, de débiter
+#facs_180_r3l19 et vendre des eaux-de-vie et de cerises
+#facs_180_r3l20 pourvû qu'elles soient de bonne qualité, et
+#facs_180_r3l21 quelles aient été preparées dans Nos païs
+#facs_180_r3l22 Mais ils seront tenus de
+#facs_180_r3l23 immediats
+#facs_180_r3l24 procéder a cet égard avec la moderation et
+#facs_180_r3l25 la diseretion convenables et ils ne pourront
+#facs_180_r3l26 faire des dites liqueurs aucun objet de comerce
+#facs_180_r3l27 ou de trafic, ni en vendre pour servir de
+#facs_180_r3l28 boissons bons de l'enceinte de leurs cabarets
+#facs_180_r3l29 ou pintes, sous quelque prétexte que ce soit;
+#facs_181_r2l1 à peine d'encourir l'amende spécifice
+#facs_181_r2l2 dans l'article précedent, et d'être privés
+#facs_181_r2l3 de la permission qui leur est accordée
+#facs_181_r2l4 Tout débit et venir
+#facs_181_r2l5 1
+#facs_181_r2l6 par la présente
+#facs_181_r2l7 d'autres eaux-de-vie et liqueurs fontes
+#facs_181_r2l8 que celles qui viennent d'etre indiquées
+#facs_181_r2l9 leur sont interdits sous peine d'une
+#facs_181_r2l10 amende de quarante livres
+#facs_181_r2l11 4° Quand aux medecins de camp
+#facs_181_r2l12 ne et chirugiens, de meme qu'aux apothies
+#facs_181_r2l13 qui obtiennent fréquement de nous, de
+#facs_181_r2l14 patentes, a l'effet de pouvoir faire entre
+#facs_181_r2l15 dans le païs telles eaux de vies et
+#facs_181_r2l16 liqueurs fortes provenant de l'etranger
+#facs_181_r2l17 qui sont nécessaires à l'exercice de leur
+#facs_181_r2l18 profession et à leurs apothicaireries,
+#facs_181_r2l19 il leur est expressément interdit, vous
+#facs_181_r2l20 peine d'encourir l'amende ci dessus
+#facs_181_r2l21 specifiée, ou même, selon l'exigence du ces
+#facs_181_r2l22 sous peine d’être punis plus rigoureusement
+#facs_181_r2l23 de débiter ou de vendre, pour servir de besoin
+#facs_181_r2l24 toute espece quelconque d'eaux-de-vie ou
+#facs_181_r2l25 de liqueurs fortes
+#facs_181_r2l26 Il leur est néanmois
+#facs_181_r2l27 permis de débiter ou de vendre de telles
+#facs_181_r2l28 liqueurs dans des cas qui auront rapport à
+#facs_181_r2l29 l'exercice
+#facs_181_r3l1 358.
+#facs_181_r3l2 l'exercice de leur vocation, comme pour des
+#facs_181_r3l3 places et autres maux extérieurs du corps
+#facs_181_r3l4 de même que pour le peu de remedes dans
+#facs_181_r3l5 la composition desquels on emploie de telles
+#facs_181_r3l6 liqueurs fortes.
+#facs_181_r3l7 5° Il est permis aux distillateurs
+#facs_181_r3l8 d'eaux-de-vie et de liqueurs fortes destinées
+#facs_181_r3l9 a servir de boisson de continuer à distiller
+#facs_181_r3l10 de celles qui sont specificés dans le troisieme
+#facs_181_r3l11 article de la présente Ordonnance, pourvait
+#facs_181_r3l12 quelles soyent de bonne qualité. Mais
+#facs_181_r3l13 il leur est expressement defendu d'en
+#facs_181_r3l14 débiter dans les maisons, ou d'en vendre
+#facs_181_r3l15 ou d'en faire quelque commerce en détail
+#facs_181_r3l16 fous peine d'encourir l'amende stipulée
+#facs_181_r3l17 dans le premier article de cette Ordonnance
+#facs_181_r3l18 Leur enjoignons au contraire, de débiter
+#facs_181_r3l19 leurs eaux-de-vie et liqueurs fortes en
+#facs_181_r3l20 gros, dans les villes de Notre nomination,
+#facs_181_r3l21 ou hors du païs
+#facs_181_r3l22 6° Quant à l'importation des eaux
+#facs_181_r3l23 de vie et liqueurs fortes, du vinaigre & c
+#facs_181_r3l24 provenant de l'étranger, elle sera absolument
+#facs_181_r3l25 interdite, a teneur de Notre mandat du 14 Janvier
+#facs_181_r3l26 1774.
+#facs_182_r2l1 7. Enjoignons férieusement à tous
+#facs_182_r2l2 Nos Baillifs de tenir la main a
+#facs_182_r2l3 l'éxécution de notre presente Ordona
+#facs_182_r2l4 et de punir et faire châtier les contreves
+#facs_182_r2l5 exception quelconque. Leur permette
+#facs_182_r2l6 à cet effet, d'orsonner des Inspecteurs
+#facs_182_r2l7 secrets qui cherchent à decouvrir
+#facs_182_r2l8 de tels contrevenants, et aïent Oeil
+#facs_182_r2l9 ceux qui font entrer par contreband
+#facs_182_r2l10 dans le pays des eaux de vie et
+#facs_182_r2l11 liqueurs fortes, de même que sur leur
+#facs_182_r2l12 receleurs: les autorisant, lorsqu'il
+#facs_182_r2l13 leur aura été fait quelque rapport
+#facs_182_r2l14 qui soit vraisemblable, à faire visite
+#facs_182_r2l15 toute maison suspecte par des homs
+#facs_182_r2l16 Quant aux confiscations
+#facs_182_r2l17 assermentes.
+#facs_182_r2l18 qui pourront avoir lieu, le tiers d'iceler
+#facs_182_r2l19 Nous sera porté en compte; le ses
+#facs_182_r2l20 tiers appartiendra à Notre Baillis que
+#facs_182_r2l21 aura prononcé sur la peine, et le
+#facs_182_r2l22 reste sera remis au denonciateur
+#facs_182_r2l23 Pour ce qui regarde les eaux de vous
+#facs_182_r2l24 de lie de vin et eaux-de-cerices quil est
+#facs_182_r2l25 permis de distiller dans le pays, et que
+#facs_182_r2l26 devront
+#facs_182_r3l1 359.
+#facs_182_r3l2 devront être transportées et vendues dans
+#facs_182_r3l3 un autre lieu du Canton, voulons ainsi
+#facs_182_r3l4 qu'il a été usité et pratiqué jusquʼaprésent
+#facs_182_r3l5 qu'elles soient accompagnées d'un certificat
+#facs_182_r3l6 du prepose du lieu, qui sera muni du
+#facs_182_r3l7 sceau de Notre Baillif. Le dit
+#facs_182_r3l8 Certificat devra attester, comme quoi les
+#facs_182_r3l9 dites eaux-de-vie et liqueurs fortes ont été
+#facs_182_r3l10 distillées dans le lieu d'où elles viennent
+#facs_182_r3l11 et préparées de production du païs: il
+#facs_182_r3l12 indiquera en même temps la quantité des
+#facs_182_r3l13 dites liqueurs, le lieu où elles doivent
+#facs_182_r3l14 être transportées, ainsi que la personne
+#facs_182_r3l15 à qui elles ont été vendues. Sous peine
+#facs_182_r3l16 de confiscation, et d'une amende égale à
+#facs_182_r3l17 la valeur de la marchandise confisquée,
+#facs_182_r3l18 si celle-ci ne passe pas vingt livres
+#facs_182_r3l19 8° Ordonnons serieusement à tous
+#facs_182_r3l20 les directeurs de Nos Douanes et péages
+#facs_182_r3l21 principalement à ceux des frontieres, d'avoir
+#facs_182_r3l22 l'oeil le plus vigilant sur l'entrée et la
+#facs_182_r3l23 sortie des eaux-de-vie étrangeres, qui ne
+#facs_182_r3l24 font que passer par Nos païs, et de veiller
+#facs_182_r3l25 a ce quelles soient transportées hors des
+#facs_182_r3l26 limites
+#facs_183_r2l1 limites du Canton, à teneur de Notre
+#facs_183_r2l2 Mandat du mois d'Août 1768.
+#facs_183_r2l3 relatif au transit des marchandises, et
+#facs_183_r2l4 qu'en cas contraire il soit procedé selon
+#facs_183_r2l5 le prescript des Ordonnances
+#facs_183_r2l6 9. Enfin, Nos messeillers, subdéliger
+#facs_183_r2l7 et autres personnes pourvues d'offices
+#facs_183_r2l8 seront tenus, sous leur serment, de
+#facs_183_r2l9 denoncer à qui competera sans aucune
+#facs_183_r2l10 consideration personnelle, tous ceux qui
+#facs_183_r2l11 sauroient avoir contrevenu à la présente
+#facs_183_r2l12 Ordonnance. Nous attendons d'eux
+#facs_183_r2l13 et les exhortons de même que les
+#facs_183_r2l14 preposés des Communautés à ce qu'il
+#facs_183_r2l15 contribuent tant par leur exemple.
+#facs_183_r2l16 que par leur vigilante, à l'exacte
+#facs_183_r2l17 Observation de nôtre presente Ordonans
+#facs_183_r2l18 salutaire, qui n'a pour but que le
+#facs_183_r2l19 bien-être de leurs concitoyens, et
+#facs_183_r2l20 celui de tous Nos chers Ressortissant
+#facs_183_r2l21 en general.
+#facs_183_r2l22 Donné le 14e Fevrier
+#facs_183_r2l23 1788

@@ -1,0 +1,32 @@
+Law ID: BER.01.001.3269
+Name: Die Rappen abrueffen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_492
+# Matched: 21/21
+# High similarity (>=50%): 21
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_191_r6l18 - Chancellerie de Berne
+#facs_191_r6l19 an Alle Ergäubische Ambtleuth und Stadt¬
+#facs_191_r6l20 die Rappen abrieffen.
+#facs_191_r6l21 Schultheiß und Rath etc.
+#facs_191_r6l22 Unß ist der Bericht eingeloffen, daß die Rappen häuffig
+#facs_191_r6l23 in unsere Land geworffen werden dahero wir benöthiget
+#facs_191_r6l24 worden, darwieder das erforderliche einsehen gethun,
+#facs_192_r2l1 Pertinet av
+#facs_192_r2l2 Collate
+#facs_192_r3l1 Wolland derohalben die sogleich gegen übrigen Ambt¬
+#facs_192_r3l2 leüthen und unseren Stäcken des Ergeübs
+#facs_192_r3l3 auch beschicht) befehlen wollen zu männiglicher Nachricht
+#facs_192_r3l4 von Cantzlen zu verlesen, daß die Rappen in den
+#facs_192_r3l5 Oberen Ergenüt keinen Gang haben und gäntzlich
+#facs_192_r3l6 verbotten, übrigens dahin abgerufft seyen, das jehen
+#facs_192_r3l7 Aus Reppen für ein batzen verstehen Bernbatzen und
+#facs_192_r3l8 Minder nicht bezahlt und erlegt werden soll mit;
+#facs_192_r3l9 Übrigens bey hievoriger Vnserer Verordnung vom
+#facs_192_r3l10 24. Febr. 1716. wie die Rappen an Bezahlung
+#facs_192_r3l11 mögendt abgenommen werden, verbleiben laßendt.
+#facs_192_r3l12 Bort mit dir. Dat. 29ten. 10bris 1718

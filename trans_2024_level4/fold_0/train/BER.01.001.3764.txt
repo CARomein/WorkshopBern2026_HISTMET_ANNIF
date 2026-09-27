@@ -1,0 +1,452 @@
+Law ID: BER.01.001.3764
+Name: Wegen der in dem Königreich Hungarn grassierenden pestilenzischen Seüch.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 441/441
+# High similarity (>=50%): 409
+# Low similarity (<50%): 32
+# Not found: 0
+#
+#facs_195_r1l1 380
+#facs_195_r1l2 dari
+#facs_195_r1l3 Alle Teütsche und Walsche Ambtleut 4 Stält
+#facs_195_r1l4 Treißeibel und Amman gegen der
+#facs_195_r1l5 in dem Königreich Hungarn
+#facs_195_r1l6 Grassievenden Pestilenzischen
+#facs_195_r1l7 Sauch
+#facs_195_r1l8 Schultheis und Raht
+#facs_195_r1l9 pr
+#facs_195_r1l10 Wegen der in dem Königreich Hungarn und
+#facs_195_r1l11 Collat. Einichen angränzenden Provinzion annoch
+#facs_195_r1l12 Grassierenden Pestilanzischen Stüch, habend
+#facs_195_r1l13 die Löbl. Ohrt der Eydtgnoßschafft und
+#facs_195_r1l14 zu gesandte, auf einer Letsthin zu Raade
+#facs_195_r1l15 gehaltenen Zusamerkunfft berathschlaget,
+#facs_195_r1l16 daß zu Abhaltung einer solch großen Landplag
+#facs_195_r1l17 von denen Bränzen deß wehrten Vatterland,
+#facs_195_r1l18 Jeden Ohrts veranstaltet werden solle, was
+#facs_195_r1l19 in beyligendem getrumbtem Placcard f. thalten
+#facs_195_r1l20 welcher Wie die hiemith zu sendenwollen,
+#facs_195_r1l21 umb solches aller ohrten anschlagen zu laßen, und
+#facs_195_r1l22 wohl zu vigilieren, daß die behörige Volgleistung
+#facs_195_r1l23 und Execution deßelben fleißig beobachtet werden
+#facs_195_r1l24 Holt mit der Datum den 5 February 1739.
+#facs_195_r2l1 381.
+#facs_195_r2l2 Dlavard
+#facs_195_r2l3 0 f 0 x
+#facs_195_r2l4 Wir Schultheiß und Raht der
+#facs_195_r2l5 Collage
+#facs_195_r2l6 Stalt Barn, thuns kund hiermith, Nachdeme
+#facs_195_r2l7 Uns zu verschiedenen mahlen die betrüebte
+#facs_195_r2l8 Nachrichten Eingeloffen, welcher gestalten
+#facs_195_r2l9 Leiderschon vorEtbas Zeits in dem
+#facs_195_r2l10 Bannat Temeswar nicht beniger in
+#facs_195_r2l11 dem Fürstenthumb Sibenburgen und
+#facs_195_r2l12 anderen Ohrten in dem Königreich Hungam
+#facs_195_r2l13 Unter den Menschen Eine gefährliche
+#facs_195_r2l14 Sauche-Eingerißen, welche zur Zeith noch
+#facs_195_r2l15 nicht verminderet, sonderen immer hin sich
+#facs_195_r2l16 ehrers auszuberiten beginnet; und nun
+#facs_195_r2l17 die dreyzehen, und zu gebänder Ohrt Löbl.
+#facs_195_r2l18 Eydtgroßschafft, So zu dem End zu
+#facs_195_r2l19 raden im Litst verbichenen Monath
+#facs_195_r2l20 Januario eine zusamerkunfft gehalten,
+#facs_195_r2l21 Aus Landtälterlicher Sorgfalt, und
+#facs_195_r2l22 obligenheit der unumbganglichen Söthl.fft
+#facs_196_r2l1 zu seyn befunden, derentlagen über die
+#facs_196_r2l2 von jedem Löbl. ohrt albereits gemachte
+#facs_196_r2l3 Special, anstalten hienach folgende gemeinsame
+#facs_196_r2l4 Vorsorg annoch zu Errichten, damit einerseits
+#facs_196_r2l5 Unter Böttlichen Seegens Verleichung, ein
+#facs_196_r2l6 so schlähres Übel von Unserem geliebten
+#facs_196_r2l7 Walterland best möglich abgekehrt, und
+#facs_196_r2l8 anderseits der freye Handel und Wandel
+#facs_196_r2l9 mit ohnverdächtig, und gesunden Ohrten
+#facs_196_r2l10 ohngekränckt beybehalten berden möge.
+#facs_196_r2l11 habend Wir nach verstandener Gebandtnuß
+#facs_196_r2l12 deßen, was in diser letsthin gepflogenen
+#facs_196_r2l13 allgemeinen Eydtgnößischen
+#facs_196_r2l14 zu samenkunfft beabredet worden, so viel
+#facs_196_r2l15 Uns und Unsere Land betreffen will,
+#facs_196_r2l16 dieselben auch gut geheißen und
+#facs_196_r2l17 demenach dann zu mäniglichs Nachricht
+#facs_196_r2l18 ausgebührender Observation
+#facs_196_r2l19 hiemith offentlich kund machen wollen,
+#facs_196_r2l20 Das
+#facs_196_r3l1 383
+#facs_196_r3l2 Erstlichen und vor allem Moniglich Erinneret
+#facs_196_r3l3 seyn dem Gnädigen und darücherzigen Gott
+#facs_196_r3l4 mit dusfertigem Herzigen und Eyfferigem
+#facs_196_r3l5 Hebelt zu erstlichen, daß Er nach seiner
+#facs_196_r3l6 UnErmeßenen Büte Einschbahres Übel
+#facs_196_r3l7 von Unserem geliebten Vatterland abbenden
+#facs_196_r3l8 und Uns ferners in gesund- und gesegnetem
+#facs_196_r3l9 Wohlstand gnädigst erhalten wolle demnach
+#facs_196_r3l10 haben wir
+#facs_196_r3l11 Andertens höchst nöthig befunden zu seyn
+#facs_196_r3l12 von nun an allen Handel und Wandel
+#facs_196_r3l13 mit Hungarn dem Bannat Temeswar
+#facs_196_r3l14 Sibenbürgen, Servien, Wallachey, Sclavonien
+#facs_196_r3l15 Croatien, und Pohlen gänzlichen und
+#facs_196_r3l16 also zu verbiethen daß künfftig hin, daß
+#facs_196_r3l17 auf Unsere fernere Verordnung von
+#facs_196_r3l18 gedachten ohrten keine Persohnen und Waaren
+#facs_196_r3l19 Sie seyen mit Feden, Päßen, und
+#facs_196_r3l20 Besundsheit scheinen versehen oder nicht?
+#facs_196_r3l21 in Unsere Stadt und Landen eingelaßen
+#facs_197_r2l1 werden sollen, unter das Pretext, Schein
+#facs_197_r2l2 und Rahmen selbige auch anlangen
+#facs_197_r2l3 möchten, fahls aber dergleichen Persohnen,
+#facs_197_r2l4 ins Land eingeschlichen, und Eingetrungen
+#facs_197_r2l5 Erfunden Bürden, so solle gegen selbigen
+#facs_197_r2l6 Sie auch gleißmäßig gegen denjenigen
+#facs_197_r2l7 so Ihnen mit vorschub, Hülff und Raht
+#facs_197_r2l8 begegnet, jeh nach befindenden dingen
+#facs_197_r2l9 mit Leib und Lebens- Straff verfahren.
+#facs_197_r2l10 berden, kann aber auch
+#facs_197_r2l11 Prittens RachEingeloffenen Gerichte,
+#facs_197_r2l12 nach benamsete Länder und Provinzie¬
+#facs_197_r2l13 als Nider Österreich Kärnten Crayin
+#facs_197_r2l14 Steyrmarck, Priaul Triest, Plume
+#facs_197_r2l15 Schlesien und Mähren, von den Ppalienischen
+#facs_197_r2l16 Ständen und Standten für suspect und
+#facs_197_r2l17 verdächtig geachtet sind, als solle denen
+#facs_197_r2l18 daher kommenden Persohnen und Waaren
+#facs_197_r2l19 der Eintrilt und durchpaß in Unser
+#facs_197_r2l20 Land anderst nicht gestaltet werden seyn
+#facs_197_r3l1 38½
+#facs_197_r3l2 können, dann genug samme durch authentische
+#facs_197_r3l3 Jeden, Pößen und Gesundheits-Scheinen
+#facs_197_r3l4 bescheinen daß selbige vor Ihrer Abreis an
+#facs_197_r3l5 Einem Besunden und unterdächtigen
+#facs_197_r3l6 und von aller Instruction befreyten Ohrt sich
+#facs_197_r3l7 dreyßig Tag beständig auffgehalten, und
+#facs_197_r3l8 durch gesunde Ohrt Passiert seyen, da dann
+#facs_197_r3l9 solche Feden und Päße alle Tag, oder benigst
+#facs_197_r3l10 zu anderen Tagen unterschreiben, zu mahlen
+#facs_197_r3l11 auch darinn der Persohnen Statur, alter
+#facs_197_r3l12 Haar und Saart beschrieben seyn sollen;
+#facs_197_r3l13 andere aber, welche von obgedacht suspect
+#facs_197_r3l14 und Verdächtig geachteten Ohrten herkommen,
+#facs_197_r3l15 und aber auff obige Form nicht versehen
+#facs_197_r3l16 sollen, mit güte von Unseren Landen
+#facs_197_r3l17 abgehalten oder zu Haltung der Quarantaine
+#facs_197_r3l18 an die anbesinde Ohrt zurück geliesen
+#facs_197_r3l19 barden
+#facs_197_r3l20 Pietens. Was aber die, von anderen
+#facs_198_r1l1 386
+#facs_198_r1l2 Und Landen herkommende Persohnen und
+#facs_198_r1l3 Persohnen und Waaren belanget, So sollen
+#facs_198_r1l4 selbige gleichfahls mit Ordentlichen und
+#facs_198_r1l5 authentischen Teder und Pößen, wie
+#facs_198_r1l6 obgemeldt, versehen seyn, und ohne solche
+#facs_198_r1l7 in Unsere Land nicht Eingelaßen werde,
+#facs_198_r1l8 und zwar der Wahren halber, sollen solche
+#facs_198_r1l9 mit Eydtlichen Sanitet, Scheinen genugsammer
+#facs_198_r1l10 gebahrsamen, und auch mit denen
+#facs_198_r1l11 Primordial Scheinen begleitet seyn, daß
+#facs_198_r1l12 solche an Besunden und ohnverdächtigen
+#facs_198_r1l13 ohrten gebachsen, gefallen gesamlet
+#facs_198_r1l14 verarbeitet gepacht gesackt, und nirgens
+#facs_198_r1l15 durch verholtene oder Suspect geachte
+#facs_198_r1l16 ohrt durchgeführt worden seyen, deßlegen
+#facs_198_r1l17 dan die Eydtliche Sanitet Scheinen Fuhr
+#facs_198_r1l18 und Fracht zedul von denen verordneten
+#facs_198_r1l19 Commissarien auff das Soegfältigste zu
+#facs_198_r1l20 Examinieren, und so sich darbey auch
+#facs_198_r1l21 nur die minste Verdacht zeigen solte
+#facs_198_r2l1 381.
+#facs_198_r2l2 solche so forth anzuhalten, und die Sach der
+#facs_198_r2l3 Ober Leith deß ohrts, wo solche betreten worden
+#facs_198_r2l4 zuleiterer Verordnung anzuzeigen, von welcher
+#facs_198_r2l5 Untersuchung aber sowohl als auch unterschreibung
+#facs_198_r2l6 der Päßen nichts abgeforderet werden, sonderen
+#facs_198_r2l7 ein solches Gratis geschehen solle. Es sollend
+#facs_198_r2l8 auch
+#facs_198_r2l9 Bünfftens Die Deserteurs, Zeltler und
+#facs_198_r2l10 Landschreicher, frömb der Juden auch aller
+#facs_198_r2l11 anderes veräufftes und beschlehrliches Gesind¬
+#facs_198_r2l12 von Unseren Landengänzlich abgehalten
+#facs_198_r2l13 berden, sie haben gleich reden, und Päß
+#facs_198_r2l14 der nicht? auch sollen.
+#facs_198_r2l15 Sechstens fur dehin feine von obgenanten verbottenen
+#facs_198_r2l16 und verdächtigen Ohrten ankommende Krieff so nicht
+#facs_198_r2l17 geraucheret auf den Kränzen abgenommen auch keine
+#facs_198_r2l18 auß den Posthäusern ohne nachmahlige Veräucherung
+#facs_198_r2l19 abgegeben oder anderstbohin versandt worden
+#facs_198_r2l20 Sibandes
+#facs_198_r2l21 Vofind.
+#facs_199_r1l1 ieb. 3.
+#facs_199_r1l2 Sibendes Alle Räysende Persohnen, deßgleichen
+#facs_199_r1l3 auch die Fuhrleüth, dahin anzuhalten, daß
+#facs_199_r1l4 Sie sich keines verbottenen ab und nebenwegs
+#facs_199_r1l5 Stadt und Landungen zu baßer oder Land
+#facs_199_r1l6 gebrauchen, sonderen sich der Ordentlichen
+#facs_199_r1l7 Landstraßen, und Haubtfuhren Einzig.
+#facs_199_r1l8 behelffen sollen, damit aber disem umb
+#facs_199_r1l9 so sicherer nachgelebt werden müße, so hat
+#facs_199_r1l10 jede Oberkeit über sich genommen, die Nebend
+#facs_199_r1l11 straaßen und Fahr entbeder mit
+#facs_199_r1l12 -
+#facs_199_r1l13 Resaun- oder Auffstellung der Stucken auch
+#facs_199_r1l14 anschließung, und Wegnehmung der
+#facs_199_r1l15 Weydlingen und Fahrzeugen bestens zu besorgen
+#facs_199_r1l16 Nun folgen
+#facs_199_r1l17 Achtens
+#facs_199_r1l18 Diejenigen Ohrt und Posten,
+#facs_199_r1l19 allbo die verordneten Commissarii sich befinden
+#facs_199_r1l20 werden und der Eingang von dem Teutschland
+#facs_199_r1l21 char in unser Land seyn solle, als Resel
+#facs_199_r1l22 Liechstahl, auff, Brugg, kraub, Olten, Syndicul
+#facs_199_r2l1 solle et de
+#facs_199_r2l2 Coblenz, Zurzach, Kayserstuhl, Elisauw
+#facs_199_r2l3 Rheinaulo Schaffhausen dießenhoffen Stein
+#facs_199_r2l4 am Rhein, Steckboren, Gottlieben, Errüzlingen
+#facs_199_r2l5 Ensißheim, Böltingen, Arbon, Horn,
+#facs_199_r2l6 Steinach, Roschach, Staad, Reineck, Ammerstein,
+#facs_199_r2l7 Kletten, Salz Werdenberg, und trübenbach
+#facs_199_r2l8 in der Graffschafft Sargans Welche jez
+#facs_199_r2l9 beschriebene Ort allein und keine andere
+#facs_199_r2l10 In dem Eingang in die Eydtquoßschafft von
+#facs_199_r2l11 seithen deß Teutschlands sollen und müßen
+#facs_199_r2l12 gebraucht worden
+#facs_199_r2l13 Reüntens Dan uns Letztlichen so ist nicht
+#facs_199_r2l14 minder mit denen Löblichen drey dündten
+#facs_199_r2l15 gemeinsamlich wir oben berathen, sonderen
+#facs_199_r2l16 auch in Ansehung ihrer Päßen und
+#facs_199_r2l17 derselben Schwahrung verstanden worden,
+#facs_199_r2l18 wir Es deroselben besonderes Monisest
+#facs_199_r2l19 außweiset, maßen Sie sich von selbsten
+#facs_199_r2l20 an Erbolten gemeinsamlich mit Uns auff
+#facs_199_r2l21 guter ohnaußsezlicher Hut zu halten und
+#facs_200_r2l1 Wet Uns Causam Communem zu machen.
+#facs_200_r2l2 umb das gemeine samtliche Liebe
+#facs_200_r2l3 Valterlande unter Gottes Seegen
+#facs_200_r2l4 fleißigst zu besorgen.
+#facs_200_r2l5 Damit nun diser auß Landt Välterlicher
+#facs_200_r2l6 Vorsorg abgefasten Verordnung volg
+#facs_200_r2l7 und Behorsamme geleistet, Mithin
+#facs_200_r2l8 durch daß allerhöchsten Gnad und
+#facs_200_r2l9 Hürte Unser geliebtes Vatterland von
+#facs_200_r2l10 so schl. ehren Üblen so viel Menschen
+#facs_200_r2l11 möglich ferners Erhalten werden möge
+#facs_200_r2l12 Als wird hiemit. allen Unseren ober¬
+#facs_200_r2l13 und Unteren Beambleten, und
+#facs_200_r2l14 angehörigen der Befehl aufgetragen.
+#facs_200_r2l15 die geflißentliche Aufsicht zu haben
+#facs_200_r2l16 daß führohin diserem Einzig und
+#facs_200_r2l17 allein zur Wohlfahrt Unsert gemeinen
+#facs_200_r2l18 valterlandts vorgesehenen Mandats
+#facs_200_r2l19 genaubst nachgelebt werde, Inmaßen
+#facs_200_r2l20 die darbieder handlende nach Reschaffenheit
+#facs_200_r2l21 deß Fehlers, ohnangesehen der
+#facs_200_r3l1 391
+#facs_200_r3l2 Persohn hertiglich, da auch an Leib und
+#facs_200_r3l3 Leben abgestrafft werden sollen.
+#facs_200_r3l4 Auff daß aber disere so nöthige als
+#facs_200_r3l5 heilsamme Verordnung, zu jedermaniglichem
+#facs_200_r3l6 und uns Wiesenschafft gebracht,
+#facs_200_r3l7 und mann sich darnach zu richten, auch
+#facs_200_r3l8 Vor Befahr und schlehren Restraffungen
+#facs_200_r3l9 zu Häeten büßen möge, So ist Unser
+#facs_200_r3l10 Will und Meinung, daß gegenbärtiges
+#facs_200_r3l11 getrunktes Mandat aus allen
+#facs_200_r3l12 gebohnlichen Ohrten in Unseren
+#facs_200_r3l13 Stält und Landen öffentlich
+#facs_200_r3l14 publiciert und angeschlagen werden
+#facs_200_r3l15 solle actum den 5. February
+#facs_200_r3l16 1739
+#facs_200_r3l17 Lankley Bern
+#facs_201_r1l1 392.
+#facs_201_r1l2 Transdation
+#facs_201_r1l3 Nous l'Advoyer & Conseil
+#facs_201_r1l4 De la Ville et Republique de Berne
+#facs_201_r1l5 n'avoir faisons par les presentes; qu'en
+#facs_201_r1l6 suite des tristes Avis qu'on a reçeu a
+#facs_201_r1l7 plusieurs reprises, come quoi il se seroit
+#facs_201_r1l8 malheure sement glisse, deja depuis
+#facs_201_r1l9 quelque tems, une maladie dangereuse
+#facs_201_r1l10 parmis le genre humain dans le Bannet
+#facs_201_r1l11 de Temeswar, de même que dans la
+#facs_201_r1l12 transilvance, & autres endroits du Roiaume
+#facs_201_r1l13 d'hongrie, qui se seroit plustôt augmentée
+#facs_201_r1l14 que diminuée; le Pouable Corps Helvetique
+#facs_201_r1l15 assemblé dans une Diete generale pour
+#facs_201_r1l16 le Convoquée a Baden au mois de Janvier
+#facs_201_r1l17 dernier, ayant trouvé, qu'outre les ordres
+#facs_201_r1l18 particuliers emanés dans chaque Loüable
+#facs_201_r1l19 Canton, il etoit d'une necessitéedispensable
+#facs_201_r1l20 de prendre en cette occasion, des mesures,
+#facs_201_r1l21 et des présentions Comunes, pour d'un Coté
+#facs_201_r1l22 de tournér autant que possible, avec le
+#facs_201_r1l23 secours et la Benediction du Ciel, un si grand
+#facs_201_r2l1 ßes.
+#facs_201_r2l2 Heau de dessus nostre chere patrie et conserver
+#facs_201_r2l3 d'un autre Côté un commerce libre et non-altere
+#facs_201_r2l4 avec d'autres endroits sains et non suspects.
+#facs_201_r2l5 Nous sur ce ajant entendu la Relation, de ce
+#facs_201_r2l6 qui s'etoit passé sur ce sujet dans la ditte Dieté
+#facs_201_r2l7 et des Mesures dont on etoit convenir les
+#facs_201_r2l8 avons aussi a prouvés, autant que cela nous
+#facs_201_r2l9 regarde et nos Païs, et en Consequence d'icelles
+#facs_201_r2l10 nous ordonnons tres serieusement et faisons
+#facs_201_r2l11 publier ce qui suit
+#facs_201_r2l12 Lavant toutes choses, nous exhortons
+#facs_201_r2l13 un chacun de se repandre en Frieres, les plus
+#facs_201_r2l14 ardentes aupres du tout puissant, pour qu'il
+#facs_201_r2l15 luy plaise, par un Effet de sa bonté, et de sa
+#facs_201_r2l16 Misericorde imense, de detourner ce
+#facs_201_r2l17 sleau de dessus nous et nostre chere patrie
+#facs_201_r2l18 et de nous conserver plus outre en Santé,
+#facs_201_r2l19 Deneundion et prosperité
+#facs_201_r2l20 Il Nous avons jugé necessaire de deffendre
+#facs_201_r2l21 entierement des aujourd'huy, toutte
+#facs_201_r2l22 Comunication et tout Comerie avec la
+#facs_201_r2l23 Rongrie, la Bannat de Temeswar, la
+#facs_201_r2l24 Transilvanée, la service, La Valachie,
+#facs_201_r2l25 l'Esclavonie, la Crontie et la Pologne
+#facs_202_r2l1 En sorte qu'à l'avenir jusqu'a Nouvel
+#facs_202_r2l2 ordre émané de nostre part on ne
+#facs_202_r2l3 devra laisser entrer dans nos Villes et
+#facs_202_r2l4 païs aucunes personnes ni Marchandises
+#facs_202_r2l5 venants des Susdits Endroits, qu'ils soyent
+#facs_202_r2l6 munis de Certificats, Passeports et
+#facs_202_r2l7 Billets de Santé ou non, sous quel nom
+#facs_202_r2l8 et pretexte que ce put estre; et si le Cas
+#facs_202_r2l9 arrivoit que de telles personnes se cussent
+#facs_202_r2l10 glissées et entrées par Corce dans nos païs
+#facs_202_r2l11 elles seront chatiés en Corps, ou punies de
+#facs_202_r2l12 mort, si le cas l'exige, de meme que celles
+#facs_202_r2l13 qui leur auront presté quelqu'ayde,
+#facs_202_r2l14 conseil, ou assistance.
+#facs_202_r2l15 Vomre les Nouvelles portent, que
+#facs_202_r2l16 les Endroits et les Provinces cy apres, savoir
+#facs_202_r2l17 la basse autriché, la Carinthie, la Carniole
+#facs_202_r2l18 la Sturie, le Priau la Ville de Trieste
+#facs_202_r2l19 celle de Fiume la Silesie et la Moravie
+#facs_202_r2l20 sont tenus pour suspects par les Etats et
+#facs_202_r2l21 puissances d'Italie, l'Entrée des Persones
+#facs_202_r2l22 A Marchandises, venants de ces païs là
+#facs_202_r2l23 ne devra être accordée que mojennant
+#facs_202_r3l1 395
+#facs_202_r3l2 Des Certificats, Passeports, et Billets de lante
+#facs_202_r3l3 aulhentiques, par les quels ils puissent
+#facs_202_r3l4 verisier, qu'avants leur depart elle se sont
+#facs_202_r3l5 arretées 30 jours de suite et de la passé dans
+#facs_202_r3l6 des Endroits non suspects, et libres de toutes
+#facs_202_r3l7 Infation, les quels Billets, ou se trouveront
+#facs_202_r3l8 bien denotés l'age la taille les Cheveux et
+#facs_202_r3l9 la Barbe des Personnes devront estre signés
+#facs_202_r3l10 tous les Jours, ou tout au moins tous les deux
+#facs_202_r3l11 Jours; toutes autres personnes venants des
+#facs_202_r3l12 susdits Endroits, tenus et censés suspects, et
+#facs_202_r3l13 qui ne seront pas munis de tels Certificats
+#facs_202_r3l14 authentiques come cy dessus de vront estre
+#facs_202_r3l15 renvoyées amiablement de nos Païs ou tenües
+#facs_202_r3l16 de subir la Quarantaine dans les Endroits
+#facs_202_r3l17 qu'on leur indiquera
+#facs_202_r3l18 IIII Quant aux personnes et
+#facs_202_r3l19 Marchandises qui viendront d'autres
+#facs_202_r3l20 pays sains et non suspects elles devront de
+#facs_202_r3l21 meme être pour vues de Passeports et
+#facs_202_r3l22 Certificats authentiques, sans quoy on ne
+#facs_202_r3l23 des laissera point entrer dans nos pays
+#facs_202_r3l24 surtout pour ce qui regarde les Machandises
+#facs_202_r3l25 qui devront estre accompagnées.
+#facs_203_r2l1 D'Attestations sermentales et suffisantes
+#facs_203_r2l2 et mesme des Certificats primordiaux, qui
+#facs_203_r2l3 feront foy, comme quoy elles ont etoient
+#facs_203_r2l4 plantées fueillies, travaillés, empaquetées
+#facs_203_r2l5 et emballées dans les paijs sains et non
+#facs_203_r2l6 suspects, et qu'elles n'ont point passé par
+#facs_203_r2l7 d'autres Endroits tenus pour tels, ou
+#facs_203_r2l8 mis en Intredit; pour cet Effet les
+#facs_203_r2l9 Comissaires devront examiner soigneusement
+#facs_203_r2l10 et avec toute l'Exactitude possible, les dittes
+#facs_203_r2l11 Attestations sermentales, Billets de santé
+#facs_203_r2l12 et Lettres de Voiture, et lorsqu'il y aura
+#facs_203_r2l13 le moindre lieu de soufson il devront les
+#facs_203_r2l14 arrêtér sur le champ, et indiquer le cas
+#facs_203_r2l15 au Magistrat du Pieu ou il sera survenû
+#facs_203_r2l16 pour en attendre les ordres Alterieurs;
+#facs_203_r2l17 cepandant on n'exigera rien pour l'Examen
+#facs_203_r2l18 ne poue la signature des certificats, ce
+#facs_203_r2l19 qui se fera gratis
+#facs_203_r2l20 Les Deserteurs, Mendiants et
+#facs_203_r2l21 vagabonds, de même que les juifs
+#facs_203_r2l22 Etrangers et autres personnes proscrittes
+#facs_203_r2l23 et qui seront onereuses et à Charge
+#facs_203_r3l1 791
+#facs_203_r3l2 au Pays, en devront etre entierement
+#facs_203_r3l3 ren voyées soit qu'ils eussent des Certificats.
+#facs_203_r3l4 ou non
+#facs_203_r3l5 VI. On ne devra recevoir sur les
+#facs_203_r3l6 frontieres aucunes Lettres qui n'auront
+#facs_203_r3l7 pas été par sumées, et on n'en sortira point
+#facs_203_r3l8 hors des Bureaux des Postes, ni on n'en
+#facs_203_r3l9 envoïera ailleurs sans les parfumer de
+#facs_203_r3l10 nouveau
+#facs_203_r3l11 VII Tous les Voiageurs de même que les
+#facs_203_r3l12 Voituriers seront tenû de ne suivre que les
+#facs_203_r3l13 Grand Chemins et les Routes ordinaires
+#facs_203_r3l14 sans se servir des Sentiers, chemins ecartés
+#facs_203_r3l15 ou autres voyes, ny par Eau ni par terre,
+#facs_203_r3l16 et pour que cet article soit d'autant mieux
+#facs_203_r3l17 observe, chaque Etat sest chargé de mettre
+#facs_203_r3l18 ordres a ce que ses passages, et chemins
+#facs_203_r3l19 detournés soient barruadées et les bateaux
+#facs_203_r3l20 avec leurs attirails soient enchaines, ou
+#facs_203_r3l21 entierement otés.
+#facs_203_r3l22 VIII Les Commissaires Etablit se
+#facs_203_r3l23 trouveront dans les Endroits et postes
+#facs_203_r3l24 suivants, par lequels aussi l'Entrée.
+#facs_204_r2l1 Des l'Allemagne de vra se faire dans
+#facs_204_r2l2 nos pays scavoir Bâle Liechtstal Augst,
+#facs_204_r2l3 Brougg, Arauw, Otten, Nijdau Coblenz:
+#facs_204_r2l4 Quilach, Keiserstouhl, Eglisau, Rheinau
+#facs_204_r2l5 schaffhause, Diessenhofe, Stein sur le Rhein,
+#facs_204_r2l6 stekborn Gottlieben, Creuzlin quen
+#facs_204_r2l7 Enisheim Goellinguen Arbon J Eorn
+#facs_204_r2l8 Steinach, Roschach, Staad, Reinek,
+#facs_204_r2l9 Amerstein, Blatten, Sax, Werdenberg
+#facs_204_r2l10 et Trübenbach dans la Comté de Sargans
+#facs_204_r2l11 Lesquels susdits Endroits seuls, à l'Exception
+#facs_204_r2l12 de tous les autres, pourront et devront
+#facs_204_r2l13 servir d'entrée du coté d'Allemagne
+#facs_204_r2l14 en Suisse
+#facs_204_r2l15 IX enfin pour ce qui regarde les trois
+#facs_204_r2l16 Louables Corps Concederés des Grisons
+#facs_204_r2l17 ils sont non seulement en cecy d'accord avec
+#facs_204_r2l18 le Pouable corps Helvetique, mais on a de
+#facs_204_r2l19 plus connu par Rapport à la Garde de
+#facs_204_r2l20 leur passages, ce qui est contenu dans leurs
+#facs_204_r2l21 Manifeste Particulier setant d'ailleurs offerts
+#facs_204_r2l22 une
+#facs_204_r2l23 de leur bon gré, de faire avec nous fausé
+#facs_204_r2l24 Comune, et de contribuer de tout leur possible
+#facs_204_r3l1 399
+#facs_204_r3l2 Sous laDenediction Comme divine, à la
+#facs_204_r3l3 Conservation de nostre Comune chere Patrie
+#facs_204_r3l4 Et afin que la presente nostre serieuse
+#facs_204_r3l5 volonté et ordonnance soit ponctuellement suivie.
+#facs_204_r3l6 et que nostre chere Patrie, avec l'ayde et le secours
+#facs_204_r3l7 du tout puissant, puisse etre plus outre préservée
+#facs_204_r3l8 d'un mal aussi affligeant; nous ordonnons
+#facs_204_r3l9 à tous nos officiers Hauts et Subalternes de Veille
+#facs_204_r3l10 attentivement à l'Exécution de nostre present
+#facs_204_r3l11 Mandat, qui n'a d'autre but que la prosperité
+#facs_204_r3l12 et le Salut Comande la Patrie, nous reservants
+#facs_204_r3l13 de Chatier les contrevenants de la maniere la
+#facs_204_r3l14 plus rigoureuse meme en corps et vie, sans
+#facs_204_r3l15 avoir aucun Egard aux personnes
+#facs_204_r3l16 Pour cet Effet, et afin que chacun, en ayant
+#facs_204_r3l17 connoissance, puisse contribuer de son mieux
+#facs_204_r3l18 à un ouvrage aussi Intressant et se preserver
+#facs_204_r3l19 soy même d'un si grand Danger, et mal menacant
+#facs_204_r3l20 nostre volonté et Intention paternelle est, que
+#facs_204_r3l21 le present Mandat Imprimé soit publié
+#facs_204_r3l22 Sans tous nos Pays, et affiché aux Endroits
+#facs_204_r3l23 accoutumés; fait le 5e fevrier 1739
+#facs_204_r3l24 ftrancellerie de Derne

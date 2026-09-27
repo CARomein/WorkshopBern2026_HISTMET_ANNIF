@@ -1,0 +1,27 @@
+BER.01.001.4878
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 18/18
+# High similarity (>=50%): 17
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_87_r1l1 ibz
+#facs_87_r1l2 Collat
+#facs_87_r2l1 An alle T. vnd W. Ambtleicht,
+#facs_87_r2l2 4. Stätt, Freyw. und Amman.
+#facs_87_r2l3 Item per placcara an alle Thor und pfeiler
+#facs_87_r2l4 hiesiger Haubtstatt
+#facs_87_r2l5 In dermäniglich obiger verruffung vorläuffig
+#facs_87_r2l6 verwahrnen.
+#facs_87_r2l7 Statthalter, Räst vnd Burgere der Statt Bärre etc.
+#facs_87_r2l8 Wir habend heüt vns entschloßen, die Collnischen Funff¬
+#facs_87_r2l9 Pfündler von Ao. 166 verruffen zelaßen, wann aber
+#facs_87_r2l10 das gepräg derselben, und hiemit die getrukten Placcards
+#facs_87_r2l11 so geschwind nit außgefertiget werden mögend, Indeßen
+#facs_87_r2l12 aber dem Land schaden zuwachsen könte, als
+#facs_87_r2l13 habend wir die hiermit vorläuffig zubefehlen gütfunden
+#facs_87_r2l14 alsobald Männiglichen Verwahrnen zulaßen, daß solche
+#facs_87_r2l15 von nun an Einmahl nicht weiters abgenommen
+#facs_87_r2l16 Verdind. Datum 28. Marty 1695.

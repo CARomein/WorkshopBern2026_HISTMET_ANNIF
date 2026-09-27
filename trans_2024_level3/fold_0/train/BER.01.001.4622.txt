@@ -1,0 +1,153 @@
+Law ID: BER.01.001.4622
+Name: Instruktion nach deren sich die Kaminfeger zu Stadt und Land verhalten sollen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_509
+# Matched: 142/142
+# High similarity (>=50%): 132
+# Low similarity (<50%): 10
+# Not found: 0
+#
+#facs_190_r4l7 Instruktion
+#facs_190_r4l8 nach derensich
+#facs_190_r4l9 die Kaminfeger
+#facs_190_r4l10 Stadt und Land
+#facs_190_r4l11 verhalten sollen.
+#facs_190_r4l12 A
+#facs_190_r4l13 C
+#facs_190_r4l14 S. W. Schultheil und Rath den
+#facs_190_r4l15 Stadt und Republik Bern, thun kund hiemit.
+#facs_190_r4l16 daß Wir zu nöthiger Abwendung aller
+#facs_190_r4l17 Feuers gefahr, so durch das nachläsige
+#facs_190_r4l18 Rußen der Kaminen entstehen kann,
+#facs_190_r4l19 folgendes denen Kaminfegeren zu punkt¬
+#facs_190_r4l20 licher Befolgung, unter unausbleiblicher
+#facs_190_r4l21 Verantwortung und Obrigkeitlicher Strafe
+#facs_190_r4l22 ernstlich anbefehlen.
+#facs_190_r4l23 1° Soll jeder Meister sich angelegen
+#facs_190_r4l24 seyn laßen, alle in seinem verzeigten
+#facs_190_r4l25 Bezirk befindliche Kamme wohl zu müssen,
+#facs_190_r4l26 die, so sie wegen ihrer Weite besteigen
+#facs_190_r4l27 beimand
+#facs_191_r2l1 bönnen, mit dem Kraze und Resen¬
+#facs_191_r2l2 die Engeren aber mit Durchziehung
+#facs_191_r2l3 des Tannbuschlins auf das fleisigste
+#facs_191_r2l4 zu putzen und säuberen; kann der
+#facs_191_r2l5 Meister solche Arbeit nicht alle selbsten
+#facs_191_r2l6 verrichten, so soll er nur stüchtige Be¬
+#facs_191_r2l7 stellen dazu gebrauchen, und dann, so
+#facs_191_r2l8 viel möglich, selbsten nachsehen, ob die
+#facs_191_r2l9 Arbeit behörig verrichtet worden seye.
+#facs_191_r2l10 2° Weil der Gebrauch der Kamin
+#facs_191_r2l11 sehr ungleich, da in den Backstuben
+#facs_191_r2l12 Waschhäüsteren, Wirthshäuseren, Küchenen
+#facs_191_r2l13 und theils kommen sehr stark, in anderen
+#facs_191_r2l14 aber einger gefeuret wird, so soll
+#facs_191_r2l15 jeder kaminfeger, solches in seinem
+#facs_191_r2l16 Rezirk bohl in Obacht nehmen erster
+#facs_191_r2l17 öfters, ja benigstens vier mal jährlich,
+#facs_191_r2l18 die übrigen Kamine und darinn gehende
+#facs_191_r2l19 Aerme dann, des Jahrs nicht wenige
+#facs_191_r2l20 als zbey mal rußen; sollte ihm
+#facs_191_r2l21 aber von dem Eigenthümmer oder Geboh
+#facs_191_r2l22 ner des Hauses, einige Verhinderung bestehe
+#facs_191_r2l23 hen, soll er nach Vorbeisung dieser seiner
+#facs_191_r2l24 Instruktion auf behäreliches Widersezen
+#facs_191_r2l25 solches alsobald allhier in der Hauptstadt
+#facs_191_r2l26 Unserm verordneten Dauamt, auf dem
+#facs_191_r2l27 Lom
+#facs_191_r3l1 37
+#facs_191_r3l2 Land aber unseren gesezten Ober¬
+#facs_191_r3l3 entleuten anzeigen
+#facs_191_r3l4 3° Ist ein Kammrohr, oder
+#facs_191_r3l5 Arm deßelben, allzueng, oder so beschaf¬
+#facs_191_r3l6 fen, daß es nicht behörig gerußet werden
+#facs_191_r3l7 kann, soll der Meister solches dem
+#facs_191_r3l8 Eigenthümmer oder Gewohner des Hauses
+#facs_191_r3l9 unverzüglich bekannt machen, und kam
+#facs_191_r3l10 selbiges nicht fördersamst und gut
+#facs_191_r3l11 beränderet wird, soll der Kaminfeger
+#facs_191_r3l12 nach seiner Pflicht, ihne dem Richter
+#facs_191_r3l13 verleiden.
+#facs_191_r3l14 4° Bleiches soll auch geschehen
+#facs_191_r3l15 wann bey fleißiger Besichtigung in dem
+#facs_191_r3l16 in einem Kamin etwas Spalts
+#facs_191_r3l17 Rußen,
+#facs_191_r3l18 oder Holz darinn bemerket wird; dabey
+#facs_191_r3l19 soll der Kaminfeger bohl achten, daß
+#facs_191_r3l20 bein Holzberk dem Kamin zu nahe sey.
+#facs_191_r3l21 und daher Feuersgefahr zu befahren bäre.
+#facs_191_r3l22 5° Und da schon die Erfahrung
+#facs_191_r3l23 mitgebracht, daß es gefährlich ist, denen
+#facs_191_r3l24 Kaminfeger=Meisteren ihren Rußerlohn
+#facs_191_r3l25 sammethaft jährlich auf einmal zu entrich¬
+#facs_191_r3l26 ten, indem es deren geben kann, so es
+#facs_191_r3l27 bogen dörfen den Lohn für das ganze
+#facs_191_r3l28 Jahr zustammen zu empfahen, ohne solchen
+#facs_191_r3l29 pflichtmäßig verdient zu haben, so ist
+#facs_191_r3l30 Auser
+#facs_192_r2l1 Unser Wille, daß solches hinführo nicht
+#facs_192_r2l2 mehr geschehe, sondern die Bezahlung
+#facs_192_r2l3 des Kusserlohns, von den Obrigkeitlichen
+#facs_192_r2l4 hen Häuseren sowohl, als von den Pa¬
+#facs_192_r2l5 0
+#facs_192_r2l6 tibularen an die Kaminfegere, jedes
+#facs_192_r2l7 mal, bann sie die Kamme nach obige
+#facs_192_r2l8 Vorschrift und Nothbendigkeit birklich
+#facs_192_r2l9 gerußet haben, in baarem Belder
+#facs_192_r2l10 langen sollen, und zbar von einem
+#facs_192_r2l11 Hauptkamm vier Dazen, von einem
+#facs_192_r2l12 mundern z bey oder drey Pazen, u
+#facs_192_r2l13 von einem Arm ein Satzen
+#facs_192_r2l14 6° Soll beim Meister das Stüßen
+#facs_192_r2l15 in seinem Bezirk und wo er es bis
+#facs_192_r2l16 dahin verrichtet, einem andern über
+#facs_192_r2l17 laßen, und soll jeder für die fleißige
+#facs_192_r2l18 Observation, dieser zu allge¬
+#facs_192_r2l19 Sicherheit gemachten Verordnung, und
+#facs_192_r2l20 seinem Quartier gut stehen, auch
+#facs_192_r2l21 etwas hierinn durch seine Schuld ver
+#facs_192_r2l22 nachläßiget bürde, den Schaden ersezung
+#facs_192_r2l23 Endlich und damit der Richter jeden
+#facs_192_r2l24 Orts, eine genaue Aufsicht über der
+#facs_192_r2l25 feüers gefährlichen Gebäude seines Amts
+#facs_192_r2l26 bezirks haben könne, sollen sämtliche
+#facs_192_r2l27 Kaminfeger
+#facs_192_r4l1 cherung.
+#facs_192_r4l2 Kaminfeger hiedurch gehalten seyn, alle
+#facs_192_r4l3 Jahre zbey Mal, als auf den 1ten October
+#facs_192_r4l4 und auf den 1ten Aprill, den Rapport
+#facs_192_r4l5 ihrer Verrichtungen im Jahr, und des
+#facs_192_r4l6 schaffenheit der Feürstästen und Kami¬
+#facs_192_r4l7 men, demselben getreülich anzuzeigen,
+#facs_192_r4l8 damit derselbe, je nach Beschaffenheit der
+#facs_192_r4l9 Umständen die nötig findenden Remen
+#facs_192_r4l10 duren unverzüglich vorkehren könne,
+#facs_192_r4l11 unterlaßenden falls, unter der dar¬
+#facs_192_r4l12 aufsetzenden Straf von zehen Pfunden
+#facs_192_r4l13 Auß zu unseren Handen von den
+#facs_192_r4l14 Fehlbaren zu erheben.
+#facs_192_r4l15 Beben den 23ten April 1788.
+#facs_192_r4l16 c
+#facs_192_r4l17 A
+#facs_192_r4l18 die Accademie in Lausanne
+#facs_192_r4l19 demie an die Clas daselbst
+#facs_192_r4l20 Wegen den Prob=Predigten zu der
+#facs_192_r4l21 verledigten französischen Helferstelle
+#facs_192_r4l22 hiesiger Hauptstadt.
+#facs_192_r4l23 in
+#facs_192_r4l24 Schultheiß und Rath etc.
+#facs_192_r4l25 Zu Haltung der gewöhnlichen Prob Predig
+#facs_192_r4l26 ten für die verledigte Helferstelle allhier
+#facs_192_r4l27 haben Wir Tag angesetzt, wie die hier zu
+#facs_193_r2l1 End stehende Verzeichnis solches ausbe¬
+#facs_193_r2l2 Ihr werdet demnach denen in der
+#facs_193_r2l3 Wahl sich befindlichen Subjecten solches
+#facs_193_r2l4 bekannt machen, und ihnen verdeüten
+#facs_193_r2l5 etwelche Tage von Erstattung ihrer
+#facs_193_r2l6 Probpredigt, sich bey dem allhiesigen
+#facs_193_r2l7 Deben Wyttenbach, zu Erhaltung der
+#facs_193_r2l8 Datum
+#facs_193_r2l9 Teptes anzumelden.
+#facs_193_r2l10 den 13.den Mäy 1788.

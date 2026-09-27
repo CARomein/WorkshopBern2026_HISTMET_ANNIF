@@ -1,0 +1,324 @@
+Law ID: BER.01.001.4382
+Name: Ihnen das getrukte Mandat, wegen verbottener Ausfuhr dess grossen und kleinen Vychs aus hiesigen Landen zusenden.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 313/313
+# High similarity (>=50%): 309
+# Low similarity (<50%): 4
+# Not found: 0
+#
+#facs_227_r3l1 An
+#facs_227_r3l2 Alle Teutsch und Weltsche Herren Amtleuth
+#facs_227_r3l3 4. Stäck, Freyweibel und Ammann
+#facs_227_r3l4 Ihnen das getrubte Mandat, wegen Verbockene
+#facs_227_r3l5 Ausfuhr deß Großen und kleinen Vychs aus¬
+#facs_227_r3l6 hiesigen Landen zusenden
+#facs_227_r3l7 Stadthalter Räht und Burger etc.
+#facs_227_r3l8 Da Wir durch die gegenwärtigen Zeit Um¬
+#facs_227_r3l9 ständ veranleset worden, durch Mitbom¬
+#facs_227_r3l10 mendes Mandat, die Ausfuhr des Brosen
+#facs_227_r3l11 und kleinen Vychs bis auf den 1ten Aprilis
+#facs_227_r3l12 1771. zu verbieten, und zu Behinderung des
+#facs_227_r3l13 fürkauffs desselben, die daselbs enthalten
+#facs_227_r3l14 vorsorgen zu thun; So haben Wir Euch
+#facs_227_r3l15 dabon gnugsame Exemplaria zusenden,
+#facs_227_r3l16 und Euch hiemit Anbefehlen wollen, solches
+#facs_227_r3l17 allsobald mit aller Beförderung öffentlich von
+#facs_227_r3l18 anzlen publicieren, und auch an den gewoh¬
+#facs_227_r3l19 Den Orten anschlagen zu laßen, auf deßen
+#facs_227_r3l20 Execution dann geflißen zu achten, und daß
+#facs_227_r3l21 diesem Mandat das Leben gegeben werde,
+#facs_227_r3l22 mit nur mit aller Sorgfalt zu vigilieren, sondern
+#facs_227_r3l23 ruch die darzu nöhtigen Anstalten vorzubehren,
+#facs_227_r3l24 solches auch seines orts einschreiben zu laßen. Wie
+#facs_227_r3l25 Zuthun v. Dat. d. 13ten July 1770.
+#facs_227_r4l1 425.
+#facs_227_r4l2 Mandat
+#facs_227_r4l3 Colats Dir Statthalter, Flein und Broße
+#facs_227_r4l4 Rähte der Stadt und Republiu Bern, entbieten
+#facs_227_r4l5 allen und jeden unseren Angehörigen zu
+#facs_227_r4l6 Stadt und Land, Unseren Gnädigen und Wohl¬
+#facs_227_r4l7 geneigten Willen, und dabey zu vernemmen
+#facs_227_r4l8 Demnach Wir wahrnemmen müßen, daß ohn
+#facs_227_r4l9 geacht der Väcterlichen Vorsorg, welche Unser
+#facs_227_r4l10 Tägliche Raht unterm 15ten deß lezt abgewichen
+#facs_227_r4l11 May, in Ansehen des Fürbauffs deß großen
+#facs_227_r4l12 reiten Hornvychs genommen, jedennoch die
+#facs_227_r4l13 Schaalen und Fleisch Stänbe in Unseren Lan¬
+#facs_227_r4l14 den nicht erforderlicher maßen versehen
+#facs_227_r4l15 werden können, und dabey auch zugleich zu
+#facs_227_r4l16 besorgen seyn, daß Unsere Land an aller¬
+#facs_227_r4l17 hand klein und Großem Hornwych entblößet
+#facs_227_r4l18 werden dörfften; haben aus diesen und
+#facs_227_r4l19 anderen genügsamm uns darzu bewegenden
+#facs_227_r4l20 Ursachen, wir hiemit für nohtwendig zu
+#facs_227_r4l21 seyn erachtet, die Ausfuhr alles Horn Vychs¬
+#facs_227_r4l22 wie auch der Kälberen und Schaaffen von
+#facs_227_r4l23 Dato der bundmachung dieser Ordnung an
+#facs_227_r4l24 biß auf den 1ten Aprilis daß von Bock
+#facs_227_r4l25 erwartenden 1771ten Jahrs, alles Ernsts und
+#facs_228_r2l1 Nicht allein bey Confiscation des Ausführendi
+#facs_228_r2l2 Vychs, sondern annoch bey einer ohnabläßige
+#facs_228_r2l3 Buß von Fünfzig Pfunden von jedem Großen
+#facs_228_r2l4 Stube Vych, und zehen Pfunden von jedem Schaaff
+#facs_228_r2l5 oder Kalb, so wohl von dem Kaüffer als Verkauf
+#facs_228_r2l6 zu erheben, zu verbieten, alles jedennoch
+#facs_228_r2l7 unter nachstehenden Vorbehaltnußen und
+#facs_228_r2l8 Ausnahm
+#facs_228_r2l9 1o Daß denen Eisgnößischen Meisteren Mezger
+#facs_228_r2l10 Hanswerbs, ferners hin gestattet seyn solle, so
+#facs_228_r2l11 lang und in so weit als die Unserigen hinter
+#facs_228_r2l12 ihnen gleiche Freyheit genießen werden, a
+#facs_228_r2l13 den kentlichen JahrMärkten in unseren
+#facs_228_r2l14 Landen zu Versehung ihrer Fleisch Bänten
+#facs_228_r2l15 das benöhtigte Vych persöhnlich anzukaufen
+#facs_228_r2l16 alles jedoch der Meinung und unter dem
+#facs_228_r2l17 Vorbehalt, daß durch vorweisende Rechtsbestände
+#facs_228_r2l18 dige Zeugnußscheinen von der Oberkeit
+#facs_228_r2l19 oder dem Ober-Amtsmann des Ohrts, die
+#facs_228_r2l20 Anzahl und Beschaffenheit des anzukauffen
+#facs_228_r2l21 tenohtigten Vychs, und daß es alleine für die
+#facs_228_r2l22 Mezger Bänbe und keines wegs zum Wider
+#facs_228_r2l23 Verkauft gewidmet seye, glaubwürdig beschei¬
+#facs_228_r2l24 niget werde, ansonsten selbige mit obbe
+#facs_228_r3l1 welcher
+#facs_228_r3l2 stimter Straff sollen belegt werden.
+#facs_228_r3l3 II daß allen Eignoßen überhaubt gestattet seyn
+#facs_228_r3l4 solle, das, für ihren selbst eigenen Gebrauch¬
+#facs_228_r3l5 benöhtigte Klein- und große Beych auf denen
+#facs_228_r3l6 Jahr Märkten in Unseren Landen anzukauffen
+#facs_228_r3l7 doch sollen Sie gleichfahls verbunden seyn,
+#facs_228_r3l8 durch Vorweisung eines Zeugnuß-scheins von
+#facs_228_r3l9 ihrer Obrigkeit oder dem Ober Amtsmann deß
+#facs_228_r3l10 Orts zu bescheinigen, daß das ankaufende
+#facs_228_r3l11 vych allein zu ihrem selbst eigenen Gebraung
+#facs_228_r3l12 und keineswegs für Äußere und Frembde
+#facs_228_r3l13 gewidmet seye, maßen ansonsten selbige mit
+#facs_228_r3l14 Confiscation deß Angebaufften Vychs, und 50.
+#facs_228_r3l15 Pfund Buß von jedem großen Stuk, und 10 Pfun¬
+#facs_228_r3l16 den von jedem Kalb und Schaf, sollen ange¬
+#facs_228_r3l17 sehen und bestrafft werden. Es sollen aber
+#facs_228_r3l18 Unsere Amtleute, und in derselben Abwesen¬
+#facs_228_r3l19 heit ihre Stadthalter oder andere vorgesezte
+#facs_228_r3l20 der Enden, da dergleichen Großes, oder kleine
+#facs_228_r3l21 Vych auf den Jahr Märbten obvermelter maßen
+#facs_228_r3l22 angekaufft wurde, so gleich in die Vorlegende
+#facs_228_r3l23 Zeügnuß, Scheine das angekauffte Vych, mit
+#facs_228_r3l24 Beysezung der Qualitet und daß Preises, nebst
+#facs_228_r3l25 dem Tag und Jahr einschreiben, die unterschriebenen
+#facs_229_r3l1 Scheinen aber, denen so das Vych erhandlet,
+#facs_229_r3l2 wider zustellen, damit sie solche zu erfor¬
+#facs_229_r3l3 derlicher controlle auf den Grenzen Unserer
+#facs_229_r3l4 Landen vorweisen können, wo dann alle aus
+#facs_229_r3l5 führende Stule Vych so nicht mit dergleichen
+#facs_229_r3l6 signierten Certificaten und vorermelten
+#facs_229_r3l7 Attestaten von Unseren Amtleüten, Ihren
+#facs_229_r3l8 Stadthalteren oder anderen vorgesezten
+#facs_229_r3l9 versehen seyn werden, auf den Grenzen
+#facs_229_r3l10 angehalten, und obiger maßen Confisciert
+#facs_229_r3l11 und die Führer mit der bestimten Buß-
+#facs_229_r3l12 belegt werden sollen. Für die Attestationen
+#facs_229_r3l13 dann, soll für das Emolument von jedem
+#facs_229_r3l14 abführenden Haubt, nemlich von einem
+#facs_229_r3l15 großen Stub 1 Bazen, und von einem kleinen
+#facs_229_r3l16 Stuk 1 Creuzer bezahlt werden.
+#facs_229_r3l17 daß alles unter vorbenanten gedingen von
+#facs_229_r3l18 Unseren MitEisgnoßen erhandlende Vych¬
+#facs_229_r3l19 ton dem Käuffer, allso gleich an die Hand
+#facs_229_r3l20 genommen, und aus Unseren Landen
+#facs_229_r3l21 geführt, keineswegs aber auf gleichen
+#facs_229_r3l22 Tag und Markt, weder von denselben ver¬
+#facs_229_r3l23 handlet werden solle. Es sollen aber
+#facs_229_r3l24 IV. Unter obigem Ausführ-Verbock des klein und
+#facs_229_r4l1 429.
+#facs_229_r4l2 Broßen Vychs nicht begriffen seyn die Stieren
+#facs_229_r4l3 -
+#facs_229_r4l4 so Zbey Jahr alt und darunter sind, welche
+#facs_229_r4l5 denen Fremden und Einheimschen auf denen
+#facs_229_r4l6 öffentlichen Jahr- und Vychmärkten anzukauffen,
+#facs_229_r4l7 und aus dem Land zu führen hiermit verwilliger
+#facs_229_r4l8 bleibet
+#facs_229_r4l9 Den Fürkauff auf allem Vych betreffend, ist
+#facs_229_r4l10 Unser Will, daß derselbige fürbas, nicht nur
+#facs_229_r4l11 in Ansehen deß Mast Vychs, sondern auch in
+#facs_229_r4l12 ansehen alles übrigen klein uns großen Vychs
+#facs_229_r4l13 verbotten, auch maniglich gehalten seyn.
+#facs_229_r4l14 solle, das im Land erhandlende Klein und
+#facs_229_r4l15 Große Vych, allsobald ab deß Verkauffers¬
+#facs_229_r4l16 Futer zu nemen, und eher sie solches wider
+#facs_229_r4l17 verkaufen, das große Vych aufs wenigst
+#facs_229_r4l18 Sechs Wochen und Drey Tag lang, die Kälber
+#facs_229_r4l19 aber drey Wochen ob ihrem eigenen Futer zu
+#facs_229_r4l20 erhalten; Alles bey obvermelter Straff der
+#facs_229_r4l21 Confiscation deß Vychs und 50 Pfund Buß von
+#facs_229_r4l22 jedem großen Stuk, und 10. Pfund von jedem
+#facs_229_r4l23 Schaf und Kalb zu beziehen.
+#facs_229_r4l24 VI. Wir verbieten ferners allen Unseren angehörigen
+#facs_229_r4l25 zu Stadt und Land alles Ernsts, unter Eingangs
+#facs_229_r4l26 bemelter und nach erforderen mehrerer Bestraf
+#facs_230_r1l1 430.
+#facs_230_r1l2 fung kein dergleichen Vych aus dem Land¬
+#facs_230_r1l3 zu verkaufen, zu führen, noch fuhren zu
+#facs_230_r1l4 laßen, oder sonsten in einiche wege und weil
+#facs_230_r1l5 weder für Eidgnößische noch andern Mezger
+#facs_230_r1l6 oder Häudler sich als Unterhändler oder
+#facs_230_r1l7 Commissionaires gebrauchen zu laßen, oder deß¬
+#facs_230_r1l8 halb mit Jemand einichen Accord oder Abred
+#facs_230_r1l9 zu treffen, alles unter der in dem Mandat
+#facs_230_r1l10 bestimter Straff und der darauf gesezten
+#facs_230_r1l11 Confiscation
+#facs_230_r1l12 Wir befehlen demnach unseren Ober- und
+#facs_230_r1l13 Unter, Beamteten geflißene Hand abzuhalten
+#facs_230_r1l14 daß diesere Unsere Verordnung gebührend
+#facs_230_r1l15 beobachtet, die Widerhandlende aber zu
+#facs_230_r1l16 wohl verdienter hievor bestimter Buß und Confis¬
+#facs_230_r1l17 cation gezogen werden; von welcher Buß und
+#facs_230_r1l18 Confiscation so dann jeweilen Ein Drittel Uns
+#facs_230_r1l19 der Obrigkeit, ein Driczel dem Amtsmann
+#facs_230_r1l20 deß Orts, und ein Drickel dem Verleider Heim
+#facs_230_r1l21 dienen soll, zu welchem End diese Unsere Verord¬
+#facs_230_r1l22 nung nicht allein zu maniglichs nachricht offentl.
+#facs_230_r1l23 ten Canzlen verlesen, sondern auch gewohnter
+#facs_230_r1l24 Orten angeschlagen werden soll. Geben in Unser
+#facs_230_r1l25 Großen Rahts Versamlung den 13. July 1770
+#facs_230_r3l1 H31
+#facs_230_r3l2 Traduction
+#facs_230_r3l3 Obid
+#facs_230_r3l4 Dous L'Avoyer Petit et Grand Conseil de
+#facs_230_r3l5 la Ville et Republique de Berne a tous et chacun de
+#facs_230_r3l6 Nos chers et fiaux Citoyens, Sujets & Ressortissants.
+#facs_230_r3l7 Leur Mandons Nôtre gracieuse Bienveillance, & leur
+#facs_230_r3l8 faisons savoir: Quétant informés, comme quoi nonobs
+#facs_230_r3l9 tant les soins paternels qu'a eu nôtre Petit Conseil
+#facs_230_r3l10 de publier, sous la date du 15. de May dernier, une
+#facs_230_r3l11 Ordonnance expresse, pour tâcher de prévenir & dem
+#facs_230_r3l12 pêcher le Monopole & Trafic illicite des grosses Bêtes
+#facs_230_r3l13 a Cornes, les Boucheries de Nos Pays ne se trouvoient
+#facs_230_r3l14 cependant pas suffisamment pourvues des Viandes neces
+#facs_230_r3l15 saires; et que de plus il est à craindre, que Nos dits
+#facs_230_r3l16 Pays ne viennent à se dépeuplez de toute toute sorte
+#facs_230_r3l17 de Gros et de petit Bêtail; Nous, a ces causes,
+#facs_230_r3l18 avons trouvé bon d'interdire par les presentes, très
+#facs_230_r3l19 Serieusement la sortie de toute Bête a Cornes, ainsi
+#facs_230_r3l20 que celle des Veaux & des Brébis; et ce des la Date
+#facs_230_r3l21 de la Publication du présent Mandat jusqu'au 1er.
+#facs_230_r3l22 d'avril de l'année prochaine 1771 sous peine non
+#facs_230_r3l23 seulement de confiscation du Bêtail qu'on auroit
+#facs_230_r3l24 voulu faire fortir du Pays, mais encore d'une amende
+#facs_230_r3l25 irremissible de Cinquante Livres de Nôtre Monnoye
+#facs_230_r3l26 pour chaque Tête de gros Bêtail, & de dix Livres pour
+#facs_231_r2l1 Châque Brébis ou Veau, payable également par
+#facs_231_r2l2 l'acheteur et le Vendeur; le tout cependant sous les
+#facs_231_r2l3 clauses et les exceptions suivantes
+#facs_231_r2l4 2. Qu'il continuera d'être loisible & permis aux maitres
+#facs_231_r2l5 Bouchers des Cantons Alliés, autant et pour tout
+#facs_231_r2l6 le tems que les Nôtres y jouiront reciproquement
+#facs_231_r2l7 du même droit, dacheter en personne dans Nos Pays
+#facs_231_r2l8 aux foires annuelles, le Bétail qui leur sera
+#facs_231_r2l9 necessaire pour garnir leurs Etaux; le tout néan-
+#facs_231_r2l10 moins à condition et sous la reserve expresse,
+#facs_231_r2l11 que moyenant l'Exhibition des Certificats düemen
+#facs_231_r2l12 égalises, dont ils devront être munis de la part de
+#facs_231_r2l13 leur Souverain ou du Baillif du lieu, ils fassent
+#facs_231_r2l14 constater authentiquement tant le Nombre & la
+#facs_231_r2l15 qualité du Bêtail dont ils aurons besoin, que de
+#facs_231_r2l16 ce qu'uniquement il est destiné pour l'entretien de
+#facs_231_r2l17 leurs Boucheries, & pas pour en faire trafic & pour
+#facs_231_r2l18 le revendre; sans quoi les Contrevenants subiront
+#facs_231_r2l19 la peine du châtiment ci dessus enoncé
+#facs_231_r2l20 II. Qu'en général il devra être permis aux Allies de
+#facs_231_r2l21 pouvoir acheter dans Nos Pays, aux tems des foire
+#facs_231_r2l22 Annuelles, le gros et le petit Bêtail, dont ils
+#facs_231_r2l23 auront besoin pour leur propre usage; mais ils
+#facs_231_r3l1 „
+#facs_231_r3l2 seront également obligés de produire des Attestations
+#facs_231_r3l3 formelles de la part de leur Souverain, ou du Baillis
+#facs_231_r3l4 du lieu, qui fassent foi, que le Bétail dont ils voudront
+#facs_231_r3l5 faire Emplette n’est absolument destiné que pour leur
+#facs_231_r3l6 -
+#facs_231_r3l7 propre usage, et nullement pour des forains &
+#facs_231_r3l8 Etrangers; puisqu'a défaut de telle précaution, ils
+#facs_231_r3l9 seront sujets à la confiscation du Bétail acheté; &
+#facs_231_r3l10 à une amende de Cinquante Livres pour chaque tete
+#facs_231_r3l11 de gros Bétail, & de dix Livres pour chaque Veau &
+#facs_231_r3l12 Brébis. Et devront Nos Baillifs, et en cas d’absence
+#facs_231_r3l13 leurs Lieutenans ou dautres Préposés des Lieux, aux
+#facs_231_r3l14 foires desquels ces Achats de gros ou de petit Bétail
+#facs_231_r3l15 auront été faits, à l'Exhibition qui leur fera faite
+#facs_231_r3l16 desdits Certificats, y inscrire tout-de-suite le nombre
+#facs_231_r3l17 la qualité & le prix des Bêtes achetées, de même que
+#facs_231_r3l18 la Date du jour & de l'an de ces achats: Et en suite
+#facs_231_r3l19 ces mêmes Certificats, duement Signés, devront être
+#facs_231_r3l20 rendus aux Acheteurs de ces Bestiaux, pour qu'au moyen
+#facs_231_r3l21 d'une nouvelle exhibition quils en feront, lesdits Bestiaux
+#facs_231_r3l22 puissent être exactement controlleés d’après ces actes
+#facs_231_r3l23 authentiques, sur les frontieres de nos Pays, ou
+#facs_231_r3l24 toutes et chaque tête de Bêtail, dont la sortie ne se
+#facs_231_r3l25 trouvera pas authorisée par de pareils Certificats
+#facs_231_r3l26 signes, & par les attestations sus mentionnées de
+#facs_232_r2l1 Nos Baillis, leurs Lieutenants ou d'autres Preposés
+#facs_232_r2l2 devront être arretées et confisquées, comme est dit
+#facs_232_r2l3 cy-dessus, & leurs conducteurs mis à l'amende désigné
+#facs_232_r2l4 Quant aux Emoluments dûs pour ces Attestations
+#facs_232_r2l5 on payera pour la sortie de chaque tête de gros
+#facs_232_r2l6 Bêtail un bache, et pour chaque tête de petit
+#facs_232_r2l7 Bétail un Crutzer
+#facs_232_r2l8 III. Tout Bétail acheté par Nos alliés sous les Clauses
+#facs_232_r2l9 et conditions susdites, devra etre retire incontinent
+#facs_232_r2l10 par l'acheteur, & emmené hors du Pays, et il ne
+#facs_232_r2l11 devra pas le revendre le même jour, ou durant la
+#facs_232_r2l12 même foire
+#facs_232_r2l13 IV. Dans la Susdite Defense pour la sortie du gros &
+#facs_232_r2l14 du petit Bétail, ne devront neanmoins pas être
+#facs_232_r2l15 compris les jeunes Boeufs de deux ans & au-dessous
+#facs_232_r2l16 dont aux foires annuelles & marchés publics de
+#facs_232_r2l17 Bétail, l'achat ainsi que la sortie du Pays demeu
+#facs_232_r2l18 vera libre & permise à tout Particulier tant Etrangé
+#facs_232_r2l19 que Citoyen ou Sujet
+#facs_232_r2l20 Quant au Monopole de toute sorte de Bétail & au
+#facs_232_r2l21 achats pour revente, Voulons et entendons, qu'ils
+#facs_232_r2l22 foient et demeurent interdits & défendus, non seule
+#facs_232_r2l23 ment pour les Bêtes grasses, mais aussi pour toute
+#facs_232_r4l1 435.
+#facs_232_r4l2 autre espece de gros & de petit Bétail; et devront le
+#facs_232_r4l3 Acheteurs être tenus de retirer tout de suite de la Creche.
+#facs_232_r4l4 des Vendeurs le gros ou petit Bétail qu'ils auront
+#facs_232_r4l5 acheté: Et devront ces mêmes Acheteurs, avant que de
+#facs_232_r4l6 pouvoir le revendre, être tenu de le garder chez eux &
+#facs_232_r4l7 l'entretenir de leur propre fourage, savoir les têtes de
+#facs_232_r4l8 gros Bétail tout au moins pendant six semaines & trois
+#facs_232_r4l9 jours, & les veaux durant trois semaines; le tout sous
+#facs_232_r4l10 la susdite peine de confiscation du Bétail & de Cinqua¬
+#facs_232_r4l11 te Livres d'Amende pour chaque tête de gros Bétail
+#facs_232_r4l12 & de dix Livres pour chaque Mouton et Veau,
+#facs_232_r4l13 Defendons très serieusement, & sous la peine cy dessus
+#facs_232_r4l14 mentionnée, & de plus griefs châtimens encore, s'il y
+#facs_232_r4l15 échoit, a tous Nos Citoyens, Sujets & ressortissans de
+#facs_232_r4l16 Nos Villes et Pays, de vendre hors du Pays, démmener
+#facs_232_r4l17 ou de faire emmener du Bétail sus mentioné, ou de se
+#facs_232_r4l18 laisser employés ou de servir en aucune maniere de
+#facs_232_r4l19 Pourvoyeurs, d'Entremetteurs ou de Commissaires par
+#facs_232_r4l20 des Marchands, Bouchers et Trafiquans des Cantons
+#facs_232_r4l21 Allies ou autres, ou de s'entendre ou du faire, pour
+#facs_232_r4l22 telles choses quelqu’accord que ce soit, & avec qui que
+#facs_232_r4l23 ce puisse être; le tout sous peine du châtiment
+#facs_232_r4l24 porté par la présente Ordonnance & de la confiscation
+#facs_232_r4l25 y enoncée.
+#facs_233_r3l1 Mandons partant, et Commandons à Nos Bailliss,
+#facs_233_r3l2 Lieutenants et Officiers Subalternes de tenir Soignez
+#facs_233_r3l3 sement la main à l'observation exacte & précise
+#facs_233_r3l4 de cette Ordonnance, & de faire Subir aux Contre-
+#facs_233_r3l5 venants la juste peine de leur Transgression, par
+#facs_233_r3l6 l'amende & la Confiscation prédites; de laquelle
+#facs_233_r3l7 Amende & Confiscation il devra chaquefois revenu
+#facs_233_r3l8 un tiers à Nôtre fisc, un tiers au Baillif du Lieu
+#facs_233_r3l9 et un tiers au Delateur: A l'effet de quoi, la
+#facs_233_r3l10 présente Nôtre Ordonnance, affin que chacun en
+#facs_233_r3l11 ait connoissance pour sy conformer, sera non
+#facs_233_r3l12 seulement lüe publiquement en chaire, mais
+#facs_233_r3l13 encore affichée aux Endroits accoutumes. Ainsy
+#facs_233_r3l14 fait et arreté dans Nôtre Grand Conseil le 13
+#facs_233_r3l15 de Juillet 1770
+#facs_233_r3l16 hancellerie de Berne

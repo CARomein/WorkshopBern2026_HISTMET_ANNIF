@@ -1,0 +1,120 @@
+Law ID: BER.01.001.4370
+Name: Erfrischte Verordnung wegen fremder Recrouten Durchführung durch hiesige Land.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_503
+# Matched: 109/109
+# High similarity (>=50%): 107
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_177_r4l1 3.29
+#facs_177_r4l2 Erfrischte Verordnung
+#facs_177_r4l3 Wegen fremder Recrouten Durchführung durch hiesige
+#facs_177_r4l4 Land
+#facs_177_r4l5 Collaten Wir Schultheiß und Raht der Stadt und
+#facs_177_r4l6 .
+#facs_177_r4l7 Respublie Bern thun kund hiermit;
+#facs_177_r4l8 Demnach Wir bey gehabtem Anlaß wahre,
+#facs_177_r4l9 nemmen müßen, welcher gestalten
+#facs_177_r4l10 die von Unseren Gnädigen Herren
+#facs_177_r4l11 und Oberen unterm 24ten february des
+#facs_177_r4l12 lezt abgewichenen 1769 Jahrs ausge¬
+#facs_177_r4l13 schriebene Verordnung, wegen durchfüh¬
+#facs_177_r4l14 rung fremder Recrouten durch Unsere
+#facs_177_r4l15 Lande, nicht aller Orten beobachtet worden
+#facs_177_r4l16 So hat ein solches uns veranlaßet,
+#facs_177_r4l17 bemelte Verordnung zu Mäniglichs
+#facs_177_r4l18 Nachricht und Verhalt in folgendem in
+#facs_177_r4l19 Druck auszugeben.
+#facs_177_r4l20 Schultheiß Räht und Bürger der Stadt Bern
+#facs_177_r4l21 Unser Gruß bevor; Wohlfelgebohrner,
+#facs_177_r4l22 Lieber und getreuer Amtsmann
+#facs_177_r4l23 Weilen Wir nöhtig erachtet, nicht allein
+#facs_177_r4l24 Unsere öffers ergangene Ordnungen,
+#facs_177_r4l25 ansehend den Durchmarsch fremder Recrouten
+#facs_177_r4l26 durch Unsere Bockmäßigkeit, von einem
+#facs_178_r4l1 zu publicieren, sondern auch selbige mit
+#facs_178_r4l2 welchen Artiblen zu vermehren; als
+#facs_178_r4l3 haben Wir Eüch /: gleich allen anderen
+#facs_178_r4l4 Unseren Amtleuten) hiemit solche Zusenden
+#facs_178_r4l5 und befehlen wollen, diese Punkten
+#facs_178_r4l6 genau zu beobachten
+#facs_178_r4l7 Sollen keine Fremde Recouten starber
+#facs_178_r4l8 Truppens weis, ohne Unseren Special Erlaub¬
+#facs_178_r4l9 nuß, das Land Durchreisen
+#facs_178_r4l10 Wann Sie die Erlaubnus erhalten, soll
+#facs_178_r4l11 der Führer mit einem Pass, von dem
+#facs_178_r4l12 Ort wo er Abreißt, versehen seyn, auf
+#facs_178_r4l13 welchem die Anzahl der sich führenden
+#facs_178_r4l14 Manschafft verzeichnet, und der Ort
+#facs_178_r4l15 seines Eintritts und Ausgangs Unserer
+#facs_178_r4l16 Bockmäßigkeit benamset seyn.
+#facs_178_r4l17 3o dieseren Pass samt der signalements Liste
+#facs_178_r4l18 seiner Mauschafft, soll er dem Ersten
+#facs_178_r4l19 Amtsmann bey Eintrich Unserer Bockmäßig¬
+#facs_178_r4l20 keit, samt der Recrië vorweisen.
+#facs_178_r4l21 4° Der Amtsmann soll auf seiner Liste sich
+#facs_178_r4l22 unterschreiben, wie viel Mannschafft ihme
+#facs_178_r7l1 7
+#facs_178_r7l2 8
+#facs_178_r8l1 331.
+#facs_178_r8l2 Vorgestellt worden seye, und ihme selbige
+#facs_178_r8l3 wider zurük stellen.
+#facs_178_r8l4 Bey Ausgang der Recrouten aus Unserer
+#facs_178_r8l5 Bockmäßigkeit, soll der Führer selbige gleich
+#facs_178_r8l6 fahls dem Amtsmann vorstellen, und Ihme
+#facs_178_r8l7 vorweisen, seine von dem Ersten Amtsmann
+#facs_178_r8l8 unterschriebene Liste.
+#facs_178_r8l9 Befinden sich von Unseren Unterthanen
+#facs_178_r8l10 in der Recrouten, so sollen selbige, wann
+#facs_178_r8l11 Sie aüßert Unserer Bockmäßigkeit ange¬
+#facs_178_r8l12 worben, für ihre Person in Arrest genom¬
+#facs_178_r8l13 men werden, und der Führer die Kösten
+#facs_178_r8l14 bezahlen; sind Sie aber in Unserer
+#facs_178_r8l15 Sockmäßigkeit angeworben worden, so
+#facs_178_r8l16 soll der Führer Mit Arrestiert, und als ein
+#facs_178_r8l17 Faltschwerber angesehen werden. Allen¬
+#facs_178_r8l18 fahls aber Unsere Recrouten Cammer davon
+#facs_178_r8l19 berichtet werden.
+#facs_178_r8l20 Auch sollen Sie Niemand gebunden oder
+#facs_178_r8l21 Gefangen, durch Unsere Vollmäßigkeit führen
+#facs_178_r8l22 sich während ihres Durchmarsches weder
+#facs_178_r8l23 Abwegen noch der Nacht bedienen, sondern
+#facs_179_r6l1 Des Tags und den Haubtstraßen nach
+#facs_179_r6l2 Ihre Reise auf die kürzeste weise fort¬
+#facs_179_r6l3 gezen
+#facs_179_r6l4 Sollen die Amtleuth auf denen Grenzen
+#facs_179_r6l5 und Päßen gute aufsicht bestellen, damit die
+#facs_179_r6l6 durchführende Fremde Recrices, ihnen allezeit
+#facs_179_r6l7 zugeführt werden.
+#facs_179_r6l8 Soll weder für Unsere Amtleuth noch für deren
+#facs_179_r6l9 Officialen oder Inspectoren, kein Visitation= Geld
+#facs_179_r6l10 noch Emolument von dergleichen durch passieren
+#facs_179_r6l11 den frembden Recrües bezogen werden
+#facs_179_r6l12 Denen Fuhreren Fremder Recrouten soll erlaub¬
+#facs_179_r6l13 seyn, zu ihrer Behaftnung eine Carabine und
+#facs_179_r6l14 einen wegen oder Sabel zu tragen
+#facs_179_r6l15 Sollen aber zu durchführung einer frembden
+#facs_179_r6l16 Recrouten, nicht mehr als zwey bewehrte Führer
+#facs_179_r6l17 auf einmahl gestacket werden.
+#facs_179_r6l18 3. Wann die Breiz = Amtleut solche Recrouten
+#facs_179_r6l19 xaminieren, so sollen die Führer Allzeit Abtretten
+#facs_179_r6l20 14. Der Amtsmann deß Orts, wo eine Fremde Recrice
+#facs_179_r6l21 zum durchmarsch in Unsere Bockmäßigkeit
+#facs_179_r7l1 333
+#facs_179_r7l2 Eintrecken wird, soll nach deren Visitation den
+#facs_179_r7l3 Führer anbefehlen, an jeglichem Ort, wo
+#facs_179_r7l4 né
+#facs_179_r7l5 er sich zu Nacht aufhalten wird, eine Zeugsamm¬
+#facs_179_r7l6 von guter Aufführung von einem vorgesezten,
+#facs_179_r7l7 oder von dem Wihrten deß Orts zu nemen,
+#facs_179_r7l8 und dann solche auf seiner Ruute denen
+#facs_179_r7l9 Vorgesezten, wie auch dem Amtsmann des
+#facs_179_r7l10 Orts seines Austritts aus Unserer Bockmäßig¬
+#facs_179_r7l11 keit vorweisen.
+#facs_179_r7l12 Dieses nun werdet Ihr seines Orts zu
+#facs_179_r7l13 künfftigem Verhalt einschreiben laßen, und
+#facs_179_r7l14 obiges Mandat fleißig und genau befolgen
+#facs_179_r7l15 Datum den 24ten february 1769.

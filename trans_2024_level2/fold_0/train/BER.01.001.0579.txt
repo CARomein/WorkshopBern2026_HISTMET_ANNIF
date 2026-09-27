@@ -1,0 +1,164 @@
+Law ID: BER.01.001.0579
+Name: Wegen der Lucerner und annderer Schillingen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 153/153
+# High similarity (>=50%): 146
+# Low similarity (<50%): 7
+# Not found: 0
+#
+#facs_140_r4l49 bedencken myner gnedigen
+#facs_140_r4l50 Herren Seckelmer und
+#facs_140_r4l51 Venneren
+#facs_140_r4l52 Erstlich solle den Herrn Amptlüchen umb den schlag kein
+#facs_140_r4l53 von jegeben werden, diewyl er mijner d. H.
+#facs_140_r4l54 Tharen und Bürgeren abgestrickt
+#facs_140_r4l55 In welschen Keller alhie sollindt gelijfferet werden
+#facs_140_r4l56 62 haf
+#facs_141_r1l1 Daran soll wären Bewerlingen
+#facs_141_r1l2 xvi
+#facs_141_r1l3 die sindt schon zu Murten
+#facs_141_r1l4 in
+#facs_141_r1l5 Dron
+#facs_141_r1l6 vöß, ii Borten
+#facs_141_r1l7 Lausanne des besten daß dem Custry Keller
+#facs_141_r1l8 xu
+#facs_141_r1l9 Bomons.
+#facs_141_r1l10 xx
+#facs_141_r1l11 Es sollendt die Amptluth allen den wyn, se zum
+#facs_141_r1l12 Überblijbt vfft höchst möglich verkauffen, vnd den gelt
+#facs_141_r1l13 nünnen hs. Seckeliner zu schicken,
+#facs_141_r1l14 Allein soll der von Milden das gelt, Soer von dem
+#facs_141_r1l15 vaßen lösen wirt, zu den Büwen, und Besprichtung
+#facs_141_r1l16 der Erinnern anwenden, das übrig prechnen
+#facs_141_r1l17 Chillion 6 vaß wyßen, und viere reiten wegens
+#facs_141_r1l18 anbehalten für ein Fürsorz
+#facs_141_r1l19 Lausanne soll das erlößte gelt von 3° Vaßen,
+#facs_141_r1l20 Lausanne zwehr inbehalten, zu abrichtung der Or¬
+#facs_141_r1l21 märi, das übrig schicken wir obstael
+#facs_141_r1l22 Zusammen hier, soll das gelt von p Saßen zu glijcken
+#facs_141_r1l23 mit Inbehalten
+#facs_141_r1l24 Bomont soll das erlößte gelt voorg verstorben nach be¬
+#facs_141_r1l25 scheidenheit zu dem Hus anwenden, das übrig dem H.
+#facs_141_r1l26 Secretär hinuß schicken.
+#facs_141_r1l27 Zuerdlen, soll die 9 daß auch verkauffen und des
+#facs_141_r1l28 geb. har schicken.
+#facs_141_r2l1 76
+#facs_141_r2l2 An die Amptlüch obenhalt der
+#facs_141_r2l3 Mürgen, wegen die Lucerner
+#facs_141_r2l4 und andere Schillinge,
+#facs_141_r2l5 Schuldtheus u. Wir haben nun zu etzlichen malen
+#facs_141_r2l6 aßgeschriben, und die in Herrn zu Statt und Landermant
+#facs_141_r2l7 keine In unserein gebiett angewante kleine Müngen,
+#facs_141_r2l8 von Frömbden und Vateren, die mit unsere vnderthanen
+#facs_141_r2l9 Zweispfagen, und vermeint das durch eis mittel sollich
+#facs_141_r2l10 sorten Müng vßem landt verschaffet werden soltendt.
+#facs_141_r2l11 So gepären uns erschaffen wir aber, das mit allein die
+#facs_141_r2l12 schwachen Lucernen, Urner und annder schilling, wider
+#facs_141_r2l13 vnser ansechen und verport, Sonnders auch die Zürich schil¬
+#facs_141_r2l14 lung, Baselkappen, und anndere pfenung mit schwal¬
+#facs_141_r2l15 Ins land bracht, vßgeben, vnd zugenommen werden der
+#facs_141_r2l16 Wann dan hölliche Müntzen, bischöre bey uns, und In unse¬
+#facs_141_r2l17 ren gebieten, sonderlich hie obenthalb der Mürgen¬
+#facs_141_r2l18 mit allein um übrig und gengig, Sommers zu kauffen
+#facs_141_r2l19 So haben wir mit
+#facs_141_r2l20 und verkauften ganz unrichtig,
+#facs_141_r2l21 ambgan können, hierwider auch ein zusachen Zethun¬
+#facs_141_r2l22 und wollend dir hiemit vffgebunden, und bevolgen haben,
+#facs_141_r2l23 menniglich öffendtlich von den Canzler verwarnen und
+#facs_141_r2l24 khünden gelaßen, das die vnseren Herabenthalb der
+#facs_141_r2l25 Mürgen, von Frömbden und eßeren einiche Zurichschil¬
+#facs_141_r2l26 ling, Basel & appen, noch anndere Frömbde pfenung im
+#facs_141_r2l27 empfachen noch Inneinen sollindt, by pern f 10 tt buß.
+#facs_141_r2l28 von dem empfacher zubezugen, auch by Confiscation
+#facs_141_r2l29 Zurückung sollicher schillingen, Rappen und pfenningen
+#facs_141_r2l30 in
+#facs_141_r2l31 so die Frömbden Über geschehene Warnung uffzeyben
+#facs_141_r2l32 andersten werdendl, damit nun menniglich, Frömbden
+#facs_141_r2l33 vnd heinsch des gnugsamlich verwarnet werundt, vnd
+#facs_141_r2l34 Jemand Ursag der Umwüßenheit fürwenden könne
+#facs_141_r2l35 wirst und solten diß vnser ansechen an offnen plägen
+#facs_141_r2l36 auch zu wirtshüseren, durch zedel an, und vffschlachen
+#facs_141_r2l37 laßen, uff die ubertretter deßelben, selbst und durch ohne
+#facs_141_r2l38 vnder amptsluch nun ernstachten, und so hierwider
+#facs_141_r2l39 thun werdendt, nach denselben ohne schonen, In die Strafe
+#facs_141_r2l40 wird buß zuchen, sie mir, laßendt wie die von wegen
+#facs_141_r2l41 der Lucernen, Urner und Zuger schillingen, Pgangen
+#facs_141_r2l42 Mandat zu krefften verblyden, daran bewij es die
+#facs_141_r2l43 schuldigkeit, Datum 26th Decemb. 1614
+#facs_142_r1l1 71
+#facs_142_r1l2 I am shipp
+#facs_142_r1l3 ante.
+#facs_142_r2l1 An die Amptliche ob der Morgen,
+#facs_142_r2l2 vnd Sta. St. wangen, die
+#facs_142_r2l3 wangen, Bipp, Landtschick u.
+#facs_142_r2l4 clere eadem
+#facs_142_r2l5 schuldtheis etc. Wir haben nun zu eitlichen melen
+#facs_142_r2l6 nur ernst v. geschoben, vnd die vnsern zu Stadt und
+#facs_142_r2l7 Landt ermant, komt zu unserem gebiett ungewon¬
+#facs_142_r2l8 2te kleine Müngen von Främbden und überen, die
+#facs_142_r2l9 unvnser vnderthanen, Zeempfagen, und Er meint¬
+#facs_142_r2l10 das durch die innel solliche Sorten Münz vffendlandt ge¬
+#facs_142_r2l11 schaffet werden soltendt, So gehören und ertheren wir
+#facs_142_r2l12 aber, das nur allein die lucerner, Vener und annde
+#facs_142_r2l13 Hilling, wider unser ansehen und verbott, Sonnder
+#facs_142_r2l14 auch die Zürich schilling, Basel Rappen und annder¬
+#facs_142_r2l15 pfenning, mir schwal Ins Rand bracht, loßgeben an,
+#facs_142_r2l16 angenommen werdindt. Wann das sollliche Müm¬
+#facs_142_r2l17 bißhero by uns, und zu unseren gebienen, Sonnunter¬
+#facs_142_r2l18 lich hierbenthalb der Mürgen etc.
+#facs_142_r3l1 An die Welchen Amptluth
+#facs_142_r3l2 der löberen halb.
+#facs_142_r3l3 Schuldtheis, Demnach wir von Vnsers¬
+#facs_142_r3l4 Stands verhoffenden mheren nutzes wegen, nur willen
+#facs_142_r3l5 vnd gehält unsers großen rhats, uns endtschloßen etlichen
+#facs_142_r3l6 unseren lächenlüthen, das zukommen unsers welischen
+#facs_142_r3l7 landts Bomont, Rüwenstatt, und das Arlen Ampt daß ge¬
+#facs_142_r3l8 regt) vff drei Jar lang umb ein angebohne gewuß
+#facs_142_r3l9 dumm, ander beredten gedingen, hinzulijchen, und andere
+#facs_142_r3l10 annderem auch an uns begert worden, das wir Inen¬
+#facs_142_r3l11 den besteheren, von Pate der Bestätigung solcher Admodia
+#facs_142_r3l12 tion, so vor unserem großen Schat, den 28 Jungstverschin
+#facs_142_r3l13 nen wynterm enats abgangen, die Composition und
+#facs_142_r3l14 Perception, so wol der verseßnen, als auch fallenden löbe,
+#facs_142_r3l15 ren, und er volgenden anverpieten genötigen laßen wel¬
+#facs_142_r3l16 Als das alle Löber die verseßnen und auch die annderer
+#facs_142_r3l17 by zyn wärender lechung durch unsere Comptluth In¬
+#facs_142_r3l18 Irem bysin Componiert werdindt, vnd das zu unsere
+#facs_142_r3l19 Amptluth zu den Compositionen redindt, und dieselben
+#facs_142_r3l20 versiglindt; Dannethin das uns von allen seßnen
+#facs_142_r3l21 und fallenden löberen, biß vff den ersten tag künfftig
+#facs_142_r3l22 Apprellens, den halbig theil voruß erschießen solle.
+#facs_142_r3l23 Haben wir, zu ansehen der namhafften Summe, so viel
+#facs_142_r3l24 angeboten wirt, und zu vermeynung allerhand sonst
+#facs_142_r3l25 sion, so jnnert der Zyn zwüschen den Commissariis, zuzucheren,
+#facs_142_r3l26 Schryberen und anderthanen, so wegelt anhero noch mit
+#facs_142_r3l27 Compositioner
+#facs_142_r3l28 Componiert, heimmliche zwün, vortheilige
+#facs_142_r3l29 und zuglychungen der Löberen, so ausselbs gang schädlich
+#facs_142_r3l30 zwijffels ohn sich zutragen und begeben wurde, uns da¬
+#facs_142_r3l31 hinbegeben und geneigt, das wir Inen von obbemelten
+#facs_142_r3l32 Pato an, das diese hinlychung vor unserem Rhat bestätiget
+#facs_142_r3l33 worden, die versehenen und fallende Löber biß vff den
+#facs_142_r3l34 festen Apprellens zu Componieren vnd bezuchen, wol zu
+#facs_142_r3l35 laßen mögen, doch das vns (wie obvermelt) davon der
+#facs_142_r3l36 halbig theil vor, uns vnd unseren Amptlüthen zu gebüren
+#facs_142_r3l37 den entheit werden und gevolgen hölle, wyl dann wie
+#facs_142_r3l38 gechvermelter gestellt mitt zuen den besteheren überkorn,
+#facs_142_r3l39 und sich auch geburen will sey dabey Zehendt haben, habend
+#facs_142_r3l40 wir sich vnd andere unsereamptluth welchen Landts
+#facs_142_r3l41 dieser verkommuß vff sich endhin berichten wollen, das du
+#facs_142_r3l42 die Comissarien vnd zuzuchen verwarnen, und zuen by¬
+#facs_142_r3l43 nister Ungnad und Straff gebietten laßen höttest, sich fürt
+#facs_142_r3l44 hin der Composition vnd Inzugs der Löberen, so verseßen
+#facs_142_r3l45 und bis dato obstadt ein Componiert werdendt, als auch
+#facs_142_r3l46 erweis so bis vff den ersten Apprellens nechstkünfftig
+#facs_143_r1l1 verfallen mögten, gänglich entschlagen, und die Com¬
+#facs_143_r1l2 position derselben, die und den berurten besteheren
+#facs_143_r1l3 laßen höllendt, im übrigen wie unsere Ammlieh,
+#facs_143_r1l4 vnnd besteher sich zu künfftig der fallenden Coberen
+#facs_143_r1l5 halb zu verhalten, wirt In der Schinlychung zu aller
+#facs_143_r1l6 theillen Nachrichtung erlichereb. Act. 26a Decemb.
+#facs_143_r1l7 6.4

@@ -1,0 +1,82 @@
+Law nr: BER.01.001.4586
+Name: nan
+
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 70/70
+# High similarity (>=80%): 59
+# Low similarity (<80%): 11
+# Not found: 0
+#
+#facs_23_region_1633454616028_2913l1 An
+#facs_225_r4l17 die Herren Amtleut zu Romainmôtier
+#facs_225_r4l18 Morster, Neus, Anbonne und Bonmont,
+#facs_310_r3l1 Wie auch an die¬
+#facs_6_region_1633454281779_2775l4 werden, sondern der Zug lediglich
+#facs_225_r4l21 verbotten.
+#facs_101_r5l21 Schultheis Räth und Burger und In
+#facs_222_r5l18 Auf angehörten Vortrag Unserer
+#facs_9_r8l3 1.35
+#facs_226_r2l1 Korn Kammer, und da bey geh. es
+#facs_226_r2l2 Godt fortdaurend günstiger Widerun
+#facs_226_r2l3 eine gesegnete Ernd zu verhoffen
+#facs_226_r2l4 ist, auch eine zimliche quantitat¬
+#facs_226_r2l5 Getreid so wohl in Teutsch als welschen
+#facs_226_r2l6 Landen sich vorfindet, haben Wir
+#facs_226_r2l7 nothwendig erachtet, die Einfuhr
+#facs_226_r2l8 des fremden Getreids mit dem
+#facs_226_r2l9 ersten Juny nachstkönfftig zu ver¬
+#facs_226_r2l10 bieten, und zwar unter Straff der
+#facs_226_r2l11 Confiscation gegen die biederhand¬
+#facs_226_r2l12 lende; Ihr werdet demnach solches
+#facs_226_r2l13 zu jedermaniglich Nachricht und
+#facs_226_r2l14 Verhalt publicieren zulaßen, und
+#facs_226_r2l15 Hand obhalten daß deine nachgelebt
+#facs_226_r2l16 berde. Dat. dem 26.ten May 1786.
+#facs_83_r3l6 en
+#facs_226_r2l17 Bibelegg-Straß, deren Verbesserung
+#facs_226_r2l18 wird anbefohlen.
+#facs_99_r2l15 feil gehalten haben, in ihren Kasten
+#facs_226_r2l20 Graffenried, als nennen des Land¬
+#facs_226_r2l21 Seith einicher
+#facs_226_r2l22 grichts Seftigen.
+#facs_226_r2l23 Zeit ist die Straße nach der
+#facs_27_r3l12 Obid
+#facs_123_r2l1 Collate
+#facs_12_r2l1 43
+#facs_226_r4l2 Gibelegg der Herrschafft Riggisperg
+#facs_226_r4l3 in so schlechtem Zustand, daß die
+#facs_226_r4l4 pfuhrleute, welche aus den dortigen
+#facs_226_r4l5 Waldungen Holz nach hiesiger
+#facs_226_r4l6 Haubtstadt führen, mit ihrer
+#facs_226_r4l7 fuhr kann mehr durchkommen.
+#facs_226_r4l8 können.
+#facs_226_r4l9 Meghl. gefinnen demenach
+#facs_226_r4l10 frl. an Euch Mühl. Venner an die
+#facs_226_r4l11 unter Eüerer judicatur stehende
+#facs_226_r4l12 Gemeinden den ernsthaften Refehl
+#facs_226_r4l13 abgehen zu laßen, diese Straß so
+#facs_226_r4l14 bald möglich bieder zu verbeßeren,
+#facs_226_r4l15 und in fahrbaren Stand zu sehen.
+#facs_226_r4l16 Dat.x den 12ten Juny 1786.
+#facs_23_region_1633454616028_2913l1 An
+#facs_226_r4l18 die Freybeibel zu Relpp, Thurnen
+#facs_226_r4l19 und Mühlidorff. Sep. obid.
+#facs_200_r1l1 sols.
+#facs_226_r4l21 Schultheiß und Rath, Seit einiger
+#facs_226_r2l23 Zeit ist die Straße nach der
+#facs_226_r4l23 der Herrschaft Riggisperg in so
+#facs_226_r4l24 schlechtem Zustand, daß die Fuhrleute
+#facs_222_r4l1 Collat
+#facs_227_r2l1 welche aus den dortigen Waldungen
+#facs_227_r2l2 Holz nach hiesiger Haubtstadt führen.
+#facs_227_r2l3 mit ihrer Fuhr kaum mehr durch
+#facs_227_r2l4 bommen können.
+#facs_227_r2l5 Wir befehlen dir demnach, denen
+#facs_227_r2l6 unter deinem Rezirk stehenden
+#facs_227_r2l7 Gemeinden alles Ernsts einzuschärpf¬
+#facs_227_r2l8 diese Straße so bald möglich bieder
+#facs_227_r2l9 zu verbeßeren, und in fahrbaren
+#facs_227_r2l10 stand zu sehen. Dat. ut Supra

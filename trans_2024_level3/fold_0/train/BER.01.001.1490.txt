@@ -1,0 +1,98 @@
+Law ID: BER.01.001.1490
+Name: Wegen Getreidt Verkouffs bevelchen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_485
+# Matched: 87/87
+# High similarity (>=50%): 81
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_210_r4l11 das andere Anna Wampflu von
+#facs_210_r4l12 prutis 3. Martii 1657.
+#facs_210_r4l13 von 3. Thbr nichswegen ist-
+#facs_210_r4l14 das 3. an Anna Engel
+#facs_210_r4l15 zu Lenzbuch
+#facs_210_r4l16 3e. feb. 1664 uerden: Oron: Mildeu: Romamostier
+#facs_210_r4l17 Bonmont Wiblispurg: wegen getreidt verkauffs beuelchen.
+#facs_210_r4l18 Schuldtheiß vnnd Rhat der Statt Stern etc.
+#facs_210_r4l19 Eß guten betrachtlichen vrsachen, sonderlich aber auch vnserer
+#facs_210_r4l20 Lieben getreuwen angehörigen by verspürendem mangel am getreide
+#facs_210_r4l21 die hand zepieten, habend wir vnns endtschloßen, eine anzal
+#facs_210_r4l22 allerley getreidts, wie daßelbige dißmalen Inn vnseren =
+#facs_210_r4l23 Kornheüseren verhanden, krüfflich hingeben Zelaßen. Vnnd dir
+#facs_210_r4l24 hiemit Zebeneichen gutfunden, daß du von dem vorrhätlich ver¬
+#facs_210_r4l25 handenen, vnnd minst behaltlichen weitzen biß Inn ein hundert
+#facs_210_r4l26 Seck: wie auch allen endtpärenden Haber, müglichster maßen
+#facs_210_r4l27 verkauffest. Mit gantz trustlichem gesinnen vnnd beuelch hiemit
+#facs_210_r4l28 "
+#facs_210_r4l29 ann dich, solichem verkauff geflißenlich abzewarten, Jedoch also
+#facs_210_r4l30 3 by mydung unser ungnad, daß getreidt nit Vßeren vnd frembden
+#facs_210_r4l31 sonders einheimschen vnnd vnseren angehörigen Underthanen, vmb
+#facs_210_r4l32 har gelt, Jeden Saub gersten, rund haber vmb ein florein
+#facs_210_r4l33 wolseiler, vnnd den Sack schwer getreidt, umb zwen florein
+#facs_210_r4l34 minder dann es sonst giltet, hingeben vnnd verkaufft werde. Wo
+#facs_210_r4l35 sehr aber das bare gelt nit vorhanden vnnd dergstalten erlöße.
+#facs_210_r4l36 werden möchte, Gebend wir dir gewalt, Innen daßelbige vff
+#facs_211_r1l1 5
+#facs_211_r1l2 6.
+#facs_211_r5l1 R04
+#facs_211_r5l2 1.
+#facs_211_r6l1 gnugsamme versicherung hin, biß nechstkünfftig Michaelis dings Inn gemeinen
+#facs_211_r6l2 lauffenden preit zukommen: vnnd zu solichem vnd solichen Getreü¬
+#facs_211_r6l3 verkauff offentlich von Cantzern publiciren vnnd kundtbar machen
+#facs_211_r6l4 zelaßen. Inn dem verstand, das das erlösende bare gelt by beurr.
+#facs_211_r6l5 stehender deiner Ambts Rechnung, Vnserem Seckelmeister Weltschen
+#facs_211_r6l6 Landts eingehendiget, vnnd fals diser getreidts vertrib by vnsere
+#facs_211_r6l7 Vnderthanen nit seinen fortgang nemen wurde, Vnsere geliebte
+#facs_211_r6l8 Mittrhät Weltsch Seckelmeister vnnd Vnnere deßen ohnuerzogen
+#facs_211_r6l9 berichtet werden sollen: Maßen du Zethun wüßen wirst vnd
+#facs_211_r6l10 Coll. Gott mit dic. Datum 1. Marty 1652.
+#facs_211_r6l11 Querden. das er 800. Seck, daß zum vorbehalt zugentlichsten
+#facs_211_r6l12 weitzens Im vorrhat behalte, wie auch für die abrichtung der
+#facs_211_r6l13 ordinarien, vnnd pentionen gnugsam, den übrigen allen aber
+#facs_211_r6l14 vmb etwas wolfeiler, dann kauff rund lauff ist, verkauffe, vnd
+#facs_211_r6l15 so der vertrib mit were, nuhl. weltsch Seckelmeister vnnd
+#facs_211_r6l16 Venner deßen berichte
+#facs_211_r6l17 —
+#facs_211_r6l18 Oron. Der 400. Seck weitzen für den vorrhat Inn Spycheren
+#facs_211_r6l19 laße, den überigen, nach abzug der ordinarien, wie auch allen
+#facs_211_r6l20 endpärenden haben, vff erst bemelte form könfflich hingebe=
+#facs_211_r6l21 Milden. Da er allen über die ordinari entmanglendenroggen
+#facs_211_r6l22 vff gleiche weis verkauffe.
+#facs_211_r6l23 Romamostier. Sölle auch allen entpärenden haben vnnd gersten, lau=
+#facs_211_r6l24 erigen von mth. weltsch teckelmeister vnnd Venneren ann Inne¬
+#facs_211_r6l25 begangenen beuelds, und zum selben allen alten weitzen vnnd
+#facs_211_r6l26 mischaltorn, so Ime von H. Sumers seines Ambtsvorfahren (erben
+#facs_211_r6l27 eingemeßen worden, verkauffen
+#facs_211_r6l28 Bonmont. Cölle Inn gleichem allen endtmanglenden haber, auch aller
+#facs_211_r6l29 über Jerige getreidt hingeben vnnd vertreiben, vff obige form
+#facs_211_r6l30 Wiblisfurg. als er von der über die ordinaria befundende,
+#facs_211_r6l31 hingebe
+#facs_211_r6l32 handelt weitzen vnnd Mischelkorn, den halben theil köufflin
+#facs_211_r8l1 Aun die nachstgeseßnen Ambtleüts
+#facs_211_r8l2 fryweibel rund Amman
+#facs_211_r8l3 wegen einer angestalten allgemeinen Musterung
+#facs_211_r8l4 Schuldthuß vnnd Rhat der Statt Bern
+#facs_211_r8l5 Wir habend für gut vnnd nottwendig angesechen, eine allgemeine
+#facs_211_r8l6 Musterung aller vnnd Jeder vnserer Lieben angehörigen zu Statt
+#facs_211_r8l7 vnnd Landt halten Zelaßen, vnder der vernehren Verordnung
+#facs_211_r8l8 vnnd anstellung vnserer fürgeliebten klein: vnnd großen Rhats
+#facs_211_r8l9 Verwandten hern Venner Wagners vnnd Herrn General Maiorn
+#facs_211_r8l10 von Erlach, Ist demnach vnser gesinnen vnd beuelch hiemit an dich, alle
+#facs_211_r8l11 und Jede deine Ambts angehörigen der Mauscht halb, es syend die
+#facs_211_r8l12 eßzüger, vnnd auch übrige von Sechszechen biß vff 60. Jar
+#facs_211_r8l13 -
+#facs_211_r8l14 alters angesicht diß vnuerzogenlich zeuerwahrnen, vnnd
+#facs_211_r8l15 ebietlich dahin anzuhalten vnnd zeuermögen, das die einen
+#facs_211_r8l16 vnnd anderen von nechstkünfftigen Dönstag über acht tag,
+#facs_211_r8l17 -
+#facs_211_r8l18 ein wirt der 4. deß nechtringehenden Monats Mertzen, sich
+#facs_211_r8l19 guter Früyer Tags Zeit vnnd offslengst biß vmb acht Vhren
+#facs_211_r8l20 vor mittag alhier vff dem Kirchenfeld einstellind, vnnd
+#facs_211_r8l21 n
+#facs_211_r8l22 sambt gehörigen vnder- vnnd überwehren gebürlich verfaßt,
+#facs_211_r8l23 vnnd ohnaußbleiblich finden laßind, vnnd weiterer anstellung
+#facs_211_r8l24 erwartind, das ist vnser gentzlicher will vnnd beuelch,
+#facs_211_r8l25 Deme wüße nachgekommen. Gott mit dir. Datum 23. Feb. 1652.

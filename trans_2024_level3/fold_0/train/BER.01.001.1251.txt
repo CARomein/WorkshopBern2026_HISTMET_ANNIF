@@ -1,0 +1,22 @@
+Law ID: BER.01.001.1251
+Name: Zehnt Rödell harzeschicken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 11/11
+# High similarity (>=50%): 11
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_84_r2l1 An die Teutschen Amblleüth
+#facs_84_r2l2 Zehnd Rödell hanze Schiken
+#facs_84_r2l3 Gott. Schs. vnnd Rhl. Unserer Fürgeliebten mit Töhl
+#facs_84_r2l4 Sr. Teützl. Sekellmeister unnd vonneren gutfinden
+#facs_84_r2l5 nach, langthiermit vnser beuelchliches gesinnen andern
+#facs_84_r2l6 Alßbaldt nach der bevorstehenden heürigen Zehnd
+#facs_84_r2l7 verleichung von ZehndStödell verfertigen Zolaße
+#facs_84_r2l8 vnndt denselben durch den Ambtschreibert ordenlich
+#facs_84_r2l9 Signiert unnd Unterschriben, wolermelten
+#facs_84_r2l10 Sr. Seckellum und Veneren Zeuberschickhen. Wie
+#facs_84_r2l11 du zathen wüßen wirst. Datum 11. Maii 6ben

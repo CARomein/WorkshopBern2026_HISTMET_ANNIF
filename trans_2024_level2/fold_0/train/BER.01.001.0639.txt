@@ -1,0 +1,56 @@
+Law ID: BER.01.001.0639
+Name: Was Fryburg des Wynuffkouffs wegen geschriben, und wie sich die Amtlüt verhalten sollendt.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_482
+# Matched: 45/45
+# High similarity (>=50%): 22
+# Low similarity (<50%): 23
+# Not found: 0
+#
+#facs_300_r2l1 7
+#facs_300_r2l2 Nach Eryburg des
+#facs_300_r2l3 An Weltsche Amptlich, den Weingwachs
+#facs_300_r2l4 cet
+#facs_300_r2l5 Wyn zu Verwalten wegen gfhriben und wie¬
+#facs_300_r2l6 so sich die Amptlut haltx sollende
+#facs_300_r2l7 Schuld theis etc. Es habend sich vnsere Eidtgeessen
+#facs_300_r2l8 zu Erlung erclagt, als solten wir by dir vnd andere Unsere.
+#facs_300_r2l9 Amptsüchen, ungewonte einrerung, wider den seyn feilen
+#facs_300_r2l10 Konst und Louff, verschaffet haben etc. darüber wir zuem Zum
+#facs_300_r2l11 andtwort weiden laßen, das wir zwar den fryen feilen
+#facs_300_r2l12 Kauff, weder Zeit noch sonst niemalen, allein den vortheiligen
+#facs_300_r2l13 schärlichen Furkonff, so zu verderben Unser Stadt und Landt¬
+#facs_300_r2l14 hafft gereicht, verspeert, und inen das was zu ihrem Hus¬
+#facs_300_r2l15 bruch und nodlurfft ernorderlich, unverhinderet zu komme.
+#facs_300_r2l16 Laßen werdendt, derhalben habend wir dich hiemit des
+#facs_300_r2l17 verstendigen, und dabey nochmalen beuelch wollen, zwar
+#facs_300_r2l18 den fryen feilen kauff nit, Sonnders allein den Fürkauff
+#facs_300_r2l19 und Uberfluß, daruff du nochmalen bis vff wyteren
+#facs_300_r2l20 bescheidt achten solt, zu versperren und acht zehoben das
+#facs_300_r2l21 mit schwaal mit eßem Land jenergget werde, damit Unser
+#facs_300_r2l22 Stadt und Landtscht auch nach nodturfft, wie wir achtendt
+#facs_300_r2l23 zum theil geschechen sie, versechen werden möge etc.
+#facs_301_r2l1 Nach Eryburg des
+#facs_301_r2l2 In Weltsche Amptlich, den W'ingwachs
+#facs_301_r2l3 Wyn zu Verwalten wegen gfhriben und wie
+#facs_301_r2l4 in ein amptlut kalt etc. sollende
+#facs_301_r2l5 Schuld theis etc. Is habend sich vnsere Eidtgeoßen
+#facs_301_r2l6 zu Freyburg erclagt, als solten wir by dir und andere Unseren
+#facs_301_r2l7 Amptlichen, ungewonte einrerung, wider den seyn feils
+#facs_301_r2l8 Konss und Louff, verschaffet haben, Darüber wir zuen zur
+#facs_301_r2l9 andtwort werden laßen, das wir zwar den freyen feilen
+#facs_301_r2l10 Kouff, weder Jetz noch sonst niemalen, allein den vortheiligen
+#facs_301_r2l11 schädlichen Furkonff, so zu verderben Unser Stadt vnd Landt¬
+#facs_301_r2l12 schafft gereicht, verspeert, und Inen das was zu Irem Hus¬
+#facs_301_r2l13 bruch und nodturfft ernorderlich, unverhinderet zu komme.
+#facs_301_r2l14 laßen werdendt, derhalben habend wir dich hiemit des
+#facs_301_r2l15 verstendigen, und dabey nochmalen beuelch wollen, zwar
+#facs_301_r2l16 den fryen feilen kauff nie, Sonnders allein den furkauff
+#facs_301_r2l17 und uberfluß, daruff du nochmalen bis vff wyteren
+#facs_301_r2l18 bescheidt achten solt, zu versperren und acht Zehaben dar-
+#facs_301_r2l19 mit schwaal mit eßem Land jenergget werde, damit Vnsern
+#facs_301_r2l20 Stadt und Landtscht auch nach nodkurfft, wie wir achtendt¬
+#facs_301_r2l21 zum theil geschechen seye, versechen werden möge etc.
+#facs_301_r2l22 Datum 26 Octobris 1619

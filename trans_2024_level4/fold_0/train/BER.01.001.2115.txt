@@ -1,0 +1,27 @@
+Law ID: BER.01.001.2115
+Name: Keine Schiff ohnbewilliget durchzelassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 16/16
+# High similarity (>=50%): 15
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_167_r3l5 Thun
+#facs_167_r3l6 keine Schiff ohnbewilliget durchzulassen,
+#facs_167_r3l7 C
+#facs_167_r3l8 Fuebtheiß und Raht der Stadt Bernß Heimun mehr
+#facs_167_r3l9 Inrongendem allgemeinen Holzmangel im Landt
+#facs_167_r3l10 habend wir dem abfüehren und der Verüßerung der
+#facs_167_r3l11 Schiffen, Alß der furnembsten vrsach deßelben, den
+#facs_167_r3l12 Rigel stoßen, vnd hiemit die brauchen wollen, einich
+#facs_167_r3l13 Schiff, so dort bej die anbracht, oder alda construirt
+#facs_167_r3l14 wirt, und durch heimsche oder vßere vßert Landts
+#facs_167_r3l15 Zuerfüehren, dort erhebt werden wolte, durch
+#facs_167_r3l16 und hinweg zelassen, sondern in begebenden fahlen
+#facs_167_r3l17 welche Schiff auffzchaeten, Alß daß deren ktins
+#facs_167_r3l18 hier besondere Unsere bewilligung abgeführt
+#facs_167_r3l19 Werde, darzu weistu nun die gehörige auff
+#facs_167_r3l20 sicht zu bestellen. Datum 26. Marty 1677:

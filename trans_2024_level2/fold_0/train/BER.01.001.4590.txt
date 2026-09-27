@@ -1,0 +1,51 @@
+Law nr: BER.01.001.4590
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 40/40
+# High similarity (>=80%): 36
+# Low similarity (<80%): 4
+# Not found: 0
+#
+#facs_15_region_1633454385876_2820l8 46
+#facs_104_r1l2 Col
+#facs_129_r3l11 dan
+#facs_242_r3l2 alle an lobl. Stand Fryburg angrenzende
+#facs_52_r3l2 Herren Amtleut
+#facs_242_r3l4 Petterlingen, Milden, Saanen, Viris,
+#facs_267_r2l7 4. Ifferten
+#facs_70_r2l26 Jage Verbott
+#facs_288_r2l13 Schultheiß und Rath etc. Es hat lobl.
+#facs_242_r3l8 Stand Fryburg gut befunden, einer
+#facs_242_r3l9 seits das Jagen mit Hunden bis auf
+#facs_242_r3l10 den 1ten Septembris = anderseits dem
+#facs_242_r3l11 alles Jagen nach dem 1ten Decembris
+#facs_242_r3l12 nächstkönfftig zu verbieten.
+#facs_242_r3l13 Wir haben auch Unserseits denn
+#facs_242_r3l14 fryburgischen Angehörigen für gleiche
+#facs_242_r3l15 Zeit alles Jagen verbotten.
+#facs_88_r2l14 deßen Ihr berichtet werdet, mit dem
+#facs_242_r3l17 befelchlichen Auftrag, solches zu jeder
+#facs_242_r3l18 mäniglich Nachricht und Verhalt in Eüeren
+#facs_242_r3l19 Amt bekant machen zu laßen.
+#facs_242_r3l20 Datum den 21ten Augusti 1786.
+#facs_23_region_1633454616028_2913l1 An
+#facs_83_r3l6 en
+#facs_28_r4l1 Coll
+#facs_28_r4l1 Coll
+#facs_242_r6l1 469.
+#facs_23_region_1633454616028_2913l1 An
+#facs_242_r6l3 alle deutsch und welsch Herren Amt¬
+#facs_242_r6l4 leut, 4. Städt, freybeibel und Aman
+#facs_55_r5l15 Herbstferien ausgeschrieben.
+#facs_36_r3l7 Schultheiß und Rath
+#facs_109_r6l11 Wir haben die heürigen Ernd Farien vom
+#facs_242_r6l8 ferien vom 14ten Herbstmonat biß
+#facs_242_r6l9 Martinis nächstkönfftig bestimmt, und
+#facs_242_r6l10 befehlen Euch, bärend dieser Zeit keine
+#facs_242_r6l11 andere dann nothdringende Geschäfte
+#facs_242_r6l12 an Uns und Unsere verordnete Dicas¬
+#facs_242_r6l13 teria und Tribunalia gelangen zu laßen.
+#facs_242_r6l14 Dat. den 28ten Augusti 1786.

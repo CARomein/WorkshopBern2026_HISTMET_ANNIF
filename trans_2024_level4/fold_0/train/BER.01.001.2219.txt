@@ -1,0 +1,76 @@
+Law ID: BER.01.001.2219
+Name: Anstalt wie der Neüwenburgische und benachbahrte Wein durchs Land geferget werden solle.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 65/65
+# High similarity (>=50%): 64
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_283_r3l1 13
+#facs_283_r3l2 Uidow, Büren, Wangen, Aarreangen,
+#facs_283_r3l3 Arburg. samstalt wie der Neubeg¬
+#facs_283_r3l4 gische Und benachbahrte bey
+#facs_283_r3l5 Kurchs Land geferget werden solle.
+#facs_283_r3l6 Wolhalter Vnd Raht der Statt Hern etc.
+#facs_283_r3l7 A.
+#facs_283_r3l8 Wir erhalten den bericht, daß bey dißmahlen aus guten Ursachen
+#facs_283_r3l9 Vnseren Landen und gepieten Vorpottenem äußeren
+#facs_283_r3l10 die neübenburger und andere benachbahrte trachten werden
+#facs_283_r3l11 selbigen an außere Ohrt und Sonderlich ins Lucerner gepiet¬
+#facs_283_r3l12 zusuchen, und zu debitiren, obwohlen nun wir Vnseren Eydt
+#facs_283_r3l13 und Pundt gnößen, Und dero angehörig, so sehr sy etliche ohnverdächtige
+#facs_283_r3l14 seüt sind, und mit keinen betrügen Umbgang, Chafft Vortrag, den
+#facs_283_r3l15 Transit deselben nit hinderen können, Vnd Zethun auch nit
+#facs_283_r3l16 begehren; so haben wir Jedoch zu verhüetung, daß Vnderbege
+#facs_283_r3l17 darvon keiner in unsere land geworfen werde, Unseren
+#facs_283_r3l18 Ambtleuten der Aaren nach gegenwärtige Anstalt auszuschreiben
+#facs_283_r3l19 nohtbendig erachtet.
+#facs_283_r3l20 Daß erstlichen aller solche Neuwenburgische und andere außer¬
+#facs_283_r3l21 wein, ansagtlich zu Niob von dem Hölner, oder bestelten
+#facs_283_r3l22 daselbsten Consignirt, und deßen ein Consignations
+#facs_283_r3l23 Zedell, der die anzahl der geschieren, gantzen oder halben fast
+#facs_283_r3l24 und deren Halt Vormelde, dem Pergger oder Händler zugestelt
+#facs_283_r3l25 selbiger durch ihnen zu büren vorgebiesen, darauff daß Siff Vm
+#facs_283_r3l26 die Krschur Examinirt, und dan sich kein betrug erfindet
+#facs_283_r3l27 für ein frischer Consignations Zedul eingehendiget, solcher
+#facs_283_r3l28 zu baügen, gegen dem Wein biederumb gehalten, Und so aberma
+#facs_283_r3l29 der vermeldete Wein noch gäntzlich vorhanden, oder durch
+#facs_283_r3l30 Authentische Attestation vorgebenen werden kann,
+#facs_283_r3l31 daß der manglende zu Sollothurn abgelegt worden, Ihmme aufs
+#facs_283_r3l32 seüche ein Zedul ertheilet, und also fort an dieser Ordnung
+#facs_283_r3l33 zu Barbangen, Wann nämlichen daß Schiff dorten anlendet,
+#facs_283_r3l34 wie auch zu Rarburg exacte gehalten: Und in eint oder
+#facs_283_r3l35 anderen ohrts befindenden sahler der Wein in arrest
+#facs_284_r2l1 gelegt, vnd Vnsere Verordnete Weinkammer deßen zu vernei¬
+#facs_284_r2l2 mung versendiget werden solle.
+#facs_284_r2l3 Zum anderen mag auch zwar solcher Wein an beliebigem her¬
+#facs_284_r2l4 außgeladen, soll aber bau er nicht alsobald fortgeführt wirt,
+#facs_284_r2l5 daselbsten anderswo nit, alß in daß landthauß, oder daß Sonst
+#facs_284_r2l6 gelognte Ohrt gelegt, von dannen aufs lengste innert man¬
+#facs_284_r2l7 frist abgeführt, daselbsten niemandem, der seye gleich Uns
+#facs_284_r2l8 angehörig, oder nit, kein einiger tropfen seilgehalten, viel wenn
+#facs_284_r2l9 rumb gemertet werden; Worauff dan die Zolluere gefließe
+#facs_284_r2l10 chten, und die sählbahren ihren Ambtleuten Verleiden¬
+#facs_284_r2l11 diese aber desen ermelte Unsere Cammer berichten sollen
+#facs_284_r2l12 Welche Vnsere anstalt wir dir zu dem und Überschreiben
+#facs_284_r2l13 laßen wollen. Damit du ob derselben, so viel sy dich
+#facs_284_r2l14 berührt, gefließenlich zu halten wüseff, Maßen wir
+#facs_284_r2l15 auch vnß zu dir versechen haben wollenn,
+#facs_284_r2l16 Nidow allein. Und damit niemand sich mit der Vnbußenheit,
+#facs_284_r2l17 tschuldig konne, alß soltu alle die mit dergleichen Wein
+#facs_284_r2l18 ankommen, bey der Consignation verbahrnen laßen, daß die
+#facs_284_r2l19 Abmeidung vnheils zu Büren, wangen und arburg anlandt
+#facs_284_r2l20 Vre Consignationsgedel und beglaubte Scheinen, wo und
+#facs_284_r2l21 von bem sy den bein erhandlet laut Mandats verbeisen.
+#facs_284_r2l22 früsche forderen sollend, In specie aber ließe Thon
+#facs_284_r2l23 kündig von Basel einem bekanten Hentlichen leutbeträger
+#facs_284_r2l24 der dergleichen geberb erhaltenem Bericht nach auch Vorhaben
+#facs_284_r2l25 soll, bey erster seiner ankunfft zu Nidolo eröffnen, daß ihm
+#facs_284_r2l26 dieser Geberb darmeder gelegt sey, und Er (Wann er
+#facs_284_r2l27 nämlich Würklich Wein anbringt) damit er sich nit
+#facs_284_r2l28 Zu Klagen habe, furs erste mahl durchgelaßen
+#facs_284_r2l29 Hernacher aber ohnfühlbahrlich werde angehalten
+#facs_284_r2l30 werden. Gott mit dir dat. 2. Novembris 1680.

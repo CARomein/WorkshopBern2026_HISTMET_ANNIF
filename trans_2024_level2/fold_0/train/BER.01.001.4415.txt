@@ -1,0 +1,364 @@
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_506
+# Matched: 356/357
+# High similarity (>=80%): 352
+# Low similarity (<80%): 4
+# Not found: 1
+#
+# NOT FOUND: ﻿Law nr: BER.01.001.4415
+#facs_8_region_1628103600787_12l4 Ihnen die frische Verordnung wegen hinterhaltung
+#facs_4_region_1628102585488_60l1 2.
+#facs_242_r4l13 Alle Teütsch und Weltsche Herren Amtleuth, 4. Städt,
+#facs_153_r8l4 Freybeibel und Amen
+#facs_8_region_1628103600787_12l4 Ihnen die frische Verordnung wegen hinterhaltung
+#facs_8_region_1628103600787_12l5 fremden Weins und Eßigs zusenden.
+#facs_148_r3l7 Schultheiß Räht und Burger.
+#facs_8_region_1628103609022_15l2 Was Wir in Abänderung der von Uns unterm
+#facs_8_region_1628103609022_15l3 4ten und 11ten July 1718. so wohl als 11ten Formung 1729.
+#facs_8_region_1628103609022_15l4 ausgegangenen Verordnungen, wegen hinterhal¬
+#facs_8_region_1628103609022_15l5 tung deß Fremden Weins und EVigs etc. unter heu¬
+#facs_8_region_1628103609022_15l6 tigem Dato frischer Dingen zu verordnen und abhä¬
+#facs_8_region_1628103609022_15l7 geben Erkent, ist mit mehrerem in mitbommenden
+#facs_8_region_1628103609022_15l8 Plauard enthalten, davon Wir Euch genugsame
+#facs_8_region_1628103609022_15l9 Exemplaria zusenden, mit dem Befelch, nicht allein
+#facs_8_region_1628103609022_15l10 solche von Canzlen verkünden, sondern auch seines
+#facs_8_region_1628103609022_15l11 behörigen Orts einschreiben zu laßen, und Hand ob
+#facs_8_region_1628103609022_15l12 zuhalten, daß deme Pünbtlich nachgelebt werde. Datl.
+#facs_146_r3l5 den 19
+#facs_8_region_1628103624050_18l1 Placcard
+#facs_49_region_1628873301757_125l1 Wir Schultheiß, Klein und Große Räst der
+#facs_8_region_1628103631847_21l2 Stadt und Respublic Bern, entbieten hiemit allen
+#facs_8_region_1628103631847_21l3 Unsern Angehörigen zu Stadt und Land Unser
+#facs_8_region_1628103631847_21l4 gnädigen und wohlgeneigten Willen, und
+#facs_50_region_1628873467160_144l28 1.—.
+#facs_8_region_1628103644260_24l1 geben ihnen anbey zu vernehmen.
+#facs_8_region_1628103644260_24l2 Demnach Wir gut und nöhtig befunden,
+#facs_8_region_1628103644260_24l3 die von Uns so wohl unterm 4ten und 11ten July
+#facs_8_region_1628103644260_24l4 1718. als 11ten Hornung 1729. ausgegebene, auf
+#facs_8_region_1628103644260_24l5 hinterhaltung deß Fremden Weins und Eßigs¬
+#facs_8_region_1628103644260_24l6 abzwekende Verordnung, in frische nähere Über¬
+#facs_8_region_1628103644260_24l7 Regung ziehen zu laßen, und deshalb Uns der
+#facs_8_region_1628103644260_24l8 Rapport erstattet worden; haben Wir in
+#facs_8_region_1628103644260_24l9 Aufhebung obangeregter Mandaten alles,
+#facs_8_region_1628103644260_24l10 was dahin einschlagt, in gegenwärtige Verord¬
+#facs_8_region_1628103644260_24l11 nung zusammen faßen laßen, und Verordnen
+#facs_8_region_1628103644260_24l12 Demnach anmit:
+#facs_8_region_1628103644260_24l13 1. daß aller fremde Wein, Eßig, Vranten.
+#facs_8_region_1628103644260_24l14 wein, und alle zum Getränt dienende starb
+#facs_8_region_1628103644260_24l15 gebrandte Waßer, bey hienach gesezter Strafe,
+#facs_8_region_1628103644260_24l16 noch ferner verbotten seyn solle.
+#facs_8_region_1628103644260_24l17 2. Für fremd soll gehalten werden, all
+#facs_8_region_1628103644260_24l18 obgenantes Gut, es seyn Wein, Eßig, Brand¬
+#facs_8_region_1628103644260_24l19 tenwein oder Liqueurs, so außer Unsern
+#facs_8_region_1628103644260_24l20 Immediae Landen, oder äußert den mit Lobl.
+#facs_8_region_1628103644260_24l21 Stand Freyburg gemeinsam besitzenden Ämtern
+#facs_8_region_1628103644260_24l22 gewachsen ist, oder herbant.
+#facs_8_region_1628103644260_24l23 3. In diesem allgemeinen Verbot soll
+#facs_9_region_1628103835119_42l1 12.
+#facs_9_region_1628103817801_36l1 jedoch nicht begriffen seyn das eigene, nicht aber
+#facs_9_region_1628103817801_36l2 das erkauffte, Wein Gewächs der Bürgeren zu Biel
+#facs_9_region_1628103817801_36l3 und Neuenstadt, und der unter dem Stadtpanner
+#facs_9_region_1628103817801_36l4 von Neuenburg stehender dortiger Burgeren, wie
+#facs_9_region_1628103817801_36l5 auch der alten Burgeren von St. Anbin, als derent¬
+#facs_9_region_1628103817801_36l6 halb Wir es bey Unseren vormahls ertheilten beson
+#facs_9_region_1628103817801_36l7 deren Bewilligungen, und bey der darin enthaltenen
+#facs_9_region_1628103817801_36l8 vorschrift, welche gegenwärtigem Mandat zu Ende
+#facs_9_region_1628103817801_36l9 Auszugsweise, bey gefügt sind, noch ferners bewendig
+#facs_9_region_1628103817801_36l10 laßen, so lang es Uns gefallen, und zu begründter
+#facs_9_region_1628103817801_36l11 Klagen nicht Anlaß gegeben wird.
+#facs_9_region_1628103817801_36l12 4. Aller fremde Wein, Brandtenwein, Eßig, stark
+#facs_9_region_1628103817801_36l13 gebrandte Waßer oder Liqueurs, so für Unsere Lande
+#facs_9_region_1628103817801_36l14 bestimt sind, sollen mit den erforderlichen Patenten
+#facs_9_region_1628103817801_36l15 begleitet seyn.
+#facs_9_region_1628103817801_36l16 5. Damit die in Unseren Landen befindliche Apatz
+#facs_9_region_1628103817801_36l17 ben mit fremden Wein und Brandten bein nach
+#facs_9_region_1628103817801_36l18 Nohtdurfft versehen werden, wollen Wir unseren
+#facs_9_region_1628103817801_36l19 kleinen Raht begwältigen, für deren Gebrauch
+#facs_9_region_1628103817801_36l20 wie auch allenfalls den in hiesigen Landen sich auf
+#facs_9_region_1628103817801_36l21 haltenden fremden Herren, die benöhtigte Patenten
+#facs_9_region_1628103817801_36l22 zu ertheilen.
+#facs_9_region_1628103817801_36l23 Was aber Unsere Bürger und angehörige
+#facs_9_region_1628103835119_42l1 12.
+#facs_9_region_1628103827742_39l1 betrifft, die zum Behelf ihrer Gesundheit, einigen
+#facs_9_region_1628103827742_39l2 fremden Weins benöhtiget sind, so sollen sich selbige
+#facs_9_region_1628103827742_39l3 für die disförtige Bewilligung bey Uns selbst melden
+#facs_9_region_1628103827742_39l4 6. Wird dann Jemand, dieser Unserer Vorschrifft
+#facs_9_region_1628103827742_39l5 zuvider, fremden Wein, Trantenwein, Eßig oder
+#facs_9_region_1628103827742_39l6 Liqueurs in Unsere Lande bringen: So soll zu
+#facs_9_region_1628103827742_39l7 deßen Bestraffung die entdebte und Arrestierte
+#facs_9_region_1628103827742_39l8 Contrebande-Waa Confisciert, und anbey der Fehlbare
+#facs_9_region_1628103827742_39l9 mit einer Buß von dem Werth der Confiscation
+#facs_9_region_1628103827742_39l10 belegt werden; jedoch daß die Buß die Sum der
+#facs_9_region_1628103827742_39l11 fünfzig Thaleren nicht übersteige, wenn schon der
+#facs_9_region_1628103827742_39l12 Werth der Confiscation sich höher belauffen würde.
+#facs_9_region_1628103827742_39l13 7. Die aufgelegte Zußen und Confiscationen
+#facs_9_region_1628103827742_39l14 dann sollen in drey gleiche Theile vertheilt werden
+#facs_9_region_1628103827742_39l15 und ein Drittel davon Uns, ein drittel dem
+#facs_9_region_1628103827742_39l16 Verleider, und ein Drickel dem Richter des Orts¬
+#facs_9_region_1628103827742_39l17 zukommen.
+#facs_9_region_1628103827742_39l18 8. Zu Vollzieheren dieser Ordnung und zu Rich¬
+#facs_9_region_1628103827742_39l19 teren über die daherige Widerhandlung sezen Wir¬
+#facs_9_region_1628103827742_39l20 in der Haubtstadt, in dem Stadt Bezirk und in den
+#facs_9_region_1628103827742_39l21 Vier Landgrichten, wo keine Amtleute sind, Unser
+#facs_9_region_1628103827742_39l22 Verordnete Ohmgeld-Cammer; in den Amteren
+#facs_9_region_1628103827742_39l23 und in den Städten aber den Amtsmann des Orts,
+#facs_10_region_1628103945415_60l1 14.
+#facs_10_region_1628103930662_54l1 Dabey soll unserer Ohmgeld-Cammer noch ins¬
+#facs_10_region_1628103930662_54l2 besonder Obligen, eine allgemeine Ober Aufsicht
+#facs_10_region_1628103930662_54l3 zu haben, daß diese Ordnung befolget werde
+#facs_10_region_1628103930662_54l4 9. diejenige Fremde und Einheimische, so fremde,
+#facs_11_region_1633455157551_3104l5 Wein, Brandtenwein, eßig oder Liqueurs per Transo¬
+#facs_10_region_1628103930662_54l6 durch Unsere Bockmäßigkeit führen laßen,
+#facs_10_region_1628103930662_54l7 sollen die Vorschrift Unserer unterm 12ten Hornung
+#facs_12_region_1633455188919_3121l8 1768. ausgegangenen Transit Ordnung pünktlich
+#facs_10_region_1628103930662_54l9 befolgen; und im Fall sie in eint- oder anderen
+#facs_10_region_1628103930662_54l10 Punkten wider gemelte Transit Ordnung fehlen
+#facs_10_region_1628103930662_54l11 wurden: So sollen die Fehlbahre von dem im
+#facs_10_region_1628103930662_54l12 8. Artibel verzeigten Richter, als Widerhandler
+#facs_10_region_1628103930662_54l13 dieser Unserer Wein-Ordnung angesehen, und
+#facs_10_region_1628103930662_54l14 von demselben mit der im 6ten Artibel bestimten
+#facs_10_region_1628103930662_54l15 Straffe beleget werden.
+#facs_10_region_1628103930662_54l16 10. Der Transit-Ordnung halb ist für die Lande
+#facs_10_region_1628103930662_54l17 Lobl.n Standes Fryburg, und für Unsere mit dem
+#facs_10_region_1628103930662_54l18 selben gemeinsam besitzende Ämter, Murten
+#facs_10_region_1628103930662_54l19 Grandson und Tscherlig, darinn eine Ausnahme, daß
+#facs_10_region_1628103930662_54l20 für die erstere Transit-Patenten von Lobl. Stand
+#facs_10_region_1628103930662_54l21 Fryburg, und für die leztere Patenten von der
+#facs_10_region_1628103930662_54l22 geweiligen Alternativ-Obrigkeit, bey Straff der
+#facs_10_region_1628103930662_54l23 Confiscation, erforderet werden.
+#facs_10_region_1628103950979_63l1 15
+#facs_10_region_1628103938804_57l1 11. Allen unseren bestelten Zoll-Commisen
+#facs_10_region_1628103938804_57l2 und Aufsteheren soll bey Ihren Geschwohrnen
+#facs_10_region_1628103938804_57l3 Eiden, und je nach bewanten Umständen, bey
+#facs_10_region_1628103938804_57l4 der Entsatzung, oder noch mehrerer Straff obligen
+#facs_10_region_1628103938804_57l5 auf die Befolgung dieser Ordnung getreulich¬
+#facs_10_region_1628103938804_57l6 zu achten; Und falls sie einige gefehrs bemerken
+#facs_10_region_1628103938804_57l7 wurden, daß fremder Wein, Brandtenwein,
+#facs_10_region_1628103938804_57l8 Vig oder Liqueurs ins Land gebracht, oder bey
+#facs_10_region_1628103938804_57l9 derselben durchfuhr, wider obangezogene Transit
+#facs_10_region_1628103938804_57l10 Ordnung gefehlt wurde, sollen sie schuldig und
+#facs_10_region_1628103938804_57l11 verbunden seyn, den Fehlbaren, dem im 8ten
+#facs_10_region_1628103938804_57l12 Artibel gesezten Richter, allsobald anzuzeigen.
+#facs_10_region_1628103938804_57l13 12. So bald dem Richter Widerhandlungen
+#facs_10_region_1628103938804_57l14 angezeigt werden, soll derselbe den Fehlbaren
+#facs_10_region_1628103938804_57l15 vorladen, und verhören, die Procedur Gesaz
+#facs_10_region_1628103938804_57l16 mäßig instruieren, und sub Beneficio Recursus
+#facs_12_region_1633455197583_3124l17 seine Urtheil ausfällen. Die dißortige Urtheile
+#facs_10_region_1628103938804_57l18 Dann soll, so gleich nach verfloßener Recurs¬
+#facs_10_region_1628103938804_57l19 Zeit, es seye, daß der Bestrafte recurrierte
+#facs_10_region_1628103938804_57l20 oder nicht, an unseren täglichen Raht, zu
+#facs_10_region_1628103938804_57l21 deßen weiterer Verfügung, eingesendt werden
+#facs_10_region_1628103938804_57l22 13. Damit auch Jedermann wißen möge,
+#facs_10_region_1628103938804_57l23 in wie weit unseren Benachbahrten Verbün¬
+#facs_10_region_1628103938804_57l24 deten
+#facs_10_region_1628103945415_60l1 14.
+#facs_10_region_1628103930662_54l1 Dabey soll unserer Ohmgeld-Cammer noch ins¬
+#facs_10_region_1628103930662_54l2 besonder Obligen, eine allgemeine Ober Aufsicht
+#facs_10_region_1628103930662_54l3 zu haben, daß diese Ordnung befolget werde
+#facs_10_region_1628103930662_54l4 9. diejenige Fremde und Einheimische, so fremde,
+#facs_11_region_1633455157551_3104l5 Wein, Brandtenwein, eßig oder Liqueurs per Transo¬
+#facs_10_region_1628103930662_54l6 durch Unsere Bockmäßigkeit führen laßen,
+#facs_10_region_1628103930662_54l7 sollen die Vorschrift Unserer unterm 12ten Hornung
+#facs_12_region_1633455188919_3121l8 1768. ausgegangenen Transit Ordnung pünktlich
+#facs_10_region_1628103930662_54l9 befolgen; und im Fall sie in eint- oder anderen
+#facs_10_region_1628103930662_54l10 Punkten wider gemelte Transit Ordnung fehlen
+#facs_10_region_1628103930662_54l11 wurden: So sollen die Fehlbahre von dem im
+#facs_10_region_1628103930662_54l12 8. Artibel verzeigten Richter, als Widerhandler
+#facs_10_region_1628103930662_54l13 dieser Unserer Wein-Ordnung angesehen, und
+#facs_12_region_1633455188919_3121l14 von demselben mit der im 6ten Artikel bestimten
+#facs_10_region_1628103930662_54l15 Straffe beleget werden.
+#facs_10_region_1628103930662_54l16 10. Der Transit-Ordnung halb ist für die Lande
+#facs_10_region_1628103930662_54l17 Lobl.n Standes Fryburg, und für Unsere mit dem
+#facs_10_region_1628103930662_54l18 selben gemeinsam besitzende Ämter, Murten
+#facs_10_region_1628103930662_54l19 Grandson und Tscherlig, darinn eine Ausnahme, daß
+#facs_10_region_1628103930662_54l20 für die erstere Transit-Patenten von Lobl. Stand
+#facs_10_region_1628103930662_54l21 Fryburg, und für die leztere Patenten von der
+#facs_10_region_1628103930662_54l22 geweiligen Alternativ-Obrigkeit, bey Straff der
+#facs_10_region_1628103930662_54l23 Confiscation, erforderet werden.
+#facs_10_region_1628103950979_63l1 15
+#facs_10_region_1628103938804_57l1 11. Allen unseren bestelten Zoll-Commisen
+#facs_10_region_1628103938804_57l2 und Aufsteheren soll bey Ihren Geschwohrnen
+#facs_10_region_1628103938804_57l3 Eiden, und je nach bewanten Umständen, bey
+#facs_10_region_1628103938804_57l4 der Entsatzung, oder noch mehrerer Straff obligen
+#facs_10_region_1628103938804_57l5 auf die Befolgung dieser Ordnung getreulich¬
+#facs_10_region_1628103938804_57l6 zu achten; Und falls sie einige gefehrs bemerken
+#facs_10_region_1628103938804_57l7 wurden, daß fremder Wein, Brandtenwein,
+#facs_10_region_1628103938804_57l8 Vig oder Liqueurs ins Land gebracht, oder bey
+#facs_10_region_1628103938804_57l9 derselben durchfuhr, wider obangezogene Transit
+#facs_10_region_1628103938804_57l10 Ordnung gefehlt wurde, sollen sie schuldig und
+#facs_10_region_1628103938804_57l11 verbunden seyn, den Fehlbaren, dem im 8ten
+#facs_10_region_1628103938804_57l12 Artibel gesezten Richter, allsobald anzuzeigen.
+#facs_10_region_1628103938804_57l13 12. So bald dem Richter Widerhandlungen
+#facs_10_region_1628103938804_57l14 angezeigt werden, soll derselbe den Fehlbaren
+#facs_10_region_1628103938804_57l15 vorladen, und verhören, die Procedur Gesaz
+#facs_10_region_1628103938804_57l16 mäßig instruieren, und sub Beneficio Recursus
+#facs_12_region_1633455197583_3124l17 seine Urtheil ausfällen. Die dißortige Urtheile
+#facs_10_region_1628103938804_57l18 Dann soll, so gleich nach verfloßener Recurs¬
+#facs_10_region_1628103938804_57l19 Zeit, es seye, daß der Bestrafte recurrierte
+#facs_10_region_1628103938804_57l20 oder nicht, an unseren täglichen Raht, zu
+#facs_10_region_1628103938804_57l21 deßen weiterer Verfügung, eingesendt werden
+#facs_10_region_1628103938804_57l22 13. Damit auch Jedermann wißen möge,
+#facs_10_region_1628103938804_57l23 in wie weit unseren Benachbahrten Verbün¬
+#facs_10_region_1628103938804_57l24 deten
+#facs_10_region_1628103945415_60l1 14.
+#facs_10_region_1628103930662_54l1 Dabey soll unserer Ohmgeld-Cammer noch ins¬
+#facs_10_region_1628103930662_54l2 besonder Obligen, eine allgemeine Ober Aufsicht
+#facs_10_region_1628103930662_54l3 zu haben, daß diese Ordnung befolget werde
+#facs_10_region_1628103930662_54l4 9. diejenige Fremde und Einheimische, so fremde,
+#facs_11_region_1633455157551_3104l5 Wein, Brandtenwein, eßig oder Liqueurs per Transo¬
+#facs_10_region_1628103930662_54l6 durch Unsere Bockmäßigkeit führen laßen,
+#facs_10_region_1628103930662_54l7 sollen die Vorschrift Unserer unterm 12ten Hornung
+#facs_12_region_1633455188919_3121l8 1768. ausgegangenen Transit Ordnung pünktlich
+#facs_10_region_1628103930662_54l9 befolgen; und im Fall sie in eint- oder anderen
+#facs_10_region_1628103930662_54l10 Punkten wider gemelte Transit Ordnung fehlen
+#facs_10_region_1628103930662_54l11 wurden: So sollen die Fehlbahre von dem im
+#facs_11_region_1633455157551_3104l12 8ten Artibel verzeigten Richter, als Widerhandler
+#facs_10_region_1628103930662_54l13 dieser Unserer Wein-Ordnung angesehen, und
+#facs_10_region_1628103930662_54l14 von demselben mit der im 6ten Artibel bestimten
+#facs_10_region_1628103930662_54l15 Straffe beleget werden.
+#facs_10_region_1628103930662_54l16 10. Der Transit-Ordnung halb ist für die Lande
+#facs_10_region_1628103930662_54l17 Lobl.n Standes Fryburg, und für Unsere mit dem
+#facs_10_region_1628103930662_54l18 selben gemeinsam besitzende Ämter, Murten
+#facs_10_region_1628103930662_54l19 Grandson und Tscherlig, darinn eine Ausnahme, daß
+#facs_10_region_1628103930662_54l20 für die erstere Transit-Patenten von Lobl. Stand
+#facs_10_region_1628103930662_54l21 Fryburg, und für die leztere Patenten von der
+#facs_10_region_1628103930662_54l22 geweiligen Alternativ-Obrigkeit, bey Straff der
+#facs_10_region_1628103930662_54l23 Confiscation, erforderet werden.
+#facs_14_region_1628104354945_127l1 18.
+#facs_10_region_1628103938804_57l1 11. Allen unseren bestelten Zoll-Commisen
+#facs_10_region_1628103938804_57l2 und Aufsteheren soll bey Ihren Geschwohrnen
+#facs_10_region_1628103938804_57l3 Eiden, und je nach bewanten Umständen, bey
+#facs_10_region_1628103938804_57l4 der Entsatzung, oder noch mehrerer Straff obligen
+#facs_10_region_1628103938804_57l5 auf die Befolgung dieser Ordnung getreulich¬
+#facs_10_region_1628103938804_57l6 zu achten; Und falls sie einige gefehrs bemerken
+#facs_10_region_1628103938804_57l7 wurden, daß fremder Wein, Brandtenwein,
+#facs_10_region_1628103938804_57l8 Vig oder Liqueurs ins Land gebracht, oder bey
+#facs_10_region_1628103938804_57l9 derselben durchfuhr, wider obangezogene Transit
+#facs_10_region_1628103938804_57l10 Ordnung gefehlt wurde, sollen sie schuldig und
+#facs_10_region_1628103938804_57l11 verbunden seyn, den Fehlbaren, dem im 8ten
+#facs_10_region_1628103938804_57l12 Artibel gesezten Richter, allsobald anzuzeigen.
+#facs_10_region_1628103938804_57l13 12. So bald dem Richter Widerhandlungen
+#facs_10_region_1628103938804_57l14 angezeigt werden, soll derselbe den Fehlbaren
+#facs_10_region_1628103938804_57l15 vorladen, und verhören, die Procedur Gesaz
+#facs_10_region_1628103938804_57l16 mäßig instruieren, und sub Beneficio Recursus
+#facs_12_region_1633455197583_3124l17 seine Urtheil ausfällen. Die dißortige Urtheile
+#facs_10_region_1628103938804_57l18 Dann soll, so gleich nach verfloßener Recurs¬
+#facs_10_region_1628103938804_57l19 Zeit, es seye, daß der Bestrafte recurrierte
+#facs_10_region_1628103938804_57l20 oder nicht, an unseren täglichen Raht, zu
+#facs_10_region_1628103938804_57l21 deßen weiterer Verfügung, eingesendt werden
+#facs_10_region_1628103938804_57l22 13. Damit auch Jedermann wißen möge,
+#facs_10_region_1628103938804_57l23 in wie weit unseren Benachbahrten Verbün¬
+#facs_10_region_1628103938804_57l24 deten
+#facs_13_region_1628104074409_89l1 16
+#facs_13_region_1628104089459_95l1 seten, die Einbringung ihres Wein-Gewächses ver¬
+#facs_13_region_1628104089459_95l2 günstiget seye: So haben Wir solches zu eines
+#facs_13_region_1628104089459_95l3 jeden Verhalt hier beyfügen laßen. Würde
+#facs_13_region_1628104089459_95l4 Dann jemand darwider handlen, der soll, wo nicht
+#facs_13_region_1628104089459_95l5 in den dißörtigen Concessionen selbst eine beson¬
+#facs_13_region_1628104089459_95l6 dere Straffe darauf gesezt ist, als ein Übertrecker
+#facs_10_region_1628103930662_54l13 dieser Unserer Wein-Ordnung angesehen, und
+#facs_13_region_1628104089459_95l8 bestrafft werden.
+#facs_13_region_1628104089459_95l9 diese Unsere Verordnung dann soll zu jeder¬
+#facs_13_region_1628104089459_95l10 manns Nachricht von Canzeln kund gemacht, und
+#facs_13_region_1628104089459_95l11 an den gewohnten Orten offentlich angeschlagen
+#facs_13_region_1628104089459_95l12 werden. Geben in Unserer Broßen Rahts Ver¬
+#facs_13_region_1628104089459_95l13 samlung den 18ten Januar 1774
+#facs_145_r4l18 Landtshut
+#facs_13_region_1628104098492_98l2 In wie weit nach vermelten unseren Benachbahrten
+#facs_13_region_1628104098492_98l3 Verbündeten die Einbringung ihres Wein gewächst
+#facs_13_region_1628104098492_98l4 Vergünstiget ist.
+#facs_113_r3l25 gefert:
+#facs_13_region_1628104104186_101l1 Deßhalb ist versehen, daß unseren Bürgeren
+#facs_13_region_1628104104186_101l2 und Unterthanen bewilliget seyn solle, die lische
+#facs_13_region_1628104104186_101l3 Burger-Wein, zu Flasche und Fäßlenen weise
+#facs_13_region_1628104104186_101l4 bis auf 50. Maaße, ohne Patent, zu ihrem
+#facs_13_region_1628104135649_107l1 Neüenstatter Wein.
+#facs_13_region_1628104141288_110l1 Den Bürgeren von Neuenstadt, nicht aber
+#facs_13_region_1628104141288_110l2 Ausseren, so dorten Weinbachshaben, ist ver¬
+#facs_13_region_1628104141288_110l3 günstiget, ihr eigen Wein-Gewachs, in begleit
+#facs_13_region_1628104141288_110l4 Certificaten von dortigem Magistrat, in hiesige
+#facs_13_region_1628104141288_110l5 Lande zu verkaufen; doch soll solches jeweilen
+#facs_13_region_1628104141288_110l6 nicht vor Martins Tag geschehen, und dabey die
+#facs_13_region_1628104141288_110l7 Bürgere von Neuenstadt verpflichtet seyn,
+#facs_13_region_1628104141288_110l8 keinen äußeren Wein, zu ihrem Gebrauch
+#facs_13_region_1628104141288_110l9 in ihre Stadt zu erhandlen, noch weniger davon
+#facs_13_region_1628104078411_92l1 17.
+#facs_13_region_1628104112469_104l1 Hauß gebrauch in Viel anbauffen, und dorten
+#facs_13_region_1628104112469_104l2 abholen zu können.
+#facs_13_region_1628104112469_104l3 diejenige aber, so zu ihrem Haus-gebrauch
+#facs_13_region_1628104112469_104l4 mehr als 50. Maas anzukaufen verlangen, sollen
+#facs_13_region_1628104112469_104l5 schuldig seyn, Unserer verordneten Ohmgeld¬
+#facs_13_region_1628104112469_104l6 Camer, ein von Lobl. Stadt Biel ausgefertigtes¬
+#facs_13_region_1628104112469_104l7 Attestatum vorzuweisen, daß der ankaufende
+#facs_13_region_1628104112469_104l8 Wein auf Bielischer Boetmäßigkeit gewachsen,
+#facs_13_region_1628104112469_104l9 und dortiger Bürgeren eigenes Gewächs seye,
+#facs_13_region_1628104112469_104l10 Woraufhin dann für das einzubringen verbil¬
+#facs_13_region_1628104112469_104l11 ligende Quantum die erforderliche Patent ausge¬
+#facs_13_region_1628104112469_104l12 fertiget werden mag. Act. coram 200 den 29ten
+#facs_13_region_1628104112469_104l13 Decembl 1744
+#facs_14_region_1628104354945_127l1 18.
+#facs_14_region_1628104366246_133l1 in hiesige Lande zu verbauffen. Actum coram 200
+#facs_14_region_1628104366246_133l2 den 4ten und 11ten July 1718.
+#facs_14_region_1628104366246_133l3 In ansehung Unserer Bürgeren und Ang¬
+#facs_14_region_1628104366246_133l4 hörigen dann, so Reben hinter Neuenstadt oder
+#facs_14_region_1628104366246_133l5 anderswo außer Lands besizen, laßen Wir es
+#facs_14_region_1628104366246_133l6 bey der Ordnung von Ao. 1739. verbleiben
+#facs_14_region_1628104411104_145l1 Neüenburger Stein
+#facs_14_region_1628104390676_139l1 Den unter dem Stadtpanner von Neuenburg
+#facs_14_region_1628104390676_139l2 stehenden Bürgeren, ist dermahl und auf
+#facs_14_region_1628104390676_139l3 eine bestimte Zeit vergünstiget, von ihrem
+#facs_14_region_1628104390676_139l4 eigenen dortigen Wein=Gewächs jährlich
+#facs_14_region_1628104390676_139l5 die Sum von 600 Faßen, oder 2760. Bern Sain
+#facs_14_region_1628104390676_139l6 unter folgenden pracantionen in hiesige Land¬
+#facs_14_region_1628104390676_139l7 zu verbauffen.
+#facs_14_region_1628104390676_139l8 1. Daß die vorgemelte Qualitat des Wein¬
+#facs_14_region_1628104390676_139l9 Unserer verordneten Ohngeld-Cammer durch die
+#facs_14_region_1628104390676_139l10 Käufer authentisch bescheiniget werde, damit
+#facs_14_region_1628104390676_139l11 so dann die erforderliche Patent zu Abholung des¬
+#facs_14_region_1628104390676_139l12 Weins, ertheilt werden möge.
+#facs_14_region_1628104390676_139l13 2. daß von obgedachtem Neuenburger Wein
+#facs_14_region_1628104390676_139l14 gemeilen vor Weyhnacht, keiner ins Land gefü¬
+#facs_14_region_1628104390676_139l15 werde, uns solche Einfuhr nicht länger geschehen.
+#facs_14_region_1628104402350_142l1 könne, als bis zu End des darauf folgenden
+#facs_14_region_1628104402350_142l2 Septembris; und falls selbigen Jahrs die 600. daß
+#facs_14_region_1628104402350_142l3 biß zu dieser gesezten Zeit jährlich nicht verdebitiert
+#facs_14_region_1628104402350_142l4 wären; so soll der Überrest in dem künftigen Jahr
+#facs_14_region_1628104402350_142l5 nicht angerechnet werden.
+#facs_14_region_1628104402350_142l6 3. daß zu einführ dieses Weins in hiesige
+#facs_14_region_1628104402350_142l7 Lande, man sich keiner anderen Route bedienen
+#facs_14_region_1628104402350_142l8 solle, als deren über Ifferten, Fehlbaum, Zihlbrut,
+#facs_14_region_1628104402350_142l9 St. Johannis Insul und Arberg.
+#facs_14_region_1628104402350_142l10 4. Falls jemand bey Einbringung dieses Weins
+#facs_14_region_1628104402350_142l11 es seye in Ansehung der Zeit, in deren derselbe
+#facs_14_region_1628104402350_142l12 einzuführen bewilliget ist, oder auch der Route,
+#facs_14_region_1628104402350_142l13 dieser Verordnung zuwieder handlen wurde,
+#facs_14_region_1628104402350_142l14 So ist in entdebendem Fall die Confiscation des
+#facs_14_region_1628104402350_142l15 Weins zur Straf gegen die Fehlbare ohne Nach¬
+#facs_14_region_1628104402350_142l16 sicht darauf gesezt. Act. coram 200. den 15ten May 1772.
+#facs_14_region_1628104411104_145l1 Neüenburger Stein
+#facs_14_region_1628104411104_145l2 deßhalb ist ferners angesehen.
+#facs_14_region_1628104416584_148l1 1. Daß die für Neuenbürgerswein erhaltende
+#facs_14_region_1628104416584_148l2 Patenten, bey Straf der Confiscation des darin
+#facs_14_region_1628104416584_148l3 vernamseten Weins, von den inhaberen an niemand
+#facs_14_region_1628104416584_148l4 anders abgetreiten, noch überlaßen werden sollen.
+#facs_14_region_1628104359166_130l1 19.
+#facs_15_region_1628104524929_163l1 20
+#facs_15_region_1628104544013_169l1 2. daß die disförtige Patenten 14. Tage nach
+#facs_15_region_1628104544013_169l2 Empfang des Weins, dem Ohmgeld-Schreiber es
+#facs_15_region_1628104544013_169l3 eingehändiget, oder Franco zu gesendt werden sollen,
+#facs_15_region_1628104544013_169l4 Bey Straff zweyjähriger Privation oder Zubung kein
+#facs_15_region_1628104544013_169l5 tiger Patenten. Act. coram Senatu. Den 21ten Mertz 1710.
+#facs_15_region_1628104548341_172l1 St Rubin=Stein
+#facs_15_region_1628104556866_175l1 Denen von St. aubin ist gestrecket, ihren Wein in
+#facs_15_region_1628104556866_175l2 hiesige Lande verbauffen zu können; mit denen
+#facs_15_region_1628104556866_175l3 Bedingen jedoch, daß durch vorweisung der ersten
+#facs_15_region_1628104556866_175l4 derlichen Attestaten bescheiniget werde, daß
+#facs_15_region_1628104556866_175l5 Wein in dem Bezirb von St. Anbin gewachsen,
+#facs_15_region_1628104556866_175l6 eigen Gewächs, und einem dortigen Burger
+#facs_15_region_1628104556866_175l7 zuständig seyn, und daß kein Wein vor Marti
+#facs_15_region_1628104556866_175l8 ins Land gebracht werde.
+#facs_15_region_1628104556866_175l9 Anbey ist Unserer Verordneten Ohmgeld¬
+#facs_15_region_1628104556866_175l10 Cammer überlaßen, die nöhtige Praecactionen der
+#facs_15_region_1628104556866_175l11 dißörtigen Einfuhr zu nehmen. Act. d. 16ten Mertz 1735
+#facs_150_r3l11 Canzley Hern.
+#facs_24_region_1628255397587_277l11 en

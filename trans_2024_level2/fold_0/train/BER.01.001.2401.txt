@@ -1,0 +1,27 @@
+Law ID: BER.01.001.2401
+Name: Mit Abschikung der Piedmonteseren inzuhalten biss auff weiteren Befelch.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 16/16
+# High similarity (>=50%): 15
+# Low similarity (<50%): 1
+# Not found: 0
+#
+#facs_441_r4l1 82
+#facs_441_r4l2 An alle Teütsche und Weltsche
+#facs_441_r4l3 Ambtleüth 4. Statt
+#facs_441_r4l4 Mit Abschickung der Spindmonteseren Inzuhalten
+#facs_441_r4l5 bis auff weiteren befelich
+#facs_441_r4l6 Schll. vndt Raht der Statt Bern.
+#facs_441_r4l7 Weilen der Chur Brandenburgische Commissarius,
+#facs_441_r4l8 so der Pietmontrsischen Thallenthen wegen erwartet
+#facs_441_r4l9 Wirt noch nicht angelanget, als wollend Wir dir
+#facs_441_r4l10 Hiemit befolchen haben mit Vernerer Abschikung
+#facs_441_r4l11 Leides deren die in die Brandenburgische
+#facs_441_r4l12 Landt sich zubegeben erklährt als auch der
+#facs_441_r4l13 anderen die darzu nit verstehen wollen einmahlen
+#facs_441_r4l14 Inn zuhalten, undt der Eint undt andere
+#facs_441_r4l15 halb von uns Vernerer ordre zuerwarten. Gott
+#facs_441_r4l16 mit die Datum 4. Aprilis 1685

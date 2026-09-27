@@ -1,0 +1,105 @@
+Law ID: BER.01.001.1123
+Name: Der Bättleren halb.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 94/94
+# High similarity (>=50%): 88
+# Low similarity (<50%): 6
+# Not found: 0
+#
+#facs_252_r2l14 Beschriebung
+#facs_252_r2l15 Der Weltsch. Ambtleüth vff
+#facs_252_r2l16 Ihre Rechnungen, 1.) gefertiget
+#facs_252_r2l17 nach gemeiner form, wie In
+#facs_252_r2l18 vorgehnden Jahren, sub II. Apr. 1640.
+#facs_252_r2l19 Wiblißung
+#facs_252_r2l20 *
+#facs_252_r2l21 Montag
+#facs_252_r2l22 -4
+#facs_252_r2l23 Peterlingen Oecon
+#facs_252_r2l24 Zinsag
+#facs_252_r2l25 Milden
+#facs_252_r2l26 May
+#facs_252_r2l27 Mit wochen
+#facs_252_r2l28 Oron
+#facs_252_r2l29 Donsag:
+#facs_252_r3l1 Chillion
+#facs_252_r3l2 Feijtag
+#facs_252_r3l3 Neuwenstadt Spitalmr.
+#facs_252_r3l4 Sambstag
+#facs_252_r3l5 Johanna
+#facs_252_r3l6 Montag
+#facs_252_r3l7 Morser
+#facs_252_r3l8 Zinstag
+#facs_252_r3l9 -
+#facs_252_r3l10 Bonmont
+#facs_252_r3l11 Mictwohl
+#facs_252_r3l12 Romamostier
+#facs_252_r3l13 Aytag
+#facs_252_r3l14 -
+#facs_252_r3l15 Newis
+#facs_252_r3l16 Doustag
+#facs_252_r3l17 Pfendten
+#facs_252_r3l18 Sambstag
+#facs_252_r4l1 9
+#facs_252_r4l2 12
+#facs_252_r4l3 13.
+#facs_252_r4l4 15
+#facs_252_r4l5 16
+#facs_252_r5l1 240.
+#facs_252_r5l2 Maij
+#facs_253_r3l1 an alle Teüesche Ambtleüth, freyweibe
+#facs_253_r3l2 undt Ammas, auch die 4 Stadt Im
+#facs_253_r3l3 der Bättleren halb.
+#facs_253_r3l4 gönne
+#facs_253_r3l5 Schuldtheil vndt Schot etc. Demnach wir
+#facs_253_r3l6 berichtet werdend, daß vnser Land widerum
+#facs_253_r3l7 mit starcken vnntzen, vndt müßig gehemen
+#facs_253_r3l8 Grömbden lästlern von Wyb vnnd Man
+#facs_253_r3l9 Erfült, die vnseren Vnderthane, merklich
+#facs_253_r3l10 überlege, sindt, als die sich nit nur deß gemeine
+#facs_253_r3l11 einfalten Allmuhens erseitigen laßend, Sondern
+#facs_253_r3l12 die Vnsere mit böse, trönwungen, Ihnen
+#facs_253_r3l13 nach Ihrem beliebet darzereichen, gleichsam
+#facs_253_r3l14 bezwingend, daher ermelte vnsere Vnder
+#facs_253_r3l15 thanen, sonderlich by Jetziger Zeit, da sy dem
+#facs_253_r3l16 Veldt. vndt Ackerbum nothwendig obligen
+#facs_253_r3l17 mußend, veranübung halb Ihrer Haab, auch
+#facs_253_r3l18 ausseckung Ihrer Heüsere mit In kleine
+#facs_253_r3l19 besorgung undt gefahr standent etc. Haben
+#facs_253_r3l20 wir zu verhückung des einen undt andere
+#facs_253_r3l21 ungemachs, für unmydenlich angesechen,
+#facs_253_r3l22 das In aller geheim zwo allgemeine Land¬
+#facs_253_r3l23 Ieginez obangedeüter musig gehenden
+#facs_253_r3l24 -
+#facs_253_r3l25 vndt zur arbeit wohlvermüglichen argwönig
+#facs_253_r3l26 Landtrychemen Bäctleren, Inn form undt
+#facs_253_r3l27 gestalt, wie Jüngst beschechen, doch mit mehre¬
+#facs_253_r3l28 rem fleiß und ernst gehalten, und benant¬
+#facs_253_r3l29 lich die erste vff Donstag den 23. die
+#facs_253_r3l30 andere aber vff Sambstag den 25. dis Monatus
+#facs_253_r3l31 angestelt werde, die Teuelchend, vff diß ein
+#facs_253_r3l32 hin ordenliche Profeses, somit deren Inti
+#facs_253_r5l1 241.
+#facs_253_r5l2 Deiner Verwaltung von nöthen sindt, zeuerordnen,
+#facs_253_r5l3 welche dergleichen müßiggehend vndt argwönig
+#facs_253_r5l4 Garderung unyresthafft feymbd undt heimbsch bädtel.
+#facs_253_r5l5 g sind, die Ihres thuns vndt laßen halben
+#facs_253_r5l6 mit eigentlichen noch genugsamen bericht geben
+#facs_253_r5l7 könten, besendigen, von ohrt zu ohrt, durch
+#facs_253_r5l8 Vnser Land gwarsamlich sich allhar In Vnser
+#facs_253_r5l9 das fuhrinn, vff das dieselben dem Christen
+#facs_253_r5l10 roll, oder seinem Comissario, wie vor dihen
+#facs_253_r5l11 elbige vstem Landt In Kriegsdienst geführen,
+#facs_253_r5l12 übergeben, undt also Vnserem Landt, als
+#facs_253_r5l13 Vinutzes gesindt, ußgemusteret werdint
+#facs_253_r5l14 Disen vnsern willen wirst in gebürende
+#facs_253_r5l15 Executis stellen, doch auch den nothwendigen
+#facs_253_r5l16 Vnderscheid machen, das nit mit etwan reliche
+#facs_253_r5l17 Vnderthanen, oder die Übelmögend, undt vnarg¬
+#facs_253_r5l18 Könige, die sich strack nach er heimat zebe¬
+#facs_253_r5l19 eben willens werendt, behendiget werdert
+#facs_253_r5l20 darnach wüß dich gehalten. Datum 15. April
+#facs_253_r5l21 1640.

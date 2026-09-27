@@ -1,0 +1,329 @@
+Law nr: BER.01.001.4547
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 318/318
+# High similarity (>=80%): 297
+# Low similarity (<80%): 21
+# Not found: 0
+#
+#facs_100_r2l1 soll.
+#facs_96_r2l1 1851
+#facs_95_r4l2 An die Herren Amtläit
+#facs_95_r4l3 zu Interlaken, Untersten, fertigen,
+#facs_95_r4l4 Runis, Oberhofen und Thun, so denn
+#facs_95_r4l5 an die Freybeibel auf beiden Deiten den
+#facs_95_r4l6 Aar von Thun nach Bern,
+#facs_95_r4l7 Fischer Ordnung für den Thümer
+#facs_95_r4l8 Brienjer One
+#facs_73_r3l6 Schultheis und Rathsen
+#facs_95_r4l10 senden Wir Euch, unsere wegen dem
+#facs_95_r4l11 Fischfang in dem Thümer und Brienger Sen¬
+#facs_95_r4l12 bin auch in der Aar von Thun schrieb
+#facs_95_r4l13 bis nach Bern, neu gemachte Verordnung
+#facs_95_r4l14 mit dem Befelch, selbige zu Jedermann
+#facs_95_r4l15 Nachricht öffentlich publicieren, und be¬
+#facs_95_r4l16 höriger Orten anschlagen zu laßen;
+#facs_95_r4l17 nach deren Inhalt gegen die Fehlbaren
+#facs_95_r4l18 zu progredienen, und solche zu hinkünftigen
+#facs_95_r4l19 Nachricht in den Mandaten Bücheren
+#facs_204_r4l25 einschreiben laßen.
+#facs_95_r4l21 An Thun und Interlahen allein. Wobey
+#facs_95_r4l22 Ihr ebenmäßig die Fischer in denen unterhabenden
+#facs_95_r4l23 distribten zu Verbachtung dieser Unserer neu
+#facs_95_r4l24 gemachten Verordnung in Pflicht aufnemmen¬
+#facs_95_r4l25 wiederhandlenden aber ohne Schonen zu gebührenden
+#facs_95_r4l26 Bestraffung ziehen wendet
+#facs_96_r1l1 184
+#facs_95_r4l7 Fischer Ordnung für den Thümer
+#facs_194_r4l14 ansehen.
+#facs_136_r3l17 ne Hinderniße an dem Ort, da sie da
+#facs_310_r3l1 Wie auch an die¬
+#facs_96_r1l6 dre Raven bis an Bern.
+#facs_64_r2l8 Wir Schultheiß und Rath
+#facs_96_r1l8 fer Stadt und Republik Bern, thun
+#facs_168_r3l1 ll
+#facs_96_r1l10 tuns hiemit: daß Wir durch die an
+#facs_96_r1l11 Uns mannigfaltig eingelangte Beschleenden
+#facs_96_r1l12 über den in unserer Hauptstadt sich
+#facs_96_r1l13 zeigenden FischMangel, beloogen, in
+#facs_96_r1l14 Aufhebung Unserer Ordnung vom 4.
+#facs_96_r1l15 Nachmonat 1765, zum Besten des
+#facs_96_r1l16 gestanten Publici für gut und noth¬
+#facs_96_r1l17 wendig erachtet, den Fischfang des Bmenzen
+#facs_96_r1l18 und Thuuerkers, wie auch in den Aar
+#facs_96_r1l19 bis nach Zern, auf eine Probzeit von
+#facs_96_r1l20 zwey Jahren, gleich nach geschehener
+#facs_96_r1l21 Publication gegenwärtigen Mandats an
+#facs_96_r1l22 zu rechnen, doch unter folgen den Beschriften
+#facs_96_r1l23 und Verordnungen frey zu laßen:
+#facs_44_r4l1 81
+#facs_96_r2l2 sur Amt Interlaten
+#facs_96_r2l3 Wird Unser dortige Amtsmann, so wohl
+#facs_96_r2l4 im Trienzerben, als in dem in
+#facs_96_r2l5 seinem Amts Bezirk befindlichen Theil
+#facs_96_r2l6 der Aar, diejenigen Fischer bestellen,
+#facs_96_r2l7 die Er nothwendig erachten wird, und
+#facs_96_r2l8 selbige in Gelübe aufnemen
+#facs_96_r2l9 Pas Amt Thun betrefend.
+#facs_96_r2l10 Es werden in selbigem ganzen bren, mehr
+#facs_96_r2l11 icht, als Sechs so genante Gefehrte
+#facs_96_r2l12 tischen können; der bee wird nicht unter
+#facs_96_r2l13 selbige vertheilt, sondern es soll mit
+#facs_96_r2l14 einem jeden Gefehnte da gefischet werden
+#facs_96_r2l15 können, wo sein Besiser es um vor¬
+#facs_96_r2l16 träglichsten erachten wird. Der Trische
+#facs_96_r2l17 fang zu leißigen aber soll, nach
+#facs_96_r2l18 habenden Rechten, Unserem Amtsmann
+#facs_96_r2l19 zu Interloben vorbehalten seyn und
+#facs_213_r2l3 bleiben.
+#facs_96_r2l21 für zwey diese Gefehrte, wird die
+#facs_96_r2l22 Stadt Thun die Fischere zu bestellen.
+#facs_96_r2l23 und ihnen des Fischverkaufs halb, die
+#facs_96_r2l24 gutfindende mit gegenwärtigem Reglemt
+#facs_97_r1l1 186
+#facs_97_r2l1 übe in Timmende Vorschrift zu geben
+#facs_97_r2l2 haben; jedennoch mit dem deutlichen
+#facs_97_r2l3 vorbehalt, daß selbige von Unserem
+#facs_97_r2l4 Amtsmann zu Thun, wie die von ihme
+#facs_97_r2l5 zu bestellende übrige Fischer in Gelübs
+#facs_97_r2l6 aufgenommen werden, in allen Fällen unter
+#facs_97_r2l7 seiner Jurisdiktion stehen, und gleich
+#facs_97_r2l8 den übrigen Fischere dem Obrigkeitlichen
+#facs_97_r2l9 Reglement unterworfen seyn sollen.
+#facs_97_r2l10 besagt Unserem Amtsmann zu Thun
+#facs_97_r2l11 gebührt von den Sechs bestelten Fischern
+#facs_97_r2l12 im Thuner der, für seine habende Rechten
+#facs_97_r2l13 das 2. proCent von allen Jufangendt
+#facs_97_r2l14 Fischen.
+#facs_97_r2l15 In dem Theil den Uar, die sein
+#facs_97_r2l16 Amt durchfließt, wird er ferners diejenigen
+#facs_97_r2l17 Fischer bestellen, welche er nötig finden
+#facs_97_r2l18 wird, dabey aber sollen nach Anweisung
+#facs_97_r2l19 der Bednung von Ao 1673. alle Stände
+#facs_97_r2l20 und Schlüpf, als der Fischezen höchst
+#facs_97_r2l21 schädlich, von dem Schüzenmalthaus weg,
+#facs_97_r2l22 unten an der Stadt, die ganze Aar
+#facs_97_r2l23 hinab, bey 10. lb. unnachläßlicher Bus
+#facs_98_r3l22 verbocken seyn, mit Barnen auf dem
+#facs_7_r2l12 18
+#facs_97_r3l2 In der klar diseris des Amtes
+#facs_4_r13l2 7
+#facs_97_r3l4 Ist Ansterer verordneten Fischtax Comission
+#facs_97_r3l5 überlaßen, diejenigen Vorkahren zu
+#facs_97_r3l6 treffen, welche den Umständen angemeßen
+#facs_97_r3l7 seyn werden.
+#facs_97_r3l8 1° die Mäschel von allen Garnen und
+#facs_97_r3l9 Instrumenten, so die Fischer im Thuner
+#facs_97_r3l10 aus Briecher See zum Fischfang gebrauchen
+#facs_97_r3l11 betreffend so sollen sie die Fischer,
+#facs_97_r3l12 tolche nach der im Mayengeding,
+#facs_97_r3l13 und daherigen Ordnung bestanten
+#facs_97_r3l14 Größe, davon das Modell im Schloß
+#facs_97_r3l15 Thun und hier abge¬
+#facs_97_r3l16 seichnet sich befindet,
+#facs_97_r3l17 berfertigen lassen, und
+#facs_97_r3l18 keine anderen zum Fischen
+#facs_97_r3l19 gebrauchen. Zu desto
+#facs_97_r3l20 genauerer Beobachtung dieser Artikels
+#facs_97_r3l21 ist auch Unser Wille, daß der
+#facs_97_r3l22 bestelten Fischeren Garn, jesund
+#facs_97_r3l23 von drey zu drey Jahren geflißenlich
+#facs_97_r3l24 paminiert werden sollen.
+#facs_97_r3l25 2° der Zeit der Fischfangs halb,
+#facs_94_r3l1 181.
+#facs_98_r2l1 sollen, die Fischer in diesen beiden
+#facs_98_r2l2 Sern, noch einer jeden Einsaat und
+#facs_98_r2l3 lieu erleses alle in dem 15ten Oct.
+#facs_98_r2l4 der Ordnung von 1745. der Leichheit
+#facs_98_r2l5 halb stezifiziert, versehen ist sich
+#facs_98_r2l6 durchaus verhalten, welchen Artikel
+#facs_98_r2l7 dahin wiederholt wird, daß die
+#facs_98_r2l8 „Fische in der Leichheit jed fangen,
+#facs_98_r2l9 ums zu stechen jedermäniglich beoboten
+#facs_98_r2l10 seyn soll, und Ibar bey 50. lts.
+#facs_98_r2l11 Aus und Confirbation der Firche, nemlich
+#facs_98_r2l12 die fernen von Michaelstag, bis
+#facs_98_r2l13 auf den Neujahrstag.
+#facs_98_r2l14 Die Taabeco vom 1. Trachmonat,
+#facs_98_r2l15 bis den 25. gleichen Monats
+#facs_98_r2l16 Die Kirchen den ganzen Merz hindurch
+#facs_98_r2l17 Die Hechten die ganze Leichheit aus.
+#facs_98_r2l18 die Tefolgung dieser Artibald, soll
+#facs_98_r2l19 ich auch erstreben, auf die Aus in¬
+#facs_98_r2l20 und außert dem Amt Thun
+#facs_98_r2l21 3 Soll auch von iht an, jederzeit
+#facs_98_r2l22 verbodten seyn, die Heörling und Magen
+#facs_98_r2l23 Ermachling zu fangen, bey Confichation der
+#facs_98_r2l24 Fische, und 50. lb. biß; übrigens aber alle
+#facs_98_r2l25 nach der Ordnung von 1745
+#facs_98_r3l1 189
+#facs_98_r3l2 4° Absonderlich über bleibt denen
+#facs_98_r3l3 fischeren in beiden Seen eingeschärft,
+#facs_98_r3l4 und soll ihnen frischer Dingen verbocken
+#facs_98_r3l5 In, die so genante Kritzfische, Sitzlig
+#facs_98_r3l6 auch und Buchfische zu fangen, und wenn
+#facs_98_r3l7 tia daran in den Gernen aus sonst
+#facs_98_r3l8 fangen wurden, solche, gleichwie auch alle
+#facs_98_r3l9 andere Fische, so nicht die in der Ord¬
+#facs_98_r3l10 mung bestimte Bröße hätten, als formen,
+#facs_98_r3l11 Uesch und Barben, so nicht zwischen
+#facs_98_r3l12 dem Kopf und Stiel 7. Zoll, und die
+#facs_98_r3l13 Hechten so nicht 10 zoll hätten,
+#facs_98_r3l14 denne die Trischen, so nicht über ein
+#facs_98_r3l15 Viertel Pfund wägen, alsobals wieder
+#facs_98_r3l16 in das freye Waßer zu berfen
+#facs_98_r3l17 3d. Soll noch fernerhin bey sehen Pfund
+#facs_98_r3l18 Euß uns Confisbation den Barnen,
+#facs_98_r3l19 maniglich, es seye Bürgeren von Bern,
+#facs_98_r3l20 als anderen Persohnen, äußert den bestelten
+#facs_98_r3l21 und in Eidsgelübs aufgenommenen Fischeren
+#facs_98_r3l22 verbocken seyn, mit Barnen auf dem
+#facs_98_r3l23 Thumer und Trienzerten, auch in der
+#facs_98_r3l24 Aare Fische zu fangen, sondern sich nur
+#facs_98_r3l25 fer Angeln bedienen; es wäre dan
+#facs_49_r1l1 90
+#facs_99_r2l1 Hofalß genau besondere Titel
+#facs_99_r2l2 und Rechte vorzuweisen hatte, mit
+#facs_99_r2l3 Garnen uns anderen Instrumenten zu fischen.
+#facs_99_r2l4 Allen bestelten Fischeren, ist unter
+#facs_99_r2l5 ihrem abgestakteten Gelube anoch bey
+#facs_99_r2l6 50. rt. Bus, die Veräußerung der
+#facs_99_r2l7 Fische verbotten; sie sollen im Gegen¬
+#facs_99_r2l8 theil gehalten seyn, /: die zwey von
+#facs_99_r2l9 der Stadt Thun ausgenommen: 1 alle
+#facs_99_r2l10 ihre Fische, so oft möglich, lebendig in
+#facs_99_r2l11 die Stadt Bern zu bringen, dieselbe
+#facs_99_r2l12 so gleich bey dem Fischbank, und nirgends
+#facs_99_r2l13 anders wo feil zu bieten, und erst was
+#facs_99_r2l14 sie solche daselbst ihr Stunden werden
+#facs_99_r2l15 feil gehalten haben, in ihren Kasten
+#facs_99_r2l16 und Gehalten an der Maten zu ver¬
+#facs_99_r2l17 wahren, um selbige nachwärts verkauften
+#facs_99_r2l18 zu können; Sie werden auch alle mahl
+#facs_99_r2l19 dem Kammer Weibel ein Verzeichniß ihrer
+#facs_99_r2l20 hergebrachten Fische einhändigen, damit
+#facs_99_r2l21 er der kommer Gebühr, wie im Vergangenen,
+#facs_99_r2l22 mit 4., proCent beziehen könne.
+#facs_99_r2l23 Es ist allen Bürgeren und Einbohnern
+#facs_99_r2l24 hiesiger Hauptstadt bey Straf der
+#facs_99_r3l1 1919
+#facs_99_r3l2 Confiskation verbocken, Fische zu Thun
+#facs_99_r3l3 und Interlaken zu bestellen, oder be¬
+#facs_99_r3l4 stellen zu laßen, auf den Straßen
+#facs_99_r3l5 bey dem Thor, oder bey der Lande, bey
+#facs_99_r3l6 ihrer Unkaufft, zu kaufen oder konfen
+#facs_99_r3l7 zu laßen, sondern sie sollen abwarten
+#facs_99_r3l8 bis daß selbige zum Verkauf auf
+#facs_99_r3l9 den Fischbank werden gebracht seyn.
+#facs_99_r3l10 Unseren Bürgeren, geist und weltlichen
+#facs_99_r3l11 Standes, die ob und unter den Stadt
+#facs_99_r3l12 Thun sitzen, überlaßen wir für ihren
+#facs_99_r3l13 Hausgebrauch von denen samtlichen bestelte
+#facs_99_r3l14 Fischeren ohne Unterscheid diejenige Fische
+#facs_99_r3l15 anzukaufen, welche sie nötig haben werden.
+#facs_99_r3l16 Hiebey aber sollen die Fischer ge¬
+#facs_99_r3l17 halten seyn, eine Bescheinigung von der
+#facs_99_r3l18 Anzahl ihrer an obbemelte Unsere Bürger
+#facs_99_r3l19 verkauften Fische bey ihrer Ankauft in
+#facs_99_r3l20 Bern, dem Kammer Reibel ein zusändigen
+#facs_99_r3l21 Damit man aber wißen könne, ob
+#facs_99_r3l22 die Fischer treulich mit Lieferung der
+#facs_99_r3l23 fische umgehen: so sollen die von
+#facs_99_r2l19 dem Kammer Weibel ein Verzeichniß ihrer
+#facs_99_r3l25 jedem Amtmann für sein Amt, alle
+#facs_12_r8l1 19
+#facs_157_r4l1 oll.
+#facs_6_region_1633454281779_2775l1 d
+#facs_100_r3l1 drey oder Sechs Monate zurück ge¬
+#facs_100_r3l2 sendt werden.
+#facs_100_r3l3 zu desto besserer Befolgung diesen
+#facs_100_r3l4 Ordnung sollen endlich die darinn aus
+#facs_100_r3l5 gesetzten Busen, halb dem Verleider,
+#facs_100_r3l6 und halb dem Richter des Orts anheim,
+#facs_100_r3l7 fallen. Dat. 18. März 1784
+#facs_65_r3l5 Canzley Bern.
+#facs_83_r3l6 en
+#facs_100_r3l9 An die Herren Amtleut
+#facs_100_r3l10 zu Morsteé, Neue, Aubonne, Bonmont,
+#facs_100_r3l11 Romainmotier, Iferten und Grandsonse
+#facs_100_r3l12 dem Franzöln Capuziner Chrisologue in
+#facs_100_r3l13 einen zu machenden physikalischen Beobachtungen
+#facs_100_r3l14 keine Hinterniße zu machen.
+#facs_100_r3l15 Schultheit und Rath pr Es ist
+#facs_100_r3l16 Uns von des königl. französischen Herrn
+#facs_100_r3l17 Vodtschaffters Excellenz, der Bericht über¬
+#facs_100_r3l18 schrieben worden, daß ein den physikalischen
+#facs_100_r3l19 Wißenschaffen obliegender Angehöriger
+#facs_100_r3l20 der Krone Frankreich, den Tere Chrisologue
+#facs_100_r3l21 von Gy, Capusiner Oeden, gesinet seye,
+#facs_100_r3l22 eine Reise auf die Pischen der
+#facs_101_r5l1 195
+#facs_100_r4l2 franche Comté und Unserer Bottmäßigkeit
+#facs_100_r4l3 gelegenen Bergen zu thun, um da¬
+#facs_100_r4l4 selbe verschiedene Mineralogische und
+#facs_100_r4l5 in die Natur Geschichte einschlagende
+#facs_100_r4l6 Beobachtungen zu machen, als wozu
+#facs_100_r4l7 er gedacht Sr. Excellenz von dem Königl.
+#facs_100_r4l8 französischen Staats Minister Herrn Grafen
+#facs_100_r4l9 von Vergennes ins besondere empfohlen.
+#facs_100_r4l10 worden sey. Mit dem beygefügten
+#facs_100_r4l11 Ersuchen, daß da derselbe Unser
+#facs_100_r4l12 Territorium zu betrecken nötig haben.
+#facs_100_r4l13 werde, Wir belieben möchten, die zu
+#facs_100_r4l14 Begünstigung seines Vorhobens, allenfahls
+#facs_100_r4l15 erforderliche Befehle seines behörigen
+#facs_100_r4l16 Orts, ergehen zu laßen.
+#facs_100_r4l17 Bleichwie Wir nun kein Bedenken
+#facs_100_r4l18 getragen, dem franzöln Herrn Collschafter
+#facs_100_r4l19 in seinem auf die Beförderung nizliche
+#facs_100_r4l20 Wißenschaften abzuebenden Verlangen billig
+#facs_100_r4l21 zu entstrechen, so nommen Wir keinen An¬
+#facs_100_r4l22 stand, Euch von dieser vorhabenden Reise
+#facs_100_r4l23 des Dêre Chrisologue, andurch die nötige
+#facs_100_r4l24 Bekantschafft- zugleich dan auch den
+#facs_100_r4l25 besonderen Auftrag zu geben, die Aufsicht
+#facs_101_r1l1 194
+#facs_28_r4l1 Coll
+#facs_101_r3l1 zu halten, und zu veranstalten, daß
+#facs_101_r3l2 diesem Naturforscher /: welcher zu diesem
+#facs_101_r3l3 End, mit physikalischen Instrumenten
+#facs_101_r3l4 und einem Pasport von dem franzöl.
+#facs_101_r3l5 Herren Ambassadoren versehen seyn wird)
+#facs_101_r3l6 fahls Silbiger.
+#facs_101_r3l7 für seine zu machen habende Beobachtung
+#facs_101_r3l8 Euer Amt zu betredten nötig haben
+#facs_101_r3l9 solte, ihme solchenfalls nicht nur keine
+#facs_101_r3l10 Hinteriße gemacht, sondern im Gegen¬
+#facs_101_r3l11 theil all nötiger Vorschub zu Beförderung
+#facs_101_r3l12 einer gemeinnüzigen Unternemens gethan
+#facs_101_r3l13 werde. Wie zu thun rt Datl. den
+#facs_101_r3l14 22 März 1784
+#facs_100_r3l9 An die Herren Amtleut
+#facs_101_r3l16 zu Burgdorf, Landshut, Hangen, Arbungen,
+#facs_101_r3l17 Aarburg und Aarau, Sep.
+#facs_101_r3l18 Zollfreye Abfuhn eines Tachstuhls für
+#facs_101_r3l19 das Schloß Wiberstein
+#facs_24_r2l14 Schultheis Räth und Bürger da
+#facs_101_r3l21 haben gut befunden, das zu Wieder¬
+#facs_101_r3l22 aufbauung, eines neuen Dachstuhls an
+#facs_101_r3l23 Plaz des abgebrandten Tochstuhls, auf
+#facs_101_r3l24 dem Schloß Ciberstein, nötige Canholz
+#facs_100_r2l1 soll.
+#facs_101_r5l1 195
+#facs_101_r5l2 in dem Einenthal ankaufen nach
+#facs_101_r5l3 Kirchberg oder Abhenflüh führen und
+#facs_101_r5l4 alda diesen Tachstuhl abbinden uns zu¬
+#facs_101_r5l5 rüsten zu laßen, in der Absicht, daß
+#facs_101_r5l6 derselbe, nachher von dort aus, die
+#facs_101_r5l7 Emmen und Aar hinab nach Hiberstein
+#facs_101_r5l8 deßen Ihr berichtet
+#facs_101_r5l9 geflört werde.
+#facs_101_r5l10 werdet mit Befelch, die Anstalt vorzu¬
+#facs_101_r5l11 behren, daß dieser Tachstuhl als Obrig¬
+#facs_101_r5l12 beitlich Gut ohngehindert und Zollfrey
+#facs_101_r5l13 durchgelaßen werde. Wie sind thunse
+#facs_54_r7l3 Marty
+#facs_102_r3l5 Datl. d. 22. März. 1784.

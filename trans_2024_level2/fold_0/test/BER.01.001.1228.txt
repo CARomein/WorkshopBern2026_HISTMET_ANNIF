@@ -1,0 +1,358 @@
+Law ID: BER.01.001.1228
+Name: Nüwe Ordnung wie man sich der Bättleren halb zeverhalten, uf die Landtschafft Bern gericht.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_484
+# Matched: 347/347
+# High similarity (>=50%): 342
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_358_r2l14 Tagen zu der Teütschl. Her¬
+#facs_358_r2l15 Comptlüth Rechnungen.
+#facs_358_r2l16 Montagier 17. Julij
+#facs_358_r2l17 Chim, Interlocken, und ersewen.
+#facs_358_r2l18 Zinstags 18. Julij
+#facs_358_r2l19 Frutingen, Ober- undt Nider sibenthal
+#facs_358_r2l20 Mitdeuchens 19. Julij
+#facs_358_r2l21 Drachselbaldt, Brandis, Bignauw
+#facs_358_r2l22 Donstags 20.
+#facs_358_r2l23 Burgdorff, Landtshut. Büren.
+#facs_358_r2l24 Feytags 21
+#facs_358_r2l25 Nydauer, Gottstett. St. Johanßen.
+#facs_358_r2l26 Sambstags r
+#facs_358_r2l27 Erlach, Arberg, Laupen
+#facs_358_r4l1 Montags 24a
+#facs_358_r4l2 Kennisperg, Frauwbrunnen, Buchse¬
+#facs_358_r4l3 Zinstags 25
+#facs_358_r4l4 Wangen, Torberg.
+#facs_358_r4l5 Mit douchens 26.
+#facs_358_r4l6 Arwangen, Bipp, Arbux
+#facs_358_r4l7 Donstags 27.
+#facs_358_r4l8 Rentzburg, Hoffingen
+#facs_358_r4l9 Feytags 28
+#facs_358_r4l10 Küngsfelten Biberstein, Schenckenberg.
+#facs_358_r4l11 Sambstags 29
+#facs_358_r4l12 bölen, sauen
+#facs_358_r4l13 hier
+#facs_358_r4l14 .
+#facs_358_r4l15 Unwe Ordnung wie¬
+#facs_358_r4l16 man sich der Völdt bren halb zevor,
+#facs_358_r4l17 halten, vf die Landtschafft Bexu
+#facs_358_r4l18 Coll.
+#facs_358_r4l19 gericht
+#facs_358_r4l20 Wix schl. Raht und bueger der Stadt Nern, Thundt
+#facs_358_r4l21 kundt, vnd empieten allen vnd Jeden vnseren Amptluth.
+#facs_358_r4l22 und lieben Vnderthanen In allen Stetten, Fläten, dorfferen
+#facs_358_r4l23 vnd Höffen, unserer landen vns gepieten, vnsern feündtlich
+#facs_358_r4l24 gnedigen geus, vnd hiemit zab nemen. Wie das wie
+#facs_358_r4l25 In vyff achtung vnd betrachtung genommen, was maßen
+#facs_358_r4l26 vnser landt an allen orthen und enden, von aller hand frömbden
+#facs_358_r4l27 und landth heimbschen bald deren vfs Vserst vnd mehr dan
+#facs_359_r1l1 hievor gehmahlen erfült vnd vberhüfft beladen, beides
+#facs_359_r1l2 von deß an anderen gethan noch In völligen lauf wesende,
+#facs_359_r1l3 landt verderblichen leidigen Krieges, wie auch von deß¬
+#facs_359_r1l4 , wegen, das ein guter theil diser landtstrychenden
+#facs_359_r1l5 Waldt leren ohne einiches schüchen, lieber dem vnuerschamt¬
+#facs_359_r1l6 Sättel nachzücht, dann sich der arbeit und gewinn¬
+#facs_359_r1l7 eß lieben Brodls, beflystet, wie aber der vsgetruckte
+#facs_359_r1l8 woll uns beuelch Gottes Pman, das ein Jeder syür
+#facs_359_r1l9 beodt, Im schweis synes angesichts eßen vnd niesen
+#facs_359_r1l10 solle. Von willichen unzahlbaren vbelegen nett
+#facs_359_r1l11 Gätelg sind, Vnsere Vnderthanen, sonderlich die aber
+#facs_359_r1l12 die vf dem landt In Dörfferen und höffen, nit allein rfs
+#facs_359_r1l13 vserst gepreßet, vnd bis vfs marg vßgesagen. Sonsteren
+#facs_359_r1l14 Noch Wilmahls (wie solches das werdt selbs In der
+#facs_359_r1l15 leidigen Vast teglichen erfahrung bezügel.) an alle¬
+#facs_359_r1l16 Irem haab und gut, mit nechtlichen Ynbruchen
+#facs_359_r1l17 Roub vnd Brand, durch das dormit vnd er lauffendt
+#facs_359_r1l18 storben scholmen vnd dieben gsind, geschadiget, vnd
+#facs_359_r1l19 hiemit vmb das, was sy mit schwerer arbeit
+#facs_359_r1l20 zu wegen bringend, boßhaffter weys, gebracht werden
+#facs_359_r1l21 In betrachtung welches in, vndt anderen vß dem
+#facs_359_r1l22 müßiggang vnd Rättel volgenden übels, Wir
+#facs_359_r1l23 vß Tochter Oberkeitlicher, zu vnsers Landts, vndt
+#facs_359_r1l24 Der Unserenheit vnd Wolfart tragend fürscht
+#facs_359_r1l25 te ursachet worden, durch ein Neüw ernsthaften
+#facs_359_r1l26 Ordnung theils nach dem Inhalt vnserer Zu
+#facs_359_r1l27 vorigen Zeiten vfgangnen Mandaten, theils
+#facs_359_r1l28 auch nachdem wie es sonst eruorderlich, dienst¬
+#facs_359_r1l29 vnd ersprießlich befunden, Ein solches irsachen
+#facs_359_r1l30 Zethun, daß beuordrist allen Lantsynheimschen
+#facs_359_r2l1 346
+#facs_359_r2l2 armen, die Vrsach zum bättel, durch Mittel der
+#facs_359_r2l3 schaffung Irer mehrung genommen, denn die vß¬
+#facs_359_r2l4 lendischen Vortgeschickt vnd ab oder zur arbeit gehalten
+#facs_359_r2l5 vnd dann die Ungehorsamen vnd Murbilligen
+#facs_359_r2l6 böttler, mit Irenger arbeit gezüchtiget, hiemit
+#facs_359_r2l7 das Landt von dem Unverschambten bätzel
+#facs_359_r2l8 erlediget, vnd den Unterthanen vorgedachter
+#facs_359_r2l9 beschwerden abgeholtten werden möge,
+#facs_359_r2l10 Wir zu nun, wellend wir aller vordreist angesechl,
+#facs_359_r2l11 Prouosen
+#facs_359_r2l12 vnd benochen haben, daß In allen Stetten, Flecken
+#facs_359_r2l13 vnd dörfferen, vnd Jedem sonderbar, etliche eheliche,
+#facs_359_r2l14 ernsthaffte, verstendige, vnd hirtzu tugendtliche
+#facs_359_r2l15 Männer, In rechter Anhal, je nachdem ein Jedes
+#facs_359_r2l16 Ort groß oder klein, zum ordenlichen Vrouosen bestelt,
+#facs_359_r2l17 bestendig ohne abwechslung so weit müglich, erhalten
+#facs_359_r2l18 vnd mit einer ehrlichen besoldung vß einem dauhendtlich
+#facs_359_r2l19 zusamenschutz, vischen werden sollent.
+#facs_359_r2l20 derselben pflicht, sambt vndt Prichtung dann sol sein
+#facs_359_r2l21 der pflicht
+#facs_359_r2l22 daß ein Jeder täglichen seinem berieck, an alle Ortt
+#facs_359_r2l23 fleißige undt wachtbare vmbgengthüye, vndt gegen
+#facs_359_r2l24 den antreffenden vndt bestreichenden bötleren
+#facs_359_r2l25 sich verhalten, wie In nachvolgend Ordnung wegweisung
+#facs_359_r2l26 gegeben wirt.
+#facs_359_r2l27 Die böttler so sie Ansolchen suchenen finden undt
+#facs_359_r2l28 Vnderscheid antreffen, werdend füenemlich zweyerley sein
+#facs_359_r2l29 bärlicen
+#facs_359_r2l30 als die einten ynheimbsche vnd Im Landt geborne
+#facs_359_r2l31 Die anderen aber vsere, so von anderen Orten
+#facs_359_r2l32 har Ins Landt kommen sind
+#facs_359_r2l33 So uil nun die ersten, als die Landts ynteinsch
+#facs_359_r2l34 Landtsheim
+#facs_359_r2l35 betrifft, habend wir deren halb schon vor langem
+#facs_359_r2l36 durch vfgekündte Manfat vndt Ordnungen Fise
+#facs_359_r2l37 Fürsechung gethan, das eintede Gmein Ihre
+#facs_360_r1l1 Wünserechtliche
+#facs_360_r1l2 Anlagen
+#facs_360_r2l1 Armen selbst erhalten solle, welche dann Ordnung
+#facs_360_r2l2 Wie hiemit, erfrischet, ernüweret, vnd also
+#facs_360_r2l3 allen vnseren Vnderthanen gantz ernst meinem
+#facs_360_r2l4 angesagt, beuolchen vndt vferlegt haben wollen,
+#facs_360_r2l5 das ein Jedes ort, von deß anderen, vnd hiemit
+#facs_360_r2l6 seines selbst eignen nutzes, vnd gantz offenbaren
+#facs_360_r2l7 vnuernemhöhen schuldigkeit wegen Ihme
+#facs_360_r2l8 angelegen sein laße, solcher Ordnung vndt
+#facs_360_r2l9 gebott, gutwillig, teüwlich vnd fleißig nach¬
+#facs_360_r2l10 gekommen vnd quugehethun, darmit die selbigen
+#facs_360_r2l11 fre armen, oß mangel der nahrung mit versam¬
+#facs_360_r2l12 habind, sich hinwegen an andere ort, und hiemit
+#facs_360_r2l13 Dem bättel Herrgeben
+#facs_360_r2l14 Solches aber gegen Inen den Bußarmen, desto
+#facs_360_r2l15 kumlicher vndt mit guter Ordnung Heuerrichtt,
+#facs_360_r2l16 wollend wir einem jeden Ort, diese gutfundene
+#facs_360_r2l17 ons In andern Landtschafften auch brächliche
+#facs_360_r2l18 gantz wol erschießende Form an die hand gegeben
+#facs_360_r2l19 hoben, daß nämlich In jeder Kilchhör; Teil Ort
+#facs_360_r2l20 zusamen Kilchförig sindt, vff alle darum ge¬
+#facs_360_r2l21 ößne zu erwälten, noch eines Indeßin u mögl.
+#facs_360_r2l22 vndt erichtumb, so weit kumlich vndt füglich, In
+#facs_360_r2l23 gegenwürtigkeit, vndt mit hilff vnserer Ambtsleüth
+#facs_360_r2l24 ein ordenlich abgetheilter Frauföst. Monat. oder
+#facs_360_r2l25 r
+#facs_360_r2l26 wuchendtlicher Einsamen schutz vndt steühr, angell
+#facs_360_r2l27 getreidt, brot, oder anderen nahrungs mittlen,
+#facs_360_r2l28 wie es einem Jeden Ortt am kommlichsten sein
+#facs_360_r2l29 vndt belieben mag, angelegt, solichs gelt vnd gleiche
+#facs_360_r2l30 zu bezüchen und treüwlichen Feuerwalts, frommen
+#facs_360_r2l31 ehrliche Weüde vndt Gottsförchtige Männer vß
+#facs_360_r2l32 ihren mittlen geordnet, und dann durch dieselben
+#facs_360_r2l33 die gesamlete steiche, und die Bußarmen zu ihrer
+#facs_360_r2l34 nohe vndt erhaltung ußgetheilt werden solle.
+#facs_360_r3l1 S47.
+#facs_360_r3l2 Dorchu sollend durch die Pordianten Kilchmeyer vndt
+#facs_360_r3l3 Ehegönner eines Jederortts, alle In Jeder Gmein¬
+#facs_360_r3l4 geseßne vndt yngehörige Busarme mit Iren Kinderen
+#facs_360_r3l5 von Zeit zu Zeit ördenlich vndt In treuwen ohne guet
+#facs_360_r3l6 vferzeichnet, vnd sitt einmal Jederweiln vnd denselben
+#facs_360_r3l7 im Vnderscheid befinden vndt hemachen ist, Eines Jeden
+#facs_360_r3l8 thun vndt verhalten (deßen man sich, wo es nit sonst
+#facs_360_r3l9 gnugsamb bekant, by den Dnochbartt erkundigen kan.)
+#facs_360_r3l10 Einzugesetzt werden, mit meldung durch was weis
+#facs_360_r3l11 weg oder vnfal der einte vnd andere Inormut gerathl
+#facs_360_r3l12 Damit Inder Vrtheillung deß Almusens diejenigen
+#facs_360_r3l13 so sich Jederzeit ehrlich, wol vndt arbeitsam verhalten,
+#facs_360_r3l14 de noch eines Jedesen mangels beschaffenheit, mit
+#facs_360_r3l15 etwas vortheil, gegen den anderen, billich bedenckt
+#facs_360_r3l16 vnd begabet; die Jenigen aber, so eintweders das
+#facs_360_r3l17 Jrigen renützlich verschwendt, oder sonst Er leben lang
+#facs_360_r3l18 sich mit der gestalten der arbeit beflißen, daß sie
+#facs_360_r3l19 Die naheung für sich vnd die Zeigen haben mögend,
+#facs_360_r3l20 oder auch sonst ihres Haus vndt lebwesens halb ein
+#facs_360_r3l21 böse zu gsamen habend, mit minderm (dann man
+#facs_360_r3l22 ihnen gleichwol etwas hilff vndt handtreichung
+#facs_360_r3l23 thun soll) Eischen vnd vmbs vberg so Inen thue
+#facs_360_r3l24 wahrung von hölten, fürnemlich aber diesestärcken
+#facs_360_r3l25 Leibs seind, dahin gewisen Werdnis, Sich der arbeits
+#facs_360_r3l26 by vndt gegen den Gmeindtsquoßen desto mehr
+#facs_360_r3l27 vnd mit ernst zubeflißen, vnd Er brot Zeuerdiene
+#facs_360_r3l28 auch dardurch sich wirdig gemachen, das ihnen Zuechst
+#facs_360_r3l29 mehr gesteühet werden.
+#facs_360_r3l30 Welche strühe vndt handtreichung gegen den Bußarmen
+#facs_360_r3l31 kein ort noch Gemeind für beschwerlich achten
+#facs_360_r3l32 noch solche sich duren laßen soll, Bittemal solches
+#facs_360_r3l33 ihre, von Gott dem Kerren selbst gebottne,
+#facs_360_r3l34 vnd anbeuolchne schuldige pflicht ist, welche auch
+#facs_360_r3l35 Derselb gegen einem Reden, nach seiner Ehefungen
+#facs_361_r1l1 mit desto reicherem segen, In andere Weg gelt
+#facs_361_r1l2 wirt, vnd fatt ein Todes Ortt hierzu auch desto
+#facs_361_r1l3 größere Vrsach, weiln menigklichem anndere
+#facs_361_r1l4 frombe starcke vndt zur nahrung Mügligkeit
+#facs_361_r1l5 habende böttler, durch diese Ordnung werden
+#facs_361_r1l6 obgenommen vnd solche der beschwerd, so sie mit
+#facs_361_r1l7 denselben gehabt, erübriget vndt endtlediget werden.
+#facs_361_r1l8 Vnnd ist hiebey vnser will vndt verstand, das solche
+#facs_361_r1l9 steiche vß selbst eignen mittlen, vndt keins wegs
+#facs_361_r1l10 vß dem Kirchengut genomen werden solle,
+#facs_361_r1l11 Es were dann die ein vnd andere Gemeine
+#facs_361_r1l12 mit piquen und sonderbaren mitzlen mit
+#facs_361_r1l13 dergestalten gnugsam bsechen, dann das sie
+#facs_361_r1l14 Zu diser steiche Dinermy danlich etwas vß dem
+#facs_361_r1l15 Jerlichen yckommen des Kischenguts anwenden
+#facs_361_r1l16 nußte, In sölichem fahl, wie es geschechen laßen,
+#facs_361_r1l17 wollend, doch andrist nit, dann In aller bescheiden:
+#facs_361_r1l18 heit vndt dem Hauptgut ohne abbruch.
+#facs_361_r1l19 Anheimbsche Wanndann vorgedachte Prinosen, In Prichtend
+#facs_361_r1l20 Ombs ziehenden
+#facs_361_r1l21 nache vndt vmbgangen, dergleichen dem bättel
+#facs_361_r1l22 nachzuchende Landtsyckennische arme antreffend
+#facs_361_r1l23 werdend, Söllend sie denselben solches müßiggehnde
+#facs_361_r1l24 vmb schweiffende wesen keines wegs gestattes
+#facs_361_r1l25 sondern solche vff befragen, In welchem dort
+#facs_361_r1l26 die anheimbsch seyen, nemen, biß zuerstl. Gmeint¬
+#facs_361_r1l27 gegen sölchem ihrem sein art (die Vnuermüglichen
+#facs_361_r1l28 mit Rost vndt Karen Dführen vnt den Procursen
+#facs_361_r1l29 daselbst, damit sie fürters geführt werdert
+#facs_361_r1l30 übergeben.
+#facs_361_r1l31 So aber solche einmal heim: oder Hur arbeit gewisne,
+#facs_361_r1l32 versohnen, sich anderst nit endthalten, dann das sie
+#facs_361_r1l33 hernach zu solchem müßig gehnden anders mit
+#facs_361_r2l1 Ißere Zwey
+#facs_361_r2l2 erbey
+#facs_361_r3l1 Dann ein art zum diebstal vnd scheüchen der arbeit
+#facs_361_r3l2 anzeigenden Umbschweiffen, widerumb betretten
+#facs_361_r3l3 wurden, dieselben als Ihres vorhobens vndt thuns
+#facs_361_r3l4 gnugsam entdeckte vndt erkennen leut, sollend die
+#facs_361_r3l5 Procösen ohne Verners schonen behendigen, vndt von
+#facs_361_r3l6 ort zu ortt bis In vnsere haubtstatt In gnugsamer
+#facs_361_r3l7 Vf Verwahrung führen, damit dieselben Ins
+#facs_361_r3l8 Schallenwerch zur arbeit yngespannet, vndt vom
+#facs_361_r3l9 müßiggang abgehalten werdind.
+#facs_361_r3l10 Und wiewol wir zugelaßen haben wöllen, das die
+#facs_361_r3l11 Unseren, so mit Schynen von Vnseren Hauptleüth
+#facs_361_r3l12 tosechen, Brandtstühren Im Landt hrüschen, vndt
+#facs_361_r3l13 Vfnemmen, die Ambtleütt auch dieselben wie
+#facs_361_r3l14 von alterhar ertheillen mögindt, Jedoch vndt
+#facs_361_r3l15 Dieweil vnderwilen bschiß vndt betrug vübt
+#facs_361_r3l16 worden, wellend wir daß dergleichen Schein
+#facs_361_r3l17 weiters nit als vff Herren Monat terminiert vndt
+#facs_361_r3l18 noch verfließung derselben, die Schön den Ambt¬
+#facs_361_r3l19 leütten widrumb von handen geben vnd dafüchin
+#facs_361_r3l20 selbigen beschäärten von den provosen nit weiterer
+#facs_361_r3l21 gang gestattet werden solle.
+#facs_361_r3l22 Prömbde vnd Vßere persohnen aber, Sie syen von
+#facs_361_r3l23 Eidtgnößischen, oder anderen Orthen har, so mit gleich¬
+#facs_361_r3l24 wol habenden lehynen den Brandtstühren auch
+#facs_361_r3l25 nachhüchen, sollen Im Landt nit gestattet, sondern
+#facs_361_r3l26 mit aller strenge fort genünsteret, undt an Er
+#facs_361_r3l27 Heimat, alda sie by den Frigen nothwendige
+#facs_361_r3l28 handtreichung haben mögend, gewisen, Ihnen
+#facs_361_r3l29 der Brieffen genommen, vndt abgeschaffet werden.
+#facs_361_r3l30 Nachdisen Landts ynheimbschen Volgend vnd werdend
+#facs_361_r3l31 gefunden, die vseren vndt frömbden, deren dann
+#facs_361_r3l32 auch zweyerley sind, nämlich die, so Inerthalb
+#facs_361_r3l33 der Eidt angeschafften Nachbarten Orthen erboren
+#facs_361_r3l34 vnd anheimbsch, vnd dan die gar Landtsgrömbden
+#facs_362_r1l1 Eidt guößisch
+#facs_362_r1l2 Vortribre
+#facs_362_r1l3 Zweyerli
+#facs_362_r1l4 Starcke
+#facs_362_r2l1 so von vßern mit Krieg Pderbten Orthen her¬
+#facs_362_r2l2 von dem Zeigennus elend triben vnndt
+#facs_362_r2l3 Verjagt sind
+#facs_362_r2l4 Was nun betrifft die erste gattung, sollene
+#facs_362_r2l5 Die Prondsen denselben das vmbzuchen
+#facs_362_r2l6 vnd dem böttel nachstreichen, ebenmessig keine
+#facs_362_r2l7 wegs gestatten, sonder ihnen anzeigen
+#facs_362_r2l8 Dieweil von dem quaden Gottes, In Ihrem
+#facs_362_r2l9 Vatterlandt noch guter Friden ist, vnd die mittel
+#facs_362_r2l10 bey den Zeigen noch vorhanden, das sie ihre nahr¬
+#facs_362_r2l11 vnd erhaltung haben mögend, So söllend sie nun
+#facs_362_r2l12 ich vort, vnd zu erfennet machen, oder sonst die
+#facs_362_r2l13 arbeit sich befleißen, hiemit sie von einem
+#facs_362_r2l14 Dorff zum andern den preuosen an die
+#facs_362_r2l15 handt geben, sie biß vff die grentzen Zuführen
+#facs_362_r2l16 mit gleicher runder Vorsag, das so sie sich über
+#facs_362_r2l17 diß weiters müßiggelendt Im Landt finden
+#facs_362_r2l18 laßend, man sie stracks von Bern Ins Schallen
+#facs_362_r2l19 Werck führen werde, welches sie dann auch
+#facs_362_r2l20 Am fols weiteren betrettens ohne Verners
+#facs_362_r2l21 bedencken thun sollend.
+#facs_362_r2l22 Die gar vßlendischen undt getriben dann, sollend
+#facs_362_r2l23 auch also vnd erscheiden werden, das die so zur
+#facs_362_r2l24 arbeit älters, leibs vngesundheit halber Unnüglich
+#facs_362_r2l25 sind, dahin gewisen werdend, wo sie nit mit
+#facs_362_r2l26 nugsamer sicherheit sich widerumb In Hr Vatterlandt,
+#facs_362_r2l27 begeben können, sich des müßiggangs vnd bättels
+#facs_362_r2l28 gentzlich zuendt hichen, vnd sich ehrlicher Handtorbeit
+#facs_362_r2l29 zu genommung ihrer nehmig vnd lijbs erhaltung
+#facs_362_r2l30 zubefleisen, So aber öber solche wahrn: vndt
+#facs_362_r2l31 Umahlung der einte od andere In vorigem
+#facs_362_r2l32 diesen widrumb funden wurde, der soll ohne
+#facs_362_r2l33 alle gnad von Ortt huortt, biß zu vnser
+#facs_362_r3l1 unvermüglich
+#facs_362_r3l2 Von
+#facs_362_r4l1 349.
+#facs_362_r4l2 Hauptstatt Ins Schallenwerck geschaffet werden.
+#facs_362_r4l3 Damit aber durch die provosen hierinn nit etwan
+#facs_362_r4l4 zu vnbescheidenlich gefahren, vnd mit dem hinführen
+#facs_362_r4l5 Aus Schallenwerck ein rechte maß vndt Vnderscheid
+#facs_362_r4l6 gebracht werde, sollend sie diejenigen, so sie vorge¬
+#facs_362_r4l7 hörter maßen, vber vorganges verpott, vmbstreichen
+#facs_362_r4l8 antreffen werden, alwegen beuordrist vnserem
+#facs_362_r4l9 Ambtleüthen zu führen, Denselben eines Jedes
+#facs_362_r4l10 thums beschaffenheit anzeigen, vnd dero gut¬
+#facs_362_r4l11 achtens vndt bevelchs darüber erwarten, dawit
+#facs_362_r4l12 Dann zu einest jeden Ambtsmans disoretion
+#facs_362_r4l13 vnd befindtnuß gestelt haben wollend, den eints
+#facs_362_r4l14 oder anderen In mit haltung gebürenden vnderscheidts,
+#facs_362_r4l15 damit nit etwan eheliche leüt übreylet werdend,
+#facs_362_r4l16 alhir ins Schallen werche geschicken
+#facs_362_r4l17 Durch die mittelder anwendung des Schallen¬
+#facs_362_r4l18 werchs, werdend solche vnwürdige mutwillige
+#facs_362_r4l19 vnd vberlegne böttzler, eintweders gar vserm
+#facs_362_r4l20 Landt getriben, oder doch vffs weinigest, sonst den
+#facs_362_r4l21 Vnderthanen mögen obgenommen werden.
+#facs_362_r4l22 Vnd endtlich ist, der vbrigen vßlendischen vnndt
+#facs_362_r4l23 Adtribuen Armen halb so kranck, perschafft, gar
+#facs_362_r4l24 alt oder gar Jung, vnd zu keiner arbeit thugentlich
+#facs_362_r4l25 und Kümglich sind, welche auch für rechte würdige
+#facs_362_r4l26 armen Zuhalten und Zuerkennen, vnd deren
+#facs_362_r4l27 notturff wir es mit gutthätigkeit angenemen
+#facs_362_r4l28 voi Gott erwachtt sind, vnsere meinung vndt
+#facs_362_r4l29 Adstandt, das dieselben keins wegs verstoßen
+#facs_362_r4l30 Sondern durch die Vnsern an allen orten geduldet,
+#facs_362_r4l31 vnd denselben mit Forberg nahr, vndt Kleidung
+#facs_362_r4l32 vonnsober dem gleubensgroßen Vniuerdroßen
+#facs_362_r4l33 vnd gutwillig das best gelten werde, als welche
+#facs_362_r4l34 sonst mögend ihre sichere Zu flucht, vnd Und schlauff
+#facs_362_r4l35 genennen wüßend. Wie dann zu versichtlich
+#facs_363_r1l1 eintIeder noch seinem Umögen noch weiters
+#facs_363_r1l2 Zethun gesinnet vnd gutwillig syn: Welches
+#facs_363_r1l3 auch Gott der Heer, anderst nit, als ob es
+#facs_363_r1l4 Ime selber beschechen, vfnemmen vndt gegl.
+#facs_363_r1l5 einem Jeden gutthäter mit gnaden vndt
+#facs_363_r1l6 seinem Rychen Segen widerumbl. vielten wirt
+#facs_363_r1l7 Einem allem nach, gesinnend wir hiemit auch
+#facs_363_r1l8 son alle vnsern Ambtleütt, diese vnsere gut
+#facs_363_r1l9 yffrige Ordnung, In ein angelegenliche beob¬
+#facs_363_r1l10 achtung zuzuchen, und gegen den Inen anbe¬
+#facs_363_r1l11 wolchnen Vnderthanen Jederweilen, so offt
+#facs_363_r1l12 Vnd vil von nöthen, die ernst: beuelchliche E
+#facs_363_r1l13 fügung zethan, vnd handt abgehalten, daß
+#facs_363_r1l14 Derselben In allen puncten Jung gethan
+#facs_363_r1l15 vnd die rechte Execution, als das Leben aller
+#facs_363_r1l16 Ordmupgen gegeben werde; Auch die preuosen
+#facs_363_r1l17 so sie freu bevelch fleißig prichtend, by demselben
+#facs_363_r1l18 zuschirmmen vnd zu sandthaben, So sie aber Ihm
+#facs_363_r1l19 selben Liederlig: undt hinläßigkeit erzeigen
+#facs_363_r1l20 mit an wendung gebürlicher Straff, zu rechten
+#facs_363_r1l21 fleiß zuhalten, da wir dann vns zu gedachts
+#facs_363_r1l22 Vnderthanen als zu deren Nutz, Heil vndt
+#facs_363_r1l23 Froman dises eintzig angesechen, aller gehorsammen
+#facs_363_r1l24 Willferigkeit vnd fleißigen erstattung der
+#facs_363_r1l25 gebüe, siechen Faben doellend. Satz 13 May 1643.

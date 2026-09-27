@@ -1,0 +1,83 @@
+Law ID: BER.01.001.2323
+Name: Den Unterthanen kund machen, wie weit der Newenburger Wein zugelassen.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_488
+# Matched: 72/72
+# High similarity (>=50%): 72
+# Low similarity (<50%): 0
+# Not found: 0
+#
+#facs_369_r1l1 683
+#facs_369_r1l2 sollx
+#facs_369_r2l1 An Alle E. Ambrleuth
+#facs_369_r2l2 Stätt Freyloeibel undt Amman ptem
+#facs_369_r2l3 Vyblisfurg, Patterlingen und Wildc
+#facs_369_r2l4 den Unterthanen kund machen, wie weit der
+#facs_369_r2l5 Neltenburger Wein zugelaßen.
+#facs_369_r2l6 undt die Ambtleüth zu fleißiger Auffsicht anmahl
+#facs_369_r2l7 Schls. vndt Raht der Statt Berg,
+#facs_369_r2l8 viehabendt den 17. Verschinnen 9bris. auff Geständiges
+#facs_369_r2l9 Anhalten der Fürstl. Rähten vndt Statt Nebenburg, so viel
+#facs_369_r2l10 Sie undt dero angehörige betrifft zwahr Umb anderer als rechtlichen
+#facs_369_r2l11 Bodenkken Willen, vornemblich aber unseren geneigten Willen auch von
+#facs_369_r2l12 barliche Feündtschafft vndt Wohlmeinung zu bezeügen, so lang es uns
+#facs_369_r2l13 gefallen Wirt Wir es unserem stand undt Land nulzlich vndt Er
+#facs_369_r2l14 sprießlich finden werden, unser anderem 9. 7bris. 1678. außgeschrieben
+#facs_369_r2l15 Verpoll des Frömbden Weins dahin gemilteret
+#facs_369_r2l16 Daß für den Jährlichen Haus brauch ein zu kaufft Vnseren Bürgern vndt
+#facs_369_r2l17 Unterthanen zu allen Zeiten ohne vorbehalt einichen termins zugelaßen sein,
+#facs_369_r2l18 gleich wohl mit dem Underscheid, daß Vnsere Bürger so weit keißbrauch
+#facs_369_r2l19 darmit Vnderlaufft, solches ohne Weitere erlaubnus, die Vnterthanen Ab-
+#facs_369_r2l20 ten daß nicht als mit vorloußen unser geordneten Wein Cammer, und dar
+#facs_369_r2l21 hariger permission befügt: zugegen dan in kleinen Wegen den Wirthen
+#facs_369_r2l22 intenschenken undt glärbs Leüthen zugelaßen sein soll,
+#facs_369_r2l23 Ober den Haußbrauch aber mit Nebenburger Wein Auffkauff undt
+#facs_369_r2l24 Wider Verkauff zuhandlen haben wie das termin bestimbt allwegen Ver¬
+#facs_369_r2l25 Osterzeit das ist von dem H. Ostertaag, biß den 1. taay Herbstmon
+#facs_369_r2l26 darinnen Wie daßelbe aber sonst Niemandem als der Statt Herrn
+#facs_369_r2l27 in gebohrnen Burgeren, dem den Inn- Undt außbürgeren. Wie auch
+#facs_369_r2l28 Graffschafft Leüthen zu Neltenburg zugelaßen, Vnder dem namen der
+#facs_369_r2l29 selvenburgischen aus bürgeren aber nit verstanden haben Nöllen sein
+#facs_369_r2l30 außburger, so under dem komen bourgeois renoncez verstanden werden
+#facs_369_r2l31 als welche von desem beneficio so lang außgeschloßen sind, als Sie Vnser
+#facs_369_r2l32 1o. 1818. Ihrerthall außgeselte Erkantnus das geringe, nicht geleistet, vnd
+#facs_369_r2l33 dem Nebenburgerischen Stattburger Rechten vndt Pauer sich nicht Widerin
+#facs_369_r2l34 erklärt haben werden
+#facs_369_r2l35 Innert diinem termin nun mögend die Eint undt anderen denen
+#facs_369_r2l36 oberleüterter maßen zu gelaßen, darmit handen, jedoch allso daß Sie zu
+#facs_369_r2l37 allen zeiten, undt in alle weg den Wein (er wirdt gleich von dorten
+#facs_369_r4l1 abgeholet, oder von Dannen ins Land gebracht (mit dem Zeichen Velven=
+#facs_369_r4l2 bueg bezeichnet, allhero in die Haubt statt auf den gewohnten platz zu be¬
+#facs_369_r4l3 Undt nach erlaag des geleohnten Platz guldis daselbsten Vndt sonst inregens
+#facs_369_r4l4 anderstvos zu gantzen Saßen Vnsern Bürgeren vndt Unterthanen Teil zu halt
+#facs_369_r4l5 vndt zu verkauffen gebunden sein sollen. Im Vbrigen doch in dem Verstand
+#facs_369_r4l6 ist Unsere Bürger. dan allso harbringenden volgen burger Wein, den sie bey der
+#facs_369_r4l7 Pinten aus zuschenken gemeint sind Wohl alsobaldt in Keller legen Lape, mögend
+#facs_369_r4l8 ohne daß derselbe wie der so zu gantzen daß v. Verkaufft werden wollen, auff
+#facs_369_r4l9 dem platz Vail gehalten werden müßte.
+#facs_369_r4l10 Nun vernommend Wie, daß darob nicht gehalten, vndt aller ohrten ein großt
+#facs_369_r4l11 nenge Koloenburger Weins gleichsam ohngeschahe ins Land gebracht vnd
+#facs_369_r4l12 verkaufft werde, vnder dem ohngegründten Vorband, als ob das bekante Vndere
+#facs_369_r4l13 7. 7bris. 1678 ausgeschriebene Verpott der Trömbden Weins gäntzlich aufgehet
+#facs_369_r4l14 were, da doch solches anderst nit zugelaßen ist, als mit dann restrictione, so hieob
+#facs_369_r4l15 heiter erleütheret sind: Dannenhero hierwiders das geführende einsähen zethun wir Vns
+#facs_369_r4l16 möhtiget befunden, Vndt zu dem Seide dieß Wie gegen anderen Vnseren Ambtleüthen
+#facs_369_r4l17 auch beschieht: hiemit alles Sensts vndt bey deme in sydt befeliche, wollen, ob
+#facs_369_r4l18 Unserem dem Verpott Vnder obigen erleütherungen exacte zusalten Vndt hiemit
+#facs_369_r4l19 soch nun an in deiner ambtsverwaltung durch eine anstellende Visitation, sonderlich
+#facs_369_r4l20 aber gegen den Wirthen vndt Pintenschenken, ob selbige von selch verpottenem Wein kein
+#facs_369_r4l21 aus Landt gepracht, oder noch in kellern haben möchten, geflißent nachforschung zu halten
+#facs_369_r4l22 jenigen, so zahlbahr erfunden werden möchten, zu verzeichnen, und mit allen Vmbständen
+#facs_369_r4l23 die Viel. Wie offt? vndt zu was Zeiten. Sie selbigen eingebracht, Immert 14. Jaagen
+#facs_369_r4l24 Vnsere geordnete WeinCammer zu Vermeiner Veranstaltung zu berichten: auch zu
+#facs_369_r4l25 behütung, daß ins könfftige dergleichen betrug nicht vorgehen, undt nach der ordnung
+#facs_369_r4l26 kein anderer Kervenburger Wein, als Vnder den gesetzten restitutionen Vndt der
+#facs_369_r4l27 allhier in der Haubtstatt Teil gehalten Werde, Ins Landt gebracht werden könne
+#facs_369_r4l28 ihre Verordnung zu verschaffen, daß in deinem Ambt ohne den Vorlößen, Vnd die Vorge¬
+#facs_369_r4l29 Wiesenen Schein, so Wohl Woder Wein gewachsen als gekaufft worden, einiger Wen
+#facs_369_r4l30 mit in den Edler gelegt werde. Demn nach Wiesen zu meingklichs nachricht dises
+#facs_369_r4l31 nandat von Cantzlen Verkünden, Vndt ohnfahlbarlich ins Schlaaffe oder Schloß bey einschen
+#facs_369_r4l32 selaßen, Deines Theils auch geflißenlich darob zu halten Wäßen. Gott mit die
+#facs_369_r4l33 Datum 21. Augusti 1684

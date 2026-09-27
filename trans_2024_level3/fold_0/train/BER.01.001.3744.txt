@@ -1,0 +1,125 @@
+Law ID: BER.01.001.3744
+Name: Mandat wordurch die Veräusserunng dess hieländischen Getreydt erlaubet ist.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_495
+# Matched: 114/114
+# High similarity (>=50%): 59
+# Low similarity (<50%): 55
+# Not found: 0
+#
+#facs_145_r4l6 Chancelline de Berne.
+#facs_145_r4l7 C
+#facs_145_r4l8 Mandert
+#facs_145_r4l9 An alle J. und St. Ambthleuth, 4. Stadt
+#facs_145_r4l10 frey Weibel und Ammen
+#facs_145_r4l11 Wodurch die veräußerung des hielän¬
+#facs_145_r4l12 dischen getreydt Erlaubet ist.
+#facs_145_r4l13 Schultheis Räth und Burger
+#facs_145_r4l14 Unß lauffen die berichten Ein, was maßen
+#facs_145_r4l15 durch Bockes güete Sich dermahlen allant
+#facs_145_r4l16 halben ein reicher vorraht, und überfluß¬
+#facs_145_r4l17 ,
+#facs_145_r4l18 20
+#facs_145_r4l19 an getraydt in Unseren Landen befind¬
+#facs_145_r4l20 ermasen, daß der preis deßelben nicht die
+#facs_145_r4l21 7
+#facs_145_r4l22 nur sehr wohlfeil, sonder auch wenig abgang
+#facs_145_r4l23 und Debite seye; damit nun Unsere Amuth
+#facs_145_r4l24 leuthe, Bürger, und angehörige mehrers
+#facs_145_r4l25 zur lösung, und Ihrer häufigen Frucht abkommen
+#facs_145_r4l26 men mögend. haben Wir beyso bekanten
+#facs_145_r4l27 umbständen der Zeith, für dißmahl, und biß
+#facs_145_r4l28 décret des
+#facs_145_r4l29 auf weitere Verordnung, Unsere Ehevorige
+#facs_145_r4l30 Mandat, wordurch die veräußerung hie¬
+#facs_145_r5l1 4
+#facs_146_r3l1 ländischen getraydts verbotten, wider auß-
+#facs_146_r3l2 ben, zu mahlen hiemith bewilligen wollen, daß
+#facs_146_r3l3 mänglich freystehen solle, von seinem getreydt
+#facs_146_r3l4 an Ußere Orth zu verkauffen, und solches
+#facs_146_r3l5 fest möglich abzustosen; desen Wir sich (gleich)
+#facs_146_r3l6 übrige Ambthleüth 7 und W. Landen: benach¬
+#facs_146_r3l7 richten, zu gleich aber befehlen wollen, diß
+#facs_146_r3l8 Unser Schriben, zu maniglichs verhalt gewoh¬
+#facs_146_r3l9 ter mäsen publicieren zu laßen
+#facs_146_r3l10 Und gleichwie bey disem anlaaß auch geändet wor
+#facs_146_r3l11 den, ob nicht dargegen der Einwürff frömbder
+#facs_146_r3l12 frucht in Unsere Gottmäsigkeit früsch zu ver¬
+#facs_146_r3l13 bieten seyn wolle? Wir aber Unß der, deßen
+#facs_146_r3l14 wegen bereiths außgeschribenen Einsehen
+#facs_146_r3l15 und verordnung erinneret, alß laßendts Wir¬
+#facs_146_r3l16 gegenwärtig lediglich darbey verbleiben, Mesen
+#facs_146_r3l17 zu deren Inhalt nachzuleben wüßen wies;
+#facs_146_r3l18 Bodt mit Dir. Dat. d. 24. Marty 1738.
+#facs_146_r3l19 Ahlen Prof.
+#facs_146_r3l20 Ihme wegen von Schwerinen in den
+#facs_146_r3l21 güeteren beschehenden schadens des
+#facs_146_r3l22 nöthige befehlen,
+#facs_146_r3l23 Schultheiß, und Rath etc.
+#facs_146_r3l24 Auß erhaltene nachricht, daß in dem Ambth
+#facs_146_r3l25 Ahlen viele particularen, denen deßthalb¬
+#facs_146_r3l26 hiervor außgegangenen Ordnungen zu
+#facs_146_r3l27 wider, sich understehen, beith mehrere Schrei¬
+#facs_146_r3l28 zu halten, alß Sie zu hauß, oder im Sommer
+#facs_146_r3l29 auf den Bergen ernehren können, und
+#facs_146_r3l30 dahero solche hin und her laufen laßen
+#facs_146_r3l31 vordurch
+#facs_146_r4l1 2852
+#facs_146_r4l2 wodurch dann, zu allgemeinem schaden
+#facs_146_r4l3 und nachtheil der Oberbeitl. Zehnden, die
+#facs_146_r4l4 güeter, und Feldfrucht verderbt werden,
+#facs_146_r4l5 und da Wir in Betrachtung gezogen
+#facs_146_r4l6 daß in gedeütem Ampt keine grose
+#facs_146_r4l7 wälder, oder zu erhaltung solcher thieren
+#facs_146_r4l8 tüechtige Beiden Sich befinden, daselbige
+#facs_146_r4l9 durch Einen hirten sicher können verhuetet
+#facs_146_r4l10 werden. Habend Wir, zu gäntzlicher hin¬
+#facs_146_r4l11 Dertribung diser unordnung, und völlige
+#facs_146_r4l12 versicherung Jederrmäniglichs ruhiger Besit¬
+#facs_146_r4l13 zung seiner güeteren, gueth befunden, wie
+#facs_146_r4l14 hiemith beschicht, zubefehlen, daß alle dieje¬
+#facs_146_r4l15 ringen, so dergleichen Thier halten wollen
+#facs_146_r4l16 solche bey Sich, oder im Sommer auff den
+#facs_146_r4l17 Bergen, allwohin recht haben, behalten sollen
+#facs_146_r4l18 mit dem Heiteren Verbodt, solche hie und
+#facs_146_r4l19 da lauffen zu laßen, und er was grund
+#facs_146_r4l20 und vorband es auch Immer seyn mag,
+#facs_146_r4l21 sonsten in widerhandlendem Fahl, die über
+#facs_146_r4l22 treckern für das Erste mahl mit schündig
+#facs_146_r4l23 vor das zweyte mahl mit Zehen, und für
+#facs_146_r4l24 das Drucke mahl mit fünffzehen Florin
+#facs_146_r4l25 bueß solten beleget werden, ohne daß die
+#facs_146_r4l26 beambtete befüegt seyen, solche bueß umb
+#facs_146_r4l27 etwas nichteren zu können, sonderen Es
+#facs_146_r4l28 werden im gegentheil selbige bey haben
+#facs_146_r4l29 dem Eydt und Pflicht Hand obhalten, und
+#facs_146_r4l30 selbsten alle mit Ihrem Exempel anderen
+#facs_146_r4l31 vorgehen, bey straaff des ohngehrsambs
+#facs_147_r2l1 Inmasen Wir hierdurch denen Gouver¬
+#facs_147_r2l2 neurs den gewalt ertheilen, diese Unsera
+#facs_147_r2l3 gegenwärtige Ordnung durch träfftigste
+#facs_147_r2l4 mittel und weiß beobachten zu laßen
+#facs_147_r2l5 fahls wider verhoffen kint, oder andern
+#facs_147_r2l6 sich solcher widerhetzen Bürden; Wie
+#facs_147_r2l7 befehlen anbey auch einer jeden gemeine
+#facs_147_r2l8 beydigte auffseher zu bestellen, die daß
+#facs_147_r2l9 ganze Jahr hindurch darauff acht halten,
+#facs_147_r2l10 dehnen dan von den übertreckenen von je
+#facs_147_r2l11 dem gepfändetem Thier Ein Florin nebst
+#facs_147_r2l12 ersatzung daß den Particularen zu gefüeg¬
+#facs_147_r2l13 tenschadens bezahlt werden soll; Nebst
+#facs_147_r2l14 angehembter Betröhung, daß fahls
+#facs_147_r2l15 Die gemeinden disem nicht fleisig nach¬
+#facs_147_r2l16 leben würden, Ihre vorgesetzten hier
+#facs_147_r2l17 rumb verantwortlich seyn, um gestrafft
+#facs_147_r2l18 werden sollen; Welches du hiemith¬
+#facs_147_r2l19 zu maniglichs verhalt von Cantzlin
+#facs_147_r2l20 verlesen, und Jedem Deiner ander¬
+#facs_147_r2l21 beambteten hierten Eine abschrifftung
+#facs_147_r2l22 zustellen zu laßen büßen wirst, da
+#facs_147_r2l23 "mit in Bezeühung der straaf, Sie Sich¬
+#facs_147_r2l24 darnach ohne außnahm der Persohn
+#facs_147_r2l25 richten können etc. Dat. d. 24. Marty
+#facs_147_r2l26 1738.

@@ -1,0 +1,86 @@
+BER.01.001.2754
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 77/77
+# High similarity (>=50%): 72
+# Low similarity (<50%): 5
+# Not found: 0
+#
+#facs_287_r4l1 561.
+#facs_287_r4l2 An Alle & Ambtleuth, freyseibel
+#facs_287_r4l3 und Amman.
+#facs_287_r4l4 Wegen den Wirtschafften, Pinten und
+#facs_287_r4l5 Wyeschencken.
+#facs_287_r4l6 Schultheis und Rath der Statt Bern in
+#facs_287_r4l7 Dieweilen wahrgenommen worden, daß eine
+#facs_287_r4l8 Zeit daher mit Birthen, und Beinaußschen
+#facs_287_r4l9 fen allerley mißbrauch eingerissen, und
+#facs_287_r4l10 unsere alte gute ordnungen von annis
+#facs_287_r4l11 1628. und 1665. und andere nicht beobachtet,
+#facs_287_r4l12 sondern denen zu wider gehandlet wirt, sindt
+#facs_287_r4l13 wir im Verck begriffen, darwider das nötige
+#facs_287_r4l14 Einsachen zu thun, und dem schadlichen übol¬
+#facs_287_r4l15 zu wehren, Inzuwüschen aber damit Jeder¬
+#facs_287_r4l16 mäniglich, was standts er seye sich zu ver¬
+#facs_287_r4l17 halten, vor Kosten und ungelägenheit zu¬
+#facs_287_r4l18 sein Büse, habendt wie vorläuffig diese
+#facs_287_r4l19 Wahrnung ergehen zu lasen gutfunden
+#facs_287_r4l20 sich disen Herbst mit syn zum wider verbaupt
+#facs_287_r4l21 oder außscheinken nicht zu versuchen, es bäre
+#facs_287_r4l22 dann das einer deßen nach gedeuteten ordnungen
+#facs_287_r4l23 befüegt wäre, dan die Zeugen welche der wider
+#facs_287_r4l24 handlen Bürden in gebührende straff vorden ge=
+#facs_287_r4l25 zogen werden, die gleich anderen Ambtleüthen hiemit)
+#facs_287_r4l26 Befolchende, solches zur Nachricht von Cantzlen
+#facs_287_r4l27 verlesen Zolaßen. dar. d. 28. 7bris 1700.
+#facs_287_r5l1 1
+#facs_287_r5l2 72
+#facs_288_r1l1 sonder allerdings zurück wo sie harkommen
+#facs_288_r1l2 gewisen verdindt. Die aber so sich würcklich
+#facs_288_r1l3 biß in vnser land oder auch in die Haubtstatt
+#facs_288_r1l4 ohne vorweisung eines passes hinein practi-
+#facs_288_r1l5 ciert hättend, wollent wir ohne schonen mit
+#facs_288_r1l6 der Trällen für erste, mit ausschmeitzung
+#facs_288_r1l7 aber fürs andere mahl abstraffen laßen,
+#facs_288_r1l8 Harneben dan solt auch veranstalten daß
+#facs_288_r1l9 Jede Kirchen Gemeind us deinem Ambt
+#facs_288_r1l10 fürderlich einen Rodel und Verzeichnuß
+#facs_288_r1l11 ihrer Armen mit nahmen und zunahmen
+#facs_288_r1l12 auch verneinsung wie und wormit sie
+#facs_288_r1l13 ihre armen erhalt indt, eingeben, und hin¬
+#facs_288_r1l14 füro alle Jahr allwegen auf jede ver¬
+#facs_288_r1l15 gegangene Allmusen musterung auf das
+#facs_288_r1l16 nenwe Jahr oder längstens auf liecht meß
+#facs_288_r1l17 mit eingebung der Rodlen im die Allmuhe¬
+#facs_288_r1l18 Cameren also continicieren sollen, acte
+#facs_288_r1l19 d. 11 7bris 1700
+#facs_288_r3l1 7
+#facs_288_r3l2 on,
+#facs_288_r4l1 ennierung oder als auch
+#facs_288_r4l2 An alle E. Ambtleüth, freyseibel
+#facs_288_r4l3 und Amman
+#facs_288_r4l4 Wegen den Wirtschafften, Zinten und
+#facs_288_r4l5 Wyeschencken.
+#facs_288_r4l6 Schultheis mit Rath der Statt Bern und
+#facs_288_r4l7 Dieweilen wahrgenommen worden, daß eine
+#facs_288_r4l8 Zeit daher mit Wirthen, und Beinaußschen
+#facs_288_r4l9 cken allerley mißbrauch eingerißen, und
+#facs_288_r4l10 unsere alte gute ordnungen von annis
+#facs_288_r4l11 1628. und 1665. und andere nicht beobachtet.
+#facs_288_r4l12 sondern denen zu wider gehandlet wirt, sindt
+#facs_288_r4l13 wir im Vorck begriffen, darwider das nötige
+#facs_288_r4l14 Einsechen zu thun, und dem schadlichen übel
+#facs_288_r4l15 zu wehren, Inzwischen aber damit Jeder¬
+#facs_288_r4l16 mänglich, was sindts er seye sich zu ver¬
+#facs_288_r4l17 halten, vor kosten uns ungelägenheit zu¬
+#facs_288_r4l18 sein Büse, habendt wir vorlüuffig diese
+#facs_288_r4l19 Wahrnung ergehen zu laßen gutfunden
+#facs_288_r4l20 sich disen Herbst mit syn zum wider verbauch
+#facs_288_r4l21 oder außscheinten nicht zu versochen, es bäre
+#facs_288_r4l22 dann das einer deßen nach gedeuteten Ordnungen
+#facs_288_r4l23 befuegt wäre, dan die Jenigen welche darwider,
+#facs_288_r4l24 handlen Bürden in gebührende straff beiden ge¬
+#facs_288_r4l25 zogen werden, die gleich anderen Ambtleuth hiemit
+#facs_288_r4l26 befollhende, solches zur Nachricht von Cantzlen
+#facs_288_r4l27 verlesen zolassen. dar. d. 28. 7bris 1700

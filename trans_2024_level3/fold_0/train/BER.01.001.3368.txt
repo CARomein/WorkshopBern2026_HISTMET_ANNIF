@@ -1,0 +1,28 @@
+Law ID: BER.01.001.3368
+Name: Denen Capitlen beyzuwohnen.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_492
+# Matched: 17/17
+# High similarity (>=80%): 17
+# Low similarity (<80%): 0
+# Not found: 0
+#
+#facs_414_r2l14 An Alle St. Ambtleüth,
+#facs_414_r2l15 It. zoffingen und Gottstalt.
+#facs_414_r2l16 Denen Capitlen beyzulohnen,
+#facs_414_r2l17 Schr. und Raht
+#facs_414_r2l18 Wir habend die haltung der Capitle
+#facs_414_r2l19 Auff die gewohnte Zeith Anbefohlen,
+#facs_44_r4l1 79
+#facs_414_r3l2 Bey diesem Anlaß Aber dich hiemit
+#facs_414_r3l3 Ernstmeinend vermahnen wollen, q/ den
+#facs_414_r3l4 selben bey deiner pflicht mit hindansetzun¬
+#facs_414_r3l5 Aller Anderen geschefften beyzuwohnen, Auch
+#facs_414_r3l6 Ohngeschochen handt Obzuhalten, daß nie¬
+#facs_414_r3l7 mand nichts nachgesehen, sondern alle
+#facs_414_r3l8 so der Wichtigkeit, den Actis einge¬
+#facs_414_r3l9 bracht, selbige aber alsobald an Unß
+#facs_414_r3l10 Versendt werden. Datum den
+#facs_414_r3l11 5. May 1722

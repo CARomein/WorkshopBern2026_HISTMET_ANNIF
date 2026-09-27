@@ -1,0 +1,33 @@
+Law ID: BER.01.001.1817
+Name: Ihnen Bulette schicken.
+
+
+# EXTRACTION INFO:
+# Volume: A_I_487
+# Matched: 22/22
+# High similarity (>=50%): 20
+# Low similarity (<50%): 2
+# Not found: 0
+#
+#facs_205_r4l1 An die Weltschen Ambtlüt
+#facs_205_r4l2 Ihnen Bulette schiken
+#facs_205_r4l3 Coll.
+#facs_205_r4l4 Schultheiß undt kl. etc. Zu volg Vnsers vor¬
+#facs_205_r4l5 gehnderet vom 20. biß, Wirstu deme Ambts an¬
+#facs_205_r4l6 gehörigen durch publication verwahret haben
+#facs_205_r4l7 daß keiner ohne Schyn gesunden luffft nacher
+#facs_205_r4l8 damit nun die so er
+#facs_205_r4l9 Genff reisen sollen.
+#facs_205_r4l10 nous
+#facs_205_r4l11 berüehet, solcher zedlen halb kein kosten leiden
+#facs_205_r4l12 müeßindt Gastu bykommende Anzahl ge¬
+#facs_205_r4l13 Truk zur empfachen
+#facs_205_r4l14 Mit dem brückh
+#facs_205_r4l15 solche den Landtschryberen, Predikanten, unndt
+#facs_205_r4l16 der gleichen officiereren in den Gemeinden mit
+#facs_205_r4l17 der Insinuation vnzuehändigen, daß all¬
+#facs_205_r4l18 wagen dem begerenden einer, Mit gesetzung
+#facs_205_r4l19 seines Namens, als ohets von dannen er ist
+#facs_205_r4l20 vnndt daß datums, samt der Vnurschrifft
+#facs_205_r4l21 ohne Kosten ertheilt werde.
+#facs_205_r4l22 Ontg. 27. Septembr. 1667

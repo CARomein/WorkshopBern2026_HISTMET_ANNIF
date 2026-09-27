@@ -1,0 +1,79 @@
+Law ID: BER.01.001.4229
+Name: 
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_501
+# Matched: 67/68
+# High similarity (>=80%): 9
+# Low similarity (<80%): 58
+# Not found: 1
+#
+#facs_121_r2l15 Verordnung zur Wüßenschaft und Verhaltnuß der Ge¬
+#facs_80_r4l9 der Deichsel- Wägen zusenden
+#facs_4_r3l13 Canzley Bern.
+#facs_116_r2l14 Zedel an Mehls die Vier Landgerichts-Vemmen Sie deßen
+#facs_58_r4l5 placcard enthaltene Verordnung zu errichten
+#facs_27_r3l1 49
+# NOT FOUND: Jedel an H. Stiftschaffner. Ihme gleichfahls solche
+#facs_121_r2l15 Verordnung zur Wüßenschaft und Verhaltnuß der Ge¬
+#facs_116_r2l8 Zedel an H. Großweibel und H. Brichtschreiber. Sie
+#facs_193_r4l5 thane Verordnung communicieren.
+#facs_134_r2l14 und Land demmenach sich verhalten, und alle in dieser
+#facs_206_r3l11 Verhalt Eüerer Nachfahren seines Ohrts einschreiben.
+#facs_25_r4l8 in dem Schloß Buch einschreiben laßen werdet. Datl.
+#facs_146_r2l2 an alle Cänzel hiesiger Haubtstadt
+#facs_176_r4l4 dem Siechenhaus von Canzlen zu verlesen, und im Großen
+#facs_107_r4l19 von Canzlen verlesen, und gewohnter Orten anschla¬
+#facs_227_r2l10 bezogen werden.
+#facs_238_r3l22 Verordnung eingeben; Über diß aber
+#facs_171_r4l12 Wir Schultheisz und Rath der Statt und Respubli
+#facs_3_r1l1 Coll
+#facs_193_r4l16 Respublie Bern, Thun kund hiemit; Alsdann Lobl.
+#facs_36_r3l7 von dem Erneuerten Großen, oder so genanten
+#facs_251_r5l4 vom
+#facs_106_r2l10 sondern neben einander gespannet werden, da auch
+#facs_92_r2l1 176.
+#facs_238_r3l6 auch wieder bestätiget werden
+#facs_167_r1l4 No. 22 pag. 9
+#facs_57_r1l1 106.
+#facs_104_r5l8 fentl. verlesen, sondern es auch an den gebon¬
+#facs_25_r2l22 selben die Oberbeitlichen Korn Häuser und er
+#facs_57_r2l12 an gelegen, daß dergleichen Straßen-Räu¬
+#facs_76_r4l4 und anderen damals gethanen vorsorglichen
+#facs_39_r2l18 gefeyret werde. So thun Wir manniglich zu
+#facs_4_r2l11 seyl, und er zweyen mahlen dergestalten mit däusten
+#facs_179_r5l1 per post
+#facs_223_r1l6 runter remediert werden möchte. Wann nun Aus miß¬
+#facs_108_r3l21 und Durchaus zu verruffen, und zu verbieten; wie
+#facs_44_r2l15 Will, daß gegenbärtige Unsere Verord¬
+#facs_34_r2l11 abgestrebt und verbocken haben wollen, weder Eßin
+#facs_211_r4l14 Etat de Zurich, Nos chers et anciens alliés et Confederes,
+#facs_115_r3l15 alle Teutsche H. Amtleuth und Herrschafts-Herren
+#facs_34_r2l10 zu dictieren uns vorbehalten, von nun an gänzlicher
+#facs_144_r5l14 eine dergleichen Beiteljagten in gesammten deren Landen
+#facs_106_r3l8 wider handlende, ohne Nachsehen und Ansehen der
+#facs_80_r2l15 Der daselbstigen verschiedenen vorgesezten dahin
+#facs_115_r3l15 alle Teutsche H. Amtleuth und Herrschafts-Herren
+#facs_252_r3l7 Landes väckerlichen Willen und Meinung hierüber
+#facs_223_r1l6 runter remediert werden möchte. Wann nun Aus miß¬
+#facs_146_r2l12 gen, bestimmten Straffe sich alles Spiehlens an den Sonn- und
+#facs_31_r3l3 welche entstehen könten, wann der gleiche Weber,
+#facs_240_r3l19 Als befehlen Wir ernstlichen allen Schwelle
+#facs_192_r4l17 haben Wir Euch davon die nachricht ertheilen, und
+#facs_120_r3l11 Wir wegen verschiedenen Pferd, und anderen Diebstäffen
+#facs_150_r2l5 benachrichtet worden, daß seit etwas zeits in Unsern Lan¬
+#facs_38_r3l9 Schazgraben, und dergleichen ohnzuläßliche
+#facs_34_r2l11 abgestrebt und verbocken haben wollen, weder Eßin
+#facs_166_r5l14 helstere vorgedachter maßen dem Herren Bricht¬
+#facs_42_r3l2 haben, sonderen befehlen auch andurch maniglich
+#facs_155_r2l6 Wir befehlen demmenach auch allen Unseren Beamteten
+#facs_27_r3l1 49
+#facs_238_r2l5 verschaffet werde, und in Execution der Arbeit, keine
+#facs_155_r2l25 ertheilenden Instruction bey Fertigung und Restraffungen
+#facs_174_r2l23 In kraft gegenwärtigen Reglements, welcher Wie
+#facs_105_r2l7 Verordnungen; welche Wir zu behinderung des
+#facs_177_r3l22 nigliche Nachricht öffentl. von Canzlen verlesen zu las¬
+#facs_211_r4l3 Canzlen verlesen, und gebohnten Orten anschlagen laßen,
+#facs_35_r2l5 alles zu mannglichs Nachricht öffentlich von
+#facs_174_r2l25 und geben den 9ten Juny 1764

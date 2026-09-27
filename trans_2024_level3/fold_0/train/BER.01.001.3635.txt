@@ -1,0 +1,31 @@
+Law ID: BER.01.001.3635
+Name: Ihnen befehlen auf das burgundische Gesindel zeachten.
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_494
+# Matched: 20/20
+# High similarity (>=80%): 19
+# Low similarity (<80%): 1
+# Not found: 0
+#
+#facs_130_r2l1 J. Gerich. Neuw: Morte
+#facs_207_r4l9 Bonmont
+#facs_130_r2l3 vogis
+#facs_130_r2l4 Ihnen besthlen auf das
+#facs_130_r2l5 gehindel zu achten
+#facs_130_r2l6 Schultheiß vnd Raht
+#facs_130_r2l7 Von diesem Amtsmann zu Romain
+#facs_130_r2l8 motiele und Wir berichtet worden, wie
+#facs_130_r2l9 daß die Preisschafft Burgund ton
+#facs_130_r2l10 allerhand vmbgesind angefült
+#facs_130_r2l11 und Herr Wegen eine Marechaussee be¬
+#facs_130_r2l12 200. Maii von dem grand Prevost
+#facs_130_r2l13 Zu deßen Aufsuchung aufgestellet wor¬
+#facs_130_r2l14 den; damit nun dieses loose gesin
+#facs_130_r2l15 mit Aban in Ansere Land ein¬
+#facs_130_r2l16 tringe; daß haben Wir die hie¬
+#facs_130_r2l17 mith befehlen bollen, deiner
+#facs_130_r2l18 seits zu deßen Verhürtung genü¬
+#facs_130_r2l19 same Anstalten vorzubehren
+#facs_130_r2l20 Latus d. 21 Aug. 1731

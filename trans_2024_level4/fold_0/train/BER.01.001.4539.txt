@@ -1,0 +1,862 @@
+Law nr: BER.01.001.4539
+Name: nan
+
+
+# EXTRACTION INFO (facs added by add_facs_to_missing.py):
+# Volume: A_I_508
+# Matched: 851/851
+# High similarity (>=80%): 805
+# Low similarity (<80%): 46
+# Not found: 0
+#
+#facs_24_r1l2 Colls
+#facs_42_r3l10 An alle
+#facs_43_r2l2 W. Herren Amtleut, Item Arlen, Sep.
+#facs_43_r2l3 Denen Desserteur von der Garnison zu
+#facs_43_r2l4 Genf die Montur und Armatur zu
+#facs_43_r2l5 Händen der Republ. Genf abzunemen
+#facs_43_r2l6 Schultheit Räth und Bürger
+#facs_3_region_1627936339514_16l1 1
+#facs_43_r2l8 hat zwar der lobur Rath zu Genf, bey
+#facs_43_r2l9 Aus um die Ernenerung, der Wischen
+#facs_43_r2l10 Unseren Regiments Vorfahren und dieser
+#facs_43_r2l11 Resublik der Soldaten ihrer Garnison
+#facs_43_r2l12 halb in Ao. 1731. errichteten convention
+#facs_43_r2l13 das Ansuchen gemacht; Aus wichtigen bey
+#facs_43_r2l14 Uns vorwaltenden Bedenken aber, haben
+#facs_43_r2l15 Wir dazu einzuwilligen nicht gut gefund¬
+#facs_43_r2l16 bohl aber lobem Rath zu Genf zu
+#facs_43_r2l17 Bezeugung Unserer gegen denselben Gegenden
+#facs_43_r2l18 freund nachbarlichen Neigung und guten
+#facs_43_r2l19 Gesinnungen, überschreiben laßen; daß
+#facs_43_r2l20 Wir in samtl. Unseren W. Landen /: wie
+#facs_43_r2l21 hiemit gegen Euch und übrige daherige
+#facs_43_r2l22 Amtleut beschieht :/ die Befehle ergehen
+#facs_43_r2l23 laßen werden, daß die aus der Garnison
+#facs_43_r2l24 von Genf ausreissenden, und in Unsere
+#facs_43_r2l25 Lande sich flüchtenden Soldaten auf entdek¬
+#facs_53_r8l10 e
+#facs_8_r7l2 29.
+#facs_43_r4l2 angehalten- und ihnen die allenfalls
+#facs_43_r4l3 auf sich habende Armatur und Montur
+#facs_43_r4l4 zu Handen der Republik Genf abgenommen:
+#facs_43_r4l5 so fort dann selbige wieder erlaßen,
+#facs_43_r4l6 werden. Welchemnach Ihr Euch zu
+#facs_43_r4l7 verhalten laßen, und demnach nicht nur
+#facs_43_r4l8 gegenwärtiges Schreiben zu Euerer um
+#facs_43_r4l9 füerer Amts Nachfahren Nachricht und
+#facs_43_r4l10 Verhalt in den Schloßbücheren einschreiben
+#facs_43_r4l11 laßen- sondern auch die hiezu nöthigen
+#facs_43_r4l12 Anstalten vorkehren berdet. Datl. den 25
+#facs_43_r4l13 Juny 1783
+#facs_83_r3l6 en
+#facs_42_r3l10 An alle
+#facs_43_r4l15 Teutsch und welsche Herren Amtleut 4. Städt
+#facs_43_r4l16 frey Weibel und Ammon, dem an den Herren
+#facs_43_r4l17 Amtsmann der Oberen und Unteren freyen
+#facs_43_r4l18 Ämteren und Baden, Item Schwarzenburg
+#facs_43_r4l19 nue Grandson, Sep
+#facs_22_region_1633454553220_2895l3 Auf den gewesenen Land Mayor Müller,
+#facs_43_r4l21 aufs frische zu achten.
+#facs_111_r1l23 Uns
+#facs_57_r3l11 Schultheis und Rath
+#facs_43_r4l24 zuverlässige Bericht erstattet worden,
+#facs_43_r4l25 daß Unser Burger der gebesene Landmayor
+#facs_43_r4l26 Rudolf Müller von Amstoldingen /: welcher
+#facs_8_r5l1 30
+#facs_44_r2l1 wegen der für den englischen Dienst,
+#facs_44_r2l2 in Ost Indien von J.H. Eskine angestelten
+#facs_44_r2l3 Verbungen, sich der Übertreitung Unserer
+#facs_44_r2l4 wieder die ohnavomerten Dienste obwaltende
+#facs_44_r2l5 Soz- und Ordnungen schuldig gemacht, und
+#facs_44_r2l6 daher ferndrigen Jahrs von aus auf
+#facs_44_r2l7 sehen Jahre aus hiesigen Mediat um
+#facs_44_r2l8 Imediat Landen, so wie auch aus
+#facs_44_r2l9 gesamt lobl. Eid großschafft verbiesen,
+#facs_44_r2l10 worden :/ sich dessen ohngeacht hin und
+#facs_44_r2l11 wieder bliben laße.
+#facs_44_r2l12 Nun tragen Wir Euch (wie bereits
+#facs_44_r2l13 lest verflossenen Jahrs beschehen :/ anmit
+#facs_44_r2l14 nochmahlen befehlich auf, genaue Acht
+#facs_44_r2l15 in Eüerem Amt auf ihne bestellen-
+#facs_44_r2l16 und betreffenden falls ihne gefängl.
+#facs_44_r2l17 einsehen zu laßen, und des allfälligen
+#facs_44_r2l18 verhaffts Uns alsogleich zu fernerer
+#facs_44_r2l19 Verordnung zu berichten. Bott mit
+#facs_44_r2l20 Euch. Dat. den 1. July 1 L83.
+#facs_56_r2l1 Colle
+#facs_44_r4l1 81
+#facs_23_region_1633454616028_2913l1 An
+#facs_44_r4l3 alle deutsch und welsche Herren Amt¬
+#facs_274_r4l4 leut; 4. Städt, Freyweibel und Amam
+#facs_44_r4l5 denn an die Herren Amtläut zu
+#facs_44_r4l6 Murten und Tscherliz, an Stathalter
+#facs_44_r4l7 zu Brandstan, und Landschreiber zu
+#facs_44_r4l8 Schwarzenburg, wie auch Herren Landvogt
+#facs_44_r4l9 zu Baaden, Sep:
+#facs_44_r4l10 Bätag auf den 4. 7bris angesetzt.
+#facs_44_r4l11 Schultheiß und Raths Auf Dostag
+#facs_44_r4l12 den 4. Herbstmonat nächstkönftig.
+#facs_44_r4l13 ist von einer lobl. erangeln Eidgnös¬
+#facs_44_r4l14 schaft einen allgemeinen Fast-Bus
+#facs_44_r4l15 Bädt- und Dankstagungs Tag angesetzt
+#facs_44_r4l16 worden. Damit nun derselbe auf
+#facs_44_r4l17 eine angemeßene Weise in Unseren
+#facs_44_r4l18 Landen öfentlich verbündet werde,
+#facs_44_r4l19 haben Wir gut befunden, beygehende
+#facs_44_r4l20 Publikation verfaßen und in Druk
+#facs_44_r4l21 beförderen zu laßen. Hievon über¬
+#facs_44_r4l22 senden Wir Euch eine hinlängliche
+#facs_44_r4l23 Anzahl Exemplar, um jedem Pfarrer
+#facs_44_r4l24 in Eüerem Amt fördersamst ein Doppel
+#facs_44_r4l25 mit dem Befehl zustellen zu laßen,
+#facs_44_r4l26 Diese Publibation ohnfehlbarlich Montag
+#facs_45_r1l1 82
+#facs_28_r4l1 Coll
+#facs_45_r3l1 Morgens den 24. Augstmonat vor¬
+#facs_45_r3l2 der Predig von der Canzel zu ver¬
+#facs_45_r3l3 lesen. Wie Wir Ausdann verlaßen,
+#facs_45_r3l4 daß diesem Unserem Willen ein Ge¬
+#facs_45_r3l5 nügen geschehe. Dat. d. 14. July 1783
+#facs_83_r3l6 en
+#facs_45_r3l7 Nydau. Ihr werdet auch veranstalten
+#facs_45_r3l8 daß dieser Bütag gelohnter müßen,
+#facs_45_r3l9 in dem Münsterthal verbündet und ge¬
+#facs_45_r3l10 feiret werde.
+#facs_235_r7l10 Fraubrunnen, Buren und Landshut,
+#facs_45_r3l12 Ihnen wegen des Bucheggbergs gleiches.
+#facs_45_r3l13 auftragen.
+#facs_21_region_1633454506260_2871l1 Un
+#facs_45_r3l15 Königsfelden. Dabey Ihr auch wegen
+#facs_45_r3l16 Gebistorf und Birmistorf das nöthige
+#facs_45_r3l17 Zu feyerung dieses Tags anordnen beedet.
+#facs_31_r5l15 Publication
+#facs_64_r2l8 Wir Schultheiß und Rath
+#facs_146_r2l2 der Stadt und Republik Bern, ent¬
+#facs_45_r3l21 Unseren lieben und getreuen Bürgeren
+#facs_45_r3l22 und Angehörigen zu Stadt und Lan¬
+#facs_45_r4l1 83
+#facs_45_r4l2 Unseren gnädigen und geneigten Willen,
+#facs_282_r5l8 und geben ihnen dabey zu vernemmen.
+#facs_45_r4l4 daß Wir gemeinschaftlich mit den
+#facs_176_region_1633454865069_2955l8 übrigen Evangelischen Ständen der
+#facs_45_r4l6 Eid genoßschafft, einen allgemeinen Fast¬
+#facs_45_r4l7 Buß-Bät- und Danksagungstag, anzusehen
+#facs_45_r4l8 und auszuschreiben, beschloßen haben,
+#facs_45_r4l9 auf Dostag den 4ten Herbstmonat nächst¬
+#facs_45_r4l10 könftig.
+#facs_45_r4l11 So gewiß eine dankbare Frönnigkeit
+#facs_45_r4l12 den Segen Bodtes, einem Volb zu
+#facs_45_r4l13 befestigen fähig ist, eben so gewiß wird
+#facs_45_r4l14 dem ganzen Vatterland nichts ersprieslicher
+#facs_45_r4l15 seyn, als eine gefühlvolle und andächtige
+#facs_45_r4l16 Feyer dieses Tages; Wir Collen dem
+#facs_45_r4l17 nach mänglich aus landes välterlicher Liebe
+#facs_45_r4l18 alles Ernstes vermahnt haben, zugleich
+#facs_45_r4l19 mit uns diesen bestimten Tag Unsern
+#facs_45_r4l20 Gott bürdig zu heiligen; Aus da,
+#facs_45_r4l21 leider! öfterer Mißbrauch der götlichen
+#facs_45_r4l22 Bnaden, Bleichgültigkeit, Leichtstin,
+#facs_45_r4l23 manigfaltige Aussichbeifungen, und so
+#facs_45_r4l24 viele andere zu Stadt und Land einge¬
+#facs_45_r4l25 rißene uns herschende Sünden, uns mit
+#facs_45_r4l26 Recht zu förchten machen, der Herr
+#facs_46_r1l1 84.
+#facs_46_r2l1 werde, in 3 oude werden, unerfort zu
+#facs_46_r2l2 segnen, und seine geistlichen und leiblichen
+#facs_46_r2l3 Wohlthaten imer über ein sorgenloser
+#facs_46_r2l4 und undankbares Volk auszubreiten;
+#facs_46_r2l5 so laßet uns seinem Ernst zuvorkommen,
+#facs_46_r2l6 mit ungeheinhalten Demuth, mit herh¬
+#facs_46_r2l7 licher Buße, mit Blauben, mit Gebet
+#facs_46_r2l8 ob es den Herren noch jameren möchte
+#facs_46_r2l9 seiner Volks! Von fernet Warnet und
+#facs_46_r2l10 schon das Gerücht seiner Gerichten durch
+#facs_46_r2l11 schrebliche und zerstörende Erdbeben bei
+#facs_46_r2l12 anderen Völberen, indem uns seine Lang¬
+#facs_46_r2l13 muth unverdient erhält, die traurigen
+#facs_46_r2l14 Ahndungen des Gewißens, bey einer be¬
+#facs_46_r2l15 sonderen und außerordentlichen Beschaffenheit
+#facs_46_r2l16 unser Luft hat der Erbarmer noch nicht
+#facs_46_r2l17 in seinem zorn wirklich gemacht, und ist
+#facs_46_r2l18 gleich unser Land hier und da mit
+#facs_46_r2l19 schberen Bebitteren heimgesucht worden,
+#facs_46_r2l20 was war es, gegen das, so der Herr
+#facs_46_r2l21 zum Verderben hätte thun bönen. Das
+#facs_46_r2l22 er würklich an vielen Orten außer,
+#facs_46_r2l23 unseren Grenzen gethan, und was auch
+#facs_46_r2l24 wir durch angehäufte Schulden verdienet,
+#facs_46_r2l25 hädten. Mitten in seinen Züchtigungen
+#facs_187_r2l23 s
+#facs_46_r3l2 fühlen wir noch den nachsichtigen um¬
+#facs_46_r3l3 gütigen Vatter; dem größeren Theil
+#facs_46_r3l4 hat er verschont, und ein unverdienter
+#facs_46_r3l5 Bergen fast im ganzen Land, erfüllet
+#facs_46_r3l6 unser Herz mit Hofnung und mit Freude
+#facs_46_r3l7 dies alles erheischet Empfindungen; das
+#facs_46_r3l8 fordert dank nicht nur des Mundes, sondern
+#facs_46_r3l9 eines godtgefälligen Wandels, der aus
+#facs_46_r3l10 einem gerührten unfrichtigen Herzenfließet,
+#facs_46_r3l11 das seyen unsere Gelübde an diesem
+#facs_46_r3l12 hohen feirlichen Tage, das die würdige
+#facs_46_r3l13 Vorbereitung unsers Herzens auf die
+#facs_46_r3l14 feier des heil. Abendmahls, uns die
+#facs_46_r3l15 Erfüllung derselbigen das wichtige Geschäfts¬
+#facs_46_r3l16 unsers ganzen zukünftigen Lebens;
+#facs_46_r3l17 damit Stadt und Land noch ferners von
+#facs_46_r3l18 ihrem Gort gesegnet bleiben.
+#facs_46_r3l19 zu mehrerer Anständigkeit und Ver¬
+#facs_46_r3l20 meidung aller möglichen Uergerniß,
+#facs_46_r3l21 befehlen Wir noch hulezt, daß so wohl
+#facs_46_r3l22 an dem heil. Bädtag selbst, als den Tag
+#facs_46_r3l23 vorher, alle Wirthshäuser und Pintenschenb.
+#facs_46_r3l24 für Jedermann, ausgenommen für Reistende
+#facs_46_r3l25 verschloßen seyn.
+#facs_46_r3l26 Der Gut des Seegens liebe selbst
+#facs_10_r3l1 36
+#facs_56_r2l1 Colle
+#facs_47_r3l1 Unsere wollgemeinten Anstaltungen
+#facs_47_r3l2 zu seiner heiligen Ehre, unserer Glük
+#facs_47_r3l3 seeligkeit und dem Wohl des Batterlandes.
+#facs_47_r3l4 Geben den 14 July 1783
+#facs_65_r3l5 Canzley Bern.
+#facs_47_r3l6 Traduction.
+#facs_38_r2l6 Nous L'Avoyer et conseil de la
+#facs_47_r3l8 Ville et Republique de Berne, assurons
+#facs_47_r3l9 tous Nos chers et feaux Citoyens et
+#facs_47_r3l10 sujets de notre gracieuse affection et bien
+#facs_47_r3l11 veillance paterrelle, et par les Presentes
+#facs_60_r4l17 favoir faisons par les présentes.
+#facs_47_r3l13 Que de concert avec les louables Cantons
+#facs_47_r3l14 Evangeliques, Nous avons arrêté de célébrer
+#facs_47_r3l15 et de faire publier un jour solennel de
+#facs_47_r3l16 jeûne de penitence, de prières & d'actions
+#facs_47_r3l17 de graces, fixe au jeude 4e de Septembre
+#facs_47_r3l18 prochain.
+#facs_47_r3l19 justement persuadés, qu'une sincere et
+#facs_47_r3l20 ardente dévotion, animée d’une vive reconnoist
+#facs_47_r3l21 sance, sera toujours le vrai moyen d'attire
+#facs_47_r3l22 les bénédictions du Très-haut sur une
+#facs_47_r3l23 nation et sur un Etat, nous ordonnons
+#facs_47_r3l24 en conséquence à tous Nos chers & feaux
+#facs_54_r7l4 l'
+#facs_47_r4l2 Citoyens, Sujets & Ressortissants dans
+#facs_47_r4l3 toutes les terres de notre Domination, de
+#facs_47_r4l4 se préparer pour ce jour solennel, et de la
+#facs_47_r4l5 élébrer avec nous d'une maniere assortie
+#facs_47_r4l6 à la Sainteté & à la majesté de l'etre
+#facs_47_r4l7 suprême.
+#facs_47_r4l8 On n'a que trop lieu de craindre, que
+#facs_47_r4l9 l'abus réitéré des bienfaits de Dieu,
+#facs_47_r4l10 l'indifference pour son culte & tant d'autres
+#facs_47_r4l11 vices qui se multiplient chaque jour dans les
+#facs_47_r4l12 Villes et a la Campagne, ne forcent enfin
+#facs_47_r4l13 le tout Puissant, qui a les yeux trop puis
+#facs_47_r4l14 pour voir le mal, à ne plus répandre ses
+#facs_47_r4l15 biens temporels et spirituels sur un
+#facs_47_r4l16 peuple qui les paye de la plus noire
+#facs_47_r4l17 ingratitude, c'est pourquoi nous vous
+#facs_47_r4l18 exhortons tous et un chacun, de prévenu
+#facs_47_r4l19 avec nous les redoustables effets de la
+#facs_47_r4l20 vengeance divine, par une humilité
+#facs_47_r4l21 profonde, par une foi vive et un sincere
+#facs_47_r4l22 repentance qui produisent un vrai amen
+#facs_47_r4l23 dement, et le Père des misericordes aura
+#facs_47_r4l24 compasion de son peuple
+#facs_47_r4l25 Ces horitables Tremblemens de terre qui
+#facs_47_r4l26 ont jetté l'épouvante dans d'autres pays
+#facs_48_r1l1 88
+#facs_48_r2l1 et je sois fait sentir sur nos frontières.
+#facs_48_r2l2 les tristes présages que se sont formés
+#facs_48_r2l3 nos consciences allarmés à la vue de
+#facs_48_r2l4 que que Thos d'etra ordinaire dans l'air
+#facs_48_r2l5 Ces drages, qui ont ravagé quelques disticces
+#facs_48_r2l6 de notre demination, font assez comprendre
+#facs_48_r2l7 avec quelle feuille la juste de Dieu auroit
+#facs_48_r2l8 pu nous châtier, si sa patience n'avait
+#facs_48_r2l9 pas suspendu son bras et arreté le cours
+#facs_48_r2l10 de ses jugements et il n'auroit frappé que
+#facs_48_r2l11 des coupables plus ou moins; mais au lieu
+#facs_48_r2l12 de faire sentir la rigueur de ses fléaux
+#facs_48_r2l13 à tous les habitans des terres de notre
+#facs_48_r2l14 domination, a Dieu plein de bonté à versé
+#facs_48_r2l15 en abondance ses bénédictions sur notre
+#facs_48_r2l16 Pays; au sein d'une paix douce et cons¬
+#facs_48_r2l17 tante nous voyons nos campagnes se cou-
+#facs_48_r2l18 vrir d'une Moisson assez riche, & nous
+#facs_48_r2l19 presenter une recolte assez abondante.
+#facs_4_r4l1 3.
+#facs_48_r2l21 nous jouissons de la liberté, et tous les
+#facs_48_r2l22 secours de la Religion nous sont abondament
+#facs_48_r2l23 fournis. C'est pourquoi nous vous extractons
+#facs_48_r2l24 encore une fois très-férieusement, de vous
+#facs_48_r2l25 approcher de Dieu avec nous dans notre
+#facs_48_r2l26 Jour de Jeune, par des actions de graces
+#facs_32_r5l1 59
+#facs_48_r3l2 Et par une vie entiere de reconnoissance
+#facs_48_r3l3 et de sainteté, après avoir deja fait
+#facs_48_r3l4 une bonne Communion, & nous preparant
+#facs_48_r3l5 à communier encore dignement, afin que
+#facs_48_r3l6 Nous ayons part aux fruits des souffrances
+#facs_48_r3l7 et de la Mort de notre Sauveur, et
+#facs_48_r3l8 que notre Dieu continue à notre chere
+#facs_48_r3l9 Patrie sa protection & ses faveurs
+#facs_48_r3l10 Et pour que cette solemnité soit
+#facs_48_r3l11 célébreé avec la plus grande decence
+#facs_48_r3l12 et la dévotion la plus respectueuse, nous
+#facs_48_r3l13 voulons et ordonnons, que ce jour la &
+#facs_48_r3l14 celui qui doit le précéder tous les fabarets,
+#facs_48_r3l15 Tavernes et autres lieux où l'on vend du
+#facs_48_r3l16 vin, soient fermes pour tout le monde,
+#facs_48_r3l17 excepté pour les voyageurs.
+#facs_48_r3l18 Dieu veuille rendre efficaces Nos inten
+#facs_48_r3l19 tions paternelles, les bénir et les faire
+#facs_48_r3l20 servir à sa gloire et au bien de notre
+#facs_48_r3l21 patrie, que ce jour de jeune soit pour
+#facs_48_r3l22 tous un jour de conversation, d'amendement.
+#facs_48_r3l23 et de bénédiction
+#facs_48_r3l24 Donné ce 14e Juillet 1783
+#facs_48_r3l25 Chancellerie de Berne
+#facs_49_r1l1 90
+#facs_56_r2l1 Colle
+#facs_23_region_1633454616028_2913l1 An
+#facs_49_r3l2 die Herren Amtleut zu Fraubrunnen,
+#facs_49_r3l3 Land & Hut. Burgdorf, Brandis, Trachselbald,
+#facs_49_r3l4 Dumis Cals, Diguau, Bipz, Hangen,
+#facs_49_r3l5 Aarhangen, Narburg und Lenjburg, Sep.
+#facs_49_r3l6 Ihnen wird ein Project zu Verhinderung der
+#facs_49_r3l7 Holzveräußerung zugesandt, und ihre Bemerkung
+#facs_49_r3l8 daruber abgefordert
+#facs_49_r3l9 Schultheiß und Raths die so sehr
+#facs_49_r3l10 überhans nemmende Holzveräußerung aus
+#facs_49_r3l11 hiesigen Landen, welche besonders durch
+#facs_49_r3l12 die Flüße, so auf der Einen uns der
+#facs_49_r3l13 Aar das Land hinunter spediert werden,
+#facs_49_r3l14 bewegen mit solchem Landesschädlichen
+#facs_49_r3l15 Übel so weit möglich den gebührenden
+#facs_49_r3l16 Inhalt zu thun, und in dieser Absicht
+#facs_49_r3l17 haben Wir Unserer verordneten deutschen
+#facs_49_r3l18 Holz Cammer aufgetragen, Uns hierüber
+#facs_49_r3l19 ihre gutachtliche Gedanken Projekts¬
+#facs_49_r3l20 weise zu hinterbringen; damit auch
+#facs_49_r3l21 Unsere Landes vädterliche Absicht desto
+#facs_49_r3l22 beßer erhielt werde, finden wir gut,
+#facs_49_r3l23 sothanen Prägebt euch mit dem Befolch
+#facs_49_r3l24 zu communicieren, denselben in genaue
+#facs_49_r3l25 Betrachtung zu ziehen, und Euere all¬
+#facs_100_r2l1 soll.
+#facs_162_r1l1 913.
+#facs_49_r5l2 allfällig darüber machende Bemerkungen
+#facs_49_r5l3 in margine beyzufügen, und so dann
+#facs_49_r5l4 den Projekt mit möglichter Beförderung
+#facs_49_r5l5 wieder zu unseren Handen an Unser
+#facs_49_r5l6 bestelte Canzley gelangen jed laßen.
+#facs_49_r5l7 Wie zu thun, Dat. d. 15ten Aug. 1783
+#facs_49_r5l8 Project
+#facs_49_r5l9 einer in drub auszugebenden Besordnung
+#facs_49_r5l10 so obigen Herren Amtleuten communiciret worden,
+#facs_21_region_1633454511108_2874l1 Schultheiß und Raths
+#facs_49_r5l12 zu Verhinderung der Holz Ausfuhr¬
+#facs_49_r5l13 "welche insonderheit die Einen Himb¬
+#facs_49_r5l14 seit einiger Zeit stark betrieben wird,
+#facs_49_r5l15 haben Wir nötig gefunden, zum beste
+#facs_49_r5l16 Unserer lieben uns getreuen Angehörigen
+#facs_49_r5l17 folgende Verordnung zu machen.
+#facs_49_r5l18 Von allem aus soll für einliches
+#facs_49_r5l19 „Holz“ bis Art es immer seyn, so
+#facs_49_r5l20 aus unserer Todtmäßigkeit möchte
+#facs_49_r5l21 geführt werden, zu keinen Zeiten
+#facs_49_r5l22 die Bewilligung anderst als von
+#facs_49_r5l23 „Uns aus erteilt werden können,
+#facs_49_r5l24 1° Coll Niemann gesta Aet seyn,
+#facs_50_r1l1 92
+#facs_50_r2l1 einiges Holz. Was Namens es immer
+#facs_50_r2l2 haben mag, die Emmen oder Unren
+#facs_50_r2l3 schrieb zu flößen, man habe dann
+#facs_50_r2l4 dazu die erforderliche Patente erhalten.
+#facs_50_r2l5 2. diese Patente soll vom demjenigen
+#facs_50_r2l6 Amtsmann erteilt werden, aus deßen
+#facs_50_r2l7 Amt das Holz geführt wird. Darüber
+#facs_50_r2l8 soll die controlle geführt, und nachdem
+#facs_50_r2l9 Art: 6 confrontiert werden.
+#facs_50_r2l10 3. In derselben soll jeweilen
+#facs_50_r2l11 angemerkt werden, der Nahme des
+#facs_50_r2l12 Käufers und des Verkaufers, die
+#facs_50_r2l13 Quantität und Qualitäts das Holzes,
+#facs_50_r2l14 und der Ort seiner Restimmung, wie
+#facs_50_r2l15 viel auch von jedem Ort soll aus¬
+#facs_50_r2l16 geladen werden.
+#facs_50_r2l17 P. bey jeder Zollstädte soll
+#facs_50_r2l18 das Holz gehörig consignirt, und
+#facs_50_r2l19 in der Patent jeleilen die Qualität
+#facs_50_r2l20 und Quantität des Holz angemerkt
+#facs_50_r2l21 werden, wozu diese bey ihrer Eids¬
+#facs_50_r2l22 pflicht anzuhalten.
+#facs_50_r2l23 5° Soll so oft das Holz unter¬
+#facs_50_r2l24 „begen ausgeladen - und in Unseren
+#facs_50_r4l1 93
+#facs_50_r4l2 Landen verkauft wird, so oft soll
+#facs_50_r4l3 solches durch das erforderliche
+#facs_50_r4l4 Adestat, so von beeidigten Persohnen
+#facs_50_r4l5 auszufertigen ist, gehörig bescheiniget
+#facs_50_r4l6 und angemerkt werden, wie viel ver¬
+#facs_50_r4l7 kauft worden und Gem.
+#facs_50_r4l8 6° Ist das ganze Flos ausgeführt
+#facs_50_r4l9 und verkaufft, so soll derflößer
+#facs_50_r4l10 oder der dem Holz gehört hat,
+#facs_50_r4l11 gehalten seyn, in Zeit von 14. Tagen
+#facs_50_r4l12 die Patente denigenigen Amtmann wieder
+#facs_50_r4l13 zuzustellen, von dem er sie er¬
+#facs_50_r4l14 halten hat; welcher sowohl mit
+#facs_50_r4l15 der Consignes der Zollner, als mit
+#facs_50_r4l16 den Zeugfonien des verkaufften Holzes
+#facs_50_r4l17 sollen confrontiert werden. Liefert er
+#facs_50_r4l18 das Patent nicht ein, so soll er
+#facs_50_r4l19 als ein Holzverausseren angesehen
+#facs_50_r4l20 und für den Werth das in den
+#facs_50_r4l21 Patent enthaltenen Holzes gebüßt
+#facs_20_region_1633454456012_2846l6 werden.
+#facs_50_r4l23 C. J. komt das verbauffte Holh mit
+#facs_50_r4l24 den gedachten Consignes und Zeugsamen
+#facs_50_r4l25 nicht überein, so soll solches für
+#facs_162_r1l1 913.
+#facs_51_r2l1 sentaüßent gesehen, der flöster
+#facs_51_r2l2 oder den Verkäufer für den
+#facs_51_r2l3 Werth des mangelnden Holzes, und
+#facs_51_r2l4 annoch für 10. lb. für jeden Stok
+#facs_51_r2l5 gebüßt werden.
+#facs_51_r2l6 8. Obiges Holz soll jelveilen so
+#facs_51_r2l7 gezeichnet werden, daß es von dem
+#facs_51_r2l8 Luzernischen gar wohl zu unterscheiden
+#facs_51_r2l9 ist; dieses soll an dem Ort geschehen,
+#facs_51_r2l10 so das Holz ist gekauft worden
+#facs_51_r2l11 oder von denen solches fortgeführt
+#facs_51_r2l12 Wird
+#facs_51_r2l13 9° Das Luzernische Holz soll bey
+#facs_51_r2l14 der ersten Zollstädte consigniert,
+#facs_51_r2l15 uns bey den übrigen mit dem floss
+#facs_51_r2l16 "confrontiert werden, um zu sehen,
+#facs_51_r2l17 ob pläschen den Zollstädten kein
+#facs_51_r2l18 inländisches Holz sey aufgeladen
+#facs_51_r2l19 borden, geschieht solches, so soll es
+#facs_51_r2l20 ohne anders confirment seyn.
+#facs_51_r2l21 "die Zollner sollen bey ihrer Eides¬
+#facs_51_r2l22 pflicht dazu angehalten werden.
+#facs_51_r2l23 10. All dieses soll auch beobachtet.
+#facs_51_r2l24 werden, mit demjenigen Holz so
+#facs_8_r2l3 25
+#facs_51_r3l2 auf der Achse oder sonsten geführt
+#facs_51_r3l3 wird, das Fuhrwerb soll sich keiner
+#facs_51_r3l4 abwegen bedienen, bey Strafe der
+#facs_51_r3l5 Confiscation alles Holzes; bey gleiche
+#facs_51_r3l6 Straffe oder mit dem Werth der
+#facs_51_r3l7 Holzes, sollen auch bey Nachtszeit
+#facs_51_r3l8 keine Flöße passeren. Deßtwegen
+#facs_51_r3l9 sollen beides die Fuhrleut und die
+#facs_51_r3l10 Flößer gehalten seyn, keine Zollstätte
+#facs_51_r3l11 zu passieren, sie haben dann die
+#facs_51_r3l12 Patent vorgewiesen, bey obigen Straf
+#facs_51_r3l13 Diese Verordnung werdet Ihr in
+#facs_51_r3l14 füerem Amt vom Kansel publizierg
+#facs_51_r3l15 jeder Zollstädte ein Doppel davon
+#facs_51_r3l16 zustellen, solche auch gehörig einschreiben
+#facs_198_r5l12 laßen
+#facs_51_r3l18 Pormular der Patente
+#facs_51_r3l19 dieser Zeit Landtagt
+#facs_51_r3l20 habe dem N. N. be¬
+#facs_68_r8l11 zu
+#facs_51_r3l22 williget, folgendes Holz das von
+#facs_51_r3l23 „N: N: zu Sr. N: gebauft worden,
+#facs_51_r3l24 ,, die Einen hinab zu flößen, (oder
+#facs_51_r3l25 auf der Achseit und nach N: N: zu
+#facs_128_r2l20 solle.
+#facs_52_r2l1 bringen, wo er solches dem N: N:
+#facs_52_r2l2 verkauft hat.
+#facs_52_r2l3 „Nemlich / die Quantität und die
+#facs_52_r2l4 "qualität des Holzes).
+#facs_52_r2l5 bemelter Klöser /: oder Fuhrmann/
+#facs_52_r2l6 hat angelobt, diese Ladung ohne
+#facs_52_r2l7 Gefehrde dahin zu lieferen, wie
+#facs_52_r2l8 oben angegeben worden, davon nicht
+#facs_52_r2l9 zu entäußeren, die getreue Einliefer
+#facs_52_r2l10 tung, durch die Empfangscheine von dem
+#facs_52_r2l11 beeidigten des Orts, wohin das Holz
+#facs_52_r2l12 gekommen, zu bescheinen, diese samt
+#facs_52_r2l13 " der Patent in 14 Tagen nach
+#facs_52_r2l14 gemachter Lieferung nur dem Amts¬
+#facs_52_r2l15 mann wieder einzuhändigen. Bey
+#facs_52_r2l16 Strafe der Confiscation und einer
+#facs_52_r2l17 Buß von 10. T. von jedem Stok.
+#facs_53_r10l1 da
+#facs_52_r2l19 An alle T: und W: H: Amtleit Schafner u. Cammer
+#facs_52_r2l20 Rechnungs Ablag bestimt.
+#facs_52_r2l21 Schultheiß und Raths — zu Ablag ewerer
+#facs_52_r3l1 in die deutschen
+#facs_52_r3l2 Herren Amtleut
+#facs_52_r3l3 die Balsche
+#facs_52_r3l2 Herren Amtleut
+#facs_4_r1l1 2
+#facs_52_r4l2 heurigen Amtsrechnung von Unseren für
+#facs_14_region_1633454353484_2800l1 de
+#facs_52_r4l4 geliebten Miträthen denen Herren, welsich
+#facs_119_r2l29 Sekelmeister und Denneren haben Wir
+#facs_52_r4l6 Tag bestimt, auf N. N. den N: N: nächst
+#facs_52_r4l7 könftigen 1784. Jahrs; Ihn werdet
+#facs_52_r4l8 demnach solche auf diesen Tag fertig
+#facs_52_r4l9 halten.
+#facs_52_r4l10 so daß selbige 14. Tag von derselben
+#facs_52_r4l11 Ablag mit den nöthigen Beylagen ver¬
+#facs_52_r4l12 sehen. Unserem Buchhalter in der deutschen
+#facs_52_r4l13 Sekelschreiberey zur Erdaurung eingehändigt
+#facs_52_r4l14 und solche dann auch weiters communiciret
+#facs_52_r4l15 werden könne.
+#facs_119_r3l15 so daß Ihr solche gebührenden Orts
+#facs_52_r4l17 4. Tag vor der Ablag communicieren,
+#facs_52_r4l18 und das einte Doppel davon samt alle
+#facs_52_r4l19 Reylagen, zur Rechtfertigung in die
+#facs_266_r3l10 SevelSchreiberey übergeben könnet
+#facs_52_r4l21 Dath. d. 21. Aug. 1783.
+#facs_53_r1l1 98
+#facs_128_r2l20 solle.
+#facs_93_r7l1 1791
+#facs_119_r2l24 Rechnungs-Ablagen
+#facs_53_r3l2 der teutsch und welschen Herren Amtleuther
+#facs_53_r3l3 pro Anno 1784.
+#facs_53_r3l4 1784.
+#facs_266_r6l3 Januarii
+#facs_53_r3l6 Interlabenhaus
+#facs_4_r13l2 7
+#facs_53_r3l8 Mitwochen
+#facs_53_r3l9 1. St. Johanser Haus
+#facs_53_r3l16 den
+#facs_53_r3l11 5. Frienisperger Haus
+#facs_190_r7l18 Kornhero
+#facs_43_r2l7 8
+#facs_190_r7l20 Buren
+#facs_53_r3l27 Sonstag
+#facs_53_r3l16 den
+#facs_53_r3l17 14. Silberhandlung.
+#facs_53_r3l18 6. Außer Krankenhaus
+#facs_12_r8l1 19
+#facs_120_r2l2 3 Rignau
+#facs_53_r3l21 Montag
+#facs_53_r3l16 den
+#facs_53_r3l23 2 Nidau
+#facs_111_r1l23 Uns
+#facs_53_r3l25 Allmosten Secret.
+#facs_10_r1l1 14
+#facs_53_r9l3 Donstag
+#facs_53_r3l16 den
+#facs_53_r3l29 Buchsen Allmosten
+#facs_53_r3l30 2 Sumis bald.
+#facs_91_r4l8 Laupen
+#facs_53_r3l21 Montag
+#facs_53_r3l16 den
+#facs_12_r8l1 19
+#facs_191_r2l4 5. Zwey stimmen
+#facs_53_r3l36 2 Obersoffen
+#facs_53_r3l37 22th
+#facs_53_r3l16 den
+#facs_53_r3l39 2 Hiblisburg.
+#facs_14_region_1627971805407_36l1 23
+#facs_53_r3l41 Freitag den
+#facs_53_r3l42 3. Aarberg
+#facs_93_r3l24 Käsyn
+#facs_53_r3l44 Montag den
+#facs_136_r3l1 265.
+#facs_118_r7l25 Petterlingen
+#facs_53_r3l47 Freitag
+#facs_192_r5l46 30t
+#facs_6_region_1633454281779_2775l1 d
+#facs_8_r1l1 10
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r4l1 3.
+#facs_4_r7l1 4
+#facs_4_r6l1 5
+#facs_4_r4l1 3.
+#facs_4_r1l1 2
+#facs_4_r1l1 2
+#facs_4_r4l1 3.
+#facs_4_r4l1 3.
+#facs_4_r4l1 3.
+#facs_12_r8l1 19
+#facs_53_r8l1 Interlaben
+#facs_6_region_1633454281779_2775l1 d
+#facs_120_r2l30 2. Unterseen
+#facs_53_r8l4 Trachsellwald
+#facs_53_r8l5 Buchsee
+#facs_53_r8l6 Milder
+#facs_53_r8l7 Hochstadt
+#facs_53_r8l8 Burgdorf.
+#facs_53_r8l9 Landshut
+#facs_4_r7l1 4
+#facs_53_r8l11 Brandis
+#facs_53_r8l12 Oron
+#facs_53_r8l13 Thun Schloß.
+#facs_53_r8l14 thun Schaffnerey
+#facs_53_r8l15 Mushaffen
+#facs_53_r8l16 Fraubrunnen
+#facs_53_r8l17 Thorberg
+#facs_53_r8l18 Wibis
+#facs_53_r8l19 Neuenstadt
+#facs_53_r8l20 Roche
+#facs_267_r2l3 2. Uarburg Schloß
+#facs_191_r9l8 Dito Garnison
+#facs_191_r9l15 Zofingen
+#facs_53_r3l4 1784.
+#facs_53_r3l21 Montag
+#facs_53_r9l3 Donstag
+#facs_53_r3l47 Freitag
+#facs_4_r4l1 3.
+#facs_53_r3l21 Montag
+#facs_53_r3l16 den
+#facs_267_r3l24 Mitwachen
+#facs_53_r9l9 Freytag
+#facs_53_r3l16 den
+#facs_53_r3l21 Montag
+#facs_53_r3l16 den
+#facs_53_r3l41 Freitag den
+#facs_53_r3l8 Mitwochen
+#facs_53_r3l16 den
+#facs_14_region_1633454353484_2800l1 de
+#facs_190_r7l32 denstag
+#facs_3_region_1627936336835_13l2 der
+#facs_53_r11l1 99
+#facs_53_r11l2 february
+#facs_7_r4l1 21
+#facs_191_r11l15 5t
+#facs_4_r3l1 62
+#facs_50_r4l1 93
+#facs_8_r9l1 11
+#facs_4_r10l1 13
+#facs_334_r1l1 1652.
+#facs_190_r7l15 19th:
+#facs_53_r11l11 203
+#facs_8_r2l3 25
+#facs_8_r3l1 26
+#facs_54_r1l1 100.
+#facs_3_region_1627936339514_16l1 1
+#facs_3_region_1627936339514_16l1 1
+#facs_4_r13l2 7
+#facs_4_r4l1 3.
+#facs_8_r1l1 10
+#facs_4_r7l1 4
+#facs_4_r4l1 3.
+#facs_4_r13l2 7
+#facs_4_r4l1 3.
+#facs_53_r2l1 No
+#facs_90_r6l24 Martin
+#facs_54_r5l3 7 Stift.
+#facs_14_region_1633454353484_2800l1 de
+#facs_54_r5l5 St. Johansen
+#facs_4_r7l1 4
+#facs_4_r1l1 2
+#facs_54_r5l8 Frutigen
+#facs_4_r7l1 4
+#facs_120_r3l22 Aarwangen
+#facs_90_r11l14 pferten
+#facs_8_r5l1 30
+#facs_121_r6l11 5. d. Weinschenk
+#facs_54_r5l4 do
+#facs_54_r5l15 Allmozan Direct
+#facs_54_r5l16 Exulanten Kamer
+#facs_93_r4l14 Hangen
+#facs_6_region_1627936574015_66l1 6
+#facs_54_r5l4 do
+#facs_54_r5l20 Frieinsberg
+#facs_8_r1l1 10
+#facs_54_r5l22 Lausanne
+#facs_54_r5l23 Schallenhaus
+#facs_120_r3l38 Erlach
+#facs_11_r6l1 17
+#facs_192_r5l6 Bauamt
+#facs_49_r1l1 90
+#facs_3_region_1627936339514_16l1 1
+#facs_54_r5l30 4 Holzlieferung
+#facs_4_r10l1 13
+#facs_120_r3l44 14. Ziegelverwalter
+#facs_53_r3l4 1784.
+#facs_53_r9l9 Freytag
+#facs_53_r3l16 den
+#facs_53_r3l21 Montag
+#facs_53_r3l16 den
+#facs_267_r3l24 Mitwachen
+#facs_53_r3l16 den
+#facs_53_r3l47 Freitag
+#facs_53_r3l16 den
+#facs_53_r3l21 Montag
+#facs_53_r3l16 den
+#facs_171_r3l24 = mit
+#facs_53_r3l16 den
+#facs_53_r9l3 Donstag
+#facs_53_r3l16 den
+#facs_53_r3l47 Freitag
+#facs_53_r3l16 den
+#facs_53_r3l21 Montag
+#facs_53_r3l16 den
+#facs_54_r9l22 Mitwochen den
+#facs_54_r7l1 febr.
+#facs_16_r11l1 27
+#facs_54_r7l3 Marty
+#facs_3_region_1627936339514_16l1 1
+#facs_9_r6l1 33
+#facs_29_r7l1 53
+#facs_47_r4l1 87
+#facs_54_r7l8 105
+#facs_61_r3l1 115
+#facs_9_r1l1 12.
+#facs_54_r7l11 15.5
+#facs_11_r6l1 17
+#facs_3_region_1627936339514_16l1 1
+#facs_54_r8l2 118 Zeughaus
+#facs_54_r8l3 12. Pulverhandlung
+#facs_68_r8l35 Romainmotier
+#facs_54_r8l5 Biberstein Schloß
+#facs_4_r4l1 3.
+#facs_120_r3l2 Dto Schaffnerey
+#facs_4_r6l1 5
+#facs_54_r8l9 Kaufhaus
+#facs_54_r8l10 Abzug
+#facs_121_r2l7 29 Hertis wyl
+#facs_8_r7l1 28
+#facs_54_r8l14 Aubonne
+#facs_4_r4l1 3.
+#facs_121_r2l8 6. Saanen
+#facs_4_r4l1 3.
+#facs_54_r8l18 3. Uelen
+#facs_4_r1l1 2
+#facs_54_r8l20 Castelen
+#facs_54_r8l21 Königsfelden
+#facs_4_r4l1 3.
+#facs_4_r6l1 5
+#facs_267_r5l18 Schenkenberg
+#facs_54_r8l25 Lenzburg
+#facs_4_r13l2 7
+#facs_54_r8l27 Bonmont
+#facs_4_r6l1 5
+#facs_54_r8l29 Neüs
+#facs_6_region_1627936574015_66l1 6
+#facs_54_r8l31 Rechnungen nach
+#facs_1_r1l2 des
+#facs_267_r5l42 Groß Spithal
+#facs_12_r8l1 19
+#facs_54_r8l35 8 Insel
+#facs_93_r1l1 178
+#facs_53_r9l3 Donstag
+#facs_53_r3l16 den
+#facs_54_r9l4 Fracta
+#facs_53_r3l16 den
+#facs_53_r3l16 den
+#facs_53_r3l21 Montag
+#facs_3_region_1627936336835_13l2 der
+#facs_53_r3l8 Mitwochen
+#facs_53_r3l16 den
+#facs_53_r9l9 Freytag
+#facs_53_r3l16 den
+#facs_190_r7l18 Kornhero
+#facs_53_r3l16 den
+#facs_53_r3l8 Mitwochen
+#facs_53_r3l16 den
+#facs_53_r9l3 Donstag
+#facs_53_r3l16 den
+#facs_53_r9l9 Freytag
+#facs_54_r9l20 reren uns im
+#facs_256_r3l6 J. A.
+#facs_54_r9l22 Mitwochen den
+#facs_54_r10l1 101
+#facs_54_r7l3 Marty
+#facs_7_r2l12 18
+#facs_12_r8l1 19
+#facs_115_r4l1 223.
+#facs_8_r2l2 24
+#facs_8_r3l1 26
+#facs_8_r7l2 29.
+#facs_9_r3l1 31
+#facs_54_r10l10 Aprill
+#facs_4_r4l2 15
+#facs_4_r1l1 2
+#facs_316_r4l16 la
+#facs_54_r10l14 May
+#facs_9_r6l1 33
+#facs_3_region_1627936339514_16l1 1
+#facs_55_r2l1 102
+#facs_56_r2l1 Colle
+#facs_10_r5l2 40
+#facs_53_r3l4 1784.
+#facs_90_r3l1 N°
+#facs_55_r4l4 148 Große Salz Rechnung
+#facs_53_r3l16 den
+#facs_53_r3l21 Montag
+#facs_8_r1l1 10
+#facs_121_r2l23 24. Korn Kammer
+#facs_55_r4l9 5. Taxgelder.
+#facs_9_r1l1 12.
+#facs_171_r3l24 = mit
+#facs_267_r5l54 Schul Sibel
+#facs_4_r4l1 3.
+#facs_55_r4l14 Juny
+#facs_55_r4l15 21. Straßen Rechnung
+#facs_53_r3l8 Mitwochen
+#facs_4_r4l1 3.
+#facs_4_r1l1 2
+#facs_55_r4l19 4. Land saßen Kammer
+#facs_55_r4l20 8 Ohngeld außer Bezirken
+#facs_55_r4l21 do immer Bezirk
+#facs_53_r3l16 den
+#facs_40_r3l1 73
+#facs_53_r3l21 Montag
+#facs_55_r4l25 Stadtwacht
+#facs_55_r4l26 Augusts
+#facs_55_r4l27 Waysenhaus
+#facs_11_r1l1 16
+#facs_55_r4l29 Stadt Ohmgeld
+#facs_53_r3l16 den
+#facs_53_r3l21 Montag
+#facs_55_r4l32 2 Dömpfennung
+#facs_55_r4l33 3. Kirchmäger von Bürgern Montag
+#facs_14_region_1627971805407_36l1 23
+#facs_53_r3l16 den
+#facs_55_r4l36 4 D. Weinschenb
+#facs_95_r4l1 1830
+#facs_55_r4l38 4 Groß All yem
+#facs_3_region_1627936336835_13l2 der
+#facs_53_r3l27 Sonstag
+#facs_55_r4l41 1 Oberhaßlg
+#facs_55_r4l42 An die Herren Amtleut zu
+#facs_55_r4l43 Landshat, Burgdorf, Fraubrumen, Büren,
+#facs_55_r4l44 Hangen, Uarlaugen, Bipp, Aarburg, Tsorberg
+#facs_55_r4l45 Arberg, und Frienisterg, denn p. Gedel an die
+#facs_55_r4l46 Kauzel und Placcard an die Pfeiler
+#facs_55_r4l47 Jags Verbach von L. Stand Solothurn
+#facs_55_r4l48 auf den 8ten 7bris. Hinaus gesetzt
+#facs_311_r3l24 Schultheiß und Rath etc. da lobliche
+#facs_55_r5l1 103
+#facs_55_r5l2 Solothurn gut befunden, in desselben
+#facs_55_r5l3 Battmäßigkeit, die Jags für gegen¬
+#facs_55_r5l4 wärtiger Jahr späther als gewöhnlich,
+#facs_55_r5l5 und benantlichen erst auf Montag den
+#facs_55_r5l6 8. Septembris zu eröfnen, so befehlen
+#facs_55_r5l7 Wir Euch, dieses mit aller Beförderung
+#facs_55_r5l8 zum Verhalt Unserer Bürgeren und
+#facs_55_r5l9 Unterthanen öfentlichen publizieren – und
+#facs_55_r5l10 von Canzeln verlesen zu laßen.
+#facs_55_r5l11 Dötl. d. 21. Aug. 1783.
+#facs_37_r4l2 Un alle
+#facs_55_r5l13 Teutich uns welsche Herren Amtleut, vier
+#facs_218_r4l14 Städt, freyweibel und Ammann. Sep.
+#facs_55_r5l15 Herbstferien ausgeschrieben.
+#facs_55_r5l16 Schultheiß und Rath rt den Anfang
+#facs_55_r5l17 der heurigen Herbstferien haben Wir
+#facs_55_r5l18 gesezt, auf Montag den 15ten Herbst¬
+#facs_55_r5l19 monat nächstkönstig, so daß dieselben
+#facs_55_r5l20 noch gesäzlicher Vorschrift von diesem
+#facs_55_r5l21 Tagen dauren beiden, bis Murtinx
+#facs_55_r5l22 darauf folgend; deßen ihr be¬
+#facs_55_r5l23 richtet werdet, mit Befehl, während
+#facs_55_r5l24 dieser Zeit keine andere dann noth¬
+#facs_54_r10l1 101
+#facs_100_r2l1 soll.
+#facs_56_r3l1 dringende Geschäfte, von uns und
+#facs_56_r3l2 Unsere Dicasteria, Tribunalia und
+#facs_56_r3l3 Cämmeren zu beisten. Datum der
+#facs_56_r3l4 1st 7bris 1783.

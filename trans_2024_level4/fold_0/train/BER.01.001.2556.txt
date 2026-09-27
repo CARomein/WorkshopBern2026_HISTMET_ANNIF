@@ -1,0 +1,43 @@
+BER.01.001.2556
+
+# EXTRACTION INFO:
+# Volume: A_I_490
+# Matched: 34/34
+# High similarity (>=50%): 3
+# Low similarity (<50%): 31
+# Not found: 0
+#
+#facs_47_r2l14 Sie hinleihende Zöll und gleit sindl¬
+#facs_47_r2l15 Das Gleit zu Zoffingen.
+#facs_47_r2l16 der Zoll zu Aarwangen
+#facs_47_r2l17 für zoll zu Wangen.
+#facs_47_r2l18 der Zoll zu Windlispach.
+#facs_47_r2l19 Das Gleit zu Langenthal
+#facs_47_r2l20 der Zoll, zu Grimmenen.
+#facs_47_r2l21 Der Drukzoll zu Darberg.
+#facs_47_r2l22 Der Zoll und gleit zu Rhydauw
+#facs_47_r2l23 Das gehalt und Lenti Hauß zu Hüren.
+#facs_47_r2l24 Der Zoll zu Tsch
+#facs_47_r3l1 0
+#facs_47_r3l2 An die 4. Stätt und Ambtleüht,
+#facs_47_r3l3 Da Statt sind
+#facs_47_r3l4 Sollend auff den Petri achten, und seiner
+#facs_47_r3l5 außgestreückten Schmachschricht nachforschen
+#facs_47_r3l6 Statthalter und Rast der Statt Tarn
+#facs_47_r3l7 Collat. loin
+#facs_47_r3l8 Vnseren V. L. E. der Statt Basel sind wir berichtet worden
+#facs_47_r3l9 Was maßen der wegen vor etwas Jahren in Ihrer Statt Entstan¬
+#facs_47_r3l10 Dener auffruhr beschuldigte und deswegen Verwisene Jacob Heinrich
+#facs_47_r3l11 Petri Ein Famos Schrifft wider sie in Truk außgegeben, und hin und her¬
+#facs_47_r3l12 außgestreuwt habe, Uns anbey ersuchend, den Tractättlinen auch
+#facs_47_r3l13 hinder Vnser Ufortmäßigkeit nachfragen, und im Fahl derselben ge¬
+#facs_47_r3l14 funden werden möchten, Ihnen solche gegen Erstattung des darumb auß¬
+#facs_47_r3l15 gelegten gelts zukommen, wie auch auf gedachten Anthoren wol achten
+#facs_47_r3l16 Und auf betretten denselben Ihnen überlifferen Zelaßen; hierüber
+#facs_47_r3l17 nun wollend wir dir befohlen haben, bey den Buchführeren, Buch¬
+#facs_47_r3l18 binderen und anderen, so mit Verkauffung der Büheren umbgehen,
+#facs_47_r3l19 zu erforschen, ob dergleichen Tractättlin hinder Ihnen anzutreffen
+#facs_47_r3l20 bier ihnen zukünfftiglig zukommen möchten, solchen fahls selbige Ihnen
+#facs_47_r3l21 abzunemen und folgends ins Zeüberschiken, Imgleichem auch auf die
+#facs_47_r3l22 person des Petri genauwachten, auf Entdekung Ihne Einsetzen
+#facs_47_r3l23 zelaßen, und seines verhaffts uns zuverstendigen. Dat. 21. Apr.
