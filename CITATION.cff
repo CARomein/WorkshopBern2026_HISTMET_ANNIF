@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite them as below."
+title: "HISTMET & Annif: From Historical Text to Subject Metadata. Workshop Notebooks"
+type: software
+version: "1.0"
+date-released: "2026-10-01"
+authors:
+  - family-names: Hassenbach
+    given-names: Jona M.
+    affiliation: "University of Bern, Bern, Switzerland"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Karimi
+    given-names: Kamyab
+    affiliation: "University of Twente, Enschede, the Netherlands"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: Romein
+    given-names: C. Annemieke
+    affiliation: "University of Twente, Enschede, the Netherlands"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/CARomein/WorkshopBern2026_HISTMET_ANNIF"
+# doi: "10.5281/zenodo.XXXXXXX"
+# license: "to be added"
+keywords:
+  - automated subject indexing
+  - Annif
+  - clustering
+  - sentence embeddings
+  - early modern normative texts
+  - Policeyordnungen
+  - SKOS
