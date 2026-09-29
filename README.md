@@ -5,7 +5,7 @@ Workshop materials in two parts, the first drawing on the NWO-funded project HIS
 | Part | Notebook | Question | Runtime | |
 |---|---|---|---|---|
 | One | `01_HISTMET_text_length.ipynb` (Kamyab Karimi, C. Annemieke Romein) | Can unsupervised clustering recover subjects, and does text length explain why it fails on short text regions? | T4 GPU, c. 5 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CARomein/WorkshopBern2026_HISTMET_ANNIF/blob/master/01_HISTMET_text_length.ipynb) |
-| Two | `02_Annif_subject_indexing.ipynb` (C. Annemieke Romein, Jona M. Hassenbach) | How well does supervised subject indexing with Annif perform, and what matters more: transcription quality or configuration? | CPU | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CARomein/WorkshopBern2026_HISTMET_ANNIF/blob/master/02_Annif_subject_indexing.ipynb) |
+| Two | `02_Annif_subject_indexing.ipynb` (Jona M. Hassenbach, C. Annemieke Romein) | How well does supervised subject indexing with Annif perform, and what matters more: transcription quality or configuration? | CPU | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CARomein/WorkshopBern2026_HISTMET_ANNIF/blob/master/02_Annif_subject_indexing.ipynb) |
 
 Open the notebooks in the order given; each runs in its own Colab session, so no installation on your own computer is required. To keep your changes, choose *File → Save a copy in Drive* after opening a notebook.
 
