@@ -1,6 +1,6 @@
 # HISTMET & Annif: From Historical Text to Subject Metadata
 
-Workshop materials in two parts, the first drawing on the NWO-funded project HISTMET (HIStorical Themes via METadata), each a self-contained Google Colab notebook. Both use the same corpus: 4,930 early modern normative texts (*Policeyordnungen*) from the City-Republic of Bern (1528–1798), labelled by hand following the classification of the *Repertorium der Policeyordnungen*.
+Workshop materials (Bern, 2026) in two parts, each a self-contained Google Colab notebook. Part One draws on the NWO-funded project HISTMET (HIStorical Themes via METadata); Part Two introduces automated subject indexing with Annif. Both use the same corpus: 4,930 early modern normative texts (*Policeyordnungen*) from the City-Republic of Bern (1528–1798), labelled by hand following the classification of the *Repertorium der Policeyordnungen*.
 
 | Part | Notebook | Question | Runtime | |
 |---|---|---|---|---|
@@ -13,10 +13,20 @@ Open the notebooks in the order given; each runs in its own Colab session, so no
 
 The notebooks sit in the root of the repository. The folder `histmet/` contains the data for Part One (`bern_prepared.csv.gz`) and the expected result figures. The remaining files serve Part Two: `projects.cfg` (the Annif project definitions), `data/` (the Annif vocabularies), the folders `trans_<year>_level<n>/` (transcriptions and hand-assigned labels, split into training and test sets), `results_default/` and `results_optimal/` (reference results), and `visualize_simple.py` (a plotting helper).
 
+## Authors
+
+- Kamyab Karimi, University of Twente, Enschede, the Netherlands ([ORCID 0000-0003-2125-2613](https://orcid.org/0000-0003-2125-2613))
+- Jona M. Hassenbach, University of Bern, Bern, Switzerland ([ORCID 0009-0003-9200-2512](https://orcid.org/0009-0003-9200-2512))
+- C. Annemieke Romein, University of Twente, Enschede, the Netherlands ([ORCID 0000-0003-3682-0126](https://orcid.org/0000-0003-3682-0126))
+
 ## Citation
 
-Please cite this repository via its Zenodo DOI (*to be added*); see also `CITATION.cff`.
+To cite the repository as a whole:
+
+> Kamyab Karimi, Jona M. Hassenbach and C. Annemieke Romein, *HISTMET & Annif: From Historical Text to Subject Metadata. Workshop Notebooks* (version 1.0, 2026), Zenodo, DOI: *to be added*.
+
+Each notebook also gives its own citation in its closing cell. Machine-readable citation metadata is in `CITATION.cff`; GitHub offers it under *Cite this repository*.
 
 ## Licence
 
-*To be added.*
+Released under the MIT Licence; see `LICENSE`.
