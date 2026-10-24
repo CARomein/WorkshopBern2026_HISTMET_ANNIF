@@ -3,23 +3,22 @@ message: "If you use these materials, please cite them as below."
 title: "HISTMET & Annif: From Historical Text to Subject Metadata. Workshop Notebooks"
 type: software
 version: "1.0"
-date-released: "2026-10-01"
 authors:
-  - family-names: Hassenbach
-    given-names: Jona M.
-    affiliation: "University of Bern, Bern, Switzerland"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
   - family-names: Karimi
     given-names: Kamyab
     affiliation: "University of Twente, Enschede, the Netherlands"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0003-2125-2613"
+  - family-names: Hassenbach
+    given-names: Jona M.
+    affiliation: "University of Bern, Bern, Switzerland"
+    orcid: "https://orcid.org/0009-0003-9200-2512"
   - family-names: Romein
     given-names: C. Annemieke
     affiliation: "University of Twente, Enschede, the Netherlands"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    orcid: "https://orcid.org/0000-0003-3682-0126"
 repository-code: "https://github.com/CARomein/WorkshopBern2026_HISTMET_ANNIF"
+license: MIT
 # doi: "10.5281/zenodo.XXXXXXX"
-# license: "to be added"
 keywords:
   - automated subject indexing
   - Annif
